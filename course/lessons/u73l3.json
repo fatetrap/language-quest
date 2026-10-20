@@ -1,0 +1,455 @@
+{
+ "intro_en": "You will learn to describe what you find when you open a parcel, using words like damaged, missing and wrong size. You will also practice the Mongolian pattern -х гэсэн чинь for unexpected discoveries, and the English pattern allow/permit + object + to-infinitive.",
+ "intro_mn": "Та илгээмжээ нээхэд олсон зүйлээ эвдэрсэн, дутуу, буруу размер гэх мэт үгсээр тайлбарлаж сурна. Мөн санаандгүй нээлтийг илэрхийлэх монгол хэлний «-х гэсэн чинь» бүтэц, англи хэлний allow/permit + тусагдахуун + to-infinitive бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "хайрцаг",
+   "en": "box",
+   "pos": "noun",
+   "example_mn": "Хайрцаг маш хүнд байсан.",
+   "example_en": "The box was very heavy.",
+   "mn_latin": "khairtsag"
+  },
+  {
+   "mn": "сав баглаа",
+   "en": "packaging",
+   "pos": "noun",
+   "example_mn": "Сав баглаа нь норчихсон байлаа.",
+   "example_en": "The packaging was soaked.",
+   "mn_latin": "sav baglaa"
+  },
+  {
+   "mn": "эвдэрсэн",
+   "en": "damaged, broken",
+   "pos": "adjective",
+   "example_mn": "Утасны дэлгэц эвдэрсэн байсан.",
+   "example_en": "The phone screen was broken.",
+   "mn_latin": "evdersen"
+  },
+  {
+   "mn": "дутуу",
+   "en": "incomplete, missing",
+   "pos": "adjective",
+   "example_mn": "Захиалгаас нэг бараа дутуу ирсэн.",
+   "example_en": "One item from the order was missing.",
+   "mn_latin": "dutuu"
+  },
+  {
+   "mn": "буруу размер",
+   "en": "wrong size",
+   "pos": "noun phrase",
+   "example_mn": "Надад буруу размерын гутал ирсэн.",
+   "example_en": "I received shoes in the wrong size.",
+   "mn_latin": "buruu razmyer"
+  },
+  {
+   "mn": "задлах",
+   "en": "to unpack, to open up",
+   "pos": "verb",
+   "example_mn": "Би илгээмжээ орой задалсан.",
+   "example_en": "I unpacked my parcel in the evening.",
+   "mn_latin": "zadlakh"
+  },
+  {
+   "mn": "буцаах",
+   "en": "to return",
+   "pos": "verb",
+   "example_mn": "Та бараагаа долоо хоногийн дотор буцааж болно.",
+   "example_en": "You can return the item within a week.",
+   "mn_latin": "butsaakh"
+  },
+  {
+   "mn": "солих",
+   "en": "to exchange, to replace",
+   "pos": "verb",
+   "example_mn": "Тэд надад шинэ бараагаар солиод өгсөн.",
+   "example_en": "They replaced the item with a new one.",
+   "mn_latin": "solikh"
+  },
+  {
+   "mn": "баримт",
+   "en": "receipt",
+   "pos": "noun",
+   "example_mn": "Буцаахын тулд баримтаа хадгалаарай.",
+   "example_en": "Keep your receipt if you want to return it.",
+   "mn_latin": "barimt"
+  },
+  {
+   "mn": "гайхсан",
+   "en": "surprised",
+   "pos": "adjective",
+   "example_mn": "Би бэлэг олоод маш их гайхсан.",
+   "example_en": "I was very surprised to find a gift.",
+   "mn_latin": "gaikhsan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хайрцгийг нээх гэсэн чинь дотор нь юу ч алга байлаа.",
+   "en": "When I tried to open the box, there was nothing inside.",
+   "alt_mn": [
+    "Хайрцгийг нээх гэсэн чинь дотор нь юу ч байсангүй."
+   ],
+   "alt_en": [
+    "I went to open the box and found nothing inside.",
+    "When I opened the box, there was nothing in it."
+   ],
+   "mn_latin": "Khairtsgiig neekh gesen chini dotor ni yuu ch alga bailaa."
+  },
+  {
+   "mn": "Цүнхээ гаргах гэсэн чинь бариул нь тасарсан байлаа.",
+   "en": "When I took out the bag, the handle turned out to be torn off.",
+   "alt_mn": [],
+   "alt_en": [
+    "I went to take out the bag and found that the handle was torn off."
+   ],
+   "mn_latin": "Tsünkhee gargakh gesen chini bariul ni tasarsan bailaa."
+  },
+  {
+   "mn": "Сав баглаа нь маш сайн байсан ч доторх бараа нь эвдэрсэн байсан.",
+   "en": "The packaging was very good, but the item inside was damaged.",
+   "alt_mn": [],
+   "alt_en": [
+    "The packaging was very good, but what was inside was broken."
+   ],
+   "mn_latin": "Sav baglaa ni mash sain baisan ch dotorkh baraa ni evdersen baisan."
+  },
+  {
+   "mn": "Хувцсаа өмсөх гэсэн чинь буруу размер байсан.",
+   "en": "When I tried to put on the clothes, they turned out to be the wrong size.",
+   "alt_mn": [],
+   "alt_en": [
+    "I went to put on the clothes and they were the wrong size."
+   ],
+   "mn_latin": "Khuvtssaa ömsökh gesen chini buruu razmyer baisan."
+  },
+  {
+   "mn": "Дэлгүүр үйлчлүүлэгчдэд битүүмжилсэн барааг нээхийг зөвшөөрдөггүй.",
+   "en": "The shop doesn't allow customers to open sealed items.",
+   "alt_mn": [
+    "Дэлгүүр үйлчлүүлэгчдэд битүүмжилсэн бүтээгдэхүүнийг нээхийг зөвшөөрдөггүй."
+   ],
+   "alt_en": [
+    "The shop does not permit customers to open sealed items."
+   ],
+   "mn_latin": "Delgüür üilchlüülegchded bitüümjilsen baraag neekhiig zövshöördöggüi."
+  },
+  {
+   "mn": "Захиалгаас хоёр бараа дутуу ирсэн тул би дэлгүүрт залгасан.",
+   "en": "Two items from the order were missing, so I called the shop.",
+   "alt_mn": [],
+   "alt_en": [
+    "Two items in the order didn't arrive, so I called the store."
+   ],
+   "mn_latin": "Zakhialgaas khoyor baraa dutuu irsen tul bi delgüürt zalgasan."
+  },
+  {
+   "mn": "Баримтаа хадгалсан болохоор бараагаа буцааж чадсан.",
+   "en": "Because I had kept the receipt, I was able to return the item.",
+   "alt_mn": [],
+   "alt_en": [
+    "I kept my receipt, so I could return the goods."
+   ],
+   "mn_latin": "Barimtaa khadgalsan bolokhoor baraagaa butsaaj chadsan."
+  },
+  {
+   "mn": "Манай компани ажилтнуудад гэрээсээ ажиллахыг зөвшөөрдөг.",
+   "en": "Our company allows employees to work from home.",
+   "alt_mn": [],
+   "alt_en": [
+    "Our company permits employees to work from home."
+   ],
+   "mn_latin": "Manai kompani ajiltnuudad gereesee ajillakhyg zövshöördög."
+  },
+  {
+   "mn": "Илгээмжээ задлах гэсэн чинь жижиг бэлэг орсон байсан.",
+   "en": "When I went to unpack the parcel, I found that a small gift was included.",
+   "alt_mn": [],
+   "alt_en": [
+    "I went to unpack the parcel and discovered a small gift inside."
+   ],
+   "mn_latin": "Ilgeemjee zadlakh gesen chini jijig beleg orson baisan."
+  },
+  {
+   "mn": "Тэд надад шинэ бараагаар солиод өгсөн.",
+   "en": "They replaced it with a new item for me.",
+   "alt_mn": [
+    "Тэд миний барааг шинээр солиод өгсөн."
+   ],
+   "alt_en": [
+    "They replaced it with a new one for me."
+   ],
+   "mn_latin": "Ted nadad shine baraagaar soliod ögsön."
+  },
+  {
+   "mn": "Дэлгүүр бидэнд бараагаа долоо хоногийн дотор буцаахыг зөвшөөрдөг.",
+   "en": "The shop allows us to return goods within a week.",
+   "alt_mn": [],
+   "alt_en": [
+    "The store permits us to return items within a week."
+   ],
+   "mn_latin": "Delgüür bidend baraagaa doloo khonogiin dotor butsaakhyg zövshöördög."
+  },
+  {
+   "mn": "Утсаа асаах гэсэн чинь огт ажиллахгүй байлаа.",
+   "en": "When I tried to turn on the phone, it did not work at all.",
+   "alt_mn": [],
+   "alt_en": [
+    "I tried to turn on the phone, but it didn't work at all."
+   ],
+   "mn_latin": "Utsaa asaakh gesen chini ogt ajillakhgüi bailaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "-х гэсэн чинь: an unexpected discovery; allow/permit + object + to-infinitive",
+  "title_mn": "-х гэсэн чинь: санаандгүй нээлт; allow/permit + тусагдахуун + to-infinitive",
+  "explain_en": "Use the verb stem + -х гэсэн чинь to say: \"I went to do X, and (surprise!) I found Y.\" The first part is an attempt or intention (нээх = to open). The second part is what you unexpectedly find, often ending in -сан байлаа or -сан байсан. It works for good or bad surprises. Example: Нээх гэсэн чинь хагарсан байлаа = When I went to open it, it turned out to be cracked. In English, allow and permit are followed by the person (the object) and then to + verb: The shop allows customers to return items. Mongolian says «үйлчлүүлэгчдэд буцаахыг зөвшөөрдөг», and English says \"allows customers to return\". Don't drop \"to\". Wrong: allows customers return. Right: allows customers to return.",
+  "explain_mn": "Монгол хэлний «-х гэсэн чинь» бүтэц нь «хийх гэтэл ... болсон байлаа» гэсэн санаандгүй нээлтийг илэрхийлнэ. Эхний хэсэг нь оролдлого, санаа (нээх), хоёр дахь хэсэг нь санаандгүй олсон зүйл бөгөөд ихэвчлэн -сан байлаа, -сан байсан гэж төгсөнө. Сайн, муу аль ч гэнэтийн зүйлд хэрэглэнэ. Жишээ нь: Нээх гэсэн чинь хагарсан байлаа. Англи хэлэнд allow, permit үйл үгийн дараа хэнийг зөвшөөрч байгаагаа (тусагдахуун) хэлээд, дараа нь to + үйл үг хэлбэрийг тавина. Жишээ нь: The shop allows customers to return items. Монгол хэлэнд «үйлчлүүлэгчдэд буцаахыг зөвшөөрдөг» гэж хэлдэг бол англиар «allows customers to return» гэнэ. Анхаарах зүйл: allow-ийн дараа хүний нэрийн ард to-гүй үйл үг тавьж болохгүй. Буруу: allows customers return. Зөв: allows customers to return.",
+  "examples": [
+   {
+    "mn": "Хайрцгийг нээх гэсэн чинь хагарсан байлаа.",
+    "en": "When I went to open the box, it turned out to be cracked.",
+    "mn_latin": "Khairtsgiig neekh gesen chini khagarsan bailaa."
+   },
+   {
+    "mn": "Гутлаа өмсөх гэсэн чинь жижиг байсан.",
+    "en": "When I tried to put on the shoes, they were too small.",
+    "mn_latin": "Gutlaa ömsökh gesen chini jijig baisan."
+   },
+   {
+    "mn": "Дэлгүүр хүүхдүүдэд орохыг зөвшөөрдөггүй.",
+    "en": "The shop doesn't allow children to enter.",
+    "mn_latin": "Delgüür khüükhdüüded orokhyg zövshöördöggüi."
+   },
+   {
+    "mn": "Багш бидэнд толь бичиг ашиглахыг зөвшөөрсөн.",
+    "en": "The teacher permitted us to use a dictionary.",
+    "mn_latin": "Bagsh bidend toli bichig ashiglakhyg zövshöörsön."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хайрцгийг нээх ___ чинь дотор нь шилэн сав хагарсан байлаа.",
+   "answer": "гэсэн",
+   "options": [
+    "гэсэн",
+    "гэвэл",
+    "гээд",
+    "гэж"
+   ],
+   "translation": "When I went to open the box, the glass jar inside was broken.",
+   "explain_en": "The fixed pattern is verb stem + -х гэсэн чинь, meaning \"when I went to do X (I found Y)\".",
+   "explain_mn": "«-х гэсэн чинь» нь тогтсон бүтэц бөгөөд санамсаргүй нээлтийг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Захиалгаа задлах гэсэн чинь нэг бараа ___ байлаа.",
+   "answer": "дутуу",
+   "options": [
+    "дутуу",
+    "дараа",
+    "дандаа",
+    "дөнгөж"
+   ],
+   "translation": "When I went to unpack my order, one item was missing.",
+   "explain_en": "дутуу means incomplete or missing, which fits the missing item.",
+   "explain_mn": "Эд зүйл дутуу ирсэн гэсэн утгаар «дутуу» гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Куртикаа өмсөх гэсэн чинь буруу ___ байсан.",
+   "answer": "размер",
+   "options": [
+    "размер",
+    "хайрцаг",
+    "баримт",
+    "гэрэл"
+   ],
+   "translation": "When I tried on the jacket, it was the wrong size.",
+   "explain_en": "буруу размер means wrong size; a jacket is the item you try on.",
+   "explain_mn": "Хувцас өмсөхөд таарахгүй бол «буруу размер» гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The shop doesn't allow customers ___ open sealed items.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "that",
+    "-ing"
+   ],
+   "translation": "Дэлгүүр үйлчлүүлэгчдэд битүүмжилсэн барааг нээхийг зөвшөөрдөггүй.",
+   "explain_en": "After allow + person, we use the to-infinitive.",
+   "explain_mn": "allow + хүн + to + үйл үг гэсэн бүтэцтэй."
+  },
+  {
+   "lang": "en",
+   "text": "The airline permits passengers ___ one small bag on board.",
+   "answer": "to carry",
+   "options": [
+    "to carry",
+    "carry",
+    "carrying",
+    "carried"
+   ],
+   "translation": "Агаарын тээврийн компани зорчигчдод нэг жижиг цүнх авч явахыг зөвшөөрдөг.",
+   "explain_en": "permit + object + to-infinitive, so we need \"to carry\".",
+   "explain_mn": "permit-ийн дараа to carry гэж хэлнэ, carry ганцаараа буруу."
+  },
+  {
+   "lang": "en",
+   "text": "My manager allowed me ___ the parcel at the office.",
+   "answer": "to open",
+   "options": [
+    "to open",
+    "opening",
+    "open",
+    "opened"
+   ],
+   "translation": "Менежер надад илгээмжийг оффис дээр нээхийг зөвшөөрсөн.",
+   "explain_en": "allow + me + to open. The object \"me\" comes before the infinitive.",
+   "explain_mn": "allowed me to open гэж «надад нээхийг зөвшөөрсөн» гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Өчигдөр илгээмж ирсэн. Нээх гэсэн чинь гутал буруу размертай байсан.",
+   "en": "A parcel came yesterday. When I opened it, the shoes were the wrong size.",
+   "mn_latin": "Öchigdör ilgeemj irsen. Neekh gesen chini gutal buruu razmyertai baisan."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Өө, харамсалтай юм. Хайрцаг нь эвдэрсэн байсан уу?",
+   "en": "Oh, that's unfortunate. Was the box damaged?",
+   "mn_latin": "Öö, kharamsaltai yum. Khairtsag ni evdersen baisan uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Үгүй, сав баглаа нь сайн байсан. Харин захиалсан хоёр хос оймсны нэг нь дутуу байсан.",
+   "en": "No, the packaging was fine. But one of the two pairs of socks I ordered was missing.",
+   "mn_latin": "Ügüi, sav baglaa ni sain baisan. Kharin zakhialsan khoyor khos oimsny neg ni dutuu baisan."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Дэлгүүр буцаахыг зөвшөөрдөг үү?",
+   "en": "Does the shop allow returns?",
+   "mn_latin": "Delgüür butsaakhyg zövshöördög üü?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм, долоо хоногийн дотор бараагаа буцаахыг зөвшөөрдөг. Баримтаа хадгалсан.",
+   "en": "Yes, they allow customers to return goods within a week. I kept the receipt.",
+   "mn_latin": "Tiim, doloo khonogiin dotor baraagaa butsaakhyg zövshöördög. Barimtaa khadgalsan."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Сайн байна. Тэд зөв размерын шинэ гутлаар солиод өгөх байх.",
+   "en": "Good. They'll probably exchange them for a new pair in the right size.",
+   "mn_latin": "Sain baina. Ted zöv razmyeryn shine gutlaar soliod ögökh baikh."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгэх байх. Өнөөдөр залгаад асууя.",
+   "en": "Probably. I'll call and ask today.",
+   "mn_latin": "Tegekh baikh. Önöödör zalgaad asuuya."
+  }
+ ],
+ "culture_note": {
+  "en": "Online shopping has grown quickly in Ulaanbaatar, and many people order through Facebook shops, Instagram pages and local apps. Parcels often arrive by courier to an apartment block or a pickup point, and people commonly check the item before paying cash on delivery. Return rules vary a lot between small online sellers, so it is wise to keep your receipt and take photos of damage.",
+  "mn": "Улаанбаатарт онлайн худалдаа хурдан өсөж, олон хүн Facebook дэлгүүр, Instagram хуудас, дотоодын аппаар захиалга хийдэг. Илгээмж ихэвчлэн курьерээр байранд эсвэл авах цэгт хүрч, бэлнээр төлөхөөсөө өмнө барааг шалгадаг заншилтай. Жижиг онлайн худалдагчдын буцаалтын нөхцөл өөр өөр тул баримтаа хадгалж, эвдрэлийн зургийг авч үлдэх нь чухал."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 23,
+  "notes": "Mostly good, but grammar titles/explanations were mismatched, and there were a few case and translation-accuracy problems."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 13,
+  "notes": "Main problems were the dative plural error, unnatural «эд», mn/en mismatches in the intro and grammar, and an ambiguous fill-in option.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The mn intro left out the -х гэсэн чинь pattern."
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "«Захиалгын нэг эд» is unnatural. «бараа» is the normal word."
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_en",
+    "why": "\"arrived missing\" is awkward English."
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "The subject was missing: «дотор нь эвдэрсэн» doesn't say what was damaged."
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "The dative plural is үйлчлүүлэгчдэд. «үйлчлүүлэгчид» is the nominative form."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "«Захиалгаас … бараа» is more natural than «захиалгын … эд»."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_en",
+    "why": "\"arrived missing\" is awkward English."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The en explanation left out the allow/permit part covered in mn."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Corrects «үйлчлүүлэгчид» to the dative «үйлчлүүлэгчдэд» and matches the en content."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "«гэхээр чинь» can also be accepted colloquially, so the answer was not the only correct option."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "«бараа» is more natural than «эд» here."
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "Matches \"two pairs of socks\"."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Солих needs the instrumental case, and the line should say the right size, as in the en."
+   }
+  ]
+ }
+}

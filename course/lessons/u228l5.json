@@ -1,0 +1,413 @@
+{
+ "intro_en": "Learn to describe bike problems at a repair shop: flat tires, slipping chains, weak brakes, and bent rims. You'll practice the Mongolian contrast between -х гэхээр (every time I try to...) and -х гэтэл (I tried to... but then), and English 'wouldn't' for things that kept refusing to work.",
+ "intro_mn": "Засварын газарт дугуйны эвдрэлээ тайлбарлаж сурна: хагарсан дугуй, мултардаг гинж, сул тоормос, тахийсан обуд. Англи хэлний 'wouldn't' хэлбэрээр олон удаа давтагдсан бүтэлгүйтлийг илэрхийлж сурна.",
+ "vocab": [
+  {
+   "mn": "дугуй",
+   "en": "bike; tire",
+   "pos": "noun",
+   "example_mn": "Миний арын дугуй хагарчихсан байна.",
+   "example_en": "My rear tire is flat.",
+   "mn_latin": "dugui"
+  },
+  {
+   "mn": "гинж",
+   "en": "chain",
+   "pos": "noun",
+   "example_mn": "Гинж нь зэвэрчихсэн байна.",
+   "example_en": "The chain is rusty.",
+   "mn_latin": "ginj"
+  },
+  {
+   "mn": "тоормос",
+   "en": "brake",
+   "pos": "noun",
+   "example_mn": "Урд тоормос сайн барихгүй байна.",
+   "example_en": "The front brake isn't gripping well.",
+   "mn_latin": "toormos"
+  },
+  {
+   "mn": "обуд",
+   "en": "wheel rim",
+   "pos": "noun",
+   "example_mn": "Арын обуд тахийчихсан байна.",
+   "example_en": "The rear rim is bent.",
+   "mn_latin": "obud"
+  },
+  {
+   "mn": "суудал",
+   "en": "seat",
+   "pos": "noun",
+   "example_mn": "Суудлыг арай өндөр болгож өгөөч.",
+   "example_en": "Could you raise the seat a little?",
+   "mn_latin": "suudal"
+  },
+  {
+   "mn": "хийлэх",
+   "en": "to pump up, to inflate",
+   "pos": "verb",
+   "example_mn": "Гарахын өмнө дугуйгаа хийлээрэй.",
+   "example_en": "Pump up your tires before you head out.",
+   "mn_latin": "khiilekh"
+  },
+  {
+   "mn": "засуулах",
+   "en": "to have (something) repaired",
+   "pos": "verb",
+   "example_mn": "Би дугуйгаа засварчинд засуулсан.",
+   "example_en": "I had my bike fixed by a mechanic.",
+   "mn_latin": "zasuulakh"
+  },
+  {
+   "mn": "мултрах",
+   "en": "to slip off, to come off",
+   "pos": "verb",
+   "example_mn": "Гинж байнга мултраад байна.",
+   "example_en": "The chain keeps slipping off.",
+   "mn_latin": "multrakh"
+  },
+  {
+   "mn": "камер",
+   "en": "inner tube",
+   "pos": "noun",
+   "example_mn": "Камерыг нь солих хэрэгтэй.",
+   "example_en": "The inner tube needs to be replaced.",
+   "mn_latin": "kamyer"
+  },
+  {
+   "mn": "сулрах",
+   "en": "to get loose",
+   "pos": "verb",
+   "example_mn": "Тоормос сулраад барихаа больсон.",
+   "example_en": "The brakes got loose and stopped gripping.",
+   "mn_latin": "sulrakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Гинж тавих гэхээр мултарчихдаг.",
+   "en": "Every time I try to put the chain back on, it slips off.",
+   "alt_mn": [
+    "Гинжийг тавих гэхээр мултраад байдаг."
+   ],
+   "alt_en": [
+    "Whenever I put the chain back on, it slips off.",
+    "Whenever I put the chain back on, it comes off."
+   ],
+   "mn_latin": "Ginj tavikh gekheer multarchikhdag."
+  },
+  {
+   "mn": "Дугуйгаа хийлэх гэхээр хий нь гарчихдаг.",
+   "en": "Every time I pump up the tire, the air leaks out.",
+   "alt_mn": [
+    "Дугуйгаа хийлэх гэхээр хий нь гараад байдаг."
+   ],
+   "alt_en": [
+    "Whenever I pump up the tire, the air leaks out.",
+    "Whenever I pump up the tire, the air goes out."
+   ],
+   "mn_latin": "Duguigaa khiilekh gekheer khii ni garchikhdag."
+  },
+  {
+   "mn": "Өчигдөр дугуйгаа хийлэх гэтэл насос эвдэрчихсэн байсан.",
+   "en": "Yesterday I went to pump up my tire, but the pump turned out to be broken.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yesterday I tried to pump up my tire, but the pump was broken."
+   ],
+   "mn_latin": "Öchigdör duguigaa khiilekh getel nasos evderchikhsen baisan."
+  },
+  {
+   "mn": "Тоормос атгахаар дугуй зогсохгүй байна.",
+   "en": "When I squeeze the brake, the bike doesn't stop.",
+   "alt_mn": [
+    "Тоормос атгахад дугуй зогсохгүй байна."
+   ],
+   "alt_en": [
+    "The bike doesn't stop when I squeeze the brake.",
+    "When I squeeze the brake, the bike won't stop."
+   ],
+   "mn_latin": "Toormos atgakhaar dugui zogsokhgüi baina."
+  },
+  {
+   "mn": "Уруудаж явахдаа тоормос атгах гэтэл барьсангүй.",
+   "en": "Going downhill, I tried to brake, but the brakes wouldn't grip.",
+   "alt_mn": [
+    "Уруудаж явахдаа тоормос атгах гэтэл барихгүй байсан."
+   ],
+   "alt_en": [
+    "I tried to brake going downhill, but the brakes wouldn't grip.",
+    "Going downhill, I tried to brake, but the brakes didn't grip."
+   ],
+   "mn_latin": "Uruudaj yavakhdaa toormos atgakh getel barisangüi."
+  },
+  {
+   "mn": "Арын обуд тахийчихсан болохоор тоормосонд шүргээд байна.",
+   "en": "The rear rim is bent, so it keeps rubbing against the brake.",
+   "alt_mn": [],
+   "alt_en": [
+    "The back rim is bent, so it keeps rubbing on the brake."
+   ],
+   "mn_latin": "Aryn obud takhiichikhsan bolokhoor toormosond shürgeed baina."
+  },
+  {
+   "mn": "Дугуйг маань хэзээ гэхэд засаж дуусах вэ?",
+   "en": "When will my bike be ready?",
+   "alt_mn": [
+    "Миний дугуйг хэзээ гэхэд засаж дуусах вэ?"
+   ],
+   "alt_en": [
+    "When will you be done fixing my bike?",
+    "When will you finish fixing my bike?"
+   ],
+   "mn_latin": "Duguig maani khezee gekhed zasaj duusakh ve?"
+  },
+  {
+   "mn": "Суудлыг нь жаахан доошлуулж өгөөч, хөл газар хүрэхгүй байна.",
+   "en": "Could you lower the seat a little? My feet don't reach the ground.",
+   "alt_mn": [],
+   "alt_en": [
+    "Please lower the seat a bit. My feet can't reach the ground."
+   ],
+   "mn_latin": "Suudlyg ni jaakhan dooshluulj ögööch, khöl gazar khürekhgüi baina."
+  },
+  {
+   "mn": "Камер нь цоорчихсон байна, солих хэрэгтэй.",
+   "en": "The inner tube has a hole in it, so it needs to be replaced.",
+   "alt_mn": [
+    "Камер нь цоорсон байна, солих хэрэгтэй."
+   ],
+   "alt_en": [
+    "The inner tube has a hole and needs to be replaced."
+   ],
+   "mn_latin": "Kamyer ni tsoorchikhson baina, solikh kheregtei."
+  },
+  {
+   "mn": "Хэдэн удаа засуулсан ч гинж нь мултраад л байсан.",
+   "en": "No matter how many times I had it fixed, the chain still wouldn't stay on.",
+   "alt_mn": [],
+   "alt_en": [
+    "No matter how many times I had it repaired, the chain kept slipping off."
+   ],
+   "mn_latin": "Kheden udaa zasuulsan ch ginj ni multraad l baisan."
+  },
+  {
+   "mn": "Араа солих гэхээр гинж нь шажигнаад байдаг.",
+   "en": "Every time I try to shift gears, the chain rattles.",
+   "alt_mn": [],
+   "alt_en": [
+    "Whenever I shift gears, the chain rattles."
+   ],
+   "mn_latin": "Araa solikh gekheer ginj ni shajignaad baidag."
+  },
+  {
+   "mn": "Дугуйгаа өөрөө засах гэтэл улам эвдчихлээ.",
+   "en": "I tried to fix my bike myself, but I just made it worse.",
+   "alt_mn": [
+    "Дугуйгаа өөрөө засах гэтэл бүр эвдчихлээ."
+   ],
+   "alt_en": [
+    "I tried to fix my bike on my own and only made it worse."
+   ],
+   "mn_latin": "Duguigaa ööröö zasakh getel ulam evdchikhlee."
+  }
+ ],
+ "grammar": {
+  "title_en": "-х гэхээр vs -х гэтэл: 'every time I try' vs 'I tried, but then'",
+  "title_mn": "Давтагдсан бүтэлгүйтэл: would / wouldn't",
+  "explain_en": "Both forms attach to a verb's -х form plus гэх (literally 'to say', here meaning 'to intend'), and both describe trying to do something. The difference is time and repetition. -х гэхээр means 'whenever / every time I try to...'. It describes a pattern, so the main verb is usually habitual (-даг) or ongoing (-аад байна): Гинж тавих гэхээр мултарчихдаг 'Every time I put the chain on, it slips off.' -х гэтэл describes one past attempt with an unexpected or unwelcome result, so the main verb is in the past: Гинж тавих гэтэл мултарчихлаа 'I went to put the chain on, but it slipped off.' Think of гэхээр as 'it always happens' and гэтэл as 'and then, surprise!'.",
+  "explain_mn": "Англи хэлэнд 'would / wouldn't' нь зөвхөн 'болзол' биш. Өнгөрсөн цагт ямар нэг зүйл дахин дахин 'зөрүүдлээд' болохгүй байсныг илэрхийлж бас болно. Жишээ нь 'The chain wouldn't stay on' гэвэл 'гинж хэд хэдэн удаа тавьсан ч тогтохгүй байсан' гэсэн утгатай. Энэ нь монгол хэлний '-х гэхээр ... -гүй байсан' хэлбэртэй ойролцоо. 'The chain didn't stay on' гэвэл зүгээр л нэг удаагийн баримт болно. Харин 'wouldn't' нь эд зүйл өөрөө зөрүүдэлж байгаа юм шиг, бухимдсан өнгө аястай. Ихэвчлэн stay on, start, open, stop, hold air гэх мэт үйл үгтэй хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Гинж тавих гэхээр мултарчихдаг.",
+    "en": "Every time I put the chain on, it slips off.",
+    "mn_latin": "Ginj tavikh gekheer multarchikhdag."
+   },
+   {
+    "mn": "Гинж тавих гэтэл мултарчихлаа.",
+    "en": "I went to put the chain on, but it slipped off.",
+    "mn_latin": "Ginj tavikh getel multarchikhlaa."
+   },
+   {
+    "mn": "Хэчнээн хийлсэн ч дугуй хий барихгүй байсан.",
+    "en": "No matter how much I pumped it, the tire wouldn't hold air.",
+    "mn_latin": "Khechneen khiilsen ch dugui khii barikhgüi baisan."
+   },
+   {
+    "mn": "Тоормос атгах гэхээр барихгүй байсан.",
+    "en": "Every time I squeezed the brakes, they wouldn't grip.",
+    "mn_latin": "Toormos atgakh gekheer barikhgüi baisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гинж тавих ___ мултарчихдаг.",
+   "answer": "гэхээр",
+   "options": [
+    "гэхээр",
+    "гэтэл",
+    "гэж",
+    "гээд"
+   ],
+   "translation": "Every time I try to put the chain on, it slips off.",
+   "explain_en": "The main verb ends in habitual -даг, so this is a repeated pattern. That calls for гэхээр ('every time I try'). гэтэл would need a past main verb.",
+   "explain_mn": "Гол үйл үг -даг дагавартай тул давтагддаг үйл явдал байна. Ийм үед 'гэхээр' тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Өчигдөр уруудаж явахдаа тоормос атгах ___ барьсангүй.",
+   "answer": "гэтэл",
+   "options": [
+    "гэтэл",
+    "гэхээр",
+    "гэж",
+    "гэвч"
+   ],
+   "translation": "Yesterday, going downhill, I tried to brake, but the brakes wouldn't grip.",
+   "explain_en": "'Yesterday' and the past verb барьсангүй point to a single attempt with an unwelcome result, so гэтэл is correct.",
+   "explain_mn": "'Өчигдөр' гэсэн нэг удаагийн, өнгөрсөн цагийн үйл явдал бөгөөд гэнэтийн үр дүнтэй тул 'гэтэл' тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Би дугуйгаа засварчинд ___.",
+   "answer": "засуулсан",
+   "options": [
+    "засуулсан",
+    "засагдсан",
+    "засаж",
+    "засах"
+   ],
+   "translation": "I had my bike fixed by a mechanic.",
+   "explain_en": "Someone else did the repair, so you need the causative -уул- ('have something done'). Засварчинд marks the person who did the work.",
+   "explain_mn": "Англи хэлэнд 'have something fixed' гэвэл өөр хүнээр хийлгэсэн гэсэн утгатай. Энэ нь монгол хэлний '-уул-' үйлдүүлэх хэвтэй дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The chain ___ stay on, no matter what I did.",
+   "answer": "wouldn't",
+   "options": [
+    "wouldn't",
+    "won't",
+    "doesn't",
+    "hadn't"
+   ],
+   "translation": "Юу ч хийсэн гинж тогтохгүй л байсан.",
+   "explain_en": "'Wouldn't' expresses repeated refusal in the past. 'No matter what I did' shows the chain kept failing.",
+   "explain_mn": "Өнгөрсөн цагт дахин дахин болохгүй байсныг 'wouldn't' илэрхийлнэ. 'Won't' бол одоо цаг, 'doesn't' бол ерөнхий баримт."
+  },
+  {
+   "lang": "en",
+   "text": "I squeezed the brakes, but they ___ grip.",
+   "answer": "wouldn't",
+   "options": [
+    "wouldn't",
+    "weren't",
+    "don't",
+    "haven't"
+   ],
+   "translation": "Би тоормос атгасан ч барьсангүй.",
+   "explain_en": "The brakes 'refused' to work, so 'wouldn't' plus the base verb 'grip' fits. 'Weren't grip' and 'haven't grip' are ungrammatical, and 'don't' doesn't match the past tense.",
+   "explain_mn": "'Wouldn't' + үйл үгийн үндсэн хэлбэр нь тоормос 'зөрүүдлээд' ажиллахгүй байсныг заана. Бусад хувилбар нь дүрмийн хувьд буруу."
+  },
+  {
+   "lang": "en",
+   "text": "There's a hole in the inner tube, so the tire is ___.",
+   "answer": "flat",
+   "options": [
+    "flat",
+    "dead",
+    "broken",
+    "tired"
+   ],
+   "translation": "Камер нь цоорчихсон болохоор дугуй хийгүй болсон.",
+   "explain_en": "A tire without air is 'flat'. 'Dead' is used for batteries, not tires.",
+   "explain_mn": "Хий нь гарсан дугуйг англиар 'flat tire' гэнэ. 'Dead' нь зайд (battery) хэрэглэгдэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Сайн байна уу? Дугуйндаа юу болсон бэ?",
+   "en": "Hello! What's wrong with your bike?",
+   "mn_latin": "Sain baina uu? Duguindaa yuu bolson be?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Гинж тавих гэхээр л мултарчихдаг. Өнөө өглөө ажилдаа явах гэтэл бүр замын голд мултарсан.",
+   "en": "Every time I put the chain back on, it slips off. This morning I was heading to work, and it came off right in the middle of the road.",
+   "mn_latin": "Ginj tavikh gekheer l multarchikhdag. Önöö öglöö ajildaa yavakh getel bür zamyn gold multarsan."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Харъя... Гинж нь сунаж, араа нь элэгдчихсэн байна. Хоёуланг нь солих хэрэгтэй.",
+   "en": "Let me see... The chain has stretched and the gears are worn. Both need to be replaced.",
+   "mn_latin": "Kharya... Ginj ni sunaj, araa ni elegdchikhsen baina. Khoyoulang ni solikh kheregtei."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгээд бас тоормос атгахаар сайн барихгүй байна. Өчигдөр уруудах гэтэл бараг мөргөчихсөн.",
+   "en": "Also, the brakes don't grip well when I squeeze them. Yesterday, going downhill, I almost crashed.",
+   "mn_latin": "Tegeed bas toormos atgakhaar sain barikhgüi baina. Öchigdör uruudakh getel barag mörgöchikhsön."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тоормосны тросыг чангалаад, резинийг нь сольж өгье. Арын дугуйн хий бас бага байна, хийлээд өгнө.",
+   "en": "I'll tighten the brake cable and replace the pads. Your rear tire is low on air too, so I'll pump it up.",
+   "mn_latin": "Toormosny trosyg changalaad, ryeziniig ni solij ögiye. Aryn duguin khii bas baga baina, khiileed ögnö."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Баярлалаа. Хэзээ гэхэд засаж дуусах вэ?",
+   "en": "Thank you. When will it be ready?",
+   "mn_latin": "Bayarlalaa. Khezee gekhed zasaj duusakh ve?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Маргааш үдээс хойш ирээд аваарай.",
+   "en": "Come pick it up tomorrow afternoon.",
+   "mn_latin": "Margaash üdees khoish ireed avaarai."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, cycling is mostly a summer activity because of the long, freezing winters. Many people store their bikes from October to April and bring them to small repair shops in spring. These shops are often tucked into markets like Narantuul or along busy streets, and mechanics fix punctured inner tubes and loose brakes quickly and cheaply. Dusty roads and potholes wear out chains and rims fast, so a spring tune-up is a common ritual.",
+  "mn": "Улаанбаатарт өвөл урт, хүйтэн тул дугуй унах нь ихэвчлэн зуны ажил байдаг. Олон хүн 10-р сараас 4-р сар хүртэл дугуйгаа хадгалаад, хавар нь жижиг засварын газарт аваачдаг. Ийм газрууд Нарантуул зэрэг зах эсвэл хөл хөдөлгөөн ихтэй гудамжинд байрлах нь элбэг. Засварчид цоорсон камер, сул тоормосыг хурдан бөгөөд хямдхан засдаг. Тоостой зам, нүх хонхор гинж, обудыг хурдан элэгдүүлдэг тул хавар бүр дугуйгаа үзүүлэх нь нийтлэг заншил болжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 6,
+  "notes": "Strong lesson with accurate grammar explanations; the main real error was using хүрд instead of обуд for the bike rim, plus one fill-in-the-blank item with two correct answers."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "A solid lesson. The fixes cover a misspelled loanword, unnatural words for brake pads and potholes, and one English collocation.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Трос is spelled with one с (тросыг). Brake pads on a bike are normally called 'резин'; 'дэвсгэр' is unnatural here."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'Нүх сүв' means pores or loopholes. Potholes are 'нүх хонхор'."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "'Flat tubes' is unnatural English. 'Punctured inner tubes' is the natural phrase."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Гэх basically means 'to say'. The 'intend' meaning applies only in this construction."
+   }
+  ]
+ }
+}

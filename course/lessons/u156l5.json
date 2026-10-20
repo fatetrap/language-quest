@@ -1,0 +1,414 @@
+{
+ "intro_en": "Learn how to call back about a ticket that hasn't been resolved, so you can give your ticket number, mention deadlines, and remind the agent politely. You'll practice the soft Mongolian endings -сан юм аа and -ж болох болов уу, along with the English phrases \"I was just calling to check whether...\" and \"I was told that...\".",
+ "intro_mn": "Шийдэгдээгүй хүсэлтийн талаар дахин залгаж, хүсэлтийн дугаараа хэлэх, хугацааг дурдах, эелдгээр сануулж сурна. Монгол хэлний -сан юм аа, -ж болох болов уу хэлбэрүүд болон англи хэлний \"I was just calling to check whether...\", \"I was told that...\" хэллэгүүдийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "хүсэлтийн дугаар",
+   "en": "ticket number, request number",
+   "pos": "noun phrase",
+   "example_mn": "Таны хүсэлтийн дугаар хэд вэ?",
+   "example_en": "What is your ticket number?",
+   "mn_latin": "khüseltiin dugaar"
+  },
+  {
+   "mn": "шийдвэрлэх",
+   "en": "to resolve, to settle",
+   "pos": "verb",
+   "example_mn": "Асуудлыг гурав хоногт шийдвэрлэнэ гэсэн.",
+   "example_en": "They said they would resolve the problem in three days.",
+   "mn_latin": "shiidverlekh"
+  },
+  {
+   "mn": "мэдэгдэх",
+   "en": "to notify, to let someone know",
+   "pos": "verb",
+   "example_mn": "Бид танд мессежээр мэдэгдэнэ.",
+   "example_en": "We will notify you by text message.",
+   "mn_latin": "medegdekh"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "deadline, time frame",
+   "pos": "noun",
+   "example_mn": "Хугацаа нь өнгөрчихсөн байна.",
+   "example_en": "The deadline has already passed.",
+   "mn_latin": "khugatsaa"
+  },
+  {
+   "mn": "дахин холбогдох",
+   "en": "to contact again, to follow up",
+   "pos": "verb",
+   "example_mn": "Маргааш дахин холбогдоорой.",
+   "example_en": "Please get in touch again tomorrow.",
+   "mn_latin": "dakhin kholbogdokh"
+  },
+  {
+   "mn": "лавлах",
+   "en": "to inquire, to ask about",
+   "pos": "verb",
+   "example_mn": "Захиалгынхаа талаар лавлах гэсэн юм.",
+   "example_en": "I wanted to ask about my order.",
+   "mn_latin": "lavlakh"
+  },
+  {
+   "mn": "хариу",
+   "en": "reply, response",
+   "pos": "noun",
+   "example_mn": "Одоо болтол хариу ирээгүй байна.",
+   "example_en": "I still haven't received a reply.",
+   "mn_latin": "khariu"
+  },
+  {
+   "mn": "шалгах",
+   "en": "to check",
+   "pos": "verb",
+   "example_mn": "Та шалгаж өгч болох болов уу?",
+   "example_en": "Could you possibly check for me?",
+   "mn_latin": "shalgakh"
+  },
+  {
+   "mn": "ажилтан",
+   "en": "staff member, representative",
+   "pos": "noun",
+   "example_mn": "Өмнөх ажилтан надад хоёр хоног хүлээ гэж хэлсэн.",
+   "example_en": "The previous representative told me to wait two days.",
+   "mn_latin": "ajiltan"
+  },
+  {
+   "mn": "шийдэгдээгүй",
+   "en": "unresolved",
+   "pos": "adjective (verb form)",
+   "example_mn": "Миний асуудал шийдэгдээгүй хэвээр байна.",
+   "example_en": "My issue is still unresolved.",
+   "mn_latin": "shiidegdeegüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би өнгөрсөн долоо хоногт залгасан юм аа.",
+   "en": "I called last week.",
+   "alt_mn": [
+    "Би өнгөрсөн долоо хоногт залгаж байсан юм аа."
+   ],
+   "alt_en": [
+    "I already called last week.",
+    "I did call last week."
+   ],
+   "mn_latin": "Bi öngörsön doloo khonogt zalgasan yum aa."
+  },
+  {
+   "mn": "Хүсэлтийн дугаар маань 4518.",
+   "en": "My ticket number is 4518.",
+   "alt_mn": [
+    "Миний хүсэлтийн дугаар 4518."
+   ],
+   "alt_en": [
+    "My request number is 4518."
+   ],
+   "mn_latin": "Khüseltiin dugaar maani 4518."
+  },
+  {
+   "mn": "Асуудал маань шийдэгдсэн эсэхийг лавлах гэж залгасан юм.",
+   "en": "I was just calling to check whether my issue has been resolved.",
+   "alt_mn": [
+    "Асуудал маань шийдэгдсэн эсэхийг асуух гэж залгасан юм."
+   ],
+   "alt_en": [
+    "I'm calling to check whether my issue has been resolved.",
+    "I was just calling to check if my problem has been resolved."
+   ],
+   "mn_latin": "Asuudal maani shiidegdsen esekhiig lavlakh gej zalgasan yum."
+  },
+  {
+   "mn": "Надад гурван хоногийн дотор шийдвэрлэнэ гэж хэлсэн юм аа.",
+   "en": "I was told it would be resolved within three days.",
+   "alt_mn": [
+    "Гурван хоногийн дотор шийдвэрлэнэ гэж надад хэлсэн юм аа."
+   ],
+   "alt_en": [
+    "They told me it would be resolved within three days."
+   ],
+   "mn_latin": "Nadad gurvan khonogiin dotor shiidverlene gej khelsen yum aa."
+  },
+  {
+   "mn": "Гэвч одоо болтол хариу ирээгүй байна.",
+   "en": "But I still haven't received a reply.",
+   "alt_mn": [
+    "Гэхдээ одоог хүртэл хариу ирээгүй байна."
+   ],
+   "alt_en": [
+    "But there's still no reply.",
+    "But I haven't gotten a reply yet."
+   ],
+   "mn_latin": "Gevch odoo boltol khariu ireegüi baina."
+  },
+  {
+   "mn": "Хугацаа нь өчигдөр дууссан юм аа.",
+   "en": "The deadline was yesterday.",
+   "alt_mn": [
+    "Хугацаа нь өчигдөр өнгөрсөн юм аа."
+   ],
+   "alt_en": [
+    "The deadline passed yesterday."
+   ],
+   "mn_latin": "Khugatsaa ni öchigdör duussan yum aa."
+  },
+  {
+   "mn": "Та шалгаж өгч болох болов уу?",
+   "en": "Could you possibly check for me?",
+   "alt_mn": [
+    "Та шалгаад өгч болох болов уу?"
+   ],
+   "alt_en": [
+    "Would you be able to check for me?",
+    "Could you check for me, please?"
+   ],
+   "mn_latin": "Ta shalgaj ögch bolokh bolov uu?"
+  },
+  {
+   "mn": "Асуудал шийдэгдмэгц надад мэдэгдэж болох болов уу?",
+   "en": "Could you let me know as soon as it's resolved?",
+   "alt_mn": [
+    "Асуудал шийдэгдсэн даруйд надад мэдэгдэж болох болов уу?"
+   ],
+   "alt_en": [
+    "Could you notify me as soon as it's resolved?"
+   ],
+   "mn_latin": "Asuudal shiidegdmegts nadad medegdej bolokh bolov uu?"
+  },
+  {
+   "mn": "Өмнөх ажилтан техникийн хэлтэс рүү шилжүүлсэн гэж хэлсэн.",
+   "en": "I was told by the previous representative that it had been passed on to the technical department.",
+   "alt_mn": [
+    "Өмнөх ажилтан техникийн хэлтэст шилжүүлсэн гэж хэлсэн."
+   ],
+   "alt_en": [
+    "The previous representative said it had been transferred to the technical department."
+   ],
+   "mn_latin": "Ömnökh ajiltan tyekhnikiin kheltes rüü shiljüülsen gej khelsen."
+  },
+  {
+   "mn": "Ойролцоогоор хэзээ шийдвэрлэх боломжтой вэ?",
+   "en": "Roughly when can it be resolved?",
+   "alt_mn": [
+    "Ойролцоогоор хэзээ шийдвэрлэж чадах вэ?"
+   ],
+   "alt_en": [
+    "Approximately when can this be resolved?"
+   ],
+   "mn_latin": "Oiroltsoogoor khezee shiidverlekh bolomjtoi ve?"
+  },
+  {
+   "mn": "Гэрийн интернэт маань гурав хоног ажиллахгүй байна.",
+   "en": "My internet at home hasn't worked for three days.",
+   "alt_mn": [
+    "Манай гэрийн интернэт гурав хоног ажиллахгүй байна."
+   ],
+   "alt_en": [
+    "My home internet has been down for three days."
+   ],
+   "mn_latin": "Geriin intyernet maani gurav khonog ajillakhgüi baina."
+  },
+  {
+   "mn": "Дахин залгахгүйн тулд имэйлээр мэдэгдэж болох болов уу?",
+   "en": "So I don't have to call again, could you notify me by email?",
+   "alt_mn": [],
+   "alt_en": [
+    "Could you let me know by email so I don't have to call again?"
+   ],
+   "mn_latin": "Dakhin zalgakhgüin tuld imeileer medegdej bolokh bolov uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Softening reminders: -сан юм аа and -ж болох болов уу",
+  "title_mn": "Зөөлөн сануулах: \"I was just calling to check whether...\" ба \"I was told that...\"",
+  "explain_en": "When you follow up, you want to be firm without sounding rude. Adding юм аа after a past-tense verb (залгасан юм аа, хэлсэн юм аа) gives the fact as gentle background, a bit like \"I did call, you see.\" It reminds the agent of what happened without accusing anyone. To make a soft request, use verb-ж + болох болов уу: шалгаж өгч болох болов уу? means roughly \"I wonder if you could possibly check?\" It is much softer than шалгаад өгнө үү. To report what someone told you, put гэж хэлсэн after the quoted words: шийдвэрлэнэ гэж хэлсэн means \"(they) said it would be resolved.\"",
+  "explain_mn": "Англи хэлэнд \"I was just calling to check whether...\" гэж past continuous хэлбэр хэрэглэвэл илүү эелдэг, зөөлөн сонсогддог. \"just\" гэдэг үг \"зүгээр л, түр\" гэсэн утгаар хүсэлтийг жижигрүүлж харуулна. \"whether\" нь \"эсэх\" гэсэн утгатай. \"I was told that...\" бол идэвхгүй хэв (passive) бөгөөд хэн хэлснийг онцлохгүй, хэнийг ч буруутгахгүй. Анхаар: өнгөрсөн цагт хэлсэн үгийг дамжуулахдаа \"will\"-ийг \"would\" болгоно. Жишээ нь: \"I was told it would be fixed.\"",
+  "examples": [
+   {
+    "mn": "Би хоёр удаа залгасан юм аа.",
+    "en": "I've called twice already.",
+    "mn_latin": "Bi khoyor udaa zalgasan yum aa."
+   },
+   {
+    "mn": "Захиалга маань ирсэн эсэхийг лавлах гэж залгасан юм.",
+    "en": "I was just calling to check whether my order has arrived.",
+    "mn_latin": "Zakhialga maani irsen esekhiig lavlakh gej zalgasan yum."
+   },
+   {
+    "mn": "Баасан гарагт засна гэж надад хэлсэн юм аа.",
+    "en": "I was told it would be fixed on Friday.",
+    "mn_latin": "Baasan garagt zasna gej nadad khelsen yum aa."
+   },
+   {
+    "mn": "Менежертэй холбож өгч болох болов уу?",
+    "en": "Could you possibly put me through to a manager?",
+    "mn_latin": "Myenyejyertei kholboj ögch bolokh bolov uu?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өчигдөр залгасан юм ___.",
+   "answer": "аа",
+   "options": [
+    "аа",
+    "уу",
+    "бэ",
+    "гэж"
+   ],
+   "translation": "I called yesterday.",
+   "explain_en": "юм аа after a past verb states a fact gently, as background information. уу and бэ are question particles, so they don't fit here.",
+   "explain_mn": "Өнгөрсөн цагийн үйл үгийн дараа \"юм аа\" хэрэглэвэл болсон явдлыг зөөлөн тайлбарлаж хэлнэ. \"уу\", \"бэ\" нь асуух сул үг тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Та шалгаж өгч ___ болов уу?",
+   "answer": "болох",
+   "options": [
+    "болох",
+    "болсон",
+    "болно",
+    "болоод"
+   ],
+   "translation": "Could you possibly check for me?",
+   "explain_en": "The fixed polite pattern is verb-ж + болох болов уу. Only the future participle болох fits before болов уу.",
+   "explain_mn": "Эелдэг хүсэлтийн тогтсон загвар нь \"-ж болох болов уу\". \"болов уу\"-гийн өмнө зөвхөн \"болох\" хэлбэр орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Асуудал шийдэгдсэн ___ лавлах гэсэн юм.",
+   "answer": "эсэхийг",
+   "options": [
+    "эсэхийг",
+    "эсэх",
+    "эсэхэд",
+    "эсэхээр"
+   ],
+   "translation": "I wanted to check whether the issue has been resolved.",
+   "explain_en": "эсэх means \"whether.\" Here it is the object of лавлах (to inquire), so it takes the accusative ending -ийг.",
+   "explain_mn": "\"эсэх\" нь \"лавлах\" үйл үгийн тусагдахуун болж байгаа тул заахын тийн ялгал \"-ийг\" авна."
+  },
+  {
+   "lang": "en",
+   "text": "I was just calling to check ___ my ticket has been resolved.",
+   "answer": "whether",
+   "options": [
+    "whether",
+    "because",
+    "what",
+    "unless"
+   ],
+   "translation": "Хүсэлт маань шийдэгдсэн эсэхийг лавлах гэж залгасан юм.",
+   "explain_en": "After \"check,\" use \"whether\" (or \"if\") to introduce a yes/no question inside a sentence.",
+   "explain_mn": "\"check\"-ийн дараа \"тийм үү, үгүй юу\" гэсэн асуултыг \"whether\" (эсэх) үгээр эхлүүлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ told that someone would call me back.",
+   "answer": "was",
+   "options": [
+    "was",
+    "am",
+    "did",
+    "have"
+   ],
+   "translation": "Хэн нэгэн эргэж залгана гэж надад хэлсэн юм аа.",
+   "explain_en": "\"I was told\" is the past passive: be (was) + past participle. It reports what you heard without naming who said it.",
+   "explain_mn": "\"I was told\" нь өнгөрсөн цагийн идэвхгүй хэв: was + гуравдугаар хэлбэр. Хэн хэлснийг заахгүйгээр \"надад хэлсэн\" гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "They said it ___ be fixed by Friday.",
+   "answer": "would",
+   "options": [
+    "would",
+    "is",
+    "does",
+    "has"
+   ],
+   "translation": "Баасан гараг гэхэд засна гэж тэд хэлсэн.",
+   "explain_en": "In reported speech after \"said,\" \"will\" usually shifts back to \"would.\"",
+   "explain_mn": "\"said\"-ийн дараа дамжуулан хэлэхэд \"will\" нь \"would\" болж өөрчлөгдөнө."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн байна уу. Би өнгөрсөн даваа гарагт интернэтийн асуудлаар залгасан юм аа.",
+   "en": "Hello. I called last Monday about an internet problem.",
+   "mn_latin": "Sain baina uu. Bi öngörsön davaa garagt intyernetiin asuudlaar zalgasan yum aa."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Сайн байна уу. Хүсэлтийн дугаараа хэлж өгнө үү.",
+   "en": "Hello. Could you give me your ticket number, please?",
+   "mn_latin": "Sain baina uu. Khüseltiin dugaaraa khelj ögnö üü."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "7302. Тэр үед гурав хоногт шийдвэрлэнэ гэж хэлсэн юм аа.",
+   "en": "It's 7302. At the time, I was told it would be resolved in three days.",
+   "mn_latin": "7302. Ter üyed gurav khonogt shiidverlene gej khelsen yum aa."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Түр хүлээгээрэй... Таны хүсэлт техникийн хэлтэст шилжсэн байна, гэхдээ хараахан шийдэгдээгүй байна.",
+   "en": "One moment, please... Your request was passed on to the technical department, but it hasn't been resolved yet.",
+   "mn_latin": "Tür khüleegeerei... Tany khüselt tyekhnikiin kheltest shiljsen baina, gekhdee kharaakhan shiidegdeegüi baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгвэл ойролцоогоор хэзээ засагдах вэ? Хугацаа нь өнгөрчихсөн юм аа.",
+   "en": "Then roughly when will it be fixed? The deadline has already passed.",
+   "mn_latin": "Tegvel oiroltsoogoor khezee zasagdakh ve? Khugatsaa ni öngörchikhsön yum aa."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Хүлээлгэсэнд уучлаарай. Маргааш үдээс өмнө инженер очих боломжтой.",
+   "en": "Sorry for the wait. An engineer can come tomorrow before noon.",
+   "mn_latin": "Khüleelgesend uuchlaarai. Margaash üdees ömnö injyenyer ochikh bolomjtoi."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Баярлалаа. Инженер гарахаасаа өмнө надад мессежээр мэдэгдэж болох болов уу?",
+   "en": "Thank you. Could you possibly text me before the engineer heads out?",
+   "mn_latin": "Bayarlalaa. Injyenyer garakhaasaa ömnö nadad myessyejeer medegdej bolokh bolov uu?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тэгэлгүй яах вэ. Өөр асуух зүйл байна уу?",
+   "en": "Of course. Is there anything else you'd like to ask?",
+   "mn_latin": "Tegelgüi yaakh ve. Öör asuukh züil baina uu?"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, people often follow up several times by phone, or even go to the service office in person, when a problem drags on. It helps to write down your request number, the date you called, and the name of the agent you spoke with. Staying polite with phrases like -ж болох болов уу usually gets better results than raising your voice.",
+  "mn": "Улаанбаатарт асуудал удаан шийдэгдэхгүй бол хүмүүс олон дахин утсаар залгах, бүр үйлчилгээний төв дээр биеэр очих нь элбэг. Хүсэлтийн дугаар, залгасан огноо, ярьсан ажилтны нэрийг тэмдэглэж авбал хэрэгтэй. Дуугаа өндөрсгөхөөс илүү \"-ж болох болов уу\" гэх мэт эелдэг хэллэг хэрэглэх нь ихэвчлэн үр дүнтэй байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, natural lesson. The fixes cover one unnatural possessive word order and one fill-in-the-blank that had two correct answers."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is solid; I fixed only an intro mismatch and one dialogue translation. Each language's grammar explanation and title covers the target language on purpose, so I left them.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The English says 'mention deadlines', but the Mongolian said 'ask about deadlines'."
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "The Mongolian line means 'anything else to ask?', not 'anything else I can help with?'."
+   }
+  ]
+ }
+}

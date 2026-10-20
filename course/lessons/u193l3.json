@@ -1,0 +1,411 @@
+{
+ "intro_en": "In this lesson you'll learn to read food labels in an Ulaanbaatar supermarket, including ingredients, traces of allergens, additives, gluten, and expiration dates. You'll also practice describing food as free from, high in, low in, or rich in something.",
+ "intro_mn": "Энэ хичээлээр Улаанбаатарын супермаркетад хүнсний шошго уншиж, найрлага, харшил үүсгэгчийн ул мөр, нэмэлт бодис, глютен, хадгалалтын хугацааг шалгаж сурна. Мөн хүнсийг англиар free from, high in, low in, rich in гэсэн хэллэгүүдээр тодорхойлж дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "шошго",
+   "en": "label",
+   "pos": "noun",
+   "example_mn": "Худалдаж авахаасаа өмнө шошгыг нь уншаарай.",
+   "example_en": "Read the label before you buy it.",
+   "mn_latin": "shoshgo"
+  },
+  {
+   "mn": "найрлага",
+   "en": "ingredients",
+   "pos": "noun",
+   "example_mn": "Энэ жигнэмэгийн найрлагад сүү байна.",
+   "example_en": "There's milk in the ingredients of these cookies.",
+   "mn_latin": "nairlaga"
+  },
+  {
+   "mn": "агуулсан",
+   "en": "containing",
+   "pos": "participle",
+   "example_mn": "Би самар агуулсан бүтээгдэхүүн иддэггүй.",
+   "example_en": "I don't eat products containing nuts.",
+   "mn_latin": "aguulsan"
+  },
+  {
+   "mn": "ул мөр",
+   "en": "trace",
+   "pos": "noun",
+   "example_mn": "Самрын ул мөр агуулж болзошгүй.",
+   "example_en": "May contain traces of nuts.",
+   "mn_latin": "ul mör"
+  },
+  {
+   "mn": "хадгалалтын хугацаа",
+   "en": "expiration date / shelf life",
+   "pos": "noun phrase",
+   "example_mn": "Хадгалалтын хугацаа нь дуусчихсан байна.",
+   "example_en": "It's past its expiration date.",
+   "mn_latin": "khadgalaltyn khugatsaa"
+  },
+  {
+   "mn": "нэмэлт бодис",
+   "en": "additive",
+   "pos": "noun phrase",
+   "example_mn": "Энэ жүүс нэмэлт бодисгүй.",
+   "example_en": "This juice is free from additives.",
+   "mn_latin": "nemelt bodis"
+  },
+  {
+   "mn": "глютен",
+   "en": "gluten",
+   "pos": "noun",
+   "example_mn": "Глютенгүй талх хаана байдаг вэ?",
+   "example_en": "Where's the gluten-free bread?",
+   "mn_latin": "glyutyen"
+  },
+  {
+   "mn": "харшил үүсгэгч",
+   "en": "allergen",
+   "pos": "noun phrase",
+   "example_mn": "Харшил үүсгэгч бодисыг тод үсгээр бичсэн байна.",
+   "example_en": "The allergens are printed in bold.",
+   "mn_latin": "kharshil üüsgegch"
+  },
+  {
+   "mn": "баялаг",
+   "en": "rich (in)",
+   "pos": "adjective",
+   "example_mn": "Сэвэг зарам төмрөөр баялаг.",
+   "example_en": "Lentils are rich in iron.",
+   "mn_latin": "bayalag"
+  },
+  {
+   "mn": "агууламж",
+   "en": "content (amount of a substance)",
+   "pos": "noun",
+   "example_mn": "Энэ ундааны чихрийн агууламж өндөр.",
+   "example_en": "This drink has a high sugar content.",
+   "mn_latin": "aguulamj"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ жигнэмэг самрын ул мөр агуулж болзошгүй.",
+   "en": "These cookies may contain traces of nuts.",
+   "alt_mn": [
+    "Энэ жигнэмэгт самрын ул мөр байж болзошгүй."
+   ],
+   "alt_en": [
+    "This cookie may contain traces of nuts.",
+    "These crackers may contain traces of nuts."
+   ],
+   "mn_latin": "Ene jignemeg samryn ul mör aguulj bolzoshgüi."
+  },
+  {
+   "mn": "Худалдаж авахаасаа өмнө найрлагыг нь заавал уншаарай.",
+   "en": "Be sure to read the ingredients before you buy it.",
+   "alt_mn": [
+    "Авахаасаа өмнө найрлагыг нь заавал уншаарай."
+   ],
+   "alt_en": [
+    "Always read the ingredients before buying it."
+   ],
+   "mn_latin": "Khudaldaj avakhaasaa ömnö nairlagyg ni zaaval unshaarai."
+  },
+  {
+   "mn": "Энэ талхыг глютенгүй гэж бичсэн боловч улаан буудайн гурил агуулсан байна.",
+   "en": "This bread is labeled gluten-free, but it contains wheat flour.",
+   "alt_mn": [
+    "Энэ талх глютенгүй гэсэн атлаа улаан буудайн гурил агуулсан байна."
+   ],
+   "alt_en": [
+    "This bread says it's gluten-free, but it contains wheat flour."
+   ],
+   "mn_latin": "Ene talkhyg glyutyengüi gej bichsen bolovch ulaan buudain guril aguulsan baina."
+  },
+  {
+   "mn": "Хадгалалтын хугацаа нь өчигдөр дууссан байна.",
+   "en": "It expired yesterday.",
+   "alt_mn": [
+    "Хадгалалтын хугацаа нь өчигдөр дуусчихсан байна."
+   ],
+   "alt_en": [
+    "The expiration date was yesterday."
+   ],
+   "mn_latin": "Khadgalaltyn khugatsaa ni öchigdör duussan baina."
+  },
+  {
+   "mn": "Энэ тараг элсэн чихэр ихтэй юм байна.",
+   "en": "This yogurt is high in sugar.",
+   "alt_mn": [
+    "Энэ тарагны чихрийн агууламж өндөр юм байна."
+   ],
+   "alt_en": [
+    "This yogurt has a lot of sugar.",
+    "This yogurt has a high sugar content."
+   ],
+   "mn_latin": "Ene tarag elsen chikher ikhtei yum baina."
+  },
+  {
+   "mn": "Би давс багатай шөл хайж байна.",
+   "en": "I'm looking for a soup that's low in salt.",
+   "alt_mn": [
+    "Би давсны агууламж багатай шөл хайж байна."
+   ],
+   "alt_en": [
+    "I'm looking for a low-salt soup.",
+    "I'm looking for a low-sodium soup."
+   ],
+   "mn_latin": "Bi davs bagatai shöl khaij baina."
+  },
+  {
+   "mn": "Энэ бяслаг уургаар баялаг ч өөх тос ихтэй.",
+   "en": "This cheese is rich in protein but high in fat.",
+   "alt_mn": [
+    "Энэ бяслаг уургаар баялаг боловч өөх тос ихтэй."
+   ],
+   "alt_en": [
+    "This cheese is high in protein but also high in fat."
+   ],
+   "mn_latin": "Ene byaslag uurgaar bayalag ch öökh tos ikhtei."
+  },
+  {
+   "mn": "Харшил үүсгэгч бодисуудыг шошгон дээр тод үсгээр бичсэн байдаг.",
+   "en": "Allergens are printed in bold on the label.",
+   "alt_mn": [
+    "Шошгон дээр харшил үүсгэгч бодисуудыг тод үсгээр бичдэг."
+   ],
+   "alt_en": [
+    "Allergens are shown in bold on the label."
+   ],
+   "mn_latin": "Kharshil üüsgegch bodisuudyg shoshgon deer tod üsgeer bichsen baidag."
+  },
+  {
+   "mn": "Энэ жүүс ямар ч нэмэлт бодисгүй, хиймэл өнгө оруулагчгүй.",
+   "en": "This juice is free from additives and artificial colors.",
+   "alt_mn": [
+    "Энэ жүүсэнд нэмэлт бодис, хиймэл өнгө оруулагч огт байхгүй."
+   ],
+   "alt_en": [
+    "This juice has no additives or artificial colors.",
+    "This juice is free of additives and artificial colors."
+   ],
+   "mn_latin": "Ene jüüs yamar ch nemelt bodisgüi, khiimel öngö oruulagchgüi."
+  },
+  {
+   "mn": "Импортын бараан дээр монгол хэлээр бичсэн наалт байх ёстой.",
+   "en": "Imported goods are supposed to have a sticker in Mongolian.",
+   "alt_mn": [
+    "Импортын бараанд монгол хэл дээрх наалт байх ёстой."
+   ],
+   "alt_en": [
+    "Imported products should have a label sticker in Mongolian."
+   ],
+   "mn_latin": "Importyn baraan deer mongol kheleer bichsen naalt baikh yostoi."
+  },
+  {
+   "mn": "Энэ сүү лактозгүй гэж үү? Шошгон дээр нь тийм зүйл бичээгүй байна.",
+   "en": "Is this milk lactose-free? The label doesn't say that.",
+   "alt_mn": [
+    "Энэ сүү лактозгүй юм уу? Шошгон дээр нь тэгж бичээгүй байна."
+   ],
+   "alt_en": [
+    "Is this milk lactose-free? It doesn't say so on the label."
+   ],
+   "mn_latin": "Ene süü laktozgüi gej üü? Shoshgon deer ni tiim züil bicheegüi baina."
+  },
+  {
+   "mn": "Үйлдвэр нь самар боловсруулдаг тул ул мөр үлдэж болно.",
+   "en": "The factory processes nuts, so traces may remain.",
+   "alt_mn": [
+    "Үйлдвэрт нь самар боловсруулдаг учраас ул мөр үлдэж болзошгүй."
+   ],
+   "alt_en": [
+    "The factory handles nuts, so there may be traces."
+   ],
+   "mn_latin": "Üildver ni samar bolovsruuldag tul ul mör üldej bolno."
+  }
+ ],
+ "grammar": {
+  "title_en": "Saying \"free from,\" \"high in,\" \"low in,\" and \"rich in\"",
+  "title_mn": "\"Free from\", \"high in\", \"low in\", \"rich in\" гэж хэлэх нь",
+  "explain_en": "Mongolian builds these label phrases with suffixes and short words, not prepositions. 'Free from X' is X + -гүй (глютенгүй = gluten-free, нэмэлт бодисгүй = additive-free). 'High in X' is X + их + -тэй (чихэр ихтэй = high in sugar). 'Low in X' is X + бага + -тай (давс багатай = low in salt). 'Rich in X' puts X in the instrumental case (-аар/-ээр/-оор/-өөр) before баялаг (уургаар баялаг = rich in protein). On formal labels you'll also see агуулсан (containing) and агуулаагүй (not containing), and X-ийн агууламж өндөр/бага (high/low X content).",
+  "explain_mn": "Англи хэлэнд хүнсний шошгон дээр дагавар биш, угтвар үг хэрэглэдэг. 'Free from X' нь '-гүй' гэсэн утгатай (gluten-free, free from additives). Энд 'from'-ыг хэрэглэнэ, 'free of' гэж ч бас хэлж болно. 'High in X' нь 'X ихтэй', 'low in X' нь 'X багатай', 'rich in X' нь 'X-аар баялаг' гэсэн утгатай. Энэ гурван хэллэгт заавал 'in' угтвар үг орно. 'High of' эсвэл 'rich with' гэж хэлвэл буруу. Шошгон дээр товчилсон хэлбэр ч түгээмэл байдаг: gluten-free, low-fat, sugar-free.",
+  "examples": [
+   {
+    "mn": "Энэ талх глютенгүй.",
+    "en": "This bread is gluten-free.",
+    "mn_latin": "Ene talkh glyutyengüi."
+   },
+   {
+    "mn": "Энэ ундаа элсэн чихэр ихтэй.",
+    "en": "This drink is high in sugar.",
+    "mn_latin": "Ene undaa elsen chikher ikhtei."
+   },
+   {
+    "mn": "Би өөх тос багатай сүү авъя.",
+    "en": "I'll get the milk that's low in fat.",
+    "mn_latin": "Bi öökh tos bagatai süü avya."
+   },
+   {
+    "mn": "Бууцай төмрөөр баялаг.",
+    "en": "Spinach is rich in iron.",
+    "mn_latin": "Buutsai tömröör bayalag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ талх глютен___ юм.",
+   "answer": "гүй",
+   "options": [
+    "гүй",
+    "тэй",
+    "ээр",
+    "ий"
+   ],
+   "translation": "This bread is gluten-free.",
+   "explain_en": "The suffix -гүй means 'without / free from.' -тэй would mean 'with gluten,' the opposite.",
+   "explain_mn": "'-гүй' дагавар нь 'байхгүй' гэсэн утгатай, англиар 'gluten-free' буюу 'free from gluten' гэж орчуулна."
+  },
+  {
+   "mn_note": "",
+   "lang": "mn",
+   "text": "Энэ бяслаг уург___ баялаг.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "тай",
+    "гүй",
+    "ийн"
+   ],
+   "translation": "This cheese is rich in protein.",
+   "explain_en": "Баялаг ('rich') takes the instrumental case. Уураг drops its second vowel and adds -аар, giving уургаар.",
+   "explain_mn": "'Баялаг' гэдэг үгийн өмнө нэр үг үйлдэхийн тийн ялгалд (-аар/-ээр) орно: уургаар баялаг. Англиар 'rich in protein' гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Самрын ул мөр ___ болзошгүй.",
+   "answer": "агуулж",
+   "options": [
+    "агуулж",
+    "агуулсан",
+    "агуулаагүй",
+    "агуулна"
+   ],
+   "translation": "May contain traces of nuts.",
+   "explain_en": "Болзошгүй ('may, possibly') needs the connective form -ж before it: агуулж болзошгүй = may contain.",
+   "explain_mn": "'Болзошгүй' гэдгийн өмнө үйл үг холбох '-ж' хэлбэртэй байна. Англиар 'may contain' гэж орчуулна."
+  },
+  {
+   "lang": "en",
+   "text": "This juice is free ___ artificial colors.",
+   "answer": "from",
+   "options": [
+    "from",
+    "in",
+    "at",
+    "on"
+   ],
+   "translation": "Энэ жүүс хиймэл өнгө оруулагчгүй.",
+   "explain_en": "We say 'free from' (or 'free of') to mean something isn't in the product.",
+   "explain_mn": "'Free from' нь '-гүй' гэсэн утгатай. 'Free' үгийн дараа 'from' (эсвэл 'of') орно, 'in' эсвэл 'on' ордоггүй."
+  },
+  {
+   "lang": "en",
+   "text": "This soup is low ___ salt.",
+   "answer": "in",
+   "options": [
+    "in",
+    "on",
+    "of",
+    "at"
+   ],
+   "translation": "Энэ шөл давс багатай.",
+   "explain_en": "'Low' and 'high' take 'in' when describing what a food contains: low in salt, high in sugar.",
+   "explain_mn": "'Low' болон 'high' үгийн дараа 'in' орно: low in salt (давс багатай), high in sugar (чихэр ихтэй)."
+  },
+  {
+   "lang": "en",
+   "text": "Lentils are rich ___ iron.",
+   "answer": "in",
+   "options": [
+    "in",
+    "at",
+    "of",
+    "from"
+   ],
+   "translation": "Сэвэг зарам төмрөөр баялаг.",
+   "explain_en": "The fixed phrase is 'rich in.' 'Rich with' sounds unnatural on food labels.",
+   "explain_mn": "'Rich in' гэдэг тогтсон хэллэг бөгөөд '-аар баялаг' гэсэн утгатай. 'Rich with' гэж хэлэхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Сарнай, энэ жигнэмэгийн найрлагыг уншаад өгөөч. Би самрын харшилтай.",
+   "en": "Sarnai, could you read the ingredients on these cookies for me? I'm allergic to nuts.",
+   "mn_latin": "Sarnai, ene jignemegiin nairlagyg unshaad ögööch. Bi samryn kharshiltai."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Самар гэж шууд бичээгүй ч доор нь \"самрын ул мөр агуулж болзошгүй\" гэсэн байна.",
+   "en": "It doesn't list nuts directly, but at the bottom it says \"may contain traces of nuts.\"",
+   "mn_latin": "Samar gej shuud bicheegüi ch door ni \"samryn ul mör aguulj bolzoshgüi\" gesen baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгвэл авахгүй. Бас глютенгүй талх хэрэгтэй, найз маань целиак өвчтэй.",
+   "en": "Then I won't get them. I also need gluten-free bread, because my friend has celiac disease.",
+   "mn_latin": "Tegvel avakhgüi. Bas glyutyengüi talkh kheregtei, naiz maani tsyeliak övchtei."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Энэ тавиур дээр байна. Харин хадгалалтын хугацааг нь хараарай, маргааш дуусна.",
+   "en": "It's on this shelf. But check the expiration date, it expires tomorrow.",
+   "mn_latin": "Ene taviur deer baina. Kharin khadgalaltyn khugatsaag ni kharaarai, margaash duusna."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Өө, цаана нь илүү шинэ нь байна. Энэ тараг ямар вэ?",
+   "en": "Oh, there's a fresher one in the back. What about this yogurt?",
+   "mn_latin": "Öö, tsaana ni ilüü shine ni baina. Ene tarag yamar ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Уургаар баялаг, гэхдээ элсэн чихэр ихтэй. Нэмэлт бодис ч олон юм байна.",
+   "en": "It's rich in protein, but it's high in sugar. It has a lot of additives too.",
+   "mn_latin": "Uurgaar bayalag, gekhdee elsen chikher ikhtei. Nemelt bodis ch olon yum baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгвэл чихэр багатайг нь хайя.",
+   "en": "Then let's look for one that's low in sugar.",
+   "mn_latin": "Tegvel chikher bagataig ni khaiya."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Энэ байна: \"элсэн чихэргүй, хиймэл амтлагчгүй.\"",
+   "en": "Here's one: \"sugar-free, no artificial sweeteners.\"",
+   "mn_latin": "Ene baina: \"elsen chikhergüi, khiimel amtlagchgüi.\""
+  }
+ ],
+ "culture_note": {
+  "en": "Many packaged foods in Ulaanbaatar supermarkets are imported from Russia, South Korea, China, and Europe, and they often carry a small Mongolian-language sticker over the original label. The sticker may be shorter than the original, so people with allergies often also check the Russian, Korean, or English text. Allergen warnings like \"may contain traces\" are more common on European and Korean products than on some locally made goods.",
+  "mn": "Улаанбаатарын супермаркетуудад зарагддаг савласан хүнсний ихэнх нь Орос, Өмнөд Солонгос, Хятад, Европоос импортлогддог бөгөөд анхны шошгон дээр нь монгол хэл дээрх жижиг наалт наасан байдаг. Наалт нь анхны шошгоос товч байж болох тул харшилтай хүмүүс орос, солонгос эсвэл англи бичвэрийг нь давхар шалгадаг. \"Ул мөр агуулж болзошгүй\" гэх мэт харшлын анхааруулга дотоодын зарим бүтээгдэхүүнээс илүү Европ, Солонгосын бүтээгдэхүүн дээр түгээмэл байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Accurate, natural lesson overall. The only real problems were the bold-print wording and one fill-in-the-blank distractor that could also be accepted."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "Lesson is largely accurate. The only fix is the awkward intro_mn wording, which now also mirrors intro_en.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'хэллэгүүдийг дадлага хийнэ' is ungrammatical; now matches the en intro (describing food)"
+   }
+  ]
+ }
+}

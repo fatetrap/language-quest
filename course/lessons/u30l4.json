@@ -1,0 +1,452 @@
+{
+ "intro_en": "You will learn to recommend places in Ulaanbaatar and the countryside, and to describe them with clauses like 'the café where we met' using Mongolian participles (-сан, -даг).",
+ "intro_mn": "Та Улаанбаатар болон хөдөөгийн газруудыг санал болгож, «бидний уулзсан кафе» гэх мэт тодотгол өгүүлбэрийг үйлт нэрээр (-сан, -даг) хэрхэн хэлэхийг сурна.",
+ "vocab": [
+  {
+   "mn": "кафе",
+   "en": "café",
+   "pos": "noun",
+   "example_mn": "Энэ кафе маш тухтай.",
+   "example_en": "This café is very cozy.",
+   "mn_latin": "kafye"
+  },
+  {
+   "mn": "зах",
+   "en": "market",
+   "pos": "noun",
+   "example_mn": "Нарантуул зах дээр бүх зүйл байдаг.",
+   "example_en": "You can find everything at Narantuul Market.",
+   "mn_latin": "zakh"
+  },
+  {
+   "mn": "хийд",
+   "en": "monastery",
+   "pos": "noun",
+   "example_mn": "Гандантэгчинлэн хийд Улаанбаатарт байдаг.",
+   "example_en": "Gandantegchinlen Monastery is in Ulaanbaatar.",
+   "mn_latin": "khiid"
+  },
+  {
+   "mn": "рашаан",
+   "en": "hot spring",
+   "pos": "noun",
+   "example_mn": "Хөдөөд сайхан рашаан бий.",
+   "example_en": "There is a nice hot spring in the countryside.",
+   "mn_latin": "rashaan"
+  },
+  {
+   "mn": "музей",
+   "en": "museum",
+   "pos": "noun",
+   "example_mn": "Би музейд очмоор байна.",
+   "example_en": "I want to go to the museum.",
+   "mn_latin": "muzyei"
+  },
+  {
+   "mn": "цэцэрлэгт хүрээлэн",
+   "en": "park",
+   "pos": "noun",
+   "example_mn": "Бид цэцэрлэгт хүрээлэнд алхдаг.",
+   "example_en": "We walk in the park.",
+   "mn_latin": "tsetserlegt khüreelen"
+  },
+  {
+   "mn": "санал болгох",
+   "en": "to recommend",
+   "pos": "verb",
+   "example_mn": "Би танд энэ газрыг санал болгоё.",
+   "example_en": "Let me recommend this place to you.",
+   "mn_latin": "sanal bolgokh"
+  },
+  {
+   "mn": "очих",
+   "en": "to go (to a place), to visit",
+   "pos": "verb",
+   "example_mn": "Та заавал тийшээ очоорой.",
+   "example_en": "You must go there.",
+   "mn_latin": "ochikh"
+  },
+  {
+   "mn": "алдартай",
+   "en": "famous, popular",
+   "pos": "adjective",
+   "example_mn": "Энэ ресторан маш алдартай.",
+   "example_en": "This restaurant is very famous.",
+   "mn_latin": "aldartai"
+  },
+  {
+   "mn": "чимээгүй",
+   "en": "quiet",
+   "pos": "adjective",
+   "example_mn": "Энэ газар чимээгүй, тайван.",
+   "example_en": "This place is quiet and calm.",
+   "mn_latin": "chimeegüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бидний уулзсан кафе энд байдаг.",
+   "en": "The café where we met is here.",
+   "alt_mn": [
+    "Бидний уулзсан кафе энд байна."
+   ],
+   "alt_en": [
+    "The café that we met at is here."
+   ],
+   "mn_latin": "Bidnii uulzsan kafye end baidag."
+  },
+  {
+   "mn": "Бидний хоол идсэн ресторан маш сайн байсан.",
+   "en": "The restaurant where we ate was very good.",
+   "alt_mn": [],
+   "alt_en": [
+    "The restaurant we ate at was very good."
+   ],
+   "mn_latin": "Bidnii khool idsen ryestoran mash sain baisan."
+  },
+  {
+   "mn": "Хүмүүс очдог газар олон байдаг.",
+   "en": "There are many places that people visit.",
+   "alt_mn": [],
+   "alt_en": [
+    "There are many places where people go."
+   ],
+   "mn_latin": "Khümüüs ochdog gazar olon baidag."
+  },
+  {
+   "mn": "Би чамд амралтаараа очсон хийдийг санал болгоё.",
+   "en": "I recommend the monastery I visited on vacation.",
+   "alt_mn": [],
+   "alt_en": [
+    "I recommend the monastery that I visited on my vacation."
+   ],
+   "mn_latin": "Bi chamd amraltaaraa ochson khiidiig sanal bolgoyo."
+  },
+  {
+   "mn": "Манай аавын очдог рашаан Архангайд байдаг.",
+   "en": "The hot spring that my father goes to is in Arkhangai.",
+   "alt_mn": [],
+   "alt_en": [
+    "The hot spring where my father goes is in Arkhangai."
+   ],
+   "mn_latin": "Manai aavyn ochdog rashaan Arkhangaid baidag."
+  },
+  {
+   "mn": "Та миний ярьсан музейг үзсэн үү?",
+   "en": "Have you seen the museum I talked about?",
+   "alt_mn": [],
+   "alt_en": [
+    "Have you seen the museum that I talked about?"
+   ],
+   "mn_latin": "Ta minii yarisan muzyeig üzsen üü?"
+  },
+  {
+   "mn": "Оюутнууд цуглардаг кафе чимээгүй биш.",
+   "en": "The café where students gather is not quiet.",
+   "alt_mn": [],
+   "alt_en": [
+    "The café that students gather in is not quiet."
+   ],
+   "mn_latin": "Oyuutnuud tsuglardag kafye chimeegüi bish."
+  },
+  {
+   "mn": "Энэ бол миний ажилладаг байр.",
+   "en": "This is the building where I work.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is the building I work in."
+   ],
+   "mn_latin": "Ene bol minii ajilladag bair."
+  },
+  {
+   "mn": "Бидний захаас худалдаж авсан цамц маш сайхан.",
+   "en": "The shirt we bought at the market is very nice.",
+   "alt_mn": [
+    "Бидний зах дээрээс худалдаж авсан цамц маш сайхан."
+   ],
+   "alt_en": [
+    "The shirt that we bought at the market is very nice."
+   ],
+   "mn_latin": "Bidnii zakhaas khudaldaj avsan tsamts mash saikhan."
+  },
+  {
+   "mn": "Миний төрсөн хөдөө сайхан газар.",
+   "en": "The countryside where I was born is a beautiful place.",
+   "alt_mn": [],
+   "alt_en": [
+    "The countryside I was born in is a beautiful place."
+   ],
+   "mn_latin": "Minii törsön khödöö saikhan gazar."
+  },
+  {
+   "mn": "Бидний зуны амралтаараа очдог цэцэрлэгт хүрээлэн надад таалагддаг.",
+   "en": "I like the park where we go during summer vacation.",
+   "alt_mn": [],
+   "alt_en": [
+    "I like the park that we go to during summer vacation."
+   ],
+   "mn_latin": "Bidnii zuny amraltaaraa ochdog tsetserlegt khüreelen nadad taalagddag."
+  },
+  {
+   "mn": "Та хамгийн алдартай хийдэд очоорой.",
+   "en": "Please go to the most famous monastery.",
+   "alt_mn": [],
+   "alt_en": [
+    "Go to the most famous monastery."
+   ],
+   "mn_latin": "Ta khamgiin aldartai khiided ochooroi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Participles before place nouns",
+  "title_mn": "Газрын нэрийн өмнөх үйлт нэр",
+  "explain_en": "Mongolian has no 'where' or 'that'. Instead, put a participle right before the noun: -сан/-сэн for a finished action (бидний уулзсан кафе = the café where we met) and -даг/-дэг for a habit (хүмүүс очдог газар = a place people go). The subject often takes the genitive: миний, бидний, аавын. The clause always comes before the noun, so English reads in reverse: 'the café where we met' becomes 'we-met café'.",
+  "explain_mn": "Монгол хэлэнд where, that гэх мэт холбоо үг байдаггүй. Харин үйлт нэрийг нэрийн шууд ӨМНӨ тавина: дууссан үйлдэлд -сан/-сэн (бидний уулзсан кафе = the café where we met), байнгын үйлдэлд -даг/-дэг (хүмүүс очдог газар = a place people go). Үйлийн эзэн ихэвчлэн илийн тийн ялгалтай байна: миний, бидний, аавын. Тодотгол үргэлж нэрийн өмнө ордог тул англиар эсрэг дарааллаар уншигдана: англи хэлэнд where/that-тай хэсэг нэрийн ДАРАА ордог (the café where we met).",
+  "examples": [
+   {
+    "mn": "бидний уулзсан кафе",
+    "en": "the café where we met",
+    "mn_latin": "bidnii uulzsan kafye"
+   },
+   {
+    "mn": "хүмүүс очдог газар",
+    "en": "a place that people go to",
+    "mn_latin": "khümüüs ochdog gazar"
+   },
+   {
+    "mn": "миний ажилладаг байр",
+    "en": "the building where I work",
+    "mn_latin": "minii ajilladag bair"
+   },
+   {
+    "mn": "аавын төрсөн хөдөө",
+    "en": "the countryside where my father was born",
+    "mn_latin": "aavyn törsön khödöö"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бидний хоол ___ ресторан энд байдаг.",
+   "answer": "идсэн",
+   "options": [
+    "идсэн",
+    "идэв",
+    "идээд",
+    "идэж"
+   ],
+   "translation": "The restaurant where we ate is here.",
+   "explain_en": "A finished one-time event before a noun takes -сан/-сэн: идсэн.",
+   "explain_mn": "Өнгөрсөн нэг удаагийн үйлдэл нэрийн өмнө -сан/-сэн авна: идсэн."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүмүүс байнга очдог ___ олон бий.",
+   "answer": "газар",
+   "options": [
+    "газар",
+    "газрыг",
+    "очих",
+    "байсан"
+   ],
+   "translation": "There are many places people often go.",
+   "explain_en": "The participle clause modifies a noun; here 'газар' (place) is the head noun.",
+   "explain_mn": "Үйлт нэр тодотгож буй гол нэр нь «газар» байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Миний ажилладаг ___ төвд байдаг.",
+   "answer": "байр",
+   "options": [
+    "байр",
+    "ажил",
+    "очдог",
+    "байсан"
+   ],
+   "translation": "The building where I work is downtown.",
+   "explain_en": "ажилладаг (habit) describes a noun; байр (building) fits.",
+   "explain_mn": "«ажилладаг» нь байр гэсэн нэрийг тодотгож байна."
+  },
+  {
+   "lang": "en",
+   "text": "This is the café ___ we first met.",
+   "answer": "where",
+   "options": [
+    "where",
+    "who",
+    "what",
+    "when"
+   ],
+   "translation": "Энэ бол бидний анх уулзсан кафе.",
+   "explain_en": "Use 'where' after a place noun when the clause has its own subject and verb.",
+   "explain_mn": "Газрын нэрийн дараа өөрийн эзэнтэй өгүүлбэр орвол where хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The monastery ___ we visited is very old.",
+   "answer": "that",
+   "options": [
+    "that",
+    "who",
+    "where is",
+    "whose"
+   ],
+   "translation": "Бидний очсон хийд маш эртнийх.",
+   "explain_en": "'Visit' takes a direct object (we visited the monastery), so use 'that', not 'where'.",
+   "explain_mn": "visit үйл үг шууд тусагчтай (we visited the monastery) тул where биш that хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I love the market ___ they sell fresh meat.",
+   "answer": "where",
+   "options": [
+    "where",
+    "which is",
+    "who",
+    "what"
+   ],
+   "translation": "Би шинэ мах зардаг заханд дуртай.",
+   "explain_en": "'Where' joins a place noun to a full clause: they sell fresh meat there.",
+   "explain_mn": "Where нь газрыг бүтэн өгүүлбэртэй холбодог."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Улаанбаатарт хаашаа очвол дээр вэ?",
+   "en": "Where should I go in Ulaanbaatar?",
+   "mn_latin": "Ulaanbaatart khaashaa ochvol deer ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Би чамд бидний саяхан очсон кафег санал болгоё.",
+   "en": "Let me recommend the café we went to recently.",
+   "mn_latin": "Bi chamd bidnii sayakhan ochson kafyeg sanal bolgoyo."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэр кафе чимээгүй юу?",
+   "en": "Is that café quiet?",
+   "mn_latin": "Ter kafye chimeegüi yuu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, оюутнууд ном уншдаг газар шүү.",
+   "en": "Yes, it's a place where students read.",
+   "mn_latin": "Tiim, oyuutnuud nom unshdag gazar shüü."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Хөдөө очих газар байна уу?",
+   "en": "Is there a place to visit in the countryside?",
+   "mn_latin": "Khödöö ochikh gazar baina uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Архангайн рашаан сайхан. Миний аавын очдог газар.",
+   "en": "The Arkhangai hot spring is nice. It's the place my father goes.",
+   "mn_latin": "Arkhangain rashaan saikhan. Minii aavyn ochdog gazar."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Гайхалтай, заавал очно!",
+   "en": "Great, I'll definitely go!",
+   "mn_latin": "Gaikhaltai, zaaval ochno!"
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolians love visiting hot springs (рашаан) in Arkhangai and Khentii, believing the mineral water heals the joints and the stomach. In Ulaanbaatar, monasteries like Gandan are active places where people spin prayer wheels. Saying 'хүмүүс очдог газар' (a place people go) is a common way to recommend a good place.",
+  "mn": "Олон монголчууд Архангай, Хэнтийн рашаанд очих дуртай бөгөөд эрдэст ус нь үе мөч, ходоодонд сайн гэж үздэг. Улаанбаатарт Гандан зэрэг хийд идэвхтэй үйлчилдэг бөгөөд хүмүүс хүрд эргүүлдэг. «Хүмүүс очдог газар» гэж хэлэх нь сайхан газрыг санал болгох түгээмэл арга юм."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 19,
+  "notes": "Mostly good content, but several Mongolian grammar errors (case endings, 'Намайг төрсөн', garbled explain_mn, non-word 'оромийг') needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 13,
+  "notes": "Fixed a wrong noun meaning, an ambiguous blank option, mismatched explanations, and case and spelling errors.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Awkward suffix placement after the parenthesis"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_en",
+    "why": "маш (very) was missing from the English"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "цамц means shirt, not sweater"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "цамц means shirt"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn explanation must match the en content"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "идэх also works grammatically (the restaurant where we will eat)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_en",
+    "why": "The original reasoning was inaccurate"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_mn",
+    "why": "Match the corrected en explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "эртний cannot stand alone as a predicate"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "заддаг→зардаг (sell); дуртай requires the dative заханд"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "саяхан must sit inside the participle clause"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Match the en version (many, love, recommend)"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "'Local secrets' was inaccurate and didn't match the mn version"
+   }
+  ]
+ }
+}

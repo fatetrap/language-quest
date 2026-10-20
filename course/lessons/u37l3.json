@@ -1,0 +1,409 @@
+{
+ "intro_en": "Visit a Mongolian mining town and talk with a worker about coal, copper, gold, deposits, and licenses. You will learn to turn verbs into action nouns with -лт (олборлолт, боловсруулалт, тээвэрлэлт) and to form English noun + noun compounds such as copper mine and safety regulations.",
+ "intro_mn": "Уурхайн хотоор зочилж, ажилчинтай нүүрс, зэс, алт, орд, тусгай зөвшөөрлийн талаар ярилцана. Үйл үгээс -лт дагавраар үйл явцын нэр үг (олборлолт, боловсруулалт, тээвэрлэлт) үүсгэх, англи хэлний copper mine, safety regulations гэх мэт нэр үг + нэр үгийн нийлмэл хэллэгийг сурна.",
+ "vocab": [
+  {
+   "mn": "уурхай",
+   "en": "mine",
+   "pos": "noun",
+   "example_mn": "Миний аав зэсийн уурхайд ажилладаг.",
+   "example_en": "My father works at a copper mine.",
+   "mn_latin": "uurkhai"
+  },
+  {
+   "mn": "нүүрс",
+   "en": "coal",
+   "pos": "noun",
+   "example_mn": "Тавантолгойд нүүрсний том орд бий.",
+   "example_en": "There is a large coal deposit at Tavan Tolgoi.",
+   "mn_latin": "nüürs"
+  },
+  {
+   "mn": "зэс",
+   "en": "copper",
+   "pos": "noun",
+   "example_mn": "Зэсийн үнэ энэ жил өссөн.",
+   "example_en": "The price of copper went up this year.",
+   "mn_latin": "zes"
+  },
+  {
+   "mn": "алт",
+   "en": "gold",
+   "pos": "noun",
+   "example_mn": "Энэ голын эрэгт алт олборлодог байсан.",
+   "example_en": "They used to mine gold on this riverbank.",
+   "mn_latin": "alt"
+  },
+  {
+   "mn": "орд",
+   "en": "deposit",
+   "pos": "noun",
+   "example_mn": "Геологичид шинэ орд илрүүлжээ.",
+   "example_en": "Geologists have discovered a new deposit.",
+   "mn_latin": "ord"
+  },
+  {
+   "mn": "олборлолт",
+   "en": "extraction, mining",
+   "pos": "noun",
+   "example_mn": "Нүүрсний олборлолт нэмэгдэж байна.",
+   "example_en": "Coal extraction is increasing.",
+   "mn_latin": "olborlolt"
+  },
+  {
+   "mn": "боловсруулалт",
+   "en": "processing",
+   "pos": "noun",
+   "example_mn": "Хүдрийн боловсруулалт их ус шаарддаг.",
+   "example_en": "Ore processing requires a lot of water.",
+   "mn_latin": "bolovsruulalt"
+  },
+  {
+   "mn": "тээвэрлэлт",
+   "en": "transportation, shipping",
+   "pos": "noun",
+   "example_mn": "Тээвэрлэлтийг ачааны машинаар хийдэг.",
+   "example_en": "Transportation is done by truck.",
+   "mn_latin": "teeverlelt"
+  },
+  {
+   "mn": "тусгай зөвшөөрөл",
+   "en": "license",
+   "pos": "noun",
+   "example_mn": "Компани ашиглалтын тусгай зөвшөөрөл авсан.",
+   "example_en": "The company got a mining license.",
+   "mn_latin": "tusgai zövshööröl"
+  },
+  {
+   "mn": "аюулгүй ажиллагааны журам",
+   "en": "safety regulations",
+   "pos": "noun phrase",
+   "example_mn": "Аюулгүй ажиллагааны журмыг заавал мөрдөнө.",
+   "example_en": "Safety regulations must be followed.",
+   "mn_latin": "ayuulgüi ajillagaany juram"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Оюу толгой бол дэлхийн хамгийн том зэс, алтны ордуудын нэг.",
+   "en": "Oyu Tolgoi is one of the largest copper and gold deposits in the world.",
+   "alt_mn": [
+    "Оюу толгой нь дэлхийн хамгийн том зэс, алтны ордуудын нэг юм."
+   ],
+   "alt_en": [
+    "Oyu Tolgoi is one of the world's largest copper and gold deposits."
+   ],
+   "mn_latin": "Oyuu tolgoi bol delkhiin khamgiin tom zes, altny orduudyn neg."
+  },
+  {
+   "mn": "Эрдэнэт үйлдвэр 1978 оноос хойш зэс олборлож байна.",
+   "en": "Erdenet has been mining copper since 1978.",
+   "alt_mn": [],
+   "alt_en": [
+    "Erdenet has been extracting copper since 1978."
+   ],
+   "mn_latin": "Erdenet üildver 1978 onoos khoish zes olborloj baina."
+  },
+  {
+   "mn": "Нүүрсний ихэнх хэсгийг Хятад руу тээвэрлэдэг.",
+   "en": "Most of the coal is transported to China.",
+   "alt_mn": [
+    "Нүүрсний дийлэнхийг Хятад руу тээвэрлэдэг."
+   ],
+   "alt_en": [
+    "Most of the coal is shipped to China."
+   ],
+   "mn_latin": "Nüürsnii ikhenkh khesgiig Khyatad ruu teeverledeg."
+  },
+  {
+   "mn": "Тээвэрлэлтийн зардал маш өндөр байна.",
+   "en": "Transportation costs are very high.",
+   "alt_mn": [],
+   "alt_en": [
+    "Shipping costs are very high."
+   ],
+   "mn_latin": "Teeverleltiin zardal mash öndör baina."
+  },
+  {
+   "mn": "Энэ жил олборлолт өнгөрсөн жилийнхээс 20 хувиар өссөн.",
+   "en": "This year extraction rose by 20 percent compared to last year.",
+   "alt_mn": [
+    "Энэ жил олборлолт өнгөрсөн жилтэй харьцуулахад 20 хувиар өссөн."
+   ],
+   "alt_en": [
+    "Extraction is up 20 percent from last year."
+   ],
+   "mn_latin": "Ene jil olborlolt öngörsön jiliinkhees 20 khuviar össön."
+  },
+  {
+   "mn": "Хүдрийн боловсруулалт баяжуулах үйлдвэрт явагддаг.",
+   "en": "Ore processing takes place at the concentrator plant.",
+   "alt_mn": [],
+   "alt_en": [
+    "The ore is processed at the concentrator plant."
+   ],
+   "mn_latin": "Khüdriin bolovsruulalt bayajuulakh üildvert yavagddag."
+  },
+  {
+   "mn": "Компани шинэ ордын ашиглалтын тусгай зөвшөөрөл авсан.",
+   "en": "The company received a mining license for the new deposit.",
+   "alt_mn": [],
+   "alt_en": [
+    "The company got a mining license for the new deposit."
+   ],
+   "mn_latin": "Kompani shine ordyn ashiglaltyn tusgai zövshööröl avsan."
+  },
+  {
+   "mn": "Бүх ажилчид аюулгүй ажиллагааны журмыг чанд мөрдөх ёстой.",
+   "en": "All workers must strictly follow the safety regulations.",
+   "alt_mn": [
+    "Ажилчин бүр аюулгүй ажиллагааны журмыг чанд мөрдөх ёстой."
+   ],
+   "alt_en": [
+    "Every worker must strictly follow the safety regulations."
+   ],
+   "mn_latin": "Bükh ajilchid ayuulgüi ajillagaany jurmyg chand mördökh yostoi."
+  },
+  {
+   "mn": "Би хоёр долоо хоног ажиллаад, хоёр долоо хоног амардаг.",
+   "en": "I work two weeks on and two weeks off.",
+   "alt_mn": [],
+   "alt_en": [
+    "I work for two weeks and then rest for two weeks."
+   ],
+   "mn_latin": "Bi khoyor doloo khonog ajillaad, khoyor doloo khonog amardag."
+  },
+  {
+   "mn": "Уурхайн ажилчдын цалин хотынхоос өндөр.",
+   "en": "Mine workers' salaries are higher than salaries in the city.",
+   "alt_mn": [],
+   "alt_en": [
+    "Mine workers earn more than people in the city."
+   ],
+   "mn_latin": "Uurkhain ajilchdyn tsalin khotynkhoos öndör."
+  },
+  {
+   "mn": "Алтны олборлолт голын усыг бохирдуулж болзошгүй.",
+   "en": "Gold mining can pollute river water.",
+   "alt_mn": [],
+   "alt_en": [
+    "Gold extraction may pollute river water."
+   ],
+   "mn_latin": "Altny olborlolt golyn usyg bokhirduulj bolzoshgüi."
+  },
+  {
+   "mn": "Орон нутгийн иргэд уурхайн тусгай зөвшөөрлийн талаар санаа зовж байна.",
+   "en": "Local residents are worried about the mining license.",
+   "alt_mn": [],
+   "alt_en": [
+    "Local people are concerned about the mining license."
+   ],
+   "mn_latin": "Oron nutgiin irged uurkhain tusgai zövshöörliin talaar sanaa zovj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Action nouns with -лт / English noun + noun compounds",
+  "title_mn": "-лт дагавартай нэр үг / Англи хэлний нэр үг + нэр үгийн нийлмэл хэллэг",
+  "explain_en": "Mongolian turns many verbs into nouns that name the process by adding -лт to the verb stem: олборло-х (to extract) → олборлолт (extraction), боловсруула-х (to process) → боловсруулалт (processing), тээвэрлэ-х (to transport) → тээвэрлэлт (transportation). Drop the -х of the dictionary form and add -лт. The new word is an ordinary noun, so it takes case endings: олборлолтын (of extraction), тээвэрлэлтэд (in transportation). It works much like English -tion or -ing nouns and is very common in news, business, and official language. English often puts two nouns side by side to make a compound: copper mine (зэсийн уурхай), mining license, safety regulations. The first noun works like a modifier and tells you what kind of thing it is. In Mongolian the first word usually takes the genitive case, but in English it takes no ending and no 's. The first noun is almost always singular: coal trucks (✗ coals trucks). Only the last word is made plural.",
+  "explain_mn": "Монгол хэлэнд үйл үгийн язгуурт -лт дагавар залгаж үйл явцыг нэрлэсэн нэр үг үүсгэдэг: олборло-х → олборлолт, боловсруула-х → боловсруулалт, тээвэрлэ-х → тээвэрлэлт. Үндсэн хэлбэрийн -х-ийг хасаад -лт залгана. Шинэ үг нь ердийн нэр үг тул тийн ялгал авна: олборлолтын, тээвэрлэлтэд. Энэ нь англи хэлний -tion, -ing дагавартай нэр үгтэй төстэй бөгөөд мэдээ, бизнес, албан хэлэнд их хэрэглэгддэг. Англи хэлэнд хоёр нэр үгийг дараалан тавьж нийлмэл нэр үг үүсгэдэг: copper mine (зэсийн уурхай), mining license (ашиглалтын тусгай зөвшөөрөл), safety regulations (аюулгүй ажиллагааны журам). Эхний нэр үг тодотгол болж, ямар төрлийн зүйл болохыг заана. Монгол хэлэнд эхний үг ихэвчлэн харьяалахын тийн ялгалтай байдаг бол англи хэлэнд ямар ч нөхцөл, 's залгахгүй. Эхний нэр үг бараг үргэлж ганц тоотой байна: coal trucks (✗ coals trucks). Олон тоог зөвхөн сүүлчийн үгэнд залгана.",
+  "examples": [
+   {
+    "mn": "Зэсийн олборлолт",
+    "en": "copper extraction",
+    "mn_latin": "Zesiin olborlolt"
+   },
+   {
+    "mn": "Нүүрсний тээвэрлэлт төмөр замаар явагдана.",
+    "en": "Coal transportation will be done by rail.",
+    "mn_latin": "Nüürsnii teeverlelt tömör zamaar yavagdana."
+   },
+   {
+    "mn": "Хүдрийн боловсруулалтын үйлдвэр",
+    "en": "an ore processing plant",
+    "mn_latin": "Khüdriin bolovsruulaltyn üildver"
+   },
+   {
+    "mn": "Уурхайн ажилчид аюулгүй ажиллагааны журмыг мөрддөг.",
+    "en": "Mine workers follow safety regulations.",
+    "mn_latin": "Uurkhain ajilchid ayuulgüi ajillagaany jurmyg mörddög."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нүүрсний ___ төмөр замаар хийгддэг.",
+   "answer": "тээвэрлэлт",
+   "options": [
+    "тээвэрлэлт",
+    "тээвэрлэх",
+    "тээвэрлэсэн",
+    "тээвэрлэгч"
+   ],
+   "translation": "Coal transportation is done by rail.",
+   "explain_en": "The sentence needs a noun that names the process (\"transportation\") as the subject. тээвэрлэ-х + -лт = тээвэрлэлт. тээвэрлэгч means \"carrier\" (a person or company), not the process.",
+   "explain_mn": "Өгүүлэгдэхүүн нь үйл явцыг нэрлэсэн нэр үг байх ёстой тул тээвэрлэх үйл үгэнд -лт залгаж тээвэрлэлт болгоно. Тээвэрлэгч бол үйлдэгч (хүн, компани) юм."
+  },
+  {
+   "mn_note": "",
+   "lang": "mn",
+   "text": "Зэсийн хүдрийн боловсруула___ хэд хэдэн үе шаттай.",
+   "answer": "лт",
+   "options": [
+    "лт",
+    "х",
+    "гч",
+    "сан"
+   ],
+   "translation": "Copper ore processing has several stages.",
+   "explain_en": "Add -лт to the stem боловсруула- to get the noun боловсруулалт (processing). The other endings make an infinitive (-х), a doer (-гч), or a past participle (-сан).",
+   "explain_mn": "Боловсруула- язгуурт -лт залгаж боловсруулалт гэсэн үйл явцын нэр үг болгоно. -х нь үйл үгийн үндсэн хэлбэр, -гч нь үйлдэгч, -сан нь өнгөрсөн цагийн тодотгол үйл үг."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ ордын олборлолт___ олон мянган хүн оролцдог.",
+   "answer": "од",
+   "options": [
+    "од",
+    "ын",
+    "оос",
+    "той"
+   ],
+   "translation": "Thousands of people take part in the extraction at this deposit.",
+   "explain_en": "The verb оролцох (to take part) requires the dative-locative case: олборлолт + -од = олборлолтод (in the extraction). The -лт noun takes case endings like any other noun.",
+   "explain_mn": "Оролцох үйл үг өгөх-орших тийн ялгал шаарддаг тул олборлолтод болно. -лт дагавартай нэр үг ердийн нэр үгийн адил тийн ялгал авна."
+  },
+  {
+   "lang": "en",
+   "text": "The company needs a mining ___ before it can start work.",
+   "answer": "license",
+   "options": [
+    "license",
+    "licenses",
+    "licensed",
+    "licensing"
+   ],
+   "translation": "Компани ажлаа эхлэхээс өмнө ашиглалтын тусгай зөвшөөрөлтэй болох ёстой.",
+   "explain_en": "After \"a\" we need a singular noun: a mining license. \"Mining\" acts like an adjective here.",
+   "explain_mn": "\"a\" тодорхойгүй артиклийн дараа ганц тооны нэр үг ордог тул license байна. Mining нь энд тодотгол болж байна."
+  },
+  {
+   "lang": "en",
+   "text": "Erdenet is a large ___ mine.",
+   "answer": "copper",
+   "options": [
+    "copper",
+    "copper's",
+    "coppers",
+    "of copper"
+   ],
+   "translation": "Эрдэнэт бол зэсийн том уурхай.",
+   "explain_en": "In a noun + noun compound the first noun stays in its plain form: copper mine, not copper's mine or coppers mine.",
+   "explain_mn": "Нийлмэл нэр үгэнд эхний нэр үг ямар ч нөхцөлгүй, ганц тоотой байна. Монголоор \"зэсийн\" гэж харьяалахын тийн ялгал авдаг ч англиар 's залгахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Every worker must know the ___ regulations.",
+   "answer": "safety",
+   "options": [
+    "safety",
+    "safe",
+    "safely",
+    "safety's"
+   ],
+   "translation": "Ажилчин бүр аюулгүй ажиллагааны журмыг мэдэх ёстой.",
+   "explain_en": "The fixed compound is \"safety regulations\" (noun + noun). \"Safe\" is an adjective and \"safely\" is an adverb, so neither fits here.",
+   "explain_mn": "Тогтсон нийлмэл хэллэг нь safety regulations (нэр үг + нэр үг). Safe нь тэмдэг нэр, safely нь дайвар үг тул тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Сайн байна уу? Та энэ уурхайд хэр удаан ажиллаж байна вэ?",
+   "en": "Hello! How long have you been working at this mine?",
+   "mn_latin": "Sain baina uu? Ta ene uurkhaid kher udaan ajillaj baina ve?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Сайн байна уу. Би Оюу толгойд зургаан жил ажиллаж байна. Хүнд даацын машины жолооч.",
+   "en": "Hello. I've been working at Oyu Tolgoi for six years. I drive a haul truck.",
+   "mn_latin": "Sain baina uu. Bi Oyuu tolgoid zurgaan jil ajillaj baina. Khünd daatsyn mashiny jolooch."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Ажлын хуваарь тань ямар байдаг вэ?",
+   "en": "What is your work schedule like?",
+   "mn_latin": "Ajlyn khuvaari tani yamar baidag ve?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Хоёр долоо хоног ажиллаад, хоёр долоо хоног Улаанбаатарт гэртээ амардаг.",
+   "en": "I work two weeks on, then spend two weeks off at home in Ulaanbaatar.",
+   "mn_latin": "Khoyor doloo khonog ajillaad, khoyor doloo khonog Ulaanbaatart gertee amardag."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Олборлолтоос гадна хүдрийн боловсруулалт энд явагддаг уу?",
+   "en": "Besides extraction, does ore processing happen here too?",
+   "mn_latin": "Olborloltoos gadna khüdriin bolovsruulalt end yavagddag uu?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Тийм ээ, баяжуулах үйлдвэр энд байдаг. Харин баяжмалын тээвэрлэлтийг ачааны машинаар Хятадын хил рүү хийдэг.",
+   "en": "Yes, the concentrator plant is here. But the concentrate is transported by truck to the Chinese border.",
+   "mn_latin": "Tiim ee, bayajuulakh üildver end baidag. Kharin bayajmalyn teeverleltiig achaany mashinaar Khyatadyn khil rüü khiideg."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Аюулгүй ажиллагааны журам хатуу юу?",
+   "en": "Are the safety regulations strict?",
+   "mn_latin": "Ayuulgüi ajillagaany juram khatuu yuu?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Маш хатуу. Өдөр бүр ажил эхлэхээс өмнө аюулгүй ажиллагааны зааварчилгаа авдаг.",
+   "en": "Very strict. Every day before work starts, we get a safety briefing.",
+   "mn_latin": "Mash khatuu. Ödör bür ajil ekhlekhees ömnö ayuulgüi ajillagaany zaavarchilgaa avdag."
+  }
+ ],
+ "culture_note": {
+  "en": "Mining is the backbone of Mongolia's economy, and copper, coal, and gold make up most of its exports. Erdenet in Orkhon Province was founded in the 1970s around a copper mine, while Oyu Tolgoi in the South Gobi is a joint project in which the Mongolian government holds a 34 percent stake. Many workers do rotating shifts, often two weeks on and two weeks off, and travel to the mine from Ulaanbaatar or their home province.",
+  "mn": "Уул уурхай бол Монголын эдийн засгийн тулгуур бөгөөд экспортын дийлэнх хэсгийг зэс, нүүрс, алт эзэлдэг. Орхон аймгийн Эрдэнэт хот 1970-аад онд зэсийн уурхайг түшиглэн байгуулагдсан бол Өмнөговийн Оюу толгой нь Монгол Улсын Засгийн газар 34 хувийг эзэмшдэг хамтарсан төсөл юм. Олон ажилчин ээлжээр, ихэвчлэн хоёр долоо хоног ажиллаж, хоёр долоо хоног амрах хуваариар ажилладаг бөгөөд Улаанбаатар эсвэл төрсөн нутгаасаа уурхай руу явдаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A high-quality lesson. The Mongolian and English are natural, the -лт forms are accurate, and the facts are correct. Only one Mongolian explanation needed a fix."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Main issue: the en/mn grammar explanations covered different topics. The rest needed only minor wording fixes.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; both now cover both"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn version omitted the -лт explanation; now matches en"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "en",
+    "why": "'will go by rail' is unnatural"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "mn didn't convey 'two weeks on, two weeks off'"
+   }
+  ]
+ }
+}

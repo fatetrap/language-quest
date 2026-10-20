@@ -1,0 +1,421 @@
+{
+ "intro_en": "You will learn the names of common places in Ulaanbaatar, like bank, school, market and Sukhbaatar Square. You will also ask and answer \"Is this a ...?\" with Энэ ... мөн үү?",
+ "intro_mn": "Та Улаанбаатарын түгээмэл газрын нэрсийг (банк, сургууль, зах, Сүхбаатарын талбай гэх мэт) сурна. Мөн \"It's a/the ...\" хэлбэрээр хариулж, \"Is this a ...?\" гэж асуухыг сурна.",
+ "vocab": [
+  {
+   "mn": "банк",
+   "en": "bank",
+   "pos": "noun",
+   "example_mn": "Банк энд байна.",
+   "example_en": "The bank is here.",
+   "mn_latin": "bank"
+  },
+  {
+   "mn": "сургууль",
+   "en": "school",
+   "pos": "noun",
+   "example_mn": "Энэ манай сургууль.",
+   "example_en": "This is our school.",
+   "mn_latin": "surguuli"
+  },
+  {
+   "mn": "эмнэлэг",
+   "en": "hospital",
+   "pos": "noun",
+   "example_mn": "Эмнэлэг том байна.",
+   "example_en": "The hospital is big.",
+   "mn_latin": "emneleg"
+  },
+  {
+   "mn": "зах",
+   "en": "market",
+   "pos": "noun",
+   "example_mn": "Зах хүн ихтэй байна.",
+   "example_en": "The market is crowded.",
+   "mn_latin": "zakh"
+  },
+  {
+   "mn": "цэцэрлэгт хүрээлэн",
+   "en": "park",
+   "pos": "noun",
+   "example_mn": "Цэцэрлэгт хүрээлэн сайхан байна.",
+   "example_en": "The park is nice.",
+   "mn_latin": "tsetserlegt khüreelen"
+  },
+  {
+   "mn": "дэлгүүр",
+   "en": "shop",
+   "pos": "noun",
+   "example_mn": "Тэр жижиг дэлгүүр.",
+   "example_en": "That is a small shop.",
+   "mn_latin": "delgüür"
+  },
+  {
+   "mn": "буудал",
+   "en": "station",
+   "pos": "noun",
+   "example_mn": "Буудал хаана байна вэ?",
+   "example_en": "Where is the station?",
+   "mn_latin": "buudal"
+  },
+  {
+   "mn": "Сүхбаатарын талбай",
+   "en": "Sukhbaatar Square",
+   "pos": "noun",
+   "example_mn": "Энэ Сүхбаатарын талбай.",
+   "example_en": "This is Sukhbaatar Square.",
+   "mn_latin": "Sükhbaataryn talbai"
+  },
+  {
+   "mn": "энэ",
+   "en": "this",
+   "pos": "pronoun",
+   "example_mn": "Энэ банк.",
+   "example_en": "This is a bank.",
+   "mn_latin": "ene"
+  },
+  {
+   "mn": "тэр",
+   "en": "that",
+   "pos": "pronoun",
+   "example_mn": "Тэр сургууль.",
+   "example_en": "That is a school.",
+   "mn_latin": "ter"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ банк.",
+   "en": "This is a bank.",
+   "alt_mn": [
+    "Энэ банк мөн."
+   ],
+   "alt_en": [
+    "It's a bank.",
+    "This is the bank."
+   ],
+   "mn_latin": "Ene bank."
+  },
+  {
+   "mn": "Энэ банк мөн үү?",
+   "en": "Is this a bank?",
+   "alt_mn": [],
+   "alt_en": [
+    "Is this the bank?"
+   ],
+   "mn_latin": "Ene bank mön üü?"
+  },
+  {
+   "mn": "Тийм, энэ банк мөн.",
+   "en": "Yes, it's a bank.",
+   "alt_mn": [
+    "Тийм, банк."
+   ],
+   "alt_en": [
+    "Yes, this is a bank.",
+    "Yes, it's the bank."
+   ],
+   "mn_latin": "Tiim, ene bank mön."
+  },
+  {
+   "mn": "Үгүй, энэ сургууль.",
+   "en": "No, it's a school.",
+   "alt_mn": [
+    "Үгүй, энэ сургууль мөн."
+   ],
+   "alt_en": [
+    "No, this is a school.",
+    "No, it's the school."
+   ],
+   "mn_latin": "Ügüi, ene surguuli."
+  },
+  {
+   "mn": "Тэр эмнэлэг мөн үү?",
+   "en": "Is that a hospital?",
+   "alt_mn": [],
+   "alt_en": [
+    "Is that the hospital?"
+   ],
+   "mn_latin": "Ter emneleg mön üü?"
+  },
+  {
+   "mn": "Тийм, тэр эмнэлэг.",
+   "en": "Yes, that's a hospital.",
+   "alt_mn": [
+    "Тийм, тэр эмнэлэг мөн."
+   ],
+   "alt_en": [
+    "Yes, that is the hospital.",
+    "Yes, it's the hospital."
+   ],
+   "mn_latin": "Tiim, ter emneleg."
+  },
+  {
+   "mn": "Энэ зах.",
+   "en": "This is the market.",
+   "alt_mn": [
+    "Энэ зах мөн."
+   ],
+   "alt_en": [
+    "It's the market.",
+    "This is a market."
+   ],
+   "mn_latin": "Ene zakh."
+  },
+  {
+   "mn": "Тэр дэлгүүр мөн үү?",
+   "en": "Is that a shop?",
+   "alt_mn": [],
+   "alt_en": [
+    "Is that the shop?"
+   ],
+   "mn_latin": "Ter delgüür mön üü?"
+  },
+  {
+   "mn": "Үгүй, тэр буудал.",
+   "en": "No, that's the station.",
+   "alt_mn": [
+    "Үгүй, тэр буудал мөн."
+   ],
+   "alt_en": [
+    "No, it's the station.",
+    "No, that is a station."
+   ],
+   "mn_latin": "Ügüi, ter buudal."
+  },
+  {
+   "mn": "Энэ Сүхбаатарын талбай мөн үү?",
+   "en": "Is this Sukhbaatar Square?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene Sükhbaataryn talbai mön üü?"
+  },
+  {
+   "mn": "Тийм, энэ Сүхбаатарын талбай.",
+   "en": "Yes, this is Sukhbaatar Square.",
+   "alt_mn": [
+    "Тийм, энэ Сүхбаатарын талбай мөн."
+   ],
+   "alt_en": [
+    "Yes, it's Sukhbaatar Square."
+   ],
+   "mn_latin": "Tiim, ene Sükhbaataryn talbai."
+  },
+  {
+   "mn": "Тэр цэцэрлэгт хүрээлэн.",
+   "en": "That is a park.",
+   "alt_mn": [
+    "Тэр цэцэрлэгт хүрээлэн мөн."
+   ],
+   "alt_en": [
+    "That's the park.",
+    "It's a park."
+   ],
+   "mn_latin": "Ter tsetserlegt khüreelen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Энэ ... мөн үү? (Is this a ...?)",
+  "title_mn": "\"It's a/the ...\" ба \"Is this a ...?\"",
+  "explain_en": "Mongolian has no word for \"a\" or \"the\", and you don't need \"is\" in a simple statement: just say Энэ банк. (This is a bank / the bank.) Use энэ for things near you and тэр for things farther away. To ask a yes/no question, add мөн үү? after the noun: Энэ банк мөн үү? Answer Тийм, ... (yes) or Үгүй, ... (no). Adding мөн to an answer is also fine: Тийм, энэ банк мөн.",
+  "explain_mn": "Монгол хэлэнд a, the гэсэн үг байхгүй, энгийн өгүүлбэрт \"is\" шаардлагагүй: Энэ банк. гэхэд л болно. Англи хэлэнд харин \"is\" (байна) заавал хэрэгтэй бөгөөд нэр үгийн өмнө a эсвэл the орно. Жишээ нь: Энэ банк. = It's a bank. / It's the bank. Нэг юмыг анх дурдахад a, аль хэдийн мэдэж буй юмыг хэлэхэд the хэрэглэнэ. Асуухдаа Is this a bank? гэж \"is\"-ийг өгүүлбэрийн эхэнд тавина. Хариулт: Yes, it is. / No, it isn't.",
+  "examples": [
+   {
+    "mn": "Энэ сургууль.",
+    "en": "This is a school.",
+    "mn_latin": "Ene surguuli."
+   },
+   {
+    "mn": "Тэр зах мөн үү?",
+    "en": "Is that the market?",
+    "mn_latin": "Ter zakh mön üü?"
+   },
+   {
+    "mn": "Тийм, тэр зах.",
+    "en": "Yes, that's the market.",
+    "mn_latin": "Tiim, ter zakh."
+   },
+   {
+    "mn": "Үгүй, энэ эмнэлэг.",
+    "en": "No, this is a hospital.",
+    "mn_latin": "Ügüi, ene emneleg."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "___ банк мөн үү?",
+   "answer": "Энэ",
+   "options": [
+    "Энэ",
+    "Үгүй",
+    "Тийм",
+    "Хаана"
+   ],
+   "translation": "Is this a bank?",
+   "explain_en": "Энэ means \"this\" and starts the question about something near you.",
+   "explain_mn": "Энэ гэдэг нь \"this\" гэсэн утгатай, ойр байгаа зүйлийн тухай асуултыг эхлүүлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр эмнэлэг мөн ___?",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "уу",
+    "вэ",
+    "байна"
+   ],
+   "translation": "Is that a hospital?",
+   "explain_en": "The question particle is үү after мөн, following vowel harmony: мөн has the vowel ө, so it takes үү (not уу).",
+   "explain_mn": "\"мөн\" үгэнд ө эгшиг байгаа тул эгшгийн зохицлоор үү гэсэн хэлбэрийг авна (уу биш)."
+  },
+  {
+   "lang": "mn",
+   "text": "Үгүй, ___ сургууль.",
+   "answer": "энэ",
+   "options": [
+    "энэ",
+    "мөн",
+    "тийм",
+    "хаана"
+   ],
+   "translation": "No, this is a school.",
+   "explain_en": "After \"No,\" we state what the place is: энэ сургууль, \"this is a school\".",
+   "explain_mn": "\"Үгүй\"-ийн дараа энэ газар юу болохыг хэлнэ: энэ сургууль."
+  },
+  {
+   "lang": "en",
+   "text": "Is this ___ bank?",
+   "answer": "a",
+   "options": [
+    "a",
+    "an",
+    "are",
+    "is"
+   ],
+   "translation": "Энэ банк мөн үү?",
+   "explain_en": "Use \"a\" before a singular noun starting with a consonant sound, like bank.",
+   "explain_mn": "Гийгүүлэгчийн дуугаар эхэлсэн ганц тоотой нэрийн өмнө a хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Yes, ___ a hospital.",
+   "answer": "it's",
+   "options": [
+    "it's",
+    "its",
+    "they're",
+    "I'm"
+   ],
+   "translation": "Тийм, энэ эмнэлэг.",
+   "explain_en": "It's = it is. Without the apostrophe, \"its\" means something different.",
+   "explain_mn": "It's нь it is гэсэн товчлол. Апострофгүй its нь \"түүний\" гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "No, that is ___ station.",
+   "answer": "the",
+   "options": [
+    "the",
+    "an",
+    "is",
+    "are"
+   ],
+   "translation": "Үгүй, тэр буудал.",
+   "explain_en": "Use \"the\" for a specific place both people can see.",
+   "explain_mn": "Хоёулаа харж буй тодорхой газрыг хэлэхэд the хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу! Энэ Сүхбаатарын талбай мөн үү?",
+   "en": "Hello! Is this Sukhbaatar Square?",
+   "mn_latin": "Sain baina uu! Ene Sükhbaataryn talbai mön üü?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, энэ Сүхбаатарын талбай.",
+   "en": "Yes, this is Sukhbaatar Square.",
+   "mn_latin": "Tiim, ene Sükhbaataryn talbai."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэр банк мөн үү?",
+   "en": "Is that a bank?",
+   "mn_latin": "Ter bank mön üü?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, тэр банк.",
+   "en": "Yes, that's a bank.",
+   "mn_latin": "Tiim, ter bank."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэр дэлгүүр мөн үү?",
+   "en": "Is that a shop?",
+   "mn_latin": "Ter delgüür mön üü?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Үгүй, тэр сургууль.",
+   "en": "No, that's a school.",
+   "mn_latin": "Ügüi, ter surguuli."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Ойлголоо. Баярлалаа!",
+   "en": "I see. Thank you!",
+   "mn_latin": "Oilgoloo. Bayarlalaa!"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Зүгээр ээ.",
+   "en": "You're welcome.",
+   "mn_latin": "Zügeer ee."
+  }
+ ],
+ "culture_note": {
+  "en": "Sukhbaatar Square is the heart of Ulaanbaatar. It has a large statue of Damdin Sukhbaatar on horseback and the Government Palace with the huge Chinggis Khaan monument. People meet there, take photos, and join celebrations such as Naadam and New Year.",
+  "mn": "Сүхбаатарын талбай бол Улаанбаатарын зүрх юм. Энд Дамдины Сүхбаатарын морьт хөшөө болон Чингис хааны асар том хөшөөтэй Засгийн газрын ордон байдаг. Хүмүүс энд уулзаж, зураг авч, Наадам, Шинэ жил зэрэг баярыг тэмдэглэдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 10,
+  "notes": "Mostly good content, but some explanations were inaccurate (мөн ends in н; the Mongolian grammar explanation) and one blank had two valid answers."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Mostly solid; fixed an unnatural vocab example, the greeting register, and the word choice and accuracy of the culture note.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "'хүнтэй' only means 'has people'; 'crowded' is 'хүн ихтэй'"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "polite greeting is needed when addressing a stranger"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Tsagaan Sar is celebrated at home, not on the square"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'өргөн хөшөө' means 'wide monument' and is wrong here; use 'асар том'. Also matches the en fix (New Year instead of Tsagaan Sar)."
+   }
+  ]
+ }
+}

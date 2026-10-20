@@ -1,0 +1,418 @@
+{
+ "intro_en": "Learn to juggle cooking, chatting, and setting the table when friends come over. You'll use -х зуур to say 'while' or 'in the time that' something else is happening, as in Цай буцлах зуур ширээ засъя.",
+ "intro_mn": "Найзууд ирэхэд хоол хийх, ярилцах, ширээ засах ажлыг зэрэг амжуулах тухай сурна. Англи хэлний 'while' болон 'in the meantime'-ийг хэрхэн хэрэглэхийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "буцлах",
+   "en": "to boil",
+   "pos": "verb",
+   "example_mn": "Ус буцалж байна.",
+   "example_en": "The water is boiling.",
+   "mn_latin": "butslakh"
+  },
+  {
+   "mn": "зуур",
+   "en": "while, in the time that",
+   "pos": "postposition",
+   "example_mn": "Та хүлээх зуур цай уугаарай.",
+   "example_en": "Have some tea while you wait.",
+   "mn_latin": "zuur"
+  },
+  {
+   "mn": "ширээ засах",
+   "en": "to set the table",
+   "pos": "verb phrase",
+   "example_mn": "Би ширээ засчихлаа.",
+   "example_en": "I've set the table.",
+   "mn_latin": "shiree zasakh"
+  },
+  {
+   "mn": "таваг",
+   "en": "plate",
+   "pos": "noun",
+   "example_mn": "Тавагнуудыг ширээн дээр тавиарай.",
+   "example_en": "Please put the plates on the table.",
+   "mn_latin": "tavag"
+  },
+  {
+   "mn": "сэрээ",
+   "en": "fork",
+   "pos": "noun",
+   "example_mn": "Сэрээ, хутга хоёрыг тавагны хажууд тавина.",
+   "example_en": "The fork and knife go next to the plate.",
+   "mn_latin": "seree"
+  },
+  {
+   "mn": "халбага",
+   "en": "spoon",
+   "pos": "noun",
+   "example_mn": "Шөлний халбага хаана байна?",
+   "example_en": "Where are the soup spoons?",
+   "mn_latin": "khalbaga"
+  },
+  {
+   "mn": "хутгах",
+   "en": "to stir",
+   "pos": "verb",
+   "example_mn": "Шөлөө үе үе хутгаарай.",
+   "example_en": "Stir the soup now and then.",
+   "mn_latin": "khutgakh"
+  },
+  {
+   "mn": "амтлах",
+   "en": "to season",
+   "pos": "verb",
+   "example_mn": "Хоолоо давс, перецээр амтлаарай.",
+   "example_en": "Season the food with salt and pepper.",
+   "mn_latin": "amtlakh"
+  },
+  {
+   "mn": "гал багасгах",
+   "en": "to turn down the heat",
+   "pos": "verb phrase",
+   "example_mn": "Ус буцлахаар галаа багасгаарай.",
+   "example_en": "Turn down the heat once the water boils.",
+   "mn_latin": "gal bagasgakh"
+  },
+  {
+   "mn": "нэгэн зэрэг",
+   "en": "at the same time, at once",
+   "pos": "adverb",
+   "example_mn": "Би нэгэн зэрэг гурван юм хийж чадахгүй.",
+   "example_en": "I can't do three things at once.",
+   "mn_latin": "negen zereg"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Цай буцлах зуур ширээ засъя.",
+   "en": "Let's set the table while the tea boils.",
+   "alt_mn": [
+    "Цай буцлах зуур ширээгээ засъя."
+   ],
+   "alt_en": [
+    "While the tea boils, let's set the table.",
+    "Let's set the table while the tea is boiling."
+   ],
+   "mn_latin": "Tsai butslakh zuur shiree zasya."
+  },
+  {
+   "mn": "Мах болох зуур би ногоо хэрчье.",
+   "en": "While the meat cooks, I'll chop the vegetables.",
+   "alt_mn": [
+    "Мах болох зуур би ногоогоо хэрчье."
+   ],
+   "alt_en": [
+    "I'll chop the vegetables while the meat is cooking."
+   ],
+   "mn_latin": "Makh bolokh zuur bi nogoo kherchiye."
+  },
+  {
+   "mn": "Та ус буцлах зуур тавагнуудаа гаргаж өгөөч.",
+   "en": "Could you take out the plates while the water boils?",
+   "alt_mn": [
+    "Ус буцлах зуур тавагнуудаа гаргаж өгөөч."
+   ],
+   "alt_en": [
+    "While the water is boiling, could you take out the plates?"
+   ],
+   "mn_latin": "Ta us butslakh zuur tavagnuudaa gargaj ögööch."
+  },
+  {
+   "mn": "Би хоол хийх зуураа утсаар ярьж байлаа.",
+   "en": "I was talking on the phone while I was cooking.",
+   "alt_mn": [
+    "Би хоол хийнгээ утсаар ярьж байлаа."
+   ],
+   "alt_en": [
+    "I was on the phone while I was cooking.",
+    "I was talking on the phone while cooking."
+   ],
+   "mn_latin": "Bi khool khiikh zuuraa utsaar yarij bailaa."
+  },
+  {
+   "mn": "Шөл буцлах зуур чи сэрээ, халбагаа тавьчих.",
+   "en": "While the soup boils, put out the forks and spoons.",
+   "alt_mn": [
+    "Шөл буцлах зуур сэрээ, халбагаа тавьчих."
+   ],
+   "alt_en": [
+    "Put out the forks and spoons while the soup is boiling."
+   ],
+   "mn_latin": "Shöl butslakh zuur chi seree, khalbagaa tavichikh."
+  },
+  {
+   "mn": "Ус буцлах зуур бид бага зэрэг ярилцаж амжлаа.",
+   "en": "We managed to chat a little while the water was boiling.",
+   "alt_mn": [],
+   "alt_en": [
+    "We got to chat a bit while the water was boiling."
+   ],
+   "mn_latin": "Us butslakh zuur bid baga zereg yariltsaj amjlaa."
+  },
+  {
+   "mn": "Хоолоо үе үе хутгаад, давсаар амтлаарай.",
+   "en": "Stir the food now and then and season it with salt.",
+   "alt_mn": [
+    "Хоолоо үе үе хутгаад давсаар амтлаарай."
+   ],
+   "alt_en": [
+    "Stir the food from time to time and season it with salt."
+   ],
+   "mn_latin": "Khooloo üye üye khutgaad, davsaar amtlaarai."
+  },
+  {
+   "mn": "Тэр нэгэн зэрэг хоол хийж, хүүхдээ харж, утсаар ярьж байсан.",
+   "en": "She was cooking, watching her child, and talking on the phone all at once.",
+   "alt_mn": [],
+   "alt_en": [
+    "He was cooking, watching his child, and talking on the phone all at once.",
+    "She was cooking, looking after her kid, and talking on the phone at the same time."
+   ],
+   "mn_latin": "Ter negen zereg khool khiij, khüükhdee kharj, utsaar yarij baisan."
+  },
+  {
+   "mn": "Будаа болох зуур салатаа хийчихье.",
+   "en": "Let's make the salad while the rice cooks.",
+   "alt_mn": [
+    "Будаа болох зуур салат хийчихье."
+   ],
+   "alt_en": [
+    "While the rice is cooking, let's make the salad."
+   ],
+   "mn_latin": "Budaa bolokh zuur salataa khiichikhiye."
+  },
+  {
+   "mn": "Ус буцлахаар галаа багасгаарай.",
+   "en": "Turn down the heat once the water boils.",
+   "alt_mn": [
+    "Ус буцалмагц галаа багасгаарай."
+   ],
+   "alt_en": [
+    "When the water boils, turn down the heat.",
+    "As soon as the water boils, turn down the heat."
+   ],
+   "mn_latin": "Us butslakhaar galaa bagasgaarai."
+  },
+  {
+   "mn": "Намайг аяга таваг угаах зуур чи ширээгээ арчаад өгөөч.",
+   "en": "While I wash the dishes, could you wipe the table?",
+   "alt_mn": [
+    "Би аяга таваг угаах зуур чи ширээгээ арчаад өгөөч."
+   ],
+   "alt_en": [
+    "Could you wipe the table while I do the dishes?"
+   ],
+   "mn_latin": "Namaig ayaga tavag ugaakh zuur chi shireegee archaad ögööch."
+  },
+  {
+   "mn": "Зочид хоолоо идэх зуур би цай чанана.",
+   "en": "While the guests eat, I'll make tea.",
+   "alt_mn": [
+    "Зочдыг хоолоо идэх зуур би цай чанана."
+   ],
+   "alt_en": [
+    "I'll make tea while the guests are eating."
+   ],
+   "mn_latin": "Zochid khooloo idekh zuur bi tsai chanana."
+  }
+ ],
+ "grammar": {
+  "title_en": "-х зуур: 'while, in the time that'",
+  "title_mn": "Англи хэлний 'while' ба 'in the meantime'",
+  "explain_en": "To say 'while X happens', add -х to the verb stem and then the word зуур: буцлах зуур means 'while (it) boils', and хүлээх зуур means 'while (you) wait'. It marks a time window in which you fit something else in, so it often pairs with амжих 'to manage, have time to'. The subject of the зуур clause can be in the nominative (Би угаах зуур) or the accusative (Намайг угаах зуур). If both actions have the same subject, Mongolian usually adds the reflexive ending: хоол хийх зуураа 'while (I myself) was cooking'. You can also say тэр зуур for 'in the meantime'.",
+  "explain_mn": "Англи хэлэнд хоёр үйл нэгэн зэрэг болж байгааг 'while'-аар илэрхийлнэ. 'While'-ын дараа бүтэн өгүүлбэр орж болно: 'while the water boils', 'while I was cooking'. Хоёр үйлийн эзэн нэг бол 'while'-ын дараа үйл үгийг шууд -ing хэлбэрээр хэрэглэж болно: 'I talked on the phone while cooking.' Энэ нь монгол хэлний '-х зуураа'-тай адил. 'During' үйл үгтэй биш, нэр үгтэй хэрэглэгдэнэ: 'during dinner'. Харин 'тэр зуур' гэдгийг 'in the meantime' буюу 'meanwhile' гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "Цай буцлах зуур ширээ засъя.",
+    "en": "Let's set the table while the tea boils.",
+    "mn_latin": "Tsai butslakh zuur shiree zasya."
+   },
+   {
+    "mn": "Би хоол хийх зуураа хөгжим сонссон.",
+    "en": "I listened to music while cooking.",
+    "mn_latin": "Bi khool khiikh zuuraa khögjim sonsson."
+   },
+   {
+    "mn": "Намайг аяга таваг угаах зуур чи ширээгээ арчаад өгөөч.",
+    "en": "While I wash the dishes, could you wipe the table?",
+    "mn_latin": "Namaig ayaga tavag ugaakh zuur chi shireegee archaad ögööch."
+   },
+   {
+    "mn": "Шөл буцалж байна. Тэр зуур салатаа хийе.",
+    "en": "The soup is boiling. In the meantime, let's make the salad.",
+    "mn_latin": "Shöl butsalj baina. Ter zuur salataa khiiye."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Цай буцла___ зуур ширээ засъя.",
+   "answer": "х",
+   "options": [
+    "х",
+    "ж",
+    "сан",
+    "аад"
+   ],
+   "translation": "Let's set the table while the tea boils.",
+   "explain_en": "Зуур needs the verb in the -х form right before it: буцлах зуур, 'while (it) boils'.",
+   "explain_mn": "'Зуур'-ын өмнө үйл үг заавал '-х' хэлбэртэй байна: буцлах зуур."
+  },
+  {
+   "lang": "mn",
+   "text": "Би хоол хийх ___ утсаар ярьсан.",
+   "answer": "зуураа",
+   "options": [
+    "зуураа",
+    "хүртэл",
+    "дараа",
+    "өмнө"
+   ],
+   "translation": "I talked on the phone while I was cooking.",
+   "explain_en": "The same person (I) cooks and talks, so the reflexive form зуураа is used. Хүртэл means 'until', and дараа and өмнө don't attach to the -х form this way.",
+   "explain_mn": "Хоёр үйлийн эзэн нэг (би) учраас ерөнхийлөн хамаатуулах 'зуураа' хэлбэр тохирно. 'Хүртэл' гэвэл 'хийтэл' гэсэн утгатай болно. 'Дараа', 'өмнө' хоёр '-х' хэлбэртэй ингэж шууд залгахгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Ус буцлахаар галаа ___.",
+   "answer": "багасгаарай",
+   "options": [
+    "багасгаарай",
+    "буцлаарай",
+    "хутгаарай",
+    "угаагаарай"
+   ],
+   "translation": "Turn down the heat once the water boils.",
+   "explain_en": "Гал багасгах means 'to turn down the heat'. You don't boil, stir, or wash the fire.",
+   "explain_mn": "'Гал багасгах' гэдэг тогтсон хэллэг. Галыг хутгадаггүй, угаадаггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Let's set the table ___ the tea boils.",
+   "answer": "while",
+   "options": [
+    "while",
+    "during",
+    "meanwhile",
+    "for"
+   ],
+   "translation": "Цай буцлах зуур ширээ засъя.",
+   "explain_en": "Use 'while' before a full clause (subject + verb). 'During' only goes before a noun, like 'during dinner'.",
+   "explain_mn": "Бүтэн өгүүлбэрийн өмнө 'while' орно. 'During' зөвхөн нэр үгийн өмнө орно ('during dinner')."
+  },
+  {
+   "lang": "en",
+   "text": "I chopped the vegetables while ___ to music.",
+   "answer": "listening",
+   "options": [
+    "listening",
+    "listen",
+    "listened",
+    "to listen"
+   ],
+   "translation": "Би хөгжим сонсох зуураа ногоо хэрчсэн.",
+   "explain_en": "When both actions have the same subject, 'while' can be followed directly by the -ing form.",
+   "explain_mn": "Хоёр үйлийн эзэн нэг бол 'while'-ын дараа үйл үг -ing хэлбэртэй орно. Энэ нь '-х зуураа'-тай адил."
+  },
+  {
+   "lang": "en",
+   "text": "The soup is simmering. In the ___, let's make the salad.",
+   "answer": "meantime",
+   "options": [
+    "meantime",
+    "while",
+    "during",
+    "moment"
+   ],
+   "translation": "Шөл буцалж байна. Тэр зуур салатаа хийе.",
+   "explain_en": "'In the meantime' is the fixed phrase for 'тэр зуур'.",
+   "explain_mn": "'Тэр зуур' гэдгийг англиар 'in the meantime' гэсэн тогтсон хэллэгээр хэлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Ус буцалтал хэдэн минут байна. Тэр зуур ширээ засчихъя.",
+   "en": "The water will take a few minutes to boil. Let's set the table in the meantime.",
+   "mn_latin": "Us butsaltal kheden minut baina. Ter zuur shiree zaschikhya."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За, би туслая. Тавагнууд хаана байдаг вэ?",
+   "en": "Sure, I'll help. Where do you keep the plates?",
+   "mn_latin": "Za, bi tuslaya. Tavagnuud khaana baidag ve?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Зүүн талын шүүгээнд. Сэрээ, халбага нь шургуулганд байгаа.",
+   "en": "In the cupboard on the left. The forks and spoons are in the drawer.",
+   "mn_latin": "Züün talyn shüügeend. Seree, khalbaga ni shurguulgand baigaa."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Чи хуушуур шарах зуураа ярьж чаддаг юм уу? Гайхалтай юм аа.",
+   "en": "You can chat while frying khuushuur? That's amazing.",
+   "mn_latin": "Chi khuushuur sharakh zuuraa yarij chaddag yum uu? Gaikhaltai yum aa."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Дассан. Ээж маань нэгэн зэрэг гурван юм хийдэг байсан.",
+   "en": "I'm used to it. My mom used to do three things at once.",
+   "mn_latin": "Dassan. Eej maani negen zereg gurvan yum khiideg baisan."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Хоол чинь их сайхан үнэртэж байна. Давс нэмэх үү?",
+   "en": "Your food smells great. Should I add some salt?",
+   "mn_latin": "Khool chini ikh saikhan ünertej baina. Davs nemekh üü?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Үгүй ээ, би аль хэдийн амталчихсан. Харин ус буцалж байна, галыг нь багасгаад өгөөч.",
+   "en": "No, I've already seasoned it. But the water's boiling, so could you turn down the heat?",
+   "mn_latin": "Ügüi ee, bi ali khediin amtalchikhsan. Kharin us butsalj baina, galyg ni bagasgaad ögööch."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Багасгалаа. Цай чанах зуур би аягануудаа гаргачихъя.",
+   "en": "Done. I'll get the cups out while the tea is brewing.",
+   "mn_latin": "Bagasgalaa. Tsai chanakh zuur bi ayaganuudaa gargachikhya."
+  }
+ ],
+ "culture_note": {
+  "en": "In many Mongolian homes, the first thing a host does is put on milk tea (сүүтэй цай), and the cooking and chatting happen together in the kitchen. Close friends often pitch in by setting the table or folding buuz, but with elders or more formal guests, the host usually insists on serving everything personally.",
+  "mn": "Монгол айлд зочин ирэхэд эзэн хамгийн түрүүнд сүүтэй цай чанадаг бөгөөд хоол хийх, ярилцах хоёр гал тогоонд зэрэг өрнөдөг. Дотны найзууд ширээ засах, бууз чимхэхэд тусалдаг ч ахмад настан эсвэл хүндэт зочинд эзэн өөрөө бүх зүйлийг барьж үйлчлэхийг чухалчилдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Solid lesson with natural Mongolian and English. The fixes cover a garbled grammar explanation in Mongolian and two ambiguous fill-in-the-blank items."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Solid lesson. I fixed one wrong imperative form in the options and brought the en and mn explanations into line.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Imperative of угаах is угаагаарай, not угаарай"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Match the mn explanation and cover all the distractors"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "en and mn explanations must say the same thing"
+   }
+  ]
+ }
+}

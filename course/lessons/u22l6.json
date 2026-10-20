@@ -1,0 +1,504 @@
+{
+ "intro_en": "You will learn how to ask for the bill, pay by card or cash, split the bill and talk about tips. You will also review -маар байна and -аасай/-ээсэй for polite requests.",
+ "intro_mn": "Та тооцоо хүсэх, картаар эсвэл бэлнээр төлөх, тооцоог хуваах, цайны мөнгөний талаар ярихыг сурна. Мөн эелдэг хүсэлт гаргахад хэрэглэдэг -маар байна, -аасай/-ээсэй хэлбэрийг давтана.",
+ "vocab": [
+  {
+   "mn": "тооцоо",
+   "en": "bill, check",
+   "pos": "noun",
+   "example_mn": "Тооцоогоо хийе.",
+   "example_en": "Let's settle the bill.",
+   "mn_latin": "tootsoo"
+  },
+  {
+   "mn": "карт",
+   "en": "card",
+   "pos": "noun",
+   "example_mn": "Би картаар төлнө.",
+   "example_en": "I will pay by card.",
+   "mn_latin": "kart"
+  },
+  {
+   "mn": "бэлэн мөнгө",
+   "en": "cash",
+   "pos": "noun",
+   "example_mn": "Танд бэлэн мөнгө байна уу?",
+   "example_en": "Do you have cash?",
+   "mn_latin": "belen möngö"
+  },
+  {
+   "mn": "хариулт",
+   "en": "change (money back)",
+   "pos": "noun",
+   "example_mn": "Хариултаа авна уу.",
+   "example_en": "Please take your change.",
+   "mn_latin": "khariult"
+  },
+  {
+   "mn": "баримт",
+   "en": "receipt",
+   "pos": "noun",
+   "example_mn": "Надад баримт өгөөч.",
+   "example_en": "Please give me a receipt.",
+   "mn_latin": "barimt"
+  },
+  {
+   "mn": "цайны мөнгө",
+   "en": "tip",
+   "pos": "noun",
+   "example_mn": "Би цайны мөнгө үлдээсэн.",
+   "example_en": "I left a tip.",
+   "mn_latin": "tsainy möngö"
+  },
+  {
+   "mn": "төлөх",
+   "en": "to pay",
+   "pos": "verb",
+   "example_mn": "Бид тус тусдаа төлнө.",
+   "example_en": "We will pay separately.",
+   "mn_latin": "tölökh"
+  },
+  {
+   "mn": "хуваах",
+   "en": "to split, divide",
+   "pos": "verb",
+   "example_mn": "Тооцоог тэнцүү хуваая.",
+   "example_en": "Let's split the bill equally.",
+   "mn_latin": "khuvaakh"
+  },
+  {
+   "mn": "тус тусдаа",
+   "en": "separately",
+   "pos": "adverb",
+   "example_mn": "Тус тусдаа тооцоо хийж болох уу?",
+   "example_en": "Can we have separate bills?",
+   "mn_latin": "tus tusdaa"
+  },
+  {
+   "mn": "мянган төгрөг",
+   "en": "a thousand tögrög",
+   "pos": "noun phrase",
+   "example_mn": "Энэ хоол арван таван мянган төгрөг.",
+   "example_en": "This meal is fifteen thousand tögrög.",
+   "mn_latin": "myangan tögrög"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тооцоогоо хиймээр байна.",
+   "en": "I would like to pay the bill.",
+   "alt_mn": [
+    "Тооцоо хийхийг хүсэж байна."
+   ],
+   "alt_en": [
+    "I'd like the bill, please.",
+    "I'd like to settle up."
+   ],
+   "mn_latin": "Tootsoogoo khiimeer baina."
+  },
+  {
+   "mn": "Тооцоо өгнө үү?",
+   "en": "Could I have the bill?",
+   "alt_mn": [
+    "Тооцоогоо өгөөч."
+   ],
+   "alt_en": [
+    "Could we have the bill, please?",
+    "Can I get the check?"
+   ],
+   "mn_latin": "Tootsoo ögnö üü?"
+  },
+  {
+   "mn": "Бид тус тусдаа төлж болох уу?",
+   "en": "Can we pay separately?",
+   "alt_mn": [
+    "Бид тусдаа төлж болох уу?"
+   ],
+   "alt_en": [
+    "Could we pay separately?"
+   ],
+   "mn_latin": "Bid tus tusdaa tölj bolokh uu?"
+  },
+  {
+   "mn": "Картаар төлж болох уу?",
+   "en": "Can I pay by card?",
+   "alt_mn": [
+    "Картаар төлбөр авдаг уу?"
+   ],
+   "alt_en": [
+    "Do you take cards?"
+   ],
+   "mn_latin": "Kartaar tölj bolokh uu?"
+  },
+  {
+   "mn": "Би бэлнээр төлнө.",
+   "en": "I will pay in cash.",
+   "alt_mn": [
+    "Би бэлэн мөнгөөр төлнө."
+   ],
+   "alt_en": [
+    "I'll pay cash."
+   ],
+   "mn_latin": "Bi belneer tölnö."
+  },
+  {
+   "mn": "Баримтаа авмаар байна.",
+   "en": "I would like a receipt.",
+   "alt_mn": [
+    "Надад баримт өгөөч."
+   ],
+   "alt_en": [
+    "Could I have a receipt?"
+   ],
+   "mn_latin": "Barimtaa avmaar baina."
+  },
+  {
+   "mn": "Нийт дүн хорин мянган төгрөг боллоо.",
+   "en": "The total is twenty thousand tögrög.",
+   "alt_mn": [
+    "Нийт хорин мянган төгрөг боллоо."
+   ],
+   "alt_en": [
+    "It comes to twenty thousand tögrög."
+   ],
+   "mn_latin": "Niit dün khorin myangan tögrög bolloo."
+  },
+  {
+   "mn": "Хариултаа аваарай.",
+   "en": "Please take your change.",
+   "alt_mn": [
+    "Хариугаа аваарай."
+   ],
+   "alt_en": [
+    "Here is your change."
+   ],
+   "mn_latin": "Khariultaa avaarai."
+  },
+  {
+   "mn": "Тооцоог бид хоёрт тэнцүү хувааж болох уу?",
+   "en": "Can we split the bill equally between the two of us?",
+   "alt_mn": [
+    "Тооцоог хагаслаж болох уу?"
+   ],
+   "alt_en": [
+    "Could we split the bill in half?"
+   ],
+   "mn_latin": "Tootsoog bid khoyort tentsüü khuvaaj bolokh uu?"
+  },
+  {
+   "mn": "Цайны мөнгө үлдээмээр байна.",
+   "en": "I would like to leave a tip.",
+   "alt_mn": [
+    "Цайны мөнгө үлдээе."
+   ],
+   "alt_en": [
+    "I want to leave a tip."
+   ],
+   "mn_latin": "Tsainy möngö üldeemeer baina."
+  },
+  {
+   "mn": "Надад жижиг мөнгө алга.",
+   "en": "I don't have small change.",
+   "alt_mn": [
+    "Надад задгай мөнгө алга."
+   ],
+   "alt_en": [
+    "I don't have any small change."
+   ],
+   "mn_latin": "Nadad jijig möngö alga."
+  },
+  {
+   "mn": "Баярлалаа, хоол маш амттай байлаа.",
+   "en": "Thank you, the food was very tasty.",
+   "alt_mn": [
+    "Баярлалаа, хоол их амттай байсан."
+   ],
+   "alt_en": [
+    "Thanks, the meal was delicious."
+   ],
+   "mn_latin": "Bayarlalaa, khool mash amttai bailaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "Polite payment requests: -маар байна and -аасай",
+  "title_mn": "Төлбөрийн эелдэг хүсэлт: -маар байна, -аасай",
+  "explain_en": "To say what you'd like to do, add -маар/-мээр/-моор/-мөөр байна to the verb stem (vowel harmony decides the form): тооцоо хийх → тооцоо хиймээр байна 'I'd like to pay'. The wish form -аасай/-ээсэй/-оосой/-өөсэй expresses a hope about someone else's action: тооцоогоо хурдан өгөөсэй 'I wish you'd bring the bill quickly'. Said directly to a waiter, it can sound impatient. For polite requests, use -на уу? (өгнө үү?) or -ж болох уу? (төлж болох уу?). In English, say 'I'd like to…', 'Could I have…?' or 'Can we…?'. 'Could' is more polite than 'Can', and adding 'please' makes it softer. 'I want the bill' sounds too direct.",
+  "explain_mn": "Хийхийг хүсч буйгаа илэрхийлэхдээ үйл үгийн үндэс дээр -маар/-мээр/-моор/-мөөр байна залгана (эгшиг зохицлоор сонгоно): тооцоо хийх → тооцоо хиймээр байна (I'd like to pay). -аасай/-ээсэй/-оосой/-өөсэй хэлбэр нь бусдын үйлдлийн талаарх хүслийг илэрхийлнэ: тооцоогоо хурдан өгөөсэй (I wish you'd bring the bill quickly). Үүнийг зөөгчид шууд хэлбэл тэвчээргүй сонсогдож болно. Эелдэг хүсэлтэд «өгнө үү?», «төлж болох уу?» зэргийг хэрэглэнэ. Англиар 'I'd like to…', 'Could I have…?', 'Can we…?' гэж хэлнэ. 'Could' нь 'Can'-аас илүү эелдэг, 'please' нэмбэл бүр зөөлөн сонсогдоно. 'I want the bill' гэвэл хэт шууд сонсогддог.",
+  "examples": [
+   {
+    "mn": "Тооцоогоо хиймээр байна.",
+    "en": "I'd like to pay the bill.",
+    "mn_latin": "Tootsoogoo khiimeer baina."
+   },
+   {
+    "mn": "Баримтаа авмаар байна.",
+    "en": "I'd like to get the receipt.",
+    "mn_latin": "Barimtaa avmaar baina."
+   },
+   {
+    "mn": "Тооцоогоо хурдан өгөөсэй.",
+    "en": "I wish you'd bring the bill quickly.",
+    "mn_latin": "Tootsoogoo khurdan ögöösei."
+   },
+   {
+    "mn": "Тусдаа төлж болох уу?",
+    "en": "Can we pay separately?",
+    "mn_latin": "Tusdaa tölj bolokh uu?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тооцоогоо хий___ байна.",
+   "answer": "мээр",
+   "options": [
+    "мээр",
+    "маар",
+    "моор",
+    "аас"
+   ],
+   "translation": "I'd like to pay the bill.",
+   "explain_en": "The verb хийх has only the neutral vowel и, so it takes the э-type ending -мээр: хиймээр байна.",
+   "explain_mn": "Хийх үйл үг зөвхөн саармаг «и» эгшигтэй тул -мээр залгана: хиймээр байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Би карт___ төлнө.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "д",
+    "тай",
+    "ийг"
+   ],
+   "translation": "I will pay by card.",
+   "explain_en": "The instrumental case -аар means 'by/with' a means of payment: картаар.",
+   "explain_mn": "Хэрэгслийн тийн ялгал -аар: картаар төлнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид тус ___ төлж болох уу?",
+   "answer": "тусдаа",
+   "options": [
+    "тусдаа",
+    "хамт",
+    "хоёулаа",
+    "бүгд"
+   ],
+   "translation": "Can we pay separately?",
+   "explain_en": "'Тус тусдаа' means 'each separately', used for splitting payments.",
+   "explain_mn": "«Тус тусдаа» гэдэг нь «тус бүр тусдаа» гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Could I ___ the bill, please?",
+   "answer": "have",
+   "options": [
+    "have",
+    "make",
+    "give",
+    "do"
+   ],
+   "translation": "Тооцоогоо өгнө үү?",
+   "explain_en": "We say 'Could I have the bill?' as a polite request.",
+   "explain_mn": "«Could I have…?» нь эелдэг хүсэлт."
+  },
+  {
+   "lang": "en",
+   "text": "Can we pay ___?",
+   "answer": "separately",
+   "options": [
+    "separately",
+    "separate",
+    "separation",
+    "separating"
+   ],
+   "translation": "Бид тусдаа төлж болох уу?",
+   "explain_en": "'Separately' is the adverb that modifies 'pay'.",
+   "explain_mn": "«Separately» нь үйл үгийг тодотгосон дайвар үг."
+  },
+  {
+   "lang": "en",
+   "text": "Please keep the ___. (extra money for the waiter)",
+   "answer": "change",
+   "options": [
+    "change",
+    "receipt",
+    "card",
+    "bill"
+   ],
+   "translation": "Хариулт хэрэггүй, та аваарай.",
+   "explain_en": "'Keep the change' means the waiter keeps the extra money.",
+   "explain_mn": "«Keep the change» гэвэл хариултыг авахгүй, зөөгчид цайны мөнгө болгон үлдээнэ гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сара, хоол амттай байлаа. Тооцоогоо хиймээр байна.",
+   "en": "Sara, the food was tasty. I'd like to pay the bill.",
+   "mn_latin": "Sara, khool amttai bailaa. Tootsoogoo khiimeer baina."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тооцоо өгнө үү?",
+   "en": "Could we have the bill, please?",
+   "mn_latin": "Tootsoo ögnö üü?"
+  },
+  {
+   "speaker": "Зөөгч",
+   "mn": "Мэдээжийн хэрэг. Нийт гучин таван мянган төгрөг болж байна.",
+   "en": "Of course. The total is thirty-five thousand tögrög.",
+   "mn_latin": "Medeejiin khereg. Niit guchin tavan myangan tögrög bolj baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Бид тус тусдаа төлж болох уу?",
+   "en": "Can we pay separately?",
+   "mn_latin": "Bid tus tusdaa tölj bolokh uu?"
+  },
+  {
+   "speaker": "Зөөгч",
+   "mn": "Болно. Та картаар төлөх үү, бэлнээр үү?",
+   "en": "Sure. Will you pay by card or cash?",
+   "mn_latin": "Bolno. Ta kartaar tölökh üü, belneer üü?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Би картаар төлнө. Баримтаа авмаар байна.",
+   "en": "I'll pay by card. I'd like a receipt.",
+   "mn_latin": "Bi kartaar tölnö. Barimtaa avmaar baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би бэлнээр төлнө. Хариулт хэрэггүй, цайны мөнгө болгоорой.",
+   "en": "I'll pay cash. Keep the change, it's your tip.",
+   "mn_latin": "Bi belneer tölnö. Khariult khereggüi, tsainy möngö bolgooroi."
+  },
+  {
+   "speaker": "Зөөгч",
+   "mn": "Маш их баярлалаа!",
+   "en": "Thank you very much!",
+   "mn_latin": "Mash ikh bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, most restaurants accept cards and QR payments, but small family restaurants and food stalls often prefer cash. Tipping is not required, but in nicer restaurants people may round up the bill or leave around 5-10%. Service charges are sometimes already added to the bill, so check first.",
+  "mn": "Улаанбаатарт ихэнх ресторан карт, QR-аар төлбөр авдаг ч жижиг гэр бүлийн хоолны газар, зах дээрх хоолны газар бэлэн мөнгийг илүүд үздэг. Цайны мөнгө өгөх заавал биш ч сайн ресторанд тооцоогоо бөөрөнхийлж эсвэл 5-10% орчим үлдээх нь бий. Үйлчилгээний хураамж тооцоонд аль хэдийн орсон байж болох тул эхлээд шалгаарай."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 13,
+  "notes": "Several real errors: wrong vowel-harmony answer, хариулт used for change (should be хариу мөнгө / багцаа), 'тусдаа тусдаа', and an unhelpful Mongolian grammar explanation; some of my fixes contain placeholders and need review."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 17,
+  "notes": "Fixed the garbled vocab word, the reversed 'keep the change' meaning, the wrong dialogue name, the ambiguous fill-in-the-blank, and the -аасай explanation.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "mn",
+    "why": "Garbled characters; the standard word for change is хариулт."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "Standard spelling is хүсэж."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'We' did not match the singular original."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "'Карт хүлээж авах уу?' is unnatural; this also matches 'Do you take cards?'"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "хоёуланд нь means 'to both of them', not 'between the two of us'."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "хагасаар хуваах is unnatural; хагаслах is the normal verb."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The -аасай form was misdescribed as a polite request, and the en text did not match the mn text."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Corrected the -аасай description and aligned the mn text with the en text."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "и is a neutral vowel, not a front vowel."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "и is a neutral (саармаг) vowel."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'Could I pay the bill?' was also a correct answer."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "The old translation meant the opposite ('take your change')."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "The old explanation was unclear."
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "Bold is talking to Sara; Bat-Erdene is not in the dialogue."
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "Changed to match the corrected name."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'Хариултаа аваарай' meant 'take your change', the opposite of 'keep the change'."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "Matches the corrected Mongolian."
+   }
+  ]
+ }
+}

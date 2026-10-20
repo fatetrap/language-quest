@@ -1,0 +1,517 @@
+{
+ "intro_en": "You will learn how to introduce Naadam, the biggest festival in Mongolia, to a foreign friend. You will also practice the passive voice: 'Naadam is held every July' and the Mongolian suffix -гд-.",
+ "intro_mn": "Та Монголын хамгийн том баяр болох Наадмыг гадаадын найздаа танилцуулж сурна. Мөн англи хэлний passive voice болон монгол хэлний -гд- нөхцөлийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "Наадам",
+   "en": "Naadam",
+   "pos": "noun",
+   "example_mn": "Наадам жил бүрийн долдугаар сард болдог.",
+   "example_en": "Naadam takes place every July.",
+   "mn_latin": "Naadam"
+  },
+  {
+   "mn": "нээлтийн ёслол",
+   "en": "opening ceremony",
+   "pos": "noun",
+   "example_mn": "Нээлтийн ёслол Төв цэнгэлдэх хүрээлэнд болдог.",
+   "example_en": "The opening ceremony is held at the Central Stadium.",
+   "mn_latin": "neeltiin yoslol"
+  },
+  {
+   "mn": "Төв цэнгэлдэх хүрээлэн",
+   "en": "Central Stadium",
+   "pos": "noun",
+   "example_mn": "Бид Төв цэнгэлдэх хүрээлэнд очлоо.",
+   "example_en": "We went to the Central Stadium.",
+   "mn_latin": "Töv tsengeldekh khüreelen"
+  },
+  {
+   "mn": "бөх",
+   "en": "wrestling / wrestler",
+   "pos": "noun",
+   "example_mn": "Бөхийн барилдаан маш сонирхолтой.",
+   "example_en": "The wrestling matches are very interesting.",
+   "mn_latin": "bökh"
+  },
+  {
+   "mn": "морь уралдаан",
+   "en": "horse racing",
+   "pos": "noun phrase",
+   "example_mn": "Морь уралдаан хотоос гадна болдог.",
+   "example_en": "The horse race takes place outside the city.",
+   "mn_latin": "mori uraldaan"
+  },
+  {
+   "mn": "сур харваа",
+   "en": "archery",
+   "pos": "noun",
+   "example_mn": "Сур харвааны тэмцээнд эрэгтэйчүүд, эмэгтэйчүүд хоёулаа оролцдог.",
+   "example_en": "Both men and women take part in archery.",
+   "mn_latin": "sur kharvaa"
+  },
+  {
+   "mn": "үзэгч",
+   "en": "spectator",
+   "pos": "noun",
+   "example_mn": "Олон үзэгч бөхийн барилдааныг үзэж байлаа.",
+   "example_en": "Many spectators were watching the wrestling.",
+   "mn_latin": "üzegch"
+  },
+  {
+   "mn": "зохион байгуулах",
+   "en": "to organize",
+   "pos": "verb",
+   "example_mn": "Наадмыг төр зохион байгуулдаг.",
+   "example_en": "The state organizes Naadam.",
+   "mn_latin": "zokhion baiguulakh"
+  },
+  {
+   "mn": "эрийн гурван наадам",
+   "en": "the three manly games",
+   "pos": "noun phrase",
+   "example_mn": "Эрийн гурван наадам бол бөх, морь, сур харвах юм.",
+   "example_en": "The three manly games are wrestling, horse racing and archery.",
+   "mn_latin": "eriin gurvan naadam"
+  },
+  {
+   "mn": "уламжлал",
+   "en": "tradition",
+   "pos": "noun",
+   "example_mn": "Энэ бол олон зууны уламжлал.",
+   "example_en": "This is a centuries-old tradition.",
+   "mn_latin": "ulamjlal"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Наадам жил бүрийн долдугаар сард зохион байгуулагддаг.",
+   "en": "Naadam is held every July.",
+   "alt_mn": [
+    "Наадам жил болгон долдугаар сард зохион байгуулагддаг."
+   ],
+   "alt_en": [
+    "Naadam is organized every July.",
+    "Naadam is organized in July every year."
+   ],
+   "mn_latin": "Naadam jil büriin doldugaar sard zokhion baiguulagddag."
+  },
+  {
+   "mn": "Наадам долдугаар сарын 11-ээс 13-ныг хүртэл болдог.",
+   "en": "Naadam is held from July 11 to 13.",
+   "alt_mn": [
+    "Наадам долдугаар сарын 11-ээс 13-ныг хүртэл явагддаг."
+   ],
+   "alt_en": [
+    "Naadam takes place from July 11 to 13."
+   ],
+   "mn_latin": "Naadam doldugaar saryn 11-ees 13-nyg khürtel boldog."
+  },
+  {
+   "mn": "Нээлтийн ёслол Төв цэнгэлдэх хүрээлэнд явагддаг.",
+   "en": "The opening ceremony is held at the Central Stadium.",
+   "alt_mn": [
+    "Нээлтийн ёслол Төв цэнгэлдэх хүрээлэнд болдог."
+   ],
+   "alt_en": [
+    "The opening ceremony takes place at the Central Stadium."
+   ],
+   "mn_latin": "Neeltiin yoslol Töv tsengeldekh khüreelend yavagddag."
+  },
+  {
+   "mn": "Эрийн гурван наадам нь бөх, морь уралдаан, сур харваа юм.",
+   "en": "The three manly games are wrestling, horse racing and archery.",
+   "alt_mn": [
+    "Эрийн гурван наадам бол бөх, морь уралдаан, сур харвах юм."
+   ],
+   "alt_en": [],
+   "mn_latin": "Eriin gurvan naadam ni bökh, mori uraldaan, sur kharvaa yum."
+  },
+  {
+   "mn": "Бөхийн барилдаан Төв цэнгэлдэх хүрээлэнд болдог.",
+   "en": "The wrestling matches are held at the Central Stadium.",
+   "alt_mn": [],
+   "alt_en": [
+    "The wrestling matches take place at the Central Stadium."
+   ],
+   "mn_latin": "Bökhiin barildaan Töv tsengeldekh khüreelend boldog."
+  },
+  {
+   "mn": "Морь уралдаан хотоос гадна зохион байгуулагддаг.",
+   "en": "The horse race is organized outside the city.",
+   "alt_mn": [
+    "Морин уралдаан хотоос гадна болдог."
+   ],
+   "alt_en": [
+    "The horse race is held outside the city."
+   ],
+   "mn_latin": "Mori uraldaan khotoos gadna zokhion baiguulagddag."
+  },
+  {
+   "mn": "Сур харвааны тэмцээн өөр газар явагддаг.",
+   "en": "The archery competition is held in a different place.",
+   "alt_mn": [
+    "Сур харвааны тэмцээн өөр газар болдог."
+   ],
+   "alt_en": [
+    "The archery contest takes place somewhere else."
+   ],
+   "mn_latin": "Sur kharvaany temtseen öör gazar yavagddag."
+  },
+  {
+   "mn": "Олон мянган үзэгч цэнгэлдэх хүрээлэнд цуглардаг.",
+   "en": "Thousands of spectators gather at the stadium.",
+   "alt_mn": [
+    "Цэнгэлдэх хүрээлэнд олон мянган үзэгч цуглардаг."
+   ],
+   "alt_en": [
+    "Many thousands of spectators gather in the stadium."
+   ],
+   "mn_latin": "Olon myangan üzegch tsengeldekh khüreelend tsuglardag."
+  },
+  {
+   "mn": "Наадмын тухай ихэд яригддаг.",
+   "en": "Naadam is talked about a lot.",
+   "alt_mn": [
+    "Наадмын тухай их ярьдаг."
+   ],
+   "alt_en": [
+    "People talk about Naadam a lot."
+   ],
+   "mn_latin": "Naadmyn tukhai ikhed yarigddag."
+  },
+  {
+   "mn": "Эртний уламжлал өнөөдөр хүртэл хадгалагдсаар байна.",
+   "en": "The old tradition is still preserved today.",
+   "alt_mn": [
+    "Эртний уламжлал өнөөг хүртэл хадгалагдаж ирсэн."
+   ],
+   "alt_en": [
+    "The old tradition is still kept alive today."
+   ],
+   "mn_latin": "Ertnii ulamjlal önöödör khürtel khadgalagdsaar baina."
+  },
+  {
+   "mn": "Наадмын тасалбар урьдчилан зарагддаг.",
+   "en": "Naadam tickets are sold in advance.",
+   "alt_mn": [
+    "Наадмын тасалбар урьдчилж зарагддаг."
+   ],
+   "alt_en": [
+    "Tickets for Naadam are sold ahead of time."
+   ],
+   "mn_latin": "Naadmyn tasalbar uridchilan zaragddag."
+  },
+  {
+   "mn": "Наадмын үеэр хуушуур, бууз идэгддэг.",
+   "en": "Khuushuur and buuz are eaten during Naadam.",
+   "alt_mn": [
+    "Наадмын үеэр хүмүүс хуушуур, бууз иддэг."
+   ],
+   "alt_en": [
+    "People eat khuushuur and buuz during Naadam."
+   ],
+   "mn_latin": "Naadmyn üyeer khuushuur, buuz idegddeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "Passive voice: English is/are + past participle and Mongolian -гд-",
+  "title_mn": "Үйлдэгдэх хэв: Англи хэлний is/are + V3 ба монгол хэлний -гд- нөхцөл",
+  "explain_en": "In Mongolian, the passive is formed by adding -гд- to the verb stem: after a vowel it is just -гд-, and after a consonant a linking vowel is added following vowel harmony (-агд-/-эгд-/-огд-/-өгд-). The usual tense ending then follows. Зохион байгуул- becomes зохион байгуулагдана 'will be organized' and зохион байгуулагддаг 'is (regularly) organized'. Other examples: зар- becomes зарагддаг, хадгал- becomes хадгалагдах. Compare the English 'is/are + past participle': 'Naadam is held every July.' The agent is often not mentioned. Mongolian often prefers an active verb like болдог 'happens', but the -гд- passive is common in news and formal speech.",
+  "explain_mn": "Англи хэлэнд passive нь 'be' үйл үгийн хэлбэр (am/is/are) ба үйл үгийн гуравдахь хэлбэр (past participle)-ээс бүтнэ. Жишээ нь: 'Naadam is held every July.' = Наадам жил бүрийн долдугаар сард болдог. Үйлийг хийгч хүн ихэвчлэн дурдагддаггүй. Олон тооны нэр үгтэй бол are хэрэглэнэ: 'Tickets are sold.' Асуулт: 'Is Naadam held in July?' Сөрөг: 'It is not held in winter.' Монгол хэлний -гд- нөхцөлтэй адил боловч англи хэлэнд заавал be үйл үг хэрэгтэй.",
+  "examples": [
+   {
+    "mn": "Наадам жил бүр зохион байгуулагддаг.",
+    "en": "Naadam is organized every year.",
+    "mn_latin": "Naadam jil bür zokhion baiguulagddag."
+   },
+   {
+    "mn": "Морь уралдаан хотоос гадна зохион байгуулагддаг.",
+    "en": "The horse race is organized outside the city.",
+    "mn_latin": "Mori uraldaan khotoos gadna zokhion baiguulagddag."
+   },
+   {
+    "mn": "Тасалбар урьдчилан зарагддаг.",
+    "en": "Tickets are sold in advance.",
+    "mn_latin": "Tasalbar uridchilan zaragddag."
+   },
+   {
+    "mn": "Уламжлал өнөөдөр хүртэл хадгалагдсаар байна.",
+    "en": "The tradition is still preserved today.",
+    "mn_latin": "Ulamjlal önöödör khürtel khadgalagdsaar baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Наадам жил бүр зохион байгуул___.",
+   "answer": "агддаг",
+   "options": [
+    "агддаг",
+    "даг",
+    "аад",
+    "ж байна"
+   ],
+   "translation": "Naadam is organized every year.",
+   "explain_en": "Add the passive suffix (-агд- after this consonant stem) and the habitual -даг: зохион байгуул-агд-даг.",
+   "explain_mn": "Үйл үгийн үндэс дээр үйлдэгдэх хэвийн -агд- нөхцөл залгаж, байнгын үйлийг илтгэх -даг нэмнэ: зохион байгуул-агд-даг."
+  },
+  {
+   "lang": "mn",
+   "text": "Тасалбар урьдчилан зар___.",
+   "answer": "агддаг",
+   "options": [
+    "агддаг",
+    "дог",
+    "уулдаг",
+    "сан"
+   ],
+   "translation": "Tickets are sold in advance.",
+   "explain_en": "зар- 'sell' + -агд- (passive) + -даг (habitual) = зарагддаг 'is sold'.",
+   "explain_mn": "зар- + -агд- (үйлдэгдэх хэвийн нөхцөл) + -даг (байнгын) = зарагддаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Нээлтийн ёслол Төв цэнгэлдэх хүрээлэнд яв___.",
+   "answer": "агддаг",
+   "options": [
+    "агддаг",
+    "лаа",
+    "ах",
+    "аад"
+   ],
+   "translation": "The opening ceremony is held at the Central Stadium.",
+   "explain_en": "явах + -агд- + -даг gives явагддаг 'is held / takes place'. You can also say болдог.",
+   "explain_mn": "Яв- үндэс дээр -агд- нөхцөл залгаж, байнгын -даг-аар төгсгөнө: явагддаг. Мөн болдог гэж хэлж болно."
+  },
+  {
+   "lang": "en",
+   "text": "Naadam ___ every July.",
+   "answer": "is held",
+   "options": [
+    "is held",
+    "holds",
+    "are held",
+    "is holding"
+   ],
+   "translation": "Наадам жил бүрийн долдугаар сард болдог.",
+   "explain_en": "Naadam is singular, so use 'is' + past participle 'held'.",
+   "explain_mn": "Naadam нэг тоотой тул 'is' + 'held' (V3) хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Tickets ___ in advance.",
+   "answer": "are sold",
+   "options": [
+    "are sold",
+    "is sold",
+    "sell",
+    "are selling"
+   ],
+   "translation": "Тасалбар урьдчилан зарагддаг.",
+   "explain_en": "'Tickets' is plural, so use 'are' + past participle 'sold'.",
+   "explain_mn": "'Tickets' олон тооны тул 'are' + 'sold' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The horse race ___ outside the city.",
+   "answer": "is organized",
+   "options": [
+    "is organized",
+    "organizes",
+    "are organized",
+    "organized"
+   ],
+   "translation": "Морь уралдаан хотоос гадна зохион байгуулагддаг.",
+   "explain_en": "Singular subject + is + past participle describes a regular event without naming who organizes it.",
+   "explain_mn": "Нэг тооны өгүүлэгдэхүүн + is + V3 нь тогтмол үйл явдлыг хэн хийснийг дурдахгүйгээр илэрхийлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Болд, Наадам гэж юу вэ?",
+   "en": "Bold, what is Naadam?",
+   "mn_latin": "Bold, Naadam gej yuu ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Наадам бол Монголын хамгийн том баяр. Жил бүрийн долдугаар сард зохион байгуулагддаг.",
+   "en": "Naadam is Mongolia's biggest festival. It is held every July.",
+   "mn_latin": "Naadam bol Mongolyn khamgiin tom bayar. Jil büriin doldugaar sard zokhion baiguulagddag."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Хэзээ болдог вэ?",
+   "en": "When is it held?",
+   "mn_latin": "Khezee boldog ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Долдугаар сарын 11-ээс 13-ныг хүртэл. Нээлтийн ёслол Төв цэнгэлдэх хүрээлэнд явагддаг.",
+   "en": "From July 11 to 13. The opening ceremony is held at the Central Stadium.",
+   "mn_latin": "Doldugaar saryn 11-ees 13-nyg khürtel. Neeltiin yoslol Töv tsengeldekh khüreelend yavagddag."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Ямар наадмууд байдаг вэ?",
+   "en": "What games are there?",
+   "mn_latin": "Yamar naadmuud baidag ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Бөх, морь уралдаан, сур харвах гэсэн эрийн гурван наадам байдаг.",
+   "en": "There are the three manly games: wrestling, horse racing and archery.",
+   "mn_latin": "Bökh, mori uraldaan, sur kharvakh gesen eriin gurvan naadam baidag."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Үзэгч олон байдаг уу?",
+   "en": "Are there many spectators?",
+   "mn_latin": "Üzegch olon baidag uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм ээ, олон мянган хүн ирдэг. Бууз, хуушуур ч их идэгддэг!",
+   "en": "Yes, thousands of people come. A lot of buuz and khuushuur are eaten too!",
+   "mn_latin": "Tiim ee, olon myangan khün irdeg. Buuz, khuushuur ch ikh idegddeg!"
+  }
+ ],
+ "culture_note": {
+  "en": "Naadam is Mongolia's national festival. It is held every year around July 11-13, marking the anniversary of the 1921 People's Revolution. The 'three manly games' are wrestling, horse racing and archery. Today women also take part in archery, and children ride the horses in the races. In 2010 UNESCO inscribed Naadam, the Mongolian traditional festival, on the Representative List of the Intangible Cultural Heritage of Humanity.",
+  "mn": "Наадам бол Монголын үндэсний баяр бөгөөд 1921 оны Ардын хувьсгалын ойг тэмдэглэн жил бүр долдугаар сарын 11-13-ны орчимд болдог. Эрийн гурван наадам нь бөх, морь уралдаан, сур харваа юм. Өнөө үед эмэгтэйчүүд ч сур харвааны тэмцээнд оролцдог, морь уралдаанд хүүхдүүд морь унадаг. 2010 онд ЮНЕСКО Монголын уламжлалт баяр наадмыг Хүн төрөлхтний биет бус соёлын өвийн төлөөллийн жагсаалтад бүртгэсэн."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 28,
+  "notes": "Content is usable but has several wrong Mongolian forms, a poor grammar explanation, and some mismatched translations."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 20,
+  "notes": "Fixed wrong grammar terms and suffix lists, unnatural passive forms, alternatives that did not match, and the mismatched culture note.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "'сур харвааг хийдэг' is unnatural, and 'хоёулаа' is the standard form; the sentence now matches 'take part'"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "'сур харвалт' is nonstandard; the lesson's word is 'сур харваа'"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "'үзүүлэгддэг' is unnatural and changes the meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "The old alternative ('shown to spectators') did not match the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "'өмнө нь' means 'previously', not 'in advance'"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "'их' added 'a lot', so the old alternative did not match; the new one matches alt_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Passive voice is 'үйлдэгдэх хэв', not 'үйлт нэр'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "-лд- is the reciprocal suffix, not a passive one, and the list of suffix forms was confused"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The translation was missing 'every' (жил бүр); the negative is 'сөрөг', not 'сөрөх'"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "'үзүүлэгддэг' is unnatural Mongolian"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "en",
+    "why": "Matches the new Mongolian example"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Should be 'үйл үг', not 'үйлт үг'; the suffix form is -агд-"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "The suffix used here is -агд-"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "The old grammar terms were wrong and made no sense"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "'явуулагддаг' is unnatural; 'явагддаг' is the standard form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Matches the new item"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Matches the new item"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Awkward wording; also aligned with the Mongolian version"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The revolution anniversary and 'also' (ч) were missing, and the list name was incomplete"
+   }
+  ]
+ }
+}

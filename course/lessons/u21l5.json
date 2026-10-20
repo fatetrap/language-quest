@@ -1,0 +1,442 @@
+{
+ "intro_en": "You will learn to say what happens before and after other things in your daily schedule at work or university. You will use before/after + -ing in English and -аад/-ээд, -хын өмнө, -сны дараа in Mongolian.",
+ "intro_mn": "Та энэ хичээлээр ажил, сургуулийн өдөр тутмын хуваарьт юу юуны өмнө, юуны дараа болохыг хэлж сурна. Англи хэлний before/after + -ing бүтэц болон монгол хэлний -аад/-ээд, -хын өмнө, -сны дараа хэлбэрийг хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "өмнө",
+   "en": "before",
+   "pos": "postposition",
+   "example_mn": "Лекцийн өмнө кофе уая.",
+   "example_en": "Let's have coffee before the lecture.",
+   "mn_latin": "ömnö"
+  },
+  {
+   "mn": "дараа",
+   "en": "after",
+   "pos": "postposition",
+   "example_mn": "Үдийн хоолны дараа уулзъя.",
+   "example_en": "Let's meet after lunch.",
+   "mn_latin": "daraa"
+  },
+  {
+   "mn": "лекц",
+   "en": "lecture",
+   "pos": "noun",
+   "example_mn": "Миний лекц есөн цагт эхэлнэ.",
+   "example_en": "My lecture starts at nine o'clock.",
+   "mn_latin": "lyekts"
+  },
+  {
+   "mn": "үдийн хоол",
+   "en": "lunch",
+   "pos": "noun",
+   "example_mn": "Бид нэг цагт үдийн хоол иддэг.",
+   "example_en": "We eat lunch at one o'clock.",
+   "mn_latin": "üdiin khool"
+  },
+  {
+   "mn": "дуусгах",
+   "en": "to finish",
+   "pos": "verb",
+   "example_mn": "Би ажлаа таван цагт дуусгана.",
+   "example_en": "I finish work at five o'clock.",
+   "mn_latin": "duusgakh"
+  },
+  {
+   "mn": "гэрийн даалгавар",
+   "en": "homework",
+   "pos": "noun",
+   "example_mn": "Би гэрийн даалгавраа хийж байна.",
+   "example_en": "I am doing my homework.",
+   "mn_latin": "geriin daalgavar"
+  },
+  {
+   "mn": "гэртээ харих",
+   "en": "to go home",
+   "pos": "verb phrase",
+   "example_mn": "Би зургаан цагт гэртээ харина.",
+   "example_en": "I go home at six o'clock.",
+   "mn_latin": "gertee kharikh"
+  },
+  {
+   "mn": "хуваарь",
+   "en": "schedule",
+   "pos": "noun",
+   "example_mn": "Миний хуваарь маш ачаалалтай.",
+   "example_en": "My schedule is very busy.",
+   "mn_latin": "khuvaari"
+  },
+  {
+   "mn": "хурал",
+   "en": "meeting",
+   "pos": "noun",
+   "example_mn": "Хурал арван цагт болно.",
+   "example_en": "The meeting is at ten o'clock.",
+   "mn_latin": "khural"
+  },
+  {
+   "mn": "эхлэх",
+   "en": "to start",
+   "pos": "verb",
+   "example_mn": "Хичээл найман цагт эхэлдэг.",
+   "example_en": "Classes start at eight o'clock.",
+   "mn_latin": "ekhlekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би лекцийн өмнө кофе уудаг.",
+   "en": "I drink coffee before the lecture.",
+   "alt_mn": [
+    "Би лекц эхлэхийн өмнө кофе уудаг."
+   ],
+   "alt_en": [
+    "I have coffee before the lecture."
+   ],
+   "mn_latin": "Bi lyektsiin ömnö kofye uudag."
+  },
+  {
+   "mn": "Лекцийн дараа бид үдийн хоол иднэ.",
+   "en": "After the lecture, we eat lunch.",
+   "alt_mn": [
+    "Лекц дууссаны дараа бид үдийн хоол иднэ."
+   ],
+   "alt_en": [
+    "We eat lunch after the lecture."
+   ],
+   "mn_latin": "Lyektsiin daraa bid üdiin khool idne."
+  },
+  {
+   "mn": "Би хоол идсэний дараа ээж рүүгээ залгадаг.",
+   "en": "After eating, I call my mother.",
+   "alt_mn": [
+    "Би хоолоо идээд ээж рүүгээ залгадаг."
+   ],
+   "alt_en": [
+    "After I eat, I call my mother."
+   ],
+   "mn_latin": "Bi khool idsenii daraa eej rüügee zalgadag."
+  },
+  {
+   "mn": "Гэртээ харихын өмнө дэлгүүрт орно.",
+   "en": "Before going home, I stop by the store.",
+   "alt_mn": [
+    "Би гэртээ харихын өмнө дэлгүүрт ордог."
+   ],
+   "alt_en": [
+    "I stop by the store before going home."
+   ],
+   "mn_latin": "Gertee kharikhyn ömnö delgüürt orno."
+  },
+  {
+   "mn": "Ажлаа дуусгаад гэртээ харина.",
+   "en": "After finishing work, I go home.",
+   "alt_mn": [
+    "Би ажлаа дуусгасны дараа гэртээ харина."
+   ],
+   "alt_en": [
+    "I finish work and then I go home."
+   ],
+   "mn_latin": "Ajlaa duusgaad gertee kharina."
+  },
+  {
+   "mn": "Гэрийн даалгавраа хийхийн өмнө цай уая.",
+   "en": "Let's have tea before doing homework.",
+   "alt_mn": [
+    "Гэрийн даалгавраа хийхээс өмнө цай уая."
+   ],
+   "alt_en": [
+    "Let's drink tea before we do our homework."
+   ],
+   "mn_latin": "Geriin daalgavraa khiikhiin ömnö tsai uaya."
+  },
+  {
+   "mn": "Хурлын дараа та завтай юу?",
+   "en": "Are you free after the meeting?",
+   "alt_mn": [
+    "Хурал болсны дараа та чөлөөтэй юу?"
+   ],
+   "alt_en": [
+    "Are you available after the meeting?"
+   ],
+   "mn_latin": "Khurlyn daraa ta zavtai yuu?"
+  },
+  {
+   "mn": "Би унтахынхаа өмнө гэрийн даалгавраа дуусгадаг.",
+   "en": "I finish my homework before going to bed.",
+   "alt_mn": [],
+   "alt_en": [
+    "Before going to bed, I finish my homework."
+   ],
+   "mn_latin": "Bi untakhynkhaa ömnö geriin daalgavraa duusgadag."
+  },
+  {
+   "mn": "Хичээл тарсны дараа номын санд очно.",
+   "en": "After class ends, I go to the library.",
+   "alt_mn": [
+    "Хичээлийн дараа номын санд очно."
+   ],
+   "alt_en": [
+    "After class, I go to the library."
+   ],
+   "mn_latin": "Khicheel tarsny daraa nomyn sand ochno."
+  },
+  {
+   "mn": "Өглөөний цайгаа уугаад ажилдаа явдаг.",
+   "en": "After having breakfast, I go to work.",
+   "alt_mn": [
+    "Өглөөний цай уусныхаа дараа ажилдаа явдаг."
+   ],
+   "alt_en": [
+    "I have breakfast and then go to work."
+   ],
+   "mn_latin": "Öglöönii tsaigaa uugaad ajildaa yavdag."
+  },
+  {
+   "mn": "Хурал эхлэхийн өмнө бид имэйлээ шалгана.",
+   "en": "Before the meeting starts, we check our email.",
+   "alt_mn": [],
+   "alt_en": [
+    "We check our email before the meeting starts."
+   ],
+   "mn_latin": "Khural ekhlekhiin ömnö bid imeilee shalgana."
+  },
+  {
+   "mn": "Лекцийн дараа би найзтайгаа уулзсан.",
+   "en": "After the lecture, I met my friend.",
+   "alt_mn": [],
+   "alt_en": [
+    "I met my friend after the lecture."
+   ],
+   "mn_latin": "Lyektsiin daraa bi naiztaigaa uulzsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Before and after: -хын өмнө, -сны дараа, -аад/-ээд",
+  "title_mn": "Өмнө ба дараа: -хын өмнө, -сны дараа, -аад/-ээд",
+  "explain_en": "With a noun, Mongolian puts the noun in the genitive before өмнө or дараа: лекцийн өмнө (before the lecture), хурлын дараа (after the meeting). With a verb, use the future form -х + genitive + өмнө for 'before doing': гэртээ харихын өмнө (before going home). For 'after doing', use the past form -сан + genitive + дараа: идсэний дараа (after eating). A shorter, very common way to say 'do A, then B' is the linking ending -аад/-ээд/-оод/-өөд: ажлаа дуусгаад гэртээ харина (I finish work and then go home). The ending follows vowel harmony. In English, the equivalent is before/after + verb-ing.",
+  "explain_mn": "Англи хэлэнд before, after-ийн дараа үйл үгийг -ing хэлбэрт оруулна: After eating, I call my mother. (Хоол идсэний дараа би ээж рүүгээ залгана.) Нэр үгтэй бол the гэх мэт тодотгол хэрэглэнэ: before the lecture, after the meeting. Өгүүлбэрийн эхэнд байвал таслал тавина: After eating, I call... Мөн before/after-ийн дараа бүтэн өгүүлбэр ч орж болно: After I eat, I call my mother. Монгол хэлний -аад/-ээд-тэй адил англиар and then гэж хэлж болно: I finish work and then go home.",
+  "examples": [
+   {
+    "mn": "Лекцийн өмнө кофе уудаг.",
+    "en": "I drink coffee before the lecture.",
+    "mn_latin": "Lyektsiin ömnö kofye uudag."
+   },
+   {
+    "mn": "Хоол идсэний дараа ээж рүүгээ залгадаг.",
+    "en": "After eating, I call my mother.",
+    "mn_latin": "Khool idsenii daraa eej rüügee zalgadag."
+   },
+   {
+    "mn": "Гэртээ харихын өмнө дэлгүүрт орно.",
+    "en": "Before going home, I stop by the store.",
+    "mn_latin": "Gertee kharikhyn ömnö delgüürt orno."
+   },
+   {
+    "mn": "Даалгавраа хийгээд унтана.",
+    "en": "I do my homework and then go to sleep.",
+    "mn_latin": "Daalgavraa khiigeed untana."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Лекц___ өмнө кофе уая.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "ийг",
+    "д",
+    "тэй"
+   ],
+   "translation": "Let's have coffee before the lecture.",
+   "explain_en": "Өмнө needs the genitive: лекц → лекцийн.",
+   "explain_mn": "«Өмнө» нь өмнөх нэр үгийг холбоо хэлбэрт (харьяалахын тийн ялгал) авдаг: лекц → лекцийн."
+  },
+  {
+   "lang": "mn",
+   "text": "Ажлаа дуусга___ гэртээ харина.",
+   "answer": "аад",
+   "options": [
+    "аад",
+    "сан",
+    "х",
+    "аарай"
+   ],
+   "translation": "After finishing work, I go home.",
+   "explain_en": "-аад links two actions in order: 'finish, and then go home'.",
+   "explain_mn": "-аад нь үйлдлийг дараалуулж холбоно: дуусгаад харина."
+  },
+  {
+   "lang": "mn",
+   "text": "Гэртээ харих___ өмнө дэлгүүрт орно.",
+   "answer": "ын",
+   "options": [
+    "ын",
+    "сны",
+    "аад",
+    "д"
+   ],
+   "translation": "Before going home, I stop by the store.",
+   "explain_en": "'Before doing' uses -х + genitive + өмнө: харихын өмнө.",
+   "explain_mn": "«-хын өмнө» нь хийхээс өмнөх үйлдлийг заана: харихын өмнө."
+  },
+  {
+   "lang": "en",
+   "text": "After ___, I call my mother.",
+   "answer": "eating",
+   "options": [
+    "eating",
+    "eat",
+    "ate",
+    "eaten"
+   ],
+   "translation": "Хоол идсэний дараа би ээж рүүгээ залгадаг.",
+   "explain_en": "After is followed by the -ing form of the verb.",
+   "explain_mn": "After-ийн дараа үйл үгийг -ing хэлбэрээр хэрэглэнэ: eating."
+  },
+  {
+   "lang": "en",
+   "text": "Before ___ home, I stop by the store.",
+   "answer": "going",
+   "options": [
+    "going",
+    "go",
+    "went",
+    "goes"
+   ],
+   "translation": "Гэртээ харихынхаа өмнө би дэлгүүрт ордог.",
+   "explain_en": "Before + -ing: before going.",
+   "explain_mn": "Before-ийн дараа -ing хэлбэр орно: going."
+  },
+  {
+   "lang": "en",
+   "text": "First the lecture, then lunch: I have lunch ___ the lecture.",
+   "answer": "after",
+   "options": [
+    "after",
+    "before",
+    "during",
+    "until"
+   ],
+   "translation": "Би лекцийн дараа үдийн хоол иддэг.",
+   "explain_en": "'After the lecture' means later than the lecture; the lunch comes second.",
+   "explain_mn": "Лекцийн дараа гэсэн утгатай тул after хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Болд, өнөөдөр лекцийн дараа та юу хийх вэ?",
+   "en": "Bold, what are you doing after the lecture today?",
+   "mn_latin": "Bold, önöödör lyektsiin daraa ta yuu khiikh ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Үдийн хоол идээд номын санд очно.",
+   "en": "I'll have lunch and then go to the library.",
+   "mn_latin": "Üdiin khool ideed nomyn sand ochno."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Гэрийн даалгавраа хийх үү?",
+   "en": "Are you going to do your homework?",
+   "mn_latin": "Geriin daalgavraa khiikh üü?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тийм. Даалгавраа дуусгасныхаа дараа гэртээ харина.",
+   "en": "Yes. After finishing my homework, I'll go home.",
+   "mn_latin": "Tiim. Daalgavraa duusgasnykhaa daraa gertee kharina."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Гэртээ харихынхаа өмнө надтай кофе уух уу?",
+   "en": "Do you want to have coffee with me before going home?",
+   "mn_latin": "Gertee kharikhynkhaa ömnö nadtai kofye uukh uu?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Сайн санаа байна. Хэдэн цагт уулзах вэ?",
+   "en": "Good idea. What time shall we meet?",
+   "mn_latin": "Sain sanaa baina. Kheden tsagt uulzakh ve?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Дөрвөн цагт, номын сангийн өмнө.",
+   "en": "At four o'clock, in front of the library.",
+   "mn_latin": "Dörvön tsagt, nomyn sangiin ömnö."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "За, тэгье. Дараа уулзъя!",
+   "en": "OK, let's do that. See you later!",
+   "mn_latin": "Za, tegiye. Daraa uulzya!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many workplaces and universities have a lunch break that often starts around one o'clock, and people usually eat at a canteen or a small cafe nearby. Traffic is heavy in the evening, so many people wait a while after work before going home. It is common to call family members after meals or before the end of the day.",
+  "mn": "Улаанбаатарт ажлын байр, их дээд сургуулиудад үдийн завсарлага ихэвчлэн нэг цагийн орчим эхэлдэг бөгөөд хүмүүс ойролцоох гуанз эсвэл жижиг кафед хооллодог. Оройдоо түгжрэл ихтэй тул ажлаас тарсны дараа нилээд хүлээгээд гэртээ харьдаг хүн цөөнгүй. Хоолны дараа эсвэл өдрийн төгсгөлд гэр бүлийнхэн рүүгээ залгах нь түгээмэл."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 19,
+  "notes": "Mostly good; main errors are the misspelled уъя (should be уая), a mismatched fill-blank translation, and the garbled Mongolian grammar explanation. Some entries above are no-op placeholders."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 8,
+  "notes": "Fixed the -аад дараа error in the intro, ambiguous blanks, an unnatural collocation and the culture note mismatch.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "-аад/-ээд is not followed by дараа"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "-аад/-ээд is not followed by дараа"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "a schedule is not called завгүй in Mongolian; ачаалалтай is the natural word"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "unclear English in the last sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "лекцээс өмнө is also correct; use only correctly formed distractors"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "text",
+    "why": "before/during/until also fit without context"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "match the mn version; 'long' was unsupported"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "нилээн → нилээд; ambiguous 'нэг цагийн орчим'; align with en"
+   }
+  ]
+ }
+}

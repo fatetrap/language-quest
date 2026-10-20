@@ -1,0 +1,478 @@
+{
+ "intro_en": "You will learn how to buy bus and train tickets, ask about times, prices and platforms, and make polite requests. In English you will use \"will\" for quick decisions and offers.",
+ "intro_mn": "Та автобус, галт тэрэгний тийз худалдаж авах, цаг, үнэ, платформын талаар асуух, эелдэг хүсэлт тавихыг сурна. Англи хэлэнд тэр даруй гаргасан шийдвэр, санал илэрхийлэхэд \"will\"-ийг хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "тийз",
+   "en": "ticket",
+   "pos": "noun",
+   "example_mn": "Надад нэг тийз хэрэгтэй.",
+   "example_en": "I need one ticket.",
+   "mn_latin": "tiiz"
+  },
+  {
+   "mn": "нэг талын",
+   "en": "one-way",
+   "pos": "adjective",
+   "example_mn": "Нэг талын тийз авъя.",
+   "example_en": "I'll get a one-way ticket.",
+   "mn_latin": "neg talyn"
+  },
+  {
+   "mn": "хоёр талын",
+   "en": "round-trip",
+   "pos": "adjective",
+   "example_mn": "Хоёр талын тийз хэд вэ?",
+   "example_en": "How much is a round-trip ticket?",
+   "mn_latin": "khoyor talyn"
+  },
+  {
+   "mn": "суудал",
+   "en": "seat",
+   "pos": "noun",
+   "example_mn": "Цонхны дэргэд суудал байна уу?",
+   "example_en": "Is there a seat by the window?",
+   "mn_latin": "suudal"
+  },
+  {
+   "mn": "цаг",
+   "en": "time; hour",
+   "pos": "noun",
+   "example_mn": "Галт тэрэг хэдэн цагт явах вэ?",
+   "example_en": "What time does the train leave?",
+   "mn_latin": "tsag"
+  },
+  {
+   "mn": "платформ",
+   "en": "platform",
+   "pos": "noun",
+   "example_mn": "Галт тэрэг хоёрдугаар платформоос явна.",
+   "example_en": "The train leaves from platform two.",
+   "mn_latin": "platform"
+  },
+  {
+   "mn": "касс",
+   "en": "ticket counter",
+   "pos": "noun",
+   "example_mn": "Касс хаана байна вэ?",
+   "example_en": "Where is the ticket counter?",
+   "mn_latin": "kass"
+  },
+  {
+   "mn": "галт тэрэг",
+   "en": "train",
+   "pos": "noun",
+   "example_mn": "Галт тэрэг оройн зургаан цагт гарна.",
+   "example_en": "The train departs at six in the evening.",
+   "mn_latin": "galt tereg"
+  },
+  {
+   "mn": "автобус",
+   "en": "bus",
+   "pos": "noun",
+   "example_mn": "Дараагийн автобус хэзээ явах вэ?",
+   "example_en": "When does the next bus leave?",
+   "mn_latin": "avtobus"
+  },
+  {
+   "mn": "үнэ",
+   "en": "price",
+   "pos": "noun",
+   "example_mn": "Тийзний үнэ хэд вэ?",
+   "example_en": "How much is the ticket?",
+   "mn_latin": "üne"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сайн байна уу, надад нэг тийз хэрэгтэй.",
+   "en": "Hello, I need one ticket.",
+   "alt_mn": [
+    "Сайн байна уу, надад нэг тийз хэрэгтэй байна."
+   ],
+   "alt_en": [
+    "Hello, I need a ticket."
+   ],
+   "mn_latin": "Sain baina uu, nadad neg tiiz kheregtei."
+  },
+  {
+   "mn": "Дархан руу нэг талын тийз авъя.",
+   "en": "I'll take a one-way ticket to Darkhan.",
+   "alt_mn": [
+    "Дархан руу нэг талын тийз авна."
+   ],
+   "alt_en": [
+    "I'll get a one-way ticket to Darkhan."
+   ],
+   "mn_latin": "Darkhan ruu neg talyn tiiz avya."
+  },
+  {
+   "mn": "Хоёр талын тийзний үнэ хэд вэ?",
+   "en": "How much is a round-trip ticket?",
+   "alt_mn": [
+    "Хоёр талын тийз хэд вэ?"
+   ],
+   "alt_en": [
+    "What is the price of a round-trip ticket?"
+   ],
+   "mn_latin": "Khoyor talyn tiiznii üne khed ve?"
+  },
+  {
+   "mn": "Галт тэрэг хэдэн цагт явах вэ?",
+   "en": "What time will the train leave?",
+   "alt_mn": [
+    "Галт тэрэг хэдэн цагт гарах вэ?"
+   ],
+   "alt_en": [
+    "What time does the train leave?"
+   ],
+   "mn_latin": "Galt tereg kheden tsagt yavakh ve?"
+  },
+  {
+   "mn": "Автобус маргааш өглөө 8 цагт явна.",
+   "en": "The bus will leave tomorrow morning at 8.",
+   "alt_mn": [
+    "Автобус маргааш өглөө найман цагт гарна."
+   ],
+   "alt_en": [
+    "The bus leaves tomorrow morning at 8 o'clock."
+   ],
+   "mn_latin": "Avtobus margaash öglöö 8 tsagt yavna."
+  },
+  {
+   "mn": "Галт тэрэг аль платформоос явах вэ?",
+   "en": "Which platform will the train leave from?",
+   "alt_mn": [
+    "Галт тэрэг хэддүгээр платформоос явах вэ?"
+   ],
+   "alt_en": [
+    "Which platform does the train leave from?"
+   ],
+   "mn_latin": "Galt tereg ali platformoos yavakh ve?"
+  },
+  {
+   "mn": "Цонхны дэргэдэх суудал өгөөч.",
+   "en": "Please give me a seat by the window.",
+   "alt_mn": [
+    "Цонхны дэргэдэх суудал өгнө үү."
+   ],
+   "alt_en": [
+    "Could I have a window seat, please?"
+   ],
+   "mn_latin": "Tsonkhny dergedekh suudal ögööch."
+  },
+  {
+   "mn": "Би хоёр тийз авна.",
+   "en": "I'll take two tickets.",
+   "alt_mn": [
+    "Би хоёр тийз авъя."
+   ],
+   "alt_en": [
+    "I will buy two tickets."
+   ],
+   "mn_latin": "Bi khoyor tiiz avna."
+  },
+  {
+   "mn": "Тийзний мөнгийг би төлнө.",
+   "en": "I'll pay for the tickets.",
+   "alt_mn": [
+    "Тийзний төлбөрийг би төлнө."
+   ],
+   "alt_en": [
+    "I will pay for the tickets."
+   ],
+   "mn_latin": "Tiiznii möngiig bi tölnö."
+  },
+  {
+   "mn": "Тийз хэзээ дуусах вэ?",
+   "en": "When will the tickets run out?",
+   "alt_mn": [
+    "Тийз хэзээ дуусах бол?"
+   ],
+   "alt_en": [
+    "When will the tickets be sold out?"
+   ],
+   "mn_latin": "Tiiz khezee duusakh ve?"
+  },
+  {
+   "mn": "Дараагийн галт тэрэг хэдэн цагт ирэх вэ?",
+   "en": "What time will the next train arrive?",
+   "alt_mn": [
+    "Дараагийн галт тэрэг хэзээ ирэх вэ?"
+   ],
+   "alt_en": [
+    "When does the next train arrive?"
+   ],
+   "mn_latin": "Daraagiin galt tereg kheden tsagt irekh ve?"
+  },
+  {
+   "mn": "Баярлалаа, би платформ дээр хүлээнэ.",
+   "en": "Thank you, I'll wait on the platform.",
+   "alt_mn": [
+    "Баярлалаа, би платформ дээр хүлээе."
+   ],
+   "alt_en": [
+    "Thanks, I will wait on the platform."
+   ],
+   "mn_latin": "Bayarlalaa, bi platform deer khüleene."
+  }
+ ],
+ "grammar": {
+  "title_en": "Future with -на/-нэ/-но/-нө and English \"will\"",
+  "title_mn": "Ирээдүй цаг -на/-нэ/-но/-нө ба англи \"will\"",
+  "explain_en": "In Mongolian, add -на, -нэ, -но or -нө to the verb stem for the future or a decision: авна (will take), явна (will go), төлнө (will pay). The ending follows vowel harmony. In questions, use -х вэ: \"Хэдэн цагт явах вэ?\" (What time will it leave?). Use -ъя/-я/-е/-ё for \"let me / I'll\" offers: \"Авъя.\" English uses \"will\" (often 'll) for decisions made at the moment of speaking: \"I'll take two tickets.\" It is also used for offers: \"I'll carry your bag.\" Put will before the verb, and the verb stays in its base form: I will go, she will pay. The negative is will not (won't): \"I won't go.\" In questions, will comes first: \"Will the train leave soon?\"",
+  "explain_mn": "Монгол хэлэнд ирээдүй цаг буюу шийдвэрийг илэрхийлэхдээ үйл үгийн язгуурт -на, -нэ, -но, -нө залгана: авна, явна, төлнө. Нөхцөл нь эгшиг зохицох ёсыг баримтална. Асуухдаа -х вэ хэрэглэнэ: \"Хэдэн цагт явах вэ?\" Санал болгохдоо -ъя/-я/-е/-ё хэрэглэнэ: \"Авъя.\" Англи хэлэнд шийдвэрээ яг ярьж байхдаа гаргахад \"will\" (товчоор 'll) хэрэглэнэ: \"I'll take two tickets.\" (Би хоёр тийз авна.) Тусламж санал болгохдоо мөн ингэнэ: \"I'll carry your bag.\" Үйл үгийн өмнө will тавьж, үйл үг нь үндсэн хэлбэрээрээ үлдэнэ: I will go, she will pay. Үгүйсгэхдээ will not (won't) гэнэ: \"I won't go.\" Асуухдаа will-ийг өмнө гаргана: \"Will the train leave soon?\"",
+  "examples": [
+   {
+    "mn": "Би хоёр тийз авна.",
+    "en": "I'll take two tickets.",
+    "mn_latin": "Bi khoyor tiiz avna."
+   },
+   {
+    "mn": "Галт тэрэг 7 цагт явна.",
+    "en": "The train will leave at 7.",
+    "mn_latin": "Galt tereg 7 tsagt yavna."
+   },
+   {
+    "mn": "Би мөнгөө төлнө.",
+    "en": "I'll pay.",
+    "mn_latin": "Bi möngöö tölnö."
+   },
+   {
+    "mn": "Автобус хэзээ ирэх вэ?",
+    "en": "When will the bus arrive?",
+    "mn_latin": "Avtobus khezee irekh ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би хоёр тийз ав___.",
+   "answer": "на",
+   "options": [
+    "на",
+    "нэ",
+    "но",
+    "нө"
+   ],
+   "translation": "I'll take two tickets.",
+   "explain_en": "The verb авах has the vowel а, so the future ending is -на: авна.",
+   "explain_mn": "\"Авах\" үйл үг \"а\" эгшигтэй тул ирээдүй цагийн нөхцөл -на болно: авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Галт тэрэг хэдэн цагт яв___ вэ?",
+   "answer": "ах",
+   "options": [
+    "ах",
+    "на",
+    "сан",
+    "ж"
+   ],
+   "translation": "What time will the train leave?",
+   "explain_en": "In a question about the future, use the -х form followed by вэ: явах вэ?",
+   "explain_mn": "Ирээдүйн тухай асуулт -х нөхцөл болон \"вэ\"-ээр бүтнэ: явах вэ?"
+  },
+  {
+   "lang": "mn",
+   "text": "Надад нэг ___ тийз хэрэгтэй, буцахгүй.",
+   "answer": "талын",
+   "options": [
+    "талын",
+    "суудал",
+    "платформ",
+    "цагийн"
+   ],
+   "translation": "I need a one-way ticket; I'm not coming back.",
+   "explain_en": "\"Нэг талын\" means one-way. It describes the ticket.",
+   "explain_mn": "\"Нэг талын тийз\" гэдэг нь буцах шаардлагагүй, зөвхөн нэг чиглэлийн тийз гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ take two tickets, please.",
+   "answer": "will",
+   "options": [
+    "will",
+    "am",
+    "does",
+    "was"
+   ],
+   "translation": "Хоёр тийз авъя.",
+   "explain_en": "Use will for a decision made at the moment of speaking.",
+   "explain_mn": "Яг ярьж байхдаа гаргасан шийдвэрт \"will\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Don't worry, I'll ___ the tickets.",
+   "answer": "buy",
+   "options": [
+    "buy",
+    "buying",
+    "bought",
+    "buys"
+   ],
+   "translation": "Санаа зоволтгүй, тийзийг би авна.",
+   "explain_en": "After will, use the base form of the verb: buy.",
+   "explain_mn": "\"Will\"-ийн дараа үйл үг үндсэн хэлбэрээрээ орно: buy."
+  },
+  {
+   "lang": "en",
+   "text": "The train ___ leave until 9.",
+   "answer": "won't",
+   "options": [
+    "won't",
+    "will",
+    "isn't",
+    "don't"
+   ],
+   "translation": "Галт тэрэг есөн цаг хүртэл явахгүй.",
+   "explain_en": "Won't is the short form of will not, used for a negative future.",
+   "explain_mn": "\"Won't\" нь \"will not\"-ийн товч хэлбэр бөгөөд ирээдүйн үгүйсгэлд хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу. Дархан руу хоёр тийз авъя.",
+   "en": "Hello. I'll take two tickets to Darkhan.",
+   "mn_latin": "Sain baina uu. Darkhan ruu khoyor tiiz avya."
+  },
+  {
+   "speaker": "Кассчин",
+   "mn": "Нэг талын уу, хоёр талын уу?",
+   "en": "One-way or round-trip?",
+   "mn_latin": "Neg talyn uu, khoyor talyn uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Хоёр талын. Үнэ нь хэд вэ?",
+   "en": "Round-trip. How much is it?",
+   "mn_latin": "Khoyor talyn. Üne ni khed ve?"
+  },
+  {
+   "speaker": "Кассчин",
+   "mn": "Хоёр тийз нийт 40 мянган төгрөг болно.",
+   "en": "Two tickets will be 40,000 tugriks in total.",
+   "mn_latin": "Khoyor tiiz niit 40 myangan tögrög bolno."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "За, би төлнө. Галт тэрэг хэдэн цагт явах вэ?",
+   "en": "OK, I'll pay. What time will the train leave?",
+   "mn_latin": "Za, bi tölnö. Galt tereg kheden tsagt yavakh ve?"
+  },
+  {
+   "speaker": "Кассчин",
+   "mn": "Өглөөний наймд явна. Гуравдугаар платформоос.",
+   "en": "It will leave at eight in the morning, from platform three.",
+   "mn_latin": "Öglöönii naimd yavna. Guravdugaar platformoos."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Цонхны дэргэдэх суудал өгнө үү.",
+   "en": "Please give me a seat by the window.",
+   "mn_latin": "Tsonkhny dergedekh suudal ögnö üü."
+  },
+  {
+   "speaker": "Кассчин",
+   "mn": "За, болно. Тийзээ аваарай.",
+   "en": "Sure, no problem. Here you go.",
+   "mn_latin": "Za, bolno. Tiizee avaarai."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolians travel to the countryside by train from Ulaanbaatar, and tickets often sell out before holidays like Naadam and Tsagaan Sar. It is wise to buy tickets a few days ahead. Train tickets show the car and seat number, so check them before boarding.",
+  "mn": "Монголчууд Улаанбаатараас хөдөө орон нутаг руу галт тэргээр их зорчдог бөгөөд Наадам, Цагаан сарын өмнө тийз түргэн дуусдаг. Тийзээ хэд хоногийн өмнө авах нь дээр. Галт тэрэгний тийзэнд вагон, суудлын дугаар бичээстэй байдаг тул суухаасаа өмнө шалгаарай."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 22,
+  "notes": "Mostly good, but some ungrammatical Mongolian question alternatives (-на вэ), a mismatched translation, a poorly designed fill-blank, and a capitalization error."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 13,
+  "notes": "Fixed register and attributive forms, alt mismatches and duplicates, and aligned the en/mn grammar explanations.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "match 'quick decisions'"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "'өгөөч' means 'give me', not 'I need'"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "attributive -дэх form needed"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "attributive -дэх form needed"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "alt duplicated main"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "'хүлээж байна' = I'm waiting, not I'll wait"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "match en title"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en/mn explanations must match"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "en/mn explanations must match"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "en",
+    "why": "'pay the money' unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'баярлалаа' means thanks, not please"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "polite register to cashier; attributive form"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "'Эндээс аваарай' unnatural for 'here you go'"
+   }
+  ]
+ }
+}

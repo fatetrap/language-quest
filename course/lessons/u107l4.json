@@ -1,0 +1,427 @@
+{
+ "intro_en": "Learn to buy used phones, bikes and furniture at Naran Tuul. You will ask about condition with words like хуучин, бараг шинэ, эвдэрсэн, зураастай and ажиллагаатай, and use бараг to say 'almost' or 'hardly'.",
+ "intro_mn": "Нарантуулаас хуучин утас, дугуй, тавилга худалдаж авч сурна. Барааны байдлыг асууж, англи хэлний almost, nearly, practically, hardly үгсийг зөв хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "хуучин",
+   "en": "used, secondhand",
+   "pos": "adjective",
+   "example_mn": "Энэ утас хуучин ч гэсэн сайн ажилладаг.",
+   "example_en": "This phone is used, but it works well.",
+   "mn_latin": "khuuchin"
+  },
+  {
+   "mn": "бараг шинэ",
+   "en": "almost new",
+   "pos": "phrase",
+   "example_mn": "Энэ дугуй бараг шинэ, ердөө хоёр удаа унасан.",
+   "example_en": "This bike is almost new. It's only been ridden twice.",
+   "mn_latin": "barag shine"
+  },
+  {
+   "mn": "эвдэрсэн",
+   "en": "broken",
+   "pos": "adjective (participle)",
+   "example_mn": "Сандлын нэг хөл нь эвдэрсэн байна.",
+   "example_en": "One of the chair's legs is broken.",
+   "mn_latin": "evdersen"
+  },
+  {
+   "mn": "зураастай",
+   "en": "scratched",
+   "pos": "adjective",
+   "example_mn": "Дэлгэц нь жаахан зураастай.",
+   "example_en": "The screen is a little scratched.",
+   "mn_latin": "zuraastai"
+  },
+  {
+   "mn": "ажиллагаатай",
+   "en": "working, in working order",
+   "pos": "adjective",
+   "example_mn": "Бүх товчлуур нь ажиллагаатай юу?",
+   "example_en": "Do all the buttons work?",
+   "mn_latin": "ajillagaatai"
+  },
+  {
+   "mn": "хэрэглэх",
+   "en": "to use",
+   "pos": "verb",
+   "example_mn": "Бид энэ ширээг хоёр жил хэрэглэсэн.",
+   "example_en": "We used this table for two years.",
+   "mn_latin": "khereglekh"
+  },
+  {
+   "mn": "баталгаа",
+   "en": "warranty, guarantee",
+   "pos": "noun",
+   "example_mn": "Хуучин утсанд баталгаа өгдөг үү?",
+   "example_en": "Do you give a warranty on used phones?",
+   "mn_latin": "batalgaa"
+  },
+  {
+   "mn": "дэлгэц",
+   "en": "screen",
+   "pos": "noun",
+   "example_mn": "Дэлгэц нь хагараагүй, зүгээр.",
+   "example_en": "The screen isn't cracked. It's fine.",
+   "mn_latin": "delgets"
+  },
+  {
+   "mn": "цэнэг",
+   "en": "battery, charge",
+   "pos": "noun",
+   "example_mn": "Энэ утасны цэнэг удаан барьдаг.",
+   "example_en": "This phone's battery lasts a long time.",
+   "mn_latin": "tseneg"
+  },
+  {
+   "mn": "гэмтэл",
+   "en": "damage, defect",
+   "pos": "noun",
+   "example_mn": "Ямар нэг гэмтэл байна уу?",
+   "example_en": "Is there any damage?",
+   "mn_latin": "gemtel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ утас хуучин ч гэсэн бүрэн ажиллагаатай.",
+   "en": "This phone is used, but it works perfectly.",
+   "alt_mn": [
+    "Энэ утас хуучин боловч бүрэн ажиллагаатай."
+   ],
+   "alt_en": [
+    "This phone is secondhand, but it's fully functional.",
+    "It's a used phone, but it works perfectly."
+   ],
+   "mn_latin": "Ene utas khuuchin ch gesen büren ajillagaatai."
+  },
+  {
+   "mn": "Дугуй бараг шинэ, ердөө хэдхэн удаа унасан.",
+   "en": "The bike is almost new. It's only been ridden a few times.",
+   "alt_mn": [
+    "Дугуй бараг шинэ, хэдхэн л удаа унасан."
+   ],
+   "alt_en": [
+    "The bike is nearly new. It's only been ridden a few times.",
+    "The bike is practically new. It's only been ridden a few times."
+   ],
+   "mn_latin": "Dugui barag shine, yerdöö khedkhen udaa unasan."
+  },
+  {
+   "mn": "Энэ буйданг бараг хэрэглээгүй.",
+   "en": "This sofa has hardly been used.",
+   "alt_mn": [
+    "Энэ буйдан бараг хэрэглээгүй юм."
+   ],
+   "alt_en": [
+    "This sofa has barely been used.",
+    "This sofa is practically unused."
+   ],
+   "mn_latin": "Ene buidang barag kheregleegüi."
+  },
+  {
+   "mn": "Дэлгэц нь жаахан зураастай, гэхдээ өөр гэмтэлгүй.",
+   "en": "The screen is a little scratched, but there's no other damage.",
+   "alt_mn": [
+    "Дэлгэц нь бага зэрэг зураастай, гэхдээ өөр гэмтэлгүй."
+   ],
+   "alt_en": [
+    "The screen has a few scratches, but there's no other damage."
+   ],
+   "mn_latin": "Delgets ni jaakhan zuraastai, gekhdee öör gemtelgüi."
+  },
+  {
+   "mn": "Шүүгээний хаалга эвдэрсэн болохоор үнээ жаахан буулгаж өгөөч.",
+   "en": "The cabinet door is broken, so please lower the price a little.",
+   "alt_mn": [
+    "Шүүгээний хаалга эвдэрсэн юм чинь үнээ жаахан буулгаж өгөөч."
+   ],
+   "alt_en": [
+    "The cabinet door is broken, so could you knock the price down a bit?"
+   ],
+   "mn_latin": "Shüügeenii khaalga evdersen bolokhoor ünee jaakhan buulgaj ögööch."
+  },
+  {
+   "mn": "Цэнэг нь бараг дуусчихсан байна. Цэнэглээд үзэж болох уу?",
+   "en": "The battery is almost dead. Can I charge it and try it?",
+   "alt_mn": [
+    "Цэнэг нь бараг дуусчихаж. Цэнэглээд үзэж болох уу?"
+   ],
+   "alt_en": [
+    "The battery is nearly dead. Can I charge it and test it?"
+   ],
+   "mn_latin": "Tseneg ni barag duuschikhsan baina. Tsenegleed üzej bolokh uu?"
+  },
+  {
+   "mn": "Бид энэ ширээг гурван жил хэрэглэсэн ч бараг шинэ харагддаг.",
+   "en": "We've used this table for three years, but it looks practically new.",
+   "alt_mn": [
+    "Энэ ширээг гурван жил хэрэглэсэн боловч бараг шинэ харагддаг."
+   ],
+   "alt_en": [
+    "We've had this table for three years, but it looks almost new."
+   ],
+   "mn_latin": "Bid ene shireeg gurvan jil khereglesen ch barag shine kharagddag."
+  },
+  {
+   "mn": "Хуучин утсанд баталгаа өгдөг үү?",
+   "en": "Do you give a warranty on used phones?",
+   "alt_mn": [
+    "Хуучин утсанд баталгаа байдаг уу?"
+   ],
+   "alt_en": [
+    "Do used phones come with a warranty?"
+   ],
+   "mn_latin": "Khuuchin utsand batalgaa ögdög üü?"
+  },
+  {
+   "mn": "Үнэ нь шинэ утасныхтай бараг адилхан байна шүү дээ.",
+   "en": "The price is almost the same as a new phone's.",
+   "alt_mn": [
+    "Үнэ нь шинэ утасныхаас бараг ялгаагүй байна шүү дээ."
+   ],
+   "alt_en": [
+    "The price is nearly the same as a new phone's."
+   ],
+   "mn_latin": "Üne ni shine utasnykhtai barag adilkhan baina shüü dee."
+  },
+  {
+   "mn": "Гэмтэл байвал одоо хэлээрэй, дараа нь буцааж авахгүй шүү.",
+   "en": "If you see any damage, say so now. We don't take returns later.",
+   "alt_mn": [
+    "Гэмтэл байвал одоо хэлээрэй, дараа нь буцаалт хийхгүй шүү."
+   ],
+   "alt_en": [
+    "If there's any damage, tell me now. We don't accept returns later."
+   ],
+   "mn_latin": "Gemtel baival odoo kheleerei, daraa ni butsaaj avakhgüi shüü."
+  },
+  {
+   "mn": "Энэ дугуйны тоормос ажиллагаатай юу?",
+   "en": "Do this bike's brakes work?",
+   "alt_mn": [
+    "Энэ дугуйны тоормос ажилладаг уу?"
+   ],
+   "alt_en": [
+    "Are the brakes on this bike working?"
+   ],
+   "mn_latin": "Ene duguiny toormos ajillagaatai yuu?"
+  },
+  {
+   "mn": "Би Нарантуулаас бараг үнэгүй сандал олж авлаа.",
+   "en": "I found a practically free chair at Naran Tuul.",
+   "alt_mn": [
+    "Нарантуулаас бараг үнэгүй сандал олж авлаа."
+   ],
+   "alt_en": [
+    "I got a chair at Naran Tuul for almost nothing."
+   ],
+   "mn_latin": "Bi Narantuulaas barag ünegüi sandal olj avlaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "бараг: 'almost' and 'hardly'",
+  "title_mn": "Almost, nearly, practically, hardly",
+  "explain_en": "Put бараг right before an adjective or verb to mean 'almost': бараг шинэ (almost new), бараг дуусчихсан (almost finished), бараг үнэгүй (practically free). With a negative verb ending in -аагүй/-ээгүй/-оогүй/-өөгүй, бараг means 'hardly' or 'barely': бараг хэрэглээгүй means 'hardly used', not 'almost used'. Watch the ending: бараг хэрэглэсэн (positive) and бараг хэрэглээгүй (negative) say very different things about a sofa. In speech you'll often hear бараг л for extra emphasis: бараг л шинэ (just about new).",
+  "explain_mn": "Almost болон nearly хоёулаа \"бараг\" гэсэн утгатай: almost new, nearly new. Practically нь ярианы хэлэнд их хэрэглэгддэг бөгөөд \"бараг л, үнэндээ\" гэсэн хүчтэй утгатай. Энэ үг ялангуяа new, free, empty, perfect, unused зэрэг үгтэй хамт хэрэглэгддэг: practically free, practically unused. Free, perfect, unused зэрэг \"туйлын\" (non-gradable) тэмдэг нэрийн өмнө very тавьдаггүй гэдгийг санаарай: \"very perfect\", \"very free\" гэж хэлэхгүй. \"Бараг хэрэглээгүй\" гэдгийг \"almost not used\" гэж орчуулдаггүй. Англиар hardly used эсвэл barely used гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "Энэ хөргөгч бараг шинэ.",
+    "en": "This fridge is almost new.",
+    "mn_latin": "Ene khörgögch barag shine."
+   },
+   {
+    "mn": "Би энэ дугуйг бараг унаагүй.",
+    "en": "I've hardly ridden this bike.",
+    "mn_latin": "Bi ene duguig barag unaagüi."
+   },
+   {
+    "mn": "Энэ ширээ бараг үнэгүй байсан.",
+    "en": "This table was practically free.",
+    "mn_latin": "Ene shiree barag ünegüi baisan."
+   },
+   {
+    "mn": "Цэнэг нь бараг дуусчихлаа.",
+    "en": "The battery is nearly dead.",
+    "mn_latin": "Tseneg ni barag duuschikhlaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ утас ___ шинэ, нэг сар л хэрэглэсэн.",
+   "answer": "бараг",
+   "options": [
+    "бараг",
+    "хуучин",
+    "огт",
+    "эвдэрсэн"
+   ],
+   "translation": "This phone is almost new. It was only used for a month.",
+   "explain_en": "The phone was used for only one month, so it is 'almost new': бараг шинэ. Хуучин шинэ ('old new') contradicts itself, огт ('at all') needs a negative, and эвдэрсэн шинэ ('broken new') makes no sense.",
+   "explain_mn": "Ганцхан сар хэрэглэсэн тул \"бараг шинэ\" гэж хэлнэ. \"Хуучин шинэ\", \"эвдэрсэн шинэ\" гэдэг нь зөрчилтэй, \"огт\" нь үгүйсгэлтэй хэрэглэгддэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Дэлгэц нь зураас___ ч сайн ажилладаг.",
+   "answer": "тай",
+   "options": [
+    "тай",
+    "тэй",
+    "той",
+    "гүй"
+   ],
+   "translation": "The screen is scratched, but it works well.",
+   "explain_en": "The suffix -тай/-тэй/-той means 'having'. Зураас has the back vowel а, so vowel harmony gives зураастай. -гүй would mean 'without scratches', which doesn't fit with ч ('but').",
+   "explain_mn": "Эгшиг зохицох ёсоор \"зураас\" гэдэг үгэнд \"-тай\" залгана. \"-гүй\" бол утгын хувьд \"ч\" холбоостой зөрчилдөнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид энэ буйданг бараг хэрэглэ___.",
+   "answer": "ээгүй",
+   "options": [
+    "ээгүй",
+    "сэн",
+    "дэг",
+    "х"
+   ],
+   "translation": "We've hardly used this sofa.",
+   "explain_en": "Бараг plus a negative past form means 'hardly'. Хэрэглэ- takes -ээгүй, giving хэрэглээгүй (hardly used). Хэрэглэсэн would give the opposite meaning, 'almost used'.",
+   "explain_mn": "\"Бараг + -ээгүй\" нь \"hardly/barely\" гэсэн утгатай. \"Хэрэглэсэн\" гэвэл огт өөр утга гарна."
+  },
+  {
+   "lang": "en",
+   "text": "The bike is ___ new. I've only ridden it twice.",
+   "answer": "practically",
+   "options": [
+    "practically",
+    "hardly",
+    "barely",
+    "much"
+   ],
+   "translation": "Дугуй бараг шинэ, би ердөө хоёр удаа унасан.",
+   "explain_en": "'Practically new' means almost new. 'Hardly new' and 'barely new' would mean it isn't new, which contradicts 'only ridden it twice'. 'Much new' isn't grammatical.",
+   "explain_mn": "\"Practically new\" нь \"бараг шинэ\" гэсэн утгатай. \"Hardly new\", \"barely new\" гэвэл \"шинэ биш\" гэсэн утга гарч, \"ердөө хоёр удаа унасан\" гэдэгтэй зөрчилдөнө. \"Much new\" гэж хэлдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "This sofa has ___ been used.",
+   "answer": "hardly",
+   "options": [
+    "hardly",
+    "almost",
+    "nearly",
+    "much"
+   ],
+   "translation": "Энэ буйданг бараг хэрэглээгүй.",
+   "explain_en": "'Hardly been used' means it was used very little. 'Almost been used' and 'nearly been used' don't make sense here.",
+   "explain_mn": "\"Бараг хэрэглээгүй\" гэдгийг англиар \"hardly (barely) been used\" гэнэ. \"Almost/nearly\" энд утгагүй болно."
+  },
+  {
+   "lang": "en",
+   "text": "The screen is a little ___, but the phone works fine.",
+   "answer": "scratched",
+   "options": [
+    "scratched",
+    "scratching",
+    "scratch",
+    "scratches"
+   ],
+   "translation": "Дэлгэц нь жаахан зураастай, гэхдээ утас сайн ажилладаг.",
+   "explain_en": "After 'is', describing a state, we use the past participle 'scratched'.",
+   "explain_mn": "Байдлыг илэрхийлэхдээ \"is\"-ийн дараа өнгөрсөн цагийн хэлбэр \"scratched\" (зураастай) хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу? Энэ утас хэд вэ?",
+   "en": "Hello! How much is this phone?",
+   "mn_latin": "Sain baina uu? Ene utas khed ve?"
+  },
+  {
+   "speaker": "Ganbold",
+   "mn": "Тавин мянга. Бараг шинэ шүү, хагас жил л хэрэглэсэн.",
+   "en": "Fifty thousand. It's almost new, only used for half a year.",
+   "mn_latin": "Tavin myanga. Barag shine shüü, khagas jil l khereglesen."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Харин дэлгэц нь зураастай байна шүү дээ.",
+   "en": "But the screen is scratched.",
+   "mn_latin": "Kharin delgets ni zuraastai baina shüü dee."
+  },
+  {
+   "speaker": "Ganbold",
+   "mn": "Тийм ээ, жаахан. Гэхдээ бүх юм нь ажиллагаатай, камер ч сайн.",
+   "en": "Yes, a little. But everything works, and the camera's good too.",
+   "mn_latin": "Tiim ee, jaakhan. Gekhdee bükh yum ni ajillagaatai, kamyer ch sain."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Цэнэг нь хэр барьдаг вэ?",
+   "en": "How long does the battery last?",
+   "mn_latin": "Tseneg ni kher baridag ve?"
+  },
+  {
+   "speaker": "Ganbold",
+   "mn": "Бүтэн өдөр барина. Цэнэглээд үзэж болно.",
+   "en": "A whole day. You can charge it and try it.",
+   "mn_latin": "Büten ödör barina. Tsenegleed üzej bolno."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Баталгаагүй юм чинь дөчин мянгад өгөөч.",
+   "en": "There's no warranty, so let me have it for forty thousand.",
+   "mn_latin": "Batalgaagüi yum chini döchin myangad ögööch."
+  },
+  {
+   "speaker": "Ganbold",
+   "mn": "За, дөчин тав. Сүүлчийн үнэ.",
+   "en": "Okay, forty-five. That's my final price.",
+   "mn_latin": "Za, döchin tav. Süülchiin üne."
+  }
+ ],
+ "culture_note": {
+  "en": "Naran Tuul has whole rows of secondhand goods, from phones and bikes to sofas and ger furniture, and buyers check items carefully because returns are rare. Many Ulaanbaatar residents also buy used goods through sites like unegui.mn and Facebook groups. People usually meet in person and test the item before paying.",
+  "mn": "Нарантуулд утас, дугуйнаас эхлээд буйдан, гэрийн тавилга хүртэл хуучин бараа зардаг тусгай эгнээнүүд бий. Буцаалт ховор тул худалдан авагчид барааг сайн шалгадаг. Улаанбаатарынхан мөн unegui.mn болон Facebook-ийн группүүдээр дамжуулан хуучин бараа авдаг бөгөөд ихэвчлэн биечлэн уулзаж, барааг туршиж үзээд мөнгөө төлдөг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid lesson with natural Mongolian and English. The only real problems were two fill-in-the-blank items that had more than one correct answer."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "The Mongolian is solid throughout. The main fix is a fill-in-the-blank with more than one correct answer, plus a wrong claim that 'new' can't take 'very'.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'very new' is natural English, so 'very' and 'extremely' were also correct answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "Match the new options; the claim that 'new' is absolute was false"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "Match the new options and the corrected explain_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'New' and 'empty' are gradable ('very new' is fine), so they can't be examples of adjectives that never take 'very'"
+   }
+  ]
+ }
+}

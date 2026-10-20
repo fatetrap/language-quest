@@ -1,0 +1,418 @@
+{
+ "intro_en": "Spend an evening with friends at a board game café in Ulaanbaatar. You'll learn words for dice, cards, turns, rules, points and winners, and how to say \"whenever...\" in Mongolian with -х бүрийд.",
+ "intro_mn": "Улаанбаатарын ширээний тоглоомын кафед найзуудтайгаа нэг орой өнгөрүүлцгээе. Шоо, хөзөр, ээлж, дүрэм, оноо, ялагч гэх мэт үгсийг сурна. Мөн англи хэлний \"whenever + өгүүлбэр\" бүтцийг эзэмшинэ.",
+ "vocab": [
+  {
+   "mn": "шоо",
+   "en": "die, dice",
+   "pos": "noun",
+   "example_mn": "Чиний ээлж, шоогоо хая.",
+   "example_en": "It's your turn, roll the dice.",
+   "mn_latin": "shoo"
+  },
+  {
+   "mn": "хөзөр",
+   "en": "playing card(s)",
+   "pos": "noun",
+   "example_mn": "Хөзрөө холиод тарааж өгөөч.",
+   "example_en": "Shuffle the cards and deal them, please.",
+   "mn_latin": "khözör"
+  },
+  {
+   "mn": "ээлж",
+   "en": "turn",
+   "pos": "noun",
+   "example_mn": "Одоо хэний ээлж вэ?",
+   "example_en": "Whose turn is it now?",
+   "mn_latin": "eelj"
+  },
+  {
+   "mn": "дүрэм",
+   "en": "rule",
+   "pos": "noun",
+   "example_mn": "Энэ тоглоомын дүрэм их ээдрээтэй юм.",
+   "example_en": "The rules of this game are really complicated.",
+   "mn_latin": "dürem"
+  },
+  {
+   "mn": "оноо",
+   "en": "point, score",
+   "pos": "noun",
+   "example_mn": "Би энэ ээлжинд арван оноо авлаа.",
+   "example_en": "I got ten points this turn.",
+   "mn_latin": "onoo"
+  },
+  {
+   "mn": "ялагч",
+   "en": "winner",
+   "pos": "noun",
+   "example_mn": "Ялагч дараагийн тоглоомыг сонгоно.",
+   "example_en": "The winner picks the next game.",
+   "mn_latin": "yalagch"
+  },
+  {
+   "mn": "тоглогч",
+   "en": "player",
+   "pos": "noun",
+   "example_mn": "Энэ тоглоомд дөрвөөс зургаан тоглогч оролцдог.",
+   "example_en": "This game is for four to six players.",
+   "mn_latin": "toglogch"
+  },
+  {
+   "mn": "хаях",
+   "en": "to throw, to roll (dice)",
+   "pos": "verb",
+   "example_mn": "Түүнийг шоо хаях бүрийд зургаа буудаг.",
+   "example_en": "Whenever he rolls the dice, he gets a six.",
+   "mn_latin": "khayakh"
+  },
+  {
+   "mn": "холих",
+   "en": "to shuffle, to mix",
+   "pos": "verb",
+   "example_mn": "Тоглоом эхлэхээс өмнө хөзрөө сайн холь.",
+   "example_en": "Shuffle the cards well before the game starts.",
+   "mn_latin": "kholikh"
+  },
+  {
+   "mn": "хуурах",
+   "en": "to cheat",
+   "pos": "verb",
+   "example_mn": "Хуурахгүй шүү, би харж байна!",
+   "example_en": "No cheating, I'm watching!",
+   "mn_latin": "khuurakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ээлж нь ирэх бүрийд Болд их удаан боддог.",
+   "en": "Whenever it's his turn, Bold thinks for a really long time.",
+   "alt_mn": [
+    "Ээлж нь ирэх бүрт Болд их удаан боддог."
+   ],
+   "alt_en": [
+    "Every time it's his turn, Bold thinks for a really long time."
+   ],
+   "mn_latin": "Eelj ni irekh büriid Bold ikh udaan boddog."
+  },
+  {
+   "mn": "Сараа шоо хаях бүрийд \"Зургаа!\" гэж хашгирдаг.",
+   "en": "Whenever Saraa rolls the dice, she shouts \"Six!\"",
+   "alt_mn": [
+    "Сараа шоо хаях бүртээ \"Зургаа!\" гэж хашгирдаг."
+   ],
+   "alt_en": [
+    "Every time Saraa rolls the dice, she shouts \"Six!\""
+   ],
+   "mn_latin": "Saraa shoo khayakh büriid \"Zurgaa!\" gej khashgirdag."
+  },
+  {
+   "mn": "Шинэ тоглоом тоглох бүрийд бид эхлээд дүрмийг нь уншдаг.",
+   "en": "Whenever we play a new game, we read the rules first.",
+   "alt_mn": [
+    "Шинэ тоглоом тоглох бүртээ бид эхлээд дүрмийг нь уншдаг."
+   ],
+   "alt_en": [
+    "Every time we play a new game, we read the rules first."
+   ],
+   "mn_latin": "Shine togloom toglokh büriid bid ekhleed dürmiig ni unshdag."
+  },
+  {
+   "mn": "Намуун хөзөр тараах бүрийд надад муу хөзөр ирдэг.",
+   "en": "Whenever Namuun deals the cards, I get bad ones.",
+   "alt_mn": [
+    "Намуун хөзөр тараах бүрт надад муу хөзөр ирдэг."
+   ],
+   "alt_en": [
+    "Every time Namuun deals, I get bad cards."
+   ],
+   "mn_latin": "Namuun khözör taraakh büriid nadad muu khözör irdeg."
+  },
+  {
+   "mn": "Дүрэм ойлгомжгүй байх бүрийд бид кафены ажилтнаас асуудаг.",
+   "en": "Whenever the rules are unclear, we ask the café staff.",
+   "alt_mn": [
+    "Дүрэм ойлгомжгүй байх бүрт бид кафены ажилтнаас асуудаг."
+   ],
+   "alt_en": [
+    "Every time the rules are unclear, we ask the café staff."
+   ],
+   "mn_latin": "Dürem oilgomjgüi baikh büriid bid kafyeny ajiltnaas asuudag."
+  },
+  {
+   "mn": "Улаан нүдэн дээр буух бүрийд та хоёр оноо алдана.",
+   "en": "Whenever you land on a red square, you lose two points.",
+   "alt_mn": [
+    "Улаан нүдэн дээр буух бүрт хоёр оноо хасагдана."
+   ],
+   "alt_en": [
+    "Every time you land on a red square, you lose two points."
+   ],
+   "mn_latin": "Ulaan nüden deer buukh büriid ta khoyor onoo aldana."
+  },
+  {
+   "mn": "Даваа хуурах бүрийд бид шууд мэдчихдэг.",
+   "en": "Whenever Davaa cheats, we notice right away.",
+   "alt_mn": [
+    "Даваа хуурах бүрт бид шууд мэдчихдэг."
+   ],
+   "alt_en": [
+    "Every time Davaa cheats, we notice right away."
+   ],
+   "mn_latin": "Davaa khuurakh büriid bid shuud medchikhdeg."
+  },
+  {
+   "mn": "Тэр хожих бүрийд ширээн дээрээ бүжиглэдэг.",
+   "en": "Whenever he wins, he dances at the table.",
+   "alt_mn": [
+    "Тэр хожих бүртээ ширээн дээрээ бүжиглэдэг."
+   ],
+   "alt_en": [
+    "Every time he wins, he dances at the table."
+   ],
+   "mn_latin": "Ter khojikh büriid shireen deeree büjigledeg."
+  },
+  {
+   "mn": "Чи хоёр оноогоор түрүүлж байна.",
+   "en": "You're ahead by two points.",
+   "alt_mn": [
+    "Чи хоёр оноогоор тэргүүлж байна."
+   ],
+   "alt_en": [
+    "You're leading by two points."
+   ],
+   "mn_latin": "Chi khoyor onoogoor türüülj baina."
+  },
+  {
+   "mn": "Тоглоом дуусахад хамгийн олон оноотой тоглогч ялагч болно.",
+   "en": "When the game ends, the player with the most points is the winner.",
+   "alt_mn": [
+    "Тоглоом дуусахад хамгийн их оноо авсан тоглогч ялна."
+   ],
+   "alt_en": [
+    "At the end of the game, the player with the most points wins."
+   ],
+   "mn_latin": "Togloom duusakhad khamgiin olon onootoi toglogch yalagch bolno."
+  },
+  {
+   "mn": "Энэ кафед зуу гаруй ширээний тоглоом байдаг.",
+   "en": "This café has more than a hundred board games.",
+   "alt_mn": [
+    "Энэ кафе зуу гаруй ширээний тоглоомтой."
+   ],
+   "alt_en": [
+    "There are over a hundred board games at this café."
+   ],
+   "mn_latin": "Ene kafyed zuu garui shireenii togloom baidag."
+  },
+  {
+   "mn": "Намайг хөзөр холих бүрийд нэг хөзөр шалан дээр унадаг.",
+   "en": "Whenever I shuffle the cards, one falls on the floor.",
+   "alt_mn": [
+    "Намайг хөзөр холих бүрт нэг хөзөр шалан дээр унадаг."
+   ],
+   "alt_en": [
+    "Every time I shuffle the cards, one falls on the floor."
+   ],
+   "mn_latin": "Namaig khözör kholikh büriid neg khözör shalan deer unadag."
+  }
+ ],
+ "grammar": {
+  "title_en": "\"Whenever / every time\": -х бүрийд",
+  "title_mn": "\"Whenever + өгүүлбэр\": давтагддаг үйл явдал",
+  "explain_en": "To say \"whenever X happens\" or \"every time X happens,\" take the verb in its -х form (ирэх, хаях, тоглох) and add бүрийд: ээлж ирэх бүрийд means \"whenever the turn comes.\" The short form бүрт means the same thing and is very common in speech. Add -ээ (бүртээ) when the subject of the whole sentence is also the subject of the clause: Сараа хаях бүртээ... The subject of the бүрийд-clause can stay plain (Сараа шоо хаях бүрийд) or go into the genitive or accusative (Түүний/Түүнийг шоо хаях бүрийд). The main verb is usually habitual -даг/-дэг/-дог (боддог, асуудаг), because the sentence describes something that keeps happening.",
+  "explain_mn": "Англи хэлэнд \"... бүрийд\" гэдгийг \"whenever\" эсвэл \"every time\" гэж хэлнэ. Ард нь бүтэн өгүүлбэр (эзэн + үйл үг) орно: Whenever it's my turn... Энэ нь давтагддаг үйл явдлыг илэрхийлдэг тул ихэвчлэн Present Simple цагийг хэрэглэнэ. Ирээдүйн тухай ярьж байсан ч \"whenever\"-ийн араас \"will\" хэрэглэдэггүй: Whenever you land on red, you lose two points. Whenever-ийн хэсгийг өгүүлбэрийн эхэнд тавибал ард нь таслал тавина. Төгсгөлд нь тавибал таслал хэрэггүй: I lose two points whenever I land on red.",
+  "examples": [
+   {
+    "mn": "Ээлж ирэх бүрийд би сандардаг.",
+    "en": "Whenever it's my turn, I get nervous.",
+    "mn_latin": "Eelj irekh büriid bi sandardag."
+   },
+   {
+    "mn": "Түүнийг шоо хаях бүрийд бүгд инээдэг.",
+    "en": "Whenever he rolls the dice, everyone laughs.",
+    "mn_latin": "Tüüniig shoo khayakh büriid bügd ineedeg."
+   },
+   {
+    "mn": "Бид уулзах бүртээ ширээний тоглоом тоглодог.",
+    "en": "Whenever we meet, we play board games.",
+    "mn_latin": "Bid uulzakh bürtee shireenii togloom toglodog."
+   },
+   {
+    "mn": "Шинэ тоглогч ирэх бүрт Тэмүүлэн дүрмийг тайлбарладаг.",
+    "en": "Whenever a new player comes, Temuulen explains the rules.",
+    "mn_latin": "Shine toglogch irekh bürt Temüülen dürmiig tailbarladag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ээлж нь ирэх ___ тэр шоогоо үнсдэг.",
+   "answer": "бүрийд",
+   "options": [
+    "бүрийд",
+    "бүрээр",
+    "бүтэн",
+    "бүрэн"
+   ],
+   "translation": "Whenever it's her turn, she kisses the dice.",
+   "explain_en": "\"Whenever X\" is the -х verb form plus бүрийд (or бүрт). Бүрээр, бүтэн and бүрэн look similar but don't mean \"every time.\"",
+   "explain_mn": "Англиар \"whenever\" гэдэг нь монголоор \"-х бүрийд\" бүтэцтэй тохирно. Бусад хувилбар нь \"удаа бүр\" гэсэн утга илэрхийлэхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Би шоо хая___ бүрийд нэг буудаг.",
+   "answer": "х",
+   "options": [
+    "х",
+    "сан",
+    "ж",
+    "аад"
+   ],
+   "translation": "Whenever I roll the dice, I get a one.",
+   "explain_en": "Бүрийд always follows the -х form of the verb: хаях бүрийд. Other endings such as -сан, -ж or -аад can't go before бүрийд.",
+   "explain_mn": "Англи хэлэнд whenever-ийн ард \"I roll\" гэж Present Simple цаг ордог. Монголоор бүрийд-ийн өмнө үйл үг заавал -х хэлбэртэй байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Тоглоомын ___ сайн уншаарай.",
+   "answer": "дүрмийг",
+   "options": [
+    "дүрмийг",
+    "оноог",
+    "шоог",
+    "ялагчийг"
+   ],
+   "translation": "Please read the rules of the game carefully.",
+   "explain_en": "You read the rules (дүрэм). In the accusative дүрэм drops its second vowel and becomes дүрмийг.",
+   "explain_mn": "\"Read the rules\" гэдэг нь утгын хувьд зөвхөн дүрэмтэй тохирно. Англиар \"rules\" гэж олон тоогоор хэлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "___ it's my turn, everyone checks their phones.",
+   "answer": "Whenever",
+   "options": [
+    "Whenever",
+    "Unless",
+    "Although",
+    "Until"
+   ],
+   "translation": "Миний ээлж ирэх бүрийд бүгд утсаа шалгадаг.",
+   "explain_en": "The sentence describes something that happens every time, so \"whenever\" fits. \"Unless,\" \"although\" and \"until\" change the meaning.",
+   "explain_mn": "\"-х бүрийд\" буюу удаа бүр давтагддаг үйлдлийг \"whenever\"-ээр илэрхийлнэ. Unless нь \"-хгүй бол\", although нь \"хэдийгээр\", until нь \"хүртэл\" гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Whenever she ___ a six, she gets another turn.",
+   "answer": "rolls",
+   "options": [
+    "rolls",
+    "will roll",
+    "rolling",
+    "roll"
+   ],
+   "translation": "Тэр зургаа буулгах бүрийд дахин нэг ээлж авдаг.",
+   "explain_en": "Use the present simple after \"whenever,\" never \"will.\" With \"she\" the verb takes -s: rolls.",
+   "explain_mn": "Whenever-ийн ард \"will\" хэрэглэхгүй, Present Simple ордог. Эзэн нь \"she\" учир үйл үгэнд -s нэмнэ: rolls."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ gets to choose the next game.",
+   "answer": "winner",
+   "options": [
+    "winner",
+    "win",
+    "winning",
+    "won"
+   ],
+   "translation": "Ялагч дараагийн тоглоомыг сонгоно.",
+   "explain_en": "We need a noun for a person: \"winner.\" The other options are forms of the verb \"win.\"",
+   "explain_mn": "Энд хүнийг заасан нэр үг хэрэгтэй: winner (ялагч). Бусад нь \"win\" (ялах) гэсэн үйл үгийн хэлбэрүүд."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "За, хөзрөө холиод тараачих, Намуун. Энэ удаа би хожно.",
+   "en": "Okay, shuffle and deal the cards, Namuun. This time I'm going to win.",
+   "mn_latin": "Za, khözröö kholiod taraachikh, Namuun. Ene udaa bi khojno."
+  },
+  {
+   "speaker": "Намуун",
+   "mn": "Чи тоглох бүртээ ингэж хэлдэг шүү дээ.",
+   "en": "You say that every time we play.",
+   "mn_latin": "Chi toglokh bürtee ingej kheldeg shüü dee."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Хүлээгээрэй, улаан нүдэн дээр буувал хэдэн оноо хасагддаг билээ?",
+   "en": "Wait, how many points do you lose if you land on a red square again?",
+   "mn_latin": "Khüleegeerei, ulaan nüden deer buuval kheden onoo khasagddag bilee?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Хоёр оноо. Ээлж ирэх бүрийд чи яг ийм асуулт асуудаг шүү, Болд.",
+   "en": "Two points. You ask exactly that question whenever it's your turn, Bold.",
+   "mn_latin": "Khoyor onoo. Eelj irekh büriid chi yag iim asuult asuudag shüü, Bold."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Энэ тоглоомын дүрэм хэтэрхий ээдрээтэй юм аа. Одоо хэний ээлж вэ?",
+   "en": "The rules of this game are way too complicated. Whose turn is it now?",
+   "mn_latin": "Ene togloomyn dürem kheterkhii eedreetei yum aa. Odoo khenii eelj ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Минийх! Зургаа! Би дахин нэг ээлж авна.",
+   "en": "Mine! Six! I get another turn.",
+   "mn_latin": "Miniikh! Zurgaa! Bi dakhin neg eelj avna."
+  },
+  {
+   "speaker": "Намуун",
+   "mn": "Чамайг шоо хаях бүрийд зургаа буух юм. Хуураад байгаа юм биш биз?",
+   "en": "Whenever you roll, it's a six. You're not cheating, are you?",
+   "mn_latin": "Chamaig shoo khayakh büriid zurgaa buukh yum. Khuuraad baigaa yum bish biz?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Ямар ч байсан ялагч нь хүн бүрт сүүтэй цай авч өгнө шүү!",
+   "en": "Either way, the winner buys everyone milk tea!",
+   "mn_latin": "Yamar ch baisan yalagch ni khün bürt süütei tsai avch ögnö shüü!"
+  }
+ ],
+ "culture_note": {
+  "en": "Board game cafés have become a popular hangout for students and young professionals in Ulaanbaatar, especially during the long, cold winters. Games are nothing new in Mongolia, though: families traditionally play cards and shagai (sheep anklebones) when relatives gather during Tsagaan Sar, often late into the night.",
+  "mn": "Сүүлийн жилүүдэд Улаанбаатарт ширээний тоглоомын кафе оюутан, залуу ажилчдын дуртай цуглардаг газар болжээ. Ялангуяа урт хүйтэн өвлийн улиралд хүмүүс олноор очдог. Гэхдээ тоглоом монголчуудад шинэ зүйл биш. Цагаан сараар ах дүүс цуглахад гэр бүлүүд хөзөр, шагай тоглож, ихэнхдээ шөнө орой болтол сууцгаадаг уламжлалтай."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 2,
+  "notes": "A high-quality lesson: natural Mongolian and English, correct -х бүрийд/бүрт usage, and unambiguous fill-in-the-blank items. Only one translation pair was missing a subject."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "A solid lesson. The fixes correct a non-existent converb form in one fill-in-the-blank distractor and its explanation, and align one dialogue line with the taught form бүртээ.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "The converb of хаях is хаяад; 'хаягаад' is not a real form, so the distractor must be -аад."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Matches the corrected option: the ending is -аад (хаяад), not -гаад."
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "бүртээ is the standard reflexive form taught in the grammar section; бүрийдээ is less standard."
+   }
+  ]
+ }
+}

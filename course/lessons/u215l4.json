@@ -1,0 +1,449 @@
+{
+ "intro_en": "Join two friends arguing about whether crypto is a smart investment or just hype. You'll learn key crypto terms in Mongolian, how to add Mongolian case endings to Latin-letter acronyms like NFT, P2P and ICO, and English nouns like setback, comeback, sell-off and downturn.",
+ "intro_mn": "Криптод хөрөнгө оруулах нь ухаалаг алхам уу, эсвэл зүгээр л шуугиан уу гэж маргалдаж буй хоёр найзын яриаг сонсоно. Криптотой холбоотой гол нэр томьёо, NFT, P2P, ICO зэрэг латин товчлолд монгол нөхцөл залгах арга, мөн setback, comeback, sell-off, downturn зэрэг англи нэр үгсийг сурна.",
+ "vocab": [
+  {
+   "mn": "криптовалют",
+   "en": "cryptocurrency",
+   "pos": "noun",
+   "example_mn": "Монголбанк криптовалютыг албан ёсны мөнгө гэж хүлээн зөвшөөрдөггүй.",
+   "example_en": "The Bank of Mongolia doesn't recognize cryptocurrency as official money.",
+   "mn_latin": "kriptovalyut"
+  },
+  {
+   "mn": "блокчэйн",
+   "en": "blockchain",
+   "pos": "noun",
+   "example_mn": "Блокчэйн дээрх гүйлгээг өөрчлөх боломжгүй.",
+   "example_en": "Transactions on a blockchain can't be changed.",
+   "mn_latin": "blokchein"
+  },
+  {
+   "mn": "хэтэвч",
+   "en": "wallet (crypto wallet)",
+   "pos": "noun",
+   "example_mn": "Би криптогоо биржид биш, өөрийн хэтэвчинд хадгалдаг.",
+   "example_en": "I keep my crypto in my own wallet, not on an exchange.",
+   "mn_latin": "khetevch"
+  },
+  {
+   "mn": "ханшийн хэлбэлзэл",
+   "en": "price volatility",
+   "pos": "noun phrase",
+   "example_mn": "Ханшийн хэлбэлзэл ихтэй үед сэтгэл хөдлөлөөр шийдвэр гаргаж болохгүй.",
+   "example_en": "When volatility is high, you shouldn't make emotional decisions.",
+   "mn_latin": "khanshiin khelbelzel"
+  },
+  {
+   "mn": "хөөс",
+   "en": "bubble (market bubble)",
+   "pos": "noun",
+   "example_mn": "Олон шинжээч үүнийг дараагийн хөөс гэж анхааруулж байна.",
+   "example_en": "Many experts warn that this is the next bubble.",
+   "mn_latin": "khöös"
+  },
+  {
+   "mn": "уналт",
+   "en": "crash; downturn",
+   "pos": "noun",
+   "example_mn": "Өнгөрсөн жилийн уналтаар би их мөнгө алдсан.",
+   "example_en": "I lost a lot of money in last year's crash.",
+   "mn_latin": "unalt"
+  },
+  {
+   "mn": "сэргэлт",
+   "en": "recovery; comeback",
+   "pos": "noun",
+   "example_mn": "Зах зээлийн сэргэлт хүлээснээс хурдан ирлээ.",
+   "example_en": "The market's comeback came faster than expected.",
+   "mn_latin": "sergelt"
+  },
+  {
+   "mn": "шуугиан",
+   "en": "hype",
+   "pos": "noun",
+   "example_mn": "Энэ коины үнэ зөвхөн шуугиан дээр л өссөн.",
+   "example_en": "This coin's price rose on hype alone.",
+   "mn_latin": "shuugian"
+  },
+  {
+   "mn": "бөөнөөр зарах",
+   "en": "to sell off (in large amounts)",
+   "pos": "verb phrase",
+   "example_mn": "Мэдээ гармагц хүмүүс коиноо бөөнөөр зарж эхэлсэн.",
+   "example_en": "As soon as the news broke, people started selling off their coins.",
+   "mn_latin": "böönöör zarakh"
+  },
+  {
+   "mn": "эрсдэл",
+   "en": "risk",
+   "pos": "noun",
+   "example_mn": "Алдахад бэлэн биш мөнгөө эрсдэлд бүү оруул.",
+   "example_en": "Don't take risks with money you can't afford to lose.",
+   "mn_latin": "ersdel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Биткойны ханш ганцхан өдрийн дотор хорин хувиар унасан.",
+   "en": "Bitcoin's price dropped by twenty percent in a single day.",
+   "alt_mn": [
+    "Биткойны үнэ нэг өдрийн дотор хорин хувиар унасан."
+   ],
+   "alt_en": [
+    "The price of Bitcoin fell twenty percent in one day."
+   ],
+   "mn_latin": "Bitkoiny khansh gantskhan ödriin dotor khorin khuviar unasan."
+  },
+  {
+   "mn": "Энэ жинхэнэ өсөлт үү, эсвэл зүгээр л хөөс үү?",
+   "en": "Is this a real boom, or just a bubble?",
+   "alt_mn": [
+    "Энэ үнэхээр өсөлт үү, эсвэл хөөс үү?"
+   ],
+   "alt_en": [
+    "Is this a genuine boom or only a bubble?"
+   ],
+   "mn_latin": "Ene jinkhene ösölt üü, esvel zügeer l khöös üü?"
+  },
+  {
+   "mn": "Хүмүүс бөөнөөр зарсны дараа олон жижиг хөрөнгө оруулагч сандарчээ.",
+   "en": "After the sell-off, many small investors panicked.",
+   "alt_mn": [
+    "Хүмүүс бөөнөөр зарсны дараа олон жижиг хөрөнгө оруулагч сандарсан."
+   ],
+   "alt_en": [
+    "Many small investors panicked after the sell-off."
+   ],
+   "mn_latin": "Khümüüs böönöör zarsny daraa olon jijig khöröngö oruulagch sandarchee."
+  },
+  {
+   "mn": "Хэтэвчийнхээ нууц түлхүүрийг хэнтэй ч бүү хуваалц.",
+   "en": "Never share your wallet's private key with anyone.",
+   "alt_mn": [
+    "Хэтэвчийнхээ нууц түлхүүрийг хэзээ ч хэнд ч бүү өг."
+   ],
+   "alt_en": [
+    "Don't ever share the private key to your wallet with anyone."
+   ],
+   "mn_latin": "Khetevchiinkhee nuuts tülkhüüriig khentei ch büü khuvaalts."
+  },
+  {
+   "mn": "NFT-ийн зах зээл 2022 оноос хойш нэлээд намжсан.",
+   "en": "The NFT market has cooled down a lot since 2022.",
+   "alt_mn": [
+    "2022 оноос хойш NFT-ийн зах зээл нэлээд намжсан."
+   ],
+   "alt_en": [
+    "Since 2022, the NFT market has cooled off quite a bit."
+   ],
+   "mn_latin": "NFT-iin zakh zeel 2022 onoos khoish neleed namjsan."
+  },
+  {
+   "mn": "Тэр P2P платформ дээр танихгүй хүнээс USDT худалдаж авсан.",
+   "en": "He bought USDT from a stranger on a P2P platform.",
+   "alt_mn": [
+    "Тэр танихгүй хүнээс P2P платформоор USDT авсан."
+   ],
+   "alt_en": [
+    "She bought USDT from a stranger on a P2P platform."
+   ],
+   "mn_latin": "Ter P2P platform deer tanikhgüi khünees USDT khudaldaj avsan."
+  },
+  {
+   "mn": "Олон хүн ICO-д хөрөнгө оруулаад хадгаламжаа алдсан.",
+   "en": "Many people lost their savings by investing in an ICO.",
+   "alt_mn": [
+    "ICO-д мөнгө оруулсан олон хүн хадгаламжаа алдсан."
+   ],
+   "alt_en": [
+    "A lot of people invested in an ICO and lost their savings."
+   ],
+   "mn_latin": "Olon khün ICO-d khöröngö oruulaad khadgalamjaa aldsan."
+  },
+  {
+   "mn": "Сошиал медиа дахь шуугиан ханшийг өсгөсөн.",
+   "en": "The hype on social media pushed the price up.",
+   "alt_mn": [
+    "Сошиал медиагийн шуугиан үнийг өсгөсөн."
+   ],
+   "alt_en": [
+    "Social media hype drove the price up."
+   ],
+   "mn_latin": "Soshial myedia dakhi shuugian khanshiig ösgösön."
+  },
+  {
+   "mn": "Ханшийн хэлбэлзэл бол криптовалютын хамгийн том эрсдэл.",
+   "en": "Price volatility is the biggest risk of crypto.",
+   "alt_mn": [
+    "Криптовалютын хамгийн том эрсдэл бол ханшийн хэлбэлзэл."
+   ],
+   "alt_en": [
+    "The biggest risk with crypto is price volatility."
+   ],
+   "mn_latin": "Khanshiin khelbelzel bol kriptovalyutyn khamgiin tom ersdel."
+  },
+  {
+   "mn": "Удаан үргэлжилсэн уналтын дараа зах зээл эргэн сэргэсэн.",
+   "en": "The market made a comeback after a long downturn.",
+   "alt_mn": [
+    "Зах зээл удаан уналтын дараа дахин сэргэсэн."
+   ],
+   "alt_en": [
+    "After a long downturn, the market came back."
+   ],
+   "mn_latin": "Udaan ürgeljilsen unaltyn daraa zakh zeel ergen sergesen."
+  },
+  {
+   "mn": "Нэг удаа мөнгө алдсан нь түр зуурын бүтэлгүйтэл болохоос дэлхийн сүйрэл биш шүү дээ.",
+   "en": "Losing money once is a setback, not the end of the world.",
+   "alt_mn": [
+    "Нэг удаа алдсан нь зүгээр л бүтэлгүйтэл, дэлхийн төгсгөл биш."
+   ],
+   "alt_en": [
+    "Losing money one time is just a setback, not the end of the world."
+   ],
+   "mn_latin": "Neg udaa möngö aldsan ni tür zuuryn bütelgüitel bolokhoos delkhiin süirel bish shüü dee."
+  },
+  {
+   "mn": "Блокчэйн технологийг зөвхөн криптод бус, өөр олон салбарт ашигладаг.",
+   "en": "Blockchain technology is used for much more than just crypto.",
+   "alt_mn": [
+    "Блокчэйн технологи зөвхөн криптод биш, олон салбарт хэрэглэгддэг."
+   ],
+   "alt_en": [
+    "Blockchain technology isn't only used for crypto."
+   ],
+   "mn_latin": "Blokchein tyekhnologiig zövkhön kriptod bus, öör olon salbart ashigladag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Mongolian endings on Latin-letter acronyms (NFT-ийн, ICO-д) and English nouns from phrasal verbs (setback, comeback, sell-off, downturn)",
+  "title_mn": "Латин товчлолд монгол нөхцөл залгах (NFT-ийн, ICO-д) ба хэлц үйл үгээс гарсан англи нэр үг (setback, comeback, sell-off, downturn)",
+  "explain_en": "Mongolians often write international acronyms like NFT, P2P, ICO or USDT in Latin letters, right inside Cyrillic text. To add a case ending, use a hyphen and choose the ending based on how the acronym is said aloud. NFT is read 'эн-эф-ти', so it takes the genitive -ийн: NFT-ийн зах зээл (the NFT market). ICO ends in a vowel sound, so the dative is just -д: ICO-д оруулах (to invest in an ICO). The comitative -тэй follows front-vowel harmony: NFT-тэй холбоотой (related to NFTs). Words without endings, like 'P2P платформ', need no hyphen at all. In English, many market nouns come from phrasal verbs: set back → a setback, come back → a comeback, sell off → a sell-off, turn down → a downturn. As verbs they are two words, and the stress falls on the second word (to come BACK). As nouns they are written as one word or with a hyphen, and the stress moves to the first syllable (a COMEback). Notice that the word order is reversed in 'downturn'.",
+  "explain_mn": "Монголчууд NFT, P2P, ICO, USDT зэрэг олон улсын товчлолыг кирилл бичвэр дотор латин үсгээр бичих нь элбэг. Нөхцөл залгахдаа зураас тавьж, товчлолыг чангаар хэрхэн уншдагаас хамаарч нөхцлөө сонгоно. NFT-г 'эн-эф-ти' гэж уншдаг тул харьяалахын -ийн нөхцөл авна: NFT-ийн зах зээл. ICO эгшиг авиагаар төгсдөг тул өгөх оршихын нөхцөл нь зүгээр л -д: ICO-д оруулах. Хамтрахын -тэй нөхцөл ч мөн эр, эм эгшгийн зохицлыг дагана: NFT-тэй холбоотой. 'P2P платформ' гэх мэт нөхцөлгүй үгэнд зураас хэрэггүй. Англи хэлэнд хэлц үйл үгээс (phrasal verb) нэр үг үүсгэх нь түгээмэл бөгөөд зах зээлийн үйл явдлыг тайлбарлахад их хэрэглэгддэг: set back → a setback (ухралт, бүтэлгүйтэл), come back → a comeback (эргэн сэргэлт), sell off → a sell-off (бөөнөөр зарах), turn down → a downturn (уналт). Үйл үг хэлбэрээр хоёр үг байх ба өргөлт нь сүүлийн үг дээр унадаг: to come BACK. Харин нэр үг болохоор нэг үг юм уу зураасаар холбогдсон хэлбэртэй болж, өргөлт нь эхний үе рүү шилждэг: a COMEback. 'Downturn' дээр үгсийн байр солигдсоныг анзаараарай.",
+  "examples": [
+   {
+    "mn": "NFT-ийн үнэ огцом буурсан.",
+    "en": "NFT prices dropped sharply.",
+    "mn_latin": "NFT-iin üne ogtsom buursan."
+   },
+   {
+    "mn": "Тэр ICO-д бүх хадгаламжаа оруулсан.",
+    "en": "He put all his savings into an ICO.",
+    "mn_latin": "Ter ICO-d bükh khadgalamjaa oruulsan."
+   },
+   {
+    "mn": "Энэ хуулийн төсөл NFT-тэй холбоотой.",
+    "en": "This bill is related to NFTs.",
+    "mn_latin": "Ene khuuliin tösöl NFT-tei kholbootoi."
+   },
+   {
+    "mn": "Уналтын дараа биткойн гайхалтай сэргэлт үзүүлсэн.",
+    "en": "After the downturn, Bitcoin made an impressive comeback.",
+    "mn_latin": "Unaltyn daraa bitkoin gaikhaltai sergelt üzüülsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "NFT-___ зах зээл одоо их намжсан.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "ын",
+    "ээр",
+    "д"
+   ],
+   "translation": "The NFT market has really cooled down now.",
+   "explain_en": "NFT is read 'эн-эф-ти', which ends in an и sound, so the genitive ending is -ийн. The -ын ending is for back-vowel words, and -ээр and -д are different cases.",
+   "explain_mn": "NFT-г 'эн-эф-ти' гэж уншдаг тул и авиагаар төгссөн үгийн адил харьяалахын тийн ялгалын -ийн нөхцөл залгана."
+  },
+  {
+   "mn": "",
+   "lang": "mn",
+   "text": "Тэр ахынхаа үгээр ICO-___ хөрөнгө оруулсан.",
+   "answer": "д",
+   "options": [
+    "д",
+    "гийн",
+    "той",
+    "оос"
+   ],
+   "translation": "He invested in an ICO because his older brother told him to.",
+   "explain_en": "'Хөрөнгө оруулах' (to invest) takes the dative case for where the money goes. ICO ends in a vowel sound, so the dative is simply -д.",
+   "explain_mn": "'Хөрөнгө оруулах' үйл үг өгөх оршихын тийн ялгал шаарддаг. ICO эгшиг авиагаар төгсдөг тул -д нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Олон шинжээч энэ өсөлтийг дахиад нэг ___ гэж үзэж байна.",
+   "answer": "хөөс",
+   "options": [
+    "хөөс",
+    "хэтэвч",
+    "блокчэйн",
+    "гүйлгээ"
+   ],
+   "translation": "Many experts see this rise as just another bubble.",
+   "explain_en": "'Хөөс' (bubble) is a price rise that isn't backed by real value. A wallet, a blockchain or a transaction wouldn't make sense here.",
+   "explain_mn": "Бодит үнэ цэнэгүй, хиймэл өсөлтийг 'хөөс' гэдэг. Бусад сонголт өгүүлбэрийн утгад тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "After last year's ___, prices have finally started to recover.",
+   "answer": "downturn",
+   "options": [
+    "downturn",
+    "comeback",
+    "turnover",
+    "takeover"
+   ],
+   "translation": "Өнгөрсөн жилийн уналтын дараа үнэ эцэст нь сэргэж эхэллээ.",
+   "explain_en": "Something has to go down before it can recover, so 'downturn' fits. 'Comeback' already means recovering.",
+   "explain_mn": "Сэргэхийн өмнө уналт болсон байх ёстой тул 'downturn' (уналт) зөв. 'Comeback' өөрөө сэргэлт гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Few people expected Bitcoin to make such a strong ___ in 2023.",
+   "answer": "comeback",
+   "options": [
+    "comeback",
+    "setback",
+    "sell-off",
+    "breakdown"
+   ],
+   "translation": "2023 онд биткойн ийм хүчтэй сэргэнэ гэж цөөхөн хүн хүлээж байсан.",
+   "explain_en": "We say 'make a comeback'. 'Strong' describes a positive return, so 'setback' and 'sell-off' don't fit.",
+   "explain_mn": "'Make a comeback' (эргэн сэргэх) нь тогтвортой хэллэг. 'Strong' гэдэг нь эерэг утгатай тул 'setback', 'sell-off' тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The rumor about new regulations triggered a massive ___.",
+   "answer": "sell-off",
+   "options": [
+    "sell-off",
+    "sellout",
+    "comeback",
+    "setup"
+   ],
+   "translation": "Шинэ зохицуулалтын тухай цуурхал хүмүүсийг бөөнөөр зарахад хүргэсэн.",
+   "explain_en": "A 'sell-off' is when many investors sell at once. A 'sellout' means an event with no tickets left, or someone who betrays their values.",
+   "explain_mn": "'Sell-off' гэдэг нь олон хөрөнгө оруулагч зэрэг зарахыг хэлнэ. 'Sellout' бол тасалбар нь дууссан арга хэмжээ, эсвэл зарчмаасаа урвасан хүнийг хэлдэг өөр үг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Temuulen",
+   "mn": "Сарнай, чи сонссон уу? Биткойн дахиад дээд амжилтаа шинэчилсэн. Би ч бас жаахан худалдаж авах гэж байна.",
+   "en": "Sarnai, did you hear? Bitcoin hit a new all-time high again. I'm thinking of buying a little too.",
+   "mn_latin": "Sarnai, chi sonsson uu? Bitkoin dakhiad deed amjiltaa shinechilsen. Bi ch bas jaakhan khudaldaj avakh gej baina."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Шуугиан ид дээрээ байхад худалдаж авах нь хамгийн эрсдэлтэй үе шүү. 2022 оны уналтыг санаж байна уу?",
+   "en": "Buying at the peak of the hype is the riskiest time, you know. Do you remember the 2022 crash?",
+   "mn_latin": "Shuugian id deeree baikhad khudaldaj avakh ni khamgiin ersdeltei üye shüü. 2022 ony unaltyg sanaj baina uu?"
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Санаж байна. Гэхдээ тэр түр зуурын бүтэлгүйтэл байсан. Зах зээл дараа нь гайхалтай сэргэсэн.",
+   "en": "I do. But that was just a temporary setback. The market made an amazing comeback afterward.",
+   "mn_latin": "Sanaj baina. Gekhdee ter tür zuuryn bütelgüitel baisan. Zakh zeel daraa ni gaikhaltai sergesen."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Миний нэг найз NFT-ийн шуугиан дээр бүх мөнгөө оруулаад нэг ч төгрөг буцааж аваагүй.",
+   "en": "A friend of mine put all her money into the NFT hype and never got a single tugrik back.",
+   "mn_latin": "Minii neg naiz NFT-iin shuugian deer bükh möngöö oruulaad neg ch tögrög butsaaj avaagüi."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "NFT өөр асуудал. Би зөвхөн биткойн авна, бас P2P-гээр биш, найдвартай биржээс авна.",
+   "en": "NFTs are a different story. I'm only buying Bitcoin, and from a reliable exchange, not peer-to-peer.",
+   "mn_latin": "NFT öör asuudal. Bi zövkhön bitkoin avna, bas P2P-geer bish, naidvartai birjees avna."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Ханшийн хэлбэлзлийг тэвчиж чадах уу? Нэг шөнийн дотор гучин хувиар унаж магадгүй шүү дээ.",
+   "en": "Can you handle the volatility? It could drop thirty percent overnight.",
+   "mn_latin": "Khanshiin khelbelzliig tevchij chadakh uu? Neg shöniin dotor guchin khuviar unaj magadgüi shüü dee."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Тийм учраас алдахад бэлэн байгаа мөнгөнийхөө жаахан хэсгийг л оруулна. Хэтэвчийнхээ түлхүүрийг ч сайн хадгална.",
+   "en": "That's why I'll only put in a small amount I'm ready to lose. And I'll keep my wallet key safe.",
+   "mn_latin": "Tiim uchraas aldakhad belen baigaa möngöniikhöö jaakhan khesgiig l oruulna. Khetevchiinkhee tülkhüüriig ch sain khadgalna."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "За, ухаантай сонсогдож байна. Гэхдээ хүмүүс дахиад бөөнөөр зарж эхлэхэд над руу уйлж залгаж болохгүй шүү!",
+   "en": "Okay, that sounds sensible. But don't call me crying during the next sell-off!",
+   "mn_latin": "Za, ukhaantai sonsogdoj baina. Gekhdee khümüüs dakhiad böönöör zarj ekhlekhed nad ruu uilj zalgaj bolokhgüi shüü!"
+  }
+ ],
+ "culture_note": {
+  "en": "Crypto became hugely popular in Mongolia around 2021, when Ard Financial Group launched its own token, ARDX, and many ordinary people bought crypto for the first time. The Bank of Mongolia has repeatedly warned that cryptocurrencies are not legal tender and that investors carry the risk themselves. Crypto is still a hot topic among young people in Ulaanbaatar, and so are the scams that use the same hype.",
+  "mn": "2021 оны орчим Ард Санхүүгийн Нэгдэл ARDX токеноо гаргаж, олон энгийн иргэн анх удаа крипто худалдаж авснаар Монголд криптовалют ихээхэн дэлгэрсэн. Монголбанк криптовалют нь хууль ёсны төлбөрийн хэрэгсэл биш бөгөөд эрсдэлийг хөрөнгө оруулагч өөрөө хариуцна гэдгийг удаа дараа анхааруулж ирсэн. Улаанбаатарын залуучуудын дунд крипто одоо ч халуун сэдэв хэвээр байгаа бөгөөд тэр шуугианыг ашигласан луйвар ч цөөнгүй."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 6,
+  "notes": "A solid lesson. The fixes cover a few unnatural or wrong Mongolian word choices (зарлага, эрсдэл гаргах), one redundant sentence, and non-standard grammar terminology."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 8,
+  "notes": "Main problem was the mismatched grammar sections; also fixed option forms, an ambiguous blank and one unnatural phrase.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "mn title covered a different topic than the en title"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "align en and mn titles; both topics are in the intro"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations described different topics; now both cover both"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "match the en explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "distractors had wrong harmony/forms for ICO"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'сэргэлт' could also plausibly fit"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "match new options"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "'өдөрт' unnatural here"
+   }
+  ]
+ }
+}

@@ -1,0 +1,399 @@
+{
+ "intro_en": "Learn how to send invoices, talk about deposits, taxes, and bank accounts, and write polite reminders about late payments. You'll also learn the difference between -хаар тохиролцсон and -хаар болсон for agreed terms.",
+ "intro_mn": "Нэхэмжлэх илгээх, урьдчилгаа, татвар, дансны талаар ярих, хоцорсон төлбөрийг эелдгээр сануулж сурна. Мөн англи хэлний stative үйл үг үргэлжлэх хэлбэрт орохдоо хэрхэн утгаа өөрчилдгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "нэхэмжлэх",
+   "en": "invoice",
+   "pos": "noun",
+   "example_mn": "Би өнөөдөр нэхэмжлэхээ илгээнэ.",
+   "example_en": "I'll send my invoice today.",
+   "mn_latin": "nekhemjlekh"
+  },
+  {
+   "mn": "урьдчилгаа",
+   "en": "deposit, advance payment",
+   "pos": "noun",
+   "example_mn": "Урьдчилгаа нь нийт үнийн гучин хувь.",
+   "example_en": "The deposit is thirty percent of the total price.",
+   "mn_latin": "uridchilgaa"
+  },
+  {
+   "mn": "татвар",
+   "en": "tax",
+   "pos": "noun",
+   "example_mn": "Фрилансер хүн татвараа өөрөө төлдөг.",
+   "example_en": "A freelancer pays their own taxes.",
+   "mn_latin": "tatvar"
+  },
+  {
+   "mn": "НӨАТ",
+   "en": "VAT (value-added tax)",
+   "pos": "noun",
+   "example_mn": "Энэ үнэд НӨАТ ороогүй.",
+   "example_en": "This price doesn't include VAT.",
+   "mn_latin": "NÖAT"
+  },
+  {
+   "mn": "данс",
+   "en": "bank account",
+   "pos": "noun",
+   "example_mn": "Мөнгөө миний данс руу шилжүүлнэ үү.",
+   "example_en": "Please transfer the money to my account.",
+   "mn_latin": "dans"
+  },
+  {
+   "mn": "шилжүүлэх",
+   "en": "to transfer",
+   "pos": "verb",
+   "example_mn": "Тэр өчигдөр мөнгө шилжүүлсэн.",
+   "example_en": "He transferred the money yesterday.",
+   "mn_latin": "shiljüülekh"
+  },
+  {
+   "mn": "хугацаа хэтрэх",
+   "en": "to be overdue",
+   "pos": "verb phrase",
+   "example_mn": "Төлбөрийн хугацаа хэтэрсэн байна.",
+   "example_en": "The payment is overdue.",
+   "mn_latin": "khugatsaa khetrekh"
+  },
+  {
+   "mn": "сануулах",
+   "en": "to remind",
+   "pos": "verb",
+   "example_mn": "Би үйлчлүүлэгчдээ эелдгээр сануулсан.",
+   "example_en": "I politely reminded my client.",
+   "mn_latin": "sanuulakh"
+  },
+  {
+   "mn": "тохиролцох",
+   "en": "to agree (on terms)",
+   "pos": "verb",
+   "example_mn": "Бид үнээ тохиролцсон.",
+   "example_en": "We agreed on the price.",
+   "mn_latin": "tokhiroltsokh"
+  },
+  {
+   "mn": "гэрээ",
+   "en": "contract",
+   "pos": "noun",
+   "example_mn": "Гэрээнд төлбөрийн хугацаа бичигдсэн.",
+   "example_en": "The payment deadline is written in the contract.",
+   "mn_latin": "geree"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид төлбөрийг ажил дууссанаас хойш долоо хоногийн дотор хийхээр тохиролцсон.",
+   "en": "We agreed that payment would be made within a week after the work was finished.",
+   "alt_mn": [
+    "Бид ажил дууссанаас хойш долоо хоногийн дотор төлбөрөө хийхээр тохиролцсон."
+   ],
+   "alt_en": [
+    "We agreed on payment within a week of the work being finished."
+   ],
+   "mn_latin": "Bid tölböriig ajil duussanaas khoish doloo khonogiin dotor khiikheer tokhiroltsson."
+  },
+  {
+   "mn": "Үйлчлүүлэгч урьдчилгааг даваа гарагт шилжүүлэхээр болсон.",
+   "en": "It's been arranged that the client will transfer the deposit on Monday.",
+   "alt_mn": [],
+   "alt_en": [
+    "The client is going to transfer the deposit on Monday."
+   ],
+   "mn_latin": "Üilchlüülegch uridchilgaag davaa garagt shiljüülekheer bolson."
+  },
+  {
+   "mn": "Нэхэмжлэхийн хугацаа хэтэрсэн тул би эелдэг сануулга бичлээ.",
+   "en": "The invoice was overdue, so I wrote a polite reminder.",
+   "alt_mn": [
+    "Нэхэмжлэхийн хугацаа хэтэрсэн болохоор би эелдэг сануулга бичлээ."
+   ],
+   "alt_en": [
+    "Since the invoice was overdue, I wrote a polite reminder."
+   ],
+   "mn_latin": "Nekhemjlekhiin khugatsaa khetersen tul bi eyeldeg sanuulga bichlee."
+  },
+  {
+   "mn": "Энэ үнэд НӨАТ орсон уу?",
+   "en": "Does this price include VAT?",
+   "alt_mn": [
+    "Энэ үнэ НӨАТ-тай юу?"
+   ],
+   "alt_en": [
+    "Is VAT included in this price?"
+   ],
+   "mn_latin": "Ene üned NÖAT orson uu?"
+  },
+  {
+   "mn": "Бид одоо шинэ төслийн зардлыг тооцоолж байна.",
+   "en": "We're costing the new project right now.",
+   "alt_mn": [
+    "Бид яг одоо шинэ төслийн зардлыг тооцож байна."
+   ],
+   "alt_en": [
+    "We're working out the costs of the new project right now."
+   ],
+   "mn_latin": "Bid odoo shine tösliin zardlyg tootsoolj baina."
+  },
+  {
+   "mn": "Би маргааш өглөө үйлчлүүлэгчтэй уулзана.",
+   "en": "I'm seeing a client tomorrow morning.",
+   "alt_mn": [
+    "Би маргааш өглөө үйлчлүүлэгчтэй уулзах гэж байна."
+   ],
+   "alt_en": [
+    "I'm meeting a client tomorrow morning."
+   ],
+   "mn_latin": "Bi margaash öglöö üilchlüülegchtei uulzana."
+  },
+  {
+   "mn": "Таны юу хэлэх гээд байгааг ойлгож байна, гэхдээ гэрээнд өөрөөр бичсэн байна.",
+   "en": "I see what you mean, but the contract says otherwise.",
+   "alt_mn": [],
+   "alt_en": [
+    "I understand what you mean, but the contract says something different."
+   ],
+   "mn_latin": "Tany yuu khelekh geed baigaag oilgoj baina, gekhdee gereend ööröör bichsen baina."
+  },
+  {
+   "mn": "Мөнгийг аль данс руу шилжүүлэх вэ?",
+   "en": "Which account should I transfer the money to?",
+   "alt_mn": [
+    "Мөнгийг ямар данс руу шилжүүлэх вэ?"
+   ],
+   "alt_en": [
+    "Which account should the money go to?"
+   ],
+   "mn_latin": "Möngiig ali dans ruu shiljüülekh ve?"
+  },
+  {
+   "mn": "Компанид санхүүгийн асуудал гарсан тул төлбөрийг хоёр хувааж төлөхөөр болсон.",
+   "en": "Because the company had financial problems, it was decided that the payment would be made in two installments.",
+   "alt_mn": [],
+   "alt_en": [
+    "The company had financial problems, so the payment ended up being split into two installments."
+   ],
+   "mn_latin": "Kompanid sankhüügiin asuudal garsan tul tölböriig khoyor khuvaaj tölökhöör bolson."
+  },
+  {
+   "mn": "Татвараа өөрөө төлөх ёстойг бүү мартаарай.",
+   "en": "Don't forget that you have to pay your taxes yourself.",
+   "alt_mn": [
+    "Татвараа өөрөө төлөх ёстой гэдгээ бүү мартаарай."
+   ],
+   "alt_en": [],
+   "mn_latin": "Tatvaraa ööröö tölökh yostoig büü martaarai."
+  },
+  {
+   "mn": "Урьдчилгаа орохоос өмнө би ажлаа эхлүүлэхгүй.",
+   "en": "I won't start working before the deposit comes in.",
+   "alt_mn": [
+    "Урьдчилгаа орохоос нааш би ажлаа эхлэхгүй."
+   ],
+   "alt_en": [
+    "I won't start the work until the deposit arrives."
+   ],
+   "mn_latin": "Uridchilgaa orokhoos ömnö bi ajlaa ekhlüülekhgüi."
+  },
+  {
+   "mn": "Энэ орчуулгын үнэ гурван зуун мянган төгрөг.",
+   "en": "This translation costs three hundred thousand tugriks.",
+   "alt_mn": [
+    "Энэ орчуулга гурван зуун мянган төгрөгийн үнэтэй."
+   ],
+   "alt_en": [
+    "The price of this translation is three hundred thousand tugriks."
+   ],
+   "mn_latin": "Ene orchuulgyn üne gurvan zuun myangan tögrög."
+  }
+ ],
+ "grammar": {
+  "title_en": "-хаар тохиролцсон vs -хаар болсон; stative verbs that change meaning",
+  "title_mn": "-хаар тохиролцсон ба -хаар болсон; утгаа өөрчилдөг stative үйл үг",
+  "explain_en": "Both patterns attach -хаар/-хоор/-хээр/-хөөр (by vowel harmony) to a verb: төлөх → төлөхөөр, шилжүүлэх → шилжүүлэхээр, орох → орохоор. With тохиролцсон, people actively negotiated and agreed: 'Бид төлбөрийг хоёр хувааж төлөхөөр тохиролцсон' = 'We agreed to pay in two parts.' With болсон, you just report the outcome — it's been decided or arranged, maybe by one side or by circumstances: 'Мөнгө баасан гарагт орохоор болсон' = 'The money is set to come in on Friday.' Money can't 'agree', so only болсон works there. In speech, боллоо is common for news you just learned.",
+  "explain_mn": "Англи хэлэнд cost, see, think, have зэрэг төлөв илэрхийлэх (stative) үйл үг ихэвчлэн үргэлжлэх хэлбэрт ордоггүй: 'It costs $50' (50 долларын үнэтэй), 'I see' (ойлгож байна). Гэвч -ing хэлбэрт орвол үйлдэл болж, утга нь өөрчлөгдөнө: 'We're costing the project' = төслийн зардлыг тооцоолж байна; 'I'm seeing a client' = үйлчлүүлэгчтэй уулзана. Тэгэхээр 'I'm seeing what you mean' гэж хэлэхгүй, 'I see what you mean' гэнэ. Харин 'I'm seeing a client at three' бол бүрэн зөв.",
+  "examples": [
+   {
+    "mn": "Бид урьдчилгааг гучин хувь байхаар тохиролцсон.",
+    "en": "We agreed that the deposit would be thirty percent.",
+    "mn_latin": "Bid uridchilgaag guchin khuvi baikhaar tokhiroltsson."
+   },
+   {
+    "mn": "Хурал хойшилсон тул гэрээнд ирэх долоо хоногт гарын үсэг зурахаар болсон.",
+    "en": "Since the meeting was postponed, the contract will now be signed next week.",
+    "mn_latin": "Khural khoishilson tul gereend irekh doloo khonogt garyn üseg zurakhaar bolson."
+   },
+   {
+    "mn": "Бид шинэ вэбсайтын зардлыг тооцоолж байна.",
+    "en": "We're costing the new website.",
+    "mn_latin": "Bid shine vebsaityn zardlyg tootsoolj baina."
+   },
+   {
+    "mn": "Би үд дунд үйлчлүүлэгчтэй уулзана.",
+    "en": "I'm seeing a client at noon.",
+    "mn_latin": "Bi üd dund üilchlüülegchtei uulzana."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Төлбөр баасан гарагт оро___ болсон.",
+   "answer": "хоор",
+   "options": [
+    "хоор",
+    "хаар",
+    "хээр",
+    "хөөр"
+   ],
+   "translation": "The payment is set to come in on Friday.",
+   "explain_en": "The verb орох has the vowel о, so vowel harmony requires -хоор: орохоор.",
+   "explain_mn": "Орох үйл үг о эгшигтэй тул эгшиг зохицох ёсоор -хоор нөхцөл авна: орохоор."
+  },
+  {
+   "mn": "",
+   "lang": "mn",
+   "text": "Банк амралттай байсан тул мөнгө маргааш орохоор ___.",
+   "answer": "болсон",
+   "options": [
+    "болсон",
+    "тохиролцсон",
+    "болоод",
+    "болсноор"
+   ],
+   "translation": "The bank was closed for the holiday, so the money will come in tomorrow.",
+   "explain_en": "This is an outcome caused by circumstances, not a negotiation — and money can't 'agree' — so болсон is correct.",
+   "explain_mn": "Энд хэн нэгэн тохиролцоогүй, нөхцөл байдлаас болж ийм үр дүн гарсан тул болсон тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Мөнгөө миний ___ руу шилжүүлнэ үү.",
+   "answer": "данс",
+   "options": [
+    "данс",
+    "татвар",
+    "нэхэмжлэх",
+    "урьдчилгаа"
+   ],
+   "translation": "Please transfer the money to my account.",
+   "explain_en": "You transfer money to a bank account: данс руу шилжүүлэх.",
+   "explain_mn": "Мөнгийг данс руу шилжүүлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "We ___ the project this week to see if it fits the budget.",
+   "answer": "are costing",
+   "options": [
+    "are costing",
+    "cost",
+    "costs",
+    "have cost"
+   ],
+   "translation": "Бид төсөвт багтах эсэхийг харахын тулд энэ долоо хоногт төслийн зардлыг тооцоолж байна.",
+   "explain_en": "Here cost means 'to calculate the costs', an action happening now, so the continuous form is used.",
+   "explain_mn": "Энд cost нь 'зардлыг тооцоолох' гэсэн үйлдлийн утгатай тул үргэлжлэх хэлбэр (are costing) хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I can't talk now — I ___ a client at three.",
+   "answer": "'m seeing",
+   "options": [
+    "'m seeing",
+    "see",
+    "seen",
+    "saw"
+   ],
+   "translation": "Би одоо ярих завгүй байна, гурван цагт үйлчлүүлэгчтэй уулзана.",
+   "explain_en": "See meaning 'meet' is an action, and the present continuous is used for a planned arrangement.",
+   "explain_mn": "See нь 'уулзах' гэсэн утгатай бол үйлдэл болно. Товлосон уулзалтыг үргэлжлэх хэлбэрээр илэрхийлнэ: I'm seeing."
+  },
+  {
+   "lang": "en",
+   "text": "Oh, I ___ what you mean. The invoice date was wrong.",
+   "answer": "see",
+   "options": [
+    "see",
+    "am seeing",
+    "seeing",
+    "have seen"
+   ],
+   "translation": "Өө, таны юу хэлэх гээд байгааг ойлголоо. Нэхэмжлэхийн огноо буруу байжээ.",
+   "explain_en": "See meaning 'understand' is stative, so it stays in the simple form.",
+   "explain_mn": "See нь 'ойлгох' гэсэн утгатай бол stative хэвээр тул энгийн хэлбэрээр (I see) хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Сайн байна уу, Майкл. Өнгөрсөн сард илгээсэн нэхэмжлэхийн талаар сануулах гэсэн юм.",
+   "en": "Hi Michael. I wanted to remind you about the invoice I sent last month.",
+   "mn_latin": "Sain baina uu, Maikl. Öngörsön sard ilgeesen nekhemjlekhiin talaar sanuulakh gesen yum."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Уучлаарай, Ану. Манай санхүүгийнхэн одоо бүх төслийн зардлыг дахин тооцоолж байгаа юм.",
+   "en": "Sorry, Anu. Our finance team is costing all our projects again right now.",
+   "mn_latin": "Uuchlaarai, Anu. Manai sankhüügiinkhen odoo bükh tösliin zardlyg dakhin tootsoolj baigaa yum."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Ойлгож байна. Гэхдээ бид ажлаа хүлээлгэж өгснөөс хойш арван хоногийн дотор төлбөрөө хийхээр тохиролцсон шүү дээ.",
+   "en": "I see. But we agreed that payment would be made within ten days of delivery.",
+   "mn_latin": "Oilgoj baina. Gekhdee bid ajlaa khüleelgej ögsnöös khoish arvan khonogiin dotor tölböröö khiikheer tokhiroltsson shüü dee."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тийм ээ, таны зөв. Би өнөөдөр нягтлантай уулзана, асуудлыг шийдье.",
+   "en": "Yes, you're right. I'm seeing our accountant today, and I'll sort it out.",
+   "mn_latin": "Tiim ee, tany zöv. Bi önöödör nyagtlantai uulzana, asuudlyg shiidiye."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Баярлалаа. Дашрамд хэлэхэд, нэхэмжлэхийн дүнд НӨАТ орсон гэдгийг анхаарна уу.",
+   "en": "Thanks. By the way, please note that the invoice total includes VAT.",
+   "mn_latin": "Bayarlalaa. Dashramd khelekhed, nekhemjlekhiin dünd NÖAT orson gedgiig ankhaarna uu."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Нягтлантай ярилаа. Мөнгийг баасан гарагт таны данс руу шилжүүлэхээр боллоо.",
+   "en": "I talked to the accountant. The money is going to be transferred to your account on Friday.",
+   "mn_latin": "Nyagtlantai yarilaa. Möngiig baasan garagt tany dans ruu shiljüülekheer bolloo."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Сайхан байна. Дараагийн төсөл дээр гучин хувийн урьдчилгаатай ажиллавал ямар вэ?",
+   "en": "Great. How about we work with a thirty percent deposit on the next project?",
+   "mn_latin": "Saikhan baina. Daraagiin tösöl deer guchin khuviin uridchilgaatai ajillaval yamar ve?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Шударга санал байна. Тэгж тохиролцъё.",
+   "en": "That's fair. Let's agree on that.",
+   "mn_latin": "Shudarga sanal baina. Tegj tokhiroltsyo."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, freelancers are usually paid by bank transfer, often through mobile banking apps or QPay, and clients may ask for an e-barimt (electronic receipt) for tax purposes. Payment reminders are commonly sent by phone call or Messenger rather than formal email, and a friendly, respectful tone keeps the relationship warm. Asking for an урьдчилгаа before starting work is becoming more and more normal, especially with new clients.",
+  "mn": "Монголд фрилансерууд ихэвчлэн банкны шилжүүлгээр, гар утасны банк эсвэл QPay-гээр төлбөрөө авдаг бөгөөд үйлчлүүлэгч татварын зорилгоор и-баримт шаардаж болно. Төлбөрийн сануулгыг албан имэйлээс илүү утсаар эсвэл Мессенжерээр эелдэг, хүндэтгэлтэй өнгөөр илгээх нь түгээмэл. Ажил эхлэхээс өмнө урьдчилгаа авах нь, ялангуяа шинэ үйлчлүүлэгчтэй ажиллахад, улам энгийн зүйл болж байна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Accurate, well-built lesson with clear grammar contrasts and sound blanks; only one unnatural dialogue phrase and one case-suffix slip needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is solid. The en/mn intros and explanations deliberately cover different grammar points (Mongolian -хаар for English speakers, English stative verbs for Mongolian speakers), so I left them as they are.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "'ярьж чадахгүй нь' is awkward; 'ярих завгүй байна' is the natural way to say 'can't talk now'"
+   }
+  ]
+ }
+}

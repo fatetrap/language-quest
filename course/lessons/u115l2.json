@@ -1,0 +1,403 @@
+{
+ "intro_en": "Learn to say how long you have lived, worked, or studied somewhere. You will practice the Mongolian patterns -аад ... болж байна and -аас хойш, and the English words for, since, and How long have you...?",
+ "intro_mn": "Хаана хэр удаан амьдарч, ажиллаж, сурч байгаагаа ярьж сурна. Монгол хэлний -аад ... болж байна, -аас хойш хэлбэрүүд, англи хэлний for, since, How long have you...? хэллэгийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "хойш",
+   "en": "since (after a point in time)",
+   "pos": "postposition",
+   "example_mn": "Би 2018 оноос хойш энд амьдарч байна.",
+   "example_en": "I have lived here since 2018.",
+   "mn_latin": "khoish"
+  },
+  {
+   "mn": "болох",
+   "en": "to become; (of time) to pass",
+   "pos": "verb",
+   "example_mn": "Ирээд нэг сар боллоо.",
+   "example_en": "It's been a month since I arrived.",
+   "mn_latin": "bolokh"
+  },
+  {
+   "mn": "турш",
+   "en": "throughout, for (a period)",
+   "pos": "postposition",
+   "example_mn": "Бид гурван жилийн турш хамт сурсан.",
+   "example_en": "We studied together for three years.",
+   "mn_latin": "tursh"
+  },
+  {
+   "mn": "амьдрах",
+   "en": "to live",
+   "pos": "verb",
+   "example_mn": "Та хаана амьдардаг вэ?",
+   "example_en": "Where do you live?",
+   "mn_latin": "amidrakh"
+  },
+  {
+   "mn": "нүүх",
+   "en": "to move (house)",
+   "pos": "verb",
+   "example_mn": "Бид шинэ байр руу нүүсэн.",
+   "example_en": "We moved to a new apartment.",
+   "mn_latin": "nüükh"
+  },
+  {
+   "mn": "ажиллах",
+   "en": "to work",
+   "pos": "verb",
+   "example_mn": "Тэр банкинд ажилладаг.",
+   "example_en": "She works at a bank.",
+   "mn_latin": "ajillakh"
+  },
+  {
+   "mn": "сурах",
+   "en": "to study, to learn",
+   "pos": "verb",
+   "example_mn": "Би англи хэл сурч байна.",
+   "example_en": "I am learning English.",
+   "mn_latin": "surakh"
+  },
+  {
+   "mn": "он",
+   "en": "year (calendar year)",
+   "pos": "noun",
+   "example_mn": "Та хэдэн онд төрсөн бэ?",
+   "example_en": "What year were you born?",
+   "mn_latin": "on"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "period, length of time",
+   "pos": "noun",
+   "example_mn": "Энэ ажил урт хугацаа шаардана.",
+   "example_en": "This work takes a long time.",
+   "mn_latin": "khugatsaa"
+  },
+  {
+   "mn": "анх",
+   "en": "first, originally",
+   "pos": "adverb",
+   "example_mn": "Би анх 2010 онд хотод ирсэн.",
+   "example_en": "I first came to the city in 2010.",
+   "mn_latin": "ankh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би Улаанбаатарт амьдраад арван жил болж байна.",
+   "en": "I have lived in Ulaanbaatar for ten years.",
+   "alt_mn": [
+    "Би Улаанбаатарт арван жил амьдарч байна."
+   ],
+   "alt_en": [
+    "I've lived in Ulaanbaatar for ten years.",
+    "I have been living in Ulaanbaatar for ten years."
+   ],
+   "mn_latin": "Bi Ulaanbaatart amidraad arvan jil bolj baina."
+  },
+  {
+   "mn": "Та энд ажиллаад хэдэн жил болж байна вэ?",
+   "en": "How many years have you worked here?",
+   "alt_mn": [
+    "Та энд хэдэн жил ажиллаж байна вэ?"
+   ],
+   "alt_en": [
+    "How long have you worked here?",
+    "How long have you been working here?"
+   ],
+   "mn_latin": "Ta end ajillaad kheden jil bolj baina ve?"
+  },
+  {
+   "mn": "Тэр 2020 оноос хойш энэ компанид ажиллаж байна.",
+   "en": "She has been working at this company since 2020.",
+   "alt_mn": [],
+   "alt_en": [
+    "She has worked at this company since 2020.",
+    "He has been working at this company since 2020.",
+    "He has worked at this company since 2020."
+   ],
+   "mn_latin": "Ter 2020 onoos khoish ene kompanid ajillaj baina."
+  },
+  {
+   "mn": "Бид хотод нүүж ирээд гурван сар болсон.",
+   "en": "It has been three months since we moved to the city.",
+   "alt_mn": [
+    "Бид хотод нүүж ирээд гурван сар болж байна."
+   ],
+   "alt_en": [
+    "It's been three months since we moved to the city."
+   ],
+   "mn_latin": "Bid khotod nüüj ireed gurvan sar bolson."
+  },
+  {
+   "mn": "Би энэ их сургуульд хоёр жил сурч байна.",
+   "en": "I have been studying at this university for two years.",
+   "alt_mn": [
+    "Би энэ их сургуульд сурч эхлээд хоёр жил болж байна."
+   ],
+   "alt_en": [
+    "I've been studying at this university for two years."
+   ],
+   "mn_latin": "Bi ene ikh surguulid khoyor jil surch baina."
+  },
+  {
+   "mn": "Цагаан сараас хойш би нутагтаа очоогүй.",
+   "en": "I haven't been to my hometown since Tsagaan Sar.",
+   "alt_mn": [
+    "Би Цагаан сараас хойш нутагтаа очоогүй."
+   ],
+   "alt_en": [
+    "I have not been to my hometown since Tsagaan Sar.",
+    "I haven't gone back to my hometown since Tsagaan Sar."
+   ],
+   "mn_latin": "Tsagaan saraas khoish bi nutagtaa ochoogüi."
+  },
+  {
+   "mn": "Бид уулзаагүй удаж байна.",
+   "en": "We haven't seen each other in a long time.",
+   "alt_mn": [
+    "Бид уулзаагүй их удлаа."
+   ],
+   "alt_en": [
+    "We haven't seen each other for a long time.",
+    "It's been a long time since we saw each other."
+   ],
+   "mn_latin": "Bid uulzaagüi udaj baina."
+  },
+  {
+   "mn": "Тэр гурван жилийн турш хөдөө багшилсан.",
+   "en": "She taught in the countryside for three years.",
+   "alt_mn": [
+    "Тэр хөдөө гурван жил багшилсан."
+   ],
+   "alt_en": [
+    "He taught in the countryside for three years."
+   ],
+   "mn_latin": "Ter gurvan jiliin tursh khödöö bagshilsan."
+  },
+  {
+   "mn": "Та анх хэзээ Улаанбаатарт ирсэн бэ?",
+   "en": "When did you first come to Ulaanbaatar?",
+   "alt_mn": [
+    "Та Улаанбаатарт анх хэзээ ирсэн бэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Ta ankh khezee Ulaanbaatart irsen be?"
+  },
+  {
+   "mn": "Тэр хүүхэд байхаасаа хойш англи хэл сурч байна.",
+   "en": "He has been learning English since he was a child.",
+   "alt_mn": [],
+   "alt_en": [
+    "She has been learning English since she was a child.",
+    "He has studied English since he was a child."
+   ],
+   "mn_latin": "Ter khüükhed baikhaasaa khoish angli khel surch baina."
+  },
+  {
+   "mn": "Энэ байранд нүүж ирснээсээ хойш би хөршүүдтэйгээ сайн танилцсан.",
+   "en": "Since moving into this building, I've gotten to know my neighbors well.",
+   "alt_mn": [],
+   "alt_en": [
+    "Since I moved into this building, I have gotten to know my neighbors well."
+   ],
+   "mn_latin": "Ene bairand nüüj irsneesee khoish bi khörshüüdteigee sain taniltssan."
+  },
+  {
+   "mn": "Манай аав энэ үйлдвэрт гучин жил ажилласан.",
+   "en": "My father worked at this factory for thirty years.",
+   "alt_mn": [
+    "Манай аав энэ үйлдвэрт гучин жилийн турш ажилласан."
+   ],
+   "alt_en": [],
+   "mn_latin": "Manai aav ene üildvert guchin jil ajillasan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Since when? How long? (-аад ... болж байна, -аас хойш)",
+  "title_mn": "For ба since: хугацаа ба цэг",
+  "explain_en": "Mongolian has two main ways to say how long something has been going on. (1) Add -аад/-ээд/-оод/-өөд to the verb, then give the time and finish with болж байна or болсон: Ирээд гурван жил болж байна literally means 'having come, three years have become', which is 'It's been three years since I came.' (2) To give a starting point, put the ablative ending -аас/-ээс/-оос/-өөс on the time and add хойш: 2020 оноос хойш means 'since 2020'. For a plain period, just use the time word, or add -ийн турш: гурван жил or гурван жилийн турш means 'for three years'. Where English uses 'have been doing', Mongolian simply uses the present continuous -ж/-ч байна.",
+  "explain_mn": "Англи хэлэнд хугацааг 'for', эхэлсэн цэгийг 'since' гэж хэлнэ. For + хугацаа: for three years, for a week. Since + цэг: since 2020, since Monday, since I was a child. Одоо хүртэл үргэлжилж байгаа үйлийг Present Perfect (I have lived) эсвэл Present Perfect Continuous (I have been working) хэлбэрээр хэлнэ. Монголоор 'амьдарч байна' гэдэг ч англиар 'I live here for ten years' гэж хэлж болохгүй. 'I have lived here for ten years' гэх ёстой. Асуухдаа 'How long have you...?' гэнэ. Хэрэв үйл дууссан бол Past Simple хэрэглэнэ: 'He worked there for thirty years.'",
+  "examples": [
+   {
+    "mn": "Би энд ажиллаад таван жил болж байна.",
+    "en": "I have worked here for five years.",
+    "mn_latin": "Bi end ajillaad tavan jil bolj baina."
+   },
+   {
+    "mn": "Бид 2019 оноос хойш энд амьдарч байна.",
+    "en": "We have lived here since 2019.",
+    "mn_latin": "Bid 2019 onoos khoish end amidarch baina."
+   },
+   {
+    "mn": "Та англи хэл хэдэн жил сурч байна вэ?",
+    "en": "How long have you been studying English?",
+    "mn_latin": "Ta angli khel kheden jil surch baina ve?"
+   },
+   {
+    "mn": "Тэр Германд хоёр жилийн турш сурсан.",
+    "en": "She studied in Germany for two years.",
+    "mn_latin": "Ter Gyermand khoyor jiliin tursh sursan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би 2019 он___ хойш энд амьдарч байна.",
+   "answer": "оос",
+   "options": [
+    "оос",
+    "д",
+    "ы",
+    "оор"
+   ],
+   "translation": "I have lived here since 2019.",
+   "explain_en": "Хойш ('since') needs the ablative case before it. 'Он' has the vowel о, so the ablative ending is -оос: оноос хойш.",
+   "explain_mn": "'Хойш' гэдэг үгийн өмнө гарах тийн ялгал (-аас/-ээс/-оос/-өөс) шаардана. 'Он' үгэнд эгшиг зохицлоор -оос залгана: оноос хойш."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр Дархан руу нүү___ хоёр жил болж байна.",
+   "answer": "гээд",
+   "options": [
+    "гээд",
+    "сэн",
+    "ж",
+    "х"
+   ],
+   "translation": "It has been two years since he moved to Darkhan.",
+   "explain_en": "The pattern is verb + -аад/-ээд + time + болж байна. Stems ending in a long vowel take -гаад/-гээд, so нүүх becomes нүүгээд.",
+   "explain_mn": "Энэ хэлбэр нь үйл үг + -аад/-ээд + хугацаа + болж байна. Урт эгшгээр төгссөн үндсэнд -гаад/-гээд залгадаг тул нүүгээд болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид таван жил___ турш хамт ажилласан.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "ээс",
+    "тэй",
+    "д"
+   ],
+   "translation": "We worked together for five years.",
+   "explain_en": "Турш ('throughout') follows a noun in the genitive case. 'Жил' takes -ийн: жилийн турш.",
+   "explain_mn": "'Турш' гэдэг үгийн өмнө харьяалахын тийн ялгал орно: жилийн турш."
+  },
+  {
+   "lang": "en",
+   "text": "I have lived in Ulaanbaatar ___ 2015.",
+   "answer": "since",
+   "options": [
+    "since",
+    "for",
+    "from",
+    "during"
+   ],
+   "translation": "Би 2015 оноос хойш Улаанбаатарт амьдарч байна.",
+   "explain_en": "2015 is a starting point in time, so we use 'since'.",
+   "explain_mn": "2015 бол эхэлсэн цэг тул 'since' хэрэглэнэ. Энэ нь '-аас хойш' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "She has worked here ___ six months.",
+   "answer": "for",
+   "options": [
+    "for",
+    "since",
+    "during",
+    "ago"
+   ],
+   "translation": "Тэр энд ажиллаад зургаан сар болж байна.",
+   "explain_en": "'Six months' is a length of time, so we use 'for'.",
+   "explain_mn": "'Six months' бол хугацааны урт тул 'for' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "How long ___ you been studying English?",
+   "answer": "have",
+   "options": [
+    "have",
+    "did",
+    "are",
+    "do"
+   ],
+   "translation": "Та англи хэл сураад хэр удаж байна вэ?",
+   "explain_en": "'Been studying' is the present perfect continuous, which needs 'have' with 'you'.",
+   "explain_mn": "'Been studying' нь Present Perfect Continuous хэлбэр тул 'you'-тэй 'have' хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Майкл, та Монголд ирээд хэр удаж байна вэ?",
+   "en": "Michael, how long have you been in Mongolia?",
+   "mn_latin": "Maikl, ta Mongold ireed kher udaj baina ve?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Ирээд хоёр жил гаруй болж байна. 2022 оны намраас хойш энд амьдарч байна.",
+   "en": "It's been over two years. I've lived here since the fall of 2022.",
+   "mn_latin": "Ireed khoyor jil garui bolj baina. 2022 ony namraas khoish end amidarch baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ажлаараа ирсэн үү?",
+   "en": "Did you come for work?",
+   "mn_latin": "Ajlaaraa irsen üü?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тийм. Эхлээд нэг жилийн турш Эрдэнэтэд англи хэл заасан. Дараа нь Улаанбаатар руу нүүсэн.",
+   "en": "Yes. First I taught English in Erdenet for a year. Then I moved to Ulaanbaatar.",
+   "mn_latin": "Tiim. Ekhleed neg jiliin tursh Erdeneted angli khel zaasan. Daraa ni Ulaanbaatar ruu nüüsen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Монгол хэл сурч эхлээд хэдэн жил болж байна вэ?",
+   "en": "How long have you been learning Mongolian?",
+   "mn_latin": "Mongol khel surch ekhleed kheden jil bolj baina ve?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Ирсэн өдрөөсөө хойш сурч байна. Харин та энэ банкинд хэдэн жил ажиллаж байна вэ?",
+   "en": "I've been learning it since the day I arrived. And how long have you worked at this bank?",
+   "mn_latin": "Irsen ödröösöö khoish surch baina. Kharin ta ene bankind kheden jil ajillaj baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Их сургуулиа төгсөөд л энд орсон. Одоо зургаан жил болж байна.",
+   "en": "I started here right after graduating. It's been six years now.",
+   "mn_latin": "Ikh surguulia tögsööd l end orson. Odoo zurgaan jil bolj baina."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Зургаан жил! Нэлээн удсан байна шүү.",
+   "en": "Six years! That's quite a long time.",
+   "mn_latin": "Zurgaan jil! Neleen udsan baina shüü."
+  }
+ ],
+ "culture_note": {
+  "en": "Many people in Ulaanbaatar moved to the city from the countryside, so a common question is \"Хотод ирээд хэр удаж байна?\" (How long have you been in the city?). People often answer by naming their нутаг, their home province or soum. They are proud of their roots even after decades in the capital.",
+  "mn": "Улаанбаатарын олон хүн хөдөөнөөс нүүж ирсэн тул \"Хотод ирээд хэр удаж байна?\" гэж асуух нь түгээмэл. Хүмүүс ихэвчлэн нутаг буюу аймаг, сумаа хэлж хариулдаг. Нийслэлд олон арван жил амьдарсан ч угаараа бахархдаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A strong, accurate lesson. Case endings, vowel harmony and the fill-in-the-blank answers are all correct; only one awkward phrase in the culture note needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is in very good shape. The only real error was the missing question particle in the dialogue.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "A question with 'хэдэн' needs the question particle 'вэ'"
+   }
+  ]
+ }
+}

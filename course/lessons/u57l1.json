@@ -1,0 +1,484 @@
+{
+ "intro_en": "You will learn how to search apartment listings and call a landlord or agent in Mongolian, and how to say what happens before an action with -хаас өмнө. You will also practice 'was/were going to' for earlier plans.",
+ "intro_mn": "Та энэ хичээлээр байрны зар хайж, байрны эзэн эсвэл агентад утасдаж сурна. Мөн үйлдлийн өмнөх зүйлийг хэлэх -хаас өмнө бүтэц болон англи хэлний 'was/were going to' (өмнө төлөвлөсөн зүйл) хэлбэрийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "өрөө",
+   "en": "room",
+   "pos": "noun",
+   "example_mn": "Энэ байр гурван өрөөтэй.",
+   "example_en": "This apartment has three rooms.",
+   "mn_latin": "öröö"
+  },
+  {
+   "mn": "давхар",
+   "en": "floor, story",
+   "pos": "noun",
+   "example_mn": "Манай байр есдүгээр давхарт байдаг.",
+   "example_en": "Our apartment is on the ninth floor.",
+   "mn_latin": "davkhar"
+  },
+  {
+   "mn": "түрээс",
+   "en": "rent",
+   "pos": "noun",
+   "example_mn": "Сарын түрээс хэд вэ?",
+   "example_en": "How much is the monthly rent?",
+   "mn_latin": "türees"
+  },
+  {
+   "mn": "барьцаа",
+   "en": "deposit",
+   "pos": "noun",
+   "example_mn": "Барьцаа нэг сарын түрээстэй тэнцэнэ.",
+   "example_en": "The deposit equals one month's rent.",
+   "mn_latin": "baritsaa"
+  },
+  {
+   "mn": "зарын сайт",
+   "en": "listings website",
+   "pos": "noun",
+   "example_mn": "Би зарын сайтаас байр хайсан.",
+   "example_en": "I searched for an apartment on a listings website.",
+   "mn_latin": "zaryn sait"
+  },
+  {
+   "mn": "агент",
+   "en": "agent",
+   "pos": "noun",
+   "example_mn": "Агент надад гурван байр үзүүлсэн.",
+   "example_en": "The agent showed me three apartments.",
+   "mn_latin": "agyent"
+  },
+  {
+   "mn": "байрны эзэн",
+   "en": "landlord",
+   "pos": "noun",
+   "example_mn": "Байрны эзэн маргааш утасдана гэсэн.",
+   "example_en": "The landlord said he would call tomorrow.",
+   "mn_latin": "bairny ezen"
+  },
+  {
+   "mn": "гэрээ",
+   "en": "contract, agreement",
+   "pos": "noun",
+   "example_mn": "Гэрээнд гарын үсэг зурахаасаа өмнө сайн уншаарай.",
+   "example_en": "Read the contract carefully before you sign it.",
+   "mn_latin": "geree"
+  },
+  {
+   "mn": "түрээслэх",
+   "en": "to rent",
+   "pos": "verb",
+   "example_mn": "Бид хотын төвд байр түрээслэхийг хүсч байна.",
+   "example_en": "We want to rent an apartment in the city center.",
+   "mn_latin": "türeeslekh"
+  },
+  {
+   "mn": "нүүх",
+   "en": "to move (house)",
+   "pos": "verb",
+   "example_mn": "Би ирэх сард шинэ байранд нүүнэ.",
+   "example_en": "I will move to a new apartment next month.",
+   "mn_latin": "nüükh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би зарын сайтаас хоёр өрөө байр хайж байна.",
+   "en": "I am looking for a two-room apartment on a listings website.",
+   "alt_mn": [
+    "Би зарын сайтаас хоёр өрөө байр хайгаад байна."
+   ],
+   "alt_en": [
+    "I'm searching a listings website for a two-room apartment."
+   ],
+   "mn_latin": "Bi zaryn saitaas khoyor öröö bair khaij baina."
+  },
+  {
+   "mn": "Гэрээнд гарын үсэг зурахаасаа өмнө би барьцааны талаар асуух ёстой.",
+   "en": "Before signing the contract, I have to ask about the deposit.",
+   "alt_mn": [
+    "Гэрээнд гарын үсэг зурахаас өмнө би барьцааны талаар асуух ёстой."
+   ],
+   "alt_en": [
+    "I have to ask about the deposit before I sign the contract."
+   ],
+   "mn_latin": "Gereend garyn üseg zurakhaasaa ömnö bi baritsaany talaar asuukh yostoi."
+  },
+  {
+   "mn": "Сайн байна уу, зарын сайтад байсан байрны талаар утасдаж байна.",
+   "en": "Hello, I'm calling about the apartment on the listings website.",
+   "alt_mn": [
+    "Сайн байна уу, сайтад тавьсан байрны зарын талаар залгаж байна."
+   ],
+   "alt_en": [
+    "Hello, I'm calling about the apartment from the listing."
+   ],
+   "mn_latin": "Sain baina uu, zaryn saitad baisan bairny talaar utasdaj baina."
+  },
+  {
+   "mn": "Сарын түрээс хэд вэ, барьцаа хэд вэ?",
+   "en": "How much is the monthly rent, and how much is the deposit?",
+   "alt_mn": [
+    "Сарын түрээс хэд вэ, барьцаа хэдэн төгрөг вэ?"
+   ],
+   "alt_en": [
+    "What is the monthly rent and what is the deposit?"
+   ],
+   "mn_latin": "Saryn türees khed ve, baritsaa khed ve?"
+  },
+  {
+   "mn": "Би хотын төвд байр түрээслэх гэж байсан.",
+   "en": "I was going to rent an apartment downtown.",
+   "alt_mn": [
+    "Би хотын төвд байр түрээслэхээр төлөвлөж байсан."
+   ],
+   "alt_en": [
+    "I was planning to rent an apartment downtown."
+   ],
+   "mn_latin": "Bi khotyn tövd bair türeeslekh gej baisan."
+  },
+  {
+   "mn": "Бид гуравдугаар давхарт байр үзэх гэж байсан ч агент цагаа өөрчилсөн.",
+   "en": "We were going to see an apartment on the third floor, but the agent changed the time.",
+   "alt_mn": [
+    "Бид гуравдугаар давхрын байр үзэхээр товлосон байсан ч агент цагийг нь өөрчилсөн."
+   ],
+   "alt_en": [
+    "We were going to view a third-floor apartment, but the agent changed the time."
+   ],
+   "mn_latin": "Bid guravdugaar davkhart bair üzekh gej baisan ch agyent tsagaa öörchilsön."
+  },
+  {
+   "mn": "Нүүхээсээ өмнө бид байрыг бүхэлд нь цэвэрлэнэ.",
+   "en": "Before moving in, we will clean the whole apartment.",
+   "alt_mn": [
+    "Нүүхээс өмнө бид байрыг бүхэлд нь цэвэрлэнэ."
+   ],
+   "alt_en": [
+    "Before we move in, we'll clean the entire apartment."
+   ],
+   "mn_latin": "Nüükheesee ömnö bid bairyg bükheld ni tseverlene."
+  },
+  {
+   "mn": "Агент надад байр үзүүлэхээсээ өмнө гэрээний нөхцөлийг тайлбарласан.",
+   "en": "Before showing me the apartment, the agent explained the terms of the contract.",
+   "alt_mn": [
+    "Агент байр үзүүлэхээс өмнө надад гэрээний нөхцөлийг тайлбарлаж өгсөн."
+   ],
+   "alt_en": [
+    "The agent explained the contract terms before showing me the apartment."
+   ],
+   "mn_latin": "Agyent nadad bair üzüülekheesee ömnö gereenii nökhtsöliig tailbarlasan."
+  },
+  {
+   "mn": "Энэ байранд нэг унтлагын өрөө, жижиг зочны өрөө бий.",
+   "en": "This apartment has one bedroom and a small living room.",
+   "alt_mn": [
+    "Энэ байр нэг унтлагын өрөөтэй, жижиг зочны өрөөтэй."
+   ],
+   "alt_en": [
+    "The apartment has a bedroom and a small living room."
+   ],
+   "mn_latin": "Ene bairand neg untlagyn öröö, jijig zochny öröö bii."
+  },
+  {
+   "mn": "Байрны эзэнтэй уулзахаасаа өмнө би өөр хоёр байр үзсэн.",
+   "en": "Before meeting the landlord, I had seen two other apartments.",
+   "alt_mn": [
+    "Байрны эзэнтэй уулзахаас өмнө би өөр хоёр байр үзсэн."
+   ],
+   "alt_en": [
+    "I viewed two other apartments before I met the landlord."
+   ],
+   "mn_latin": "Bairny ezentei uulzakhaasaa ömnö bi öör khoyor bair üzsen."
+  },
+  {
+   "mn": "Би өнгөрсөн сард нүүх гэж байсан боловч гэрээ хойшилсон.",
+   "en": "I was going to move last month, but the contract was delayed.",
+   "alt_mn": [
+    "Би өнгөрсөн сард нүүхээр төлөвлөсөн байсан ч гэрээ хойшилсон."
+   ],
+   "alt_en": [
+    "I was planning to move last month, but the contract got delayed."
+   ],
+   "mn_latin": "Bi öngörsön sard nüükh gej baisan bolovch geree khoishilson."
+  },
+  {
+   "mn": "Төлбөр төлөхөөсөө өмнө баримтаа авахаа мартуузай.",
+   "en": "Don't forget to get a receipt before you pay.",
+   "alt_mn": [
+    "Мөнгө төлөхөөс өмнө баримтаа авахаа битгий март."
+   ],
+   "alt_en": [
+    "Make sure you get a receipt before paying."
+   ],
+   "mn_latin": "Tölbör tölökhöösöö ömnö barimtaa avakhaa martuuzai."
+  }
+ ],
+ "grammar": {
+  "title_en": "-хаас өмнө: 'before' doing something, and English was/were going to",
+  "title_mn": "-хаас өмнө: «өмнө» гэсэн утгатай үйлдлийн бүтэц ба англи хэлний was/were going to",
+  "explain_en": "To say 'before doing X', use the verb form in -х plus the ablative ending, then өмнө (vowel harmony: -хаас/-хээс/-хоос/-хөөс): гарын үсэг зурах → зурахаас өмнө 'before signing'. The subject usually stays the same as in the main clause. To stress that it is the same person, add the reflexive possessive ending -аа/-ээ: зурахаасаа өмнө 'before I/you/we sign', нүүхээсээ өмнө 'before moving'. Both forms are common. The tense of the whole sentence is shown by the main verb at the end: Нүүхээсээ өмнө цэвэрлэнэ (future). English 'was/were going to + verb' expresses an earlier plan, often one that did not happen: 'I was going to rent an apartment downtown.' Use 'was' with I/he/she/it and 'were' with you/we/they.",
+  "explain_mn": "Үйлийн өмнөх зүйлийг хэлэхдээ үйл үгийн -х хэлбэр дээр гарах тийн нөхцөл залгаад «өмнө» гэж хэлнэ (-хаас/-хээс/-хоос/-хөөс): гарын үсэг зурах → зурахаас өмнө. Үйлдэгч нь ихэвчлэн үндсэн өгүүлбэрийнхтэй ижил байна. Ижил хүн гэдгийг тодотгохдоо ерөнхий хамаатуулах нөхцөл (-аа/-ээ) залгана: зурахаасаа өмнө, нүүхээсээ өмнө. Хоёр хэлбэр хоёулаа түгээмэл. Цагийг өгүүлбэрийн төгсгөлийн үндсэн үйл үг заана: Нүүхээсээ өмнө цэвэрлэнэ. Англи хэлэнд өмнө гаргасан төлөвлөгөөг 'was/were going to + үйл үг' гэж хэлнэ: 'I was going to rent an apartment downtown' — «Би хотын төвд байр түрээслэх гэж байсан». I/he/she/it-ийн хамт 'was', you/we/they-ийн хамт 'were' хэрэглэнэ. Ихэнхдээ төлөвлөгөө биелээгүй гэсэн утгатай: 'We were going to call, but we forgot.'",
+  "examples": [
+   {
+    "mn": "Гэрээнд гарын үсэг зурахаасаа өмнө асуугаарай.",
+    "en": "Ask before you sign the contract.",
+    "mn_latin": "Gereend garyn üseg zurakhaasaa ömnö asuugaarai."
+   },
+   {
+    "mn": "Нүүхээс өмнө барьцаагаа төлөх хэрэгтэй.",
+    "en": "You need to pay the deposit before moving in.",
+    "mn_latin": "Nüükhees ömnö baritsaagaa tölökh kheregtei."
+   },
+   {
+    "mn": "Агентад утасдахаас өмнө зарыг сайн уншсан.",
+    "en": "I read the listing carefully before calling the agent.",
+    "mn_latin": "Agyentad utasdakhaas ömnö zaryg sain unshsan."
+   },
+   {
+    "mn": "Би төвд байр түрээслэх гэж байсан.",
+    "en": "I was going to rent an apartment downtown.",
+    "mn_latin": "Bi tövd bair türeeslekh gej baisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гэрээнд гарын үсэг зур___ өмнө бүгдийг нь уншаарай.",
+   "answer": "ахаас",
+   "options": [
+    "ахаас",
+    "ахад",
+    "ахыг",
+    "ахтай"
+   ],
+   "translation": "Read everything before signing the contract.",
+   "explain_en": "'Before' needs the ablative -аас/-ээс/-оос/-өөс + өмнө. Stem зур- + ах + аас → зурахаас өмнө.",
+   "explain_mn": "«Өмнө» гэсэн үгийн өмнө гарах тийн ялгалын -аас/-ээс/-оос/-өөс залгана: зурахаас өмнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид шинэ байранд нүү___ өмнө түрээсээ төлнө.",
+   "answer": "хээс",
+   "options": [
+    "хээс",
+    "хэд",
+    "хийг",
+    "хтэй"
+   ],
+   "translation": "We will pay the rent before moving to the new apartment.",
+   "explain_en": "нүү- has the feminine vowel ү, so it takes -хээс, followed by өмнө: нүүхээс өмнө.",
+   "explain_mn": "«нүү-» нь ү эгшигтэй эм үг тул -хээс залгаад «өмнө» гэнэ: нүүхээс өмнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Сарын ___ хэд вэ? Барьцаа бас хэд вэ?",
+   "answer": "түрээс",
+   "options": [
+    "түрээс",
+    "давхар",
+    "агент",
+    "өрөө"
+   ],
+   "translation": "How much is the monthly rent? And how much is the deposit?",
+   "explain_en": "Түрээс means rent, the monthly payment. Давхар is floor, өрөө is room.",
+   "explain_mn": "Сар бүр төлдөг мөнгийг «түрээс» гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ going to call the landlord yesterday, but I forgot.",
+   "answer": "was",
+   "options": [
+    "was",
+    "were",
+    "am",
+    "will be"
+   ],
+   "translation": "Би байрны эзэнд өчигдөр залгах гэж байсан ч мартчихсан.",
+   "explain_en": "With 'I' in the past, use 'was going to' for an earlier plan.",
+   "explain_mn": "'I' гишүүнтэй өнгөрсөн цагийн төлөвлөгөөг «was going to» гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "We ___ going to rent an apartment downtown, but it was too expensive.",
+   "answer": "were",
+   "options": [
+    "were",
+    "was",
+    "are",
+    "did"
+   ],
+   "translation": "Бид хотын төвд байр түрээслэх гэж байсан ч хэтэрхий үнэтэй байсан.",
+   "explain_en": "'We' takes 'were': we were going to.",
+   "explain_mn": "'We' гишүүнтэй «were going to» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She was going to ___ the apartment on Friday.",
+   "answer": "see",
+   "options": [
+    "see",
+    "saw",
+    "seeing",
+    "seen"
+   ],
+   "translation": "Тэр баасан гарагт байрыг үзэх гэж байсан.",
+   "explain_en": "After 'was going to' use the base form of the verb: see.",
+   "explain_mn": "«was going to»-ийн дараа үйл үг үндсэн хэлбэрээрээ орно: see."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу, зарын сайтад тавьсан хоёр өрөө байрны талаар залгаж байна.",
+   "en": "Hello, I'm calling about the two-room apartment you posted on the listings website.",
+   "mn_latin": "Sain baina uu, zaryn saitad tavisan khoyor öröö bairny talaar zalgaj baina."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Сайн байна уу. Тийм ээ, тэр байр одоо чөлөөтэй байгаа. Гуравдугаар давхарт байдаг.",
+   "en": "Hello. Yes, that apartment is available now. It's on the third floor.",
+   "mn_latin": "Sain baina uu. Tiim ee, ter bair odoo chölöötei baigaa. Guravdugaar davkhart baidag."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сарын түрээс хэд вэ? Барьцаа бас шаардлагатай юу?",
+   "en": "How much is the monthly rent? Is a deposit also required?",
+   "mn_latin": "Saryn türees khed ve? Baritsaa bas shaardlagatai yuu?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Түрээс нэг сая хоёр зуун мянга. Барьцаа нэг сарын түрээстэй тэнцэнэ.",
+   "en": "The rent is 1,200,000 tugriks. The deposit equals one month's rent.",
+   "mn_latin": "Türees neg saya khoyor zuun myanga. Baritsaa neg saryn türeestei tentsene."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Ойлголоо. Би өмнө нь төвд байр түрээслэх гэж байсан ч тэнд үнэтэй байсан.",
+   "en": "I see. I was going to rent downtown before, but it was expensive there.",
+   "mn_latin": "Oilgoloo. Bi ömnö ni tövd bair türeeslekh gej baisan ch tend ünetei baisan."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Манай байр төвөөс ойрхон. Гэрээнд гарын үсэг зурахаасаа өмнө эхлээд байрыг үзээрэй.",
+   "en": "Our apartment is close to downtown. Before you sign the contract, please see the apartment first.",
+   "mn_latin": "Manai bair tövöös oirkhon. Gereend garyn üseg zurakhaasaa ömnö ekhleed bairyg üzeerei."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайхан байна. Маргааш оройны зургаан цагт очиж болох уу?",
+   "en": "Great. Can I come tomorrow at six in the evening?",
+   "mn_latin": "Saikhan baina. Margaash oroiny zurgaan tsagt ochij bolokh uu?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Болно. Би танд хаягийг мессежээр явуулъя.",
+   "en": "Sure. I'll send you the address by text message.",
+   "mn_latin": "Bolno. Bi tand khayagiig myessyejeer yavuulya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar many people find apartments through listings websites, Facebook groups, or agents, and rent is often quoted in tugriks per month. Landlords commonly ask for a deposit of about one month's rent, and heating costs in winter can be a big part of the bill, so it is wise to ask what is included. Many people also look at the apartment's floor and whether it is in a central heating zone before deciding.",
+  "mn": "Улаанбаатарт олон хүн байрыг зарын сайт, фэйсбүүк группээр эсвэл агентаар дамжуулан олдог бөгөөд түрээсийг ихэвчлэн сараар, төгрөгөөр хэлдэг. Байрны эзэн ихэвчлэн нэг сарын түрээстэй тэнцэх барьцаа авдаг. Өвлийн халаалтын төлбөр нийт зардлын томоохон хэсэг болдог тул юу юу багтсаныг асуух нь зүйтэй. Мөн шийдэхээсээ өмнө байр хэддүгээр давхарт байгаа, төвийн халаалтын бүсэд багтдаг эсэхийг олон хүн хардаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 14,
+  "notes": "Mostly good content, but the Mongolian grammar section did not match the lesson, plus a few wording errors (зочид өрөө, vowel-harmony explanation, word order of битгий)."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed the ending in the grammar explanations, removed an ambiguous option, standardized spelling and word choice, and aligned the culture note versions.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "Standard spelling is нөхцөлийг"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "Standard spelling is нөхцөлийг"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "A delayed contract is хойшилсон; хоцорсон sounds unnatural here"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "Same fix as the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Match title_mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The ending is -хаас, not -аас; reflexive ending named correctly; American English"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Correct the ending and the term for the reflexive ending"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "American English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "нүүхийн өмнө is also correct, so the blank had two right answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Mongolian vowel harmony is not front/back"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "The original wording was garbled"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "text",
+    "why": "American English"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'Сайн байна' is not used as a reply meaning 'great'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Match the en version (floor and central heating zone)"
+   }
+  ]
+ }
+}

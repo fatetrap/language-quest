@@ -1,0 +1,504 @@
+{
+ "intro_en": "You will learn to present research and answer a panel's questions in a polished academic register. You will practice the Mongolian patterns -ын талаар and -тай холбогдуулан, plus English reporting verbs and hedging.",
+ "intro_mn": "Та судалгаагаа танилцуулж, комиссын асуултад албан ёсны эрдэм шинжилгээний хэлээр хариулж сурна. Мөн «-ын талаар», «-тай холбогдуулан» хэлбэр болон англи хэлний мэдээлэх үйл үг, болгоомжилсон хэллэгийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "комисс",
+   "en": "panel",
+   "pos": "noun",
+   "example_mn": "Комисс надаас гурван асуулт асуусан.",
+   "example_en": "The panel asked me three questions.",
+   "mn_latin": "komiss"
+  },
+  {
+   "mn": "удирдагч багш",
+   "en": "supervisor",
+   "pos": "noun",
+   "example_mn": "Миний удирдагч багш судалгааны аргад зөвлөгөө өгсөн.",
+   "example_en": "My supervisor gave advice on the research method.",
+   "mn_latin": "udirdagch bagsh"
+  },
+  {
+   "mn": "эсэргүүцэл",
+   "en": "objection",
+   "pos": "noun",
+   "example_mn": "Тэр миний дүгнэлтэд эсэргүүцэл илэрхийлсэн.",
+   "example_en": "He raised an objection to my conclusion.",
+   "mn_latin": "esergüütsel"
+  },
+  {
+   "mn": "тодруулах",
+   "en": "to clarify",
+   "pos": "verb",
+   "example_mn": "Энэ ойлголтыг арай тодруулъя.",
+   "example_en": "Let me clarify this concept a little.",
+   "mn_latin": "todruulakh"
+  },
+  {
+   "mn": "хувь нэмэр",
+   "en": "contribution",
+   "pos": "noun",
+   "example_mn": "Энэ ажил салбартаа чухал хувь нэмэр оруулна.",
+   "example_en": "This work makes an important contribution to the field.",
+   "mn_latin": "khuvi nemer"
+  },
+  {
+   "mn": "цаашдын судалгаа",
+   "en": "future research",
+   "pos": "noun",
+   "example_mn": "Цаашдын судалгаанд өргөн түүвэр ашиглах боломжтой.",
+   "example_en": "Future research could use a broader sample.",
+   "mn_latin": "tsaashdyn sudalgaa"
+  },
+  {
+   "mn": "хамгаалах",
+   "en": "to defend",
+   "pos": "verb",
+   "example_mn": "Тэр докторын ажлаа ирэх сард хамгаална.",
+   "example_en": "She will defend her doctoral dissertation next month.",
+   "mn_latin": "khamgaalakh"
+  },
+  {
+   "mn": "дүгнэлт",
+   "en": "conclusion",
+   "pos": "noun",
+   "example_mn": "Дүгнэлт нь өгөгдөлд тулгуурласан.",
+   "example_en": "The conclusion is based on the data.",
+   "mn_latin": "dügnelt"
+  },
+  {
+   "mn": "хязгаарлалт",
+   "en": "limitation",
+   "pos": "noun",
+   "example_mn": "Судалгааны гол хязгаарлалт нь түүврийн хэмжээ юм.",
+   "example_en": "The main limitation of the study is the sample size.",
+   "mn_latin": "khyazgaarlalt"
+  },
+  {
+   "mn": "харуулах",
+   "en": "to show / to suggest",
+   "pos": "verb",
+   "example_mn": "Үр дүн нь хамаарал байгааг харуулж байна.",
+   "example_en": "The results suggest that there is a correlation.",
+   "mn_latin": "kharuulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би өнөөдөр хотжилтын талаар хийсэн судалгаагаа танилцуулна.",
+   "en": "Today I will present my research on urbanization.",
+   "alt_mn": [
+    "Би өнөөдөр хотжилтын талаарх судалгаагаа танилцуулна."
+   ],
+   "alt_en": [
+    "Today I will present the research I did on urbanization."
+   ],
+   "mn_latin": "Bi önöödör khotjiltyn talaar khiisen sudalgaagaa taniltsuulna."
+  },
+  {
+   "mn": "Үр дүн нь орлогын түвшинтэй холбогдуулан тайлбарлагдаж болохыг харуулж байна.",
+   "en": "The results suggest that this can be explained in relation to income level.",
+   "alt_mn": [],
+   "alt_en": [
+    "The results suggest this can be explained in connection with income level."
+   ],
+   "mn_latin": "Ür dün ni orlogyn tüvshintei kholbogduulan tailbarlagdaj bolokhyg kharuulj baina."
+  },
+  {
+   "mn": "Комиссын асуултыг тодруулж өгөхгүй юу?",
+   "en": "Could you clarify the panel's question?",
+   "alt_mn": [
+    "Комиссын асуултыг тодруулж өгч болох уу?"
+   ],
+   "alt_en": [
+    "Would you mind clarifying the panel's question?"
+   ],
+   "mn_latin": "Komissyn asuultyg todruulj ögökhgüi yuu?"
+  },
+  {
+   "mn": "Миний удирдагч багш аргачлалын талаар үнэ цэнэтэй санал хэлсэн.",
+   "en": "My supervisor gave valuable feedback on the methodology.",
+   "alt_mn": [],
+   "alt_en": [
+    "My supervisor made a valuable suggestion about the methodology."
+   ],
+   "mn_latin": "Minii udirdagch bagsh argachlalyn talaar üne tsenetei sanal khelsen."
+  },
+  {
+   "mn": "Таны эсэргүүцлийг би үндэслэлтэй гэж бодож байна.",
+   "en": "I think your objection is well founded.",
+   "alt_mn": [
+    "Таны эсэргүүцэл үндэслэлтэй гэж би бодож байна."
+   ],
+   "alt_en": [
+    "I consider your objection to be justified."
+   ],
+   "mn_latin": "Tany esergüütsliig bi ündesleltei gej bodoj baina."
+  },
+  {
+   "mn": "Энэ судалгаа онолын хувьд тодорхой хувь нэмэр оруулж байна гэж үзэж байна.",
+   "en": "I believe this study makes a certain theoretical contribution.",
+   "alt_mn": [],
+   "alt_en": [
+    "I would argue that this study makes a certain contribution to theory."
+   ],
+   "mn_latin": "Ene sudalgaa onolyn khuvid todorkhoi khuvi nemer oruulj baina gej üzej baina."
+  },
+  {
+   "mn": "Түүврийн хэмжээтэй холбоотой хязгаарлалт байгааг би хүлээн зөвшөөрч байна.",
+   "en": "I acknowledge that there is a limitation related to the sample size.",
+   "alt_mn": [],
+   "alt_en": [
+    "I accept that there is a limitation connected with the sample size."
+   ],
+   "mn_latin": "Tüüvriin khemjeetei kholbootoi khyazgaarlalt baigaag bi khüleen zövshöörch baina."
+  },
+  {
+   "mn": "Магадгүй өөр тайлбар ч байж болох юм.",
+   "en": "There may be another explanation, too.",
+   "alt_mn": [
+    "Өөр тайлбар ч байж магадгүй."
+   ],
+   "alt_en": [
+    "It could be argued that another explanation is possible."
+   ],
+   "mn_latin": "Magadgüi öör tailbar ch baij bolokh yum."
+  },
+  {
+   "mn": "Цаашдын судалгаанд хөдөөгийн сумдыг хамруулах нь зүйтэй.",
+   "en": "Future research should include rural soums.",
+   "alt_mn": [],
+   "alt_en": [
+    "It would be advisable for future research to include rural districts."
+   ],
+   "mn_latin": "Tsaashdyn sudalgaand khödöögiin sumdyg khamruulakh ni züitei."
+  },
+  {
+   "mn": "Энэ асуудлын талаар би одоогоор баттай дүгнэлт хийж чадахгүй байна.",
+   "en": "I can't draw a firm conclusion on this issue at the moment.",
+   "alt_mn": [],
+   "alt_en": [
+    "At present I am unable to draw a firm conclusion about this issue."
+   ],
+   "mn_latin": "Ene asuudlyn talaar bi odoogoor battai dügnelt khiij chadakhgüi baina."
+  },
+  {
+   "mn": "Би таны асуултыг тодруулахыг хүсэж байна.",
+   "en": "I'd like to clarify your question.",
+   "alt_mn": [],
+   "alt_en": [
+    "I would like to clarify your question."
+   ],
+   "mn_latin": "Bi tany asuultyg todruulakhyg khüsej baina."
+  },
+  {
+   "mn": "Судалгааны үр дүнг өмнөх ажлуудтай холбогдуулан авч үзэх хэрэгтэй.",
+   "en": "The findings should be considered in relation to earlier studies.",
+   "alt_mn": [],
+   "alt_en": [
+    "The results need to be viewed in connection with previous work."
+   ],
+   "mn_latin": "Sudalgaany ür düng ömnökh ajluudtai kholbogduulan avch üzekh kheregtei."
+  }
+ ],
+ "grammar": {
+  "title_en": "-ын талаар and -тай холбогдуулан in formal academic speech",
+  "title_mn": "Албан ёсны эрдмийн яриан дахь «-ын талаар», «-тай холбогдуулан»",
+  "explain_en": "Mongolian academic speech favors nouns over verbs. Use the genitive + талаар to say 'about, concerning': судалгааны талаар (about the research). Use the comitative + холбогдуулан to say 'in connection with, in light of': онолтой холбогдуулан (in connection with the theory). They can be combined: «Энэ асуудлын талаар өмнөх судалгаатай холбогдуулан тайлбарлая». Nominal style means turning verbs into nouns, e.g. «үр дүнг нэгтгэх нь» (summarizing the results). Hedge with «гэж үзэж байна», «магадгүй», «боломжтой».",
+  "explain_mn": "Монгол хэлний эрдэм шинжилгээний ярианд үйл үгээс илүү нэр үгийг түлхүү хэрэглэдэг. «Тухай» гэсэн утгыг харьяалахын тийн ялгал + «талаар»-аар илэрхийлнэ: судалгааны талаар. «Холбоотойгоор, үүднээс» гэсэн утгыг хамтрах тийн ялгал + «холбогдуулан»-аар илэрхийлнэ: онолтой холбогдуулан. Хоёуланг нь хамт хэрэглэж болно: «Энэ асуудлын талаар өмнөх судалгаатай холбогдуулан тайлбарлая». Нэрийн хэв маяг гэдэг нь үйл үгийг нэр болгон хэрэглэх явдал юм, жишээ нь «үр дүнг нэгтгэх нь». Болгоомжтой илэрхийлэхдээ «гэж үзэж байна», «магадгүй», «боломжтой» гэх мэт хэллэгийг хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Хотжилтын талаар өмнөх судалгаатай холбогдуулан авч үзье.",
+    "en": "Let's consider urbanization in relation to earlier studies.",
+    "mn_latin": "Khotjiltyn talaar ömnökh sudalgaatai kholbogduulan avch üziye."
+   },
+   {
+    "mn": "Таны аргачлалын талаарх асуултад хариулъя.",
+    "en": "Let me respond to your question about the methodology.",
+    "mn_latin": "Tany argachlalyn talaarkh asuultad khariulya."
+   },
+   {
+    "mn": "Үр дүнг онолтой холбогдуулан тайлбарлах боломжтой.",
+    "en": "The results can be interpreted in light of the theory.",
+    "mn_latin": "Ür düng onoltoi kholbogduulan tailbarlakh bolomjtoi."
+   },
+   {
+    "mn": "Дүгнэлтийн талаар арай болгоомжтой хандах нь зүйтэй.",
+    "en": "It is advisable to be somewhat cautious about the conclusion.",
+    "mn_latin": "Dügneltiin talaar arai bolgoomjtoi khandakh ni züitei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ сэдвийн ___ би товч тайлбарлая.",
+   "answer": "талаар",
+   "options": [
+    "талаар",
+    "тулд",
+    "хойно",
+    "шиг"
+   ],
+   "translation": "Let me briefly explain this topic.",
+   "explain_en": "Талаар after a genitive noun means 'about, concerning'.",
+   "explain_mn": "Харьяалахын тийн ялгалтай нэрийн дараа «талаар» нь «тухай» гэсэн утга өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Үр дүнг онолтой ___ тайлбарлав.",
+   "answer": "холбогдуулан",
+   "options": [
+    "холбогдуулан",
+    "холбогдож",
+    "холбоотой",
+    "холбосон"
+   ],
+   "translation": "The results were explained in connection with the theory.",
+   "explain_en": "Холбогдуулан takes the comitative -тай and means 'in connection with'.",
+   "explain_mn": "«Холбогдуулан» нь хамтрах тийн ялгалын «-тай» нөхцөлтэй нэрийн дараа орж «-тай холбоотойгоор» гэсэн утга өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Цаашдын судалгаанд өргөн түүвэр ашиглах ___ зүйтэй.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "аас",
+    "руу",
+    "тай"
+   ],
+   "translation": "It is advisable to use a broader sample in future research.",
+   "explain_en": "Нь marks the nominalized verb phrase as the subject: ашиглах нь.",
+   "explain_mn": "«Ашиглах» гэсэн үйлт нэрийн дараах «нь» нь уг хэллэгийг өгүүлбэрийн эзэн болгоно."
+  },
+  {
+   "lang": "en",
+   "text": "The results ___ that the effect is stronger in cities.",
+   "answer": "suggest",
+   "options": [
+    "suggest",
+    "speak",
+    "swear",
+    "insist on"
+   ],
+   "translation": "Үр дүн нь нөлөө хотод илүү хүчтэй байгааг харуулж байна.",
+   "explain_en": "Suggest is a hedged reporting verb that takes a that-clause; the other options don't fit grammatically here.",
+   "explain_mn": "«Suggest» нь that-өгүүлбэр авдаг болгоомжилсон мэдээлэх үйл үг; бусад хувилбар энд дүрмийн хувьд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I'd like to ___ what I meant by 'sample'.",
+   "answer": "clarify",
+   "options": [
+    "clarify",
+    "object",
+    "agree",
+    "contribute"
+   ],
+   "translation": "Би «түүвэр» гэдгээр юу хэлснээ тодруулмаар байна.",
+   "explain_en": "Clarify means to make something clearer.",
+   "explain_mn": "«Clarify» нь тодруулах гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "It could be ___ that the sample was too small.",
+   "answer": "argued",
+   "options": [
+    "argued",
+    "arguing",
+    "argue",
+    "argues"
+   ],
+   "translation": "Түүвэр хэт жижиг байсан гэж маргаж болно.",
+   "explain_en": "Passive 'could be argued' is a standard hedge: modal + be + past participle.",
+   "explain_mn": "«could be + V3» гэсэн үйлдэгдэхүйн хэв (модаль үйл үг + be + өнгөрсөн цагийн нэр үйл) нь болгоомжилсон хэллэгийн түгээмэл хэлбэр юм."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Миний судалгаа хөдөөнөөс хот руу чиглэсэн шилжилт хөдөлгөөний талаар юм.",
+   "en": "My research is about migration from the countryside to the city.",
+   "mn_latin": "Minii sudalgaa khödöönöös khot ruu chiglesen shiljilt khödölgöönii talaar yum."
+  },
+  {
+   "speaker": "Professor Hall",
+   "mn": "Таны дүгнэлт түүврийн хэмжээнд хэт тулгуурласан юм биш үү?",
+   "en": "Isn't your conclusion relying too much on the sample size?",
+   "mn_latin": "Tany dügnelt tüüvriin khemjeend khet tulguurlasan yum bish üü?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тодруулж асууя: та хязгаарлалтын талаар асууж байна уу?",
+   "en": "To clarify, are you asking about the limitations?",
+   "mn_latin": "Todruulj asuuya: ta khyazgaarlaltyn talaar asuuj baina uu?"
+  },
+  {
+   "speaker": "Professor Hall",
+   "mn": "Тийм ээ. Үр дүнг бусад аймагтай холбогдуулан ерөнхийлж болох уу?",
+   "en": "Yes. Can the results be generalized in relation to other provinces?",
+   "mn_latin": "Tiim ee. Ür düng busad aimagtai kholbogduulan yerönkhiilj bolokh uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Үр дүн нь тийм боломж байгааг харуулж байгаа ч болгоомжтой хандах хэрэгтэй.",
+   "en": "The results suggest that it is possible, but we should be cautious.",
+   "mn_latin": "Ür dün ni tiim bolomj baigaag kharuulj baigaa ch bolgoomjtoi khandakh kheregtei."
+  },
+  {
+   "speaker": "Professor Hall",
+   "mn": "Таны судалгааны хувь нэмрийг та юу гэж үзэж байна вэ?",
+   "en": "What do you consider the contribution of your study to be?",
+   "mn_latin": "Tany sudalgaany khuvi nemriig ta yuu gej üzej baina ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Шилжилт хөдөлгөөний шалтгааны талаар шинэ өгөгдөл өгсөн гэж үзэж байна.",
+   "en": "I would argue that it provides new data on the causes of migration.",
+   "mn_latin": "Shiljilt khödölgöönii shaltgaany talaar shine ögögdöl ögsön gej üzej baina."
+  },
+  {
+   "speaker": "Professor Hall",
+   "mn": "Баярлалаа. Цаашдын судалгаа сонирхолтой байх болно.",
+   "en": "Thank you. Future research will be interesting.",
+   "mn_latin": "Bayarlalaa. Tsaashdyn sudalgaa sonirkholtoi baikh bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian universities, a thesis defense (хамгаалалт) is a formal public event with a panel (комисс) and often the supervisor's review. Candidates address the panel respectfully with «та» and thank the supervisor at the start or end. Modesty and careful hedging are valued, so claims are often framed as «гэж үзэж байна» ('I consider').",
+  "mn": "Монголын их, дээд сургуульд диссертаци хамгаалах (хамгаалалт) нь комисс оролцдог албан ёсны нийтийн арга хэмжээ бөгөөд удирдагч багшийн үнэлгээ ихэвчлэн сонсогддог. Хамгаалагч комисстой «та» гэж хүндэтгэлтэй харьцаж, эхэнд эсвэл төгсгөлд удирдагч багшдаа талархал илэрхийлдэг. Даруу байдал, болгоомжтой хэллэг эрхэмлэгддэг тул дүгнэлтээ «гэж үзэж байна» гэх мэтээр илэрхийлдэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 13,
+  "notes": "Mostly good; fixed Latin script in an example, unnatural 'байж болох талтай', 'боддог' alt, and an awkward dialogue line."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 20,
+  "notes": "Main problems: mismatched grammar explanations, fill-blanks with more than one correct option, a Latin-letter typo, and unnatural Mongolian in the dialogue.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "'likes nouns over verbs' is unnatural English"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn version described different content (English verbs); must match en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "translation",
+    "why": "'explain about' is unnatural English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "typo with Latin letters ('хамтepx'); garbled wording"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "awkward wording"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'prove' is also grammatical, so the answer was not the only correct option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "updated to match the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "updated to match the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'defend what I meant' is also possible"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "wrongly called it a participle (өө) form; it is the passive"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "үнэтэй = expensive; standard word is үнэ цэнэтэй"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "'may well ... as well' is clumsy"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "standard spelling is хүсэж"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "unnatural word order; the attributive form is талаарх"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "ablative is хөдөөнөөс; 'руу нүүдлийн' is ungrammatical; нүүдэл means nomadic movement"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'асуултыг тодруулахын тулд асууя' is awkward"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'тийм боломжтойг' is ungrammatical"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "mn says 'your study's contribution'"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "нүүдэл means nomadic movement, not rural-urban migration"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "added 'at the start or end' and the term хамгаалалт to match en"
+   }
+  ]
+ }
+}

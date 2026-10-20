@@ -1,0 +1,117 @@
+{
+ "intro_en": "You will learn to talk about paintings and sculpture in a gallery, and to describe artworks with the Mongolian participles -сан and -даг and with English past participle clauses like 'a painting created in 1950'.",
+ "intro_mn": "Та галерейд зураг, баримлын тухай ярьж сурна. Мөн монгол хэлний -сан, -даг үйлт нэр болон англи хэлний 'a painting created in 1950' шиг өнгөрсөн цагийн үйлт нэртэй бүтцийг ашиглан уран бүтээлийг дүрслэх болно.",
+ "vocab": [
+  {
+   "mn": "зураг",
+   "en": "painting; picture",
+   "pos": "noun",
+   "example_mn": "Энэ зураг маш гоё байна.",
+   "example_en": "This painting is very beautiful.",
+   "mn_latin": "zurag"
+  },
+  {
+   "mn": "зураач",
+   "en": "painter; artist",
+   "pos": "noun",
+   "example_mn": "Тэр алдартай зураач.",
+   "example_en": "He is a famous painter.",
+   "mn_latin": "zuraach"
+  },
+  {
+   "mn": "холст",
+   "en": "canvas",
+   "pos": "noun",
+   "example_mn": "Зураач том холст дээр зурсан.",
+   "example_en": "The artist painted on a large canvas.",
+   "mn_latin": "kholst"
+  },
+  {
+   "mn": "бийрийн зураас",
+   "en": "brushstroke",
+   "pos": "noun",
+   "example_mn": "Энэ зурагт бийрийн тод зураас их байна.",
+   "example_en": "This painting has many bold brushstrokes.",
+   "mn_latin": "biiriin zuraas"
+  },
+  {
+   "mn": "өнгө",
+   "en": "color",
+   "pos": "noun",
+   "example_mn": "Энэ зургийн өнгөнүүд тод байна.",
+   "example_en": "The colors of this painting are bright.",
+   "mn_latin": "öngö"
+  },
+  {
+   "mn": "цуглуулга",
+   "en": "collection",
+   "pos": "noun",
+   "example_mn": "Музейн цуглуулгад олон зураг бий.",
+   "example_en": "The museum's collection has many paintings.",
+   "mn_latin": "tsugluulga"
+  },
+  {
+   "mn": "баримал",
+   "en": "sculpture",
+   "pos": "noun",
+   "example_mn": "Хүрэл баримал хаалганы өмнө байна.",
+   "example_en": "The bronze sculpture is in front of the door.",
+   "mn_latin": "barimal"
+  },
+  {
+   "mn": "хийсвэр",
+   "en": "abstract",
+   "pos": "adjective",
+   "example_mn": "Би хийсвэр урлагт дуртай.",
+   "example_en": "I like abstract art.",
+   "mn_latin": "khiisver"
+  },
+  {
+   "mn": "уламжлалт",
+   "en": "traditional",
+   "pos": "adjective",
+   "example_mn": "Уламжлалт зургууд байгалийг дүрсэлдэг.",
+   "example_en": "Traditional paintings depict nature.",
+   "mn_latin": "ulamjlalt"
+  },
+  {
+   "mn": "үзэсгэлэн",
+   "en": "exhibition",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр шинэ үзэсгэлэн нээгдлээ.",
+   "example_en": "A new exhibition opened today.",
+   "mn_latin": "üzesgelen"
+  }
+ ],
+ "sentences": [],
+ "review": {
+  "rating": 5,
+  "fixes": 6,
+  "notes": "Vocab entry 3 was corrupted (Latin text and 'x' placeholders) and needed replacing. Number agreement in two examples was fixed, and the Mongolian intro terminology was improved. The sentences list is empty."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "The main error was the non-word 'сойл' for brushstroke. The Mongolian intro also had an inaccurate grammar term; the rest is correct and natural.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "mn",
+    "why": "'сойл' is not a Mongolian word; a brushstroke is бийрийн зураас"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "Replaces the non-word 'сойл' with бийрийн зураас"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'сул үйлт өгүүлбэр' is not a real grammar term; this now matches 'past participle clauses'"
+   }
+  ]
+ }
+}

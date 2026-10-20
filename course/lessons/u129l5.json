@@ -1,0 +1,397 @@
+{
+ "intro_en": "In this lesson you will practice finding someone's lost item, asking who it belongs to, and returning it. You'll learn Mongolian possessive nouns with -ынх (минийх, таных, ахынх) and soft descriptive endings like -втар and -дуу (улаавтар, жижигдүү).",
+ "intro_mn": "Энэ хичээлээр та хэн нэгний гээсэн эд зүйлийг олоод эзнийг нь тодруулж, буцааж өгөх тухай ярьж сурна. Англи хэлний mine, yours, theirs гэх эзэмшлийн төлөөний үг болон олон тоо, нийлмэл нэр дээр 's залгах (the students' dorm, my parents-in-law's car) дүрмийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "эзэн",
+   "en": "owner",
+   "pos": "noun",
+   "example_mn": "Энэ цүнхний эзэн хэн бэ?",
+   "example_en": "Who is the owner of this bag?",
+   "mn_latin": "ezen"
+  },
+  {
+   "mn": "буцааж өгөх",
+   "en": "to return, to give back",
+   "pos": "verb",
+   "example_mn": "Би утсыг эзэнд нь буцааж өгсөн.",
+   "example_en": "I returned the phone to its owner.",
+   "mn_latin": "butsaaj ögökh"
+  },
+  {
+   "mn": "минийх",
+   "en": "mine",
+   "pos": "pronoun",
+   "example_mn": "Энэ хар малгай минийх.",
+   "example_en": "This black hat is mine.",
+   "mn_latin": "miniikh"
+  },
+  {
+   "mn": "таных",
+   "en": "yours (polite)",
+   "pos": "pronoun",
+   "example_mn": "Энэ түлхүүр таных уу?",
+   "example_en": "Is this key yours?",
+   "mn_latin": "tanykh"
+  },
+  {
+   "mn": "тэднийх",
+   "en": "theirs",
+   "pos": "pronoun",
+   "example_mn": "Тэр машин тэднийх биш.",
+   "example_en": "That car isn't theirs.",
+   "mn_latin": "tedniikh"
+  },
+  {
+   "mn": "таних",
+   "en": "to recognize",
+   "pos": "verb",
+   "example_mn": "Би түрийвчээ шууд таньсан.",
+   "example_en": "I recognized my wallet right away.",
+   "mn_latin": "tanikh"
+  },
+  {
+   "mn": "нотлох",
+   "en": "to prove",
+   "pos": "verb",
+   "example_mn": "Та таных гэдгийг нотолж чадах уу?",
+   "example_en": "Can you prove it's yours?",
+   "mn_latin": "notlokh"
+  },
+  {
+   "mn": "жижигдүү",
+   "en": "a bit smaller, smallish",
+   "pos": "adjective",
+   "example_mn": "Минийх жаахан жижигдүү.",
+   "example_en": "Mine is a little smaller.",
+   "mn_latin": "jijigdüü"
+  },
+  {
+   "mn": "хөхөвтөр",
+   "en": "bluish",
+   "pos": "adjective",
+   "example_mn": "Хөхөвтөр өнгийн шүхэр олдлоо.",
+   "example_en": "A bluish umbrella was found.",
+   "mn_latin": "khökhövtör"
+  },
+  {
+   "mn": "хуучивтар",
+   "en": "oldish, a bit worn",
+   "pos": "adjective",
+   "example_mn": "Энэ хуучивтар цүнх эмээгийнх.",
+   "example_en": "This oldish bag is Grandma's.",
+   "mn_latin": "khuuchivtar"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ цүнх таных уу, эсвэл таны найзынх уу?",
+   "en": "Is this bag yours or your friend's?",
+   "alt_mn": [
+    "Энэ цүнх таных уу, таны найзынх уу?"
+   ],
+   "alt_en": [
+    "Is this bag yours, or does it belong to your friend?"
+   ],
+   "mn_latin": "Ene tsünkh tanykh uu, esvel tany naizynkh uu?"
+  },
+  {
+   "mn": "Үгүй, минийх биш. Минийх жаахан томдуу, хар өнгөтэй.",
+   "en": "No, it's not mine. Mine is a bit bigger and black.",
+   "alt_mn": [
+    "Үгүй ээ, минийх биш. Минийх арай томдуу, хар өнгөтэй."
+   ],
+   "alt_en": [
+    "No, that's not mine. Mine is a little bigger, and it's black."
+   ],
+   "mn_latin": "Ügüi, miniikh bish. Miniikh jaakhan tomduu, khar öngötei."
+  },
+  {
+   "mn": "Энэ түлхүүр оюутнуудын дотуур байрных байх.",
+   "en": "This key is probably from the students' dorm.",
+   "alt_mn": [
+    "Энэ түлхүүр оюутны дотуур байрных байх."
+   ],
+   "alt_en": [
+    "This key probably belongs to the students' dorm."
+   ],
+   "mn_latin": "Ene tülkhüür oyuutnuudyn dotuur bairnykh baikh."
+  },
+  {
+   "mn": "Эзнийг нь олохын тулд би утсыг нь асаагаад сүүлийн дуудлагыг шалгасан.",
+   "en": "To find the owner, I turned the phone on and checked the last call.",
+   "alt_mn": [],
+   "alt_en": [
+    "I turned on the phone and checked the last call to find its owner."
+   ],
+   "mn_latin": "Ezniig ni olokhyn tuld bi utsyg ni asaagaad süüliin duudlagyg shalgasan."
+  },
+  {
+   "mn": "Энэ машин миний хадам аав ээжийнх.",
+   "en": "This is my parents-in-law's car.",
+   "alt_mn": [],
+   "alt_en": [
+    "This car is my parents-in-law's.",
+    "This car belongs to my parents-in-law."
+   ],
+   "mn_latin": "Ene mashin minii khadam aav eejiinkh."
+  },
+  {
+   "mn": "Хөхөвтөр өнгийн малгай таных байж магадгүй гэж бодлоо.",
+   "en": "I thought the bluish hat might be yours.",
+   "alt_mn": [
+    "Хөхөвтөр малгай таных байж магадгүй гэж бодсон."
+   ],
+   "alt_en": [
+    "I thought the bluish hat could be yours."
+   ],
+   "mn_latin": "Khökhövtör öngiin malgai tanykh baij magadgüi gej bodloo."
+  },
+  {
+   "mn": "Эмээгийнх шиг хуучивтар хар цүнх автобусанд үлдсэн байсан.",
+   "en": "An oldish black bag like Grandma's had been left on the bus.",
+   "alt_mn": [],
+   "alt_en": [
+    "Someone had left a slightly worn black bag like Grandma's on the bus."
+   ],
+   "mn_latin": "Emeegiinkh shig khuuchivtar khar tsünkh avtobusand üldsen baisan."
+  },
+  {
+   "mn": "Таных гэдгийг нотлох зүйл байна уу? Жишээ нь, дотор нь юу байгааг хэлж чадах уу?",
+   "en": "Can you prove it's yours? For example, can you tell me what's inside?",
+   "alt_mn": [],
+   "alt_en": [
+    "Do you have anything that proves it's yours? For example, can you say what's inside?"
+   ],
+   "mn_latin": "Tanykh gedgiig notlokh züil baina uu? Jishee ni, dotor ni yuu baigaag khelj chadakh uu?"
+  },
+  {
+   "mn": "Бид түрийвчийг эзэнд нь буцааж өгөхөд тэр маш их баярласан.",
+   "en": "When we returned the wallet to its owner, he was really happy.",
+   "alt_mn": [
+    "Бид түрийвчийг эзэнд нь буцааж өгсөн, тэр маш их баярласан."
+   ],
+   "alt_en": [
+    "We gave the wallet back to its owner, and he was very happy."
+   ],
+   "mn_latin": "Bid türiivchiig ezend ni butsaaj ögökhöd ter mash ikh bayarlasan."
+  },
+  {
+   "mn": "Энэ шүхэр тэднийх биш, тэднийх жаахан уртдуу.",
+   "en": "This umbrella isn't theirs; theirs is a little longer.",
+   "alt_mn": [
+    "Энэ шүхэр тэднийх биш ээ, тэднийх арай уртдуу."
+   ],
+   "alt_en": [
+    "This umbrella isn't theirs. Theirs is a bit longer."
+   ],
+   "mn_latin": "Ene shükher tedniikh bish, tedniikh jaakhan urtduu."
+  },
+  {
+   "mn": "Би таныг үнэмлэх дээрх зургаар тань таньсан.",
+   "en": "I recognized you from the photo on your ID.",
+   "alt_mn": [
+    "Би таныг үнэмлэх дээрх зургаас таньсан."
+   ],
+   "alt_en": [
+    "I recognized you from your ID photo."
+   ],
+   "mn_latin": "Bi tanyg ünemlekh deerkh zurgaar tani tanisan."
+  },
+  {
+   "mn": "Хүүхдүүдийн өрөөнөөс олдсон цамц Болдын дүүгийнх юм байна.",
+   "en": "The shirt found in the kids' room turned out to be Bold's little brother's.",
+   "alt_mn": [],
+   "alt_en": [
+    "The shirt we found in the children's room belongs to Bold's younger brother."
+   ],
+   "mn_latin": "Khüükhdüüdiin öröönöös oldson tsamts Boldyn düügiinkh yum baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Mongolian -ынх (\"the one belonging to\") and soft descriptions with -втар / -дуу",
+  "title_mn": "Англи хэлний эзэмшлийн төлөөний үг (mine, yours, theirs) ба олон тоо, нийлмэл нэр дээрх 's",
+  "explain_en": "In Mongolian, add -х to the genitive to make a possessive noun meaning \"the one belonging to…\": миний (my) → минийх (mine), таны → таных (yours), тэдний → тэднийх (theirs), ахын → ахынх (my older brother's), эмээгийн → эмээгийнх (Grandma's). Use it when the object isn't repeated: Энэ цүнх Болдынх. (This bag is Bold's.) Note that -ынх can also mean someone's home: ахынх руу явлаа (I went to my brother's place). For softer, more careful descriptions, add -втар/-втэр/-втор/-втөр (\"-ish, rather\"): улаавтар (reddish), хөхөвтөр (bluish), хуучивтар (oldish). Use -дуу/-дүү for \"a bit more\": томдуу (a bit bigger), жижигдүү (a bit smaller). Both endings follow vowel harmony.",
+  "explain_mn": "Англи хэлэнд \"минийх, таных, тэднийх\" гэдгийг mine, yours, his, hers, ours, theirs гэж хэлнэ. Эдгээрийн ард нэр үг тавьдаггүй: This bag is mine. (my bag гэвэл my хэрэглэнэ.) Хүний нэр, нэр үгийн эзэмшлийг 's-ээр илэрхийлнэ: Bold's bag. Олон тооны -s-ээр төгссөн үгэнд зөвхөн тэмдэг (') залгана: the students' dorm (оюутнуудын байр). Харин -s-гүй олон тоонд 's залгана: the children's room. Нийлмэл нэрэнд 's-ийг хамгийн сүүлийн үгэнд нь залгана: my parents-in-law's car, my sister-in-law's phone. Анхаар: your's, their's гэж хэзээ ч бичдэггүй!",
+  "examples": [
+   {
+    "mn": "Энэ үзэг минийх биш, багшийнх.",
+    "en": "This pen isn't mine; it's the teacher's.",
+    "mn_latin": "Ene üzeg miniikh bish, bagshiinkh."
+   },
+   {
+    "mn": "Оюутнуудын дотуур байр их сургуулийн ард байдаг.",
+    "en": "The students' dorm is behind the university.",
+    "mn_latin": "Oyuutnuudyn dotuur bair ikh surguuliin ard baidag."
+   },
+   {
+    "mn": "Миний хадам аав ээжийн машин улаавтар өнгөтэй.",
+    "en": "My parents-in-law's car is a reddish color.",
+    "mn_latin": "Minii khadam aav eejiin mashin ulaavtar öngötei."
+   },
+   {
+    "mn": "Таных жаахан жижигдүү юм шиг байна.",
+    "en": "Yours seems to be a little smaller.",
+    "mn_latin": "Tanykh jaakhan jijigdüü yum shig baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ үзэг Сараа___ уу?",
+   "answer": "гийнх",
+   "options": [
+    "гийнх",
+    "гийн",
+    "ынх",
+    "д"
+   ],
+   "translation": "Is this pen Saraa's?",
+   "explain_en": "Сараа ends in a long vowel, so the genitive is Сараагийн; adding -х gives Сараагийнх, \"Saraa's (one)\". Plain -гийн would need a noun after it.",
+   "explain_mn": "Англиар \"Saraa's\" гэж 's залгаад, ард нь pen гэж давтах шаардлагагүй. Монголоор урт эгшгээр төгссөн тул -гийнх залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Минийх биш, минийх жаахан жижиг___.",
+   "answer": "дүү",
+   "options": [
+    "дүү",
+    "дуу",
+    "тэй",
+    "ээс"
+   ],
+   "translation": "It's not mine; mine is a little smaller.",
+   "explain_en": "-дуу/-дүү means \"a bit more\". жижиг contains only the vowel и, and such words take front (feminine) suffixes, so vowel harmony requires -дүү, not -дуу.",
+   "explain_mn": "Англиар \"a little smaller\" гэж харьцуулах зэргийн -er хэрэглэнэ: small → smaller."
+  },
+  {
+   "lang": "mn",
+   "text": "Түүний цүнх улаа___ өнгөтэй.",
+   "answer": "втар",
+   "options": [
+    "втар",
+    "втэр",
+    "втор",
+    "дүү"
+   ],
+   "translation": "Her bag is a reddish color.",
+   "explain_en": "-втар means \"-ish\". улаан has back vowels (а), so the a-variant -втар is correct: улаавтар, \"reddish\".",
+   "explain_mn": "Англиар өнгөний нэрэнд -ish залгаж \"арай, -втар\" гэсэн утга гаргана: red → reddish, blue → bluish."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ coats are hanging in the hall.",
+   "answer": "children's",
+   "options": [
+    "children's",
+    "childrens'",
+    "childrens",
+    "children"
+   ],
+   "translation": "Хүүхдүүдийн хүрэм хонгилд өлгөөтэй байна.",
+   "explain_en": "Children is an irregular plural without -s, so you add 's: children's.",
+   "explain_mn": "children нь -s-гүй олон тоо тул ард нь 's залгана. childrens' гэж бичвэл буруу."
+  },
+  {
+   "lang": "en",
+   "text": "Is this phone ___? — Yes, it's mine, thank you!",
+   "answer": "yours",
+   "options": [
+    "yours",
+    "your",
+    "you're",
+    "your's"
+   ],
+   "translation": "Энэ утас таных уу? — Тийм ээ, минийх, баярлалаа!",
+   "explain_en": "With no noun after it, you need the possessive pronoun yours. Possessive pronouns never take an apostrophe.",
+   "explain_mn": "Ард нь нэр үг байхгүй тул \"таных\" гэсэн утгатай yours хэрэглэнэ. your-ийн ард заавал нэр үг ирнэ (your phone). your's гэсэн хэлбэр байдаггүй."
+  },
+  {
+   "lang": "en",
+   "text": "We found the keys in my ___ car.",
+   "answer": "parents-in-law's",
+   "options": [
+    "parents-in-law's",
+    "parent's-in-law",
+    "parents'-in-law",
+    "parents-in-laws'"
+   ],
+   "translation": "Бид түлхүүрийг миний хадам аав ээжийн машинаас олсон.",
+   "explain_en": "In compound nouns, 's goes at the very end of the whole compound: parents-in-law's.",
+   "explain_mn": "Нийлмэл нэрэнд 's-ийг хамгийн сүүлийн үгэнд залгана: parents-in-law's. Олон тоо нь parents хэсэгт, 's нь төгсгөлд байна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anar",
+   "mn": "Уучлаарай, энэ хөхөвтөр шүхэр таных уу? Сандал дээр үлдсэн байсан.",
+   "en": "Excuse me, is this bluish umbrella yours? It was left on the chair.",
+   "mn_latin": "Uuchlaarai, ene khökhövtör shükher tanykh uu? Sandal deer üldsen baisan."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Үгүй ээ, минийх биш. Минийх хар, жаахан томдуу. Магадгүй тэр хоёр оюутных байх.",
+   "en": "No, it's not mine. Mine is black and a bit bigger. Maybe it's those two students'.",
+   "mn_latin": "Ügüi ee, miniikh bish. Miniikh khar, jaakhan tomduu. Magadgüi ter khoyor oyuutnykh baikh."
+  },
+  {
+   "speaker": "Anar",
+   "mn": "Тэд саяхан гараад явчихсан. Бас энэ хуучивтар түрийвч олдлоо. Дотор нь үнэмлэх байна.",
+   "en": "They just left. I also found this oldish wallet. There's an ID inside.",
+   "mn_latin": "Ted sayakhan garaad yavchikhsan. Bas ene khuuchivtar türiivch oldloo. Dotor ni ünemlekh baina."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Хөөх, энэ миний хамт ажилладаг Болдынх байна! Зургаар нь шууд таньлаа.",
+   "en": "Wow, this belongs to Bold, my coworker! I recognized him right away from the photo.",
+   "mn_latin": "Khöökh, ene minii khamt ajilladag Boldynkh baina! Zurgaar ni shuud tanilaa."
+  },
+  {
+   "speaker": "Anar",
+   "mn": "Үнэхээр үү? Тэгвэл та эзэнд нь буцааж өгч чадах уу?",
+   "en": "Really? Then could you return it to its owner?",
+   "mn_latin": "Ünekheer üü? Tegvel ta ezend ni butsaaj ögch chadakh uu?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тэгье. Би түүнд одоо залгая, тэр маш их баярлах байх.",
+   "en": "Sure. I'll call him now. He'll be really happy.",
+   "mn_latin": "Tegiye. Bi tüünd odoo zalgaya, ter mash ikh bayarlakh baikh."
+  },
+  {
+   "speaker": "Anar",
+   "mn": "Шүхрийг харин кафены ажилтанд үлдээе. Оюутнууд эргэж ирж магадгүй.",
+   "en": "As for the umbrella, let's leave it with the café staff. The students might come back.",
+   "mn_latin": "Shükhriig kharin kafyeny ajiltand üldeeye. Oyuutnuud ergej irj magadgüi."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Сайн санаа. Та их сайхан сэтгэлтэй хүн юм аа.",
+   "en": "Good idea. You're a really kind person.",
+   "mn_latin": "Sain sanaa. Ta ikh saikhan setgeltei khün yum aa."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, people often post photos of found items, especially ID cards and wallets, in large Facebook groups, hoping the owner or someone who knows them will see it. Bus and taxi drivers often hand found items to their company office or the police. Many owners thank the finder with a small reward or a gift, although finders often politely refuse it.",
+  "mn": "Улаанбаатарт олдсон эд зүйл, ялангуяа иргэний үнэмлэх, түрийвчийн зургийг томоохон Фэйсбүүк группт нийтэлж, эзэн нь эсвэл түүнийг таних хүн харах байх гэж найддаг. Автобус, таксины жолооч нар олдсон зүйлийг ихэвчлэн компанийн оффис эсвэл цагдаад хүлээлгэж өгдөг. Эзэд нь олсон хүнд бага хэмжээний шагнал, бэлгээр талархлаа илэрхийлэх нь элбэг ч олсон хүн ихэвчлэн эелдгээр татгалздаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, natural lesson. The fixes are a wrong suffix variant in the grammar explanation, one awkward grammar example, and an imprecise vowel-harmony explanation."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is in good shape. The Mongolian forms, vowel harmony, fill-in-the-blank answers and options, and the culture note all check out; only one awkward English line needed a fix.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "\"this is Bold's, my coworker's\" is awkward, unnatural English"
+   }
+  ]
+ }
+}

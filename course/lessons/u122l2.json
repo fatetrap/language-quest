@@ -1,0 +1,414 @@
+{
+ "intro_en": "In this lesson you will learn how to promise to return things you borrowed, like a book or a phone charger, and how to talk about deadlines and being late. You will also use the Mongolian helper verb -аад өгөх to say you will do something for someone.",
+ "intro_mn": "Энэ хичээлээр та зээлж авсан ном, цэнэглэгчээ буцааж өгнө гэж амлах, мөн хугацаа, хоцрох тухай англиар ярьж сурна. Мөн англи хэлний хоёр тусагдахуунтай үйл үгийг (give me the book / give the book to me) судална.",
+ "vocab": [
+  {
+   "mn": "буцааж авчрах",
+   "en": "to bring back",
+   "pos": "verb",
+   "example_mn": "Номыг маргааш буцааж авчирна.",
+   "example_en": "I'll bring the book back tomorrow.",
+   "mn_latin": "butsaaj avchrakh"
+  },
+  {
+   "mn": "буцааж өгөх",
+   "en": "to give back, to return",
+   "pos": "verb",
+   "example_mn": "Мөнгийг чинь баасан гарагт буцааж өгье.",
+   "example_en": "I'll give your money back on Friday.",
+   "mn_latin": "butsaaj ögökh"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "deadline, time period",
+   "pos": "noun",
+   "example_mn": "Номыг буцаах хугацаа нь даваа гараг.",
+   "example_en": "The deadline to return the book is Monday.",
+   "mn_latin": "khugatsaa"
+  },
+  {
+   "mn": "хоцрох",
+   "en": "to be late",
+   "pos": "verb",
+   "example_mn": "Би номоо буцаахдаа хоёр хоног хоцорсон.",
+   "example_en": "I was two days late returning my book.",
+   "mn_latin": "khotsrokh"
+  },
+  {
+   "mn": "хугацаа хэтэрсэн",
+   "en": "overdue",
+   "pos": "adjective phrase",
+   "example_mn": "Надад хугацаа хэтэрсэн хоёр ном байна.",
+   "example_en": "I have two overdue books.",
+   "mn_latin": "khugatsaa khetersen"
+  },
+  {
+   "mn": "цэнэглэгч",
+   "en": "charger",
+   "pos": "noun",
+   "example_mn": "Таны цэнэглэгчийг түр авч болох уу?",
+   "example_en": "Could I borrow your charger for a bit?",
+   "mn_latin": "tseneglegch"
+  },
+  {
+   "mn": "амлах",
+   "en": "to promise",
+   "pos": "verb",
+   "example_mn": "Би маргааш авчирна гэж амласан.",
+   "example_en": "I promised to bring it tomorrow.",
+   "mn_latin": "amlakh"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine (penalty)",
+   "pos": "noun",
+   "example_mn": "Хоцорвол торгууль төлнө.",
+   "example_en": "If you're late, you pay a fine.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "сунгах",
+   "en": "to extend",
+   "pos": "verb",
+   "example_mn": "Хугацааг нь нэг долоо хоногоор сунгаж болно.",
+   "example_en": "You can extend it by one week.",
+   "mn_latin": "sungakh"
+  },
+  {
+   "mn": "мартах",
+   "en": "to forget",
+   "pos": "verb",
+   "example_mn": "Цэнэглэгчээ гэртээ мартчихжээ.",
+   "example_en": "I left my charger at home.",
+   "mn_latin": "martakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Таны цэнэглэгчийг маргааш өглөө ажил дээр авчраад өгье.",
+   "en": "I'll bring your charger to work tomorrow morning.",
+   "alt_mn": [
+    "Таны цэнэглэгчийг маргааш өглөө ажил дээр авчирч өгье."
+   ],
+   "alt_en": [
+    "I'll bring you your charger at work tomorrow morning."
+   ],
+   "mn_latin": "Tany tseneglegchiig margaash öglöö ajil deer avchraad ögiye."
+  },
+  {
+   "mn": "Уучлаарай, таны номыг буцааж өгөхөө мартчихлаа.",
+   "en": "Sorry, I forgot to give your book back.",
+   "alt_mn": [
+    "Уучлаарай, таны номыг буцааж өгөхөө мартжээ."
+   ],
+   "alt_en": [
+    "I'm sorry, I forgot to return your book.",
+    "Sorry, I forgot to give you back your book."
+   ],
+   "mn_latin": "Uuchlaarai, tany nomyg butsaaj ögökhöö martchikhlaa."
+  },
+  {
+   "mn": "Номын сангийн номыг буцаах хугацаа өнөөдөр дуусна.",
+   "en": "The deadline to return the library book is today.",
+   "alt_mn": [
+    "Номын сангийн номыг өнөөдөр буцаах ёстой."
+   ],
+   "alt_en": [
+    "The library book is due today."
+   ],
+   "mn_latin": "Nomyn sangiin nomyg butsaakh khugatsaa önöödör duusna."
+  },
+  {
+   "mn": "Хоёр хоног хоцорсон тул бага зэрэг торгууль төлөх болсон.",
+   "en": "Because I was two days late, I had to pay a small fine.",
+   "alt_mn": [
+    "Хоёр хоног хоцорсон болохоор бага зэрэг торгууль төлсөн."
+   ],
+   "alt_en": [
+    "I was two days late, so I had to pay a small fine."
+   ],
+   "mn_latin": "Khoyor khonog khotsorson tul baga zereg torguuli tölökh bolson."
+  },
+  {
+   "mn": "Хугацааг нь нэг долоо хоногоор сунгаж болох уу?",
+   "en": "Could I extend it by one week?",
+   "alt_mn": [
+    "Хугацааг нь долоо хоногоор сунгаж болох уу?"
+   ],
+   "alt_en": [
+    "Can I extend it by a week?",
+    "Is it possible to extend it by one week?"
+   ],
+   "mn_latin": "Khugatsaag ni neg doloo khonogoor sungaj bolokh uu?"
+  },
+  {
+   "mn": "Би түүнд маргааш заавал буцааж авчирна гэж амласан.",
+   "en": "I promised him I would definitely bring it back tomorrow.",
+   "alt_mn": [
+    "Би түүнд маргааш заавал авчирч өгнө гэж амласан."
+   ],
+   "alt_en": [
+    "I promised her I would definitely bring it back tomorrow.",
+    "I promised him I'd bring it back tomorrow for sure."
+   ],
+   "mn_latin": "Bi tüünd margaash zaaval butsaaj avchirna gej amlasan."
+  },
+  {
+   "mn": "Хэрэв танд яаралтай хэрэгтэй бол өнөө орой гэрт тань хүргээд өгье.",
+   "en": "If you need it urgently, I'll drop it off at your place tonight.",
+   "alt_mn": [
+    "Хэрэв танд яаралтай хэрэгтэй бол өнөө орой гэрт тань хүргэж өгье."
+   ],
+   "alt_en": [
+    "If you need it urgently, I'll bring it to your house tonight."
+   ],
+   "mn_latin": "Kherev tand yaaraltai kheregtei bol önöö oroi gert tani khürgeed ögiye."
+  },
+  {
+   "mn": "Тэр надад номоо гурван хоногоор зээлүүлсэн.",
+   "en": "She lent me her book for three days.",
+   "alt_mn": [],
+   "alt_en": [
+    "He lent me his book for three days.",
+    "She lent her book to me for three days."
+   ],
+   "mn_latin": "Ter nadad nomoo gurvan khonogoor zeelüülsen."
+  },
+  {
+   "mn": "Миний оронд энэ тайланг хийгээд өгөөч, би чамд кофе авч өгье.",
+   "en": "Could you do this report for me? I'll buy you a coffee.",
+   "alt_mn": [
+    "Энэ тайланг миний оронд хийгээд өгөөч, би чамд кофе авч өгье."
+   ],
+   "alt_en": [
+    "Please do this report for me, and I'll buy you a coffee."
+   ],
+   "mn_latin": "Minii orond ene tailang khiigeed ögööch, bi chamd kofye avch ögiye."
+  },
+  {
+   "mn": "Хугацаа хэтэрсэн номоо буцааж өгөхгүй бол шинэ ном авч чадахгүй.",
+   "en": "If you don't return your overdue books, you can't check out new ones.",
+   "alt_mn": [
+    "Хугацаа хэтэрсэн номоо буцааж өгөхгүй бол шинэ ном авах боломжгүй."
+   ],
+   "alt_en": [
+    "You can't borrow new books until you return your overdue ones."
+   ],
+   "mn_latin": "Khugatsaa khetersen nomoo butsaaj ögökhgüi bol shine nom avch chadakhgüi."
+  },
+  {
+   "mn": "Би таны цэнэглэгчийг ширээн дээр тань тавиад өгсөн шүү.",
+   "en": "I left your charger on your desk for you.",
+   "alt_mn": [
+    "Би таны цэнэглэгчийг ширээн дээр тань тавьчихсан шүү."
+   ],
+   "alt_en": [
+    "I put your charger on your desk for you."
+   ],
+   "mn_latin": "Bi tany tseneglegchiig shireen deer tani taviad ögsön shüü."
+  },
+  {
+   "mn": "Ээж надад цүнхээ өгөөд, дэлгүүрээс талх авчраад өгөөч гэлээ.",
+   "en": "My mom gave me her bag and asked me to bring her some bread from the store.",
+   "alt_mn": [
+    "Ээж надад цүнхээ өгчихөөд, дэлгүүрээс талх авчраад өгөөч гэсэн."
+   ],
+   "alt_en": [
+    "Mom handed me her bag and asked me to get her some bread from the store."
+   ],
+   "mn_latin": "Eej nadad tsünkhee ögööd, delgüürees talkh avchraad ögööch gelee."
+  }
+ ],
+ "grammar": {
+  "title_en": "Doing something for someone: -аад өгөх",
+  "title_mn": "Хоёр тусагдахуунтай үйл үг: give me the book / give the book to me",
+  "explain_en": "In Mongolian, you can add өгөх (\"to give\") after a verb in the -аад/-ээд/-оод/-өөд form to show you are doing the action for someone else. Авчрах means \"to bring\", but авчраад өгье means \"I'll bring it (for you)\". Хийгээд өгөх means \"to do or make something for someone\". The person who benefits takes the dative ending -д/-т: надад (for me), танд (for you). For requests, use -аад өгөөч: Уншаад өгөөч! \"Please read it to me!\" You will also hear -ж өгөх (хийж өгөх) with the same meaning.",
+  "explain_mn": "Англи хэлэнд give, lend, bring, send, buy зэрэг үйл үг хоёр тусагдахуунтай байж болно: юм, хүн. Хоёр янзаар хэлнэ: 1) хүн + юм: Give me the book. 2) юм + to/for + хүн: Give the book to me. Хүнийг эхэнд нь хэлбэл to хэрэглэхгүй. Буруу: Give to me the book. Buy, make, cook зэрэг үйл үгийн хувьд for хэрэглэнэ: She made khuushuur for me. Харин юм нь it, them гэсэн төлөөний үг бол ихэвчлэн хоёр дахь хэлбэрийг хэрэглэнэ: Give it to me (Give me it гэж бараг хэлдэггүй).",
+  "examples": [
+   {
+    "mn": "Маргааш авчраад өгье.",
+    "en": "I'll bring it to you tomorrow.",
+    "mn_latin": "Margaash avchraad ögiye."
+   },
+   {
+    "mn": "Энэ захидлыг надад уншаад өгөөч.",
+    "en": "Could you read me this letter?",
+    "mn_latin": "Ene zakhidlyg nadad unshaad ögööch."
+   },
+   {
+    "mn": "Ээж надад хуушуур хийгээд өгсөн.",
+    "en": "Mom made me khuushuur. / Mom made khuushuur for me.",
+    "mn_latin": "Eej nadad khuushuur khiigeed ögsön."
+   },
+   {
+    "mn": "Тэр надад номоо зээлүүлсэн.",
+    "en": "She lent me her book. / She lent her book to me.",
+    "mn_latin": "Ter nadad nomoo zeelüülsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Маргааш таны номыг авчр___ өгье.",
+   "answer": "аад",
+   "options": [
+    "аад",
+    "сан",
+    "вал",
+    "на"
+   ],
+   "translation": "I'll bring your book to you tomorrow.",
+   "explain_en": "To say you'll do something for someone, use the -аад form of the verb followed by өгөх: авчраад өгье, \"I'll bring it for you.\"",
+   "explain_mn": "Хэн нэгэнд зориулж үйлдэл хийхийг -аад өгөх хэлбэрээр илэрхийлнэ: авчраад өгье. Харин -сан, -вал, -на нь өгөх туслах үйл үгтэй ингэж холбогддоггүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Номыг буцааж өгөх ___ өнөөдөр дуусна.",
+   "answer": "хугацаа",
+   "options": [
+    "хугацаа",
+    "торгууль",
+    "цэнэглэгч",
+    "амлалт"
+   ],
+   "translation": "The deadline to return the book is today.",
+   "explain_en": "Хугацаа means \"deadline\" or \"time period\". A deadline is something that \"ends\" (дуусна), so хугацаа is the only word that fits here.",
+   "explain_mn": "\"Дуусна\" гэдэгтэй утгаараа зохицох үг нь \"хугацаа\". Англиар бол deadline буюу due date гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Өчигдөр би хуралд арван минут ___.",
+   "answer": "хоцорсон",
+   "options": [
+    "хоцорсон",
+    "хоцрохоор",
+    "хоцорч",
+    "хоцорвол"
+   ],
+   "translation": "Yesterday I was ten minutes late for the meeting.",
+   "explain_en": "Өчигдөр (yesterday) needs the past tense ending -сан/-сон. Хоцрох becomes хоцорсон: the vowel о comes back before the ending.",
+   "explain_mn": "Өчигдөр гэсэн учраас өнгөрсөн цаг хэрэгтэй. Англиар \"I was late\" гэж be үйл үгийг өнгөрсөн цагаар хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Could you give ___ the charger back after lunch?",
+   "answer": "me",
+   "options": [
+    "me",
+    "to me",
+    "my",
+    "I"
+   ],
+   "translation": "Цайны дараа цэнэглэгчийг надад буцааж өгч болох уу?",
+   "explain_en": "When the person comes right after give, there's no \"to\": give me the charger. Use the object pronoun \"me\", not \"I\" or \"my\".",
+   "explain_mn": "Хүн нь give-ийн яг ард байвал to хэрэглэхгүй: give me the charger. \"Надад\" гэдэг нь энд объектын төлөөний үг me болно."
+  },
+  {
+   "lang": "en",
+   "text": "She lent her notes ___ me before the exam.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "at",
+    "from"
+   ],
+   "translation": "Тэр шалгалтын өмнө надад тэмдэглэлээ зээлүүлсэн.",
+   "explain_en": "When the thing (her notes) comes first, the person needs \"to\": lend something to someone.",
+   "explain_mn": "Юм нь (her notes) эхэнд байвал хүний өмнө to тавина: lend something to someone. Lend нь \"зээлүүлэх\", borrow нь \"зээлж авах\" гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "My library book is ___, so I have to pay a fine.",
+   "answer": "overdue",
+   "options": [
+    "overdue",
+    "borrowed",
+    "extended",
+    "returned"
+   ],
+   "translation": "Номын сангийн номын маань хугацаа хэтэрсэн тул торгууль төлөх ёстой.",
+   "explain_en": "\"Overdue\" means past the deadline. That's the reason you pay a fine. \"Extended\" or \"returned\" would mean no fine.",
+   "explain_mn": "Overdue = хугацаа хэтэрсэн. Торгууль төлөх шалтгаан нь энэ. Extended (сунгасан), returned (буцаасан) бол торгууль төлөхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэмүүлэн, чамд утасны цэнэглэгч байна уу? Утас маань бараг унтарлаа.",
+   "en": "Temuulen, do you have a phone charger? My phone's almost dead.",
+   "mn_latin": "Temüülen, chamd utasny tseneglegch baina uu? Utas maani barag untarlaa."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Байгаа, ав. Гэхдээ орой гэртээ авч явах хэрэгтэй шүү.",
+   "en": "Yeah, here. But I need to take it home tonight.",
+   "mn_latin": "Baigaa, av. Gekhdee oroi gertee avch yavakh kheregtei shüü."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Мэдээж. Ажил тарахаас өмнө буцааж өгье. Бас нэг юм: өнгөрсөн сард чамаас авсан номоо одоо болтол өгөөгүй байна.",
+   "en": "Of course. I'll give it back before we finish work. And one more thing: I still haven't returned the book I borrowed from you last month.",
+   "mn_latin": "Medeej. Ajil tarakhaas ömnö butsaaj ögiye. Bas neg yum: öngörsön sard chamaas avsan nomoo odoo boltol ögöögüi baina."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Ха ха, би бүр мартчихсан байсан. Яарах хэрэггүй.",
+   "en": "Ha ha, I totally forgot about it. There's no rush.",
+   "mn_latin": "Kha kha, bi bür martchikhsan baisan. Yaarakh khereggüi."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Үгүй ээ, хэтэрхий удчихлаа. Маргааш заавал авчраад өгье.",
+   "en": "No, it's been way too long. I'll definitely bring it to you tomorrow.",
+   "mn_latin": "Ügüi ee, kheterkhii udchikhlaa. Margaash zaaval avchraad ögiye."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "За за. Харин чи номын сангийн номоо буцаасан уу? Хугацаа нь өчигдөр байсан шиг санагдаж байна.",
+   "en": "Okay. But did you return your library book? I think it was due yesterday.",
+   "mn_latin": "Za za. Kharin chi nomyn sangiin nomoo butsaasan uu? Khugatsaa ni öchigdör baisan shig sanagdaj baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Өө, үгүй! Хоцорчихлоо. Торгууль төлөх нь дээ.",
+   "en": "Oh no! I'm late. I'll have to pay a fine.",
+   "mn_latin": "Öö, ügüi! Khotsorchikhloo. Torguuli tölökh ni dee."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Санаа зоволтгүй, нэг хоногийн торгууль их биш байх.",
+   "en": "Don't worry, a one-day fine probably isn't much.",
+   "mn_latin": "Sanaa zovoltgüi, neg khonogiin torguuli ikh bish baikh."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, it's traditional not to return a borrowed bowl, plate, or container empty. People usually put something inside, like candy, cookies, or a little food, as a sign of thanks and good fortune. Returning things on time and in good condition is also seen as a matter of personal trust, and the saying \"Зээлсэн юм зээрийн хурдаар\" (borrowed things should come back as fast as a gazelle) reminds people not to delay.",
+  "mn": "Монголчууд зээлж авсан аяга, таваг, савыг хоосон буцааж өгдөггүй заншилтай. Талархал, сайн сайхныг бэлгэдэж дотор нь чихэр, жигнэмэг эсвэл бага зэрэг хоол хийж өгдөг. Мөн зээлсэн юмаа хугацаанд нь, бүтэн бүрэн буцааж өгөх нь итгэлийн асуудал гэж үздэг бөгөөд \"Зээлсэн юм зээрийн хурдаар\" гэдэг үг хойшлуулж болохгүйг сануулдаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 0,
+  "notes": "No real errors found. The Mongolian and English are natural and accurate in both directions, the -аад өгөх and double-object explanations are correct, and each fill-in-the-blank has only one valid option among its choices."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "Mostly clean; removed one alternative with a shifted meaning and fixed an unnatural collocation in a fill-in item.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'bring back to work' adds a meaning (again/return) that the Mongolian doesn't have"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "'хуралд хоцрох' is the natural collocation, not 'хурал дээр хоцрох'"
+   }
+  ]
+ }
+}

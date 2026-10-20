@@ -1,0 +1,464 @@
+{
+ "intro_en": "You will learn how to answer the phone, say who you are, and ask to speak to someone in Mongolian and English. You will also learn useful words for talking about phone problems.",
+ "intro_mn": "Та утсаа авах, өөрийгөө танилцуулах, хэн нэгэнтэй ярихыг хүсэх аргыг монгол, англиар сурна. Мөн утасны асуудлын талаар ярихад хэрэгтэй үгсийг сурна.",
+ "vocab": [
+  {
+   "mn": "утас",
+   "en": "phone",
+   "pos": "noun",
+   "example_mn": "Миний утас шинэ.",
+   "example_en": "My phone is new.",
+   "mn_latin": "utas"
+  },
+  {
+   "mn": "дугаар",
+   "en": "number",
+   "pos": "noun",
+   "example_mn": "Таны утасны дугаар хэд вэ?",
+   "example_en": "What is your phone number?",
+   "mn_latin": "dugaar"
+  },
+  {
+   "mn": "залгах",
+   "en": "to call",
+   "pos": "verb",
+   "example_mn": "Би маргааш залгана.",
+   "example_en": "I will call tomorrow.",
+   "mn_latin": "zalgakh"
+  },
+  {
+   "mn": "хариулах",
+   "en": "to answer",
+   "pos": "verb",
+   "example_mn": "Тэр утсандаа хариулсангүй.",
+   "example_en": "He did not answer his phone.",
+   "mn_latin": "khariulakh"
+  },
+  {
+   "mn": "сонсогдох",
+   "en": "to be heard, to be audible",
+   "pos": "verb",
+   "example_mn": "Сайн сонсогдохгүй байна.",
+   "example_en": "I can't hear you well.",
+   "mn_latin": "sonsogdokh"
+  },
+  {
+   "mn": "ярих",
+   "en": "to talk, to speak",
+   "pos": "verb",
+   "example_mn": "Би багштай ярихыг хүсч байна.",
+   "example_en": "I want to talk to the teacher.",
+   "mn_latin": "yarikh"
+  },
+  {
+   "mn": "хүлээх",
+   "en": "to wait",
+   "pos": "verb",
+   "example_mn": "Түр хүлээгээрэй.",
+   "example_en": "Please wait a moment.",
+   "mn_latin": "khüleekh"
+  },
+  {
+   "mn": "буруу",
+   "en": "wrong",
+   "pos": "adjective",
+   "example_mn": "Та буруу дугаарт залгасан байна.",
+   "example_en": "You have called the wrong number.",
+   "mn_latin": "buruu"
+  },
+  {
+   "mn": "дуудлага",
+   "en": "call",
+   "pos": "noun",
+   "example_mn": "Надад дуудлага ирлээ.",
+   "example_en": "I got a call.",
+   "mn_latin": "duudlaga"
+  },
+  {
+   "mn": "хэн",
+   "en": "who",
+   "pos": "pronoun",
+   "example_mn": "Хэн залгаж байна вэ?",
+   "example_en": "Who is calling?",
+   "mn_latin": "khen"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сайн байна уу, хэн залгаж байна вэ?",
+   "en": "Hello, who is calling?",
+   "alt_mn": [
+    "Байна уу, хэн залгаж байна вэ?"
+   ],
+   "alt_en": [
+    "Hello, who is this?",
+    "Hello, who's calling?"
+   ],
+   "mn_latin": "Sain baina uu, khen zalgaj baina ve?"
+  },
+  {
+   "mn": "Сайн байна уу, би Болд байна.",
+   "en": "Hello, this is Bold.",
+   "alt_mn": [
+    "Байна уу, Болд байна."
+   ],
+   "alt_en": [
+    "Hello, it's Bold."
+   ],
+   "mn_latin": "Sain baina uu, bi Bold baina."
+  },
+  {
+   "mn": "Сарнайтай ярьж болох уу?",
+   "en": "Can I speak to Sarnai?",
+   "alt_mn": [],
+   "alt_en": [
+    "May I speak to Sarnai?",
+    "Could I talk to Sarnai?"
+   ],
+   "mn_latin": "Sarnaitai yarij bolokh uu?"
+  },
+  {
+   "mn": "Түр хүлээгээрэй.",
+   "en": "Please wait a moment.",
+   "alt_mn": [
+    "Түр хүлээнэ үү."
+   ],
+   "alt_en": [
+    "Hold on a second.",
+    "One moment, please."
+   ],
+   "mn_latin": "Tür khüleegeerei."
+  },
+  {
+   "mn": "Таны утасны дугаар хэд вэ?",
+   "en": "What is your phone number?",
+   "alt_mn": [
+    "Таны дугаар хэд вэ?"
+   ],
+   "alt_en": [
+    "What's your number?"
+   ],
+   "mn_latin": "Tany utasny dugaar khed ve?"
+  },
+  {
+   "mn": "Би чам руу маргааш залгая.",
+   "en": "I will call you tomorrow.",
+   "alt_mn": [
+    "Би чамд маргааш залгая."
+   ],
+   "alt_en": [
+    "Let me call you tomorrow.",
+    "I'll call you tomorrow."
+   ],
+   "mn_latin": "Bi cham ruu margaash zalgaya."
+  },
+  {
+   "mn": "Уучлаарай, сайн сонсогдохгүй байна.",
+   "en": "Sorry, I can't hear you well.",
+   "alt_mn": [
+    "Уучлаарай, сонсогдохгүй байна."
+   ],
+   "alt_en": [
+    "Sorry, I can't hear you.",
+    "Sorry, it doesn't sound clear."
+   ],
+   "mn_latin": "Uuchlaarai, sain sonsogdokhgüi baina."
+  },
+  {
+   "mn": "Та буруу дугаарт залгасан байна.",
+   "en": "You have called the wrong number.",
+   "alt_mn": [
+    "Та буруу дугаар руу залгасан байна."
+   ],
+   "alt_en": [
+    "You have the wrong number."
+   ],
+   "mn_latin": "Ta buruu dugaart zalgasan baina."
+  },
+  {
+   "mn": "Тэр утсаа авахгүй байна.",
+   "en": "He is not answering his phone.",
+   "alt_mn": [
+    "Тэр утсандаа хариулахгүй байна."
+   ],
+   "alt_en": [
+    "He isn't picking up his phone."
+   ],
+   "mn_latin": "Ter utsaa avakhgüi baina."
+  },
+  {
+   "mn": "Миний утас дуугарч байна.",
+   "en": "My phone is ringing.",
+   "alt_mn": [
+    "Утас минь дуугарч байна."
+   ],
+   "alt_en": [
+    "My phone's ringing."
+   ],
+   "mn_latin": "Minii utas duugarch baina."
+  },
+  {
+   "mn": "Дахиад нэг удаа хэлээч.",
+   "en": "Please say it one more time.",
+   "alt_mn": [
+    "Дахиад нэг хэлнэ үү."
+   ],
+   "alt_en": [
+    "Say that again, please.",
+    "Could you repeat that?"
+   ],
+   "mn_latin": "Dakhiad neg udaa kheleech."
+  },
+  {
+   "mn": "Багш одоо хурал дээр байна.",
+   "en": "The teacher is in a meeting now.",
+   "alt_mn": [
+    "Багш одоо хурал дээр байгаа."
+   ],
+   "alt_en": [
+    "The teacher is at a meeting right now."
+   ],
+   "mn_latin": "Bagsh odoo khural deer baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Answering the phone: «Байна уу?» and «Би ... байна»",
+  "title_mn": "Утсаар ярих нь: «Байна уу?» ба «Би ... байна»",
+  "explain_en": "In Mongolian, people often pick up the phone with «Байна уу?» or «Сайн байна уу?». To say who you are, use «Би + name + байна»: «Би Болд байна.» To ask for someone, add the comitative ending -тай/-тэй/-той (\"with\") to the name and use «ярьж болох уу?»: «Сарнайтай ярьж болох уу?» (Can I speak with Sarnai?). Choose the ending by vowel harmony: Болдтой, Сарнайтай, Бат-Эрдэнэтэй. To say \"I'll call\" use «залгая»: «Би залгая.»",
+  "explain_mn": "Англиар утсаар хариулахдаа “Hello?” гэж хэлнэ. Өөрийгөө танилцуулахдаа “I am Bold” гэж биш, “This is Bold.” гэнэ. Хэн нэгэнтэй ярихыг хүсэхдээ “Can I speak to Sarnai?” гэнэ. “Who is calling?” нь «Хэн залгаж байна вэ?» гэсэн утгатай. Монгол “-тай” дагавар англиар ихэвчлэн “to/with” гэж орчуулагдана.",
+  "examples": [
+   {
+    "mn": "Байна уу? Би Болд байна.",
+    "en": "Hello? This is Bold.",
+    "mn_latin": "Baina uu? Bi Bold baina."
+   },
+   {
+    "mn": "Сарнайтай ярьж болох уу?",
+    "en": "Can I speak to Sarnai?",
+    "mn_latin": "Sarnaitai yarij bolokh uu?"
+   },
+   {
+    "mn": "Баттай ярьж болох уу?",
+    "en": "Can I speak to Bat?",
+    "mn_latin": "Battai yarij bolokh uu?"
+   },
+   {
+    "mn": "Би дараа залгая.",
+    "en": "I'll call later.",
+    "mn_latin": "Bi daraa zalgaya."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Сайн байна уу, хэн ___ байна вэ?",
+   "answer": "залгаж",
+   "options": [
+    "залгаж",
+    "залгасан",
+    "хариулж",
+    "сонсож"
+   ],
+   "translation": "Hello, who is calling?",
+   "explain_en": "«Хэн залгаж байна вэ?» means \"Who is calling?\" The present continuous is verb stem + -ж байна.",
+   "explain_mn": "“Who is calling?” гэдгийг «Хэн залгаж байна вэ?» гэнэ. Үйл үгийн үндэс + -ж байна нь үргэлжилж буй үйлийг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Сарнай___ ярьж болох уу?",
+   "answer": "тай",
+   "options": [
+    "тай",
+    "той",
+    "тэй",
+    "аас"
+   ],
+   "translation": "Can I speak to Sarnai?",
+   "explain_en": "Сарнай has an «а» vowel, so the \"with\" ending is -тай by vowel harmony.",
+   "explain_mn": "Сарнай гэдэг үгэнд «а» эгшиг байгаа тул эгшгийн зохицлоор -тай залгавар орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Уучлаарай, сайн ___ байна.",
+   "answer": "сонсогдохгүй",
+   "options": [
+    "сонсогдохгүй",
+    "хариулахгүй",
+    "залгахгүй",
+    "хүлээхгүй"
+   ],
+   "translation": "Sorry, I can't hear you well.",
+   "explain_en": "«Сонсогдохгүй байна» means the sound is not coming through clearly (\"can't be heard\").",
+   "explain_mn": "«Сонсогдохгүй байна» гэдэг нь дуу тод сонсогдохгүй байна гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Hello, ___ is Bold. Can I speak to Sarnai?",
+   "answer": "this",
+   "options": [
+    "this",
+    "I",
+    "here",
+    "he"
+   ],
+   "translation": "Сайн байна уу, би Болд байна. Сарнайтай ярьж болох уу?",
+   "explain_en": "On the phone English uses \"this is + name\" to introduce yourself.",
+   "explain_mn": "Англиар утсаар “This is Bold” гэж өөрийгөө танилцуулна. “I am Bold” гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Can I ___ to the teacher, please?",
+   "answer": "speak",
+   "options": [
+    "speak",
+    "say",
+    "tell",
+    "answer"
+   ],
+   "translation": "Багштай ярьж болох уу?",
+   "explain_en": "We say \"speak to\" someone on the phone.",
+   "explain_mn": "Англиар “speak to somebody” гэж хэн нэгэнтэй ярихыг хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I'm sorry, you have the ___ number.",
+   "answer": "wrong",
+   "options": [
+    "wrong",
+    "bad",
+    "false",
+    "other"
+   ],
+   "translation": "Уучлаарай, та буруу дугаарт залгасан байна.",
+   "explain_en": "\"Wrong number\" is the fixed phrase for a mistaken call.",
+   "explain_mn": "Буруу дугаарт залгасныг англиар “wrong number” гэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Байна уу? Би Болд байна. Сарнайтай ярьж болох уу?",
+   "en": "Hello? This is Bold. Can I speak to Sarnai?",
+   "mn_latin": "Baina uu? Bi Bold baina. Sarnaitai yarij bolokh uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн уу, Болд оо. Би Сарнай байна.",
+   "en": "Hi, Bold. This is Sarnai.",
+   "mn_latin": "Sain uu, Bold oo. Bi Sarnai baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн уу. Чи одоо завтай юу?",
+   "en": "Hi. Do you have time now?",
+   "mn_latin": "Sain uu. Chi odoo zavtai yuu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Уучлаарай, сайн сонсогдохгүй байна.",
+   "en": "Sorry, I can't hear you well.",
+   "mn_latin": "Uuchlaarai, sain sonsogdokhgüi baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Одоо сонсогдож байна уу?",
+   "en": "Can you hear me now?",
+   "mn_latin": "Odoo sonsogdoj baina uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм, одоо сонсогдож байна.",
+   "en": "Yes, I can hear you now.",
+   "mn_latin": "Tiim, odoo sonsogdoj baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Маргааш хамт кофе уух уу?",
+   "en": "Shall we have coffee together tomorrow?",
+   "mn_latin": "Margaash khamt kofye uukh uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "За, тэгье. Би чамд орой залгая.",
+   "en": "Sounds good. I'll call you this evening.",
+   "mn_latin": "Za, tegiye. Bi chamd oroi zalgaya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, people often answer the phone with «Байна уу?» or «Сайн байна уу?», and then say their name. Calls are common even for short messages, and people may call a relative or friend in the countryside just to check on them. It is polite to greet first and ask «Одоо ярьж болох уу?» (Is it okay to talk now?).",
+  "mn": "Монголд утсаа авахдаа ихэвчлэн «Байна уу?» эсвэл «Сайн байна уу?» гэж хэлээд нэрээ хэлдэг. Богино зүйл хэлэх гэж ч утсаар залгах нь түгээмэл бөгөөд хөдөө байгаа хамаатан, найзтайгаа зүгээр л мэнд мэдэхээр залгадаг. Эхлээд мэндлээд «Одоо ярьж болох уу?» гэж асуувал эелдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 23,
+  "notes": "Mostly good, but the vocab example for 'to answer' is ungrammatical, the 'ярья' example mistranslates, the English 'I am Bold' alternative is unnatural, one alt_en contradicts its main sentence, and the Mongolian grammar title is in English."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Fixed wrong alternatives, a non-unique blank, register and naturalness in the dialogue, a spelling error, and en/mn mismatches.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'утсаар хариулах' means 'reply by phone', not 'answer the phone'; 'хэлэх хэрэгтэй үгс' is awkward"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "Example should use the headword хариулах"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "Alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "дуудах means 'summon', not 'phone'"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "Alternative was an unrelated sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Spelling: орчуляагдана → орчуулагдана"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'it' ('Hello, it's Bold') is also correct, so the answer was not unique"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "Keeps the informal register consistent with чи"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "'Сайн байна' is not natural for 'Sounds good'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The mn version was missing the 'short messages' point and did not match the en"
+   }
+  ]
+ }
+}

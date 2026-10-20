@@ -1,0 +1,402 @@
+{
+ "intro_en": "In this lesson you will learn to compare statistics across years and regions, such as Ulaanbaatar vs. the aimags or 2010 vs. 2020. You will use the key Mongolian pattern -тай харьцуулахад and expressions like өмнөх оныг бодвол, харьцангуй, ялгаа and зөрүү.",
+ "intro_mn": "Энэ хичээлээр та статистик тоо баримтыг он, бүс нутгаар (Улаанбаатар ба аймгууд, 2010 ба 2020 он) харьцуулж сурна. Мөн англи хэлний compared with/to, whereas, twice as high as, the gap between гэсэн хэллэгүүдийг эзэмшинэ.",
+ "vocab": [
+  {
+   "mn": "харьцуулахад",
+   "en": "compared with / compared to",
+   "pos": "converb (used as postposition)",
+   "example_mn": "Улаанбаатартай харьцуулахад аймгуудад байрны үнэ хямд.",
+   "example_en": "Compared with Ulaanbaatar, apartment prices are lower in the aimags.",
+   "mn_latin": "kharitsuulakhad"
+  },
+  {
+   "mn": "өмнөх оныг бодвол",
+   "en": "compared with the previous year",
+   "pos": "phrase",
+   "example_mn": "Өмнөх оныг бодвол ажилгүйдэл буурсан.",
+   "example_en": "Compared with the previous year, unemployment has fallen.",
+   "mn_latin": "ömnökh onyg bodvol"
+  },
+  {
+   "mn": "харьцангуй",
+   "en": "relatively",
+   "pos": "adverb",
+   "example_mn": "Энэ аймагт төрөлтийн түвшин харьцангуй өндөр байна.",
+   "example_en": "The birth rate in this aimag is relatively high.",
+   "mn_latin": "kharitsangui"
+  },
+  {
+   "mn": "ялгаа",
+   "en": "difference",
+   "pos": "noun",
+   "example_mn": "Хоёр бүсийн хооронд мэдэгдэхүйц ялгаа ажиглагдаж байна.",
+   "example_en": "A noticeable difference can be seen between the two regions.",
+   "mn_latin": "yalgaa"
+  },
+  {
+   "mn": "зөрүү",
+   "en": "gap; discrepancy",
+   "pos": "noun",
+   "example_mn": "Цалингийн зөрүү жилээс жилд нэмэгдэж байна.",
+   "example_en": "The wage gap is growing year by year.",
+   "mn_latin": "zörüü"
+  },
+  {
+   "mn": "хоёр дахин",
+   "en": "twice; two times",
+   "pos": "adverb",
+   "example_mn": "Нийслэлд дундаж цалин зарим аймгийнхаас хоёр дахин өндөр.",
+   "example_en": "In the capital, the average salary is twice as high as in some aimags.",
+   "mn_latin": "khoyor dakhin"
+  },
+  {
+   "mn": "харин",
+   "en": "whereas; while; but",
+   "pos": "conjunction",
+   "example_mn": "Хотод хүн ам өссөн, харин хөдөөд буурсан.",
+   "example_en": "The population grew in the city, whereas it declined in the countryside.",
+   "mn_latin": "kharin"
+  },
+  {
+   "mn": "үзүүлэлт",
+   "en": "indicator; figure",
+   "pos": "noun",
+   "example_mn": "Эдийн засгийн үзүүлэлтүүд сайжирсан.",
+   "example_en": "The economic indicators have improved.",
+   "mn_latin": "üzüülelt"
+  },
+  {
+   "mn": "бүс нутаг",
+   "en": "region",
+   "pos": "noun",
+   "example_mn": "Зүүн бүс нутагт хүн ам сийрэг.",
+   "example_en": "The population is sparse in the eastern region.",
+   "mn_latin": "büs nutag"
+  },
+  {
+   "mn": "хувь",
+   "en": "percent; share",
+   "pos": "noun",
+   "example_mn": "Хариулагчдын жаран хувь нь санал нийлсэн.",
+   "example_en": "Sixty percent of respondents agreed.",
+   "mn_latin": "khuvi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "2010 онтой харьцуулахад нийслэлийн хүн ам мэдэгдэхүйц өссөн.",
+   "en": "Compared with 2010, the capital's population has grown significantly.",
+   "alt_mn": [
+    "2010 оныг бодвол нийслэлийн хүн ам мэдэгдэхүйц өссөн."
+   ],
+   "alt_en": [
+    "Compared to 2010, the population of the capital has increased significantly."
+   ],
+   "mn_latin": "2010 ontoi kharitsuulakhad niisleliin khün am medegdekhüits össön."
+  },
+  {
+   "mn": "Улаанбаатартай харьцуулахад аймгуудад ажилгүйдлийн түвшин харьцангуй өндөр байна.",
+   "en": "Compared with Ulaanbaatar, the unemployment rate is relatively high in the aimags.",
+   "alt_mn": [
+    "Аймгуудад ажилгүйдлийн түвшин Улаанбаатартай харьцуулахад харьцангуй өндөр байна."
+   ],
+   "alt_en": [
+    "Compared to Ulaanbaatar, unemployment is relatively high in the aimags."
+   ],
+   "mn_latin": "Ulaanbaatartai kharitsuulakhad aimguudad ajilgüidliin tüvshin kharitsangui öndör baina."
+  },
+  {
+   "mn": "Өмнөх оныг бодвол экспортын хэмжээ арав орчим хувиар буурсан.",
+   "en": "Compared with the previous year, exports fell by about ten percent.",
+   "alt_mn": [
+    "Өмнөх онтой харьцуулахад экспортын хэмжээ арав орчим хувиар буурсан."
+   ],
+   "alt_en": [
+    "Compared to the year before, exports dropped by around ten percent."
+   ],
+   "mn_latin": "Ömnökh onyg bodvol eksportyn khemjee arav orchim khuviar buursan."
+  },
+  {
+   "mn": "Нийслэлд дундаж цалин зарим аймгийнхаас бараг хоёр дахин өндөр байна.",
+   "en": "In the capital, the average salary is almost twice as high as in some aimags.",
+   "alt_mn": [],
+   "alt_en": [
+    "The average salary in the capital is nearly twice as high as in some aimags."
+   ],
+   "mn_latin": "Niisleld dundaj tsalin zarim aimgiinkhaas barag khoyor dakhin öndör baina."
+  },
+  {
+   "mn": "Хот, хөдөөгийн хоорондох зөрүү сүүлийн арван жилд улам нэмэгдсэн.",
+   "en": "The gap between urban and rural areas has widened further over the last ten years.",
+   "alt_mn": [
+    "Сүүлийн арван жилд хот, хөдөөгийн хоорондох зөрүү улам нэмэгдсэн."
+   ],
+   "alt_en": [
+    "Over the past decade, the gap between the city and the countryside has grown even wider."
+   ],
+   "mn_latin": "Khot, khödöögiin khoorondokh zörüü süüliin arvan jild ulam nemegdsen."
+  },
+  {
+   "mn": "Улаанбаатарт хүн ам өссөн, харин баруун аймгуудад буурсан.",
+   "en": "The population grew in Ulaanbaatar, whereas it declined in the western aimags.",
+   "alt_mn": [],
+   "alt_en": [
+    "The population increased in Ulaanbaatar, while it decreased in the western aimags."
+   ],
+   "mn_latin": "Ulaanbaatart khün am össön, kharin baruun aimguudad buursan."
+  },
+  {
+   "mn": "Хоёр судалгааны үр дүнгийн ялгаа тийм ч их биш.",
+   "en": "The difference between the results of the two surveys is not that big.",
+   "alt_mn": [],
+   "alt_en": [
+    "There isn't much difference between the results of the two surveys."
+   ],
+   "mn_latin": "Khoyor sudalgaany ür düngiin yalgaa tiim ch ikh bish."
+  },
+  {
+   "mn": "2020 оны үзүүлэлтийг 2010 оныхтой харьцуулахад тодорхой ахиц харагдаж байна.",
+   "en": "When you compare the 2020 figures with those from 2010, clear progress can be seen.",
+   "alt_mn": [],
+   "alt_en": [
+    "Compared with the 2010 figures, the 2020 figures show clear progress."
+   ],
+   "mn_latin": "2020 ony üzüüleltiig 2010 onykhtoi kharitsuulakhad todorkhoi akhits kharagdaj baina."
+  },
+  {
+   "mn": "Эрэгтэйчүүдтэй харьцуулахад эмэгтэйчүүдийн дунд дээд боловсролтой хүмүүсийн хувь өндөр.",
+   "en": "Compared with men, the share of people with higher education is higher among women.",
+   "alt_mn": [],
+   "alt_en": [
+    "Compared to men, a larger share of women have a higher education."
+   ],
+   "mn_latin": "Eregteichüüdtei kharitsuulakhad emegteichüüdiin dund deed bolovsroltoi khümüüsiin khuvi öndör."
+  },
+  {
+   "mn": "Энэ зөрүүг зөвхөн шилжилт хөдөлгөөнөөр тайлбарлах боломжгүй.",
+   "en": "This gap cannot be explained by migration alone.",
+   "alt_mn": [],
+   "alt_en": [
+    "Migration alone cannot explain this gap."
+   ],
+   "mn_latin": "Ene zörüüg zövkhön shiljilt khödölgöönöör tailbarlakh bolomjgüi."
+  },
+  {
+   "mn": "Хөдөөгийн өрхүүд хотын өрхүүдтэй харьцуулахад орлогынхоо илүү их хувийг хүнсэнд зарцуулдаг.",
+   "en": "Compared with urban households, rural households spend a larger share of their income on food.",
+   "alt_mn": [],
+   "alt_en": [
+    "Rural households spend a bigger share of their income on food compared to urban households."
+   ],
+   "mn_latin": "Khödöögiin örkhüüd khotyn örkhüüdtei kharitsuulakhad orlogynkhoo ilüü ikh khuviig khünsend zartsuuldag."
+  },
+  {
+   "mn": "Бүс нутгуудын хоорондын ялгааг багасгах нь бодлогын гол зорилт байх ёстой.",
+   "en": "Reducing the differences between regions should be a key policy goal.",
+   "alt_mn": [],
+   "alt_en": [
+    "Narrowing regional differences should be a main policy objective."
+   ],
+   "mn_latin": "Büs nutguudyn khoorondyn yalgaag bagasgakh ni bodlogyn gol zorilt baikh yostoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Comparing with -тай/-тэй/-той харьцуулахад and өмнөх оныг бодвол",
+  "title_mn": "Англи хэлээр харьцуулах: compared with/to, whereas, twice as ... as, the gap between",
+  "explain_en": "The main Mongolian pattern for 'compared with X' is X + comitative ending + харьцуулахад. The ending follows vowel harmony: -тай after words with а/у (Улаанбаатартай), -тэй after words with э/ө/ү (хөдөөтэй, эрэгтэйчүүдтэй), -той after words with о (2010 онтой, хоттой). An alternative is X in the accusative + бодвол: өмнөх оныг бодвол 'compared with the previous year'. To say 'twice as high as X', put X in the ablative (-аас/-ээс/-оос/-өөс) and add хоёр дахин: аймгийнхаас хоёр дахин өндөр. The suffix -ынх/-ийнх means 'that of' (оныхтой 'with that of the year'). Use харин to contrast two clauses, like English 'whereas'.",
+  "explain_mn": "Англи хэлэнд \"-тай харьцуулахад\" гэдгийг compared with эсвэл compared to гэж илэрхийлнэ: Compared with 2010, ... Хоёр өгүүлбэрийг эсрэгцүүлэхдээ whereas эсвэл while хэрэглэнэ (\"харин\"-тай адил): Prices rose in the city, whereas they fell in the countryside. \"Хоёр дахин өндөр\" гэдгийг twice as high as гэнэ. Энд as ... as бүтцийн дунд тэмдэг нэрийн энгийн хэлбэр (high) орно, higher биш! \"Хоорондох зөрүү\" гэдгийг the gap between X and Y гэж хэлнэ. Хоёр зүйлийн хувьд between, олон зүйлийн хувьд among хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Улаанбаатартай харьцуулахад Эрдэнэт хот жижиг.",
+    "en": "Compared with Ulaanbaatar, Erdenet is a small city.",
+    "mn_latin": "Ulaanbaatartai kharitsuulakhad Erdenet khot jijig."
+   },
+   {
+    "mn": "Өмнөх оныг бодвол инфляци буурсан.",
+    "en": "Compared with the previous year, inflation has fallen.",
+    "mn_latin": "Ömnökh onyg bodvol inflyatsi buursan."
+   },
+   {
+    "mn": "Хотод үнэ өссөн, харин хөдөөд бараг өөрчлөгдөөгүй.",
+    "en": "Prices rose in the city, whereas they barely changed in the countryside.",
+    "mn_latin": "Khotod üne össön, kharin khödööd barag öörchlögdöögüi."
+   },
+   {
+    "mn": "Хот, хөдөөгийн хоорондох зөрүү хоёр дахин нэмэгдсэн.",
+    "en": "The gap between the city and the countryside has doubled.",
+    "mn_latin": "Khot, khödöögiin khoorondokh zörüü khoyor dakhin nemegdsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Улаанбаатар___ харьцуулахад Дархан хот жижиг.",
+   "answer": "тай",
+   "options": [
+    "тай",
+    "тэй",
+    "той",
+    "аас"
+   ],
+   "translation": "Compared with Ulaanbaatar, Darkhan is a small city.",
+   "explain_en": "Улаанбаатар has back vowels (а, у), so the comitative ending is -тай. The pattern is -тай харьцуулахад, not the ablative -аас.",
+   "explain_mn": "Улаанбаатар гэдэг үг эр үг тул -тай нөхцөл авна. Харьцуулахад гэдэг үг хамтрах тийн ялгалтай хамт хэрэглэгддэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Өмнөх ___ бодвол инфляци буурсан.",
+   "answer": "оныг",
+   "options": [
+    "оныг",
+    "онтой",
+    "оноос",
+    "онд"
+   ],
+   "translation": "Compared with the previous year, inflation has fallen.",
+   "explain_en": "Бодвол takes the accusative case: он → оныг. With харьцуулахад you would say онтой instead.",
+   "explain_mn": "\"Бодвол\" гэдэг үг заах тийн ялгалтай нэр үгтэй холбогдоно: оныг бодвол. \"Онтой\" бол \"харьцуулахад\"-тай хэрэглэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хотод төрөлт буурсан, ___ хөдөөд өссөн.",
+   "answer": "харин",
+   "options": [
+    "харин",
+    "учир нь",
+    "тиймээс",
+    "бас"
+   ],
+   "translation": "The birth rate fell in the city, whereas it rose in the countryside.",
+   "explain_en": "Харин contrasts two opposite facts, just like 'whereas'. Учир нь means 'because', тиймээс means 'therefore', and бас means 'also', so none of them expresses contrast.",
+   "explain_mn": "Хоёр эсрэг үзэгдлийг харьцуулахдаа \"харин\" холбоос хэрэглэнэ. \"Учир нь\" шалтгаан, \"тиймээс\" үр дагавар илэрхийлнэ, \"бас\" нэмэлт утгатай тул эсрэгцүүлэх утга өгөхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Unemployment in the aimags is twice as ___ as in the capital.",
+   "answer": "high",
+   "options": [
+    "high",
+    "higher",
+    "highest",
+    "height"
+   ],
+   "translation": "Аймгуудад ажилгүйдэл нийслэлийнхээс хоёр дахин өндөр байна.",
+   "explain_en": "In the pattern 'twice as ... as', the adjective stays in its basic form: twice as high as.",
+   "explain_mn": "\"Twice as ... as\" бүтцэд тэмдэг нэр энгийн хэлбэрээрээ орно. \"Higher\" бол \"than\"-тай хэрэглэгддэг."
+  },
+  {
+   "lang": "en",
+   "text": "The gap ___ rich and poor households has grown.",
+   "answer": "between",
+   "options": [
+    "between",
+    "among",
+    "from",
+    "of"
+   ],
+   "translation": "Баян, ядуу өрхүүдийн хоорондох зөрүү нэмэгдсэн.",
+   "explain_en": "We say 'the gap between X and Y' when comparing two groups.",
+   "explain_mn": "Хоёр бүлгийн хоорондох зөрүүг \"the gap between X and Y\" гэж хэлнэ. \"Among\" нь гурав ба түүнээс дээш зүйлд хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Prices rose in the city, ___ they stayed flat in the countryside.",
+   "answer": "whereas",
+   "options": [
+    "whereas",
+    "because",
+    "so",
+    "unless"
+   ],
+   "translation": "Хотод үнэ өссөн, харин хөдөөд тогтвортой байсан.",
+   "explain_en": "'Whereas' introduces a contrasting fact. 'Because' and 'so' show cause and result, and 'unless' shows a condition.",
+   "explain_mn": "\"Whereas\" нь монгол хэлний \"харин\"-тай дүйх эсрэгцүүлэх холбоос юм. Бусад нь шалтгаан, үр дүн, болзол илэрхийлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Даниел, 2010, 2020 оны тооллогын дүнг харьцуулж үзсэн үү?",
+   "en": "Daniel, have you compared the results of the 2010 and 2020 censuses?",
+   "mn_latin": "Daniyel, 2010, 2020 ony toollogyn düng kharitsuulj üzsen üü?"
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Тийм. 2010 онтой харьцуулахад нийслэлийн хүн ам бараг гуравны нэгээр өссөн байна.",
+   "en": "Yes. Compared with 2010, the capital's population has grown by almost a third.",
+   "mn_latin": "Tiim. 2010 ontoi kharitsuulakhad niisleliin khün am barag guravny negeer össön baina."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Харин зарим аймагт хүн ам бараг өөрчлөгдөөгүй, бүр буурсан ч бий.",
+   "en": "But in some aimags the population barely changed, and in some it even fell.",
+   "mn_latin": "Kharin zarim aimagt khün am barag öörchlögdöögüi, bür buursan ch bii."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Тэгэхээр хот, хөдөөгийн хоорондох зөрүү улам томорч байна гэсэн үг.",
+   "en": "So that means the gap between the city and the countryside is getting even wider.",
+   "mn_latin": "Tegekheer khot, khödöögiin khoorondokh zörüü ulam tomorch baina gesen üg."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Яг тийм. Өрхийн дундаж орлого ч гэсэн нийслэлд харьцангуй өндөр.",
+   "en": "Exactly. Average household income is also relatively high in the capital.",
+   "mn_latin": "Yag tiim. Örkhiin dundaj orlogo ch gesen niisleld kharitsangui öndör."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Хэд дахин өндөр вэ?",
+   "en": "How many times higher?",
+   "mn_latin": "Khed dakhin öndör ve?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Зарим аймагтай харьцуулахад бараг хоёр дахин. Гэхдээ үнийн түвшний ялгааг бас тооцох хэрэгтэй.",
+   "en": "Almost twice as high, compared with some aimags. But we also need to take the difference in price levels into account.",
+   "mn_latin": "Zarim aimagtai kharitsuulakhad barag khoyor dakhin. Gekhdee üniin tüvshnii yalgaag bas tootsokh kheregtei."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Зөв. Тайландаа үүнийг тусад нь тэмдэглэе.",
+   "en": "Right. Let's note that separately in the report.",
+   "mn_latin": "Zöv. Tailandaa üüniig tusad ni temdegleye."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia holds a population and housing census every ten years, most recently in 2010 and 2020, run by the National Statistics Office (Үндэсний статистикийн хороо). Its open database, 1212.mn, is widely used by journalists and students. The figures show strong migration to Ulaanbaatar, which is now home to almost half of the country's population.",
+  "mn": "Монгол Улс арван жил тутам хүн ам, орон сууцны тооллого явуулдаг бөгөөд сүүлийн тооллогууд 2010, 2020 онд болсон. Тооллогыг Үндэсний статистикийн хороо зохион байгуулдаг. Хорооны 1212.mn нээлттэй мэдээллийн санг сэтгүүлчид, оюутнууд өргөн ашигладаг. Тоо баримтаас Улаанбаатар руу чиглэсэн шилжилт хөдөлгөөн их байгаа нь харагддаг бөгөөд одоо улсын хүн амын бараг тал нь нийслэлд амьдарч байна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Strong lesson overall: the Mongolian is natural and correct, and the blanks have only one right answer. The fixes are a few inaccuracies in the explanations and two unnatural English lines."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "A solid lesson overall. I fixed one vowel-harmony example in the grammar explanation and made the fill-blank explanations accurate for every option.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "онтой takes -той (о-word), not -тай; the example was listed under the wrong ending"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "The explanation did not cover the option бас"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "The claim that all other options show cause or result was wrong for бас"
+   }
+  ]
+ }
+}

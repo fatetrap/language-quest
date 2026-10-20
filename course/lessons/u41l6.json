@@ -1,0 +1,482 @@
+{
+ "intro_en": "You will play doctor and patient in a case study, reasoning about symptoms, causes, and test results. You will also review how to express present and past inference in both Mongolian and English.",
+ "intro_mn": "Та энэ хичээлээр эмч, өвчтөний дүрд тоглож, шинж тэмдэг, шалтгаан, шинжилгээний хариуг хэлэлцэнэ. Мөн одоогийн болон өнгөрсөн үеийн таамаглалыг монгол, англи хэлээр хэрхэн хэлэхээ давтана.",
+ "vocab": [
+  {
+   "mn": "онош",
+   "en": "diagnosis",
+   "pos": "noun",
+   "example_mn": "Эмч надад оношийг хэлсэн.",
+   "example_en": "The doctor told me the diagnosis.",
+   "mn_latin": "onosh"
+  },
+  {
+   "mn": "шалтгаан",
+   "en": "cause",
+   "pos": "noun",
+   "example_mn": "Толгой өвдөх шалтгаан олон байдаг.",
+   "example_en": "There are many causes of headaches.",
+   "mn_latin": "shaltgaan"
+  },
+  {
+   "mn": "эрсдэлт хүчин зүйл",
+   "en": "risk factor",
+   "pos": "noun",
+   "example_mn": "Тамхи татах нь эрсдэлт хүчин зүйл юм.",
+   "example_en": "Smoking is a risk factor.",
+   "mn_latin": "ersdelt khüchin züil"
+  },
+  {
+   "mn": "эдгэрэлт",
+   "en": "recovery",
+   "pos": "noun",
+   "example_mn": "Түүний эдгэрэлт маш сайн байна.",
+   "example_en": "His recovery is going very well.",
+   "mn_latin": "edgerelt"
+  },
+  {
+   "mn": "урьдчилан сэргийлэлт",
+   "en": "prevention",
+   "pos": "noun",
+   "example_mn": "Урьдчилан сэргийлэлт эмчилгээнээс илүү чухал.",
+   "example_en": "Prevention is more important than treatment.",
+   "mn_latin": "uridchilan sergiilelt"
+  },
+  {
+   "mn": "давтан үзлэг",
+   "en": "follow-up visit",
+   "pos": "noun",
+   "example_mn": "Дараа сард давтан үзлэгт ирээрэй.",
+   "example_en": "Please come for a follow-up visit next month.",
+   "mn_latin": "davtan üzleg"
+  },
+  {
+   "mn": "шинжилгээний хариу",
+   "en": "lab results",
+   "pos": "noun",
+   "example_mn": "Шинжилгээний хариу маргааш гарна.",
+   "example_en": "The lab results will be ready tomorrow.",
+   "mn_latin": "shinjilgeenii khariu"
+  },
+  {
+   "mn": "шинж тэмдэг",
+   "en": "symptom",
+   "pos": "noun",
+   "example_mn": "Танд ямар шинж тэмдэг илэрч байна вэ?",
+   "example_en": "What symptoms do you have?",
+   "mn_latin": "shinj temdeg"
+  },
+  {
+   "mn": "халдвар",
+   "en": "infection",
+   "pos": "noun",
+   "example_mn": "Энэ нь бактерийн халдвар байж магадгүй.",
+   "example_en": "This might be a bacterial infection.",
+   "mn_latin": "khaldvar"
+  },
+  {
+   "mn": "үгүйсгэх",
+   "en": "to rule out",
+   "pos": "verb",
+   "example_mn": "Эмч ноцтой өвчнийг үгүйсгэсэн.",
+   "example_en": "The doctor ruled out a serious illness.",
+   "mn_latin": "ügüisgekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ шинж тэмдэг халдвараас үүдсэн байх магадлалтай.",
+   "en": "This symptom is likely to be caused by an infection.",
+   "alt_mn": [
+    "Энэ шинж тэмдэг халдвартай холбоотой байх магадлалтай."
+   ],
+   "alt_en": [
+    "This symptom is probably caused by an infection.",
+    "This symptom is probably due to an infection."
+   ],
+   "mn_latin": "Ene shinj temdeg khaldvaraas üüdsen baikh magadlaltai."
+  },
+  {
+   "mn": "Шинжилгээний хариу сайн байж магадгүй.",
+   "en": "The lab results might be good.",
+   "alt_mn": [],
+   "alt_en": [
+    "The lab results may be good.",
+    "The lab results could be good."
+   ],
+   "mn_latin": "Shinjilgeenii khariu sain baij magadgüi."
+  },
+  {
+   "mn": "Та өчигдөр даарсан байж магадгүй.",
+   "en": "You might have caught a chill yesterday.",
+   "alt_mn": [],
+   "alt_en": [
+    "You may have caught a chill yesterday."
+   ],
+   "mn_latin": "Ta öchigdör daarsan baij magadgüi."
+  },
+  {
+   "mn": "Тэр өчигдөр эмээ уусан байх магадлалтай.",
+   "en": "He probably took the medicine yesterday.",
+   "alt_mn": [
+    "Тэр өчигдөр эмээ ууж амжсан байх магадлалтай."
+   ],
+   "alt_en": [
+    "He is likely to have taken the medicine yesterday."
+   ],
+   "mn_latin": "Ter öchigdör emee uusan baikh magadlaltai."
+  },
+  {
+   "mn": "Энэ нь аллерги байж магадгүй.",
+   "en": "It could be an allergy.",
+   "alt_mn": [
+    "Энэ аллерги байж болзошгүй."
+   ],
+   "alt_en": [
+    "It might be an allergy.",
+    "It may be an allergy."
+   ],
+   "mn_latin": "Ene ni allyergi baij magadgüi."
+  },
+  {
+   "mn": "Таны өвчний шалтгаан стресс байсан байж магадгүй.",
+   "en": "Stress may have been the cause of your illness.",
+   "alt_mn": [],
+   "alt_en": [
+    "Stress might have been the cause of your illness.",
+    "Stress could have been the cause of your illness."
+   ],
+   "mn_latin": "Tany övchnii shaltgaan stryess baisan baij magadgüi."
+  },
+  {
+   "mn": "Тэр эмчид очоогүй байх магадлалтай, учир нь үзлэгийн бүртгэл алга.",
+   "en": "He probably didn't go to the doctor, because there is no appointment record.",
+   "alt_mn": [],
+   "alt_en": [
+    "He probably hasn't been to the doctor, because there is no appointment record."
+   ],
+   "mn_latin": "Ter emchid ochoogüi baikh magadlaltai, uchir ni üzlegiin bürtgel alga."
+  },
+  {
+   "mn": "Та хоолонд хордсон байх ёстой, шинж тэмдэг бүгд таарч байна.",
+   "en": "You must have had food poisoning; all the symptoms fit.",
+   "alt_mn": [
+    "Та хоолонд хордсон нь лавтай, шинж тэмдэг бүгд таарч байна."
+   ],
+   "alt_en": [
+    "You must have gotten food poisoning; all the symptoms match."
+   ],
+   "mn_latin": "Ta khoolond khordson baikh yostoi, shinj temdeg bügd taarch baina."
+  },
+  {
+   "mn": "Энэ томуу байх боломжгүй, учир нь халуурахгүй байна.",
+   "en": "It can't be the flu, because you have no fever.",
+   "alt_mn": [
+    "Энэ томуу байж таарахгүй, учир нь танд халуун алга."
+   ],
+   "alt_en": [
+    "It can't be the flu, since you don't have a fever."
+   ],
+   "mn_latin": "Ene tomuu baikh bolomjgüi, uchir ni khaluurakhgüi baina."
+  },
+  {
+   "mn": "Тэр эмээ тогтмол уусан бол илүү хурдан эдгэрч магадгүй байсан.",
+   "en": "If he had taken the medicine regularly, he could have recovered faster.",
+   "alt_mn": [],
+   "alt_en": [
+    "If he had taken his medicine regularly, he might have recovered faster."
+   ],
+   "mn_latin": "Ter emee togtmol uusan bol ilüü khurdan edgerch magadgüi baisan."
+  },
+  {
+   "mn": "Давтан үзлэгт ирвэл эмч хариуг тайлбарлана.",
+   "en": "If you come for the follow-up visit, the doctor will explain the results.",
+   "alt_mn": [
+    "Давтан үзлэгт ирвэл эмч шинжилгээний хариуг тайлбарлаж өгнө."
+   ],
+   "alt_en": [
+    "If you come to the follow-up visit, the doctor will explain the results."
+   ],
+   "mn_latin": "Davtan üzlegt irvel emch khariug tailbarlana."
+  },
+  {
+   "mn": "Урьдчилан сэргийлэлт нь эрсдэлт хүчин зүйлийг багасгана.",
+   "en": "Prevention reduces risk factors.",
+   "alt_mn": [],
+   "alt_en": [
+    "Prevention lowers risk factors."
+   ],
+   "mn_latin": "Uridchilan sergiilelt ni ersdelt khüchin züiliig bagasgana."
+  }
+ ],
+ "grammar": {
+  "title_en": "Inference: must / might / may / could / can't (+ have + past participle)",
+  "title_mn": "Таамаглал: must / might / may / could / can't + have + V3",
+  "explain_en": "In Mongolian, use a verb + -х магадлалтай for 'is likely to' (Энэ халдвар байх магадлалтай). Use -ж магадгүй for 'might/may' in the present (Тэр ядарсан байж магадгүй). For past guesses, add -сан байж магадгүй ('might have done') or -сан байх магадлалтай ('probably did'). Mongolian has no separate 'must have'; use -сан байх or 'нь лавтай' for strong certainty, and -х боломжгүй for 'can't'.",
+  "explain_mn": "Англи хэлэнд таамаглалын хүчийг модал үйлүүдээр ялгадаг. must have + V3 нь маш итгэлтэй таамаглал (He must have forgotten). may/might/could have + V3 нь магадгүй гэсэн сул таамаглал (She might have caught a cold). can't have + V3 нь боломжгүй гэсэн итгэлтэй үгүйсгэл (It can't have been the flu). Одоогийн таамаглалд must be, might be, can't be гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "Шинжилгээний хариу сайн байх магадлалтай.",
+    "en": "The lab results are likely to be good.",
+    "mn_latin": "Shinjilgeenii khariu sain baikh magadlaltai."
+   },
+   {
+    "mn": "Тэр стресст орсон байж магадгүй.",
+    "en": "He might be stressed.",
+    "mn_latin": "Ter stryesst orson baij magadgüi."
+   },
+   {
+    "mn": "Тэр даарсан байж магадгүй.",
+    "en": "She may have caught a cold.",
+    "mn_latin": "Ter daarsan baij magadgüi."
+   },
+   {
+    "mn": "Энэ ходоодны өвчин байх боломжгүй.",
+    "en": "It can't be a stomach disease.",
+    "mn_latin": "Ene khodoodny övchin baikh bolomjgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шинжилгээний хариу маргааш гарах ___.",
+   "answer": "магадлалтай",
+   "options": [
+    "магадлалтай",
+    "байж",
+    "болж",
+    "магадлал"
+   ],
+   "translation": "The lab results are likely to come out tomorrow.",
+   "explain_en": "-х магадлалтай follows the verb stem and means 'is likely to'. Here it attaches to гарах.",
+   "explain_mn": "«-х» төгсгөлтэй үйл үгийн дараа «магадлалтай» орж «гарах магадлалтай» буюу «гарах төлөвтэй» гэсэн утга өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр өчигдөр маш их ядарсан ___ магадгүй.",
+   "answer": "байж",
+   "options": [
+    "байж",
+    "байх",
+    "болж",
+    "байсан"
+   ],
+   "translation": "He might have been very tired yesterday.",
+   "explain_en": "The pattern is -сан байж магадгүй for a past guess: 'might have been'.",
+   "explain_mn": "Өнгөрсөн үеийн таамаглал: -сан байж магадгүй бүтэцтэй."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ нь аллерги ___ магадгүй.",
+   "answer": "байж",
+   "options": [
+    "байж",
+    "байх",
+    "байсан",
+    "бол"
+   ],
+   "translation": "This might be an allergy.",
+   "explain_en": "For a present guess, use the -ж form of the verb before магадгүй: байж магадгүй.",
+   "explain_mn": "Одоогийн таамаглалд «байж магадгүй» хэлбэр хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "You have no fever, so it ___ be the flu.",
+   "answer": "can't",
+   "options": [
+    "can't",
+    "must",
+    "might",
+    "may"
+   ],
+   "translation": "Танд халууралт алга, тиймээс энэ томуу байх боломжгүй.",
+   "explain_en": "Can't expresses strong certainty that something is impossible.",
+   "explain_mn": "can't нь «байх боломжгүй» гэсэн итгэлтэй үгүйсгэлийг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "All your symptoms fit. You ___ have had food poisoning.",
+   "answer": "must",
+   "options": [
+    "must",
+    "can't",
+    "shouldn't",
+    "mustn't"
+   ],
+   "translation": "Таны бүх шинж тэмдэг таарч байна. Та хоолонд хордсон нь лавтай.",
+   "explain_en": "Must have + past participle shows a strong, logical conclusion about the past.",
+   "explain_mn": "must have + V3 нь баттай логик дүгнэлтийг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I'm not sure, but stress ___ have caused the headaches.",
+   "answer": "might",
+   "options": [
+    "might",
+    "must",
+    "can't",
+    "should"
+   ],
+   "translation": "Сайн мэдэхгүй байна, гэхдээ стресс толгой өвдөх шалтгаан болсон байж магадгүй.",
+   "explain_en": "Might have + past participle expresses a weak possibility about the past.",
+   "explain_mn": "might have + V3 нь өнгөрсөн үеийн сул боломжийг илэрхийлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Dr. Sarah",
+   "mn": "Сайн байна уу. Танд ямар шинж тэмдэг илэрч байна вэ?",
+   "en": "Hello. What symptoms do you have?",
+   "mn_latin": "Sain baina uu. Tand yamar shinj temdeg ilerch baina ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сүүлийн долоо хоног толгой өвдөж, их ядрах боллоо.",
+   "en": "For the past week I've had headaches and I've been very tired.",
+   "mn_latin": "Süüliin doloo khonog tolgoi övdöj, ikh yadrakh bolloo."
+  },
+  {
+   "speaker": "Dr. Sarah",
+   "mn": "Таны ажил ачаалалтай юу? Стресс шалтгаан болсон байж магадгүй.",
+   "en": "Is your work stressful? Stress might be the cause.",
+   "mn_latin": "Tany ajil achaalaltai yuu? Stryess shaltgaan bolson baij magadgüi."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, би сүүлийн үед шөнө дөлөөр ажиллаж байсан.",
+   "en": "Yes, I've been working late at night recently.",
+   "mn_latin": "Tiim, bi süüliin üyed shönö dölöör ajillaj baisan."
+  },
+  {
+   "speaker": "Dr. Sarah",
+   "mn": "Шинжилгээний хариуг харахад танд цус багадалт байх магадлалтай.",
+   "en": "Looking at your lab results, you probably have anemia.",
+   "mn_latin": "Shinjilgeenii khariug kharakhad tand tsus bagadalt baikh magadlaltai."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэгвэл би хоолондоо анхаардаггүй байсан байх.",
+   "en": "Then I must have neglected my diet.",
+   "mn_latin": "Tegvel bi khoolondoo ankhaardaggüi baisan baikh."
+  },
+  {
+   "speaker": "Dr. Sarah",
+   "mn": "Тийм байж магадгүй. Хоёр долоо хоногийн дараа давтан үзлэгт ирээрэй.",
+   "en": "That could be. Please come back for a follow-up visit in two weeks.",
+   "mn_latin": "Tiim baij magadgüi. Khoyor doloo khonogiin daraa davtan üzlegt ireerei."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "За, баярлалаа. Хурдан эдгэрээсэй.",
+   "en": "Okay, thank you. I hope I recover quickly.",
+   "mn_latin": "Za, bayarlalaa. Khurdan edgereesei."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, many people first try home remedies or ask relatives for advice before seeing a doctor, especially in the countryside where clinics can be far away. Warm broth, rest, and traditional care are common, but doctors in Ulaanbaatar encourage regular checkups and follow-up visits for prevention.",
+  "mn": "Монголд, ялангуяа хөдөө орон нутагт эмнэлэг алс байдаг тул олон хүн эмчид очихын өмнө гэрийн аргаар эмчилж, ойр дотныхноосоо зөвөлгөө авдаг. Халуун шөл, амралт, уламжлалт арга түгээмэл боловч Улаанбаатарын эмч нар урьдчилан сэргийлэх үүднээс тогтмол үзлэг, давтан үзлэгт хамрагдахыг уриалдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 21,
+  "notes": "Mostly understandable, but several unnatural Mongolian phrases and some meaning mismatches needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "Fixed calques, a made-up word, ambiguous blanks, and awkward dialogue lines.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "«хоолонд хордох» is the natural phrasing; «хоолны хордлого авах» is a calque"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "Natural phrasing; removes the awkward «Таныг ... хордлого авсан»"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "«байж болохгүй» means 'must not be' (a prohibition), not 'can't be'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Make the en and mn titles match"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "«стресстсэн» is not a real word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "«магадгүй» and «ёстой» also fit after «гарах», so the answer wasn't unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Clarify the meaning to match the en explanation ('is likely to')"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "«could» and «might» were arguably also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Natural phrasing"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'I'm not sure' and 'caused' rendered more accurately"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Missing subject; more natural phrasing"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "More natural English"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "«анхаарахгүй байсан байх» is ungrammatical"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "«Эдгэрэлт хурдан байгаасай» is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "Match the revised mn line; more natural English"
+   }
+  ]
+ }
+}

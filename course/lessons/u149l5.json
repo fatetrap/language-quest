@@ -1,0 +1,420 @@
+{
+ "intro_en": "In this lesson you will follow an HR manager and her staff as they plan reskilling programs and new career paths. You will learn how to express cause and origin in formal Mongolian reports with -ын улмаас, -аас болж and -аас үүдэн, and how to use the hypothetical \"were to\" in English.",
+ "intro_mn": "Энэ хичээлээр хүний нөөцийн менежер ажилтнуудтайгаа давтан сургалт, шинэ мэргэжлийн замналаа хэрхэн төлөвлөж буйг үзнэ. Тайлан, төлөвлөгөөнд шалтгаан, эх үүсвэр илэрхийлэх -ын улмаас, -аас болж, -аас үүдэн хэлбэрүүдийг сурна. Мөн англи хэлний \"were to\" гэсэн таамаглалын хэлбэрийг сурна.",
+ "vocab": [
+  {
+   "mn": "ур чадвар",
+   "en": "skill",
+   "pos": "noun",
+   "example_mn": "Дижитал ур чадвар бүх салбарт хэрэгтэй болсон.",
+   "example_en": "Digital skills have become necessary in every sector.",
+   "mn_latin": "ur chadvar"
+  },
+  {
+   "mn": "давтан сургах",
+   "en": "to retrain, to reskill",
+   "pos": "verb",
+   "example_mn": "Компани нягтлан бодогчдоо өгөгдлийн шинжилгээнд давтан сургана.",
+   "example_en": "The company will retrain its accountants in data analysis.",
+   "mn_latin": "davtan surgakh"
+  },
+  {
+   "mn": "шинэ мэргэжил",
+   "en": "new profession, new career",
+   "pos": "noun phrase",
+   "example_mn": "Тэр дөчин настайдаа шинэ мэргэжил эзэмшсэн.",
+   "example_en": "She learned a new profession at the age of forty.",
+   "mn_latin": "shine mergejil"
+  },
+  {
+   "mn": "хөдөлмөрийн зах зээл",
+   "en": "labor market",
+   "pos": "noun phrase",
+   "example_mn": "Хөдөлмөрийн зах зээл маш хурдан өөрчлөгдөж байна.",
+   "example_en": "The labor market is changing very quickly.",
+   "mn_latin": "khödölmöriin zakh zeel"
+  },
+  {
+   "mn": "автоматжуулалт",
+   "en": "automation",
+   "pos": "noun",
+   "example_mn": "Автоматжуулалт үйлдвэрлэлийн зардлыг бууруулсан.",
+   "example_en": "Automation has reduced production costs.",
+   "mn_latin": "avtomatjuulalt"
+  },
+  {
+   "mn": "-ын улмаас",
+   "en": "due to, as a result of",
+   "pos": "postposition",
+   "example_mn": "Төсвийн хомсдлын улмаас төсөл хойшилсон.",
+   "example_en": "The project was delayed due to a budget shortfall.",
+   "mn_latin": "-yn ulmaas"
+  },
+  {
+   "mn": "-аас үүдэн",
+   "en": "stemming from, arising from",
+   "pos": "postposition",
+   "example_mn": "Энэ асуудал харилцааны дутагдлаас үүдэн гарсан.",
+   "example_en": "This problem arose from a lack of communication.",
+   "mn_latin": "-aas üüden"
+  },
+  {
+   "mn": "ур чадварын зөрүү",
+   "en": "skills gap",
+   "pos": "noun phrase",
+   "example_mn": "Их сургууль ба ажил олгогчийн хооронд ур чадварын зөрүү бий.",
+   "example_en": "There is a skills gap between universities and employers.",
+   "mn_latin": "ur chadvaryn zörüü"
+  },
+  {
+   "mn": "эрэлт",
+   "en": "demand",
+   "pos": "noun",
+   "example_mn": "Програмистын эрэлт жил бүр өсөж байна.",
+   "example_en": "Demand for programmers is growing every year.",
+   "mn_latin": "erelt"
+  },
+  {
+   "mn": "ажлын байр",
+   "en": "job, position",
+   "pos": "noun phrase",
+   "example_mn": "Шинэ үйлдвэр зуун ажлын байр бий болгоно.",
+   "example_en": "The new factory will create a hundred jobs.",
+   "mn_latin": "ajlyn bair"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Автоматжуулалтын улмаас зарим ажлын байр алга болж байна.",
+   "en": "Some jobs are disappearing due to automation.",
+   "alt_mn": [
+    "Автоматжуулалтаас болж зарим ажлын байр алга болж байна."
+   ],
+   "alt_en": [
+    "Because of automation, some jobs are disappearing.",
+    "As a result of automation, some jobs are disappearing."
+   ],
+   "mn_latin": "Avtomatjuulaltyn ulmaas zarim ajlyn bair alga bolj baina."
+  },
+  {
+   "mn": "Хэрэв хиймэл оюун устгаснаасаа илүү олон ажлын байр бий болговол яах вэ?",
+   "en": "What if AI were to create more jobs than it destroys?",
+   "alt_mn": [
+    "Хиймэл оюун устгаснаасаа олон ажлын байр бий болгох юм бол яах вэ?"
+   ],
+   "alt_en": [
+    "What if artificial intelligence were to create more jobs than it destroys?"
+   ],
+   "mn_latin": "Kherev khiimel oyuun ustgasnaasaa ilüü olon ajlyn bair bii bolgovol yaakh ve?"
+  },
+  {
+   "mn": "Хөдөлмөрийн зах зээлийн өөрчлөлтөөс үүдэн манай компани давтан сургалтын хөтөлбөр боловсруулсан.",
+   "en": "In response to changes in the labor market, our company developed a retraining program.",
+   "alt_mn": [
+    "Хөдөлмөрийн зах зээлийн өөрчлөлтийн улмаас манай компани давтан сургалтын хөтөлбөр боловсруулсан."
+   ],
+   "alt_en": [
+    "Because of changes in the labor market, our company developed a reskilling program.",
+    "Our company developed a retraining program as a result of changes in the labor market."
+   ],
+   "mn_latin": "Khödölmöriin zakh zeeliin öörchlöltöös üüden manai kompani davtan surgaltyn khötölbör bolovsruulsan."
+  },
+  {
+   "mn": "Тайланд дурдсанаар дижитал ур чадварын эрэлт өнгөрсөн жилийнхээс хоёр дахин өссөн.",
+   "en": "According to the report, demand for digital skills has doubled compared with last year.",
+   "alt_mn": [
+    "Тайлангийн дагуу дижитал ур чадварын эрэлт өнгөрсөн жилийнхээс хоёр дахин өссөн."
+   ],
+   "alt_en": [
+    "The report says that demand for digital skills has doubled since last year."
+   ],
+   "mn_latin": "Tailand durdsanaar dijital ur chadvaryn erelt öngörsön jiliinkhees khoyor dakhin össön."
+  },
+  {
+   "mn": "Ажилтнууд шинэ мэргэжил эзэмших хүсэлтэй байгаа ч цаг хугацааны дутагдлаас болж сургалтад хамрагдаж чадахгүй байна.",
+   "en": "Employees want to learn a new profession, but they can't attend training because of a lack of time.",
+   "alt_mn": [
+    "Ажилтнууд шинэ мэргэжил эзэмшихийг хүсэж байгаа ч цаг завын хомсдлын улмаас сургалтад хамрагдаж чадахгүй байна."
+   ],
+   "alt_en": [
+    "Employees are eager to learn a new profession, but a lack of time prevents them from attending training."
+   ],
+   "mn_latin": "Ajiltnuud shine mergejil ezemshikh khüseltei baigaa ch tsag khugatsaany dutagdlaas bolj surgaltad khamragdaj chadakhgüi baina."
+  },
+  {
+   "mn": "Энэ шийдвэр ажилтнуудын санал асуулгын үр дүнгээс шалтгаалсан.",
+   "en": "This decision was based on the results of the employee survey.",
+   "alt_mn": [
+    "Энэ шийдвэрийг ажилтнуудын санал асуулгын үр дүнд үндэслэн гаргасан."
+   ],
+   "alt_en": [
+    "This decision resulted from the findings of the employee survey."
+   ],
+   "mn_latin": "Ene shiidver ajiltnuudyn sanal asuulgyn ür düngees shaltgaalsan."
+  },
+  {
+   "mn": "Хэрэв бид одооноос давтан сургахгүй бол таван жилийн дараа ур чадварын хомсдолтой тулгарна.",
+   "en": "If we don't start retraining now, we'll face a skills shortage in five years.",
+   "alt_mn": [
+    "Одооноос давтан сургаагүй бол бид таван жилийн дараа ур чадварын хомсдолтой тулгарна."
+   ],
+   "alt_en": [
+    "Unless we start reskilling now, we will face a skills shortage in five years."
+   ],
+   "mn_latin": "Kherev bid odoonoos davtan surgakhgüi bol tavan jiliin daraa ur chadvaryn khomsdoltoi tulgarna."
+  },
+  {
+   "mn": "Санхүүгийн хэлтсийн гурван ажилтан өгөгдлийн шинжилгээний чиглэлээр давтан сургалтад хамрагдана.",
+   "en": "Three employees from the finance department will be retrained in data analysis.",
+   "alt_mn": [],
+   "alt_en": [
+    "Three finance department employees will undergo retraining in data analysis."
+   ],
+   "mn_latin": "Sankhüügiin kheltsiin gurvan ajiltan ögögdliin shinjilgeenii chigleleer davtan surgaltad khamragdana."
+  },
+  {
+   "mn": "Ур чадварын зөрүүгээс болж олон залуу мэргэжлээрээ ажиллаж чадахгүй байна.",
+   "en": "Because of the skills gap, many young people can't work in their field.",
+   "alt_mn": [
+    "Ур чадварын зөрүүгийн улмаас олон залуу мэргэжлээрээ ажиллаж чадахгүй байна."
+   ],
+   "alt_en": [
+    "Due to the skills gap, many young people are unable to work in their field."
+   ],
+   "mn_latin": "Ur chadvaryn zörüügees bolj olon zaluu mergejleeree ajillaj chadakhgüi baina."
+  },
+  {
+   "mn": "Хиймэл оюун ажилгүйдэл биш, шинэ боломж авчирвал бид бэлэн байх уу?",
+   "en": "If AI were to bring new opportunities instead of unemployment, would we be ready?",
+   "alt_mn": [
+    "Хэрэв хиймэл оюун ажилгүйдлийн оронд шинэ боломж авчирвал бид бэлэн байх уу?"
+   ],
+   "alt_en": [
+    "Would we be ready if AI were to bring new opportunities rather than unemployment?"
+   ],
+   "mn_latin": "Khiimel oyuun ajilgüidel bish, shine bolomj avchirval bid belen baikh uu?"
+  },
+  {
+   "mn": "Удирдлагын шийдвэрээр сургалтын төсвийг гуравны нэгээр нэмэгдүүлсэн.",
+   "en": "By decision of management, the training budget was increased by a third.",
+   "alt_mn": [],
+   "alt_en": [
+    "Management decided to increase the training budget by one third."
+   ],
+   "mn_latin": "Udirdlagyn shiidvereer surgaltyn tösviig guravny negeer nemegdüülsen."
+  },
+  {
+   "mn": "Энэ хөтөлбөрөөс хамгийн их ашиг хүртэх хүмүүс бол эрсдэл өндөртэй ажлын байранд ажиллаж буй хүмүүс юм.",
+   "en": "The people who will benefit most from this program are those working in high-risk jobs.",
+   "alt_mn": [],
+   "alt_en": [
+    "Those who stand to gain most from this program are people in high-risk jobs."
+   ],
+   "mn_latin": "Ene khötölböröös khamgiin ikh ashig khürtekh khümüüs bol ersdel öndörtei ajlyn bairand ajillaj bui khümüüs yum."
+  }
+ ],
+ "grammar": {
+  "title_en": "Expressing cause in formal Mongolian: -ын улмаас, -аас болж, -аас үүдэн",
+  "title_mn": "Албан ёсны монгол хэлээр шалтгаан илэрхийлэх нь: -ын улмаас, -аас болж, -аас үүдэн",
+  "explain_en": "Mongolian reports often show where something comes from with the ablative case (-аас/-ээс/-оос/-өөс), which marks origin. Add a verb and it becomes a cause: -аас болж (because of), -аас үүдэн (stemming from), -аас шалтгаалан (owing to, depending on). A second option is the genitive plus улмаас: автоматжуулалтын улмаас (due to automation). This one sounds the most formal and suits official reports. Remember vowel harmony and dropped vowels: дутагдал → дутагдлаас, өөрчлөлт → өөрчлөлтөөс.",
+  "explain_mn": "Монгол тайланд аливаа зүйлийн эх үүсвэрийг ихэвчлэн гарах тийн ялгалаар (-аас/-ээс/-оос/-өөс) заадаг. Энэ ялгал эх үүсвэрийг илэрхийлнэ. Ард нь үйл үг залгавал шалтгааны утгатай болно: -аас болж (шалтгаан), -аас үүдэн (эх үүсвэр), -аас шалтгаалан (шалтгаан, хамаарал). Өөр нэг хувилбар нь харьяалахын тийн ялгал + улмаас: автоматжуулалтын улмаас. Энэ хэлбэр хамгийн албан ёсны сонсогдох бөгөөд албан тайланд тохиромжтой. Эгшиг зохицох ёс болон эгшиг гээгдэхийг анхаараарай: дутагдал → дутагдлаас, өөрчлөлт → өөрчлөлтөөс.",
+  "examples": [
+   {
+    "mn": "Төсвийн хомсдлын улмаас сургалт хойшилсон.",
+    "en": "The training was postponed due to a budget shortfall.",
+    "mn_latin": "Tösviin khomsdlyn ulmaas surgalt khoishilson."
+   },
+   {
+    "mn": "Энэ асуудал ур чадварын зөрүүгээс үүдэн гарсан.",
+    "en": "This problem stems from the skills gap.",
+    "mn_latin": "Ene asuudal ur chadvaryn zörüügees üüden garsan."
+   },
+   {
+    "mn": "Хэрэв компани сургалтын төсвийг танавал олон хүн боломжоо алдана.",
+    "en": "If the company were to cut the training budget, many people would lose their chance.",
+    "mn_latin": "Kherev kompani surgaltyn tösviig tanaval olon khün bolomjoo aldana."
+   },
+   {
+    "mn": "Хиймэл оюун шинэ мэргэжил бий болговол бид юу сурах ёстой вэ?",
+    "en": "If AI were to create new professions, what should we learn?",
+    "mn_latin": "Khiimel oyuun shine mergejil bii bolgovol bid yuu surakh yostoi ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Автоматжуулалтын ___ олон ажлын байр өөрчлөгдөж байна.",
+   "answer": "улмаас",
+   "options": [
+    "улмаас",
+    "тулд",
+    "дагуу",
+    "хувьд"
+   ],
+   "translation": "Many jobs are changing due to automation.",
+   "explain_en": "Genitive + улмаас means \"due to\". тулд expresses purpose, дагуу means \"according to\", and хувьд means \"as for\".",
+   "explain_mn": "Шалтгааныг илэрхийлэхдээ харьяалахын тийн ялгал + улмаас хэрэглэнэ. \"Тулд\" нь зорилго, \"дагуу\" нь баримжаа, \"хувьд\" нь хамаарлыг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Цаг хугацааны дутагдл___ болж сургалт хойшилсон.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "ыг",
+    "д",
+    "тай"
+   ],
+   "translation": "The training was postponed because of a lack of time.",
+   "explain_en": "болж needs the ablative case (-аас), which marks the origin or cause. Note the dropped vowel: дутагдал → дутагдлаас.",
+   "explain_mn": "\"Болж\" нь гарах тийн ялгал (-аас) шаарддаг. Эгшиг гээгдэнэ: дутагдал → дутагдлаас."
+  },
+  {
+   "lang": "mn",
+   "text": "Хөдөлмөрийн зах зээлийн эрэлтээс ___ хөтөлбөрөө шинэчилсэн.",
+   "answer": "шалтгаалан",
+   "options": [
+    "шалтгаалан",
+    "тулд",
+    "хамт",
+    "дунд"
+   ],
+   "translation": "We updated our program because of labor market demand.",
+   "explain_en": "-аас шалтгаалан means \"owing to, based on\". The other words don't fit after the ablative case here.",
+   "explain_mn": "\"-аас шалтгаалан\" нь шалтгаан, үндэслэлийг заана. Бусад үг гарах тийн ялгалын дараа энэ утгаар орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "What if AI ___ to create more jobs than it destroys?",
+   "answer": "were",
+   "options": [
+    "were",
+    "is",
+    "will",
+    "would"
+   ],
+   "translation": "Хэрэв хиймэл оюун устгаснаасаа илүү олон ажлын байр бий болговол яах вэ?",
+   "explain_en": "The hypothetical structure is \"if/what if + subject + were to + verb\", and it always uses \"were\".",
+   "explain_mn": "Таамаглалын бүтэц нь \"what if + subject + were to + үйл үг\". Энд үргэлж \"were\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The program was launched ___ to rising demand for digital skills.",
+   "answer": "due",
+   "options": [
+    "due",
+    "because",
+    "since",
+    "result"
+   ],
+   "translation": "Дижитал ур чадварын эрэлт өссөний улмаас хөтөлбөрийг эхлүүлсэн.",
+   "explain_en": "\"Due to\" + noun expresses cause. \"Because\" would need \"of\", and \"since\" needs a clause.",
+   "explain_mn": "\"Due to\" + нэр үг нь \"-ын улмаас\"-тай дүйнэ. \"Because\"-ийн дараа \"of\" хэрэгтэй, \"since\"-ийн дараа өгүүлбэр орно."
+  },
+  {
+   "lang": "en",
+   "text": "If the company were to cut the training budget, many employees ___ lose their chance to reskill.",
+   "answer": "would",
+   "options": [
+    "would",
+    "will",
+    "are",
+    "had"
+   ],
+   "translation": "Хэрэв компани сургалтын төсвийг танавал олон ажилтан давтан суралцах боломжоо алдана.",
+   "explain_en": "A \"were to\" clause is followed by \"would\" + verb in the main clause.",
+   "explain_mn": "\"Were to\" бүхий нөхцөлийн дараа гол өгүүлбэрт \"would\" + үйл үг ордог."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Саруул",
+   "mn": "Сайн байцгаана уу. Өнөөдөр бид ирэх жилийн давтан сургалтын төлөвлөгөөг ярилцана.",
+   "en": "Hello, everyone. Today we'll discuss next year's retraining plan.",
+   "mn_latin": "Sain baitsgaana uu. Önöödör bid irekh jiliin davtan surgaltyn tölövlögöög yariltsana."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Автоматжуулалтын улмаас манай хэлтсийн ажлын тал нь өөрчлөгдөх гэж сонссон. Үнэн үү?",
+   "en": "I heard half of our department's work will change due to automation. Is that true?",
+   "mn_latin": "Avtomatjuulaltyn ulmaas manai kheltsiin ajlyn tal ni öörchlögdökh gej sonsson. Ünen üü?"
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Тийм ээ, гэхдээ хэн ч ажилгүй болохгүй. Бид та бүхнийг өгөгдлийн шинжилгээнд давтан сургана.",
+   "en": "Yes, but nobody will lose their job. We'll retrain all of you in data analysis.",
+   "mn_latin": "Tiim ee, gekhdee khen ch ajilgüi bolokhgüi. Bid ta bükhniig ögögdliin shinjilgeend davtan surgana."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Хиймэл оюун устгаснаасаа илүү олон ажлын байр бий болговол яах вэ? Тэгвэл бид шинэ мэргэжилд бэлэн байх хэрэгтэй.",
+   "en": "What if AI were to create more jobs than it destroys? Then we'd need to be ready for new professions.",
+   "mn_latin": "Khiimel oyuun ustgasnaasaa ilüü olon ajlyn bair bii bolgovol yaakh ve? Tegvel bid shine mergejild belen baikh kheregtei."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Яг тийм. Санал асуулгын үр дүнгээс шалтгаалан бид гурван чиглэл сонгосон.",
+   "en": "Exactly. Based on the survey results, we chose three tracks.",
+   "mn_latin": "Yag tiim. Sanal asuulgyn ür düngees shaltgaalan bid gurvan chiglel songoson."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Ажлын ачааллаас болж олон хүн сургалтад суух цаг гаргаж чаддаггүй шүү.",
+   "en": "Because of the workload, many people can't find time to attend training, you know.",
+   "mn_latin": "Ajlyn achaallaas bolj olon khün surgaltad suukh tsag gargaj chaddaggüi shüü."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Тиймээс сургалтыг ажлын цагаар, долоо хоногт хоёр удаа зохион байгуулна.",
+   "en": "That's why we'll hold the training during working hours, twice a week.",
+   "mn_latin": "Tiimees surgaltyg ajlyn tsagaar, doloo khonogt khoyor udaa zokhion baiguulna."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia has one of the youngest populations in Asia, and many university graduates struggle to find work in their field. Employers often point to a skills gap between degrees and real labor-market needs. As a result, short courses in IT, English and data skills have become very popular in Ulaanbaatar, and some large companies run their own retraining programs.",
+  "mn": "Монгол Улс Азийн хамгийн залуу хүн амтай орнуудын нэг бөгөөд их сургууль төгсөгчдийн олонх нь мэргэжлээрээ ажил олоход бэрхшээдэг. Ажил олгогчид диплом ба хөдөлмөрийн зах зээлийн бодит хэрэгцээний хооронд ур чадварын зөрүү бий гэж ихэвчлэн онцолдог. Үүний улмаас Улаанбаатарт мэдээллийн технологи, англи хэл, өгөгдлийн чиглэлийн богино хугацааны сургалтууд их эрэлттэй болсон. Зарим том компани өөрсдийн давтан сургалтын хөтөлбөртэй болжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A solid, coherent B1-B2 lesson; the main fix is the wrong case form зөрүүнээс (in a sentence and a grammar example), plus a few wording and terminology corrections."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 5,
+  "notes": "Main issue: the grammar mn title and explanation covered a different topic than the en versions. Remaining fixes are minor spelling and wording.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "The Mongolian title described a different topic than title_en."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn explanation must say the same thing as explain_en."
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Align with the English intro (\"learn\", cause and origin)."
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "\"хүсч\" is nonstandard spelling; the standard form is \"хүсэж\"."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "\"take retraining\" is unnatural English."
+   }
+  ]
+ }
+}

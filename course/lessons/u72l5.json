@@ -1,0 +1,451 @@
+{
+ "intro_en": "You will learn to write a clear community proposal about parks, squares, bike lanes and playgrounds, and to argue what matters with the Mongolian pattern -х нь + чухал / хэрэгтэй / зүйтэй and the English wherever, whenever and whatever.",
+ "intro_mn": "Та цэцэрлэгт хүрээлэн, талбай, дугуйн зам, тоглоомын талбайн тухай иргэдийн санал бичиж, -х нь + чухал / хэрэгтэй / зүйтэй бүтцээр аливааг нотлохыг, мөн англи хэлний wherever, whenever, whatever үгсийг хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "нийтийн орон зай",
+   "en": "public space",
+   "pos": "noun",
+   "example_mn": "Нийтийн орон зай бүх хүнд нээлттэй байх ёстой.",
+   "example_en": "Public space should be open to everyone.",
+   "mn_latin": "niitiin oron zai"
+  },
+  {
+   "mn": "явган хүний бүс",
+   "en": "pedestrian zone",
+   "pos": "noun",
+   "example_mn": "Төвийн гудамжийг явган хүний бүс болгохыг санал болгож байна.",
+   "example_en": "We propose turning the central street into a pedestrian zone.",
+   "mn_latin": "yavgan khünii büs"
+  },
+  {
+   "mn": "ногоон байгууламж",
+   "en": "green area",
+   "pos": "noun",
+   "example_mn": "Манай дүүрэгт ногоон байгууламж хангалтгүй байна.",
+   "example_en": "Our district does not have enough green areas.",
+   "mn_latin": "nogoon baiguulamj"
+  },
+  {
+   "mn": "нэвтрэх боломж",
+   "en": "accessibility",
+   "pos": "noun",
+   "example_mn": "Тэргэнцэртэй хүмүүст нэвтрэх боломж олгох хэрэгтэй.",
+   "example_en": "Accessibility must be provided for people in wheelchairs.",
+   "mn_latin": "nevtrekh bolomj"
+  },
+  {
+   "mn": "гэрэлтүүлэг",
+   "en": "lighting",
+   "pos": "noun",
+   "example_mn": "Орой гэрэлтүүлэг муу учраас айдас төрдөг.",
+   "example_en": "Poor lighting in the evening makes people feel afraid.",
+   "mn_latin": "gereltüüleg"
+  },
+  {
+   "mn": "аюулгүй байдал",
+   "en": "safety",
+   "pos": "noun",
+   "example_mn": "Хүүхдийн аюулгүй байдал бидний нэн тэргүүний асуудал.",
+   "example_en": "Children's safety is our top priority.",
+   "mn_latin": "ayuulgüi baidal"
+  },
+  {
+   "mn": "гудамжны тавилга",
+   "en": "street furniture",
+   "pos": "noun",
+   "example_mn": "Сандал, хогийн сав зэрэг гудамжны тавилга дутагдаж байна.",
+   "example_en": "Street furniture such as benches and bins is lacking.",
+   "mn_latin": "gudamjny tavilga"
+  },
+  {
+   "mn": "дугуйн зам",
+   "en": "bike lane",
+   "pos": "noun",
+   "example_mn": "Дугуйн зам тусгаарлагдсан байвал аюул багасна.",
+   "example_en": "If the bike lane is separated, the danger decreases.",
+   "mn_latin": "duguin zam"
+  },
+  {
+   "mn": "тоглоомын талбай",
+   "en": "playground",
+   "pos": "noun",
+   "example_mn": "Орон сууцны хороолол бүрт тоглоомын талбай байх нь зүйтэй.",
+   "example_en": "It is advisable for every residential block to have a playground.",
+   "mn_latin": "togloomyn talbai"
+  },
+  {
+   "mn": "санал болгох",
+   "en": "to propose",
+   "pos": "verb",
+   "example_mn": "Бид дүүргийн удирдлагад шинэ төсөл санал болгож байна.",
+   "example_en": "We are proposing a new project to the district administration.",
+   "mn_latin": "sanal bolgokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хүүхдүүд аюулгүй тоглох нь чухал.",
+   "en": "It is important that children can play safely.",
+   "alt_mn": [],
+   "alt_en": [
+    "It matters that children play safely.",
+    "Children being able to play safely is important."
+   ],
+   "mn_latin": "Khüükhdüüd ayuulgüi toglokh ni chukhal."
+  },
+  {
+   "mn": "Нийтийн орон зайг бүх хүн ашиглах боломжтой байлгах нь хэрэгтэй.",
+   "en": "It is necessary to keep public space usable by everyone.",
+   "alt_mn": [],
+   "alt_en": [
+    "Public space needs to be kept accessible to everyone."
+   ],
+   "mn_latin": "Niitiin oron zaig bükh khün ashiglakh bolomjtoi bailgakh ni kheregtei."
+  },
+  {
+   "mn": "Гэрэлтүүлгийг сайжруулах нь зүйтэй гэж бид үзэж байна.",
+   "en": "We believe it is advisable to improve the lighting.",
+   "alt_mn": [
+    "Гэрэлтүүлгийг сайжруулах нь зүйтэй гэж бид бодож байна."
+   ],
+   "alt_en": [
+    "We think improving the lighting is the right thing to do."
+   ],
+   "mn_latin": "Gereltüülgiig saijruulakh ni züitei gej bid üzej baina."
+  },
+  {
+   "mn": "Орон зай байгаа газар бүрт ногоон байгууламж бий болгоно.",
+   "en": "Wherever space allows, we will create green areas.",
+   "alt_mn": [],
+   "alt_en": [
+    "We will create green areas wherever there is space."
+   ],
+   "mn_latin": "Oron zai baigaa gazar bürt nogoon baiguulamj bii bolgono."
+  },
+  {
+   "mn": "Боломжтой газар дугуйн замыг тусгаарлана.",
+   "en": "Wherever possible, bike lanes will be separated.",
+   "alt_mn": [],
+   "alt_en": [
+    "Bike lanes will be separated wherever that is possible."
+   ],
+   "mn_latin": "Bolomjtoi gazar duguin zamyg tusgaarlana."
+  },
+  {
+   "mn": "Төвийн гудамжийг амралтын өдрүүдэд явган хүний бүс болгох нь хэрэгтэй.",
+   "en": "It is necessary to make the central street a pedestrian zone on weekends.",
+   "alt_mn": [],
+   "alt_en": [
+    "The central street should be a pedestrian zone on weekends."
+   ],
+   "mn_latin": "Töviin gudamjiig amraltyn ödrüüded yavgan khünii büs bolgokh ni kheregtei."
+  },
+  {
+   "mn": "Боломжтой бол бүх шинэ замыг тэргэнцэр нэвтрэхээр барина.",
+   "en": "Whenever possible, all new paths will be built wheelchair-accessible.",
+   "alt_mn": [],
+   "alt_en": [
+    "All new paths will be built wheelchair-accessible whenever possible."
+   ],
+   "mn_latin": "Bolomjtoi bol bükh shine zamyg tergentser nevtrekheer barina."
+  },
+  {
+   "mn": "Оршин суугчид юу санал болгосон ч бид сайтар сонсоно.",
+   "en": "Whatever residents suggest, we will listen carefully.",
+   "alt_mn": [],
+   "alt_en": [
+    "We will listen carefully to whatever residents suggest."
+   ],
+   "mn_latin": "Orshin suugchid yuu sanal bolgoson ch bid saitar sonsono."
+  },
+  {
+   "mn": "Гудамжны тавилгыг иргэдийн хэрэгцээнд тохируулан сонгох нь чухал.",
+   "en": "It is important to choose street furniture to fit residents' needs.",
+   "alt_mn": [],
+   "alt_en": [
+    "Choosing street furniture to suit residents' needs is important."
+   ],
+   "mn_latin": "Gudamjny tavilgyg irgediin kheregtseend tokhiruulan songokh ni chukhal."
+  },
+  {
+   "mn": "Өндөр настангууд амрах боломжтой байхын тулд сандал тавих хэрэгтэй.",
+   "en": "Benches are needed so that elderly people can rest.",
+   "alt_mn": [],
+   "alt_en": [
+    "We need to put in benches so the elderly can rest."
+   ],
+   "mn_latin": "Öndör nastanguud amrakh bolomjtoi baikhyn tuld sandal tavikh kheregtei."
+  },
+  {
+   "mn": "Орой аюулгүй алхах нь иргэн бүрийн эрх.",
+   "en": "Walking safely in the evening is every citizen's right.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every citizen has the right to walk safely in the evening."
+   ],
+   "mn_latin": "Oroi ayuulgüi alkhakh ni irgen büriin erkh."
+  },
+  {
+   "mn": "Бид ногоон байгууламж, тоглоомын талбайг хамт төлөвлөхийг санал болгож байна.",
+   "en": "We propose planning green areas and playgrounds together.",
+   "alt_mn": [],
+   "alt_en": [
+    "We are proposing that green areas and playgrounds be planned together."
+   ],
+   "mn_latin": "Bid nogoon baiguulamj, togloomyn talbaig khamt tölövlökhiig sanal bolgoj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Arguing what matters: -х нь + чухал / хэрэгтэй / зүйтэй",
+  "title_mn": "Чухал зүйлээ нотлох нь: -х нь + чухал / хэрэгтэй / зүйтэй",
+  "explain_en": "Add -х to a verb stem to make a verbal noun, then add the possessive-like marker нь (the verb with its object stays in front): тоглох нь = 'the playing / that (they) play'. Follow it with чухал (important), хэрэгтэй (necessary) or зүйтэй (advisable). The subject goes before the verb, usually in the nominative (Хүүхдүүд тоглох нь...) and sometimes in the genitive. Чухал is the strongest value claim, хэрэгтэй states a need, and зүйтэй is a softer, more polite recommendation, good for formal proposals. The -х ending is the same for all verbs (тавих, барих, сайжруулах); vowel harmony applies only to endings that follow.",
+  "explain_mn": "Англи хэлэнд монгол -х нь бүтцийг ихэвчлэн 'It is important/necessary/advisable to…' эсвэл 'It matters that…' гэж хөрвүүлнэ. Мөн wherever (хаана ч, … газар бүрт), whenever (боломжтой үед, хэзээ ч), whatever (юу ч) үгс саналд нөхцөл тодорхойлоход хэрэглэгдэнэ. Эдгээр нь өгүүлбэрийн эхэнд ордог бол таслалаар тусгаарлана: Wherever space allows, we will plant trees. Төгсгөлд орвол таслал хэрэггүй: We will plant trees wherever space allows. Wherever possible, whenever possible гэх мэт богино хэлбэрт 'it is' орхигдоно.",
+  "examples": [
+   {
+    "mn": "Хүүхдүүд аюулгүй тоглох нь чухал.",
+    "en": "It is important that children play safely.",
+    "mn_latin": "Khüükhdüüd ayuulgüi toglokh ni chukhal."
+   },
+   {
+    "mn": "Явган хүний замыг өргөтгөх нь хэрэгтэй.",
+    "en": "It is necessary to widen the sidewalks.",
+    "mn_latin": "Yavgan khünii zamyg örgötgökh ni kheregtei."
+   },
+   {
+    "mn": "Иргэдтэй зөвлөлдөх нь зүйтэй.",
+    "en": "It is advisable to consult residents.",
+    "mn_latin": "Irgedtei zövlöldökh ni züitei."
+   },
+   {
+    "mn": "Гэрэлтүүлгийг шинэчлэх нь аюулгүй байдалд чухал.",
+    "en": "Renewing the lighting is important for safety.",
+    "mn_latin": "Gereltüülgiig shinechlekh ni ayuulgüi baidald chukhal."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хүүхдүүд аюулгүй тоглох ___ чухал.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "ын",
+    "д",
+    "аас"
+   ],
+   "translation": "It is important that children play safely.",
+   "explain_en": "After the verbal noun тоглох we use нь before чухал to mark it as the topic of the claim.",
+   "explain_mn": "Тоглох гэсэн үйлт нэрийн дараа нь орж, чухал гэсэн үнэлгээний сэдвийг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Төвд шинэ сандал ___ нь хэрэгтэй.",
+   "answer": "тавих",
+   "options": [
+    "тавих",
+    "тавьж",
+    "тавиад",
+    "тавина"
+   ],
+   "translation": "It is necessary to put new benches in the center.",
+   "explain_en": "The -х form of the verb is needed before нь; other forms do not fit this pattern.",
+   "explain_mn": "нь-ийн өмнө -х нөхцөлт үйлт нэр шаардагдана."
+  },
+  {
+   "lang": "mn",
+   "text": "Иргэдтэй зөвлөлдөх нь ___.",
+   "answer": "зүйтэй",
+   "options": [
+    "зүйтэй",
+    "зүйлтэй",
+    "зүйд",
+    "зүйг"
+   ],
+   "translation": "It is advisable to consult residents.",
+   "explain_en": "Зүйтэй is the adjective meaning 'advisable, proper' that completes the pattern.",
+   "explain_mn": "Зүйтэй нь 'зохистой, оновчтой' гэсэн утгатай, бүтцийг гүйцээнэ."
+  },
+  {
+   "lang": "en",
+   "text": "We will plant trees ___ space allows.",
+   "answer": "wherever",
+   "options": [
+    "wherever",
+    "whenever",
+    "whatever",
+    "whichever"
+   ],
+   "translation": "Орон зай хүрэлцэх газар бүрт бид мод тарина.",
+   "explain_en": "Space is a place, so we use wherever.",
+   "explain_mn": "Орон зай нь газрыг заадаг тул wherever хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ possible, new paths will be accessible to wheelchairs.",
+   "answer": "Whenever",
+   "options": [
+    "Whenever",
+    "Whatever",
+    "Whoever",
+    "However"
+   ],
+   "translation": "Боломжтой үед шинэ замууд тэргэнцэрт нэвтрэхүйц байна.",
+   "explain_en": "Whenever possible is a fixed phrase meaning 'every time it can be done.'",
+   "explain_mn": "Whenever possible нь 'боломжтой бүх үед' гэсэн тогтвортой хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "We will consider ___ ideas residents bring to the meeting.",
+   "answer": "whatever",
+   "options": [
+    "whatever",
+    "wherever",
+    "whenever",
+    "whoever"
+   ],
+   "translation": "Оршин суугчид хуралд ямар санал авчирсан ч бид авч үзнэ.",
+   "explain_en": "Whatever stands for 'any ideas at all' and modifies the noun ideas.",
+   "explain_mn": "Whatever нь 'ямар ч' гэсэн утгаар ideas нэрийг тодотгоно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Манай дүүрэгт тоглоомын талбай хэтэрхий цөөн байна.",
+   "en": "Our district has far too few playgrounds.",
+   "mn_latin": "Manai düüregt togloomyn talbai kheterkhii tsöön baina."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тийм ээ. Хүүхдүүд аюулгүй тоглох нь хамгийн чухал.",
+   "en": "Yes. It matters most that children can play safely.",
+   "mn_latin": "Tiim ee. Khüükhdüüd ayuulgüi toglokh ni khamgiin chukhal."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Саналдаа ногоон байгууламж, дугуйн замыг хамт оруулъя.",
+   "en": "Let's include green areas and a bike lane in our proposal.",
+   "mn_latin": "Sanaldaa nogoon baiguulamj, duguin zamyg khamt oruulya."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Зүгээр. Орон зай байгаа газар бүрт мод тарих нь зүйтэй.",
+   "en": "Fine. Wherever space allows, it makes sense to plant trees.",
+   "mn_latin": "Zügeer. Oron zai baigaa gazar bürt mod tarikh ni züitei."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Гэрэлтүүлгийн тухай яах вэ? Орой маш харанхуй байдаг.",
+   "en": "What about lighting? It is very dark in the evening.",
+   "mn_latin": "Gereltüülgiin tukhai yaakh ve? Oroi mash kharankhui baidag."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Боломжтой үед бүх гудамжийг шинэ гэрлээр хангана гэж бичье.",
+   "en": "Let's write that, whenever possible, all streets will get new lights.",
+   "mn_latin": "Bolomjtoi üyed bükh gudamjiig shine gerleer khangana gej bichiye."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн санаа. Хорооны хурал дээр юу асуусан ч бид бэлэн байна.",
+   "en": "Good idea. Whatever they ask at the khoroo meeting, we'll be ready.",
+   "mn_latin": "Sain sanaa. Khoroony khural deer yuu asuusan ch bid belen baina."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тэгвэл өнөөдөр эхний хувилбараа дуусгая.",
+   "en": "Then let's finish the first draft today.",
+   "mn_latin": "Tegvel önöödör ekhnii khuvilbaraa duusgaya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many residents now take part in khoroo (sub-district) meetings and submit proposals about courtyards, playgrounds and sidewalks. Winter darkness, ice and heavy traffic make lighting, safe paths and year-round green space especially important. Citizen groups often point out that a good public space serves children, older people and people with disabilities alike.",
+  "mn": "Улаанбаатарын оршин суугчид хорооны хуралд оролцож, хашаа, тоглоомын талбай, явган хүний замын талаар санал өгөх нь олширч байна. Өвлийн харанхуй, мөс, ачаалалтай замын хөдөлгөөн зэргээс шалтгаалан гэрэлтүүлэг, аюулгүй зам, жилийн турш ашиглах ногоон байгууламж онцгой чухал. Иргэдийн бүлгүүд сайн нийтийн орон зай хүүхэд, өндөр настан, хөгжлийн бэрхшээлтэй хүн бүрт үйлчилдэг гэдгийг ихэвчлэн онцолдог."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 13,
+  "notes": "Mostly good, but the grammar explanation has errors (accusative subject, vowel harmony claim) and the wherever/whenever Mongolian equivalents need correcting."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 12,
+  "notes": "Fixed the dative after р, ambiguous fill-blank options, a broken concessive form, the khoroo mistranslation, and the street furniture term.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "Dative after р is -т: бүрт"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "en",
+    "why": "Standard English term"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_en",
+    "why": "Consistent with the corrected term"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "Consistent term"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "Consistent term"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "'тоглох-ын' is a wrong, awkward form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "тавьсан нь хэрэгтэй could also be grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "Wherever possible is also correct here"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Concessive needs -сан ч; the 'ямар ч ... -сан' construction was broken"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Add the missing subject бид"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "хорооны хурал means khoroo meeting, not committee meeting"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "бүрд → бүрт"
+   }
+  ]
+ }
+}

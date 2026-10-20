@@ -1,0 +1,508 @@
+{
+ "intro_en": "You will learn to talk about viewing flats and comparing them: heating, floor, elevator, windows, and neighborhood. You will also practice -сны дараа ('after doing something') in Mongolian, and 'would' for past expectations and reported plans in English.",
+ "intro_mn": "Та байр үзэж, халаалт, давхар, лифт, цонх, орчны талаар харьцуулж ярьж сурна. Мөн монгол хэлний -сны дараа бүтцийг, англи хэлний 'would'-ыг өнгөрсөн хүлээлт болон дамжуулсан төлөвлөгөөнд хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "халаалт",
+   "en": "heating",
+   "pos": "noun",
+   "example_mn": "Энэ байранд төвийн халаалт байгаа.",
+   "example_en": "This apartment has central heating.",
+   "mn_latin": "khalaalt"
+  },
+  {
+   "mn": "лифт",
+   "en": "elevator",
+   "pos": "noun",
+   "example_mn": "Манай байранд лифт байхгүй.",
+   "example_en": "Our building has no elevator.",
+   "mn_latin": "lift"
+  },
+  {
+   "mn": "засвартай",
+   "en": "renovated, in good repair",
+   "pos": "adjective",
+   "example_mn": "Байр сайн засвартай байсан.",
+   "example_en": "The flat was nicely renovated.",
+   "mn_latin": "zasvartai"
+  },
+  {
+   "mn": "цонх",
+   "en": "window",
+   "pos": "noun",
+   "example_mn": "Зочны өрөөний цонх нарлаг тал руу харсан.",
+   "example_en": "The living room window faces the sunny side.",
+   "mn_latin": "tsonkh"
+  },
+  {
+   "mn": "нийтийн тээвэр",
+   "en": "public transportation",
+   "pos": "noun",
+   "example_mn": "Нийтийн тээвэр ойрхон байгаа нь тохиромжтой.",
+   "example_en": "Having public transportation nearby is convenient.",
+   "mn_latin": "niitiin teever"
+  },
+  {
+   "mn": "давхар",
+   "en": "floor, story",
+   "pos": "noun",
+   "example_mn": "Би дөрөв дэх давхарт амьдардаг.",
+   "example_en": "I live on the fourth floor.",
+   "mn_latin": "davkhar"
+  },
+  {
+   "mn": "орчин",
+   "en": "surroundings, neighborhood",
+   "pos": "noun",
+   "example_mn": "Энэ орчин нам гүм юм.",
+   "example_en": "This neighborhood is quiet.",
+   "mn_latin": "orchin"
+  },
+  {
+   "mn": "түрээсийн төлбөр",
+   "en": "rent",
+   "pos": "noun",
+   "example_mn": "Түрээсийн төлбөрийг сар бүр төлдөг.",
+   "example_en": "The rent is paid every month.",
+   "mn_latin": "türeesiin tölbör"
+  },
+  {
+   "mn": "урьдчилгаа",
+   "en": "deposit, advance payment",
+   "pos": "noun",
+   "example_mn": "Эзэн нэг сарын урьдчилгаа нэхсэн.",
+   "example_en": "The owner asked for a one-month deposit.",
+   "mn_latin": "uridchilgaa"
+  },
+  {
+   "mn": "харьцуулах",
+   "en": "to compare",
+   "pos": "verb",
+   "example_mn": "Бид хоёр байрыг харьцуулсан.",
+   "example_en": "We compared the two flats.",
+   "mn_latin": "kharitsuulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Байрыг үзсний дараа бид шийдвэр гаргасан.",
+   "en": "After viewing the flat, we made a decision.",
+   "alt_mn": [
+    "Байрыг үзсний дараа бид шийдсэн."
+   ],
+   "alt_en": [
+    "After we viewed the flat, we made a decision."
+   ],
+   "mn_latin": "Bairyg üzsnii daraa bid shiidver gargasan."
+  },
+  {
+   "mn": "Эзэн явсны дараа бид өрөөнүүдийг сайн харсан.",
+   "en": "After the owner left, we took a good look at the rooms.",
+   "alt_mn": [],
+   "alt_en": [
+    "After the owner left, we looked at the rooms carefully."
+   ],
+   "mn_latin": "Ezen yavsny daraa bid öröönüüdiig sain kharsan."
+  },
+  {
+   "mn": "Би энэ байр илүү нам гүм байх болов уу гэж бодсон.",
+   "en": "I thought this flat would be quieter.",
+   "alt_mn": [
+    "Энэ байр илүү нам гүм байх болов уу гэж бодсон юм."
+   ],
+   "alt_en": [],
+   "mn_latin": "Bi ene bair ilüü nam güm baikh bolov uu gej bodson."
+  },
+  {
+   "mn": "Лифт байхгүй тул өндөр давхар надад хэцүү.",
+   "en": "There is no elevator, so a high floor is hard for me.",
+   "alt_mn": [],
+   "alt_en": [
+    "Since there's no elevator, a high floor is difficult for me."
+   ],
+   "mn_latin": "Lift baikhgüi tul öndör davkhar nadad khetsüü."
+  },
+  {
+   "mn": "Халаалт сайн ажиллаж байгаа эсэхийг асуусан.",
+   "en": "I asked whether the heating works well.",
+   "alt_mn": [],
+   "alt_en": [
+    "I asked if the heating was working well."
+   ],
+   "mn_latin": "Khalaalt sain ajillaj baigaa esekhiig asuusan."
+  },
+  {
+   "mn": "Энэ байр засвартай ч түрээс нь үнэтэй.",
+   "en": "This flat is renovated, but the rent is expensive.",
+   "alt_mn": [],
+   "alt_en": [
+    "This flat is in good condition, but the rent is high."
+   ],
+   "mn_latin": "Ene bair zasvartai ch türees ni ünetei."
+  },
+  {
+   "mn": "Нийтийн тээвэр ойрхон байх болно гэж эзэн хэлсэн.",
+   "en": "The owner said public transportation would be nearby.",
+   "alt_mn": [],
+   "alt_en": [
+    "The owner said public transport would be close."
+   ],
+   "mn_latin": "Niitiin teever oirkhon baikh bolno gej ezen khelsen."
+  },
+  {
+   "mn": "Өмнө нь манай хажууд дандаа хүүхдүүд тоглодог байсан.",
+   "en": "Kids would always play next to our building back then.",
+   "alt_mn": [
+    "Өмнө нь манай хажууд хүүхдүүд байнга тоглодог байсан."
+   ],
+   "alt_en": [
+    "Back then, kids always used to play next to our building."
+   ],
+   "mn_latin": "Ömnö ni manai khajuud dandaa khüükhdüüd toglodog baisan."
+  },
+  {
+   "mn": "Нүүсний дараа бид шинэ хөршүүдтэйгээ танилцсан.",
+   "en": "After moving, we got to know our new neighbors.",
+   "alt_mn": [],
+   "alt_en": [
+    "After we moved in, we met our new neighbors."
+   ],
+   "mn_latin": "Nüüsnii daraa bid shine khörshüüdteigee taniltssan."
+  },
+  {
+   "mn": "Цонх нь том тул өрөө гэрэлтэй байсан.",
+   "en": "The window was big, so the room was bright.",
+   "alt_mn": [],
+   "alt_en": [
+    "The room was bright because the window was big."
+   ],
+   "mn_latin": "Tsonkh ni tom tul öröö gereltei baisan."
+  },
+  {
+   "mn": "Хоёр байрыг харьцуулсны дараа надад хоёр дахь нь илүү таалагдсан.",
+   "en": "After comparing the two flats, I liked the second one more.",
+   "alt_mn": [
+    "Хоёр байрыг харьцуулсны дараа би хоёр дахийг нь илүүд үзсэн."
+   ],
+   "alt_en": [
+    "After I compared the two flats, I preferred the second one."
+   ],
+   "mn_latin": "Khoyor bairyg kharitsuulsny daraa nadad khoyor dakhi ni ilüü taalagdsan."
+  },
+  {
+   "mn": "Урьдчилгаагаа төлсний дараа бид гэрээ хийсэн.",
+   "en": "After paying the deposit, we signed the contract.",
+   "alt_mn": [],
+   "alt_en": [
+    "After we paid the deposit, we signed the agreement."
+   ],
+   "mn_latin": "Uridchilgaagaa tölsnii daraa bid geree khiisen."
+  }
+ ],
+ "grammar": {
+  "title_en": "-сны дараа: 'after doing something'",
+  "title_mn": "Would: өнгөрсөн хүлээлт ба дамжуулсан төлөвлөгөө",
+  "explain_en": "To say 'after X happened', take the past participle in -сан/-сэн/-сон/-сөн and add the genitive ending. The vowel before н drops: явсан → явсны, үзсэн → үзсний, төлсөн → төлсний. Then add дараа: явсны дараа, үзсний дараа. The ending follows vowel harmony. The subject can be different from the main clause: 'Эзэн явсны дараа' means 'after the owner left'. The first action is finished before the next one begins.",
+  "explain_mn": "Англи хэлний 'would' энд хоёр үндсэн утгаар хэрэглэгдэнэ. Нэгдүгээрт, өнгөрсөн зуршил: 'Kids would play outside every evening' (=тоглодог байсан). Хоёрдугаарт, өнгөрсөн цагаас харсан хүлээлт буюу дамжуулсан төлөвлөгөө: 'I thought it would be quieter' (=нам гүм байх болов уу гэж бодсон), 'He said he would call' (=залгана гэж хэлсэн). 'thought', 'said', 'expected' зэрэг үйлийн дараа 'will' нь 'would' болно. Сөрөх хэлбэр: wouldn't.",
+  "examples": [
+   {
+    "mn": "Байрыг үзсний дараа би шийдсэн.",
+    "en": "After viewing the flat, I decided.",
+    "mn_latin": "Bairyg üzsnii daraa bi shiidsen."
+   },
+   {
+    "mn": "Эзэн явсны дараа бид ярилцсан.",
+    "en": "After the owner left, we talked.",
+    "mn_latin": "Ezen yavsny daraa bid yariltssan."
+   },
+   {
+    "mn": "Би орчин нам гүм байна гэж бодсон.",
+    "en": "I thought the neighborhood would be quiet.",
+    "mn_latin": "Bi orchin nam güm baina gej bodson."
+   },
+   {
+    "mn": "Тэр маргааш залгана гэж хэлсэн.",
+    "en": "He said he would call tomorrow.",
+    "mn_latin": "Ter margaash zalgana gej khelsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Байрыг үзс___ дараа бид ярилцсан.",
+   "answer": "ний",
+   "options": [
+    "ний",
+    "ийг",
+    "эд",
+    "ээс"
+   ],
+   "translation": "After viewing the flat, we talked.",
+   "explain_en": "Past participle үзсэн + genitive gives үзсний (the э drops). The postposition дараа takes the genitive form: үзсний дараа.",
+   "explain_mn": "'дараа' гэдэг дагавар үгийн өмнө -сан/-сэн үйлт нэр харьяалахын тийн ялгалаар (-ы/-ий) хувирна: үзсэн → үзсний дараа."
+  },
+  {
+   "lang": "mn",
+   "text": "Эзэн яв___ дараа бид өрөөг сайн харсан.",
+   "answer": "сны",
+   "options": [
+    "сны",
+    "сний",
+    "сан",
+    "сэн"
+   ],
+   "translation": "After the owner left, we looked at the room carefully.",
+   "explain_en": "явах has back vowels, so use явсан + genitive ы, with the а dropping: явсны дараа.",
+   "explain_mn": "явах нь хатуу эгшигтэй тул явсан + ы → явсны хэлбэр орно: явсны дараа."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ байранд ___ байхгүй тул өндөр давхарт гарахад хэцүү.",
+   "answer": "лифт",
+   "options": [
+    "лифт",
+    "цонх",
+    "халаалт",
+    "орчин"
+   ],
+   "translation": "This flat has no elevator, so it is hard to go up to a high floor.",
+   "explain_en": "Лифт is the elevator; it explains why climbing to a high floor is hard.",
+   "explain_mn": "Өндөр давхарт гарахад хүндрэлтэй байгаа шалтгаан нь лифт байхгүйд оршино."
+  },
+  {
+   "lang": "en",
+   "text": "I thought the flat ___ be warmer.",
+   "answer": "would",
+   "options": [
+    "would",
+    "will",
+    "is",
+    "had"
+   ],
+   "translation": "Би байр илүү дулаан байх болов уу гэж бодсон.",
+   "explain_en": "After a past verb like 'thought', use 'would' for the expected future.",
+   "explain_mn": "‘thought’ гэх мэт өнгөрсөн хугацааны үйлийн дараа ирээдүйн хүлээлтийг 'would'-оор илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The owner said he ___ send the contract the next day.",
+   "answer": "would",
+   "options": [
+    "would",
+    "will",
+    "did",
+    "has"
+   ],
+   "translation": "Эзэн маргааш нь гэрээг явуулна гэж хэлсэн.",
+   "explain_en": "Reported plans in the past use 'would'.",
+   "explain_mn": "Өнгөрсөн цагт хэлсэн төлөвлөгөөг дамжуулахдаа 'would' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "When I was a child, we ___ visit the countryside every summer.",
+   "answer": "would",
+   "options": [
+    "would",
+    "will",
+    "are",
+    "were"
+   ],
+   "translation": "Намайг хүүхэд байхад бид зун бүр хөдөө явдаг байсан.",
+   "explain_en": "'Would' can describe repeated past habits.",
+   "explain_mn": "'Would' нь өнгөрсөн үеийн давтагдах зуршлыг илэрхийлж чадна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Та өчигдөр хоёр байр үзсэн үү? Аль нь танд таалагдсан бэ?",
+   "en": "Did you view two flats yesterday? Which one did you like?",
+   "mn_latin": "Ta öchigdör khoyor bair üzsen üü? Ali ni tand taalagdsan be?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Эхнийх нь засвартай, гэхдээ лифтгүй байсан.",
+   "en": "The first was renovated, but it had no elevator.",
+   "mn_latin": "Ekhniikh ni zasvartai, gekhdee liftgüi baisan."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Харин хоёр дахь нь хэддүгээр давхарт байсан бэ?",
+   "en": "And what floor was the second on?",
+   "mn_latin": "Kharin khoyor dakhi ni kheddügeer davkhart baisan be?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Хоёрдугаар давхарт. Эзэн явсны дараа бид цонхоор гадагш харсан.",
+   "en": "The second floor. After the owner left, we looked outside through the window.",
+   "mn_latin": "Khoyordugaar davkhart. Ezen yavsny daraa bid tsonkhoor gadagsh kharsan."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Орчин нь ямар байсан бэ? Нийтийн тээвэр ойрхон уу?",
+   "en": "What was the neighborhood like? Is public transportation close?",
+   "mn_latin": "Orchin ni yamar baisan be? Niitiin teever oirkhon uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Би илүү нам гүм байх болов уу гэж бодсон, гэхдээ замын чимээ их байсан.",
+   "en": "I thought it would be quieter, but there was a lot of traffic noise.",
+   "mn_latin": "Bi ilüü nam güm baikh bolov uu gej bodson, gekhdee zamyn chimee ikh baisan."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Тэгвэл хоёуланг нь харьцуулсныхаа дараа шийдээрэй.",
+   "en": "Then decide after comparing both of them.",
+   "mn_latin": "Tegvel khoyoulang ni kharitsuulsnykhaa daraa shiideerei."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм ээ, эзэн маргааш залгана гэж хэлсэн.",
+   "en": "Yes, the owner said he would call tomorrow.",
+   "mn_latin": "Tiim ee, ezen margaash zalgana gej khelsen."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many apartment buildings are connected to central heating, which is a big advantage in the cold winters, while ger districts usually rely on stoves. When viewing a flat, people often ask about the floor, the elevator, and the utility bills, since winter heating costs can be significant. Rent is often arranged directly with the owner, and a deposit is common.",
+  "mn": "Улаанбаатарын олон орон сууц төвийн халаалттай байдаг нь хүйтэн өвөлд том давуу тал болдог бол гэр хороололд ихэвчлэн зуух ашигладаг. Байр үзэхдээ давхар, лифт, ашиглалтын төлбөрийн талаар асуух нь элбэг, учир нь өвлийн халаалтын зардал мэдэгдэхүйц байж болно. Түрээсийг ихэвчлэн эзэнтэй нь шууд тохиролцдог бөгөөд урьдчилгаа төлөх нь түгээмэл."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 21,
+  "notes": "Several real errors: the grammar explain_mn is in English, a fill-in-the-blank has nonsense options, and some Mongolian phrasing is unnatural; the content is otherwise usable."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 21,
+  "notes": "Main problems: wrong -сны forms (явсаны, үзсэний) throughout, a Russian grammar term, a dative error, and dialogue logic.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "Standard genitive of үзсэн is үзсний, matching -сны/-сний"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "Spelling: үзсний"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "Correct form is явсны, not явсаны"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "таалагдах needs the dative надад, not би"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "Old alt duplicated the corrected main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Wrong forms; the vowel drop was not explained"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "Spelling: үзсний"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "Spelling: явсны"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "Correct form is үзсний"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "Options must contain the correct answer and harmonic distractors"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Matches the corrected form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Used a Russian grammar term; also the form was wrong"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "answer",
+    "why": "Correct form is явсны"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Include the correct answer and distractors"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Matches the corrected form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Matches the corrected form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Natural form when the clause subjects differ"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "Logic: Tom viewed the flats, not Anu"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "Matches the corrected Mongolian"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Spelling: явсны"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'хураамж төлбөр' is unnatural; 'ашиглалтын төлбөр' is the standard term for utility bills"
+   }
+  ]
+ }
+}

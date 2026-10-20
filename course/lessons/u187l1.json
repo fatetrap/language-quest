@@ -1,0 +1,411 @@
+{
+ "intro_en": "Open an overstuffed closet and decide what to keep, store, or give away. You'll learn how to use -ыг/-ийг ... болгох to describe changing something's state, like making a room clean or turning a box into a shelf.",
+ "intro_mn": "Дүүрэн шүүгээг онгойлгоод юуг хадгалах, юуг хаях, юуг хандивлахаа шийдье. Англи хэлний another ба other гэдэг үгийг ганц болон олон тооны нэр үгтэй хэрхэн хэрэглэхийг сурна.",
+ "vocab": [
+  {
+   "mn": "шүүгээ",
+   "en": "closet, wardrobe",
+   "pos": "noun",
+   "example_mn": "Миний шүүгээ хувцсаар дүүрэн байна.",
+   "example_en": "My closet is full of clothes.",
+   "mn_latin": "shüügee"
+  },
+  {
+   "mn": "өлгүүр",
+   "en": "hanger",
+   "pos": "noun",
+   "example_mn": "Энэ цамцыг өлгүүрт өлгөөрэй.",
+   "example_en": "Please hang this shirt on a hanger.",
+   "mn_latin": "ölgüür"
+  },
+  {
+   "mn": "хайрцаг",
+   "en": "box",
+   "pos": "noun",
+   "example_mn": "Хуучин номнуудаа хайрцагт хийлээ.",
+   "example_en": "I put my old books in a box.",
+   "mn_latin": "khairtsag"
+  },
+  {
+   "mn": "хуучин хувцас",
+   "en": "old clothes",
+   "pos": "noun phrase",
+   "example_mn": "Би хуучин хувцсаа хандивлах гэж байна.",
+   "example_en": "I'm going to donate my old clothes.",
+   "mn_latin": "khuuchin khuvtsas"
+  },
+  {
+   "mn": "тавиур",
+   "en": "shelf",
+   "pos": "noun",
+   "example_mn": "Дээд тавиур дээр юу байгаа вэ?",
+   "example_en": "What's on the top shelf?",
+   "mn_latin": "taviur"
+  },
+  {
+   "mn": "ялгах",
+   "en": "to sort, to separate",
+   "pos": "verb",
+   "example_mn": "Хувцсаа ялгаж эхэлцгээе.",
+   "example_en": "Let's start sorting the clothes.",
+   "mn_latin": "yalgakh"
+  },
+  {
+   "mn": "хадгалах",
+   "en": "to keep, to store",
+   "pos": "verb",
+   "example_mn": "Энэ хүрмийг хадгалах уу, хаях уу?",
+   "example_en": "Should we keep this jacket or throw it away?",
+   "mn_latin": "khadgalakh"
+  },
+  {
+   "mn": "хаях",
+   "en": "to throw away",
+   "pos": "verb",
+   "example_mn": "Урагдсан оймсоо хаячих.",
+   "example_en": "Throw away your torn socks.",
+   "mn_latin": "khayakh"
+  },
+  {
+   "mn": "эмх цэгцтэй",
+   "en": "tidy, organized",
+   "pos": "adjective",
+   "example_mn": "Өрөө чинь их эмх цэгцтэй болжээ.",
+   "example_en": "Your room has gotten really tidy.",
+   "mn_latin": "emkh tsegtstei"
+  },
+  {
+   "mn": "уут",
+   "en": "bag",
+   "pos": "noun",
+   "example_mn": "Хуучин хувцсыг энэ уутанд хий.",
+   "example_en": "Put the old clothes in this bag.",
+   "mn_latin": "uut"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Шүүгээгээ онгойлгоход бүх юм унаад ирлээ.",
+   "en": "When I opened my closet, everything fell out.",
+   "alt_mn": [
+    "Шүүгээгээ онгойлгомогц бүх юм унаад ирлээ."
+   ],
+   "alt_en": [
+    "As soon as I opened my closet, everything fell out."
+   ],
+   "mn_latin": "Shüügeegee ongoilgokhod bükh yum unaad irlee."
+  },
+  {
+   "mn": "Энэ шүүгээнд хэтэрхий олон юм байна.",
+   "en": "There's too much stuff in this closet.",
+   "alt_mn": [],
+   "alt_en": [
+    "There are too many things in this closet."
+   ],
+   "mn_latin": "Ene shüügeend kheterkhii olon yum baina."
+  },
+  {
+   "mn": "Өнөөдөр би өрөөгөө цэвэрхэн болгоно.",
+   "en": "Today I'm going to get my room clean.",
+   "alt_mn": [],
+   "alt_en": [
+    "Today I'll make my room clean.",
+    "Today I'm going to clean up my room."
+   ],
+   "mn_latin": "Önöödör bi öröögöö tseverkhen bolgono."
+  },
+  {
+   "mn": "Хуучин хувцсыг хоёр хайрцагт ялгая.",
+   "en": "Let's sort the old clothes into two boxes.",
+   "alt_mn": [
+    "Хуучин хувцсаа хоёр хайрцагт ялгая."
+   ],
+   "alt_en": [],
+   "mn_latin": "Khuuchin khuvtssyg khoyor khairtsagt yalgaya."
+  },
+  {
+   "mn": "Надад өөр нэг өлгүүр хэрэгтэй байна.",
+   "en": "I need another hanger.",
+   "alt_mn": [
+    "Надад дахиад нэг өлгүүр хэрэгтэй байна."
+   ],
+   "alt_en": [
+    "I need one more hanger."
+   ],
+   "mn_latin": "Nadad öör neg ölgüür kheregtei baina."
+  },
+  {
+   "mn": "Бусад өлгүүр бүгд эвдэрсэн байна.",
+   "en": "The other hangers are all broken.",
+   "alt_mn": [
+    "Бусад өлгүүрүүд бүгд эвдэрсэн байна."
+   ],
+   "alt_en": [
+    "All the other hangers are broken."
+   ],
+   "mn_latin": "Busad ölgüür bügd evdersen baina."
+  },
+  {
+   "mn": "Энэ хайрцгийг номын тавиур болгож болно.",
+   "en": "We can turn this box into a bookshelf.",
+   "alt_mn": [],
+   "alt_en": [
+    "This box can be turned into a bookshelf.",
+    "We could turn this box into a bookshelf."
+   ],
+   "mn_latin": "Ene khairtsgiig nomyn taviur bolgoj bolno."
+  },
+  {
+   "mn": "Би хуучин цамцаа өөдөс болгосон.",
+   "en": "I turned my old shirt into a rag.",
+   "alt_mn": [],
+   "alt_en": [
+    "I made my old shirt into a rag."
+   ],
+   "mn_latin": "Bi khuuchin tsamtsaa öödös bolgoson."
+  },
+  {
+   "mn": "Энэ хүрмийг хадгална, бусдыг нь хандивлана.",
+   "en": "I'll keep this jacket and donate the others.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm keeping this jacket and donating the others."
+   ],
+   "mn_latin": "Ene khürmiig khadgalna, busdyg ni khandivlana."
+  },
+  {
+   "mn": "Шүүгээгээ эмх цэгцтэй болгох гэж бүтэн өдөр зарцуулсан.",
+   "en": "I spent the whole day getting my closet organized.",
+   "alt_mn": [],
+   "alt_en": [
+    "I spent all day getting my closet organized.",
+    "I spent the whole day making my closet tidy."
+   ],
+   "mn_latin": "Shüügeegee emkh tsegtstei bolgokh gej büten ödör zartsuulsan."
+  },
+  {
+   "mn": "Өөр нэг хайрцаг авчирч өгөөч, энэ нь дүүрчихлээ.",
+   "en": "Could you bring me another box? This one is full.",
+   "alt_mn": [
+    "Дахиад нэг хайрцаг авчирч өгөөч, энэ нь дүүрчихлээ."
+   ],
+   "alt_en": [
+    "Please bring me another box. This one is full."
+   ],
+   "mn_latin": "Öör neg khairtsag avchirch ögööch, ene ni düürchikhlee."
+  },
+  {
+   "mn": "Бусад хүмүүс хуучин юмаа хаядаг ч ээж минь бүгдийг хадгалдаг.",
+   "en": "Other people throw away their old things, but my mom keeps everything.",
+   "alt_mn": [],
+   "alt_en": [
+    "Other people throw out their old stuff, but my mom keeps everything."
+   ],
+   "mn_latin": "Busad khümüüs khuuchin yumaa khayadag ch eej mini bügdiig khadgaldag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Changing a state: -ыг/-ийг ... болгох",
+  "title_mn": "Another ба other: ганц ба олон тоо",
+  "explain_en": "To say 'make X (into) Y' or 'turn X into Y,' Mongolian puts the object in the accusative case (-ыг/-ийг after consonants, -г after long vowels like шүүгээг, өрөөг), then the new state, then болгох 'to make become': өрөөг цэвэрхэн болгох 'to make the room clean.' The new state can be an adjective (цэвэрхэн, эмх цэгцтэй) or a noun (тавиур, сав). Compare болох 'to become': өрөө цэвэрхэн болсон 'the room became clean' has no object, but өрөөг цэвэрхэн болгосон 'I made the room clean' does. If the object is your own, use the reflexive ending instead: өрөөгөө 'my own room.' Watch for stems that drop a vowel: хайрцаг → хайрцгийг, хувцас → хувцсыг.",
+  "explain_mn": "Another гэдэг нь 'an + other' гэсэн нэг үг тул ГАНЦ тооны нэр үгтэй хэрэглэнэ: another box (өөр нэг хайрцаг, дахиад нэг хайрцаг). Other нь ОЛОН тооны нэр үгтэй явна: other boxes (бусад хайрцгууд, өөр хайрцгууд). 'The other' нь ганц тоотой бол 'нөгөө' гэсэн утгатай (the other box: нөгөө хайрцаг), олон тоотой бол 'бусад' гэсэн утгатай (the other boxes: бусад хайрцгууд). Нэр үгийг давтахгүйн тулд 'others' буюу 'the others' гэж ганцаар нь хэрэглэнэ: I'll keep this one and donate the others. 'Another boxes', 'others boxes' гэж хэлэхгүйг санаарай!",
+  "examples": [
+   {
+    "mn": "Би өрөөгөө цэвэрхэн болгосон.",
+    "en": "I made my room clean.",
+    "mn_latin": "Bi öröögöö tseverkhen bolgoson."
+   },
+   {
+    "mn": "Бид гэрийг дулаахан болгосон.",
+    "en": "We made the ger warm.",
+    "mn_latin": "Bid geriig dulaakhan bolgoson."
+   },
+   {
+    "mn": "Хуучин хайрцгийг тоглоомын сав болгоё.",
+    "en": "Let's turn the old box into a toy bin.",
+    "mn_latin": "Khuuchin khairtsgiig togloomyn sav bolgoyo."
+   },
+   {
+    "mn": "Тэр шүүгээгээ эмх цэгцтэй болгожээ.",
+    "en": "She got her closet organized.",
+    "mn_latin": "Ter shüügeegee emkh tsegtstei bolgojee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өрөө___ цэвэрхэн болгоно.",
+   "answer": "гөө",
+   "options": [
+    "гөө",
+    "ний",
+    "нд",
+    "нөөс"
+   ],
+   "translation": "I'll make my room clean.",
+   "explain_en": "The room is the object of болгох, so it needs the accusative. Because it's your own room, use the reflexive accusative -гөө after the long vowel өө: өрөөгөө.",
+   "explain_mn": "Болгох үйл үгийн тусагдахуун тул заахын тийн ялгал хэрэгтэй. Өөрийн өрөө учир ерөнхий хамаатуулах -гөө дагавар залгана: өрөөгөө."
+  },
+  {
+   "lang": "mn",
+   "text": "Хуучин хайрцгийг тоглоомын сав ___.",
+   "answer": "болгосон",
+   "options": [
+    "болгосон",
+    "болсон",
+    "болж",
+    "болохоор"
+   ],
+   "translation": "I turned the old box into a toy bin.",
+   "explain_en": "There is an object in the accusative (хайрцгийг), so you need the causative болгох 'to make into,' not болох 'to become.' The past form болгосон finishes the sentence.",
+   "explain_mn": "Тусагдахуун (хайрцгийг) байгаа тул 'болох' биш, үйлдүүлэх хэвийн 'болгох' хэрэгтэй. Өгүүлбэрийг төгсгөхийн тулд 'болгосон' хэлбэр тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Цамцнуудаа ___ өлгөөрэй.",
+   "answer": "өлгүүрт",
+   "options": [
+    "өлгүүрт",
+    "өлгүүрийг",
+    "өлгүүрээс",
+    "өлгүүртэй"
+   ],
+   "translation": "Hang your shirts on hangers.",
+   "explain_en": "Where something is hung goes in the dative-locative case -д/-т. After р, Mongolian uses -т: өлгүүрт 'on the hanger.'",
+   "explain_mn": "Юмыг хаана өлгөхийг өгөх-оршихын тийн ялгалаар илэрхийлнэ. Р үсгийн дараа -т залгана: өлгүүрт."
+  },
+  {
+   "lang": "en",
+   "text": "Can I have ___ hanger?",
+   "answer": "another",
+   "options": [
+    "another",
+    "other",
+    "others",
+    "the others"
+   ],
+   "translation": "Дахиад нэг өлгүүр авч болох уу?",
+   "explain_en": "'Hanger' is singular and you want one more, so use 'another.'",
+   "explain_mn": "'Hanger' ганц тоотой, 'дахиад нэг' гэсэн утгатай тул 'another' хэрэглэнэ. 'Other' ганц тооны нэр үгийн өмнө ганцаараа ордоггүй."
+  },
+  {
+   "lang": "en",
+   "text": "These boxes are full. Where are the ___ boxes?",
+   "answer": "other",
+   "options": [
+    "other",
+    "another",
+    "others",
+    "an other"
+   ],
+   "translation": "Эдгээр хайрцаг дүүрчихлээ. Бусад хайрцгууд хаана байна?",
+   "explain_en": "Before a plural noun like 'boxes,' use 'other,' not 'another' or 'others.'",
+   "explain_mn": "Олон тооны нэр үгийн (boxes) өмнө 'other' хэрэглэнэ. 'Others' нь нэр үгийг орлодог тул ард нь нэр үг ордоггүй."
+  },
+  {
+   "lang": "en",
+   "text": "I'll keep this sweater and give away all the ___.",
+   "answer": "others",
+   "options": [
+    "others",
+    "other",
+    "another",
+    "anothers"
+   ],
+   "translation": "Би энэ ноосон цамцыг хадгалаад бусдыг нь бүгдийг өгчихнө.",
+   "explain_en": "No noun follows the blank, so you need the pronoun 'the others' (meaning 'the other sweaters').",
+   "explain_mn": "Ард нь нэр үг байхгүй тул орлох үг болох 'the others' хэрэглэнэ. Энэ нь 'the other sweaters' гэсэн утгатай. 'Anothers' гэсэн үг байдаггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Бурхан минь! Шүүгээг онгойлгомогц бүх юм унаад ирлээ.",
+   "en": "Oh my gosh! As soon as I opened the closet, everything came tumbling out.",
+   "mn_latin": "Burkhan mini! Shüügeeg ongoilgomogts bükh yum unaad irlee."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Хэтэрхий олон юм хураачихсан байна. Цагаан сараас өмнө гэрээ цэвэрхэн болгох хэрэгтэй шүү.",
+   "en": "You've piled up way too much stuff. We need to get the house clean before Tsagaan Sar.",
+   "mn_latin": "Kheterkhii olon yum khuraachikhsan baina. Tsagaan saraas ömnö geree tseverkhen bolgokh kheregtei shüü."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгье. Нэг хайрцагт хадгалах юмаа, нөгөө хайрцагт хандивлах юмаа хийе.",
+   "en": "Okay. Let's put the things to keep in one box and the things to donate in the other.",
+   "mn_latin": "Tegiye. Neg khairtsagt khadgalakh yumaa, nögöö khairtsagt khandivlakh yumaa khiiye."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Энэ хуучин дээлийг яах вэ?",
+   "en": "What about this old deel?",
+   "mn_latin": "Ene khuuchin deeliig yaakh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Үүнийг хадгална. Бусад хуучин хувцсыг уутанд хийчих.",
+   "en": "I'm keeping this one. Put the other old clothes in a bag.",
+   "mn_latin": "Üüniig khadgalna. Busad khuuchin khuvtssyg uutand khiichikh."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Өлгүүр хүрэлцэхгүй байна. Бас өөр нэг хайрцаг хэрэгтэй.",
+   "en": "There aren't enough hangers. We also need another box.",
+   "mn_latin": "Ölgüür khüreltsekhgüi baina. Bas öör neg khairtsag kheregtei."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Энэ гутлын хайрцгийг жижиг юмны сав болгочихъё.",
+   "en": "Let's turn this shoebox into a container for small things.",
+   "mn_latin": "Ene gutlyn khairtsgiig jijig yumny sav bolgochikhyo."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн санаа! Тэгвэл шүүгээ эмх цэгцтэй болно.",
+   "en": "Good idea! Then the closet will be organized.",
+   "mn_latin": "Sain sanaa! Tegvel shüügee emkh tsegtstei bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "Before Tsagaan Sar, the Lunar New Year, Mongolian families traditionally do a big cleaning so they can start the new year fresh, and the house should be spotless by Bituun, New Year's Eve. Old clothes are rarely just thrown away. They are often passed down to younger relatives, sent to family in the countryside, or donated.",
+  "mn": "Цагаан сарын өмнө монгол айлууд шинэ оныг цэвэр байдлаар угтахын тулд их цэвэрлэгээ хийдэг уламжлалтай бөгөөд Битүүний өдөр гэрээ цэвэрхэн болгосон байх ёстой. Хуучин хувцсыг ихэвчлэн шууд хаядаггүй. Дүү нартаа өвлүүлэх, хөдөө байгаа хамаатан садандаа явуулах, эсвэл хандивлах нь түгээмэл."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A strong, accurate lesson with correct case forms, vowel harmony and natural dialogue. Only one small translation needed fixing (sweater vs. shirt)."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "Mostly clean. The main fixes are an ambiguous English blank and a malformed Mongolian distractor.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The ablative of өрөө is өрөөнөөс. The distractor '-өөс' produces a non-existent form."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'Can I have' is naturally 'авч болох уу'. 'Надад ... өгөх үү' sounds unnatural."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "text",
+    "why": "'give away the other' is also correct (pronoun use), so the original had two right answers."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Updated to match the revised English sentence with 'all'."
+   }
+  ]
+ }
+}

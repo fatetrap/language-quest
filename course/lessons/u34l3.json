@@ -1,0 +1,456 @@
+{
+ "intro_en": "You will learn how to arrive at an office for a job interview, greet the panel politely, introduce yourself and make small talk. You will also practice formal та forms and polite English openings.",
+ "intro_mn": "Та ажлын ярилцлагад оффист хэрхэн очих, комисст эелдэг мэндлэх, өөрийгөө танилцуулах, жижиг яриа өрнүүлэхийг сурна. Мөн албан ёсны «та» хэлбэр болон англи хэлний эелдэг мэндчилгээг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "цаг товлох",
+   "en": "to schedule an appointment",
+   "pos": "verb phrase",
+   "example_mn": "Би менежертэй уулзахаар цаг товлосон.",
+   "example_en": "I scheduled an appointment to meet the manager.",
+   "mn_latin": "tsag tovlokh"
+  },
+  {
+   "mn": "товлосон цаг",
+   "en": "appointment",
+   "pos": "noun",
+   "example_mn": "Миний товлосон цаг арван цагт байна.",
+   "example_en": "My appointment is at ten o'clock.",
+   "mn_latin": "tovloson tsag"
+  },
+  {
+   "mn": "хүлээн авах газар",
+   "en": "reception",
+   "pos": "noun",
+   "example_mn": "Та хүлээн авах газарт түр хүлээнэ үү.",
+   "example_en": "Please wait a moment at reception.",
+   "mn_latin": "khüleen avakh gazar"
+  },
+  {
+   "mn": "хүлээн авах",
+   "en": "to receive, to welcome",
+   "pos": "verb",
+   "example_mn": "Захирал таныг одоо хүлээн авна.",
+   "example_en": "The director will receive you now.",
+   "mn_latin": "khüleen avakh"
+  },
+  {
+   "mn": "комисс",
+   "en": "panel, committee",
+   "pos": "noun",
+   "example_mn": "Комисс гурван гишүүнээс бүрдэнэ.",
+   "example_en": "The panel consists of three members.",
+   "mn_latin": "komiss"
+  },
+  {
+   "mn": "өөрийгөө танилцуулах",
+   "en": "to introduce oneself",
+   "pos": "verb phrase",
+   "example_mn": "Би өөрийгөө товч танилцуулъя.",
+   "example_en": "Let me introduce myself briefly.",
+   "mn_latin": "ööriigöö taniltsuulakh"
+  },
+  {
+   "mn": "цаг баримтлах",
+   "en": "punctuality, keeping time",
+   "pos": "noun/verb phrase",
+   "example_mn": "Цаг баримтлах нь ажлын соёлын чухал хэсэг.",
+   "example_en": "Punctuality is an important part of work culture.",
+   "mn_latin": "tsag barimtlakh"
+  },
+  {
+   "mn": "танилцах",
+   "en": "to meet, to get acquainted",
+   "pos": "verb",
+   "example_mn": "Тантай танилцахад таатай байна.",
+   "example_en": "It is a pleasure to meet you.",
+   "mn_latin": "taniltsakh"
+  },
+  {
+   "mn": "гар барих",
+   "en": "to shake hands",
+   "pos": "verb phrase",
+   "example_mn": "Тэр инээмсэглээд гар барилаа.",
+   "example_en": "She smiled and shook hands.",
+   "mn_latin": "gar barikh"
+  },
+  {
+   "mn": "талархах",
+   "en": "to thank, to be grateful",
+   "pos": "verb",
+   "example_mn": "Намайг хүлээн авсанд талархаж байна.",
+   "example_en": "I am grateful that you received me.",
+   "mn_latin": "talarkhakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сайн байна уу, би Болд гэдэг хүн.",
+   "en": "Hello, my name is Bold.",
+   "alt_mn": [
+    "Сайн байна уу, намайг Болд гэдэг."
+   ],
+   "alt_en": [
+    "Hello, I am Bold."
+   ],
+   "mn_latin": "Sain baina uu, bi Bold gedeg khün."
+  },
+  {
+   "mn": "Тантай танилцахад таатай байна.",
+   "en": "It's a pleasure to meet you.",
+   "alt_mn": [
+    "Тантай уулзсандаа таатай байна."
+   ],
+   "alt_en": [
+    "Nice to meet you."
+   ],
+   "mn_latin": "Tantai taniltsakhad taatai baina."
+  },
+  {
+   "mn": "Намайг хүлээн авсанд баярлалаа.",
+   "en": "Thank you for seeing me.",
+   "alt_mn": [
+    "Надтай уулзсанд баярлалаа."
+   ],
+   "alt_en": [
+    "Thank you for receiving me."
+   ],
+   "mn_latin": "Namaig khüleen avsand bayarlalaa."
+  },
+  {
+   "mn": "Би арван цагийн ярилцлагад ирсэн юм.",
+   "en": "I am here for the ten o'clock interview.",
+   "alt_mn": [
+    "Би арван цагийн ярилцлагад ирлээ."
+   ],
+   "alt_en": [
+    "I've come for the ten o'clock interview."
+   ],
+   "mn_latin": "Bi arvan tsagiin yariltslagad irsen yum."
+  },
+  {
+   "mn": "Таныг хүлээж байлаа, орно уу.",
+   "en": "We have been expecting you, please come in.",
+   "alt_mn": [
+    "Бид таныг хүлээж байлаа, орно уу."
+   ],
+   "alt_en": [
+    "We were waiting for you, please come in."
+   ],
+   "mn_latin": "Tanyg khüleej bailaa, orno uu."
+  },
+  {
+   "mn": "Та хүлээн авах газарт суугаад түр хүлээнэ үү.",
+   "en": "Please have a seat at reception and wait a moment.",
+   "alt_mn": [],
+   "alt_en": [
+    "Please sit down at reception and wait for a moment."
+   ],
+   "mn_latin": "Ta khüleen avakh gazart suugaad tür khüleene üü."
+  },
+  {
+   "mn": "Комисс таныг одоо хүлээн авахад бэлэн байна.",
+   "en": "The panel is ready to receive you now.",
+   "alt_mn": [],
+   "alt_en": [
+    "The panel is ready to see you now."
+   ],
+   "mn_latin": "Komiss tanyg odoo khüleen avakhad belen baina."
+  },
+  {
+   "mn": "Би цагтаа ирэхийн тулд эрт гарсан.",
+   "en": "I left early in order to arrive on time.",
+   "alt_mn": [
+    "Цагтаа ирэхийн тулд би эрт гарсан."
+   ],
+   "alt_en": [
+    "I set out early so that I would be on time."
+   ],
+   "mn_latin": "Bi tsagtaa irekhiin tuld ert garsan."
+  },
+  {
+   "mn": "Уучлаарай, замын түгжрэлээс болж жаахан хоцорлоо.",
+   "en": "I'm sorry, I'm a little late because of the traffic.",
+   "alt_mn": [
+    "Уучлаарай, түгжрэлд орж бага зэрэг хоцорчихлоо."
+   ],
+   "alt_en": [
+    "Sorry, I was held up a bit by the traffic."
+   ],
+   "mn_latin": "Uuchlaarai, zamyn tügjrelees bolj jaakhan khotsorloo."
+  },
+  {
+   "mn": "Танай оффисыг олоход амархан байлаа.",
+   "en": "Your office was easy to find.",
+   "alt_mn": [
+    "Танай оффис олоход хялбар байсан."
+   ],
+   "alt_en": [
+    "It was easy to find your office."
+   ],
+   "mn_latin": "Tanai offisyg olokhod amarkhan bailaa."
+  },
+  {
+   "mn": "Эхлээд өөрийгөө товч танилцуулж болох уу?",
+   "en": "May I start by briefly introducing myself?",
+   "alt_mn": [
+    "Эхлээд өөрийгөө товчхон танилцуулж болох уу?"
+   ],
+   "alt_en": [
+    "Would it be all right if I first introduced myself briefly?"
+   ],
+   "mn_latin": "Ekhleed ööriigöö tovch taniltsuulj bolokh uu?"
+  },
+  {
+   "mn": "Та ирэхэд төвөгтэй байсангүй биз дээ?",
+   "en": "I hope you didn't have any trouble getting here.",
+   "alt_mn": [
+    "Та ирэхэд төвөгтэй байсангүй биз?"
+   ],
+   "alt_en": [
+    "You didn't have any difficulty getting here, did you?"
+   ],
+   "mn_latin": "Ta irekhed tövögtei baisangüi biz dee?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal та forms and polite greetings",
+  "title_mn": "Албан ёсны «та» хэлбэр ба эелдэг мэндчилгээ",
+  "explain_en": "In an interview always use та (formal 'you') and polite verb endings. The ending -на уу / -нэ үү makes a request polite: Орно уу = 'Please come in', Хүлээнэ үү = 'Please wait'. The particle follows vowel harmony (уу after back vowels, үү after front vowels). Use polite greetings like Сайн байна уу and Танилцахад таатай байна. The pattern -ж байсан/байлаа shows a past state that continued: хүлээж байлаа = 'was waiting / had been expecting'. Avoid the casual сайн уу and чи.",
+  "explain_mn": "Ярилцлагад үргэлж «та» гэж хандаж, эелдэг үйл үгийн нөхцөл хэрэглэнэ. «-на уу / -нэ үү» нөхцөл хүсэлтийг эелдэг болгоно: Орно уу (Please come in), Хүлээнэ үү (Please wait). Сул үг эгшгийн зохицлыг дагана: эр үгийн дараа «уу», эм үгийн дараа «үү». «Сайн байна уу», «Танилцахад таатай байна» зэрэг эелдэг мэндчилгээг хэрэглэнэ. «-ж байсан / байлаа» нь өнгөрсөн үед үргэлжилсэн байдлыг заана: хүлээж байлаа (was waiting / had been expecting). Хэт дотно «сайн уу», «чи» хэлбэрээс зайлсхийнэ.",
+  "examples": [
+   {
+    "mn": "Сайн байна уу, орно уу.",
+    "en": "Hello, please come in.",
+    "mn_latin": "Sain baina uu, orno uu."
+   },
+   {
+    "mn": "Тантай танилцахад таатай байна.",
+    "en": "It is a pleasure to meet you.",
+    "mn_latin": "Tantai taniltsakhad taatai baina."
+   },
+   {
+    "mn": "Бид таныг хүлээж байсан.",
+    "en": "We had been expecting you.",
+    "mn_latin": "Bid tanyg khüleej baisan."
+   },
+   {
+    "mn": "Та суугаад уух зүйлээ сонгоно уу.",
+    "en": "Please sit down and choose a drink.",
+    "mn_latin": "Ta suugaad uukh züilee songono uu."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тантай танилцахад ___ байна.",
+   "answer": "таатай",
+   "options": [
+    "таатай",
+    "муухай",
+    "хурдан",
+    "хол"
+   ],
+   "translation": "It is a pleasure to meet you.",
+   "explain_en": "Танилцахад таатай байна is the fixed polite phrase for 'pleased to meet you'.",
+   "explain_mn": "«Танилцахад таатай байна» нь «pleased to meet you» гэсэн тогтсон эелдэг хэллэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид таныг удаан ___ байсан.",
+   "answer": "хүлээж",
+   "options": [
+    "хүлээж",
+    "хүлээвэл",
+    "хүлээнэ",
+    "хүлээн"
+   ],
+   "translation": "We had been waiting for you for a long time.",
+   "explain_en": "The pattern -ж байсан expresses an ongoing past action: хүлээж байсан.",
+   "explain_mn": "«-ж байсан» нь өнгөрсөн үеийн үргэлжилсэн үйлдлийг заадаг: хүлээж байсан."
+  },
+  {
+   "lang": "mn",
+   "text": "Та хүлээн авах газарт түр хүлээнэ ___.",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "уу",
+    "юу",
+    "бэ"
+   ],
+   "translation": "Please wait a moment at reception.",
+   "explain_en": "After хүлээнэ, with front vowels, the polite particle is үү, following vowel harmony.",
+   "explain_mn": "«хүлээнэ» нь эм үг (э, ү эгшигтэй) тул эгшгийн зохицлын дагуу «үү» гэж бичнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Thank you for ___ me today.",
+   "answer": "seeing",
+   "options": [
+    "seeing",
+    "see",
+    "saw",
+    "to see"
+   ],
+   "translation": "Намайг өнөөдөр хүлээн авсанд баярлалаа.",
+   "explain_en": "After the preposition 'for' we use the -ing form.",
+   "explain_mn": "«for» угтвар үгийн дараа үйл үгийн -ing хэлбэр ордог."
+  },
+  {
+   "lang": "en",
+   "text": "It's a pleasure to ___ you.",
+   "answer": "meet",
+   "options": [
+    "meet",
+    "meeting",
+    "met",
+    "meets"
+   ],
+   "translation": "Тантай танилцахад таатай байна.",
+   "explain_en": "'It's a pleasure to' is followed by the base verb.",
+   "explain_mn": "«It's a pleasure to» -ын дараа үйл үгийн анхны хэлбэр ордог."
+  },
+  {
+   "lang": "en",
+   "text": "I'm sorry, I'm a bit late. ___ I come in?",
+   "answer": "May",
+   "options": [
+    "May",
+    "Do",
+    "Will",
+    "Am"
+   ],
+   "translation": "Уучлаарай, би жаахан хоцорлоо. Орж болох уу?",
+   "explain_en": "'May I...?' is a formal way to ask permission.",
+   "explain_mn": "«May I...?» нь зөвшөөрөл асуух албан ёсны хэлбэр."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн байна уу. Би арван цагийн ярилцлагад ирсэн Сарнай байна.",
+   "en": "Hello. I'm Sarnai, here for the ten o'clock interview.",
+   "mn_latin": "Sain baina uu. Bi arvan tsagiin yariltslagad irsen Sarnai baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Сайн байна уу, Сарнай. Бид таныг хүлээж байлаа. Замдаа төвөгтэй байсангүй биз?",
+   "en": "Hello, Sarnai. We've been expecting you. I hope you had no trouble getting here.",
+   "mn_latin": "Sain baina uu, Sarnai. Bid tanyg khüleej bailaa. Zamdaa tövögtei baisangüi biz?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Үгүй ээ, оффисыг олоход амархан байлаа. Цагтаа ирэхийн тулд эрт гарсан.",
+   "en": "No, the office was easy to find. I left early to arrive on time.",
+   "mn_latin": "Ügüi ee, offisyg olokhod amarkhan bailaa. Tsagtaa irekhiin tuld ert garsan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Сайн байна. Комисс таныг хүлээн авахад бэлэн байна. Намайг дагана уу.",
+   "en": "Good. The panel is ready to see you. Please follow me.",
+   "mn_latin": "Sain baina. Komiss tanyg khüleen avakhad belen baina. Namaig dagana uu."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Та бүхэнтэй танилцахад таатай байна. Намайг хүлээн авсанд баярлалаа.",
+   "en": "It's a pleasure to meet you all. Thank you for seeing me.",
+   "mn_latin": "Ta bükhentei taniltsakhad taatai baina. Namaig khüleen avsand bayarlalaa."
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Бид ч бас таатай байна. Суугаарай. Эхлээд өөрийгөө товч танилцуулна уу.",
+   "en": "The pleasure is ours. Please sit down. We'd like you to start by introducing yourself briefly.",
+   "mn_latin": "Bid ch bas taatai baina. Suugaarai. Ekhleed ööriigöö tovch taniltsuulna uu."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Мэдээж. Би маркетингийн чиглэлээр таван жил ажилласан.",
+   "en": "Of course. I have worked in marketing for five years.",
+   "mn_latin": "Medeej. Bi markyetingiin chigleleer tavan jil ajillasan."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian workplaces, arriving a little early and greeting everyone with a slight nod and a handshake shows respect. Use та and, where appropriate, a person's name with a title or the polite suffix -гуай, or their position such as дарга. Light small talk about the weather or traffic in Ulaanbaatar is common before the interview begins.",
+  "mn": "Монголын ажлын байранд ярилцлагад бага зэрэг эрт очиж, бүх хүнтэй толгой дохин, гар барьж мэндлэх нь хүндлэлийг илтгэнэ. «Та» гэж хандаж, тохиромжтой үед хүний нэрийн ард «гуай» гэх мэт хүндэтгэлийн үг хэлэх, эсвэл «дарга» гэх мэт албан тушаалаар нь хандаж болно. Ярилцлага эхлэхээс өмнө Улаанбаатарын цаг агаар, түгжрэлийн тухай хөнгөн яриа өрнүүлэх нь элбэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 21,
+  "notes": "Mostly understandable but has several unnatural Mongolian phrases, casual imperatives in formal contexts, and a badly garbled grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 11,
+  "notes": "Fixed ungrammatical Mongolian, a fill-in-the-blank with two possible answers, a mismatched alt, and grammar and culture texts that differed between en and mn.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Wrong verb form дадлагажина; now matches intro_en"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "Old alt meant 'came to the interview at ten', a different meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "'Excuse me' is not an apology here"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "Ungrammatical construction танилцуулахыг хүсвэл болох уу"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "Alt duplicated the corrected main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Did not match explain_en: missing interview context, vowel harmony and сайн уу"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "хүлээсэн байсан was also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Wrong terminology (эгшиг сул)"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "дагаад алхана уу is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Тантай бүгдтэй is ungrammatical; standard form is та бүхэнтэй"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Now matches en: adds the дарга example and 'where appropriate'"
+   }
+  ]
+ }
+}

@@ -1,0 +1,384 @@
+{
+ "intro_en": "In this lesson you will trace a horse's pedigree with a Mongolian breeder. You will chain genitive nouns together (эхийн эцэг, \"the dam's sire\") and describe ancestry with -тай (алдартай азаргын удамтай). You will also learn when English uses breed, strain, line, or pedigree.",
+ "intro_mn": "Энэ хичээлээр та уяачтай хамт морины удам угшлыг мөшгиж сурна. Харьяалахын тийн ялгалыг цувуулан хэрэглэх (эхийн эцэг), -тай дагавраар удам угшлыг тодорхойлох (алдартай азаргын удамтай) аргыг эзэмшинэ. Мөн англи хэлний breed, strain, line, pedigree гэдэг үгсийн ялгааг ойлгоно.",
+ "vocab": [
+  {
+   "mn": "удам",
+   "en": "line, lineage",
+   "pos": "noun",
+   "example_mn": "Энэ морь хурдан удамтай.",
+   "example_en": "This horse comes from a fast line.",
+   "mn_latin": "udam"
+  },
+  {
+   "mn": "угшил",
+   "en": "ancestry, stock",
+   "pos": "noun",
+   "example_mn": "Энэ унага араб угшилтай.",
+   "example_en": "This foal has Arabian ancestry.",
+   "mn_latin": "ugshil"
+  },
+  {
+   "mn": "үүлдэр",
+   "en": "breed",
+   "pos": "noun",
+   "example_mn": "Монгол адуу бол тэсвэр хатуужилтай үүлдэр.",
+   "example_en": "The Mongolian horse is a hardy breed.",
+   "mn_latin": "üülder"
+  },
+  {
+   "mn": "эх",
+   "en": "dam (mother of a horse)",
+   "pos": "noun",
+   "example_mn": "Энэ унаганы эх нь хурдан гүү байсан.",
+   "example_en": "This foal's dam was a fast mare.",
+   "mn_latin": "ekh"
+  },
+  {
+   "mn": "эцэг",
+   "en": "sire (father of a horse)",
+   "pos": "noun",
+   "example_mn": "Түүний эцэг нь Наадамд түрүүлсэн азарга.",
+   "example_en": "Its sire is a stallion that won at Naadam.",
+   "mn_latin": "etseg"
+  },
+  {
+   "mn": "цус ойртолт",
+   "en": "inbreeding",
+   "pos": "noun",
+   "example_mn": "Цус ойртолтоос болж адуу сулардаг.",
+   "example_en": "Inbreeding makes horses weaker.",
+   "mn_latin": "tsus oirtolt"
+  },
+  {
+   "mn": "сайжруулах",
+   "en": "to improve",
+   "pos": "verb",
+   "example_mn": "Бид үүлдрээ сайжруулахыг хүсэж байна.",
+   "example_en": "We want to improve our breed.",
+   "mn_latin": "saijruulakh"
+  },
+  {
+   "mn": "азарга",
+   "en": "stallion",
+   "pos": "noun",
+   "example_mn": "Хүрэн азарга арван гүүтэй сүргээ тэргүүлдэг.",
+   "example_en": "The brown stallion leads a herd of ten mares.",
+   "mn_latin": "azarga"
+  },
+  {
+   "mn": "гүү",
+   "en": "mare",
+   "pos": "noun",
+   "example_mn": "Энэ гүү гурван удаа унагалсан.",
+   "example_en": "This mare has foaled three times.",
+   "mn_latin": "güü"
+  },
+  {
+   "mn": "үр төл",
+   "en": "offspring, progeny",
+   "pos": "noun",
+   "example_mn": "Тэр азаргын үр төл бүгд хурдан.",
+   "example_en": "That stallion's offspring are all fast.",
+   "mn_latin": "ür töl"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ хээр морь алдартай азаргын удамтай.",
+   "en": "This bay horse comes from the line of a famous stallion.",
+   "alt_mn": [
+    "Энэ хээр морь нэртэй азаргын удамтай."
+   ],
+   "alt_en": [
+    "This bay horse is descended from a famous stallion."
+   ],
+   "mn_latin": "Ene kheer mori aldartai azargyn udamtai."
+  },
+  {
+   "mn": "Түүний эхийн эцэг нь Наадамд гурван удаа түрүүлсэн.",
+   "en": "Its dam's sire won at Naadam three times.",
+   "alt_mn": [],
+   "alt_en": [
+    "Its maternal grandsire won at Naadam three times."
+   ],
+   "mn_latin": "Tüünii ekhiin etseg ni Naadamd gurvan udaa türüülsen."
+  },
+  {
+   "mn": "Энэ үүлдрийг сайжруулахын тулд цус ойртолтоос зайлсхийх хэрэгтэй.",
+   "en": "To improve this breed, you need to avoid inbreeding.",
+   "alt_mn": [],
+   "alt_en": [
+    "To improve this breed, inbreeding must be avoided."
+   ],
+   "mn_latin": "Ene üüldriig saijruulakhyn tuld tsus oirtoltoos zailskhiikh kheregtei."
+  },
+  {
+   "mn": "Миний өвөөгийн адууны удам зуу гаруй жилийн түүхтэй.",
+   "en": "The line of my grandfather's horses goes back more than a hundred years.",
+   "alt_mn": [],
+   "alt_en": [
+    "My grandfather's horse line has a history of over a hundred years."
+   ],
+   "mn_latin": "Minii övöögiin aduuny udam zuu garui jiliin tüükhtei."
+  },
+  {
+   "mn": "Энэ гүүний эхийн эх Дарьганга угшилтай.",
+   "en": "This mare's maternal granddam is of Dariganga stock.",
+   "alt_mn": [],
+   "alt_en": [
+    "This mare's dam's dam has Dariganga ancestry."
+   ],
+   "mn_latin": "Ene güünii ekhiin ekh Dariganga ugshiltai."
+  },
+  {
+   "mn": "Удмын бичиг байхгүй бол морины угшлыг тогтооход хэцүү.",
+   "en": "Without pedigree records, it's hard to establish a horse's ancestry.",
+   "alt_mn": [],
+   "alt_en": [
+    "Without a pedigree, it's difficult to trace a horse's ancestry."
+   ],
+   "mn_latin": "Udmyn bichig baikhgüi bol moriny ugshlyg togtookhod khetsüü."
+  },
+  {
+   "mn": "Тэр сайжруулсан үүлдрийн азаргыг гадаадаас авчирсан.",
+   "en": "That stallion of an improved breed was brought from abroad.",
+   "alt_mn": [],
+   "alt_en": [
+    "That improved-breed stallion was imported from abroad."
+   ],
+   "mn_latin": "Ter saijruulsan üüldriin azargyg gadaadaas avchirsan."
+  },
+  {
+   "mn": "\"Хэний удмын морь вэ?\" гэж уяач асуулаа.",
+   "en": "\"Whose line is this horse from?\" the trainer asked.",
+   "alt_mn": [],
+   "alt_en": [
+    "\"What line does this horse come from?\" the trainer asked."
+   ],
+   "mn_latin": "\"Khenii udmyn mori ve?\" gej uyaach asuulaa."
+  },
+  {
+   "mn": "Цус ойртолтоос сэргийлэхийн тулд бид өөр нутгаас азарга авчирсан.",
+   "en": "To prevent inbreeding, we brought in a stallion from another region.",
+   "alt_mn": [],
+   "alt_en": [
+    "We brought a stallion from another area to prevent inbreeding."
+   ],
+   "mn_latin": "Tsus oirtoltoos sergiilekhiin tuld bid öör nutgaas azarga avchirsan."
+  },
+  {
+   "mn": "Энэ унага эцгийнхээ хурд, эхийнхээ тэсвэрийг өвлөсөн.",
+   "en": "This foal inherited its sire's speed and its dam's stamina.",
+   "alt_mn": [],
+   "alt_en": [
+    "This foal got its speed from its sire and its stamina from its dam."
+   ],
+   "mn_latin": "Ene unaga etsgiinkhee khurd, ekhiinkhee tesveriig övlösön."
+  },
+  {
+   "mn": "Монгол адуу нэг үүлдэр боловч олон янзын угшилтай.",
+   "en": "The Mongolian horse is a single breed, but it has many different strains.",
+   "alt_mn": [],
+   "alt_en": [
+    "Mongolian horses are one breed with many different strains."
+   ],
+   "mn_latin": "Mongol aduu neg üülder bolovch olon yanzyn ugshiltai."
+  },
+  {
+   "mn": "Манай аймгийн хамгийн хурдан морьдын ихэнх нь нэг азаргын үр төл.",
+   "en": "Most of the fastest horses in our province are the offspring of one stallion.",
+   "alt_mn": [],
+   "alt_en": [
+    "Most of our province's fastest horses were sired by one stallion."
+   ],
+   "mn_latin": "Manai aimgiin khamgiin khurdan moridyn ikhenkh ni neg azargyn ür töl."
+  }
+ ],
+ "grammar": {
+  "title_en": "Genitive chains + -тай: \"of a famous stallion's line\"",
+  "title_mn": "Breed, strain, line, pedigree: удам угшлын үгсийн ялгаа",
+  "explain_en": "Mongolian builds family trees by stacking genitive nouns: эх (dam) becomes эхийн эцэг (\"the dam's sire\"), and эхийн эх becomes \"the dam's dam.\" The genitive ending follows vowel harmony and the shape of the word. It is -ын/-ийн after most consonants and short vowels (удмын, эхийн, азаргын, where the final short vowel drops). It is -ы/-ий after н (хааны). It is -гийн after long vowels and diphthongs (өвөөгийн). It is -ны/-ний after a hidden н (гүүний, унаганы). To say what a horse HAS, attach -тай/-тэй/-той to the head noun: удамтай (\"having a line\"). Put the two together and the genitive phrase describes the line: алдартай азаргын удамтай means \"having the line of a famous stallion,\" or in natural English, \"descended from a famous stallion.\" The whole chain sits in front of -тай, so English often reads it backwards.",
+  "explain_mn": "Англи хэлэнд удам угшлын дөрвөн үг өөр өөр утгатай. Breed бол бүхэл үүлдэр: the Mongolian breed, a breed of horse. Strain бол нэг үүлдэр доторх онцлог бүхий угшил, салбар: the Dariganga strain. Line бол тодорхой нэг өвөг дээдсээс үүссэн удам. \"A long line of champions\" буюу \"аваргуудын урт удам\" гэх мэтээр хэрэглэнэ. Pedigree бол бичигдсэн удмын бичиг, ургийн мод: pedigree papers. Монгол хэлний эхийн эцэг гэдэг гинжин ялгалыг англиар the dam's sire эсвэл maternal grandsire гэж хэлнэ. Тэмдэглэл: англиар морины эцэг, эхийг ихэвчлэн father, mother биш sire, dam гэж нэрлэдэг.",
+  "examples": [
+   {
+    "mn": "Энэ морь алдартай азаргын удамтай.",
+    "en": "This horse comes from the line of a famous stallion.",
+    "mn_latin": "Ene mori aldartai azargyn udamtai."
+   },
+   {
+    "mn": "Түүний эхийн эцэг хурдан хээр азарга байсан.",
+    "en": "Its dam's sire was a fast bay stallion.",
+    "mn_latin": "Tüünii ekhiin etseg khurdan kheer azarga baisan."
+   },
+   {
+    "mn": "Энэ гүү Дарьганга угшилтай.",
+    "en": "This mare is of the Dariganga strain.",
+    "mn_latin": "Ene güü Dariganga ugshiltai."
+   },
+   {
+    "mn": "Удмын бичгийг нь харуулаач.",
+    "en": "Please show me its pedigree.",
+    "mn_latin": "Udmyn bichgiig ni kharuulaach."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ морь алдартай ___ удамтай.",
+   "answer": "азаргын",
+   "options": [
+    "азаргын",
+    "азаргатай",
+    "азаргад",
+    "азаргаас"
+   ],
+   "translation": "This horse comes from the line of a famous stallion.",
+   "explain_en": "The stallion owns the line, so азарга takes the genitive ending -ын. The final short vowel drops: азаргын удам, \"the stallion's line.\"",
+   "explain_mn": "Удам нь азаргынх тул азарга гэдэг үг харьяалахын тийн -ын нөхцөл авч, эцсийн богино эгшиг гээгдэнэ: азаргын удам."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ хээр морь хурдан удам___.",
+   "answer": "тай",
+   "options": [
+    "тай",
+    "тэй",
+    "той",
+    "ын"
+   ],
+   "translation": "This bay horse comes from a fast line.",
+   "explain_en": "-тай means \"having.\" The vowel in удам is а, so vowel harmony picks -тай, not -тэй or -той.",
+   "explain_mn": "Удам гэдэг үгийн эгшиг а тул эгшиг зохицох ёсоор хамтрах утгатай -тай нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ унаганы ___ нь Наадамд түрүүлсэн азарга.",
+   "answer": "эцэг",
+   "options": [
+    "эцэг",
+    "эх",
+    "гүү",
+    "үүлдэр"
+   ],
+   "translation": "This foal's sire is a stallion that won at Naadam.",
+   "explain_en": "A stallion can only be the father, so the answer is эцэг (sire). Эх and гүү refer to females.",
+   "explain_mn": "Азарга эр тул унаганы эцэг болно. Эх, гүү гэдэг нь эм адууг заана."
+  },
+  {
+   "lang": "en",
+   "text": "The Akhal-Teke is a ___ of horse from Turkmenistan.",
+   "answer": "breed",
+   "options": [
+    "breed",
+    "strain",
+    "pedigree",
+    "line"
+   ],
+   "translation": "Ахалтеке бол Туркменстаны адууны үүлдэр юм.",
+   "explain_en": "A whole recognized type of horse is a breed.",
+   "explain_mn": "Бүхэл бие даасан адууны төрлийг breed (үүлдэр) гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Before you buy the colt, ask to see his ___ papers.",
+   "answer": "pedigree",
+   "options": [
+    "pedigree",
+    "breed",
+    "strain",
+    "line"
+   ],
+   "translation": "Даагыг авахаасаа өмнө удмын бичгийг нь үзүүлэхийг хүсээрэй.",
+   "explain_en": "The written record of a horse's ancestors is its pedigree. People often say \"pedigree papers.\"",
+   "explain_mn": "Бичигдсэн удмын бичгийг pedigree гэнэ. Ихэвчлэн pedigree papers гэж хэлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "This colt comes from a long ___ of Naadam winners.",
+   "answer": "line",
+   "options": [
+    "line",
+    "breed",
+    "strain",
+    "pedigree"
+   ],
+   "translation": "Энэ даага Наадамд түрүүлсэн морьдын урт удмаас гаралтай.",
+   "explain_en": "\"A long line of...\" is the fixed phrase for a series of related ancestors.",
+   "explain_mn": "\"A long line of ...\" буюу \"...-ын урт удам\" нь тогтвортой хэллэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Энэ саарал гүү хэний удмын морь вэ?",
+   "en": "Whose line is this gray mare from?",
+   "mn_latin": "Ene saaral güü khenii udmyn mori ve?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Манай нутгийн алдартай Хурдан Хээр гэдэг азаргын удамтай.",
+   "en": "She's descended from a famous local stallion called Khurdan Kheer.",
+   "mn_latin": "Manai nutgiin aldartai Khurdan Kheer gedeg azargyn udamtai."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Харин түүний эх ямар угшилтай вэ?",
+   "en": "And what ancestry does her dam have?",
+   "mn_latin": "Kharin tüünii ekh yamar ugshiltai ve?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Эх нь Дарьганга угшилтай, их тэсвэртэй гүү байсан.",
+   "en": "Her dam was of Dariganga stock, a very hardy mare.",
+   "mn_latin": "Ekh ni Dariganga ugshiltai, ikh tesvertei güü baisan."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Танайх цус ойртолтоос яаж сэргийлдэг вэ?",
+   "en": "How do you prevent inbreeding?",
+   "mn_latin": "Tanaikh tsus oirtoltoos yaaj sergiildeg ve?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Гурав, дөрвөн жил тутамд өөр нутгаас азарга авчирч, азаргаа сэлгэдэг.",
+   "en": "Every three or four years we bring in a stallion from another region and swap out our herd stallion.",
+   "mn_latin": "Gurav, dörvön jil tutamd öör nutgaas azarga avchirch, azargaa selgedeg."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Тэгэхээр та үүлдрээ сайжруулахын зэрэгцээ хуучин удмаа хадгалж байна гэсэн үг үү?",
+   "en": "So you're improving the breed while keeping the old line alive?",
+   "mn_latin": "Tegekheer ta üüldree saijruulakhyn zeregtsee khuuchin udmaa khadgalj baina gesen üg üü?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Яг тийм. Сайн морь сайн удмаас гардаг гэж манайхан ярьдаг.",
+   "en": "Exactly. Our people say a good horse comes from a good line.",
+   "mn_latin": "Yag tiim. Sain mori sain udmaas gardag gej manaikhan yaridag."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian herders and racehorse trainers carry a horse's pedigree in their heads and can name a winning racer's sire and dam several generations back. To avoid inbreeding, herders traditionally swap their herd stallion every few years or move young mares into another stallion's herd. Some well-known local strains, such as the Dariganga horses of Sükhbaatar Province, are proudly kept within their home regions.",
+  "mn": "Монгол малчид, уяачид морины удам угшлыг ихэвчлэн цээжээр мэддэг бөгөөд түрүү морины эцэг, эхийг хэдэн үеэр нь нэрлэж чаддаг. Цус ойртолтоос сэргийлэхийн тулд хэдэн жил тутамд азаргаа сэлгэх буюу залуу гүүдийг өөр азаргын сүрэгт нийлүүлдэг уламжлалтай. Сүхбаатар аймгийн Дарьганга адуу зэрэг нутгийн алдартай угшлыг төрсөн нутагт нь бахархалтайгаар хадгалан үлдээдэг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 9,
+  "notes": "Content and translations are solid. The main problems were the genitive explanation, the wrong case name, a fill-in-the-blank that produced a wrong word form, and one missing object marker."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "Only one fix was needed. The lesson is accurate, natural and well paired, and the grammar sections deliberately address each audience separately.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "The bare imperative хүс sounds curt. The polite form хүсээрэй fits the course's default polite register."
+   }
+  ]
+ }
+}

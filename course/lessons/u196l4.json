@@ -1,0 +1,416 @@
+{
+ "intro_en": "Learn to talk about your daily work routine in Mongolian: morning briefings, reports, timesheets, schedules, and logging into systems. You'll also practice choosing between the reflexive ending -аа (your own thing) and -ыг нь (someone else's or an already-mentioned thing).",
+ "intro_mn": "Энэ хичээлээр өдөр тутмын ажлын хэвшлийн тухай англиар ярьж сурна: шуурхай хурал, тайлан, цаг бүртгэл, хуваарь, системд нэвтрэх. Мөн \"Checking email takes time\" ба \"It takes time to check email\" гэх мэт gerund-ээр эхэлсэн өгүүлбэр ба it-тэй хувилбарыг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "шуурхай хурал",
+   "en": "briefing (short daily meeting)",
+   "pos": "noun",
+   "example_mn": "Өглөө бүр есөн цагт шуурхай хурал болдог.",
+   "example_en": "There's a briefing every morning at nine.",
+   "mn_latin": "shuurkhai khural"
+  },
+  {
+   "mn": "тайлан",
+   "en": "report",
+   "pos": "noun",
+   "example_mn": "Долоо хоногийн тайлангаа баасан гарагт илгээгээрэй.",
+   "example_en": "Please send your weekly report on Friday.",
+   "mn_latin": "tailan"
+  },
+  {
+   "mn": "цаг бүртгэл",
+   "en": "timesheet, time tracking",
+   "pos": "noun",
+   "example_mn": "Цаг бүртгэлээ өдөр бүр бөглөнө үү.",
+   "example_en": "Please fill in your timesheet every day.",
+   "mn_latin": "tsag bürtgel"
+  },
+  {
+   "mn": "имэйл",
+   "en": "email",
+   "pos": "noun",
+   "example_mn": "Би өглөө ирээд имэйлээ шалгадаг.",
+   "example_en": "I check my email when I get to work in the morning.",
+   "mn_latin": "imeil"
+  },
+  {
+   "mn": "хуваарь",
+   "en": "schedule",
+   "pos": "noun",
+   "example_mn": "Ажлын хуваарь ирэх долоо хоногоос өөрчлөгдөнө.",
+   "example_en": "The work schedule changes starting next week.",
+   "mn_latin": "khuvaari"
+  },
+  {
+   "mn": "нууц үг",
+   "en": "password",
+   "pos": "noun",
+   "example_mn": "Нууц үгээ хэнд ч бүү хэлээрэй.",
+   "example_en": "Don't tell your password to anyone.",
+   "mn_latin": "nuuts üg"
+  },
+  {
+   "mn": "нэвтрэх",
+   "en": "to log in",
+   "pos": "verb",
+   "example_mn": "Системд нэвтрэхийн тулд нууц үгээ оруулна уу.",
+   "example_en": "Enter your password to log into the system.",
+   "mn_latin": "nevtrekh"
+  },
+  {
+   "mn": "илгээх",
+   "en": "to send",
+   "pos": "verb",
+   "example_mn": "Та тайлангаа менежерт илгээсэн үү?",
+   "example_en": "Did you send your report to the manager?",
+   "mn_latin": "ilgeekh"
+  },
+  {
+   "mn": "бөглөх",
+   "en": "to fill in, to fill out",
+   "pos": "verb",
+   "example_mn": "Энэ маягтыг бөглөөд надад өгөөрэй.",
+   "example_en": "Fill out this form and give it to me.",
+   "mn_latin": "böglökh"
+  },
+  {
+   "mn": "хариуцах",
+   "en": "to be responsible for",
+   "pos": "verb",
+   "example_mn": "Би долоо хоногийн тайланг хариуцдаг.",
+   "example_en": "I'm responsible for the weekly report.",
+   "mn_latin": "khariutsakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тайлангаа баасан гарагийн үдээс өмнө илгээгээрэй.",
+   "en": "Send your report before noon on Friday.",
+   "alt_mn": [
+    "Тайлангаа баасан гарагт үдээс өмнө явуулаарай."
+   ],
+   "alt_en": [
+    "Please send your report before noon on Friday."
+   ],
+   "mn_latin": "Tailangaa baasan garagiin üdees ömnö ilgeegeerei."
+  },
+  {
+   "mn": "Болд тайлангаа явуулсан, та тайланг нь шалгаж өгөөч.",
+   "en": "Bold sent his report; could you check it?",
+   "alt_mn": [
+    "Болд тайлангаа илгээсэн, та тайланг нь шалгаж өгнө үү."
+   ],
+   "alt_en": [
+    "Bold sent his report. Could you check it, please?"
+   ],
+   "mn_latin": "Bold tailangaa yavuulsan, ta tailang ni shalgaj ögööch."
+  },
+  {
+   "mn": "Имэйл шалгахад их цаг ордог.",
+   "en": "Checking email takes a lot of time.",
+   "alt_mn": [
+    "Имэйл шалгах нь их цаг шаарддаг."
+   ],
+   "alt_en": [
+    "It takes a lot of time to check email."
+   ],
+   "mn_latin": "Imeil shalgakhad ikh tsag ordog."
+  },
+  {
+   "mn": "Шуурхай хурал өглөө бүр есөн цагт эхэлдэг.",
+   "en": "The briefing starts at nine every morning.",
+   "alt_mn": [
+    "Өглөө бүр шуурхай хурал есөн цагт эхэлдэг."
+   ],
+   "alt_en": [
+    "The morning briefing starts at nine every day."
+   ],
+   "mn_latin": "Shuurkhai khural öglöö bür yesön tsagt ekheldeg."
+  },
+  {
+   "mn": "Цаг бүртгэлээ өдөр бүр бөглөхөө бүү мартаарай.",
+   "en": "Don't forget to fill in your timesheet every day.",
+   "alt_mn": [
+    "Өдөр бүр цаг бүртгэлээ бөглөхөө мартуузай."
+   ],
+   "alt_en": [
+    "Don't forget to fill out your timesheet every day."
+   ],
+   "mn_latin": "Tsag bürtgelee ödör bür böglökhöö büü martaarai."
+  },
+  {
+   "mn": "Нууц үгээ гурван сар тутам солих шаардлагатай.",
+   "en": "You need to change your password every three months.",
+   "alt_mn": [
+    "Гурван сар тутамд нууц үгээ солих ёстой."
+   ],
+   "alt_en": [
+    "You have to change your password every three months."
+   ],
+   "mn_latin": "Nuuts ügee gurvan sar tutam solikh shaardlagatai."
+  },
+  {
+   "mn": "Шинэ системд нэвтрэх нь эхэндээ хэцүү байсан.",
+   "en": "Logging into the new system was hard at first.",
+   "alt_mn": [],
+   "alt_en": [
+    "It was hard to log into the new system at first."
+   ],
+   "mn_latin": "Shine sistyemd nevtrekh ni ekhendee khetsüü baisan."
+  },
+  {
+   "mn": "Энэ имэйлийг уншаад хавсралтыг нь хэвлээрэй.",
+   "en": "Read this email and print the attachment.",
+   "alt_mn": [
+    "Энэ имэйлийг уншчихаад хавсралтыг нь хэвлэж өгөөрэй."
+   ],
+   "alt_en": [
+    "Read this email and print its attachment."
+   ],
+   "mn_latin": "Ene imeiliig unshaad khavsraltyg ni khevleerei."
+  },
+  {
+   "mn": "Өдрийн ажлаа жагсаалт болгон бичих нь их тус болдог.",
+   "en": "Writing a list of your daily tasks helps a lot.",
+   "alt_mn": [
+    "Өдрийн ажлаа жагсааж бичих нь их тустай."
+   ],
+   "alt_en": [
+    "It helps a lot to write a list of your daily tasks."
+   ],
+   "mn_latin": "Ödriin ajlaa jagsaalt bolgon bichikh ni ikh tus boldog."
+  },
+  {
+   "mn": "Шуурхай хурал дээр хүн бүр өчигдрийн ажлаа товч танилцуулдаг.",
+   "en": "At the briefing, everyone briefly presents what they did yesterday.",
+   "alt_mn": [
+    "Шуурхай хурал дээр хүн бүр өчигдөр хийсэн ажлаа товчхон ярьдаг."
+   ],
+   "alt_en": [
+    "At the briefing, everyone gives a short update on yesterday's work."
+   ],
+   "mn_latin": "Shuurkhai khural deer khün bür öchigdriin ajlaa tovch taniltsuuldag."
+  },
+  {
+   "mn": "IT хэлтэс таны нууц үгийг сэргээж өгнө.",
+   "en": "The IT department will reset your password.",
+   "alt_mn": [
+    "IT хэлтэс нууц үгийг тань сэргээж өгнө."
+   ],
+   "alt_en": [
+    "IT will reset your password for you."
+   ],
+   "mn_latin": "IT kheltes tany nuuts ügiig sergeej ögnö."
+  },
+  {
+   "mn": "Цаг бүртгэлийн системд нэвтэрч чадахгүй байна, туслаж өгөөч.",
+   "en": "I can't log into the timesheet system. Could you help me?",
+   "alt_mn": [
+    "Цаг бүртгэлийн системд нэвтэрч чадахгүй байна, туслаач."
+   ],
+   "alt_en": [
+    "I can't get into the timesheet system. Can you help?"
+   ],
+   "mn_latin": "Tsag bürtgeliin sistyemd nevterch chadakhgüi baina, tuslaj ögööch."
+  }
+ ],
+ "grammar": {
+  "title_en": "Your own vs. someone else's: -аа vs. -ыг нь",
+  "title_mn": "Gerund-ээр эхлэх өгүүлбэр ба It-тэй хувилбар",
+  "explain_en": "When the object belongs to the subject of the sentence (often 'you' in instructions), Mongolian uses the reflexive possessive ending -аа/-ээ/-оо/-өө: нууц үгээ соль = 'change your password'. After a long vowel or diphthong, and after hidden-г stems like тайлан, it becomes -гаа/-гээ etc.: тайлангаа илгээ = 'send your (own) report'. After -ь or -и it becomes -иа/-ио (хуваарь → хуваариа). In this pattern the accusative -ыг drops. When the object belongs to someone else, or it's a specific thing already mentioned, use the accusative + нь: тайланг нь шалга = 'check his/her report' or 'check the report (we just talked about)'. Quick test: if you could say 'my own / your own', choose -аа; if you mean 'his, hers, its, that one', choose -ыг нь.",
+  "explain_mn": "Англи хэлэнд үйл хөдлөлийг өгүүлэгч болгохдоо -ing хэлбэрийг (gerund) ашигладаг: \"Checking email takes time.\" (Имэйл шалгахад цаг ордог.) Үйл үг нь ганц тоо: takes, is, helps. Үүнийг ихэвчлэн \"It ... to + үйл үг\" бүтцээр солих боломжтой: \"It takes time to check email.\" Энд It гэдэг нь дараа нь ирэх үйлдлийг заасан хоосон өгүүлэгч юм. Ярианд It-тэй хувилбар илүү түгээмэл, харин gerund-тэй хувилбар нь үйлдлийг онцолж өгдөг. Анхаар: \"To check email takes time\" гэж бичиж болох ч хэт албан, ховор сонсогдоно.",
+  "examples": [
+   {
+    "mn": "Тайлангаа илгээ.",
+    "en": "Send your report.",
+    "mn_latin": "Tailangaa ilgee."
+   },
+   {
+    "mn": "Сараа тайлангаа бичсэн. Тайланг нь шалга.",
+    "en": "Saraa wrote her report. Check it.",
+    "mn_latin": "Saraa tailangaa bichsen. Tailang ni shalga."
+   },
+   {
+    "mn": "Имэйл шалгахад цаг ордог.",
+    "en": "Checking email takes time. / It takes time to check email.",
+    "mn_latin": "Imeil shalgakhad tsag ordog."
+   },
+   {
+    "mn": "Хуваариа урьдчилж харах нь чухал.",
+    "en": "Looking at your schedule in advance is important. / It's important to look at your schedule in advance.",
+    "mn_latin": "Khuvaaria uridchilj kharakh ni chukhal."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өөрийн бичсэн тайлан___ одоо илгээнэ.",
+   "answer": "гаа",
+   "options": [
+    "гаа",
+    "гийн",
+    "тай",
+    "гаас"
+   ],
+   "translation": "I'll send the report I wrote myself now.",
+   "explain_en": "The report belongs to the subject (I), and өөрийн 'my own' makes that clear, so use the reflexive ending: тайлан + гаа = тайлангаа. Тайлан has a hidden -г stem (compare тайланг), so the ending appears as -гаа.",
+   "explain_mn": "Тайлан нь өгүүлэгчийнх (би) учраас өөрийн хамаатуулах -гаа нөхцөл тохирно: тайлангаа."
+  },
+  {
+   "lang": "mn",
+   "text": "Болд надад имэйл явуулсан. Би имэйл___ уншсан.",
+   "answer": "ийг нь",
+   "options": [
+    "ийг нь",
+    "ээ",
+    "тэй",
+    "ээс"
+   ],
+   "translation": "Bold sent me an email. I read it.",
+   "explain_en": "The email is Bold's, already mentioned, and not the speaker's own, so use accusative -ийг + нь: имэйлийг нь.",
+   "explain_mn": "Имэйл нь Болдын явуулсан, өмнө дурдсан зүйл тул заах -ийг ба нь хэрэглэнэ: имэйлийг нь."
+  },
+  {
+   "lang": "mn",
+   "text": "Өдөр бүр цаг бүртгэл___ өөрөө бөглөөрэй.",
+   "answer": "ээ",
+   "options": [
+    "ээ",
+    "тэй",
+    "ээс",
+    "ийн"
+   ],
+   "translation": "Fill in your timesheet yourself every day.",
+   "explain_en": "It's your own timesheet (the listener's), so use the reflexive ending: бүртгэл + ээ = бүртгэлээ. The ending is -ээ because of front-vowel harmony (ү, э).",
+   "explain_mn": "Цаг бүртгэл нь сонсогчийн өөрийнх тул -ээ нөхцөл тохирно: цаг бүртгэлээ."
+  },
+  {
+   "lang": "en",
+   "text": "___ the timesheet every day is required.",
+   "answer": "Filling",
+   "options": [
+    "Filling",
+    "Fill",
+    "Filled",
+    "To filling"
+   ],
+   "translation": "Цаг бүртгэлийг өдөр бүр бөглөх шаардлагатай.",
+   "explain_en": "An action used as the subject takes the -ing form (gerund): Filling the timesheet... is required.",
+   "explain_mn": "Үйлдэл өгүүлэгч болж байгаа тул -ing хэлбэр (gerund) хэрэглэнэ: Filling."
+  },
+  {
+   "lang": "en",
+   "text": "It takes ten minutes ___ into the system.",
+   "answer": "to log",
+   "options": [
+    "to log",
+    "log",
+    "logged",
+    "logs"
+   ],
+   "translation": "Системд нэвтрэхэд арван минут ордог.",
+   "explain_en": "In the pattern 'It takes + time + to + verb', the action comes after 'to'.",
+   "explain_mn": "\"It takes + хугацаа + to + үйл үг\" бүтцэд үйл үг to-той ирнэ: to log."
+  },
+  {
+   "lang": "en",
+   "text": "___ is important to read the schedule.",
+   "answer": "It",
+   "options": [
+    "It",
+    "This",
+    "There",
+    "That"
+   ],
+   "translation": "Хуваарийг унших нь чухал.",
+   "explain_en": "Use 'It' as a placeholder subject when the real subject (to read the schedule) comes later.",
+   "explain_mn": "Жинхэнэ өгүүлэгч (to read the schedule) хойно ирэх үед урд нь хоосон өгүүлэгч It тавина. There, This энд тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Туул",
+   "mn": "Өглөөний мэнд! Шуурхай хурал арван минутын дараа эхэлнэ.",
+   "en": "Good morning! The briefing starts in ten minutes.",
+   "mn_latin": "Öglöönii mend! Shuurkhai khural arvan minutyn daraa ekhelne."
+  },
+  {
+   "speaker": "Ганаа",
+   "mn": "Ойлголоо. Би системд нэвтрэх гэсэн чинь нууц үг маань ажиллахгүй байна.",
+   "en": "Got it. I tried to log into the system, but my password isn't working.",
+   "mn_latin": "Oilgoloo. Bi sistyemd nevtrekh gesen chini nuuts üg maani ajillakhgüi baina."
+  },
+  {
+   "speaker": "Туул",
+   "mn": "IT хэлтсийн Бат руу залгаарай, тэр таны нууц үгийг сэргээж өгнө.",
+   "en": "Call Bat in IT. He'll reset your password.",
+   "mn_latin": "IT kheltsiin Bat ruu zalgaarai, ter tany nuuts ügiig sergeej ögnö."
+  },
+  {
+   "speaker": "Ганаа",
+   "mn": "Баярлалаа. Тэгээд тайлангаа хэзээ илгээх вэ?",
+   "en": "Thanks. And when should I send my report?",
+   "mn_latin": "Bayarlalaa. Tegeed tailangaa khezee ilgeekh ve?"
+  },
+  {
+   "speaker": "Туул",
+   "mn": "Баасан гарагийн гурван цаг гэхэд. Болд өнгөрсөн долоо хоногт тайлангаа явуулсан, би тайланг нь танд загвар болгож дамжуулъя.",
+   "en": "By three o'clock on Friday. Bold sent his report last week. I'll forward it to you as a model.",
+   "mn_latin": "Baasan garagiin gurvan tsag gekhed. Bold öngörsön doloo khonogt tailangaa yavuulsan, bi tailang ni tand zagvar bolgoj damjuulya."
+  },
+  {
+   "speaker": "Ганаа",
+   "mn": "Сайн байна. Цаг бүртгэлээ өдөр бүр бөглөх үү?",
+   "en": "Great. Do I fill in my timesheet every day?",
+   "mn_latin": "Sain baina. Tsag bürtgelee ödör bür böglökh üü?"
+  },
+  {
+   "speaker": "Туул",
+   "mn": "Тийм. Өдөр бүр бөглөх нь долоо хоногийн эцэст бөглөхөөс хамаагүй амар.",
+   "en": "Yes. Filling it in every day is much easier than doing it at the end of the week.",
+   "mn_latin": "Tiim. Ödör bür böglökh ni doloo khonogiin etsest böglökhöös khamaagüi amar."
+  },
+  {
+   "speaker": "Ганаа",
+   "mn": "Ойлголоо. Имэйлээ шалгачихаад хурал руу оръё.",
+   "en": "Got it. I'll check my email and then head to the briefing.",
+   "mn_latin": "Oilgoloo. Imeilee shalgachikhaad khural ruu oryo."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian offices, especially government agencies and larger companies, start the week with a Monday morning шуурхай хурал, where managers set tasks and staff report briefly on progress. A typical workday runs from 9:00 to 18:00 with a lunch break from 13:00 to 14:00. Attendance is often tracked with a fingerprint or ID-card scanner at the entrance.",
+  "mn": "Монголын олон байгууллага, ялангуяа төрийн байгууллага болон томоохон компаниуд долоо хоногоо даваа гарагийн өглөөний шуурхай хурлаар эхэлдэг. Энэ хурал дээр удирдлага ажил үүрэг өгч, ажилтнууд ажлынхаа явцыг товч танилцуулдаг. Ажлын өдөр ихэвчлэн 9:00-өөс 18:00 цаг хүртэл үргэлжилж, 13:00-14:00 цагт үдийн завсарлага авдаг бөгөөд ирц, цагийг үүдэнд байрлах хурууны хээ эсвэл картын төхөөрөмжөөр бүртгэх нь түгээмэл."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 4,
+  "notes": "Natural, well-built lesson. Fixes cover one ungrammatical alternative, an inaccurate explanation of when the -гаа ending is used, and a minor wording issue in the culture note."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Mostly clean. The en/mn grammar and intro topics differ on purpose: each audience learns the grammar of its target language, and both topics appear in the exercises, so they were left as they are.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_en",
+    "why": "'when I get in the morning' is ungrammatical English"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "'цаг авдаг' is a calque of English 'takes time'; 'цаг шаарддаг' is the natural Mongolian"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "translation",
+    "why": "Reflects өөрийн ('my own') in the Mongolian"
+   }
+  ]
+ }
+}

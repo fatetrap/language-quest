@@ -1,0 +1,431 @@
+{
+ "intro_en": "Follow a herder's retelling of a night wolf attack on his winter camp. You'll learn words for predators and livestock losses, and the reflexive ablative -аасаа/-ээсээ/-оосоо/-өөсөө ('from one's own ...').",
+ "intro_mn": "Малчин өвөлжөөндөө шөнө чоно дайрсан тухайгаа ярина. Махчин амьтан, мал хорогдолтой холбоотой үгс сурна. Мөн гарах тийн ялгалд ерөнхий хамаатуулах нөхцөл залгасан -аасаа/-ээсээ/-оосоо/-өөсөө (\"өөрийн ...-аас\") хэлбэрийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "чоно",
+   "en": "wolf",
+   "pos": "noun",
+   "example_mn": "Шөнө чоно ирж, хоёр хонь бариад явжээ.",
+   "example_en": "A wolf came in the night, killed two sheep, and left.",
+   "mn_latin": "chono"
+  },
+  {
+   "mn": "сүрэг",
+   "en": "flock, herd",
+   "pos": "noun",
+   "example_mn": "Хонины сүрэг уулын бэлд бэлчиж байна.",
+   "example_en": "The flock of sheep is grazing at the foot of the mountain.",
+   "mn_latin": "süreg"
+  },
+  {
+   "mn": "хашаа",
+   "en": "fold, pen, fence",
+   "pos": "noun",
+   "example_mn": "Өвөл болохоос өмнө бид хашаагаа заслаа.",
+   "example_en": "We repaired our fold before winter came.",
+   "mn_latin": "khashaa"
+  },
+  {
+   "mn": "хэдэн толгой мал алдах",
+   "en": "to lose several head of livestock",
+   "pos": "phrase",
+   "example_mn": "Энэ өвөл тэд хэдэн толгой мал алджээ.",
+   "example_en": "They lost several head of livestock this winter.",
+   "mn_latin": "kheden tolgoi mal aldakh"
+  },
+  {
+   "mn": "ул мөр",
+   "en": "tracks, footprints",
+   "pos": "noun",
+   "example_mn": "Цасан дээр чонын ул мөр тод харагдаж байв.",
+   "example_en": "The wolf tracks were clearly visible in the snow.",
+   "mn_latin": "ul mör"
+  },
+  {
+   "mn": "өвөлжөө",
+   "en": "winter camp",
+   "pos": "noun",
+   "example_mn": "Намар бид өвөлжөөндөө нүүдэг.",
+   "example_en": "In the fall we move to our winter camp.",
+   "mn_latin": "övöljöö"
+  },
+  {
+   "mn": "довтлох",
+   "en": "to attack",
+   "pos": "verb",
+   "example_mn": "Чоно ихэвчлэн үүр цайхын өмнө довтолдог.",
+   "example_en": "Wolves usually attack just before dawn.",
+   "mn_latin": "dovtlokh"
+  },
+  {
+   "mn": "хуцах",
+   "en": "to bark",
+   "pos": "verb",
+   "example_mn": "Банхар шөнөжин хуцав.",
+   "example_en": "The bankhar barked all night.",
+   "mn_latin": "khutsakh"
+  },
+  {
+   "mn": "үргэх",
+   "en": "to panic and scatter (of animals)",
+   "pos": "verb",
+   "example_mn": "Хонинууд айж үргэв.",
+   "example_en": "The sheep panicked and scattered.",
+   "mn_latin": "ürgekh"
+  },
+  {
+   "mn": "хамгаалах",
+   "en": "to protect, to guard",
+   "pos": "verb",
+   "example_mn": "Нохой сүргээ чоноос хамгаалдаг.",
+   "example_en": "The dog guards its flock from wolves.",
+   "mn_latin": "khamgaalakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Намайг унтаад удаагүй байтал нохойнууд хуцаж эхлэв.",
+   "en": "Hardly had I fallen asleep when the dogs started barking.",
+   "alt_mn": [
+    "Би унтаад удаагүй байтал нохойнууд хуцаж эхэлсэн."
+   ],
+   "alt_en": [
+    "Scarcely had I fallen asleep when the dogs began barking.",
+    "I had hardly fallen asleep when the dogs started barking."
+   ],
+   "mn_latin": "Namaig untaad udaagüi baital nokhoinuud khutsaj ekhlev."
+  },
+  {
+   "mn": "Хонинууд айж хашаанаасаа үсэрч гарав.",
+   "en": "The sheep jumped out of their fold in fear.",
+   "alt_mn": [
+    "Хонинууд айсандаа хашаанаасаа үсэрч гарсан."
+   ],
+   "alt_en": [
+    "Frightened, the sheep jumped out of their fold."
+   ],
+   "mn_latin": "Khoninuud aij khashaanaasaa üserch garav."
+  },
+  {
+   "mn": "Тэр хонь сүргээсээ тасарч, чонод баригдсан.",
+   "en": "That sheep got separated from its flock and was caught by a wolf.",
+   "alt_mn": [
+    "Тэр хонь сүргээсээ тасраад чонод баригдсан."
+   ],
+   "alt_en": [
+    "That sheep strayed from its flock and was caught by a wolf."
+   ],
+   "mn_latin": "Ter khoni sürgeesee tasarch, chonod barigdsan."
+  },
+  {
+   "mn": "Өглөө бид хашаанаасаа зуун метрийн зайд чонын ул мөр олсон.",
+   "en": "In the morning we found wolf tracks a hundred meters from our fold.",
+   "alt_mn": [
+    "Өглөө нь бид хашаанаасаа зуун метрийн цаана чонын ул мөр олов."
+   ],
+   "alt_en": [
+    "The next morning we found wolf tracks a hundred meters from our fold."
+   ],
+   "mn_latin": "Öglöö bid khashaanaasaa zuun myetriin zaid chonyn ul mör olson."
+  },
+  {
+   "mn": "Биднийг хашаанд дөнгөж хүрч ирэнгүүт чоно зугтав.",
+   "en": "Scarcely had we reached the fold when the wolf ran off.",
+   "alt_mn": [
+    "Бид хашаанд дөнгөж хүрч ирэнгүүт чоно зугтаж одов."
+   ],
+   "alt_en": [
+    "Hardly had we reached the fold when the wolf ran away."
+   ],
+   "mn_latin": "Bidniig khashaand döngöj khürch irengüüt chono zugtav."
+  },
+  {
+   "mn": "Тэр шөнө бид хэдэн толгой мал алдсан.",
+   "en": "We lost several head of livestock that night.",
+   "alt_mn": [
+    "Тэр шөнө бид хэдэн толгой малаа алдсан."
+   ],
+   "alt_en": [
+    "That night we lost several head of livestock."
+   ],
+   "mn_latin": "Ter shönö bid kheden tolgoi mal aldsan."
+  },
+  {
+   "mn": "Хөгшин малчин гэрээсээ гар чийдэн бариад гүйж гарав.",
+   "en": "The old herder ran out of his ger with a flashlight.",
+   "alt_mn": [
+    "Хөгшин малчин гар чийдэн барьсаар гэрээсээ гүйн гарав."
+   ],
+   "alt_en": [
+    "The old herder ran out of his ger holding a flashlight."
+   ],
+   "mn_latin": "Khögshin malchin gereesee gar chiiden bariad güij garav."
+  },
+  {
+   "mn": "Банхар хэзээ ч сүргээсээ хол явдаггүй.",
+   "en": "A bankhar never strays far from its flock.",
+   "alt_mn": [
+    "Банхар нохой сүргээсээ хэзээ ч хол явдаггүй."
+   ],
+   "alt_en": [
+    "The bankhar never goes far from its flock."
+   ],
+   "mn_latin": "Bankhar khezee ch sürgeesee khol yavdaggüi."
+  },
+  {
+   "mn": "Цас дөнгөж зогсонгуут бид ул мөр хайхаар гарав.",
+   "en": "Hardly had the snow stopped when we went out to look for tracks.",
+   "alt_mn": [
+    "Цас зогсонгуут л бид ул мөр хайхаар гарсан."
+   ],
+   "alt_en": [
+    "Scarcely had the snow stopped when we went out to search for tracks."
+   ],
+   "mn_latin": "Tsas döngöj zogsonguut bid ul mör khaikhaar garav."
+  },
+  {
+   "mn": "Малчин өвөлжөөнөөсөө сумын төв рүү утсаар ярьж, тусламж хүсэв.",
+   "en": "The herder called the soum center from his winter camp to ask for help.",
+   "alt_mn": [
+    "Малчин өвөлжөөнөөсөө сумын төв рүү залгаж, тусламж хүссэн."
+   ],
+   "alt_en": [
+    "From his winter camp, the herder phoned the soum center for help."
+   ],
+   "mn_latin": "Malchin övöljöönöösöö sumyn töv rüü utsaar yarij, tuslamj khüsev."
+  },
+  {
+   "mn": "Чоно хашааны хамгийн нам хэсгээр үсэрч орсон байжээ.",
+   "en": "The wolf had jumped in over the lowest part of the fence.",
+   "alt_mn": [
+    "Чоно хашааны хамгийн нам хэсгээр нь үсэрч орсон байв."
+   ],
+   "alt_en": [
+    "It turned out the wolf had jumped in where the fence was lowest."
+   ],
+   "mn_latin": "Chono khashaany khamgiin nam khesgeer üserch orson baijee."
+  },
+  {
+   "mn": "Нохойнууд дөнгөж чимээгүй болонгуут чононууд дахин ирэв.",
+   "en": "Hardly had the dogs gone quiet when the wolves came back.",
+   "alt_mn": [
+    "Нохойнууд чимээгүй болонгуут л чононууд эргэж ирсэн."
+   ],
+   "alt_en": [
+    "Scarcely had the dogs fallen silent when the wolves returned."
+   ],
+   "mn_latin": "Nokhoinuud döngöj chimeegüi bolonguut chononuud dakhin irev."
+  }
+ ],
+ "grammar": {
+  "title_en": "Ablative + reflexive: -аасаа / -ээсээ / -оосоо / -өөсөө (\"from one's own ...\")",
+  "title_mn": "Гарах тийн ялгал + ерөнхий хамаатуулах: -аасаа / -ээсээ / -оосоо / -өөсөө (\"өөрийн ...-аас\")",
+  "explain_en": "The ablative case (-аас/-ээс/-оос/-өөс) means 'from'. Add the reflexive possessive ending -аа/-ээ/-оо/-өө and you get 'from one's OWN ...', where the owner is the subject of the sentence: хашаанаасаа 'from (his/her/their) own fold', сүргээсээ 'from its own flock', гэрээсээ 'from his own ger'. Vowel harmony picks the vowel: а-words take -аасаа, э-words -ээсээ, о-words -оосоо, ө-words -өөсөө. Hidden-н nouns keep their н: хашаа → хашаанаасаа, өвөлжөө → өвөлжөөнөөсөө. Nouns that drop a vowel do so here too: сүрэг → сүргээсээ. Compare 'хашаанаас нь' (from HIS fold, someone else's) with 'хашаанаасаа' (from his own fold).",
+  "explain_mn": "Гарах тийн ялгал (-аас/-ээс/-оос/-өөс) нь \"-аас, -ээс\" гэсэн утгатай. Үүн дээр ерөнхий хамаатуулах нөхцөл -аа/-ээ/-оо/-өө нэмбэл \"өөрийн ...-аас\" гэсэн утга гарна. Эзэмшигч нь өгүүлбэрийн эзэн байна: хашаанаасаа \"өөрийн хашаанаас\", сүргээсээ \"өөрийн сүргээс\", гэрээсээ \"өөрийн гэрээс\". Эгшиг зохицох ёсоор а-тай үг -аасаа, э-тэй үг -ээсээ, о-той үг -оосоо, ө-тэй үг -өөсөө авна. Далд н-тэй үгийн н гарч ирнэ: хашаа → хашаанаасаа, өвөлжөө → өвөлжөөнөөсөө. Эгшиг гээгддэг үг энд ч гээгдэнэ: сүрэг → сүргээсээ. \"Хашаанаас нь\" (өөр хүний хашаанаас) ба \"хашаанаасаа\" (өөрийн хашаанаас) хоёрыг харьцуулаарай.",
+  "examples": [
+   {
+    "mn": "Хонинууд хашаанаасаа гарч үргэв.",
+    "en": "The sheep broke out of their fold and scattered.",
+    "mn_latin": "Khoninuud khashaanaasaa garch ürgev."
+   },
+   {
+    "mn": "Нэг хурга сүргээсээ хоцорчээ.",
+    "en": "One lamb had fallen behind its flock.",
+    "mn_latin": "Neg khurga sürgeesee khotsorchee."
+   },
+   {
+    "mn": "Намайг гэрээсээ гарангуут нохой хуцаж эхлэв.",
+    "en": "Hardly had I stepped out of my ger when the dog started barking.",
+    "mn_latin": "Namaig gereesee garanguut nokhoi khutsaj ekhlev."
+   },
+   {
+    "mn": "Тэр хотоосоо нүүж, хөдөө малчин болжээ.",
+    "en": "She moved away from her city and became a herder in the countryside.",
+    "mn_latin": "Ter khotoosoo nüüj, khödöö malchin boljee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хонинууд айж хашаа___ үсэрч гарав.",
+   "answer": "наасаа",
+   "options": [
+    "наасаа",
+    "г",
+    "ндаа",
+    "ныхаа"
+   ],
+   "translation": "The sheep jumped out of their fold in fear.",
+   "explain_en": "'Out of their own fold' needs ablative + reflexive. Хашаа is a hidden-н noun, so the н comes back: хашаа + н + аас + аа = хашаанаасаа.",
+   "explain_mn": "\"Өөрийн хашаанаас\" гэсэн утга тул гарах тийн ялгал дээр ерөнхий хамаатуулах нөхцөл нэмнэ. Хашаа нь далд н-тэй үг тул хашаанаасаа болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр хонь сүрг___ тасарч, чонод баригдсан.",
+   "answer": "ээсээ",
+   "options": [
+    "ээсээ",
+    "аасаа",
+    "ийг",
+    "тээ"
+   ],
+   "translation": "That sheep got separated from its flock and was caught by a wolf.",
+   "explain_en": "Сүрэг is a front-vowel (э) word, so it takes -ээсээ, and it drops its second vowel: сүрэг → сүргээсээ, 'from its own flock'.",
+   "explain_mn": "Сүрэг нь эм үг тул -ээсээ авна. Нөхцөл залгахад хоёрдугаар үеийн эгшиг гээгдэж сүргээсээ болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр хот___ нүүж, хөдөө малчин болжээ.",
+   "answer": "оосоо",
+   "options": [
+    "оосоо",
+    "ээсээ",
+    "аасаа",
+    "өөсөө"
+   ],
+   "translation": "She moved away from her city and became a herder in the countryside.",
+   "explain_en": "Хот has the back vowel о, so vowel harmony requires -оосоо: хотоосоо, 'from her own city'.",
+   "explain_mn": "Хот гэдэг үгийн эгшиг нь о тул эгшиг зохицох ёсоор -оосоо залгана: хотоосоо."
+  },
+  {
+   "lang": "en",
+   "text": "Hardly ___ I fallen asleep when the dogs started barking.",
+   "answer": "had",
+   "options": [
+    "had",
+    "have",
+    "did",
+    "was"
+   ],
+   "translation": "Намайг унтаад удаагүй байтал нохойнууд хуцаж эхлэв.",
+   "explain_en": "After 'Hardly' at the start of the sentence, the auxiliary of the past perfect moves before the subject: Hardly had I fallen...",
+   "explain_mn": "Hardly эхэнд орвол past perfect-ийн туслах үйл үг \"had\" эзэн биеийн өмнө гарна: Hardly had I fallen..."
+  },
+  {
+   "lang": "en",
+   "text": "Scarcely had we reached the fold ___ the wolf ran off.",
+   "answer": "when",
+   "options": [
+    "when",
+    "than",
+    "then",
+    "that"
+   ],
+   "translation": "Биднийг хашаанд дөнгөж хүрч ирэнгүүт чоно зугтав.",
+   "explain_en": "Hardly/scarcely pair with 'when'. 'Than' belongs with 'No sooner'.",
+   "explain_mn": "Hardly, scarcely нь \"when\"-тэй хамт орно. \"than\" нь зөвхөн \"No sooner\"-той хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Hardly had the snow ___ when we went out to look for tracks.",
+   "answer": "stopped",
+   "options": [
+    "stopped",
+    "stop",
+    "stopping",
+    "stops"
+   ],
+   "translation": "Цас дөнгөж зогсонгуут бид ул мөр хайхаар гарав.",
+   "explain_en": "The first clause is past perfect, so 'had' takes the past participle: had stopped.",
+   "explain_mn": "Эхний хэсэг нь past perfect тул had-ийн дараа үйл үгийн гуравдугаар хэлбэр (V3) орно: had stopped."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Бат ах аа, өнгөрсөн шөнө өвөлжөөнд тань юу болсон бэ?",
+   "en": "Bat, what happened at your winter camp last night?",
+   "mn_latin": "Bat akh aa, öngörsön shönö övöljöönd tani yuu bolson be?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Намайг унтаад удаагүй байтал банхар маань галзуу юм шиг хуцаж эхэлсэн.",
+   "en": "Hardly had I fallen asleep when my bankhar started barking like crazy.",
+   "mn_latin": "Namaig untaad udaagüi baital bankhar maani galzuu yum shig khutsaj ekhelsen."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгээд та гарч харсан уу?",
+   "en": "So did you go out to look?",
+   "mn_latin": "Tegeed ta garch kharsan uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Гэрээсээ гар чийдэн бариад гүйж гартал хонинууд хашаанаасаа үсэрч, үргээд байсан.",
+   "en": "I ran out of my ger with a flashlight, and the sheep were jumping out of their fold and scattering.",
+   "mn_latin": "Gereesee gar chiiden bariad güij gartal khoninuud khashaanaasaa üserch, ürgeed baisan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Аймаар юм! Хэдэн толгой мал алдсан бэ?",
+   "en": "That's terrible! How many head of livestock did you lose?",
+   "mn_latin": "Aimaar yum! Kheden tolgoi mal aldsan be?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Гурван хонь. Нэг нь сүргээсээ тасраад голын хөвөө рүү зугтсан байсан.",
+   "en": "Three sheep. One of them had broken away from the flock and fled toward the riverbank.",
+   "mn_latin": "Gurvan khoni. Neg ni sürgeesee tasraad golyn khövöö rüü zugtsan baisan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Өглөө чонын ул мөр олсон уу?",
+   "en": "Did you find wolf tracks in the morning?",
+   "mn_latin": "Öglöö chonyn ul mör olson uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Олсон. Хоёр чоно байжээ. Хашааны хамгийн нам хэсгээр үсэрч орсон байсан. Өнөөдөр л засна.",
+   "en": "We did. There were two wolves. They had jumped in where the fence was lowest. I'm fixing it today.",
+   "mn_latin": "Olson. Khoyor chono baijee. Khashaany khamgiin nam khesgeer üserch orson baisan. Önöödör l zasna."
+  }
+ ],
+ "culture_note": {
+  "en": "For Mongolian herders, wolves are both a real threat and a respected animal. Many people avoid saying 'чоно' outright and use respectful nicknames like 'тэнгэрийн нохой' (heaven's dog) or 'хангайн нохой'. Winter camps (өвөлжөө) are built in sheltered spots, and the sheepfold, often made of wood or stone, is guarded at night by large dogs such as the bankhar.",
+  "mn": "Монгол малчдын хувьд чоно бол аюул заналхийлэл ч мөн, хүндэтгэлтэй хандах амьтан ч мөн. Олон хүн \"чоно\" гэж шууд хэлэхээс зайлсхийж, \"тэнгэрийн нохой\", \"хангайн нохой\" гэх мэт хүндэтгэлтэй нэрээр нэрлэдэг. Өвөлжөөг салхинаас хамгаалагдсан газар барьдаг. Ихэвчлэн мод эсвэл чулуугаар хийсэн хашааг шөнө нь банхар зэрэг том нохой манадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, natural lesson with accurate grammar on both sides. The main problems were two Mongolian blanks where the plain ablative was also a correct answer."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 5,
+  "notes": "Main problems: the mn intro and grammar covered a different point than the en versions, plus a register slip and one invalid distractor.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The mn intro described a different grammar point than the en intro. It now matches intro_en."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "The mn title was about Hardly/Scarcely while the en title is about the ablative-reflexive. The titles must match."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn explanation covered a different topic than explain_en. It now says the same thing."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "*хашааныг is not a real form. The correct accusative is хашааг."
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "Emily addresses Bat with та, so the polite possessive тань is needed, not the informal чинь."
+   }
+  ]
+ }
+}

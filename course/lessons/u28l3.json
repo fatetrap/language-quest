@@ -1,0 +1,456 @@
+{
+ "intro_en": "You will learn how to explain your opinion with reason words like учир нь, тул, тиймээс and яагаад гэвэл. You will practice talking about why you prefer city or countryside life.",
+ "intro_mn": "Та \"учир нь\", \"тул\", \"тиймээс\", \"яагаад гэвэл\" зэрэг шалтгаан заасан үгээр санаагаа тайлбарлаж сурна. Хот эсвэл хөдөөгийн амьдралыг яагаад илүүд үздэгээ ярьж дадлагажна.",
+ "vocab": [
+  {
+   "mn": "шалтгаан",
+   "en": "reason",
+   "pos": "noun",
+   "example_mn": "Миний шалтгаан энгийн.",
+   "example_en": "My reason is simple.",
+   "mn_latin": "shaltgaan"
+  },
+  {
+   "mn": "учир нь",
+   "en": "because (the reason is)",
+   "pos": "conjunction",
+   "example_mn": "Би хотод амьдрахыг илүүд үздэг, учир нь ажил олдоход хялбар.",
+   "example_en": "I prefer living in the city because it is easier to find work.",
+   "mn_latin": "uchir ni"
+  },
+  {
+   "mn": "тиймээс",
+   "en": "so, therefore",
+   "pos": "conjunction",
+   "example_mn": "Хөдөө тайван. Тиймээс би зун тийшээ явдаг.",
+   "example_en": "The countryside is peaceful. So I go there in the summer.",
+   "mn_latin": "tiimees"
+  },
+  {
+   "mn": "яагаад гэвэл",
+   "en": "the reason is that",
+   "pos": "conjunction",
+   "example_mn": "Би хөдөө явмаар байна, яагаад гэвэл цэвэр агаар хэрэгтэй.",
+   "example_en": "I want to go to the countryside because I need fresh air.",
+   "mn_latin": "yaagaad gevel"
+  },
+  {
+   "mn": "түгжрэл",
+   "en": "traffic jam",
+   "pos": "noun",
+   "example_mn": "Улаанбаатарт өглөө бүр түгжрэл их байдаг.",
+   "example_en": "There is a lot of traffic in Ulaanbaatar every morning.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "тайван",
+   "en": "calm, peaceful",
+   "pos": "adjective",
+   "example_mn": "Хөдөөгийн амьдрал тайван.",
+   "example_en": "Life in the countryside is peaceful.",
+   "mn_latin": "taivan"
+  },
+  {
+   "mn": "цэвэр агаар",
+   "en": "fresh air",
+   "pos": "noun",
+   "example_mn": "Хөдөө цэвэр агаартай.",
+   "example_en": "The countryside has fresh air.",
+   "mn_latin": "tsever agaar"
+  },
+  {
+   "mn": "илүүд үзэх",
+   "en": "to prefer",
+   "pos": "verb",
+   "example_mn": "Би хотыг илүүд үздэг.",
+   "example_en": "I prefer the city.",
+   "mn_latin": "ilüüd üzekh"
+  },
+  {
+   "mn": "боломж",
+   "en": "opportunity, possibility",
+   "pos": "noun",
+   "example_mn": "Хотод сурах боломж их.",
+   "example_en": "There are many opportunities to study in the city.",
+   "mn_latin": "bolomj"
+  },
+  {
+   "mn": "тайлбарлах",
+   "en": "to explain",
+   "pos": "verb",
+   "example_mn": "Та яагаад тэгж бодсоноо тайлбарлаж өгнө үү.",
+   "example_en": "Please explain why you think so.",
+   "mn_latin": "tailbarlakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би хотод амьдрахыг илүүд үздэг, учир нь ажил олдоход хялбар.",
+   "en": "I prefer living in the city because it is easier to find work.",
+   "alt_mn": [
+    "Ажил олдоход хялбар учраас би хотод амьдрахыг илүүд үздэг."
+   ],
+   "alt_en": [
+    "I prefer to live in the city because finding work is easier."
+   ],
+   "mn_latin": "Bi khotod amidrakhyg ilüüd üzdeg, uchir ni ajil oldokhod khyalbar."
+  },
+  {
+   "mn": "Хөдөө тайван тул би зун тийшээ явдаг.",
+   "en": "The countryside is peaceful, so I go there in the summer.",
+   "alt_mn": [
+    "Хөдөө тайван учраас би зун тийшээ явдаг."
+   ],
+   "alt_en": [
+    "Because the countryside is peaceful, I go there in the summer."
+   ],
+   "mn_latin": "Khödöö taivan tul bi zun tiishee yavdag."
+  },
+  {
+   "mn": "Та яагаад хөдөө амьдрахыг илүүд үздэг вэ?",
+   "en": "Why do you prefer living in the countryside?",
+   "alt_mn": [
+    "Яагаад хөдөө амьдрахыг илүүд үздэг вэ?"
+   ],
+   "alt_en": [
+    "Why do you prefer to live in the countryside?"
+   ],
+   "mn_latin": "Ta yaagaad khödöö amidrakhyg ilüüd üzdeg ve?"
+  },
+  {
+   "mn": "Би хөдөө амьдрахыг илүүд үздэг, яагаад гэвэл тэнд агаар цэвэр.",
+   "en": "I prefer living in the countryside because the air is clean there.",
+   "alt_mn": [],
+   "alt_en": [
+    "I prefer to live in the countryside because there is fresh air there."
+   ],
+   "mn_latin": "Bi khödöö amidrakhyg ilüüd üzdeg, yaagaad gevel tend agaar tsever."
+  },
+  {
+   "mn": "Хотод түгжрэл их тул би ажилдаа явганаар явдаг.",
+   "en": "There is a lot of traffic in the city, so I walk to work.",
+   "alt_mn": [
+    "Хотод түгжрэл их учраас би ажилдаа явганаар явдаг."
+   ],
+   "alt_en": [
+    "Because there is a lot of traffic in the city, I walk to work."
+   ],
+   "mn_latin": "Khotod tügjrel ikh tul bi ajildaa yavganaar yavdag."
+  },
+  {
+   "mn": "Тэр их сургуульд сурахаар хотод ирсэн.",
+   "en": "She came to the city to study at university.",
+   "alt_mn": [
+    "Тэр их сургуульд сурахаар хот руу ирсэн."
+   ],
+   "alt_en": [
+    "She came to the city in order to study at university."
+   ],
+   "mn_latin": "Ter ikh surguulid surakhaar khotod irsen."
+  },
+  {
+   "mn": "Миний аав, ээж хөдөө амьдардаг учраас бид зуны амралтаараа тэнд очдог.",
+   "en": "Because my parents live in the countryside, we go there for our summer vacation.",
+   "alt_mn": [],
+   "alt_en": [
+    "My parents live in the countryside, so we go there for our summer vacation."
+   ],
+   "mn_latin": "Minii aav, eej khödöö amidardag uchraas bid zuny amraltaaraa tend ochdog."
+  },
+  {
+   "mn": "Хотод сурах боломж их тул залуус хот руу ирдэг.",
+   "en": "There are many opportunities to study in the city, so young people come to the city.",
+   "alt_mn": [
+    "Хотод сурах боломж их учраас залуус хот руу ирдэг."
+   ],
+   "alt_en": [
+    "Because there are many chances to study in the city, young people move there."
+   ],
+   "mn_latin": "Khotod surakh bolomj ikh tul zaluus khot ruu irdeg."
+  },
+  {
+   "mn": "Би өдөржин ажиллаад маш ядарсан.",
+   "en": "I worked all day and got very tired.",
+   "alt_mn": [],
+   "alt_en": [
+    "I worked all day, so I'm very tired."
+   ],
+   "mn_latin": "Bi ödörjin ajillaad mash yadarsan."
+  },
+  {
+   "mn": "Хөдөө интернет муу. Тиймээс би тэнд ажиллаж чадахгүй.",
+   "en": "The internet is bad in the countryside. So I can't work there.",
+   "alt_mn": [],
+   "alt_en": [
+    "The internet is poor in the countryside, so I can't work there."
+   ],
+   "mn_latin": "Khödöö intyernyet muu. Tiimees bi tend ajillaj chadakhgüi."
+  },
+  {
+   "mn": "Би хотыг илүүд үздэг, учир нь найз нөхөд маань энд байдаг.",
+   "en": "I prefer the city because my friends are here.",
+   "alt_mn": [
+    "Найз нөхөд маань энд байдаг учраас би хотыг илүүд үздэг."
+   ],
+   "alt_en": [
+    "I prefer the city, since my friends are here."
+   ],
+   "mn_latin": "Bi khotyg ilüüd üzdeg, uchir ni naiz nökhöd maani end baidag."
+  },
+  {
+   "mn": "Та яагаад тэгж бодож байгаагаа тайлбарлаж өгнө үү?",
+   "en": "Could you explain why you think that?",
+   "alt_mn": [],
+   "alt_en": [
+    "Could you please explain why you think so?"
+   ],
+   "mn_latin": "Ta yaagaad tegj bodoj baigaagaa tailbarlaj ögnö üü?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Giving reasons: учир нь, тул, учраас, тиймээс",
+  "title_mn": "Шалтгаан заах нь: because ба so",
+  "explain_en": "Mongolian puts the reason in different places. With «учир нь» or «яагаад гэвэл», the main statement comes first and the reason follows, just like English 'because': «Би хотод амьдардаг, учир нь ажил байдаг.» With «тул» or «учраас», the reason comes first and ends with the word: «Ажил байдаг тул/учраас би хотод амьдардаг.» Before them, a verb takes a participle form such as -даг, -сан or -х. An adjective like их or тайван can come directly before them: «Түгжрэл их тул…». «Тиймээс» works like English 'so': it starts a new sentence with the result. The verb ending -ж/-аад links actions in a row: «Ажиллаад ядарсан» (worked and got tired).",
+  "explain_mn": "Англи хэлэнд шалтгааныг 'because' гэж, үр дүнг 'so' гэж холбодог. 'Because' нь шалтгааны өгүүлбэрийг эхлүүлдэг: 'I stay in the city because my job is here.' Монголоор энэ нь «учир нь» гэсэнтэй адил. 'So' нь үр дүнг эхлүүлдэг: 'The city is noisy, so I like the countryside.' Энэ нь «тиймээс»-тэй адил. Англи хэлэнд 'because' нь өгүүлбэрийн өмнө ч орж болно: 'Because it is noisy, I like the countryside.' «Тул/учраас» нь шалтгааны өгүүлбэрийн төгсгөлд орж, үйл үгийн дараа залгагдана: «Ажил энд байдаг учраас би хотод амьдардаг.» Англи хэлэнд 'because' ба 'so'-г нэг өгүүлбэрт хамт хэрэглэж болохгүй: 'Because it is noisy, so I leave' гэж хэлэхгүй.",
+  "examples": [
+   {
+    "mn": "Би хотод амьдардаг, учир нь ажил энд байдаг.",
+    "en": "I live in the city because my job is here.",
+    "mn_latin": "Bi khotod amidardag, uchir ni ajil end baidag."
+   },
+   {
+    "mn": "Ажил энд байдаг учраас би хотод амьдардаг.",
+    "en": "Because my job is here, I live in the city.",
+    "mn_latin": "Ajil end baidag uchraas bi khotod amidardag."
+   },
+   {
+    "mn": "Хот чимээтэй. Тиймээс би хөдөө явмаар байна.",
+    "en": "The city is noisy. So I want to go to the countryside.",
+    "mn_latin": "Khot chimeetei. Tiimees bi khödöö yavmaar baina."
+   },
+   {
+    "mn": "Өдөржин алхаад ядарлаа.",
+    "en": "I walked all day and got tired.",
+    "mn_latin": "Ödörjin alkhaad yadarlaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хөдөө тайван ___ би тэнд амрах дуртай.",
+   "answer": "учраас",
+   "options": [
+    "учраас",
+    "тиймээс",
+    "гэхдээ",
+    "эсвэл"
+   ],
+   "translation": "Because the countryside is peaceful, I like to relax there.",
+   "explain_en": "«Учраас» follows the reason clause and means 'because'. «Тиймээс» would start the result sentence.",
+   "explain_mn": "«Учраас» нь шалтгааны өгүүлбэрийн төгсгөлд орж 'because' гэсэн утгатай. «Тиймээс» нь үр дүнгийн өгүүлбэрийг эхлүүлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хотод түгжрэл их. ___ би ажилдаа явганаар явдаг.",
+   "answer": "Тиймээс",
+   "options": [
+    "Тиймээс",
+    "Учир нь",
+    "Яагаад гэвэл",
+    "Гэвч"
+   ],
+   "translation": "There is a lot of traffic in the city. So I walk to work.",
+   "explain_en": "The second sentence is the result, so use «Тиймээс» ('so').",
+   "explain_mn": "Хоёр дахь өгүүлбэр нь үр дүн учир «Тиймээс» ('so') тохиромжтой."
+  },
+  {
+   "lang": "mn",
+   "text": "Би хотыг илүүд үздэг, ___ найзууд маань энд байдаг.",
+   "answer": "учир нь",
+   "options": [
+    "учир нь",
+    "тиймээс",
+    "ч гэсэн",
+    "гэхдээ"
+   ],
+   "translation": "I prefer the city because my friends are here.",
+   "explain_en": "«Учир нь» introduces the reason after the main statement, like 'because'.",
+   "explain_mn": "«Учир нь» гол санааны дараа шалтгааныг оруулдаг."
+  },
+  {
+   "lang": "en",
+   "text": "I like the countryside ___ the air is clean.",
+   "answer": "because",
+   "options": [
+    "because",
+    "so",
+    "but",
+    "or"
+   ],
+   "translation": "Би хөдөөд дуртай, учир нь агаар нь цэвэр.",
+   "explain_en": "'Because' introduces the reason.",
+   "explain_mn": "'Because' нь шалтгааныг оруулна."
+  },
+  {
+   "lang": "en",
+   "text": "The city is very noisy, ___ I want to move to the countryside.",
+   "answer": "so",
+   "options": [
+    "so",
+    "because",
+    "although",
+    "if"
+   ],
+   "translation": "Хот маш чимээтэй тул би хөдөө нүүхийг хүсэж байна.",
+   "explain_en": "'So' introduces the result of the noise.",
+   "explain_mn": "'So' нь чимээтэй байгаагийн үр дүнг заана."
+  },
+  {
+   "lang": "en",
+   "text": "She stays in Ulaanbaatar ___ there are more jobs.",
+   "answer": "because",
+   "options": [
+    "because",
+    "so",
+    "then",
+    "however"
+   ],
+   "translation": "Тэнд ажил их байдаг учраас тэр Улаанбаатарт үлддэг.",
+   "explain_en": "The second part gives the reason, so use 'because'.",
+   "explain_mn": "Хоёр дахь хэсэг нь шалтгаан тул 'because' хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Болд, чи хот уу, хөдөө үү, алийг нь илүүд үздэг вэ?",
+   "en": "Bold, do you prefer the city or the countryside?",
+   "mn_latin": "Bold, chi khot uu, khödöö üü, aliig ni ilüüd üzdeg ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би хөдөөг илүүд үздэг, учир нь тэнд тайван, цэвэр агаартай.",
+   "en": "I prefer the countryside because it is peaceful and has fresh air.",
+   "mn_latin": "Bi khödöög ilüüd üzdeg, uchir ni tend taivan, tsever agaartai."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Харин би хотыг илүүд үздэг. Ажил олдоход хялбар учраас энд амьдардаг.",
+   "en": "But I prefer the city. I live here because it is easier to find work.",
+   "mn_latin": "Kharin bi khotyg ilüüd üzdeg. Ajil oldokhod khyalbar uchraas end amidardag."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Гэхдээ түгжрэл их биз дээ?",
+   "en": "But there is a lot of traffic, right?",
+   "mn_latin": "Gekhdee tügjrel ikh biz dee?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм. Тиймээс би ажилдаа явганаар явдаг.",
+   "en": "Yes. So I walk to work.",
+   "mn_latin": "Tiim. Tiimees bi ajildaa yavganaar yavdag."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би зун аавынхаа малыг харж өгөхөөр хөдөө явдаг.",
+   "en": "In the summer I go to the countryside to look after my father's livestock.",
+   "mn_latin": "Bi zun aavynkhaa malyg kharj ögökhöör khödöö yavdag."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл бид хоёр хоёуланд нь дуртай юм байна.",
+   "en": "So it turns out we both like both places.",
+   "mn_latin": "Tegvel bid khoyor khoyouland ni durtai yum baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Many people in Ulaanbaatar have family in the countryside, so they often visit relatives in summer and help with livestock. At the same time, young people move to the capital for universities and jobs, and the ger districts keep growing. This is why the city-or-countryside question is a very common topic of conversation in Mongolia.",
+  "mn": "Улаанбаатарт амьдардаг олон хүн хөдөө төрөл садантай бөгөөд зуны амралтаараа тэдэндээ очиж мал маллахад нь тусалдаг. Түүнчлэн залуус их сургуульд сурах, ажил хийхээр нийслэл рүү нүүж ирдэг тул гэр хороолол өргөжсөөр байна. Тиймээс хот, хөдөөгийн аль нь дээр вэ гэдэг нь Монголд маш түгээмэл ярианы сэдэв юм."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 11,
+  "notes": "Content is mostly good, but there is a garbled Mongolian grammar explanation, an ungrammatical 'хөдөөг дуртай', and an unnatural phrase 'цэвэр агаартай'. Also the question sentence lacks 'Та'."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 12,
+  "notes": "Fixed spelling, transitive verb use, the nonexistent UB metro, unnatural dialogue and culture phrasing, and an inaccurate grammar point.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Misspelling: үздгээ should be үздэгээ."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The list of forms was inaccurate, and the example has an adjective, not a verb."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "With an object you need the transitive эхлүүлэх, not эхлэх."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Transitive verb needed."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "Ulaanbaatar has no metro."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "translation",
+    "why": "Matches the new text."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Standard spelling is хүсэж."
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "The original was an unnatural way to ask an either/or question."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Ulaanbaatar has no metro."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "Matches the corrected Mongolian."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "More natural English."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Unnatural phrasing; now matches the English ('move to the capital', 'topic of conversation')."
+   }
+  ]
+ }
+}

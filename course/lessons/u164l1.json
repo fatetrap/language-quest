@@ -1,0 +1,418 @@
+{
+ "intro_en": "Learn how to register for a library card at the Central Public Library in Ulaanbaatar and talk about borrowing, returning, and extending loans. You'll also practice the Mongolian range pattern -аас ... хүртэл (\"from ... to\") for opening hours and loan periods.",
+ "intro_mn": "Улаанбаатарын Нийслийн төв номын санд бүртгүүлж, карт авах, ном зээлэх, буцаах, хугацаа сунгах тухай англиар ярьж сурна. Мөн англи хэлний like + нэр үгээр юуг юутай адилтгах (It looks like a museum) хэлбэрийг давтана.",
+ "vocab": [
+  {
+   "mn": "номын сангийн карт",
+   "en": "library card",
+   "pos": "noun",
+   "example_mn": "Би өчигдөр номын сангийн карт авсан.",
+   "example_en": "I got a library card yesterday.",
+   "mn_latin": "nomyn sangiin kart"
+  },
+  {
+   "mn": "уншлагын танхим",
+   "en": "reading room",
+   "pos": "noun",
+   "example_mn": "Уншлагын танхим оюутнуудаар дүүрэн байна.",
+   "example_en": "The reading room is full of students.",
+   "mn_latin": "unshlagyn tankhim"
+  },
+  {
+   "mn": "зээлэх",
+   "en": "to borrow",
+   "pos": "verb",
+   "example_mn": "Та энэ номыг хоёр долоо хоног зээлж болно.",
+   "example_en": "You can borrow this book for two weeks.",
+   "mn_latin": "zeelekh"
+  },
+  {
+   "mn": "буцаах",
+   "en": "to return (something)",
+   "pos": "verb",
+   "example_mn": "Номоо Баасан гарагт буцаагаарай.",
+   "example_en": "Please return your book on Friday.",
+   "mn_latin": "butsaakh"
+  },
+  {
+   "mn": "хугацаа сунгах",
+   "en": "to extend (a loan), to renew",
+   "pos": "verb phrase",
+   "example_mn": "Би номынхоо хугацааг сунгуулмаар байна.",
+   "example_en": "I'd like to renew my book.",
+   "mn_latin": "khugatsaa sungakh"
+  },
+  {
+   "mn": "бүртгүүлэх",
+   "en": "to register, to sign up",
+   "pos": "verb",
+   "example_mn": "Бүртгүүлэхийн тулд энэ маягтыг бөглөнө үү.",
+   "example_en": "Please fill out this form to register.",
+   "mn_latin": "bürtgüülekh"
+  },
+  {
+   "mn": "иргэний үнэмлэх",
+   "en": "ID card",
+   "pos": "noun",
+   "example_mn": "Иргэний үнэмлэхээ авчирсан уу?",
+   "example_en": "Did you bring your ID card?",
+   "mn_latin": "irgenii ünemlekh"
+  },
+  {
+   "mn": "маягт",
+   "en": "form",
+   "pos": "noun",
+   "example_mn": "Маягтад гарын үсгээ зураад өгөөрэй.",
+   "example_en": "Please sign the form and hand it in.",
+   "mn_latin": "mayagt"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine (penalty)",
+   "pos": "noun",
+   "example_mn": "Хугацаа хэтэрвэл торгууль төлнө.",
+   "example_en": "If it's overdue, you pay a fine.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "хүртэл",
+   "en": "until, up to, to",
+   "pos": "postposition",
+   "example_mn": "Номын сан орой 8 цаг хүртэл ажилладаг.",
+   "example_en": "The library is open until 8 p.m.",
+   "mn_latin": "khürtel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Номын сан Даваагаас Баасан гараг хүртэл өглөөний 9 цагаас орой 8 цаг хүртэл ажилладаг.",
+   "en": "The library is open Monday through Friday, from 9 a.m. to 8 p.m.",
+   "alt_mn": [
+    "Номын сан Даваагаас Баасан гараг хүртэл 9-өөс 20 цаг хүртэл ажилладаг."
+   ],
+   "alt_en": [
+    "The library is open from Monday to Friday, 9 a.m. to 8 p.m.",
+    "The library's hours are 9 a.m. to 8 p.m., Monday through Friday."
+   ],
+   "mn_latin": "Nomyn san Davaagaas Baasan garag khürtel öglöönii 9 tsagaas oroi 8 tsag khürtel ajilladag."
+  },
+  {
+   "mn": "Номын сангийн карт авахын тулд иргэний үнэмлэхээ авчрах хэрэгтэй.",
+   "en": "To get a library card, you need to bring your ID card.",
+   "alt_mn": [
+    "Номын сангийн карт авахад иргэний үнэмлэх хэрэгтэй."
+   ],
+   "alt_en": [
+    "You need to bring your ID to get a library card.",
+    "You'll need your ID card to get a library card."
+   ],
+   "mn_latin": "Nomyn sangiin kart avakhyn tuld irgenii ünemlekhee avchrakh kheregtei."
+  },
+  {
+   "mn": "Энэ барилга музей шиг харагдаж байна.",
+   "en": "This building looks like a museum.",
+   "alt_mn": [
+    "Энэ барилга музей шиг юм."
+   ],
+   "alt_en": [
+    "The building looks like a museum."
+   ],
+   "mn_latin": "Ene barilga muzyei shig kharagdaj baina."
+  },
+  {
+   "mn": "Та нэг удаад таван ном хүртэл зээлж болно.",
+   "en": "You can borrow up to five books at a time.",
+   "alt_mn": [
+    "Та нэг удаад таваас илүүгүй ном зээлж болно."
+   ],
+   "alt_en": [
+    "You can check out up to five books at a time."
+   ],
+   "mn_latin": "Ta neg udaad tavan nom khürtel zeelj bolno."
+  },
+  {
+   "mn": "Номоо хоёр долоо хоногийн дотор буцаах ёстой.",
+   "en": "You have to return your books within two weeks.",
+   "alt_mn": [
+    "Номоо хоёр долоо хоногт багтаан буцаах ёстой."
+   ],
+   "alt_en": [
+    "You must return the books within two weeks.",
+    "Books have to be returned within two weeks."
+   ],
+   "mn_latin": "Nomoo khoyor doloo khonogiin dotor butsaakh yostoi."
+  },
+  {
+   "mn": "Хугацаа сунгах бол онлайнаар эсвэл утсаар хүсэлт гаргаж болно.",
+   "en": "If you want to renew, you can make a request online or by phone.",
+   "alt_mn": [
+    "Хугацаагаа онлайнаар эсвэл утсаар сунгуулж болно."
+   ],
+   "alt_en": [
+    "To extend a loan, you can request it online or by phone.",
+    "You can renew online or by phone."
+   ],
+   "mn_latin": "Khugatsaa sungakh bol onlainaar esvel utsaar khüselt gargaj bolno."
+  },
+  {
+   "mn": "Уншлагын танхимд чимээгүй байхыг хүсье.",
+   "en": "Please keep quiet in the reading room.",
+   "alt_mn": [
+    "Уншлагын танхимд чимээгүй байна уу."
+   ],
+   "alt_en": [
+    "Please be quiet in the reading room."
+   ],
+   "mn_latin": "Unshlagyn tankhimd chimeegüi baikhyg khüsiye."
+  },
+  {
+   "mn": "Хугацаа хэтэрсэн ном бүрт өдөрт 500 төгрөгийн торгууль ногдуулдаг.",
+   "en": "There's a fine of 500 tögrög a day for each overdue book.",
+   "alt_mn": [
+    "Хугацаа хэтэрсэн ном бүрийн төлөө өдөрт 500 төгрөг торгуулна."
+   ],
+   "alt_en": [
+    "Each overdue book is fined 500 tögrög per day.",
+    "The fine is 500 tögrög per day for every overdue book."
+   ],
+   "mn_latin": "Khugatsaa khetersen nom bürt ödört 500 tögrögiin torguuli nogduuldag."
+  },
+  {
+   "mn": "Энэ уншлагын танхим надад яг гэр шиг санагддаг.",
+   "en": "This reading room feels just like home to me.",
+   "alt_mn": [
+    "Энэ уншлагын танхимд би гэртээ байгаа юм шиг санагддаг."
+   ],
+   "alt_en": [
+    "To me, this reading room feels like home."
+   ],
+   "mn_latin": "Ene unshlagyn tankhim nadad yag ger shig sanagddag."
+  },
+  {
+   "mn": "Бүртгүүлэхэд ердөө арав орчим минут зарцуулсан.",
+   "en": "Registering only took about ten minutes.",
+   "alt_mn": [
+    "Бүртгүүлэхэд арав орчим минут л болсон."
+   ],
+   "alt_en": [
+    "It only took about ten minutes to register.",
+    "Signing up took only about ten minutes."
+   ],
+   "mn_latin": "Bürtgüülekhed yerdöö arav orchim minut zartsuulsan."
+  },
+  {
+   "mn": "Хүүхдийн танхим зургаагаас арван хоёр нас хүртэлх хүүхдэд зориулагдсан.",
+   "en": "The children's room is for kids from six to twelve years old.",
+   "alt_mn": [
+    "Хүүхдийн танхим 6-гаас 12 насны хүүхдэд зориулагдсан."
+   ],
+   "alt_en": [
+    "The children's room is meant for children ages six to twelve."
+   ],
+   "mn_latin": "Khüükhdiin tankhim zurgaagaas arvan khoyor nas khürtelkh khüükhded zoriulagdsan."
+  },
+  {
+   "mn": "Таны карт нэг жилийн хугацаатай, дараа нь шинэчлэх хэрэгтэй.",
+   "en": "Your card is valid for one year, and after that you need to renew it.",
+   "alt_mn": [
+    "Таны карт нэг жил хүчинтэй, дараа нь сунгуулах хэрэгтэй."
+   ],
+   "alt_en": [
+    "Your card is good for one year. After that, you'll need to renew it."
+   ],
+   "mn_latin": "Tany kart neg jiliin khugatsaatai, daraa ni shinechlekh kheregtei."
+  }
+ ],
+ "grammar": {
+  "title_en": "From ... to: -аас ... хүртэл",
+  "title_mn": "Like + нэр үг: адилтгах хэлбэр (It looks like a museum)",
+  "explain_en": "To say \"from X to Y\" in Mongolian, put the ablative ending on X and the postposition хүртэл after Y: 9 цагаас 8 цаг хүртэл (from 9 to 8 o'clock). The ablative ending follows vowel harmony: -аас (цагаас), -ээс (сарын эхнээс), -оос (хоногоос), -өөс (есөөс). After a long vowel or diphthong, add -г- first: Даваагаас (from Monday). Y stays in its basic form before хүртэл: Баасан гараг хүртэл, 8 цаг хүртэл. The same pattern works for time, days, ages, and loan periods. To use the range as an adjective before a noun, use хүртэлх: зургаагаас арван хоёр нас хүртэлх хүүхэд (children aged six to twelve).",
+  "explain_mn": "Англи хэлэнд юмыг юутай адилхан болохыг хэлэхдээ мэдрэхүйн үйл үг (look, feel, sound, smell, taste) + like + нэр үг хэлбэрийг хэрэглэдэг. Энэ нь монгол хэлний \"... шиг харагдах / санагдах / сонсогдох\"-той дүйнэ: It looks like a museum — Музей шиг харагдаж байна. That sounds like a good idea — Сайхан санаа шиг сонсогдож байна. Like-ийн араас нэр үг ордог тул тоологдох нэр үгийн өмнө a/an тавина (like a museum). Харин нэр үгийн оронд тэмдэг нэр байвал like хэрэглэхгүй: It looks old (It looks like old гэж болохгүй). Анхаар: home гэдэг үгэнд артикль хэрэглэхгүй: It feels like home.",
+  "examples": [
+   {
+    "mn": "Номын сан өглөөний 9 цагаас орой 8 цаг хүртэл ажилладаг.",
+    "en": "The library is open from 9 a.m. to 8 p.m.",
+    "mn_latin": "Nomyn san öglöönii 9 tsagaas oroi 8 tsag khürtel ajilladag."
+   },
+   {
+    "mn": "Номыг хоёр долоо хоногоос нэг сар хүртэл зээлж болно.",
+    "en": "You can borrow books for two weeks to a month.",
+    "mn_latin": "Nomyg khoyor doloo khonogoos neg sar khürtel zeelj bolno."
+   },
+   {
+    "mn": "Энэ барилга музей шиг харагдаж байна.",
+    "en": "This building looks like a museum.",
+    "mn_latin": "Ene barilga muzyei shig kharagdaj baina."
+   },
+   {
+    "mn": "Уншлагын танхим яг гэр шиг санагддаг.",
+    "en": "The reading room feels like home.",
+    "mn_latin": "Unshlagyn tankhim yag ger shig sanagddag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Номын сан өглөөний 9 цаг___ орой 8 цаг хүртэл ажилладаг.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "ийн",
+    "тай",
+    "т"
+   ],
+   "translation": "The library is open from 9 a.m. to 8 p.m.",
+   "explain_en": "The starting point of a range takes the ablative ending. цаг has the vowel а, so the ending is -аас: цагаас (from ... o'clock).",
+   "explain_mn": "Англи хэлэнд хугацааны эхлэлийг from-оор илэрхийлдэг: from 9 a.m. to 8 p.m. Монголоор гарах тийн ялгал -аас-тай дүйнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Уншлагын танхим Даваагаас Баасан гараг ___ нээлттэй.",
+   "answer": "хүртэл",
+   "options": [
+    "хүртэл",
+    "руу",
+    "дээр",
+    "тухай"
+   ],
+   "translation": "The reading room is open from Monday to Friday.",
+   "explain_en": "The end point of a range uses the postposition хүртэл (until, to). руу means \"toward\" (direction of movement), so it doesn't work for time ranges.",
+   "explain_mn": "Англи хэлэнд хугацааны төгсгөлийг to эсвэл through-оор илэрхийлдэг: Monday through Friday. through гэвэл Баасан гаригийг багтааж байгаа нь тодорхой болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Номыг хоёр долоо хоног___ нэг сар хүртэл зээлж болно.",
+   "answer": "оос",
+   "options": [
+    "оос",
+    "аас",
+    "ээс",
+    "өөс"
+   ],
+   "translation": "You can borrow books for two weeks to a month.",
+   "explain_en": "Vowel harmony! The ablative ending matches the word's vowels. хоног has the vowel о, so it takes -оос: хоногоос.",
+   "explain_mn": "Англи хэлэнд хугацааны урт хэлэхдээ for хэрэглэнэ: for two weeks to a month. Монгол хэлний эгшиг зохицох ёсонд англи хэлэнд дүйх зүйл байхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "From the outside, the National Library looks ___ a museum.",
+   "answer": "like",
+   "options": [
+    "like",
+    "as",
+    "same",
+    "similar"
+   ],
+   "translation": "Гаднаас нь харахад Үндэсний номын сан музей шиг харагддаг.",
+   "explain_en": "Before a noun, use look + like to show similarity. \"Looks as a museum\" and \"looks similar a museum\" are incorrect (you would need \"similar to\").",
+   "explain_mn": "Нэр үгийн өмнө look like хэрэглэнэ (\"... шиг харагдах\"). as-ийг энэ утгаар хэрэглэдэггүй, similar-ийн араас заавал to орно."
+  },
+  {
+   "lang": "en",
+   "text": "The reading room is open ___ 9 a.m. to 8 p.m.",
+   "answer": "from",
+   "options": [
+    "from",
+    "since",
+    "at",
+    "between"
+   ],
+   "translation": "Уншлагын танхим өглөөний 9-өөс орой 8 цаг хүртэл ажилладаг.",
+   "explain_en": "A time range uses from ... to. \"Since\" is for a starting point up to now, and \"between\" needs \"and\", not \"to\".",
+   "explain_mn": "Хугацааны хүрээг from ... to-оор илэрхийлнэ (-аас ... хүртэл). since нь өнгөрсөн цагаас одоог хүртэлх хугацааг заадаг, between-ийн араас and орох ёстой."
+  },
+  {
+   "lang": "en",
+   "text": "Please return the books ___ next Friday.",
+   "answer": "by",
+   "options": [
+    "by",
+    "until",
+    "on to",
+    "since"
+   ],
+   "translation": "Номоо ирэх Баасан гараг гэхэд буцаана уу.",
+   "explain_en": "\"By\" gives a deadline: no later than Friday. \"Until\" describes an action that continues up to that time, so it doesn't fit a one-time action like returning.",
+   "explain_mn": "by нь эцсийн хугацааг заана (\"... гэхэд, ...-аас хоцролгүй\"). until нь тэр хүртэл үргэлжлэх үйлдэлд хэрэглэгддэг: keep the books until Friday."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ану",
+   "mn": "Сайн байна уу? Би номын сангийн карт авмаар байна.",
+   "en": "Hello! I'd like to get a library card.",
+   "mn_latin": "Sain baina uu? Bi nomyn sangiin kart avmaar baina."
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Сайн байна уу. Иргэний үнэмлэхээ авчирсан уу? Тэгвэл энэ маягтыг бөглөөрэй.",
+   "en": "Hello. Did you bring your ID card? If so, please fill out this form.",
+   "mn_latin": "Sain baina uu. Irgenii ünemlekhee avchirsan uu? Tegvel ene mayagtyg böglöörei."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Тийм ээ, энд байна. Нэг удаад хэдэн ном зээлж болох вэ?",
+   "en": "Yes, here it is. How many books can I borrow at a time?",
+   "mn_latin": "Tiim ee, end baina. Neg udaad kheden nom zeelj bolokh ve?"
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Таван ном хүртэл, хоёр долоо хоногийн хугацаатай. Хугацаагаа онлайнаар нэг удаа сунгаж болно.",
+   "en": "Up to five books, for two weeks. You can renew them online once.",
+   "mn_latin": "Tavan nom khürtel, khoyor doloo khonogiin khugatsaatai. Khugatsaagaa onlainaar neg udaa sungaj bolno."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Хугацаа хэтэрвэл яах вэ?",
+   "en": "What if they're overdue?",
+   "mn_latin": "Khugatsaa khetervel yaakh ve?"
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Ном бүрт өдөрт 500 төгрөгийн торгууль ногдуулна. Тиймээс цагтаа буцаагаарай.",
+   "en": "There's a fine of 500 tögrög a day per book. So please return them on time.",
+   "mn_latin": "Nom bürt ödört 500 tögrögiin torguuli nogduulna. Tiimees tsagtaa butsaagaarai."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Ойлголоо. Уншлагын танхим хэдэн цагаас хэдэн цаг хүртэл ажилладаг вэ?",
+   "en": "Got it. What are the reading room's hours?",
+   "mn_latin": "Oilgoloo. Unshlagyn tankhim kheden tsagaas kheden tsag khürtel ajilladag ve?"
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Даваагаас Баасан гараг хүртэл 9-өөс 20 цаг хүртэл. Шинэ танхим маань их сургуулийн номын сан шиг харагддаг, заавал үзээрэй!",
+   "en": "Monday through Friday, from 9 a.m. to 8 p.m. Our new hall looks like a university library. You should definitely see it!",
+   "mn_latin": "Davaagaas Baasan garag khürtel 9-öös 20 tsag khürtel. Shine tankhim maani ikh surguuliin nomyn san shig kharagddag, zaaval üzeerei!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, public library reading rooms are popular study spots, especially with university students during exam season, when seats can fill up early in the morning. The National Library of Mongolia, near Sükhbaatar Square, is known for its classical building with columns, which many visitors say looks like a museum. Many libraries now offer online catalogs and renewals, but you usually still register in person with your ID card.",
+  "mn": "Улаанбаатарт номын сангийн уншлагын танхим бол ялангуяа шалгалтын үеэр оюутнуудын хичээл хийдэг дуртай газар бөгөөд өглөө эрт суудал дүүрэх нь элбэг. Сүхбаатарын талбайн ойролцоох Монгол Улсын Үндэсний номын сан баганатай сонгодог хэв маягийн барилгаараа алдартай бөгөөд олон хүн музей шиг харагддаг гэж ярьдаг. Одоо олон номын сан цахим каталог, онлайн хугацаа сунгалт санал болгодог ч бүртгүүлэхдээ ихэвчлэн иргэний үнэмлэхтэйгээ биечлэн очдог."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Solid, accurate lesson. Only a case-ending error in one example and a numeral-suffix error in one alternative."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "Solid lesson. Fixed one unnatural vocab example and one malformed fill-in option. The en/mn intro and grammar sections differ on purpose because each audience learns the other language.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "A possessed object needs the accusative (хугацааг). Natural usage is the causative сунгуулах, since the library does the renewing."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "After г the dative is -т (цагт), so the distractor -д was a malformed form."
+   }
+  ]
+ }
+}

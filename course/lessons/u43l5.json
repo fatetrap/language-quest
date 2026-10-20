@@ -1,0 +1,431 @@
+{
+ "intro_en": "You will learn how to return a faulty phone or appliance, claim a refund, and read store policies. You will also practice formal notices in Mongolian (-хыг хориглоно, -сан тохиолдолд) and modal passives in English (can be returned, must not be used).",
+ "intro_mn": "Та согогтой утас, цахилгаан бараагаа буцааж, мөнгөө нэхэмжилж, дэлгүүрийн журмыг унших чадвартай болно. Мөн албан мэдэгдлийн хэллэг (-хыг хориглоно, -сан тохиолдолд) болон англи хэлний модал үйлийн үйлдэгдэх хэв (can be returned, must not be used)-ийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "баталгаа",
+   "en": "warranty, guarantee",
+   "pos": "noun",
+   "example_mn": "Энэ утасны баталгаа нэг жил.",
+   "example_en": "This phone has a one-year warranty.",
+   "mn_latin": "batalgaa"
+  },
+  {
+   "mn": "баримт",
+   "en": "receipt",
+   "pos": "noun",
+   "example_mn": "Баримтаа алдаж болохгүй.",
+   "example_en": "Don't lose your receipt.",
+   "mn_latin": "barimt"
+  },
+  {
+   "mn": "мөнгө буцаалт",
+   "en": "refund",
+   "pos": "noun",
+   "example_mn": "Би мөнгөө буцаалгахыг хүсэж байна.",
+   "example_en": "I would like to claim a refund.",
+   "mn_latin": "möngö butsaalt"
+  },
+  {
+   "mn": "согог",
+   "en": "defect, fault",
+   "pos": "noun",
+   "example_mn": "Дэлгэц дээр үйлдвэрлэлийн согог байна.",
+   "example_en": "There is a manufacturing defect on the screen.",
+   "mn_latin": "sogog"
+  },
+  {
+   "mn": "хэрэглэгчийн эрх",
+   "en": "consumer rights",
+   "pos": "noun",
+   "example_mn": "Хэрэглэгчийн эрхээ хамгаалах хэрэгтэй.",
+   "example_en": "You need to protect your consumer rights.",
+   "mn_latin": "khereglegchiin erkh"
+  },
+  {
+   "mn": "буцаах",
+   "en": "to return (an item)",
+   "pos": "verb",
+   "example_mn": "Би энэ данхыг буцаах гэсэн юм.",
+   "example_en": "I want to return this kettle.",
+   "mn_latin": "butsaakh"
+  },
+  {
+   "mn": "солих",
+   "en": "to exchange, replace",
+   "pos": "verb",
+   "example_mn": "Танай дэлгүүр барааг шинээр сольж өгөх үү?",
+   "example_en": "Will your store replace the item with a new one?",
+   "mn_latin": "solikh"
+  },
+  {
+   "mn": "гомдол",
+   "en": "complaint",
+   "pos": "noun",
+   "example_mn": "Би албан ёсоор гомдол гаргана.",
+   "example_en": "I will file a formal complaint.",
+   "mn_latin": "gomdol"
+  },
+  {
+   "mn": "засвар",
+   "en": "repair",
+   "pos": "noun",
+   "example_mn": "Засвар хоёр долоо хоног үргэлжилсэн.",
+   "example_en": "The repair took two weeks.",
+   "mn_latin": "zasvar"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "period, deadline",
+   "pos": "noun",
+   "example_mn": "Буцаах хугацаа 14 хоног.",
+   "example_en": "The return period is 14 days.",
+   "mn_latin": "khugatsaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний шинэ утас асахгүй байна.",
+   "en": "My new phone won't turn on.",
+   "alt_mn": [
+    "Миний шинэ утас ажиллахгүй байна."
+   ],
+   "alt_en": [
+    "My new phone won't switch on."
+   ],
+   "mn_latin": "Minii shine utas asakhgüi baina."
+  },
+  {
+   "mn": "Баримтгүй бол барааг буцаахыг хориглоно.",
+   "en": "Returning goods without a receipt is prohibited.",
+   "alt_mn": [
+    "Баримтгүй барааг буцаахыг хориглоно."
+   ],
+   "alt_en": [
+    "Goods must not be returned without a receipt.",
+    "Returns without a receipt are not allowed."
+   ],
+   "mn_latin": "Barimtgüi bol baraag butsaakhyg khoriglono."
+  },
+  {
+   "mn": "Бараанд согог илэрсэн тохиолдолд бид мөнгийг бүрэн буцаана.",
+   "en": "If a defect is found in the goods, we will refund the money in full.",
+   "alt_mn": [
+    "Бараанд согог гарсан тохиолдолд бид мөнгийг бүрэн буцаана."
+   ],
+   "alt_en": [
+    "In case a defect is found in the item, we will give a full refund."
+   ],
+   "mn_latin": "Baraand sogog ilersen tokhioldold bid möngiig büren butsaana."
+  },
+  {
+   "mn": "Бараа 14 хоногийн дотор буцаагдаж болно.",
+   "en": "Items can be returned within 14 days.",
+   "alt_mn": [
+    "Барааг 14 хоногийн дотор буцааж болно."
+   ],
+   "alt_en": [
+    "Goods may be returned within 14 days."
+   ],
+   "mn_latin": "Baraa 14 khonogiin dotor butsaagdaj bolno."
+  },
+  {
+   "mn": "Баталгааны хугацаанд засвар үнэгүй хийгдэнэ.",
+   "en": "Repairs will be done free of charge during the warranty period.",
+   "alt_mn": [
+    "Баталгааны хугацаанд засварыг үнэгүй хийнэ."
+   ],
+   "alt_en": [
+    "During the warranty, repairs are free of charge."
+   ],
+   "mn_latin": "Batalgaany khugatsaand zasvar ünegüi khiigdene."
+  },
+  {
+   "mn": "Хэрэглэсэн барааг буцаан авахгүй.",
+   "en": "Used goods will not be accepted back.",
+   "alt_mn": [
+    "Ашигласан барааг буцаан авахгүй."
+   ],
+   "alt_en": [
+    "We do not take back used items."
+   ],
+   "mn_latin": "Khereglesen baraag butsaan avakhgüi."
+  },
+  {
+   "mn": "Хайрцаг, баримтыг заавал хадгалах ёстой.",
+   "en": "The box and receipt must be kept.",
+   "alt_mn": [
+    "Хайрцаг, баримтаа заавал хадгалах хэрэгтэй."
+   ],
+   "alt_en": [
+    "You must keep the box and the receipt."
+   ],
+   "mn_latin": "Khairtsag, barimtyg zaaval khadgalakh yostoi."
+  },
+  {
+   "mn": "Танай дэлгүүр надад мөнгийг минь буцааж өгөх үү?",
+   "en": "Will your store give me a refund?",
+   "alt_mn": [
+    "Та нар надад мөнгөө буцааж өгөх үү?"
+   ],
+   "alt_en": [
+    "Is your store going to refund my money?"
+   ],
+   "mn_latin": "Tanai delgüür nadad möngiig mini butsaaj ögökh üü?"
+  },
+  {
+   "mn": "Хэрэглэгчийн эрхийн хуулиар согогтой барааг солиулах эрхтэй.",
+   "en": "Under the consumer protection law, you have the right to exchange a defective item.",
+   "alt_mn": [
+    "Хэрэглэгчийн эрхийн хуулийн дагуу согогтой барааг сольж болно."
+   ],
+   "alt_en": [
+    "By law, consumers have the right to have a faulty product replaced."
+   ],
+   "mn_latin": "Khereglegchiin erkhiin khuuliar sogogtoi baraag soliulakh erkhtei."
+  },
+  {
+   "mn": "Хэрэв шийдэхгүй бол би гомдол гаргана.",
+   "en": "If you don't resolve it, I will file a complaint.",
+   "alt_mn": [
+    "Хэрэв асуудлыг шийдэхгүй бол гомдол гаргана."
+   ],
+   "alt_en": [
+    "If it isn't settled, I will make a complaint."
+   ],
+   "mn_latin": "Kherev shiidekhgüi bol bi gomdol gargana."
+  },
+  {
+   "mn": "Энэ загварын цэнэглэгч халдаг гэж ярьдаг.",
+   "en": "It is said that this model of charger overheats.",
+   "alt_mn": [
+    "Энэ загварын цэнэглэгч халдаг гэсэн."
+   ],
+   "alt_en": [
+    "People say this charger model overheats."
+   ],
+   "mn_latin": "Ene zagvaryn tseneglegch khaldag gej yaridag."
+  },
+  {
+   "mn": "Худалдан авснаас хойш 30 хоногийн дотор л солих боломжтой.",
+   "en": "Exchange is possible only within 30 days of purchase.",
+   "alt_mn": [
+    "Худалдан авснаас хойш 30 хоногийн дотор л солино."
+   ],
+   "alt_en": [
+    "Items can only be exchanged within 30 days of purchase."
+   ],
+   "mn_latin": "Khudaldan avsnaas khoish 30 khonogiin dotor l solikh bolomjtoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal notices: -хыг хориглоно and -сан тохиолдолд",
+  "title_mn": "Модал үйлдэгдэх хэв ба «it is said that»",
+  "explain_en": "Mongolian store notices use set formulas. To prohibit something, add the accusative -ыг/-ийг/-г to the verbal noun in -х and end with «хориглоно»: «Тамхи татахыг хориглоно» (Smoking is prohibited). For conditions, use the past participle -сан/-сэн/-сон/-сөн plus «тохиолдолд» (in the case that): «Согог илэрсэн тохиолдолд мөнгийг буцаана». Choose the vowel to match the stem. These forms are impersonal and formal, so no «та» or subject is needed.",
+  "explain_mn": "Англи хэлний дүрэм, журамд үйлдэгчийг заахгүй үйлдэгдэх хэвийг (passive) ашигладаг: «can/must + be + V3». Жишээ нь: «Items can be returned within 14 days» (Бараа 14 хоногийн дотор буцаагдаж болно), «The device must not be used» (Төхөөрөмжийг хэрэглэж болохгүй). Сөрөг бол «must not be + V3». Мөн «It is said that + өгүүлбэр» нь «гэж ярьдаг» гэсэн утгатай, хэн хэлснийг тодорхойлдоггүй. Жишээ: «It is said that the phone overheats».",
+  "examples": [
+   {
+    "mn": "Баримтгүй бараа буцаахыг хориглоно.",
+    "en": "Returning goods without a receipt is prohibited.",
+    "mn_latin": "Barimtgüi baraa butsaakhyg khoriglono."
+   },
+   {
+    "mn": "Бараа гэмтсэн тохиолдолд бидэнд мэдэгдээрэй.",
+    "en": "If the item is damaged, please notify us.",
+    "mn_latin": "Baraa gemtsen tokhioldold bidend medegdeerei."
+   },
+   {
+    "mn": "Бараа 14 хоногийн дотор буцаагдаж болно.",
+    "en": "Items can be returned within 14 days.",
+    "mn_latin": "Baraa 14 khonogiin dotor butsaagdaj bolno."
+   },
+   {
+    "mn": "Энэ утас халдаг гэж ярьдаг.",
+    "en": "It is said that this phone overheats.",
+    "mn_latin": "Ene utas khaldag gej yaridag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Дэлгүүрт зураг авахыг ___.",
+   "answer": "хориглоно",
+   "options": [
+    "хориглоно",
+    "хүсэв",
+    "байна",
+    "болно"
+   ],
+   "translation": "Taking photos in the store is prohibited.",
+   "explain_en": "«-хыг хориглоно» is the standard formula for prohibitions.",
+   "explain_mn": "Хориглосон мэдэгдэл «-хыг хориглоно» хэлбэртэй байдаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Бараа согогтой байсан ___ мөнгийг буцаана.",
+   "answer": "тохиолдолд",
+   "options": [
+    "тохиолдолд",
+    "тохиолдлыг",
+    "тохиолдлоос",
+    "тохиолдол"
+   ],
+   "translation": "If the item was defective, we will refund the money.",
+   "explain_en": "The dative-locative «тохиолдолд» means 'in the case of'.",
+   "explain_mn": "«-сан тохиолдолд» нь нөхцөл заадаг, «тохиолдолд» нь орших тийн ялгалтай."
+  },
+  {
+   "lang": "mn",
+   "text": "Баримтаа заавал ___ хэрэгтэй.",
+   "answer": "хадгалах",
+   "options": [
+    "хадгалах",
+    "хадгалсан",
+    "хадгалаад",
+    "хадгалж"
+   ],
+   "translation": "You need to keep your receipt.",
+   "explain_en": "«хэрэгтэй» takes the verbal noun in -х: хадгалах хэрэгтэй.",
+   "explain_mn": "«хэрэгтэй» нь «-х» хэлбэртэй үйлийн нэртэй хамт хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Items ___ be returned within 14 days.",
+   "answer": "can",
+   "options": [
+    "can",
+    "are",
+    "have",
+    "does"
+   ],
+   "translation": "Бараа 14 хоногийн дотор буцаагдаж болно.",
+   "explain_en": "«can be returned» is a modal passive: can + be + past participle.",
+   "explain_mn": "Модал үйлийн үйлдэгдэх хэв: can + be + V3, «болно» гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The phone must not be ___ after the seal is broken.",
+   "answer": "returned",
+   "options": [
+    "returned",
+    "return",
+    "returning",
+    "returns"
+   ],
+   "translation": "Лац эвдэгдсэний дараа утсыг буцааж болохгүй.",
+   "explain_en": "After «be» in a passive we need the past participle.",
+   "explain_mn": "Passive-д «be»-ийн дараа V3 хэлбэр ордог."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ said that this brand has many defects.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "has",
+    "does"
+   ],
+   "translation": "Энэ брэнд олон согогтой гэж ярьдаг.",
+   "explain_en": "«It is said that...» is a fixed impersonal passive.",
+   "explain_mn": "«It is said that...» нь тогтсон хэллэг, «гэж ярьдаг» гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Сайн байна уу? Би өчигдөр энэ утсыг авсан, гэтэл асахгүй байна.",
+   "en": "Hello. I bought this phone yesterday, but it won't turn on.",
+   "mn_latin": "Sain baina uu? Bi öchigdör ene utsyg avsan, getel asakhgüi baina."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Уучлаарай. Баримт тань байна уу?",
+   "en": "I'm sorry. Do you have your receipt?",
+   "mn_latin": "Uuchlaarai. Barimt tani baina uu?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тийм ээ, энд байна. Баталгааны карт ч бий.",
+   "en": "Yes, here it is. I also have the warranty card.",
+   "mn_latin": "Tiim ee, end baina. Batalgaany kart ch bii."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Манай журмаар согог илэрсэн тохиолдолд 14 хоногийн дотор солих эсвэл мөнгийг буцаах боломжтой.",
+   "en": "Under our policy, if a defect is found, it can be exchanged or refunded within 14 days.",
+   "mn_latin": "Manai jurmaar sogog ilersen tokhioldold 14 khonogiin dotor solikh esvel möngiig butsaakh bolomjtoi."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Би мөнгө буцаалтыг сонгоё. Солиулахыг хүсэхгүй байна.",
+   "en": "I'd like a refund. I don't want an exchange.",
+   "mn_latin": "Bi möngö butsaaltyg songoyo. Soliulakhyg khüsekhgüi baina."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Ойлголоо. Эхлээд манай техникч шалгана.",
+   "en": "Understood. First our technician will check it.",
+   "mn_latin": "Oilgoloo. Ekhleed manai tyekhnikch shalgana."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Хэрэв шийдэхгүй бол би хэрэглэгчийн эрхийн байгууллагад гомдол гаргана.",
+   "en": "If it isn't resolved, I'll file a complaint with the consumer protection agency.",
+   "mn_latin": "Kherev shiidekhgüi bol bi khereglegchiin erkhiin baiguullagad gomdol gargana."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Санаа зоволтгүй, өнөөдөр багтаан шийднэ.",
+   "en": "Don't worry, we'll settle it today.",
+   "mn_latin": "Sanaa zovoltgüi, önöödör bagtaan shiidne."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, consumer rights are protected by the Law on Consumer Protection, and a consumer protection authority accepts complaints about faulty goods. In Ulaanbaatar's big stores and the State Department Store, keeping the receipt and warranty card is essential. At open markets like Narantuul, returns are less formal, so it is wise to test goods before you pay.",
+  "mn": "Монголд хэрэглэгчийн эрхийг Хэрэглэгчийн эрхийг хамгаалах тухай хууль хамгаалдаг бөгөөд согогтой барааны гомдлыг хэрэглэгчийн эрхийн байгууллага хүлээн авдаг. Улаанбаатарын томоохон дэлгүүр, Улсын их дэлгүүрт баримт, баталгааны картаа хадгалах нь чухал. Нарантуул зэрэг задгай захад буцаалт нь албан бус байдаг тул төлөхөөс өмнө барааг шалгаж үзэх нь зүйтэй."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 18,
+  "notes": "Mostly good; main problems were the wrong term for passive in Mongolian, missing accusatives, and the misspelled солиулах."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 5,
+  "notes": "Mostly solid; fixed a duplicate alternative, a misspelled option, a wrong grammar term and two unnatural phrasings.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'does not start' is unnatural for a phone"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "'мөнгө буцаалт хийж өгөх' is awkward and unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Misspelling: the ablative is тохиолдлоос (the stem vowel drops)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "Wrong term: this is the modal passive, not a verbal noun"
+   }
+  ]
+ }
+}

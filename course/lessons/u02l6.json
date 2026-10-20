@@ -1,0 +1,473 @@
+{
+ "intro_en": "You will learn to say your name, ask how a name is written, and spell it aloud letter by letter. You will also practice reading Mongolian and foreign names in Cyrillic.",
+ "intro_mn": "Та нэрээ хэлэх, нэр хэрхэн бичигддэгийг асуух, нэрээ үсгээр нэг нэгээр нь хэлэх талаар сурна. Мөн монгол болон гадаад нэрийг кирилл үсгээр унших, бичих дасгал хийнэ.",
+ "vocab": [
+  {
+   "mn": "нэр",
+   "en": "name",
+   "pos": "noun",
+   "example_mn": "Миний нэр Болд.",
+   "example_en": "My name is Bold.",
+   "mn_latin": "ner"
+  },
+  {
+   "mn": "овог",
+   "en": "family name (patronymic)",
+   "pos": "noun",
+   "example_mn": "Таны овог хэн бэ?",
+   "example_en": "What is your family name?",
+   "mn_latin": "ovog"
+  },
+  {
+   "mn": "үсэг",
+   "en": "letter",
+   "pos": "noun",
+   "example_mn": "Энэ ямар үсэг вэ?",
+   "example_en": "What letter is this?",
+   "mn_latin": "üseg"
+  },
+  {
+   "mn": "үсэглэх",
+   "en": "to spell",
+   "pos": "verb",
+   "example_mn": "Нэрээ үсэглэнэ үү.",
+   "example_en": "Please spell your name.",
+   "mn_latin": "üseglekh"
+  },
+  {
+   "mn": "бичих",
+   "en": "to write",
+   "pos": "verb",
+   "example_mn": "Нэрээ энд бичнэ үү.",
+   "example_en": "Please write your name here.",
+   "mn_latin": "bichikh"
+  },
+  {
+   "mn": "хэрхэн",
+   "en": "how",
+   "pos": "adverb",
+   "example_mn": "Үүнийг хэрхэн бичдэг вэ?",
+   "example_en": "How do you write this?",
+   "mn_latin": "kherkhen"
+  },
+  {
+   "mn": "дахин",
+   "en": "again",
+   "pos": "adverb",
+   "example_mn": "Дахин хэлнэ үү.",
+   "example_en": "Please say it again.",
+   "mn_latin": "dakhin"
+  },
+  {
+   "mn": "удаан",
+   "en": "slowly",
+   "pos": "adverb",
+   "example_mn": "Удаан хэлнэ үү.",
+   "example_en": "Please speak slowly.",
+   "mn_latin": "udaan"
+  },
+  {
+   "mn": "утасны дугаар",
+   "en": "phone number",
+   "pos": "noun",
+   "example_mn": "Таны утасны дугаар хэд вэ?",
+   "example_en": "What is your phone number?",
+   "mn_latin": "utasny dugaar"
+  },
+  {
+   "mn": "захиалга",
+   "en": "reservation",
+   "pos": "noun",
+   "example_mn": "Надад захиалга байгаа.",
+   "example_en": "I have a reservation.",
+   "mn_latin": "zakhialga"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний нэр Сарнай.",
+   "en": "My name is Sarnai.",
+   "alt_mn": [
+    "Намайг Сарнай гэдэг."
+   ],
+   "alt_en": [
+    "I am called Sarnai."
+   ],
+   "mn_latin": "Minii ner Sarnai."
+  },
+  {
+   "mn": "Таны нэрийг хэрхэн бичдэг вэ?",
+   "en": "How do you spell your name?",
+   "alt_mn": [
+    "Таны нэрийг яаж бичдэг вэ?"
+   ],
+   "alt_en": [
+    "How is your name written?",
+    "How do you write your name?"
+   ],
+   "mn_latin": "Tany neriig kherkhen bichdeg ve?"
+  },
+  {
+   "mn": "Нэрээ үсэглэнэ үү.",
+   "en": "Please spell your name.",
+   "alt_mn": [
+    "Нэрээ үсэглэж өгнө үү."
+   ],
+   "alt_en": [
+    "Could you spell your name, please?"
+   ],
+   "mn_latin": "Neree üseglene üü."
+  },
+  {
+   "mn": "Миний нэр Майкл.",
+   "en": "My name is Michael.",
+   "alt_mn": [
+    "Намайг Майкл гэдэг."
+   ],
+   "alt_en": [
+    "I am called Michael."
+   ],
+   "mn_latin": "Minii ner Maikl."
+  },
+  {
+   "mn": "Дахин хэлнэ үү.",
+   "en": "Please say it again.",
+   "alt_mn": [
+    "Дахиад хэлнэ үү."
+   ],
+   "alt_en": [
+    "Could you repeat that, please?"
+   ],
+   "mn_latin": "Dakhin khelne üü."
+  },
+  {
+   "mn": "Удаан хэлнэ үү.",
+   "en": "Please speak slowly.",
+   "alt_mn": [
+    "Удаан ярина уу."
+   ],
+   "alt_en": [
+    "Please say it slowly."
+   ],
+   "mn_latin": "Udaan khelne üü."
+  },
+  {
+   "mn": "Надад захиалга байгаа.",
+   "en": "I have a reservation.",
+   "alt_mn": [
+    "Би захиалга хийсэн."
+   ],
+   "alt_en": [
+    "I made a reservation."
+   ],
+   "mn_latin": "Nadad zakhialga baigaa."
+  },
+  {
+   "mn": "Захиалга Болдын нэрээр байгаа.",
+   "en": "The reservation is under Bold's name.",
+   "alt_mn": [
+    "Захиалга Болдын нэр дээр байгаа."
+   ],
+   "alt_en": [
+    "The reservation is in Bold's name."
+   ],
+   "mn_latin": "Zakhialga Boldyn nereer baigaa."
+  },
+  {
+   "mn": "Таны овог хэн бэ?",
+   "en": "What is your family name?",
+   "alt_mn": [
+    "Та ямар овогтой вэ?"
+   ],
+   "alt_en": [
+    "What's your family name?"
+   ],
+   "mn_latin": "Tany ovog khen be?"
+  },
+  {
+   "mn": "Би нэрээ энд бичлээ.",
+   "en": "I wrote my name here.",
+   "alt_mn": [
+    "Би нэрээ энд бичсэн."
+   ],
+   "alt_en": [
+    "I have written my name here."
+   ],
+   "mn_latin": "Bi neree end bichlee."
+  },
+  {
+   "mn": "Таны утасны дугаар хэд вэ?",
+   "en": "What is your phone number?",
+   "alt_mn": [
+    "Утасны дугаараа хэлнэ үү."
+   ],
+   "alt_en": [
+    "What's your phone number?"
+   ],
+   "mn_latin": "Tany utasny dugaar khed ve?"
+  },
+  {
+   "mn": "Энэ нэрийг хэрхэн уншдаг вэ?",
+   "en": "How do you read this name?",
+   "alt_mn": [
+    "Энэ нэрийг яаж уншдаг вэ?"
+   ],
+   "alt_en": [
+    "How do you pronounce this name?"
+   ],
+   "mn_latin": "Ene neriig kherkhen unshdag ve?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking how something is written: -даг / -дэг",
+  "title_mn": "Хэрхэн бичдэгийг асуух нь: -даг / -дэг",
+  "explain_en": "To ask how a name is usually written, Mongolian uses the habitual verb ending -даг/-дэг/-дог/-дөг (chosen by vowel harmony): бичих → бичдэг, унших → уншдаг. The name takes the accusative ending (нэр → нэрийг), and the question particle is вэ: Таны нэрийг хэрхэн бичдэг вэ? To ask someone politely to do something, add -на уу / -нэ үү to the verb stem: үсэглэнэ үү (please spell). Use нэрээ (your/my own name) when the owner is the subject.",
+  "explain_mn": "Монгол хэлэнд нэр ердийн байдлаар хэрхэн бичигддэгийг асуухдаа үйл үгэнд -даг/-дэг/-дог/-дөг нөхцөл залгана (эгшгийн зохицлоор): бичих → бичдэг, унших → уншдаг. Нэр заах тийн ялгалын -ийг/-ыг нөхцөлтэй байна: нэрийг. Асуух сул үг нь вэ: Таны нэрийг хэрхэн бичдэг вэ? Эелдгээр хүсэхдээ үйл үгийн язгуурт -на уу/-нэ үү залгана: үсэглэнэ үү. Өөрийн нэрийг хэлэхдээ нэрээ гэж хэрэглэнэ. Англи хэлэнд “How do you spell...?” гэж асууна.",
+  "examples": [
+   {
+    "mn": "Таны нэрийг хэрхэн бичдэг вэ?",
+    "en": "How do you spell your name?",
+    "mn_latin": "Tany neriig kherkhen bichdeg ve?"
+   },
+   {
+    "mn": "Энэ үгийг хэрхэн уншдаг вэ?",
+    "en": "How do you read this word?",
+    "mn_latin": "Ene ügiig kherkhen unshdag ve?"
+   },
+   {
+    "mn": "Нэрээ үсэглэнэ үү.",
+    "en": "Please spell your name.",
+    "mn_latin": "Neree üseglene üü."
+   },
+   {
+    "mn": "Болд гэж бичдэг.",
+    "en": "It's written 'Bold'.",
+    "mn_latin": "Bold gej bichdeg."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Таны нэрийг хэрхэн ___ вэ?",
+   "answer": "бичдэг",
+   "options": [
+    "бичдэг",
+    "бичдаг",
+    "бичдөг",
+    "бичдог"
+   ],
+   "translation": "How do you spell your name?",
+   "explain_en": "The habitual ending -даг/-дэг/-дог/-дөг is used for how something is normally written. Since бичих has only the neutral vowel и, it takes -дэг: бичдэг.",
+   "explain_mn": "Ердийн бичих хэлбэрийг асуухад -дэг ашиглана: бичдэг. Англи хэлний “How do you spell...?” гэсэнтэй таарна."
+  },
+  {
+   "lang": "mn",
+   "text": "Нэр___ үсэглэнэ үү.",
+   "answer": "ээ",
+   "options": [
+    "ээ",
+    "ийн",
+    "д",
+    "тэй"
+   ],
+   "translation": "Please spell your name.",
+   "explain_en": "Your own name takes the reflexive possessive -ээ (нэрээ), meaning 'my/your own name'.",
+   "explain_mn": "Өөрийн нэрийг хэлэхэд өөриймсөг -аа/-ээ нөхцөл орно: нэрээ."
+  },
+  {
+   "lang": "mn",
+   "text": "Миний ___ Болд.",
+   "answer": "нэр",
+   "options": [
+    "нэр",
+    "үсэг",
+    "утас",
+    "дугаар"
+   ],
+   "translation": "My name is Bold.",
+   "explain_en": "нэр means 'name'. Миний нэр Болд = My name is Bold.",
+   "explain_mn": "Нэрээ хэлэхдээ “Миний нэр ...” гэнэ. Англи хэлэнд “My name is ...”."
+  },
+  {
+   "lang": "en",
+   "text": "How do you ___ your name?",
+   "answer": "spell",
+   "options": [
+    "spell",
+    "spells",
+    "spelled",
+    "spelling"
+   ],
+   "translation": "Таны нэрийг хэрхэн бичдэг вэ?",
+   "explain_en": "After 'do you' we use the base form of the verb: spell.",
+   "explain_mn": "“do you”-ийн дараа үйл үгийг үндсэн хэлбэрээр нь хэрэглэнэ: spell."
+  },
+  {
+   "lang": "en",
+   "text": "Could you ___ it again, please?",
+   "answer": "say",
+   "options": [
+    "say",
+    "says",
+    "saying",
+    "said"
+   ],
+   "translation": "Дахин хэлж өгнө үү.",
+   "explain_en": "After 'could you' use the base verb: say.",
+   "explain_mn": "“Could you”-ийн дараа үйл үг үндсэн хэлбэрээрээ орно: say."
+  },
+  {
+   "lang": "en",
+   "text": "My name ___ Sarnai.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "translation": "Миний нэр Сарнай.",
+   "explain_en": "'Name' is singular, so we use 'is'.",
+   "explain_mn": "“Name” нь ганц тоо тул “is” хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Michael",
+   "mn": "Сайн байна уу. Надад захиалга байгаа.",
+   "en": "Hello. I have a reservation.",
+   "mn_latin": "Sain baina uu. Nadad zakhialga baigaa."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн байна уу. Таны нэр хэн бэ?",
+   "en": "Hello. What is your name?",
+   "mn_latin": "Sain baina uu. Tany ner khen be?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Миний нэр Майкл.",
+   "en": "My name is Michael.",
+   "mn_latin": "Minii ner Maikl."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Нэрээ үсэглэнэ үү.",
+   "en": "Please spell your name.",
+   "mn_latin": "Neree üseglene üü."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "М, а, й, к, л.",
+   "en": "M, A, I, K, L. (in Cyrillic: М, А, Й, К, Л)",
+   "mn_latin": "M, a, i, k, l."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Баярлалаа. Таны утасны дугаар хэд вэ?",
+   "en": "Thank you. What is your phone number?",
+   "mn_latin": "Bayarlalaa. Tany utasny dugaar khed ve?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Удаан хэлье. Ес, нэг, нэг...",
+   "en": "I'll say it slowly. Nine, one, one...",
+   "mn_latin": "Udaan kheliye. Yes, neg, neg..."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "За, ойлголоо. Баярлалаа, Майкл.",
+   "en": "Okay, I understand. Thank you, Michael.",
+   "mn_latin": "Za, oilgoloo. Bayarlalaa, Maikl."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolians usually have a patronymic and a given name, like Болдын Сарнай (Sarnai, daughter of Bold), and the patronymic comes first in writing. Many Mongolian names are meaningful words, such as Сарнай (rose) or Болд (steel). Foreign names like Майкл are written in Cyrillic by sound, so always check the spelling with someone.",
+  "mn": "Монголчууд ихэвчлэн эцгийн нэр болон өөрийн нэртэй бөгөөд бичихдээ эцгийн нэрийг түрүүнд бичдэг, жишээ нь Болдын Сарнай (Болдын охин Сарнай). Олон монгол нэр утгатай үг байдаг: Сарнай (сарнай цэцэг), Болд (ган). Майкл гэх мэт гадаад нэрийг дуудлагаар нь кириллээр бичдэг тул бичиглэлийг заавал шалгаарай."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 19,
+  "notes": "Mostly good, but the grammar explanation has a typo and the Mongolian grammar explanation does not explain the Mongolian structure; a few minor consistency issues."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 12,
+  "notes": "Fixed Танай→Таны, grammar terminology, ambiguous blanks, digit form, and mismatched alternatives.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "'I have booked.' is unnatural without an object"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "alt 'I wrote my name here' doesn't match"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Танай means 'your (household)', should be Таны; вэ is a particle, not a question word"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'тусгагдах тохиолд' is not a real term (заах тийн ялгал); Танай → Таны; вэ is a particle"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "Танай → Таны"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "match the Mongolian, which does not spell letters"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "бичсэн/бичих were also grammatical; test vowel harmony instead"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "и is neutral, not front"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "нэрийг үсэглэнэ үү is also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Миний овог Болд is also possible"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "digits are named with the base form ес"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Сарнай means rose, not just flower; align with en"
+   }
+  ]
+ }
+}

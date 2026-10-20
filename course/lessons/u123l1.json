@@ -1,0 +1,388 @@
+{
+ "intro_en": "Learn to chat with a coworker about your favorite films and series, and name the main genres in Mongolian. You'll review -х дуртай (\"to like doing\") and learn how genre words like инээдмийн and аймшгийн work as adjectives.",
+ "intro_mn": "Хамт ажилладаг хүнтэйгээ дуртай кино, цувралынхаа талаар ярилцаж, англиар киноны төрлүүдийг нэрлэж сурна. Мөн англи хэлэнд \"a horror movie\", \"a sci-fi series\" гэх мэтээр нэр үгийг тэмдэг нэр шиг хэрэглэдэг дүрмийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "төрөл",
+   "en": "genre, type",
+   "pos": "noun",
+   "example_mn": "Та ямар төрлийн кинонд дуртай вэ?",
+   "example_en": "What genre of movies do you like?",
+   "mn_latin": "töröl"
+  },
+  {
+   "mn": "инээдмийн кино",
+   "en": "comedy",
+   "pos": "noun phrase",
+   "example_mn": "Ядарсан үедээ инээдмийн кино үздэг.",
+   "example_en": "I watch comedies when I'm tired.",
+   "mn_latin": "ineedmiin kino"
+  },
+  {
+   "mn": "аймшгийн кино",
+   "en": "horror movie",
+   "pos": "noun phrase",
+   "example_mn": "Би аймшгийн кинонд дургүй.",
+   "example_en": "I don't like horror movies.",
+   "mn_latin": "aimshgiin kino"
+  },
+  {
+   "mn": "тулаант кино",
+   "en": "action movie",
+   "pos": "noun phrase",
+   "example_mn": "Миний дүү тулаант кино үзэх дуртай.",
+   "example_en": "My younger brother likes watching action movies.",
+   "mn_latin": "tulaant kino"
+  },
+  {
+   "mn": "уран зөгнөлт кино",
+   "en": "sci-fi / fantasy movie",
+   "pos": "noun phrase",
+   "example_mn": "Энэ уран зөгнөлт кино сансрын тухай.",
+   "example_en": "This sci-fi movie is about space.",
+   "mn_latin": "uran zögnölt kino"
+  },
+  {
+   "mn": "баримтат кино",
+   "en": "documentary",
+   "pos": "noun phrase",
+   "example_mn": "Өчигдөр говийн тухай баримтат кино үзлээ.",
+   "example_en": "Yesterday I watched a documentary about the Gobi.",
+   "mn_latin": "barimtat kino"
+  },
+  {
+   "mn": "цуврал",
+   "en": "series, TV show",
+   "pos": "noun",
+   "example_mn": "Энэ цуврал хэдэн ангитай вэ?",
+   "example_en": "How many episodes does this series have?",
+   "mn_latin": "tsuvral"
+  },
+  {
+   "mn": "найруулагч",
+   "en": "director",
+   "pos": "noun",
+   "example_mn": "Энэ киноны найруулагч хэн бэ?",
+   "example_en": "Who is the director of this movie?",
+   "mn_latin": "nairuulagch"
+  },
+  {
+   "mn": "жүжигчин",
+   "en": "actor, actress",
+   "pos": "noun",
+   "example_mn": "Тэр жүжигчин маш сайн тоглосон.",
+   "example_en": "That actor gave a great performance.",
+   "mn_latin": "jüjigchin"
+  },
+  {
+   "mn": "санал болгох",
+   "en": "to recommend",
+   "pos": "verb",
+   "example_mn": "Надад сайн кино санал болгооч.",
+   "example_en": "Recommend me a good movie.",
+   "mn_latin": "sanal bolgokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та ямар төрлийн кинонд хамгийн их дуртай вэ?",
+   "en": "What genre of movies do you like the most?",
+   "alt_mn": [
+    "Та ямар төрлийн кинонд илүү дуртай вэ?"
+   ],
+   "alt_en": [
+    "What kind of movies do you like best?",
+    "What's your favorite movie genre?"
+   ],
+   "mn_latin": "Ta yamar törliin kinond khamgiin ikh durtai ve?"
+  },
+  {
+   "mn": "Ажлын дараа ядарсан үедээ инээдмийн кино үзэх дуртай.",
+   "en": "When I'm tired after work, I like watching comedies.",
+   "alt_mn": [
+    "Ажлын дараа ядарсан үедээ инээдмийн кино үзэх дуртай байдаг."
+   ],
+   "alt_en": [
+    "When I'm tired after work, I like to watch comedies."
+   ],
+   "mn_latin": "Ajlyn daraa yadarsan üyedee ineedmiin kino üzekh durtai."
+  },
+  {
+   "mn": "Би аймшгийн кинонд тийм ч дургүй, шөнө унтаж чаддаггүй болчихдог.",
+   "en": "I'm not really into horror movies; I end up not being able to sleep at night.",
+   "alt_mn": [
+    "Би аймшгийн кинонд нэг их дургүй, шөнө унтаж чадахаа больчихдог."
+   ],
+   "alt_en": [
+    "I don't really like horror movies because I can't sleep at night afterward."
+   ],
+   "mn_latin": "Bi aimshgiin kinond tiim ch durgüi, shönö untaj chaddaggüi bolchikhdog."
+  },
+  {
+   "mn": "Миний нөхөр баримтат кино үзэх дуртай, ялангуяа байгалийн тухай.",
+   "en": "My husband loves watching documentaries, especially ones about nature.",
+   "alt_mn": [],
+   "alt_en": [
+    "My husband likes to watch documentaries, especially nature documentaries."
+   ],
+   "mn_latin": "Minii nökhör barimtat kino üzekh durtai, yalanguyaa baigaliin tukhai."
+  },
+  {
+   "mn": "Өнгөрсөн амралтын өдрүүдэд нэг уран зөгнөлт цувралыг бүтэн үзэж дуусгасан.",
+   "en": "Last weekend I binge-watched an entire sci-fi series.",
+   "alt_mn": [
+    "Өнгөрсөн амралтын өдрүүдэд нэг уран зөгнөлт цувралыг бүтнээр нь үзчихсэн."
+   ],
+   "alt_en": [
+    "Last weekend I watched a whole sci-fi series from start to finish."
+   ],
+   "mn_latin": "Öngörsön amraltyn ödrüüded neg uran zögnölt tsuvralyg büten üzej duusgasan."
+  },
+  {
+   "mn": "Тулаант кино сонирхолтой ч, ихэнх нь хоорондоо адилхан санагддаг.",
+   "en": "Action movies are fun, but most of them feel the same.",
+   "alt_mn": [],
+   "alt_en": [
+    "Action movies are entertaining, but most of them seem alike."
+   ],
+   "mn_latin": "Tulaant kino sonirkholtoi ch, ikhenkh ni khoorondoo adilkhan sanagddag."
+  },
+  {
+   "mn": "Энэ киноны найруулагч монгол хүн гэдгийг мэдээгүй байлаа.",
+   "en": "I didn't know the director of this movie was Mongolian.",
+   "alt_mn": [
+    "Энэ киноны найруулагч монгол хүн гэдгийг би мэдээгүй."
+   ],
+   "alt_en": [
+    "I had no idea this movie's director was Mongolian."
+   ],
+   "mn_latin": "Ene kinony nairuulagch mongol khün gedgiig medeegüi bailaa."
+  },
+  {
+   "mn": "Хэрэв та сонирхолтой баримтат кино мэдэж байвал надад санал болгоорой.",
+   "en": "If you know an interesting documentary, please recommend it to me.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you know any good documentaries, please recommend one to me."
+   ],
+   "mn_latin": "Kherev ta sonirkholtoi barimtat kino medej baival nadad sanal bolgooroi."
+  },
+  {
+   "mn": "Би хүүхэд байхдаа аймшгийн кинонаас их айдаг байсан.",
+   "en": "When I was a kid, I was really scared of horror movies.",
+   "alt_mn": [],
+   "alt_en": [
+    "As a child, I was very afraid of horror movies."
+   ],
+   "mn_latin": "Bi khüükhed baikhdaa aimshgiin kinonaas ikh aidag baisan."
+  },
+  {
+   "mn": "Бид энэ баасан гарагт кино театрт шинэ инээдмийн кино үзэхээр төлөвлөж байна.",
+   "en": "We're planning to see a new comedy at the movie theater this Friday.",
+   "alt_mn": [],
+   "alt_en": [
+    "This Friday we're planning to go see a new comedy at the theater."
+   ],
+   "mn_latin": "Bid ene baasan garagt kino tyeatrt shine ineedmiin kino üzekheer tölövlöj baina."
+  },
+  {
+   "mn": "Гол дүрийн жүжигчин нь үнэхээр сайн тоглосон.",
+   "en": "The lead actor gave a really great performance.",
+   "alt_mn": [
+    "Гол дүрийн жүжигчин маш сайн тоглосон."
+   ],
+   "alt_en": [
+    "The lead actor was really good."
+   ],
+   "mn_latin": "Gol düriin jüjigchin ni ünekheer sain togloson."
+  },
+  {
+   "mn": "Надад уран зөгнөлт кинонуудаас илүү бодит түүх дээр үндэслэсэн кино таалагддаг.",
+   "en": "I prefer movies based on true stories to sci-fi movies.",
+   "alt_mn": [],
+   "alt_en": [
+    "I like movies based on true stories more than sci-fi movies."
+   ],
+   "mn_latin": "Nadad uran zögnölt kinonuudaas ilüü bodit tüükh deer ündeslesen kino taalagddag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Liking things and genre adjectives: кинонд дуртай, кино үзэх дуртай, инээдмийн кино",
+  "title_mn": "Нэр үгийг тэмдэг нэр болгох: a horror movie, a sci-fi series",
+  "explain_en": "There are two ways to say you like something. With a noun, put it in the dative case (-д/-т/-нд) before дуртай: кинонд дуртай means \"I like movies.\" With an action, use the verb's -х form: кино үзэх дуртай means \"I like watching movies.\" The negative is дургүй. Genre words come before кино and work like adjectives. Many are nouns in the genitive case: инээдэм → инээдмийн (comedy), аймшиг → аймшгийн (horror). Others take the suffix -т/-ат, meaning \"having\": тулаан → тулаант (action), баримт → баримтат (documentary), уран зөгнөл → уран зөгнөлт (sci-fi). The genre word never changes form; the case endings go on кино.",
+  "explain_mn": "Англи хэлэнд киноны төрлийг нэр үгээр нь шууд тэмдэг нэр болгон хэрэглэдэг: a horror movie, a comedy series, an action film, a sci-fi show. Эхний үг ганц тоондоо байна. \"actions movies\" биш, \"action movies\" гэж хэлнэ. Мөн \"horrible movie\" гэвэл \"аймшгийн кино\" биш, \"муу, тэвчишгүй кино\" гэсэн утгатай болдгийг анхаараарай. \"Дуртай\" гэдгийг \"I like + нэр үг\" (I like comedies), эсвэл \"I like + -ing / to + үйл үг\" (I like watching movies) хэлбэрээр хэлнэ. Ихэвчлэн documentary, comedy гэдгийг ганцаар нь нэр үг болгож хэрэглэдэг: \"I watched a documentary.\"",
+  "examples": [
+   {
+    "mn": "Би баримтат кинонд дуртай.",
+    "en": "I like documentaries.",
+    "mn_latin": "Bi barimtat kinond durtai."
+   },
+   {
+    "mn": "Миний эгч аймшгийн кино үзэх дургүй.",
+    "en": "My older sister doesn't like watching horror movies.",
+    "mn_latin": "Minii egch aimshgiin kino üzekh durgüi."
+   },
+   {
+    "mn": "Энэ бол шинэ уран зөгнөлт цуврал.",
+    "en": "This is a new sci-fi series.",
+    "mn_latin": "Ene bol shine uran zögnölt tsuvral."
+   },
+   {
+    "mn": "Тулаант кинонуудын ихэнх нь Америкийн кино.",
+    "en": "Most action movies are American.",
+    "mn_latin": "Tulaant kinonuudyn ikhenkh ni Amyerikiin kino."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Та ямар кино___ дуртай вэ?",
+   "answer": "нд",
+   "options": [
+    "нд",
+    "ны",
+    "г",
+    "ноос"
+   ],
+   "translation": "What kind of movies do you like?",
+   "explain_en": "With a noun, дуртай needs the dative case. After кино, the dative ending is -нд: кинонд дуртай.",
+   "explain_mn": "\"Дуртай\" гэдгийн өмнө нэр үг өгөх-оршихын тийн ялгалтай байна: кинонд дуртай. Англиар \"like + noun\" гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Би баримтат кино үз___ дуртай.",
+   "answer": "эх",
+   "options": [
+    "эх",
+    "сэн",
+    "дэг",
+    "ээд"
+   ],
+   "translation": "I like watching documentaries.",
+   "explain_en": "To say you like doing something, use the verb's -х form + дуртай. Vowel harmony gives үзэх.",
+   "explain_mn": "Үйл үгийн -х хэлбэр + дуртай: үзэх дуртай. Англиар \"like watching\" эсвэл \"like to watch\" гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Шөнө ганцаараа ___ кино үзэх дургүй.",
+   "answer": "аймшгийн",
+   "options": [
+    "аймшгийн",
+    "инээдмийн",
+    "баримтат",
+    "хүүхдийн"
+   ],
+   "translation": "I don't like watching horror movies alone at night.",
+   "explain_en": "Being alone at night makes sense with scary films, so аймшгийн (horror) is the logical genre.",
+   "explain_mn": "Шөнө ганцаараа үзэхэд айдаг кино бол аймшгийн кино буюу \"horror movie\"."
+  },
+  {
+   "lang": "en",
+   "text": "My little brother can't watch ___ movies; they give him nightmares.",
+   "answer": "horror",
+   "options": [
+    "horror",
+    "horrible",
+    "horrors",
+    "horrified"
+   ],
+   "translation": "Миний дүү аймшгийн кино үзэж чаддаггүй, муу зүүд зүүдэлдэг.",
+   "explain_en": "English uses the noun \"horror\" as an adjective for the genre. \"Horrible movies\" would mean \"terrible movies.\"",
+   "explain_mn": "Киноны төрлийг \"horror\" гэсэн нэр үгээр илэрхийлнэ. \"Horrible\" гэвэл \"муу, тэвчишгүй\" гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "She loves ___ movies, especially ones with car chases.",
+   "answer": "action",
+   "options": [
+    "action",
+    "actions",
+    "acting",
+    "active"
+   ],
+   "translation": "Тэр тулаант кинонд их дуртай, ялангуяа машинаар хөөцөлдөх үзэгдэлтэй кинонд.",
+   "explain_en": "The genre is \"action movie.\" The noun used as an adjective stays singular.",
+   "explain_mn": "Нэр үгийг тэмдэг нэр болгон хэрэглэхэд ганц тоонд байна: \"action movies\", \"actions movies\" биш."
+  },
+  {
+   "lang": "en",
+   "text": "Last night I watched a great ___ about snow leopards.",
+   "answer": "documentary",
+   "options": [
+    "documentary",
+    "documental",
+    "document",
+    "documented"
+   ],
+   "translation": "Өчигдөр орой цасан ирвэсийн тухай гоё баримтат кино үзлээ.",
+   "explain_en": "\"Documentary\" is a noun that means a documentary film, so you don't need the word \"movie.\"",
+   "explain_mn": "\"Documentary\" гэдэг нь ганцаараа \"баримтат кино\" гэсэн утгатай нэр үг. \"Documental\" гэж англи хэлэнд хэрэглэдэггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Майкл аа, та амралтын өдрүүдээр юу хийсэн бэ?",
+   "en": "Michael, what did you do over the weekend?",
+   "mn_latin": "Maikl aa, ta amraltyn ödrüüdeer yuu khiisen be?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Гэртээ нэг уран зөгнөлт цуврал бүтэн үзсэн. Та ямар кинонд дуртай вэ?",
+   "en": "I watched a whole sci-fi series at home. What kind of movies do you like?",
+   "mn_latin": "Gertee neg uran zögnölt tsuvral büten üzsen. Ta yamar kinond durtai ve?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Би инээдмийн кинонд их дуртай. Ажлын дараа ядарсан үед сэтгэл сэргээдэг.",
+   "en": "I really like comedies. They cheer me up when I'm tired after work.",
+   "mn_latin": "Bi ineedmiin kinond ikh durtai. Ajlyn daraa yadarsan üyed setgel sergeedeg."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Харин аймшгийн кино ямар вэ? Би шинэ гарсан нэгийг үзэх гэж байгаа.",
+   "en": "How about horror movies? I'm about to see one that just came out.",
+   "mn_latin": "Kharin aimshgiin kino yamar ve? Bi shine garsan negiig üzekh gej baigaa."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Үгүй ээ, баярлалаа. Аймшгийн кино үзвэл шөнөжин унтаж чаддаггүй.",
+   "en": "No, thanks. If I watch a horror movie, I can't sleep all night.",
+   "mn_latin": "Ügüi ee, bayarlalaa. Aimshgiin kino üzvel shönöjin untaj chaddaggüi."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тэгвэл баримтат кино ямар вэ? Говийн тухай гоё нэгийг мэднэ.",
+   "en": "Then how about documentaries? I know a great one about the Gobi.",
+   "mn_latin": "Tegvel barimtat kino yamar ve? Goviin tukhai goyo negiig medne."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэр сонирхолтой сонсогдож байна. Нэрийг нь надад явуулаарай!",
+   "en": "That sounds interesting. Send me the title!",
+   "mn_latin": "Ter sonirkholtoi sonsogdoj baina. Neriig ni nadad yavuulaarai!"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "За, одоо шууд явуулъя.",
+   "en": "Sure, I'll send it right now.",
+   "mn_latin": "Za, odoo shuud yavuulya."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian comedies are among the biggest box-office hits in Ulaanbaatar, especially around New Year and Tsagaan Sar, when families go to the movies together. Korean dramas and Hollywood action films are also very popular. Mongolia is famous for documentaries about nomadic life, such as \"The Story of the Weeping Camel\" (2003), which was nominated for an Oscar.",
+  "mn": "Улаанбаатарт монгол инээдмийн кинонууд хамгийн их үзэгчтэй байдаг, ялангуяа шинэ жил, Цагаан сарын үеэр гэр бүлээрээ кино үзэх нь түгээмэл. Солонгос цуврал, Холливудын тулаант кинонд ч олон хүн дуртай. Мөн нүүдэлчдийн амьдралын тухай баримтат кинонууд дэлхийд алдартай. Тухайлбал «Уйлж буй тэмээний түүх» (2003) Оскарын шагналд нэр дэвшиж байжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A solid lesson with natural pairs. The main fixes are a few Mongolian word forms and two translation details."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 0,
+  "notes": "No real errors found: the Mongolian forms, case and verb endings, register, translation pairs, fill-in-the-blank answers and the culture facts (The Story of the Weeping Camel, 2003, Oscar nomination) all check out.",
+  "changes": []
+ }
+}

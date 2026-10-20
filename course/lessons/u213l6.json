@@ -1,0 +1,416 @@
+{
+ "intro_en": "In this lesson you will write and edit a popular-science article about genes and ancestry. You will practice careful academic phrasing and the formal written forms хэмээх and хэмээн.",
+ "intro_mn": "Энэ хичээлээр та ген, удам угсааны тухай олон нийтэд зориулсан шинжлэх ухааны нийтлэл бичиж, засварлаж сурна. Мөн англи хэлний албан бичгийн хэллэгт нэр үгийн араас орох тодотгол (the data available, the communities concerned) хэрэглэх дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "удамшил",
+   "en": "heredity",
+   "pos": "noun",
+   "example_mn": "Хүний өндөр зөвхөн удамшлаас хамаардаггүй.",
+   "example_en": "A person's height does not depend on heredity alone.",
+   "mn_latin": "udamshil"
+  },
+  {
+   "mn": "генетикийн маркер",
+   "en": "genetic marker",
+   "pos": "noun phrase",
+   "example_mn": "Энэ генетикийн маркер Төв Азийн хүн амд түгээмэл.",
+   "example_en": "This genetic marker is common among Central Asian populations.",
+   "mn_latin": "gyenyetikiin markyer"
+  },
+  {
+   "mn": "өвөг дээдэс",
+   "en": "ancestors",
+   "pos": "noun",
+   "example_mn": "Бидний өвөг дээдэс нүүдэлчин малчид байжээ.",
+   "example_en": "Our ancestors were nomadic herders.",
+   "mn_latin": "övög deedes"
+  },
+  {
+   "mn": "угсаа",
+   "en": "ethnic origin, lineage",
+   "pos": "noun",
+   "example_mn": "Тэрээр өөрийн угсааг судлах сонирхолтой.",
+   "example_en": "He is interested in researching his ethnic origins.",
+   "mn_latin": "ugsaa"
+  },
+  {
+   "mn": "дээж",
+   "en": "sample",
+   "pos": "noun",
+   "example_mn": "Судлаачид шүлсний дээж цуглуулжээ.",
+   "example_en": "The researchers collected saliva samples.",
+   "mn_latin": "deej"
+  },
+  {
+   "mn": "нүүдэл",
+   "en": "migration",
+   "pos": "noun",
+   "example_mn": "Эртний нүүдлийн замыг ДНХ-ээр мөрдөж болно.",
+   "example_en": "Ancient migration routes can be traced through DNA.",
+   "mn_latin": "nüüdel"
+  },
+  {
+   "mn": "хэмээх",
+   "en": "called, known as (formal)",
+   "pos": "participle (formal)",
+   "example_mn": "Митохондрийн ДНХ хэмээх хэсэг эхээс дамждаг.",
+   "example_en": "The part known as mitochondrial DNA is passed down from the mother.",
+   "mn_latin": "khemeekh"
+  },
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence",
+   "pos": "noun phrase",
+   "example_mn": "Энэ таамаглалыг батлах нотлох баримт хангалтгүй.",
+   "example_en": "There is not enough evidence to support this hypothesis.",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "дүгнэлт",
+   "en": "conclusion",
+   "pos": "noun",
+   "example_mn": "Нийтлэлийн дүгнэлт хэт яаруу санагдлаа.",
+   "example_en": "The article's conclusion seemed too hasty.",
+   "mn_latin": "dügnelt"
+  },
+  {
+   "mn": "холбогдох",
+   "en": "concerned, relevant",
+   "pos": "adjective (participle)",
+   "example_mn": "Холбогдох олон нийтээс зөвшөөрөл авах шаардлагатай.",
+   "example_en": "Consent must be obtained from the communities concerned.",
+   "mn_latin": "kholbogdokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Одоогийн байгаа мэдээллээс харахад эртний нүүдэл хэд хэдэн давалгаагаар өрнөсөн бололтой.",
+   "en": "The data available suggest that ancient migration took place in several waves.",
+   "alt_mn": [
+    "Байгаа мэдээллээс үзэхэд эртний нүүдэл хэд хэдэн давалгаагаар явагдсан бололтой."
+   ],
+   "alt_en": [
+    "The available data suggest that ancient migration happened in several waves."
+   ],
+   "mn_latin": "Odoogiin baigaa medeellees kharakhad ertnii nüüdel khed kheden davalgaagaar örnösön bololtoi."
+  },
+  {
+   "mn": "Гаплогрупп хэмээх ойлголтыг энгийн үгээр тайлбарлах хэрэгтэй.",
+   "en": "The concept known as a haplogroup needs to be explained in plain language.",
+   "alt_mn": [
+    "Гаплогрупп гэдэг ойлголтыг энгийн үгээр тайлбарлах хэрэгтэй."
+   ],
+   "alt_en": [
+    "The concept called a haplogroup should be explained in simple terms."
+   ],
+   "mn_latin": "Gaplogrupp khemeekh oilgoltyg engiin ügeer tailbarlakh kheregtei."
+  },
+  {
+   "mn": "Олон уншигч ген хүний хувь заяаг шийддэг хэмээн ойлгодог.",
+   "en": "Many readers believe that genes determine a person's destiny.",
+   "alt_mn": [
+    "Олон уншигч ген хүний хувь заяаг шийддэг гэж ойлгодог."
+   ],
+   "alt_en": [
+    "Many readers think that genes decide a person's fate."
+   ],
+   "mn_latin": "Olon unshigch gyen khünii khuvi zayaag shiiddeg khemeen oilgodog."
+  },
+  {
+   "mn": "Холбогдох олон нийтийн санал бодлыг нийтлэлд тусгах ёстой.",
+   "en": "The views of the communities concerned should be reflected in the article.",
+   "alt_mn": [],
+   "alt_en": [
+    "The article should reflect the views of the communities concerned."
+   ],
+   "mn_latin": "Kholbogdokh olon niitiin sanal bodlyg niitleld tusgakh yostoi."
+  },
+  {
+   "mn": "Судалгаанд оролцсон хүмүүсийн нэрийг нууцалсан.",
+   "en": "The names of the people involved in the study were kept confidential.",
+   "alt_mn": [
+    "Судалгаанд хамрагдсан хүмүүсийн нэрийг нууцалсан."
+   ],
+   "alt_en": [
+    "The names of the people involved were kept confidential."
+   ],
+   "mn_latin": "Sudalgaand oroltsson khümüüsiin neriig nuutsalsan."
+  },
+  {
+   "mn": "Зарим эрдэмтэн энэ дүгнэлтийг хэт яаруу хэмээн шүүмжилсэн.",
+   "en": "Some scientists criticized this conclusion as too hasty.",
+   "alt_mn": [
+    "Зарим эрдэмтэн энэ дүгнэлтийг хэт яаруу гэж шүүмжилсэн."
+   ],
+   "alt_en": [
+    "Some scientists criticized the conclusion for being too hasty."
+   ],
+   "mn_latin": "Zarim erdemten ene dügneltiig khet yaaruu khemeen shüümjilsen."
+  },
+  {
+   "mn": "Ашигласан аргуудыг нийтлэлийн төгсгөлд товч тайлбарлав.",
+   "en": "The methods used are briefly described at the end of the article.",
+   "alt_mn": [
+    "Хэрэглэсэн аргуудыг нийтлэлийн төгсгөлд товч тайлбарлалаа."
+   ],
+   "alt_en": [
+    "The methods used were briefly explained at the end of the article."
+   ],
+   "mn_latin": "Ashiglasan arguudyg niitleliin tögsgöld tovch tailbarlav."
+  },
+  {
+   "mn": "\"Чингисийн удам\" хэмээх домгийг генетикийн нотлох баримттай андуурч болохгүй.",
+   "en": "The legend known as \"Chinggis's lineage\" should not be confused with genetic evidence.",
+   "alt_mn": [
+    "\"Чингисийн удам\" гэдэг домгийг генетикийн нотлох баримттай андуурч болохгүй."
+   ],
+   "alt_en": [
+    "The so-called \"Chinggis lineage\" legend must not be mistaken for genetic evidence."
+   ],
+   "mn_latin": "\"Chingisiin udam\" khemeekh domgiig gyenyetikiin notlokh barimttai anduurch bolokhgüi."
+  },
+  {
+   "mn": "Цуглуулсан дээжийн тоо цөөн тул үр дүнг болгоомжтой тайлбарлах хэрэгтэй.",
+   "en": "Since the number of samples collected is small, the results must be interpreted with caution.",
+   "alt_mn": [
+    "Цуглуулсан дээж цөөн учраас үр дүнг болгоомжтой тайлбарлах хэрэгтэй."
+   ],
+   "alt_en": [
+    "Because few samples were collected, the results should be interpreted cautiously."
+   ],
+   "mn_latin": "Tsugluulsan deejiin too tsöön tul ür düng bolgoomjtoi tailbarlakh kheregtei."
+  },
+  {
+   "mn": "Хүнийг зөвхөн генээр нь тодорхойлж болохгүй хэмээн зохиогч онцолжээ.",
+   "en": "The author emphasized that a person cannot be defined by their genes alone.",
+   "alt_mn": [
+    "Хүнийг зөвхөн генээр нь тодорхойлж болохгүй гэж зохиогч онцолжээ."
+   ],
+   "alt_en": [
+    "The author stressed that people cannot be defined by their genes alone."
+   ],
+   "mn_latin": "Khüniig zövkhön gyeneer ni todorkhoilj bolokhgüi khemeen zokhiogch ontsoljee."
+  },
+  {
+   "mn": "Энэ генетикийн маркер нь өвөг дээдсийн нүүдлийн чиглэлийг илтгэдэг.",
+   "en": "This genetic marker indicates the direction in which our ancestors migrated.",
+   "alt_mn": [
+    "Энэ генетикийн маркер өвөг дээдсийн нүүдлийн чиглэлийг харуулдаг."
+   ],
+   "alt_en": [
+    "This genetic marker shows the direction of our ancestors' migration."
+   ],
+   "mn_latin": "Ene gyenyetikiin markyer ni övög deedsiin nüüdliin chigleliig iltgedeg."
+  },
+  {
+   "mn": "Редактор \"цэвэр угсаа\" хэмээх ойлголтоос зайлсхийхийг зөвлөв.",
+   "en": "The editor advised avoiding the notion of \"pure ancestry.\"",
+   "alt_mn": [
+    "Редактор \"цэвэр угсаа\" гэдэг ойлголтоос зайлсхийхийг зөвлөсөн."
+   ],
+   "alt_en": [
+    "The editor recommended avoiding the idea of \"pure ancestry.\""
+   ],
+   "mn_latin": "Ryedaktor \"tsever ugsaa\" khemeekh oilgoltoos zailskhiikhiig zövlöv."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal хэмээх and хэмээн; postpositive adjectives in English",
+  "title_mn": "Албан хэллэгийн хэмээх, хэмээн; англи хэлний нэрийн араас орох тодотгол",
+  "explain_en": "In written, academic Mongolian, хэмээх and хэмээн are the formal counterparts of гэдэг/гэх and гэж. Use хэмээх before a noun to name or label it: \"X хэмээх Y\" means \"the Y called / known as X\" (гаплогрупп хэмээх ойлголт). Use хэмээн before verbs of saying, thinking, or judging to give their content: \"X хэмээн үзэх / шүүмжлэх / онцлох\" means \"to consider / criticize / stress (that) X\". Both sound bookish. In everyday speech, use гэдэг and гэж instead.",
+  "explain_mn": "Англи хэлний албан бичгийн хэллэгт зарим тодотгол нэр үгийн өмнө биш, араас нь ордог: the data available (байгаа мэдээлэл), the communities concerned (холбогдох олон нийт), the people involved (оролцсон хүмүүс). Мөн the methods used, the samples collected гэх мэт товчилсон хэллэг (= the samples that were collected) өргөн хэрэглэгддэг. Анхаарах зүйл: concerned, involved хоёр нэрийн араас орвол \"холбогдох, оролцсон\" гэсэн утгатай. Харин нэрийн өмнө орвол утга нь өөрчлөгдөнө: concerned parents = санаа зовсон эцэг эхчүүд, an involved process = ээдрээтэй, нарийн төвөгтэй үйл явц. Хоёр, гурван ийм хэллэгийг нэг өгүүлбэрт хослуулж болно: the samples collected and the data available.",
+  "examples": [
+   {
+    "mn": "Y хромосом хэмээх хэсэг эцгээс хүүд дамждаг.",
+    "en": "The part known as the Y chromosome is passed from father to son.",
+    "mn_latin": "Y khromosom khemeekh kheseg etsgees khüüd damjdag."
+   },
+   {
+    "mn": "Судлаачид энэ таамаглалыг үндэслэлгүй хэмээн үзэж байна.",
+    "en": "The researchers consider this hypothesis unfounded.",
+    "mn_latin": "Sudlaachid ene taamaglalyg ündeslelgüi khemeen üzej baina."
+   },
+   {
+    "mn": "Цуглуулсан дээж болон байгаа мэдээлэл хангалтгүй байна.",
+    "en": "The samples collected and the data available are insufficient.",
+    "mn_latin": "Tsugluulsan deej bolon baigaa medeelel khangaltgüi baina."
+   },
+   {
+    "mn": "Холбогдох олон нийтээс зөвшөөрөл авсан эсэхийг шалгаарай.",
+    "en": "Check whether consent was obtained from the communities concerned.",
+    "mn_latin": "Kholbogdokh olon niitees zövshööröl avsan esekhiig shalgaarai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гаплогрупп ___ ойлголтыг эхлээд тайлбарлая.",
+   "answer": "хэмээх",
+   "options": [
+    "хэмээх",
+    "хэмээн",
+    "хэмээвэл",
+    "хэмээгээд"
+   ],
+   "translation": "Let's first explain the concept known as a haplogroup.",
+   "explain_en": "A noun (ойлголт) follows, so you need the attributive form хэмээх, meaning \"called / known as.\" Хэмээн goes before a verb, not a noun.",
+   "explain_mn": "Араас нь нэр үг (ойлголт) орж байгаа тул тодотгох хэлбэр \"хэмээх\" хэрэглэнэ. \"Хэмээн\" нь үйл үгийн өмнө ордог."
+  },
+  {
+   "lang": "mn",
+   "text": "Эрдэмтэд энэ таамаглалыг үндэслэлгүй ___ үзэж байна.",
+   "answer": "хэмээн",
+   "options": [
+    "хэмээн",
+    "хэмээх",
+    "хэмээгч",
+    "хэмээсэн"
+   ],
+   "translation": "Scientists consider this hypothesis unfounded.",
+   "explain_en": "The verb үзэх (to consider) follows, so you need the converb хэмээн, the formal version of гэж.",
+   "explain_mn": "Араас нь \"үзэх\" үйл үг орж байгаа тул \"гэж\"-ийн албан хэлбэр болох \"хэмээн\" байх ёстой."
+  },
+  {
+   "lang": "mn",
+   "text": "Цуглуулсан дээж___ тоо цөөн байв.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "ийг",
+    "ээс",
+    "тэй"
+   ],
+   "translation": "The number of samples collected was small.",
+   "explain_en": "\"The number OF the samples\" requires the genitive case. After a word ending in ж, the genitive ending is -ийн: дээжийн.",
+   "explain_mn": "\"Дээжийн тоо\" гэж харьяалахын тийн ялгал шаардлагатай. Ж үсгээр төгссөн үгэнд \"-ийн\" нөхцөл залгана."
+  },
+  {
+   "lang": "en",
+   "text": "Consent must be obtained from the communities ___.",
+   "answer": "concerned",
+   "options": [
+    "concerned",
+    "concerning",
+    "concern",
+    "concerns"
+   ],
+   "translation": "Холбогдох олон нийтээс зөвшөөрөл авах ёстой.",
+   "explain_en": "After the noun, \"concerned\" means \"affected or relevant.\" This is a fixed postpositive adjective in formal writing.",
+   "explain_mn": "Нэр үгийн араас орсон \"concerned\" нь \"холбогдох\" гэсэн утгатай. Энэ нь албан бичгийн тогтсон хэллэг юм."
+  },
+  {
+   "lang": "en",
+   "text": "The data ___ do not support this claim.",
+   "answer": "available",
+   "options": [
+    "available",
+    "availability",
+    "avail",
+    "availably"
+   ],
+   "translation": "Байгаа мэдээлэл энэ мэдэгдлийг дэмжихгүй байна.",
+   "explain_en": "\"The data available\" is short for \"the data that are available.\" You need an adjective placed after the noun.",
+   "explain_mn": "\"The data available\" нь \"the data that are available\"-ийн товчилсон хэлбэр. Нэр үгийн араас тэмдэг нэр орно."
+  },
+  {
+   "lang": "en",
+   "text": "The names of the people ___ were not published.",
+   "answer": "involved",
+   "options": [
+    "involved",
+    "involving",
+    "involve",
+    "involvement"
+   ],
+   "translation": "Оролцсон хүмүүсийн нэрийг нийтлээгүй.",
+   "explain_en": "\"The people involved\" is a reduced phrase meaning \"the people who were involved.\" It uses the past participle.",
+   "explain_mn": "\"The people involved\" нь \"оролцсон хүмүүс\" гэсэн утгатай товчилсон хэллэг. Өнгөрсөн цагийн үйлт нэр (past participle) хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэмүүлэн, нийтлэлийн чинь эхний хувилбарыг уншлаа. Гарчиг нь сонирхолтой ч зарим хэллэг хэт хүчтэй байна.",
+   "en": "Temuulen, I read the first draft of your article. The title is interesting, but some phrases are too strong.",
+   "mn_latin": "Temüülen, niitleliin chini ekhnii khuvilbaryg unshlaa. Garchig ni sonirkholtoi ch zarim khelleg khet khüchtei baina."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Аль хэсгийг хэлж байна вэ?",
+   "en": "Which part do you mean?",
+   "mn_latin": "Ali khesgiig khelj baina ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "\"Монголчууд бүгд нэг өвөг дээдэстэй\" хэмээн бичсэн байна. Үүнийг батлах нотлох баримт хангалттай юу?",
+   "en": "You wrote that \"all Mongolians share the same ancestors.\" Is there enough evidence to support that?",
+   "mn_latin": "\"Mongolchuud bügd neg övög deedestei\" khemeen bichsen baina. Üüniig batlakh notlokh barimt khangalttai yuu?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Үнэндээ байхгүй. Одоогийн байгаа мэдээллээс харахад олон удаагийн нүүдэл, холилдол байсан бололтой.",
+   "en": "Honestly, no. The data available suggest there were many migrations and a lot of mixing.",
+   "mn_latin": "Ünendee baikhgüi. Odoogiin baigaa medeellees kharakhad olon udaagiin nüüdel, kholildol baisan bololtoi."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгвэл тэрийгээ тодорхой бич. Мөн \"гаплогрупп\" хэмээх нэр томьёог энгийн үгээр тайлбарлаарай.",
+   "en": "Then say that clearly. And explain the term \"haplogroup\" in plain words.",
+   "mn_latin": "Tegvel teriigee todorkhoi bich. Mön \"gaplogrupp\" khemeekh ner tomiyoog engiin ügeer tailbarlaarai."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "За. Судалгаанд хамрагдсан аймгуудын иргэдийн санал бодлыг ч оруулъя гэж бодож байна.",
+   "en": "OK. I'm also thinking of including the views of people from the provinces involved in the study.",
+   "mn_latin": "Za. Sudalgaand khamragdsan aimguudyn irgediin sanal bodlyg ch oruulya gej bodoj baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Маш зөв. Холбогдох олон нийтийн дуу хоолой шинжлэх ухааны нийтлэлд ховор сонсогддог.",
+   "en": "Exactly. The voices of the communities concerned are rarely heard in science articles.",
+   "mn_latin": "Mash zöv. Kholbogdokh olon niitiin duu khooloi shinjlekh ukhaany niitleld khovor sonsogddog."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Маргааш гэхэд засварласан хувилбарыг илгээе.",
+   "en": "I'll send you the revised version by tomorrow.",
+   "mn_latin": "Margaash gekhed zasvarlasan khuvilbaryg ilgeeye."
+  }
+ ],
+ "culture_note": {
+  "en": "Traditionally, Mongolians were expected to know their paternal ancestors back seven generations (\"долоон үеэ мэдэх\"). Clan names fell out of use during the socialist period. From the late 1990s, citizens were asked to register a clan name (ургийн овог), and many chose famous ones such as Borjigin. Science writers therefore need to explain carefully that a registered clan name is not the same as a genetic lineage.",
+  "mn": "Монголчууд эцгийн талын долоон үеэ мэдэх ёстой гэсэн уламжлалтай. Социализмын үед ургийн овог бараг мартагдсан бөгөөд 1990-ээд оны сүүлээс иргэд ургийн овгоо бүртгүүлэх болоход олонх нь Боржигин зэрэг алдартай овгийг сонгосон. Тиймээс шинжлэх ухааны нийтлэл бичигчид бүртгэлийн овог ба генетикийн удам хоёр ижил зүйл биш гэдгийг нягт тайлбарлах хэрэгтэй."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Strong, natural lesson. The fixes correct a few grammatical terms, one wrong claim about 'involved', and one translation word."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Mostly clean. Fixed the ancestor-number mismatch in the dialogue and aligned the date in the en and mn culture notes.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "өвөг дээдэс means ancestors (plural), not one ancestor"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "'After the 1990s' is inaccurate; registration began in the late 1990s"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Align the date with the en version (late 1990s)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,430 @@
+{
+ "intro_en": "In this lesson you follow a herder's formal complaint about a pasture boundary through a hearing at the soum office. You will learn key administrative and legal terms, see how the formal negators эс and үл differ from everyday -гүй and -хгүй, and practice linking events in English with 'as a result of which', 'owing to which', and 'whereupon'.",
+ "intro_mn": "Энэ хичээлээр малчин хүн бэлчээрийн хил хязгаарын талаар албан ёсны гомдол гаргаж, сумын төвд сонсгол хийх явцыг үзнэ. Захиргаа, хууль эрх зүйн гол нэр томьёо сурч, бичгийн хэлний эс, үл болон ярианы -гүй, -хгүй хэлбэрийн ялгааг ойлгоно. Мөн англи хэлэнд 'as a result of which', 'owing to which', 'whereupon' хэллэгээр үйл явдлыг холбож сурна.",
+ "vocab": [
+  {
+   "mn": "гомдол",
+   "en": "complaint",
+   "pos": "noun",
+   "example_mn": "Тэр сумын Засаг даргад бичгээр гомдол гаргасан.",
+   "example_en": "He filed a written complaint with the soum governor.",
+   "mn_latin": "gomdol"
+  },
+  {
+   "mn": "шийдвэр",
+   "en": "decision",
+   "pos": "noun",
+   "example_mn": "Засаг дарга маргааш шийдвэрээ танилцуулна.",
+   "example_en": "The governor will announce her decision tomorrow.",
+   "mn_latin": "shiidver"
+  },
+  {
+   "mn": "хил хязгаар",
+   "en": "boundary, border",
+   "pos": "noun",
+   "example_mn": "Хоёр багийн хил хязгаар тодорхойгүй байна.",
+   "example_en": "The boundary between the two bags is unclear.",
+   "mn_latin": "khil khyazgaar"
+  },
+  {
+   "mn": "гэрээ",
+   "en": "agreement, contract",
+   "pos": "noun",
+   "example_mn": "Бид бэлчээр ашиглах гэрээ байгуулсан.",
+   "example_en": "We signed a pasture use agreement.",
+   "mn_latin": "geree"
+  },
+  {
+   "mn": "баг",
+   "en": "bag (smallest administrative unit within a soum)",
+   "pos": "noun",
+   "example_mn": "Манай баг хоёр зуун өрхтэй.",
+   "example_en": "Our bag has two hundred households.",
+   "mn_latin": "bag"
+  },
+  {
+   "mn": "Засаг дарга",
+   "en": "governor (head of a soum, bag, or aimag administration)",
+   "pos": "noun",
+   "example_mn": "Сумын Засаг дарга малчидтай уулзлаа.",
+   "example_en": "The soum governor met with the herders.",
+   "mn_latin": "Zasag darga"
+  },
+  {
+   "mn": "сонсгол",
+   "en": "hearing",
+   "pos": "noun",
+   "example_mn": "Сонсгол лхагва гарагт болно.",
+   "example_en": "The hearing will take place on Wednesday.",
+   "mn_latin": "sonsgol"
+  },
+  {
+   "mn": "маргаан",
+   "en": "dispute",
+   "pos": "noun",
+   "example_mn": "Газрын маргаан олон жил үргэлжилсэн.",
+   "example_en": "The land dispute went on for many years.",
+   "mn_latin": "margaan"
+  },
+  {
+   "mn": "хүчингүй болгох",
+   "en": "to annul, to invalidate",
+   "pos": "verb",
+   "example_mn": "Засаг дарга хуучин гэрээг хүчингүй болгов.",
+   "example_en": "The governor annulled the old agreement.",
+   "mn_latin": "khüchingüi bolgokh"
+  },
+  {
+   "mn": "үл ойлголцол",
+   "en": "misunderstanding",
+   "pos": "noun",
+   "example_mn": "Энэ бол зүгээр л нэг үл ойлголцол байсан.",
+   "example_en": "It was just a misunderstanding.",
+   "mn_latin": "ül oilgoltsol"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Малчин Батбаяр сумын Засаг даргад бичгээр гомдол гаргажээ.",
+   "en": "The herder Batbayar filed a written complaint with the soum governor.",
+   "alt_mn": [
+    "Малчин Батбаяр сумын Засаг даргад бичгээр гомдол гаргасан."
+   ],
+   "alt_en": [
+    "Batbayar, a herder, submitted a written complaint to the soum governor."
+   ],
+   "mn_latin": "Malchin Batbayar sumyn Zasag dargad bichgeer gomdol gargajee."
+  },
+  {
+   "mn": "Баг хоорондын хил хязгаарыг гэрээнд тодорхой заагаагүй байсан бөгөөд үүний улмаас маргаан үүссэн.",
+   "en": "The boundary between the bags had not been clearly specified in the agreement, as a result of which a dispute arose.",
+   "alt_mn": [
+    "Баг хоорондын хил хязгаарыг гэрээнд тодорхой заагаагүй байсан тул маргаан үүссэн."
+   ],
+   "alt_en": [
+    "The agreement did not clearly define the boundary between the bags, as a result of which a dispute arose."
+   ],
+   "mn_latin": "Bag khoorondyn khil khyazgaaryg gereend todorkhoi zaagaagüi baisan bögööd üünii ulmaas margaan üüssen."
+  },
+  {
+   "mn": "Хариуцагч тал товлосон сонсголд эс ирэв.",
+   "en": "The respondent did not appear at the scheduled hearing.",
+   "alt_mn": [
+    "Хариуцагч тал товлосон сонсголд ирээгүй."
+   ],
+   "alt_en": [
+    "The respondent failed to appear at the scheduled hearing."
+   ],
+   "mn_latin": "Khariutsagch tal tovloson sonsgold es irev."
+  },
+  {
+   "mn": "Иргэн Дорж шийдвэрийг эс зөвшөөрч, шүүхэд хандахаа мэдэгдэв.",
+   "en": "Not accepting the decision, Dorj announced that he would take the matter to court.",
+   "alt_mn": [
+    "Иргэн Дорж шийдвэрийг зөвшөөрөөгүй бөгөөд шүүхэд хандана гэж мэдэгдсэн."
+   ],
+   "alt_en": [
+    "Dorj rejected the decision and announced that he would go to court."
+   ],
+   "mn_latin": "Irgen Dorj shiidveriig es zövshöörch, shüükhed khandakhaa medegdev."
+  },
+  {
+   "mn": "Гэрээний нөхцөлийг биелүүлээгүй тул Засаг дарга гэрээг хүчингүй болгов.",
+   "en": "Because the terms of the agreement had not been met, the governor annulled it.",
+   "alt_mn": [
+    "Гэрээний нөхцөл биелээгүй учир Засаг дарга гэрээг хүчингүй болгосон."
+   ],
+   "alt_en": [
+    "Since the terms of the agreement were not fulfilled, the governor annulled the agreement."
+   ],
+   "mn_latin": "Gereenii nökhtsöliig biyelüüleegüi tul Zasag darga gereeg khüchingüi bolgov."
+  },
+  {
+   "mn": "Гадны малчид өвөлжөөний ойролцоо буусан бөгөөд үүнээс болж бэлчээр талхлагдсан.",
+   "en": "Herders from outside set up camp near the winter camp, owing to which the pasture was overgrazed.",
+   "alt_mn": [
+    "Гадны малчид өвөлжөөний ойролцоо буусны улмаас бэлчээр талхлагдсан."
+   ],
+   "alt_en": [
+    "Outside herders camped near the winter camp, as a result of which the pasture was overgrazed."
+   ],
+   "mn_latin": "Gadny malchid övöljöönii oiroltsoo buusan bögööd üünees bolj belcheer talkhlagdsan."
+  },
+  {
+   "mn": "Засаг дарга хоёр талын тайлбарыг сонсож дуусаад шийдвэрээ танилцуулав.",
+   "en": "The governor heard out both sides, whereupon she announced her decision.",
+   "alt_mn": [
+    "Засаг дарга хоёр талын тайлбарыг сонссоны дараа шийдвэрээ танилцуулсан."
+   ],
+   "alt_en": [
+    "The governor listened to both sides' explanations, whereupon she announced her decision."
+   ],
+   "mn_latin": "Zasag darga khoyor talyn tailbaryg sonsoj duusaad shiidveree taniltsuulav."
+  },
+  {
+   "mn": "Энэ заалт хаваржааны бэлчээрт үл хамаарна.",
+   "en": "This provision does not apply to spring pastures.",
+   "alt_mn": [
+    "Энэ заалт хаваржааны бэлчээрт хамаарахгүй."
+   ],
+   "alt_en": [
+    "This clause does not apply to spring pastures."
+   ],
+   "mn_latin": "Ene zaalt khavarjaany belcheert ül khamaarna."
+  },
+  {
+   "mn": "Хуулийг эс мэдсэн нь хариуцлагаас чөлөөлөх үндэслэл болохгүй.",
+   "en": "Not knowing the law is no grounds for escaping responsibility.",
+   "alt_mn": [
+    "Хуулийг мэдээгүй нь хариуцлагаас чөлөөлөх үндэслэл болохгүй."
+   ],
+   "alt_en": [
+    "Ignorance of the law is no excuse."
+   ],
+   "mn_latin": "Khuuliig es medsen ni khariutslagaas chölöölökh ündeslel bolokhgüi."
+  },
+  {
+   "mn": "Багийн Засаг дарга энэ асуудлыг шийдвэрлэх эрхгүй.",
+   "en": "The bag governor has no authority to resolve this matter.",
+   "alt_mn": [
+    "Багийн Засаг даргад энэ асуудлыг шийдвэрлэх эрх байхгүй."
+   ],
+   "alt_en": [
+    "The bag governor is not authorized to decide this issue."
+   ],
+   "mn_latin": "Bagiin Zasag darga ene asuudlyg shiidverlekh erkhgüi."
+  },
+  {
+   "mn": "Уучлаарай, гэхдээ би энэ шийдвэртэй санал нийлэхгүй байна.",
+   "en": "I'm sorry, but I don't agree with this decision.",
+   "alt_mn": [
+    "Уучлаарай, гэхдээ би энэ шийдвэрийг зөвшөөрөхгүй байна."
+   ],
+   "alt_en": [
+    "Excuse me, but I disagree with this decision."
+   ],
+   "mn_latin": "Uuchlaarai, gekhdee bi ene shiidvertei sanal niilekhgüi baina."
+  },
+  {
+   "mn": "Хоёр багийн хооронд үл ойлголцол гарч, улмаар маргаан болжээ.",
+   "en": "A misunderstanding arose between the two bags, which then turned into a dispute.",
+   "alt_mn": [
+    "Хоёр багийн хооронд үл ойлголцол гарсан бөгөөд энэ нь маргаан болж хувирсан."
+   ],
+   "alt_en": [
+    "A misunderstanding between the two bags eventually grew into a dispute."
+   ],
+   "mn_latin": "Khoyor bagiin khoorond ül oilgoltsol garch, ulmaar margaan boljee."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal эс and үл vs. everyday -гүй and -хгүй",
+  "title_mn": "Бичгийн хэлний эс, үл ба ярианы -гүй, -хгүй",
+  "explain_en": "Mongolian has two sets of negation. In speech you put a suffix on the verb: -гүй for the past or completed actions (ирээгүй 'did not come') and -хгүй for the present or future (хамаарахгүй 'does not apply'). In official documents, decisions, and laws you will often see a separate particle placed BEFORE the verb instead. Эс goes with past forms, converbs, and conditionals: эс ирэв 'did not appear', эс зөвшөөрч 'not accepting', эс зөвшөөрвөл 'if (one) does not agree'. Үл goes with present or future forms and appears in many fixed compounds: үл хамаарна 'does not apply', үл хөдлөх хөрөнгө 'real estate', үл ойлголцол 'misunderstanding'. Both mean the same as the suffixes, but they sound formal and bureaucratic. Use them when writing a complaint, and use -гүй / -хгүй when talking to the governor face to face.",
+  "explain_mn": "Монгол хэлэнд үгүйсгэлийн хоёр хэлбэр бий. Ярианд үйл үгэнд дагавар залгана: өнгөрсөн буюу гүйцэд үйлд -гүй (ирээгүй), одоо болон ирээдүй цагт -хгүй (хамаарахгүй). Харин албан бичиг, шийдвэр, хууль тогтоомжид үйл үгийн ӨМНӨ тусдаа сул үг ихэвчлэн хэрэглэдэг. Эс нь өнгөрсөн цагийн хэлбэр, нөхцөл үйл үг, болзолт хэлбэртэй хамт хэрэглэгдэнэ: эс ирэв, эс зөвшөөрч, эс зөвшөөрвөл. Үл нь одоо, ирээдүй цагийн хэлбэртэй хамт хэрэглэгдэхээс гадна олон тогтсон нийлмэл үгэнд ордог: үл хамаарна, үл хөдлөх хөрөнгө, үл ойлголцол. Утгаараа дагавартай хэлбэрээс ялгаагүй ч албан, бичиг хэргийн өнгө аястай сонсогдоно. Гомдол бичихдээ эс, үл-ийг, харин Засаг даргатай нүүр тулан ярихдаа -гүй, -хгүй хэлбэрийг хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Хариуцагч тал сонсголд эс ирэв. (бичгийн) / Нөгөө тал сонсголд ирээгүй. (ярианы)",
+    "en": "The respondent did not appear at the hearing. / The other side didn't show up.",
+    "mn_latin": "Khariutsagch tal sonsgold es irev. (bichgiin) / Nögöö tal sonsgold ireegüi. (yariany)"
+   },
+   {
+    "mn": "Энэ заалт өвөлжөөнд үл хамаарна. (бичгийн) / Энэ заалт өвөлжөөнд хамаарахгүй. (ярианы)",
+    "en": "This provision does not apply to winter camps.",
+    "mn_latin": "Ene zaalt övöljöönd ül khamaarna. (bichgiin) / Ene zaalt övöljöönd khamaarakhgüi. (yariany)"
+   },
+   {
+    "mn": "Гэрээг сунгаагүй, үүний улмаас малчид бэлчээрээ алдсан.",
+    "en": "The agreement was not renewed, as a result of which the herders lost their pasture.",
+    "mn_latin": "Gereeg sungaagüi, üünii ulmaas malchid belcheeree aldsan."
+   },
+   {
+    "mn": "Засаг дарга баримтуудыг шалгаж үзээд хоёр талыг дуудав.",
+    "en": "The governor examined the documents, whereupon she summoned both parties.",
+    "mn_latin": "Zasag darga barimtuudyg shalgaj üzeed khoyor talyg duudav."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хариуцагч тал товлосон сонсголд ___ ирэв.",
+   "answer": "эс",
+   "options": [
+    "эс",
+    "үл",
+    "бүү",
+    "битгий"
+   ],
+   "translation": "The respondent did not appear at the scheduled hearing.",
+   "explain_en": "The verb is in the past (ирэв), so the formal negator is эс. Үл is used with present or future forms, and бүү / битгий are for prohibitions ('don't!').",
+   "explain_mn": "Үйл үг өнгөрсөн цагт (ирэв) байгаа тул бичгийн хэлний эс сөрөг хэлбэрийг хэрэглэнэ. Үл нь одоо, ирээдүй цагтай, бүү, битгий нь хориглохыг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ заалт хаваржааны бэлчээрт ___ хамаарна.",
+   "answer": "үл",
+   "options": [
+    "үл",
+    "эс",
+    "биш",
+    "бус"
+   ],
+   "translation": "This provision does not apply to spring pastures.",
+   "explain_en": "Хамаарна is a present/future form, so the formal negator is үл. 'Үл хамаарна' is a set phrase in laws and regulations. Биш and бус negate nouns and adjectives, not verbs like this.",
+   "explain_mn": "Хамаарна нь одоо, ирээдүй цагийн хэлбэр тул үл хэрэглэнэ. 'Үл хамаарна' бол хууль, журамд түгээмэл хэллэг. Биш, бус нь ийм үйл үгийг үгүйсгэдэггүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Маргааш сонсголд би энэ шийдвэрийг зөвшөөр___.",
+   "answer": "өхгүй",
+   "options": [
+    "өхгүй",
+    "өөгүй",
+    "сэнгүй",
+    "вөл"
+   ],
+   "translation": "At the hearing tomorrow, I will not accept this decision.",
+   "explain_en": "'Tomorrow' points to the future, so the spoken negative -хгүй is needed (with ө for vowel harmony: зөвшөөрөхгүй). -өөгүй would mean 'did not accept', which is past.",
+   "explain_mn": "'Маргааш' гэдэг нь ирээдүйг заах тул ярианы -хгүй хэлбэр (эгшиг зохицлоор зөвшөөрөхгүй) зөв. -өөгүй нь өнгөрсөн цагийг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The agreement expired, owing to ___ the herders lost their grazing rights.",
+   "answer": "which",
+   "options": [
+    "which",
+    "that",
+    "what",
+    "whom"
+   ],
+   "translation": "Гэрээний хугацаа дуусаж, үүнээс болж малчид бэлчээр ашиглах эрхээ алдсан.",
+   "explain_en": "After a preposition such as 'owing to', referring back to a whole clause, English uses 'which'. 'That' can never follow a preposition, and 'whom' refers to people.",
+   "explain_mn": "'Owing to' гэх мэт угтвар үгийн дараа өмнөх өгүүлбэрийг бүхэлд нь заахдаа 'which' хэрэглэнэ. 'That' угтвар үгийн дараа хэзээ ч ордоггүй, 'whom' нь хүнийг заана."
+  },
+  {
+   "lang": "en",
+   "text": "The governor read the report, ___ she called both families to the office.",
+   "answer": "whereupon",
+   "options": [
+    "whereupon",
+    "whereas",
+    "wherever",
+    "whereby"
+   ],
+   "translation": "Засаг дарга тайланг уншаад хоёр гэр бүлийг сумын төвд дуудав.",
+   "explain_en": "'Whereupon' means 'immediately after which' and shows a sequence of events. 'Whereas' contrasts, 'whereby' means 'by means of which', and 'wherever' is about place.",
+   "explain_mn": "'Whereupon' нь 'үүний дараа шууд' гэсэн утгатай, үйл явдлын дарааллыг заана. 'Whereas' нь эсрэгцүүлэх, 'whereby' нь 'үүгээр', 'wherever' нь газар заана."
+  },
+  {
+   "lang": "en",
+   "text": "The fence was moved two kilometers, as a ___ of which the family lost access to the well.",
+   "answer": "result",
+   "options": [
+    "result",
+    "reason",
+    "because",
+    "due"
+   ],
+   "translation": "Хашааг хоёр километр зөөсөн бөгөөд үүний улмаас тэр айл худагтаа хүрэх боломжгүй болсон.",
+   "explain_en": "The fixed phrase is 'as a result of which'. 'Reason' would reverse the logic, and 'because' and 'due' don't fit into this structure.",
+   "explain_mn": "Тогтвортой хэллэг нь 'as a result of which' (үүний улмаас). 'Reason' нь шалтгааныг заах тул утга эсрэг болно, 'because', 'due' энэ бүтцэд таарахгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Оюунаа",
+   "mn": "Сонсголыг эхэлье. Иргэн Батбаяр, та гомдлоо товч тайлбарлана уу.",
+   "en": "Let's begin the hearing. Mr. Batbayar, please briefly explain your complaint.",
+   "mn_latin": "Sonsgolyg ekheliye. Irgen Batbayar, ta gomdloo tovch tailbarlana uu."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Миний өвөлжөөний бэлчээрт Дорж гуай өнгөрсөн намар малаа оруулсан. Үүний улмаас өвөл бэлчээр хүрэлцээгүй.",
+   "en": "Last fall Mr. Dorj brought his livestock onto my winter pasture, as a result of which there wasn't enough grazing in winter.",
+   "mn_latin": "Minii övöljöönii belcheert Dorj guai öngörsön namar malaa oruulsan. Üünii ulmaas övöl belcheer khüreltseegüi."
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Би хэнийх ч бэлчээрт ороогүй. Гэрээнд хоёр багийн хил хязгаарыг тодорхой заагаагүй байгаа.",
+   "en": "I didn't go onto anyone's pasture. The agreement doesn't clearly define the boundary between the two bags.",
+   "mn_latin": "Bi kheniikh ch belcheert oroogüi. Gereend khoyor bagiin khil khyazgaaryg todorkhoi zaagaagüi baigaa."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Гэрээг би уншсан. Үнэхээр хил хязгаарын заалт тодорхойгүй байна. Багийн Засаг дарга энэ асуудлыг шийдвэрлэх эрхгүй тул сум шийднэ.",
+   "en": "I have read the agreement. The boundary clause is indeed unclear. Since the bag governor has no authority to settle this, the soum will decide.",
+   "mn_latin": "Gereeg bi unshsan. Ünekheer khil khyazgaaryn zaalt todorkhoigüi baina. Bagiin Zasag darga ene asuudlyg shiidverlekh erkhgüi tul sum shiidne."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Гэхдээ би өмнө нь бичгээр хандсан. Тэр үед хариу ирээгүй.",
+   "en": "But I already wrote in earlier. I didn't get a response at that time.",
+   "mn_latin": "Gekhdee bi ömnö ni bichgeer khandsan. Ter üyed khariu ireegüi."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Тийм ээ, өмнөх албан бичигт \"гомдлыг хугацаа хэтэрсэн тул эс хүлээн авав\" гэж бичсэн байна. Энэ удаа хугацаандаа ирүүлсэн.",
+   "en": "Yes, the earlier letter says, \"The complaint was not accepted because the deadline had passed.\" This time it was submitted on time.",
+   "mn_latin": "Tiim ee, ömnökh alban bichigt \"gomdlyg khugatsaa khetersen tul es khüleen avav\" gej bichsen baina. Ene udaa khugatsaandaa irüülsen."
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Шийдвэр гартал би малаа хаана бэлчээх вэ?",
+   "en": "Where am I supposed to graze my animals until a decision is made?",
+   "mn_latin": "Shiidver gartal bi malaa khaana belcheekh ve?"
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Газрын даамал ирэх долоо хоногт хилийг хэмжинэ. Үүний дараа би шийдвэрээ бичгээр танилцуулна.",
+   "en": "The land officer will measure the boundary next week, after which I will issue my decision in writing.",
+   "mn_latin": "Gazryn daamal irekh doloo khonogt khiliig khemjine. Üünii daraa bi shiidveree bichgeer taniltsuulna."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, each soum is divided into several bags, and under the Land Law, disputes between citizens over land use are first handled by the soum or district governor; only if a party disagrees does the case go to court. Many herding communities now sign pasture use agreements with the soum administration, but vague boundaries between seasonal camps remain a common source of conflict. Official letters from the soum office are full of formal forms like эс and үл, which herders rarely use in everyday speech.",
+  "mn": "Монголд сум бүр хэд хэдэн багт хуваагддаг бөгөөд Газрын тухай хуулиар иргэдийн хоорондын газар ашиглалтын маргааныг эхлээд сум, дүүргийн Засаг дарга шийдвэрлэдэг. Аль нэг тал санал нийлэхгүй бол шүүхэд ханддаг. Олон малчдын бүлэг одоо сумын захиргаатай бэлчээр ашиглах гэрээ байгуулдаг ч улирлын бууц хоорондын тодорхойгүй хил хязгаар маргааны түгээмэл шалтгаан хэвээр байна. Сумын албан бичигт эс, үл зэрэг бичгийн хэлбэр элбэг байдаг ч малчид өдөр тутмын ярианд тэр бүр хэрэглэдэггүй."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 1,
+  "notes": "A strong, accurate B2 lesson with correct Mongolian and natural English, apart from one misuse of 'whereupon' with a future plan and one comma-spliced example."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 5,
+  "notes": "Main problem: the grammar mn title and explanation covered English linking words instead of эс/үл; also fixed an unrealistic bag size and one spelling.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "mn title covered a different topic from title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation must say the same as explain_en"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "a bag has hundreds of households, not fifteen"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_en",
+    "why": "keeps the pair matching the corrected example"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "standard spelling дуусаж"
+   }
+  ]
+ }
+}

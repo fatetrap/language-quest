@@ -1,0 +1,532 @@
+{
+ "intro_en": "You will learn how Mongolians clip words and particles in fast everyday talk, and how English speakers drop the subject and auxiliary ('Seen it?', 'Got a minute?'). You will also learn to understand these forms without using them at the wrong moment.",
+ "intro_mn": "Та өдөр тутмын хурдан ярианд монголчууд үг, сул үгийг хэрхэн товчилдог, мөн англи хэлэнд эзэн үг, туслах үйл үгийг хэрхэн хаядгийг ('Seen it?', 'Got a minute?') сурна. Эдгээрийг ойлгож, зохисгүй үед хэрэглэхгүй байхыг мөн сурна.",
+ "vocab": [
+  {
+   "mn": "товчлол",
+   "en": "contraction, abbreviation",
+   "pos": "noun",
+   "example_mn": "Ярианы товчлол хурдан ярихад тохиромжтой.",
+   "example_en": "Spoken contractions suit fast talk.",
+   "mn_latin": "tovchlol"
+  },
+  {
+   "mn": "товчлох",
+   "en": "to shorten, to clip",
+   "pos": "verb",
+   "example_mn": "Тэр үгийн төгсгөлийг товчилдог.",
+   "example_en": "He clips the ends of words.",
+   "mn_latin": "tovchlokh"
+  },
+  {
+   "mn": "орхих",
+   "en": "to drop, to leave out",
+   "pos": "verb",
+   "example_mn": "Англиар ярихдаа ихэвчлэн эзэн үгийг орхидог.",
+   "example_en": "In English you often drop the subject.",
+   "mn_latin": "orkhikh"
+  },
+  {
+   "mn": "хурдан яриа",
+   "en": "fast speech",
+   "pos": "noun",
+   "example_mn": "Хурдан яриаг дагахад хэцүү.",
+   "example_en": "Fast speech is hard to follow.",
+   "mn_latin": "khurdan yaria"
+  },
+  {
+   "mn": "албан бус",
+   "en": "informal",
+   "pos": "adjective",
+   "example_mn": "Энэ бол албан бус хэлбэр.",
+   "example_en": "This is an informal form.",
+   "mn_latin": "alban bus"
+  },
+  {
+   "mn": "сонсогдох",
+   "en": "to sound, to be heard",
+   "pos": "verb",
+   "example_mn": "Энэ өгүүлбэр байгалийн юм шиг сонсогдож байна.",
+   "example_en": "This sentence sounds natural.",
+   "mn_latin": "sonsogdokh"
+  },
+  {
+   "mn": "аялга",
+   "en": "tone, intonation",
+   "pos": "noun",
+   "example_mn": "Аялгаас нь асуулт гэдгийг мэдэж болно.",
+   "example_en": "You can tell it's a question from the intonation.",
+   "mn_latin": "ayalga"
+  },
+  {
+   "mn": "гүйцэх",
+   "en": "to catch up with, to overtake",
+   "pos": "verb",
+   "example_mn": "Хурдан алхвал автобусыг гүйцэж болно.",
+   "example_en": "If you walk fast, you can catch up with the bus.",
+   "mn_latin": "güitsekh"
+  },
+  {
+   "mn": "ойлгомжтой",
+   "en": "clear, understandable",
+   "pos": "adjective",
+   "example_mn": "Утга нь ойлгомжтой хэвээр байна.",
+   "example_en": "The meaning is still clear.",
+   "mn_latin": "oilgomjtoi"
+  },
+  {
+   "mn": "завгүй",
+   "en": "busy",
+   "pos": "adjective",
+   "example_mn": "Би одоо завгүй байна.",
+   "example_en": "I'm busy right now.",
+   "mn_latin": "zavgüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Яасан бэ? Яасан?",
+   "en": "What happened? What's up?",
+   "alt_mn": [
+    "Юу болсон бэ?"
+   ],
+   "alt_en": [
+    "What's wrong?"
+   ],
+   "mn_latin": "Yaasan be? Yaasan?"
+  },
+  {
+   "mn": "Мэдэхгүй ээ, үнэхээр мэдэхгүй.",
+   "en": "I don't know, really.",
+   "alt_mn": [
+    "Мэдэхгүй ээ."
+   ],
+   "alt_en": [
+    "I have no idea."
+   ],
+   "mn_latin": "Medekhgüi ee, ünekheer medekhgüi."
+  },
+  {
+   "mn": "За яахав, дараа ярья.",
+   "en": "Oh well, let's talk later.",
+   "alt_mn": [
+    "За за, дараа ярья."
+   ],
+   "alt_en": [
+    "Well, never mind, we'll talk later."
+   ],
+   "mn_latin": "Za yaakhav, daraa yariya."
+  },
+  {
+   "mn": "Чи байна уу?",
+   "en": "Are you there?",
+   "alt_mn": [
+    "Чи байгаа юу?"
+   ],
+   "alt_en": [
+    "Are you around?"
+   ],
+   "mn_latin": "Chi baina uu?"
+  },
+  {
+   "mn": "Хурдан яриаг ойлгоход хэцүү.",
+   "en": "Fast speech is hard to understand.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's hard to understand fast speech."
+   ],
+   "mn_latin": "Khurdan yariag oilgokhod khetsüü."
+  },
+  {
+   "mn": "Энэ хэлбэр албан бус.",
+   "en": "This form is informal.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is an informal form."
+   ],
+   "mn_latin": "Ene khelber alban bus."
+  },
+  {
+   "mn": "Англиар заримдаа эзэн үгийг орхидог.",
+   "en": "In English you sometimes drop the subject.",
+   "alt_mn": [],
+   "alt_en": [
+    "English sometimes leaves out the subject."
+   ],
+   "mn_latin": "Angliar zarimdaa ezen ügiig orkhidog."
+  },
+  {
+   "mn": "Нэг минут завтай юу?",
+   "en": "Got a minute?",
+   "alt_mn": [
+    "Нэг минут чөлөө байна уу?"
+   ],
+   "alt_en": [
+    "Do you have a minute?"
+   ],
+   "mn_latin": "Neg minut zavtai yuu?"
+  },
+  {
+   "mn": "Тэр киног үзсэн үү?",
+   "en": "Seen that movie?",
+   "alt_mn": [],
+   "alt_en": [
+    "Have you seen that movie?"
+   ],
+   "mn_latin": "Ter kinog üzsen üü?"
+  },
+  {
+   "mn": "Автобус хөдөлчихлөө, яараарай!",
+   "en": "The bus is leaving, hurry!",
+   "alt_mn": [
+    "Автобус явчихлаа, хурдлаарай!"
+   ],
+   "alt_en": [
+    "The bus is about to go, hurry up!"
+   ],
+   "mn_latin": "Avtobus khödölchikhlöö, yaaraarai!"
+  },
+  {
+   "mn": "Аялгаас нь асуулт гэдгийг мэднэ.",
+   "en": "You can tell from the intonation that it's a question.",
+   "alt_mn": [],
+   "alt_en": [
+    "The intonation shows it's a question."
+   ],
+   "mn_latin": "Ayalgaas ni asuult gedgiig medne."
+  },
+  {
+   "mn": "Товчилсон ч гэсэн утга нь ойлгомжтой.",
+   "en": "Even when shortened, the meaning is clear.",
+   "alt_mn": [],
+   "alt_en": [
+    "Even shortened, it's still clear."
+   ],
+   "mn_latin": "Tovchilson ch gesen utga ni oilgomjtoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Clipped endings and particles in fast speech",
+  "title_mn": "Хурдан яриан дахь товчилсон төгсгөл, сул үг",
+  "explain_en": "In casual Mongolian, final particles and endings get clipped. 'Яасан бэ?' becomes 'Яасан?', and 'мэдэхгүй ээ' is often just 'мэдэхгүй'. The question particles бэ/уу and the softener ээ are dropped, and intonation carries the meaning. 'Байгаа юм уу?' can sound like 'Байгаам?'. English also drops the subject and auxiliary: 'Have you seen it?' → 'Seen it?', 'Do you have a minute?' → 'Got a minute?'. These forms suit talk with friends. Understand them, but write the full forms in formal texts and use та with strangers.",
+  "explain_mn": "Өдөр тутмын хурдан ярианд монгол хэлний төгсгөл, сул үгсийг товчилдог. 'Яасан бэ?' гэхийг 'Яасан?', 'Мэдэхгүй ээ' гэхийг 'Мэдэхгүй' гэж хэлнэ. Асуултын бэ/уу болон зөөлрүүлэгч ээ-г хаяж, аялга нь утгыг илтгэнэ. 'Байгаа юм уу?' нь 'Байгаам?' гэж сонсогдож болно. Англи хэлэнд мөн эзэн үг, туслах үйл үгийг хаядаг: 'Have you seen it?' → 'Seen it?', 'Do you have a minute?' → 'Got a minute?'. Эдгээр нь найз нөхөдтэйгөө ярихад тохиромжтой. Эдгээрийг ойлгож байх хэрэгтэй ч албан бичигт бүтэн хэлбэрийг хэрэглэж, танихгүй хүнд та гэж хандаарай.",
+  "examples": [
+   {
+    "mn": "Яасан?",
+    "en": "What happened?",
+    "mn_latin": "Yaasan?"
+   },
+   {
+    "mn": "Мэдэхгүй.",
+    "en": "Dunno. / I don't know.",
+    "mn_latin": "Medekhgüi."
+   },
+   {
+    "mn": "Байгаам?",
+    "en": "Are you there?",
+    "mn_latin": "Baigaam?"
+   },
+   {
+    "mn": "За яахав.",
+    "en": "Oh well.",
+    "mn_latin": "Za yaakhav."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Чи яасан бэ? Яасан ___?",
+   "answer": "бэ",
+   "options": [
+    "бэ",
+    "уу",
+    "ээ",
+    "вэ"
+   ],
+   "translation": "What happened to you? What's up?",
+   "explain_en": "The full form is 'Яасан бэ?': бэ goes with question words, and after н it is бэ, not вэ. In fast speech бэ is often dropped.",
+   "explain_mn": "Бүтэн хэлбэр нь 'Яасан бэ?': асуух үгтэй бэ хэрэглэх ба н-ийн дараа вэ биш бэ болно. Хурдан ярианд бэ-г ихэвчлэн хаядаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Мэдэхгүй ___, би үнэхээр мэдэхгүй.",
+   "answer": "ээ",
+   "options": [
+    "ээ",
+    "бэ",
+    "уу",
+    "аа"
+   ],
+   "translation": "I don't know, I really don't.",
+   "explain_en": "Ээ is a softening particle; in speech it is often clipped off.",
+   "explain_mn": "Ээ бол зөөлрүүлэгч сул үг; ярианд ихэвчлэн хаягддаг."
+  },
+  {
+   "lang": "mn",
+   "text": "За ___, дараа ярья.",
+   "answer": "яахав",
+   "options": [
+    "яахав",
+    "яасан",
+    "байна",
+    "мэдлээ"
+   ],
+   "translation": "Oh well, let's talk later.",
+   "explain_en": "'За яахав' is a fixed casual phrase meaning 'oh well, never mind'.",
+   "explain_mn": "'За яахав' бол «зүгээр, хамаагүй» гэсэн утгатай тогтсон хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "___ a minute? I need to ask you something.",
+   "answer": "Got",
+   "options": [
+    "Got",
+    "Gets",
+    "Getting",
+    "Gotten"
+   ],
+   "translation": "Нэг минут завтай юу? Надад асуух зүйл байна.",
+   "explain_en": "'Got a minute?' drops 'Do you have'.",
+   "explain_mn": "'Got a minute?' нь 'Do you have'-г хаясан хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "___ it yet? It's a great movie.",
+   "answer": "Seen",
+   "options": [
+    "Seen",
+    "See",
+    "Saw",
+    "Seeing"
+   ],
+   "translation": "Үзсэн үү? Гайхалтай кино шүү.",
+   "explain_en": "'Seen it?' drops 'Have you' and keeps the past participle.",
+   "explain_mn": "'Seen it?' нь 'Have you'-г хаяж, үйл үгийн гуравдахь хэлбэрийг (past participle) үлдээнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Coming? The bus ___ leaving.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "be",
+    "am"
+   ],
+   "translation": "Явах уу? Автобус хөдөлж байна.",
+   "explain_en": "'Coming?' drops 'Are you'; the second sentence is complete and needs 'is'.",
+   "explain_mn": "'Coming?' нь 'Are you'-г хаясан; хоёр дахь өгүүлбэр бүтэн тул 'is' хэрэгтэй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Яасан? Яагаад ийм хурдан алхаж байна?",
+   "en": "What's up? Why are you walking so fast?",
+   "mn_latin": "Yaasan? Yaagaad iim khurdan alkhaj baina?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Автобус хөдөлчихлөө. Явах уу?",
+   "en": "The bus is leaving. Coming?",
+   "mn_latin": "Avtobus khödölchikhlöö. Yavakh uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За яахав, явъя. Нэг минут завтай юу?",
+   "en": "Oh well, let's go. Got a minute?",
+   "mn_latin": "Za yaakhav, yavya. Neg minut zavtai yuu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Одоохондоо завгүй байна, уучлаарай.",
+   "en": "Not right now, sorry. I'm busy.",
+   "mn_latin": "Odookhondoo zavgüi baina, uuchlaarai."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэр киног үзсэн үү?",
+   "en": "Seen that movie?",
+   "mn_latin": "Ter kinog üzsen üü?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Үгүй ээ, үзээгүй.",
+   "en": "No, I haven't.",
+   "mn_latin": "Ügüi ee, üzeegüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Дараа кафед ярья.",
+   "en": "Let's talk at the café later.",
+   "mn_latin": "Daraa kafyed yariya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar buses and cafés, people speak quickly and clip particles, and the meaning rides on intonation. This is fine among friends and peers, but with elders or strangers Mongolians use full, polite forms with та. English works the same way: 'Got a minute?' is fine with a colleague, but a formal email uses full sentences.",
+  "mn": "Улаанбаатарын автобус, кафед хүмүүс хурдан ярьж, сул үгсийг товчилдог бөгөөд утга нь аялгаар илэрдэг. Найз нөхөд, үе тэнгийнхэнтэйгээ ингэж ярих нь хэвийн ч ахмад хүн, танихгүй хүнтэй та гэж бүтэн, эелдэг хэлбэрээр ярьдаг. Англиар ч мөн адил: 'Got a minute?' гэж хамт ажилладаг хүндээ хэлж болох ч албан имэйлд бүтэн өгүүлбэр бичнэ."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 22,
+  "notes": "Contains a non-word vocab entry (тосгуур), a Mongolian grammar explanation that describes the wrong language, and several unnatural Mongolian phrases; needs revision."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 25,
+  "notes": "Main problems: хураах misused for 'clip', the wrong 'oh well' phrase, ambiguous blanks, and grammar en/mn mismatch.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "English drops subject, not particles; clearer wording"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "хураах means collect/confiscate, not clip"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "use товчлох"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "genitive байгалийн can't modify verb directly"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "'oh well' is За яахав; За яалаа isn't this phrase"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "replace duplicate"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "биз дээ = 'you've seen it, right?', a different meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "хураах is the wrong word"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "хураах is the wrong word"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "align with mn; fix source form"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "align with en; товчлох"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "correct 'oh well' phrase"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'Яасан юм?' was also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "en and mn didn't match"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "en and mn didn't match"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'Мэдэхгүй юм' was also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "the fixed phrase is За яахав"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "match the answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "correct phrase"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "correct phrase"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'Have a minute?' is also acceptable"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "ирэх is odd here; clipped form matches 'Coming?'"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "'Мэдэхгүй' doesn't answer 'got a minute'"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "match the mn line"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "хураах wrong; зүйтэй/ийн unnatural"
+   }
+  ]
+ }
+}

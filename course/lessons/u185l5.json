@@ -1,0 +1,402 @@
+{
+ "intro_en": "In this lesson you'll learn how to describe a car problem to a mechanic and ask how long the repair will take and how much it will cost. You'll also practice putting the steps of a repair in order with эхлээд ... дараа нь ... эцэст нь and verb forms like үзээд, мэдээд, and солиод.",
+ "intro_mn": "Энэ хичээлээр та засварчинд машины эвдрэлийг тайлбарлаж, засвар хэр удах, хэдэн төгрөг болохыг асууж сурна. Мөн англи хэлний \"It takes + хугацаа + to ...\" бүтцээр засварт шаардагдах хугацааг ярьж, өнгөрсөн цагт \"It took ...\" гэж хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "засварчин",
+   "en": "mechanic",
+   "pos": "noun",
+   "example_mn": "Засварчин машиныг шалгаж байна.",
+   "example_en": "The mechanic is checking the car.",
+   "mn_latin": "zasvarchin"
+  },
+  {
+   "mn": "сэлбэг",
+   "en": "spare part",
+   "pos": "noun",
+   "example_mn": "Энэ сэлбэгийг Улаанбаатараас захиалах хэрэгтэй.",
+   "example_en": "This part has to be ordered from Ulaanbaatar.",
+   "mn_latin": "selbeg"
+  },
+  {
+   "mn": "солих",
+   "en": "to replace, to change",
+   "pos": "verb",
+   "example_mn": "Тосыг солих хэрэгтэй.",
+   "example_en": "The oil needs to be changed.",
+   "mn_latin": "solikh"
+  },
+  {
+   "mn": "оношлох",
+   "en": "to diagnose",
+   "pos": "verb",
+   "example_mn": "Эхлээд хөдөлгүүрийг компьютерээр оношилно.",
+   "example_en": "First we'll diagnose the engine with a computer.",
+   "mn_latin": "onoshlokh"
+  },
+  {
+   "mn": "баталгаа",
+   "en": "warranty, guarantee",
+   "pos": "noun",
+   "example_mn": "Энэ засварт зургаан сарын баталгаа өгнө.",
+   "example_en": "We give a six-month warranty on this repair.",
+   "mn_latin": "batalgaa"
+  },
+  {
+   "mn": "төлбөр",
+   "en": "cost, charge",
+   "pos": "noun",
+   "example_mn": "Засварын төлбөр хэд вэ?",
+   "example_en": "How much is the repair?",
+   "mn_latin": "tölbör"
+  },
+  {
+   "mn": "хөдөлгүүр",
+   "en": "engine",
+   "pos": "noun",
+   "example_mn": "Хөдөлгүүр асахгүй байна.",
+   "example_en": "The engine won't start.",
+   "mn_latin": "khödölgüür"
+  },
+  {
+   "mn": "чимээ",
+   "en": "noise, sound",
+   "pos": "noun",
+   "example_mn": "Тоормосоос хачин чимээ гарч байна.",
+   "example_en": "There's a strange noise coming from the brakes.",
+   "mn_latin": "chimee"
+  },
+  {
+   "mn": "эвдрэл",
+   "en": "fault, breakdown",
+   "pos": "noun",
+   "example_mn": "Эвдрэлийг олоход хоёр цаг орсон.",
+   "example_en": "It took two hours to find the fault.",
+   "mn_latin": "evdrel"
+  },
+  {
+   "mn": "шалтгаан",
+   "en": "cause, reason",
+   "pos": "noun",
+   "example_mn": "Шалтгааныг нь одоохондоо мэдэхгүй байна.",
+   "example_en": "We don't know the cause yet.",
+   "mn_latin": "shaltgaan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эхлээд машиныг үзээд, дараа нь үнийг нь хэлье.",
+   "en": "First I'll take a look at the car, and then I'll tell you the price.",
+   "alt_mn": [
+    "Эхлээд машиныг үзээд, дараа нь үнийг хэлье."
+   ],
+   "alt_en": [
+    "First I'll look at the car, then I'll tell you the price."
+   ],
+   "mn_latin": "Ekhleed mashinyg üzeed, daraa ni üniig ni kheliye."
+  },
+  {
+   "mn": "Хөдөлгүүрээс хачин чимээ гараад байна.",
+   "en": "There's a strange noise coming from the engine.",
+   "alt_mn": [
+    "Хөдөлгүүрээс хачин чимээ гарч байна."
+   ],
+   "alt_en": [
+    "The engine is making a strange noise."
+   ],
+   "mn_latin": "Khödölgüürees khachin chimee garaad baina."
+  },
+  {
+   "mn": "Эвдрэлийг оношлоход хэр удах вэ?",
+   "en": "How long does it take to diagnose the problem?",
+   "alt_mn": [
+    "Эвдрэлийг оношлоход хэр хугацаа орох вэ?"
+   ],
+   "alt_en": [
+    "How long will it take to diagnose the problem?"
+   ],
+   "mn_latin": "Evdreliig onoshlokhod kher udakh ve?"
+  },
+  {
+   "mn": "Сэлбэг ирэхэд гурван хоног болно.",
+   "en": "It'll take three days for the part to arrive.",
+   "alt_mn": [
+    "Сэлбэг гурван хоногийн дараа ирнэ."
+   ],
+   "alt_en": [
+    "It will take three days for the part to arrive."
+   ],
+   "mn_latin": "Selbeg irekhed gurvan khonog bolno."
+  },
+  {
+   "mn": "Сэлбэг олж авахад гурван хоног болсон.",
+   "en": "It took three days to get the part.",
+   "alt_mn": [
+    "Сэлбэгийг авахад гурван хоног зарцуулсан."
+   ],
+   "alt_en": [],
+   "mn_latin": "Selbeg olj avakhad gurvan khonog bolson."
+  },
+  {
+   "mn": "Шалтгааныг нь мэдээд, танд утсаар хэлье.",
+   "en": "Once I find out the cause, I'll call you.",
+   "alt_mn": [
+    "Шалтгааныг мэдээд, танд залгая."
+   ],
+   "alt_en": [
+    "When I find out the cause, I'll give you a call."
+   ],
+   "mn_latin": "Shaltgaanyg ni medeed, tand utsaar kheliye."
+  },
+  {
+   "mn": "Энэ засварт баталгаа байгаа юу?",
+   "en": "Does this repair come with a warranty?",
+   "alt_mn": [
+    "Энэ засварт баталгаа өгөх үү?"
+   ],
+   "alt_en": [
+    "Is there a warranty on this repair?"
+   ],
+   "mn_latin": "Ene zasvart batalgaa baigaa yuu?"
+  },
+  {
+   "mn": "Эхлээд аккумуляторыг солиод, дараа нь тосыг шалгана.",
+   "en": "First we'll replace the battery, and then we'll check the oil.",
+   "alt_mn": [],
+   "alt_en": [
+    "First we'll change the battery, then check the oil."
+   ],
+   "mn_latin": "Ekhleed akkumulyatoryg soliod, daraa ni tosyg shalgana."
+  },
+  {
+   "mn": "Засварын төлбөр ойролцоогоор хэд болох вэ?",
+   "en": "Roughly how much will the repair cost?",
+   "alt_mn": [
+    "Засвар ойролцоогоор хэдэн төгрөг болох вэ?"
+   ],
+   "alt_en": [
+    "About how much will the repair cost?"
+   ],
+   "mn_latin": "Zasvaryn tölbör oiroltsoogoor khed bolokh ve?"
+  },
+  {
+   "mn": "Тоормосыг засахад хоёр цаг орно.",
+   "en": "It takes two hours to fix the brakes.",
+   "alt_mn": [
+    "Тоормос засахад хоёр цаг болно."
+   ],
+   "alt_en": [
+    "It'll take two hours to fix the brakes."
+   ],
+   "mn_latin": "Toormosyg zasakhad khoyor tsag orno."
+  },
+  {
+   "mn": "Эцэст нь машиныг туршаад, танд хүлээлгэж өгнө.",
+   "en": "Finally, we'll test-drive the car and hand it back to you.",
+   "alt_mn": [
+    "Эцэст нь машиныг туршаад танд өгнө."
+   ],
+   "alt_en": [
+    "Finally, we'll test the car and give it back to you."
+   ],
+   "mn_latin": "Etsest ni mashinyg turshaad, tand khüleelgej ögnö."
+  },
+  {
+   "mn": "Яагаад ийм үнэтэй болсныг тайлбарлаж өгөхгүй юу?",
+   "en": "Could you explain why it's so expensive?",
+   "alt_mn": [
+    "Яагаад ийм үнэтэй байгааг тайлбарлаж өгнө үү?"
+   ],
+   "alt_en": [
+    "Can you explain why it costs so much?"
+   ],
+   "mn_latin": "Yaagaad iim ünetei bolsnyg tailbarlaj ögökhgüi yuu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Linking steps: -аад/-ээд/-оод/-өөд with эхлээд ... дараа нь ... эцэст нь",
+  "title_mn": "Хугацааг илэрхийлэх нь: It takes / It took + хугацаа + to ...",
+  "explain_en": "When a mechanic explains a repair, the steps usually come in a chain. Mongolian links them with the converb ending -аад/-ээд/-оод/-өөд, which means 'after doing X' or 'do X and then'. The vowel follows vowel harmony: үзэх → үзээд, мэдэх → мэдээд, авах → аваад, оношлох → оношлоод. If the stem ends in -и, you add only a short -ад/-од/-эд: солих → солиод, харих → хариад. Only the last verb carries tense: Үзээд, солиод, туршина = 'We'll look, replace it, and test it.' Put эхлээд (first), дараа нь (then), and эцэст нь (finally) in front of the steps to make the order clear.",
+  "explain_mn": "Англи хэлэнд аливаа ажилд хэр хугацаа шаардагдахыг \"It takes + хугацаа + to + үйл үг\" гэж хэлдэг. Жишээ нь: It takes two hours to fix the brakes. (Тоормос засахад хоёр цаг орно.) Энд \"it\" нь утгагүй, зөвхөн өгүүлэгдэхүүний байрыг эзэлнэ. Ирээдүйд \"It will take ...\", өнгөрсөнд \"It took ...\" гэнэ: It took three days to get the part. Асуухдаа \"How long does/will it take to ...?\" гэнэ. Хүн заавал оруулах бол \"It took me an hour to find it\" гэж \"take\"-ийн ард нэмнэ.",
+  "examples": [
+   {
+    "mn": "Эхлээд машиныг оношлоод, дараа нь үнийн санал гаргана.",
+    "en": "First we'll diagnose the car, and then we'll give you a quote.",
+    "mn_latin": "Ekhleed mashinyg onoshlood, daraa ni üniin sanal gargana."
+   },
+   {
+    "mn": "Засварчин эвдрэлийг мэдээд, сэлбэг захиалсан.",
+    "en": "Once the mechanic figured out the fault, he ordered the part.",
+    "mn_latin": "Zasvarchin evdreliig medeed, selbeg zakhialsan."
+   },
+   {
+    "mn": "Эхлээд дугуйг солиод, дараа нь тоормосыг шалгаад, эцэст нь машиныг угаана.",
+    "en": "First we'll change the tire, then check the brakes, and finally wash the car.",
+    "mn_latin": "Ekhleed duguig soliod, daraa ni toormosyg shalgaad, etsest ni mashinyg ugaana."
+   },
+   {
+    "mn": "Машиныг засахад долоо хоног болсон.",
+    "en": "It took a week to fix the car.",
+    "mn_latin": "Mashinyg zasakhad doloo khonog bolson."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эхлээд хөдөлгүүрийг үз___, дараа нь хэлье.",
+   "answer": "ээд",
+   "options": [
+    "ээд",
+    "аад",
+    "оод",
+    "өөд"
+   ],
+   "translation": "First I'll look at the engine, and then I'll tell you.",
+   "explain_en": "The converb ending links two actions: 'look, then tell'. The stem үз- has the front vowel ү, but ү stems take -ээд (үзээд), not -өөд, by Mongolian vowel harmony rules.",
+   "explain_mn": "\"-аад/-ээд\" нөхцөл нь хоёр үйлдлийг дараалуулж холбоно. \"Үзэх\" үйл үг эм үгийн эгшигтэй тул \"үзээд\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Сэлбэг ирэх___ гурван хоног болно.",
+   "answer": "эд",
+   "options": [
+    "эд",
+    "ээс",
+    "ийг",
+    "тэй"
+   ],
+   "translation": "It'll take three days for the part to arrive.",
+   "explain_en": "To say how long something takes, Mongolian puts the verb in the dative case: ирэх + эд → ирэхэд 'for (it) to arrive', followed by the time and болно/орно.",
+   "explain_mn": "Хугацаа заахдаа үйл үгийг өгөх-оршихын тийн ялгалд тавьдаг: ирэхэд, засахад. Англиар \"It will take ... for ... to\" гэсэнтэй дүйнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Эхлээд оношилно, дараа нь засна, ___ нь туршина.",
+   "answer": "эцэст",
+   "options": [
+    "эцэст",
+    "эхлээд",
+    "өчигдөр",
+    "одоо"
+   ],
+   "translation": "First we'll diagnose it, then fix it, and finally test it.",
+   "explain_en": "The sequence is эхлээд (first) → дараа нь (then) → эцэст нь (finally). The last step needs эцэст нь.",
+   "explain_mn": "Дараалал: эхлээд → дараа нь → эцэст нь. Сүүлийн алхмыг \"эцэст нь\" гэж эхлүүлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ three days to get the part.",
+   "answer": "took",
+   "options": [
+    "took",
+    "take",
+    "was",
+    "spent"
+   ],
+   "translation": "Сэлбэг олж авахад гурван хоног болсон.",
+   "explain_en": "This happened in the past, so we use 'It took + time + to-infinitive'. 'It was' and 'It spent' are not used in this structure.",
+   "explain_mn": "Өнгөрсөн явдал тул \"take\"-ийн өнгөрсөн хэлбэр \"took\"-ийг хэрэглэнэ. \"It spent\" гэж хэлдэггүй, \"spend\"-ийг хүнтэй хэрэглэнэ: I spent three days."
+  },
+  {
+   "lang": "en",
+   "text": "It usually takes an hour ___ change the oil.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "at"
+   ],
+   "translation": "Тос солиход ихэвчлэн нэг цаг орно.",
+   "explain_en": "After 'It takes + time', the action comes as a to-infinitive: to change.",
+   "explain_mn": "\"It takes + хугацаа\"-ны дараа үйл үг заавал \"to\"-той ирнэ: to change, to fix."
+  },
+  {
+   "lang": "en",
+   "text": "How long will it ___ to fix the brakes?",
+   "answer": "take",
+   "options": [
+    "take",
+    "took",
+    "takes",
+    "taking"
+   ],
+   "translation": "Тоормос засахад хэр удах вэ?",
+   "explain_en": "After the modal 'will', use the base form of the verb: will it take.",
+   "explain_mn": "\"Will\"-ийн дараа үйл үг үндсэн хэлбэрээрээ ирнэ: will it take. Асуултын бүтэц: How long will it take to ...?"
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Номин",
+   "mn": "Сайн байна уу. Машин маань замд эвдэрч, энд чирүүлж ирсэн. Хөдөлгүүрээс хачин чимээ гараад байна.",
+   "en": "Hello. My car broke down on the road and got towed here. There's a strange noise coming from the engine.",
+   "mn_latin": "Sain baina uu. Mashin maani zamd evderch, end chirüülj irsen. Khödölgüürees khachin chimee garaad baina."
+  },
+  {
+   "speaker": "Төмөр",
+   "mn": "Ойлголоо. Эхлээд компьютерээр оношлоод, дараа нь шалтгааныг нь хэлье.",
+   "en": "Got it. First I'll run a computer diagnostic, and then I'll tell you what's causing it.",
+   "mn_latin": "Oilgoloo. Ekhleed kompiyutyereer onoshlood, daraa ni shaltgaanyg ni kheliye."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Оношлоход хэр удах вэ?",
+   "en": "How long does it take to diagnose?",
+   "mn_latin": "Onoshlokhod kher udakh ve?"
+  },
+  {
+   "speaker": "Төмөр",
+   "mn": "Ихэвчлэн хагас цаг орно. ... За, усны насос эвдэрсэн байна. Солих хэрэгтэй.",
+   "en": "It usually takes half an hour. ... Okay, the water pump has failed. It needs to be replaced.",
+   "mn_latin": "Ikhevchlen khagas tsag orno. ... Za, usny nasos evdersen baina. Solikh kheregtei."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Танд сэлбэг нь байгаа юу? Нийт төлбөр хэд болох вэ?",
+   "en": "Do you have the part? How much will it cost in total?",
+   "mn_latin": "Tand selbeg ni baigaa yuu? Niit tölbör khed bolokh ve?"
+  },
+  {
+   "speaker": "Төмөр",
+   "mn": "Сэлбэгийг Улаанбаатараас захиална, ирэхэд хоёр хоног болно. Насосыг солиод, эцэст нь туршаад өгнө. Нийтдээ гурван зуун мянган төгрөг.",
+   "en": "We'll order the part from Ulaanbaatar. It'll take two days to arrive. We'll replace the pump and finally test-drive the car before giving it back. It's 300,000 tugriks in total.",
+   "mn_latin": "Selbegiig Ulaanbaataraas zakhialna, irekhed khoyor khonog bolno. Nasosyg soliod, etsest ni turshaad ögnö. Niitdee gurvan zuun myangan tögrög."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Засварт баталгаа өгөх үү?",
+   "en": "Do you give a warranty on the repair?",
+   "mn_latin": "Zasvart batalgaa ögökh üü?"
+  },
+  {
+   "speaker": "Төмөр",
+   "mn": "Тийм, сэлбэг болон ажилд гурван сарын баталгаатай.",
+   "en": "Yes, there's a three-month warranty on parts and labor.",
+   "mn_latin": "Tiim, selbeg bolon ajild gurvan saryn batalgaatai."
+  }
+ ],
+ "culture_note": {
+  "en": "Many cars in Mongolia are imported used from Japan or Korea, so repair shops in aimag centers often have to order parts from Ulaanbaatar or even China, which can add days to a repair. It's common for drivers to buy the part themselves at a market and bring it to the mechanic, who then charges only for labor. Always ask whether the warranty covers the part, the labor, or both.",
+  "mn": "Монголд олон машиныг Япон, Солонгосоос хуучнаар нь оруулж ирдэг тул аймгийн төвийн засварын газрууд сэлбэгийг Улаанбаатар, бүр Хятадаас захиалах нь элбэг бөгөөд энэ нь засварыг хэдэн хоногоор удаашруулж болно. Жолооч нар сэлбэгээ зах дээрээс өөрсдөө худалдаж аваад засварчинд өгч, зөвхөн ажлын хөлс төлөх нь түгээмэл. Баталгаа нь сэлбэгт, ажилд, эсвэл хоёуланд нь хамаатай эсэхийг заавал асуугаарай."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A solid, accurate lesson; only a few small grammar-term, spelling, and capitalization fixes were needed."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "The lesson is solid overall; only one case-ending error found. The en/mn intro and grammar sections cover different topics (Mongolian converbs vs English 'It takes'). I left them unchanged as a deliberate two-direction design, though the brief asks for matching en/mn explanations.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Тоормос has no hidden н, so the ablative is тоормосоос, not тоормосноос."
+   }
+  ]
+ }
+}

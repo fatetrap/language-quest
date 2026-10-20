@@ -1,0 +1,421 @@
+{
+ "intro_en": "Learn to write a short match report for a fan page or news site: final results, who made the difference, and where the team stands in the table. You'll practice Mongolian result phrases like 2:1-ээр хожиж тэргүүллээ and -ын ачаар, and see how English switches from live commentary to the past tense.",
+ "intro_mn": "Фэн хуудас эсвэл мэдээний сайтад зориулж тоглолтын товч тойм бичиж сурна. Үүнд эцсийн дүн, хэний ачаар ялсан, баг хүснэгтэд хэддүгээр байрт байгаа зэргийг багтаана. Англи хэлэнд шууд тайлбарын одоо цагаас тоймын өнгөрсөн цаг руу хэрхэн шилждэгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "хүснэгт",
+   "en": "standings (table)",
+   "pos": "noun",
+   "example_mn": "Манай баг хүснэгтэд гуравдугаар байрт орлоо.",
+   "example_en": "Our team moved up to third place in the standings.",
+   "mn_latin": "khüsnegt"
+  },
+  {
+   "mn": "тэргүүлэх",
+   "en": "to lead, to be on top",
+   "pos": "verb",
+   "example_mn": "Эрчим хүснэгтийг тэргүүлж байна.",
+   "example_en": "Erchim is at the top of the standings.",
+   "mn_latin": "tergüülekh"
+  },
+  {
+   "mn": "ялалт",
+   "en": "victory, win",
+   "pos": "noun",
+   "example_mn": "Энэ бол улирлын хамгийн чухал ялалт байлаа.",
+   "example_en": "This was the most important win of the season.",
+   "mn_latin": "yalalt"
+  },
+  {
+   "mn": "ялагдал",
+   "en": "defeat, loss",
+   "pos": "noun",
+   "example_mn": "Гурван дараалсан ялагдлын дараа баг хожлоо.",
+   "example_en": "After three straight losses, the team won.",
+   "mn_latin": "yalagdal"
+  },
+  {
+   "mn": "хожих",
+   "en": "to win, to beat",
+   "pos": "verb",
+   "example_mn": "Манайхан 3:1-ээр хожлоо.",
+   "example_en": "Our team won 3–1.",
+   "mn_latin": "khojikh"
+  },
+  {
+   "mn": "тэнцэх",
+   "en": "to draw, to tie",
+   "pos": "verb",
+   "example_mn": "Хоёр баг 1:1-ээр тэнцлээ.",
+   "example_en": "The two teams tied 1–1.",
+   "mn_latin": "tentsekh"
+  },
+  {
+   "mn": "оноо",
+   "en": "point",
+   "pos": "noun",
+   "example_mn": "Энэ ялалтаар баг гурван оноо авлаа.",
+   "example_en": "With this win, the team picked up three points.",
+   "mn_latin": "onoo"
+  },
+  {
+   "mn": "-ын ачаар",
+   "en": "thanks to",
+   "pos": "postposition",
+   "example_mn": "Батын гоолын ачаар бид хожлоо.",
+   "example_en": "We won thanks to Bat's goal.",
+   "mn_latin": "-yn achaar"
+  },
+  {
+   "mn": "улирал",
+   "en": "season",
+   "pos": "noun",
+   "example_mn": "Энэ улиралд бид гэрийн талбайдаа ганц ч удаа ялагдаагүй.",
+   "example_en": "This season we haven't lost a single game at home.",
+   "mn_latin": "uliral"
+  },
+  {
+   "mn": "тоглолтын тойм",
+   "en": "match report",
+   "pos": "noun phrase",
+   "example_mn": "Тоглолтын тоймыг клубын хуудсанд нийтэллээ.",
+   "example_en": "The match report was posted on the club's page.",
+   "mn_latin": "togloltyn toim"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эрчим Хангарьдыг 2:0-ээр хожиж, хүснэгтийг тэргүүллээ.",
+   "en": "Erchim beat Khangarid 2–0 and went to the top of the standings.",
+   "alt_mn": [
+    "Эрчим Хангарьдыг 2:0-ээр хожоод хүснэгтийг тэргүүллээ."
+   ],
+   "alt_en": [
+    "Erchim beat Khangarid 2–0 to go top of the table.",
+    "Erchim defeated Khangarid 2–0 and moved to the top of the standings."
+   ],
+   "mn_latin": "Erchim Khangaridyg 2:0-eer khojij, khüsnegtiig tergüüllee."
+  },
+  {
+   "mn": "Ганбатын хоёр гоолын ачаар манай баг ялалт байгууллаа.",
+   "en": "Thanks to Ganbat's two goals, our team won.",
+   "alt_mn": [
+    "Ганбатын оруулсан хоёр гоолын ачаар манай баг хожлоо."
+   ],
+   "alt_en": [
+    "Our team won thanks to Ganbat's two goals.",
+    "Thanks to two goals from Ganbat, our team got the win."
+   ],
+   "mn_latin": "Ganbatyn khoyor goolyn achaar manai bag yalalt baiguullaa."
+  },
+  {
+   "mn": "Энэ ялагдлын дараа баг хүснэгтийн гуравдугаар байр руу буулаа.",
+   "en": "After this loss, the team dropped to third place in the standings.",
+   "alt_mn": [
+    "Энэ ялагдлын дараа баг хүснэгтэд гуравдугаар байр руу ухарлаа."
+   ],
+   "alt_en": [
+    "After this defeat, the team fell to third in the standings."
+   ],
+   "mn_latin": "Ene yalagdlyn daraa bag khüsnegtiin guravdugaar bair ruu buulaa."
+  },
+  {
+   "mn": "Хоёр баг 1:1-ээр тэнцлээ.",
+   "en": "The two teams tied 1–1.",
+   "alt_mn": [
+    "Тоглолт 1:1-ээр тэнцсэн."
+   ],
+   "alt_en": [
+    "The two teams drew 1–1.",
+    "The game ended in a 1–1 tie."
+   ],
+   "mn_latin": "Khoyor bag 1:1-eer tentslee."
+  },
+  {
+   "mn": "Хаалгачийн гайхалтай тоглолтын ачаар бид нэг оноо авч үлдлээ.",
+   "en": "Thanks to a brilliant performance from the goalkeeper, we held on to a point.",
+   "alt_mn": [
+    "Хаалгачийн гайхалтай тоглолтын ачаар бид нэг оноотой үлдлээ."
+   ],
+   "alt_en": [
+    "Thanks to the goalkeeper's brilliant performance, we held on for a point."
+   ],
+   "mn_latin": "Khaalgachiin gaikhaltai togloltyn achaar bid neg onoo avch üldlee."
+  },
+  {
+   "mn": "Эхний хагаст зочин баг тэргүүлж байсан ч хоёрдугаар хагаст бид гурван гоол оруулсан.",
+   "en": "The visitors were leading in the first half, but we scored three goals in the second.",
+   "alt_mn": [
+    "Эхний хагаст зочин баг тэргүүлж байсан боловч хоёрдугаар хагаст бид гурван гоол оруулсан."
+   ],
+   "alt_en": [
+    "The visiting team led in the first half, but we scored three goals in the second half."
+   ],
+   "mn_latin": "Ekhnii khagast zochin bag tergüülj baisan ch khoyordugaar khagast bid gurvan gool oruulsan."
+  },
+  {
+   "mn": "Энэ ялалтын дараа тэд арван тоглолт дараалан ялагдаагүй байна.",
+   "en": "After this win, they have now gone ten games in a row without a loss.",
+   "alt_mn": [
+    "Энэ ялалтаар тэд арван тоглолт дараалан ялагдаагүй байна."
+   ],
+   "alt_en": [
+    "With this win, they are now unbeaten in ten straight games."
+   ],
+   "mn_latin": "Ene yalaltyn daraa ted arvan toglolt daraalan yalagdaagüi baina."
+  },
+  {
+   "mn": "Тоглолтын 89 дэх минутад Тэмүүлэн шийдвэрлэх гоол оруулсан.",
+   "en": "Temuulen scored the winning goal in the 89th minute.",
+   "alt_mn": [
+    "89 дэх минутад Тэмүүлэн шийдвэрлэх гоолыг оруулсан."
+   ],
+   "alt_en": [
+    "Temuulen scored the winner in the 89th minute."
+   ],
+   "mn_latin": "Togloltyn 89 dekh minutad Temüülen shiidverlekh gool oruulsan."
+  },
+  {
+   "mn": "Сэлгээгээр орсон тоглогч багаа ялагдлаас аварлаа.",
+   "en": "The substitute saved his team from defeat.",
+   "alt_mn": [
+    "Сэлгээгээр орсон тоглогч багаа ялагдал хүлээхээс аварлаа."
+   ],
+   "alt_en": [
+    "The player who came off the bench saved his team from a loss."
+   ],
+   "mn_latin": "Selgeegeer orson toglogch bagaa yalagdlaas avarlaa."
+  },
+  {
+   "mn": "Улирал дуусахад гурван тоглолт үлдээд байхад Эрчим хоёрдугаар байрын багаас таван оноогоор тэргүүлж байна.",
+   "en": "With three games left in the season, Erchim leads the second-place team by five points.",
+   "alt_mn": [
+    "Улирал дуусахад гурван тоглолт үлдсэн байхад Эрчим хоёрдугаар байрын багаас таван оноогоор тэргүүлж байна."
+   ],
+   "alt_en": [
+    "With three games to go, Erchim has a five-point lead over the second-place team."
+   ],
+   "mn_latin": "Uliral duusakhad gurvan toglolt üldeed baikhad Erchim khoyordugaar bairyn bagaas tavan onoogoor tergüülj baina."
+  },
+  {
+   "mn": "Шүүгчийн маргаантай шийдвэрийн дараа тоглолтын хэмнэл өөрчлөгдсөн.",
+   "en": "After a controversial call by the referee, the momentum of the game changed.",
+   "alt_mn": [
+    "Шүүгчийн маргаантай шийдвэрээс хойш тоглолтын хэмнэл өөрчлөгдсөн."
+   ],
+   "alt_en": [
+    "The momentum shifted after a controversial call by the referee."
+   ],
+   "mn_latin": "Shüügchiin margaantai shiidveriin daraa togloltyn khemnel öörchlögdsön."
+  },
+  {
+   "mn": "Сүүлийн таван тоглолтод бид гурван ялалт байгуулж, хоёр ялагдал хүлээсэн.",
+   "en": "In our last five games, we won three and lost two.",
+   "alt_mn": [
+    "Сүүлийн таван тоглолтод бид гурав хожиж, хоёр ялагдсан."
+   ],
+   "alt_en": [
+    "In our last five games, we have three wins and two losses."
+   ],
+   "mn_latin": "Süüliin tavan togloltod bid gurvan yalalt baiguulj, khoyor yalagdal khüleesen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Result phrases in Mongolian and past tenses in English match reports",
+  "title_mn": "Монгол хэлний үр дүнгийн хэллэг ба англи тоймын өнгөрсөн цаг",
+  "explain_en": "To give a final score in Mongolian, add the instrumental ending -аар/-ээр/-оор/-өөр to the score. Pick the ending from how you say the last number out loud: 2:1 is read \"хоёр нэг\", so you write 2:1-ээр; 3:2 is read \"гурав хоёр\", so you write 3:2-оор. To say who made the difference, put the noun in the genitive and add ачаар (\"thanks to\"): Батын ачаар, хаалгачийн ачаар. Use ачаар only for something good. For a bad cause, use -ын улмаас instead. In reports, you can chain actions with the converb -ж/-ч and end the sentence with the recent past -лаа/-лээ/-лоо/-лөө: хожиж, тэргүүллээ (\"won and went top\"). Use -сан/-сэн for background details, such as тэргүүлж байсан (\"was leading\").",
+  "explain_mn": "Шууд тайлбарын үед англи хэлэнд одоо цагийг хэрэглэдэг: \"He shoots! He scores!\" Харин тоглолт дууссаны дараа бичих тоймд өнгөрсөн энгийн цаг (past simple) хэрэглэнэ: \"Erchim beat Khangarid 2–1.\" Өөр нэг өнгөрсөн үйлээс өмнө үргэлжилж байсан үйлийг \"had been + -ing\" (past perfect continuous) хэлбэрээр илэрхийлнэ: \"The visitors had been leading until the 80th minute.\" Одоогийн байдлыг харуулахдаа present perfect хэрэглэнэ: \"Erchim has now won five games in a row.\" Мэдээний гарчигт ихэвчлэн одоо энгийн цагийг хэрэглэдэг: \"Erchim Beats Khangarid\". Харин тоймын өгүүлбэрүүд дотор өнгөрсөн цаг хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Хасын Хүлэгүүд 3:2-оор хожиж, хүснэгтийг тэргүүллээ.",
+    "en": "Khasiin Khulguud won 3–2 and went to the top of the standings.",
+    "mn_latin": "Khasyn Khülegüüd 3:2-oor khojij, khüsnegtiig tergüüllee."
+   },
+   {
+    "mn": "Хаалгачийн ачаар бид ялагдал хүлээгээгүй.",
+    "en": "Thanks to the goalkeeper, we didn't lose.",
+    "mn_latin": "Khaalgachiin achaar bid yalagdal khüleegeegüi."
+   },
+   {
+    "mn": "Зочин баг 80 дахь минут хүртэл тэргүүлж байсан.",
+    "en": "The visitors had been leading until the 80th minute.",
+    "mn_latin": "Zochin bag 80 dakhi minut khürtel tergüülj baisan."
+   },
+   {
+    "mn": "Эрчим одоо таван тоглолт дараалан хожоод байна.",
+    "en": "Erchim has now won five games in a row.",
+    "mn_latin": "Erchim odoo tavan toglolt daraalan khojood baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эрчим Хангарьдыг 3:1-___ хожлоо.",
+   "answer": "ээр",
+   "options": [
+    "ээр",
+    "аар",
+    "оор",
+    "ын"
+   ],
+   "translation": "Erchim beat Khangarid 3–1.",
+   "explain_en": "The score 3:1 is read \"гурав нэг\". The last word, нэг, has front vowels, so it takes -ээр. The genitive -ын is wrong here, because a score in Mongolian takes the instrumental case.",
+   "explain_mn": "3:1 нь \"гурав нэг\" гэж уншигдана. Сүүлийн үг \"нэг\" эм үг тул -ээр нөхцөл авна. Оноог илэрхийлэхэд үйлдэх тийн ялгал хэрэглэдэг тул харьяалахын -ын энд буруу."
+  },
+  {
+   "lang": "mn",
+   "text": "Ганбатын гоолын ___ бид хожлоо.",
+   "answer": "ачаар",
+   "options": [
+    "ачаар",
+    "улмаас",
+    "тулд",
+    "хойно"
+   ],
+   "translation": "We won thanks to Ganbat's goal.",
+   "explain_en": "ачаар means \"thanks to\" and is used for a positive cause. улмаас means \"because of\" and usually goes with something bad. тулд means \"in order to\", and хойно means \"after\".",
+   "explain_mn": "\"ачаар\" нь эерэг үр дүнд хүргэсэн шалтгааныг заана. \"улмаас\" ихэвчлэн сөрөг шалтгаанд хэрэглэгддэг тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ ялалтаар Эрчим хүснэгтийг ___.",
+   "answer": "тэргүүллээ",
+   "options": [
+    "тэргүүллээ",
+    "тэргүүлэх",
+    "тэргүүлдэг",
+    "тэргүүлсэн нь"
+   ],
+   "translation": "With this win, Erchim went to the top of the standings.",
+   "explain_en": "A report sentence needs a finite verb. The recent past -лээ fits news that just happened. тэргүүлэх is the dictionary form, тэргүүлдэг describes a habit, and тэргүүлсэн нь can't end the sentence.",
+   "explain_mn": "Өгүүлбэрийг төгсгөх үйл үг хэрэгтэй. Саяхан болсон мэдээнд -лээ нөхцөл хамгийн тохиромжтой."
+  },
+  {
+   "lang": "en",
+   "text": "Erchim ___ Khangarid 2–1 on Saturday.",
+   "answer": "beat",
+   "options": [
+    "beat",
+    "beats",
+    "is beating",
+    "has beaten"
+   ],
+   "translation": "Эрчим бямба гарагт Хангарьдыг 2:1-ээр хожсон.",
+   "explain_en": "A finished game at a specific time (\"on Saturday\") takes the past simple. The present perfect can't be used with a specific past time, and \"beats\" only fits a headline.",
+   "explain_mn": "\"on Saturday\" гэх мэт тодорхой өнгөрсөн цагтай бол past simple хэрэглэнэ. Ийм үед \"has beaten\" буруу болно. \"beats\" нь гарчигт л тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "The visitors ___ been leading until the 80th minute.",
+   "answer": "had",
+   "options": [
+    "had",
+    "have",
+    "were",
+    "has"
+   ],
+   "translation": "Зочин баг 80 дахь минут хүртэл тэргүүлж байсан.",
+   "explain_en": "This action happened before another past event (the comeback), so it takes the past perfect continuous: had been + -ing.",
+   "explain_mn": "Өөр нэг өнгөрсөн үйлээс өмнө үргэлжилж байсан үйлийг \"had been + -ing\" хэлбэрээр илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "With this win, Erchim ___ now won five games in a row.",
+   "answer": "has",
+   "options": [
+    "has",
+    "had",
+    "is",
+    "was"
+   ],
+   "translation": "Энэ ялалтаар Эрчим одоо таван тоглолт дараалан хожоод байна.",
+   "explain_en": "\"Now\" points to the team's current situation, so you need the present perfect: has + won.",
+   "explain_mn": "\"now\" нь одоогийн байдлыг заадаг тул present perfect (has + V3) хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Nomin",
+   "mn": "Бат аа, өчигдрийн тоглолтын тоймыг фэн хуудсанд тавих уу?",
+   "en": "Bat, are we posting last night's match report on the fan page?",
+   "mn_latin": "Bat aa, öchigdriin togloltyn toimyg fen khuudsand tavikh uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм ээ, бараг дуусаж байна. Гарчиг нь \"Эрчим Хангарьдыг 2:1-ээр хожиж, тэргүүллээ\".",
+   "en": "Yes, I'm almost done. The headline is \"Erchim Beats Khangarid 2–1, Goes Top.\"",
+   "mn_latin": "Tiim ee, barag duusaj baina. Garchig ni \"Erchim Khangaridyg 2:1-eer khojij, tergüüllee\"."
+  },
+  {
+   "speaker": "Nomin",
+   "mn": "Сайн байна. Гэхдээ \"Тэр цохилоо! Гоол!\" гэх мэтийг хасаарай. Энэ шууд тайлбар биш шүү дээ.",
+   "en": "Nice. But cut lines like \"He shoots! Goal!\" This isn't live commentary.",
+   "mn_latin": "Sain baina. Gekhdee \"Ter tsokhiloo! Gool!\" gekh metiig khasaarai. Ene shuud tailbar bish shüü dee."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Ойлголоо. \"Тэмүүлэн 89 дэх минутад шийдвэрлэх гоол оруулсан\" гэж өөрчиллөө.",
+   "en": "Got it. I changed it to \"Temuulen scored the winner in the 89th minute.\"",
+   "mn_latin": "Oilgoloo. \"Temüülen 89 dekh minutad shiidverlekh gool oruulsan\" gej öörchillöö."
+  },
+  {
+   "speaker": "Nomin",
+   "mn": "Хаалгачийг заавал дурдаарай. Түүний ачаар бид хоёрдугаар хагаст гоол алдаагүй.",
+   "en": "Make sure you mention the goalkeeper. Thanks to him, we didn't concede in the second half.",
+   "mn_latin": "Khaalgachiig zaaval durdaarai. Tüünii achaar bid khoyordugaar khagast gool aldaagüi."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Мэдээж. Бас хүснэгтийн мэдээлэл нэмье. Одоо бид хоёрдугаар байрын багаас гурван оноогоор тэргүүлж байна.",
+   "en": "Of course. Let's add the standings too. We now lead the second-place team by three points.",
+   "mn_latin": "Medeej. Bas khüsnegtiin medeelel nemiye. Odoo bid khoyordugaar bairyn bagaas gurvan onoogoor tergüülj baina."
+  },
+  {
+   "speaker": "Nomin",
+   "mn": "Гайхалтай. Гурван дараалсан ялагдлын дараа ийм ялалт фэнүүдэд их хэрэгтэй байсан.",
+   "en": "Great. After three straight losses, the fans really needed a win like this.",
+   "mn_latin": "Gaikhaltai. Gurvan daraalsan yalagdlyn daraa iim yalalt fenüüded ikh kheregtei baisan."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм ээ. Арван минутын дараа нийтэлье.",
+   "en": "Yeah. Let's post it in ten minutes.",
+   "mn_latin": "Tiim ee. Arvan minutyn daraa niiteliye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, Facebook is the main place where clubs and fans share news, so match reports from the Mongolian Premier League and the popular basketball leagues often appear on club and fan pages within minutes of the final whistle. These posts usually start with the score and the standings, then thank key players: \"...-ын ачаар\" is a phrase you'll see constantly.",
+  "mn": "Монголд клубууд болон фэнүүд мэдээгээ ихэвчлэн фэйсбүүкээр хуваалцдаг. Тиймээс Монголын Үндэсний Премьер лиг болон олны танил сагсан бөмбөгийн лигүүдийн тоглолтын тойм тоглолт дуусаад хэдхэн минутын дараа клуб, фэн хуудсуудад гардаг. Эдгээр нийтлэл ихэвчлэн оноо, хүснэгтээс эхэлж, дараа нь гол тоглогчдод талархал илэрхийлдэг. \"...-ын ачаар\" гэсэн хэллэг байнга гардаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "The lesson is solid and natural overall. The fixes address one grammar explanation that didn't match its example, one contradictory time phrase, one awkward alternative translation, and one spelling issue."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Mongolian forms and translations are largely correct. The fixes align the en/mn explanations and the culture note.",
+  "changes": [
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Matches en: 'popular basketball leagues' (plural, popular)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Sync with en: genitive option explained"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "Sync with mn explanation"
+   }
+  ]
+ }
+}

@@ -1,0 +1,394 @@
+{
+ "intro_en": "Debate whether Ulaanbaatar should have more rental scooters, using policy words like micro-mobility, parking, fines and regulations. You'll tell complaint stories with -х гэтэл and -х гэхээр, and review how English uses won't/wouldn't when people or machines refuse.",
+ "intro_mn": "Улаанбаатарт түрээсийн скүүтер нэмэх эсэх талаар бичил тээвэр, зогсоол, торгууль, журам гэх мэт бодлогын үгсээр мэтгэлцэнэ. -х гэтэл, -х гэхээр хэлбэрээр гомдол, түүх ярьж, англи хэлэнд хүн эсвэл машин «зөвшөөрөхгүй, ажиллахгүй» байхыг will/would-оор илэрхийлэхийг давтана.",
+ "vocab": [
+  {
+   "mn": "бичил тээвэр",
+   "en": "micro-mobility",
+   "pos": "noun",
+   "example_mn": "Бичил тээвэр хотын түгжрэлийг бууруулж магадгүй.",
+   "example_en": "Micro-mobility might reduce traffic jams in the city.",
+   "mn_latin": "bichil teever"
+  },
+  {
+   "mn": "зогсоол",
+   "en": "parking spot; parking",
+   "pos": "noun",
+   "example_mn": "Скүүтерийн зогсоол хангалтгүй байна.",
+   "example_en": "There aren't enough scooter parking spots.",
+   "mn_latin": "zogsool"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine (penalty)",
+   "pos": "noun",
+   "example_mn": "Скүүтерийг буруу газар орхивол торгууль төлнө.",
+   "example_en": "If you leave a scooter in the wrong place, you'll pay a fine.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "журам",
+   "en": "regulation; rules",
+   "pos": "noun",
+   "example_mn": "Шинэ журам ирэх сараас хэрэгжинэ.",
+   "example_en": "The new regulation takes effect next month.",
+   "mn_latin": "juram"
+  },
+  {
+   "mn": "түрээслэх",
+   "en": "to rent",
+   "pos": "verb",
+   "example_mn": "Би ажил руугаа скүүтер түрээсэлж явдаг.",
+   "example_en": "I rent a scooter to get to work.",
+   "mn_latin": "türeeslekh"
+  },
+  {
+   "mn": "явган хүний зам",
+   "en": "sidewalk",
+   "pos": "noun",
+   "example_mn": "Явган хүний зам дээр скүүтер унаж болохгүй.",
+   "example_en": "You can't ride a scooter on the sidewalk.",
+   "mn_latin": "yavgan khünii zam"
+  },
+  {
+   "mn": "хориглох",
+   "en": "to ban; to prohibit",
+   "pos": "verb",
+   "example_mn": "Зарим хот түрээсийн скүүтерийг хориглосон.",
+   "example_en": "Some cities have banned rental scooters.",
+   "mn_latin": "khoriglokh"
+  },
+  {
+   "mn": "зохицуулах",
+   "en": "to regulate",
+   "pos": "verb",
+   "example_mn": "Хотын захиргаа скүүтерийн түрээсийг зохицуулах ёстой.",
+   "example_en": "The city government should regulate scooter rentals.",
+   "mn_latin": "zokhitsuulakh"
+  },
+  {
+   "mn": "саад болох",
+   "en": "to get in the way; to obstruct",
+   "pos": "verb",
+   "example_mn": "Замын голд орхисон скүүтер явган хүнд саад болдог.",
+   "example_en": "Scooters left in the middle of the path get in pedestrians' way.",
+   "mn_latin": "saad bolokh"
+  },
+  {
+   "mn": "хэрэглэгч",
+   "en": "user",
+   "pos": "noun",
+   "example_mn": "Олон хэрэглэгч дуулга өмсдөггүй.",
+   "example_en": "Many users don't wear helmets.",
+   "mn_latin": "khereglegch"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Скүүтер түрээслэх гэтэл апп нээгдэхгүй байсан.",
+   "en": "I was about to rent a scooter, but the app wouldn't open.",
+   "alt_mn": [
+    "Скүүтер түрээслэх гэтэл апп нээгдэхгүй байлаа."
+   ],
+   "alt_en": [
+    "I went to rent a scooter, but the app wouldn't open."
+   ],
+   "mn_latin": "Sküütyer türeeslekh getel app neegdekhgüi baisan."
+  },
+  {
+   "mn": "Зогсоол хайх гэхээр ойрхон нэг ч байдаггүй.",
+   "en": "Whenever I try to find a parking spot, there's never one nearby.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every time I look for a parking spot, there isn't a single one nearby."
+   ],
+   "mn_latin": "Zogsool khaikh gekheer oirkhon neg ch baidaggüi."
+  },
+  {
+   "mn": "Скүүтерээ асаах гэтэл асахгүй байлаа.",
+   "en": "I tried to start my scooter, but it wouldn't start.",
+   "alt_mn": [
+    "Скүүтерээ асаах гэтэл асахгүй байсан."
+   ],
+   "alt_en": [
+    "I went to start my scooter, but it wouldn't turn on."
+   ],
+   "mn_latin": "Sküütyeree asaakh getel asakhgüi bailaa."
+  },
+  {
+   "mn": "Явган хүний зам дээр унах гэхээр хүмүүс загнадаг.",
+   "en": "Whenever I try to ride on the sidewalk, people scold me.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every time I try to ride on the sidewalk, people yell at me."
+   ],
+   "mn_latin": "Yavgan khünii zam deer unakh gekheer khümüüs zagnadag."
+  },
+  {
+   "mn": "Хотын захиргаа бичил тээврийн шинэ журам батлах ёстой.",
+   "en": "The city government should approve new micro-mobility regulations.",
+   "alt_mn": [],
+   "alt_en": [
+    "The city should adopt new micro-mobility rules."
+   ],
+   "mn_latin": "Khotyn zakhirgaa bichil teevriin shine juram batlakh yostoi."
+  },
+  {
+   "mn": "Скүүтерээ орцны өмнө орхисон хүнд торгууль ногдуулах хэрэгтэй.",
+   "en": "People who leave their scooters in front of building entrances should be fined.",
+   "alt_mn": [],
+   "alt_en": [
+    "Anyone who leaves a scooter in front of an entrance should get a fine."
+   ],
+   "mn_latin": "Sküütyeree ortsny ömnö orkhison khünd torguuli nogduulakh kheregtei."
+  },
+  {
+   "mn": "Түрээсийн компани хариуцлага хүлээхгүй гэнэ.",
+   "en": "The rental company says it won't take responsibility.",
+   "alt_mn": [],
+   "alt_en": [
+    "Apparently the rental company won't take responsibility."
+   ],
+   "mn_latin": "Türeesiin kompani khariutslaga khüleekhgüi gene."
+  },
+  {
+   "mn": "Миний дүү дуулга өмсөхгүй гэж зөрүүдэлсэн.",
+   "en": "My little brother stubbornly refused to wear a helmet.",
+   "alt_mn": [],
+   "alt_en": [
+    "My younger brother just wouldn't wear a helmet."
+   ],
+   "mn_latin": "Minii düü duulga ömsökhgüi gej zörüüdelsen."
+  },
+  {
+   "mn": "Төв талбайн орчимд скүүтер саад болж байна гэж олон хүн гомдоллож байна.",
+   "en": "Many people are complaining that scooters are getting in the way around the central square.",
+   "alt_mn": [],
+   "alt_en": [
+    "A lot of people complain that scooters are blocking the way near the central square."
+   ],
+   "mn_latin": "Töv talbain orchimd sküütyer saad bolj baina gej olon khün gomdolloj baina."
+  },
+  {
+   "mn": "Скүүтерийг бүрэн хориглох нь зөв шийдэл биш гэж би боддог.",
+   "en": "I don't think a complete ban on scooters is the right solution.",
+   "alt_mn": [],
+   "alt_en": [
+    "I don't think banning scooters completely is the right answer."
+   ],
+   "mn_latin": "Sküütyeriig büren khoriglokh ni zöv shiidel bish gej bi boddog."
+  },
+  {
+   "mn": "Мөнгө төлөх гэтэл карт минь уншигдахгүй байлаа.",
+   "en": "When I went to pay, my card wouldn't scan.",
+   "alt_mn": [
+    "Мөнгө төлөх гэтэл миний карт уншигдахгүй байсан."
+   ],
+   "alt_en": [
+    "I was about to pay, but my card wouldn't go through."
+   ],
+   "mn_latin": "Möngö tölökh getel kart mini unshigdakhgüi bailaa."
+  },
+  {
+   "mn": "Өвөл скүүтер унах гэхээр зам хэтэрхий гулгамтгай байдаг.",
+   "en": "Whenever you try to ride a scooter in winter, the roads are too slippery.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every time you try to ride a scooter in winter, the streets are too icy."
+   ],
+   "mn_latin": "Övöl sküütyer unakh gekheer zam kheterkhii gulgamtgai baidag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Complaint stories with -х гэтэл and -х гэхээр / will & would for refusal",
+  "title_mn": "-х гэтэл, -х гэхээр хэлбэрээр гомдол ярих / Татгалзлыг илэрхийлэх will ба would",
+  "explain_en": "Both Mongolian forms add гэ- ('to say, to intend') to a verb ending in -х. Verb + -х гэтэл means 'I was about to do X, when (unexpectedly) Y happened.' It is used for one specific moment, usually in the past: Түрээслэх гэтэл апп гацсан. 'I went to rent one, but the app froze.' Verb + -х гэхээр means 'whenever I try to do X, Y happens.' It describes a repeated, general frustration and usually pairs with a habitual verb ending (-даг/-дэг) or байдаг: Зогсоол хайх гэхээр байдаггүй. 'Every time I look for parking, there's none.' A simple test: if it happened once, use гэтэл. If it always happens, use гэхээр. In English, when a person or a thing refuses to do something or won't work, we use will not / would not. In the present we use won't: My son won't wear a helmet. The app won't open. In the past we use wouldn't: The scooter wouldn't start. Here would does not mean a condition. It means a stubborn refusal. English also uses it for machines, apps and locks, as if they were people. Note: there is no 'to' after won't/wouldn't (wouldn't start, not wouldn't to start).",
+  "explain_mn": "Монгол хэлэнд хоёр хэлбэр хоёулаа -х төгсгөлтэй үйл үг дээр «гэ-» нэмж бүтдэг. -х гэтэл нь «X-ийг хийх гэж байтал гэнэт Y болсон» гэсэн утгатай. Ихэвчлэн өнгөрсөн цагт, нэг тодорхой мөчид хэрэглэнэ: Түрээслэх гэтэл апп гацсан. -х гэхээр нь «X-ийг хийх гэх болгонд Y болдог» гэсэн утгатай. Байнга давтагддаг бухимдлыг илэрхийлэх бөгөөд ихэвчлэн -даг/-дэг эсвэл байдаг-тай хамт орно: Зогсоол хайх гэхээр байдаггүй. Нэг удаа болсон бол гэтэл, байнга болдог бол гэхээр. Англи хэлэнд хүн эсвэл эд зүйл «юм хийхийг зөвшөөрөхгүй, ажиллахгүй байх»-ыг will not / would not-оор илэрхийлдэг. Одоо цагт won't: My son won't wear a helmet (Хүү маань дуулга өмсөхгүй гэдэг). The app won't open (Апп нээгдэхгүй байна). Өнгөрсөн цагт wouldn't: The scooter wouldn't start (Скүүтер асахгүй байсан). Энд would нь «болзол» биш, «зөрүүдлэн татгалзсан» гэсэн утгатай. Машин, апп, цоож зэрэгт ч хүн шиг «зөвшөөрөхгүй байх» утгаар хэрэглэдэг. Анхаар: won't/wouldn't-ын дараа to орохгүй (wouldn't start, wouldn't to start биш).",
+  "examples": [
+   {
+    "mn": "Скүүтерээ асаах гэтэл асахгүй байлаа.",
+    "en": "I tried to start my scooter, but it wouldn't start.",
+    "mn_latin": "Sküütyeree asaakh getel asakhgüi bailaa."
+   },
+   {
+    "mn": "Зогсоол хайх гэхээр үргэлж дүүрсэн байдаг.",
+    "en": "Whenever I look for a parking spot, it's always full.",
+    "mn_latin": "Zogsool khaikh gekheer ürgelj düürsen baidag."
+   },
+   {
+    "mn": "Хүү маань дуулга өмсөхгүй гэдэг.",
+    "en": "My son won't wear a helmet.",
+    "mn_latin": "Khüü maani duulga ömsökhgüi gedeg."
+   },
+   {
+    "mn": "Би бүх аргаа хэрэглэсэн ч цоож онгойхгүй байсан.",
+    "en": "I tried everything, but the lock wouldn't open.",
+    "mn_latin": "Bi bükh argaa khereglesen ch tsooj ongoikhgüi baisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Скүүтер түрээслэх ___ апп гацчихлаа.",
+   "answer": "гэтэл",
+   "options": [
+    "гэтэл",
+    "гэхээр",
+    "учраас",
+    "болохоор"
+   ],
+   "translation": "I was about to rent a scooter when the app froze.",
+   "explain_en": "This happened once, at a specific moment, and the result was unexpected, so -х гэтэл fits. гэхээр would suggest it happens every time.",
+   "explain_mn": "Нэг удаа, тодорхой мөчид гэнэтийн зүйл тохиолдсон тул -х гэтэл тохирно. гэхээр нь байнга давтагддаг зүйлд хэрэглэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Зогсоол хайх ___ үргэлж дүүрсэн байдаг.",
+   "answer": "гэхээр",
+   "options": [
+    "гэхээр",
+    "гэтэл",
+    "гэвч",
+    "гэж"
+   ],
+   "translation": "Whenever I look for a parking spot, it's always full.",
+   "explain_en": "'Always' (үргэлж) and the habitual ending байдаг show a repeated frustration, so -х гэхээр is the right choice.",
+   "explain_mn": "«Үргэлж» болон «байдаг» нь давтагддаг бухимдлыг илтгэж байгаа тул -х гэхээр тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Скүүтерээ буруу газар орхисон хүнд ___ ногдуулна.",
+   "answer": "торгууль",
+   "options": [
+    "торгууль",
+    "журам",
+    "зогсоол",
+    "түрээс"
+   ],
+   "translation": "People who leave their scooter in the wrong place will be fined.",
+   "explain_en": "The verb ногдуулах ('to impose') goes naturally with торгууль ('a fine'): торгууль ногдуулах = to impose a fine.",
+   "explain_mn": "«Ногдуулах» үйл үг «торгууль»-тай хослон хэрэглэгддэг: торгууль ногдуулах."
+  },
+  {
+   "lang": "en",
+   "text": "The scooter ___ start, so I had to walk home.",
+   "answer": "wouldn't",
+   "options": [
+    "wouldn't",
+    "won't",
+    "mustn't",
+    "shouldn't"
+   ],
+   "translation": "Скүүтер асахгүй байсан тул гэр лүүгээ алхахаас өөр аргагүй болсон.",
+   "explain_en": "The story is in the past ('had to walk'), so the past refusal form is wouldn't.",
+   "explain_mn": "Өгүүлбэр өнгөрсөн цагт (had to) байгаа тул машин «ажиллахгүй байсан»-ыг wouldn't-оор илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My son ___ wear a helmet. He says it looks silly.",
+   "answer": "won't",
+   "options": [
+    "won't",
+    "wouldn't",
+    "doesn't to",
+    "mustn't"
+   ],
+   "translation": "Хүү маань дуулга өмсөхгүй гэдэг. Тэнэг харагддаг гэж хэлдэг.",
+   "explain_en": "This is a present, ongoing refusal ('He says'), so won't is used.",
+   "explain_mn": "Одоо үргэлжилж буй татгалзал (He says) тул won't хэрэглэнэ. «doesn't to» гэж хэлдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "I tried everything, but the lock ___ open.",
+   "answer": "wouldn't",
+   "options": [
+    "wouldn't",
+    "won't",
+    "mustn't",
+    "hadn't"
+   ],
+   "translation": "Би бүх аргаа хэрэглэсэн ч цоож онгойхгүй байсан.",
+   "explain_en": "'I tried' is past, and the lock 'refused' to open, so wouldn't is correct.",
+   "explain_mn": "«I tried» өнгөрсөн цаг, цоож «онгойхыг зөвшөөрөөгүй» тул wouldn't зөв."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Улаанбаатарт скүүтер нэмэх хэрэгтэй гэж бодож байна уу?",
+   "en": "Do you think Ulaanbaatar needs more scooters?",
+   "mn_latin": "Ulaanbaatart sküütyer nemekh kheregtei gej bodoj baina uu?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Үгүй ээ. Өчигдөр орц руугаа орох гэтэл хаалганы өмнө гурван скүүтер хэвтэж байсан.",
+   "en": "No. Yesterday I was about to go into my building, and there were three scooters lying in front of the door.",
+   "mn_latin": "Ügüi ee. Öchigdör orts ruugaa orokh getel khaalgany ömnö gurvan sküütyer khevtej baisan."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Энэ скүүтерийн буруу биш, журам дутуу байгаагаас болж байна.",
+   "en": "That's not the scooters' fault. It's because the rules are incomplete.",
+   "mn_latin": "Ene sküütyeriin buruu bish, juram dutuu baigaagaas bolj baina."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Компанид гомдол гаргах гэхээр утсаа авдаггүй. Тэд ямар ч хариуцлага хүлээхгүй.",
+   "en": "Whenever I try to file a complaint with the company, they don't pick up. They won't take any responsibility.",
+   "mn_latin": "Kompanid gomdol gargakh gekheer utsaa avdaggüi. Ted yamar ch khariutslaga khüleekhgüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тиймээс тусгай зогсоол бий болгож, буруу орхисон хэрэглэгчийг торгох хэрэгтэй.",
+   "en": "That's why we need designated parking spots and fines for users who leave scooters in the wrong place.",
+   "mn_latin": "Tiimees tusgai zogsool bii bolgoj, buruu orkhison khereglegchiig torgokh kheregtei."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Бичил тээвэр түгжрэлийг бууруулна гэдэгтэй санал нийлж байна. Гэхдээ эхлээд журмаа сайжруулах хэрэгтэй.",
+   "en": "I agree that micro-mobility can reduce traffic jams. But first the rules need to be sorted out.",
+   "mn_latin": "Bichil teever tügjreliig buuruulna gedegtei sanal niilj baina. Gekhdee ekhleed jurmaa saijruulakh kheregtei."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, тэгвэл хотын захиргаанд хамтдаа санал бичье.",
+   "en": "OK, then let's write a proposal to the city government together.",
+   "mn_latin": "Za, tegvel khotyn zakhirgaand khamtdaa sanal bichiye."
+  }
+ ],
+ "culture_note": {
+  "en": "Shared e-scooters have become a common sight in Ulaanbaatar during the warm months, especially among students and young office workers trying to beat the city's heavy traffic. Because winters are long and icy, the riding season is short, and narrow sidewalks that cars also park on make 'where do scooters go?' a hot topic.",
+  "mn": "Сүүлийн жилүүдэд Улаанбаатарт дулааны улиралд түрээсийн цахилгаан скүүтер түгээмэл болсон бөгөөд ялангуяа оюутнууд болон залуу ажилчид хотын түгжрэлээс зугтах гэж ихэвчлэн унадаг. Өвөл урт, мөстэй тул унах улирал богино. Мөн машин зогсдог нарийхан явган хүний замууд байдаг учраас «скүүтерийг хаана байршуулах вэ?» гэдэг асуудал халуун сэдэв болжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, natural lesson with accurate grammar explanations. One fill-in-the-blank had a second valid option, and two phrasings needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 3,
+  "notes": "The main problem was that the grammar explanations covered different topics in en and mn. The rest needed only a minor wording fix.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; now both cover both"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "match en version: cover both grammar points"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "бий болгох is the standard verb for setting up parking spots"
+   }
+  ]
+ }
+}

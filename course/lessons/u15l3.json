@@ -1,0 +1,539 @@
+{
+ "intro_en": "You will learn to describe symptoms like fever, cough, and dizziness, and to tell a family member how you feel. You will also practice questions and negatives with the present continuous.",
+ "intro_mn": "Та халуурах, ханиалгах, толгой эргэх зэрэг шинж тэмдгээ тайлбарлаж, гэр бүлийнхэндээ биеийн байдлаа хэлж сурна. Мөн одоо үргэлжлэх цагийн асуух болон үгүйсгэх хэлбэрийг давтана.",
+ "vocab": [
+  {
+   "mn": "халуурах",
+   "en": "to have a fever",
+   "pos": "verb",
+   "example_mn": "Миний хүү халуурч байна.",
+   "example_en": "My son has a fever.",
+   "mn_latin": "khaluurakh"
+  },
+  {
+   "mn": "ханиалгах",
+   "en": "to cough",
+   "pos": "verb",
+   "example_mn": "Би шөнөжин ханиалгасан.",
+   "example_en": "I coughed all night.",
+   "mn_latin": "khanialgakh"
+  },
+  {
+   "mn": "найтаах",
+   "en": "to sneeze",
+   "pos": "verb",
+   "example_mn": "Ээж байнга найтааж байна.",
+   "example_en": "Mom is sneezing all the time.",
+   "mn_latin": "naitaakh"
+  },
+  {
+   "mn": "толгой эргэх",
+   "en": "to feel dizzy",
+   "pos": "verb phrase",
+   "example_mn": "Миний толгой эргэж байна.",
+   "example_en": "I feel dizzy.",
+   "mn_latin": "tolgoi ergekh"
+  },
+  {
+   "mn": "дотор муухайрах",
+   "en": "to feel nauseous",
+   "pos": "verb phrase",
+   "example_mn": "Дотор муухайрч байна.",
+   "example_en": "I feel nauseous.",
+   "mn_latin": "dotor muukhairakh"
+  },
+  {
+   "mn": "ядрах",
+   "en": "to be tired, worn out",
+   "pos": "verb",
+   "example_mn": "Би маш их ядарсан.",
+   "example_en": "I am very worn out.",
+   "mn_latin": "yadrakh"
+  },
+  {
+   "mn": "шинж тэмдэг",
+   "en": "symptom",
+   "pos": "noun",
+   "example_mn": "Танд ямар шинж тэмдэг байна вэ?",
+   "example_en": "What symptoms do you have?",
+   "mn_latin": "shinj temdeg"
+  },
+  {
+   "mn": "мэдрэмж",
+   "en": "feeling",
+   "pos": "noun",
+   "example_mn": "Надад хачин мэдрэмж төрж байна.",
+   "example_en": "I have a strange feeling.",
+   "mn_latin": "medremj"
+  },
+  {
+   "mn": "ухаан алдах",
+   "en": "to faint",
+   "pos": "verb phrase",
+   "example_mn": "Өвөө маань ухаан алдах гээд байна.",
+   "example_en": "Grandpa is about to faint.",
+   "mn_latin": "ukhaan aldakh"
+  },
+  {
+   "mn": "өвдөх",
+   "en": "to hurt, be sore",
+   "pos": "verb",
+   "example_mn": "Миний хоолой өвдөж байна.",
+   "example_en": "My throat is sore.",
+   "mn_latin": "övdökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Чи халуурч байна уу?",
+   "en": "Are you running a fever?",
+   "alt_mn": [
+    "Та халуурч байна уу?"
+   ],
+   "alt_en": [
+    "Do you have a fever?"
+   ],
+   "mn_latin": "Chi khaluurch baina uu?"
+  },
+  {
+   "mn": "Би халуурч байгаа юм биш.",
+   "en": "I don't have a fever.",
+   "alt_mn": [
+    "Би халуураагүй байна."
+   ],
+   "alt_en": [
+    "I'm not running a fever."
+   ],
+   "mn_latin": "Bi khaluurch baigaa yum bish."
+  },
+  {
+   "mn": "Чи ханиалгаж байна уу?",
+   "en": "Are you coughing?",
+   "alt_mn": [
+    "Та ханиалгаж байна уу?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Chi khanialgaj baina uu?"
+  },
+  {
+   "mn": "Би сайн унтаж чадахгүй байна.",
+   "en": "I'm not sleeping well.",
+   "alt_mn": [
+    "Би сайн унтаж чадахгүй байгаа."
+   ],
+   "alt_en": [
+    "I am not sleeping well."
+   ],
+   "mn_latin": "Bi sain untaj chadakhgüi baina."
+  },
+  {
+   "mn": "Миний толгой эргэж байна.",
+   "en": "I feel dizzy.",
+   "alt_mn": [
+    "Толгой эргэж байна."
+   ],
+   "alt_en": [
+    "I'm feeling dizzy."
+   ],
+   "mn_latin": "Minii tolgoi ergej baina."
+  },
+  {
+   "mn": "Таны дотор муухайрч байна уу?",
+   "en": "Do you feel nauseous?",
+   "alt_mn": [
+    "Чиний дотор муухайрч байна уу?"
+   ],
+   "alt_en": [
+    "Are you feeling nauseous?"
+   ],
+   "mn_latin": "Tany dotor muukhairch baina uu?"
+  },
+  {
+   "mn": "Өнөөдөр би их ядарч байна.",
+   "en": "I feel very tired today.",
+   "alt_mn": [
+    "Би өнөөдөр маш их ядарсан."
+   ],
+   "alt_en": [
+    "I'm very tired today."
+   ],
+   "mn_latin": "Önöödör bi ikh yadarch baina."
+  },
+  {
+   "mn": "Надад халуун байхгүй.",
+   "en": "I don't have a fever.",
+   "alt_mn": [
+    "Надад халуурах шинж байхгүй."
+   ],
+   "alt_en": [
+    "I have no fever."
+   ],
+   "mn_latin": "Nadad khaluun baikhgüi."
+  },
+  {
+   "mn": "Дүү чинь найтааж байна уу?",
+   "en": "Is your younger brother or sister sneezing?",
+   "alt_mn": [
+    "Дүү чинь найтаагаад байна уу?"
+   ],
+   "alt_en": [
+    "Is your little brother sneezing?",
+    "Is your younger sister sneezing?"
+   ],
+   "mn_latin": "Düü chini naitaaj baina uu?"
+  },
+  {
+   "mn": "Ээж ханиалгаж байгаа юм биш, зүгээр л хоолой нь загатнаж байна.",
+   "en": "Mom isn't coughing; her throat just feels scratchy.",
+   "alt_mn": [],
+   "alt_en": [
+    "Mom is not coughing; her throat just feels scratchy."
+   ],
+   "mn_latin": "Eej khanialgaj baigaa yum bish, zügeer l khooloi ni zagatnaj baina."
+  },
+  {
+   "mn": "Чиний бие ямар байна?",
+   "en": "How are you feeling?",
+   "alt_mn": [
+    "Чи өнөөдөр ямар байна?"
+   ],
+   "alt_en": [
+    "How do you feel?"
+   ],
+   "mn_latin": "Chinii biye yamar baina?"
+  },
+  {
+   "mn": "Миний бие тааруу байна, гэхдээ ухаан алдах гээд байгаа юм биш.",
+   "en": "I don't feel well, but I'm not about to faint.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm not feeling well, but I'm not going to faint."
+   ],
+   "mn_latin": "Minii biye taaruu baina, gekhdee ukhaan aldakh geed baigaa yum bish."
+  }
+ ],
+ "grammar": {
+  "title_en": "Questions and negatives with -ж байна",
+  "title_mn": "Одоо үргэлжлэх цагийн асуух ба үгүйсгэх хэлбэр",
+  "explain_en": "In Mongolian, the ongoing action is verb stem + -ж/-ч + байна (халуурч байна = is having a fever). To ask a yes/no question, add уу/үү after байна: Ханиалгаж байна уу? To deny that something is happening (It is not the case that...), use -ж байгаа юм биш: Би ханиалгаж байгаа юм биш. To say you don't have something, use байхгүй: Надад халуун байхгүй. In English, the present continuous is am/is/are + V-ing: I am coughing. Questions put the be verb first: Are you coughing? Negatives add not after be: I'm not sleeping well. For feelings, use feel + adjective: I feel dizzy. After feel, use an adjective, not an adverb: I feel bad (not feel badly).",
+  "explain_mn": "Монгол хэлэнд одоо үргэлжлэх үйлдлийг үйл үгийн үндэс + -ж/-ч + байна гэж хэлнэ: халуурч байна. Асуухдаа байна-ын ард уу/үү нэмнэ: Ханиалгаж байна уу? Тухайн үйлдэл болж байгааг үгүйсгэхдээ (тийм юм биш гэсэн утгаар) -ж байгаа юм биш гэнэ: Би ханиалгаж байгаа юм биш. Ямар нэг зүйл байхгүй гэдгийг «байхгүй» гэж хэлнэ: Надад халуун байхгүй. Англи хэлэнд одоо үргэлжлэх цагийг am/is/are + V-ing гэж үүсгэнэ: I am coughing. Асуухдаа be үйл үгийг өмнө нь гаргана: Are you coughing? Үгүйсгэхдээ be-ийн ард not нэмнэ: I'm not sleeping well. Мэдрэмжийг feel + тэмдэг нэр гэж хэлнэ: I feel dizzy. Feel-ийн дараа дайвар үг биш тэмдэг нэр хэрэглэнэ: I feel bad (feel badly биш).",
+  "examples": [
+   {
+    "mn": "Чи ханиалгаж байна уу?",
+    "en": "Are you coughing?",
+    "mn_latin": "Chi khanialgaj baina uu?"
+   },
+   {
+    "mn": "Би сайн унтаж чадахгүй байна.",
+    "en": "I'm not sleeping well.",
+    "mn_latin": "Bi sain untaj chadakhgüi baina."
+   },
+   {
+    "mn": "Надад халуун байхгүй.",
+    "en": "I don't have a fever.",
+    "mn_latin": "Nadad khaluun baikhgüi."
+   },
+   {
+    "mn": "Дотор муухайрч байна.",
+    "en": "I feel nauseous.",
+    "mn_latin": "Dotor muukhairch baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Чи ханиалгаж байна ___?",
+   "answer": "уу",
+   "options": [
+    "уу",
+    "үү",
+    "вэ",
+    "бэ"
+   ],
+   "translation": "Are you coughing?",
+   "explain_en": "After байна, the yes/no question particle is уу (with back vowels); үү is used after front-vowel words.",
+   "explain_mn": "Тийм/үгүй гэж асуух үед «байна» гэсний ард «уу» хэрэглэнэ (эгшгийн зохицлоор). «үү» нь өмнөх эгшигтэй үгийн ард орно. «вэ/бэ» нь асуух үгтэй хамт ордог."
+  },
+  {
+   "lang": "mn",
+   "text": "Би халуурч байгаа юм ___.",
+   "answer": "биш",
+   "options": [
+    "биш",
+    "байхгүй",
+    "үгүй",
+    "бол"
+   ],
+   "translation": "I don't have a fever.",
+   "explain_en": "-ж байгаа юм биш negates an ongoing action; биш closes the pattern.",
+   "explain_mn": "«-ж байгаа юм» бүтцийг үгүйсгэхдээ «биш» гэж төгсгөнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Надад халуун ___.",
+   "answer": "байхгүй",
+   "options": [
+    "байхгүй",
+    "биш",
+    "байгаа юм биш",
+    "үгүй байна"
+   ],
+   "translation": "I don't have a fever.",
+   "explain_en": "To say you do not have something, use байхгүй after the noun.",
+   "explain_mn": "Ямар нэгэн зүйл байхгүй гэдгийг «байхгүй» гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ you coughing?",
+   "answer": "Are",
+   "options": [
+    "Are",
+    "Is",
+    "Do",
+    "Am"
+   ],
+   "translation": "Чи ханиалгаж байна уу?",
+   "explain_en": "Present continuous questions start with am/is/are. With 'you' use are.",
+   "explain_mn": "Одоо үргэлжлэх цагийн асуултад «you»-тэй хамт «are» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I'm ___ sleeping well.",
+   "answer": "not",
+   "options": [
+    "not",
+    "no",
+    "don't",
+    "isn't"
+   ],
+   "translation": "Би сайн унтаж чадахгүй байна.",
+   "explain_en": "Make the negative with am/is/are + not: I'm not sleeping.",
+   "explain_mn": "Үгүйсгэхдээ be үйл үгийн ард «not» тавина: I'm not sleeping."
+  },
+  {
+   "lang": "en",
+   "text": "I feel ___ today. I need rest.",
+   "answer": "tired",
+   "options": [
+    "tired",
+    "tiredly",
+    "tire",
+    "tiring"
+   ],
+   "translation": "Би өнөөдөр ядарч байна. Надад амрах хэрэгтэй.",
+   "explain_en": "After feel, use an adjective: tired.",
+   "explain_mn": "«feel»-ийн ард тэмдэг нэр орно: tired."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ээж",
+   "mn": "Болд, чи өнөөдөр яасан бэ? Халуурч байна уу?",
+   "en": "Bold, what's wrong today? Do you have a fever?",
+   "mn_latin": "Bold, chi önöödör yaasan be? Khaluurch baina uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Үгүй ээ, халуурч байгаа юм биш. Гэхдээ толгой эргэж байна.",
+   "en": "No, I don't have a fever. But I feel dizzy.",
+   "mn_latin": "Ügüi ee, khaluurch baigaa yum bish. Gekhdee tolgoi ergej baina."
+  },
+  {
+   "speaker": "Ээж",
+   "mn": "Ханиалгаж байна уу?",
+   "en": "Are you coughing?",
+   "mn_latin": "Khanialgaj baina uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Бага зэрэг. Бас найтааж байна.",
+   "en": "A little. And I'm sneezing too.",
+   "mn_latin": "Baga zereg. Bas naitaaj baina."
+  },
+  {
+   "speaker": "Ээж",
+   "mn": "Дотор муухайрч байна уу?",
+   "en": "Do you feel nauseous?",
+   "mn_latin": "Dotor muukhairch baina uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм ээ, бас их ядарч байна. Шөнө сайн унтаж чадсангүй.",
+   "en": "Yes, and I feel very tired. I couldn't sleep well last night.",
+   "mn_latin": "Tiim ee, bas ikh yadarch baina. Shönö sain untaj chadsangüi."
+  },
+  {
+   "speaker": "Ээж",
+   "mn": "За, өнөөдөр гэртээ амар. Би эмчид залгая.",
+   "en": "Okay, rest at home today. I'll call the doctor.",
+   "mn_latin": "Za, önöödör gertee amar. Bi emchid zalgaya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian families, parents and grandparents often care for a sick person with warm tea, soup, and plenty of rest. Many people drink hot milk tea or broth made with mutton when they have a cold. Still, in Ulaanbaatar people usually visit a clinic if a fever or dizziness lasts more than a day or two.",
+  "mn": "Монгол айлд хүн өвдөхөд ээж аав, өвөө эмээ нь халуун цай, шөл ууж, тайван амрахыг зөвлөдөг. Ханиад хүрэхэд халуун сүүтэй цай, хонины махтай шөл элбэг уудаг. Гэхдээ Улаанбаатарт халуурах, толгой эргэх нь нэг хоёр хоногоос илүү үргэлжилбэл эмнэлэгт үзүүлдэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 22,
+  "notes": "Several vocabulary items are unnatural or wrong (эмзэг, ухаан муутах, уйтгартай for scratchy); the negative past alt and some explanations also need correction."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 25,
+  "notes": "Replaced the non-standard 'дотор муухай оргих' and the made-up 'ухаан муутах', fixed calques, and aligned the grammar explanations.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'өөрийн мэдрэмжийг хэлэх' is a calque; the mn intro also needs to match the en intro."
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "'Надад толгой эргэж байна' is unnatural."
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "mn",
+    "why": "'дотор муухай оргих' is not standard; the standard verb is дотор муухайрах."
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "Uses the standard verb."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "'Таны мэдрэмж хэр байна' is an unnatural calque."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_en",
+    "why": "Matches the new example."
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "en",
+    "why": "ухаан алдах means to faint (lose consciousness), not to feel faint."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "'сайн унтаж байгаа юм биш' is unnatural."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "Natural alternative."
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "Natural form."
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "Natural alternative."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "Uses the standard verb."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "Uses the standard verb."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "Fixes the comma splice."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "'өөрийгөө хэрхэн мэдэрч байна' is a calque."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "'ухаан муутаж' is not a real form; 'сайн биш байна' is a calque."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "en",
+    "why": "Matches the Mongolian."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_en",
+    "why": "Matches the meaning."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Removes the unnatural Надад + symptom claim and aligns with the mn version."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Aligns with the en version."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "Natural form."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Uses the standard verb."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Aligns with explain_en."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Natural translation."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Uses the standard verb."
+   }
+  ]
+ }
+}

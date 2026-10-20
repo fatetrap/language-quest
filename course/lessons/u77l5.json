@@ -1,0 +1,498 @@
+{
+ "intro_en": "You will learn to discuss family customs, respect for elders and personal freedom at an advanced level. You will also practice persuasive Mongolian with -хгүй гэж үү, яах юм бэ and -х биш гэж, and English 'as it were' and 'it's time + past'.",
+ "intro_mn": "Та гэр бүлийн уламжлал, ахмадыг хүндлэх явдал, хувь хүний эрх чөлөөний талаар өндөр түвшинд ярилцаж сурна. Мөн монгол хэлний -хгүй гэж үү, яах юм бэ, -х биш гэж хэлбэрүүд болон англи хэлний 'as it were', 'it's time + past' бүтцийг хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "уламжлал",
+   "en": "tradition",
+   "pos": "noun",
+   "example_mn": "Цагаан сарын уламжлалыг хадгалах хэрэгтэй.",
+   "example_en": "We need to preserve the Tsagaan Sar tradition.",
+   "mn_latin": "ulamjlal"
+  },
+  {
+   "mn": "хүндэтгэл",
+   "en": "respect",
+   "pos": "noun",
+   "example_mn": "Ахмадад хүндэтгэл үзүүлэх нь чухал.",
+   "example_en": "Showing respect to elders is important.",
+   "mn_latin": "khündetgel"
+  },
+  {
+   "mn": "эрх чөлөө",
+   "en": "freedom",
+   "pos": "noun",
+   "example_mn": "Залуус өөрсдийн эрх чөлөөг эрхэмлэдэг.",
+   "example_en": "Young people value their own freedom.",
+   "mn_latin": "erkh chölöö"
+  },
+  {
+   "mn": "нийтийн ашиг",
+   "en": "public interest",
+   "pos": "noun phrase",
+   "example_mn": "Тэр нийтийн ашгийн төлөө ажилладаг.",
+   "example_en": "He works for the public interest.",
+   "mn_latin": "niitiin ashig"
+  },
+  {
+   "mn": "хувийн ашиг сонирхол",
+   "en": "personal interest",
+   "pos": "noun phrase",
+   "example_mn": "Хувийн ашиг сонирхлоо гэр бүлийнхээ ашиг сонирхлоос дээгүүр тавьж болохгүй.",
+   "example_en": "You shouldn't put your personal interests above your family's.",
+   "mn_latin": "khuviin ashig sonirkhol"
+  },
+  {
+   "mn": "тэвчээр",
+   "en": "patience",
+   "pos": "noun",
+   "example_mn": "Үе үеийн зөрүүг даван туулахад тэвчээр хэрэгтэй.",
+   "example_en": "Patience is needed to overcome generational gaps.",
+   "mn_latin": "tevcheer"
+  },
+  {
+   "mn": "төрөл садан",
+   "en": "relatives",
+   "pos": "noun",
+   "example_mn": "Төрөл садандаа тусалж байх нь монголчуудын заншил.",
+   "example_en": "Helping one's relatives is a Mongolian custom.",
+   "mn_latin": "töröl sadan"
+  },
+  {
+   "mn": "үүрэг хариуцлага",
+   "en": "obligation",
+   "pos": "noun phrase",
+   "example_mn": "Хүү хүний хувьд тэр эцэг эхийнхээ өмнө үүрэг хариуцлага хүлээдэг.",
+   "example_en": "He has an obligation toward his parents as their son.",
+   "mn_latin": "üüreg khariutslaga"
+  },
+  {
+   "mn": "зөрчилдөх",
+   "en": "to clash",
+   "pos": "verb",
+   "example_mn": "Хоёр үеийн үзэл бодол зөрчилдөж байна.",
+   "example_en": "The views of the two generations are clashing.",
+   "mn_latin": "zörchildökh"
+  },
+  {
+   "mn": "орчин үеийн",
+   "en": "modern",
+   "pos": "adjective",
+   "example_mn": "Орчин үеийн үнэт зүйлс хурдан өөрчлөгдөж байна.",
+   "example_en": "Modern values are changing quickly.",
+   "mn_latin": "orchin üyeiin"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Уламжлал бол өнгөрсөн үеийн хүлээс биш, харин үндэс юм.",
+   "en": "Tradition is not a shackle from the past but a root.",
+   "alt_mn": [],
+   "alt_en": [
+    "Tradition is not a shackle of the past; it is a foundation."
+   ],
+   "mn_latin": "Ulamjlal bol öngörsön üyeiin khülees bish, kharin ündes yum."
+  },
+  {
+   "mn": "Ахмадаа хүндлэхгүй гэж үү? Бид зүгээр л өөрөөр илэрхийлдэг.",
+   "en": "Are we saying we don't respect our elders? We simply express it differently.",
+   "alt_mn": [],
+   "alt_en": [
+    "Are we saying we don't respect elders? We just show it differently."
+   ],
+   "mn_latin": "Akhmadaa khündlekhgüi gej üü? Bid zügeer l ööröör ilerkhiildeg."
+  },
+  {
+   "mn": "Хүн бүр өөрийн замаа сонгох эрхгүй гэж үү?",
+   "en": "Doesn't everyone have the right to choose their own path?",
+   "alt_mn": [],
+   "alt_en": [
+    "Isn't everyone entitled to choose their own path?"
+   ],
+   "mn_latin": "Khün bür ööriin zamaa songokh erkhgüi gej üü?"
+  },
+  {
+   "mn": "Хувийн ашиг сонирхлоо л бодвол яах юм бэ, нийгэм задарна.",
+   "en": "If everyone thinks only of personal interest, what then? Society will fall apart.",
+   "alt_mn": [],
+   "alt_en": [
+    "If everyone thinks only about their own interests, what good is that? Society will fall apart."
+   ],
+   "mn_latin": "Khuviin ashig sonirkhloo l bodvol yaakh yum be, niigem zadarna."
+  },
+  {
+   "mn": "Төрөл садангаа орхих биш гэж ээж маань үргэлж хэлдэг.",
+   "en": "My mother always says one must not abandon one's relatives.",
+   "alt_mn": [
+    "Төрөл садангаа орхих биш гэж ээж маань байнга хэлдэг."
+   ],
+   "alt_en": [
+    "My mom always says you shouldn't turn your back on your relatives."
+   ],
+   "mn_latin": "Töröl sadangaa orkhikh bish gej eej maani ürgelj kheldeg."
+  },
+  {
+   "mn": "Эрх чөлөө гэдэг үүрэг хариуцлагаас зугтах гэсэн үг биш.",
+   "en": "Freedom does not mean escaping responsibility.",
+   "alt_mn": [],
+   "alt_en": [
+    "Freedom doesn't mean running away from obligation."
+   ],
+   "mn_latin": "Erkh chölöö gedeg üüreg khariutslagaas zugtakh gesen üg bish."
+  },
+  {
+   "mn": "Эцэг эхийнхээ үгийг сонсохгүй гэж үү? Сонсоно, гэхдээ эцсийн шийдвэрийг би гаргана.",
+   "en": "Am I refusing to listen to my parents? No, but I will make the final decision.",
+   "alt_mn": [],
+   "alt_en": [
+    "Are you saying I won't listen to my parents? I will, but the final decision is mine."
+   ],
+   "mn_latin": "Etseg ekhiinkhee ügiig sonsokhgüi gej üü? Sonsono, gekhdee etssiin shiidveriig bi gargana."
+  },
+  {
+   "mn": "Үе үеийн зөрүүг даван туулахад тэвчээр хамгийн чухал.",
+   "en": "Patience is the most important thing in bridging generational gaps.",
+   "alt_mn": [],
+   "alt_en": [
+    "Patience matters most in overcoming generational differences."
+   ],
+   "mn_latin": "Üye üyeiin zörüüg davan tuulakhad tevcheer khamgiin chukhal."
+  },
+  {
+   "mn": "Нийтийн ашиг ба хувийн эрх чөлөөний хооронд тэнцвэр олох цаг болсон.",
+   "en": "It's time we found a balance between public interest and personal freedom.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's time we struck a balance between the public interest and individual freedom."
+   ],
+   "mn_latin": "Niitiin ashig ba khuviin erkh chölöönii khoorond tentsver olokh tsag bolson."
+  },
+  {
+   "mn": "Энэ уламжлал бол нэг ёсондоо бидний хоорондын гүүр юм.",
+   "en": "This tradition is, as it were, a bridge between us.",
+   "alt_mn": [],
+   "alt_en": [
+    "This tradition is a kind of bridge between us, so to speak."
+   ],
+   "mn_latin": "Ene ulamjlal bol neg yosondoo bidnii khoorondyn güür yum."
+  },
+  {
+   "mn": "Бид орчин үеийн үнэт зүйлстэй зөрчилдөх биш, харин хослуулах хэрэгтэй.",
+   "en": "We should not clash with modern values but combine them with tradition.",
+   "alt_mn": [],
+   "alt_en": [
+    "Rather than clash with modern values, we should combine them."
+   ],
+   "mn_latin": "Bid orchin üyeiin ünet züilstei zörchildökh bish, kharin khosluulakh kheregtei."
+  },
+  {
+   "mn": "Өвөөг маань буруу байсан гэж бид хэлэх гэж байна уу? Магадгүй үгүй, гэхдээ цаг үе өөрчлөгдсөн.",
+   "en": "Are we saying Grandpa was wrong? Maybe not, but times have changed.",
+   "alt_mn": [],
+   "alt_en": [
+    "Times have changed, even if we can't say Grandpa was wrong."
+   ],
+   "mn_latin": "Övöög maani buruu baisan gej bid khelekh gej baina uu? Magadgüi ügüi, gekhdee tsag üye öörchlögdsön."
+  }
+ ],
+ "grammar": {
+  "title_en": "Three rhetorical patterns in a persuasive speech",
+  "title_mn": "Ятгах илтгэл дэх гурван риторик хэлбэр",
+  "explain_en": "Mongolian speakers build persuasion by stacking three patterns. (1) Verb-хгүй гэж үү? is a rhetorical question, 'are you saying (we) don't…?': Хүндлэхгүй гэж үү? (2) …яах юм бэ? asks 'what's the use / what then?': Эрх чөлөөтэй ч гэр бүлгүй бол яах юм бэ? (3) Verb-х биш гэж reports a rule or reproach, 'one shouldn't…': Орхих биш гэж ээж хэлдэг. A strong speech might open with a challenge (-хгүй гэж үү), show the cost (яах юм бэ), and close with a principle (-х биш гэж). In English, similar arguments use the softener 'as it were' (so to speak) and 'It's time + past tense'. 'It's time we talked' has a past form but present meaning: 'it's time to talk'. Example: It's time we respected both tradition and freedom. 'As it were' goes mid-sentence and softens a metaphor: He is, as it were, the head of the family.",
+  "explain_mn": "Монгол хэлэнд ятгахдаа гурван хэлбэрийг давхарлан хэрэглэдэг. (1) Үйл үг-хгүй гэж үү? нь «…гэж хэлэх гээд байна уу?» гэсэн риторик асуулт: Хүндлэхгүй гэж үү? (2) …яах юм бэ? нь «ямар хэрэгтэй юм бэ, тэгээд яах вэ?» гэсэн утгатай: Эрх чөлөөтэй ч гэр бүлгүй бол яах юм бэ? (3) Үйл үг-х биш гэж нь «…хийж болохгүй» гэсэн дүрэм, зэмлэлийг дамжуулна: Орхих биш гэж ээж хэлдэг. Сайн илтгэл сорилтоор (-хгүй гэж үү) эхэлж, үр дагаврыг (яах юм бэ) харуулаад, зарчмаар (-х биш гэж) төгсөж болно. Англи хэлэнд ижил төстэй аргументад 'as it were' (нэг ёсондоо, ингэж хэлэхэд) гэсэн зөөлрүүлэгч хэллэг, мөн 'It's time + өнгөрсөн цаг' бүтэц хэрэглэнэ. 'It's time we talked' нь өнгөрсөн цагийн хэлбэртэй ч одоогийн утгатай бөгөөд 'ярих цаг болсон' гэсэн үг. Жишээ: It's time we respected both tradition and freedom. 'As it were' нь өгүүлбэрийн дунд орж, зүйрлэлийг зөөлрүүлнэ: He is, as it were, the head of the family.",
+  "examples": [
+   {
+    "mn": "Ахмадаа хүндлэхгүй гэж үү? Бид зүгээр л өөр аргаар хүндэлдэг.",
+    "en": "Do we not respect our elders? We just honor them in a different way.",
+    "mn_latin": "Akhmadaa khündlekhgüi gej üü? Bid zügeer l öör argaar khündeldeg."
+   },
+   {
+    "mn": "Хэн ч чамайг ойлгохгүй бол эрх чөлөөг яах юм бэ?",
+    "en": "What good is freedom if nobody understands you?",
+    "mn_latin": "Khen ch chamaig oilgokhgüi bol erkh chölöög yaakh yum be?"
+   },
+   {
+    "mn": "Төрөл садангаа мартах биш гэж өвөө минь захидаг.",
+    "en": "My grandfather advises that one must not forget one's relatives.",
+    "mn_latin": "Töröl sadangaa martakh bish gej övöö mini zakhidag."
+   },
+   {
+    "mn": "Уламжлал бол нэг ёсондоо амьд биет юм.",
+    "en": "Tradition is, as it were, a living thing.",
+    "mn_latin": "Ulamjlal bol neg yosondoo amid biyet yum."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бид ахмадаа хүндлэх___ гэж үү?",
+   "answer": "гүй",
+   "options": [
+    "гүй",
+    "биш",
+    "лаа",
+    "сан"
+   ],
+   "translation": "Do we not respect our elders?",
+   "explain_en": "The rhetorical pattern is verb stem + -хгүй гэж үү?, so the negative suffix гүй completes it.",
+   "explain_mn": "Риторик асуулт нь үйлийн язгуур + -хгүй гэж үү хэлбэртэй тул «гүй» нөхнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Гэр бүлгүй бол эрх чөлөөг ___ юм бэ?",
+   "answer": "яах",
+   "options": [
+    "яах",
+    "хэзээ",
+    "хаана",
+    "хэн"
+   ],
+   "translation": "What good is freedom without a family?",
+   "explain_en": "яах юм бэ is the fixed phrase meaning 'what's the use / what then?'.",
+   "explain_mn": "«Яах юм бэ» нь «ямар хэрэгтэй вэ» гэсэн тогтвортой хэллэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Төрөл садангаа орхи___ биш гэж ээж хэлдэг.",
+   "answer": "х",
+   "options": [
+    "х",
+    "но",
+    "ж",
+    "ва"
+   ],
+   "translation": "My mother says one must not abandon one's relatives.",
+   "explain_en": "The pattern is verb stem + -х биш гэж, so the participle suffix х is needed.",
+   "explain_mn": "«-х биш гэж» хэлбэрт үйлийн язгуурт «х» дагавар залгана."
+  },
+  {
+   "lang": "en",
+   "text": "It's time we ___ our parents about our plans.",
+   "answer": "told",
+   "options": [
+    "told",
+    "tell",
+    "telling",
+    "will tell"
+   ],
+   "translation": "Бид эцэг эхдээ төлөвлөгөөгөө хэлэх цаг болсон.",
+   "explain_en": "'It's time + subject + past simple' refers to the present or future; the past form shows urgency.",
+   "explain_mn": "«It's time + хүн + өнгөрсөн цаг» нь одоогийн утгатай бөгөөд «хийх цаг болсон» гэсэн яаралтай санааг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "This custom is, ___, the glue of our family.",
+   "answer": "as it were",
+   "options": [
+    "as it were",
+    "as it is",
+    "so it was",
+    "as was it"
+   ],
+   "translation": "Энэ заншил бол нэг ёсондоо манай гэр бүлийн наалдац юм.",
+   "explain_en": "'As it were' softens a figurative statement, meaning 'so to speak'.",
+   "explain_mn": "«As it were» нь зүйрлэлийг зөөлрүүлж «ингэж хэлэхэд» гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "It's high time he ___ his own decisions.",
+   "answer": "made",
+   "options": [
+    "made",
+    "makes",
+    "make",
+    "making"
+   ],
+   "translation": "Тэр өөрөө шийдвэрээ гаргадаг болох цаг аль хэдийн болсон.",
+   "explain_en": "After 'It's (high) time' with a subject, use the past simple: made.",
+   "explain_mn": "«It's high time»-ийн араас үйлийн эзэн орвол өнгөрсөн цагийн хэлбэр «made» хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Өвөө, би зуны амралтаар хөдөө очихгүй, хотод дадлага хийнэ.",
+   "en": "Grandpa, I won't go to the countryside this summer; I'll do an internship in the city.",
+   "mn_latin": "Övöö, bi zuny amraltaar khödöö ochikhgüi, khotod dadlaga khiine."
+  },
+  {
+   "speaker": "Өвөө",
+   "mn": "Төрөл садангаа мартах биш гэж би чамд хэлсэн шүү дээ.",
+   "en": "I told you that one must not forget one's relatives.",
+   "mn_latin": "Töröl sadangaa martakh bish gej bi chamd khelsen shüü dee."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Би тэднийг мартахгүй гэж үү? Гэхдээ миний ирээдүй бас чухал.",
+   "en": "Do you think I won't remember them? But my future matters too.",
+   "mn_latin": "Bi tedniig martakhgüi gej üü? Gekhdee minii ireedüi bas chukhal."
+  },
+  {
+   "speaker": "Өвөө",
+   "mn": "Хувийн ашиг сонирхлоо л бодвол гэр бүл яах юм бэ?",
+   "en": "If you only think of your own interests, what becomes of the family?",
+   "mn_latin": "Khuviin ashig sonirkhloo l bodvol ger bül yaakh yum be?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Эрх чөлөө гэдэг үүргээс зугтах гэсэн үг биш. Би сард нэг очно.",
+   "en": "Freedom doesn't mean escaping duty. I'll visit once a month.",
+   "mn_latin": "Erkh chölöö gedeg üürgees zugtakh gesen üg bish. Bi sard neg ochno."
+  },
+  {
+   "speaker": "Өвөө",
+   "mn": "Хөдөөгийн айл бол нэг ёсондоо чиний үндэс шүү.",
+   "en": "The family in the countryside is, as it were, your roots.",
+   "mn_latin": "Khödöögiin ail bol neg yosondoo chinii ündes shüü."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Мэднэ. Харин бид хоёр бие биенээ сонсох цаг болсон шүү.",
+   "en": "I know. But it's time we listened to each other.",
+   "mn_latin": "Medne. Kharin bid khoyor biye biyenee sonsokh tsag bolson shüü."
+  },
+  {
+   "speaker": "Өвөө",
+   "mn": "Тэвчээртэй байвал бид зөвшилцөнө, ач минь.",
+   "en": "If we're patient, we'll reach an agreement, my grandchild.",
+   "mn_latin": "Tevcheertei baival bid zövshiltsönö, ach mini."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian families, respect for elders and obligations to relatives, such as hosting guests at Tsagaan Sar and helping with weddings or funerals, remain central. Young people in Ulaanbaatar, however, often balance these duties with careers, studies and personal independence, so negotiating between generations calls for patience and tact.",
+  "mn": "Монгол гэр бүлд ахмадыг хүндлэх, төрөл садныхаа өмнө хүлээх үүрэг, тухайлбал Цагаан сараар зочин хүлээн авах, хурим, оршуулгад туслах зэрэг нь одоо ч чухал хэвээр байна. Гэвч Улаанбаатарын залуус эдгээр үүргээ ажил, сургууль, хувийн бие даасан байдалтайгаа зохицуулах шаардлагатай болдог тул үе хоорондын тохиролцоонд тэвчээр, ухаалаг харилцаа хэрэгтэй."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 16,
+  "notes": "Good concept, but several rhetorical-question translations are inconsistent with the Mongolian, and sentence 11 does not match its English; a few fixes are minor."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 20,
+  "notes": "Fixed nonstandard хүндлэл and the unnatural 'хэлэхэд' for 'as it were', made the grammar explanations match, and repaired the garbled sentence 11.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "standard word for 'respect' is хүндэтгэл"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "standard word"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "гэр бүлийнхээсээ is ungrammatical here"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "awkward 'Тэр хүү нь…-тай'; matches 'as their son'"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "en",
+    "why": "хүлээс means bond/shackle, not burden"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "bare 'хэлэхэд' is unnatural for 'as it were'"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "original double negative was garbled and did not match the English"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "match 'persuasive speech'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations must cover the same content"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "en and mn explanations must say the same thing"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "'өөрийг нь' is wrong here; accusative эрх чөлөөг is needed"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "natural equivalent of 'as it were'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "accusative case needed with яах"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'орхисон биш' could also be grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "bare 'хэлэхэд' is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'нэгэнт' is unnatural here"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "'хүн гарвал' is unclear"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "bare 'хэлэхэд' is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "the natural form of address is 'ач минь'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "match en: duties are examples of obligations; найр means feast, not wedding"
+   }
+  ]
+ }
+}

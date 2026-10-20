@@ -1,0 +1,404 @@
+{
+ "intro_en": "Learn to sort out who owns what in a shared kitchen: mugs, food, and chargers. You'll use хэнийх, минийх, чинийх, and түүнийх as predicates, and English whose questions with answers like mine and hers.",
+ "intro_mn": "Хамтын гал тогоонд аяга, хоол, цэнэглэгч хэнийх болохыг тодруулж сурна. Англи хэлээр whose гэж асууж, mine, hers гэх мэтээр хариулахад суралцана.",
+ "vocab": [
+  {
+   "mn": "хэнийх",
+   "en": "whose (one)",
+   "pos": "pronoun",
+   "example_mn": "Энэ аяга хэнийх вэ?",
+   "example_en": "Whose is this mug?",
+   "mn_latin": "kheniikh"
+  },
+  {
+   "mn": "минийх",
+   "en": "mine",
+   "pos": "pronoun",
+   "example_mn": "Цэнхэр нь минийх.",
+   "example_en": "The blue one is mine.",
+   "mn_latin": "miniikh"
+  },
+  {
+   "mn": "чинийх",
+   "en": "yours (informal)",
+   "pos": "pronoun",
+   "example_mn": "Энэ цэнэглэгч чинийх үү?",
+   "example_en": "Is this charger yours?",
+   "mn_latin": "chiniikh"
+  },
+  {
+   "mn": "түүнийх",
+   "en": "his / hers",
+   "pos": "pronoun",
+   "example_mn": "Тэр сүү түүнийх.",
+   "example_en": "That milk is hers.",
+   "mn_latin": "tüüniikh"
+  },
+  {
+   "mn": "аяга",
+   "en": "mug, cup",
+   "pos": "noun",
+   "example_mn": "Миний аяга хаана байна?",
+   "example_en": "Where is my mug?",
+   "mn_latin": "ayaga"
+  },
+  {
+   "mn": "цэнэглэгч",
+   "en": "charger",
+   "pos": "noun",
+   "example_mn": "Цэнэглэгч гал тогоонд үлдсэн байна.",
+   "example_en": "A charger was left in the kitchen.",
+   "mn_latin": "tseneglegch"
+  },
+  {
+   "mn": "хөргөгч",
+   "en": "fridge, refrigerator",
+   "pos": "noun",
+   "example_mn": "Хөргөгч дүүрчихсэн байна.",
+   "example_en": "The fridge is full.",
+   "mn_latin": "khörgögch"
+  },
+  {
+   "mn": "хамтын",
+   "en": "shared, common",
+   "pos": "adjective",
+   "example_mn": "Энэ тавиур хамтынх.",
+   "example_en": "This shelf is shared.",
+   "mn_latin": "khamtyn"
+  },
+  {
+   "mn": "хувийн",
+   "en": "personal, private",
+   "pos": "adjective",
+   "example_mn": "Хувийн юмаа өрөөндөө хадгалаарай.",
+   "example_en": "Please keep your personal things in your room.",
+   "mn_latin": "khuviin"
+  },
+  {
+   "mn": "хуваалцах",
+   "en": "to share",
+   "pos": "verb",
+   "example_mn": "Бид будаагаа хуваалцдаг.",
+   "example_en": "We share our rice.",
+   "mn_latin": "khuvaaltsakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хөргөгчид байгаа энэ сүү хэнийх вэ?",
+   "en": "Whose is this milk in the fridge?",
+   "alt_mn": [
+    "Хөргөгч дэх энэ сүү хэнийх вэ?"
+   ],
+   "alt_en": [
+    "Whose milk is this in the fridge?"
+   ],
+   "mn_latin": "Khörgögchid baigaa ene süü kheniikh ve?"
+  },
+  {
+   "mn": "Цэнхэр аяга минийх, харин ногоон нь Болдынх.",
+   "en": "The blue mug is mine, but the green one is Bold's.",
+   "alt_mn": [
+    "Цэнхэр аяга минийх, ногоон нь Болдынх."
+   ],
+   "alt_en": [
+    "The blue mug is mine, and the green one is Bold's."
+   ],
+   "mn_latin": "Tsenkher ayaga miniikh, kharin nogoon ni Boldynkh."
+  },
+  {
+   "mn": "Энэ цэнэглэгч чинийх үү, эсвэл Сараагийнх уу?",
+   "en": "Is this charger yours or Saraa's?",
+   "alt_mn": [
+    "Энэ цэнэглэгч чинийх үү, Сараагийнх уу?"
+   ],
+   "alt_en": [
+    "Does this charger belong to you or Saraa?"
+   ],
+   "mn_latin": "Ene tseneglegch chiniikh üü, esvel Saraagiinkh uu?"
+  },
+  {
+   "mn": "Тавиур дээрх будаа бүгдийнх, хэн ч хэрэглэж болно.",
+   "en": "The rice on the shelf is everyone's; anyone can use it.",
+   "alt_mn": [],
+   "alt_en": [
+    "The rice on the shelf belongs to everyone, so anyone can use it."
+   ],
+   "mn_latin": "Taviur deerkh budaa bügdiinkh, khen ch khereglej bolno."
+  },
+  {
+   "mn": "Энэ аяга түүнийх биш, түүний аяган дээр нэр нь бичээстэй байдаг.",
+   "en": "This mug isn't hers; her mug has her name written on it.",
+   "alt_mn": [],
+   "alt_en": [
+    "This mug isn't his; his mug has his name written on it."
+   ],
+   "mn_latin": "Ene ayaga tüüniikh bish, tüünii ayagan deer ner ni bicheestei baidag."
+  },
+  {
+   "mn": "Хэний цэнэглэгч гал тогоонд үлдсэн бэ?",
+   "en": "Whose charger was left in the kitchen?",
+   "alt_mn": [],
+   "alt_en": [
+    "Who left their charger in the kitchen?"
+   ],
+   "mn_latin": "Khenii tseneglegch gal togoond üldsen be?"
+  },
+  {
+   "mn": "Хэрэв энэ хуушуур таных биш бол битгий идээрэй.",
+   "en": "If this khuushuur isn't yours, please don't eat it.",
+   "alt_mn": [
+    "Энэ хуушуур таных биш бол битгий идээрэй."
+   ],
+   "alt_en": [
+    "If these khuushuur aren't yours, please don't eat them."
+   ],
+   "mn_latin": "Kherev ene khuushuur tanykh bish bol bitgii ideerei."
+  },
+  {
+   "mn": "Энэ бүх хоолны сав тэднийх, бид зүгээр л хадгалж байгаа.",
+   "en": "All these food containers are theirs; we're just keeping them.",
+   "alt_mn": [],
+   "alt_en": [
+    "These food containers all belong to them; we're just holding on to them."
+   ],
+   "mn_latin": "Ene bükh khoolny sav tedniikh, bid zügeer l khadgalj baigaa."
+  },
+  {
+   "mn": "Энэ халбага хэнийх болохыг мэдэхгүй байна.",
+   "en": "I don't know whose spoon this is.",
+   "alt_mn": [
+    "Энэ халбага хэнийх болохыг би мэдэхгүй."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ene khalbaga kheniikh bolokhyg medekhgüi baina."
+  },
+  {
+   "mn": "Хөргөгчийн дээд тавиур минийх, доод нь чинийх гэж тохиролцъё.",
+   "en": "Let's agree that the top shelf of the fridge is mine and the bottom one is yours.",
+   "alt_mn": [],
+   "alt_en": [
+    "Let's agree: the top fridge shelf is mine, and the bottom one is yours."
+   ],
+   "mn_latin": "Khörgögchiin deed taviur miniikh, dood ni chiniikh gej tokhiroltsyo."
+  },
+  {
+   "mn": "Энэ айраг манайх, ээж хөдөөнөөс явуулсан.",
+   "en": "This airag is ours; my mom sent it from the countryside.",
+   "alt_mn": [
+    "Энэ айраг манайх, ээж минь хөдөөнөөс явуулсан."
+   ],
+   "alt_en": [
+    "This airag belongs to my family; my mom sent it from the countryside."
+   ],
+   "mn_latin": "Ene airag manaikh, eej khödöönöös yavuulsan."
+  },
+  {
+   "mn": "Хувийн юмаа өөр өөрийн тавиур дээр, хамтын юмаа энд тавья.",
+   "en": "Let's put personal things on our own shelves and shared things here.",
+   "alt_mn": [],
+   "alt_en": [
+    "Let's keep personal stuff on our own shelves and put shared stuff here."
+   ],
+   "mn_latin": "Khuviin yumaa öör ööriin taviur deer, khamtyn yumaa end taviya."
+  }
+ ],
+ "grammar": {
+  "title_en": "Possessive predicates: хэнийх, минийх, чинийх, түүнийх",
+  "title_mn": "Whose болон mine, yours, hers гэх эзэмшлийн төлөөний үг",
+  "explain_en": "In Mongolian, adding -х to a genitive form turns 'my, your, whose' into 'mine, yours, whose (one)'. Миний аяга means 'my mug', and Аяга минийх means 'The mug is mine.' The full set is хэнийх (whose), минийх (mine), чинийх (yours, informal), таных (yours, polite), түүнийх (his/hers), манайх or биднийх (ours), and тэднийх (theirs). With names, add the genitive ending plus х: Болд → Болдынх, Сараа → Сараагийнх. These words stand at the end of the sentence as the predicate, so no verb 'is' is needed. To ask a yes/no question, add үү/уу: чинийх үү?, таных уу? To say 'not', add биш: минийх биш. Use хэний before a noun (хэний цэнэглэгч, 'whose charger') and хэнийх on its own (Энэ хэнийх вэ? 'Whose is this?').",
+  "explain_mn": "Англи хэлэнд \"хэний\" гэдгийг whose гэнэ. Whose-ийг нэр үгийн өмнө (Whose mug is this?) ч, дангаар нь (Whose is this?) ч хэрэглэж болно. Хариулахдаа нэр үгийн өмнө my, your, his, her, our, their гэж хэрэглэнэ (my mug). Дангаараа бол mine, yours, his, hers, ours, theirs гэнэ (It's mine.). Энэ нь монгол хэлний миний ба минийх хоёрын ялгаатай яг адил. Хүний нэрэнд 's залгана: Bold's, Saraa's. Whose (хэний) болон who's (who is) хоёр ижил дуудагддаг ч утга нь өөр тул бичихдээ андуурч болохгүй. Hers, yours, its гэх мэт үгэнд хэзээ ч апостроф (') бичдэггүй.",
+  "examples": [
+   {
+    "mn": "Энэ аяга хэнийх вэ? — Минийх.",
+    "en": "Whose is this mug? It's mine.",
+    "mn_latin": "Ene ayaga kheniikh ve? — Miniikh."
+   },
+   {
+    "mn": "Хэний цэнэглэгч энд байна вэ?",
+    "en": "Whose charger is here?",
+    "mn_latin": "Khenii tseneglegch end baina ve?"
+   },
+   {
+    "mn": "Тэр сүү Сараагийнх, түүнийх.",
+    "en": "That milk is Saraa's. It's hers.",
+    "mn_latin": "Ter süü Saraagiinkh, tüüniikh."
+   },
+   {
+    "mn": "Энэ хуушуур таных биш үү?",
+    "en": "Isn't this khuushuur yours?",
+    "mn_latin": "Ene khuushuur tanykh bish üü?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ цэнэглэгч ___ вэ?",
+   "answer": "хэнийх",
+   "options": [
+    "хэнийх",
+    "хэний",
+    "хэнд",
+    "хэнээс"
+   ],
+   "translation": "Whose is this charger?",
+   "explain_en": "The question word stands alone at the end as the predicate, so you need the -х form хэнийх. Хэний needs a noun after it.",
+   "explain_mn": "Асуух үг өгүүлбэрийн төгсгөлд өгүүлэхүүн болж байгаа тул -х залгасан хэнийх хэлбэр хэрэгтэй. Хэний гэдгийн араас нэр үг орох ёстой."
+  },
+  {
+   "lang": "mn",
+   "text": "Ногоон аяга Болд___.",
+   "answer": "ынх",
+   "options": [
+    "ынх",
+    "ын",
+    "ийнх",
+    "тай"
+   ],
+   "translation": "The green mug is Bold's.",
+   "explain_en": "Болд takes the genitive ending -ын (back vowel о), and you add -х to make it a predicate: Болдынх, 'Bold's'.",
+   "explain_mn": "Болд гэдэг нь эр үг бөгөөд д гийгүүлэгчээр төгссөн тул харьяалахын -ын нөхцөл авна. Өгүүлэхүүн болгохын тулд -х нэмж Болдынх болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ хуушуур таных ___?",
+   "answer": "уу",
+   "options": [
+    "уу",
+    "үү",
+    "вэ",
+    "бэ"
+   ],
+   "translation": "Is this khuushuur yours?",
+   "explain_en": "This is a yes/no question. Таных has back vowels, so it takes уу. Вэ/бэ are only used with question words like хэнийх.",
+   "explain_mn": "Тийм/үгүй гэж хариулах асуулт байна. Таных нь эр үг тул уу авна. Вэ/бэ сул үгийг зөвхөн хэнийх гэх мэт асуух үгтэй хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ is this charger?",
+   "answer": "Whose",
+   "options": [
+    "Whose",
+    "Who's",
+    "Who",
+    "Which"
+   ],
+   "translation": "Энэ цэнэглэгч хэнийх вэ?",
+   "explain_en": "You're asking about the owner, so use whose. Who's means 'who is', which doesn't fit here.",
+   "explain_mn": "Эзнийг нь асууж байгаа тул whose гэнэ. Who's нь who is гэсэн утгатай тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "That mug isn't hers; it's ___.",
+   "answer": "mine",
+   "options": [
+    "mine",
+    "my",
+    "me",
+    "I"
+   ],
+   "translation": "Тэр аяга түүнийх биш, минийх.",
+   "explain_en": "No noun follows, so use the standalone possessive mine, not my.",
+   "explain_mn": "Араас нь нэр үг ороогүй тул дангаар хэрэглэгддэг mine хэлбэр хэрэгтэй (минийх). My нь нэр үгийн өмнө ордог (миний)."
+  },
+  {
+   "lang": "en",
+   "text": "These are Saraa's buuz. They're ___.",
+   "answer": "hers",
+   "options": [
+    "hers",
+    "her",
+    "her's",
+    "she's"
+   ],
+   "translation": "Энэ бууз Сараагийнх. Түүнийх.",
+   "explain_en": "The standalone form is hers, and it never takes an apostrophe. Her needs a noun after it.",
+   "explain_mn": "Дангаар хэрэглэгдэх хэлбэр нь hers бөгөөд апостроф (') хэзээ ч авдаггүй. Her-ийн араас нэр үг орох ёстой."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Хөргөгчид байгаа энэ бууз хэнийх вэ? Хоёр долоо хоног болсон юм шиг байна.",
+   "en": "Whose are these buuz in the fridge? They look like they've been there for two weeks.",
+   "mn_latin": "Khörgögchid baigaa ene buuz kheniikh ve? Khoyor doloo khonog bolson yum shig baina."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Минийх биш. Миний бууз Цагаан сарын дараа удалгүй дууссан.",
+   "en": "They're not mine. My buuz were gone soon after Tsagaan Sar.",
+   "mn_latin": "Miniikh bish. Minii buuz Tsagaan saryn daraa udalgüi duussan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Минийх ч биш. Харин энэ цэнэглэгч минийх, өглөө энд мартчихсан байна.",
+   "en": "Not mine either. But this charger is mine. I forgot it here this morning.",
+   "mn_latin": "Miniikh ch bish. Kharin ene tseneglegch miniikh, öglöö end martchikhsan baina."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "За, тэгвэл бууз Ганаагийнх байх. Тэр л буузанд хамгийн дуртай.",
+   "en": "Okay, then the buuz must be Ganaa's. She loves buuz more than anyone.",
+   "mn_latin": "Za, tegvel buuz Ganaagiinkh baikh. Ter l buuzand khamgiin durtai."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тэгээд энэ хар аяга хэнийх вэ? Хэн ч угаадаггүй юм.",
+   "en": "And whose is this black mug? Nobody ever washes it.",
+   "mn_latin": "Tegeed ene khar ayaga kheniikh ve? Khen ch ugaadaggüi yum."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэр хамтынх. Хүн бүр хэрэглэдэг болохоор хэн ч угаадаггүй юм байлгүй.",
+   "en": "That one's shared. Everyone uses it, so I guess nobody washes it.",
+   "mn_latin": "Ter khamtynkh. Khün bür kheregledeg bolokhoor khen ch ugaadaggüi yum bailgüi."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэгвэл хамтын аягыг хэрэглэсэн хүн нь угаадаг гэсэн дүрэм гаргая.",
+   "en": "Then let's make a rule: whoever uses a shared mug washes it.",
+   "mn_latin": "Tegvel khamtyn ayagyg khereglesen khün ni ugaadag gesen dürem gargaya."
+  }
+ ],
+ "culture_note": {
+  "en": "Many roommates in Ulaanbaatar are students from the countryside, and families often send meat, dairy, or airag to the city. That food is usually shared with everyone in the apartment. The word манайх means 'ours', but it also means 'our home' or 'our family', so Энэ айраг манайх suggests it came from the speaker's family.",
+  "mn": "Улаанбаатарт хамт амьдардаг оюутнуудын олонх нь хөдөөнөөс ирсэн байдаг бөгөөд гэр бүлээс нь мах, цагаан идээ, айраг явуулах нь элбэг. Ийм хүнсийг байрныхаа бүх хүнтэй хуваалцдаг заншилтай. Манайх гэдэг үг \"биднийх\" гэсэн утгаас гадна \"манай гэр, манай гэр бүл\" гэсэн утгатай тул \"Энэ айраг манайх\" гэвэл гэрээс нь ирсэн гэж ойлгогдоно."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, natural lesson. There are only minor issues: one awkward English alternative, one ungrammatical Mongolian explanation, and an inaccurate gloss in the culture note."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "The lesson is solid overall; the only fixes are the incorrect hidden-н case forms of хөргөгч.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "хөргөгч has no hidden н; the standard dative is хөргөгчид"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "The standard form is хөргөгч дэх, not хөргөгчин дэх"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "The genitive of хөргөгч is хөргөгчийн, not хөргөгчний"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "The standard dative is хөргөгчид"
+   }
+  ]
+ }
+}

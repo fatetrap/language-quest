@@ -1,0 +1,436 @@
+{
+ "intro_en": "You will learn how to build a clear four-paragraph essay (introduction, two body paragraphs, conclusion) with a thesis sentence. You will also practice linking words in both Mongolian and English.",
+ "intro_mn": "Та дөрвөн догол мөрт эссэг (оршил, хоёр гол хэсэг, дүгнэлт) тезис өгүүлбэртэй нь хамт хэрхэн бичихийг сурна. Мөн монгол, англи хэлний холбоос үгсийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "оршил",
+   "en": "introduction",
+   "pos": "noun",
+   "example_mn": "Оршил хэсэгт сэдвээ товч танилцуулна.",
+   "example_en": "In the introduction, you briefly present your topic.",
+   "mn_latin": "orshil"
+  },
+  {
+   "mn": "гол хэсэг",
+   "en": "body",
+   "pos": "noun",
+   "example_mn": "Эссэний гол хэсэг хоёр догол мөрөөс бүрдэнэ.",
+   "example_en": "The body of the essay consists of two paragraphs.",
+   "mn_latin": "gol kheseg"
+  },
+  {
+   "mn": "дүгнэлт",
+   "en": "conclusion",
+   "pos": "noun",
+   "example_mn": "Дүгнэлтэд гол санаагаа дахин нэгтгэн хэлнэ.",
+   "example_en": "In the conclusion, you sum up your main idea.",
+   "mn_latin": "dügnelt"
+  },
+  {
+   "mn": "нэг талаас",
+   "en": "on the one hand",
+   "pos": "phrase",
+   "example_mn": "Нэг талаас технологи амьдралыг хөнгөвчилдөг.",
+   "example_en": "On the one hand, technology makes life easier.",
+   "mn_latin": "neg talaas"
+  },
+  {
+   "mn": "нөгөө талаас",
+   "en": "on the other hand",
+   "pos": "phrase",
+   "example_mn": "Нөгөө талаас хүмүүс хоорондоо цөөн харилцдаг болсон.",
+   "example_en": "On the other hand, people communicate with each other less.",
+   "mn_latin": "nögöö talaas"
+  },
+  {
+   "mn": "жишээлбэл",
+   "en": "for example",
+   "pos": "adverb",
+   "example_mn": "Жишээлбэл, Улаанбаатарт түгжрэл их байдаг.",
+   "example_en": "For example, there is a lot of traffic in Ulaanbaatar.",
+   "mn_latin": "jisheelbel"
+  },
+  {
+   "mn": "үүнээс гадна",
+   "en": "moreover / besides",
+   "pos": "phrase",
+   "example_mn": "Үүнээс гадна онлайн сургалт цаг хэмнэдэг.",
+   "example_en": "Moreover, online learning saves time.",
+   "mn_latin": "üünees gadna"
+  },
+  {
+   "mn": "тиймээс",
+   "en": "therefore",
+   "pos": "conjunction",
+   "example_mn": "Тиймээс бид технологийг оновчтой ашиглах хэрэгтэй.",
+   "example_en": "Therefore, we need to use technology wisely.",
+   "mn_latin": "tiimees"
+  },
+  {
+   "mn": "харин",
+   "en": "whereas / however",
+   "pos": "conjunction",
+   "example_mn": "Хотод ажил олдоход хялбар, харин амьдрал үнэтэй.",
+   "example_en": "In the city it is easy to find work, but life is expensive.",
+   "mn_latin": "kharin"
+  },
+  {
+   "mn": "үндсэн санаа",
+   "en": "main idea / thesis",
+   "pos": "noun",
+   "example_mn": "Эссэ бүр нэг үндсэн санаатай байх ёстой.",
+   "example_en": "Every essay must have one main idea.",
+   "mn_latin": "ündsen sanaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эссэ дөрвөн догол мөрөөс бүрдэнэ.",
+   "en": "The essay consists of four paragraphs.",
+   "alt_mn": [
+    "Эссэ дөрвөн догол мөртэй байна."
+   ],
+   "alt_en": [
+    "The essay is made up of four paragraphs."
+   ],
+   "mn_latin": "Esse dörvön dogol möröös bürdene."
+  },
+  {
+   "mn": "Оршилд тезис өгүүлбэрээ тодорхой бичээрэй.",
+   "en": "Write your thesis sentence clearly in the introduction.",
+   "alt_mn": [
+    "Оршилдоо тезис өгүүлбэрээ тодорхой бичээрэй."
+   ],
+   "alt_en": [
+    "Please state your thesis sentence clearly in the introduction."
+   ],
+   "mn_latin": "Orshild tyezis ögüülberee todorkhoi bicheerei."
+  },
+  {
+   "mn": "Нэг талаас технологи цаг хэмнэдэг.",
+   "en": "On the one hand, technology saves time.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Neg talaas tyekhnologi tsag khemnedeg."
+  },
+  {
+   "mn": "Нөгөө талаас энэ нь хүмүүсийг ганцаардуулж болно.",
+   "en": "On the other hand, it can make people lonely.",
+   "alt_mn": [
+    "Нөгөө талаас энэ нь хүмүүсийг ганцаардуулж магадгүй."
+   ],
+   "alt_en": [
+    "On the other hand, it may make people feel lonely."
+   ],
+   "mn_latin": "Nögöö talaas ene ni khümüüsiig gantsaarduulj bolno."
+  },
+  {
+   "mn": "Жишээлбэл, олон оюутан онлайнаар суралцдаг.",
+   "en": "For example, many students study online.",
+   "alt_mn": [
+    "Жишээ нь, олон оюутан онлайнаар суралцдаг."
+   ],
+   "alt_en": [
+    "For instance, many students study online."
+   ],
+   "mn_latin": "Jisheelbel, olon oyuutan onlainaar suraltsdag."
+  },
+  {
+   "mn": "Үүнээс гадна хотод боловсролын боломж их байдаг.",
+   "en": "Moreover, there are many educational opportunities in the city.",
+   "alt_mn": [],
+   "alt_en": [
+    "Besides, the city offers many educational opportunities."
+   ],
+   "mn_latin": "Üünees gadna khotod bolovsrolyn bolomj ikh baidag."
+  },
+  {
+   "mn": "Хотод ажлын байр элбэг, харин агаар бохирдсон байдаг.",
+   "en": "Jobs are plentiful in the city, whereas the air is polluted.",
+   "alt_mn": [
+    "Хотод ажлын байр элбэг боловч агаар бохирдсон."
+   ],
+   "alt_en": [
+    "There are plenty of jobs in the city, but the air is polluted."
+   ],
+   "mn_latin": "Khotod ajlyn bair elbeg, kharin agaar bokhirdson baidag."
+  },
+  {
+   "mn": "Агаарын бохирдол ноцтой тул арга хэмжээ авах шаардлагатай.",
+   "en": "Air pollution is serious, so measures need to be taken.",
+   "alt_mn": [
+    "Агаарын бохирдол ноцтой, тиймээс арга хэмжээ авах шаардлагатай."
+   ],
+   "alt_en": [
+    "Air pollution is serious; therefore, measures must be taken."
+   ],
+   "mn_latin": "Agaaryn bokhirdol notstoi tul arga khemjee avakh shaardlagatai."
+  },
+  {
+   "mn": "Эхлээд би сэдвийнхээ талаар товч ярья.",
+   "en": "Firstly, let me briefly discuss my topic.",
+   "alt_mn": [
+    "Юуны өмнө би сэдвийнхээ талаар товч ярья."
+   ],
+   "alt_en": [
+    "First of all, let me briefly talk about my topic."
+   ],
+   "mn_latin": "Ekhleed bi sedviinkhee talaar tovch yariya."
+  },
+  {
+   "mn": "Дүгнэж хэлэхэд, технологийг ухаалгаар ашиглавал ашигтай.",
+   "en": "In conclusion, technology is beneficial if used wisely.",
+   "alt_mn": [
+    "Эцэст нь хэлэхэд, технологийг ухаалгаар ашиглавал тустай."
+   ],
+   "alt_en": [
+    "To sum up, technology is useful when used wisely."
+   ],
+   "mn_latin": "Dügnej khelekhed, tyekhnologiig ukhaalgaar ashiglaval ashigtai."
+  },
+  {
+   "mn": "Догол мөр бүр нэг гол санаатай байх ёстой.",
+   "en": "Each paragraph must have one main idea.",
+   "alt_mn": [
+    "Догол мөр болгон нэг гол санаатай байх ёстой."
+   ],
+   "alt_en": [
+    "Every paragraph should have a single main idea."
+   ],
+   "mn_latin": "Dogol mör bür neg gol sanaatai baikh yostoi."
+  },
+  {
+   "mn": "Багш миний эссэний бүтцийг сайшаасан.",
+   "en": "The teacher praised the structure of my essay.",
+   "alt_mn": [
+    "Багш миний эссэний бүтцийг сайшаав."
+   ],
+   "alt_en": [
+    "My teacher praised my essay's structure."
+   ],
+   "mn_latin": "Bagsh minii essenii büttsiig saishaasan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Connectors and thesis sentences in written Mongolian",
+  "title_mn": "Монгол эссэний холбоос үг ба тезис өгүүлбэр",
+  "explain_en": "Written Mongolian often puts connectors at the start of a sentence, sometimes followed by a comma: Үүнээс гадна ... (moreover), Тиймээс ... (therefore), Харин ... (whereas/however). Харин contrasts two ideas and can also come mid-sentence after a comma. Иймд and тиймээс show result. A thesis sentence in the introduction states your position in one clear line, e.g. «Технологи нэг талаас ач тустай ч, нөгөө талаас эрсдэлтэй.» Remember: the verb stays at the end of each clause.",
+  "explain_mn": "Англи эссэд холбоос үгийг өгүүлбэрийн эхэнд тавьж, ихэвчлэн таслалаар тусгаарлана: Firstly, ... Moreover, ... However, ... Therefore, ... In conclusion, ... Монгол хэлнээс ялгаатай нь англи өгүүлбэрт үйл үг subject-ийн дараа шууд ордог. Тезис өгүүлбэр оршил хэсгийн төгсгөлд байж, таны байр суурийг нэг өгүүлбэрээр илэрхийлнэ: «Technology has benefits, but it also has risks.» Мөн «however» болон «whereas»-ийг андуурч болохгүй: however ихэвчлэн өгүүлбэрийн эхэнд, whereas нэг өгүүлбэрийн дунд орно.",
+  "examples": [
+   {
+    "mn": "Үүнээс гадна, хот орчин үеийн үйлчилгээгээр хангагдсан.",
+    "en": "Moreover, the city is well supplied with modern services.",
+    "mn_latin": "Üünees gadna, khot orchin üyeiin üilchilgeegeer khangagdsan."
+   },
+   {
+    "mn": "Тиймээс бид замын хөдөлгөөнийг сайжруулах ёстой.",
+    "en": "Therefore, we must improve traffic flow.",
+    "mn_latin": "Tiimees bid zamyn khödölgööniig saijruulakh yostoi."
+   },
+   {
+    "mn": "Хөдөө амьдрал тайван, харин хотод хурдан.",
+    "en": "Life in the countryside is calm, whereas in the city it is fast-paced.",
+    "mn_latin": "Khödöö amidral taivan, kharin khotod khurdan."
+   },
+   {
+    "mn": "Технологи нэг талаас тус дэм болдог ч нөгөө талаас хамаарал үүсгэдэг.",
+    "en": "Technology helps on the one hand, but on the other hand it creates dependence.",
+    "mn_latin": "Tyekhnologi neg talaas tus dem boldog ch nögöö talaas khamaaral üüsgedeg."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эссэний эхний хэсгийг ___ гэнэ.",
+   "answer": "оршил",
+   "options": [
+    "оршил",
+    "дүгнэлт",
+    "гарчиг",
+    "жишээ"
+   ],
+   "translation": "The first part of an essay is called the introduction.",
+   "explain_en": "Оршил means introduction, the opening paragraph. Дүгнэлт is the conclusion at the end.",
+   "explain_mn": "Оршил нь эссэний эхний догол мөр. Дүгнэлт нь төгсгөл хэсэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Нэг талаас хот тохилог, ___ талаас дуу чимээтэй.",
+   "answer": "нөгөө",
+   "options": [
+    "нөгөө",
+    "дараах",
+    "бусад",
+    "цаашдын"
+   ],
+   "translation": "On the one hand the city is comfortable, on the other hand it is noisy.",
+   "explain_en": "The fixed pair is нэг талаас ... нөгөө талаас.",
+   "explain_mn": "«Нэг талаас ... нөгөө талаас» гэсэн тогтвортой хослол."
+  },
+  {
+   "lang": "mn",
+   "text": "Утасны хэрэглээ нэмэгдсэн. ___, хүмүүс бие биетэйгээ цөөн ярьдаг болжээ.",
+   "answer": "Үүнээс гадна",
+   "options": [
+    "Үүнээс гадна",
+    "Харин",
+    "Дүгнэж хэлэхэд",
+    "Жишээлбэл"
+   ],
+   "translation": "Phone use has increased. Moreover, people talk to each other less.",
+   "explain_en": "Үүнээс гадна adds another point, like 'moreover'.",
+   "explain_mn": "Үүнээс гадна нь нэмэлт санаа оруулна."
+  },
+  {
+   "lang": "en",
+   "text": "Traffic is heavy. ___, many people use the bus.",
+   "answer": "Therefore",
+   "options": [
+    "Therefore",
+    "However",
+    "For example",
+    "Firstly"
+   ],
+   "translation": "Түгжрэл их байна. Тиймээс олон хүн автобус ашигладаг.",
+   "explain_en": "Therefore shows a result of the previous sentence.",
+   "explain_mn": "Therefore нь өмнөх өгүүлбэрийн үр дүнг заана (тиймээс)."
+  },
+  {
+   "lang": "en",
+   "text": "___, I will explain the advantages of city life.",
+   "answer": "Firstly",
+   "options": [
+    "Firstly",
+    "Therefore",
+    "However",
+    "In conclusion"
+   ],
+   "translation": "Юуны өмнө би хотын амьдралын давуу талыг тайлбарлая.",
+   "explain_en": "Firstly opens the first point in the body.",
+   "explain_mn": "Firstly нь эхний санааг эхлүүлнэ (юуны өмнө)."
+  },
+  {
+   "lang": "en",
+   "text": "Cities offer jobs. ___, living costs are high.",
+   "answer": "However",
+   "options": [
+    "However",
+    "Moreover",
+    "Therefore",
+    "In conclusion"
+   ],
+   "translation": "Хотод ажлын байр бий. Гэхдээ амьжиргааны зардал өндөр.",
+   "explain_en": "However introduces a contrast.",
+   "explain_mn": "However нь эсрэг санааг оруулна (гэхдээ)."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Золзаяа",
+   "mn": "Би хотын амьдралын тухай эссэ бичиж байна, гэхдээ яаж эхлэхээ мэдэхгүй байна.",
+   "en": "I'm writing an essay about city life, but I don't know how to start.",
+   "mn_latin": "Bi khotyn amidralyn tukhai esse bichij baina, gekhdee yaaj ekhlekhee medekhgüi baina."
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Эхлээд оршил дээр тезис өгүүлбэрээ бичээрэй.",
+   "en": "First, write your thesis sentence in the introduction.",
+   "mn_latin": "Ekhleed orshil deer tyezis ögüülberee bicheerei."
+  },
+  {
+   "speaker": "Золзаяа",
+   "mn": "«Хотын амьдрал нэг талаас боломж ихтэй, нөгөө талаас хүнд» гэж бичвэл ямар вэ?",
+   "en": "How about: \"City life offers many opportunities on the one hand, but it is hard on the other\"?",
+   "mn_latin": "«Khotyn amidral neg talaas bolomj ikhtei, nögöö talaas khünd» gej bichvel yamar ve?"
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Сайн байна. Дараа нь гол хэсэгт догол мөр бүрт нэг санаа бичээрэй.",
+   "en": "Good. Then in the body, write one idea per paragraph.",
+   "mn_latin": "Sain baina. Daraa ni gol khesegt dogol mör bürt neg sanaa bicheerei."
+  },
+  {
+   "speaker": "Золзаяа",
+   "mn": "Жишээлбэл, ажлын байр, боловсролыг эхний догол мөрөндөө оруулъя.",
+   "en": "For example, I'll put jobs and education in my first paragraph.",
+   "mn_latin": "Jisheelbel, ajlyn bair, bolovsrolyg ekhnii dogol möröndöö oruulya."
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Тэгээд хоёр дахь догол мөрөнд агаарын бохирдол, түгжрэлийг бичээрэй. Харин холбоос үгээ битгий мартаарай.",
+   "en": "Then in the second paragraph, write about air pollution and traffic. Just don't forget your linking words.",
+   "mn_latin": "Tegeed khoyor dakhi dogol mörönd agaaryn bokhirdol, tügjreliig bicheerei. Kharin kholboos ügee bitgii martaarai."
+  },
+  {
+   "speaker": "Золзаяа",
+   "mn": "Тэгэхээр төгсгөлд нь дүгнэлт бичих хэрэгтэй юу?",
+   "en": "So I need to write a conclusion at the end?",
+   "mn_latin": "Tegekheer tögsgöld ni dügnelt bichikh kheregtei yuu?"
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Тийм, «Дүгнэж хэлэхэд» гэж эхэлж болно.",
+   "en": "Yes, you can begin with \"In conclusion.\"",
+   "mn_latin": "Tiim, «Dügnej khelekhed» gej ekhelj bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian schools, essays (эссэ) are an important part of exams, including the national entrance exam, and teachers often expect a clear introduction, body and conclusion. Written Mongolian prefers a formal, impersonal tone with connectors such as «иймд» and «мөн түүнчлэн», which are rarely used in everyday speech. English academic essays, by contrast, expect the main idea to be stated directly at the start.",
+  "mn": "Монгол сургуулиудад эссэ нь элсэлтийн болон бусад шалгалтын чухал хэсэг бөгөөд багш нар оршил, гол хэсэг, дүгнэлт бүхий тодорхой бүтцийг шаарддаг. Бичгийн монгол хэл албан, хувь хүнээс хөндий өнгө аясыг илүүд үздэг ба «иймд», «мөн түүнчлэн» гэх мэт холбоос үгс ярианд ховор хэрэглэгддэг. Харин англи эссэд гол санааг эхэнд нь шууд хэлэх нь чухал."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 11,
+  "notes": "Mostly good content; a few wording errors, a redundant connector, a missing accusative, and an illogical dialogue connector."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 7,
+  "notes": "Main problems were the broken imperative «мартваа», mixed register in Michael's lines, and an inaccurate culture claim; the rest is sound.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "«мартваа» is not a real form and lacks the negation; 'don't forget' needs «битгий мартаарай». Also made it «бичээрэй» to keep Michael's register consistent."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Bare «бич» clashes with Michael's «бичээрэй» elsewhere. Also «нэг догол мөр бүрт» is redundant."
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_en",
+    "why": "'whereas' is unnatural here. 'but' matches the meaning of «харин»."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The comma after a Mongolian connector is optional. The lesson's own examples omit it, so 'usually' was inaccurate."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "en",
+    "why": "'improve traffic' is unnatural. 'traffic flow' matches «замын хөдөлгөөн»."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "«үүнээс гадна» is common in speech, so the 'rarely used' claim was wrong. The en text now also matches the mn on exams rather than university applications."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": null
+   }
+  ]
+ }
+}

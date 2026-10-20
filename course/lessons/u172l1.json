@@ -1,0 +1,402 @@
+{
+ "intro_en": "Chat about the first warm spring days in Ulaanbaatar. You'll learn weather words like warm, cold, thaw, and melt, and how to say 'it's getting warmer' and 'it got colder' with the verbs дулаарах and хүйтрэх.",
+ "intro_mn": "Улаанбаатарын хаврын анхны дулаан өдрүүдийн тухай ярилцаж сурна. Англиар warm, cold, thaw, melt гэх мэт цаг агаарын үгс болон \"дулаарч байна\", \"хүйтэрлээ\" гэдгийг get warmer, get colder гэж хэрхэн хэлэхийг сурна.",
+ "vocab": [
+  {
+   "mn": "дулаан",
+   "en": "warm",
+   "pos": "adjective",
+   "example_mn": "Өнөөдөр гадаа дулаан байна.",
+   "example_en": "It's warm outside today.",
+   "mn_latin": "dulaan"
+  },
+  {
+   "mn": "хүйтэн",
+   "en": "cold",
+   "pos": "adjective",
+   "example_mn": "Салхи хүйтэн хэвээр байна.",
+   "example_en": "The wind is still cold.",
+   "mn_latin": "khüiten"
+  },
+  {
+   "mn": "дулаарах",
+   "en": "to get warmer",
+   "pos": "verb",
+   "example_mn": "Өдөр бүр дулаарч байна.",
+   "example_en": "It's getting warmer every day.",
+   "mn_latin": "dulaarakh"
+  },
+  {
+   "mn": "хүйтрэх",
+   "en": "to get colder",
+   "pos": "verb",
+   "example_mn": "Орой гэнэт хүйтэрлээ.",
+   "example_en": "It suddenly got colder in the evening.",
+   "mn_latin": "khüitrekh"
+  },
+  {
+   "mn": "гэсэлт",
+   "en": "thaw",
+   "pos": "noun",
+   "example_mn": "Гэсэлт эрт эхэллээ.",
+   "example_en": "The thaw started early.",
+   "mn_latin": "geselt"
+  },
+  {
+   "mn": "хайлах",
+   "en": "to melt",
+   "pos": "verb",
+   "example_mn": "Цас хайлж байна.",
+   "example_en": "The snow is melting.",
+   "mn_latin": "khailakh"
+  },
+  {
+   "mn": "хавар",
+   "en": "spring",
+   "pos": "noun",
+   "example_mn": "Хавар Улаанбаатарт салхитай байдаг.",
+   "example_en": "Spring in Ulaanbaatar is windy.",
+   "mn_latin": "khavar"
+  },
+  {
+   "mn": "мөс",
+   "en": "ice",
+   "pos": "noun",
+   "example_mn": "Голын мөс нимгэрч байна.",
+   "example_en": "The ice on the river is getting thinner.",
+   "mn_latin": "mös"
+  },
+  {
+   "mn": "шавар",
+   "en": "mud",
+   "pos": "noun",
+   "example_mn": "Гудамж шавартай байна.",
+   "example_en": "The street is muddy.",
+   "mn_latin": "shavar"
+  },
+  {
+   "mn": "хэм",
+   "en": "degree (temperature)",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр арван хэм дулаан байна.",
+   "example_en": "It's ten degrees above zero today.",
+   "mn_latin": "khem"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөөдөр гадаа нэлээн дулаарч байна.",
+   "en": "It's getting quite warm outside today.",
+   "alt_mn": [
+    "Өнөөдөр гадаа нэлээд дулаарч байна."
+   ],
+   "alt_en": [
+    "It's getting pretty warm outside today."
+   ],
+   "mn_latin": "Önöödör gadaa neleen dulaarch baina."
+  },
+  {
+   "mn": "Өнөө өглөө гэнэт хүйтэрлээ.",
+   "en": "It suddenly got colder this morning.",
+   "alt_mn": [],
+   "alt_en": [
+    "It got cold all of a sudden this morning."
+   ],
+   "mn_latin": "Önöö öglöö genet khüiterlee."
+  },
+  {
+   "mn": "Гудамжны цас хурдан хайлж байна.",
+   "en": "The snow on the streets is melting fast.",
+   "alt_mn": [],
+   "alt_en": [
+    "The snow in the streets is melting quickly."
+   ],
+   "mn_latin": "Gudamjny tsas khurdan khailj baina."
+  },
+  {
+   "mn": "Гэсэлт эхэлмэгц хотын гудамжууд шавар болдог.",
+   "en": "As soon as the thaw starts, the city streets get muddy.",
+   "alt_mn": [],
+   "alt_en": [
+    "Once the thaw begins, the city streets turn muddy."
+   ],
+   "mn_latin": "Geselt ekhelmegts khotyn gudamjuud shavar boldog."
+  },
+  {
+   "mn": "Энэ долоо хоногт агаар арав орчим хэмээр дулаарлаа.",
+   "en": "The air got about ten degrees warmer this week.",
+   "alt_mn": [],
+   "alt_en": [
+    "It got around ten degrees warmer this week."
+   ],
+   "mn_latin": "Ene doloo khonogt agaar arav orchim khemeer dulaarlaa."
+  },
+  {
+   "mn": "Хавар Улаанбаатарын цаг агаар өдөрт хэд хэдэн удаа өөрчлөгддөг.",
+   "en": "In spring, the weather in Ulaanbaatar changes several times a day.",
+   "alt_mn": [],
+   "alt_en": [
+    "In the spring, Ulaanbaatar's weather changes several times a day."
+   ],
+   "mn_latin": "Khavar Ulaanbaataryn tsag agaar ödört khed kheden udaa öörchlögddög."
+  },
+  {
+   "mn": "Нар гарахаар дулаахан байна, гэхдээ салхи хүйтэн хэвээр.",
+   "en": "When the sun comes out it's nice and warm, but the wind is still cold.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's warm when the sun is out, but the wind is still cold."
+   ],
+   "mn_latin": "Nar garakhaar dulaakhan baina, gekhdee salkhi khüiten kheveer."
+  },
+  {
+   "mn": "Зузаан хүрмээ одоохондоо тайлж болохгүй, орой дахиад хүйтэрнэ.",
+   "en": "Don't take off your heavy coat just yet; it'll get cold again in the evening.",
+   "alt_mn": [],
+   "alt_en": [
+    "Don't take your heavy coat off yet; it's going to get cold again this evening."
+   ],
+   "mn_latin": "Zuzaan khürmee odookhondoo tailj bolokhgüi, oroi dakhiad khüiterne."
+  },
+  {
+   "mn": "Голын мөс хайлж эхэллээ.",
+   "en": "The ice on the river has started to melt.",
+   "alt_mn": [],
+   "alt_en": [
+    "The river ice has begun to melt."
+   ],
+   "mn_latin": "Golyn mös khailj ekhellee."
+  },
+  {
+   "mn": "Энэ жил өнгөрсөн жилийнхээс эрт дулаарлаа.",
+   "en": "This year it got warm earlier than last year.",
+   "alt_mn": [],
+   "alt_en": [
+    "It warmed up earlier this year than last year."
+   ],
+   "mn_latin": "Ene jil öngörsön jiliinkhees ert dulaarlaa."
+  },
+  {
+   "mn": "Шөнөдөө хүйтэрч, өдөртөө гэсдэг.",
+   "en": "It gets cold at night and thaws during the day.",
+   "alt_mn": [],
+   "alt_en": [
+    "At night it freezes, and during the day it thaws."
+   ],
+   "mn_latin": "Shönödöö khüiterch, ödörtöö gesdeg."
+  },
+  {
+   "mn": "Дулаарахын хэрээр агаарын бохирдол багасч байна.",
+   "en": "As it gets warmer, the air pollution is going down.",
+   "alt_mn": [],
+   "alt_en": [
+    "The air pollution is decreasing as it gets warmer."
+   ],
+   "mn_latin": "Dulaarakhyn khereer agaaryn bokhirdol bagasch baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Changing weather: дулаарч байна / дулаарлаа",
+  "title_mn": "Өөрчлөлтийг илэрхийлэх нь: get warmer / get colder",
+  "explain_en": "Mongolian has verbs that mean 'to become' a quality: дулаарах (to get warmer) and хүйтрэх (to get colder). To say a change is happening right now, use the converb -ж/-ч + байна: дулаарч байна (it's getting warmer), хүйтэрч байна (it's getting colder). To say a change just happened, add the past ending -лаа/-лээ/-лоо/-лөө, chosen by vowel harmony: дулаарлаа (it got warmer), хүйтэрлээ (it got colder). Notice that хүйтрэх gets an extra э before the ending: хүйтэрч, хүйтэрлээ. Хайлах works the same way: хайлж байна (is melting), хайллаа (melted).",
+  "explain_mn": "Англи хэлэнд \"дулаарах, хүйтрэх\" гэх мэт өөрчлөлтийг get + харьцуулах зэргийн тэмдэг нэрээр илэрхийлдэг: get warmer (дулаарах), get colder (хүйтрэх). Яг одоо болж буй өөрчлөлтийг is/are getting гэж хэлнэ: It's getting warmer. – Дулаарч байна. Болчихсон өөрчлөлтийн хувьд got хэлбэр хэрэглэнэ: It got colder. – Хүйтэрлээ. Өөрчлөлт аажмаар үргэлжилж байгааг онцлохдоо давтаж хэлж болно: It's getting warmer and warmer. – Улам дулаарч байна.",
+  "examples": [
+   {
+    "mn": "Өдөр бүр дулаарч байна.",
+    "en": "It's getting warmer every day.",
+    "mn_latin": "Ödör bür dulaarch baina."
+   },
+   {
+    "mn": "Өчигдөр оройноос хүйтэрлээ.",
+    "en": "It's gotten colder since last night.",
+    "mn_latin": "Öchigdör oroinoos khüiterlee."
+   },
+   {
+    "mn": "Цас хайлж байна.",
+    "en": "The snow is melting.",
+    "mn_latin": "Tsas khailj baina."
+   },
+   {
+    "mn": "Улам дулаарч байна.",
+    "en": "It's getting warmer and warmer.",
+    "mn_latin": "Ulam dulaarch baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өнөөдөр гадаа дулаар___ байна.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "лаа",
+    "на",
+    "ж"
+   ],
+   "translation": "It's getting warm outside today.",
+   "explain_en": "With байна for an ongoing change, the verb takes the converb ending -ж/-ч. After р you use -ч: дулаарч байна.",
+   "explain_mn": "Байна туслах үйл үгтэй хамт үргэлжилж буй үйлийг илэрхийлэхэд -ж/-ч нөхцөл залгана. Р үсгийн дараа -ч: дулаарч байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Өнөө өглөө гэнэт хүйтэр___.",
+   "answer": "лээ",
+   "options": [
+    "лээ",
+    "лаа",
+    "лоо",
+    "лөө"
+   ],
+   "translation": "It suddenly got colder this morning.",
+   "explain_en": "This blank matches 'got' in the English sentence. The past ending follows vowel harmony. Хүйтрэх has front vowels (ү, э), so it takes -лээ.",
+   "explain_mn": "Энэ хоосон зай бол англи өгүүлбэрийн got-той тохирно. Хүйтрэх үг эм үгийн эгшигтэй тул -лээ нөхцөл авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Гудамжны цас ___ байна.",
+   "answer": "хайлж",
+   "options": [
+    "хайлж",
+    "хайллаа",
+    "хайлна",
+    "хайлч"
+   ],
+   "translation": "The snow on the street is melting.",
+   "explain_en": "Before байна you need the converb form -ж: хайлж байна means 'is melting'.",
+   "explain_mn": "Байна-гийн өмнө -ж хэлбэр орно. Англиар is melting гэсэн үргэлжилсэн хэлбэртэй тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "It's getting ___ every day.",
+   "answer": "warmer",
+   "options": [
+    "warmer",
+    "warm",
+    "more warm",
+    "warmest"
+   ],
+   "translation": "Өдөр бүр дулаарч байна.",
+   "explain_en": "Get + comparative shows change: get warmer. Warm is a short adjective, so the comparative is warmer, not 'more warm'.",
+   "explain_mn": "Өөрчлөлтийг get + харьцуулах зэргээр илэрхийлнэ. Warm богино үг тул more warm биш warmer гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ much colder last night.",
+   "answer": "got",
+   "options": [
+    "got",
+    "gets",
+    "getting",
+    "get"
+   ],
+   "translation": "Өчигдөр шөнө их хүйтэрсэн.",
+   "explain_en": "Last night is a finished time, so you use the past tense got.",
+   "explain_mn": "Last night өнгөрсөн цаг тул get үйл үгийн өнгөрсөн цагийн хэлбэр got орно."
+  },
+  {
+   "lang": "en",
+   "text": "The snow is ___ fast.",
+   "answer": "melting",
+   "options": [
+    "melting",
+    "melt",
+    "melted",
+    "melts"
+   ],
+   "translation": "Цас хурдан хайлж байна.",
+   "explain_en": "After is, use the -ing form for an action in progress: is melting.",
+   "explain_mn": "Is-ийн дараа одоо үргэлжилж буй үйлийг -ing хэлбэрээр хэлнэ. Монголоор хайлж байна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Болд оо, гадаа гараад үзсэн үү? Үнэхээр дулаарч байна шүү.",
+   "en": "Bold, have you been outside? It's really getting warm.",
+   "mn_latin": "Bold oo, gadaa garaad üzsen üü? Ünekheer dulaarch baina shüü."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм ээ, өглөө арван хэм дулаан байсан. Цас ч хурдан хайлж байна.",
+   "en": "Yeah, it was ten degrees this morning. The snow is melting fast too.",
+   "mn_latin": "Tiim ee, öglöö arvan khem dulaan baisan. Tsas ch khurdan khailj baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Харин манай хорооллын гудамж бүхэлдээ шавар боллоо.",
+   "en": "But the whole street in my neighborhood has turned to mud.",
+   "mn_latin": "Kharin manai khoroollyn gudamj bükheldee shavar bolloo."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Гэсэлтийн үеэр үргэлж тийм байдаг даа. Зузаан хүрмээ тайлсан уу?",
+   "en": "It's always like that during the thaw. Did you take off your heavy coat?",
+   "mn_latin": "Geseltiin üyeer ürgelj tiim baidag daa. Zuzaan khürmee tailsan uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тайлчихлаа. Хөнгөн куртка өмсөөд гарсан.",
+   "en": "I did. I went out in a light jacket.",
+   "mn_latin": "Tailchikhlaa. Khöngön kurtka ömsööd garsan."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Болгоомжтой шүү. Өнгөрсөн жил яг ийм үед гэнэт хүйтэрч, цас орсон.",
+   "en": "Be careful. Last year around this time it suddenly got cold and snowed.",
+   "mn_latin": "Bolgoomjtoi shüü. Öngörsön jil yag iim üyed genet khüiterch, tsas orson."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Үнэн шүү. Хаврын цаг агаарт итгэж болохгүй. Маргааш дахиад хүйтэрнэ гэсэн.",
+   "en": "That's true. You can't trust spring weather. They say it'll get colder again tomorrow.",
+   "mn_latin": "Ünen shüü. Khavryn tsag agaart itgej bolokhgüi. Margaash dakhiad khüiterne gesen."
+  }
+ ],
+ "culture_note": {
+  "en": "Spring in Ulaanbaatar is famous for being unpredictable: a sunny 15°C day can be followed by a snowstorm, and dust storms are common in April and May. Many locals keep their winter coats handy until late May. Mongolians often say spring weather changes 'like a child's mood.'",
+  "mn": "Улаанбаатарын хавар тогтворгүй цаг агаараараа алдартай. 15 хэмийн нартай өдрийн дараа цасан шуурга болох нь энгийн бөгөөд дөрөв, тавдугаар сард шороон шуурга их болдог. Тиймээс олон хүн тавдугаар сарын сүүл хүртэл өвлийн хүрмээ хураадаггүй. Монголчууд хаврын цаг агаарыг \"хүүхдийн ааш шиг\" хувирамтгай гэж ярьдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, natural lesson. The fixes cover one meaning error in the culture note, two blanks that had more than one correct answer, and one misused phrase in the dialogue."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "Solid lesson; fixes cover an ambiguous adverb, a mismatched alt_en, ambiguous fill-blank options and explanation parity.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "'just yet' is одоохондоо; одоохон means 'right away/soon'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "'put away' (хураах) is not the same as 'take off' (тайлах)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'дулаарах байна' is a valid colloquial form ('looks like it'll get warmer'), so 'х' made the blank ambiguous"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'хайлах байна' is grammatical colloquially, so the blank had two possible answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Match the mn explanation"
+   }
+  ]
+ }
+}

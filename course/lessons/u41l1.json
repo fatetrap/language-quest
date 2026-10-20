@@ -1,0 +1,516 @@
+{
+ "intro_en": "You will learn how to register at a hospital in Ulaanbaatar, name departments, and describe your symptoms. You will also review polite requests and learn to say that something is possible with -ж магадгүй (might / may).",
+ "intro_mn": "Та Улаанбаатарын эмнэлэгт бүртгүүлэх, тасгуудын нэрийг мэдэх, шинж тэмдгээ тайлбарлахыг сурна. Мөн эелдэг хүсэлтийг давтаж, \"might / may\" гэсэн утгатай -ж магадгүй хэлбэрийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "эмнэлэг",
+   "en": "hospital",
+   "pos": "noun",
+   "example_mn": "Би өнөөдөр эмнэлэгт очно.",
+   "example_en": "I am going to the hospital today.",
+   "mn_latin": "emneleg"
+  },
+  {
+   "mn": "тасаг",
+   "en": "department",
+   "pos": "noun",
+   "example_mn": "Мэдрэлийн тасаг хэд дэх давхарт вэ?",
+   "example_en": "Which floor is the neurology department on?",
+   "mn_latin": "tasag"
+  },
+  {
+   "mn": "эмчийн заалт",
+   "en": "referral",
+   "pos": "noun",
+   "example_mn": "Танд эмчийн заалт байгаа юу?",
+   "example_en": "Do you have a referral?",
+   "mn_latin": "emchiin zaalt"
+  },
+  {
+   "mn": "цаг авах",
+   "en": "to make an appointment",
+   "pos": "verb",
+   "example_mn": "Би эмчид цаг авмаар байна.",
+   "example_en": "I would like to make an appointment with the doctor.",
+   "mn_latin": "tsag avakh"
+  },
+  {
+   "mn": "шинжилгээ",
+   "en": "test",
+   "pos": "noun",
+   "example_mn": "Тэд надаас цусны шинжилгээ авсан.",
+   "example_en": "They took a blood sample from me.",
+   "mn_latin": "shinjilgee"
+  },
+  {
+   "mn": "хариу",
+   "en": "result",
+   "pos": "noun",
+   "example_mn": "Шинжилгээний хариу маргааш гарна.",
+   "example_en": "The test results will be ready tomorrow.",
+   "mn_latin": "khariu"
+  },
+  {
+   "mn": "хүлээлгийн өрөө",
+   "en": "waiting room",
+   "pos": "noun",
+   "example_mn": "Та хүлээлгийн өрөөнд суугаад хүлээнэ үү.",
+   "example_en": "Please sit in the waiting room and wait.",
+   "mn_latin": "khüleelgiin öröö"
+  },
+  {
+   "mn": "шинж тэмдэг",
+   "en": "symptom",
+   "pos": "noun",
+   "example_mn": "Танд ямар шинж тэмдэг байна вэ?",
+   "example_en": "What symptoms do you have?",
+   "mn_latin": "shinj temdeg"
+  },
+  {
+   "mn": "бүртгүүлэх",
+   "en": "to register",
+   "pos": "verb",
+   "example_mn": "Та эхлээд бүртгүүлэх хэрэгтэй.",
+   "example_en": "You need to register first.",
+   "mn_latin": "bürtgüülekh"
+  },
+  {
+   "mn": "халуурах",
+   "en": "to have a fever",
+   "pos": "verb",
+   "example_mn": "Миний хүүхэд хоёр хоногийн өмнөөс халуураад байна.",
+   "example_en": "My child has had a fever for two days.",
+   "mn_latin": "khaluurakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би эмнэлэгт бүртгүүлэх гэж байна.",
+   "en": "I am going to register at the hospital.",
+   "alt_mn": [
+    "Би эмнэлэгт бүртгүүлэхээр ирлээ."
+   ],
+   "alt_en": [
+    "I want to register at the hospital.",
+    "I am here to register at the hospital."
+   ],
+   "mn_latin": "Bi emnelegt bürtgüülekh gej baina."
+  },
+  {
+   "mn": "Та иргэний үнэмлэхээ үзүүлнэ үү.",
+   "en": "Please show your ID card.",
+   "alt_mn": [
+    "Иргэний үнэмлэхээ үзүүлээч ээ."
+   ],
+   "alt_en": [
+    "Could you show your ID card, please?"
+   ],
+   "mn_latin": "Ta irgenii ünemlekhee üzüülne üü."
+  },
+  {
+   "mn": "Би мэдрэлийн тасагт цаг авмаар байна.",
+   "en": "I would like to make an appointment at the neurology department.",
+   "alt_mn": [
+    "Мэдрэлийн тасагт цаг авч болох уу?"
+   ],
+   "alt_en": [
+    "I'd like to book an appointment in neurology."
+   ],
+   "mn_latin": "Bi medreliin tasagt tsag avmaar baina."
+  },
+  {
+   "mn": "Танд эмчийн заалт байгаа юу?",
+   "en": "Do you have a referral?",
+   "alt_mn": [
+    "Танд эмчийн заалт бий юу?"
+   ],
+   "alt_en": [
+    "Have you got a referral from a doctor?"
+   ],
+   "mn_latin": "Tand emchiin zaalt baigaa yuu?"
+  },
+  {
+   "mn": "Миний толгой өвдөөд байна.",
+   "en": "My head has been hurting.",
+   "alt_mn": [
+    "Толгой минь өвдөөд байна."
+   ],
+   "alt_en": [
+    "I have a headache.",
+    "My head hurts."
+   ],
+   "mn_latin": "Minii tolgoi övdööd baina."
+  },
+  {
+   "mn": "Би хоёр хоногийн өмнөөс халуураад байна.",
+   "en": "I have had a fever for two days.",
+   "alt_mn": [
+    "Би хоёр хоног халуураад байна."
+   ],
+   "alt_en": [
+    "I have been running a fever for two days."
+   ],
+   "mn_latin": "Bi khoyor khonogiin ömnöös khaluuraad baina."
+  },
+  {
+   "mn": "Та хүлээлгийн өрөөнд түр хүлээнэ үү.",
+   "en": "Please wait in the waiting room for a moment.",
+   "alt_mn": [
+    "Хүлээлгийн өрөөнд түр хүлээж байгаарай."
+   ],
+   "alt_en": [
+    "Could you wait in the waiting room for a bit?"
+   ],
+   "mn_latin": "Ta khüleelgiin öröönd tür khüleene üü."
+  },
+  {
+   "mn": "Эмч одоо өвчтөн үзэж байна.",
+   "en": "The doctor is seeing a patient now.",
+   "alt_mn": [
+    "Эмч одоо өвчтөнтэй уулзаж байна."
+   ],
+   "alt_en": [
+    "The doctor is with a patient right now."
+   ],
+   "mn_latin": "Emch odoo övchtön üzej baina."
+  },
+  {
+   "mn": "Энэ ходоодны асуудал байж магадгүй.",
+   "en": "It might be a stomach problem.",
+   "alt_mn": [
+    "Энэ ходоодны асуудал байх даа."
+   ],
+   "alt_en": [
+    "It may be a stomach problem."
+   ],
+   "mn_latin": "Ene khodoodny asuudal baij magadgüi."
+  },
+  {
+   "mn": "Тэр одоо шинжилгээ өгч байгаа байж магадгүй.",
+   "en": "He might be taking a test right now.",
+   "alt_mn": [
+    "Тэр одоо шинжилгээнд орж байгаа байх."
+   ],
+   "alt_en": [
+    "He may be having a test now."
+   ],
+   "mn_latin": "Ter odoo shinjilgee ögch baigaa baij magadgüi."
+  },
+  {
+   "mn": "Хариу өнөөдөр гарахгүй байж магадгүй.",
+   "en": "The results may not be ready today.",
+   "alt_mn": [
+    "Хариу өнөөдөр гарахгүй ч магадгүй."
+   ],
+   "alt_en": [
+    "The results might not come out today."
+   ],
+   "mn_latin": "Khariu önöödör garakhgüi baij magadgüi."
+  },
+  {
+   "mn": "Надад шинжилгээний хариуг үзүүлж өгөөч.",
+   "en": "Could you show me the test results, please?",
+   "alt_mn": [
+    "Шинжилгээний хариуг надад үзүүлж өгөх үү?"
+   ],
+   "alt_en": [
+    "Would you mind showing me the test results?"
+   ],
+   "mn_latin": "Nadad shinjilgeenii khariug üzüülj ögööch."
+  }
+ ],
+ "grammar": {
+  "title_en": "Might / may: -ж магадгүй (plus a quick review)",
+  "title_mn": "Магадлал илтгэх \"might / may\": -ж магадгүй (ба товч давталт)",
+  "explain_en": "Review: use the progressive -ж байна for actions happening now (Эмч үзэж байна), and -аад байна for a state that has lasted a while (Толгой өвдөөд байна). Polite requests use -на уу / -нэ үү, -аач / -ооч, or -маар байна: Түр хүлээнэ үү. Now the new form: verb stem + -ж магадгүй means 'it may be that...'. Add it to the verb: Тэр өвчтэй байж магадгүй (He might be sick). Мэдэхгүй байж магадгүй (He may not know). Make it negative by negating the verb before байж: Хариу гарахгүй байж магадгүй. Магадгүй is fixed; the verb before it takes the -ж ending (-ж/-ч), and байх is very common as the helper.",
+  "explain_mn": "Англи хэлэнд боломжийг might эсвэл may + үндсэн үйлийн анхны хэлбэрээр илэрхийлнэ: He may be sick, It might be serious. Одоогийн үйлийг be + -ing-ээр өгнө: He might be waiting. Үгүйсгэхдээ not-ыг might/may-ийн дараа тавина: She might not know. Эелдэг хүсэлтэд Could you...? Would you mind...? Can I...? гэж хэлнэ. Монгол -ж магадгүй нь might/may-тэй таарна, харин англиар модал үйл нь тусдаа үг бөгөөд өөрчлөгддөггүй: he may, she might (-s залгахгүй).",
+  "examples": [
+   {
+    "mn": "Энэ томуу байж магадгүй.",
+    "en": "It might be the flu.",
+    "mn_latin": "Ene tomuu baij magadgüi."
+   },
+   {
+    "mn": "Эмч одоо завгүй байж магадгүй.",
+    "en": "The doctor may be busy now.",
+    "mn_latin": "Emch odoo zavgüi baij magadgüi."
+   },
+   {
+    "mn": "Тэр заалтаа авчраагүй байж магадгүй.",
+    "en": "She might not have brought her referral.",
+    "mn_latin": "Ter zaaltaa avchraagüi baij magadgüi."
+   },
+   {
+    "mn": "Хүүхэд ханиалгаж байгаа нь харшлаас болсон байж магадгүй.",
+    "en": "The child's cough may be caused by an allergy.",
+    "mn_latin": "Khüükhed khanialgaj baigaa ni kharshlaas bolson baij magadgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ ходоодны өвчин байж ___.",
+   "answer": "магадгүй",
+   "options": [
+    "магадгүй",
+    "магадлал",
+    "байна",
+    "бүртгүүлнэ"
+   ],
+   "translation": "It might be a stomach illness.",
+   "explain_en": "-ж магадгүй = 'might/may'. The verb takes -ж, then магадгүй follows.",
+   "explain_mn": "Магадлал илтгэхдээ үйлийн үндэс + -ж + магадгүй гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Та хүлээлгийн өрөөнд түр ___ үү.",
+   "answer": "хүлээнэ",
+   "options": [
+    "хүлээнэ",
+    "хүлээсэн",
+    "хүлээж",
+    "хүлээв"
+   ],
+   "translation": "Please wait in the waiting room for a moment.",
+   "explain_en": "A polite request uses the -на/-нэ үү pattern: хүлээнэ үү.",
+   "explain_mn": "Эелдэг хүсэлтийг үйлийн -на/-нэ + үү хэлбэрээр илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Миний хүү хоёр хоногийн өмнөөс халуураа___ байна.",
+   "answer": "ад",
+   "options": [
+    "ад",
+    "аж",
+    "сан",
+    "на"
+   ],
+   "translation": "My son has had a fever for two days.",
+   "explain_en": "-аад байна shows a state that began earlier and still continues.",
+   "explain_mn": "-аад байна нь өмнө эхэлсэн, одоо ч үргэлжилж буй төлвийг заана."
+  },
+  {
+   "lang": "en",
+   "text": "The results ___ be ready until tomorrow.",
+   "answer": "might not",
+   "options": [
+    "might not",
+    "might to",
+    "are might",
+    "not might"
+   ],
+   "translation": "Хариу маргаашаас өмнө гарахгүй байж магадгүй.",
+   "explain_en": "Put not after might: might not + base verb.",
+   "explain_mn": "Might-ийн дараа not тавьж, үндсэн хэлбэрийн үйл залгана."
+  },
+  {
+   "lang": "en",
+   "text": "Could you ___ me where the cardiology department is?",
+   "answer": "tell",
+   "options": [
+    "tell",
+    "telling",
+    "to tell",
+    "told"
+   ],
+   "translation": "Зүрхний тасаг хаана байдгийг надад хэлж өгөөч?",
+   "explain_en": "After could you, use the base form of the verb.",
+   "explain_mn": "Could you-ийн дараа үйл үндсэн хэлбэрээрээ орно."
+  },
+  {
+   "lang": "en",
+   "text": "The doctor may ___ with another patient right now.",
+   "answer": "be",
+   "options": [
+    "be",
+    "is",
+    "being",
+    "been"
+   ],
+   "translation": "Эмч яг одоо өөр өвчтөнтэй байж магадгүй.",
+   "explain_en": "May is followed by the base verb: may be.",
+   "explain_mn": "May-ийн дараа үйл үндсэн хэлбэрээрээ орно: may be."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн байна уу. Би мэдрэлийн тасагт цаг авмаар байна.",
+   "en": "Hello. I would like to make an appointment at the neurology department.",
+   "mn_latin": "Sain baina uu. Bi medreliin tasagt tsag avmaar baina."
+  },
+  {
+   "speaker": "Бүртгэлийн ажилтан",
+   "mn": "Сайн байна уу. Танд эмчийн заалт байгаа юу?",
+   "en": "Hello. Do you have a referral?",
+   "mn_latin": "Sain baina uu. Tand emchiin zaalt baigaa yuu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм, гэр бүлийн эмч маань өгсөн. Би гурван өдрийн өмнөөс толгой өвдөөд байна.",
+   "en": "Yes, my family doctor gave it to me. I have had a headache for three days.",
+   "mn_latin": "Tiim, ger büliin emch maani ögsön. Bi gurvan ödriin ömnöös tolgoi övdööd baina."
+  },
+  {
+   "speaker": "Бүртгэлийн ажилтан",
+   "mn": "За ойлголоо. Иргэний үнэмлэхээ үзүүлнэ үү.",
+   "en": "I see. Please show your ID card.",
+   "mn_latin": "Za oilgoloo. Irgenii ünemlekhee üzüülne üü."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "За. Эмч өнөөдөр намайг хүлээж авах уу?",
+   "en": "Sure. Will the doctor see me today?",
+   "mn_latin": "Za. Emch önöödör namaig khüleej avakh uu?"
+  },
+  {
+   "speaker": "Бүртгэлийн ажилтан",
+   "mn": "Нэг цагийн дараа болж магадгүй. Хүлээлгийн өрөөнд хүлээнэ үү.",
+   "en": "It might be in an hour. Please wait in the waiting room.",
+   "mn_latin": "Neg tsagiin daraa bolj magadgüi. Khüleelgiin öröönd khüleene üü."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Шинжилгээ өгөх шаардлага гарах болов уу?",
+   "en": "Do you think I'll need to have any tests?",
+   "mn_latin": "Shinjilgee ögökh shaardlaga garakh bolov uu?"
+  },
+  {
+   "speaker": "Бүртгэлийн ажилтан",
+   "mn": "Магадгүй, эмч шийднэ. Хариу нь маргааш гарна.",
+   "en": "Possibly. The doctor will decide. The results will be ready tomorrow.",
+   "mn_latin": "Magadgüi, emch shiidne. Khariu ni margaash garna."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many people first visit a family health center (гэр бүлийн эрүүл мэндийн төв) in their khoroo (subdistrict). The doctor there can give a referral to a district or national hospital. At big hospitals, you often register at the front desk, show your ID and health insurance booklet, and then wait on the right floor.",
+  "mn": "Улаанбаатарт олон хүн эхлээд хорооныхоо гэр бүлийн эрүүл мэндийн төвд хандана. Тэндхийн эмч дүүргийн болон улсын эмнэлэгт шилжүүлэх заалт өгч болно. Том эмнэлэгт ихэвчлэн бүртгэлийн цонхоор бүртгүүлж, иргэний үнэмлэх, эрүүл мэндийн даатгалын дэвтэр үзүүлээд, харгалзах давхартаа хүлээнэ."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 18,
+  "notes": "Mostly good, but several unnatural Mongolian phrasings, a wrong word (илгээмж) and a mistranslation of гэж байна; no-op entries can be ignored."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 19,
+  "notes": "Main problems were a mismatched sentence pair, an ambiguous blank, and an unnatural speaker name and question form in the dialogue; the rest were small alignment fixes.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_en",
+    "why": "Natural English: a sample is taken, not a test"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "'since two days ago' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "Mongolian text was a different sentence and did not match the English"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "-өөч is a request form, so it ends with a period, not a question mark"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Match the English title, which mentions the review"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Coughing is not itself an allergy; it is caused by one"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "Logical wording that matches the corrected Mongolian"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'байж болно' is also correct, so the answer was not the only option"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "speaker",
+    "why": "'Регистр' is not natural Mongolian for a receptionist"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "speaker",
+    "why": "Same speaker name fix"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "speaker",
+    "why": "Same speaker name fix"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "speaker",
+    "why": "Same speaker name fix"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "'about' is not in the Mongolian"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'магадгүй юу' is an unnatural question form"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "'Might I need...' is stilted English"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "'Yes' does not fit when the doctor will decide"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "Match the corrected Mongolian"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'ихэнх' (most) did not match 'many'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Align with mn: дэвтэр = booklet, үзүүлэх = show, харгалзах давхар = the right floor"
+   }
+  ]
+ }
+}

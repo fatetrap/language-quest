@@ -1,0 +1,496 @@
+{
+ "intro_en": "You will learn to summarize news stories and conversations with several speakers. You will practice reporting verbs like announce, promise, warn, and suggest, and in Mongolian you will combine гэж хэлсэн, гэсэн, and гэнэ.",
+ "intro_mn": "Та мэдээ болон хэд хэдэн хүний яриаг товчоор дүгнэж сурна. Англи хэлний announce, promise, warn, suggest зэрэг үйл үгсийг, мөн монгол хэлний гэж хэлсэн, гэсэн, гэнэ хэлбэрүүдийг хослуулан хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "мэдэгдэл",
+   "en": "statement, announcement",
+   "pos": "noun",
+   "example_mn": "Сайдын мэдэгдэл өчигдөр гарсан.",
+   "example_en": "The minister's statement came out yesterday.",
+   "mn_latin": "medegdel"
+  },
+  {
+   "mn": "зарлах",
+   "en": "to announce, to declare",
+   "pos": "verb",
+   "example_mn": "Тэд наадмын нээлтийг зарлав.",
+   "example_en": "They announced the opening of Naadam.",
+   "mn_latin": "zarlakh"
+  },
+  {
+   "mn": "мэдээлэх",
+   "en": "to report, to inform",
+   "pos": "verb",
+   "example_mn": "Цаг уурынхан маргааш цас орно гэж мэдээлсэн.",
+   "example_en": "The weather service reported that it will snow tomorrow.",
+   "mn_latin": "medeelekh"
+  },
+  {
+   "mn": "тайлбарлах",
+   "en": "to explain",
+   "pos": "verb",
+   "example_mn": "Багш шалгалтын шинэ журмыг тайлбарлав.",
+   "example_en": "The teacher explained the new exam rules.",
+   "mn_latin": "tailbarlakh"
+  },
+  {
+   "mn": "амлах",
+   "en": "to promise",
+   "pos": "verb",
+   "example_mn": "Захирал цалинг нэмнэ гэж амласан.",
+   "example_en": "The director promised to raise salaries.",
+   "mn_latin": "amlakh"
+  },
+  {
+   "mn": "сануулах",
+   "en": "to warn, to remind",
+   "pos": "verb",
+   "example_mn": "Цагдаа жолооч нарт болгоомжтой яв гэж сануулсан.",
+   "example_en": "The police warned drivers to be careful.",
+   "mn_latin": "sanuulakh"
+  },
+  {
+   "mn": "санал болгох",
+   "en": "to suggest",
+   "pos": "verb",
+   "example_mn": "Ээж гэртээ хоол хийхийг санал болгосон.",
+   "example_en": "Mom suggested cooking at home.",
+   "mn_latin": "sanal bolgokh"
+  },
+  {
+   "mn": "мэдээ",
+   "en": "news",
+   "pos": "noun",
+   "example_mn": "Би өглөө бүр мэдээ сонсдог.",
+   "example_en": "I listen to the news every morning.",
+   "mn_latin": "medee"
+  },
+  {
+   "mn": "цаг уур",
+   "en": "weather (climate)",
+   "pos": "noun",
+   "example_mn": "Цаг уурын мэдээгээр маргааш хүйтэн байна.",
+   "example_en": "According to the weather report, it will be cold tomorrow.",
+   "mn_latin": "tsag uur"
+  },
+  {
+   "mn": "хураангуйлах",
+   "en": "to summarize",
+   "pos": "verb",
+   "example_mn": "Мэдээг хоёр өгүүлбэрээр хураангуйлаарай.",
+   "example_en": "Summarize the news in two sentences.",
+   "mn_latin": "khuraanguilakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Цаг уурынхан маргааш бороо орно гэж мэдээлсэн.",
+   "en": "The weather service reported that it will rain tomorrow.",
+   "alt_mn": [
+    "Цаг уурынхан маргааш бороо орно гэсэн."
+   ],
+   "alt_en": [
+    "The weather service said it would rain tomorrow."
+   ],
+   "mn_latin": "Tsag uurynkhan margaash boroo orno gej medeelsen."
+  },
+  {
+   "mn": "Наадмын зохион байгуулагчид барилдаан есөн цагт эхэлнэ гэж зарласан.",
+   "en": "The Naadam organizers announced that the wrestling would start at nine o'clock.",
+   "alt_mn": [],
+   "alt_en": [
+    "The Naadam organizers announced the wrestling will begin at nine."
+   ],
+   "mn_latin": "Naadmyn zokhion baiguulagchid barildaan yesön tsagt ekhelne gej zarlasan."
+  },
+  {
+   "mn": "Сайд замын засварыг зуны эцэс гэхэд дуусгана гэж амласан.",
+   "en": "The minister promised to finish the road repairs by the end of summer.",
+   "alt_mn": [],
+   "alt_en": [
+    "The minister promised that the road repairs would be finished by the end of summer."
+   ],
+   "mn_latin": "Said zamyn zasvaryg zuny etses gekhed duusgana gej amlasan."
+  },
+  {
+   "mn": "Цагдаа нар жолооч нарт цастай замд болгоомжтой яв гэж сануулсан.",
+   "en": "The police warned drivers to be careful on snowy roads.",
+   "alt_mn": [],
+   "alt_en": [
+    "The police warned the drivers to drive carefully on snowy roads."
+   ],
+   "mn_latin": "Tsagdaa nar jolooch nart tsastai zamd bolgoomjtoi yav gej sanuulsan."
+  },
+  {
+   "mn": "Аав зөвлөлдөхдөө баасан гаригт ууланд гарахыг санал болгосон.",
+   "en": "During the discussion, Dad suggested going to the mountains on Friday.",
+   "alt_mn": [],
+   "alt_en": [
+    "In the discussion, Dad suggested that we go to the mountains on Friday."
+   ],
+   "mn_latin": "Aav zövlöldökhdöö baasan garigt uuland garakhyg sanal bolgoson."
+  },
+  {
+   "mn": "Эгч маань машин засуулах хэрэгтэй гэж тайлбарласан.",
+   "en": "My older sister explained that the car needed to be repaired.",
+   "alt_mn": [],
+   "alt_en": [
+    "My older sister explained that they had to get the car fixed."
+   ],
+   "mn_latin": "Egch maani mashin zasuulakh kheregtei gej tailbarlasan."
+  },
+  {
+   "mn": "Мэдээгээр их хүйтрэнэ гэнэ.",
+   "en": "The news says it's going to get very cold.",
+   "alt_mn": [
+    "Мэдээгээр агаарын температур эрс буурна гэнэ."
+   ],
+   "alt_en": [
+    "They say on the news that it will get very cold."
+   ],
+   "mn_latin": "Medeegeer ikh khüitrene gene."
+  },
+  {
+   "mn": "Ах маань ажлаасаа эрт ирнэ гэж хэлсэн, харин ээж хоцорно гэсэн.",
+   "en": "My brother said he would come home early from work, but Mom said she would be late.",
+   "alt_mn": [],
+   "alt_en": [
+    "My brother said he'd be home early, but Mom said she'd be late."
+   ],
+   "mn_latin": "Akh maani ajlaasaa ert irne gej khelsen, kharin eej khotsorno gesen."
+  },
+  {
+   "mn": "Захирал хурал хойшлогдсоныг мэдэгдсэн.",
+   "en": "The director announced that the meeting had been postponed.",
+   "alt_mn": [
+    "Захирал хурал хойшиллоо гэж мэдэгдсэн."
+   ],
+   "alt_en": [
+    "The director announced the meeting was postponed."
+   ],
+   "mn_latin": "Zakhiral khural khoishlogdsonyg medegdsen."
+  },
+  {
+   "mn": "Сурагчид шалгалтыг хойшлуулахыг хүссэн ч багш татгалзсан гэнэ.",
+   "en": "They say the students asked to postpone the exam, but the teacher refused.",
+   "alt_mn": [],
+   "alt_en": [
+    "The students reportedly asked to postpone the exam, but the teacher refused."
+   ],
+   "mn_latin": "Suragchid shalgaltyg khoishluulakhyg khüssen ch bagsh tatgalzsan gene."
+  },
+  {
+   "mn": "Мэдээллийн хэрэгслүүд галын аюул их байна гэж сануулсан.",
+   "en": "The media warned that the fire danger is high.",
+   "alt_mn": [],
+   "alt_en": [
+    "The news outlets warned that there is a high risk of fire."
+   ],
+   "mn_latin": "Medeelliin kheregslüüd galyn ayuul ikh baina gej sanuulsan."
+  },
+  {
+   "mn": "Товчоор хэлбэл, бүгд зөвшөөрсөн ч Дорж зөвхөн цагийг өөрчлөхийг санал болгосон.",
+   "en": "In short, everyone agreed, but Dorj only suggested changing the time.",
+   "alt_mn": [],
+   "alt_en": [
+    "To sum up, everyone agreed, but Dorj just suggested changing the time."
+   ],
+   "mn_latin": "Tovchoor khelbel, bügd zövshöörsön ch Dorj zövkhön tsagiig öörchlökhiig sanal bolgoson."
+  }
+ ],
+ "grammar": {
+  "title_en": "Summarizing with гэж хэлсэн, гэсэн, and гэнэ",
+  "title_mn": "Мэдээг хураангуйлахдаа announce, promise, warn, suggest хэрэглэх нь",
+  "explain_en": "In Mongolian, you put the reported statement before гэж and then add a verb. Use гэж хэлсэн / гэж мэдээлсэн / гэж амласан when you name the speaking verb: 'Тэр ирнэ гэж хэлсэн.' Use the short form гэсэн ('said') when the speaker is clear and you are comparing several voices: 'Ээж хоцорно гэсэн.' Use гэнэ at the end for hearsay, meaning 'they say / reportedly', often for news you did not hear directly: 'Маргааш цас орно гэнэ.' In a summary you can mix them: 'Аав явъя гэж санал болгосон, ээж болохгүй гэсэн, ах ирэхгүй гэнэ.' The statement keeps its own tense (орно, ирлээ, байна), so there is no 'backshift' like in English.",
+  "explain_mn": "Англи хэлэнд мэдээг хураангуйлахдаа announce, promise, warn, suggest, explain зэрэг үйл үгийг өөр өөр бүтэцтэй хэрэглэнэ. Announce, explain, warn that + өгүүлбэр: 'He announced that the meeting was canceled.' Promise to + үйл үг: 'She promised to call.' Warn somebody to + үйл үг: 'They warned drivers to slow down.' Suggest + -ing буюу suggest that + өгүүлбэр: 'He suggested going early.' Монгол хэлний гэж хэлсэн, гэсэн, гэнэ-ээс ялгаатай нь англи хэлэнд өнгөрсөн цагийн үйл үгийн дараа ихэвчлэн цаг нэг алхам ухардаг (will → would, is → was). Мөн suggest, explain үгийн дараа to + үйл үг хэрэглэж болдоггүйг анхаарна уу.",
+  "examples": [
+   {
+    "mn": "Сайд зам засна гэж амласан.",
+    "en": "The minister promised to repair the road.",
+    "mn_latin": "Said zam zasna gej amlasan."
+   },
+   {
+    "mn": "Ээж хоцорно гэсэн, харин аав эрт ирнэ гэсэн.",
+    "en": "Mom said she'd be late, but Dad said he'd be early.",
+    "mn_latin": "Eej khotsorno gesen, kharin aav ert irne gesen."
+   },
+   {
+    "mn": "Маргааш хүчтэй салхи гарна гэнэ.",
+    "en": "They say there'll be strong wind tomorrow.",
+    "mn_latin": "Margaash khüchtei salkhi garna gene."
+   },
+   {
+    "mn": "Багш хичээлийг тайлбарласан гэнэ.",
+    "en": "The teacher reportedly explained the lesson.",
+    "mn_latin": "Bagsh khicheeliig tailbarlasan gene."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Цаг уурынхан маргааш цас орно ___ мэдээлсэн.",
+   "answer": "гэж",
+   "options": [
+    "гэж",
+    "гэнэ",
+    "гэсэн",
+    "гэвч"
+   ],
+   "translation": "The weather service reported that it will snow tomorrow.",
+   "explain_en": "The reported content is followed by гэж, then the verb мэдээлсэн.",
+   "explain_mn": "Дамжуулж буй агуулгын дараа гэж орж, дараа нь мэдээлсэн үйл үг ирнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Мэдээгээр маргааш хүйтэн байна ___.",
+   "answer": "гэнэ",
+   "options": [
+    "гэнэ",
+    "гэж",
+    "гэвч",
+    "гэвэл"
+   ],
+   "translation": "They say on the news that it will be cold tomorrow.",
+   "explain_en": "Sentence-final гэнэ marks hearsay: 'they say'.",
+   "explain_mn": "Өгүүлбэрийн төгсгөлийн гэнэ нь сонссон, дамжуулсан мэдээг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Ээж хоцорно ___, аав эрт ирнэ гэсэн.",
+   "answer": "гэсэн",
+   "options": [
+    "гэсэн",
+    "гэж",
+    "гэх",
+    "гэж ирсэн"
+   ],
+   "translation": "Mom said she would be late, and Dad said he would come early.",
+   "explain_en": "гэсэн is the short 'said' form, good when comparing several speakers.",
+   "explain_mn": "Хэд хэдэн хүний хэлснийг харьцуулахад товч гэсэн хэлбэр тохиромжтой."
+  },
+  {
+   "lang": "en",
+   "text": "The mayor promised ___ the park next year.",
+   "answer": "to open",
+   "options": [
+    "to open",
+    "opening",
+    "that open",
+    "open"
+   ],
+   "translation": "Хотын дарга ирэх жил цэцэрлэгт хүрээлэнг нээнэ гэж амласан.",
+   "explain_en": "Promise is followed by a to-infinitive when the subject does the action.",
+   "explain_mn": "Promise үйл үгийн дараа үйлдлийг хийх хүн нь өгүүлэгдэхүүнтэй ижил бол to + үйл үг ирнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Dad suggested ___ early to avoid traffic.",
+   "answer": "leaving",
+   "options": [
+    "leaving",
+    "to leave",
+    "leaves",
+    "left"
+   ],
+   "translation": "Аав түгжрэлээс зайлсхийхийн тулд эрт гарахыг санал болгосон.",
+   "explain_en": "Suggest takes an -ing form (or 'that' + clause), not a to-infinitive.",
+   "explain_mn": "Suggest-ийн дараа -ing хэлбэр (эсвэл that өгүүлбэр) орно, to + үйл үг орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The police warned people ___ the river.",
+   "answer": "not to cross",
+   "options": [
+    "not to cross",
+    "don't cross",
+    "not crossing",
+    "to not crossed"
+   ],
+   "translation": "Цагдаа хүмүүст голыг гаталж болохгүй гэж сануулсан.",
+   "explain_en": "Warn + person + (not) to-infinitive reports a warning or order.",
+   "explain_mn": "Warn + хүн + (not) to + үйл үг нь сануулга, тушаалыг дамжуулна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Өнөөдрийн мэдээнд юу гэсэн бэ?",
+   "en": "What did the news say today?",
+   "mn_latin": "Önöödriin medeend yuu gesen be?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Цаг уурынхан бямба гарагт бороо орно гэж мэдээлсэн.",
+   "en": "The weather service reported that it will rain on Saturday.",
+   "mn_latin": "Tsag uurynkhan byamba garagt boroo orno gej medeelsen."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тэгвэл наадмын барилдаан яах вэ?",
+   "en": "Then what about the Naadam wrestling?",
+   "mn_latin": "Tegvel naadmyn barildaan yaakh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Зохион байгуулагчид хуваарь өөрчлөхгүй гэж зарласан. Харин үзэгчдэд борооны цув авч ир гэж сануулсан.",
+   "en": "The organizers announced that the schedule won't change. But they warned spectators to bring raincoats.",
+   "mn_latin": "Zokhion baiguulagchid khuvaari öörchlökhgüi gej zarlasan. Kharin üzegchded boroony tsuv avch ir gej sanuulsan."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Манайхан юу гэсэн бэ? Аав явъя гэсэн үү?",
+   "en": "And what did our family say? Did Dad say let's go?",
+   "mn_latin": "Manaikhan yuu gesen be? Aav yavya gesen üü?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Аав явъя гэсэн, ээж харин гэртээ телевизороор үзье гэж санал болгосон.",
+   "en": "Dad said let's go, but Mom suggested watching it on TV at home.",
+   "mn_latin": "Aav yavya gesen, eej kharin gertee tyelyevizoroor üziye gej sanal bolgoson."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тэгээд эцэст нь юу болсон бэ?",
+   "en": "So what happened in the end?",
+   "mn_latin": "Tegeed etsest ni yuu bolson be?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Товчоор хэлэхэд, бид явна гэнэ. Аав борооны цув авна гэж амласан.",
+   "en": "In short, apparently we're going. Dad promised to get raincoats.",
+   "mn_latin": "Tovchoor khelekhed, bid yavna gene. Aav boroony tsuv avna gej amlasan."
+  }
+ ],
+ "culture_note": {
+  "en": "Naadam announcements on radio, TV, and loudspeakers in Ulaanbaatar usually list the opening ceremony time, the wrestling rounds, and traffic changes around the stadium. People often pass this news on to relatives with the hearsay ending гэнэ, as in 'Наадам эхэлнэ гэнэ'. Weather warnings before Naadam and Tsagaan Sar are taken seriously, since summer rain and winter cold can change travel plans.",
+  "mn": "Улаанбаатарт радио, телевиз, чанга яригчаар дамжуулдаг наадмын мэдэгдэлд нээлтийн ёслолын цаг, барилдааны даваа, цэнгэлдэхийн орчмын замын хөдөлгөөний өөрчлөлтийг ихэвчлэн багтаадаг. Хүмүүс энэ мэдээг ураг төрөлдөө 'Наадам эхэлнэ гэнэ' гэх мэтээр гэнэ-ээр дамжуулдаг. Наадам, Цагаан сарын өмнөх цаг агаарын сэрэмжлүүлгийг нухацтай хүлээж авдаг, учир нь зуны бороо, өвлийн хүйтэн аяллын төлөвлөгөөг өөрчилж болно."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 11,
+  "notes": "Mostly good; a few unnatural Mongolian phrases and an English possessive mismatch were fixed. Some entries above are no-op placeholders."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 19,
+  "notes": "Fixed unnatural Mongolian phrasing, a misspelling, case and possessive errors, ambiguous fill-blank options, and the en/mn grammar mismatch.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Accusative of яриа is яриаг, not ярианг."
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "'хүйтэн хүчтэй буурна' is unnatural; the temperature drops, not the cold."
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "'хүйтэн ихээр буурна' is unnatural."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "'ээж нь' means 'his mom', not our Mom."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "Reflexive цагаа wrongly means 'his own time'."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Replaces the English phrase 'reporting verbs' inside the Mongolian title."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Fixes the misspelling явья→явъя and replaces the odd 'ах хэлээгүй гэнэ'."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "American spelling 'canceled'. 'explain to someone' is correct, so the rule is about to + verb."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "'аав ч' implies 'Dad also', which clashes with the contrast."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "en",
+    "why": "Matches the contrast in the Mongolian."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'гээд мэдээлсэн' is also acceptable colloquially."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Sentence-final гэсэн would also be correct."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "translation",
+    "why": "Removes the redundant double hearsay."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "гэнэ and гэвч could also fit the blank."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Vowel drop: хэлснийг."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "захиалга means a purchase order, not a command."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'Манай гэрт юу гэсэн' is unnatural."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "Matches the fixed Mongolian."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'нухацтай авдаг' is a calque; the natural phrase is 'нухацтай хүлээж авдаг'."
+   }
+  ]
+ }
+}

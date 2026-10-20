@@ -1,0 +1,415 @@
+{
+ "intro_en": "Join an advertising agency meeting where the team plans a social media campaign for Naadam and Tsagaan Sar. You'll learn the key campaign terms and when to use the formal imperative -гтун/-гтүн versus the friendly -аарай/-ээрэй.",
+ "intro_mn": "Сурталчилгааны агентлагийн хуралд оролцож, Наадам, Цагаан сарын өмнөх сошиал медиагийн кампанит ажлыг хамт төлөвлөнө. Англи хэлээр үзэгчдийг итгүүлэх, сонирхол татах илтгэлийн хэллэгүүдийг (imagine, picture this, don't miss out) сурна.",
+ "vocab": [
+  {
+   "mn": "кампанит ажил",
+   "en": "campaign",
+   "pos": "noun",
+   "example_mn": "Бид Наадмын өмнө шинэ кампанит ажил эхлүүлнэ.",
+   "example_en": "We'll launch a new campaign before Naadam.",
+   "mn_latin": "kampanit ajil"
+  },
+  {
+   "mn": "зах зээл",
+   "en": "market",
+   "pos": "noun",
+   "example_mn": "Энэ бүтээгдэхүүн залуучуудын зах зээлд тохирно.",
+   "example_en": "This product fits the youth market.",
+   "mn_latin": "zakh zeel"
+  },
+  {
+   "mn": "хамрах хүрээ",
+   "en": "reach, coverage",
+   "pos": "noun",
+   "example_mn": "Энэ постын хамрах хүрээ их байлаа.",
+   "example_en": "This post had a large reach.",
+   "mn_latin": "khamrakh khüree"
+  },
+  {
+   "mn": "нөлөөлөгч",
+   "en": "influencer",
+   "pos": "noun",
+   "example_mn": "Бид алдартай нөлөөлөгчтэй хамтарна.",
+   "example_en": "We'll partner with a popular influencer.",
+   "mn_latin": "nölöölögch"
+  },
+  {
+   "mn": "төсөв",
+   "en": "budget",
+   "pos": "noun",
+   "example_mn": "Манай төсөв хязгаартай.",
+   "example_en": "Our budget is limited.",
+   "mn_latin": "tösöv"
+  },
+  {
+   "mn": "зорилтот бүлэг",
+   "en": "target audience",
+   "pos": "noun",
+   "example_mn": "Манай зорилтот бүлэг бол оюутнууд.",
+   "example_en": "Our target audience is university students.",
+   "mn_latin": "zoriltot büleg"
+  },
+  {
+   "mn": "дагагч",
+   "en": "follower",
+   "pos": "noun",
+   "example_mn": "Түүнд хоёр зуун мянган дагагч бий.",
+   "example_en": "She has two hundred thousand followers.",
+   "mn_latin": "dagagch"
+  },
+  {
+   "mn": "хямдрал",
+   "en": "sale, discount",
+   "pos": "noun",
+   "example_mn": "Цагаан сарын хямдрал маргааш эхэлнэ.",
+   "example_en": "The Tsagaan Sar sale starts tomorrow.",
+   "mn_latin": "khyamdral"
+  },
+  {
+   "mn": "хэрэгжүүлэх",
+   "en": "to carry out, to implement",
+   "pos": "verb",
+   "example_mn": "Энэ төлөвлөгөөг хоёр сарын дотор хэрэгжүүлнэ.",
+   "example_en": "We'll carry out this plan within two months.",
+   "mn_latin": "kheregjüülekh"
+  },
+  {
+   "mn": "төсөөлөх",
+   "en": "to imagine",
+   "pos": "verb",
+   "example_mn": "Наадмын өглөөг төсөөлөөд үз дээ.",
+   "example_en": "Just imagine Naadam morning.",
+   "mn_latin": "tösöölökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид Наадмын өмнө сошиал медиагаар кампанит ажил эхлүүлнэ.",
+   "en": "We'll launch a social media campaign before Naadam.",
+   "alt_mn": [
+    "Наадмын өмнө бид сошиал медиад кампанит ажил эхлүүлнэ."
+   ],
+   "alt_en": [
+    "We will launch a social media campaign before Naadam.",
+    "We're launching a social media campaign before Naadam."
+   ],
+   "mn_latin": "Bid Naadmyn ömnö soshial myediagaar kampanit ajil ekhlüülne."
+  },
+  {
+   "mn": "Энэ кампанит ажлын төсөв хэр их вэ?",
+   "en": "How big is the budget for this campaign?",
+   "alt_mn": [
+    "Энэ кампанит ажилд хэр их төсөв байгаа вэ?"
+   ],
+   "alt_en": [
+    "What's the budget for this campaign?"
+   ],
+   "mn_latin": "Ene kampanit ajlyn tösöv kher ikh ve?"
+  },
+  {
+   "mn": "Манай зорилтот бүлэг бол Улаанбаатарын залуучууд.",
+   "en": "Our target audience is young people in Ulaanbaatar.",
+   "alt_mn": [
+    "Бидний зорилтот бүлэг Улаанбаатарын залуучууд."
+   ],
+   "alt_en": [
+    "Our target audience is Ulaanbaatar's young people."
+   ],
+   "mn_latin": "Manai zoriltot büleg bol Ulaanbaataryn zaluuchuud."
+  },
+  {
+   "mn": "Нөлөөлөгчидтэй хамтарвал хамрах хүрээ маань хоёр дахин нэмэгдэнэ.",
+   "en": "If we partner with influencers, our reach will double.",
+   "alt_mn": [
+    "Нөлөөлөгчидтэй хамтарч ажиллавал манай хамрах хүрээ хоёр дахин өснө."
+   ],
+   "alt_en": [
+    "If we work with influencers, our reach will double."
+   ],
+   "mn_latin": "Nölöölögchidtei khamtarval khamrakh khüree maani khoyor dakhin nemegdene."
+  },
+  {
+   "mn": "Зах зээлийн судалгааг ирэх долоо хоногт дуусгаарай.",
+   "en": "Please finish the market research next week.",
+   "alt_mn": [
+    "Зах зээлийн судалгаагаа ирэх долоо хоногт дуусгаарай."
+   ],
+   "alt_en": [
+    "Please have the market research done next week."
+   ],
+   "mn_latin": "Zakh zeeliin sudalgaag irekh doloo khonogt duusgaarai."
+  },
+  {
+   "mn": "Хүсэлтээ 6-р сарын 15-ны дотор ирүүлэгтүн.",
+   "en": "Applications must be submitted by June 15.",
+   "alt_mn": [
+    "Хүсэлтээ 6-р сарын 15-ны дотор ирүүлнэ үү."
+   ],
+   "alt_en": [
+    "Submit your applications by June 15.",
+    "Please submit your application by June 15."
+   ],
+   "mn_latin": "Khüseltee 6-r saryn 15-ny dotor irüülegtün."
+  },
+  {
+   "mn": "Цагаан сарын өмнө хүмүүс бэлэгт их мөнгө зарцуулдаг.",
+   "en": "Before Tsagaan Sar, people spend a lot of money on gifts.",
+   "alt_mn": [
+    "Цагаан сарын өмнө хүмүүс бэлэг авахад их мөнгө зарцуулдаг."
+   ],
+   "alt_en": [
+    "People spend a lot on gifts before Tsagaan Sar."
+   ],
+   "mn_latin": "Tsagaan saryn ömnö khümüüs belegt ikh möngö zartsuuldag."
+  },
+  {
+   "mn": "Төсвөө хэтрүүлэхгүй байхыг анхаараарай.",
+   "en": "Be careful not to go over budget.",
+   "alt_mn": [
+    "Төсвөө хэтрүүлэхгүйг анхаараарай."
+   ],
+   "alt_en": [
+    "Make sure we don't go over budget.",
+    "Be careful not to exceed the budget."
+   ],
+   "mn_latin": "Tösvöö khetrüülekhgüi baikhyg ankhaaraarai."
+  },
+  {
+   "mn": "Сошиал медиад \"-гтун\" хэт албан ёсны сонсогдоно.",
+   "en": "On social media, \"-гтун\" sounds too formal.",
+   "alt_mn": [
+    "\"-гтун\" нөхцөл сошиал медиад хэтэрхий албан ёсны сонсогддог."
+   ],
+   "alt_en": [
+    "\"-гтун\" sounds far too formal on social media."
+   ],
+   "mn_latin": "Soshial myediad \"-gtun\" khet alban yosny sonsogdono."
+  },
+  {
+   "mn": "Манай хямдралаас бүү хоцроорой!",
+   "en": "Don't miss out on our sale!",
+   "alt_mn": [
+    "Манай хямдралаас битгий хоцроорой!"
+   ],
+   "alt_en": [
+    "Don't miss our sale!"
+   ],
+   "mn_latin": "Manai khyamdralaas büü khotsrooroi!"
+  },
+  {
+   "mn": "Төсөөлөөд үз дээ: Наадмын өглөө гэр бүлээрээ шинэ дээлтэй гарч байна.",
+   "en": "Picture this: Naadam morning, you head out with your family in brand-new deels.",
+   "alt_mn": [
+    "Төсөөлөөд үз: Наадмын өглөө гэр бүлээрээ шинэ дээл өмсөөд гарч байна."
+   ],
+   "alt_en": [
+    "Imagine this: it's Naadam morning, and you and your family step out in new deels."
+   ],
+   "mn_latin": "Tösöölööd üz dee: Naadmyn öglöö ger büleeree shine deeltei garch baina."
+  },
+  {
+   "mn": "Энэ нөлөөлөгч хэдэн зуун мянган дагагчтай.",
+   "en": "This influencer has several hundred thousand followers.",
+   "alt_mn": [
+    "Энэ нөлөөлөгчид хэдэн зуун мянган дагагч бий."
+   ],
+   "alt_en": [
+    "This influencer has hundreds of thousands of followers."
+   ],
+   "mn_latin": "Ene nölöölögch kheden zuun myangan dagagchtai."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal -гтун/-гтүн vs everyday -аарай/-ээрэй",
+  "title_mn": "Итгүүлэх илтгэлийн хэллэг: imagine, picture this, don't miss out",
+  "explain_en": "Mongolian has several ways to tell people to do something, and choosing the right one is a register decision. The ending -гтун/-гтүн (verb stem + -гтун after back vowels, -гтүн after front vowels, with a linking vowel after consonants: ирүүл- → ирүүлэгтүн, оролц- → оролцогтун) is solemn and official. It appears in government notices, formal announcements and old-style proclamations, and it sounds like 'Applicants shall submit...'. The everyday polite request is -аарай/-ээрэй/-оорой/-өөрэй (бүртгүүлээрэй, оролцоорой). It sounds warm and friendly, and it often points to a later time: 'please do it (later).' In advertising, brands nearly always choose -аарай because it feels personal. A -гтун ending on Instagram would sound stiff or even comic, unless you use it on purpose for a playful 'royal decree' effect. For a neutral, standard polite request, many writers use -на уу/-нэ үү (ирүүлнэ үү).",
+  "explain_mn": "Англи хэлээр сурталчилгааны илтгэл (pitch) хийхдээ сонсогчийн төсөөллийг хөдөлгөх тусгай хэллэг хэрэглэдэг. \"Imagine...\" болон \"Picture this:...\" гэдэг нь \"Төсөөлөөд үз дээ\" гэсэн утгатай. Араас нь ихэвчлэн одоо цагийн өгүүлбэр ирж, дүр зургийг нүдэнд харагдах мэт зурж өгнө: \"Picture this: you're at Naadam, the sun is shining...\" \"Don't miss out (on...)!\" нь \"Бүү хоцроорой! Боломжоо бүү алдаарай!\" гэсэн утгатай бөгөөд \"on\"-ы араас юуг алдах нь ирнэ: don't miss out on our sale. \"What if...?\" (Хэрвээ ... бол яах вэ?), \"Think about...\" (... гэж бодоод үз) зэрэг хэллэг ч түгээмэл. Англи хэлний сурталчилгаанд тушаах хэлбэр нь бүдүүлэг биш, харин найрсаг, урам өгсөн өнгө аястай сонсогддог.",
+  "examples": [
+   {
+    "mn": "Бүх иргэд сонгуульд идэвхтэй оролцогтун!",
+    "en": "All citizens are called upon to take part in the election!",
+    "mn_latin": "Bükh irged songuulid idevkhtei oroltsogtun!"
+   },
+   {
+    "mn": "Манай аянд заавал оролцоорой!",
+    "en": "Be sure to join our campaign!",
+    "mn_latin": "Manai ayand zaaval oroltsooroi!"
+   },
+   {
+    "mn": "Санал хүсэлтээ 5-р сарын 1-ний дотор ирүүлэгтүн.",
+    "en": "Submissions must be received by May 1.",
+    "mn_latin": "Sanal khüseltee 5-r saryn 1-nii dotor irüülegtün."
+   },
+   {
+    "mn": "Төсөөлөөд үз дээ: хуушуураа идээд, барилдаан үзэж байна.",
+    "en": "Picture this: you're eating khuushuur and watching the wrestling.",
+    "mn_latin": "Tösöölööd üz dee: khuushuuraa ideed, barildaan üzej baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Албан ёсны зарлал: Санал хүсэлтээ 5-р сарын 1-ний дотор ирүүл___.",
+   "answer": "эгтүн",
+   "options": [
+    "эгтүн",
+    "агтун",
+    "огтун",
+    "өгтүн"
+   ],
+   "translation": "Official notice: Submissions must be received by May 1.",
+   "explain_en": "In an official notice the formal -гтун/-гтүн fits. The stem ирүүл- contains the front vowel ү (и is neutral), so vowel harmony requires -эгтүн: ирүүлэгтүн.",
+   "explain_mn": "Албан ёсны зарлалд -гтун/-гтүн тохирно. Ирүүл- үгэнд эм эгшиг \"ү\" байгаа (\"и\" саармаг эгшиг) учраас эгшиг зохицох ёсоор -эгтүн болно: ирүүлэгтүн."
+  },
+  {
+   "lang": "mn",
+   "text": "Болд оо, маргаашийн хурлаа битгий март___.",
+   "answer": "аарай",
+   "options": [
+    "аарай",
+    "агтун",
+    "ээрэй",
+    "оорой"
+   ],
+   "translation": "Bold, don't forget tomorrow's meeting.",
+   "explain_en": "This is a friendly reminder to a colleague, so we use everyday -аарай. The stem март- has the back vowel а, so the ending is -аарай.",
+   "explain_mn": "Хамт олондоо найрсаг сануулж байгаа тул өдөр тутмын -аарай хэрэглэнэ. Март- үгэнд \"а\" эгшиг байгаа тул -аарай болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ кампанит ажлын ___ арван сая төгрөг.",
+   "answer": "төсөв",
+   "options": [
+    "төсөв",
+    "хамрах хүрээ",
+    "нөлөөлөгч",
+    "зах зээл"
+   ],
+   "translation": "The budget for this campaign is ten million tugriks.",
+   "explain_en": "An amount of money points to төсөв (budget). Reach, influencer and market don't fit an amount in tugriks.",
+   "explain_mn": "Мөнгөн дүн дурдсан тул \"budget\" буюу төсөв гэдэг үг тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "___ this: you, your family, and the best seats at Naadam.",
+   "answer": "Picture",
+   "options": [
+    "Picture",
+    "Look",
+    "Watch",
+    "See"
+   ],
+   "translation": "Төсөөлөөд үз дээ: та, таны гэр бүл, Наадмын хамгийн сайн суудал.",
+   "explain_en": "\"Picture this:\" is a fixed pitch phrase that invites the listener to imagine a scene. \"Look this\" or \"See this\" isn't idiomatic.",
+   "explain_mn": "\"Picture this:\" бол \"Төсөөлөөд үз дээ\" гэсэн тогтвортой хэллэг. Look, watch, see гэдэг үгсийг ийм байдлаар хэрэглэдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Don't miss ___ on our Tsagaan Sar deals!",
+   "answer": "out",
+   "options": [
+    "out",
+    "up",
+    "off",
+    "away"
+   ],
+   "translation": "Манай Цагаан сарын хямдралаас бүү хоцроорой!",
+   "explain_en": "The phrasal verb is \"miss out on something\": to lose a good opportunity.",
+   "explain_mn": "\"Miss out on\" нь \"боломжоо алдах, хоцрох\" гэсэн утгатай өвөрмөц үйл үг. Бусад сонголт энэ утгыг өгөхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "___ how much easier your mornings would be.",
+   "answer": "Imagine",
+   "options": [
+    "Imagine",
+    "Remember",
+    "Wonder",
+    "Suppose"
+   ],
+   "translation": "Өглөө тань хичнээн хялбар болохыг төсөөлөөд үз дээ.",
+   "explain_en": "\"Imagine how...\" invites the listener to picture a better future, and \"would\" matches that imagined scene. \"Remember\" refers to the past, and \"wonder\" and \"suppose\" don't work as commands here.",
+   "explain_mn": "\"Imagine how...\" нь сонсогчийг илүү сайхан ирээдүйг төсөөлөхөд урина. \"Remember\" өнгөрснийг илэрхийлдэг, \"wonder\", \"suppose\" энд тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "За, Наадмын кампанит ажлаа ярилцъя. Төсөв маань арван таван сая төгрөг.",
+   "en": "Okay, let's talk about the Naadam campaign. Our budget is fifteen million tugriks.",
+   "mn_latin": "Za, Naadmyn kampanit ajlaa yariltsya. Tösöv maani arvan tavan saya tögrög."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Зорилтот бүлэг маань хотын залуучууд учраас гол хүчээ сошиал медиад төвлөрүүлэх хэрэгтэй.",
+   "en": "Since our target audience is young people in the city, we should focus mainly on social media.",
+   "mn_latin": "Zoriltot büleg maani khotyn zaluuchuud uchraas gol khüchee soshial myediad tövlörüülekh kheregtei."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Нэг санал байна. Хоёр гурван нөлөөлөгчтэй хамтарвал хамрах хүрээ маань хурдан өснө.",
+   "en": "I have an idea. If we partner with two or three influencers, our reach will grow fast.",
+   "mn_latin": "Neg sanal baina. Khoyor gurvan nölöölögchtei khamtarval khamrakh khüree maani khurdan ösnö."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн санаа. Уриан дээр \"Наадамдаа бэлтгэгтүн!\" гэвэл ямар вэ?",
+   "en": "Good idea. What if the slogan says \"Prepare yourselves for Naadam!\"?",
+   "mn_latin": "Sain sanaa. Urian deer \"Naadamdaa beltgegtün!\" gevel yamar ve?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Хэт албан ёсны сонсогдож байна. \"Наадамдаа бэлдээрэй!\" гэвэл илүү дотно байх.",
+   "en": "That sounds too formal. \"Get ready for Naadam!\" would feel warmer.",
+   "mn_latin": "Khet alban yosny sonsogdoj baina. \"Naadamdaa beldeerei!\" gevel ilüü dotno baikh."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Англи хувилбар нь: \"Picture this: Naadam morning, new deel, best seats. Don't miss out!\"",
+   "en": "The English version: \"Picture this: Naadam morning, new deel, best seats. Don't miss out!\"",
+   "mn_latin": "Angli khuvilbar ni: \"Picture this: Naadam morning, new deel, best seats. Don't miss out!\""
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Гоё байна. Зах зээлийн судалгааг би энэ долоо хоногт дуусгана.",
+   "en": "I love it. I'll finish the market research this week.",
+   "mn_latin": "Goyo baina. Zakh zeeliin sudalgaag bi ene doloo khonogt duusgana."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл бүгд даалгавраа баасан гараг гэхэд ирүүлээрэй. Төсвөө хэтрүүлэхгүй байхыг анхаараарай!",
+   "en": "Then everyone, please send in your tasks by Friday. And be careful not to go over budget!",
+   "mn_latin": "Tegvel bügd daalgavraa baasan garag gekhed irüüleerei. Tösvöö khetrüülekhgüi baikhyg ankhaaraarai!"
+  }
+ ],
+ "culture_note": {
+  "en": "Naadam in July and Tsagaan Sar, the Lunar New Year, are Mongolia's biggest shopping seasons. Brands compete for attention with deel discounts, gift sets and buuz-making ads, often promoted by local influencers on Facebook, Instagram and TikTok. The formal -гтун ending still appears in government notices and ceremonial announcements, but brand marketing almost always uses the friendlier -аарай.",
+  "mn": "Долдугаар сарын Наадам болон Цагаан сар бол Монголд худалдан авалт хамгийн их болдог үе. Брэндүүд дээлийн хямдрал, бэлгийн багц, бууз хийх сурталчилгаагаар хэрэглэгчдийн анхаарлыг татахаар өрсөлдөж, ихэвчлэн Facebook, Instagram, TikTok дахь нөлөөлөгчдөөр дамжуулан сурталчилдаг. Албан ёсны -гтун нөхцөл төрийн байгууллагын зарлал, ёслолын мэдэгдэлд одоо ч хэрэглэгддэг ч брэндийн маркетингт бараг үргэлж илүү найрсаг -аарай хэлбэрийг сонгодог."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 0,
+  "notes": "I found nothing that needs fixing. The Mongolian is natural and correct, including the vowel harmony in ирүүлэгтүн, оролцогтун, бэлтгэгтүн and мартаарай. The translation pairs match in meaning, each fill-in-the-blank has a single correct answer, and the register explanations are accurate."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is mostly clean. The en/mn intros and grammar sections differ because each one targets its own learner direction; the only real error was the vowel-harmony claim about и.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "и is a neutral vowel, not a front vowel; ү decides the harmony"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "и is a саармаг (neutral) vowel, not an эм (front) vowel"
+   }
+  ]
+ }
+}

@@ -1,0 +1,464 @@
+{
+ "intro_en": "You will learn to say how old your parents, brothers, sisters and children are, and to talk about birthdays. You will also practice saying older/younger and 'my birthday is...'.",
+ "intro_mn": "Та эцэг эх, ах дүү, хүүхдүүдийнхээ насыг хэлж, төрсөн өдрийн тухай ярихыг сурна. Мөн \"ах/дүү, том/бага\" гэсэн харьцуулалт болон \"миний төрсөн өдөр ...\" гэж хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "нас",
+   "en": "age",
+   "pos": "noun",
+   "example_mn": "Таны нас хэд вэ?",
+   "example_en": "How old are you? (What is your age?)",
+   "mn_latin": "nas"
+  },
+  {
+   "mn": "төрсөн өдөр",
+   "en": "birthday",
+   "pos": "noun",
+   "example_mn": "Маргааш миний төрсөн өдөр.",
+   "example_en": "Tomorrow is my birthday.",
+   "mn_latin": "törsön ödör"
+  },
+  {
+   "mn": "ээж",
+   "en": "mother",
+   "pos": "noun",
+   "example_mn": "Миний ээж дөчин таван настай.",
+   "example_en": "My mother is forty-five years old.",
+   "mn_latin": "eej"
+  },
+  {
+   "mn": "аав",
+   "en": "father",
+   "pos": "noun",
+   "example_mn": "Миний аав тавин настай.",
+   "example_en": "My father is fifty years old.",
+   "mn_latin": "aav"
+  },
+  {
+   "mn": "ах",
+   "en": "older brother",
+   "pos": "noun",
+   "example_mn": "Миний ах хорин найман настай.",
+   "example_en": "My older brother is twenty-eight years old.",
+   "mn_latin": "akh"
+  },
+  {
+   "mn": "эгч",
+   "en": "older sister",
+   "pos": "noun",
+   "example_mn": "Миний эгч гучин настай.",
+   "example_en": "My older sister is thirty years old.",
+   "mn_latin": "egch"
+  },
+  {
+   "mn": "дүү",
+   "en": "younger sibling",
+   "pos": "noun",
+   "example_mn": "Миний дүү арван хоёр настай.",
+   "example_en": "My younger brother or sister is twelve years old.",
+   "mn_latin": "düü"
+  },
+  {
+   "mn": "хүүхэд",
+   "en": "child",
+   "pos": "noun",
+   "example_mn": "Тэдний хүүхэд зургаан настай.",
+   "example_en": "Their child is six years old.",
+   "mn_latin": "khüükhed"
+  },
+  {
+   "mn": "хэзээ",
+   "en": "when",
+   "pos": "adverb",
+   "example_mn": "Таны төрсөн өдөр хэзээ вэ?",
+   "example_en": "When is your birthday?",
+   "mn_latin": "khezee"
+  },
+  {
+   "mn": "бага",
+   "en": "younger / small",
+   "pos": "adjective",
+   "example_mn": "Би ахаасаа бага.",
+   "example_en": "I am younger than my older brother.",
+   "mn_latin": "baga"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний ээж дөчин таван настай.",
+   "en": "My mother is forty-five years old.",
+   "alt_mn": [
+    "Манай ээж дөчин таван настай."
+   ],
+   "alt_en": [
+    "My mom is forty-five.",
+    "My mom is 45."
+   ],
+   "mn_latin": "Minii eej döchin tavan nastai."
+  },
+  {
+   "mn": "Аав чинь хэдэн настай вэ?",
+   "en": "How old is your father?",
+   "alt_mn": [
+    "Таны аав хэдэн настай вэ?"
+   ],
+   "alt_en": [
+    "How old is your dad?"
+   ],
+   "mn_latin": "Aav chini kheden nastai ve?"
+  },
+  {
+   "mn": "Миний дүү арван настай.",
+   "en": "My younger sibling is ten years old.",
+   "alt_mn": [
+    "Манай дүү арван настай."
+   ],
+   "alt_en": [
+    "My younger brother is ten years old.",
+    "My younger sister is ten years old.",
+    "My little brother is ten."
+   ],
+   "mn_latin": "Minii düü arvan nastai."
+  },
+  {
+   "mn": "Тэр миний эгч, тэр гучин настай.",
+   "en": "She is my older sister, and she is thirty years old.",
+   "alt_mn": [],
+   "alt_en": [
+    "She is my older sister. She is thirty."
+   ],
+   "mn_latin": "Ter minii egch, ter guchin nastai."
+  },
+  {
+   "mn": "Миний ах надаас хоёр насаар ах.",
+   "en": "My older brother is two years older than me.",
+   "alt_mn": [
+    "Миний ах надаас хоёр насаар том."
+   ],
+   "alt_en": [
+    "My older brother is older than me by two years."
+   ],
+   "mn_latin": "Minii akh nadaas khoyor nasaar akh."
+  },
+  {
+   "mn": "Би эгчээсээ дөрвөн насаар бага.",
+   "en": "I am four years younger than my older sister.",
+   "alt_mn": [
+    "Би эгчээсээ дөрвөн насаар дүү."
+   ],
+   "alt_en": [
+    "I'm four years younger than my sister."
+   ],
+   "mn_latin": "Bi egcheesee dörvön nasaar baga."
+  },
+  {
+   "mn": "Таны төрсөн өдөр хэзээ вэ?",
+   "en": "When is your birthday?",
+   "alt_mn": [
+    "Чиний төрсөн өдөр хэзээ вэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Tany törsön ödör khezee ve?"
+  },
+  {
+   "mn": "Миний төрсөн өдөр тавдугаар сарын арван тав.",
+   "en": "My birthday is on May 15.",
+   "alt_mn": [
+    "Миний төрсөн өдөр таван сарын 15."
+   ],
+   "alt_en": [
+    "My birthday is May fifteenth."
+   ],
+   "mn_latin": "Minii törsön ödör tavdugaar saryn arvan tav."
+  },
+  {
+   "mn": "Өнөөдөр манай хүүхдийн төрсөн өдөр.",
+   "en": "Today is our child's birthday.",
+   "alt_mn": [
+    "Өнөөдөр бидний хүүхдийн төрсөн өдөр."
+   ],
+   "alt_en": [],
+   "mn_latin": "Önöödör manai khüükhdiin törsön ödör."
+  },
+  {
+   "mn": "Түүний хүү долоон настай.",
+   "en": "His son is seven years old.",
+   "alt_mn": [
+    "Түүний хүү 7 настай."
+   ],
+   "alt_en": [
+    "Her son is seven years old.",
+    "His son is seven."
+   ],
+   "mn_latin": "Tüünii khüü doloon nastai."
+  },
+  {
+   "mn": "Эгч чинь надаас том уу?",
+   "en": "Is your sister older than me?",
+   "alt_mn": [
+    "Таны эгч надаас том уу?"
+   ],
+   "alt_en": [
+    "Is your older sister older than me?"
+   ],
+   "mn_latin": "Egch chini nadaas tom uu?"
+  },
+  {
+   "mn": "Манай аав ээжээс хоёр насаар ах.",
+   "en": "My father is two years older than my mother.",
+   "alt_mn": [
+    "Манай аав ээжээс хоёр насаар том."
+   ],
+   "alt_en": [
+    "My dad is two years older than my mom."
+   ],
+   "mn_latin": "Manai aav eejees khoyor nasaar akh."
+  }
+ ],
+ "grammar": {
+  "title_en": "Age with -тай and comparing with -аас",
+  "title_mn": "Нас хэлэх нь: \"-тай\" ба \"-аас\"-аар харьцуулах нь",
+  "explain_en": "To give age, put the number before настай: «Ээж дөчин настай» (Mom is forty). To ask, use хэдэн настай вэ? (how many years old?). To compare, add -аас/-ээс/-оос/-өөс (matching vowel harmony) to the person you compare with: «Би ахаасаа бага» (I am younger than my older brother). Use ах/том for older and бага/дүү for younger. For birthdays, say «Миний төрсөн өдөр ... сарын ...» and ask «хэзээ вэ?».",
+  "explain_mn": "Монгол хэлэнд нас хэлэхдээ тооны ард \"настай\" гэж нэмнэ: \"Ээж дөчин настай.\" Асуухдаа \"хэдэн настай вэ?\" гэнэ. Харьцуулахдаа харьцуулж буй хүнд эгшиг зохицлын дагуу -аас/-ээс/-оос/-өөс нөхцөл залгана: \"Би ахаасаа бага.\" \"Ах\", \"том\" нь насаар их, \"бага\", \"дүү\" нь насаар бага гэсэн утгатай. Төрсөн өдрийг \"Миний төрсөн өдөр ... сарын ...\" гэж хэлж, \"хэзээ вэ?\" гэж асууна.",
+  "examples": [
+   {
+    "mn": "Миний аав тавин настай.",
+    "en": "My father is fifty years old.",
+    "mn_latin": "Minii aav tavin nastai."
+   },
+   {
+    "mn": "Дүү чинь хэдэн настай вэ?",
+    "en": "How old is your younger sibling?",
+    "mn_latin": "Düü chini kheden nastai ve?"
+   },
+   {
+    "mn": "Би ахаасаа бага.",
+    "en": "I am younger than my older brother.",
+    "mn_latin": "Bi akhaasaa baga."
+   },
+   {
+    "mn": "Миний төрсөн өдөр аравдугаар сарын хорин.",
+    "en": "My birthday is on October 20.",
+    "mn_latin": "Minii törsön ödör aravdugaar saryn khorin."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Миний ээж дөчин ___.",
+   "answer": "настай",
+   "options": [
+    "настай",
+    "нас",
+    "хэзээ",
+    "бага"
+   ],
+   "translation": "My mother is forty years old.",
+   "explain_en": "To say someone has a certain age, use the number plus настай.",
+   "explain_mn": "Нас хэлэхдээ тооны ард \"настай\" гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Би эгчээсээ ___.",
+   "answer": "бага",
+   "options": [
+    "бага",
+    "настай",
+    "хэзээ",
+    "ээж"
+   ],
+   "translation": "I am younger than my older sister.",
+   "explain_en": "Бага means younger; the ending -ээс means 'than'.",
+   "explain_mn": "\"Бага\" нь насаар дүү гэсэн утгатай; \"-ээс\" нь гарах тийн ялгалын нөхцөл бөгөөд \"-ээс дүү\" гэсэн харьцуулалтыг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Таны төрсөн өдөр ___ вэ?",
+   "answer": "хэзээ",
+   "options": [
+    "хэзээ",
+    "хэн",
+    "хаана",
+    "юу"
+   ],
+   "translation": "When is your birthday?",
+   "explain_en": "Use хэзээ to ask about time or date.",
+   "explain_mn": "Цаг хугацаа, өдрийг асуухад \"хэзээ\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My younger brother is ten years ___.",
+   "answer": "old",
+   "options": [
+    "old",
+    "older",
+    "age",
+    "year"
+   ],
+   "translation": "Миний дүү арван настай.",
+   "explain_en": "We say 'ten years old' to give age.",
+   "explain_mn": "Англиар нас хэлэхдээ \"years old\" гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I am younger ___ my sister.",
+   "answer": "than",
+   "options": [
+    "than",
+    "then",
+    "from",
+    "of"
+   ],
+   "translation": "Би эгчээсээ бага.",
+   "explain_en": "Use 'than' after younger or older to compare.",
+   "explain_mn": "\"Younger/older\"-ийн дараа харьцуулахдаа \"than\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My birthday is ___ May 15.",
+   "answer": "on",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "to"
+   ],
+   "translation": "Миний төрсөн өдөр тавдугаар сарын арван тав.",
+   "explain_en": "Use 'on' with a specific date.",
+   "explain_mn": "Тодорхой огнооны өмнө \"on\" хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу, Сара! Энэ хэн бэ?",
+   "en": "Hello, Sara! Who is this?",
+   "mn_latin": "Sain baina uu, Sara! Ene khen be?"
+  },
+  {
+   "speaker": "Sara",
+   "mn": "Энэ миний ээж. Тэр дөчин долоон настай.",
+   "en": "This is my mother. She is forty-seven years old.",
+   "mn_latin": "Ene minii eej. Ter döchin doloon nastai."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэгээд чиний дүү хэдэн настай вэ?",
+   "en": "And how old is your younger brother?",
+   "mn_latin": "Tegeed chinii düü kheden nastai ve?"
+  },
+  {
+   "speaker": "Sara",
+   "mn": "Миний дүү арван хоёр настай. Би түүнээс зургаан насаар эгч.",
+   "en": "My brother is twelve. I am six years older than him.",
+   "mn_latin": "Minii düü arvan khoyor nastai. Bi tüünees zurgaan nasaar egch."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Чиний төрсөн өдөр хэзээ вэ?",
+   "en": "When is your birthday?",
+   "mn_latin": "Chinii törsön ödör khezee ve?"
+  },
+  {
+   "speaker": "Sara",
+   "mn": "Миний төрсөн өдөр наймдугаар сарын арван тав.",
+   "en": "My birthday is on August 15.",
+   "mn_latin": "Minii törsön ödör naimdugaar saryn arvan tav."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайхан байна! Миний төрсөн өдөр маргааш.",
+   "en": "Nice! My birthday is tomorrow.",
+   "mn_latin": "Saikhan baina! Minii törsön ödör margaash."
+  },
+  {
+   "speaker": "Sara",
+   "mn": "Төрсөн өдрийн мэнд хүргэе, Бат!",
+   "en": "Happy birthday, Bat!",
+   "mn_latin": "Törsön ödriin mend khürgeye, Bat!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, people often use special words for family members by age: ах (older brother), эгч (older sister) and дүү (younger sibling). Respect for elders is very important, so people usually greet older relatives first. At a birthday, families gather, eat buuz and cake, and sing together.",
+  "mn": "Монголд гэр бүлийн гишүүдийг насаар нь ах, эгч, дүү гэж нэрлэдэг бөгөөд ахмад хүнд хүндэтгэл үзүүлэх нь маш чухал. Тиймээс ихэвчлэн ахмад хүмүүстэйгээ түрүүлж мэндэлдэг. Төрсөн өдрөөр гэр бүлээрээ цуглаж, бууз, бялуу идэж, хамт дуулдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 17,
+  "notes": "Mostly good, but some inconsistencies (gender of дүү, 'my child' vs 'our'), a typo with the wrong letter in the Mongolian explanation, and the Mongolian grammar explanation describes English instead of Mongolian."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 11,
+  "notes": "Main fixes: reflexive possessive error, gender of ах/эгч, ambiguous blank, and wrong case name.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'ах/бага' is a mismatched pair; 'байна' is not used in the actual birthday pattern"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "English wording: 'practice older/younger' needs a verb"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "alternative duplicated the main translation"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "alternative duplicated the main translation"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "reflexive -ээсээ would mean the father's own mother"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "same reflexive error"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'ахыг/залууг заана' was inaccurate and vowel harmony was missing compared with the English version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'ах' also fits the blank grammatically"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "the case is the ablative (гарах тийн ялгал), not 'гарах орших'"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Sara is female, so 'эгч', not 'ах'"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "the standard 'happy birthday' wish matches the English"
+   }
+  ]
+ }
+}

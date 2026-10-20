@@ -1,0 +1,400 @@
+{
+ "intro_en": "Chat with friends about horoscopes, star signs, and the Mongolian twelve-year animal cycle. You will also learn to make negative guesses with -хгүй байх and -аагүй байх, and strong ones with -ж таарахгүй (\"can't be\").",
+ "intro_mn": "Найзуудтайгаа зурхай, од, жилийн амьтны тухай ярилцаж сурна. Мөн англи хэлээр \"can't be\", \"couldn't have\" гэсэн хэлбэрээр баттай сөрөг таамаг илэрхийлж сурна.",
+ "vocab": [
+  {
+   "mn": "зурхай",
+   "en": "astrology; horoscope",
+   "pos": "noun",
+   "example_mn": "Ээж өглөө бүр зурхай уншдаг.",
+   "example_en": "My mom reads her horoscope every morning.",
+   "mn_latin": "zurkhai"
+  },
+  {
+   "mn": "од",
+   "en": "star",
+   "pos": "noun",
+   "example_mn": "Хөдөө шөнө од их тод харагддаг.",
+   "example_en": "In the countryside, the stars look very bright at night.",
+   "mn_latin": "od"
+  },
+  {
+   "mn": "зурхайч",
+   "en": "astrologer",
+   "pos": "noun",
+   "example_mn": "Эмээ хуримын өдрийг зурхайчаар үзүүлсэн.",
+   "example_en": "Grandma had an astrologer pick the wedding day.",
+   "mn_latin": "zurkhaich"
+  },
+  {
+   "mn": "жилийн амьтан",
+   "en": "animal of one's birth year (zodiac animal)",
+   "pos": "noun phrase",
+   "example_mn": "Таны жилийн амьтан юу вэ?",
+   "example_en": "What is your zodiac animal?",
+   "mn_latin": "jiliin amitan"
+  },
+  {
+   "mn": "таарах",
+   "en": "to match; to be compatible",
+   "pos": "verb",
+   "example_mn": "Луу, бич хоёр сайн таардаг гэдэг.",
+   "example_en": "They say the Dragon and the Monkey are a good match.",
+   "mn_latin": "taarakh"
+  },
+  {
+   "mn": "орд",
+   "en": "zodiac sign (Western)",
+   "pos": "noun",
+   "example_mn": "Би Арслангийн ордтой.",
+   "example_en": "My sign is Leo.",
+   "mn_latin": "ord"
+  },
+  {
+   "mn": "таамаг",
+   "en": "prediction; forecast",
+   "pos": "noun",
+   "example_mn": "Энэ долоо хоногийн таамаг их сайхан байна.",
+   "example_en": "This week's prediction is really good.",
+   "mn_latin": "taamag"
+  },
+  {
+   "mn": "хувь заяа",
+   "en": "fate; destiny",
+   "pos": "noun",
+   "example_mn": "Хувь заяаг өөрөө бүтээдэг гэж би боддог.",
+   "example_en": "I think you make your own destiny.",
+   "mn_latin": "khuvi zayaa"
+  },
+  {
+   "mn": "итгэх",
+   "en": "to believe; to trust",
+   "pos": "verb",
+   "example_mn": "Та зурхайд итгэдэг үү?",
+   "example_en": "Do you believe in astrology?",
+   "mn_latin": "itgekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та ямар жилтэй вэ?",
+   "en": "What's your animal year?",
+   "alt_mn": [
+    "Таны жилийн амьтан юу вэ?"
+   ],
+   "alt_en": [
+    "What's your zodiac animal?"
+   ],
+   "mn_latin": "Ta yamar jiltei ve?"
+  },
+  {
+   "mn": "Би морин жилтэй.",
+   "en": "I was born in the Year of the Horse.",
+   "alt_mn": [
+    "Миний жилийн амьтан морь."
+   ],
+   "alt_en": [
+    "I'm a Horse."
+   ],
+   "mn_latin": "Bi morin jiltei."
+  },
+  {
+   "mn": "Хулгана, морь хоёр таардаггүй гэдэг.",
+   "en": "They say the Rat and the Horse aren't compatible.",
+   "alt_mn": [
+    "Хулгана, морь хоёр зохицдоггүй гэдэг."
+   ],
+   "alt_en": [
+    "People say the Rat and the Horse don't match."
+   ],
+   "mn_latin": "Khulgana, mori khoyor taardaggüi gedeg."
+  },
+  {
+   "mn": "Өнөөдрийн зурхайд юу гэж бичсэн бэ?",
+   "en": "What does today's horoscope say?",
+   "alt_mn": [
+    "Өнөөдрийн зурхай юу гэж байна?"
+   ],
+   "alt_en": [
+    "What's in today's horoscope?"
+   ],
+   "mn_latin": "Önöödriin zurkhaid yuu gej bichsen be?"
+  },
+  {
+   "mn": "Энэ үнэн байж таарахгүй.",
+   "en": "This can't be true.",
+   "alt_mn": [],
+   "alt_en": [
+    "That can't be true."
+   ],
+   "mn_latin": "Ene ünen baij taarakhgüi."
+  },
+  {
+   "mn": "Бат зурхайд итгэдэггүй, тиймээс уншаагүй байх.",
+   "en": "Bat doesn't believe in horoscopes, so he probably hasn't read it.",
+   "alt_mn": [],
+   "alt_en": [
+    "Bat doesn't believe in astrology, so he probably didn't read it."
+   ],
+   "mn_latin": "Bat zurkhaid itgedeggüi, tiimees unshaagüi baikh."
+  },
+  {
+   "mn": "Бороо орж байна, өнөө шөнө од харагдахгүй байх.",
+   "en": "It's raining, so the stars probably won't be visible tonight.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's raining, so we probably won't see the stars tonight."
+   ],
+   "mn_latin": "Boroo orj baina, önöö shönö od kharagdakhgüi baikh."
+  },
+  {
+   "mn": "Тэр зурхайч ингэж хэлээгүй байх.",
+   "en": "That astrologer probably didn't say that.",
+   "alt_mn": [],
+   "alt_en": [
+    "The astrologer probably didn't put it that way."
+   ],
+   "mn_latin": "Ter zurkhaich ingej kheleegüi baikh."
+  },
+  {
+   "mn": "Сараа ийм таамагт итгэхгүй байх.",
+   "en": "Saraa probably won't believe a prediction like this.",
+   "alt_mn": [],
+   "alt_en": [
+    "Saraa probably won't believe this kind of prediction."
+   ],
+   "mn_latin": "Saraa iim taamagt itgekhgüi baikh."
+  },
+  {
+   "mn": "Тэр хүн жинхэнэ зурхайч байж таарахгүй.",
+   "en": "That person can't be a real astrologer.",
+   "alt_mn": [],
+   "alt_en": [
+    "He can't be a real astrologer."
+   ],
+   "mn_latin": "Ter khün jinkhene zurkhaich baij taarakhgüi."
+  },
+  {
+   "mn": "Миний ордын таамаг зөв биш байх.",
+   "en": "My sign's prediction probably isn't right.",
+   "alt_mn": [],
+   "alt_en": [
+    "The prediction for my sign is probably wrong."
+   ],
+   "mn_latin": "Minii ordyn taamag zöv bish baikh."
+  },
+  {
+   "mn": "Хувь заяаг одод шийддэг гэж би боддоггүй.",
+   "en": "I don't think the stars decide our fate.",
+   "alt_mn": [],
+   "alt_en": [
+    "I don't believe the stars decide our destiny."
+   ],
+   "mn_latin": "Khuvi zayaag odod shiiddeg gej bi boddoggüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Negative guesses: -хгүй байх, -аагүй байх, -ж таарахгүй",
+  "title_mn": "Баттай сөрөг таамаг: can't be / couldn't have",
+  "explain_en": "To guess that something is NOT so, Mongolian adds байх (\"probably, I suppose\") after a negative form. For the future or habits use -хгүй байх: ирэхгүй байх \"probably won't come\". For the past use -аагүй/-ээгүй/-оогүй/-өөгүй байх: уншаагүй байх \"probably hasn't read it\". With nouns and adjectives use биш байх: зөв биш байх \"probably isn't right\". When you are almost certain, like English \"can't be\", use -ж таарахгүй: үнэн байж таарахгүй \"can't be true\". Yes, it's the same таарах \"to match\": literally, \"it doesn't fit that it's true.\"",
+  "explain_mn": "Англи хэлэнд ямар нэг зүйл үнэн биш гэдэгт бараг итгэлтэй байвал \"can't be\" гэж хэлдэг: \"This can't be true\" (Энэ үнэн байж таарахгүй). Өнгөрсөн цагийн хувьд \"can't have\" эсвэл \"couldn't have\" + V3 хэрэглэнэ: \"He couldn't have read it\" (Тэр уншсан байж таарахгүй). Анхаар: \"mustn't\" бол \"болохгүй, хориотой\" гэсэн утгатай тул таамаглалд хэрэглэдэггүй. Итгэл бага бол \"probably isn't\", \"probably didn't\" гэж хэлээрэй. Энэ нь -хгүй байх, -аагүй байх хэлбэртэй дүйнэ.",
+  "examples": [
+   {
+    "mn": "Тэр өнөөдөр ирэхгүй байх.",
+    "en": "He probably won't come today.",
+    "mn_latin": "Ter önöödör irekhgüi baikh."
+   },
+   {
+    "mn": "Сараа зурхайгаа уншаагүй байх.",
+    "en": "Saraa probably hasn't read her horoscope.",
+    "mn_latin": "Saraa zurkhaigaa unshaagüi baikh."
+   },
+   {
+    "mn": "Энэ таамаг зөв биш байх.",
+    "en": "This prediction probably isn't right.",
+    "mn_latin": "Ene taamag zöv bish baikh."
+   },
+   {
+    "mn": "Энэ үнэн байж таарахгүй!",
+    "en": "This can't be true!",
+    "mn_latin": "Ene ünen baij taarakhgüi!"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бат өнөөдрийн зурхайг унш___ байх. Тэр ийм юмыг огт сонирхдоггүй.",
+   "answer": "аагүй",
+   "options": [
+    "аагүй",
+    "ана",
+    "сан",
+    "ах"
+   ],
+   "translation": "Bat probably hasn't read today's horoscope. He has no interest in that kind of thing at all.",
+   "explain_en": "This is a guess about the past in the negative, so the verb takes -аагүй + байх: уншаагүй байх \"probably hasn't read\".",
+   "explain_mn": "Өнгөрсөн үйлийн сөрөг таамаг тул -аагүй байх хэлбэр орно. Англиар \"probably hasn't read\" гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ таамаг зөв ___ байх.",
+   "answer": "биш",
+   "options": [
+    "биш",
+    "үгүй",
+    "гүй",
+    "ч"
+   ],
+   "translation": "This prediction probably isn't right.",
+   "explain_en": "зөв is an adjective, so it is negated with биш before байх: зөв биш байх.",
+   "explain_mn": "Тэмдэг нэрийг \"биш\"-ээр үгүйсгэнэ. Англиар \"probably isn't right\" гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хулгана, морь хоёр сайн ___ гэдэг, тиймээс эмээ санаа зовж байна.",
+   "answer": "таардаггүй",
+   "options": [
+    "таардаггүй",
+    "таарахаар",
+    "тааруулсан",
+    "таарсаар"
+   ],
+   "translation": "They say the Rat and the Horse aren't a good match, so Grandma is worried.",
+   "explain_en": "This is a general belief (\"they say...\"), so we need the habitual negative -даггүй: таардаггүй \"aren't compatible\".",
+   "explain_mn": "Байнгын, ерөнхий үнэнийг илэрхийлж байгаа тул -даггүй хэлбэр орно. Англиар \"aren't a good match\" гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "That ___ be Saraa's horoscope. She's a Horse, not a Rat.",
+   "answer": "can't",
+   "options": [
+    "can't",
+    "mustn't",
+    "shouldn't",
+    "doesn't"
+   ],
+   "translation": "Энэ Сараагийн зурхай байж таарахгүй. Тэр хулгана биш, морин жилтэй.",
+   "explain_en": "We are almost sure it's not true, so we use \"can't be\". \"Mustn't\" is a prohibition.",
+   "explain_mn": "Бараг итгэлтэй сөрөг таамаг тул \"can't be\" хэрэглэнэ. \"Mustn't\" нь хориг илэрхийлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "He ___ have read it. The magazine is still in its wrapper.",
+   "answer": "couldn't",
+   "options": [
+    "couldn't",
+    "mustn't",
+    "needn't",
+    "wouldn't"
+   ],
+   "translation": "Тэр уншсан байж таарахгүй. Сэтгүүл нь боодолтойгоо л байна.",
+   "explain_en": "For a strong negative guess about the past, English uses couldn't/can't + have + past participle.",
+   "explain_mn": "Өнгөрсөн үйлийн баттай сөрөг таамагт \"couldn't have + V3\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "This can't ___ true!",
+   "answer": "be",
+   "options": [
+    "be",
+    "is",
+    "being",
+    "been"
+   ],
+   "translation": "Энэ үнэн байж таарахгүй!",
+   "explain_en": "After a modal verb like can't, use the base form: can't be.",
+   "explain_mn": "\"Can't\" гэх мэт модаль үйл үгийн дараа үйл үгийн үндсэн хэлбэр орно: \"can't be\"."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Том, чи ямар жилтэй вэ?",
+   "en": "Tom, what's your animal year?",
+   "mn_latin": "Tom, chi yamar jiltei ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Би 1996 онд төрсөн. Хулганан жил байх аа?",
+   "en": "I was born in 1996. That's the Year of the Rat, I think?",
+   "mn_latin": "Bi 1996 ond törsön. Khulganan jil baikh aa?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм. Би морин жилтэй. Зурхайд хулгана, морь хоёр таардаггүй гэж бичсэн байна.",
+   "en": "Right. I'm a Horse. The horoscope says the Rat and the Horse aren't compatible.",
+   "mn_latin": "Tiim. Bi morin jiltei. Zurkhaid khulgana, mori khoyor taardaggüi gej bichsen baina."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Энэ үнэн байж таарахгүй. Бид хоёр гурван жил найзалж байна шүү дээ!",
+   "en": "That can't be true. We've been friends for three years!",
+   "mn_latin": "Ene ünen baij taarakhgüi. Bid khoyor gurvan jil naizalj baina shüü dee!"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Энэ зурхайч нэг их мэддэг хүн биш байх. Манай эмээгийн зурхайч өөрөөр хэлсэн.",
+   "en": "This astrologer probably doesn't know much. My grandma's astrologer said something different.",
+   "mn_latin": "Ene zurkhaich neg ikh meddeg khün bish baikh. Manai emeegiin zurkhaich ööröör khelsen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Өнөөдрийн таамаг ч бас сонин юм. \"Хол газар явахгүй байх нь дээр\" гэнэ.",
+   "en": "Today's prediction is strange too. It says, \"Better not to travel far.\"",
+   "mn_latin": "Önöödriin taamag ch bas sonin yum. \"Khol gazar yavakhgüi baikh ni deer\" gene."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Би маргааш Хархорин руу явна. Ийм юманд итгэдэггүй ээ.",
+   "en": "I'm going to Kharkhorin tomorrow. I don't believe in this stuff.",
+   "mn_latin": "Bi margaash Kharkhorin ruu yavna. Iim yumand itgedeggüi ee."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Сараа чамайг тэгж амархан явуулахгүй байх даа!",
+   "en": "Saraa probably won't let you go that easily!",
+   "mn_latin": "Saraa chamaig tegj amarkhan yavuulakhgüi baikh daa!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, people often ask \"What's your animal year?\" instead of asking your age directly, and families still check animal-year compatibility before weddings. The twelve animals combine with five elements and colors to make a 60-year cycle, and the traditional lunar calendar (зурхай) also sets the date of Tsagaan Sar. When your own animal year returns, people say you are \"entering your year\" (жил орох), and some take extra care during that year.",
+  "mn": "Монголд хүний насыг шууд асуухын оронд \"Ямар жилтэй вэ?\" гэж асуух нь элбэг. Хурим хийхийн өмнө жилийн амьтан таарах эсэхийг шалгадаг гэр бүл одоо ч байна. Арван хоёр амьтан таван махбод, өнгөтэй хослон жаран жилийн хүрдийг бүрдүүлдэг ба Цагаан сарын өдрийг ч зурхайгаар тогтоодог. Өөрийн жил эргэж ирэхэд \"жил орлоо\" гэж хэлдэг бөгөөд зарим хүн тэр жилдээ илүү болгоомжтой байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, natural lesson with accurate grammar and correct fill-in-the-blank items. Fixes cover a few mismatched alternatives and one doubled particle."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Mostly solid. Fixed one wrong Mongolian alternative, one ambiguous distractor, and two dialogue lines.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "байх ёсгүй means 'shouldn't be', not 'can't be'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'won't be' can also work as a guess, so the answer wasn't the only option"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Direction marker added; habitual -дэггүй for 'I don't believe'"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "амар тайван means 'peacefully', not 'that easily'"
+   }
+  ]
+ }
+}

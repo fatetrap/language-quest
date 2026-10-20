@@ -1,0 +1,452 @@
+{
+ "intro_en": "You will learn to read a café menu in Ulaanbaatar and name common dishes and drinks. You will also practice asking what a dish is and what is in it.",
+ "intro_mn": "Та Улаанбаатарын кафены цэсийг уншиж, түгээмэл хоол, ундааны нэрийг сурна. Мөн тухайн хоол юу болох, дотор нь юу ордгийг асууж сурна.",
+ "vocab": [
+  {
+   "mn": "цэс",
+   "en": "menu",
+   "pos": "noun",
+   "example_mn": "Цэс өгөөч.",
+   "example_en": "Please give me the menu.",
+   "mn_latin": "tses"
+  },
+  {
+   "mn": "хуушуур",
+   "en": "khuushuur (fried meat pastry)",
+   "pos": "noun",
+   "example_mn": "Би хуушуур авъя.",
+   "example_en": "I'll have khuushuur.",
+   "mn_latin": "khuushuur"
+  },
+  {
+   "mn": "бууз",
+   "en": "buuz (steamed dumpling)",
+   "pos": "noun",
+   "example_mn": "Бууз халуун байна.",
+   "example_en": "The buuz is hot.",
+   "mn_latin": "buuz"
+  },
+  {
+   "mn": "цуйван",
+   "en": "tsuivan (noodle dish)",
+   "pos": "noun",
+   "example_mn": "Цуйван махтай.",
+   "example_en": "The tsuivan has meat.",
+   "mn_latin": "tsuivan"
+  },
+  {
+   "mn": "шөл",
+   "en": "soup",
+   "pos": "noun",
+   "example_mn": "Би шөл уумаар байна.",
+   "example_en": "I want to have soup.",
+   "mn_latin": "shöl"
+  },
+  {
+   "mn": "салат",
+   "en": "salad",
+   "pos": "noun",
+   "example_mn": "Салат хэд вэ?",
+   "example_en": "How much is the salad?",
+   "mn_latin": "salat"
+  },
+  {
+   "mn": "цай",
+   "en": "tea",
+   "pos": "noun",
+   "example_mn": "Надад сүүтэй цай өгөөч.",
+   "example_en": "Please give me tea with milk.",
+   "mn_latin": "tsai"
+  },
+  {
+   "mn": "кофе",
+   "en": "coffee",
+   "pos": "noun",
+   "example_mn": "Тэр кофе уудаг.",
+   "example_en": "He drinks coffee.",
+   "mn_latin": "kofye"
+  },
+  {
+   "mn": "жүүс",
+   "en": "juice",
+   "pos": "noun",
+   "example_mn": "Танайд жүүс байна уу?",
+   "example_en": "Do you have juice?",
+   "mn_latin": "jüüs"
+  },
+  {
+   "mn": "амттан",
+   "en": "dessert",
+   "pos": "noun",
+   "example_mn": "Амттан юу байна вэ?",
+   "example_en": "What desserts do you have?",
+   "mn_latin": "amttan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Цэс өгөөч.",
+   "en": "Please give me the menu.",
+   "alt_mn": [
+    "Цэс өгнө үү?"
+   ],
+   "alt_en": [
+    "Could I have the menu, please?"
+   ],
+   "mn_latin": "Tses ögööch."
+  },
+  {
+   "mn": "Энэ юу вэ?",
+   "en": "What is this?",
+   "alt_mn": [],
+   "alt_en": [
+    "What's this?"
+   ],
+   "mn_latin": "Ene yuu ve?"
+  },
+  {
+   "mn": "Энэ бууз уу?",
+   "en": "Is this buuz?",
+   "alt_mn": [],
+   "alt_en": [
+    "Is this a buuz?"
+   ],
+   "mn_latin": "Ene buuz uu?"
+  },
+  {
+   "mn": "Цуйванд юу байдаг вэ?",
+   "en": "What is in the tsuivan?",
+   "alt_mn": [
+    "Цуйванд юу ордог вэ?"
+   ],
+   "alt_en": [
+    "What does the tsuivan have in it?"
+   ],
+   "mn_latin": "Tsuivand yuu baidag ve?"
+  },
+  {
+   "mn": "Шөлөнд мах байна уу?",
+   "en": "Does the soup have meat?",
+   "alt_mn": [
+    "Шөл махтай юу?"
+   ],
+   "alt_en": [
+    "Is there meat in the soup?"
+   ],
+   "mn_latin": "Shölönd makh baina uu?"
+  },
+  {
+   "mn": "Салат ямар вэ?",
+   "en": "What is the salad like?",
+   "alt_mn": [],
+   "alt_en": [
+    "How's the salad?"
+   ],
+   "mn_latin": "Salat yamar ve?"
+  },
+  {
+   "mn": "Ямар жүүс байна вэ?",
+   "en": "What kind of juice do you have?",
+   "alt_mn": [
+    "Ямар жүүс байдаг вэ?"
+   ],
+   "alt_en": [
+    "Which juices do you have?"
+   ],
+   "mn_latin": "Yamar jüüs baina ve?"
+  },
+  {
+   "mn": "Хуушуур махтай юу?",
+   "en": "Does the khuushuur have meat?",
+   "alt_mn": [
+    "Хуушуурт мах байна уу?"
+   ],
+   "alt_en": [
+    "Is the khuushuur made with meat?"
+   ],
+   "mn_latin": "Khuushuur makhtai yuu?"
+  },
+  {
+   "mn": "Би хоёр бууз авъя.",
+   "en": "I'll have two buuz.",
+   "alt_mn": [
+    "Надад хоёр бууз өгөөч."
+   ],
+   "alt_en": [
+    "I'll take two buuz."
+   ],
+   "mn_latin": "Bi khoyor buuz avya."
+  },
+  {
+   "mn": "Кофе уу, цай уу?",
+   "en": "Coffee or tea?",
+   "alt_mn": [],
+   "alt_en": [
+    "Would you like coffee or tea?"
+   ],
+   "mn_latin": "Kofye uu, tsai uu?"
+  },
+  {
+   "mn": "Амттан юу байна вэ?",
+   "en": "What desserts do you have?",
+   "alt_mn": [
+    "Ямар амттан байна вэ?"
+   ],
+   "alt_en": [
+    "What is there for dessert?"
+   ],
+   "mn_latin": "Amttan yuu baina ve?"
+  },
+  {
+   "mn": "Цай сүүтэй юу?",
+   "en": "Does the tea have milk?",
+   "alt_mn": [
+    "Цайнд сүү байна уу?"
+   ],
+   "alt_en": [
+    "Is the tea made with milk?"
+   ],
+   "mn_latin": "Tsai süütei yuu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking about dishes: юу, ямар, and Энэ юу вэ?",
+  "title_mn": "Хоолны талаар асуух: юу, ямар, Энэ юу вэ?",
+  "explain_en": "Use «Энэ юу вэ?» to ask 'What is this?'. «Юу» means 'what' and goes with «вэ» at the end. «Ямар» means 'what kind of' and comes before the noun: «Ямар шөл байна вэ?». For yes/no questions, add the question particle at the end: «уу/үү» after a consonant («Мах байна уу?» – Is there meat?), and «юу/юү» after a long vowel or a diphthong. You can also use the ending -тай/-тэй 'with': «Цуйван махтай юу?» (Does the tsuivan have meat?).",
+  "explain_mn": "«Энэ юу вэ?» гэж «What is this?» гэж асууна. «Юу» гэдэг нь «what» гэсэн утгатай бөгөөд өгүүлбэрийн төгсгөлд «вэ»-тэй хамт хэрэглэгдэнэ. «Ямар» нь «what kind of» гэсэн утгатай бөгөөд нэр үгийн өмнө ордог: Ямар шөл байна вэ? Тийм/үгүй гэсэн асуултад төгсгөлд асуух сул үг нэмнэ: гийгүүлэгчийн дараа «уу/үү» (Мах байна уу?), урт эгшиг, хос эгшгийн дараа «юу/юү». Мөн «-тай/-тэй» (with) нөхцөлийг хэрэглэж болно: Цуйван махтай юу?",
+  "examples": [
+   {
+    "mn": "Энэ юу вэ?",
+    "en": "What is this?",
+    "mn_latin": "Ene yuu ve?"
+   },
+   {
+    "mn": "Ямар цай байна вэ?",
+    "en": "What kind of tea do you have?",
+    "mn_latin": "Yamar tsai baina ve?"
+   },
+   {
+    "mn": "Шөлөнд мах байна уу?",
+    "en": "Does the soup have meat?",
+    "mn_latin": "Shölönd makh baina uu?"
+   },
+   {
+    "mn": "Цуйванд юу байдаг вэ?",
+    "en": "What is in the tsuivan?",
+    "mn_latin": "Tsuivand yuu baidag ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ ___ вэ?",
+   "answer": "юу",
+   "options": [
+    "юу",
+    "хэн",
+    "хаана",
+    "хэзээ"
+   ],
+   "translation": "What is this?",
+   "explain_en": "«Юу» means 'what' and is used for things.",
+   "explain_mn": "Юмыг асуухад «юу» хэрэглэнэ; «хэн» хүнийг асуухад хэрэглэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Ямар жүүс байна ___?",
+   "answer": "вэ",
+   "options": [
+    "вэ",
+    "уу",
+    "бэ",
+    "юм"
+   ],
+   "translation": "What kind of juice do you have?",
+   "explain_en": "A question with a question word (ямар) ends in «вэ», not «уу».",
+   "explain_mn": "Асуух үгтэй (ямар) өгүүлбэр «вэ»-ээр төгсөнө, «уу»-гаар биш."
+  },
+  {
+   "lang": "mn",
+   "text": "Цуйван мах___ юу?",
+   "answer": "тай",
+   "options": [
+    "тай",
+    "тэй",
+    "д",
+    "ыг"
+   ],
+   "translation": "Does the tsuivan have meat?",
+   "explain_en": "«Мах» has back vowels, so «-тай» ('with') is used.",
+   "explain_mn": "«Мах» нь эр үетэй тул «-тай» залгана."
+  },
+  {
+   "lang": "en",
+   "text": "___ is in the soup?",
+   "answer": "What",
+   "options": [
+    "What",
+    "Who",
+    "Where",
+    "When"
+   ],
+   "translation": "Шөлөнд юу байна вэ?",
+   "explain_en": "We ask about things with «What».",
+   "explain_mn": "Юмыг асуухад «What» хэрэглэнэ; «Who» хүнд."
+  },
+  {
+   "lang": "en",
+   "text": "___ the salad have cheese?",
+   "answer": "Does",
+   "options": [
+    "Does",
+    "Do",
+    "Is",
+    "Are"
+   ],
+   "translation": "Салатад бяслаг байна уу?",
+   "explain_en": "«Salad» is singular (it), so we use «Does».",
+   "explain_mn": "«Salad» нэгэн тоо (it) тул «Does» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "What kind ___ tea do you have?",
+   "answer": "of",
+   "options": [
+    "of",
+    "for",
+    "at",
+    "with"
+   ],
+   "translation": "Танайд ямар цай байна вэ?",
+   "explain_en": "We say «what kind of» + noun.",
+   "explain_mn": "«What kind of» + нэр үг гэж хэлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу? Цэс өгөөч.",
+   "en": "Hello. Could I have the menu, please?",
+   "mn_latin": "Sain baina uu? Tses ögööch."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Энд байна. Та юу авмаар байна вэ?",
+   "en": "Here you are. What would you like?",
+   "mn_latin": "End baina. Ta yuu avmaar baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Цуйван гэж юу вэ? Дотор нь юу байдаг вэ?",
+   "en": "What is tsuivan? What is in it?",
+   "mn_latin": "Tsuivan gej yuu ve? Dotor ni yuu baidag ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Энэ гоймон, мах, хүнсний ногоотой хоол.",
+   "en": "It's a dish with noodles, meat, and vegetables.",
+   "mn_latin": "Ene goimon, makh, khünsnii nogootoi khool."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Цуйванд мах байна уу?",
+   "en": "Does the tsuivan have meat?",
+   "mn_latin": "Tsuivand makh baina uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм, байна. Харин салат махгүй.",
+   "en": "Yes, it does. The salad has no meat, though.",
+   "mn_latin": "Tiim, baina. Kharin salat makhgüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл би цуйван, сүүтэй цай авъя.",
+   "en": "Then I'll have the tsuivan and tea with milk.",
+   "mn_latin": "Tegvel bi tsuivan, süütei tsai avya."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За, баярлалаа.",
+   "en": "Okay, thank you.",
+   "mn_latin": "Za, bayarlalaa."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar cafés, menus often list Mongolian dishes like buuz, khuushuur, and tsuivan next to salads and coffee. Buuz are steamed and khuushuur are fried, and both are usually filled with mutton or beef. Many Mongolians drink salty milk tea (сүүтэй цай) with meals.",
+  "mn": "Улаанбаатарын кафеудын цэсэнд бууз, хуушуур, цуйван зэрэг монгол хоол салат, кофены хамт байдаг. Бууз жигнэсэн, хуушуур шарсан хоол бөгөөд ихэвчлэн хонины эсвэл үхрийн махтай. Олон монгол хүн хоолны хамт давстай сүүтэй цай уудаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 23,
+  "notes": "Most content is good, but the Mongolian grammar explanation was written about English, a few words had wrong forms, and the dialogue drifted between soup and tsuivan."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Fixed a mistranslated sentence, unnatural word choices, an incomplete question-particle rule, and en/mn mismatches.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Ungrammatical clause 'хоол юу вэ, ... асуухыг'"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "Reflexive 'цэсээ' sounds odd from a customer"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "'дотроо' with a reflexive ending is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "en",
+    "why": "'Салат ямар вэ?' asks what the salad is like, not what kind it is"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_en",
+    "why": "Matches the corrected meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "The alternative repeated the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Explains why 'махтай юу' uses юу"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Matches en version, including the юу/юү rule"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "гурил = flour; noodles = гоймон"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Match 'Many Mongolians' instead of all Mongolians"
+   }
+  ]
+ }
+}

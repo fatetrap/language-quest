@@ -1,0 +1,562 @@
+{
+ "intro_en": "You will learn to book and describe a haircut, coloring, shave, or manicure, and to give polite instructions to a stylist. You will also practice the causative -уулах (үс засуулах) and requests with -ж өгөөч.",
+ "intro_mn": "Та үс засуулах, үс будуулах, сахал хусуулах, хумс засуулах зэрэг үйлчилгээнд цаг авч, хүссэнээ тайлбарлах, үсчинд эелдгээр заавар өгч сурна. Мөн -уулах/-үүлэх дагавар (үс засуулах) болон -ж өгөөч хэлбэрийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "үсчин",
+   "en": "barber, hairdresser",
+   "pos": "noun",
+   "example_mn": "Манай хотхоны үсчин маш сайн.",
+   "example_en": "The barber in our neighborhood is very good.",
+   "mn_latin": "üschin"
+  },
+  {
+   "mn": "хацар",
+   "en": "cheek",
+   "pos": "noun",
+   "example_mn": "Хацрын үсийг богино тайрч өгөөч.",
+   "example_en": "Please cut the hair by my cheeks short.",
+   "mn_latin": "khatsar"
+  },
+  {
+   "mn": "хэлбэр",
+   "en": "style, shape",
+   "pos": "noun",
+   "example_mn": "Энэ үсний хэлбэр танд очно.",
+   "example_en": "This hairstyle suits you.",
+   "mn_latin": "khelber"
+  },
+  {
+   "mn": "тайрах",
+   "en": "to trim, to take off (a little)",
+   "pos": "verb",
+   "example_mn": "Үсний үзүүрийг жаахан тайраарай.",
+   "example_en": "Just trim the ends of the hair a little.",
+   "mn_latin": "tairakh"
+  },
+  {
+   "mn": "үсээ будуулах",
+   "en": "to get one's hair dyed",
+   "pos": "verb phrase",
+   "example_mn": "Би маргааш үсээ бор өнгөөр будуулна.",
+   "example_en": "Tomorrow I'm getting my hair dyed brown.",
+   "mn_latin": "üsee buduulakh"
+  },
+  {
+   "mn": "духны үс",
+   "en": "bangs (fringe)",
+   "pos": "noun",
+   "example_mn": "Духны үсийг минь бага зэрэг богиносгож өгөөч.",
+   "example_en": "Please make my bangs a little shorter.",
+   "mn_latin": "dukhny üs"
+  },
+  {
+   "mn": "үсний урт",
+   "en": "hair length",
+   "pos": "noun",
+   "example_mn": "Үсний уртыг ийм хэмжээтэй үлдээгээрэй.",
+   "example_en": "Leave the length about like this.",
+   "mn_latin": "üsnii urt"
+  },
+  {
+   "mn": "шатлах",
+   "en": "to add layers",
+   "pos": "verb",
+   "example_mn": "Үсийг минь бага зэрэг шатлаж өгөөч.",
+   "example_en": "Please add a few layers to my hair.",
+   "mn_latin": "shatlakh"
+  },
+  {
+   "mn": "сахал хусуулах",
+   "en": "to get a shave",
+   "pos": "verb phrase",
+   "example_mn": "Тэр шинэ жилийн өмнө сахлаа хусуулсан.",
+   "example_en": "He got his beard shaved before the New Year.",
+   "mn_latin": "sakhal khusuulakh"
+  },
+  {
+   "mn": "хумс засуулах",
+   "en": "to get a manicure (nails done)",
+   "pos": "verb phrase",
+   "example_mn": "Эгч маань хумсаа засуулахаар салонд явсан.",
+   "example_en": "My older sister went to the salon to get her nails done.",
+   "mn_latin": "khums zasuulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би маргааш үсээ засуулмаар байна.",
+   "en": "I'd like to get a haircut tomorrow.",
+   "alt_mn": [
+    "Би маргааш үсээ засуулахыг хүсч байна."
+   ],
+   "alt_en": [
+    "I want to have my hair cut tomorrow."
+   ],
+   "mn_latin": "Bi margaash üsee zasuulmaar baina."
+  },
+  {
+   "mn": "Таван цагт цаг авч болох уу?",
+   "en": "Can I book an appointment for five o'clock?",
+   "alt_mn": [
+    "Таван цагт цаг захиалж болох уу?"
+   ],
+   "alt_en": [
+    "Can I make an appointment at five?"
+   ],
+   "mn_latin": "Tavan tsagt tsag avch bolokh uu?"
+  },
+  {
+   "mn": "Үсийг минь жаахан богиносгож өгөөч.",
+   "en": "Please cut my hair a little shorter.",
+   "alt_mn": [
+    "Үсийг минь бага зэрэг богиносгож өгөөч."
+   ],
+   "alt_en": [
+    "Could you make my hair a bit shorter, please?"
+   ],
+   "mn_latin": "Üsiig mini jaakhan boginosgoj ögööch."
+  },
+  {
+   "mn": "Духны үсийг минь хэт богино болгохгүй байгаарай.",
+   "en": "Please don't make my bangs too short.",
+   "alt_mn": [
+    "Духны үсийг минь хэт богино болгож болохгүй шүү."
+   ],
+   "alt_en": [
+    "Don't cut my bangs too short, please."
+   ],
+   "mn_latin": "Dukhny üsiig mini khet bogino bolgokhgüi baigaarai."
+  },
+  {
+   "mn": "Би үсээ шаргал өнгөөр будуулмаар байна.",
+   "en": "I'd like to get my hair dyed blond.",
+   "alt_mn": [
+    "Би үсээ шаргал будуулмаар байна."
+   ],
+   "alt_en": [
+    "I want to have my hair dyed blond."
+   ],
+   "mn_latin": "Bi üsee shargal öngöör buduulmaar baina."
+  },
+  {
+   "mn": "Үсний үзүүрийг л тайраад өгөөч.",
+   "en": "Just trim the ends, please.",
+   "alt_mn": [
+    "Зөвхөн үсний үзүүрийг тайраарай."
+   ],
+   "alt_en": [
+    "Please just take a little off the ends."
+   ],
+   "mn_latin": "Üsnii üzüüriig l tairaad ögööch."
+  },
+  {
+   "mn": "Хажуу талыг нь богино, дээд талыг нь урт үлдээгээрэй.",
+   "en": "Leave the sides short and the top long.",
+   "alt_mn": [
+    "Хажуу талыг нь богино, дээд талыг нь урт байлгаарай."
+   ],
+   "alt_en": [
+    "Keep the sides short and the top long."
+   ],
+   "mn_latin": "Khajuu talyg ni bogino, deed talyg ni urt üldeegeerei."
+  },
+  {
+   "mn": "Миний нөхөр сахлаа хусуулахаар үсчин дээр очсон.",
+   "en": "My husband went to the barber to get a shave.",
+   "alt_mn": [
+    "Нөхөр маань сахлаа хусуулахаар үсчинд очсон."
+   ],
+   "alt_en": [
+    "My husband went to the barber's to have his beard shaved."
+   ],
+   "mn_latin": "Minii nökhör sakhlaa khusuulakhaar üschin deer ochson."
+  },
+  {
+   "mn": "Цагаан сарын өмнө үсчин дээр дандаа дараалал их байдаг.",
+   "en": "Before Tsagaan Sar there is always a long line at the barber.",
+   "alt_mn": [
+    "Цагаан сарын өмнө үсчин дээр үргэлж хүн их байдаг."
+   ],
+   "alt_en": [
+    "Before Tsagaan Sar the barber is always crowded."
+   ],
+   "mn_latin": "Tsagaan saryn ömnö üschin deer dandaa daraalal ikh baidag."
+  },
+  {
+   "mn": "Та хумсаа ямар өнгөөр будуулмаар байна вэ?",
+   "en": "What color would you like your nails done?",
+   "alt_mn": [
+    "Та хумсандаа ямар өнгө сонгох вэ?"
+   ],
+   "alt_en": [
+    "What color do you want for your manicure?"
+   ],
+   "mn_latin": "Ta khumsaa yamar öngöör buduulmaar baina ve?"
+  },
+  {
+   "mn": "Дууссан бол толь өгөөч, ар талыг нь харъя.",
+   "en": "If you're done, please give me a mirror so I can see the back.",
+   "alt_mn": [
+    "Дууссан бол толь өгөөч, ар талыг нь үзье."
+   ],
+   "alt_en": [
+    "When you're finished, could I have a mirror to check the back?"
+   ],
+   "mn_latin": "Duussan bol toli ögööch, ar talyg ni kharya."
+  },
+  {
+   "mn": "Үсийг минь ийм хэлбэртэй засаж өгөөч, энэ зураг шиг.",
+   "en": "Please cut my hair in this style, like this picture.",
+   "alt_mn": [
+    "Энэ зураг шиг хэлбэртэй засаж өгөөч."
+   ],
+   "alt_en": [
+    "Could you do my hair like this picture, please?"
+   ],
+   "mn_latin": "Üsiig mini iim khelbertei zasaj ögööch, ene zurag shig."
+  }
+ ],
+ "grammar": {
+  "title_en": "Getting services done: -уулах and -ж өгөөч",
+  "title_mn": "Үйлчилгээ авах нь: -уулах ба -ж өгөөч",
+  "explain_en": "In Mongolian, the causative suffix -уулах/-үүлэх (by vowel harmony) shows that someone else does the action for you: засах 'to fix' → засуулах 'to have (something) fixed'. So үс засуулах = get a haircut, үс будуулах = get hair dyed, сахал хусуулах = get a shave. When the object is your own, it takes the reflexive possessive -аа/-ээ: Би үсээ засуулсан. To ask the stylist for something politely, use the converb -ж/-ч + өгөөч: богиносгож өгөөч 'please shorten it (for me)'. Add -аарай/-ээрэй for a softer instruction: тайраарай.",
+  "explain_mn": "Монгол хэлэнд -уулах/-үүлэх дагавраар өөр хүнээр хийлгэх утга илэрхийлдэг: засах → засуулах, будах → будуулах, хусах → хусуулах. Үйлийн объект нь өөрийн эзэмшил бол -аа/-ээ нөхцөл авна: Би үсээ засуулсан. Англи хэлэнд өөр хүнээр юм хийлгэхдээ 'get/have + зүйл + үйл үгийн III хэлбэр' бүтцийг хэрэглэнэ: I got my hair cut. I'm having my hair dyed. Хүсэлт тавихдаа 'Could you ...?' эсвэл 'Please ...' гэж хэлнэ: Could you trim the ends? Монголоор -ж өгөөч гэдэг шиг англиар 'could you / would you' нь эелдэг сонсогдоно. 'I cut my hair' гэвэл өөрөө хайчилсан гэсэн утга, 'I got my hair cut' гэвэл үсчинд засуулсан гэсэн утга гэдгийг анхаараарай.",
+  "examples": [
+   {
+    "mn": "Би долоо хоногт нэг удаа үсээ засуулдаг.",
+    "en": "I get my hair cut once a week.",
+    "mn_latin": "Bi doloo khonogt neg udaa üsee zasuuldag."
+   },
+   {
+    "mn": "Тэр үсээ улаан өнгөөр будуулсан.",
+    "en": "She had her hair dyed red.",
+    "mn_latin": "Ter üsee ulaan öngöör buduulsan."
+   },
+   {
+    "mn": "Духны үсийг минь жаахан богиносгож өгөөч.",
+    "en": "Please shorten my bangs a little.",
+    "mn_latin": "Dukhny üsiig mini jaakhan boginosgoj ögööch."
+   },
+   {
+    "mn": "Үзүүрийг нь тайраад өгөөч.",
+    "en": "Please trim the ends for me.",
+    "mn_latin": "Üzüüriig ni tairaad ögööch."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би маргааш үсээ ___ гэж байна.",
+   "answer": "засуулах",
+   "options": [
+    "засуулах",
+    "засах",
+    "засаж",
+    "засагдах"
+   ],
+   "translation": "I'm planning to get my hair cut tomorrow.",
+   "explain_en": "Засуулах is the causative: someone else cuts your hair. Засах would mean you fix it yourself.",
+   "explain_mn": "Үсчин засч байгаа тул үйлийг хийлгэх утгатай засуулах гэж хэлнэ. Засах гэвэл өөрөө засна гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Үсийг минь жаахан богиносгож ___.",
+   "answer": "өгөөч",
+   "options": [
+    "өгөөч",
+    "авлаа",
+    "өгсөн",
+    "өгдөг"
+   ],
+   "translation": "Please shorten my hair a little.",
+   "explain_en": "-ж өгөөч is the polite request form: 'please do it for me'.",
+   "explain_mn": "Хүсэлтийг эелдэг илэрхийлэхдээ -ж өгөөч гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Эгч маань салонд хумсаа улаанаар ___.",
+   "answer": "будуулсан",
+   "options": [
+    "будуулсан",
+    "будсан",
+    "будах",
+    "будагдсан"
+   ],
+   "translation": "My older sister had her nails painted red.",
+   "explain_en": "Будуулсан: the salon did it for her, so we use the causative in the past tense.",
+   "explain_mn": "Салоны ажилтан будсан тул хийлгэсэн утгатай будуулсан гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I need to ___ my hair cut before the wedding.",
+   "answer": "get",
+   "options": [
+    "get",
+    "make",
+    "cut",
+    "do"
+   ],
+   "translation": "Би хуримын өмнө үсээ засуулах хэрэгтэй.",
+   "explain_en": "'Get + object + past participle' means someone else does it for you.",
+   "explain_mn": "'Get + зүйл + үйл үгийн III хэлбэр' нь өөр хүнээр хийлгэх утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "She had her hair ___ blond last week.",
+   "answer": "dyed",
+   "options": [
+    "dyed",
+    "dye",
+    "dying",
+    "dyes"
+   ],
+   "translation": "Тэр өнгөрсөн долоо хоногт үсээ шаргал будуулсан.",
+   "explain_en": "After 'had + object' we use the past participle: dyed.",
+   "explain_mn": "'Had + зүйл' ардаас нь үйл үгийн III хэлбэр буюу dyed ордог."
+  },
+  {
+   "lang": "en",
+   "text": "___ you trim the ends a little, please?",
+   "answer": "Could",
+   "options": [
+    "Could",
+    "Do",
+    "Are",
+    "Did"
+   ],
+   "translation": "Үзүүрийг нь жаахан тайраад өгч болох уу?",
+   "explain_en": "'Could you...?' is a polite way to ask a stylist to do something.",
+   "explain_mn": "'Could you ...?' нь үсчинд эелдэг хүсэлт тавих байгалийн хэлбэр юм."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Үсчин",
+   "mn": "Сайн байна уу? Өнөөдөр юу хийлгэх вэ?",
+   "en": "Hello! What would you like done today?",
+   "mn_latin": "Sain baina uu? Önöödör yuu khiilgekh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу. Би үсээ засуулаад, жаахан будуулмаар байна.",
+   "en": "Hello. I'd like a haircut and a bit of coloring.",
+   "mn_latin": "Sain baina uu. Bi üsee zasuulaad, jaakhan buduulmaar baina."
+  },
+  {
+   "speaker": "Үсчин",
+   "mn": "Ямар урттай үлдээх вэ? Духны үс гаргах уу?",
+   "en": "How long should I leave it? Do you want bangs?",
+   "mn_latin": "Yamar urttai üldeekh ve? Dukhny üs gargakh uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Мөрөн хүртэл үлдээж, үзүүрийг нь тайраад өгөөч. Духны үс хэрэггүй.",
+   "en": "Leave it to my shoulders and just trim the ends, please. No bangs.",
+   "mn_latin": "Mörön khürtel üldeej, üzüüriig ni tairaad ögööch. Dukhny üs khereggüi."
+  },
+  {
+   "speaker": "Үсчин",
+   "mn": "За. Шатлаж өгөх үү, эсвэл тэгш байлгах уу?",
+   "en": "OK. Shall I add layers, or keep it all one length?",
+   "mn_latin": "Za. Shatlaj ögökh üü, esvel tegsh bailgakh uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бага зэрэг шатлаарай. Өнгийг нь хүрэн болгоорой.",
+   "en": "A few layers, please. And make the color brown.",
+   "mn_latin": "Baga zereg shatlaarai. Öngiig ni khüren bolgooroi."
+  },
+  {
+   "speaker": "Үсчин",
+   "mn": "Тэгье. Нэг цаг орчим болно.",
+   "en": "Sure. It will take about an hour.",
+   "mn_latin": "Tegiye. Neg tsag orchim bolno."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Зүгээр, баярлалаа. Дууссаны дараа толь өгөөч.",
+   "en": "That's fine, thanks. When you're done, please give me a mirror.",
+   "mn_latin": "Zügeer, bayarlalaa. Duussany daraa toli ögööch."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many people go to a neighborhood barber or a small salon, and appointments are often made by phone or through Facebook. Before Tsagaan Sar, salons get very busy, so it is wise to book early. Many Mongolians also like to bring a photo to show exactly the style they want.",
+  "mn": "Улаанбаатарт олон хүн ойр хавийнхаа үсчин эсвэл жижиг салонд очдог бөгөөд цагаа ихэвчлэн утсаар эсвэл Facebook-ээр авдаг. Цагаан сарын өмнө салонууд маш завгүй болдог тул эрт цаг авах нь зөв. Хүссэн үсний хэлбэрээ яг тодорхой үзүүлэхийн тулд зураг авч очдог хүн олон байдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 14,
+  "notes": "Mostly solid; a few unnatural Mongolian phrasings (засуулах гэсэн юм, wrong өгөөрэй, mismatched alts) were corrected."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 27,
+  "notes": "Nonstandard hair terms (хураах, хялгар, давхарлах) are replaced everywhere, and the mismatched alternatives and register/meaning slips are fixed.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The phrase 'зэргээр цаг авч' was awkward, and the 'describe' part of intro_en was missing."
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "mn",
+    "why": "хураах means 'collect/confiscate'. The standard verb for trimming hair is тайрах."
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "Uses тайрах instead of хураах."
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "mn",
+    "why": "хялгар is not a standard word for bangs. The common term is духны үс."
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "Uses духны үс."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "mn",
+    "why": "The standard salon term for layering is шатлах, not давхарлах."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Uses шатлах."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "Uses духны үс instead of хялгар."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "Uses духны үс instead of хялгар."
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "'сонирхолтой байна' means 'interested in', which does not match the English."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "Uses тайрах instead of хураах."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "Uses тайрах instead of хураах."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "With a color, the natural verb is будуулах, not засуулах."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "The old alternative duplicated the corrected main sentence."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Matches the mn version on reflexive use and replaces хураах with тайрах."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'засчээ' was an unnatural form here and has been replaced with 'үсчинд засуулсан'."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Uses духны үс instead of хялгар."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Uses тайрах instead of хураах."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "Adds salon context so that будсан ('painted them herself') is excluded."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Uses тайрах instead of хураах."
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "Uses духны үс instead of хялгар."
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "Matches the revised Mongolian line."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Uses тайрах and духны үс."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Uses шатлах. тэгш means 'one length', which fits the contrast with layers."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "'Keep it straight' was the wrong meaning in contrast with layers."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Uses шатлах instead of давхарлах."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'орон нутаг' means countryside or province, not neighborhood. 'Often' was also missing."
+   }
+  ]
+ }
+}

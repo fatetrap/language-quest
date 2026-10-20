@@ -1,0 +1,450 @@
+{
+ "intro_en": "Join a museum talk on Chinggis Khaan's Ikh Zasag, the great law code known only from later sources. You will learn legal history terms, how Mongolian law clauses use the archaic conditional -вээс/-ваас, and how English uses \"shall\" for binding rules.",
+ "intro_mn": "Зөвхөн хожмын эх сурвалжаар бидэнд хүрч ирсэн Чингис хааны Их Засаг хуулийн тухай музейн яриа сонсож, хуулийн түүхийн нэр томьёо сурна. Хуулийн заалтад гардаг эртний -вээс/-ваас нөхцөл, англи хэлэнд заавал биелүүлэх дүрмийг \"shall\"-ээр илэрхийлдэг онцлогтой танилцана.",
+ "vocab": [
+  {
+   "mn": "хууль цааз",
+   "en": "law, legal code",
+   "pos": "noun",
+   "example_mn": "Эзэнт гүрэн хатуу хууль цаазтай байжээ.",
+   "example_en": "The empire had a strict legal code.",
+   "mn_latin": "khuuli tsaaz"
+  },
+  {
+   "mn": "зарлиг",
+   "en": "decree, edict",
+   "pos": "noun",
+   "example_mn": "Хааны зарлигийг бүх нутагт тунхагласан.",
+   "example_en": "The khan's decree was proclaimed throughout the land.",
+   "mn_latin": "zarlig"
+  },
+  {
+   "mn": "засаг",
+   "en": "code of law; rule, authority",
+   "pos": "noun",
+   "example_mn": "Засаг гэдэг үг хожим засгийн газар гэсэн утгатай болсон.",
+   "example_en": "The word \"zasag\" later came to mean government.",
+   "mn_latin": "zasag"
+  },
+  {
+   "mn": "шийтгэл",
+   "en": "punishment, penalty",
+   "pos": "noun",
+   "example_mn": "Хулгайн хэрэгт хатуу шийтгэл ногдуулдаг байв.",
+   "example_en": "Theft carried a severe penalty.",
+   "mn_latin": "shiitgel"
+  },
+  {
+   "mn": "эх сурвалж",
+   "en": "historical source",
+   "pos": "noun",
+   "example_mn": "Энэ бол хамгийн найдвартай эх сурвалж юм.",
+   "example_en": "This is the most reliable source.",
+   "mn_latin": "ekh survalj"
+  },
+  {
+   "mn": "шастир",
+   "en": "chronicle",
+   "pos": "noun",
+   "example_mn": "Перс түүхчийн шастирт Их Засгийн тухай өгүүлдэг.",
+   "example_en": "A Persian historian's chronicle discusses the Ikh Zasag.",
+   "mn_latin": "shastir"
+  },
+  {
+   "mn": "заншлын эрх зүй",
+   "en": "customary law",
+   "pos": "noun",
+   "example_mn": "Нүүдэлчид олон зуун жил заншлын эрх зүйгээр амьдарсан.",
+   "example_en": "Nomads lived by customary law for centuries.",
+   "mn_latin": "zanshlyn erkh züi"
+  },
+  {
+   "mn": "хэлтэрхий",
+   "en": "fragment",
+   "pos": "noun",
+   "example_mn": "Хуулиас зөвхөн хэдэн хэлтэрхий үлджээ.",
+   "example_en": "Only a few fragments of the law have survived.",
+   "mn_latin": "khelterkhii"
+  },
+  {
+   "mn": "заалт",
+   "en": "provision, clause",
+   "pos": "noun",
+   "example_mn": "Энэ заалт цэргийн алба хаахтай холбоотой.",
+   "example_en": "This provision concerns military service.",
+   "mn_latin": "zaalt"
+  },
+  {
+   "mn": "дагаж мөрдөх",
+   "en": "to observe, to abide by (rules)",
+   "pos": "verb",
+   "example_mn": "Хүн бүр хуулийг дагаж мөрдөх ёстой.",
+   "example_en": "Everyone must abide by the law.",
+   "mn_latin": "dagaj mördökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Их Засгийн эх бичвэр өнөөг хүртэл хадгалагдаж үлдээгүй.",
+   "en": "The original text of the Ikh Zasag has not survived to this day.",
+   "alt_mn": [
+    "Их Засгийн эх бичвэр бидний үед хүрч ирээгүй."
+   ],
+   "alt_en": [
+    "The original text of the Ikh Zasag has not been preserved."
+   ],
+   "mn_latin": "Ikh Zasgiin ekh bichver önöög khürtel khadgalagdaj üldeegüi."
+  },
+  {
+   "mn": "Бидний мэдэх зүйл голдуу хожмын Перс, Араб түүхчдийн шастираас гаралтай.",
+   "en": "What we know comes mostly from later chronicles by Persian and Arab historians.",
+   "alt_mn": [
+    "Бидний мэдлэг ихэвчлэн хожмын Перс, Араб түүхчдийн шастирт тулгуурладаг."
+   ],
+   "alt_en": [
+    "Most of what we know comes from later chronicles by Persian and Arab historians."
+   ],
+   "mn_latin": "Bidnii medekh züil golduu khojmyn Pyers, Arab tüükhchdiin shastiraas garaltai."
+  },
+  {
+   "mn": "Хүн хулгай хийвээс хулгайлсан мал бүрийн оронд есийг төлнө.",
+   "en": "If a man commits theft, he shall pay nine animals for each one stolen.",
+   "alt_mn": [
+    "Хүн хулгай хийвэл хулгайлсан мал бүрийн оронд есийг төлнө."
+   ],
+   "alt_en": [
+    "Should a man steal, he shall pay nine animals for every one stolen."
+   ],
+   "mn_latin": "Khün khulgai khiivees khulgailsan mal büriin orond yesiig tölnö."
+  },
+  {
+   "mn": "Энд засаг гэдэг үг хууль цааз гэсэн утгатай.",
+   "en": "Here the word \"zasag\" means law or legal code.",
+   "alt_mn": [
+    "Энэ тохиолдолд засаг гэдэг нь хууль цаазыг хэлж байна."
+   ],
+   "alt_en": [
+    "In this context, \"zasag\" means a legal code."
+   ],
+   "mn_latin": "End zasag gedeg üg khuuli tsaaz gesen utgatai."
+  },
+  {
+   "mn": "Хааны зарлигийг хэн ч зөрчиж болохгүй байв.",
+   "en": "No one was allowed to violate the khan's decree.",
+   "alt_mn": [
+    "Хааны зарлигийг хэн ч зөрчих эрхгүй байв."
+   ],
+   "alt_en": [
+    "No one could disobey the khan's decree."
+   ],
+   "mn_latin": "Khaany zarligiig khen ch zörchij bolokhgüi baiv."
+  },
+  {
+   "mn": "Шийтгэл маш хатуу байсан ч бүх хүнд адилхан хамаардаг байжээ.",
+   "en": "The punishments were very harsh, but they applied equally to everyone.",
+   "alt_mn": [
+    "Шийтгэл хатуу байсан боловч хүн бүрт адил үйлчилдэг байжээ."
+   ],
+   "alt_en": [
+    "Although the penalties were harsh, they applied to everyone equally."
+   ],
+   "mn_latin": "Shiitgel mash khatuu baisan ch bükh khünd adilkhan khamaardag baijee."
+  },
+  {
+   "mn": "Цэрэг дайснаас зугтваас цаазаар авагдана.",
+   "en": "If a soldier flees from the enemy, he shall be put to death.",
+   "alt_mn": [
+    "Цэрэг дайснаас зугтвал цаазаар авагдана."
+   ],
+   "alt_en": [
+    "If a soldier flees from the enemy, he shall be executed."
+   ],
+   "mn_latin": "Tsereg daisnaas zugtvaas tsaazaar avagdana."
+  },
+  {
+   "mn": "Эдгээр хэлтэрхийг Их Засгийн жинхэнэ заалт гэж үзэх эсэх талаар түүхчид санал нийлдэггүй.",
+   "en": "Historians disagree about whether these fragments are genuine provisions of the Ikh Zasag.",
+   "alt_mn": [
+    "Эдгээр хэлтэрхий Их Засгийн жинхэнэ заалт мөн эсэх талаар түүхчид маргалддаг."
+   ],
+   "alt_en": [
+    "Historians do not agree on whether these fragments are authentic provisions of the Ikh Zasag."
+   ],
+   "mn_latin": "Edgeer khelterkhiig Ikh Zasgiin jinkhene zaalt gej üzekh esekh talaar tüükhchid sanal niildeggüi."
+  },
+  {
+   "mn": "Олон заалт нь тал нутгийн заншлын эрх зүйгээс эхтэй байж магадгүй.",
+   "en": "Many provisions may have originated in the customary law of the steppe.",
+   "alt_mn": [
+    "Олон заалт тал нутгийн заншлын эрх зүйгээс улбаатай байж болзошгүй."
+   ],
+   "alt_en": [
+    "Many of the provisions may have come from steppe customary law."
+   ],
+   "mn_latin": "Olon zaalt ni tal nutgiin zanshlyn erkh züigees ekhtei baij magadgüi."
+  },
+  {
+   "mn": "Нүүдэлчид эдгээр дүрмийг үе үеэрээ дагаж мөрдөж ирсэн.",
+   "en": "Nomads have observed these rules for generations.",
+   "alt_mn": [
+    "Нүүдэлчид эдгээр дүрмийг олон үеэр сахиж ирсэн."
+   ],
+   "alt_en": [
+    "Nomads abided by these rules for generations."
+   ],
+   "mn_latin": "Nüüdelchid edgeer dürmiig üye üyeeree dagaj mördöj irsen."
+  },
+  {
+   "mn": "Арван таван наснаас дээш эр хүн бүр цэргийн алба хаана.",
+   "en": "Every man over the age of fifteen shall perform military service.",
+   "alt_mn": [
+    "Арван таваас дээш насны эр хүн бүр цэргийн алба хаах ёстой."
+   ],
+   "alt_en": [
+    "Every man older than fifteen shall serve in the army."
+   ],
+   "mn_latin": "Arvan tavan nasnaas deesh er khün bür tsergiin alba khaana."
+  },
+  {
+   "mn": "Энэ үзмэр бол Их Засгийн тухай өгүүлсэн хамгийн эртний эх сурвалжийн нэгийн хуулбар юм.",
+   "en": "This exhibit is a copy of one of the earliest sources that mention the Ikh Zasag.",
+   "alt_mn": [
+    "Энэ үзмэр нь Их Засгийг дурдсан хамгийн эртний эх сурвалжуудын нэгийн хуулбар юм."
+   ],
+   "alt_en": [
+    "This exhibit is a copy of one of the oldest sources to mention the Ikh Zasag."
+   ],
+   "mn_latin": "Ene üzmer bol Ikh Zasgiin tukhai ögüülsen khamgiin ertnii ekh survaljiin negiin khuulbar yum."
+  }
+ ],
+ "grammar": {
+  "title_en": "The archaic conditional -вээс/-ваас and legal \"shall\"",
+  "title_mn": "Хуулийн хэл дэх эртний -вээс/-ваас нөхцөл ба \"shall\"",
+  "explain_en": "In historical and legal texts, Mongolian often uses an old conditional ending, -вээс/-ваас/-вөөс/-воос, meaning \"if.\" It matches the modern -вэл/-вал and follows the same vowel harmony: хийвээс, зугтваас. After stems ending in в, л or м, the в becomes б, just as in modern Mongolian: хэлбэл → хэлбээс, авбал → авбаас. You will meet these forms in translations of old law codes, chronicles and solemn speeches. They sound formal and old-fashioned. In everyday speech, use -вэл/-вал. English law clauses use \"shall\" for a binding obligation: \"Every man shall serve.\" \"No one shall...\" expresses a prohibition. This is more formal than everyday \"will.\" Using inversion instead of \"if\" (\"Should a man steal...\") gives an old legal tone, much like Mongolian -вээс/-ваас.",
+  "explain_mn": "Түүх, хуулийн бичвэрт монгол хэлэнд \"хэрэв\" гэсэн утгатай эртний -вээс/-ваас/-вөөс/-воос нөхцөл хэрэглэдэг. Энэ нь одоогийн -вэл/-вал-тай дүйх бөгөөд эгшиг зохицох ёс нь адил: хийвээс, зугтваас. В, л, м-ээр төгссөн язгуурт одоогийн хэлний нэгэн адил в нь б болно: хэлбэл → хэлбээс, авбал → авбаас. Эдгээр хэлбэр нь эртний хуулийн орчуулга, шастир, хүндэтгэлийн үгэнд гардаг. Албан ёсны, хуучинсаг өнгө аястай тул өдөр тутмын ярианд -вэл/-вал хэрэглэнэ. Англи хэлэнд хууль, гэрээ, дүрмийн заалтад заавал биелүүлэх үүргийг \"shall\"-ээр илэрхийлдэг: \"Every man shall serve.\" (Эр хүн бүр алба хаана.) \"No one shall...\" нь хоригийг илэрхийлнэ. Энэ нь өдөр тутмын \"will\"-ээс илүү албан ёсны хэллэг юм. \"If\"-ийн оронд \"Should a man steal...\" гэж урвуу дараалал хэрэглэвэл монголын -вээс/-ваас шиг эртний, хуулийн хэв маягтай сонсогдоно.",
+  "examples": [
+   {
+    "mn": "Хүн хулгай хийвээс шийтгэл хүлээнэ.",
+    "en": "If a man commits theft, he shall be punished.",
+    "mn_latin": "Khün khulgai khiivees shiitgel khüleene."
+   },
+   {
+    "mn": "Хүн худал хэлбээс итгэлээ алдана.",
+    "en": "Should a man lie, he shall lose trust.",
+    "mn_latin": "Khün khudal khelbees itgelee aldana."
+   },
+   {
+    "mn": "Цэрэг дайснаас зугтваас цаазаар авагдана.",
+    "en": "If a soldier flees from the enemy, he shall be put to death.",
+    "mn_latin": "Tsereg daisnaas zugtvaas tsaazaar avagdana."
+   },
+   {
+    "mn": "Хэн ч хааны зарлигийг зөрчихгүй.",
+    "en": "No one shall violate the khan's decree.",
+    "mn_latin": "Khen ch khaany zarligiig zörchikhgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хүн хулгай хий___ хулгайлсан мал бүрийн оронд есийг төлнө.",
+   "answer": "вээс",
+   "options": [
+    "вээс",
+    "ваас",
+    "бээс",
+    "вөөс"
+   ],
+   "translation": "If a man commits theft, he shall pay nine animals for each one stolen.",
+   "explain_en": "The stem хий- has front vowels, so vowel harmony requires -вээс. The stem ends in a vowel, so the ending keeps в, not б.",
+   "explain_mn": "\"Хий\" үйл үг эм үгийн эгшигтэй бөгөөд эгшгээр төгссөн тул -вээс залгана. -ваас нь эр үгт, -бээс нь в, л, м-ээр төгссөн язгуурт залгадаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүн шүүхэд худал хэл___ хатуу шийтгэл хүлээнэ.",
+   "answer": "бээс",
+   "options": [
+    "бээс",
+    "вээс",
+    "баас",
+    "вөөс"
+   ],
+   "translation": "If a man lies in court, he shall receive a harsh punishment.",
+   "explain_en": "After a stem ending in л, the в of the ending becomes б: хэлбэл, so the archaic form is хэлбээс. Front vowels give -ээс.",
+   "explain_mn": "Л-ээр төгссөн язгуурт в нь б болдог (хэлбэл), тиймээс хэлбээс болно. Эгшиг зохицох ёсоор -ээс хувилбар орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Их Засгийн эх бичвэр өнөөг хүртэл ___ үлдээгүй.",
+   "answer": "хадгалагдаж",
+   "options": [
+    "хадгалагдаж",
+    "шийтгэгдэж",
+    "мөрдөгдөж",
+    "хэлэгдэж"
+   ],
+   "translation": "The original text of the Ikh Zasag has not survived to this day.",
+   "explain_en": "\"Хадгалагдаж үлдэх\" (to be preserved, to survive) is the standard phrase for texts and artifacts. The other verbs mean \"be punished,\" \"be observed\" and \"be said.\"",
+   "explain_mn": "Бичвэр, эд өлгийн тухай \"хадгалагдаж үлдэх\" гэдэг тогтсон хэллэг хэрэглэнэ. Бусад нь утгын хувьд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Every man over the age of fifteen ___ perform military service.",
+   "answer": "shall",
+   "options": [
+    "shall",
+    "should",
+    "would",
+    "might"
+   ],
+   "translation": "Арван таван наснаас дээш эр хүн бүр цэргийн алба хаана.",
+   "explain_en": "In legal provisions, \"shall\" states a binding obligation. \"Should\" is only advice, and \"would\" and \"might\" are not commands at all.",
+   "explain_mn": "Хуулийн заалтад заавал биелүүлэх үүргийг \"shall\"-ээр илэрхийлнэ. \"Should\" нь зөвлөмж, \"would\", \"might\" нь тушаал биш."
+  },
+  {
+   "lang": "en",
+   "text": "No one ___ shelter a runaway servant.",
+   "answer": "shall",
+   "options": [
+    "shall",
+    "would",
+    "could",
+    "might"
+   ],
+   "translation": "Хэн ч оргосон зарцыг нууж хоргодуулахгүй.",
+   "explain_en": "\"No one shall...\" is the classic legal way to forbid something. \"Would,\" \"could\" and \"might\" describe possibility, not a prohibition.",
+   "explain_mn": "\"No one shall...\" нь хуулийн хэлэнд \"хэн ч ...хгүй\" гэсэн хоригийг илэрхийлдэг. Бусад нь боломжийн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The Ikh Zasag survives only in ___ sources.",
+   "answer": "later",
+   "options": [
+    "later",
+    "latest",
+    "lately",
+    "latter"
+   ],
+   "translation": "Их Засаг зөвхөн хожмын эх сурвалжаар л бидэнд хүрч иржээ.",
+   "explain_en": "\"Later sources\" means sources written afterward. \"Latest\" means the most recent, \"lately\" is an adverb, and \"latter\" means the second of two things.",
+   "explain_mn": "\"Later sources\" нь \"хожмын эх сурвалж\" гэсэн утгатай. \"Latest\" нь \"хамгийн сүүлийн\", \"lately\" нь дайвар үг, \"latter\" нь \"хоёрын сүүлийнх\" гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Энэ танхимд Их Засагтай холбоотой үзмэрүүд байна. Гэхдээ эх бичвэр нь өөрөө хадгалагдаж үлдээгүйг хэлэх хэрэгтэй.",
+   "en": "This hall holds exhibits related to the Ikh Zasag. But I should mention that the original text itself has not survived.",
+   "alt_en": [],
+   "alt_mn": [],
+   "mn_latin": "Ene tankhimd Ikh Zasagtai kholbootoi üzmerüüd baina. Gekhdee ekh bichver ni ööröö khadgalagdaj üldeegüig khelekh kheregtei."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгвэл түүний агуулгыг бид яаж мэддэг юм бэ?",
+   "en": "Then how do we know what it contained?",
+   "mn_latin": "Tegvel tüünii aguulgyg bid yaaj meddeg yum be?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Голдуу Жувейни, Рашид-ад-Дин зэрэг Перс түүхчдийн шастираас мэддэг. Тэд Их Засаг гарснаас хойш хэдэн арван жилийн дараа бичжээ.",
+   "en": "Mostly from the chronicles of Persian historians such as Juvaini and Rashid al-Din. They wrote decades after the Ikh Zasag was issued.",
+   "mn_latin": "Golduu Juvyeini, Rashid-ad-Din zereg Pyers tüükhchdiin shastiraas meddeg. Ted Ikh Zasag garsnaas khoish kheden arvan jiliin daraa bichjee."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Энэ хуулбар дээр юу гэж бичсэн бэ?",
+   "en": "What does it say on this copy?",
+   "mn_latin": "Ene khuulbar deer yuu gej bichsen be?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "\"Хүн хулгай хийвээс хулгайлсан мал бүрийн оронд есийг төлнө\" гэжээ. -вээс гэдэг нь одоогийн -вэл гэсэн утгатай.",
+   "en": "It says, \"If a man commits theft, he shall pay nine animals for each one stolen.\" The ending -vees means the same as today's -vel, \"if.\"",
+   "mn_latin": "\"Khün khulgai khiivees khulgailsan mal büriin orond yesiig tölnö\" gejee. -vees gedeg ni odoogiin -vel gesen utgatai."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Шийтгэл нь үнэхээр хатуу байжээ. Бүх заалт Чингис хааны зарлиг байсан уу?",
+   "en": "The punishments really were harsh. Were all the provisions Chinggis Khaan's own decrees?",
+   "mn_latin": "Shiitgel ni ünekheer khatuu baijee. Bükh zaalt Chingis khaany zarlig baisan uu?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Түүхчид санал нийлдэггүй. Олон заалт нь тал нутгийн заншлын эрх зүйгээс эхтэй байж магадгүй.",
+   "en": "Historians disagree. Many provisions may have originated in the customary law of the steppe.",
+   "mn_latin": "Tüükhchid sanal niildeggüi. Olon zaalt ni tal nutgiin zanshlyn erkh züigees ekhtei baij magadgüi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгэхээр Их Засаг бол шинэ хууль гэхээсээ илүү хуучин уламжлалыг нэгтгэсэн зүйл байж болох нь.",
+   "en": "So the Ikh Zasag may have been less a new law than a way of bringing old traditions together.",
+   "mn_latin": "Tegekheer Ikh Zasag bol shine khuuli gekheesee ilüü khuuchin ulamjlalyg negtgesen züil baij bolokh ni."
+  }
+ ],
+ "culture_note": {
+  "en": "Tradition links the Ikh Zasag to the Great Khuraltai of 1206, when Temüjin was proclaimed Chinggis Khaan. Most of what we know about it comes from later Persian, Arab and Armenian writers such as Juvaini, Rashid al-Din and al-Maqrizi. Some modern scholars even doubt that it was ever a single written code. The word \"засаг\" lives on in modern Mongolian: \"Засгийн газар\" means \"the government.\"",
+  "mn": "Уламжлалаар Их Засгийг 1206 оны Их хуралтайтай холбодог. Тэр хуралтайгаар Тэмүжинийг Чингис хаан хэмээн өргөмжилсөн юм. Түүний тухай бидний мэдэх зүйл ихэвчлэн Жувейни, Рашид-ад-Дин, ал-Макризи зэрэг хожмын Перс, Араб, Армен зохиолчдын бүтээлээс гаралтай. Зарим орчин үеийн эрдэмтэд Их Засаг нэгдсэн бичмэл хууль байсан эсэхэд ч эргэлздэг. \"Засаг\" гэдэг үг өнөөдөр \"Засгийн газар\" гэсэн нэр томьёонд хадгалагдан үлджээ."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 3,
+  "notes": "Accurate, natural lesson with correct harmony and b/v alternation. The only issue was one fill-in-the-blank with two possibly correct options."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 8,
+  "notes": "Main issue: the grammar en and mn titles and explanations covered different topics. Both now cover both points. Other fixes are minor wording and translation-match corrections.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "en and mn titles described different topics; both now cover both points"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations must say the same thing; added the shall part"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Match explain_en; added the -вээс part"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Added the missing 'known only from later sources' and 'archaic'"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'Decades after the Ikh Zasag' was unclear; now matches 'was issued'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "'эсэх дээр' is a calque; standard form is 'эсэх талаар'"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "'хатуу шийтгэл' is the natural collocation for 'severe penalty'"
+   }
+  ]
+ }
+}

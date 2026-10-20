@@ -1,0 +1,416 @@
+{
+ "intro_en": "You will learn to ask for and give a phone number, and to read the digits one by one. You will also use 'double' and 'oh' for zero in English.",
+ "intro_mn": "Та утасны дугаар асууж, хэлж сурна. Мөн тоог цифр цифрээр нь уншиж, англиар 'double' болон тэгийг 'oh' гэж хэлэхийг сурна.",
+ "vocab": [
+  {
+   "mn": "утас",
+   "en": "phone",
+   "pos": "noun",
+   "example_mn": "Миний утас шинэ.",
+   "example_en": "My phone is new.",
+   "mn_latin": "utas"
+  },
+  {
+   "mn": "дугаар",
+   "en": "number (identifying)",
+   "pos": "noun",
+   "example_mn": "Таны дугаар хэд вэ?",
+   "example_en": "What is your number?",
+   "mn_latin": "dugaar"
+  },
+  {
+   "mn": "утасны дугаар",
+   "en": "phone number",
+   "pos": "noun",
+   "example_mn": "Миний утасны дугаар энэ.",
+   "example_en": "This is my phone number.",
+   "mn_latin": "utasny dugaar"
+  },
+  {
+   "mn": "хэд",
+   "en": "what (number), how many",
+   "pos": "question word",
+   "example_mn": "Дугаар нь хэд вэ?",
+   "example_en": "What is the number?",
+   "mn_latin": "khed"
+  },
+  {
+   "mn": "тэг",
+   "en": "zero",
+   "pos": "numeral",
+   "example_mn": "Дугаар тэгээр эхэлнэ.",
+   "example_en": "The number starts with zero.",
+   "mn_latin": "teg"
+  },
+  {
+   "mn": "хэлэх",
+   "en": "to say, to tell",
+   "pos": "verb",
+   "example_mn": "Дугаараа хэлээч.",
+   "example_en": "Please tell me your number.",
+   "mn_latin": "khelekh"
+  },
+  {
+   "mn": "бичих",
+   "en": "to write",
+   "pos": "verb",
+   "example_mn": "Дугаараа бичээч.",
+   "example_en": "Please write your number.",
+   "mn_latin": "bichikh"
+  },
+  {
+   "mn": "найз",
+   "en": "friend",
+   "pos": "noun",
+   "example_mn": "Тэр миний шинэ найз.",
+   "example_en": "She is my new friend.",
+   "mn_latin": "naiz"
+  },
+  {
+   "mn": "залгах",
+   "en": "to call",
+   "pos": "verb",
+   "example_mn": "Би чам руу залгана.",
+   "example_en": "I will call you.",
+   "mn_latin": "zalgakh"
+  },
+  {
+   "mn": "дахин",
+   "en": "again",
+   "pos": "adverb",
+   "example_mn": "Дахин хэлээч.",
+   "example_en": "Please say it again.",
+   "mn_latin": "dakhin"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Таны утасны дугаар хэд вэ?",
+   "en": "What's your phone number?",
+   "alt_mn": [
+    "Таны дугаар хэд вэ?"
+   ],
+   "alt_en": [
+    "What is your phone number?"
+   ],
+   "mn_latin": "Tany utasny dugaar khed ve?"
+  },
+  {
+   "mn": "Миний утасны дугаар 99112233.",
+   "en": "My phone number is nine nine one one two two three three.",
+   "alt_mn": [],
+   "alt_en": [
+    "My phone number is 99112233."
+   ],
+   "mn_latin": "Minii utasny dugaar 99112233."
+  },
+  {
+   "mn": "Дугаараа хэлээч.",
+   "en": "Please tell me your number.",
+   "alt_mn": [
+    "Дугаараа хэлж өгөөч."
+   ],
+   "alt_en": [
+    "Tell me your number, please.",
+    "Please say your number."
+   ],
+   "mn_latin": "Dugaaraa kheleech."
+  },
+  {
+   "mn": "Дахин хэлээч.",
+   "en": "Please say it again.",
+   "alt_mn": [],
+   "alt_en": [
+    "Say it again, please.",
+    "Can you say it again?"
+   ],
+   "mn_latin": "Dakhin kheleech."
+  },
+  {
+   "mn": "Би дугаараа бичнэ.",
+   "en": "I will write my number.",
+   "alt_mn": [
+    "Би дугаараа бичиж өгье."
+   ],
+   "alt_en": [
+    "I'll write down my number."
+   ],
+   "mn_latin": "Bi dugaaraa bichne."
+  },
+  {
+   "mn": "Энэ миний шинэ найз.",
+   "en": "This is my new friend.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene minii shine naiz."
+  },
+  {
+   "mn": "Би чам руу залгана.",
+   "en": "I will call you.",
+   "alt_mn": [
+    "Би чамд залгана."
+   ],
+   "alt_en": [
+    "I'll call you."
+   ],
+   "mn_latin": "Bi cham ruu zalgana."
+  },
+  {
+   "mn": "Миний дугаар тэгээр эхэлдэггүй.",
+   "en": "My number doesn't start with zero.",
+   "alt_mn": [],
+   "alt_en": [
+    "My number does not begin with zero."
+   ],
+   "mn_latin": "Minii dugaar tegeer ekheldeggüi."
+  },
+  {
+   "mn": "Таны дугаар 88-аар төгсдөг үү?",
+   "en": "Does your number end with 88?",
+   "alt_mn": [],
+   "alt_en": [
+    "Does your number end in 88?"
+   ],
+   "mn_latin": "Tany dugaar 88-aar tögsdög üü?"
+  },
+  {
+   "mn": "Тийм, миний дугаар 88-аар төгсдөг.",
+   "en": "Yes, my number ends with 88.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, my number ends in 88."
+   ],
+   "mn_latin": "Tiim, minii dugaar 88-aar tögsdög."
+  },
+  {
+   "mn": "Миний утас энд байна.",
+   "en": "My phone is here.",
+   "alt_mn": [],
+   "alt_en": [
+    "Here is my phone."
+   ],
+   "mn_latin": "Minii utas end baina."
+  },
+  {
+   "mn": "Тэр надад утасны дугаараа хэллээ.",
+   "en": "She told me her phone number.",
+   "alt_mn": [
+    "Тэр надад дугаараа хэлсэн."
+   ],
+   "alt_en": [
+    "She told me her number."
+   ],
+   "mn_latin": "Ter nadad utasny dugaaraa khellee."
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking 'what number' with хэд вэ and reading digits",
+  "title_mn": "«Хэд вэ» гэж асуух ба цифрээр унших",
+  "explain_en": "To ask for a number, say дугаар хэд вэ? (what is the number?). Add таны (your) or миний (my) before it: Таны дугаар хэд вэ? Mongolians read a phone number digit by digit: 99112233 = ес ес нэг нэг хоёр хоёр гурав гурав. Add -аа/-ээ/-оо/-өө to a noun to mean 'my own': дугаараа хэлээч = 'tell me your number'. The ending -ээч/-аач makes a polite request.",
+  "explain_mn": "Монгол хэлээр дугаар асуухдаа «дугаар хэд вэ?» гэнэ. Өмнө нь «таны» эсвэл «миний» гэж нэмнэ: «Таны дугаар хэд вэ?» Утасны дугаарыг цифр цифрээр нь уншина: 99112233 = ес ес нэг нэг хоёр хоёр гурав гурав. Нэр үгийн ард -аа/-ээ/-оо/-өө залгавал «өөрийн» гэсэн утга өгнө: дугаараа хэлээч = «дугаараа хэлнэ үү». «-ээч/-аач» нөхцөл нь эелдэг хүсэлт илэрхийлнэ.",
+  "examples": [
+   {
+    "mn": "Таны дугаар хэд вэ?",
+    "en": "What's your number?",
+    "mn_latin": "Tany dugaar khed ve?"
+   },
+   {
+    "mn": "Миний дугаар 95501234.",
+    "en": "My number is 9-5-5-0-1-2-3-4.",
+    "mn_latin": "Minii dugaar 95501234."
+   },
+   {
+    "mn": "Дугаараа хэлээч.",
+    "en": "Please tell me your number.",
+    "mn_latin": "Dugaaraa kheleech."
+   },
+   {
+    "mn": "Дахин хэлээч.",
+    "en": "Please say it again.",
+    "mn_latin": "Dakhin kheleech."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Таны утасны дугаар ___ вэ?",
+   "answer": "хэд",
+   "options": [
+    "хэд",
+    "хэн",
+    "хаана",
+    "яагаад"
+   ],
+   "translation": "What is your phone number?",
+   "explain_en": "Use хэд вэ? to ask 'what number'. Хэн is 'who', хаана is 'where'.",
+   "explain_mn": "Тоо, дугаар асуухад «хэд» гэж асууна. «Хэн» хүн асуудаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Дугаар___ хэлээч.",
+   "answer": "аа",
+   "options": [
+    "аа",
+    "аар",
+    "тай",
+    "ын"
+   ],
+   "translation": "Please tell me your number.",
+   "explain_en": "Дугаар + аа = your own number. The reflexive-possessive ending refers back to the subject of the sentence.",
+   "explain_mn": "«Дугаараа» гэдэг нь өөрийн дугаар гэсэн утгатай, «-аа» хамаатуулах нөхцөл."
+  },
+  {
+   "lang": "mn",
+   "text": "Би чам руу ___.",
+   "answer": "залгана",
+   "options": [
+    "залгана",
+    "сурна",
+    "хэлнэ",
+    "байна"
+   ],
+   "translation": "I will call you.",
+   "explain_en": "Залгах means 'to call by phone'. Залгана is the future/present form: 'I will call'.",
+   "explain_mn": "Утсаар «залгах» гэдэг үгийг ашиглана. «Залгана» нь ирээдүй цагийн хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "What's your phone ___?",
+   "answer": "number",
+   "options": [
+    "number",
+    "name",
+    "age",
+    "friend"
+   ],
+   "translation": "Таны утасны дугаар хэд вэ?",
+   "explain_en": "We ask for a phone number with 'phone number'.",
+   "explain_mn": "Утасны дугаар гэж «phone number» гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My number is five five ___ one.",
+   "answer": "oh",
+   "options": [
+    "oh",
+    "ten",
+    "or",
+    "no"
+   ],
+   "translation": "Миний дугаар тав тав тэг нэг.",
+   "explain_en": "In phone numbers, zero is often said 'oh'.",
+   "explain_mn": "Утасны дугаарт тэгийг ихэвчлэн «oh» гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Please say it ___.",
+   "answer": "again",
+   "options": [
+    "again",
+    "age",
+    "phone",
+    "write"
+   ],
+   "translation": "Дахин хэлээч.",
+   "explain_en": "'Say it again' asks someone to repeat.",
+   "explain_mn": "«Say it again» нь «дахин хэлээч» гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн уу! Намайг Анна гэдэг.",
+   "en": "Hi! My name is Anna.",
+   "mn_latin": "Sain uu! Namaig Anna gedeg."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн уу! Би Бат. Танилцсандаа таатай байна.",
+   "en": "Hi! I'm Bat. Nice to meet you.",
+   "mn_latin": "Sain uu! Bi Bat. Taniltssandaa taatai baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Бат, таны утасны дугаар хэд вэ?",
+   "en": "Bat, what's your phone number?",
+   "mn_latin": "Bat, tany utasny dugaar khed ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "99 11 22 03.",
+   "en": "Nine nine, double one, two two oh three.",
+   "mn_latin": "99 11 22 03."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Уучлаарай, дахин хэлээч.",
+   "en": "Sorry, please say it again.",
+   "mn_latin": "Uuchlaarai, dakhin kheleech."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Ес, ес, нэг, нэг, хоёр, хоёр, тэг, гурав.",
+   "en": "Nine, nine, one, one, two, two, zero, three.",
+   "mn_latin": "Yes, yes, neg, neg, khoyor, khoyor, teg, gurav."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Баярлалаа! Би тан руу залгана.",
+   "en": "Thank you! I'll call you.",
+   "mn_latin": "Bayarlalaa! Bi tan ruu zalgana."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian mobile numbers in Ulaanbaatar usually have 8 digits and often start with 9, 8 or 7. People often say them in pairs or digit by digit, and new friends often share numbers and connect on Facebook or messaging apps. In English, people often say zero as 'oh' and repeated digits as 'double'.",
+  "mn": "Улаанбаатарын гар утасны дугаар ихэвчлэн 8 оронтой бөгөөд 9, 8, 7-гоор эхэлдэг. Хүмүүс дугаараа хос хосоор нь эсвэл цифр цифрээр нь хэлдэг. Шинэ найзууд дугаараа солилцож, Facebook болон чатын аппликейшнээр холбогддог. Англиар тэгийг «oh», давхар цифрийг «double» гэж хэлдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 9,
+  "notes": "Mostly good, but the Mongolian grammar explanation was written as English instruction, and the numeral 'тавь' was wrong for 'five'."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 6,
+  "notes": "Fixed one case error, a чи/та register clash, a duplicate alternative, and two fill-in-the-blank items that had more than one correct answer.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "'88 гэж төгсдөг' is ungrammatical. 'Төгсөх' takes the instrumental case (-аар), as in the next sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_en",
+    "why": "The alternative was an exact duplicate of the main translation."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Register clash: Anna uses polite 'таны' with Bat earlier, so 'чам руу' is inconsistent."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'Дугаарыг хэлээч' is also grammatical, so the answer was not unique. The new distractors are all wrong here."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'Би чам руу бичнэ' (I'll write to you) is also correct, so the answer was not unique."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The Mongolian version left out the таны/миний point, so it now matches the English."
+   }
+  ]
+ }
+}

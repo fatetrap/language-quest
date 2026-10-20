@@ -1,0 +1,460 @@
+{
+ "intro_en": "It's arrival day at camp! You'll meet your counselor, find your cabin, and learn the camp rules. You'll also practice the polite request -ж байгаарай and the friendly -ж байгаач, and see when English drops the article (in hospital, at church) and when it uses one for the building (the hospital, the church).",
+ "intro_mn": "Зусланд ирсэн анхны өдөр! Зөвлөх багштайгаа танилцаж, байраа олж, зуслангийн дүрэмтэй танилцана. Мөн эелдэг \"-ж байгаарай\", дотно \"-ж байгаач\" хүсэлтийн хэлбэрийг давтаж, англи хэлэнд \"in hospital\", \"at church\" гэх мэт артикльгүй хэллэг болон \"the hospital\", \"the church\" гэсэн барилгын утгатай хэлбэрийн ялгааг сурна.",
+ "vocab": [
+  {
+   "mn": "зөвлөх багш",
+   "en": "counselor",
+   "pos": "noun",
+   "example_mn": "Манай зөвлөх багшийг Сарнай гэдэг.",
+   "example_en": "Our counselor's name is Sarnai.",
+   "mn_latin": "zövlökh bagsh"
+  },
+  {
+   "mn": "байр",
+   "en": "cabin",
+   "pos": "noun",
+   "example_mn": "Бид гуравдугаар байранд амьдарна.",
+   "example_en": "We'll live in Cabin 3.",
+   "mn_latin": "bair"
+  },
+  {
+   "mn": "хуваарь",
+   "en": "schedule",
+   "pos": "noun",
+   "example_mn": "Өдрийн хуваарь хананд өлгөөтэй байна.",
+   "example_en": "The daily schedule is hanging on the wall.",
+   "mn_latin": "khuvaari"
+  },
+  {
+   "mn": "унтах цаг",
+   "en": "lights-out",
+   "pos": "noun",
+   "example_mn": "Унтах цаг орой арван цагт болно.",
+   "example_en": "Lights-out is at ten p.m.",
+   "mn_latin": "untakh tsag"
+  },
+  {
+   "mn": "дүрэм",
+   "en": "rule",
+   "pos": "noun",
+   "example_mn": "Зуслангийн дүрмийг анхааралтай сонсоорой.",
+   "example_en": "Listen carefully to the camp rules.",
+   "mn_latin": "dürem"
+  },
+  {
+   "mn": "бүртгүүлэх",
+   "en": "to check in",
+   "pos": "verb",
+   "example_mn": "Хүүхдүүд эхлээд бүртгүүлнэ.",
+   "example_en": "The kids check in first.",
+   "mn_latin": "bürtgüülekh"
+  },
+  {
+   "mn": "танилцах",
+   "en": "to get to know",
+   "pos": "verb",
+   "example_mn": "Бие биетэйгээ танилцъя.",
+   "example_en": "Let's get to know each other.",
+   "mn_latin": "taniltsakh"
+  },
+  {
+   "mn": "өрөөний хамтрагч",
+   "en": "cabinmate",
+   "pos": "noun",
+   "example_mn": "Миний өрөөний хамтрагч Хэнтийгээс ирсэн.",
+   "example_en": "My cabinmate came from Khentii.",
+   "mn_latin": "öröönii khamtragch"
+  },
+  {
+   "mn": "жижүүр",
+   "en": "person on duty",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр би жижүүр.",
+   "example_en": "I'm on duty today.",
+   "mn_latin": "jijüür"
+  },
+  {
+   "mn": "зуслан",
+   "en": "summer camp",
+   "pos": "noun",
+   "example_mn": "Энэ зуслан голын эрэг дээр байдаг.",
+   "example_en": "This camp is on the riverbank.",
+   "mn_latin": "zuslan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хүүхдүүд ээ, би түлхүүр аваад ирье, энд хүлээж байгаарай.",
+   "en": "Kids, I'll go get the keys. Please wait here.",
+   "alt_mn": [
+    "Хүүхдүүд ээ, би түлхүүрээ аваад ирье, энд хүлээж байгаарай."
+   ],
+   "alt_en": [
+    "Kids, I'm going to get the keys. Please wait here."
+   ],
+   "mn_latin": "Khüükhdüüd ee, bi tülkhüür avaad iriye, end khüleej baigaarai."
+  },
+  {
+   "mn": "Өдрийн хуваариа өглөө бүр шалгаж байгаарай.",
+   "en": "Please check the daily schedule every morning.",
+   "alt_mn": [
+    "Өглөө бүр өдрийн хуваариа шалгаж байгаарай."
+   ],
+   "alt_en": [
+    "Please check your daily schedule every morning."
+   ],
+   "mn_latin": "Ödriin khuvaaria öglöö bür shalgaj baigaarai."
+  },
+  {
+   "mn": "Унтах цагаас хойш байрнаасаа гарахгүй байгаарай.",
+   "en": "Please don't leave your cabin after lights-out.",
+   "alt_mn": [
+    "Унтах цагийн дараа байрнаасаа гарахгүй байгаарай."
+   ],
+   "alt_en": [
+    "Please stay in your cabin after lights-out."
+   ],
+   "mn_latin": "Untakh tsagaas khoish bairnaasaa garakhgüi baigaarai."
+  },
+  {
+   "mn": "Дулмаа, ээждээ орой болгон залгаж байгаач.",
+   "en": "Dulmaa, call your mom every evening, okay?",
+   "alt_mn": [
+    "Дулмаа, орой бүр ээждээ залгаж байгаач."
+   ],
+   "alt_en": [
+    "Dulmaa, call your mom every night, okay?"
+   ],
+   "mn_latin": "Dulmaa, eejdee oroi bolgon zalgaj baigaach."
+  },
+  {
+   "mn": "Найзаа, надад зураг явуулж байгаач.",
+   "en": "Hey buddy, send me some photos, will you?",
+   "alt_mn": [
+    "Найзаа, надад зураг илгээж байгаач."
+   ],
+   "alt_en": [
+    "Hey buddy, keep sending me photos, okay?"
+   ],
+   "mn_latin": "Naizaa, nadad zurag yavuulj baigaach."
+  },
+  {
+   "mn": "Миний дүү өвдөөд эмнэлэгт хэвтэж байгаа учраас зусланд ирж чадсангүй.",
+   "en": "My little brother couldn't come to camp because he's sick in the hospital.",
+   "alt_mn": [
+    "Миний дүү өвдөж эмнэлэгт хэвтсэн учраас зусланд ирж чадаагүй."
+   ],
+   "alt_en": [
+    "My little brother couldn't come to camp because he's sick in hospital."
+   ],
+   "mn_latin": "Minii düü övdööd emnelegt khevtej baigaa uchraas zusland irj chadsangüi."
+  },
+  {
+   "mn": "Ням гараг бүр зарим хүүхэд сүмд явдаг.",
+   "en": "Some kids go to church every Sunday.",
+   "alt_mn": [
+    "Зарим хүүхэд ням гараг бүр сүмд явдаг."
+   ],
+   "alt_en": [
+    "Every Sunday, some kids go to church."
+   ],
+   "mn_latin": "Nyam garag bür zarim khüükhed sümd yavdag."
+  },
+  {
+   "mn": "Түүхэнд гардаг дээрэмчин олон жил шоронд суусан.",
+   "en": "The robber in the story spent many years in prison.",
+   "alt_mn": [
+    "Түүхэн дэх дээрэмчин олон жил шоронд суусан."
+   ],
+   "alt_en": [
+    "The robber in the story was in prison for many years."
+   ],
+   "mn_latin": "Tüükhend gardag deeremchin olon jil shorond suusan."
+  },
+  {
+   "mn": "Бид зуслангийн ойролцоох хуучин сүмийг зурсан.",
+   "en": "We drew the old church near the camp.",
+   "alt_mn": [
+    "Бид зуслангийн ойролцоо байдаг хуучин сүмийг зурсан."
+   ],
+   "alt_en": [
+    "We sketched the old church near the camp."
+   ],
+   "mn_latin": "Bid zuslangiin oiroltsookh khuuchin sümiig zursan."
+  },
+  {
+   "mn": "Унтах цаг боллоо, бүгдээрээ орондоо орцгоо.",
+   "en": "It's lights-out. Everyone get in bed.",
+   "alt_mn": [
+    "Унтах цаг болсон, бүгдээрээ орондоо орцгоо."
+   ],
+   "alt_en": [
+    "It's lights-out, so everybody get into bed."
+   ],
+   "mn_latin": "Untakh tsag bolloo, bügdeeree orondoo ortsgoo."
+  },
+  {
+   "mn": "Эхлээд бүртгүүлээд, дараа нь зөвлөх багштайгаа танилцаарай.",
+   "en": "Check in first, and then meet your counselor.",
+   "alt_mn": [
+    "Эхлээд бүртгүүлж, дараа нь зөвлөх багштайгаа танилцаарай."
+   ],
+   "alt_en": [
+    "First check in, then go meet your counselor."
+   ],
+   "mn_latin": "Ekhleed bürtgüüleed, daraa ni zövlökh bagshtaigaa taniltsaarai."
+  },
+  {
+   "mn": "Бие биедээ эелдэг хандаж байгаарай, та нар одоо нэг гэр бүл.",
+   "en": "Please be kind to each other. You're one family now.",
+   "alt_mn": [
+    "Бие биедээ эелдэг байж байгаарай, та нар одоо нэг гэр бүл."
+   ],
+   "alt_en": [
+    "Please be kind to one another. You're a family now."
+   ],
+   "mn_latin": "Biye biyedee eyeldeg khandaj baigaarai, ta nar odoo neg ger bül."
+  }
+ ],
+ "grammar": {
+  "title_en": "Ongoing requests (-ж байгаарай / -ж байгаач) and zero article: in hospital / at church vs the hospital / the church",
+  "title_mn": "Үргэлжлэх хүсэлт (-ж байгаарай / -ж байгаач) ба артикльгүй хэллэг: in hospital / at church ба the hospital / the church",
+  "explain_en": "To ask someone to keep doing something over time, Mongolian uses the verb + -ж/-ч + байгаарай. It is polite and works for a group or for an adult, so a counselor uses it for camp rules: \"Хуваариа шалгаж байгаарай\" (Please keep checking the schedule). The ending -аач (байгаач) sounds friendly and a bit pleading, like \"..., okay?\" or \"..., will you?\". People use it with family and close friends: \"Надад залгаж байгаач\" (Call me, okay?). To ask someone NOT to do something, use -хгүй байгаарай: \"Гарахгүй байгаарай\" (Please don't leave). In English, some places take no article when we talk about their main purpose: in prison (as a prisoner), go to church (to worship), in bed (sleeping), at school (studying). When we mean just the building, we add \"the\": \"We drew the old church.\" Note: \"in hospital\" (as a patient) is British. Americans usually say \"in the hospital.\"",
+  "explain_mn": "Хэн нэгнийг ямар нэг үйлдлийг тогтмол хийж байхыг хүсэхдээ үйл үг + -ж/-ч + байгаарай хэлбэрийг хэрэглэнэ. Энэ нь эелдэг бөгөөд олон хүн эсвэл насанд хүрсэн хүнд хэлж болно. Тиймээс зөвлөх багш зуслангийн дүрмийг ингэж хэлдэг: \"Хуваариа шалгаж байгаарай\". \"-аач\" (байгаач) нь дотно, жаахан гуйсан өнгөтэй, англиар \"..., okay?\", \"..., will you?\" гэсэнтэй адил. Үүнийг гэр бүл, дотны найздаа хэлдэг: \"Надад залгаж байгаач\". Ямар нэг юм хийхгүй байхыг хүсвэл \"-хгүй байгаарай\" гэнэ: \"Гарахгүй байгаарай\". Англи хэлэнд зарим газрын нэрийг тухайн газрын үндсэн зорилгоор нь ярьж байвал артикльгүй хэрэглэдэг: in prison (хоригдож байгаа), go to church (мөргөлд явах), in bed (унтаж байгаа), at school (сурч байгаа). Харин тэр газрыг зүгээр нэг барилга гэж ярих үед \"the\" нэмнэ: \"We drew the old church\" (сүмийн барилгыг зурсан). Анхаар: \"in hospital\" (өвдөж хэвтэх) гэдэг нь Британийн хэрэглээ. Америкчууд ихэвчлэн \"in the hospital\" гэж хэлдэг.",
+  "examples": [
+   {
+    "mn": "Хүүхдүүд ээ, дүрмээ сахиж байгаарай.",
+    "en": "Kids, please follow the rules.",
+    "mn_latin": "Khüükhdüüd ee, dürmee sakhij baigaarai."
+   },
+   {
+    "mn": "Ээж ээ, надад захиа бичиж байгаач.",
+    "en": "Mom, write me letters, okay?",
+    "mn_latin": "Eej ee, nadad zakhia bichij baigaach."
+   },
+   {
+    "mn": "Өвөө маань ням гараг бүр сүмд явдаг.",
+    "en": "My grandpa goes to church every Sunday.",
+    "mn_latin": "Övöö maani nyam garag bür sümd yavdag."
+   },
+   {
+    "mn": "Бид эмнэлгийн барилгын хажуугаар өнгөрсөн.",
+    "en": "We walked past the hospital building.",
+    "mn_latin": "Bid emnelgiin barilgyn khajuugaar öngörsön."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эрхэм эцэг эхчүүд ээ, хүүхэдтэйгээ холбоотой ___.",
+   "answer": "байгаарай",
+   "options": [
+    "байгаарай",
+    "байгаач",
+    "байсан",
+    "байна"
+   ],
+   "translation": "Dear parents, please stay in touch with your children.",
+   "explain_en": "This is a formal message to a group of adults, so the polite -аарай fits. The friendly -аач would sound too casual here.",
+   "explain_mn": "Олон хүн, насанд хүрэгчдэд албан ёсоор хандаж байгаа тул эелдэг \"-аарай\" тохирно. \"-аач\" нь хэт дотно сонсогдоно."
+  },
+  {
+   "lang": "mn",
+   "text": "Найзаа, надад захиа бичиж ___, за юу?",
+   "answer": "байгаач",
+   "options": [
+    "байгаач",
+    "байсан",
+    "байхгүй",
+    "байна"
+   ],
+   "translation": "Hey buddy, write me letters, okay?",
+   "explain_en": "\"Найзаа\" and \"за юу?\" show a close, friendly request, which calls for the friendly -аач ending.",
+   "explain_mn": "\"Найзаа\", \"за юу?\" гэдэг нь дотно хүсэлт гэдгийг харуулж байна. Тиймээс \"-аач\" хэлбэр тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид гуравдугаар байр___ амьдарна.",
+   "answer": "анд",
+   "options": [
+    "анд",
+    "аас",
+    "ыг",
+    "тай"
+   ],
+   "translation": "We'll live in Cabin 3.",
+   "explain_en": "\"In\" a place takes the dative-locative case. For байр it is -анд (байранд).",
+   "explain_mn": "Хаана амьдрахыг заахдаа өгөх-оршихын тийн ялгал хэрэглэнэ: байранд."
+  },
+  {
+   "lang": "en",
+   "text": "Everyone has to be ___ by ten.",
+   "answer": "in bed",
+   "options": [
+    "in bed",
+    "in the bed",
+    "in a bed",
+    "on bed"
+   ],
+   "translation": "Бүгд арван цаг гэхэд орондоо орсон байх ёстой.",
+   "explain_en": "\"In bed\" means sleeping or resting, so there is no article. \"In the bed\" refers to the piece of furniture.",
+   "explain_mn": "Унтах утгаар \"in bed\" гэж артикльгүй хэлнэ. \"In the bed\" гэвэл тодорхой нэг орны тухай болно."
+  },
+  {
+   "lang": "en",
+   "text": "Grandpa goes to ___ every Sunday morning.",
+   "answer": "church",
+   "options": [
+    "church",
+    "the church",
+    "a church",
+    "churches"
+   ],
+   "translation": "Өвөө ням гараг бүрийн өглөө сүмд явдаг.",
+   "explain_en": "He goes there to worship, which is the place's main purpose, so there is no article.",
+   "explain_mn": "Мөргөл хийх зорилгоор явж байгаа тул \"go to church\" гэж артикльгүй хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The robber in the story spent ten years ___.",
+   "answer": "in prison",
+   "options": [
+    "in prison",
+    "in the prisons",
+    "at a prison",
+    "on prison"
+   ],
+   "translation": "Түүхэнд гардаг дээрэмчин арван жил шоронд суусан.",
+   "explain_en": "He was there as a prisoner, so we say \"in prison\" with no article.",
+   "explain_mn": "Хоригдол болж суусан утгатай тул \"in prison\" гэж артикльгүй хэлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarnai",
+   "mn": "Сайн байцгаана уу! Би та нарын зөвлөх багш Сарнай. Та нар гуравдугаар байранд амьдарна.",
+   "en": "Hello, everyone! I'm Sarnai, your counselor. You'll be living in Cabin 3.",
+   "mn_latin": "Sain baitsgaana uu! Bi ta naryn zövlökh bagsh Sarnai. Ta nar guravdugaar bairand amidarna."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Сайн байна уу, багш аа. Унтах цаг хэдэд вэ?",
+   "en": "Hello, teacher! What time is lights-out?",
+   "mn_latin": "Sain baina uu, bagsh aa. Untakh tsag kheded ve?"
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Орой арван цагт. Түүнээс хойш байрнаасаа гарахгүй байгаарай.",
+   "en": "At ten p.m. After that, please don't leave your cabin.",
+   "mn_latin": "Oroi arvan tsagt. Tüünees khoish bairnaasaa garakhgüi baigaarai."
+  },
+  {
+   "speaker": "Oyuna",
+   "mn": "Ану минь, орой болгон надад залгаж байгаач, за юу?",
+   "en": "Anu, sweetie, call me every evening, okay?",
+   "mn_latin": "Anu mini, oroi bolgon nadad zalgaj baigaach, za yuu?"
+  },
+  {
+   "speaker": "Anu",
+   "mn": "За, ээж ээ. Санаа бүү зов.",
+   "en": "Okay, Mom. Don't worry.",
+   "mn_latin": "Za, eej ee. Sanaa büü zov."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Хуваарь хаалган дээр наалттай байгаа. Өглөө бүр шалгаж байгаарай.",
+   "en": "The schedule is posted on the door. Please check it every morning.",
+   "mn_latin": "Khuvaari khaalgan deer naalttai baigaa. Öglöö bür shalgaj baigaarai."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Миний найз Дорж яагаад ирээгүй юм бэ?",
+   "en": "Why didn't my friend Dorj come?",
+   "mn_latin": "Minii naiz Dorj yaagaad ireegüi yum be?"
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Тэр өвдөөд эмнэлэгт хэвтэж байгаа. Удахгүй ирнэ гэсэн.",
+   "en": "He's sick in the hospital. He said he'll come soon.",
+   "mn_latin": "Ter övdööd emnelegt khevtej baigaa. Udakhgüi irne gesen."
+  }
+ ],
+ "culture_note": {
+  "en": "Children's summer camps (зуслан) have been part of Mongolian childhood since the socialist era. Many of them sit in green valleys near Ulaanbaatar, such as Terelj and Gachuurt. Kids usually call their counselor \"багш аа\" (teacher) out of respect, even when the counselor is a young university student.",
+  "mn": "Хүүхдийн зуслан нь социализмын үеэс эхлэн монгол хүүхдийн бага насны салшгүй хэсэг болжээ. Олон зуслан Улаанбаатарын ойролцоох Тэрэлж, Гачуурт зэрэг ногоон хөндийд байрладаг. Зөвлөх багш нь залуу оюутан байсан ч хүүхдүүд хүндэтгэлтэйгээр \"багш аа\" гэж дууддаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Accurate, natural lesson with correct grammar and case endings. Only one small translation gap in the dialogue."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 10,
+  "notes": "The main problem was en/mn intro and grammar sections describing different topics. Both now cover both topics. A group imperative and a few mismatches were also fixed.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "en/mn intros described different topics; now both cover the lesson's two topics"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "match intro_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "en/mn titles covered different topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations described different topics; now both cover both"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "match explain_en"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "addressing a group: singular imperative ор → орцгоо"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "same group imperative fix"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "\"Түүхийн дээрэмчин\" reads as \"history's robber\", not \"the robber in the story\""
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Ихэнх (most) ≠ many; зуны амьдрал ≠ childhood"
+   }
+  ]
+ }
+}

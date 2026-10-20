@@ -1,0 +1,490 @@
+{
+ "intro_en": "You will learn how to track a parcel and talk with a courier about your address and delivery time. You will also practice the Mongolian intention suffix -хаар and the English pattern let + object + verb.",
+ "intro_mn": "Та илгээмжээ хянах, курьертэй хаяг болон хүргэлтийн цагийн талаар ярилцах аргыг сурна. Мөн монгол хэлний -хаар гэсэн зорилгын нөхцөлийг болон англи хэлний let + хэн/юу + үйл үгийн бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "хүргэлт",
+   "en": "delivery",
+   "pos": "noun",
+   "example_mn": "Хүргэлт маргааш болно.",
+   "example_en": "The delivery will be tomorrow.",
+   "mn_latin": "khürgelt"
+  },
+  {
+   "mn": "курьер",
+   "en": "courier",
+   "pos": "noun",
+   "example_mn": "Курьер надад залгалаа.",
+   "example_en": "The courier called me.",
+   "mn_latin": "kuriyer"
+  },
+  {
+   "mn": "хаяг",
+   "en": "address",
+   "pos": "noun",
+   "example_mn": "Миний хаяг буруу байна.",
+   "example_en": "My address is wrong.",
+   "mn_latin": "khayag"
+  },
+  {
+   "mn": "илгээмж",
+   "en": "parcel",
+   "pos": "noun",
+   "example_mn": "Миний илгээмж хаана байна вэ?",
+   "example_en": "Where is my parcel?",
+   "mn_latin": "ilgeemj"
+  },
+  {
+   "mn": "хүлээн авах",
+   "en": "to receive, to pick up",
+   "pos": "verb",
+   "example_mn": "Би илгээмжээ өөрөө хүлээн авна.",
+   "example_en": "I will receive the parcel myself.",
+   "mn_latin": "khüleen avakh"
+  },
+  {
+   "mn": "хоцрох",
+   "en": "to be late",
+   "pos": "verb",
+   "example_mn": "Түгжрэлээс болоод курьер хоцорлоо.",
+   "example_en": "The courier is late because of traffic.",
+   "mn_latin": "khotsrokh"
+  },
+  {
+   "mn": "хянах",
+   "en": "to track, to monitor",
+   "pos": "verb",
+   "example_mn": "Би илгээмжээ апп-аар хянаж байна.",
+   "example_en": "I am tracking my parcel in the app.",
+   "mn_latin": "khyanakh"
+  },
+  {
+   "mn": "хүргэх",
+   "en": "to deliver",
+   "pos": "verb",
+   "example_mn": "Тэд бараагаа гэрт хүргэдэг.",
+   "example_en": "They deliver goods to your home.",
+   "mn_latin": "khürgekh"
+  },
+  {
+   "mn": "орц",
+   "en": "entrance (of a building)",
+   "pos": "noun",
+   "example_mn": "Курьер 3-р орцны өмнө байна.",
+   "example_en": "The courier is in front of entrance 3.",
+   "mn_latin": "orts"
+  },
+  {
+   "mn": "утасны дугаар",
+   "en": "phone number",
+   "pos": "noun",
+   "example_mn": "Курьерт миний утасны дугаарыг өгнө үү.",
+   "example_en": "Please give the courier my phone number.",
+   "mn_latin": "utasny dugaar"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний илгээмж хаана байна вэ?",
+   "en": "Where is my parcel?",
+   "alt_mn": [],
+   "alt_en": [
+    "Where's my parcel?"
+   ],
+   "mn_latin": "Minii ilgeemj khaana baina ve?"
+  },
+  {
+   "mn": "Би илгээмжээ апп-аар хянаж байна.",
+   "en": "I am tracking my parcel in the app.",
+   "alt_mn": [
+    "Би илгээмжээ аппликейшнээр хянаж байна."
+   ],
+   "alt_en": [
+    "I'm tracking my package in the app."
+   ],
+   "mn_latin": "Bi ilgeemjee app-aar khyanaj baina."
+  },
+  {
+   "mn": "Курьер хоцорч байна.",
+   "en": "The courier is running late.",
+   "alt_mn": [
+    "Курьер хоцорлоо."
+   ],
+   "alt_en": [
+    "The courier is late."
+   ],
+   "mn_latin": "Kuriyer khotsorch baina."
+  },
+  {
+   "mn": "Хүргэлт хэдэн цагт ирэх вэ?",
+   "en": "What time will the delivery arrive?",
+   "alt_mn": [
+    "Хүргэлт хэдэн цагт ирэх юм бэ?"
+   ],
+   "alt_en": [
+    "When will the delivery come?"
+   ],
+   "mn_latin": "Khürgelt kheden tsagt irekh ve?"
+  },
+  {
+   "mn": "Би илгээмжээ хүлээн авахаар гарлаа.",
+   "en": "I went out to pick up my parcel.",
+   "alt_mn": [
+    "Би илгээмжээ авахаар гарлаа."
+   ],
+   "alt_en": [
+    "I went out to receive my parcel."
+   ],
+   "mn_latin": "Bi ilgeemjee khüleen avakhaar garlaa."
+  },
+  {
+   "mn": "Хаяг дээрээ орцны дугаарыг бичсэн үү?",
+   "en": "Did you write the entrance number in the address?",
+   "alt_mn": [],
+   "alt_en": [
+    "Did you include the entrance number in the address?"
+   ],
+   "mn_latin": "Khayag deeree ortsny dugaaryg bichsen üü?"
+  },
+  {
+   "mn": "Курьерт залгаад хаягаа тайлбарлалаа.",
+   "en": "I called the courier and explained my address.",
+   "alt_mn": [],
+   "alt_en": [
+    "I called the courier and explained where I live."
+   ],
+   "mn_latin": "Kuriyert zalgaad khayagaa tailbarlalaa."
+  },
+  {
+   "mn": "Курьер илгээмжийг орцны хаалганы дэргэд үлдээг.",
+   "en": "Let the courier leave it at the door.",
+   "alt_mn": [
+    "Курьер илгээмжийг хаалганы дэргэд үлдээг."
+   ],
+   "alt_en": [
+    "Let the courier leave it by the door."
+   ],
+   "mn_latin": "Kuriyer ilgeemjiig ortsny khaalgany derged üldeeg."
+  },
+  {
+   "mn": "Миний найзад илгээмжийг авахыг зөвшөөрөөрэй.",
+   "en": "Let my friend pick up the parcel.",
+   "alt_mn": [
+    "Найзад минь илгээмжийг авахыг зөвшөөрөөрэй."
+   ],
+   "alt_en": [
+    "Let my friend take the parcel."
+   ],
+   "mn_latin": "Minii naizad ilgeemjiig avakhyg zövshööröörei."
+  },
+  {
+   "mn": "Би ажлаасаа гараад курьертэй уулзахаар явж байна.",
+   "en": "I am leaving work to meet the courier.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm leaving work to go meet the courier."
+   ],
+   "mn_latin": "Bi ajlaasaa garaad kuriyertei uulzakhaar yavj baina."
+  },
+  {
+   "mn": "Түгжрэлээс болоод хүргэлт нэг цаг хоцорсон.",
+   "en": "The delivery was an hour late because of traffic.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because of traffic, the delivery was an hour late."
+   ],
+   "mn_latin": "Tügjrelees bolood khürgelt neg tsag khotsorson."
+  },
+  {
+   "mn": "Курьер миний дугаар руу залгахаар утсаа авлаа.",
+   "en": "The courier picked up his phone to call my number.",
+   "alt_mn": [],
+   "alt_en": [
+    "The courier took out his phone to call me."
+   ],
+   "mn_latin": "Kuriyer minii dugaar ruu zalgakhaar utsaa avlaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "-хаар: going or calling in order to do something",
+  "title_mn": "-хаар: зорилго заасан нөхцөл",
+  "explain_en": "Add -хаар (-хоор, -хөөр, -хээр by vowel harmony) to a verb stem to say the purpose of going, coming or calling: хүлээн авахаар гарлаа = 'I went out (in order) to receive it'. It is usually followed by a verb like гарах, явах, очих, ирэх or залгах. Examples: авах → авахаар, хүргэх → хүргэхээр, уулзах → уулзахаар. We also practice the English pattern let + object + base verb (no to): Let the courier leave it at the door. Let me know.",
+  "explain_mn": "Үйл үгийн үндсэнд -хаар (-хоор, -хөөр, -хээр) нөхцөлийг залгаж, гарах, явах, очих, ирэх, залгах зэрэг үйл үгийн өмнө зорилгыг илэрхийлнэ: хүлээн авахаар гарлаа = хүлээн авахын тулд гарлаа. Жишээ: авах → авахаар, хүргэх → хүргэхээр, уулзах → уулзахаар. Англи хэлний let + хэн/юу + үйл үгийн үндсэн хэлбэр (to-гүй) бүтцийг мөн дадлагажуулна: Let the courier leave it at the door. Let me know.",
+  "examples": [
+   {
+    "mn": "Би илгээмжээ хүлээн авахаар гарлаа.",
+    "en": "I went out to receive my parcel.",
+    "mn_latin": "Bi ilgeemjee khüleen avakhaar garlaa."
+   },
+   {
+    "mn": "Курьер хаягийг лавлахаар залгасан.",
+    "en": "The courier called to check the address.",
+    "mn_latin": "Kuriyer khayagiig lavlakhaar zalgasan."
+   },
+   {
+    "mn": "Бид бараагаа авахаар дэлгүүрт очлоо.",
+    "en": "We went to the store to get our goods.",
+    "mn_latin": "Bid baraagaa avakhaar delgüürt ochloo."
+   },
+   {
+    "mn": "Тэр илгээмж өгөхөөр орцонд ирлээ.",
+    "en": "He came to the entrance to hand over a parcel.",
+    "mn_latin": "Ter ilgeemj ögökhöör ortsond irlee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би илгээмжээ хүлээн ___ гарлаа.",
+   "answer": "авахаар",
+   "options": [
+    "авахаар",
+    "авсан",
+    "авдаг",
+    "авбал"
+   ],
+   "translation": "I went out to receive my parcel.",
+   "explain_en": "Use verb stem + -хаар to give the purpose of going: авахаар = in order to receive.",
+   "explain_mn": "Гарах зэрэг хөдөлгөөний үйл үгийн өмнө зорилгыг -хаар нөхцөлөөр илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Курьер хаяг ___ залгалаа.",
+   "answer": "лавлахаар",
+   "options": [
+    "лавлахаар",
+    "лавласан",
+    "лавладаг",
+    "лавлана"
+   ],
+   "translation": "The courier called to check the address.",
+   "explain_en": "Лавлах + -хаар → лавлахаар 'in order to check', showing the purpose of calling.",
+   "explain_mn": "Залгах гэсэн үйл үгийн өмнө зорилгыг -хаар нөхцөлөөр заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Түгжрэлээс болоод курьер ___.",
+   "answer": "хоцорлоо",
+   "options": [
+    "хоцорлоо",
+    "хүргэлээ",
+    "хаяглалаа",
+    "хянав"
+   ],
+   "translation": "The courier was late because of traffic.",
+   "explain_en": "Хоцрох means 'to be late'; the past form is хоцорлоо.",
+   "explain_mn": "Түгжрэлээс болж хожимдсон утгыг хоцрох үйл үг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Let the courier ___ the parcel at the door.",
+   "answer": "leave",
+   "options": [
+    "leave",
+    "to leave",
+    "leaves",
+    "leaving"
+   ],
+   "translation": "Курьерт илгээмжийг үүдэнд нь үлдээхийг зөвшөөр.",
+   "explain_en": "After let + object, use the base verb without to.",
+   "explain_mn": "Let + хэн/юу-ийн дараа 'to'-гүй үндсэн хэлбэр ордог."
+  },
+  {
+   "lang": "en",
+   "text": "Please let me ___ your phone number.",
+   "answer": "have",
+   "options": [
+    "have",
+    "to have",
+    "had",
+    "having"
+   ],
+   "translation": "Надад утасны дугаараа өгөөрэй.",
+   "explain_en": "Let me + base verb: let me have, let me know, let me see.",
+   "explain_mn": "Let me + үндсэн хэлбэр: let me have."
+  },
+  {
+   "lang": "en",
+   "text": "My neighbor will let the courier ___ the building.",
+   "answer": "enter",
+   "options": [
+    "enter",
+    "to enter",
+    "entered",
+    "enters"
+   ],
+   "translation": "Миний хөрш курьерыг байранд оруулна.",
+   "explain_en": "Let is followed by object and base form: let the courier enter.",
+   "explain_mn": "Let-ийн дараа үйл үг үндсэн хэлбэрээрээ орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу, таны илгээмжийг авчирлаа. Та хаана байна?",
+   "en": "Hello, I've brought your parcel. Where are you?",
+   "mn_latin": "Sain baina uu, tany ilgeemjiig avchirlaa. Ta khaana baina?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Сайн байна уу. Би ажил дээрээ байна. Хэдэн цагт хүрэх вэ?",
+   "en": "Hello. I'm at work. What time can you get here?",
+   "mn_latin": "Sain baina uu. Bi ajil deeree baina. Kheden tsagt khürekh ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би одоо 5-р хороололд байна. Түгжрэлээс болоод жаахан хоцорч байна.",
+   "en": "I'm in the 5th khoroolol now. I'm a bit late because of traffic.",
+   "mn_latin": "Bi odoo 5-r khoroolold baina. Tügjrelees bolood jaakhan khotsorch baina."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Зүгээр. Миний нөхөр гэртээ байгаа. Тэр илгээмжийг хүлээн авна.",
+   "en": "That's fine. My husband is at home. He will receive the parcel.",
+   "mn_latin": "Zügeer. Minii nökhör gertee baigaa. Ter ilgeemjiig khüleen avna."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Хаяг дээр 12-р байр, 3-р орц гэж байна. Зөв үү?",
+   "en": "The address says building 12, entrance 3. Is that right?",
+   "mn_latin": "Khayag deer 12-r bair, 3-r orts gej baina. Zöv üü?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тийм ээ. Орцны код 1457. Нөхөр маань таныг дотогш оруулна.",
+   "en": "Yes. The entrance code is 1457. My husband will let you in.",
+   "mn_latin": "Tiim ee. Ortsny kod 1457. Nökhör maani tanyg dotogsh oruulna."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "За, ойлголоо. Би хорин минутын дотор очно.",
+   "en": "Okay, understood. I'll be there within twenty minutes.",
+   "mn_latin": "Za, oilgoloo. Bi khorin minutyn dotor ochno."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Баярлалаа. Нөхөр маань хүлээн авахаар доош бууна.",
+   "en": "Thanks. My husband will come down to receive it.",
+   "mn_latin": "Bayarlalaa. Nökhör maani khüleen avakhaar doosh buuna."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many addresses in ger districts and older neighborhoods are hard to find by street name, so couriers often call and ask for landmarks, such as a shop or a bus stop. In apartment buildings, people usually give the building number, entrance (орц), floor and door code. It is polite to answer the courier's call quickly.",
+  "mn": "Улаанбаатарт, ялангуяа гэр хороолол болон хуучин хорооллуудад хаягийг гудамжны нэрээр олоход хэцүү байдаг тул курьер ихэвчлэн залгаж ойролцоох дэлгүүр, автобусны буудал зэрэг барьц газрыг асуудаг. Орон сууцанд хүмүүс ихэвчлэн байрны дугаар, орц, давхар, хаалганы кодоо хэлдэг. Курьерын дуудлагад хурдан хариулах нь ёс зүйтэй."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 18,
+  "notes": "Several real problems: a Latin ö typo, a grammar-title mismatch, a non-matching Mongolian let-sentence, and a tense issue; the rest is mostly fine."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 17,
+  "notes": "Main problems: the wrong grammar term нөхөр instead of нөхцөл, broken dialogue lines (орууль, тань), and a malformed fill-in-the-blank.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "нөхөр means 'husband', the term is нөхцөл; тохиолдол is the wrong word for 'object'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "нөхөр → нөхцөл"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Corrected the term and matched the content of the en version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Matched the mn version, which also covers let; залгах is not a movement verb"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "The present 'heading out' does not match гарлаа"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "зөвшөөрөх takes the dative, not the accusative"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'хүлээн авч гарлаа' was also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "'лавлах' + 'аар' split the word wrongly, and -аар is not the suffix"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "answer",
+    "why": "Full correct form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Real word forms; only one option fits"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "The old explanation was confused"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "нөхөр → нөхцөл"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "нөхөр → нөхцөл"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'орууль' is not a word, and she is speaking to the courier himself"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "Matches the new mn line and still uses let"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "тань means 'your'; she means her own husband"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "тэмдэглэгээ does not mean 'landmark'; aligned with the en version"
+   }
+  ]
+ }
+}

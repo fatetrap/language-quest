@@ -1,0 +1,470 @@
+{
+ "intro_en": "You will learn the vocabulary of a newsroom and how a morning editorial meeting sounds in Ulaanbaatar. You will also practice stance adverbs in English (reportedly, apparently, officially) and the Mongolian sentence-final particle юм for confident statements.",
+ "intro_mn": "Та мэдээний редакцийн үгсийг сурч, Улаанбаатарын өглөөний редакцийн хурал хэрхэн явагддагийг үзнэ. Мөн англи хэлний байр суурь илэрхийлэх дайвар үг (reportedly, apparently, officially) болон монгол хэлний баттай мэдэгдлийн «юм» сул үгийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "сэтгүүлч",
+   "en": "journalist",
+   "pos": "noun",
+   "example_mn": "Тэр сэтгүүлч залуу асуулт асууж байна.",
+   "example_en": "That young journalist is asking a question.",
+   "mn_latin": "setgüülch"
+  },
+  {
+   "mn": "редактор",
+   "en": "editor",
+   "pos": "noun",
+   "example_mn": "Редактор өглөө бүр хурал хийдэг.",
+   "example_en": "The editor holds a meeting every morning.",
+   "mn_latin": "ryedaktor"
+  },
+  {
+   "mn": "мэдээ",
+   "en": "news; news item",
+   "pos": "noun",
+   "example_mn": "Өнөөдрийн гол мэдээ юу вэ?",
+   "example_en": "What is today's main news?",
+   "mn_latin": "medee"
+  },
+  {
+   "mn": "нийтлэл",
+   "en": "article",
+   "pos": "noun",
+   "example_mn": "Би замын түгжрэлийн тухай нийтлэл бичиж байна.",
+   "example_en": "I am writing an article about traffic jams.",
+   "mn_latin": "niitlel"
+  },
+  {
+   "mn": "эх сурвалж",
+   "en": "source",
+   "pos": "noun",
+   "example_mn": "Манай эх сурвалж нэрээ нууцлахыг хүссэн.",
+   "example_en": "Our source asked to remain anonymous.",
+   "mn_latin": "ekh survalj"
+  },
+  {
+   "mn": "гарчиг",
+   "en": "headline; title",
+   "pos": "noun",
+   "example_mn": "Энэ гарчиг хэтэрхий урт байна.",
+   "example_en": "This headline is too long.",
+   "mn_latin": "garchig"
+  },
+  {
+   "mn": "нэвтрүүлэг",
+   "en": "broadcast; program",
+   "pos": "noun",
+   "example_mn": "Орой есөн цагт шууд нэвтрүүлэг эхэлнэ.",
+   "example_en": "A live broadcast starts at nine in the evening.",
+   "mn_latin": "nevtrüüleg"
+  },
+  {
+   "mn": "баталгаажуулах",
+   "en": "to confirm; to verify",
+   "pos": "verb",
+   "example_mn": "Бид энэ мэдээллийг баталгаажуулах ёстой.",
+   "example_en": "We must verify this information.",
+   "mn_latin": "batalgaajuulakh"
+  },
+  {
+   "mn": "нийтлэх",
+   "en": "to publish",
+   "pos": "verb",
+   "example_mn": "Бид мэдээг маргааш нийтэлнэ.",
+   "example_en": "We will publish the news tomorrow.",
+   "mn_latin": "niitlekh"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "deadline; time period",
+   "pos": "noun",
+   "example_mn": "Нийтлэлийн хугацаа маргааш дуусна.",
+   "example_en": "The deadline for the article is tomorrow.",
+   "mn_latin": "khugatsaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Редактор өглөө есөн цагт хурал хийнэ.",
+   "en": "The editor holds a meeting at nine in the morning.",
+   "alt_mn": [],
+   "alt_en": [
+    "The editor will hold a meeting at nine a.m."
+   ],
+   "mn_latin": "Ryedaktor öglöö yesön tsagt khural khiine."
+  },
+  {
+   "mn": "Сэтгүүлч эх сурвалжтайгаа ярилцсан.",
+   "en": "The journalist talked with his source.",
+   "alt_mn": [
+    "Сэтгүүлч эх сурвалжтайгаа ярьсан."
+   ],
+   "alt_en": [
+    "The journalist talked with her source.",
+    "The journalist spoke with the source."
+   ],
+   "mn_latin": "Setgüülch ekh survaljtaigaa yariltssan."
+  },
+  {
+   "mn": "Энэ гарчиг сайхан байна.",
+   "en": "This headline is good.",
+   "alt_mn": [
+    "Энэ гарчиг сайн байна."
+   ],
+   "alt_en": [
+    "This headline is nice."
+   ],
+   "mn_latin": "Ene garchig saikhan baina."
+  },
+  {
+   "mn": "Энэ мэдээ үнэн юм.",
+   "en": "This news is true.",
+   "alt_mn": [],
+   "alt_en": [
+    "This news is indeed true.",
+    "This story is true."
+   ],
+   "mn_latin": "Ene medee ünen yum."
+  },
+  {
+   "mn": "Мэдээллээ эхлээд баталгаажуулах хэрэгтэй.",
+   "en": "We need to verify the information first.",
+   "alt_mn": [
+    "Мэдээллээ эхлээд баталгаажуулах ёстой."
+   ],
+   "alt_en": [
+    "The information needs to be verified first."
+   ],
+   "mn_latin": "Medeellee ekhleed batalgaajuulakh kheregtei."
+  },
+  {
+   "mn": "Мэдээллээр, хотын дарга маргааш огцорно гэнэ.",
+   "en": "Reportedly, the mayor will resign tomorrow.",
+   "alt_mn": [
+    "Мэдээлснээр хотын дарга маргааш огцорно гэнэ."
+   ],
+   "alt_en": [
+    "Reportedly, the mayor is going to resign tomorrow."
+   ],
+   "mn_latin": "Medeelleer, khotyn darga margaash ogtsorno gene."
+  },
+  {
+   "mn": "Тэр албан ёсоор мэдэгдэл гаргаагүй байна.",
+   "en": "He has not officially issued a statement.",
+   "alt_mn": [
+    "Тэр албан ёсны мэдэгдэл гаргаагүй байна."
+   ],
+   "alt_en": [
+    "He has not officially made a statement."
+   ],
+   "mn_latin": "Ter alban yosoor medegdel gargaagüi baina."
+  },
+  {
+   "mn": "Нэвтрүүлэг харин орой найман цагт эхэлнэ.",
+   "en": "The broadcast, however, starts at eight in the evening.",
+   "alt_mn": [
+    "Харин нэвтрүүлэг орой найман цагт эхэлнэ."
+   ],
+   "alt_en": [
+    "But the program starts at eight in the evening."
+   ],
+   "mn_latin": "Nevtrüüleg kharin oroi naiman tsagt ekhelne."
+  },
+  {
+   "mn": "Бүх нийтлэл маргааш өглөө гарна.",
+   "en": "All the articles will come out tomorrow morning.",
+   "alt_mn": [
+    "Бүх нийтлэл маргааш өглөө нийтлэгдэнэ."
+   ],
+   "alt_en": [
+    "All the articles will be published tomorrow morning."
+   ],
+   "mn_latin": "Bükh niitlel margaash öglöö garna."
+  },
+  {
+   "mn": "Харахад энэ зам хаагдсан бололтой.",
+   "en": "Apparently, this road has been closed.",
+   "alt_mn": [
+    "Энэ зам хаагдсан бололтой."
+   ],
+   "alt_en": [
+    "It seems this road has been closed.",
+    "This road has apparently been closed."
+   ],
+   "mn_latin": "Kharakhad ene zam khaagdsan bololtoi."
+  },
+  {
+   "mn": "Нийтлэлийн хугацаа маргааш дуусна.",
+   "en": "The article's deadline is tomorrow.",
+   "alt_mn": [
+    "Нийтлэлийн эцсийн хугацаа маргааш."
+   ],
+   "alt_en": [
+    "The deadline for the article is tomorrow.",
+    "The article is due tomorrow."
+   ],
+   "mn_latin": "Niitleliin khugatsaa margaash duusna."
+  },
+  {
+   "mn": "Энэ мэдээг би өөрөө шалгасан юм.",
+   "en": "I checked this news myself, you know.",
+   "alt_mn": [],
+   "alt_en": [
+    "I checked this story myself."
+   ],
+   "mn_latin": "Ene medeeg bi ööröö shalgasan yum."
+  }
+ ],
+ "grammar": {
+  "title_en": "Stance adverbs in English and the particle юм in Mongolian",
+  "title_mn": "Англи хэлний байр суурийн дайвар үг ба монгол хэлний «юм»",
+  "explain_en": "In English, sentence adverbs show how sure you are or where information comes from: 'Reportedly, the mayor resigned' (you heard it from reports), 'Apparently, the road is closed' (it looks that way), 'Officially, nothing has changed' (by the formal position). They usually come at the start and are followed by a comma. In Mongolian, a statement ends with a plain verb or байна, but adding юм at the end of a statement gives a firm, explanatory tone: 'Энэ үнэн юм' means 'This is (indeed) true.' It presents the fact as certain or as an explanation. For reported or uncertain information, Mongolian uses words like гэнэ, бололтой or мэдээллээр.",
+  "explain_mn": "Англи хэлэнд өгүүлбэрийн дайвар үг нь мэдээллийн найдвартай байдал, эх сурвалжийг илэрхийлдэг. Reportedly нь «мэдээлснээр», apparently нь «бололтой, харахад», officially нь «албан ёсоор» гэсэн утгатай. Эдгээрийг ихэвчлэн өгүүлбэрийн эхэнд тавьж, дараа нь таслал тавина: «Reportedly, the mayor resigned.» Монгол «Энэ үнэн юм» гэдэг шиг баттай хэлэхдээ англиар «This is true» эсвэл «This is indeed true» гэж хэлнэ. Англи хэлэнд «юм» шиг тусгай сул үг байхгүй тул баттай байдлыг indeed, really зэрэг үгээр илэрхийлнэ.",
+  "examples": [
+   {
+    "mn": "Энэ үнэн юм.",
+    "en": "This is indeed true.",
+    "mn_latin": "Ene ünen yum."
+   },
+   {
+    "mn": "Мэдээллээр, хурал хойшилсон гэнэ.",
+    "en": "Reportedly, the meeting has been postponed.",
+    "mn_latin": "Medeelleer, khural khoishilson gene."
+   },
+   {
+    "mn": "Зам хаагдсан бололтой.",
+    "en": "Apparently, the road has been closed.",
+    "mn_latin": "Zam khaagdsan bololtoi."
+   },
+   {
+    "mn": "Албан ёсоор өөрчлөлт гараагүй.",
+    "en": "Officially, nothing has changed.",
+    "mn_latin": "Alban yosoor öörchlölt garaagüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ мэдээ үнэн ___.",
+   "answer": "юм",
+   "options": [
+    "юм",
+    "бол",
+    "гэж",
+    "уу"
+   ],
+   "translation": "This news is indeed true.",
+   "explain_en": "Юм at the end of a statement gives a firm, confident tone: 'This is indeed true.'",
+   "explain_mn": "Өгүүлбэрийн төгсгөлд «юм» орвол баттай, тодорхой мэдэгдэл болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Сэтгүүлч ___ сурвалжтайгаа уулзсан.",
+   "answer": "эх",
+   "options": [
+    "эх",
+    "шинэ",
+    "том",
+    "гол"
+   ],
+   "translation": "The journalist met with his source.",
+   "explain_en": "'Эх сурвалж' is the fixed phrase for 'source'.",
+   "explain_mn": "«Эх сурвалж» гэдэг нь тогтсон хослол юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Редактор гарчгийг ___ өөрчилсөн.",
+   "answer": "дахин",
+   "options": [
+    "дахин",
+    "маш",
+    "тун",
+    "шинэ"
+   ],
+   "translation": "The editor changed the headline again.",
+   "explain_en": "Дахин means 'again'; it fits the verb өөрчилсөн.",
+   "explain_mn": "«Дахин» гэдэг нь «давтан» гэсэн утгатай, үйл үгтэй зохино."
+  },
+  {
+   "lang": "en",
+   "text": "___, the mayor will resign tomorrow, according to our sources.",
+   "answer": "Reportedly",
+   "options": [
+    "Reportedly",
+    "Officially",
+    "Carefully",
+    "Quickly"
+   ],
+   "translation": "Мэдээллээр, хотын дарга маргааш огцорно гэнэ.",
+   "explain_en": "Reportedly marks information that comes from reports, not firsthand knowledge.",
+   "explain_mn": "Reportedly нь мэдээлэлд тулгуурласан, шууд биш мэдээллийг заана."
+  },
+  {
+   "lang": "en",
+   "text": "___, the company has not made any statement yet.",
+   "answer": "Officially",
+   "options": [
+    "Officially",
+    "Carelessly",
+    "Happily",
+    "Finally"
+   ],
+   "translation": "Албан ёсоор компани одоогоор ямар ч мэдэгдэл гаргаагүй байна.",
+   "explain_en": "Officially refers to the formal, public position.",
+   "explain_mn": "Officially нь албан ёсны байр суурийг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The road is ___ closed; I can see no cars.",
+   "answer": "apparently",
+   "options": [
+    "apparently",
+    "officially",
+    "reportedly",
+    "hardly"
+   ],
+   "translation": "Зам хаагдсан бололтой; би нэг ч машин харахгүй байна.",
+   "explain_en": "Apparently suggests the situation looks that way based on what you see.",
+   "explain_mn": "Apparently нь харагдаж буй байдлаас дүгнэснийг заана."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Өглөөний мэнд. Өнөөдрийн гол мэдээ юу вэ?",
+   "en": "Good morning. What is today's main news?",
+   "mn_latin": "Öglöönii mend. Önöödriin gol medee yuu ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Мэдээллээр, хотын дарга маргааш огцорно гэнэ.",
+   "en": "Reportedly, the mayor will resign tomorrow.",
+   "mn_latin": "Medeelleer, khotyn darga margaash ogtsorno gene."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Энэ үнэн үү? Эх сурвалж чинь хэн бэ?",
+   "en": "Is it true? Who is your source?",
+   "mn_latin": "Ene ünen üü? Ekh survalj chini khen be?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Албан ёсоор баталгаажаагүй ч миний эх сурвалж найдвартай юм.",
+   "en": "It is not officially confirmed, but my source is reliable.",
+   "mn_latin": "Alban yosoor batalgaajaagüi ch minii ekh survalj naidvartai yum."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэгвэл эхлээд баталгаажуулъя. Гарчгийг яах вэ?",
+   "en": "Then let's verify it first. What about the headline?",
+   "mn_latin": "Tegvel ekhleed batalgaajuulya. Garchgiig yaakh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Би «Хотын дарга огцрох уу?» гэж асуулт хэлбэрээр тавьсан.",
+   "en": "I phrased it as a question: 'Will the mayor resign?'",
+   "mn_latin": "Bi «Khotyn darga ogtsrokh uu?» gej asuult khelbereer tavisan."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна. Нийтлэлийг үдээс өмнө өгөөрэй.",
+   "en": "Good. Please hand in the article before noon.",
+   "mn_latin": "Sain baina. Niitleliig üdees ömnö ögöörei."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, ойлголоо. Оройн нэвтрүүлэгт бэлэн болно.",
+   "en": "Okay, understood. It will be ready for the evening broadcast.",
+   "mn_latin": "Za, oilgoloo. Oroin nevtrüülegt belen bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Ulaanbaatar newsrooms hold a short morning meeting where editors and reporters decide the day's stories, headlines and deadlines. Mongolian media includes the public broadcaster MNB as well as many private TV channels and online news sites. Verifying a story with a reliable source before publishing is a key professional value, and journalists often stress whether information is officially confirmed.",
+  "mn": "Улаанбаатарын олон редакци өглөө богино хурал хийж, тухайн өдрийн мэдээ, гарчиг, хугацаагаа тохирдог. Монголын хэвлэл мэдээлэлд олон нийтийн өргөн нэвтрүүлгийн МҮОНРТ болон олон хувийн телевиз, онлайн мэдээллийн сайт байдаг. Нийтлэхээс өмнө найдвартай эх сурвалжаар баталгаажуулах нь сэтгүүлчийн мэргэжлийн чухал зарчим бөгөөд мэдээлэл албан ёсоор батлагдсан эсэхийг ихэвчлэн тодотгодог."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 14,
+  "notes": "Mostly good, but with a typo in the intro (үҮ), a stray Russian word in an explanation, and an ungrammatical «огцрох гэнэ» repeated in several places."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 12,
+  "notes": "Main problems: the non-standard term «сөөлт», ambiguous fill-in-the-blank items, a mistranslated 'reportedly' and 'apparently', and details of the culture note.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "«сөөлт» is not a standard word; the grammar term is «сул үг»"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Replaced non-standard «сөөлт» with «сул үг»; removed «сураг ярианаар», which means 'by rumor'"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "'deadline ends' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "«сураг ярианаар» means 'according to rumor', not 'reportedly'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "The old alternative dropped 'however'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "«Мэдээгээр харахад» means 'judging by the news', which is not 'apparently'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "«хамт» and «бага» could also fit the blank"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'Apparently' was also a correct answer"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Matches 'mayor' in the English; more natural phrasing"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "Matches 'will be ready'; оройн нэвтрүүлэг is the correct form"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "MNB is a public service broadcaster, not a state outlet"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Fixed spelling редакц→редакци, the description of MNB, and the case of мэдээлэл"
+   }
+  ]
+ }
+}

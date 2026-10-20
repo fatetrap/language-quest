@@ -1,0 +1,404 @@
+{
+ "intro_en": "You will learn to point at several things with 'these' and 'those' (эдгээр and тэдгээр) and to compare prices with cheap and expensive.",
+ "intro_mn": "Та олон зүйлийг \"these\", \"those\" (эдгээр, тэдгээр) гэж заах, мөн хямд, үнэтэй гэж үнийг харьцуулах талаар сурна.",
+ "vocab": [
+  {
+   "mn": "эдгээр",
+   "en": "these",
+   "pos": "demonstrative",
+   "example_mn": "Эдгээр алим хямд.",
+   "example_en": "These apples are cheap.",
+   "mn_latin": "edgeer"
+  },
+  {
+   "mn": "тэдгээр",
+   "en": "those",
+   "pos": "demonstrative",
+   "example_mn": "Тэдгээр цамц үнэтэй.",
+   "example_en": "Those shirts are expensive.",
+   "mn_latin": "tedgeer"
+  },
+  {
+   "mn": "хямд",
+   "en": "cheap",
+   "pos": "adjective",
+   "example_mn": "Энэ талх хямд.",
+   "example_en": "This bread is cheap.",
+   "mn_latin": "khyamd"
+  },
+  {
+   "mn": "үнэтэй",
+   "en": "expensive",
+   "pos": "adjective",
+   "example_mn": "Энэ гутал үнэтэй.",
+   "example_en": "This pair of shoes is expensive.",
+   "mn_latin": "ünetei"
+  },
+  {
+   "mn": "алим",
+   "en": "apple",
+   "pos": "noun",
+   "example_mn": "Би алим авна.",
+   "example_en": "I will buy apples.",
+   "mn_latin": "alim"
+  },
+  {
+   "mn": "гутал",
+   "en": "shoe; shoes",
+   "pos": "noun",
+   "example_mn": "Тэдгээр гутал шинэ.",
+   "example_en": "Those shoes are new.",
+   "mn_latin": "gutal"
+  },
+  {
+   "mn": "цамц",
+   "en": "shirt",
+   "pos": "noun",
+   "example_mn": "Эдгээр цамц хямд.",
+   "example_en": "These shirts are cheap.",
+   "mn_latin": "tsamts"
+  },
+  {
+   "mn": "лангуу",
+   "en": "counter; stall",
+   "pos": "noun",
+   "example_mn": "Алим лангуун дээр байна.",
+   "example_en": "The apples are on the counter.",
+   "mn_latin": "languu"
+  },
+  {
+   "mn": "харьцуулах",
+   "en": "to compare",
+   "pos": "verb",
+   "example_mn": "Би үнийг харьцуулна.",
+   "example_en": "I compare the prices.",
+   "mn_latin": "kharitsuulakh"
+  },
+  {
+   "mn": "бусад",
+   "en": "others",
+   "pos": "noun",
+   "example_mn": "Бусад нь үнэтэй.",
+   "example_en": "The others are expensive.",
+   "mn_latin": "busad"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эдгээр алим хямд.",
+   "en": "These apples are cheap.",
+   "alt_mn": [
+    "Эдгээр алим хямд байна."
+   ],
+   "alt_en": [],
+   "mn_latin": "Edgeer alim khyamd."
+  },
+  {
+   "mn": "Тэдгээр алим үнэтэй.",
+   "en": "Those apples are expensive.",
+   "alt_mn": [
+    "Тэдгээр алим үнэтэй байна."
+   ],
+   "alt_en": [],
+   "mn_latin": "Tedgeer alim ünetei."
+  },
+  {
+   "mn": "Эдгээр гутал үнэтэй.",
+   "en": "These shoes are expensive.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Edgeer gutal ünetei."
+  },
+  {
+   "mn": "Тэдгээр цамц хямд.",
+   "en": "Those shirts are cheap.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Tedgeer tsamts khyamd."
+  },
+  {
+   "mn": "Энэ алим хямд, харин тэдгээр үнэтэй.",
+   "en": "This apple is cheap, but those are expensive.",
+   "alt_mn": [
+    "Энэ алим хямд, харин тэдгээр нь үнэтэй."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ene alim khyamd, kharin tedgeer ünetei."
+  },
+  {
+   "mn": "Эдгээр хэд вэ?",
+   "en": "How much are these?",
+   "alt_mn": [
+    "Эдгээр хэдэн төгрөг вэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Edgeer khed ve?"
+  },
+  {
+   "mn": "Тэдгээр хэд вэ?",
+   "en": "How much are those?",
+   "alt_mn": [
+    "Тэдгээр хэдэн төгрөг вэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Tedgeer khed ve?"
+  },
+  {
+   "mn": "Эдгээр цамц надад таалагдаж байна.",
+   "en": "I like these shirts.",
+   "alt_mn": [
+    "Эдгээр цамц надад таалагдана."
+   ],
+   "alt_en": [],
+   "mn_latin": "Edgeer tsamts nadad taalagdaj baina."
+  },
+  {
+   "mn": "Тэдгээр гутал хямд биш.",
+   "en": "Those shoes are not cheap.",
+   "alt_mn": [],
+   "alt_en": [
+    "Those shoes aren't cheap."
+   ],
+   "mn_latin": "Tedgeer gutal khyamd bish."
+  },
+  {
+   "mn": "Эдгээр хямд уу?",
+   "en": "Are these cheap?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Edgeer khyamd uu?"
+  },
+  {
+   "mn": "Тийм, эдгээр маш хямд.",
+   "en": "Yes, these are very cheap.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Tiim, edgeer mash khyamd."
+  },
+  {
+   "mn": "Би эдгээр алимыг авна.",
+   "en": "I will take these apples.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'll take these apples."
+   ],
+   "mn_latin": "Bi edgeer alimyg avna."
+  }
+ ],
+ "grammar": {
+  "title_en": "This/that vs. these/those",
+  "title_mn": "Энэ/тэр ба эдгээр/тэдгээр",
+  "explain_en": "In Mongolian, энэ means 'this' and тэр means 'that'. For several things, use эдгээр ('these') and тэдгээр ('those'). Use this/these for things near you and that/those for things farther away. Good news: the noun usually does NOT change after them: эдгээр алим means 'these apples', with no plural ending needed. Adjectives and the verb stay simple too: Эдгээр алим хямд. In English, the noun changes: this apple → these apples, that shirt → those shirts, and 'is' becomes 'are'.",
+  "explain_mn": "Монгол хэлэнд энэ, тэр нь нэгийг, эдгээр, тэдгээр нь олныг заана. Англи хэлэнд this/that нь нэгийг, these/those нь олныг заана. Монголоор \"эдгээр алим\" гэхэд алим гэдэг үг өөрчлөгддөггүй ч англиар нэр үг олон тоонд орно: this apple → these apples, that shirt → those shirts. Мөн is нь are болно: These apples are cheap. Ойрхыг this/these, холыг that/those гэж ялгана.",
+  "examples": [
+   {
+    "mn": "Энэ алим хямд.",
+    "en": "This apple is cheap.",
+    "mn_latin": "Ene alim khyamd."
+   },
+   {
+    "mn": "Эдгээр алим хямд.",
+    "en": "These apples are cheap.",
+    "mn_latin": "Edgeer alim khyamd."
+   },
+   {
+    "mn": "Тэр цамц үнэтэй.",
+    "en": "That shirt is expensive.",
+    "mn_latin": "Ter tsamts ünetei."
+   },
+   {
+    "mn": "Тэдгээр цамц үнэтэй.",
+    "en": "Those shirts are expensive.",
+    "mn_latin": "Tedgeer tsamts ünetei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "___ алим хямд. (these)",
+   "answer": "Эдгээр",
+   "options": [
+    "Эдгээр",
+    "Энэ",
+    "Тэр",
+    "Тэдгээр"
+   ],
+   "translation": "These apples are cheap.",
+   "explain_en": "Эдгээр means 'these' and is used with several near items.",
+   "explain_mn": "Ойрхон байгаа олон зүйлийг заахад эдгээр гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "___ гутал үнэтэй. (those)",
+   "answer": "Тэдгээр",
+   "options": [
+    "Тэдгээр",
+    "Эдгээр",
+    "Энэ",
+    "Тэр"
+   ],
+   "translation": "Those shoes are expensive.",
+   "explain_en": "Тэдгээр means 'those': several items farther away.",
+   "explain_mn": "Холхон байгаа олон зүйлийг заахад тэдгээр гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Эдгээр цамц ___. (cheap)",
+   "answer": "хямд",
+   "options": [
+    "хямд",
+    "үнэтэй",
+    "алим",
+    "гутал"
+   ],
+   "translation": "These shirts are cheap.",
+   "explain_en": "Хямд means 'cheap' and fits after the noun as a description.",
+   "explain_mn": "Хямд гэдэг нь тодорхойлогч үг бөгөөд өгүүлбэрийн төгсгөлд ордог."
+  },
+  {
+   "lang": "en",
+   "text": "___ apples are cheap. (эдгээр)",
+   "answer": "These",
+   "options": [
+    "These",
+    "This",
+    "That",
+    "Those"
+   ],
+   "translation": "Эдгээр алим хямд.",
+   "explain_en": "'Apples' is plural and near, so use 'these'.",
+   "explain_mn": "Apples нь олон тоо бөгөөд ойрхон тул these гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Those shirts ___ expensive.",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "translation": "Тэдгээр цамц үнэтэй.",
+   "explain_en": "Plural 'shirts' needs 'are', not 'is'.",
+   "explain_mn": "Shirts олон тоо тул is биш are хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ shoe is new, but those shoes are old.",
+   "answer": "This",
+   "options": [
+    "This",
+    "These",
+    "Those",
+    "They"
+   ],
+   "translation": "Энэ гутал шинэ, харин тэдгээр гутал хуучин.",
+   "explain_en": "'Shoe' is singular and near, so use 'this'.",
+   "explain_mn": "Shoe нэг тоотой, ойрхон тул this гэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Сайн байна уу? Эдгээр алим хэд вэ?",
+   "en": "Hello! How much are these apples?",
+   "mn_latin": "Sain baina uu? Edgeer alim khed ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу! Эдгээр хямд, нэг кг нь гурван мянган төгрөг.",
+   "en": "Hello! These are cheap, three thousand tugriks a kilo.",
+   "mn_latin": "Sain baina uu! Edgeer khyamd, neg kg ni gurvan myangan tögrög."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэдгээр алим хэд вэ?",
+   "en": "How much are those apples?",
+   "mn_latin": "Tedgeer alim khed ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэдгээр илүү үнэтэй, таван мянган төгрөг.",
+   "en": "Those are more expensive, five thousand tugriks.",
+   "mn_latin": "Tedgeer ilüü ünetei, tavan myangan tögrög."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Яагаад тэдгээр нь үнэтэй вэ?",
+   "en": "Why are those expensive?",
+   "mn_latin": "Yaagaad tedgeer ni ünetei ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэдгээр том, амттай.",
+   "en": "Those are big and tasty.",
+   "mn_latin": "Tedgeer tom, amttai."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "За, би эдгээр хямд алимыг авна.",
+   "en": "OK, I'll take these cheap apples.",
+   "mn_latin": "Za, bi edgeer khyamd alimyg avna."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Баярлалаа!",
+   "en": "Thank you!",
+   "mn_latin": "Bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, people often shop at open markets like the Narantuul market and at stalls, where prices can differ from table to table. It is normal to compare prices before you buy, and sometimes people bargain a little, especially for clothes. Before Tsagaan Sar, markets are very busy with people buying meat, flour, and sweets.",
+  "mn": "Улаанбаатарт хүмүүс Нарантуул зах зэрэг задгай зах, лангуугаар дэлгүүр хийдэг бөгөөд үнэ лангуу бүрт өөр байж болно. Худалдан авахаасаа өмнө үнийг харьцуулах нь хэвийн, заримдаа, ялангуяа хувцас авахдаа бага зэрэг үнэ тохирдог. Цагаан сарын өмнө зах мах, гурил, чихэр авах хүмүүсээр дүүрэн байдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 13,
+  "notes": "Mostly good. Main issues are number mismatches in some pairs, alt answers that change the meaning, and a few weak distractors."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Fixed a wrong question-particle alternative, the meaning of лангуу, two ambiguous blanks, and aligned the grammar explanations.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "After a consonant (хямд) the question particle is уу/үү. 'юу' is only used after vowels, so 'хямд юу' is wrong."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "en",
+    "why": "Лангуу is a market or shop counter or stall. A shelf is тавиур."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_en",
+    "why": "Matches the corrected meaning of лангуу."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "Without a hint, үнэтэй is also correct, so the answer was not the only correct option."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "text",
+    "why": "Without a hint, 'Those' is also correct, so the answer was not the only correct option."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The mn version explains near vs. far, but the en version did not. Now both say the same thing."
+   }
+  ]
+ }
+}

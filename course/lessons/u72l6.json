@@ -1,0 +1,456 @@
+{
+ "intro_en": "You will learn to give a short presentation and take part in a panel discussion about the future of Ulaanbaatar. You will also practice building persuasive, balanced conclusions with -х нь and -сан нь in Mongolian and with whatever/however/no matter in English.",
+ "intro_mn": "Та Улаанбаатарын ирээдүйн талаар богино илтгэл тавих, дугуй ширээний хэлэлцүүлэгт оролцох чадвараа сайжруулна. Мөн монгол хэлний -х нь, -сан нь бүтэц болон англи хэлний whatever/however/no matter бүтцээр үнэмшилтэй, тэнцвэртэй дүгнэлт хийж сурна.",
+ "vocab": [
+  {
+   "mn": "тогтвортой хөгжил",
+   "en": "sustainability / sustainable development",
+   "pos": "noun phrase",
+   "example_mn": "Тогтвортой хөгжил бол хотын гол зорилт байх ёстой.",
+   "example_en": "Sustainable development must be the city's main goal.",
+   "mn_latin": "togtvortoi khögjil"
+  },
+  {
+   "mn": "ухаалаг хот",
+   "en": "smart city",
+   "pos": "noun phrase",
+   "example_mn": "Ухаалаг хот хүмүүсийн цагийг хэмнэдэг.",
+   "example_en": "A smart city saves people's time.",
+   "mn_latin": "ukhaalag khot"
+  },
+  {
+   "mn": "нийтийн тээвэр",
+   "en": "public transport",
+   "pos": "noun phrase",
+   "example_mn": "Нийтийн тээвэр найдвартай байвал түгжрэл багасна.",
+   "example_en": "If public transport is reliable, congestion will decrease.",
+   "mn_latin": "niitiin teever"
+  },
+  {
+   "mn": "ногоон эрчим хүч",
+   "en": "green energy",
+   "pos": "noun phrase",
+   "example_mn": "Бид ногоон эрчим хүчинд илүү их хөрөнгө оруулах хэрэгтэй.",
+   "example_en": "We need to invest more in green energy.",
+   "mn_latin": "nogoon erchim khüch"
+  },
+  {
+   "mn": "урт хугацааны алсын хараа",
+   "en": "long-term vision",
+   "pos": "noun phrase",
+   "example_mn": "Хотод урт хугацааны алсын хараа дутагдаж байна.",
+   "example_en": "The city lacks a long-term vision.",
+   "mn_latin": "urt khugatsaany alsyn kharaa"
+  },
+  {
+   "mn": "оролцогч талууд",
+   "en": "stakeholders",
+   "pos": "noun phrase",
+   "example_mn": "Бүх оролцогч талуудын саналыг сонсох шаардлагатай.",
+   "example_en": "It is necessary to hear the views of all stakeholders.",
+   "mn_latin": "oroltsogch taluud"
+  },
+  {
+   "mn": "хэрэгжүүлэх",
+   "en": "to implement",
+   "pos": "verb",
+   "example_mn": "Төлөвлөгөөг хугацаанд нь хэрэгжүүлэх нь амаргүй.",
+   "example_en": "Implementing the plan on schedule is not easy.",
+   "mn_latin": "kheregjüülekh"
+  },
+  {
+   "mn": "агаарын бохирдол",
+   "en": "air pollution",
+   "pos": "noun phrase",
+   "example_mn": "Өвлийн агаарын бохирдол хамгийн том асуудал хэвээр байна.",
+   "example_en": "Winter air pollution remains the biggest problem.",
+   "mn_latin": "agaaryn bokhirdol"
+  },
+  {
+   "mn": "хөрөнгө оруулалт",
+   "en": "investment",
+   "pos": "noun",
+   "example_mn": "Төсөл хөрөнгө оруулалт шаардана.",
+   "example_en": "The project requires investment.",
+   "mn_latin": "khöröngö oruulalt"
+  },
+  {
+   "mn": "нэгдсэн төлөвлөлт",
+   "en": "integrated planning",
+   "pos": "noun phrase",
+   "example_mn": "Нэгдсэн төлөвлөлтгүйгээр хот эмх замбараагүй тэлнэ.",
+   "example_en": "Without integrated planning, the city will expand chaotically.",
+   "mn_latin": "negdsen tölövlölt"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "2050 онд Улаанбаатар хэрхэн өөрчлөгдөх вэ?",
+   "en": "How will Ulaanbaatar change by 2050?",
+   "alt_mn": [
+    "2050 он гэхэд Улаанбаатар хэрхэн өөрчлөгдөх вэ?"
+   ],
+   "alt_en": [
+    "How will Ulaanbaatar have changed by 2050?"
+   ],
+   "mn_latin": "2050 ond Ulaanbaatar kherkhen öörchlögdökh ve?"
+  },
+  {
+   "mn": "Хэн ч юу ч гэсэн, өөрчлөлт хийх нь хойшлуулах аргагүй асуудал болсон.",
+   "en": "Whatever anyone says, making a change has become an issue that can no longer be put off.",
+   "alt_mn": [],
+   "alt_en": [
+    "No matter what anyone says, making changes can no longer be postponed."
+   ],
+   "mn_latin": "Khen ch yuu ch gesen, öörchlölt khiikh ni khoishluulakh argagüi asuudal bolson."
+  },
+  {
+   "mn": "Нийтийн тээврийг сайжруулах нь түгжрэлийг бууруулах хамгийн бодит арга юм.",
+   "en": "Improving public transport is the most realistic way to reduce congestion.",
+   "alt_mn": [],
+   "alt_en": [
+    "Improving public transport is the most realistic way of cutting congestion."
+   ],
+   "mn_latin": "Niitiin teevriig saijruulakh ni tügjreliig buuruulakh khamgiin bodit arga yum."
+  },
+  {
+   "mn": "Өнгөрсөнд гаргасан шийдвэрүүд өнөөдөр бидэнд сургамж болж байна.",
+   "en": "The decisions made in the past are teaching us lessons today.",
+   "alt_mn": [],
+   "alt_en": [
+    "Decisions we made in the past serve as lessons for us today."
+   ],
+   "mn_latin": "Öngörsönd gargasan shiidverüüd önöödör bidend surgamj bolj baina."
+  },
+  {
+   "mn": "Төсөв хэдий хязгаарлагдмал байсан ч ногоон эрчим хүчийг хөгжүүлэх нь зөв сонголт.",
+   "en": "However limited the budget is, developing green energy is the right choice.",
+   "alt_mn": [],
+   "alt_en": [
+    "No matter how limited the budget is, developing green energy is the right choice."
+   ],
+   "mn_latin": "Tösöv khedii khyazgaarlagdmal baisan ch nogoon erchim khüchiig khögjüülekh ni zöv songolt."
+  },
+  {
+   "mn": "Оролцогч талууд санал нэгдсэн нь төслийг урагшлуулсан.",
+   "en": "The fact that the stakeholders reached agreement moved the project forward.",
+   "alt_mn": [],
+   "alt_en": [
+    "The stakeholders' agreement pushed the project forward."
+   ],
+   "mn_latin": "Oroltsogch taluud sanal negdsen ni tösliig uragshluulsan."
+  },
+  {
+   "mn": "Ухаалаг хот бий болгох нь технологи төдийгүй хүмүүсийн зан үйлийг өөрчлөх явдал юм.",
+   "en": "Creating a smart city is not only about technology but also about changing people's behavior.",
+   "alt_mn": [],
+   "alt_en": [
+    "Building a smart city means changing people's behavior, not just adopting technology."
+   ],
+   "mn_latin": "Ukhaalag khot bii bolgokh ni tyekhnologi tödiigüi khümüüsiin zan üiliig öörchlökh yavdal yum."
+  },
+  {
+   "mn": "Ямар төлөвлөгөө гаргасан ч урт хугацааны алсын хараагүй бол амжилтгүй болно.",
+   "en": "Whatever plan we draw up, it will fail without a long-term vision.",
+   "alt_mn": [],
+   "alt_en": [
+    "No matter what plan we make, it will fail without a long-term vision."
+   ],
+   "mn_latin": "Yamar tölövlögöö gargasan ch urt khugatsaany alsyn kharaagüi bol amjiltgüi bolno."
+  },
+  {
+   "mn": "Гэр хорооллыг шинэчилсэн нь зарим айлд ашигтай байсан ч бүгдэд тийм байгаагүй.",
+   "en": "Redeveloping the ger districts benefited some families, but not all of them.",
+   "alt_mn": [],
+   "alt_en": [
+    "The redevelopment of the ger districts was good for some families, but not for everyone."
+   ],
+   "mn_latin": "Ger khoroollyg shinechilsen ni zarim aild ashigtai baisan ch bügded tiim baigaagüi."
+  },
+  {
+   "mn": "Хэчнээн хэцүү байсан ч агаарын бохирдлыг бууруулах нь бидний үүрэг.",
+   "en": "However hard it is, reducing air pollution is our responsibility.",
+   "alt_mn": [],
+   "alt_en": [
+    "No matter how difficult it is, it is our duty to reduce air pollution."
+   ],
+   "mn_latin": "Khechneen khetsüü baisan ch agaaryn bokhirdlyg buuruulakh ni bidnii üüreg."
+  },
+  {
+   "mn": "Тогтвортой хөгжил гэдэг нь одоогийн хэрэгцээ болон ирээдүйн үеийн эрх ашгийг тэнцүүлэх явдал.",
+   "en": "Sustainability means balancing present needs with the interests of future generations.",
+   "alt_mn": [],
+   "alt_en": [
+    "Sustainable development is about balancing today's needs and the interests of future generations."
+   ],
+   "mn_latin": "Togtvortoi khögjil gedeg ni odoogiin kheregtsee bolon ireedüin üyeiin erkh ashgiig tentsüülekh yavdal."
+  },
+  {
+   "mn": "Дүгнэж хэлэхэд, хэзээ эхэлсэн нь биш, яаж тууштай үргэлжлүүлсэн нь чухал.",
+   "en": "In conclusion, what matters is not when we started but how consistently we kept going.",
+   "alt_mn": [],
+   "alt_en": [
+    "To sum up, it matters not when we began but how steadily we continued."
+   ],
+   "mn_latin": "Dügnej khelekhed, khezee ekhelsen ni bish, yaaj tuushtai ürgeljlüülsen ni chukhal."
+  }
+ ],
+ "grammar": {
+  "title_en": "Arguments and summaries with -х нь / -сан нь and whatever/however/no matter",
+  "title_mn": "Аргумент, дүгнэлтэд -х нь, -сан нь, whatever/however/no matter бүтэц",
+  "explain_en": "In Mongolian, add -х (or -ах/-эх/-ох/-өх) plus нь to a verb to turn an action into a subject: 'Өөрчлөлт хийх нь...' = 'Making a change...' (a general, needed or future action). Use -сан/-сэн/-сон/-сөн plus нь for something already done: 'Шийдвэр гаргасан нь...' = 'The fact that a decision was made...'. In English, whatever, however and no matter what/how mean 'regardless of the situation'. They show that the conclusion does not change. Use Whatever + clause: 'Whatever you say, I will go.' Use However + adjective: 'However difficult it is, we must try.' Use No matter + who/what/how + clause: 'No matter how long it takes, we will finish.' The main clause must be complete, and a comma separates it from the first part.",
+  "explain_mn": "Монгол хэлэнд үйл үгийн үндэс дээр -х нь нэмбэл ерөнхий, хийх ёстой эсвэл ирээдүйн үйлдлийг, -сан нь нэмбэл аль хэдийн хийгдсэн үйлдлийг нэр үг шиг өгүүлэгдэхүүн болгоно: “Өөрчлөлт хийх нь...” = Making a change..., “Шийдвэр гаргасан нь...” = The fact that a decision was made... Англи хэлэнд whatever, however, no matter what/how нь “ямар ч байсан” гэсэн утгатай. Эдгээр нь нөхцөл байдал юу ч байсан дүгнэлт өөрчлөгдөхгүй гэдгийг илтгэнэ. Whatever + өгүүлбэр: “Whatever you say, I will go.” However + тэмдэг нэр: “However difficult it is, we must try.” No matter + who/what/how + өгүүлбэр: “No matter how long it takes, we will finish.” Үндсэн өгүүлбэр нь бүрэн байх ба өмнөх хэсгийг таслалаар тусгаарлана.",
+  "examples": [
+   {
+    "mn": "Хэн ч юу ч гэсэн, өөрчлөлт хийх нь зайлшгүй.",
+    "en": "Whatever anyone says, making a change is essential.",
+    "mn_latin": "Khen ch yuu ch gesen, öörchlölt khiikh ni zailshgüi."
+   },
+   {
+    "mn": "Хэчнээн хэцүү байсан ч нийтийн тээврийг сайжруулах нь чухал.",
+    "en": "However hard it is, improving public transport matters.",
+    "mn_latin": "Khechneen khetsüü baisan ch niitiin teevriig saijruulakh ni chukhal."
+   },
+   {
+    "mn": "Төлөвлөгөө боловсруулсан нь биш, хэрэгжүүлсэн нь амжилт.",
+    "en": "Success lies not in drawing up the plan but in implementing it.",
+    "mn_latin": "Tölövlögöö bolovsruulsan ni bish, kheregjüülsen ni amjilt."
+   },
+   {
+    "mn": "Хэзээ эхэлсэн нь биш, яаж үргэлжлүүлсэн нь чухал.",
+    "en": "It matters not when we started but how we continued.",
+    "mn_latin": "Khezee ekhelsen ni bish, yaaj ürgeljlüülsen ni chukhal."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нийтийн тээврийг сайжруул___ нь түгжрэлийг багасгана.",
+   "answer": "ах",
+   "options": [
+    "ах",
+    "ж",
+    "аад",
+    "вал"
+   ],
+   "translation": "Improving public transport will reduce congestion.",
+   "explain_en": "For a general or needed action as subject, use the -х form plus нь: сайжруулах нь.",
+   "explain_mn": "Ерөнхий, хийх ёстой үйлдлийг өгүүлэгдэхүүн болгоход -х нөхцөл хэрэглэнэ: сайжруулах нь."
+  },
+  {
+   "lang": "mn",
+   "text": "Хот төлөвлөлтийг хойш тавьсан ___ өнөөдрийн асуудлын шалтгаан болсон.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "ыг",
+    "аас",
+    "тай"
+   ],
+   "translation": "The fact that city planning was put off is the cause of today's problems.",
+   "explain_en": "-сан plus нь nominalizes a completed action ('the fact that it was postponed') and acts as the subject.",
+   "explain_mn": "-сан нь нөхцөл дууссан үйлдлийг нэр үг шиг болгож, өгүүлэгдэхүүн болгоно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хэн ч юу ч ___, өөрчлөлт хийх нь зайлшгүй.",
+   "answer": "гэсэн",
+   "options": [
+    "гэсэн",
+    "гэх",
+    "гээд",
+    "гэвэл"
+   ],
+   "translation": "Whatever anyone says, making a change is essential.",
+   "explain_en": "'Хэн ч юу ч гэсэн' is a fixed concessive phrase meaning 'whatever anyone says'.",
+   "explain_mn": "'Хэн ч юу ч гэсэн' нь “хэн ч юу ч хэлсэн” гэсэн утгатай тогтсон хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "___ difficult it is, we must protect the air.",
+   "answer": "However",
+   "options": [
+    "However",
+    "Whatever",
+    "Whoever",
+    "Whenever"
+   ],
+   "translation": "Хичнээн хэцүү байсан ч бид агаараа хамгаалах ёстой.",
+   "explain_en": "However + adjective means 'to whatever degree'. Whatever cannot directly precede an adjective like this.",
+   "explain_mn": "However + тэмдэг нэр нь “ямар ч түвшинд” гэсэн утга өгнө. Whatever тэмдэг нэрийн өмнө ингэж орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "No matter ___ the stakeholders propose, the plan needs a long-term vision.",
+   "answer": "what",
+   "options": [
+    "what",
+    "which of",
+    "how",
+    "whose"
+   ],
+   "translation": "Оролцогч талууд юу санал болгосон ч төлөвлөгөөнд урт хугацааны алсын хараа хэрэгтэй.",
+   "explain_en": "'No matter what' introduces an object: what they propose. 'How' would need an adjective or adverb.",
+   "explain_mn": "'No matter what' нь “юу” гэсэн объектыг илэрхийлнэ. 'How' нь тэмдэг нэр эсвэл дайвар үгийн өмнө ордог."
+  },
+  {
+   "lang": "en",
+   "text": "___ you start, consistent investment is what makes a city sustainable.",
+   "answer": "Whenever",
+   "options": [
+    "Whenever",
+    "Whoever",
+    "Whose",
+    "What"
+   ],
+   "translation": "Хэзээ эхэлсэн ч тууштай хөрөнгө оруулалт хотыг тогтвортой болгодог.",
+   "explain_en": "Whenever means 'at whatever time', which fits 'you start'. The other words do not fit grammatically here.",
+   "explain_mn": "Whenever нь “ямар ч цагт” гэсэн утгатай тул 'you start'-тай таардаг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Narantsetseg",
+   "mn": "Өнөөдрийн сэдэв: 2050 онд Улаанбаатар ямар байх вэ? Эрдэнэ ээ, эхлээд та илтгэлээ тавина уу.",
+   "en": "Today's topic: what will Ulaanbaatar be like in 2050? Erdene, would you give your presentation first?",
+   "mn_latin": "Önöödriin sedev: 2050 ond Ulaanbaatar yamar baikh ve? Erdene ee, ekhleed ta iltgelee tavina uu."
+  },
+  {
+   "speaker": "Erdene",
+   "mn": "Баярлалаа. Миний санал энгийн: нийтийн тээвэр, ногоон эрчим хүч, ухаалаг системийг нэгтгэсэн урт хугацааны алсын хараа хэрэгтэй.",
+   "en": "Thank you. My proposal is simple: we need a long-term vision that combines public transport, green energy, and smart systems.",
+   "mn_latin": "Bayarlalaa. Minii sanal engiin: niitiin teever, nogoon erchim khüch, ukhaalag sistyemiig negtgesen urt khugatsaany alsyn kharaa kheregtei."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Сонирхолтой. Гэхдээ хөрөнгө оруулалт хаанаас гарах вэ? Хичнээн сайн санаа байсан ч мөнгөгүй бол хэрэгжихгүй.",
+   "en": "Interesting. But where will the investment come from? However good an idea is, it won't happen without money.",
+   "mn_latin": "Sonirkholtoi. Gekhdee khöröngö oruulalt khaanaas garakh ve? Khichneen sain sanaa baisan ch möngögüi bol kheregjikhgüi."
+  },
+  {
+   "speaker": "Erdene",
+   "mn": "Үнэн. Гэхдээ төсөв хэдий хязгаарлагдмал байсан ч эрт эхлэх нь дараа нь илүү их зардал гаргахаас хямд.",
+   "en": "True. But however limited the budget is, starting early costs less than paying more later.",
+   "mn_latin": "Ünen. Gekhdee tösöv khedii khyazgaarlagdmal baisan ch ert ekhlekh ni daraa ni ilüü ikh zardal gargakhaas khyamd."
+  },
+  {
+   "speaker": "Solongo",
+   "mn": "Өмнөх төслүүдэд оролцогч талуудыг оролцуулах нь дутагдаж байсан. Гэр хорооллын оршин суугчид шийдвэрт оролцох ёстой.",
+   "en": "Involving the stakeholders is what earlier projects lacked. Ger district residents must take part in decisions.",
+   "mn_latin": "Ömnökh töslüüded oroltsogch taluudyg oroltsuulakh ni dutagdaj baisan. Ger khoroollyn orshin suugchid shiidvert oroltsokh yostoi."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Би санал нэг байна. Хэн ч юу ч гэсэн, хүмүүсийн итгэлийг авах нь технологиос илүү чухал.",
+   "en": "I agree. Whatever anyone says, winning people's trust matters more than technology.",
+   "mn_latin": "Bi sanal neg baina. Khen ch yuu ch gesen, khümüüsiin itgeliig avakh ni tyekhnologios ilüü chukhal."
+  },
+  {
+   "speaker": "Narantsetseg",
+   "mn": "Сайхан дүгнэлт. Хэзээ эхэлсэн нь биш, яаж тууштай үргэлжлүүлсэн нь чухал юм.",
+   "en": "A fine conclusion. What matters is not when we started but how consistently we continued.",
+   "mn_latin": "Saikhan dügnelt. Khezee ekhelsen ni bish, yaaj tuushtai ürgeljlüülsen ni chukhal yum."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar holds nearly half of Mongolia's population, and debates about its future often focus on winter air pollution, traffic, and the ger districts. Public forums and panels typically bring together city officials, engineers, residents, and young professionals, so speakers are expected to acknowledge several viewpoints. Mongolia's long-term policy documents, such as Vision 2050, shape the language of these discussions.",
+  "mn": "Улаанбаатарт Монгол Улсын хүн амын бараг тал хувь нь амьдардаг тул хотын ирээдүйн тухай яриа ихэвчлэн өвлийн агаарын бохирдол, түгжрэл, гэр хорооллын асуудал дээр төвлөрдөг. Нийтийн хэлэлцүүлэг, дугуй ширээнд хотын удирдлага, инженер, оршин суугчид, залуу мэргэжилтнүүд оролцдог тул илтгэгч хэд хэдэн байр сууриг хүндэтгэн авч үзэх ёстой. “Алсын хараа-2050” зэрэг урт хугацааны бодлогын баримт бичиг ийм яриаг чиглүүлдэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 9,
+  "notes": "Mostly good content; the Mongolian grammar explanation was mis-targeted and a few English translations/phrasings needed polish."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Main issues: mismatched grammar explanations, ambiguous blanks, and a few unnatural Mongolian phrasings.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "en",
+    "why": "хойшлуулах аргагүй = cannot be postponed, not 'unavoidable'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "match title_mn, which covers both structures"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations described different things"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "aligned with explain_en"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "unnatural word order and 'зурсан'"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "en",
+    "why": "unnatural English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "сайжруулсан нь is also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "-сан is no longer among the options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "missing ч, incomplete wording"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_mn",
+    "why": "wrong grammar terms"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'However you start' is also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_en",
+    "why": "matches the new options"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "proper vocative and polite request"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "-сан нь + дутагдаж illogical"
+   }
+  ]
+ }
+}

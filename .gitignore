@@ -1,0 +1,14 @@
+# Secrets
+keys.txt
+.env
+
+# Generated (rebuild with: python build_db.py)
+course/db/content.json
+
+# Tools and caches
+.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+work/
+*.tmp

@@ -1,0 +1,400 @@
+{
+ "intro_en": "Learn how to call a relative, a tow service, or 105 when your car breaks down, and how to describe where you are using landmarks and kilometer markers. You will also practice giving step-by-step instructions and asking how long help will take.",
+ "intro_mn": "Машин эвдэрсэн үед хамаатан садан, чирэгч машин эсвэл 105 руу залгаж, байршлаа тодорхой газар болон километрийн тэмдгээр тайлбарлаж сурна. Мөн алхам алхмаар заавар өгөх, тусламж хэр удаж ирэхийг асуухыг давтана.",
+ "vocab": [
+  {
+   "mn": "чирэгч машин",
+   "en": "tow truck",
+   "pos": "noun",
+   "example_mn": "Чирэгч машин нэг цагийн дараа ирнэ.",
+   "example_en": "The tow truck will arrive in an hour.",
+   "mn_latin": "chiregch mashin"
+  },
+  {
+   "mn": "авто засвар",
+   "en": "auto repair shop",
+   "pos": "noun",
+   "example_mn": "Хамгийн ойрын авто засвар сумын төвд байдаг.",
+   "example_en": "The nearest auto repair shop is in the soum center.",
+   "mn_latin": "avto zasvar"
+  },
+  {
+   "mn": "байршил",
+   "en": "location",
+   "pos": "noun",
+   "example_mn": "Байршлаа надад илгээгээрэй.",
+   "example_en": "Please send me your location.",
+   "mn_latin": "bairshil"
+  },
+  {
+   "mn": "замын хажуу",
+   "en": "roadside, side of the road",
+   "pos": "noun",
+   "example_mn": "Бид замын хажууд зогсож байна.",
+   "example_en": "We're stopped on the side of the road.",
+   "mn_latin": "zamyn khajuu"
+  },
+  {
+   "mn": "километрийн тэмдэг",
+   "en": "kilometer marker",
+   "pos": "noun",
+   "example_mn": "Километрийн тэмдэг дээр 120 гэж бичсэн байна.",
+   "example_en": "The kilometer marker says 120.",
+   "mn_latin": "kilomyetriin temdeg"
+  },
+  {
+   "mn": "овоо",
+   "en": "ovoo (sacred stone cairn)",
+   "pos": "noun",
+   "example_mn": "Замын баруун талд том овоо байна.",
+   "example_en": "There's a big ovoo on the right side of the road.",
+   "mn_latin": "ovoo"
+  },
+  {
+   "mn": "эхлээд",
+   "en": "first",
+   "pos": "adverb",
+   "example_mn": "Эхлээд аваарын гэрлээ асаа.",
+   "example_en": "First, turn on your hazard lights.",
+   "mn_latin": "ekhleed"
+  },
+  {
+   "mn": "дараа нь",
+   "en": "then, after that",
+   "pos": "adverb",
+   "example_mn": "Дараа нь 105 руу залга.",
+   "example_en": "Then call 105.",
+   "mn_latin": "daraa ni"
+  },
+  {
+   "mn": "эцэст нь",
+   "en": "finally, in the end",
+   "pos": "adverb",
+   "example_mn": "Эцэст нь чирэгч машин ирлээ.",
+   "example_en": "Finally, the tow truck came.",
+   "mn_latin": "etsest ni"
+  },
+  {
+   "mn": "хүрэх",
+   "en": "to reach, to get to",
+   "pos": "verb",
+   "example_mn": "Дарханд хүрэхэд хоёр цаг болно.",
+   "example_en": "It will take two hours to get to Darkhan.",
+   "mn_latin": "khürekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид Улаанбаатар–Дарханы замын 85-р километрийн тэмдгийн хажууд байна.",
+   "en": "We're next to the 85-kilometer marker on the Ulaanbaatar–Darkhan road.",
+   "alt_mn": [
+    "Бид Улаанбаатар–Дарханы замын 85-р километрт байна."
+   ],
+   "alt_en": [
+    "We're by kilometer marker 85 on the Ulaanbaatar–Darkhan road."
+   ],
+   "mn_latin": "Bid Ulaanbaatar–Darkhany zamyn 85-r kilomyetriin temdgiin khajuud baina."
+  },
+  {
+   "mn": "Чирэгч машин энд ирэхэд хэр удах вэ?",
+   "en": "How long will it take the tow truck to get here?",
+   "alt_mn": [
+    "Чирэгч машин энд хэр удаж ирэх вэ?"
+   ],
+   "alt_en": [
+    "How long will it take for the tow truck to get here?"
+   ],
+   "mn_latin": "Chiregch mashin end irekhed kher udakh ve?"
+  },
+  {
+   "mn": "Тийшээ очиход нэг цаг орчим болно.",
+   "en": "It will take about an hour to get there.",
+   "alt_mn": [
+    "Тэнд хүрэхэд ойролцоогоор нэг цаг болно."
+   ],
+   "alt_en": [
+    "It'll take around an hour to get there."
+   ],
+   "mn_latin": "Tiishee ochikhod neg tsag orchim bolno."
+  },
+  {
+   "mn": "Эхлээд аваарын гэрлээ асаагаад, дараа нь машинаасаа гараарай.",
+   "en": "First turn on your hazard lights, then get out of the car.",
+   "alt_mn": [
+    "Эхлээд аваарын гэрлээ асаа, дараа нь машинаасаа гар."
+   ],
+   "alt_en": [
+    "First, turn on your hazards, and then get out of the car."
+   ],
+   "mn_latin": "Ekhleed avaaryn gerlee asaagaad, daraa ni mashinaasaa garaarai."
+  },
+  {
+   "mn": "Эцэст нь би байршлаа ах руугаа илгээсэн.",
+   "en": "Finally, I sent my location to my older brother.",
+   "alt_mn": [
+    "Эцэст нь байршлаа ахдаа явуулсан."
+   ],
+   "alt_en": [
+    "In the end, I sent my location to my older brother."
+   ],
+   "mn_latin": "Etsest ni bi bairshlaa akh ruugaa ilgeesen."
+  },
+  {
+   "mn": "Бид замын хажууд, цэнхэр хадагтай овооны ойролцоо зогсож байна.",
+   "en": "We're stopped on the roadside, near an ovoo with blue khadags.",
+   "alt_mn": [],
+   "alt_en": [
+    "We've pulled over by the road, near an ovoo with blue khadags."
+   ],
+   "mn_latin": "Bid zamyn khajuud, tsenkher khadagtai ovoony oiroltsoo zogsoj baina."
+  },
+  {
+   "mn": "Хамгийн ойрын авто засвар хаана байдаг вэ?",
+   "en": "Where is the nearest auto repair shop?",
+   "alt_mn": [
+    "Хамгийн ойр авто засвар хаана байна вэ?"
+   ],
+   "alt_en": [
+    "Where's the closest repair shop?"
+   ],
+   "mn_latin": "Khamgiin oiryn avto zasvar khaana baidag ve?"
+  },
+  {
+   "mn": "105 руу залгаад, юу болсныг тайван тайлбарлаарай.",
+   "en": "Call 105 and calmly explain what happened.",
+   "alt_mn": [],
+   "alt_en": [
+    "Call 105 and explain calmly what happened."
+   ],
+   "mn_latin": "105 ruu zalgaad, yuu bolsnyg taivan tailbarlaarai."
+  },
+  {
+   "mn": "Сумын төвөөс энд хүртэл машинаар хэр удах вэ?",
+   "en": "How long does it take to drive here from the soum center?",
+   "alt_mn": [],
+   "alt_en": [
+    "How long does it take to get here by car from the soum center?"
+   ],
+   "mn_latin": "Sumyn tövöös end khürtel mashinaar kher udakh ve?"
+  },
+  {
+   "mn": "Бид гүүрээр гараад хоёр километр орчим явсан.",
+   "en": "We crossed the bridge and drove about two kilometers.",
+   "alt_mn": [],
+   "alt_en": [
+    "After crossing the bridge, we drove around two kilometers."
+   ],
+   "mn_latin": "Bid güüreer garaad khoyor kilomyetr orchim yavsan."
+  },
+  {
+   "mn": "Утасны цэнэг дуусахаас өмнө байршлаа хэлээрэй.",
+   "en": "Tell them your location before your phone battery dies.",
+   "alt_mn": [],
+   "alt_en": [
+    "Give them your location before your phone dies."
+   ],
+   "mn_latin": "Utasny tseneg duusakhaas ömnö bairshlaa kheleerei."
+  },
+  {
+   "mn": "Засварчин энд ирэхэд дор хаяж хоёр цаг болно гэсэн.",
+   "en": "The mechanic said it would take at least two hours to get here.",
+   "alt_mn": [],
+   "alt_en": [
+    "The mechanic said it'll take at least two hours to get here."
+   ],
+   "mn_latin": "Zasvarchin end irekhed dor khayaj khoyor tsag bolno gesen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Giving instructions in order: эхлээд, дараа нь, эцэст нь / How long does it take...?",
+  "title_mn": "Дараалал заах: эхлээд, дараа нь, эцэст нь / How long does it take...? бүтэц",
+  "explain_en": "To give steps in order, Mongolian uses эхлээд (first), дараа нь (then), and эцэст нь (finally). They usually come at the start of each step. You can also link two steps in one sentence with the converb -аад/-ээд/-оод/-өөд, which means \"do X and then...\": асаагаад, дараа нь гараарай. To ask how long something takes, use the verb in -хад/-хэд/-ход/-хөд plus хэр удах вэ?: Энд ирэхэд хэр удах вэ? (How long will it take to get here?) For the answer, use the same form plus a time and болно: Тийшээ очиход нэг цаг орчим болно.",
+  "explain_mn": "Англи хэлэнд хугацаа асуухдаа \"How long does it take (somebody) to + үйл үг?\" гэж хэлдэг. Жишээ нь: How long does it take to get there? (Тийшээ очиход хэр удах вэ?) Ирээдүйн тухай асуухдаа \"How long will it take...?\" гэнэ. Хариулахдаа \"It will take about + хугацаа + to...\" гэдэг: It will take about an hour to get there. Энд \"it\" гэдэг нь утгагүй, зөвхөн өгүүлэгдэхүүний байр эзэлдэг. Дарааллыг First, Then, Finally гэж заадаг.",
+  "examples": [
+   {
+    "mn": "Эхлээд машинаа замын хажууд зогсоо.",
+    "en": "First, stop your car on the side of the road.",
+    "mn_latin": "Ekhleed mashinaa zamyn khajuud zogsoo."
+   },
+   {
+    "mn": "Дараа нь гурвалжин тэмдгээ машины ард тавь.",
+    "en": "Then put your warning triangle behind the car.",
+    "mn_latin": "Daraa ni gurvaljin temdgee mashiny ard tavi."
+   },
+   {
+    "mn": "Эцэст нь чирэгч машин руу залга.",
+    "en": "Finally, call a tow truck.",
+    "mn_latin": "Etsest ni chiregch mashin ruu zalga."
+   },
+   {
+    "mn": "Авто засварт хүрэхэд хорин минут орчим болно.",
+    "en": "It will take about twenty minutes to get to the repair shop.",
+    "mn_latin": "Avto zasvart khürekhed khorin minut orchim bolno."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "___ аваарын гэрлээ асаа, дараа нь гурвалжин тэмдгээ тавь.",
+   "answer": "Эхлээд",
+   "options": [
+    "Эхлээд",
+    "Эцэст нь",
+    "Өчигдөр",
+    "Харин"
+   ],
+   "translation": "First turn on your hazard lights, then put out your warning triangle.",
+   "explain_en": "The sentence lists steps, and the second step starts with дараа нь (then). So the first step needs эхлээд (first).",
+   "explain_mn": "Хоёр дахь алхам \"дараа нь\"-ээр эхэлж байгаа тул эхний алхамд \"эхлээд\" тохирно. Англиар \"First..., then...\" гэдэгтэй адил."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид 85-р километрийн тэмдгийн хажуу___ байна.",
+   "answer": "д",
+   "options": [
+    "д",
+    "аас",
+    "тай",
+    "г"
+   ],
+   "translation": "We're next to the 85-kilometer marker.",
+   "explain_en": "To say where something is, use the dative-locative ending -д/-т. Хажууд means \"next to, beside.\"",
+   "explain_mn": "Хаана байгааг заахдаа өгөх-орших тийн ялгалын -д/-т нөхцөл хэрэглэнэ. Англиар \"next to\" гэж орчуулна."
+  },
+  {
+   "lang": "mn",
+   "text": "Эцэст нь байршл___ ах руугаа явуулсан.",
+   "answer": "аа",
+   "options": [
+    "аа",
+    "ын",
+    "д",
+    "тай"
+   ],
+   "translation": "Finally, I sent my location to my older brother.",
+   "explain_en": "The reflexive-possessive ending -аа marks \"my own\" object here: байршлаа = my (own) location. Note that the stem байршил drops its last vowel and becomes байршл-.",
+   "explain_mn": "\"Өөрийн байршил\" гэсэн утгаар ерөнхий хамаатуулах -аа нөхцөл залгана. Англиар \"my location\" гэж хэлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "How long does it ___ to get to the nearest repair shop?",
+   "answer": "take",
+   "options": [
+    "take",
+    "takes",
+    "took",
+    "taking"
+   ],
+   "translation": "Хамгийн ойрын авто засварт хүрэхэд хэр удах вэ?",
+   "explain_en": "After the helper verb \"does\", use the base form of the verb: does it take, not does it takes.",
+   "explain_mn": "\"Does\" туслах үйл үгийн дараа үйл үг үндсэн хэлбэрээрээ орно: does it take. \"-s\" залгахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "It will take ___ forty minutes to get there.",
+   "answer": "about",
+   "options": [
+    "about",
+    "during",
+    "since",
+    "while"
+   ],
+   "translation": "Тийшээ очиход дөчин минут орчим болно.",
+   "explain_en": "\"About\" before a number means approximately. That makes it the natural choice for estimating travel time.",
+   "explain_mn": "Тооны өмнө \"about\" гэвэл \"ойролцоогоор, орчим\" гэсэн утгатай. Хугацаа тооцоолоход хамгийн их хэрэглэдэг."
+  },
+  {
+   "lang": "en",
+   "text": "First, call 105. ___, send them your location.",
+   "answer": "Then",
+   "options": [
+    "Then",
+    "Before",
+    "Until",
+    "Since"
+   ],
+   "translation": "Эхлээд 105 руу залга. Дараа нь байршлаа тэдэнд илгээ.",
+   "explain_en": "\"Then\" introduces the next step after \"First\". The other words can't start a step on their own like this.",
+   "explain_mn": "\"First\"-ийн дараагийн алхмыг \"Then\" (дараа нь) гэж эхлүүлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн байна уу? Манай машин замд эвдэрчихлээ, чирэгч машин хэрэгтэй байна.",
+   "en": "Hello? Our car broke down on the road, and we need a tow truck.",
+   "mn_latin": "Sain baina uu? Manai mashin zamd evderchikhlee, chiregch mashin kheregtei baina."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "За, ойлголоо. Та яг хаана байна вэ? Байршлаа тодорхой хэлээрэй.",
+   "en": "Okay, got it. Where exactly are you? Please tell me your location clearly.",
+   "mn_latin": "Za, oilgoloo. Ta yag khaana baina ve? Bairshlaa todorkhoi kheleerei."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Улаанбаатар–Дарханы замын 85-р километрт, цэнхэр хадагтай овооны хажууд байна.",
+   "en": "We're at kilometer 85 on the Ulaanbaatar–Darkhan road, next to an ovoo with blue khadags.",
+   "mn_latin": "Ulaanbaatar–Darkhany zamyn 85-r kilomyetrt, tsenkher khadagtai ovoony khajuud baina."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Эхлээд аваарын гэрлээ асаагаарай. Дараа нь гурвалжин тэмдгээ машины ард тавиарай.",
+   "en": "First, turn on your hazard lights. Then put your warning triangle behind the car.",
+   "mn_latin": "Ekhleed avaaryn gerlee asaagaarai. Daraa ni gurvaljin temdgee mashiny ard taviarai."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгье. Чирэгч машин энд ирэхэд хэр удах вэ?",
+   "en": "Will do. How long will it take the tow truck to get here?",
+   "mn_latin": "Tegiye. Chiregch mashin end irekhed kher udakh ve?"
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Манай машин одоо хотод байгаа. Тийшээ очиход нэг цаг орчим болно.",
+   "en": "Our truck is in the city now. It will take about an hour to get there.",
+   "mn_latin": "Manai mashin odoo khotod baigaa. Tiishee ochikhod neg tsag orchim bolno."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Ойлголоо. Та биднийг хамгийн ойрын авто засвар руу аваачих уу?",
+   "en": "I see. Will you take us to the nearest auto repair shop?",
+   "mn_latin": "Oilgoloo. Ta bidniig khamgiin oiryn avto zasvar ruu avaachikh uu?"
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Тийм ээ. Эцэст нь, утсаа цэнэгтэй байлгаарай, бид тан руу залгана.",
+   "en": "Yes. And finally, keep your phone charged. We'll call you.",
+   "mn_latin": "Tiim ee. Etsest ni, utsaa tsenegtei bailgaarai, bid tan ruu zalgana."
+  }
+ ],
+ "culture_note": {
+  "en": "On Mongolian highways, small kilometer markers show the distance from Ulaanbaatar, so drivers often give their location as \"the 85th kilometer\" of a certain road. In the countryside, people also use landmarks like an ovoo, a bridge, or a soum center, and it is customary to walk around an ovoo three times clockwise. In an emergency, you can call 105 (emergency services), 102 (police), or 103 (ambulance).",
+  "mn": "Монголын хатуу хучилттай замын хажууд Улаанбаатараас хэдэн км явсныг заасан жижиг тэмдэг байдаг тул жолооч нар байршлаа \"тэр замын 85-р километрт\" гэж хэлэх нь элбэг. Хөдөө орон нутагт овоо, гүүр, сумын төв зэрэг тодорхой газрыг бас ашигладаг бөгөөд овоог нар зөв гурав тойрох заншилтай. Онцгой үед 105 (онцгой байдал), 102 (цагдаа), 103 (түргэн тусламж) руу залгаж болно."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Solid, natural lesson. The main error was the inverted subject/object in the dialogue question, and the grammar note gave an incomplete list of suffix variants."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is mostly accurate. The two fixes correct a grammar term and an approximate-number translation.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The grammatical term for 'subject' is өгүүлэгдэхүүн, not өгүүлэгч ('narrator')."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Дөчөөд means 'forty-something', not 'about forty'."
+   }
+  ]
+ }
+}

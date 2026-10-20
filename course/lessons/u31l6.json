@@ -1,0 +1,476 @@
+{
+ "intro_en": "You will learn to make short proposals and write a letter to the district office about city problems. You will also practice combining causatives, too/enough, and much/many/a lot of to explain a problem and suggest a solution.",
+ "intro_mn": "Та хотын асуудлын талаар товч санал гаргаж, дүүргийн засаг захиргаанд захидал бичиж сурна. Мөн асуудлыг тайлбарлаж, шийдэл санал болгохдоо үйлдүүлэх хэлбэр, too/enough, much/many/a lot of ашиглах дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "санал",
+   "en": "proposal, suggestion",
+   "pos": "noun",
+   "example_mn": "Миний санал энгийн.",
+   "example_en": "My proposal is simple.",
+   "mn_latin": "sanal"
+  },
+  {
+   "mn": "гомдол",
+   "en": "complaint",
+   "pos": "noun",
+   "example_mn": "Оршин суугчид дүүргийн удирдлагад гомдол гаргасан.",
+   "example_en": "The residents filed a complaint with the district administration.",
+   "mn_latin": "gomdol"
+  },
+  {
+   "mn": "сайжруулах",
+   "en": "to improve",
+   "pos": "verb",
+   "example_mn": "Бид замын нөхцөлийг сайжруулах хэрэгтэй.",
+   "example_en": "We need to improve road conditions.",
+   "mn_latin": "saijruulakh"
+  },
+  {
+   "mn": "оролцох",
+   "en": "to take part, participate",
+   "pos": "verb",
+   "example_mn": "Би хурлын хэлэлцүүлэгт оролцмоор байна.",
+   "example_en": "I would like to take part in the meeting discussion.",
+   "mn_latin": "oroltsokh"
+  },
+  {
+   "mn": "нийтийн тээвэр",
+   "en": "public transport",
+   "pos": "noun",
+   "example_mn": "Нийтийн тээвэр өглөө маш их хүнтэй байдаг.",
+   "example_en": "Public transport gets very crowded in the morning.",
+   "mn_latin": "niitiin teever"
+  },
+  {
+   "mn": "ногоон байгууламж",
+   "en": "green space",
+   "pos": "noun",
+   "example_mn": "Манай хороололд ногоон байгууламж хэрэгтэй.",
+   "example_en": "Our neighborhood needs green space.",
+   "mn_latin": "nogoon baiguulamj"
+  },
+  {
+   "mn": "захидал",
+   "en": "letter",
+   "pos": "noun",
+   "example_mn": "Би дүүргийн захиргаанд захидал бичсэн.",
+   "example_en": "I wrote a letter to the district office.",
+   "mn_latin": "zakhidal"
+  },
+  {
+   "mn": "хариуцах",
+   "en": "to be responsible for",
+   "pos": "verb",
+   "example_mn": "Энэ ажлыг дүүргийн алба хариуцдаг.",
+   "example_en": "The district office is responsible for this work.",
+   "mn_latin": "khariutsakh"
+  },
+  {
+   "mn": "хангалттай",
+   "en": "enough, sufficient",
+   "pos": "adjective",
+   "example_mn": "Автобус хангалттай биш байна.",
+   "example_en": "There are not enough buses.",
+   "mn_latin": "khangalttai"
+  },
+  {
+   "mn": "шийдвэрлүүлэх",
+   "en": "to get (something) resolved",
+   "pos": "verb",
+   "example_mn": "Бид энэ асуудлыг шийдвэрлүүлэхийг хүсэж байна.",
+   "example_en": "We want to get this problem resolved.",
+   "mn_latin": "shiidverlüülekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай хороололд хог хаях газар хэт цөөн байна.",
+   "en": "There are too few places to throw away trash in our neighborhood.",
+   "alt_mn": [
+    "Манай хороололд хог хаях цэг хэт цөөн байна."
+   ],
+   "alt_en": [
+    "There are too few places to dump trash in our area."
+   ],
+   "mn_latin": "Manai khoroolold khog khayakh gazar khet tsöön baina."
+  },
+  {
+   "mn": "Нийтийн тээвэр хангалттай олон биш тул хүмүүс машинаар явдаг.",
+   "en": "There is not enough public transport, so people go by car.",
+   "alt_mn": [],
+   "alt_en": [
+    "There is not enough public transport, so people drive."
+   ],
+   "mn_latin": "Niitiin teever khangalttai olon bish tul khümüüs mashinaar yavdag."
+  },
+  {
+   "mn": "Замд хэт олон машин байгаа учраас бид удаан хүлээдэг.",
+   "en": "Because there are too many cars on the road, we wait a long time.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Zamd khet olon mashin baigaa uchraas bid udaan khüleedeg."
+  },
+  {
+   "mn": "Энэ хэсэгт ногоон байгууламж хангалттай биш байна.",
+   "en": "There is not enough green space in this area.",
+   "alt_mn": [
+    "Энэ хэсэгт ногоон байгууламж хэт бага байна."
+   ],
+   "alt_en": [
+    "There is too little green space in this area."
+   ],
+   "mn_latin": "Ene khesegt nogoon baiguulamj khangalttai bish baina."
+  },
+  {
+   "mn": "Бид дүүргийн захиргаанд гомдол бичсэн.",
+   "en": "We wrote a complaint to the district office.",
+   "alt_mn": [
+    "Бид дүүргийн захиргаанд гомдол бичиж өгсөн."
+   ],
+   "alt_en": [
+    "We wrote a complaint to the district administration."
+   ],
+   "mn_latin": "Bid düürgiin zakhirgaand gomdol bichsen."
+  },
+  {
+   "mn": "Миний санал бол автобусны эгнээ гаргах явдал юм.",
+   "en": "My proposal is to create a bus lane.",
+   "alt_mn": [
+    "Миний санал автобусны тусгай эгнээ гаргах."
+   ],
+   "alt_en": [
+    "My suggestion is to make a bus lane."
+   ],
+   "mn_latin": "Minii sanal bol avtobusny egnee gargakh yavdal yum."
+  },
+  {
+   "mn": "Захиргаа оршин суугчдыг мод тарихад оролцуулах боломжтой.",
+   "en": "The administration can involve residents by having them plant trees.",
+   "alt_mn": [
+    "Захиргаа оршин суугчдаар мод тариулж болно."
+   ],
+   "alt_en": [
+    "The administration can involve residents in planting trees."
+   ],
+   "mn_latin": "Zakhirgaa orshin suugchdyg mod tarikhad oroltsuulakh bolomjtoi."
+  },
+  {
+   "mn": "Бид хотыг цэвэр болгохын тулд сурагчдаар хог түүлгэж болно.",
+   "en": "To make the city clean, we can have students pick up trash.",
+   "alt_mn": [
+    "Хотыг цэвэрлэхийн тулд сурагчдаар хог түүлгэж болно."
+   ],
+   "alt_en": [
+    "To clean the city, we can get students to collect litter."
+   ],
+   "mn_latin": "Bid khotyg tsever bolgokhyn tuld suragchdaar khog tüülgej bolno."
+  },
+  {
+   "mn": "Олон хүн гомдол гаргасан ч асуудлыг хараахан шийдвэрлээгүй байна.",
+   "en": "Many people filed complaints, but the problem has not been resolved yet.",
+   "alt_mn": [],
+   "alt_en": [
+    "A lot of people complained, but the problem is still not solved."
+   ],
+   "mn_latin": "Olon khün gomdol gargasan ch asuudlyg kharaakhan shiidverleegüi baina."
+  },
+  {
+   "mn": "Тоглоомын талбай хэт цөөн тул хүүхдүүд гудамжинд тоглодог.",
+   "en": "There are too few playgrounds, so children play in the street.",
+   "alt_mn": [
+    "Тоглоомын талбай хэт цөөн учир хүүхдүүд гудамжинд тоглодог."
+   ],
+   "alt_en": [
+    "There aren't enough playgrounds, so kids play in the street."
+   ],
+   "mn_latin": "Togloomyn talbai khet tsöön tul khüükhdüüd gudamjind toglodog."
+  },
+  {
+   "mn": "Автобусны буудал дээр суудал тавиулах нь хөгшин хүмүүст тус болно.",
+   "en": "Having benches installed at bus stops will help elderly people.",
+   "alt_mn": [
+    "Буудал дээр сандал тавиулбал ахмадуудад тустай."
+   ],
+   "alt_en": [
+    "Getting benches put in at bus stops would help older people."
+   ],
+   "mn_latin": "Avtobusny buudal deer suudal taviulakh ni khögshin khümüüst tus bolno."
+  },
+  {
+   "mn": "Бид маш их цаг зарцуулсан ч засвараа хийлгэсэн.",
+   "en": "We spent a lot of time, but we got the repairs done.",
+   "alt_mn": [
+    "Бид их цаг зарцуулсан ч засвараа хийлгэсэн."
+   ],
+   "alt_en": [
+    "We spent a lot of time, but we had the repairs done."
+   ],
+   "mn_latin": "Bid mash ikh tsag zartsuulsan ch zasvaraa khiilgesen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Explaining problems and suggesting solutions",
+  "title_mn": "Асуудал тайлбарлаж, шийдэл санал болгох",
+  "explain_en": "In Mongolian, causative verbs add suffixes such as -уул/-үүл, -лга/-лгэ, -га/-гэ: бичих → бичүүлэх (to have something written), хийх → хийлгэх (to get something done), оролцох → оролцуулах (to involve). The person who does the action usually takes the instrumental -аар/-ээр: сурагчдаар хог түүлгэх (to have students collect trash). With оролцуулах, the person takes the accusative: оршин суугчдыг оролцуулах. To say 'too' use хэт: хэт олон (too many), хэт бага (too little). For 'enough' use хангалттай: хангалттай олон биш (not enough). 'A lot of' is маш их, or олон with countable nouns. A short proposal usually has three parts: problem, reason, solution.",
+  "explain_mn": "Англи хэлэнд \"too\" нь хэт гэсэн утгатай бөгөөд тэмдэг нэр, дайвар үг, many/much/few-ийн өмнө ордог: too crowded, too few cars. \"Enough\" нь тэмдэг нэрийн ард (big enough), нэр үгийн өмнө (enough buses) орно. Тоологдох нэртэй many, тоологддоггүй нэртэй much, аль алинтай нь a lot of хэрэглэнэ: many buses, much smog, a lot of problems. Үйлдүүлэх бүтэц: have/get + зүйл + V3 (We got the road repaired), have + хүн + үйл үг (The office had residents plant trees), get + хүн + to + үйл үг (We got them to repair it). Богино санал нь асуудал, шалтгаан, шийдэл гэсэн гурван хэсэгтэй.",
+  "examples": [
+   {
+    "mn": "Автобус хэт цөөн тул хүмүүс удаан хүлээдэг.",
+    "en": "There are too few buses, so people wait a long time.",
+    "mn_latin": "Avtobus khet tsöön tul khümüüs udaan khüleedeg."
+   },
+   {
+    "mn": "Бид захиргаагаар зам засуулах хүсэлт гаргасан.",
+    "en": "We made a request to have the administration repair the road.",
+    "mn_latin": "Bid zakhirgaagaar zam zasuulakh khüselt gargasan."
+   },
+   {
+    "mn": "Энд ногоон байгууламж хангалттай биш.",
+    "en": "There is not enough green space here.",
+    "mn_latin": "End nogoon baiguulamj khangalttai bish."
+   },
+   {
+    "mn": "Оршин суугчдыг шийдвэр гаргахад оролцуулах хэрэгтэй.",
+    "en": "We need to involve residents in making decisions.",
+    "mn_latin": "Orshin suugchdyg shiidver gargakhad oroltsuulakh kheregtei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Манай гудамжинд гэрэл ___ цөөн байна.",
+   "answer": "хэт",
+   "options": [
+    "хэт",
+    "хангалттай",
+    "маш их",
+    "байнга"
+   ],
+   "translation": "There are too few lights on our street.",
+   "explain_en": "хэт means 'too (much/few)'. It shows an excessive degree, here a shortage.",
+   "explain_mn": "хэт нь хэтэрсэн хэмжээг заана; англи хэлний too-той тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Захиргаа оршин суугчдыг шийдвэр гаргахад ___ хэрэгтэй.",
+   "answer": "оролцуулах",
+   "options": [
+    "оролцуулах",
+    "оролцох",
+    "оролцсон",
+    "оролцдог"
+   ],
+   "translation": "The administration needs to involve residents in making decisions.",
+   "explain_en": "оролцуулах is the causative: 'to make/let someone take part'. оролцох would mean to take part oneself.",
+   "explain_mn": "Оролцуулах нь үйлдүүлэх хэлбэр: бусдыг оролцоход хүргэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид дүүргийн даргаар замыг ___ хүсэлт гаргасан.",
+   "answer": "засуулах",
+   "options": [
+    "засуулах",
+    "засах",
+    "засагдах",
+    "засав"
+   ],
+   "translation": "We made a request to have the district head repair the road.",
+   "explain_en": "засуулах = to get something repaired by someone; the doer takes -аар/-ээр (даргаар).",
+   "explain_mn": "Үйлдүүлэх хэлбэр засуулах нь үйлдэгч нэр дээр -аар/-ээр залгахыг шаарддаг."
+  },
+  {
+   "lang": "en",
+   "text": "There are ___ cars on the road, so the air is dirty.",
+   "answer": "too many",
+   "options": [
+    "too many",
+    "too much",
+    "enough",
+    "a little"
+   ],
+   "translation": "Замд хэт олон машин байгаа тул агаар бохир байна.",
+   "explain_en": "Cars are countable, so use 'too many', not 'too much'.",
+   "explain_mn": "Car тоологдох нэр тул too many хэрэглэнэ, too much биш."
+  },
+  {
+   "lang": "en",
+   "text": "The bus stop isn't big ___ for everyone to stand under the roof.",
+   "answer": "enough",
+   "options": [
+    "enough",
+    "too",
+    "much",
+    "many"
+   ],
+   "translation": "Автобусны буудал бүх хүн дээвэр дор зогсох хэмжээний том биш байна.",
+   "explain_en": "'Enough' comes after an adjective: big enough.",
+   "explain_mn": "Enough тэмдэг нэрийн ард орно: big enough."
+  },
+  {
+   "lang": "en",
+   "text": "We got the city office ___ the broken benches.",
+   "answer": "to repair",
+   "options": [
+    "to repair",
+    "repair",
+    "repairing",
+    "repaired to"
+   ],
+   "translation": "Бид хотын албаар эвдэрсэн сандлуудыг засуулсан.",
+   "explain_en": "'Get + person + to + verb' expresses a causative: we got them to repair it.",
+   "explain_mn": "get + хүн + to + үйл үг бүтэц нь үйлдүүлэх утга илэрхийлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Дүүргийн захиргаанд захидал бичих гэж байна. Чи тусалж чадах уу?",
+   "en": "I'm going to write a letter to the district office. Can you help?",
+   "mn_latin": "Düürgiin zakhirgaand zakhidal bichikh gej baina. Chi tusalj chadakh uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Мэдээжийн хэрэг. Юуны талаар бичих вэ?",
+   "en": "Of course. What will you write about?",
+   "mn_latin": "Medeejiin khereg. Yuuny talaar bichikh ve?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Манай хороололд ногоон байгууламж хангалттай биш, тоглоомын талбай бас хэт цөөн.",
+   "en": "There is not enough green space in our neighborhood, and there are too few playgrounds too.",
+   "mn_latin": "Manai khoroolold nogoon baiguulamj khangalttai bish, togloomyn talbai bas khet tsöön."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэгвэл шийдлийг нь санал болгоорой. Жишээлбэл, оршин суугчдыг мод тарихад оролцуулж болно.",
+   "en": "Then suggest a solution. For example, you could involve residents in planting trees.",
+   "mn_latin": "Tegvel shiidliig ni sanal bolgooroi. Jisheelbel, orshin suugchdyg mod tarikhad oroltsuulj bolno."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Сайн санаа! Мөн нийтийн тээврийн буудал дээр сандал тавиулах санал оруулъя.",
+   "en": "Good idea! Let's also propose having benches installed at public transport stops.",
+   "mn_latin": "Sain sanaa! Mön niitiin teevriin buudal deer sandal taviulakh sanal oruulya."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Гомдлоо нэг их урт бичихгүй байх нь дээр. Асуудал, шалтгаан, санал гэсэн гурван хэсэгтэй байг.",
+   "en": "It's better not to make the complaint too long. Let it have three parts: problem, reason, proposal.",
+   "mn_latin": "Gomdloo neg ikh urt bichikhgüi baikh ni deer. Asuudal, shaltgaan, sanal gesen gurvan khesegtei baig."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Зөв. Маргааш хөршүүдээрээ ч гэсэн гарын үсэг зуруулна.",
+   "en": "Right. Tomorrow I'll have my neighbors sign it too.",
+   "mn_latin": "Zöv. Margaash khörshüüdeeree ch gesen garyn üseg zuruulna."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайн байна. Олон хүн гарын үсэг зурвал захиргаа анхаарах байх.",
+   "en": "Great. If many people sign, the office will probably pay attention.",
+   "mn_latin": "Sain baina. Olon khün garyn üseg zurval zakhirgaa ankhaarakh baikh."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, residents can send written proposals and complaints to their district (дүүрэг) and khoroo (хороо) offices, and many also use the 1111 hotline or social media. Khoroo meetings and local citizens' councils give people a chance to take part in decisions about parks, roads, and public transport. A short, polite letter with a clear problem and a realistic proposal usually gets the most attention.",
+  "mn": "Улаанбаатарын оршин суугчид санал, гомдлоо дүүрэг, хорооны захиргаанд бичгээр өгч болно, мөн 1111 төвөөр эсвэл нийгмийн сүлжээгээр хүргэдэг. Хорооны хурал, иргэдийн төлөөлөгчдийн хурлаар цэцэрлэгт хүрээлэн, зам, нийтийн тээврийн талаар шийдвэр гаргахад оролцох боломжтой. Асуудлаа тодорхой, бодит саналтай, эелдэг товч захидлаар бичвэл илүү анхаарал татдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 18,
+  "notes": "Mostly good; fixed a Latin/Cyrillic typo, an inaccurate suffix list, and some mistranslated or unnatural sentence pairs."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "The main problems were case government with causatives (оролцуулах takes the accusative, the doer takes the instrumental) and an inaccurate English grammar explanation.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "бөөгнөрөх is unnatural for crowded transport"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "standard spelling хүсэж"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "хогийн сав means bins, not places"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'trash places' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "оролцуулах takes the accusative; the original mixed structures ungrammatically"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "the alternative now uses the instrumental causative"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "playgrounds are countable, so хэт цөөн; 'хүүхдүүд тоглох талбай' was awkward"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "'Playgrounds are too few' is unnatural"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "completes the suffix forms and clarifies case use"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "too does not go before verbs; the 'have + person + verb' pattern was mislabeled"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "the original wording was a confused double causative"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "same case error as in the sentences section"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "matches the corrected Mongolian"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "the doer of a causative takes the instrumental; 'хөрштэйгээ хамт' meant 'together with my neighbor'"
+   }
+  ]
+ }
+}

@@ -1,0 +1,405 @@
+{
+ "intro_en": "In this lesson you will learn how to talk about hunting seasons, permits, protected animals, and fines in western Mongolia. You will also learn to tell apart a transitive verb with an agent (хаах), its -гд- form (хаагдах), and an agentless intransitive meaning, and how English handles the same contrast with 'the season closed' versus 'the season was closed by the ministry.'",
+ "intro_mn": "Энэ хичээлээр та ан агнах улирал, зөвшөөрөл, хориотой амьтан, торгуулийн тухай ярьж сурна. Мөн хаах, хаагдах гэх мэт үйлдэгчтэй ба үйлдэгчгүй үйл үгийн ялгааг давтана. Англи хэлэнд энэ ялгааг 'the season closed' ба 'the season was closed by the ministry' гэж хэрхэн илэрхийлдгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "агнуурын зөвшөөрөл",
+   "en": "hunting permit",
+   "pos": "noun phrase",
+   "example_mn": "Та агнуурын зөвшөөрлөө авсан уу?",
+   "example_en": "Did you get your hunting permit?",
+   "mn_latin": "agnuuryn zövshööröl"
+  },
+  {
+   "mn": "хориотой амьтан",
+   "en": "protected animal (hunting banned)",
+   "pos": "noun phrase",
+   "example_mn": "Цасан ирвэс бол хориотой амьтан.",
+   "example_en": "The snow leopard is a protected animal.",
+   "mn_latin": "khoriotoi amitan"
+  },
+  {
+   "mn": "улирал",
+   "en": "season",
+   "pos": "noun",
+   "example_mn": "Ан агнах улирал намар эхэлдэг.",
+   "example_en": "The hunting season starts in the fall.",
+   "mn_latin": "uliral"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine (penalty)",
+   "pos": "noun",
+   "example_mn": "Зөрчсөн хүнд торгууль ногдуулна.",
+   "example_en": "Violators will be fined.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "хаах",
+   "en": "to close (something)",
+   "pos": "verb (transitive)",
+   "example_mn": "Яам улирлыг эрт хаасан.",
+   "example_en": "The ministry closed the season early.",
+   "mn_latin": "khaakh"
+  },
+  {
+   "mn": "хаагдах",
+   "en": "to close; to be closed",
+   "pos": "verb (-гд- form)",
+   "example_mn": "Улирал маргааш хаагдана.",
+   "example_en": "The season closes tomorrow.",
+   "mn_latin": "khaagdakh"
+  },
+  {
+   "mn": "зөрчих",
+   "en": "to violate, to break (a rule)",
+   "pos": "verb (transitive)",
+   "example_mn": "Тэр анчин дүрмийг зөрчсөн.",
+   "example_en": "That hunter broke the rules.",
+   "mn_latin": "zörchikh"
+  },
+  {
+   "mn": "зөрчигдөх",
+   "en": "to be violated",
+   "pos": "verb (-гд- form)",
+   "example_mn": "Хууль зөрчигдсөн тохиолдолд цагдаад мэдэгдэнэ.",
+   "example_en": "If the law is violated, the police are notified.",
+   "mn_latin": "zörchigdökh"
+  },
+  {
+   "mn": "сунгах",
+   "en": "to extend, to renew",
+   "pos": "verb (transitive)",
+   "example_mn": "Би зөвшөөрлөө нэг сараар сунгасан.",
+   "example_en": "I extended my permit by one month.",
+   "mn_latin": "sungakh"
+  },
+  {
+   "mn": "сунгагдах",
+   "en": "to be extended",
+   "pos": "verb (-гд- form)",
+   "example_mn": "Улирал хоёр долоо хоногоор сунгагдлаа.",
+   "example_en": "The season was extended by two weeks.",
+   "mn_latin": "sungagdakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Агнуурын зөвшөөрөлгүй ан хийвэл торгууль ногдуулна.",
+   "en": "If you hunt without a permit, you will be fined.",
+   "alt_mn": [
+    "Агнуурын зөвшөөрөлгүйгээр ан хийвэл торгууль ногдуулна."
+   ],
+   "alt_en": [
+    "Hunting without a permit will result in a fine.",
+    "If you hunt without a hunting permit, you'll be fined."
+   ],
+   "mn_latin": "Agnuuryn zövshöörölgüi an khiivel torguuli nogduulna."
+  },
+  {
+   "mn": "Ан агнах улирал энэ сарын сүүлээр хаагдана.",
+   "en": "The hunting season closes at the end of this month.",
+   "alt_mn": [],
+   "alt_en": [
+    "The hunting season will close at the end of this month.",
+    "Hunting season ends at the end of this month."
+   ],
+   "mn_latin": "An agnakh uliral ene saryn süüleer khaagdana."
+  },
+  {
+   "mn": "Яам зуднаас болж улирлыг эрт хаасан.",
+   "en": "The ministry closed the season early because of the dzud.",
+   "alt_mn": [
+    "Зуднаас болж яам улирлыг эрт хаасан."
+   ],
+   "alt_en": [
+    "Because of the dzud, the ministry closed the season early."
+   ],
+   "mn_latin": "Yaam zudnaas bolj ulirlyg ert khaasan."
+  },
+  {
+   "mn": "Байгаль орчны яамны шийдвэрээр улирал нэг сараар сунгагдсан.",
+   "en": "By decision of the Ministry of Environment, the season was extended by one month.",
+   "alt_mn": [
+    "Байгаль орчны яамны шийдвэрээр улирлыг нэг сараар сунгасан."
+   ],
+   "alt_en": [
+    "The season was extended by a month by decision of the Ministry of Environment.",
+    "The Ministry of Environment extended the season by one month."
+   ],
+   "mn_latin": "Baigali orchny yaamny shiidvereer uliral neg saraar sungagdsan."
+  },
+  {
+   "mn": "Бүргэдчид үнэг агнах зөвшөөрлөө жил бүр сунгадаг.",
+   "en": "Eagle hunters renew their fox-hunting permits every year.",
+   "alt_mn": [
+    "Бүргэдчид жил бүр үнэг агнах зөвшөөрлөө сунгадаг."
+   ],
+   "alt_en": [
+    "Every year, eagle hunters renew their permits to hunt foxes."
+   ],
+   "mn_latin": "Bürgedchid üneg agnakh zövshöörlöö jil bür sungadag."
+  },
+  {
+   "mn": "Цасан ирвэс хуулиар хамгаалагдсан тул түүнийг агнахыг хатуу хориглоно.",
+   "en": "Since snow leopards are protected by law, hunting them is strictly prohibited.",
+   "alt_mn": [
+    "Цасан ирвэс хуулиар хамгаалагдсан учир түүнийг агнахыг хатуу хориглоно."
+   ],
+   "alt_en": [
+    "Because the snow leopard is protected by law, hunting it is strictly forbidden."
+   ],
+   "mn_latin": "Tsasan irves khuuliar khamgaalagdsan tul tüüniig agnakhyg khatuu khoriglono."
+  },
+  {
+   "mn": "Дүрэм зөрчигдсөн тохиолдолд байгаль хамгаалагч зөрчлийг бүртгэнэ.",
+   "en": "When a rule is broken, the ranger records the violation.",
+   "alt_mn": [
+    "Дүрэм зөрчигдвөл байгаль хамгаалагч зөрчлийг бүртгэнэ."
+   ],
+   "alt_en": [
+    "If a rule is violated, the ranger records the violation."
+   ],
+   "mn_latin": "Dürem zörchigdsön tokhioldold baigali khamgaalagch zörchliig bürtgene."
+  },
+  {
+   "mn": "Хэн нэгэн дүрмийг зөрчвөл бүхэл бүтэн багийн зөвшөөрөл хүчингүй болж магадгүй.",
+   "en": "If anyone breaks the rules, the whole team's permit could be revoked.",
+   "alt_mn": [],
+   "alt_en": [
+    "If someone breaks the rules, the entire team's permit may be canceled."
+   ],
+   "mn_latin": "Khen negen dürmiig zörchvöl bükhel büten bagiin zövshööröl khüchingüi bolj magadgüi."
+  },
+  {
+   "mn": "Торгуулийн хэмжээ өнгөрсөн жил хоёр дахин нэмэгдсэн.",
+   "en": "The amount of the fine doubled last year.",
+   "alt_mn": [
+    "Өнгөрсөн жил торгуулийн хэмжээ хоёр дахин нэмэгдсэн."
+   ],
+   "alt_en": [
+    "Last year the fine doubled."
+   ],
+   "mn_latin": "Torguuliin khemjee öngörsön jil khoyor dakhin nemegdsen."
+  },
+  {
+   "mn": "Зөвшөөрлийг хугацаа нь дуусахаас өмнө сунгах ёстой.",
+   "en": "The permit has to be renewed before it expires.",
+   "alt_mn": [
+    "Зөвшөөрлийн хугацаа дуусахаас өмнө түүнийг сунгах ёстой."
+   ],
+   "alt_en": [
+    "You must renew the permit before it expires."
+   ],
+   "mn_latin": "Zövshöörliig khugatsaa ni duusakhaas ömnö sungakh yostoi."
+  },
+  {
+   "mn": "Хавар амьтад үрждэг тул ан агнахыг бүрэн хориглодог.",
+   "en": "Hunting is completely banned in spring because animals breed then.",
+   "alt_mn": [
+    "Хаврын улиралд амьтад үрждэг учир ан агнахыг бүрэн хориглодог."
+   ],
+   "alt_en": [
+    "Because animals breed in spring, hunting is fully prohibited then."
+   ],
+   "mn_latin": "Khavar amitad ürjdeg tul an agnakhyg büren khoriglodog."
+  },
+  {
+   "mn": "Улирал хаагдсаныг мэдээгүй гэх нь шалтаг болохгүй.",
+   "en": "Not knowing that the season had closed is no excuse.",
+   "alt_mn": [
+    "Улирал хаагдсаныг мэдээгүй гэдэг нь шалтаг болохгүй."
+   ],
+   "alt_en": [
+    "Saying you didn't know the season had closed is not an excuse."
+   ],
+   "mn_latin": "Uliral khaagdsanyg medeegüi gekh ni shaltag bolokhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Who did it? хаах vs. хаагдах (agent vs. no agent)",
+  "title_mn": "Үйл үгийн үйлдэгчтэй ба үйлдэгчгүй хэлбэр: The season closed / was closed",
+  "explain_en": "Many Mongolian verbs come in pairs. The basic verb is transitive and has a doer: Яам улирлыг хаасан 'The ministry closed the season' (the object takes -ыг/-ийг). Adding -гд- gives хаагдах, and the thing that was affected becomes the subject: Улирал хаагдсан. This form does two jobs. Usually there is no doer at all, and it reads like a plain intransitive: 'The season closed.' It can also work as a true passive: 'The season was closed.' In formal Mongolian, the doer of a -гд- verb is rarely added with the dative. Instead it is given with phrases like ...-ын шийдвэрээр 'by decision of...' or ...-аас 'from...'. The same pattern holds for зөрчих → зөрчигдөх (violate → be violated) and сунгах → сунгагдах (extend → be extended). A useful rule: if there is an accusative object (дүрмийг, улирлыг), use the plain verb. If the affected thing is the subject, use -гд-.",
+  "explain_mn": "Англи хэлэнд зарим үйл үг тусагдахуунтай ч, тусагдахуунгүй ч хэрэглэгддэг. 'The ministry closed the season' гэвэл үйлдэгч (the ministry) тодорхой байна. 'The season closed' гэвэл үйлдэгчгүй, монголоор 'Улирал хаагдсан' гэсэнтэй адил. Үйл үг өөрчлөгдөхгүй, зөвхөн өгүүлэгч нь солигдоно. Ийм үйл үгийг ergative verb гэдэг: close, open, end, start, double, increase. Харин үйлдэгчийг онцолмоор бол идэвхгүй хэв (passive) хэрэглэнэ: 'The season was closed by the ministry'. Энэ нь be + үйл үгийн гуравдугаар хэлбэр + by байна. Анхаар: extend, violate, renew зэрэг үйл үг ergative биш. 'The season extended' гэж хэлэхгүй, заавал 'The season was extended' гэнэ. Мөн rise (өсөх, нэмэгдэх) ба raise (өсгөх, нэмэх) хоёрыг ялгаарай: 'Fines rose' ба 'The ministry raised fines'.",
+  "examples": [
+   {
+    "mn": "Яам ан агнах улирлыг хаасан.",
+    "en": "The ministry closed the hunting season.",
+    "mn_latin": "Yaam an agnakh ulirlyg khaasan."
+   },
+   {
+    "mn": "Ан агнах улирал хаагдсан.",
+    "en": "The hunting season closed.",
+    "mn_latin": "An agnakh uliral khaagdsan."
+   },
+   {
+    "mn": "Яамны шийдвэрээр улирал хаагдсан.",
+    "en": "The season was closed by the ministry.",
+    "mn_latin": "Yaamny shiidvereer uliral khaagdsan."
+   },
+   {
+    "mn": "Анчин хуулийг зөрчсөн. / Хууль зөрчигдсөн.",
+    "en": "The hunter broke the law. / The law was broken.",
+    "mn_latin": "Anchin khuuliig zörchsön. / Khuuli zörchigdsön."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ан агнах улирал өнгөрсөн долоо хоногт хаа___.",
+   "answer": "гдсан",
+   "options": [
+    "гдсан",
+    "сан",
+    "гдах",
+    "лгуулсан"
+   ],
+   "translation": "The hunting season closed last week.",
+   "explain_en": "The season is the subject and there is no doer and no object, so you need the past tense of the -гд- form: хаагдсан. Хаасан would need a doer and an object (улирлыг). Хаалгуулсан is causative ('had someone close it'), and хаагдах is not a finished past form.",
+   "explain_mn": "Улирал гэдэг нь өгүүлэгч бөгөөд үйлдэгч, тусагдахуун алга. Тиймээс -гд- дагавартай өнгөрсөн цагийн хаагдсан хэлбэр орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Яам улирлыг нэг сараар ___.",
+   "answer": "сунгасан",
+   "options": [
+    "сунгасан",
+    "сунгагдсан",
+    "сунгагдах",
+    "сунгагдана"
+   ],
+   "translation": "The ministry extended the season by one month.",
+   "explain_en": "There is a doer (яам) and an accusative object (улирлыг), so the plain transitive verb is required: сунгасан. A -гд- form cannot take an -ыг object.",
+   "explain_mn": "Үйлдэгч (яам) ба заахын тийн ялгалтай тусагдахуун (улирлыг) байгаа тул -гд- дагаваргүй, үйлдэгчтэй сунгасан хэлбэр зөв."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр анчин хуулийг ___.",
+   "answer": "зөрчсөн",
+   "options": [
+    "зөрчсөн",
+    "зөрчигдсөн",
+    "зөрчигдөх",
+    "зөрчигдөж"
+   ],
+   "translation": "That hunter broke the law.",
+   "explain_en": "Хуулийг is in the accusative, which signals a direct object. Only the transitive зөрчих can take it, so the answer is зөрчсөн 'broke'.",
+   "explain_mn": "'Хуулийг' нь заахын тийн ялгалтай тул үйлдэгчтэй зөрчих үйл үг шаардлагатай. -гд- хэлбэр тусагдахуунгүй байдаг."
+  },
+  {
+   "lang": "en",
+   "text": "The ministry ___ the season early because of the dzud.",
+   "answer": "closed",
+   "options": [
+    "closed",
+    "was closed",
+    "has been closed",
+    "closing"
+   ],
+   "translation": "Яам зуднаас болж улирлыг эрт хаасан.",
+   "explain_en": "'The ministry' is the doer and 'the season' is the object, so you need the active verb 'closed'. The passive forms cannot take an object after them.",
+   "explain_mn": "Үйлдэгч (the ministry) ба тусагдахуун (the season) хоёулаа байгаа тул идэвхтэй хэвийн 'closed' орно. 'Was closed' бол идэвхгүй хэв тул ард нь тусагдахуун авахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The season was ___ by the Ministry of Environment.",
+   "answer": "extended",
+   "options": [
+    "extended",
+    "extend",
+    "extending",
+    "extends"
+   ],
+   "translation": "Байгаль орчны яамны шийдвэрээр улирал сунгагдсан.",
+   "explain_en": "This is a passive (was + past participle + by), so use the past participle 'extended'. Note that 'extend' is not ergative: you cannot say 'the season extended'.",
+   "explain_mn": "Идэвхгүй хэв нь was + үйл үгийн гуравдугаар хэлбэр + by байдаг тул 'extended' орно. 'Extend' нь ergative үйл үг биш тул 'the season extended' гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Fines for illegal hunting have ___ sharply this year.",
+   "answer": "risen",
+   "options": [
+    "risen",
+    "raised",
+    "rose",
+    "been risen"
+   ],
+   "translation": "Хууль бус ан агнуурын торгууль энэ жил огцом нэмэгдсэн.",
+   "explain_en": "'Rise' is intransitive (no object) and its past participle is 'risen'. 'Raise' needs an object (the ministry raised fines), and 'rose' is the simple past, not a participle.",
+   "explain_mn": "'Rise' (нэмэгдэх, өсөх) тусагдахуунгүй үйл үг бөгөөд have-ийн дараа гуравдугаар хэлбэр 'risen' орно. 'Raise' (нэмэх, өсгөх) заавал тусагдахуунтай байдаг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батболд",
+   "mn": "Сайн байна уу, Ербол ах. Та агнуурын зөвшөөрлөө үзүүлнэ үү.",
+   "en": "Hello, Yerbol. Please show me your hunting permit.",
+   "mn_latin": "Sain baina uu, Yerbol akh. Ta agnuuryn zövshöörlöö üzüülne üü."
+  },
+  {
+   "speaker": "Ербол",
+   "mn": "Энэ байна. Өнгөрсөн сард сунгуулсан.",
+   "en": "Here it is. I had it renewed last month.",
+   "mn_latin": "Ene baina. Öngörsön sard sunguulsan."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Зөв байна. Гэхдээ улирал энэ баасан гаригт хаагдана гэдгийг мэдэж байгаа биз дээ?",
+   "en": "That's fine. But you know the season closes this Friday, right?",
+   "mn_latin": "Zöv baina. Gekhdee uliral ene baasan garigt khaagdana gedgiig medej baigaa biz dee?"
+  },
+  {
+   "speaker": "Ербол",
+   "mn": "Сонссон. Цас их орсон болохоор яам улирлыг сунгана гэж бодож байсан юм.",
+   "en": "I heard. I thought the ministry would extend the season because of the heavy snow.",
+   "mn_latin": "Sonsson. Tsas ikh orson bolokhoor yaam ulirlyg sungana gej bodoj baisan yum."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Үгүй ээ, энэ жил сунгагдахгүй. Шийдвэр аль хэдийн гарсан.",
+   "en": "No, it won't be extended this year. The decision has already been made.",
+   "mn_latin": "Ügüi ee, ene jil sungagdakhgüi. Shiidver ali khediin garsan."
+  },
+  {
+   "speaker": "Ербол",
+   "mn": "Ойлголоо. Манай бүргэд зөвхөн үнэг барьдаг, хориотой амьтанд хүрдэггүй шүү.",
+   "en": "Understood. Our eagle only catches foxes. It never goes after protected animals.",
+   "mn_latin": "Oilgoloo. Manai bürged zövkhön üneg baridag, khoriotoi amitand khürdeggüi shüü."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Сайн байна. Дүрэм зөрчигдвөл торгууль ногдуулахаас гадна зөвшөөрлийг хүчингүй болгодог.",
+   "en": "Good. If the rules are broken, the permit is revoked on top of the fine.",
+   "mn_latin": "Sain baina. Dürem zörchigdvöl torguuli nogduulakhaas gadna zövshöörliig khüchingüi bolgodog."
+  }
+ ],
+ "culture_note": {
+  "en": "Most of Mongolia's eagle hunters (бүргэдчин) are Kazakhs from Bayan-Ölgii Province in the Altai, where they hunt foxes and other fur animals with golden eagles in winter. Hunting in Mongolia is regulated by the Law on Fauna, and rare species such as the snow leopard may not be hunted. Rangers in the Altai check permits and record violations, especially around protected areas.",
+  "mn": "Монголын бүргэдчдийн ихэнх нь Алтайн Баян-Өлгий аймгийн казахууд бөгөөд өвлийн улиралд бүргэдээр үнэг болон бусад үслэг амьтан агнадаг. Монголд ан агнуурыг Амьтны тухай хуулиар зохицуулдаг бөгөөд цасан ирвэс зэрэг ховор амьтныг агнахыг хориглодог. Алтайн нутагт, ялангуяа тусгай хамгаалалттай газрын орчимд байгаль хамгаалагчид зөвшөөрөл шалгаж, зөрчлийг бүртгэдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, natural lesson with accurate grammar content. There were only minor fixes: one English grammar slip, one Mongolian grammar term, and one ambiguous distractor."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "Mostly clean. Only the causative distractor in fill_blank 0 used a non-standard form, so I corrected it and updated its explanation.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'хаалуулсан' is not a standard form; the causative of хаах is хаалгах/хаалгуулах"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Match the corrected causative distractor and explain every distractor"
+   }
+  ]
+ }
+}

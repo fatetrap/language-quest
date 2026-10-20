@@ -1,0 +1,425 @@
+{
+ "intro_en": "Follow a formal debate on mining permits, river protection, and Ulaanbaatar's water future. You will review Mongolian limiting forms used in argument (зөвхөн… л, -аас бусад, -аас өөр аргагүй, ядаж, -аас хэтрэхгүй) and learn how English three-part phrasal verbs like 'put up with,' 'look forward to,' and 'stand up for' change across registers.",
+ "intro_mn": "Уул уурхайн тусгай зөвшөөрөл, голын хамгаалалт, Улаанбаатарын усны ирээдүйн талаарх албан ёсны мэтгэлцээнийг сонсоно. Монгол хэлний хязгаарлах хэлбэрүүдийг (зөвхөн… л, -аас бусад, -аас өөр аргагүй, ядаж, -аас хэтрэхгүй) давтана. Мөн англи хэлний гурван үгтэй өвөрмөц үйл үгс (put up with, look forward to, stand up for) албан болон албан бус хэллэгт хэрхэн хэрэглэгддэгийг судална.",
+ "vocab": [
+  {
+   "mn": "усны сан бүхий газар",
+   "en": "water reserve area",
+   "pos": "noun phrase",
+   "example_mn": "Усны сан бүхий газарт уул уурхай эрхлэхийг хориглоно.",
+   "example_en": "Mining is prohibited in water reserve areas.",
+   "mn_latin": "usny san bükhii gazar"
+  },
+  {
+   "mn": "тусгай зөвшөөрөл",
+   "en": "license, special permit",
+   "pos": "noun",
+   "example_mn": "Тэр компанийн тусгай зөвшөөрлийг цуцалсан.",
+   "example_en": "That company's license was revoked.",
+   "mn_latin": "tusgai zövshööröl"
+  },
+  {
+   "mn": "хамгаалалтын бүс",
+   "en": "protection zone",
+   "pos": "noun",
+   "example_mn": "Голын хамгаалалтын бүсэд барилга барьж болохгүй.",
+   "example_en": "You cannot build in a river's protection zone.",
+   "mn_latin": "khamgaalaltyn büs"
+  },
+  {
+   "mn": "тогтвортой",
+   "en": "sustainable, stable",
+   "pos": "adjective",
+   "example_mn": "Бидэнд тогтвортой шийдэл хэрэгтэй.",
+   "example_en": "We need a sustainable solution.",
+   "mn_latin": "togtvortoi"
+  },
+  {
+   "mn": "гүний ус",
+   "en": "groundwater",
+   "pos": "noun",
+   "example_mn": "Улаанбаатар гүний уснаас бараг бүрэн хамааралтай.",
+   "example_en": "Ulaanbaatar depends almost entirely on groundwater.",
+   "mn_latin": "günii us"
+  },
+  {
+   "mn": "ус ашиглалт",
+   "en": "water use",
+   "pos": "noun",
+   "example_mn": "Уурхайн ус ашиглалтыг хянах хэрэгтэй.",
+   "example_en": "The mine's water use needs to be monitored.",
+   "mn_latin": "us ashiglalt"
+  },
+  {
+   "mn": "цуцлах",
+   "en": "to revoke, to cancel",
+   "pos": "verb",
+   "example_mn": "Яам зөвшөөрлийг цуцлах шийдвэр гаргасан.",
+   "example_en": "The ministry decided to revoke the permit.",
+   "mn_latin": "tsutslakh"
+  },
+  {
+   "mn": "нөхөн сэргээлт",
+   "en": "land rehabilitation",
+   "pos": "noun",
+   "example_mn": "Уурхай хаагдсаны дараа нөхөн сэргээлт хийх ёстой.",
+   "example_en": "Rehabilitation must be carried out after a mine closes.",
+   "mn_latin": "nökhön sergeelt"
+  },
+  {
+   "mn": "эсэргүүцэх",
+   "en": "to oppose",
+   "pos": "verb",
+   "example_mn": "Нутгийн иргэд шинэ уурхайг эсэргүүцэж байна.",
+   "example_en": "Local residents are opposing the new mine.",
+   "mn_latin": "esergüütsekh"
+  },
+  {
+   "mn": "хариуцлага",
+   "en": "accountability, responsibility",
+   "pos": "noun",
+   "example_mn": "Голыг бохирдуулсан компани хариуцлага хүлээх ёстой.",
+   "example_en": "The company that polluted the river must be held accountable.",
+   "mn_latin": "khariutslaga"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хууль хэрэгжсэн тохиолдолд л бид голоо хамгаалж чадна.",
+   "en": "We can only protect our rivers if the law is enforced.",
+   "alt_mn": [
+    "Хууль хэрэгжвэл л бид голоо хамгаалж чадна.",
+    "Зөвхөн хууль хэрэгжсэн тохиолдолд бид голоо хамгаалж чадна."
+   ],
+   "alt_en": [
+    "Only if the law is enforced can we protect our rivers."
+   ],
+   "mn_latin": "Khuuli kheregjsen tokhioldold l bid goloo khamgaalj chadna."
+  },
+  {
+   "mn": "Тусгай зөвшөөрлийг зөвхөн усны сан бүхий газраас бусад газарт олгох ёстой.",
+   "en": "Licenses should be issued only outside water reserve areas.",
+   "alt_mn": [
+    "Тусгай зөвшөөрлийг усны сан бүхий газраас бусад газарт л олгох ёстой."
+   ],
+   "alt_en": [
+    "Permits should only be granted outside water reserve areas."
+   ],
+   "mn_latin": "Tusgai zövshöörliig zövkhön usny san bükhii gazraas busad gazart olgokh yostoi."
+  },
+  {
+   "mn": "Иргэд голын бохирдлыг тэвчиж суух ёсгүй.",
+   "en": "Citizens should not put up with river pollution.",
+   "alt_mn": [
+    "Иргэд голын бохирдлыг тэвчих ёсгүй."
+   ],
+   "alt_en": [
+    "Citizens should not tolerate river pollution."
+   ],
+   "mn_latin": "Irged golyn bokhirdlyg tevchij suukh yosgüi."
+  },
+  {
+   "mn": "Ядаж хамгаалалтын бүсэд барилга барихыг хориглох хэрэгтэй.",
+   "en": "At the very least, construction in protection zones should be banned.",
+   "alt_mn": [
+    "Хамгаалалтын бүсэд ядаж барилга барихыг хориглох хэрэгтэй."
+   ],
+   "alt_en": [
+    "At the very least, building in protection zones should be prohibited."
+   ],
+   "mn_latin": "Yadaj khamgaalaltyn büsed barilga barikhyg khoriglokh kheregtei."
+  },
+  {
+   "mn": "Уурхайн ус ашиглалт зөвшөөрөгдсөн хэмжээнээс хэтрэх ёсгүй.",
+   "en": "A mine's water use must not exceed the permitted amount.",
+   "alt_mn": [
+    "Уурхайн ус ашиглалт зөвшөөрсөн хэмжээнээс хэтрэх ёсгүй."
+   ],
+   "alt_en": [
+    "A mine must not use more water than the permitted amount."
+   ],
+   "mn_latin": "Uurkhain us ashiglalt zövshöörögdsön khemjeenees khetrekh yosgüi."
+  },
+  {
+   "mn": "Хуулийг цөөн хэдэн компани л зөрчиж байна.",
+   "en": "Only a handful of companies are breaking the law.",
+   "alt_mn": [
+    "Зөвхөн цөөн хэдэн компани хуулийг зөрчиж байна."
+   ],
+   "alt_en": [
+    "Only a few companies are violating the law."
+   ],
+   "mn_latin": "Khuuliig tsöön kheden kompani l zörchij baina."
+  },
+  {
+   "mn": "Тогтвортой хөгжил гэдэг нь зөвхөн эдийн засгийн өсөлт биш.",
+   "en": "Sustainable development is not just economic growth.",
+   "alt_mn": [
+    "Тогтвортой хөгжил бол зөвхөн эдийн засгийн өсөлт биш."
+   ],
+   "alt_en": [
+    "Sustainable development means more than economic growth."
+   ],
+   "mn_latin": "Togtvortoi khögjil gedeg ni zövkhön ediin zasgiin ösölt bish."
+  },
+  {
+   "mn": "Туул голыг хамгаалахын төлөө бид тууштай зогсох ёстой.",
+   "en": "We must stand up for the Tuul River.",
+   "alt_mn": [
+    "Бид Туул голыг хамгаалахын төлөө тууштай зогсох ёстой."
+   ],
+   "alt_en": [
+    "We have to stand up for the Tuul River."
+   ],
+   "mn_latin": "Tuul golyg khamgaalakhyn tölöö bid tuushtai zogsokh yostoi."
+  },
+  {
+   "mn": "Бидэнд гүний усаа хэмнэхээс өөр арга байхгүй.",
+   "en": "We have no choice but to conserve our groundwater.",
+   "alt_mn": [
+    "Гүний усаа хэмнэхээс өөр арга бидэнд алга."
+   ],
+   "alt_en": [
+    "We have no option but to save our groundwater."
+   ],
+   "mn_latin": "Bidend günii usaa khemnekhees öör arga baikhgüi."
+  },
+  {
+   "mn": "Энэ тусгай зөвшөөрлийг цуцлахаас өөр гарц алга.",
+   "en": "There is no option but to revoke this license.",
+   "alt_mn": [
+    "Энэ тусгай зөвшөөрлийг цуцлахаас өөр арга байхгүй."
+   ],
+   "alt_en": [
+    "There is no alternative to revoking this license."
+   ],
+   "mn_latin": "Ene tusgai zövshöörliig tsutslakhaas öör garts alga."
+  },
+  {
+   "mn": "Нөхөн сэргээлт хийгээгүй компанид шинэ зөвшөөрөл олгох ёсгүй.",
+   "en": "Companies that have not carried out rehabilitation should not receive new permits.",
+   "alt_mn": [
+    "Нөхөн сэргээлт хийгээгүй компанид шинэ зөвшөөрөл олгох хэрэггүй."
+   ],
+   "alt_en": [
+    "New permits should not be given to companies that haven't done rehabilitation."
+   ],
+   "mn_latin": "Nökhön sergeelt khiigeegüi kompanid shine zövshööröl olgokh yosgüi."
+  },
+  {
+   "mn": "Шинэ хууль хэрэгжихийг бид тэсэн ядан хүлээж байна.",
+   "en": "We are looking forward to the new law coming into force.",
+   "alt_mn": [
+    "Бид шинэ хууль хэрэгжихийг тэсэн ядан хүлээж байна."
+   ],
+   "alt_en": [
+    "We look forward to the new law taking effect."
+   ],
+   "mn_latin": "Shine khuuli kheregjikhiig bid tesen yadan khüleej baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Limiting forms in argument / Three-part phrasal verbs and register",
+  "title_mn": "Мэтгэлцээн дэх хязгаарлах хэлбэрүүд / Гурван үгтэй өвөрмөц үйл үг ба хэллэгийн түвшин",
+  "explain_en": "Debaters in Mongolian narrow and limit their claims with a small set of tools. 'Зөвхөн' (only) usually comes before the word it limits, and the particle 'л' often follows that word, even when 'зөвхөн' is also present: 'зөвхөн хууль хэрэгжвэл л' (only if the law is enforced). '-аас/-ээс бусад' means 'other than, except': 'усны сан бүхий газраас бусад газарт' (in areas other than water reserves). '-аас өөр арга/гарц байхгүй (алга)' means 'there is no choice but to': 'цуцлахаас өөр гарц алга'. 'Ядаж' and 'дор хаяж' mean 'at least' and set a minimum demand. '-аас хэтрэхгүй/хэтрэх ёсгүй' sets a maximum (must not exceed). Combining these lets you make precise, carefully hedged claims, which is exactly what a policy debate needs.",
+  "explain_mn": "Англи хэлэнд гурван үгээс бүрдсэн өвөрмөц үйл үг (үйл үг + дайвар + угтвар үг) олон бий. 'put up with' нь 'тэвчих' гэсэн утгатай, ярианы хэлэнд түгээмэл. Албан бичигт 'tolerate' гэж бичих нь илүү тохиромжтой. 'stand up for' нь 'хамгаалах, төлөө зогсох' гэсэн утгатай. Энэ нь албан бус болон хагас албан хэллэгт тохирно, харин илүү албан хэллэгт 'defend' эсвэл 'advocate for' гэж хэлдэг. 'look forward to' нь 'тэсэн ядан хүлээх' гэсэн утгатай бөгөөд албан захидалд ч хэрэглэдэг: 'We look forward to receiving your reply.' Анхаарах зүйл: энд 'to' нь угтвар үг тул араас нь үйл үгийн -ing хэлбэр орно. 'look forward to receive' гэвэл буруу. Эдгээр үйл үгийг салгаж болохгүй. Объект нь төгсгөлд нь орно: 'put up with pollution'.",
+  "examples": [
+   {
+    "mn": "Бид зөвхөн хамгаалалтын бүсээс гадуур л үйл ажиллагаа явуулдаг.",
+    "en": "We operate only outside the protection zones.",
+    "mn_latin": "Bid zövkhön khamgaalaltyn büsees gaduur l üil ajillagaa yavuuldag."
+   },
+   {
+    "mn": "Иргэд бохир усыг тэвчих ёсгүй.",
+    "en": "Residents shouldn't have to put up with dirty water. (formal: tolerate)",
+    "mn_latin": "Irged bokhir usyg tevchikh yosgüi."
+   },
+   {
+    "mn": "Нутгийн малчид голынхоо төлөө тууштай зогссон.",
+    "en": "Local herders stood up for their river. (formal: defended)",
+    "mn_latin": "Nutgiin malchid golynkhoo tölöö tuushtai zogsson."
+   },
+   {
+    "mn": "Бид таны хариуг хүлээж байна.",
+    "en": "We look forward to receiving your response.",
+    "mn_latin": "Bid tany khariug khüleej baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Усны сан бүхий газр___ бусад газарт л олборлолт хийхийг зөвшөөрнө.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "т",
+    "ын",
+    "тай"
+   ],
+   "translation": "Mining is permitted only in areas other than water reserve areas.",
+   "explain_en": "'Бусад' (other than, except) requires the ablative case -аас/-ээс on the noun before it. 'Газар' becomes 'газраас'.",
+   "explain_mn": "'Бусад' гэдэг үгийн өмнө орох нэр гарах тийн ялгалтай (-аас/-ээс) байна: 'газраас бусад'."
+  },
+  {
+   "lang": "mn",
+   "text": "Бидэнд хуулийг чанд мөрдөхөөс ___ арга байхгүй.",
+   "answer": "өөр",
+   "options": [
+    "өөр",
+    "дутуу",
+    "өмнө",
+    "хойш"
+   ],
+   "translation": "We have no choice but to strictly follow the law.",
+   "explain_en": "The fixed pattern '-аас/-ээс өөр арга байхгүй' means 'there is no choice but to'. The verb takes the -х form plus the ablative: мөрдөх → мөрдөхөөс.",
+   "explain_mn": "'-хаас/-хөөс өөр арга байхгүй' гэдэг тогтсон хэлбэр нь цорын ганц гарцыг илэрхийлж, утгыг хязгаарладаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ асуудлыг ___ засгийн газар шийдэж чадахгүй, иргэд ч оролцох ёстой.",
+   "answer": "зөвхөн",
+   "options": [
+    "зөвхөн",
+    "ядаж",
+    "бүр",
+    "харин"
+   ],
+   "translation": "The government alone cannot solve this problem; citizens must take part too.",
+   "explain_en": "'Зөвхөн' (only, alone) limits the subject: 'the government alone'. 'Ядаж' means 'at least' and doesn't fit the meaning here.",
+   "explain_mn": "'Зөвхөн' нь өгүүлэгдэхүүнийг хязгаарлаж, 'ганцаараа' гэсэн утгыг өгнө. 'Ядаж' нь хамгийн бага шаардлагыг заадаг тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Residents should not have to put up ___ polluted tap water.",
+   "answer": "with",
+   "options": [
+    "with",
+    "for",
+    "to",
+    "on"
+   ],
+   "translation": "Оршин суугчид бохирдсон цоргоны усыг тэвчих ёсгүй.",
+   "explain_en": "'Put up with' means 'tolerate', and the particle 'with' is fixed. 'Put up for' and 'put up to' have different meanings.",
+   "explain_mn": "'Put up with' нь 'тэвчих' гэсэн утгатай тогтмол хэллэг тул 'with' заавал орно."
+  },
+  {
+   "lang": "en",
+   "text": "We look forward to ___ your response to our proposal.",
+   "answer": "receiving",
+   "options": [
+    "receiving",
+    "receive",
+    "received",
+    "be receiving"
+   ],
+   "translation": "Бид манай саналын талаарх таны хариуг хүлээж байна.",
+   "explain_en": "In 'look forward to', 'to' is a preposition, so the verb after it takes the -ing form.",
+   "explain_mn": "'Look forward to' дахь 'to' нь угтвар үг тул араас нь үйл үгийн -ing хэлбэр орно: receiving."
+  },
+  {
+   "lang": "en",
+   "text": "Local herders stood up ___ their right to clean water.",
+   "answer": "for",
+   "options": [
+    "for",
+    "to",
+    "with",
+    "on"
+   ],
+   "translation": "Нутгийн малчид цэвэр ус хэрэглэх эрхийнхээ төлөө тууштай зогссон.",
+   "explain_en": "'Stand up for' means 'defend' or 'support'. 'Stand up to' means 'resist someone powerful', so it doesn't fit with 'right'.",
+   "explain_mn": "'Stand up for' нь 'төлөө зогсох, хамгаалах' гэсэн утгатай. 'Stand up to' нь 'хүчтэй этгээдийг эсэргүүцэх' гэсэн өөр утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Oyunaa",
+   "mn": "Эрхэм оролцогчид оо, өнөөдрийн мэтгэлцээний сэдэв бол уул уурхайн тусгай зөвшөөрөл ба голын хамгаалалт. Батбаяр аа, таны байр суурийг сонсъё.",
+   "en": "Distinguished participants, today's debate is on mining licenses and river protection. Batbayar, let's hear your position.",
+   "mn_latin": "Erkhem oroltsogchid oo, önöödriin metgeltseenii sedev bol uul uurkhain tusgai zövshööröl ba golyn khamgaalalt. Batbayar aa, tany bair suuriig sonsyo."
+  },
+  {
+   "speaker": "Batbayar",
+   "mn": "Уул уурхайгүйгээр эдийн засаг тогтвортой хөгжих боломжгүй. Бид зөвхөн хуулийн дагуу, хамгаалалтын бүсээс гадуур л үйл ажиллагаа явуулдаг.",
+   "en": "The economy cannot develop sustainably without mining. We operate strictly within the law and only outside protection zones.",
+   "mn_latin": "Uul uurkhaigüigeer ediin zasag togtvortoi khögjikh bolomjgüi. Bid zövkhön khuuliin daguu, khamgaalaltyn büsees gaduur l üil ajillagaa yavuuldag."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Гэвч олон гол ширгэсэн. Хэрэв та нар үнэхээр бүсээс гадуур л ажилладаг бол Онги гол яагаад ширгэсэн бэ?",
+   "en": "Yet many rivers have dried up. If you really work only outside the zones, why did the Ongi River dry up?",
+   "mn_latin": "Gevch olon gol shirgesen. Kherev ta nar ünekheer büsees gaduur l ajilladag bol Ongi gol yaagaad shirgesen be?"
+  },
+  {
+   "speaker": "Batbayar",
+   "mn": "Тэр бол хуучин асуудал. Одоо компани бүр нөхөн сэргээлт хийх үүрэгтэй.",
+   "en": "That is an old problem. Now every company is required to carry out rehabilitation.",
+   "mn_latin": "Ter bol khuuchin asuudal. Odoo kompani bür nökhön sergeelt khiikh üüregtei."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Үүрэгтэй байх нь хангалтгүй. Нөхөн сэргээлт хийгээгүй бол тусгай зөвшөөрлийг нь цуцлахаас өөр аргагүй.",
+   "en": "Being required is not enough. If they haven't done it, there is no choice but to revoke their license.",
+   "mn_latin": "Üüregtei baikh ni khangaltgüi. Nökhön sergeelt khiigeegüi bol tusgai zövshöörliig ni tsutslakhaas öör argagüi."
+  },
+  {
+   "speaker": "Oyunaa",
+   "mn": "Улаанбаатарын усны ирээдүйн талаар юу хэлэх вэ? Хот маань бараг бүхэлдээ гүний уснаас хамааралтай шүү дээ.",
+   "en": "What about Ulaanbaatar's water future? Our city depends almost entirely on groundwater, after all.",
+   "mn_latin": "Ulaanbaataryn usny ireedüin talaar yuu khelekh ve? Khot maani barag bükheldee günii usnaas khamaaraltai shüü dee."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Тийм учраас Туулын сав газрыг усны сан бүхий газар болгон бүрэн хамгаалах ёстой. Иргэд үүний төлөө тууштай зогсоно.",
+   "en": "That is why the Tuul basin must be fully protected as a water reserve area. Citizens will stand up for it.",
+   "mn_latin": "Tiim uchraas Tuulyn sav gazryg usny san bükhii gazar bolgon büren khamgaalakh yostoi. Irged üünii tölöö tuushtai zogsono."
+  },
+  {
+   "speaker": "Batbayar",
+   "mn": "Ядаж шинжээчдийн дүгнэлтийг хүлээж байгаад шийдвэр гаргая.",
+   "en": "Let us at least wait for the experts' findings before making a decision.",
+   "mn_latin": "Yadaj shinjeechdiin dügneltiig khüleej baigaad shiidver gargaya."
+  }
+ ],
+ "culture_note": {
+  "en": "In 2009 Mongolia passed a law banning mineral exploration and mining near river headwaters, in water protection zones, and in forested areas. It is popularly known as the 'Law with the Long Name' because its official title is so long. Herders and activists campaigned for it after rivers such as the Ongi dried up near mining sites. Enforcement remains a hot debate, especially since Ulaanbaatar draws nearly all its drinking water from groundwater in the Tuul River valley.",
+  "mn": "Монгол Улс 2009 онд \"Гол, мөрний урсац бүрэлдэх эх, усны сан бүхий газрын хамгаалалтын бүс, ойн сан бүхий газарт ашигт малтмал хайх, ашиглахыг хориглох тухай\" хуулийг баталсан. Нэр нь их урт тул олны дунд \"Урт нэртэй хууль\" гэж нэрлэгддэг. Уурхайн ойролцоох Онги зэрэг гол ширгэсний дараа малчид, иргэний хөдөлгөөнийхөн энэ хуулийн төлөө тэмцсэн. Улаанбаатар ундны усаа бараг бүхэлд нь Туул голын хөндийн гүний уснаас авдаг тул хуулийн хэрэгжилт одоо ч халуун сэдэв хэвээр байна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A strong, natural B2 lesson in both languages. It had one ambiguous fill-in distractor, one word-choice slip, one possessive mismatch in a translation, and one inaccuracy in the law's official title."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "Solid lesson overall; the fixes correct an overstated claim about Ulaanbaatar's water source and make a few small pair and wording adjustments.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "The city depends on groundwater almost entirely, not solely. This now matches the vocab item and the culture note."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "Keeps the translation in line with the corrected Mongolian line and the facts."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_en",
+    "why": "Without a comma, 'At least building…' can be misread. The fix makes 'at least' clearly limit the demand."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Adds the subject 'Бид' so it matches 'We' in the English."
+   }
+  ]
+ }
+}

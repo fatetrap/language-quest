@@ -1,0 +1,496 @@
+{
+ "intro_en": "You will learn the vocabulary for reading and summarizing a journal article, and how academic Mongolian turns clauses into noun phrases using verbal nouns such as -лт and the phrase -ын/-ийн үр дүнд. You will also see how English does the same with nominalization and the passive.",
+ "intro_mn": "Та судалгааны өгүүллийг унших, хураангуйлахад хэрэгтэй үгсийг сурна. Мөн эрдэм шинжилгээний монгол хэлэнд -лт, -ын/-ийн үр дүнд зэрэг үйл нэрийн хэлбэрээр өгүүлбэрийг нэрийн хэллэг болгодог загварыг англи хэлний nominalization болон passive-тэй харьцуулан үзнэ.",
+ "vocab": [
+  {
+   "mn": "хураангуй",
+   "en": "abstract",
+   "pos": "noun",
+   "example_mn": "Би эхлээд өгүүллийн хураангуйг уншсан.",
+   "example_en": "I read the abstract of the article first.",
+   "mn_latin": "khuraangui"
+  },
+  {
+   "mn": "арга зүй",
+   "en": "method",
+   "pos": "noun",
+   "example_mn": "Судалгааны арга зүйг тодорхой тайлбарласан байна.",
+   "example_en": "The research method is clearly explained.",
+   "mn_latin": "arga züi"
+  },
+  {
+   "mn": "өгөгдөл",
+   "en": "data",
+   "pos": "noun",
+   "example_mn": "Өгөгдлийг 200 оролцогчоос цуглуулсан.",
+   "example_en": "The data were collected from 200 participants.",
+   "mn_latin": "ögögdöl"
+  },
+  {
+   "mn": "үр дүн",
+   "en": "findings; result",
+   "pos": "noun",
+   "example_mn": "Судалгааны үр дүн сонирхолтой байлаа.",
+   "example_en": "The findings of the study were interesting.",
+   "mn_latin": "ür dün"
+  },
+  {
+   "mn": "таамаглал",
+   "en": "hypothesis",
+   "pos": "noun",
+   "example_mn": "Анхны таамаглал батлагдсан.",
+   "example_en": "The initial hypothesis was confirmed.",
+   "mn_latin": "taamaglal"
+  },
+  {
+   "mn": "дүгнэлт",
+   "en": "conclusion",
+   "pos": "noun",
+   "example_mn": "Зохиогч өгүүллийнхээ дүгнэлтийг товч бичжээ.",
+   "example_en": "The author wrote the conclusion of the article briefly.",
+   "mn_latin": "dügnelt"
+  },
+  {
+   "mn": "хязгаарлалт",
+   "en": "limitation",
+   "pos": "noun",
+   "example_mn": "Түүврийн хэмжээ нь судалгааны гол хязгаарлалт юм.",
+   "example_en": "The sample size is the main limitation of the study.",
+   "mn_latin": "khyazgaarlalt"
+  },
+  {
+   "mn": "шинжилгээ",
+   "en": "analysis",
+   "pos": "noun",
+   "example_mn": "Статистик шинжилгээг программ ашиглан хийсэн.",
+   "example_en": "The statistical analysis was done using software.",
+   "mn_latin": "shinjilgee"
+  },
+  {
+   "mn": "хураангуйлах",
+   "en": "to summarize",
+   "pos": "verb",
+   "example_mn": "Өгүүллийг гурван өгүүлбэрээр хураангуйлна уу.",
+   "example_en": "Please summarize the article in three sentences.",
+   "mn_latin": "khuraanguilakh"
+  },
+  {
+   "mn": "иш татах",
+   "en": "to cite",
+   "pos": "verb",
+   "example_mn": "Та энэ эх сурвалжаас иш татах хэрэгтэй.",
+   "example_en": "You need to cite this source.",
+   "mn_latin": "ish tatakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өгүүллийн хураангуйг эхлээд уншина уу.",
+   "en": "Please read the abstract of the article first.",
+   "alt_mn": [
+    "Өгүүллийн хураангуйг эхлээд уншаарай."
+   ],
+   "alt_en": [
+    "Read the article's abstract first, please."
+   ],
+   "mn_latin": "Ögüülliin khuraanguig ekhleed unshina uu."
+  },
+  {
+   "mn": "Өгөгдөл цуглуулалтыг гурван сарын турш явуулсан.",
+   "en": "The data collection was carried out over three months.",
+   "alt_mn": [
+    "Өгөгдөл цуглуулалт гурван сар үргэлжилсэн."
+   ],
+   "alt_en": [
+    "Data collection took place over three months."
+   ],
+   "mn_latin": "Ögögdöl tsugluulaltyg gurvan saryn tursh yavuulsan."
+  },
+  {
+   "mn": "Өгөгдлийн шинжилгээний үр дүнд таамаглал батлагдсан.",
+   "en": "As a result of the data analysis, the hypothesis was confirmed.",
+   "alt_mn": [
+    "Өгөгдлийг шинжилсний үр дүнд таамаглал батлагдсан."
+   ],
+   "alt_en": [
+    "The analysis of the data confirmed the hypothesis."
+   ],
+   "mn_latin": "Ögögdliin shinjilgeenii ür dünd taamaglal batlagdsan."
+  },
+  {
+   "mn": "Судалгааны арга зүйг дэлгэрэнгүй тайлбарласан.",
+   "en": "The research method was explained in detail.",
+   "alt_mn": [
+    "Судалгааны арга зүйг нарийвчлан тайлбарласан."
+   ],
+   "alt_en": [
+    "The research method was described in detail."
+   ],
+   "mn_latin": "Sudalgaany arga züig delgerengüi tailbarlasan."
+  },
+  {
+   "mn": "Түүврийн сонголтын явцад алдаа гарсан байж болзошгүй.",
+   "en": "Errors may have occurred in the course of sample selection.",
+   "alt_mn": [
+    "Түүвэр сонгох явцад алдаа гарсан байж магадгүй."
+   ],
+   "alt_en": [
+    "Mistakes may have been made during the sample selection process."
+   ],
+   "mn_latin": "Tüüvriin songoltyn yavtsad aldaa garsan baij bolzoshgüi."
+  },
+  {
+   "mn": "Зохиогч судалгааныхаа хязгаарлалтыг нээлттэй хэлсэн.",
+   "en": "The author openly stated the limitations of the study.",
+   "alt_mn": [
+    "Зохиогч судалгааныхаа хязгаарлалтыг илэн далангүй дурдсан."
+   ],
+   "alt_en": [
+    "The author openly acknowledged the limitations of the study."
+   ],
+   "mn_latin": "Zokhiogch sudalgaanykhaa khyazgaarlaltyg neelttei khelsen."
+  },
+  {
+   "mn": "Үр дүнгийн тайлбар нь дүгнэлттэй нийцэж байна.",
+   "en": "The interpretation of the findings is consistent with the conclusion.",
+   "alt_mn": [
+    "Үр дүнгийн тайлбар дүгнэлттэй зөрөхгүй байна."
+   ],
+   "alt_en": [
+    "The explanation of the results matches the conclusion."
+   ],
+   "mn_latin": "Ür düngiin tailbar ni dügnelttei niitsej baina."
+  },
+  {
+   "mn": "Судалгааны төлөвлөлтөд хоёр бүлгийг харьцуулсан.",
+   "en": "Two groups were compared in the research design.",
+   "alt_mn": [
+    "Судалгааг төлөвлөхдөө хоёр бүлгийг харьцуулсан."
+   ],
+   "alt_en": [
+    "The study design compared two groups."
+   ],
+   "mn_latin": "Sudalgaany tölövlöltöd khoyor bülgiig kharitsuulsan."
+  },
+  {
+   "mn": "Би өгүүллийг хоёр догол мөрөөр хураангуйлсан.",
+   "en": "I summarized the article in two paragraphs.",
+   "alt_mn": [
+    "Би өгүүллийг хоёр догол мөрөнд багтаан хураангуйлсан."
+   ],
+   "alt_en": [
+    "I wrote a two-paragraph summary of the article."
+   ],
+   "mn_latin": "Bi ögüülliig khoyor dogol möröör khuraanguilsan."
+  },
+  {
+   "mn": "Судалгааны үр дүнд шинэ таамаглал дэвшүүлсэн.",
+   "en": "As a result of the study, a new hypothesis was proposed.",
+   "alt_mn": [
+    "Судалгаа явуулсны үр дүнд шинэ таамаглал дэвшүүлсэн."
+   ],
+   "alt_en": [
+    "The study led to a new hypothesis being proposed."
+   ],
+   "mn_latin": "Sudalgaany ür dünd shine taamaglal devshüülsen."
+  },
+  {
+   "mn": "Бусад судлаачдын ажлаас иш татах ёстой.",
+   "en": "The work of other researchers must be cited.",
+   "alt_mn": [
+    "Бусад судлаачдын бүтээлээс иш татах ёстой."
+   ],
+   "alt_en": [
+    "Other researchers' work should be cited."
+   ],
+   "mn_latin": "Busad sudlaachdyn ajlaas ish tatakh yostoi."
+  },
+  {
+   "mn": "Дүгнэлтэд цаашдын судалгааны чиглэлийг санал болгосон.",
+   "en": "The conclusion suggests directions for future research.",
+   "alt_mn": [
+    "Дүгнэлтэд цаашид судлах чиглэлийг санал болгосон."
+   ],
+   "alt_en": [
+    "Directions for future research are proposed in the conclusion."
+   ],
+   "mn_latin": "Dügnelted tsaashdyn sudalgaany chigleliig sanal bolgoson."
+  }
+ ],
+ "grammar": {
+  "title_en": "Nominal style: verbal nouns replace clauses",
+  "title_mn": "Нэрлэсэн хэв маяг: үйл нэр өгүүлбэрийг орлох нь",
+  "explain_en": "Academic Mongolian prefers noun phrases to full clauses. Instead of «Бид өгөгдлийг шинжилсэн тул таамаглал батлагдсан» (Because we analyzed the data, the hypothesis was confirmed), write «Өгөгдлийн шинжилгээний үр дүнд таамаглал батлагдсан». Verbal nouns with suffixes such as -лт and -гээ (цуглуулалт, хязгаарлалт, шинжилгээ) name the action. A genitive noun + «үр дүнд» (-ын/-ийн үр дүнд) means 'as a result of', and a verbal noun in -х + «явцад» means 'in the course of' (сонгох явцад). The doer often disappears. English does the same with nominalization (analyze → analysis) and the passive (was/were + past participle): instead of «We analyzed the data», write «The analysis of the data was conducted». This makes the text sound more objective.",
+  "explain_mn": "Эрдэм шинжилгээний монгол бичиглэлд бүтэн өгүүлбэрийн оронд нэрийн хэллэг хэрэглэх нь элбэг. Жишээ нь «Бид өгөгдлийг шинжилсэн тул таамаглал батлагдсан» гэхийн оронд «Өгөгдлийн шинжилгээний үр дүнд таамаглал батлагдсан» гэж бичнэ. -лт, -гээ зэрэг дагавартай үйл нэр (цуглуулалт, хязгаарлалт, шинжилгээ) үйлийг нэрлэнэ. Харьяалахын тийн ялгалтай нэр + «үр дүнд» нь «as a result of», -х үйлт нэр + «явцад» нь «in the course of» гэсэн утгатай (сонгох явцад). Үйлдэгч ихэвчлэн орхигддог. Англи хэлэнд мөн адил nominalization (analyze → analysis) болон passive бүтцийг (was/were + V3) хэрэглэдэг: «We analyzed the data» гэхийн оронд «The analysis of the data was conducted» гэж бичнэ. Ингэснээр бичвэр объектив сонсогдоно.",
+  "examples": [
+   {
+    "mn": "Өгөгдлийг шинжилсэн тул таамаглал батлагдсан. → Өгөгдлийн шинжилгээний үр дүнд таамаглал батлагдсан.",
+    "en": "Because the data were analyzed, the hypothesis was confirmed. → As a result of the data analysis, the hypothesis was confirmed.",
+    "mn_latin": "Ögögdliig shinjilsen tul taamaglal batlagdsan. → Ögögdliin shinjilgeenii ür dünd taamaglal batlagdsan."
+   },
+   {
+    "mn": "Түүвэр сонгох явцад алдаа гарсан.",
+    "en": "Errors occurred in the course of sample selection.",
+    "mn_latin": "Tüüver songokh yavtsad aldaa garsan."
+   },
+   {
+    "mn": "Судалгааны хязгаарлалтыг дүгнэлтэд дурдсан.",
+    "en": "The limitations of the study were mentioned in the conclusion.",
+    "mn_latin": "Sudalgaany khyazgaarlaltyg dügnelted durdsan."
+   },
+   {
+    "mn": "Мэдээлэл цуглуулалтыг зургадугаар сард дуусгасан.",
+    "en": "The data collection was completed in June.",
+    "mn_latin": "Medeelel tsugluulaltyg zurgadugaar sard duusgasan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өгөгдлийн шинжилгээний ___ таамаглал батлагдсан.",
+   "answer": "үр дүнд",
+   "options": [
+    "үр дүнд",
+    "учир нь",
+    "гэж",
+    "байхад"
+   ],
+   "translation": "As a result of the data analysis, the hypothesis was confirmed.",
+   "explain_en": "«-ийн үр дүнд» is the fixed nominal phrase meaning 'as a result of' and follows a noun in the genitive.",
+   "explain_mn": "«-ийн үр дүнд» нь «as a result of» гэсэн утгатай, өмнөх нэр үг нь харьяалахын (-ийн) тийн ялгалтай байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Түүвэр сонгох ___ алдаа гарсан.",
+   "answer": "явцад",
+   "options": [
+    "явцад",
+    "тул",
+    "бөгөөд",
+    "ч гэсэн"
+   ],
+   "translation": "Errors occurred in the course of sample selection.",
+   "explain_en": "After a verbal noun in -х, «явцад» means 'in the course of / during the process of'.",
+   "explain_mn": "-х үйлийн нэрийн дараа «явцад» орвол «in the course of» гэсэн утга илэрнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Мэдээлэл ___ гурван сар үргэлжилсэн.",
+   "answer": "цуглуулалт",
+   "options": [
+    "цуглуулалт",
+    "цуглуулах",
+    "цуглуулсан тул",
+    "цуглуулдаг"
+   ],
+   "translation": "The data collection lasted three months.",
+   "explain_en": "The subject needs a noun, so the verb цуглуулах becomes the verbal noun цуглуулалт (-лт).",
+   "explain_mn": "Өгүүлбэрийн эзэн нэр үг байх тул цуглуулах гэсэн үйлээс -лт дагавраар цуглуулалт гэсэн нэр үг үүснэ."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ of the data was conducted in March.",
+   "answer": "analysis",
+   "options": [
+    "analysis",
+    "analyze",
+    "analyzed",
+    "analyzing"
+   ],
+   "translation": "Өгөгдлийн шинжилгээг гуравдугаар сард хийсэн.",
+   "explain_en": "After «The» and before «of», English needs a noun: analysis, the nominalization of analyze.",
+   "explain_mn": "«The»-ийн дараа, «of»-ийн өмнө нэр үг хэрэгтэй тул analyze-ийн нэр хэлбэр analysis орно."
+  },
+  {
+   "lang": "en",
+   "text": "The hypothesis ___ confirmed by the results.",
+   "answer": "was",
+   "options": [
+    "was",
+    "were",
+    "has",
+    "did"
+   ],
+   "translation": "Таамаглал үр дүнгээр батлагдсан.",
+   "explain_en": "Passive = be + past participle; «hypothesis» is singular, so «was».",
+   "explain_mn": "Passive нь be + V3 бүтэцтэй; hypothesis нэгдсэн тоотой тул «was» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The data ___ collected from 200 participants.",
+   "answer": "were",
+   "options": [
+    "were",
+    "have",
+    "did",
+    "being"
+   ],
+   "translation": "Өгөгдлийг 200 оролцогчоос цуглуулсан.",
+   "explain_en": "In formal academic English, «data» is usually treated as plural, so «were collected».",
+   "explain_mn": "Эрдэм шинжилгээний албан англи хэлэнд data-г ихэвчлэн олон тоогоор авдаг тул «were collected» болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Чи тэр өгүүллийг уншиж дууссан уу?",
+   "en": "Have you finished reading that article?",
+   "mn_latin": "Chi ter ögüülliig unshij duussan uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм, эхлээд хураангуйг нь уншаад, дараа нь арга зүйг нь үзсэн.",
+   "en": "Yes, I read the abstract first, and then looked at the method.",
+   "mn_latin": "Tiim, ekhleed khuraanguig ni unshaad, daraa ni arga züig ni üzsen."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Гол үр дүн нь юу байсан бэ?",
+   "en": "What were the main findings?",
+   "mn_latin": "Gol ür dün ni yuu baisan be?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Өгөгдлийн шинжилгээний үр дүнд анхны таамаглал батлагдсан байна.",
+   "en": "As a result of the data analysis, the original hypothesis was confirmed.",
+   "mn_latin": "Ögögdliin shinjilgeenii ür dünd ankhny taamaglal batlagdsan baina."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Харин судалгааны хязгаарлалт юу вэ?",
+   "en": "But what are the limitations of the study?",
+   "mn_latin": "Kharin sudalgaany khyazgaarlalt yuu ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Түүврийн хэмжээ бага, мөн зөвхөн Улаанбаатарт хийгдсэн.",
+   "en": "The sample size is small, and it was conducted only in Ulaanbaatar.",
+   "mn_latin": "Tüüvriin khemjee baga, mön zövkhön Ulaanbaatart khiigdsen."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Тэгвэл дүгнэлтийг болгоомжтой хийх хэрэгтэй юм байна.",
+   "en": "Then the conclusion has to be drawn carefully.",
+   "mn_latin": "Tegvel dügneltiig bolgoomjtoi khiikh kheregtei yum baina."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм ээ, зохиогч өөрөө ч үүнийг дурдсан.",
+   "en": "Right, the author mentioned that too.",
+   "mn_latin": "Tiim ee, zokhiogch ööröö ch üüniig durdsan."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian universities, students are increasingly expected to read international journals in English, while many national journals publish bilingual abstracts in Mongolian and English. Academic Mongolian favors long noun phrases and impersonal constructions, which makes it a close match to the passive, nominal style of English academic writing.",
+  "mn": "Монголын их дээд сургуулиудад оюутнуудаас олон улсын сэтгүүлийн өгүүллийг англиар унших шаардлага улам нэмэгдэж байгаа бөгөөд дотоодын олон сэтгүүл монгол, англи хоёр хэлээр хураангуй нийтэлдэг. Эрдэм шинжилгээний монгол хэлэнд урт нэрийн хэллэг, үйлдэгчгүй бүтэц элбэг байдаг нь англи хэлний эрдэм шинжилгээний бичвэрийн passive, нэрлэсэн хэв маягтай ойролцоо юм."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 12,
+  "notes": "Mostly good, but grammar titles and explanations were in the wrong language, one false-friend word (сурвалжлалт for survey), and a few terminology slips."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 16,
+  "notes": "Main problems: иш татах case government, дэвшсэн → дэвшүүлсэн, wrong suffixes and terms in the grammar section, an ambiguous was/were blank, and calqued academic terms.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Replace the calque 'эрдэмтдийн хэл' with the standard term; use 'нэрийн хэллэг'; no English word inside the Mongolian text"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "The phrase is genitive + үр дүнд, not '-лтын үр дүнд'"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "иш татах takes the ablative (-аас)"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "'эхлээд' is the natural word for 'first'"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "'үргэлжлүүлсэн' means 'continued (it)', which is not the same meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "'таамаглал дэвшсэн' is wrong; the correct verb is дэвшүүлэх"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "иш татах takes the ablative"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "иш татах takes the ablative"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Make the title match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Fix the wrong suffixes (Latin 'a' in -лтa, -лго) and the '-лтын үр дүнд' pattern; align with explain_mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'нэр томьёоны хэллэг' is the wrong term; align content with the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "сонгох is a verbal noun in -х, not a verb stem"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'was' is also correct English, so the answer was not unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Replace the calque 'эрдэмтдийн англи хэл' with the standard term"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Sample size is 'бага', not 'жижиг'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Fix the terms (нэрийн хэллэг, үйлдэгчгүй бүтэц) and word order; match the en version"
+   }
+  ]
+ }
+}

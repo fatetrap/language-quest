@@ -1,0 +1,392 @@
+{
+ "intro_en": "In this lesson you will learn how to book cinema tickets online, choose seats, and buy snacks at a movie theater in Ulaanbaatar. You will also learn to describe something that happened while something else was going on, using -ж байхад in Mongolian and while/when in English.",
+ "intro_mn": "Энэ хичээлээр та кино театрын тасалбарыг онлайнаар захиалах, суудал сонгох, хөнгөн зууш авах тухай ярьж сурна. Мөн нэг үйл явдал өөр үйл явдал болж байх үед тохиолдсоныг илэрхийлэхэд монгол хэлний -ж байхад, англи хэлний while/when хэрэглэхийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "тасалбар",
+   "en": "ticket",
+   "pos": "noun",
+   "example_mn": "Би хоёр тасалбар онлайнаар авсан.",
+   "example_en": "I bought two tickets online.",
+   "mn_latin": "tasalbar"
+  },
+  {
+   "mn": "суудал",
+   "en": "seat",
+   "pos": "noun",
+   "example_mn": "Манай суудал дунд хэсэгт байгаа.",
+   "example_en": "Our seats are in the middle section.",
+   "mn_latin": "suudal"
+  },
+  {
+   "mn": "үзвэр",
+   "en": "screening, showing",
+   "pos": "noun",
+   "example_mn": "Сүүлчийн үзвэр орой арван цагт эхэлнэ.",
+   "example_en": "The last screening starts at 10 p.m.",
+   "mn_latin": "üzver"
+  },
+  {
+   "mn": "хадмал орчуулга",
+   "en": "subtitles",
+   "pos": "noun",
+   "example_mn": "Энэ кино монгол хадмал орчуулгатай.",
+   "example_en": "This movie has Mongolian subtitles.",
+   "mn_latin": "khadmal orchuulga"
+  },
+  {
+   "mn": "дуу оруулга",
+   "en": "dubbing",
+   "pos": "noun",
+   "example_mn": "Хүүхдийн кинонууд ихэвчлэн дуу оруулгатай гардаг.",
+   "example_en": "Children's movies are usually shown dubbed.",
+   "mn_latin": "duu oruulga"
+  },
+  {
+   "mn": "эгнээ",
+   "en": "row",
+   "pos": "noun",
+   "example_mn": "Бид арав дахь эгнээнд сууна.",
+   "example_en": "We'll sit in the tenth row.",
+   "mn_latin": "egnee"
+  },
+  {
+   "mn": "танхим",
+   "en": "auditorium, (cinema) hall",
+   "pos": "noun",
+   "example_mn": "Гуравдугаар танхим хоёр давхарт байрладаг.",
+   "example_en": "Hall 3 is on the second floor.",
+   "mn_latin": "tankhim"
+  },
+  {
+   "mn": "захиалах",
+   "en": "to book, to reserve",
+   "pos": "verb",
+   "example_mn": "Тасалбараа урьдчилж захиалсан нь дээр.",
+   "example_en": "It's better to book your tickets in advance.",
+   "mn_latin": "zakhialakh"
+  },
+  {
+   "mn": "дэлгэц",
+   "en": "screen",
+   "pos": "noun",
+   "example_mn": "Энэ танхимын дэлгэц маш том юм.",
+   "example_en": "The screen in this hall is really big.",
+   "mn_latin": "delgets"
+  },
+  {
+   "mn": "попкорн",
+   "en": "popcorn",
+   "pos": "noun",
+   "example_mn": "Том попкорн, хоёр ундаа авъя.",
+   "example_en": "I'll get a large popcorn and two drinks.",
+   "mn_latin": "popkorn"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Кино гарч байхад миний утас дуугарсан.",
+   "en": "My phone rang while the movie was playing.",
+   "alt_mn": [
+    "Кино гарч байхад утас минь дуугарсан."
+   ],
+   "alt_en": [
+    "While the movie was playing, my phone rang."
+   ],
+   "mn_latin": "Kino garch baikhad minii utas duugarsan."
+  },
+  {
+   "mn": "Бид тасалбараа онлайнаар захиалсан.",
+   "en": "We booked our tickets online.",
+   "alt_mn": [
+    "Бид тасалбараа интернэтээр захиалсан."
+   ],
+   "alt_en": [
+    "We bought our tickets online."
+   ],
+   "mn_latin": "Bid tasalbaraa onlainaar zakhialsan."
+  },
+  {
+   "mn": "Та аль эгнээнд суумаар байна вэ?",
+   "en": "Which row would you like to sit in?",
+   "alt_mn": [
+    "Та аль эгнээнд суухыг хүсэж байна вэ?"
+   ],
+   "alt_en": [
+    "What row would you like to sit in?"
+   ],
+   "mn_latin": "Ta ali egneend suumaar baina ve?"
+  },
+  {
+   "mn": "Энэ кино хадмал орчуулгатай юу, дуу оруулгатай юу?",
+   "en": "Is this movie subtitled or dubbed?",
+   "alt_mn": [],
+   "alt_en": [
+    "Does this movie have subtitles, or is it dubbed?"
+   ],
+   "mn_latin": "Ene kino khadmal orchuulgatai yuu, duu oruulgatai yuu?"
+  },
+  {
+   "mn": "Би попкорн авч байхад үзвэр эхэлсэн.",
+   "en": "The screening started while I was buying popcorn.",
+   "alt_mn": [],
+   "alt_en": [
+    "While I was buying popcorn, the screening started."
+   ],
+   "mn_latin": "Bi popkorn avch baikhad üzver ekhelsen."
+  },
+  {
+   "mn": "Оройн есөн цагийн үзвэрт тасалбар үлдээгүй байна.",
+   "en": "There are no tickets left for the 9 p.m. screening.",
+   "alt_mn": [
+    "Есөн цагийн үзвэрийн тасалбар дууссан байна."
+   ],
+   "alt_en": [
+    "The 9 p.m. screening is sold out."
+   ],
+   "mn_latin": "Oroin yesön tsagiin üzvert tasalbar üldeegüi baina."
+  },
+  {
+   "mn": "Дэлгэцтэй хэт ойрхон суусан болохоор хүзүү минь өвдсөн.",
+   "en": "We sat too close to the screen, so my neck hurt.",
+   "alt_mn": [],
+   "alt_en": [
+    "My neck hurt because we sat too close to the screen."
+   ],
+   "mn_latin": "Delgetstei khet oirkhon suusan bolokhoor khüzüü mini övdsön."
+  },
+  {
+   "mn": "Гол дүр ярьж байхад ард сууж байсан хүн чангаар инээсэн.",
+   "en": "While the main character was talking, the person sitting behind us laughed loudly.",
+   "alt_mn": [],
+   "alt_en": [
+    "The person sitting behind us laughed loudly while the main character was talking."
+   ],
+   "mn_latin": "Gol dür yarij baikhad ard suuj baisan khün changaar ineesen."
+  },
+  {
+   "mn": "Бид танхимд ороход гэрэл аль хэдийн унтарсан байсан.",
+   "en": "When we entered the hall, the lights had already gone out.",
+   "alt_mn": [],
+   "alt_en": [
+    "When we walked into the hall, the lights were already off."
+   ],
+   "mn_latin": "Bid tankhimd orokhod gerel ali khediin untarsan baisan."
+  },
+  {
+   "mn": "Зэрэгцээ хоёр суудал үлдсэн үү?",
+   "en": "Are there two seats left next to each other?",
+   "alt_mn": [
+    "Хажуу хажуудаа хоёр суудал үлдсэн үү?"
+   ],
+   "alt_en": [
+    "Are there still two seats together?"
+   ],
+   "mn_latin": "Zeregtsee khoyor suudal üldsen üü?"
+  },
+  {
+   "mn": "Тэд хамгийн сонирхолтой хэсгийг үзэж байхад цахилгаан тасарсан.",
+   "en": "The power went out while they were watching the most exciting part.",
+   "alt_mn": [],
+   "alt_en": [
+    "While they were watching the most exciting part, the power went out."
+   ],
+   "mn_latin": "Ted khamgiin sonirkholtoi khesgiig üzej baikhad tsakhilgaan tasarsan."
+  },
+  {
+   "mn": "Би хадмал орчуулга уншиж байхад найз маань попкорноо асгачихсан.",
+   "en": "While I was reading the subtitles, my friend spilled his popcorn.",
+   "alt_mn": [],
+   "alt_en": [
+    "My friend spilled his popcorn while I was reading the subtitles."
+   ],
+   "mn_latin": "Bi khadmal orchuulga unshij baikhad naiz maani popkornoo asgachikhsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Something happened while…: -ж байхад",
+  "title_mn": "While + past continuous ба when + past simple",
+  "explain_en": "To say that one action was in progress when another happened, Mongolian puts the background action in the form verb stem + -ж/-ч + байхад (\"while … was happening\"). The interrupting action comes at the end of the sentence, usually in the past tense -сан/-сон/-сэн/-сөн. The tense is shown only once, on the final verb, so байхад itself never changes: Кино гарч байхад утас дуугарсан. \"While the movie was playing, the phone rang.\" Whether you add -ж or -ч depends on the verb stem: үзэж, уншиж, ярьж, but гарч, авч. Compare this with -хад/-хэд/-ход/-хөд (ороход \"when (we) entered\"). That form marks a single moment, much like English \"when\".",
+  "explain_mn": "Англи хэлэнд үргэлжилж байсан үйлийг past continuous (was/were + -ing) хэлбэрээр, түүнийг тасалсан богино үйлийг past simple хэлбэрээр хэлдэг. While нь ихэвчлэн үргэлжилж байсан үйлийн өмнө орно: While the movie was playing, my phone rang. Энэ нь «Кино гарч байхад утас дуугарсан» гэсэнтэй адил. When нь ихэвчлэн богино, гэнэтийн үйлийн өмнө орно: I was buying popcorn when my friend called. Санаж явах зүйл: while-ийн дараа ихэвчлэн -ing хэлбэр, when-ий дараа ихэвчлэн past simple орно. Өгүүлбэр while/when-ээр эхэлбэл таслал тавина.",
+  "examples": [
+   {
+    "mn": "Кино гарч байхад утас дуугарсан.",
+    "en": "While the movie was playing, a phone rang.",
+    "mn_latin": "Kino garch baikhad utas duugarsan."
+   },
+   {
+    "mn": "Би тасалбар захиалж байхад сайт гацсан.",
+    "en": "The website froze while I was booking the tickets.",
+    "mn_latin": "Bi tasalbar zakhialj baikhad sait gatssan."
+   },
+   {
+    "mn": "Бид суудлаа хайж байхад гэрэл унтарсан.",
+    "en": "We were looking for our seats when the lights went out.",
+    "mn_latin": "Bid suudlaa khaij baikhad gerel untarsan."
+   },
+   {
+    "mn": "Түүнийг попкорн авч байхад би ундаа авсан.",
+    "en": "While she was buying popcorn, I got the drinks.",
+    "mn_latin": "Tüüniig popkorn avch baikhad bi undaa avsan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Кино гарч ___ миний утас дуугарсан.",
+   "answer": "байхад",
+   "options": [
+    "байхад",
+    "байсан",
+    "байгаа",
+    "байна"
+   ],
+   "translation": "My phone rang while the movie was playing.",
+   "explain_en": "The background action takes -ж/-ч + байхад (\"while … was happening\"). The past tense is marked only on the final verb дуугарсан.",
+   "explain_mn": "Үргэлжилж байсан үйл -ж/-ч байхад хэлбэрээр, тасалсан үйл төгсгөлд -сан хэлбэрээр орно. Англиар энэ нь while + past continuous болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид кино үз___ байхад гэрэл унтарсан.",
+   "answer": "эж",
+   "options": [
+    "эж",
+    "аж",
+    "өж",
+    "ж"
+   ],
+   "translation": "The lights went out while we were watching the movie.",
+   "explain_en": "The stem үз- has front vowels, so vowel harmony requires -эж: үзэж байхад.",
+   "explain_mn": "Үз- үйл үгэнд эгшиг зохицох ёсоор -эж залгагдана: үзэж байхад. Англиар энэ нь while we were watching."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ кино монгол хадмал ___ гарна.",
+   "answer": "орчуулгатай",
+   "options": [
+    "орчуулгатай",
+    "орчуулгад",
+    "орчуулгын",
+    "орчуулга"
+   ],
+   "translation": "This movie will be shown with Mongolian subtitles.",
+   "explain_en": "The suffix -тай means \"with, having\". A film is хадмал орчуулгатай \"subtitled\" or дуу оруулгатай \"dubbed\".",
+   "explain_mn": "-тай/-тэй/-той дагавар «бүхий, агуулсан» гэсэн утга өгнө. Англиар «with subtitles» буюу «subtitled» гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My phone rang while the movie ___ playing.",
+   "answer": "was",
+   "options": [
+    "was",
+    "is",
+    "were",
+    "has"
+   ],
+   "translation": "Кино гарч байхад миний утас дуугарсан.",
+   "explain_en": "After \"while\" we use the past continuous: \"the movie\" is singular, so it takes \"was playing\".",
+   "explain_mn": "While-ийн дараа past continuous орно. «The movie» ганц тоо тул was playing болно."
+  },
+  {
+   "lang": "en",
+   "text": "While we were looking for our seats, the lights ___ off.",
+   "answer": "went",
+   "options": [
+    "went",
+    "go",
+    "goes",
+    "gone"
+   ],
+   "translation": "Бид суудлаа хайж байхад гэрэл унтарсан.",
+   "explain_en": "The short action that interrupts the longer one is in the past simple: \"went off\".",
+   "explain_mn": "Үргэлжилж байсан үйлийг тасалсан богино үйл past simple хэлбэрээр орно: went. «Gone» ганцаараа хэрэглэгдэхгүй, «go/goes» одоо цаг."
+  },
+  {
+   "lang": "en",
+   "text": "I was buying popcorn ___ my friend called me.",
+   "answer": "when",
+   "options": [
+    "when",
+    "while",
+    "during",
+    "since"
+   ],
+   "translation": "Намайг попкорн авч байхад найз маань залгасан.",
+   "explain_en": "Use \"when\" before the short interrupting action in the past simple (\"called\"). \"While\" usually goes before the longer, continuous action.",
+   "explain_mn": "Богино, гэнэтийн үйлийн өмнө when хэрэглэнэ. While нь ихэвчлэн үргэлжилсэн (-ing) үйлийн өмнө орно. During-ийн дараа нэр үг орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ану",
+   "mn": "Тэмүүлэн, би долоон цагийн үзвэрт хоёр тасалбар онлайнаар захиалчихлаа.",
+   "en": "Temuulen, I booked two tickets online for the seven o'clock screening.",
+   "mn_latin": "Temüülen, bi doloon tsagiin üzvert khoyor tasalbar onlainaar zakhialchikhlaa."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Гоё! Аль эгнээнд суух юм бэ? Дэлгэцтэй хэт ойрхон биш биз дээ?",
+   "en": "Nice! Which row are we in? Not too close to the screen, I hope?",
+   "mn_latin": "Goyo! Ali egneend suukh yum be? Delgetstei khet oirkhon bish biz dee?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Үгүй ээ, наймдугаар эгнээ, дундаа. Зэрэгцээ хоёр суудал арай гэж олсон.",
+   "en": "No, row eight, in the middle. I barely found two seats next to each other.",
+   "mn_latin": "Ügüi ee, naimdugaar egnee, dundaa. Zeregtsee khoyor suudal arai gej olson."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Кино дуу оруулгатай юу, хадмал орчуулгатай юу?",
+   "en": "Is the movie dubbed or subtitled?",
+   "mn_latin": "Kino duu oruulgatai yuu, khadmal orchuulgatai yuu?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Хадмал орчуулгатай. Би захиалж байхад сайт нэг гацсан, гэхдээ гайгүй ээ, амжсан.",
+   "en": "Subtitled. The website froze once while I was booking, but it's fine, I made it.",
+   "mn_latin": "Khadmal orchuulgatai. Bi zakhialj baikhad sait neg gatssan, gekhdee gaigüi ee, amjsan."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тэгвэл би попкорн, ундаа авъя. Өнгөрсөн удаа намайг дараалалд зогсож байхад кино эхэлчихсэн шүү.",
+   "en": "Then I'll get the popcorn and drinks. Last time, the movie started while I was standing in line.",
+   "mn_latin": "Tegvel bi popkorn, undaa avya. Öngörsön udaa namaig daraalald zogsoj baikhad kino ekhelchikhsen shüü."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Тийм ээ, бид танхимд ороход гэрэл аль хэдийн унтарсан байсан. Энэ удаа эрт очъё.",
+   "en": "Right, when we walked into the hall, the lights were already off. Let's get there early this time.",
+   "mn_latin": "Tiim ee, bid tankhimd orokhod gerel ali khediin untarsan baisan. Ene udaa ert ochyo."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar has several modern multiplex cinemas, such as Urgoo and Tengis, where most people now buy tickets through a website or mobile app and pick their seats on a seating map. Hollywood and Korean films are usually shown with Mongolian subtitles, while animated films for children are often dubbed into Mongolian. Mongolian films are especially popular around Tsagaan Sar and the New Year holidays.",
+  "mn": "Улаанбаатарт Өргөө, Тэнгис зэрэг орчин үеийн олон танхимтай кино театрууд бий. Ихэнх хүмүүс одоо тасалбараа вэбсайт эсвэл гар утасны аппликейшнээр авч, суудлын зураг дээрээс суудлаа сонгодог. Холливудын болон солонгос кинонууд ихэвчлэн монгол хадмал орчуулгатай гардаг бол хүүхдийн хүүхэлдэйн кинонууд ихэвчлэн монгол дуу оруулгатай байдаг. Монгол кинонууд Цагаан сар, шинэ жилийн баяраар онцгой их үзэгчтэй байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A solid, natural lesson with correct Mongolian and English; only one incomplete suffix list and one circular explanation needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is solid overall. The only fixes are Mongolian capitalization and one genitive form.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Language names are written in lowercase in Mongolian."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The nationality adjective солонгос is lowercase. Холливудын needs the genitive form to modify кинонууд."
+   }
+  ]
+ }
+}

@@ -1,0 +1,471 @@
+{
+ "intro_en": "You will learn to write a short, vivid review of a concert, film or exhibition, using evaluative vocabulary and recommendations. You will also practice Mongolian -сан юм шиг / -сан мэт and English participle clauses and as if / as though.",
+ "intro_mn": "Та концерт, кино, үзэсгэлэнгийн богино бөгөөд сонирхолтой тоймыг үнэлгээний үгс, зөвлөмжтэйгөөр бичиж сурна. Мөн монгол хэлний -сан юм шиг, -сан мэт болон англи хэлний participle clause, as if / as though бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "тойм",
+   "en": "review",
+   "pos": "noun",
+   "example_mn": "Би өчигдрийн концертын тойм бичсэн.",
+   "example_en": "I wrote a review of yesterday's concert.",
+   "mn_latin": "toim"
+  },
+  {
+   "mn": "сэтгэл татам",
+   "en": "captivating",
+   "pos": "adjective",
+   "example_mn": "Тэр жүжигчний тоглолт үнэхээр сэтгэл татам байлаа.",
+   "example_en": "The actor's performance was truly captivating.",
+   "mn_latin": "setgel tatam"
+  },
+  {
+   "mn": "гайхалтай",
+   "en": "remarkable, amazing",
+   "pos": "adjective",
+   "example_mn": "Зураачийн өнгө сонголт гайхалтай юм.",
+   "example_en": "The artist's choice of colors is remarkable.",
+   "mn_latin": "gaikhaltai"
+  },
+  {
+   "mn": "хөндөх",
+   "en": "to touch on, to address (a topic)",
+   "pos": "verb",
+   "example_mn": "Кино гэр бүлийн хүнд сэдвийг хөндсөн.",
+   "example_en": "The film touches on a heavy family theme.",
+   "mn_latin": "khöndökh"
+  },
+  {
+   "mn": "үзэгч",
+   "en": "audience member, viewer",
+   "pos": "noun",
+   "example_mn": "Үзэгчид удаан алга ташив.",
+   "example_en": "The audience applauded for a long time.",
+   "mn_latin": "üzegch"
+  },
+  {
+   "mn": "өнгө аяс",
+   "en": "tone, mood",
+   "pos": "noun",
+   "example_mn": "Киноны өнгө аяс гунигтай боловч найдвар төрүүлдэг.",
+   "example_en": "The film's tone is sad but hopeful.",
+   "mn_latin": "öngö ayas"
+  },
+  {
+   "mn": "сайшаах",
+   "en": "to praise",
+   "pos": "verb",
+   "example_mn": "Шүүмжлэгчид найруулагчийг сайшаасан.",
+   "example_en": "Critics praised the director.",
+   "mn_latin": "saishaakh"
+  },
+  {
+   "mn": "дутагдал",
+   "en": "shortcoming, flaw",
+   "pos": "noun",
+   "example_mn": "Үзэсгэлэнгийн гол дутагдал нь гэрэлтүүлэг юм.",
+   "example_en": "The exhibition's main flaw is the lighting.",
+   "mn_latin": "dutagdal"
+  },
+  {
+   "mn": "зөвлөх",
+   "en": "to recommend, to advise",
+   "pos": "verb",
+   "example_mn": "Би энэ тоглолтыг бүх хүнд зөвлөж байна.",
+   "example_en": "I recommend this performance to everyone.",
+   "mn_latin": "zövlökh"
+  },
+  {
+   "mn": "мартагдашгүй",
+   "en": "unforgettable",
+   "pos": "adjective",
+   "example_mn": "Энэ бол мартагдашгүй орой байлаа.",
+   "example_en": "It was an unforgettable evening.",
+   "mn_latin": "martagdashgüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Морин хуурын дуу сүүдэрлэсэн тал нутгийг дуудаж байгаа юм шиг сонсогдов.",
+   "en": "The morin khuur sounded as if it were calling the shadowed steppe.",
+   "alt_mn": [
+    "Морин хуурын дуу сүүдэртэй тал нутгийг дуудаж байгаа мэт сонсогдов."
+   ],
+   "alt_en": [
+    "The morin khuur sounded as though it were calling to the shadowed steppe."
+   ],
+   "mn_latin": "Morin khuuryn duu süüderlesen tal nutgiig duudaj baigaa yum shig sonsogdov."
+  },
+  {
+   "mn": "Найрал хөгжим цаг хугацаа зогссон юм шиг нам гүмхэн эхэлсэн.",
+   "en": "The orchestra began so quietly that time seemed to have stopped.",
+   "alt_mn": [
+    "Найрал хөгжим цаг хугацаа зогссон мэт нам гүмхэн эхэлсэн."
+   ],
+   "alt_en": [
+    "The orchestra began quietly, as if time had stopped."
+   ],
+   "mn_latin": "Nairal khögjim tsag khugatsaa zogsson yum shig nam gümkhen ekhelsen."
+  },
+  {
+   "mn": "Үзэсгэлэнд тавигдсан зургууд бүгд сэтгэл татам байв.",
+   "en": "The paintings displayed at the exhibition were all captivating.",
+   "alt_mn": [
+    "Үзэсгэлэнд дэлгэгдсэн зургууд бүгд сэтгэл татам байлаа."
+   ],
+   "alt_en": [
+    "All the paintings on display at the exhibition were captivating."
+   ],
+   "mn_latin": "Üzesgelend tavigdsan zurguud bügd setgel tatam baiv."
+  },
+  {
+   "mn": "Дууч хоолойгоороо танхимыг дүүргэж байгаа мэт сэтгэгдэл төрүүлсэн.",
+   "en": "The singer gave the impression of filling the hall with her voice alone.",
+   "alt_mn": [],
+   "alt_en": [
+    "The singer made it feel as though she filled the hall with her voice alone."
+   ],
+   "mn_latin": "Duuch khooloigooroo tankhimyg düürgej baigaa met setgegdel törüülsen."
+  },
+  {
+   "mn": "Хөдөөгийн амьдралыг харуулсан энэ кино үзэгчдийн сэтгэлийг хөндсөн.",
+   "en": "This film, showing rural life, touched the audience.",
+   "alt_mn": [],
+   "alt_en": [
+    "This film, which shows rural life, moved the audience.",
+    "Showing rural life, this film touched the audience."
+   ],
+   "mn_latin": "Khödöögiin amidralyg kharuulsan ene kino üzegchdiin setgeliig khöndsön."
+  },
+  {
+   "mn": "Шүүмжлэгчдийн сайшаасан тэр найруулагч дахин амжилт гаргалаа.",
+   "en": "The director, praised by critics, has succeeded again.",
+   "alt_mn": [],
+   "alt_en": [
+    "That director, whom critics praised, has succeeded again."
+   ],
+   "mn_latin": "Shüümjlegchdiin saishaasan ter nairuulagch dakhin amjilt gargalaa."
+  },
+  {
+   "mn": "Түүний сүүлчийн бүтээл хүүхэд насыг эргэн санасан юм шиг дулаахан байна.",
+   "en": "His latest work is warm, as if recalling childhood.",
+   "alt_mn": [
+    "Түүний сүүлчийн бүтээл хүүхэд насаа санасан мэт дулаахан байна."
+   ],
+   "alt_en": [
+    "His latest work is warm, as though it were remembering childhood."
+   ],
+   "mn_latin": "Tüünii süülchiin büteel khüükhed nasyg ergen sanasan yum shig dulaakhan baina."
+  },
+  {
+   "mn": "Гэрэлтүүлэг муу байсан нь үзэсгэлэнгийн гол дутагдал боловч бүтээлүүд үүнийг нөхсөн.",
+   "en": "The poor lighting was the exhibition's main flaw, but the works made up for it.",
+   "alt_mn": [],
+   "alt_en": [
+    "Poor lighting was the main flaw of the exhibition, but the works made up for it."
+   ],
+   "mn_latin": "Gereltüüleg muu baisan ni üzesgelengiin gol dutagdal bolovch büteelüüd üüniig nökhsön."
+  },
+  {
+   "mn": "Киноны өнгө аяс гунигтай боловч эцэст нь найдвар төрүүлдэг.",
+   "en": "The film's tone is sad, but in the end it gives hope.",
+   "alt_mn": [],
+   "alt_en": [
+    "The film's mood is sad, yet it ultimately inspires hope."
+   ],
+   "mn_latin": "Kinony öngö ayas gunigtai bolovch etsest ni naidvar törüüldeg."
+  },
+  {
+   "mn": "Хөөмий сонсоод уулс өөрсдөө дуулж байгаа юм шиг санагдлаа.",
+   "en": "Listening to khöömii, I felt as if the mountains themselves were singing.",
+   "alt_mn": [
+    "Хөөмий сонсоод уулс өөрсдөө дуулж байгаа мэт санагдлаа."
+   ],
+   "alt_en": [
+    "When I heard khöömii, it felt as though the mountains themselves were singing."
+   ],
+   "mn_latin": "Khöömii sonsood uuls öörsdöö duulj baigaa yum shig sanagdlaa."
+  },
+  {
+   "mn": "Хэрэв та урлагт дуртай бол энэ үзэсгэлэнг заавал үзээрэй гэж зөвлөе.",
+   "en": "If you love art, I recommend that you definitely see this exhibition.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you like art, I highly recommend seeing this exhibition."
+   ],
+   "mn_latin": "Kherev ta urlagt durtai bol ene üzesgeleng zaaval üzeerei gej zövlöye."
+  },
+  {
+   "mn": "Энэ бол удаан хугацаанд мартагдахгүй тоглолт байлаа.",
+   "en": "It was a concert that will not be forgotten for a long time.",
+   "alt_mn": [],
+   "alt_en": [
+    "This was an unforgettable performance, one that will stay with us for a long time."
+   ],
+   "mn_latin": "Ene bol udaan khugatsaand martagdakhgüi toglolt bailaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "Written comparisons and modifiers: -сан юм шиг / -сан мэт and English participle clauses",
+  "title_mn": "Бичгийн харьцуулалт ба тодотгол: -сан юм шиг / -сан мэт, англи хэлний participle clause",
+  "explain_en": "In reviews, Mongolian paints images with a verb stem + -сан/-сэн/-сон/-сөн or -ж байгаа + юм шиг or мэт: 'цаг зогссон юм шиг' (as if time had stopped). Мэт is more literary and elegant; юм шиг is slightly more conversational but fine in magazines. Use the past form for a completed image and -ж байгаа for something ongoing. Participle modifiers go BEFORE the noun: 'үзэгчдийг хөдөлгөсөн кино' (a film that moved the audience), 'шүүмжлэгчдийн сайшаасан найруулагч' (a director praised by critics). In good style, do not stack too many similes.",
+  "explain_mn": "Англи хэлэнд 'as if / as though'-ийн дараа бодит бус харьцуулалтад өнгөрсөн цаг эсвэл were хэрэглэнэ: 'It sounded as if the mountains were singing.' Participle clause нь өгүүлбэрийг товч болгоно: 'Filmed in the Gobi, the movie looks stunning.' (Говьд зураг авалтаа хийсэн кино гайхалтай харагддаг). 'A film directed by...' гэх мэт тодотгол монгол хэлний 'найруулсан кино'-той тохирно. Хэт олон participle, харьцуулалт хэрэглэвэл найруулга хүндэрнэ, тиймээс нэг тоймд цөөн, тод дүрслэл сонгоорой. Participle-ийн subject нь гол өгүүлбэрийн subject-тэй таарах ёстой.",
+  "examples": [
+   {
+    "mn": "Хөгжим тал нутгийн салхи шиг үзэгчдийг бүрхсэн мэт санагдав.",
+    "en": "The music felt as though it enveloped the audience like the wind of the steppe.",
+    "mn_latin": "Khögjim tal nutgiin salkhi shig üzegchdiig bürkhsen met sanagdav."
+   },
+   {
+    "mn": "Тайзан дээр гарсан бүжигчид хөнгөн сэвсгэр далавчтай юм шиг хөдөлж байлаа.",
+    "en": "The dancers on stage moved as if they had light, feathery wings.",
+    "mn_latin": "Taizan deer garsan büjigchid khöngön sevsger dalavchtai yum shig khödölj bailaa."
+   },
+   {
+    "mn": "Говьд зураг авалтаа хийсэн энэ кино хязгааргүй уужим харагдана.",
+    "en": "Shot in the Gobi, this film looks boundlessly spacious.",
+    "mn_latin": "Govid zurag avaltaa khiisen ene kino khyazgaargüi uujim kharagdana."
+   },
+   {
+    "mn": "Олон жилийн турш хадгалагдсан эдгээр бүтээл өнөөдөр шинэ амьсгал авсан юм шиг харагдаж байна.",
+    "en": "These works, preserved for many years, look as if they have taken a new breath today.",
+    "mn_latin": "Olon jiliin tursh khadgalagdsan edgeer büteel önöödör shine amisgal avsan yum shig kharagdaj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хөгжим цаг хугацаа зогс___ юм шиг нам гүм эхэллээ.",
+   "answer": "сон",
+   "options": [
+    "сон",
+    "сан",
+    "сэн",
+    "сөн"
+   ],
+   "translation": "The music began quietly, as if time had stopped.",
+   "explain_en": "Зогсох has the back vowel о, so the past participle is -сон before юм шиг.",
+   "explain_mn": "'Зогсох' үгэнд о эгшиг байгаа тул эгшгийн зохицлоор -сон нөхцөл орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Уулс дуулж байгаа ___ санагдлаа.",
+   "answer": "мэт",
+   "options": [
+    "мэт",
+    "гэж",
+    "байтугай",
+    "бөгөөд"
+   ],
+   "translation": "It felt as if the mountains were singing.",
+   "explain_en": "Мэт after a verb form means 'as if, like', a literary equivalent of юм шиг.",
+   "explain_mn": "Үйл үгийн дараах 'мэт' нь 'юм шиг' гэсэн утгатай, бичгийн хэлэнд тохиромжтой."
+  },
+  {
+   "lang": "mn",
+   "text": "Шүүмжлэгчдийн сайш___ найруулагч шинэ кино бүтээлээ.",
+   "answer": "аасан",
+   "options": [
+    "аасан",
+    "аах",
+    "аад",
+    "даг"
+   ],
+   "translation": "The director praised by critics made a new film.",
+   "explain_en": "The participle -сан modifies 'найруулагч' and stands before it; сайшаах + -сан gives сайшаасан.",
+   "explain_mn": "Сайшаасан гэдэг нь тодотгол болж, 'найруулагч' нэрийн өмнө орно."
+  },
+  {
+   "lang": "en",
+   "text": "The orchestra played ___ it were the last night on earth.",
+   "answer": "as if",
+   "options": [
+    "as if",
+    "even",
+    "unless",
+    "so that"
+   ],
+   "translation": "Найрал хөгжим дэлхий дээрх сүүлчийн орой мэт тоглосон.",
+   "explain_en": "'As if' introduces an unreal comparison; the subjunctive 'were' follows.",
+   "explain_mn": "'As if' нь бодит бус харьцуулалт оруулдаг бөгөөд дараа нь 'were' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ in Ulaanbaatar, the exhibition shows the city in a new light.",
+   "answer": "Held",
+   "options": [
+    "Held",
+    "Holding",
+    "Hold",
+    "Having hold"
+   ],
+   "translation": "Улаанбаатарт болсон үзэсгэлэн хотыг шинэ өнцгөөс харуулж байна.",
+   "explain_en": "Past participle 'held' has a passive meaning: the exhibition is held.",
+   "explain_mn": "Үзэсгэлэн 'зохиогддог' тул идэвхгүй утгатай past participle 'held' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ the final scene, I felt as though I had lost something.",
+   "answer": "Watching",
+   "options": [
+    "Watching",
+    "Watched",
+    "To watch",
+    "Watch"
+   ],
+   "translation": "Сүүлчийн үзэгдлийг үзэж байхдаа надад ямар нэг зүйлээ алдсан юм шиг санагдсан.",
+   "explain_en": "The subject 'I' is doing the watching, so we use the present participle.",
+   "explain_mn": "'Би' өөрөө үзэж байгаа тул идэвхтэй present participle 'Watching' зөв."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Narantuya",
+   "mn": "Өчигдөр Улсын филармонид болсон концертын тойм бичиж байна.",
+   "en": "I'm writing a review of yesterday's concert at the State Philharmonic.",
+   "mn_latin": "Öchigdör Ulsyn filarmonid bolson kontsyertyn toim bichij baina."
+  },
+  {
+   "speaker": "James",
+   "mn": "Сонин юм. Ямар сэтгэгдэл төрсөн бэ?",
+   "en": "Interesting. What was your impression?",
+   "mn_latin": "Sonin yum. Yamar setgegdel törsön be?"
+  },
+  {
+   "speaker": "Narantuya",
+   "mn": "Морин хуур тал нутгийн салхитай ярилцаж байгаа юм шиг сонсогдсон.",
+   "en": "The morin khuur sounded as if it were conversing with the steppe wind.",
+   "mn_latin": "Morin khuur tal nutgiin salkhitai yariltsaj baigaa yum shig sonsogdson."
+  },
+  {
+   "speaker": "James",
+   "mn": "Сайхан зүйрлэл байна. Дутагдал байсан уу?",
+   "en": "That's a nice image. Were there any flaws?",
+   "mn_latin": "Saikhan züirlel baina. Dutagdal baisan uu?"
+  },
+  {
+   "speaker": "Narantuya",
+   "mn": "Дуу чимээний тохиргоо арай сул байсан ч тоглолт бүхэлдээ сэтгэл татам байлаа.",
+   "en": "The sound balance was a bit weak, but the concert as a whole was captivating.",
+   "mn_latin": "Duu chimeenii tokhirgoo arai sul baisan ch toglolt bükheldee setgel tatam bailaa."
+  },
+  {
+   "speaker": "James",
+   "mn": "Тэгвэл тоймынхоо төгсгөлд зөвлөмж бич.",
+   "en": "Then write a recommendation at the end of your review.",
+   "mn_latin": "Tegvel toimynkhoo tögsgöld zövlömj bich."
+  },
+  {
+   "speaker": "Narantuya",
+   "mn": "Тиймээ, хөгжимд дуртай хүн бүхэнд зөвлөнө гэж бичнэ.",
+   "en": "Yes, I'll write that I recommend it to anyone who loves music.",
+   "mn_latin": "Tiimee, khögjimd durtai khün bükhend zövlönö gej bichne."
+  },
+  {
+   "speaker": "James",
+   "mn": "Бичиж дуусаад надад үзүүлээрэй.",
+   "en": "When you finish, show it to me.",
+   "mn_latin": "Bichij duusaad nadad üzüüleerei."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian newspapers and websites such as Montsame, Ikon.mn and culture pages in daily papers publish reviews of concerts, films and exhibitions, especially around events like the Ulaanbaatar International Film Festival or Naadam concerts. Reviewers often borrow imagery from nature and nomadic life, such as the steppe wind, galloping horses or the vast sky. This gives Mongolian reviews a poetic, spacious tone.",
+  "mn": "Монцамэ, Ikon.mn зэрэг мэдээллийн сайтууд болон өдөр тутмын сонины соёлын булангууд концерт, кино, үзэсгэлэнгийн тоймыг тогтмол нийтэлдэг, ялангуяа Улаанбаатар олон улсын кино наадам, Наадмын концерт зэрэг үйл явдлын үеэр. Тоймчид ихэвчлэн тал нутгийн салхи, давхиж буй морь, өргөн уудам тэнгэр гэх мэт байгаль, нүүдэлчин амьдралаас зүйрлэл авдаг. Энэ нь монгол тоймд яруу найргийн уужим өнгө аяс өгдөг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 12,
+  "notes": "Mostly good content, but the сайшаасан fill-in-the-blank was broken, there was one redundant sentence, and the grammar explanations had errors."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed the made-up word тоймол, several wrong word choices, a tense mismatch, the case after санагдах, and en/mn mismatches in the title and culture note.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "mn",
+    "why": "'тоймол' is not a word; the standard word for a review is 'тойм'"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_mn",
+    "why": "тоймол → тойм"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "тоймол → тойм"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "'найдвартай' means 'reliable', not 'hopeful'"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "'хөдөө аж ахуйн' means 'agricultural'; 'rural life' is 'хөдөөгийн амьдрал'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "The Mongolian is in the past tense"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "'singing themselves' is awkward and shifts the meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "The subject 'та' is needed in the conditional"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Should match title_mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'Говьд хийсэн кино' does not mean 'filmed in the Gobi'"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "More natural possessive form 'зураг авалтаа'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Spelling: эгшний → эгшгийн"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'дүр' means 'character', not 'scene'; санагдах takes надад, not би"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Should match the en version (Montsame, Ikon.mn)"
+   }
+  ]
+ }
+}

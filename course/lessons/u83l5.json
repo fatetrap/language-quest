@@ -1,0 +1,413 @@
+{
+ "intro_en": "Learn to spot phishing texts, fake QPay links, and phone scams, and to warn an older relative. You'll use -аад байна for scam attempts that keep happening and -х гээд байна for someone pushing to get something from you.",
+ "intro_mn": "Фишинг мессеж, хуурамч QPay холбоос, утасны залиланг таньж, ахмад настай хамаатан садандаа сэрэмжлүүлэг өгч сурна. Англи хэлэнд залилангийн нийтлэг аргыг \"tend to\", \"be likely to\" ашиглан тайлбарлаж сурна.",
+ "vocab": [
+  {
+   "mn": "фишинг",
+   "en": "phishing",
+   "pos": "noun",
+   "example_mn": "Энэ мессеж бол фишинг.",
+   "example_en": "This message is phishing.",
+   "mn_latin": "fishing"
+  },
+  {
+   "mn": "хуурамч",
+   "en": "fake",
+   "pos": "adjective",
+   "example_mn": "Хуурамч холбоос дээр бүү дараарай.",
+   "example_en": "Don't click on fake links.",
+   "mn_latin": "khuuramch"
+  },
+  {
+   "mn": "мэхлэх",
+   "en": "to trick, to deceive",
+   "pos": "verb",
+   "example_mn": "Тэд ахмад хүмүүсийг мэхлэх гэж оролддог.",
+   "example_en": "They try to trick older people.",
+   "mn_latin": "mekhlekh"
+  },
+  {
+   "mn": "баталгаажуулах код",
+   "en": "verification code",
+   "pos": "noun",
+   "example_mn": "Баталгаажуулах кодоо хэнд ч бүү хэлээрэй.",
+   "example_en": "Don't tell anyone your verification code.",
+   "mn_latin": "batalgaajuulakh kod"
+  },
+  {
+   "mn": "мэдээлэл алдах",
+   "en": "to lose data, to have one's information leaked",
+   "pos": "verb phrase",
+   "example_mn": "Олон хүн фишингийн улмаас мэдээллээ алддаг.",
+   "example_en": "Many people lose their data because of phishing.",
+   "mn_latin": "medeelel aldakh"
+  },
+  {
+   "mn": "залилан",
+   "en": "scam, fraud",
+   "pos": "noun",
+   "example_mn": "Энэ бол илт залилан.",
+   "example_en": "This is obviously a scam.",
+   "mn_latin": "zalilan"
+  },
+  {
+   "mn": "залилагч",
+   "en": "scammer",
+   "pos": "noun",
+   "example_mn": "Залилагч өөрийгөө банкны ажилтан гэж хэлсэн.",
+   "example_en": "The scammer said he was a bank employee.",
+   "mn_latin": "zalilagch"
+  },
+  {
+   "mn": "холбоос",
+   "en": "link",
+   "pos": "noun",
+   "example_mn": "Мессежид нэг холбоос байна.",
+   "example_en": "There's a link in the message.",
+   "mn_latin": "kholboos"
+  },
+  {
+   "mn": "сэжигтэй",
+   "en": "suspicious",
+   "pos": "adjective",
+   "example_mn": "Надад сэжигтэй дуудлага ирсэн.",
+   "example_en": "I got a suspicious call.",
+   "mn_latin": "sejigtei"
+  },
+  {
+   "mn": "сэрэмжлүүлэх",
+   "en": "to warn",
+   "pos": "verb",
+   "example_mn": "Би эмээгээ сэрэмжлүүлэх хэрэгтэй.",
+   "example_en": "I need to warn my grandma.",
+   "mn_latin": "seremjlüülekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Залилагчид ихэвчлэн хүнийг яаруулдаг.",
+   "en": "Scammers tend to create urgency.",
+   "alt_mn": [
+    "Залилагчид ихэвчлэн хүмүүсийг яаруулахыг оролддог."
+   ],
+   "alt_en": [
+    "Scammers usually create a sense of urgency.",
+    "Scammers tend to rush people."
+   ],
+   "mn_latin": "Zalilagchid ikhevchlen khüniig yaaruuldag."
+  },
+  {
+   "mn": "Үл таних дугаараас мессеж ирээд байна.",
+   "en": "I keep getting messages from an unknown number.",
+   "alt_mn": [
+    "Үл таних дугаараас мессеж ирсээр байна."
+   ],
+   "alt_en": [
+    "Messages keep coming from an unknown number."
+   ],
+   "mn_latin": "Ül tanikh dugaaraas myessyej ireed baina."
+  },
+  {
+   "mn": "Энэ хүн миний баталгаажуулах кодыг авах гээд байна.",
+   "en": "This person is trying to get my verification code.",
+   "alt_mn": [],
+   "alt_en": [
+    "This person keeps trying to get my verification code."
+   ],
+   "mn_latin": "Ene khün minii batalgaajuulakh kodyg avakh geed baina."
+  },
+  {
+   "mn": "Хуурамч QPay холбоос дээр бүү дараарай.",
+   "en": "Don't click on the fake QPay link.",
+   "alt_mn": [
+    "Хуурамч QPay холбоос дээр битгий дараарай."
+   ],
+   "alt_en": [
+    "Do not click the fake QPay link."
+   ],
+   "mn_latin": "Khuuramch QPay kholboos deer büü daraarai."
+  },
+  {
+   "mn": "Фишинг мессеж ихэвчлэн банкнаас ирсэн юм шиг харагддаг.",
+   "en": "Phishing texts tend to look like they come from a bank.",
+   "alt_mn": [
+    "Фишинг мессеж ихэвчлэн банкны мессеж шиг харагддаг."
+   ],
+   "alt_en": [
+    "Phishing messages usually look like they're from a bank."
+   ],
+   "mn_latin": "Fishing myessyej ikhevchlen banknaas irsen yum shig kharagddag."
+  },
+  {
+   "mn": "Баталгаажуулах кодоо хэнд ч бүү хэлээрэй.",
+   "en": "Don't tell anyone your verification code.",
+   "alt_mn": [
+    "Баталгаажуулах кодоо хэнд ч битгий хэлээрэй."
+   ],
+   "alt_en": [
+    "Never share your verification code with anyone."
+   ],
+   "mn_latin": "Batalgaajuulakh kodoo khend ch büü kheleerei."
+  },
+  {
+   "mn": "Тэр өөрийгөө банкны ажилтан гээд, мөнгө шилжүүл гээд байна.",
+   "en": "He says he's a bank employee and keeps telling me to transfer money.",
+   "alt_mn": [],
+   "alt_en": [
+    "He claims to be a bank employee and keeps asking me to transfer money."
+   ],
+   "mn_latin": "Ter ööriigöö bankny ajiltan geed, möngö shiljüül geed baina."
+  },
+  {
+   "mn": "Ахмад хүмүүс утсаар мэхлэгдэх магадлал илүү өндөр байдаг.",
+   "en": "Older people are more likely to be tricked over the phone.",
+   "alt_mn": [
+    "Өндөр настай хүмүүс утсаар мэхлэгдэх магадлал илүү их байдаг."
+   ],
+   "alt_en": [
+    "Elderly people are more likely to be deceived over the phone."
+   ],
+   "mn_latin": "Akhmad khümüüs utsaar mekhlegdekh magadlal ilüü öndör baidag."
+  },
+  {
+   "mn": "Ээж ээ, хэн нэгэн код асуугаад байвал утсаа шууд таслаарай.",
+   "en": "Mom, if someone keeps asking for a code, hang up right away.",
+   "alt_mn": [],
+   "alt_en": [
+    "Mom, if anyone keeps asking you for a code, hang up immediately."
+   ],
+   "mn_latin": "Eej ee, khen negen kod asuugaad baival utsaa shuud taslaarai."
+  },
+  {
+   "mn": "Би энэ холбоос дээр дарсан болохоор мэдээллээ алдсан байж магадгүй.",
+   "en": "I clicked this link, so I may have lost my data.",
+   "alt_mn": [],
+   "alt_en": [
+    "I clicked on this link, so my information might have been leaked."
+   ],
+   "mn_latin": "Bi ene kholboos deer darsan bolokhoor medeellee aldsan baij magadgüi."
+  },
+  {
+   "mn": "Сэжигтэй дуудлага ирвэл банк руугаа өөрөө залгаж шалгаарай.",
+   "en": "If you get a suspicious call, call your bank yourself to check.",
+   "alt_mn": [],
+   "alt_en": [
+    "If a suspicious call comes in, check by calling your bank yourself."
+   ],
+   "mn_latin": "Sejigtei duudlaga irvel bank ruugaa ööröö zalgaj shalgaarai."
+  },
+  {
+   "mn": "Тэд намайг сугалаанд хожсон гэж итгүүлэх гээд байна.",
+   "en": "They keep trying to convince me that I won the lottery.",
+   "alt_mn": [],
+   "alt_en": [
+    "They're trying to make me believe I won the lottery."
+   ],
+   "mn_latin": "Ted namaig sugalaand khojson gej itgüülekh geed baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "-аад байна (keeps happening) and -х гээд байна (keeps trying to)",
+  "title_mn": "\"tend to\" ба \"be likely to\": нийтлэг хэв маягийг тайлбарлах",
+  "explain_en": "When you're telling someone about an annoying situation that is still going on, Mongolian often uses the converb -аад/-ээд/-оод/-өөд + байна: \"Мессеж ирээд байна\" means 'messages keep coming.' It carries a feeling of repetition and annoyance. To describe someone pushing to get something, use the future participle -х/-ах + гээд байна: \"Код авах гээд байна\" means 'he keeps trying to get the code.' You can also quote a command directly: \"Мөнгө шилжүүл гээд байна\" means 'he keeps saying \"transfer money.\"'",
+  "explain_mn": "Англи хэлэнд ямар нэг зүйл ихэвчлэн, давтагдан тохиолддог гэдгийг \"tend to + үйл үг\" хэлбэрээр илэрхийлдэг: \"Scammers tend to create urgency\" нь \"Залилагчид ихэвчлэн яаруулдаг\" гэсэн утгатай. \"Be likely to + үйл үг\" нь ямар нэг зүйл тохиолдох магадлал өндөр гэсэн утгатай: \"Older people are more likely to answer\" нь \"Ахмад хүмүүс хариулах магадлал илүү өндөр\" гэсэн үг. Анхаар: tend-ийн араас заавал \"to\" орно. Ганц тоогоор \"it tends to\", олон тоогоор \"they tend to\" гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "Нэг дугаараас өдөржин залгаад байна.",
+    "en": "One number keeps calling me all day.",
+    "mn_latin": "Neg dugaaraas ödörjin zalgaad baina."
+   },
+   {
+    "mn": "Энэ хүн миний нууц үгийг авах гээд байна.",
+    "en": "This person is trying to get my password.",
+    "mn_latin": "Ene khün minii nuuts ügiig avakh geed baina."
+   },
+   {
+    "mn": "Фишинг мессеж ихэвчлэн албан ёсны юм шиг харагддаг.",
+    "en": "Phishing messages tend to look official.",
+    "mn_latin": "Fishing myessyej ikhevchlen alban yosny yum shig kharagddag."
+   },
+   {
+    "mn": "Яаруулж байгаа мессеж залилан байх магадлал өндөр.",
+    "en": "A message that rushes you is likely to be a scam.",
+    "mn_latin": "Yaaruulj baigaa myessyej zalilan baikh magadlal öndör."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нэг дугаараас өдөржин ___ байна.",
+   "answer": "залгаад",
+   "options": [
+    "залгаад",
+    "залгавал",
+    "залгахад",
+    "залгая"
+   ],
+   "translation": "One number keeps calling all day.",
+   "explain_en": "-аад + байна describes an action that keeps happening, often an annoying one. The other forms mean 'if it calls', 'when it calls' and 'let's call', and none of them can come before байна here.",
+   "explain_mn": "\"-аад байна\" нь үйл явдал давтагдан, үргэлжилж байгааг илэрхийлнэ. \"Өдөржин\" гэдэг үг ч үүнийг баталж байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр миний картын дугаарыг ___ гээд байна.",
+   "answer": "авах",
+   "options": [
+    "авах",
+    "авахад",
+    "авбал",
+    "авахаар"
+   ],
+   "translation": "He keeps trying to get my card number.",
+   "explain_en": "Before гээд байна, use the future participle -х/-ах. The phrase means someone is pushing to do or get something.",
+   "explain_mn": "\"-х гээд байна\" нь хэн нэгэн ямар нэг зүйл хийх гэж шахаж, оролдоод байгааг илэрхийлнэ. Тиймээс \"-х\" хэлбэр орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ бол ___ холбоос, бүү дараарай.",
+   "answer": "хуурамч",
+   "options": [
+    "хуурамч",
+    "найдвартай",
+    "албан ёсны",
+    "аюулгүй"
+   ],
+   "translation": "This is a fake link, don't click it.",
+   "explain_en": "Хуурамч means 'fake.' It's the only option that fits the warning 'don't click.' The others mean 'reliable,' 'official' and 'safe.'",
+   "explain_mn": "\"Бүү дараарай\" гэж сэрэмжлүүлж байгаа тул холбоос нь хуурамч байх ёстой."
+  },
+  {
+   "lang": "en",
+   "text": "Scammers ___ to create a sense of urgency.",
+   "answer": "tend",
+   "options": [
+    "tend",
+    "tends",
+    "tending",
+    "likely"
+   ],
+   "translation": "Залилагчид ихэвчлэн хүнийг яаруулдаг.",
+   "explain_en": "The subject \"scammers\" is plural, so the verb is \"tend\" with no -s. \"Likely\" would need \"are\" in front of it.",
+   "explain_mn": "\"Scammers\" олон тоо учраас \"tend\" (-s нөхцөлгүй) хэлбэр орно. \"Likely\" гэвэл өмнө нь \"are\" хэрэгтэй."
+  },
+  {
+   "lang": "en",
+   "text": "Older people are more ___ to answer calls from unknown numbers.",
+   "answer": "likely",
+   "options": [
+    "likely",
+    "tend",
+    "probably",
+    "possible"
+   ],
+   "translation": "Ахмад хүмүүс үл таних дугаарын дуудлагад хариулах магадлал илүү өндөр.",
+   "explain_en": "The pattern is \"be (more) likely to + verb.\" \"Probably\" and \"possible\" don't fit with \"to answer.\"",
+   "explain_mn": "\"Be more likely to + үйл үг\" нь \"... магадлал илүү өндөр\" гэсэн хэвшмэл хэллэг. \"Are more\"-ийн араас \"likely\" орно."
+  },
+  {
+   "lang": "en",
+   "text": "Phishing messages tend ___ look official.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "at",
+    "of"
+   ],
+   "translation": "Фишинг мессеж ихэвчлэн албан ёсны юм шиг харагддаг.",
+   "explain_en": "\"Tend\" is always followed by \"to\" plus the base form of a verb.",
+   "explain_mn": "\"Tend\"-ийн араас заавал \"to + үйл үгийн үндсэн хэлбэр\" орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Должин",
+   "mn": "Анар аа, надад нэг дугаараас мессеж ирээд байна. QPay-гээр төлбөрөө төл гээд байна.",
+   "en": "Anar, I keep getting messages from some number. It keeps telling me to pay a bill with QPay.",
+   "mn_latin": "Anar aa, nadad neg dugaaraas myessyej ireed baina. QPay-geer tölböröö töl geed baina."
+  },
+  {
+   "speaker": "Анар",
+   "mn": "Эмээ, тэр холбоос дээр дараагүй биз дээ? Энэ хуурамч холбоос байх магадлал өндөр.",
+   "en": "Grandma, you didn't click that link, did you? It's very likely a fake link.",
+   "mn_latin": "Emee, ter kholboos deer daraagüi biz dee? Ene khuuramch kholboos baikh magadlal öndör."
+  },
+  {
+   "speaker": "Должин",
+   "mn": "Дараагүй ээ. Гэхдээ дараа нь нэг хүн залгаад, өөрийгөө банкны ажилтан гэж хэлсэн. Утсанд ирсэн кодыг хэл гээд байна.",
+   "en": "No, I didn't. But then someone called and said he was from the bank. He keeps telling me to read him the code that came to my phone.",
+   "mn_latin": "Daraagüi ee. Gekhdee daraa ni neg khün zalgaad, ööriigöö bankny ajiltan gej khelsen. Utsand irsen kodyg khel geed baina."
+  },
+  {
+   "speaker": "Анар",
+   "mn": "Тэр бол залилагч. Таны баталгаажуулах кодыг авах гээд байна. Банк хэзээ ч код асуудаггүй.",
+   "en": "That's a scammer. He's trying to get your verification code. Banks never ask for codes.",
+   "mn_latin": "Ter bol zalilagch. Tany batalgaajuulakh kodyg avakh geed baina. Bank khezee ch kod asuudaggüi."
+  },
+  {
+   "speaker": "Должин",
+   "mn": "Тэр маш их яаруулаад байсан. Таны данс хаагдана гэж хэлсэн.",
+   "en": "He was really rushing me. He said my account would be closed.",
+   "mn_latin": "Ter mash ikh yaaruulaad baisan. Tany dans khaagdana gej khelsen."
+  },
+  {
+   "speaker": "Анар",
+   "mn": "Залилагчид ихэвчлэн ингэж яаруулдаг юм. Дахиад залгавал утсаа шууд таслаарай.",
+   "en": "Scammers tend to rush people like that. If he calls again, hang up right away.",
+   "mn_latin": "Zalilagchid ikhevchlen ingej yaaruuldag yum. Dakhiad zalgaval utsaa shuud taslaarai."
+  },
+  {
+   "speaker": "Должин",
+   "mn": "За, ойлголоо. Чи намайг сэрэмжлүүлсэнд баярлалаа, охин минь.",
+   "en": "Okay, I understand. Thank you for warning me, dear.",
+   "mn_latin": "Za, oilgoloo. Chi namaig seremjlüülsend bayarlalaa, okhin mini."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, QPay and mobile banking apps are used almost everywhere, from supermarkets to taxis, so fake payment links and messages pretending to be from banks have become common. Another frequent trick is a hacked Facebook Messenger account that asks the person's friends or relatives to lend money urgently. Many families now teach their grandparents a simple rule: never share a code, and call the person back on a number you already know.",
+  "mn": "Монголд QPay болон банкны аппликейшныг дэлгүүрээс эхлээд такси хүртэл бараг бүх газар ашигладаг. Тиймээс хуурамч төлбөрийн холбоос, банкны нэрийг барьсан мессеж түгээмэл болсон. Мөн хакердуулсан Facebook Messenger хаягаар найз, хамаатнаасаа яаралтай мөнгө зээлэх гэж бичих нь элбэг байдаг. Олон гэр бүл ахмадууддаа \"кодоо хэнд ч бүү хэл, мэддэг дугаар руугаа өөрөө эргэж залга\" гэсэн энгийн дүрэм зааж өгдөг болжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A well-built, natural lesson. The only problems were a few case-ending slips and one missing comparative."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "Mostly solid; fixed one non-equivalent alternative, one English idiom and two unnatural Mongolian phrasings in the dialogue.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "The old alt meant 'it is common for the elderly to be tricked' and dropped the 'more likely' comparison."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "en",
+    "why": "'Won the lottery' is the natural English idiom."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_en",
+    "why": "Same idiom fix."
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'банкны ажилтан байна гэсэн' is awkward; the fix is natural and matches the English."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "The natural affectionate form of address is 'охин минь', not 'миний охин'."
+   }
+  ]
+ }
+}

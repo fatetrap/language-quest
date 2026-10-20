@@ -1,0 +1,514 @@
+{
+ "intro_en": "You will learn the vocabulary of herding economics and how a herder family decides where to sell its products. You will also practice 'each' and 'every' in Mongolian with бүр and тус бүр.",
+ "intro_mn": "Та мал аж ахуйн эдийн засгийн үгсийг сурч, малчин өрх бүтээгдэхүүнээ хаана борлуулахаа хэрхэн шийддэгийг мэдэх болно. Мөн англи хэлний each, every гэсэн үгсийг монгол хэлний бүр, тус бүр-тэй харьцуулан дадлагжина.",
+ "vocab": [
+  {
+   "mn": "мал",
+   "en": "livestock",
+   "pos": "noun",
+   "example_mn": "Манай айл таван төрлийн мал тэжээдэг.",
+   "example_en": "Our family keeps five kinds of livestock.",
+   "mn_latin": "mal"
+  },
+  {
+   "mn": "бүтээгдэхүүн",
+   "en": "product",
+   "pos": "noun",
+   "example_mn": "Малын гаралтай бүтээгдэхүүн их эрэлттэй байна.",
+   "example_en": "Products from livestock are in high demand.",
+   "mn_latin": "büteegdekhüün"
+  },
+  {
+   "mn": "худалдан авагч",
+   "en": "buyer",
+   "pos": "noun",
+   "example_mn": "Худалдан авагч ноолуурын үнийг буулгаж байна.",
+   "example_en": "The buyer is lowering the price of cashmere.",
+   "mn_latin": "khudaldan avagch"
+  },
+  {
+   "mn": "зах зээл",
+   "en": "market",
+   "pos": "noun",
+   "example_mn": "Зах зээлийн үнэ жил бүр өөрчлөгддөг.",
+   "example_en": "Market prices change every year.",
+   "mn_latin": "zakh zeel"
+  },
+  {
+   "mn": "орлого",
+   "en": "income",
+   "pos": "noun",
+   "example_mn": "Ноолуур бол малчдын гол орлого.",
+   "example_en": "Cashmere is the herders' main income.",
+   "mn_latin": "orlogo"
+  },
+  {
+   "mn": "борлуулах",
+   "en": "to sell (off), to market",
+   "pos": "verb",
+   "example_mn": "Тэд сүүгээ хотод борлуулдаг.",
+   "example_en": "They sell their milk in the city.",
+   "mn_latin": "borluulakh"
+  },
+  {
+   "mn": "ноолуур",
+   "en": "cashmere",
+   "pos": "noun",
+   "example_mn": "Ноолуурын үнэ энэ жил өссөн.",
+   "example_en": "The price of cashmere rose this year.",
+   "mn_latin": "nooluur"
+  },
+  {
+   "mn": "зуучлагч",
+   "en": "middleman",
+   "pos": "noun",
+   "example_mn": "Зуучлагч малчнаас хямдаар авдаг.",
+   "example_en": "The middleman buys cheaply from the herder.",
+   "mn_latin": "zuuchlagch"
+  },
+  {
+   "mn": "тээвэрлэх",
+   "en": "to transport",
+   "pos": "verb",
+   "example_mn": "Махыг Улаанбаатар руу тээвэрлэхэд өртөг өндөр.",
+   "example_en": "Transporting meat to Ulaanbaatar is costly.",
+   "mn_latin": "teeverlekh"
+  },
+  {
+   "mn": "өртөг",
+   "en": "cost",
+   "pos": "noun",
+   "example_mn": "Түлшний үнэ өссөнөөр тээврийн өртөг нэмэгдсэн.",
+   "example_en": "As fuel prices rose, transport costs went up.",
+   "mn_latin": "örtög"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Малчин айл бүр бүтээгдэхүүнээ хаана борлуулахаа сайн бодож байна.",
+   "en": "Every herder family is thinking carefully about where to sell its products.",
+   "alt_mn": [
+    "Малчин айл бүр бүтээгдэхүүнээ хаана зарахаа сайн бодож байна."
+   ],
+   "alt_en": [
+    "Each herder family is thinking carefully about where to sell its products."
+   ],
+   "mn_latin": "Malchin ail bür büteegdekhüünee khaana borluulakhaa sain bodoj baina."
+  },
+  {
+   "mn": "Малчин тус бүр дунджаар гурван зуун толгой мал тэжээдэг.",
+   "en": "Each herder keeps an average of three hundred head of livestock.",
+   "alt_mn": [
+    "Малчин бүр дунджаар гурван зуун толгой мал тэжээдэг."
+   ],
+   "alt_en": [
+    "On average, each individual herder keeps three hundred animals."
+   ],
+   "mn_latin": "Malchin tus bür dundjaar gurvan zuun tolgoi mal tejeedeg."
+  },
+  {
+   "mn": "Худалдан авагч манай гэрт жил бүр ноолуур авахаар ирдэг.",
+   "en": "A buyer comes to our ger every year to purchase cashmere.",
+   "alt_mn": [
+    "Жил бүр манай гэрт худалдан авагч ноолуур авахаар ирдэг."
+   ],
+   "alt_en": [
+    "Every year a buyer comes to our ger to buy cashmere."
+   ],
+   "mn_latin": "Khudaldan avagch manai gert jil bür nooluur avakhaar irdeg."
+  },
+  {
+   "mn": "Зуучлагч хямдаар авдаг тул манай орлого буурдаг.",
+   "en": "Because the middleman pays so little, our income falls.",
+   "alt_mn": [
+    "Зуучлагч хямдаар авдаг учраас манай орлого буурдаг."
+   ],
+   "alt_en": [
+    "The middleman buys cheaply, so our income drops."
+   ],
+   "mn_latin": "Zuuchlagch khyamdaar avdag tul manai orlogo buurdag."
+  },
+  {
+   "mn": "Хотын зах зээл дээр үнэ илүү өндөр боловч тээврийн өртөг их.",
+   "en": "Prices are higher at the city market, but transport costs are high.",
+   "alt_mn": [
+    "Хотын зах зээлд үнэ илүү өндөр ч тээврийн зардал их."
+   ],
+   "alt_en": [
+    "The price is higher on the city market, but the transport cost is large."
+   ],
+   "mn_latin": "Khotyn zakh zeel deer üne ilüü öndör bolovch teevriin örtög ikh."
+  },
+  {
+   "mn": "Өрх тус бүр өөрийн нөхцөлд тохируулж шийдвэр гаргах хэрэгтэй.",
+   "en": "Each household needs to make decisions suited to its own circumstances.",
+   "alt_mn": [
+    "Өрх бүр өөрийн нөхцөлд тохирсон шийдвэр гаргах хэрэгтэй."
+   ],
+   "alt_en": [
+    "Every household has to make a decision that fits its own situation."
+   ],
+   "mn_latin": "Örkh tus bür ööriin nökhtsöld tokhiruulj shiidver gargakh kheregtei."
+  },
+  {
+   "mn": "Бид сүүгээ ойролцоох сумын худалдан авагчид тогтмол өгдөг.",
+   "en": "We regularly give our milk to a buyer in the nearby sum.",
+   "alt_mn": [
+    "Бид сүүгээ ойролцоох сумын худалдан авагчид тогтмол худалддаг."
+   ],
+   "alt_en": [
+    "We regularly sell our milk to a buyer in the nearby sum."
+   ],
+   "mn_latin": "Bid süügee oiroltsookh sumyn khudaldan avagchid togtmol ögdög."
+  },
+  {
+   "mn": "Намар бүр бид махаа Улаанбаатарт тээвэрлэж борлуулдаг.",
+   "en": "Every autumn we transport our meat to Ulaanbaatar and sell it.",
+   "alt_mn": [
+    "Намар болгон бид махаа Улаанбаатарт тээвэрлэж зардаг."
+   ],
+   "alt_en": [
+    "Each autumn we haul our meat to Ulaanbaatar to sell."
+   ],
+   "mn_latin": "Namar bür bid makhaa Ulaanbaatart teeverlej borluuldag."
+  },
+  {
+   "mn": "Малчин бүрт тогтвортой үнэ маш чухал.",
+   "en": "A stable price is very important to every herder.",
+   "alt_mn": [
+    "Малчин бүрийн хувьд тогтвортой үнэ маш чухал."
+   ],
+   "alt_en": [
+    "Stable prices matter greatly for each herder."
+   ],
+   "mn_latin": "Malchin bürt togtvortoi üne mash chukhal."
+  },
+  {
+   "mn": "Малчин тус бүрийн орлого өвлийн зудаас хамаардаг.",
+   "en": "Each individual herder's income depends on the winter dzud.",
+   "alt_mn": [
+    "Малчин бүрийн орлого өвлийн зудаас шалтгаалдаг."
+   ],
+   "alt_en": [
+    "The income of each single herder depends on the winter dzud."
+   ],
+   "mn_latin": "Malchin tus büriin orlogo övliin zudaas khamaardag."
+  },
+  {
+   "mn": "Зах зээлийн үнийг мэдэхгүй бол бид хохирох магадлалтай.",
+   "en": "If we do not know the market price, we are likely to lose out.",
+   "alt_mn": [
+    "Зах зээлийн үнийг мэдэхгүй бол бид алдагдал хүлээх магадлалтай."
+   ],
+   "alt_en": [
+    "Without knowing the market price, we may well lose money."
+   ],
+   "mn_latin": "Zakh zeeliin üniig medekhgüi bol bid khokhirokh magadlaltai."
+  },
+  {
+   "mn": "Хоёр сонголтын сайн, муу тал тус бүрийг нь сайтар жигнэж үзье.",
+   "en": "Let us weigh the pros and cons of each of the two options carefully.",
+   "alt_mn": [
+    "Хоёр сонголтын давуу, сул тал тус бүрийг нь сайтар жигнэж үзье."
+   ],
+   "alt_en": [
+    "Let us carefully weigh the strengths and weaknesses of each of the two choices."
+   ],
+   "mn_latin": "Khoyor songoltyn sain, muu tal tus büriig ni saitar jignej üziye."
+  }
+ ],
+ "grammar": {
+  "title_en": "Distributive бүр and тус бүр: 'each' and 'every'",
+  "title_mn": "Тус бүр, бүр: each, every",
+  "explain_en": "Put бүр after a singular noun for 'every': айл бүр (every family), жил бүр (every year). The noun stays in the base form, and case endings go on бүр: малчин бүрт (to every herder). Тус бүр stresses 'each one separately, individually': малчин тус бүр (each herder), тус бүрийг нь (each of them one by one). English 'every' sees a group as a whole; 'each' sees individuals. Бүр often covers both, while тус бүр leans to 'each'. Use болгон as a spoken alternative: намар болгон. In English, every and each take a singular noun and a singular verb: Every family has its own herd.",
+  "explain_mn": "Бүр-ийг нэгийн тооны нэр үгийн ард тавьж every гэсэн утга өгнө: айл бүр, жил бүр. Нэр үг үндсэн хэлбэрээрээ үлдэж, тийн ялгалын нөхцөл бүр-т залгана: малчин бүрт. Тус бүр нь \"нэг бүрчлэн, тус тусад нь\" гэдгийг онцолно: малчин тус бүр, тус бүрийг нь. Англи хэлний every нь бүлгийг бүхэлд нь, each нь нэг бүрийг тус тусад нь авч үзнэ. Бүр ихэвчлэн хоёуланг нь илэрхийлдэг бол тус бүр нь each-тэй илүү ойр. Ярианд болгон-ыг хэрэглэж болно: намар болгон. Англиар every ба each-ийн дараа нэр үг, үйл үг нэгийн тоонд байна: Every family has its own herd.",
+  "examples": [
+   {
+    "mn": "Айл бүр өөрийн мал сүргийг мэддэг.",
+    "en": "Every family knows its own herd.",
+    "mn_latin": "Ail bür ööriin mal sürgiig meddeg."
+   },
+   {
+    "mn": "Малчин тус бүр өөр шийдвэр гаргана.",
+    "en": "Each herder makes a different decision.",
+    "mn_latin": "Malchin tus bür öör shiidver gargana."
+   },
+   {
+    "mn": "Жил бүр зах зээлийн үнэ өөрчлөгддөг.",
+    "en": "Market prices change every year.",
+    "mn_latin": "Jil bür zakh zeeliin üne öörchlögddög."
+   },
+   {
+    "mn": "Худалдан авагч бүртэй тус тусад нь ярилцсан.",
+    "en": "We talked with each buyer separately.",
+    "mn_latin": "Khudaldan avagch bürtei tus tusad ni yariltssan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Малчин айл ___ ноолуураа зарах газраа сонгодог.",
+   "answer": "бүр",
+   "options": [
+    "бүр",
+    "бүрт",
+    "тус",
+    "ч"
+   ],
+   "translation": "Every herder family chooses where to sell its cashmere.",
+   "explain_en": "Бүр follows a singular noun and means 'every': айл бүр. It stays in its base form here as the subject.",
+   "explain_mn": "Бүр нь нэгийн тооны нэр үгийн ард орж every гэсэн утга өгнө: айл бүр. Энд өгүүлбэрийн эзэн тул нэрлэх тийн ялгалаар, нөхцөлгүй байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Малчин тус ___ өөрийн гэсэн төлөвлөгөөтэй.",
+   "answer": "бүр",
+   "options": [
+    "бүр",
+    "бүрийн",
+    "болон",
+    "л"
+   ],
+   "translation": "Each herder has his or her own plan.",
+   "explain_en": "Тус бүр is the fixed phrase for 'each individually'. The subject needs no case ending.",
+   "explain_mn": "Тус бүр нь тогтвортой хэллэг. Эзэн болсон тул нэмэлт нөхцөл авахгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Зах зээлд гарах бүртээ тээврийн ___ нэмэгддэг.",
+   "answer": "өртөг",
+   "options": [
+    "өртөг",
+    "орлого",
+    "малчин",
+    "зуучлагч"
+   ],
+   "translation": "Every time we go to the market, transport costs rise.",
+   "explain_en": "'Өртөг' means cost, which fits with transport; орлого is income, which would not rise because of transport.",
+   "explain_mn": "Тээврийн ___ гэхэд \"өртөг\" гэсэн утга тохирно. Орлого нь тээвэрлэснээс болж нэмэгддэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "___ herder in our district sells cashmere in the spring.",
+   "answer": "Every",
+   "options": [
+    "Every",
+    "Each of",
+    "All",
+    "Both"
+   ],
+   "translation": "Манай сумын малчин бүр хавар ноолуураа зардаг.",
+   "explain_en": "'Every' is followed by a singular noun and a singular verb. 'Each of' would need a plural noun, and 'All' needs a plural.",
+   "explain_mn": "Every-ийн ард нэгийн тооны нэр үг, үйл үг ирнэ. Each of-ийн ард олны тооны нэр үг, All-ийн ард олны тоо шаардлагатай."
+  },
+  {
+   "lang": "en",
+   "text": "Each of the two buyers ___ a different price.",
+   "answer": "offers",
+   "options": [
+    "offers",
+    "offer",
+    "are offering",
+    "have offered"
+   ],
+   "translation": "Хоёр худалдан авагч тус бүр өөр үнэ санал болгодог.",
+   "explain_en": "'Each' is singular even before 'of the two buyers', so the verb takes -s.",
+   "explain_mn": "Each of ... хэллэгийн дараа үйл үг нэгийн тоонд байна, тиймээс offers."
+  },
+  {
+   "lang": "en",
+   "text": "We talked to ___ buyer separately before deciding.",
+   "answer": "each",
+   "options": [
+    "each",
+    "all",
+    "every one of",
+    "most"
+   ],
+   "translation": "Бид шийдэхээсээ өмнө худалдан авагч бүртэй тус тусад нь ярилцсан.",
+   "explain_en": "'Each' emphasizes dealing with individuals one at a time, matching тус бүр and 'separately'.",
+   "explain_mn": "Each нь хүн бүрийг тус тусад нь авч үзэхийг онцолдог, тиймээс separately-тэй таарна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Энэ жил ноолуураа хаана зарах вэ? Худалдан авагч өчигдөр ирсэн.",
+   "en": "Where should we sell our cashmere this year? A buyer came yesterday.",
+   "mn_latin": "Ene jil nooluuraa khaana zarakh ve? Khudaldan avagch öchigdör irsen."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэр хэдээр авна гэсэн бэ?",
+   "en": "How much did he say he would pay?",
+   "mn_latin": "Ter khedeer avna gesen be?"
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Өнгөрсөн жилээс хямд. Зуучлагч гэдэг чинь тэгдэг шүү дээ.",
+   "en": "Less than last year. That's what middlemen do.",
+   "mn_latin": "Öngörsön jilees khyamd. Zuuchlagch gedeg chini tegdeg shüü dee."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Цэцэрлэгийн зах зээл дээр үнэ өндөр гэж сонссон. Гэхдээ тээврийн өртөг их биз.",
+   "en": "I heard prices are higher at the market in Tsetserleg. But the transport cost must be high.",
+   "mn_latin": "Tsetserlegiin zakh zeel deer üne öndör gej sonsson. Gekhdee teevriin örtög ikh biz."
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Тийм. Айл бүр үүнийг бодоод байгаа. Хөршүүд маань хамтдаа машин хөлслөхөөр болсон.",
+   "en": "Right. Every family is thinking about it. Our neighbors decided to hire a truck together.",
+   "mn_latin": "Tiim. Ail bür üüniig bodood baigaa. Khörshüüd maani khamtdaa mashin khölslökhöör bolson."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн санаа байна. Тэгвэл өрх тус бүрийн зардал буурна.",
+   "en": "Good idea. Then the cost for each household goes down.",
+   "mn_latin": "Sain sanaa baina. Tegvel örkh tus büriin zardal buurna."
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Би маргааш хөршүүдтэйгээ ярьж үзье. Орлого нэмэгдвэл хүүгийнхээ сургалтын төлбөрийг төлж чадна.",
+   "en": "I'll talk to the neighbors tomorrow. If our income rises, we can pay our son's tuition.",
+   "mn_latin": "Bi margaash khörshüüdteigee yarij üziye. Orlogo nemegdvel khüügiinkhee surgaltyn tölböriig tölj chadna."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "За, тэгье. Үнийг нь бичиж аваарай.",
+   "en": "Okay, let's do that. Make sure you write down the prices.",
+   "mn_latin": "Za, tegiye. Üniig ni bichij avaarai."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia has roughly 60 million head of livestock, and herder families in provinces like Arkhangai depend on cashmere, wool, meat, and dairy for most of their income. Many sell to middlemen who come to the ger, while others join cooperatives to negotiate better prices and share transport costs. Weather disasters such as the dzud make every family's income uncertain.",
+  "mn": "Монгол Улсад ойролцоогоор 60 сая толгой мал бий. Архангай зэрэг аймгийн малчин өрхүүд ноолуур, ноос, мах, сүүн бүтээгдэхүүнээс орлогынхоо ихэнхийг олдог. Олонх нь гэрт нь ирдэг зуучлагчид зардаг бол зарим нь хоршоонд нэгдэж, илүү сайн үнэ тохиролцож, тээврийн зардлаа хуваалцдаг. Зуд зэрэг гамшиг айл бүрийн орлогыг тодорхойгүй болгодог."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 18,
+  "notes": "Mostly good; a few grammar slips (хямд авдаг), a wrong place name, and an inaccurate grammar explanation about case placement."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 19,
+  "notes": "Fixed made-up 'жиж', unnatural 'нэг малчин тус бүр' everywhere, en/mn grammar mismatch, and dialogue/culture details.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "missing subject; herding economics"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "'хүнд эрэлттэй' unnatural; 'их эрэлттэй' = in high demand"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "'нэг малчин тус бүр' unnatural; 'head' = толгой"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "natural alternative"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "'нэг малчин тус бүр' unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "avoid duplicate of main"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "'алдах' alone incomplete; хохирох = lose out"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "'жиж' is not a word; жигнэх = weigh"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "'жиж' → жигнэж"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "fix unnatural example; match mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "en/mn mismatch; 'тоймлоно' wrong word"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "'нэг малчин тус бүр' unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "'эзэн хүн' wrong term"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "'нэг малчин тус бүр' unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "match en explanation"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "plural neighbors"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "бодох = think, not worry"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "possessive placement; 'can pay'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "match en: many, better prices"
+   }
+  ]
+ }
+}

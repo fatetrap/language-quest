@@ -1,0 +1,415 @@
+{
+ "intro_en": "In this lesson you will write a short formal report on census or survey findings. You will describe future trends with cautious wording and state limitations without overclaiming.",
+ "intro_mn": "Энэ хичээлээр та хүн амын тооллого эсвэл судалгааны үр дүнгийн талаар богино албан тайлан бичиж сурна. Ирээдүйн чиг хандлагыг болгоомжтой илэрхийлж, үр дүнгээ хэтрүүлэлгүйгээр хязгаарлалтаа тодорхой бичих болно.",
+ "vocab": [
+  {
+   "mn": "дүгнэлт",
+   "en": "conclusion",
+   "pos": "noun",
+   "example_mn": "Судалгааны дүгнэлтийг тайлангийн төгсгөлд оруулна.",
+   "example_en": "The conclusions of the study are included at the end of the report.",
+   "mn_latin": "dügnelt"
+  },
+  {
+   "mn": "хязгаарлалт",
+   "en": "limitation",
+   "pos": "noun",
+   "example_mn": "Энэ судалгааны гол хязгаарлалт нь түүврийн хэмжээ бага байсан явдал юм.",
+   "example_en": "The main limitation of this study was the small sample size.",
+   "mn_latin": "khyazgaarlalt"
+  },
+  {
+   "mn": "тооцоолол",
+   "en": "estimate, calculation",
+   "pos": "noun",
+   "example_mn": "Тооцооллоор 2030 он гэхэд Улаанбаатарын хүн ам 2 сая давах төлөвтэй.",
+   "example_en": "According to estimates, Ulaanbaatar's population is expected to exceed 2 million by 2030.",
+   "mn_latin": "tootsoolol"
+  },
+  {
+   "mn": "урьдчилсан мэдээ",
+   "en": "preliminary data",
+   "pos": "noun phrase",
+   "example_mn": "Урьдчилсан мэдээгээр ажилгүйдлийн түвшин бага зэрэг буурсан байна.",
+   "example_en": "Preliminary data show that the unemployment rate has fallen slightly.",
+   "mn_latin": "uridchilsan medee"
+  },
+  {
+   "mn": "статистик алдаа",
+   "en": "margin of error",
+   "pos": "noun phrase",
+   "example_mn": "Энэ зөрүү статистик алдааны хязгаарт багтаж байна.",
+   "example_en": "This difference is within the margin of error.",
+   "mn_latin": "statistik aldaa"
+  },
+  {
+   "mn": "чиг хандлага",
+   "en": "trend",
+   "pos": "noun",
+   "example_mn": "Сүүлийн арван жилд хотжилтын чиг хандлага тогтвортой үргэлжилж байна.",
+   "example_en": "Over the last ten years, the urbanization trend has continued steadily.",
+   "mn_latin": "chig khandlaga"
+  },
+  {
+   "mn": "хүн амын тооллого",
+   "en": "census",
+   "pos": "noun phrase",
+   "example_mn": "Хүн амын тооллогыг арван жил тутам явуулдаг.",
+   "example_en": "The census is conducted every ten years.",
+   "mn_latin": "khün amyn toollogo"
+  },
+  {
+   "mn": "таамаглал",
+   "en": "projection, forecast",
+   "pos": "noun",
+   "example_mn": "Энэ таамаглал одоогийн чиг хандлага хадгалагдана гэсэн үндэслэлд тулгуурласан.",
+   "example_en": "This projection is based on the assumption that current trends will continue.",
+   "mn_latin": "taamaglal"
+  },
+  {
+   "mn": "түүвэр",
+   "en": "sample",
+   "pos": "noun",
+   "example_mn": "Судалгааны түүвэрт 1500 өрх хамрагдсан.",
+   "example_en": "The survey sample included 1,500 households.",
+   "mn_latin": "tüüver"
+  },
+  {
+   "mn": "магадлалтай",
+   "en": "likely",
+   "pos": "adjective",
+   "example_mn": "Энэ үзүүлэлт ирэх жил өсөх магадлалтай.",
+   "example_en": "This figure is likely to rise next year.",
+   "mn_latin": "magadlaltai"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хотын хүн ам цаашид өсөх төлөвтэй.",
+   "en": "The city's population is expected to keep growing.",
+   "alt_mn": [],
+   "alt_en": [
+    "The city's population is projected to continue growing.",
+    "The city's population is expected to continue growing."
+   ],
+   "mn_latin": "Khotyn khün am tsaashid ösökh tölövtei."
+  },
+  {
+   "mn": "Урьдчилсан мэдээгээр төрөлтийн түвшин бага зэрэг буурсан байна.",
+   "en": "Preliminary data suggest that the birth rate has declined slightly.",
+   "alt_mn": [
+    "Урьдчилсан мэдээнээс үзэхэд төрөлтийн түвшин бага зэрэг буурсан байна."
+   ],
+   "alt_en": [
+    "According to preliminary data, the birth rate has fallen slightly."
+   ],
+   "mn_latin": "Uridchilsan medeegeer töröltiin tüvshin baga zereg buursan baina."
+  },
+  {
+   "mn": "Эдгээр дүгнэлтийг болгоомжтой тайлбарлах хэрэгтэй.",
+   "en": "These conclusions should be interpreted with caution.",
+   "alt_mn": [
+    "Эдгээр дүгнэлтийг болгоомжтой тайлбарлах шаардлагатай."
+   ],
+   "alt_en": [
+    "These conclusions need to be interpreted with caution."
+   ],
+   "mn_latin": "Edgeer dügneltiig bolgoomjtoi tailbarlakh kheregtei."
+  },
+  {
+   "mn": "Түүврийн хэмжээ харьцангуй бага байсан нь энэ судалгааны гол хязгаарлалт юм.",
+   "en": "The relatively small sample size is the main limitation of this study.",
+   "alt_mn": [
+    "Энэ судалгааны гол хязгаарлалт нь түүврийн хэмжээ харьцангуй бага байсан явдал юм."
+   ],
+   "alt_en": [
+    "The main limitation of this study is the relatively small sample size."
+   ],
+   "mn_latin": "Tüüvriin khemjee kharitsangui baga baisan ni ene sudalgaany gol khyazgaarlalt yum."
+  },
+  {
+   "mn": "Хоёр бүлгийн ялгаа статистик алдааны хязгаарт багтаж байгаа тул тодорхой дүгнэлт хийхэд эрт байна.",
+   "en": "Since the difference between the two groups is within the margin of error, it is too early to draw a firm conclusion.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because the difference between the two groups falls within the margin of error, it is too early to draw a firm conclusion."
+   ],
+   "mn_latin": "Khoyor bülgiin yalgaa statistik aldaany khyazgaart bagtaj baigaa tul todorkhoi dügnelt khiikhed ert baina."
+  },
+  {
+   "mn": "Тооцооллоор хөдөөгийн хүн ам 2035 он хүртэл буурсаар байх төлөвтэй.",
+   "en": "According to estimates, the rural population is projected to keep declining until 2035.",
+   "alt_mn": [],
+   "alt_en": [
+    "Estimates suggest that the rural population will continue to decline until 2035."
+   ],
+   "mn_latin": "Tootsoolloor khödöögiin khün am 2035 on khürtel buursaar baikh tölövtei."
+  },
+  {
+   "mn": "Энэ чиг хандлага цаашид хадгалагдах магадлалтай боловч баттай хэлэх боломжгүй.",
+   "en": "This trend is likely to continue, but this cannot be said with certainty.",
+   "alt_mn": [
+    "Энэ чиг хандлага цаашид үргэлжлэх магадлалтай ч баттай хэлэх боломжгүй."
+   ],
+   "alt_en": [
+    "This trend will likely continue, but we cannot say so with certainty."
+   ],
+   "mn_latin": "Ene chig khandlaga tsaashid khadgalagdakh magadlaltai bolovch battai khelekh bolomjgüi."
+  },
+  {
+   "mn": "Үр дүн нь бүс нутгаас хамааран харилцан адилгүй байна.",
+   "en": "The results vary depending on the region.",
+   "alt_mn": [
+    "Үр дүн бүс нутгаас хамаарч ялгаатай байна."
+   ],
+   "alt_en": [
+    "The results differ from region to region."
+   ],
+   "mn_latin": "Ür dün ni büs nutgaas khamaaran khariltsan adilgüi baina."
+  },
+  {
+   "mn": "Улаанбаатарын ажилгүйдлийн түвшин аймгуудтай харьцуулахад бага байна.",
+   "en": "The unemployment rate in Ulaanbaatar is lower than in the provinces.",
+   "alt_mn": [
+    "Улаанбаатарт ажилгүйдлийн түвшин аймгуудаас бага байна."
+   ],
+   "alt_en": [
+    "Compared with the provinces, Ulaanbaatar has a lower unemployment rate."
+   ],
+   "mn_latin": "Ulaanbaataryn ajilgüidliin tüvshin aimguudtai kharitsuulakhad baga baina."
+  },
+  {
+   "mn": "Энэ үр дүнг нийт хүн амд ерөнхийлөн дүгнэх боломжгүй.",
+   "en": "These results cannot be generalized to the entire population.",
+   "alt_mn": [],
+   "alt_en": [
+    "These findings cannot be generalized to the whole population."
+   ],
+   "mn_latin": "Ene ür düng niit khün amd yerönkhiilön dügnekh bolomjgüi."
+  },
+  {
+   "mn": "Хүн амын тооллогын эцсийн үр дүн гарсны дараа тооцооллыг шинэчлэх шаардлагатай.",
+   "en": "The estimates will need to be updated once the final census results are released.",
+   "alt_mn": [],
+   "alt_en": [
+    "The estimates will have to be updated after the final census results come out."
+   ],
+   "mn_latin": "Khün amyn toollogyn etssiin ür dün garsny daraa tootsoollyg shinechlekh shaardlagatai."
+  },
+  {
+   "mn": "Ерөнхийд нь дүгнэвэл, судалгааны үр дүн хотжилт үргэлжилсээр байгааг харуулж байна.",
+   "en": "Overall, the survey findings indicate that urbanization is continuing.",
+   "alt_mn": [
+    "Дүгнэж хэлэхэд, судалгааны үр дүн хотжилт үргэлжилсээр байгааг илтгэж байна."
+   ],
+   "alt_en": [
+    "In conclusion, the survey findings suggest that urbanization is continuing."
+   ],
+   "mn_latin": "Yerönkhiid ni dügnevel, sudalgaany ür dün khotjilt ürgeljilseer baigaag kharuulj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Cautious future trends in formal writing: -х төлөвтэй, -х магадлалтай, -х хандлагатай",
+  "title_mn": "Ирээдүйн чиг хандлагыг болгоомжтой илэрхийлэх: is expected to, is projected to, is likely to",
+  "explain_en": "Mongolian reports avoid the bare future form -на (\"will grow\") when the outcome is uncertain. Instead, attach a noun to the future participle -х: өсөх төлөвтэй (\"is expected to grow\"), өсөх магадлалтай (\"is likely to grow\"), өсөх хандлагатай (\"tends to grow\"). To cite a source, use the instrumental: тооцооллоор (\"according to estimates\"), урьдчилсан мэдээгээр (\"according to preliminary data\"). The structures from earlier in this unit fit inside these frames: trends (буурсаар байх), comparison (-тай харьцуулахад) and dependence (-аас хамааран). To state a limitation, use the pattern X нь ... хязгаарлалт юм.",
+  "explain_mn": "Англи хэлний албан тайланд ирээдүйг \"will\" гэж шууд хэлэхээс зайлсхийдэг. Үүний оронд: \"is expected to\" (-х төлөвтэй), \"is projected to\" (тооцооллоор -х төлөвтэй) болон \"is likely to\" (-х магадлалтай) хэллэгийг хэрэглэнэ. Эдгээрийн ард заавал үйл үгийн үндсэн хэлбэр орно: is expected to rise. Дүгнэлтийг \"suggest\", \"indicate\", \"appear to\" гэх үгээр зөөлрүүлж бичнэ. \"prove\", \"show clearly\" гэх мэт хэт итгэлтэй үгийг хэрэглэхгүй. Хязгаарлалтыг \"should be interpreted with caution\", \"cannot be generalized\" гэж илэрхийлнэ.",
+  "examples": [
+   {
+    "mn": "Хүн ам цаашид өсөх төлөвтэй.",
+    "en": "The population is expected to continue growing.",
+    "mn_latin": "Khün am tsaashid ösökh tölövtei."
+   },
+   {
+    "mn": "Тооцооллоор ажилгүйдэл 2027 он гэхэд 5 хувь хүрэх төлөвтэй.",
+    "en": "Unemployment is projected to reach 5 percent by 2027.",
+    "mn_latin": "Tootsoolloor ajilgüidel 2027 on gekhed 5 khuvi khürekh tölövtei."
+   },
+   {
+    "mn": "Энэ үзүүлэлт ирэх жил бага зэрэг буурах магадлалтай.",
+    "en": "This figure is likely to fall slightly next year.",
+    "mn_latin": "Ene üzüülelt irekh jil baga zereg buurakh magadlaltai."
+   },
+   {
+    "mn": "Үр дүн нь хотжилт үргэлжилж байгааг илтгэж байна.",
+    "en": "The results suggest that urbanization is continuing.",
+    "mn_latin": "Ür dün ni khotjilt ürgeljilj baigaag iltgej baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хотын хүн ам цаашид өсөх ___.",
+   "answer": "төлөвтэй",
+   "options": [
+    "төлөвтэй",
+    "төлөв",
+    "төлвөөр",
+    "төлвийн"
+   ],
+   "translation": "The city's population is expected to keep growing.",
+   "explain_en": "The future participle -х is followed by төлөвтэй (\"having the outlook\") to mean \"is expected to.\" It ends the sentence like a predicate, so the -тай form is needed.",
+   "explain_mn": "\"is expected to\" гэдгийг -х + төлөвтэй хэлбэрээр илэрхийлнэ. Өгүүлбэрийн өгүүлэхүүн болж байгаа тул -тай дагавартай хэлбэр зөв."
+  },
+  {
+   "lang": "mn",
+   "text": "Урьдчилсан ___ ажилгүйдэл бага зэрэг буурсан байна.",
+   "answer": "мэдээгээр",
+   "options": [
+    "мэдээгээр",
+    "мэдээнд",
+    "мэдээг",
+    "мэдээний"
+   ],
+   "translation": "According to preliminary data, unemployment has fallen slightly.",
+   "explain_en": "The instrumental case -аар/-ээр marks the source of information, meaning \"according to.\" Since мэдээ ends in a long vowel, it takes -гээр.",
+   "explain_mn": "Мэдээллийн эх сурвалжийг заахдаа үйлдэхийн тийн ялгал хэрэглэнэ. Энэ нь \"according to\" гэсэн утгатай. Урт эгшгээр төгссөн тул -гээр болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Түүврийн хэмжээ бага байсан ___ энэ судалгааны гол хязгаарлалт юм.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "ба",
+    "ч",
+    "гэж"
+   ],
+   "translation": "The small sample size is the main limitation of this study.",
+   "explain_en": "The particle нь turns the clause \"the sample size was small\" into the topic of the sentence: \"[the fact that] X ... is the main limitation.\"",
+   "explain_mn": "\"нь\" сул үг нь өмнөх өгүүлбэр хэсгийг сэдэв болгож, \"X нь ... юм\" гэсэн албан бүтцийг үүсгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The rural population is ___ to decline further.",
+   "answer": "projected",
+   "options": [
+    "projected",
+    "projecting",
+    "project",
+    "projection"
+   ],
+   "translation": "Хөдөөгийн хүн ам цаашид буурах төлөвтэй.",
+   "explain_en": "\"Is projected to\" is a passive structure, so it needs the past participle \"projected.\"",
+   "explain_mn": "\"is projected to\" нь идэвхгүй хэв бүхий бүтэц тул үйл үгийн гуравдугаар хэлбэр (projected) орно."
+  },
+  {
+   "lang": "en",
+   "text": "These results ___ be interpreted with caution.",
+   "answer": "should",
+   "options": [
+    "should",
+    "have",
+    "must to",
+    "ought"
+   ],
+   "translation": "Эдгээр үр дүнг болгоомжтой тайлбарлах хэрэгтэй.",
+   "explain_en": "\"Should\" gives advice and is followed directly by the base verb. \"Ought\" needs \"to,\" and \"must to\" is ungrammatical.",
+   "explain_mn": "\"should\"-ын ард шууд үйл үг орно. \"ought\"-ын ард \"to\" заавал шаардлагатай, харин \"must to\" гэж хэлэх нь буруу."
+  },
+  {
+   "lang": "en",
+   "text": "The difference falls ___ the margin of error.",
+   "answer": "within",
+   "options": [
+    "within",
+    "on",
+    "among",
+    "under"
+   ],
+   "translation": "Энэ ялгаа статистик алдааны хязгаарт багтаж байна.",
+   "explain_en": "The fixed expression is \"within the margin of error.\"",
+   "explain_mn": "\"within the margin of error\" гэдэг нь тогтсон хэллэг бөгөөд \"статистик алдааны хязгаарт багтах\" гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ану",
+   "mn": "Майкл, тайлангийн дүгнэлтийн хэсгийг уншаад үзсэн үү?",
+   "en": "Michael, have you read the conclusion section of the report?",
+   "mn_latin": "Maikl, tailangiin dügneltiin khesgiig unshaad üzsen üü?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Уншсан. \"Хотын хүн ам 2030 онд 2 сая болно\" гэж хэт итгэлтэй бичсэн байна лээ.",
+   "en": "I did. It says \"the city's population will reach 2 million in 2030,\" which sounds too certain.",
+   "mn_latin": "Unshsan. \"Khotyn khün am 2030 ond 2 saya bolno\" gej khet itgeltei bichsen baina lee."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Тийм ээ. \"Тооцооллоор 2030 он гэхэд 2 сая давах төлөвтэй\" гэж засвал дээр байх.",
+   "en": "Right. It would be better to change it to \"According to estimates, it is projected to exceed 2 million by 2030.\"",
+   "mn_latin": "Tiim ee. \"Tootsoolloor 2030 on gekhed 2 saya davakh tölövtei\" gej zasval deer baikh."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Бас эдгээр нь урьдчилсан мэдээ гэдгийг тодорхой дурдах хэрэгтэй.",
+   "en": "We should also clearly mention that this is preliminary data.",
+   "mn_latin": "Bas edgeer ni uridchilsan medee gedgiig todorkhoi durdakh kheregtei."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Хязгаарлалтын хэсэгт юу оруулах вэ?",
+   "en": "What should we include in the limitations section?",
+   "mn_latin": "Khyazgaarlaltyn khesegt yuu oruulakh ve?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Хөдөө орон нутагт түүвэр бага байсан. Тиймээс үр дүнг нийт хүн амд ерөнхийлөх боломжгүй.",
+   "en": "The sample in rural areas was small, so the results can't be generalized to the entire population.",
+   "mn_latin": "Khödöö oron nutagt tüüver baga baisan. Tiimees ür düng niit khün amd yerönkhiilökh bolomjgüi."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Зөв. Аймгуудын хоорондох ялгаа статистик алдааны хязгаарт багтаж байгааг ч бичье.",
+   "en": "Agreed. Let's also note that the differences between provinces fall within the margin of error.",
+   "mn_latin": "Zöv. Aimguudyn khoorondokh yalgaa statistik aldaany khyazgaart bagtaj baigaag ch bichiye."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тэгвэл мэдээлэл чиг хандлагыг харуулж байгаа ч баттай дүгнэлт хийхэд эрт байна гэж төгсгөе.",
+   "en": "Then let's end by saying that the data point to a trend, but it's too early to draw firm conclusions.",
+   "mn_latin": "Tegvel medeelel chig khandlagyg kharuulj baigaa ch battai dügnelt khiikhed ert baina gej tögsgöye."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia's National Statistics Office (NSO) conducts a population and housing census every ten years; the most recent one took place in 2020. One headline finding is that nearly half of the country's roughly 3.3 million people live in Ulaanbaatar. Many NSO releases are labeled \"урьдчилсан мэдээ\" (preliminary data) before final figures are published.",
+  "mn": "Үндэсний статистикийн хороо хүн ам, орон сууцны тооллогыг арван жил тутам явуулдаг бөгөөд хамгийн сүүлийнх нь 2020 онд болсон. Гол үр дүнгийн нэг нь улсын нийт 3.3 сая орчим хүн амын бараг тал нь Улаанбаатарт амьдарч байгаа явдал юм. Хорооноос гаргадаг олон мэдээг эцсийн тоо гарахаас өмнө \"урьдчилсан мэдээ\" гэж тэмдэглэдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 6,
+  "notes": "A strong, natural lesson with a few real errors: one vowel-harmony slip, misspelled distractor forms, an outdated census figure, and two meaning mismatches."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Mostly solid. Fixed one non-equivalent alternative, one grammar term, and two ambiguous fill-blank option sets.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "The grammar section itself glosses -х хандлагатай as 'tends to', not 'is expected to', so this alternative is not an equivalent translation."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "The standard term for the instrumental case is үйлдэхийн тийн ялгал."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'would be interpreted' is also grammatical, so the answer was not the only correct option."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'inside of' is informal but could be accepted, which makes the blank ambiguous."
+   }
+  ]
+ }
+}

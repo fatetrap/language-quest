@@ -1,0 +1,414 @@
+{
+ "intro_en": "In this lesson, you'll learn how a friend at a café might talk you into tasting an unfamiliar dish like shar tos, khailmag, or sushi. You'll practice taste words and the Mongolian 'trial' form -аад/-ээд үзэх, as in идээд үзээрэй, 'try eating it.'",
+ "intro_mn": "Энэ хичээлээр кафед найз тань шар тос, хайлмаг, суши гэх мэт танил бус хоол санал болгох нөхцөлийг үзнэ. Амт илэрхийлэх үгс болон англи хэлний try + нэр үг, try + -ing бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "амт",
+   "en": "taste, flavor",
+   "pos": "noun",
+   "example_mn": "Энэ цайны амт их өвөрмөц юм.",
+   "example_en": "This tea has a very distinctive flavor.",
+   "mn_latin": "amt"
+  },
+  {
+   "mn": "амсах",
+   "en": "to taste",
+   "pos": "verb",
+   "example_mn": "Шөлөө нэг амсаад үзээрэй.",
+   "example_en": "Try tasting the soup.",
+   "mn_latin": "amsakh"
+  },
+  {
+   "mn": "исгэлэн",
+   "en": "sour",
+   "pos": "adjective",
+   "example_mn": "Айраг бага зэрэг исгэлэн амттай.",
+   "example_en": "Airag tastes a little sour.",
+   "mn_latin": "isgelen"
+  },
+  {
+   "mn": "ер бусын",
+   "en": "unusual",
+   "pos": "adjective",
+   "example_mn": "Энэ хоол ер бусын харагдаж байна.",
+   "example_en": "This dish looks unusual.",
+   "mn_latin": "yer busyn"
+  },
+  {
+   "mn": "дасаагүй",
+   "en": "not used to",
+   "pos": "verb form (adjectival)",
+   "example_mn": "Би түүхий загасанд дасаагүй.",
+   "example_en": "I'm not used to raw fish.",
+   "mn_latin": "dasaagüi"
+  },
+  {
+   "mn": "шар тос",
+   "en": "ghee, clarified butter",
+   "pos": "noun",
+   "example_mn": "Ээж маань цайндаа шар тос хийдэг.",
+   "example_en": "My mom puts ghee in her tea.",
+   "mn_latin": "shar tos"
+  },
+  {
+   "mn": "хайлмаг",
+   "en": "khailmag (a sweet dish of butter, flour, sugar, and raisins)",
+   "pos": "noun",
+   "example_mn": "Цагаан сараар эмээ хайлмаг хийдэг.",
+   "example_en": "Grandma makes khailmag for Tsagaan Sar.",
+   "mn_latin": "khailmag"
+  },
+  {
+   "mn": "суши",
+   "en": "sushi",
+   "pos": "noun",
+   "example_mn": "Улаанбаатарт суши улам их түгээмэл болж байна.",
+   "example_en": "Sushi is becoming more and more popular in Ulaanbaatar.",
+   "mn_latin": "sushi"
+  },
+  {
+   "mn": "туршиж үзэх",
+   "en": "to try (out), to test",
+   "pos": "verb phrase",
+   "example_mn": "Би шинэ жор туршиж үзмээр байна.",
+   "example_en": "I want to try a new recipe.",
+   "mn_latin": "turshij üzekh"
+  },
+  {
+   "mn": "амттай",
+   "en": "tasty, delicious",
+   "pos": "adjective",
+   "example_mn": "Энэ хуушуур үнэхээр амттай байна.",
+   "example_en": "This khuushuur is really delicious.",
+   "mn_latin": "amttai"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ хайлмагийг нэг амсаад үзээч, чамд таалагдах байх.",
+   "en": "Try this khailmag. I think you'll like it.",
+   "alt_mn": [
+    "Энэ хайлмагийг амсаад үзээч, чамд таалагдах болов уу."
+   ],
+   "alt_en": [
+    "Try some of this khailmag. I bet you'll like it.",
+    "Have a taste of this khailmag. I think you'll like it."
+   ],
+   "mn_latin": "Ene khailmagiig neg amsaad üzeech, chamd taalagdakh baikh."
+  },
+  {
+   "mn": "Би ийм ер бусын амтанд дасаагүй ч гэсэн идээд үзье.",
+   "en": "I'm not used to such an unusual taste, but I'll give it a try.",
+   "alt_mn": [
+    "Ийм ер бусын амтанд дасаагүй ч идээд үзье."
+   ],
+   "alt_en": [
+    "I'm not used to such an unusual flavor, but I'll try it."
+   ],
+   "mn_latin": "Bi iim yer busyn amtand dasaagüi ch gesen ideed üziye."
+  },
+  {
+   "mn": "Анх суши идэхэд надад жаахан сонин санагдсан.",
+   "en": "The first time I ate sushi, it felt a little strange to me.",
+   "alt_mn": [
+    "Анх удаа суши идэхэд надад бага зэрэг сонин санагдсан."
+   ],
+   "alt_en": [
+    "When I first ate sushi, it seemed a bit strange to me."
+   ],
+   "mn_latin": "Ankh sushi idekhed nadad jaakhan sonin sanagdsan."
+  },
+  {
+   "mn": "Цайндаа шар тос хийгээд үзээрэй, амт нь огт өөр болно.",
+   "en": "Try adding ghee to your tea. It makes it taste completely different.",
+   "alt_mn": [
+    "Цайндаа шар тос хийгээд үзээрэй, амт нь тэс өөр болно."
+   ],
+   "alt_en": [
+    "Try putting some ghee in your tea. It tastes completely different."
+   ],
+   "mn_latin": "Tsaindaa shar tos khiigeed üzeerei, amt ni ogt öör bolno."
+  },
+  {
+   "mn": "Энэ тараг арай исгэлэн байна, жаахан элсэн чихэр хийгээд үзье.",
+   "en": "This yogurt is a bit too sour. Let's try adding a little sugar.",
+   "alt_mn": [
+    "Энэ тараг жаахан исгэлэн байна, бага зэрэг элсэн чихэр хийгээд үзье."
+   ],
+   "alt_en": [
+    "This yogurt is a little too sour. Let's try adding some sugar."
+   ],
+   "mn_latin": "Ene tarag arai isgelen baina, jaakhan elsen chikher khiigeed üziye."
+  },
+  {
+   "mn": "Таалагдахгүй бол идэхгүй байж болно, гэхдээ ядаж нэг амсаад үз.",
+   "en": "If you don't like it, you don't have to eat it, but at least try it once.",
+   "alt_mn": [
+    "Таалагдахгүй бол идэх албагүй, гэхдээ ядаж нэг амсаад үз."
+   ],
+   "alt_en": [
+    "You don't have to eat it if you don't like it, but at least taste it once."
+   ],
+   "mn_latin": "Taalagdakhgüi bol idekhgüi baij bolno, gekhdee yadaj neg amsaad üz."
+  },
+  {
+   "mn": "Гадаад найз маань шар тосонд дасаагүй болохоор эхэндээ болгоомжтой амссан.",
+   "en": "My foreign friend wasn't used to ghee, so at first he tasted it carefully.",
+   "alt_mn": [
+    "Гадаад найз маань шар тосонд дасаагүй тул эхэндээ болгоомжтой амссан."
+   ],
+   "alt_en": [
+    "My friend from abroad wasn't used to ghee, so he tasted it cautiously at first."
+   ],
+   "mn_latin": "Gadaad naiz maani shar tosond dasaagüi bolokhoor ekhendee bolgoomjtoi amssan."
+  },
+  {
+   "mn": "Энэ кафены хайлмаг жаахан ер бусын амттай ч гэсэн их амттай.",
+   "en": "The khailmag at this café tastes a little unusual, but it's really delicious.",
+   "alt_mn": [
+    "Энэ кафены хайлмаг бага зэрэг ер бусын амттай боловч их амттай."
+   ],
+   "alt_en": [
+    "This café's khailmag has a slightly unusual taste, but it's very good."
+   ],
+   "mn_latin": "Ene kafyeny khailmag jaakhan yer busyn amttai ch gesen ikh amttai."
+  },
+  {
+   "mn": "Сушигаа шар буурцгийн сүмсэнд дүрж идээд үзээрэй.",
+   "en": "Try dipping your sushi in soy sauce.",
+   "alt_mn": [
+    "Сушигаа шар буурцгийн сүмсэнд дүрээд идээд үзээрэй."
+   ],
+   "alt_en": [
+    "Try eating your sushi dipped in soy sauce."
+   ],
+   "mn_latin": "Sushigaa shar buurtsgiin sümsend dürj ideed üzeerei."
+  },
+  {
+   "mn": "Анх удаа айраг уухад түүний исгэлэн амт намайг гайхшруулсан.",
+   "en": "When I drank airag for the first time, its sour taste surprised me.",
+   "alt_mn": [
+    "Анх айраг уухад исгэлэн амт нь намайг гайхшруулсан."
+   ],
+   "alt_en": [
+    "The first time I tried airag, its sour taste surprised me."
+   ],
+   "mn_latin": "Ankh udaa airag uukhad tüünii isgelen amt namaig gaikhshruulsan."
+  },
+  {
+   "mn": "Шинэ хоол туршиж үзэхээс бүү ай.",
+   "en": "Don't be afraid to try new food.",
+   "alt_mn": [
+    "Шинэ хоол туршиж үзэхээс битгий ай."
+   ],
+   "alt_en": [
+    "Don't be afraid of trying new food.",
+    "Don't be afraid to try new foods."
+   ],
+   "mn_latin": "Shine khool turshij üzekhees büü ai."
+  },
+  {
+   "mn": "Хүүхдүүд ногоонд дасаагүй байсан тул бид шинэ жороор хийгээд үзсэн.",
+   "en": "The kids weren't used to vegetables, so we tried a new recipe.",
+   "alt_mn": [
+    "Хүүхдүүд ногоонд дасаагүй байсан болохоор бид шинэ жороор хийгээд үзсэн."
+   ],
+   "alt_en": [
+    "The kids weren't used to vegetables, so we tried making them with a new recipe."
+   ],
+   "mn_latin": "Khüükhdüüd nogoond dasaagüi baisan tul bid shine joroor khiigeed üzsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Trying something out: -аад/-ээд үзэх",
+  "title_mn": "Try + нэр үг ба try + -ing",
+  "explain_en": "To say 'try doing something (and see how it goes),' Mongolian adds the converb ending -аад/-ээд/-оод/-өөд to the main verb and follows it with үзэх, 'to see.' The ending follows vowel harmony: ид → идээд, амс → амсаад, оролд → оролдоод, үз → үзээд. Verbs ending in a long vowel or diphthong add a г: уу → уугаад. For requests, change үзэх into an imperative. Үз is casual and used with friends, үзээч is friendly and coaxing, and үзээрэй is polite. So you can say идээд үз 'try it' to a friend, or амсаад үзээрэй 'please try a taste' to someone you'd address as та. A softening нэг ('once, a bit') often goes before it: нэг амсаад үзээрэй.",
+  "explain_mn": "Англи хэлэнд 'туршиж үзэх' санааг try үгээр илэрхийлнэ. Ямар нэг зүйлийг (хоол, ундаа) туршихдаа try + нэр үг хэрэглэнэ: Try the khailmag. (Хайлмагийг амсаад үзээрэй.) Ямар нэг үйлдэл хийж, үр дүн нь ямар болохыг харах туршилтын утгад try + -ing хэлбэр хэрэглэнэ: Try adding ghee. (Шар тос хийгээд үзээрэй.) Харин try to + үйл үг нь 'хичээх, оролдох' гэсэн утгатай тул хэцүү зүйл хийх гэж чармайхыг хэлнэ: I tried to finish it. (Дуусгах гэж хичээсэн.) Тиймээс 'нэмээд үзээрэй' гэж хэлэхдээ try to add биш, try adding гэж хэлээрэй.",
+  "examples": [
+   {
+    "mn": "Энэ хайлмагийг амсаад үзээрэй.",
+    "en": "Try this khailmag.",
+    "mn_latin": "Ene khailmagiig amsaad üzeerei."
+   },
+   {
+    "mn": "Цайндаа давс хийгээд үзээрэй.",
+    "en": "Try adding salt to your tea.",
+    "mn_latin": "Tsaindaa davs khiigeed üzeerei."
+   },
+   {
+    "mn": "Айраг нэг уугаад үз, исгэлэн ч гэсэн сайхан.",
+    "en": "Try some airag. It's sour, but it's good.",
+    "mn_latin": "Airag neg uugaad üz, isgelen ch gesen saikhan."
+   },
+   {
+    "mn": "Би бүгдийг идэх гэж хичээсэн ч чадаагүй.",
+    "en": "I tried to eat it all, but I couldn't.",
+    "mn_latin": "Bi bügdiig idekh gej khicheesen ch chadaagüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ хайлмагийг амс___ үзээрэй.",
+   "answer": "аад",
+   "options": [
+    "аад",
+    "ээд",
+    "оод",
+    "өөд"
+   ],
+   "translation": "Try this khailmag.",
+   "explain_en": "The verb амс- has the back vowel а, so vowel harmony requires -аад: амсаад үзээрэй.",
+   "explain_mn": "Амс- үйл үг а эгшигтэй тул эгшиг зохицох ёсоор -аад нөхцөл авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Цайндаа шар тос хийгээд ___, амт нь огт өөр болно.",
+   "answer": "үзээрэй",
+   "options": [
+    "үзээрэй",
+    "үзэгч",
+    "үзэлт",
+    "үзэмж"
+   ],
+   "translation": "Try adding ghee to your tea. It makes it taste completely different.",
+   "explain_en": "After the converb хийгээд, you need the polite imperative of the auxiliary үзэх, which is үзээрэй. The other options are nouns.",
+   "explain_mn": "Хийгээд гэсэн нөхцөл үйлийн дараа туслах үйл үг үзэх-ийн хүсэх хэлбэр үзээрэй орно. Бусад хувилбар нь нэр үг тул тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Би ийм ер бусын амтанд ___ байна.",
+   "answer": "дасаагүй",
+   "options": [
+    "дасаагүй",
+    "исгэлэн",
+    "амттай",
+    "амсаад"
+   ],
+   "translation": "I'm not used to such an unusual taste.",
+   "explain_en": "'To be used to X' takes the dative case (амтанд). The negative form дасаагүй means 'not (yet) used to.'",
+   "explain_mn": "Дасах үйл үг өгөх-орших тийн ялгалтай (амтанд) нэр үгтэй холбогдоно. Дасаагүй нь 'дасаж амжаагүй' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Try ___ a little honey to the tea.",
+   "answer": "adding",
+   "options": [
+    "adding",
+    "added",
+    "adds",
+    "add"
+   ],
+   "translation": "Цайнд жаахан зөгийн бал хийгээд үзээрэй.",
+   "explain_en": "For an experiment ('do it and see what happens'), use try + -ing: try adding.",
+   "explain_mn": "Туршилтын утгатай 'хийгээд үзэх' санааг try + -ing хэлбэрээр илэрхийлнэ: try adding."
+  },
+  {
+   "lang": "en",
+   "text": "You should ___ the khailmag. It's delicious.",
+   "answer": "try",
+   "options": [
+    "try",
+    "trying",
+    "tried",
+    "to try"
+   ],
+   "translation": "Хайлмагийг амсаад үзээрэй, их амттай.",
+   "explain_en": "After should, use the base form of the verb. Here it's try + noun: try the khailmag.",
+   "explain_mn": "Should-ийн дараа үйл үг үндсэн хэлбэрээрээ орно. Хоол амсахыг try + нэр үг хэлбэрээр хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "This yogurt is too ___. Let's add some sugar.",
+   "answer": "sour",
+   "options": [
+    "sour",
+    "sweet",
+    "tasty",
+    "unusual"
+   ],
+   "translation": "Энэ тараг хэтэрхий исгэлэн байна, жаахан элсэн чихэр хийе.",
+   "explain_en": "You add sugar to fix something sour, so 'sour' is the logical choice.",
+   "explain_mn": "Элсэн чихэр нэмэх нь исгэлэн амтыг зөөллөхийн тулд тул 'sour' (исгэлэн) зөв."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Эмили, энэ хайлмагийг нэг амсаад үзээч. Монголчууд баяр ёслолоор их иддэг юм.",
+   "en": "Emily, try this khailmag. Mongolians eat it a lot on holidays.",
+   "mn_latin": "Emili, ene khailmagiig neg amsaad üzeech. Mongolchuud bayar yosloloor ikh iddeg yum."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Их ер бусын харагдаж байна. Юугаар хийдэг юм бэ?",
+   "en": "It looks really unusual. What's it made of?",
+   "mn_latin": "Ikh yer busyn kharagdaj baina. Yuugaar khiideg yum be?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Шар тос, гурил, элсэн чихэр, жаахан үзэмээр хийдэг.",
+   "en": "It's made with ghee, flour, sugar, and a few raisins.",
+   "mn_latin": "Shar tos, guril, elsen chikher, jaakhan üzemeer khiideg."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Би шар тосонд тийм ч их дасаагүй л дээ... Гэхдээ за, идээд үзье.",
+   "en": "I'm not really used to ghee... But okay, I'll give it a try.",
+   "mn_latin": "Bi shar tosond tiim ch ikh dasaagüi l dee... Gekhdee za, ideed üziye."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ямар байна? Амт нь таалагдаж байна уу?",
+   "en": "So? Do you like the taste?",
+   "mn_latin": "Yamar baina? Amt ni taalagdaj baina uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Өө, их амттай юм! Чихэрлэг, тослог. Дараа удаа чи надтай хамт суши идээд үзээрэй.",
+   "en": "Oh, it's really good! Sweet and rich. Next time, you should try sushi with me.",
+   "mn_latin": "Öö, ikh amttai yum! Chikherleg, toslog. Daraa udaa chi nadtai khamt sushi ideed üzeerei."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Би түүхий загасанд дасаагүй ч гэсэн за, тохиролцлоо!",
+   "en": "I'm not used to raw fish, but okay, it's a deal!",
+   "mn_latin": "Bi tüükhii zagasand dasaagüi ch gesen za, tokhiroltsloo!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, it is polite for a guest to at least taste (амсах) any food or drink a host offers. Refusing outright can seem rude, so a small bite or sip is enough. Shar tos (ghee) and khailmag are traditional 'white foods' (цагаан идээ) made from dairy, and they often appear on the table during Tsagaan Sar and other celebrations.",
+  "mn": "Монголд гэрийн эзний санал болгосон хоол, ундааг зочин ядаж амсаж үзэх нь ёсорхог хэрэг. Шууд татгалзах нь бүдүүлэг санагдаж болох тул бага зэрэг амсахад л хангалттай. Шар тос, хайлмаг нь сүүн бүтээгдэхүүнээр хийсэн уламжлалт цагаан идээ бөгөөд Цагаан сар болон бусад баяр ёслолын ширээнд элбэг тавигддаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 0,
+  "notes": "The lesson is accurate and natural in both languages. Vowel harmony, case endings and the -аад/-ээд үзэх explanations are correct, each fill-in-the-blank has a single correct answer, and the translation pairs match in meaning. No fixes were needed."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Solid lesson overall. The fixes are a dialogue wording error, an en/mn mismatch in the culture note, and a minor translation fix.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'Дараа нь' means 'afterwards'. 'Next time' is 'дараа удаа'."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The mn version left out 'traditional' and 'made from dairy', so it did not match the en version."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "The English says 'the tea', not 'your tea'."
+   }
+  ]
+ }
+}

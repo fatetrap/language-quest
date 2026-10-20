@@ -1,0 +1,462 @@
+{
+ "intro_en": "You will learn how to politely ask a seller for things at the counter, using Mongolian -аач/-ооч/-өөч/-ээч requests and English 'Can I have...?'. You will also practice quantities like a kilo, a bottle, a pack, and a piece.",
+ "intro_mn": "Та лангуун дээр худалдагчаас эелдгээр юм гуйж сурна: монгол хэлний -аач/-ооч/-өөч/-ээч хүсэлт болон англи хэлний 'Can I have...?'. Мөн кг, шил, боодол, ширхэг зэрэг хэмжээг хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "килограмм (кг)",
+   "en": "kilogram (kilo)",
+   "pos": "noun",
+   "example_mn": "Надад нэг кг төмс өгөөч.",
+   "example_en": "Can I have a kilo of potatoes?",
+   "mn_latin": "kilogramm (kg)"
+  },
+  {
+   "mn": "шил",
+   "en": "bottle",
+   "pos": "noun",
+   "example_mn": "Надад хоёр шил ус өгөөч.",
+   "example_en": "Can I have two bottles of water?",
+   "mn_latin": "shil"
+  },
+  {
+   "mn": "боодол",
+   "en": "pack, bundle",
+   "pos": "noun",
+   "example_mn": "Нэг боодол цай өгөөч.",
+   "example_en": "Can I have a pack of tea?",
+   "mn_latin": "boodol"
+  },
+  {
+   "mn": "ширхэг",
+   "en": "piece (counter word)",
+   "pos": "noun",
+   "example_mn": "Гурван ширхэг талх өгөөч.",
+   "example_en": "Can I have three loaves of bread?",
+   "mn_latin": "shirkheg"
+  },
+  {
+   "mn": "уут",
+   "en": "bag",
+   "pos": "noun",
+   "example_mn": "Надад уут өгөөч.",
+   "example_en": "Can I have a bag?",
+   "mn_latin": "uut"
+  },
+  {
+   "mn": "төмс",
+   "en": "potatoes",
+   "pos": "noun",
+   "example_mn": "Төмс хэд вэ?",
+   "example_en": "How much are the potatoes?",
+   "mn_latin": "töms"
+  },
+  {
+   "mn": "ус",
+   "en": "water",
+   "pos": "noun",
+   "example_mn": "Надад ус өгөөч.",
+   "example_en": "Can I have some water?",
+   "mn_latin": "us"
+  },
+  {
+   "mn": "өгөх",
+   "en": "to give",
+   "pos": "verb",
+   "example_mn": "Надад талх өгөөч.",
+   "example_en": "Can I have some bread?",
+   "mn_latin": "ögökh"
+  },
+  {
+   "mn": "гуйя",
+   "en": "please / I ask",
+   "pos": "verb",
+   "example_mn": "Нэг уут өгөөч, гуйя.",
+   "example_en": "A bag, please.",
+   "mn_latin": "guiya"
+  },
+  {
+   "mn": "бас",
+   "en": "also, and",
+   "pos": "adverb",
+   "example_mn": "Бас нэг уут өгөөч.",
+   "example_en": "And a bag too, please.",
+   "mn_latin": "bas"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Надад нэг кг төмс өгөөч.",
+   "en": "Can I have a kilo of potatoes?",
+   "alt_mn": [
+    "Нэг кг төмс өгөөч."
+   ],
+   "alt_en": [
+    "Could I have a kilo of potatoes, please?",
+    "I'd like a kilo of potatoes, please."
+   ],
+   "mn_latin": "Nadad neg kg töms ögööch."
+  },
+  {
+   "mn": "Надад хоёр шил ус өгөөч.",
+   "en": "Can I have two bottles of water?",
+   "alt_mn": [
+    "Хоёр шил ус өгөөч."
+   ],
+   "alt_en": [
+    "Two bottles of water, please."
+   ],
+   "mn_latin": "Nadad khoyor shil us ögööch."
+  },
+  {
+   "mn": "Надад нэг уут өгөөч.",
+   "en": "Can I have a bag?",
+   "alt_mn": [
+    "Нэг уут өгөөч."
+   ],
+   "alt_en": [
+    "A bag, please."
+   ],
+   "mn_latin": "Nadad neg uut ögööch."
+  },
+  {
+   "mn": "Надад гурван ширхэг талх өгөөч.",
+   "en": "Can I have three loaves of bread?",
+   "alt_mn": [
+    "Гурван ширхэг талх өгөөч."
+   ],
+   "alt_en": [
+    "Three loaves of bread, please."
+   ],
+   "mn_latin": "Nadad gurvan shirkheg talkh ögööch."
+  },
+  {
+   "mn": "Нэг боодол цай өгөөч.",
+   "en": "Can I have a pack of tea?",
+   "alt_mn": [
+    "Надад нэг боодол цай өгөөч."
+   ],
+   "alt_en": [
+    "A pack of tea, please."
+   ],
+   "mn_latin": "Neg boodol tsai ögööch."
+  },
+  {
+   "mn": "Надад хоёр кг лууван өгөөч.",
+   "en": "Can I have two kilos of carrots?",
+   "alt_mn": [
+    "Хоёр кг лууван өгөөч."
+   ],
+   "alt_en": [
+    "Two kilos of carrots, please."
+   ],
+   "mn_latin": "Nadad khoyor kg luuvan ögööch."
+  },
+  {
+   "mn": "Дахиад нэг шил сүү өгөөч.",
+   "en": "Can I have one more bottle of milk?",
+   "alt_mn": [
+    "Надад дахиад нэг шил сүү өгөөч."
+   ],
+   "alt_en": [
+    "One more bottle of milk, please."
+   ],
+   "mn_latin": "Dakhiad neg shil süü ögööch."
+  },
+  {
+   "mn": "Бас нэг уут өгөөч.",
+   "en": "And a bag too, please.",
+   "alt_mn": [
+    "Бас надад нэг уут өгөөч."
+   ],
+   "alt_en": [
+    "Can I also have a bag?"
+   ],
+   "mn_latin": "Bas neg uut ögööch."
+  },
+  {
+   "mn": "Надад таван ширхэг өндөг өгөөч.",
+   "en": "Can I have five eggs?",
+   "alt_mn": [
+    "Таван ширхэг өндөг өгөөч."
+   ],
+   "alt_en": [
+    "Five eggs, please."
+   ],
+   "mn_latin": "Nadad tavan shirkheg öndög ögööch."
+  },
+  {
+   "mn": "Нэг кг гурил өгөөч.",
+   "en": "Can I have a kilo of flour?",
+   "alt_mn": [
+    "Надад нэг кг гурил өгөөч."
+   ],
+   "alt_en": [
+    "A kilo of flour, please."
+   ],
+   "mn_latin": "Neg kg guril ögööch."
+  },
+  {
+   "mn": "Надад нэг шил жүүс өгөөч.",
+   "en": "Can I have a bottle of juice?",
+   "alt_mn": [
+    "Нэг шил жүүс өгөөч."
+   ],
+   "alt_en": [
+    "A bottle of juice, please."
+   ],
+   "mn_latin": "Nadad neg shil jüüs ögööch."
+  },
+  {
+   "mn": "Баярлалаа, одоохондоо болсон.",
+   "en": "Thank you, that's all for now.",
+   "alt_mn": [
+    "Баярлалаа, болсон."
+   ],
+   "alt_en": [
+    "Thanks, that's all.",
+    "Thank you, that's enough for now."
+   ],
+   "mn_latin": "Bayarlalaa, odookhondoo bolson."
+  }
+ ],
+ "grammar": {
+  "title_en": "Polite requests: -аач / -өөч / -ээч",
+  "title_mn": "Эелдэг хүсэлт: -аач / -өөч / -ээч",
+  "explain_en": "To ask politely, add the request ending -аач/-ооч/-өөч/-ээч to the verb stem. The vowel follows vowel harmony: өг- → өгөөч, ав- → аваач, хий- → хийгээч. So 'Надад ... өгөөч' means 'Please give me ...' or 'Can I have ...?'. 'Надад' (to me) is optional. The number comes first, then the measure word, then the item: нэг кг төмс, хоёр шил ус. The item stays singular after a number. In English, say 'Can I have...?' or 'Could I have...?', and add 'please' to sound more polite. With numbers above one, the measure word takes -s (two bottles), and don't forget 'of'.",
+  "explain_mn": "Монголоор эелдэг хүсэлтийг үйл үгийн үндсэнд -аач/-ооч/-өөч/-ээч залгаж хэлнэ. Эгшиг нь эгшиг зохицох ёсыг дагана: өг- → өгөөч, ав- → аваач, хий- → хийгээч. 'Надад ... өгөөч' гэвэл 'Can I have ...?' гэсэн утгатай. 'Надад' гэдэг үгийг хэлэхгүй байж болно. Эхлээд тоо, дараа нь хэмжээний үг, дараа нь зүйлээ хэлнэ: нэг кг төмс, хоёр шил ус. Тооны дараа зүйлийн нэр ганц тоогоороо байна. Англиар 'Can I have...?' эсвэл 'Could I have...?' гэж хэлнэ, ард нь 'please' нэмбэл илүү эелдэг болно. Нэгээс олон тоо бол хэмжээний үгэнд -s залгана (two bottles), 'of' үгийг мартаж болохгүй.",
+  "examples": [
+   {
+    "mn": "Надад ус өгөөч.",
+    "en": "Can I have some water?",
+    "mn_latin": "Nadad us ögööch."
+   },
+   {
+    "mn": "Надад нэг кг төмс өгөөч.",
+    "en": "Can I have a kilo of potatoes, please?",
+    "mn_latin": "Nadad neg kg töms ögööch."
+   },
+   {
+    "mn": "Надад хоёр шил сүү өгөөч.",
+    "en": "Can I have two bottles of milk?",
+    "mn_latin": "Nadad khoyor shil süü ögööch."
+   },
+   {
+    "mn": "Нэг уут өгөөч.",
+    "en": "A bag, please.",
+    "mn_latin": "Neg uut ögööch."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Надад нэг кг төмс ___.",
+   "answer": "өгөөч",
+   "options": [
+    "өгөөч",
+    "өгсөн",
+    "өгдөг",
+    "авсан"
+   ],
+   "translation": "Can I have a kilo of potatoes?",
+   "explain_en": "'Өгөөч' is the polite request form of өгөх, 'please give'.",
+   "explain_mn": "'Өгөөч' нь өгөх үгийн эелдэг хүсэлтийн хэлбэр."
+  },
+  {
+   "lang": "mn",
+   "text": "Надад хоёр ___ ус өгөөч.",
+   "answer": "шил",
+   "options": [
+    "шил",
+    "кг",
+    "боодол",
+    "уут"
+   ],
+   "translation": "Can I have two bottles of water?",
+   "explain_en": "Water in a bottle uses the counter word шил (bottle).",
+   "explain_mn": "Саванд байгаа усыг 'шил' гэж тоолно."
+  },
+  {
+   "lang": "mn",
+   "text": "Надад нэг ___ өгөөч, гуйя.",
+   "answer": "уут",
+   "options": [
+    "уут",
+    "кг",
+    "ус",
+    "өгсөн"
+   ],
+   "translation": "Can I have a bag, please?",
+   "explain_en": "'Уут' means bag, which you ask for at the counter.",
+   "explain_mn": "'Уут' гэдэг нь хүнсний уутыг хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Can I ___ a kilo of potatoes?",
+   "answer": "have",
+   "options": [
+    "have",
+    "has",
+    "having",
+    "to have"
+   ],
+   "translation": "Надад нэг кг төмс өгөөч.",
+   "explain_en": "After 'Can I' use the base form: have.",
+   "explain_mn": "'Can I'-ийн дараа үйл үгийн үндсэн хэлбэр ('have') ордог."
+  },
+  {
+   "lang": "en",
+   "text": "Two ___ of water, please.",
+   "answer": "bottles",
+   "options": [
+    "bottles",
+    "bottle",
+    "kilo",
+    "bag"
+   ],
+   "translation": "Хоёр шил ус өгөөч.",
+   "explain_en": "After 'two' the noun is plural: bottles.",
+   "explain_mn": "'Two'-ийн дараа олон тооны хэлбэр 'bottles' ордог."
+  },
+  {
+   "lang": "en",
+   "text": "Can I have a kilo ___ carrots?",
+   "answer": "of",
+   "options": [
+    "of",
+    "from",
+    "at",
+    "for"
+   ],
+   "translation": "Надад нэг кг лууван өгөөч.",
+   "explain_en": "We say 'a kilo of' something.",
+   "explain_mn": "Англиар хэмжээний дараа 'of' хэрэглэнэ: a kilo of carrots."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу? Надад нэг кг төмс өгөөч.",
+   "en": "Hello! Can I have a kilo of potatoes?",
+   "mn_latin": "Sain baina uu? Nadad neg kg töms ögööch."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За, энд байна. Өөр юу авах вэ?",
+   "en": "Sure, here you are. What else would you like?",
+   "mn_latin": "Za, end baina. Öör yuu avakh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Хоёр шил ус өгөөч.",
+   "en": "Two bottles of water, please.",
+   "mn_latin": "Khoyor shil us ögööch."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Ингээд болох уу?",
+   "en": "Is that everything?",
+   "mn_latin": "Ingeed bolokh uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бас таван ширхэг өндөг өгөөч.",
+   "en": "Can I also have five eggs?",
+   "mn_latin": "Bas tavan shirkheg öndög ögööch."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За. Уут хэрэгтэй юу?",
+   "en": "Okay. Do you need a bag?",
+   "mn_latin": "Za. Uut kheregtei yuu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм, нэг уут өгөөч. Баярлалаа.",
+   "en": "Yes, a bag, please. Thank you.",
+   "mn_latin": "Tiim, neg uut ögööch. Bayarlalaa."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Зүгээр. Баяртай!",
+   "en": "You're welcome. Goodbye!",
+   "mn_latin": "Zügeer. Bayartai!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many people still buy fresh vegetables, meat, and dairy at markets like the Mercury market, where you ask the seller for an amount by weight. Saying 'өгөөч' with a friendly 'сайн байна уу' is polite, and sellers often add a little extra or let you taste first.",
+  "mn": "Улаанбаатарт олон хүн Меркури зэрэг захаас шинэхэн хүнсний ногоо, мах, сүүн бүтээгдэхүүн худалдан авдаг бөгөөд худалдагчаас жингээр нь гуйдаг. 'Сайн байна уу' гээд 'өгөөч' гэж хэлбэл эелдэг сонсогдоно, худалдагч заримдаа бага зэрэг нэмж өгөх эсвэл амтлуулах нь бий."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 17,
+  "notes": "Mostly natural Mongolian, but the grammar explanations contain errors and mismatches, 'loaves' mistranslates ширхэг, and one fill-in item has an ambiguous distractor."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Main fixes: the wrong 'хоёроос дээш' rule, the en/mn grammar explanations not matching, the bread translation, a duplicate alternative, and the market example.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'хэмжээг дадна' is unnatural. Also matches the endings listed in the grammar section."
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "Makes the intro consistent with the grammar endings."
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_en",
+    "why": "Ширхэг талх means whole loaves. 'Pieces of bread' suggests slices."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "en",
+    "why": "Ширхэг талх means whole loaves, not slices."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_en",
+    "why": "Matches the corrected main translation."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Brings the English and Mongolian explanations in line with each other."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'Хоёроос дээш' wrongly means three or more. The explanation was also missing content found in the English version."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Narantuul is mainly a goods and clothing market. Mercury is the well-known food market."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Keeps the Mongolian note consistent with the corrected English note."
+   }
+  ]
+ }
+}

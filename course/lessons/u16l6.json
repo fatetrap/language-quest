@@ -1,0 +1,508 @@
+{
+ "intro_en": "You will learn to try on clothes in a shop, say what fits and what suits you, and tell a friend which one you prefer. You will also review comparing things with 'than' and 'as ... as'.",
+ "intro_mn": "Та дэлгүүрт хувцас өмсөж үзэх, юу нь хэмжээнд таарч, юу нь зохиж байгааг хэлэх, аль нь илүү таалагдаж байгаагаа найздаа хэлэхийг сурна. Мөн '-аас илүү', '... шиг' гэсэн харьцуулах хэлбэрийг давтана.",
+ "vocab": [
+  {
+   "mn": "өмсөж үзэх",
+   "en": "to try on",
+   "pos": "verb",
+   "example_mn": "Би энэ дээлийг өмсөж үзье.",
+   "example_en": "Let me try on this deel.",
+   "mn_latin": "ömsöj üzekh"
+  },
+  {
+   "mn": "зохих",
+   "en": "to suit",
+   "pos": "verb",
+   "example_mn": "Энэ өнгө танд зохиж байна.",
+   "example_en": "This color suits you.",
+   "mn_latin": "zokhikh"
+  },
+  {
+   "mn": "таарах",
+   "en": "to fit",
+   "pos": "verb",
+   "example_mn": "Энэ куртик надад хэмжээгээрээ таарахгүй байна.",
+   "example_en": "This jacket doesn't fit me.",
+   "mn_latin": "taarakh"
+  },
+  {
+   "mn": "хэмжээ",
+   "en": "size",
+   "pos": "noun",
+   "example_mn": "Танд ямар хэмжээ хэрэгтэй вэ?",
+   "example_en": "What size do you need?",
+   "mn_latin": "khemjee"
+  },
+  {
+   "mn": "том",
+   "en": "big / too big",
+   "pos": "adjective",
+   "example_mn": "Энэ пальто надад том байна.",
+   "example_en": "This coat is too big for me.",
+   "mn_latin": "tom"
+  },
+  {
+   "mn": "жижиг",
+   "en": "small / too small",
+   "pos": "adjective",
+   "example_mn": "Энэ цамц надад жижиг байна.",
+   "example_en": "This shirt is too small for me.",
+   "mn_latin": "jijig"
+  },
+  {
+   "mn": "толь",
+   "en": "mirror",
+   "pos": "noun",
+   "example_mn": "Толь хаана байна вэ?",
+   "example_en": "Where is the mirror?",
+   "mn_latin": "toli"
+  },
+  {
+   "mn": "өмсөж үзэх өрөө",
+   "en": "fitting room",
+   "pos": "noun",
+   "example_mn": "Өмсөж үзэх өрөө тэнд байна.",
+   "example_en": "The fitting room is over there.",
+   "mn_latin": "ömsöj üzekh öröö"
+  },
+  {
+   "mn": "илүү дуртай",
+   "en": "to prefer / to like more",
+   "pos": "phrase",
+   "example_mn": "Би хөх өнгөнд илүү дуртай.",
+   "example_en": "I prefer blue.",
+   "mn_latin": "ilüü durtai"
+  },
+  {
+   "mn": "аль нь",
+   "en": "which one",
+   "pos": "phrase",
+   "example_mn": "Аль нь танд таалагдаж байна вэ?",
+   "example_en": "Which one do you like?",
+   "mn_latin": "ali ni"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би энэ цамцыг өмсөж үзэж болох уу?",
+   "en": "Can I try on this shirt?",
+   "alt_mn": [
+    "Энэ цамцыг өмсөж үзэж болох уу?"
+   ],
+   "alt_en": [
+    "May I try on this shirt?"
+   ],
+   "mn_latin": "Bi ene tsamtsyg ömsöj üzej bolokh uu?"
+  },
+  {
+   "mn": "Энэ куртик надад том байна.",
+   "en": "This jacket is too big for me.",
+   "alt_mn": [
+    "Энэ куртик надад хэтэрхий том байна."
+   ],
+   "alt_en": [
+    "This jacket is too large for me."
+   ],
+   "mn_latin": "Ene kurtik nadad tom baina."
+  },
+  {
+   "mn": "Энэ өмд надад жижиг байна.",
+   "en": "These pants are too small for me.",
+   "alt_mn": [
+    "Энэ өмд надад хэтэрхий жижиг байна."
+   ],
+   "alt_en": [
+    "These trousers are too small for me."
+   ],
+   "mn_latin": "Ene ömd nadad jijig baina."
+  },
+  {
+   "mn": "Танд ямар хэмжээ хэрэгтэй вэ?",
+   "en": "What size do you need?",
+   "alt_mn": [
+    "Таны хэмжээ ямар вэ?"
+   ],
+   "alt_en": [
+    "What size are you?"
+   ],
+   "mn_latin": "Tand yamar khemjee kheregtei ve?"
+  },
+  {
+   "mn": "Улаан өнгө танд сайхан зохиж байна.",
+   "en": "The red color suits you very well.",
+   "alt_mn": [
+    "Улаан өнгө танд маш их зохиж байна."
+   ],
+   "alt_en": [
+    "Red looks great on you."
+   ],
+   "mn_latin": "Ulaan öngö tand saikhan zokhij baina."
+  },
+  {
+   "mn": "Аль нь надад илүү зохиж байна вэ?",
+   "en": "Which one suits me more?",
+   "alt_mn": [
+    "Аль нь надад илүү зохиж байгаа вэ?"
+   ],
+   "alt_en": [
+    "Which one suits me better?"
+   ],
+   "mn_latin": "Ali ni nadad ilüü zokhij baina ve?"
+  },
+  {
+   "mn": "Би хар пальтогоос хөх пальтод илүү дуртай.",
+   "en": "I prefer the blue coat to the black coat.",
+   "alt_mn": [
+    "Би хар пальтогоос хөх пальтог илүүд үздэг."
+   ],
+   "alt_en": [
+    "I like the blue coat more than the black one."
+   ],
+   "mn_latin": "Bi khar palitogoos khökh palitod ilüü durtai."
+  },
+  {
+   "mn": "Энэ дээл тэр дээлээс илүү гоё байна.",
+   "en": "This deel is nicer than that deel.",
+   "alt_mn": [
+    "Энэ дээл тэр дээлээс гоё байна."
+   ],
+   "alt_en": [
+    "This deel looks nicer than that one."
+   ],
+   "mn_latin": "Ene deel ter deelees ilüü goyo baina."
+  },
+  {
+   "mn": "Эдгээр гутал тэдгээр гутал шиг тохилог биш.",
+   "en": "These boots are not as comfortable as those boots.",
+   "alt_mn": [
+    "Эдгээр гутал тэдгээр шиг тохилог биш."
+   ],
+   "alt_en": [
+    "These boots aren't as comfortable as those."
+   ],
+   "mn_latin": "Edgeer gutal tedgeer gutal shig tokhilog bish."
+  },
+  {
+   "mn": "Би үүнийг өмсөөд толинд харъя.",
+   "en": "I'll put this on and look in the mirror.",
+   "alt_mn": [
+    "Үүнийг өмсөөд толинд харъя."
+   ],
+   "alt_en": [
+    "Let me put this on and look in the mirror."
+   ],
+   "mn_latin": "Bi üüniig ömsööd tolind kharya."
+  },
+  {
+   "mn": "Энэ малгай надад яг таарч байна.",
+   "en": "This hat fits me perfectly.",
+   "alt_mn": [
+    "Энэ малгай надад яг тохирч байна."
+   ],
+   "alt_en": [
+    "This hat fits me just right."
+   ],
+   "mn_latin": "Ene malgai nadad yag taarch baina."
+  },
+  {
+   "mn": "Надад арай том хэмжээ өгөөч.",
+   "en": "Please give me a slightly bigger size.",
+   "alt_mn": [
+    "Надад жаахан том хэмжээ өгнө үү."
+   ],
+   "alt_en": [
+    "Could you give me a size up?"
+   ],
+   "mn_latin": "Nadad arai tom khemjee ögööch."
+  }
+ ],
+ "grammar": {
+  "title_en": "Too big for me, which one, and 'prefer … to'",
+  "title_mn": "Надад том байна, аль нь, -аас илүү",
+  "explain_en": "To say how clothes fit, Mongolian uses надад ('to me') + adjective + байна: Энэ надад том байна = 'This is too big for me.' Use танд for 'you' (polite). To ask 'which one?' say Аль нь...вэ? To compare, add -аас/-ээс/-оос/-өөс to the thing you compare against and put илүү before the adjective: Энэ тэрнээс илүү гоё = 'This is nicer than that.' To say what you prefer, use -д/-т on the preferred thing + илүү дуртай: Би хөх өнгөнд илүү дуртай = 'I prefer blue.' The endings follow vowel harmony. Also, шиг works like 'as ... as': Энэ малгай тэр малгай шиг гоё = 'This hat is as nice as that hat.'",
+  "explain_mn": "Хувцас өмсөж үзэхэд \"надад том байна\" гэх мэтээр хэмжээг хэлнэ. Надад + тэмдэг нэр + байна: Энэ пальто надад том байна. Хүндэтгэлтэй хэлэхдээ танд гэнэ. Аль нь...вэ? гэж асууна: Аль нь танд таалагдаж байна вэ? Харьцуулахдаа харьцуулах зүйлд -аас/-ээс/-оос/-өөс залгаж, тэмдэг нэрийн өмнө илүү гэж хэлнэ: Энэ тэрнээс илүү гоё. Илүү дуртай гэдэг нь -д/-т өгөх орших тийн ялгалтай хамт 'prefer' гэсэн утгатай: Би хөх өнгөнд илүү дуртай. Нөхцөл эгшгийн зохицлоор хувирна. Мөн 'шиг' нь 'as ... as'-тэй төстэй: Энэ малгай тэр малгай шиг гоё.",
+  "examples": [
+   {
+    "mn": "Энэ пальто надад том байна.",
+    "en": "This coat is too big for me.",
+    "mn_latin": "Ene palito nadad tom baina."
+   },
+   {
+    "mn": "Аль нь танд илүү зохиж байна вэ?",
+    "en": "Which one suits you more?",
+    "mn_latin": "Ali ni tand ilüü zokhij baina ve?"
+   },
+   {
+    "mn": "Энэ цамц тэр цамцнаас илүү хямд.",
+    "en": "This shirt is cheaper than that shirt.",
+    "mn_latin": "Ene tsamts ter tsamtsnaas ilüü khyamd."
+   },
+   {
+    "mn": "Би хар өнгөнөөс цагаан өнгөнд илүү дуртай.",
+    "en": "I prefer white to black.",
+    "mn_latin": "Bi khar öngönöös tsagaan öngönd ilüü durtai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ куртик надад ___ байна.",
+   "answer": "том",
+   "options": [
+    "том",
+    "гэж",
+    "хаана",
+    "өмсөх"
+   ],
+   "translation": "This jacket is too big for me.",
+   "explain_en": "Том means 'big'. With надад it says the size is too big for me.",
+   "explain_mn": "Надад + тэмдэг нэр + байна гэж хувцас хэмжээнд таарахгүйг хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ дээл тэр дээл___ илүү гоё байна.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "д",
+    "ийг",
+    "тай"
+   ],
+   "translation": "This deel is nicer than that deel.",
+   "explain_en": "The ending -ээс marks the thing compared against (the 'than' part). Дээл has the vowel ээ, so by vowel harmony it takes -ээс: дээлээс.",
+   "explain_mn": "Харьцуулах зүйлд -аас/-ээс/-оос/-өөс нөхцөл залгана. Дээл гэдэгт -ээс залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Би хөх өнгөнд ___ дуртай.",
+   "answer": "илүү",
+   "options": [
+    "илүү",
+    "шиг",
+    "гэж",
+    "болон"
+   ],
+   "translation": "I prefer blue.",
+   "explain_en": "Илүү дуртай means 'prefer / like more'.",
+   "explain_mn": "Илүү дуртай нь 'prefer' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "This hat is ___ nice as that one.",
+   "answer": "as",
+   "options": [
+    "as",
+    "than",
+    "more",
+    "so"
+   ],
+   "translation": "Энэ малгай тэр малгай шиг гоё.",
+   "explain_en": "Use 'as ... as' to say two things are equal.",
+   "explain_mn": "Адилхан түвшинг 'as ... as' гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "This coat is warmer ___ that one.",
+   "answer": "than",
+   "options": [
+    "than",
+    "as",
+    "then",
+    "from"
+   ],
+   "translation": "Энэ пальто тэрнээс илүү дулаан.",
+   "explain_en": "After a comparative (warmer), use 'than'.",
+   "explain_mn": "Харьцуулсан тэмдэг нэрийн дараа 'than' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Red really ___ you.",
+   "answer": "suits",
+   "options": [
+    "suits",
+    "fits",
+    "wears",
+    "puts"
+   ],
+   "translation": "Улаан өнгө танд үнэхээр зохиж байна.",
+   "explain_en": "Colors and styles 'suit' you; 'fit' is about size.",
+   "explain_mn": "Өнгө, загвар зохихыг 'suit', хэмжээ таарахыг 'fit' гэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Энэ ногоон дээлийг өмсөж үзье.",
+   "en": "Let me try on this green deel.",
+   "mn_latin": "Ene nogoon deeliig ömsöj üziye."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За, тэгээрэй. Өмсөж үзэх өрөө тэнд байна.",
+   "en": "Sure. The fitting room is over there.",
+   "mn_latin": "Za, tegeerei. Ömsöj üzekh öröö tend baina."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Энэ надад жаахан том байна.",
+   "en": "This is a bit too big for me.",
+   "mn_latin": "Ene nadad jaakhan tom baina."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэгвэл арай жижиг хэмжээг авъя. Энэ өнгө танд сайхан зохиж байна.",
+   "en": "Then let's get a smaller size. This color suits you well.",
+   "mn_latin": "Tegvel arai jijig khemjeeg avya. Ene öngö tand saikhan zokhij baina."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Аль нь надад илүү зохиж байна вэ: ногоон уу, хөх үү?",
+   "en": "Which suits me more: the green or the blue?",
+   "mn_latin": "Ali ni nadad ilüü zokhij baina ve: nogoon uu, khökh üü?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Би хөхөөс ногоонд илүү дуртай.",
+   "en": "I prefer the green to the blue.",
+   "mn_latin": "Bi khökhöös nogoond ilüü durtai."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Ногоон нь хөхөөс илүү гоё юм байна. Үүнийг авъя!",
+   "en": "The green really is nicer than the blue. I'll take it!",
+   "mn_latin": "Nogoon ni khökhöös ilüü goyo yum baina. Üüniig avya!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, people often have a deel made by a tailor, so it fits perfectly, especially for Tsagaan Sar or Naadam. In Ulaanbaatar's markets like Narantuul, shoppers try things on and ask friends or family for an honest opinion. Colors have meaning too: blue is a favorite and is linked with the sky.",
+  "mn": "Монголд хүмүүс, ялангуяа Цагаан сар, Наадмаар, дээлээ оёдолчноор хэмжүүлж оёулдаг тул яг биед нь таардаг. Улаанбаатарын Нарантуул зэрэг зах дээр хүмүүс хувцсаа өмсөж үзээд найз, гэр бүлийнхнээсээ үнэн бодлыг нь асуудаг. Өнгө ч утгатай: хөх өнгө бол хүмүүсийн дуртай өнгө бөгөөд тэнгэртэй холбоотой."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 17,
+  "notes": "Mostly good; fixed mistranslated alt (хайрладаг), non-word тохтой, яв цав, and unusable Mongolian grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 19,
+  "notes": "Fixed vowel harmony, a non-standard term, duplicate alts, the case-name error, ambiguous blank options, and en/mn mismatches.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "match en: than / as...as"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "mn",
+    "why": "example and lesson use таарах; headword didn't match"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "en",
+    "why": "match таарах"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "mn",
+    "why": "өмсгөл өрөө is not a standard term"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "standard term"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "alt duplicated main"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "question lacked particle вэ"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "-аас ... биш changes meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "alt duplicated main"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "alt duplicated main"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en lacked шиг point present in mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "-д/-т is өгөх орших тийн ялгал, not тийн; add танд"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "choice is due to vowel harmony, not final л"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "их and хамгийн were also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "дулаахан = 'warmish', not comparative"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "vowel harmony: үзье"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "natural reply; standard term"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "'smaller' needs арай"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "unnatural wording (үнэнээ асуух); align with en"
+   }
+  ]
+ }
+}

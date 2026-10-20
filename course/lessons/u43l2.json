@@ -1,0 +1,444 @@
+{
+ "intro_en": "You will learn to read the clauses of a rental agreement and understand key contract words. You will also practice formal prohibitions and obligations in Mongolian (-хыг хориглоно) and modal passives in English (must be paid, may not be sublet).",
+ "intro_mn": "Та түрээсийн гэрээний зүйлүүдийг уншиж, гэрээний гол үгсийг ойлгож сурна. Мөн монгол хэлний албан ёсны хориг, үүргийн хэллэг (-хыг хориглоно) болон англи хэлний модал үйлдэгдэх хэв (must be paid, may not be sublet)-ийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "гэрээ",
+   "en": "contract, agreement",
+   "pos": "noun",
+   "example_mn": "Бид түрээсийн гэрээнд гарын үсэг зурсан.",
+   "example_en": "We signed the lease agreement.",
+   "mn_latin": "geree"
+  },
+  {
+   "mn": "зүйл",
+   "en": "clause, article",
+   "pos": "noun",
+   "example_mn": "Гэрээний гурав дахь зүйлийг уншаарай.",
+   "example_en": "Please read the third clause of the contract.",
+   "mn_latin": "züil"
+  },
+  {
+   "mn": "тал",
+   "en": "party (to a contract)",
+   "pos": "noun",
+   "example_mn": "Гэрээний хоёр тал нөхцөлийг зөвшөөрсөн.",
+   "example_en": "Both parties to the contract agreed to the terms.",
+   "mn_latin": "tal"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "term, period",
+   "pos": "noun",
+   "example_mn": "Гэрээний хугацаа нэг жил байна.",
+   "example_en": "The term of the contract is one year.",
+   "mn_latin": "khugatsaa"
+  },
+  {
+   "mn": "дуусгавар болох",
+   "en": "to expire, to end",
+   "pos": "verb",
+   "example_mn": "Гэрээ ирэх сарын эхээр дуусгавар болно.",
+   "example_en": "The contract expires at the beginning of next month.",
+   "mn_latin": "duusgavar bolokh"
+  },
+  {
+   "mn": "барьцаа мөнгө",
+   "en": "security deposit",
+   "pos": "noun",
+   "example_mn": "Барьцаа мөнгийг гэрээ дуусахад буцаан олгоно.",
+   "example_en": "The deposit will be returned when the contract ends.",
+   "mn_latin": "baritsaa möngö"
+  },
+  {
+   "mn": "түрээслүүлэгч",
+   "en": "landlord, lessor",
+   "pos": "noun",
+   "example_mn": "Түрээслүүлэгч байрны түлхүүрийг өгсөн.",
+   "example_en": "The landlord handed over the apartment key.",
+   "mn_latin": "türeeslüülegch"
+  },
+  {
+   "mn": "түрээслэгч",
+   "en": "tenant, lessee",
+   "pos": "noun",
+   "example_mn": "Түрээслэгч сар бүр төлбөрөө төлөх үүрэгтэй.",
+   "example_en": "The tenant is obliged to pay the rent every month.",
+   "mn_latin": "türeeslegch"
+  },
+  {
+   "mn": "сарын төлбөр",
+   "en": "monthly rent",
+   "pos": "noun",
+   "example_mn": "Сарын төлбөрийг сарын 5-ны дотор төлнө.",
+   "example_en": "The monthly rent is paid by the 5th.",
+   "mn_latin": "saryn tölbör"
+  },
+  {
+   "mn": "цуцлах",
+   "en": "to terminate, to cancel",
+   "pos": "verb",
+   "example_mn": "Аль ч тал гэрээг цуцалж болно.",
+   "example_en": "Either party may terminate the contract.",
+   "mn_latin": "tsutslakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ гэрээний хугацаа нэг жил.",
+   "en": "The term of this contract is one year.",
+   "alt_mn": [
+    "Энэ гэрээ нэг жилийн хугацаатай."
+   ],
+   "alt_en": [
+    "This contract is for a period of one year."
+   ],
+   "mn_latin": "Ene gereenii khugatsaa neg jil."
+  },
+  {
+   "mn": "Сарын төлбөрийг сар бүрийн 5-ны дотор төлнө.",
+   "en": "The monthly rent must be paid by the 5th of each month.",
+   "alt_mn": [
+    "Сарын төлбөрийг сар бүрийн 5-ны өдрөөс өмнө төлөх ёстой."
+   ],
+   "alt_en": [
+    "The monthly rent is to be paid by the 5th of every month."
+   ],
+   "mn_latin": "Saryn tölböriig sar büriin 5-ny dotor tölnö."
+  },
+  {
+   "mn": "Байрыг дэд түрээслүүлэхийг хориглоно.",
+   "en": "Subletting the apartment is prohibited.",
+   "alt_mn": [
+    "Байрыг бусдад дамжуулан түрээслүүлэхийг хориглоно."
+   ],
+   "alt_en": [
+    "The apartment may not be sublet.",
+    "Subletting is not allowed."
+   ],
+   "mn_latin": "Bairyg ded türeeslüülekhiig khoriglono."
+  },
+  {
+   "mn": "Байранд тэжээвэр амьтан байлгахыг хориглоно.",
+   "en": "Keeping pets in the apartment is prohibited.",
+   "alt_mn": [],
+   "alt_en": [
+    "Pets may not be kept in the apartment."
+   ],
+   "mn_latin": "Bairand tejeever amitan bailgakhyg khoriglono."
+  },
+  {
+   "mn": "Гэрээний хоёр тал нөхцөлийг сайтар уншсан.",
+   "en": "Both parties read the terms carefully.",
+   "alt_mn": [],
+   "alt_en": [
+    "Both parties to the contract read the terms carefully."
+   ],
+   "mn_latin": "Gereenii khoyor tal nökhtsöliig saitar unshsan."
+  },
+  {
+   "mn": "Гэрээ ирэх оны гуравдугаар сард дуусгавар болно.",
+   "en": "The contract will expire in March of next year.",
+   "alt_mn": [
+    "Гэрээ ирэх жилийн гуравдугаар сард дуусгавар болно."
+   ],
+   "alt_en": [
+    "The contract ends in March of next year."
+   ],
+   "mn_latin": "Geree irekh ony guravdugaar sard duusgavar bolno."
+  },
+  {
+   "mn": "Барьцаа мөнгийг гэрээ дуусгавар болсны дараа буцаан олгоно.",
+   "en": "The deposit will be returned after the contract expires.",
+   "alt_mn": [],
+   "alt_en": [
+    "The security deposit will be refunded once the contract ends."
+   ],
+   "mn_latin": "Baritsaa möngiig geree duusgavar bolsny daraa butsaan olgono."
+  },
+  {
+   "mn": "Түрээслэгч байрыг цэвэр хадгалах үүрэгтэй.",
+   "en": "The tenant is obliged to keep the apartment clean.",
+   "alt_mn": [],
+   "alt_en": [
+    "The apartment must be kept clean by the tenant."
+   ],
+   "mn_latin": "Türeeslegch bairyg tsever khadgalakh üüregtei."
+  },
+  {
+   "mn": "Байранд их засвар хийхийг хориглоно.",
+   "en": "Major repairs are prohibited in the apartment.",
+   "alt_mn": [
+    "Байранд томоохон засвар хийхийг хориглоно."
+   ],
+   "alt_en": [
+    "Major renovations are prohibited in the apartment."
+   ],
+   "mn_latin": "Bairand ikh zasvar khiikhiig khoriglono."
+  },
+  {
+   "mn": "Аль ч тал гэрээг нэг сарын өмнө мэдэгдэж цуцалж болно.",
+   "en": "Either party may terminate the contract with one month's notice.",
+   "alt_mn": [],
+   "alt_en": [
+    "The contract may be terminated by either party with a month's notice."
+   ],
+   "mn_latin": "Ali ch tal gereeg neg saryn ömnö medegdej tsutsalj bolno."
+  },
+  {
+   "mn": "Цахилгаан, усны төлбөрийг түрээслэгч хариуцна.",
+   "en": "Electricity and water bills are the tenant's responsibility.",
+   "alt_mn": [
+    "Цахилгаан, усны төлбөрийг түрээслэгч төлнө."
+   ],
+   "alt_en": [
+    "The tenant is responsible for electricity and water bills.",
+    "Electricity and water bills are to be paid by the tenant."
+   ],
+   "mn_latin": "Tsakhilgaan, usny tölböriig türeeslegch khariutsna."
+  },
+  {
+   "mn": "Гэрээнд өөрчлөлт оруулахдаа хоёр талын зөвшөөрөл авах ёстой.",
+   "en": "Any change to the contract must be approved by both parties.",
+   "alt_mn": [],
+   "alt_en": [
+    "Changes to the contract require the consent of both parties."
+   ],
+   "mn_latin": "Gereend öörchlölt oruulakhdaa khoyor talyn zövshööröl avakh yostoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal prohibitions and obligations: -хыг хориглоно / modal passives",
+  "title_mn": "Албан ёсны хориг, үүрэг: -хыг хориглоно / модал үйлдэгдэх хэв",
+  "explain_en": "Mongolian contracts forbid things with a verb noun in -х plus the accusative -ыг/-ийг, then хориглоно: тамхи татахыг хориглоно (smoking is prohibited). Obligations use the plain future/present -на or үүрэгтэй / ёстой: төлбөрийг төлнө, төлөх үүрэгтэй. Note that the object takes the accusative (төлбөрийг), and the doer is often not mentioned. English does the same with modal passives: modal + be + past participle. Rent must be paid, the apartment may not be sublet, pets cannot be kept. Use may not / cannot for prohibition and must / shall for obligation. To name the doer, use by: must be paid by the tenant.",
+  "explain_mn": "Монгол гэрээнд хориглохдоо -х үйлт нэрийг заахын тийн ялгал (-ыг/-ийг)-тай хэрэглээд хориглоно гэж бичдэг: тамхи татахыг хориглоно. Үүргийг энгийн -на хэлбэр эсвэл үүрэгтэй / ёстой-гоор илэрхийлнэ: төлбөрийг төлнө, төлөх үүрэгтэй. Тусагдахууныг заахын тийн ялгалаар хэлж (төлбөрийг), үйлдэгчийг ихэвчлэн дурдахгүй. Англи хэлэнд үүнтэй адил модал үйл үг + be + үйл үгийн 3-р хэлбэр (past participle) бүхий үйлдэгдэх хэвийг хэрэглэдэг. Жишээ: Rent must be paid (төлбөрийг төлөх ёстой), The apartment may not be sublet (байрыг дэд түрээслүүлж болохгүй), Pets cannot be kept (тэжээвэр амьтан байлгаж болохгүй). May not / cannot нь хориг, must / shall нь үүрэг илэрхийлнэ. Үйлдэгчийг хэлэх бол by ашиглана: must be paid by the tenant.",
+  "examples": [
+   {
+    "mn": "Байранд тамхи татахыг хориглоно.",
+    "en": "Smoking is prohibited in the apartment.",
+    "mn_latin": "Bairand tamkhi tatakhyg khoriglono."
+   },
+   {
+    "mn": "Түрээсийн төлбөрийг урьдчилж төлнө.",
+    "en": "The rent must be paid in advance.",
+    "mn_latin": "Türeesiin tölböriig uridchilj tölnö."
+   },
+   {
+    "mn": "Байрыг бусдад ашиглуулахыг хориглоно.",
+    "en": "The apartment may not be given to others for use.",
+    "mn_latin": "Bairyg busdad ashigluulakhyg khoriglono."
+   },
+   {
+    "mn": "Гэрээг бичгээр байгуулна.",
+    "en": "The contract shall be made in writing.",
+    "mn_latin": "Gereeg bichgeer baiguulna."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Байранд тамхи татах___ хориглоно.",
+   "answer": "ыг",
+   "options": [
+    "ыг",
+    "д",
+    "аас",
+    "тай"
+   ],
+   "translation": "Smoking in the apartment is prohibited.",
+   "explain_en": "The verb noun татах takes the accusative -ыг before хориглоно: 'prohibit (doing) X'.",
+   "explain_mn": "«Хориглох» үйл үг хориглож буй үйлдлийг заасан -х үйлт нэрийг заахын тийн ялгал (-ыг)-тай авдаг тул татах+ыг болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Гэрээний ___ нэг жил байна.",
+   "answer": "хугацаа",
+   "options": [
+    "хугацаа",
+    "талууд",
+    "зүйл",
+    "барьцаа"
+   ],
+   "translation": "The term of the contract is one year.",
+   "explain_en": "хугацаа means 'term, period', which is what lasts one year.",
+   "explain_mn": "Нэг жил үргэлжлэх зүйл бол гэрээний хугацаа."
+  },
+  {
+   "lang": "mn",
+   "text": "Гэрээ ирэх сард дуусгавар ___.",
+   "answer": "болно",
+   "options": [
+    "болно",
+    "хийнэ",
+    "өгнө",
+    "авна"
+   ],
+   "translation": "The contract will expire next month.",
+   "explain_en": "дуусгавар болох is a fixed verb phrase; the future form is болно.",
+   "explain_mn": "«Дуусгавар болох» нь тогтсон хэллэг тул болно гэж төгсөнө."
+  },
+  {
+   "lang": "en",
+   "text": "The monthly rent must ___ paid by the 5th.",
+   "answer": "be",
+   "options": [
+    "be",
+    "been",
+    "being",
+    "is"
+   ],
+   "translation": "Сарын төлбөрийг 5-ны дотор төлөх ёстой.",
+   "explain_en": "Modal passive: modal + be + past participle.",
+   "explain_mn": "Модал үйл үгийн дараа be, дараа нь үйл үгийн 3-р хэлбэр ордог."
+  },
+  {
+   "lang": "en",
+   "text": "The apartment may not be ___ without written consent.",
+   "answer": "sublet",
+   "options": [
+    "sublet",
+    "subletting",
+    "subletted by",
+    "to sublet"
+   ],
+   "translation": "Бичгээр зөвшөөрөлгүйгээр байрыг дэд түрээслүүлж болохгүй.",
+   "explain_en": "After 'may not be' we need the past participle; 'sublet' has the same form.",
+   "explain_mn": "«may not be»-ийн дараа 3-р хэлбэр орно; sublet-ийн хэлбэр өөрчлөгдөхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Pets cannot ___ kept in the apartment.",
+   "answer": "be",
+   "options": [
+    "be",
+    "have",
+    "do",
+    "get to"
+   ],
+   "translation": "Байранд тэжээвэр амьтан байлгаж болохгүй.",
+   "explain_en": "Passive of 'keep pets': cannot + be + kept.",
+   "explain_mn": "Үйлдэгдэх хэв: cannot + be + kept."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Бат-Эрдэнэ, гэрээний тавдугаар зүйлийг хамт уншъя.",
+   "en": "Bat-Erdene, let's read clause five of the contract together.",
+   "mn_latin": "Bat-Erdene, gereenii tavdugaar züiliig khamt unshya."
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "За. Энд сарын төлбөрийг сар бүрийн 5-ны дотор төлнө гэжээ.",
+   "en": "OK. It says here that the monthly rent must be paid by the 5th of each month.",
+   "mn_latin": "Za. End saryn tölböriig sar büriin 5-ny dotor tölnö gejee."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Хоцорвол яах вэ?",
+   "en": "What if we are late?",
+   "mn_latin": "Khotsorvol yaakh ve?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Хоног тутамд нэг хувийн алданги тооцно гэсэн байна.",
+   "en": "It says a penalty of one percent per day will be charged.",
+   "mn_latin": "Khonog tutamd neg khuviin aldangi tootsno gesen baina."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Тэжээвэр амьтны тухай юу гэж байна?",
+   "en": "What does it say about pets?",
+   "mn_latin": "Tejeever amitny tukhai yuu gej baina?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Байранд тэжээвэр амьтан байлгахыг хориглоно гэж бичсэн. Муураа бусдад өгөх хэрэг гарах нь.",
+   "en": "It says pets cannot be kept in the apartment. We might have to give away our cat.",
+   "mn_latin": "Bairand tejeever amitan bailgakhyg khoriglono gej bichsen. Muuraa busdad ögökh khereg garakh ni."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Түрээслүүлэгчээс зөвшөөрөл авч болох уу гэж асууя.",
+   "en": "Let's ask the landlord whether we can get permission.",
+   "mn_latin": "Türeeslüülegchees zövshööröl avch bolokh uu gej asuuya."
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Зөв. Гарын үсэг зурахаас өмнө бүх зүйлийг тодруулах хэрэгтэй.",
+   "en": "Right. We need to clarify everything before signing.",
+   "mn_latin": "Zöv. Garyn üseg zurakhaas ömnö bükh züiliig todruulakh kheregtei."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many rentals are still arranged by word of mouth or through agents, and some landlords use only a short handwritten agreement. Experts advise tenants to get a written contract that names the parties, the term, the deposit and who pays utilities. Heating and water costs in apartment blocks can be large in winter, so this clause matters.",
+  "mn": "Улаанбаатарт байр түрээслэх ажлыг танил тал, зуучлагчаар дамжуулан хийх нь элбэг хэвээр байгаа бөгөөд зарим түрээслүүлэгч товч гар бичмэл гэрээ ашигладаг. Мэргэжилтнүүд түрээслэгчдэд талууд, хугацаа, барьцаа мөнгө, нийтийн үйлчилгээний төлбөрийг хэн төлөхийг тодорхой тусгасан бичгэн гэрээ байгуулахыг зөвлөдөг. Орон сууцны халаалт, усны төлбөр өвөл өндөр байдаг тул энэ зүйл чухал."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 10,
+  "notes": "Mostly good; a few translation mismatches and one garbled Mongolian explanation fixed."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 9,
+  "notes": "Fixed the made-up passive term, made the mn grammar explanation match en, and corrected a garbled explain_mn, a redundant possessive and the culture note mismatch.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'сийрэг хэв' is not a grammar term; the passive voice is 'үйлдэгдэх хэв'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "correct term for the passive voice"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "American 'apartment'; adds the 'by' point so en matches mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn version omitted the Mongolian part and had awkward wording; now matches en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Latin letters mixed into the Cyrillic, plus malformed grammar terms"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "correct term for the passive voice"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "the standard term for major repairs is 'их засвар'"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'манай' and the reflexive '-аа' are redundant together"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "adds 'experts' and 'apartment blocks' so mn matches en"
+   }
+  ]
+ }
+}

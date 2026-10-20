@@ -1,0 +1,448 @@
+{
+ "intro_en": "You will learn to ask a friend \"What did you do?\" on Monday morning and to talk about your weekend. You will use the Mongolian past ending -сан/-сэн/-сон/-сөн and English regular past verbs with -ed.",
+ "intro_mn": "Та даваа гарагийн өглөө найзаасаа \"Та юу хийсэн бэ?\" гэж асууж, амралтын өдрөө ярьж сурна. Монгол хэлний -сан/-сэн/-сон/-сөн өнгөрсөн цагийн нөхцөл болон англи хэлний -ed нөхцөлтэй энгийн өнгөрсөн цагийн үйл үгийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "амрах",
+   "en": "to rest",
+   "pos": "verb",
+   "example_mn": "Би ням гарагт амарсан.",
+   "example_en": "I rested on Sunday.",
+   "mn_latin": "amrakh"
+  },
+  {
+   "mn": "унтах",
+   "en": "to sleep",
+   "pos": "verb",
+   "example_mn": "Би өчигдөр оройтож унтсан.",
+   "example_en": "I went to bed late yesterday.",
+   "mn_latin": "untakh"
+  },
+  {
+   "mn": "үзэх",
+   "en": "to watch",
+   "pos": "verb",
+   "example_mn": "Бид кино үзсэн.",
+   "example_en": "We watched a movie.",
+   "mn_latin": "üzekh"
+  },
+  {
+   "mn": "хоол хийх",
+   "en": "to cook (a meal)",
+   "pos": "verb",
+   "example_mn": "Ээж бууз хийсэн.",
+   "example_en": "Mom cooked buuz.",
+   "mn_latin": "khool khiikh"
+  },
+  {
+   "mn": "цэвэрлэх",
+   "en": "to clean",
+   "pos": "verb",
+   "example_mn": "Би өрөөгөө цэвэрлэсэн.",
+   "example_en": "I cleaned my room.",
+   "mn_latin": "tseverlekh"
+  },
+  {
+   "mn": "очих",
+   "en": "to go (to a place)",
+   "pos": "verb",
+   "example_mn": "Бид хөдөө очсон.",
+   "example_en": "We went to the countryside.",
+   "mn_latin": "ochikh"
+  },
+  {
+   "mn": "хонох",
+   "en": "to stay overnight",
+   "pos": "verb",
+   "example_mn": "Би найзынхаа гэрт хоносон.",
+   "example_en": "I stayed overnight at my friend's home.",
+   "mn_latin": "khonokh"
+  },
+  {
+   "mn": "зочлох",
+   "en": "to visit",
+   "pos": "verb",
+   "example_mn": "Би эмээгийндээ зочилсон.",
+   "example_en": "I visited my grandma's home.",
+   "mn_latin": "zochlokh"
+  },
+  {
+   "mn": "амралтын өдөр",
+   "en": "weekend",
+   "pos": "noun",
+   "example_mn": "Амралтын өдөр сайхан байсан.",
+   "example_en": "The weekend was nice.",
+   "mn_latin": "amraltyn ödör"
+  },
+  {
+   "mn": "юу",
+   "en": "what",
+   "pos": "pronoun",
+   "example_mn": "Та юу хийсэн бэ?",
+   "example_en": "What did you do?",
+   "mn_latin": "yuu"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та амралтын өдөр юу хийсэн бэ?",
+   "en": "What did you do on the weekend?",
+   "alt_mn": [
+    "Та амралтаараа юу хийсэн бэ?"
+   ],
+   "alt_en": [
+    "What did you do last weekend?"
+   ],
+   "mn_latin": "Ta amraltyn ödör yuu khiisen be?"
+  },
+  {
+   "mn": "Би гэртээ амарсан.",
+   "en": "I rested at home.",
+   "alt_mn": [
+    "Би гэрт амарсан."
+   ],
+   "alt_en": [
+    "I relaxed at home."
+   ],
+   "mn_latin": "Bi gertee amarsan."
+  },
+  {
+   "mn": "Би кино үзсэн.",
+   "en": "I watched a movie.",
+   "alt_mn": [],
+   "alt_en": [
+    "I watched a film."
+   ],
+   "mn_latin": "Bi kino üzsen."
+  },
+  {
+   "mn": "Бид хөдөө очсон.",
+   "en": "We went to the countryside.",
+   "alt_mn": [],
+   "alt_en": [
+    "We visited the countryside."
+   ],
+   "mn_latin": "Bid khödöö ochson."
+  },
+  {
+   "mn": "Ээж бууз хийсэн.",
+   "en": "Mom cooked buuz.",
+   "alt_mn": [
+    "Ээж бууз хийж өгсөн."
+   ],
+   "alt_en": [
+    "Mom made buuz."
+   ],
+   "mn_latin": "Eej buuz khiisen."
+  },
+  {
+   "mn": "Би өрөөгөө цэвэрлэсэн.",
+   "en": "I cleaned my room.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bi öröögöö tseverlesen."
+  },
+  {
+   "mn": "Тэр үд хүртэл унтсан.",
+   "en": "She slept until noon.",
+   "alt_mn": [],
+   "alt_en": [
+    "He slept until noon."
+   ],
+   "mn_latin": "Ter üd khürtel untsan."
+  },
+  {
+   "mn": "Бид эмээгийндээ зочилсон.",
+   "en": "We visited my grandma.",
+   "alt_mn": [
+    "Бид эмээгийндээ очсон."
+   ],
+   "alt_en": [
+    "We went to visit my grandma."
+   ],
+   "mn_latin": "Bid emeegiindee zochilson."
+  },
+  {
+   "mn": "Та хоол хийсэн үү?",
+   "en": "Did you cook?",
+   "alt_mn": [
+    "Та хоол хийсэн юм уу?"
+   ],
+   "alt_en": [
+    "Did you make food?"
+   ],
+   "mn_latin": "Ta khool khiisen üü?"
+  },
+  {
+   "mn": "Үгүй, би хоол хийгээгүй.",
+   "en": "No, I didn't cook.",
+   "alt_mn": [],
+   "alt_en": [
+    "No, I did not cook."
+   ],
+   "mn_latin": "Ügüi, bi khool khiigeegüi."
+  },
+  {
+   "mn": "Найз маань манайд хоносон.",
+   "en": "My friend stayed overnight at our place.",
+   "alt_mn": [
+    "Найз маань манай гэрт хоносон."
+   ],
+   "alt_en": [
+    "My friend stayed the night at our home."
+   ],
+   "mn_latin": "Naiz maani manaid khonoson."
+  },
+  {
+   "mn": "Бид бүтэн өдөр амарсан.",
+   "en": "We rested all day.",
+   "alt_mn": [
+    "Бид өдөржин амарсан."
+   ],
+   "alt_en": [
+    "We relaxed all day."
+   ],
+   "mn_latin": "Bid büten ödör amarsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Past tense -сан/-сэн/-сон/-сөн",
+  "title_mn": "Англи хэлний энгийн өнгөрсөн цаг (-ed)",
+  "explain_en": "To say what happened, take the verb stem (drop -х) and add -сан, -сэн, -сон or -сөн. The ending follows vowel harmony: after a/я/у use -сан (амарсан); after э/и/ү use -сэн (цэвэрлэсэн); after о/ё use -сон (хоносон); after ө use -сөн. Use the question word юу and the ending бэ: Та юу хийсэн бэ? (What did you do?). The ending is the same for every person: би үзсэн, та үзсэн, тэр үзсэн. For \"no\", the stem takes -аагүй/-ээгүй/-оогүй/-өөгүй: хийгээгүй (didn't do), үзээгүй (didn't watch).",
+  "explain_mn": "Англи хэлэнд өнгөрсөн үйлийг хэлэхдээ ихэнх энгийн үйл үгэнд -ed залгана: watch → watched, clean → cleaned, cook → cooked, rest → rested, visit → visited. Хүн бүрт ижил хэлбэр: I watched, she watched, we watched. Асуухдаа did хэрэглэж, үйл үгийг үндсэн хэлбэрээр нь үлдээнэ: What did you do? Did you cook? Үгүйсгэхдээ didn't хэрэглэнэ: I didn't cook. Анхаар: go → went, sleep → slept зэрэг зарим үг дүрэмгүй өөрчлөгддөг.",
+  "examples": [
+   {
+    "mn": "Би кино үзсэн.",
+    "en": "I watched a movie.",
+    "mn_latin": "Bi kino üzsen."
+   },
+   {
+    "mn": "Бид өрөө цэвэрлэсэн.",
+    "en": "We cleaned the room.",
+    "mn_latin": "Bid öröö tseverlesen."
+   },
+   {
+    "mn": "Тэр гэртээ хоносон.",
+    "en": "He stayed overnight at home.",
+    "mn_latin": "Ter gertee khonoson."
+   },
+   {
+    "mn": "Та юу хийсэн бэ?",
+    "en": "What did you do?",
+    "mn_latin": "Ta yuu khiisen be?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би ням гарагт гэртээ амар___.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "сэн",
+    "сон",
+    "сөн"
+   ],
+   "translation": "I rested at home on Sunday.",
+   "explain_en": "The stem амар- ends in the vowel 'a', so the past ending is -сан.",
+   "explain_mn": "Амар- үндэс 'а' эгшигтэй тул -сан нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид өрөөгөө цэвэрлэ___.",
+   "answer": "сэн",
+   "options": [
+    "сан",
+    "сэн",
+    "сон",
+    "сөн"
+   ],
+   "translation": "We cleaned our room.",
+   "explain_en": "Цэвэрлэ- has 'э' sounds, so we use -сэн: цэвэрлэсэн.",
+   "explain_mn": "Цэвэрлэ- нь 'э' эгшигтэй тул -сэн нөхцөл залгана: цэвэрлэсэн."
+  },
+  {
+   "lang": "mn",
+   "text": "Та амралтын өдөр ___ хийсэн бэ?",
+   "answer": "юу",
+   "options": [
+    "юу",
+    "хэн",
+    "хаана",
+    "хэзээ"
+   ],
+   "translation": "What did you do on the weekend?",
+   "explain_en": "юу means 'what'. We ask about an action with юу хийсэн бэ?",
+   "explain_mn": "Юу хийсэн бэ? гэж үйлдлийг асууна. 'Юу' нь 'what' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Yesterday I ___ my room.",
+   "answer": "cleaned",
+   "options": [
+    "cleaned",
+    "clean",
+    "cleans",
+    "cleaning"
+   ],
+   "translation": "Өчигдөр би өрөөгөө цэвэрлэсэн.",
+   "explain_en": "Past simple of a regular verb: clean + ed.",
+   "explain_mn": "'Yesterday' нь өнгөрсөн цаг тул энгийн үйл үгэнд -ed залгана: cleaned."
+  },
+  {
+   "lang": "en",
+   "text": "What ___ you do last Sunday?",
+   "answer": "did",
+   "options": [
+    "did",
+    "do",
+    "does",
+    "done"
+   ],
+   "translation": "Та өнгөрсөн ням гарагт юу хийсэн бэ?",
+   "explain_en": "Past questions use did + base verb: What did you do?",
+   "explain_mn": "Өнгөрсөн цагийн асуултад did хэрэглэж, үйл үг үндсэн хэлбэрээрээ үлдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "We ___ a movie on Saturday.",
+   "answer": "watched",
+   "options": [
+    "watched",
+    "watch",
+    "watching",
+    "watches"
+   ],
+   "translation": "Бид бямба гарагт кино үзсэн.",
+   "explain_en": "Saturday is in the past, so use watched (watch + ed).",
+   "explain_mn": "Өнгөрсөн үйл тул watch үгэнд -ed залгаж watched болгоно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн уу, Бат! Та амралтын өдөр юу хийсэн бэ?",
+   "en": "Hi, Bat! What did you do on the weekend?",
+   "mn_latin": "Sain uu, Bat! Ta amraltyn ödör yuu khiisen be?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Сайн уу, Анна. Бид хөдөө очсон.",
+   "en": "Hi, Anna. We went to the countryside.",
+   "mn_latin": "Sain uu, Anna. Bid khödöö ochson."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Сайхан байжээ. Та хоносон уу?",
+   "en": "That sounds nice. Did you stay overnight?",
+   "mn_latin": "Saikhan baijee. Ta khonoson uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тийм, бид эмээгийндээ хоносон. Ээж бууз хийсэн.",
+   "en": "Yes, we stayed at my grandma's. Mom cooked buuz.",
+   "mn_latin": "Tiim, bid emeegiindee khonoson. Eej buuz khiisen."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Та юу хийсэн бэ?",
+   "en": "What did you do?",
+   "mn_latin": "Ta yuu khiisen be?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Би гэртээ амарсан. Кино үзсэн.",
+   "en": "I rested at home. I watched a movie.",
+   "mn_latin": "Bi gertee amarsan. Kino üzsen."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Өрөөгөө цэвэрлэсэн үү?",
+   "en": "Did you clean your room?",
+   "mn_latin": "Öröögöö tseverlesen üü?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тийм, бас нэлээд унтсан!",
+   "en": "Yes, and I slept a lot too!",
+   "mn_latin": "Tiim, bas neleed untsan!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, many families from Ulaanbaatar spend weekends at a relative's ger or in the countryside, especially in summer. On Monday morning, colleagues and classmates often ask about each other's weekends. Making buuz together with family is also a very common weekend activity.",
+  "mn": "Монголд улаанбаатарчуудын олон айл, ялангуяа зун, амралтын өдрөөр хамаатан садныхаа гэрт эсвэл хөдөө очдог. Даваа гарагийн өглөө хамт олон, ангийнхан бие биенийхээ амралтын өдрийн талаар асуух нь элбэг. Гэр бүлээрээ хамт бууз хийх нь амралтын өдрийн түгээмэл үйл ажиллагаа юм."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 20,
+  "notes": "Mostly good, but a few wrong words (өдий, бидэнд, эмээ дээрээ), a mismatched fill-blank, and an inaccurate grammar title and explanation."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 10,
+  "notes": "Fixed the 'slept late' mistranslation, replaced formal айлчлах with зочлох, removed alternatives with a different meaning, corrected the negative past ending, and made the did/do blank unambiguous.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_en",
+    "why": "оройтож унтсан means went to bed late; 'slept late' means woke up late"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "mn",
+    "why": "айлчлах is formal and used for official visits; зочлох is the everyday verb for visiting family"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Natural everyday wording"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "очиж айлчилсан is unnatural for a family visit"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "цэвэрлэж дууссан means 'finished cleaning', which is a different meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "үдийн хоол хүртэл means 'until lunch', not 'until noon'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The negative past ending is -аагүй/-ээгүй, not just -гүй"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "The Mongolian explanation is about the English past tense, so the title should match"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "text",
+    "why": "Without 'last', 'do' is also correct (present habit)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Matches the updated sentence"
+   }
+  ]
+ }
+}

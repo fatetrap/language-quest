@@ -1,0 +1,428 @@
+{
+ "intro_en": "Learn to read a heating company's summer hot water shutoff notice and ask your neighbors about the dates. You'll practice shutoff and repair words, the schedule patterns -хаар төлөвлөгдсөн and -ын турш, and the English 'be due to' and 'will be off for' + a length of time.",
+ "intro_mn": "Дулааны компанийн зуны халуун ус хаах мэдэгдлийг уншиж, хөршүүдээсээ хугацааг нь асууж сурна. Хаалт, засварын үгс, хуваарийн тухай ярихад хэрэглэдэг -хаар төлөвлөгдсөн, -ын турш хэлбэрүүдийг давтана. Англи хэлний 'be due to', 'will be off for' + хугацааны хэлбэрийг мөн сурна.",
+ "vocab": [
+  {
+   "mn": "халуун ус хаах",
+   "en": "to shut off the hot water",
+   "pos": "verb phrase",
+   "example_mn": "Зун болгон манай байрны халуун усыг хаадаг.",
+   "example_en": "They shut off the hot water in our building every summer.",
+   "mn_latin": "khaluun us khaakh"
+  },
+  {
+   "mn": "засвар",
+   "en": "repair, maintenance",
+   "pos": "noun",
+   "example_mn": "Засварын ажил долоо хоног үргэлжилнэ.",
+   "example_en": "The repair work will last a week.",
+   "mn_latin": "zasvar"
+  },
+  {
+   "mn": "дулааны шугам",
+   "en": "heating pipeline",
+   "pos": "noun",
+   "example_mn": "Дулааны шугамыг зун засдаг.",
+   "example_en": "The heating pipelines are repaired in the summer.",
+   "mn_latin": "dulaany shugam"
+  },
+  {
+   "mn": "хуваарь",
+   "en": "schedule",
+   "pos": "noun",
+   "example_mn": "Хаалтын хуваарийг сайтад нийтэлсэн.",
+   "example_en": "The shutoff schedule was posted on the website.",
+   "mn_latin": "khuvaari"
+  },
+  {
+   "mn": "мэдэгдэл",
+   "en": "notice, announcement",
+   "pos": "noun",
+   "example_mn": "Орцны хаалган дээр мэдэгдэл наасан байна.",
+   "example_en": "There's a notice posted on the entrance door.",
+   "mn_latin": "medegdel"
+  },
+  {
+   "mn": "сэргээх",
+   "en": "to restore, to turn back on",
+   "pos": "verb",
+   "example_mn": "Халуун усыг Баасан гарагт сэргээнэ.",
+   "example_en": "The hot water will be restored on Friday.",
+   "mn_latin": "sergeekh"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "period, duration",
+   "pos": "noun",
+   "example_mn": "Хаалтын хугацаа хэд хоног вэ?",
+   "example_en": "How many days is the shutoff period?",
+   "mn_latin": "khugatsaa"
+  },
+  {
+   "mn": "орц",
+   "en": "building entrance, stairwell",
+   "pos": "noun",
+   "example_mn": "Манай орцонд олон хүүхэдтэй айл байдаг.",
+   "example_en": "There are many families with kids in our stairwell.",
+   "mn_latin": "orts"
+  },
+  {
+   "mn": "хороолол",
+   "en": "residential district, micro-district",
+   "pos": "noun",
+   "example_mn": "Манай хороололд халуун усыг дараа долоо хоногт хаана.",
+   "example_en": "In our district they'll shut off the hot water next week.",
+   "mn_latin": "khoroolol"
+  },
+  {
+   "mn": "урьдчилан",
+   "en": "in advance",
+   "pos": "adverb",
+   "example_mn": "Компани оршин суугчдад урьдчилан мэдэгдсэн.",
+   "example_en": "The company notified residents in advance.",
+   "mn_latin": "uridchilan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Халуун усыг 6-р сарын 15-аас 21-ний хооронд хаахаар төлөвлөгдсөн.",
+   "en": "The hot water is due to be shut off from June 15 to 21.",
+   "alt_mn": [
+    "Халуун усыг 6-р сарын 15-аас 21-ний хооронд хаахаар төлөвлөсөн."
+   ],
+   "alt_en": [
+    "The hot water is scheduled to be shut off from June 15 to 21.",
+    "The hot water is set to be off from June 15 to 21."
+   ],
+   "mn_latin": "Khaluun usyg 6-r saryn 15-aas 21-nii khoorond khaakhaar tölövlögdsön."
+  },
+  {
+   "mn": "Халуун ус долоо хоногийн турш байхгүй.",
+   "en": "The hot water will be off for a week.",
+   "alt_mn": [
+    "Долоо хоногийн турш халуун ус байхгүй."
+   ],
+   "alt_en": [
+    "There will be no hot water for a week.",
+    "We won't have hot water for a week."
+   ],
+   "mn_latin": "Khaluun us doloo khonogiin tursh baikhgüi."
+  },
+  {
+   "mn": "Дулааны шугамын засварын улмаас халуун усыг түр хаана.",
+   "en": "The hot water will be temporarily shut off because of repairs to the heating pipeline.",
+   "alt_mn": [
+    "Дулааны шугамд засвар хийх тул халуун усыг түр хаана."
+   ],
+   "alt_en": [
+    "The hot water will be off for a while due to heating pipeline repairs."
+   ],
+   "mn_latin": "Dulaany shugamyn zasvaryn ulmaas khaluun usyg tür khaana."
+  },
+  {
+   "mn": "Орцны хаалган дээрх мэдэгдлийг уншсан уу?",
+   "en": "Did you read the notice on the entrance door?",
+   "alt_mn": [
+    "Орцны хаалган дээр наасан мэдэгдлийг уншсан уу?"
+   ],
+   "alt_en": [
+    "Have you read the notice on the entrance door?"
+   ],
+   "mn_latin": "Ortsny khaalgan deerkh medegdliig unshsan uu?"
+  },
+  {
+   "mn": "Манай хорооллын хаалтын хуваарь хэзээ гарах вэ?",
+   "en": "When will the shutoff schedule for our district come out?",
+   "alt_mn": [
+    "Манай хорооллын хаалтын хуваарийг хэзээ гаргах вэ?"
+   ],
+   "alt_en": [
+    "When is the shutoff schedule for our district coming out?"
+   ],
+   "mn_latin": "Manai khoroollyn khaaltyn khuvaari khezee garakh ve?"
+  },
+  {
+   "mn": "Халуун усыг 6-р сарын 22-нд сэргээхээр төлөвлөгдсөн.",
+   "en": "The hot water is due to be turned back on on June 22.",
+   "alt_mn": [
+    "Халуун усыг 6-р сарын 22-нд сэргээхээр төлөвлөсөн."
+   ],
+   "alt_en": [
+    "The hot water is due to be restored on June 22.",
+    "The hot water is scheduled to come back on June 22."
+   ],
+   "mn_latin": "Khaluun usyg 6-r saryn 22-nd sergeekheer tölövlögdsön."
+  },
+  {
+   "mn": "Засварын ажил хэдэн өдрийн турш үргэлжлэх вэ?",
+   "en": "How many days will the repair work last?",
+   "alt_mn": [
+    "Засвар хэд хоног үргэлжлэх вэ?"
+   ],
+   "alt_en": [
+    "How long will the repairs take?",
+    "How many days will the repairs last?"
+   ],
+   "mn_latin": "Zasvaryn ajil kheden ödriin tursh ürgeljlekh ve?"
+  },
+  {
+   "mn": "Хаалтын хугацаанд усаа данхаар буцалгаж хэрэглэнэ.",
+   "en": "During the shutoff, we'll boil water in a kettle.",
+   "alt_mn": [
+    "Халуун ус хаалттай байх хугацаанд усаа данхаар буцалгана."
+   ],
+   "alt_en": [
+    "While the water is off, we'll boil water in a kettle."
+   ],
+   "mn_latin": "Khaaltyn khugatsaand usaa dankhaar butsalgaj khereglene."
+  },
+  {
+   "mn": "Компани оршин суугчдад гурав хоногийн өмнө урьдчилан мэдэгдэх ёстой.",
+   "en": "The company has to notify residents three days in advance.",
+   "alt_mn": [
+    "Компани оршин суугчдад гурав хоногийн өмнө мэдэгдэх ёстой."
+   ],
+   "alt_en": [
+    "The company must notify residents three days ahead."
+   ],
+   "mn_latin": "Kompani orshin suugchdad gurav khonogiin ömnö uridchilan medegdekh yostoi."
+  },
+  {
+   "mn": "Өнгөрсөн жил манай байрны халуун ус арав хоногийн турш хаалттай байсан.",
+   "en": "Last year the hot water in our building was off for ten days.",
+   "alt_mn": [
+    "Өнгөрсөн жил манай байранд арав хоногийн турш халуун ус байгаагүй."
+   ],
+   "alt_en": [
+    "Last year our building had no hot water for ten days."
+   ],
+   "mn_latin": "Öngörsön jil manai bairny khaluun us arav khonogiin tursh khaalttai baisan."
+  },
+  {
+   "mn": "Хуваарь өөрчлөгдвөл СӨХ-өөс мэдэгдэнэ.",
+   "en": "If the schedule changes, the homeowners' association will let us know.",
+   "alt_mn": [
+    "Хуваарь өөрчлөгдөх юм бол СӨХ мэдэгдэнэ."
+   ],
+   "alt_en": [
+    "If the schedule changes, the HOA will notify us."
+   ],
+   "mn_latin": "Khuvaari öörchlögdvöl SÖKh-öös medegdene."
+  },
+  {
+   "mn": "Засвар хугацаандаа дуусахгүй бол халуун усыг хэзээ сэргээх вэ?",
+   "en": "If the repairs don't finish on time, when will the hot water be turned back on?",
+   "alt_mn": [
+    "Засвар хугацаандаа дуусахгүй бол халуун ус хэзээ орох вэ?"
+   ],
+   "alt_en": [
+    "If the repairs run late, when will they restore the hot water?"
+   ],
+   "mn_latin": "Zasvar khugatsaandaa duusakhgüi bol khaluun usyg khezee sergeekh ve?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Talking about schedules: -хаар төлөвлөгдсөн and -ын турш",
+  "title_mn": "Хуваарийн тухай ярих нь: be due to ба will be off for + хугацаа",
+  "explain_en": "Official notices often describe planned events with the verb + -хаар/-хээр/-хоор/-хөөр + төлөвлөгдсөн, which means 'is planned/scheduled to ...'. The vowel in the ending follows vowel harmony: хаахаар, сэргээхээр, дуусгахаар, өгөхөөр. In everyday speech people also say төлөвлөсөн or төлөвлөж байна. To say how long something lasts, put the time word in the genitive and add турш: долоо хоногийн турш means 'for a week', and гурван өдрийн турш means 'for three days'. You can combine the two: 'Халуун усыг долоо хоногийн турш хаахаар төлөвлөгдсөн.' means 'The hot water is planned to be off for a week.'",
+  "explain_mn": "Англи хэлэнд хуваарь, төлөвлөгөөний дагуу болох үйлийг 'be due to + үйл үг' хэлбэрээр илэрхийлдэг. Энэ нь '-хаар төлөвлөгдсөн', '-х ёстой' гэсэнтэй ойролцоо утгатай. Жишээ нь: 'The water is due to come back on Friday.' Идэвхгүй хэвд 'be due to be + V3' болно: 'is due to be shut off'. Хэр удаан үргэлжлэхийг хэлэхдээ 'for + хугацаа' хэрэглэнэ. Энэ нь '-ын турш' гэсэнтэй адил: 'The hot water will be off for a week.' Үйлийн эхлэх цэгийг 'since' гэж хэлдэг тул 'for'-той андуурч болохгүй. Хугацааны урт бол 'for', эхэлсэн цэг бол 'since'.",
+  "examples": [
+   {
+    "mn": "Халуун усыг Даваа гарагт хаахаар төлөвлөгдсөн.",
+    "en": "The hot water is due to be shut off on Monday.",
+    "mn_latin": "Khaluun usyg Davaa garagt khaakhaar tölövlögdsön."
+   },
+   {
+    "mn": "Халуун ус арав хоногийн турш байхгүй.",
+    "en": "The hot water will be off for ten days.",
+    "mn_latin": "Khaluun us arav khonogiin tursh baikhgüi."
+   },
+   {
+    "mn": "Засварыг сарын эцэст дуусгахаар төлөвлөгдсөн.",
+    "en": "The repairs are due to finish at the end of the month.",
+    "mn_latin": "Zasvaryg saryn etsest duusgakhaar tölövlögdsön."
+   },
+   {
+    "mn": "Бид гурван өдрийн турш хүйтэн усаар угаалга хийсэн.",
+    "en": "We did the laundry in cold water for three days.",
+    "mn_latin": "Bid gurvan ödriin tursh khüiten usaar ugaalga khiisen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Халуун усыг долоо хоног___ турш хаана.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "ын",
+    "т",
+    "оос"
+   ],
+   "translation": "The hot water will be off for a week.",
+   "explain_en": "Турш needs the genitive case before it. Хоног takes the genitive ending -ийн, so долоо хоногийн турш means 'for a week'. The ending -т is dative and -оос is ablative, so neither works with турш.",
+   "explain_mn": "'Турш' үгийн өмнө харьяалахын тийн ялгал орно. 'Хоног' үг '-ийн' нөхцөл авч 'хоногийн' болдог тул 'долоо хоногийн турш' гэж бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Засварын ажлыг Баасан гарагт дуусга___ төлөвлөгдсөн.",
+   "answer": "хаар",
+   "options": [
+    "хаар",
+    "хээр",
+    "хоор",
+    "х"
+   ],
+   "translation": "The repair work is due to be finished on Friday.",
+   "explain_en": "Дуусгах has back vowels (у, а), so it takes -хаар because of vowel harmony. The bare form дуусгах does not connect to төлөвлөгдсөн. You need the -хаар ending to mean 'planned to'.",
+   "explain_mn": "'Дуусгах' эр үг тул эгшиг зохицох ёсоор '-хаар' нөхцөл авна: 'дуусгахаар төлөвлөгдсөн'."
+  },
+  {
+   "lang": "mn",
+   "text": "Дулааны ___ засвар хийж байгаа тул халуун ус байхгүй.",
+   "answer": "шугамд",
+   "options": [
+    "шугамд",
+    "хуваарьт",
+    "мэдэгдэлд",
+    "орцонд"
+   ],
+   "translation": "There's no hot water because they are repairing the heating pipeline.",
+   "explain_en": "Repairs are done to the heating pipeline, which is дулааны шугам. The dative ending -д marks what the repair is done to. You can't 'repair' a schedule or a notice in this sense.",
+   "explain_mn": "Засварыг 'дулааны шугам'-д хийдэг. 'Засвар хийх' нь юунд хийж буйг өгөх оршихын тийн ялгалаар заадаг."
+  },
+  {
+   "lang": "en",
+   "text": "The hot water is due ___ be turned back on on Friday.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "on",
+    "at"
+   ],
+   "translation": "Халуун усыг Баасан гарагт сэргээхээр төлөвлөгдсөн.",
+   "explain_en": "'Be due' is always followed by 'to' + verb when it means 'scheduled to': is due to be turned back on.",
+   "explain_mn": "'Be due' хэлбэр 'төлөвлөгдсөн' гэсэн утгатай үед араас нь заавал 'to + үйл үг' орно: 'is due to be turned back on'."
+  },
+  {
+   "lang": "en",
+   "text": "The water will be off ___ ten days.",
+   "answer": "for",
+   "options": [
+    "for",
+    "since",
+    "during",
+    "while"
+   ],
+   "translation": "Ус арав хоногийн турш хаалттай байна.",
+   "explain_en": "Use 'for' with a length of time. 'Since' needs a starting point, such as 'since Monday'. 'During' needs an event, such as 'during the repairs'. 'While' needs a clause.",
+   "explain_mn": "Хугацааны уртыг заахад 'for' хэрэглэнэ ('-ын турш'). 'Since' нь эхэлсэн цэгийг заадаг: 'since Monday' гэвэл 'Даваа гарагаас хойш' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Repairs on the heating pipeline are ___ to start on Monday.",
+   "answer": "due",
+   "options": [
+    "due",
+    "until",
+    "during",
+    "since"
+   ],
+   "translation": "Дулааны шугамын засвар Даваа гарагт эхлэхээр төлөвлөгдсөн.",
+   "explain_en": "'Are due to start' means the start is scheduled. The other options are prepositions, and they can't come before 'to start'.",
+   "explain_mn": "'Are due to start' гэвэл 'эхлэхээр төлөвлөгдсөн' гэсэн утгатай. Бусад хувилбар нь угтвар үг тул 'to start'-ын өмнө орохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Оюунаа",
+   "mn": "Сайн байна уу, Бат-Эрдэнэ ах аа. Орцны хаалган дээрх мэдэгдлийг уншсан уу?",
+   "en": "Hi, Bat-Erdene. Did you read the notice on the entrance door?",
+   "mn_latin": "Sain baina uu, Bat-Erdene akh aa. Ortsny khaalgan deerkh medegdliig unshsan uu?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Уншсан. Дулааны шугамд засвар хийх гэж байгаа юм байна.",
+   "en": "I did. It looks like they're going to do repairs on the heating pipeline.",
+   "mn_latin": "Unshsan. Dulaany shugamd zasvar khiikh gej baigaa yum baina."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Халуун усыг хэзээ хаахаар төлөвлөгдсөн бэ? Би огноог нь сайн хараагүй.",
+   "en": "When is the hot water due to be shut off? I didn't get a good look at the dates.",
+   "mn_latin": "Khaluun usyg khezee khaakhaar tölövlögdsön be? Bi ognoog ni sain kharaagüi."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "6-р сарын 15-аас 21-ний хооронд. Бараг долоо хоногийн турш халуун усгүй байна.",
+   "en": "From June 15 to 21. We'll be without hot water for almost a week.",
+   "mn_latin": "6-r saryn 15-aas 21-nii khoorond. Barag doloo khonogiin tursh khaluun usgüi baina."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Өө, тэр үед манай хүүхдүүд зуслангаас ирнэ. Хэзээ сэргээх юм бол?",
+   "en": "Oh, my kids are coming back from the summer house then. When will it be turned back on?",
+   "mn_latin": "Öö, ter üyed manai khüükhdüüd zuslangaas irne. Khezee sergeekh yum bol?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "22-нд сэргээхээр төлөвлөгдсөн гэсэн. Гэхдээ засвар хойшлох нь бий шүү.",
+   "en": "It said it's due to be restored on the 22nd. But repairs do run late sometimes.",
+   "mn_latin": "22-nd sergeekheer tölövlögdsön gesen. Gekhdee zasvar khoishlokh ni bii shüü."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Тийм ээ, өнгөрсөн жил арав хоногийн турш хаалттай байсан. Хуваарь өөрчлөгдвөл СӨХ мэдэгдэх байх.",
+   "en": "Right, last year it was off for ten days. If the schedule changes, the homeowners' association will probably let us know.",
+   "mn_latin": "Tiim ee, öngörsön jil arav khonogiin tursh khaalttai baisan. Khuvaari öörchlögdvöl SÖKh medegdekh baikh."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Тэгэлгүй яах вэ. Тэр болтол данхаараа ус буцалгаж байя даа.",
+   "en": "Of course. Until then, I guess we'll just boil water in the kettle.",
+   "mn_latin": "Tegelgüi yaakh ve. Ter boltol dankhaaraa us butsalgaj baiya daa."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, most apartment buildings get both heat and hot water from a central district heating network. Every summer, the heating company shuts off the hot water district by district to repair and test the pipelines. The schedule is posted online and taped to building entrances. During the shutoff, people heat water in kettles and big pots, visit relatives in other districts, or go to a public bathhouse (нийтийн халуун усны газар).",
+  "mn": "Улаанбаатарын ихэнх орон сууц дулаан, халуун усаа төвийн дулааны сүлжээнээс авдаг. Зун болгон дулааны компани шугамаа засаж, туршихын тулд хороолол хорооллоор нь халуун усыг ээлжлэн хаадаг. Хуваарийг сайтад нийтэлж, орцны хаалган дээр наадаг. Хаалтын үеэр хүмүүс данх, том тогоонд ус халааж хэрэглэдэг. Мөн өөр хороололд байдаг хамаатныдаа очих юм уу нийтийн халуун усны газар орох нь түгээмэл."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A solid, natural lesson. The fixes are a vowel-harmony error in an abbreviation's case ending, a wrong grammar term, a missing 'on' in an English blank, a mistranslated example, and a stem vowel-drop error."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 4,
+  "notes": "Lesson is largely accurate; the fixes are a wrong alternative translation, an unnatural English alternative, and a more natural Mongolian translation for the last fill-in item.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "буцалгах means 'boil', not just 'heat'"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'is planned to be off' is unnatural English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "intransitive эхлэх matches 'repairs are due to start' more naturally"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "keep consistent with corrected translation"
+   }
+  ]
+ }
+}

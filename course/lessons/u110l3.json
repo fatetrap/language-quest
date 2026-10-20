@@ -1,0 +1,385 @@
+{
+ "intro_en": "In this lesson you will practice interviewing suspects and checking alibis in Mongolian. You will also learn to make confident deductions with -сан байж таарна, the Mongolian way of saying \"must have done.\"",
+ "intro_mn": "Энэ хичээлээр та сэжигтнийг байцааж, алибиг шалгах үед хэрэглэдэг англи үг хэллэгийг сурна. Мөн нотолгоонд тулгуурлан дүгнэлт хийх \"must have + V3\" бүтцийг эзэмшинэ.",
+ "vocab": [
+  {
+   "mn": "сэжигтэн",
+   "en": "suspect",
+   "pos": "noun",
+   "example_mn": "Цагдаа гурван сэжигтнийг байцаасан.",
+   "example_en": "The police questioned three suspects.",
+   "mn_latin": "sejigten"
+  },
+  {
+   "mn": "сэдэл",
+   "en": "motive",
+   "pos": "noun",
+   "example_mn": "Түүнд аллага үйлдэх сэдэл байгаагүй.",
+   "example_en": "He had no motive to commit the murder.",
+   "mn_latin": "sedel"
+  },
+  {
+   "mn": "алиби",
+   "en": "alibi",
+   "pos": "noun",
+   "example_mn": "Түүний алиби батлагдсангүй.",
+   "example_en": "His alibi wasn't confirmed.",
+   "mn_latin": "alibi"
+  },
+  {
+   "mn": "худал мэдүүлэг",
+   "en": "false statement, false testimony",
+   "pos": "noun phrase",
+   "example_mn": "Худал мэдүүлэг өгөх нь гэмт хэрэг.",
+   "example_en": "Giving false testimony is a crime.",
+   "mn_latin": "khudal medüüleg"
+  },
+  {
+   "mn": "мэдүүлэг өгөх",
+   "en": "to give a statement, to testify",
+   "pos": "verb phrase",
+   "example_mn": "Гэрч мэдүүлэг өгөхөөс татгалзсан.",
+   "example_en": "The witness refused to give a statement.",
+   "mn_latin": "medüüleg ögökh"
+  },
+  {
+   "mn": "байцаах",
+   "en": "to interrogate, to question",
+   "pos": "verb",
+   "example_mn": "Мөрдөгч сэжигтнийг хоёр цаг байцаасан.",
+   "example_en": "The detective questioned the suspect for two hours.",
+   "mn_latin": "baitsaakh"
+  },
+  {
+   "mn": "гэрч",
+   "en": "witness",
+   "pos": "noun",
+   "example_mn": "Гэрч тэр шөнө цонхоор хэн нэгнийг харсан гэж хэлсэн.",
+   "example_en": "The witness said she saw someone through the window that night.",
+   "mn_latin": "gerch"
+  },
+  {
+   "mn": "өв",
+   "en": "inheritance",
+   "pos": "noun",
+   "example_mn": "Тэр авга ахынхаа өвийг авах ёстой байсан.",
+   "example_en": "He was supposed to receive his uncle's inheritance.",
+   "mn_latin": "öv"
+  },
+  {
+   "mn": "зөрчилдөх",
+   "en": "to contradict, to conflict with",
+   "pos": "verb",
+   "example_mn": "Түүний яриа өмнөх мэдүүлэгтэйгээ зөрчилдөж байна.",
+   "example_en": "What he's saying contradicts his earlier statement.",
+   "mn_latin": "zörchildökh"
+  },
+  {
+   "mn": "нуух",
+   "en": "to hide, to conceal",
+   "pos": "verb",
+   "example_mn": "Тэр ямар нэг юм нууж байгаа нь илт.",
+   "example_en": "It's obvious she's hiding something.",
+   "mn_latin": "nuukh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тэр түлхүүрийг авсан байж таарна.",
+   "en": "He must have taken the key.",
+   "alt_mn": [
+    "Тэр түлхүүрийг авсан байх ёстой."
+   ],
+   "alt_en": [
+    "She must have taken the key."
+   ],
+   "mn_latin": "Ter tülkhüüriig avsan baij taarna."
+  },
+  {
+   "mn": "Сэжигтэн бүрд хохирогчийг үзэн ядах өөр өөрийн сэдэл байсан.",
+   "en": "Each suspect had their own reason to hate the victim.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every suspect had their own motive to hate the victim."
+   ],
+   "mn_latin": "Sejigten bürd khokhirogchiig üzen yadakh öör ööriin sedel baisan."
+  },
+  {
+   "mn": "Түүний алиби эхэндээ бат бөх мэт санагдсан ч хоёр гэрч үүнийг үгүйсгэсэн.",
+   "en": "Her alibi seemed solid at first, but two witnesses refuted it.",
+   "alt_mn": [],
+   "alt_en": [
+    "His alibi seemed solid at first, but two witnesses refuted it.",
+    "Her alibi seemed solid at first, but two witnesses contradicted it."
+   ],
+   "mn_latin": "Tüünii alibi ekhendee bat bökh met sanagdsan ch khoyor gerch üüniig ügüisgesen."
+  },
+  {
+   "mn": "Хэрэв тэр арван цагт галт тэргэнд сууж байсан бол хэргийн газарт байсан байх боломжгүй.",
+   "en": "If he was on the train at ten, he couldn't have been at the crime scene.",
+   "alt_mn": [],
+   "alt_en": [
+    "If he was on the train at ten, he can't have been at the crime scene."
+   ],
+   "mn_latin": "Kherev ter arvan tsagt galt tergend suuj baisan bol khergiin gazart baisan baikh bolomjgüi."
+  },
+  {
+   "mn": "Жижүүр худал мэдүүлэг өгсөн байж таарна, учир нь камерын бичлэг өөр юм харуулж байна.",
+   "en": "The night guard must have given a false statement, because the camera footage shows something different.",
+   "alt_mn": [],
+   "alt_en": [
+    "The guard must have lied in his statement, because the camera footage shows something different."
+   ],
+   "mn_latin": "Jijüür khudal medüüleg ögsön baij taarna, uchir ni kamyeryn bichleg öör yum kharuulj baina."
+  },
+  {
+   "mn": "Мөрдөгч сэжигтнийг байцаахдаа нэг асуултаа санаатайгаар хэд хэдэн удаа давтав.",
+   "en": "While questioning the suspect, the detective deliberately repeated one question several times.",
+   "alt_mn": [],
+   "alt_en": [
+    "When interrogating the suspect, the detective repeated one question several times on purpose."
+   ],
+   "mn_latin": "Mördögch sejigtniig baitsaakhdaa neg asuultaa sanaataigaar khed kheden udaa davtav."
+  },
+  {
+   "mn": "Таны өнөөдөр хэлсэн зүйл өчигдрийн мэдүүлэгтэй тань зөрчилдөж байна.",
+   "en": "What you said today contradicts your statement from yesterday.",
+   "alt_mn": [],
+   "alt_en": [
+    "What you told us today contradicts yesterday's statement."
+   ],
+   "mn_latin": "Tany önöödör khelsen züil öchigdriin medüülegtei tani zörchildöj baina."
+  },
+  {
+   "mn": "Өвийн асуудлаас болж ах дүү хоёр олон жил ярилцаагүй байжээ.",
+   "en": "Apparently the two brothers hadn't spoken for years because of the inheritance.",
+   "alt_mn": [],
+   "alt_en": [
+    "It turns out the two brothers hadn't talked for years over the inheritance."
+   ],
+   "mn_latin": "Öviin asuudlaas bolj akh düü khoyor olon jil yariltsaagüi baijee."
+  },
+  {
+   "mn": "Хаалга дотроосоо түгжээтэй байсан тул алуурчин цонхоор гарсан байж таарна.",
+   "en": "The door was locked from the inside, so the killer must have left through the window.",
+   "alt_mn": [],
+   "alt_en": [
+    "Since the door was locked from the inside, the murderer must have escaped through the window."
+   ],
+   "mn_latin": "Khaalga dotroosoo tügjeetei baisan tul aluurchin tsonkhoor garsan baij taarna."
+  },
+  {
+   "mn": "Сэдэлтэй байна гэдэг гэм буруутай гэсэн үг биш.",
+   "en": "Having a motive doesn't mean being guilty.",
+   "alt_mn": [],
+   "alt_en": [
+    "Having a motive doesn't make someone guilty."
+   ],
+   "mn_latin": "Sedeltei baina gedeg gem buruutai gesen üg bish."
+  },
+  {
+   "mn": "Та тэр орой хаана, хэнтэй байснаа нарийн хэлж өгнө үү.",
+   "en": "Please tell us exactly where you were that evening and who you were with.",
+   "alt_mn": [],
+   "alt_en": [
+    "Please tell us in detail where you were that night and who you were with."
+   ],
+   "mn_latin": "Ta ter oroi khaana, khentei baisnaa nariin khelj ögnö üü."
+  },
+  {
+   "mn": "Тэр биднээс ямар нэг юм нууж байгаа нь илт, гэхдээ яг юуг гэдгийг бид хараахан мэдэхгүй байна.",
+   "en": "It's obvious he's hiding something from us, but we don't know exactly what yet.",
+   "alt_mn": [],
+   "alt_en": [
+    "She's clearly hiding something from us, but we don't know exactly what yet."
+   ],
+   "mn_latin": "Ter bidnees yamar neg yum nuuj baigaa ni ilt, gekhdee yag yuug gedgiig bid kharaakhan medekhgüi baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Confident deductions: -сан байж таарна (\"must have done\")",
+  "title_mn": "Нотолгоонд тулгуурласан дүгнэлт: must have / can't have + V3",
+  "explain_en": "When the evidence points to only one explanation, Mongolian uses the past participle (-сан/-сэн/-сон/-сөн, following vowel harmony) + байж таарна. Literally it means \"it fits that (someone) has done it,\" and it matches English \"must have done.\" Examples: авсан байж таарна (must have taken), үзсэн байж таарна (must have seen), орсон байж таарна (must have entered). For a negative deduction, use the negative past participle -аагүй/-ээгүй/-оогүй/-өөгүй (also by vowel harmony) + байж таарна: мэдээгүй байж таарна (must not have known). Compare it with weaker guesses: -сан байх (probably did) and -сан байж магадгүй (might have done). Detectives use байж таарна when they are almost certain.",
+  "explain_mn": "Англи хэлэнд өнгөрсөн үйлийн талаар нотолгоонд үндэслэн итгэлтэй дүгнэлт хийхдээ must have + V3 бүтэц хэрэглэдэг: He must have taken the key (Тэр түлхүүрийг авсан байж таарна). Боломжгүй гэж дүгнэвэл can't have эсвэл couldn't have + V3 хэрэглэнэ: She can't have been there (Тэр тэнд байсан байх боломжгүй). Анхаар: энэ утгаар mustn't have гэж хэлдэггүй. Итгэл багатай таамаглалд might have / may have + V3 хэрэглэнэ: He might have lied (Тэр худлаа хэлсэн байж магадгүй).",
+  "examples": [
+   {
+    "mn": "Тэр түлхүүрийг авсан байж таарна.",
+    "en": "She must have taken the key.",
+    "mn_latin": "Ter tülkhüüriig avsan baij taarna."
+   },
+   {
+    "mn": "Цонх онгорхой байна. Хэн нэгэн орж ирсэн байж таарна.",
+    "en": "The window is open. Someone must have come in.",
+    "mn_latin": "Tsonkh ongorkhoi baina. Khen negen orj irsen baij taarna."
+   },
+   {
+    "mn": "Тэр энэ тухай мэдээгүй байж таарна.",
+    "en": "He must not have known about this.",
+    "mn_latin": "Ter ene tukhai medeegüi baij taarna."
+   },
+   {
+    "mn": "Тэр тэр орой гэртээ байсан байж магадгүй.",
+    "en": "He might have been at home that evening.",
+    "mn_latin": "Ter ter oroi gertee baisan baij magadgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шалан дээр шавартай мөр байна. Алуурчин цэцэрлэгээр орж ирсэн байж ___.",
+   "answer": "таарна",
+   "options": [
+    "таарна",
+    "чадна",
+    "өгнө",
+    "гарна"
+   ],
+   "translation": "There are muddy footprints on the floor. The killer must have come in through the garden.",
+   "explain_en": "The fixed expression for a confident deduction is -сан байж таарна, \"must have done.\" The other verbs don't combine with байж to express inference.",
+   "explain_mn": "Англиар \"must have come in\" гэж нотолгоонд тулгуурласан итгэлтэй дүгнэлт хийж байна. Монголоор үүнийг \"-сан байж таарна\" гэж илэрхийлдэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Түүнд хохирогчийг алах ямар ч ___ байгаагүй.",
+   "answer": "сэдэл",
+   "options": [
+    "сэдэл",
+    "алиби",
+    "гэрч",
+    "мэдүүлэг"
+   ],
+   "translation": "He had no motive whatsoever to kill the victim.",
+   "explain_en": "Сэдэл is the reason someone would commit a crime (motive). Алиби is proof you were somewhere else, гэрч is a witness, and мэдүүлэг is a statement.",
+   "explain_mn": "Англиар \"motive\" гэдэг нь гэмт хэрэг үйлдэх шалтгаан буюу сэдэл юм. \"Alibi\" бол өөр газар байсныг нотлох баримт, \"witness\" бол гэрч, \"statement\" бол мэдүүлэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Хаалга эвдрээгүй тул тэр түлхүүрээр ___ байж таарна.",
+   "answer": "орсон",
+   "options": [
+    "орсон",
+    "орох",
+    "орж",
+    "орвол"
+   ],
+   "translation": "The door wasn't forced, so he must have gotten in with a key.",
+   "explain_en": "Байж таарна needs a past participle in front of it. Орох has back rounded vowels, so the suffix is -сон: орсон. Орох is future, орж is a converb, and орвол means \"if.\"",
+   "explain_mn": "Англи хэлэнд must have-ын дараа V3 хэлбэр ордог (must have gotten in). Монголоор \"байж таарна\"-гийн өмнө өнгөрсөн цагийн үйлт нэр ордог: орсон."
+  },
+  {
+   "lang": "en",
+   "text": "The window is broken, so someone must ___ broken in.",
+   "answer": "have",
+   "options": [
+    "have",
+    "has",
+    "had",
+    "be"
+   ],
+   "translation": "Цонх хагарсан байна, тэгэхээр хэн нэгэн нэвтэрч орсон байж таарна.",
+   "explain_en": "A deduction about the past uses must + have + past participle. Modal verbs are always followed by the base form, so it's \"have,\" never \"has\" or \"had.\"",
+   "explain_mn": "Өнгөрсөн үйлийн тухай дүгнэлтэд must + have + V3 хэрэглэнэ. Модал үйл үгийн дараа үргэлж үндсэн хэлбэр ордог тул has, had биш, have байна."
+  },
+  {
+   "lang": "en",
+   "text": "He was in Paris that night, so he ___ have killed her.",
+   "answer": "can't",
+   "options": [
+    "can't",
+    "mustn't",
+    "shouldn't",
+    "needn't"
+   ],
+   "translation": "Тэр тэр шөнө Парист байсан, тэгэхээр түүнийг алсан байх боломжгүй.",
+   "explain_en": "When we conclude that something was impossible, we use can't have or couldn't have. Mustn't means a prohibition, so it doesn't work for deductions.",
+   "explain_mn": "Боломжгүй гэж дүгнэхдээ can't have / couldn't have хэрэглэнэ. Mustn't нь \"хориотой\" гэсэн утгатай тул дүгнэлтэд хэрэглэдэггүй. Энэ бол түгээмэл алдаа."
+  },
+  {
+   "lang": "en",
+   "text": "Her ___ was confirmed by the hotel staff, so she's no longer a suspect.",
+   "answer": "alibi",
+   "options": [
+    "alibi",
+    "motive",
+    "suspect",
+    "crime"
+   ],
+   "translation": "Түүний алибиг зочид буудлын ажилчид баталсан тул тэр сэжигтэн байхаа больсон.",
+   "explain_en": "An alibi is what other people can confirm: proof that you were somewhere else. Once her alibi is confirmed, she is cleared.",
+   "explain_mn": "\"Alibi\" буюу алиби гэдэг нь тухайн үед өөр газар байсныг нотлох баримт. Бусад хүн үүнийг баталж чадна. Харин \"motive\" бол сэдэл."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Оюунаа",
+   "mn": "Ганбаатар аа, та өчигдөр орой есөөс арван нэгэн цагийн хооронд хаана байсан бэ?",
+   "en": "Ganbaatar, where were you yesterday evening between nine and eleven?",
+   "mn_latin": "Ganbaatar aa, ta öchigdör oroi yesöös arvan negen tsagiin khoorond khaana baisan be?"
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Би найзуудтайгаа Тэнгис кино театрт кино үзэж байсан. Тасалбар нь надад одоо ч байгаа.",
+   "en": "I was watching a movie with friends at Tengis Cinema. I still have the ticket.",
+   "mn_latin": "Bi naizuudtaigaa Tengis kino tyeatrt kino üzej baisan. Tasalbar ni nadad odoo ch baigaa."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Сонин юм. Кино есөн цагт эхэлсэн. Гэтэл арван цагт таны машин авга ахын тань байшингийн гадаа зогсож байхыг хөрш нь харсан байна.",
+   "en": "Interesting. The movie started at nine. But at ten, a neighbor saw your car parked outside your uncle's house.",
+   "mn_latin": "Sonin yum. Kino yesön tsagt ekhelsen. Getel arvan tsagt tany mashin avga akhyn tani baishingiin gadaa zogsoj baikhyg khörsh ni kharsan baina."
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Тэр хөрш андуурсан байж таарна. Ийм саарал Приус хотод мянга мянгаараа бий шүү дээ.",
+   "en": "That neighbor must have been mistaken. There are thousands of gray Priuses like that in the city.",
+   "mn_latin": "Ter khörsh anduursan baij taarna. Iim saaral Prius khotod myanga myangaaraa bii shüü dee."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Магадгүй. Гэхдээ авга ах тань гэрээслэлээ өөрчлөх гэж байсныг та мэдэж байсан уу?",
+   "en": "Maybe. But did you know your uncle was about to change his will?",
+   "mn_latin": "Magadgüi. Gekhdee avga akh tani gereeslelee öörchlökh gej baisnyg ta medej baisan uu?"
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Үгүй ээ. Энэ тухай би анх удаа сонсож байна.",
+   "en": "No. This is the first I'm hearing about it.",
+   "mn_latin": "Ügüi ee. Ene tukhai bi ankh udaa sonsoj baina."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Түүний өмгөөлөгч өнгөрсөн долоо хоногт танд утсаар хэлсэн гэж мэдүүлсэн. Тэгэхээр та худал мэдүүлэг өгч байна гэсэн үг.",
+   "en": "His lawyer stated that he told you by phone last week. So that means you're giving a false statement.",
+   "mn_latin": "Tüünii ömgöölögch öngörsön doloo khonogt tand utsaar khelsen gej medüülsen. Tegekheer ta khudal medüüleg ögch baina gesen üg."
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "За... Би түүнтэй уулзахаар очсон нь үнэн. Гэхдээ намайг гарахад тэр амьд байсан!",
+   "en": "Okay... It's true that I went to see him. But he was alive when I left!",
+   "mn_latin": "Za... Bi tüüntei uulzakhaar ochson ni ünen. Gekhdee namaig garakhad ter amid baisan!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian criminal procedure, the words matter: a сэжигтэн (suspect) is someone under suspicion, while a яллагдагч (accused) has been formally charged. Investigators, called мөрдөн байцаагч, record each person's мэдүүлэг in writing. Even in tense interviews, officials normally address suspects with the polite \"та,\" which is why the detective in the dialogue stays formal.",
+  "mn": "Англи хэлэнд \"suspect\" (сэжигтэн) болон \"the accused\" буюу \"defendant\" (яллагдагч, шүүгдэгч) гэсэн үгсийг ялгаж хэрэглэдэг. Мөн \"statement\" (мэдүүлэг) болон \"testimony\" (шүүхэд өгөх мэдүүлэг) ч ялгаатай. Англи хэлний детектив зохиолд мөрдөгч \"Where were you on the night of...?\" гэсэн асуултаар байцаалтаа эхлэх нь бараг уламжлал болсон байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A strong, natural lesson. The only real errors were a missing dative and past form in one sentence and an inaccurate grammar term in one explanation."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is clean overall. The only fix is the negative-suffix explanation, which now lists the vowel-harmony variants so it matches its own example.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The negative suffix was given only as -аагүй, but the example мэдээгүй uses -ээгүй. Added the vowel-harmony variants."
+   }
+  ]
+ }
+}

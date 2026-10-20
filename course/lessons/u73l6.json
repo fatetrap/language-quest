@@ -1,0 +1,488 @@
+{
+ "intro_en": "You will tell and respond to a complete online shopping story, from the order to the refund, using the unit's vocabulary. You will also combine -хаар and -х гэсэн чинь in Mongolian narration, and use make/let/allow/get in English.",
+ "intro_mn": "Та захиалгаас буцаан олголт хүртэлх онлайн худалдааны бүтэн түүхийг ярьж, хариулж сурна. Мөн монгол хэлэнд -хаар болон -х гэсэн чинь дагавруудыг холбон ярих, англи хэлэнд make/let/allow/get үйл үгсийг хэрэглэх дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "захиалга",
+   "en": "order",
+   "pos": "noun",
+   "example_mn": "Би Цагаан сарын бэлгийн захиалгаа өгсөн.",
+   "example_en": "I placed my order for a Tsagaan Sar gift.",
+   "mn_latin": "zakhialga"
+  },
+  {
+   "mn": "хүргэлт",
+   "en": "delivery",
+   "pos": "noun",
+   "example_mn": "Хүргэлт хоёр хоногийн дараа ирнэ.",
+   "example_en": "The delivery will arrive in two days.",
+   "mn_latin": "khürgelt"
+  },
+  {
+   "mn": "түгжрэл",
+   "en": "traffic jam",
+   "pos": "noun",
+   "example_mn": "Түгжрэлээс болоод хүргэлт удсан.",
+   "example_en": "The delivery was late because of the traffic jam.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "буцаах",
+   "en": "to return",
+   "pos": "verb",
+   "example_mn": "Би хүрмийг буцаахыг хүссэн.",
+   "example_en": "I wanted to return the coat.",
+   "mn_latin": "butsaakh"
+  },
+  {
+   "mn": "буцаан олголт",
+   "en": "refund",
+   "pos": "noun",
+   "example_mn": "Буцаан олголт гурван хоногт орсон.",
+   "example_en": "The refund came through in three days.",
+   "mn_latin": "butsaan olgolt"
+  },
+  {
+   "mn": "гэмтсэн",
+   "en": "damaged",
+   "pos": "adjective",
+   "example_mn": "Хайрцаг нь гэмтсэн байсан.",
+   "example_en": "The box was damaged.",
+   "mn_latin": "gemtsen"
+  },
+  {
+   "mn": "сэтгэгдэл",
+   "en": "review / comment",
+   "pos": "noun",
+   "example_mn": "Би дэлгүүрт муу сэтгэгдэл бичсэн.",
+   "example_en": "I wrote a bad review for the shop.",
+   "mn_latin": "setgegdel"
+  },
+  {
+   "mn": "залилан",
+   "en": "scam",
+   "pos": "noun",
+   "example_mn": "Энэ сайт залилан байж магадгүй.",
+   "example_en": "This site might be a scam.",
+   "mn_latin": "zalilan"
+  },
+  {
+   "mn": "төлбөр",
+   "en": "payment",
+   "pos": "noun",
+   "example_mn": "Төлбөр амжилттай хийгдлээ.",
+   "example_en": "The payment went through successfully.",
+   "mn_latin": "tölbör"
+  },
+  {
+   "mn": "гомдол гаргах",
+   "en": "to file a complaint",
+   "pos": "verb phrase",
+   "example_mn": "Би дэлгүүрт гомдол гаргасан.",
+   "example_en": "I filed a complaint with the shop.",
+   "mn_latin": "gomdol gargakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би аавдаа Цагаан сарын бэлэг захиалсан.",
+   "en": "I ordered a Tsagaan Sar gift for my father.",
+   "alt_mn": [
+    "Би аавдаа зориулж Цагаан сарын бэлэг захиалсан."
+   ],
+   "alt_en": [
+    "I ordered a Tsagaan Sar present for my dad."
+   ],
+   "mn_latin": "Bi aavdaa Tsagaan saryn beleg zakhialsan."
+  },
+  {
+   "mn": "Хүргэлт удаж байгаа тул би курьер рүү залгасан.",
+   "en": "The delivery was taking a long time, so I called the courier.",
+   "alt_mn": [
+    "Хүргэлт удсан тул би курьерт залгасан."
+   ],
+   "alt_en": [
+    "The delivery was late, so I called the courier."
+   ],
+   "mn_latin": "Khürgelt udaj baigaa tul bi kuriyer rüü zalgasan."
+  },
+  {
+   "mn": "Хайрцгийг нээхээр дотор нь аяга хагархай байсан.",
+   "en": "When I opened the box, the cup inside was broken.",
+   "alt_mn": [
+    "Хайрцгийг онгойлгохоор аяга хагархай байсан."
+   ],
+   "alt_en": [
+    "When I opened the box, I found the cup inside was broken."
+   ],
+   "mn_latin": "Khairtsgiig neekheer dotor ni ayaga khagarkhai baisan."
+  },
+  {
+   "mn": "Захиалгаа шалгах гэсэн чинь төлбөр хоёр удаа авагдсан байсан.",
+   "en": "When I went to check my order, the payment had been taken twice.",
+   "alt_mn": [
+    "Захиалгаа шалгах гэсэн чинь мөнгө хоёр удаа хасагдсан байсан."
+   ],
+   "alt_en": [
+    "I tried to check my order and found the payment had been charged twice."
+   ],
+   "mn_latin": "Zakhialgaa shalgakh gesen chini tölbör khoyor udaa avagdsan baisan."
+  },
+  {
+   "mn": "Дэлгүүрт бичсэн боловч хариу өгөөгүй, дахин залгах гэсэн чинь утас нь холбогдсонгүй.",
+   "en": "When I wrote to the shop they didn't reply, and when I tried calling again, the phone wouldn't connect.",
+   "alt_mn": [],
+   "alt_en": [
+    "I wrote to the shop but got no reply, and when I tried to call again, I couldn't get through."
+   ],
+   "mn_latin": "Delgüürt bichsen bolovch khariu ögöögüi, dakhin zalgakh gesen chini utas ni kholbogdsongüi."
+  },
+  {
+   "mn": "Би барааг буцаахаар шууданд очсон.",
+   "en": "I went to the post office to return the item.",
+   "alt_mn": [
+    "Би барааг буцаахаар шуудан дээр очсон."
+   ],
+   "alt_en": [
+    "I went to the post office in order to return the goods."
+   ],
+   "mn_latin": "Bi baraag butsaakhaar shuudand ochson."
+  },
+  {
+   "mn": "Буцаан олголт авах гэсэн чинь гурван хоног хүлээх ёстой гэсэн.",
+   "en": "When I tried to get the refund, they said I had to wait three days.",
+   "alt_mn": [],
+   "alt_en": [
+    "I tried to get a refund, but they said I had to wait three days."
+   ],
+   "mn_latin": "Butsaan olgolt avakh gesen chini gurvan khonog khüleekh yostoi gesen."
+  },
+  {
+   "mn": "Менежер намайг хүлээлгэсэнгүй, мөнгийг шууд буцаалгасан.",
+   "en": "The manager didn't make me wait; he had the money returned right away.",
+   "alt_mn": [],
+   "alt_en": [
+    "The manager didn't keep me waiting and got the money refunded immediately."
+   ],
+   "mn_latin": "Myenyejyer namaig khüleelgesengüi, möngiig shuud butsaalgasan."
+  },
+  {
+   "mn": "Энэ дэлгүүр хэрэглэгчдэд бараагаа долоо хоногийн дотор буцаахыг зөвшөөрдөг.",
+   "en": "This shop allows customers to return goods within a week.",
+   "alt_mn": [
+    "Энэ дэлгүүр долоо хоногийн дотор буцаахыг зөвшөөрдөг."
+   ],
+   "alt_en": [
+    "This shop lets customers return items within a week."
+   ],
+   "mn_latin": "Ene delgüür khereglegchded baraagaa doloo khonogiin dotor butsaakhyg zövshöördög."
+  },
+  {
+   "mn": "Би муу сэтгэгдэл бичсэний дараа дэлгүүр надаас уучлал гуйсан.",
+   "en": "After I wrote a bad review, the shop apologized to me.",
+   "alt_mn": [],
+   "alt_en": [
+    "The shop apologized to me after I wrote a bad review."
+   ],
+   "mn_latin": "Bi muu setgegdel bichsenii daraa delgüür nadaas uuchlal guisan."
+  },
+  {
+   "mn": "Би найздаа залилангаас болгоомжлохыг сануулсан.",
+   "en": "I warned my friend to be careful about scams.",
+   "alt_mn": [
+    "Би найздаа залилангаас болгоомжил гэж сануулсан."
+   ],
+   "alt_en": [
+    "I warned my friend to watch out for scams."
+   ],
+   "mn_latin": "Bi naizdaa zalilangaas bolgoomjlokhyg sanuulsan."
+  },
+  {
+   "mn": "Хэрэв би дахин захиалбал сэтгэгдлийг эхлээд уншина.",
+   "en": "If I order again, I'll read the reviews first.",
+   "alt_mn": [
+    "Дахин захиалбал эхлээд сэтгэгдлийг нь уншина."
+   ],
+   "alt_en": [
+    "If I order again, I will read the comments first."
+   ],
+   "mn_latin": "Kherev bi dakhin zakhialbal setgegdliig ekhleed unshina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling a story: -хаар and -х гэсэн чинь (and make/let/allow/get in English)",
+  "title_mn": "Түүх ярих нь: -хаар, -х гэсэн чинь (ба англи хэлний make/let/allow/get)",
+  "explain_en": "In a Mongolian story, verb stem + -хаар (-хаар/-хээр/-хоор/-хөөр) means 'when I did X, I found Y': Нээхээр аяга хагархай байсан. Use -х гэсэн чинь for 'I was about to / tried to do X, and (surprisingly) Y happened'. It is very common in narration: Залгах гэсэн чинь утас хаалттай байсан. Chain them: first -хаар for the discovery, then -х гэсэн чинь for the next attempt that failed. The second clause is usually something unexpected, in the past tense. In English, make + person + base verb means forcing or causing: The manager made me wait. Let/allow mean permitting: let takes no 'to' (let us return), allow takes 'to' (allows us to return). Get + person + to + verb means persuading someone to do something: I got the shop to refund me. Get + thing + past participle: I got the money refunded.",
+  "explain_mn": "Монгол хэлээр түүх ярихдаа үйл үгийн үндэс + -хаар (-хаар/-хээр/-хоор/-хөөр) нь 'X-ийг хийхэд Y байгааг олж мэдсэн' гэсэн утгатай: Нээхээр аяга хагархай байсан. -х гэсэн чинь нь 'X-ийг хийх гэтэл (гэнэт) Y болсон' гэсэн утгатай бөгөөд ярианд маш түгээмэл: Залгах гэсэн чинь утас хаалттай байсан. Эдгээрийг холбож хэрэглэнэ: эхлээд -хаар-аар олж мэдсэн зүйлээ, дараа нь -х гэсэн чинь-ээр бүтэлгүйтсэн оролдлогоо ярина. Хоёр дахь өгүүлбэр нь ихэвчлэн гэнэтийн зүйл, өнгөрсөн цагтай байдаг. Англи хэлэнд make + хүн + үйлийн үндсэн хэлбэр нь албадах, шалтгаан болгох утгатай: The manager made me wait (намайг хүлээлгэсэн). Let/allow нь зөвшөөрөх: let-ийн ард 'to' орохгүй (let us return), allow-ийн ард 'to' орно (allows us to return). Get + хүн + to + үйл нь 'ятгаж хийлгэх': I got the shop to refund me. Get + зүйл + үйл үгийн өнгөрсөн цагийн нөхцөл (past participle): I got the money refunded.",
+  "examples": [
+   {
+    "mn": "Хайрцгийг нээхээр аяга хагархай байсан.",
+    "en": "When I opened the box, the cup was broken.",
+    "mn_latin": "Khairtsgiig neekheer ayaga khagarkhai baisan."
+   },
+   {
+    "mn": "Дахин залгах гэсэн чинь утас хаалттай байсан.",
+    "en": "I tried to call again, but the phone was off.",
+    "mn_latin": "Dakhin zalgakh gesen chini utas khaalttai baisan."
+   },
+   {
+    "mn": "Дэлгүүр намайг буцаан олголт авахыг зөвшөөрсөн.",
+    "en": "The shop allowed me to get a refund.",
+    "mn_latin": "Delgüür namaig butsaan olgolt avakhyg zövshöörsön."
+   },
+   {
+    "mn": "Би менежерээр мөнгийг буцаалгасан.",
+    "en": "I got the manager to refund the money.",
+    "mn_latin": "Bi myenyejyereer möngiig butsaalgasan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хайрцгийг нээ___ дотор нь бэлэг хагархай байсан.",
+   "answer": "хээр",
+   "options": [
+    "хээр",
+    "хаар",
+    "хоор",
+    "хөөр"
+   ],
+   "translation": "When I opened the box, the gift inside was broken.",
+   "explain_en": "нээ- has front vowels (ээ), so the ending is -хээр: нээхээр.",
+   "explain_mn": "«нээ-» нь эр эгшигтэй биш (ээ нь эмэгтэй эгшиг) тул -хээр дагавар залгана: нээхээр."
+  },
+  {
+   "lang": "mn",
+   "text": "Курьерт залга___ гэсэн чинь утас нь хаалттай байсан.",
+   "answer": "х",
+   "options": [
+    "х",
+    "сан",
+    "ж",
+    "на"
+   ],
+   "translation": "I tried to call the courier, but his phone was off.",
+   "explain_en": "The pattern is verb stem + -х гэсэн чинь: залгах гэсэн чинь.",
+   "explain_mn": "«-х гэсэн чинь» бүтэц: үйл үгийн үндэс + х: залгах гэсэн чинь."
+  },
+  {
+   "lang": "mn",
+   "text": "Барааг буцаа___ шуудан руу явсан.",
+   "answer": "хаар",
+   "options": [
+    "хаар",
+    "хээр",
+    "сан",
+    "даг"
+   ],
+   "translation": "I went to the post office to return the item.",
+   "explain_en": "буцаа- has a back vowel (аа), so we use -хаар: буцаахаар (also 'in order to').",
+   "explain_mn": "«буцаа-» нь эр эгшигтэй (аа) тул -хаар: буцаахаар. Зорилго илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The manager ___ me wait for an hour.",
+   "answer": "made",
+   "options": [
+    "made",
+    "allowed",
+    "got",
+    "wanted"
+   ],
+   "translation": "Менежер намайг нэг цаг хүлээлгэсэн.",
+   "explain_en": "'Make + person + base verb' means to force someone to do something.",
+   "explain_mn": "Make + хүн + үндсэн хэлбэр = албадах: made me wait."
+  },
+  {
+   "lang": "en",
+   "text": "The shop doesn't ___ customers to return sale items.",
+   "answer": "allow",
+   "options": [
+    "allow",
+    "let",
+    "make",
+    "have"
+   ],
+   "translation": "Дэлгүүр хэрэглэгчдэд хямдралтай барааг буцаахыг зөвшөөрдөггүй.",
+   "explain_en": "'Allow' is followed by 'to + verb'. 'Let', 'make' and 'have' take a bare verb with no 'to', so they don't fit here.",
+   "explain_mn": "Allow-ийн ард 'to + үйл' орно. Let, make, have-ийн ард 'to' орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I finally got the company ___ my money back.",
+   "answer": "to give",
+   "options": [
+    "to give",
+    "give",
+    "giving",
+    "gave"
+   ],
+   "translation": "Би эцэст нь компаниар мөнгөө буцаалгасан.",
+   "explain_en": "'Get + person + to + verb' means to persuade someone to do something.",
+   "explain_mn": "Get + хүн + to + үйл = ятгаж хийлгэх: got the company to give."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Чи Цагаан сарын бэлгээ онлайнаар захиалсан гэсэн үү? Юу болсон бэ?",
+   "en": "I heard you ordered your Tsagaan Sar gift online. What happened?",
+   "mn_latin": "Chi Tsagaan saryn belgee onlainaar zakhialsan gesen üü? Yuu bolson be?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Аавдаа цахилгаан данх захиалсан. Хүргэлт түгжрэлээс болж хоцорсон.",
+   "en": "I ordered a kettle for my dad. The delivery was late because of traffic.",
+   "mn_latin": "Aavdaa tsakhilgaan dankh zakhialsan. Khürgelt tügjrelees bolj khotsorson."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгээд ирсэн үү?",
+   "en": "And did it arrive?",
+   "mn_latin": "Tegeed irsen üü?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Ирсэн. Гэтэл хайрцгийг нээхээр таг нь хагархай байсан.",
+   "en": "It did. But when I opened the box, the lid was cracked.",
+   "mn_latin": "Irsen. Getel khairtsgiig neekheer tag ni khagarkhai baisan."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Өө, муу байна. Дэлгүүрт хэлсэн үү?",
+   "en": "Oh, that's bad. Did you tell the shop?",
+   "mn_latin": "Öö, muu baina. Delgüürt khelsen üü?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Хэлэх гэсэн чинь эхлээд хариу өгөөгүй. Дараа нь зураг явуулахад менежер надад буцаан олголт хийсэн.",
+   "en": "When I tried to, they didn't reply at first. Then I sent photos and the manager gave me a refund.",
+   "mn_latin": "Khelekh gesen chini ekhleed khariu ögöögüi. Daraa ni zurag yavuulakhad myenyejyer nadad butsaan olgolt khiisen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна. Дэлгүүр чамайг буцаахыг зөвшөөрсөн нь сайн хэрэг.",
+   "en": "Good. It's great that the shop let you return it.",
+   "mn_latin": "Sain baina. Delgüür chamaig butsaakhyg zövshöörsön ni sain khereg."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм ээ, одоо би дандаа сэтгэгдлийг нь эхлээд уншдаг болсон.",
+   "en": "Yes, now I always read the reviews first.",
+   "mn_latin": "Tiim ee, odoo bi dandaa setgegdliig ni ekhleed unshdag bolson."
+  }
+ ],
+ "culture_note": {
+  "en": "Before Tsagaan Sar, online shops in Ulaanbaatar are very busy, because people buy gifts, clothes and household items for the holiday visits. Deliveries can be late due to traffic and the holiday rush, so people often order early. Telling a shopping story, including a complaint that ends well, is a common topic when relatives meet.",
+  "mn": "Цагаан сарын өмнө Улаанбаатарын онлайн дэлгүүрүүд маш завгүй байдаг, учир нь хүмүүс баярын айлчлалд зориулж бэлэг, хувцас, гэр ахуйн бараа худалдан авдаг. Түгжрэл болон баярын ачааллаас болж хүргэлт хоцрох тул хүмүүс ихэвчлэн эрт захиалдаг. Хамаатан садан уулзахад онлайнаар юм авсан түүх, гомдол гарган шийдүүлсэн явдлаа ярих нь элбэг байдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 14,
+  "notes": "Mostly good content, but several Mongolian sentences misuse -хаар, some fill-blank explanations are muddled, and a few translations don't match."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 16,
+  "notes": "Main issues: the grammar explanations did not match, several fill-blanks had more than one correct answer, and some translations were mismatched.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "en",
+    "why": "'taking long' is unnatural in an affirmative sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "alt was identical to the main translation"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "'nobody picked up' ≠ 'утас холбогдсонгүй'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "'had the money returned' needs causative буцаалгах"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "-сны дараа means 'after', not 'because'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "match the English explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'let me wait' was also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'get customers to return' was also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_en",
+    "why": "match new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_mn",
+    "why": "match new options and en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "add 'customers' to match the English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'өгүүлсэн' reads as 'narrated', so it is ambiguous and unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "'гэсэн үү' means 'I heard'"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "'цай чанагч' is not standard; the usual word for kettle is данх"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": null
+   }
+  ]
+ }
+}

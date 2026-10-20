@@ -1,0 +1,528 @@
+{
+ "intro_en": "You will learn to take part in a televised or town-hall debate: state your position, prove your points and criticize opposing views. You will also practice building a structured argument in Mongolian with -хын хувьд, -аас гадна and -хын зэрэгцээ, and using negative inversion in English.",
+ "intro_mn": "Та телевизийн болон нийтийн танхимын хэлэлцүүлэгт оролцож, байр сууриа илэрхийлэх, санаагаа нотлох, эсрэг үзлийг шүүмжлэх аргад суралцана. Мөн монгол хэлээр аргументаа -хын хувьд, -аас гадна, -хын зэрэгцээ гэсэн бүтцээр зохион байгуулж, англи хэлний 'Under no circumstances', 'In no way', 'At no point' зэрэг урвуу өгүүлбэрийн бүтцийг хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "маргах",
+   "en": "to argue, to debate",
+   "pos": "verb",
+   "example_mn": "Тэд төсвийн талаар удаан маргалаа.",
+   "example_en": "They argued for a long time about the budget.",
+   "mn_latin": "margakh"
+  },
+  {
+   "mn": "байр суурь",
+   "en": "position, stance",
+   "pos": "noun",
+   "example_mn": "Намын байр суурь тодорхой байна.",
+   "example_en": "The party's position is clear.",
+   "mn_latin": "bair suuri"
+  },
+  {
+   "mn": "нотлох",
+   "en": "to prove, to substantiate",
+   "pos": "verb",
+   "example_mn": "Та энэ мэдэгдлээ нотолж чадах уу?",
+   "example_en": "Can you prove this claim?",
+   "mn_latin": "notlokh"
+  },
+  {
+   "mn": "шүүмжлэх",
+   "en": "to criticize",
+   "pos": "verb",
+   "example_mn": "Сайд хуулийн төслийг хатуу шүүмжиллээ.",
+   "example_en": "The minister harshly criticized the draft law.",
+   "mn_latin": "shüümjlekh"
+  },
+  {
+   "mn": "эсэргүүцэх",
+   "en": "to oppose, to object to",
+   "pos": "verb",
+   "example_mn": "Оршин суугчид барилга барихыг эсэргүүцэв.",
+   "example_en": "Residents opposed the construction.",
+   "mn_latin": "esergüütsekh"
+  },
+  {
+   "mn": "дэмжих",
+   "en": "to support",
+   "pos": "verb",
+   "example_mn": "Би энэ саналыг бүрэн дэмжиж байна.",
+   "example_en": "I fully support this proposal.",
+   "mn_latin": "demjikh"
+  },
+  {
+   "mn": "хэлэлцүүлэг",
+   "en": "discussion, public debate",
+   "pos": "noun",
+   "example_mn": "Өнөө орой шууд хэлэлцүүлэг болно.",
+   "example_en": "A live debate takes place this evening.",
+   "mn_latin": "kheleltsüüleg"
+  },
+  {
+   "mn": "аргумент",
+   "en": "argument (reasoning)",
+   "pos": "noun",
+   "example_mn": "Түүний аргумент үнэхээр үнэмшилтэй байлаа.",
+   "example_en": "His argument was truly convincing.",
+   "mn_latin": "argumyent"
+  },
+  {
+   "mn": "няцаах",
+   "en": "to refute",
+   "pos": "verb",
+   "example_mn": "Тэр эсрэг талын санааг баримтаар няцаав.",
+   "example_en": "She refuted the opposing view with facts.",
+   "mn_latin": "nyatsaakh"
+  },
+  {
+   "mn": "асуудал хөндөх",
+   "en": "to raise an issue",
+   "pos": "verb phrase",
+   "example_mn": "Оролцогч агаарын бохирдлын асуудлыг хөндлөө.",
+   "example_en": "A participant raised the issue of air pollution.",
+   "mn_latin": "asuudal khöndökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөөдрийн хэлэлцүүлэгт гурван нам оролцож байна.",
+   "en": "Three parties are taking part in today's debate.",
+   "alt_mn": [],
+   "alt_en": [
+    "Three parties are participating in today's debate."
+   ],
+   "mn_latin": "Önöödriin kheleltsüülegt gurvan nam oroltsoj baina."
+  },
+  {
+   "mn": "Эдийн засгийн хувьд энэ төсөл ашигтай.",
+   "en": "Economically, this project is beneficial.",
+   "alt_mn": [],
+   "alt_en": [
+    "In economic terms, this project is beneficial."
+   ],
+   "mn_latin": "Ediin zasgiin khuvid ene tösöl ashigtai."
+  },
+  {
+   "mn": "Би энэ хуулийг эсэргүүцэж байна, учир нь үүнийг нотлох баримт хангалтгүй.",
+   "en": "I oppose this law because the evidence for it is insufficient.",
+   "alt_mn": [],
+   "alt_en": [
+    "I am against this law, as the supporting evidence is inadequate."
+   ],
+   "mn_latin": "Bi ene khuuliig esergüütsej baina, uchir ni üüniig notlokh barimt khangaltgüi."
+  },
+  {
+   "mn": "Агаарын бохирдлыг бууруулахын хувьд бидэнд шинэ бодлого хэрэгтэй.",
+   "en": "When it comes to reducing air pollution, we need a new policy.",
+   "alt_mn": [],
+   "alt_en": [
+    "As for reducing air pollution, we need a new policy."
+   ],
+   "mn_latin": "Agaaryn bokhirdlyg buuruulakhyn khuvid bidend shine bodlogo kheregtei."
+  },
+  {
+   "mn": "Үнэ өсөхөөс гадна орлого буурч байна.",
+   "en": "In addition to prices rising, incomes are falling.",
+   "alt_mn": [],
+   "alt_en": [
+    "On top of prices rising, incomes are falling."
+   ],
+   "mn_latin": "Üne ösökhöös gadna orlogo buurch baina."
+  },
+  {
+   "mn": "Сургууль барихын зэрэгцээ багш нарын цалинг нэмэх шаардлагатай.",
+   "en": "Alongside building schools, we need to raise teachers' salaries.",
+   "alt_mn": [],
+   "alt_en": [
+    "At the same time as building schools, we need to raise teachers' pay."
+   ],
+   "mn_latin": "Surguuli barikhyn zeregtsee bagsh naryn tsaling nemekh shaardlagatai."
+  },
+  {
+   "mn": "Ямар ч тохиолдолд бид боловсролын төсвийг танаж болохгүй.",
+   "en": "Under no circumstances should we cut the education budget.",
+   "alt_mn": [
+    "Ямар ч тохиолдолд боловсролын төсвийг танаж болохгүй."
+   ],
+   "alt_en": [
+    "Under no circumstances should the education budget be cut."
+   ],
+   "mn_latin": "Yamar ch tokhioldold bid bolovsrolyn tösviig tanaj bolokhgüi."
+  },
+  {
+   "mn": "Энэ нь ямар ч байдлаар иргэдийн эрхийг хөндөхгүй.",
+   "en": "In no way does this affect citizens' rights.",
+   "alt_mn": [],
+   "alt_en": [
+    "In no way does this infringe on citizens' rights."
+   ],
+   "mn_latin": "Ene ni yamar ch baidlaar irgediin erkhiig khöndökhgüi."
+  },
+  {
+   "mn": "Хэлэлцүүлгийн явцад тэр энэ асуултад нэг ч удаа хариулсангүй.",
+   "en": "At no point during the debate did he answer this question.",
+   "alt_mn": [],
+   "alt_en": [
+    "Not once during the debate did he answer this question."
+   ],
+   "mn_latin": "Kheleltsüülgiin yavtsad ter ene asuultad neg ch udaa khariulsangüi."
+  },
+  {
+   "mn": "Тэр хэлэлцүүлгийн явцад тэр асуултад ерөөсөө хариулсангүй.",
+   "en": "At no point during the debate did he answer that question.",
+   "alt_mn": [],
+   "alt_en": [
+    "At no point in the debate did he answer that question."
+   ],
+   "mn_latin": "Ter kheleltsüülgiin yavtsad ter asuultad yeröösöö khariulsangüi."
+  },
+  {
+   "mn": "Сайдын байр суурийг дэмжих хүн цөөн байлаа.",
+   "en": "Few people supported the minister's position.",
+   "alt_mn": [],
+   "alt_en": [
+    "Few people backed the minister's stance."
+   ],
+   "mn_latin": "Saidyn bair suuriig demjikh khün tsöön bailaa."
+  },
+  {
+   "mn": "Эсрэг талын аргументийг няцаахын тулд бид баримт бэлтгэсэн.",
+   "en": "To refute the opposing argument, we prepared evidence.",
+   "alt_mn": [],
+   "alt_en": [
+    "We prepared evidence in order to refute the opposing argument."
+   ],
+   "mn_latin": "Esreg talyn argumyentiig nyatsaakhyn tuld bid barimt beltgesen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Structuring an argument: -хын хувьд, -аас гадна, -хын зэрэгцээ",
+  "title_mn": "Аргументаа зохион байгуулах: -хын хувьд, -аас гадна, -хын зэрэгцээ",
+  "explain_en": "Use a verb stem + -х + ын хувьд to say 'as for / when it comes to' (…хийхийн хувьд). Use -аас гадна (after a verb with -х: -хаас гадна) to add a point: 'besides, in addition to'. Use -хын зэрэгцээ for something happening or being done 'alongside, at the same time'. Together they give a clear structure: first topic, then extra point, then parallel action. Mind vowel harmony: -хын / -хийн, -хаас / -хээс. In English, when a negative phrase (Under no circumstances, In no way, At no point) starts the sentence, the auxiliary comes before the subject: 'Under no circumstances should we…'. In the past simple, use did + base verb: 'At no point did he…'.",
+  "explain_mn": "Монгол хэлэнд үйл үгийн үндэс + -х + ын хувьд нь '… -ын тухайд' гэсэн сэдвийг, -хаас гадна нь нэмэлт санааг, -хын зэрэгцээ нь зэрэг хийгдэх үйлийг илэрхийлнэ. Эгшгийн зохицлыг анхаар: -хын/-хийн, -хаас/-хээс. Англи хэлэнд үгүйсгэх утгатай хэллэг (Under no circumstances, In no way, At no point) өгүүлбэрийн эхэнд орвол туслах үйл үг субъектийн өмнө гарна: 'Under no circumstances should we…'. 'At no point did he…' гэхэд did + үндсэн үйл үг ордог.",
+  "examples": [
+   {
+    "mn": "Төсөв батлахын хувьд бид болгоомжтой байх ёстой.",
+    "en": "When it comes to approving the budget, we must be careful.",
+    "mn_latin": "Tösöv batlakhyn khuvid bid bolgoomjtoi baikh yostoi."
+   },
+   {
+    "mn": "Татвар нэмэхээс гадна зарлагаа бүрэн хянах хэрэгтэй.",
+    "en": "Besides raising taxes, we need to fully monitor spending.",
+    "mn_latin": "Tatvar nemekhees gadna zarlagaa büren khyanakh kheregtei."
+   },
+   {
+    "mn": "Зам барихын зэрэгцээ олон нийтийн тээврийг сайжруулъя.",
+    "en": "Alongside building roads, let's improve public transport.",
+    "mn_latin": "Zam barikhyn zeregtsee olon niitiin teevriig saijruulya."
+   },
+   {
+    "mn": "Хотын дарга алдаагаа хэзээ ч хүлээн зөвшөөрөөгүй.",
+    "en": "At no point did the mayor admit the mistake.",
+    "mn_latin": "Khotyn darga aldaagaa khezee ch khüleen zövshööröögüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Боловсролыг хөгжүүлэх___ хувьд бид урт хугацааны төлөвлөгөөтэй.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "аас",
+    "тай",
+    "д"
+   ],
+   "translation": "When it comes to developing education, we have a long-term plan.",
+   "explain_en": "Pattern is -х + ийн хувьд: хөгжүүлэхийн хувьд (front-vowel harmony). The genitive ending links to хувьд.",
+   "explain_mn": "'-хын хувьд' бүтцэд үйл үгийн -х хэлбэрийн дараа 'ын/ийн' нөхцөл заавал орно: хөгжүүлэхийн хувьд."
+  },
+  {
+   "lang": "mn",
+   "text": "Орлого өсгөхөөс ___ зардлаа танах хэрэгтэй.",
+   "answer": "гадна",
+   "options": [
+    "гадна",
+    "хойш",
+    "тулд",
+    "зэрэгцээ"
+   ],
+   "translation": "Besides increasing income, we need to cut costs.",
+   "explain_en": "-аас гадна means 'besides, in addition to'.",
+   "explain_mn": "'-аас гадна' нь нэмэлт санаа оруулдаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Хууль батлахын ___ олон нийтэд тайлбарлах ажил хийх ёстой.",
+   "answer": "зэрэгцээ",
+   "options": [
+    "зэрэгцээ",
+    "гадна",
+    "хойш",
+    "дотор"
+   ],
+   "translation": "Alongside passing the law, we must explain it to the public.",
+   "explain_en": "-хын зэрэгцээ expresses parallel actions: 'alongside'.",
+   "explain_mn": "'-хын зэрэгцээ' нь зэрэг хийгдэх үйлийг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Under no circumstances ___ we accept this proposal.",
+   "answer": "will",
+   "options": [
+    "will",
+    "we will",
+    "accept",
+    "are"
+   ],
+   "translation": "Ямар ч тохиолдолд бид энэ саналыг хүлээн авахгүй.",
+   "explain_en": "After 'Under no circumstances', the auxiliary comes before the subject: 'will we accept'. The blank is the auxiliary before 'we'.",
+   "explain_mn": "Үгийн эхэнд няцаалт хэллэг орвол туслах үйл үг субьектийн өмнө орно: will we accept."
+  },
+  {
+   "lang": "en",
+   "text": "In no way ___ the committee ignore the public's concerns.",
+   "answer": "should",
+   "options": [
+    "should",
+    "the should",
+    "ignoring",
+    "has"
+   ],
+   "translation": "Хороо ямар ч байдлаар олон нийтийн санаа зовнилыг үл тоомсорлож болохгүй.",
+   "explain_en": "Inversion needs an auxiliary (should) before the subject, followed by the base verb 'ignore'.",
+   "explain_mn": "Урвуу бүтцэд туслах үйл үг (should) субьектийн өмнө орж, үндсэн үйл үг анхны хэлбэрээрээ байна."
+  },
+  {
+   "lang": "en",
+   "text": "At no point ___ the candidate answer the question.",
+   "answer": "did",
+   "options": [
+    "did",
+    "is",
+    "has",
+    "was"
+   ],
+   "translation": "Нэр дэвшигч асуултад ямар ч үед хариулсангүй.",
+   "explain_en": "Past simple inversion uses 'did' + base verb: 'did the candidate answer'.",
+   "explain_mn": "Өнгөрсөн цагийн урвуу бүтцэд did + үндсэн үйл үг хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Өнөөдрийн хэлэлцүүлгийн сэдэв бол агаарын бохирдол юм.",
+   "en": "Today's debate topic is air pollution.",
+   "mn_latin": "Önöödriin kheleltsüülgiin sedev bol agaaryn bokhirdol yum."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Би өөрийн байр суурийг нотлох баримтаар тайлбарлая.",
+   "en": "Let me explain my position with evidence.",
+   "mn_latin": "Bi ööriin bair suuriig notlokh barimtaar tailbarlaya."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Түлшийг сайжруулахын хувьд засгийн газар бодит алхам хийгээгүй.",
+   "en": "When it comes to improving fuel, the government has taken no real steps.",
+   "mn_latin": "Tülshiig saijruulakhyn khuvid zasgiin gazar bodit alkham khiigeegüi."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Бид асуудлыг хэзээ ч үл тоомсорлоогүй, цэвэр зууханд татаас олгосон.",
+   "en": "At no point did we ignore the problem; we subsidized cleaner stoves.",
+   "mn_latin": "Bid asuudlyg khezee ch ül toomsorloogüi, tsever zuukhand tataas olgoson."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Зууханд татаас олгохоос гадна цахилгааны үнийг бууруулах хэрэгтэй.",
+   "en": "Besides subsidizing stoves, electricity prices need to come down.",
+   "mn_latin": "Zuukhand tataas olgokhoos gadna tsakhilgaany üniig buuruulakh kheregtei."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Би үнийг бууруулахыг дэмжиж байна, гэхдээ ямар ч тохиолдолд төсвийг хэтрүүлж болохгүй.",
+   "en": "I support lowering prices, but under no circumstances should we overspend the budget.",
+   "mn_latin": "Bi üniig buuruulakhyg demjij baina, gekhdee yamar ch tokhioldold tösviig khetrüülj bolokhgüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл зам барихын зэрэгцээ цэвэр эрчим хүчинд хөрөнгө оруулъя.",
+   "en": "Then alongside building roads, let's invest in clean energy.",
+   "mn_latin": "Tegvel zam barikhyn zeregtsee tsever erchim khüchind khöröngö oruulya."
+  }
+ ],
+ "culture_note": {
+  "en": "Televised debates before elections in Mongolia are an important way for voters to compare candidates, and many are broadcast live from Ulaanbaatar. In recent years, town-hall style forums (иргэдийн танхимын уулзалт) in districts and khoroos have also let residents question officials directly about issues like air pollution and housing.",
+  "mn": "Монголд сонгуулийн өмнөх телевизийн хэлэлцүүлэг нь сонгогчдод нэр дэвшигчдийг харьцуулах чухал боломж болдог бөгөөд ихэнхийг нь Улаанбаатараас шууд дамжуулдаг. Сүүлийн жилүүдэд дүүрэг, хорооны иргэдийн танхимын уулзалтууд мөн оршин суугчдад агаарын бохирдол, орон сууц зэрэг асуудлаар албан тушаалтнуудаас шууд асуух боломжийг олгодог болсон."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 29,
+  "notes": "Useful content, but there are several errors: vowel harmony in the fill-blank (хөгжүүлэхийн), mismatched grammar titles and explanations, English text in Mongolian fields, and non-equivalent alternates."
+ },
+ "opus_fix": {
+  "rating_before": 4,
+  "fixes": 26,
+  "notes": "Fixed mismatched or swapped translations, ambiguous blanks, non-standard татаас verbs, and aligned the en/mn grammar explanations.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "мэдээлэл = information; claim = мэдэгдэл"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "accusative object needed"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "en",
+    "why": "dangling modifier"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "wrong translation"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "keep valid alternative"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "double тэр was awkward"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "wrong translation"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "old alternative did not match"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "ерөөсөө is the standard form; subject added"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "wrong translation"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "en",
+    "why": "'prepared the facts' is unnatural"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en must match mn (inversion part missing)"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "няцаалт = refutation, not negation; спелл субъект"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "fields swapped"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "fields swapped"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "garbled wording"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "өсгөхөөс өмнө is also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "хувьд and тулд also fit"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'do' is also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'does' is also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "In no way = ямар ч байдлаар"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'does' is also grammatical"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "fields swapped; татаасалсан is not a word"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "fields swapped"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "татааслах is not standard"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "missing recipient (residents) to match en"
+   }
+  ]
+ }
+}

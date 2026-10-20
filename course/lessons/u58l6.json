@@ -1,0 +1,432 @@
+{
+ "intro_en": "You will learn to read and discuss a crime news story and a court verdict, using sentencing vocabulary like ял, цагаатгах and давж заалдах. You will also practice reporting what you know or don't know with эсэх and wh-clauses in Mongolian, and mixed indirect questions in English.",
+ "intro_mn": "Та гэмт хэргийн мэдээ болон шүүхийн шийтгэх тогтоолыг уншиж, ярилцаж сурна: ял, цагаатгах, давж заалдах зэрэг үгсийг ашиглана. Мөн монгол хэлэнд эсэх болон асуух үг бүхий өгүүлбэрээр, англи хэлэнд шууд бус асуултаар мэдэж байгаа, мэдэхгүй байгаа зүйлээ илэрхийлэх дасгал хийнэ.",
+ "vocab": [
+  {
+   "mn": "ял",
+   "en": "sentence, punishment",
+   "pos": "noun",
+   "example_mn": "Шүүгч түүнд гурван жилийн ял оноосон.",
+   "example_en": "The judge gave him a three-year sentence.",
+   "mn_latin": "yal"
+  },
+  {
+   "mn": "ял шийтгүүлэх",
+   "en": "to be convicted and sentenced",
+   "pos": "verb phrase",
+   "example_mn": "Тэр луйврын хэргээр ял шийтгүүлсэн.",
+   "example_en": "He was convicted and sentenced for fraud.",
+   "mn_latin": "yal shiitgüülekh"
+  },
+  {
+   "mn": "цагаатгах",
+   "en": "to acquit",
+   "pos": "verb",
+   "example_mn": "Шүүх яллагдагчийг цагаатгасан.",
+   "example_en": "The court acquitted the defendant.",
+   "mn_latin": "tsagaatgakh"
+  },
+  {
+   "mn": "баривчлах",
+   "en": "to arrest",
+   "pos": "verb",
+   "example_mn": "Цагдаа сэжигтнийг өчигдөр баривчилсан.",
+   "example_en": "The police arrested the suspect yesterday.",
+   "mn_latin": "barivchlakh"
+  },
+  {
+   "mn": "давж заалдах",
+   "en": "to appeal",
+   "pos": "verb",
+   "example_mn": "Өмгөөлөгч шийдвэрийг давж заалдахаар шийдсэн.",
+   "example_en": "The lawyer decided to appeal the decision.",
+   "mn_latin": "davj zaaldakh"
+  },
+  {
+   "mn": "хоригдол",
+   "en": "prisoner, inmate",
+   "pos": "noun",
+   "example_mn": "Хоригдол долоо хоногийн өмнө суллагдсан.",
+   "example_en": "The prisoner was released a week ago.",
+   "mn_latin": "khorigdol"
+  },
+  {
+   "mn": "тэнсэн харгалзах",
+   "en": "to suspend a sentence with probation",
+   "pos": "verb phrase",
+   "example_mn": "Шүүх түүний ялыг тэнсэн харгалзахаар шийдсэн.",
+   "example_en": "The court decided to suspend his sentence with probation.",
+   "mn_latin": "tensen khargalzakh"
+  },
+  {
+   "mn": "шийтгэх тогтоол",
+   "en": "verdict (of conviction)",
+   "pos": "noun",
+   "example_mn": "Шийтгэх тогтоолыг маргааш уншина.",
+   "example_en": "The verdict will be read tomorrow.",
+   "mn_latin": "shiitgekh togtool"
+  },
+  {
+   "mn": "сэжигтэн",
+   "en": "suspect",
+   "pos": "noun",
+   "example_mn": "Сэжигтэн хэргээ хүлээгээгүй.",
+   "example_en": "The suspect did not confess.",
+   "mn_latin": "sejigten"
+  },
+  {
+   "mn": "мөрдөн шалгах",
+   "en": "to investigate",
+   "pos": "verb",
+   "example_mn": "Цагдаа хэргийг мөрдөн шалгаж байна.",
+   "example_en": "The police are investigating the case.",
+   "mn_latin": "mördön shalgakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Цагдаа сэжигтнийг баривчилсан эсэхийг мэдэхгүй байна.",
+   "en": "I don't know whether the police have arrested the suspect.",
+   "alt_mn": [],
+   "alt_en": [
+    "I don't know if the police arrested the suspect."
+   ],
+   "mn_latin": "Tsagdaa sejigtniig barivchilsan esekhiig medekhgüi baina."
+  },
+  {
+   "mn": "Шүүх яллагдагчийг цагаатгасан гэж мэдээнд гарсан.",
+   "en": "The news said the court acquitted the defendant.",
+   "alt_mn": [],
+   "alt_en": [
+    "It was reported that the court acquitted the defendant."
+   ],
+   "mn_latin": "Shüükh yallagdagchiig tsagaatgasan gej medeend garsan."
+  },
+  {
+   "mn": "Түүнд хэдэн жилийн ял оноосныг чи мэдэх үү?",
+   "en": "Do you know how many years he was sentenced to?",
+   "alt_mn": [
+    "Түүнд хэдэн жилийн ял оноосныг мэдэх үү?"
+   ],
+   "alt_en": [
+    "Do you know how long a sentence he got?"
+   ],
+   "mn_latin": "Tüünd kheden jiliin yal onoosnyg chi medekh üü?"
+  },
+  {
+   "mn": "Өмгөөлөгч шийдвэрийг давж заалдах эсэхээ маргааш хэлнэ.",
+   "en": "The lawyer will say tomorrow whether he will appeal the decision.",
+   "alt_mn": [],
+   "alt_en": [
+    "The lawyer will tell us tomorrow if he is going to appeal the ruling."
+   ],
+   "mn_latin": "Ömgöölögch shiidveriig davj zaaldakh esekhee margaash khelne."
+  },
+  {
+   "mn": "Тэр луйврын хэргээр гурван жилийн ял шийтгүүлсэн.",
+   "en": "He was sentenced to three years for fraud.",
+   "alt_mn": [],
+   "alt_en": [
+    "He was convicted of fraud and received three years."
+   ],
+   "mn_latin": "Ter luivryn khergeer gurvan jiliin yal shiitgüülsen."
+  },
+  {
+   "mn": "Шүүх ялыг нь тэнсэн харгалзахаар шийдсэн тул тэр шоронд орохгүй.",
+   "en": "Because the court suspended his sentence with probation, he will not go to prison.",
+   "alt_mn": [],
+   "alt_en": [
+    "The court gave him probation, so he won't go to prison."
+   ],
+   "mn_latin": "Shüükh yalyg ni tensen khargalzakhaar shiidsen tul ter shorond orokhgüi."
+  },
+  {
+   "mn": "Хэргийг хэн мөрдөн шалгаж байгааг мэдэх үү?",
+   "en": "Do you know who is investigating the case?",
+   "alt_mn": [],
+   "alt_en": [
+    "Do you know who's investigating the case?"
+   ],
+   "mn_latin": "Khergiig khen mördön shalgaj baigaag medekh üü?"
+  },
+  {
+   "mn": "Сэжигтэн яагаад хэргээ хүлээснийг тайлбарлаагүй.",
+   "en": "The suspect did not explain why he confessed.",
+   "alt_mn": [],
+   "alt_en": [
+    "The suspect didn't say why he had confessed."
+   ],
+   "mn_latin": "Sejigten yaagaad khergee khüleesniig tailbarlaagüi."
+  },
+  {
+   "mn": "Хоригдол хэзээ суллагдахыг хэн ч мэдэхгүй.",
+   "en": "Nobody knows when the prisoner will be released.",
+   "alt_mn": [],
+   "alt_en": [
+    "No one knows when the inmate will be freed."
+   ],
+   "mn_latin": "Khorigdol khezee sullagdakhyg khen ch medekhgüi."
+  },
+  {
+   "mn": "Мэдээнд шүүх хурал хаана болохыг бичээгүй байна.",
+   "en": "The news report doesn't say where the trial will be held.",
+   "alt_mn": [],
+   "alt_en": [
+    "The article doesn't mention where the hearing will take place."
+   ],
+   "mn_latin": "Medeend shüükh khural khaana bolokhyg bicheegüi baina."
+  },
+  {
+   "mn": "Шийтгэх тогтоол гарсан эсэхийг шүүхээс лавлаж болох уу?",
+   "en": "Can I ask the court whether the verdict has been issued?",
+   "alt_mn": [],
+   "alt_en": [
+    "Could I check with the court if the verdict has come out?"
+   ],
+   "mn_latin": "Shiitgekh togtool garsan esekhiig shüükhees lavlaj bolokh uu?"
+  },
+  {
+   "mn": "Яллагдагч ял авсан ч шийдвэрийг давж заалдсан.",
+   "en": "Although the defendant received a sentence, he appealed the decision.",
+   "alt_mn": [],
+   "alt_en": [
+    "The defendant was sentenced but appealed the decision."
+   ],
+   "mn_latin": "Yallagdagch yal avsan ch shiidveriig davj zaaldsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Embedded questions: -х эсэх and wh-clauses",
+  "title_mn": "Өгүүлбэрт шингэсэн асуулт: -х эсэх ба асуух үгтэй өгүүлбэр",
+  "explain_en": "To say 'whether' in Mongolian, use a verb in -сан/-х plus эсэх, with a case ending (usually accusative -ийг): баривчилсан эсэхийг мэдэхгүй ('I don't know whether he was arrested'). For wh-questions, keep the question word (хэн, хэзээ, яагаад, хаана, хэдэн) inside the clause and nominalize the verb with -сан, -ж байгаа or -х, then add a case ending: хэзээ суллагдахыг мэдэхгүй. The embedded clause comes before the main verb, such as мэдэх, асуух or хэлэх. In English, indirect questions use statement word order without do/does/did: 'Do you know where he is?'; use if or whether for yes/no questions.",
+  "explain_mn": "Монгол хэлэнд «эсэх» нь «байх уу, үгүй юу» гэсэн асуултыг өгүүлбэрт шингээнэ: үйл үгийн -сан/-х хэлбэрийн дараа «эсэх» орж, тусагдахуун бол -ийг нөхцөл авна: «баривчилсан эсэхийг мэдэхгүй». Асуух үгтэй (хэн, хэзээ, яагаад, хаана, хэдэн) асуултад асуух үгээ хэвээр үлдээж, үйл үгийг -сан, -ж байгаа эсвэл -х хэлбэрт оруулаад тохирох нөхцөл залгана: «хэзээ суллагдахыг мэдэхгүй». Шингэсэн асуулт нь мэдэх, асуух, хэлэх зэрэг гол үйл үгийн өмнө орно. Англи хэлэнд шууд бус асуултад do/does/did хэрэглэхгүй, энгийн өгүүлбэрийн дарааллаар бичнэ: «Do you know where he is?»; тийм/үгүй асуултад if эсвэл whether хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Түүнийг баривчилсан эсэхийг мэдэхгүй.",
+    "en": "I don't know whether he was arrested.",
+    "mn_latin": "Tüüniig barivchilsan esekhiig medekhgüi."
+   },
+   {
+    "mn": "Шүүх хурал хэзээ болохыг асуусан.",
+    "en": "I asked when the trial would be held.",
+    "mn_latin": "Shüükh khural khezee bolokhyg asuusan."
+   },
+   {
+    "mn": "Хэн ял шийтгүүлснийг мэдээнд бичээгүй.",
+    "en": "The news didn't say who was convicted.",
+    "mn_latin": "Khen yal shiitgüülsniig medeend bicheegüi."
+   },
+   {
+    "mn": "Тэр давж заалдах эсэхээ шийдээгүй байна.",
+    "en": "He hasn't decided whether to appeal.",
+    "mn_latin": "Ter davj zaaldakh esekhee shiideegüi baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Сэжигтнийг баривчилсан ___ мэдэхгүй байна.",
+   "answer": "эсэхийг",
+   "options": [
+    "эсэхийг",
+    "гэхийг",
+    "хэнийг",
+    "учраас"
+   ],
+   "translation": "I don't know whether the suspect was arrested.",
+   "explain_en": "'Whether' is expressed with эсэх plus the accusative -ийг before the verb мэдэх.",
+   "explain_mn": "«Мэдэх» үйл үгийн тусагдахуун болгохын тулд эсэх үгэнд -ийг нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Шүүх хурал хэзээ болох___ хэн ч мэдэхгүй.",
+   "answer": "ыг",
+   "options": [
+    "ыг",
+    "оос",
+    "д",
+    "той"
+   ],
+   "translation": "Nobody knows when the trial will be held.",
+   "explain_en": "The wh-clause is the object of мэдэх, so the nominalized -х takes accusative -ыг.",
+   "explain_mn": "Асуух үгтэй өгүүлбэр «мэдэх»-ийн тусагдахуун тул -ыг нөхцөл орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Шүүх түүнийг ___ гэж мэдээнд гарсан.",
+   "answer": "цагаатгасан",
+   "options": [
+    "цагаатгасан",
+    "баривчилсан",
+    "давсан",
+    "хоригдсон"
+   ],
+   "translation": "The news said the court acquitted him.",
+   "explain_en": "Цагаатгах means 'to acquit'; the other options do not fit the meaning.",
+   "explain_mn": "Цагаатгах нь «ялгүй болгох» гэсэн утгатай тул өгүүлбэрт тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "Do you know ___ the police arrested?",
+   "answer": "who",
+   "options": [
+    "who",
+    "whom did",
+    "that",
+    "who did"
+   ],
+   "translation": "Чи цагдаа хэнийг баривчилсныг мэдэх үү?",
+   "explain_en": "In an embedded question, use normal statement word order without 'did': who the police arrested.",
+   "explain_mn": "Шууд бус асуултад did хэрэглэхгүй, энгийн өгүүлбэрийн дарааллаар «who the police arrested» гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Could you tell me ___ the verdict has been announced?",
+   "answer": "whether",
+   "options": [
+    "whether",
+    "that",
+    "what",
+    "did"
+   ],
+   "translation": "Шийтгэх тогтоол зарлагдсан эсэхийг хэлж өгч чадах уу?",
+   "explain_en": "For yes/no questions inside another sentence, use whether or if.",
+   "explain_mn": "Тийм/үгүй асуултыг шингээхэд whether эсвэл if хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I wonder when ___ released.",
+   "answer": "the prisoner will be",
+   "options": [
+    "the prisoner will be",
+    "will the prisoner be",
+    "does the prisoner be",
+    "the prisoner be will"
+   ],
+   "translation": "Хоригдол хэзээ суллагдах бол гэж би бодож байна.",
+   "explain_en": "After 'when' in an indirect question, the subject comes before the verb: the prisoner will be.",
+   "explain_mn": "Шууд бус асуултад өгүүлэгдэхүүн өмнө, үйл үг ард орно: the prisoner will be."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Өчигдрийн мэдээг уншсан уу? Луйврын хэргийн шийтгэх тогтоол гарсан байна.",
+   "en": "Did you read yesterday's news? The verdict in the fraud case has come out.",
+   "mn_latin": "Öchigdriin medeeg unshsan uu? Luivryn khergiin shiitgekh togtool garsan baina."
+  },
+  {
+   "speaker": "Tom",
+   "en": "No, I haven't. Do you know how many years he got?",
+   "mn": "Үгүй, уншаагүй. Тэр хэдэн жил ял авсныг чи мэдэх үү?",
+   "mn_latin": "Ügüi, unshaagüi. Ter kheden jil yal avsnyg chi medekh üü?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Гурван жил, гэхдээ тэнсэн харгалзахаар шийдсэн гэж байна.",
+   "en": "Three years, but it says the court decided on probation.",
+   "mn_latin": "Gurvan jil, gekhdee tensen khargalzakhaar shiidsen gej baina."
+  },
+  {
+   "speaker": "Tom",
+   "en": "So he won't go to prison. Do you think the prosecutor will appeal?",
+   "mn": "Тэгэхээр шоронд орохгүй юм байна. Прокурор давж заалдана гэж бодож байна уу?",
+   "mn_latin": "Tegekheer shorond orokhgüi yum baina. Prokuror davj zaaldana gej bodoj baina uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Мэдэхгүй. Давж заалдах эсэхээ хэзээ мэдэгдэхийг нь асууя.",
+   "en": "I don't know. Let's ask when they will announce whether they will appeal.",
+   "mn_latin": "Medekhgüi. Davj zaaldakh esekhee khezee medegdekhiig ni asuuya."
+  },
+  {
+   "speaker": "Tom",
+   "en": "Good idea. Could you also find out who is handling the case?",
+   "mn": "Сайн санаа. Хэргийг хэн хариуцаж байгааг бас лавлаж өгөхгүй юу?",
+   "mn_latin": "Sain sanaa. Khergiig khen khariutsaj baigaag bas lavlaj ögökhgüi yuu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгье. Шүүхэд залгаад бүгдийг нь асууя.",
+   "en": "Sure. I'll call the court and ask about everything.",
+   "mn_latin": "Tegiye. Shüükhed zalgaad bügdiig ni asuuya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, court decisions can be appealed to a higher court, and many verdicts are reported by news sites and the courts' public websites. Suspended sentences with probation (тэнсэн харгалзах) are common for less serious crimes, so a convicted person may not go to prison. News stories usually use careful wording like сэжигтэн (suspect) until a verdict is final.",
+  "mn": "Монголд шүүхийн шийдвэрийг дээд шатны шүүхэд давж заалдах боломжтой бөгөөд олон шийтгэх тогтоолыг мэдээллийн сайт, шүүхийн нийтийн цахим хуудсаар мэдээлдэг. Хөнгөн гэмт хэрэгт ялыг тэнсэн харгалзах нь элбэг тул ялтан шоронд орохгүй байж болно. Мэдээнд шийдвэр хүчин төгөлдөр болтол сэжигтэн гэх мэт болгоомжтой хэллэг хэрэглэдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 11,
+  "notes": "Vocabulary and sentences are mostly good; the Mongolian grammar explanation was wrongly written about English and needed replacing, plus minor option and typo fixes."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 10,
+  "notes": "Main fixes: a wrong meaning in a grammar example, a missing genitive, шоронд орох collocation, -ж байгаа form, and en/mn mismatches.",
+  "changes": [
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "ялласныг means 'who convicted (someone)', not 'who was convicted'"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "Needs the genitive: гурван жилийн ял"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "Standard collocation is шоронд орох"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Standard collocation is шоронд орох"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Standard collocation is шоронд орох"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "en",
+    "why": "\"how many years' sentence\" is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "Replaces the old alt, which is now the main English sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "-аа is not a productive form here; the form is -ж байгаа"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Fixes -аа/-ж байгаа and adds the English part so it matches explain_en"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "дадна is unnatural; now matches the English 'reporting what you know or don't know'"
+   }
+  ]
+ }
+}

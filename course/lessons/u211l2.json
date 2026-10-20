@@ -1,0 +1,414 @@
+{
+ "intro_en": "Learn to find a good seat in a busy Ulaanbaatar café, ask about Wi-Fi and outlets, and talk about studying or working there. You'll also practice the Mongolian light verbs анхаарал хандуулах (to pay attention) and цаг гаргах (to make time).",
+ "intro_mn": "Энэ хичээлээр кафед тохиромжтой суудал олох, вайфай болон залгуурын талаар асуух, кафед хичээл хийх, ажиллах тухай ярьж сурна. Мөн англи хэлний will-ийг хүний талаар таамаглахдаа хэрхэн хэрэглэдгийг үзнэ (She'll be a student).",
+ "vocab": [
+  {
+   "mn": "залгуур",
+   "en": "outlet (power socket)",
+   "pos": "noun",
+   "example_mn": "Энэ ширээний доор залгуур байна.",
+   "example_en": "There's an outlet under this table.",
+   "mn_latin": "zalguur"
+  },
+  {
+   "mn": "нууц үг",
+   "en": "password",
+   "pos": "noun",
+   "example_mn": "Вайфайн нууц үг баримт дээр бичээстэй.",
+   "example_en": "The Wi-Fi password is printed on the receipt.",
+   "mn_latin": "nuuts üg"
+  },
+  {
+   "mn": "сул",
+   "en": "free, vacant",
+   "pos": "adjective",
+   "example_mn": "Цонхны дэргэд сул ширээ алга.",
+   "example_en": "There are no free tables by the window.",
+   "mn_latin": "sul"
+  },
+  {
+   "mn": "зөөврийн компьютер",
+   "en": "laptop",
+   "pos": "noun",
+   "example_mn": "Зөөврийн компьютерээ цэнэглэх хэрэгтэй байна.",
+   "example_en": "I need to charge my laptop.",
+   "mn_latin": "zöövriin kompiyutyer"
+  },
+  {
+   "mn": "цэнэглэх",
+   "en": "to charge (a device)",
+   "pos": "verb",
+   "example_mn": "Энд утсаа цэнэглэж болох уу?",
+   "example_en": "Can I charge my phone here?",
+   "mn_latin": "tseneglekh"
+  },
+  {
+   "mn": "төвлөрөх",
+   "en": "to concentrate, to focus",
+   "pos": "verb",
+   "example_mn": "Хөгжим чанга байхад би төвлөрч чаддаггүй.",
+   "example_en": "I can't concentrate when the music is loud.",
+   "mn_latin": "tövlörökh"
+  },
+  {
+   "mn": "чимээ шуугиан",
+   "en": "noise",
+   "pos": "noun",
+   "example_mn": "Үдээс хойш кафед чимээ шуугиан ихэсдэг.",
+   "example_en": "The café gets noisier in the afternoon.",
+   "mn_latin": "chimee shuugian"
+  },
+  {
+   "mn": "анхаарал хандуулах",
+   "en": "to pay attention (to)",
+   "pos": "verb phrase",
+   "example_mn": "Энэ дүрэмд онцгой анхаарал хандуулаарай.",
+   "example_en": "Pay special attention to this rule.",
+   "mn_latin": "ankhaaral khanduulakh"
+  },
+  {
+   "mn": "цаг гаргах",
+   "en": "to make time (for)",
+   "pos": "verb phrase",
+   "example_mn": "Долоо хоног бүр уншихад цаг гаргадаг.",
+   "example_en": "I make time to read every week.",
+   "mn_latin": "tsag gargakh"
+  },
+  {
+   "mn": "даалгавар",
+   "en": "assignment, homework",
+   "pos": "noun",
+   "example_mn": "Маргааш хүртэл даалгавраа дуусгах ёстой.",
+   "example_en": "I have to finish my assignment by tomorrow.",
+   "mn_latin": "daalgavar"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Цонхны дэргэдэх ширээ сул байна уу?",
+   "en": "Is the table by the window free?",
+   "alt_mn": [
+    "Цонхны хажуудах ширээ сул уу?"
+   ],
+   "alt_en": [
+    "Is the table by the window available?",
+    "Is the window table free?"
+   ],
+   "mn_latin": "Tsonkhny dergedekh shiree sul baina uu?"
+  },
+  {
+   "mn": "Энэ суудал хүнтэй юу?",
+   "en": "Is this seat taken?",
+   "alt_mn": [
+    "Энд хүн сууж байгаа юу?"
+   ],
+   "alt_en": [
+    "Is anyone sitting here?"
+   ],
+   "mn_latin": "Ene suudal khüntei yuu?"
+  },
+  {
+   "mn": "Энд залгуур байгаа юу? Утсаа цэнэглэх хэрэгтэй байна.",
+   "en": "Is there an outlet here? I need to charge my phone.",
+   "alt_mn": [
+    "Энд залгуур байна уу? Утсаа цэнэглэх хэрэгтэй байна."
+   ],
+   "alt_en": [
+    "Is there a plug here? I need to charge my phone."
+   ],
+   "mn_latin": "End zalguur baigaa yuu? Utsaa tseneglekh kheregtei baina."
+  },
+  {
+   "mn": "Вайфайн нууц үг юу вэ?",
+   "en": "What's the Wi-Fi password?",
+   "alt_mn": [
+    "Вайфайн нууц үгийг хэлж өгөхгүй юу?"
+   ],
+   "alt_en": [
+    "What is the Wi-Fi password?"
+   ],
+   "mn_latin": "Vaifain nuuts üg yuu ve?"
+  },
+  {
+   "mn": "Тэр охин үргэлж ном уншиж суудаг, оюутан байх.",
+   "en": "That girl is always sitting and reading; she'll be a student.",
+   "alt_mn": [
+    "Тэр охин үргэлж ном уншиж суудаг, оюутан байх аа."
+   ],
+   "alt_en": [
+    "That girl is always reading; she must be a student.",
+    "That girl is always reading; she's probably a student."
+   ],
+   "mn_latin": "Ter okhin ürgelj nom unshij suudag, oyuutan baikh."
+  },
+  {
+   "mn": "Тэр залуу гурван цаг зөөврийн компьютер дээрээ ажиллаж байна, програмист байх.",
+   "en": "That guy has been working on his laptop for three hours; he'll be a programmer.",
+   "alt_mn": [],
+   "alt_en": [
+    "That guy has been on his laptop for three hours; he must be a programmer."
+   ],
+   "mn_latin": "Ter zaluu gurvan tsag zöövriin kompiyutyer deeree ajillaj baina, programist baikh."
+  },
+  {
+   "mn": "Тэд хамт даалгавраа хийж байна, нэг ангийнхан байх.",
+   "en": "They're doing their assignment together; they'll be classmates.",
+   "alt_mn": [],
+   "alt_en": [
+    "They're doing their homework together; they must be classmates."
+   ],
+   "mn_latin": "Ted khamt daalgavraa khiij baina, neg angiinkhan baikh."
+  },
+  {
+   "mn": "Чимээ шуугиан ихтэй газар би төвлөрч чаддаггүй.",
+   "en": "I can't concentrate in noisy places.",
+   "alt_mn": [
+    "Шуугиантай газар би төвлөрч чаддаггүй."
+   ],
+   "alt_en": [
+    "I can't focus in noisy places."
+   ],
+   "mn_latin": "Chimee shuugian ikhtei gazar bi tövlörch chaddaggüi."
+  },
+  {
+   "mn": "Шалгалтын өмнө хичээлдээ илүү анхаарал хандуулах хэрэгтэй.",
+   "en": "Before the exam, I need to pay more attention to my studies.",
+   "alt_mn": [
+    "Шалгалтаас өмнө хичээлдээ илүү анхаарал хандуулах хэрэгтэй."
+   ],
+   "alt_en": [
+    "I need to focus more on my studies before the exam."
+   ],
+   "mn_latin": "Shalgaltyn ömnö khicheeldee ilüü ankhaaral khanduulakh kheregtei."
+  },
+  {
+   "mn": "Ажил их байсан ч найзтайгаа уулзах цаг гаргасан.",
+   "en": "Even though I was busy, I made time to meet my friend.",
+   "alt_mn": [
+    "Завгүй байсан ч найзтайгаа уулзах цаг гаргасан."
+   ],
+   "alt_en": [
+    "I was busy, but I made time to meet my friend."
+   ],
+   "mn_latin": "Ajil ikh baisan ch naiztaigaa uulzakh tsag gargasan."
+  },
+  {
+   "mn": "Энэ кафе эрт онгойдог болохоор ажлын өмнө цаг гаргаж ирдэг.",
+   "en": "This café opens early, so I make time to come here before work.",
+   "alt_mn": [],
+   "alt_en": [
+    "Since this café opens early, I make time to come before work."
+   ],
+   "mn_latin": "Ene kafye ert ongoidog bolokhoor ajlyn ömnö tsag gargaj irdeg."
+  },
+  {
+   "mn": "Багш маань эх сурвалждаа анхаарал хандуулахыг бидэнд захисан.",
+   "en": "Our teacher told us to pay attention to our sources.",
+   "alt_mn": [
+    "Багш маань бидэнд эх сурвалждаа анхаарал хандуулаарай гэж хэлсэн."
+   ],
+   "alt_en": [
+    "Our teacher reminded us to pay attention to our sources."
+   ],
+   "mn_latin": "Bagsh maani ekh survaljdaa ankhaaral khanduulakhyg bidend zakhisan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Light verbs: анхаарал хандуулах and цаг гаргах",
+  "title_mn": "Will-ээр хүний талаар таамаглах (She'll be a student)",
+  "explain_en": "Mongolian often builds meanings from a noun plus a common verb, like English 'pay attention' or 'make time'. Анхаарал хандуулах literally means 'to direct attention'. The thing you pay attention to takes the dative ending -д/-т: хичээлд анхаарал хандуулах means 'to pay attention to the lesson'. Add the reflexive -аа/-ээ/-оо/-өө for 'your own': хичээлдээ. Цаг гаргах literally means 'to bring out time', so 'to make time'. Put the activity in the dative (спортод цаг гаргах, 'make time for sports') or use a verb in -х before цаг (уулзах цаг гаргах, 'make time to meet'). Don't translate these word for word. Learn them as fixed phrases.",
+  "explain_mn": "Англи хэлэнд will-ийг зөвхөн ирээдүйг илэрхийлэхэд биш, одоо байгаа зүйлийн талаар итгэлтэй таамаглахад ч хэрэглэдэг. 'She'll be a student' гэдэг нь 'Тэр оюутан болно' гэсэн утгатай биш, 'Тэр оюутан байх' гэсэн утгатай. Монгол хэлний '-х байх', 'байлгүй яах вэ' гэдэгтэй ойролцоо. Бүтэц нь will + be + нэр үг/тэмдэг нэр: 'He'll be tired', 'That'll be Bat at the door.' Яриа хэлэнд ихэвчлэн товчилж 'll гэж хэлдэг. Must be нь арай хүчтэй дүгнэлт, will be нь туршлага, нөхцөл байдалд тулгуурласан тайван таамаглал.",
+  "examples": [
+   {
+    "mn": "Хичээлдээ анхаарал хандуулаарай.",
+    "en": "Pay attention to your lesson.",
+    "mn_latin": "Khicheeldee ankhaaral khanduulaarai."
+   },
+   {
+    "mn": "Тэр өдөр бүр спортод цаг гаргадаг.",
+    "en": "She makes time for sports every day.",
+    "mn_latin": "Ter ödör bür sportod tsag gargadag."
+   },
+   {
+    "mn": "Тэр эмэгтэй ном уншиж сууна, оюутан байх.",
+    "en": "She's sitting there reading; she'll be a student.",
+    "mn_latin": "Ter emegtei nom unshij suuna, oyuutan baikh."
+   },
+   {
+    "mn": "Хаалга тогшиж байна, Бат байх.",
+    "en": "Someone's knocking. That'll be Bat.",
+    "mn_latin": "Khaalga togshij baina, Bat baikh."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би энэ төсөлд илүү анхаарал ___ хэрэгтэй.",
+   "answer": "хандуулах",
+   "options": [
+    "хандуулах",
+    "гаргах",
+    "авах",
+    "өгөх"
+   ],
+   "translation": "I need to pay more attention to this project.",
+   "explain_en": "The fixed phrase for 'pay attention' is анхаарал хандуулах. Анхаарал гаргах and анхаарал өгөх are not used in Mongolian.",
+   "explain_mn": "Анхаарал гэдэг үг 'хандуулах' үйл үгтэй тогтвортой хэллэг үүсгэдэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Ажил их байсан ч гэр бүлдээ цаг ___ хэрэгтэй.",
+   "answer": "гаргах",
+   "options": [
+    "гаргах",
+    "хандуулах",
+    "хийх",
+    "авах"
+   ],
+   "translation": "Even if you're busy, you need to make time for your family.",
+   "explain_en": "'Make time for' is цаг гаргах. Цаг авах means something different, such as booking an appointment.",
+   "explain_mn": "'Цаг гаргах' нь ямар нэг зүйлд зав олох гэсэн утгатай. 'Цаг авах' нь урьдчилан цаг захиалах гэсэн өөр утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Хичээл___ анхаарал хандуулаарай.",
+   "answer": "дээ",
+   "options": [
+    "дээ",
+    "ээ",
+    "ээс",
+    "тэй"
+   ],
+   "translation": "Pay attention to your lesson.",
+   "explain_en": "The thing you pay attention to takes the dative -д. With the reflexive ending this becomes хичээлдээ, 'to your own lesson'. Хичээлээ would be accusative, which is wrong here.",
+   "explain_mn": "Анхаарал хандуулах зүйл өгөх-орших тийн ялгалтай (-д) байна. Ерөнхий хамаатуулахтай нийлээд 'хичээлдээ' болно."
+  },
+  {
+   "lang": "en",
+   "text": "Look at all those textbooks. He ___ be a student.",
+   "answer": "'ll",
+   "options": [
+    "'ll",
+    "is",
+    "has",
+    "does"
+   ],
+   "translation": "Тэр олон сурах бичгийг хар. Тэр оюутан байх.",
+   "explain_en": "Will ('ll) + be expresses a confident guess about the present, based on what you can see.",
+   "explain_mn": "Харж байгаа зүйлдээ тулгуурлан таамаглахдаа will ('ll) + be хэрэглэнэ. 'Is be', 'has be' гэж хэлдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "They're studying together. They'll ___ classmates.",
+   "answer": "be",
+   "options": [
+    "be",
+    "being",
+    "are",
+    "to be"
+   ],
+   "translation": "Тэд хамт хичээл хийж байна. Нэг ангийнхан байх.",
+   "explain_en": "After will, use the base form 'be'. Never use 'are' or 'to be' after will.",
+   "explain_mn": "Will-ийн дараа үйл үг үндсэн хэлбэрээрээ (be) орно. 'Will are', 'will to be' гэж болохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Excuse me, is this seat ___?",
+   "answer": "taken",
+   "options": [
+    "taken",
+    "took",
+    "take",
+    "taking"
+   ],
+   "translation": "Уучлаарай, энэ суудал хүнтэй юу?",
+   "explain_en": "'Is this seat taken?' is the set phrase for asking whether a seat is free. It uses the past participle 'taken'.",
+   "explain_mn": "Суудал сул эсэхийг асуухдаа 'Is this seat taken?' гэж тогтмол хэлдэг. Энд take-ийн гуравдугаар хэлбэр (taken) орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Уучлаарай, цонхны дэргэдэх ширээ сул уу?",
+   "en": "Excuse me, is the table by the window free?",
+   "mn_latin": "Uuchlaarai, tsonkhny dergedekh shiree sul uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм ээ, суугаарай. Би зүгээр л нэг сандал эзэлж байна.",
+   "en": "Yes, have a seat. I'm only using one chair.",
+   "mn_latin": "Tiim ee, suugaarai. Bi zügeer l neg sandal ezelj baina."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Баярлалаа. Энд ойрхон залгуур байгаа юу? Компьютер маань цэнэггүй болох гэж байна.",
+   "en": "Thanks. Is there an outlet nearby? My laptop is about to die.",
+   "mn_latin": "Bayarlalaa. End oirkhon zalguur baigaa yuu? Kompiyutyer maani tseneggüi bolokh gej baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Ширээний доор байгаа. Вайфайн нууц үг баримт дээр бичээстэй.",
+   "en": "There's one under the table. The Wi-Fi password is on the receipt.",
+   "mn_latin": "Shireenii door baigaa. Vaifain nuuts üg barimt deer bicheestei."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Сайн байна. Маргааш шалгалттай болохоор өнөөдөр хичээлдээ сайн анхаарал хандуулах хэрэгтэй.",
+   "en": "Great. I have an exam tomorrow, so today I really need to focus on my studies.",
+   "mn_latin": "Sain baina. Margaash shalgalttai bolokhoor önöödör khicheeldee sain ankhaaral khanduulakh kheregtei."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэр буланд байгаа хүмүүс ч бас шалгалтад бэлдэж байгаа бололтой. Танай сургуулийнхан байх.",
+   "en": "The people in that corner look like they're studying for an exam too. They'll be from your university.",
+   "mn_latin": "Ter buland baigaa khümüüs ch bas shalgaltad beldej baigaa bololtoi. Tanai surguuliinkhan baikh."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Байж магадгүй. Би ажлын дараа хичээл хийх цаг гаргах гэж ихэвчлэн энд ирдэг.",
+   "en": "Could be. I usually come here after work to make time for studying.",
+   "mn_latin": "Baij magadgüi. Bi ajlyn daraa khicheel khiikh tsag gargakh gej ikhevchlen end irdeg."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Би ч бас. Гэртээ төвлөрөх хэцүү юм.",
+   "en": "Me too. It's hard to concentrate at home.",
+   "mn_latin": "Bi ch bas. Gertee tövlörökh khetsüü yum."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, cafés like Tom N Toms, Caffe Bene, and many local coffee shops work as study rooms and offices, especially near universities and in districts like Sükhbaatar. Students often stay for hours with a single drink, so tables near outlets fill up fast during exam season. In the long winter, a warm café with good Wi-Fi is one of the most popular places to spend an afternoon.",
+  "mn": "Улаанбаатарт Tom N Toms, Caffe Bene болон олон дотоодын кофе шопууд, ялангуяа их сургуулиудын ойролцоо болон Сүхбаатар дүүрэгт, хичээлийн танхим, оффисын үүрэг гүйцэтгэдэг. Оюутнууд ганц ундаа аваад хэдэн цагаар суудаг тул шалгалтын үеэр залгууртай ширээ хурдан дүүрдэг. Урт өвлийн улиралд дулаахан, сайн вайфайтай кафе үдээс хойш цагийг өнгөрөөх хамгийн эрэлттэй газруудын нэг байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "Solid, natural bidirectional lesson; only one recurring case-form error and one ambiguous phrase in the Mongolian grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "Mostly solid. The en/mn grammar and intro intentionally target each audience's L2, so they are kept as they are. Fixed one wrong alternative, an incomplete suffix list, and mismatches in the Mongolian culture note.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "'Энд хүн суусан уу?' means 'Did someone sit here?', not 'Is anyone sitting here?'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The list of reflexive endings was missing -өө."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Now matches the English: 'local' (not 'small') coffee shops, and 'most popular' (not 'favorite')."
+   }
+  ]
+ }
+}

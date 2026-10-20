@@ -1,0 +1,433 @@
+{
+ "intro_en": "You will learn morning verbs like wake up, get up, wash, eat and drink. You will also say what you usually do, using the Mongolian habitual ending -даг/-дэг/-дог/-дөг and the English present simple.",
+ "intro_mn": "Та өглөөний үйл үг (сэрэх, босох, угаах, идэх, уух) сурна. Мөн Монгол хэлний -даг/-дэг/-дог/-дөг дагавар болон Англи хэлний present simple-ээр байнга хийдэг зүйлээ хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "өглөө",
+   "en": "morning",
+   "pos": "noun",
+   "example_mn": "Өглөө сайхан байна.",
+   "example_en": "The morning is nice.",
+   "mn_latin": "öglöö"
+  },
+  {
+   "mn": "сэрэх",
+   "en": "to wake up",
+   "pos": "verb",
+   "example_mn": "Би долоо цагт сэрдэг.",
+   "example_en": "I wake up at seven o'clock.",
+   "mn_latin": "serekh"
+  },
+  {
+   "mn": "босох",
+   "en": "to get up",
+   "pos": "verb",
+   "example_mn": "Бид эрт босдог.",
+   "example_en": "We get up early.",
+   "mn_latin": "bosokh"
+  },
+  {
+   "mn": "угаах",
+   "en": "to wash",
+   "pos": "verb",
+   "example_mn": "Би нүүрээ угаадаг.",
+   "example_en": "I wash my face.",
+   "mn_latin": "ugaakh"
+  },
+  {
+   "mn": "идэх",
+   "en": "to eat",
+   "pos": "verb",
+   "example_mn": "Та юу иддэг вэ?",
+   "example_en": "What do you eat?",
+   "mn_latin": "idekh"
+  },
+  {
+   "mn": "уух",
+   "en": "to drink",
+   "pos": "verb",
+   "example_mn": "Би цай уудаг.",
+   "example_en": "I drink tea.",
+   "mn_latin": "uukh"
+  },
+  {
+   "mn": "өглөөний цай",
+   "en": "breakfast",
+   "pos": "noun",
+   "example_mn": "Бид өглөөний цай иддэг.",
+   "example_en": "We eat breakfast.",
+   "mn_latin": "öglöönii tsai"
+  },
+  {
+   "mn": "цай",
+   "en": "tea",
+   "pos": "noun",
+   "example_mn": "Би сүүтэй цай уудаг.",
+   "example_en": "I drink milk tea.",
+   "mn_latin": "tsai"
+  },
+  {
+   "mn": "эрт",
+   "en": "early",
+   "pos": "adverb",
+   "example_mn": "Тэд эрт босдог.",
+   "example_en": "They get up early.",
+   "mn_latin": "ert"
+  },
+  {
+   "mn": "шүд",
+   "en": "tooth / teeth",
+   "pos": "noun",
+   "example_mn": "Би шүдээ угаадаг.",
+   "example_en": "I brush my teeth.",
+   "mn_latin": "shüd"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би өглөө эрт босдог.",
+   "en": "I get up early in the morning.",
+   "alt_mn": [],
+   "alt_en": [
+    "I usually get up early in the morning."
+   ],
+   "mn_latin": "Bi öglöö ert bosdog."
+  },
+  {
+   "mn": "Би долоо цагт сэрдэг.",
+   "en": "I wake up at seven o'clock.",
+   "alt_mn": [],
+   "alt_en": [
+    "I usually wake up at seven."
+   ],
+   "mn_latin": "Bi doloo tsagt serdeg."
+  },
+  {
+   "mn": "Та хэдэн цагт босдог вэ?",
+   "en": "What time do you get up?",
+   "alt_mn": [
+    "Чи хэдэн цагт босдог вэ?"
+   ],
+   "alt_en": [
+    "What time do you usually get up?"
+   ],
+   "mn_latin": "Ta kheden tsagt bosdog ve?"
+  },
+  {
+   "mn": "Бид өглөө нүүрээ угаадаг.",
+   "en": "We wash our faces in the morning.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bid öglöö nüüree ugaadag."
+  },
+  {
+   "mn": "Би шүдээ угаадаг.",
+   "en": "I brush my teeth.",
+   "alt_mn": [],
+   "alt_en": [
+    "I usually brush my teeth."
+   ],
+   "mn_latin": "Bi shüdee ugaadag."
+  },
+  {
+   "mn": "Бид өглөөний цай иддэг.",
+   "en": "We eat breakfast.",
+   "alt_mn": [
+    "Бид өглөөний хоол иддэг."
+   ],
+   "alt_en": [
+    "We have breakfast."
+   ],
+   "mn_latin": "Bid öglöönii tsai iddeg."
+  },
+  {
+   "mn": "Би өглөө цай уудаг.",
+   "en": "I drink tea in the morning.",
+   "alt_mn": [],
+   "alt_en": [
+    "I usually drink tea in the morning."
+   ],
+   "mn_latin": "Bi öglöö tsai uudag."
+  },
+  {
+   "mn": "Тэд эрт босдог.",
+   "en": "They get up early.",
+   "alt_mn": [],
+   "alt_en": [
+    "They usually get up early."
+   ],
+   "mn_latin": "Ted ert bosdog."
+  },
+  {
+   "mn": "Та өглөө юу иддэг вэ?",
+   "en": "What do you eat in the morning?",
+   "alt_mn": [
+    "Чи өглөө юу иддэг вэ?"
+   ],
+   "alt_en": [
+    "What do you usually eat in the morning?"
+   ],
+   "mn_latin": "Ta öglöö yuu iddeg ve?"
+  },
+  {
+   "mn": "Би кофе уудаггүй.",
+   "en": "I don't drink coffee.",
+   "alt_mn": [],
+   "alt_en": [
+    "I do not drink coffee."
+   ],
+   "mn_latin": "Bi kofye uudaggüi."
+  },
+  {
+   "mn": "Бид найман цагт өглөөний цай уудаг.",
+   "en": "We have breakfast at eight o'clock.",
+   "alt_mn": [],
+   "alt_en": [
+    "We eat breakfast at eight o'clock.",
+    "We have breakfast at eight."
+   ],
+   "mn_latin": "Bid naiman tsagt öglöönii tsai uudag."
+  },
+  {
+   "mn": "Тэд өглөө нүүрээ угаадаг.",
+   "en": "They wash their faces in the morning.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ted öglöö nüüree ugaadag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Habitual actions: verb stem + -даг/-дэг/-дог/-дөг and the present simple",
+  "title_mn": "Байнгын үйлдэл: -даг/-дэг/-дог/-дөг дагавар ба Present simple",
+  "explain_en": "To say what you usually do, take the verb stem (drop -х) and add -даг/-дэг/-дог/-дөг. The vowel matches the stem: босох → босдог, угаах → угаадаг, идэх → иддэг, уух → уудаг. The ending is the same for би, бид, та, тэд. Add -гүй for negatives: уудаггүй (doesn't drink). Questions with a question word end in вэ: Та хэдэн цагт босдог вэ? Yes/no questions end in уу/үү: Та цай уудаг уу?",
+  "explain_mn": "Англи хэлэнд байнга хийдэг зүйлээ present simple-ээр хэлнэ. I, you, we, they-ийн дараа үйл үгийн үндсийг өөрчлөхгүй хэрэглэнэ: I get up, you eat, we drink, they wash. Үгүйсгэхдээ don't ашиглана: I don't drink coffee. Асуухдаа do ашиглана: Do you get up early? What time do you get up? Монголоор -даг/-дэг гэсэн дагавар залгадаг бол англиар I, you, we, they-тэй үед үйл үгэнд дагавар нэмэгдэхгүй.",
+  "examples": [
+   {
+    "mn": "Би өглөө эрт босдог.",
+    "en": "I get up early in the morning.",
+    "mn_latin": "Bi öglöö ert bosdog."
+   },
+   {
+    "mn": "Бид цай уудаг.",
+    "en": "We drink tea.",
+    "mn_latin": "Bid tsai uudag."
+   },
+   {
+    "mn": "Тэд өглөөний цай иддэг.",
+    "en": "They eat breakfast.",
+    "mn_latin": "Ted öglöönii tsai iddeg."
+   },
+   {
+    "mn": "Та хэдэн цагт сэрдэг вэ?",
+    "en": "What time do you wake up?",
+    "mn_latin": "Ta kheden tsagt serdeg ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өглөө эрт бос___.",
+   "answer": "дог",
+   "options": [
+    "дог",
+    "даг",
+    "дэг",
+    "дөг"
+   ],
+   "translation": "I get up early in the morning.",
+   "explain_en": "The stem бос- has the vowel о, so the habitual ending is -дог.",
+   "explain_mn": "«Бос-» үндэс «о» эгшигтэй тул -дог дагавар залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид өглөө цай уу___.",
+   "answer": "даг",
+   "options": [
+    "даг",
+    "дэг",
+    "дог",
+    "дөг"
+   ],
+   "translation": "We drink tea in the morning.",
+   "explain_en": "The stem уу- has the vowel у, so the ending is -даг.",
+   "explain_mn": "«Уу-» үндэс «у» эгшигтэй тул -даг дагавар залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэд өглөөний цай ид___.",
+   "answer": "дэг",
+   "options": [
+    "дэг",
+    "даг",
+    "дог",
+    "дөг"
+   ],
+   "translation": "They eat breakfast.",
+   "explain_en": "The stem ид- has the vowel и, which takes the front-vowel ending -дэг. Note that идэх becomes иддэг (дд).",
+   "explain_mn": "«Ид-» үндэс «и» эгшигтэй тул -дэг дагавар залгана: иддэг."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ up early.",
+   "answer": "get",
+   "options": [
+    "get",
+    "gets",
+    "getting",
+    "to get"
+   ],
+   "translation": "Би эрт босдог.",
+   "explain_en": "With I, the present simple uses the base verb: get.",
+   "explain_mn": "I-ийн дараа present simple-д үйл үгийн үндсийг хэрэглэнэ: get."
+  },
+  {
+   "lang": "en",
+   "text": "We ___ tea in the morning.",
+   "answer": "drink",
+   "options": [
+    "drink",
+    "drinks",
+    "drinking",
+    "drank"
+   ],
+   "translation": "Бид өглөө цай уудаг.",
+   "explain_en": "With we, use the base form drink, with no -s.",
+   "explain_mn": "We-ийн дараа drink гэсэн үндсийг -s-гүй хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "They ___ drink coffee.",
+   "answer": "don't",
+   "options": [
+    "don't",
+    "doesn't",
+    "isn't",
+    "aren't"
+   ],
+   "translation": "Тэд кофе уудаггүй.",
+   "explain_en": "Negative present simple with they uses don't + base verb.",
+   "explain_mn": "They-тэй үгүйсгэхдээ don't + үйл үгийн үндсийг хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Сайн уу, Эмма! Та хэдэн цагт босдог вэ?",
+   "en": "Hi, Emma! What time do you get up?",
+   "mn_latin": "Sain uu, Emma! Ta kheden tsagt bosdog ve?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Сайн уу, Бат. Би долоо цагт босдог.",
+   "en": "Hi, Bat. I get up at seven.",
+   "mn_latin": "Sain uu, Bat. Bi doloo tsagt bosdog."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэгээд өглөө юу хийдэг вэ?",
+   "en": "And what do you do in the morning?",
+   "mn_latin": "Tegeed öglöö yuu khiideg ve?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Нүүрээ угаагаад, өглөөний цай иддэг.",
+   "en": "I wash my face and eat breakfast.",
+   "mn_latin": "Nüüree ugaagaad, öglöönii tsai iddeg."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Та цай уудаг уу?",
+   "en": "Do you drink tea?",
+   "mn_latin": "Ta tsai uudag uu?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Тийм ээ, би цай уудаг. Харин та?",
+   "en": "Yes, I drink tea. What about you?",
+   "mn_latin": "Tiim ee, bi tsai uudag. Kharin ta?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Би сүүтэй цай уудаг. Бид эрт босдог шүү.",
+   "en": "I drink milk tea. We get up early, you know.",
+   "mn_latin": "Bi süütei tsai uudag. Bid ert bosdog shüü."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, many people start the morning with hot suutei tsai (salty milk tea). In ger districts and the countryside, families often get up early to take care of animals and make tea. Guests are usually offered tea first.",
+  "mn": "Монголд олон хүн өглөөгөө халуун, давстай сүүтэй цайгаар эхэлдэг. Гэр хороолол болон хөдөөд айлууд мал маллаж, цай чанахаар ихэвчлэн эрт босдог. Зочинд ихэвчлэн хамгийн түрүүнд цай өгдөг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 16,
+  "notes": "Mostly good, but number forms before 'цагт' were wrong (долоон/наймын), a few English plural-possessive alts were unnatural, and the Mongolian grammar title did not cover the Mongolian ending."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Fixed one mistranslated sentence, duplicate alternatives, an unnatural dialogue line, an imprecise grammar rule and a culture-note mismatch.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "In English you brush your teeth, not wash them."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_en",
+    "why": "The alternative was a duplicate of the main translation."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_en",
+    "why": "The alternative was a duplicate of the main translation."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "'Breakfast tea' is a mistranslation; өглөөний цай уух means to have breakfast."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "'Morning tea' was a literal, misleading alternative."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Match title_mn, which also names the present simple."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Yes/no questions use уу/үү, not вэ."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'Англиар нэмэлт дагавар орохгүй' was too broad because he/she adds -s; the rule is now limited to I/you/we/they."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'Та яах вэ' means 'what will you do', not 'what about you'."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Align with en: add hot/salty and often/usually; 'заавал' (always) overstated 'usually'."
+   }
+  ]
+ }
+}

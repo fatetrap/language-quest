@@ -1,0 +1,518 @@
+{
+ "intro_en": "You will learn how to visit a tailor to have a deel made or altered, and talk about fabric, measurements, sleeves, buttons and lining. You will also practice the Mongolian -уулах causative ('have something done') and the English have/get + object + past participle.",
+ "intro_mn": "Та оёдолчинд очиж дээл оёулах, засуулах, даавуу, хэмжээ, ханцуй, товч, доторлогооны талаар ярихыг сурна. Мөн монгол хэлний -уулах нөхцөл болон англи хэлний have/get + зүйл + өнгөрсөн цагийн сул үйлт нэрийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "дээл",
+   "en": "deel (traditional Mongolian robe)",
+   "pos": "noun",
+   "example_mn": "Би шинэ дээл авмаар байна.",
+   "example_en": "I want to get a new deel.",
+   "mn_latin": "deel"
+  },
+  {
+   "mn": "даавуу",
+   "en": "fabric, cloth",
+   "pos": "noun",
+   "example_mn": "Энэ даавуу маш зөөлөн байна.",
+   "example_en": "This fabric is very soft.",
+   "mn_latin": "daavuu"
+  },
+  {
+   "mn": "хэмжээ",
+   "en": "measurement, size",
+   "pos": "noun",
+   "example_mn": "Оёдолчин миний хэмжээг авлаа.",
+   "example_en": "The tailor took my measurements.",
+   "mn_latin": "khemjee"
+  },
+  {
+   "mn": "ханцуй",
+   "en": "sleeve",
+   "pos": "noun",
+   "example_mn": "Ханцуй нь арай урт байна.",
+   "example_en": "The sleeves are a bit long.",
+   "mn_latin": "khantsui"
+  },
+  {
+   "mn": "товч",
+   "en": "button",
+   "pos": "noun",
+   "example_mn": "Нэг товч нь унасан байна.",
+   "example_en": "One button has come off.",
+   "mn_latin": "tovch"
+  },
+  {
+   "mn": "доторлогоо",
+   "en": "lining",
+   "pos": "noun",
+   "example_mn": "Дээлийн доторлогоо нь торгон.",
+   "example_en": "The lining of the deel is silk.",
+   "mn_latin": "dotorlogoo"
+  },
+  {
+   "mn": "оёулах",
+   "en": "to have (something) sewn",
+   "pos": "verb",
+   "example_mn": "Би хуримдаа дээл оёулсан.",
+   "example_en": "I had a deel made for my wedding.",
+   "mn_latin": "oyoulakh"
+  },
+  {
+   "mn": "засуулах",
+   "en": "to have (something) repaired or altered",
+   "pos": "verb",
+   "example_mn": "Тэр ханцуйгаа засуулсан.",
+   "example_en": "He had his sleeves altered.",
+   "mn_latin": "zasuulakh"
+  },
+  {
+   "mn": "өмсөж үзэх",
+   "en": "to try on",
+   "pos": "verb",
+   "example_mn": "Та дээлээ өмсөж үзээрэй.",
+   "example_en": "Please try on your deel.",
+   "mn_latin": "ömsöj üzekh"
+  },
+  {
+   "mn": "оёдолчин",
+   "en": "tailor",
+   "pos": "noun",
+   "example_mn": "Манай оёдолчин маш сайн мастер.",
+   "example_en": "Our tailor is a very good craftsman.",
+   "mn_latin": "oyodolchin"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би Цагаан сараар өмсөх дээл оёулмаар байна.",
+   "en": "I want to have a deel made to wear for Tsagaan Sar.",
+   "alt_mn": [
+    "Би Цагаан сарын дээл оёулахыг хүсч байна."
+   ],
+   "alt_en": [
+    "I'd like to get a deel made for Tsagaan Sar."
+   ],
+   "mn_latin": "Bi Tsagaan saraar ömsökh deel oyoulmaar baina."
+  },
+  {
+   "mn": "Оёдолчин миний хэмжээг сайтар авсан.",
+   "en": "The tailor took my measurements carefully.",
+   "alt_mn": [],
+   "alt_en": [
+    "The tailor measured me carefully."
+   ],
+   "mn_latin": "Oyodolchin minii khemjeeg saitar avsan."
+  },
+  {
+   "mn": "Би дээлийнхээ ханцуйг богиносгуулсан.",
+   "en": "I had the sleeves of my deel shortened.",
+   "alt_mn": [
+    "Би дээлийнхээ ханцуйг богиносгуулсан юм."
+   ],
+   "alt_en": [
+    "I got my deel's sleeves shortened."
+   ],
+   "mn_latin": "Bi deeliinkhee khantsuig boginosguulsan."
+  },
+  {
+   "mn": "Та ямар даавуу сонгосон бэ?",
+   "en": "Which fabric did you choose?",
+   "alt_mn": [
+    "Та ямар даавууг сонгосон бэ?"
+   ],
+   "alt_en": [
+    "What fabric did you pick?"
+   ],
+   "mn_latin": "Ta yamar daavuu songoson be?"
+  },
+  {
+   "mn": "Доторлогоог нь торгоор хийлгэе.",
+   "en": "Let's have the lining made of silk.",
+   "alt_mn": [
+    "Доторлогоог нь торгоор хийлгэсэн нь дээр."
+   ],
+   "alt_en": [
+    "Let's get the lining made from silk."
+   ],
+   "mn_latin": "Dotorlogoog ni torgoor khiilgeye."
+  },
+  {
+   "mn": "Унасан товчоо оёулмаар байна.",
+   "en": "I want to get the fallen button sewn back on.",
+   "alt_mn": [
+    "Унасан товчоо засуулмаар байна."
+   ],
+   "alt_en": [
+    "I'd like to have the button that fell off sewn back on."
+   ],
+   "mn_latin": "Unasan tovchoo oyoulmaar baina."
+  },
+  {
+   "mn": "Дээлээ өмсөж үзээд хэрэв давчуу бол хэлээрэй.",
+   "en": "Try on your deel, and tell me if it is tight.",
+   "alt_mn": [],
+   "alt_en": [
+    "Try your deel on, and if it's tight, let me know."
+   ],
+   "mn_latin": "Deelee ömsöj üzeed kherev davchuu bol kheleerei."
+  },
+  {
+   "mn": "Эгч маань дээлээ нэг долоо хоногийн өмнө оёулсан.",
+   "en": "My older sister had her deel made a week ago.",
+   "alt_mn": [
+    "Эгч маань нэг долоо хоногийн өмнө дээлээ оёулсан."
+   ],
+   "alt_en": [
+    "My older sister got her deel made a week ago."
+   ],
+   "mn_latin": "Egch maani deelee neg doloo khonogiin ömnö oyoulsan."
+  },
+  {
+   "mn": "Энэ дээлийг хэзээ хүртэл оёж өгөх вэ?",
+   "en": "By when can you make this deel for me?",
+   "alt_mn": [
+    "Энэ дээл хэзээ бэлэн болох вэ?"
+   ],
+   "alt_en": [
+    "When will this deel be ready?"
+   ],
+   "mn_latin": "Ene deeliig khezee khürtel oyoj ögökh ve?"
+  },
+  {
+   "mn": "Би дээлээ оёдолчинд засуулж авсан.",
+   "en": "I got my deel altered at the tailor's.",
+   "alt_mn": [
+    "Би дээлээ оёдолчинд засуулсан."
+   ],
+   "alt_en": [
+    "I had my deel altered at the tailor's."
+   ],
+   "mn_latin": "Bi deelee oyodolchind zasuulj avsan."
+  },
+  {
+   "mn": "Хүү маань бэлхүүсээ хэмжүүлээд шинэ дээл захиалсан.",
+   "en": "My son had his waist measured and ordered a new deel.",
+   "alt_mn": [],
+   "alt_en": [
+    "My son got his waist measured and ordered a new deel."
+   ],
+   "mn_latin": "Khüü maani belkhüüsee khemjüüleed shine deel zakhialsan."
+  },
+  {
+   "mn": "Дээл маш сайхан таарч байна, баярлалаа!",
+   "en": "The deel fits beautifully, thank you!",
+   "alt_mn": [],
+   "alt_en": [
+    "The deel fits really well, thank you!"
+   ],
+   "mn_latin": "Deel mash saikhan taarch baina, bayarlalaa!"
+  }
+ ],
+ "grammar": {
+  "title_en": "Having things done: -уулах / -үүлэх",
+  "title_mn": "Have/get + зүйл + өнгөрсөн цагийн сул үйлт нэр",
+  "explain_en": "In Mongolian, add the causative suffix -уулах/-үүлэх (оёх → оёулах, засах → засуулах; хийх → хийлгэх is a different causative form, -лгэх) to say someone else does the work for you. The tailor is usually marked with -д (оёдолчинд) and the object takes the accusative -ыг/-ийг or stays bare: Би дээлээ оёдолчинд засуулсан. Add -ж авах (оёулж авах) to stress that you get the result for yourself.",
+  "explain_mn": "Англи хэлэнд өөр хүнээр ажил хийлгэхийг have/get + зүйл + V3 (өнгөрсөн цагийн сул үйлт нэр) гэж илэрхийлнэ. Жишээ нь: I had my deel altered. – Би дээлээ засуулсан. Get нь ярианы хэллэг: I got my deel altered. Үйлдэгчийг хэлэх бол by ашиглана: I had it made by a tailor. Have/get нь цагаараа хувирч болно (have, had, will have), харин дараах үйл үг үргэлж V3 хэлбэртэй байна.",
+  "examples": [
+   {
+    "mn": "Би дээлээ засуулсан.",
+    "en": "I had my deel altered.",
+    "mn_latin": "Bi deelee zasuulsan."
+   },
+   {
+    "mn": "Тэр шинэ дээл оёулсан.",
+    "en": "She got a new deel made.",
+    "mn_latin": "Ter shine deel oyoulsan."
+   },
+   {
+    "mn": "Бид ханцуйг нь богиносгуулсан.",
+    "en": "We had the sleeves shortened.",
+    "mn_latin": "Bid khantsuig ni boginosguulsan."
+   },
+   {
+    "mn": "Хэмжээгээ авхуулаарай.",
+    "en": "Have your measurements taken.",
+    "mn_latin": "Khemjeegee avkhuulaarai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өвөлдөө дулаан дээл ___.",
+   "answer": "оёулсан",
+   "options": [
+    "оёулсан",
+    "оёсон",
+    "оёх",
+    "оёдог"
+   ],
+   "translation": "I had a warm deel made for the winter.",
+   "explain_en": "Someone else sews it for you, so we use the causative оёулсан, not оёсон ('I sewed it myself').",
+   "explain_mn": "Өөр хүн оёж өгсөн тул үйлдүүлэх хэлбэр оёулсан хэрэглэнэ; оёсон бол өөрөө оёсон гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр дээлийнхээ товчийг оёдолчинд ___.",
+   "answer": "засуулсан",
+   "options": [
+    "засуулсан",
+    "зассан",
+    "заслаа",
+    "засах"
+   ],
+   "translation": "She had the button of her deel repaired at the tailor's.",
+   "explain_en": "The tailor does the repair, and -д marks the tailor, so the causative засуулсан is needed.",
+   "explain_mn": "Засварыг оёдолчин хийсэн тул үйлдүүлэх хэлбэр засуулсан хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Ханцуй нь урт байсан болохоор би богиносгуулж ___.",
+   "answer": "авсан",
+   "options": [
+    "авсан",
+    "унасан",
+    "орсон",
+    "гарсан"
+   ],
+   "translation": "The sleeves were long, so I got them shortened.",
+   "explain_en": "-ж авах shows you had it done for yourself.",
+   "explain_mn": "-ж авах нь үйлдлийн үр дүнг өөртөө авсныг илтгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I had my deel ___ last week.",
+   "answer": "altered",
+   "options": [
+    "altered",
+    "alter",
+    "altering",
+    "alters"
+   ],
+   "translation": "Би өнгөрсөн долоо хоногт дээлээ засуулсан.",
+   "explain_en": "After have + object, use the past participle: had my deel altered.",
+   "explain_mn": "Have + зүйл-ийн дараа өнгөрсөн цагийн сул үйлт нэр (altered) хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She got her measurements ___ yesterday.",
+   "answer": "taken",
+   "options": [
+    "taken",
+    "take",
+    "took",
+    "taking"
+   ],
+   "translation": "Тэр өчигдөр хэмжээгээ авхуулсан.",
+   "explain_en": "Get + object + past participle; 'taken' is the participle of take.",
+   "explain_mn": "Get + зүйл + V3: take-ийн V3 нь taken."
+  },
+  {
+   "lang": "en",
+   "text": "We are going to have a new deel ___ for Naadam.",
+   "answer": "made",
+   "options": [
+    "made",
+    "make",
+    "making",
+    "makes"
+   ],
+   "translation": "Бид Наадамд зориулж шинэ дээл оёулах гэж байна.",
+   "explain_en": "The deel is made by someone else, so use the past participle made.",
+   "explain_mn": "Дээлийг өөр хүн хийх тул V3 хэлбэр made хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн байна уу? Би хуримдаа өмсөх дээл оёулмаар байна.",
+   "en": "Hello! I'd like to have a deel made to wear at my wedding.",
+   "mn_latin": "Sain baina uu? Bi khurimdaa ömsökh deel oyoulmaar baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу. Ямар даавуу сонирхож байна вэ?",
+   "en": "Hello. What kind of fabric are you interested in?",
+   "mn_latin": "Sain baina uu. Yamar daavuu sonirkhoj baina ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Цэнхэр торгон даавуу, доторлогоог нь цагаан болгомоор байна.",
+   "en": "Blue silk fabric, and I'd like the lining to be white.",
+   "mn_latin": "Tsenkher torgon daavuu, dotorlogoog ni tsagaan bolgomoor baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн сонголт. Одоо хэмжээг тань авъя. Гараа өргөөрэй.",
+   "en": "Good choice. Now let me take your measurements. Please raise your arms.",
+   "mn_latin": "Sain songolt. Odoo khemjeeg tani avya. Garaa örgöörei."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Ханцуйг нь арай урт байлгаж болох уу?",
+   "en": "Could you make the sleeves a little long?",
+   "mn_latin": "Khantsuig ni arai urt bailgaj bolokh uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Болно. Нэг долоо хоногийн дараа ирж өмсөж үзээрэй.",
+   "en": "Sure. Come back in a week to try it on.",
+   "mn_latin": "Bolno. Neg doloo khonogiin daraa irj ömsöj üzeerei."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Бас товчийг нь мөнгөн өнгөтэй болгуулъя.",
+   "en": "Also, let's have the buttons made silver-colored.",
+   "mn_latin": "Bas tovchiig ni möngön öngötei bolguulya."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "За, тэгье. Бэлэн болмогц залгана.",
+   "en": "All right. I'll call you as soon as it's ready.",
+   "mn_latin": "Za, tegiye. Belen bolmogts zalgana."
+  }
+ ],
+ "culture_note": {
+  "en": "The deel is worn daily in the countryside and for important occasions in the city, such as Tsagaan Sar, weddings and Naadam. Many people have theirs made by a tailor, who chooses the fabric, cut and lining with the customer, and the collar, buttons and sash are often finished by hand. A well-made deel is often kept for years and altered as the owner's body changes.",
+  "mn": "Дээлийг хөдөө өдөр тутам өмсдөг бол хотод Цагаан сар, хурим, Наадам зэрэг чухал үйл явдлаар өмсдөг. Олон хүн дээлээ оёдолчинд оёулдаг бөгөөд оёдолчин даавуу, загвар, доторлогоог захиалагчтайгаа хамт сонгоно. Хүзүүвч, товч, бүсийг ихэвчлэн гараар гүйцээдэг. Сайн оёсон дээлийг олон жил өмсөж, биеийн хэмжээ өөрчлөгдөхөд засуулдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 12,
+  "notes": "Mostly good content, but a few unnatural Mongolian phrasings (оёулж өгөх, хэзээнд, богиносгуулав), a singular/plural mismatch, and an inaccurate claim that хийлгэх follows the -уулах pattern."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 21,
+  "notes": "Fixed the доторлогоо spelling throughout and the wrong words for 'tight', 'waist' and 'fit', plus the dialogue speaker names and the grammar explanation.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "оёдолчид is plural nominative; the dative оёдолчинд is needed"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "mn",
+    "why": "The standard word is доторлогоо"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "доторлогоо spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "The accusative of доторлогоо is доторлогоог"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "доторлогоог spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "Tight clothing is давчуу, not чанга"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "бүс means sash; waist is бэлхүүс"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "'Fits' is таарах; зохих means 'suits'"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "The alternative duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_en",
+    "why": "'Suits you' changed the meaning and the person addressed"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "have/get does change tense; only the participle stays fixed"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "богиносгуулж өгсөн is also grammatical"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "speaker",
+    "why": "Keep the speaker name consistent"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "доторлогоог spelling"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "speaker",
+    "why": "Keep the speaker name consistent"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "Matches the request in байлгаж болох уу and is more natural"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "speaker",
+    "why": "Keep the speaker name consistent"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Тэгвэл didn't follow from the previous line"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "Matches бас and мөнгөн өнгөтэй"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "speaker",
+    "why": "Keep the speaker name consistent"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Fixes the доторлогоог spelling and makes the subject clear, as in the English"
+   }
+  ]
+ }
+}

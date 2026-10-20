@@ -1,0 +1,431 @@
+{
+ "intro_en": "Learn to follow a herder's directions, where distances are measured in mountains and horizons and landmarks are slopes, passes, and foothills. You will also combine three Mongolian direction patterns in one route: -ын зүгт, -ыг чиглэн, and -ыг барин.",
+ "intro_mn": "Зайг уул, тэнгэрийн хаяагаар хэмжиж, энгэр, хөтөл, бэлээр тэмдэглэдэг малчны заасан замыг ойлгож сурна. Англи хэлэнд where/when/why болон түүнтэй ижил утгатай албан хэв маягийн in which/at which/for which хэллэгийг давтана.",
+ "vocab": [
+  {
+   "mn": "хөтөл",
+   "en": "mountain pass",
+   "pos": "noun",
+   "example_mn": "Хөтлийг давахад нэг цаг болно.",
+   "example_en": "It takes an hour to cross the pass.",
+   "mn_latin": "khötöl"
+  },
+  {
+   "mn": "ар",
+   "en": "north side, back (of a mountain)",
+   "pos": "noun",
+   "example_mn": "Уулын ар талд мод ихтэй.",
+   "example_en": "There are a lot of trees on the north side of the mountain.",
+   "mn_latin": "ar"
+  },
+  {
+   "mn": "энгэр",
+   "en": "sunny south-facing slope",
+   "pos": "noun",
+   "example_mn": "Өвөлжөө нь уулын энгэрт байдаг.",
+   "example_en": "Their winter camp is on the south slope of the mountain.",
+   "mn_latin": "enger"
+  },
+  {
+   "mn": "бэл",
+   "en": "foothills, foot of a mountain",
+   "pos": "noun",
+   "example_mn": "Уулын бэлд гурван гэр бий.",
+   "example_en": "There are three gers at the foot of the mountain.",
+   "mn_latin": "bel"
+  },
+  {
+   "mn": "цаана",
+   "en": "beyond, on the other side of",
+   "pos": "postposition",
+   "example_mn": "Худаг нь нэг уулын цаана.",
+   "example_en": "The well is just over one mountain.",
+   "mn_latin": "tsaana"
+  },
+  {
+   "mn": "жалга",
+   "en": "ravine, gully",
+   "pos": "noun",
+   "example_mn": "Жалгад ус урсаж байна.",
+   "example_en": "Water is running in the ravine.",
+   "mn_latin": "jalga"
+  },
+  {
+   "mn": "тэнгэрийн хаяа",
+   "en": "horizon",
+   "pos": "noun phrase",
+   "example_mn": "Тэнгэрийн хаяанд уул харагдана.",
+   "example_en": "You can see a mountain on the horizon.",
+   "mn_latin": "tengeriin khayaa"
+  },
+  {
+   "mn": "зүг",
+   "en": "direction",
+   "pos": "noun",
+   "example_mn": "Баруун зүгт яваарай.",
+   "example_en": "Head west.",
+   "mn_latin": "züg"
+  },
+  {
+   "mn": "чиглэх",
+   "en": "to head toward, to aim at",
+   "pos": "verb",
+   "example_mn": "Бид нуурыг чиглэн явлаа.",
+   "example_en": "We headed toward the lake.",
+   "mn_latin": "chiglekh"
+  },
+  {
+   "mn": "барих",
+   "en": "to follow (a road, river), to keep along",
+   "pos": "verb",
+   "example_mn": "Голыг барин яваарай.",
+   "example_en": "Follow the river.",
+   "mn_latin": "barikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ замыг барин яваарай, төөрөхгүй.",
+   "en": "Follow this road and you won't get lost.",
+   "alt_mn": [
+    "Энэ замаар яваарай, төөрөхгүй."
+   ],
+   "alt_en": [
+    "Keep to this road and you won't get lost."
+   ],
+   "mn_latin": "Ene zamyg barin yavaarai, töörökhgüi."
+  },
+  {
+   "mn": "Манай гэр тэр уулын энгэрт байгаа.",
+   "en": "Our ger is on the south slope of that mountain.",
+   "alt_mn": [
+    "Манай гэр тэр уулын энгэрт бий."
+   ],
+   "alt_en": [
+    "Our ger is on the sunny side of that mountain."
+   ],
+   "mn_latin": "Manai ger ter uulyn engert baigaa."
+  },
+  {
+   "mn": "Уулын ар талд цас удаан хайлдаг.",
+   "en": "Snow melts slowly on the north side of the mountain.",
+   "alt_mn": [
+    "Уулын арын хэсэгт цас удаан хайлдаг."
+   ],
+   "alt_en": [
+    "On the north side of the mountain, the snow melts slowly."
+   ],
+   "mn_latin": "Uulyn ar tald tsas udaan khaildag."
+  },
+  {
+   "mn": "Бэлээр нь тойроод, баруун зүгт яваарай.",
+   "en": "Go around along the foothills, then head west.",
+   "alt_mn": [
+    "Бэлийг нь тойроод, баруун тийш яваарай."
+   ],
+   "alt_en": [
+    "Circle around through the foothills and then go west."
+   ],
+   "mn_latin": "Beleer ni toirood, baruun zügt yavaarai."
+  },
+  {
+   "mn": "Ойрхон шүү, нэг уулын цаана.",
+   "en": "It's close, just over one mountain.",
+   "alt_mn": [
+    "Ойрхон, нэг уулын цаана байгаа."
+   ],
+   "alt_en": [
+    "It's not far, just past one mountain."
+   ],
+   "mn_latin": "Oirkhon shüü, neg uulyn tsaana."
+  },
+  {
+   "mn": "Тэнгэрийн хаяанд харагдаж байгаа уулын зүгт яваарай.",
+   "en": "Head toward the mountain you can see on the horizon.",
+   "alt_mn": [
+    "Тэнгэрийн хаяанд харагдах уулыг чиглэн яваарай."
+   ],
+   "alt_en": [
+    "Go in the direction of the mountain on the horizon."
+   ],
+   "mn_latin": "Tengeriin khayaand kharagdaj baigaa uulyn zügt yavaarai."
+  },
+  {
+   "mn": "Жалгыг барин явбал худаг дээр гарна.",
+   "en": "If you follow the ravine, you'll come out at the well.",
+   "alt_mn": [
+    "Жалгыг дагаж явбал худаг дээр гарна."
+   ],
+   "alt_en": [
+    "Follow the ravine and you'll reach the well."
+   ],
+   "mn_latin": "Jalgyg barin yavbal khudag deer garna."
+  },
+  {
+   "mn": "Хөтлийг давсны дараа зүүн тийш эргэх хэрэгтэй.",
+   "en": "After crossing the pass, you need to turn left.",
+   "alt_mn": [
+    "Хөтөл давсны дараа зүүн тийшээ эргэх хэрэгтэй."
+   ],
+   "alt_en": [
+    "Once you've crossed the pass, you have to turn left."
+   ],
+   "mn_latin": "Khötliig davsny daraa züün tiish ergekh kheregtei."
+  },
+  {
+   "mn": "Энэ бол малчдын өвөлждөг хөндий.",
+   "en": "This is the valley where the herders spend the winter.",
+   "alt_mn": [
+    "Энэ бол малчид өвөлждөг хөндий."
+   ],
+   "alt_en": [
+    "This is the valley in which the herders spend the winter."
+   ],
+   "mn_latin": "Ene bol malchdyn övöljdög khöndii."
+  },
+  {
+   "mn": "Бид хөтөл дээр гарсан тэр мөчид нар жаргаж байлаа.",
+   "en": "At the moment when we reached the pass, the sun was setting.",
+   "alt_mn": [
+    "Биднийг хөтөл дээр гарах үед нар жаргаж байлаа."
+   ],
+   "alt_en": [
+    "At the moment at which we reached the pass, the sun was setting.",
+    "The sun was setting when we reached the pass."
+   ],
+   "mn_latin": "Bid khötöl deer garsan ter möchid nar jargaj bailaa."
+  },
+  {
+   "mn": "Тэдний зуслан гол салаалсан газарт байдаг.",
+   "en": "Their summer camp is at the place where the river splits.",
+   "alt_mn": [
+    "Тэдний зуслан гол хоёр салаа болдог газарт байдаг."
+   ],
+   "alt_en": [
+    "Their summer camp is at the place at which the river splits."
+   ],
+   "mn_latin": "Tednii zuslan gol salaalsan gazart baidag."
+  },
+  {
+   "mn": "Голыг барин яваад, хөтлийг чиглэн өгсөөд, нуурын зүгт шууд яваарай.",
+   "en": "Follow the river, head up toward the pass, then go straight in the direction of the lake.",
+   "alt_mn": [
+    "Голыг дагаж яваад, хөтлийг чиглэн өгсөөд, нуур луу шууд яваарай."
+   ],
+   "alt_en": [
+    "Keep along the river, climb toward the pass, and then go straight toward the lake."
+   ],
+   "mn_latin": "Golyg barin yavaad, khötliig chiglen ögsööd, nuuryn zügt shuud yavaarai."
+  }
+ ],
+ "grammar": {
+  "title_en": "Three ways to give direction: -ын зүгт, -ыг чиглэн, -ыг барин",
+  "title_mn": "where/when/why ба in which/at which/for which",
+  "explain_en": "Herders often chain three patterns in one route. 1) Genitive + зүгт means 'in the direction of', a general bearing: уулын зүгт 'toward the mountain'. 2) Accusative + чиглэн means 'heading for', aiming at a specific target: хөтлийг чиглэн 'heading for the pass'. 3) Accusative + барин means 'following, keeping along' a line such as a road, river, or ravine: голыг барин 'following the river'. Watch vowel harmony and fleeting vowels: хөтөл → хөтлийн, хөтлийг; гол → голын, голыг; жалга → жалгын, жалгыг. Link the steps with -аад/-ээд: голыг барин яваад... 'follow the river, and then...'",
+  "explain_mn": "Англи хэлэнд газар, цаг, шалтгааныг тодотгохдоо where, when, why хэрэглэдэг: the valley where the herders live. Албан, бичгийн хэв маягаар үүнийг угтвар үг + which болгож болно: where → in which / at which, when → at which / on which, why → for which: the valley in which the herders live, the day on which we arrived. Угтвар үг нь нэр үгтэйгээ тохирно: in the valley, on the day, at the moment. Анхаар: which-ийг угтвар үггүйгээр хэрэглэвэл буруу. 'The valley which the herders live' гэж хэлэхгүй.",
+  "examples": [
+   {
+    "mn": "Голыг барин, хөтлийг чиглэн, нуурын зүгт яваарай.",
+    "en": "Follow the river, head for the pass, and go in the direction of the lake.",
+    "mn_latin": "Golyg barin, khötliig chiglen, nuuryn zügt yavaarai."
+   },
+   {
+    "mn": "Энэ бол малчдын өвөлждөг хөндий.",
+    "en": "This is the valley where (in which) the herders spend the winter.",
+    "mn_latin": "Ene bol malchdyn övöljdög khöndii."
+   },
+   {
+    "mn": "Бид нуурт хүрсэн өдөр бороо орсон.",
+    "en": "It rained on the day when (on which) we reached the lake.",
+    "mn_latin": "Bid nuurt khürsen ödör boroo orson."
+   },
+   {
+    "mn": "Тэр замаа алдсан шалтгаанаа хэлээгүй.",
+    "en": "He didn't tell us the reason why (for which) he got lost.",
+    "mn_latin": "Ter zamaa aldsan shaltgaanaa kheleegüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Голыг ___ урсгалын дагуу яваарай.",
+   "answer": "барин",
+   "options": [
+    "барин",
+    "чиглэн",
+    "зүгт",
+    "цаана"
+   ],
+   "translation": "Follow the river downstream.",
+   "explain_en": "You move along the line of a river, so you need барин 'following'. Чиглэн means aiming at a point, and зүгт and цаана need a genitive noun (голын), not the accusative голыг.",
+   "explain_mn": "Голын дагуу явж байгаа тул 'барин' тохирно. 'Чиглэн' нь нэг цэг рүү чиглэхийг заана. 'Зүгт', 'цаана' нь харьяалахын тийн ялгал (голын) шаарддаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Өвөлжөө нь уулын ___ байдаг, салхинаас хамгаалагдсан нарлаг газар.",
+   "answer": "энгэрт",
+   "options": [
+    "энгэрт",
+    "ард",
+    "хөтөлд",
+    "зүгт"
+   ],
+   "translation": "Their winter camp is on the south slope of the mountain, a sunny place sheltered from the wind.",
+   "explain_en": "A sunny, sheltered spot is the south-facing slope, энгэр, here with the locative -т. Ар (ард) is the shaded north side, a pass (хөтөл) is windy, and зүгт only gives a direction, not a location.",
+   "explain_mn": "Нарлаг, салхигүй газар бол уулын энгэр. Ар тал нь сүүдэртэй, хөтөл нь салхитай байдаг. 'Зүгт' нь байршил биш, чиглэл заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Хөтл___ чиглэн өгсөөрэй.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "ийн",
+    "өөр",
+    "өөс"
+   ],
+   "translation": "Climb up, heading toward the pass.",
+   "explain_en": "Чиглэн takes the accusative. Хөтөл loses its second vowel before the ending, giving хөтлийг.",
+   "explain_mn": "'Чиглэн' заахын тийн ялгал шаарддаг. 'Хөтөл' үгийн эгшиг гээгдэж 'хөтлийг' болно."
+  },
+  {
+   "lang": "en",
+   "text": "This is the valley ___ the herders spend the winter.",
+   "answer": "where",
+   "options": [
+    "where",
+    "which",
+    "when",
+    "what"
+   ],
+   "translation": "Энэ бол малчдын өвөлждөг хөндий.",
+   "explain_en": "A place followed by a full clause takes 'where'. 'Which' would need a preposition: 'in which'.",
+   "explain_mn": "Газрыг тодотгож, араас нь бүтэн өгүүлбэр ирж байгаа тул 'where'. 'Which' хэрэглэвэл 'in which' болгох ёстой."
+  },
+  {
+   "lang": "en",
+   "text": "That was the day on ___ we finally found the road.",
+   "answer": "which",
+   "options": [
+    "which",
+    "when",
+    "where",
+    "that"
+   ],
+   "translation": "Тэр бол бид эцэст нь замаа олсон өдөр байлаа.",
+   "explain_en": "After a preposition, only 'which' works. 'On when' and 'on that' are not grammatical.",
+   "explain_mn": "Угтвар үгийн ('on') дараа зөвхөн 'which' ордог. 'On when', 'on that' гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I still don't know the reason ___ he took the longer route.",
+   "answer": "why",
+   "options": [
+    "why",
+    "which",
+    "where",
+    "for"
+   ],
+   "translation": "Тэр яагаад урт замаар явсныг би одоо ч мэдэхгүй байна.",
+   "explain_en": "'The reason why' is the natural choice. The formal version is 'the reason for which', but 'which' alone or 'for' alone is wrong.",
+   "explain_mn": "'The reason why' хамгийн түгээмэл. Албан хэлбэр нь 'for which'. Ганц 'which' эсвэл ганц 'for' буруу."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу? Бид Хар нуур руу явах замаа алдчихлаа.",
+   "en": "Hello! We've lost our way to Khar Lake.",
+   "mn_latin": "Sain baina uu? Bid Khar nuur ruu yavakh zamaa aldchikhlaa."
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Сайн. Хол биш ээ, хоёр уулын цаана. Энэ голыг барин хойшоо яваарай.",
+   "en": "Hi. It's not far, just over two mountains. Follow this river north.",
+   "mn_latin": "Sain. Khol bish ee, khoyor uulyn tsaana. Ene golyg barin khoishoo yavaarai."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Голын дагуу хэр удаан явах вэ?",
+   "en": "How long do we follow the river?",
+   "mn_latin": "Golyn daguu kher udaan yavakh ve?"
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Зүүн гар талд улаан хадтай уул харагдана. Тэр уулын бэлд хүрээд, хөтлийг чиглэн өгсөнө.",
+   "en": "On your left you'll see a mountain with red rocks. When you reach its foothills, you head up toward the pass.",
+   "mn_latin": "Züün gar tald ulaan khadtai uul kharagdana. Ter uulyn beld khüreed, khötliig chiglen ögsönö."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Хөтлөөр машин гарахад гайгүй юу?",
+   "en": "Can a car get over the pass all right?",
+   "mn_latin": "Khötlöör mashin garakhad gaigüi yuu?"
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Гайгүй ээ, одоо хуурай байна. Давсны дараа нуур тэнгэрийн хаяанд харагдана. Нуурын зүгт шууд яваарай.",
+   "en": "It's fine, it's dry now. After you cross it, you'll see the lake on the horizon. Go straight in the direction of the lake.",
+   "mn_latin": "Gaigüi ee, odoo khuurai baina. Davsny daraa nuur tengeriin khayaand kharagdana. Nuuryn zügt shuud yavaarai."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Баярлалаа! Тэгэхээр хэдэн цаг явах вэ?",
+   "en": "Thank you! So how many hours will it take?",
+   "mn_latin": "Bayarlalaa! Tegekheer kheden tsag yavakh ve?"
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Морьтой хүн үд болохоос өмнө хүрнэ, машинаар бол бүр хурдан.",
+   "en": "Someone on horseback gets there before noon, and by car it's even faster.",
+   "mn_latin": "Moritoi khün üd bolokhoos ömnö khürne, mashinaar bol bür khurdan."
+  }
+ ],
+ "culture_note": {
+  "en": "Herders rarely give distances in kilometers. They say 'just over one mountain' or 'as far as you can see from horseback', and 'close' can easily mean 30 km. Traditional orientation faces south, so a mountain's ар (back) is its north side and its энгэр is the sunny south slope, where winter camps are usually built. Ger doors also face south.",
+  "mn": "Малчид зайг километрээр бараг хэлдэггүй. 'Нэг уулын цаана', 'морин дээрээс харагдах газар' гэж хэлдэг бөгөөд 'ойрхон' гэдэг нь 30 км ч байж болно. Уламжлалт баримжаа урд зүг рүү хардаг тул уулын ар нь хойд тал, энгэр нь нарлаг урд тал болно. Өвөлжөөг ихэвчлэн энгэрт буулгадаг, гэрийн хаалга ч урагшаа хардаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A well-built lesson with accurate grammar and good explanations; only a few Mongolian phrasing issues needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 5,
+  "notes": "Mostly clean. Fixed one wrong locative form, one ambiguous option, one impossible suffix option, and one unnatural alternative. The intro and grammar mn/en texts cover different directions of the course (Mongolian patterns vs. English where/which); this looks intentional for the bidirectional course, so I kept it as is.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "The locative of ар is ард, not арт. 'Уулын цаана байдаг' is also grammatical, which made the blank ambiguous, so цаана is replaced with зүгт."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Matches the new options."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Matches the new options."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "On the stem хөтл-, '-д' gives the impossible form *хөтлд. Replaced with a valid case form."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "'хоёр салаа болдог' is the natural Khalkha phrasing."
+   }
+  ]
+ }
+}

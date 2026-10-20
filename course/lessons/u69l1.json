@@ -1,0 +1,504 @@
+{
+ "intro_en": "You will learn to talk about the collective-farm era in the Mongolian countryside and to describe routines that no longer exist, using -даг байсан in Mongolian and 'used to' versus 'would' in English.",
+ "intro_mn": "Та хөдөөгийн нэгдлийн үеийн амьдралыг ярьж, өнөө үед байхгүй болсон зуршил, ахуйг -даг байсан хэлбэрээр илэрхийлж сурна. Мөн англи хэлний 'used to' ба 'would'-ийн ялгааг үзнэ.",
+ "vocab": [
+  {
+   "mn": "нэгдэл",
+   "en": "collective",
+   "pos": "noun",
+   "example_mn": "Манай аав нэгдэлд ажилладаг байсан.",
+   "example_en": "My father used to work at the collective.",
+   "mn_latin": "negdel"
+  },
+  {
+   "mn": "сум",
+   "en": "soum (district)",
+   "pos": "noun",
+   "example_mn": "Эмээ маань сумын төвд амьдардаг байсан.",
+   "example_en": "My grandma used to live in the soum center.",
+   "mn_latin": "sum"
+  },
+  {
+   "mn": "бригад",
+   "en": "brigade, work team",
+   "pos": "noun",
+   "example_mn": "Бригад өглөө бүр хурал хийдэг байсан.",
+   "example_en": "The brigade used to hold a meeting every morning.",
+   "mn_latin": "brigad"
+  },
+  {
+   "mn": "малчин",
+   "en": "herder",
+   "pos": "noun",
+   "example_mn": "Өвөө маань нэрд гарсан малчин байсан.",
+   "example_en": "My grandpa was a famous herder.",
+   "mn_latin": "malchin"
+  },
+  {
+   "mn": "төлөвлөгөө",
+   "en": "plan, quota",
+   "pos": "noun",
+   "example_mn": "Тэд жил бүр төлөвлөгөөгөө биелүүлдэг байсан.",
+   "example_en": "They used to fulfill their plan every year.",
+   "mn_latin": "tölövlögöö"
+  },
+  {
+   "mn": "хөдөлмөрийн баатар",
+   "en": "Hero of Labor",
+   "pos": "noun",
+   "example_mn": "Манай сумын нэг малчин хөдөлмөрийн баатар болсон.",
+   "example_en": "A herder from our soum became a Hero of Labor.",
+   "mn_latin": "khödölmöriin baatar"
+  },
+  {
+   "mn": "төл",
+   "en": "newborn livestock; young animal",
+   "pos": "noun",
+   "example_mn": "Хаврыг төл бойжуулж өнгөрөөдөг байсан.",
+   "example_en": "We used to spend the spring raising the young animals.",
+   "mn_latin": "töl"
+  },
+  {
+   "mn": "ноос хяргах",
+   "en": "to shear wool",
+   "pos": "verb phrase",
+   "example_mn": "Зун хонины ноос хяргадаг байсан.",
+   "example_en": "In summer they used to shear the sheep.",
+   "mn_latin": "noos khyargakh"
+  },
+  {
+   "mn": "хүлээлгэн өгөх",
+   "en": "to hand over, deliver",
+   "pos": "verb phrase",
+   "example_mn": "Мах, ноосоо нэгдэлд хүлээлгэн өгдөг байсан.",
+   "example_en": "They used to hand over meat and wool to the collective.",
+   "mn_latin": "khüleelgen ögökh"
+  },
+  {
+   "mn": "тэмдэглэх",
+   "en": "to celebrate, mark",
+   "pos": "verb",
+   "example_mn": "Бид Цагаан сараа нэгдлийн клубт тэмдэглэдэг байсан.",
+   "example_en": "We used to celebrate Tsagaan Sar at the collective's club.",
+   "mn_latin": "temdeglekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эмээ нэгдэлд ажилладаг байсан.",
+   "en": "Grandma used to work at the collective.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Emee negdeld ajilladag baisan."
+  },
+  {
+   "mn": "Манай сумд хоёр бригад байсан.",
+   "en": "Our soum had two brigades.",
+   "alt_mn": [],
+   "alt_en": [
+    "There were two brigades in our soum."
+   ],
+   "mn_latin": "Manai sumd khoyor brigad baisan."
+  },
+  {
+   "mn": "Малчид өглөө эрт босдог байсан.",
+   "en": "Herders used to get up early in the morning.",
+   "alt_mn": [
+    "Малчин хүмүүс өглөө эрт босдог байсан."
+   ],
+   "alt_en": [
+    "Herders used to wake up early in the morning."
+   ],
+   "mn_latin": "Malchid öglöö ert bosdog baisan."
+  },
+  {
+   "mn": "Бид жил бүр төлөвлөгөөгөө биелүүлдэг байсан.",
+   "en": "We used to fulfill our plan every year.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every year we would fulfill our plan."
+   ],
+   "mn_latin": "Bid jil bür tölövlögöögöö biyelüüldeg baisan."
+  },
+  {
+   "mn": "Эмээ хөдөлмөрийн баатартай нэг сумын хүн байсан.",
+   "en": "Grandma was from the same soum as a Hero of Labor.",
+   "alt_mn": [],
+   "alt_en": [
+    "Grandma came from the same soum as a Hero of Labor."
+   ],
+   "mn_latin": "Emee khödölmöriin baatartai neg sumyn khün baisan."
+  },
+  {
+   "mn": "Өвөл бригадынхан хамт мал хариулдаг байсан.",
+   "en": "In winter the brigade members used to herd the animals together.",
+   "alt_mn": [],
+   "alt_en": [
+    "In winter the brigade would herd the animals together."
+   ],
+   "mn_latin": "Övöl brigadynkhan khamt mal khariuldag baisan."
+  },
+  {
+   "mn": "Одоо би ганцаараа гэрээ засдаг.",
+   "en": "Now I fix my ger by myself.",
+   "alt_mn": [
+    "Одоо би гэрээ ганцаараа засдаг."
+   ],
+   "alt_en": [
+    "These days I repair my ger on my own."
+   ],
+   "mn_latin": "Odoo bi gantsaaraa geree zasdag."
+  },
+  {
+   "mn": "Зун бид хонины ноос хяргадаг байсан.",
+   "en": "In summer we used to shear the sheep.",
+   "alt_mn": [],
+   "alt_en": [
+    "In the summer we would shear the sheep."
+   ],
+   "mn_latin": "Zun bid khoniny noos khyargadag baisan."
+  },
+  {
+   "mn": "Хөдөлмөрийн баатарт бүгд хүндэтгэл үзүүлдэг байсан.",
+   "en": "Everyone used to show respect to a Hero of Labor.",
+   "alt_mn": [],
+   "alt_en": [
+    "Everybody used to respect a Hero of Labor."
+   ],
+   "mn_latin": "Khödölmöriin baatart bügd khündetgel üzüüldeg baisan."
+  },
+  {
+   "mn": "Тэр үед сумын төвд ихэнх хүн нэг дэлгүүрээс юм авдаг байсан.",
+   "en": "Back then, most people in the soum center used to shop at one store.",
+   "alt_mn": [],
+   "alt_en": [
+    "Back then, most people in the soum center shopped at the same store."
+   ],
+   "mn_latin": "Ter üyed sumyn tövd ikhenkh khün neg delgüürees yum avdag baisan."
+  },
+  {
+   "mn": "Хэдэн толгой малтай болохоо төлөвлөгөөнд бичдэг байсан.",
+   "en": "They used to write in the plan how many head of livestock they would have.",
+   "alt_mn": [],
+   "alt_en": [
+    "The number of livestock to be kept used to be written into the plan."
+   ],
+   "mn_latin": "Kheden tolgoi maltai bolokhoo tölövlögöönd bichdeg baisan."
+  },
+  {
+   "mn": "Эмээ одоо ч гэсэн өглөө эрт босдог.",
+   "en": "Grandma still gets up early in the morning.",
+   "alt_mn": [],
+   "alt_en": [
+    "Even now, Grandma gets up early in the morning."
+   ],
+   "mn_latin": "Emee odoo ch gesen öglöö ert bosdog."
+  }
+ ],
+ "grammar": {
+  "title_en": "Past habits that are gone: -даг байсан vs. -даг",
+  "title_mn": "Өнгөрсөн зуршил: -даг байсан ба -даг",
+  "explain_en": "Plain -даг (-дог, -дэг, -дөг) describes a habit or general truth that is still true: 'Эмээ эрт босдог' = Grandma gets up early. Add байсан and it becomes a habit in the past that has ended: 'Эмээ эрт босдог байсан' = Grandma used to get up early (and no longer does). English has two tools: 'used to' works for past habits AND past states (She used to live in a ger), while 'would' works only for repeated actions, usually when the past time is already set (Every spring we would move to the pasture). Never use 'would' for states like 'be' or 'have'.",
+  "explain_mn": "Энгийн -даг (-дог, -дэг, -дөг) нь одоо ч үнэн хэвээр байгаа зуршил, ерөнхий үнэнийг илэрхийлнэ: 'Эмээ эрт босдог'. Үүн дээр байсан нэмбэл дууссан өнгөрсөн зуршил болно: 'Эмээ эрт босдог байсан' (одоо тэгдэггүй). Англи хэлэнд хоёр арга бий. 'Used to' нь өнгөрсөн зуршил ба байдал хоёуланд тохирно: 'She used to live in a ger' (Тэр гэрт амьдардаг байсан). 'Would' нь зөвхөн давтагддаг үйлдэлд, ихэвчлэн өнгөрсөн цаг аль хэдийн тодорхой болсон үед хэрэглэгдэнэ: 'Every spring we would move to the pasture.' 'Be', 'have' зэрэг байдлын үйл үгтэй 'would'-ийг хэзээ ч хэрэглэж болохгүй: 'I would have a horse' биш, 'I used to have a horse'.",
+  "examples": [
+   {
+    "mn": "Эмээ эрт босдог.",
+    "en": "Grandma gets up early. (still true)",
+    "mn_latin": "Emee ert bosdog."
+   },
+   {
+    "mn": "Эмээ нэгдэлд эрт босдог байсан.",
+    "en": "Grandma used to get up early at the collective.",
+    "mn_latin": "Emee negdeld ert bosdog baisan."
+   },
+   {
+    "mn": "Зун бид бригадаар ноос хяргадаг байсан.",
+    "en": "In summer we would shear wool with the brigade.",
+    "mn_latin": "Zun bid brigadaar noos khyargadag baisan."
+   },
+   {
+    "mn": "Манай сумд клуб байсан.",
+    "en": "Our soum used to have a club.",
+    "mn_latin": "Manai sumd klub baisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эмээ нэгдэлд үнээ ___ байсан.",
+   "answer": "саадаг",
+   "options": [
+    "саадаг",
+    "саав",
+    "саана",
+    "саах"
+   ],
+   "translation": "Grandma used to milk cows at the collective.",
+   "explain_en": "Past habit that no longer exists = verb stem + -даг + байсан. Саа- becomes саадаг.",
+   "explain_mn": "Өнгөрсөн зуршил = үйл үгийн үндэс + -даг + байсан. Саа- → саадаг байсан."
+  },
+  {
+   "lang": "mn",
+   "text": "Одоо ч эмээ өглөө эрт ___.",
+   "answer": "босдог",
+   "options": [
+    "босдог",
+    "босдог байсан",
+    "босов",
+    "босно"
+   ],
+   "translation": "Even now Grandma gets up early.",
+   "explain_en": "'Одоо ч' shows it is still true, so plain -даг is used, without байсан.",
+   "explain_mn": "'Одоо ч' гэснээс зуршил үргэлжилж байгаа тул байсан-гүй энгийн -даг хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Бригадынхан хурал дээр төлөвлөгөөгөө ___ байсан.",
+   "answer": "хэлэлцдэг",
+   "options": [
+    "хэлэлцдэг",
+    "хэлэлцэв",
+    "хэлэлцэх",
+    "хэлэлцэнэ"
+   ],
+   "translation": "The brigade used to discuss its plan at meetings.",
+   "explain_en": "A routine of the past: -даг + байсан. Хэлэлцэх has a front vowel stem, so it takes -дэг: хэлэлцдэг.",
+   "explain_mn": "Өнгөрсөн давтагддаг үйл тул -даг + байсан. Үндэс нь эм эгшигтэй тул эгшиг зохицлоор -дэг авч, хэлэлцдэг байсан болно."
+  },
+  {
+   "lang": "en",
+   "text": "When I was a child, we ___ live in a ger near the collective.",
+   "answer": "used to",
+   "options": [
+    "used to",
+    "would",
+    "use to",
+    "were used to"
+   ],
+   "translation": "Намайг бага байхад бид нэгдлийн дэргэд гэрт амьдардаг байсан.",
+   "explain_en": "'Live' here is a state, so 'used to' is needed; 'would' does not work with states.",
+   "explain_mn": "'Амьдрах' бол байдал тул 'used to' хэрэглэнэ, 'would' болохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Every spring, the herders ___ move to the pasture.",
+   "answer": "would",
+   "options": [
+    "would",
+    "are",
+    "were",
+    "will be"
+   ],
+   "translation": "Хавар бүр малчид бэлчээр рүү нүүдэг байсан.",
+   "explain_en": "A repeated action in a past time frame can use 'would' (or 'used to').",
+   "explain_mn": "Өнгөрсөн цаг тодорхой, давтагдсан үйлдэлд 'would' болно."
+  },
+  {
+   "lang": "en",
+   "text": "My grandfather ___ have a lot of horses.",
+   "answer": "used to",
+   "options": [
+    "used to",
+    "would",
+    "uses to",
+    "is used to"
+   ],
+   "translation": "Өвөө маань олон адуутай байсан.",
+   "explain_en": "'Have' is a state verb, so use 'used to', not 'would'.",
+   "explain_mn": "'Have' нь байдлын үйл үг тул 'used to' хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Эмээ, нэгдлийн үед хөдөөгийн амьдрал ямар байсан бэ?",
+   "en": "Grandma, what was country life like in the collective days?",
+   "mn_latin": "Emee, negdliin üyed khödöögiin amidral yamar baisan be?"
+  },
+  {
+   "speaker": "Эмээ",
+   "mn": "Бид бүгд бригадаар ажилладаг байсан. Өглөө эрт хурал хийдэг байсан.",
+   "en": "We all used to work in brigades. We would hold a meeting early in the morning.",
+   "mn_latin": "Bid bügd brigadaar ajilladag baisan. Öglöö ert khural khiideg baisan."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Малаа хэн хариулдаг байсан бэ?",
+   "en": "Who used to herd the animals?",
+   "mn_latin": "Malaa khen khariuldag baisan be?"
+  },
+  {
+   "speaker": "Эмээ",
+   "mn": "Малчид хариулдаг байсан. Өвөө чинь нэрд гарсан малчин байсан.",
+   "en": "The herders did. Your grandpa was a famous herder.",
+   "mn_latin": "Malchid khariuldag baisan. Övöö chini nerd garsan malchin baisan."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгээд төлөвлөгөөгөө биелүүлдэг байсан уу?",
+   "en": "And did you use to fulfill the plan?",
+   "mn_latin": "Tegeed tölövlögöögöö biyelüüldeg baisan uu?"
+  },
+  {
+   "speaker": "Эмээ",
+   "mn": "Биелүүлдэг байсан. Манай сумын нэг эр хөдөлмөрийн баатар хүртэл болсон.",
+   "en": "We did. One man from our soum even became a Hero of Labor.",
+   "mn_latin": "Biyelüüldeg baisan. Manai sumyn neg er khödölmöriin baatar khürtel bolson."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Одоо яагаад тэгдэггүй юм бэ?",
+   "en": "Why don't people do that anymore?",
+   "mn_latin": "Odoo yaagaad tegdeggüi yum be?"
+  },
+  {
+   "speaker": "Эмээ",
+   "mn": "Одоо нэгдэл байхгүй, айл бүр өөрөө мал маллаж амьдардаг.",
+   "en": "There are no collectives now; every family herds and lives on its own.",
+   "mn_latin": "Odoo negdel baikhgüi, ail bür ööröö mal mallaj amidardag."
+  }
+ ],
+ "culture_note": {
+  "en": "From the 1950s until 1990, most Mongolian herders belonged to negdels (herding collectives), organized by soum and divided into brigades. Livestock was collectively owned, state plans set production targets, and outstanding workers could receive titles such as Hero of Labor. After the 1990 democratic changes the collectives were dissolved and animals were privatized, so many families now remember two very different ways of herding.",
+  "mn": "1950-иад оноос 1990 он хүртэл Монголын ихэнх малчин сум бүрээр зохион байгуулагдсан нэгдэлд нэгдэж, бригадуудад хуваагддаг байв. Мал нийтийн өмч байсан, төрөөс үйлдвэрлэлийн төлөвлөгөө өгч, шилдэг ажилчдад хөдөлмөрийн баатар зэрэг цол хүртээдэг байлаа. 1990 оны ардчилсан өөрчлөлтийн дараа нэгдлүүд татан буугдаж, мал хувьчлагдсан тул олон айл мал маллахуйн хоёр өөр замыг санадаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 19,
+  "notes": "Mostly good, but a few invalid alternatives, a mismatched vocab example, an incorrect 'did you used to' and an unnatural state-habit example needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 21,
+  "notes": "Replaced the non-standard word ураг with төл, removed ambiguous blank options and the conditional 'would' alternative, and aligned the mn grammar explanation with the en version.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "mn",
+    "why": "ураг means kin/fetus; young livestock is төл"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "use standard word төл"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "example did not use тэмдэглэх"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "match new example"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'would' without a set past time frame reads as conditional"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "авах needs an object"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "unnatural phrasing"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "en",
+    "why": "'still ... even now' is redundant"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_en",
+    "why": "'today' is ambiguous"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "match mn title"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn must say the same as en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "one milks cows, not milk"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "сааж/саасан байсан are also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "translation",
+    "why": "match text"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "хэлэлцээд байсан is colloquially possible"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "garbled term; match en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "more natural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "emphatic 'did move' is also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "text",
+    "why": "'have a brigade' is odd"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "match text"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "closer to тэгдэггүй"
+   }
+  ]
+ }
+}

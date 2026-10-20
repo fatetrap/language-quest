@@ -1,0 +1,530 @@
+{
+ "intro_en": "You will learn to talk about strict and gentle parenting, screen time and discipline. You will also review -х гэж оролдох, -хыг хичээх and -ж сургах in a longer conversation with question tags and echo questions.",
+ "intro_mn": "Та чанд ба зөөлөн хүмүүжил, дэлгэцийн хугацаа, сахилга батын тухай ярьж сурна. Мөн -х гэж оролдох, -хыг хичээх, -ж сургах хэлбэрүүдийг асуултын сүүл болон давтан асуулттай урт ярианд давтана.",
+ "vocab": [
+  {
+   "mn": "хүмүүжил",
+   "en": "upbringing",
+   "pos": "noun",
+   "example_mn": "Сайн хүмүүжил гэрээс эхэлдэг.",
+   "example_en": "Good upbringing starts at home.",
+   "mn_latin": "khümüüjil"
+  },
+  {
+   "mn": "чанд",
+   "en": "strict",
+   "pos": "adjective",
+   "example_mn": "Манай өвөө маш чанд хүн байсан.",
+   "example_en": "Our grandfather was a very strict person.",
+   "mn_latin": "chand"
+  },
+  {
+   "mn": "зөөлөн",
+   "en": "gentle",
+   "pos": "adjective",
+   "example_mn": "Эмээ нь хүүхдүүдэд үргэлж зөөлөн ханддаг.",
+   "example_en": "Grandma always treats the children gently.",
+   "mn_latin": "zöölön"
+  },
+  {
+   "mn": "шагнал",
+   "en": "reward",
+   "pos": "noun",
+   "example_mn": "Хичээлээ хийвэл шагнал авна.",
+   "example_en": "If you do your homework, you get a reward.",
+   "mn_latin": "shagnal"
+  },
+  {
+   "mn": "шийтгэл",
+   "en": "punishment",
+   "pos": "noun",
+   "example_mn": "Хэт хатуу шийтгэл үр дүнгүй байдаг.",
+   "example_en": "Overly harsh punishment is ineffective.",
+   "mn_latin": "shiitgel"
+  },
+  {
+   "mn": "хязгаар тогтоох",
+   "en": "to set limits",
+   "pos": "verb phrase",
+   "example_mn": "Утасны хэрэглээнд хязгаар тогтоох хэрэгтэй.",
+   "example_en": "We need to set limits on phone use.",
+   "mn_latin": "khyazgaar togtookh"
+  },
+  {
+   "mn": "үлгэр дуурайл",
+   "en": "role model, example",
+   "pos": "noun",
+   "example_mn": "Эцэг эх хүүхдэд үлгэр дуурайл үзүүлдэг.",
+   "example_en": "Parents set an example for their children.",
+   "mn_latin": "ülger duurail"
+  },
+  {
+   "mn": "дэлгэц",
+   "en": "screen",
+   "pos": "noun",
+   "example_mn": "Дэлгэцийн өмнө хэт удаан суух сайнгүй.",
+   "example_en": "It isn't good to sit in front of a screen too long.",
+   "mn_latin": "delgets"
+  },
+  {
+   "mn": "сахилга бат",
+   "en": "discipline",
+   "pos": "noun",
+   "example_mn": "Сургуульд сахилга бат чухал.",
+   "example_en": "Discipline is important at school.",
+   "mn_latin": "sakhilga bat"
+  },
+  {
+   "mn": "урамшуулах",
+   "en": "to encourage",
+   "pos": "verb",
+   "example_mn": "Би хүүхдээ ном уншихад урамшуулдаг.",
+   "example_en": "I encourage my child to read books.",
+   "mn_latin": "uramshuulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай аав биднийг маш чанд хүмүүжүүлсэн.",
+   "en": "Our dad raised us very strictly.",
+   "alt_mn": [
+    "Аав маань биднийг маш чанд өсгөсөн."
+   ],
+   "alt_en": [
+    "My dad brought us up very strictly."
+   ],
+   "mn_latin": "Manai aav bidniig mash chand khümüüjüülsen."
+  },
+  {
+   "mn": "Би хүүхдүүддээ зөөлөн хандахыг хичээдэг.",
+   "en": "I try to treat my children gently.",
+   "alt_mn": [
+    "Би хүүхдүүдтэйгээ зөөлөн харьцахыг хичээдэг."
+   ],
+   "alt_en": [
+    "I try to be gentle with my kids."
+   ],
+   "mn_latin": "Bi khüükhdüüddee zöölön khandakhyg khicheedeg."
+  },
+  {
+   "mn": "Тэр хүүгээ өдөр бүр хоолоо өөрөө аваад идэж сургаж байна.",
+   "en": "Every day he is teaching his son to serve his own food and eat by himself.",
+   "alt_mn": [],
+   "alt_en": [
+    "He is training his son to serve himself and eat every day."
+   ],
+   "mn_latin": "Ter khüügee ödör bür khooloo ööröö avaad idej surgaj baina."
+  },
+  {
+   "mn": "Дэлгэцийн хугацаанд хязгаар тогтоох хэрэгтэй, тийм биз дээ?",
+   "en": "We need to set limits on screen time, don't we?",
+   "alt_mn": [
+    "Дэлгэцийн хугацаанд хязгаар тогтоох хэрэгтэй, тийм үү?"
+   ],
+   "alt_en": [
+    "We have to set screen time limits, right?"
+   ],
+   "mn_latin": "Delgetsiin khugatsaand khyazgaar togtookh kheregtei, tiim biz dee?"
+  },
+  {
+   "mn": "Шагнал нь заримдаа шийтгэлээс илүү үр дүнтэй байдаг.",
+   "en": "Rewards are sometimes more effective than punishment.",
+   "alt_mn": [],
+   "alt_en": [
+    "A reward is sometimes more effective than a punishment."
+   ],
+   "mn_latin": "Shagnal ni zarimdaa shiitgelees ilüü ür düntei baidag."
+  },
+  {
+   "mn": "Охин минь утсаа тавихыг оролдсон ч чадаагүй.",
+   "en": "My daughter tried to put her phone down but couldn't.",
+   "alt_mn": [
+    "Охин маань утсаа тавихыг оролдсон ч чадаагүй."
+   ],
+   "alt_en": [
+    "My daughter tried to put her phone away, but she couldn't."
+   ],
+   "mn_latin": "Okhin mini utsaa tavikhyg oroldson ch chadaagüi."
+  },
+  {
+   "mn": "Хүүхэд том хүмүүсийн үлгэр дуурайлаар сурдаг.",
+   "en": "Children learn from the example of adults.",
+   "alt_mn": [],
+   "alt_en": [
+    "Kids learn by adults' example."
+   ],
+   "mn_latin": "Khüükhed tom khümüüsiin ülger duurailaar surdag."
+  },
+  {
+   "mn": "Эмээ: «Чи хоёр цаг тоглосон» гэнэ. – Хоёр цаг гэнэ ээ?",
+   "en": "Grandma says, “You played for two hours.” – Two hours, she says?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Emee: «Chi khoyor tsag togloson» gene. – Khoyor tsag gene ee?"
+  },
+  {
+   "mn": "Бид хүүхдээ хэт ачаалалтай болгохгүй байхыг хичээж байна.",
+   "en": "We are trying not to overload our child.",
+   "alt_mn": [
+    "Бид хүүхдэдээ хэт их ачаалал өгөхгүй байхыг хичээж байна."
+   ],
+   "alt_en": [
+    "We're trying not to put too much pressure on our child."
+   ],
+   "mn_latin": "Bid khüükhdee khet achaalaltai bolgokhgüi baikhyg khicheej baina."
+  },
+  {
+   "mn": "Чи өөрөө эхлээд өрөөгөө цэвэрлэж сурсан биз дээ?",
+   "en": "You learned to clean your own room first, didn't you?",
+   "alt_mn": [],
+   "alt_en": [
+    "You learned to clean your room yourself first, right?"
+   ],
+   "mn_latin": "Chi ööröö ekhleed öröögöö tseverlej sursan biz dee?"
+  },
+  {
+   "mn": "Сахилга бат гэдэг нь зөвхөн шийтгэл биш.",
+   "en": "Discipline isn't only punishment.",
+   "alt_mn": [
+    "Сахилга бат гэдэг зөвхөн шийтгэл биш."
+   ],
+   "alt_en": [
+    "Discipline doesn't mean only punishment."
+   ],
+   "mn_latin": "Sakhilga bat gedeg ni zövkhön shiitgel bish."
+  },
+  {
+   "mn": "Эцэг эхчүүд өөрсдөө хэт их утас ашигладаг шүү дээ.",
+   "en": "Parents themselves use their phones too much, you know.",
+   "alt_mn": [],
+   "alt_en": [
+    "The parents themselves use phones too much, after all."
+   ],
+   "mn_latin": "Etseg ekhchüüd öörsdöö khet ikh utas ashigladag shüü dee."
+  }
+ ],
+ "grammar": {
+  "title_en": "Review: -х гэж оролдох, -хыг хичээх, -ж сургах + tags and echoes",
+  "title_mn": "Давтлага: -х гэж оролдох, -хыг хичээх, -ж сургах + асуултын сүүл, давтан асуулт",
+  "explain_en": "Use verb stem + -х гэж оролдох for 'try to do' (often a single attempt): Тэр хэлэх гэж оролдсон. Use -хыг хичээх for sustained effort: Би тайван байхыг хичээдэг. For 'try not to', use -хгүй байхыг хичээх. Use verb + -ж/-аж сургах for 'teach/train someone to do' when that person does the action: Хүүхдээ эрт босож сургана. A causative stem (e.g. идүүлж сургах) means the person is made to do it by someone else, so use it only for that meaning. In Mongolian, add тийм биз дээ? or тийм үү? to seek agreement, and echo a word with гэнэ ээ? to react: Дэлгэц гэнэ ээ? ('Screen, you say?'). In English, tags reverse the polarity: a positive statement takes a negative tag (You limit his screen time, don't you?) and a negative statement takes a positive tag. An English echo question repeats the statement with rising intonation: \"He grounded him.\" – \"He grounded him?\"",
+  "explain_mn": "-х гэж оролдох нь англи хэлний 'try to do' (ихэвчлэн нэг оролдлого): Тэр хэлэх гэж оролдсон. -хыг хичээх нь тууштай хичээл зүтгэл: Би тайван байхыг хичээдэг. 'Try not to' гэвэл -хгүй байхыг хичээх. 'Teach someone to do' нь, тухайн хүн өөрөө үйлдэл хийх бол, -ж/-аж сургах хэлбэртэй: Хүүхдээ эрт босож сургана. Үйлдүүлэх хэлбэр (идүүлж сургах) нь өөр хүнээр хийлгэх утгатай тул зөвхөн тэр утгаар хэрэглэнэ. Монгол ярианд зөвшөөрөл асуухдаа тийм биз дээ?, тийм үү? гэж нэмдэг бөгөөд үгийг гэнэ ээ? гэж давтан хариу үйлдэл үзүүлнэ: Дэлгэц гэнэ ээ? Англи хэлэнд эерэг өгүүлбэрт сөрөг сүүл (You limit his screen time, don't you?), сөрөг өгүүлбэрт эерэг сүүл орно. Англи давтан асуулт нь өгүүлбэрийг өргөх өнгөөр давтана: «He grounded him.» – «He grounded him?»",
+  "examples": [
+   {
+    "mn": "Би хүүхэддээ уурлахгүй байхыг хичээдэг.",
+    "en": "I try not to get angry at my child.",
+    "mn_latin": "Bi khüükheddee uurlakhgüi baikhyg khicheedeg."
+   },
+   {
+    "mn": "Тэр дэлгэцээ унтраах гэж оролдсон ч хүү нь уйлсан.",
+    "en": "She tried to turn off the screen, but her son cried.",
+    "mn_latin": "Ter delgetsee untraakh gej oroldson ch khüü ni uilsan."
+   },
+   {
+    "mn": "Бид хүүхдүүдээ эрт босож сургасан.",
+    "en": "We taught our children to get up early.",
+    "mn_latin": "Bid khüükhdüüdee ert bosoj surgasan."
+   },
+   {
+    "mn": "Чи хатуу байдаг биз дээ? – Хатуу гэнэ ээ?",
+    "en": "You're strict, aren't you? – Strict, you say?",
+    "mn_latin": "Chi khatuu baidag biz dee? – Khatuu gene ee?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би хүүхдээ хэт загнахгүй ___ хичээдэг.",
+   "answer": "байхыг",
+   "options": [
+    "байхыг",
+    "байх гэж",
+    "байж",
+    "байвал"
+   ],
+   "translation": "I try not to scold my child too much.",
+   "explain_en": "-хыг хичээх: verb stem + -хыг (accusative) + хичээх, here байхыг.",
+   "explain_mn": "«Try not to» утгыг -хыг хичээх хэлбэр илэрхийлнэ: байхыг хичээх."
+  },
+  {
+   "lang": "mn",
+   "text": "Охин минь утсаа тавих ___ оролдсон.",
+   "answer": "гэж",
+   "options": [
+    "гэж",
+    "д",
+    "аар",
+    "тай"
+   ],
+   "translation": "My daughter tried to put down her phone.",
+   "explain_en": "-х гэж оролдох: the quotative гэж links the verb to оролдох.",
+   "explain_mn": "-х гэж оролдох бүтцэд «гэж» заавал орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр хүүхдүүдээ эрт унт___ сургасан.",
+   "answer": "аж",
+   "options": [
+    "аж",
+    "ах",
+    "сан",
+    "вал"
+   ],
+   "translation": "She taught her children to go to sleep early.",
+   "explain_en": "Verb + converb -ж/-аж + сургах: унт- + -аж → унтаж сургах.",
+   "explain_mn": "Үйл үгийн үндэс + -ж/-аж сургах: унт- + аж → унтаж сургах."
+  },
+  {
+   "lang": "en",
+   "text": "You limit his screen time, ___ you?",
+   "answer": "don't",
+   "options": [
+    "don't",
+    "do",
+    "aren't",
+    "won't"
+   ],
+   "translation": "Та түүний дэлгэцийн хугацааг хязгаарладаг, тийм биз дээ?",
+   "explain_en": "A positive statement takes a negative tag with the same auxiliary: do → don't.",
+   "explain_mn": "Эерэг өгүүлбэрт сөрөг сүүл орно: You limit... don't you?"
+  },
+  {
+   "lang": "en",
+   "text": "She hasn't punished him, ___ she?",
+   "answer": "has",
+   "options": [
+    "has",
+    "hasn't",
+    "does",
+    "is"
+   ],
+   "translation": "Тэр түүнийг шийтгээгүй, тийм биз дээ?",
+   "explain_en": "A negative statement takes a positive tag: hasn't → has.",
+   "explain_mn": "Сөрөг өгүүлбэрт эерэг сүүл орно: hasn't → has she?"
+  },
+  {
+   "lang": "en",
+   "text": "A: \"He grounded his son for a week.\" B: \"He ___ his son for a week?\"",
+   "answer": "grounded",
+   "options": [
+    "grounded",
+    "grounds",
+    "did ground",
+    "was grounded"
+   ],
+   "translation": "А: «Тэр хүүгээ долоо хоног гадуур гаргахгүй гэж шийтгэсэн.» Б: «Тэр хүүгээ долоо хоног гадуур гаргахгүй гэж шийтгэсэн гэнэ ээ?»",
+   "explain_en": "An echo question repeats the statement with rising intonation, keeping the same tense.",
+   "explain_mn": "Давтан асуулт нь өгүүлбэрийг ижил цагаар, өргөх өнгөөр давтана."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Аав аа, би хүүгээ дэлгэцийн өмнө хэт удаан суулгахгүй байхыг хичээж байна, гэхдээ амаргүй юм.",
+   "en": "Dad, I'm trying not to let my son sit in front of a screen too long, but it's not easy.",
+   "mn_latin": "Aav aa, bi khüügee delgetsiin ömnö khet udaan suulgakhgüi baikhyg khicheej baina, gekhdee amargüi yum."
+  },
+  {
+   "speaker": "Аав",
+   "mn": "Бид чамайг багад чинь чанд өсгөсөн, санаж байна уу? Дэлгэц гэж байгаагүй.",
+   "en": "We raised you strictly when you were little, remember? There were no screens.",
+   "mn_latin": "Bid chamaig bagad chini chand ösgösön, sanaj baina uu? Delgets gej baigaagüi."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Чанд гэнэ ээ? Та нар надад хэзээ ч шийтгэл өгөөгүй биз дээ?",
+   "en": "Strict, you say? You never actually punished me, did you?",
+   "mn_latin": "Chand gene ee? Ta nar nadad khezee ch shiitgel ögöögüi biz dee?"
+  },
+  {
+   "speaker": "Аав",
+   "mn": "Өгсөн шүү. Чамайг цагтаа гэртээ ирдэг болгохын тулд гадуур гаргаагүй.",
+   "en": "We did. To teach you to come home on time, we didn't let you go out.",
+   "mn_latin": "Ögsön shüü. Chamaig tsagtaa gertee irdeg bolgokhyn tuld gaduur gargaagüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Би зөөлөн хандахыг хичээдэг. Шагнал өгвөл хүүхэд өөрөө хүсэж хийдэг юм.",
+   "en": "I try to be gentle. When you give a reward, the child does things willingly.",
+   "mn_latin": "Bi zöölön khandakhyg khicheedeg. Shagnal ögvöl khüükhed ööröö khüsej khiideg yum."
+  },
+  {
+   "speaker": "Аав",
+   "mn": "Шагнал гэнэ ээ? Манайд ингэдэггүй байсан, гэхдээ үр дүнтэй бол болно доо.",
+   "en": "A reward, you say? We didn't do that, but if it works, fine.",
+   "mn_latin": "Shagnal gene ee? Manaid ingedeggüi baisan, gekhdee ür düntei bol bolno doo."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Хамгийн гол нь хязгаар тогтоох, мөн би өөрөө утсаа тавих хэрэгтэй, тийм биз дээ?",
+   "en": "The main thing is to set limits, and I need to put my own phone down too, right?",
+   "mn_latin": "Khamgiin gol ni khyazgaar togtookh, mön bi ööröö utsaa tavikh kheregtei, tiim biz dee?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм ээ, үлгэр дуурайл л чухал.",
+   "en": "Yes, setting an example is what really matters.",
+   "mn_latin": "Tiim ee, ülger duurail l chukhal."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian families, grandparents often live with or near their grandchildren and play a big role in raising them. Traditional upbringing values respect for elders and obedience, while many young parents in Ulaanbaatar now favor talking and rewards. Conversations between generations about this are common and usually friendly.",
+  "mn": "Монгол өрхөд өвөө эмээ нар ихэвчлэн ач зээ нартайгаа хамт эсвэл ойрхон амьдардаг бөгөөд тэднийг хүмүүжүүлэхэд чухал үүрэгтэй. Уламжлалт хүмүүжил ахмадаа хүндлэх, дуулгавартай байхыг эрхэмлэдэг бол Улаанбаатарын олон залуу эцэг эх ярилцаж, шагнал өгөхийг илүүд үздэг. Энэ талаар үе үеийн хүмүүсийн хооронд яриа өрнөх нь элбэг бөгөөд ихэнхдээ найрсаг байдаг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 20,
+  "notes": "Several real errors (causative misuse, wrong verb орхих, confusing grammar notes, fill-blank spacing); most items otherwise fine."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 24,
+  "notes": "Main fixes: the -ж сургах target form, the унтаж converb, -хгүй байхыг хичээх, a fill-blank with two correct answers, and grammar explanations that didn't match.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "The lesson teaches -ж сургах; the causative form is not the target"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Matches the grammar (-ж сургах)"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "Plural needed to match 'the children'"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "mn",
+    "why": "уриалах means to make a public appeal, which is unnatural for a parent and child"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "en",
+    "why": "Matches урамшуулах"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "Natural collocation"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "en",
+    "why": "The original English was awkward"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "Negative + хичээх needs -хгүй байхыг"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "ачаалуулахгүйг is unnatural and ungrammatical"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Consistent with the explanation"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Consistent with the explanation"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The en and mn versions covered different content"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Brought in line with explain_en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "-хыг оролдох is also correct, so 'ыг' gave a second right answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "The converb of унт- is унтаж"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Correct form in the options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Shows the correct form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Shows the correct form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Clearer rendering of 'grounded'"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "-хгүй гэж оролдох is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Standard spelling is хүсэж"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "ажиллаж байгаа is a calque of 'works'"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "Unnatural English"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'Between generations' was mistranslated, and 'respect for elders' was missing"
+   }
+  ]
+ }
+}

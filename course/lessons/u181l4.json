@@ -1,0 +1,411 @@
+{
+ "intro_en": "In this lesson you will learn how to interrupt politely in a meeting, take the floor, and hand it back. You will practice the softening patterns -х гэсэн юм and -ж болох уу, and framing phrases with гэвэл such as Товчхон хэлэх гэвэл.",
+ "intro_mn": "Энэ хичээлээр та хурал дээр хүний үгийг эелдгээр таслах, үг авах, буцааж ээлж өгөх аргад суралцана. Мөн англи хэлний \"if I could just\", \"sorry to cut in\", \"hold that thought\" гэх мэт эелдэг хэллэгүүдийг дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "үг таслах",
+   "en": "to interrupt (someone speaking)",
+   "pos": "verb phrase",
+   "example_mn": "Хүний үг таслах нь соёлгүй хэрэг.",
+   "example_en": "Interrupting people is rude.",
+   "mn_latin": "üg taslakh"
+  },
+  {
+   "mn": "үг авах",
+   "en": "to take the floor",
+   "pos": "verb phrase",
+   "example_mn": "Дараа нь санхүүгийн захирал үг авна.",
+   "example_en": "Next, the finance director will take the floor.",
+   "mn_latin": "üg avakh"
+  },
+  {
+   "mn": "үг өгөх",
+   "en": "to give (someone) the floor",
+   "pos": "verb phrase",
+   "example_mn": "Даргалагч надад үг өглөө.",
+   "example_en": "The chair gave me the floor.",
+   "mn_latin": "üg ögökh"
+  },
+  {
+   "mn": "ээлж",
+   "en": "turn",
+   "pos": "noun",
+   "example_mn": "Одоо таны ээлж.",
+   "example_en": "Now it's your turn.",
+   "mn_latin": "eelj"
+  },
+  {
+   "mn": "саналаа хэлэх",
+   "en": "to give one's opinion / make a suggestion",
+   "pos": "verb phrase",
+   "example_mn": "Хүн бүр саналаа хэлэх боломжтой.",
+   "example_en": "Everyone can give their opinion.",
+   "mn_latin": "sanalaa khelekh"
+  },
+  {
+   "mn": "нэмж хэлэх",
+   "en": "to add (to what was said)",
+   "pos": "verb phrase",
+   "example_mn": "Би нэг зүйл нэмж хэлмээр байна.",
+   "example_en": "I'd like to add one thing.",
+   "mn_latin": "nemj khelekh"
+  },
+  {
+   "mn": "тодруулах",
+   "en": "to clarify",
+   "pos": "verb",
+   "example_mn": "Нэг зүйл тодруулж болох уу?",
+   "example_en": "Could I clarify one thing?",
+   "mn_latin": "todruulakh"
+  },
+  {
+   "mn": "хурал даргалагч",
+   "en": "chair (of a meeting)",
+   "pos": "noun",
+   "example_mn": "Хурал даргалагч цагийг сануулав.",
+   "example_en": "The chair reminded everyone about the time.",
+   "mn_latin": "khural dargalagch"
+  },
+  {
+   "mn": "үгээ дуусгах",
+   "en": "to finish what one is saying",
+   "pos": "verb phrase",
+   "example_mn": "Би үгээ дуусгачихъя.",
+   "example_en": "Let me finish.",
+   "mn_latin": "ügee duusgakh"
+  },
+  {
+   "mn": "хэлэлцэх",
+   "en": "to discuss",
+   "pos": "verb",
+   "example_mn": "Энэ асуудлыг маргааш хэлэлцье.",
+   "example_en": "Let's discuss this issue tomorrow.",
+   "mn_latin": "kheleltsekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Үг тасалсанд уучлаарай, гэхдээ бидэнд цаг бага үлдлээ.",
+   "en": "Sorry to cut in, but we're running out of time.",
+   "alt_mn": [
+    "Үг таслаад уучлаарай, гэхдээ бидэнд цаг бага үлдлээ."
+   ],
+   "alt_en": [
+    "Sorry to interrupt, but we're running out of time.",
+    "Sorry to cut in, but we don't have much time left."
+   ],
+   "mn_latin": "Üg tasalsand uuchlaarai, gekhdee bidend tsag baga üldlee."
+  },
+  {
+   "mn": "Нэг зүйл нэмж хэлж болох уу?",
+   "en": "Could I add one thing?",
+   "alt_mn": [
+    "Би нэг зүйл нэмж хэлж болох уу?"
+   ],
+   "alt_en": [
+    "Can I add one thing?",
+    "May I add something?"
+   ],
+   "mn_latin": "Neg züil nemj khelj bolokh uu?"
+  },
+  {
+   "mn": "Би энд нэг зүйл тодруулах гэсэн юм.",
+   "en": "I just wanted to clarify something here.",
+   "alt_mn": [
+    "Би энд нэг зүйлийг тодруулах гэсэн юм."
+   ],
+   "alt_en": [
+    "I just wanted to clarify one thing here.",
+    "I wanted to clarify something here."
+   ],
+   "mn_latin": "Bi end neg züil todruulakh gesen yum."
+  },
+  {
+   "mn": "Түр хүлээгээрэй, би үгээ дуусгачихъя.",
+   "en": "Hold on, let me finish.",
+   "alt_mn": [
+    "Түр хүлээгээрэй, би үгээ дуусгая."
+   ],
+   "alt_en": [
+    "Just a moment, let me finish.",
+    "Hang on, let me finish."
+   ],
+   "mn_latin": "Tür khüleegeerei, bi ügee duusgachikhya."
+  },
+  {
+   "mn": "Тэр санаагаа мартуузай, бид удахгүй энэ асуудал руу эргэж орно.",
+   "en": "Hold that thought, we'll come back to this issue shortly.",
+   "alt_mn": [],
+   "alt_en": [
+    "Hold that thought; we'll get back to this issue soon."
+   ],
+   "mn_latin": "Ter sanaagaa martuuzai, bid udakhgüi ene asuudal ruu ergej orno."
+  },
+  {
+   "mn": "Одоо хэний ээлж вэ?",
+   "en": "Whose turn is it now?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Odoo khenii eelj ve?"
+  },
+  {
+   "mn": "Хурал даргалагч Болдод үг өглөө.",
+   "en": "The chair gave Bold the floor.",
+   "alt_mn": [],
+   "alt_en": [
+    "The chair gave the floor to Bold."
+   ],
+   "mn_latin": "Khural dargalagch Boldod üg öglöö."
+  },
+  {
+   "mn": "Товчхон хэлэх гэвэл, энэ төсөл хойшлох бололтой.",
+   "en": "To put it briefly, this project looks like it will be delayed.",
+   "alt_mn": [
+    "Товчоор хэлэх гэвэл, энэ төсөл хойшлох бололтой."
+   ],
+   "alt_en": [
+    "In short, it looks like this project will be delayed.",
+    "To put it briefly, the project will probably be delayed."
+   ],
+   "mn_latin": "Tovchkhon khelekh gevel, ene tösöl khoishlokh bololtoi."
+  },
+  {
+   "mn": "Хүн бүр саналаа хэлэх ээлжээ хүлээж байна.",
+   "en": "Everyone is waiting for their turn to give their opinion.",
+   "alt_mn": [],
+   "alt_en": [
+    "Everyone is waiting for their turn to share their opinion."
+   ],
+   "mn_latin": "Khün bür sanalaa khelekh eeljee khüleej baina."
+  },
+  {
+   "mn": "Хэрэв зөвшөөрвөл, би энэ талаар хэдэн үг хэлэх гэсэн юм.",
+   "en": "If I may, I'd like to say a few words about this.",
+   "alt_mn": [
+    "Зөвшөөрвөл, би энэ талаар хэдэн үг хэлэх гэсэн юм."
+   ],
+   "alt_en": [
+    "If I could, I'd like to say a few words about this."
+   ],
+   "mn_latin": "Kherev zövshöörvöl, bi ene talaar kheden üg khelekh gesen yum."
+  },
+  {
+   "mn": "Үнэнийг хэлэх гэвэл, энэ төлөвлөгөө надад тийм ч ойлгомжтой биш байна.",
+   "en": "To be honest, this plan isn't very clear to me.",
+   "alt_mn": [],
+   "alt_en": [
+    "To tell the truth, this plan isn't very clear to me.",
+    "Honestly, this plan isn't all that clear to me."
+   ],
+   "mn_latin": "Üneniig khelekh gevel, ene tölövlögöö nadad tiim ch oilgomjtoi bish baina."
+  },
+  {
+   "mn": "Батаа, та үгээ дуусгаагүй байсан, үргэлжлүүлээрэй.",
+   "en": "Bataa, you hadn't finished. Please go on.",
+   "alt_mn": [],
+   "alt_en": [
+    "Bataa, you weren't finished. Please continue.",
+    "Bataa, you hadn't finished. Go ahead."
+   ],
+   "mn_latin": "Bataa, ta ügee duusgaagüi baisan, ürgeljlüüleerei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Softening an interruption: -х гэсэн юм, -ж болох уу and ... гэвэл",
+  "title_mn": "Эелдгээр үг таслах: \"Sorry to cut in\", \"If I could just...\", \"Hold that thought\"",
+  "explain_en": "Mongolian has three handy tools for polite interrupting. (1) Verb + -х гэсэн юм literally means 'it's that I meant to...'. It works like English 'I just wanted to...': Тодруулах гэсэн юм = 'I just wanted to clarify.' (2) Verb + -ж/-ч болох уу? means 'may I / could I...?': Нэмж хэлж болох уу? = 'Could I add something?' (3) Verb + -х гэвэл means 'if I were to...'. It frames what you say next, much like 'to put it briefly' or 'to be honest': Товчхон хэлэх гэвэл..., Үнэнийг хэлэх гэвэл..., Нэмж хэлэх гэвэл... A typical polite interruption chains them together: Уучлаарай, нэг зүйл нэмж хэлж болох уу? Товчхон хэлэх гэвэл... To protect your own turn, use the -чихъя form: Үгээ дуусгачихъя ('Let me just finish').",
+  "explain_mn": "Англи хэлэнд хурал дээр үг таслахдаа шууд \"Stop, I want to speak\" гэж хэлдэггүй. Харин хэллэгээ зөөллөдөг. (1) \"Sorry to cut in / Sorry to interrupt\" нь \"Үг тасалсанд уучлаарай\" гэсэн утгатай. Ихэвчлэн араас нь \"but...\" ордог. (2) \"If I could just + үйл үг...\" нь өгүүлбэрийг заавал дуусгах шаардлагагүй, хагас нөхцөл хэлбэр юм. \"could\" ба \"just\" хоёр нь хүсэлтийг зөөлрүүлнэ: If I could just add one thing... Энэ нь монголын \"-ж болох уу\" болон \"-х гэсэн юм\"-тай дүйнэ. (3) \"Hold that thought\" нь \"Тэр санаагаа мартуузай, дараа эргэж ярья\" гэсэн утгатай. Даргалагч хүн ээлж зохицуулахдаа ихэвчлэн хэрэглэдэг. Мөн \"Can I jump in?\", \"Let me just finish\" гэдгийг тогтоож аваарай.",
+  "examples": [
+   {
+    "mn": "Уучлаарай, би нэг зүйл тодруулах гэсэн юм.",
+    "en": "Sorry, I just wanted to clarify one thing.",
+    "mn_latin": "Uuchlaarai, bi neg züil todruulakh gesen yum."
+   },
+   {
+    "mn": "Нэг зүйл нэмж хэлж болох уу?",
+    "en": "If I could just add one thing...",
+    "mn_latin": "Neg züil nemj khelj bolokh uu?"
+   },
+   {
+    "mn": "Нэмж хэлэх гэвэл, үйлчлүүлэгчид ч бас сэтгэл дундуур байгаа.",
+    "en": "To add to that, the clients are also unhappy.",
+    "mn_latin": "Nemj khelekh gevel, üilchlüülegchid ch bas setgel dunduur baigaa."
+   },
+   {
+    "mn": "Тэр санаагаа мартуузай, эхлээд Сараад үгээ дуусгуулъя.",
+    "en": "Hold that thought. Let's let Saraa finish first.",
+    "mn_latin": "Ter sanaagaa martuuzai, ekhleed Saraad ügee duusguulya."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нэг зүйл нэмж хэлж ___ уу?",
+   "answer": "болох",
+   "options": [
+    "болох",
+    "болвол",
+    "болоод",
+    "болж"
+   ],
+   "translation": "Could I add one thing?",
+   "explain_en": "The standard permission question is verb + -ж болох уу? ('may I / could I...?'). Forms like болвол, болоод or болж cannot take the question particle уу in this pattern.",
+   "explain_mn": "Зөвшөөрөл асуухдаа \"-ж болох уу?\" гэсэн тогтсон хэлбэрийг хэрэглэнэ. \"Болвол\", \"болоод\", \"болж\" хэлбэрийн араас \"уу\" энд залгахгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Би нэг зүйл тодруулах ___ юм.",
+   "answer": "гэсэн",
+   "options": [
+    "гэсэн",
+    "гэх",
+    "гэж",
+    "гэвэл"
+   ],
+   "translation": "I just wanted to clarify one thing.",
+   "explain_en": "-х гэсэн юм is a fixed softener meaning 'I just wanted to...'. Only гэсэн fits before юм here.",
+   "explain_mn": "\"-х гэсэн юм\" бол хүсэлтийг зөөллөх тогтвортой хэлбэр. Англиар \"I just wanted to...\" гэж орчуулагдана."
+  },
+  {
+   "lang": "mn",
+   "text": "Товчхон хэлэх ___, бидэнд мөнгө хүрэлцэхгүй.",
+   "answer": "гэвэл",
+   "options": [
+    "гэвэл",
+    "гэсэн",
+    "гэж",
+    "гээд"
+   ],
+   "translation": "To put it briefly, we won't have enough money.",
+   "explain_en": "-х гэвэл ('if I were to say it...') frames the comment that follows, like 'to put it briefly' or 'to be honest'.",
+   "explain_mn": "\"-х гэвэл\" нь араас нь хэлэх санааг хүрээлж өгдөг. Англиар \"to put it briefly / in short\" гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Sorry to ___ in, but the client is on the line.",
+   "answer": "cut",
+   "options": [
+    "cut",
+    "take",
+    "put",
+    "hold"
+   ],
+   "translation": "Үг тасалсанд уучлаарай, гэхдээ үйлчлүүлэгч утсан дээр байна.",
+   "explain_en": "The fixed phrase is 'cut in' (to interrupt). 'Take in', 'put in' and 'hold in' mean something else.",
+   "explain_mn": "\"Cut in\" нь \"үг таслах\" гэсэн хэллэг. \"Sorry to cut in\" гэж тогтвортойгоор хэрэглэдэг."
+  },
+  {
+   "lang": "en",
+   "text": "If I could ___ add one thing...",
+   "answer": "just",
+   "options": [
+    "just",
+    "still",
+    "already",
+    "ever"
+   ],
+   "translation": "Нэг зүйл нэмж хэлж болох уу...",
+   "explain_en": "'Just' minimizes the request and makes the interruption sound small and polite. This is the standard phrase.",
+   "explain_mn": "\"Just\" нь хүсэлтийг жижигрүүлж, эелдэг болгодог. \"If I could just...\" бол түгээмэл эелдэг хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "Hold that ___ — we'll come back to it after the break.",
+   "answer": "thought",
+   "options": [
+    "thought",
+    "mind",
+    "word",
+    "opinion"
+   ],
+   "translation": "Тэр санаагаа мартуузай, завсарлагааны дараа үүн рүү эргэж орно.",
+   "explain_en": "'Hold that thought' is an idiom. Other nouns don't work in it.",
+   "explain_mn": "\"Hold that thought\" бол тогтвортой хэлц. \"Санаагаа түр хадгалаад, дараа ярья\" гэсэн утгатай. Өөр нэр үгээр солихгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "За, дараагийн асуудал бол Дарханд шинэ салбар нээх тухай. Болд оо, таны ээлж.",
+   "en": "Okay, the next item is opening a new branch in Darkhan. Bold, it's your turn.",
+   "mn_latin": "Za, daraagiin asuudal bol Darkhand shine salbar neekh tukhai. Bold oo, tany eelj."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Баярлалаа. Бидний тооцоогоор эхний жилийн зардал...",
+   "en": "Thank you. According to our calculations, the first-year costs...",
+   "mn_latin": "Bayarlalaa. Bidnii tootsoogoor ekhnii jiliin zardal..."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Үг тасалсанд уучлаарай. Нэг зүйл тодруулж болох уу? Энэ тоо өнгөрсөн оных уу?",
+   "en": "Sorry to cut in. Could I clarify one thing? Are these figures from last year?",
+   "mn_latin": "Üg tasalsand uuchlaarai. Neg züil todruulj bolokh uu? Ene too öngörsön onykh uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Үгүй, энэ оных. Гэхдээ би эхлээд үгээ дуусгачихъя, тэгвэл илүү ойлгомжтой болно.",
+   "en": "No, they're from this year. But let me finish first; it'll be clearer that way.",
+   "mn_latin": "Ügüi, ene onykh. Gekhdee bi ekhleed ügee duusgachikhya, tegvel ilüü oilgomjtoi bolno."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Энхжин ээ, тэр асуултаа мартуузай. Болдын дараа таны ээлж.",
+   "en": "Enkhjin, hold that thought. You're up after Bold.",
+   "mn_latin": "Enkhjin ee, ter asuultaa martuuzai. Boldyn daraa tany eelj."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Ойлголоо, хүлээе.",
+   "en": "Got it, I'll wait.",
+   "mn_latin": "Oilgoloo, khüleeye."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Товчхон хэлэх гэвэл, салбар хоёр жилийн дотор зардлаа нөхнө.",
+   "en": "To put it briefly, the branch will pay for itself within two years.",
+   "mn_latin": "Tovchkhon khelekh gevel, salbar khoyor jiliin dotor zardlaa nökhnö."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Хэрэв зөвшөөрвөл, би энэ талаар саналаа хэлэх гэсэн юм.",
+   "en": "If I may, I'd like to share my view on that.",
+   "mn_latin": "Kherev zövshöörvöl, bi ene talaar sanalaa khelekh gesen yum."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian workplaces, meetings often follow seniority: the boss or the eldest person speaks first, and interrupting a superior or an elder is seen as quite rude. People usually signal that they want to speak by raising a hand slightly and saying Уучлаарай, then waiting for the chair to give them the floor. In many English-speaking offices, quick polite interruptions like 'Sorry to cut in' are normal, but the softening words are what keep them friendly.",
+  "mn": "Монголын ажлын байрны хурал ихэвчлэн зэрэг дэвээр явагддаг: дарга эсвэл ахмад хүн эхэлж үг хэлдэг бөгөөд ахлагч, ахмад хүний үгийг таслах нь их бүдүүлэг хэрэг гэж үздэг. Үг авахыг хүсвэл гараа бага зэрэг өргөж \"Уучлаарай\" гээд, хурал даргалагч үг өгөхийг хүлээдэг. Англиар ярьдаг олон оффист \"Sorry to cut in\" гэх мэт богино, эелдэг үг таслалт хэвийн зүйл. Харин зөөлрүүлэх үгс нь яриаг найрсаг байлгадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 6,
+  "notes": "A natural, well-built lesson. The fixes remove ambiguous fill-blank distractors, correct an inaccurate rule about уу, and fix one wrong verb form in a grammar example."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "The lesson was already in good shape; only a few small naturalness fixes and one ambiguous fill-in-the-blank option needed changing.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Reflexive цагаа means 'his own time'. The English means the meeting time, so цагийг is correct."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'If I could only add one thing...' is also acceptable English, so the blank had two correct answers."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'Англи хэлтэй оффис' is unnatural. 'Англиар ярьдаг оффис' is the natural phrasing for English-speaking offices."
+   }
+  ]
+ }
+}

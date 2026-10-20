@@ -1,0 +1,412 @@
+{
+ "intro_en": "Step into a trainer's shoes and size up a racehorse from mane to hoof. You'll stack descriptions like хурдан хөлтэй, өргөн цээжтэй and learn to choose between near-synonyms like fast, quick, and swift, or stamina and endurance.",
+ "intro_mn": "Уяачийн нүдээр хурдан морийг дэлнээс нь туурай хүртэл үнэлж сурцгаая. Монгол хэлэнд хурдан хөлтэй, өргөн цээжтэй гэх мэт тодорхойлолтыг давхарлан хэрэглэж сурна. Англи хэлэнд fast, quick, swift болон stamina, endurance зэрэг ойролцоо утгатай үгсийг ялгаж сурна.",
+ "vocab": [
+  {
+   "mn": "дэл",
+   "en": "mane",
+   "pos": "noun",
+   "example_mn": "Энэ морь урт, өтгөн дэлтэй.",
+   "example_en": "This horse has a long, thick mane.",
+   "mn_latin": "del"
+  },
+  {
+   "mn": "сүүл",
+   "en": "tail",
+   "pos": "noun",
+   "example_mn": "Хээр морины сүүл хар өнгөтэй байдаг.",
+   "example_en": "A bay horse's tail is black.",
+   "mn_latin": "süül"
+  },
+  {
+   "mn": "туурай",
+   "en": "hoof",
+   "pos": "noun",
+   "example_mn": "Хатуу туурайтай морь холын замд тэсвэртэй.",
+   "example_en": "A horse with hard hooves holds up well on long journeys.",
+   "mn_latin": "tuurai"
+  },
+  {
+   "mn": "цээж",
+   "en": "chest",
+   "pos": "noun",
+   "example_mn": "Өргөн цээжтэй морь сайн амьсгалдаг.",
+   "example_en": "A broad-chested horse breathes well.",
+   "mn_latin": "tseej"
+  },
+  {
+   "mn": "хөл",
+   "en": "leg",
+   "pos": "noun",
+   "example_mn": "Шулуун хөлтэй унага сайн хурдан морь болно.",
+   "example_en": "A foal with straight legs will make a good racehorse.",
+   "mn_latin": "khöl"
+  },
+  {
+   "mn": "хурд",
+   "en": "speed",
+   "pos": "noun",
+   "example_mn": "Энэ азарганы хурд гайхалтай.",
+   "example_en": "This stallion's speed is amazing.",
+   "mn_latin": "khurd"
+  },
+  {
+   "mn": "тэсвэр",
+   "en": "stamina, endurance",
+   "pos": "noun",
+   "example_mn": "Наадмын уралдаанд хурднаас гадна тэсвэр чухал.",
+   "example_en": "In the Naadam race, stamina matters, not just speed.",
+   "mn_latin": "tesver"
+  },
+  {
+   "mn": "бэлхүүс",
+   "en": "waist, loin",
+   "pos": "noun",
+   "example_mn": "Нарийн бэлхүүстэй морь хөнгөн харагддаг.",
+   "example_en": "A slim-waisted horse looks light.",
+   "mn_latin": "belkhüüs"
+  },
+  {
+   "mn": "уяач",
+   "en": "horse trainer (of racehorses)",
+   "pos": "noun",
+   "example_mn": "Уяач морио өглөө эрт сойдог.",
+   "example_en": "The trainer conditions his horse early in the morning.",
+   "mn_latin": "uyaach"
+  },
+  {
+   "mn": "сойх",
+   "en": "to condition, to train (a racehorse)",
+   "pos": "verb",
+   "example_mn": "Хурдан морийг наадмаас өмнө сар орчим сойдог.",
+   "example_en": "Racehorses are conditioned for about a month before Naadam.",
+   "mn_latin": "soikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Уяач тэр хээр морийг хурдан хөлтэй, өргөн цээжтэй гэж үнэлэв.",
+   "en": "The trainer judged the bay horse to be fleet-footed and broad-chested.",
+   "alt_mn": [
+    "Уяач тэр хээр морийг хурдан хөлтэй, өргөн цээжтэй гэж дүгнэлээ."
+   ],
+   "alt_en": [
+    "The trainer assessed the bay horse as fleet-footed and broad-chested.",
+    "The trainer judged that the bay horse had fast legs and a broad chest."
+   ],
+   "mn_latin": "Uyaach ter kheer moriig khurdan khöltei, örgön tseejtei gej ünelev."
+  },
+  {
+   "mn": "Нарийн бэлхүүстэй, урт хөлтэй морь ихэвчлэн богино зайд хурдан байдаг.",
+   "en": "A slim-waisted, long-legged horse is usually fast over short distances.",
+   "alt_mn": [],
+   "alt_en": [
+    "A horse with a slim waist and long legs is usually quick over short distances."
+   ],
+   "mn_latin": "Nariin belkhüüstei, urt khöltei mori ikhevchlen bogino zaid khurdan baidag."
+  },
+  {
+   "mn": "Харин холын зайд тэсвэртэй морь л түрүүлдэг.",
+   "en": "Over long distances, though, it's the horse with stamina that wins.",
+   "alt_mn": [
+    "Харин холын зайд зөвхөн тэсвэртэй морь түрүүлдэг."
+   ],
+   "alt_en": [
+    "But over long distances, only a horse with endurance wins."
+   ],
+   "mn_latin": "Kharin kholyn zaid tesvertei mori l türüüldeg."
+  },
+  {
+   "mn": "Энэ халзан азарга хатуу туурайтай тул чулуурхаг газар ч гүйж чадна.",
+   "en": "This blaze-faced stallion has hard hooves, so it can run even on rocky ground.",
+   "alt_mn": [
+    "Энэ халзан азарга хатуу туурайтай учраас чулуурхаг газар ч гүйж чадна."
+   ],
+   "alt_en": [
+    "Because this blaze-faced stallion has hard hooves, it can run even on rocky ground."
+   ],
+   "mn_latin": "Ene khalzan azarga khatuu tuuraitai tul chuluurkhag gazar ch güij chadna."
+  },
+  {
+   "mn": "Өтгөн дэлтэй, урт сүүлтэй морь сайхан харагддаг ч хурд нь үүнээс хамаардаггүй.",
+   "en": "A horse with a thick mane and a long tail looks beautiful, but its speed doesn't depend on that.",
+   "alt_mn": [],
+   "alt_en": [
+    "A thick-maned, long-tailed horse looks beautiful, but that has nothing to do with its speed."
+   ],
+   "mn_latin": "Ötgön deltei, urt süültei mori saikhan kharagddag ch khurd ni üünees khamaardaggüi."
+  },
+  {
+   "mn": "Миний өвөө хурдан морины шинжийг нүдээр хараад л таньдаг байсан.",
+   "en": "My grandfather could recognize the marks of a racehorse just by looking at it.",
+   "alt_mn": [],
+   "alt_en": [
+    "My grandfather could spot the signs of a racehorse at a glance."
+   ],
+   "mn_latin": "Minii övöö khurdan moriny shinjiig nüdeer kharaad l tanidag baisan."
+  },
+  {
+   "mn": "Энэ даага хурдан ч гэсэн тэсвэр муутай.",
+   "en": "This colt is fast, but it lacks stamina.",
+   "alt_mn": [
+    "Энэ даага хурдан боловч тэсвэр муутай."
+   ],
+   "alt_en": [
+    "This colt is quick, but it has poor endurance.",
+    "Although this colt is fast, it lacks stamina."
+   ],
+   "mn_latin": "Ene daaga khurdan ch gesen tesver muutai."
+  },
+  {
+   "mn": "Уяач хүн морио хэт ачаалахгүйгээр аажмаар сойх ёстой.",
+   "en": "A trainer must condition a horse gradually, without overworking it.",
+   "alt_mn": [],
+   "alt_en": [
+    "A trainer should condition a horse gradually and not overwork it."
+   ],
+   "mn_latin": "Uyaach khün morio khet achaalakhgüigeer aajmaar soikh yostoi."
+  },
+  {
+   "mn": "Өргөн цээжтэй морь уушиг нь том учраас удаан гүйхэд амархан ядардаггүй.",
+   "en": "A broad-chested horse has large lungs, so it doesn't tire easily on long runs.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because a broad-chested horse has big lungs, it doesn't get tired easily on long runs."
+   ],
+   "mn_latin": "Örgön tseejtei mori uushig ni tom uchraas udaan güikhed amarkhan yadardaggüi."
+  },
+  {
+   "mn": "Хүлэг гэдэг нь сайн, хурдан морийг хүндэтгэн нэрлэдэг үг юм.",
+   "en": "\"Khüleg\" is a respectful word for a fine, swift horse.",
+   "alt_mn": [
+    "Хүлэг гэдэг үгээр сайн, хурдан морийг хүндэтгэн нэрлэдэг."
+   ],
+   "alt_en": [
+    "\"Khüleg\" is an honorific word for a fine, fast horse."
+   ],
+   "mn_latin": "Khüleg gedeg ni sain, khurdan moriig khündetgen nerledeg üg yum."
+  },
+  {
+   "mn": "Тэдний шилдэг морь гурван жил дараалан айргийн тавд орсон.",
+   "en": "Their best horse finished in the top five three years in a row.",
+   "alt_mn": [],
+   "alt_en": [
+    "Their finest horse placed in the top five for three straight years."
+   ],
+   "mn_latin": "Tednii shildeg mori gurvan jil daraalan airgiin tavd orson."
+  },
+  {
+   "mn": "Энэ морь хурдан ч биш, хүчтэй ч биш, гэхдээ гайхалтай тэсвэртэй.",
+   "en": "This horse is neither fast nor strong, but it has remarkable endurance.",
+   "alt_mn": [],
+   "alt_en": [
+    "This horse isn't fast or strong, but it has amazing stamina."
+   ],
+   "mn_latin": "Ene mori khurdan ch bish, khüchtei ch bish, gekhdee gaikhaltai tesvertei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Stacked descriptions: adjective + noun + -тай/-тэй/-той",
+  "title_mn": "Англи хэлний ойролцоо утгатай үгс: fast / quick / swift, stamina / endurance",
+  "explain_en": "Mongolian describes features with the comitative suffix -тай/-тэй/-той (\"having\"). Put an adjective before a body part, add the suffix, and you get a ready-made description: хурдан хөлтэй (\"fast-legged, fleet-footed\") or өргөн цээжтэй (\"broad-chested\"). These work much like English compound adjectives such as long-legged or thick-maned. Vowel harmony picks the ending. Words with а, у, ы take -тай (туурайтай). Words with о take -той. Words with э, ө, ү, и take -тэй (хөлтэй, цээжтэй, бэлхүүстэй, дэлтэй). To stack several features, list the phrases with commas and put the noun last: нарийн бэлхүүстэй, урт хөлтэй морь. The phrases can also stand as the predicate: Энэ морь өргөн цээжтэй (\"This horse is broad-chested\").",
+  "explain_mn": "Англи хэлэнд хурдыг илэрхийлэх хэд хэдэн үг бий. Fast нь хамгийн түгээмэл үг бөгөөд хөдөлгөөний хурдыг заана (a fast horse, a fast car). Quick нь богино хугацаанд болдог үйлдэл, шуурхай хариу үйлдлийг илэрхийлнэ (a quick question, quick reflexes). Swift нь арай уран, албан ёсны үг бөгөөд жигд, хөнгөн хурдыг заана (a swift horse, a swift response). Stamina нь удаан хугацаанд бие махбодын ачааллыг даах хүч, эрч хүч юм (run out of stamina). Endurance нь илүү өргөн утгатай. Энэ нь урт хугацааны хүнд нөхцөл, зовлонг тэсвэрлэх чадвар бөгөөд тэмцээний нэрэнд ч хэрэглэгддэг (an endurance race). Мөн монгол хэлний -тай/-тэй хэлцийг англиар ихэвчлэн нийлмэл тэмдэг нэрээр орчуулна: өргөн цээжтэй бол broad-chested, урт хөлтэй бол long-legged.",
+  "examples": [
+   {
+    "mn": "хурдан хөлтэй, өргөн цээжтэй хүлэг",
+    "en": "a fleet-footed, broad-chested steed",
+    "mn_latin": "khurdan khöltei, örgön tseejtei khüleg"
+   },
+   {
+    "mn": "Энэ морь нарийн бэлхүүстэй, хатуу туурайтай.",
+    "en": "This horse is slim-waisted and has hard hooves.",
+    "mn_latin": "Ene mori nariin belkhüüstei, khatuu tuuraitai."
+   },
+   {
+    "mn": "Тэр морь хурдан ч гэсэн тэсвэр муутай.",
+    "en": "That horse is fast but has little stamina.",
+    "mn_latin": "Ter mori khurdan ch gesen tesver muutai."
+   },
+   {
+    "mn": "Уяач хурдан хариулт өгөв.",
+    "en": "The trainer gave a quick answer.",
+    "mn_latin": "Uyaach khurdan khariult ögöv."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Урт хөл___ морь богино зайд хурдан байдаг.",
+   "answer": "тэй",
+   "options": [
+    "тэй",
+    "тай",
+    "той",
+    "гүй"
+   ],
+   "translation": "A long-legged horse is fast over short distances.",
+   "explain_en": "Хөл contains the front rounded vowel ө, so vowel harmony requires -тэй. The ending -тай goes with а/у words and -той with о words. -гүй would mean \"without legs.\"",
+   "explain_mn": "Хөл үг ө эгшигтэй тул эгшиг зохицох ёсоор -тэй нөхцөл авна. -тай нь а, у эгшигтэй үгэнд, -той нь о эгшигтэй үгэнд залгагдана. -гүй гэвэл \"хөлгүй\" гэсэн утга гарна."
+  },
+  {
+   "lang": "mn",
+   "text": "Холын зайд хурднаас илүү ___ чухал.",
+   "answer": "тэсвэр",
+   "options": [
+    "тэсвэр",
+    "дэл",
+    "сүүл",
+    "туурай"
+   ],
+   "translation": "Over long distances, stamina matters more than speed.",
+   "explain_en": "The sentence contrasts speed with another quality needed for long distances. That quality is тэсвэр, \"stamina/endurance.\" The other options are body parts.",
+   "explain_mn": "Энд хурдыг холын зайд хэрэгтэй өөр нэг чанартай харьцуулж байна. Тэр чанар нь тэсвэр. Бусад хувилбарууд нь биеийн хэсгийн нэр."
+  },
+  {
+   "lang": "mn",
+   "text": "Нарийн ___тэй морь хөнгөн харагддаг.",
+   "answer": "бэлхүүс",
+   "options": [
+    "бэлхүүс",
+    "туурай",
+    "хурд",
+    "тэсвэр"
+   ],
+   "translation": "A slim-waisted horse looks light.",
+   "explain_en": "Нарийн (\"slim, narrow\") naturally describes the waist, бэлхүүс. Its vowel ү matches -тэй. Туурай would need -тай, and хурд or тэсвэр can't be \"slim.\"",
+   "explain_mn": "Нарийн гэдэг тэмдэг нэр бэлхүүсийг тодорхойлоход тохирно. Бэлхүүс үгийн ү эгшиг -тэй нөхцөлтэй зохицоно. Туурай бол -тай авна, харин хурд, тэсвэрийг нарийн гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Can I ask you a ___ question about this horse?",
+   "answer": "quick",
+   "options": [
+    "quick",
+    "fast",
+    "swift",
+    "rapid"
+   ],
+   "translation": "Энэ морины талаар нэг юм товчхон асууж болох уу?",
+   "explain_en": "\"A quick question\" is the fixed, natural phrase for something that takes little time. \"Fast\" and \"rapid\" describe movement or pace. \"Swift\" sounds overly formal here.",
+   "explain_mn": "Богино хугацаанд болох зүйлд quick хэрэглэнэ. \"A quick question\" бол тогтвортой хэллэг. Fast, rapid нь хөдөлгөөний хурдыг заадаг, swift нь энд хэт албан ёсны сонсогдоно."
+  },
+  {
+   "lang": "en",
+   "text": "This is a very ___ car; it can reach 200 kilometers per hour.",
+   "answer": "fast",
+   "options": [
+    "fast",
+    "quick",
+    "swift",
+    "brief"
+   ],
+   "translation": "Энэ маш хурдан машин, цагт 200 километр хүртэл давхина.",
+   "explain_en": "For a vehicle's top speed, \"fast\" is the everyday choice. \"Quick\" suggests acceleration or short duration. \"Swift\" is literary, and \"brief\" refers only to time.",
+   "explain_mn": "Тээврийн хэрэгслийн дээд хурдыг ярихад fast хамгийн түгээмэл. Quick нь хурдасгах, богино хугацааг илэрхийлнэ. Swift уран зохиолын өнгөтэй, brief зөвхөн хугацааны богино байдлыг заана."
+  },
+  {
+   "lang": "en",
+   "text": "The race was a real test of ___: the horses ran 25 kilometers in the summer heat.",
+   "answer": "endurance",
+   "options": [
+    "endurance",
+    "speed",
+    "quickness",
+    "swiftness"
+   ],
+   "translation": "Энэ уралдаан жинхэнэ тэсвэрийн сорил байлаа: морьд зуны халуунд 25 километр гүйсэн.",
+   "explain_en": "A long run in harsh conditions tests the ability to withstand hardship over time, which is endurance. \"A test of endurance\" is a common collocation. The other options are all about speed.",
+   "explain_mn": "Хүнд нөхцөлд удаан гүйх нь тэсвэрлэх чадварыг шалгана, тиймээс endurance тохирно. \"A test of endurance\" нь түгээмэл хэллэг. Бусад хувилбарууд бүгд хурдны тухай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батбаяр",
+   "mn": "Энэ хээр азаргыг хар даа. Хурдан хөлтэй, өргөн цээжтэй, жинхэнэ хүлэг.",
+   "en": "Look at this bay stallion. Fleet-footed, broad-chested, a true steed.",
+   "mn_latin": "Ene kheer azargyg khar daa. Khurdan khöltei, örgön tseejtei, jinkhene khüleg."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм ээ, дэл нь ч гэсэн их гоё юм. Гэхдээ хурдан морийг юугаар нь таньдаг вэ?",
+   "en": "Yes, and his mane is gorgeous too. But how do you recognize a racehorse?",
+   "mn_latin": "Tiim ee, del ni ch gesen ikh goyo yum. Gekhdee khurdan moriig yuugaar ni tanidag ve?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Дэл, сүүл нь гоё байх нь гол биш. Хөл нь шулуун, туурай нь хатуу, бэлхүүс нь нарийн байх ёстой.",
+   "en": "A pretty mane and tail aren't the point. The legs should be straight, the hooves hard, and the waist slim.",
+   "mn_latin": "Del, süül ni goyo baikh ni gol bish. Khöl ni shuluun, tuurai ni khatuu, belkhüüs ni nariin baikh yostoi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Хурд, тэсвэр хоёрын аль нь илүү чухал вэ?",
+   "en": "Which matters more, speed or stamina?",
+   "mn_latin": "Khurd, tesver khoyoryn ali ni ilüü chukhal ve?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Наадамд хоёулаа хэрэгтэй. Хурдан ч гэсэн тэсвэргүй морь сүүлийн хэдэн километрт ядарчихдаг.",
+   "en": "At Naadam you need both. A horse that's fast but has no stamina tires out in the last few kilometers.",
+   "mn_latin": "Naadamd khoyoulaa kheregtei. Khurdan ch gesen tesvergüi mori süüliin kheden kilomyetrt yadarchikhdag."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Энэ азарга тэсвэртэй юу?",
+   "en": "Does this stallion have endurance?",
+   "mn_latin": "Ene azarga tesvertei yuu?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Маш тэсвэртэй. Өнгөрсөн жил айргийн тавд орсон. Одоо би аажмаар сойж байна.",
+   "en": "Very much so. He finished in the top five last year. Now I'm conditioning him gradually.",
+   "mn_latin": "Mash tesvertei. Öngörsön jil airgiin tavd orson. Odoo bi aajmaar soij baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгвэл энэ жил түрүүлэх байх аа!",
+   "en": "Then he might just win this year!",
+   "mn_latin": "Tegvel ene jil türüülekh baikh aa!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, a racehorse trainer (уяач) is a respected expert who \"reads\" a horse's body, or хурдан морины шинж, the way others read a map: legs, hooves, chest, and waist all reveal its potential. Before Naadam, horses are carefully conditioned (сойх) for weeks by controlling feed, water, and exercise. Races cover long open-steppe distances, often 15 to 30 km depending on the horse's age, so stamina counts as much as raw speed.",
+  "mn": "Монголд уяач хүн хурдан морины шинжийг газрын зураг уншиж буй мэт таньдаг нэр хүндтэй мэргэжилтэн юм: хөл, туурай, цээж, бэлхүүс нь морины чадварыг харуулна. Наадмын өмнө хурдан морийг хэдэн долоо хоногийн турш тэжээл, ус, гүйлгээг нь тохируулан нямбай сойдог. Уралдааны зай морины наснаас хамааран ихэвчлэн 15-30 км байдаг бөгөөд задгай талд болдог тул хурднаас дутуугүй тэсвэр чухал."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A strong, natural lesson with accurate vowel-harmony explanations. Only one ungrammatical concessive example and one wrong word in the Mongolian explanation needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Mostly clean lesson: one misspelling, two unnatural wordings in the dialogue, and a garbled culture-note sentence fixed.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Misspelling: зохицно should be зохицоно."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Хоёул mainly refers to people. Хоёулаа is the natural word for speed and stamina."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "\"A great deal\" is an unnatural answer to a yes/no question."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Насаас should be наснаас. The phrase \"15-30 км-ийн задгай талд\" was awkward and misleading."
+   }
+  ]
+ }
+}

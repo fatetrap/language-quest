@@ -1,0 +1,415 @@
+{
+ "intro_en": "Learn to tell a strange dream over breakfast: dream words like зүүд, зүүдлэх, хар дарах, and сэрэх. You will also practice describing changes in a story with the Mongolian -тай/-гүй болох pattern and the English phrases \"turn into\" and \"go + adjective.\"",
+ "intro_mn": "Өглөөний цайн дээр сонин зүүдээ ярьж сурна. Зүүд, зүүдлэх, хар дарах, сэрэх зэрэг үгсийг давтана. Мөн монгол хэлний -тай/-гүй болох бүтэц, англи хэлний \"turn into\" болон \"go + тэмдэг нэр\" бүтцээр өөрчлөлтийг хүүрнэн ярьж сурна.",
+ "vocab": [
+  {
+   "mn": "зүүд",
+   "en": "dream",
+   "pos": "noun",
+   "example_mn": "Өчигдөр шөнө би их сонин зүүд зүүдэлсэн.",
+   "example_en": "I had a really strange dream last night.",
+   "mn_latin": "züüd"
+  },
+  {
+   "mn": "зүүдлэх",
+   "en": "to dream",
+   "pos": "verb",
+   "example_mn": "Би өчигдөр таныг зүүдэлсэн.",
+   "example_en": "I dreamed about you last night.",
+   "mn_latin": "züüdlekh"
+  },
+  {
+   "mn": "хар дарах",
+   "en": "to have a nightmare",
+   "pos": "verb phrase",
+   "example_mn": "Хүүхдийг хар дараад уйлж сэрсэн.",
+   "example_en": "The child had a nightmare and woke up crying.",
+   "mn_latin": "khar darakh"
+  },
+  {
+   "mn": "сэрэх",
+   "en": "to wake up",
+   "pos": "verb",
+   "example_mn": "Би шөнө дунд гэнэт сэрсэн.",
+   "example_en": "I suddenly woke up in the middle of the night.",
+   "mn_latin": "serekh"
+  },
+  {
+   "mn": "хувирах",
+   "en": "to turn into, to transform",
+   "pos": "verb",
+   "example_mn": "Зүүдэнд минь муур бар болж хувирсан.",
+   "example_en": "In my dream, a cat turned into a tiger.",
+   "mn_latin": "khuvirakh"
+  },
+  {
+   "mn": "гэнэт",
+   "en": "suddenly",
+   "pos": "adverb",
+   "example_mn": "Гэнэт бүх юм харанхуй болсон.",
+   "example_en": "Suddenly everything went dark.",
+   "mn_latin": "genet"
+  },
+  {
+   "mn": "дуугүй болох",
+   "en": "to go quiet",
+   "pos": "verb phrase",
+   "example_mn": "Багш орж ирэхэд анги дуугүй болсон.",
+   "example_en": "When the teacher came in, the class went quiet.",
+   "mn_latin": "duugüi bolokh"
+  },
+  {
+   "mn": "далавч",
+   "en": "wing",
+   "pos": "noun",
+   "example_mn": "Зүүдэндээ би далавчтай болчихсон байсан.",
+   "example_en": "In my dream, I suddenly had wings.",
+   "mn_latin": "dalavch"
+  },
+  {
+   "mn": "зүүд тайлах",
+   "en": "to interpret a dream",
+   "pos": "verb phrase",
+   "example_mn": "Эмээ маань зүүд тайлж чаддаг.",
+   "example_en": "My grandma can interpret dreams.",
+   "mn_latin": "züüd tailakh"
+  },
+  {
+   "mn": "бүдэг",
+   "en": "vague, hazy, dim",
+   "pos": "adjective",
+   "example_mn": "Зүүд маань одоо бүдэг санагдаж байна.",
+   "example_en": "My dream feels hazy now.",
+   "mn_latin": "büdeg"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өчигдөр шөнө би их сонин зүүд зүүдэлсэн.",
+   "en": "I had a really strange dream last night.",
+   "alt_mn": [
+    "Өчигдөр шөнө их сонин зүүд зүүдэллээ."
+   ],
+   "alt_en": [
+    "Last night I had a really strange dream.",
+    "I had a very strange dream last night."
+   ],
+   "mn_latin": "Öchigdör shönö bi ikh sonin züüd züüdelsen."
+  },
+  {
+   "mn": "Зүүдэндээ би морь болж хувирсан.",
+   "en": "In my dream, I turned into a horse.",
+   "alt_mn": [
+    "Зүүдэндээ би морь болчихсон."
+   ],
+   "alt_en": [
+    "I turned into a horse in my dream."
+   ],
+   "mn_latin": "Züüdendee bi mori bolj khuvirsan."
+  },
+  {
+   "mn": "Гэнэт би далавчтай болчихсон байсан.",
+   "en": "Suddenly I had wings.",
+   "alt_mn": [
+    "Би гэнэт далавчтай болчихсон байсан."
+   ],
+   "alt_en": [
+    "Suddenly I had grown wings.",
+    "All of a sudden, I had wings."
+   ],
+   "mn_latin": "Genet bi dalavchtai bolchikhson baisan."
+  },
+  {
+   "mn": "Хот тэр чигтээ гэрэлгүй болсон.",
+   "en": "The whole city went dark.",
+   "alt_mn": [
+    "Хот бүхэлдээ гэрэлгүй болсон."
+   ],
+   "alt_en": [
+    "The entire city went dark."
+   ],
+   "mn_latin": "Khot ter chigtee gerelgüi bolson."
+  },
+  {
+   "mn": "Бүх хүн дуугүй болж, над руу харсан.",
+   "en": "Everyone went quiet and looked at me.",
+   "alt_mn": [
+    "Бүгд дуугүй болоод над руу харсан."
+   ],
+   "alt_en": [
+    "Everybody went quiet and looked at me."
+   ],
+   "mn_latin": "Bükh khün duugüi bolj, nad ruu kharsan."
+  },
+  {
+   "mn": "Шөнө хар дараад хашгирч сэрсэн.",
+   "en": "I had a nightmare and woke up screaming.",
+   "alt_mn": [
+    "Шөнө намайг хар дараад би хашгирч сэрсэн."
+   ],
+   "alt_en": [
+    "I had a nightmare during the night and woke up screaming."
+   ],
+   "mn_latin": "Shönö khar daraad khashgirch sersen."
+  },
+  {
+   "mn": "Гудамж гэнэт хүнгүй болсон.",
+   "en": "The street suddenly went empty.",
+   "alt_mn": [
+    "Гудамжинд гэнэт хүн байхгүй болсон."
+   ],
+   "alt_en": [
+    "Suddenly the street was empty.",
+    "The street suddenly emptied out."
+   ],
+   "mn_latin": "Gudamj genet khüngüi bolson."
+  },
+  {
+   "mn": "Багш маань гэнэт сүүлтэй болчихсон байсан.",
+   "en": "My teacher suddenly had a tail.",
+   "alt_mn": [
+    "Манай багш гэнэт сүүлтэй болчихсон байсан."
+   ],
+   "alt_en": [
+    "Suddenly my teacher had a tail."
+   ],
+   "mn_latin": "Bagsh maani genet süültei bolchikhson baisan."
+  },
+  {
+   "mn": "Би гүйх гэсэн ч хөл минь хүчгүй болчихсон байсан.",
+   "en": "I tried to run, but my legs went weak.",
+   "alt_mn": [
+    "Гүйх гэтэл хөл минь хүчгүй болчихсон байсан."
+   ],
+   "alt_en": [
+    "I wanted to run, but my legs had gone weak."
+   ],
+   "mn_latin": "Bi güikh gesen ch khöl mini khüchgüi bolchikhson baisan."
+  },
+  {
+   "mn": "Утас минь цэнэггүй болоод хэн рүү ч залгаж чадаагүй.",
+   "en": "My phone died, and I couldn't call anyone.",
+   "alt_mn": [
+    "Утас маань цэнэггүй болоод хэнд ч залгаж чадаагүй."
+   ],
+   "alt_en": [
+    "My phone ran out of battery, and I couldn't call anyone."
+   ],
+   "mn_latin": "Utas mini tseneggüi bolood khen rüü ch zalgaj chadaagüi."
+  },
+  {
+   "mn": "Сэрэхэд зүүд минь бүдэг санагдаж байлаа.",
+   "en": "When I woke up, the dream felt hazy.",
+   "alt_mn": [
+    "Сэрэхэд зүүд маань бүдэг санагдсан."
+   ],
+   "alt_en": [
+    "When I woke up, the dream seemed vague."
+   ],
+   "mn_latin": "Serekhed züüd mini büdeg sanagdaj bailaa."
+  },
+  {
+   "mn": "Эмээ маань энэ зүүдийг сайн ёр гэж тайлсан.",
+   "en": "My grandma interpreted this dream as a good sign.",
+   "alt_mn": [
+    "Эмээ минь энэ зүүдийг сайн ёртой гэж тайлсан."
+   ],
+   "alt_en": [
+    "My grandmother said this dream was a good sign."
+   ],
+   "mn_latin": "Emee maani ene züüdiig sain yor gej tailsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling changes in a dream: -тай/-гүй болох / turn into and go + adjective",
+  "title_mn": "Зүүдэн дэх өөрчлөлтийг хүүрнэх: -тай/-гүй болох / turn into ба go + тэмдэг нэр",
+  "explain_en": "In Mongolian, you can describe a change of state by adding -тай/-тэй/-той (\"with\") or -гүй (\"without\") to a noun and following it with болох (\"to become\"). The -тай ending follows vowel harmony, but -гүй never changes. Далавчтай болсон literally means \"became with wings,\" so \"grew wings\" or \"suddenly had wings.\" Гэрэлгүй болсон literally means \"became without light,\" so \"went dark.\" Дуугүй болсон means \"went quiet.\" Compare this with a noun + болох for a full transformation: морь болсон means \"became a horse.\" When you tell a dream, add -чих- (болчихсон) to make the change feel sudden and surprising.",
+  "explain_mn": "Англи хэлэнд нэг юм өөр юм болж хувирахыг \"turn into + нэр үг\" гэж хэлдэг: I turned into a horse (Би морь болж хувирсан). Харин байдал өөрчлөгдөхийг \"go + тэмдэг нэр\" бүтцээр илэрхийлдэг: go quiet (дуугүй болох), go dark (харанхуй болох, гэрэлгүй болох), go red (улайх), go weak (хүчгүй болох), go empty (хоосон болох). Өнгөрсөн цагт \"went\" болно. Тэмдэг нэрийн ард -ly залгахгүй гэдгийг анхаараарай: \"went quietly\" биш, \"went quiet\" гэнэ. Монгол хэлний -тай/-гүй болох бүтэц англиар ихэвчлэн \"go + adjective\" эсвэл \"suddenly had...\" гэж орчуулагддаг.",
+  "examples": [
+   {
+    "mn": "Би гэнэт далавчтай болчихсон.",
+    "en": "Suddenly I had wings.",
+    "mn_latin": "Bi genet dalavchtai bolchikhson."
+   },
+   {
+    "mn": "Өрөө гэнэт гэрэлгүй болсон.",
+    "en": "The room suddenly went dark.",
+    "mn_latin": "Öröö genet gerelgüi bolson."
+   },
+   {
+    "mn": "Бүх хүн дуугүй болсон.",
+    "en": "Everyone went quiet.",
+    "mn_latin": "Bükh khün duugüi bolson."
+   },
+   {
+    "mn": "Ах маань том загас болж хувирсан.",
+    "en": "My brother turned into a giant fish.",
+    "mn_latin": "Akh maani tom zagas bolj khuvirsan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Зүүдэндээ би гэнэт далавч___ болчихсон.",
+   "answer": "тай",
+   "options": [
+    "тай",
+    "тэй",
+    "той",
+    "гүй"
+   ],
+   "translation": "In my dream, I suddenly had wings.",
+   "explain_en": "The dreamer gained wings, so you need the \"with\" ending. Далавч has the back vowel а, so vowel harmony gives -тай. -тэй and -той don't match the vowels in the word, and -гүй would mean \"lost the wings.\"",
+   "explain_mn": "Англиар \"suddenly had wings\" гэдэг нь шинэ юмтай болсныг заадаг. Англи хэлэнд \"had wings\" эсвэл \"grew wings\" гэж хэлдэг. \"turned wings\" гэж хэлэхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Хот бүхэлдээ гэрэл___ болсон.",
+   "answer": "гүй",
+   "options": [
+    "гүй",
+    "тэй",
+    "ээр",
+    "ийг"
+   ],
+   "translation": "The whole city went dark.",
+   "explain_en": "The city lost its light, so you use -гүй (\"without\") + болох. -тэй would mean the city gained light. -ээр and -ийг are case endings that don't work before болох in this meaning.",
+   "explain_mn": "Англиар гэрэл унтарч харанхуй болохыг \"went dark\" гэж \"go + тэмдэг нэр\" бүтцээр хэлдэг. \"became without light\" гэж шууд орчуулдаггүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Өчигдөр шөнө намайг хар ___.",
+   "answer": "дарсан",
+   "options": [
+    "дарсан",
+    "харсан",
+    "унтсан",
+    "сэрсэн"
+   ],
+   "translation": "I had a nightmare last night.",
+   "explain_en": "\"To have a nightmare\" is the fixed phrase хар дарах, literally \"the darkness pressed.\" The person is the object (намайг), so the sentence literally means \"darkness pressed me.\"",
+   "explain_mn": "Англиар \"хар дарах\" гэдгийг \"have a nightmare\" гэж хэлдэг. Хүн өөрөө өгүүлэгч болно: I had a nightmare."
+  },
+  {
+   "lang": "en",
+   "text": "In my dream, my brother turned ___ a giant fish.",
+   "answer": "into",
+   "options": [
+    "into",
+    "to",
+    "on",
+    "at"
+   ],
+   "translation": "Зүүдэнд минь ах маань аварга том загас болж хувирсан.",
+   "explain_en": "When something completely changes into something else, you say \"turn into + noun.\" \"Turn to\" means \"face\" or \"ask for help,\" and \"turn on\" means \"switch on.\"",
+   "explain_mn": "Нэг юм өөр юм болж бүрэн хувирахыг \"turn into + нэр үг\" гэнэ (морь болж хувирах). \"turn to\" гэвэл эргэх, хандах гэсэн утгатай, \"turn on\" гэвэл асаах гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "When the teacher walked in, the whole class went ___.",
+   "answer": "quiet",
+   "options": [
+    "quiet",
+    "quietly",
+    "silence",
+    "quieted"
+   ],
+   "translation": "Багш орж ирэхэд анги тэр чигтээ дуугүй болсон.",
+   "explain_en": "In the pattern \"go + adjective,\" you need an adjective. \"Quietly\" is an adverb, \"silence\" is a noun, and \"quieted\" is a verb form.",
+   "explain_mn": "\"go + тэмдэг нэр\" бүтцэд заавал тэмдэг нэр орно. \"quietly\" бол дайвар үг, \"silence\" бол нэр үг, \"quieted\" бол үйл үгийн хэлбэр тул тохирохгүй. Монгол хэлний \"дуугүй болох\" гэдэгтэй дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ up at four in the morning and couldn't get back to sleep.",
+   "answer": "woke",
+   "options": [
+    "woke",
+    "wake",
+    "awoken",
+    "wakes"
+   ],
+   "translation": "Би өглөөний дөрвөн цагт сэрээд дахиж унтаж чадаагүй.",
+   "explain_en": "The story is in the past, so you need the simple past of \"wake up\": \"woke up.\" \"Awoken\" is a past participle and needs \"have.\"",
+   "explain_mn": "Өнгөрсөн цагийн хүүрнэлд \"wake up\" үйл үг \"woke up\" болно (сэрсэн). \"awoken\" хэлбэр \"have\"-тэй хамт л хэрэглэгддэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Өглөөний мэнд! Яагаад ийм ядарсан харагдаж байгаа юм бэ?",
+   "en": "Good morning! Why do you look so tired?",
+   "mn_latin": "Öglöönii mend! Yaagaad iim yadarsan kharagdaj baigaa yum be?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Өчигдөр шөнө хар дараад дөрвөн цагт сэрчихсэн.",
+   "en": "I had a nightmare last night and woke up at four.",
+   "mn_latin": "Öchigdör shönö khar daraad dörvön tsagt serchikhsen."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Өө, хөөрхий. Юу зүүдэлсэн юм бэ?",
+   "en": "Oh no, poor thing. What did you dream about?",
+   "mn_latin": "Öö, khöörkhii. Yuu züüdelsen yum be?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Би Нарантуул захаар явж байтал гэнэт бүх юм гэрэлгүй болчихсон. Хүмүүс бүгд дуугүй болсон.",
+   "en": "I was walking through Naran Tuul Market when suddenly everything went dark. All the people went quiet.",
+   "mn_latin": "Bi Narantuul zakhaar yavj baital genet bükh yum gerelgüi bolchikhson. Khümüüs bügd duugüi bolson."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Аймаар юм. Тэгээд яасан?",
+   "en": "That's scary. Then what happened?",
+   "mn_latin": "Aimaar yum. Tegeed yaasan?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тэгтэл би морь болж хувираад, гүйх гэтэл хөл минь хүчгүй болчихсон байсан.",
+   "en": "Then I turned into a horse, but when I tried to run, my legs had gone weak.",
+   "mn_latin": "Tegtel bi mori bolj khuviraad, güikh getel khöl mini khüchgüi bolchikhson baisan."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Санаа зоволтгүй ээ, зүүд эсрэгээрээ гэдэг шүү дээ. Эмээдээ хэлээд тайлуулаарай.",
+   "en": "Don't worry, they say dreams mean the opposite. Tell your grandma and have her interpret it.",
+   "mn_latin": "Sanaa zovoltgüi ee, züüd esregeeree gedeg shüü dee. Emeedee kheleed tailuulaarai."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тийм ээ, гэхдээ одоо зүүд минь бүдэг санагдаж эхэлж байна.",
+   "en": "Yeah, but the dream is already starting to feel hazy.",
+   "mn_latin": "Tiim ee, gekhdee odoo züüd mini büdeg sanagdaj ekhelj baina."
+  }
+ ],
+ "culture_note": {
+  "en": "In many Mongolian families, it is common to share dreams over morning tea, and an older relative may offer to interpret them. A popular saying, \"зүүд эсрэгээрээ\" (\"dreams go the opposite way\"), is used to comfort someone after a bad dream. Some people also believe that if you tell a bad dream to flowing water, it will be carried away.",
+  "mn": "Монгол айлуудад өглөөний цайн дээр зүүдээ ярих нь элбэг бөгөөд ахмад хүн зүүдийг нь тайлж өгөх нь бий. Муу зүүд зүүдэлсэн хүнийг тайвшруулахдаа \"зүүд эсрэгээрээ\" гэж хэлдэг. Зарим хүн муу зүүдээ урсгал усанд хэлбэл урсаад арилна гэж итгэдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 1,
+  "notes": "A strong, natural lesson with accurate explanations and well-matched translation pairs. There is only one case-ending inconsistency in the хар дарах example."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is solid; the only fixes are two places where the en and mn versions did not match.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The Mongolian intro left out the -тай/-гүй болох pattern that the English intro mentions."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_mn",
+    "why": "The Mongolian explanation did not say why \"quieted\" is wrong, unlike the English one."
+   }
+  ]
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "intro_en": "Learn how to make a cleaning schedule, ask whose turn it is, and argue about chores with your roommates. You'll practice using ээлж with the genitive (миний ээлж) and the possessive -ынх (өнөөдөр хэнийх вэ?).",
+ "intro_mn": "Цэвэрлэгээний хуваарь гаргах, хэний ээлж болохыг асуух, өрөөний хамтрагчидтайгаа гэрийн ажлын талаар маргалдах хэллэгүүдийг сурна. Англи хэлний \"whose turn\", \"It's your turn to + verb\" бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "ээлж",
+   "en": "turn",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр хэний ээлж вэ?",
+   "example_en": "Whose turn is it today?",
+   "mn_latin": "eelj"
+  },
+  {
+   "mn": "жижүүр",
+   "en": "person on duty",
+   "pos": "noun",
+   "example_mn": "Энэ долоо хоногт би жижүүр.",
+   "example_en": "I'm on duty this week.",
+   "mn_latin": "jijüür"
+  },
+  {
+   "mn": "хогоо гаргах",
+   "en": "to take out the trash",
+   "pos": "verb phrase",
+   "example_mn": "Өнөө орой хогоо гаргах хэрэгтэй.",
+   "example_en": "We need to take out the trash tonight.",
+   "mn_latin": "khogoo gargakh"
+  },
+  {
+   "mn": "хуваарь",
+   "en": "schedule",
+   "pos": "noun",
+   "example_mn": "Цэвэрлэгээний хуваарь гаргая.",
+   "example_en": "Let's make a cleaning schedule.",
+   "mn_latin": "khuvaari"
+  },
+  {
+   "mn": "ээлжлэх",
+   "en": "to take turns",
+   "pos": "verb",
+   "example_mn": "Бид ээлжилж хоол хийдэг.",
+   "example_en": "We take turns cooking.",
+   "mn_latin": "eeljlekh"
+  },
+  {
+   "mn": "шал угаах",
+   "en": "to mop the floor",
+   "pos": "verb phrase",
+   "example_mn": "Маргааш би шал угаана.",
+   "example_en": "I'll mop the floor tomorrow.",
+   "mn_latin": "shal ugaakh"
+  },
+  {
+   "mn": "тоос арчих",
+   "en": "to dust",
+   "pos": "verb phrase",
+   "example_mn": "Тавиур дээрх тоосыг арчаарай.",
+   "example_en": "Please dust the shelves.",
+   "mn_latin": "toos archikh"
+  },
+  {
+   "mn": "аяга таваг угаах",
+   "en": "to do the dishes",
+   "pos": "verb phrase",
+   "example_mn": "Оройн хоолны дараа аяга таваг угаана.",
+   "example_en": "I'll do the dishes after dinner.",
+   "mn_latin": "ayaga tavag ugaakh"
+  },
+  {
+   "mn": "угаалгын өрөө",
+   "en": "bathroom",
+   "pos": "noun",
+   "example_mn": "Угаалгын өрөө цэвэрлэх ээлж минийх.",
+   "example_en": "It's my turn to clean the bathroom.",
+   "mn_latin": "ugaalgyn öröö"
+  },
+  {
+   "mn": "шударга бус",
+   "en": "unfair",
+   "pos": "adjective",
+   "example_mn": "Энэ шударга бус байна!",
+   "example_en": "This is unfair!",
+   "mn_latin": "shudarga bus"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөөдөр хог гаргах ээлж хэнийх вэ?",
+   "en": "Whose turn is it to take out the trash today?",
+   "alt_mn": [
+    "Өнөөдөр хогоо гаргах хэний ээлж вэ?"
+   ],
+   "alt_en": [
+    "Who's taking out the trash today?"
+   ],
+   "mn_latin": "Önöödör khog gargakh eelj kheniikh ve?"
+  },
+  {
+   "mn": "Чиний ээлж. Өчигдөр би гаргасан.",
+   "en": "It's your turn. I took it out yesterday.",
+   "alt_mn": [
+    "Чинийх. Өчигдөр би гаргасан."
+   ],
+   "alt_en": [
+    "It's yours. I took it out yesterday."
+   ],
+   "mn_latin": "Chinii eelj. Öchigdör bi gargasan."
+  },
+  {
+   "mn": "Энэ долоо хоногт хэн жижүүр вэ?",
+   "en": "Who's on duty this week?",
+   "alt_mn": [
+    "Энэ долоо хоногийн жижүүр хэн бэ?"
+   ],
+   "alt_en": [
+    "Who is on duty this week?"
+   ],
+   "mn_latin": "Ene doloo khonogt khen jijüür ve?"
+  },
+  {
+   "mn": "Цэвэрлэгээний хуваарийг хөргөгч дээр наая.",
+   "en": "Let's put the cleaning schedule on the fridge.",
+   "alt_mn": [],
+   "alt_en": [
+    "Let's stick the cleaning schedule on the fridge."
+   ],
+   "mn_latin": "Tseverlegeenii khuvaariig khörgögch deer naaya."
+  },
+  {
+   "mn": "Аяга таваг угаах ээлж минийх биш, Сараагийнх.",
+   "en": "It's not my turn to do the dishes, it's Saraa's.",
+   "alt_mn": [
+    "Аяга таваг угаах миний ээлж биш, Сараагийн ээлж."
+   ],
+   "alt_en": [
+    "It isn't my turn to do the dishes, it's Saraa's."
+   ],
+   "mn_latin": "Ayaga tavag ugaakh eelj miniikh bish, Saraagiinkh."
+  },
+  {
+   "mn": "Чи гурван хоног дараалан шал угаагаагүй байна.",
+   "en": "You haven't mopped the floor for three days in a row.",
+   "alt_mn": [],
+   "alt_en": [
+    "You haven't mopped the floor three days in a row."
+   ],
+   "mn_latin": "Chi gurvan khonog daraalan shal ugaagaagüi baina."
+  },
+  {
+   "mn": "Угаалгын өрөө цэвэрлэх нь хамгийн хэцүү ажил учраас ээлжилж хийе.",
+   "en": "Cleaning the bathroom is the hardest chore, so let's take turns.",
+   "alt_mn": [
+    "Угаалгын өрөө цэвэрлэх хамгийн хэцүү ажил болохоор ээлжилж хийе."
+   ],
+   "alt_en": [
+    "Cleaning the bathroom is the hardest job, so let's take turns doing it."
+   ],
+   "mn_latin": "Ugaalgyn öröö tseverlekh ni khamgiin khetsüü ajil uchraas eeljilj khiiye."
+  },
+  {
+   "mn": "Ээлжээ солимоор байвал урьдчилаад хэлээрэй.",
+   "en": "If you want to swap turns, let me know in advance.",
+   "alt_mn": [
+    "Ээлжээ солих гэж байвал урьдчилж хэлээрэй."
+   ],
+   "alt_en": [
+    "If you want to switch turns, tell me ahead of time."
+   ],
+   "mn_latin": "Eeljee solimoor baival uridchilaad kheleerei."
+  },
+  {
+   "mn": "Би ажлаасаа орой ирдэг болохоор Мягмар гарагт жижүүрлэж чадахгүй.",
+   "en": "I get home late from work, so I can't be on duty on Tuesdays.",
+   "alt_mn": [],
+   "alt_en": [
+    "Since I come home late from work, I can't be on duty on Tuesdays."
+   ],
+   "mn_latin": "Bi ajlaasaa oroi irdeg bolokhoor Myagmar garagt jijüürlej chadakhgüi."
+  },
+  {
+   "mn": "Энэ шударга бус байна, би өнгөрсөн долоо хоногт хоёр удаа хог гаргасан.",
+   "en": "This isn't fair, I took out the trash twice last week.",
+   "alt_mn": [],
+   "alt_en": [
+    "That's not fair, I took the trash out twice last week."
+   ],
+   "mn_latin": "Ene shudarga bus baina, bi öngörsön doloo khonogt khoyor udaa khog gargasan."
+  },
+  {
+   "mn": "Маргааш хэнийх вэ? Болдынх.",
+   "en": "Whose turn is it tomorrow? Bold's.",
+   "alt_mn": [
+    "Маргааш хэний ээлж вэ? Болдын ээлж."
+   ],
+   "alt_en": [
+    "Who's up tomorrow? Bold."
+   ],
+   "mn_latin": "Margaash kheniikh ve? Boldynkh."
+  },
+  {
+   "mn": "Хүн бүр ээлжээ мартахгүй бол манай байр үргэлж цэвэрхэн байна.",
+   "en": "If everyone remembers their turn, our apartment will always be clean.",
+   "alt_mn": [],
+   "alt_en": [
+    "If nobody forgets their turn, our apartment will always be clean."
+   ],
+   "mn_latin": "Khün bür eeljee martakhgüi bol manai bair ürgelj tseverkhen baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Whose turn? ээлж + genitive vs. -ынх",
+  "title_mn": "Whose turn is it? / It's your turn to + verb",
+  "explain_en": "To say whose turn it is, put the person in the genitive before ээлж: миний ээлж (my turn), чиний ээлж (your turn), Болдын ээлж (Bold's turn), хэний ээлж вэ? (whose turn?). Mongolians also often drop ээлж and use the possessive ending -ынх/-ийнх/-гийнх, meaning \"the one belonging to...\": минийх (mine), чинийх (yours), таных (yours, polite), Болдынх (Bold's), Сараагийнх (Saraa's), хэнийх вэ? (whose?). So \"Өнөөдөр хэнийх вэ?\" means \"Whose (turn) is it today?\" when the chore is already clear. To name the chore, put it before ээлж with the -х verb form: хог гаргах ээлж (the turn to take out the trash). When ээлж is the subject like this, the owner comes after it with -ынх: Хог гаргах ээлж минийх / хэнийх вэ?",
+  "explain_mn": "Англи хэлэнд \"хэний ээлж вэ?\" гэдгийг \"Whose turn is it?\" гэж асууна. Ямар ажлын ээлж болохыг хэлэхдээ \"to + үйл үг\" нэмнэ: \"Whose turn is it to do the dishes?\" Хариулахдаа \"It's your turn.\" эсвэл \"It's your turn to take out the trash.\" гэнэ. Монгол хэлний -ынх шиг \"ээлж\" гэдгийг орхиж болно: \"It's mine.\" (минийх), \"It's yours.\" (чинийх), \"It's Bold's.\" (Болдынх). Анхаарах зүйл: \"whose\" (хэний) ба \"who's\" (= who is, хэн бэ) хоёрыг андуурч болохгүй.",
+  "examples": [
+   {
+    "mn": "Өнөөдөр хэний ээлж вэ?",
+    "en": "Whose turn is it today?",
+    "mn_latin": "Önöödör khenii eelj ve?"
+   },
+   {
+    "mn": "Шал угаах ээлж чинийх.",
+    "en": "It's your turn to mop the floor.",
+    "mn_latin": "Shal ugaakh eelj chiniikh."
+   },
+   {
+    "mn": "Минийх биш, Хүслэнгийнх.",
+    "en": "It's not mine, it's Khuslen's.",
+    "mn_latin": "Miniikh bish, Khüslengiinkh."
+   },
+   {
+    "mn": "Маргааш таных уу?",
+    "en": "Is it your turn tomorrow?",
+    "mn_latin": "Margaash tanykh uu?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өнөөдөр хог гаргах ээлж ___ вэ?",
+   "answer": "хэнийх",
+   "options": [
+    "хэнийх",
+    "хэний",
+    "хэнд",
+    "хэнийг"
+   ],
+   "translation": "Whose turn is it to take out the trash today?",
+   "explain_en": "The noun ээлж comes before the question word, so the question word stands alone and needs the possessive form хэнийх (\"whose one\"). Хэний would need a noun after it: хэний ээлж.",
+   "explain_mn": "\"Ээлж\" гэдэг үг асуух үгийн өмнө байгаа тул асуух үг ганцаараа -ийх дагавартай хэлбэрээр орно: хэнийх. \"Хэний\" бол араасаа нэр үг шаардана."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ долоо хоногт ___ ээлж.",
+   "answer": "миний",
+   "options": [
+    "миний",
+    "минийх",
+    "надад",
+    "намайг"
+   ],
+   "translation": "It's my turn this week.",
+   "explain_en": "Ээлж directly follows, so use the plain genitive миний (my). Минийх is used only when ээлж is dropped.",
+   "explain_mn": "Араас нь \"ээлж\" гэдэг нэр үг шууд орж байгаа тул харьяалахын тийн ялгалтай \"миний\" хэлбэр зөв. \"Минийх\" бол нэр үггүй үед хэрэглэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Шал угаах ээлж минийх биш, Болд___.",
+   "answer": "ынх",
+   "options": [
+    "ынх",
+    "ын",
+    "од",
+    "ыг"
+   ],
+   "translation": "It's not my turn to mop the floor, it's Bold's.",
+   "explain_en": "It parallels минийх, and no noun follows, so Bold needs the possessive ending -ынх: Болдынх (Bold's).",
+   "explain_mn": "\"Минийх\" гэсэнтэй зэрэгцэж, араас нь нэр үг ороогүй тул -ынх дагавар залгана: Болдынх."
+  },
+  {
+   "lang": "en",
+   "text": "It's your turn ___ take out the trash.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "that"
+   ],
+   "translation": "Хог гаргах ээлж чинийх.",
+   "explain_en": "The pattern is \"It's someone's turn to + base verb.\"",
+   "explain_mn": "\"It's ... turn\" бүтцийн араас үйл үг орвол заавал \"to + үйл үг\" хэлбэр хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ turn is it to clean the bathroom?",
+   "answer": "Whose",
+   "options": [
+    "Whose",
+    "Who's",
+    "Who",
+    "Which"
+   ],
+   "translation": "Угаалгын өрөө цэвэрлэх ээлж хэнийх вэ?",
+   "explain_en": "\"Whose\" asks about possession. \"Who's\" means \"who is\" and doesn't fit here.",
+   "explain_mn": "\"Whose\" нь \"хэний\" гэсэн утгатай. \"Who's\" бол \"who is\" буюу \"хэн бэ\" гэсэн үг тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I did the dishes yesterday, so today it's ___.",
+   "answer": "yours",
+   "options": [
+    "yours",
+    "your",
+    "you",
+    "your's"
+   ],
+   "translation": "Өчигдөр би аяга таваг угаасан, тэгэхээр өнөөдөр чинийх.",
+   "explain_en": "No noun follows, so use the possessive pronoun \"yours\". \"Your's\" with an apostrophe is always wrong.",
+   "explain_mn": "Араас нь нэр үг байхгүй тул \"yours\" (чинийх) хэлбэр хэрэглэнэ. \"Your\" бол араасаа нэр үг шаардана. \"Your's\" гэж бичих нь үргэлж буруу."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Залуусаа, угаалтуур дүүрэн аяга таваг байна. Өнөөдөр хэнийх вэ?",
+   "en": "Guys, the sink is full of dishes. Whose turn is it today?",
+   "mn_latin": "Zaluusaa, ugaaltuur düüren ayaga tavag baina. Önöödör kheniikh ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Минийх биш шүү. Хуваарийг хар, Даваа гарагт Тэмүүлэнгийнх.",
+   "en": "It's not mine. Look at the schedule, Monday is Temuulen's.",
+   "mn_latin": "Miniikh bish shüü. Khuvaariig khar, Davaa garagt Temüülengiinkh."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тийм ээ, гэхдээ би өчигдөр чиний оронд хог гаргасан шүү дээ.",
+   "en": "Yeah, but I took out the trash for you yesterday.",
+   "mn_latin": "Tiim ee, gekhdee bi öchigdör chinii orond khog gargasan shüü dee."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Өө, үнэн. Тэгвэл өнөөдөр би угаая, маргааш шал угаах ээлж чинийх болно.",
+   "en": "Oh, that's true. Then I'll do them today, and tomorrow it's your turn to mop the floor.",
+   "mn_latin": "Öö, ünen. Tegvel önöödör bi ugaaya, margaash shal ugaakh eelj chiniikh bolno."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ингэж байнга солиод байвал хуваарь утгагүй болно шүү.",
+   "en": "If you keep swapping like this, the schedule becomes pointless.",
+   "mn_latin": "Ingej bainga soliod baival khuvaari utgagüi bolno shüü."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Зөв. Ээлжээ солих бол хуваарь дээр бичиж тэмдэглэе.",
+   "en": "Right. If we swap turns, let's write it down on the schedule.",
+   "mn_latin": "Zöv. Eeljee solikh bol khuvaari deer bichij temdegleye."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, энэ долоо хоногт би жижүүр. Хүн бүр ээлжээ мартаж болохгүй шүү!",
+   "en": "Okay, I'm on duty this week. Nobody forget their turn!",
+   "mn_latin": "Za, ene doloo khonogt bi jijüür. Khün bür eeljee martaj bolokhgüi shüü!"
+  }
+ ],
+ "culture_note": {
+  "en": "Most Mongolians first meet the word жижүүр at school, where pupils take turns as class duty officers. They sweep the classroom, wipe the board, and water the plants. University dorms in Ulaanbaatar use the same system, with a duty schedule posted on the door. Before Tsagaan Sar, families also do a big top-to-bottom cleaning, so everyone in the household gets a chore.",
+  "mn": "Ихэнх монгол хүн \"жижүүр\" гэдэг үгийг анх сургууль дээрээ сонсдог. Сурагчид ээлжээр жижүүрлэж, анги шүүрдэж, самбар арчиж, цэцэг усалдаг. Улаанбаатарын их сургуулийн дотуур байруудад ч мөн адил хаалган дээр жижүүрийн хуваарь наадаг. Цагаан сарын өмнө гэр бүлүүд их цэвэрлэгээ хийдэг тул гэрийн хүн бүр өөрийн гэсэн ажилтай болдог."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A strong lesson. The Mongolian and English are natural and accurate, the ээлж/-ынх grammar is explained correctly, and each fill-in-the-blank has only one correct answer. The only fix is one British word in the culture note."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "A solid lesson overall; the fixes are one unnatural English alternative, a grammar gap about 'ээлж минийх', and one wording fix in the culture note.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "\"Whose turn is tomorrow?\" is ungrammatical; replaced it with a natural alternative."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The rule for the 'ээлж + -ынх' predicate pattern (used in the sentences and fill-blanks) was missing; dropping ээлж is not only casual."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "\"анх ... мэддэг\" is unnatural; \"анх ... сонсдог\" matches \"first meet the word\"."
+   }
+  ]
+ }
+}

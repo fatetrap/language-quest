@@ -1,0 +1,405 @@
+{
+ "intro_en": "In this lesson you'll join a university ethics seminar on unfair hiring algorithms and deepfakes. You'll learn key AI ethics terms and how to talk about causes with -аас үүдэн, -аас шалтгаалан and -аас үүдэлтэй.",
+ "intro_mn": "Энэ хичээлээр та ажилд авах шударга бус алгоритм, хуурамч бичлэгийн тухай их сургуулийн ёс зүйн семинарт оролцоно. Хиймэл оюуны ёс зүйн гол нэр томьёог сурч, бодит байдал дээр болох магадлал багатай ирээдүйн үйл явдлыг англиар was to / were to хэлбэрээр илэрхийлж сурна.",
+ "vocab": [
+  {
+   "mn": "ялгаварлал",
+   "en": "discrimination",
+   "pos": "noun",
+   "example_mn": "Ажилд авахдаа хүйсээр ялгаварлал гаргах нь хууль бус.",
+   "example_en": "Discriminating by gender in hiring is illegal.",
+   "mn_latin": "yalgavarlal"
+  },
+  {
+   "mn": "ил тод байдал",
+   "en": "transparency",
+   "pos": "noun",
+   "example_mn": "Компаниуд алгоритмынхаа ил тод байдлыг хангах ёстой.",
+   "example_en": "Companies must ensure their algorithms are transparent.",
+   "mn_latin": "il tod baidal"
+  },
+  {
+   "mn": "хувийн мэдээлэл",
+   "en": "personal data",
+   "pos": "noun",
+   "example_mn": "Миний хувийн мэдээллийг зөвшөөрөлгүйгээр ашигласан.",
+   "example_en": "My personal data was used without my consent.",
+   "mn_latin": "khuviin medeelel"
+  },
+  {
+   "mn": "хариуцлага",
+   "en": "responsibility, accountability",
+   "pos": "noun",
+   "example_mn": "Энэ алдааны хариуцлагыг хэн хүлээх вэ?",
+   "example_en": "Who will take responsibility for this mistake?",
+   "mn_latin": "khariutslaga"
+  },
+  {
+   "mn": "хэвшмэл хандлага",
+   "en": "bias",
+   "pos": "noun",
+   "example_mn": "Өгөгдөлд нийгмийн хэвшмэл хандлага тусгагдсан байдаг.",
+   "example_en": "Data often reflects social biases.",
+   "mn_latin": "khevshmel khandlaga"
+  },
+  {
+   "mn": "хуурамч бичлэг",
+   "en": "deepfake",
+   "pos": "noun",
+   "example_mn": "Сонгуулийн өмнө нэр дэвшигчийн хуурамч бичлэг тарсан.",
+   "example_en": "A deepfake of the candidate spread before the election.",
+   "mn_latin": "khuuramch bichleg"
+  },
+  {
+   "mn": "өгөгдөл",
+   "en": "data",
+   "pos": "noun",
+   "example_mn": "Энэ систем хуучин өгөгдөл дээр суралцсан.",
+   "example_en": "This system was trained on old data.",
+   "mn_latin": "ögögdöl"
+  },
+  {
+   "mn": "ёс зүй",
+   "en": "ethics",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр бид хиймэл оюуны ёс зүйн талаар ярилцана.",
+   "example_en": "Today we'll discuss AI ethics.",
+   "mn_latin": "yos züi"
+  },
+  {
+   "mn": "ажил горилогч",
+   "en": "job applicant",
+   "pos": "noun",
+   "example_mn": "Ажил горилогч бүрт ижил боломж олгох ёстой.",
+   "example_en": "Every job applicant should be given an equal chance.",
+   "mn_latin": "ajil gorilogch"
+  },
+  {
+   "mn": "шударга бус",
+   "en": "unfair",
+   "pos": "adjective",
+   "example_mn": "Ийм шийдвэр шударга бус.",
+   "example_en": "A decision like that is unfair.",
+   "mn_latin": "shudarga bus"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ ялгаварлал хуучин өгөгдлөөс үүдэлтэй.",
+   "en": "This discrimination stems from old data.",
+   "alt_mn": [
+    "Энэ ялгаварлал хуучин өгөгдлөөс үүдэлтэй юм."
+   ],
+   "alt_en": [
+    "This discrimination is caused by old data.",
+    "This discrimination comes from old data."
+   ],
+   "mn_latin": "Ene yalgavarlal khuuchin ögögdlöös üüdeltei."
+  },
+  {
+   "mn": "Өгөгдөл дэх хэвшмэл хандлагаас үүдэн алгоритм эмэгтэй горилогчдод бага оноо өгсөн.",
+   "en": "Because of bias in the data, the algorithm gave female applicants lower scores.",
+   "alt_mn": [],
+   "alt_en": [
+    "Due to bias in the data, the algorithm gave female applicants lower scores.",
+    "Bias in the data led the algorithm to give female applicants lower scores."
+   ],
+   "mn_latin": "Ögögdöl dekh khevshmel khandlagaas üüden algoritm emegtei gorilogchdod baga onoo ögsön."
+  },
+  {
+   "mn": "Техникийн саатлаас шалтгаалан семинар хойшлогдлоо.",
+   "en": "The seminar was postponed due to a technical problem.",
+   "alt_mn": [
+    "Техникийн саатлаас шалтгаалж семинар хойшлогдлоо."
+   ],
+   "alt_en": [
+    "The seminar has been postponed because of a technical problem."
+   ],
+   "mn_latin": "Tyekhnikiin saatlaas shaltgaalan syeminar khoishlogdloo."
+  },
+  {
+   "mn": "Хариуцлага хэнд ногдох нь нөхцөл байдлаас шалтгаална.",
+   "en": "Who bears responsibility depends on the situation.",
+   "alt_mn": [],
+   "alt_en": [
+    "Who is responsible depends on the circumstances."
+   ],
+   "mn_latin": "Khariutslaga khend nogdokh ni nökhtsöl baidlaas shaltgaalna."
+  },
+  {
+   "mn": "Хуурамч бичлэгээс үүдэлтэй хохирлыг хэн барагдуулах вэ?",
+   "en": "Who will compensate for the damage caused by deepfakes?",
+   "alt_mn": [],
+   "alt_en": [
+    "Who will pay for the damage caused by deepfakes?"
+   ],
+   "mn_latin": "Khuuramch bichlegees üüdeltei khokhirlyg khen baragduulakh ve?"
+  },
+  {
+   "mn": "Ил тод байдал дутагдсанаас үүдэн хүмүүс системд итгэхээ больсон.",
+   "en": "Because of a lack of transparency, people stopped trusting the system.",
+   "alt_mn": [],
+   "alt_en": [
+    "A lack of transparency made people stop trusting the system.",
+    "People stopped trusting the system due to a lack of transparency."
+   ],
+   "mn_latin": "Il tod baidal dutagdsanaas üüden khümüüs sistyemd itgekhee bolison."
+  },
+  {
+   "mn": "Хэрэв алгоритм бүх эмэгтэй горилогчоос татгалзах юм бол хэн хариуцлага хүлээх вэ?",
+   "en": "If the algorithm were to reject all female applicants, who would be held responsible?",
+   "alt_mn": [
+    "Хэрэв алгоритм бүх эмэгтэй горилогчоос татгалзвал хэн хариуцлага хүлээх вэ?"
+   ],
+   "alt_en": [
+    "Were the algorithm to reject all female applicants, who would be held responsible?",
+    "If the algorithm were to reject all female applicants, who would be responsible?"
+   ],
+   "mn_latin": "Kherev algoritm bükh emegtei gorilogchoos tatgalzakh yum bol khen khariutslaga khüleekh ve?"
+  },
+  {
+   "mn": "Хэрэв таны хувийн мэдээлэл алдагдвал та юу хийх вэ?",
+   "en": "If your personal data were to leak, what would you do?",
+   "alt_mn": [
+    "Хэрэв таны хувийн мэдээлэл алдагдах юм бол та юу хийх вэ?"
+   ],
+   "alt_en": [
+    "Were your personal data to leak, what would you do?",
+    "If your personal data leaked, what would you do?"
+   ],
+   "mn_latin": "Kherev tany khuviin medeelel aldagdval ta yuu khiikh ve?"
+  },
+  {
+   "mn": "Хэрэв захирлын хуурамч бичлэг цахим ертөнцөд тарвал компани яах вэ?",
+   "en": "If a deepfake of the director were to spread online, what would the company do?",
+   "alt_mn": [
+    "Хэрэв захирлын хуурамч бичлэг интернэтэд тарах юм бол компани яах вэ?"
+   ],
+   "alt_en": [
+    "Were a deepfake of the director to spread online, what would the company do?"
+   ],
+   "mn_latin": "Kherev zakhirlyn khuuramch bichleg tsakhim yertöntsöd tarval kompani yaakh ve?"
+  },
+  {
+   "mn": "Ажилд авах шийдвэрийг бүхэлд нь машинд даатгах нь ёс зүйн хувьд эргэлзээтэй.",
+   "en": "Leaving hiring decisions entirely to machines is ethically questionable.",
+   "alt_mn": [],
+   "alt_en": [
+    "Handing hiring decisions entirely over to machines is ethically questionable."
+   ],
+   "mn_latin": "Ajild avakh shiidveriig bükheld ni mashind daatgakh ni yos züin khuvid ergelzeetei."
+  },
+  {
+   "mn": "Олон асуудал алгоритмаас биш, хүмүүсийн хэвшмэл хандлагаас үүдэлтэй.",
+   "en": "Many problems stem not from algorithms but from people's biases.",
+   "alt_mn": [],
+   "alt_en": [
+    "Many problems come not from algorithms but from people's biases."
+   ],
+   "mn_latin": "Olon asuudal algoritmaas bish, khümüüsiin khevshmel khandlagaas üüdeltei."
+  },
+  {
+   "mn": "Улс орноос шалтгаалан хувийн мэдээллийн хууль өөр өөр байдаг.",
+   "en": "Personal data laws differ depending on the country.",
+   "alt_mn": [
+    "Улс орноос шалтгаалж хувийн мэдээллийн хууль өөр өөр байдаг."
+   ],
+   "alt_en": [
+    "Personal data laws vary from country to country."
+   ],
+   "mn_latin": "Uls ornoos shaltgaalan khuviin medeelliin khuuli öör öör baidag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Talking about causes: -аас үүдэн, -аас шалтгаалан, -аас үүдэлтэй",
+  "title_mn": "Магадлал багатай ирээдүй: was to / were to",
+  "explain_en": "All three attach to a noun in the ablative case (-аас/-ээс/-оос/-өөс, following vowel harmony) and point to a cause, but each one fits a different place in the sentence. 1) -аас үүдэн (from үүдэх, 'to originate') is an adverbial: 'stemming from X, something happened.' It stresses the root or origin of a problem: Хэвшмэл хандлагаас үүдэн ялгаварлал гарсан. 2) -аас шалтгаалан is also adverbial, but it sounds more official. It names an outside reason, as in announcements ('due to the weather'), and it can also mean 'depending on': Улс орноос шалтгаалан... In speech, шалтгаалж is common too. 3) -аас үүдэлтэй is adjective-like. It goes at the end of a sentence as the predicate ('X is caused by Y') or directly before a noun ('damage caused by deepfakes'). A quick test: if the next word is a noun, or the sentence ends there, use үүдэлтэй. If a new clause follows, use үүдэн or шалтгаалан.",
+  "explain_mn": "Англи хэлэнд бодитоор болох магадлал багатай, таамаглалын ирээдүйн үйл явдлыг 'If + subject + were to + verb' загвараар илэрхийлдэг: If the algorithm were to reject everyone, ... (Хэрэв алгоритм бүх хүнээс татгалзах юм бол...). Энэ хэлбэр 'if it rejected' гэхээс илүү 'энэ бараг болохгүй ч гэсэн' гэсэн өнгө аястай. Ганц тооны I/he/she/it-тэй ярианы хэлэнд 'was to' ч хэрэглэдэг, харин албан ёсны хэлэнд 'were to' зөв. Илүү албан, бичгийн хэлэнд if-ийг хасаад урвуу дараалал үүсгэдэг: Were a deepfake to go viral, ... Энэ үед 'Were'-ийг заавал хэрэглэнэ, 'Was' биш. Үндсэн өгүүлбэрт ихэвчлэн would/could ордог. 'to'-г бүү мартаарай: were to reject, were reject биш.",
+  "examples": [
+   {
+    "mn": "Өгөгдлийн алдаанаас үүдэн систем буруу шийдвэр гаргасан.",
+    "en": "Because of errors in the data, the system made the wrong decision.",
+    "mn_latin": "Ögögdliin aldaanaas üüden sistyem buruu shiidver gargasan."
+   },
+   {
+    "mn": "Цаг агаараас шалтгаалан хурал онлайнаар болно.",
+    "en": "Due to the weather, the meeting will be held online.",
+    "mn_latin": "Tsag agaaraas shaltgaalan khural onlainaar bolno."
+   },
+   {
+    "mn": "Энэ шударга бус байдал хүмүүсийн хэвшмэл хандлагаас үүдэлтэй.",
+    "en": "This unfairness is caused by people's biases.",
+    "mn_latin": "Ene shudarga bus baidal khümüüsiin khevshmel khandlagaas üüdeltei."
+   },
+   {
+    "mn": "Хэрэв хуурамч бичлэг олон нийтэд тарах юм бол хохирол асар их байх болно.",
+    "en": "Were a deepfake to go viral, the damage would be enormous.",
+    "mn_latin": "Kherev khuuramch bichleg olon niited tarakh yum bol khokhirol asar ikh baikh bolno."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ шударга бус шийдвэр алдаатай өгөгдлөөс ___.",
+   "answer": "үүдэлтэй",
+   "options": [
+    "үүдэлтэй",
+    "үүдэн",
+    "шалтгаалан",
+    "үүдсэнээр"
+   ],
+   "translation": "This unfair decision stems from flawed data.",
+   "explain_en": "The blank is at the end of the sentence, in predicate position, so you need the adjective-like form үүдэлтэй ('is caused by'). Үүдэн and шалтгаалан are adverbial and must be followed by another clause.",
+   "explain_mn": "Өгүүлбэрийн төгсгөлд, өгүүлэхүүний байранд тэмдэг нэр шиг хэлбэр үүдэлтэй орно. Үүдэн, шалтгаалан хоёрын араас өөр өгүүлбэр гишүүн заавал орох ёстой."
+  },
+  {
+   "lang": "mn",
+   "text": "Цаг агаараас ___ хурал онлайнаар болно.",
+   "answer": "шалтгаалан",
+   "options": [
+    "шалтгаалан",
+    "үүдэлтэй",
+    "шалтгаантай",
+    "үүдсэн"
+   ],
+   "translation": "Due to the weather, the meeting will be held online.",
+   "explain_en": "This is an official-sounding announcement about an outside reason, followed by a main clause, so шалтгаалан ('due to') fits. Үүдэлтэй can't be followed by a verb clause like this.",
+   "explain_mn": "Гадны шалтгааныг албан ёсоор мэдэгдэж байгаа бөгөөд араас нь үндсэн өгүүлбэр орж байгаа тул шалтгаалан тохирно. Англиар 'Due to the weather' гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хэвшмэл хандлага___ үүдэн ялгаварлал гардаг.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "ыг",
+    "д",
+    "тай"
+   ],
+   "translation": "Discrimination arises from bias.",
+   "explain_en": "Үүдэн always takes the ablative case ('from'). Хандлага has back vowels, so vowel harmony gives -аас: хандлагаас.",
+   "explain_mn": "Үүдэн гэдэг үгийн өмнөх нэр гарах тийн ялгалаар (-аас) хувирна. Англиар 'from' гэдэг үгээр илэрхийлэгдэнэ: arises from bias."
+  },
+  {
+   "lang": "en",
+   "text": "If the company ___ to use this algorithm, many applicants would suffer.",
+   "answer": "were",
+   "options": [
+    "were",
+    "will",
+    "is",
+    "would"
+   ],
+   "translation": "Хэрэв компани энэ алгоритмыг ашиглах юм бол олон горилогч хохирох байсан.",
+   "explain_en": "For an unlikely hypothetical future event, use 'if + were to + verb', with 'would' in the main clause.",
+   "explain_mn": "Магадлал багатай таамаглалыг 'if + were to + үйл үг' загвараар илэрхийлнэ. Үндсэн өгүүлбэрт would орж байгаа нь үүнийг баталж байна. will, is нь бодит нөхцөлд хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ a deepfake of the president to go viral, the damage could be enormous.",
+   "answer": "Were",
+   "options": [
+    "Were",
+    "Did",
+    "Would",
+    "Had"
+   ],
+   "translation": "Хэрэв ерөнхийлөгчийн хуурамч бичлэг олон нийтэд тарах юм бол хохирол асар их байж болзошгүй.",
+   "explain_en": "In formal English, 'if' can be dropped and 'were' moves to the front: 'Were + subject + to + verb.' Only 'were' works with 'to go' here.",
+   "explain_mn": "Албан ёсны хэлэнд if-ийг хасаад were-г өгүүлбэрийн эхэнд гаргадаг: Were + эзэн + to + үйл үг. Араас нь 'to go' байгаа тул зөвхөн Were тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "If the algorithm were ___ reject everyone, we would notice immediately.",
+   "answer": "to",
+   "options": [
+    "to",
+    "going",
+    "will",
+    "be"
+   ],
+   "translation": "Хэрэв алгоритм бүх хүнээс татгалзах юм бол бид шууд анзаарах байсан.",
+   "explain_en": "The pattern is always 'were to + base verb'. Without 'to', the sentence is ungrammatical.",
+   "explain_mn": "Загвар нь үргэлж 'were to + үйл үгийн үндсэн хэлбэр' байна. 'to'-г орхивол өгүүлбэр буруу болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Oyunchimeg",
+   "mn": "Өнөөдөр бид ажилд авах алгоритм дахь ялгаварлалын талаар ярилцъя. Энэ асуудал юунаас үүдэлтэй вэ?",
+   "en": "Today let's discuss discrimination in hiring algorithms. What does this problem stem from?",
+   "mn_latin": "Önöödör bid ajild avakh algoritm dakhi yalgavarlalyn talaar yariltsya. Ene asuudal yuunaas üüdeltei ve?"
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Миний бодлоор ихэнх тохиолдолд хуучин өгөгдөл дэх хэвшмэл хандлагаас үүдэлтэй.",
+   "en": "In my opinion, in most cases it stems from bias in old data.",
+   "mn_latin": "Minii bodloor ikhenkh tokhioldold khuuchin ögögdöl dekh khevshmel khandlagaas üüdeltei."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Би санал нийлж байна. Гэхдээ хэрэв компани алгоритм нь хэрхэн ажилладгийг нуух юм бол хэн ч шалгаж чадахгүй.",
+   "en": "I agree. But if a company were to hide how its algorithm works, nobody could check it.",
+   "mn_latin": "Bi sanal niilj baina. Gekhdee kherev kompani algoritm ni kherkhen ajilladgiig nuukh yum bol khen ch shalgaj chadakhgüi."
+  },
+  {
+   "speaker": "Oyunchimeg",
+   "mn": "Тийм учраас ил тод байдал маш чухал. Хариуцлагыг хэн хүлээх нь бас нөхцөл байдлаас шалтгаална.",
+   "en": "That's why transparency is so important. Who takes responsibility also depends on the circumstances.",
+   "mn_latin": "Tiim uchraas il tod baidal mash chukhal. Khariutslagyg khen khüleekh ni bas nökhtsöl baidlaas shaltgaalna."
+  },
+  {
+   "speaker": "Bilguun",
+   "mn": "Хуурамч бичлэг ч мөн адил. Өнгөрсөн жил нэг улс төрчийн хуурамч бичлэгээс үүдэн том маргаан гарсан.",
+   "en": "The same goes for deepfakes. Last year a deepfake of a politician sparked a huge controversy.",
+   "mn_latin": "Khuuramch bichleg ch mön adil. Öngörsön jil neg uls törchiin khuuramch bichlegees üüden tom margaan garsan."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Багш аа, хэрэв хэн нэгэн таны хуурамч бичлэг хийх юм бол та мэдэх болов уу?",
+   "en": "Professor, were someone to make a deepfake of you, would you even find out?",
+   "mn_latin": "Bagsh aa, kherev khen negen tany khuuramch bichleg khiikh yum bol ta medekh bolov uu?"
+  },
+  {
+   "speaker": "Oyunchimeg",
+   "mn": "Сайн асуулт. Магадгүй мэдэхгүй байх. Тиймээс хувийн мэдээллээ хамгаалах нь хүн бүрийн хариуцлага юм.",
+   "en": "Good question. Probably not. That's why protecting your personal data is everyone's responsibility.",
+   "mn_latin": "Sain asuult. Magadgüi medekhgüi baikh. Tiimees khuviin medeellee khamgaalakh ni khün büriin khariutslaga yum."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Гэхдээ бүх хариуцлагыг зөвхөн хэрэглэгчдэд үүрүүлэх нь шударга бус шүү дээ.",
+   "en": "But putting all the responsibility on users alone is unfair, you know.",
+   "mn_latin": "Gekhdee bükh khariutslagyg zövkhön khereglegchded üürüülekh ni shudarga bus shüü dee."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia adopted its Law on the Protection of Personal Information in late 2021, and it took effect in May 2022. Because of this law, questions about consent and data use now come up more often in Mongolian workplaces and universities. In seminars, Mongolian students usually address their professor as \"багш аа\" (\"teacher\") rather than by name, even in heated debates.",
+  "mn": "Монгол Улс 2021 оны сүүлээр Хүний хувийн мэдээлэл хамгаалах тухай хуулийг баталж, 2022 оны тавдугаар сараас хэрэгжүүлж эхэлсэн. Энэ хуулиас үүдэн зөвшөөрөл болон мэдээлэл ашиглалтын асуудлыг ажлын байр, их сургуулиудад илүү ихээр хөндөх болсон. Семинарын үеэр, тэр ч байтугай халуун мэтгэлцээний үед ч, оюутнууд багшийгаа нэрээр нь биш \"багш аа\" гэж дууддаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 6,
+  "notes": "A solid, natural lesson. Fixes cover the case government of татгалзах, one garbled explanation and the official name of the law."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The en and mn intro and grammar sections cover different topics on purpose: Mongolian causal forms for English speakers and English were to for Mongolian speakers. Both are accurate and were kept; only small fixes were needed.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "Standard dative after бүр is бүрт, as in хүн бүрт."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Adds 'more often' to match the mn version's 'илүү ихээр'."
+   }
+  ]
+ }
+}

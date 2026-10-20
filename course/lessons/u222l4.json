@@ -1,0 +1,418 @@
+{
+ "intro_en": "In this lesson, you will learn how athletes defend themselves at a doping hearing: how to deny accusations, give explanations, and appeal a decision. You will practice the Mongolian structures -ыг далимдуулан and -сан гэж мэдэгдэх, plus the defense terms used at a hearing.",
+ "intro_mn": "Энэ хичээлээр тамирчид допингийн сонсгол дээр өөрийгөө хэрхэн хамгаалдаг, буруутгалыг хэрхэн үгүйсгэж, тайлбар өгч, шийдвэрийг давж заалддагийг сурна. Англи хэлний deny + -ing, claim to have + V3 бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence",
+   "pos": "noun",
+   "example_mn": "Өмгөөлөгч шинэ нотлох баримт гаргаж өгсөн.",
+   "example_en": "The lawyer submitted new evidence.",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "санамсаргүй",
+   "en": "accidental; accidentally",
+   "pos": "adverb/adjective",
+   "example_mn": "Тэр уг бодисыг санамсаргүй хэрэглэсэн байж магадгүй.",
+   "example_en": "He may have taken the substance accidentally.",
+   "mn_latin": "sanamsargüi"
+  },
+  {
+   "mn": "давж заалдах",
+   "en": "to appeal",
+   "pos": "verb",
+   "example_mn": "Тамирчин шийдвэрийг давж заалдахаар шийдсэн.",
+   "example_en": "The athlete decided to appeal the decision.",
+   "mn_latin": "davj zaaldakh"
+  },
+  {
+   "mn": "гэм буруугүй",
+   "en": "innocent, not guilty",
+   "pos": "adjective",
+   "example_mn": "Хороо түүнийг гэм буруугүй гэж үзсэн.",
+   "example_en": "The committee found him not guilty.",
+   "mn_latin": "gem buruugüi"
+  },
+  {
+   "mn": "бохирдох",
+   "en": "to be contaminated",
+   "pos": "verb",
+   "example_mn": "Махны бүтээгдэхүүн бохирдсон байсан.",
+   "example_en": "The meat product was contaminated.",
+   "mn_latin": "bokhirdokh"
+  },
+  {
+   "mn": "цоорхой",
+   "en": "loophole",
+   "pos": "noun",
+   "example_mn": "Энэ дүрэмд том цоорхой байна.",
+   "example_en": "There is a big loophole in this rule.",
+   "mn_latin": "tsoorkhoi"
+  },
+  {
+   "mn": "үгүйсгэх",
+   "en": "to deny",
+   "pos": "verb",
+   "example_mn": "Тэр бүх буруутгалыг үгүйсгэв.",
+   "example_en": "She denied all the accusations.",
+   "mn_latin": "ügüisgekh"
+  },
+  {
+   "mn": "мэдэгдэх",
+   "en": "to state, to announce",
+   "pos": "verb",
+   "example_mn": "Холбоо шийдвэрээ маргааш мэдэгдэнэ.",
+   "example_en": "The federation will announce its decision tomorrow.",
+   "mn_latin": "medegdekh"
+  },
+  {
+   "mn": "сонсгол",
+   "en": "hearing",
+   "pos": "noun",
+   "example_mn": "Сонсгол гурван цаг үргэлжилсэн.",
+   "example_en": "The hearing lasted three hours.",
+   "mn_latin": "sonsgol"
+  },
+  {
+   "mn": "шалтаг",
+   "en": "excuse",
+   "pos": "noun",
+   "example_mn": "Энэ бол зүгээр л шалтаг.",
+   "example_en": "That's just an excuse.",
+   "mn_latin": "shaltag"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тамирчин хориотой бодис хэрэглэснээ үгүйсгэв.",
+   "en": "The athlete denied using a banned substance.",
+   "alt_mn": [
+    "Тамирчин хориотой бодис хэрэглэсэн гэдгээ үгүйсгэв."
+   ],
+   "alt_en": [
+    "The athlete denied having used a banned substance.",
+    "The athlete denied taking a banned substance."
+   ],
+   "mn_latin": "Tamirchin khoriotoi bodis khereglesnee ügüisgev."
+  },
+  {
+   "mn": "Тэр бохирдсон мах идсэн гэж мэдэгдсэн.",
+   "en": "He claimed to have eaten contaminated meat.",
+   "alt_mn": [
+    "Тэр бохирдсон мах идсэн гэж мэдэгдэв."
+   ],
+   "alt_en": [
+    "He claimed that he had eaten contaminated meat.",
+    "He stated that he had eaten contaminated meat."
+   ],
+   "mn_latin": "Ter bokhirdson makh idsen gej medegdsen."
+  },
+  {
+   "mn": "Багийг дүрмийн цоорхойг далимдуулан эмчилгээний зөвшөөрөл авсан гэж буруутгаж байна.",
+   "en": "The team is accused of exploiting a loophole in the rules to get a medical exemption.",
+   "alt_mn": [
+    "Баг дүрмийн цоорхойг далимдуулан эмчилгээний зөвшөөрөл авсан гэж буруутгагдаж байна."
+   ],
+   "alt_en": [
+    "The team is accused of using a loophole in the rules to obtain a medical exemption."
+   ],
+   "mn_latin": "Bagiig dürmiin tsoorkhoig dalimduulan emchilgeenii zövshööröl avsan gej buruutgaj baina."
+  },
+  {
+   "mn": "Өмгөөлөгч ямар ч нотлох баримт байхгүй гэж мэдэгдэв.",
+   "en": "The lawyer stated that there was no evidence at all.",
+   "alt_mn": [
+    "Өмгөөлөгч ямар ч нотлох баримт байхгүй гэж мэдэгдсэн."
+   ],
+   "alt_en": [
+    "The lawyer said there was no evidence at all."
+   ],
+   "mn_latin": "Ömgöölögch yamar ch notlokh barimt baikhgüi gej medegdev."
+  },
+  {
+   "mn": "Надад гэм буруугүй гэдгээ батлах нотлох баримт бий.",
+   "en": "I have evidence that proves I am innocent.",
+   "alt_mn": [
+    "Надад гэм буруугүйг минь батлах нотлох баримт байгаа."
+   ],
+   "alt_en": [
+    "I have evidence to prove that I'm innocent."
+   ],
+   "mn_latin": "Nadad gem buruugüi gedgee batlakh notlokh barimt bii."
+  },
+  {
+   "mn": "Бид энэ шийдвэрийг Спортын арбитрын шүүхэд давж заалдана.",
+   "en": "We will appeal this decision to the Court of Arbitration for Sport.",
+   "alt_mn": [],
+   "alt_en": [
+    "We're going to appeal this decision to the Court of Arbitration for Sport."
+   ],
+   "mn_latin": "Bid ene shiidveriig Sportyn arbitryn shüükhed davj zaaldana."
+  },
+  {
+   "mn": "Тэр тэмцээний өмнө эм уусан гэдгээ үгүйсгээгүй.",
+   "en": "She didn't deny taking medicine before the competition.",
+   "alt_mn": [
+    "Тэр тэмцээний өмнө эм ууснаа үгүйсгээгүй."
+   ],
+   "alt_en": [
+    "She did not deny having taken medicine before the competition."
+   ],
+   "mn_latin": "Ter temtseenii ömnö em uusan gedgee ügüisgeegüi."
+  },
+  {
+   "mn": "Тамирчин нэмэлт тэжээл бохирдсон байсан гэж мэдэгдсэн.",
+   "en": "The athlete stated that the supplement had been contaminated.",
+   "alt_mn": [],
+   "alt_en": [
+    "The athlete claimed that the supplement had been contaminated."
+   ],
+   "mn_latin": "Tamirchin nemelt tejeel bokhirdson baisan gej medegdsen."
+  },
+  {
+   "mn": "Сонсголын үеэр тэр шалтгаа хоёр удаа өөрчилсөн.",
+   "en": "During the hearing, she changed her excuse twice.",
+   "alt_mn": [
+    "Сонсгол дээр тэр шалтгаа хоёр удаа өөрчилсөн."
+   ],
+   "alt_en": [
+    "She changed her excuse twice during the hearing."
+   ],
+   "mn_latin": "Sonsgolyn üyeer ter shaltgaa khoyor udaa öörchilsön."
+  },
+  {
+   "mn": "Хорооны гишүүд түүний тайлбарыг үнэмшилгүй гэж үзсэн.",
+   "en": "The committee members found his explanation unconvincing.",
+   "alt_mn": [],
+   "alt_en": [
+    "The committee members considered his explanation unconvincing."
+   ],
+   "mn_latin": "Khoroony gishüüd tüünii tailbaryg ünemshilgüi gej üzsen."
+  },
+  {
+   "mn": "Зарим дасгалжуулагч шинжилгээний сул талыг далимдуулан тамирчдаа бодис хэрэглүүлдэг.",
+   "en": "Some coaches take advantage of weaknesses in testing to make their athletes use substances.",
+   "alt_mn": [],
+   "alt_en": [
+    "Some coaches exploit weaknesses in testing to get their athletes to use substances."
+   ],
+   "mn_latin": "Zarim dasgaljuulagch shinjilgeenii sul talyg dalimduulan tamirchdaa bodis khereglüüldeg."
+  },
+  {
+   "mn": "Тэр шинжилгээ өгөхөөс зайлсхийснээ үгүйсгэж, утасныхаа дуугарахыг сонсоогүй гэж мэдэгдэв.",
+   "en": "He denied avoiding the test and claimed not to have heard his phone.",
+   "alt_mn": [
+    "Тэр шинжилгээнээс зайлсхийсэн гэдгээ үгүйсгэж, утасныхаа дуугарахыг сонсоогүй гэж мэдэгдсэн."
+   ],
+   "alt_en": [
+    "He denied having avoided the test and claimed that he hadn't heard his phone."
+   ],
+   "mn_latin": "Ter shinjilgee ögökhöös zailskhiisnee ügüisgej, utasnykhaa duugarakhyg sonsoogüi gej medegdev."
+  }
+ ],
+ "grammar": {
+  "title_en": "Accusing and defending: -ыг далимдуулан, -сан гэж мэдэгдэх / deny + -ing, claim to have + V3",
+  "title_mn": "Буруутгах ба өөрийгөө хамгаалах: deny + -ing, claim to have + V3",
+  "explain_en": "To accuse someone of exploiting something, Mongolian uses the verb далимдуулах ('to take advantage of', usually negative). The thing being exploited takes the accusative ending -ыг/-ийг/-г (цоорхойг, дүрмийг), and the verb becomes the converb далимдуулан, followed by the action: дүрмийн цоорхойг далимдуулан эм хэрэглэсэн ('used medication by exploiting a loophole'). To report what someone officially stated, put the past participle -сан/-сэн/-сон/-сөн before гэж мэдэгдэх: Тэр санамсаргүй хэрэглэсэн гэж мэдэгдэв ('He stated that he had used it accidentally'). To deny your own action, add the reflexive accusative: хэрэглэснээ үгүйсгэх or хэрэглэсэн гэдгээ үгүйсгэх ('to deny using').",
+  "explain_mn": "Англи хэлэнд \"deny\" үйл үгийн дараа үргэлж -ing хэлбэр орно: He denied taking the drug (Тэр эм хэрэглэснээ үгүйсгэв). \"deny to take\" гэж хэлэхгүй! Өнгөрсөн үйлдлийг онцлохдоо \"deny having + V3\" гэж хэлж болно: She denied having cheated. Харин \"claim\" үйл үгийн дараа to орно. Өөрийнхөө өнгөрсөн үйлдлийн тухай мэдэгдэхдээ \"claim to have + V3\" хэрэглэнэ: He claimed to have eaten contaminated meat (Тэр бохирдсон мах идсэн гэж мэдэгдсэн). Үгүйсгэхдээ not-г to-гийн өмнө тавина: claimed not to have known.",
+  "examples": [
+   {
+    "mn": "Тэд хуулийн цоорхойг далимдуулан шийтгэлээс зугтсан.",
+    "en": "They escaped punishment by exploiting a legal loophole.",
+    "mn_latin": "Ted khuuliin tsoorkhoig dalimduulan shiitgelees zugtsan."
+   },
+   {
+    "mn": "Тамирчин бодисыг санамсаргүй хэрэглэсэн гэж мэдэгдэв.",
+    "en": "The athlete claimed to have taken the substance accidentally.",
+    "mn_latin": "Tamirchin bodisyg sanamsargüi khereglesen gej medegdev."
+   },
+   {
+    "mn": "Тэр дүрэм зөрчснөө үгүйсгэв.",
+    "en": "She denied breaking the rules.",
+    "mn_latin": "Ter dürem zörchsnöö ügüisgev."
+   },
+   {
+    "mn": "Тэр шинжилгээний тухай мэдээгүй гэж мэдэгдсэн.",
+    "en": "He claimed not to have known about the test.",
+    "mn_latin": "Ter shinjilgeenii tukhai medeegüi gej medegdsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэд хуулийн цоорхой___ далимдуулан шийтгэлээс зугтсан.",
+   "answer": "г",
+   "options": [
+    "г",
+    "д",
+    "оос",
+    "той"
+   ],
+   "translation": "They escaped punishment by exploiting a legal loophole.",
+   "explain_en": "Далимдуулах needs a direct object in the accusative case. Цоорхой ends in -й, so it takes the short accusative -г: цоорхойг.",
+   "explain_mn": "\"Далимдуулах\" үйл үг заахын тийн ялгал шаарддаг. \"Цоорхой\" -й үсгээр төгсдөг тул -г залгавар авна: цоорхойг."
+  },
+  {
+   "lang": "mn",
+   "text": "Тамирчин бодисыг санамсаргүй хэрэглэ___ гэж мэдэгдэв.",
+   "answer": "сэн",
+   "options": [
+    "сэн",
+    "х",
+    "ж",
+    "вэл"
+   ],
+   "translation": "The athlete claimed to have taken the substance accidentally.",
+   "explain_en": "To report a past action someone stated, use the past participle -сан/-сэн before гэж мэдэгдэх. Хэрэглэх has front vowels, so it takes -сэн.",
+   "explain_mn": "Өнгөрсөн үйлдлийн тухай мэдэгдлийг \"-сан/-сэн гэж мэдэгдэх\" бүтцээр илэрхийлнэ. \"Хэрэглэх\" эм үгийн эгшигтэй тул -сэн залгавар авна. Англиар claim to have + V3 гэж орчуулна."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид энэ шийдвэрийг давж ___ эрхтэй.",
+   "answer": "заалдах",
+   "options": [
+    "заалдах",
+    "гарах",
+    "үгүйсгэх",
+    "мэдэгдэх"
+   ],
+   "translation": "We have the right to appeal this decision.",
+   "explain_en": "Давж заалдах is a fixed legal expression meaning 'to appeal'. Давж гарах means 'to overcome', which doesn't fit here.",
+   "explain_mn": "\"Давж заалдах\" бол \"appeal\" гэсэн утгатай тогтвортой хуулийн нэр томьёо. \"Давж гарах\" нь \"даван туулах\" гэсэн утгатай тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The cyclist denied ___ a banned substance.",
+   "answer": "taking",
+   "options": [
+    "taking",
+    "to take",
+    "take",
+    "taken"
+   ],
+   "translation": "Дугуйчин хориотой бодис хэрэглэснээ үгүйсгэв.",
+   "explain_en": "Deny is always followed by a gerund (-ing form), never by 'to' + verb.",
+   "explain_mn": "\"Deny\" үйл үгийн дараа үргэлж -ing хэлбэр орно. \"Deny to take\" гэж хэлэх нь буруу."
+  },
+  {
+   "lang": "en",
+   "text": "She claimed to have ___ the supplement from a trusted pharmacy.",
+   "answer": "bought",
+   "options": [
+    "bought",
+    "buy",
+    "buying",
+    "buys"
+   ],
+   "translation": "Тэр нэмэлт тэжээлийг найдвартай эмийн сангаас худалдаж авсан гэж мэдэгдсэн.",
+   "explain_en": "'Claim to have' is followed by the past participle (V3) to talk about a past action: claim to have bought.",
+   "explain_mn": "Өнгөрсөн үйлдлийн тухай мэдэгдэхэд \"claim to have\"-ийн дараа үйл үгийн гуравдугаар хэлбэр (V3) орно: bought."
+  },
+  {
+   "lang": "en",
+   "text": "After the appeal, the panel found her not ___.",
+   "answer": "guilty",
+   "options": [
+    "guilty",
+    "guilt",
+    "innocent",
+    "blame"
+   ],
+   "translation": "Давж заалдсаны дараа хороо түүнийг гэм буруугүй гэж үзсэн.",
+   "explain_en": "The fixed legal phrase is 'find someone not guilty'. 'Guilt' is a noun, and 'not innocent' is not the standard expression.",
+   "explain_mn": "\"Find someone not guilty\" бол \"гэм буруугүй гэж үзэх\" гэсэн тогтвортой хэллэг. \"Guilt\" нь нэр үг тул энд тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Таны шинжилгээнд кленбутерол илэрсэн. Та үүнийг хэрхэн тайлбарлах вэ?",
+   "en": "Clenbuterol was found in your test. How do you explain this?",
+   "mn_latin": "Tany shinjilgeend klyenbutyerol ilersen. Ta üüniig kherkhen tailbarlakh ve?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Би хориотой бодис хэрэглэснээ эрс үгүйсгэж байна. Хоол бохирдсон байсан юм!",
+   "en": "I strongly deny using a banned substance. The food was contaminated!",
+   "mn_latin": "Bi khoriotoi bodis khereglesnee ers ügüisgej baina. Khool bokhirdson baisan yum!"
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Та тэмцээний өмнө гадаадад мах идсэн гэж мэдэгдсэн. Үүнийг нотлох баримт байна уу?",
+   "en": "You claimed to have eaten meat abroad before the competition. Is there any evidence of this?",
+   "mn_latin": "Ta temtseenii ömnö gadaadad makh idsen gej medegdsen. Üüniig notlokh barimt baina uu?"
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Тийм. Тэр рестораны баримт болон тухайн бүс нутагт махны бохирдол бүртгэгдсэн тайлан бидэнд бий.",
+   "en": "Yes. We have the receipt from the restaurant and a report showing that meat contamination was recorded in that region.",
+   "mn_latin": "Tiim. Ter ryestorany barimt bolon tukhain büs nutagt makhny bokhirdol bürtgegdsen tailan bidend bii."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Зарим хүн ийм тайлбарыг шалтаг болгон, дүрмийн цоорхойг далимдуулдаг шүү дээ.",
+   "en": "Some people use explanations like this as an excuse and take advantage of loopholes in the rules, you know.",
+   "mn_latin": "Zarim khün iim tailbaryg shaltag bolgon, dürmiin tsoorkhoig dalimduuldag shüü dee."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Миний үйлчлүүлэгч бодисыг санамсаргүй хэрэглэсэн. Тэр гэм буруугүй.",
+   "en": "My client took the substance unintentionally. He is not guilty.",
+   "mn_latin": "Minii üilchlüülegch bodisyg sanamsargüi khereglesen. Ter gem buruugüi."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Хэрэв шийдвэр надад таагүй гарвал би давж заалдана.",
+   "en": "If the decision goes against me, I will appeal.",
+   "mn_latin": "Kherev shiidver nadad taagüi garval bi davj zaaldana."
+  }
+ ],
+ "culture_note": {
+  "en": "\"Contaminated meat\" is one of the most famous defenses in doping cases. Clenbuterol, a substance sometimes given illegally to livestock, has shown up in athletes' tests after they ate meat abroad, and several have successfully appealed their cases. Athletes who disagree with a doping ruling can take their case to the Court of Arbitration for Sport (CAS) in Lausanne, Switzerland, which also handles appeals from Mongolian athletes.",
+  "mn": "\"Бохирдсон мах\" бол допингийн хэрэгт хамгийн алдартай хамгаалалтын тайлбаруудын нэг. Мал аж ахуйд заримдаа хууль бусаар хэрэглэдэг кленбутерол гэдэг бодис тамирчид гадаадад мах идсэний дараа тэдний шинжилгээнд илэрч байсан бөгөөд хэд хэдэн тамирчин давж заалдаад ялсан. Допингийн шийдвэрийг эс зөвшөөрсөн тамирчид Швейцарийн Лозанна хотод байрлах Спортын арбитрын шүүхэд (CAS) хандаж болох бөгөөд энэ шүүх Монголын тамирчдын давж заалдах хүсэлтийг ч мөн хянан шийдвэрлэдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, accurate lesson with correct grammar explanations. Only two unnatural Mongolian word choices and one inconsistent English gloss needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "Mostly solid; fixed one misspelled reflexive form, unnatural phone phrasing, and en/mn explanation mismatches.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "уусан + reflexive accusative is ууснаа, not уусанаа"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "утсаа сонсоогүй is unnatural for 'didn't hear the phone (ring)'"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "same wording fix"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "match en: add the vowel harmony explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "match en explanation"
+   }
+  ]
+ }
+}

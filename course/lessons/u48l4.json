@@ -1,0 +1,528 @@
+{
+ "intro_en": "You will learn how Mongolian students text and joke online, using informal words like мундаг and чадварлаг and emphatic particles like ёстой, л and шүү. You will also learn English intensifiers such as totally, super and kind of, and when to avoid them.",
+ "intro_mn": "Энэ хичээлээр оюутнуудын чат, сошиал дахь мундаг, чадварлаг зэрэг ярианы үг болон ёстой, л, шүү зэрэг өргөлтийн жижиг үгсийг сурна. Мөн totally, super, kind of зэрэг англи үгсийг хэзээ хэрэглэх, хэзээ хэрэглэхгүй байхыг мэдэж авна.",
+ "vocab": [
+  {
+   "mn": "мундаг",
+   "en": "awesome, amazing (informal)",
+   "pos": "adjective",
+   "example_mn": "Чиний шинэ клип үнэхээр мундаг байна!",
+   "example_en": "Your new video is really amazing!",
+   "mn_latin": "mundag"
+  },
+  {
+   "mn": "чадварлаг",
+   "en": "skilled, good at it",
+   "pos": "adjective",
+   "example_mn": "Тэр монтаж хийхдээ их чадварлаг.",
+   "example_en": "He is really skilled at editing.",
+   "mn_latin": "chadvarlag"
+  },
+  {
+   "mn": "гоё",
+   "en": "cool, nice",
+   "pos": "adjective",
+   "example_mn": "Гоё куртик байна, хаанаас авсан бэ?",
+   "example_en": "Cool jacket, where did you get it?",
+   "mn_latin": "goyo"
+  },
+  {
+   "mn": "галзуурах",
+   "en": "to be crazy about, to be obsessed with (informal)",
+   "pos": "verb",
+   "example_mn": "Манай найз тэр хамтлагт галзуурдаг.",
+   "example_en": "Our friend is totally obsessed with that band.",
+   "mn_latin": "galzuurakh"
+  },
+  {
+   "mn": "кино шиг",
+   "en": "like a movie, super cool",
+   "pos": "phrase",
+   "example_mn": "Өчигдрийн үдэшлэг кино шиг байсан!",
+   "example_en": "Last night's party was like something from a movie!",
+   "mn_latin": "kino shig"
+  },
+  {
+   "mn": "хоч",
+   "en": "nickname",
+   "pos": "noun",
+   "example_mn": "Бидний бүлгийн хоч «Бор шувууд».",
+   "example_en": "Our group's nickname is “the Sparrows.”",
+   "mn_latin": "khoch"
+  },
+  {
+   "mn": "товчлол",
+   "en": "abbreviation",
+   "pos": "noun",
+   "example_mn": "Чатад «баярлалаа»-г товчлолоор бичдэг.",
+   "example_en": "In chats people write “thank you” as an abbreviation.",
+   "mn_latin": "tovchlol"
+  },
+  {
+   "mn": "ёстой",
+   "en": "really, seriously (emphatic)",
+   "pos": "particle",
+   "example_mn": "Энэ ёстой гоё дуу байна!",
+   "example_en": "This is seriously a great song!",
+   "mn_latin": "yostoi"
+  },
+  {
+   "mn": "шүү",
+   "en": "you know, mind you (softening/emphatic)",
+   "pos": "particle",
+   "example_mn": "Маргааш шалгалттай шүү!",
+   "example_en": "We have an exam tomorrow, remember!",
+   "mn_latin": "shüü"
+  },
+  {
+   "mn": "дагагч",
+   "en": "follower",
+   "pos": "noun",
+   "example_mn": "Түүний дагагчид нэг сая давсан.",
+   "example_en": "She has over a million followers.",
+   "mn_latin": "dagagch"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ ёстой мундаг байна!",
+   "en": "This is seriously awesome!",
+   "alt_mn": [
+    "Энэ ёстой мундаг юм!"
+   ],
+   "alt_en": [
+    "This is really amazing!"
+   ],
+   "mn_latin": "Ene yostoi mundag baina!"
+  },
+  {
+   "mn": "Тэр зураг засахдаа их чадварлаг.",
+   "en": "She is really good at editing photos.",
+   "alt_mn": [],
+   "alt_en": [
+    "She is super skilled at photo editing."
+   ],
+   "mn_latin": "Ter zurag zasakhdaa ikh chadvarlag."
+  },
+  {
+   "mn": "Өчигдрийн концерт кино шиг байсан.",
+   "en": "Yesterday's concert was like a movie.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yesterday's concert was amazing."
+   ],
+   "mn_latin": "Öchigdriin kontsyert kino shig baisan."
+  },
+  {
+   "mn": "Миний дүү тэр дуучинд галзуурч байгаа.",
+   "en": "My younger sibling is totally obsessed with that singer.",
+   "alt_mn": [],
+   "alt_en": [
+    "My little brother is crazy about that singer."
+   ],
+   "mn_latin": "Minii düü ter duuchind galzuurch baigaa."
+  },
+  {
+   "mn": "Маргааш хоцрох хэрэггүй шүү!",
+   "en": "Don't be late tomorrow, okay?",
+   "alt_mn": [
+    "Маргааш хоцрохгүй байгаарай шүү!"
+   ],
+   "alt_en": [
+    "Make sure you're not late tomorrow!"
+   ],
+   "mn_latin": "Margaash khotsrokh khereggüi shüü!"
+  },
+  {
+   "mn": "Чи л надад туслах хүн шүү дээ.",
+   "en": "You are the one who can help me, after all.",
+   "alt_mn": [],
+   "alt_en": [
+    "You're the only one who can help me, you know."
+   ],
+   "mn_latin": "Chi l nadad tuslakh khün shüü dee."
+  },
+  {
+   "mn": "Гоё хоч байна, хэн өгсөн бэ?",
+   "en": "That's a cool nickname, who gave it to you?",
+   "alt_mn": [],
+   "alt_en": [
+    "Nice nickname, who came up with it?"
+   ],
+   "mn_latin": "Goyo khoch baina, khen ögsön be?"
+  },
+  {
+   "mn": "Би чатад ихэвчлэн товчлол ашигладаг.",
+   "en": "I usually use abbreviations in chats.",
+   "alt_mn": [],
+   "alt_en": [
+    "I mostly use abbreviations when texting."
+   ],
+   "mn_latin": "Bi chatad ikhevchlen tovchlol ashigladag."
+  },
+  {
+   "mn": "Энэ кафе жаахан үнэтэй ч гоё.",
+   "en": "This café is kind of expensive, but it's nice.",
+   "alt_mn": [
+    "Энэ кафе арай үнэтэй ч гоё."
+   ],
+   "alt_en": [
+    "This café is a bit pricey, but cool."
+   ],
+   "mn_latin": "Ene kafye jaakhan ünetei ch goyo."
+  },
+  {
+   "mn": "Би тэр кинонд ёстой дуртай.",
+   "en": "I totally love that movie.",
+   "alt_mn": [
+    "Би тэр кинонд үнэхээр дуртай."
+   ],
+   "alt_en": [
+    "I really love that movie."
+   ],
+   "mn_latin": "Bi ter kinond yostoi durtai."
+  },
+  {
+   "mn": "Багшид имэйл бичихдээ slang хэрэглэж болохгүй.",
+   "en": "You shouldn't use slang when emailing a teacher.",
+   "alt_mn": [],
+   "alt_en": [
+    "Don't use slang when you email a professor."
+   ],
+   "mn_latin": "Bagshid imeil bichikhdee slang khereglej bolokhgüi."
+  },
+  {
+   "mn": "Тэр маш олон дагагчтай, тиймээс алдартай.",
+   "en": "She has a lot of followers, so she's famous.",
+   "alt_mn": [],
+   "alt_en": [
+    "She's famous because she has a lot of followers."
+   ],
+   "mn_latin": "Ter mash olon dagagchtai, tiimees aldartai."
+  }
+ ],
+ "grammar": {
+  "title_en": "Emphatic particles: ёстой, л, шүү",
+  "title_mn": "Монгол хэлний өргөлтийн үгс: ёстой, л, шүү",
+  "explain_en": "Mongolian adds feeling with small particles. «Ёстой» goes before an adjective or verb and means 'really, seriously': ёстой гоё. «Л» follows the word it stresses: чи л мэднэ, 'only YOU would know'. «Шүү» comes at the end of a sentence to remind, warn or sound friendly: Ирээрэй шүү! These are casual, so skip them in formal emails and with elders you don't know well. English does something similar with intensifiers like totally, super and kind of, but we put them before adjectives, not at the end.",
+  "explain_mn": "Монгол хэлэнд мэдрэмж нэмдэг жижиг үгс бий. «Ёстой» нь тэмдэг нэр, үйл үгийн өмнө орж «үнэхээр» гэсэн утгатай: ёстой гоё. «Л» нь өргөлт өгч буй үгийнхээ ард орно: чи л мэднэ гэвэл «зөвхөн ЧИ л мэднэ» гэсэн санаа. «Шүү» нь өгүүлбэрийн төгсгөлд орж сануулах, анхааруулах, найрсаг өнгө өгөх үүрэгтэй: Ирээрэй шүү! Эдгээр нь ярианы хэллэг тул албан имэйлд болон сайн танихгүй ахмад хүнтэй ярихдаа хэрэглэхгүй байх нь зүйтэй. Англи хэлэнд totally, super, kind of зэрэг intensifier үгс төстэй үүрэг гүйцэтгэдэг боловч тэмдэг нэрийн өмнө орно, өгүүлбэрийн төгсгөлд орохгүй.",
+  "examples": [
+   {
+    "mn": "Энэ ёстой гоё байна!",
+    "en": "This is super cool!",
+    "mn_latin": "Ene yostoi goyo baina!"
+   },
+   {
+    "mn": "Чи л мэднэ дээ.",
+    "en": "Only you would know.",
+    "mn_latin": "Chi l medne dee."
+   },
+   {
+    "mn": "Зургаа явуулаарай шүү!",
+    "en": "Send the picture, okay!",
+    "mn_latin": "Zurgaa yavuulaarai shüü!"
+   },
+   {
+    "mn": "Би жаахан ядарсан байна.",
+    "en": "I'm kind of tired.",
+    "mn_latin": "Bi jaakhan yadarsan baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ дуу ___ гоё байна!",
+   "answer": "ёстой",
+   "options": [
+    "ёстой",
+    "шүү",
+    "бол",
+    "гэж"
+   ],
+   "translation": "This song is seriously great!",
+   "explain_en": "«Ёстой» comes before the adjective to mean 'really, seriously'.",
+   "explain_mn": "«Ёстой» нь тэмдэг нэрийн өмнө орж «үнэхээр» гэсэн өргөлт өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Маргааш цагтаа ирээрэй ___!",
+   "answer": "шүү",
+   "options": [
+    "шүү",
+    "ёстой",
+    "гэх",
+    "бүр"
+   ],
+   "translation": "Come on time tomorrow, okay!",
+   "explain_en": "«Шүү» at the end of a sentence adds a friendly reminder.",
+   "explain_mn": "Өгүүлбэрийн төгсгөлд «шүү» нь сануулга, найрсаг өнгө өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр видео засахдаа их ___.",
+   "answer": "чадварлаг",
+   "options": [
+    "чадварлаг",
+    "хоч",
+    "дагагч",
+    "галзуурах"
+   ],
+   "translation": "He is really good at editing videos.",
+   "explain_en": "«Чадварлаг» means skilled at something; the other options are nouns or a verb and do not fit here.",
+   "explain_mn": "«Чадварлаг» нь ямар нэг зүйлд сайн гэсэн утгатай, бусад нь тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "That concert was ___ amazing, I loved it!",
+   "answer": "totally",
+   "options": [
+    "totally",
+    "kind of",
+    "never",
+    "less"
+   ],
+   "translation": "Тэр концерт үнэхээр гайхалтай байсан, надад таалагдлаа!",
+   "explain_en": "Totally is a casual intensifier that strengthens 'amazing'.",
+   "explain_mn": "Totally нь «amazing»-ийг өргөнө, найзуудын ярианд тохиромжтой."
+  },
+  {
+   "lang": "en",
+   "text": "I'm ___ tired, so maybe I'll skip the party.",
+   "answer": "kind of",
+   "options": [
+    "kind of",
+    "a lot",
+    "very much",
+    "enough"
+   ],
+   "translation": "Би жаахан ядарсан тул үдэшлэгт очихгүй байж магадгүй.",
+   "explain_en": "Kind of softens the adjective and means 'a little'.",
+   "explain_mn": "Kind of нь утгыг сулруулж «жаахан» гэсэн санааг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "In a formal email to your professor, write 'I am ___ grateful', not 'super grateful'.",
+   "answer": "very",
+   "options": [
+    "very",
+    "totally",
+    "kind of",
+    "mega"
+   ],
+   "translation": "Багшдаа албан имэйл бичихдээ «super grateful» биш «very grateful» гэж бич.",
+   "explain_en": "Very is neutral and polite; super is too casual for formal writing.",
+   "explain_mn": "Very нь төвийг сахисан, эелдэг; super нь албан бичигт хэтэрхий чөлөөтэй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Өчигдрийн үдэшлэг ёстой кино шиг байсан шүү!",
+   "en": "Yesterday's party was seriously like a movie!",
+   "mn_latin": "Öchigdriin üdeshleg yostoi kino shig baisan shüü!"
+  },
+  {
+   "speaker": "Mike",
+   "mn": "Тийм ээ, DJ нь мундаг байсан. Би бүр дуунуудад нь галзуурч байна.",
+   "en": "Yeah, the DJ was awesome. I'm totally obsessed with his songs.",
+   "mn_latin": "Tiim ee, DJ ni mundag baisan. Bi bür duunuudad ni galzuurch baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэр хүү видео засахдаа их чадварлаг юм билээ.",
+   "en": "That guy turns out to be really good at editing videos.",
+   "mn_latin": "Ter khüü vidyeo zasakhdaa ikh chadvarlag yum bilee."
+  },
+  {
+   "speaker": "Mike",
+   "mn": "Хоч нь юу вэ? Би Инстаграмаар дагая.",
+   "en": "What's his nickname? I'll follow him on Instagram.",
+   "mn_latin": "Khoch ni yuu ve? Bi Instagramaar dagaya."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "«Цасан бар» гэдэг. Гоё хоч биз?",
+   "en": "It's “Snow Leopard.” Cool nickname, right?",
+   "mn_latin": "«Tsasan bar» gedeg. Goyo khoch biz?"
+  },
+  {
+   "speaker": "Mike",
+   "mn": "Super cool! Гэхдээ багшдаа ингэж бичихгүй шүү.",
+   "en": "Super cool! But I wouldn't write like this to a teacher.",
+   "mn_latin": "Super cool! Gekhdee bagshdaa ingej bichikhgüi shüü."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Мэдээж, тэнд албан хэл хэрэглэнэ.",
+   "en": "Of course, there you use formal language.",
+   "mn_latin": "Medeej, tend alban khel khereglene."
+  }
+ ],
+ "culture_note": {
+  "en": "Young people in Ulaanbaatar mix Mongolian, English and Korean loanwords in chats, and often write Mongolian in Latin letters or shorten words. Slang changes quickly, so what sounds cool one year may sound old the next. With elders, teachers or in work emails, use standard polite language instead.",
+  "mn": "Улаанбаатарын залуус чатад монгол, англи, солонгос гаралтай үгсийг хольж хэрэглэж, заримдаа монголоо латин үсгээр бичиж, үгээ товчилдог. Slang хурдан өөрчлөгддөг тул нэг жил гоё сонсогдсон үг дараа жил хоцрогдсон мэт болдог. Ахмадууд, багш нартай харилцахдаа болон ажлын имэйлд стандарт, эелдэг хэл хэрэглэх нь зүйтэй."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 15,
+  "notes": "Mostly good vocab and sentences, but grammar_mn was off-topic, one alt_mn reversed meaning (хоцроорой), and one fill-blank option set was flawed."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 25,
+  "notes": "Replaced the made-up words чаладаг and лоларх everywhere they appear, aligned the grammar example across en and mn, and made the fill-in-the-blank answers unique.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "чаладаг is not a real word; also intro_mn now says the same"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "replace made-up чаладаг"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "чаладаг is not a Mongolian word"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "replace made-up word"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "mn",
+    "why": "лоларх is made up; галзуурах is the real colloquial verb"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "en",
+    "why": "match real word"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "replace made-up verb; it takes the dative case"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "plural is more natural here"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "фото засах is unnatural; replace made-up чаладаг"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "the old alternative now duplicates the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "replace made-up verb"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "en",
+    "why": "natural punctuation"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "'you know!' is unnatural here"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "огт adds 'at all', so the meaning differs"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "en",
+    "why": "'so many... so' is awkward"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "example must match the en version (мэдэх ёстой adds 'must'); 'well' was missing"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "арай means 'somewhat more'; жаахан matches 'kind of'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "replace made-up word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "replace made-up words"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "updated word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "updated word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'totally tired' could also fit; make the answer unique"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "replace made-up verb"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "replace made-up word"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "you don't 'speak' (ярих) in an email; wording fixed"
+   }
+  ]
+ }
+}

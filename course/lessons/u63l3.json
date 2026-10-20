@@ -1,0 +1,515 @@
+{
+ "intro_en": "You will learn how to prepare and conduct an interview with a public figure, including key interview vocabulary. You will also practice using the Mongolian epistemic particle юм to soften or probe a question, and English adverbs like arguably, admittedly and supposedly to frame sharp questions.",
+ "intro_mn": "Та олон нийтэд танигдсан хүнтэй ярилцлага бэлтгэж, хийх аргад суралцаж, ярилцлагын гол үгсийг сурна. Мөн асуултыг зөөлрүүлэх, нягталж асуухад хэрэглэдэг «юм» сул үг болон англи хэлний arguably, admittedly, supposedly үгсийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "ярилцлага",
+   "en": "interview",
+   "pos": "noun",
+   "example_mn": "Маргааш бид сайдтай ярилцлага хийнэ.",
+   "example_en": "Tomorrow we will conduct an interview with the minister.",
+   "mn_latin": "yariltslaga"
+  },
+  {
+   "mn": "ярилцагч",
+   "en": "interviewee / conversation partner",
+   "pos": "noun",
+   "example_mn": "Ярилцагч маш сайн бэлтгэлтэй байсан.",
+   "example_en": "The interviewee was very well prepared.",
+   "mn_latin": "yariltsagch"
+  },
+  {
+   "mn": "асуулга",
+   "en": "list of questions / questionnaire",
+   "pos": "noun",
+   "example_mn": "Би өмнө нь асуулга бэлдсэн.",
+   "example_en": "I prepared the list of questions in advance.",
+   "mn_latin": "asuulga"
+  },
+  {
+   "mn": "хариулт",
+   "en": "answer",
+   "pos": "noun",
+   "example_mn": "Түүний хариулт тодорхойгүй байлаа.",
+   "example_en": "His answer was unclear.",
+   "mn_latin": "khariult"
+  },
+  {
+   "mn": "хариулт өгөхөөс зайлсхийх",
+   "en": "to dodge answering",
+   "pos": "phrase",
+   "example_mn": "Тэр гол асуултад хариулт өгөхөөс зайлсхийсэн.",
+   "example_en": "He avoided answering the main question.",
+   "mn_latin": "khariult ögökhöös zailskhiikh"
+  },
+  {
+   "mn": "дэлгэрэнгүй",
+   "en": "in detail / detailed",
+   "pos": "adjective/adverb",
+   "example_mn": "Үүнийг дэлгэрэнгүй тайлбарлаж өгөөч.",
+   "example_en": "Please explain this in detail.",
+   "mn_latin": "delgerengüi"
+  },
+  {
+   "mn": "нэмэлт асуулт",
+   "en": "follow-up question",
+   "pos": "noun",
+   "example_mn": "Би нэмэлт асуулт асууж болох уу?",
+   "example_en": "May I ask a follow-up question?",
+   "mn_latin": "nemelt asuult"
+  },
+  {
+   "mn": "эшлэл",
+   "en": "quotation",
+   "pos": "noun",
+   "example_mn": "Энэ эшлэлийг үгчлэн хэвлэнэ.",
+   "example_en": "We will print this quotation word for word.",
+   "mn_latin": "eshlel"
+  },
+  {
+   "mn": "зөрчилдөх",
+   "en": "to contradict",
+   "pos": "verb",
+   "example_mn": "Таны үгс өмнөх мэдэгдэлтэй зөрчилдөж байна.",
+   "example_en": "Your words contradict the earlier statement.",
+   "mn_latin": "zörchildökh"
+  },
+  {
+   "mn": "хэвлэлд өгөх",
+   "en": "to send to press / publish",
+   "pos": "verb",
+   "example_mn": "Ярилцлагыг маргааш хэвлэлд өгнө.",
+   "example_en": "The interview will go to press tomorrow.",
+   "mn_latin": "khevleld ögökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ярилцлагаас өмнө би асуулгаа сайн бэлдсэн.",
+   "en": "Before the interview I prepared my questions well.",
+   "alt_mn": [
+    "Ярилцлагаас өмнө би асуултуудаа сайн бэлдсэн."
+   ],
+   "alt_en": [
+    "I prepared my list of questions well before the interview."
+   ],
+   "mn_latin": "Yariltslagaas ömnö bi asuulgaa sain beldsen."
+  },
+  {
+   "mn": "Сэтгүүлч түүнээс нэмэлт асуулт асуув.",
+   "en": "The journalist asked him a follow-up question.",
+   "alt_mn": [
+    "Сэтгүүлч түүнээс нэмэлт асуулт асуусан."
+   ],
+   "alt_en": [
+    "The journalist asked him another question to follow up."
+   ],
+   "mn_latin": "Setgüülch tüünees nemelt asuult asuuv."
+  },
+  {
+   "mn": "Та энэ шийдвэрийн талаар мэдэж байсан юм биз дээ?",
+   "en": "You knew about this decision, I assume?",
+   "alt_mn": [],
+   "alt_en": [
+    "You knew about this decision, didn't you?",
+    "I take it you knew about this decision?"
+   ],
+   "mn_latin": "Ta ene shiidveriin talaar medej baisan yum biz dee?"
+  },
+  {
+   "mn": "Сайд асуултад хариулт өгөхөөс зайлсхийлээ.",
+   "en": "The minister avoided answering the question.",
+   "alt_mn": [
+    "Сайд асуултад хариулахаас зайлсхийлээ."
+   ],
+   "alt_en": [
+    "The minister dodged the question."
+   ],
+   "mn_latin": "Said asuultad khariult ögökhöös zailskhiilee."
+  },
+  {
+   "mn": "Та үүнийг дэлгэрэнгүй тайлбарлаж өгөхгүй юу?",
+   "en": "Could you explain this in detail?",
+   "alt_mn": [
+    "Та үүнийг дэлгэрэнгүй тайлбарлаж өгөөч."
+   ],
+   "alt_en": [
+    "Would you explain this in detail?"
+   ],
+   "mn_latin": "Ta üüniig delgerengüi tailbarlaj ögökhgüi yuu?"
+  },
+  {
+   "mn": "Тэгэхээр тэр жилийн тайлан зөв байсан юм байна!",
+   "en": "So that year's report was correct after all!",
+   "alt_mn": [
+    "Тэр жилийн тайлан зөв байсан юм байна шүү."
+   ],
+   "alt_en": [
+    "Oh, so that year's report was correct!"
+   ],
+   "mn_latin": "Tegekheer ter jiliin tailan zöv baisan yum baina!"
+  },
+  {
+   "mn": "Таны өмнөх үг одоогийн мэдэгдэлтэй зөрчилдөж байна.",
+   "en": "Your earlier words contradict your current statement.",
+   "alt_mn": [
+    "Таны өмнөх үг одоогийн мэдэгдэлтэй зөрчилдөж байгаа юм."
+   ],
+   "alt_en": [
+    "What you said earlier contradicts your present statement."
+   ],
+   "mn_latin": "Tany ömnökh üg odoogiin medegdeltei zörchildöj baina."
+  },
+  {
+   "mn": "Маргаж болох ч энэ бол тус улсын хамгийн чухал шийдвэр.",
+   "en": "Arguably, this is the country's most important decision.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is arguably the most important decision in the country."
+   ],
+   "mn_latin": "Margaj bolokh ch ene bol tus ulsyn khamgiin chukhal shiidver."
+  },
+  {
+   "mn": "Та алдаа гаргасан гэдгээ хүлээн зөвшөөрч байна биз дээ?",
+   "en": "You do admit that you made a mistake, don't you?",
+   "alt_mn": [],
+   "alt_en": [
+    "You admit you made a mistake, right?"
+   ],
+   "mn_latin": "Ta aldaa gargasan gedgee khüleen zövshöörch baina biz dee?"
+  },
+  {
+   "mn": "Та энэ төслийг ивээн тэтгэсэн гэх юм билээ.",
+   "en": "You supposedly sponsored this project.",
+   "alt_mn": [
+    "Та энэ төслийг ивээн тэтгэсэн гэдэг."
+   ],
+   "alt_en": [
+    "You are said to have sponsored this project."
+   ],
+   "mn_latin": "Ta ene tösliig iveen tetgesen gekh yum bilee."
+  },
+  {
+   "mn": "Бид ярилцлагыг хоёр цагт хэвлэлд өгнө.",
+   "en": "We will send the interview to press at two o'clock.",
+   "alt_mn": [
+    "Бид ярилцлагыг хоёр цагт хэвлэлд өгөх болно."
+   ],
+   "alt_en": [
+    "We will publish the interview at two o'clock."
+   ],
+   "mn_latin": "Bid yariltslagyg khoyor tsagt khevleld ögnö."
+  },
+  {
+   "mn": "Энэ эшлэлийг үгчлэн оруулж болох уу?",
+   "en": "May we include this quotation word for word?",
+   "alt_mn": [
+    "Энэ эшлэлийг үгчлэн ашиглаж болох уу?"
+   ],
+   "alt_en": [
+    "Can we use this quotation verbatim?"
+   ],
+   "mn_latin": "Ene eshleliig ügchlen oruulj bolokh uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Epistemic юм vs. mirative юм байна",
+  "title_mn": "Таамаглах «юм» ба гэнэтийн «юм байна»",
+  "explain_en": "In Mongolian, the noun юм ('thing') can end a clause and work as a softener or probe. Verb + юм биз дээ? means 'I assume that..., right?' and invites the person to confirm something you suspect, which is great for polite but pointed interview questions: Та мэдэж байсан юм биз дээ? Compare this with the mirative юм байна, which shows your own sudden discovery of a new fact: Тэр мэдэж байсан юм байна! ('So he knew!'). Use юм биз дээ for checking and юм байна for discovering. English has no exact equivalent, so it frames such questions with adverbs: arguably ('one could argue, but...'), admittedly (conceding a point) and supposedly (reporting something you have heard), e.g. Supposedly, you knew.",
+  "explain_mn": "Монгол хэлэнд «юм» үг өгүүлбэрийн төгсгөлд орж асуултыг зөөлрүүлэх эсвэл нягтлах үүрэгтэй. Үйл үг + «юм биз дээ?» нь «таамаглаж байна, тийм биз дээ?» гэсэн утгатай бөгөөд сэжиглэж буй зүйлээ батлуулахад хэрэглэнэ: Та мэдэж байсан юм биз дээ? Харин «юм байна» нь шинэ баримтыг гэнэт мэдсэнээ илэрхийлнэ: Тэр мэдэж байсан юм байна! (So he knew!). Англи хэлэнд үүнтэй яг таарах хэлбэр байхгүй тул arguably («маргаж болох ч...»), admittedly («...нь үнэн», нэг зүйлийг хүлээн зөвшөөрөх), supposedly («гэх юм билээ», сонссон мэдээлэл) гэх мэт adverb ашигладаг. Жишээ: Supposedly, you knew.",
+  "examples": [
+   {
+    "mn": "Та мэдэж байсан юм биз дээ?",
+    "en": "You knew, I assume?",
+    "mn_latin": "Ta medej baisan yum biz dee?"
+   },
+   {
+    "mn": "Тэр мэдэж байсан юм байна!",
+    "en": "So he knew!",
+    "mn_latin": "Ter medej baisan yum baina!"
+   },
+   {
+    "mn": "Та энэ гэрээг уншсан юм уу?",
+    "en": "Did you actually read this contract?",
+    "mn_latin": "Ta ene gereeg unshsan yum uu?"
+   },
+   {
+    "mn": "Таныг түүнтэй уулзсан гэх юм билээ.",
+    "en": "You supposedly met him.",
+    "mn_latin": "Tanyg tüüntei uulzsan gekh yum bilee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Та энэ тухай мэдэж байсан юм ___ дээ?",
+   "answer": "биз",
+   "options": [
+    "биз",
+    "байна",
+    "бол",
+    "уу"
+   ],
+   "translation": "You knew about this, I assume?",
+   "explain_en": "юм биз дээ is the fixed epistemic frame: 'I assume you did, right?' юм байна would be mirative surprise.",
+   "explain_mn": "«юм биз дээ» гэдэг нь таамаглан баталгаажуулах тогтсон хэлбэр. «юм байна» бол гэнэтийн содон мэдээлэл."
+  },
+  {
+   "lang": "mn",
+   "text": "Ээ, тэр үнэхээр мэдэж байсан юм ___!",
+   "answer": "байна",
+   "options": [
+    "байна",
+    "биз",
+    "уу",
+    "бэ"
+   ],
+   "translation": "Oh, so he really did know!",
+   "explain_en": "Here the speaker discovers a surprising fact, so mirative юм байна is used.",
+   "explain_mn": "Яригч шинэ баримтыг гэнэт мэдсэн тул гэнэтийн «юм байна» хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Сайд гол асуултад хариулт өгөхөөс ___.",
+   "answer": "зайлсхийсэн",
+   "options": [
+    "зайлсхийсэн",
+    "зайлсхийх вэ",
+    "зайлсхийж",
+    "зайлсхийлгүй"
+   ],
+   "translation": "The minister avoided answering the main question.",
+   "explain_en": "The past ending -сан closes the sentence after 'хариулт өгөхөөс', which takes the ablative -аас/-өөс. 'зайлсхийх вэ' is a future question and does not fit the past-tense translation.",
+   "explain_mn": "«хариулт өгөхөөс» нь гарах тийн ялгалтай. Өгүүлбэрийг өнгөрсөн цагийн «-сан» нөхцөлөөр төгсгөнө. «зайлсхийх вэ» нь ирээдүй цагийн асуулт тул орчуулгад тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "___, this is the most important speech of his career.",
+   "answer": "Arguably",
+   "options": [
+    "Arguably",
+    "Supposedly",
+    "Admittedly",
+    "Hardly"
+   ],
+   "translation": "Маргаж болох ч энэ бол түүний карьерын хамгийн чухал үг хэлэлт.",
+   "explain_en": "Arguably introduces a claim you can defend but others might dispute.",
+   "explain_mn": "Arguably нь «маргаж болох ч хамгаалж болох» санааг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___, you made some mistakes, but what did you learn?",
+   "answer": "Admittedly",
+   "options": [
+    "Admittedly",
+    "Supposedly",
+    "Hardly",
+    "Carefully"
+   ],
+   "translation": "Та зарим алдаа гаргасан нь үнэн, гэхдээ үүнээс юу сурсан бэ?",
+   "explain_en": "Admittedly concedes a point before moving on to a sharper question.",
+   "explain_mn": "Admittedly нь эхлээд нэг зүйлийг хүлээн зөвшөөрч, дараа нь гол асуулт руу шилжих үед хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "You ___ sold the company before the scandal. Is that true?",
+   "answer": "supposedly",
+   "options": [
+    "supposedly",
+    "carefully",
+    "hardly",
+    "quickly"
+   ],
+   "translation": "Та дуулиан гарахаас өмнө компаниа зарсан гэх юм билээ. Үнэн үү?",
+   "explain_en": "Supposedly marks a claim you have only heard from others and want to test.",
+   "explain_mn": "Supposedly нь бусдаас сонссон, шалгах гэж буй мэдээллийг илтгэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Narantuya",
+   "mn": "Сайн байна уу, сайд аа. Ярилцлагад оролцсонд баярлалаа.",
+   "en": "Hello, Minister. Thank you for joining the interview.",
+   "mn_latin": "Sain baina uu, said aa. Yariltslagad oroltssond bayarlalaa."
+  },
+  {
+   "speaker": "Minister Bat",
+   "mn": "Зүгээр ээ, асуугаарай.",
+   "en": "You're welcome, go ahead and ask.",
+   "mn_latin": "Zügeer ee, asuugaarai."
+  },
+  {
+   "speaker": "Narantuya",
+   "mn": "Та энэ төслийн төсвийн талаар мэдэж байсан юм биз дээ?",
+   "en": "You knew about this project's budget, I take it?",
+   "mn_latin": "Ta ene tösliin tösviin talaar medej baisan yum biz dee?"
+  },
+  {
+   "speaker": "Minister Bat",
+   "mn": "Би ерөнхий зүйлийг л мэдэж байсан.",
+   "en": "I only knew the general outline.",
+   "mn_latin": "Bi yerönkhii züiliig l medej baisan."
+  },
+  {
+   "speaker": "Narantuya",
+   "mn": "Харин та өнгөрсөн жил өөр зүйл хэлсэн юм байна шүү.",
+   "en": "But last year you said something different, apparently.",
+   "mn_latin": "Kharin ta öngörsön jil öör züil khelsen yum baina shüü."
+  },
+  {
+   "speaker": "Minister Bat",
+   "mn": "Тэр үед нөхцөл байдал өөр байсан.",
+   "en": "The circumstances were different then.",
+   "mn_latin": "Ter üyed nökhtsöl baidal öör baisan."
+  },
+  {
+   "speaker": "Narantuya",
+   "mn": "Үүнийг дэлгэрэнгүй тайлбарлаж өгнө үү?",
+   "en": "Could you explain that in detail?",
+   "mn_latin": "Üüniig delgerengüi tailbarlaj ögnö üü?"
+  },
+  {
+   "speaker": "Minister Bat",
+   "mn": "Тэгье, гэхдээ эхлээд нэг зүйлийг тодруулъя.",
+   "en": "Sure, but first let me clarify one thing.",
+   "mn_latin": "Tegiye, gekhdee ekhleed neg züiliig todruulya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian media, interviews with senior officials are often formal, and direct confrontation can feel impolite. Journalists therefore frequently soften pointed questions with particles like юм биз дээ and polite forms of address. Still, investigative programs in Ulaanbaatar increasingly use sharper follow-up questions, much like in Western broadcasting.",
+  "mn": "Монголын хэвлэл мэдээлэлд ахлах албан тушаалтантай хийх ярилцлага ихэвчлэн албан ёсны байдаг бөгөөд шууд тулгах нь эелдэг бус санагдаж болно. Тиймээс сэтгүүлчид хурц асуултыг «юм биз дээ» зэрэг хэллэг, хүндэтгэлтэй хандалтаар зөөлрүүлдэг. Гэхдээ Улаанбаатарын эрэн сурвалжлах нэвтрүүлгүүд барууны сувгуудын адил улам хурц нэмэлт асуулт тавих болсон."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 22,
+  "notes": "Mostly good concept, but several translation mismatches (Мэдээж/Admittedly), an untranslated English word in Mongolian, duplicate alt, and ambiguous English fill-blanks needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 20,
+  "notes": "Fixed ярилцагч misuse, calques of 'admittedly', and the en/mn grammar mismatch.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "юм is a particle, not a suffix (нөхцөл). 'нэвт шагайх' is unnatural."
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_mn",
+    "why": "'сайд тэргүүн' is not standard. Added the subject to match 'we'."
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "en",
+    "why": "In Mongolian media ярилцагч means the person being interviewed, not the interviewer."
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_en",
+    "why": "Matches the corrected meaning."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "ярилцагч does not mean interviewer."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "Same fix."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "en",
+    "why": "Matches the corrected Mongolian."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_en",
+    "why": "Same fix."
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "en",
+    "why": "'must have known... I suppose?' is awkward and doubles the hedge."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "Харин means 'but', not 'so'."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "'Маргаантай ч гэсэн' means 'although controversial', which is a different meaning."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "The Mongolian means 'you admit...', not 'admittedly'."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "'Хүлээн зөвшөөрөхөд' is an ungrammatical calque."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "The old alternative was ungrammatical and redundant."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The en and mn versions must cover the same content."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Aligned with en. Replaced the calque 'хүлээн зөвшөөрөхөд'."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Must match explain_en."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "'Хүлээн зөвшөөрөхөд' is an unnatural calque."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Added the subject 'you'. 'зүйл' is more natural."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'Investigative' is эрэн сурвалжлах. 'бүдүүлэг' is too strong for 'impolite'. юм биз дээ is not a нөхцөл."
+   }
+  ]
+ }
+}

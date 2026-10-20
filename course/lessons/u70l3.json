@@ -1,0 +1,490 @@
+{
+ "intro_en": "You will learn how puns work in Mongolian and English: words that sound alike or have two meanings, such as нар, хар, ус and үс. You will also learn how the particle л and the reflexive ending -аа help point to the meaning the joker intends.",
+ "intro_mn": "Та энэ хичээлээр Монгол, Англи хэл дээрх үгийн тоглоом хэрхэн бүтдгийг сурна. Нар, хар, ус, үс зэрэг ойролцоо сонсогддог эсвэл хоёр утгатай үгс байдаг. Онигоо хэлж буй хүний санасан утгыг заахад «л» сул үг болон -аа дагавар хэрхэн тусалдгийг мөн үзнэ.",
+ "vocab": [
+  {
+   "mn": "нар",
+   "en": "sun",
+   "pos": "noun",
+   "example_mn": "Өглөө нар мандлаа.",
+   "example_en": "The sun rose in the morning.",
+   "mn_latin": "nar"
+  },
+  {
+   "mn": "хар",
+   "en": "black; look! (imperative of харах)",
+   "pos": "adjective / verb",
+   "example_mn": "Хар нохой руу хар даа.",
+   "example_en": "Look at the black dog.",
+   "mn_latin": "khar"
+  },
+  {
+   "mn": "ус",
+   "en": "water",
+   "pos": "noun",
+   "example_mn": "Надад ус өгөөч.",
+   "example_en": "Please give me some water.",
+   "mn_latin": "us"
+  },
+  {
+   "mn": "үс",
+   "en": "hair",
+   "pos": "noun",
+   "example_mn": "Түүний үс урт.",
+   "example_en": "Her hair is long.",
+   "mn_latin": "üs"
+  },
+  {
+   "mn": "сар",
+   "en": "moon; month",
+   "pos": "noun",
+   "example_mn": "Тэргэл сар гэрэлтэж байна.",
+   "example_en": "The full moon is shining.",
+   "mn_latin": "sar"
+  },
+  {
+   "mn": "тал",
+   "en": "side; steppe",
+   "pos": "noun",
+   "example_mn": "Тал нутагт салхи үлээж байна.",
+   "example_en": "The wind is blowing across the steppe.",
+   "mn_latin": "tal"
+  },
+  {
+   "mn": "эх",
+   "en": "mother; source, origin",
+   "pos": "noun",
+   "example_mn": "Энэ голын эх уулнаас эхэлдэг.",
+   "example_en": "The source of this river is in the mountains.",
+   "mn_latin": "ekh"
+  },
+  {
+   "mn": "хоёр утгатай",
+   "en": "with two meanings, ambiguous",
+   "pos": "adjective",
+   "example_mn": "Энэ үг хоёр утгатай.",
+   "example_en": "This word has two meanings.",
+   "mn_latin": "khoyor utgatai"
+  },
+  {
+   "mn": "үгээр тоглох",
+   "en": "to play with words",
+   "pos": "verb phrase",
+   "example_mn": "Манай ах үгээр тоглох дуртай.",
+   "example_en": "My older brother likes to play with words.",
+   "mn_latin": "ügeer toglokh"
+  },
+  {
+   "mn": "инээх",
+   "en": "to laugh",
+   "pos": "verb",
+   "example_mn": "Бид бүгдээрээ инээлээ.",
+   "example_en": "We all laughed.",
+   "mn_latin": "ineekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өглөө нар мандлаа.",
+   "en": "The sun rose in the morning.",
+   "alt_mn": [
+    "Өглөө нар гарлаа."
+   ],
+   "alt_en": [
+    "The sun came up in the morning."
+   ],
+   "mn_latin": "Öglöö nar mandlaa."
+  },
+  {
+   "mn": "Энэ хар нохойг хар даа.",
+   "en": "Look at this black dog.",
+   "alt_mn": [
+    "Энэ хар нохой руу хар даа."
+   ],
+   "alt_en": [
+    "Look at this black dog!"
+   ],
+   "mn_latin": "Ene khar nokhoig khar daa."
+  },
+  {
+   "mn": "Тэр үсээ угааж байна.",
+   "en": "She is washing her hair.",
+   "alt_mn": [
+    "Тэр үсээ угааж байгаа."
+   ],
+   "alt_en": [
+    "She is washing her hair!"
+   ],
+   "mn_latin": "Ter üsee ugaaj baina."
+  },
+  {
+   "mn": "Ус биш, үс гэж л хэлсэн юм.",
+   "en": "I said \"hair\", not \"water\".",
+   "alt_mn": [
+    "Ус биш, үс л гэсэн юм."
+   ],
+   "alt_en": [
+    "I just said \"hair\", not \"water\"."
+   ],
+   "mn_latin": "Us bish, üs gej l khelsen yum."
+  },
+  {
+   "mn": "«Сар» гэдэг үг тэнгэрийн сар болон хуанлийн сар гэсэн хоёр утгатай.",
+   "en": "The word \"сар\" means both moon and month.",
+   "alt_mn": [
+    "«Сар» гэвэл тэнгэрийн сар ч, жилийн сар ч гэсэн утгатай."
+   ],
+   "alt_en": [
+    "The word \"сар\" has two meanings: moon and month."
+   ],
+   "mn_latin": "«Sar» gedeg üg tengeriin sar bolon khuanliin sar gesen khoyor utgatai."
+  },
+  {
+   "mn": "Тал гэдэг үг хоёр утгатай.",
+   "en": "The word \"тал\" has two meanings.",
+   "alt_mn": [
+    "\"Тал\" гэдэг үг хоёр утгатай."
+   ],
+   "alt_en": [
+    "The word \"тал\" is ambiguous."
+   ],
+   "mn_latin": "Tal gedeg üg khoyor utgatai."
+  },
+  {
+   "mn": "Бид тал нутагт морь унасан.",
+   "en": "We rode horses on the steppe.",
+   "alt_mn": [
+    "Бид тал нутагт морь унаж явсан."
+   ],
+   "alt_en": [
+    "We went horseback riding on the steppe."
+   ],
+   "mn_latin": "Bid tal nutagt mori unasan."
+  },
+  {
+   "mn": "Манай аав үгээр тоглох дуртай.",
+   "en": "My dad likes to play with words.",
+   "alt_mn": [
+    "Аав маань үгээр тоглох дуртай."
+   ],
+   "alt_en": [
+    "My father loves wordplay."
+   ],
+   "mn_latin": "Manai aav ügeer toglokh durtai."
+  },
+  {
+   "mn": "Аавын онигоог сонсоод бүгд инээлээ.",
+   "en": "After hearing Dad's joke, everyone laughed.",
+   "alt_mn": [
+    "Аавын онигоог сонсоод бүгдээрээ инээлээ."
+   ],
+   "alt_en": [
+    "Everybody laughed when they heard Dad's joke."
+   ],
+   "mn_latin": "Aavyn onigoog sonsood bügd ineelee."
+  },
+  {
+   "mn": "Гэрэлтдэг нь нар л болохоос нарийн утга биш.",
+   "en": "It is the sun that shines, not a subtle meaning.",
+   "alt_mn": [
+    "Нар л гэрэлтдэг, ямар нэг нарийн утга биш."
+   ],
+   "alt_en": [
+    "Only the sun shines, not some subtle meaning."
+   ],
+   "mn_latin": "Gereltdeg ni nar l bolokhoos nariin utga bish."
+  },
+  {
+   "mn": "Би таталцлын эсрэг хүчний тухай ном уншиж байгаа, гараасаа тавьж чадахгүй байна.",
+   "en": "\"Flour\" and \"flower\" sound the same.",
+   "alt_mn": [
+    "Таталцлын эсрэг хүчний тухай ном уншиж байгаа, гараасаа салгаж чадахгүй байна."
+   ],
+   "alt_en": [
+    "\"Flour\" and \"flower\" are pronounced alike."
+   ],
+   "mn_latin": "Bi tataltslyn esreg khüchnii tukhai nom unshij baigaa, garaasaa tavij chadakhgüi baina."
+  },
+  {
+   "mn": "Би таталцлын эсрэг тухай ном уншиж байна, тавьж чадахгүй байна.",
+   "en": "I'm reading a book on anti-gravity, and I can't put it down.",
+   "alt_mn": [
+    "Таталцлын эсрэг тухай ном уншиж байна, тавьж чадахгүй байна."
+   ],
+   "alt_en": [
+    "I'm reading a book about anti-gravity. I just can't put it down."
+   ],
+   "mn_latin": "Bi tataltslyn esreg tukhai nom unshij baina, tavij chadakhgüi baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Pointing to the intended meaning: the particle л and the reflexive -аа",
+  "title_mn": "Санасан утгыг заах нь: «л» сул үг ба -аа дагавар",
+  "explain_en": "Mongolian puns often rely on words that look or sound almost identical (ус / үс, нар / хар). The particle л (\"just, only, precisely\") goes right after the word you want to stress, so the listener knows which word is meant: Үс л гэсэн юм = \"I only said 'hair'.\" The reflexive possessive -аа/-ээ/-оо/-өө (\"one's own\") attaches to a noun and follows vowel harmony: үс → үсээ, ус → усаа, ном → номоо. The choice of noun (үсээ vs усаа) often exposes the pun. Put both together to correct a mishearing: Усаа уу гэсэн, үсээ биш! = \"I said drink your water, not your hair!\"",
+  "explain_mn": "Англи хэлэнд пан (pun) нь ихэвчлэн ижил дуудлагатай үгс (flour/flower, knight/night) эсвэл нэг үгийн хоёр утга дээр тулгуурладаг. Монгол хэлний «л» шиг сул үг англи хэлэнд байхгүй тул юуг онцлохыг өргөлт, үгийн дарааллаар заадаг: I said HAIR, not water. Мөн «-аа» (өөрийн) дагаврын оронд my, your, his, her гэсэн эзэмшлийн төлөөний үг орно: She is washing her hair.",
+  "examples": [
+   {
+    "mn": "Тэр үсээ л угаасан.",
+    "en": "She only washed her hair.",
+    "mn_latin": "Ter üsee l ugaasan."
+   },
+   {
+    "mn": "Усаа уу гэсэн, үсээ биш!",
+    "en": "I said drink your water, not your hair!",
+    "mn_latin": "Usaa uu gesen, üsee bish!"
+   },
+   {
+    "mn": "Нар л гэрэлтдэг.",
+    "en": "It is the sun that shines.",
+    "mn_latin": "Nar l gereltdeg."
+   },
+   {
+    "mn": "Хар л гэсэн, хар өнгө биш.",
+    "en": "I only said \"look\", not \"black\".",
+    "mn_latin": "Khar l gesen, khar öngö bish."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэр ___ угааж байна.",
+   "answer": "үсээ",
+   "options": [
+    "үсээ",
+    "усаа",
+    "үсэнд",
+    "үсний"
+   ],
+   "translation": "She is washing her hair.",
+   "explain_en": "Үс (hair) takes the reflexive ending -ээ because of vowel harmony, so \"her own hair\" is үсээ. Усаа means \"one's own water\", which would change the meaning.",
+   "explain_mn": "«Үс» үг «ү» эгшигтэй тул «-ээ» дагавар авч «үсээ» болно. «Усаа» гэвэл ус гэсэн өөр утгатай болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Би ном___ уншиж байна.",
+   "answer": "оо",
+   "options": [
+    "оо",
+    "аа",
+    "ээ",
+    "өө"
+   ],
+   "translation": "I am reading my book.",
+   "explain_en": "Ном has the vowel о, so the reflexive ending is -оо: номоо.",
+   "explain_mn": "«Ном» үгийн эгшиг «о» тул «-оо» дагавар залгаж «номоо» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Ус биш, үс ___ гэсэн юм.",
+   "answer": "л",
+   "options": [
+    "л",
+    "ч",
+    "уу",
+    "нь"
+   ],
+   "translation": "I said \"hair\", not \"water\".",
+   "explain_en": "The particle л stresses the intended word (үс) and corrects the mishearing.",
+   "explain_mn": "«Л» сул үг нь санасан үгээ (үс) онцолж, андуурлыг засахад хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "\"Flour\" and ___ sound the same.",
+   "answer": "flower",
+   "options": [
+    "flower",
+    "floor",
+    "flavor",
+    "flow"
+   ],
+   "translation": "«Flour» болон «flower» адилхан сонсогдоно.",
+   "explain_en": "Flour (for baking) and flower (a plant) are homophones, which is why they make good puns.",
+   "explain_mn": "Flour (гурил) ба flower (цэцэг) дуудлага нь ижил тул үгээр тоглоход ашиглагддаг."
+  },
+  {
+   "lang": "en",
+   "text": "I'm reading a book on anti-gravity; I ___ put it down.",
+   "answer": "can't",
+   "options": [
+    "can't",
+    "can",
+    "couldn't",
+    "shouldn't"
+   ],
+   "translation": "Би таталцлын эсрэг хүчний тухай ном уншиж байгаа, гараасаа тавьж чадахгүй байна.",
+   "explain_en": "The pun works because \"can't put it down\" means both \"too gripping\" and \"it floats away\".",
+   "explain_mn": "«Can't put it down» гэдэг нь «тасралгүй сонирхолтой» ба «таталцалгүй тул газар тавигдахгүй» гэсэн хоёр утгатай тул онигоо болдог."
+  },
+  {
+   "lang": "en",
+   "text": "A ___ in shining armor rode through the night.",
+   "answer": "knight",
+   "options": [
+    "knight",
+    "night",
+    "kite",
+    "neat"
+   ],
+   "translation": "Гялалзсан хуягтай баатар шөнөөр давхив.",
+   "explain_en": "Knight (a warrior) and night sound identical; the silent k gives the spelling away.",
+   "explain_mn": "Knight (баатар) ба night (шөнө) ижил дуудагддаг, зөвхөн бичгээр ялгагддаг; k нь дуудагдахгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Ээж ээ, би ус өгөөч гэж хэлсэн, чи яагаад үс өгөв?",
+   "en": "Mom, I said give me water. Why did you give me hair?",
+   "mn_latin": "Eej ee, bi us ögööch gej khelsen, chi yaagaad üs ögöv?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ус биш, үс гэж сонссон юм байна.",
+   "en": "I guess I heard \"hair\", not \"water\".",
+   "mn_latin": "Us bish, üs gej sonsson yum baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Би Монгол хэл дээр ийм олон хоёр утгатай үг байдгийг мэдээгүй.",
+   "en": "I didn't know Mongolian had so many words with two meanings.",
+   "mn_latin": "Bi Mongol khel deer iim olon khoyor utgatai üg baidgiig medeegüi."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм ээ, жишээ нь «сар» гэвэл тэнгэрийн сар ч, жилийн сар ч гэсэн утгатай.",
+   "en": "Yes, for example сар can mean either the moon or the month.",
+   "mn_latin": "Tiim ee, jishee ni «sar» gevel tengeriin sar ch, jiliin sar ch gesen utgatai."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Англи хэлэнд ч адилхан. Flour, flower хоёрыг сонсвол ялгагдахгүй.",
+   "en": "It's the same in English. You can't tell flour and flower apart by ear.",
+   "mn_latin": "Angli khelend ch adilkhan. Flour, flower khoyoryg sonsvol yalgagdakhgüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Радиогоор цэцэн үгийн тэмцээн явж байна. Бид оролцъё!",
+   "en": "There's a wordplay contest on the radio. Let's take part!",
+   "mn_latin": "Radiogoor tsetsen ügiin temtseen yavj baina. Bid oroltsyo!"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Би таталцлын эсрэг хүчний тухай ном уншиж байгаа, гараасаа тавьж чадахгүй нь!",
+   "en": "I'm reading a book on anti-gravity, and I can't put it down!",
+   "mn_latin": "Bi tataltslyn esreg khüchnii tukhai nom unshij baigaa, garaasaa tavij chadakhgüi ni!"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Ха ха, сайхан онигоо байна. Бүгд инээлээ.",
+   "en": "Ha ha, nice one. Everybody laughed.",
+   "mn_latin": "Kha kha, saikhan onigoo baina. Bügd ineelee."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolians love цэцэн үг (witty speech) and riddles, from family gatherings at Tsagaan Sar to radio call-in shows. Many jokes depend on near-identical sounds, such as ус and үс, or on one word with several meanings, such as сар. Playing with words is seen as a sign of intelligence and a way to bring people together.",
+  "mn": "Монголчууд Цагаан сарын цугларалтаас эхлээд радиогийн нэвтрүүлэг хүртэл цэцэн үг хэлэх, таавар таалцах дуртай. Олон онигоо нь ус, үс шиг ойролцоо дуудлагатай, эсвэл сар шиг хэд хэдэн утгатай үг дээр тулгуурладаг. Үгээр тоглох нь ухаалаг, цэцэн байдлын шинж бөгөөд хүмүүсийг ойртуулдаг гэж үздэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 25,
+  "notes": "Several unnatural Mongolian sentences, the repeated-сар gloss problems, a wrong alt_en gender and a faulty grammar claim; needs fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "Fixed the misspelled verb form, a wrong moon/month sentence and its alternative, the ungrammatical anti-gravity phrasing used in four places, and a title/intro mismatch.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "бүтдэгийг→бүтдгийг; match en: sound alike or two meanings, intended meaning"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "en says intended meaning, not second meaning"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "natural wording for full moon"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_en",
+    "why": "natural English"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "alt duplicated main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "«ордог сар», «сарын тоо» do not mean moon/month"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "moon is not a гараг (planet); wrong alternative"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "унаж үзсэн = tried riding, changes meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "«таталцлын эсрэг тухай» ungrammatical; natural phrasing"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "same grammar fix"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "same grammar fix"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "pun = үгээр тоглох, not цэцэн үг"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "«шүү» clashes with «юм байна»"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "same grammar fix"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "capitalize Цагаан сар; fix from…to structure"
+   }
+  ]
+ }
+}

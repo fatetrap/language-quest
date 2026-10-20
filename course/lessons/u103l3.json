@@ -1,0 +1,503 @@
+{
+ "intro_en": "Step into a saddle maker's workshop and learn how a traditional Mongolian saddle is built, stitched, and decorated. You will practice the Mongolian converb -нгуут/-нгүүт with the passive -гд- (\"as soon as it has been done\") and its negative counterpart, and the English passive perfect participle (\"having been dried\").",
+ "intro_mn": "Эмээлийн дарханы урланд очиж, уламжлалт монгол эмээлийг хэрхэн угсарч, ширж, чимдгийг сурна. Англи хэлний идэвхгүй хэвийн төгсөх үйлт нэр (having been dried, having been carved) болон түүнтэй дүйх монгол хэлний -гдангуут/-гдэнгүүт хэлбэрийг давтана.",
+ "vocab": [
+  {
+   "mn": "эмээл",
+   "en": "saddle",
+   "pos": "noun",
+   "example_mn": "Энэ эмээлийг миний өвөө хийсэн.",
+   "example_en": "My grandfather made this saddle.",
+   "mn_latin": "emeel"
+  },
+  {
+   "mn": "ширэлгээ",
+   "en": "stitching (quilted stitching)",
+   "pos": "noun",
+   "example_mn": "Суудлын ширэлгээ маш нягт байна.",
+   "example_en": "The stitching on the seat is very tight.",
+   "mn_latin": "shirelgee"
+  },
+  {
+   "mn": "арьс",
+   "en": "leather, hide",
+   "pos": "noun",
+   "example_mn": "Үхрийн арьс бат бөх байдаг.",
+   "example_en": "Cowhide is durable.",
+   "mn_latin": "aris"
+  },
+  {
+   "mn": "мод",
+   "en": "wood; saddle tree (эмээлийн мод)",
+   "pos": "noun",
+   "example_mn": "Эмээлийн мод хусаар хийгддэг.",
+   "example_en": "The saddle tree is made of birch.",
+   "mn_latin": "mod"
+  },
+  {
+   "mn": "бүүрэг",
+   "en": "saddle arch (pommel or cantle)",
+   "pos": "noun",
+   "example_mn": "Өмнөд бүүрэг нь хойдохоосоо өндөр.",
+   "example_en": "The front arch is higher than the back one.",
+   "mn_latin": "büüreg"
+  },
+  {
+   "mn": "чимэглэл",
+   "en": "decoration, ornament",
+   "pos": "noun",
+   "example_mn": "Мөнгөн чимэглэл эмээлийг гоёдог.",
+   "example_en": "Silver ornaments make a saddle elegant.",
+   "mn_latin": "chimeglel"
+  },
+  {
+   "mn": "сийлэх",
+   "en": "to carve",
+   "pos": "verb",
+   "example_mn": "Дархан бүүрэг дээр хээ сийлж байна.",
+   "example_en": "The craftsman is carving a pattern on the arch.",
+   "mn_latin": "siilekh"
+  },
+  {
+   "mn": "хатах",
+   "en": "to dry (become dry)",
+   "pos": "verb",
+   "example_mn": "Мод бүтэн жил хатах ёстой.",
+   "example_en": "The wood has to dry for a whole year.",
+   "mn_latin": "khatakh"
+  },
+  {
+   "mn": "тохом",
+   "en": "saddle pad (felt)",
+   "pos": "noun",
+   "example_mn": "Тохомгүйгээр эмээл тохож болохгүй.",
+   "example_en": "You can't saddle a horse without a saddle pad.",
+   "mn_latin": "tokhom"
+  },
+  {
+   "mn": "дөрөө",
+   "en": "stirrup",
+   "pos": "noun",
+   "example_mn": "Дөрөөний оосрыг богиносгоорой.",
+   "example_en": "Please shorten the stirrup strap.",
+   "mn_latin": "döröö"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Мод сайн хатангуут бид эмээлийн хүрээг угсарч эхэлдэг.",
+   "en": "As soon as the wood has dried properly, we start assembling the saddle frame.",
+   "alt_mn": [
+    "Мод сайтар хатангуут бид эмээлийн хүрээг угсарч эхэлдэг."
+   ],
+   "alt_en": [
+    "Once the wood has dried properly, we begin assembling the saddle frame."
+   ],
+   "mn_latin": "Mod sain khatanguut bid emeeliin khüreeg ugsarch ekheldeg."
+  },
+  {
+   "mn": "Бүүрэг сийлэгдэнгүүт түүнийг улаанаар будна.",
+   "en": "As soon as the arch has been carved, it is painted red.",
+   "alt_mn": [
+    "Бүүрэг сийлэгдэнгүүт улаанаар будна."
+   ],
+   "alt_en": [
+    "Once the arch has been carved, it gets painted red.",
+    "Having been carved, the arch is then painted red."
+   ],
+   "mn_latin": "Büüreg siilegdengüüt tüüniig ulaanaar budna."
+  },
+  {
+   "mn": "Арьс тослогдонгуут зөөлөрч, ширэхэд амар болдог.",
+   "en": "Having been oiled, the leather softens and becomes easier to stitch.",
+   "alt_mn": [
+    "Арьс тослогдонгуут зөөлөрч, амархан ширэгддэг."
+   ],
+   "alt_en": [
+    "As soon as the leather has been oiled, it softens and becomes easier to stitch."
+   ],
+   "mn_latin": "Aris toslogdonguut zöölörch, shirekhed amar boldog."
+  },
+  {
+   "mn": "Будаг хатаагүй байхад мөнгөн чимэглэлийг бүү суулга.",
+   "en": "Don't fit the silver ornaments until the paint has dried.",
+   "alt_mn": [
+    "Будаг хатаагүй байхад мөнгөн чимэглэл бүү суулга."
+   ],
+   "alt_en": [
+    "Don't attach the silver ornaments before the paint has dried."
+   ],
+   "mn_latin": "Budag khataagüi baikhad möngön chimegleliig büü suulga."
+  },
+  {
+   "mn": "Ширэлгээ хийгдэнгүүт эмээлийн суудал илүү бат бөх болдог.",
+   "en": "Once the stitching has been done, the saddle seat becomes much sturdier.",
+   "alt_mn": [
+    "Ширэлгээ хийгдэнгүүт эмээлийн суудал улам бат бөх болдог."
+   ],
+   "alt_en": [
+    "As soon as the stitching is done, the saddle seat becomes much sturdier."
+   ],
+   "mn_latin": "Shirelgee khiigdengüüt emeeliin suudal ilüü bat bökh boldog."
+  },
+  {
+   "mn": "Сайн хатаагдаагүй мод хэдэн жилийн дараа хагардаг.",
+   "en": "Wood that hasn't been properly dried cracks after a few years.",
+   "alt_mn": [
+    "Сайн хатаагүй мод хэдэн жилийн дараа хагардаг."
+   ],
+   "alt_en": [
+    "Wood that was not dried properly cracks after a few years."
+   ],
+   "mn_latin": "Sain khataagdaagüi mod kheden jiliin daraa khagardag."
+  },
+  {
+   "mn": "Эмээлийн мод өнгөлөгдөнгүүт дархан гоёлын хээг зурдаг.",
+   "en": "Once the saddle tree has been polished, the craftsman draws the ornamental pattern.",
+   "alt_mn": [
+    "Эмээлийн мод өнгөлөгдөнгүүт дархан хээ угалзыг зурдаг."
+   ],
+   "alt_en": [
+    "As soon as the saddle tree has been polished, the craftsman draws the decorative pattern."
+   ],
+   "mn_latin": "Emeeliin mod öngölögdöngüüt darkhan goyolyn kheeg zurdag."
+  },
+  {
+   "mn": "Гараар сийлэгдсэн учраас бүүрэг бүр арай өөр байдаг.",
+   "en": "Having been carved by hand, each arch is slightly different.",
+   "alt_mn": [
+    "Гараар сийлэгддэг тул бүүрэг бүр арай өөр байдаг."
+   ],
+   "alt_en": [
+    "Because it is carved by hand, every arch is slightly different."
+   ],
+   "mn_latin": "Garaar siilegdsen uchraas büüreg bür arai öör baidag."
+  },
+  {
+   "mn": "Зөв арчлагдвал энэ эмээл таны ач зээд хүртэл үйлчилнэ.",
+   "en": "If it is cared for properly, this saddle will last long enough for your grandchildren to use it.",
+   "alt_mn": [
+    "Сайн арчилбал энэ эмээл ач зээд чинь хүртэл үйлчилнэ."
+   ],
+   "alt_en": [
+    "Properly cared for, this saddle will serve even your grandchildren."
+   ],
+   "mn_latin": "Zöv archlagdval ene emeel tany ach zeed khürtel üilchilne."
+  },
+  {
+   "mn": "Тохом ширэгдэнгүүт бид түүнийг морины нуруунд тавьж үздэг.",
+   "en": "As soon as the saddle pad has been stitched, we try it on the horse's back.",
+   "alt_mn": [
+    "Тохом ширэгдэнгүүт морины нуруунд тавьж үздэг."
+   ],
+   "alt_en": [
+    "Once the saddle pad has been stitched, we test it on the horse's back."
+   ],
+   "mn_latin": "Tokhom shiregdengüüt bid tüüniig moriny nuruund tavij üzdeg."
+  },
+  {
+   "mn": "Мөнгөн товруу хадагдангуут эмээл жинхэнэ гоёл болдог.",
+   "en": "Once the silver studs have been nailed on, the saddle becomes a true work of art.",
+   "alt_mn": [
+    "Мөнгөн товруунууд хадагдангуут эмээл жинхэнэ гоёл болдог."
+   ],
+   "alt_en": [
+    "As soon as the silver studs have been attached, the saddle becomes truly beautiful."
+   ],
+   "mn_latin": "Möngön tovruu khadagdanguut emeel jinkhene goyol boldog."
+  },
+  {
+   "mn": "Дөрөө зүүгдэнгүүт эмээлийг морь дээр тохож үздэг.",
+   "en": "As soon as the stirrups have been attached, the saddle is tried on a horse.",
+   "alt_mn": [
+    "Дөрөө зүүгдэнгүүт бид эмээлийг морь дээр тохож үздэг."
+   ],
+   "alt_en": [
+    "Once the stirrups have been fitted, the saddle is tested on a horse."
+   ],
+   "mn_latin": "Döröö züügdengüüt emeeliig mori deer tokhoj üzdeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "\"As soon as it has been done\": passive -гд- + -нгуут/-нгүүт",
+  "title_mn": "Идэвхгүй хэвийн төгсөх үйлт нэр: having been + V3",
+  "explain_en": "Mongolian joins two steps of a process with the converb -нгуут/-нгүүт, meaning \"as soon as\" or \"once.\" To make the first step passive (something is done to the object), add -гд- before it: будах \"to paint\" becomes будагдах \"to be painted,\" then будагдангуут \"as soon as it has been painted.\" Vowel harmony picks the form. Back-vowel stems take -гдангуут or -гдонгуут: будагдангуут, тослогдонгуут. Front-vowel stems take -гдэнгүүт or -гдөнгүүт: сийлэгдэнгүүт, өнгөлөгдөнгүүт. Intransitive verbs like хатах \"to dry\" need no -гд-: хатангуут. For the negative (\"while it hasn't yet\"), use -аагүй байхад: Будаг хатаагүй байхад... \"while the paint hasn't dried.\"",
+  "explain_mn": "Англи хэлэнд нэг үйл явдал нөгөөгөөсөө өмнө, бусдын үйлдлээр гүйцэтгэгдсэнийг \"having been + V3\" хэлбэрээр илэрхийлдэг. Энэ нь монголын -гдангуут/-гдэнгүүт эсвэл -гдсэн учраас гэсэн утгатай дүйнэ. Жишээ нь: Having been carved, the arch is painted. (Бүүрэг сийлэгдэнгүүт будна.) Энэ хэлбэрээр эхэлсэн өгүүлбэрийн эзэн нь үйлдлийг хүлээн авагч байх ёстой, өөрөөр хэлбэл сийлэгдсэн юм нь бүүрэг өөрөө. Үгүйсгэлд \"not\"-ийг өмнө нь тавина: Not having been dried properly, the wood cracked. (Сайн хатаагдаагүй учраас мод хагарсан.)",
+  "examples": [
+   {
+    "mn": "Мод хатангуут бүүрэг сийлнэ.",
+    "en": "Once the wood has dried, the arches are carved.",
+    "mn_latin": "Mod khatanguut büüreg siilne."
+   },
+   {
+    "mn": "Бүүрэг будагдангуут мөнгөн чимэглэл суулгана.",
+    "en": "Having been painted, the arch is fitted with silver ornaments.",
+    "mn_latin": "Büüreg budagdanguut möngön chimeglel suulgana."
+   },
+   {
+    "mn": "Арьс тослогдонгуут ширэлгээ хийнэ.",
+    "en": "Having been oiled, the leather is stitched.",
+    "mn_latin": "Aris toslogdonguut shirelgee khiine."
+   },
+   {
+    "mn": "Сайн хатаагдаагүй учраас мод хагарчээ.",
+    "en": "Not having been dried properly, the wood cracked.",
+    "mn_latin": "Sain khataagdaagüi uchraas mod khagarchee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бүүрэг ___ түүнийг улаанаар будна.",
+   "answer": "сийлэгдэнгүүт",
+   "options": [
+    "сийлэгдэнгүүт",
+    "сийлэгдангуут",
+    "сийлэгдсэнгүй",
+    "сийлэхээр"
+   ],
+   "translation": "As soon as the arch has been carved, it is painted red.",
+   "explain_en": "The stem сийл- has front vowels, so the passive \"as soon as\" form is -гдэнгүүт. The form -гдангуут breaks vowel harmony.",
+   "explain_mn": "Сийлэх гэдэг эм үг тул -гдэнгүүт залгана. Англиар бол \"having been carved\" гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Арьс ___ зөөлөрч, ширэхэд амар болдог.",
+   "answer": "тослогдонгуут",
+   "options": [
+    "тослогдонгуут",
+    "тослогдэнгүүт",
+    "тосолсонгүй",
+    "тослогдохоос"
+   ],
+   "translation": "Having been oiled, the leather softens and becomes easier to stitch.",
+   "explain_en": "Тосл- has the back vowel о, so the ending is -гдонгуут. The leather is what gets oiled, so the passive -гд- is required.",
+   "explain_mn": "Тослох гэдэг о эгшигтэй үг тул -гдонгуут болно. Англиар бол \"having been oiled\" гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Будаг ___ байхад мөнгөн чимэглэлийг бүү суулга.",
+   "answer": "хатаагүй",
+   "options": [
+    "хатаагүй",
+    "хатангуут",
+    "хатсан",
+    "хатахгүй"
+   ],
+   "translation": "Don't fit the silver ornaments until the paint has dried.",
+   "explain_en": "\"While it hasn't yet...\" is expressed with the negative past -аагүй plus байхад. The form хатангуут would mean \"as soon as it dries,\" the opposite of what is meant.",
+   "explain_mn": "\"Хараахан болоогүй байхад\" гэсэн утгыг -аагүй байхад хэлбэрээр илэрхийлнэ. Англиар бол \"while the paint hasn't dried\" гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Having been ___ for a whole year, the wood no longer cracks.",
+   "answer": "dried",
+   "options": [
+    "dried",
+    "dry",
+    "dries",
+    "to dry"
+   ],
+   "translation": "Бүтэн жил хатаагдсан тул мод дахиж хагардаггүй.",
+   "explain_en": "After \"having been\" you always use the past participle (V3): dried.",
+   "explain_mn": "\"Having been\"-ийн дараа үргэлж үйл үгийн гуравдугаар хэлбэр (V3) орно: dried."
+  },
+  {
+   "lang": "en",
+   "text": "___ been carved by hand, each arch is slightly different.",
+   "answer": "Having",
+   "options": [
+    "Having",
+    "Being",
+    "Have",
+    "Had"
+   ],
+   "translation": "Гараар сийлэгдсэн учраас бүүрэг бүр арай өөр байдаг.",
+   "explain_en": "The perfect participle phrase starts with \"Having.\" \"Being been\" is not possible, and \"Have\" or \"Had\" would need a subject.",
+   "explain_mn": "Өмнө нь гүйцэтгэгдсэн үйлдлийг \"Having been + V3\" гэж эхэлнэ. \"Being been\" гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Having been ___ with silver studs, the saddle looked magnificent.",
+   "answer": "decorated",
+   "options": [
+    "decorated",
+    "decorates",
+    "decorate",
+    "decoration"
+   ],
+   "translation": "Мөнгөн товруугаар чимэглэгдсэн эмээл гайхамшигтай харагдаж байв.",
+   "explain_en": "The saddle received the action, so use the passive past participle \"decorated.\"",
+   "explain_mn": "Эмээл өөрөө чимэглээгүй, харин түүнийг чимэглэсэн тул идэвхгүй хэлбэрийн V3 буюу \"decorated\" орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Ганбаатар гуай, нэг эмээл хийхэд хэр удаан хугацаа ордог вэ?",
+   "en": "Mr. Ganbaatar, how long does it take to make one saddle?",
+   "mn_latin": "Ganbaatar guai, neg emeel khiikhed kher udaan khugatsaa ordog ve?"
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Модноос эхэлбэл бараг жил болно. Хусан мод бүрэн хатангуут л ажлаа эхэлдэг.",
+   "en": "If you count from the wood, almost a year. I only start once the birch has completely dried.",
+   "mn_latin": "Modnoos ekhelbel barag jil bolno. Khusan mod büren khatanguut l ajlaa ekheldeg."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Яагаад ийм удаан хатаадаг юм бэ?",
+   "en": "Why do you dry it for so long?",
+   "mn_latin": "Yaagaad iim udaan khataadag yum be?"
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Сайн хатаагдаагүй мод хэдэн жилийн дараа хагардаг. Би насан туршийн эмээл хийх гэж байгаа шүү дээ.",
+   "en": "Wood that hasn't been properly dried cracks after a few years. I'm trying to make a saddle that lasts a lifetime, you know.",
+   "mn_latin": "Sain khataagdaagüi mod kheden jiliin daraa khagardag. Bi nasan turshiin emeel khiikh gej baigaa shüü dee."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Энэ бүүрэг дээрх хээ ямар гоё юм бэ!",
+   "en": "The pattern on this arch is so beautiful!",
+   "mn_latin": "Ene büüreg deerkh khee yamar goyo yum be!"
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Бүүрэг сийлэгдэнгүүт улаанаар будаад, будаг нь хатангуут мөнгөн товруу хаддаг.",
+   "en": "Once the arch has been carved, I paint it red, and as soon as the paint dries, I nail on the silver studs.",
+   "mn_latin": "Büüreg siilegdengüüt ulaanaar budaad, budag ni khatanguut möngön tovruu khaddag."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Суудлын ширэлгээг ч бас та өөрөө хийдэг үү?",
+   "en": "Do you do the stitching on the seat yourself too?",
+   "mn_latin": "Suudlyn shirelgeeg ch bas ta ööröö khiideg üü?"
+  },
+  {
+   "speaker": "Ганбаатар",
+   "mn": "Тийм ээ. Арьс тослогдонгуут зөөлөрдөг тул ширэхэд амар болдог.",
+   "en": "Yes. Once the leather has been oiled it softens, so it's easier to stitch.",
+   "mn_latin": "Tiim ee. Aris toslogdonguut zöölördög tul shirekhed amar boldog."
+  }
+ ],
+ "culture_note": {
+  "en": "A traditional Mongolian saddle has a wooden tree with a high front and back arch (бүүрэг). It is often painted red and decorated with silver studs and plates. A good saddle is treated almost like a family member: people avoid stepping over it, and fine saddles are passed down from parents to children. At Naadam, the young jockeys ride on very light, simple saddles, or even bareback, so the horse can run faster.",
+  "mn": "Уламжлалт монгол эмээл нь өмнөд, хойд өндөр бүүрэгтэй модон хүрээтэй бөгөөд ихэвчлэн улаанаар будаж, мөнгөн товруу, хавтгайгаар чимдэг. Сайн эмээлийг гэр бүлийн гишүүн мэт хүндэлж, дээгүүр нь алхдаггүй бөгөөд эцэг эхээс үр хүүхдэд өвлүүлдэг. Наадмын уралдаанд хүүхэд унаачид морио хурдан давхиулахын тулд маш хөнгөн энгийн эмээлээр, заримдаа бүр эмээлгүй унадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, accurate lesson with correct vowel harmony throughout. The fixes cover one wrong word in the culture note, a wrong word in one explanation, and one pronoun agreement error."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 17,
+  "notes": "Main issue: тосологд- misspelled throughout (should be тослогд-). Also fixed awkward English, one example mismatch, and fill-blank distractors that were also grammatical.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "The verb is тослох, so the passive is тослогдох, not тосологдох"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "Spelling: тослогдонгуут"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "en",
+    "why": "\"while the paint hasn't dried yet\" is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "Reflexive possessive \"хээ угалзаа\" is odd here"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "\"until your grandchildren's time\" is unnatural"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Spelling: тослогдонгуут"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "en",
+    "why": "The Mongolian says nothing about carving the wood \"into\" arches"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Spelling: тослогдонгуут"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "answer",
+    "why": "Correct form of тослох"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Correct stem тосл- in all options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Stem is тосл-"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Spelling: тослох"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "Match the corrected sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "\"having been drying\" is also grammatical, so the blank had two answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "\"having been decorating\" is a grammatical form, so it should not be a distractor"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "Spelling: тослогдонгуут"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "\"хүүхэд унаачид\" is the standard term for child jockeys"
+   }
+  ]
+ }
+}

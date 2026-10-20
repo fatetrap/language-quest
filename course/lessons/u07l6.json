@@ -1,0 +1,454 @@
+{
+ "intro_en": "You will learn how to offer food and drink politely to guests in a ger, and how to accept or refuse with 'Yes, please' and 'No, thank you'. You will also review the accusative case and the -х уу? / -х үү? offer questions.",
+ "intro_mn": "Та гэрт ирсэн зочдод хоол, ундааг эелдгээр санал болгох, мөн \"Тийм, баярлалаа\", \"Үгүй, баярлалаа\" гэж зөвшөөрөх, татгалзах аргыг сурна. Мөн заахын тийн ялгал (-г/-ыг/-ийг) болон -х уу? / -х үү? санал болгох асуултыг давтана.",
+ "vocab": [
+  {
+   "mn": "ав",
+   "en": "take",
+   "pos": "verb",
+   "example_mn": "Бууз ав.",
+   "example_en": "Take a buuz.",
+   "mn_latin": "av"
+  },
+  {
+   "mn": "уугаарай",
+   "en": "please drink",
+   "pos": "verb",
+   "example_mn": "Цай уугаарай.",
+   "example_en": "Please drink some tea.",
+   "mn_latin": "uugaarai"
+  },
+  {
+   "mn": "идээрэй",
+   "en": "please eat",
+   "pos": "verb",
+   "example_mn": "Бууз идээрэй.",
+   "example_en": "Please eat some buuz.",
+   "mn_latin": "ideerei"
+  },
+  {
+   "mn": "баярлалаа",
+   "en": "thank you",
+   "pos": "interjection",
+   "example_mn": "Баярлалаа, би цай уумаар байна.",
+   "example_en": "Thank you, I would like some tea.",
+   "mn_latin": "bayarlalaa"
+  },
+  {
+   "mn": "хангалттай",
+   "en": "enough",
+   "pos": "adjective",
+   "example_mn": "Хангалттай, баярлалаа.",
+   "example_en": "That's enough, thank you.",
+   "mn_latin": "khangalttai"
+  },
+  {
+   "mn": "зочин",
+   "en": "guest",
+   "pos": "noun",
+   "example_mn": "Манайд зочин ирлээ.",
+   "example_en": "A guest has come to our home.",
+   "mn_latin": "zochin"
+  },
+  {
+   "mn": "хоол",
+   "en": "food, meal",
+   "pos": "noun",
+   "example_mn": "Оройн хоол бэлэн боллоо.",
+   "example_en": "Dinner is ready.",
+   "mn_latin": "khool"
+  },
+  {
+   "mn": "цай",
+   "en": "tea",
+   "pos": "noun",
+   "example_mn": "Сүүтэй цай уух уу?",
+   "example_en": "Would you like some milk tea?",
+   "mn_latin": "tsai"
+  },
+  {
+   "mn": "бууз",
+   "en": "buuz (steamed dumpling)",
+   "pos": "noun",
+   "example_mn": "Бууз идэх үү?",
+   "example_en": "Would you like some buuz?",
+   "mn_latin": "buuz"
+  },
+  {
+   "mn": "тийм",
+   "en": "yes",
+   "pos": "particle",
+   "example_mn": "Тийм, өгөөч.",
+   "example_en": "Yes, please give me some.",
+   "mn_latin": "tiim"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Цай уух уу?",
+   "en": "Would you like some tea?",
+   "alt_mn": [
+    "Та цай уух уу?"
+   ],
+   "alt_en": [
+    "Do you want some tea?"
+   ],
+   "mn_latin": "Tsai uukh uu?"
+  },
+  {
+   "mn": "Тийм, баярлалаа.",
+   "en": "Yes, please.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, thank you."
+   ],
+   "mn_latin": "Tiim, bayarlalaa."
+  },
+  {
+   "mn": "Бууз идэх үү?",
+   "en": "Would you like some buuz?",
+   "alt_mn": [
+    "Та бууз идэх үү?"
+   ],
+   "alt_en": [
+    "Do you want some buuz?"
+   ],
+   "mn_latin": "Buuz idekh üü?"
+  },
+  {
+   "mn": "Үгүй, баярлалаа.",
+   "en": "No, thank you.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ügüi, bayarlalaa."
+  },
+  {
+   "mn": "Бууз идээрэй.",
+   "en": "Please eat some buuz.",
+   "alt_mn": [
+    "Та бууз идээрэй."
+   ],
+   "alt_en": [
+    "Have some buuz."
+   ],
+   "mn_latin": "Buuz ideerei."
+  },
+  {
+   "mn": "Сүүтэй цай уугаарай.",
+   "en": "Please drink some milk tea.",
+   "alt_mn": [
+    "Сүүтэй цайгаа уугаарай."
+   ],
+   "alt_en": [
+    "Have some milk tea."
+   ],
+   "mn_latin": "Süütei tsai uugaarai."
+  },
+  {
+   "mn": "Хангалттай, баярлалаа.",
+   "en": "That's enough, thank you.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have enough, thank you."
+   ],
+   "mn_latin": "Khangalttai, bayarlalaa."
+  },
+  {
+   "mn": "Мах ав.",
+   "en": "Take some meat.",
+   "alt_mn": [
+    "Мах аваарай."
+   ],
+   "alt_en": [
+    "Please take some meat."
+   ],
+   "mn_latin": "Makh av."
+  },
+  {
+   "mn": "Талх идэх үү?",
+   "en": "Would you like some bread?",
+   "alt_mn": [
+    "Та талх идэх үү?"
+   ],
+   "alt_en": [
+    "Do you want some bread?"
+   ],
+   "mn_latin": "Talkh idekh üü?"
+  },
+  {
+   "mn": "Тийм, талх идье.",
+   "en": "Yes, I'll have some bread.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, let me have some bread."
+   ],
+   "mn_latin": "Tiim, talkh idiye."
+  },
+  {
+   "mn": "Ус уух уу?",
+   "en": "Would you like some water?",
+   "alt_mn": [
+    "Та ус уух уу?"
+   ],
+   "alt_en": [
+    "Do you want some water?"
+   ],
+   "mn_latin": "Us uukh uu?"
+  },
+  {
+   "mn": "Зочдод оройн хоол бэлэн боллоо.",
+   "en": "Dinner is ready for the guests.",
+   "alt_mn": [],
+   "alt_en": [
+    "The guests' dinner is ready."
+   ],
+   "mn_latin": "Zochdod oroin khool belen bolloo."
+  }
+ ],
+ "grammar": {
+  "title_en": "Offering with -х уу? / -х үү?",
+  "title_mn": "Санал болгох нь: -х уу? / -х үү?",
+  "explain_en": "To offer something, take the verb stem and add -х, then ask уу? or үү? (by vowel harmony). Цай уух уу? = Would you like some tea? Бууз идэх үү? = Would you like some buuz? Use уу? after words with back vowels such as а/о/у (уух уу?) and үү? after words with front vowels such as э/ө/ү/и (идэх үү?). In offers the food often has no ending (цай, бууз), but if it is specific, it takes the accusative: цайг, буузыг. A polite request to a guest uses -аарай/-ээрэй: уугаарай, идээрэй. To answer: Тийм, баярлалаа (Yes, please) or Үгүй, баярлалаа (No, thank you).",
+  "explain_mn": "Монгол хэлэнд санал болгохдоо үйл үгийн үндэс дээр -х нэмээд \"уу?\" эсвэл \"үү?\" гэж асууна (эгшгийн зохицлоор). а/о/у эгшигтэй үгийн дараа \"уу?\" (уух уу?), э/ө/ү/и эгшигтэй үгийн дараа \"үү?\" (идэх үү?) орно. Жишээ нь: Цай уух уу? (Would you like some tea?), Бууз идэх үү? (Would you like some buuz?). Санал болгоход хоолны нэр ихэвчлэн нөхцөлгүй байна (цай, бууз), харин тодорхой зүйлийг хэлбэл заахын тийн ялгалтай болно: цайг, буузыг. Зочинд эелдэг хүсэлт гаргахдаа -аарай/-ээрэй төгсгөл хэрэглэнэ: уугаарай, идээрэй. Хариулахдаа зөвшөөрвөл \"Тийм, баярлалаа\" (Yes, please), татгалзвал \"Үгүй, баярлалаа\" (No, thank you) гэнэ.",
+  "examples": [
+   {
+    "mn": "Цай уух уу?",
+    "en": "Would you like some tea?",
+    "mn_latin": "Tsai uukh uu?"
+   },
+   {
+    "mn": "Бууз идэх үү?",
+    "en": "Would you like some buuz?",
+    "mn_latin": "Buuz idekh üü?"
+   },
+   {
+    "mn": "Тийм, баярлалаа.",
+    "en": "Yes, please.",
+    "mn_latin": "Tiim, bayarlalaa."
+   },
+   {
+    "mn": "Үгүй, баярлалаа.",
+    "en": "No, thank you.",
+    "mn_latin": "Ügüi, bayarlalaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Цай ___ уу?",
+   "answer": "уух",
+   "options": [
+    "уух",
+    "идэх",
+    "уугаарай",
+    "ус"
+   ],
+   "translation": "Would you like some tea?",
+   "explain_en": "Цай (tea) goes with the verb уух (to drink). The question ending is уу?",
+   "explain_mn": "Цайг уудаг тул \"уух\" үйл үг тохирно. Дараа нь \"уу?\" асуух сул үг орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Бууз идэх ___?",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "уу",
+    "юу",
+    "бэ"
+   ],
+   "translation": "Would you like some buuz?",
+   "explain_en": "идэх has the vowel э, so the question particle is үү, not уу.",
+   "explain_mn": "\"идэх\" үгийн эгшиг нь э (эмэгтэй эгшиг) тул \"үү\" бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хангалттай, ___.",
+   "answer": "баярлалаа",
+   "options": [
+    "баярлалаа",
+    "идээрэй",
+    "бууз",
+    "тийм"
+   ],
+   "translation": "That's enough, thank you.",
+   "explain_en": "To politely refuse more food, say хангалттай, баярлалаа.",
+   "explain_mn": "Дахиж авахаас эелдгээр татгалзахдаа \"Хангалттай, баярлалаа\" гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ you like some tea?",
+   "answer": "Would",
+   "options": [
+    "Would",
+    "Do",
+    "Are",
+    "Can"
+   ],
+   "translation": "Цай уух уу?",
+   "explain_en": "Would you like...? is the polite way to offer something.",
+   "explain_mn": "\"Would you like ...?\" нь эелдэг санал болгох хэлбэр юм."
+  },
+  {
+   "lang": "en",
+   "text": "Yes, ___.",
+   "answer": "please",
+   "options": [
+    "please",
+    "enough",
+    "sorry",
+    "welcome"
+   ],
+   "translation": "Тийм, баярлалаа.",
+   "explain_en": "When you accept an offer, say Yes, please.",
+   "explain_mn": "Саналыг хүлээн авахдаа \"Yes, please\" гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "No, ___. I have enough.",
+   "answer": "thank you",
+   "options": [
+    "thank you",
+    "please",
+    "hello",
+    "tea"
+   ],
+   "translation": "Үгүй, баярлалаа. Надад хангалттай.",
+   "explain_en": "To refuse politely, say No, thank you.",
+   "explain_mn": "Эелдгээр татгалзахдаа \"No, thank you\" гэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Тавтай морил! Орж ирээрэй.",
+   "en": "Welcome! Please come in.",
+   "mn_latin": "Tavtai moril! Orj ireerei."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Баярлалаа.",
+   "en": "Thank you.",
+   "mn_latin": "Bayarlalaa."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сүүтэй цай уух уу?",
+   "en": "Would you like some milk tea?",
+   "mn_latin": "Süütei tsai uukh uu?"
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Тийм, баярлалаа.",
+   "en": "Yes, please.",
+   "mn_latin": "Tiim, bayarlalaa."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Бууз идээрэй. Мах аваарай.",
+   "en": "Please eat some buuz. Take some meat.",
+   "mn_latin": "Buuz ideerei. Makh avaarai."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Баярлалаа, бууз амттай байна.",
+   "en": "Thank you, the buuz is delicious.",
+   "mn_latin": "Bayarlalaa, buuz amttai baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Дахиад бууз идэх үү?",
+   "en": "Would you like some more buuz?",
+   "mn_latin": "Dakhiad buuz idekh üü?"
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Үгүй, хангалттай, баярлалаа.",
+   "en": "No, that's enough, thank you.",
+   "mn_latin": "Ügüi, khangalttai, bayarlalaa."
+  }
+ ],
+ "culture_note": {
+  "en": "In a Mongolian ger, guests are welcomed with tea, and hosts keep offering food as a sign of respect. It is polite to accept food or drink with your right hand (supporting your right elbow with your left hand) and at least taste it, even if you do not want much. If you are full, say хангалттай, баярлалаа with a smile.",
+  "mn": "Монгол гэрт зочныг цайгаар угтаж, хүндэтгэлийн үүднээс байнга хоол санал болгодог. Хоол, ундааг баруун гараараа (зүүн гараараа баруун тохойгоо түшиж) авах нь эелдэг бөгөөд цөөхөн ч гэсэн амсаж үзэх хэрэгтэй. Цадсан бол инээмсэглээд \"Хангалттай, баярлалаа\" гэж хэлнэ."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 12,
+  "notes": "Mostly good vocab and dialogue, but the Mongolian grammar explanation describes English instead of Mongolian, the accusative term in the intro is wrong ('шийтгэх' should be 'заахын'), and a few items need small corrections."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 11,
+  "notes": "Fixed the garbled intro, the spelling of эелдгээр, the mismatch between the grammar explanations, ambiguous blank options and the dialogue register.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Garbled sentence, misspelled 'илйэрхийлэх', and 'эелдэгээр' should be 'эелдгээр'"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "en",
+    "why": "ав is the plain imperative, not the polite 'please take'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Make the Mongolian match the English (vowel harmony and accusative were missing); 'захиалга' (an order) was the wrong word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'авах уу' and 'ууя уу' could also be correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "'нөхөс' is not a word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "э is not a 'сул' vowel"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Spelling: эелдгээр"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Spelling: эелдгээр"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "The plain imperative clashes with the host's polite register"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'амттай' is the natural word for delicious"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'Бас' means 'also', not 'more'"
+   }
+  ]
+ }
+}

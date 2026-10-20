@@ -1,0 +1,492 @@
+{
+ "intro_en": "You will learn to say what food you like and what you want to eat or drink. You will also learn to say if food is tasty or not.",
+ "intro_mn": "Та ямар хоолонд дуртайгаа, юу идэж, уухыг хүсэж байгаагаа хэлж сурна. Мөн хоол амттай эсвэл амтгүй гэдгийг хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "дуртай",
+   "en": "fond of; liking",
+   "pos": "adjective",
+   "example_mn": "Би буузанд дуртай.",
+   "example_en": "I like buuz.",
+   "mn_latin": "durtai"
+  },
+  {
+   "mn": "хүсэх",
+   "en": "to want",
+   "pos": "verb",
+   "example_mn": "Би цай хүсэж байна.",
+   "example_en": "I want some tea.",
+   "mn_latin": "khüsekh"
+  },
+  {
+   "mn": "амттай",
+   "en": "tasty, delicious",
+   "pos": "adjective",
+   "example_mn": "Энэ хоол амттай.",
+   "example_en": "This food is tasty.",
+   "mn_latin": "amttai"
+  },
+  {
+   "mn": "амтгүй",
+   "en": "tasteless, not tasty",
+   "pos": "adjective",
+   "example_mn": "Энэ шөл амтгүй.",
+   "example_en": "This soup is not tasty.",
+   "mn_latin": "amtgüi"
+  },
+  {
+   "mn": "бууз",
+   "en": "buuz (steamed dumpling)",
+   "pos": "noun",
+   "example_mn": "Бууз халуун байна.",
+   "example_en": "The buuz is hot.",
+   "mn_latin": "buuz"
+  },
+  {
+   "mn": "цай",
+   "en": "tea",
+   "pos": "noun",
+   "example_mn": "Би сүүтэй цайнд дуртай.",
+   "example_en": "I like milk tea.",
+   "mn_latin": "tsai"
+  },
+  {
+   "mn": "мах",
+   "en": "meat",
+   "pos": "noun",
+   "example_mn": "Тэр маханд дуртай.",
+   "example_en": "He likes meat.",
+   "mn_latin": "makh"
+  },
+  {
+   "mn": "талх",
+   "en": "bread",
+   "pos": "noun",
+   "example_mn": "Би талх хүсэж байна.",
+   "example_en": "I want some bread.",
+   "mn_latin": "talkh"
+  },
+  {
+   "mn": "ус",
+   "en": "water",
+   "pos": "noun",
+   "example_mn": "Би ус хүсэж байна.",
+   "example_en": "I want some water.",
+   "mn_latin": "us"
+  },
+  {
+   "mn": "их",
+   "en": "very; a lot",
+   "pos": "adverb",
+   "example_mn": "Энэ бууз их амттай.",
+   "example_en": "This buuz is very tasty.",
+   "mn_latin": "ikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би буузанд дуртай.",
+   "en": "I like buuz.",
+   "alt_mn": [],
+   "alt_en": [
+    "I am fond of buuz."
+   ],
+   "mn_latin": "Bi buuzand durtai."
+  },
+  {
+   "mn": "Би цай хүсэж байна.",
+   "en": "I want some tea.",
+   "alt_mn": [
+    "Би цай уумаар байна."
+   ],
+   "alt_en": [
+    "I would like some tea."
+   ],
+   "mn_latin": "Bi tsai khüsej baina."
+  },
+  {
+   "mn": "Энэ бууз амттай.",
+   "en": "This buuz is tasty.",
+   "alt_mn": [
+    "Энэ бууз сайхан амттай."
+   ],
+   "alt_en": [
+    "This buuz is delicious."
+   ],
+   "mn_latin": "Ene buuz amttai."
+  },
+  {
+   "mn": "Энэ шөл амтгүй.",
+   "en": "This soup is not tasty.",
+   "alt_mn": [
+    "Энэ шөлний амт муу."
+   ],
+   "alt_en": [
+    "This soup is tasteless."
+   ],
+   "mn_latin": "Ene shöl amtgüi."
+  },
+  {
+   "mn": "Та юу хүсэж байна вэ?",
+   "en": "What do you want?",
+   "alt_mn": [
+    "Та юу авмаар байна?"
+   ],
+   "alt_en": [
+    "What would you like?"
+   ],
+   "mn_latin": "Ta yuu khüsej baina ve?"
+  },
+  {
+   "mn": "Би талх хүсэж байна.",
+   "en": "I want some bread.",
+   "alt_mn": [],
+   "alt_en": [
+    "I would like some bread."
+   ],
+   "mn_latin": "Bi talkh khüsej baina."
+  },
+  {
+   "mn": "Та маханд дуртай юу?",
+   "en": "Do you like meat?",
+   "alt_mn": [],
+   "alt_en": [
+    "Are you fond of meat?"
+   ],
+   "mn_latin": "Ta makhand durtai yuu?"
+  },
+  {
+   "mn": "Тийм, би маханд дуртай.",
+   "en": "Yes, I like meat.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Tiim, bi makhand durtai."
+  },
+  {
+   "mn": "Үгүй, би маханд дургүй.",
+   "en": "No, I don't like meat.",
+   "alt_mn": [],
+   "alt_en": [
+    "No, I do not like meat."
+   ],
+   "mn_latin": "Ügüi, bi makhand durgüi."
+  },
+  {
+   "mn": "Би ус хүсэж байна.",
+   "en": "I want some water.",
+   "alt_mn": [
+    "Би ус уумаар байна."
+   ],
+   "alt_en": [
+    "I would like some water."
+   ],
+   "mn_latin": "Bi us khüsej baina."
+  },
+  {
+   "mn": "Тэр цайнд дуртай.",
+   "en": "He likes tea.",
+   "alt_mn": [],
+   "alt_en": [
+    "She likes tea."
+   ],
+   "mn_latin": "Ter tsaind durtai."
+  },
+  {
+   "mn": "Энэ цай их амттай.",
+   "en": "This tea is very tasty.",
+   "alt_mn": [],
+   "alt_en": [
+    "This tea is really delicious."
+   ],
+   "mn_latin": "Ene tsai ikh amttai."
+  }
+ ],
+ "grammar": {
+  "title_en": "Liking and wanting: дуртай and хүсэх",
+  "title_mn": "Like ба want: дуртай, хүсэх",
+  "explain_en": "In English you say 'I like buuz.' In Mongolian, learn it as a set phrase: Би буузанд дуртай. The food takes the dative ending (-д, -т, or -нд/-анд) before дуртай: бууз → буузанд, цай → цайнд, мах → маханд. For now, just remember these phrases. To say you want something, use the thing + хүсэж байна: Би цай хүсэж байна. The opposite of дуртай is дургүй: Би маханд дургүй.",
+  "explain_mn": "Монгол хэлэнд «дуртай» гэдгийг хэлэхдээ хоолны нэрийг өгөх-орших тийн ялгалтай (-д/-т/-нд) хэлнэ: Би буузанд дуртай, Би цайнд дуртай, Би маханд дуртай. «Хүсэх» нь «want» гэсэн утгатай: Би цай хүсэж байна. «Дургүй» нь «дуртай»-н эсрэг утгатай: Би маханд дургүй.",
+  "examples": [
+   {
+    "mn": "Би буузанд дуртай.",
+    "en": "I like buuz.",
+    "mn_latin": "Bi buuzand durtai."
+   },
+   {
+    "mn": "Би цайнд дуртай.",
+    "en": "I like tea.",
+    "mn_latin": "Bi tsaind durtai."
+   },
+   {
+    "mn": "Би цай хүсэж байна.",
+    "en": "I want some tea.",
+    "mn_latin": "Bi tsai khüsej baina."
+   },
+   {
+    "mn": "Би маханд дургүй.",
+    "en": "I don't like meat.",
+    "mn_latin": "Bi makhand durgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би бууз___ дуртай.",
+   "answer": "анд",
+   "options": [
+    "анд",
+    "ыг",
+    "аас",
+    "тай"
+   ],
+   "translation": "I like buuz.",
+   "explain_en": "With дуртай, the food takes the dative ending: бууз → буузанд. Би буузанд дуртай.",
+   "explain_mn": "«Дуртай»-н өмнө хоолны нэр өгөх-орших тийн ялгалтай байна: бууз → буузанд."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ хоол ___.",
+   "answer": "амттай",
+   "options": [
+    "амттай",
+    "дуртай",
+    "хүсэж",
+    "ус"
+   ],
+   "translation": "This food is tasty.",
+   "explain_en": "амттай means 'tasty'. дуртай means 'fond of', so it does not fit here.",
+   "explain_mn": "Хоолны амтыг хэлэхэд 'амттай' гэнэ. 'Дуртай' нь таалагдахыг хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Би ус ___ байна.",
+   "answer": "хүсэж",
+   "options": [
+    "хүсэж",
+    "дуртай",
+    "амттай",
+    "дургүй"
+   ],
+   "translation": "I want some water.",
+   "explain_en": "Хүсэж байна means 'I want' (right now).",
+   "explain_mn": "'Хүсэж байна' нь яг одоо хүсч буйг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ buuz.",
+   "answer": "like",
+   "options": [
+    "like",
+    "likes",
+    "liking",
+    "am like"
+   ],
+   "translation": "Би бууздад дуртай.",
+   "explain_en": "After 'I' we use the base form: I like.",
+   "explain_mn": "'I'-ийн дараа үйл үг үндсэн хэлбэрээрээ орно: I like."
+  },
+  {
+   "lang": "en",
+   "text": "I want ___ tea.",
+   "answer": "some",
+   "options": [
+    "some",
+    "a",
+    "an",
+    "many"
+   ],
+   "translation": "Би цай хүсэж байна.",
+   "explain_en": "Tea is uncountable, so we say 'some tea'.",
+   "explain_mn": "Tea тоолдоггүй нэр үг тул 'some tea' гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She ___ milk tea.",
+   "answer": "likes",
+   "options": [
+    "likes",
+    "like",
+    "liking",
+    "to like"
+   ],
+   "translation": "Тэр сүүтэй цайнд дуртай.",
+   "explain_en": "With he/she/it, add -s to the verb: she likes.",
+   "explain_mn": "He/she/it-ийн дараа үйл үгэнд -s залгана: she likes."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Сайн байна уу! Та юу хүсэж байна вэ?",
+   "en": "Hello! What do you want?",
+   "mn_latin": "Sain baina uu! Ta yuu khüsej baina ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Би бууз хүсэж байна.",
+   "en": "I want some buuz.",
+   "mn_latin": "Bi buuz khüsej baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Та буузанд дуртай юу?",
+   "en": "Do you like buuz?",
+   "mn_latin": "Ta buuzand durtai yuu?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тийм, би буузанд дуртай. Бууз их амттай!",
+   "en": "Yes, I like buuz. Buuz is very tasty!",
+   "mn_latin": "Tiim, bi buuzand durtai. Buuz ikh amttai!"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Цай хүсэж байна уу?",
+   "en": "Do you want some tea?",
+   "mn_latin": "Tsai khüsej baina uu?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тийм, би цай хүсэж байна.",
+   "en": "Yes, I want some tea.",
+   "mn_latin": "Tiim, bi tsai khüsej baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Энэ шөл амтгүй. Би шөлөнд дургүй.",
+   "en": "This soup is not tasty. I don't like soup.",
+   "mn_latin": "Ene shöl amtgüi. Bi shölönd durgüi."
+  }
+ ],
+ "culture_note": {
+  "en": "Buuz is the favorite food of many Mongolians, especially at Tsagaan Sar, when families make hundreds of them. Hosts often offer guests food and milk tea, and it is polite to accept at least a little.",
+  "mn": "Бууз бол олон монголчуудын дуртай хоол бөгөөд ялангуяа Цагаан сарын үеэр гэр бүлүүд олон зуугаар нь хийдэг. Гэрийн эзэд зочиндоо хоол, сүүтэй цай барьдаг бөгөөд ядаж бага зэрэг амсах нь эелдэг хэрэг юм."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 26,
+  "notes": "Several real errors (махан, бууздад blank, mismatched explanations); the Mongolian grammar explanation is also off-target. Some fixes above are low-confidence."
+ },
+ "opus_fix": {
+  "rating_before": 4,
+  "fixes": 19,
+  "notes": "The main problem was wrong dative forms (бууздад, махад, шөлд → буузанд, маханд, шөлөнд) throughout; the culture note wording is also fixed.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_mn",
+    "why": "The correct dative of бууз is буузанд, not бууздад"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "Мах takes a hidden н, so its dative is маханд"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "Correct dative form is буузанд"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "махад is a non-standard dative form"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "Correct dative form is маханд"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "Correct dative form is маханд"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The wrong forms бууздад/махад are corrected, and the confusing remark about бууздаа is removed"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Fixes the typo «к ончлолтой», the wrong case forms, and the missing grammatical term"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "Correct dative form is буузанд"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Correct dative form is маханд"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "бууз + анд = буузанд"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The answer is now анд"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Correct form is буузанд"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "The mixed-script term «дative кестэй» and the wrong form are fixed"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "A question with юу needs the particle вэ"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "Correct dative form is буузанд"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Correct dative form is буузанд"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "The dative of шөл is шөлөнд"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "«дэглэж» is wrong here, the milk tea was missing, and the text now matches the English"
+   }
+  ]
+ }
+}

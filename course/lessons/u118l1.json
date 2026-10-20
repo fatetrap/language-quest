@@ -1,0 +1,435 @@
+{
+ "intro_en": "Learn how to pass on and question gossip at work and in group chats. You'll use rumor vocabulary, the hearsay marker гэх (\"apparently, they say\"), and English non-defining relative clauses with who/which and commas.",
+ "intro_mn": "Ажил дээр болон бүлгийн чатад хов жив дамжуулах, түүнд эргэлзэж асуух ярианд суралцана. Цуу ярианы үгс, сонссон зүйлийг илэрхийлэх \"гэх\"-ийн хэрэглээ, мөн англи хэлний таслалтай who/which харьцангуй өгүүлбэрийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "цуу яриа",
+   "en": "rumor",
+   "pos": "noun",
+   "example_mn": "Оффист шинэ цуу яриа тарж байна.",
+   "example_en": "A new rumor is going around the office.",
+   "mn_latin": "tsuu yaria"
+  },
+  {
+   "mn": "хов жив",
+   "en": "gossip",
+   "pos": "noun",
+   "example_mn": "Үдийн цайны үеэр хов жив их ярьдаг.",
+   "example_en": "People gossip a lot over lunch.",
+   "mn_latin": "khov jiv"
+  },
+  {
+   "mn": "сураг",
+   "en": "news, word (about someone)",
+   "pos": "noun",
+   "example_mn": "Түүний сураг удаан сонсогдоогүй.",
+   "example_en": "We haven't heard any word from him in a long time.",
+   "mn_latin": "surag"
+  },
+  {
+   "mn": "баталгаагүй мэдээ",
+   "en": "unconfirmed news",
+   "pos": "noun phrase",
+   "example_mn": "Энэ бол баталгаагүй мэдээ.",
+   "example_en": "This is unconfirmed news.",
+   "mn_latin": "batalgaagüi medee"
+  },
+  {
+   "mn": "хов зөөх",
+   "en": "to spread gossip",
+   "pos": "verb",
+   "example_mn": "Хов зөөх нь сайн зүйл биш.",
+   "example_en": "Spreading gossip isn't a good thing.",
+   "mn_latin": "khov zöökh"
+  },
+  {
+   "mn": "тараах",
+   "en": "to spread, to circulate",
+   "pos": "verb",
+   "example_mn": "Энэ мэдээг хэн тараасан бэ?",
+   "example_en": "Who spread this news?",
+   "mn_latin": "taraakh"
+  },
+  {
+   "mn": "эх сурвалж",
+   "en": "source",
+   "pos": "noun",
+   "example_mn": "Эх сурвалж нь тодорхойгүй байна.",
+   "example_en": "The source is unclear.",
+   "mn_latin": "ekh survalj"
+  },
+  {
+   "mn": "хуурамч мэдээ",
+   "en": "fake news",
+   "pos": "noun phrase",
+   "example_mn": "Хуурамч мэдээ хурдан тархдаг.",
+   "example_en": "Fake news spreads fast.",
+   "mn_latin": "khuuramch medee"
+  },
+  {
+   "mn": "батлагдах",
+   "en": "to be confirmed",
+   "pos": "verb",
+   "example_mn": "Мэдээ албан ёсоор батлагдсан.",
+   "example_en": "The news has been officially confirmed.",
+   "mn_latin": "batlagdakh"
+  },
+  {
+   "mn": "уртын чих",
+   "en": "the grapevine, word of mouth",
+   "pos": "noun phrase",
+   "example_mn": "Би үүнийг уртын чихээр сонссон.",
+   "example_en": "I heard it through the grapevine.",
+   "mn_latin": "urtyn chikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай захирал ажлаасаа гарна гэх юм.",
+   "en": "Apparently our director is leaving his job.",
+   "alt_mn": [
+    "Манай захирал ажлаасаа гарах гэнэ."
+   ],
+   "alt_en": [
+    "I hear our director is quitting.",
+    "Rumor has it our director is leaving."
+   ],
+   "mn_latin": "Manai zakhiral ajlaasaa garna gekh yum."
+  },
+  {
+   "mn": "Компани ирэх сард шилжинэ гэх цуу яриа тарсан.",
+   "en": "A rumor has spread that the company is moving next month.",
+   "alt_mn": [
+    "Компани ирэх сард нүүнэ гэх цуу яриа тарсан."
+   ],
+   "alt_en": [
+    "There's a rumor going around that the company is moving next month."
+   ],
+   "mn_latin": "Kompani irekh sard shiljine gekh tsuu yaria tarsan."
+  },
+  {
+   "mn": "Энэ бол баталгаагүй мэдээ шүү, битгий тараарай.",
+   "en": "This is unconfirmed news, so please don't spread it.",
+   "alt_mn": [
+    "Энэ баталгаагүй мэдээ шүү, бүү тараарай."
+   ],
+   "alt_en": [
+    "This news isn't confirmed, so please don't pass it on."
+   ],
+   "mn_latin": "Ene bol batalgaagüi medee shüü, bitgii taraarai."
+  },
+  {
+   "mn": "Бат хов зөөх дуртай гэдгийг бүгд мэднэ.",
+   "en": "Everyone knows Bat loves spreading gossip.",
+   "alt_mn": [],
+   "alt_en": [
+    "Everybody knows that Bat loves to spread gossip."
+   ],
+   "mn_latin": "Bat khov zöökh durtai gedgiig bügd medne."
+  },
+  {
+   "mn": "Эх сурвалжийг нь шалгалгүйгээр бүлгийн чатад бүү хуваалцаарай.",
+   "en": "Don't share it in the group chat without checking the source.",
+   "alt_mn": [
+    "Эх сурвалжийг нь шалгахгүйгээр бүлгийн чатад битгий хуваалцаарай."
+   ],
+   "alt_en": [
+    "Please don't post it in the group chat before checking the source."
+   ],
+   "mn_latin": "Ekh survaljiig ni shalgalgüigeer bülgiin chatad büü khuvaaltsaarai."
+  },
+  {
+   "mn": "Цалин нэмэгдэнэ гэх мэдээлэл гарсан ч албан ёсоор батлагдаагүй байна.",
+   "en": "There are reports that salaries will go up, but it hasn't been officially confirmed.",
+   "alt_mn": [],
+   "alt_en": [
+    "Word is that salaries will be raised, but it hasn't been officially confirmed yet."
+   ],
+   "mn_latin": "Tsalin nemegdene gekh medeelel garsan ch alban yosoor batlagdaagüi baina."
+  },
+  {
+   "mn": "Сараагийн сураг сонссон уу? Тэр Солонгос руу явсан гэх юм.",
+   "en": "Have you heard anything about Saraa? Apparently she went to Korea.",
+   "alt_mn": [
+    "Сараагийн сураг сонссон уу? Солонгос явсан гэнэ."
+   ],
+   "alt_en": [
+    "Any news about Saraa? I hear she went to Korea."
+   ],
+   "mn_latin": "Saraagiin surag sonsson uu? Ter Solongos ruu yavsan gekh yum."
+  },
+  {
+   "mn": "Хэнтэй ч бараг ярьдаггүй манай менежер гэнэт хурал зарлав.",
+   "en": "Our manager, who hardly talks to anyone, suddenly called a meeting.",
+   "alt_mn": [
+    "Хэнтэй ч бараг ярьдаггүй манай менежер гэнэт хурал зарласан."
+   ],
+   "alt_en": [
+    "Our manager, who rarely talks to anyone, suddenly called a meeting."
+   ],
+   "mn_latin": "Khentei ch barag yaridaggüi manai myenyejyer genet khural zarlav."
+  },
+  {
+   "mn": "Тавин гаруй гишүүнтэй бүлгийн чат нэг шөнийн дотор цуу яриагаар дүүрсэн.",
+   "en": "The group chat, which has over fifty members, filled up with rumors overnight.",
+   "alt_mn": [],
+   "alt_en": [
+    "The group chat, which has more than fifty members, was flooded with rumors overnight."
+   ],
+   "mn_latin": "Tavin garui gishüüntei bülgiin chat neg shöniin dotor tsuu yariagaar düürsen."
+  },
+  {
+   "mn": "Хүний нөөцөд ажилладаг Туяа энэ мэдээг худал гэж хэлсэн.",
+   "en": "Tuya, who works in HR, said the news is false.",
+   "alt_mn": [
+    "Хүний нөөцийн хэлтэст ажилладаг Туяа энэ мэдээг худал гэсэн."
+   ],
+   "alt_en": [
+    "Tuya, who works in HR, said that the news was false."
+   ],
+   "mn_latin": "Khünii nöötsöd ajilladag Tuyaa ene medeeg khudal gej khelsen."
+  },
+  {
+   "mn": "Хов жив ихэвчлэн ганц хүнээс эхэлдэг.",
+   "en": "Gossip usually starts with one person.",
+   "alt_mn": [
+    "Хов жив ихэнхдээ нэг хүнээс эхэлдэг."
+   ],
+   "alt_en": [
+    "Gossip usually starts with a single person."
+   ],
+   "mn_latin": "Khov jiv ikhevchlen gants khünees ekheldeg."
+  },
+  {
+   "mn": "Хуурамч болох нь тогтоогдсон тэр пост мянга мянган удаа хуваалцагдсан.",
+   "en": "That post, which turned out to be fake, was shared thousands of times.",
+   "alt_mn": [],
+   "alt_en": [
+    "That post, which was later shown to be fake, got shared thousands of times."
+   ],
+   "mn_latin": "Khuuramch bolokh ni togtoogdson ter post myanga myangan udaa khuvaaltsagdsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Hearsay with гэх & non-defining relative clauses",
+  "title_mn": "Сонссон зүйлийг илэрхийлэх \"гэх\" ба таслалтай who/which өгүүлбэр",
+  "explain_en": "In Mongolian, the verb гэх (\"to say\") marks information you heard from others but haven't checked. Put a full statement before гэх юм at the end of a sentence to mean \"apparently / I hear that...\": Тэр гэрлэсэн гэх юм. \"Apparently he got married.\" (In speech, гэнэ works the same way.) Inside a sentence, гэх can link a statement to a noun such as мэдээлэл, цуу яриа or сураг: Оффис хаагдана гэх мэдээлэл. \"Reports that the office will close.\" This lets you pass something on while signaling that you are not the source and can't vouch for it. In English, extra information about a person or thing that is already clear goes in a non-defining relative clause. Use who for people and which for things: Tuya, who works in HR, said it's false. You can remove this extra part and the main meaning stays the same, so it is set off by commas on both sides. Never use that in this kind of clause. Mongolian puts the same information before the noun as a modifier: Хүний нөөцөд ажилладаг Туяа...",
+  "explain_mn": "Монгол хэлэнд \"гэх\" үйл үг нь бусдаас сонссон, гэхдээ өөрөө нягталж амжаагүй мэдээллийг заадаг. Өгүүлбэрийн төгсгөлд бүтэн өгүүлбэрийн дараа \"гэх юм\" гэж хэлбэл \"... гэнэ лээ, ... гэж сонссон\" гэсэн утгатай болно: Тэр гэрлэсэн гэх юм. (Ярианд \"гэнэ\" ч мөн адил хэрэглэгддэг.) Өгүүлбэр дотор \"гэх\" нь мэдээлэл, цуу яриа, сураг зэрэг нэрийг тодотгоно: Оффис хаагдана гэх мэдээлэл. Ингэснээр та тухайн мэдээний эх сурвалж биш, баталж чадахгүй гэдгээ илэрхийлнэ. Англи хэлэнд аль хэдийн тодорхой болсон хүн, юмны тухай нэмэлт мэдээлэл өгөхдөө таслалтай харьцангуй өгүүлбэр (non-defining relative clause) хэрэглэдэг. Хүнд who, юманд which хэрэглэнэ: Tuya, who works in HR, said it's false. Энэ нэмэлт хэсгийг хасахад өгүүлбэрийн үндсэн утга өөрчлөгдөхгүй. Тиймээс түүнийг хоёр талаас нь таслалаар тусгаарладаг. Анхаарах зүйл: ийм өгүүлбэрт that хэрэглэж болохгүй. Монгол хэлэнд энэ утгыг тодотгол болгон нэрийн өмнө тавьдаг: Хүний нөөцөд ажилладаг Туяа...",
+  "examples": [
+   {
+    "mn": "Тэр хоёр салсан гэх юм.",
+    "en": "Apparently those two broke up.",
+    "mn_latin": "Ter khoyor salsan gekh yum."
+   },
+   {
+    "mn": "Шинэ дарга гадаадаас ирнэ гэх цуу яриа байна.",
+    "en": "There's a rumor that the new boss is coming from abroad.",
+    "mn_latin": "Shine darga gadaadaas irne gekh tsuu yaria baina."
+   },
+   {
+    "mn": "Дарханд амьдардаг миний үеэл ч бас ийм юм сонссон.",
+    "en": "My cousin, who lives in Darkhan, heard the same thing.",
+    "mn_latin": "Darkhand amidardag minii üyeel ch bas iim yum sonsson."
+   },
+   {
+    "mn": "Өчигдөр нийтлэгдсэн тэр бичлэг хуурамч байсан.",
+    "en": "That video, which was posted yesterday, was fake.",
+    "mn_latin": "Öchigdör niitlegdsen ter bichleg khuuramch baisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэр хоёр салсан ___ юм.",
+   "answer": "гэх",
+   "options": [
+    "гэх",
+    "гэж",
+    "гэвч",
+    "гээд"
+   ],
+   "translation": "Apparently those two broke up.",
+   "explain_en": "The fixed hearsay pattern is \"statement + гэх юм\", meaning \"apparently / I hear\". Гэж needs a following verb, гэвч means \"but\", and гээд means \"having said\".",
+   "explain_mn": "Сонссон зүйлийг дамжуулахдаа \"... гэх юм\" гэсэн тогтвортой хэлбэр хэрэглэнэ. \"Гэж\"-ийн дараа үйл үг шаардлагатай, \"гэвч\" нь \"гэхдээ\" гэсэн утгатай, \"гээд\" нь дараалсан үйлийг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ цуу яриаг хэн ___ бэ?",
+   "answer": "тараасан",
+   "options": [
+    "тараасан",
+    "тарсан",
+    "тараагдсан",
+    "тархсан"
+   ],
+   "translation": "Who spread this rumor?",
+   "explain_en": "The sentence has a direct object (цуу яриаг) and a doer (хэн), so you need the transitive active verb тараах in the past: тараасан. Тарсан and тархсан both mean \"spread\" on its own (intransitive), and тараагдсан is passive.",
+   "explain_mn": "Өгүүлбэрт заахын тийн ялгалтай нэр (цуу яриаг) болон үйлдэгч (хэн) байгаа тул үйлдэхийн хэвийн \"тараасан\" хэлбэр зөв. \"Тарсан\", \"тархсан\" нь өөрөө тархах утгатай, \"тараагдсан\" нь үйлдэгдэхүйн хэв юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Эх ___ нь тодорхойгүй мэдээнд итгэж болохгүй.",
+   "answer": "сурвалж",
+   "options": [
+    "сурвалж",
+    "сураг",
+    "яриа",
+    "мэдээ"
+   ],
+   "translation": "You shouldn't trust news whose source is unclear.",
+   "explain_en": "Эх сурвалж is a fixed compound meaning \"source\". Сураг, яриа and мэдээ don't combine with эх to mean that.",
+   "explain_mn": "\"Эх сурвалж\" нь мэдээллийн гарал үүслийг заадаг тогтвортой хоршоо үг. \"Сураг\", \"яриа\", \"мэдээ\" нь \"эх\"-тэй ийм утгаар хослохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "My cousin, ___ lives in Darkhan, heard the same rumor.",
+   "answer": "who",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whom"
+   ],
+   "translation": "Дарханд амьдардаг миний үеэл ч бас ийм цуу яриа сонссон.",
+   "explain_en": "For a person in a non-defining clause (between commas), use who. That is never used after a comma. Which is for things, and whom is for objects, not subjects.",
+   "explain_mn": "Таслалтай нэмэлт өгүүлбэрт хүний тухай ярихдаа \"who\" хэрэглэнэ. Таслалын дараа \"that\" хэрэглэж болохгүй. \"Which\" нь юманд, \"whom\" нь тусагдахууны үүрэгт хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The video, ___ was posted yesterday, is fake.",
+   "answer": "which",
+   "options": [
+    "which",
+    "who",
+    "that",
+    "what"
+   ],
+   "translation": "Өчигдөр нийтлэгдсэн тэр бичлэг хуурамч.",
+   "explain_en": "A video is a thing, and the clause is set off by commas, so which is required. That can't follow a comma in this structure.",
+   "explain_mn": "Бичлэг бол юм бөгөөд нэмэлт хэсэг нь таслалаар тусгаарлагдсан тул \"which\" хэрэглэнэ. Ийм бүтцэд таслалын дараа \"that\" орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The rumor, which started in accounting, ___ through the whole office by lunch yesterday.",
+   "answer": "spread",
+   "options": [
+    "spread",
+    "spreading",
+    "spreaded",
+    "have spread"
+   ],
+   "translation": "Нягтлан бодох хэлтэст эхэлсэн цуу яриа өчигдөр үдийн цайны цаг гэхэд бүх оффист тарсан.",
+   "explain_en": "The main verb belongs to \"The rumor\", and the clause between the commas doesn't change that. Spread is irregular: spread–spread–spread. Spreaded is not a word, and \"have spread\" doesn't fit with \"yesterday\".",
+   "explain_mn": "Таслал доторх хэсгийг алгасаад үндсэн өгүүлэгдэхүүн \"The rumor\"-т тохирох үйл үгийг сонгоно. \"Spread\" нь дүрмийн бус үйл үг тул өнгөрсөн цагт хэлбэр нь өөрчлөгдөхгүй. \"Spreaded\" гэж байхгүй, \"yesterday\"-тэй \"have spread\" хэрэглэхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Номин",
+   "mn": "Сонссон уу? Манай хэлтсийг өөр байр руу нүүлгэнэ гэх юм.",
+   "en": "Did you hear? Apparently they're moving our department to another building.",
+   "mn_latin": "Sonsson uu? Manai kheltsiig öör bair ruu nüülgene gekh yum."
+  },
+  {
+   "speaker": "Тэмүүжин",
+   "mn": "Хэнээс сонсов? Албан ёсны мэдээ юм уу?",
+   "en": "Who'd you hear that from? Is it official?",
+   "mn_latin": "Khenees sonsov? Alban yosny medee yum uu?"
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Үгүй ээ, удирдлагатай ойр ажилладаг Ганаа бүлгийн чатад бичсэн.",
+   "en": "No, Ganaa, who works closely with management, posted it in the group chat.",
+   "mn_latin": "Ügüi ee, udirdlagatai oir ajilladag Ganaa bülgiin chatad bichsen."
+  },
+  {
+   "speaker": "Тэмүүжин",
+   "mn": "Ганаа чинь хов зөөх дуртай хүн шүү дээ. Өнгөрсөн сард цалин хасагдана гэх цуу яриа тараасан.",
+   "en": "Ganaa loves spreading gossip, you know. Last month he spread a rumor that salaries would be cut.",
+   "mn_latin": "Ganaa chini khov zöökh durtai khün shüü dee. Öngörsön sard tsalin khasagdana gekh tsuu yaria taraasan."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Тийм ээ, тэр нь худал болж таарсан.",
+   "en": "Right, and that turned out to be false.",
+   "mn_latin": "Tiim ee, ter ni khudal bolj taarsan."
+  },
+  {
+   "speaker": "Тэмүүжин",
+   "mn": "Тэгэхээр баталгаагүй мэдээнд шууд итгэх хэрэггүй. Хүний нөөцийн Туяагаас асууя.",
+   "en": "So we shouldn't just believe unconfirmed news. Let's ask Tuya, who's in HR.",
+   "mn_latin": "Tegekheer batalgaagüi medeend shuud itgekh khereggüi. Khünii nöötsiin Tuyaagaas asuuya."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "За, тэгье. Тэр болтол чатад юу ч бичихгүй ээ.",
+   "en": "Okay, let's do that. Until then, I won't write anything in the chat.",
+   "mn_latin": "Za, tegiye. Ter boltol chatad yuu ch bichikhgüi ee."
+  }
+ ],
+ "culture_note": {
+  "en": "On the vast steppe, news traditionally traveled from ger to ger by word of mouth, which Mongolians call \"уртын чих\" (literally \"the long ear\"). It reached far-off places surprisingly fast but often changed along the way. Today the long ear lives on in Facebook groups and Messenger chats, which are hugely popular in Mongolia. That's why phrases like \"... гэх юм\" and \"эх сурвалж нь хаана вэ?\" (\"where's the source?\") come in handy.",
+  "mn": "Уудам талд мэдээ эрт цагаас айлаас айлд амаар дамжин тархдаг байсан бөгөөд үүнийг \"уртын чих\" гэдэг. Ийм мэдээ алс газар гайхмаар хурдан хүрдэг ч замдаа их өөрчлөгддөг байжээ. Өнөөдөр уртын чих Монголд маш түгээмэл Facebook групп, Messenger чатад үргэлжилж байна. Тиймээс \"... гэх юм\", \"эх сурвалж нь хаана вэ?\" гэх мэт хэллэг хэрэг болно."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A solid, natural lesson with accurate explanations. One fill-in-the-blank item had two correct options, and one translation was slightly unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 8,
+  "notes": "Main problem: the en and mn grammar explanations each covered only one of the two topics. Other fixes: the hearsay verb form and the fill-blank explanations.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en explained only гэх; it must cover both topics like the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explained only relative clauses; it must cover гэх too and match en"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "The hearsay statement needs the finite future form гарна before гэх юм"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Did not explain the тархсан option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Цуу яриаг is in the accusative (заахын тийн ялгал), not тусах; also did not explain тархсан"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Did not match mn, which covers all options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "The \"which is for things\" wording was ambiguous"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "No change needed; the mn version already matches en"
+   }
+  ]
+ }
+}

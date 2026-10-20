@@ -1,0 +1,436 @@
+{
+ "intro_en": "Learn to talk about an overflowing to-do list, endless new requests, and setting priorities. You'll use the Mongolian pattern -ж барахгүй to describe amounts that are too many to count or too much to handle.",
+ "intro_mn": "Энэ хичээлээр хэтэрхий урт болсон ажлын жагсаалт, тасралтгүй ирэх шинэ хүсэлт, тэргүүлэх ач холбогдол тогтоох тухай ярьж сурна. Англи хэлний deal with / cope with + -ing бүтцийг ашиглаж, хүнд ачааллыг хэрхэн даван туулж байгаагаа илэрхийлнэ.",
+ "vocab": [
+  {
+   "mn": "даалгавар",
+   "en": "task, assignment",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр надад гурван яаралтай даалгавар байна.",
+   "example_en": "I have three urgent tasks today.",
+   "mn_latin": "daalgavar"
+  },
+  {
+   "mn": "тэргүүлэх ач холбогдол",
+   "en": "priority",
+   "pos": "noun phrase",
+   "example_mn": "Энэ төсөл хамгийн тэргүүлэх ач холбогдолтой.",
+   "example_en": "This project is the top priority.",
+   "mn_latin": "tergüülekh ach kholbogdol"
+  },
+  {
+   "mn": "жагсаалт",
+   "en": "list",
+   "pos": "noun",
+   "example_mn": "Хийх ажлын жагсаалт маань дуусахгүй нь.",
+   "example_en": "My to-do list never ends.",
+   "mn_latin": "jagsaalt"
+  },
+  {
+   "mn": "хүсэлт",
+   "en": "request",
+   "pos": "noun",
+   "example_mn": "Даргаас шинэ хүсэлт ирлээ.",
+   "example_en": "A new request came in from the boss.",
+   "mn_latin": "khüselt"
+  },
+  {
+   "mn": "эцсийн хугацаа",
+   "en": "deadline",
+   "pos": "noun phrase",
+   "example_mn": "Эцсийн хугацаа маргааш дуусна.",
+   "example_en": "The deadline is tomorrow.",
+   "mn_latin": "etssiin khugatsaa"
+  },
+  {
+   "mn": "яаралтай",
+   "en": "urgent",
+   "pos": "adjective",
+   "example_mn": "Энэ имэйл яаралтай биш.",
+   "example_en": "This email isn't urgent.",
+   "mn_latin": "yaaraltai"
+  },
+  {
+   "mn": "хойшлуулах",
+   "en": "to postpone, to put off",
+   "pos": "verb",
+   "example_mn": "Уулзалтыг баасан гараг хүртэл хойшлуулъя.",
+   "example_en": "Let's postpone the meeting until Friday.",
+   "mn_latin": "khoishluulakh"
+  },
+  {
+   "mn": "ачаалал",
+   "en": "workload, load",
+   "pos": "noun",
+   "example_mn": "Энэ сард ажлын ачаалал их байна.",
+   "example_en": "The workload is heavy this month.",
+   "mn_latin": "achaalal"
+  },
+  {
+   "mn": "даван туулах",
+   "en": "to cope with, to get through",
+   "pos": "verb",
+   "example_mn": "Бид энэ хүнд үеийг даван туулна.",
+   "example_en": "We'll get through this hard time.",
+   "mn_latin": "davan tuulakh"
+  },
+  {
+   "mn": "хуваарилах",
+   "en": "to distribute, to delegate",
+   "pos": "verb",
+   "example_mn": "Менежер даалгавруудыг багийнханд хуваарилав.",
+   "example_en": "The manager delegated the tasks to the team.",
+   "mn_latin": "khuvaarilakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний хийх ажлын жагсаалт өдөр бүр уртсаж байна.",
+   "en": "My to-do list is getting longer every day.",
+   "alt_mn": [
+    "Хийх ажлын жагсаалт маань өдөр ирэх тусам уртсаж байна."
+   ],
+   "alt_en": [
+    "My to-do list gets longer every day."
+   ],
+   "mn_latin": "Minii khiikh ajlyn jagsaalt ödör bür urtsaj baina."
+  },
+  {
+   "mn": "Шинэ хүсэлтүүд тоолж барахгүй олон ирж байна.",
+   "en": "Countless new requests keep coming in.",
+   "alt_mn": [
+    "Тоолж барахгүй олон шинэ хүсэлт ирж байна."
+   ],
+   "alt_en": [
+    "More new requests than I can count keep coming in."
+   ],
+   "mn_latin": "Shine khüseltüüd toolj barakhgüi olon irj baina."
+  },
+  {
+   "mn": "Энэ долоо хоногт ажил хийж барахгүй их байна.",
+   "en": "There's more work this week than I can possibly get done.",
+   "alt_mn": [
+    "Энэ долоо хоногт хийж барахгүй их ажил байна."
+   ],
+   "alt_en": [
+    "This week there's way too much work to get done."
+   ],
+   "mn_latin": "Ene doloo khonogt ajil khiij barakhgüi ikh baina."
+  },
+  {
+   "mn": "Аль даалгавар хамгийн тэргүүлэх ач холбогдолтой вэ?",
+   "en": "Which task is the top priority?",
+   "alt_mn": [
+    "Аль даалгаврыг хамгийн түрүүнд хийх вэ?"
+   ],
+   "alt_en": [
+    "Which task has the highest priority?"
+   ],
+   "mn_latin": "Ali daalgavar khamgiin tergüülekh ach kholbogdoltoi ve?"
+  },
+  {
+   "mn": "Би орой бүр илүү цагаар ажиллахад тэсэхээ байлаа.",
+   "en": "I can't cope with working late every night anymore.",
+   "alt_mn": [
+    "Орой бүр илүү цагаар ажиллахад би цаашид тэсэхгүй нь."
+   ],
+   "alt_en": [
+    "I can no longer cope with working overtime every night."
+   ],
+   "mn_latin": "Bi oroi bür ilüü tsagaar ajillakhad tesekhee bailaa."
+  },
+  {
+   "mn": "Та ийм их ачааллыг яаж даван туулдаг вэ?",
+   "en": "How do you cope with such a heavy workload?",
+   "alt_mn": [
+    "Та ийм их ачааллыг яаж даадаг вэ?"
+   ],
+   "alt_en": [
+    "How do you deal with such a heavy workload?"
+   ],
+   "mn_latin": "Ta iim ikh achaallyg yaaj davan tuuldag ve?"
+  },
+  {
+   "mn": "Яаралтай биш ажлуудыг дараа долоо хоног руу хойшлуулъя.",
+   "en": "Let's put off the non-urgent tasks until next week.",
+   "alt_mn": [
+    "Яаралтай биш ажлуудаа ирэх долоо хоног руу хойшлуулъя."
+   ],
+   "alt_en": [
+    "Let's postpone the non-urgent tasks to next week."
+   ],
+   "mn_latin": "Yaaraltai bish ajluudyg daraa doloo khonog ruu khoishluulya."
+  },
+  {
+   "mn": "Эцсийн хугацаа ойртох тусам уншиж барахгүй олон имэйл ирдэг.",
+   "en": "As the deadline gets closer, more emails come in than I can read.",
+   "alt_mn": [
+    "Эцсийн хугацаа ойртох тусам имэйл уншиж барахгүй олон ирдэг."
+   ],
+   "alt_en": [
+    "As the deadline approaches, I get more emails than I can read."
+   ],
+   "mn_latin": "Etssiin khugatsaa oirtokh tusam unshij barakhgüi olon imeil irdeg."
+  },
+  {
+   "mn": "Зарим даалгаврыг багийнхандаа хуваарилах хэрэгтэй.",
+   "en": "You need to delegate some tasks to your team.",
+   "alt_mn": [
+    "Та зарим ажлаа багийнхандаа хуваарилах хэрэгтэй."
+   ],
+   "alt_en": [
+    "You should delegate some of the tasks to your team."
+   ],
+   "mn_latin": "Zarim daalgavryg bagiinkhandaa khuvaarilakh kheregtei."
+  },
+  {
+   "mn": "Цаг тутам шинэ хүсэлт ирэх нь надад хэцүү байна.",
+   "en": "I find it hard to deal with getting new requests every hour.",
+   "alt_mn": [
+    "Цаг тутам шинэ хүсэлт авах нь надад хэцүү байна."
+   ],
+   "alt_en": [
+    "Getting new requests every hour is hard for me to deal with."
+   ],
+   "mn_latin": "Tsag tutam shine khüselt irekh ni nadad khetsüü baina."
+  },
+  {
+   "mn": "Би уулзалтаас уулзалт руу гүйхэд дасаж чадахгүй байна.",
+   "en": "I can't get used to running from meeting to meeting.",
+   "alt_mn": [
+    "Уулзалтаас уулзалт руу гүйх нь надад хэцүү байна."
+   ],
+   "alt_en": [
+    "I'm struggling with running from one meeting to the next."
+   ],
+   "mn_latin": "Bi uulzaltaas uulzalt ruu güikhed dasaj chadakhgüi baina."
+  },
+  {
+   "mn": "Жагсаалтаа тэргүүлэх ач холбогдлоор нь эрэмбэлбэл амар болно.",
+   "en": "If you sort your list by priority, things will get easier.",
+   "alt_mn": [
+    "Жагсаалтаа ач холбогдлоор нь эрэмбэлбэл илүү амар болно."
+   ],
+   "alt_en": [
+    "Sorting your list by priority will make things easier."
+   ],
+   "mn_latin": "Jagsaaltaa tergüülekh ach kholbogdloor ni erembelbel amar bolno."
+  }
+ ],
+ "grammar": {
+  "title_en": "Too much to handle: -ж барахгүй",
+  "title_mn": "deal with / cope with + -ing",
+  "explain_en": "To say something is too much to count, finish, or handle, put a verb in its -ж/-ч form (тоолж, хийж, уншиж, идэж) and add барахгүй, literally \"can't finish doing it.\" Use it as an adverb before an amount word (тоолж барахгүй олон = countless) or before a noun (хийж барахгүй ажил = more work than you can do). It sounds emotional and natural, much like English \"way too many to...\" or \"endless.\" A more literary form, тоолж баршгүй, appears in writing.",
+  "explain_mn": "Англи хэлэнд хүнд нөхцөл байдал, асуудлыг \"даван туулах, зохицох\" гэж хэлэхдээ deal with эсвэл cope with хэрэглэнэ. Үүний ард нэр үг (deal with stress) эсвэл -ing хэлбэрийн үйл үг (cope with working late) ирнэ. Энэ бол with гэдэг угтвар үгийн дараа ирж буй үйл үг тул заавал -ing хэлбэртэй байна. Тиймээс \"to work\" гэж бичихгүй. cope with нь ихэвчлэн сэтгэл санааны хувьд тэсэхийг илэрхийлдэг бол deal with нь асуудлыг шийдэж зохицуулахыг илүү заадаг.",
+  "examples": [
+   {
+    "mn": "Надад тоолж барахгүй олон асуулт байна.",
+    "en": "I have more questions than I can count.",
+    "mn_latin": "Nadad toolj barakhgüi olon asuult baina."
+   },
+   {
+    "mn": "Энэ сард хийж барахгүй их ажил байна.",
+    "en": "There's way too much work to handle this month.",
+    "mn_latin": "Ene sard khiij barakhgüi ikh ajil baina."
+   },
+   {
+    "mn": "Би орой бүр илүү цагаар ажиллахад тэсэхээ байлаа.",
+    "en": "I can't cope with working overtime every night anymore.",
+    "mn_latin": "Bi oroi bür ilüü tsagaar ajillakhad tesekhee bailaa."
+   },
+   {
+    "mn": "Тэр стресстэй нөхцөлд ажиллахдаа сайн зохицож чаддаг.",
+    "en": "She deals well with working under stress.",
+    "mn_latin": "Ter stryesstei nökhtsöld ajillakhdaa sain zokhitsoj chaddag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ долоо хоногт надад ажил хийж ___ их байна.",
+   "answer": "барахгүй",
+   "options": [
+    "барахгүй",
+    "баримаар",
+    "барьж",
+    "бардаг"
+   ],
+   "translation": "This week I have more work than I can possibly get done.",
+   "explain_en": "After a -ж verb form, барахгүй means \"can't finish,\" so хийж барахгүй их = too much to get done. The other forms don't create this meaning.",
+   "explain_mn": "-ж хэлбэрийн үйл үгийн дараа барахгүй ирж \"дуусгаж чадахгүй, хэтэрхий их\" гэсэн утга өгнө. Бусад хэлбэр энэ утгыг илэрхийлэхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Аль даалгавар хамгийн тэргүүлэх ач ___ вэ?",
+   "answer": "холбогдолтой",
+   "options": [
+    "холбогдолтой",
+    "холбогдол",
+    "холбогдлоор",
+    "холбогдлын"
+   ],
+   "translation": "Which task is the top priority?",
+   "explain_en": "The suffix -той turns the noun into \"having priority.\" Here it works as the predicate describing the subject (даалгавар).",
+   "explain_mn": "-той дагавар нь \"ач холбогдлыг агуулсан\" гэсэн тодотгол үүсгэнэ. Өгүүлэхүүн болох \"даалгавар\"-ын дараа энэ хэлбэр л зөв."
+  },
+  {
+   "lang": "mn",
+   "text": "Яаралтай биш ажлуудаа дараа долоо хоног руу ___.",
+   "answer": "хойшлуулъя",
+   "options": [
+    "хойшлуулъя",
+    "хойшлуулалт",
+    "хойшлуулагч",
+    "хойшлуулсан"
+   ],
+   "translation": "Let's put off the non-urgent tasks until next week.",
+   "explain_en": "-ъя is the \"let's\" ending, which suits a suggestion. The -агч form is a noun (\"one who postpones\"), and -сан describes something already done.",
+   "explain_mn": "-ъя дагавар \"хийе\" гэсэн санал илэрхийлнэ. -агч нь \"хойшлуулдаг хүн\" гэсэн нэр үг, -сан нь өнгөрсөн цагийг заана."
+  },
+  {
+   "lang": "en",
+   "text": "I can't cope with ___ late every night.",
+   "answer": "working",
+   "options": [
+    "working",
+    "work",
+    "to work",
+    "worked"
+   ],
+   "translation": "Би орой бүр илүү цагаар ажиллахад тэсэхгүй байна.",
+   "explain_en": "With is a preposition, so the verb after it takes the -ing form: cope with working.",
+   "explain_mn": "with бол угтвар үг тул ард нь ирэх үйл үг -ing хэлбэртэй байна: cope with working."
+  },
+  {
+   "lang": "en",
+   "text": "How do you deal ___ so many requests?",
+   "answer": "with",
+   "options": [
+    "with",
+    "of",
+    "about",
+    "for"
+   ],
+   "translation": "Та ийм олон хүсэлтийг яаж зохицуулдаг вэ?",
+   "explain_en": "The fixed phrase is deal with. Deal about and deal for aren't used in this meaning.",
+   "explain_mn": "\"Зохицуулах, даван туулах\" гэсэн утгатай тогтвортой хэллэг нь deal with юм."
+  },
+  {
+   "lang": "en",
+   "text": "She's good at dealing with ___ under pressure.",
+   "answer": "working",
+   "options": [
+    "working",
+    "worked",
+    "to work",
+    "works"
+   ],
+   "translation": "Тэр дарамттай нөхцөлд ажиллахдаа сайн зохицож чаддаг.",
+   "explain_en": "After dealing with, the next verb needs -ing: dealing with working.",
+   "explain_mn": "dealing with-ийн дараа үйл үг мөн л -ing хэлбэртэй ирнэ: dealing with working."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Анар",
+   "mn": "Тэмүүлэн, чи зүгээр үү? Царай чинь их ядарсан харагдаж байна.",
+   "en": "Temuulen, are you okay? You look really tired.",
+   "mn_latin": "Temüülen, chi zügeer üü? Tsarai chini ikh yadarsan kharagdaj baina."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Үнэнийг хэлэхэд үгүй. Өглөөнөөс хойш тоолж барахгүй олон шинэ хүсэлт ирлээ.",
+   "en": "Honestly, no. I've gotten more new requests than I can count since this morning.",
+   "mn_latin": "Üneniig khelekhed ügüi. Öglöönöös khoish toolj barakhgüi olon shine khüselt irlee."
+  },
+  {
+   "speaker": "Анар",
+   "mn": "Жагсаалтаа харуулаач. Аль нь хамгийн тэргүүлэх ач холбогдолтой вэ?",
+   "en": "Show me your list. Which one is the top priority?",
+   "mn_latin": "Jagsaaltaa kharuulaach. Ali ni khamgiin tergüülekh ach kholbogdoltoi ve?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Бүгд яаралтай гэнэ. Би бүх зүйлийг нэг дор хийхэд тэсэхээ байлаа.",
+   "en": "They say everything is urgent. I can't cope with doing everything at once anymore.",
+   "mn_latin": "Bügd yaaraltai gene. Bi bükh züiliig neg dor khiikhed tesekhee bailaa."
+  },
+  {
+   "speaker": "Анар",
+   "mn": "Тайлангийн эцсийн хугацаа баасан гараг. Бусдыг нь хойшлуулж болно.",
+   "en": "The report deadline is Friday. You can put the rest off.",
+   "mn_latin": "Tailangiin etssiin khugatsaa baasan garag. Busdyg ni khoishluulj bolno."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Харин танилцуулгыг яах вэ? Хийж барахгүй их ажил байна.",
+   "en": "But what about the presentation? It's way too much work to handle.",
+   "mn_latin": "Kharin taniltsuulgyg yaakh ve? Khiij barakhgüi ikh ajil baina."
+  },
+  {
+   "speaker": "Анар",
+   "mn": "Түүнийг Болдод хуваарилъя. Тэр энэ долоо хоногт ачаалал багатай.",
+   "en": "Let's delegate it to Bold. He has a lighter workload this week.",
+   "mn_latin": "Tüüniig Boldod khuvaarilya. Ter ene doloo khonogt achaalal bagatai."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Баярлалаа. Ингэвэл энэ долоо хоногийг даван туулж чадах байх.",
+   "en": "Thanks. That way I think I can get through this week.",
+   "mn_latin": "Bayarlalaa. Ingevel ene doloo khonogiig davan tuulj chadakh baikh."
+  }
+ ],
+ "culture_note": {
+  "en": "In many Ulaanbaatar offices, work requests don't stop at 6 p.m. Managers often send tasks through Messenger or Viber late in the evening, especially during the busy year-end period in December. Saying no directly to a senior colleague can feel impolite, so people often use softer phrases like \"Дараа нь хийж болох уу?\" (\"Could I do it later?\") to negotiate priorities.",
+  "mn": "Улаанбаатарын олон байгууллагад ажлын хүсэлт оройн 6 цагт зогсдоггүй. Ялангуяа арван хоёрдугаар сарын жилийн эцсийн ачаалалтай үед менежерүүд орой хожуу Messenger, Viber-ээр даалгавар илгээх нь элбэг. Ахлах хамт ажиллагсаддаа шууд \"үгүй\" гэх нь эелдэг бус санагдаж болох тул хүмүүс \"Дараа нь хийж болох уу?\" гэх мэт зөөлөн хэллэгээр тэргүүлэх ач холбогдлоо тохиролцдог."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 8,
+  "notes": "Solid, natural lesson overall. The main problems were an ungrammatical English sentence, one fill-in-the-blank with two correct answers, and a culture-note timing error."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "The lesson is mostly solid. Fixes cover unnatural Mongolian collocations, one ambiguous fill-in-the-blank distractor, and a spelling error.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "\"хэтэрсэн жагсаалт\" is unnatural for \"overflowing list\""
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "\"ачаалалтай зохицох\" is an unnatural collocation"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "\"стресстэй ажиллахыг даван туулдаг\" is awkward"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "\"дарамт дор\" is a calque and \"ажиллахыг даван туулах\" is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "\"хойшлуулах.\" can also end a sentence in note style, so the answer wasn't the only correct option"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Standard spelling is \"арван хоёрдугаар сар\""
+   }
+  ]
+ }
+}

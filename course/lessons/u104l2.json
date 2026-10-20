@@ -1,0 +1,407 @@
+{
+ "intro_en": "Talk with friends about rising rent, meat and fuel prices, inflation, wages, and the household budget. You will learn the Mongolian ending -тлаа (ядартлаа ажиллах 'to work to the point of exhaustion') and the English phrase 'to the extent that'.",
+ "intro_mn": "Түрээс, мах, шатахууны үнийн өсөлт, инфляц, цалин, өрхийн төсвийн талаар найзуудтайгаа ярилцаж сурна. Мөн монгол хэлний -тлаа нөхцөл (ядартлаа ажиллах), англи хэлний 'to the extent that' хэллэгийг сурна.",
+ "vocab": [
+  {
+   "mn": "инфляц",
+   "en": "inflation",
+   "pos": "noun",
+   "example_mn": "Инфляц энэ жил дахин өслөө.",
+   "example_en": "Inflation rose again this year.",
+   "mn_latin": "inflyats"
+  },
+  {
+   "mn": "түрээс",
+   "en": "rent",
+   "pos": "noun",
+   "example_mn": "Байрны түрээс хоёр жилд бараг хоёр дахин өссөн.",
+   "example_en": "Apartment rent nearly doubled in two years.",
+   "mn_latin": "türees"
+  },
+  {
+   "mn": "цалин",
+   "en": "wage, salary",
+   "pos": "noun",
+   "example_mn": "Цалин маань үнийн өсөлтөөс хоцорч байна.",
+   "example_en": "My salary is lagging behind rising prices.",
+   "mn_latin": "tsalin"
+  },
+  {
+   "mn": "шатахуун",
+   "en": "fuel",
+   "pos": "noun",
+   "example_mn": "Шатахууны үнэ нэмэгдэхээр бүх юм үнэтэй болдог.",
+   "example_en": "When fuel prices go up, everything gets more expensive.",
+   "mn_latin": "shatakhuun"
+  },
+  {
+   "mn": "өрхийн төсөв",
+   "en": "household budget",
+   "pos": "noun phrase",
+   "example_mn": "Бид өрхийн төсвөө сар бүр шинээр төлөвлөдөг.",
+   "example_en": "We plan our household budget from scratch every month.",
+   "mn_latin": "örkhiin tösöv"
+  },
+  {
+   "mn": "хүрэлцэх",
+   "en": "to be enough, to cover",
+   "pos": "verb",
+   "example_mn": "Энэ мөнгө сарын хоолонд хүрэлцэхгүй.",
+   "example_en": "This money won't be enough for a month of food.",
+   "mn_latin": "khüreltsekh"
+  },
+  {
+   "mn": "амьжиргаагаа залгуулах",
+   "en": "to make ends meet",
+   "pos": "verb phrase",
+   "example_mn": "Олон гэр бүл хоёр ажил хийж байж амьжиргаагаа залгуулдаг.",
+   "example_en": "Many families only make ends meet by working two jobs.",
+   "mn_latin": "amijirgaagaa zalguulakh"
+  },
+  {
+   "mn": "худалдан авах чадвар",
+   "en": "purchasing power",
+   "pos": "noun phrase",
+   "example_mn": "Төгрөгийн худалдан авах чадвар буурсаар байна.",
+   "example_en": "The tögrög's purchasing power keeps falling.",
+   "mn_latin": "khudaldan avakh chadvar"
+  },
+  {
+   "mn": "зээл",
+   "en": "loan",
+   "pos": "noun",
+   "example_mn": "Цалингийн зээлээсээ салж чадахгүй байгаа хүн олон.",
+   "example_en": "Many people can't get free of their payroll loans.",
+   "mn_latin": "zeel"
+  },
+  {
+   "mn": "ядартлаа",
+   "en": "to the point of exhaustion",
+   "pos": "adverb (verb form)",
+   "example_mn": "Тэр ядартлаа ажилладаг ч зээлээ төлж дуусгаж чадахгүй байна.",
+   "example_en": "He works to the point of exhaustion but still can't pay off his loan.",
+   "mn_latin": "yadartlaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Махны үнэ бид махаа хэмнэдэг болтлоо өссөн.",
+   "en": "Meat prices have risen to the extent that we've started cutting back on meat.",
+   "alt_mn": [
+    "Махны үнэ бид махаа хэмнэх хэмжээнд хүртэл өссөн."
+   ],
+   "alt_en": [
+    "Meat prices have gone up so much that we've started cutting back on meat.",
+    "Meat prices have risen to the point that we've started cutting back on meat."
+   ],
+   "mn_latin": "Makhny üne bid makhaa khemnedeg boltloo össön."
+  },
+  {
+   "mn": "Би ядартлаа ажилладаг ч цалин маань түрээсэнд арай ядан хүрэлцдэг.",
+   "en": "I work to the point of exhaustion, but my salary barely covers the rent.",
+   "alt_mn": [
+    "Би ядартлаа ажилладаг ч цалин маань түрээсэнд арай гэж хүрэлцдэг."
+   ],
+   "alt_en": [
+    "I work until I'm exhausted, but my salary barely covers the rent."
+   ],
+   "mn_latin": "Bi yadartlaa ajilladag ch tsalin maani türeesend arai yadan khüreltsdeg."
+  },
+  {
+   "mn": "Түрээс оюутнууд хоёр ажил хийхээс аргагүй болтлоо өссөн.",
+   "en": "Rent has gone up to the extent that students have no choice but to work two jobs.",
+   "alt_mn": [],
+   "alt_en": [
+    "Rent has risen so much that students have no choice but to work two jobs."
+   ],
+   "mn_latin": "Türees oyuutnuud khoyor ajil khiikhees argagüi boltloo össön."
+  },
+  {
+   "mn": "Шатахууны үнийн өсөлт бүх барааны үнэд нөлөөлж байна.",
+   "en": "The rise in fuel prices is affecting the prices of all goods.",
+   "alt_mn": [
+    "Шатахууны үнэ өссөн нь бүх барааны үнэд нөлөөлж байна."
+   ],
+   "alt_en": [
+    "Rising fuel prices are affecting the prices of all goods."
+   ],
+   "mn_latin": "Shatakhuuny üniin ösölt bükh baraany üned nölöölj baina."
+  },
+  {
+   "mn": "Инфляц цалингийн өсөлтөөс давж байгаа тул бодит орлого буурч байна.",
+   "en": "Inflation is outpacing wage growth, so real income is falling.",
+   "alt_mn": [],
+   "alt_en": [
+    "Inflation is outstripping wage growth, so real incomes are falling."
+   ],
+   "mn_latin": "Inflyats tsalingiin ösöltöös davj baigaa tul bodit orlogo buurch baina."
+  },
+  {
+   "mn": "Ээж маань өрхийн төсвөө толгой өвдтлөө тооцдог.",
+   "en": "My mom works out the household budget until her head hurts.",
+   "alt_mn": [],
+   "alt_en": [
+    "My mother calculates the household budget until she gets a headache."
+   ],
+   "mn_latin": "Eej maani örkhiin tösvöö tolgoi övdtlöö tootsdog."
+  },
+  {
+   "mn": "Тэр зээлээ зээлээр хаадаг болтлоо өрөнд баригдсан.",
+   "en": "He has fallen into debt to the extent that he pays off loans with new loans.",
+   "alt_mn": [],
+   "alt_en": [
+    "He's so deep in debt that he pays off loans with new loans."
+   ],
+   "mn_latin": "Ter zeelee zeeleer khaadag boltloo örönd barigdsan."
+  },
+  {
+   "mn": "Өвөл гэр хорооллын айлууд түлшний зардлаасаа болж бусад хэрэгцээгээ хасахад хүрдэг.",
+   "en": "In winter, families in the ger districts end up cutting other needs because of fuel costs.",
+   "alt_mn": [],
+   "alt_en": [
+    "In winter, ger district families are forced to cut back on other needs because of heating costs."
+   ],
+   "mn_latin": "Övöl ger khoroollyn ailuud tülshnii zardlaasaa bolj busad kheregtseegee khasakhad khürdeg."
+  },
+  {
+   "mn": "Үнэ ийм хурдан өсөх юм бол цалингаа нэмүүлэхийг шаардах хэрэгтэй.",
+   "en": "If prices keep rising this fast, we need to demand a raise.",
+   "alt_mn": [],
+   "alt_en": [
+    "If prices go up this quickly, we should demand a raise."
+   ],
+   "mn_latin": "Üne iim khurdan ösökh yum bol tsalingaa nemüülekhiig shaardakh kheregtei."
+  },
+  {
+   "mn": "Бид хямдрал хайж залхтлаа дэлгүүр хэссэн.",
+   "en": "We went from store to store looking for discounts until we were sick of it.",
+   "alt_mn": [],
+   "alt_en": [
+    "We searched the stores for sales until we were fed up."
+   ],
+   "mn_latin": "Bid khyamdral khaij zalkhtlaa delgüür khessen."
+  },
+  {
+   "mn": "Энэ сарын төсөв маань сарын сүүл хүртэл хүрэлцэхгүй бололтой.",
+   "en": "It looks like this month's budget won't last until the end of the month.",
+   "alt_mn": [],
+   "alt_en": [
+    "It seems our budget this month won't stretch to the end of the month."
+   ],
+   "mn_latin": "Ene saryn tösöv maani saryn süül khürtel khüreltsekhgüi bololtoi."
+  },
+  {
+   "mn": "Амьжиргааны өртөг хэр зэрэг өсөхийг хэн ч мэдэхгүй.",
+   "en": "No one knows to what extent the cost of living will rise.",
+   "alt_mn": [],
+   "alt_en": [
+    "Nobody knows how much the cost of living will go up."
+   ],
+   "mn_latin": "Amijirgaany örtög kher zereg ösökhiig khen ch medekhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Until / to the point of: -тлаа / -тлээ / -тлоо / -тлөө",
+  "title_mn": "To the extent that: үр дагавар хүртэлх зэргийг илэрхийлэх",
+  "explain_en": "Add -тал/-тэл/-тол/-төл to a verb stem to say 'until' or 'to the point that'. The vowel follows vowel harmony. Very often the reflexive ending -аа is added, which gives -тлаа/-тлээ/-тлоо/-тлөө: ядар- → ядартлаа ажиллах 'to work until (I'm) exhausted', өвд- → толгой өвдтлөө 'until (my) head hurts', уурла- → уурлатлаа. The -тлаа form is typical when the 'until' part is about the main subject (including their body or feelings). It is also very common in the set pattern result phrase + болтлоо: Махны үнэ бид махаа хэмнэдэг болтлоо өссөн 'Meat prices rose to the point where we cut back on meat.' The plain -тал form is common with a clearly different subject: Хүүхэд унттал би хүлээв 'I waited until the child fell asleep.'",
+  "explain_mn": "'To the extent that' нь ямар нэг үйл явдал ямар үр дагавартай болох хэмжээнд хүрснийг илэрхийлнэ. Монгол хэлний '...болтлоо', '...хэмжээнд хүртэл' гэсэн утгатай. Бүтэц нь: үйл явдал + to the extent that + үр дагавар. Жишээ: Rent has risen to the extent that students work two jobs. Ярианд 'to the point that/where', 'so much that' гэж илүү энгийнээр хэлдэг. 'To the extent that' нь арай албан, бичгийн хэлэнд түгээмэл. Мөн 'to what extent' гэвэл 'хэр зэрэг' гэсэн асуулт болно.",
+  "examples": [
+   {
+    "mn": "Тэр ядартлаа ажилласан.",
+    "en": "She worked to the point of exhaustion.",
+    "mn_latin": "Ter yadartlaa ajillasan."
+   },
+   {
+    "mn": "Үнэ бид машинаа зарахаас аргагүй болтлоо өссөн.",
+    "en": "Prices rose to the extent that we had to sell our car.",
+    "mn_latin": "Üne bid mashinaa zarakhaas argagüi boltloo össön."
+   },
+   {
+    "mn": "Бид цадтлаа бууз идлээ.",
+    "en": "We ate buuz until we were full.",
+    "mn_latin": "Bid tsadtlaa buuz idlee."
+   },
+   {
+    "mn": "Цалин хэр зэрэг нэмэгдэх вэ?",
+    "en": "To what extent will wages increase?",
+    "mn_latin": "Tsalin kher zereg nemegdekh ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би ___ ажилласан ч цалин маань хүрэлцэхгүй байна.",
+   "answer": "ядартлаа",
+   "options": [
+    "ядартлаа",
+    "ядрахаар",
+    "ядарвал",
+    "ядарсан"
+   ],
+   "translation": "I worked to the point of exhaustion, but my salary still isn't enough.",
+   "explain_en": "-тлаа means 'until / to the point of', and the reflexive -аа shows that the same person (I) gets exhausted. ядрахаар means 'when getting tired', and ядарвал means 'if tired'.",
+   "explain_mn": "-тлаа нь 'хүртэл' гэсэн утгатай. Ажиллагч өөрөө ядардаг тул ерөнхий хамаатуулах -аа нөхцөл залгана. 'Ядрахаар' нь 'ядрах үед', 'ядарвал' нь 'ядарсан тохиолдолд' гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Ээж маань толгой ___ төсвөө тооцсон.",
+   "answer": "өвдтлөө",
+   "options": [
+    "өвдтлөө",
+    "өвдтлээ",
+    "өвдтлаа",
+    "өвдөхлөө"
+   ],
+   "translation": "My mom worked out the budget until her head hurt.",
+   "explain_en": "The stem өвд- has the vowel ө, so vowel harmony requires -тлөө. -тлээ and -тлаа don't match the stem.",
+   "explain_mn": "өвд- үндэс ө эгшигтэй тул эгшиг зохицох ёсоор -тлөө залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ сарын цалин түрээс, хоолонд ___.",
+   "answer": "хүрэлцэхгүй",
+   "options": [
+    "хүрэлцэхгүй",
+    "хэмнэхгүй",
+    "өсөхгүй",
+    "буурахгүй"
+   ],
+   "translation": "This month's salary isn't enough for rent and food.",
+   "explain_en": "хүрэлцэх means 'to be enough', and it takes the dative (түрээс, хоолонд). The other verbs mean 'save', 'grow', and 'decrease'.",
+   "explain_mn": "'Хүрэлцэх' нь хангалттай байх утгатай бөгөөд өгөх-оршихын тийн ялгалтай нэр үгтэй хамт хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Rent has risen to the ___ that many students share a single room.",
+   "answer": "extent",
+   "options": [
+    "extent",
+    "length",
+    "size",
+    "amount"
+   ],
+   "translation": "Түрээс олон оюутан нэг өрөөнд хамт амьдардаг болтлоо өссөн.",
+   "explain_en": "The fixed phrase is 'to the extent that'. Words like length or size don't work in this phrase.",
+   "explain_mn": "'To the extent that' нь тогтмол хэллэг тул 'extent' гэж хэлнэ. Бусад үг энэ хэллэгт ордоггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Inflation is ___ wage growth, so real incomes are falling.",
+   "answer": "outpacing",
+   "options": [
+    "outpacing",
+    "following",
+    "lowering",
+    "reducing"
+   ],
+   "translation": "Инфляц цалингийн өсөлтөөс давж байгаа тул бодит орлого буурч байна.",
+   "explain_en": "'Outpace' means to grow faster than something else. That is why real incomes fall.",
+   "explain_mn": "'Outpace' гэдэг нь 'хурдаар давах, гүйцэж түрүүлэх' гэсэн утгатай. Инфляц цалингаас хурдан өсөж байгааг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Many families struggle to make ends ___.",
+   "answer": "meet",
+   "options": [
+    "meet",
+    "met",
+    "meeting",
+    "meat"
+   ],
+   "translation": "Олон гэр бүл амьжиргаагаа залгуулах гэж зовж байна.",
+   "explain_en": "The idiom is 'make ends meet', with the base form after 'make'. 'Meat' sounds the same but means food.",
+   "explain_mn": "'Make ends meet' нь 'амьжиргаагаа залгуулах' гэсэн хэлц. 'Make'-ийн дараа үйл үг үндсэн хэлбэрээрээ орно. 'Meat' (мах) нь ижил дуудлагатай өөр үг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bolormaa",
+   "mn": "Энэ сараас түрээс маань дахиад зуун мянгаар нэмэгдлээ.",
+   "en": "Starting this month, my rent went up by another hundred thousand.",
+   "mn_latin": "Ene saraas türees maani dakhiad zuun myangaar nemegdlee."
+  },
+  {
+   "speaker": "Tuguldur",
+   "mn": "Манайх ч бас. Махны үнэ ч хэтэрхий өслөө. Ээж маань зах дээр уурлатлаа наймаалцсан.",
+   "en": "Same with us. Meat prices have gone way up too. My mom haggled at the market until she was furious.",
+   "mn_latin": "Manaikh ch bas. Makhny üne ch kheterkhii öslöö. Eej maani zakh deer uurlatlaa naimaaltssan."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Инфляц маш их өссөн болохоор би гэр лүүгээ бага мөнгө явуулдаг болтлоо хэмнэх болсон.",
+   "en": "Inflation has risen so much that I've had to cut back to the extent that I send less money home.",
+   "mn_latin": "Inflyats mash ikh össön bolokhoor bi ger lüügee baga möngö yavuuldag boltloo khemnekh bolson."
+  },
+  {
+   "speaker": "Bolormaa",
+   "mn": "Бензин ч бас үнэтэй болсон. Би одоо ажилдаа автобусаар явдаг боллоо.",
+   "en": "Gas has gotten expensive too. Now I take the bus to work.",
+   "mn_latin": "Byenzin ch bas ünetei bolson. Bi odoo ajildaa avtobusaar yavdag bolloo."
+  },
+  {
+   "speaker": "Tuguldur",
+   "mn": "Цалин нэмэгдэхгүй бол бид ядартлаа ажиллаад ч юу ч хуримтлуулж чадахгүй.",
+   "en": "If wages don't go up, we'll work ourselves to exhaustion and still save nothing.",
+   "mn_latin": "Tsalin nemegdekhgüi bol bid yadartlaa ajillaad ch yuu ch khurimtluulj chadakhgüi."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Бүгдээрээ өрхийн төсөв гаргаж, зарлага бүрээ бүртгэж үзэх үү?",
+   "en": "Should we all make a household budget and track every expense?",
+   "mn_latin": "Bügdeeree örkhiin tösöv gargaj, zarlaga büree bürtgej üzekh üü?"
+  },
+  {
+   "speaker": "Bolormaa",
+   "mn": "Сайн санаа. Цагаан сар ч ойртож байна шүү дээ.",
+   "en": "Good idea. Tsagaan Sar is coming up, you know.",
+   "mn_latin": "Sain sanaa. Tsagaan sar ch oirtoj baina shüü dee."
+  },
+  {
+   "speaker": "Tuguldur",
+   "mn": "Тийм ээ, бэлгийн мөнгө, буузны махаа одооноос тооцохгүй бол болохгүй.",
+   "en": "Right, we have to start planning for gift money and meat for buuz now.",
+   "mn_latin": "Tiim ee, belgiin möngö, buuzny makhaa odoonoos tootsokhgüi bol bolokhgüi."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, meat prices usually climb in late winter and spring, when herders slaughter fewer animals. The government often releases reserve meat stocks to keep prices down. Payroll loans (цалингийн зээл) are extremely common, and many households in Ulaanbaatar's ger districts spend a large share of their winter budget on coal or briquettes for heating.",
+  "mn": "Монголд махны үнэ ихэвчлэн өвлийн сүүл, хавар малчид мал бага нядалдаг үед өсдөг. Үнийг тогтворжуулахын тулд засгийн газар нөөцийн мах худалдаанд гаргадаг. Цалингийн зээл маш түгээмэл бөгөөд Улаанбаатарын гэр хорооллын олон айл өвлийн төсвийнхөө томоохон хэсгийг халаалтын нүүрс, шахмал түлшинд зарцуулдаг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 5,
+  "notes": "The lesson is solid and natural. The main problems were an overly strict -тлаа rule that contradicted the lesson's own examples, one ungrammatical grammar example, and a wrong grammatical term."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "The lesson was mostly sound. The main fix is the dialogue line, which used a causal 'тул' instead of the 'to the extent that' pattern it was meant to teach.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "The original used тул ('because'), which does not show the degree. This version uses the lesson's -тлаа pattern."
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "Updated to match the revised Mongolian line."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "The old translation added 'no choice but', which is not in the English sentence."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Now matches explain_en by naming the meanings of the wrong options."
+   }
+  ]
+ }
+}

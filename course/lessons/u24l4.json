@@ -1,0 +1,468 @@
+{
+ "intro_en": "You will learn to talk about what you have learned and done at school and work. You will also see the difference between -ж байсан and -ж үзсэн in Mongolian, and practice irregular English participles like done, seen, written, taken, driven and met.",
+ "intro_mn": "Та сургууль, ажил дээр юу сурсан, юу хийснээ ярьж сурна. Мөн монгол хэлний -ж байсан ба -ж үзсэн хоёрын ялгааг, англи хэлний done, seen, written, taken, driven, met зэрэг тогтмол бус хэлбэрүүдийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "сурах",
+   "en": "to learn",
+   "pos": "verb",
+   "example_mn": "Би усанд сэлж сурсан.",
+   "example_en": "I learned to swim.",
+   "mn_latin": "surakh"
+  },
+  {
+   "mn": "суралцах",
+   "en": "to study",
+   "pos": "verb",
+   "example_mn": "Тэр их сургуульд суралцдаг.",
+   "example_en": "She studies at a university.",
+   "mn_latin": "suraltsakh"
+  },
+  {
+   "mn": "ур чадвар",
+   "en": "skill",
+   "pos": "noun",
+   "example_mn": "Компьютерийн ур чадвар чухал.",
+   "example_en": "Computer skills are important.",
+   "mn_latin": "ur chadvar"
+  },
+  {
+   "mn": "туршлага",
+   "en": "experience",
+   "pos": "noun",
+   "example_mn": "Надад ажлын туршлага бий.",
+   "example_en": "I have work experience.",
+   "mn_latin": "turshlaga"
+  },
+  {
+   "mn": "дэлгүүр",
+   "en": "shop",
+   "pos": "noun",
+   "example_mn": "Би дэлгүүрт ажиллаж байсан.",
+   "example_en": "I worked at a shop.",
+   "mn_latin": "delgüür"
+  },
+  {
+   "mn": "машин барих",
+   "en": "to drive a car",
+   "pos": "verb phrase",
+   "example_mn": "Аав надад машин барьж сургасан.",
+   "example_en": "Dad taught me to drive a car.",
+   "mn_latin": "mashin barikh"
+  },
+  {
+   "mn": "багш",
+   "en": "teacher",
+   "pos": "noun",
+   "example_mn": "Манай багш маш сайн.",
+   "example_en": "Our teacher is very good.",
+   "mn_latin": "bagsh"
+  },
+  {
+   "mn": "хичээл",
+   "en": "lesson, class",
+   "pos": "noun",
+   "example_mn": "Би англи хэлний хичээлд явдаг.",
+   "example_en": "I go to English class.",
+   "mn_latin": "khicheel"
+  },
+  {
+   "mn": "шалгалт",
+   "en": "exam",
+   "pos": "noun",
+   "example_mn": "Би өчигдөр шалгалт өгсөн.",
+   "example_en": "I took an exam yesterday.",
+   "mn_latin": "shalgalt"
+  },
+  {
+   "mn": "дадлага",
+   "en": "internship, practice",
+   "pos": "noun",
+   "example_mn": "Тэр банкинд дадлага хийсэн.",
+   "example_en": "He did an internship at a bank.",
+   "mn_latin": "dadlaga"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би хүүхэд байхдаа усанд сэлж сурсан.",
+   "en": "I learned to swim when I was a child.",
+   "alt_mn": [
+    "Би багадаа усанд сэлж сурсан."
+   ],
+   "alt_en": [
+    "I learned how to swim as a child."
+   ],
+   "mn_latin": "Bi khüükhed baikhdaa usand selj sursan."
+  },
+  {
+   "mn": "Та машин барьж үзсэн үү?",
+   "en": "Have you ever driven a car?",
+   "alt_mn": [
+    "Чи машин барьж үзсэн үү?"
+   ],
+   "alt_en": [
+    "Have you ever tried driving a car?"
+   ],
+   "mn_latin": "Ta mashin barij üzsen üü?"
+  },
+  {
+   "mn": "Би дэлгүүрт ажиллаж байсан.",
+   "en": "I worked at a shop.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have worked at a shop."
+   ],
+   "mn_latin": "Bi delgüürt ajillaj baisan."
+  },
+  {
+   "mn": "Тэр англи хэл сурсан.",
+   "en": "She has studied English.",
+   "alt_mn": [],
+   "alt_en": [
+    "She studied English."
+   ],
+   "mn_latin": "Ter angli khel sursan."
+  },
+  {
+   "mn": "Би энэ номыг уншиж үзсэн.",
+   "en": "I have read this book.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have tried reading this book."
+   ],
+   "mn_latin": "Bi ene nomyg unshij üzsen."
+  },
+  {
+   "mn": "Бид шинэ багштай уулзсан.",
+   "en": "We have met the new teacher.",
+   "alt_mn": [],
+   "alt_en": [
+    "We met the new teacher."
+   ],
+   "mn_latin": "Bid shine bagshtai uulzsan."
+  },
+  {
+   "mn": "Тэр өгүүлэл бичсэн.",
+   "en": "He has written an article.",
+   "alt_mn": [
+    "Тэр нийтлэл бичсэн."
+   ],
+   "alt_en": [
+    "He wrote an article."
+   ],
+   "mn_latin": "Ter ögüülel bichsen."
+  },
+  {
+   "mn": "Та хэзээ нэгэн цагт шалгалт өгч үзсэн үү?",
+   "en": "Have you ever taken an exam?",
+   "alt_mn": [],
+   "alt_en": [
+    "Have you ever tried taking an exam?"
+   ],
+   "mn_latin": "Ta khezee negen tsagt shalgalt ögch üzsen üü?"
+  },
+  {
+   "mn": "Би банкинд дадлага хийсэн.",
+   "en": "I have done an internship at a bank.",
+   "alt_mn": [],
+   "alt_en": [
+    "I did an internship at a bank."
+   ],
+   "mn_latin": "Bi bankind dadlaga khiisen."
+  },
+  {
+   "mn": "Би морь унаж үзсэн ч сайн унаж чаддаггүй.",
+   "en": "I have tried riding a horse, but I am not good at it.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have ridden a horse, but I am not good at it."
+   ],
+   "mn_latin": "Bi mori unaj üzsen ch sain unaj chaddaggüi."
+  },
+  {
+   "mn": "Миний ах Улаанбаатарт жолооч хийж байсан.",
+   "en": "My older brother worked as a driver in Ulaanbaatar.",
+   "alt_mn": [],
+   "alt_en": [
+    "My older brother has worked as a driver in Ulaanbaatar."
+   ],
+   "mn_latin": "Minii akh Ulaanbaatart jolooch khiij baisan."
+  },
+  {
+   "mn": "Би хэзээ ч гадаадад ажиллаж үзээгүй.",
+   "en": "I have never tried working abroad.",
+   "alt_mn": [
+    "Би хэзээ ч гадаадад ажиллаж байгаагүй."
+   ],
+   "alt_en": [
+    "I have never worked abroad."
+   ],
+   "mn_latin": "Bi khezee ch gadaadad ajillaj üzeegüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "-ж байсан vs -ж үзсэн; English present perfect (done, seen, written...)",
+  "title_mn": "-ж байсан ба -ж үзсэн; англи хэлний Present perfect (done, seen, written...)",
+  "explain_en": "Use verb stem + -ж байсан to say you were in a state or did something for a period in the past: «Би дэлгүүрт ажиллаж байсан» (I worked at a shop). Use -ж үзсэн for something you have tried or experienced: «Би морь унаж үзсэн» (I have tried riding a horse). The simple -сан/-сэн ending also reports a finished fact: «Би англи хэл сурсан». Negative: -ж үзээгүй (have never tried). In English, experiences use have/has + participle (have you ever driven...?). Irregular participles must be memorized: do – done, see – seen, write – written, take – taken, drive – driven, meet – met. With a specific past time, English uses the past simple: I met him yesterday.",
+  "explain_mn": "Англи хэлэнд «have/has + III хэлбэр» нь туршлагыг илэрхийлнэ: I have seen it. Тогтмол бус үйл үгийн III хэлбэрийг цээжлэх хэрэгтэй: do – did – done, see – saw – seen, write – wrote – written, take – took – taken, drive – drove – driven, meet – met – met. Жишээ: She has written a book. Асуулт: Have you ever driven a car? Үгүйсгэл: I have never driven. Нэг тодорхой өнгөрсөн цагтай бол past simple хэрэглэнэ: I met him yesterday. Монгол хэлэнд -ж байсан нь өнгөрсөн хугацааны үргэлжилсэн байдлыг (Би дэлгүүрт ажиллаж байсан – I worked at a shop), -ж үзсэн нь оролдож үзсэн туршлагыг (Би морь унаж үзсэн – I have tried riding a horse) илэрхийлнэ. Үгүйсгэл нь -ж үзээгүй.",
+  "examples": [
+   {
+    "mn": "Би Эрдэнэтэд ажиллаж байсан.",
+    "en": "I worked in Erdenet.",
+    "mn_latin": "Bi Erdeneted ajillaj baisan."
+   },
+   {
+    "mn": "Би хуушуур хийж үзсэн.",
+    "en": "I have tried making khuushuur.",
+    "mn_latin": "Bi khuushuur khiij üzsen."
+   },
+   {
+    "mn": "Тэр машин барьж үзээгүй.",
+    "en": "He has never tried driving a car.",
+    "mn_latin": "Ter mashin barij üzeegüi."
+   },
+   {
+    "mn": "Бид Бат багштай уулзсан.",
+    "en": "We have met teacher Bat.",
+    "mn_latin": "Bid Bat bagshtai uulzsan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би хоёр жил дэлгүүрт ажиллаж ___.",
+   "answer": "байсан",
+   "options": [
+    "байсан",
+    "үзсэн",
+    "байна",
+    "болсон"
+   ],
+   "translation": "I worked at a shop for two years.",
+   "explain_en": "A period of time in the past (two years) fits -ж байсан.",
+   "explain_mn": "Өнгөрсөн хугацааны үргэлжилсэн байдал тул -ж байсан хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Та тэмээ унаж ___ үү?",
+   "answer": "үзсэн",
+   "options": [
+    "үзсэн",
+    "үзээд",
+    "үзэж",
+    "үзье"
+   ],
+   "translation": "Have you ever tried riding a camel?",
+   "explain_en": "Asking about trying something once uses -ж үзсэн.",
+   "explain_mn": "Нэг удаа оролдсон туршлагыг асуухад -ж үзсэн хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр хэзээ ч машин барьж ___.",
+   "answer": "үзээгүй",
+   "options": [
+    "үзээгүй",
+    "үзсэн",
+    "байсан",
+    "үзнэ"
+   ],
+   "translation": "He has never tried driving a car.",
+   "explain_en": "The negative of -ж үзсэн is -ж үзээгүй.",
+   "explain_mn": "-ж үзсэн-ий үгүйсгэл нь -ж үзээгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Have you ever ___ a car?",
+   "answer": "driven",
+   "options": [
+    "driven",
+    "drove",
+    "drived",
+    "drive"
+   ],
+   "translation": "Та машин барьж үзсэн үү?",
+   "explain_en": "The participle of drive is driven.",
+   "explain_mn": "drive-ийн III хэлбэр нь driven."
+  },
+  {
+   "lang": "en",
+   "text": "She has ___ a letter to her teacher.",
+   "answer": "written",
+   "options": [
+    "written",
+    "wrote",
+    "writed",
+    "write"
+   ],
+   "translation": "Тэр багшдаа захидал бичсэн.",
+   "explain_en": "Write – wrote – written; use written after has.",
+   "explain_mn": "has-ийн дараа write-ийн III хэлбэр written ордог."
+  },
+  {
+   "lang": "en",
+   "text": "We have ___ the new teacher.",
+   "answer": "met",
+   "options": [
+    "met",
+    "meet",
+    "meeted",
+    "meeting"
+   ],
+   "translation": "Бид шинэ багштай уулзсан.",
+   "explain_en": "Meet – met – met: the participle is met.",
+   "explain_mn": "meet – met – met, III хэлбэр нь met."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Болд, чи өмнө нь ажиллаж байсан уу?",
+   "en": "Bold, have you worked before?",
+   "mn_latin": "Bold, chi ömnö ni ajillaj baisan uu?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тийм ээ, би хоёр жил дэлгүүрт ажиллаж байсан.",
+   "en": "Yes, I worked at a shop for two years.",
+   "mn_latin": "Tiim ee, bi khoyor jil delgüürt ajillaj baisan."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Сайхан байна. Машин барьж үзсэн үү?",
+   "en": "Great. Have you ever driven a car?",
+   "mn_latin": "Saikhan baina. Mashin barij üzsen üü?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тийм, миний аав надад машин барьж сургасан.",
+   "en": "Yes, my dad taught me to drive.",
+   "mn_latin": "Tiim, minii aav nadad mashin barij surgasan."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Чи англи хэл хаана сурсан бэ?",
+   "en": "Where did you learn English?",
+   "mn_latin": "Chi angli khel khaana sursan be?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Би их сургуульд англи хэл судалсан.",
+   "en": "I studied English at university.",
+   "mn_latin": "Bi ikh surguulid angli khel sudalsan."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Дадлага хийж үзсэн үү?",
+   "en": "Have you ever done an internship?",
+   "mn_latin": "Dadlaga khiij üzsen üü?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Үгүй, одоохондоо хийж үзээгүй.",
+   "en": "No, I haven't done one yet.",
+   "mn_latin": "Ügüi, odookhondoo khiij üzeegüi."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia many children learn practical skills early, such as riding horses in the countryside or helping with the family herd. Young people in Ulaanbaatar often take part-time jobs in shops or cafés while studying. Work experience and English skills are highly valued on a CV.",
+  "mn": "Монголд хөдөө орон нутагт олон хүүхэд бага наснаасаа морь унах, мал маллахад туслах зэрэг ур чадвар эзэмшдэг. Улаанбаатарт залуус сурч байхдаа дэлгүүр, кафед цагийн ажил хийх нь элбэг. Анкет, CV дээр ажлын туршлага, англи хэлний мэдлэг их үнэлэгддэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 12,
+  "notes": "Mostly good, but a few translation pairs don't match in tense or meaning (-ж байсан vs -ж үзсэн), the Mongolian grammar title was in English, and one dialogue line was unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed the wrong alt, vowel harmony, an ambiguous fill-in, mismatched grammar titles and explanations, the dialogue speakers, and the English wording.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "'англи хэлээр суралцсан' means 'studied in English', not 'studied English'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "'сайн мэдэхгүй' means 'don't know well'; the meaning here is 'not good at riding'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "en and mn titles described different topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Now matches title_en and the intro"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The old tip wrongly said the present perfect covers all cases; now matches explain_mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Now matches explain_en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "Vowel harmony: үзсэн үү, not уу"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'байсан' and 'сурсан' were also grammatical answers"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'Сайн байна' is a greeting/'fine', not 'Great'"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "speaker",
+    "why": "Bold answers Anna's question"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "speaker",
+    "why": "Anna is the one interviewing"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "speaker",
+    "why": "Bold answers"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "'tried one' is unnatural English"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "'very valued' → 'highly valued'"
+   }
+  ]
+ }
+}

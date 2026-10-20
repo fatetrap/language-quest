@@ -1,0 +1,440 @@
+{
+ "intro_en": "In this lesson you'll learn to weigh a street taxi against a ride-hailing app: booking a ride, setting a pickup point, dealing with surge pricing, checking a driver's rating, and canceling. You'll also practice Mongolian choice questions with -х уу/үү ... -х уу/үү? (Should I... or...?)",
+ "intro_mn": "Энэ хичээлээр та гудамжны такси болон апп-аар дуудах таксины аль нь дээр болохыг ярилцаж сурна: захиалга өгөх, суух цэг тавих, оргил цагийн үнэ, жолоочийн үнэлгээ, захиалга цуцлах. Мөн англи хэлний \"Should I... or...?\", \"Would you rather... or...?\" гэсэн сонголтын асуултыг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "такси барих",
+   "en": "to hail a taxi, to catch a taxi",
+   "pos": "verb phrase",
+   "example_mn": "Энд такси барихад амархан.",
+   "example_en": "It's easy to catch a taxi here.",
+   "mn_latin": "taksi barikh"
+  },
+  {
+   "mn": "апп-аар дуудах",
+   "en": "to book through an app",
+   "pos": "verb phrase",
+   "example_mn": "Би ихэвчлэн таксиа апп-аар дууддаг.",
+   "example_en": "I usually book my taxi through an app.",
+   "mn_latin": "app-aar duudakh"
+  },
+  {
+   "mn": "суух цэг",
+   "en": "pickup point",
+   "pos": "noun",
+   "example_mn": "Суух цэгээ дэлгүүрийн урд тавиарай.",
+   "example_en": "Set your pickup point in front of the store.",
+   "mn_latin": "suukh tseg"
+  },
+  {
+   "mn": "оргил цагийн үнэ",
+   "en": "surge pricing",
+   "pos": "noun",
+   "example_mn": "Оргил цагийн үнэ их өндөр байна.",
+   "example_en": "The surge pricing is really high.",
+   "mn_latin": "orgil tsagiin üne"
+  },
+  {
+   "mn": "жолоочийн үнэлгээ",
+   "en": "driver rating",
+   "pos": "noun",
+   "example_mn": "Жолоочийн үнэлгээ 4.9 байна.",
+   "example_en": "The driver's rating is 4.9.",
+   "mn_latin": "joloochiin ünelgee"
+  },
+  {
+   "mn": "захиалга цуцлах",
+   "en": "to cancel a ride, to cancel a booking",
+   "pos": "verb phrase",
+   "example_mn": "Би захиалгаа цуцлах гэж байна.",
+   "example_en": "I'm about to cancel my ride.",
+   "mn_latin": "zakhialga tsutslakh"
+  },
+  {
+   "mn": "үнэ тохирох",
+   "en": "to agree on a price",
+   "pos": "verb phrase",
+   "example_mn": "Жолоочтой үнэ тохирсон уу?",
+   "example_en": "Did you agree on a price with the driver?",
+   "mn_latin": "üne tokhirokh"
+  },
+  {
+   "mn": "явганаар",
+   "en": "on foot",
+   "pos": "adverb",
+   "example_mn": "Явганаар арван минут явна.",
+   "example_en": "It's a ten-minute walk.",
+   "mn_latin": "yavganaar"
+  },
+  {
+   "mn": "хүлээх хугацаа",
+   "en": "wait time",
+   "pos": "noun",
+   "example_mn": "Хүлээх хугацаа таван минут гэж байна.",
+   "example_en": "The wait time says five minutes.",
+   "mn_latin": "khüleekh khugatsaa"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fee, penalty",
+   "pos": "noun",
+   "example_mn": "Цуцалбал торгууль гарна.",
+   "example_en": "There's a fee if you cancel.",
+   "mn_latin": "torguuli"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Явганаар явах уу, такси барих уу?",
+   "en": "Should I walk or take a taxi?",
+   "alt_mn": [
+    "Явганаар явах уу, таксигаар явах уу?"
+   ],
+   "alt_en": [
+    "Should we walk or take a taxi?",
+    "Should I walk or catch a taxi?"
+   ],
+   "mn_latin": "Yavganaar yavakh uu, taksi barikh uu?"
+  },
+  {
+   "mn": "Гудамжнаас такси барих уу, апп-аар дуудах уу?",
+   "en": "Should I hail a taxi on the street or book one through an app?",
+   "alt_mn": [
+    "Гудамжнаас такси барих уу, апп-аар такси дуудах уу?"
+   ],
+   "alt_en": [
+    "Should we hail a taxi on the street or book one through an app?",
+    "Should I catch a taxi on the street or use an app?"
+   ],
+   "mn_latin": "Gudamjnaas taksi barikh uu, app-aar duudakh uu?"
+  },
+  {
+   "mn": "Одоо оргил цаг болохоор апп-ын үнэ хоёр дахин өссөн байна.",
+   "en": "It's rush hour now, so the price on the app has doubled.",
+   "alt_mn": [
+    "Одоо оргил цаг учраас апп-ын үнэ хоёр дахин өссөн байна."
+   ],
+   "alt_en": [
+    "It's rush hour, so the app price has doubled."
+   ],
+   "mn_latin": "Odoo orgil tsag bolokhoor app-yn üne khoyor dakhin össön baina."
+  },
+  {
+   "mn": "Жолоочийн үнэлгээ 4.9 байгаа болохоор санаа зовох хэрэггүй.",
+   "en": "The driver's rating is 4.9, so there's no need to worry.",
+   "alt_mn": [
+    "Жолоочийн үнэлгээ 4.9 байгаа тул санаа зовох хэрэггүй."
+   ],
+   "alt_en": [
+    "The driver has a 4.9 rating, so there's no need to worry.",
+    "The driver's rating is 4.9, so don't worry."
+   ],
+   "mn_latin": "Joloochiin ünelgee 4.9 baigaa bolokhoor sanaa zovokh khereggüi."
+  },
+  {
+   "mn": "Би суух цэгээ дэлгүүрийн урд тавьчихлаа.",
+   "en": "I set the pickup point in front of the store.",
+   "alt_mn": [
+    "Би суух цэгээ дэлгүүрийн урд тэмдэглэчихлээ."
+   ],
+   "alt_en": [
+    "I've set the pickup point in front of the store.",
+    "I put the pickup point in front of the store."
+   ],
+   "mn_latin": "Bi suukh tsegee delgüüriin urd tavichikhlaa."
+  },
+  {
+   "mn": "Жолооч арван минут хоцорвол захиалгаа цуцлах уу?",
+   "en": "If the driver is ten minutes late, should we cancel the ride?",
+   "alt_mn": [
+    "Жолооч арван минут хоцорвол бид захиалгаа цуцлах уу?"
+   ],
+   "alt_en": [
+    "If the driver is ten minutes late, should I cancel the ride?",
+    "Should we cancel the ride if the driver is ten minutes late?"
+   ],
+   "mn_latin": "Jolooch arvan minut khotsorvol zakhialgaa tsutslakh uu?"
+  },
+  {
+   "mn": "Та автобусаар явах нь дээр үү, таксигаар явах нь дээр үү?",
+   "en": "Would you rather take the bus or take a taxi?",
+   "alt_mn": [
+    "Та автобусаар явах уу, таксигаар явах уу?"
+   ],
+   "alt_en": [
+    "Would you rather go by bus or by taxi?",
+    "Would you prefer the bus or a taxi?"
+   ],
+   "mn_latin": "Ta avtobusaar yavakh ni deer üü, taksigaar yavakh ni deer üü?"
+  },
+  {
+   "mn": "Гудамжны таксинд суухаасаа өмнө үнээ тохирсон нь дээр.",
+   "en": "It's better to agree on the price before you get into a street taxi.",
+   "alt_mn": [
+    "Гудамжны таксинд суухаас өмнө үнээ тохирох хэрэгтэй."
+   ],
+   "alt_en": [
+    "You'd better agree on the price before getting into a street taxi.",
+    "It's best to agree on the fare before getting into a street taxi."
+   ],
+   "mn_latin": "Gudamjny taksind suukhaasaa ömnö ünee tokhirson ni deer."
+  },
+  {
+   "mn": "Захиалгаа цуцалбал торгууль төлөх үү?",
+   "en": "Will I have to pay a fee if I cancel the ride?",
+   "alt_mn": [
+    "Захиалгаа цуцалбал торгууль гарах уу?"
+   ],
+   "alt_en": [
+    "Is there a fee if I cancel the ride?",
+    "Do I have to pay a fee if I cancel?"
+   ],
+   "mn_latin": "Zakhialgaa tsutsalbal torguuli tölökh üü?"
+  },
+  {
+   "mn": "Хүлээх хугацаа арван таван минут гэж байна. Хүлээх үү, автобусаар явах уу?",
+   "en": "The wait time says fifteen minutes. Should we wait or take the bus?",
+   "alt_mn": [
+    "Хүлээх хугацаа арван таван минут байна. Хүлээх үү, автобусанд суух уу?"
+   ],
+   "alt_en": [
+    "It says the wait time is fifteen minutes. Should we wait or take the bus?",
+    "The wait time says fifteen minutes. Should I wait or take the bus?"
+   ],
+   "mn_latin": "Khüleekh khugatsaa arvan tavan minut gej baina. Khüleekh üü, avtobusaar yavakh uu?"
+  },
+  {
+   "mn": "Би апп-аар дуудахыг илүүд үздэг, учир нь үнэ нь урьдчилж харагддаг.",
+   "en": "I prefer booking through an app because you can see the price in advance.",
+   "alt_mn": [
+    "Үнэ нь урьдчилж харагддаг болохоор би апп-аар дуудахыг илүүд үздэг."
+   ],
+   "alt_en": [
+    "I'd rather book through an app because you can see the price in advance.",
+    "I prefer using an app because the price is shown in advance."
+   ],
+   "mn_latin": "Bi app-aar duudakhyg ilüüd üzdeg, uchir ni üne ni uridchilj kharagddag."
+  },
+  {
+   "mn": "Шөнө орой ганцаараа гудамжнаас такси барихаас илүү апп ашиглах нь аюулгүй.",
+   "en": "Late at night, using an app is safer than hailing a taxi on the street alone.",
+   "alt_mn": [
+    "Шөнө орой ганцаараа байхдаа гудамжнаас такси барьснаас апп ашигласан нь аюулгүй."
+   ],
+   "alt_en": [
+    "Late at night, it's safer to use an app than to hail a taxi on the street alone."
+   ],
+   "mn_latin": "Shönö oroi gantsaaraa gudamjnaas taksi barikhaas ilüü app ashiglakh ni ayuulgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Choice questions: -х уу/үү ..., -х уу/үү? (Should I... or...?)",
+  "title_mn": "Сонголтын асуулт: Should I... or...? / Would you rather... or...?",
+  "explain_en": "To ask \"Should I/we do A or B?\" in Mongolian, put each option in the future/infinitive form ending in -х and add the question particle уу/үү after each one: Явганаар явах уу, такси барих уу? (Should I walk or take a taxi?). There's no separate word for \"or\". The two questions sit side by side, separated by a comma. The particle follows vowel harmony: use уу after back-vowel words (явах уу, дуудах уу, цуцлах уу) and үү after front-vowel words (хүлээх үү, төлөх үү). Note that the particle is written as a separate word. Context shows who \"I\" or \"we\" is. To ask \"Would you rather A or B?\", add нь дээр (is better) to each option: Та автобусаар явах нь дээр үү, таксигаар явах нь дээр үү?",
+  "explain_mn": "Англи хэлэнд хоёр сонголтоос аль нэгийг асуухдаа \"or\" холбоос хэрэглэнэ. 1) \"Should I/we + үйл үг... or + үйл үг...?\" гэвэл \"Би/Бид ...-х уу, ...-х уу?\" гэсэн утгатай. Зөвлөгөө асууж, юу хийх нь зөв болохыг асууна: Should I walk or take a taxi? 2) \"Would you rather + үйл үг... or + үйл үг...?\" гэвэл \"Та ...-х нь дээр үү, ...-х нь дээр үү?\" гэсэн утгатай. Хүний хүсэл, сонирхлыг эелдгээр асууна: Would you rather wait or take the bus? \"Would you rather\"-ын дараа үйл үг \"to\"-гүй, үндсэн хэлбэрээрээ орно (would you rather wait, ✗ to wait). Хоёр дахь үйл үгийн өмнөх \"Should I\"-г давтах шаардлагагүй.",
+  "examples": [
+   {
+    "mn": "Явганаар явах уу, такси барих уу?",
+    "en": "Should I walk or take a taxi?",
+    "mn_latin": "Yavganaar yavakh uu, taksi barikh uu?"
+   },
+   {
+    "mn": "Хүлээх үү, захиалгаа цуцлах уу?",
+    "en": "Should we wait or cancel the ride?",
+    "mn_latin": "Khüleekh üü, zakhialgaa tsutslakh uu?"
+   },
+   {
+    "mn": "Та урд хаалганы өмнөөс суух нь дээр үү, арын хаалганы өмнөөс суух нь дээр үү?",
+    "en": "Would you rather be picked up at the front entrance or the back entrance?",
+    "mn_latin": "Ta urd khaalgany ömnöös suukh ni deer üü, aryn khaalgany ömnöös suukh ni deer üü?"
+   },
+   {
+    "mn": "Одоо дуудах уу, оргил цаг дуустал хүлээх үү?",
+    "en": "Should I book a ride now or wait until the surge ends?",
+    "mn_latin": "Odoo duudakh uu, orgil tsag duustal khüleekh üü?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Явганаар явах ___, такси барих уу?",
+   "answer": "уу",
+   "options": [
+    "уу",
+    "үү",
+    "вэ",
+    "юу"
+   ],
+   "translation": "Should I walk or take a taxi?",
+   "explain_en": "явах has back vowels (а), so it takes уу. Вэ is used only with question words like хаана, and the particle юу comes after a long vowel or diphthong, not after -х.",
+   "explain_mn": "\"явах\" эр эгшигтэй үг тул \"уу\" авна. \"вэ\" нь асуух төлөөний үгтэй, \"юу\" нь урт эгшиг, хос эгшгээр төгссөн үгийн дараа хэрэглэгддэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ олон ачаатай хүлээх ___, такси дуудах уу?",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "уу",
+    "юү",
+    "бэ"
+   ],
+   "translation": "With all this luggage, should we wait or call a taxi?",
+   "explain_en": "хүлээх has front vowels (ү, ээ), so vowel harmony requires үү, not уу.",
+   "explain_mn": "\"хүлээх\" эм эгшигтэй тул эгшиг зохицох ёсоор \"үү\" авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Оргил цагийн үнэ их өндөр байна. Захиалгаа ___ уу?",
+   "answer": "цуцлах",
+   "options": [
+    "цуцлах",
+    "цуцалсан",
+    "цуцлаад",
+    "цуцалж"
+   ],
+   "translation": "The surge pricing is really high. Should I cancel the ride?",
+   "explain_en": "A \"Should I...?\" question uses the -х form plus уу. Цуцалсан уу means \"Did you cancel?\", and -аад/-ж forms can't end a question like this.",
+   "explain_mn": "\"Хийх үү?\" гэсэн зөвлөгөө асуух утгад -х хэлбэр хэрэгтэй. \"Цуцалсан уу\" нь өнгөрсөн цагийн асуулт болно. \"-аад\", \"-ж\" хэлбэрээр ийм асуулт төгсдөггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Should I walk ___ take a taxi?",
+   "answer": "or",
+   "options": [
+    "or",
+    "and",
+    "but",
+    "then"
+   ],
+   "translation": "Явганаар явах уу, такси барих уу?",
+   "explain_en": "\"Or\" links the two choices in a choice question.",
+   "explain_mn": "Хоёр сонголтын аль нэгийг асуухад \"or\" (эсвэл) хэрэглэнэ. \"and\" бол хоёуланг нь хийх утгатай болно."
+  },
+  {
+   "lang": "en",
+   "text": "Would you ___ wait here or meet the driver at the corner?",
+   "answer": "rather",
+   "options": [
+    "rather",
+    "prefer",
+    "better",
+    "like"
+   ],
+   "translation": "Та энд хүлээх нь дээр үү, булан дээр жолоочтой уулзах нь дээр үү?",
+   "explain_en": "The fixed pattern is \"Would you rather + base verb.\" \"Would you prefer\" and \"would you like\" need \"to wait\", and \"would you better\" isn't English.",
+   "explain_mn": "\"Would you rather + үндсэн үйл үг\" гэсэн тогтсон хэллэг. \"prefer\", \"like\"-ын дараа \"to wait\" гэж \"to\" нэмэх ёстой."
+  },
+  {
+   "lang": "en",
+   "text": "___ I book a ride now or wait until the surge pricing ends?",
+   "answer": "Should",
+   "options": [
+    "Should",
+    "Would",
+    "Have",
+    "Am"
+   ],
+   "translation": "Одоо дуудах уу, оргил цагийн үнэ дуустал хүлээх үү?",
+   "explain_en": "\"Should I...?\" asks for advice about what to do. \"Would I\" doesn't ask for advice, and \"Have I book\" and \"Am I book\" aren't correct grammar.",
+   "explain_mn": "Юу хийх нь зөв болохыг асуухдаа \"Should I...?\" хэрэглэнэ. \"Have\", \"Am\"-ын дараа үйл үгийн үндсэн хэлбэр орохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Tom",
+   "mn": "Сараа, гудамжнаас такси барих уу, апп-аар дуудах уу?",
+   "en": "Saraa, should I hail a taxi on the street or book one through the app?",
+   "mn_latin": "Saraa, gudamjnaas taksi barikh uu, app-aar duudakh uu?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Эхлээд аппаа харъя. Одоо оргил цаг болохоор үнэ өссөн байж магадгүй.",
+   "en": "Let's check the app first. It's rush hour, so there might be surge pricing.",
+   "mn_latin": "Ekhleed appaa kharya. Odoo orgil tsag bolokhoor üne össön baij magadgüi."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Хөөх, хорин таван мянган төгрөг гэж байна! Та үнэ буутал хүлээх нь дээр үү, гудамжнаас барих нь дээр үү?",
+   "en": "Wow, it says twenty-five thousand tugriks! Would you rather wait for the price to drop or catch one on the street?",
+   "mn_latin": "Khöökh, khorin tavan myangan tögrög gej baina! Ta üne buutal khüleekh ni deer üü, gudamjnaas barikh ni deer üü?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Гудамжны такси хямд л даа, гэхдээ суухаасаа өмнө үнээ тохирох хэрэгтэй. Хэдэн минут хүлээгээд үзье.",
+   "en": "Street taxis are cheaper, but you have to agree on the price before getting in. Let's wait a few minutes and see.",
+   "mn_latin": "Gudamjny taksi khyamd l daa, gekhdee suukhaasaa ömnö ünee tokhirokh kheregtei. Kheden minut khüleegeed üziye."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Үнэ буулаа! Арван таван мянга. Жолоочийн үнэлгээ 4.8, долоон минутад ирнэ гэж байна.",
+   "en": "The price dropped! Fifteen thousand. The driver's rating is 4.8, and it says he'll arrive in seven minutes.",
+   "mn_latin": "Üne buulaa! Arvan tavan myanga. Joloochiin ünelgee 4.8, doloon minutad irne gej baina."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Суух цэгээ байрны хаалганы урд тавиарай. Гол зам дээр машин зогсож болохгүй.",
+   "en": "Set the pickup point in front of the building gate. Cars can't stop on the main road.",
+   "mn_latin": "Suukh tsegee bairny khaalgany urd taviarai. Gol zam deer mashin zogsoj bolokhgüi."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тавьчихлаа. Жолооч удвал захиалгаа цуцлах уу?",
+   "en": "Done. If the driver takes too long, should I cancel the ride?",
+   "mn_latin": "Tavichikhlaa. Jolooch udval zakhialgaa tsutslakh uu?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Битгий цуцлаарай, торгууль гарч магадгүй. Тайван хүлээе.",
+   "en": "Don't cancel, there might be a fee. Let's just wait calmly.",
+   "mn_latin": "Bitgii tsutslaarai, torguuli garch magadgüi. Taivan khüleeye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many ordinary drivers pick up passengers who wave from the roadside. These informal \"street taxis\" usually charge by the kilometer, so people agree on the rate or price before getting in. Ride-hailing apps such as UBCab have become popular because they show the fare in advance and list the driver's name, car, and rating, which many people find safer, especially at night.",
+  "mn": "Улаанбаатарт олон энгийн жолооч замын хажууд гар өргөсөн хүнийг суулгадаг. Ийм \"гудамжны такси\" ихэвчлэн километрээр үнэ авдаг тул суухаасаа өмнө үнээ тохирдог. Харин UBCab зэрэг апп үнээ урьдчилж харуулж, жолоочийн нэр, машин, үнэлгээг гаргадаг тул түгээмэл болсон. Ялангуяа шөнө илүү аюулгүй гэж олон хүн үздэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 8,
+  "notes": "A solid, natural lesson. The fixes cover one wrong noun form (арын хаалга), one alternative translation with a different meaning, an ambiguous fill-in-the-blank, and vowel-harmony terminology."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "Mostly solid. The fixes cover a pickup-location ambiguity, a wrong-meaning verb in the dialogue, the culture note's unclear pricing logic and missing en/mn content, and an incomplete fill-blank explanation.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'зогсож чадахгүй' means physically unable to stop. The point is that stopping isn't allowed."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Per-km pricing means passengers agree on the rate, so the logic was unclear."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The mn version omitted 'have become popular', which the en version states."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Make it match explain_en."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "'урд хаалганаас суух' reads as getting in by the car's front door, not being picked up at an entrance."
+   }
+  ]
+ }
+}

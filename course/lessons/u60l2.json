@@ -1,0 +1,456 @@
+{
+ "intro_en": "You will learn to talk about percentages and fractions and to compare interest rates and savings offers between banks. You will also practice the number of vs the amount of in English.",
+ "intro_mn": "Та хувь болон бутархайн тухай ярьж, банкуудын хүү ба хадгаламжийн саналыг харьцуулж сурна. Мөн англи хэлний the number of, the amount of хоёрын ялгааг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "хувь",
+   "en": "percent; share",
+   "pos": "noun",
+   "example_mn": "Энэ банк таван хувийн хүү өгдөг.",
+   "example_en": "This bank pays five percent interest.",
+   "mn_latin": "khuvi"
+  },
+  {
+   "mn": "жилийн хүү",
+   "en": "annual interest rate",
+   "pos": "noun",
+   "example_mn": "Хадгаламжийн жилийн хүү хэд вэ?",
+   "example_en": "What is the annual interest rate on the savings account?",
+   "mn_latin": "jiliin khüü"
+  },
+  {
+   "mn": "гуравны нэг",
+   "en": "one third",
+   "pos": "noun",
+   "example_mn": "Цалингийнхаа гуравны нэгийг хадгалдаг.",
+   "example_en": "I save one third of my salary.",
+   "mn_latin": "guravny neg"
+  },
+  {
+   "mn": "хагас",
+   "en": "half (of)",
+   "pos": "noun",
+   "example_mn": "Мөнгөний хагасаас илүүг хадгаламжид хийсэн.",
+   "example_en": "I put more than half of the money into savings.",
+   "mn_latin": "khagas"
+  },
+  {
+   "mn": "дөрөвний гурав",
+   "en": "three quarters",
+   "pos": "noun",
+   "example_mn": "Зээлийн дөрөвний гурвыг төлсөн.",
+   "example_en": "I have paid three quarters of the loan.",
+   "mn_latin": "dörövnii gurav"
+  },
+  {
+   "mn": "хямдрал",
+   "en": "discount; sale",
+   "pos": "noun",
+   "example_mn": "Банк зээлийн шимтгэлд хямдрал зарласан.",
+   "example_en": "The bank announced a discount on loan fees.",
+   "mn_latin": "khyamdral"
+  },
+  {
+   "mn": "өсөлт",
+   "en": "increase; growth",
+   "pos": "noun",
+   "example_mn": "Хүүгийн өсөлт хадгаламжид ашигтай.",
+   "example_en": "The rise in interest rates is good for savings.",
+   "mn_latin": "ösölt"
+  },
+  {
+   "mn": "бууралт",
+   "en": "decrease; decline",
+   "pos": "noun",
+   "example_mn": "Хүүгийн бууралт зээлдэгчдэд таатай.",
+   "example_en": "The drop in rates is good for borrowers.",
+   "mn_latin": "buuralt"
+  },
+  {
+   "mn": "харьцуулах",
+   "en": "to compare",
+   "pos": "verb",
+   "example_mn": "Хоёр банкны саналыг харьцуулъя.",
+   "example_en": "Let's compare the two banks' offers.",
+   "mn_latin": "kharitsuulakh"
+  },
+  {
+   "mn": "хадгаламж",
+   "en": "savings; savings deposit",
+   "pos": "noun",
+   "example_mn": "Би хадгаламжаа нэмэгдүүлмээр байна.",
+   "example_en": "I want to increase my savings.",
+   "mn_latin": "khadgalamj"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ банкны жилийн хүү найман хувь.",
+   "en": "This bank's annual interest rate is eight percent.",
+   "alt_mn": [
+    "Энэ банкны жилийн хүү 8 хувь."
+   ],
+   "alt_en": [
+    "The annual interest rate at this bank is eight percent."
+   ],
+   "mn_latin": "Ene bankny jiliin khüü naiman khuvi."
+  },
+  {
+   "mn": "Нөгөө банк арай өндөр хүү санал болгож байна.",
+   "en": "The other bank is offering a slightly higher rate.",
+   "alt_mn": [],
+   "alt_en": [
+    "The other bank offers a slightly higher interest rate."
+   ],
+   "mn_latin": "Nögöö bank arai öndör khüü sanal bolgoj baina."
+  },
+  {
+   "mn": "Би цалингийнхаа гуравны нэгийг хадгалдаг.",
+   "en": "I save one third of my salary.",
+   "alt_mn": [
+    "Би цалингийн гуравны нэгийг хадгалдаг."
+   ],
+   "alt_en": [
+    "I save a third of my salary."
+   ],
+   "mn_latin": "Bi tsalingiinkhaa guravny negiig khadgaldag."
+  },
+  {
+   "mn": "Тэр мөнгөнийхөө хагасаас илүүг хадгаламжид хийсэн.",
+   "en": "He put more than half of his money into savings.",
+   "alt_mn": [],
+   "alt_en": [
+    "He put over half of his money into a savings account."
+   ],
+   "mn_latin": "Ter möngöniikhöö khagasaas ilüüg khadgalamjid khiisen."
+  },
+  {
+   "mn": "Зээлийнхээ дөрөвний гурвыг аль хэдийн төлсөн.",
+   "en": "I have already paid three quarters of the loan.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have already paid off three quarters of my loan."
+   ],
+   "mn_latin": "Zeeliinkhee dörövnii gurvyg ali khediin tölsön."
+  },
+  {
+   "mn": "Өнгөрсөн жил хүү хоёр хувиар өссөн.",
+   "en": "Last year the interest rate rose by two percentage points.",
+   "alt_mn": [
+    "Өнгөрсөн жил хүү хоёр хувиар нэмэгдсэн."
+   ],
+   "alt_en": [
+    "The interest rate went up by two percent last year."
+   ],
+   "mn_latin": "Öngörsön jil khüü khoyor khuviar össön."
+  },
+  {
+   "mn": "Хүүгийн бууралт хадгаламж эзэмшигчдэд таалагдахгүй.",
+   "en": "Savers are not happy about the drop in interest rates.",
+   "alt_mn": [],
+   "alt_en": [
+    "Savers do not like the decline in interest rates."
+   ],
+   "mn_latin": "Khüügiin buuralt khadgalamj ezemshigchded taalagdakhgüi."
+  },
+  {
+   "mn": "Шинэ харилцагчдад хураамжийн хорин хувийн хямдрал үзүүлнэ.",
+   "en": "New customers get a twenty percent discount on fees.",
+   "alt_mn": [],
+   "alt_en": [
+    "There is a 20 percent discount on fees for new customers."
+   ],
+   "mn_latin": "Shine khariltsagchdad khuraamjiin khorin khuviin khyamdral üzüülne."
+  },
+  {
+   "mn": "Манай банкинд харилцагчдын тоо өсөж байна.",
+   "en": "The number of customers at our bank is growing.",
+   "alt_mn": [
+    "Манай банкны харилцагчдын тоо нэмэгдэж байна."
+   ],
+   "alt_en": [
+    "The number of customers is increasing at our bank."
+   ],
+   "mn_latin": "Manai bankind khariltsagchdyn too ösöj baina."
+  },
+  {
+   "mn": "Түүний хадгаламжийн хэмжээ жил бүр нэмэгддэг.",
+   "en": "The amount of his savings increases every year.",
+   "alt_mn": [],
+   "alt_en": [
+    "The amount of savings he has grows every year."
+   ],
+   "mn_latin": "Tüünii khadgalamjiin khemjee jil bür nemegddeg."
+  },
+  {
+   "mn": "Эхлээд хоёр банкны хүүг сайн харьцуулах хэрэгтэй.",
+   "en": "First you need to compare the two banks' rates carefully.",
+   "alt_mn": [],
+   "alt_en": [
+    "First, you should compare the interest rates of the two banks thoroughly."
+   ],
+   "mn_latin": "Ekhleed khoyor bankny khüüg sain kharitsuulakh kheregtei."
+  },
+  {
+   "mn": "Хоёр жилийн хадгаламжийн хүү нэг жилийнхээс хоёр дахин өндөр.",
+   "en": "The two-year savings rate is twice as high as the one-year rate.",
+   "alt_mn": [],
+   "alt_en": [
+    "The rate for a two-year deposit is double the one-year rate."
+   ],
+   "mn_latin": "Khoyor jiliin khadgalamjiin khüü neg jiliinkhees khoyor dakhin öndör."
+  }
+ ],
+ "grammar": {
+  "title_en": "Fractions and percentages; the number of / the amount of",
+  "title_mn": "Бутархай ба хувь; number of / amount of",
+  "explain_en": "In Mongolian a fraction is built with the genitive: the denominator takes the genitive ending (-ны/-ний, -ын/-ийн) and the numerator follows: гурав (3) → гуравны нэг (one third); дөрөв → дөрөвний гурав (three quarters). The whole goes first in the genitive: цалингийн гуравны нэг (one third of the salary), and an accusative ending is added at the end when it is an object: гуравны нэгийг. Half is хагас. Percent is хувь, with the number before it: таван хувь, and хувиар means 'by ... percent' (хоёр хувиар өссөн). Remember the fraction forms and vowel harmony: хоёрын нэг, гуравны нэг, дөрөвний нэг, тавны нэг; хувийн.",
+  "explain_mn": "Англи хэлэнд бутархайг тоо (cardinal) + дэс дарааллын тоо (ordinal) хэлбэрээр хэлнэ: one third (1/3), three quarters (3/4), two fifths (2/5). Хүртвэр 1-ээс их бол хуваарь олон тоонд орно: two thirds. Хувийг percent гэж бичнэ: 5 percent, ихэвчлэн of-той хамт: 20 percent of the fee. Тоологдох нэр үгтэй the number of хэрэглэнэ: the number of customers is growing (ганц тоо тул is). Тоологдохгүй нэр үгтэй the amount of хэрэглэнэ: the amount of money, the amount of interest. Харин a number of гэвэл 'хэд хэдэн' гэсэн утгатай, олон тооны үйл үгтэй. Мөн fewer + тоологдох, less + тоологдохгүй: fewer fees, less interest.",
+  "examples": [
+   {
+    "mn": "Мөнгөний гуравны нэгийг хадгаламжид хийлээ.",
+    "en": "I put one third of the money into savings.",
+    "mn_latin": "Möngönii guravny negiig khadgalamjid khiilee."
+   },
+   {
+    "mn": "Зээлийн дөрөвний гурвыг төлсөн.",
+    "en": "I paid three quarters of the loan.",
+    "mn_latin": "Zeeliin dörövnii gurvyg tölsön."
+   },
+   {
+    "mn": "Хүү гурван хувиар буурсан.",
+    "en": "The interest rate fell by three percent.",
+    "mn_latin": "Khüü gurvan khuviar buursan."
+   },
+   {
+    "mn": "Харилцагчдын тоо өссөн ч хадгаламжийн хэмжээ буурсан.",
+    "en": "The number of customers rose, but the amount of savings fell.",
+    "mn_latin": "Khariltsagchdyn too össön ch khadgalamjiin khemjee buursan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэр цалингийнхаа гурав___ нэгийг хадгалдаг.",
+   "answer": "ны",
+   "options": [
+    "ны",
+    "ын",
+    "ний",
+    "д"
+   ],
+   "translation": "He saves one third of his salary.",
+   "explain_en": "The denominator гурав ends in a consonant 'в' with back vowel 'а', so it takes -ны: гуравны нэг.",
+   "explain_mn": "Гурав гэдэг үг «а» эгшигтэй тул -ны нөхцөл авч «гуравны нэг» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүү хоёр ___ өссөн.",
+   "answer": "хувиар",
+   "options": [
+    "хувиар",
+    "хувийн",
+    "хувийг",
+    "хувьд"
+   ],
+   "translation": "The rate rose by two percent.",
+   "explain_en": "'By how much' is expressed with the instrumental case: хувиар.",
+   "explain_mn": "Хэдээр өссөнийг илэрхийлэхэд үйлдэх тийн ялгал хэрэглэнэ: хувиар."
+  },
+  {
+   "lang": "mn",
+   "text": "Зээлийн дөрөвний гур___ төлсөн.",
+   "answer": "выг",
+   "options": [
+    "выг",
+    "вийг",
+    "ыг",
+    "вд"
+   ],
+   "translation": "I paid three quarters of the loan.",
+   "explain_en": "The fraction is the object, so it takes the accusative: гурав → гурвыг.",
+   "explain_mn": "Бутархай нь тусагдахуун тул заахын тийн ялгалын «-ыг» нөхцөл авч «гурвыг» болно."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ of customers at the bank is growing.",
+   "answer": "number",
+   "options": [
+    "number",
+    "amount",
+    "level",
+    "deal"
+   ],
+   "translation": "Банкны харилцагчдын тоо өсөж байна.",
+   "explain_en": "Customers are countable, so we use the number of.",
+   "explain_mn": "Customers тоологдох нэр үг тул the number of хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ of interest you earn depends on the rate.",
+   "answer": "amount",
+   "options": [
+    "amount",
+    "number",
+    "numbers",
+    "count"
+   ],
+   "translation": "Таны олох хүүгийн хэмжээ хувь хэмжээнээс шалтгаална.",
+   "explain_en": "Interest is uncountable here, so we use the amount of.",
+   "explain_mn": "Interest энд тоологдохгүй тул the amount of хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I saved ___ of my salary this month.",
+   "answer": "two thirds",
+   "options": [
+    "two thirds",
+    "two third",
+    "second thirds",
+    "twice third"
+   ],
+   "translation": "Би энэ сар цалингийнхаа гуравны хоёрыг хадгалсан.",
+   "explain_en": "Cardinal number plus ordinal: two thirds; the ordinal is plural when the top number is above one.",
+   "explain_mn": "Хүртвэр нь 1-ээс их тул хуваарь олон тоонд орж two thirds гэж s-тэй бичнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ану",
+   "mn": "Сайн байна уу? Хадгаламжийн хүүгийн тухай асуух гэсэн юм.",
+   "en": "Hello. I would like to ask about savings interest rates.",
+   "mn_latin": "Sain baina uu? Khadgalamjiin khüügiin tukhai asuukh gesen yum."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Мэдээжийн хэрэг. Манай банкны жилийн хүү найман хувь.",
+   "en": "Of course. Our bank's annual interest rate is eight percent.",
+   "mn_latin": "Medeejiin khereg. Manai bankny jiliin khüü naiman khuvi."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Нөгөө банк есөн хувь санал болгож байсан.",
+   "en": "The other bank has been offering nine percent.",
+   "mn_latin": "Nögöö bank yesön khuvi sanal bolgoj baisan."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Тийм, гэхдээ тэдний шимтгэл өндөр. Бид шинэ харилцагчдад хорин хувийн хямдрал үзүүлнэ.",
+   "en": "Yes, but their fees are high. We offer new customers a twenty percent discount.",
+   "mn_latin": "Tiim, gekhdee tednii shimtgel öndör. Bid shine khariltsagchdad khorin khuviin khyamdral üzüülne."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Би цалингийнхаа гуравны нэгийг хадгалахаар төлөвлөж байна.",
+   "en": "I plan to save one third of my salary.",
+   "mn_latin": "Bi tsalingiinkhaa guravny negiig khadgalakhaar tölövlöj baina."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Сайн санаа. Хадгаламжийн хэмжээ нэмэгдэх тусам хүүгийн орлого өснө.",
+   "en": "Good idea. As the amount of savings grows, your interest income grows.",
+   "mn_latin": "Sain sanaa. Khadgalamjiin khemjee nemegdekh tusam khüügiin orlogo ösnö."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Тэгвэл хоёр банкны нөхцөлийг дахин харьцуулаад шийдье.",
+   "en": "Then I'll compare the two banks' terms again and decide.",
+   "mn_latin": "Tegvel khoyor bankny nökhtsöliig dakhin kharitsuulaad shiidiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, banks often advertise savings rates per year and sometimes per month, so it is wise to check which one is quoted. Many families in Ulaanbaatar save for Tsagaan Sar, school fees or an apartment, and compare offers from banks such as Khan Bank and Golomt. Interest rates in Mongolia have often been higher than in many other countries.",
+  "mn": "Монголд банкууд хадгаламжийн хүүг жилээр, заримдаа сараар зарладаг тул аль нь болохыг нягталж үзэх хэрэгтэй. Улаанбаатарын олон өрх Цагаан сар, сургалтын төлбөр, орон сууцдаа зориулж хадгалдаг бөгөөд Хаан банк, Голомт зэрэг банкуудын саналыг харьцуулдаг. Монголд хүүгийн түвшин бусад олон орныхоос ихэвчлэн өндөр байсаар ирсэн."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 20,
+  "notes": "Good topic and mostly natural, but 'талаас' as 'half' is wrong, several explanations are garbled or contain wrong terms, and a few sentences need cleanup."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 13,
+  "notes": "Fixed wrong grammar terms, misleading genitive examples, an ambiguous blank option, speaker names, a spelling error and en/mn mismatches.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "en",
+    "why": "'is not welcome to savers' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "'compare ... well' is unnatural"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "match title_mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "гурвын/тавын are not the fraction forms; contradicted гуравны"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "correct terms: хүртвэр/хуваарь, ганц тоо"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'хоёр хувь өссөн' is also acceptable colloquially"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "wrong case name"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "'хүцыг заасан' is meaningless"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "plural depends on the numerator; match explain_en"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "speaker",
+    "why": "consistent speaker name"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "speaker",
+    "why": "consistent speaker name"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "standard spelling нөхцөлийг"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'байсан удаатай' (at times) ≠ 'often'"
+   }
+  ]
+ }
+}

@@ -1,0 +1,482 @@
+{
+ "intro_en": "You will learn how to view an apartment in Ulaanbaatar and ask a landlord about rent, deposit and utilities. You will also practice the formal -на ending used in written contract terms, and 'it is said that...' for general claims about the rental market.",
+ "intro_mn": "Та Улаанбаатарт байр үзэж, түрээслүүлэгчээс түрээс, барьцаа, нэмэлт төлбөрийн талаар асууж сурна. Мөн гэрээний нөхцөлд хэрэглэдэг албан ёсны -на нөхцөл болон түрээсийн зах зээлийн талаарх ерөнхий яриаг илэрхийлэх \"it is said that...\" загварыг дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "түрээс",
+   "en": "rent",
+   "pos": "noun",
+   "example_mn": "Сарын түрээс хэд вэ?",
+   "example_en": "How much is the monthly rent?",
+   "mn_latin": "türees"
+  },
+  {
+   "mn": "барьцаа",
+   "en": "deposit",
+   "pos": "noun",
+   "example_mn": "Барьцааг гэрээ дуусахад буцааж өгнө.",
+   "example_en": "The deposit will be returned when the contract ends.",
+   "mn_latin": "baritsaa"
+  },
+  {
+   "mn": "түрээслэгч",
+   "en": "tenant",
+   "pos": "noun",
+   "example_mn": "Түрээслэгч сар бүр төлбөрөө төлнө.",
+   "example_en": "The tenant pays every month.",
+   "mn_latin": "türeeslegch"
+  },
+  {
+   "mn": "түрээслүүлэгч",
+   "en": "landlord",
+   "pos": "noun",
+   "example_mn": "Түрээслүүлэгч надад байраа үзүүлсэн.",
+   "example_en": "The landlord showed me the apartment.",
+   "mn_latin": "türeeslüülegch"
+  },
+  {
+   "mn": "түрээслэх",
+   "en": "to rent",
+   "pos": "verb",
+   "example_mn": "Бид гурван өрөө байр түрээслэхийг хүсч байна.",
+   "example_en": "We want to rent a three-room apartment.",
+   "mn_latin": "türeeslekh"
+  },
+  {
+   "mn": "гэрээ",
+   "en": "contract",
+   "pos": "noun",
+   "example_mn": "Гэрээнд гарын үсэг зурахаасаа өмнө сайн уншаарай.",
+   "example_en": "Read the contract carefully before you sign it.",
+   "mn_latin": "geree"
+  },
+  {
+   "mn": "дулааны төлбөр",
+   "en": "heating fee",
+   "pos": "noun",
+   "example_mn": "Өвлийн дулааны төлбөр нэлээд өндөр байдаг.",
+   "example_en": "The heating fee in winter is quite high.",
+   "mn_latin": "dulaany tölbör"
+  },
+  {
+   "mn": "байр үзэх",
+   "en": "to view (a property)",
+   "pos": "verb phrase",
+   "example_mn": "Маргааш орой байр үзэж болох уу?",
+   "example_en": "Can we view the apartment tomorrow evening?",
+   "mn_latin": "bair üzekh"
+  },
+  {
+   "mn": "урьдчилж төлөх",
+   "en": "to pay in advance",
+   "pos": "verb phrase",
+   "example_mn": "Хоёр сарын түрээсийг урьдчилж төлнө.",
+   "example_en": "Two months' rent is paid in advance.",
+   "mn_latin": "uridchilj tölökh"
+  },
+  {
+   "mn": "тохилог",
+   "en": "cozy, comfortable",
+   "pos": "adjective",
+   "example_mn": "Энэ байр жижиг ч тохилог юм байна.",
+   "example_en": "This apartment is small, but it's cozy.",
+   "mn_latin": "tokhilog"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сарын түрээс нэг сая таван зуун мянган төгрөг байна.",
+   "en": "The monthly rent is 1,500,000 tugriks.",
+   "alt_mn": [
+    "Сарын түрээс нэг сая таван зуун мянган төгрөг."
+   ],
+   "alt_en": [
+    "The rent is 1.5 million tugriks a month."
+   ],
+   "mn_latin": "Saryn türees neg saya tavan zuun myangan tögrög baina."
+  },
+  {
+   "mn": "Барьцааг гэрээ дуусахад буцаан олгоно.",
+   "en": "The deposit will be refunded when the contract ends.",
+   "alt_mn": [
+    "Барьцааг гэрээ дуусмагц буцааж өгнө."
+   ],
+   "alt_en": [
+    "The deposit is returned at the end of the contract."
+   ],
+   "mn_latin": "Baritsaag geree duusakhad butsaan olgono."
+  },
+  {
+   "mn": "Түрээслэгч цахилгаан, усны төлбөрийг өөрөө төлнө.",
+   "en": "The tenant pays the electricity and water bills himself.",
+   "alt_mn": [],
+   "alt_en": [
+    "The tenant pays for electricity and water on their own."
+   ],
+   "mn_latin": "Türeeslegch tsakhilgaan, usny tölböriig ööröö tölnö."
+  },
+  {
+   "mn": "Түрээслүүлэгч байрны засварыг хариуцна.",
+   "en": "The landlord is responsible for the repairs to the apartment.",
+   "alt_mn": [
+    "Түрээслүүлэгч байрны засварыг хариуцах болно."
+   ],
+   "alt_en": [
+    "The landlord takes responsibility for the apartment's repairs."
+   ],
+   "mn_latin": "Türeeslüülegch bairny zasvaryg khariutsna."
+  },
+  {
+   "mn": "Түрээсийг сар бүрийн тавны дотор төлнө.",
+   "en": "The rent is paid by the fifth of each month.",
+   "alt_mn": [
+    "Түрээсийг сар бүрийн 5-ны дотор төлнө."
+   ],
+   "alt_en": [
+    "The rent must be paid by the fifth day of every month."
+   ],
+   "mn_latin": "Türeesiig sar büriin tavny dotor tölnö."
+  },
+  {
+   "mn": "Байрыг үзэж болох уу?",
+   "en": "May I see the apartment?",
+   "alt_mn": [
+    "Байрыг орж үзэж болох уу?"
+   ],
+   "alt_en": [
+    "Can I view the apartment?"
+   ],
+   "mn_latin": "Bairyg üzej bolokh uu?"
+  },
+  {
+   "mn": "Дулааны төлбөр түрээсэнд орсон уу?",
+   "en": "Is the heating fee included in the rent?",
+   "alt_mn": [
+    "Дулааны төлбөр түрээсэнд багтсан уу?"
+   ],
+   "alt_en": [
+    "Does the rent include heating?"
+   ],
+   "mn_latin": "Dulaany tölbör türeesend orson uu?"
+  },
+  {
+   "mn": "Нэг жилийн хугацаатай тогтмол гэрээгээр түрээслэнэ.",
+   "en": "The apartment is rented under a fixed contract for one year.",
+   "alt_mn": [
+    "Нэг жилийн хугацаатай гэрээгээр түрээслэнэ."
+   ],
+   "alt_en": [
+    "It is let for a one-year fixed term."
+   ],
+   "mn_latin": "Neg jiliin khugatsaatai togtmol gereegeer türeeslene."
+  },
+  {
+   "mn": "Төвийн байрны түрээс жил бүр өсдөг гэж ярьдаг.",
+   "en": "It is said that rents for downtown apartments rise every year.",
+   "alt_mn": [
+    "Хотын төвийн байрны түрээс жил бүр өсдөг гэдэг."
+   ],
+   "alt_en": [
+    "People say that downtown rents go up every year."
+   ],
+   "mn_latin": "Töviin bairny türees jil bür ösdög gej yaridag."
+  },
+  {
+   "mn": "Орон сууцны үнэ удахгүй буурна гэж үздэг.",
+   "en": "It is believed that apartment prices will fall soon.",
+   "alt_mn": [
+    "Орон сууцны үнэ удахгүй буурна гэж боддог."
+   ],
+   "alt_en": [
+    "Apartment prices are believed to be about to drop."
+   ],
+   "mn_latin": "Oron suutsny üne udakhgüi buurna gej üzdeg."
+  },
+  {
+   "mn": "Гэрээг цуцлах бол нэг сарын өмнө мэдэгдэнэ.",
+   "en": "If the contract is to be terminated, notice is given one month ahead.",
+   "alt_mn": [
+    "Гэрээг цуцлах тохиолдолд нэг сарын өмнө мэдэгдэнэ."
+   ],
+   "alt_en": [
+    "If you want to cancel the contract, you give one month's notice."
+   ],
+   "mn_latin": "Gereeg tsutslakh bol neg saryn ömnö medegdene."
+  },
+  {
+   "mn": "Байранд тэжээвэр амьтан байлгахыг хориглоно.",
+   "en": "Keeping pets in the apartment is prohibited.",
+   "alt_mn": [
+    "Тэжээвэр амьтан байлгахыг хориглоно."
+   ],
+   "alt_en": [
+    "Pets are not allowed in the apartment."
+   ],
+   "mn_latin": "Bairand tejeever amitan bailgakhyg khoriglono."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal -на in contract terms, and 'it is said that...'",
+  "title_mn": "Гэрээний нөхцөлийн -на нөхцөл ба \"it is said that...\"",
+  "explain_en": "In written rules and contracts, Mongolian uses the plain verb ending -на/-нэ/-но/-нө (төлнө, олгоно, хариуцна). It sounds formal and neutral, and covers both present and future obligations: 'is paid', 'will be paid', 'must pay'. Spoken Mongolian also often uses it for promises. For prohibitions, use the -хыг хориглоно pattern. For general claims about the market, Mongolian uses a verb in -даг/-дэг + гэж ярьдаг/гэдэг ('they say that...'). English uses the passive: 'It is said that rents are rising' or 'It is believed that prices will fall'. Here 'it' is an empty subject, and a full clause follows 'that'. You can also say 'Rents are said to be rising' (be said to + verb). In English contracts, the -на meaning is expressed with 'The tenant shall pay...' or 'The rent is paid...'. These phrases report what people generally think, not a proven fact.",
+  "explain_mn": "Монгол хэлэнд дүрэм, гэрээнд -на/-нэ/-но/-нө нөхцөлийг (төлнө, олгоно, хариуцна) хэрэглэдэг. Энэ нь албан ёсны, төвийг сахисан өнгөтэй бөгөөд одоо болон ирээдүйн үүргийг хоёуланг нь илэрхийлнэ. Ярианд амлалт өгөхдөө ч их хэрэглэдэг. Хоригийг -хыг хориглоно загвараар илэрхийлнэ. Зах зээлийн талаарх ерөнхий яриаг -даг/-дэг + гэж ярьдаг/гэдэг гэж хэлнэ. Англи хэлэнд \"It is said that...\", \"It is believed that...\" гэсэн passive (үйлдэгдэх) бүтцийг хэрэглэнэ: It is said that rents are rising. \"It\" нь хоосон өгүүлэгдэхүүн бөгөөд that-аас хойш бүтэн өгүүлбэр орно. Мөн Rents are said to be rising гэж хэлж болно (be said to + үйл үг). Гэрээнд монгол -на нөхцөлийн утгыг англиар \"The tenant shall pay...\" эсвэл \"The rent is paid...\" гэж бичдэг. Эдгээр хэллэг нь батлагдсан баримт биш, олон хүний санаа бодлыг дамжуулдаг.",
+  "examples": [
+   {
+    "mn": "Түрээслэгч сар бүр түрээсээ төлнө.",
+    "en": "The tenant pays the rent every month.",
+    "mn_latin": "Türeeslegch sar bür türeesee tölnö."
+   },
+   {
+    "mn": "Барьцааг гэрээ дуусахад буцаан олгоно.",
+    "en": "The deposit will be refunded when the contract ends.",
+    "mn_latin": "Baritsaag geree duusakhad butsaan olgono."
+   },
+   {
+    "mn": "Байранд тамхи татахыг хориглоно.",
+    "en": "Smoking in the apartment is prohibited.",
+    "mn_latin": "Bairand tamkhi tatakhyg khoriglono."
+   },
+   {
+    "mn": "Түрээс өсөж байна гэж ярьдаг.",
+    "en": "It is said that rents are rising.",
+    "mn_latin": "Türees ösöj baina gej yaridag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Түрээслэгч сар бүр түрээсээ төл___.",
+   "answer": "нө",
+   "options": [
+    "нө",
+    "ж",
+    "сан",
+    "ох"
+   ],
+   "translation": "The tenant pays the rent every month.",
+   "explain_en": "Төлөх has an 'ө' stem, so the formal ending harmonizes as -нө: төлнө.",
+   "explain_mn": "Төлөх үйл үгийн үндэс «ө» эгшигтэй тул -на нөхцөл эгшгийн зохицлоор -нө болно: төлнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Барьцааг гэрээ дуусахад буцааж өг___.",
+   "answer": "нө",
+   "options": [
+    "нө",
+    "на",
+    "нэ",
+    "но"
+   ],
+   "translation": "The deposit will be returned when the contract ends.",
+   "explain_en": "Өгөх has ө, so it takes -нө: өгнө.",
+   "explain_mn": "Өгөх гэдэг үгэнд «ө» байгаа тул -нө нөхцөл залгана: өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Түрээслүүлэгч засварыг хариуц___.",
+   "answer": "на",
+   "options": [
+    "на",
+    "нэ",
+    "нө",
+    "но"
+   ],
+   "translation": "The landlord is responsible for the repairs.",
+   "explain_en": "Хариуцах has back vowels (а, у), so the ending is -на: хариуцна.",
+   "explain_mn": "Хариуцах гэдэг үг эр (а, у) эгшигтэй тул -на нөхцөл залгана: хариуцна."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ said that rents in Ulaanbaatar rise every autumn.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "does",
+    "has"
+   ],
+   "translation": "Улаанбаатарт түрээс намар бүр өсдөг гэж ярьдаг.",
+   "explain_en": "'It is said that...' uses the passive with the dummy subject 'it'.",
+   "explain_mn": "\"It is said that...\" нь үйлдэгдэх (passive) бүтэц бөгөөд «It» хоосон өгүүлэгдэхүүнтэй, is + said гэж хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Apartment prices are believed ___ fall next year.",
+   "answer": "to",
+   "options": [
+    "to",
+    "that",
+    "for",
+    "of"
+   ],
+   "translation": "Орон сууцны үнэ ирэх жил буурна гэж үздэг.",
+   "explain_en": "The pattern 'are believed to + verb' reports a general belief about the subject.",
+   "explain_mn": "\"are believed to + үйл үг\" загвар нь ерөнхий итгэл үзлийг хүн нэрлэхгүйгээр илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The tenant must pay the deposit ___ advance.",
+   "answer": "in",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "translation": "Түрээслэгч барьцааг урьдчилж төлөх ёстой.",
+   "explain_en": "The fixed phrase is 'in advance'.",
+   "explain_mn": "«Урьдчилж» гэсэн утгатай тогтсон хэллэг нь 'in advance'."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу? Би байрны зарыг хараад ирсэн юм.",
+   "en": "Hello. I've come about the apartment ad.",
+   "mn_latin": "Sain baina uu? Bi bairny zaryg kharaad irsen yum."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тийм ээ, би түрээслүүлэгч. Орж үзнэ үү.",
+   "en": "Yes, I'm the landlord. Please come in and take a look.",
+   "mn_latin": "Tiim ee, bi türeeslüülegch. Orj üzne üü."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Байр тохилог юм байна. Сарын түрээс хэд вэ?",
+   "en": "The apartment is cozy. How much is the monthly rent?",
+   "mn_latin": "Bair tokhilog yum baina. Saryn türees khed ve?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Нэг сая дөрвөн зуун мянган төгрөг. Барьцаа нэг сарын түрээстэй тэнцэнэ.",
+   "en": "1,400,000 tugriks. The deposit equals one month's rent.",
+   "mn_latin": "Neg saya dörvön zuun myangan tögrög. Baritsaa neg saryn türeestei tentsene."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Дулаан, цахилгааны төлбөр түрээсэнд орсон уу?",
+   "en": "Are heating and electricity included in the rent?",
+   "mn_latin": "Dulaan, tsakhilgaany tölbör türeesend orson uu?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Үгүй, түрээслэгч тэдгээрийг тусад нь төлнө. Өвөл дулааны төлбөр өндөр байдаг.",
+   "en": "No, the tenant pays those separately. In winter the heating fee is high.",
+   "mn_latin": "Ügüi, türeeslegch tedgeeriig tusad ni tölnö. Övöl dulaany tölbör öndör baidag."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Ойлголоо. Энэ хороололд түрээс жил бүр өсдөг гэдэг шүү дээ.",
+   "en": "I see. They say rents in this district go up every year, you know.",
+   "mn_latin": "Oilgoloo. Ene khoroolold türees jil bür ösdög gedeg shüü dee."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тийм, гэхдээ нэг жилийн гэрээний хугацаанд үнийг өөрчлөхгүй. Гэрээг маргааш уншаарай.",
+   "en": "True, but during a one-year contract the price won't change. Please read the contract tomorrow.",
+   "mn_latin": "Tiim, gekhdee neg jiliin gereenii khugatsaand üniig öörchlökhgüi. Gereeg margaash unshaarai."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar many people find apartments through Facebook groups, websites like unegui.mn, or friends, and rent is often paid monthly in cash or by bank transfer. A deposit equal to one month's rent is common, and utilities, especially winter heating, are frequently billed separately. It is wise to put everything in a written contract and take photos of the apartment's condition before moving in.",
+  "mn": "Улаанбаатарт олон хүн байрыг Facebook бүлэг, unegui.mn зэрэг сайт эсвэл танилаараа дамжуулан олдог бөгөөд түрээсийг сар бүр бэлнээр эсвэл банкаар шилжүүлж төлдөг. Нэг сарын түрээстэй тэнцэх барьцаа тавих нь элбэг, харин ус, цахилгаан, ялангуяа өвлийн дулааны төлбөрийг тусад нь төлөх нь олонтоо. Бүх нөхцөлөө бичгээр гэрээ болгож, орохын өмнө байрны байдлыг зургийн хамт тэмдэглэх нь зүйтэй."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 17,
+  "notes": "Mostly good; a few real errors (таваны, odd 'хөдөлгөөнгүй гэрээ', wrong grammar terminology, duplicate/broken alts)."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed the fill-in stem, the vowel term, spelling, dialogue logic, a duplicate alt, and the mismatched grammar explanations.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'дадна' is the wrong verb here; also added the missing 'formal' and rental-market parts so it matches the English intro"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "The standard spelling is нэлээд"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "mn",
+    "why": "'үзлэг хийх' means an inspection; a renter viewing an apartment is 'байр үзэх'"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Matches the corrected headword"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "'үзлэг хийх' is unnatural for viewing an apartment"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Brought in line with the mn version (are said to, shall)"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn version omitted the -на explanation, so the two versions did not match"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "The blank must attach to the stem; 'өгөхнө' is wrong"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "The correct term is эр эгшиг, not сул"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'бүр' is standard; 'болгон' is colloquial"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "He was 'calling', but the landlord invites him in, which is contradictory"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "Matches the corrected line"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "Natural spoken English"
+   }
+  ]
+ }
+}

@@ -1,0 +1,399 @@
+{
+ "intro_en": "Join a foreman as he briefs new workers on site equipment and measuring. You'll learn the Mongolian suffix -уур/-үүр, which turns verbs into tool names (хэмжих → хэмжүүр), and the English cleft \"It wasn't until... that...\" for saying something happened later than expected.",
+ "intro_mn": "Бригадын дарга шинэ ажилчдад тоног төхөөрөмж, хэмжилтийн талаар зааварчилгаа өгөхийг сонсоорой. Үйл үгээс багажны нэр үүсгэдэг -уур/-үүр дагаврыг (хэмжих → хэмжүүр) судална. Мөн ямар нэг зүйл бодсоноос хожуу болсныг илэрхийлэх англи хэлний \"It wasn't until... that...\" бүтцийг эзэмшинэ.",
+ "vocab": [
+  {
+   "mn": "өргөгч кран",
+   "en": "crane",
+   "pos": "noun",
+   "example_mn": "Өргөгч кран бетон хавтанг дээш өргөв.",
+   "example_en": "The crane lifted the concrete slab.",
+   "mn_latin": "örgögch kran"
+  },
+  {
+   "mn": "хэмжүүр",
+   "en": "tape measure; measuring tool",
+   "pos": "noun",
+   "example_mn": "Хэмжүүрээ үргэлж биедээ авч яваарай.",
+   "example_en": "Always keep your tape measure on you.",
+   "mn_latin": "khemjüür"
+  },
+  {
+   "mn": "түвшин хэмжигч",
+   "en": "spirit level",
+   "pos": "noun",
+   "example_mn": "Түвшин хэмжигчээр хананы тэгш байдлыг шалга.",
+   "example_en": "Use the spirit level to check that the wall is straight.",
+   "mn_latin": "tüvshin khemjigch"
+  },
+  {
+   "mn": "шат",
+   "en": "ladder",
+   "pos": "noun",
+   "example_mn": "Шатыг хатуу газар тавь.",
+   "example_en": "Set the ladder on firm ground.",
+   "mn_latin": "shat"
+  },
+  {
+   "mn": "тоног төхөөрөмж",
+   "en": "equipment",
+   "pos": "noun",
+   "example_mn": "Шинэ тоног төхөөрөмж өчигдөр ирсэн.",
+   "example_en": "The new equipment arrived yesterday.",
+   "mn_latin": "tonog tökhöörömj"
+  },
+  {
+   "mn": "түлхүүр",
+   "en": "key",
+   "pos": "noun",
+   "example_mn": "Агуулахын түлхүүр хэнд байна вэ?",
+   "example_en": "Who has the key to the storeroom?",
+   "mn_latin": "tülkhüür"
+  },
+  {
+   "mn": "шүүр",
+   "en": "broom",
+   "pos": "noun",
+   "example_mn": "Ажлын дараа шалыг шүүрээр шүүрд.",
+   "example_en": "Sweep the floor with the broom after work.",
+   "mn_latin": "shüür"
+  },
+  {
+   "mn": "хусуур",
+   "en": "trowel; scraper",
+   "pos": "noun",
+   "example_mn": "Зуурмагийг хусуураар тэгшил.",
+   "example_en": "Smooth the mortar with the trowel.",
+   "mn_latin": "khusuur"
+  },
+  {
+   "mn": "тоолуур",
+   "en": "meter (utility)",
+   "pos": "noun",
+   "example_mn": "Цахилгааны тоолуур хонгилд байгаа.",
+   "example_en": "The electricity meter is in the basement.",
+   "mn_latin": "tooluur"
+  },
+  {
+   "mn": "хамгаалалтын малгай",
+   "en": "hard hat",
+   "pos": "noun",
+   "example_mn": "Хамгаалалтын малгайгүй хүн талбайд орохыг хориглоно.",
+   "example_en": "Nobody enters the site without a hard hat.",
+   "mn_latin": "khamgaalaltyn malgai"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өргөгч кран үд болж байж л ирсэн.",
+   "en": "It wasn't until noon that the crane arrived.",
+   "alt_mn": [
+    "Өргөгч кран үдээс өмнө ирээгүй.",
+    "Кран үд болсны дараа л ирсэн."
+   ],
+   "alt_en": [
+    "The crane didn't arrive until noon."
+   ],
+   "mn_latin": "Örgögch kran üd bolj baij l irsen."
+  },
+  {
+   "mn": "Шатан дээр гарахаасаа өмнө хатуу газар зогсож байгаа эсэхийг нь шалгаарай.",
+   "en": "Before you climb the ladder, check that it's standing on firm ground.",
+   "alt_mn": [
+    "Шатаар авирахаасаа өмнө хатуу газар тавьсан эсэхийг нь шалгаарай."
+   ],
+   "alt_en": [
+    "Before climbing the ladder, make sure it's on firm ground."
+   ],
+   "mn_latin": "Shatan deer garakhaasaa ömnö khatuu gazar zogsoj baigaa esekhiig ni shalgaarai."
+  },
+  {
+   "mn": "\"Долоо хэмжиж, нэг огтол\" гэдэг бол энэ талбайн хамгийн эхний дүрэм.",
+   "en": "\"Measure seven times, cut once\" is the very first rule on this site.",
+   "alt_mn": [],
+   "alt_en": [
+    "\"Measure twice, cut once\" is the first rule on this site."
+   ],
+   "mn_latin": "\"Doloo khemjij, neg ogtol\" gedeg bol ene talbain khamgiin ekhnii dürem."
+  },
+  {
+   "mn": "Түвшин хэмжигчээр шалгаж байж л хана муруй байгааг анзаарсан.",
+   "en": "It wasn't until we checked with the level that we noticed the wall was crooked.",
+   "alt_mn": [
+    "Түвшин хэмжигчээр шалгах хүртэл хана муруй байгааг анзаараагүй."
+   ],
+   "alt_en": [
+    "We didn't notice the wall was crooked until we checked it with the level."
+   ],
+   "mn_latin": "Tüvshin khemjigcheer shalgaj baij l khana murui baigaag anzaarsan."
+  },
+  {
+   "mn": "Хэмжүүр багажны хайрцагт байгаа, харин түлхүүр нь бригадын даргад байгаа.",
+   "en": "The tape measure is in the toolbox, but the foreman has the key.",
+   "alt_mn": [],
+   "alt_en": [
+    "The tape measure's in the toolbox, but the key is with the foreman."
+   ],
+   "mn_latin": "Khemjüür bagajny khairtsagt baigaa, kharin tülkhüür ni brigadyn dargad baigaa."
+  },
+  {
+   "mn": "Аюулгүй ажиллагааны зааварчилгаа аваагүй хүн энэ тоног төхөөрөмжийг ажиллуулж болохгүй.",
+   "en": "Nobody may operate this equipment without a safety briefing.",
+   "alt_mn": [
+    "Зааварчилгаа аваагүй хэн ч энэ тоног төхөөрөмжийг ажиллуулахгүй."
+   ],
+   "alt_en": [
+    "No one operates this equipment without a safety briefing."
+   ],
+   "mn_latin": "Ayuulgüi ajillagaany zaavarchilgaa avaagüi khün ene tonog tökhöörömjiig ajilluulj bolokhgüi."
+  },
+  {
+   "mn": "Ээлж бүрийн төгсгөлд тавцанг шүүрээр шүүрдээрэй.",
+   "en": "Sweep the platform with a broom at the end of every shift.",
+   "alt_mn": [
+    "Ээлж дуусах бүрд тавцанг шүүрдээрэй."
+   ],
+   "alt_en": [
+    "At the end of each shift, sweep the platform."
+   ],
+   "mn_latin": "Eelj büriin tögsgöld tavtsang shüüreer shüürdeerei."
+  },
+  {
+   "mn": "Байцаагч ирж байж л хэн нэгэн цахилгааны тоолуурыг шалгасан.",
+   "en": "It wasn't until the inspector came that anyone checked the electricity meter.",
+   "alt_mn": [
+    "Байцаагч ирэх хүртэл хэн ч цахилгааны тоолуурыг шалгаагүй."
+   ],
+   "alt_en": [
+    "Nobody checked the electricity meter until the inspector came."
+   ],
+   "mn_latin": "Baitsaagch irj baij l khen negen tsakhilgaany tooluuryg shalgasan."
+  },
+  {
+   "mn": "Зуурмагийг хусуураар жигд түрхээрэй.",
+   "en": "Use the trowel to spread the mortar evenly.",
+   "alt_mn": [
+    "Хусуураар зуурмагийг жигд тараарай."
+   ],
+   "alt_en": [
+    "Spread the mortar evenly with the trowel."
+   ],
+   "mn_latin": "Zuurmagiig khusuuraar jigd türkheerei."
+  },
+  {
+   "mn": "Тохируулаагүй түвшин хэмжигч байхгүй байснаас ч дор.",
+   "en": "An uncalibrated level is worse than no level at all.",
+   "alt_mn": [],
+   "alt_en": [
+    "A level that hasn't been calibrated is worse than having none."
+   ],
+   "mn_latin": "Tokhiruulaagüi tüvshin khemjigch baikhgüi baisnaas ch dor."
+  },
+  {
+   "mn": "Өнгөрсөн өвөл болж байж л компани зохих тоног төхөөрөмж худалдаж авсан.",
+   "en": "It wasn't until last winter that the company bought proper equipment.",
+   "alt_mn": [
+    "Компани өнгөрсөн өвөл л зохих тоног төхөөрөмж авсан."
+   ],
+   "alt_en": [
+    "The company didn't buy proper equipment until last winter."
+   ],
+   "mn_latin": "Öngörsön övöl bolj baij l kompani zokhikh tonog tökhöörömj khudaldaj avsan."
+  },
+  {
+   "mn": "Талбайн оффисын халаагуур ажиллахгүй байгаа болохоор бид хүрэмтэйгээ сууж байна.",
+   "en": "The heater in the site office isn't working, so we're keeping our jackets on.",
+   "alt_mn": [],
+   "alt_en": [
+    "The site office heater is broken, so we've kept our jackets on."
+   ],
+   "mn_latin": "Talbain offisyn khalaaguur ajillakhgüi baigaa bolokhoor bid khüremteigee suuj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Tool names from verbs: -уур/-үүр",
+  "title_mn": "\"It wasn't until... that...\": хожуу болсон үйлийг онцлох",
+  "explain_en": "Mongolian makes many tool names by adding -уур/-үүр to a verb stem: the tool is \"the thing you do X with.\" Vowel harmony picks the ending. Back-vowel words take -уур (хусах 'to scrape' → хусуур 'trowel', тоолох 'to count' → тоолуур 'meter'). Front-vowel words take -үүр (хэмжих 'to measure' → хэмжүүр, түлхэх 'to push' → түлхүүр 'key'). These are normal nouns, so they take case endings: хусуураар 'with a trowel', хэмжүүрээр 'with a measure'. Not every tool works this way. Шүүр 'broom' is a basic noun, and the verb шүүрдэх 'to sweep' comes from it, not the other way around. A saw is simply хөрөө, so learn each word as you meet it.",
+  "explain_mn": "Англи хэлэнд ямар нэг зүйл бодсоноос хожуу болсныг онцлохдоо \"It wasn't until + цаг/үйл явдал + that + үйл үг\" бүтцийг хэрэглэнэ. Жишээ нь: \"It wasn't until noon that the crane arrived\" буюу \"Кран үд болж байж л ирсэн.\" Энэ нь \"The crane didn't arrive until noon\" гэсэн өгүүлбэрийн илүү онцолсон хувилбар юм. that-ийн дараах үйл үг нь үгүйсгэлгүй, эерэг хэлбэртэй байна (that the crane arrived). Монгол хэлэнд үүнийг ихэвчлэн \"-ж байж л\", \"-сны дараа л\" эсвэл \"...хүртэл ...-аагүй\" гэж илэрхийлдэг.",
+  "examples": [
+   {
+    "mn": "Зуурмагийг хусуураар тэгшил.",
+    "en": "Smooth the mortar with the trowel.",
+    "mn_latin": "Zuurmagiig khusuuraar tegshil."
+   },
+   {
+    "mn": "Хэмжүүрээ мартаж болохгүй шүү.",
+    "en": "Don't forget your tape measure.",
+    "mn_latin": "Khemjüüree martaj bolokhgüi shüü."
+   },
+   {
+    "mn": "Бригадын дарга ирж байж л ажил эхэлсэн.",
+    "en": "It wasn't until the foreman arrived that work began.",
+    "mn_latin": "Brigadyn darga irj baij l ajil ekhelsen."
+   },
+   {
+    "mn": "Хавар болж байж л шинэ шат авсан.",
+    "en": "It wasn't until spring that we got new ladders.",
+    "mn_latin": "Khavar bolj baij l shine shat avsan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Агуулахын ___ хэнд байна вэ?",
+   "answer": "түлхүүр",
+   "options": [
+    "түлхүүр",
+    "хэмжүүр",
+    "шүүр",
+    "тоолуур"
+   ],
+   "translation": "Who has the key to the storeroom?",
+   "explain_en": "A storeroom is opened with a key: түлхүүр, from түлхэх 'to push'. Хэмжүүр is a measure, шүүр a broom, тоолуур a meter.",
+   "explain_mn": "Агуулахын хаалгыг түлхүүрээр онгойлгоно. Хэмжүүр, шүүр, тоолуур нь өөр зориулалттай багаж."
+  },
+  {
+   "lang": "mn",
+   "text": "Тавцанг шүүр___ шүүрдээрэй.",
+   "answer": "ээр",
+   "options": [
+    "ээр",
+    "ийг",
+    "т",
+    "ээс"
+   ],
+   "translation": "Sweep the platform with the broom.",
+   "explain_en": "'With a tool' is the instrumental case: шүүр + ээр. -ийг is the accusative, -т the dative/locative, and -ээс the ablative ('from').",
+   "explain_mn": "Багажаар үйлдэхийг үйлдэхийн тийн ялгалаар (-аар/-ээр) илэрхийлнэ: шүүрээр."
+  },
+  {
+   "lang": "mn",
+   "text": "Цахилгааны тоол___ шалгах хэрэгтэй.",
+   "answer": "уурыг",
+   "options": [
+    "уурыг",
+    "үүрийг",
+    "уурт",
+    "үүрт"
+   ],
+   "translation": "We need to check the electricity meter.",
+   "explain_en": "Тоолох has back vowels, so it takes -уур (тоолуур). As the direct object it then takes the accusative -ыг.",
+   "explain_mn": "Тоолох нь эр үг тул -уур дагавар авна. Шалгах үйлийн тусагдахуун учир заахын тийн ялгал -ыг залгана."
+  },
+  {
+   "lang": "en",
+   "text": "It wasn't ___ noon that the crane arrived.",
+   "answer": "until",
+   "options": [
+    "until",
+    "since",
+    "by",
+    "before"
+   ],
+   "translation": "Өргөгч кран үд болж байж л ирсэн.",
+   "explain_en": "The fixed pattern is \"It wasn't until X that...\". No other preposition works here.",
+   "explain_mn": "Энэ бүтэц үргэлж \"It wasn't until\" гэж эхэлнэ. since, by, before тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "It wasn't until the foreman arrived ___ we started work.",
+   "answer": "that",
+   "options": [
+    "that",
+    "when",
+    "then",
+    "which"
+   ],
+   "translation": "Бригадын дарга ирж байж л бид ажлаа эхэлсэн.",
+   "explain_en": "In this cleft, the second part is introduced by \"that\". \"When\" and \"then\" are common mistakes.",
+   "explain_mn": "Хоёр дахь хэсэг нь заавал \"that\"-аар эхэлнэ. when, then гэж хэлбэл алдаа болно."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ until last week that we got new ladders.",
+   "answer": "wasn't",
+   "options": [
+    "wasn't",
+    "isn't",
+    "didn't",
+    "weren't"
+   ],
+   "translation": "Өнгөрсөн долоо хоногт л бид шинэ шаттай болсон.",
+   "explain_en": "The verb is always singular \"it was\", and it's past here because the event is past. \"Didn't\" can't follow \"it\" in this pattern.",
+   "explain_mn": "Энэ бүтцэд \"it\"-ийн дараа үргэлж \"was/wasn't\" орно. Өнгөрсөн үйл тул wasn't болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батболд",
+   "mn": "За, залуусаа, сонсоорой. Хамгаалалтын малгайгүй хэн ч энэ талбайд орохгүй.",
+   "en": "All right, guys, listen up. Nobody sets foot on this site without a hard hat.",
+   "mn_latin": "Za, zaluusaa, sonsooroi. Khamgaalaltyn malgaigüi khen ch ene talbaid orokhgüi."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Ойлголоо. Хэмжүүр, түвшин хэмжигчийг хаанаас авах вэ?",
+   "en": "Got it. Where do we get tape measures and levels?",
+   "mn_latin": "Oilgoloo. Khemjüür, tüvshin khemjigchiig khaanaas avakh ve?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Агуулахад байгаа. Түлхүүр нь надад бий, өглөө бүр онгойлгоно.",
+   "en": "They're in the storeroom. I've got the key, and I open it every morning.",
+   "mn_latin": "Aguulakhad baigaa. Tülkhüür ni nadad bii, öglöö bür ongoilgono."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Өчигдөр кран хоцорсон гэсэн үү?",
+   "en": "I heard the crane was late yesterday?",
+   "mn_latin": "Öchigdör kran khotsorson gesen üü?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Тийм ээ, үд болж байж л ирсэн. Тэгээд л бүх ажил хойшилсон.",
+   "en": "Yeah, it wasn't until noon that it showed up. That pushed all the work back.",
+   "mn_latin": "Tiim ee, üd bolj baij l irsen. Tegeed l bükh ajil khoishilson."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Шатыг хэрэглэхээсээ өмнө шалгах ёстой юу?",
+   "en": "Do we have to inspect the ladders before using them?",
+   "mn_latin": "Shatyg khereglekheesee ömnö shalgakh yostoi yuu?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Заавал. Өнгөрсөн жил хугархай шатнаас нэг хүн унаж байж л бид шалгалт эхлүүлсэн.",
+   "en": "Absolutely. It wasn't until someone fell off a broken ladder last year that we started inspections.",
+   "mn_latin": "Zaaval. Öngörsön jil khugarkhai shatnaas neg khün unaj baij l bid shalgalt ekhlüülsen."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Тэгвэл \"Долоо хэмжиж, нэг огтол\" гэдэг шиг болгоомжтой ажиллая.",
+   "en": "Then let's be careful, like the saying goes: \"Measure seven times, cut once.\"",
+   "mn_latin": "Tegvel \"Doloo khemjij, neg ogtol\" gedeg shig bolgoomjtoi ajillaya."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar's building season is short. Concrete work mostly runs from about April to October, so summer skylines fill with cranes and crews work long shifts to finish before the deep freeze. The Mongolian proverb \"Долоо хэмжиж, нэг огтол\" (\"Measure seven times, cut once\") is heard on almost every site and is the local version of \"measure twice, cut once.\"",
+  "mn": "Улаанбаатарын барилгын улирал богино. Бетоны ажил ихэвчлэн 4-10 сарын хооронд явагддаг тул зун хотын тэнгэрт өргөгч кран олширч, ажилчид хүйтэн болохоос өмнө амжуулахын тулд урт ээлжээр ажилладаг. \"Долоо хэмжиж, нэг огтол\" гэдэг зүйр үг бараг бүх барилгын талбайд сонсогддог бөгөөд англи хэлний \"measure twice, cut once\"-тэй дүйцнэ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid lesson with mostly natural Mongolian and English. The fixes are a case-form spelling error, a wrong derivation claim for шүүр, and one awkward alternate phrasing."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is solid overall. I kept the grammar section's en/mn split (each half explains the other language's target grammar) because the intro sets it up that way, so it looks intentional.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_en",
+    "why": "Clearer English. The original word order made 'with the spirit level' ambiguous."
+   }
+  ]
+ }
+}

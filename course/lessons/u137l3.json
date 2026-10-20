@@ -1,0 +1,394 @@
+{
+ "intro_en": "Learn to split rent, electricity, heating, and internet bills with roommates. You'll use -ынх with case endings (Болдынхоос, Сарангийнхад) to talk about whose share is whose.",
+ "intro_mn": "Түрээс, цахилгаан, дулаан, интернэтийн төлбөрөө хамт амьдардаг хүмүүстэйгээ хэрхэн хуваах тухай ярьж сурна. Англи хэлний mine, yours, theirs гэх эзэмшлийн төлөөний үгийг өгүүлэгч болон тусагдахуун байдлаар хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "түрээс",
+   "en": "rent",
+   "pos": "noun",
+   "example_mn": "Энэ байрны түрээс сард нэг сая төгрөг.",
+   "example_en": "The rent for this apartment is one million tugriks a month.",
+   "mn_latin": "türees"
+  },
+  {
+   "mn": "СӨХ-ийн төлбөр",
+   "en": "building association fee",
+   "pos": "noun phrase",
+   "example_mn": "СӨХ-ийн төлбөрт лифт, цэвэрлэгээ ордог.",
+   "example_en": "The building association fee covers the elevator and cleaning.",
+   "mn_latin": "SÖKh-iin tölbör"
+  },
+  {
+   "mn": "дулааны мөнгө",
+   "en": "heating bill",
+   "pos": "noun phrase",
+   "example_mn": "Дулааны мөнгийг байрны талбайгаар нь тооцдог.",
+   "example_en": "The heating bill is calculated by the apartment's floor area.",
+   "mn_latin": "dulaany möngö"
+  },
+  {
+   "mn": "цахилгааны төлбөр",
+   "en": "electricity bill",
+   "pos": "noun phrase",
+   "example_mn": "Би цахилгааны төлбөрөө аппаар төлсөн.",
+   "example_en": "I paid the electricity bill through an app.",
+   "mn_latin": "tsakhilgaany tölbör"
+  },
+  {
+   "mn": "хувааж төлөх",
+   "en": "to split (a payment)",
+   "pos": "verb phrase",
+   "example_mn": "Бид түрээсээ хувааж төлдөг.",
+   "example_en": "We split the rent.",
+   "mn_latin": "khuvaaj tölökh"
+  },
+  {
+   "mn": "нэхэмжлэх",
+   "en": "bill, invoice",
+   "pos": "noun",
+   "example_mn": "Интернэтийн нэхэмжлэх и-мэйлээр ирсэн.",
+   "example_en": "The internet bill came by email.",
+   "mn_latin": "nekhemjlekh"
+  },
+  {
+   "mn": "шилжүүлэх",
+   "en": "to transfer (money)",
+   "pos": "verb",
+   "example_mn": "Мөнгөө надад шилжүүлээрэй.",
+   "example_en": "Transfer the money to me.",
+   "mn_latin": "shiljüülekh"
+  },
+  {
+   "mn": "хэсэг",
+   "en": "share, part",
+   "pos": "noun",
+   "example_mn": "Миний хэсэг тавин мянган төгрөг.",
+   "example_en": "My share is fifty thousand tugriks.",
+   "mn_latin": "kheseg"
+  },
+  {
+   "mn": "алданги",
+   "en": "late fee",
+   "pos": "noun",
+   "example_mn": "Хугацаа хэтэрвэл алданги төлнө.",
+   "example_en": "If it's overdue, you pay a late fee.",
+   "mn_latin": "aldangi"
+  },
+  {
+   "mn": "тооцоо хийх",
+   "en": "to settle up",
+   "pos": "verb phrase",
+   "example_mn": "Сарын эцэст тооцоогоо хийе.",
+   "example_en": "Let's settle up at the end of the month.",
+   "mn_latin": "tootsoo khiikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Минийх төлөгдсөн, харин тэднийх төлөгдөөгүй.",
+   "en": "Mine is paid, but theirs isn't.",
+   "alt_mn": [
+    "Минийх төлөгдчихсөн, харин тэднийх төлөгдөөгүй."
+   ],
+   "alt_en": [
+    "Mine has been paid, but theirs hasn't."
+   ],
+   "mn_latin": "Miniikh tölögdsön, kharin tedniikh tölögdöögüi."
+  },
+  {
+   "mn": "Миний хэсэг Болдынхоос бага.",
+   "en": "My share is smaller than Bold's.",
+   "alt_mn": [],
+   "alt_en": [
+    "My share is less than Bold's."
+   ],
+   "mn_latin": "Minii kheseg Boldynkhoos baga."
+  },
+  {
+   "mn": "Интернэтийн мөнгийг Сарангийнхад нэмчихье.",
+   "en": "Let's add the internet money to Saran's share.",
+   "alt_mn": [
+    "Интернэтийн мөнгийг Сарангийнхад нэмье."
+   ],
+   "alt_en": [
+    "Let's add the internet money to Saran's."
+   ],
+   "mn_latin": "Intyernetiin möngiig Sarangiinkhad nemchikhiye."
+  },
+  {
+   "mn": "Энэ сарын цахилгааны төлбөр өнгөрсөн сарынхаас өндөр гарсан.",
+   "en": "This month's electricity bill came out higher than last month's.",
+   "alt_mn": [],
+   "alt_en": [
+    "This month's electricity bill is higher than last month's."
+   ],
+   "mn_latin": "Ene saryn tsakhilgaany tölbör öngörsön sarynkhaas öndör garsan."
+  },
+  {
+   "mn": "СӨХ-ийн төлбөрийг хэн шилжүүлсэн бэ?",
+   "en": "Who transferred the building association fee?",
+   "alt_mn": [],
+   "alt_en": [
+    "Who paid the building association fee?"
+   ],
+   "mn_latin": "SÖKh-iin tölböriig khen shiljüülsen be?"
+  },
+  {
+   "mn": "Би өөрийнхөө хэсгийг өчигдөр шилжүүлсэн.",
+   "en": "I transferred my share yesterday.",
+   "alt_mn": [
+    "Би хэсгээ өчигдөр шилжүүлсэн."
+   ],
+   "alt_en": [
+    "I sent my share yesterday."
+   ],
+   "mn_latin": "Bi ööriinkhöö khesgiig öchigdör shiljüülsen."
+  },
+  {
+   "mn": "Танайх хэд вэ? Манайх тавин мянга.",
+   "en": "How much is yours? Ours is fifty thousand.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Tanaikh khed ve? Manaikh tavin myanga."
+  },
+  {
+   "mn": "Тэднийхийг хэн төлөх вэ?",
+   "en": "Who's going to pay theirs?",
+   "alt_mn": [],
+   "alt_en": [
+    "Who will pay theirs?"
+   ],
+   "mn_latin": "Tedniikhiig khen tölökh ve?"
+  },
+  {
+   "mn": "Дулааны мөнгийг байрны талбайгаар нь тооцдог.",
+   "en": "The heating bill is calculated by the apartment's floor area.",
+   "alt_mn": [],
+   "alt_en": [
+    "Heating is charged by floor area."
+   ],
+   "mn_latin": "Dulaany möngiig bairny talbaigaar ni tootsdog."
+  },
+  {
+   "mn": "Төлбөрийн хугацаа хэтэрвэл алданги тооцно.",
+   "en": "If the payment is overdue, they charge a late fee.",
+   "alt_mn": [],
+   "alt_en": [
+    "A late fee is charged if the payment is overdue."
+   ],
+   "mn_latin": "Tölböriin khugatsaa khetervel aldangi tootsno."
+  },
+  {
+   "mn": "Интернэтийн төлбөрийг дөрвүүлээ тэнцүү хуваая.",
+   "en": "Let's split the internet bill equally among the four of us.",
+   "alt_mn": [
+    "Интернэтийн төлбөрийг дөрвөн хүн тэнцүү хувааж төлье."
+   ],
+   "alt_en": [
+    "Let's split the internet bill four ways."
+   ],
+   "mn_latin": "Intyernetiin tölböriig dörvüülee tentsüü khuvaaya."
+  },
+  {
+   "mn": "Сарын эцэст тооцоогоо хийе.",
+   "en": "Let's settle up at the end of the month.",
+   "alt_mn": [
+    "Сарын сүүлээр тооцоогоо хийе."
+   ],
+   "alt_en": [],
+   "mn_latin": "Saryn etsest tootsoogoo khiiye."
+  }
+ ],
+ "grammar": {
+  "title_en": "\"The one belonging to X\" + case endings: Болдынхоос, Сарангийнхад",
+  "title_mn": "Эзэмшлийн төлөөний үг өгүүлэгч ба тусагдахуун болох нь: mine, yours, theirs",
+  "explain_en": "Add -х to a genitive form to get \"the one belonging to X\": Болдын → Болдынх (Bold's), миний → минийх (mine), тэдний → тэднийх (theirs). This new word acts like a noun, so it can take case endings. Ablative -аас/-оос/-ээс means \"from\" or \"than\": Болдынхоос бага (less than Bold's), өнгөрсөн сарынхаас өндөр (higher than last month's). Dative -д means \"to\" or \"at\": Сарангийнхад нэмье (let's add it to Saran's). Because the stem ends in -х, the dative takes a linking vowel that follows vowel harmony: -ад/-эд/-од (Сарангийнхад, Болдынход). Accusative is -ыг/-ийг: Болдынхыг, тэднийхийг (theirs, as an object). Note that манайх and танайх (ours, yours) also mean \"our place\" and \"your place\".",
+  "explain_mn": "Англи хэлэнд my, your, their гэдэг үгийг заавал нэр үгийн өмнө хэрэглэнэ: my bill, their share. Харин нэр үггүйгээр ганцаараа хэрэглэвэл mine, yours, his, hers, ours, theirs гэсэн хэлбэрт шилжинэ. Энэ нь монгол хэлний минийх, чинийх, тэднийх гэдэгтэй яг адилхан. Эдгээр нь өгүүлбэрт өгүүлэгч байж болно: Mine is paid. (Минийх төлөгдсөн.) Тусагдахуун ч байж болно: Who will pay theirs? (Тэднийхийг хэн төлөх вэ?) Хүний нэр дээр 's залгана: Bold's (Болдынх). Анхаарах зүйл: its гэдэгт тусдаа хэлбэр байхгүй. Мөн yours, theirs-д хэзээ ч ' тэмдэг тавихгүй.",
+  "examples": [
+   {
+    "mn": "Минийх төлөгдсөн, харин тэднийх төлөгдөөгүй.",
+    "en": "Mine is paid, but theirs isn't.",
+    "mn_latin": "Miniikh tölögdsön, kharin tedniikh tölögdöögüi."
+   },
+   {
+    "mn": "Миний хэсэг Болдынхоос бага.",
+    "en": "My share is smaller than Bold's.",
+    "mn_latin": "Minii kheseg Boldynkhoos baga."
+   },
+   {
+    "mn": "Интернэтийн мөнгийг Сарангийнхад нэмчихье.",
+    "en": "Let's add the internet money to Saran's.",
+    "mn_latin": "Intyernetiin möngiig Sarangiinkhad nemchikhiye."
+   },
+   {
+    "mn": "Тэднийхийг хэн төлөх вэ?",
+    "en": "Who's going to pay theirs?",
+    "mn_latin": "Tedniikhiig khen tölökh ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Миний хэсэг Болд___ бага.",
+   "answer": "ынхоос",
+   "options": [
+    "ынхоос",
+    "ынход",
+    "ын",
+    "ынхыг"
+   ],
+   "translation": "My share is smaller than Bold's.",
+   "explain_en": "\"Than Bold's\" needs Болдынх (Bold's one) plus the ablative ending. The vowel in Болд is о, so the ending is -оос: Болдынхоос.",
+   "explain_mn": "Харьцуулахдаа гарахын тийн ялгал хэрэглэнэ: Болдынх + оос = Болдынхоос. Англиар \"than Bold's\" гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Интернэтийн мөнгийг Саран___ нэмчихье.",
+   "answer": "гийнхад",
+   "options": [
+    "гийнхад",
+    "гийнхаас",
+    "гийн",
+    "гийнхийг"
+   ],
+   "translation": "Let's add the internet money to Saran's share.",
+   "explain_en": "\"Add to Saran's\" needs the dative. Build it as Сарангийн → Сарангийнх → Сарангийнхад.",
+   "explain_mn": "\"Хэнд нэмэх вэ?\" гэдэгт өгөх оршихын тийн ялгал -ад залгана: Сарангийнхад. Англиар \"to Saran's\" гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ сарын төлбөр өнгөрсөн сар___ өндөр гарсан.",
+   "answer": "ынхаас",
+   "options": [
+    "ынхаас",
+    "ынхад",
+    "ынхыг",
+    "ынх"
+   ],
+   "translation": "This month's bill came out higher than last month's.",
+   "explain_en": "You are comparing this month's bill with last month's one, so use сарынх (the month's one) plus the ablative -аас for \"than\".",
+   "explain_mn": "Энэ сарын төлбөрийг өнгөрсөн сарын төлбөртэй харьцуулж байгаа тул сарынхаас гэнэ. Англиар \"than last month's\" гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My rent is paid, but ___ isn't.",
+   "answer": "theirs",
+   "options": [
+    "theirs",
+    "their",
+    "them",
+    "they're"
+   ],
+   "translation": "Минийх төлөгдсөн, харин тэднийх төлөгдөөгүй.",
+   "explain_en": "No noun follows the blank, so you need the stand-alone possessive pronoun \"theirs\".",
+   "explain_mn": "Араас нь нэр үг байхгүй тул their биш, theirs (тэднийх) гэж хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "This bill isn't mine. It's ___.",
+   "answer": "yours",
+   "options": [
+    "yours",
+    "your",
+    "you",
+    "your's"
+   ],
+   "translation": "Энэ нэхэмжлэх минийх биш. Чинийх.",
+   "explain_en": "\"Yours\" stands alone without a noun. It never takes an apostrophe.",
+   "explain_mn": "Ганцаараа байгаа тул yours (чинийх) гэнэ. your's гэж ' тэмдэгтэй бичих нь алдаа."
+  },
+  {
+   "lang": "en",
+   "text": "Bold paid his share, and Saran paid ___ too.",
+   "answer": "hers",
+   "options": [
+    "hers",
+    "her",
+    "she",
+    "her's"
+   ],
+   "translation": "Болд хэсгээ төлсөн, Саран ч бас өөрийнхөө хэсгийг төлсөн.",
+   "explain_en": "\"Hers\" is the object of \"paid\" and replaces \"her share\".",
+   "explain_mn": "Энд hers нь \"her share\"-ийг орлож, тусагдахуун болж байна. Монголоор \"өөрийнхөө хэсгийг\" гэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bold",
+   "mn": "Цахилгааны нэхэмжлэх ирлээ. Энэ сарынх өнгөрсөн сарынхаас өндөр гарчээ.",
+   "en": "The electricity bill came. This month's is higher than last month's.",
+   "mn_latin": "Tsakhilgaany nekhemjlekh irlee. Ene sarynkh öngörsön sarynkhaas öndör garchee."
+  },
+  {
+   "speaker": "Saran",
+   "mn": "Хэд гарсан бэ? Би өөрийнхөө хэсгийг өнөөдөр шилжүүлье.",
+   "en": "How much is it? I'll transfer my share today.",
+   "mn_latin": "Khed garsan be? Bi ööriinkhöö khesgiig önöödör shiljüüliye."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Нийт хоёр зуун дөчин мянга. Гурвуулаа хуваавал хүн бүр наян мянга.",
+   "en": "Two hundred forty thousand total. Split three ways, that's eighty thousand each.",
+   "mn_latin": "Niit khoyor zuun döchin myanga. Gurvuulaa khuvaaval khün bür nayan myanga."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Минийх төлөгдчихсөн, би өчигдөр шилжүүлсэн. Интернэтийнх яасан бэ?",
+   "en": "Mine's already paid. I transferred it yesterday. What about the internet bill?",
+   "mn_latin": "Miniikh tölögdchikhsön, bi öchigdör shiljüülsen. Intyernetiinkh yaasan be?"
+  },
+  {
+   "speaker": "Saran",
+   "mn": "Интернэтийнхийг би төлчихсөн. Тэгэхээр тэр мөнгийг минийхээс хасаарай.",
+   "en": "I already paid the internet. So take that amount off mine.",
+   "mn_latin": "Intyernetiinkhiig bi tölchikhsön. Tegekheer ter möngiig miniikhees khasaarai."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "За, тэгвэл чинийх бусдынхаас бага болно.",
+   "en": "Okay, then yours will be less than everyone else's.",
+   "mn_latin": "Za, tegvel chiniikh busdynkhaas baga bolno."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "СӨХ-ийн төлбөр яах вэ? Хугацаа нь хэтрээгүй биз дээ?",
+   "en": "What about the building fee? It isn't overdue, is it?",
+   "mn_latin": "SÖKh-iin tölbör yaakh ve? Khugatsaa ni khetreegüi biz dee?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Хэтрээгүй. Эмили, чи түүнийг төлчих. Тэгвэл бүгдийнх тэнцүү болно.",
+   "en": "It isn't. Emily, you pay that one. Then everyone's will be even.",
+   "mn_latin": "Khetreegüi. Emili, chi tüüniig tölchikh. Tegvel bügdiinkh tentsüü bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar apartment buildings, residents pay a monthly СӨХ (homeowners' association) fee for cleaning, elevators, and security. Heating comes from the city's central system and is charged by floor area during the long heating season, which runs from autumn to late spring. Roommates usually settle up by bank transfer through a mobile banking app instead of using cash.",
+  "mn": "Улаанбаатарын орон сууцанд оршин суугчид цэвэрлэгээ, лифт, харуул хамгаалалтын зардалд зориулж сар бүр СӨХ-ийн төлбөр төлдөг. Дулааныг хотын төвлөрсөн системээс авдаг бөгөөд намраас хаврын сүүл хүртэл үргэлжлэх халаалтын улиралд байрны талбайгаар нь тооцдог. Хамт амьдардаг хүмүүс ихэвчлэн бэлэн мөнгө биш, банкны аппаар шилжүүлж тооцоогоо хийдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A strong, natural lesson. The main fix was an ambiguous fill-in-the-blank distractor, plus incomplete suffix lists in the grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "Strong lesson overall. Only one fill-in had a second correct option, and one distractor used a wrong form.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Option 'д' gives 'Саранд нэмчихье' (add it to Saran), which is also acceptable. Replaced it with a clearly wrong case form."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The dative of Болдынх follows о-harmony (Болдынход), as the grammar note says. Distractors should still be real forms."
+   }
+  ]
+ }
+}

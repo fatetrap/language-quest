@@ -1,0 +1,443 @@
+{
+ "intro_en": "Hear a patient on a kidney transplant waiting list tell her story, and learn the key transplant terms. You'll practice linking an action to its result with Mongolian ингэснээр, and see how English uses \"shell nouns\" like this situation and this problem to point back to a case you've just described.",
+ "intro_mn": "Бөөр шилжүүлэн суулгуулахаар хүлээгчдийн жагсаалтад байгаа эмэгтэйн түүхийг сонсож, эрхтэн шилжүүлэн суулгахтай холбоотой үгсийг сурна. Үйлдлийг түүний үр дүнтэй \"ингэснээр\" гэдэг үгээр холбож дадлага хийнэ. Мөн англи хэлэнд өмнө өгүүлсэн тохиолдлыг this situation, this problem гэх мэт \"бүрхүүл нэр үг\"-ээр буцааж заадгийг судална.",
+ "vocab": [
+  {
+   "mn": "эрхтэн шилжүүлэн суулгах",
+   "en": "organ transplant(ation)",
+   "pos": "verb phrase / noun",
+   "example_mn": "Эрхтэн шилжүүлэн суулгах мэс засал олон хүний амийг аварсан.",
+   "example_en": "Organ transplant surgery has saved many lives.",
+   "mn_latin": "erkhten shiljüülen suulgakh"
+  },
+  {
+   "mn": "донор",
+   "en": "donor",
+   "pos": "noun",
+   "example_mn": "Ах маань донор болохоор шийдсэн.",
+   "example_en": "My older brother decided to become a donor.",
+   "mn_latin": "donor"
+  },
+  {
+   "mn": "хүлээгчдийн жагсаалт",
+   "en": "waiting list",
+   "pos": "noun phrase",
+   "example_mn": "Би хоёр жил хүлээгчдийн жагсаалтад байна.",
+   "example_en": "I have been on the waiting list for two years.",
+   "mn_latin": "khüleegchdiin jagsaalt"
+  },
+  {
+   "mn": "бөөр",
+   "en": "kidney",
+   "pos": "noun",
+   "example_mn": "Миний бөөр хэвийн ажиллахаа больсон.",
+   "example_en": "My kidneys stopped working normally.",
+   "mn_latin": "böör"
+  },
+  {
+   "mn": "элэг",
+   "en": "liver",
+   "pos": "noun",
+   "example_mn": "Элэг шилжүүлэн суулгах мэс засал илүү төвөгтэй.",
+   "example_en": "A liver transplant is a more complicated operation.",
+   "mn_latin": "eleg"
+  },
+  {
+   "mn": "диализ",
+   "en": "dialysis",
+   "pos": "noun",
+   "example_mn": "Би долоо хоногт гурван удаа диализ хийлгэдэг.",
+   "example_en": "I get dialysis three times a week.",
+   "mn_latin": "dializ"
+  },
+  {
+   "mn": "тохирох",
+   "en": "to match, to be compatible",
+   "pos": "verb",
+   "example_mn": "Бидний цусны бүлэг тохирохгүй байсан.",
+   "example_en": "Our blood types didn't match.",
+   "mn_latin": "tokhirokh"
+  },
+  {
+   "mn": "амьд донор",
+   "en": "living donor",
+   "pos": "noun phrase",
+   "example_mn": "Амьд донороос авсан бөөр ихэвчлэн илүү удаан ажилладаг.",
+   "example_en": "A kidney from a living donor usually lasts longer.",
+   "mn_latin": "amid donor"
+  },
+  {
+   "mn": "ёс зүйн асуудал",
+   "en": "ethical issue",
+   "pos": "noun phrase",
+   "example_mn": "Эрхтэн худалдах нь ноцтой ёс зүйн асуудал юм.",
+   "example_en": "Selling organs is a serious ethical issue.",
+   "mn_latin": "yos züin asuudal"
+  },
+  {
+   "mn": "зөвшөөрөл",
+   "en": "consent, permission",
+   "pos": "noun",
+   "example_mn": "Донор бичгээр зөвшөөрөл өгөх ёстой.",
+   "example_en": "A donor must give written consent.",
+   "mn_latin": "zövshööröl"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би гурван жил бөөр хүлээгчдийн жагсаалтад байна.",
+   "en": "I have been on the kidney waiting list for three years.",
+   "alt_mn": [
+    "Би бөөр хүлээгчдийн жагсаалтад гурван жил байна."
+   ],
+   "alt_en": [
+    "I've been on the waiting list for a kidney for three years."
+   ],
+   "mn_latin": "Bi gurvan jil böör khüleegchdiin jagsaaltad baina."
+  },
+  {
+   "mn": "Би долоо хоногт гурван удаа диализ хийлгэдэг.",
+   "en": "I get dialysis three times a week.",
+   "alt_mn": [
+    "Би долоо хоногт гурван удаа диализд ордог."
+   ],
+   "alt_en": [
+    "I have dialysis three times a week."
+   ],
+   "mn_latin": "Bi doloo khonogt gurvan udaa dializ khiilgedeg."
+  },
+  {
+   "mn": "Дүү маань донор болохоор шийдсэн боловч бидний цусны бүлэг тохироогүй.",
+   "en": "My younger sister decided to become a donor, but our blood types didn't match.",
+   "alt_mn": [
+    "Дүү маань донор болохоор шийдсэн ч бидний цусны бүлэг тохирохгүй байсан."
+   ],
+   "alt_en": [
+    "My little sister decided to be a donor, but our blood types weren't compatible."
+   ],
+   "mn_latin": "Düü maani donor bolokhoor shiidsen bolovch bidnii tsusny büleg tokhiroogüi."
+  },
+  {
+   "mn": "Энэ байдлаас болж би их цөхөрсөн.",
+   "en": "This situation left me very discouraged.",
+   "alt_mn": [
+    "Энэ нөхцөл байдлаас болж би их цөхөрсөн."
+   ],
+   "alt_en": [
+    "I was very discouraged by this situation.",
+    "This situation made me lose hope."
+   ],
+   "mn_latin": "Ene baidlaas bolj bi ikh tsökhörsön."
+  },
+  {
+   "mn": "Улс орон нас барсан донорын тогтолцоог хөгжүүлэх хэрэгтэй. Ингэснээр хүлээгчдийн жагсаалт богиносно.",
+   "en": "The country needs to develop a deceased-donor system. That way, the waiting list will get shorter.",
+   "alt_mn": [
+    "Улс орон нас барсан донорын тогтолцоог хөгжүүлэх ёстой. Ингэснээр хүлээгчдийн жагсаалт богиносно."
+   ],
+   "alt_en": [
+    "The country needs to build a system for deceased donors. As a result, the waiting list will become shorter."
+   ],
+   "mn_latin": "Uls oron nas barsan donoryn togtoltsoog khögjüülekh kheregtei. Ingesneer khüleegchdiin jagsaalt boginosno."
+  },
+  {
+   "mn": "Элэг шилжүүлэн суулгах мэс заслыг одоо Улаанбаатарт хийдэг болсон.",
+   "en": "Liver transplants are now performed in Ulaanbaatar.",
+   "alt_mn": [
+    "Одоо Улаанбаатарт элэг шилжүүлэн суулгах мэс засал хийдэг болсон."
+   ],
+   "alt_en": [
+    "Liver transplant surgery is now done in Ulaanbaatar."
+   ],
+   "mn_latin": "Eleg shiljüülen suulgakh mes zaslyg odoo Ulaanbaatart khiideg bolson."
+  },
+  {
+   "mn": "Амьд донор нэг бөөрөө өгсөн ч эрүүл амьдарч чадна.",
+   "en": "A living donor can live a healthy life even after giving one kidney.",
+   "alt_mn": [
+    "Амьд донор нэг бөөрөө өгсөн хэдий ч эрүүл амьдарч чадна."
+   ],
+   "alt_en": [
+    "Even after donating one kidney, a living donor can stay healthy."
+   ],
+   "mn_latin": "Amid donor neg bööröö ögsön ch erüül amidarch chadna."
+  },
+  {
+   "mn": "Би хоолны дэглэмээ чанд баримталдаг. Ингэснээр биеэ мэс засалд бэлэн байлгадаг.",
+   "en": "I follow my diet strictly. That way, I keep my body ready for surgery.",
+   "alt_mn": [
+    "Би хоолны дэглэмээ чанд мөрддөг. Ингэснээр биеэ мэс засалд бэлэн байлгадаг."
+   ],
+   "alt_en": [
+    "I stick strictly to my diet. By doing so, I keep my body ready for surgery."
+   ],
+   "mn_latin": "Bi khoolny deglemee chand barimtaldag. Ingesneer biyee mes zasald belen bailgadag."
+  },
+  {
+   "mn": "Энэ асуудал зөвхөн анагаах ухааных биш, бас ёс зүйн асуудал юм.",
+   "en": "This problem is not only medical; it is also an ethical issue.",
+   "alt_mn": [
+    "Энэ асуудал зөвхөн эмнэлгийн биш, бас ёс зүйн асуудал юм."
+   ],
+   "alt_en": [
+    "This problem isn't just a medical one; it's an ethical one too."
+   ],
+   "mn_latin": "Ene asuudal zövkhön anagaakh ukhaanykh bish, bas yos züin asuudal yum."
+  },
+  {
+   "mn": "Донор болох шийдвэр гаргахаасаа өмнө гэр бүлийнхэнтэйгээ ярилцаарай.",
+   "en": "Before you decide to become a donor, talk it over with your family.",
+   "alt_mn": [
+    "Донор болохоор шийдэхээсээ өмнө гэр бүлийнхэнтэйгээ ярилцаарай."
+   ],
+   "alt_en": [
+    "Talk with your family before deciding to become a donor."
+   ],
+   "mn_latin": "Donor bolokh shiidver gargakhaasaa ömnö ger büliinkhenteigee yariltsaarai."
+  },
+  {
+   "mn": "Эмнэлэг донорын мэдээллийг нууцалдаг. Ингэснээр хүмүүсийн итгэлийг хадгалдаг.",
+   "en": "The hospital keeps donor information confidential. That way, it maintains people's trust.",
+   "alt_mn": [
+    "Эмнэлэг донорын мэдээллийг нууцалж, ингэснээр хүмүүсийн итгэлийг хадгалдаг."
+   ],
+   "alt_en": [
+    "The hospital keeps donor information private. By doing so, it keeps people's trust."
+   ],
+   "mn_latin": "Emneleg donoryn medeelliig nuutsaldag. Ingesneer khümüüsiin itgeliig khadgaldag."
+  },
+  {
+   "mn": "Ийм нөхцөл байдалд байгаа өвчтөнүүд ихэвчлэн гадаадад эмчлүүлэхийг оролддог.",
+   "en": "Patients in this situation often try to get treatment abroad.",
+   "alt_mn": [
+    "Ийм байдалд байгаа өвчтөнүүд ихэвчлэн гадаадад эмчлүүлэх гэж оролддог."
+   ],
+   "alt_en": [
+    "Patients in a situation like this often try to be treated abroad."
+   ],
+   "mn_latin": "Iim nökhtsöl baidald baigaa övchtönüüd ikhevchlen gadaadad emchlüülekhiig orolddog."
+  }
+ ],
+ "grammar": {
+  "title_en": "Ингэснээр: linking an action to its result",
+  "title_mn": "Англи хэлний \"бүрхүүл нэр үг\": this situation, this problem",
+  "explain_en": "Ингэснээр literally means \"by doing this\". It comes from ингэсэн (having done so), the past participle of ингэх (to do so), plus the instrumental ending -ээр. It points back to the action you just described and introduces the result that action produces. You usually put it at the start of the next sentence, or after a comma: \"Ах маань бөөрөө өгсөн. Ингэснээр би диализаас салсан.\" (My brother gave me his kidney. As a result, I got off dialysis.) Compare it with тиймээс (therefore), which states a general logical conclusion, and ингээд (and then), which only shows sequence. Ингэснээр stresses that the result comes directly from the action itself. It sounds natural in formal speech, news, and written argument, so it suits advanced-level discussion well.",
+  "explain_mn": "Англи хэлэнд өмнө нь дэлгэрэнгүй өгүүлсэн тохиолдол, үйл явдлыг богино нэр үгээр буцааж заадаг: this situation, this problem, this decision, this approach гэх мэт. Эдгээрийг \"shell nouns\" (бүрхүүл нэр үг) гэдэг. Учир нь тэд өмнөх өгүүлбэрийн бүх агуулгыг нэг \"бүрхүүл\" дотор багтаадаг. Жишээ нь: \"Many families refuse consent. This problem makes waiting lists longer.\" Ганцаар \"This makes...\" гэвэл утга бүрхэг болдог. Харин \"this problem\" гэвэл та тухайн байдлыг хэрхэн үнэлж байгаагаа (асуудал гэж) тодорхой харуулна. Ихэвчлэн \"this\"-ийг хэрэглэдэг. Олон тооны хувьд \"these problems\" гэнэ.",
+  "examples": [
+   {
+    "mn": "Ах маань надад бөөрөө өгсөн. Ингэснээр би диализаас салсан.",
+    "en": "My brother gave me his kidney. As a result, I was able to stop dialysis.",
+    "mn_latin": "Akh maani nadad bööröö ögsön. Ingesneer bi dializaas salsan."
+   },
+   {
+    "mn": "Олон гэр бүл зөвшөөрөл өгөхөөс татгалздаг. Энэ асуудал хүлээгчдийн жагсаалтыг уртасгадаг.",
+    "en": "Many families refuse to give consent. This problem makes waiting lists longer.",
+    "mn_latin": "Olon ger bül zövshööröl ögökhöös tatgalzdag. Ene asuudal khüleegchdiin jagsaaltyg urtasgadag."
+   },
+   {
+    "mn": "Тэр дөрвөн жил элэг хүлээсэн. Ийм нөхцөл байдал олон оронд түгээмэл.",
+    "en": "She waited four years for a liver. This situation is common in many countries.",
+    "mn_latin": "Ter dörvön jil eleg khüleesen. Iim nökhtsöl baidal olon orond tügeemel."
+   },
+   {
+    "mn": "Эмнэлгүүд мэдээллээ нэгтгэсэн. Ингэснээр тохирох донорыг илүү хурдан олдог болсон.",
+    "en": "The hospitals combined their data. That way, they can now find a matching donor faster.",
+    "mn_latin": "Emnelgüüd medeellee negtgesen. Ingesneer tokhirokh donoryg ilüü khurdan oldog bolson."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ах маань надад бөөрөө өгсөн. ___ би диализаас салсан.",
+   "answer": "Ингэснээр",
+   "options": [
+    "Ингэснээр",
+    "Гэвч",
+    "Харин",
+    "Эсвэл"
+   ],
+   "translation": "My brother gave me his kidney. As a result, I was able to stop dialysis.",
+   "explain_en": "The second sentence is the direct result of the brother's action, so ингэснээр (\"by doing so, as a result\") fits. Гэвч and харин show contrast, and эсвэл means \"or\".",
+   "explain_mn": "Хоёр дахь өгүүлбэр нь эхний үйлдлийн шууд үр дүн учраас \"ингэснээр\" тохирно. \"Гэвч\", \"харин\" нь эсрэгцүүлэл, \"эсвэл\" нь сонголт заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Би гурван жил хүлээгчдийн жагсаалт___ байна.",
+   "answer": "ад",
+   "options": [
+    "ад",
+    "аас",
+    "ыг",
+    "тай"
+   ],
+   "translation": "I have been on the waiting list for three years.",
+   "explain_en": "Being \"on\" or \"in\" a list takes the dative-locative ending -ад/-д: жагсаалтад. -аас means \"from\", -ыг marks a direct object, and -тай means \"with\".",
+   "explain_mn": "Жагсаалтад \"байх\" буюу орших газрыг өгөх-орших тийн ялгалын -ад нөхцлөөр заана. -аас нь гарах, -ыг нь заах, -тай нь хамтрах тийн ялгал юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Бидний цусны бүлэг ___ байсан тул дүү маань донор болж чадаагүй.",
+   "answer": "тохирохгүй",
+   "options": [
+    "тохирохгүй",
+    "тохирсон",
+    "тохируулсан",
+    "тохиролцсон"
+   ],
+   "translation": "Because our blood types didn't match, my younger sister couldn't become a donor.",
+   "explain_en": "The sister couldn't donate, so the blood types must not have matched. That requires the negative тохирохгүй. Тохируулах means \"to adjust\", and тохиролцох means \"to agree on something\".",
+   "explain_mn": "Дүү нь донор болж чадаагүй учраас үгүйсгэсэн \"тохирохгүй\" хэлбэр шаардлагатай. \"Тохируулах\" нь засаж тааруулах, \"тохиролцох\" нь хэлэлцэн тохирох гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "She waited four years for a liver. This ___ is common in many countries.",
+   "answer": "situation",
+   "options": [
+    "situation",
+    "kidney",
+    "donor",
+    "surgery"
+   ],
+   "translation": "Тэр дөрвөн жил элэг хүлээсэн. Ийм нөхцөл байдал олон оронд түгээмэл.",
+   "explain_en": "\"This situation\" is a shell noun that wraps up the whole case described in the first sentence. The other words name a single thing or person, not the whole case.",
+   "explain_mn": "\"This situation\" нь өмнөх өгүүлбэрт өгүүлсэн бүх тохиолдлыг нэгтгэн заадаг бүрхүүл нэр үг. Бусад үгс нь зөвхөн нэг зүйл эсвэл хүнийг заана."
+  },
+  {
+   "lang": "en",
+   "text": "Many families refuse consent. This ___ makes waiting lists even longer.",
+   "answer": "problem",
+   "options": [
+    "problem",
+    "problems",
+    "solve",
+    "problematic"
+   ],
+   "translation": "Олон гэр бүл зөвшөөрөл өгөхөөс татгалздаг. Энэ асуудал хүлээгчдийн жагсаалтыг бүр уртасгадаг.",
+   "explain_en": "After \"this\" you need a singular noun, and \"makes\" also agrees with a singular subject. \"Problems\" is plural, \"solve\" is a verb, and \"problematic\" is an adjective.",
+   "explain_mn": "\"This\"-ийн дараа ганц тооны нэр үг орох ёстой бөгөөд \"makes\" ч ганц тоонд нийцнэ. \"Problems\" нь олон тоо, \"solve\" нь үйл үг, \"problematic\" нь тэмдэг нэр."
+  },
+  {
+   "lang": "en",
+   "text": "He gave his sister a kidney. ___ decision changed both of their lives.",
+   "answer": "This",
+   "options": [
+    "This",
+    "These",
+    "Those",
+    "It"
+   ],
+   "translation": "Тэр эгчдээ бөөрөө өгсөн. Энэ шийдвэр хоёулангийнх нь амьдралыг өөрчилсөн.",
+   "explain_en": "\"This decision\" points back to the act of giving the kidney. \"These\" and \"those\" are plural, and \"it\" cannot stand directly before a noun.",
+   "explain_mn": "\"This decision\" нь бөөрөө өгсөн үйлдлийг буцааж заана. \"These\", \"those\" нь олон тоо бөгөөд \"it\"-ийг нэр үгийн өмнө хэрэглэдэггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Билгүүн",
+   "mn": "Сарантуяа, та хэдэн жил бөөр хүлээж байна вэ?",
+   "en": "Sarantuya, how many years have you been waiting for a kidney?",
+   "mn_latin": "Sarantuyaa, ta kheden jil böör khüleej baina ve?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Гурван жил болж байна. Одоо долоо хоногт гурван удаа диализ хийлгэдэг.",
+   "en": "It's been three years. Right now I get dialysis three times a week.",
+   "mn_latin": "Gurvan jil bolj baina. Odoo doloo khonogt gurvan udaa dializ khiilgedeg."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Гэр бүлээс тань хэн нэгэн донор болох боломжгүй байсан уу?",
+   "en": "Couldn't anyone in your family become a donor?",
+   "mn_latin": "Ger bülees tani khen negen donor bolokh bolomjgüi baisan uu?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Дүү маань шийдсэн ч цусны бүлэг тохироогүй. Энэ байдлаас болж би их цөхөрсөн.",
+   "en": "My younger sister decided to, but our blood types didn't match. That situation left me very discouraged.",
+   "mn_latin": "Düü maani shiidsen ch tsusny büleg tokhiroogüi. Ene baidlaas bolj bi ikh tsökhörsön."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Таны бодлоор энэ асуудлыг яаж шийдэх вэ?",
+   "en": "In your view, how can this problem be solved?",
+   "mn_latin": "Tany bodloor ene asuudlyg yaaj shiidekh ve?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Нас барсны дараа эрхтнээ өгөх тухай олон нийт илүү ил тод ярилцах хэрэгтэй. Ингэснээр илүү олон хүн зөвшөөрөл өгөх байх.",
+   "en": "People need to talk more openly about donating organs after death. That way, more people would probably give consent.",
+   "mn_latin": "Nas barsny daraa erkhtnee ögökh tukhai olon niit ilüü il tod yariltsakh kheregtei. Ingesneer ilüü olon khün zövshööröl ögökh baikh."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Энэ бол зөвхөн анагаах ухааны биш, ёс зүйн асуудал ч юм байна.",
+   "en": "So this isn't only a medical issue; it's an ethical one too.",
+   "mn_latin": "Ene bol zövkhön anagaakh ukhaany bish, yos züin asuudal ch yum baina."
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Тийм ээ. Гэхдээ би итгэл найдвараа алдаагүй.",
+   "en": "Yes. But I haven't lost hope.",
+   "mn_latin": "Tiim ee. Gekhdee bi itgel naidvaraa aldaagüi."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, most kidney and liver transplants have come from living donors, usually close relatives, while donation after death is still relatively rare. One reason is the traditional belief that the body should stay whole after death. Hospitals and doctors in Ulaanbaatar are working to raise public awareness so that more families feel comfortable giving consent.",
+  "mn": "Монголд бөөр, элэг шилжүүлэн суулгах мэс заслын ихэнхийг амьд донороос, голдуу ойр төрлийн хүнээс эрхтэн авч хийсээр ирсэн. Харин нас барсны дараах донор харьцангуй цөөн хэвээр байна. Үүний нэг шалтгаан нь нас барсны дараа бие махбод бүтэн байх ёстой гэсэн уламжлалт үзэл юм. Илүү олон гэр бүл зөвшөөрөл өгөхөд эвтэйхэн санагдахын тулд Улаанбаатарын эмнэлгүүд, эмч нар олон нийтийн мэдлэгийг дээшлүүлэхээр ажиллаж байна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 1,
+  "notes": "Natural, accurate bilingual content with unambiguous blanks. The only real error was the morphology explanation for ингэснээр, which skipped the participle -сэн, plus a level label (C1) outside the course range."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 7,
+  "notes": "The content is mostly accurate. The fixes add missing comparatives, complete the intro_mn, remove one unnatural English alternative, and correct the level reference.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The mn intro left out the ингэснээр part that intro_en describes."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The lesson is C1, not B2."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "The en uses a comparative (\"lasts longer\"), so the mn needs илүү."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_en",
+    "why": "\"On dialysis\" describes an ongoing state and does not go with \"three times a week\"."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "The en says \"faster\", so the mn needs the comparative илүү."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "The en says \"more people\", so the mn needs илүү."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The mn now matches the en \"more families feel comfortable\"."
+   }
+  ]
+ }
+}

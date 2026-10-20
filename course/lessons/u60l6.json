@@ -1,0 +1,444 @@
+{
+ "intro_en": "You will learn to review a monthly family budget and explain your spending and saving habits to a friend. You will also combine percentages, fractions and approximations (-аад, орчим, гаруй) in a short money report.",
+ "intro_mn": "Та гэр бүлийн сарын төсвөө тоймлон, зарцуулалт болон хэмнэлтийн зуршлаа найздаа тайлбарлаж сурна. Мөн хувь, бутархай, ойролцоо тоог (-аад, орчим, гаруй) мөнгөний товч тайланд хослуулан хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "орлого",
+   "en": "income",
+   "pos": "noun",
+   "example_mn": "Манай гэр бүлийн сарын орлого өссөн.",
+   "example_en": "Our family's monthly income has increased.",
+   "mn_latin": "orlogo"
+  },
+  {
+   "mn": "зарлага",
+   "en": "expense, spending",
+   "pos": "noun",
+   "example_mn": "Хүнсний зарлага их байна.",
+   "example_en": "Food spending is high.",
+   "mn_latin": "zarlaga"
+  },
+  {
+   "mn": "төсөв",
+   "en": "budget",
+   "pos": "noun",
+   "example_mn": "Бид сар бүр төсвөө гаргадаг.",
+   "example_en": "We make our budget every month.",
+   "mn_latin": "tösöv"
+  },
+  {
+   "mn": "хэмнэлт",
+   "en": "savings, thrift",
+   "pos": "noun",
+   "example_mn": "Хэмнэлт хийх нь хэцүү байсан.",
+   "example_en": "Saving money was hard.",
+   "mn_latin": "khemnelt"
+  },
+  {
+   "mn": "хөрөнгө оруулалт",
+   "en": "investment",
+   "pos": "noun",
+   "example_mn": "Тэр хөрөнгө оруулалтад мөнгөө хийсэн.",
+   "example_en": "He put his money into investments.",
+   "mn_latin": "khöröngö oruulalt"
+  },
+  {
+   "mn": "татвар",
+   "en": "tax",
+   "pos": "noun",
+   "example_mn": "Цалингаас татвар суутгадаг.",
+   "example_en": "Tax is deducted from the salary.",
+   "mn_latin": "tatvar"
+  },
+  {
+   "mn": "цалин",
+   "en": "salary, wages",
+   "pos": "noun",
+   "example_mn": "Миний цалин сарын 25-нд орно.",
+   "example_en": "My salary comes in on the 25th of the month.",
+   "mn_latin": "tsalin"
+  },
+  {
+   "mn": "зарцуулах",
+   "en": "to spend",
+   "pos": "verb",
+   "example_mn": "Бид мөнгөө хэт их зарцуулсан.",
+   "example_en": "We spent too much money.",
+   "mn_latin": "zartsuulakh"
+  },
+  {
+   "mn": "тооцоолох",
+   "en": "to calculate",
+   "pos": "verb",
+   "example_mn": "Зардлаа нэг бүрчлэн тооцоолъё.",
+   "example_en": "Let's calculate our costs one by one.",
+   "mn_latin": "tootsoolokh"
+  },
+  {
+   "mn": "өр",
+   "en": "debt",
+   "pos": "noun",
+   "example_mn": "Бид банкны өрөө төлж дууслаа.",
+   "example_en": "We finished paying off our bank debt.",
+   "mn_latin": "ör"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай гэр бүлийн сарын орлого гурван сая төгрөг.",
+   "en": "Our family's monthly income is three million tugriks.",
+   "alt_mn": [
+    "Манай гэр бүлийн сарын орлого гурван сая төгрөг байна."
+   ],
+   "alt_en": [
+    "Our family's monthly income is 3 million tugriks."
+   ],
+   "mn_latin": "Manai ger büliin saryn orlogo gurvan saya tögrög."
+  },
+  {
+   "mn": "Орлогынхоо гуравны нэгийг түрээсэнд зарцуулдаг.",
+   "en": "We spend a third of our income on rent.",
+   "alt_mn": [
+    "Бид орлогынхоо гуравны нэгийг түрээсэнд өгдөг."
+   ],
+   "alt_en": [
+    "We spend one third of our income on rent."
+   ],
+   "mn_latin": "Orlogynkhoo guravny negiig türeesend zartsuuldag."
+  },
+  {
+   "mn": "Хүнсний зарлага нийт зардлын 30 хувийг эзэлдэг.",
+   "en": "Food accounts for 30 percent of total spending.",
+   "alt_mn": [
+    "Хүнсний зарлага нийт зардлын гуч хувийг эзэлдэг."
+   ],
+   "alt_en": [
+    "Food makes up 30 percent of our total expenses."
+   ],
+   "mn_latin": "Khünsnii zarlaga niit zardlyn 30 khuviig ezeldeg."
+  },
+  {
+   "mn": "Сар бүр хоёр зуугаад мянган төгрөг хэмнэдэг.",
+   "en": "Every month we save about two hundred thousand tugriks.",
+   "alt_mn": [
+    "Сар бүр 200-аад мянган төгрөг хэмнэдэг."
+   ],
+   "alt_en": [
+    "We save roughly 200,000 tugriks a month."
+   ],
+   "mn_latin": "Sar bür khoyor zuugaad myangan tögrög khemnedeg."
+  },
+  {
+   "mn": "Цалингийн маань арав орчим хувь татварт явдаг.",
+   "en": "About ten percent of my salary goes to tax.",
+   "alt_mn": [
+    "Цалингийнхаа арав орчим хувийг татварт өгдөг."
+   ],
+   "alt_en": [
+    "Around 10 percent of my salary goes to taxes."
+   ],
+   "mn_latin": "Tsalingiin maani arav orchim khuvi tatvart yavdag."
+  },
+  {
+   "mn": "Энэ жил бид хоёр сая гаруй төгрөг хуримтлууллаа.",
+   "en": "This year we saved more than two million tugriks.",
+   "alt_mn": [
+    "Энэ жил бид хоёр сая гаруйг хуримтлууллаа."
+   ],
+   "alt_en": [
+    "This year we put aside over two million tugriks."
+   ],
+   "mn_latin": "Ene jil bid khoyor saya garui tögrög khurimtluullaa."
+  },
+  {
+   "mn": "Зардлын тоо өмнөх сараас цөөрсөн ч зарцуулсан мөнгөний хэмжээ бага зэрэг өссөн.",
+   "en": "The number of expenses fell from last month, but the amount of money spent rose slightly.",
+   "alt_mn": [
+    "Зардлын тоо өмнөх сараас цөөрсөн ч зарцуулсан мөнгөний хэмжээ жаахан өссөн."
+   ],
+   "alt_en": [
+    "The number of expenses dropped since last month, but the amount we spent went up a little."
+   ],
+   "mn_latin": "Zardlyn too ömnökh saraas tsöörsön ch zartsuulsan möngönii khemjee baga zereg össön."
+  },
+  {
+   "mn": "Төсвөө гаргасны дараа хэмнэлт хийх нь илүү хялбар болсон.",
+   "en": "After making our budget, saving became easier.",
+   "alt_mn": [
+    "Төсвөө гаргасан хойно хэмнэх нь илүү амар болсон."
+   ],
+   "alt_en": [
+    "Once we made a budget, saving got easier."
+   ],
+   "mn_latin": "Tösvöö gargasny daraa khemnelt khiikh ni ilüü khyalbar bolson."
+  },
+  {
+   "mn": "Бид орлогынхоо тавь орчим хувийг хөрөнгө оруулалтад зарцуулдаг.",
+   "en": "We spend about fifty percent of our income on investments.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bid orlogynkhoo tavi orchim khuviig khöröngö oruulaltad zartsuuldag."
+  },
+  {
+   "mn": "Нийт цалингийн дөрөвний нэг нь зээлийн төлбөрт явдаг.",
+   "en": "A quarter of the total salary goes to the loan payment.",
+   "alt_mn": [
+    "Цалингийн дөрөвний нэг нь зээлд явдаг."
+   ],
+   "alt_en": [
+    "One fourth of the total salary goes to loan payments."
+   ],
+   "mn_latin": "Niit tsalingiin dörövnii neg ni zeeliin tölbört yavdag."
+  },
+  {
+   "mn": "Дараа сараас бид тавин мянгаад төгрөгөөр зугаа цэнгэлийн зардлаа танана.",
+   "en": "From next month we'll cut our entertainment costs by around fifty thousand tugriks.",
+   "alt_mn": [
+    "Дараа сараас бид зугаа цэнгэлийн зардлаа тавин мянга орчим төгрөгөөр танана."
+   ],
+   "alt_en": [
+    "Starting next month we'll reduce entertainment spending by roughly 50,000 tugriks."
+   ],
+   "mn_latin": "Daraa saraas bid tavin myangaad tögrögöör zugaa tsengeliin zardlaa tanana."
+  },
+  {
+   "mn": "Нэг сая хоёр зуун мянган төгрөгийг хоолонд, үлдсэнийг нь тээвэрт зарцуулсан.",
+   "en": "We spent one million two hundred thousand tugriks on food and the rest on transport.",
+   "alt_mn": [
+    "1,2 саяыг хоолонд, үлдсэнийг тээвэрт зарцуулсан."
+   ],
+   "alt_en": [
+    "We spent 1.2 million tugriks on food and the remainder on transportation."
+   ],
+   "mn_latin": "Neg saya khoyor zuun myangan tögrögiig khoolond, üldseniig ni teevert zartsuulsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Approximations, percentages and fractions in a money report",
+  "title_mn": "Мөнгөний тайланд хувь, бутархай, ойролцоо тоо хэрэглэх нь",
+  "explain_en": "To say 'about' in Mongolian, add -аад/-ээд/-оод/-өөд to a round number (хоёр зуугаад мянга = about 200 thousand) or use орчим / гаруй ('around' / 'more than'). Percentages use хувь (30 хувь), and fractions use the genitive: гуравны нэг = one third, дөрөвний нэг = a quarter. The ending -лаа/-лээ/-лоо/-лөө marks the past tense, as in хуримтлуулах → хуримтлууллаа 'we accumulated'. In English, big numbers are read in groups: 3,000,000 = three million; 1.2 million. Use 'the number of' with countable things (the number of expenses) and 'the amount of' with uncountable things (the amount of money).",
+  "explain_mn": "Англиар «ойролцоогоор» гэж about, around, roughly гэх бөгөөд тооны өмнө тавина: about 200,000 tugriks. Хувь нь percent, бутархай нь a third, a quarter, two thirds гэх мэт. Том тоог бүлэглэн уншдаг: 3,000,000 = three million, 1.2 million = one point two million. «The number of» нь тоолдог нэр үгтэй (the number of expenses, loans), «the amount of» нь тоологддоггүй нэр үгтэй (the amount of money, time) хэрэглэгдэнэ. Жишээ: The number of loans fell, but the amount of debt grew.",
+  "examples": [
+   {
+    "mn": "Орлогынхоо гуравны нэгийг хэмнэдэг.",
+    "en": "We save a third of our income.",
+    "mn_latin": "Orlogynkhoo guravny negiig khemnedeg."
+   },
+   {
+    "mn": "Сар бүр гурван зуугаад мянган төгрөг зарцуулдаг.",
+    "en": "We spend about three hundred thousand tugriks a month.",
+    "mn_latin": "Sar bür gurvan zuugaad myangan tögrög zartsuuldag."
+   },
+   {
+    "mn": "Цалингийн 10 хувь татварт явдаг.",
+    "en": "Ten percent of the salary goes to tax.",
+    "mn_latin": "Tsalingiin 10 khuvi tatvart yavdag."
+   },
+   {
+    "mn": "Нэг жилд хоёр сая гаруй төгрөг хуримтлууллаа.",
+    "en": "In one year we saved over two million tugriks.",
+    "mn_latin": "Neg jild khoyor saya garui tögrög khurimtluullaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Орлогынхоо дөрөвний ___ хэмнэдэг.",
+   "answer": "нэгийг",
+   "options": [
+    "нэгийг",
+    "хоёрыг",
+    "хувийг",
+    "нэг"
+   ],
+   "translation": "We save a quarter of our income.",
+   "explain_en": "A quarter is дөрөвний нэг ('one of four'); as the object it takes the accusative: нэгийг.",
+   "explain_mn": "«Дөрөвний нэг» нь өгүүлбэрт тусах үг болж байгаа тул тусах тийн -ийг нөхцөл авч «нэгийг» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Сар бүр хоёр зуу___ мянган төгрөг хэмнэдэг.",
+   "answer": "гаад",
+   "options": [
+    "гаад",
+    "гийн",
+    "гаар",
+    "даа"
+   ],
+   "translation": "Every month we save about two hundred thousand tugriks.",
+   "explain_en": "Зуу (hundred) takes -гаад to mean 'about': зуугаад.",
+   "explain_mn": "«Зуу» гэсэн тоонд -гаад залгаж ойролцоо утга илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ жил бид нэг сая гаруй төгрөг хуримтл___.",
+   "answer": "уулсан",
+   "options": [
+    "уулсан",
+    "уулах",
+    "уулдаг",
+    "уулъя"
+   ],
+   "translation": "This year we saved over one million tugriks.",
+   "explain_en": "A completed action in the past takes -сан: хуримтлуулсан 'saved up'.",
+   "explain_mn": "Өнгөрсөн цагийн дууссан үйлийг -сан нөхцөлөөр илэрхийлнэ: хуримтлуулсан."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ of expenses decreased, but the amount of money spent grew.",
+   "answer": "number",
+   "options": [
+    "number",
+    "amount",
+    "level",
+    "sum"
+   ],
+   "translation": "Зарлагын тоо цөөрсөн ч зарцуулсан мөнгөний хэмжээ нэмэгдсэн.",
+   "explain_en": "'Expenses' are countable, so use 'the number of'.",
+   "explain_mn": "«Expenses» тоологдох тул «the number of» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ of money we save is small, but it is growing.",
+   "answer": "amount",
+   "options": [
+    "amount",
+    "number",
+    "count",
+    "many"
+   ],
+   "translation": "Бидний хэмнэдэг мөнгөний хэмжээ бага ч өсөж байна.",
+   "explain_en": "Money is uncountable, so use 'the amount of'.",
+   "explain_mn": "Мөнгө тоологддоггүй тул «the amount of» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Our income is 3,000,000 tugriks, or three ___ tugriks.",
+   "answer": "million",
+   "options": [
+    "million",
+    "millions",
+    "thousand",
+    "billion"
+   ],
+   "translation": "Манай орлого 3,000,000 төгрөг буюу гурван сая төгрөг.",
+   "explain_en": "After a number, 'million' stays singular: three million.",
+   "explain_mn": "Тооны араас «million» олон тоонд орохгүй: three million."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Бат, чи сарын төсвөө хэрхэн гаргадаг вэ?",
+   "en": "Bat, how do you make your monthly budget?",
+   "mn_latin": "Bat, chi saryn tösvöö kherkhen gargadag ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Эхлээд орлого, зарлагаа бичдэг. Манай орлого гурван сая орчим төгрөг.",
+   "en": "First I write down income and expenses. Our income is around three million tugriks.",
+   "mn_latin": "Ekhleed orlogo, zarlagaa bichdeg. Manai orlogo gurvan saya orchim tögrög."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэрнээс хэдийг нь хэмнэдэг вэ?",
+   "en": "How much of that do you save?",
+   "mn_latin": "Ternees khediig ni khemnedeg ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тавны нэгийг нь хэмнэдэг. Сар бүр зургаан зуугаад мянган төгрөг гарна.",
+   "en": "A fifth of it. That comes to about six hundred thousand tugriks a month.",
+   "mn_latin": "Tavny negiig ni khemnedeg. Sar bür zurgaan zuugaad myangan tögrög garna."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна шүү. Харин миний зарлагын тоо цөөхөн ч мөнгөний хэмжээ их.",
+   "en": "That's great. I have few expenses, but the amount of money is large.",
+   "mn_latin": "Sain baina shüü. Kharin minii zarlagyn too tsöökhön ch möngönii khemjee ikh."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Түрээс, татвар хэдэн хувийг нь эзэлж байна вэ?",
+   "en": "What percentage do rent and taxes take up?",
+   "mn_latin": "Türees, tatvar kheden khuviig ni ezelj baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Түрээс гуравны нэг, татвар арав орчим хувь.",
+   "en": "Rent is a third, and tax is around ten percent.",
+   "mn_latin": "Türees guravny neg, tatvar arav orchim khuvi."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэгвэл зугаа цэнгэлийн зардлаа бага зэрэг танаад хөрөнгө оруулалт хийж болно.",
+   "en": "Then you could cut a bit from entertainment and make an investment.",
+   "mn_latin": "Tegvel zugaa tsengeliin zardlaa baga zereg tanaad khöröngö oruulalt khiij bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian families receive their salary once or twice a month and plan around big events such as Tsagaan Sar, when spending on food, gifts and clothes rises sharply. It is common to set money aside beforehand for buuz ingredients and gifts. Families also often support relatives, which is an important part of the household budget.",
+  "mn": "Монголын олон гэр бүл цалингаа сард нэг эсвэл хоёр удаа авдаг бөгөөд Цагаан сар зэрэг томоохон баяраар хоол, бэлэг, хувцасны зардал огцом нэмэгддэг тул урьдчилан төлөвлөдөг. Бууз хийх гол орц, бэлгийн мөнгийг өмнө нь хуримтлуулах нь түгээмэл. Мөн хамаатан садандаа тусалдаг нь гэр бүлийн төсвийн чухал хэсэг байдаг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 18,
+  "notes": "Several real errors: bad negative sentence, wrong grammar claim about -уулаа, malformed fill-blank answer, typos."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 8,
+  "notes": "Fixed the misleading -уулаа label, two case forms, a non-unique fill-blank option and unnatural dialogue lines.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "-уулаа is not an approximation suffix"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "-уулаа is not an approximation suffix"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "'200 мянгаад' means 'about 200 thousands'; the -аад goes on the hundreds"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "Accusative of гаруй is гаруйг"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "'хүртэх нэр' is wrong and unclear"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'quantity of money' is also acceptable, so the answer was not unique"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Natural question form: хэдэн хувь ... вэ"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "'зугаа цэнгэлээс нь танаад' is unnatural"
+   }
+  ]
+ }
+}

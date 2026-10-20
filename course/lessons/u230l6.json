@@ -1,0 +1,424 @@
+{
+ "intro_en": "In this lesson you will argue for and against a divisive auteur film on a critics' panel. You will use paired verbs like хүлээн зөвшөөрөх and үнэлж цэгнэх to build a balanced Mongolian argument.",
+ "intro_mn": "Энэ хичээлээр та шүүмжлэгчдийн хэлэлцүүлэгт уран бүтээлчийн маргаантай киног дэмжиж, эсэргүүцэн маргаж сурна. Мөн \"Whether intended or not\", \"Though admired by many\" зэрэг товчилсон нөхцөлийн бүтцээр англиар тэнцвэртэй үндэслэл гаргаж сурна.",
+ "vocab": [
+  {
+   "mn": "дүгнэлт",
+   "en": "verdict",
+   "pos": "noun",
+   "example_mn": "Шүүмжлэгчдийн эцсийн дүгнэлт маргааш гарна.",
+   "example_en": "The critics' final verdict comes out tomorrow.",
+   "mn_latin": "dügnelt"
+  },
+  {
+   "mn": "дэмий сүржин",
+   "en": "pretentious",
+   "pos": "adjective",
+   "example_mn": "Зарим үзэгчдэд энэ кино дэмий сүржин санагдсан.",
+   "example_en": "To some viewers, this film felt pretentious.",
+   "mn_latin": "demii sürjin"
+  },
+  {
+   "mn": "зоримог",
+   "en": "ambitious",
+   "pos": "adjective",
+   "example_mn": "Энэ бол найруулагчийн хамгийн зоримог төсөл.",
+   "example_en": "This is the director's most ambitious project.",
+   "mn_latin": "zorimog"
+  },
+  {
+   "mn": "шилдэг бүтээл",
+   "en": "masterpiece",
+   "pos": "noun",
+   "example_mn": "Олон хүн үүнийг түүний шилдэг бүтээл гэж үздэг.",
+   "example_en": "Many people consider this his masterpiece.",
+   "mn_latin": "shildeg büteel"
+  },
+  {
+   "mn": "хэт үнэлэгдсэн",
+   "en": "overrated",
+   "pos": "adjective",
+   "example_mn": "Миний бодлоор энэ кино хэт үнэлэгдсэн.",
+   "example_en": "In my opinion, this film is overrated.",
+   "mn_latin": "khet ünelegdsen"
+  },
+  {
+   "mn": "маргаантай",
+   "en": "divisive",
+   "pos": "adjective",
+   "example_mn": "Энэ бол оны хамгийн маргаантай кино.",
+   "example_en": "This is the most divisive film of the year.",
+   "mn_latin": "margaantai"
+  },
+  {
+   "mn": "хүлээн зөвшөөрөх",
+   "en": "to acknowledge",
+   "pos": "verb",
+   "example_mn": "Би түүний авьяасыг хүлээн зөвшөөрч байна.",
+   "example_en": "I acknowledge his talent.",
+   "mn_latin": "khüleen zövshöörökh"
+  },
+  {
+   "mn": "үнэлж цэгнэх",
+   "en": "to weigh, to assess",
+   "pos": "verb",
+   "example_mn": "Киног бүхэлд нь үнэлж цэгнэх хэрэгтэй.",
+   "example_en": "We need to assess the film as a whole.",
+   "mn_latin": "ünelj tsegnekh"
+  },
+  {
+   "mn": "магтан сайшаах",
+   "en": "to praise highly",
+   "pos": "verb",
+   "example_mn": "Шүүмжлэгчид зураглалыг нь магтан сайшаасан.",
+   "example_en": "Critics praised its cinematography highly.",
+   "mn_latin": "magtan saishaakh"
+  },
+  {
+   "mn": "эргэцүүлэн бодох",
+   "en": "to reflect on",
+   "pos": "verb",
+   "example_mn": "Кино дууссаны дараа би удаан эргэцүүлэн бодсон.",
+   "example_en": "After the film ended, I reflected on it for a long time.",
+   "mn_latin": "ergetsüülen bodokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Санаатай ч бай, санамсаргүй ч бай, киноны удаан хэмнэл үзэгчдийг шалгадаг.",
+   "en": "Whether intended or not, the film's slow pacing tests the audience.",
+   "alt_mn": [
+    "Зориуд ч бай, үгүй ч бай, киноны удаан хэмнэл үзэгчдийн тэвчээрийг шалгадаг."
+   ],
+   "alt_en": [
+    "Intentional or not, the film's slow pacing tests the audience."
+   ],
+   "mn_latin": "Sanaatai ch bai, sanamsargüi ch bai, kinony udaan khemnel üzegchdiig shalgadag."
+  },
+  {
+   "mn": "Олон хүн магтан сайшаадаг ч энэ кино надад дэмий сүржин санагддаг.",
+   "en": "Though admired by many, the film strikes me as pretentious.",
+   "alt_mn": [
+    "Олон хүний магтаалыг хүртсэн ч энэ кино надад дэмий сүржин санагддаг."
+   ],
+   "alt_en": [
+    "Though praised by many, the film strikes me as pretentious."
+   ],
+   "mn_latin": "Olon khün magtan saishaadag ch ene kino nadad demii sürjin sanagddag."
+  },
+  {
+   "mn": "Боломжтой бол бид киног өөрийнх нь хэмжүүрээр үнэлж цэгнэх ёстой.",
+   "en": "Where possible, we should judge the film on its own terms.",
+   "alt_mn": [],
+   "alt_en": [
+    "Where possible, we should assess the film on its own terms."
+   ],
+   "mn_latin": "Bolomjtoi bol bid kinog ööriinkh ni khemjüüreer ünelj tsegnekh yostoi."
+  },
+  {
+   "mn": "Зохиол нь зоримог хэдий ч хоёрдугаар хагастаа гол санаагаа алддаг.",
+   "en": "Though ambitious, the script loses focus in the second half.",
+   "alt_mn": [
+    "Хэдийгээр зоримог ч зохиол нь хоёрдугаар хагастаа гол санаагаа алддаг."
+   ],
+   "alt_en": [
+    "Ambitious as it is, the script loses focus in the second half."
+   ],
+   "mn_latin": "Zokhiol ni zorimog khedii ch khoyordugaar khagastaa gol sanaagaa alddag."
+  },
+  {
+   "mn": "Нэгэн цагт хэт үнэлэгдсэн гэж шүүмжлүүлж байсан энэ найруулагчийг одоо мастер хэмээн өргөнөөр хүлээн зөвшөөрдөг.",
+   "en": "Once dismissed as overrated, the director is now widely acknowledged as a master.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Negen tsagt khet ünelegdsen gej shüümjlüülj baisan ene nairuulagchiig odoo mastyer khemeen örgönöör khüleen zövshöördög."
+  },
+  {
+   "mn": "Шилдэг бүтээл биш гэхэд ядаж нухацтай бүтээл мөн.",
+   "en": "If not a masterpiece, it is at least a serious work.",
+   "alt_mn": [
+    "Шилдэг бүтээл биш ч гэсэн ядаж нухацтай бүтээл."
+   ],
+   "alt_en": [
+    "If not a masterpiece, it is at least a serious piece of work."
+   ],
+   "mn_latin": "Shildeg büteel bish gekhed yadaj nukhatstai büteel mön."
+  },
+  {
+   "mn": "Хоёр дахь удаагаа үзэхэд төгсгөлийн хэсэг шинэ утгаа нээн харуулдаг.",
+   "en": "When viewed a second time, the final scene reveals new meaning.",
+   "alt_mn": [],
+   "alt_en": [
+    "Seen a second time, the final scene reveals new meaning."
+   ],
+   "mn_latin": "Khoyor dakhi udaagaa üzekhed tögsgöliin kheseg shine utgaa neen kharuuldag."
+  },
+  {
+   "mn": "Түүний авьяасыг хүлээн зөвшөөрч байгаа ч би энэ киног амжилттай гэж хэлж чадахгүй.",
+   "en": "While acknowledging his talent, I can't call this film a success.",
+   "alt_mn": [],
+   "alt_en": [
+    "While I acknowledge his talent, I can't call this film a success."
+   ],
+   "mn_latin": "Tüünii aviyaasyg khüleen zövshöörch baigaa ch bi ene kinog amjilttai gej khelj chadakhgüi."
+  },
+  {
+   "mn": "Дүгнэлт гаргахаасаа өмнө хоёр талыг нь үнэлж цэгнэе.",
+   "en": "Before reaching a verdict, let's weigh both sides.",
+   "alt_mn": [],
+   "alt_en": [
+    "Before we reach a verdict, let's weigh both sides."
+   ],
+   "mn_latin": "Dügnelt gargakhaasaa ömnö khoyor talyg ni ünelj tsegneye."
+  },
+  {
+   "mn": "Маргаантай ч гэсэн энэ кино ярилцаж хэлэлцэх үнэ цэнтэй.",
+   "en": "Divisive though it may be, the film deserves to be discussed.",
+   "alt_mn": [
+    "Маргаантай хэдий ч энэ киног ярилцаж хэлэлцэх нь зүйтэй."
+   ],
+   "alt_en": [
+    "Though divisive, the film deserves to be discussed."
+   ],
+   "mn_latin": "Margaantai ch gesen ene kino yariltsaj kheleltsekh üne tsentei."
+  },
+  {
+   "mn": "Үзэсгэлэнтэй хэрнээ хоосон дүрслэл надад ямар ч сэтгэгдэл төрүүлсэнгүй.",
+   "en": "Beautiful but empty, the images left me cold.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Üzesgelentei khernee khooson dürslel nadad yamar ch setgegdel törüülsengüi."
+  },
+  {
+   "mn": "Долоо хоног эргэцүүлэн бодсоны эцэст би дүгнэлтээ өөрчилсөн.",
+   "en": "After reflecting on it for a week, I changed my verdict.",
+   "alt_mn": [
+    "Долоо хоног эргэцүүлэн бодсоныхоо дараа би дүгнэлтээ өөрчилсөн."
+   ],
+   "alt_en": [],
+   "mn_latin": "Doloo khonog ergetsüülen bodsony etsest bi dügneltee öörchilsön."
+  }
+ ],
+ "grammar": {
+  "title_en": "Paired verbs for a balanced argument",
+  "title_mn": "Маргаан дахь товчилсон нөхцөлийн бүтэц (Whether intended or not, Though admired by many)",
+  "explain_en": "Mongolian often joins two verbs of related meaning into one expression. The first verb takes a connective ending (-ж/-ч or -н), and the second verb carries the tense: хүлээн зөвшөөрөх 'acknowledge', үнэлж цэгнэх 'weigh, assess', магтан сайшаах 'praise highly', эргэцүүлэн бодох 'reflect'. The pair sounds fuller and more formal than a single verb, so critics use these pairs a lot. To balance an argument, put a concession clause with -ч / -ч гэсэн / хэдий ч 'although' before your main point: Авьяасыг нь хүлээн зөвшөөрч байгаа ч... 'While I acknowledge his talent...'. Only the second verb changes form: зөвшөөрсөн, цэгнэе, сайшаадаг.",
+  "explain_mn": "Англи хэлэнд маргаан, шүүмжийн бичвэрт нөхцөлийн өгүүлбэрийг ихэвчлэн товчилдог. Ийм үед өгүүлэгдэхүүн болон \"to be\" үйл үгийг орхино. Үлдсэн хэсэг нь холбоос үг, тэмдэг нэр эсвэл үйлт нэр байна: \"Though (it is) admired by many\", \"Whether (it was) intended or not\", \"Where (it is) possible\", \"If not a masterpiece\". Гол дүрэм: товчилсон хэсгийн өгүүлэгдэхүүн нь гол өгүүлбэрийн өгүүлэгдэхүүнтэй ижил байх ёстой. Харин \"Though admired by many, I found it dull\" гэвэл буруу болно, учир нь магтагдсан нь \"I\" биш. Энэ бүтэц нь монгол хэлний \"-ч гэсэн\", \"хэдий ч\" холбоостой төстэй.",
+  "examples": [
+   {
+    "mn": "Олон хүн магтан сайшаадаг ч энэ кино надад дэмий сүржин санагддаг.",
+    "en": "Though admired by many, the film strikes me as pretentious.",
+    "mn_latin": "Olon khün magtan saishaadag ch ene kino nadad demii sürjin sanagddag."
+   },
+   {
+    "mn": "Түүний зоригийг хүлээн зөвшөөрч байгаа ч үр дүн нь сул байна.",
+    "en": "While acknowledging its boldness, I find the result weak.",
+    "mn_latin": "Tüünii zorigiig khüleen zövshöörch baigaa ch ür dün ni sul baina."
+   },
+   {
+    "mn": "Боломжтой бол киног өөрийнх нь хэмжүүрээр үнэлж цэгнэе.",
+    "en": "Where possible, let's judge the film on its own terms.",
+    "mn_latin": "Bolomjtoi bol kinog ööriinkh ni khemjüüreer ünelj tsegneye."
+   },
+   {
+    "mn": "Санаатай ч бай, үгүй ч бай, энэ төгсгөл үзэгчдийг хоёр хуваадаг.",
+    "en": "Whether intended or not, this ending divides the audience.",
+    "mn_latin": "Sanaatai ch bai, ügüi ch bai, ene tögsgöl üzegchdiig khoyor khuvaadag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би түүний авьяасыг хүлээн ___ байгаа ч энэ киног амжилттай гэж хэлж чадахгүй.",
+   "answer": "зөвшөөрч",
+   "options": [
+    "зөвшөөрч",
+    "зөвшөөрөх",
+    "зөвшөөрнө",
+    "зөвшөөрөл"
+   ],
+   "translation": "While acknowledging his talent, I can't call this film a success.",
+   "explain_en": "Before the auxiliary байгаа, the verb needs the connective ending -ч, which gives зөвшөөрч байгаа 'am acknowledging'. Зөвшөөрөл is a noun, and the other two forms cannot attach to байгаа.",
+   "explain_mn": "\"байгаа\" туслах үйл үгийн өмнө үйл үг \"-ч\" холбох нөхцөлтэй байх ёстой: зөвшөөрч байгаа. \"Зөвшөөрөл\" бол нэр үг."
+  },
+  {
+   "lang": "mn",
+   "text": "Шүүмжлэгчид киноны зураглалыг магтан ___.",
+   "answer": "сайшаасан",
+   "options": [
+    "сайшаасан",
+    "сайшаан",
+    "сайшаах",
+    "сайшаал"
+   ],
+   "translation": "Critics praised the film's cinematography highly.",
+   "explain_en": "In a paired verb, the second verb carries the tense. The sentence ends here, so it needs the finite past form сайшаасан. Сайшаан is only a connective form.",
+   "explain_mn": "Хос үйл үгийн хоёр дахь үйл үг цаг заана. Өгүүлбэр энд төгсөж байгаа тул өнгөрсөн цагийн \"сайшаасан\" хэлбэр зөв."
+  },
+  {
+   "lang": "mn",
+   "text": "Дүгнэлт гаргахаасаа өмнө хоёр талыг нь үнэлж ___.",
+   "answer": "цэгнэе",
+   "options": [
+    "цэгнэе",
+    "цэгнэж",
+    "цэгнэн",
+    "цэгнээд"
+   ],
+   "translation": "Before reaching a verdict, let's weigh both sides.",
+   "explain_en": "The meaning is 'let's weigh', so the second verb takes the 'let's' ending -е: цэгнэе. Цэгнэж, цэгнэн and цэгнээд are connective forms and cannot end the sentence.",
+   "explain_mn": "\"Let's\" буюу уриалах утгатай тул \"-е\" нөхцөл зөв: цэгнэе. \"Цэгнэж\", \"цэгнэн\", \"цэгнээд\" нь нэгэн төрлийн холбох хэлбэр тул өгүүлбэрийг төгсгөж чадахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "___ intended or not, the slow pacing tests the audience.",
+   "answer": "Whether",
+   "options": [
+    "Whether",
+    "If",
+    "Although",
+    "Unless"
+   ],
+   "translation": "Санаатай ч бай, санамсаргүй ч бай, удаан хэмнэл үзэгчдийг шалгадаг.",
+   "explain_en": "The fixed pattern 'Whether X or not' presents two possibilities. 'If ... or not' is far less natural at the start of a sentence.",
+   "explain_mn": "\"Whether ... or not\" нь хоёр боломжийг зэрэг илэрхийлдэг тогтвортой бүтэц бөгөөд \"-ч бай, -ч бай\"-тай дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Though ___ by many, the film felt hollow to me.",
+   "answer": "admired",
+   "options": [
+    "admired",
+    "admiring",
+    "admire",
+    "admiration"
+   ],
+   "translation": "Олон хүн магтан сайшаадаг ч энэ кино надад хоосон санагдсан.",
+   "explain_en": "The film is admired by others, so the reduced clause needs the past participle: 'Though (it is) admired'.",
+   "explain_mn": "Кино бусдад магтагдаж байгаа учир идэвхгүй утгатай \"admired\" хэлбэр хэрэгтэй: \"Though (it is) admired\"."
+  },
+  {
+   "lang": "en",
+   "text": "___ possible, we should avoid spoilers in the review.",
+   "answer": "Where",
+   "options": [
+    "Where",
+    "Whether",
+    "Though",
+    "As"
+   ],
+   "translation": "Боломжтой бол шүүмждээ үйл явдлыг задлахаас зайлсхийх хэрэгтэй.",
+   "explain_en": "'Where possible' is a fixed reduced clause meaning 'wherever it is possible'.",
+   "explain_mn": "\"Where possible\" нь \"боломжтой бол\" гэсэн утгатай тогтвортой товчилсон хэллэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Оюунаа",
+   "mn": "За, эцсийн дүгнэлтээ гаргахаасаа өмнө хүн бүрийн байр суурийг сонсъё. Марк, та юу гэж бодож байна?",
+   "en": "Okay, before we give our final verdict, let's hear everyone's position. Mark, what do you think?",
+   "mn_latin": "Za, etssiin dügneltee gargakhaasaa ömnö khün büriin bair suuriig sonsyo. Mark, ta yuu gej bodoj baina?"
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Миний бодлоор энэ бол шилдэг бүтээл. Санаатай ч бай, үгүй ч бай, удаан хэмнэл нь биднийг дурсамжийн тухай эргэцүүлэн бодоход хүргэдэг.",
+   "en": "In my view, it's a masterpiece. Whether intended or not, the slow pacing makes us reflect on memory.",
+   "mn_latin": "Minii bodloor ene bol shildeg büteel. Sanaatai ch bai, ügüi ch bai, udaan khemnel ni bidniig dursamjiin tukhai ergetsüülen bodokhod khürgedeg."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Зураглалыг нь би ч бас магтан сайшаадаг. Гэхдээ үнэнийг хэлэхэд, кино бүхэлдээ дэмий сүржин санагдсан.",
+   "en": "I praise the cinematography too. But honestly, the film as a whole felt pretentious.",
+   "mn_latin": "Zuraglalyg ni bi ch bas magtan saishaadag. Gekhdee üneniig khelekhed, kino bükheldee demii sürjin sanagdsan."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Хэт үнэлэгдсэн гэж хэлж болох ч зоримог гэдгийг нь хүлээн зөвшөөрөх ёстой.",
+   "en": "You could call it overrated, but you have to acknowledge that it's ambitious.",
+   "mn_latin": "Khet ünelegdsen gej khelj bolokh ch zorimog gedgiig ni khüleen zövshöörökh yostoi."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Зоримог хэдий ч хоёрдугаар хагастаа гол санаагаа алддаг. Зорилго нь сайн байсан ч үр дүн нь өөр асуудал.",
+   "en": "Though ambitious, it loses focus in the second half. The intention was good, but the result is another matter.",
+   "mn_latin": "Zorimog khedii ch khoyordugaar khagastaa gol sanaagaa alddag. Zorilgo ni sain baisan ch ür dün ni öör asuudal."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Хоёр дахь удаагаа үзэхэд тэр хэсэг шинэ утгаа нээн харуулдаг шүү.",
+   "en": "When viewed a second time, that part reveals new meaning, you know.",
+   "mn_latin": "Khoyor dakhi udaagaa üzekhed ter kheseg shine utgaa neen kharuuldag shüü."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Тэгвэл бидний дүгнэлт: маргаантай ч гэсэн ярилцаж хэлэлцэх үнэ цэнтэй, нухацтай бүтээл.",
+   "en": "Then our verdict: divisive though it may be, it's a serious work that deserves to be discussed.",
+   "mn_latin": "Tegvel bidnii dügnelt: margaantai ch gesen yariltsaj kheleltsekh üne tsentei, nukhatstai büteel."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian cinema has gained international attention through directors like Byambasuren Davaa, whose \"The Story of the Weeping Camel\" was nominated for an Oscar. In Mongolian public discussion, critics often soften harsh judgments with concessions and formal paired verbs such as хүлээн зөвшөөрөх, so a review sounds respectful toward the artist even when the verdict is negative.",
+  "mn": "Бямбасүрэн Даваа зэрэг найруулагчдын ачаар Монголын кино олон улсын анхаарлыг татах болсон. Тухайлбал, түүний \"Ингэн тэмээний домог\" кино Оскарын шагналд нэр дэвшсэн. Монголд олны өмнө шүүмжлэхдээ хатуу үнэлгээгээ \"-ч гэсэн\" гэх мэт буулт болон \"хүлээн зөвшөөрөх\" зэрэг албан хос үйл үгээр зөөлрүүлэх нь элбэг. Ингэснээр дүгнэлт сөрөг байсан ч уран бүтээлчийг хүндэтгэсэн өнгө аястай сонсогддог."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Strong, natural B2 lesson. There was one ambiguous fill-in-the-blank distractor and one misplaced modifier in the Mongolian intro."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 8,
+  "notes": "Replaced the unnatural 'хэт өргөмжлөгдсөн' with 'хэт үнэлэгдсэн' everywhere, fixed the 'магтаал хүлээх' collocation, and removed a second correct option from fill_blank 2.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "mn",
+    "why": "'хэт өргөмжлөгдсөн' is unnatural (өргөмжлөх = to confer a title); the standard word for 'overrated' is хэт үнэлэгдсэн"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "Use the standard word for 'overrated'"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "Use the standard word for 'overrated'"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Use the standard word for 'overrated'"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "The natural collocation is 'магтаал хүртэх', not 'магтаал хүлээх'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'цэгнэсэн' also forms a grammatical sentence, so the blank had two correct answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Matches the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Matches the new options and the English explanation"
+   }
+  ]
+ }
+}

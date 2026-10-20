@@ -1,0 +1,463 @@
+{
+ "intro_en": "You will learn to ask and say where someone is from. You will also use the Mongolian ablative ending -аас/-ээс/-оос/-өөс, which means \"from\".",
+ "intro_mn": "Та хэн нэгэн хаанаас ирснийг асуух, хэлж сурна. Мөн \"from\" гэсэн утгатай монгол хэлний гарах тийн ялгалын \"-аас/-ээс/-оос/-өөс\" нөхцөлийг хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "хаанаас",
+   "en": "from where",
+   "pos": "adverb",
+   "example_mn": "Та хаанаас ирсэн бэ?",
+   "example_en": "Where are you from?",
+   "mn_latin": "khaanaas"
+  },
+  {
+   "mn": "хот",
+   "en": "city",
+   "pos": "noun",
+   "example_mn": "Улаанбаатар бол том хот.",
+   "example_en": "Ulaanbaatar is a big city.",
+   "mn_latin": "khot"
+  },
+  {
+   "mn": "улс",
+   "en": "country",
+   "pos": "noun",
+   "example_mn": "Монгол бол миний улс.",
+   "example_en": "Mongolia is my country.",
+   "mn_latin": "uls"
+  },
+  {
+   "mn": "Монгол",
+   "en": "Mongolia",
+   "pos": "proper noun",
+   "example_mn": "Би Монголоос ирсэн.",
+   "example_en": "I am from Mongolia.",
+   "mn_latin": "Mongol"
+  },
+  {
+   "mn": "Улаанбаатар",
+   "en": "Ulaanbaatar",
+   "pos": "proper noun",
+   "example_mn": "Би Улаанбаатарт амьдардаг.",
+   "example_en": "I live in Ulaanbaatar.",
+   "mn_latin": "Ulaanbaatar"
+  },
+  {
+   "mn": "Эрдэнэт",
+   "en": "Erdenet",
+   "pos": "proper noun",
+   "example_mn": "Эрдэнэт бол Монголын хойд хэсэгт байдаг хот.",
+   "example_en": "Erdenet is a city in northern Mongolia.",
+   "mn_latin": "Erdenet"
+  },
+  {
+   "mn": "Дархан",
+   "en": "Darkhan",
+   "pos": "proper noun",
+   "example_mn": "Тэр Дарханаас ирсэн.",
+   "example_en": "He is from Darkhan.",
+   "mn_latin": "Darkhan"
+  },
+  {
+   "mn": "ирэх",
+   "en": "to come",
+   "pos": "verb",
+   "example_mn": "Би Эрдэнэтээс ирсэн.",
+   "example_en": "I came from Erdenet.",
+   "mn_latin": "irekh"
+  },
+  {
+   "mn": "хостел",
+   "en": "hostel",
+   "pos": "noun",
+   "example_mn": "Энэ хостел сайн байна.",
+   "example_en": "This hostel is good.",
+   "mn_latin": "khostyel"
+  },
+  {
+   "mn": "найз",
+   "en": "friend",
+   "pos": "noun",
+   "example_mn": "Миний найз Америкаас ирсэн.",
+   "example_en": "My friend is from America.",
+   "mn_latin": "naiz"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та хаанаас ирсэн бэ?",
+   "en": "Where are you from?",
+   "alt_mn": [
+    "Чи хаанаас ирсэн бэ?"
+   ],
+   "alt_en": [
+    "Where did you come from?"
+   ],
+   "mn_latin": "Ta khaanaas irsen be?"
+  },
+  {
+   "mn": "Би Монголоос ирсэн.",
+   "en": "I am from Mongolia.",
+   "alt_mn": [
+    "Би Монгол улсаас ирсэн."
+   ],
+   "alt_en": [
+    "I come from Mongolia."
+   ],
+   "mn_latin": "Bi Mongoloos irsen."
+  },
+  {
+   "mn": "Би Улаанбаатараас ирсэн.",
+   "en": "I am from Ulaanbaatar.",
+   "alt_mn": [],
+   "alt_en": [
+    "I come from Ulaanbaatar."
+   ],
+   "mn_latin": "Bi Ulaanbaataraas irsen."
+  },
+  {
+   "mn": "Тэр Эрдэнэтээс ирсэн.",
+   "en": "He is from Erdenet.",
+   "alt_mn": [],
+   "alt_en": [
+    "She is from Erdenet.",
+    "He comes from Erdenet."
+   ],
+   "mn_latin": "Ter Erdenetees irsen."
+  },
+  {
+   "mn": "Миний найз Дарханаас ирсэн.",
+   "en": "My friend is from Darkhan.",
+   "alt_mn": [],
+   "alt_en": [
+    "My friend comes from Darkhan."
+   ],
+   "mn_latin": "Minii naiz Darkhanaas irsen."
+  },
+  {
+   "mn": "Дархан бол хот.",
+   "en": "Darkhan is a city.",
+   "alt_mn": [
+    "Дархан бол хот юм."
+   ],
+   "alt_en": [],
+   "mn_latin": "Darkhan bol khot."
+  },
+  {
+   "mn": "Монгол бол миний улс.",
+   "en": "Mongolia is my country.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Mongol bol minii uls."
+  },
+  {
+   "mn": "Та аль улсаас ирсэн бэ?",
+   "en": "Which country are you from?",
+   "alt_mn": [],
+   "alt_en": [
+    "What country are you from?"
+   ],
+   "mn_latin": "Ta ali ulsaas irsen be?"
+  },
+  {
+   "mn": "Та ямар хотоос ирсэн бэ?",
+   "en": "Which city are you from?",
+   "alt_mn": [],
+   "alt_en": [
+    "What city are you from?"
+   ],
+   "mn_latin": "Ta yamar khotoos irsen be?"
+  },
+  {
+   "mn": "Би Эрдэнэт хотоос ирсэн.",
+   "en": "I am from the city of Erdenet.",
+   "alt_mn": [],
+   "alt_en": [
+    "I come from Erdenet city."
+   ],
+   "mn_latin": "Bi Erdenet khotoos irsen."
+  },
+  {
+   "mn": "Бид Монголоос ирсэн.",
+   "en": "We are from Mongolia.",
+   "alt_mn": [],
+   "alt_en": [
+    "We come from Mongolia."
+   ],
+   "mn_latin": "Bid Mongoloos irsen."
+  },
+  {
+   "mn": "Энэ хостелд Дарханаас ирсэн найз байна.",
+   "en": "There is a friend from Darkhan in this hostel.",
+   "alt_mn": [],
+   "alt_en": [
+    "A friend from Darkhan is in this hostel."
+   ],
+   "mn_latin": "Ene khostyeld Darkhanaas irsen naiz baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "\"From\": the ending -аас/-ээс/-оос/-өөс",
+  "title_mn": "\"From\": гарах тийн -аас/-ээс/-оос/-өөс нөхцөл",
+  "explain_en": "Mongolian adds an ending to a noun to say \"from\". The ending follows vowel harmony: -аас for words with а/у (Улаанбаатар → Улаанбаатараас, Дархан → Дарханаас), -оос for words with о (Монгол → Монголоос), -ээс for words with э/ү/и (Эрдэнэт → Эрдэнэтээс), and -өөс for words with ө (Төв → Төвөөс). After a long vowel or a diphthong, add г: Өвөрхангай → Өвөрхангайгаас. Use it with ирсэн: \"Би Монголоос ирсэн\" = \"I am from Mongolia\". Ask with хаанаас (\"from where\"): \"Та хаанаас ирсэн бэ?\"",
+  "explain_mn": "Монгол хэлний \"-аас/-ээс/-оос/-өөс\" нөхцөл англи хэлний \"from\"-той тохирно. Монголд нөхцөл үгийн ард залгагддаг: \"Монголоос\", \"Эрдэнэтээс\", \"Дарханаас\", \"Төвөөс\" (урт эгшиг, хос эгшгийн ард \"г\" нэмнэ: \"Өвөрхангайгаас\"). Англи хэлэнд харин \"from\" нэрийн өмнө тавигдана: \"I am from Mongolia\" = \"Би Монголоос ирсэн\". Асуухдаа \"Where are you from?\" гэнэ. Энд \"Where ... from\" нь \"хаанаас\" гэсэн утгатай: \"Та хаанаас ирсэн бэ?\"",
+  "examples": [
+   {
+    "mn": "Би Монголоос ирсэн.",
+    "en": "I am from Mongolia.",
+    "mn_latin": "Bi Mongoloos irsen."
+   },
+   {
+    "mn": "Тэр Эрдэнэтээс ирсэн.",
+    "en": "He is from Erdenet.",
+    "mn_latin": "Ter Erdenetees irsen."
+   },
+   {
+    "mn": "Бид Дарханаас ирсэн.",
+    "en": "We are from Darkhan.",
+    "mn_latin": "Bid Darkhanaas irsen."
+   },
+   {
+    "mn": "Та хаанаас ирсэн бэ?",
+    "en": "Where are you from?",
+    "mn_latin": "Ta khaanaas irsen be?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би Монгол___ ирсэн.",
+   "answer": "оос",
+   "options": [
+    "оос",
+    "аас",
+    "ээс",
+    "өөс"
+   ],
+   "translation": "I am from Mongolia.",
+   "explain_en": "Монгол has the vowel о, so the ending is -оос: Монголоос.",
+   "explain_mn": "\"Монгол\" гэдэг үгэнд \"о\" байгаа тул \"-оос\" залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр Эрдэнэт___ ирсэн.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "аас",
+    "оос",
+    "өөс"
+   ],
+   "translation": "He is from Erdenet.",
+   "explain_en": "Эрдэнэт is an э-type word, so it takes -ээс: Эрдэнэтээс.",
+   "explain_mn": "\"Эрдэнэт\" гэдэг үгэнд \"э\" эгшиг байгаа тул \"-ээс\" залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Миний найз Дархан___ ирсэн.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "ээс",
+    "оос",
+    "өөс"
+   ],
+   "translation": "My friend is from Darkhan.",
+   "explain_en": "Дархан has the vowel а, so it takes -аас: Дарханаас.",
+   "explain_mn": "\"Дархан\" гэдэг үгэнд \"а\" эгшиг байгаа тул \"-аас\" залгана."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ from Mongolia.",
+   "answer": "am",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "translation": "Би Монголоос ирсэн.",
+   "explain_en": "With \"I\" we use \"am\": I am from Mongolia.",
+   "explain_mn": "\"I\"-тэй хамт \"am\" хэрэглэнэ: I am from Mongolia."
+  },
+  {
+   "lang": "en",
+   "text": "Where ___ you from?",
+   "answer": "are",
+   "options": [
+    "are",
+    "am",
+    "is",
+    "do"
+   ],
+   "translation": "Та хаанаас ирсэн бэ?",
+   "explain_en": "With \"you\" we use \"are\": Where are you from?",
+   "explain_mn": "\"you\"-тэй хамт \"are\" хэрэглэнэ: Where are you from?"
+  },
+  {
+   "lang": "en",
+   "text": "She is ___ Darkhan.",
+   "answer": "from",
+   "options": [
+    "from",
+    "to",
+    "on",
+    "by"
+   ],
+   "translation": "Тэр Дарханаас ирсэн.",
+   "explain_en": "\"From\" shows origin, like the Mongolian ending -аас.",
+   "explain_mn": "\"from\" нь гарал үүслийг заана, монгол \"-аас\" нөхцөлтэй адил."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу! Намайг Анна гэдэг.",
+   "en": "Hello! My name is Anna.",
+   "mn_latin": "Sain baina uu! Namaig Anna gedeg."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу! Намайг Бат гэдэг. Та хаанаас ирсэн бэ?",
+   "en": "Hello! My name is Bat. Where are you from?",
+   "mn_latin": "Sain baina uu! Namaig Bat gedeg. Ta khaanaas irsen be?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Би Америкаас ирсэн. Харин та?",
+   "en": "I am from America. And you?",
+   "mn_latin": "Bi Amyerikaas irsen. Kharin ta?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Би Монголоос ирсэн.",
+   "en": "I am from Mongolia.",
+   "mn_latin": "Bi Mongoloos irsen."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Та Улаанбаатараас ирсэн үү?",
+   "en": "Are you from Ulaanbaatar?",
+   "mn_latin": "Ta Ulaanbaataraas irsen üü?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Үгүй, би Эрдэнэтээс ирсэн.",
+   "en": "No, I am from Erdenet.",
+   "mn_latin": "Ügüi, bi Erdenetees irsen."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Эрдэнэт гоё хот уу?",
+   "en": "Is Erdenet a nice city?",
+   "mn_latin": "Erdenet goyo khot uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, гоё хот.",
+   "en": "Yes, it is a nice city.",
+   "mn_latin": "Tiim, goyo khot."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar is home to nearly half of Mongolia's people, and many come from other cities like Erdenet and Darkhan or from the countryside. Asking \"Where are you from?\" is a very common way to start a conversation, and people often name their home province (аймаг) too.",
+  "mn": "Монгол Улсын хүн амын бараг тал нь Улаанбаатарт амьдардаг бөгөөд олон хүн Эрдэнэт, Дархан зэрэг хот болон хөдөөнөөс ирсэн байдаг. \"Та хаанаас ирсэн бэ?\" гэдэг нь яриа эхлэх түгээмэл асуулт бөгөөд хүмүүс ихэвчлэн төрсөн аймгаа нэрлэдэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 7,
+  "notes": "Mostly good; the grammar explanation had a garbled Latin-letter word and a weak ө example, plus minor wording issues."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Replaced literary орон with улс, fixed the grammar rules and the en/mn mismatch, and removed an ambiguous option.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Wrong 'Монгол' adjective use; the mn now says 'from' like the en"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "mn",
+    "why": "'орон' (homeland) is literary; the standard word for country is 'улс'"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "Use the standard word улс"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "'хойд хот' is unnatural"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_en",
+    "why": "Matches the corrected mn"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "Use the standard word улс"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "'Таны орон хаана вэ' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "'Where is your country?' is unnatural and doesn't match"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "Matches the new sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Align with title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Wrong rule on long vowels, false 'irregular' claim, incomplete harmony"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'are you from = ирсэн бэ' was wrong; now matches the en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'She is in Darkhan' is also correct"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'Харин та?' is the natural 'And you?'"
+   }
+  ]
+ }
+}

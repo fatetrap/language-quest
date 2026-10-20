@@ -1,0 +1,436 @@
+{
+ "intro_en": "You will learn to read Cyrillic letters that look like English ones but sound different (в, н, р, с, у, х), plus new letters like ж, ш, ч, я, ю, ё. You will also practice the English letters N-Z and the names that are easy to mix up.",
+ "intro_mn": "Англи үсэгтэй төстэй боловч өөр дуудлагатай үсгүүд (в, н, р, с, у, х) болон ж, ш, ч, я, ю, ё зэрэг шинэ үсгүүдийг сурна. Мөн англи цагаан толгойн N-Z үсгүүд болон хольж хутгахад амархан нэрсийг дасгалжуулна.",
+ "vocab": [
+  {
+   "mn": "гудамж",
+   "en": "street",
+   "pos": "noun",
+   "example_mn": "Энэ гудамж урт.",
+   "example_en": "This street is long.",
+   "mn_latin": "gudamj"
+  },
+  {
+   "mn": "дэлгүүр",
+   "en": "shop",
+   "pos": "noun",
+   "example_mn": "Дэлгүүр хаана вэ?",
+   "example_en": "Where is the shop?",
+   "mn_latin": "delgüür"
+  },
+  {
+   "mn": "хоолны газар",
+   "en": "restaurant",
+   "pos": "noun",
+   "example_mn": "Хоолны газар нээлттэй.",
+   "example_en": "The restaurant is open.",
+   "mn_latin": "khoolny gazar"
+  },
+  {
+   "mn": "нээлттэй",
+   "en": "open",
+   "pos": "adjective",
+   "example_mn": "Дэлгүүр нээлттэй.",
+   "example_en": "The shop is open.",
+   "mn_latin": "neelttei"
+  },
+  {
+   "mn": "хаалттай",
+   "en": "closed",
+   "pos": "adjective",
+   "example_mn": "Банк хаалттай.",
+   "example_en": "The bank is closed.",
+   "mn_latin": "khaalttai"
+  },
+  {
+   "mn": "банк",
+   "en": "bank",
+   "pos": "noun",
+   "example_mn": "Банк энд байна.",
+   "example_en": "The bank is here.",
+   "mn_latin": "bank"
+  },
+  {
+   "mn": "хүн",
+   "en": "person",
+   "pos": "noun",
+   "example_mn": "Тэр сайн хүн.",
+   "example_en": "He is a good person.",
+   "mn_latin": "khün"
+  },
+  {
+   "mn": "ном",
+   "en": "book",
+   "pos": "noun",
+   "example_mn": "Энэ миний ном.",
+   "example_en": "This is my book.",
+   "mn_latin": "nom"
+  },
+  {
+   "mn": "цай",
+   "en": "tea",
+   "pos": "noun",
+   "example_mn": "Би цай уумаар байна.",
+   "example_en": "I want to drink tea.",
+   "mn_latin": "tsai"
+  },
+  {
+   "mn": "шуудан",
+   "en": "post office; mail",
+   "pos": "noun",
+   "example_mn": "Шуудан хаана байна вэ?",
+   "example_en": "Where is the post office?",
+   "mn_latin": "shuudan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ гудамж урт.",
+   "en": "This street is long.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene gudamj urt."
+  },
+  {
+   "mn": "Дэлгүүр хаана вэ?",
+   "en": "Where is the shop?",
+   "alt_mn": [
+    "Дэлгүүр хаана байна вэ?"
+   ],
+   "alt_en": [
+    "Where's the shop?"
+   ],
+   "mn_latin": "Delgüür khaana ve?"
+  },
+  {
+   "mn": "Дэлгүүр нээлттэй.",
+   "en": "The shop is open.",
+   "alt_mn": [],
+   "alt_en": [
+    "The store is open."
+   ],
+   "mn_latin": "Delgüür neelttei."
+  },
+  {
+   "mn": "Банк хаалттай.",
+   "en": "The bank is closed.",
+   "alt_mn": [],
+   "alt_en": [
+    "The bank is shut."
+   ],
+   "mn_latin": "Bank khaalttai."
+  },
+  {
+   "mn": "Шуудан энд байна.",
+   "en": "The post office is here.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Shuudan end baina."
+  },
+  {
+   "mn": "Энэ миний ном.",
+   "en": "This is my book.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene minii nom."
+  },
+  {
+   "mn": "Хоолны газар нээлттэй.",
+   "en": "The restaurant is open.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Khoolny gazar neelttei."
+  },
+  {
+   "mn": "Би цай уумаар байна.",
+   "en": "I want to drink tea.",
+   "alt_mn": [
+    "Би цай уухыг хүсэж байна."
+   ],
+   "alt_en": [
+    "I would like to drink tea."
+   ],
+   "mn_latin": "Bi tsai uumaar baina."
+  },
+  {
+   "mn": "Тэр сайн хүн.",
+   "en": "He is a good person.",
+   "alt_mn": [
+    "Тэр сайн хүн юм."
+   ],
+   "alt_en": [
+    "She is a good person.",
+    "He's a good person.",
+    "She's a good person."
+   ],
+   "mn_latin": "Ter sain khün."
+  },
+  {
+   "mn": "Энэ банк биш.",
+   "en": "This is not a bank.",
+   "alt_mn": [],
+   "alt_en": [
+    "This isn't a bank."
+   ],
+   "mn_latin": "Ene bank bish."
+  },
+  {
+   "mn": "Энэ гудамжинд банк байна.",
+   "en": "There is a bank on this street.",
+   "alt_mn": [],
+   "alt_en": [
+    "There's a bank on this street."
+   ],
+   "mn_latin": "Ene gudamjind bank baina."
+  },
+  {
+   "mn": "Тэр дэлгүүр хаалттай.",
+   "en": "That shop is closed.",
+   "alt_mn": [],
+   "alt_en": [
+    "That store is closed."
+   ],
+   "mn_latin": "Ter delgüür khaalttai."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reading signs: false-friend letters",
+  "title_mn": "Тэмдгийг унших нь: төстэй мэт үсгүүд",
+  "explain_en": "Some Cyrillic letters look like English letters but sound different. В = v, Н = n, Р = r, С = s, У = oo (a u sound), Х = kh (like a rough h). For example, English \"P\" says p, but Cyrillic \"Р\" says r. English \"H\" says h, but Cyrillic \"Н\" says n. English \"C\" says k or s, but Cyrillic \"С\" always says s. So \"бар\" is read b-a-r. Also learn the new letters separately: Ж = zh, Ш = sh, Ч = ch, Ц = ts, Я = ya, Ю = yu, Ё = yo, Е = ye. Ь and Ъ are signs, not sounds: ь softens and ъ separates. Tip: read a sign letter by letter and say each sound. This is the best way to recognize a word, like \"БАНК\" or \"ШУУДАН\".",
+  "explain_mn": "Кирилл үсгийн зарим нь англи үсэгтэй төстэй харагддаг боловч өөрөөр дуудагддаг. В = [в], Н = [н], Р = [р], С = [с], У = [у], Х = [х]. Жишээ нь англи \"P\" нь [п], харин кирилл \"Р\" нь [р]. Англи \"H\" нь [х], харин кирилл \"Н\" нь [н]. Англи \"C\" нь [к/с], харин кирилл \"С\" нь үргэлж [с]. Тиймээс \"бар\" гэж уншина. Мөн Ж, Ш, Ч, Ц, Я, Ю, Ё, Е зэрэг шинэ үсгүүдийг тусад нь цээжил. Ь, Ъ нь дуу биш, тэмдэг юм: ь зөөлрүүлж, ъ тусгаарладаг. Тэмдгийг үсэг үсгээр нь, дуу бүрийг хэлж унших нь \"БАНК\", \"ШУУДАН\" зэрэг үгийг таних хамгийн сайн арга.",
+  "examples": [
+   {
+    "mn": "БАНК",
+    "en": "bank (read: b-a-n-k)",
+    "mn_latin": "BANK"
+   },
+   {
+    "mn": "ШУУДАН",
+    "en": "post office (sh-oo-d-a-n)",
+    "mn_latin": "ShUUDAN"
+   },
+   {
+    "mn": "ЦАЙ",
+    "en": "tea (ts-ai)",
+    "mn_latin": "TsAI"
+   },
+   {
+    "mn": "ХООЛНЫ ГАЗАР",
+    "en": "restaurant (khool-ny gazar)",
+    "mn_latin": "KhOOLNY GAZAR"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Банк ___.",
+   "answer": "хаалттай",
+   "options": [
+    "хаалттай",
+    "гудамж",
+    "ном",
+    "цай"
+   ],
+   "translation": "The bank is closed.",
+   "explain_en": "We need an adjective that says the bank is closed: хаалттай.",
+   "explain_mn": "Банк ямар байгааг хэлэх тэмдэг нэр хэрэгтэй: хаалттай."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ ___ урт.",
+   "answer": "гудамж",
+   "options": [
+    "гудамж",
+    "цай",
+    "нээлттэй",
+    "хүн"
+   ],
+   "translation": "This street is long.",
+   "explain_en": "Only гудамж (street) can be long here.",
+   "explain_mn": "Урт гэж хэлж болох зүйл нь гудамж."
+  },
+  {
+   "lang": "mn",
+   "text": "Дэлгүүр ___ вэ?",
+   "answer": "хаана",
+   "options": [
+    "хаана",
+    "хэн",
+    "хэдэн",
+    "хэзээ"
+   ],
+   "translation": "Where is the shop?",
+   "explain_en": "хаана means 'where'.",
+   "explain_mn": "Хаана гэдэг нь байршил асууна."
+  },
+  {
+   "lang": "en",
+   "text": "The letter Z is called ___ in American English.",
+   "answer": "zee",
+   "options": [
+    "zee",
+    "zed",
+    "say",
+    "ex"
+   ],
+   "translation": "Z үсгийг америк англиар «зи» гэж нэрлэнэ.",
+   "explain_en": "American English says 'zee'; British says 'zed'.",
+   "explain_mn": "Америк англиар Z үсгийг «зи» гэдэг, британи англиар «зэд» гэдэг."
+  },
+  {
+   "lang": "en",
+   "text": "The letter W is called double-___.",
+   "answer": "u",
+   "options": [
+    "u",
+    "v",
+    "y",
+    "double"
+   ],
+   "translation": "W үсгийг «дабл-ю» гэнэ.",
+   "explain_en": "W is named 'double-u'.",
+   "explain_mn": "W үсгийн нэр «дабл-ю»."
+  },
+  {
+   "lang": "en",
+   "text": "The shop is ___ now, so we can go in.",
+   "answer": "open",
+   "options": [
+    "open",
+    "closed",
+    "long",
+    "tea"
+   ],
+   "translation": "Дэлгүүр одоо нээлттэй тул бид орж болно.",
+   "explain_en": "We can go in, so the shop is open.",
+   "explain_mn": "Орж болно гэдэг нь нээлттэй гэсэн утга."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу? Банк хаана вэ?",
+   "en": "Hello! Where is the bank?",
+   "mn_latin": "Sain baina uu? Bank khaana ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу. Банк энэ гудамжинд байна.",
+   "en": "Hello. The bank is on this street.",
+   "mn_latin": "Sain baina uu. Bank ene gudamjind baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Энэ юу вэ? Ш-У-У-Д-А-Н?",
+   "en": "What is this? Sh-oo-d-a-n?",
+   "mn_latin": "Ene yuu ve? Sh-U-U-D-A-N?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Энэ шуудан. Банк тэнд байна.",
+   "en": "That's the post office. The bank is over there.",
+   "mn_latin": "Ene shuudan. Bank tend baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Банк нээлттэй юу?",
+   "en": "Is the bank open?",
+   "mn_latin": "Bank neelttei yuu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Үгүй, хаалттай.",
+   "en": "No, it's closed.",
+   "mn_latin": "Ügüi, khaalttai."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "За, баярлалаа. Би цай уумаар байна.",
+   "en": "OK, thanks. I want to drink tea.",
+   "mn_latin": "Za, bayarlalaa. Bi tsai uumaar baina."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Хоолны газар нээлттэй.",
+   "en": "The restaurant is open.",
+   "mn_latin": "Khoolny gazar neelttei."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, street names and shop signs are written in Cyrillic, and many also have English or Latin letters. Reading signs is great practice: БАНК, ШУУДАН, and ЦАЙ are words you can spot quickly. Famous places like Сүхбаатарын талбай (Sükhbaatar Square) appear on signs everywhere.",
+  "mn": "Улаанбаатарт гудамжны нэр, дэлгүүрийн самбарыг кирилл үсгээр бичдэг бөгөөд олонх нь англи буюу латин үсгээр давхар бичигдсэн байдаг. Тэмдэг унших нь сайн дасгал: БАНК, ШУУДАН, ЦАЙ гэх мэт үгсийг хурдан таньж болно. Сүхбаатарын талбай зэрэг алдартай газрын нэр хаа сайгүй самбар дээр харагдана."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 10,
+  "notes": "Content mostly fine but the Mongolian grammar explanation does not match the lesson topic, and there are a typo in the intro and a few awkward spots."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Removed duplicate alts, aligned the grammar explanations and the culture note, and made the fill-blank answer unique.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "alt duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "alt duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_en",
+    "why": "alt duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "alt duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "тэр is gender-neutral; the alt duplicated the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "align content with the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "en and mn versions differed (Ц, Е, Ь, Ъ, бар were missing)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "\"Дэлгүүр юу вэ?\" is also grammatical, so the answer was not unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "more natural wording"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "match en: 'many', and 'English or Latin letters'"
+   }
+  ]
+ }
+}

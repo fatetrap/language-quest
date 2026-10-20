@@ -1,0 +1,408 @@
+{
+ "intro_en": "Follow a journalist as she checks a viral claim step by step. You will learn how Mongolian separates hearsay (гэх, гэлцэх) from confirmed fact (-сан нь батлагдсан, гэх нь худал болох). You will also practice English clauses like \", according to which...\" and \", to whom...\".",
+ "intro_mn": "Сэтгүүлч цахимд тарсан мэдээллийг алхам алхмаар шалгаж буйг дагаж, сонсогдсон зүйл (гэх, гэлцэх) ба батлагдсан баримт (-сан нь батлагдсан, гэх нь худал болох)-ыг ялгаж сурна. Мөн англи хэлний \", according to which...\", \", to whom...\" гэх мэт тодотгол өгүүлбэр бүтээж сурна.",
+ "vocab": [
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence",
+   "pos": "noun",
+   "example_mn": "Энэ мэдээллийг батлах нотлох баримт алга.",
+   "example_en": "There is no evidence to support this report.",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "баталгаажуулах",
+   "en": "to verify, to confirm",
+   "pos": "verb",
+   "example_mn": "Сэтгүүлч мэдээллийг хоёр эх сурвалжаас баталгаажуулсан.",
+   "example_en": "The journalist verified the information with two sources.",
+   "mn_latin": "batalgaajuulakh"
+  },
+  {
+   "mn": "няцаах",
+   "en": "to refute, to deny",
+   "pos": "verb",
+   "example_mn": "Яам энэ мэдээллийг албан ёсоор няцаалаа.",
+   "example_en": "The ministry officially denied the report.",
+   "mn_latin": "nyatsaakh"
+  },
+  {
+   "mn": "найдвартай",
+   "en": "reliable",
+   "pos": "adjective",
+   "example_mn": "Бидэнд найдвартай эх сурвалж хэрэгтэй.",
+   "example_en": "We need a reliable source.",
+   "mn_latin": "naidvartai"
+  },
+  {
+   "mn": "эх сурвалж",
+   "en": "source",
+   "pos": "noun",
+   "example_mn": "Энэ зургийн эх сурвалж тодорхойгүй байна.",
+   "example_en": "The source of this photo is unclear.",
+   "mn_latin": "ekh survalj"
+  },
+  {
+   "mn": "гэлцэх",
+   "en": "(people) to be saying, to rumor",
+   "pos": "verb",
+   "example_mn": "Хотын төвд усыг хязгаарлана гэлцэж байна.",
+   "example_en": "People are saying water will be restricted downtown.",
+   "mn_latin": "geltsekh"
+  },
+  {
+   "mn": "батлагдах",
+   "en": "to be confirmed",
+   "pos": "verb",
+   "example_mn": "Мэдээлэл үнэн болох нь батлагдлаа.",
+   "example_en": "The information has been confirmed as true.",
+   "mn_latin": "batlagdakh"
+  },
+  {
+   "mn": "тогтоох",
+   "en": "to establish, to determine",
+   "pos": "verb",
+   "example_mn": "Шалгалтаар үнэнийг тогтоосон.",
+   "example_en": "The investigation established the truth.",
+   "mn_latin": "togtookh"
+  },
+  {
+   "mn": "хуурамч",
+   "en": "fake, forged",
+   "pos": "adjective",
+   "example_mn": "Энэ бол хуурамч баримт бичиг.",
+   "example_en": "This is a forged document.",
+   "mn_latin": "khuuramch"
+  },
+  {
+   "mn": "ишлэл",
+   "en": "quote, quotation",
+   "pos": "noun",
+   "example_mn": "Энэ ишлэлийн эх сурвалж олдсонгүй.",
+   "example_en": "The source of this quote could not be found.",
+   "mn_latin": "ishlel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сэтгүүлч мэдээллийг нийтлэхээсээ өмнө дор хаяж хоёр бие даасан эх сурвалжаас баталгаажуулдаг.",
+   "en": "A journalist verifies information with at least two independent sources before publishing it.",
+   "alt_mn": [
+    "Сэтгүүлч мэдээллийг нийтлэхийн өмнө дор хаяж хоёр бие даасан эх сурвалжаас баталгаажуулдаг."
+   ],
+   "alt_en": [
+    "Before publishing, a journalist confirms information with at least two independent sources."
+   ],
+   "mn_latin": "Setgüülch medeelliig niitlekheesee ömnö dor khayaj khoyor biye daasan ekh survaljaas batalgaajuuldag."
+  },
+  {
+   "mn": "Улаанбаатарын ундны ус бохирдсон гэх мэдээлэл өчигдрөөс хойш олон нийтийн сүлжээгээр тарж байна.",
+   "en": "Since yesterday, a report claiming that Ulaanbaatar's drinking water is contaminated has been spreading on social media.",
+   "alt_mn": [],
+   "alt_en": [
+    "A claim that Ulaanbaatar's drinking water is contaminated has been circulating on social media since yesterday."
+   ],
+   "mn_latin": "Ulaanbaataryn undny us bokhirdson gekh medeelel öchigdröös khoish olon niitiin süljeegeer tarj baina."
+  },
+  {
+   "mn": "Хүмүүс сайдыг огцорно гэлцэж байгаа ч албан ёсны мэдэгдэл хараахан гараагүй байна.",
+   "en": "People are saying the minister will resign, but there has been no official statement yet.",
+   "alt_mn": [
+    "Сайдыг огцорно гэлцэж байгаа ч албан ёсны мэдэгдэл хараахан гараагүй байна."
+   ],
+   "alt_en": [
+    "Everyone is saying the minister will resign, but no official statement has been made yet."
+   ],
+   "mn_latin": "Khümüüs saidyg ogtsorno geltsej baigaa ch alban yosny medegdel kharaakhan garaagüi baina."
+  },
+  {
+   "mn": "Лабораторийн шинжилгээгээр ус цэвэр болох нь батлагдсан.",
+   "en": "Laboratory tests confirmed that the water is clean.",
+   "alt_mn": [
+    "Лабораторийн шинжилгээгээр ус цэвэр гэдэг нь батлагдсан."
+   ],
+   "alt_en": [
+    "Lab tests have confirmed that the water is clean."
+   ],
+   "mn_latin": "Laboratoriin shinjilgeegeer us tsever bolokh ni batlagdsan."
+  },
+  {
+   "mn": "Тиймээс ус бохирдсон гэх нь худал болж таарлаа.",
+   "en": "So the claim that the water was contaminated turned out to be false.",
+   "alt_mn": [
+    "Тиймээс ус бохирдсон гэсэн мэдээлэл худал болох нь тогтоогдлоо."
+   ],
+   "alt_en": [
+    "So it turned out that the claim about contaminated water was false."
+   ],
+   "mn_latin": "Tiimees us bokhirdson gekh ni khudal bolj taarlaa."
+  },
+  {
+   "mn": "Нийслэлийн захиргаа энэ цуурхлыг өнөөдөр өглөө албан ёсоор няцаасан.",
+   "en": "The city administration officially refuted the rumor this morning.",
+   "alt_mn": [
+    "Нийслэлийн захиргаа өнөө өглөө энэ цуурхлыг албан ёсоор няцаалаа."
+   ],
+   "alt_en": [
+    "This morning the city government officially denied the rumor."
+   ],
+   "mn_latin": "Niisleliin zakhirgaa ene tsuurkhlyg önöödör öglöö alban yosoor nyatsaasan."
+  },
+  {
+   "mn": "Бидэнд зөвхөн нэргүй нэг хүний үг байгаа бөгөөд энэ нь найдвартай нотлох баримт биш.",
+   "en": "All we have is the word of one anonymous person, which is not reliable evidence.",
+   "alt_mn": [],
+   "alt_en": [
+    "We only have one anonymous person's word, and that is not reliable evidence."
+   ],
+   "mn_latin": "Bidend zövkhön nergüi neg khünii üg baigaa bögööd ene ni naidvartai notlokh barimt bish."
+  },
+  {
+   "mn": "Бид зургийн мета өгөгдлийг шалгаад, түүнийг 2019 онд авсан болохыг тогтоолоо.",
+   "en": "We checked the photo's metadata and established that it was taken in 2019.",
+   "alt_mn": [
+    "Зургийн мета өгөгдлийг шалгахад түүнийг 2019 онд авсан нь тогтоогдлоо."
+   ],
+   "alt_en": [
+    "After checking the photo's metadata, we determined that it was taken in 2019."
+   ],
+   "mn_latin": "Bid zurgiin myeta ögögdliig shalgaad, tüüniig 2019 ond avsan bolokhyg togtooloo."
+  },
+  {
+   "mn": "Голын ус бохирдсон гэж дурдсан тэр тайлан хэзээ ч нийтлэгдээгүй.",
+   "en": "The report, according to which the river was polluted, was never published.",
+   "alt_mn": [],
+   "alt_en": [
+    "That report, which claimed the river was polluted, was never published."
+   ],
+   "mn_latin": "Golyn us bokhirdson gej durdsan ter tailan khezee ch niitlegdeegüi."
+  },
+  {
+   "mn": "Тэр ишлэлийг хэлсэн гэгдэж байсан эмч ийм ярилцлага огт өгөөгүй гэдгээ мэдэгдлээ.",
+   "en": "The doctor, to whom the quote was attributed, said she had never given such an interview.",
+   "alt_mn": [
+    "Тэр үгийг хэлсэн гэгдсэн эмч ийм ярилцлага огт өгөөгүй гэж мэдэгдлээ."
+   ],
+   "alt_en": [
+    "The doctor who was supposedly quoted said she had never given such an interview."
+   ],
+   "mn_latin": "Ter ishleliig khelsen gegdej baisan emch iim yariltslaga ogt ögöögüi gedgee medegdlee."
+  },
+  {
+   "mn": "Хоёр эх сурвалж ижил зүйл хэлсэн бөгөөд тэдний нэгтэй нь би биечлэн ярилцсан.",
+   "en": "Two sources, with one of whom I spoke personally, said the same thing.",
+   "alt_mn": [],
+   "alt_en": [
+    "Two sources said the same thing, and I spoke to one of them personally."
+   ],
+   "mn_latin": "Khoyor ekh survalj ijil züil khelsen bögööd tednii negtei ni bi biyechlen yariltssan."
+  },
+  {
+   "mn": "Худал мэдээллийг няцаахын тулд баримтыг тайван, тодорхой танилцуулах хэрэгтэй.",
+   "en": "To refute false information, you need to present the facts calmly and clearly.",
+   "alt_mn": [],
+   "alt_en": [
+    "To counter misinformation, you have to present the facts calmly and clearly."
+   ],
+   "mn_latin": "Khudal medeelliig nyatsaakhyn tuld barimtyg taivan, todorkhoi taniltsuulakh kheregtei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Hearsay vs. confirmed fact: гэх, гэлцэх, -сан нь батлагдсан",
+  "title_mn": "Сонсогдсон зүйл ба батлагдсан баримт: гэх, гэлцэх, -сан нь батлагдсан",
+  "explain_en": "Mongolian clearly marks whether something is only claimed or actually proven. Put гэх before a noun to mean \"alleged\" or \"claimed\": ус бохирдсон гэх мэдээлэл means \"the report claiming the water is contaminated.\" Гэлцэх (often гэлцэж байна) means \"people are saying\" and stresses many voices. For proven facts, nominalize the clause with -сан нь / болох нь and add батлагдсан (\"was confirmed\") or тогтоогдсон (\"was established\"): ус цэвэр болох нь батлагдсан. To say a claim was false, use гэх нь худал болж таарлаа (\"the claim turned out to be false\").",
+  "explain_mn": "Монгол хэлэнд ямар нэг зүйлийг зөвхөн хэлж байгаа юу, эсвэл нотлогдсон уу гэдгийг тодорхой ялгадаг. Нэр үгийн өмнө \"гэх\"-ийг тавибал \"бусдын хэлж буй, батлагдаагүй\" гэсэн утга өгнө: \"ус бохирдсон гэх мэдээлэл\". \"Гэлцэх\" (ихэвчлэн \"гэлцэж байна\") нь \"олон хүн ингэж ярьж байна\" гэсэн утгатай бөгөөд олон хүний яриаг онцолно. Нотлогдсон баримтыг илэрхийлэхдээ өгүүлбэрийг \"-сан нь\" / \"болох нь\"-ээр нэрлэж, араас нь \"батлагдсан\" эсвэл \"тогтоогдсон\" гэж нэмнэ: \"ус цэвэр болох нь батлагдсан\". Мэдээлэл худал байсныг хэлэхдээ \"гэх нь худал болж таарлаа\" гэж хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Сайд огцорсон гэх мэдээлэл хурдан тарсан.",
+    "en": "A report claiming the minister had resigned spread quickly.",
+    "mn_latin": "Said ogtsorson gekh medeelel khurdan tarsan."
+   },
+   {
+    "mn": "Хүмүүс үнэ өснө гэлцэж байна.",
+    "en": "People are saying prices will go up.",
+    "mn_latin": "Khümüüs üne ösnö geltsej baina."
+   },
+   {
+    "mn": "Үнэ өсөхгүй болох нь батлагдсан.",
+    "en": "It has been confirmed that prices will not rise.",
+    "mn_latin": "Üne ösökhgüi bolokh ni batlagdsan."
+   },
+   {
+    "mn": "Сайд огцорсон гэх нь худал болж таарлаа.",
+    "en": "The claim that the minister had resigned turned out to be false.",
+    "mn_latin": "Said ogtsorson gekh ni khudal bolj taarlaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ус бохирдсон ___ мэдээлэл тарж байна.",
+   "answer": "гэх",
+   "options": [
+    "гэх",
+    "гэж",
+    "гээд",
+    "гэлцэх"
+   ],
+   "translation": "A report claiming the water is contaminated is spreading.",
+   "explain_en": "Before a noun, гэх works like \"alleged / claiming that\" and marks the content as unconfirmed. Гэж and гээд cannot directly modify a noun, and гэлцэх is not used in front of a noun this way.",
+   "explain_mn": "Нэр үгийн өмнө \"гэх\" нь тухайн мэдээллийг батлагдаагүй, бусдын хэлсэн зүйл болохыг заана. \"Гэж\", \"гээд\" нэр үгийг шууд тодотгохгүй, \"гэлцэх\"-ийг энэ байдлаар хэрэглэхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Шинжилгээгээр ус цэвэр болох нь ___.",
+   "answer": "батлагдсан",
+   "options": [
+    "батлагдсан",
+    "баталсан",
+    "батлах",
+    "батлагдах"
+   ],
+   "translation": "Tests confirmed that the water is clean.",
+   "explain_en": "The subject is the clause \"ус цэвэр болох нь\" (that the water is clean), so the verb must be passive: батлагдсан, \"was confirmed.\" The past tense shows the result is already established.",
+   "explain_mn": "\"Ус цэвэр болох нь\" нь өгүүлэгдэхүүн тул үйлдэгдэх хэвийн \"батлагдсан\" хэрэгтэй. Өнгөрсөн цаг нь үр дүн аль хэдийн тогтсоныг илтгэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүмүүс сайдыг огцорно ___ байна.",
+   "answer": "гэлцэж",
+   "options": [
+    "гэлцэж",
+    "гэлцэх",
+    "гэх",
+    "гэлцэнэ"
+   ],
+   "translation": "People are saying the minister will resign.",
+   "explain_en": "\"Many people are saying\" is гэлцэж байна: the -лц- suffix shows many people doing it, and -ж connects the verb to байна for an ongoing action.",
+   "explain_mn": "\"-лц-\" дагавар нь үйлийг олон хүн хамтдаа хийж буйг заана: \"гэлцэж байна\" нь \"олон хүн ингэж ярьж байна\" гэсэн утгатай. \"-ж\" нь үйл үгийг \"байна\"-тай холбож, үргэлжилж буй үйлийг илэрхийлнэ. Англиар \"people are saying\" гэж орчуулна."
+  },
+  {
+   "lang": "en",
+   "text": "The report, according to ___ the water was unsafe, turned out to be fake.",
+   "answer": "which",
+   "options": [
+    "which",
+    "that",
+    "whom",
+    "what"
+   ],
+   "translation": "Ус аюултай гэж дурдсан тэр тайлан хуурамч болж таарлаа.",
+   "explain_en": "After a preposition in a non-defining clause, use which for things. That is never used after a preposition, and whom is only for people.",
+   "explain_mn": "Угтвар үгийн дараа юмыг заахдаа which хэрэглэнэ. That-ийг угтвар үгийн дараа хэзээ ч хэрэглэхгүй, whom зөвхөн хүнд хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The expert, ___ whom the quote was attributed, denied saying it.",
+   "answer": "to",
+   "options": [
+    "to",
+    "by",
+    "with",
+    "for"
+   ],
+   "translation": "Тэр ишлэлийг хэлсэн гэгдэж байсан шинжээч ингэж хэлээгүй гэж няцаасан.",
+   "explain_en": "The verb phrase is \"attribute something to someone,\" so the preposition \"to\" moves in front of whom.",
+   "explain_mn": "\"Attribute something to someone\" (ямар нэг зүйлийг хэн нэгнийх гэж үзэх) гэсэн хэллэг тул \"to\" угтвар үг whom-ын өмнө шилжиж ирнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Two witnesses, neither of ___ was at the scene, gave interviews.",
+   "answer": "whom",
+   "options": [
+    "whom",
+    "who",
+    "which",
+    "them"
+   ],
+   "translation": "Хоёр гэрч ярилцлага өгсөн боловч тэдний аль нь ч хэргийн газар байгаагүй.",
+   "explain_en": "After \"of\" referring to people, use whom. \"Them\" would create a run-on sentence, and which is for things.",
+   "explain_mn": "Хүнийг заасан \"of\"-ийн дараа whom хэрэглэнэ. \"Them\" гэвэл өгүүлбэр буруу холбогдоно, which юманд хэрэглэгдэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Бат аа, нэг мэдээлэл ирлээ. Наадмын нээлтийг цуцална гэлцэж байна.",
+   "en": "Bat, a tip just came in. People are saying the Naadam opening ceremony will be canceled.",
+   "mn_latin": "Bat aa, neg medeelel irlee. Naadmyn neeltiig tsutsalna geltsej baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Эх сурвалж нь хэн бэ? Найдвартай юу?",
+   "en": "Who's the source? Is it reliable?",
+   "mn_latin": "Ekh survalj ni khen be? Naidvartai yuu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Нэргүй фэйсбүүк хуудас. Зохион байгуулах хорооны дотоод албан бичиг гэх зураг тавьсан.",
+   "en": "An anonymous Facebook page. They posted a photo of what they claim is an internal memo from the organizing committee.",
+   "mn_latin": "Nergüi feisbüük khuudas. Zokhion baiguulakh khoroony dotood alban bichig gekh zurag tavisan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэр бичгийг баталгаажуулахгүйгээр бид юу ч нийтлэхгүй. Хороо руу залга.",
+   "en": "We're not publishing anything until that memo is verified. Call the committee.",
+   "mn_latin": "Ter bichgiig batalgaajuulakhgüigeer bid yuu ch niitlekhgüi. Khoroo ruu zalga."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Залгачихсан. Хэвлэлийн төлөөлөгч нь мэдээллийг шууд няцаасан, бичгийн хэлбэр нь ч албан ёсных биш байна.",
+   "en": "I already did. Their press officer flatly denied it, and the memo's format isn't official either.",
+   "mn_latin": "Zalgachikhsan. Khevleliin tölöölögch ni medeelliig shuud nyatsaasan, bichgiin khelber ni ch alban yosnykh bish baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Зургийг нь шалгасан уу?",
+   "en": "Did you check the photo?",
+   "mn_latin": "Zurgiig ni shalgasan uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм. Тэр бичиг өнгөрсөн жилийн загварыг засаж хийсэн хуурамч зүйл болох нь тогтоогдсон.",
+   "en": "Yes. It turned out the memo is a fake, made by editing last year's template.",
+   "mn_latin": "Tiim. Ter bichig öngörsön jiliin zagvaryg zasaj khiisen khuuramch züil bolokh ni togtoogdson."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэгвэл \"Нээлтийг цуцална гэх нь худал болж таарлаа\" гэсэн гарчигтай баримт шалгах нийтлэл бэлдье.",
+   "en": "Then let's prepare a fact-check with the headline \"Claim that the opening will be canceled turns out to be false.\"",
+   "mn_latin": "Tegvel \"Neeltiig tsutsalna gekh ni khudal bolj taarlaa\" gesen garchigtai barimt shalgakh niitlel beldiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, Facebook is one of the main ways people get news, so rumors spread very quickly, especially around Naadam, elections, or price changes. In everyday speech, people often end a sentence with гэнэ (\"they say\") to show they heard something secondhand. Careful journalists separate this kind of hearsay from facts confirmed by official sources.",
+  "mn": "Монголд олон хүн мэдээллээ фэйсбүүкээс авдаг тул цуурхал, ялангуяа Наадам, сонгууль, үнийн өөрчлөлтийн үеэр маш хурдан тардаг. Өдөр тутмын ярианд хүмүүс бусдаас сонссон зүйлээ \"гэнэ\" гэж төгсгөдөг. Хариуцлагатай сэтгүүлчид ийм дам яриаг албан ёсны эх сурвалжаар батлагдсан баримтаас ялгаж өгдөг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 3,
+  "notes": "A solid, natural lesson with accurate grammar coverage. The main fixes are a garbled explanation, an ambiguous fill-in-the-blank option, and one ungrammatical alternative translation."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 3,
+  "notes": "The main error was the grammar section, where the mn title and explanation covered a different topic from the en version; the rest of the lesson is largely sound.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "The mn title covered a different topic (English relative clauses) from the en title and the examples."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn explanation described English relative clauses and did not match explain_en."
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "The double 'гэх нь ... болох нь' construction was awkward and unnatural."
+   }
+  ]
+ }
+}

@@ -1,0 +1,412 @@
+{
+ "intro_en": "In this lesson you will compare customary herders' law with Mongolia's modern Civil and Criminal Codes, using key legal terms such as заалт, хүчин төгөлдөр, эрх зүй and шүүх. You will also learn to turn archaic legal formulas like -вээс and болой into modern Mongolian, and practice using 'whereas' for contrast and writing plain legal English without 'shall'.",
+ "intro_mn": "Энэ хичээлээр малчдын заншлын эрх зүйг орчин үеийн Иргэний болон Эрүүгийн хуультай харьцуулж, заалт, хүчин төгөлдөр, эрх зүй, шүүх зэрэг хуулийн үндсэн нэр томьёог хэрэглэж сурна. Мөн -вээс, болой гэх мэт хуучин хуулийн хэллэгийг орчин үеийн хэлээр буулгах, англи хэлэнд 'whereas'-ийг эсрэгцүүлэхэд хэрэглэх, 'shall'-гүй энгийн хуулийн найруулгаар бичих дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "заалт",
+   "en": "provision (of a law)",
+   "pos": "noun",
+   "example_mn": "Энэ заалт одоо хүчингүй болсон.",
+   "example_en": "This provision is no longer in force.",
+   "mn_latin": "zaalt"
+  },
+  {
+   "mn": "хүчин төгөлдөр",
+   "en": "in force, valid",
+   "pos": "adjective",
+   "example_mn": "Шинэ хууль ирэх оноос хүчин төгөлдөр болно.",
+   "example_en": "The new law will take effect next year.",
+   "mn_latin": "khüchin tögöldör"
+  },
+  {
+   "mn": "эрх зүй",
+   "en": "law (as a legal system)",
+   "pos": "noun",
+   "example_mn": "Заншлын эрх зүй бичигдээгүй дүрэмд тулгуурладаг.",
+   "example_en": "Customary law relies on unwritten rules.",
+   "mn_latin": "erkh züi"
+  },
+  {
+   "mn": "шүүх",
+   "en": "court",
+   "pos": "noun",
+   "example_mn": "Энэ маргааныг шүүх шийдвэрлэнэ.",
+   "example_en": "The court will resolve this dispute.",
+   "mn_latin": "shüükh"
+  },
+  {
+   "mn": "заншил",
+   "en": "custom, customary practice",
+   "pos": "noun",
+   "example_mn": "Энэ заншил хэдэн зуун жилийн түүхтэй.",
+   "example_en": "This custom is several centuries old.",
+   "mn_latin": "zanshil"
+  },
+  {
+   "mn": "бэлчээр",
+   "en": "pasture",
+   "pos": "noun",
+   "example_mn": "Өвөл бэлчээр хүрэлцэхгүй байна.",
+   "example_en": "There isn't enough pasture this winter.",
+   "mn_latin": "belcheer"
+  },
+  {
+   "mn": "маргаан",
+   "en": "dispute",
+   "pos": "noun",
+   "example_mn": "Хоёр айлын хооронд маргаан гарчээ.",
+   "example_en": "A dispute broke out between the two families.",
+   "mn_latin": "margaan"
+  },
+  {
+   "mn": "малчин",
+   "en": "herder",
+   "pos": "noun",
+   "example_mn": "Малчид өвөлжөөндөө нүүж ирлээ.",
+   "example_en": "The herders have moved to their winter camp.",
+   "mn_latin": "malchin"
+  },
+  {
+   "mn": "хүлээн зөвшөөрөх",
+   "en": "to recognize, to acknowledge",
+   "pos": "verb",
+   "example_mn": "Хууль энэ заншлыг хүлээн зөвшөөрдөг үү?",
+   "example_en": "Does the law recognize this custom?",
+   "mn_latin": "khüleen zövshöörökh"
+  },
+  {
+   "mn": "эзэмших",
+   "en": "to possess, to hold (land)",
+   "pos": "verb",
+   "example_mn": "Тэр айл өвөлжөөний газраа гэрээгээр эзэмшдэг.",
+   "example_en": "That family holds its winter camp land under a contract.",
+   "mn_latin": "ezemshikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Малчдын бэлчээрийн маргааныг ихэвчлэн нутгийн ахмадууд заншлын дагуу шийддэг байжээ.",
+   "en": "Herders' pasture disputes were usually settled by local elders according to custom.",
+   "alt_mn": [
+    "Малчдын бэлчээрийн маргааныг ихэнхдээ нутгийн ахмадууд заншлын дагуу шийддэг байсан."
+   ],
+   "alt_en": [
+    "Local elders usually settled herders' pasture disputes according to custom."
+   ],
+   "mn_latin": "Malchdyn belcheeriin margaanyg ikhevchlen nutgiin akhmaduud zanshlyn daguu shiiddeg baijee."
+  },
+  {
+   "mn": "Өнөөдөр ийм маргааныг шүүх Газрын тухай хуулийн заалтыг үндэслэн шийдвэрлэдэг.",
+   "en": "Today, courts resolve such disputes on the basis of the provisions of the Land Law.",
+   "alt_mn": [
+    "Өнөөдөр ийм маргааныг шүүх Газрын тухай хуулийн заалтад үндэслэн шийдвэрлэдэг."
+   ],
+   "alt_en": [
+    "Nowadays courts decide such disputes based on the provisions of the Land Law."
+   ],
+   "mn_latin": "Önöödör iim margaanyg shüükh Gazryn tukhai khuuliin zaaltyg ündeslen shiidverledeg."
+  },
+  {
+   "mn": "\"Хулгай хийвээс есөөр торгох болой\" гэсэн заалтыг орчин үеийн хэлээр \"Хулгай хийсэн тохиолдолд есөөр торгоно\" гэж буулгаж болно.",
+   "en": "The provision \"whosoever steals shall be fined by nines\" can be rendered in modern language as \"Anyone who steals is fined by nines.\"",
+   "alt_mn": [
+    "\"Хулгай хийвээс есөөр торгох болой\" гэсэн заалтыг өнөөгийн хэлээр \"Хулгай хийсэн тохиолдолд есөөр торгоно\" гэж буулгаж болно."
+   ],
+   "alt_en": [
+    "The provision \"if one steals, he shall be fined by nines\" can be put into modern language as \"In the case of theft, the fine is paid by nines.\""
+   ],
+   "mn_latin": "\"Khulgai khiivees yesöör torgokh boloi\" gesen zaaltyg orchin üyeiin kheleer \"Khulgai khiisen tokhioldold yesöör torgono\" gej buulgaj bolno."
+  },
+  {
+   "mn": "Заншлын эрх зүй мал торгуулийг чухалчилдаг байсан бол Эрүүгийн хууль мөнгөн торгууль ногдуулдаг.",
+   "en": "Customary law emphasized fines in livestock, whereas the Criminal Code imposes monetary fines.",
+   "alt_mn": [
+    "Заншлын эрх зүйд мал торгуулийг чухалчилдаг байсан бол Эрүүгийн хуульд мөнгөн торгууль ногдуулдаг."
+   ],
+   "alt_en": [
+    "Whereas customary law relied on fines in livestock, the Criminal Code imposes fines in money."
+   ],
+   "mn_latin": "Zanshlyn erkh züi mal torguuliig chukhalchildag baisan bol Erüügiin khuuli möngön torguuli nogduuldag."
+  },
+  {
+   "mn": "Энэ заалт хүчин төгөлдөр хэвээр байгаа эсэхийг өмгөөлөгчөөс асуух хэрэгтэй.",
+   "en": "We need to ask the lawyer whether this provision is still in force.",
+   "alt_mn": [
+    "Энэ заалт одоо ч хүчин төгөлдөр байгаа эсэхийг өмгөөлөгчөөс асуух хэрэгтэй."
+   ],
+   "alt_en": [
+    "We should ask the lawyer whether this provision is still valid."
+   ],
+   "mn_latin": "Ene zaalt khüchin tögöldör kheveer baigaa esekhiig ömgöölögchöös asuukh kheregtei."
+  },
+  {
+   "mn": "Зарим судлаачид Иргэний хууль малчдын заншлыг хангалттай хүлээн зөвшөөрдөггүй гэж үздэг.",
+   "en": "Some scholars argue that the Civil Code does not sufficiently recognize herders' customs.",
+   "alt_mn": [
+    "Зарим судлаачийн үзэж байгаагаар Иргэний хууль малчдын заншлыг хангалттай хүлээн зөвшөөрдөггүй."
+   ],
+   "alt_en": [
+    "Some researchers believe the Civil Code doesn't give enough recognition to herders' customs."
+   ],
+   "mn_latin": "Zarim sudlaachid Irgenii khuuli malchdyn zanshlyg khangalttai khüleen zövshöördöggüi gej üzdeg."
+  },
+  {
+   "mn": "Өвөлжөөний газрыг эзэмших эрх нь гэрээгээр баталгаажна.",
+   "en": "The right to hold winter camp land is secured by a contract.",
+   "alt_mn": [
+    "Өвөлжөөний газар эзэмших эрхийг гэрээгээр баталгаажуулна."
+   ],
+   "alt_en": [
+    "The right to possess winter camp land is guaranteed by a contract."
+   ],
+   "mn_latin": "Övöljöönii gazryg ezemshikh erkh ni gereegeer batalgaajna."
+  },
+  {
+   "mn": "Шүүх уламжлалт заншлыг нотлох баримт болгон харгалзан үзэж болно.",
+   "en": "A court may take traditional custom into account as evidence.",
+   "alt_mn": [
+    "Шүүх уламжлалт заншлыг нотлох баримт болгож харгалзан үзэж болно."
+   ],
+   "alt_en": [
+    "The court can consider traditional custom as evidence."
+   ],
+   "mn_latin": "Shüükh ulamjlalt zanshlyg notlokh barimt bolgon khargalzan üzej bolno."
+  },
+  {
+   "mn": "Хуучин хуулийн \"болой\" гэдэг үгийг өнөөдөр \"болно\" гэж буулгадаг.",
+   "en": "The word \"boloi\" in old laws is rendered today as \"bolno.\"",
+   "alt_mn": [
+    "Хуучин хуульд гардаг \"болой\" гэдэг үгийг өнөөдөр \"болно\" гэж буулгадаг."
+   ],
+   "alt_en": [
+    "Today the old legal word \"boloi\" is translated as \"bolno.\""
+   ],
+   "mn_latin": "Khuuchin khuuliin \"boloi\" gedeg ügiig önöödör \"bolno\" gej buulgadag."
+  },
+  {
+   "mn": "Хоёр айлын маргаан шүүхэд очихоос өмнө эвлэрүүлэн зуучлалаар шийдэгдсэн.",
+   "en": "The dispute between the two families was settled through mediation before it reached court.",
+   "alt_mn": [
+    "Хоёр айлын маргааныг шүүхэд хүргэхээс өмнө эвлэрүүлэн зуучлалаар шийдсэн."
+   ],
+   "alt_en": [
+    "The two families' dispute was resolved through mediation before it went to court."
+   ],
+   "mn_latin": "Khoyor ailyn margaan shüükhed ochikhoos ömnö evlerüülen zuuchlalaar shiidegdsen."
+  },
+  {
+   "mn": "Бэлчээрийг хувь хүнд өмчлүүлэхийг хууль хориглодог.",
+   "en": "The law prohibits private ownership of pasture.",
+   "alt_mn": [
+    "Хууль бэлчээрийг хувь хүнд өмчлүүлэхийг хориглодог."
+   ],
+   "alt_en": [
+    "Under the law, pasture cannot be privately owned."
+   ],
+   "mn_latin": "Belcheeriig khuvi khünd ömchlüülekhiig khuuli khoriglodog."
+  },
+  {
+   "mn": "Эртний хууль \"шийтгэх болой\" гэж бичдэг байсан бол орчин үеийн хууль \"шийтгэнэ\" гэж товч бичдэг.",
+   "en": "Old laws wrote \"shall be punished,\" whereas modern laws simply say \"is punished.\"",
+   "alt_mn": [
+    "Эртний хуульд \"шийтгэх болой\" гэж бичдэг байсан бол орчин үеийн хуульд \"шийтгэнэ\" гэж товч бичдэг."
+   ],
+   "alt_en": [
+    "Whereas old laws said \"shall be punished,\" modern laws just say \"is punished.\""
+   ],
+   "mn_latin": "Ertnii khuuli \"shiitgekh boloi\" gej bichdeg baisan bol orchin üyeiin khuuli \"shiitgene\" gej tovch bichdeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "Modernizing archaic legal formulas: -вээс → -сан тохиолдолд, болой → болно",
+  "title_mn": "'Whereas'-ийн эсрэгцүүлэх утга ба 'shall'-гүй орчин үеийн хуулийн найруулга",
+  "explain_en": "Old Mongolian legal texts such as the Khalkh Juram use the classical conditional suffix -ваас/-вээс/-воос/-вөөс (after some consonants -баас/-бээс): хийвээс 'if (one) does', авбаас 'if (one) takes'. They also close rules with the solemn particle болой, roughly 'it shall be'. Modern drafting replaces the conditional with the verbal noun in -сан/-сэн/-сон/-сөн + тохиолдолд 'in the case that', and replaces болой with болно or simply the plain future -на/-нэ/-но/-нө. So 'хулгай хийвээс есөөр торгох болой' becomes 'хулгай хийсэн тохиолдолд есөөр торгоно'. In everyday speech, the ordinary conditional -вал/-вэл (хийвэл) does the same job, but formal modern laws prefer -сан тохиолдолд.",
+  "explain_mn": "Англи хэлэнд 'whereas' хоёр утгатай. Хуучин албан баримт бичгийн оршилд 'Whereas the people...' гэж '...тул, ...учир' гэсэн үндэслэл заадаг бол орчин үеийн хэлэнд 'whereas' нь 'харин, ...байхад' гэсэн эсрэгцүүлэх холбоос болдог: 'Customary law was oral, whereas the Civil Code is written.' Монгол хэлний '...байсан бол ...' бүтэцтэй дүйнэ. Мөн хуучин англи хуулийн 'shall' (ёстой, -х болой) үгийг орчин үеийн энгийн найруулгад (plain language) аль болох хэрэглэхгүй: үүрэг бол 'must', зөвшөөрөл бол 'may', дүрэм бол энгийн одоо цаг ('The offender pays a fine'). Энэ нь монголын 'болой → болно' өөрчлөлттэй төстэй.",
+  "examples": [
+   {
+    "mn": "Бэлчээрт мал оруулбаас торгох болой. → Бэлчээрт мал оруулсан тохиолдолд торгоно.",
+    "en": "Whosoever drives livestock onto the pasture shall be fined. → Anyone who drives livestock onto the pasture is fined.",
+    "mn_latin": "Belcheert mal oruulbaas torgokh boloi. → Belcheert mal oruulsan tokhioldold torgono."
+   },
+   {
+    "mn": "Худал мэдүүлбээс шийтгэх болой. → Худал мэдүүлсэн тохиолдолд шийтгэнэ.",
+    "en": "Whosoever testifies falsely shall be punished. → Anyone who gives false testimony is punished.",
+    "mn_latin": "Khudal medüülbees shiitgekh boloi. → Khudal medüülsen tokhioldold shiitgene."
+   },
+   {
+    "mn": "Заншил аман хэлбэртэй байсан бол хууль бичгээр батлагддаг.",
+    "en": "Custom was oral, whereas law is adopted in writing.",
+    "mn_latin": "Zanshil aman khelbertei baisan bol khuuli bichgeer batlagddag."
+   },
+   {
+    "mn": "Шүүх заншлыг харгалзан үзэж болно, гэхдээ заавал биш.",
+    "en": "A court may take custom into account, but it is not required to.",
+    "mn_latin": "Shüükh zanshlyg khargalzan üzej bolno, gekhdee zaaval bish."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Газрыг зөвшөөрөлгүй ашигласан ___ торгоно.",
+   "answer": "тохиолдолд",
+   "options": [
+    "тохиолдолд",
+    "тохиолдол",
+    "тохиолдлоор",
+    "тохиолдлын"
+   ],
+   "translation": "Anyone who uses the land without permission is fined.",
+   "explain_en": "The modern replacement for the archaic conditional -вээс is the past verbal noun + тохиолдолд, the dative-locative form of тохиолдол 'case': 'in the case that...'. Other case forms don't give the conditional meaning.",
+   "explain_mn": "Хуучин -вээс нөхцөлийг орчин үеийн хуульд '-сан тохиолдолд' гэж буулгадаг. Өгөгдөх-орших тийн ялгалтай 'тохиолдолд' хэлбэр л нөхцөлийн утга илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Шинэ заалт ирэх оны нэгдүгээр сарын 1-нээс хүчин ___ болно.",
+   "answer": "төгөлдөр",
+   "options": [
+    "төгөлдөр",
+    "төгс",
+    "төлөв",
+    "төрөл"
+   ],
+   "translation": "The new provision takes effect on January 1 of next year.",
+   "explain_en": "'Хүчин төгөлдөр болох' is the fixed phrase for 'to enter into force'. The other words look similar but don't form this legal expression.",
+   "explain_mn": "'Хүчин төгөлдөр болох' нь хууль, заалт мөрдөгдөж эхлэхийг илэрхийлэх тогтвортой хэллэг юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ төрлийн маргааныг шүүх шийдвэрлэх ___.",
+   "answer": "болно",
+   "options": [
+    "болно",
+    "болой",
+    "болбоос",
+    "бол"
+   ],
+   "translation": "Disputes of this kind will be resolved by the court.",
+   "explain_en": "Modern legal Mongolian uses болно. Болой is the archaic, solemn ending of old laws, and болбоос is the old conditional 'if it becomes'.",
+   "explain_mn": "Орчин үеийн хуульд 'болно' хэрэглэнэ. 'Болой' нь хуучин хуулийн хэллэг, 'болбоос' нь хуучин нөхцөлийн хэлбэр учир тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Customary law was largely oral, ___ the Civil Code is written and codified.",
+   "answer": "whereas",
+   "options": [
+    "whereas",
+    "therefore",
+    "unless",
+    "because"
+   ],
+   "translation": "Заншлын эрх зүй ихэвчлэн аман хэлбэртэй байсан бол Иргэний хууль бичгээр, кодчилогдсон байдаг.",
+   "explain_en": "'Whereas' links two contrasting facts. 'Therefore' shows a result, 'unless' a condition, and 'because' a reason.",
+   "explain_mn": "'Whereas' хоёр эсрэг баримтыг холбоно ('...байсан бол'). 'Therefore' үр дүн, 'unless' нөхцөл, 'because' шалтгаан заадаг."
+  },
+  {
+   "lang": "en",
+   "text": "Plain-language version: \"A court ___ take local custom into account, but it is not required to.\"",
+   "answer": "may",
+   "options": [
+    "may",
+    "must",
+    "shall",
+    "has to"
+   ],
+   "translation": "Энгийн найруулга: \"Шүүх нутгийн заншлыг харгалзан үзэж болно, гэхдээ заавал биш.\"",
+   "explain_en": "In plain drafting, 'may' expresses permission. 'Must' and 'has to' express obligation, which contradicts 'not required', and 'shall' is the old style that plain drafting avoids.",
+   "explain_mn": "Энгийн найруулгад 'may' нь зөвшөөрөл ('-ж болно') заана. 'Must', 'has to' үүрэг илэрхийлэх тул 'заавал биш'-тэй зөрчилдөнө. 'Shall' бол хуучин хэв маяг."
+  },
+  {
+   "lang": "en",
+   "text": "Old text: \"The offender shall pay nine head of cattle.\" Modern text: \"The offender ___ nine head of cattle.\"",
+   "answer": "pays",
+   "options": [
+    "pays",
+    "shall paid",
+    "paying",
+    "to pay"
+   ],
+   "translation": "Хуучин бичвэр: \"Гэм буруутан есөн толгой үхэр төлөх болой.\" Орчин үеийн бичвэр: \"Гэм буруутан есөн толгой үхэр төлнө.\"",
+   "explain_en": "Plain drafting states rules in the simple present: 'the offender pays'. The other options are ungrammatical here.",
+   "explain_mn": "Орчин үеийн энгийн найруулгад дүрмийг энгийн одоо цагаар ('pays') илэрхийлдэг. Энэ нь монголын '-х болой → -нэ' өөрчлөлттэй адил."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Номин",
+   "mn": "Дэниел, Халх журмын энэ заалтыг харж байна уу? \"Бусдын бэлчээрт нүүвээс торгох болой\" гэжээ.",
+   "en": "Daniel, do you see this provision in the Khalkh Juram? It says, \"Whosoever moves onto another's pasture shall be fined.\"",
+   "mn_latin": "Deniyel, Khalkh jurmyn ene zaaltyg kharj baina uu? \"Busdyn belcheert nüüvees torgokh boloi\" gejee."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Орчин үеийн хэлээр бол \"Бусдын бэлчээрт нүүсэн тохиолдолд торгоно\" гэсэн үг үү?",
+   "en": "In modern language, that would be \"Anyone who moves onto another's pasture is fined,\" right?",
+   "mn_latin": "Orchin üyeiin kheleer bol \"Busdyn belcheert nüüsen tokhioldold torgono\" gesen üg üü?"
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Тийм. Гэхдээ одоо бэлчээр төрийн өмч учраас \"бусдын бэлчээр\" гэдэг ойлголт хуульд байхгүй.",
+   "en": "Yes. But since pasture is now state property, the idea of \"another's pasture\" doesn't exist in the law.",
+   "mn_latin": "Tiim. Gekhdee odoo belcheer töriin ömch uchraas \"busdyn belcheer\" gedeg oilgolt khuulid baikhgüi."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Харин өвөлжөөний газрыг эзэмших эрх хүчин төгөлдөр хэвээр байгаа биз дээ?",
+   "en": "But the right to hold winter camp land is still in force, isn't it?",
+   "mn_latin": "Kharin övöljöönii gazryg ezemshikh erkh khüchin tögöldör kheveer baigaa biz dee?"
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Тийм, гэрээгээр баталгаажсан бол. Маргаан гарвал эхлээд сумын засаг дарга, дараа нь шүүх шийднэ.",
+   "en": "Yes, if it's secured by a contract. If a dispute arises, the soum governor deals with it first, and then the court.",
+   "mn_latin": "Tiim, gereegeer batalgaajsan bol. Margaan garval ekhleed sumyn zasag darga, daraa ni shüükh shiidne."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Сонирхолтой. Эртний эрх зүй мал торгууль ногдуулдаг байсан бол одоо мөнгөөр торгодог.",
+   "en": "Interesting. Old law imposed fines in livestock, whereas now fines are paid in money.",
+   "mn_latin": "Sonirkholtoi. Ertnii erkh züi mal torguuli nogduuldag baisan bol odoo möngöör torgodog."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Тийм ээ. Гэхдээ хөдөө ахмадууд заншлаараа эвлэрүүлэх явдал одоо ч түгээмэл байдаг.",
+   "en": "Right. But in the countryside, elders still often reconcile people according to custom.",
+   "mn_latin": "Tiim ee. Gekhdee khödöö akhmaduud zanshlaaraa evlerüülekh yavdal odoo ch tügeemel baidag."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Тэгвэл шүүх энэ заншлыг хүлээн зөвшөөрөх ёстой юу, үгүй юу гэдгийг илтгэлдээ хэлэлцье.",
+   "en": "Then let's discuss in our presentation whether courts should recognize this custom.",
+   "mn_latin": "Tegvel shüükh ene zanshlyg khüleen zövshöörökh yostoi yuu, ügüi yuu gedgiig iltgeldee kheleltsiye."
+  }
+ ],
+ "culture_note": {
+  "en": "The Khalkh Juram, compiled from 1709 onward, contained detailed rules on livestock theft, fines by nines, and the use of pastures and campsites. Today, Mongolia's Constitution and Land Law make pasture state property that cannot be privately owned, while families can hold winter and spring camp land under contracts. Disputes between herders are still often settled informally by elders or local governors before they ever reach a court.",
+  "mn": "1709 оноос эмхэтгэж эхэлсэн Халх журамд малын хулгай, есөөр торгох, бэлчээр болон нутаг бууц ашиглах талаар нарийн дүрэм байжээ. Өнөөдөр Монгол Улсын Үндсэн хууль, Газрын тухай хуулиар бэлчээр төрийн өмч бөгөөд хувь хүнд өмчлүүлэхгүй, харин айл өрх өвөлжөө, хаваржааны газрыг гэрээгээр эзэмшиж болно. Малчдын маргааныг шүүхэд хүрэхээс өмнө ахмадууд эсвэл нутгийн засаг дарга албан бусаар шийдэх нь одоо ч түгээмэл."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A strong, accurate advanced lesson. The fixes are one Latin-letter typo, one spelling error, one inaccurate gloss and one unnatural phrase."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is solid. The grammar en/mn texts intentionally cover each audience's target language (Mongolian formulas vs. English whereas/shall), as the intro describes, so they were left as they are.",
+  "changes": [
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "The stem оруул- ends in л, so it takes -баас (оруулбаас), just as мэдүүл- takes -бээс in the next example."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Standard spelling is нөхцөлийг, matching нөхцөлийн later in the same explanation."
+   }
+  ]
+ }
+}

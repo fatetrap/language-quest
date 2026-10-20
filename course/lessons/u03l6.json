@@ -1,0 +1,435 @@
+{
+ "intro_en": "You will describe a room and a classroom using this/that, a/an, and is/are. You will also review question words and yes-or-no questions, and get a first look at these/those.",
+ "intro_mn": "Та энэ хичээлээр өрөө, ангиа тайлбарлаж, англи хэлний this/that, a/an, is/are-г ашиглана. Мөн асуух үг, тийм-үгүй асуултыг давтаж, these/those-той анх танилцана.",
+ "vocab": [
+  {
+   "mn": "өрөө",
+   "en": "room",
+   "pos": "noun",
+   "example_mn": "Энэ миний өрөө.",
+   "example_en": "This is my room.",
+   "mn_latin": "öröö"
+  },
+  {
+   "mn": "анги",
+   "en": "classroom",
+   "pos": "noun",
+   "example_mn": "Энэ манай анги.",
+   "example_en": "This is our classroom.",
+   "mn_latin": "angi"
+  },
+  {
+   "mn": "ширээ",
+   "en": "table / desk",
+   "pos": "noun",
+   "example_mn": "Тэр ширээ том.",
+   "example_en": "That table is big.",
+   "mn_latin": "shiree"
+  },
+  {
+   "mn": "сандал",
+   "en": "chair",
+   "pos": "noun",
+   "example_mn": "Энэ сандал шинэ.",
+   "example_en": "This chair is new.",
+   "mn_latin": "sandal"
+  },
+  {
+   "mn": "цонх",
+   "en": "window",
+   "pos": "noun",
+   "example_mn": "Цонх нээлттэй байна.",
+   "example_en": "The window is open.",
+   "mn_latin": "tsonkh"
+  },
+  {
+   "mn": "хаалга",
+   "en": "door",
+   "pos": "noun",
+   "example_mn": "Тэр хаалга хаалттай.",
+   "example_en": "That door is closed.",
+   "mn_latin": "khaalga"
+  },
+  {
+   "mn": "ном",
+   "en": "book",
+   "pos": "noun",
+   "example_mn": "Энэ ном минийх.",
+   "example_en": "This book is mine.",
+   "mn_latin": "nom"
+  },
+  {
+   "mn": "үзэг",
+   "en": "pen",
+   "pos": "noun",
+   "example_mn": "Тэр юу вэ? Үзэг.",
+   "example_en": "What is that? It's a pen.",
+   "mn_latin": "üzeg"
+  },
+  {
+   "mn": "самбар",
+   "en": "board",
+   "pos": "noun",
+   "example_mn": "Самбар ханан дээр байна.",
+   "example_en": "The board is on the wall.",
+   "mn_latin": "sambar"
+  },
+  {
+   "mn": "компьютер",
+   "en": "computer",
+   "pos": "noun",
+   "example_mn": "Энэ компьютер уу?",
+   "example_en": "Is this a computer?",
+   "mn_latin": "kompiyutyer"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ юу вэ?",
+   "en": "What is this?",
+   "alt_mn": [],
+   "alt_en": [
+    "What's this?"
+   ],
+   "mn_latin": "Ene yuu ve?"
+  },
+  {
+   "mn": "Энэ ширээ.",
+   "en": "This is a table.",
+   "alt_mn": [
+    "Энэ нь ширээ."
+   ],
+   "alt_en": [
+    "This is a desk."
+   ],
+   "mn_latin": "Ene shiree."
+  },
+  {
+   "mn": "Тэр сандал уу?",
+   "en": "Is that a chair?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ter sandal uu?"
+  },
+  {
+   "mn": "Тийм, тэр сандал.",
+   "en": "Yes, that is a chair.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, it is a chair.",
+    "Yes, that's a chair."
+   ],
+   "mn_latin": "Tiim, ter sandal."
+  },
+  {
+   "mn": "Үгүй, тэр сандал биш, ширээ.",
+   "en": "No, that is not a chair, it is a table.",
+   "alt_mn": [],
+   "alt_en": [
+    "No, that isn't a chair, it's a table."
+   ],
+   "mn_latin": "Ügüi, ter sandal bish, shiree."
+  },
+  {
+   "mn": "Энэ миний өрөө.",
+   "en": "This is my room.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene minii öröö."
+  },
+  {
+   "mn": "Энэ хаалга уу?",
+   "en": "Is this a door?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene khaalga uu?"
+  },
+  {
+   "mn": "Энэ ном уу, дэвтэр үү?",
+   "en": "Is this a book or a notebook?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene nom uu, devter üü?"
+  },
+  {
+   "mn": "Энэ үзэг, тэр харандаа.",
+   "en": "This is a pen, and that is a pencil.",
+   "alt_mn": [
+    "Энэ үзэг, харин тэр харандаа."
+   ],
+   "alt_en": [
+    "This is a pen and that is a pencil."
+   ],
+   "mn_latin": "Ene üzeg, ter kharandaa."
+  },
+  {
+   "mn": "Энэ цонх, тэр хаалга.",
+   "en": "This is a window, and that is a door.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is a window and that is a door."
+   ],
+   "mn_latin": "Ene tsonkh, ter khaalga."
+  },
+  {
+   "mn": "Эдгээр номнууд, тэдгээр сандлууд.",
+   "en": "These are books, and those are chairs.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Edgeer nomnuud, tedgeer sandluud."
+  },
+  {
+   "mn": "Энэ компьютер уу?",
+   "en": "Is this a computer?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene kompiyutyer uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "This/that + question words + a/an",
+  "title_mn": "Энэ/тэр + асуух үг + a/an",
+  "explain_en": "In Mongolian, энэ means 'this' (near) and тэр means 'that' (far). There is no 'is' and no 'a/an': Энэ ном = 'This is a book.' Use вэ/бэ after a question word (Энэ юу вэ?): бэ goes after words ending in в, м or н, and вэ goes everywhere else. Use уу/үү for yes-or-no questions (Энэ ном уу?). Choose уу or үү to match the vowels of the word before it (ном уу, үзэг үү). After a long vowel, use юу/юү instead (ширээ юү?). In English you must add 'is' and 'a' (or 'an' before a vowel sound): This is a pen. This is an apple. Preview: for more than one thing, English uses these/those with 'are': These are books. Mongolian often adds -ууд/-үүд: номнууд.",
+  "explain_mn": "Монгол хэлэнд энэ нь ойрын, тэр нь холын зүйлийг заана. \"Is\" болон \"a/an\"-тай дүйх үг хэрэглэдэггүй: Энэ ном = This is a book. Асуух үгийн дараа вэ/бэ хэрэглэнэ (Энэ юу вэ?): в, м, н-ээр төгссөн үгийн дараа бэ, бусад үед вэ. Тийм-үгүй асуултад эгшгийн зохицлоор уу/үү (ном уу, үзэг үү), урт эгшгийн дараа юу/юү (ширээ юү?) хэрэглэнэ. Англи хэлэнд is (байх) үйл үгийг заавал хэлнэ: this is, that is. Ганц тооны нэрийн өмнө a эсвэл an тавина. Эгшгийн дуудлагаар эхэлсэн үгийн өмнө an тавина: an apple, an egg. Бусад үед a тавина: a book, a pen. Олон тооны үед these (эдгээр), those (тэдгээр) гэж хэлээд are хэрэглэнэ: These are books. Those are chairs. Монгол хэлэнд олон тоог ихэвчлэн -ууд/-үүд-ээр илэрхийлнэ: номнууд. Асуулт: Is this a pen? Yes, it is. / No, it isn't. What is this?",
+  "examples": [
+   {
+    "mn": "Энэ юу вэ? Энэ ном.",
+    "en": "What is this? This is a book.",
+    "mn_latin": "Ene yuu ve? Ene nom."
+   },
+   {
+    "mn": "Тэр сандал уу?",
+    "en": "Is that a chair?",
+    "mn_latin": "Ter sandal uu?"
+   },
+   {
+    "mn": "Энэ алим, тэр өндөг.",
+    "en": "This is an apple, and that is an egg.",
+    "mn_latin": "Ene alim, ter öndög."
+   },
+   {
+    "mn": "Эдгээр номнууд.",
+    "en": "These are books.",
+    "mn_latin": "Edgeer nomnuud."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ юу ___?",
+   "answer": "вэ",
+   "options": [
+    "вэ",
+    "бэ",
+    "уу",
+    "үү"
+   ],
+   "translation": "What is this?",
+   "explain_en": "After the question word юу, use вэ. Бэ is used only after words ending in в, м or н. Юу ends in a vowel, so вэ is correct. Уу/үү are for yes-or-no questions.",
+   "explain_mn": "\"Юу\" гэх асуух үгийн дараа \"вэ\" хэрэглэнэ. \"Бэ\"-г зөвхөн в, м, н-ээр төгссөн үгийн дараа хэрэглэнэ. Уу/үү нь тийм-үгүй асуултад орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр хаалга ___?",
+   "answer": "уу",
+   "options": [
+    "уу",
+    "үү",
+    "вэ",
+    "бэ"
+   ],
+   "translation": "Is that a door?",
+   "explain_en": "This is a yes-or-no question, so use уу/үү. 'Хаалга' has the back vowel а, so it takes уу.",
+   "explain_mn": "Тийм-үгүй асуулт тул уу/үү хэрэглэнэ. \"Хаалга\" үгэнд а эгшиг байгаа тул \"уу\"."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ үзэг ___?",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "уу",
+    "вэ",
+    "бэ"
+   ],
+   "translation": "Is this a pen?",
+   "explain_en": "'Үзэг' has ү, so the question particle matches: үү.",
+   "explain_mn": "\"Үзэг\" үгэнд ү эгшиг байгаа тул эгшгийн зохицлоор \"үү\" болно."
+  },
+  {
+   "lang": "en",
+   "text": "This is ___ apple.",
+   "answer": "an",
+   "options": [
+    "an",
+    "a",
+    "the",
+    "are"
+   ],
+   "translation": "Энэ алим.",
+   "explain_en": "Use 'an' before a vowel sound: an apple.",
+   "explain_mn": "Эгшгийн дуудлагатай үгийн өмнө an хэрэглэнэ: an apple."
+  },
+  {
+   "lang": "en",
+   "text": "That ___ a door.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "translation": "Тэр хаалга.",
+   "explain_en": "'That' is singular, so use 'is'.",
+   "explain_mn": "That нь ганц тоо тул is хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "These ___ books.",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "am",
+    "a"
+   ],
+   "translation": "Эдгээр номнууд.",
+   "explain_en": "'These' is plural, so use 'are' and no 'a'.",
+   "explain_mn": "These нь олон тоо тул are хэрэглэнэ, a хэрэггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Сайн уу! Энэ миний анги.",
+   "en": "Hi! This is my classroom.",
+   "mn_latin": "Sain uu! Ene minii angi."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайн уу! Тэр юу вэ?",
+   "en": "Hi! What is that?",
+   "mn_latin": "Sain uu! Ter yuu ve?"
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Тэр самбар.",
+   "en": "That is a board.",
+   "mn_latin": "Ter sambar."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Энэ ширээ юү?",
+   "en": "Is this a table?",
+   "mn_latin": "Ene shiree yuü?"
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Тийм, энэ ширээ. Тэр сандал.",
+   "en": "Yes, this is a table. That is a chair.",
+   "mn_latin": "Tiim, ene shiree. Ter sandal."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэр цонх уу, хаалга уу?",
+   "en": "Is that a window or a door?",
+   "mn_latin": "Ter tsonkh uu, khaalga uu?"
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Тэр цонх. Хаалга тэнд байна.",
+   "en": "That is a window. The door is over there.",
+   "mn_latin": "Ter tsonkh. Khaalga tend baina."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Баярлалаа!",
+   "en": "Thank you!",
+   "mn_latin": "Bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "In a traditional Mongolian ger, the door faces south, and the space inside has set places for things and people. The area opposite the door, called the khoimor, is the place of honor. Guests are often shown where to sit.",
+  "mn": "Уламжлалт монгол гэрийн хаалга өмнө зүгт харна, гэр дотор эд зүйл, хүмүүсийн суудал тогтсон байдаг. Хаалганы эсрэг талд байх хоймор нь хүндтэй газар. Зочдыг ихэвчлэн хаана суухыг нь зааж суулгадаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 20,
+  "notes": "Mostly good, but a stray Korean character in a sentence, some duplicate or unnatural alts, and an inaccurate вэ/бэ explanation needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 11,
+  "notes": "Fixed 'mine', the юу/юү particle after a long vowel, and a mismatched alternative, and rewrote the Mongolian grammar explanation to match the English one.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'English-ийн' is not standard Mongolian"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "'mine' is минийх, not миний"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "'энэ' (this) does not match 'that'"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "Alternative was a duplicate of the main answer"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "'What is this door?' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "en",
+    "why": "Matches the new Mongolian sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Adds the бэ rule and the юу/юү rule used in the lesson"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'юм бол' is wrong for 'is'. Also aligns the content with the English version."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Rule was vague ('certain other sounds')"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Matches the English explanation"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "After a long vowel the particle is юү, not үү"
+   }
+  ]
+ }
+}

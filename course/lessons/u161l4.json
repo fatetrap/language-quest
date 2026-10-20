@@ -1,0 +1,418 @@
+{
+ "intro_en": "In this lesson you will take an eye test at the optician and learn to talk about blurry vision, glasses, and eye drops. You will also practice saying how often and how long you do something, as in 'once every two years' and 'eight hours a day.'",
+ "intro_mn": "Энэ хичээлээр та оптикт хараагаа шалгуулж, бүдэг харагдах, нүдний шил, нүдний дусал зэргийн талаар ярьж сурна. Мөн англи хэлний only, just, even, also гэдэг үгс өгүүлбэрийн аль хэсэгт байрлахаас утга нь хэрхэн өөрчлөгддөгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "хараа муудах",
+   "en": "for one's eyesight to get worse",
+   "pos": "verb phrase",
+   "example_mn": "Сүүлийн үед миний хараа муудсан.",
+   "example_en": "My eyesight has gotten worse lately.",
+   "mn_latin": "kharaa muudakh"
+  },
+  {
+   "mn": "ойрын хараа",
+   "en": "near vision",
+   "pos": "noun",
+   "example_mn": "Ойрын хараа муудвал жижиг үсэг уншихад хэцүү болдог.",
+   "example_en": "When your near vision gets worse, it becomes hard to read small print.",
+   "mn_latin": "oiryn kharaa"
+  },
+  {
+   "mn": "холын хараа",
+   "en": "distance vision",
+   "pos": "noun",
+   "example_mn": "Жолоочид холын хараа маш чухал.",
+   "example_en": "Distance vision is very important for drivers.",
+   "mn_latin": "kholyn kharaa"
+  },
+  {
+   "mn": "бүдэг",
+   "en": "blurry, dim",
+   "pos": "adjective",
+   "example_mn": "Доод мөрийн үсгүүд бүдэг харагдаж байна.",
+   "example_en": "The letters on the bottom line look blurry.",
+   "mn_latin": "büdeg"
+  },
+  {
+   "mn": "нүдний дусал",
+   "en": "eye drops",
+   "pos": "noun",
+   "example_mn": "Өдөрт гурван удаа нүдний дусал дусаагаарай.",
+   "example_en": "Use eye drops three times a day.",
+   "mn_latin": "nüdnii dusal"
+  },
+  {
+   "mn": "нүдний шил",
+   "en": "glasses",
+   "pos": "noun",
+   "example_mn": "Би уншихдаа нүдний шил зүүдэг.",
+   "example_en": "I wear glasses when I read.",
+   "mn_latin": "nüdnii shil"
+  },
+  {
+   "mn": "контакт линз",
+   "en": "contact lenses",
+   "pos": "noun",
+   "example_mn": "Миний эгч контакт линз зүүдэг.",
+   "example_en": "My older sister wears contact lenses.",
+   "mn_latin": "kontakt linz"
+  },
+  {
+   "mn": "дэлгэц",
+   "en": "screen",
+   "pos": "noun",
+   "example_mn": "Би өдөрт найман цаг дэлгэц хардаг.",
+   "example_en": "I look at a screen eight hours a day.",
+   "mn_latin": "delgets"
+  },
+  {
+   "mn": "нүдний эмч",
+   "en": "eye doctor, optometrist",
+   "pos": "noun",
+   "example_mn": "Нүдний эмч миний харааг шалгасан.",
+   "example_en": "The eye doctor checked my vision.",
+   "mn_latin": "nüdnii emch"
+  },
+  {
+   "mn": "нүд ядрах",
+   "en": "for one's eyes to get tired, eye strain",
+   "pos": "verb phrase",
+   "example_mn": "Удаан дэлгэц харахаар нүд ядардаг.",
+   "example_en": "My eyes get tired when I look at a screen for a long time.",
+   "mn_latin": "nüd yadrakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Доод мөрийг уншиж чадах уу?",
+   "en": "Can you read the bottom line?",
+   "alt_mn": [
+    "Та доод мөрийг уншиж чадах уу?"
+   ],
+   "alt_en": [
+    "Are you able to read the bottom line?"
+   ],
+   "mn_latin": "Dood möriig unshij chadakh uu?"
+  },
+  {
+   "mn": "Сүүлийн үед миний холын хараа муудсан юм шиг байна.",
+   "en": "I think my distance vision has gotten worse lately.",
+   "alt_mn": [
+    "Сүүлийн үед холын хараа маань муудсан бололтой."
+   ],
+   "alt_en": [
+    "It seems my distance vision has gotten worse recently."
+   ],
+   "mn_latin": "Süüliin üyed minii kholyn kharaa muudsan yum shig baina."
+  },
+  {
+   "mn": "Хүснэгт дээрх үсгүүд бүдэг харагдаад байна.",
+   "en": "The letters on the chart look blurry.",
+   "alt_mn": [
+    "Хүснэгтийн үсгүүд бүдэг харагдаж байна."
+   ],
+   "alt_en": [
+    "The letters on the chart are blurry."
+   ],
+   "mn_latin": "Khüsnegt deerkh üsgüüd büdeg kharagdaad baina."
+  },
+  {
+   "mn": "Та өдөрт хэдэн цаг дэлгэц хардаг вэ?",
+   "en": "How many hours a day do you look at a screen?",
+   "alt_mn": [
+    "Та өдөрт хэдэн цаг дэлгэц ширтдэг вэ?"
+   ],
+   "alt_en": [
+    "How many hours a day do you spend looking at a screen?"
+   ],
+   "mn_latin": "Ta ödört kheden tsag delgets khardag ve?"
+  },
+  {
+   "mn": "Би ажил дээрээ өдөрт найман цаг компьютер хардаг.",
+   "en": "At work I look at a computer eight hours a day.",
+   "alt_mn": [
+    "Ажил дээрээ би өдөрт найман цаг компьютер хардаг."
+   ],
+   "alt_en": [
+    "I look at a computer for eight hours a day at work."
+   ],
+   "mn_latin": "Bi ajil deeree ödört naiman tsag kompiyutyer khardag."
+  },
+  {
+   "mn": "Нүдний эмчид хоёр жилд нэг удаа үзүүлж байх хэрэгтэй.",
+   "en": "You should see an eye doctor once every two years.",
+   "alt_mn": [
+    "Хоёр жилд нэг удаа нүдний эмчид үзүүлэх хэрэгтэй."
+   ],
+   "alt_en": [
+    "You should get your eyes checked once every two years."
+   ],
+   "mn_latin": "Nüdnii emchid khoyor jild neg udaa üzüülj baikh kheregtei."
+  },
+  {
+   "mn": "Би зөвхөн уншихдаа л нүдний шил зүүдэг.",
+   "en": "I only wear glasses when I read.",
+   "alt_mn": [
+    "Би нүдний шилээ зөвхөн уншихдаа зүүдэг."
+   ],
+   "alt_en": [
+    "I wear glasses only when I read.",
+    "I only wear glasses for reading."
+   ],
+   "mn_latin": "Bi zövkhön unshikhdaa l nüdnii shil züüdeg."
+  },
+  {
+   "mn": "Жолоо барихдаа ч гэсэн шил зүүх ёстой юу?",
+   "en": "Do I have to wear glasses even when I drive?",
+   "alt_mn": [
+    "Жолоо барихдаа ч шил зүүх ёстой юу?"
+   ],
+   "alt_en": [
+    "Should I wear glasses even when I'm driving?"
+   ],
+   "mn_latin": "Joloo barikhdaa ch gesen shil züükh yostoi yuu?"
+  },
+  {
+   "mn": "Таны ойрын хараа ч бас муудаж эхэлсэн байна.",
+   "en": "Your near vision has also started to get worse.",
+   "alt_mn": [
+    "Ойрын хараа тань бас муудаж эхэлжээ."
+   ],
+   "alt_en": [
+    "Your near vision is also starting to get worse."
+   ],
+   "mn_latin": "Tany oiryn kharaa ch bas muudaj ekhelsen baina."
+  },
+  {
+   "mn": "Нүд хуурайшвал өдөрт гурван удаа нүдний дусал дусаагаарай.",
+   "en": "If your eyes get dry, use eye drops three times a day.",
+   "alt_mn": [
+    "Нүд хуурайшвал нүдний дуслыг өдөрт гурван удаа дусаагаарай."
+   ],
+   "alt_en": [
+    "If your eyes feel dry, put in eye drops three times a day."
+   ],
+   "mn_latin": "Nüd khuuraishval ödört gurvan udaa nüdnii dusal dusaagaarai."
+  },
+  {
+   "mn": "Цаг тутамд хэдэн минут дэлгэцээс холдож нүдээ амраагаарай.",
+   "en": "Every hour, step away from the screen for a few minutes and rest your eyes.",
+   "alt_mn": [
+    "Цаг тутам хэдэн минут дэлгэцээс холдож нүдээ амраагаарай."
+   ],
+   "alt_en": [
+    "Take a few minutes every hour to look away from the screen and rest your eyes."
+   ],
+   "mn_latin": "Tsag tutamd kheden minut delgetsees kholdoj nüdee amraagaarai."
+  },
+  {
+   "mn": "Би дээд хоёр мөрийг л уншиж чадаж байна.",
+   "en": "I can only read the top two lines.",
+   "alt_mn": [
+    "Би зөвхөн дээд хоёр мөрийг уншиж чадаж байна."
+   ],
+   "alt_en": [
+    "I can read only the top two lines."
+   ],
+   "mn_latin": "Bi deed khoyor möriig l unshij chadaj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "How often and how long: хоёр жилд нэг удаа, өдөрт найман цаг",
+  "title_mn": "Only, just, even, also гэдэг үгсийн байрлал ба утга",
+  "explain_en": "To say how often something happens in Mongolian, put the time period in the dative case (-д/-т) and follow it with the number of times + удаа: жилд нэг удаа (once a year), хоёр жилд нэг удаа (once every two years), долоо хоногт гурван удаа (three times a week). The ending is usually -т after р, с, в, г (өдөрт, долоо хоногт) and -д elsewhere (жилд). Сар is a common exception: сард (a month). To say how long, put the number and time word directly before the verb with no ending: найман цаг хардаг (look for eight hours). You can combine the two: өдөрт найман цаг (eight hours a day). To ask, use хэдэн: Өдөрт хэдэн цаг? (How many hours a day?), Жилд хэдэн удаа? (How many times a year?). For 'every hour/day,' use тутам: цаг тутам, өдөр тутам.",
+  "explain_mn": "Англи хэлэнд only, just, even, also гэдэг үгс өгүүлбэрт хаана байрлахаас хамаарч утга нь өөрчлөгддөг. Эдгээр үгийг ихэвчлэн онцлох гэж буй үгийнхээ яг өмнө тавина. 'Only I wear glasses' гэвэл 'Зөвхөн би л шил зүүдэг' (бусад хүн зүүдэггүй) гэсэн утгатай. Харин 'I wear glasses only when I read' гэвэл 'Би зөвхөн уншихдаа л шил зүүдэг' гэсэн утгатай. Ярианд 'I only wear glasses when I read' гэж үйл үгийн өмнө тавих нь их түгээмэл бөгөөд утгыг нь өргөлтөөр ялгадаг. Even нь 'ч гэсэн, хүртэл' гэсэн утгатай: 'I can't even read the top line' (Дээд мөрийг ч уншиж чадахгүй). Also нь ихэвчлэн туслах үйл үгийн ард, гол үйл үгийн өмнө байрлана: 'My near vision has also gotten worse.' Just нь 'дөнгөж, зүгээр л' гэсэн утгатай: 'It just takes ten minutes.'",
+  "examples": [
+   {
+    "mn": "Би жилд нэг удаа нүдний эмчид үзүүлдэг.",
+    "en": "I see the eye doctor once a year.",
+    "mn_latin": "Bi jild neg udaa nüdnii emchid üzüüldeg."
+   },
+   {
+    "mn": "Манай гэр бүлд зөвхөн би л нүдний шил зүүдэг.",
+    "en": "Only I wear glasses in my family.",
+    "mn_latin": "Manai ger büld zövkhön bi l nüdnii shil züüdeg."
+   },
+   {
+    "mn": "Би дээд мөрийг ч уншиж чадахгүй байна.",
+    "en": "I can't even read the top line.",
+    "mn_latin": "Bi deed möriig ch unshij chadakhgüi baina."
+   },
+   {
+    "mn": "Хүүхдүүд өдөрт хоёр цагаас илүү дэлгэц харах ёсгүй.",
+    "en": "Children shouldn't look at screens for more than two hours a day.",
+    "mn_latin": "Khüükhdüüd ödört khoyor tsagaas ilüü delgets kharakh yosgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хоёр жил___ нэг удаа нүдний эмчид үзүүлээрэй.",
+   "answer": "д",
+   "options": [
+    "д",
+    "ийн",
+    "ээр",
+    "ээс"
+   ],
+   "translation": "See an eye doctor once every two years.",
+   "explain_en": "Frequency uses the dative case on the time period: жилд нэг удаа = once a year. Жил ends in л, so the ending is -д.",
+   "explain_mn": "Давтамжийг заахдаа хугацааг өгөх оршихын тийн ялгалд тавина: хоёр жилд нэг удаа. 'Жил' л-ээр төгссөн тул -д залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Та өдөр___ хэдэн цаг дэлгэц хардаг вэ?",
+   "answer": "т",
+   "options": [
+    "т",
+    "д",
+    "тэй"
+   ],
+   "translation": "How many hours a day do you look at a screen?",
+   "explain_en": "'A day' in frequency expressions is өдөрт. After р the dative ending is -т, not -д.",
+   "explain_mn": "'Өдөр' р-ээр төгссөн тул өгөх оршихын тийн ялгалын -т нөхцөл залгаж 'өдөрт' болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүснэгтийн доод мөрийн үсгүүд ___ харагдаж байна.",
+   "answer": "бүдэг",
+   "options": [
+    "бүдэг",
+    "хурдан",
+    "хүнд",
+    "халуун"
+   ],
+   "translation": "The letters on the bottom line of the chart look blurry.",
+   "explain_en": "Бүдэг means blurry or dim and goes naturally with харагдах (to look, to appear). The other words don't describe how letters look.",
+   "explain_mn": "'Бүдэг' нь үсэг тод бус харагдахыг илэрхийлдэг тул 'харагдах' үйл үгтэй зохицно."
+  },
+  {
+   "lang": "en",
+   "text": "I wear glasses ___ when I read, not when I drive.",
+   "answer": "only",
+   "options": [
+    "only",
+    "even",
+    "also",
+    "already"
+   ],
+   "translation": "Би зөвхөн уншихдаа л шил зүүдэг, жолоо барихдаа зүүдэггүй.",
+   "explain_en": "'Only' limits the glasses to one situation, which the contrast 'not when I drive' confirms.",
+   "explain_mn": "'Only' нь 'зөвхөн' гэсэн утгатай бөгөөд 'when I read' гэдгийг онцолж байна. 'Not when I drive' хэсэг үүнийг баталж байна."
+  },
+  {
+   "lang": "en",
+   "text": "My vision is so bad that I can't ___ read the top line.",
+   "answer": "even",
+   "options": [
+    "even",
+    "only",
+    "also",
+    "still"
+   ],
+   "translation": "Миний хараа маш муу болсон тул дээд мөрийг ч уншиж чадахгүй байна.",
+   "explain_en": "'Even' shows something surprising: the top line is the easiest, so not reading it is extreme.",
+   "explain_mn": "'Even' нь 'ч гэсэн, хүртэл' гэсэн утгатай. Хамгийн том үсэгтэй дээд мөрийг ч уншиж чадахгүй байгааг онцолж байна."
+  },
+  {
+   "lang": "en",
+   "text": "Not only my distance vision but ___ my near vision has gotten worse.",
+   "answer": "also",
+   "options": [
+    "also",
+    "already",
+    "just",
+    "only"
+   ],
+   "translation": "Зөвхөн холын хараа минь биш, ойрын хараа минь ч бас муудсан.",
+   "explain_en": "'Not only... but also' is a fixed pair for adding a second item.",
+   "explain_mn": "'Not only ... but also' нь 'зөвхөн ... биш, ... ч бас' гэсэн тогтвортой хэллэг тул 'also' орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Сайн байна уу. Энэ хүснэгт рүү хараарай. Доод мөрийг уншиж чадах уу?",
+   "en": "Hello. Please look at this chart. Can you read the bottom line?",
+   "mn_latin": "Sain baina uu. Ene khüsnegt rüü kharaarai. Dood möriig unshij chadakh uu?"
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Уучлаарай, доод мөр бүдэг харагдаж байна. Би дээд гурван мөрийг л уншиж чадаж байна.",
+   "en": "Sorry, the bottom line looks blurry. I can only read the top three lines.",
+   "mn_latin": "Uuchlaarai, dood mör büdeg kharagdaj baina. Bi deed gurvan möriig l unshij chadaj baina."
+  },
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Ойлголоо. Та өдөрт хэдэн цаг дэлгэц хардаг вэ?",
+   "en": "I see. How many hours a day do you look at a screen?",
+   "mn_latin": "Oilgoloo. Ta ödört kheden tsag delgets khardag ve?"
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Ажил дээрээ найман цаг, гэртээ ирээд ч гэсэн утсаа хоёр гурван цаг хардаг.",
+   "en": "Eight hours at work, and even after I get home I look at my phone for two or three hours.",
+   "mn_latin": "Ajil deeree naiman tsag, gertee ireed ch gesen utsaa khoyor gurvan tsag khardag."
+  },
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Тийм бол холын хараа тань муудсан байна. Нүд тань ч бас хуурай байна.",
+   "en": "In that case, your distance vision has gotten worse. Your eyes are also dry.",
+   "mn_latin": "Tiim bol kholyn kharaa tani muudsan baina. Nüd tani ch bas khuurai baina."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Би нүдний шил зүүх хэрэгтэй юу?",
+   "en": "Do I need to wear glasses?",
+   "mn_latin": "Bi nüdnii shil züükh kheregtei yuu?"
+  },
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Тийм ээ, хол харахдаа шил зүүгээрэй. Мөн өдөрт хоёр удаа нүдний дусал дусаагаарай.",
+   "en": "Yes, wear glasses for seeing far away. Also, use eye drops twice a day.",
+   "mn_latin": "Tiim ee, khol kharakhdaa shil züügeerei. Mön ödört khoyor udaa nüdnii dusal dusaagaarai."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Дахиад хэзээ ирж үзүүлэх вэ?",
+   "en": "When should I come back for a checkup?",
+   "mn_latin": "Dakhiad khezee irj üzüülekh ve?"
+  },
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Жилд нэг удаа ирж үзүүлээрэй.",
+   "en": "Come in once a year.",
+   "mn_latin": "Jild neg udaa irj üzüüleerei."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, small optical shops (оптик) are on almost every busy street, and many will check your vision and make glasses the same day. As more students and office workers spend long hours on screens, nearsightedness has become common among young people in the city. In the countryside, herders are often proud of their sharp distance vision, which comes from scanning the open steppe for their animals.",
+  "mn": "Улаанбаатарт хөл хөдөлгөөн ихтэй гудамж бүрт шахам оптик байдаг бөгөөд олонх нь хараа шалгаж, нүдний шилийг тэр өдөрт нь хийж өгдөг. Оюутан, оффисын ажилтнууд дэлгэц урт хугацаагаар харах болсноор хотын залуучуудын дунд холын хараа муудах явдал түгээмэл болжээ. Харин хөдөөд малчид тал нутагт малаа хайж хол хардаг тул холын хараа сайтайгаараа бахархдаг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 4,
+  "notes": "A solid, natural lesson. The fixes cover a contradictory example in the case-ending rule, one accusative error, an ambiguous fill-in-the-blank option, and a Mongolian phrase for nearsightedness that could be misread."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 2,
+  "notes": "The core content is mostly correct. The intro and grammar sections deliberately split by audience: frequency is taught in Mongolian for English speakers, and English word placement for Mongolian speakers. I kept that split.",
+  "changes": [
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "'Манай гэрт' means 'in my home', not 'in my family'. Use гэр бүл to match the English."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'өдөр' + өөс/ийн gives misspelled forms. The correct forms drop the vowel: өдрөөс, өдрийн. Use distractors that attach to the stem correctly."
+   }
+  ]
+ }
+}

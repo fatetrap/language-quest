@@ -1,0 +1,415 @@
+{
+ "intro_en": "You will learn to ask about the weather and describe it with simple words like cold, hot, windy, rainy, snowy and sunny. You will practice 'It is + adjective' in English and weather words ending in -тай/-той in Mongolian.",
+ "intro_mn": "Та цаг агаарын талаар асууж, хүйтэн, халуун, салхитай, бороотой, цастай, нарлаг зэрэг энгийн үгээр цаг агаарыг тайлбарлаж сурна. Англи хэлний 'It is + adjective' бүтэц болон монгол хэлний -тай/-той дагавартай цаг агаарын үгсийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "цаг агаар",
+   "en": "weather",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр цаг агаар сайхан байна.",
+   "example_en": "The weather is nice today.",
+   "mn_latin": "tsag agaar"
+  },
+  {
+   "mn": "хүйтэн",
+   "en": "cold",
+   "pos": "adjective",
+   "example_mn": "Өнөөдөр хүйтэн байна.",
+   "example_en": "It is cold today.",
+   "mn_latin": "khüiten"
+  },
+  {
+   "mn": "дулаан",
+   "en": "warm",
+   "pos": "adjective",
+   "example_mn": "Зун дулаан байдаг.",
+   "example_en": "Summer is warm.",
+   "mn_latin": "dulaan"
+  },
+  {
+   "mn": "халуун",
+   "en": "hot",
+   "pos": "adjective",
+   "example_mn": "Өнөөдөр халуун байна.",
+   "example_en": "It is hot today.",
+   "mn_latin": "khaluun"
+  },
+  {
+   "mn": "салхитай",
+   "en": "windy",
+   "pos": "adjective",
+   "example_mn": "Улаанбаатарт салхитай байна.",
+   "example_en": "It is windy in Ulaanbaatar.",
+   "mn_latin": "salkhitai"
+  },
+  {
+   "mn": "бороотой",
+   "en": "rainy",
+   "pos": "adjective",
+   "example_mn": "Өнөөдөр бороотой байна.",
+   "example_en": "It is rainy today.",
+   "mn_latin": "borootoi"
+  },
+  {
+   "mn": "цастай",
+   "en": "snowy",
+   "pos": "adjective",
+   "example_mn": "Хөдөө цастай байна.",
+   "example_en": "It is snowy in the countryside.",
+   "mn_latin": "tsastai"
+  },
+  {
+   "mn": "нарлаг",
+   "en": "sunny",
+   "pos": "adjective",
+   "example_mn": "Маргааш нарлаг байна.",
+   "example_en": "Tomorrow it will be sunny.",
+   "mn_latin": "narlag"
+  },
+  {
+   "mn": "өнөөдөр",
+   "en": "today",
+   "pos": "adverb",
+   "example_mn": "Өнөөдөр хүйтэн биш.",
+   "example_en": "It is not cold today.",
+   "mn_latin": "önöödör"
+  },
+  {
+   "mn": "хөдөө",
+   "en": "countryside",
+   "pos": "noun",
+   "example_mn": "Хөдөө нарлаг байна.",
+   "example_en": "It is sunny in the countryside.",
+   "mn_latin": "khödöö"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөөдөр цаг агаар ямар вэ?",
+   "en": "How is the weather today?",
+   "alt_mn": [
+    "Өнөөдөр цаг агаар ямар байна?"
+   ],
+   "alt_en": [
+    "What's the weather like today?"
+   ],
+   "mn_latin": "Önöödör tsag agaar yamar ve?"
+  },
+  {
+   "mn": "Өнөөдөр хүйтэн байна.",
+   "en": "It is cold today.",
+   "alt_mn": [
+    "Өнөөдөр хүйтэн."
+   ],
+   "alt_en": [
+    "Today it is cold."
+   ],
+   "mn_latin": "Önöödör khüiten baina."
+  },
+  {
+   "mn": "Улаанбаатарт салхитай байна.",
+   "en": "It is windy in Ulaanbaatar.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's windy in Ulaanbaatar."
+   ],
+   "mn_latin": "Ulaanbaatart salkhitai baina."
+  },
+  {
+   "mn": "Хөдөө цастай байна.",
+   "en": "It is snowy in the countryside.",
+   "alt_mn": [
+    "Хөдөө цас орсон байна."
+   ],
+   "alt_en": [
+    "It's snowy in the countryside."
+   ],
+   "mn_latin": "Khödöö tsastai baina."
+  },
+  {
+   "mn": "Өнөөдөр халуун байна.",
+   "en": "It is hot today.",
+   "alt_mn": [
+    "Өнөөдөр халуун."
+   ],
+   "alt_en": [
+    "It's hot today."
+   ],
+   "mn_latin": "Önöödör khaluun baina."
+  },
+  {
+   "mn": "Өнөөдөр бороотой байна.",
+   "en": "It is rainy today.",
+   "alt_mn": [
+    "Өнөөдөр бороо орж байна."
+   ],
+   "alt_en": [
+    "It's raining today."
+   ],
+   "mn_latin": "Önöödör borootoi baina."
+  },
+  {
+   "mn": "Маргааш нарлаг байна.",
+   "en": "Tomorrow it will be sunny.",
+   "alt_mn": [
+    "Маргааш нартай байна."
+   ],
+   "alt_en": [
+    "It will be sunny tomorrow.",
+    "Tomorrow will be sunny."
+   ],
+   "mn_latin": "Margaash narlag baina."
+  },
+  {
+   "mn": "Өнөөдөр дулаан байна.",
+   "en": "It is warm today.",
+   "alt_mn": [
+    "Өнөөдөр дулаахан байна."
+   ],
+   "alt_en": [
+    "It's warm today."
+   ],
+   "mn_latin": "Önöödör dulaan baina."
+  },
+  {
+   "mn": "Өнөөдөр хүйтэн биш.",
+   "en": "It is not cold today.",
+   "alt_mn": [
+    "Өнөөдөр хүйтэн биш байна."
+   ],
+   "alt_en": [
+    "It isn't cold today."
+   ],
+   "mn_latin": "Önöödör khüiten bish."
+  },
+  {
+   "mn": "Хөдөө нарлаг байна.",
+   "en": "It is sunny in the countryside.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's sunny in the countryside."
+   ],
+   "mn_latin": "Khödöö narlag baina."
+  },
+  {
+   "mn": "Өнөөдөр Улаанбаатарт цаг агаар ямар вэ?",
+   "en": "How is the weather in Ulaanbaatar today?",
+   "alt_mn": [
+    "Өнөөдөр Улаанбаатарт цаг агаар ямар байна?"
+   ],
+   "alt_en": [
+    "What's the weather like in Ulaanbaatar today?"
+   ],
+   "mn_latin": "Önöödör Ulaanbaatart tsag agaar yamar ve?"
+  },
+  {
+   "mn": "Өнөөдөр салхитай, хүйтэн байна.",
+   "en": "It is windy and cold today.",
+   "alt_mn": [
+    "Өнөөдөр салхитай бөгөөд хүйтэн байна."
+   ],
+   "alt_en": [
+    "Today it is windy and cold."
+   ],
+   "mn_latin": "Önöödör salkhitai, khüiten baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Describing weather: adjective + байна",
+  "title_mn": "Цаг агаарыг тайлбарлах: тэмдэг нэр + байна",
+  "explain_en": "In Mongolian, you don't need a word for 'it'. Just say the adjective and add байна: Хүйтэн байна = 'It is cold.' To ask, use ямар вэ? (or ямар байна?): Цаг агаар ямар вэ? = 'How is the weather?' The ending -тай/-той/-тэй means 'with' or 'having': салхи (wind) → салхитай (windy), бороо (rain) → бороотой (rainy), цас (snow) → цастай (snowy). To say 'not', use биш: Хүйтэн биш = 'It is not cold.' Note: хүйтэн, халуун, дулаан, нарлаг are adjectives on their own and do not take -тай.",
+  "explain_mn": "Англи хэлэнд цаг агаарын тухай өгүүлбэрт заавал 'it' гэсэн өгүүлэгдэхүүн хэрэгтэй: It is cold. Монголоор 'Хүйтэн байна' гэхэд 'it'-тэй дүйх үг шаардлагагүй. Асуухдаа 'How is the weather?' гэнэ. Хариулахдаа 'It is + adjective' гэж хэлнэ: It is hot. It is windy. Үгүйсгэхдээ 'is not' (isn't) ашиглана: It is not cold. 'It' болон 'is'-ийг орхиж болохгүй.",
+  "examples": [
+   {
+    "mn": "Цаг агаар ямар вэ?",
+    "en": "How is the weather?",
+    "mn_latin": "Tsag agaar yamar ve?"
+   },
+   {
+    "mn": "Халуун байна.",
+    "en": "It is hot.",
+    "mn_latin": "Khaluun baina."
+   },
+   {
+    "mn": "Салхитай байна.",
+    "en": "It is windy.",
+    "mn_latin": "Salkhitai baina."
+   },
+   {
+    "mn": "Хүйтэн биш.",
+    "en": "It is not cold.",
+    "mn_latin": "Khüiten bish."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өнөөдөр цаг агаар ___ вэ?",
+   "answer": "ямар",
+   "options": [
+    "ямар",
+    "хэн",
+    "хаана",
+    "хэзээ"
+   ],
+   "translation": "How is the weather today?",
+   "explain_en": "ямар means 'what kind of / how' and is used to ask about qualities like weather.",
+   "explain_mn": "'Ямар' нь чанар, байдлыг асуудаг үг бөгөөд англиар 'how' / 'what ... like' гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Хөдөө ___ байна. (snowy)",
+   "answer": "цастай",
+   "options": [
+    "цастай",
+    "нарлаг",
+    "халуун",
+    "салхи"
+   ],
+   "translation": "It is snowy in the countryside.",
+   "explain_en": "цас (snow) + -тай gives цастай, 'snowy'.",
+   "explain_mn": "'Цас' + '-тай' = 'цастай' буюу англиар 'snowy'."
+  },
+  {
+   "lang": "mn",
+   "text": "Өнөөдөр бороо___ байна.",
+   "answer": "той",
+   "options": [
+    "той",
+    "тай",
+    "гүй",
+    "д"
+   ],
+   "translation": "It is rainy today.",
+   "explain_en": "Vowel harmony: бороо has 'о', so the ending is -той, not -тай.",
+   "explain_mn": "Эгшгийн зохицлоор 'бороо' гэдэг үг 'о'-той тул '-той' залгана."
+  },
+  {
+   "lang": "en",
+   "text": "How ___ the weather today?",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "translation": "Өнөөдөр цаг агаар ямар вэ?",
+   "explain_en": "'Weather' is singular, so we use 'is'.",
+   "explain_mn": "'Weather' нь ганц тоо тул 'is' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ hot in summer.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "do"
+   ],
+   "translation": "Зун халуун байдаг.",
+   "explain_en": "With 'it' we use 'is' before an adjective.",
+   "explain_mn": "'It'-ийн дараа тэмдэг нэрийн өмнө 'is' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It is not ___ today. It is warm.",
+   "answer": "cold",
+   "options": [
+    "cold",
+    "warm",
+    "snow",
+    "rain"
+   ],
+   "translation": "Өнөөдөр хүйтэн биш. Дулаан байна.",
+   "explain_en": "The second sentence says warm, so the first one is the opposite: not cold.",
+   "explain_mn": "Хоёр дахь өгүүлбэрт 'дулаан' гэсэн тул эхний өгүүлбэр 'хүйтэн биш' гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн уу, Болд! Өнөөдөр Улаанбаатарт цаг агаар ямар вэ?",
+   "en": "Hi, Bold! How is the weather in Ulaanbaatar today?",
+   "mn_latin": "Sain uu, Bold! Önöödör Ulaanbaatart tsag agaar yamar ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Сайн уу, Анна! Өнөөдөр хүйтэн, салхитай байна.",
+   "en": "Hi, Anna! It is cold and windy today.",
+   "mn_latin": "Sain uu, Anna! Önöödör khüiten, salkhitai baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Хөдөө ямар вэ?",
+   "en": "How is it in the countryside?",
+   "mn_latin": "Khödöö yamar ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Хөдөө цастай байна.",
+   "en": "It is snowy in the countryside.",
+   "mn_latin": "Khödöö tsastai baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Маргааш ямар байх вэ?",
+   "en": "How will it be tomorrow?",
+   "mn_latin": "Margaash yamar baikh ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Маргааш нарлаг байна.",
+   "en": "Tomorrow it will be sunny.",
+   "mn_latin": "Margaash narlag baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Сайхан байна! Баярлалаа.",
+   "en": "Great! Thank you.",
+   "mn_latin": "Saikhan baina! Bayarlalaa."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar is known as the coldest capital city in the world, with winter temperatures often below -30°C. Summers can be warm and sunny, and the weather changes quickly, so Mongolians often talk about it. In the countryside, herders watch the weather closely, because snow and wind affect their animals.",
+  "mn": "Улаанбаатар бол дэлхийн хамгийн хүйтэн нийслэл хотоор нэрлэгддэг бөгөөд өвлийн улиралд ихэвчлэн -30°C-аас доош хүйтэн болдог. Зун дулаан, нарлаг байх ч цаг агаар хурдан өөрчлөгддөг тул монголчууд цаг агаарын талаар их ярьдаг. Хөдөө малчид цас, салхи малд нөлөөлдөг тул цаг агаарыг анхааралтай ажигладаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 20,
+  "notes": "Mostly good, but there is a Russian word in the Mongolian grammar explanation, the future/present mismatch for 'tomorrow sunny', and the ambiguous 'hot' in the fill-in-the-blank. Some of the listed fixes simply confirm correct items."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Fixed an ungrammatical Mongolian intro, a wrong alternative, a wrong grammar term, and an ambiguous fill-in-the-blank.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'тайлбарлах сурна' is ungrammatical (needs -ж); the -тай/-той part was missing compared with the en intro"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "'салхи шуургатай' means stormy, not just windy"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "'нэрлэх' is the nominative case; singular is 'ганц тоо'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'hot' also fit the blank; snow and rain are nouns and cannot follow 'is not'"
+   }
+  ]
+ }
+}

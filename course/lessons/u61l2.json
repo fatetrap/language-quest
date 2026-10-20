@@ -1,0 +1,478 @@
+{
+ "intro_en": "You will learn to spot and discuss metaphors and similes in a poem, and to use the Mongolian comparison words мэт, шиг and адил. You will also practice the vocabulary of literary analysis for a seminar.",
+ "intro_mn": "Та шүлгээс зүйрлэл, харьцуулалтыг олж, семинарт хэлэлцэж сурна. Мөн мэт, шиг, адил гэсэн харьцуулах үгсийг хэрэглэх, англи хэлний metaphor ба simile-ийн ялгааг ойлгоно.",
+ "vocab": [
+  {
+   "mn": "зүйрлэл",
+   "en": "metaphor",
+   "pos": "noun",
+   "example_mn": "Энэ шүлгийн гол зүйрлэл нь «ээж – эх орон».",
+   "example_en": "The main metaphor of this poem is \"mother – homeland.\"",
+   "mn_latin": "züirlel"
+  },
+  {
+   "mn": "харьцуулалт",
+   "en": "simile, comparison",
+   "pos": "noun",
+   "example_mn": "Яруу найрагч харьцуулалтаар уулын агуу байдлыг харуулжээ.",
+   "example_en": "The poet showed the grandeur of the mountain through a simile.",
+   "mn_latin": "kharitsuulalt"
+  },
+  {
+   "mn": "дүр дүрслэл",
+   "en": "imagery",
+   "pos": "noun",
+   "example_mn": "Түүний шүлгийн дүр дүрслэл маш баялаг.",
+   "example_en": "The imagery of his poems is very rich.",
+   "mn_latin": "dür dürslel"
+  },
+  {
+   "mn": "хүнчлэл",
+   "en": "personification",
+   "pos": "noun",
+   "example_mn": "«Салхи шивнэнэ» гэдэг бол хүнчлэл юм.",
+   "example_en": "\"The wind whispers\" is personification.",
+   "mn_latin": "khünchlel"
+  },
+  {
+   "mn": "цуглуулга",
+   "en": "collection",
+   "pos": "noun",
+   "example_mn": "Тэр шинэ шүлгийн цуглуулга гаргалаа.",
+   "example_en": "She published a new collection of poems.",
+   "mn_latin": "tsugluulga"
+  },
+  {
+   "mn": "бэлгэдэл",
+   "en": "symbol",
+   "pos": "noun",
+   "example_mn": "Хөх тэнгэр бол мөнх байдлын бэлгэдэл.",
+   "example_en": "The blue sky is a symbol of eternity.",
+   "mn_latin": "belgedel"
+  },
+  {
+   "mn": "нар",
+   "en": "sun",
+   "pos": "noun",
+   "example_mn": "Шүлэгт нар нь итгэл найдварын бэлгэдэл болдог.",
+   "example_en": "In the poem, the sun is a symbol of hope.",
+   "mn_latin": "nar"
+  },
+  {
+   "mn": "хөх тэнгэр",
+   "en": "blue sky",
+   "pos": "noun",
+   "example_mn": "Монгол яруу найрагт хөх тэнгэр байнга гардаг.",
+   "example_en": "The blue sky appears constantly in Mongolian poetry.",
+   "mn_latin": "khökh tenger"
+  },
+  {
+   "mn": "задлан шинжлэх",
+   "en": "to analyze",
+   "pos": "verb",
+   "example_mn": "Бид семинарт энэ шүлгийг задлан шинжилнэ.",
+   "example_en": "We will analyze this poem in the seminar.",
+   "mn_latin": "zadlan shinjlekh"
+  },
+  {
+   "mn": "утга",
+   "en": "meaning",
+   "pos": "noun",
+   "example_mn": "Энэ мөрийн далд утга юу вэ?",
+   "example_en": "What is the hidden meaning of this line?",
+   "mn_latin": "utga"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ шүлэгт зүйрлэл олон байна.",
+   "en": "There are many metaphors in this poem.",
+   "alt_mn": [
+    "Энэ шүлэгт олон зүйрлэл бий."
+   ],
+   "alt_en": [
+    "This poem has many metaphors."
+   ],
+   "mn_latin": "Ene shülegt züirlel olon baina."
+  },
+  {
+   "mn": "Яруу найрагч нарыг алтан зоос мэт дүрсэлжээ.",
+   "en": "The poet described the sun as a golden coin.",
+   "alt_mn": [
+    "Яруу найрагч нарыг алтан зоос шиг дүрсэлсэн."
+   ],
+   "alt_en": [
+    "The poet portrayed the sun as being like a golden coin."
+   ],
+   "mn_latin": "Yaruu nairagch naryg altan zoos met dürseljee."
+  },
+  {
+   "mn": "Түүний хоолой сүүн цай шиг дулаахан.",
+   "en": "Her voice is warm like milk tea.",
+   "alt_mn": [
+    "Түүний хоолой сүүтэй цай шиг дулаахан."
+   ],
+   "alt_en": [
+    "Her voice is as warm as milk tea."
+   ],
+   "mn_latin": "Tüünii khooloi süün tsai shig dulaakhan."
+  },
+  {
+   "mn": "Хөх тэнгэр бол мөнх байдлын бэлгэдэл юм.",
+   "en": "The blue sky is a symbol of eternity.",
+   "alt_mn": [
+    "Хөх тэнгэр бол мөнхийн бэлгэдэл."
+   ],
+   "alt_en": [
+    "The blue sky is a symbol of the eternal."
+   ],
+   "mn_latin": "Khökh tenger bol mönkh baidlyn belgedel yum."
+  },
+  {
+   "mn": "«Ээж бол миний нар» гэдэг нь шууд зүйрлэл.",
+   "en": "\"Mother is my sun\" is a direct metaphor.",
+   "alt_mn": [
+    "«Ээж бол миний нар» гэдэг бол шууд зүйрлэл."
+   ],
+   "alt_en": [
+    "\"Mother is my sun\" is a straightforward metaphor."
+   ],
+   "mn_latin": "«Eej bol minii nar» gedeg ni shuud züirlel."
+  },
+  {
+   "mn": "Энэ харьцуулалтад «шиг» гэдэг үг орсон байна.",
+   "en": "The word \"шиг\" (like) is used in this simile.",
+   "alt_mn": [
+    "Энэ харьцуулалтад «шиг» гэсэн үг байна."
+   ],
+   "alt_en": [
+    "This simile contains the word \"шиг\" (like)."
+   ],
+   "mn_latin": "Ene kharitsuulaltad «shig» gedeg üg orson baina."
+  },
+  {
+   "mn": "«Салхи шивнэнэ» гэдэг нь хүнчлэл.",
+   "en": "\"The wind whispers\" is personification.",
+   "alt_mn": [
+    "«Салхи шивнэнэ» бол хүнчлэл."
+   ],
+   "alt_en": [
+    "\"The wind whispers\" is an example of personification."
+   ],
+   "mn_latin": "«Salkhi shivnene» gedeg ni khünchlel."
+  },
+  {
+   "mn": "Түүний цуглуулгад дүр дүрслэл маш баялаг байдаг.",
+   "en": "The imagery in his collection is very rich.",
+   "alt_mn": [
+    "Түүний цуглуулгын дүр дүрслэл их баялаг."
+   ],
+   "alt_en": [
+    "His collection has very rich imagery."
+   ],
+   "mn_latin": "Tüünii tsugluulgad dür dürslel mash bayalag baidag."
+  },
+  {
+   "mn": "Миний сэтгэл хавар мэт эрч хүчтэй байлаа.",
+   "en": "My heart was full of energy, like spring.",
+   "alt_mn": [
+    "Миний сэтгэл хавар шиг эрч хүчтэй байлаа."
+   ],
+   "alt_en": [
+    "My heart was as lively as spring."
+   ],
+   "mn_latin": "Minii setgel khavar met erch khüchtei bailaa."
+  },
+  {
+   "mn": "Энэ мөрийн далд утгыг хэн тайлбарлах вэ?",
+   "en": "Who will explain the hidden meaning of this line?",
+   "alt_mn": [
+    "Энэ мөрийн далд утгыг хэн тайлбарлаж өгөх вэ?"
+   ],
+   "alt_en": [
+    "Who will interpret the hidden meaning of this line?"
+   ],
+   "mn_latin": "Ene möriin dald utgyg khen tailbarlakh ve?"
+  },
+  {
+   "mn": "Уул аавын нуруутай адил найдвартай.",
+   "en": "The mountain is dependable, just like a father's back.",
+   "alt_mn": [
+    "Уул аавын нуруу шиг найдвартай."
+   ],
+   "alt_en": [
+    "The mountain is as dependable as a father's back."
+   ],
+   "mn_latin": "Uul aavyn nuruutai adil naidvartai."
+  },
+  {
+   "mn": "Бид семинарт энэ шүлгийн зүйрлэлийг задлан шинжилнэ.",
+   "en": "In the seminar we will analyze the metaphors of this poem.",
+   "alt_mn": [
+    "Семинарт бид энэ шүлгийн зүйрлэлийг задлан шинжилнэ."
+   ],
+   "alt_en": [
+    "We will analyze this poem's metaphors in the seminar."
+   ],
+   "mn_latin": "Bid syeminart ene shülgiin züirleliig zadlan shinjilne."
+  }
+ ],
+ "grammar": {
+  "title_en": "Similes with мэт, шиг, адил vs. direct metaphor",
+  "title_mn": "Мэт, шиг, адил харьцуулалт ба шууд зүйрлэл",
+  "explain_en": "A simile compares two things with a comparison word. In Mongolian the comparison word follows the thing being compared to: нар алтан зоос мэт (like a golden coin), нүд од шиг (like a star), ээж нартай адил (like the sun). Шиг is the most common in speech, and мэт is more literary. Адил normally follows a noun in the comitative case (-тай/-той/-тэй адил). A direct metaphor has no comparison word: Ээж бол миний нар (\"Mother is my sun\"), where бол/юм states identity. A metaphor says A is B; a simile says A is like B.",
+  "explain_mn": "Англи хэлэнд simile нь like эсвэл as ... as гэсэн үгээр харьцуулдаг: Her voice is like honey. Харин metaphor нь харьцуулах үггүй, шууд \"is\" ашиглан нэг зүйлийг нөгөө зүйл гэж нэрлэнэ: Her voice is honey. Монголоор «мэт, шиг, адил» нь like-тай таарна; «бол, юм» гэж шууд хэлбэл metaphor болно. Англи хэлэнд like нэр үгийн өмнө орно: like a star. as ... as нь зэрэгцүүлнэ: as bright as a star.",
+  "examples": [
+   {
+    "mn": "Түүний нүд од шиг гэрэлтэнэ.",
+    "en": "Her eyes shine like stars.",
+    "mn_latin": "Tüünii nüd od shig gereltene."
+   },
+   {
+    "mn": "Нар алтан зоос мэт харагдаж байв.",
+    "en": "The sun looked like a golden coin.",
+    "mn_latin": "Nar altan zoos met kharagdaj baiv."
+   },
+   {
+    "mn": "Тэр хүн үнэгтэй адил зальтай.",
+    "en": "That man is as cunning as a fox.",
+    "mn_latin": "Ter khün ünegtei adil zalitai."
+   },
+   {
+    "mn": "Ээж бол миний нар.",
+    "en": "Mother is my sun.",
+    "mn_latin": "Eej bol minii nar."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Түүний нүд од ___ гэрэлтэнэ.",
+   "answer": "шиг",
+   "options": [
+    "шиг",
+    "бол",
+    "руу",
+    "дээр"
+   ],
+   "translation": "Her eyes shine like stars.",
+   "explain_en": "Шиг means \"like\" and follows the noun it compares to. Бол would make a direct metaphor, not a simile.",
+   "explain_mn": "«Шиг» нь харьцуулах үг бөгөөд нэр үгийн ард орно. «Бол» нь шууд зүйрлэл болгоно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хөх тэнгэр ___ мөнхийн бэлгэдэл.",
+   "answer": "бол",
+   "options": [
+    "бол",
+    "шиг",
+    "руу",
+    "дээр"
+   ],
+   "translation": "The blue sky is a symbol of eternity.",
+   "explain_en": "There is no comparison word here; бол states identity, like English \"is\".",
+   "explain_mn": "Энд харьцуулах үг байхгүй, «бол» нь англи «is»-тэй адил тодорхойлно."
+  },
+  {
+   "lang": "mn",
+   "text": "Нар алтан зоос ___ гэрэлтэв.",
+   "answer": "мэт",
+   "options": [
+    "мэт",
+    "бол",
+    "руу",
+    "дээр"
+   ],
+   "translation": "The sun shone like a golden coin.",
+   "explain_en": "Мэт is a literary comparison word, equal to \"like\".",
+   "explain_mn": "«Мэт» нь уран зохиолын харьцуулах үг, «like»-тэй тэнцүү."
+  },
+  {
+   "lang": "en",
+   "text": "Her voice is ___ honey. (metaphor, no comparison word)",
+   "answer": "(nothing)",
+   "options": [
+    "(nothing)",
+    "like",
+    "as",
+    "than"
+   ],
+   "translation": "Түүний хоолой бол зөгийн бал.",
+   "explain_en": "A metaphor says A is B directly: \"Her voice is honey.\" Adding \"like\" would make it a simile.",
+   "explain_mn": "Metaphor нь «is»-ээр шууд хэлнэ: Her voice is honey. «Like» нэмбэл simile болно."
+  },
+  {
+   "lang": "en",
+   "text": "The mountain is ___ steady as a father.",
+   "answer": "as",
+   "options": [
+    "as",
+    "like",
+    "than",
+    "so"
+   ],
+   "translation": "Уул аав шиг тогтвортой.",
+   "explain_en": "The pattern \"as ... as\" makes a simile: as steady as a father.",
+   "explain_mn": "«as ... as» бүтэц нь simile үүсгэнэ: as steady as."
+  },
+  {
+   "lang": "en",
+   "text": "The sun looked ___ a golden coin.",
+   "answer": "like",
+   "options": [
+    "like",
+    "as",
+    "than",
+    "that"
+   ],
+   "translation": "Нар алтан зоос шиг харагдав.",
+   "explain_en": "After \"looked\" and before a noun phrase, \"like\" introduces the simile.",
+   "explain_mn": "«looked» болон нэрийн өмнө «like» орж simile үүсгэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Энэ шүлгийн гол зүйрлэлийг та хэрхэн ойлгосон бэ?",
+   "en": "How did you understand the main metaphor of this poem?",
+   "mn_latin": "Ene shülgiin gol züirleliig ta kherkhen oilgoson be?"
+  },
+  {
+   "speaker": "James",
+   "mn": "Яруу найрагч эх орныг ээж гэж дүрсэлсэн гэж бодсон.",
+   "en": "I thought the poet portrayed the homeland as a mother.",
+   "mn_latin": "Yaruu nairagch ekh ornyg eej gej dürselsen gej bodson."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тийм ээ. «Шиг» гэдэг үг байхгүй учраас энэ нь шууд зүйрлэл.",
+   "en": "Yes. There is no word \"шиг\", so it is a direct metaphor.",
+   "mn_latin": "Tiim ee. «Shig» gedeg üg baikhgüi uchraas ene ni shuud züirlel."
+  },
+  {
+   "speaker": "James",
+   "mn": "Харин хоёр дахь бадагт нар алтан зоос мэт гэсэн харьцуулалт байна.",
+   "en": "But in the second stanza there is a simile: the sun like a golden coin.",
+   "mn_latin": "Kharin khoyor dakhi badagt nar altan zoos met gesen kharitsuulalt baina."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Зөв. Нар энд итгэл найдварын бэлгэдэл болж байна.",
+   "en": "Right. Here the sun becomes a symbol of hope.",
+   "mn_latin": "Zöv. Nar end itgel naidvaryn belgedel bolj baina."
+  },
+  {
+   "speaker": "James",
+   "mn": "«Салхи шивнэнэ» гэдэг нь хүнчлэл үү?",
+   "en": "Is \"the wind whispers\" personification?",
+   "mn_latin": "«Salkhi shivnene» gedeg ni khünchlel üü?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Яг тийм. Дүр дүрслэл нь маш баялаг юм.",
+   "en": "Exactly. The imagery is very rich.",
+   "mn_latin": "Yag tiim. Dür dürslel ni mash bayalag yum."
+  },
+  {
+   "speaker": "James",
+   "mn": "Би үүнийг семинарт танилцуулъя.",
+   "en": "I will present this in the seminar.",
+   "mn_latin": "Bi üüniig syeminart taniltsuulya."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian poetry draws heavily on nature symbols: the blue sky (хөх тэнгэр) stands for eternity and the sacred, mountains for strength and protection, and the sun and horse for freedom and hope. Poets such as Natsagdorj used such images to express love for the homeland. When analyzing a poem, Mongolian students often ask what a natural image means in the nomadic worldview.",
+  "mn": "Монгол яруу найрагт байгалийн бэлгэдэл их тохиолддог: хөх тэнгэр нь мөнх ба ариун байдлыг, уул нь хүч чадал, хамгаалалтыг, нар ба морь нь эрх чөлөө, итгэл найдварыг илэрхийлдэг. Нацагдорж зэрэг яруу найрагчид эх орны хайрыг ийм дүр дүрслэлээр хүргэсэн. Шүлгийг задлан шинжлэхдээ оюутнууд байгалийн дүр нь нүүдэлчин ертөнцийн үзэлд ямар утгатай вэ гэдгийг ихэвчлэн асуудаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 18,
+  "notes": "Mostly good, but the term for personification is wrong (should be хүнчлэл), and a few ungrammatical or awkward items need fixing."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 13,
+  "notes": "Main issues: адил used without the comitative, мэт written as a suffix, a duplicate alternative, an unnatural wolf/cunning pairing, and illogical \"but\" in the dialogue.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "мэт is a separate postposition, not a suffix"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "мэт is written as a separate word"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "адил takes the comitative case in standard Khalkha"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "мэт is not a suffix"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "мэт is not a suffix"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "адил requires the comitative; мэт is a separate word; the example was ungrammatical"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "needs the comitative with адил; in Mongolian the fox, not the wolf, is the symbol of cunning"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "en",
+    "why": "matches the corrected Mongolian and the natural English idiom"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "мэт is not a suffix"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "\"but\" contradicted the agreement; the logic is causal"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "matches the corrected Mongolian"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "a definite object needs the accusative: шүлгийг"
+   }
+  ]
+ }
+}

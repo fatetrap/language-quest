@@ -1,0 +1,412 @@
+{
+ "intro_en": "You will learn how to talk about who pays, who votes, and who is exempt in a building or district. You will also practice saying 'except' and 'apart from' in both languages.",
+ "intro_mn": "Та байр, хорооллын хэмжээнд хэн төлбөр төлөх, хэн санал өгөх, хэн чөлөөлөгдөхийг ярьж сурна. Мөн \"-аас өөр\" гэсэн хасах утгыг англи, монгол хэлээр хэрхэн хэлэхийг дадлагажна.",
+ "vocab": [
+  {
+   "mn": "оршин суугч",
+   "en": "resident",
+   "pos": "noun",
+   "example_mn": "Манай байрны оршин суугчид маргааш хуралдана.",
+   "example_en": "The residents of our building will meet tomorrow.",
+   "mn_latin": "orshin suugch"
+  },
+  {
+   "mn": "түрээслэгч",
+   "en": "tenant",
+   "pos": "noun",
+   "example_mn": "Түрээслэгч сар бүр түрээсийн төлбөрөө төлдөг.",
+   "example_en": "The tenant pays rent every month.",
+   "mn_latin": "türeeslegch"
+  },
+  {
+   "mn": "эзэмшигч",
+   "en": "owner",
+   "pos": "noun",
+   "example_mn": "Байрны эзэмшигч засварын зардлыг хуваана.",
+   "example_en": "The owner of the apartment shares the repair costs.",
+   "mn_latin": "ezemshigch"
+  },
+  {
+   "mn": "чөлөөлөгдөх",
+   "en": "to be exempted",
+   "pos": "verb",
+   "example_mn": "Тэтгэвэрт гарсан хүмүүс энэ хураамжаас чөлөөлөгдөнө.",
+   "example_en": "Retired people are exempt from this fee.",
+   "mn_latin": "chölöölögdökh"
+  },
+  {
+   "mn": "үл хамаарах",
+   "en": "to not apply to",
+   "pos": "verb",
+   "example_mn": "Энэ дүрэм зочдод үл хамаарна.",
+   "example_en": "This rule does not apply to guests.",
+   "mn_latin": "ül khamaarakh"
+  },
+  {
+   "mn": "санал өгөх",
+   "en": "to vote",
+   "pos": "verb",
+   "example_mn": "Хуралд оролцсон бүх хүн санал өгч болно.",
+   "example_en": "Everyone who attends the meeting can vote.",
+   "mn_latin": "sanal ögökh"
+  },
+  {
+   "mn": "хураамж",
+   "en": "fee",
+   "pos": "noun",
+   "example_mn": "Цэвэрлэгээний хураамж сард таван мянган төгрөг.",
+   "example_en": "The cleaning fee is five thousand tugriks a month.",
+   "mn_latin": "khuraamj"
+  },
+  {
+   "mn": "төлөх",
+   "en": "to pay",
+   "pos": "verb",
+   "example_mn": "Бид лифтийн засварын мөнгийг хамтдаа төлнө.",
+   "example_en": "We will pay for the elevator repair together.",
+   "mn_latin": "tölökh"
+  },
+  {
+   "mn": "эрх",
+   "en": "right",
+   "pos": "noun",
+   "example_mn": "Түрээслэгч нар санал өгөх эрхгүй.",
+   "example_en": "Tenants do not have the right to vote.",
+   "mn_latin": "erkh"
+  },
+  {
+   "mn": "хасагдах",
+   "en": "to be excluded",
+   "pos": "verb",
+   "example_mn": "Өр төлөөгүй айл жагсаалтаас хасагдсан.",
+   "example_en": "The household that did not pay its debt was removed from the list.",
+   "mn_latin": "khasagdakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Түрээслэгчээс өөр бүх оршин суугч санал өгнө.",
+   "en": "All residents except tenants will vote.",
+   "alt_mn": [
+    "Түрээслэгчдээс бусад бүх оршин суугч санал өгнө."
+   ],
+   "alt_en": [
+    "All residents apart from tenants will vote.",
+    "All residents other than tenants will vote."
+   ],
+   "mn_latin": "Türeeslegchees öör bükh orshin suugch sanal ögnö."
+  },
+  {
+   "mn": "Эзэмшигчээс өөр хэн ч энэ шийдвэрт санал өгөхгүй.",
+   "en": "No one other than the owners will vote on this decision.",
+   "alt_mn": [],
+   "alt_en": [
+    "Nobody except the owners will vote on this decision."
+   ],
+   "mn_latin": "Ezemshigchees öör khen ch ene shiidvert sanal ögökhgüi."
+  },
+  {
+   "mn": "Тэтгэвэрт гарсан хүмүүс хураамжаас чөлөөлөгдөнө.",
+   "en": "Retired people are exempt from the fee.",
+   "alt_mn": [],
+   "alt_en": [
+    "Retired people will be exempted from the fee."
+   ],
+   "mn_latin": "Tetgevert garsan khümüüs khuraamjaas chölöölögdönö."
+  },
+  {
+   "mn": "Энэ дүрэм зочдод үл хамаарна.",
+   "en": "This rule does not apply to guests.",
+   "alt_mn": [
+    "Энэ дүрэм зочдод хамаарахгүй."
+   ],
+   "alt_en": [
+    "This rule doesn't apply to guests."
+   ],
+   "mn_latin": "Ene dürem zochdod ül khamaarna."
+  },
+  {
+   "mn": "Нэг айлаас бусад нь бүгд төлбөрөө төлсөн.",
+   "en": "All but one household have paid.",
+   "alt_mn": [
+    "Нэг айлаас бусад бүх айл төлбөрөө төлсөн."
+   ],
+   "alt_en": [
+    "Everyone apart from one household has paid.",
+    "All except one household have paid."
+   ],
+   "mn_latin": "Neg ailaas busad ni bügd tölböröö tölsön."
+  },
+  {
+   "mn": "Манай орцонд түрээслэгчээс өөр оршин суугч байхгүй.",
+   "en": "There are no residents in our entrance other than tenants.",
+   "alt_mn": [],
+   "alt_en": [
+    "In our entrance, there are no residents apart from tenants."
+   ],
+   "mn_latin": "Manai ortsond türeeslegchees öör orshin suugch baikhgüi."
+  },
+  {
+   "mn": "Нэг хүнээс бусад хэн ч хураамжаас чөлөөлөгдөөгүй.",
+   "en": "No one has been exempted from the fee except one person.",
+   "alt_mn": [],
+   "alt_en": [
+    "Nobody apart from one person has been exempted from the fee."
+   ],
+   "mn_latin": "Neg khünees busad khen ch khuraamjaas chölöölögdöögüi."
+  },
+  {
+   "mn": "Өвчтэй өвгөнөөс бусад бүх эзэмшигч төлөх ёстой.",
+   "en": "All owners must pay, apart from the sick old man.",
+   "alt_mn": [],
+   "alt_en": [
+    "All owners must pay except the sick old man."
+   ],
+   "mn_latin": "Övchtei övgönöös busad bükh ezemshigch tölökh yostoi."
+  },
+  {
+   "mn": "Хорооны хуралд оршин суугчаас өөр хүн санал өгөх эрхгүй.",
+   "en": "No one other than residents has the right to vote at the khoroo meeting.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Khoroony khurald orshin suugchaas öör khün sanal ögökh erkhgüi."
+  },
+  {
+   "mn": "Би хураамжаас чөлөөлөгдөх эсэхээ мэдэхгүй байна.",
+   "en": "I don't know whether I am exempt from the fee.",
+   "alt_mn": [],
+   "alt_en": [
+    "I don't know if I will be exempted from the fee."
+   ],
+   "mn_latin": "Bi khuraamjaas chölöölögdökh esekhee medekhgüi baina."
+  },
+  {
+   "mn": "Түрээслэгчид бусдаас өөр нөхцөлтэй гэрээ байгуулсан.",
+   "en": "The tenants signed a contract with different terms from the others.",
+   "alt_mn": [],
+   "alt_en": [
+    "The tenants signed a contract on different terms from everyone else's."
+   ],
+   "mn_latin": "Türeeslegchid busdaas öör nökhtsöltei geree baiguulsan."
+  },
+  {
+   "mn": "Өр төлөөгүй айлаас өөр хэнийг ч жагсаалтаас хасаагүй.",
+   "en": "No one was removed from the list except the household that did not pay its debt.",
+   "alt_mn": [],
+   "alt_en": [
+    "Nobody apart from the household with unpaid debt was removed from the list."
+   ],
+   "mn_latin": "Ör tölöögüi ailaas öör kheniig ch jagsaaltaas khasaagüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Excluding with -аас өөр (except / apart from / all but)",
+  "title_mn": "Англи хэлний except / apart from / all but",
+  "explain_en": "In Mongolian, add the ablative ending -аас/-ээс/-оос/-өөс (following vowel harmony) to a noun and put өөр after it: түрээслэгчээс өөр = 'other than tenants'. You can use бусад as a near synonym: түрээслэгчээс бусад. With a negative verb it means 'no one except': Эзэмшигчээс өөр хэн ч санал өгөхгүй. Don't confuse this өөр with 'different' (өөр нөхцөл = a different condition).",
+  "explain_mn": "Монгол хэлэнд \"-аас өөр\" буюу \"-аас бусад\" гэсэн хасах утгыг англи хэлэнд except, apart from, other than, all but гэж илэрхийлнэ. All but one = нэгээс бусад бүгд. Except ба apart from нь өгүүлбэрийн эхэнд ч, дунд ч орж болно. No one except / none but = \"…-аас өөр хэн ч үгүй\" гэсэн утгатай. \"None\" ганцаараа \"нэг ч үгүй\" гэсэн утгатай: None of the tenants voted.",
+  "examples": [
+   {
+    "mn": "Түрээслэгчээс өөр бүгд төлсөн.",
+    "en": "Everyone except the tenants paid.",
+    "mn_latin": "Türeeslegchees öör bügd tölsön."
+   },
+   {
+    "mn": "Нэг айлаас бусад нь санал өгсөн.",
+    "en": "All but one household voted.",
+    "mn_latin": "Neg ailaas busad ni sanal ögsön."
+   },
+   {
+    "mn": "Эзэмшигчээс өөр хэн ч шийдэхгүй.",
+    "en": "No one apart from the owners will decide.",
+    "mn_latin": "Ezemshigchees öör khen ch shiidekhgüi."
+   },
+   {
+    "mn": "Түрээслэгчдийн хэн нь ч санал өгөөгүй.",
+    "en": "None of the tenants voted.",
+    "mn_latin": "Türeeslegchdiin khen ni ch sanal ögöögüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Түрээслэгч___ өөр бүх оршин суугч төлнө.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "аас",
+    "д",
+    "ийг"
+   ],
+   "translation": "All residents except tenants will pay.",
+   "explain_en": "'Other than' needs the ablative ending. Түрээслэгч has front vowels, so it takes -ээс.",
+   "explain_mn": "\"-аас өөр\" бүтцэд гарах тийн ялгалын нөхцөл орно. Түрээслэгч гэдэг үг эм үг тул эгшиг зохицох ёсоор -ээс залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Эзэмшигч___ өөр хэн ч санал өгөхгүй.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "аас",
+    "тэй",
+    "ийн"
+   ],
+   "translation": "No one other than the owner will vote.",
+   "explain_en": "Эзэмшигч takes -ээс by vowel harmony, followed by өөр; the negative verb gives 'no one'.",
+   "explain_mn": "Эзэмшигч үгэнд -ээс залгаж, дараа нь өөр гэж бичнэ. Үйл үг үгүйсгэлтэй тул \"хэн ч\" гэсэн утга гарна."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ дүрэм зочдод ___.",
+   "answer": "үл хамаарна",
+   "options": [
+    "үл хамаарна",
+    "чөлөөлөгдөнө",
+    "төлнө",
+    "хасагдана"
+   ],
+   "translation": "This rule does not apply to guests.",
+   "explain_en": "'Үл хамаарах' means 'not to apply to' and goes with the dative (зочдод).",
+   "explain_mn": "\"Үл хамаарах\" нь өгөх орших тийн ялгалтай (зочдод) хэрэглэгдэж, \"хамаарахгүй\" гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "All residents ___ tenants will vote.",
+   "answer": "except",
+   "options": [
+    "except",
+    "none",
+    "besides of",
+    "unless"
+   ],
+   "translation": "Түрээслэгчээс өөр бүх оршин суугч санал өгнө.",
+   "explain_en": "'Except' introduces the excluded group. 'None' cannot do this.",
+   "explain_mn": "Except нь хасагдсан бүлгийг оруулна. None нь ингэж хэрэглэгдэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "___ of the tenants paid the new fee.",
+   "answer": "None",
+   "options": [
+    "None",
+    "All but",
+    "Except",
+    "Apart"
+   ],
+   "translation": "Түрээслэгчдийн хэн нь ч шинэ хураамжийг төлөөгүй.",
+   "explain_en": "'None of' means zero people from a group and takes a group noun after it.",
+   "explain_mn": "None of + бүлэг нэр нь тэр бүлгээс нэг ч хүн гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "All ___ one household have paid.",
+   "answer": "but",
+   "options": [
+    "but",
+    "except of",
+    "none",
+    "without"
+   ],
+   "translation": "Нэг айлаас бусад нь бүгд төлсөн.",
+   "explain_en": "'All but' means 'all except'. It is a fixed phrase.",
+   "explain_mn": "All but нь \"…-аас бусад бүгд\" гэсэн тогтвортой хэллэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Маргаашийн хуралд хэн санал өгөх вэ?",
+   "en": "Who will vote at tomorrow's meeting?",
+   "mn_latin": "Margaashiin khurald khen sanal ögökh ve?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Түрээслэгчээс өөр бүх оршин суугч санал өгнө.",
+   "en": "All residents except tenants will vote.",
+   "mn_latin": "Türeeslegchees öör bükh orshin suugch sanal ögnö."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би түрээслэгч. Тэгвэл би эрхгүй юм уу?",
+   "en": "I'm a tenant. So I don't have the right?",
+   "mn_latin": "Bi türeeslegch. Tegvel bi erkhgüi yum uu?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тийм, гэхдээ чи хураамж төлөх ёстой.",
+   "en": "Right, but you still have to pay the fee.",
+   "mn_latin": "Tiim, gekhdee chi khuraamj tölökh yostoi."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Хэн чөлөөлөгдөх вэ?",
+   "en": "Who is exempt?",
+   "mn_latin": "Khen chölöölögdökh ve?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тэтгэвэрт гарсан хүмүүс. Бусдад энэ чөлөөлөлт хамаарахгүй.",
+   "en": "Retired people. It does not apply to others.",
+   "mn_latin": "Tetgevert garsan khümüüs. Busdad ene chölöölölt khamaarakhgüi."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Ойлголоо. Нэг айлаас бусад нь төлсөн гэж сонссон.",
+   "en": "I see. I heard that all but one household has paid.",
+   "mn_latin": "Oilgoloo. Neg ailaas busad ni tölsön gej sonsson."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тийм ээ, тэр айлаас бусад хэн ч өргүй.",
+   "en": "Yes, nobody other than that household is in debt.",
+   "mn_latin": "Tiim ee, ter ailaas busad khen ch örgüi."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar apartment buildings, an owners' association (СӨХ) usually makes decisions about repairs, elevators, and cleaning, and voting rights often belong to owners rather than tenants. In ger districts, decisions are more often made at the khoroo level, where all registered residents can take part. Rules about fee exemptions for pensioners or low-income families can differ between districts, so it is worth asking at your khoroo office.",
+  "mn": "Улаанбаатарын орон сууцанд засвар, лифт, цэвэрлэгээний асуудлыг ихэвчлэн Сууц өмчлөгчдийн холбоо (СӨХ) шийддэг бөгөөд санал өгөх эрх нь ихэнхдээ түрээслэгчдэд бус эзэмшигчдэд байдаг. Гэр хороололд шийдвэрийг хорооны түвшинд гаргах нь элбэг бөгөөд бүртгэлтэй оршин суугч бүр оролцож болно. Тэтгэвэрт гарсан болон орлого багатай айлын хураамжийн чөлөөлөлт дүүрэг бүрт өөр байж болох тул хорооны албанаас лавлах нь зүйтэй."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 21,
+  "notes": "Content is useful but the Mongolian renders 'except' with өөр in unnatural places (бусад is more natural), and several explanations and some pairs have inaccuracies."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 5,
+  "notes": "The lesson is mostly sound. The main errors were the association's name, a duplicate alternative, the vowel-harmony explanation, and a mistranslation of сонссон.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "It wrongly said 'эр, эм хоолойтой'. The word is эм. Also the standard term is гарах тийн ялгал"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "сонссон means 'I heard', not 'they said'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "The correct abbreviation is СӨХ, not ӨСИ"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Corrected the association's name and abbreviation. Restored 'often' and the details so it matches the English"
+   }
+  ]
+ }
+}

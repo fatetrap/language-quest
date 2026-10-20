@@ -1,0 +1,419 @@
+{
+ "intro_en": "Learn how ads use testimonials and customer reviews to win trust, with key credibility words like баталгаа, үр дүн, сэтгэгдэл and итгэл. You'll also practice Mongolian emphatic particles (шүү, л, үнэхээр, яг) and English emphatic do/does/did (It does work!).",
+ "intro_mn": "Сурталчилгаанд хэрэглэгчдийн сэтгэгдэл, гэрчлэлийг ашиглан итгэл төрүүлдэг аргыг баталгаа, үр дүн, сэтгэгдэл, итгэл зэрэг үгсээр дамжуулан судална. Мөн монгол хэлний онцлох сул үг, үгс (шүү, л, үнэхээр, яг) болон англи хэлний онцолсон do/does/did (It does work!) хэлбэрийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "баталгаа",
+   "en": "guarantee",
+   "pos": "noun",
+   "example_mn": "Энэ бүтээгдэхүүн нэг жилийн баталгаатай.",
+   "example_en": "This product comes with a one-year guarantee.",
+   "mn_latin": "batalgaa"
+  },
+  {
+   "mn": "үр дүн",
+   "en": "result",
+   "pos": "noun",
+   "example_mn": "Хоёр долоо хоногийн дараа үр дүн нь харагдсан.",
+   "example_en": "The results showed after two weeks.",
+   "mn_latin": "ür dün"
+  },
+  {
+   "mn": "сэтгэгдэл",
+   "en": "review, comment, impression",
+   "pos": "noun",
+   "example_mn": "Худалдаж авахаасаа өмнө хэрэглэгчдийн сэтгэгдлийг уншаарай.",
+   "example_en": "Read customer reviews before you buy.",
+   "mn_latin": "setgegdel"
+  },
+  {
+   "mn": "итгэл",
+   "en": "trust",
+   "pos": "noun",
+   "example_mn": "Хуурамч сэтгэгдэл хэрэглэгчийн итгэлийг алдагдуулдаг.",
+   "example_en": "Fake reviews undermine customer trust.",
+   "mn_latin": "itgel"
+  },
+  {
+   "mn": "итгэл үнэмшилтэй",
+   "en": "convincing, credible",
+   "pos": "adjective",
+   "example_mn": "Түүний яриа их итгэл үнэмшилтэй сонсогдсон.",
+   "example_en": "Her story sounded very convincing.",
+   "mn_latin": "itgel ünemshiltei"
+  },
+  {
+   "mn": "туршиж үзэх",
+   "en": "to try out",
+   "pos": "verb",
+   "example_mn": "Би энэ тосыг нэг сар туршиж үзсэн.",
+   "example_en": "I tried out this cream for a month.",
+   "mn_latin": "turshij üzekh"
+  },
+  {
+   "mn": "сэтгэл ханамж",
+   "en": "satisfaction",
+   "pos": "noun",
+   "example_mn": "Хэрэглэгчдийн сэтгэл ханамж өндөр байна.",
+   "example_en": "Customer satisfaction is high.",
+   "mn_latin": "setgel khanamj"
+  },
+  {
+   "mn": "санал болгох",
+   "en": "to recommend",
+   "pos": "verb",
+   "example_mn": "Би энэ эмнэлгийг найзууддаа санал болгодог.",
+   "example_en": "I recommend this clinic to my friends.",
+   "mn_latin": "sanal bolgokh"
+  },
+  {
+   "mn": "хэрэглэгч",
+   "en": "customer, user",
+   "pos": "noun",
+   "example_mn": "Олон хэрэглэгч таван од өгсөн байна.",
+   "example_en": "Many customers gave it five stars.",
+   "mn_latin": "khereglegch"
+  },
+  {
+   "mn": "хуурамч",
+   "en": "fake",
+   "pos": "adjective",
+   "example_mn": "Зарим сэтгэгдэл хуурамч байж магадгүй.",
+   "example_en": "Some reviews may be fake.",
+   "mn_latin": "khuuramch"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ тос үнэхээр үр дүнтэй шүү.",
+   "en": "This cream really does work.",
+   "alt_mn": [
+    "Энэ тос үнэхээр үр дүнгээ өгдөг шүү."
+   ],
+   "alt_en": [
+    "This cream really works.",
+    "This cream does work."
+   ],
+   "mn_latin": "Ene tos ünekheer ür düntei shüü."
+  },
+  {
+   "mn": "Би үнэхээр туршиж үзсэн, үр дүнгээ өгсөн шүү.",
+   "en": "I really did try it, and it did get results.",
+   "alt_mn": [
+    "Би туршиж үзсэн шүү, үнэхээр үр дүнтэй байсан."
+   ],
+   "alt_en": [
+    "I did try it, and it really worked."
+   ],
+   "mn_latin": "Bi ünekheer turshij üzsen, ür düngee ögsön shüü."
+  },
+  {
+   "mn": "Яг энэ шампунь л миний үс унахыг зогсоосон.",
+   "en": "This exact shampoo is the one that stopped my hair loss.",
+   "alt_mn": [
+    "Миний үс унахыг яг энэ шампунь л зогсоосон."
+   ],
+   "alt_en": [
+    "It was this very shampoo that stopped my hair loss."
+   ],
+   "mn_latin": "Yag ene shampuni l minii üs unakhyg zogsooson."
+  },
+  {
+   "mn": "Би эхэндээ итгээгүй, гэхдээ үнэхээр тусалсан.",
+   "en": "I didn't believe it at first, but it did help.",
+   "alt_mn": [
+    "Эхэндээ би итгээгүй ч үнэхээр тусалсан."
+   ],
+   "alt_en": [
+    "At first I didn't believe it, but it really helped."
+   ],
+   "mn_latin": "Bi ekhendee itgeegüi, gekhdee ünekheer tusalsan."
+  },
+  {
+   "mn": "Хэрэглэгчдийн сэтгэгдэл л хамгийн сайн сурталчилгаа юм.",
+   "en": "Customer reviews are the best advertising there is.",
+   "alt_mn": [
+    "Хамгийн сайн сурталчилгаа бол хэрэглэгчдийн сэтгэгдэл."
+   ],
+   "alt_en": [
+    "Customer reviews are the best advertising."
+   ],
+   "mn_latin": "Khereglegchdiin setgegdel l khamgiin sain surtalchilgaa yum."
+  },
+  {
+   "mn": "Мөнгө буцаан олгох баталгаатай шүү.",
+   "en": "It does come with a money-back guarantee.",
+   "alt_mn": [
+    "Мөнгө буцааж өгөх баталгаатай шүү."
+   ],
+   "alt_en": [
+    "It comes with a money-back guarantee, you know."
+   ],
+   "mn_latin": "Möngö butsaan olgokh batalgaatai shüü."
+  },
+  {
+   "mn": "Хуурамч сэтгэгдэл брэндэд итгэх итгэлийг сулруулдаг.",
+   "en": "Fake reviews undermine trust in a brand.",
+   "alt_mn": [
+    "Хуурамч сэтгэгдэл брэндийн итгэлийг алдагдуулдаг."
+   ],
+   "alt_en": [
+    "Fake reviews weaken trust in a brand."
+   ],
+   "mn_latin": "Khuuramch setgegdel brended itgekh itgeliig sulruuldag."
+  },
+  {
+   "mn": "Энэ бол яг миний хайж байсан зүйл.",
+   "en": "This is exactly what I was looking for.",
+   "alt_mn": [
+    "Яг миний хайж байсан юм энэ байна."
+   ],
+   "alt_en": [
+    "This is just what I was looking for."
+   ],
+   "mn_latin": "Ene bol yag minii khaij baisan züil."
+  },
+  {
+   "mn": "Үүнийг танд үнэхээр санал болгож байна.",
+   "en": "I really do recommend it to you.",
+   "alt_mn": [
+    "Би үүнийг танд үнэхээр санал болгож байна шүү."
+   ],
+   "alt_en": [
+    "I do recommend it to you."
+   ],
+   "mn_latin": "Üüniig tand ünekheer sanal bolgoj baina."
+  },
+  {
+   "mn": "Тэр зар яг л жинхэнэ хэрэглэгч ярьж байгаа юм шиг санагдсан.",
+   "en": "That ad felt just like a real customer talking.",
+   "alt_mn": [
+    "Тэр зар яг л жинхэнэ хэрэглэгчийн яриа шиг санагдсан."
+   ],
+   "alt_en": [
+    "That ad felt exactly like a real customer was speaking."
+   ],
+   "mn_latin": "Ter zar yag l jinkhene khereglegch yarij baigaa yum shig sanagdsan."
+  },
+  {
+   "mn": "Сэтгэгдлүүд итгэл үнэмшилтэй байсан ч бид үр дүнг нь өөрсдөө шалгах хэрэгтэй.",
+   "en": "Even though the reviews were convincing, we need to check the results ourselves.",
+   "alt_mn": [
+    "Сэтгэгдлүүд итгэл үнэмшилтэй байсан ч үр дүнг нь өөрсдөө шалгах хэрэгтэй."
+   ],
+   "alt_en": [
+    "The reviews were convincing, but we still need to check the results ourselves."
+   ],
+   "mn_latin": "Setgegdlüüd itgel ünemshiltei baisan ch bid ür düng ni öörsdöö shalgakh kheregtei."
+  },
+  {
+   "mn": "Би сэтгэгдэл бичих бодолгүй байсан ч эцэст нь бичсэн.",
+   "en": "I wasn't going to write a review, but I did in the end.",
+   "alt_mn": [
+    "Би сэтгэгдэл бичихгүй гэж бодож байсан ч эцэст нь бичсэн."
+   ],
+   "alt_en": [
+    "I didn't plan to write a review, but in the end I did."
+   ],
+   "mn_latin": "Bi setgegdel bichikh bodolgüi baisan ch etsest ni bichsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Making it sound true: emphatic шүү, л, үнэхээр, яг",
+  "title_mn": "Онцолсон do / does / did: It does work!",
+  "explain_en": "Mongolian ads and testimonials lean on small emphatic words. Шүү goes at the very end of a sentence and means roughly \"I'm telling you\" or \"really!\". It adds conviction (Үр дүнтэй шүү! \"It does work!\"); шүү дээ is softer, like \"you know\". Л comes right after the word it highlights and means \"just, only, exactly this one\" (Энэ тос л тусалсан \"Only this cream helped\"). Үнэхээр (\"really, truly\") goes before the verb or adjective it strengthens. Яг (\"exactly, this very\") goes before a noun or phrase, and it often pairs with л: яг л ... шиг \"just like ...\". Using two of them together, as in Үнэхээр үр дүнтэй шүү!, is very typical of persuasive speech.",
+  "explain_mn": "Англи хэлэнд баталж хэлэх, эргэлзээг няцаах үед үндсэн үйл үгийн өмнө do / does / did оруулдаг. Энэ нь монгол хэлний \"үнэхээр\", \"шүү\"-тэй дүйцнэ: It does work! — Үнэхээр үр дүнтэй шүү! Үүний дараа үйл үг заавал үндсэн хэлбэрээр орно: It does work (It does works биш), I did try it (I did tried биш). Ярианд do/does/did-ийг өргөлттэй хэлдэг. Харин be үйл үгэнд do хэрэглэдэггүй, is/was-ийг өргөлттэй хэлнэ: It IS good. Ялангуяа \"but\"-ийн дараа эсрэгцүүлэхэд их хэрэглэгддэг: I didn't believe it, but it did help.",
+  "examples": [
+   {
+    "mn": "Үнэхээр үр дүнтэй шүү!",
+    "en": "It really does work!",
+    "mn_latin": "Ünekheer ür düntei shüü!"
+   },
+   {
+    "mn": "Би туршиж үзсэн шүү дээ!",
+    "en": "I did try it, you know!",
+    "mn_latin": "Bi turshij üzsen shüü dee!"
+   },
+   {
+    "mn": "Би яг энэ тосыг л хэрэглэдэг.",
+    "en": "This exact cream is the only one I use.",
+    "mn_latin": "Bi yag ene tosyg l kheregledeg."
+   },
+   {
+    "mn": "Та итгэхгүй байж магадгүй, гэхдээ энэ үнэхээр тусалдаг.",
+    "en": "You might not believe it, but it does help.",
+    "mn_latin": "Ta itgekhgüi baij magadgüi, gekhdee ene ünekheer tusaldag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ шампунь үнэхээр сайн ___!",
+   "answer": "шүү",
+   "options": [
+    "шүү",
+    "л",
+    "яг",
+    "уу"
+   ],
+   "translation": "This shampoo really is good!",
+   "explain_en": "Шүү goes at the end of a statement to add conviction (\"I'm telling you!\"). Л must follow the word it highlights, яг comes before a word, and уу turns the sentence into a question.",
+   "explain_mn": "Өгүүлбэрийн төгсгөлд баталж, итгүүлэх өнгө өгөх сул үг бол \"шүү\". \"Уу\" бол асуух сул үг."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ бол ___ миний хайж байсан зүйл.",
+   "answer": "яг",
+   "options": [
+    "яг",
+    "шүү",
+    "л",
+    "үү"
+   ],
+   "translation": "This is exactly what I was looking for.",
+   "explain_en": "Яг (\"exactly\") comes before the phrase it points to. Шүү belongs at the end of the sentence, л must follow the word it highlights, and үү turns a sentence into a question.",
+   "explain_mn": "\"Яг\" нь нэр үг, хэллэгийн өмнө орж \"чухам, нарийн\" гэсэн утгыг онцолно. Англиар \"exactly\"."
+  },
+  {
+   "lang": "mn",
+   "text": "Би энэ эмийг гурван хоног ___ уусан, тэгээд эдгэрсэн.",
+   "answer": "л",
+   "options": [
+    "л",
+    "шүү",
+    "яг",
+    "үү"
+   ],
+   "translation": "I only took this medicine for three days, and I got better.",
+   "explain_en": "Л comes right after the word it highlights (гурван хоног л = \"only three days\"), stressing how little it took. Шүү would have to go at the very end of the sentence.",
+   "explain_mn": "\"Л\" нь онцлох үгийнхээ ард орж \"ердөө, зөвхөн\" гэсэн утга өгнө. Англиар \"only\"."
+  },
+  {
+   "lang": "en",
+   "text": "I didn't expect much, but in the end it ___ work.",
+   "answer": "did",
+   "options": [
+    "did",
+    "does",
+    "do",
+    "is"
+   ],
+   "translation": "Би их юм хүлээгээгүй, гэхдээ эцэст нь үнэхээр үр дүнгээ өгсөн.",
+   "explain_en": "The story is in the past (didn't expect), so emphatic past did + base verb is used: it did work.",
+   "explain_mn": "Өгүүлбэр өнгөрсөн цагт байгаа тул онцолсон \"did\" + үйл үгийн үндсэн хэлбэр (work) орно."
+  },
+  {
+   "lang": "en",
+   "text": "My sister ___ use this cream every day, and her skin looks great.",
+   "answer": "does",
+   "options": [
+    "does",
+    "do",
+    "did",
+    "is"
+   ],
+   "translation": "Эгч маань энэ тосыг үнэхээр өдөр бүр хэрэглэдэг, арьс нь их сайхан харагддаг.",
+   "explain_en": "For a present habit with he/she/it, the emphatic form is does + base verb: she does use.",
+   "explain_mn": "Одоо цагийн давтагддаг үйлд гуравдагч биеийн ганц тоо (she) байгаа тул \"does\" орно. Ард нь \"use\" -s-гүй үлдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "These reviews do ___ convincing.",
+   "answer": "sound",
+   "options": [
+    "sound",
+    "sounds",
+    "sounded",
+    "sounding"
+   ],
+   "translation": "Эдгээр сэтгэгдэл үнэхээр итгэл үнэмшилтэй сонсогдож байна.",
+   "explain_en": "After emphatic do/does/did, the main verb is always in its base form: do sound, not do sounds.",
+   "explain_mn": "Онцолсон do/does/did-ийн дараа үйл үг үргэлж үндсэн хэлбэрээр орно: do sound. -s, -ed, -ing залгахгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Энэ тосны зар дээр \"Ердөө долоо хоногт үр дүн\" гэж бичсэн байна. Итгэмээргүй юм.",
+   "en": "This cream's ad says \"Results in just one week.\" Hard to believe.",
+   "mn_latin": "Ene tosny zar deer \"Yerdöö doloo khonogt ür dün\" gej bichsen baina. Itgemeergüi yum."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Би хэрэглэж үзсэн шүү. Үнэхээр үр дүнтэй.",
+   "en": "I did try it. It really does work.",
+   "mn_latin": "Bi khereglej üzsen shüü. Ünekheer ür düntei."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Зар дээрх сэтгэгдлүүд яг л жүжигчдийн бичсэн юм шиг санагдаад байна.",
+   "en": "The testimonials in the ad feel just like they were written by actors.",
+   "mn_latin": "Zar deerkh setgegdlüüd yag l jüjigchdiin bichsen yum shig sanagdaad baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм байж магадгүй. Гэхдээ онлайн дэлгүүрт жинхэнэ хэрэглэгчдийн сэтгэгдэл бас олон байгаа.",
+   "en": "Maybe. But there are lots of real customer reviews in the online store too.",
+   "mn_latin": "Tiim baij magadgüi. Gekhdee onlain delgüürt jinkhene khereglegchdiin setgegdel bas olon baigaa."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэд чинь бэлэг авахын тулд л таван од өгсөн байж магадгүй шүү дээ.",
+   "en": "They might have given five stars just to get a free gift, you know.",
+   "mn_latin": "Ted chini beleg avakhyn tuld l tavan od ögsön baij magadgüi shüü dee."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За яахав. Ямар ч байсан нэг сарын мөнгө буцаан олгох баталгаатай. Туршаад үз л дээ.",
+   "en": "Fair enough. Anyway, it does come with a one-month money-back guarantee. Just give it a try.",
+   "mn_latin": "Za yaakhav. Yamar ch baisan neg saryn möngö butsaan olgokh batalgaatai. Turshaad üz l dee."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэгвэл туршиж үзье. Үр дүн гарвал би ч бас сэтгэгдэл бичнэ.",
+   "en": "Okay, I'll try it. If it works, I'll write a review too.",
+   "mn_latin": "Tegvel turshij üziye. Ür dün garval bi ch bas setgegdel bichne."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, a recommendation from a relative or acquaintance (танил) often counts for more than any official ad, so word of mouth spreads fast through Facebook groups and family chats. Brands therefore hire well-known singers, athletes and even champion wrestlers to share \"personal experiences\" with a product. Many shoppers in Ulaanbaatar now check reviews and comments carefully before buying online.",
+  "mn": "Монголд хамаатан садан, танил хүний зөвлөгөө ихэнхдээ ямар ч албан ёсны сурталчилгаанаас илүү нөлөөтэй байдаг тул ам дамжсан яриа фэйсбүүк групп, гэр бүлийн чатаар хурдан тархдаг. Тиймээс брэндүүд нэртэй дуучин, тамирчин, бүр аварга бөхчүүдийг урьж бүтээгдэхүүний талаарх \"өөрсдийн туршлагыг\" хуваалцуулдаг. Улаанбаатарын олон худалдан авагч одоо онлайнаар юм авахаасаа өмнө сэтгэгдлүүдийг анхааралтай уншдаг болжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A solid, natural lesson. The fixes are a wrong grammar term in the Mongolian explanation and two fill-in-the-blank items that had more than one correct answer."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "The lesson is mostly solid. Fixes: the mn intro now matches the en intro, and the fill-blank distractor uses the correct vowel-harmony form уу.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The mn intro left out the Mongolian emphatic particles, so it did not match intro_en."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "By vowel harmony, the question particle after сайн is уу, not үү."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "The explanation must use the corrected particle form уу."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "The explanation must use the corrected particle form уу."
+   }
+  ]
+ }
+}

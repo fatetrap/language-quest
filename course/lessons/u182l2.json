@@ -1,0 +1,430 @@
+{
+ "intro_en": "Step into a curator's shoes as you plan an exhibition and decide which objects make it onto display. You will learn to use the formal Mongolian determiner \"тус\" (\"the said, this\") and the English pair \"the former / the latter.\"",
+ "intro_mn": "Куратор хэрхэн үзэсгэлэн төлөвлөж, ямар үзмэрийг дэлгэн үзүүлэхээ шийддэгтэй танилцъя. Албан ёсны \"тус\" (тус музей, тус үзмэр) хэрэглээ болон англи хэлний \"the former / the latter\" хэллэгийг сурна.",
+ "vocab": [
+  {
+   "mn": "куратор",
+   "en": "curator",
+   "pos": "noun",
+   "example_mn": "Куратор үзмэр бүрийг нягт нямбай сонгосон.",
+   "example_en": "The curator chose each object with great care.",
+   "mn_latin": "kurator"
+  },
+  {
+   "mn": "сэдэвчилсэн үзэсгэлэн",
+   "en": "thematic exhibition",
+   "pos": "noun phrase",
+   "example_mn": "Энэ намар нүүдэлчдийн хувцасны сэдэвчилсэн үзэсгэлэн нээгдэнэ.",
+   "example_en": "A thematic exhibition on nomadic clothing opens this fall.",
+   "mn_latin": "sedevchilsen üzesgelen"
+  },
+  {
+   "mn": "тайлбар бичвэр",
+   "en": "label text",
+   "pos": "noun phrase",
+   "example_mn": "Тайлбар бичвэр товч бөгөөд ойлгомжтой байх ёстой.",
+   "example_en": "Label text should be brief and clear.",
+   "mn_latin": "tailbar bichver"
+  },
+  {
+   "mn": "үзмэр",
+   "en": "exhibit, object on display",
+   "pos": "noun",
+   "example_mn": "Энэ танхимд хорин үзмэр байрлана.",
+   "example_en": "Twenty objects will be placed in this hall.",
+   "mn_latin": "üzmer"
+  },
+  {
+   "mn": "сан хөмрөг",
+   "en": "collection, holdings",
+   "pos": "noun",
+   "example_mn": "Тус музейн сан хөмрөгт гурван мянга гаруй үзмэр бий.",
+   "example_en": "The museum's collection holds over three thousand objects.",
+   "mn_latin": "san khömrög"
+  },
+  {
+   "mn": "сонгон шалгаруулах",
+   "en": "to select, to shortlist",
+   "pos": "verb",
+   "example_mn": "Бид зуун үзмэрээс тавийг сонгон шалгаруулав.",
+   "example_en": "We selected five objects out of a hundred.",
+   "mn_latin": "songon shalgaruulakh"
+  },
+  {
+   "mn": "дэлгэн үзүүлэх",
+   "en": "to put on display",
+   "pos": "verb",
+   "example_mn": "Эмзэг даавууг удаан хугацаагаар дэлгэн үзүүлдэггүй.",
+   "example_en": "Fragile textiles are not displayed for long periods.",
+   "mn_latin": "delgen üzüülekh"
+  },
+  {
+   "mn": "эх хувь",
+   "en": "original",
+   "pos": "noun",
+   "example_mn": "Энэ бол хуулбар биш, эх хувь.",
+   "example_en": "This is not a replica; it's the original.",
+   "mn_latin": "ekh khuvi"
+  },
+  {
+   "mn": "түр хугацаагаар зээлж авах",
+   "en": "to borrow on loan",
+   "pos": "verb phrase",
+   "example_mn": "Бид аймгийн музейгээс гурван үзмэр түр хугацаагаар зээлж авна.",
+   "example_en": "We will borrow three objects on loan from the provincial museum.",
+   "mn_latin": "tür khugatsaagaar zeelj avakh"
+  },
+  {
+   "mn": "тус",
+   "en": "the said, this (formal)",
+   "pos": "determiner",
+   "example_mn": "Тус үзмэрийг XIX зуунд хийсэн гэж үздэг.",
+   "example_en": "The object is believed to date from the 19th century.",
+   "mn_latin": "tus"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тус музей ирэх сард сэдэвчилсэн үзэсгэлэн нээнэ.",
+   "en": "The museum will open a thematic exhibition next month.",
+   "alt_mn": [
+    "Ирэх сард тус музей сэдэвчилсэн үзэсгэлэн нээнэ."
+   ],
+   "alt_en": [
+    "This museum will open a thematic exhibition next month."
+   ],
+   "mn_latin": "Tus muzyei irekh sard sedevchilsen üzesgelen neene."
+  },
+  {
+   "mn": "Куратор сан хөмрөгөөс дөчин үзмэр сонгон шалгаруулжээ.",
+   "en": "The curator selected forty objects from the collection.",
+   "alt_mn": [
+    "Куратор сан хөмрөгөөс дөчин үзмэр сонгосон байна."
+   ],
+   "alt_en": [
+    "The curator chose forty objects from the collection."
+   ],
+   "mn_latin": "Kurator san khömrögöös döchin üzmer songon shalgaruuljee."
+  },
+  {
+   "mn": "Тус үзмэрийг анх удаа олны хүртээл болгож байна.",
+   "en": "This object is being shown to the public for the first time.",
+   "alt_mn": [
+    "Тус үзмэрийг олон нийтэд анх удаа үзүүлж байна."
+   ],
+   "alt_en": [
+    "The object is going on public display for the first time."
+   ],
+   "mn_latin": "Tus üzmeriig ankh udaa olny khürteel bolgoj baina."
+  },
+  {
+   "mn": "Тайлбар бичвэрийг монгол, англи хоёр хэлээр бэлтгэнэ.",
+   "en": "The label texts will be prepared in both Mongolian and English.",
+   "alt_mn": [
+    "Тайлбар бичвэрүүдийг монгол, англи хэлээр бэлтгэнэ."
+   ],
+   "alt_en": [
+    "The labels will be written in both Mongolian and English."
+   ],
+   "mn_latin": "Tailbar bichveriig mongol, angli khoyor kheleer beltgene."
+  },
+  {
+   "mn": "Бид эх хувь, хуулбар хоёрыг харьцуулж үзсэн: эхнийх нь илүү үнэ цэнэтэй ч сүүлийнх нь тийм ч эмзэг биш.",
+   "en": "We compared the original with a replica: the former is more valuable, but the latter is less fragile.",
+   "alt_mn": [
+    "Бид эх хувийг хуулбартай харьцуулсан: эхнийх нь илүү үнэ цэнэтэй, харин сүүлийнх нь тийм ч эмзэг биш."
+   ],
+   "alt_en": [
+    "We weighed the original against a replica: the former is more valuable, while the latter is less fragile."
+   ],
+   "mn_latin": "Bid ekh khuvi, khuulbar khoyoryg kharitsuulj üzsen: ekhniikh ni ilüü üne tsenetei ch süüliinkh ni tiim ch emzeg bish."
+  },
+  {
+   "mn": "Гэрэлд мэдрэмтгий учраас тус торгон дээлийг гурван сараас илүү дэлгэн үзүүлэх боломжгүй.",
+   "en": "Because it is sensitive to light, this silk deel cannot be displayed for more than three months.",
+   "alt_mn": [
+    "Тус торгон дээл гэрэлд мэдрэмтгий тул гурван сараас удаан дэлгэн үзүүлэх боломжгүй."
+   ],
+   "alt_en": [
+    "Since it is light-sensitive, the silk deel can't be on display for longer than three months."
+   ],
+   "mn_latin": "Gereld medremtgii uchraas tus torgon deeliig gurvan saraas ilüü delgen üzüülekh bolomjgüi."
+  },
+  {
+   "mn": "Бид аймгийн музейгээс гурван үзмэр түр хугацаагаар зээлж авна.",
+   "en": "We will borrow three objects on loan from the provincial museum.",
+   "alt_mn": [
+    "Аймгийн музейгээс гурван үзмэрийг түр хугацаагаар зээлж авна."
+   ],
+   "alt_en": [
+    "We are borrowing three objects from the provincial museum on a temporary loan."
+   ],
+   "mn_latin": "Bid aimgiin muzyeigees gurvan üzmer tür khugatsaagaar zeelj avna."
+  },
+  {
+   "mn": "Үзэгчид тайлбар бичвэр уншихад ихэвчлэн нэг минутаас илүү зарцуулдаггүй.",
+   "en": "Visitors usually spend no more than a minute reading a label.",
+   "alt_mn": [
+    "Ихэнх үзэгч тайлбар бичвэрийг нэг минут хүрэхгүй хугацаанд уншдаг."
+   ],
+   "alt_en": [
+    "Visitors rarely spend more than a minute reading a label."
+   ],
+   "mn_latin": "Üzegchid tailbar bichver unshikhad ikhevchlen neg minutaas ilüü zartsuuldaggüi."
+  },
+  {
+   "mn": "Куратор алтан бугуйвч, модон аяга хоёрын аль нэгийг сонгох ёстой байсан бөгөөд сүүлийнхийг нь сонгожээ.",
+   "en": "The curator had to choose between a gold bracelet and a wooden bowl, and she chose the latter.",
+   "alt_mn": [
+    "Куратор алтан бугуйвч, модон аяга хоёроос модон аягыг нь сонгожээ."
+   ],
+   "alt_en": [
+    "The curator had to pick either a gold bracelet or a wooden bowl, and she went with the latter."
+   ],
+   "mn_latin": "Kurator altan buguivch, modon ayaga khoyoryn ali negiig songokh yostoi baisan bögööd süüliinkhiig ni songojee."
+  },
+  {
+   "mn": "Тус үзэсгэлэн нүүдэлчдийн өдөр тутмын амьдралд төвлөрнө.",
+   "en": "The exhibition will focus on the everyday life of nomads.",
+   "alt_mn": [
+    "Тус үзэсгэлэн нүүдэлчдийн өдөр тутмын амьдралыг гол сэдэв болгоно."
+   ],
+   "alt_en": [
+    "This exhibition will center on nomads' everyday life."
+   ],
+   "mn_latin": "Tus üzesgelen nüüdelchdiin ödör tutmyn amidrald tövlörnö."
+  },
+  {
+   "mn": "Үзмэр бүр үзэсгэлэнгийн гол санааг илэрхийлэх ёстой.",
+   "en": "Every object should express the exhibition's central idea.",
+   "alt_mn": [
+    "Үзмэр болгон үзэсгэлэнгийн гол санааг илэрхийлж байх ёстой."
+   ],
+   "alt_en": [
+    "Each object needs to support the main idea of the exhibition."
+   ],
+   "mn_latin": "Üzmer bür üzesgelengiin gol sanaag ilerkhiilekh yostoi."
+  },
+  {
+   "mn": "Тус музейн захирал, ахлах куратор хоёр санал зөрөлдсөн: эхнийх нь олон үзмэр, сүүлийнх нь цөөн үзмэр дэлгэхийг хүссэн.",
+   "en": "The museum's director and the chief curator disagreed: the former wanted many objects, the latter wanted only a few.",
+   "alt_mn": [
+    "Тус музейн захирал болон ахлах куратор санал зөрөлдсөн: захирал олон үзмэр, куратор цөөн үзмэр дэлгэхийг хүссэн."
+   ],
+   "alt_en": [
+    "The museum's director and the chief curator disagreed; the former wanted lots of objects, while the latter wanted just a few."
+   ],
+   "mn_latin": "Tus muzyein zakhiral, akhlakh kurator khoyor sanal zöröldsön: ekhniikh ni olon üzmer, süüliinkh ni tsöön üzmer delgekhiig khüssen."
+  }
+ ],
+ "grammar": {
+  "title_en": "\"Тус\" for formal reference / the former and the latter",
+  "title_mn": "Албан ёсны \"тус\" / the former ба the latter",
+  "explain_en": "In formal Mongolian (official letters, museum texts, news, reports), \"тус\" goes before a noun to point back to something already mentioned or to the institution itself: \"тус музей\" (the museum in question / this museum), \"тус үзмэр\" (the said object), \"тус байгууллага\" (this organization). It works like a very formal \"this\" or \"the aforementioned.\" \"Тус\" itself never takes a case ending. The noun after it takes its normal endings: \"тус музейн сан хөмрөг\" (the museum's collection), \"тус үзмэрийг\" (the object, as direct object). In everyday speech, people just say \"энэ\" or \"манай\" instead. Don't confuse it with \"тус бүр\" (each) or \"тус\" meaning \"help\" (тус болох). In English, \"the former\" refers to the first of two things just mentioned, and \"the latter\" refers to the second. They match Mongolian \"эхнийх нь / сүүлийнх нь\": \"We invited Anar and Bold; the former is a curator, the latter is a designer.\" Use them only with exactly TWO items. With three or more, say \"the first / the last.\" They are mostly used in writing and formal speech, and they always take \"the.\" Don't confuse \"latter\" with \"later\" (time).",
+  "explain_mn": "Албан ёсны монгол хэлэнд (албан бичиг, музейн бичвэр, мэдээ, тайлан) \"тус\" гэдэг үгийг нэрийн өмнө хэрэглэнэ. Энэ нь өмнө дурдсан зүйлийг, эсвэл тухайн байгууллагыг өөрийг нь заана: \"тус музей\" (дээрх музей / энэ музей), \"тус үзмэр\" (дурдсан үзмэр), \"тус байгууллага\". Энэ нь маш албан ёсны \"энэ\", \"дээр дурдсан\" гэсэн утгатай. \"Тус\" өөрөө нөхцөл авдаггүй, нөхцөлийг араас нь орох нэр авна: \"тус музейн сан хөмрөг\", \"тус үзмэрийг\". Өдөр тутмын ярианд \"энэ\", \"манай\" гэж хэлдэг. Үүнийг \"тус бүр\" (бүр, тус тусдаа), \"тус болох\" (туслах) гэсэн утгатай \"тус\"-тай андуурч болохгүй. Англи хэлний \"the former\" нь өмнө дурдсан хоёр зүйлийн эхнийхийг, \"the latter\" нь сүүлийнхийг заана. Монголоор \"эхнийх нь / сүүлийнх нь\" гэдэгтэй дүйнэ. Жишээ нь: \"We invited Anar and Bold; the former is a curator, the latter is a designer.\" Үүнийг зөвхөн ХОЁР зүйлийн тухай ярихад хэрэглэнэ. Гурав ба түүнээс олон зүйл байвал \"the first / the last\" гэнэ. Голдуу бичгийн болон албан ёсны хэлэнд хэрэглэгддэг бөгөөд \"the\" үгийг заавал хамт бичнэ. \"Latter\"-ийг \"later\" (дараа нь) гэдэг үгтэй андуурч болохгүй.",
+  "examples": [
+   {
+    "mn": "Тус музей 1924 онд байгуулагдсан.",
+    "en": "The museum was founded in 1924.",
+    "mn_latin": "Tus muzyei 1924 ond baiguulagdsan."
+   },
+   {
+    "mn": "Тус үзмэрийн тайлбар бичвэрийг шинэчилнэ.",
+    "en": "The label for this object will be updated.",
+    "mn_latin": "Tus üzmeriin tailbar bichveriig shinechilne."
+   },
+   {
+    "mn": "Бид Анар, Тэмүүлэн хоёрыг урьсан: эхнийх нь куратор, сүүлийнх нь сэргээн засварлагч.",
+    "en": "We invited Anar and Temuulen: the former is a curator, the latter a conservator.",
+    "mn_latin": "Bid Anar, Temüülen khoyoryg urisan: ekhniikh ni kurator, süüliinkh ni sergeen zasvarlagch."
+   },
+   {
+    "mn": "Эх хувь, хуулбар хоёроос бид эхнийхийг нь сонгосон.",
+    "en": "Between the original and the replica, we chose the former.",
+    "mn_latin": "Ekh khuvi, khuulbar khoyoroos bid ekhniikhiig ni songoson."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "___ музей 2026 онд шинэ байранд нүүнэ.",
+   "answer": "Тус",
+   "options": [
+    "Тус",
+    "Тусын",
+    "Тусыг",
+    "Тусаар"
+   ],
+   "translation": "The museum will move to a new building in 2026.",
+   "explain_en": "\"Тус\" is a determiner placed before the noun, and it never takes a case ending itself. The noun that follows carries any endings instead.",
+   "explain_mn": "\"Тус\" нь нэрийн өмнө тодотгол болж ордог тул өөрөө нөхцөл авдаггүй. Нөхцөлийг араас нь орох нэр авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Куратор сан хөмрөг___ дөчин үзмэр сонгосон.",
+   "answer": "өөс",
+   "options": [
+    "өөс",
+    "т",
+    "ийг",
+    "тэй"
+   ],
+   "translation": "The curator chose forty objects from the collection.",
+   "explain_en": "\"From\" the collection calls for the ablative case. Because \"хөмрөг\" has the front-rounded vowel ө, the ending is \"-өөс.\"",
+   "explain_mn": "\"Хаанаас\" гэсэн утгатай тул гарах тийн ялгал хэрэгтэй. \"Хөмрөг\" үгэнд ө эгшиг байгаа тул эгшиг зохицох ёсоор \"-өөс\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тайлбар бичвэр товч ___ ойлгомжтой байх ёстой.",
+   "answer": "бөгөөд",
+   "options": [
+    "бөгөөд",
+    "боловч",
+    "учир",
+    "тул"
+   ],
+   "translation": "Label text should be brief and clear.",
+   "explain_en": "\"Бөгөөд\" is a formal \"and\" that joins two qualities. \"Боловч\" means \"but,\" while \"учир\" and \"тул\" express cause.",
+   "explain_mn": "Хоёр шинжийг холбох албан ёсны \"бөгөөд\" тохирно. \"Боловч\" нь эсрэгцүүлэх, \"учир\" болон \"тул\" нь шалтгаан заадаг."
+  },
+  {
+   "lang": "en",
+   "text": "We looked at a vase and a bowl, and chose the ___ because it was smaller.",
+   "answer": "latter",
+   "options": [
+    "latter",
+    "later",
+    "last",
+    "latest"
+   ],
+   "translation": "Бид ваар, аяга хоёрыг үзээд жижиг учраас сүүлийнхийг нь сонгосон.",
+   "explain_en": "With two items, \"the latter\" refers to the second one, the bowl. \"Later\" is about time, and \"last\" is used for three or more items.",
+   "explain_mn": "Хоёр зүйлийн хоёр дахийг \"the latter\" гэнэ. \"Later\" нь цаг хугацааг заадаг, \"last\" нь гурав ба түүнээс олон зүйлд хэрэглэгддэг."
+  },
+  {
+   "lang": "en",
+   "text": "Between the original and the replica, we chose the ___, since visitors want to see the real thing.",
+   "answer": "former",
+   "options": [
+    "former",
+    "formal",
+    "first",
+    "front"
+   ],
+   "translation": "Үзэгчид жинхэнийг нь үзэхийг хүсдэг тул бид эх хувь, хуулбар хоёроос эхнийхийг нь сонгосон.",
+   "explain_en": "The original is mentioned first, so it is \"the former.\" \"Formal\" only looks similar, and \"first\" is not used this way with just two items.",
+   "explain_mn": "Эх хувийг эхэлж дурдсан тул \"the former\" болно. \"Formal\" нь \"албан ёсны\" гэсэн өөр утгатай үг. Хоёр зүйлийн тухай ярихад \"the first\" гэж ихэвчлэн хэлдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "The museum will ___ the silk deel for only three months because it is fragile.",
+   "answer": "display",
+   "options": [
+    "display",
+    "displace",
+    "deploy",
+    "discover"
+   ],
+   "translation": "Торгон дээл эмзэг учраас тус музей түүнийг ердөө гурван сар дэлгэн үзүүлнэ.",
+   "explain_en": "\"Display\" means to put something on view. \"Displace\" means to move something out of its place.",
+   "explain_mn": "\"Display\" нь \"дэлгэн үзүүлэх\" гэсэн утгатай. \"Displace\" нь \"байрнаас нь шилжүүлэх\" гэсэн өөр утгатай үг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сан хөмрөгөөс сонгосон жагсаалтыг минь харсан уу?",
+   "en": "Did you see the list of objects I picked from the collection?",
+   "mn_latin": "San khömrögöös songoson jagsaaltyg mini kharsan uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Харсан. Гэхдээ морин хуур, эмээл хоёрын алийг нь оруулах вэ? Эхнийх нь илүү алдартай, сүүлийнх нь илүү ховор.",
+   "en": "I did. But which should we include, the morin khuur or the saddle? The former is better known, the latter is rarer.",
+   "mn_latin": "Kharsan. Gekhdee morin khuur, emeel khoyoryn aliig ni oruulakh ve? Ekhniikh ni ilüü aldartai, süüliinkh ni ilüü khovor."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Манай сэдэвчилсэн үзэсгэлэн нүүдэлчдийн нүүдэл аялалд зориулагдсан тул эмээлийг сонгоё.",
+   "en": "Our thematic exhibition is about nomadic migration, so let's go with the saddle.",
+   "mn_latin": "Manai sedevchilsen üzesgelen nüüdelchdiin nüüdel ayalald zoriulagdsan tul emeeliig songoyo."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Санал нийлж байна. Тус үзмэрийн тайлбар бичвэрийг хэн бичих вэ?",
+   "en": "I agree. Who's writing the label for that object?",
+   "mn_latin": "Sanal niilj baina. Tus üzmeriin tailbar bichveriig khen bichikh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Би монголоор бичье, та англи хувилбарыг нь хянаад өгөөрэй.",
+   "en": "I'll write it in Mongolian. Could you review the English version?",
+   "mn_latin": "Bi mongoloor bichiye, ta angli khuvilbaryg ni khyanaad ögöörei."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгье. Хэдэн үгтэй байх вэ?",
+   "en": "Sure. How many words should it be?",
+   "mn_latin": "Tegiye. Kheden ügtei baikh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Дөч орчим үг хангалттай. Үзэгчид урт бичвэр уншдаггүй.",
+   "en": "About forty words is enough. Visitors don't read long texts.",
+   "mn_latin": "Döch orchim üg khangalttai. Üzegchid urt bichver unshdaggüi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгвэл товч бөгөөд сонирхолтой болгоё.",
+   "en": "Then let's make it short and engaging.",
+   "mn_latin": "Tegvel tovch bögööd sonirkholtoi bolgoyo."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar's museum scene has grown quickly. The Chinggis Khaan National Museum opened in 2022, and older institutions such as the Zanabazar Museum of Fine Arts regularly host thematic exhibitions. In official Mongolian writing, a museum usually refers to itself as \"тус музей\" rather than \"манай музей,\" so you'll see \"тус\" constantly on press releases, wall texts, and websites.",
+  "mn": "Улаанбаатарын музейн салбар сүүлийн жилүүдэд эрчимтэй хөгжиж байна. 2022 онд Чингис хааны үндэсний музей нээгдсэн бөгөөд Занабазарын нэрэмжит дүрслэх урлагийн музей зэрэг удаан жил үйл ажиллагаа явуулж буй музейнүүд сэдэвчилсэн үзэсгэлэн тогтмол зохион байгуулдаг. Албан бичигт музей өөрийгөө \"манай музей\" гэхийн оронд \"тус музей\" гэж нэрлэх нь түгээмэл. Тиймээс хэвлэлийн мэдээ, тайлбар бичвэр, цахим хуудаснаас \"тус\" гэдэг үгийг байнга харах болно."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A strong, accurate lesson with clear grammar explanations. The only fixes are one awkward sentence pair and one mistranslated word in the culture note."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 5,
+  "notes": "Main issue: the grammar explanations covered different topics in en and mn. Also fixed one alt with a different meaning and one ungrammatical distractor.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; both now cover both points"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Make the mn explanation match the en explanation and cover both topics"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "Old alt meant 'had to choose one' and 'durable', which is not the same meaning"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "\"хөмрөгөд\" is not a valid form; the dative is \"хөмрөгт\""
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "More natural English"
+   }
+  ]
+ }
+}

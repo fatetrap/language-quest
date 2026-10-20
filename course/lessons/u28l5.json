@@ -1,0 +1,410 @@
+{
+ "intro_en": "You will learn how to disagree politely in a meeting or class discussion, using softening phrases like 'maybe' and 'I see your point, but...'. You will also practice hedged opinions with -х юм шиг байна and байх гэж бодож байна.",
+ "intro_mn": "Та уулзалт, хичээлийн хэлэлцүүлэг дээр санал зөрөхдөө эелдгээр илэрхийлэх аргыг сурна. Мөн «магадгүй», «таны санааг ойлголоо, гэхдээ...» гэх мэт зөөлрүүлэх хэллэг болон «-х юм шиг байна», «байх гэж бодож байна» бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "магадгүй",
+   "en": "maybe, perhaps",
+   "pos": "adverb",
+   "example_mn": "Магадгүй та зөв байх.",
+   "example_en": "Maybe you are right.",
+   "mn_latin": "magadgüi"
+  },
+  {
+   "mn": "зөрөх",
+   "en": "to differ, to disagree",
+   "pos": "verb",
+   "example_mn": "Бидний санал жаахан зөрж байна.",
+   "example_en": "Our opinions differ a little.",
+   "mn_latin": "zörökh"
+  },
+  {
+   "mn": "санал",
+   "en": "opinion, suggestion",
+   "pos": "noun",
+   "example_mn": "Таны санал сонирхолтой байна.",
+   "example_en": "Your opinion is interesting.",
+   "mn_latin": "sanal"
+  },
+  {
+   "mn": "зарим талаараа",
+   "en": "in some ways, partly",
+   "pos": "phrase",
+   "example_mn": "Зарим талаараа би чамтай санал нийлнэ.",
+   "example_en": "In some ways I agree with you.",
+   "mn_latin": "zarim talaaraa"
+  },
+  {
+   "mn": "гэхдээ",
+   "en": "but, however",
+   "pos": "conjunction",
+   "example_mn": "Ойлголоо, гэхдээ би өөрөөр бодож байна.",
+   "example_en": "I understand, but I think differently.",
+   "mn_latin": "gekhdee"
+  },
+  {
+   "mn": "өөрөөр",
+   "en": "differently",
+   "pos": "adverb",
+   "example_mn": "Би үүнийг өөрөөр харж байна.",
+   "example_en": "I see this differently.",
+   "mn_latin": "ööröör"
+  },
+  {
+   "mn": "эргэлзэх",
+   "en": "to doubt, to be unsure",
+   "pos": "verb",
+   "example_mn": "Би энэ төлөвлөгөөнд жаахан эргэлзэж байна.",
+   "example_en": "I am a bit unsure about this plan.",
+   "mn_latin": "ergelzekh"
+  },
+  {
+   "mn": "үндэслэл",
+   "en": "reasoning, grounds",
+   "pos": "noun",
+   "example_mn": "Таны үндэслэл ойлгомжтой байна.",
+   "example_en": "Your reasoning is clear.",
+   "mn_latin": "ündeslel"
+  },
+  {
+   "mn": "хүндэтгэх",
+   "en": "to respect",
+   "pos": "verb",
+   "example_mn": "Би таны саналыг хүндэтгэж байна.",
+   "example_en": "I respect your opinion.",
+   "mn_latin": "khündetgekh"
+  },
+  {
+   "mn": "бодол",
+   "en": "thought, view",
+   "pos": "noun",
+   "example_mn": "Миний бодлоор энэ арай хэцүү байх.",
+   "example_en": "In my view, this may be a bit difficult.",
+   "mn_latin": "bodol"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Таны саналыг ойлголоо, гэхдээ би жаахан өөрөөр бодож байна.",
+   "en": "I see your point, but I think a little differently.",
+   "alt_mn": [
+    "Таны саналыг ойлгож байна, гэхдээ би жаахан өөрөөр бодож байна."
+   ],
+   "alt_en": [
+    "I understand your suggestion, but I see it a bit differently."
+   ],
+   "mn_latin": "Tany sanalyg oilgoloo, gekhdee bi jaakhan ööröör bodoj baina."
+  },
+  {
+   "mn": "Магадгүй энэ хугацаа хангалтгүй байх.",
+   "en": "Maybe this amount of time isn't enough.",
+   "alt_mn": [],
+   "alt_en": [
+    "Perhaps this deadline isn't long enough."
+   ],
+   "mn_latin": "Magadgüi ene khugatsaa khangaltgüi baikh."
+  },
+  {
+   "mn": "Миний бодлоор энэ төлөвлөгөө арай хэцүү юм шиг байна.",
+   "en": "In my opinion, this plan seems a bit difficult.",
+   "alt_mn": [],
+   "alt_en": [
+    "In my view, this plan looks rather difficult."
+   ],
+   "mn_latin": "Minii bodloor ene tölövlögöö arai khetsüü yum shig baina."
+  },
+  {
+   "mn": "Зарим талаараа би таны саналыг дэмжиж байна.",
+   "en": "In some ways I support your suggestion.",
+   "alt_mn": [],
+   "alt_en": [
+    "I partly support your suggestion."
+   ],
+   "mn_latin": "Zarim talaaraa bi tany sanalyg demjij baina."
+  },
+  {
+   "mn": "Би тийм ч итгэлтэй биш байна.",
+   "en": "I'm not so sure.",
+   "alt_mn": [
+    "Би яг итгэлтэй биш байна."
+   ],
+   "alt_en": [
+    "I'm not very sure."
+   ],
+   "mn_latin": "Bi tiim ch itgeltei bish baina."
+  },
+  {
+   "mn": "Энэ санаа сайн, гэхдээ мөнгө хүрэхгүй байх гэж бодож байна.",
+   "en": "This idea is good, but I think the money may not be enough.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's a good idea, but I think we might not have enough money."
+   ],
+   "mn_latin": "Ene sanaa sain, gekhdee möngö khürekhgüi baikh gej bodoj baina."
+  },
+  {
+   "mn": "Би таны саналыг хүндэтгэж байна.",
+   "en": "I respect your opinion.",
+   "alt_mn": [],
+   "alt_en": [
+    "I respect your suggestion."
+   ],
+   "mn_latin": "Bi tany sanalyg khündetgej baina."
+  },
+  {
+   "mn": "Бид энэ асуудлыг өөрөөр харж байгаа бололтой.",
+   "en": "It seems we see this issue differently.",
+   "alt_mn": [],
+   "alt_en": [
+    "We seem to see this issue differently."
+   ],
+   "mn_latin": "Bid ene asuudlyg ööröör kharj baigaa bololtoi."
+  },
+  {
+   "mn": "Багш: «Энэ хариулт бүрэн зөв биш юм шиг байна.»",
+   "en": "Teacher: \"This answer doesn't seem completely correct.\"",
+   "alt_mn": [],
+   "alt_en": [
+    "Teacher: \"This answer seems not entirely right.\""
+   ],
+   "mn_latin": "Bagsh: «Ene khariult büren zöv bish yum shig baina.»"
+  },
+  {
+   "mn": "Таны үндэслэл ойлгомжтой, гэхдээ надад өөр санал байна.",
+   "en": "Your reasoning is clear, but I have another suggestion.",
+   "alt_mn": [],
+   "alt_en": [
+    "Your reasoning is clear, but I have a different idea."
+   ],
+   "mn_latin": "Tany ündeslel oilgomjtoi, gekhdee nadad öör sanal baina."
+  },
+  {
+   "mn": "Магадгүй бид хоёр талаас нь дахин бодох хэрэгтэй.",
+   "en": "Maybe we need to think about it again from both sides.",
+   "alt_mn": [],
+   "alt_en": [
+    "Perhaps we should reconsider it from both sides."
+   ],
+   "mn_latin": "Magadgüi bid khoyor talaas ni dakhin bodokh kheregtei."
+  },
+  {
+   "mn": "Би энэ аргад жаахан эргэлзэж байна.",
+   "en": "I'm a little unsure about this method.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have some doubts about this method."
+   ],
+   "mn_latin": "Bi ene argad jaakhan ergelzej baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Hedging opinions: -х юм шиг байна and байх гэж бодож байна",
+  "title_mn": "Саналаа зөөлрүүлэх нь: -х юм шиг байна ба байх гэж бодож байна",
+  "explain_en": "To sound less direct, Mongolians soften statements. Use a verb stem + -х юм шиг байна for 'it seems that...': Энэ хэцүү байх юм шиг байна ('This seems like it will be hard'). Use байх гэж бодож байна for 'I think it probably is/will be': Тэр зөв байх гэж бодож байна. Add магадгүй ('maybe') or жаахан ('a little') for extra softness, and use гэхдээ ('but') after acknowledging the other person's view.",
+  "explain_mn": "Монгол хэлэнд саналаа зөөлрүүлэхийн тулд «-х юм шиг байна» (…байх юм шиг байна: «санагдаж байна») болон «байх гэж бодож байна» («магадгүй…гэж бодож байна») бүтцийг хэрэглэнэ. Мөн «магадгүй», «жаахан» гэсэн үгээр илүү зөөлрүүлж, «гэхдээ»-ээр нөгөө хүний саналыг хүлээн зөвшөөрсний дараа өөрийн бодлоо хэлнэ. Жишээ: Энэ хэцүү байх юм шиг байна. Тэр зөв байх гэж бодож байна.",
+  "examples": [
+   {
+    "mn": "Энэ төлөвлөгөө хэцүү байх юм шиг байна.",
+    "en": "This plan seems like it will be difficult.",
+    "mn_latin": "Ene tölövlögöö khetsüü baikh yum shig baina."
+   },
+   {
+    "mn": "Тэр одоо ирэхгүй байх гэж бодож байна.",
+    "en": "I think he probably won't come now.",
+    "mn_latin": "Ter odoo irekhgüi baikh gej bodoj baina."
+   },
+   {
+    "mn": "Магадгүй бид өөр арга сонгох хэрэгтэй.",
+    "en": "Maybe we need to choose another way.",
+    "mn_latin": "Magadgüi bid öör arga songokh kheregtei."
+   },
+   {
+    "mn": "Гэхдээ миний бодлоор цаг хүрэхгүй байх.",
+    "en": "But in my opinion there may not be enough time.",
+    "mn_latin": "Gekhdee minii bodloor tsag khürekhgüi baikh."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Таны санал сайн, ___ би жаахан өөрөөр бодож байна.",
+   "answer": "гэхдээ",
+   "options": [
+    "гэхдээ",
+    "учир нь",
+    "тиймээс",
+    "мөн"
+   ],
+   "translation": "Your opinion is good, but I think a little differently.",
+   "explain_en": "Гэхдээ means 'but' and softens the disagreement after a compliment.",
+   "explain_mn": "«Гэхдээ» нь өмнөх саналыг хүлээн зөвшөөрөөд зөөлөн эсэргүүцэхэд хэрэглэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ ажил хэцүү байх ___ шиг байна.",
+   "answer": "юм",
+   "options": [
+    "юм",
+    "гэж",
+    "байхаар",
+    "учраас"
+   ],
+   "translation": "This work seems like it will be difficult.",
+   "explain_en": "-х юм шиг байна means 'it seems that'. Here юм comes before шиг байна.",
+   "explain_mn": "«-х юм шиг байна» нь «...юм шиг санагдаж байна» гэсэн таамаглалтай, зөөлөн утга өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр удахгүй ирэх ___ бодож байна.",
+   "answer": "гэж",
+   "options": [
+    "гэж",
+    "юм",
+    "нь",
+    "ч"
+   ],
+   "translation": "I think he will come soon.",
+   "explain_en": "гэж бодож байна means 'I think that...'; the thought (удахгүй ирэх 'will come soon') comes before гэж.",
+   "explain_mn": "«гэж бодож байна» нь «...гэж бодож байна» буюу өөрийн бодлыг илэрхийлэх бүтэц бөгөөд бодлын агуулга (удахгүй ирэх) «гэж»-ийн өмнө ордог."
+  },
+  {
+   "lang": "en",
+   "text": "I see your point, ___ I'm not sure it will work.",
+   "answer": "but",
+   "options": [
+    "but",
+    "because",
+    "so",
+    "or"
+   ],
+   "translation": "Таны санааг ойлголоо, гэхдээ энэ амжилттай болох эсэхэд би эргэлзэж байна.",
+   "explain_en": "'But' follows the acknowledgment to introduce a different view politely.",
+   "explain_mn": "«but» нь «гэхдээ» гэсэн утгатай бөгөөд эхлээд зөвшөөрч, дараа нь өөр бодлоо хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ my opinion, we need more time.",
+   "answer": "In",
+   "options": [
+    "In",
+    "On",
+    "At",
+    "For"
+   ],
+   "translation": "Миний бодлоор бидэнд илүү цаг хэрэгтэй.",
+   "explain_en": "The fixed phrase is 'in my opinion'.",
+   "explain_mn": "«In my opinion» нь тогтсон хэллэг тул «in» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ we should ask the teacher first.",
+   "answer": "Maybe",
+   "options": [
+    "Maybe",
+    "Never",
+    "Must",
+    "Always"
+   ],
+   "translation": "Магадгүй бид эхлээд багшаас асуух хэрэгтэй.",
+   "explain_en": "'Maybe' makes the suggestion soft and polite.",
+   "explain_mn": "«Maybe» нь «магадгүй» гэсэн утгатай, саналыг зөөлөн болгоно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Миний бодлоор бид уулзалтыг долоо хоногийн эхээр хийвэл дээр.",
+   "en": "I think we should hold the meeting at the start of the week.",
+   "mn_latin": "Minii bodloor bid uulzaltyg doloo khonogiin ekheer khiivel deer."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Таны санааг ойлголоо, гэхдээ би жаахан өөрөөр бодож байна.",
+   "en": "I see your point, but I think a little differently.",
+   "mn_latin": "Tany sanaag oilgoloo, gekhdee bi jaakhan ööröör bodoj baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм үү? Та яагаад тэгж бодож байна вэ?",
+   "en": "Oh? Why do you think so?",
+   "mn_latin": "Tiim üü? Ta yaagaad tegj bodoj baina ve?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Даваа гарагт хүмүүс завгүй байх юм шиг байна.",
+   "en": "It seems people will be busy on Monday.",
+   "mn_latin": "Davaa garagt khümüüs zavgüi baikh yum shig baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Зарим талаараа та зөв байна. Тэгвэл лхагва гараг ямар вэ?",
+   "en": "In some ways you're right. Then how about Wednesday?",
+   "mn_latin": "Zarim talaaraa ta zöv baina. Tegvel lkhagva garag yamar ve?"
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Магадгүй лхагва гараг илүү тохиромжтой байх.",
+   "en": "Maybe Wednesday will be more suitable.",
+   "mn_latin": "Magadgüi lkhagva garag ilüü tokhiromjtoi baikh."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна, тэгье. Санал өгсөнд баярлалаа.",
+   "en": "Good, let's do that. Thanks for the input.",
+   "mn_latin": "Sain baina, tegiye. Sanal ögsönd bayarlalaa."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian workplaces and classrooms, direct contradiction can feel blunt, especially toward elders or teachers. People often begin with respect, use a softener like магадгүй or жаахан, and then give their own view. Keeping harmony and saving face matters.",
+  "mn": "Монголын ажлын байр, хичээл дээр, ялангуяа ахмад хүн, багштай ярихдаа шууд няцаах нь ширүүн сонсогдож болно. Тиймээс эхлээд хүндэтгэл үзүүлж, магадгүй, жаахан гэх мэт зөөлрүүлэгч үг хэрэглээд дараа нь өөрийн бодлоо хэлдэг. Эв найртай байх, нүүр хадгалах нь чухал."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 13,
+  "notes": "Mostly good content, but the grammar section's Mongolian title/explanation was about English, a fill-blank had a broken double blank, and a few dialogue and culture phrases were unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Fixed a fill-blank whose answer was missing from its options, a misleading grammar note, the intro_mn spelling and wording, and two awkward English lines.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The standard spelling is эелдгээр. The bare word зөрөх reads unnaturally here, so I used санал зөрөх. The 'I see your point, but' phrase from intro_en was also missing."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "en",
+    "why": "'This time is not enough' is unnatural English."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "The answer юм was not among the options; 'юм шиг' would duplicate the шиг already in the sentence."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "The old note wrongly said ирэх gives a 'probable' sense; it is a simple future form."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "The old explanation was circular and did not match explain_en."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "'People seem like they will be busy' is awkward English."
+   }
+  ]
+ }
+}

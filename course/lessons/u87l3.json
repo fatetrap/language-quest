@@ -1,0 +1,401 @@
+{
+ "intro_en": "In this lesson you will follow a news discussion about poaching, the illegal fur and bone trade, and the penalties offenders face. You will learn to express strong obligation with -хгүй байж болохгүй, and in English you will use formal double negatives such as 'cannot fail to' and 'not without risk'.",
+ "intro_mn": "Энэ хичээлээр та хууль бус агнуур, арьс үс болон ясны хууль бус наймаа, зөрчил гаргагчид ногдуулах шийтгэлийн тухай мэдээний хэлэлцүүлгийг сонсоно. Англи хэлний 'cannot fail to', 'not without risk' зэрэг албан ёсны давхар үгүйсгэл болон Монгол хэлний -хгүй байж болохгүй хэлбэрийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "хууль бус агнуур",
+   "en": "poaching",
+   "pos": "noun phrase",
+   "example_mn": "Хууль бус агнуур говьд дахин нэмэгджээ.",
+   "example_en": "Poaching has increased again in the Gobi.",
+   "mn_latin": "khuuli bus agnuur"
+  },
+  {
+   "mn": "хилийн хяналт",
+   "en": "border control",
+   "pos": "noun phrase",
+   "example_mn": "Хилийн хяналтыг сүүлийн жилүүдэд чангатгасан.",
+   "example_en": "Border control has been tightened in recent years.",
+   "mn_latin": "khiliin khyanalt"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine (penalty)",
+   "pos": "noun",
+   "example_mn": "Түүнд арван сая төгрөгийн торгууль ногдуулжээ.",
+   "example_en": "He was given a ten-million-tugrik fine.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "зөрчил",
+   "en": "violation, offense",
+   "pos": "noun",
+   "example_mn": "Энэ бол хуулийн ноцтой зөрчил.",
+   "example_en": "This is a serious violation of the law.",
+   "mn_latin": "zörchil"
+  },
+  {
+   "mn": "хураах",
+   "en": "to confiscate, to seize",
+   "pos": "verb",
+   "example_mn": "Цагдаа нар хууль бус бууг хураав.",
+   "example_en": "The police confiscated the illegal gun.",
+   "mn_latin": "khuraakh"
+  },
+  {
+   "mn": "мэдээлэгч",
+   "en": "informant, whistleblower",
+   "pos": "noun",
+   "example_mn": "Мэдээлэгчийн нэрийг нууцалсан.",
+   "example_en": "The informant's name was kept confidential.",
+   "mn_latin": "medeelegch"
+  },
+  {
+   "mn": "хууль бус наймаа",
+   "en": "illegal trade, trafficking",
+   "pos": "noun phrase",
+   "example_mn": "Ан амьтны хууль бус наймаа хил дамнан явагддаг.",
+   "example_en": "Illegal wildlife trade takes place across borders.",
+   "mn_latin": "khuuli bus naimaa"
+  },
+  {
+   "mn": "арьс үс",
+   "en": "fur, hides",
+   "pos": "noun",
+   "example_mn": "Ачаанаас олон тарвагын арьс үс олдсон.",
+   "example_en": "A large number of marmot hides were found in the cargo.",
+   "mn_latin": "aris üs"
+  },
+  {
+   "mn": "эрүүгийн хариуцлага",
+   "en": "criminal liability",
+   "pos": "noun phrase",
+   "example_mn": "Ховор амьтан агнасан хүн эрүүгийн хариуцлага хүлээнэ.",
+   "example_en": "Anyone who hunts a rare animal faces criminal liability.",
+   "mn_latin": "erüügiin khariutslaga"
+  },
+  {
+   "mn": "ногдуулах",
+   "en": "to impose (a penalty)",
+   "pos": "verb",
+   "example_mn": "Шүүх хатуу шийтгэл ногдуулсан.",
+   "example_en": "The court imposed a harsh sentence.",
+   "mn_latin": "nogduulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хилийн хяналтыг чангатгахгүй байж болохгүй.",
+   "en": "Border control must be tightened.",
+   "alt_mn": [
+    "Хилийн хяналтыг заавал чангатгах ёстой."
+   ],
+   "alt_en": [
+    "We must tighten border control.",
+    "We cannot afford not to tighten border control."
+   ],
+   "mn_latin": "Khiliin khyanaltyg changatgakhgüi baij bolokhgüi."
+  },
+  {
+   "mn": "Гаалийн ажилтнууд хоёр зуу гаруй тарвагын арьс хураажээ.",
+   "en": "Customs officers confiscated more than two hundred marmot skins.",
+   "alt_mn": [
+    "Гаалийн ажилтнууд хоёр зуу гаруй тарвагын арьс хураан авсан."
+   ],
+   "alt_en": [
+    "Customs officers seized over two hundred marmot hides."
+   ],
+   "mn_latin": "Gaaliin ajiltnuud khoyor zuu garui tarvagyn aris khuraajee."
+  },
+  {
+   "mn": "Хууль бус агнуурт ногдуулдаг торгууль хэтэрхий бага гэж олон хүн үздэг.",
+   "en": "Many people believe the fines for poaching are far too low.",
+   "alt_mn": [],
+   "alt_en": [
+    "Many people think the fines imposed for poaching are much too low."
+   ],
+   "mn_latin": "Khuuli bus agnuurt nogduuldag torguuli kheterkhii baga gej olon khün üzdeg."
+  },
+  {
+   "mn": "Мэдээлэгчийн ачаар цагдаа нар хууль бус наймаачдыг баривчилжээ.",
+   "en": "Thanks to an informant, the police arrested the illegal traders.",
+   "alt_mn": [],
+   "alt_en": [
+    "Thanks to an informant, the police arrested the traffickers."
+   ],
+   "mn_latin": "Medeelegchiin achaar tsagdaa nar khuuli bus naimaachdyg barivchiljee."
+  },
+  {
+   "mn": "Ийм зөрчлийг олон нийтэд мэдээлэхгүй байж болохгүй.",
+   "en": "Such violations must be made known to the public.",
+   "alt_mn": [],
+   "alt_en": [
+    "We must inform the public about such violations."
+   ],
+   "mn_latin": "Iim zörchliig olon niited medeelekhgüi baij bolokhgüi."
+  },
+  {
+   "mn": "Мэдээлэгч болох нь эрсдэлгүй зүйл биш.",
+   "en": "Becoming an informant is not without risk.",
+   "alt_mn": [
+    "Мэдээлэгч болно гэдэг эрсдэлгүй биш."
+   ],
+   "alt_en": [
+    "Being an informant is not without its risks."
+   ],
+   "mn_latin": "Medeelegch bolokh ni ersdelgüi züil bish."
+  },
+  {
+   "mn": "Ирвэсийн арьс, ясны хууль бус наймаа хил дамнан явагдах нь ховор биш.",
+   "en": "It is not uncommon for the illegal trade in snow leopard fur and bones to cross borders.",
+   "alt_mn": [],
+   "alt_en": [
+    "The illegal trade in snow leopard skins and bones crossing borders is not uncommon."
+   ],
+   "mn_latin": "Irvesiin aris, yasny khuuli bus naimaa khil damnan yavagdakh ni khovor bish."
+  },
+  {
+   "mn": "Шүүх тэр анчинд их хэмжээний торгууль ногдуулж, бууг нь хураасан.",
+   "en": "The court gave the hunter a heavy fine and confiscated his gun.",
+   "alt_mn": [],
+   "alt_en": [
+    "The court fined the hunter heavily and seized his rifle."
+   ],
+   "mn_latin": "Shüükh ter anchind ikh khemjeenii torguuli nogduulj, buug ni khuraasan."
+  },
+  {
+   "mn": "Энэ тоо баримтыг харсан хэн ч асуудал ноцтой болохыг анзаарахгүй байж чадахгүй.",
+   "en": "Anyone who sees these figures cannot fail to notice how serious the problem is.",
+   "alt_mn": [],
+   "alt_en": [
+    "No one who sees these figures can fail to notice how serious the problem is."
+   ],
+   "mn_latin": "Ene too barimtyg kharsan khen ch asuudal notstoi bolokhyg anzaarakhgüi baij chadakhgüi."
+  },
+  {
+   "mn": "Хуулийн хэрэгжилт сул байгаа нь зөрчлийг нэмэгдүүлж байна.",
+   "en": "Weak enforcement of the law is increasing the number of violations.",
+   "alt_mn": [],
+   "alt_en": [
+    "Weak law enforcement is leading to more violations."
+   ],
+   "mn_latin": "Khuuliin kheregjilt sul baigaa ni zörchliig nemegdüülj baina."
+  },
+  {
+   "mn": "Орон нутгийн иргэд хууль бус агнуурын талаар мэдээлэхгүй байж болохгүй гэж байгаль хамгаалагч хэлэв.",
+   "en": "The ranger said local residents must report poaching.",
+   "alt_mn": [],
+   "alt_en": [
+    "The ranger said it is essential that local residents report poaching."
+   ],
+   "mn_latin": "Oron nutgiin irged khuuli bus agnuuryn talaar medeelekhgüi baij bolokhgüi gej baigali khamgaalagch khelev."
+  },
+  {
+   "mn": "Ховор амьтан агнасан этгээд зөвхөн торгууль төлөөд зогсохгүй, эрүүгийн хариуцлага хүлээнэ.",
+   "en": "Anyone who hunts a rare animal not only pays a fine but also faces criminal liability.",
+   "alt_mn": [],
+   "alt_en": [
+    "Those who hunt rare animals face not just a fine but criminal liability as well."
+   ],
+   "mn_latin": "Khovor amitan agnasan etgeed zövkhön torguuli tölööd zogsokhgüi, erüügiin khariutslaga khüleene."
+  }
+ ],
+ "grammar": {
+  "title_en": "Strong obligation with -хгүй байж болохгүй; formal double negatives in English",
+  "title_mn": "-хгүй байж болохгүй хэлбэр ба англи хэлний албан ёсны давхар үгүйсгэл",
+  "explain_en": "Mongolian can express a strong, almost moral obligation by combining two negatives: verb stem + -хгүй ('not doing') + байж болохгүй ('cannot be'). Literally it means 'it cannot be that one does not do X', so the overall meaning is 'one must do X' or 'one must not fail to do X'. The ending -хгүй itself never changes. Only the vowel before -х follows vowel harmony, exactly as in the dictionary form: анхаарахгүй, мэдээлэхгүй, хураахгүй. It sounds more emphatic and formal than ёстой, which is why it is common in news, speeches, and official statements. A close relative is -хгүй байж чадахгүй ('cannot help but / cannot fail to'), used for things that are impossible not to notice or feel: анзаарахгүй байж чадахгүй 'cannot fail to notice'.",
+  "explain_mn": "Англи хэлэнд албан ёсны хэв маягт хоёр үгүйсгэлийг нэг өгүүлбэрт хэрэглэж, эерэг утгыг зөөлөн боловч хүчтэй илэрхийлдэг. 'cannot fail to + үйл үг' нь 'заавал ... болно / ...-хгүй байж чадахгүй' гэсэн утгатай: No one can fail to notice = хэн ч анзаарахгүй байж чадахгүй. 'not without + нэр үг' нь 'тодорхой хэмжээгээр ... бий' гэсэн утгатай: not without risk = эрсдэлгүй биш, өөрөөр хэлбэл эрсдэлтэй. Мөн not uncommon (ховор биш = нэлээд түгээмэл), not unlikely (магадлал багагүй) зэрэг хэллэг бий. Эдгээр нь шууд 'risky', 'common' гэхээс илүү болгоомжтой, мэргэжлийн өнгө аястай сонсогддог тул мэдээ, илтгэлд их хэрэглэгддэг.",
+  "examples": [
+   {
+    "mn": "Бид ан амьтныг хамгаалахгүй байж болохгүй.",
+    "en": "We must protect wildlife.",
+    "mn_latin": "Bid an amitnyg khamgaalakhgüi baij bolokhgüi."
+   },
+   {
+    "mn": "Энэ хэргийг дуулсан хүн цочирдохгүй байж чадахгүй.",
+    "en": "No one who hears about this case can fail to be shocked.",
+    "mn_latin": "Ene khergiig duulsan khün tsochirdokhgüi baij chadakhgüi."
+   },
+   {
+    "mn": "Хилээр нууцаар гарах нь эрсдэлгүй биш.",
+    "en": "Crossing the border secretly is not without risk.",
+    "mn_latin": "Khileer nuutsaar garakh ni ersdelgüi bish."
+   },
+   {
+    "mn": "Тарвагын арьсны хууль бус наймаа ховор биш.",
+    "en": "The illegal trade in marmot skins is not uncommon.",
+    "mn_latin": "Tarvagyn arisny khuuli bus naimaa khovor bish."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бид энэ асуудлыг анхаарахгүй байж ___.",
+   "answer": "болохгүй",
+   "options": [
+    "болохгүй",
+    "болно",
+    "байна",
+    "чадна"
+   ],
+   "translation": "We must pay attention to this problem.",
+   "explain_en": "The obligation pattern needs two negatives: -хгүй байж болохгүй. With болно the sentence would mean 'we may ignore it', the opposite of what is intended.",
+   "explain_mn": "Үүрэг илэрхийлэхэд -хгүй байж болохгүй гэж хоёр үгүйсгэлийг хамт хэрэглэнэ. 'болно' гэвэл 'анхаарахгүй байж болно' буюу эсрэг утгатай болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Гаалийнхан хууль бус арьс үсийг ___ авсан.",
+   "answer": "хурааж",
+   "options": [
+    "хурааж",
+    "хураах",
+    "хураалт",
+    "хураамж"
+   ],
+   "translation": "Customs officers confiscated the illegal furs.",
+   "explain_en": "Before the auxiliary авах, the main verb takes the connective converb -ж: хурааж авсан 'seized (and took)'. Хураалт is a noun ('confiscation'), and хураамж means 'fee'.",
+   "explain_mn": "'авах' туслах үйл үгийн өмнө үндсэн үйл үг -ж нөхцөлтэй байна: хурааж авсан. 'Хураалт' нь нэр үг, 'хураамж' нь өөр утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Хууль зөрчсөн анчинд их хэмжээний ___ ногдуулсан.",
+   "answer": "торгууль",
+   "options": [
+    "торгууль",
+    "мэдээлэгч",
+    "хилийн хяналт",
+    "зөрчил"
+   ],
+   "translation": "A large fine was imposed on the hunter who broke the law.",
+   "explain_en": "Ногдуулах 'to impose' goes with penalties, and торгууль 'fine' is the penalty here. You commit (гаргах) a зөрчил; you don't impose one.",
+   "explain_mn": "'Ногдуулах' үйл үг шийтгэлтэй холбогдоно: торгууль ногдуулах. Зөрчлийг 'гаргадаг', ногдуулдаггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Reporting poachers to the police is not without ___.",
+   "answer": "risk",
+   "options": [
+    "risk",
+    "risky",
+    "riskless",
+    "risking"
+   ],
+   "translation": "Хууль бус анчдыг цагдаад мэдээлэх нь эрсдэлгүй биш.",
+   "explain_en": "'Without' is a preposition, so it must be followed by a noun: not without risk. 'Risky' is an adjective, and 'risking' would need an object.",
+   "explain_mn": "'Without' бол угтвар үг тул араас нь нэр үг орно: not without risk. 'Risky' нь тэмдэг нэр тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Anyone reading the report cannot fail ___ notice the scale of the trade.",
+   "answer": "to",
+   "options": [
+    "to",
+    "of",
+    "for",
+    "at"
+   ],
+   "translation": "Тайланг уншсан хэн ч наймааны цар хүрээг анзаарахгүй байж чадахгүй.",
+   "explain_en": "The fixed pattern is 'fail to + base verb', so 'cannot fail to notice'.",
+   "explain_mn": "'Fail' үйл үгийн араас 'to + үйл үгийн үндэс' орно: cannot fail to notice."
+  },
+  {
+   "lang": "en",
+   "text": "Customs officers ___ more than three hundred bear paws last year.",
+   "answer": "confiscated",
+   "options": [
+    "confiscated",
+    "fined",
+    "reported",
+    "violated"
+   ],
+   "translation": "Өнгөрсөн жил гаалийн ажилтнууд гурван зуу гаруй баавгайн сарвуу хураасан.",
+   "explain_en": "You confiscate objects. You fine people, report crimes, and violate laws, so none of the other verbs fits 'bear paws' as the object.",
+   "explain_mn": "Эд зүйлийг 'confiscate' буюу хураана. 'Fine' хүнд торгууль ногдуулах, 'violate' хууль зөрчих гэсэн утгатай тул тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Саруул",
+   "mn": "Өнөөдрийн нэвтрүүлгээр хууль бус агнуурын асуудлыг хөндөж байна. Бат аа, сүүлийн үед байдал ямар байна вэ?",
+   "en": "On today's program we're discussing poaching. Bat, what's the situation like lately?",
+   "mn_latin": "Önöödriin nevtrüülgeer khuuli bus agnuuryn asuudlyg khöndöj baina. Bat aa, süüliin üyed baidal yamar baina ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Өнгөрсөн сард л гэхэд хилийн хяналтын цэг дээр ирвэсийн хоёр арьс, олон тооны яс хураасан.",
+   "en": "Just last month, two snow leopard skins and a large number of bones were confiscated at a border checkpoint.",
+   "mn_latin": "Öngörsön sard l gekhed khiliin khyanaltyn tseg deer irvesiin khoyor aris, olon toony yas khuraasan."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Ийм зөрчил гаргасан хүмүүст ямар шийтгэл ногдуулдаг вэ?",
+   "en": "What penalties are imposed on people who commit such offenses?",
+   "mn_latin": "Iim zörchil gargasan khümüüst yamar shiitgel nogduuldag ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Торгууль төлөхөөс гадна эрүүгийн хариуцлага хүлээнэ. Гэхдээ хуулийн хэрэгжилтийг сайжруулахгүй байж болохгүй.",
+   "en": "Besides paying a fine, they face criminal liability. But we absolutely must improve enforcement of the law.",
+   "mn_latin": "Torguuli tölökhöös gadna erüügiin khariutslaga khüleene. Gekhdee khuuliin kheregjiltiig saijruulakhgüi baij bolokhgüi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Мэдээлэгчид энд ямар үүрэг гүйцэтгэдэг вэ? Тэдний хувьд энэ нь эрсдэлгүй биш байх.",
+   "en": "What role do informants play here? I imagine it's not without risk for them.",
+   "mn_latin": "Medeelegchid end yamar üüreg güitsetgedeg ve? Tednii khuvid ene ni ersdelgüi bish baikh."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тийм ээ, эрсдэлтэй. Тиймээс тэдний нэрийг нууцалж, хамгаалахгүй байж болохгүй.",
+   "en": "Yes, it's risky. That's why their identities must be kept confidential and protected.",
+   "mn_latin": "Tiim ee, ersdeltei. Tiimees tednii neriig nuutsalj, khamgaalakhgüi baij bolokhgüi."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Энэ тоо баримтыг сонссон хэн ч асуудал ноцтой болохыг анзаарахгүй байж чадахгүй. Баярлалаа.",
+   "en": "No one hearing these figures can fail to see how serious the problem is. Thank you.",
+   "mn_latin": "Ene too barimtyg sonsson khen ch asuudal notstoi bolokhyg anzaarakhgüi baij chadakhgüi. Bayarlalaa."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, damages for illegally hunting a protected species are often calculated from the animal's officially set 'ecological-economic value,' so killing a snow leopard or saiga can cost far more than an ordinary fine. Much of the illegal demand comes from abroad, for snow leopard bones, saiga horns, musk deer musk, and marmot fur. For this reason, customs and border checkpoints play a key role in conservation. Rangers and local herders who act as informants are often the first to detect poachers in remote areas.",
+  "mn": "Монголд хамгаалалттай амьтныг хууль бусаар агнасан тохиолдолд хохирлыг тухайн амьтны экологи-эдийн засгийн үнэлгээгээр тооцдог тул ирвэс, бөхөн агнасан хүн энгийн торгуулиас хамаагүй их төлбөр төлж болзошгүй. Ирвэсийн яс, бөхөний эвэр, хүдрийн заар, тарвагын арьс үсний хууль бус эрэлт ихэвчлэн гадаадаас үүсдэг. Тиймээс гааль, хилийн хяналтын цэгүүд байгаль хамгаалалд чухал үүрэгтэй. Алслагдсан нутагт хууль бус анчдыг хамгийн түрүүнд илрүүлдэг нь мэдээлэгч болсон байгаль хамгаалагч, малчид байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 1,
+  "notes": "A strong, natural lesson in both languages. Only the Mongolian grammar explanation had a broken English example and one inaccurate gloss."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Main issue: 'cannot fail to' was misused as an obligation translation in the alternatives. The Mongolian text is otherwise sound.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'cannot fail to' means 'will inevitably', not obligation. It mistranslates -хгүй байж болохгүй."
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "'cannot fail to' expresses inevitability, not obligation."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "'cannot fail to report' would mean they inevitably report. That is the wrong meaning."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The vowel before -х does follow vowel harmony (-ах/-эх). The original claim was misleading."
+   }
+  ]
+ }
+}

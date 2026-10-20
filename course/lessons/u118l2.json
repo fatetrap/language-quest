@@ -1,0 +1,448 @@
+{
+ "intro_en": "Follow a rumor as it spreads through a Ulaanbaatar khoroo and its Facebook group. You will learn verbs for spreading and reacting to news, the collective form гэлцэх (\"people are saying\"), and how English uses \"which\" to comment on a whole clause.",
+ "intro_mn": "Улаанбаатарын нэгэн хороо болон түүний Facebook группээр цуу яриа хэрхэн тардгийг харна. Мэдээ тараах, мэдээнд хариу үйлдэл үзүүлэхтэй холбоотой үйл үгс, \"гэлцэх\" хамтын хэлбэр, мөн англи хэлэнд бүхэл өгүүлбэрийн талаар \"which\"-ээр санал нэмж хэлэхийг сурна.",
+ "vocab": [
+  {
+   "mn": "цуу яриа",
+   "en": "rumor",
+   "pos": "noun",
+   "example_mn": "Хороонд нэг цуу яриа тарсан.",
+   "example_en": "A rumor spread through the khoroo.",
+   "mn_latin": "tsuu yaria"
+  },
+  {
+   "mn": "тараах",
+   "en": "to spread (something)",
+   "pos": "verb",
+   "example_mn": "Энэ мэдээг хэн тараасан бэ?",
+   "example_en": "Who spread this news?",
+   "mn_latin": "taraakh"
+  },
+  {
+   "mn": "дэгдээх",
+   "en": "to stir up (a fuss, a scandal)",
+   "pos": "verb",
+   "example_mn": "Зарим хүн санаатайгаар шуугиан дэгдээдэг.",
+   "example_en": "Some people stir things up on purpose.",
+   "mn_latin": "degdeekh"
+  },
+  {
+   "mn": "итгэх",
+   "en": "to believe, to trust",
+   "pos": "verb",
+   "example_mn": "Би түүний үгэнд итгэхгүй байна.",
+   "example_en": "I don't believe what he says.",
+   "mn_latin": "itgekh"
+  },
+  {
+   "mn": "сэжиглэх",
+   "en": "to suspect",
+   "pos": "verb",
+   "example_mn": "Би энэ постыг худал гэж сэжиглэж байна.",
+   "example_en": "I suspect this post is false.",
+   "mn_latin": "sejiglekh"
+  },
+  {
+   "mn": "гэлцэх",
+   "en": "(people) to say, to be saying",
+   "pos": "verb",
+   "example_mn": "Хүмүүс шинэ зам тавина гэлцэж байна.",
+   "example_en": "People are saying a new road will be built.",
+   "mn_latin": "geltsekh"
+  },
+  {
+   "mn": "хуваалцах",
+   "en": "to share",
+   "pos": "verb",
+   "example_mn": "Тэр постыг мянга гаруй хүн хуваалцсан.",
+   "example_en": "More than a thousand people shared that post.",
+   "mn_latin": "khuvaaltsakh"
+  },
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence, proof",
+   "pos": "noun",
+   "example_mn": "Үүнд ямар ч нотлох баримт алга.",
+   "example_en": "There is no evidence for this at all.",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "худал мэдээлэл",
+   "en": "misinformation, false information",
+   "pos": "noun",
+   "example_mn": "Худал мэдээлэл Facebook-ээр маш хурдан тардаг.",
+   "example_en": "Misinformation spreads very fast on Facebook.",
+   "mn_latin": "khudal medeelel"
+  },
+  {
+   "mn": "хороо",
+   "en": "khoroo (city subdistrict)",
+   "pos": "noun",
+   "example_mn": "Манай хороонд шинэ цэцэрлэг баригдана.",
+   "example_en": "A new kindergarten will be built in our khoroo.",
+   "mn_latin": "khoroo"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай хороонд ус тасарна гэсэн цуу яриа тарсан.",
+   "en": "A rumor spread in our khoroo that the water would be cut off.",
+   "alt_mn": [
+    "Манай хороонд ус тасрах гэж байна гэсэн цуу яриа тарсан."
+   ],
+   "alt_en": [
+    "A rumor went around our khoroo that the water would be shut off."
+   ],
+   "mn_latin": "Manai khoroond us tasarna gesen tsuu yaria tarsan."
+  },
+  {
+   "mn": "Хүмүүс засаг дарга огцорно гэлцэж байна.",
+   "en": "People are saying the governor will resign.",
+   "alt_mn": [
+    "Засаг дарга огцорно гэлцээд байна."
+   ],
+   "alt_en": [
+    "Word is the governor is going to resign."
+   ],
+   "mn_latin": "Khümüüs zasag darga ogtsorno geltsej baina."
+  },
+  {
+   "mn": "Энэ постыг хэн анх тараасныг хэн ч мэдэхгүй.",
+   "en": "No one knows who first spread this post.",
+   "alt_mn": [
+    "Энэ постыг анх хэн тараасныг хэн ч мэдэхгүй байна."
+   ],
+   "alt_en": [
+    "Nobody knows who spread this post first."
+   ],
+   "mn_latin": "Ene postyg khen ankh taraasnyg khen ch medekhgüi."
+  },
+  {
+   "mn": "Зарим хүмүүс санаатайгаар шуугиан дэгдээдэг.",
+   "en": "Some people stir things up on purpose.",
+   "alt_mn": [
+    "Зарим хүн зориуд шуугиан дэгдээдэг."
+   ],
+   "alt_en": [
+    "Some people deliberately stir up trouble."
+   ],
+   "mn_latin": "Zarim khümüüs sanaataigaar shuugian degdeedeg."
+  },
+  {
+   "mn": "Facebook-т бичсэн бүхэнд итгэж болохгүй.",
+   "en": "You shouldn't believe everything written on Facebook.",
+   "alt_mn": [
+    "Facebook дээр бичсэн бүх зүйлд итгэж болохгүй."
+   ],
+   "alt_en": [
+    "You can't believe everything you read on Facebook."
+   ],
+   "mn_latin": "Facebook-t bichsen bükhend itgej bolokhgüi."
+  },
+  {
+   "mn": "Хөрш маань энэ мэдээг худал гэж сэжиглэсэн нь зөв байж таарсан.",
+   "en": "My neighbor suspected the news was false, which turned out to be right.",
+   "alt_mn": [
+    "Хөрш маань энэ мэдээг худал гэж сэжиглэсэн нь зөв байсан."
+   ],
+   "alt_en": [
+    "My neighbor suspected the news was fake, which turned out to be correct."
+   ],
+   "mn_latin": "Khörsh maani ene medeeg khudal gej sejiglesen ni zöv baij taarsan."
+  },
+  {
+   "mn": "Пост нэг өдрийн дотор хоёр мянга гаруй удаа хуваалцагдсан нь бүгдийг гайхшруулсан.",
+   "en": "The post was shared over two thousand times in one day, which surprised everyone.",
+   "alt_mn": [
+    "Пост нэг өдөрт хоёр мянга гаруй удаа хуваалцагдсан нь бүгдийг гайхшруулсан."
+   ],
+   "alt_en": [
+    "The post was shared more than two thousand times in a single day, which surprised everyone."
+   ],
+   "mn_latin": "Post neg ödriin dotor khoyor myanga garui udaa khuvaaltsagdsan ni bügdiig gaikhshruulsan."
+  },
+  {
+   "mn": "Нотлох баримт байхгүй ч хүмүүс итгэсээр л байна.",
+   "en": "There is no evidence, but people still keep believing it.",
+   "alt_mn": [
+    "Нотлох баримт алга ч хүмүүс итгэсээр байна."
+   ],
+   "alt_en": [
+    "There's no proof, but people keep believing it anyway."
+   ],
+   "mn_latin": "Notlokh barimt baikhgüi ch khümüüs itgeseer l baina."
+  },
+  {
+   "mn": "Гурилын үнэ нэмэгдэнэ гэлцээд хүмүүс гурил нөөцөлж эхэлсэн.",
+   "en": "People were saying flour prices would go up, so they started stocking up on flour.",
+   "alt_mn": [
+    "Гурилын үнэ өснө гэлцээд хүмүүс гурил нөөцөлж эхэлсэн."
+   ],
+   "alt_en": [
+    "Word went around that flour prices would rise, and people started stocking up on flour."
+   ],
+   "mn_latin": "Gurilyn üne nemegdene geltseed khümüüs guril nöötsölj ekhelsen."
+  },
+  {
+   "mn": "Хорооноос хурал зохион байгуулж, цуу ярианы талаар тайлбар өгсөн.",
+   "en": "The khoroo held a meeting and gave an explanation about the rumor.",
+   "alt_mn": [
+    "Хороо хурал хийж, цуу ярианы талаар тайлбар өгсөн."
+   ],
+   "alt_en": [
+    "The khoroo organized a meeting and explained the situation regarding the rumor."
+   ],
+   "mn_latin": "Khoroonoos khural zokhion baiguulj, tsuu yariany talaar tailbar ögsön."
+  },
+  {
+   "mn": "Би эхэндээ итгэчихсэн, одоо бодоход ичмээр байна.",
+   "en": "I believed it at first, which embarrasses me now.",
+   "alt_mn": [
+    "Би эхэндээ итгэсэн нь одоо бодоход ичмээр байна."
+   ],
+   "alt_en": [
+    "I believed it at first, which is embarrassing to think about now."
+   ],
+   "mn_latin": "Bi ekhendee itgechikhsen, odoo bodokhod ichmeer baina."
+  },
+  {
+   "mn": "Хүмүүс юу гэлцээд байгаа юм бэ?",
+   "en": "What are people saying?",
+   "alt_mn": [
+    "Хүмүүс юу гэлцэж байна?"
+   ],
+   "alt_en": [
+    "What is everyone saying?"
+   ],
+   "mn_latin": "Khümüüs yuu geltseed baigaa yum be?"
+  }
+ ],
+ "grammar": {
+  "title_en": "гэлцэх \"people are saying\" and comment \"which\"",
+  "title_mn": "\"Гэлцэх\" (\"хүмүүс ... гэлцэж байна\") ба бүхэл өгүүлбэрийн талаарх \"which\"",
+  "explain_en": "The suffix -лц- (with a linking vowel: -алц-, -элц-, -олц-, -өлц-) adds the idea that several people do an action together or among themselves: ярих \"to talk\" → ярилцах \"to talk with each other,\" хуваах \"to divide\" → хуваалцах \"to share.\" With гэх \"to say\" it gives гэлцэх, \"(many people) say.\" It is perfect for rumors because no single speaker is named. Use гэлцэж байна or гэлцээд байна for \"people are saying (right now)\" and гэлцдэг for \"people say (generally).\" The reported content comes before it, just like with гэж: Сургууль хаагдана гэлцэж байна \"People are saying the school will close.\" In English, \"which\" after a comma can refer to the whole previous clause, not just one noun: The post was shared 2,000 times, which surprised everyone. Here \"which\" means \"this fact.\" Mongolian usually expresses this with \"...-сан нь\" or \"энэ нь\": ...хуваалцагдсан нь бүгдийг гайхшруулсан. Note: \"that\" and \"what\" cannot be used this way, and a comma always comes before \"which.\"",
+  "explain_mn": "\"-лц-\" (холбох эгшигтэй: -алц-, -элц-, -олц-, -өлц-) дагавар нь үйлдлийг хэд хэдэн хүн хамтдаа эсвэл хоорондоо хийхийг заана: ярих → ярилцах, хуваах → хуваалцах. \"Гэх\" үйл үгтэй нийлж \"гэлцэх\" буюу \"(олон хүн) ингэж ярих\" болно. Хэн хэлснийг нэрлэдэггүй тул цуу ярианд их тохирно. \"Хүмүүс одоо ингэж ярьж байна\" гэвэл \"гэлцэж байна\" эсвэл \"гэлцээд байна\", \"ерөнхийдөө ингэж ярьдаг\" гэвэл \"гэлцдэг\" гэнэ. Дамжуулж буй агуулга нь \"гэж\"-тэй адил өмнө нь орно: Сургууль хаагдана гэлцэж байна. Англи хэлэнд таслалын дараах \"which\" нь зөвхөн нэг нэр үгийг биш, өмнөх бүхэл өгүүлбэрийг заадаг: The post was shared 2,000 times, which surprised everyone. Энд \"which\" нь \"энэ явдал\" гэсэн утгатай. Монгол хэлэнд үүнийг ихэвчлэн \"...-сан нь\" эсвэл \"энэ нь\" гэж илэрхийлдэг: \"...хуваалцагдсан нь бүгдийг гайхшруулсан.\" Анхаар: ийм үед \"that\" эсвэл \"what\" хэрэглэж болохгүй бөгөөд \"which\"-ийн өмнө заавал таслал тавина.",
+  "examples": [
+   {
+    "mn": "Хүмүүс шинэ зам тавина гэлцэж байна.",
+    "en": "People are saying a new road will be built.",
+    "mn_latin": "Khümüüs shine zam tavina geltsej baina."
+   },
+   {
+    "mn": "Энэ айлынхныг их баян гэж хөршүүд нь гэлцдэг.",
+    "en": "The neighbors say this family is very rich.",
+    "mn_latin": "Ene ailynkhnyg ikh bayan gej khörshüüd ni geltsdeg."
+   },
+   {
+    "mn": "Цуу яриа худал байж таарсан нь бүгдийг тайвшруулсан.",
+    "en": "The rumor turned out to be false, which relieved everyone.",
+    "mn_latin": "Tsuu yaria khudal baij taarsan ni bügdiig taivshruulsan."
+   },
+   {
+    "mn": "Хорооны дарга юу ч хэлээгүй нь хүмүүсийг улам сэжиглүүлсэн.",
+    "en": "The khoroo head said nothing, which made people even more suspicious.",
+    "mn_latin": "Khoroony darga yuu ch kheleegüi ni khümüüsiig ulam sejiglüülsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ айлынхныг их баян гэж хөршүүд нь ___.",
+   "answer": "гэлцдэг",
+   "options": [
+    "гэлцдэг",
+    "гэлцэх",
+    "гэлцсэн нь",
+    "гэлцээд"
+   ],
+   "translation": "The neighbors say this family is very rich.",
+   "explain_en": "The sentence needs a finite verb at the end. гэлцдэг is the habitual \"people (generally) say.\" гэлцээд and гэлцсэн нь cannot end a sentence, and bare гэлцэх sounds unfinished here.",
+   "explain_mn": "Өгүүлбэрийн төгсгөлд төгсөх хэлбэр хэрэгтэй. \"Гэлцдэг\" нь \"ихэвчлэн ингэж ярьдаг\" гэсэн зуршлын утгатай. \"Гэлцээд\", \"гэлцсэн нь\" өгүүлбэрийг төгсгөж чадахгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ худал мэдээг хэн ___ бэ?",
+   "answer": "тараасан",
+   "options": [
+    "тараасан",
+    "тарсан",
+    "итгэсэн",
+    "хуваалцагдсан"
+   ],
+   "translation": "Who spread this false news?",
+   "explain_en": "мэдээг is a direct object (accusative -г), so you need the transitive тараах \"to spread something.\" тарах \"to spread\" (by itself) and the passive хуваалцагдах cannot take an object, and итгэх takes the dative, not the accusative.",
+   "explain_mn": "\"Мэдээг\" нь заахын тийн ялгалтай шууд тусагдахуун тул үйлдэх утгатай \"тараах\" хэрэгтэй. \"Тарах\", \"хуваалцагдах\" тусагдахуун авдаггүй, \"итгэх\" өгөх оршихын тийн ялгал шаарддаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Би түүний хэлсэн үгэнд ___ байна.",
+   "answer": "итгэхгүй",
+   "options": [
+    "итгэхгүй",
+    "сэжиглэхгүй",
+    "тараахгүй",
+    "дэгдээхгүй"
+   ],
+   "translation": "I don't believe what he said.",
+   "explain_en": "үгэнд is in the dative case (-нд), and итгэх \"to believe\" takes the dative: ...-д итгэх \"believe in/trust something.\" The other verbs take an accusative object.",
+   "explain_mn": "\"Үгэнд\" өгөх оршихын тийн ялгалтай байгаа нь \"итгэх\" үйл үгтэй тохирно. Бусад үйл үг заахын тийн ялгал (-ыг, -ийг) шаарддаг."
+  },
+  {
+   "lang": "en",
+   "text": "The rumor turned out to be false, ___ relieved everyone.",
+   "answer": "which",
+   "options": [
+    "which",
+    "that",
+    "what",
+    "who"
+   ],
+   "translation": "Цуу яриа худал байж таарсан нь бүгдийг тайвшруулсан.",
+   "explain_en": "After a comma, use \"which\" to comment on the whole previous clause. \"That\" cannot follow a comma in this use, \"what\" is not a relative pronoun here, and \"who\" refers to people.",
+   "explain_mn": "Таслалын дараа өмнөх бүхэл өгүүлбэрийг заахдаа зөвхөн \"which\" хэрэглэнэ. \"That\" таслалын дараа ийм утгаар орохгүй, \"what\" энд харьцангуй төлөөний үг болохгүй, \"who\" хүнийг заадаг."
+  },
+  {
+   "lang": "en",
+   "text": "Thousands of people shared the post, which ___ it go viral.",
+   "answer": "made",
+   "options": [
+    "made",
+    "make",
+    "making",
+    "to make"
+   ],
+   "translation": "Мянга мянган хүн постыг хуваалцсан нь түүнийг цахим ертөнцөд асар хурдан тархахад хүргэсэн.",
+   "explain_en": "\"Which\" is the subject of its own clause, so it needs a full verb in the past tense to match the story: \"which made it go viral.\"",
+   "explain_mn": "\"Which\" өөрөө шинэ өгүүлбэрийн өгүүлэгдэхүүн тул бүрэн үйл үг шаардана. Түүх өнгөрсөн цагт байгаа тул \"made\" болно."
+  },
+  {
+   "lang": "en",
+   "text": "People ___ that the market will close next month.",
+   "answer": "are saying",
+   "options": [
+    "are saying",
+    "are telling",
+    "say to",
+    "are speaking"
+   ],
+   "translation": "Ирэх сард зах хаагдана гэлцэж байна.",
+   "explain_en": "\"Say\" introduces reported content with \"that\" and needs no listener. \"Tell\" needs a listener (tell someone), \"say to\" needs an object, and \"speak\" does not take a that-clause.",
+   "explain_mn": "\"Say that...\" нь сонсогчгүйгээр ярианы агуулгыг дамжуулна. \"Tell\" заавал хэнд гэдгийг шаардана, \"speak\" нь \"that\"-тай хэрэглэгдэхгүй. Монгол хэлний \"гэлцэж байна\"-тай дүйнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Сонссон уу? Манай хорооны цэцэрлэгийг хааж, оронд нь орон сууц барина гэлцээд байна.",
+   "en": "Did you hear? People are saying they'll close our khoroo's kindergarten and build apartments in its place.",
+   "mn_latin": "Sonsson uu? Manai khoroony tsetserlegiig khaaj, orond ni oron suuts barina geltseed baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Хэн тэгж хэлсэн юм бэ? Нотлох баримт байна уу?",
+   "en": "Who said that? Is there any evidence?",
+   "mn_latin": "Khen tegj khelsen yum be? Notlokh barimt baina uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Хорооны Facebook группт нэг хүн пост тавьсан, түүнийг гурван зуу гаруй хүн хуваалцсан.",
+   "en": "Someone posted in the khoroo's Facebook group, and over three hundred people shared it.",
+   "mn_latin": "Khoroony Facebook gruppt neg khün post tavisan, tüüniig gurvan zuu garui khün khuvaaltssan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Олон хүн хуваалцсан нь үнэн гэсэн үг биш шүү дээ. Хэн нэгэн тэр постыг санаатайгаар шуугиан дэгдээх гэж бичсэн байх гэж би сэжиглэж байна.",
+   "en": "Lots of shares doesn't mean it's true. I suspect someone wrote that post on purpose to stir things up.",
+   "mn_latin": "Olon khün khuvaaltssan ni ünen gesen üg bish shüü dee. Khen negen ter postyg sanaataigaar shuugian degdeekh gej bichsen baikh gej bi sejiglej baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Гэхдээ бүгд л тэгж гэлцээд байна шүү дээ.",
+   "en": "But everyone's saying so.",
+   "mn_latin": "Gekhdee bügd l tegj geltseed baina shüü dee."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Би хорооны дарга руу утасдаж асуусан. Цэцэрлэгийг засварлах гэж байгаа юм байна, хаахгүй гэнэ.",
+   "en": "I called the khoroo head and asked. It turns out they're going to renovate the kindergarten, not close it.",
+   "mn_latin": "Bi khoroony darga ruu utasdaj asuusan. Tsetserlegiig zasvarlakh gej baigaa yum baina, khaakhgüi gene."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгвэл би эхэндээ итгэчихсэн нь ичмээр юм.",
+   "en": "So I believed it at first, which is embarrassing.",
+   "mn_latin": "Tegvel bi ekhendee itgechikhsen ni ichmeer yum."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Санаа зоволтгүй. Харин одоо тэр постын доор зөв мэдээллийг нь бичээд өгөөч.",
+   "en": "Don't worry. But now please write the correct information under that post.",
+   "mn_latin": "Sanaa zovoltgüi. Kharin odoo ter postyn door zöv medeelliig ni bicheed ögööch."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, Facebook is by far the most popular social network, and many khoroos, apartment buildings, and schools run their own Facebook groups for local news. These groups are useful, but they also let rumors spread in hours. Talk passed from person to person is called ам дамжсан яриа (\"word of mouth\"), and people often check such news by calling the khoroo office directly.",
+  "mn": "Монголд Facebook бусад сүлжээнээс хамаагүй түгээмэл бөгөөд олон хороо, орон сууц, сургууль өөрийн Facebook группээр орон нутгийн мэдээгээ хуваалцдаг. Ийм групп хэрэгтэй ч цуу яриа хэдхэн цагийн дотор тарах боломж олгодог. Хүнээс хүнд дамжсан яриаг \"ам дамжсан яриа\" гэдэг бөгөөд хүмүүс ийм мэдээг ихэвчлэн хороо руу шууд утасдаж шалгадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "Strong, natural lesson with accurate grammar. The fixes cover a garbled suffix list, one awkward connective, a missing subject in the dialogue, and an imprecise culture-note definition."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 8,
+  "notes": "The main problem was that the grammar title and explanation covered different topics in en and mn. The culture note and some explanations also differed between the two languages.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "title_en and title_mn covered different topics; both now cover both lesson points"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn only covered \"which\"; now matches title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; both now explain both points"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "now covers the same content as explain_en"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "\"түүнд хандах\" does not mean \"reacting to\""
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "the old translation was an unnatural causative construction"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "now matches explain_en by also explaining why \"what\" is wrong"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "mn lacked \"by far\" and the definition of ам дамжсан яриа; now matches en"
+   }
+  ]
+ }
+}

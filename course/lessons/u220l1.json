@@ -1,0 +1,415 @@
+{
+ "intro_en": "In this lesson you'll learn how to arrive at a herder family's ger, greet your hosts, and follow key ger customs: the roof ring, the place of honor, the west and east sides, and the threshold. You'll also practice the Mongolian -ж сурах pattern for customs you have learned, and the English 'Shall I...?' for polite offers.",
+ "intro_mn": "Энэ хичээлээр та малчин айлын гэрт хэрхэн очиж, гэрийн эздэд мэндлэх, мөн тооно, хоймор, баруун болон зүүн тал, босготой холбоотой гэрийн ёс заншлыг сурна. Мөн сурсан ёс заншлаа илэрхийлэх монгол хэлний -ж сурах хэлбэр, эелдгээр санал болгох англи хэлний 'Shall I...?' хэлбэрийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "тооно",
+   "en": "roof ring (smoke hole of the ger)",
+   "pos": "noun",
+   "example_mn": "Тооноор нарны гэрэл тусаж байна.",
+   "example_en": "Sunlight is shining in through the roof ring.",
+   "mn_latin": "toono"
+  },
+  {
+   "mn": "хоймор",
+   "en": "place of honor (the back of the ger)",
+   "pos": "noun",
+   "example_mn": "Хүндтэй зочныг хойморт суулгадаг.",
+   "example_en": "Honored guests are seated in the place of honor.",
+   "mn_latin": "khoimor"
+  },
+  {
+   "mn": "босго",
+   "en": "threshold",
+   "pos": "noun",
+   "example_mn": "Босго бүү гишгээрэй.",
+   "example_en": "Please don't step on the threshold.",
+   "mn_latin": "bosgo"
+  },
+  {
+   "mn": "гишгэх",
+   "en": "to step on",
+   "pos": "verb",
+   "example_mn": "Тэр санамсаргүй босго гишгэчихлээ.",
+   "example_en": "He accidentally stepped on the threshold.",
+   "mn_latin": "gishgekh"
+  },
+  {
+   "mn": "Нохой хоргоо!",
+   "en": "Hold the dog! (call when approaching a ger)",
+   "pos": "phrase",
+   "example_mn": "Гэрт ойртохдоо \"Нохой хоргоо!\" гэж дууддаг.",
+   "example_en": "When you approach a ger, you call out, \"Hold the dog!\"",
+   "mn_latin": "Nokhoi khorgoo!"
+  },
+  {
+   "mn": "малчин",
+   "en": "herder",
+   "pos": "noun",
+   "example_mn": "Энэ малчин зуны турш голын эрэг дээр нутагладаг.",
+   "example_en": "This herder camps by the river all summer.",
+   "mn_latin": "malchin"
+  },
+  {
+   "mn": "айл",
+   "en": "household, family",
+   "pos": "noun",
+   "example_mn": "Бид өнөө орой малчин айлд хонох юм.",
+   "example_en": "We're spending tonight with a herder family.",
+   "mn_latin": "ail"
+  },
+  {
+   "mn": "баруун тал",
+   "en": "west side (of the ger)",
+   "pos": "noun phrase",
+   "example_mn": "Эрэгтэйчүүд гэрийн баруун талд суудаг.",
+   "example_en": "Men sit on the west side of the ger.",
+   "mn_latin": "baruun tal"
+  },
+  {
+   "mn": "зүүн тал",
+   "en": "east side (of the ger)",
+   "pos": "noun phrase",
+   "example_mn": "Гал тогооны хэрэгсэл гэрийн зүүн талд байдаг.",
+   "example_en": "Kitchen things are kept on the east side of the ger.",
+   "mn_latin": "züün tal"
+  },
+  {
+   "mn": "зочломтгой",
+   "en": "hospitable",
+   "pos": "adjective",
+   "example_mn": "Малчид их зочломтгой хүмүүс.",
+   "example_en": "Herders are very hospitable people.",
+   "mn_latin": "zochlomtgoi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Гэрт ойртохдоо \"Нохой хоргоо!\" гэж дуудах хэрэгтэй.",
+   "en": "When you approach the ger, you should call out, \"Hold the dog!\"",
+   "alt_mn": [
+    "Гэрт ойртохдоо \"Нохой хоргоо!\" гэж хашгирах хэрэгтэй."
+   ],
+   "alt_en": [
+    "As you get close to the ger, you should call out, \"Hold the dog!\""
+   ],
+   "mn_latin": "Gert oirtokhdoo \"Nokhoi khorgoo!\" gej duudakh kheregtei."
+  },
+  {
+   "mn": "Би босго гишгэхгүй байж сурсан.",
+   "en": "I've learned not to step on the threshold.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have learned not to step on the threshold.",
+    "I learned not to step on the threshold."
+   ],
+   "mn_latin": "Bi bosgo gishgekhgüi baij sursan."
+  },
+  {
+   "mn": "Гутлаа тайлах уу?",
+   "en": "Shall I take my shoes off?",
+   "alt_mn": [
+    "Би гутлаа тайлах уу?"
+   ],
+   "alt_en": [
+    "Should I take my shoes off?",
+    "Shall I take off my shoes?"
+   ],
+   "mn_latin": "Gutlaa tailakh uu?"
+  },
+  {
+   "mn": "Гэрийн эзэн биднийг хойморт суулгалаа.",
+   "en": "The host seated us in the place of honor.",
+   "alt_mn": [
+    "Гэрийн эзэн биднийг хойморт суулгав."
+   ],
+   "alt_en": [
+    "The host had us sit in the place of honor."
+   ],
+   "mn_latin": "Geriin ezen bidniig khoimort suulgalaa."
+  },
+  {
+   "mn": "Эрэгтэй зочид ихэвчлэн гэрийн баруун талд суудаг.",
+   "en": "Male guests usually sit on the west side of the ger.",
+   "alt_mn": [
+    "Эрэгтэй зочид ихэвчлэн баруун талд суудаг."
+   ],
+   "alt_en": [
+    "Men who are guests usually sit on the west side of the ger."
+   ],
+   "mn_latin": "Eregtei zochid ikhevchlen geriin baruun tald suudag."
+  },
+  {
+   "mn": "Эрт дээр үед тооноор тусах нарны гэрлээр цагийг мэддэг байжээ.",
+   "en": "In the old days, people told the time by the sunlight coming through the roof ring.",
+   "alt_mn": [],
+   "alt_en": [
+    "Long ago, people told the time from the sunlight shining through the roof ring."
+   ],
+   "mn_latin": "Ert deer üyed toonoor tusakh narny gerleer tsagiig meddeg baijee."
+  },
+  {
+   "mn": "Аягыг баруун гараараа авах ёстой.",
+   "en": "You should take the bowl with your right hand.",
+   "alt_mn": [
+    "Аягыг баруун гараар авах ёстой."
+   ],
+   "alt_en": [
+    "You're supposed to take the bowl with your right hand."
+   ],
+   "mn_latin": "Ayagyg baruun garaaraa avakh yostoi."
+  },
+  {
+   "mn": "Би гэрт нар зөв явж сурч байна.",
+   "en": "I'm learning to move clockwise inside the ger.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm learning to walk clockwise in the ger."
+   ],
+   "mn_latin": "Bi gert nar zöv yavj surch baina."
+  },
+  {
+   "mn": "Ачаагаа гадаа үлдээх үү?",
+   "en": "Shall I leave my bags outside?",
+   "alt_mn": [
+    "Би ачаагаа гадаа үлдээх үү?"
+   ],
+   "alt_en": [
+    "Should I leave my bags outside?",
+    "Shall I leave my luggage outside?"
+   ],
+   "mn_latin": "Achaagaa gadaa üldeekh üü?"
+  },
+  {
+   "mn": "Энэ малчин айл их зочломтгой юм.",
+   "en": "This herder family is very hospitable.",
+   "alt_mn": [
+    "Энэ малчин айл их зочломтгой юм байна."
+   ],
+   "alt_en": [
+    "This herding family is very hospitable."
+   ],
+   "mn_latin": "Ene malchin ail ikh zochlomtgoi yum."
+  },
+  {
+   "mn": "Малчид зочдод заавал цай аягалдаг.",
+   "en": "Herders always pour tea for their guests.",
+   "alt_mn": [
+    "Малчид зочиндоо заавал цай аягалдаг."
+   ],
+   "alt_en": [
+    "Herders never fail to pour tea for guests."
+   ],
+   "mn_latin": "Malchid zochdod zaaval tsai ayagaldag."
+  },
+  {
+   "mn": "Хоёр жил хөдөө амьдраад би айлын ёс заншлыг дагаж сурсан.",
+   "en": "After two years in the countryside, I learned to follow household customs.",
+   "alt_mn": [
+    "Хөдөө хоёр жил амьдраад би айлын ёс заншлыг дагаж сурсан."
+   ],
+   "alt_en": [
+    "After living in the countryside for two years, I learned to follow family customs."
+   ],
+   "mn_latin": "Khoyor jil khödöö amidraad bi ailyn yos zanshlyg dagaj sursan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Learned habits with -ж сурах / Offers with 'Shall I...?'",
+  "title_mn": "-ж сурах хэлбэр / 'Shall I...?' санал болгох асуулт",
+  "explain_en": "To say you have learned to do something, or gotten used to doing it, Mongolian adds the converb ending -ж (or -ч after some consonants, e.g. сурч, гарч) to a verb and follows it with сурах 'to learn'. Use it for customs and habits: босго гишгэхгүй байж сурсан means 'I've learned not to step on the threshold.' For 'learned NOT to', use the negative -хгүй + байж сурах. Change the tense on сурах: сурсан (have learned), сурч байна (am learning), сурдаг (usually learn).",
+  "explain_mn": "Англи хэлэнд 'Shall I + үйл үг?' хэлбэрээр 'Би ... хийх үү?' гэж эелдгээр санал болгоно: Shall I take my shoes off? = Гутлаа тайлах уу? Үйл үг үргэлж үндсэн хэлбэртээ байна, 'to' болон '-ing' нэмэхгүй. Америк англи хэлэнд 'Should I...?' эсвэл 'Do you want me to...?' гэж ч их хэлдэг. 'Shall I...?' нь арай эелдэг, албан сонсогдоно.",
+  "examples": [
+   {
+    "mn": "Би босго гишгэхгүй байж сурсан.",
+    "en": "I've learned not to step on the threshold.",
+    "mn_latin": "Bi bosgo gishgekhgüi baij sursan."
+   },
+   {
+    "mn": "Хүүхдүүд таван настайдаа морь унаж сурдаг.",
+    "en": "Children learn to ride horses at age five.",
+    "mn_latin": "Khüükhdüüd tavan nastaidaa mori unaj surdag."
+   },
+   {
+    "mn": "Гутлаа тайлах уу?",
+    "en": "Shall I take my shoes off?",
+    "mn_latin": "Gutlaa tailakh uu?"
+   },
+   {
+    "mn": "Цай аягалах уу?",
+    "en": "Shall I pour the tea?",
+    "mn_latin": "Tsai ayagalakh uu?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би босго гишгэхгүй бай___ сурсан.",
+   "answer": "ж",
+   "options": [
+    "ж",
+    "х",
+    "сан",
+    "гаад"
+   ],
+   "translation": "I've learned not to step on the threshold.",
+   "explain_en": "Before сурах, the verb takes the converb ending -ж: байж сурсан 'learned to be / learned not to'.",
+   "explain_mn": "'Сурах' үйл үгийн өмнө үйл үг -ж нөхцөлтэй байна: байж сурсан."
+  },
+  {
+   "lang": "mn",
+   "text": "Гэрийн эзэн зочныг ___ суулгав.",
+   "answer": "хойморт",
+   "options": [
+    "хойморт",
+    "хойморыг",
+    "хоймороос",
+    "хоймор"
+   ],
+   "translation": "The host seated the guest in the place of honor.",
+   "explain_en": "Guests of honor sit at хоймор, the back of the ger. The dative -т shows the place where they sit.",
+   "explain_mn": "Хүндтэй зочныг хойморт суулгадаг. Хаана гэдгийг -т нөхцөл заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Гэрт ойртохдоо \"Нохой ___!\" гэж дууддаг.",
+   "answer": "хоргоо",
+   "options": [
+    "хоргоо",
+    "ирээ",
+    "явлаа",
+    "суугаарай"
+   ],
+   "translation": "When you approach a ger, you call out, \"Hold the dog!\"",
+   "explain_en": "\"Нохой хоргоо!\" is the fixed phrase visitors call out so the hosts restrain their dogs.",
+   "explain_mn": "\"Нохой хоргоо!\" бол айлд ирэхэд хэлдэг тогтсон хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "___ I take my shoes off?",
+   "answer": "Shall",
+   "options": [
+    "Shall",
+    "Am",
+    "Have",
+    "Is"
+   ],
+   "translation": "Гутлаа тайлах уу?",
+   "explain_en": "'Shall I...?' makes a polite offer or asks what the host would like.",
+   "explain_mn": "Эелдгээр санал болгохдоо 'Shall I...?' гэж эхэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Shall I ___ the tea?",
+   "answer": "pour",
+   "options": [
+    "pour",
+    "pouring",
+    "to pour",
+    "poured"
+   ],
+   "translation": "Цай аягалах уу?",
+   "explain_en": "After 'Shall I', use the base form of the verb, with no 'to' and no '-ing'.",
+   "explain_mn": "'Shall I'-ийн дараа үйл үг үндсэн хэлбэртээ байна. 'to', '-ing' нэмэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Please don't step on the ___.",
+   "answer": "threshold",
+   "options": [
+    "threshold",
+    "roof ring",
+    "stove",
+    "sky"
+   ],
+   "translation": "Босго бүү гишгээрэй.",
+   "explain_en": "In a ger, stepping on the threshold (босго) is considered bad luck.",
+   "explain_mn": "'Босго' нь англиар 'threshold'. Босго гишгэхийг цээрлэдэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Нохой хоргоо!",
+   "en": "Hold the dog!",
+   "mn_latin": "Nokhoi khorgoo!"
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Хоргосон, хоргосон! Ороод ирээрэй.",
+   "en": "I've got him, I've got him! Come on in.",
+   "mn_latin": "Khorgoson, khorgoson! Orood ireerei."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Сайн байцгаана уу! Гутлаа тайлах уу?",
+   "en": "Hello, everyone! Shall I take my shoes off?",
+   "mn_latin": "Sain baitsgaana uu! Gutlaa tailakh uu?"
+  },
+  {
+   "speaker": "Tsetseg",
+   "mn": "Хэрэггүй ээ, охин минь. Хойморт гараад суугаарай.",
+   "en": "No need, dear. Go on up and sit in the place of honor.",
+   "mn_latin": "Khereggüi ee, okhin mini. Khoimort garaad suugaarai."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Баярлалаа. Би босго гишгэхгүй байж сурсан шүү.",
+   "en": "Thank you. I've learned not to step on the threshold, you know.",
+   "mn_latin": "Bayarlalaa. Bi bosgo gishgekhgüi baij sursan shüü."
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Сайн байна! Та манай ёс заншлыг сайн мэддэг юм байна.",
+   "en": "Very good! You really know our customs.",
+   "mn_latin": "Sain baina! Ta manai yos zanshlyg sain meddeg yum baina."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Эмма, аягыг баруун гараараа аваарай.",
+   "en": "Emma, take the bowl with your right hand.",
+   "mn_latin": "Emma, ayagyg baruun garaaraa avaarai."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Ойлголоо. Ачаагаа гадаа үлдээх үү?",
+   "en": "Got it. Shall I leave my bags outside?",
+   "mn_latin": "Oilgoloo. Achaagaa gadaa üldeekh üü?"
+  }
+ ],
+ "culture_note": {
+  "en": "Herders' dogs guard the camp, so visitors stop at a distance and call out \"Нохой хоргоо!\" until someone comes out. Inside, move clockwise, don't step on the threshold, and accept food and drink with your right hand. People usually keep their shoes on in a ger. The west side is traditionally the men's side, the east side is the women's and kitchen side, and the хоймор at the back is for elders and honored guests.",
+  "mn": "Малчдын нохой хотоо манадаг тул зочин айлаас зайтай зогсоод, хүн гарч иртэл \"Нохой хоргоо!\" гэж дууддаг. Гэрт орохдоо нар зөв явж, босго гишгэхгүй, идээ ундааг баруун гараараа авдаг. Гэрт ихэвчлэн гутлаа тайлдаггүй. Баруун тал нь уламжлалаар эрэгтэйчүүдийнх, зүүн тал нь эмэгтэйчүүд болон гал тогооных, хоймор нь ахмад настан, хүндэт зочдод зориулагдсан байдаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Accurate, natural lesson with correct Mongolian and English and consistent cultural content. The only issue is an ambiguous distractor in one English fill-in-the-blank."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "Mostly solid. Fixed an incomplete mn intro, a wrong dative form among the options, and non-unique distractors.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the -ж сурах pattern mentioned in en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'тоонод' was a wrong form (should be тоононд); 'гадаа' was also grammatical, so the answer wasn't unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'step on the dog' is also a valid sentence"
+   }
+  ]
+ }
+}

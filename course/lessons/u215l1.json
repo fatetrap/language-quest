@@ -1,0 +1,430 @@
+{
+ "intro_en": "Learn to set up a Mongolian mobile banking app, pay with QR codes, and use digital wallets, and learn to read the abbreviations г.м., ж.нь and төг. on screens and receipts. You'll also see how English turns phrasal verbs into tech nouns like login, setup, checkout and top-up.",
+ "intro_mn": "Энэ хичээлээр банкны аппаа тохируулах, QR кодоор төлбөр төлөх, цахим түрийвч ашиглахтай холбоотой үг хэллэгийг англиар сурна. Мөн англи хэлэнд log in, set up гэх мэт хэллэгийн үйл үгээс login, setup, checkout, top-up гэсэн нэр үг хэрхэн үүсдэгийг судална.",
+ "vocab": [
+  {
+   "mn": "апп",
+   "en": "app",
+   "pos": "noun",
+   "example_mn": "Банкныхаа аппыг шинэчлэх хэрэгтэй байна.",
+   "example_en": "I need to update my bank's app.",
+   "mn_latin": "app"
+  },
+  {
+   "mn": "данс",
+   "en": "account",
+   "pos": "noun",
+   "example_mn": "Цалингаа энэ данс руу авдаг.",
+   "example_en": "I get my salary paid into this account.",
+   "mn_latin": "dans"
+  },
+  {
+   "mn": "гүйлгээ",
+   "en": "transaction",
+   "pos": "noun",
+   "example_mn": "Өчигдрийн гүйлгээ хуулган дээр харагдахгүй байна.",
+   "example_en": "Yesterday's transaction isn't showing on my statement.",
+   "mn_latin": "güilgee"
+  },
+  {
+   "mn": "нэвтрэх код",
+   "en": "login code, PIN",
+   "pos": "noun phrase",
+   "example_mn": "Нэвтрэх кодоо гурван удаа буруу оруулбал апп түгжигдэнэ.",
+   "example_en": "If you enter your login code wrong three times, the app locks.",
+   "mn_latin": "nevtrekh kod"
+  },
+  {
+   "mn": "QR код уншуулах",
+   "en": "to scan a QR code",
+   "pos": "verb phrase",
+   "example_mn": "Кассын дэргэдэх QR кодыг уншуулаад төлнө үү.",
+   "example_en": "Please scan the QR code at the register and pay.",
+   "mn_latin": "QR kod unshuulakh"
+  },
+  {
+   "mn": "цахим түрийвч",
+   "en": "digital wallet",
+   "pos": "noun",
+   "example_mn": "Би цахим түрийвчээрээ таксины мөнгөө төлдөг.",
+   "example_en": "I pay for taxis with my digital wallet.",
+   "mn_latin": "tsakhim türiivch"
+  },
+  {
+   "mn": "цэнэглэх",
+   "en": "to top up, to recharge",
+   "pos": "verb",
+   "example_mn": "Утасныхаа нэгжийг аппаар цэнэглэлээ.",
+   "example_en": "I topped up my phone credit through the app.",
+   "mn_latin": "tseneglekh"
+  },
+  {
+   "mn": "баталгаажуулах",
+   "en": "to verify, to confirm",
+   "pos": "verb",
+   "example_mn": "Мессежээр ирсэн кодоор гүйлгээгээ баталгаажуулна уу.",
+   "example_en": "Please confirm the transaction with the code sent by text.",
+   "mn_latin": "batalgaajuulakh"
+  },
+  {
+   "mn": "үлдэгдэл",
+   "en": "balance",
+   "pos": "noun",
+   "example_mn": "Дансны үлдэгдлээ шалгаад дэлгүүр орлоо.",
+   "example_en": "I checked my account balance and went into the store.",
+   "mn_latin": "üldegdel"
+  },
+  {
+   "mn": "хүлээн авагч",
+   "en": "recipient, payee",
+   "pos": "noun",
+   "example_mn": "Хүлээн авагчийн нэр зөв байгаа эсэхийг шалгаарай.",
+   "example_en": "Check that the recipient's name is correct.",
+   "mn_latin": "khüleen avagch"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Аппыг суулгасны дараа дансны дугаар, регистрийн дугаараа оруулж бүртгүүлнэ.",
+   "en": "After installing the app, you register by entering your account number and national ID number.",
+   "alt_mn": [
+    "Аппаа суулгаад дансны дугаар, регистрийн дугаараа оруулж бүртгүүлнэ."
+   ],
+   "alt_en": [
+    "Once you've installed the app, you sign up by entering your account number and ID number."
+   ],
+   "mn_latin": "Appyg suulgasny daraa dansny dugaar, ryegistriin dugaaraa oruulj bürtgüülne."
+  },
+  {
+   "mn": "Нэвтрэх кодоо хэнд ч бүү хэлээрэй, банкны ажилтанд ч гэсэн.",
+   "en": "Never tell anyone your login code, not even a bank employee.",
+   "alt_mn": [
+    "Нэвтрэх кодоо хэнд ч, тэр байтугай банкны ажилтанд ч бүү хэлээрэй."
+   ],
+   "alt_en": [
+    "Don't share your login code with anyone, not even bank staff."
+   ],
+   "mn_latin": "Nevtrekh kodoo khend ch büü kheleerei, bankny ajiltand ch gesen."
+  },
+  {
+   "mn": "Дэлгүүрт бэлэн мөнгө авч явах шаардлагагүй болсон: QR кодыг уншуулаад л төлчихнө.",
+   "en": "You no longer need to carry cash to the store: you just scan the QR code and pay.",
+   "alt_mn": [],
+   "alt_en": [
+    "There's no need to carry cash to the store anymore: you just scan the QR code and pay."
+   ],
+   "mn_latin": "Delgüürt belen möngö avch yavakh shaardlagagüi bolson: QR kodyg unshuulaad l tölchikhnö."
+  },
+  {
+   "mn": "Гүйлгээний утга дээр «түрээс, 3-р сар» гэж бичээрэй.",
+   "en": "Write \"rent, March\" in the transaction description.",
+   "alt_mn": [
+    "Гүйлгээний утгад «түрээс, 3-р сар» гэж бичээрэй."
+   ],
+   "alt_en": [
+    "Put \"rent, March\" as the payment reference."
+   ],
+   "mn_latin": "Güilgeenii utga deer «türees, 3-r sar» gej bicheerei."
+  },
+  {
+   "mn": "Баримт дээр «Нийт дүн: 45 000 төг.» гэж бичсэн байна.",
+   "en": "The receipt says \"Total: 45,000 tögrög.\"",
+   "alt_mn": [],
+   "alt_en": [
+    "The receipt reads \"Total: 45,000 MNT.\""
+   ],
+   "mn_latin": "Barimt deer «Niit dün: 45 000 tög.» gej bichsen baina."
+  },
+  {
+   "mn": "Олон төрлийн цахим түрийвч байдаг, ж.нь SocialPay, Monpay г.м.",
+   "en": "There are many kinds of digital wallets, e.g., SocialPay, Monpay, etc.",
+   "alt_mn": [
+    "Цахим түрийвч олон янз байдаг, жишээ нь SocialPay, Monpay гэх мэт."
+   ],
+   "alt_en": [
+    "There are lots of digital wallets, for example SocialPay, Monpay and so on."
+   ],
+   "mn_latin": "Olon törliin tsakhim türiivch baidag, j.ni SocialPay, Monpay g.m."
+  },
+  {
+   "mn": "Гүйлгээ амжилтгүй болсон тул дахин оролдоно уу.",
+   "en": "The transaction failed, so please try again.",
+   "alt_mn": [
+    "Гүйлгээ амжилтгүй боллоо, дахин оролдоно уу."
+   ],
+   "alt_en": [
+    "The transaction was unsuccessful. Please try again."
+   ],
+   "mn_latin": "Güilgee amjiltgüi bolson tul dakhin oroldono uu."
+  },
+  {
+   "mn": "Төлбөр хийхээсээ өмнө хүлээн авагчийн нэрийг заавал шалгаарай.",
+   "en": "Before making a payment, be sure to check the recipient's name.",
+   "alt_mn": [
+    "Мөнгө шилжүүлэхээсээ өмнө хүлээн авагчийн нэрийг заавал шалгаарай."
+   ],
+   "alt_en": [
+    "Always check the payee's name before you pay."
+   ],
+   "mn_latin": "Tölbör khiikheesee ömnö khüleen avagchiin neriig zaaval shalgaarai."
+  },
+  {
+   "mn": "Шинэ утсан дээр аппаа тохируулахад таван минут ч болохгүй.",
+   "en": "Setting up the app on a new phone takes less than five minutes.",
+   "alt_mn": [
+    "Шинэ утсанд аппаа тохируулахад таван минут ч хүрэхгүй."
+   ],
+   "alt_en": [
+    "The setup on a new phone takes under five minutes."
+   ],
+   "mn_latin": "Shine utsan deer appaa tokhiruulakhad tavan minut ch bolokhgüi."
+  },
+  {
+   "mn": "Онлайн дэлгүүрийн төлбөр төлөх хэсэгт QR код гарч ирэхэд банкныхаа аппаар уншуулна.",
+   "en": "When the QR code appears at an online store's checkout, you scan it with your bank app.",
+   "alt_mn": [],
+   "alt_en": [
+    "At the checkout of an online store, a QR code pops up and you scan it with your banking app."
+   ],
+   "mn_latin": "Onlain delgüüriin tölbör tölökh khesegt QR kod garch irekhed banknykhaa appaar unshuulna."
+  },
+  {
+   "mn": "Үлдэгдэл хүрэлцэхгүй байсан тул гүйлгээ хийгдсэнгүй.",
+   "en": "The transaction didn't go through because of insufficient funds.",
+   "alt_mn": [
+    "Дансны үлдэгдэл хүрэлцээгүй учраас гүйлгээ хийгдээгүй."
+   ],
+   "alt_en": [
+    "The transaction didn't go through because the balance was too low."
+   ],
+   "mn_latin": "Üldegdel khüreltsekhgüi baisan tul güilgee khiigdsengüi."
+  },
+  {
+   "mn": "Хурууны хээгээр нэвтрэх тохиргоог асаавал код бичих шаардлагагүй болно.",
+   "en": "If you turn on fingerprint login, you won't need to type in your code.",
+   "alt_mn": [
+    "Хурууны хээгээр нэвтрэхийг идэвхжүүлбэл код оруулах шаардлагагүй."
+   ],
+   "alt_en": [
+    "Once you enable fingerprint login, you won't have to enter your code."
+   ],
+   "mn_latin": "Khuruuny kheegeer nevtrekh tokhirgoog asaaval kod bichikh shaardlagagüi bolno."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reading Mongolian abbreviations (г.м., ж.нь, төг.) and English nouns from phrasal verbs (login, setup, checkout, top-up)",
+  "title_mn": "Монгол товчилсон үг (г.м., ж.нь, төг.) ба хэллэгийн үйл үгээс үүссэн англи нэр үг (login, setup, checkout, top-up)",
+  "explain_en": "Bank apps, receipts and ads are full of abbreviations, and they are always read aloud as the full word. г.м. = гэх мэт (\"etc., and so on\") comes at the end of a list. ж.нь = жишээ нь (\"e.g., for example\") comes before the examples and is usually set off with a comma. төг. = төгрөг, the Mongolian currency, also written ₮ or MNT. It follows the number: 12 500 төг. When you say an amount aloud, the case ending goes on the full word, not on the abbreviation: «5 000 төгрөгөөр цэнэглэлээ» (\"I topped up 5,000 tögrög\"). In writing, people avoid adding endings to төг. and usually rephrase or use ₮. Watch the order: ж.нь opens a list, and г.м. closes it. In English, phrasal verbs often turn into nouns: log in → login, set up → setup, check out → checkout, top up → top-up. The verb is two separate words (\"Please log in.\"), while the noun is written as one word or with a hyphen (\"I forgot my login.\", \"a $10 top-up\"). You have to learn which nouns are written solid and which are hyphenated. The noun is stressed on the first part (CHECK-out), and the verb on the second (check OUT). The noun can take a/the/my and a plural: two top-ups.",
+  "explain_mn": "Банкны апп, баримт, зар сурталчилгаанд товчилсон үг их гардаг бөгөөд тэдгээрийг үргэлж бүтэн үгээр нь уншдаг. г.м. = гэх мэт (\"etc.\") жагсаалтын төгсгөлд орно. ж.нь = жишээ нь (\"e.g.\") жишээний өмнө орж, ихэвчлэн таслалаар тусгаарлагдана. төг. = төгрөг, мөн ₮ эсвэл MNT гэж бичдэг, тооны ард орно: 12 500 төг. Дүнг дуудаж хэлэхдээ тийн ялгалыг бүтэн үгэнд залгана: «5 000 төгрөгөөр цэнэглэлээ». Бичихдээ төг.-д нөхцөл залгахаас зайлсхийж, өөрөөр бичих эсвэл ₮ хэрэглэдэг. Англи хэлэнд хэллэгийн үйл үг (phrasal verb) нь нэр үг болж хувирдаг: log in → login, set up → setup, check out → checkout, top up → top-up. Үйл үг болбол хоёр тусдаа үг байна: «Please log in.», «I need to top up my phone.» Нэр үг болбол нийлүүлж эсвэл зураасаар холбож бичнэ: «I forgot my login.», «The setup was easy.», «a $10 top-up». Аль хэлбэрийг нь нийлүүлж, алийг нь зураастай бичихийг үг тус бүрээр нь цээжлэх хэрэгтэй. Ихэвчлэн login, setup, checkout гэж нийлүүлж, top-up гэж зураастай бичдэг. Дуудлагад ч ялгаа бий: нэр үгэнд эхний хэсэг дээр өргөлт тавьж (CHECK-out), үйл үгэнд хоёр дахь үг дээр өргөлт тавьдаг (check OUT). Нэр үг өмнөө a/the, my авч болно, олон тоо ч авна: two top-ups.",
+  "examples": [
+   {
+    "mn": "Аппаар олон төлбөр төлж болно, ж.нь цахилгаан, интернэт, сургалтын төлбөр г.м.",
+    "en": "You can pay many bills through the app, e.g., electricity, internet, tuition, etc.",
+    "mn_latin": "Appaar olon tölbör tölj bolno, j.ni tsakhilgaan, intyernet, surgaltyn tölbör g.m."
+   },
+   {
+    "mn": "Захиалгын дүн: 38 900 төг.",
+    "en": "Order total: 38,900 tögrög.",
+    "mn_latin": "Zakhialgyn dün: 38 900 tög."
+   },
+   {
+    "mn": "Нэвтрэх нэрээ мартсан бол «Нууц үг сэргээх» дээр дарна уу.",
+    "en": "If you forgot your login, tap \"Reset password.\"",
+    "mn_latin": "Nevtrekh neree martsan bol «Nuuts üg sergeekh» deer darna uu."
+   },
+   {
+    "mn": "Нэгжээ 10 000 төгрөгөөр цэнэглэлээ.",
+    "en": "I did a 10,000-tögrög top-up on my phone.",
+    "mn_latin": "Negjee 10 000 tögrögöör tseneglelee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нэвтрэх ___ мартсан бол «Сэргээх» товчийг дарна уу.",
+   "answer": "кодоо",
+   "options": [
+    "кодоо",
+    "үлдэгдлээ",
+    "гүйлгээгээ",
+    "түрийвчээ"
+   ],
+   "translation": "If you've forgotten your login code, tap the \"Recover\" button.",
+   "explain_en": "\"Нэвтрэх код\" is the fixed phrase for a login code or PIN. The reflexive ending -оо (кодоо, \"your own code\") is the natural choice here because it's your code.",
+   "explain_mn": "«Нэвтрэх код» гэдэг тогтсон хэллэг. Өөрийн кодыг хэлж байгаа тул ерөнхий хамаатуулах -оо нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Аппаар олон төрлийн төлбөр төлж болно, ___ цахилгаан, интернэт, утасны төлбөр.",
+   "answer": "ж.нь",
+   "options": [
+    "ж.нь",
+    "г.м.",
+    "төг.",
+    "т.б."
+   ],
+   "translation": "You can pay many kinds of bills through the app, e.g., electricity, internet and phone bills.",
+   "explain_en": "ж.нь (жишээ нь, \"for example\") introduces examples, so it comes before the list. г.м. would go at the end of the list instead.",
+   "explain_mn": "ж.нь (жишээ нь) жагсаалтын өмнө орж жишээ эхлүүлдэг. Харин г.м. жагсаалтын төгсгөлд орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Цахим түрийвчээр такси, хоол, кино ___ олон зүйлийн төлбөрийг төлж болно.",
+   "answer": "г.м.",
+   "options": [
+    "г.м.",
+    "ж.нь",
+    "төг.",
+    "км."
+   ],
+   "translation": "With a digital wallet you can pay for many things, like taxis, food, movies, etc.",
+   "explain_en": "г.м. (гэх мэт, \"etc., and so on\") closes a list and comes right after the last item, before the noun it describes (олон зүйл).",
+   "explain_mn": "г.м. (гэх мэт) жагсаалтыг төгсгөж, сүүлийн зүйлийн ард, тодотгож буй нэр үгийн (олон зүйл) өмнө орно."
+  },
+  {
+   "lang": "en",
+   "text": "I can't remember my ___ details, so I'll reset my password.",
+   "answer": "login",
+   "options": [
+    "login",
+    "log in",
+    "logging",
+    "logged"
+   ],
+   "translation": "Нэвтрэх мэдээллээ санахгүй байгаа тул нууц үгээ шинэчилнэ.",
+   "explain_en": "Here the word works as a noun (modifying \"details\"), so it is written as one word: login. The verb is two words: log in.",
+   "explain_mn": "Энд «details» гэсэн нэр үгийг тодотгож буй нэр үг тул нийлүүлж «login» гэж бичнэ. Үйл үг бол «log in» гэж салгаж бичдэг."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ only took two minutes: I just scanned my ID and took a selfie.",
+   "answer": "setup",
+   "options": [
+    "setup",
+    "set up",
+    "sets up",
+    "setting"
+   ],
+   "translation": "Тохиргоо хийхэд ердөө хоёр минут зарцуулсан: би зүгээр л иргэний үнэмлэхээ уншуулаад сельфи авсан.",
+   "explain_en": "After \"the\" we need a noun, which is written as one word: setup. \"Set up\" (two words) is the verb.",
+   "explain_mn": "«The»-ийн ард нэр үг орох ёстой тул нийлсэн «setup» хэлбэр зөв. «Set up» бол үйл үг."
+  },
+  {
+   "lang": "en",
+   "text": "I need to ___ my phone credit before I call my grandmother in Khovd.",
+   "answer": "top up",
+   "options": [
+    "top up",
+    "top-up",
+    "topup",
+    "top-ups"
+   ],
+   "translation": "Ховд дахь эмээ рүүгээ залгахаасаа өмнө утасны нэгжээ цэнэглэх хэрэгтэй.",
+   "explain_en": "After \"need to\" we need a verb, so it is two separate words: top up. The noun is hyphenated: a top-up.",
+   "explain_mn": "«Need to»-гийн ард үйл үг орно, тиймээс зураасгүй, салангид «top up» гэж бичнэ. Нэр үг нь зураастай «top-up» байна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Сайн байна уу. Би саяхан данс нээлгэсэн юм, аппаа яаж тохируулахаа сайн мэдэхгүй байна.",
+   "en": "Hello. I just opened an account, and I'm not quite sure how to set up the app.",
+   "mn_latin": "Sain baina uu. Bi sayakhan dans neelgesen yum, appaa yaaj tokhiruulakhaa sain medekhgüi baina."
+  },
+  {
+   "speaker": "Anar",
+   "mn": "Тийм үү, тусалъя. Эхлээд аппыг татаж аваад дансны дугаар, утасны дугаараа оруулаарай.",
+   "en": "Sure, let me help. First download the app, then enter your account number and phone number.",
+   "mn_latin": "Tiim üü, tusalya. Ekhleed appyg tataj avaad dansny dugaar, utasny dugaaraa oruulaarai."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Оруулчихлаа. Одоо мессежээр код ирлээ.",
+   "en": "Done. Now a code has come by text.",
+   "mn_latin": "Oruulchikhlaa. Odoo myessyejeer kod irlee."
+  },
+  {
+   "speaker": "Anar",
+   "mn": "Тэр кодоор баталгаажуулаад өөрийн нэвтрэх кодыг зохионо. Хэнд ч бүү хэлээрэй, надад ч гэсэн.",
+   "en": "Confirm with that code, then create your own login code. Don't tell anyone, not even me.",
+   "mn_latin": "Ter kodoor batalgaajuulaad ööriin nevtrekh kodyg zokhiono. Khend ch büü kheleerei, nadad ch gesen."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Ойлголоо. Дэлгүүрт QR кодоор төлөхдөө яах вэ?",
+   "en": "Got it. What do I do when I pay with a QR code at a store?",
+   "mn_latin": "Oilgoloo. Delgüürt QR kodoor tölökhdöö yaakh ve?"
+  },
+  {
+   "speaker": "Anar",
+   "mn": "Апп дээрх «QR уншуулах» гэсэн хэсгийг дараад кодыг уншуулна. Дүн нь, ж.нь «12 500 төг.» гэж гарч ирнэ, шалгаад баталгаажуулна.",
+   "en": "Tap \"Scan QR\" in the app and scan the code. The amount shows up, e.g., \"12,500 tögrög,\" and you check it and confirm.",
+   "mn_latin": "App deerkh «QR unshuulakh» gesen khesgiig daraad kodyg unshuulna. Dün ni, j.ni «12 500 tög.» gej garch irne, shalgaad batalgaajuulna."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Утасны нэгж цэнэглэх, мөнгө шилжүүлэх г.м. бүгдийг энэ аппаар хийж болох уу?",
+   "en": "Can I do everything with this app, like topping up my phone, transferring money, and so on?",
+   "mn_latin": "Utasny negj tseneglekh, möngö shiljüülekh g.m. bügdiig ene appaar khiij bolokh uu?"
+  },
+  {
+   "speaker": "Anar",
+   "mn": "Болно. Гэхдээ шилжүүлэг хийхээсээ өмнө хүлээн авагчийн нэрийг заавал шалгаарай.",
+   "en": "Yes. But always check the recipient's name before you make a transfer.",
+   "mn_latin": "Bolno. Gekhdee shiljüüleg khiikheesee ömnö khüleen avagchiin neriig zaaval shalgaarai."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia went cashless remarkably fast: QR codes are taped to counters everywhere from Ulaanbaatar supermarkets to small shops in the ger districts and food stalls at Naadam. People commonly say «дансаар шилжүүлье» (\"I'll transfer it to your account\") instead of paying in cash, and many families even send Tsagaan Sar gifts to relatives in the countryside by bank transfer. When you send money, the transaction description (гүйлгээний утга) matters, because landlords, schools and utilities use it to identify your payment.",
+  "mn": "Монголд бэлэн бус төлбөр маш хурдан дэлгэрсэн. Улаанбаатарын супермаркетаас эхлээд гэр хорооллын жижиг дэлгүүр, Наадмын хоолны майхан хүртэл QR код наасан байдаг. Хүмүүс бэлэн мөнгөөр төлөхийн оронд «дансаар шилжүүлье» гэж ярих нь түгээмэл. Олон айл Цагаан сараар хөдөөх хамаатан садан руугаа бэлгийн мөнгөө ч шилжүүлгээр явуулдаг. Мөнгө шилжүүлэхдээ гүйлгээний утгаа тодорхой бичих нь чухал, учир нь түрээслүүлэгч, сургууль, үйлчилгээний байгууллагууд төлбөрийг тэрхүү утгаар нь танидаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 0,
+  "notes": "A clean, natural lesson. The Mongolian and English are correct and well matched, the fill-in-the-blank answers each have only one correct option, and the explanations of the abbreviations and phrasal-verb nouns are accurate. No real errors found."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 6,
+  "notes": "Main issue: grammar titles and explanations covered different topics in en and mn; now both cover both topics. The rest of the lesson is largely sound.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "en and mn titles described two different topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "match en title; cover both topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en explanation must cover the same content as mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation must match en content"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "match en explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "match en explanation"
+   }
+  ]
+ }
+}

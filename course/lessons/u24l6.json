@@ -1,0 +1,447 @@
+{
+ "intro_en": "You will interview a classmate about life experiences and report the results. You will also learn to ask follow-up questions about when and where, switching from 'Have you...?' to the past simple.",
+ "intro_mn": "Та ангийн найзаасаа амьдралын туршлагын талаар ярилцлага аваад үр дүнг нь танилцуулж сурна. Мөн 'Have you...?' гэж асуусны дараа хэзээ, хаана гэдгийг past simple-ээр тодруулж асууж сурна.",
+ "vocab": [
+  {
+   "mn": "ярилцлага",
+   "en": "interview",
+   "pos": "noun",
+   "example_mn": "Би ангийнхаа найзаас ярилцлага авлаа.",
+   "example_en": "I interviewed my classmate.",
+   "mn_latin": "yariltslaga"
+  },
+  {
+   "mn": "туршлага",
+   "en": "experience",
+   "pos": "noun",
+   "example_mn": "Танд ямар туршлага байна вэ?",
+   "example_en": "What experience do you have?",
+   "mn_latin": "turshlaga"
+  },
+  {
+   "mn": "төсөл",
+   "en": "project",
+   "pos": "noun",
+   "example_mn": "Бидний сургуулийн төсөл сонирхолтой.",
+   "example_en": "Our school project is interesting.",
+   "mn_latin": "tösöl"
+  },
+  {
+   "mn": "аялах",
+   "en": "to travel",
+   "pos": "verb",
+   "example_mn": "Би Японд аялж үзсэн.",
+   "example_en": "I have traveled to Japan.",
+   "mn_latin": "ayalakh"
+  },
+  {
+   "mn": "туршиж үзэх",
+   "en": "to try",
+   "pos": "verb",
+   "example_mn": "Би суши идэж үзсэн.",
+   "example_en": "I have tried sushi.",
+   "mn_latin": "turshij üzekh"
+  },
+  {
+   "mn": "спорт",
+   "en": "sport",
+   "pos": "noun",
+   "example_mn": "Тэд хоёр спорт хийж үзсэн.",
+   "example_en": "They have tried two sports.",
+   "mn_latin": "sport"
+  },
+  {
+   "mn": "чадвар",
+   "en": "skill",
+   "pos": "noun",
+   "example_mn": "Таны онцгой чадвар юу вэ?",
+   "example_en": "What is your special skill?",
+   "mn_latin": "chadvar"
+  },
+  {
+   "mn": "үр дүн",
+   "en": "result",
+   "pos": "noun",
+   "example_mn": "Ярилцлагын үр дүнг ангид танилцууллаа.",
+   "example_en": "I presented the interview results to the class.",
+   "mn_latin": "ür dün"
+  },
+  {
+   "mn": "хэзээ",
+   "en": "when",
+   "pos": "adverb",
+   "example_mn": "Та хэзээ очсон бэ?",
+   "example_en": "When did you go?",
+   "mn_latin": "khezee"
+  },
+  {
+   "mn": "хаана",
+   "en": "where",
+   "pos": "adverb",
+   "example_mn": "Та хаана байсан бэ?",
+   "example_en": "Where were you?",
+   "mn_latin": "khaana"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та Японд очиж үзсэн үү?",
+   "en": "Have you been to Japan?",
+   "alt_mn": [
+    "Та Японд очиж байсан уу?"
+   ],
+   "alt_en": [
+    "Have you ever been to Japan?"
+   ],
+   "mn_latin": "Ta Yapond ochij üzsen üü?"
+  },
+  {
+   "mn": "Тийм, би өнгөрсөн зун очсон.",
+   "en": "Yes, I went last summer.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Tiim, bi öngörsön zun ochson."
+  },
+  {
+   "mn": "Та хэзээ очсон бэ?",
+   "en": "When did you go?",
+   "alt_mn": [
+    "Хэзээ очсон бэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Ta khezee ochson be?"
+  },
+  {
+   "mn": "Би хоёр долоо хоног аялсан.",
+   "en": "I traveled for two weeks.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bi khoyor doloo khonog ayalsan."
+  },
+  {
+   "mn": "Чи морь унаж үзсэн үү?",
+   "en": "Have you ridden a horse?",
+   "alt_mn": [
+    "Чи морь унаж байсан уу?"
+   ],
+   "alt_en": [
+    "Have you ever ridden a horse?"
+   ],
+   "mn_latin": "Chi mori unaj üzsen üü?"
+  },
+  {
+   "mn": "Тийм, би зуны амралтаараа хөдөө морь унасан.",
+   "en": "Yes, I rode one in the countryside during the summer break.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, I rode one in the countryside on summer vacation."
+   ],
+   "mn_latin": "Tiim, bi zuny amraltaaraa khödöö mori unasan."
+  },
+  {
+   "mn": "Бат суши идэж үзсэн.",
+   "en": "Bat has tried sushi.",
+   "alt_mn": [
+    "Бат суши идэж байсан."
+   ],
+   "alt_en": [
+    "Bat has eaten sushi."
+   ],
+   "mn_latin": "Bat sushi idej üzsen."
+  },
+  {
+   "mn": "Тэр суши хаана идсэн бэ?",
+   "en": "Where did he eat sushi?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ter sushi khaana idsen be?"
+  },
+  {
+   "mn": "Тэр Улаанбаатарт нэг ресторанд идсэн.",
+   "en": "He ate it at a restaurant in Ulaanbaatar.",
+   "alt_mn": [
+    "Тэр Улаанбаатар хотын нэг ресторанд идсэн."
+   ],
+   "alt_en": [
+    "He ate it in a restaurant in Ulaanbaatar."
+   ],
+   "mn_latin": "Ter Ulaanbaatart neg ryestorand idsen."
+  },
+  {
+   "mn": "Ангийн гурван хүн гитар тоглож үзсэн.",
+   "en": "Three people in the class have played the guitar.",
+   "alt_mn": [],
+   "alt_en": [
+    "Three classmates have played guitar."
+   ],
+   "mn_latin": "Angiin gurvan khün gitar togloj üzsen."
+  },
+  {
+   "mn": "Би хэзээ ч хөлбөмбөг тоглож үзээгүй.",
+   "en": "I have never played soccer.",
+   "alt_mn": [
+    "Би хэзээ ч хөлбөмбөг тоглож үзээгүй байна."
+   ],
+   "alt_en": [
+    "I have never played football."
+   ],
+   "mn_latin": "Bi khezee ch khölbömbög togloj üzeegüi."
+  },
+  {
+   "mn": "Ярилцлагын үр дүн маш сонирхолтой байлаа.",
+   "en": "The interview results were very interesting.",
+   "alt_mn": [
+    "Ярилцлагын үр дүн их сонирхолтой байсан."
+   ],
+   "alt_en": [],
+   "mn_latin": "Yariltslagyn ür dün mash sonirkholtoi bailaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "Experience (-ж үзсэн) then details (-сан)",
+  "title_mn": "Туршлагаас дэлгэрэнгүй рүү: Present perfect → Past simple",
+  "explain_en": "Use -ж үзсэн (or -ж байсан) to ask or say that something has happened in life: Би Японд очиж үзсэн. It does not say when. When you ask for details, switch to the plain past with -сан/-лаа: Хэзээ очсон бэ? Question word + -сан + бэ. Pattern: Experience first (-ж үзсэн үү?), then details (хэзээ/хаана ... -сан бэ?). This matches English: 'Have you been?' then 'When did you go?'",
+  "explain_mn": "Англи хэлэнд амьдралд нэг удаа ч болсон туршлагыг 'Have you + V3?' гэж асууна: Have you been to Japan? Харин хэзээ, хаана гэдгийг асуухдаа past simple ашиглана: When did you go? Энд 'have' ашиглахгүй, 'did + үйл үгийн анхны хэлбэр' орно. Хариулт: I went there last year. Тодорхой цаг заасан бол present perfect хэрэглэхгүй.",
+  "examples": [
+   {
+    "mn": "Та Солонгост очиж үзсэн үү? — Хэзээ очсон бэ?",
+    "en": "Have you been to Korea? — When did you go?",
+    "mn_latin": "Ta Solongost ochij üzsen üü? — Khezee ochson be?"
+   },
+   {
+    "mn": "Би өөрөө бууз хийж үзсэн. Өнгөрсөн Цагаан сараар хийсэн.",
+    "en": "I have made buuz myself. I made them last Tsagaan Sar.",
+    "mn_latin": "Bi ööröö buuz khiij üzsen. Öngörsön Tsagaan saraar khiisen."
+   },
+   {
+    "mn": "Тэр сагсан бөмбөг тоглож үзсэн. Хаана тоглосон бэ?",
+    "en": "He has played basketball. Where did he play?",
+    "mn_latin": "Ter sagsan bömbög togloj üzsen. Khaana togloson be?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Та Японд очиж ___ үү?",
+   "answer": "үзсэн",
+   "options": [
+    "үзсэн",
+    "үзээд",
+    "үзэж",
+    "үзээгүй"
+   ],
+   "translation": "Have you been to Japan?",
+   "explain_en": "Experience question: -ж үзсэн үү? means 'have you ever done it?'",
+   "explain_mn": "Туршлага асуухад '-ж үзсэн үү?' гэж хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Та Японд хэзээ ___ бэ?",
+   "answer": "очсон",
+   "options": [
+    "очсон",
+    "очиж",
+    "очно",
+    "очоод"
+   ],
+   "translation": "When did you go to Japan?",
+   "explain_en": "For a detail question about a finished past event, use plain past -сан: очсон бэ?",
+   "explain_mn": "Дууссан үйл явдлын тухай хэзээ гэж асуухад -сан хэлбэр хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Би өнгөрсөн зун Хөвсгөлд ___.",
+   "answer": "аялсан",
+   "options": [
+    "аялсан",
+    "аялж үзсэн",
+    "аялна",
+    "аялдаг"
+   ],
+   "translation": "I traveled to Khuvsgul last summer.",
+   "explain_en": "With a specific time (last summer), use the plain past аялсан, not the experience form.",
+   "explain_mn": "Тодорхой цаг (өнгөрсөн зун) байвал энгийн өнгөрсөн цаг аялсан хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Have you ever ___ to Japan?",
+   "answer": "been",
+   "options": [
+    "been",
+    "went",
+    "go",
+    "was"
+   ],
+   "translation": "Та Японд очиж үзсэн үү?",
+   "explain_en": "Present perfect uses have + past participle: been.",
+   "explain_mn": "Present perfect нь have + V3 бүтэцтэй: been."
+  },
+  {
+   "lang": "en",
+   "text": "When ___ you go there?",
+   "answer": "did",
+   "options": [
+    "did",
+    "have",
+    "has",
+    "were"
+   ],
+   "translation": "Та тийшээ хэзээ очсон бэ?",
+   "explain_en": "A question about a specific time uses past simple: did + base verb.",
+   "explain_mn": "Тодорхой цагийн асуултад past simple буюу did + үйл үгийн анхны хэлбэр хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I have tried sushi. I ___ it in Seoul last year.",
+   "answer": "ate",
+   "options": [
+    "ate",
+    "have eaten",
+    "eat",
+    "am eating"
+   ],
+   "translation": "Би суши идэж үзсэн. Өнгөрсөн жил Сөүлд идсэн.",
+   "explain_en": "After giving a time (last year), use past simple: ate.",
+   "explain_mn": "Цаг заасан (last year) үед past simple буюу ate хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Бат, би сургуулийн төсөлд ярилцлага авч байна. Чи гадаадад аялж үзсэн үү?",
+   "en": "Bat, I'm doing an interview for a school project. Have you traveled abroad?",
+   "mn_latin": "Bat, bi surguuliin tösöld yariltslaga avch baina. Chi gadaadad ayalj üzsen üü?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, би Солонгост очиж үзсэн.",
+   "en": "Yes, I have been to Korea.",
+   "mn_latin": "Tiim, bi Solongost ochij üzsen."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Хэзээ очсон бэ?",
+   "en": "When did you go?",
+   "mn_latin": "Khezee ochson be?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Өнгөрсөн зун очсон. Нэг долоо хоног байсан.",
+   "en": "I went last summer. I stayed for a week.",
+   "mn_latin": "Öngörsön zun ochson. Neg doloo khonog baisan."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэнд ямар шинэ хоол идэж үзсэн бэ?",
+   "en": "What new food did you try there?",
+   "mn_latin": "Tend yamar shine khool idej üzsen be?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Кимчи идэж үзсэн. Жаахан халуун ногоотой байсан!",
+   "en": "I tried kimchi. It was a bit spicy!",
+   "mn_latin": "Kimchi idej üzsen. Jaakhan khaluun nogootoi baisan!"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Спорт хийж үзсэн үү?",
+   "en": "Have you tried any sports?",
+   "mn_latin": "Sport khiij üzsen üü?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, би сагсан бөмбөг тоглож үзсэн. Сургуульдаа тоглосон.",
+   "en": "Yes, I have played basketball. I played at school.",
+   "mn_latin": "Tiim, bi sagsan bömbög togloj üzsen. Surguulidaa togloson."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian schools, students often present group projects to the class, and interviewing friends or family is a popular way to collect stories. Many Mongolians have ridden a horse or helped make buuz at Tsagaan Sar, so these are common 'life experience' topics.",
+  "mn": "Монголын сургуулиудад сурагчид бүлгээрээ төсөл хийж ангидаа танилцуулдаг бөгөөд найз, гэр бүлийнхнээсээ ярилцлага авах нь түгээмэл арга. Олон монголчууд морь унаж үзсэн, Цагаан сараар бууз хийж үзсэн байдаг тул эдгээр нь туршлагын ярианы түгээмэл сэдэв юм."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 18,
+  "notes": "Mostly good, but several Mongolian case, word choice and distractor problems needed fixing. Some listed 'fixes' simply restate the original value."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 12,
+  "notes": "Fixed misspellings, the ambiguous use of унах, a vowel-harmony error, and fill-in-the-blank options that allowed more than one correct answer.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'асуултаас дараа нь' is ungrammatical"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_en",
+    "why": "'хоёр' (two) was missing from the English"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "without морь, 'унасан' reads as 'fell'"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "spelling: ресторанд"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "spelling: ресторанд"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "vowel harmony: рүү"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "more natural word order and the standard 'Цагаан сараар'"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "en",
+    "why": "buuz is plural here"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'үздэг үү' and 'үзнэ үү' are also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'хэзээ очдог бэ' is also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'When do you go there?' is also grammatical"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'spicy' is халуун ногоотой; халуун alone means hot in temperature"
+   }
+  ]
+ }
+}

@@ -1,0 +1,403 @@
+{
+ "intro_en": "Learn to talk about where winter food is kept: the storeroom, shed, balcony, cellar and freezer. You will practice the Mongolian passive with measure words and locations, and English compound nouns like \"meat freezer\" and \"food cellar.\"",
+ "intro_mn": "Өвлийн хүнсээ агуулах, саравч, тагт, зоорь, хөлдөөгчид хэрхэн хадгалдаг тухай ярьж сурна. Мөн хэмжих үг, байршил, үйлдэгдэхүүн хэвийг давтаж, англи хэлний \"meat freezer\", \"food cellar\" гэх мэт нийлмэл нэрийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "агуулах",
+   "en": "storeroom, storage shed",
+   "pos": "noun",
+   "example_mn": "Гурил будаагаа агуулахад хадгалдаг.",
+   "example_en": "We keep our flour and rice in the storeroom.",
+   "mn_latin": "aguulakh"
+  },
+  {
+   "mn": "зоорь",
+   "en": "cellar",
+   "pos": "noun",
+   "example_mn": "Бид төмс, лууван зоорьд хадгалдаг.",
+   "example_en": "We keep potatoes and carrots in the cellar.",
+   "mn_latin": "zoori"
+  },
+  {
+   "mn": "хөлдөөгч",
+   "en": "freezer",
+   "pos": "noun",
+   "example_mn": "Хөлдөөгч дүүрчихлээ.",
+   "example_en": "The freezer is full.",
+   "mn_latin": "khöldöögch"
+  },
+  {
+   "mn": "саравч",
+   "en": "shed, lean-to",
+   "pos": "noun",
+   "example_mn": "Нүүрсээ саравчинд хийсэн.",
+   "example_en": "We put the coal in the shed.",
+   "mn_latin": "saravch"
+  },
+  {
+   "mn": "хадгалах",
+   "en": "to store, to keep",
+   "pos": "verb",
+   "example_mn": "Махаа хаана хадгалах вэ?",
+   "example_en": "Where should we store the meat?",
+   "mn_latin": "khadgalakh"
+  },
+  {
+   "mn": "хадгалагдах",
+   "en": "to be stored, to be kept",
+   "pos": "verb (passive)",
+   "example_mn": "Мах тагтан дээр хадгалагдаж байна.",
+   "example_en": "The meat is being stored on the balcony.",
+   "mn_latin": "khadgalagdakh"
+  },
+  {
+   "mn": "хөлдөх",
+   "en": "to freeze",
+   "pos": "verb",
+   "example_mn": "Өвөл гадаа мах шууд хөлддөг.",
+   "example_en": "In winter, meat freezes right away outside.",
+   "mn_latin": "khöldökh"
+  },
+  {
+   "mn": "муудах",
+   "en": "to spoil, to go bad",
+   "pos": "verb",
+   "example_mn": "Дулаан өрөөнд мах хурдан муудна.",
+   "example_en": "Meat spoils quickly in a warm room.",
+   "mn_latin": "muudakh"
+  },
+  {
+   "mn": "тагт",
+   "en": "balcony",
+   "pos": "noun",
+   "example_mn": "Манай тагт өвөл их хүйтэн байдаг.",
+   "example_en": "Our balcony is very cold in winter.",
+   "mn_latin": "tagt"
+  },
+  {
+   "mn": "гулууз",
+   "en": "carcass (a whole butchered animal)",
+   "pos": "noun / measure word",
+   "example_mn": "Бид хоёр гулууз мах авсан.",
+   "example_en": "We bought two carcasses of meat.",
+   "mn_latin": "guluuz"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тагтан дээр хоёр гулууз мах хадгалагдаж байна.",
+   "en": "Two carcasses of meat are being stored on the balcony.",
+   "alt_mn": [
+    "Тагтанд хоёр гулууз мах хадгалагдаж байна."
+   ],
+   "alt_en": [
+    "Two carcasses of meat are stored on the balcony.",
+    "Two carcasses of meat are kept on the balcony."
+   ],
+   "mn_latin": "Tagtan deer khoyor guluuz makh khadgalagdaj baina."
+  },
+  {
+   "mn": "Зоорьд гурван шуудай төмс хадгалагдаж байна.",
+   "en": "Three sacks of potatoes are stored in the cellar.",
+   "alt_mn": [],
+   "alt_en": [
+    "Three sacks of potatoes are being kept in the cellar.",
+    "Three sacks of potatoes are stored in the food cellar."
+   ],
+   "mn_latin": "Zoorid gurvan shuudai töms khadgalagdaj baina."
+  },
+  {
+   "mn": "Хөлдөөгчид хэдэн уут бууз байгаа.",
+   "en": "There are a few bags of buuz in the freezer.",
+   "alt_mn": [
+    "Хөлдөөгчид хэдэн уут бууз байна."
+   ],
+   "alt_en": [
+    "There are several bags of buuz in the freezer."
+   ],
+   "mn_latin": "Khöldöögchid kheden uut buuz baigaa."
+  },
+  {
+   "mn": "Нүүрсээ саравчинд хадгалаарай, тэгвэл цасанд норохгүй.",
+   "en": "Keep the coal in the shed so it doesn't get wet in the snow.",
+   "alt_mn": [],
+   "alt_en": [
+    "Store the coal in the shed so the snow doesn't get it wet."
+   ],
+   "mn_latin": "Nüürsee saravchind khadgalaarai, tegvel tsasand norokhgüi."
+  },
+  {
+   "mn": "Дулаан байранд мах хурдан муудна.",
+   "en": "Meat spoils quickly in a warm apartment.",
+   "alt_mn": [
+    "Дулаан байранд мах амархан муудна."
+   ],
+   "alt_en": [
+    "Meat goes bad quickly in a warm apartment."
+   ],
+   "mn_latin": "Dulaan bairand makh khurdan muudna."
+  },
+  {
+   "mn": "Гадаа хүйтэн байсан болохоор сүү тагтан дээр хөлдчихсөн байна.",
+   "en": "It was cold outside, so the milk froze on the balcony.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because it was cold outside, the milk froze on the balcony."
+   ],
+   "mn_latin": "Gadaa khüiten baisan bolokhoor süü tagtan deer khöldchikhsön baina."
+  },
+  {
+   "mn": "Гурил, будаа агуулахад хадгалагддаг.",
+   "en": "Flour and rice are kept in the storeroom.",
+   "alt_mn": [],
+   "alt_en": [
+    "Flour and rice are stored in the storeroom.",
+    "Flour and rice are kept in the storage shed."
+   ],
+   "mn_latin": "Guril, budaa aguulakhad khadgalagddag."
+  },
+  {
+   "mn": "Хавар дулаарахаас өмнө махаа хөлдөөгч рүү шилжүүлэх хэрэгтэй.",
+   "en": "We need to move the meat into the freezer before it gets warm in spring.",
+   "alt_mn": [],
+   "alt_en": [
+    "Before spring warms up, we need to move the meat to the freezer."
+   ],
+   "mn_latin": "Khavar dulaarakhaas ömnö makhaa khöldöögch rüü shiljüülekh kheregtei."
+  },
+  {
+   "mn": "Зоорьд хадгалсан лууван хавар хүртэл муудаагүй.",
+   "en": "The carrots we kept in the cellar stayed good until spring.",
+   "alt_mn": [],
+   "alt_en": [
+    "The carrots stored in the cellar lasted until spring without spoiling."
+   ],
+   "mn_latin": "Zoorid khadgalsan luuvan khavar khürtel muudaagüi."
+  },
+  {
+   "mn": "Манай хөлдөөгчид нэг гулууз хонь багтахгүй.",
+   "en": "A whole sheep carcass won't fit in our freezer.",
+   "alt_mn": [],
+   "alt_en": [
+    "Our freezer can't fit a whole sheep carcass."
+   ],
+   "mn_latin": "Manai khöldöögchid neg guluuz khoni bagtakhgüi."
+  },
+  {
+   "mn": "Энэ саравч өвөл бүр мах хадгалахад ашиглагддаг.",
+   "en": "This shed is used for storing meat every winter.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every winter, this shed is used to store meat."
+   ],
+   "mn_latin": "Ene saravch övöl bür makh khadgalakhad ashiglagddag."
+  },
+  {
+   "mn": "Тагтан дээр хадгалагдаж байгаа махыг шувуунаас хамгаалах хэрэгтэй.",
+   "en": "The meat stored on the balcony needs to be protected from birds.",
+   "alt_mn": [],
+   "alt_en": [
+    "We need to protect the meat on the balcony from birds."
+   ],
+   "mn_latin": "Tagtan deer khadgalagdaj baigaa makhyg shuvuunaas khamgaalakh kheregtei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Place + measure word + passive / English compound nouns",
+  "title_mn": "Байршил + хэмжих үг + үйлдэгдэхүүн хэв / Англи хэлний нийлмэл нэр",
+  "explain_en": "To say what is kept where, Mongolian often uses this order: [place in the dative-locative] + [number] + [measure word] + [noun] + [passive verb]. The passive is made by adding -гд- to the verb stem, usually with a linking vowel that follows vowel harmony (-агд-, -эгд-, -огд-): хадгалах (to store) → хадгалагдах (to be stored), ашиглах (to use) → ашиглагдах (to be used). Use -ж байна for something happening now (хадгалагдаж байна, \"is being stored\") and -даг/-дэг for a habit (хадгалагддаг, \"is usually kept\"). Measure words such as гулууз (carcass), шуудай (sack), уут (bag) and хайрцаг (box) come right after the number, and the noun stays singular: хоёр гулууз мах, гурван шуудай төмс.",
+  "explain_mn": "Англи хэлэнд хоёр нэр үгийг дараалан тавьж нэг шинэ нэр үүсгэдэг. Эхний үг нь тодотгол болж, хоёр дахь үгийн төрлийг заана. Жишээ нь \"meat freezer\" гэдэг нь мах хадгалах хөлдөөгч, \"food cellar\" нь хүнсний зоорь, \"storage shed\" нь агуулах саравч гэсэн утгатай. Эхний үг ганц тоотой хэвээр байж, олон тооны -s зөвхөн хоёр дахь үгэнд залгагдана: \"two meat freezers\" (\"meats freezers\" биш). Хэмжих үгийг \"of\"-оор холбоно: \"two sacks of potatoes\", \"a carcass of meat\". Үйлдэгдэхүүн хэвийг be + V3 хэлбэрээр бүтээнэ: \"is stored\", \"are kept\".",
+  "examples": [
+   {
+    "mn": "Зоорьд таван шуудай төмс хадгалагдаж байна.",
+    "en": "Five sacks of potatoes are stored in the food cellar.",
+    "mn_latin": "Zoorid tavan shuudai töms khadgalagdaj baina."
+   },
+   {
+    "mn": "Хөлдөөгчид хоёр хайрцаг бууз хадгалагдаж байна.",
+    "en": "Two boxes of buuz are being kept in the freezer.",
+    "mn_latin": "Khöldöögchid khoyor khairtsag buuz khadgalagdaj baina."
+   },
+   {
+    "mn": "Саравчинд арван шуудай нүүрс хадгалагддаг.",
+    "en": "Ten sacks of coal are kept in the storage shed.",
+    "mn_latin": "Saravchind arvan shuudai nüürs khadgalagddag."
+   },
+   {
+    "mn": "Тагтан дээр хагас гулууз үхрийн мах хадгалагдаж байна.",
+    "en": "Half a carcass of beef is being stored on the balcony.",
+    "mn_latin": "Tagtan deer khagas guluuz ükhriin makh khadgalagdaj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тагтан дээр хоёр гулууз мах хадгал___ байна.",
+   "answer": "агдаж",
+   "options": [
+    "агдаж",
+    "агдах",
+    "агдана",
+    "ах"
+   ],
+   "translation": "Two carcasses of meat are being stored on the balcony.",
+   "explain_en": "The meat is the thing being stored, so you need the passive -гд- (here with the linking vowel: -агд-). Before байна the verb must take the converb -ж: хадгалагдаж байна \"is being stored.\" Forms like хадгалагдах байна or хадгалагдана байна are not grammatical.",
+   "explain_mn": "Мах өөрөө хадгалагдаж байгаа тул үйлдэгдэхүүн хэвийн -гд- дагавар хэрэгтэй. Байна туслах үйл үгийн өмнө -ж нөхцөл орно: хадгалагдаж байна. \"Хадгалагдах байна\", \"хадгалагдана байна\" гэж хэлэхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид төмсөө ___ хадгалдаг.",
+   "answer": "зоорьд",
+   "options": [
+    "зоорьд",
+    "зоорь",
+    "зоорийг",
+    "зоорьтой"
+   ],
+   "translation": "We keep our potatoes in the cellar.",
+   "explain_en": "The place where something is kept takes the dative-locative case: зоорь → зоорьд \"in the cellar.\" Зоорийг is the accusative (direct object), and -той means \"with.\"",
+   "explain_mn": "Хаана хадгалахыг заахдаа өгөх-орших тийн ялгалын -д дагаврыг хэрэглэнэ: зоорь → зоорьд. \"Зоорийг\" нь заах тийн ялгал (шууд тусагдахуун), \"-той\" нь \"хамт\" гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Дулаан өрөөнд мах хурдан ___.",
+   "answer": "муудна",
+   "options": [
+    "муудна",
+    "хөлдөнө",
+    "хадгалагдана",
+    "багтана"
+   ],
+   "translation": "Meat spoils quickly in a warm room.",
+   "explain_en": "In a warm room, meat goes bad, so the verb is муудах → муудна. Meat doesn't freeze (хөлдөх) in warmth.",
+   "explain_mn": "Дулаан өрөөнд мах хөлдөхгүй, харин муудна. Утгын хувьд муудах үйл үг тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "We keep the potatoes in the food ___.",
+   "answer": "cellar",
+   "options": [
+    "cellar",
+    "roof",
+    "bucket",
+    "garage"
+   ],
+   "translation": "Бид төмсөө хүнсний зоорьд хадгалдаг.",
+   "explain_en": "\"Food cellar\" is a compound noun for an underground room where food is stored.",
+   "explain_mn": "\"Food cellar\" нь хүнсний зоорь гэсэн нийлмэл нэр. \"Food\" нь ямар зоорь болохыг тодотгож байна."
+  },
+  {
+   "lang": "en",
+   "text": "Two sacks of flour ___ kept in the storage shed.",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "be",
+    "being"
+   ],
+   "translation": "Агуулах саравчинд хоёр шуудай гурил хадгалагдаж байна.",
+   "explain_en": "The subject is \"two sacks\" (plural), so the passive needs \"are\" + past participle: \"are kept.\"",
+   "explain_mn": "Өгүүлэгдэхүүн нь \"two sacks\" буюу олон тоотой учир үйлдэгдэхүүн хэвд \"are\" + V3 хэрэглэнэ. \"Of flour\" нь тоог өөрчлөхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "We bought a new meat ___ for the winter.",
+   "answer": "freezer",
+   "options": [
+    "freezer",
+    "freezes",
+    "frozen",
+    "freezing"
+   ],
+   "translation": "Бид өвөлд зориулж мах хадгалах шинэ хөлдөөгч авсан.",
+   "explain_en": "After \"a new meat,\" you need a noun to complete the compound: \"meat freezer,\" the device. \"Frozen\" and \"freezing\" are adjectives, and \"freezes\" is a verb.",
+   "explain_mn": "Энд нэр үг хэрэгтэй: \"meat freezer\" буюу мах хадгалах хөлдөөгч. Бусад хувилбар нь үйл үг эсвэл тэмдэг нэр юм."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Мах ирлээ. Бүгдийг хаана хадгалах вэ?",
+   "en": "The meat is here. Where do we keep it all?",
+   "mn_latin": "Makh irlee. Bügdiig khaana khadgalakh ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Нэг гулуузыг тагтан дээр тавья. Одоо гадаа хасах хорин градус байна.",
+   "en": "Let's put one carcass on the balcony. It's minus twenty outside right now.",
+   "mn_latin": "Neg guluuzyg tagtan deer taviya. Odoo gadaa khasakh khorin gradus baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Нөгөөг нь яах вэ? Хөлдөөгчид багтахгүй шүү дээ.",
+   "en": "What about the other one? It won't fit in the freezer, you know.",
+   "mn_latin": "Nögöög ni yaakh ve? Khöldöögchid bagtakhgüi shüü dee."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Хэрчээд хагасыг нь хөлдөөгчид хийе. Үлдсэнийг нь ээжийн саравчинд хадгалуулъя.",
+   "en": "Let's cut it up and put half in the freezer. We'll have Mom keep the rest in her shed.",
+   "mn_latin": "Khercheed khagasyg ni khöldöögchid khiiye. Üldseniig ni eejiin saravchind khadgaluulya."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Төмс, лууван зоорьд байгаа юу?",
+   "en": "Are the potatoes and carrots in the cellar?",
+   "mn_latin": "Töms, luuvan zoorid baigaa yuu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тийм ээ, зоорьд гурван шуудай төмс, нэг шуудай лууван хадгалагдаж байна.",
+   "en": "Yes, three sacks of potatoes and one sack of carrots are stored in the cellar.",
+   "mn_latin": "Tiim ee, zoorid gurvan shuudai töms, neg shuudai luuvan khadgalagdaj baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Хавар дулаарахаас өмнө махаа дуусгах хэрэгтэй, эс тэгвэл муудна.",
+   "en": "We need to finish the meat before it gets warm in spring, or it will spoil.",
+   "mn_latin": "Khavar dulaarakhaas ömnö makhaa duusgakh kheregtei, es tegvel muudna."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Санаа зоволтгүй, бууз хийгээд хөлдөөчихье.",
+   "en": "Don't worry, we'll make buuz and freeze them.",
+   "mn_latin": "Sanaa zovoltgüi, buuz khiigeed khöldööchikhiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In early winter many Mongolian families buy their \"idesh\" (winter meat) all at once, often whole sheep or beef carcasses. In Ulaanbaatar apartments, the enclosed balcony often works as a natural freezer, while families in ger districts and the countryside use wooden sheds, storerooms and underground cellars for meat, potatoes and other vegetables. When the spring thaw comes, people hurry to use up the meat or turn it into frozen buuz before it spoils.",
+  "mn": "Өвлийн эхээр олон айл идшээ бөөнөөр нь, ихэвчлэн хонь, үхрийн гулуузаар авдаг. Улаанбаатарын орон сууцанд хаалттай тагт байгалийн хөлдөөгчийн үүрэг гүйцэтгэдэг бол гэр хороолол, хөдөөгийн айлууд мах, төмс, ногоогоо модон саравч, агуулах, газар доорх зоорьд хадгалдаг. Хавар дулаарахад мах муудахаас өмнө түүнийгээ идэж дуусгах эсвэл бууз хийж хөлдөөх гэж яардаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 9,
+  "notes": "A solid, natural lesson. The fixes resolve one ambiguous blank, one bad option form, a misleading English translation and some imprecise grammar wording."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Mostly clean. Small fixes to wording, to the completeness of one mn explanation, and to en/mn parity in the culture note. The grammar explain_en/explain_mn split by learner direction (Mongolian passive vs English compounds) was kept as designed.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "\"махны хөлдөөгч\" is unnatural; \"мах хадгалах хөлдөөгч\" is the standard phrasing and matches the grammar note"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "mn explanation now covers the wrong options, as the en version does"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": null
+   }
+  ]
+ }
+}

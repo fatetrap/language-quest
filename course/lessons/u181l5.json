@@ -1,0 +1,415 @@
+{
+ "intro_en": "Learn to add caveats and second thoughts in a chat with a colleague, using phrases like гэхдээ л, нөгөө талаар and тэгсэн ч гэсэн. You'll also see how гэвэл, гэхээр and гэдэг чинь each frame a topic in a different way.",
+ "intro_mn": "Хамт ажиллагчтайгаа ярихдаа тайлбар, эргэлзээгээ нэмж илэрхийлэхийг англиар \"mind you\", \"then again\", \"having said that\", \"still\" гэдэг хэллэгүүдээр сурна. Мөн гэвэл, гэхээр, гэдэг чинь гэдэг хэлбэрүүдийн ялгааг харьцуулж үзнэ.",
+ "vocab": [
+  {
+   "mn": "тайлбар",
+   "en": "remark, comment",
+   "pos": "noun",
+   "example_mn": "Нэг жижиг тайлбар хэлье.",
+   "example_en": "Let me make one small remark.",
+   "mn_latin": "tailbar"
+  },
+  {
+   "mn": "нэмэлт",
+   "en": "addition",
+   "pos": "noun",
+   "example_mn": "Надад нэг нэмэлт байна.",
+   "example_en": "I have one thing to add.",
+   "mn_latin": "nemelt"
+  },
+  {
+   "mn": "эргэлзээ",
+   "en": "doubt",
+   "pos": "noun",
+   "example_mn": "Энэ шийдвэрт надад жаахан эргэлзээ байна.",
+   "example_en": "I have some doubts about this decision.",
+   "mn_latin": "ergelzee"
+  },
+  {
+   "mn": "сөрөг тал",
+   "en": "downside",
+   "pos": "noun phrase",
+   "example_mn": "Гол сөрөг тал нь зардал их гарах явдал.",
+   "example_en": "The main downside is that it will cost a lot.",
+   "mn_latin": "sörög tal"
+  },
+  {
+   "mn": "давуу тал",
+   "en": "advantage, upside",
+   "pos": "noun phrase",
+   "example_mn": "Гэрээсээ ажиллахын давуу тал нь замд цаг үрэхгүй байх явдал.",
+   "example_en": "The upside of working from home is that you don't waste time commuting.",
+   "mn_latin": "davuu tal"
+  },
+  {
+   "mn": "гэхдээ л",
+   "en": "mind you, still",
+   "pos": "conjunction phrase",
+   "example_mn": "Шинэ оффис гоё. Гэхдээ л гэрээс хол.",
+   "example_en": "The new office is nice. Mind you, it's far from home.",
+   "mn_latin": "gekhdee l"
+  },
+  {
+   "mn": "нөгөө талаар",
+   "en": "then again, on the other hand",
+   "pos": "adverbial phrase",
+   "example_mn": "Нөгөө талаар, цалин нь илүү өндөр.",
+   "example_en": "Then again, the salary is higher.",
+   "mn_latin": "nögöö talaar"
+  },
+  {
+   "mn": "тэгсэн ч гэсэн",
+   "en": "having said that, even so",
+   "pos": "conjunction phrase",
+   "example_mn": "Тэгсэн ч гэсэн би түүнийг дэмжинэ.",
+   "example_en": "Having said that, I'll support him.",
+   "mn_latin": "tegsen ch gesen"
+  },
+  {
+   "mn": "эргэлзэх",
+   "en": "to doubt, to hesitate",
+   "pos": "verb",
+   "example_mn": "Би энэ санал зөв эсэхэд эргэлзэж байна.",
+   "example_en": "I'm not sure this proposal is right.",
+   "mn_latin": "ergelzekh"
+  },
+  {
+   "mn": "болгоомжтой",
+   "en": "careful, cautious",
+   "pos": "adjective",
+   "example_mn": "Энэ асуудлаар болгоомжтой ярих хэрэгтэй.",
+   "example_en": "We need to be careful about how we talk about this issue.",
+   "mn_latin": "bolgoomjtoi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Шинэ менежер их хичээнгүй хүн. Гэхдээ л заримдаа хэтэрхий шаардлага өндөртэй.",
+   "en": "The new manager is very hardworking. Mind you, she can be too demanding sometimes.",
+   "alt_mn": [
+    "Шинэ менежер их хичээнгүй. Гэхдээ л заримдаа хэт их шаарддаг."
+   ],
+   "alt_en": [
+    "The new manager is very hardworking. Mind you, he can be too demanding sometimes.",
+    "The new manager works really hard. Still, she's a bit too demanding at times."
+   ],
+   "mn_latin": "Shine myenyejyer ikh khicheengüi khün. Gekhdee l zarimdaa kheterkhii shaardlaga öndörtei."
+  },
+  {
+   "mn": "Төсөл цагтаа дуусах байх. Нөгөө талаар, хэн мэдлээ дээ.",
+   "en": "The project will probably be finished on time. Then again, who knows.",
+   "alt_mn": [
+    "Төсөл цагтаа дуусах байх. Нөгөө талаар, хэн мэдэх вэ."
+   ],
+   "alt_en": [
+    "The project will probably finish on time. Then again, you never know."
+   ],
+   "mn_latin": "Tösöl tsagtaa duusakh baikh. Nögöö talaar, khen medlee dee."
+  },
+  {
+   "mn": "Энэ санал надад таалагдаж байна. Тэгсэн ч гэсэн хэдэн эргэлзээ байсаар байна.",
+   "en": "I like this proposal. Having said that, I still have a few doubts.",
+   "alt_mn": [
+    "Энэ санал надад таалагдаж байна. Гэхдээ л надад хэдэн эргэлзээ байсаар байна."
+   ],
+   "alt_en": [
+    "I like this proposal. That said, I still have a few doubts."
+   ],
+   "mn_latin": "Ene sanal nadad taalagdaj baina. Tegsen ch gesen kheden ergelzee baisaar baina."
+  },
+  {
+   "mn": "Төсөв гэвэл, бидэнд илүү мөнгө хэрэгтэй гэдэгт эргэлзээ алга.",
+   "en": "As for the budget, there's no doubt we need more money.",
+   "alt_mn": [
+    "Төсвийн тухай гэвэл, бидэнд илүү мөнгө хэрэгтэй гэдэг нь эргэлзээгүй."
+   ],
+   "alt_en": [
+    "When it comes to the budget, there's no doubt we need more money."
+   ],
+   "mn_latin": "Tösöv gevel, bidend ilüü möngö kheregtei gedegt ergelzee alga."
+  },
+  {
+   "mn": "Наадам гэхээр хүн бүр морин уралдааныг санадаг.",
+   "en": "When you say Naadam, everyone thinks of the horse races.",
+   "alt_mn": [
+    "Наадам гэхээр хүн бүрт морин уралдаан санаанд ордог."
+   ],
+   "alt_en": [
+    "Mention Naadam and everyone thinks of the horse races."
+   ],
+   "mn_latin": "Naadam gekheer khün bür morin uraldaanyg sanadag."
+  },
+  {
+   "mn": "Ажил гэдэг чинь зөвхөн цалин биш шүү дээ.",
+   "en": "Work isn't just about the salary, you know.",
+   "alt_mn": [],
+   "alt_en": [
+    "The thing about work is that it's not just about the paycheck."
+   ],
+   "mn_latin": "Ajil gedeg chini zövkhön tsalin bish shüü dee."
+  },
+  {
+   "mn": "Нэг жижиг нэмэлт байна: хурал маргааш арван цагт эхэлнэ.",
+   "en": "Just one small addition: the meeting starts at ten tomorrow.",
+   "alt_mn": [
+    "Нэг зүйл нэмж хэлэхэд, хурал маргааш арван цагт эхэлнэ."
+   ],
+   "alt_en": [
+    "One quick addition: the meeting starts at ten tomorrow."
+   ],
+   "mn_latin": "Neg jijig nemelt baina: khural margaash arvan tsagt ekhelne."
+  },
+  {
+   "mn": "Гэрээсээ ажиллах эвтэйхэн. Гэхдээ л сөрөг тал нь хамт олноосоо хөндийрөх явдал.",
+   "en": "Working from home is convenient. Still, the downside is that you get cut off from your coworkers.",
+   "alt_mn": [],
+   "alt_en": [
+    "Working from home is convenient. Mind you, the downside is that you lose touch with your team."
+   ],
+   "mn_latin": "Gereesee ajillakh evteikhen. Gekhdee l sörög tal ni khamt olnoosoo khöndiirökh yavdal."
+  },
+  {
+   "mn": "Үнэнийг хэлэх гэвэл, би энэ шийдвэрт эргэлзэж байна.",
+   "en": "To be honest, I have doubts about this decision.",
+   "alt_mn": [
+    "Үнэнийг хэлэхэд, би энэ шийдвэрт эргэлзэж байна."
+   ],
+   "alt_en": [
+    "To tell the truth, I'm not sure about this decision."
+   ],
+   "mn_latin": "Üneniig khelekh gevel, bi ene shiidvert ergelzej baina."
+  },
+  {
+   "mn": "Таны тайлбар зөв. Тэгсэн ч гэсэн нэг удаа туршаад үзье.",
+   "en": "Your point is valid. Having said that, let's try it once anyway.",
+   "alt_mn": [],
+   "alt_en": [
+    "That's a fair point. Even so, let's give it a try."
+   ],
+   "mn_latin": "Tany tailbar zöv. Tegsen ch gesen neg udaa turshaad üziye."
+  },
+  {
+   "mn": "Улаанбаатарын түгжрэл гэдэг чинь бүр өөр сэдэв.",
+   "en": "Ulaanbaatar traffic is a whole other topic.",
+   "alt_mn": [],
+   "alt_en": [
+    "Ulaanbaatar's traffic jams are a whole different story."
+   ],
+   "mn_latin": "Ulaanbaataryn tügjrel gedeg chini bür öör sedev."
+  },
+  {
+   "mn": "Үнэ нь өндөр гэхээр би жаахан болгоомжилж байна.",
+   "en": "Since the price is high, I'm being a bit cautious.",
+   "alt_mn": [],
+   "alt_en": [
+    "Given how high the price is, I'm being a little careful."
+   ],
+   "mn_latin": "Üne ni öndör gekheer bi jaakhan bolgoomjilj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Framing a topic: гэвэл vs гэхээр vs гэдэг чинь",
+  "title_mn": "Тайлбар нэмэх: mind you, then again, having said that, still",
+  "explain_en": "All three come from the verb гэх (to say), but each frames a topic differently. X гэвэл (literally \"if one says X\") announces a topic you choose to discuss, like \"as for X\" or \"when it comes to X\". It also appears in set phrases like үнэнийг хэлэх гэвэл (\"to tell the truth\"). X гэхээр (\"when one says X\") reacts to something that was just mentioned. It means \"speaking of X / mention X and...\", and it can also mean \"since X / given that X\". X гэдэг чинь (\"the thing called X, you know\") is colloquial and emphatic. Use it to make a knowing comment, as if the listener should already agree. It often pairs with шүү дээ. To add a caveat afterward, use гэхдээ л (mind you), нөгөө талаар (then again) or тэгсэн ч гэсэн (having said that).",
+  "explain_mn": "Англиар ярихдаа өмнөх санаагаа зөөлрүүлэх, тайлбар нэмэхэд дараах хэллэгүүдийг хэрэглэдэг. \"Mind you\" нь \"гэхдээ л\", \"тэгэхдээ\" гэсэн утгатай, ярианы хэв маягтай. Бага зэргийн сөрөг тал нэмэхэд хэрэглэнэ: \"It's cheap. Mind you, it's small.\" \"Then again\" нь \"нөгөө талаар\" гэсэн утгатай, өөр өнцгөөс бодож үзэхэд хэрэглэнэ. \"Having said that\" (эсвэл \"That said\") нь \"тэгсэн ч гэсэн\" гэсэн утгатай, арай албан, саяын хэлсэн санаагаа хязгаарлана. \"Still\" нь \"гэсэн ч\", \"гэхдээ л\" гэсэн утгатай, өгүүлбэрийн эхэнд тавьж таслал хэрэглэнэ. Эдгээрийг ихэвчлэн шинэ өгүүлбэрийн эхэнд хэрэглэдэг.",
+  "examples": [
+   {
+    "mn": "Цалин гэвэл, энэ ажил хамгийн сайн нь.",
+    "en": "As for the salary, this job is the best one.",
+    "mn_latin": "Tsalin gevel, ene ajil khamgiin sain ni."
+   },
+   {
+    "mn": "Тэр завгүй гэхээр би өөрөө хийчихлээ.",
+    "en": "Since he was busy, I just did it myself.",
+    "mn_latin": "Ter zavgüi gekheer bi ööröö khiichikhlee."
+   },
+   {
+    "mn": "Хурал гэдэг чинь цаг их авдаг юм шүү дээ.",
+    "en": "Meetings take up a lot of time, you know.",
+    "mn_latin": "Khural gedeg chini tsag ikh avdag yum shüü dee."
+   },
+   {
+    "mn": "Байр нь сайхан. Тэгсэн ч гэсэн түрээс нь үнэтэй.",
+    "en": "The apartment is lovely. Having said that, the rent is expensive.",
+    "mn_latin": "Bair ni saikhan. Tegsen ch gesen türees ni ünetei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Үнэнийг хэлэх ___, би тэр саналд итгэхгүй байна.",
+   "answer": "гэвэл",
+   "options": [
+    "гэвэл",
+    "гэхээр",
+    "гэдэг чинь",
+    "гэсэн"
+   ],
+   "translation": "To be honest, I don't trust that proposal.",
+   "explain_en": "Үнэнийг хэлэх гэвэл (\"to tell the truth\") is a fixed phrase. гэвэл frames what follows as the speaker's chosen angle.",
+   "explain_mn": "\"Үнэнийг хэлэх гэвэл\" нь тогтсон хэллэг. гэвэл нь ярих санаагаа өөрөө сонгон танилцуулахад хэрэглэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Маргааш амралт ___ бүгд эрт явсан.",
+   "answer": "гэхээр",
+   "options": [
+    "гэхээр",
+    "гэвэл",
+    "гэдэг чинь",
+    "гэхдээ л"
+   ],
+   "translation": "Since tomorrow is a day off, everyone left early.",
+   "explain_en": "Here гэхээр gives a reason (\"since / given that\"). гэвэл would sound like a hypothetical \"if\", which doesn't fit a past event.",
+   "explain_mn": "Энд гэхээр нь шалтгаан заана (\"учраас\"). гэвэл нь болзол илэрхийлэх тул болсон үйл явдалд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ ажил гэдэг ___ амаргүй шүү дээ.",
+   "answer": "чинь",
+   "options": [
+    "чинь",
+    "гэвэл",
+    "гэхээр",
+    "байтал"
+   ],
+   "translation": "This job isn't easy, you know.",
+   "explain_en": "гэдэг чинь is a set colloquial pair that adds a knowing, emphatic tone. It often goes with шүү дээ at the end.",
+   "explain_mn": "\"гэдэг чинь\" нь ярианы онцлох хэлбэр. Сонсогчийн мэдэх ёстой зүйлийг тодотгож хэлэхэд хэрэглэгдэх бөгөөд ихэвчлэн төгсгөлдөө \"шүү дээ\"-тэй хамт ордог."
+  },
+  {
+   "lang": "en",
+   "text": "The new office is great. ___ you, it's a long commute.",
+   "answer": "Mind",
+   "options": [
+    "Mind",
+    "Then",
+    "Still",
+    "Having"
+   ],
+   "translation": "Шинэ оффис гоё. Гэхдээ л зам нь хол.",
+   "explain_en": "\"Mind you\" is a fixed casual phrase for adding a small caveat after a positive statement.",
+   "explain_mn": "\"Mind you\" нь тогтсон хэллэг. Эерэг санааны дараа жижиг сөрөг тал нэмэхэд хэрэглэнэ (\"гэхдээ л\")."
+  },
+  {
+   "lang": "en",
+   "text": "The plan has some risks. ___ said that, I think we should go ahead.",
+   "answer": "Having",
+   "options": [
+    "Having",
+    "Mind",
+    "Then",
+    "Still"
+   ],
+   "translation": "Төлөвлөгөөнд эрсдэл бий. Тэгсэн ч гэсэн цааш үргэлжлүүлэх хэрэгтэй гэж бодож байна.",
+   "explain_en": "\"Having said that\" is the full phrase. Only \"Having\" combines with \"said that\".",
+   "explain_mn": "\"Having said that\" бүтэн хэллэг бөгөөд \"тэгсэн ч гэсэн\" гэсэн утгатай. \"said that\"-тай зөвхөн \"Having\" нийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It's expensive. ___ again, it's the best option we have.",
+   "answer": "Then",
+   "options": [
+    "Then",
+    "Mind",
+    "Having",
+    "Still"
+   ],
+   "translation": "Үнэтэй. Нөгөө талаар, энэ бол бидэнд байгаа хамгийн сайн сонголт.",
+   "explain_en": "\"Then again\" introduces another way of looking at the situation, like \"on the other hand\".",
+   "explain_mn": "\"Then again\" нь \"нөгөө талаар\" гэсэн утгатай, өөр өнцгөөс харахад хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Номин",
+   "mn": "Шинэ оффис руу нүүх гэж байгаа гэсэн. Чи юу гэж бодож байна?",
+   "en": "I heard we're moving to the new office. What do you think?",
+   "mn_latin": "Shine offis ruu nüükh gej baigaa gesen. Chi yuu gej bodoj baina?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Байр нь их гоё, гэрэлтэй. Гэхдээ л хотын захад байгаа.",
+   "en": "The building is really nice and bright. Mind you, it's on the edge of the city.",
+   "mn_latin": "Bair ni ikh goyo, gereltei. Gekhdee l khotyn zakhad baigaa."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Зам гэхээр, өглөөний түгжрэлийг бодоход л толгой өвдөж байна.",
+   "en": "Speaking of the commute, just thinking about the morning traffic gives me a headache.",
+   "mn_latin": "Zam gekheer, öglöönii tügjreliig bodokhod l tolgoi övdöj baina."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Улаанбаатарын түгжрэл гэдэг чинь хаана ч адилхан шүү дээ. Нөгөө талаар компани автобус гаргана гэсэн.",
+   "en": "Ulaanbaatar traffic is the same everywhere, you know. Then again, they said the company will run a shuttle bus.",
+   "mn_latin": "Ulaanbaataryn tügjrel gedeg chini khaana ch adilkhan shüü dee. Nögöö talaar kompani avtobus gargana gesen."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Тийм бол сайн хэрэг. Тэгсэн ч гэсэн надад нэг эргэлзээ байна: хурлын өрөө хангалттай юу?",
+   "en": "That's good, then. Having said that, I have one doubt: are there enough meeting rooms?",
+   "mn_latin": "Tiim bol sain khereg. Tegsen ch gesen nadad neg ergelzee baina: khurlyn öröö khangalttai yuu?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Зөв тайлбар байна. Үнэнийг хэлэх гэвэл, энэ л гол сөрөг тал нь байх.",
+   "en": "Good point. To be honest, that's probably the main downside.",
+   "mn_latin": "Zöv tailbar baina. Üneniig khelekh gevel, ene l gol sörög tal ni baikh."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "За, маргаашийн хурал дээр үүнийг нэмэлт санал болгож оруулъя.",
+   "en": "Okay, let's raise it as an extra point at tomorrow's meeting.",
+   "mn_latin": "Za, margaashiin khural deer üüniig nemelt sanal bolgoj oruulya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian workplaces, people often soften disagreement rather than saying \"no\" outright, especially with older or more senior colleagues. Phrases like гэхдээ л or тэгсэн ч гэсэн let you voice a doubt while still showing respect for the other person's idea. Opening with praise and then adding a caveat is considered polite and tactful.",
+  "mn": "Монголын ажлын орчинд, ялангуяа ахмад эсвэл дээд албан тушаалтантай ярихдаа шууд \"үгүй\" гэхээс илүү санал зөрөлдөөнөө зөөлрүүлж хэлэх нь түгээмэл. \"Гэхдээ л\", \"тэгсэн ч гэсэн\" гэх мэт хэллэгийг хэрэглэвэл эргэлзээгээ илэрхийлэхийн зэрэгцээ нөгөө хүний санааг хүндэтгэж байгаагаа харуулж чадна. Эхлээд сайшааж, дараа нь тайлбар нэмэх нь эелдэг, ухаалаг арга гэж үздэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Strong, natural lesson with accurate translations and well-built blanks. The only real errors are two sentences missing nominalization after 'тал нь'."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "Mostly solid. The fixes cover an en/mn mismatch in one explanation, one unnatural English alternative, a stiff Mongolian translation, and an inaccurate culture-note claim about шүү дээ.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "mn said it always goes with шүү дээ; en says 'often'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "'give it a try once' is unnatural English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "missing subject; more natural Mongolian"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "шүү дээ is emphatic and can sound insistent, so it doesn't fit a claim about softening"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "keep in line with the en version; the шүү дээ claim was inaccurate"
+   }
+  ]
+ }
+}

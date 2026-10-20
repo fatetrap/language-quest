@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Language Quest · pixel art gallery</title>
+<style>
+/* every sprite, backdrop and map of quest/pixel.js on one page (for the art, not for players) */
+body{margin:0;background:#101028;color:#f0f0f8;font:16px/1.5 "Yarya Uni",monospace;padding:16px}
+h1,h2{font-family:"Yarya Pixel",monospace;font-weight:400;font-size:16px;color:#f8d848;margin:20px 0 10px}
+.row{display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end}
+figure{margin:0;text-align:center}
+figcaption{font-size:16px;color:#c8d0f8}
+canvas{image-rendering:pixelated;display:block;background:#1c1c40}
+</style>
+</head>
+<body>
+<h1>Language Quest · pixel art</h1>
+<div id="g"></div>
+<script src="assets/fonts.js"></script>
+<script src="pixel.js"></script>
+<script>
+// draws the gallery: people (both regions), guards, props, backdrops (day / night, mn / uk), maps
+const X = Yarya.pixel, g = document.getElementById('g'), q = new URLSearchParams(location.search);
+function el(tag, attrs, ...kids) { const e = document.createElement(tag); Object.assign(e, attrs || {}); e.append(...kids); return e; }
+function spriteFig(name, label, scale) {
+  const s = X.sprite(name); if (!s) return el('span', {}, name + '?');
+  const c = el('canvas', { width: s.w * s.frames.length + (s.frames.length - 1) * 2, height: s.h });
+  c.style.width = c.width * scale + 'px';
+  const x = c.getContext('2d'); s.frames.forEach((f, i) => x.drawImage(f, i * (s.w + 2), 0));
+  return el('figure', {}, c, el('figcaption', {}, label));
+}
+function section(title, ...kids) { g.append(el('h2', {}, title), el('div', { className: 'row' }, ...kids)); }
+const only = q.get('only');
+if (!only || only === 'people') {
+  section('People', ...Object.keys(X.ARCH).filter(k => k !== 'hero').map(k => spriteFig(`p:${k}:mn:${k}A`, k, 3)), spriteFig(X.HERO, 'hero', 3));
+  section('People abroad', ...Object.keys(X.ARCH).filter(k => k !== 'hero').map(k => spriteFig(`p:${k}:uk:${k}B`, k, 3)));
+  section('Guards', spriteFig('batzorig', 'BATZORIG', 4), spriteFig('edmund', 'Sir Edmund', 4));
+  section('Props', ...Object.keys(X.PROPS).map(k => spriteFig(k, k, 3)));
+}
+const KINDS = ['plane', 'car', 'ger', 'stalls', 'bowl', 'flags', 'hills', 'clinic', 'school', 'city', 'gate'];
+function sceneFig(kind, region, night, w, h, s) {
+  const c = el('canvas', { width: w, height: h }); c.style.width = w * s + 'px';
+  X.animate(c, t => X.scene(c.getContext('2d'), w, h, kind, { region, night, t }));
+  return el('figure', {}, c, el('figcaption', {}, `${kind} · ${region}${night ? ' · night' : ''}`));
+}
+if (!only || only === 'scenes') for (const region of (q.get('region') ? [q.get('region')] : ['mn', 'uk']))
+  section('Backdrops ' + region, ...KINDS.flatMap(k => [sceneFig(k, region, false, 200, 72, 2), sceneFig(k, region, true, 200, 72, 2)]));
+if (!only || only === 'maps') for (const region of ['mn', 'uk'])
+  section('Maps ' + region, ...[0, 1, 2, 3, 4, 5].map(lv => {
+    const w = 200, h = 90, c = el('canvas', { width: w, height: h }); c.style.width = w * 2 + 'px';
+    const pts = X.route(w, h, 9, 101 + lv * 17 + (region === 'uk' ? 5 : 0));
+    const nodes = pts.map((p, i) => Object.assign({ art: KINDS[i % 10], state: i < 3 ? 'done' : i === 3 ? 'next' : 'locked', boss: i === 8 }, p));
+    X.animate(c, t => X.map(c.getContext('2d'), w, h, { region, level: lv, nodes, hereIx: 3, hero: { x: nodes[3].x, y: nodes[3].y }, t }));
+    return el('figure', {}, c, el('figcaption', {}, 'level ' + lv));
+  }));
+</script>
+</body>
+</html>

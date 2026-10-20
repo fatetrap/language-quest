@@ -1,0 +1,408 @@
+{
+ "intro_en": "Learn to explain inflation, a mortgage, or the greenhouse effect so anyone can understand it. You'll use phrases like өөрөөр хэлбэл and товчхондоо, and link ideas with бөгөөд, ба, and түүнчлэн without overloading your sentences.",
+ "intro_mn": "Инфляц, ипотекийн зээл, хүлэмжийн нөлөө зэрэг ойлголтыг хэнд ч ойлгомжтой тайлбарлаж сурна. Мөн англи хэлний тодорхойлох харьцангуй өгүүлбэр (a device that..., a process by which...) ашиглаж сурна.",
+ "vocab": [
+  {
+   "mn": "инфляц",
+   "en": "inflation",
+   "pos": "noun",
+   "example_mn": "Инфляц өндөр байхад мөнгөний худалдан авах чадвар буурдаг.",
+   "example_en": "When inflation is high, the purchasing power of money falls.",
+   "mn_latin": "inflyats"
+  },
+  {
+   "mn": "ипотекийн зээл",
+   "en": "mortgage",
+   "pos": "noun phrase",
+   "example_mn": "Тэд орон сууцаа ипотекийн зээлээр авсан.",
+   "example_en": "They bought their apartment with a mortgage.",
+   "mn_latin": "ipotyekiin zeel"
+  },
+  {
+   "mn": "хүлэмжийн нөлөө",
+   "en": "greenhouse effect",
+   "pos": "noun phrase",
+   "example_mn": "Хүлэмжийн нөлөө дэлхийн дулааралтай шууд холбоотой.",
+   "example_en": "The greenhouse effect is directly linked to global warming.",
+   "mn_latin": "khülemjiin nölöö"
+  },
+  {
+   "mn": "үйл явц",
+   "en": "process",
+   "pos": "noun",
+   "example_mn": "Фотосинтез бол ургамал нарны гэрлээс энерги гаргаж авдаг үйл явц юм.",
+   "example_en": "Photosynthesis is a process by which plants get energy from sunlight.",
+   "mn_latin": "üil yavts"
+  },
+  {
+   "mn": "барьцаа",
+   "en": "collateral",
+   "pos": "noun",
+   "example_mn": "Ипотекийн зээлд худалдаж авсан байр өөрөө барьцаа болдог.",
+   "example_en": "With a mortgage, the apartment you buy serves as the collateral.",
+   "mn_latin": "baritsaa"
+  },
+  {
+   "mn": "өөрөөр хэлбэл",
+   "en": "in other words",
+   "pos": "phrase",
+   "example_mn": "Үнэ өсөж байна, өөрөөр хэлбэл мөнгө үнэ цэнээ алдаж байна.",
+   "example_en": "Prices are rising. In other words, money is losing value.",
+   "mn_latin": "ööröör khelbel"
+  },
+  {
+   "mn": "товчхондоо",
+   "en": "in short",
+   "pos": "adverb",
+   "example_mn": "Товчхондоо, ипотек бол урт хугацааны орон сууцны зээл юм.",
+   "example_en": "In short, a mortgage is a long-term home loan.",
+   "mn_latin": "tovchkhondoo"
+  },
+  {
+   "mn": "энгийнээр хэлэхэд",
+   "en": "simply put",
+   "pos": "phrase",
+   "example_mn": "Энгийнээр хэлэхэд, агаар мандал дулааныг хөнжил шиг барьдаг.",
+   "example_en": "Simply put, the atmosphere holds in heat like a blanket.",
+   "mn_latin": "engiineer khelekhed"
+  },
+  {
+   "mn": "жишээ нь",
+   "en": "for example",
+   "pos": "phrase",
+   "example_mn": "Жишээ нь, таван жилийн өмнө 500 төгрөг байсан талх одоо 1500 төгрөг болжээ.",
+   "example_en": "For example, bread that cost 500 tögrög five years ago now costs 1,500.",
+   "mn_latin": "jishee ni"
+  },
+  {
+   "mn": "түүнчлэн",
+   "en": "in addition, moreover",
+   "pos": "conjunction",
+   "example_mn": "Түүнчлэн, зээлийн хүү жил бүр өөрчлөгдөж болно.",
+   "example_en": "In addition, the interest rate can change every year.",
+   "mn_latin": "tüünchlen"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Инфляц гэдэг нь бараа, үйлчилгээний үнэ ерөнхийдөө өсөх үзэгдэл юм.",
+   "en": "Inflation is a situation in which the prices of goods and services rise overall.",
+   "alt_mn": [
+    "Инфляц бол бараа, үйлчилгээний үнэ ерөнхийдөө өсөх үзэгдэл юм."
+   ],
+   "alt_en": [
+    "Inflation is the general rise in the prices of goods and services."
+   ],
+   "mn_latin": "Inflyats gedeg ni baraa, üilchilgeenii üne yerönkhiidöö ösökh üzegdel yum."
+  },
+  {
+   "mn": "Өөрөөр хэлбэл, ижил хэмжээний мөнгөөр бага зүйл худалдаж авна.",
+   "en": "In other words, the same amount of money buys less.",
+   "alt_mn": [
+    "Өөрөөр хэлбэл, ижил мөнгөөр бага зүйл авна."
+   ],
+   "alt_en": [
+    "In other words, the same money buys fewer things."
+   ],
+   "mn_latin": "Ööröör khelbel, ijil khemjeenii möngöör baga züil khudaldaj avna."
+  },
+  {
+   "mn": "Ипотекийн зээл бол орон сууц худалдаж авахад зориулсан урт хугацааны зээл юм.",
+   "en": "A mortgage is a long-term loan that is used to buy a home.",
+   "alt_mn": [
+    "Ипотекийн зээл гэдэг нь орон сууц худалдаж авахад зориулсан урт хугацааны зээл юм."
+   ],
+   "alt_en": [
+    "A mortgage is a long-term loan that people use to buy a home.",
+    "A mortgage is a long-term loan for buying a home."
+   ],
+   "mn_latin": "Ipotyekiin zeel bol oron suuts khudaldaj avakhad zoriulsan urt khugatsaany zeel yum."
+  },
+  {
+   "mn": "Хүү бол мөнгө зээлсний төлөө банкинд нэмж төлдөг мөнгө юм.",
+   "en": "Interest is the extra money that you pay the bank for borrowing.",
+   "alt_mn": [
+    "Хүү гэдэг нь мөнгө зээлсний төлөө банкинд нэмж төлдөг мөнгө юм."
+   ],
+   "alt_en": [
+    "Interest is the extra money you pay the bank for borrowing."
+   ],
+   "mn_latin": "Khüü bol möngö zeelsnii tölöö bankind nemj töldög möngö yum."
+  },
+  {
+   "mn": "Барьцаа гэдэг нь зээлдэгч зээлээ төлөхгүй бол банкинд шилжих хөрөнгө юм.",
+   "en": "Collateral is property that goes to the bank if the borrower doesn't repay the loan.",
+   "alt_mn": [
+    "Барьцаа бол зээлдэгч зээлээ төлөхгүй бол банкинд шилжих хөрөнгө юм."
+   ],
+   "alt_en": [
+    "Collateral is property that passes to the bank if the borrower does not repay."
+   ],
+   "mn_latin": "Baritsaa gedeg ni zeeldegch zeelee tölökhgüi bol bankind shiljikh khöröngö yum."
+  },
+  {
+   "mn": "Хүлэмжийн нөлөө гэдэг нь агаар мандал нарны дулааныг барьж үлдээдэг үйл явц юм.",
+   "en": "The greenhouse effect is a process by which the atmosphere traps the sun's heat.",
+   "alt_mn": [
+    "Хүлэмжийн нөлөө бол агаар мандал нарны дулааныг барьж үлдээдэг үйл явц юм."
+   ],
+   "alt_en": [
+    "The greenhouse effect is a process in which the atmosphere traps the sun's heat.",
+    "The greenhouse effect is the process by which the atmosphere traps heat from the sun."
+   ],
+   "mn_latin": "Khülemjiin nölöö gedeg ni agaar mandal narny dulaanyg barij üldeedeg üil yavts yum."
+  },
+  {
+   "mn": "Энгийнээр хэлэхэд, дэлхийг зузаан хөнжлөөр ороосон юм шиг.",
+   "en": "Simply put, it's as if the earth were wrapped in a thick blanket.",
+   "alt_mn": [
+    "Энгийнээр хэлэхэд, дэлхий зузаан хөнжилд ороогдсон юм шиг."
+   ],
+   "alt_en": [
+    "Simply put, it's like the earth is wrapped in a thick blanket."
+   ],
+   "mn_latin": "Engiineer khelekhed, delkhiig zuzaan khönjlöör orooson yum shig."
+  },
+  {
+   "mn": "Жишээ нь, гэрийн эсгий өвлийн хүйтэнд дулааныг дотор нь барьдагтай адил.",
+   "en": "For example, it's similar to how a ger's felt keeps the heat inside in the winter cold.",
+   "alt_mn": [
+    "Жишээ нь, өвлийн хүйтэнд гэрийн эсгий дулааныг дотор нь барьдагтай адилхан."
+   ],
+   "alt_en": [
+    "For example, it's like the way the felt of a ger keeps heat inside during the cold winter."
+   ],
+   "mn_latin": "Jishee ni, geriin esgii övliin khüitend dulaanyg dotor ni baridagtai adil."
+  },
+  {
+   "mn": "Товчхондоо, эдгээр хий ихсэх тусам дэлхий улам дулаарна.",
+   "en": "In short, the more these gases build up, the warmer the earth gets.",
+   "alt_mn": [
+    "Товчхондоо, эдгээр хий нэмэгдэх тусам дэлхий улам дулаарна."
+   ],
+   "alt_en": [
+    "In short, the more of these gases there are, the warmer the earth becomes."
+   ],
+   "mn_latin": "Tovchkhondoo, edgeer khii ikhsekh tusam delkhii ulam dulaarna."
+  },
+  {
+   "mn": "Монголбанк инфляцыг хянахыг зорьдог бөгөөд үүний тулд бодлогын хүүг өөрчилдөг.",
+   "en": "The Bank of Mongolia aims to keep inflation under control, and to do this, it changes the policy rate.",
+   "alt_mn": [
+    "Монголбанк инфляцыг хянахыг зорьдог бөгөөд үүний тулд бодлогын хүүгээ өөрчилдөг."
+   ],
+   "alt_en": [
+    "The Bank of Mongolia tries to control inflation, and it adjusts the policy rate to do so."
+   ],
+   "mn_latin": "Mongolbank inflyatsyg khyanakhyg zoridog bögööd üünii tuld bodlogyn khüüg öörchildög."
+  },
+  {
+   "mn": "Нотариатч бол хууль ёсны баримт бичгийг гэрчилдэг хүн юм.",
+   "en": "A notary is a person who certifies legal documents.",
+   "alt_mn": [
+    "Нотариатч гэдэг нь хууль ёсны баримт бичгийг гэрчилдэг хүн юм."
+   ],
+   "alt_en": [
+    "A notary is someone who certifies legal documents."
+   ],
+   "mn_latin": "Notariatch bol khuuli yosny barimt bichgiig gerchildeg khün yum."
+  },
+  {
+   "mn": "Энэ нэр томьёог мэргэжлийн бус хүнд ойлгомжтой тайлбарлах нь чухал.",
+   "en": "It's important to explain this term clearly to a non-expert.",
+   "alt_mn": [
+    "Энэ нэр томьёог мэргэжлийн бус хүнд ойлгомжтойгоор тайлбарлах нь чухал."
+   ],
+   "alt_en": [
+    "It is important to explain this term in a way a non-expert can understand."
+   ],
+   "mn_latin": "Ene ner tomiyoog mergejliin bus khünd oilgomjtoi tailbarlakh ni chukhal."
+  }
+ ],
+ "grammar": {
+  "title_en": "Linking ideas: бөгөөд, ба, түүнчлэн / Definitional relative clauses",
+  "title_mn": "Санаа холбох нь: бөгөөд, ба, түүнчлэн / Англи хэлний тодорхойлох харьцангуй өгүүлбэр",
+  "explain_en": "Mongolian has three formal 'and'-type linkers, and each has its own job. **ба** joins nouns or noun phrases: нүүрсхүчлийн хий ба метан ('carbon dioxide and methane'). **бөгөөд** joins two whole clauses inside one sentence. It comes right after the first predicate: ...зээл бөгөөд байр өөрөө барьцаа болдог ('...is a loan, and the home itself serves as collateral'). **түүнчлэн** starts a new sentence to add another point, like 'In addition,' or 'Moreover,'. In a clear explanation, use each one at most once or twice. If every sentence has бөгөөд or түүнчлэн, the text sounds heavy and bureaucratic. Mix them with short sentences, comma lists (бараа, үйлчилгээ), and converbs like -ж/-ч.",
+  "explain_mn": "Англи хэлэнд нэр томьёог тодорхойлохдоо дараах загварыг ашигладаг: **X is a [ангилал] + харьцангуй өгүүлбэр**. Хүнийг **who**-гээр, юм болон ойлголтыг **that** эсвэл **which**-ээр тодорхойлно. Жишээ нь: A notary is a person **who** certifies documents. A mortgage is a loan **that** helps people buy a home. Албан ёсны тайлбарт **by which** (ямар аргаар), **in which** (ямар нөхцөлд) гэж угтвар үгийг which-ийн өмнө тавьдаг: a process **by which** plants make energy; a situation **in which** prices rise. Угтвар үгийн ард **that** хэрэглэдэггүй: \"by that\" гэвэл буруу.",
+  "examples": [
+   {
+    "mn": "Инфляц гэдэг нь үнийн ерөнхий түвшин өсөх үзэгдэл бөгөөд мөнгөний худалдан авах чадварыг бууруулдаг.",
+    "en": "Inflation is a situation in which the overall price level rises, and it reduces the purchasing power of money.",
+    "mn_latin": "Inflyats gedeg ni üniin yerönkhii tüvshin ösökh üzegdel bögööd möngönii khudaldan avakh chadvaryg buuruuldag."
+   },
+   {
+    "mn": "Нүүрсхүчлийн хий ба метан нь хүлэмжийн хий юм. Түүнчлэн, усны уур ч дулааныг барьдаг.",
+    "en": "Carbon dioxide and methane are greenhouse gases. In addition, water vapor traps heat as well.",
+    "mn_latin": "Nüürskhüchliin khii ba myetan ni khülemjiin khii yum. Tüünchlen, usny uur ch dulaanyg baridag."
+   },
+   {
+    "mn": "Ипотек бол урт хугацааны зээл бөгөөд та үүнийг 15–20 жилийн турш сар бүр төлдөг. Түүнчлэн, байр тань барьцаа болдог.",
+    "en": "A mortgage is a long-term loan that you pay back every month for 15 to 20 years. In addition, your apartment serves as collateral.",
+    "mn_latin": "Ipotyek bol urt khugatsaany zeel bögööd ta üüniig 15–20 jiliin tursh sar bür töldög. Tüünchlen, bair tani baritsaa boldog."
+   },
+   {
+    "mn": "Ипотекийн зээлийн хүү ба хугацааг гэрээнд тусгадаг.",
+    "en": "The interest rate and the term of a mortgage are set out in the contract.",
+    "mn_latin": "Ipotyekiin zeeliin khüü ba khugatsaag gereend tusgadag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Инфляц гэдэг нь үнийн ерөнхий өсөлт ___ мөнгөний үнэ цэнийг бууруулдаг.",
+   "answer": "бөгөөд",
+   "options": [
+    "бөгөөд",
+    "ба",
+    "түүнчлэн",
+    "жишээ нь"
+   ],
+   "translation": "Inflation is a general rise in prices, and it lowers the value of money.",
+   "explain_en": "Two full clauses are joined inside one sentence, so you need бөгөөд. It goes right after the first predicate (өсөлт). ба only joins nouns, and түүнчлэн starts a new sentence.",
+   "explain_mn": "Энд хоёр бүтэн өгүүлбэрийг нэг өгүүлбэр болгон холбож байна. Англиар үүнийг \", and it...\" гэж буулгана. Харьцангуй өгүүлбэр ашиглан \"a general rise in prices that lowers the value of money\" гэж бас хэлж болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Нүүрсхүчлийн хий ___ метан дулааныг барьж үлдээдэг.",
+   "answer": "ба",
+   "options": [
+    "ба",
+    "бөгөөд",
+    "түүнчлэн",
+    "өөрөөр хэлбэл"
+   ],
+   "translation": "Carbon dioxide and methane trap heat.",
+   "explain_en": "Two nouns (нүүрсхүчлийн хий and метан) are joined, so the right linker is ба. бөгөөд links clauses, not nouns.",
+   "explain_mn": "Хоёр нэр үгийг холбож байгаа тул англиар энгийн \"and\" хэрэглэнэ: carbon dioxide and methane. Англи хэлэнд нэр үг, өгүүлбэр аль алиныг \"and\"-аар холбодог."
+  },
+  {
+   "lang": "mn",
+   "text": "Үнэ хоёр дахин өссөн, ___ таны цалингийн худалдан авах чадвар хоёр дахин буурсан.",
+   "answer": "өөрөөр хэлбэл",
+   "options": [
+    "өөрөөр хэлбэл",
+    "жишээ нь",
+    "ба",
+    "гэхдээ"
+   ],
+   "translation": "Prices have doubled. In other words, your salary's purchasing power has been cut in half.",
+   "explain_en": "The second part restates the first idea in simpler terms, so you need өөрөөр хэлбэл ('in other words'). жишээ нь would introduce a new example, not a rephrasing.",
+   "explain_mn": "Өмнөх санааг өөр үгээр дахин хэлж байгаа тул англиар \"in other words\" гэнэ. \"For example\" гэвэл шинэ жишээ авчирч байгаа утгатай болно."
+  },
+  {
+   "lang": "en",
+   "text": "The greenhouse effect is a process by ___ the atmosphere traps heat.",
+   "answer": "which",
+   "options": [
+    "which",
+    "that",
+    "who",
+    "what"
+   ],
+   "translation": "Хүлэмжийн нөлөө гэдэг нь агаар мандал дулааныг барьж үлдээдэг үйл явц юм.",
+   "explain_en": "After a preposition like 'by', English uses 'which' for things. 'By that' is not grammatical here, and 'who' is only for people.",
+   "explain_mn": "\"by\" гэх мэт угтвар үгийн ард юмыг заахдаа зөвхөн \"which\" хэрэглэнэ. \"by that\" гэж болохгүй, харин \"who\" нь зөвхөн хүнийг заана."
+  },
+  {
+   "lang": "en",
+   "text": "A mortgage is a loan ___ helps people buy a home.",
+   "answer": "that",
+   "options": [
+    "that",
+    "who",
+    "where",
+    "whose"
+   ],
+   "translation": "Ипотекийн зээл бол хүмүүст орон сууц худалдаж авахад тусалдаг зээл юм.",
+   "explain_en": "A loan is a thing, and the relative clause gives the subject of 'helps', so 'that' is the right choice.",
+   "explain_mn": "\"loan\" нь юм тул \"that\" (эсвэл \"which\") хэрэглэнэ. \"who\" нь хүн, \"where\" нь газар заана, харин \"whose\" нь эзэмшлийг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "A notary is a person ___ certifies legal documents.",
+   "answer": "who",
+   "options": [
+    "who",
+    "which",
+    "where",
+    "whose"
+   ],
+   "translation": "Нотариатч бол хууль ёсны баримт бичгийг гэрчилдэг хүн юм.",
+   "explain_en": "'Person' refers to a human, so the relative pronoun is 'who'. 'Which' is for things.",
+   "explain_mn": "\"person\" буюу хүнийг тодорхойлж байгаа тул \"who\" хэрэглэнэ. \"which\"-ийг юманд л хэрэглэдэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Temuulen",
+   "mn": "Нараа, банкнаас надад ипотекийн зээл ав гэж байна. Энгийнээр хэлэхэд энэ юу гэсэн үг вэ?",
+   "en": "Naraa, the bank says I should take out a mortgage. In simple terms, what does that mean?",
+   "mn_latin": "Naraa, banknaas nadad ipotyekiin zeel av gej baina. Engiineer khelekhed ene yuu gesen üg ve?"
+  },
+  {
+   "speaker": "Naraa",
+   "mn": "Ипотек бол орон сууц худалдаж авахад зориулсан урт хугацааны зээл бөгөөд худалдаж авсан байр чинь өөрөө барьцаа болдог.",
+   "en": "A mortgage is a long-term loan that you use to buy a home, and the apartment you buy serves as collateral.",
+   "mn_latin": "Ipotyek bol oron suuts khudaldaj avakhad zoriulsan urt khugatsaany zeel bögööd khudaldaj avsan bair chini ööröö baritsaa boldog."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Барьцаа гэдэг нь юу гэсэн үг вэ?",
+   "en": "What does \"collateral\" mean?",
+   "mn_latin": "Baritsaa gedeg ni yuu gesen üg ve?"
+  },
+  {
+   "speaker": "Naraa",
+   "mn": "Өөрөөр хэлбэл, зээлээ төлж чадахгүй бол банк байрыг чинь авч болно гэсэн үг.",
+   "en": "In other words, if you can't repay the loan, the bank can take your apartment.",
+   "mn_latin": "Ööröör khelbel, zeelee tölj chadakhgüi bol bank bairyg chini avch bolno gesen üg."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Тэгээд хүү гэж юу юм бэ?",
+   "en": "And what's interest?",
+   "mn_latin": "Tegeed khüü gej yuu yum be?"
+  },
+  {
+   "speaker": "Naraa",
+   "mn": "Хүү бол мөнгө зээлсний төлөө банкинд нэмж төлдөг мөнгө. Жишээ нь, жилийн 6 хувийн хүүтэй бол 100 сая төгрөгт жилд ойролцоогоор 6 сая төгрөг төлнө.",
+   "en": "Interest is the extra money you pay the bank for borrowing. For example, at 6% a year, you'd pay about 6 million tögrög a year on 100 million.",
+   "mn_latin": "Khüü bol möngö zeelsnii tölöö bankind nemj töldög möngö. Jishee ni, jiliin 6 khuviin khüütei bol 100 saya tögrögt jild oiroltsoogoor 6 saya tögrög tölnö."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Ойлголоо. Өөр юуг анхаарах ёстой вэ?",
+   "en": "Got it. What else should I watch out for?",
+   "mn_latin": "Oilgoloo. Öör yuug ankhaarakh yostoi ve?"
+  },
+  {
+   "speaker": "Naraa",
+   "mn": "Сарын төлбөр цалингийн чинь гуравны нэгээс хэтрэхгүй байвал зүйтэй. Түүнчлэн, гарын үсэг зурахаасаа өмнө гэрээгээ сайн уншаарай. Товчхондоо, яарах хэрэггүй.",
+   "en": "Your monthly payment shouldn't be more than a third of your salary. Also, read the contract carefully before you sign. In short, don't rush.",
+   "mn_latin": "Saryn tölbör tsalingiin chini guravny negees khetrekhgüi baival züitei. Tüünchlen, garyn üseg zurakhaasaa ömnö gereegee sain unshaarai. Tovchkhondoo, yaarakh khereggüi."
+  }
+ ],
+ "culture_note": {
+  "en": "Since 2013, Mongolia has had a state-subsidized mortgage program with a much lower interest rate than ordinary bank loans, and many young families in Ulaanbaatar have bought apartments through it. As a result, words like ипотек, хүү, and барьцаа come up in everyday conversation. When Mongolians explain abstract ideas, they often reach for familiar comparisons, such as the felt of a ger keeping heat in during winter.",
+  "mn": "Монголд 2013 оноос хойш энгийн банкны зээлээс хамаагүй бага хүүтэй, төрөөс дэмжсэн ипотекийн зээлийн хөтөлбөр хэрэгжиж байна. Улаанбаатарын олон залуу гэр бүл энэ хөтөлбөрөөр орон сууцтай болсон. Тиймээс ипотек, хүү, барьцаа гэх мэт үгс өдөр тутмын ярианд байнга гардаг. Монголчууд хийсвэр ойлголтыг тайлбарлахдаа өвлийн хүйтэнд гэрийн эсгий дулааныг дотор нь барьдаг шиг танил зүйлтэй харьцуулах нь элбэг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Accurate, natural lesson with good Mongolian-English pairs; only one fill-in-the-blank had a second valid option."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is accurate and natural in both languages. The audience-specific intro and grammar texts are intentional. Only one awkward English phrase needed fixing.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "'Simply put' introduces the speaker's own simplified statement, so it doesn't fit a question asking for one; 'In simple terms' reads naturally."
+   }
+  ]
+ }
+}

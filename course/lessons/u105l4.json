@@ -1,0 +1,406 @@
+{
+ "intro_en": "Learn how to handle guest complaints at a ger camp, such as broken stoves, no hot water, and late meals. You will also practice the Mongolian forms -хуйц биш and -ууштай зүйл биш, which mean that something isn't worth doing or isn't acceptable.",
+ "intro_mn": "Гэр баазад зуух эвдэрсэн, халуун ус байхгүй, хоол хоцорсон зэрэг зочдын гомдлыг хэрхэн шийдвэрлэхийг сурна. Мөн англи хэлний \"it's no use + -ing\", \"there's no point + -ing\" хэллэгийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "гомдол",
+   "en": "complaint",
+   "pos": "noun",
+   "example_mn": "Зочин өрөөнийхөө талаар гомдол гаргасан.",
+   "example_en": "The guest made a complaint about the room.",
+   "mn_latin": "gomdol"
+  },
+  {
+   "mn": "засвар",
+   "en": "repair",
+   "pos": "noun",
+   "example_mn": "Шүршүүр засвартай байна.",
+   "example_en": "The shower is under repair.",
+   "mn_latin": "zasvar"
+  },
+  {
+   "mn": "халуун ус",
+   "en": "hot water",
+   "pos": "noun",
+   "example_mn": "Өглөө халуун ус гарахгүй байсан.",
+   "example_en": "There was no hot water this morning.",
+   "mn_latin": "khaluun us"
+  },
+  {
+   "mn": "хүлээлгэх",
+   "en": "to keep (someone) waiting",
+   "pos": "verb",
+   "example_mn": "Таныг хүлээлгэсэнд уучлаарай.",
+   "example_en": "Sorry for keeping you waiting.",
+   "mn_latin": "khüleelgekh"
+  },
+  {
+   "mn": "уучлалт",
+   "en": "apology",
+   "pos": "noun",
+   "example_mn": "Бид зочноос уучлалт гуйсан.",
+   "example_en": "We apologized to the guest.",
+   "mn_latin": "uuchlalt"
+  },
+  {
+   "mn": "зуух",
+   "en": "stove",
+   "pos": "noun",
+   "example_mn": "Гэрийн зуух шөнө унтарчээ.",
+   "example_en": "The stove in the ger went out during the night.",
+   "mn_latin": "zuukh"
+  },
+  {
+   "mn": "эвдрэх",
+   "en": "to break down",
+   "pos": "verb",
+   "example_mn": "Ус халаагч дахиад эвдэрлээ.",
+   "example_en": "The water heater broke down again.",
+   "mn_latin": "evdrekh"
+  },
+  {
+   "mn": "хоцрох",
+   "en": "to be late",
+   "pos": "verb",
+   "example_mn": "Өнөөдөр оройн хоол хоцорно.",
+   "example_en": "Dinner will be late today.",
+   "mn_latin": "khotsrokh"
+  },
+  {
+   "mn": "нөхөн олговор",
+   "en": "compensation",
+   "pos": "noun",
+   "example_mn": "Зочин нөхөн олговор шаардсан.",
+   "example_en": "The guest demanded compensation.",
+   "mn_latin": "nökhön olgovor"
+  },
+  {
+   "mn": "шийдвэрлэх",
+   "en": "to resolve",
+   "pos": "verb",
+   "example_mn": "Бид асуудлыг нэг цагийн дотор шийдвэрлэнэ.",
+   "example_en": "We will resolve the problem within an hour.",
+   "mn_latin": "shiidverlekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай зочин халуун ус байхгүй гэж гомдол гаргасан.",
+   "en": "Our guest complained that there was no hot water.",
+   "alt_mn": [
+    "Манай зочин халуун ус байхгүй байна гэж гомдоллосон."
+   ],
+   "alt_en": [
+    "Our guest made a complaint that there was no hot water."
+   ],
+   "mn_latin": "Manai zochin khaluun us baikhgüi gej gomdol gargasan."
+  },
+  {
+   "mn": "Гэрийн зуух эвдэрсэн тул засварчин дуудлаа.",
+   "en": "The stove in the ger broke down, so we called a repairman.",
+   "alt_mn": [
+    "Гэрийн зуух эвдэрсэн учраас засварчин дуудсан."
+   ],
+   "alt_en": [
+    "The ger's stove broke, so we called a repairman."
+   ],
+   "mn_latin": "Geriin zuukh evdersen tul zasvarchin duudlaa."
+  },
+  {
+   "mn": "Оройн хоолыг нэг цаг хоцроох нь хүлээн зөвшөөрөхүйц биш.",
+   "en": "Serving dinner an hour late is unacceptable.",
+   "alt_mn": [
+    "Оройн хоолыг нэг цаг хоцроох нь хүлээн зөвшөөрөхүйц зүйл биш."
+   ],
+   "alt_en": [
+    "Serving dinner an hour late is not acceptable."
+   ],
+   "mn_latin": "Oroin khoolyg neg tsag khotsrookh ni khüleen zövshöörökhüits bish."
+  },
+  {
+   "mn": "Энэ бол санаа зовууштай зүйл биш, бид өнөөдөртөө засна.",
+   "en": "This isn't worth worrying about; we'll fix it today.",
+   "alt_mn": [
+    "Энэ санаа зовууштай зүйл биш, бид өнөөдөртөө засчихна."
+   ],
+   "alt_en": [
+    "This is nothing to worry about; we'll fix it today."
+   ],
+   "mn_latin": "Ene bol sanaa zovuushtai züil bish, bid önöödörtöö zasna."
+  },
+  {
+   "mn": "Одоо маргаад нэмэргүй, асуудлаа шийдвэрлэе.",
+   "en": "It's no use arguing now; let's solve the problem.",
+   "alt_mn": [
+    "Одоо маргаад ямар ч нэмэргүй, асуудлаа шийдье."
+   ],
+   "alt_en": [
+    "It's no use arguing now. Let's solve the problem."
+   ],
+   "mn_latin": "Odoo margaad nemergüi, asuudlaa shiidverleye."
+  },
+  {
+   "mn": "Менежерийг хүлээгээд утгагүй, тэр маргааш л ирнэ.",
+   "en": "There's no point waiting for the manager; he won't come until tomorrow.",
+   "alt_mn": [
+    "Менежерийг хүлээх нь утгагүй, тэр маргааш л ирнэ."
+   ],
+   "alt_en": [
+    "There's no point in waiting for the manager; he won't be here until tomorrow."
+   ],
+   "mn_latin": "Myenyejyeriig khüleegeed utgagüi, ter margaash l irne."
+  },
+  {
+   "mn": "Бид зочноос чин сэтгэлээсээ уучлалт гуйлаа.",
+   "en": "We sincerely apologized to the guest.",
+   "alt_mn": [
+    "Бид зочноос чин сэтгэлээсээ уучлалт гуйсан."
+   ],
+   "alt_en": [
+    "We offered the guest a sincere apology."
+   ],
+   "mn_latin": "Bid zochnoos chin setgeleesee uuchlalt guilaa."
+  },
+  {
+   "mn": "Нөхөн олговор болгож бид танаас нэг шөнийн төлбөр авахгүй.",
+   "en": "As compensation, we won't charge you for one night.",
+   "alt_mn": [
+    "Нөхөн олговор болгон бид танаас нэг шөнийн төлбөр авахгүй."
+   ],
+   "alt_en": [
+    "To make up for it, we won't charge you for one night."
+   ],
+   "mn_latin": "Nökhön olgovor bolgoj bid tanaas neg shöniin tölbör avakhgüi."
+  },
+  {
+   "mn": "Ийм жижиг алдаа дурдахуйц зүйл биш гэж зочин хэлсэн.",
+   "en": "The guest said such a small mistake wasn't worth mentioning.",
+   "alt_mn": [
+    "Зочин ийм жижиг алдаа дурдахуйц зүйл биш гэж хэлсэн."
+   ],
+   "alt_en": [
+    "The guest said that such a small mistake wasn't worth mentioning."
+   ],
+   "mn_latin": "Iim jijig aldaa durdakhuits züil bish gej zochin khelsen."
+  },
+  {
+   "mn": "Ус халаагч эвдэрвэл засварын ажилтанд тэр даруй мэдэгдээрэй.",
+   "en": "If the water heater breaks down, notify maintenance immediately.",
+   "alt_mn": [
+    "Ус халаагч эвдэрвэл засварын ажилтанд нэн даруй мэдэгдээрэй."
+   ],
+   "alt_en": [
+    "If the water heater breaks, tell maintenance right away."
+   ],
+   "mn_latin": "Us khalaagch evdervel zasvaryn ajiltand ter darui medegdeerei."
+  },
+  {
+   "mn": "Буруутныг хайгаад нэмэргүй, зочдод туслах хэрэгтэй.",
+   "en": "It's no use looking for someone to blame; we need to help the guests.",
+   "alt_mn": [
+    "Буруутан хайгаад нэмэргүй, зочдод туслах хэрэгтэй."
+   ],
+   "alt_en": [
+    "It's no use looking for someone to blame. We need to help the guests."
+   ],
+   "mn_latin": "Buruutnyg khaigaad nemergüi, zochdod tuslakh kheregtei."
+  },
+  {
+   "mn": "Зочны гомдол бол үл тоомсорлохуйц зүйл биш.",
+   "en": "A guest's complaint is not something to ignore.",
+   "alt_mn": [
+    "Зочны гомдол үл тоомсорлохуйц зүйл биш."
+   ],
+   "alt_en": [
+    "A guest's complaint shouldn't be ignored."
+   ],
+   "mn_latin": "Zochny gomdol bol ül toomsorlokhuits züil bish."
+  }
+ ],
+ "grammar": {
+  "title_en": "Not worth it: -хуйц биш / -ууштай зүйл биш",
+  "title_mn": "It's no use + -ing / There's no point + -ing",
+  "explain_en": "Mongolian has two endings that mean something is or isn't worth doing. You add -хуйц (-хүйц) to a verb stem to say that an action is \"worthy\" of something, as in хүлээн зөвшөөрөхүйц (acceptable) or дурдахуйц (worth mentioning). Put биш after it to make it negative: хүлээн зөвшөөрөхүйц биш means \"unacceptable.\" The ending -ууштай (-үүштэй) works in a similar way: санаа зовууштай зүйл биш means \"nothing worth worrying about.\" Vowel harmony applies, so you write зовууштай but үзүүштэй. To say that doing something is pointless, use -аад (-ээд, -оод, -өөд) нэмэргүй or утгагүй: маргаад нэмэргүй means \"it's no use arguing.\" These forms are very useful when you want to calm a guest or to set a clear limit.",
+  "explain_mn": "Англи хэлэнд ямар нэг үйлдэл \"нэмэргүй, утгагүй\" гэдгийг \"It's no use\" эсвэл \"There's no point\" гэж илэрхийлдэг. Эдгээрийн дараа үйл үг заавал -ing хэлбэртэй ордог: It's no use complaining (Гомдоллоод нэмэргүй), There's no point waiting (Хүлээгээд утгагүй). \"There's no point in waiting\" гэж in нэмж хэлж болно. Харин \"to wait\", \"wait\" гэж хэлбэл алдаа болно. Монгол хэлний \"-аад нэмэргүй\", \"-х утгагүй\" гэсэн хэлбэртэй утгаараа дүйнэ.",
+  "examples": [
+   {
+    "mn": "Ийм удаан хүлээлгэх нь хүлээн зөвшөөрөхүйц биш.",
+    "en": "Keeping guests waiting this long is unacceptable.",
+    "mn_latin": "Iim udaan khüleelgekh ni khüleen zövshöörökhüits bish."
+   },
+   {
+    "mn": "Энэ санаа зовууштай зүйл биш.",
+    "en": "This is nothing to worry about.",
+    "mn_latin": "Ene sanaa zovuushtai züil bish."
+   },
+   {
+    "mn": "Одоо гомдоллоод нэмэргүй.",
+    "en": "It's no use complaining now.",
+    "mn_latin": "Odoo gomdollood nemergüi."
+   },
+   {
+    "mn": "Зуухаа дахин асаагаад утгагүй, түлээ дууссан.",
+    "en": "There's no point lighting the stove again; we're out of firewood.",
+    "mn_latin": "Zuukhaa dakhin asaagaad utgagüi, tülee duussan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ асуудал санаа зов___ зүйл биш.",
+   "answer": "ууштай",
+   "options": [
+    "ууштай",
+    "ож",
+    "оод",
+    "сон"
+   ],
+   "translation": "This problem is nothing to worry about.",
+   "explain_en": "-ууштай plus зүйл биш means \"not something worth doing.\" Because зовох has back vowels, the ending takes the -ууштай form.",
+   "explain_mn": "\"-ууштай зүйл биш\" нь \"хийх шаардлагагүй, тийм хэмжээний зүйл биш\" гэсэн утгатай. Зовох нь эр үг тул -ууштай хэлбэр авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Ийм удаан хүлээлгэх нь хүлээн зөвшөөрө___ биш.",
+   "answer": "хүйц",
+   "options": [
+    "хүйц",
+    "өөд",
+    "сөн",
+    "ж"
+   ],
+   "translation": "Keeping people waiting this long is unacceptable.",
+   "explain_en": "зөвшөөрөхүйц means \"acceptable.\" Adding биш makes it \"unacceptable.\" The front vowels of the stem take the -хүйц form.",
+   "explain_mn": "\"Зөвшөөрөхүйц биш\" нь \"зөвшөөрч болохгүй\" гэсэн утгатай. Эм үг учраас -хүйц хэлбэр авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Одоо маргаад ___, асуудлаа шийдье.",
+   "answer": "нэмэргүй",
+   "options": [
+    "нэмэргүй",
+    "хэрэгтэй",
+    "болно",
+    "ёстой"
+   ],
+   "translation": "It's no use arguing now; let's solve the problem.",
+   "explain_en": "The pattern -аад нэмэргүй means \"it's no use doing something.\" It matches the English pattern \"it's no use + -ing.\"",
+   "explain_mn": "\"-аад нэмэргүй\" нь ямар нэг үйлдэл үр дүнгүй гэдгийг илэрхийлнэ. Бусад сонголт утгын хувьд таарахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "It's no use ___ about the weather.",
+   "answer": "complaining",
+   "options": [
+    "complaining",
+    "complain",
+    "to complain",
+    "complained"
+   ],
+   "translation": "Цаг агаарын талаар гомдоллоод нэмэргүй.",
+   "explain_en": "\"It's no use\" is always followed by the -ing form of the verb.",
+   "explain_mn": "\"It's no use\"-ийн дараа үйл үг үргэлж -ing хэлбэртэй ордог."
+  },
+  {
+   "lang": "en",
+   "text": "There's no point ___ the stove yourself; the repairman is coming.",
+   "answer": "fixing",
+   "options": [
+    "fixing",
+    "to fix",
+    "fix",
+    "fixed"
+   ],
+   "translation": "Зуухаа өөрөө засаад утгагүй, засварчин ирж байна.",
+   "explain_en": "After \"there's no point\" (or \"there's no point in\"), use the -ing form of the verb.",
+   "explain_mn": "\"There's no point\" эсвэл \"there's no point in\"-ий дараа -ing хэлбэр орно. \"To fix\" гэвэл алдаа болно."
+  },
+  {
+   "lang": "en",
+   "text": "There's no ___ waiting for the bus; it left an hour ago.",
+   "answer": "point",
+   "options": [
+    "point",
+    "matter",
+    "worth",
+    "help"
+   ],
+   "translation": "Автобус хүлээгээд утгагүй, тэр нэг цагийн өмнө явчихсан.",
+   "explain_en": "The fixed phrase is \"there's no point + -ing.\" The other words don't fit this pattern.",
+   "explain_mn": "Тогтсон хэллэг нь \"there's no point + -ing\" юм. Бусад үг энэ бүтцэд орохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Уучлаарай, манай гэрийн зуух шөнөжин эвдэрхий байсан, бид маш их даарлаа.",
+   "en": "Excuse me, the stove in our ger was broken all night, and we were freezing.",
+   "mn_latin": "Uuchlaarai, manai geriin zuukh shönöjin evderkhii baisan, bid mash ikh daarlaa."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Үнэхээр уучлаарай. Ийм зүйл хүлээн зөвшөөрөхүйц биш. Засварчин одоо очиж байна.",
+   "en": "I'm truly sorry. That's unacceptable. A repairman is on his way now.",
+   "mn_latin": "Ünekheer uuchlaarai. Iim züil khüleen zövshöörökhüits bish. Zasvarchin odoo ochij baina."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Бас өглөө халуун ус гараагүй, өглөөний цайгаа ч хагас цаг хүлээсэн.",
+   "en": "Also, there was no hot water this morning, and we waited half an hour for breakfast.",
+   "mn_latin": "Bas öglöö khaluun us garaagüi, öglöönii tsaigaa ch khagas tsag khüleesen."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Таныг хүлээлгэсэнд дахин уучлалт гуйя. Нар багатай байсан болохоор нарны халаагч хангалттай халаагүй юм.",
+   "en": "I apologize again for keeping you waiting. There wasn't much sun, so the solar heater didn't warm up enough.",
+   "mn_latin": "Tanyg khüleelgesend dakhin uuchlalt guiya. Nar bagatai baisan bolokhoor narny khalaagch khangalttai khalaagüi yum."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Одоо уурлаад нэмэргүй л дээ. Гэхдээ өнөө орой бүх юм хэвийн болох уу?",
+   "en": "Well, it's no use getting angry now. But will everything be back to normal tonight?",
+   "mn_latin": "Odoo uurlaad nemergüi l dee. Gekhdee önöö oroi bükh yum kheviin bolokh uu?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Тийм ээ, санаа зовууштай зүйл биш. Нөхөн олговор болгож бид танаас нэг шөнийн төлбөр авахгүй.",
+   "en": "Yes, it's nothing to worry about. As compensation, we won't charge you for one night.",
+   "mn_latin": "Tiim ee, sanaa zovuushtai züil bish. Nökhön olgovor bolgoj bid tanaas neg shöniin tölbör avakhgüi."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Баярлалаа, маш эелдэг хандлаа. Тэгвэл одоо засварчныг хүлээхээс өөр арга алга.",
+   "en": "Thank you, that's very kind. Well, there's nothing to do now but wait for the repairman.",
+   "mn_latin": "Bayarlalaa, mash eyeldeg khandlaa. Tegvel odoo zasvarchnyg khüleekhees öör arga alga."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Хүлээх хооронд рестораны гэрт халуун сүүтэй цай уугаад сууж болно шүү.",
+   "en": "While you wait, you're welcome to have some hot milk tea in the restaurant ger.",
+   "mn_latin": "Khüleekh khoorond ryestorany gert khaluun süütei tsai uugaad suuj bolno shüü."
+  }
+ ],
+ "culture_note": {
+  "en": "Many countryside ger camps run on solar panels, generators, and wood or dung stoves, so hot water and heating can be unreliable, especially in cloudy or cold weather. Mongolian hosts usually respond to a problem with a quick apology and practical action, and they often offer hot milk tea or a meal to make the guest feel cared for. Staying calm and polite, and using \"та\" with guests, goes a long way toward resolving a complaint.",
+  "mn": "Хөдөөгийн олон гэр бааз нарны зай, генератор, түлээ эсвэл аргалын зуухаар ажилладаг тул бүрхэг, хүйтэн үед халуун ус, халаалт тасалдах нь элбэг. Монгол эзэд бэрхшээл гарахад даруй уучлалт гуйж, бодит арга хэмжээ авдаг бөгөөд зочдод анхаарал халамж үзүүлж халуун сүүтэй цай, хоол санал болгох нь түгээмэл. Зочинтой тайван, эелдэг харьцаж, \"та\" гэж хүндэтгэн хандах нь гомдлыг шийдвэрлэхэд их тус болдог."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A solid, natural lesson. There is one ungrammatical alternative sentence and one awkwardly worded explanation. The rest is accurate."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The Mongolian and English are clean throughout. The only fix brings the grammar explanation in line with the pattern the examples and exercises use.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Covers -аад нэмэргүй/утгагүй, which the examples and fill-blank use and the mn version mentions."
+   }
+  ]
+ }
+}

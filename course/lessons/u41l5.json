@@ -1,0 +1,588 @@
+{
+ "intro_en": "You will learn how to support a friend who seems low, talk about counseling, rest and asking for help, and speculate tactfully about feelings and reasons. You will use -ж магадгүй and -сан бололтой in Mongolian, and must/might/may have + past participle in English.",
+ "intro_mn": "Та сэтгэл санаа нь унасан найздаа хэрхэн дэмжлэг үзүүлэх, сэтгэл зүйчийн зөвлөгөө, амралт, тусламж гуйх тухай ярихыг сурна. Мөн сэтгэл мэдрэмж, шалтгааныг болгоомжтой таамаглах монгол хэлний -ж магадгүй, -сан бололтой бүтэц, англи хэлний must/might/may have + өнгөрсөн цагийн үйлт нэр (past participle) бүтцийг сурна.",
+ "vocab": [
+  {
+   "mn": "сэтгэл санаа",
+   "en": "mood",
+   "pos": "noun",
+   "example_mn": "Чиний сэтгэл санаа сүүлийн үед муу байна.",
+   "example_en": "Your mood has been low lately.",
+   "mn_latin": "setgel sanaa"
+  },
+  {
+   "mn": "ганцаардал",
+   "en": "loneliness",
+   "pos": "noun",
+   "example_mn": "Ганцаардал заримдаа хүнд санагддаг.",
+   "example_en": "Loneliness can sometimes feel heavy.",
+   "mn_latin": "gantsaardal"
+  },
+  {
+   "mn": "сэтгэл зүйч",
+   "en": "counselor / psychologist",
+   "pos": "noun",
+   "example_mn": "Би долоо хоногт нэг удаа сэтгэл зүйчид очдог.",
+   "example_en": "I see a counselor once a week.",
+   "mn_latin": "setgel züich"
+  },
+  {
+   "mn": "дэмжлэг",
+   "en": "support",
+   "pos": "noun",
+   "example_mn": "Танд гэр бүлийн дэмжлэг хэрэгтэй байж магадгүй.",
+   "example_en": "You might need your family's support.",
+   "mn_latin": "demjleg"
+  },
+  {
+   "mn": "даван туулах",
+   "en": "to cope with / overcome",
+   "pos": "verb",
+   "example_mn": "Тэр хүнд цагийг даван туулсан.",
+   "example_en": "He got through a difficult time.",
+   "mn_latin": "davan tuulakh"
+  },
+  {
+   "mn": "тайвширах дасгал",
+   "en": "relaxation exercise",
+   "pos": "noun",
+   "example_mn": "Орой тайвширах дасгал хийх нь тусалдаг.",
+   "example_en": "Doing a relaxation exercise in the evening helps.",
+   "mn_latin": "taivshirakh dasgal"
+  },
+  {
+   "mn": "ачаа",
+   "en": "burden",
+   "pos": "noun",
+   "example_mn": "Би бусдад ачаа болохыг хүсэхгүй байна.",
+   "example_en": "I don't want to be a burden to others.",
+   "mn_latin": "achaa"
+  },
+  {
+   "mn": "тусламж гуйх",
+   "en": "to ask for help",
+   "pos": "verb phrase",
+   "example_mn": "Тусламж гуйх нь сул дорой хэрэг биш.",
+   "example_en": "Asking for help is not a sign of weakness.",
+   "mn_latin": "tuslamj guikh"
+  },
+  {
+   "mn": "амрах",
+   "en": "to rest",
+   "pos": "verb",
+   "example_mn": "Чи хэд хоног сайн амрах хэрэгтэй.",
+   "example_en": "You need to rest well for a few days.",
+   "mn_latin": "amrakh"
+  },
+  {
+   "mn": "сонсох",
+   "en": "to listen",
+   "pos": "verb",
+   "example_mn": "Би чамайг сонсоход бэлэн байна.",
+   "example_en": "I'm ready to listen to you.",
+   "mn_latin": "sonsokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Чи сүүлийн үед ядраад байгаа бололтой.",
+   "en": "You seem to have been tired lately.",
+   "alt_mn": [
+    "Чи сүүлийн үед ядарсан бололтой."
+   ],
+   "alt_en": [
+    "You look like you've been tired lately."
+   ],
+   "mn_latin": "Chi süüliin üyed yadraad baigaa bololtoi."
+  },
+  {
+   "mn": "Тэр ганцаардаж байгаа байж магадгүй.",
+   "en": "He might be feeling lonely.",
+   "alt_mn": [
+    "Тэр ганцаардаж байж магадгүй."
+   ],
+   "alt_en": [
+    "Maybe he is feeling lonely."
+   ],
+   "mn_latin": "Ter gantsaardaj baigaa baij magadgüi."
+  },
+  {
+   "mn": "Чи ажлын дарамтад дарагдсан байж магадгүй.",
+   "en": "You might have been overwhelmed by work pressure.",
+   "alt_mn": [],
+   "alt_en": [
+    "You may have been weighed down by work pressure."
+   ],
+   "mn_latin": "Chi ajlyn daramtad daragdsan baij magadgüi."
+  },
+  {
+   "mn": "Сэтгэл зүйчтэй уулзвал танд хэрэг болж магадгүй.",
+   "en": "Seeing a counselor might be helpful for you.",
+   "alt_mn": [],
+   "alt_en": [
+    "It might help you to see a counselor."
+   ],
+   "mn_latin": "Setgel züichtei uulzval tand khereg bolj magadgüi."
+  },
+  {
+   "mn": "Чи надад ачаа биш, би чамд тусалмаар байна.",
+   "en": "You're not a burden to me; I want to help you.",
+   "alt_mn": [],
+   "alt_en": [
+    "You aren't a burden to me. I'd like to help you."
+   ],
+   "mn_latin": "Chi nadad achaa bish, bi chamd tusalmaar baina."
+  },
+  {
+   "mn": "Саяхан юм болсон бололтой, чи нэг л өөр байна.",
+   "en": "Something seems to have happened recently; you seem different.",
+   "alt_mn": [],
+   "alt_en": [
+    "It looks like something happened recently; you seem a bit off."
+   ],
+   "mn_latin": "Sayakhan yum bolson bololtoi, chi neg l öör baina."
+  },
+  {
+   "mn": "Тэр шалгалтын улмаас нойргүйдсэн байж магадгүй.",
+   "en": "He may have lost sleep because of the exam.",
+   "alt_mn": [],
+   "alt_en": [
+    "He might have been unable to sleep because of the exam."
+   ],
+   "mn_latin": "Ter shalgaltyn ulmaas noirgüidsen baij magadgüi."
+  },
+  {
+   "mn": "Чи надад хэлэх эсэхээ эргэлзсэн бололтой.",
+   "en": "You seem to have hesitated to tell me.",
+   "alt_mn": [],
+   "alt_en": [
+    "It seems you were hesitant to tell me."
+   ],
+   "mn_latin": "Chi nadad khelekh esekhee ergelzsen bololtoi."
+  },
+  {
+   "mn": "Хэрэв хүсвэл би чамайг сонсъё.",
+   "en": "If you like, I'll listen to you.",
+   "alt_mn": [
+    "Хүсвэл би чамайг сонсож болно."
+   ],
+   "alt_en": [
+    "If you want, I can listen."
+   ],
+   "mn_latin": "Kherev khüsvel bi chamaig sonsyo."
+  },
+  {
+   "mn": "Тайвширах дасгал хийвэл сэтгэл санаа тогтвортой болж магадгүй.",
+   "en": "Doing relaxation exercises might make your mood more stable.",
+   "alt_mn": [],
+   "alt_en": [
+    "Relaxation exercises may steady your mood."
+   ],
+   "mn_latin": "Taivshirakh dasgal khiivel setgel sanaa togtvortoi bolj magadgüi."
+  },
+  {
+   "mn": "Тэр хэтэрхий удаан ганцаараа байсан байх.",
+   "en": "He must have been alone for too long.",
+   "alt_mn": [
+    "Тэр хэтэрхий удаан ганцаараа байсан бололтой."
+   ],
+   "alt_en": [
+    "He probably spent too long on his own."
+   ],
+   "mn_latin": "Ter kheterkhii udaan gantsaaraa baisan baikh."
+  },
+  {
+   "mn": "Тусламж гуйхад хэзээ ч оройтохгүй.",
+   "en": "It's never too late to ask for help.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's never too late to reach out for help."
+   ],
+   "mn_latin": "Tuslamj guikhad khezee ch oroitokhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Tactful guesses: -ж магадгүй and -сан бололтой",
+  "title_mn": "Болгоомжтой таамаглал: -ж магадгүй ба -сан бололтой",
+  "explain_en": "To guess gently about feelings, Mongolian avoids saying 'You are sad.' Use a verb + -ж магадгүй ('might, perhaps'): ядарч байж магадгүй = 'might be tired'; past: ядарсан байж магадгүй = 'might have been tired'. Use verb + -сан/-сэн/-сон/-сөн + бололтой for 'it seems that (something happened)': ядарсан бололтой = 'seems to have gotten tired'. Бололтой is a conclusion based on what you can see; магадгүй is a softer possibility. Both sound caring, not accusing. In English, might/may have + past participle is a weak guess, and must have + past participle is a strong conclusion. Examples: You might have been feeling overwhelmed. = Чи дарамтад автсан байж магадгүй. You must have been exhausted. = Чи маш их ядарсан байх.",
+  "explain_mn": "Монгол хэлэнд мэдрэмжийн талаар шууд \"Чи гунигтай байна\" гэхээсээ зөөлөн таамаглана. Үйл үг + -ж магадгүй (might, perhaps): ядарч байж магадгүй = might be tired; өнгөрсөн: ядарсан байж магадгүй = might have been tired. Үйл үг + -сан/-сэн/-сон/-сөн + бололтой нь харагдаж буй шинжээс гарсан дүгнэлт: ядарсан бололтой = seems to have gotten tired. Магадгүй нь илүү зөөлөн боломжийг илэрхийлнэ. Хоёулаа буруутгасан биш, халамжтай сонсогдоно. Англи хэлэнд might/may have + V3 сул таамаглал, must have + V3 хүчтэй дүгнэлт. Жишээ: You might have been feeling overwhelmed. = Чи дарамтад автсан байж магадгүй. You must have been exhausted. = Чи маш их ядарсан байх.",
+  "examples": [
+   {
+    "mn": "Чи их ачаалалтай байсан байж магадгүй.",
+    "en": "You might have been under a lot of pressure.",
+    "mn_latin": "Chi ikh achaalaltai baisan baij magadgüi."
+   },
+   {
+    "mn": "Тэр сэтгэлээр унасан бололтой.",
+    "en": "He seems to be feeling down.",
+    "mn_latin": "Ter setgeleer unasan bololtoi."
+   },
+   {
+    "mn": "Чи сайн унтаагүй байж магадгүй.",
+    "en": "You may not have slept well.",
+    "mn_latin": "Chi sain untaagüi baij magadgüi."
+   },
+   {
+    "mn": "Тэр маш их ганцаардсан байх.",
+    "en": "She must have felt very lonely.",
+    "mn_latin": "Ter mash ikh gantsaardsan baikh."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Чи сүүлийн үед их ядарсан ___.",
+   "answer": "бололтой",
+   "options": [
+    "бололтой",
+    "магадгүй",
+    "болохоор",
+    "тул"
+   ],
+   "translation": "You seem to have been very tired lately.",
+   "explain_en": "'Ядарсан бололтой' means 'seems to have become tired' and is based on what you observe.",
+   "explain_mn": "-сан + бололтой нь харагдаж буй шинжээс хийсэн зөөлөн дүгнэлтийг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр дарамтад орсон байж ___.",
+   "answer": "магадгүй",
+   "options": [
+    "магадгүй",
+    "бололтой",
+    "байсан",
+    "гэсэн"
+   ],
+   "translation": "He might have been under pressure.",
+   "explain_en": "'байж магадгүй' is the fixed pattern for 'might'; here it follows the past form 'орсон'.",
+   "explain_mn": "'байж магадгүй' нь 'might' гэсэн тогтвортой хэлбэр бөгөөд 'орсон' гэсэн өнгөрсөн хэлбэрийн дараа ордог."
+  },
+  {
+   "lang": "mn",
+   "text": "Сэтгэл зүйчтэй уулзвал тус болж ___.",
+   "answer": "магадгүй",
+   "options": [
+    "магадгүй",
+    "бололтой",
+    "байна",
+    "билээ"
+   ],
+   "translation": "Seeing a counselor might help.",
+   "explain_en": "A future possibility uses the verb stem + ж + магадгүй.",
+   "explain_mn": "Ирээдүйн боломжийг үйлийн үгийн үндэс + ж магадгүй гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "You ___ been feeling overwhelmed. Do you want to talk?",
+   "answer": "might have",
+   "options": [
+    "might have",
+    "might",
+    "must to",
+    "may be"
+   ],
+   "translation": "Чи дарамтад автсан мэт мэдэрч байсан байж магадгүй. Ярилцмаар байна уу?",
+   "explain_en": "Past speculation = modal + have + past participle: might have been.",
+   "explain_mn": "Өнгөрсөн таамаглал нь modal + have + V3 бүтэцтэй: might have been."
+  },
+  {
+   "lang": "en",
+   "text": "She must have ___ very lonely after moving to the city.",
+   "answer": "felt",
+   "options": [
+    "felt",
+    "feel",
+    "feeling",
+    "to feel"
+   ],
+   "translation": "Хот руу нүүснийхээ дараа тэр маш их ганцаардсан байх.",
+   "explain_en": "After 'must have' use the past participle: felt.",
+   "explain_mn": "'must have'-ийн дараа үйлийн үгийн гуравдахь хэлбэр (past participle) орно: felt."
+  },
+  {
+   "lang": "en",
+   "text": "He may not have ___ to burden anyone, so he stayed quiet.",
+   "answer": "wanted",
+   "options": [
+    "wanted",
+    "want",
+    "wanting",
+    "to want"
+   ],
+   "translation": "Тэр хэнд ч ачаа болохыг хүсээгүй байж магадгүй, тиймээс чимээгүй байсан.",
+   "explain_en": "Negative: may + not + have + past participle (may not have wanted).",
+   "explain_mn": "Үгүйсгэл нь may + not + have + V3 хэлбэртэй: may not have wanted."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Болд, чи сүүлийн үед чимээгүй байна. Бүх зүйл зүгээр үү?",
+   "en": "Bold, you've been quiet lately. Is everything okay?",
+   "mn_latin": "Bold, chi süüliin üyed chimeegüi baina. Bükh züil zügeer üü?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Үнэнийг хэлэхэд, нэг л ядарч, ганцаардаад байна.",
+   "en": "To be honest, I feel tired and a bit lonely.",
+   "mn_latin": "Üneniig khelekhed, neg l yadarch, gantsaardaad baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Ажлын ачаалал ихэссэн байж магадгүй. Чи сайн амраагүй бололтой.",
+   "en": "Your workload might have increased. You seem not to have rested well.",
+   "mn_latin": "Ajlyn achaalal ikhessen baij magadgüi. Chi sain amraagüi bololtoi."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тийм ээ. Гэхдээ би найзууддаа ачаа болмооргүй байна.",
+   "en": "Yes. But I don't want to be a burden to my friends.",
+   "mn_latin": "Tiim ee. Gekhdee bi naizuuddaa achaa bolmoorgüi baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Чи ачаа биш. Би чамайг баяртайгаар сонсъё. Сэтгэл зүйчтэй уулзах нь ч тус болж магадгүй.",
+   "en": "You're not a burden. I'm glad to listen. Seeing a counselor might also help.",
+   "mn_latin": "Chi achaa bish. Bi chamaig bayartaigaar sonsyo. Setgel züichtei uulzakh ni ch tus bolj magadgüi."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Би тэгж бодоогүй байсан. Тусламж гуйх нь амар биш юм.",
+   "en": "I hadn't thought of that. Asking for help isn't easy.",
+   "mn_latin": "Bi tegj bodoogüi baisan. Tuslamj guikh ni amar bish yum."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Мэдэж байна. Хамт нэг сэтгэл зүйч хайж үзье, за юу?",
+   "en": "I know. Let's look for a counselor together, okay?",
+   "mn_latin": "Medej baina. Khamt neg setgel züich khaij üziye, za yuu?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "За, баярлалаа. Надад үнэхээр дэмжлэг хэрэгтэй байсан.",
+   "en": "Okay, thank you. I really needed support.",
+   "mn_latin": "Za, bayarlalaa. Nadad ünekheer demjleg kheregtei baisan."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, talking openly about mental health has long been sensitive, and people often say they are just tired or stressed instead. In recent years in Ulaanbaatar, more young people use counseling services and helplines, and friends often show care through shared meals or tea. Gentle, indirect wording like 'maybe' and 'it seems' helps keep the conversation respectful.",
+  "mn": "Монголд сэтгэцийн эрүүл мэндийн талаар ил ярих нь удаан хугацаанд эмзэг сэдэв байсан бөгөөд хүмүүс ихэвчлэн зүгээр л ядарсан, стресстэй гэж хэлдэг. Сүүлийн жилүүдэд Улаанбаатарт залуучууд сэтгэл зүйн зөвлөгөө, тусламжийн утасны үйлчилгээг илүү ашиглах болсон бөгөөд найз нөхөд хамт хоол идэж, цай ууж халамжаа илэрхийлдэг. 'Магадгүй', 'бололтой' гэх мэт зөөлөн, шууд бус хэллэг яриаг хүндэтгэлтэй байлгадаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 26,
+  "notes": "Mostly good content, but a Latin-letter typo, a wrong-tense sentence, a mismatched grammar title and Mongolian explanation, and an ungrammatical English alternative needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 34,
+  "notes": "Fixed spelling (ганцаардал, оройтох), unnatural forms (бололтой байна), wrong alternatives, may-not-have word order, and American spelling, and aligned the en/mn grammar explanations.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "American spelling"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Language names in lowercase; correct term for past participle; consistent wording"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "Misspelling"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "'хүнд сүртэй' means pompous, not heavy"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_en",
+    "why": "American spelling"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "Correct case: сонсоход бэлэн"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "'бололтой байна' is redundant and unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "Alternative duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "бололтой = 'seems', not 'might have'"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_en",
+    "why": "American spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "'хэлэхээс эргэлзэх' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "Misspelling: оройтох"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_en",
+    "why": "Alternative duplicated the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Make en match mn (English modals section)"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Unnatural example; added missing points so en and mn match"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "en",
+    "why": "'become down' is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "'бололтой байна' is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'байлаа' became a valid answer in the new text"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "American spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "Case form: дарамтад"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "'маш их' needed with this verb"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "text",
+    "why": "Standard order is may not have + past participle"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "answer",
+    "why": "Matches the corrected text"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "Matches the corrected text"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_en",
+    "why": "Correct word order"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Correct word order"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'сонсохдоо баяртай' is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "Match 'really'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Helpline is тусламжийн утас, not лавлах; smoother phrasing"
+   }
+  ]
+ }
+}

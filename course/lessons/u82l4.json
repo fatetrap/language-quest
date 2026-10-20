@@ -1,0 +1,415 @@
+{
+ "intro_en": "In this lesson, coworkers check on each other's new routines and fitness plans. You'll learn to say what has already happened and what hasn't happened yet with аль хэдийн, хараахан ... -аагүй байна, одоо болтол, сүүлийн үед, and дөнгөж.",
+ "intro_mn": "Энэ хичээлээр хамт ажиллагсад бие биенийхээ шинэ хэвшил, дасгалын төлөвлөгөөний ахицыг асууна. Англи хэлний already, yet, still гэсэн үгсийг батлах, асуух, үгүйсгэх өгүүлбэрт хэрхэн ялгаж хэрэглэхийг сурна.",
+ "vocab": [
+  {
+   "mn": "аль хэдийн",
+   "en": "already",
+   "pos": "adverb",
+   "example_mn": "Би аль хэдийн өглөөний цайгаа уучихсан.",
+   "example_en": "I've already had breakfast.",
+   "mn_latin": "ali khediin"
+  },
+  {
+   "mn": "хараахан",
+   "en": "(not) yet",
+   "pos": "adverb",
+   "example_mn": "Тэр хараахан ирээгүй байна.",
+   "example_en": "He hasn't arrived yet.",
+   "mn_latin": "kharaakhan"
+  },
+  {
+   "mn": "одоохондоо",
+   "en": "so far, for now",
+   "pos": "adverb",
+   "example_mn": "Одоохондоо бүх зүйл сайн байна.",
+   "example_en": "So far, everything is fine.",
+   "mn_latin": "odookhondoo"
+  },
+  {
+   "mn": "сүүлийн үед",
+   "en": "lately, recently",
+   "pos": "adverb phrase",
+   "example_mn": "Сүүлийн үед би эрт босдог болсон.",
+   "example_en": "Lately I've started getting up early.",
+   "mn_latin": "süüliin üyed"
+  },
+  {
+   "mn": "дөнгөж",
+   "en": "just (a moment ago)",
+   "pos": "adverb",
+   "example_mn": "Би дөнгөж дасгалаа дуусгалаа.",
+   "example_en": "I just finished my workout.",
+   "mn_latin": "döngöj"
+  },
+  {
+   "mn": "одоо болтол",
+   "en": "still, until now",
+   "pos": "adverb phrase",
+   "example_mn": "Одоо болтол хариу ирээгүй байна.",
+   "example_en": "There's still no reply.",
+   "mn_latin": "odoo boltol"
+  },
+  {
+   "mn": "ахиц",
+   "en": "progress",
+   "pos": "noun",
+   "example_mn": "Энэ сард сайн ахиц гарлаа.",
+   "example_en": "There was good progress this month.",
+   "mn_latin": "akhits"
+  },
+  {
+   "mn": "хэвшил",
+   "en": "routine, habit",
+   "pos": "noun",
+   "example_mn": "Шинэ хэвшилд дасахад цаг хугацаа хэрэгтэй.",
+   "example_en": "It takes time to get used to a new routine.",
+   "mn_latin": "khevshil"
+  },
+  {
+   "mn": "дасгалын төлөвлөгөө",
+   "en": "workout plan, fitness plan",
+   "pos": "noun phrase",
+   "example_mn": "Би дасгалын төлөвлөгөөгөө өөрчилсөн.",
+   "example_en": "I changed my workout plan.",
+   "mn_latin": "dasgalyn tölövlögöö"
+  },
+  {
+   "mn": "эхлэх",
+   "en": "to start, to begin",
+   "pos": "verb",
+   "example_mn": "Та гүйж эхэлсэн үү?",
+   "example_en": "Have you started running?",
+   "mn_latin": "ekhlekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та шинэ хэвшлээ аль хэдийн эхэлсэн үү?",
+   "en": "Have you already started your new routine?",
+   "alt_mn": [
+    "Та шинэ хэвшлээ эхлүүлчихсэн үү?"
+   ],
+   "alt_en": [
+    "Did you already start your new routine?"
+   ],
+   "mn_latin": "Ta shine khevshlee ali khediin ekhelsen üü?"
+  },
+  {
+   "mn": "Би хараахан эхлээгүй байна.",
+   "en": "I haven't started yet.",
+   "alt_mn": [
+    "Би одоохондоо эхлээгүй байна."
+   ],
+   "alt_en": [
+    "I haven't started it yet.",
+    "I didn't start yet."
+   ],
+   "mn_latin": "Bi kharaakhan ekhleegüi baina."
+  },
+  {
+   "mn": "Тэр одоо болтол өглөө эрт босож чадахгүй байна.",
+   "en": "She still can't get up early in the morning.",
+   "alt_mn": [
+    "Тэр одоо ч гэсэн өглөө эрт босож чадахгүй байна."
+   ],
+   "alt_en": [
+    "He still can't get up early in the morning.",
+    "She still isn't able to get up early in the morning."
+   ],
+   "mn_latin": "Ter odoo boltol öglöö ert bosoj chadakhgüi baina."
+  },
+  {
+   "mn": "Бат аль хэдийн гурван кг жин хассан.",
+   "en": "Bat has already lost three kilograms.",
+   "alt_mn": [
+    "Бат аль хэдийн гурван кило турчихсан."
+   ],
+   "alt_en": [
+    "Bat already lost three kilograms.",
+    "Bat has already lost three kilos."
+   ],
+   "mn_latin": "Bat ali khediin gurvan kg jin khassan."
+  },
+  {
+   "mn": "Сүүлийн үед би ажил руугаа алхаж явдаг болсон.",
+   "en": "Lately I've started walking to work.",
+   "alt_mn": [
+    "Сүүлийн үед би ажилдаа алхаж явдаг болсон."
+   ],
+   "alt_en": [
+    "Recently I've started walking to work.",
+    "I've been walking to work lately."
+   ],
+   "mn_latin": "Süüliin üyed bi ajil ruugaa alkhaj yavdag bolson."
+  },
+  {
+   "mn": "Би дөнгөж сая фитнессээс ирлээ.",
+   "en": "I just got back from the gym.",
+   "alt_mn": [
+    "Би дөнгөж фитнессээс ирлээ."
+   ],
+   "alt_en": [
+    "I've just come back from the gym."
+   ],
+   "mn_latin": "Bi döngöj saya fitnyessees irlee."
+  },
+  {
+   "mn": "Одоохондоо миний төлөвлөгөө сайн явж байна.",
+   "en": "So far, my plan is going well.",
+   "alt_mn": [
+    "Одоохондоо төлөвлөгөө маань сайн явж байна."
+   ],
+   "alt_en": [
+    "My plan is going well so far.",
+    "So far my plan has been going well."
+   ],
+   "mn_latin": "Odookhondoo minii tölövlögöö sain yavj baina."
+  },
+  {
+   "mn": "Та хараахан бүртгүүлээгүй юү?",
+   "en": "Haven't you signed up yet?",
+   "alt_mn": [
+    "Та одоо болтол бүртгүүлээгүй юү?"
+   ],
+   "alt_en": [
+    "You haven't signed up yet?",
+    "Didn't you sign up yet?"
+   ],
+   "mn_latin": "Ta kharaakhan bürtgüüleegüi yuü?"
+  },
+  {
+   "mn": "Миний фитнессийн гишүүнчлэлийн хугацаа аль хэдийн дууссан.",
+   "en": "My gym membership has already expired.",
+   "alt_mn": [
+    "Фитнессийн гишүүнчлэлийн хугацаа маань аль хэдийн дуусчихсан."
+   ],
+   "alt_en": [
+    "My gym membership already expired."
+   ],
+   "mn_latin": "Minii fitnyessiin gishüünchleliin khugatsaa ali khediin duussan."
+  },
+  {
+   "mn": "Бид одоо болтол шинэ дасгалжуулагчтай уулзаагүй байна.",
+   "en": "We still haven't met the new trainer.",
+   "alt_mn": [
+    "Бид шинэ дасгалжуулагчтай хараахан уулзаагүй байна."
+   ],
+   "alt_en": [
+    "We haven't met the new trainer yet.",
+    "We still haven't met the new coach."
+   ],
+   "mn_latin": "Bid odoo boltol shine dasgaljuulagchtai uulzaagüi baina."
+  },
+  {
+   "mn": "Хоёр долоо хоног өнгөрсөн ч би хараахан ахиц мэдрээгүй байна.",
+   "en": "Two weeks have passed, but I haven't felt any progress yet.",
+   "alt_mn": [
+    "Хоёр долоо хоног өнгөрсөн ч би одоо болтол ахиц мэдрээгүй байна."
+   ],
+   "alt_en": [
+    "It's been two weeks, but I haven't noticed any progress yet.",
+    "Two weeks have gone by, but I still haven't felt any progress."
+   ],
+   "mn_latin": "Khoyor doloo khonog öngörsön ch bi kharaakhan akhits medreegüi baina."
+  },
+  {
+   "mn": "Та одоо ч гэсэн орой бүр чихэр иддэг үү?",
+   "en": "Do you still eat sweets every evening?",
+   "alt_mn": [
+    "Та одоо болтол орой бүр чихэр иддэг үү?"
+   ],
+   "alt_en": [
+    "Are you still eating sweets every evening?",
+    "Do you still eat candy every night?"
+   ],
+   "mn_latin": "Ta odoo ch gesen oroi bür chikher iddeg üü?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Already, not yet, still: аль хэдийн, хараахан ... -аагүй байна, одоо болтол",
+  "title_mn": "Already, yet, still гэсэн үгсийн ялгаа",
+  "explain_en": "Mongolian marks progress with a time word plus a verb form. 1) аль хэдийн + past (-сан/-сэн, -лаа/-лээ, -чихсан) means 'already': Би аль хэдийн эхэлсэн. 2) хараахан + -аагүй байна means 'not yet'. The -аагүй ending (vowel harmony gives -аагүй/-ээгүй/-оогүй/-өөгүй) is the negative past, and байна makes it 'up to now'. It also signals that you still expect the action to happen: Би хараахан эхлээгүй байна. 3) For 'still', use одоо болтол or одоо ч гэсэн. With a negative it means 'still not' (одоо болтол уулзаагүй байна). With an ongoing action it means 'still doing' (одоо ч гэсэн иддэг). 4) дөнгөж (сая) + past means 'just': Би дөнгөж ирлээ. Questions take үү/уу after the past form, or юү after -гүй: Та эхэлсэн үү? Та хараахан эхлээгүй юү?",
+  "explain_mn": "Англи хэлэнд ахицыг already, yet, still гэсэн гурван үгээр илэрхийлдэг. ALREADY нь 'аль хэдийн' гэсэн утгатай. Голдуу батлах өгүүлбэрт үйл үгийн өмнө орно: I have already started. Асуултад хэрэглэвэл гайхсан өнгө аястай болно: Have you already finished? YET нь 'хараахан' гэсэн утгатай. Зөвхөн үгүйсгэх болон асуух өгүүлбэрт, өгүүлбэрийн төгсгөлд орно: I haven't started yet. Have you started yet? STILL нь 'одоо болтол, одоо ч гэсэн' гэсэн утгатай. Үйлдэл үргэлжилж байгааг заана: She still eats sweets. Үгүйсгэх өгүүлбэрт туслах үйл үгийн өмнө орж, бухимдсан утга илэрхийлнэ: We still haven't met him. Энд 'haven't ... yet' нь энгийн мэдээлэл бол 'still haven't' нь 'удаад байна шүү дээ' гэсэн өнгө аястай.",
+  "examples": [
+   {
+    "mn": "Би аль хэдийн гурван удаа гүйсэн.",
+    "en": "I've already gone running three times.",
+    "mn_latin": "Bi ali khediin gurvan udaa güisen."
+   },
+   {
+    "mn": "Тэр хараахан бүртгүүлээгүй байна.",
+    "en": "He hasn't signed up yet.",
+    "mn_latin": "Ter kharaakhan bürtgüüleegüi baina."
+   },
+   {
+    "mn": "Бид одоо болтол хариу аваагүй байна.",
+    "en": "We still haven't gotten an answer.",
+    "mn_latin": "Bid odoo boltol khariu avaagüi baina."
+   },
+   {
+    "mn": "Та хараахан эхлээгүй юү?",
+    "en": "Haven't you started yet?",
+    "mn_latin": "Ta kharaakhan ekhleegüi yuü?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би ___ эхлээгүй байна.",
+   "answer": "хараахан",
+   "options": [
+    "хараахан",
+    "аль хэдийн",
+    "дөнгөж",
+    "сүүлийн үед"
+   ],
+   "translation": "I haven't started yet.",
+   "explain_en": "The verb is negative (-ээгүй байна), so you need хараахан, 'not yet'. Аль хэдийн and дөнгөж go with completed, positive actions.",
+   "explain_mn": "'Хараахан' нь '-аагүй байна' гэсэн үгүйсгэх хэлбэртэй хамт орж, англиар 'not ... yet' гэсэн утгатай болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр аль хэдийн хоёр кг жин хас___.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "аагүй",
+    "даг",
+    "ахгүй"
+   ],
+   "translation": "She has already lost two kilograms.",
+   "explain_en": "Аль хэдийн ('already') needs a completed past form, so the answer is хассан. A negative like хасаагүй would contradict 'already'.",
+   "explain_mn": "'Аль хэдийн' нь 'already' гэсэн утгатай тул өнгөрсөн цагийн батлах хэлбэр (-сан) шаардана: She has already lost..."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид хараахан дасгалжуулагчтайгаа уулз___ байна.",
+   "answer": "аагүй",
+   "options": [
+    "аагүй",
+    "сан",
+    "ах",
+    "даг"
+   ],
+   "translation": "We haven't met our trainer yet.",
+   "explain_en": "Хараахан pairs with -аагүй байна. Уулзах has back vowels, so the ending is -аагүй: уулзаагүй байна.",
+   "explain_mn": "'Хараахан ... -аагүй байна' нь англиар 'haven't ... yet' гэж орчуулагдана."
+  },
+  {
+   "lang": "en",
+   "text": "I haven't finished the report ___.",
+   "answer": "yet",
+   "options": [
+    "yet",
+    "already",
+    "still",
+    "just"
+   ],
+   "translation": "Би тайлангаа хараахан дуусгаагүй байна.",
+   "explain_en": "In a negative sentence, 'yet' goes at the end to mean 'up to now'. 'Already' and 'just' are for completed actions.",
+   "explain_mn": "Үгүйсгэх өгүүлбэрийн төгсгөлд 'yet' орж 'хараахан' гэсэн утгатай болно. 'Still' бол туслах үйл үгийн өмнө орно: I still haven't finished."
+  },
+  {
+   "lang": "en",
+   "text": "She has ___ run five kilometers today.",
+   "answer": "already",
+   "options": [
+    "already",
+    "yet",
+    "still",
+    "ever"
+   ],
+   "translation": "Тэр өнөөдөр аль хэдийн таван км гүйсэн.",
+   "explain_en": "In a positive sentence about a completed action, 'already' goes between 'has' and the past participle. 'Yet' is only for negatives and questions.",
+   "explain_mn": "Батлах өгүүлбэрт 'already' нь has болон үндсэн үйл үгийн хооронд орж 'аль хэдийн' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "He ___ hasn't called me back.",
+   "answer": "still",
+   "options": [
+    "still",
+    "yet",
+    "already",
+    "ever"
+   ],
+   "translation": "Тэр одоо болтол над руу эргэж залгаагүй байна.",
+   "explain_en": "'Still' comes before a negative auxiliary (still hasn't) and shows the wait is long or annoying. 'Yet' would have to go at the end of the sentence.",
+   "explain_mn": "'Still' нь hasn't-ийн өмнө орж 'одоо болтол ... -аагүй' гэсэн, хүлээлт удсаныг илэрхийлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Майкл, таны шинэ дасгалын төлөвлөгөө яаж байна?",
+   "en": "Michael, how's your new workout plan going?",
+   "mn_latin": "Maikl, tany shine dasgalyn tölövlögöö yaaj baina?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Одоохондоо сайн байна. Би аль хэдийн долоо хоногт гурван удаа гүйж эхэлсэн.",
+   "en": "So far, so good. I've already started running three times a week.",
+   "mn_latin": "Odookhondoo sain baina. Bi ali khediin doloo khonogt gurvan udaa güij ekhelsen."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Гоё шүү! Өглөө эрт босдог болсон уу?",
+   "en": "That's great! Have you started getting up early?",
+   "mn_latin": "Goyo shüü! Öglöö ert bosdog bolson uu?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Хараахан болоогүй ээ. Одоо ч гэсэн долоон цагт л босож байна. Харин та сүүлийн үед хоолоо өөрчилсөн гэж сонслоо.",
+   "en": "Not yet. I still get up at seven. But I heard you've changed your diet lately.",
+   "mn_latin": "Kharaakhan boloogüi ee. Odoo ch gesen doloon tsagt l bosoj baina. Kharin ta süüliin üyed khooloo öörchilsön gej sonsloo."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм ээ. Би дөнгөж сая өдрийн хоолондоо салат идлээ. Гэхдээ чихрээ хараахан хаяж чадаагүй байна.",
+   "en": "Yes. I just had a salad for lunch. But I haven't managed to give up sweets yet.",
+   "mn_latin": "Tiim ee. Bi döngöj saya ödriin khoolondoo salat idlee. Gekhdee chikhree kharaakhan khayaj chadaagüi baina."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Яах вэ, аажмаар болно. Дараагийн даваа гаригт хамтдаа ахицаа шалгах уу?",
+   "en": "That's okay, it takes time. Shall we check our progress together next Monday?",
+   "mn_latin": "Yaakh ve, aajmaar bolno. Daraagiin davaa garigt khamtdaa akhitsaa shalgakh uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Болно. Тэр болтол би бас дор хаяж нэг удаа гүйж үзье.",
+   "en": "Sure. By then, I'll try going for a run at least once, too.",
+   "mn_latin": "Bolno. Ter boltol bi bas dor khayaj neg udaa güij üziye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar offices, coworkers often take part in group fitness challenges, step-count competitions, or company sports days before Naadam, so asking about each other's progress is normal small talk. When Mongolians haven't done something yet, they often soften it with \"Хараахан болоогүй ээ\" (\"Not yet\"). The ээ at the end makes the answer sound friendly, and хараахан shows they still plan to do it.",
+  "mn": "Улаанбаатарын ажлын байранд хамт олноороо фитнессийн сорилт, алхалтын тэмцээн зохиох, Наадмын өмнө спортын өдөр хийх нь түгээмэл. Тиймээс бие биенийхээ ахицыг асуух нь энгийн яриа болдог. Англиар ярихдаа хийж амжаагүй зүйлээ \"Not yet\" эсвэл \"I haven't ... yet\" гэж хэлбэл эелдэг сонсогдоно. Харин \"I still haven't...\" гэвэл удаад бухимдаж байгаа өнгө аяс гарна."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Accurate, natural lesson in both languages. The only real error was the question-particle rule in the English grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson was already in good shape. The only fixes are an inaccurate claim about the particle ээ and a small en/mn mismatch in the culture note.",
+  "changes": [
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "The expectation comes from хараахан, not from the particle ээ."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Adds the group fitness challenges so it matches the en version. Also moves харин to a more natural position."
+   }
+  ]
+ }
+}

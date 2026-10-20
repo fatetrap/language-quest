@@ -1,0 +1,442 @@
+{
+ "intro_en": "Learn to talk through a conflict between apartment neighbors: noise, a leaking ceiling, complaints, and claims for damage. You will weigh circumstances in Mongolian with \"-ыг бодвол\" (\"considering...\") and concede a point in English with \"granted\" and \"admittedly.\"",
+ "intro_mn": "Орон сууцны хөршүүдийн хоорондох чимээ шуугиан, гоожиж буй тааз, гомдол, хохирлын нэхэмжлэлтэй холбоотой маргааныг ярилцаж сурна. Монгол хэлэнд нөхцөл байдлыг харгалзахдаа \"-ыг бодвол\" хэлбэрийг, англи хэлэнд эсрэг талын санааг хүлээн зөвшөөрөхдөө \"granted\", \"admittedly\" гэсэн үгсийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "маргаан",
+   "en": "dispute, argument",
+   "pos": "noun",
+   "example_mn": "Хөршүүдийн маргаан хэдэн сар үргэлжилсэн.",
+   "example_en": "The neighbors' dispute went on for several months.",
+   "mn_latin": "margaan"
+  },
+  {
+   "mn": "гомдол",
+   "en": "complaint",
+   "pos": "noun",
+   "example_mn": "Би сууц өмчлөгчдийн холбоонд албан ёсоор гомдол гаргасан.",
+   "example_en": "I filed a formal complaint with the homeowners' association.",
+   "mn_latin": "gomdol"
+  },
+  {
+   "mn": "зөрчил",
+   "en": "violation; conflict",
+   "pos": "noun",
+   "example_mn": "Шөнө чанга хөгжим тавих нь байрны журмын зөрчил юм.",
+   "example_en": "Playing loud music at night is a violation of the building rules.",
+   "mn_latin": "zörchil"
+  },
+  {
+   "mn": "нэхэмжлэл",
+   "en": "claim, lawsuit",
+   "pos": "noun",
+   "example_mn": "Тэд шүүхэд нэхэмжлэл гаргахаар шийдсэн.",
+   "example_en": "They decided to file a lawsuit in court.",
+   "mn_latin": "nekhemjlel"
+  },
+  {
+   "mn": "хохирол",
+   "en": "damage, loss",
+   "pos": "noun",
+   "example_mn": "Ус гоожсоноос болж гал тогоонд их хохирол учирсан.",
+   "example_en": "The leak caused serious damage in the kitchen.",
+   "mn_latin": "khokhirol"
+  },
+  {
+   "mn": "гоожих",
+   "en": "to leak",
+   "pos": "verb",
+   "example_mn": "Дээд давхраас ус гоожиж, манай тааз норсон.",
+   "example_en": "Water leaked from upstairs and our ceiling got wet.",
+   "mn_latin": "goojikh"
+  },
+  {
+   "mn": "чимээ шуугиан",
+   "en": "noise",
+   "pos": "noun",
+   "example_mn": "Чимээ шуугианаас болж орой болгон унтаж чадахгүй байна.",
+   "example_en": "Because of the noise, I can't sleep night after night.",
+   "mn_latin": "chimee shuugian"
+  },
+  {
+   "mn": "нөхөн төлөх",
+   "en": "to compensate, to pay for (damage)",
+   "pos": "verb",
+   "example_mn": "Тэр засварын зардлыг нөхөн төлнө гэж амласан.",
+   "example_en": "He promised to pay for the repair costs.",
+   "mn_latin": "nökhön tölökh"
+  },
+  {
+   "mn": "эвлэрэх",
+   "en": "to make peace, to reconcile",
+   "pos": "verb",
+   "example_mn": "Эцэст нь хоёр хөрш эвлэрч, гар барьсан.",
+   "example_en": "In the end, the two neighbors made peace and shook hands.",
+   "mn_latin": "evlerekh"
+  },
+  {
+   "mn": "сууц өмчлөгчдийн холбоо (СӨХ)",
+   "en": "homeowners' association (HOA)",
+   "pos": "noun",
+   "example_mn": "Сууц өмчлөгчдийн холбоо хоёр талыг уулзуулахыг санал болгосон.",
+   "example_en": "The homeowners' association offered to bring the two sides together.",
+   "mn_latin": "suuts ömchlögchdiin kholboo (SÖKh)"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Байрны насыг бодвол ус гоожсон нь хэний ч буруу биш байж магадгүй.",
+   "en": "Considering the age of the building, the leak may not be anyone's fault.",
+   "alt_mn": [
+    "Байр хуучин гэдгийг бодвол ус гоожсон нь хэний ч буруу биш байж магадгүй."
+   ],
+   "alt_en": [
+    "Given the age of the building, the leak might not be anyone's fault."
+   ],
+   "mn_latin": "Bairny nasyg bodvol us goojson ni khenii ch buruu bish baij magadgüi."
+  },
+  {
+   "mn": "Хөгжим чанга байсан нь үнэн, гэхдээ бямба гарагийн орой байсан шүү дээ.",
+   "en": "Granted, the music was loud, but it was a Saturday night.",
+   "alt_mn": [
+    "Хөгжим чанга байсан нь үнэн л дээ, гэхдээ бямба гарагийн орой байсан."
+   ],
+   "alt_en": [
+    "Admittedly, the music was loud, but it was a Saturday night."
+   ],
+   "mn_latin": "Khögjim changa baisan ni ünen, gekhdee byamba garagiin oroi baisan shüü dee."
+  },
+  {
+   "mn": "Нөхцөл байдлыг бодвол шүүхэд нэхэмжлэл гаргах нь хэтэрхий эрт байна.",
+   "en": "Given the circumstances, it's too early to file a lawsuit.",
+   "alt_mn": [
+    "Нөхцөл байдлыг бодвол шүүхэд нэхэмжлэл гаргахад эрт байна."
+   ],
+   "alt_en": [
+    "Considering the circumstances, filing a lawsuit would be premature."
+   ],
+   "mn_latin": "Nökhtsöl baidlyg bodvol shüükhed nekhemjlel gargakh ni kheterkhii ert baina."
+  },
+  {
+   "mn": "Ус гоожиж байгааг танд эрт хэлэх ёстой байсныг би хүлээн зөвшөөрч байна.",
+   "en": "Admittedly, I should have told you about the leak sooner.",
+   "alt_mn": [
+    "Ус гоожиж байгааг танд эртхэн хэлэх ёстой байсан гэдгээ хүлээн зөвшөөрье."
+   ],
+   "alt_en": [
+    "I admit I should have told you about the leak sooner."
+   ],
+   "mn_latin": "Us goojij baigaag tand ert khelekh yostoi baisnyg bi khüleen zövshöörch baina."
+  },
+  {
+   "mn": "Тэр хэд хэдэн удаа уучлалт гуйсныг бодвол түүнийг дахин буруутгах нь шударга бус.",
+   "en": "Considering that he apologized several times, blaming him again is unfair.",
+   "alt_mn": [
+    "Тэр хэд хэдэн удаа уучлалт гуйсныг бодвол дахиад буруутгах нь шударга биш."
+   ],
+   "alt_en": [
+    "Given that he has apologized several times, it's unfair to blame him again."
+   ],
+   "mn_latin": "Ter khed kheden udaa uuchlalt guisnyg bodvol tüüniig dakhin buruutgakh ni shudarga bus."
+  },
+  {
+   "mn": "Хөршийн маань гомдол үндэслэлтэй ч түүний өнгө аяс хэтэрхий хатуу байсан.",
+   "en": "My neighbor's complaint is justified, but his tone was too harsh.",
+   "alt_mn": [
+    "Хөршийн маань гомдол үндэслэлтэй боловч тэр хэтэрхий хатуу ярьсан."
+   ],
+   "alt_en": [
+    "Granted, my neighbor's complaint is justified, but his tone was too harsh."
+   ],
+   "mn_latin": "Khörshiin maani gomdol ündesleltei ch tüünii öngö ayas kheterkhii khatuu baisan."
+  },
+  {
+   "mn": "Шөнийн арван нэгээс хойш өрөм ашиглах нь байрны дотоод журмын ноцтой зөрчил.",
+   "en": "Using a drill after 11 p.m. is a serious violation of the building's rules.",
+   "alt_mn": [
+    "Шөнийн 11 цагаас хойш өрөм ашиглах нь байрны журмыг ноцтой зөрчиж байна."
+   ],
+   "alt_en": [
+    "Drilling after 11 p.m. is a serious breach of the building rules."
+   ],
+   "mn_latin": "Shöniin arvan negees khoish öröm ashiglakh ni bairny dotood jurmyn notstoi zörchil."
+  },
+  {
+   "mn": "Хохирол тийм ч их биш нь үнэн, гэхдээ хэн нэгэн нөхөн төлөх л ёстой.",
+   "en": "Granted, the damage isn't huge, but someone still has to pay for it.",
+   "alt_mn": [
+    "Хохирол их биш нь үнэн, гэхдээ хэн нэг нь нөхөн төлөх ёстой."
+   ],
+   "alt_en": [
+    "Admittedly, the damage isn't huge, but someone still has to cover it."
+   ],
+   "mn_latin": "Khokhirol tiim ch ikh bish ni ünen, gekhdee khen negen nökhön tölökh l yostoi."
+  },
+  {
+   "mn": "Хоёр тал эвлэрэхийг хүсвэл СӨХ зуучлагчийн үүрэг гүйцэтгэхэд бэлэн байна.",
+   "en": "If both sides want to make peace, the HOA is ready to act as a mediator.",
+   "alt_mn": [
+    "Хоёр тал эвлэрэх хүсэлтэй бол СӨХ зуучлахад бэлэн байна."
+   ],
+   "alt_en": [
+    "If both sides want to reconcile, the homeowners' association is ready to mediate."
+   ],
+   "mn_latin": "Khoyor tal evlerekhiig khüsvel SÖKh zuuchlagchiin üüreg güitsetgekhed belen baina."
+  },
+  {
+   "mn": "Тэр бага насны хүүхэдтэйг бодвол бага зэрэг чимээ шуугиан гарах нь аргагүй.",
+   "en": "Considering that she has small children, a little noise is unavoidable.",
+   "alt_mn": [
+    "Түүнийг бага насны хүүхэдтэйг бодвол бага зэрэг чимээ гарах нь аргагүй юм."
+   ],
+   "alt_en": [
+    "Given that she has young children, some noise is unavoidable."
+   ],
+   "mn_latin": "Ter baga nasny khüükhedteig bodvol baga zereg chimee shuugian garakh ni argagüi."
+  },
+  {
+   "mn": "Үнэнийг хэлэхэд, бид хоёулаа уураа барьж чадаагүй.",
+   "en": "Admittedly, we both lost our tempers.",
+   "alt_mn": [
+    "Бид хоёулаа уураа барьж чадаагүйг хүлээн зөвшөөрөх ёстой."
+   ],
+   "alt_en": [
+    "Granted, we both lost our tempers."
+   ],
+   "mn_latin": "Üneniig khelekhed, bid khoyoulaa uuraa barij chadaagüi."
+  },
+  {
+   "mn": "Засварын зардлыг хувааж төлбөл маргааныг шүүхэд хандалгүйгээр шийдэж болно.",
+   "en": "If we split the repair costs, we can settle the dispute without going to court.",
+   "alt_mn": [
+    "Засварын зардлыг хуваан төлбөл маргааныг шүүхэд хандалгүй шийдэж болно."
+   ],
+   "alt_en": [
+    "If we share the repair costs, we can resolve the dispute without going to court."
+   ],
+   "mn_latin": "Zasvaryn zardlyg khuvaaj tölböl margaanyg shüükhed khandalgüigeer shiidej bolno."
+  }
+ ],
+ "grammar": {
+  "title_en": "Weighing circumstances with \"-ыг бодвол\" / Conceding with \"granted\" and \"admittedly\"",
+  "title_mn": "\"-ыг бодвол\" хэлбэрээр нөхцөл байдлыг харгалзах / \"granted\", \"admittedly\"-аар санааг хүлээн зөвшөөрөх",
+  "explain_en": "To say \"considering X\" or \"given X,\" put the noun in the accusative case (-ыг/-ийг after consonants, -г after vowels) and add \"бодвол.\" This is the conditional form of \"бодох\" (to think), so it literally means \"if you think about X.\" Examples: нөхцөл байдлыг бодвол (given the circumstances), байрны насыг бодвол (considering the building's age). To weigh a whole fact, use a verbal noun plus the accusative: уучлалт гуйсныг бодвол (considering that he apologized), хүүхэдтэйг бодвол (considering that she has children). The phrase usually comes first and sets up a judgment, such as \"it's unfair\" or \"it's too early.\" Note that some stems drop a vowel: байдал → байдлыг.",
+  "explain_mn": "Англи хэлэнд маргааны үеэр эсрэг талын зөв санааг эхлээд хүлээн зөвшөөрч, дараа нь өөрийн байр сууриа илэрхийлэхдээ \"granted\" эсвэл \"admittedly\" гэдэг. Утга нь \"…нь үнэн\", \"…гэдгийг хүлээн зөвшөөрье\" гэсэнтэй ойролцоо. Ихэвчлэн өгүүлбэрийн эхэнд таслалтай хэрэглэж, араас нь \"but\"-аар эхэлсэн хэсэг ирдэг: \"Granted, the music was loud, but it was Saturday.\" \"Admittedly\" нь илүү өөрийгөө шүүмжилсэн өнгөтэй: \"Admittedly, I should have called you sooner.\" \"Granted that…\" хэлбэрээр бүтэн өгүүлбэр ч залгаж болно. Анхаарах зүйл: \"Although … but\" гэж хамт хэрэглэдэггүй, харин \"Granted, … but\" бол зөв.",
+  "examples": [
+   {
+    "mn": "Нөхцөл байдлыг бодвол бид түр хүлээх нь зөв.",
+    "en": "Given the circumstances, it's best for us to wait for now.",
+    "mn_latin": "Nökhtsöl baidlyg bodvol bid tür khüleekh ni zöv."
+   },
+   {
+    "mn": "Тэр шинээр нүүж ирснийг бодвол журмыг мэдэхгүй байсан байх.",
+    "en": "Considering that he just moved in, he probably didn't know the rules.",
+    "mn_latin": "Ter shineer nüüj irsniig bodvol jurmyg medekhgüi baisan baikh."
+   },
+   {
+    "mn": "Тааз гоожсон нь үнэн, гэхдээ хохирол нь бага.",
+    "en": "Granted, the ceiling leaked, but the damage is minor.",
+    "mn_latin": "Taaz goojson ni ünen, gekhdee khokhirol ni baga."
+   },
+   {
+    "mn": "Үнэнийг хэлэхэд, би түрүүн хэтэрхий чанга ярьсан.",
+    "en": "Admittedly, I spoke too loudly earlier.",
+    "mn_latin": "Üneniig khelekhed, bi türüün kheterkhii changa yarisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нөхцөл байдл___ бодвол шүүхэд хандах нь эрт байна.",
+   "answer": "ыг",
+   "options": [
+    "ыг",
+    "ын",
+    "аар",
+    "аас"
+   ],
+   "translation": "Given the circumstances, it's too early to go to court.",
+   "explain_en": "\"Бодвол\" needs a direct object, so the noun takes the accusative -ыг. Note that байдал drops its vowel: байдлыг. -ын is genitive, -аар is instrumental, -аас is ablative, and none of them fit here.",
+   "explain_mn": "\"Бодвол\" нь заах тийн ялгалтай нэр шаарддаг тул \"байдлыг\" болно. Харьяалах (-ын), үйлдэх (-аар), гарах (-аас) тийн ялгал энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Шөнө чанга хөгжим тавих нь байрны журмын ___ юм.",
+   "answer": "зөрчил",
+   "options": [
+    "зөрчил",
+    "маргаан",
+    "нэхэмжлэл",
+    "хохирол"
+   ],
+   "translation": "Playing loud music at night is a violation of the building rules.",
+   "explain_en": "\"Журмын зөрчил\" is a fixed phrase meaning \"a violation of the rules.\" маргаан (dispute), нэхэмжлэл (lawsuit), and хохирол (damage) don't combine with \"журмын\" in this sense.",
+   "explain_mn": "\"Журмын зөрчил\" гэдэг нь тогтсон хэллэг. Маргаан, нэхэмжлэл, хохирол гэсэн үгс \"журмын\" гэдэгтэй ийм утгаар холбогддоггүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр уучлалт гуйсн___ бодвол түүнийг уучлах хэрэгтэй.",
+   "answer": "ыг",
+   "options": [
+    "ыг",
+    "аар",
+    "ы",
+    "аас"
+   ],
+   "translation": "Considering that he apologized, we should forgive him.",
+   "explain_en": "To weigh a whole fact (\"that he apologized\"), turn the verb into a verbal noun (гуйсан) and add the accusative: гуйсныг бодвол. The other endings break the \"-ыг бодвол\" pattern.",
+   "explain_mn": "Бүтэн үйл явдлыг харгалзахдаа үйлт нэр (гуйсан) дээр заах тийн ялгал залгана: \"гуйсныг бодвол\". Бусад нөхцөл энэ хэв загварт тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "___, the music was loud, but it was only nine o'clock.",
+   "answer": "Granted",
+   "options": [
+    "Granted",
+    "Although",
+    "Despite",
+    "Unless"
+   ],
+   "translation": "Хөгжим чанга байсан нь үнэн, гэхдээ дөнгөж есөн цаг болж байсан.",
+   "explain_en": "\"Granted,\" concedes a point and pairs naturally with \"but.\" \"Although\" and \"but\" don't go together, \"despite\" needs a noun phrase, and \"unless\" doesn't make sense here.",
+   "explain_mn": "\"Granted,\" нь эсрэг талын санааг хүлээн зөвшөөрч, \"but\"-тай хамт хэрэглэгддэг. \"Although\"-ыг \"but\"-тай хамт хэрэглэдэггүй, \"despite\"-ын араас нэр үг ирдэг, \"unless\" утгын хувьд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I was, ___, partly to blame for the argument.",
+   "answer": "admittedly",
+   "options": [
+    "admittedly",
+    "although",
+    "despite",
+    "whereas"
+   ],
+   "translation": "Маргаан гарсанд миний буруу ч бас байсныг хүлээн зөвшөөрч байна.",
+   "explain_en": "\"Admittedly\" can sit in the middle of a sentence to admit something unfavorable about yourself. \"Although\" and \"whereas\" are conjunctions that need a following clause, and \"despite\" needs a noun phrase, so none of them can stand alone between commas.",
+   "explain_mn": "\"Admittedly\" өгүүлбэрийн дунд орж, өөрт таагүй зүйлийг хүлээн зөвшөөрнө. \"Although\", \"whereas\" нь араасаа өгүүлбэр шаарддаг холбоос, \"despite\"-ын араас нэр үг ирдэг тул таслалын дунд ганцаараа орж чадахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "She filed a formal ___ with the homeowners' association.",
+   "answer": "complaint",
+   "options": [
+    "complaint",
+    "complain",
+    "compliant",
+    "complaining"
+   ],
+   "translation": "Тэр сууц өмчлөгчдийн холбоонд албан ёсоор гомдол гаргасан.",
+   "explain_en": "After \"a formal\" you need a noun: \"complaint.\" \"Complain\" is the verb, \"compliant\" is an adjective meaning \"obedient,\" and \"complaining\" doesn't fit after \"a formal.\"",
+   "explain_mn": "\"A formal\"-ийн араас нэр үг ирэх ёстой тул \"complaint\" (гомдол) зөв. \"Complain\" нь үйл үг, \"compliant\" нь \"дуулгавартай\" гэсэн тэмдэг нэр, \"complaining\" нь \"a formal\"-ийн араас тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болормаа",
+   "mn": "Ганбаа аа, манай угаалгын өрөөний таазнаас дахиад ус гоожиж байна. Энэ гурав дахь удаа шүү.",
+   "en": "Ganbaa, water is leaking from our bathroom ceiling again. This is the third time.",
+   "mn_latin": "Ganbaa aa, manai ugaalgyn öröönii taaznaas dakhiad us goojij baina. Ene gurav dakhi udaa shüü."
+  },
+  {
+   "speaker": "Ганбаа",
+   "mn": "Хоолой маань хуучирсан нь үнэн, гэхдээ би санаатай хийгээгүй шүү дээ. Харин та нар шөнө болгон чимээ шуугиан гаргадаг.",
+   "en": "Granted, my pipes are old, but I didn't do it on purpose. And you make noise every night.",
+   "mn_latin": "Khooloi maani khuuchirsan ni ünen, gekhdee bi sanaatai khiigeegüi shüü dee. Kharin ta nar shönö bolgon chimee shuugian gargadag."
+  },
+  {
+   "speaker": "Болормаа",
+   "mn": "Манайх бага насны хүүхэдтэйг бодвол бага зэрэг чимээ гарах нь аргагүй. Тааз норох бол огт өөр асуудал.",
+   "en": "Considering that we have small children, a little noise is unavoidable. A wet ceiling is a completely different issue.",
+   "mn_latin": "Manaikh baga nasny khüükhedteig bodvol baga zereg chimee garakh ni argagüi. Taaz norokh bol ogt öör asuudal."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Та хоёр хоёулаа СӨХ-нд гомдол гаргасан байна. Шүүхэд нэхэмжлэл гаргахаас өмнө эхлээд ярилцаж үзье.",
+   "en": "You both filed complaints with the HOA. Before anyone files a lawsuit, let's talk it through first.",
+   "mn_latin": "Ta khoyor khoyoulaa SÖKh-nd gomdol gargasan baina. Shüükhed nekhemjlel gargakhaas ömnö ekhleed yariltsaj üziye."
+  },
+  {
+   "speaker": "Ганбаа",
+   "mn": "Үнэнийг хэлэхэд, би өнгөрсөн долоо хоногт хэтэрхий ширүүн ярьсан. Хохирлыг нөхөн төлөхөд бэлэн.",
+   "en": "Admittedly, I was too harsh last week. I'm ready to pay for the damage.",
+   "mn_latin": "Üneniig khelekhed, bi öngörsön doloo khonogt kheterkhii shirüün yarisan. Khokhirlyg nökhön tölökhöd belen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Байрны насыг бодвол засварын зардлыг СӨХ-той хуваан төлж болох юм.",
+   "en": "Considering the age of the building, you could split the repair costs with the HOA.",
+   "mn_latin": "Bairny nasyg bodvol zasvaryn zardlyg SÖKh-toi khuvaan tölj bolokh yum."
+  },
+  {
+   "speaker": "Болормаа",
+   "mn": "Тэгвэл болно. Бид ч гэсэн оройн арван цагаас хойш чимээгүй байхыг хичээнэ.",
+   "en": "That works for me. We'll also try to keep quiet after 10 p.m.",
+   "mn_latin": "Tegvel bolno. Bid ch gesen oroin arvan tsagaas khoish chimeegüi baikhyg khicheene."
+  },
+  {
+   "speaker": "Ганбаа",
+   "mn": "Сайн байна. Ойрын хөрш холын төрлөөс дээр гэдэг, эвлэрье.",
+   "en": "Great. They say a close neighbor is better than distant relatives, so let's make peace.",
+   "mn_latin": "Sain baina. Oiryn khörsh kholyn törlöös deer gedeg, evleriye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar's apartment buildings, the homeowners' association (СӨХ) handles shared pipes, repairs, and building rules, and it is often the first place neighbors turn when a dispute starts. Mongolians generally prefer to settle conflicts face to face, often with a respected third person, rather than going to court. The proverb \"Ойрын хөрш холын төрлөөс дээр\" (\"A close neighbor is better than distant relatives\") is often quoted to remind people why keeping the peace matters.",
+  "mn": "Улаанбаатарын орон сууцанд нийтийн хоолой, засвар, байрны журмыг сууц өмчлөгчдийн холбоо (СӨХ) хариуцдаг тул хөршүүд маргаан гарахад хамгийн түрүүнд тийшээ ханддаг. Монголчууд шүүхэд хандахаас илүүтэй нүүр тулан ярилцах, ихэвчлэн нэр хүндтэй гуравдагч хүнээр зуучлуулж шийдэхийг илүүд үздэг. \"Ойрын хөрш холын төрлөөс дээр\" гэсэн зүйр үгийг эвтэй байхын ач холбогдлыг сануулахдаа олонтаа иш татдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A strong, natural lesson. The fixes correct one misleading Mongolian phrase, one fill-in-the-blank with more than one correct answer, and one awkward English sentence."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 7,
+  "notes": "A solid lesson overall. The fixes cover blank options that produced impossible word forms, one wrong word in the culture note, and small mismatches between the en and mn versions.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The -д option would give the impossible form *байдлд (correct: байдалд). Replaced it with -аар (байдлаар), a real form that is wrong in this slot."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Matches the new options."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Matches the new options."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "The -д option would give the impossible form *гуйснд (correct: гуйсанд). Replaced it with -аас (гуйснаас), a real form."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "The mn version skipped \"complaining\"; it now matches the en version."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Removed the awkward double нь."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Хүндэтгэлтэй means \"respectful,\" not \"respected\" (нэр хүндтэй). Also aligned \"often with\" with the en version."
+   }
+  ]
+ }
+}

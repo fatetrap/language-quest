@@ -1,0 +1,415 @@
+{
+ "intro_en": "Follow live TV and radio commentary of a football match like a fan. You'll learn the key action verbs, how Mongolian uses -ж байна for ongoing action and -лаа for things that just happened, and how English commentators switch between the present simple and the present continuous.",
+ "intro_mn": "Хөлбөмбөгийн тоглолтын телевиз, радиогийн шууд тайлбарыг жинхэнэ хөгжөөн дэмжигч шиг ойлгож сурцгаая. Тоглолтын гол үйл үгсийг сурна. Мөн монгол хэлэнд үргэлжилж буй үйлдлийг -ж байна, дөнгөж болсон үйлдлийг -лаа хэлбэрээр хэрхэн илэрхийлдгийг үзнэ. Англи хэлний тайлбарлагчид Present Simple болон Present Continuous-ийг хэрхэн ээлжлүүлэн хэрэглэдгийг ч сурна.",
+ "vocab": [
+  {
+   "mn": "дамжуулах",
+   "en": "to pass",
+   "pos": "verb",
+   "example_mn": "Батаа бөмбөгийг Тэмүүлэн рүү дамжууллаа.",
+   "example_en": "Bataa passes the ball to Temuulen.",
+   "mn_latin": "damjuulakh"
+  },
+  {
+   "mn": "цохих",
+   "en": "to shoot, to kick",
+   "pos": "verb",
+   "example_mn": "Тэр хаалга руу цохилоо!",
+   "example_en": "He shoots at goal!",
+   "mn_latin": "tsokhikh"
+  },
+  {
+   "mn": "хамгаалах",
+   "en": "to defend",
+   "pos": "verb",
+   "example_mn": "Манай баг сайн хамгаалж байна.",
+   "example_en": "Our team is defending well.",
+   "mn_latin": "khamgaalakh"
+  },
+  {
+   "mn": "торгууль",
+   "en": "penalty",
+   "pos": "noun",
+   "example_mn": "Шүүгч торгууль заалаа!",
+   "example_en": "The referee points to the spot!",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "хаалгач",
+   "en": "goalkeeper",
+   "pos": "noun",
+   "example_mn": "Хаалгач бөмбөгийг барьж авлаа.",
+   "example_en": "The goalkeeper catches the ball.",
+   "mn_latin": "khaalgach"
+  },
+  {
+   "mn": "довтлогч",
+   "en": "striker, forward",
+   "pos": "noun",
+   "example_mn": "Довтлогч хаалга руу гүйж байна.",
+   "example_en": "The striker is running toward the goal.",
+   "mn_latin": "dovtlogch"
+  },
+  {
+   "mn": "шүүгч",
+   "en": "referee",
+   "pos": "noun",
+   "example_mn": "Шүүгч шүгэл үлээлээ.",
+   "example_en": "The referee blows the whistle.",
+   "mn_latin": "shüügch"
+  },
+  {
+   "mn": "гоол",
+   "en": "goal (scored)",
+   "pos": "noun",
+   "example_mn": "Гоол орлоо!",
+   "example_en": "It's a goal!",
+   "mn_latin": "gool"
+  },
+  {
+   "mn": "алдах",
+   "en": "to miss",
+   "pos": "verb",
+   "example_mn": "Тэр боломжоо алдлаа.",
+   "example_en": "He misses his chance.",
+   "mn_latin": "aldakh"
+  },
+  {
+   "mn": "шар хуудас",
+   "en": "yellow card",
+   "pos": "noun",
+   "example_mn": "Шүүгч шар хуудас үзүүлж байна.",
+   "example_en": "The referee is showing a yellow card.",
+   "mn_latin": "shar khuudas"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Батаа бөмбөгийг Тэмүүлэн рүү дамжууллаа.",
+   "en": "Bataa passes the ball to Temuulen.",
+   "alt_mn": [
+    "Батаа Тэмүүлэн рүү бөмбөг дамжууллаа."
+   ],
+   "alt_en": [
+    "Bataa passed the ball to Temuulen.",
+    "Bataa passes to Temuulen."
+   ],
+   "mn_latin": "Bataa bömbögiig Temüülen rüü damjuullaa."
+  },
+  {
+   "mn": "Тэр хаалга руу цохилоо!",
+   "en": "He shoots at goal!",
+   "alt_mn": [
+    "Тэр хаалга руу цохичихлоо!"
+   ],
+   "alt_en": [
+    "He shoots!",
+    "He's taken a shot at goal!"
+   ],
+   "mn_latin": "Ter khaalga ruu tsokhiloo!"
+  },
+  {
+   "mn": "Хаалгач бөмбөгийг барьж авлаа.",
+   "en": "The goalkeeper catches the ball.",
+   "alt_mn": [
+    "Хаалгач бөмбөгийг барьчихлаа."
+   ],
+   "alt_en": [
+    "The keeper catches the ball.",
+    "The goalkeeper has caught the ball."
+   ],
+   "mn_latin": "Khaalgach bömbögiig barij avlaa."
+  },
+  {
+   "mn": "Монголын баг сайн хамгаалж байна.",
+   "en": "Mongolia is defending well.",
+   "alt_mn": [
+    "Монголын шигшээ баг сайн хамгаалж байна."
+   ],
+   "alt_en": [
+    "The Mongolian team is defending well."
+   ],
+   "mn_latin": "Mongolyn bag sain khamgaalj baina."
+  },
+  {
+   "mn": "Шүүгч торгуулийн цохилт өглөө!",
+   "en": "The referee awards a penalty!",
+   "alt_mn": [
+    "Шүүгч торгууль заалаа!"
+   ],
+   "alt_en": [
+    "The referee gives a penalty!",
+    "The referee points to the spot!"
+   ],
+   "mn_latin": "Shüügch torguuliin tsokhilt öglöö!"
+  },
+  {
+   "mn": "Гоол орлоо!",
+   "en": "It's a goal!",
+   "alt_mn": [
+    "Гоол!"
+   ],
+   "alt_en": [
+    "Goal!",
+    "It's in!"
+   ],
+   "mn_latin": "Gool orloo!"
+  },
+  {
+   "mn": "Бөмбөг хаалганы дээгүүр гарлаа.",
+   "en": "The ball goes over the bar.",
+   "alt_mn": [
+    "Бөмбөг хаалганы дээгүүр гарчихлаа."
+   ],
+   "alt_en": [
+    "The ball goes over the crossbar.",
+    "It goes over the bar."
+   ],
+   "mn_latin": "Bömbög khaalgany deegüür garlaa."
+  },
+  {
+   "mn": "Тоглогчид талбайн голд бөмбөг дамжуулж байна.",
+   "en": "The players are passing the ball around in midfield.",
+   "alt_mn": [
+    "Тоглогчид талбайн дунд бөмбөг дамжуулж байна."
+   ],
+   "alt_en": [
+    "The players are passing the ball in the middle of the field."
+   ],
+   "mn_latin": "Toglogchid talbain gold bömbög damjuulj baina."
+  },
+  {
+   "mn": "Хамгаалагч бөмбөгийг талбайн гадна гаргалаа.",
+   "en": "The defender kicks the ball out of play.",
+   "alt_mn": [
+    "Хамгаалагч бөмбөгийг гадагш гаргалаа."
+   ],
+   "alt_en": [
+    "The defender clears the ball out of play.",
+    "The defender kicks the ball out."
+   ],
+   "mn_latin": "Khamgaalagch bömbögiig talbain gadna gargalaa."
+  },
+  {
+   "mn": "Одоо шүүгч шар хуудас үзүүлж байна.",
+   "en": "The referee is showing a yellow card now.",
+   "alt_mn": [
+    "Шүүгч одоо шар хуудас үзүүлж байна."
+   ],
+   "alt_en": [
+    "Now the referee is showing a yellow card."
+   ],
+   "mn_latin": "Odoo shüügch shar khuudas üzüülj baina."
+  },
+  {
+   "mn": "Тэр торгуулийг алдлаа!",
+   "en": "He misses the penalty!",
+   "alt_mn": [
+    "Тэр торгуулийн цохилтыг алдлаа!"
+   ],
+   "alt_en": [
+    "He's missed the penalty!",
+    "He missed the penalty!"
+   ],
+   "mn_latin": "Ter torguuliig aldlaa!"
+  },
+  {
+   "mn": "Сүүлийн нэг минут үлдлээ, Монголын баг довтолж байна.",
+   "en": "One minute to go, and Mongolia is attacking.",
+   "alt_mn": [
+    "Ганцхан минут үлдлээ, Монголын баг довтолж байна."
+   ],
+   "alt_en": [
+    "There's one minute left, and Mongolia is attacking.",
+    "One minute left, and the Mongolian team is attacking."
+   ],
+   "mn_latin": "Süüliin neg minut üldlee, Mongolyn bag dovtolj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Live action in Mongolian: -ж байна vs. -лаа",
+  "title_mn": "Шууд тайлбар англиар: Present Simple ба Present Continuous",
+  "explain_en": "Mongolian commentators switch between two forms all the time. For an action that is still going on, use the verb stem + -ж/-ч + байна: хамгаалж байна (is defending), гүйж байна (is running). Use -ч after stems ending in в, г, р, с: гарч байна. For a quick action that just happened a second ago, like a pass, a shot, or a goal, use -лаа/-лээ/-лоо/-лөө, chosen by vowel harmony: дамжууллаа, цохилоо, өглөө, орлоо. This 'just now' past makes commentary sound fast and exciting. English usually translates it with the present simple: Цохилоо! = He shoots!",
+  "explain_mn": "Англи хэлний тайлбарлагчид богино, хурдан үйлдлийг Present Simple-ээр хэлдэг: \"Bataa passes... he shoots... he scores!\" Энэ нь монголын -лаа/-лээ хэлбэртэй дүйнэ (дамжууллаа, цохилоо, гоол орлоо). Харин үргэлжилж буй, арын дэвсгэр мэт үйлдлийг Present Continuous (am/is/are + -ing)-ээр хэлнэ: \"Mongolia is defending well.\" Энэ нь монголын -ж байна хэлбэртэй адил. Америк англид баг нь ганц тоонд байдаг тул \"Mongolia is attacking\" гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "Тэмүүлэн баруун жигүүрээр гүйж байна... Батаа руу дамжууллаа!",
+    "en": "Temuulen is running down the right wing... he passes to Bataa!",
+    "mn_latin": "Temüülen baruun jigüüreer güij baina... Bataa ruu damjuullaa!"
+   },
+   {
+    "mn": "Батаа цохилоо... гоол орлоо!",
+    "en": "Bataa shoots... and scores!",
+    "mn_latin": "Bataa tsokhiloo... gool orloo!"
+   },
+   {
+    "mn": "Хоёр баг хоёулаа маш болгоомжтой тоглож байна.",
+    "en": "Both teams are playing very carefully.",
+    "mn_latin": "Khoyor bag khoyoulaa mash bolgoomjtoi togloj baina."
+   },
+   {
+    "mn": "Хаалгач үсэрлээ... бөмбөгийг барьж авлаа!",
+    "en": "The keeper dives... and catches it!",
+    "mn_latin": "Khaalgach üserlee... bömbögiig barij avlaa!"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэр хаалга руу цохи___!",
+   "answer": "лоо",
+   "options": [
+    "лоо",
+    "лаа",
+    "лээ",
+    "лөө"
+   ],
+   "translation": "He shoots at goal!",
+   "explain_en": "Цохих has the back vowel о, so by vowel harmony the 'just now' past ending is -лоо: цохилоо.",
+   "explain_mn": "Англиар хурдан, нэг удаагийн үйлдлийг Present Simple-ээр хэлнэ: \"He shoots!\""
+  },
+  {
+   "lang": "mn",
+   "text": "Манай хамгаалагчид сайн хамгаал___ байна.",
+   "answer": "ж",
+   "options": [
+    "ж",
+    "ч",
+    "лаа",
+    "х"
+   ],
+   "translation": "Our defenders are defending well.",
+   "explain_en": "Defending is an ongoing action, so use -ж байна. The stem ends in л, so it takes -ж, not -ч (-ч comes after в, г, р, с).",
+   "explain_mn": "Үргэлжилж буй үйлдэл тул англиар Present Continuous хэрэглэнэ: \"are defending\"."
+  },
+  {
+   "lang": "mn",
+   "text": "Шүүгч торгуулийн цохилт ___!",
+   "answer": "өглөө",
+   "options": [
+    "өглөө",
+    "өгч",
+    "өгнө",
+    "өгөх"
+   ],
+   "translation": "The referee awards a penalty!",
+   "explain_en": "The decision happens in an instant, so use the 'just now' past: өгөх → өглөө. Өгнө is future, and өгч or өгөх cannot end the sentence.",
+   "explain_mn": "Шүүгчийн шийдвэр агшин зуурын үйлдэл тул англиар Present Simple: \"awards\"."
+  },
+  {
+   "lang": "en",
+   "text": "Bataa ___ to Temuulen... and Temuulen shoots!",
+   "answer": "passes",
+   "options": [
+    "passes",
+    "is passing",
+    "passed",
+    "pass"
+   ],
+   "translation": "Батаа Тэмүүлэн рүү дамжууллаа... Тэмүүлэн цохилоо!",
+   "explain_en": "A quick pass in a fast sequence of actions takes the present simple, with -es for he/she: passes.",
+   "explain_mn": "Хурдан дараалсан богино үйлдлүүдийг Present Simple-ээр хэлнэ. Гуравдагч бие ганц тоо тул -es залгана: passes. Монголоор -лаа хэлбэртэй дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Mongolia ___ really well in this second half.",
+   "answer": "is playing",
+   "options": [
+    "is playing",
+    "plays",
+    "played",
+    "play"
+   ],
+   "translation": "Хоёрдугаар хагаст Монголын баг үнэхээр сайн тоглож байна.",
+   "explain_en": "This describes an ongoing situation, so English uses the present continuous: is playing.",
+   "explain_mn": "Удаан үргэлжилж буй байдлыг Present Continuous-ээр хэлнэ (is + -ing). Монголоор -ж байна хэлбэртэй адил. Америк англид баг нь ганц тоо тул \"is\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Oh no! He ___ the penalty!",
+   "answer": "misses",
+   "options": [
+    "misses",
+    "is missing",
+    "miss",
+    "missing"
+   ],
+   "translation": "Өө, үгүй! Тэр торгуулийг алдлаа!",
+   "explain_en": "Missing a penalty is a single, instant event, so use the present simple: misses. Here 'is missing' would sound like he is absent.",
+   "explain_mn": "Торгууль алдах нь нэг агшны үйлдэл тул Present Simple: misses. \"Is missing\" гэвэл \"байхгүй байна\" гэсэн утгатай болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ганбаа",
+   "mn": "Сайн байцгаана уу, эрхэм сонсогчид! Тоглолт эхэллээ.",
+   "en": "Hello, dear listeners! And we're under way.",
+   "mn_latin": "Sain baitsgaana uu, erkhem sonsogchid! Toglolt ekhellee."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Монголын баг эхнээсээ идэвхтэй довтолж байна.",
+   "en": "Mongolia is attacking hard right from the start.",
+   "mn_latin": "Mongolyn bag ekhneesee idevkhtei dovtolj baina."
+  },
+  {
+   "speaker": "Ганбаа",
+   "mn": "Тэмүүлэн баруун жигүүрээр бөмбөгтэй гүйж байна... Батаа руу дамжууллаа!",
+   "en": "Temuulen is running down the right wing with the ball... he passes to Bataa!",
+   "mn_latin": "Temüülen baruun jigüüreer bömbögtei güij baina... Bataa ruu damjuullaa!"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Батаа цохилоо... хаалгач барьж авлаа. Харамсалтай!",
+   "en": "Bataa shoots... the keeper catches it. What a shame!",
+   "mn_latin": "Bataa tsokhiloo... khaalgach barij avlaa. Kharamsaltai!"
+  },
+  {
+   "speaker": "Ганбаа",
+   "mn": "Өө, Батааг торгуулийн талбайд унагалаа! Шүүгч шүгэл үлээлээ!",
+   "en": "Oh, Bataa is brought down in the box! The referee blows the whistle!",
+   "mn_latin": "Öö, Bataag torguuliin talbaid unagalaa! Shüügch shügel üleelee!"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Торгууль! Батаа өөрөө цохих гэж байна.",
+   "en": "Penalty! Bataa is going to take it himself.",
+   "mn_latin": "Torguuli! Bataa ööröö tsokhikh gej baina."
+  },
+  {
+   "speaker": "Ганбаа",
+   "mn": "Батаа гүйж ирлээ... цохилоо... Гоол! Гоол орлоо!",
+   "en": "Bataa runs up... he shoots... Goal! It's in!",
+   "mn_latin": "Bataa güij irlee... tsokhiloo... Gool! Gool orloo!"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Нэг-тэг! Цэнгэлдэх хүрээлэн тэр чигтээ баярлан хашгирч байна.",
+   "en": "One-nil! The whole stadium is cheering.",
+   "mn_latin": "Neg-teg! Tsengeldekh khüreelen ter chigtee bayarlan khashgirch baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Football is growing fast in Mongolia, and many matches of the national team and the Mongolian Premier League are shown on TV or streamed live online. Mongolian commentators mix in borrowed words like гоол (goal), офсайд (offside), and корнер (corner). Many fans also know the energetic style of Naadam wrestling and horse racing commentary.",
+  "mn": "Монголд хөлбөмбөг хурдацтай хөгжиж байгаа бөгөөд шигшээ баг болон Монголын Премьер лигийн олон тоглолтыг телевизээр болон онлайнаар шууд дамжуулдаг. Монгол тайлбарлагчид гоол, офсайд, корнер гэх мэт харь үгсийг хольж хэрэглэдэг. Олон хөгжөөн дэмжигч Наадмын бөх, морин уралдааны эрч хүчтэй тайлбарыг ч сайн мэднэ."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Strong, accurate lesson with correct vowel harmony and tense explanations. Only one ungrammatical Mongolian line in the dialogue needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is in very good shape. The only fix aligns intro_mn with intro_en; the vocabulary, fill-in-the-blank items and dialogue are correct.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Mongolian intro left out the TV/radio detail and the -ж байна / -лаа point that the English intro covers."
+   }
+  ]
+ }
+}

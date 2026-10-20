@@ -1,0 +1,416 @@
+{
+ "intro_en": "Learn to talk about remembrance, anniversaries and life milestones, and to give a short memorial speech that mixes sad and joyful news. You will also practice saying how long it has been since an event and what someone 'would have' done.",
+ "intro_mn": "Дурсгал, ой, амьдралын үе шатын тухай ярьж, гунигтай болон баяртай мэдээг хослуулсан богино дурсгалын үг хэлж сурна. Мөн нэг үйл явдлаас хойш хэр удаж буйг болон хэн нэгэн юу хийх байсныг илэрхийлэхийг давтана.",
+ "vocab": [
+  {
+   "mn": "дурсгал",
+   "en": "memory (of someone), memorial, keepsake",
+   "pos": "noun",
+   "example_mn": "Энэ хөшөө бол дайнд амиа алдсан хүмүүсийн дурсгал юм.",
+   "example_en": "This monument is a memorial to the people who died in the war.",
+   "mn_latin": "dursgal"
+  },
+  {
+   "mn": "дурсамж",
+   "en": "memory, recollection",
+   "pos": "noun",
+   "example_mn": "Хөдөө өнгөрүүлсэн зун надад сайхан дурсамж үлдээсэн.",
+   "example_en": "The summer I spent in the countryside left me with good memories.",
+   "mn_latin": "dursamj"
+  },
+  {
+   "mn": "дурсах",
+   "en": "to remember, to commemorate",
+   "pos": "verb",
+   "example_mn": "Бид жил бүр өвөөгөө дурсаж уулздаг.",
+   "example_en": "Every year we get together to remember our grandfather.",
+   "mn_latin": "dursakh"
+  },
+  {
+   "mn": "жил болох",
+   "en": "to be a year (since), to mark a year",
+   "pos": "verb phrase",
+   "example_mn": "Энд нүүж ирээд таван жил болж байна.",
+   "example_en": "It has been five years since we moved here.",
+   "mn_latin": "jil bolokh"
+  },
+  {
+   "mn": "өвлөх",
+   "en": "to inherit",
+   "pos": "verb",
+   "example_mn": "Тэр аавынхаа гэрийг өвлөж авсан.",
+   "example_en": "He inherited his father's house.",
+   "mn_latin": "övlökh"
+  },
+  {
+   "mn": "өвлүүлэх",
+   "en": "to pass down, to hand on (to others)",
+   "pos": "verb",
+   "example_mn": "Эмээ уламжлалт хоолоо ач охиндоо өвлүүлсэн.",
+   "example_en": "Grandma passed her traditional recipes down to her granddaughter.",
+   "mn_latin": "övlüülekh"
+  },
+  {
+   "mn": "амьдралын үе шат",
+   "en": "stage of life, life milestone",
+   "pos": "noun phrase",
+   "example_mn": "Их сургууль төгсөх нь амьдралын чухал үе шат.",
+   "example_en": "Graduating from university is an important stage of life.",
+   "mn_latin": "amidralyn üye shat"
+  },
+  {
+   "mn": "өөд болох",
+   "en": "to pass away (polite euphemism)",
+   "pos": "verb phrase",
+   "example_mn": "Түүний эмээ өнгөрсөн өвөл өөд болсон.",
+   "example_en": "Her grandmother passed away last winter.",
+   "mn_latin": "ööd bolokh"
+  },
+  {
+   "mn": "хойч үе",
+   "en": "the next generation, future generations",
+   "pos": "noun phrase",
+   "example_mn": "Бид байгалиа хойч үедээ хадгалж үлдээх ёстой.",
+   "example_en": "We must preserve nature for future generations.",
+   "mn_latin": "khoich üye"
+  },
+  {
+   "mn": "тайвшрах",
+   "en": "to calm down, to find peace",
+   "pos": "verb",
+   "example_mn": "Цаг хугацаа өнгөрөхөөр зүрх сэтгэл тайвширдаг.",
+   "example_en": "As time passes, the heart finds peace.",
+   "mn_latin": "taivshrakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ээж маань өөд болоод өнөөдөр яг нэг жил болж байна.",
+   "en": "Today it has been exactly one year since my mother passed away.",
+   "alt_mn": [
+    "Ээжийг минь өөд болсноос хойш өнөөдөр яг нэг жил болж байна."
+   ],
+   "alt_en": [
+    "It's been exactly one year today since my mother passed away.",
+    "Today marks exactly one year since my mother passed away."
+   ],
+   "mn_latin": "Eej maani ööd bolood önöödör yag neg jil bolj baina."
+  },
+  {
+   "mn": "Түүний дурсгалыг хүндэтгэн нэг минут чимээгүй зогсъё.",
+   "en": "Let us stand for a minute of silence in honor of his memory.",
+   "alt_mn": [
+    "Түүний дурсгалд зориулан нэг минут чимээгүй зогсъё."
+   ],
+   "alt_en": [
+    "Let's observe a minute of silence in his memory."
+   ],
+   "mn_latin": "Tüünii dursgalyg khündetgen neg minut chimeegüi zogsyo."
+  },
+  {
+   "mn": "Өвөөгийн тухай надад сайхан дурсамж их бий.",
+   "en": "I have many fond memories of my grandfather.",
+   "alt_mn": [
+    "Надад өвөөгийн тухай олон сайхан дурсамж бий."
+   ],
+   "alt_en": [
+    "I have lots of fond memories of my grandpa."
+   ],
+   "mn_latin": "Övöögiin tukhai nadad saikhan dursamj ikh bii."
+  },
+  {
+   "mn": "Энэ бөгжийг би эмээгээсээ өвлөж авсан.",
+   "en": "I inherited this ring from my grandmother.",
+   "alt_mn": [
+    "Энэ бөгжийг эмээгээсээ өвлөж авсан юм."
+   ],
+   "alt_en": [
+    "I inherited this ring from my grandma."
+   ],
+   "mn_latin": "Ene bögjiig bi emeegeesee övlöj avsan."
+  },
+  {
+   "mn": "Хүүхэдтэй болох, хурим хийх, хайртай хүнээ алдах нь бүгд амьдралын үе шат юм.",
+   "en": "Having a child, getting married and losing a loved one are all stages of life.",
+   "alt_mn": [],
+   "alt_en": [
+    "Having a baby, getting married and losing someone you love are all milestones in life."
+   ],
+   "mn_latin": "Khüükhedtei bolokh, khurim khiikh, khairtai khünee aldakh ni bügd amidralyn üye shat yum."
+  },
+  {
+   "mn": "Аав амьд байсан бол энэ жил далан нас хүрэх байсан.",
+   "en": "If Dad were still alive, he would have turned seventy this year.",
+   "alt_mn": [
+    "Аав маань амьд байсан бол энэ жил далан нас хүрэх байлаа."
+   ],
+   "alt_en": [
+    "Dad would have turned seventy this year."
+   ],
+   "mn_latin": "Aav amid baisan bol ene jil dalan nas khürekh baisan."
+  },
+  {
+   "mn": "Түүний инээд, сайхан сэтгэл бидний зүрхэнд үргэлж үлдэнэ.",
+   "en": "Her laughter and kindness will always stay in our hearts.",
+   "alt_mn": [],
+   "alt_en": [
+    "Her laugh and her kindness will always remain in our hearts."
+   ],
+   "mn_latin": "Tüünii ineed, saikhan setgel bidnii zürkhend ürgelj üldene."
+  },
+  {
+   "mn": "Гуниг хэзээ ч бүрэн арилдаггүй ч цаг хугацаа өнгөрөхөөр сэтгэл тайвширдаг.",
+   "en": "Grief never fully goes away, but with time you find peace.",
+   "alt_mn": [
+    "Гуниг хэзээ ч бүрэн арилдаггүй, гэхдээ цаг хугацааны эрхээр сэтгэл тайвширдаг."
+   ],
+   "alt_en": [
+    "Grief never completely goes away, but over time the heart finds peace."
+   ],
+   "mn_latin": "Gunig khezee ch büren arildaggüi ch tsag khugatsaa öngörökhöör setgel taivshirdag."
+  },
+  {
+   "mn": "Эмээ нас барснаас хойш манайд ач хүү мэндэлсэн.",
+   "en": "Since Grandma passed away, a grandson has been born into our family.",
+   "alt_mn": [
+    "Эмээг өөд болсноос хойш манай гэр бүлд ач хүү мэндэлсэн."
+   ],
+   "alt_en": [
+    "A grandson has been born in our family since Grandma died."
+   ],
+   "mn_latin": "Emee nas barsnaas khoish manaid ach khüü mendelsen."
+  },
+  {
+   "mn": "Энэ баяр хөөртэй өдөр бид өвөөгөө их санаж байна.",
+   "en": "On this happy day, we miss Grandpa very much.",
+   "alt_mn": [
+    "Ийм баяртай өдөр бид өвөөгөө их санаж байна."
+   ],
+   "alt_en": [
+    "We really miss Grandpa on this joyful day."
+   ],
+   "mn_latin": "Ene bayar khöörtei ödör bid övöögöö ikh sanaj baina."
+  },
+  {
+   "mn": "Түүний сургаалыг хойч үедээ өвлүүлэх нь бидний үүрэг.",
+   "en": "It is our duty to pass his teachings on to the next generation.",
+   "alt_mn": [
+    "Түүний сургаалыг хойч үедээ өвлүүлэх нь бидний үүрэг юм."
+   ],
+   "alt_en": [
+    "Passing his teachings down to future generations is our duty."
+   ],
+   "mn_latin": "Tüünii surgaalyg khoich üyedee övlüülekh ni bidnii üüreg."
+  },
+  {
+   "mn": "Бидэнтэй хамт өнгөрүүлсэн он жилүүдэд тань баярлалаа.",
+   "en": "Thank you for the years you spent with us.",
+   "alt_mn": [
+    "Бидэнтэй хамт байсан он жилүүдэд тань баярлалаа."
+   ],
+   "alt_en": [
+    "Thank you for all the years you shared with us."
+   ],
+   "mn_latin": "Bidentei khamt öngörüülsen on jilüüded tani bayarlalaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "Counting time since an event: -аад ... болж байна / -снаас хойш",
+  "title_mn": "Нэг үйл явдлаас хойших хугацаа: It has been ... since / would have + V3",
+  "explain_en": "To say how long it has been since something happened, put the verb in the -аад/-оод/-ээд/-өөд form and add 'X жил (сар, хоног) болж байна': 'Аав өөд болоод гурван жил болж байна' (It has been three years since Dad passed away). Another option is -сан/-сон/-сэн + ablative -аас + хойш: 'нас барснаас хойш' (since he passed away). Use it to start a sentence about what has happened since then. For something that would have happened, use '-сан бол ... -х байсан': 'амьд байсан бол ... нас хүрэх байсан' (if he were alive, he would have turned ...).",
+  "explain_mn": "Англи хэлэнд нэг үйл явдлаас хойш хэр удсаныг 'It has been + хугацаа + since + өнгөрсөн цаг' гэж хэлдэг: 'It has been three years since Dad passed away.' Энэ нь '-аад ... болж байна' хэлбэртэй дүйнэ. 'since'-ийн дараа өнгөрсөн цагийн үйл үг ордог бол 'for'-ийн дараа зөвхөн хугацаа ордог: 'for three years'. Болох байсан ч болоогүй, бодит бус зүйлийг 'would have + V3' гэж хэлнэ: 'He would have turned seventy this year.' Энэ нь '-х байсан' хэлбэртэй ойролцоо.",
+  "examples": [
+   {
+    "mn": "Аав өөд болоод гурван жил болж байна.",
+    "en": "It has been three years since Dad passed away.",
+    "mn_latin": "Aav ööd bolood gurvan jil bolj baina."
+   },
+   {
+    "mn": "Түүнийг нас барснаас хойш бид жил бүр уулздаг болсон.",
+    "en": "Since she passed away, we have started meeting every year.",
+    "mn_latin": "Tüüniig nas barsnaas khoish bid jil bür uulzdag bolson."
+   },
+   {
+    "mn": "Эмээ амьд байсан бол өнөөдөр наян нас хүрэх байсан.",
+    "en": "Grandma would have turned eighty today.",
+    "mn_latin": "Emee amid baisan bol önöödör nayan nas khürekh baisan."
+   },
+   {
+    "mn": "Бид гэрлээд арван жил болж байна.",
+    "en": "It has been ten years since we got married.",
+    "mn_latin": "Bid gerleed arvan jil bolj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Аав маань өөд болоод хоёр жил ___ байна.",
+   "answer": "болж",
+   "options": [
+    "болж",
+    "гарч",
+    "хүрч",
+    "ирж"
+   ],
+   "translation": "It has been two years since my father passed away.",
+   "explain_en": "The fixed pattern for 'it has been X years' is 'X жил болж байна'. The other verbs (гарах 'go out', хүрэх 'reach', ирэх 'come') don't work with a length of time here.",
+   "explain_mn": "'X жил болж байна' гэдэг нь хугацаа өнгөрснийг илэрхийлэх тогтсон хэллэг. Бусад үйл үг энд утга зөрнө."
+  },
+  {
+   "mn_note": "",
+   "lang": "mn",
+   "text": "Энэ цагийг би өвөөгөөсөө өвлө___ авсан.",
+   "answer": "ж",
+   "options": [
+    "ж",
+    "х",
+    "сөн",
+    "вөл"
+   ],
+   "translation": "I inherited this watch from my grandfather.",
+   "explain_en": "Before the helper verb 'авах', the main verb takes the connecting ending -ж: 'өвлөж авсан' (inherited, literally 'inheriting, took').",
+   "explain_mn": "'авах' туслах үйл үгийн өмнө үндсэн үйл үг -ж нөхцөлтэй холбогдоно: 'өвлөж авсан'."
+  },
+  {
+   "lang": "mn",
+   "text": "Эмээ нас бар___ хойш бид жил бүр түүний төрсөн өдрөөр уулзаж дурсдаг.",
+   "answer": "снаас",
+   "options": [
+    "снаас",
+    "ж",
+    "вал",
+    "на"
+   ],
+   "translation": "Since Grandma passed away, we meet every year on her birthday to remember her.",
+   "explain_en": "'Хойш' (since) needs the past participle in the ablative case: барсан + аас → 'барснаас хойш'.",
+   "explain_mn": "'Хойш' үгийн өмнө үйл үг өнгөрсөн цагийн нэр үйл, гарах тийн ялгалтай ордог: 'барснаас хойш'."
+  },
+  {
+   "lang": "en",
+   "text": "It has been five years ___ we lost him.",
+   "answer": "since",
+   "options": [
+    "since",
+    "for",
+    "ago",
+    "when"
+   ],
+   "translation": "Түүнийг алдаад таван жил болж байна.",
+   "explain_en": "After 'It has been + time', use 'since' + the event in the past tense. 'For' and 'ago' don't fit this structure.",
+   "explain_mn": "'It has been + хугацаа'-ийн дараа үйл явдлыг 'since'-ээр холбоно. 'For' зөвхөн хугацааны өмнө, 'ago' хугацааны ард ордог."
+  },
+  {
+   "lang": "en",
+   "text": "She would have ___ eighty today.",
+   "answer": "turned",
+   "options": [
+    "turned",
+    "turn",
+    "turning",
+    "turns"
+   ],
+   "translation": "Тэр өнөөдөр наян нас хүрэх байсан.",
+   "explain_en": "'Would have' is always followed by the past participle (V3): 'would have turned'.",
+   "explain_mn": "'Would have'-ийн дараа үргэлж үйл үгийн гуравдугаар хэлбэр (V3) ордог: 'would have turned'."
+  },
+  {
+   "lang": "en",
+   "text": "We are gathered here to celebrate her life and honor her ___.",
+   "answer": "memory",
+   "options": [
+    "memory",
+    "memories",
+    "remember",
+    "souvenir"
+   ],
+   "translation": "Бид түүний амьдралыг дурсан, дурсгалыг нь хүндэтгэхээр энд цугларлаа.",
+   "explain_en": "'Honor someone's memory' is a set phrase in eulogies and uses singular 'memory'. A 'souvenir' is something you buy on a trip.",
+   "explain_mn": "'Honor her memory' буюу 'дурсгалыг нь хүндэтгэх' нь тогтсон хэллэг тул ганц тоогоор хэрэглэнэ. 'Souvenir' бол аяллын бэлэг дурсгалын зүйл."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Өнөөдөр аав өөд болоод яг гурван жил болж байна. Би хэдэн үг хэлмээр байна.",
+   "en": "Today it has been exactly three years since Dad passed away. I'd like to say a few words.",
+   "mn_latin": "Önöödör aav ööd bolood yag gurvan jil bolj baina. Bi kheden üg khelmeer baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэгээрэй. Аав чинь баяртай мэдээ сонсохдоо хамгийн их баярладаг хүн байсан.",
+   "en": "Please do. Your dad was always the happiest person when he heard good news.",
+   "mn_latin": "Tegeerei. Aav chini bayartai medee sonsokhdoo khamgiin ikh bayarladag khün baisan."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм ээ. Энэ жил манайд хоёр том баяр болсон: Тэмүүжин хурим хийж, Номин охинтой болсон.",
+   "en": "Yes. Our family had two big celebrations this year: Temuujin got married, and Nomin had a baby girl.",
+   "mn_latin": "Tiim ee. Ene jil manaid khoyor tom bayar bolson: Temüüjin khurim khiij, Nomin okhintoi bolson."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Аав амьд байсан бол ач охиноо тэвэрч, хамгийн түрүүнд ерөөл хэлэх байсан даа.",
+   "en": "If he were alive, he would have held his granddaughter and been the first to give his blessing.",
+   "mn_latin": "Aav amid baisan bol ach okhinoo teverch, khamgiin türüünd yerööl khelekh baisan daa."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Би түүний цагийг өвлөж авсан. Харах болгондоо \"цагаа хүндэл\" гэдэг үгийг нь санадаг.",
+   "en": "I inherited his watch. Every time I look at it, I remember him saying, \"Respect your time.\"",
+   "mn_latin": "Bi tüünii tsagiig övlöj avsan. Kharakh bolgondoo \"tsagaa khündel\" gedeg ügiig ni sanadag."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Гуниг арилаагүй ч одоо бид сайхан дурсамжаараа тайвширч сурч байна.",
+   "en": "The grief hasn't gone away, but now we're learning to find peace in our good memories.",
+   "mn_latin": "Gunig arilaagüi ch odoo bid saikhan dursamjaaraa taivshirch surch baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Аав минь, бид таныг үргэлж дурсана. Таны сургаалыг хойч үедээ өвлүүлнэ.",
+   "en": "Dad, we will always remember you. We will pass your teachings on to the next generation.",
+   "mn_latin": "Aav mini, bid tanyg ürgelj dursana. Tany surgaalyg khoich üyedee övlüülne."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Сайхан хэллээ. Одоо бүгдээрээ түүний дуртай дууг дуулцгаая.",
+   "en": "Beautifully said. Now let's all sing his favorite song together.",
+   "mn_latin": "Saikhan khellee. Odoo bügdeeree tüünii durtai duug duultsgaaya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, families traditionally mark the 49th day after a death (дөчин есөн хоног) and then the yearly anniversaries, often by lighting butter lamps at a monastery, visiting the grave and sharing a meal together. During the first year of mourning some families postpone big celebrations, so it is common to mention the departed warmly when a later wedding or birth brings everyone together.",
+  "mn": "Монголд хүн нас барсны дараа дөчин есөн хоногийг нь гаргаж, дараа нь жил бүрийн ойг нь тэмдэглэдэг заншилтай. Энэ үеэр ихэвчлэн хийдэд зул өргөж, булшинд нь очиж, гэр бүлээрээ хамт хоол иддэг. Гашуудлын эхний жилд зарим гэр бүл том баяр хойшлуулдаг тул дараа нь хурим эсвэл хүүхэд төрөхөд бүгд цуглахдаа талийгаачийг дулаахан дурсах нь түгээмэл."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "Solid, natural lesson. Fixes cover one ambiguous blank, a wrong word for 'grave', and a few awkward phrasings."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "The lesson is largely accurate. The fixes correct malformed distractor forms and one grammar term in the Mongolian explanation.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Vowel harmony: өвлө- takes the ending -вөл, not -вэл."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'хаар' gives the non-form 'бархаар'; replaced it with a correctly formed distractor."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "The correct grammar term is 'гарах тийн ялгал', not 'гарахын'."
+   }
+  ]
+ }
+}

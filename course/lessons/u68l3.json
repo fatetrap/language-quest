@@ -1,0 +1,474 @@
+{
+ "intro_en": "You will learn to compare apartments and neighborhoods, weighing rent, size, location and noise. You will also use ижил and адил in noun phrases, like 'the same ... as' and 'similar to'.",
+ "intro_mn": "Та орон сууц болон хорооллыг үнэ, хэмжээ, байршил, чимээ шуугианаар нь харьцуулж сурна. Мөн ижил, адил гэсэн үгсийг нэр үг, тэмдэг нэртэй хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "түрээс",
+   "en": "rent",
+   "pos": "noun",
+   "example_mn": "Энэ байрны түрээс хэтэрхий өндөр байна.",
+   "example_en": "The rent for this apartment is too high.",
+   "mn_latin": "türees"
+  },
+  {
+   "mn": "байршил",
+   "en": "location",
+   "pos": "noun",
+   "example_mn": "Энэ байрны байршил маш сайн.",
+   "example_en": "The location of this apartment is very good.",
+   "mn_latin": "bairshil"
+  },
+  {
+   "mn": "хороолол",
+   "en": "neighborhood / residential district",
+   "pos": "noun",
+   "example_mn": "Шинэ хороолол нь нам гүм.",
+   "example_en": "The new neighborhood is quiet.",
+   "mn_latin": "khoroolol"
+  },
+  {
+   "mn": "хэмжээ",
+   "en": "size",
+   "pos": "noun",
+   "example_mn": "Хоёр байрны хэмжээ ойролцоо.",
+   "example_en": "The two apartments are about the same size.",
+   "mn_latin": "khemjee"
+  },
+  {
+   "mn": "чимээ шуугиан",
+   "en": "noise",
+   "pos": "noun",
+   "example_mn": "Төвд шөнийн чимээ шуугиан их байдаг.",
+   "example_en": "There is a lot of noise at night in the center.",
+   "mn_latin": "chimee shuugian"
+  },
+  {
+   "mn": "давуу тал",
+   "en": "advantage / pro",
+   "pos": "noun",
+   "example_mn": "Төвд байх нь давуу талтай.",
+   "example_en": "Being in the center has its advantages.",
+   "mn_latin": "davuu tal"
+  },
+  {
+   "mn": "сул тал",
+   "en": "disadvantage / con",
+   "pos": "noun",
+   "example_mn": "Холоос ажилд явах нь сул тал юм.",
+   "example_en": "Commuting from far away is a disadvantage.",
+   "mn_latin": "sul tal"
+  },
+  {
+   "mn": "тохилог",
+   "en": "cozy, comfortable",
+   "pos": "adjective",
+   "example_mn": "Тэр байр жижиг ч тохилог.",
+   "example_en": "That apartment is small but cozy.",
+   "mn_latin": "tokhilog"
+  },
+  {
+   "mn": "зарцуулах",
+   "en": "to spend",
+   "pos": "verb",
+   "example_mn": "Бид түрээсэнд цалингийнхаа талыг зарцуулдаг.",
+   "example_en": "We spend half of our salary on rent.",
+   "mn_latin": "zartsuulakh"
+  },
+  {
+   "mn": "нүүх",
+   "en": "to move (house)",
+   "pos": "verb",
+   "example_mn": "Бид шинэ хороолол руу нүүхээр шийдсэн.",
+   "example_en": "We decided to move to the new district.",
+   "mn_latin": "nüükh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Төвийн байр шинэ хорооллын байртай ижил үнэтэй.",
+   "en": "The central apartment costs the same as the one in the new district.",
+   "alt_mn": [
+    "Төвийн байрны үнэ шинэ хорооллын байрныхтай ижил."
+   ],
+   "alt_en": [
+    "The central apartment is the same price as the one in the new district."
+   ],
+   "mn_latin": "Töviin bair shine khoroollyn bairtai ijil ünetei."
+  },
+  {
+   "mn": "Эдгээр хоёр байр адилхан том.",
+   "en": "These two apartments are equally big.",
+   "alt_mn": [
+    "Эдгээр хоёр байр ижил хэмжээтэй."
+   ],
+   "alt_en": [
+    "These two apartments are the same size."
+   ],
+   "mn_latin": "Edgeer khoyor bair adilkhan tom."
+  },
+  {
+   "mn": "Миний хуучин байртай ижил хэмжээний байр хайж байна.",
+   "en": "I'm looking for an apartment of the same size as my old one.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm looking for an apartment the same size as my old one."
+   ],
+   "mn_latin": "Minii khuuchin bairtai ijil khemjeenii bair khaij baina."
+  },
+  {
+   "mn": "Шинэ хорооллын түрээс төвийнхөөс хямд.",
+   "en": "The rent in the new district is cheaper than in the center.",
+   "alt_mn": [],
+   "alt_en": [
+    "Rent in the new district is lower than in the center."
+   ],
+   "mn_latin": "Shine khoroollyn türees töviinkhöös khyamd."
+  },
+  {
+   "mn": "Төвийн байрны давуу тал нь ажилд ойр байдаг явдал юм.",
+   "en": "The advantage of the central apartment is that it is close to work.",
+   "alt_mn": [],
+   "alt_en": [
+    "The central apartment's advantage is being close to work."
+   ],
+   "mn_latin": "Töviin bairny davuu tal ni ajild oir baidag yavdal yum."
+  },
+  {
+   "mn": "Харин сул тал нь шөнө чимээ шуугиан ихтэй байдаг явдал юм.",
+   "en": "The disadvantage, however, is that it is noisy at night.",
+   "alt_mn": [],
+   "alt_en": [
+    "The downside, though, is the noise at night."
+   ],
+   "mn_latin": "Kharin sul tal ni shönö chimee shuugian ikhtei baidag yavdal yum."
+  },
+  {
+   "mn": "Шинэ хороолол төвөөс өөр, илүү нам гүм.",
+   "en": "The new district is different from the center and quieter.",
+   "alt_mn": [],
+   "alt_en": [
+    "The new district is different from the center; it is quieter."
+   ],
+   "mn_latin": "Shine khoroolol tövöös öör, ilüü nam güm."
+  },
+  {
+   "mn": "Энэ байр миний найзынхтай төстэй.",
+   "en": "This apartment is similar to my friend's.",
+   "alt_mn": [
+    "Энэ байр миний найзын байртай төстэй."
+   ],
+   "alt_en": [
+    "This apartment is like my friend's."
+   ],
+   "mn_latin": "Ene bair minii naizynkhtai töstei."
+  },
+  {
+   "mn": "Бид түрээсэнд цалингийнхаа гуравны нэгийг зарцуулдаг.",
+   "en": "We spend a third of our salary on rent.",
+   "alt_mn": [],
+   "alt_en": [
+    "We spend one third of our salary on rent."
+   ],
+   "mn_latin": "Bid türeesend tsalingiinkhaa guravny negiig zartsuuldag."
+  },
+  {
+   "mn": "Хоёр хорооллын автобусны үнэ ижил.",
+   "en": "The bus fare is the same in both districts.",
+   "alt_mn": [
+    "Хоёр хорооллын автобусны үнэ адилхан."
+   ],
+   "alt_en": [
+    "Bus fares are the same in both districts."
+   ],
+   "mn_latin": "Khoyor khoroollyn avtobusny üne ijil."
+  },
+  {
+   "mn": "Төвийн байр жижиг ч тохилог.",
+   "en": "The central apartment is small but cozy.",
+   "alt_mn": [],
+   "alt_en": [
+    "The apartment in the center is small, but it's cozy."
+   ],
+   "mn_latin": "Töviin bair jijig ch tokhilog."
+  },
+  {
+   "mn": "Бид шинэ хороолол руу нүүхээр шийдлээ.",
+   "en": "We decided to move to the new district.",
+   "alt_mn": [],
+   "alt_en": [
+    "We have decided to move to the new district."
+   ],
+   "mn_latin": "Bid shine khoroolol ruu nüükheer shiidlee."
+  }
+ ],
+ "grammar": {
+  "title_en": "ижил and адил in noun phrases",
+  "title_mn": "Нэр үг, тэмдэг нэртэй ижил, адил хэрэглэх нь",
+  "explain_en": "Put ижил or адил before an adjective or noun to say 'the same' or 'equally'. ижил үнэтэй = the same price; адил том = equally big; ижил хэмжээний байр = an apartment of the same size. To say 'the same as X', put X in the comitative case (-тай/-тэй/-той) before ижил: «танайхтай ижил үнэтэй» = the same price as yours. ижил is the more common choice for measurable things (price, size), and адил is common with adjectives. For 'similar to', use -тай төстэй, and for 'different from', use -аас/-ээс өөр: «төвөөс өөр» = different from the center.",
+  "explain_mn": "Англи хэлэнд 'the same ... as' бүтцийг хэрэглэнэ: the same price as, the same size as. Монголоор «-тай ижил» гэж хэлдэг бол англиар 'the same' нэрийн өмнө, 'as' нь харьцуулах зүйлийн өмнө орно: the same size as mine. 'Similar to' нь «-тай төстэй», 'different from' нь «-аас өөр» гэсэн утгатай. Жишээ: This apartment is different from that one. Энэ байр тэр байраас өөр.",
+  "examples": [
+   {
+    "mn": "Энэ байр танайхтай ижил үнэтэй.",
+    "en": "This apartment costs the same as yours.",
+    "mn_latin": "Ene bair tanaikhtai ijil ünetei."
+   },
+   {
+    "mn": "Хоёр өрөө адил том.",
+    "en": "The two rooms are equally big.",
+    "mn_latin": "Khoyor öröö adil tom."
+   },
+   {
+    "mn": "Бид ижил хэмжээний байр хайж байна.",
+    "en": "We are looking for an apartment of the same size.",
+    "mn_latin": "Bid ijil khemjeenii bair khaij baina."
+   },
+   {
+    "mn": "Энэ хороолол төвөөс өөр.",
+    "en": "This district is different from the center.",
+    "mn_latin": "Ene khoroolol tövöös öör."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ байр тэр байр___ ижил үнэтэй.",
+   "answer": "тай",
+   "options": [
+    "тай",
+    "аас",
+    "руу",
+    "ийг"
+   ],
+   "translation": "This apartment costs the same as that one.",
+   "explain_en": "'The same as X' uses the comitative -тай before ижил.",
+   "explain_mn": "«X-тай ижил» бүтцэд хамт олгох ялгал -тай орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хоёр өрөө ___ том байна.",
+   "answer": "адил",
+   "options": [
+    "адил",
+    "өөр",
+    "хямд",
+    "хол"
+   ],
+   "translation": "The two rooms are equally big.",
+   "explain_en": "адил before an adjective means 'equally'.",
+   "explain_mn": "Тэмдэг нэрийн өмнө «адил» нь 'адилхан' гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Шинэ хороолол төв___ өөр, илүү нам гүм.",
+   "answer": "өөс",
+   "options": [
+    "өөс",
+    "тэй",
+    "рүү",
+    "ийн"
+   ],
+   "translation": "The new district is different from the center, and quieter.",
+   "explain_en": "'Different from' takes the ablative: төвөөс өөр. Because төв contains ө, the ending is -өөс.",
+   "explain_mn": "«-аас өөр» бүтцэд гарах ялгал орно; төв гэдэг үг ө эгшигтэй тул эгшиг зохицлоор -өөс болно."
+  },
+  {
+   "lang": "en",
+   "text": "My new apartment is the same size ___ my old one.",
+   "answer": "as",
+   "options": [
+    "as",
+    "than",
+    "to",
+    "from"
+   ],
+   "translation": "Миний шинэ байр хуучин байртайгаа ижил хэмжээтэй.",
+   "explain_en": "We say 'the same ... as'.",
+   "explain_mn": "Англиар 'the same ... as' гэж хэлнэ, 'than' биш."
+  },
+  {
+   "lang": "en",
+   "text": "The new district is quite different ___ the city center.",
+   "answer": "from",
+   "options": [
+    "from",
+    "as",
+    "of",
+    "with"
+   ],
+   "translation": "Шинэ хороолол хотын төвөөс нэлээд өөр.",
+   "explain_en": "'Different from' is the standard American form.",
+   "explain_mn": "«Өөр» гэдгийг 'different from' гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "This apartment is similar ___ the one we saw yesterday.",
+   "answer": "to",
+   "options": [
+    "to",
+    "as",
+    "from",
+    "than"
+   ],
+   "translation": "Энэ байр бидний өчигдөр үзсэн байртай төстэй.",
+   "explain_en": "'Similar' is followed by 'to'.",
+   "explain_mn": "'Similar' үгийн дараа 'to' орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Төвийн байр ба шинэ хорооллын байрыг харьцуулъя.",
+   "en": "Let's compare the central apartment and the one in the new district.",
+   "mn_latin": "Töviin bair ba shine khoroollyn bairyg kharitsuulya."
+  },
+  {
+   "speaker": "Майк",
+   "mn": "Хоёр байр ижил хэмжээтэй, гэхдээ түрээс нь адил биш.",
+   "en": "They are the same size, but the rent isn't the same.",
+   "mn_latin": "Khoyor bair ijil khemjeetei, gekhdee türees ni adil bish."
+  },
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Тийм ээ, төвийнх 300 мянгаар илүү үнэтэй.",
+   "en": "Right, the central one is 300,000 tugriks more expensive.",
+   "mn_latin": "Tiim ee, töviinkh 300 myangaar ilüü ünetei."
+  },
+  {
+   "speaker": "Майк",
+   "mn": "Харин төвийн байр ажилд ойр, автобусны мөнгө хэмнэнэ.",
+   "en": "But the central one is close to work, so we'd save on bus fare.",
+   "mn_latin": "Kharin töviin bair ajild oir, avtobusny möngö khemnene."
+  },
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Гэхдээ шөнө чимээ шуугиан ихтэй гэсэн сул тал бий.",
+   "en": "But it has the disadvantage of a lot of noise at night.",
+   "mn_latin": "Gekhdee shönö chimee shuugian ikhtei gesen sul tal bii."
+  },
+  {
+   "speaker": "Майк",
+   "mn": "Шинэ хороолол нам гүм, гэхдээ төвөөс хол.",
+   "en": "The new district is quiet, but far from the center.",
+   "mn_latin": "Shine khoroolol nam güm, gekhdee tövöös khol."
+  },
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Би нам гүм байрыг илүүд үздэг юм.",
+   "en": "I prefer a quiet place.",
+   "mn_latin": "Bi nam güm bairyg ilüüd üzdeg yum."
+  },
+  {
+   "speaker": "Майк",
+   "mn": "За, тэгвэл шинэ хороолол руу нүүе.",
+   "en": "Okay, then let's move to the new district.",
+   "mn_latin": "Za, tegvel shine khoroolol ruu nüüye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many people weigh living in the crowded center against newer districts or apartment complexes, mainly because of traffic, air quality and rent. Rush-hour traffic can make a short distance take a long time, so a location close to work is a big advantage. Many families also compare ger districts with apartments, where heating and water are major factors.",
+  "mn": "Улаанбаатарт олон хүн хүн ам шигүү төв болон шинэ хороолол, орон сууцны цогцолборын хооронд замын түгжрэл, агаарын чанар, түрээсийг харгалзан сонголт хийдэг. Ачаалалтай цагт богино зайг ч туулахад удаан хугацаа шаардагддаг тул ажилд ойр байршил нь том давуу тал болдог. Мөн олон айл гэр хороолол, орон сууцыг халаалт, усны асуудлаар нь харьцуулдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 18,
+  "notes": "Mostly good, but several Mongolian sentences are ungrammatical or unnatural (sentences 4, 5, 7; 'нэр томьёо' misused in intro and grammar title)."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "Replaced шилжин суурьших with нүүх everywhere, fixed the vowel-harmony explanation, and made the fill-in-the-blank answers unambiguous.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "mn",
+    "why": "шилжин суурьших means migrate/resettle; нүүх is the normal verb for moving house"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "en",
+    "why": "match нүүх"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "natural verb for moving house"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "natural verb for moving house"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "the clause before явдал had no verb"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "шилжин суурьшъя is unnatural for moving house"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "тэд is not used for things"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "ойролцоо means approximately, not 'similar to'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "the course uses American English (apartment, not flat)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "unclear wording"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "ө is not a masculine (эрэгтэй) vowel"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "the reflexive -тайгаа is the natural form here"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'different than' is also accepted in American English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "text",
+    "why": "American English (apartment, not flat)"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": null
+   }
+  ]
+ }
+}

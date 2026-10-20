@@ -1,0 +1,415 @@
+{
+ "intro_en": "Pack the car, beat the Friday traffic, and arrive at the summer cottage! You'll learn zuslan words like байшин, хашаа, худаг, саун and тагт, how to use бүх and бүгд (бүгдээрээ) for \"all/everyone,\" and English container phrases like \"a bag of,\" \"a box of,\" and \"a can of.\"",
+ "intro_mn": "Ачаагаа ачаад, баасан гарагийн түгжрэлээс өмнө хотоос гарч, зуслан руугаа явцгаая! Энэ хичээлээр байшин, хашаа, худаг, саун, тагт зэрэг зуслангийн үгс, бүх ба бүгд (бүгдээрээ)-ийн ялгааг үзнэ. Мөн англи хэлний \"a bag of, a box of, a can of\" гэх мэт сав, хэмжээ заасан хэллэгийг сурна.",
+ "vocab": [
+  {
+   "mn": "зуслан",
+   "en": "summer cottage",
+   "pos": "noun",
+   "example_mn": "Бид амралтын өдрүүдэд зуслан руугаа явдаг.",
+   "example_en": "We go to our summer cottage on weekends.",
+   "mn_latin": "zuslan"
+  },
+  {
+   "mn": "байшин",
+   "en": "house",
+   "pos": "noun",
+   "example_mn": "Манай зуслангийн байшин модоор хийсэн.",
+   "example_en": "Our cottage house is made of wood.",
+   "mn_latin": "baishin"
+  },
+  {
+   "mn": "хашаа",
+   "en": "fence; yard",
+   "pos": "noun",
+   "example_mn": "Гарахдаа хашааны хаалгыг түгжээрэй.",
+   "example_en": "Lock the yard gate when you leave.",
+   "mn_latin": "khashaa"
+  },
+  {
+   "mn": "худаг",
+   "en": "well",
+   "pos": "noun",
+   "example_mn": "Худгаас ус авчраарай.",
+   "example_en": "Bring some water from the well.",
+   "mn_latin": "khudag"
+  },
+  {
+   "mn": "саун",
+   "en": "sauna",
+   "pos": "noun",
+   "example_mn": "Орой саун халаая.",
+   "example_en": "Let's heat up the sauna this evening.",
+   "mn_latin": "saun"
+  },
+  {
+   "mn": "тагт",
+   "en": "balcony; porch",
+   "pos": "noun",
+   "example_mn": "Бид өглөө тагтан дээр цай уусан.",
+   "example_en": "We had tea on the porch in the morning.",
+   "mn_latin": "tagt"
+  },
+  {
+   "mn": "ачаа",
+   "en": "luggage; load",
+   "pos": "noun",
+   "example_mn": "Ачаагаа машинд хийсэн үү?",
+   "example_en": "Did you put your luggage in the car?",
+   "mn_latin": "achaa"
+  },
+  {
+   "mn": "ачих",
+   "en": "to load",
+   "pos": "verb",
+   "example_mn": "Хүүхдүүд хайрцгуудыг машинд ачлаа.",
+   "example_en": "The kids loaded the boxes into the car.",
+   "mn_latin": "achikh"
+  },
+  {
+   "mn": "түгжрэл",
+   "en": "traffic jam",
+   "pos": "noun",
+   "example_mn": "Баасан гарагийн орой хотоос гарах замд их түгжрэл байдаг.",
+   "example_en": "On Friday evenings there's heavy traffic on the roads out of the city.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "бүгдээрээ",
+   "en": "all together; everyone",
+   "pos": "pronoun",
+   "example_mn": "Бүгдээрээ машиндаа суугаарай.",
+   "example_en": "Everybody, get in the car.",
+   "mn_latin": "bügdeeree"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Баасан гарагийн оройн түгжрэлээс өмнө хотоос гарах хэрэгтэй.",
+   "en": "We need to get out of the city before the Friday evening traffic.",
+   "alt_mn": [
+    "Баасан гарагийн оройн түгжрэл эхлэхээс өмнө хотоос гарах ёстой."
+   ],
+   "alt_en": [
+    "We have to leave the city before the Friday evening traffic jam."
+   ],
+   "mn_latin": "Baasan garagiin oroin tügjrelees ömnö khotoos garakh kheregtei."
+  },
+  {
+   "mn": "Бүх ачаагаа машинд ачсан уу?",
+   "en": "Did you load all the luggage into the car?",
+   "alt_mn": [
+    "Ачаагаа бүгдийг нь машинд ачсан уу?"
+   ],
+   "alt_en": [
+    "Have you loaded all the luggage into the car?",
+    "Did you load all our bags into the car?"
+   ],
+   "mn_latin": "Bükh achaagaa mashind achsan uu?"
+  },
+  {
+   "mn": "Бүгд ирсэн бол одоо хөдөлье.",
+   "en": "If everyone is here, let's leave now.",
+   "alt_mn": [
+    "Бүх хүн ирсэн бол одоо хөдөлье."
+   ],
+   "alt_en": [
+    "If everybody's here, let's head out now."
+   ],
+   "mn_latin": "Bügd irsen bol odoo khödöliye."
+  },
+  {
+   "mn": "Би дэлгүүрээс нэг уут төмс, хоёр шил ус авлаа.",
+   "en": "I bought a bag of potatoes and two bottles of water at the store.",
+   "alt_mn": [
+    "Би дэлгүүрээс нэг уут төмс, хоёр лонх ус авлаа."
+   ],
+   "alt_en": [
+    "I got a bag of potatoes and two bottles of water at the store."
+   ],
+   "mn_latin": "Bi delgüürees neg uut töms, khoyor shil us avlaa."
+  },
+  {
+   "mn": "Нэг хайрцаг шүдэнз авахаа мартуузай, саун халаах хэрэгтэй.",
+   "en": "Don't forget to get a box of matches; we need to heat up the sauna.",
+   "alt_mn": [
+    "Нэг хайрцаг шүдэнз авахаа битгий мартаарай, саун халаана."
+   ],
+   "alt_en": [
+    "Don't forget a box of matches, because we need to heat the sauna."
+   ],
+   "mn_latin": "Neg khairtsag shüdenz avakhaa martuuzai, saun khalaakh kheregtei."
+  },
+  {
+   "mn": "Зуслангийн хашааны хаалга зэвэрсэн байна.",
+   "en": "The gate of the cottage yard has gotten rusty.",
+   "alt_mn": [],
+   "alt_en": [
+    "The cottage's yard gate is rusty."
+   ],
+   "mn_latin": "Zuslangiin khashaany khaalga zeversen baina."
+  },
+  {
+   "mn": "Худгийн ус их хүйтэн, гэхдээ маш цэвэр.",
+   "en": "The well water is very cold, but it's very clean.",
+   "alt_mn": [
+    "Худгийн ус маш хүйтэн боловч их цэвэр."
+   ],
+   "alt_en": [
+    "The water from the well is really cold but very clean."
+   ],
+   "mn_latin": "Khudgiin us ikh khüiten, gekhdee mash tsever."
+  },
+  {
+   "mn": "Бүх хүн тагтан дээр гарч нар жаргахыг харцгаасан.",
+   "en": "Everyone went out on the balcony and watched the sunset.",
+   "alt_mn": [
+    "Бүгдээрээ тагтан дээр гарч нар жаргахыг харсан."
+   ],
+   "alt_en": [
+    "Everybody went out onto the porch and watched the sun go down."
+   ],
+   "mn_latin": "Bükh khün tagtan deer garch nar jargakhyg khartsgaasan."
+  },
+  {
+   "mn": "Аав аа, нэг лааз будаг авчирсан уу? Би хашаагаа будах гэсэн юм.",
+   "en": "Dad, did you bring a can of paint? I wanted to paint the fence.",
+   "alt_mn": [],
+   "alt_en": [
+    "Dad, did you bring a can of paint? I was going to paint the fence."
+   ],
+   "mn_latin": "Aav aa, neg laaz budag avchirsan uu? Bi khashaagaa budakh gesen yum."
+  },
+  {
+   "mn": "Замдаа бүгдээрээ дуу дуулж явлаа.",
+   "en": "We all sang songs together on the way.",
+   "alt_mn": [
+    "Замдаа бид бүгдээрээ дуулж явсан."
+   ],
+   "alt_en": [
+    "On the way, we all sang songs together."
+   ],
+   "mn_latin": "Zamdaa bügdeeree duu duulj yavlaa."
+  },
+  {
+   "mn": "Хүүхдүүд бүгд саунд орохыг хүссэн.",
+   "en": "The kids all wanted to go into the sauna.",
+   "alt_mn": [
+    "Бүх хүүхэд саунд орохыг хүссэн."
+   ],
+   "alt_en": [
+    "All the children wanted to go into the sauna."
+   ],
+   "mn_latin": "Khüükhdüüd bügd saund orokhyg khüssen."
+  },
+  {
+   "mn": "Зуслан руугаа явах болгондоо бид нэг боодол түлээ авдаг.",
+   "en": "Every time we go to the cottage, we buy a bundle of firewood.",
+   "alt_mn": [
+    "Зуслан руугаа явахдаа бид үргэлж нэг боодол түлээ авдаг."
+   ],
+   "alt_en": [
+    "Whenever we go to the cottage, we pick up a bundle of firewood."
+   ],
+   "mn_latin": "Zuslan ruugaa yavakh bolgondoo bid neg boodol tülee avdag."
+  }
+ ],
+ "grammar": {
+  "title_en": "бүх vs бүгд: saying \"all\" and \"everyone\" in Mongolian",
+  "title_mn": "Бүх ба бүгд: \"all\", \"everyone\" гэдгийг монголоор илэрхийлэх нь",
+  "explain_en": "Mongolian has two words for \"all,\" and they do different jobs. **бүх** always comes *before* a noun, like an adjective, and never takes endings: бүх хүн (everyone), бүх ачаа (all the luggage), бүх юмаа (all our things). The noun after бүх is usually singular. **бүгд** stands *on its own* as a pronoun, or comes *after* a noun: Бүгд ирсэн (Everyone came), Хүүхдүүд бүгд (the kids, all of them). Because it is a pronoun, бүгд takes case endings: бүгдийг нь (all of them, as an object), бүгдэд (to everyone). **бүгдээрээ** means \"all together, as a group\": Бүгдээрээ хөдөлье! (Let's all go!). A quick test: if a noun follows, use бүх. If no noun follows, use бүгд.",
+  "explain_mn": "Монгол хэлэнд \"all\" гэсэн утгатай хоёр үг байдаг бөгөөд тэдгээрийн үүрэг өөр. **бүх** нь үргэлж нэр үгийн *өмнө* тодотгол болж ордог бөгөөд нөхцөл залгахгүй: бүх хүн (everyone), бүх ачаа (all the luggage), бүх юмаа (all our things). бүх-ийн араас орох нэр үг ихэвчлэн ганц тоотой байдаг. **бүгд** нь *бие даан* төлөөний үг болж ордог, эсвэл нэр үгийн *араас* ордог: Бүгд ирсэн (Everyone came), Хүүхдүүд бүгд (the kids, all of them). Төлөөний үг учраас бүгд тийн ялгалын нөхцөл авдаг: бүгдийг нь (all of them, тусагдахуун болж), бүгдэд (to everyone). **бүгдээрээ** нь \"хамтдаа, бүгд нэг дор\" гэсэн утгатай: Бүгдээрээ хөдөлье! (Let's all go!). Шалгах арга: араас нь нэр үг орж байвал бүх-ийг, нэр үг орохгүй бол бүгд-ийг хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Бүх хүүхэд машинд суусан.",
+    "en": "All the kids got in the car.",
+    "mn_latin": "Bükh khüükhed mashind suusan."
+   },
+   {
+    "mn": "Хүүхдүүд бүгд машинд суусан.",
+    "en": "The kids all got in the car.",
+    "mn_latin": "Khüükhdüüd bügd mashind suusan."
+   },
+   {
+    "mn": "Бүгдээрээ хашаагаа будъя.",
+    "en": "Let's all paint the fence together.",
+    "mn_latin": "Bügdeeree khashaagaa budya."
+   },
+   {
+    "mn": "Нэг уут төмс, гурван лааз загас авлаа.",
+    "en": "I bought a bag of potatoes and three cans of fish.",
+    "mn_latin": "Neg uut töms, gurvan laaz zagas avlaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "___ хүн машиндаа суусан уу?",
+   "answer": "Бүх",
+   "options": [
+    "Бүх",
+    "Бүгд",
+    "Бүгдээрээ",
+    "Бүгдийг"
+   ],
+   "translation": "Has everyone gotten in the car?",
+   "explain_en": "A noun (хүн) follows directly, so you need бүх, which goes in front of a noun like an adjective. Бүгд and бүгдээрээ stand on their own and can't sit before a noun.",
+   "explain_mn": "Араас нь нэр үг (хүн) орж байгаа тул нэр үгийн өмнө тодотгол болж ордог \"бүх\"-ийг хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүүхдүүд ___ саунд орсон.",
+   "answer": "бүгд",
+   "options": [
+    "бүгд",
+    "бүх",
+    "бүгдийн",
+    "бүгдэд"
+   ],
+   "translation": "The kids all went into the sauna.",
+   "explain_en": "Here \"all\" comes after the noun хүүхдүүд, so it must be бүгд. Бүх can't follow a noun. It is the subject, so бүгд takes no case ending.",
+   "explain_mn": "Нэр үгийн араас орж, \"тэд бүгд\" гэсэн утгатай тул \"бүгд\" ордог. Нөхцөл залгах шаардлагагүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Орой ___ тагтан дээр хоол идье.",
+   "answer": "бүгдээрээ",
+   "options": [
+    "бүгдээрээ",
+    "бүх",
+    "бүгдийг",
+    "бүгдийн"
+   ],
+   "translation": "Let's all eat dinner together on the porch this evening.",
+   "explain_en": "Бүгдээрээ means \"all together, as a group\" and fits a \"let's...\" suggestion. Бүх would need a noun after it, and бүгдийг is an object form.",
+   "explain_mn": "\"Хамтдаа, бүгдээрээ\" гэсэн утгаар уриалах өгүүлбэрт \"бүгдээрээ\" тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "Can you grab a ___ of matches from the kitchen?",
+   "answer": "box",
+   "options": [
+    "box",
+    "can",
+    "bag",
+    "bottle"
+   ],
+   "translation": "Гал тогооноос нэг хайрцаг шүдэнз аваад өгөх үү?",
+   "explain_en": "Matches come in a box, so the natural phrase is \"a box of matches.\"",
+   "explain_mn": "Шүдэнз хайрцагтай байдаг тул \"a box of matches\" гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I bought two ___ of potatoes for the weekend.",
+   "answer": "bags",
+   "options": [
+    "bags",
+    "bag",
+    "cans",
+    "bottles"
+   ],
+   "translation": "Би амралтын өдрүүдэд зориулж хоёр уут төмс авсан.",
+   "explain_en": "After \"two,\" the container is plural: two bags of potatoes. Potatoes come in bags, not cans or bottles.",
+   "explain_mn": "\"two\" гэсэн тул савыг олон тоонд (bags) оруулна. Төмс уутанд байдаг."
+  },
+  {
+   "lang": "en",
+   "text": "We need a can ___ paint for the fence.",
+   "answer": "of",
+   "options": [
+    "of",
+    "for",
+    "with",
+    "—"
+   ],
+   "translation": "Хашаандаа нэг лааз будаг хэрэгтэй.",
+   "explain_en": "Container phrases always use \"of\": a can of paint.",
+   "explain_mn": "Сав заасан хэллэгт заавал \"of\" орно: a can of paint. Монголоор \"нэг лааз будаг\" гэдэг шиг шууд залгаж болохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Бат аа, бүх ачаагаа машинд ачсан уу?",
+   "en": "Bat, did you load all the luggage into the car?",
+   "mn_latin": "Bat aa, bükh achaagaa mashind achsan uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Бараг. Нэг хайрцаг аяга таваг, хоёр уут хүнс л үлдлээ.",
+   "en": "Almost. There's just a box of dishes and two bags of groceries left.",
+   "mn_latin": "Barag. Neg khairtsag ayaga tavag, khoyor uut khüns l üldlee."
+  },
+  {
+   "speaker": "Туяа",
+   "mn": "Ээж ээ, очоод шууд саун халаах уу?",
+   "en": "Mom, are we going to heat up the sauna as soon as we get there?",
+   "mn_latin": "Eej ee, ochood shuud saun khalaakh uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Эхлээд худгаас ус авчирна, дараа нь бүгдээрээ байшингаа цэвэрлэнэ.",
+   "en": "First we'll bring water from the well, and then we'll all clean the house together.",
+   "mn_latin": "Ekhleed khudgaas us avchirna, daraa ni bügdeeree baishingaa tseverlene."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Түгжрэлд орохгүйн тулд одоо хөдөлье.",
+   "en": "Let's leave now so we don't get stuck in traffic.",
+   "mn_latin": "Tügjreld orokhgüin tuld odoo khödöliye."
+  },
+  {
+   "speaker": "Туяа",
+   "mn": "Хөөх, хашаанд цэцэг их ургачихсан байна!",
+   "en": "Wow, lots of flowers have grown in the yard!",
+   "mn_latin": "Khöökh, khashaand tsetseg ikh urgachikhsan baina!"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бүгдээрээ тагтан дээр гараад цай уучихъя.",
+   "en": "Let's all go out on the porch and have some tea.",
+   "mn_latin": "Bügdeeree tagtan deer garaad tsai uuchikhya."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Би машинаас нэг хайрцаг боов авчиръя.",
+   "en": "I'll bring a box of cookies from the car.",
+   "mn_latin": "Bi mashinaas neg khairtsag boov avchirya."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Ulaanbaatar families own or rent a zuslan, a simple summer cottage in the green valleys around the city, such as Gachuurt, Zaisan, or along the road to Terelj. On summer Fridays the roads out of town fill with cars loaded with groceries, firewood, and kids, as people escape the city for fresh air, a wood-fired sauna, and water from the well. Some families even move out for the whole summer and commute to work from the zuslan.",
+  "mn": "Улаанбаатарын олон гэр бүл Гачуурт, Зайсан, Тэрэлжийн зам дагуух ногоон хөндийд энгийн зуны байшин буюу зуслантай, эсвэл зуслан түрээсэлдэг. Зуны баасан гарагт хотоос гарах зам хүнс, түлээ, хүүхдүүдээ ачсан машинаар дүүрдэг. Хүмүүс цэвэр агаар, модоор халаадаг саун, худгийн усыг зорин хотоос гардаг. Зарим гэр бүл зуныг бүхэлд нь зусландаа өнгөрөөж, ажилдаа тэндээсээ явдаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 2,
+  "notes": "A clean, natural lesson with accurate бүх/бүгд explanations and blanks that each have only one correct answer. Only two small wording fixes were needed in the Mongolian text."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 3,
+  "notes": "Main issue: the Mongolian grammar title and explanation covered English container phrases while the English versions covered бүх/бүгд. Both are rewritten to match. The rest of the lesson is largely correct.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "mn title covered a different topic (English containers) than title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation must say the same thing as explain_en (бүх/бүгд), not a different topic"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "aligns with the en version (simple cottage) and replaces the awkward 'тэмүүлдэг' phrasing"
+   }
+  ]
+ }
+}

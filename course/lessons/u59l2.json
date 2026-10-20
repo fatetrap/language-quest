@@ -1,0 +1,550 @@
+{
+ "intro_en": "You will learn to read and give a family recipe for buuz or khuushuur, naming ingredients and quantities and ordering the steps with -аад/-ээд and дараа нь. You will also practice the order of adjectives in English recipe descriptions.",
+ "intro_mn": "Та бууз, хуушуурын гэр бүлийн жорыг уншиж, хэлж өгөх, найрлага болон хэмжээг нэрлэх, алхмуудыг -аад/-ээд болон «дараа нь»-аар дараалуулах, мөн англи хэлний жорын тайлбарт тэмдэг нэрийн дарааллыг зөв хэрэглэх дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "жор",
+   "en": "recipe",
+   "pos": "noun",
+   "example_mn": "Энэ бол манай гэр бүлийн жор.",
+   "example_en": "This is our family recipe.",
+   "mn_latin": "jor"
+  },
+  {
+   "mn": "найрлага",
+   "en": "ingredient(s)",
+   "pos": "noun",
+   "example_mn": "Найрлагаа эхлээд бэлдээрэй.",
+   "example_en": "Prepare the ingredients first.",
+   "mn_latin": "nairlaga"
+  },
+  {
+   "mn": "гурил",
+   "en": "flour",
+   "pos": "noun",
+   "example_mn": "Гурилд ус хийж зуурна.",
+   "example_en": "Add water to the flour and knead it.",
+   "mn_latin": "guril"
+  },
+  {
+   "mn": "зуурах",
+   "en": "to knead",
+   "pos": "verb",
+   "example_mn": "Зуураад хагас цаг амраана.",
+   "example_en": "Knead it and let it rest for half an hour.",
+   "mn_latin": "zuurakh"
+  },
+  {
+   "mn": "сонгино",
+   "en": "onion",
+   "pos": "noun",
+   "example_mn": "Сонгиныг нарийн жижиглэнэ.",
+   "example_en": "Chop the onion finely.",
+   "mn_latin": "songino"
+  },
+  {
+   "mn": "жижиглэх",
+   "en": "to chop",
+   "pos": "verb",
+   "example_mn": "Мах, сонгиноо жижиглээрэй.",
+   "example_en": "Chop the meat and onion.",
+   "mn_latin": "jijiglekh"
+  },
+  {
+   "mn": "жигнүүр",
+   "en": "steamer (tier)",
+   "pos": "noun",
+   "example_mn": "Буузыг жигнүүрт хийж жигнэнэ.",
+   "example_en": "Put the buuz in the steamer and steam it.",
+   "mn_latin": "jignüür"
+  },
+  {
+   "mn": "гадар",
+   "en": "dough sheet (wrapper)",
+   "pos": "noun",
+   "example_mn": "Жижиг дугуй хавтгай гадар элдэнэ.",
+   "example_en": "Roll out a small round flat dough sheet.",
+   "mn_latin": "gadar"
+  },
+  {
+   "mn": "давс",
+   "en": "salt",
+   "pos": "noun",
+   "example_mn": "Хоёр цайны халбага давс хийнэ.",
+   "example_en": "Add two teaspoons of salt.",
+   "mn_latin": "davs"
+  },
+  {
+   "mn": "хэмжээ",
+   "en": "amount, quantity",
+   "pos": "noun",
+   "example_mn": "Давсны хэмжээг сайн анхаараарай.",
+   "example_en": "Pay attention to the amount of salt.",
+   "mn_latin": "khemjee"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ манай өвөөгийн буузны жор.",
+   "en": "This is my grandfather's buuz recipe.",
+   "alt_mn": [
+    "Энэ бол манай өвөөгийн буузны жор."
+   ],
+   "alt_en": [
+    "This is our grandfather's recipe for buuz."
+   ],
+   "mn_latin": "Ene manai övöögiin buuzny jor."
+  },
+  {
+   "mn": "Нэг кг гурил, хоёр аяга ус хэрэгтэй.",
+   "en": "You need one kilogram of flour and two cups of water.",
+   "alt_mn": [
+    "Нэг килограмм гурил, хоёр аяга ус хэрэгтэй."
+   ],
+   "alt_en": [
+    "One kilogram of flour and two cups of water are needed."
+   ],
+   "mn_latin": "Neg kg guril, khoyor ayaga us kheregtei."
+  },
+  {
+   "mn": "Эхлээд гурилаа зуураад хагас цаг тавина.",
+   "en": "First knead the dough, then let it rest for half an hour.",
+   "alt_mn": [
+    "Эхлээд гурилаа зуураад хагас цаг амраана."
+   ],
+   "alt_en": [
+    "First, knead the flour and let it sit for half an hour."
+   ],
+   "mn_latin": "Ekhleed gurilaa zuuraad khagas tsag tavina."
+  },
+  {
+   "mn": "Дараа нь махаа жижиглээрэй.",
+   "en": "After that, chop the meat.",
+   "alt_mn": [
+    "Үүний дараа махаа жижиглээрэй."
+   ],
+   "alt_en": [
+    "Next, chop the meat."
+   ],
+   "mn_latin": "Daraa ni makhaa jijigleerei."
+  },
+  {
+   "mn": "Шинэ сонгиныг нарийн жижиглээд махтай хольно.",
+   "en": "Finely chop the fresh onion and mix it with the meat.",
+   "alt_mn": [
+    "Шинэхэн сонгиныг нарийн жижиглээд махтай хутгана."
+   ],
+   "alt_en": [
+    "Chop the fresh onion finely and mix it into the meat."
+   ],
+   "mn_latin": "Shine songinyg nariin jijigleed makhtai kholino."
+  },
+  {
+   "mn": "Дараа нь давс, чинжүү хийж сайн хутгана.",
+   "en": "Then add salt and pepper and stir well.",
+   "alt_mn": [
+    "Дараа нь давс, чинжүү хийгээд сайн хутгана."
+   ],
+   "alt_en": [
+    "After that, add salt and pepper and mix well."
+   ],
+   "mn_latin": "Daraa ni davs, chinjüü khiij sain khutgana."
+  },
+  {
+   "mn": "Зуурсан гурилыг жижиг дугуй хавтгай гадар болгон элдэнэ.",
+   "en": "Roll the kneaded dough into small round flat sheets.",
+   "alt_mn": [
+    "Зуурсан гурилаа жижиг дугуй хавтгай гадар болгож элдэнэ."
+   ],
+   "alt_en": [
+    "Roll out the dough into small, round, flat sheets."
+   ],
+   "mn_latin": "Zuursan gurilyg jijig dugui khavtgai gadar bolgon eldene."
+  },
+  {
+   "mn": "Гадрын голд махаа хийгээд ирмэгийг нь чимхэнэ.",
+   "en": "Put the meat in the middle of the sheet and pinch the edges.",
+   "alt_mn": [
+    "Гадрын дунд махаа хийгээд амсрыг нь чимхэнэ."
+   ],
+   "alt_en": [
+    "Place the filling in the center of the wrapper and pleat the edges."
+   ],
+   "mn_latin": "Gadryn gold makhaa khiigeed irmegiig ni chimkhene."
+  },
+  {
+   "mn": "Буузыг жигнүүрт хийгээд хорин минут жигнэнэ.",
+   "en": "Put the buuz in the steamer and steam them for twenty minutes.",
+   "alt_mn": [
+    "Буузаа жигнүүрт хийгээд хорин минут жигнээрэй."
+   ],
+   "alt_en": [
+    "Place the buuz in the steamer and steam for twenty minutes."
+   ],
+   "mn_latin": "Buuzyg jignüürt khiigeed khorin minut jignene."
+  },
+  {
+   "mn": "Хуушуур хийхдээ гадрыг дундуур нь нугалж ирмэгийг нь дарж битүүлнэ.",
+   "en": "For khuushuur, fold the flat sheet in half and seal it.",
+   "alt_mn": [
+    "Хуушуур хийхдээ гадраа хагаслан нугалж ирмэгийг нь чимхэнэ."
+   ],
+   "alt_en": [
+    "For khuushuur, fold the flat dough in half and pinch it shut."
+   ],
+   "mn_latin": "Khuushuur khiikhdee gadryg dunduur ni nugalj irmegiig ni darj bitüülne."
+  },
+  {
+   "mn": "Халуун тосонд шарахаасаа өмнө ирмэгийг нь сайн дараарай.",
+   "en": "Seal the edges well before frying in hot oil.",
+   "alt_mn": [
+    "Халуун тосонд хуушуураа шарахаас өмнө ирмэгийг нь сайтар битүүлээрэй."
+   ],
+   "alt_en": [
+    "Before frying in hot oil, close the edges tightly."
+   ],
+   "mn_latin": "Khaluun tosond sharakhaasaa ömnö irmegiig ni sain daraarai."
+  },
+  {
+   "mn": "Давсны хэмжээг анхаараарай, хэт их давс хийж болохгүй.",
+   "en": "Watch the amount of salt; don't add too much.",
+   "alt_mn": [
+    "Давсны хэмжээнд болгоомжтой байгаарай, хэт их хийж болохгүй."
+   ],
+   "alt_en": [
+    "Be careful with the amount of salt; too much is bad."
+   ],
+   "mn_latin": "Davsny khemjeeg ankhaaraarai, khet ikh davs khiij bolokhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Linking steps: -аад/-ээд and дараа нь",
+  "title_mn": "Үйлдлийг дараалуулах: -аад/-ээд ба дараа нь",
+  "explain_en": "In Mongolian recipes, a chain of steps is built with the sequential converb -аад/-ээд/-оод/-өөд, attached to the verb stem (vowel harmony decides the form): зуур- → зуураад, хийх → хийгээд, жижиглэх → жижиглээд. The last verb takes the real ending (-на, -аарай). Use дараа нь (\"after that\") to start a new sentence or a clearly new stage. English uses 'and', 'then' or 'after that'. In English, adjectives follow an order: opinion, size, shape, then color, material: a small round flat dough sheet; finely chopped fresh onion (adverb + participle before the noun).",
+  "explain_mn": "Монгол жорд үйлдлүүдийг үйл үгийн язгуурт залгах -аад/-ээд/-оод/-өөд нөхцөлөөр (эгшиг зохицох ёсоор) холбоно: зуур- → зуураад, хий- → хийгээд, жижиглэ- → жижиглээд. Сүүлийн үйл үг жинхэнэ нөхцөлөө (-на, -аарай) авна. Шинэ өгүүлбэр эсвэл шинэ шат эхлэхэд «дараа нь» хэрэглэнэ. Англиар 'and', 'then', 'after that' ашиглана. Англи хэлэнд тэмдэг нэр нэрийн өмнө тодорхой дарааллаар орно: үнэлгээ → хэмжээ → хэлбэр → өнгө → материал. Жишээ нь: a small round flat dough sheet. 'finely chopped fresh onion' дээр нэрийн өмнө adverb (finely) ба participle (chopped) орсон байна.",
+  "examples": [
+   {
+    "mn": "Гурилаа зуураад хагас цаг тавина.",
+    "en": "Knead the dough and let it rest for half an hour.",
+    "mn_latin": "Gurilaa zuuraad khagas tsag tavina."
+   },
+   {
+    "mn": "Сонгиноо жижиглээд махтай хольж, дараа нь давс хийнэ.",
+    "en": "Chop the onion and mix it with the meat, then add salt.",
+    "mn_latin": "Songinoo jijigleed makhtai kholij, daraa ni davs khiine."
+   },
+   {
+    "mn": "Гадрыг элдээд голд нь мах хийнэ.",
+    "en": "Roll out the sheet and put meat in the middle.",
+    "mn_latin": "Gadryg eldeed gold ni makh khiine."
+   },
+   {
+    "mn": "Нарийн жижиглэсэн шинэ сонгино",
+    "en": "finely chopped fresh onion",
+    "mn_latin": "Nariin jijiglesen shine songino"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гурилаа зуур___ хагас цаг тавина.",
+   "answer": "аад",
+   "options": [
+    "аад",
+    "ээд",
+    "оод",
+    "өөд"
+   ],
+   "translation": "Knead the dough and let it rest for half an hour.",
+   "explain_en": "Зуур- has a back vowel (у), so the converb is -аад.",
+   "explain_mn": "Зуур- гэсэн үгийн эгшиг нь хойд эгшиг тул -аад залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Сонгиноо жижиглэ___ махтай хольно.",
+   "answer": "ээд",
+   "options": [
+    "ээд",
+    "аад",
+    "оод",
+    "өөд"
+   ],
+   "translation": "Chop the onion and mix it with the meat.",
+   "explain_en": "Жижиглэ- has the front vowels и/э, so we use -ээд.",
+   "explain_mn": "Жижиглэ- нь «э» эгшигтэй тул -ээд залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Махаа бэлдсэн. ___ нь боовоо гүйлгэнэ.",
+   "answer": "Дараа",
+   "options": [
+    "Дараа",
+    "Эхлээд",
+    "Одоо",
+    "Үргэлж"
+   ],
+   "translation": "The meat is ready. After that, roll out the dough sheets.",
+   "explain_en": "Дараа нь means 'after that' and introduces the next step.",
+   "explain_mn": "«Дараа нь» нь дараагийн алхмыг эхлүүлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Roll out a ___ round flat dough sheet.",
+   "answer": "small",
+   "options": [
+    "small",
+    "flat",
+    "round",
+    "dough"
+   ],
+   "translation": "Жижиг дугуй хавтгай гадар элдээрэй.",
+   "explain_en": "Size comes before shape: small round flat.",
+   "explain_mn": "Хэмжээ нь хэлбэрийн өмнө орно: small round flat."
+  },
+  {
+   "lang": "en",
+   "text": "Add the ___ chopped fresh onion.",
+   "answer": "finely",
+   "options": [
+    "finely",
+    "fine",
+    "fineness",
+    "finer"
+   ],
+   "translation": "Нарийн жижиглэсэн шинэ сонгиныг нэм.",
+   "explain_en": "An adverb (finely) modifies the participle chopped.",
+   "explain_mn": "Үйл үгийн хэлбэрийг (chopped) adverb (finely) тодорхойлно."
+  },
+  {
+   "lang": "en",
+   "text": "Knead the dough, ___ let it rest.",
+   "answer": "then",
+   "options": [
+    "then",
+    "before",
+    "because",
+    "although"
+   ],
+   "translation": "Гурилаа зуураад дараа нь амраа.",
+   "explain_en": "'Then' links two steps in order, like -аад/дараа нь.",
+   "explain_mn": "'Then' нь -аад/дараа нь шиг үйлдлүүдийг дарааллаар холбоно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Бат, чи манай буузны жорыг мэдэх үү?",
+   "en": "Bat, do you know our buuz recipe?",
+   "mn_latin": "Bat, chi manai buuzny joryg medekh üü?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Үгүй ээ, надад хэлж өгөөч.",
+   "en": "No, could you tell me?",
+   "mn_latin": "Ügüi ee, nadad khelj ögööch."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Эхлээд нэг кг гурилаа зуураад хагас цаг амраана.",
+   "en": "First, knead one kilogram of flour and let it rest for half an hour.",
+   "mn_latin": "Ekhleed neg kg gurilaa zuuraad khagas tsag amraana."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Дараа нь юу хийх вэ?",
+   "en": "What do I do after that?",
+   "mn_latin": "Daraa ni yuu khiikh ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Мах, сонгиноо нарийн жижиглээд давс, чинжүү хийж хутгана.",
+   "en": "Chop the meat and onion finely, add salt and pepper, and mix.",
+   "mn_latin": "Makh, songinoo nariin jijigleed davs, chinjüü khiij khutgana."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Гадрыг яаж хийх вэ?",
+   "en": "How do I make the dough sheets?",
+   "mn_latin": "Gadryg yaaj khiikh ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Жижиг дугуй хавтгай гадар элдээд голд нь мах хийж чимхэнэ.",
+   "en": "Roll out small round flat sheets, put meat in the middle, and pleat them.",
+   "mn_latin": "Jijig dugui khavtgai gadar eldeed gold ni makh khiij chimkhene."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэгээд хорин минут жигнэнэ биз дээ?",
+   "en": "And then steam them for twenty minutes, right?",
+   "mn_latin": "Tegeed khorin minut jignene biz dee?"
+  }
+ ],
+ "culture_note": {
+  "en": "Buuz is the classic dish of Tsagaan Sar, and families often make hundreds together, sometimes thousands. Each family has its own recipe, usually passed down orally with measurements like 'a handful' or 'by eye'. Khuushuur, fried and flatter, is the favorite of Naadam.",
+  "mn": "Бууз бол Цагаан сарын уламжлалт хоол бөгөөд гэр бүлүүд хамтдаа олон зуугаар, заримдаа мянгаар хийдэг. Гэр бүл бүр өөрийн жортой бөгөөд «атга», «нүдээр» гэх мэт хэмжээгээр ихэвчлэн амаар уламжлуулдаг. Шарсан, илүү хавтгай хуушуур бол Наадмын үеийн хамгийн дуртай хоол."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 32,
+  "notes": "Useful lesson but with a Latin-letter typo, a non-word (өрөлнө), wrong 'боовон', steamer term (жигнүүр), and a garbled Mongolian grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 25,
+  "notes": "Main issues: боов/гүйлгэх/атгах replaced with the standard гадар/элдэх/чимхэх everywhere, plus fill-blank stem and option fixes.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "mn",
+    "why": "боов means pastry/biscuit; the buuz/khuushuur wrapper is гадар"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "гадар; dough is rolled out with элдэх, not гүйлгэх"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "a teaspoon is цайны халбага"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "the alternative duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "the alternative duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "гадар, элдэх"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "гадар, элдэх"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "дундаа was ungrammatical; pleating buuz is чимхэх, not атгах"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "гадар, чимхэх"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "several buuz, so 'them'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "the original was ungrammatical and unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "хоёр хуваан means 'split into two', not 'fold in half'"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "edges are pressed shut (дарах), not closed (хаах)"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "битүүлэх means 'to seal'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "brought in line with the English explanation"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "гадар, элдэх, голд нь"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "the stem is жижиглэ-, not жижигле"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "the vowel is э, not е"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "the vowel is э, not е"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "«Өмнө нь» was also grammatical, so the answer was not unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "гадар, элдэх"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "гадар"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "гадар, элдэх, чимхэх"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "«Наадмын дуртай хоол» was unnatural; now matches the English"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "awkward wording; now matches the English"
+   }
+  ]
+ }
+}

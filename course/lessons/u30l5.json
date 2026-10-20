@@ -1,0 +1,460 @@
+{
+ "intro_en": "You will learn to describe a friend's family in a longer text: who the relatives are, what they do, and where they live. You will use Mongolian participles with possessives and cases, and English 'whose' and relative clauses without a pronoun.",
+ "intro_mn": "Та найзынхаа гэр бүлийг урт тайлбараар танилцуулж сурна: төрөл садан нь хэн бэ, юу хийдэг, хаана амьдардаг вэ. Монгол хэлний нөхцөл дагавартай үйлт нэр болон англи хэлний 'whose', холбогч төлөөний үггүй тодотгол өгүүлбэрийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "төрсөн дүү",
+   "en": "younger sibling",
+   "pos": "noun",
+   "example_mn": "Миний найзын төрсөн дүү оюутан.",
+   "example_en": "My friend's younger sibling is a student.",
+   "mn_latin": "törsön düü"
+  },
+  {
+   "mn": "авга ах",
+   "en": "uncle (father's older brother)",
+   "pos": "noun",
+   "example_mn": "Түүний авга ах Дарханд амьдардаг.",
+   "example_en": "His uncle lives in Darkhan.",
+   "mn_latin": "avga akh"
+  },
+  {
+   "mn": "нагац эгч",
+   "en": "aunt (mother's older sister)",
+   "pos": "noun",
+   "example_mn": "Нагац эгч нь эмнэлэгт ажилладаг.",
+   "example_en": "Her aunt works at a hospital.",
+   "mn_latin": "nagats egch"
+  },
+  {
+   "mn": "өвөө",
+   "en": "grandfather",
+   "pos": "noun",
+   "example_mn": "Өвөө нь хөдөө мал маллаж байсан.",
+   "example_en": "His grandfather herded livestock in the countryside.",
+   "mn_latin": "övöö"
+  },
+  {
+   "mn": "эмээ",
+   "en": "grandmother",
+   "pos": "noun",
+   "example_mn": "Эмээ нь маш сайхан бууз хийдэг.",
+   "example_en": "Her grandmother makes very good buuz.",
+   "mn_latin": "emee"
+  },
+  {
+   "mn": "эмч",
+   "en": "doctor",
+   "pos": "noun",
+   "example_mn": "Ээж нь эмч хүн.",
+   "example_en": "Her mother is a doctor.",
+   "mn_latin": "emch"
+  },
+  {
+   "mn": "инженер",
+   "en": "engineer",
+   "pos": "noun",
+   "example_mn": "Аав нь барилгын инженер.",
+   "example_en": "His father is a construction engineer.",
+   "mn_latin": "injyenyer"
+  },
+  {
+   "mn": "төрсөн нутаг",
+   "en": "native land, hometown",
+   "pos": "noun",
+   "example_mn": "Миний төрсөн нутаг Хөвсгөл.",
+   "example_en": "My hometown is Khövsgöl.",
+   "mn_latin": "törsön nutag"
+  },
+  {
+   "mn": "гэр бүл",
+   "en": "family",
+   "pos": "noun",
+   "example_mn": "Тэдний гэр бүл таван хүнтэй.",
+   "example_en": "Their family has five people.",
+   "mn_latin": "ger bül"
+  },
+  {
+   "mn": "хөрш",
+   "en": "neighbor",
+   "pos": "noun",
+   "example_mn": "Манай хөрш миний найз болсон.",
+   "example_en": "Our neighbor became my friend.",
+   "mn_latin": "khörsh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний найзын аав нь барилгын компанид ажилладаг.",
+   "en": "My friend's father works at a construction company.",
+   "alt_mn": [
+    "Миний найзын аав барилгын компанид ажилладаг."
+   ],
+   "alt_en": [
+    "My friend's dad works for a construction company."
+   ],
+   "mn_latin": "Minii naizyn aav ni barilgyn kompanid ajilladag."
+  },
+  {
+   "mn": "Аав нь ажилладаг компани Улаанбаатарт байдаг.",
+   "en": "The company where his father works is in Ulaanbaatar.",
+   "alt_mn": [],
+   "alt_en": [
+    "The company his father works for is in Ulaanbaatar."
+   ],
+   "mn_latin": "Aav ni ajilladag kompani Ulaanbaatart baidag."
+  },
+  {
+   "mn": "Ээж нь төрсөн нутагтаа очихыг хүсдэг.",
+   "en": "Her mother wants to go to her native region.",
+   "alt_mn": [
+    "Ээж нь төрсөн нутагтаа очмоор санагддаг."
+   ],
+   "alt_en": [
+    "Her mom wants to visit her hometown."
+   ],
+   "mn_latin": "Eej ni törsön nutagtaa ochikhyg khüsdeg."
+  },
+  {
+   "mn": "Миний уулзсан эмэгтэй найзын маань нагац эгч байсан.",
+   "en": "The woman I met was my friend's aunt.",
+   "alt_mn": [],
+   "alt_en": [
+    "The woman that I met was my friend's aunt."
+   ],
+   "mn_latin": "Minii uulzsan emegtei naizyn maani nagats egch baisan."
+  },
+  {
+   "mn": "Надад аав нь эмч найз бий.",
+   "en": "I have a friend whose father is a doctor.",
+   "alt_mn": [
+    "Би аав нь эмч хүн найзтай."
+   ],
+   "alt_en": [],
+   "mn_latin": "Nadad aav ni emch naiz bii."
+  },
+  {
+   "mn": "Тэдний амьдардаг байшин ээжийнх нь ажлаас ойрхон.",
+   "en": "The house they live in is close to their mother's work.",
+   "alt_mn": [],
+   "alt_en": [
+    "The house where they live is close to their mother's workplace."
+   ],
+   "mn_latin": "Tednii amidardag baishin eejiinkh ni ajlaas oirkhon."
+  },
+  {
+   "mn": "Өвөө нь хөдөө амьдардаг, эмээ нь түүнтэй хамт байдаг.",
+   "en": "His grandfather lives in the countryside, and his grandmother lives with him.",
+   "alt_mn": [],
+   "alt_en": [
+    "His grandfather lives in the countryside, and his grandmother lives there with him."
+   ],
+   "mn_latin": "Övöö ni khödöö amidardag, emee ni tüüntei khamt baidag."
+  },
+  {
+   "mn": "Түүний дүү миний сурдаг сургуульд сурдаг.",
+   "en": "His younger sibling goes to the school I attend.",
+   "alt_mn": [],
+   "alt_en": [
+    "His younger sibling studies at the school I go to."
+   ],
+   "mn_latin": "Tüünii düü minii surdag surguulid surdag."
+  },
+  {
+   "mn": "Эгч нь багшилдаг сургууль манай гэрээс холгүй.",
+   "en": "The school where her older sister teaches is not far from our home.",
+   "alt_mn": [],
+   "alt_en": [
+    "The school her sister teaches at isn't far from our home."
+   ],
+   "mn_latin": "Egch ni bagshildag surguuli manai gerees kholgüi."
+  },
+  {
+   "mn": "Би ээж нь маш амттай хоол хийдэг найзтай танилцсан.",
+   "en": "I met a friend whose mother cooks very delicious food.",
+   "alt_mn": [],
+   "alt_en": [
+    "I got to know a friend whose mom cooks really tasty food."
+   ],
+   "mn_latin": "Bi eej ni mash amttai khool khiideg naiztai taniltssan."
+  },
+  {
+   "mn": "Авга ах нь Дарханд амьдардаг ч заримдаа хот руу ирдэг.",
+   "en": "His uncle lives in Darkhan but sometimes comes to the city.",
+   "alt_mn": [],
+   "alt_en": [
+    "His uncle lives in Darkhan but sometimes visits the city."
+   ],
+   "mn_latin": "Avga akh ni Darkhand amidardag ch zarimdaa khot ruu irdeg."
+  },
+  {
+   "mn": "Тэр надад гэр бүлийнхээ тухай ярьж өгсөн.",
+   "en": "She told me about her family.",
+   "alt_mn": [
+    "Тэр надад гэр бүлийнхээ талаар ярьсан."
+   ],
+   "alt_en": [
+    "She talked to me about her family."
+   ],
+   "mn_latin": "Ter nadad ger büliinkhee tukhai yarij ögsön."
+  }
+ ],
+ "grammar": {
+  "title_en": "Participles with possessives: аав нь ажилладаг компани",
+  "title_mn": "Хамаатуулах нөхцөлтэй үйлт нэр: аав нь ажилладаг компани",
+  "explain_en": "Mongolian puts the whole relative clause BEFORE the noun, using a participle: -даг/-дэг (habitual), -сан/-сэн (past), -х (future/intended), -аа/-ж байгаа (ongoing). The subject can take possessive нь: 'аав нь ажилладаг компани' = 'the company where his father works'. Case endings can sit on the head noun: 'ээж нь төрсөн нутагт' = 'in the place where her mother was born'. Own-person possessives (-аа/-ээ) refer to the subject: 'найзынхаа гэр бүл'. English does the opposite: the clause comes AFTER the noun, and 'whose' or 'who/that/where' links it.",
+  "explain_mn": "Англи хэлэнд тодотгол өгүүлбэр нэрийн ДАРАА орно, монголоор бол өмнө нь орно. 'Whose' нь 'хэний ... нь' гэсэн утгатай: 'a friend whose father is a doctor' = 'аав нь эмч хүн байдаг найз'. Тусагдахуун байх үед who/that/which-ийг орхиж болно: 'the woman I met' = 'миний уулзсан эмэгтэй'. Харин 'the woman who met me' гэвэл 'who' нь өгүүлэгдэхүүн учраас заавал хэрэгтэй. Мөн 'the house I live in' гэж угтвар үгийг төгсгөлд нь тавина.",
+  "examples": [
+   {
+    "mn": "Аав нь ажилладаг компани",
+    "en": "the company his father works for",
+    "mn_latin": "Aav ni ajilladag kompani"
+   },
+   {
+    "mn": "Ээж нь төрсөн нутаг",
+    "en": "the place where her mother was born",
+    "mn_latin": "Eej ni törsön nutag"
+   },
+   {
+    "mn": "Миний уулзсан эмэгтэй",
+    "en": "the woman I met",
+    "mn_latin": "Minii uulzsan emegtei"
+   },
+   {
+    "mn": "Ээж нь эмч найз",
+    "en": "a friend whose mother is a doctor",
+    "mn_latin": "Eej ni emch naiz"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Аав нь ___ компани хотын төвд байдаг.",
+   "answer": "ажилладаг",
+   "options": [
+    "ажилладаг",
+    "ажилласан гэж",
+    "ажиллаарай",
+    "ажиллахаар"
+   ],
+   "translation": "The company where his father works is in the city center.",
+   "explain_en": "A habitual participle -даг modifies 'компани' and precedes it.",
+   "explain_mn": "Байнгын үйлийг -даг/-дэг үйлт нэрээр илэрхийлж, тодотгох нэрийн өмнө тавина."
+  },
+  {
+   "lang": "mn",
+   "text": "Ээж нь ___ нутаг маш сайхан газар.",
+   "answer": "төрсөн",
+   "options": [
+    "төрсөн",
+    "төрдөг болов",
+    "төрөх болох",
+    "төрж"
+   ],
+   "translation": "The place where her mother was born is very beautiful.",
+   "explain_en": "Past event, so the past participle -сан/-сэн: төрсөн.",
+   "explain_mn": "Өнгөрсөн үйл тул -сан/-сэн үйлт нэр: төрсөн нутаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр ___ гэр бүлийн тухай ярьсан.",
+   "answer": "найзынхаа",
+   "options": [
+    "найзынхаа",
+    "найзаасаа",
+    "найзаа",
+    "найзад"
+   ],
+   "translation": "She talked about her friend's family.",
+   "explain_en": "Genitive -ын plus the reflexive possessive -хаа, which refers back to the subject: найзынхаа = her own friend's.",
+   "explain_mn": "Өөрийн гэсэн хамаатуулах -аа/-ээ нь өгүүлэгдэхүүнийг заана: найзынхаа."
+  },
+  {
+   "lang": "en",
+   "text": "I have a friend ___ mother is an engineer.",
+   "answer": "whose",
+   "options": [
+    "whose",
+    "who",
+    "which",
+    "who's"
+   ],
+   "translation": "Надад ээж нь инженер найз бий.",
+   "explain_en": "'Whose' shows possession: the friend's mother.",
+   "explain_mn": "'Whose' нь өмчлөлийг заана: найзын ээж."
+  },
+  {
+   "lang": "en",
+   "text": "The woman ___ yesterday is his aunt.",
+   "answer": "I met",
+   "options": [
+    "I met",
+    "met",
+    "who met",
+    "I meeting"
+   ],
+   "translation": "Өчигдөр миний уулзсан эмэгтэй бол түүний нагац эгч.",
+   "explain_en": "'I' is the subject, so the object 'who/that' can be dropped: the woman I met.",
+   "explain_mn": "'I' нь subject тул object-ийн 'who/that'-ийг орхиж болно."
+  },
+  {
+   "lang": "en",
+   "text": "This is the house they live ___.",
+   "answer": "in",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "of"
+   ],
+   "translation": "Энэ бол тэдний амьдардаг байшин.",
+   "explain_en": "The preposition stays at the end of the clause: the house they live in.",
+   "explain_mn": "Угтвар үг өгүүлбэрийн төгсгөлд үлдэнэ: live in."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Саруул, гэр бүлийнхээ тухай ярьж өгөөч.",
+   "en": "Saruul, tell me about your family.",
+   "mn_latin": "Saruul, ger büliinkhee tukhai yarij ögööch."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Манай гэр бүл дөрвөн хүнтэй. Аав маань барилгын инженер.",
+   "en": "My family has four people. My father is a construction engineer.",
+   "mn_latin": "Manai ger bül dörvön khüntei. Aav maani barilgyn injyenyer."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Аав чинь ажилладаг компани хаана байдаг вэ?",
+   "en": "Where is the company your father works for?",
+   "mn_latin": "Aav chini ajilladag kompani khaana baidag ve?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Улаанбаатарт байдаг. Ээж маань эмч, төрсөн нутаг нь Хөвсгөл.",
+   "en": "In Ulaanbaatar. My mother is a doctor, and her native region is Khövsgöl.",
+   "mn_latin": "Ulaanbaatart baidag. Eej maani emch, törsön nutag ni Khövsgöl."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэгвэл чиний ярьдаг эмээ хаана амьдардаг вэ?",
+   "en": "Then where does the grandmother you talk about live?",
+   "mn_latin": "Tegvel chinii yaridag emee khaana amidardag ve?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Эмээ маань хөдөө амьдардаг. Зундаа бид очдог.",
+   "en": "My grandmother lives in the countryside. We go in summer.",
+   "mn_latin": "Emee maani khödöö amidardag. Zundaa bid ochdog."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайхан байна. Би ч гэсэн хөдөө очмоор байна.",
+   "en": "Sounds nice. I want to go to the countryside too.",
+   "mn_latin": "Saikhan baina. Bi ch gesen khödöö ochmoor baina."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, family ties are very important, and people often know relatives on both sides, with separate words for father's side and mother's side (e.g., авга ах vs. нагац ах). Asking about someone's төрсөн нутаг (native land) is a common way to get to know a person, and many Ulaanbaatar residents still feel strongly connected to their home province. During Tsagaan Sar, relatives visit each other and share buuz.",
+  "mn": "Монголд гэр бүл, төрөл садангийн холбоо маш чухал бөгөөд эцгийн болон эхийн талын хамаатан садныг өөр өөр үгээр нэрлэдэг (жишээ нь авга ах, нагац ах). Хүний төрсөн нутгийг асуух нь танилцах нийтлэг арга бөгөөд Улаанбаатарт амьдардаг олон хүн төрсөн аймагтаа хүчтэй холбоотой. Цагаан сараар төрөл садан бие биеийнхээ гэрт очиж бууз хуваалцдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 24,
+  "notes": "Mostly good concept but several ungrammatical Mongolian forms, mismatched translations, and a broken option."
+ },
+ "opus_fix": {
+  "rating_before": 4,
+  "fixes": 14,
+  "notes": "Fixed mismatched pairs (sentences 9 and 10), a duplicate alternative, Russian grammar terms, an ambiguous fill-blank and unnatural phrasing.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "'эмч байдаг найз' is unnatural; standard possessive construction"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "natural alternative with explicit subject"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "en",
+    "why": "'is with him' is awkward; хамт байдаг = lives with"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "replace the old alternative, which is now the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "alternative duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "mn did not match en"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "en did not match mn"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "replace the old alternative, which is now the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "match title_en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "'причасти' is a Russian term; Mongolian term is үйлт нэр"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "'причасти' is a Russian term; Mongolian term is үйлт нэр"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'найзын' is also grammatical, so the answer was not unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "clarify the form"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "the listener's own family takes the reflexive -хаа, not чиний"
+   }
+  ]
+ }
+}

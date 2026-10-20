@@ -1,0 +1,480 @@
+{
+ "intro_en": "You will learn how to ask permission politely when visiting a ger, a friend's home, or a public place. You will practice the Mongolian -ж болох уу pattern and the English modals may, can and could.",
+ "intro_mn": "Та гэрт зочлох, найзындаа очих, олон нийтийн газар байхдаа зөвшөөрөл эелдгээр асууж сурна. Монгол хэлний -ж болох уу бүтэц болон англи хэлний may, can, could гэсэн модаль үйл үгсийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "зөвшөөрөл",
+   "en": "permission",
+   "pos": "noun",
+   "example_mn": "Зураг авахын өмнө зөвшөөрөл аваарай.",
+   "example_en": "Get permission before taking a photo.",
+   "mn_latin": "zövshööröl"
+  },
+  {
+   "mn": "зөвшөөрөх",
+   "en": "to allow, to permit",
+   "pos": "verb",
+   "example_mn": "Багш биднийг эрт явахыг зөвшөөрсөн.",
+   "example_en": "The teacher allowed us to leave early.",
+   "mn_latin": "zövshöörökh"
+  },
+  {
+   "mn": "орох",
+   "en": "to enter, to come in",
+   "pos": "verb",
+   "example_mn": "Гэрт орж болох уу?",
+   "example_en": "May I come into the ger?",
+   "mn_latin": "orokh"
+  },
+  {
+   "mn": "суух",
+   "en": "to sit",
+   "pos": "verb",
+   "example_mn": "Энд суухад болох уу?",
+   "example_en": "Is it okay to sit here?",
+   "mn_latin": "suukh"
+  },
+  {
+   "mn": "зураг авах",
+   "en": "to take a photo",
+   "pos": "verb",
+   "example_mn": "Танай малын зураг авч болох уу?",
+   "example_en": "Can I take a photo of your animals?",
+   "mn_latin": "zurag avakh"
+  },
+  {
+   "mn": "хаалга",
+   "en": "door",
+   "pos": "noun",
+   "example_mn": "Хаалгыг нээж болох уу?",
+   "example_en": "May I open the door?",
+   "mn_latin": "khaalga"
+  },
+  {
+   "mn": "цонх",
+   "en": "window",
+   "pos": "noun",
+   "example_mn": "Цонхыг онгойлгож болох уу?",
+   "example_en": "Could I open the window?",
+   "mn_latin": "tsonkh"
+  },
+  {
+   "mn": "түр",
+   "en": "for a moment, briefly",
+   "pos": "adverb",
+   "example_mn": "Таны утсыг түр авч болох уу?",
+   "example_en": "Can I take your phone for a moment?",
+   "mn_latin": "tür"
+  },
+  {
+   "mn": "болохгүй",
+   "en": "not allowed, not okay",
+   "pos": "adjective/verb",
+   "example_mn": "Энд тамхи татаж болохгүй.",
+   "example_en": "You can't smoke here.",
+   "mn_latin": "bolokhgüi"
+  },
+  {
+   "mn": "эзэн",
+   "en": "host, owner",
+   "pos": "noun",
+   "example_mn": "Гэрийн эзэн биднийг сайхан угтлаа.",
+   "example_en": "The host welcomed us warmly.",
+   "mn_latin": "ezen"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Гэрт орж болох уу?",
+   "en": "May I come into the ger?",
+   "alt_mn": [],
+   "alt_en": [
+    "Can I come into the ger?",
+    "Is it okay to enter the ger?"
+   ],
+   "mn_latin": "Gert orj bolokh uu?"
+  },
+  {
+   "mn": "Энд суухад болох уу?",
+   "en": "Is it okay to sit here?",
+   "alt_mn": [
+    "Энд суувал болох уу?",
+    "Энд сууж болох уу?"
+   ],
+   "alt_en": [
+    "May I sit here?",
+    "Can I sit here?"
+   ],
+   "mn_latin": "End suukhad bolokh uu?"
+  },
+  {
+   "mn": "Зураг авч болох уу?",
+   "en": "May I take a photo?",
+   "alt_mn": [
+    "Зураг авбал болох уу?"
+   ],
+   "alt_en": [
+    "Can I take a picture?",
+    "Could I take a photo?"
+   ],
+   "mn_latin": "Zurag avch bolokh uu?"
+  },
+  {
+   "mn": "Таны утсыг түр авч болох уу?",
+   "en": "Could I borrow your phone for a moment?",
+   "alt_mn": [
+    "Таны утсыг түр зээлж болох уу?"
+   ],
+   "alt_en": [
+    "May I use your phone for a minute?"
+   ],
+   "mn_latin": "Tany utsyg tür avch bolokh uu?"
+  },
+  {
+   "mn": "Тийм ээ, болно. Орж ирээрэй.",
+   "en": "Yes, you may. Please come in.",
+   "alt_mn": [
+    "Болно, орж ирээрэй."
+   ],
+   "alt_en": [
+    "Sure, come in."
+   ],
+   "mn_latin": "Tiim ee, bolno. Orj ireerei."
+  },
+  {
+   "mn": "Уучлаарай, энд зураг авч болохгүй.",
+   "en": "Sorry, you can't take photos here.",
+   "alt_mn": [
+    "Уучлаарай, энд зураг авахыг хориглоно."
+   ],
+   "alt_en": [
+    "I'm sorry, photos are not allowed here."
+   ],
+   "mn_latin": "Uuchlaarai, end zurag avch bolokhgüi."
+  },
+  {
+   "mn": "Цонхыг онгойлгож болох уу? Халуун байна.",
+   "en": "May I open the window? It's hot.",
+   "alt_mn": [
+    "Цонхоо нээж болох уу? Халуун байна."
+   ],
+   "alt_en": [
+    "Could I open the window? It is hot."
+   ],
+   "mn_latin": "Tsonkhyg ongoilgoj bolokh uu? Khaluun baina."
+  },
+  {
+   "mn": "Гэрийн эзний зөвшөөрөлгүйгээр юм барьж болохгүй.",
+   "en": "You shouldn't touch things without the host's permission.",
+   "alt_mn": [
+    "Эзний зөвшөөрөлгүйгээр юм барьж болохгүй."
+   ],
+   "alt_en": [
+    "You may not touch things without the host's permission."
+   ],
+   "mn_latin": "Geriin eznii zövshöörölgüigeer yum barij bolokhgüi."
+  },
+  {
+   "mn": "Би таны хажууд суувал болох уу?",
+   "en": "Would it be okay if I sat next to you?",
+   "alt_mn": [
+    "Таны хажууд сууж болох уу?"
+   ],
+   "alt_en": [
+    "May I sit next to you?"
+   ],
+   "mn_latin": "Bi tany khajuud suuval bolokh uu?"
+  },
+  {
+   "mn": "Малын зургийг авч болох уу?",
+   "en": "Can I take a picture of the animals?",
+   "alt_mn": [
+    "Малын зураг авч болох уу?"
+   ],
+   "alt_en": [
+    "May I photograph the animals?"
+   ],
+   "mn_latin": "Malyn zurgiig avch bolokh uu?"
+  },
+  {
+   "mn": "Энэ ширээнд хамт суувал болох уу?",
+   "en": "Could I sit at this table with you?",
+   "alt_mn": [
+    "Энэ ширээнд хамт суухад болох уу?"
+   ],
+   "alt_en": [
+    "May I join you at this table?"
+   ],
+   "mn_latin": "Ene shireend khamt suuval bolokh uu?"
+  },
+  {
+   "mn": "Энэ ширээнд хамт сууж болох уу?",
+   "en": "Could I sit at this table with you?",
+   "alt_mn": [
+    "Энэ ширээнд хамт суувал болох уу?"
+   ],
+   "alt_en": [
+    "May I join you at this table?"
+   ],
+   "mn_latin": "Ene shireend khamt suuj bolokh uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking permission with -ж болох уу",
+  "title_mn": "Зөвшөөрөл асуух: -ж болох уу / may, can, could",
+  "explain_en": "In Mongolian, add -ж (or -ч after some stems, e.g. ав- → авч, сур- → сурч) to the verb stem, then add болох уу? to ask permission: орж болох уу? (May I come in?), авч болох уу? (May I take it?). To answer, say болно (it's fine) or болохгүй (it's not allowed). Another way is verb + -хад болох уу?, e.g. суухад болох уу? (Is it okay to sit?). Add уучлаарай at the start to be extra polite. English uses may (most formal), could (polite) and can (everyday): May I come in? Could I sit here? Can I take a photo?",
+  "explain_mn": "Англи хэлэнд зөвшөөрөл асуухдаа may, could, can гэсэн модаль үйл үг хэрэглэнэ. May I come in? нь хамгийн албан ёсны, Could I sit here? нь эелдэг, Can I take a photo? нь өдөр тутмын ярианд тохиромжтой. Бүтэц нь: May/Could/Can + I + үндсэн үйл (to-гүй). Жишээ: Can I open the window? Хариулахдаа Yes, you may / Sure / Of course гэж зөвшөөрч, Sorry, you can't / I'm afraid not гэж татгалзана. Монголоор -ж болох уу гэдэгтэй адил утгатай.",
+  "examples": [
+   {
+    "mn": "Орж болох уу?",
+    "en": "May I come in?",
+    "mn_latin": "Orj bolokh uu?"
+   },
+   {
+    "mn": "Энд суухад болох уу?",
+    "en": "Is it okay to sit here?",
+    "mn_latin": "End suukhad bolokh uu?"
+   },
+   {
+    "mn": "Зураг авч болох уу?",
+    "en": "Can I take a photo?",
+    "mn_latin": "Zurag avch bolokh uu?"
+   },
+   {
+    "mn": "Энд тамхи татаж болохгүй.",
+    "en": "You can't smoke here.",
+    "mn_latin": "End tamkhi tataj bolokhgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гэрт орж ___ уу?",
+   "answer": "болох",
+   "options": [
+    "болох",
+    "болсон",
+    "бол",
+    "болдог"
+   ],
+   "translation": "May I come into the ger?",
+   "explain_en": "The pattern is verb + -ж + болох уу? to ask permission.",
+   "explain_mn": "Зөвшөөрөл асуухдаа үйл үг + -ж + болох уу гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энд зураг ав___ болох уу?",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "ж",
+    "аад",
+    "сан"
+   ],
+   "translation": "Can I take a photo here?",
+   "explain_en": "After the stem ав- the converb is written авч (with -ч), not авж.",
+   "explain_mn": "«Авах» үйлийн суурь ав- дараа -ч залгаж «авч» гэж бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энд суу___ болох уу?",
+   "answer": "хад",
+   "options": [
+    "хад",
+    "сан",
+    "даг",
+    "на"
+   ],
+   "translation": "Is it okay to sit here?",
+   "explain_en": "Verb + -хад болох уу? is another way to ask if an action is okay.",
+   "explain_mn": "Үйл үг + -хад болох уу гэж бас асууж болно."
+  },
+  {
+   "lang": "en",
+   "text": "___ I sit next to you? (very polite)",
+   "answer": "May",
+   "options": [
+    "May",
+    "Am",
+    "Do",
+    "Must"
+   ],
+   "translation": "Би таны хажууд суувал болох уу?",
+   "explain_en": "May is the most formal choice for asking permission.",
+   "explain_mn": "May нь зөвшөөрөл асуух хамгийн албан ёсны үг."
+  },
+  {
+   "lang": "en",
+   "text": "Sorry, you ___ take photos in this temple.",
+   "answer": "can't",
+   "options": [
+    "can't",
+    "may to",
+    "don't can",
+    "couldn't to"
+   ],
+   "translation": "Уучлаарай, энэ сүмд зураг авч болохгүй.",
+   "explain_en": "Can't means it is not allowed; no 'to' after modals.",
+   "explain_mn": "Can't нь «болохгүй» гэсэн утгатай, дараа нь to хэрэглэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Could I ___ the window?",
+   "answer": "open",
+   "options": [
+    "open",
+    "to open",
+    "opening",
+    "opened"
+   ],
+   "translation": "Цонхыг онгойлгож болох уу?",
+   "explain_en": "After could, use the base form of the verb without 'to'.",
+   "explain_mn": "Could-ийн дараа үйлийг үндсэн хэлбэрээр, to-гүй бичнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу? Гэрт орж болох уу?",
+   "en": "Hello! May I come into the ger?",
+   "mn_latin": "Sain baina uu? Gert orj bolokh uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Сайн байна уу! Болно, орж ирээрэй.",
+   "en": "Hello! Yes, please come in.",
+   "mn_latin": "Sain baina uu! Bolno, orj ireerei."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Баярлалаа. Энд суухад болох уу?",
+   "en": "Thank you. Is it okay to sit here?",
+   "mn_latin": "Bayarlalaa. End suukhad bolokh uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Үгүй ээ, тэр бол хоймор, ахмад хүмүүсийн суудаг газар. Та энэ хажуу талд суугаарай.",
+   "en": "Actually, no, that's the khoimor, the seat for elders. Please sit here on the side.",
+   "mn_latin": "Ügüi ee, ter bol khoimor, akhmad khümüüsiin suudag gazar. Ta ene khajuu tald suugaarai."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Уучлаарай, мэдсэнгүй. Зураг авч болох уу?",
+   "en": "Sorry, I didn't know. May I take a photo?",
+   "mn_latin": "Uuchlaarai, medsengüi. Zurag avch bolokh uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Болно, гэхдээ эхлээд цай уугаарай.",
+   "en": "Yes, you can, but have some tea first.",
+   "mn_latin": "Bolno, gekhdee ekhleed tsai uugaarai."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Баярлалаа, маш амттай цай байна.",
+   "en": "Thank you, this tea is very tasty.",
+   "mn_latin": "Bayarlalaa, mash amttai tsai baina."
+  }
+ ],
+ "culture_note": {
+  "en": "When you visit a ger, it is polite to ask before entering, not to step on the threshold, and to walk around the stove clockwise. The place opposite the door (хоймор) is for elders and honored guests, so ask where to sit. It is also kind to ask before photographing people, their animals or their belongings.",
+  "mn": "Гэрт орохын өмнө зөвшөөрөл асууж, босгыг гишгэхгүй, зуухыг цагийн зүүний дагуу тойрч явах нь эелдэг зан. Хоймор нь настай хүн, хүндэт зочдод зориулсан газар тул хаана суухаа асууна. Хүн, мал, эд зүйлийн зураг авахаас өмнө зөвшөөрөл асуух нь бас хүндэтгэлийн илрэл юм."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 22,
+  "notes": "Mostly good, but several ungrammatical 'суугаад болох уу' forms, a wrong-meaning alt for borrowing a phone, and an inaccurate -ч rule needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed wrong alternatives, the -ж/-ч rule, an ambiguous blank, reflexive misuse and the dialogue register.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The sentence was unnatural, and «үйлт үг» is not a standard term."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "«Утсаа» means one's own phone, which doesn't match \"your phone\"."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "The alternative duplicated the main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "«болно уу» is ungrammatical."
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "The alternative duplicated the main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "The reflexive «утсаа» gave the wrong meaning."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "The alternative was nonsensical."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "The alternative was an unrelated sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "«суугаад болох уу» is ungrammatical."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The -ч rule was wrong: stems ending in л or м take -ж (олж), and so does ор- (орж)."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "«үйлт үг» is a nonstandard term."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "«сууж болох уу» is also correct, so the option ж made the item ambiguous."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "«бүү суу» is harsh and mixed register with «суугаарай», and «хаяанд суух» is unnatural."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "The English was awkward; it now matches the revised Mongolian."
+   }
+  ]
+ }
+}

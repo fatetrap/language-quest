@@ -1,0 +1,422 @@
+{
+ "intro_en": "You will learn to describe a morning routine step by step, using first, then, next, and finally. In Mongolian, you will link actions with the converb -аад/-ээд/-оод/-өөд.",
+ "intro_mn": "Та өглөөний үйл ажиллагаагаа эхлээд, дараа нь, түүний дараа, эцэст нь гэх мэт үгээр дараалуулан ярихыг сурна. Монгол хэлэнд үйлийг -аад/-ээд/-оод/-өөд нөхцөлөөр холбоно. Англи хэлэнд first, then, next, finally гэх үгсийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "эхлээд",
+   "en": "first",
+   "pos": "adverb",
+   "example_mn": "Эхлээд би босдог.",
+   "example_en": "First, I get up.",
+   "mn_latin": "ekhleed"
+  },
+  {
+   "mn": "дараа нь",
+   "en": "then / after that",
+   "pos": "adverb",
+   "example_mn": "Дараа нь би нүүрээ угаадаг.",
+   "example_en": "Then I wash my face.",
+   "mn_latin": "daraa ni"
+  },
+  {
+   "mn": "түүний дараа",
+   "en": "next",
+   "pos": "adverb",
+   "example_mn": "Түүний дараа би хувцаслана.",
+   "example_en": "Next, I get dressed.",
+   "mn_latin": "tüünii daraa"
+  },
+  {
+   "mn": "эцэст нь",
+   "en": "finally",
+   "pos": "adverb",
+   "example_mn": "Эцэст нь би ажилдаа явна.",
+   "example_en": "Finally, I go to work.",
+   "mn_latin": "etsest ni"
+  },
+  {
+   "mn": "сэрэх",
+   "en": "to wake up",
+   "pos": "verb",
+   "example_mn": "Би зургаан цагт сэрдэг.",
+   "example_en": "I wake up at six.",
+   "mn_latin": "serekh"
+  },
+  {
+   "mn": "босох",
+   "en": "to get up",
+   "pos": "verb",
+   "example_mn": "Тэр хурдан босов.",
+   "example_en": "He got up quickly.",
+   "mn_latin": "bosokh"
+  },
+  {
+   "mn": "угаах",
+   "en": "to wash",
+   "pos": "verb",
+   "example_mn": "Би гараа угаана.",
+   "example_en": "I wash my hands.",
+   "mn_latin": "ugaakh"
+  },
+  {
+   "mn": "хувцаслах",
+   "en": "to get dressed",
+   "pos": "verb",
+   "example_mn": "Хүүхдүүд хурдан хувцаслав.",
+   "example_en": "The children got dressed quickly.",
+   "mn_latin": "khuvtsaslakh"
+  },
+  {
+   "mn": "өглөөний цай уух",
+   "en": "to have breakfast",
+   "pos": "verb phrase",
+   "example_mn": "Бид гэр бүлийнхээ хамт өглөөний цай уудаг.",
+   "example_en": "We have breakfast with our family.",
+   "mn_latin": "öglöönii tsai uukh"
+  },
+  {
+   "mn": "өглөөний хоол",
+   "en": "breakfast",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр өглөөний хоолондоо бууз идсэн.",
+   "example_en": "Today I ate buuz for breakfast.",
+   "mn_latin": "öglöönii khool"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эхлээд би сэрдэг.",
+   "en": "First, I wake up.",
+   "alt_mn": [
+    "Эхлээд би сэрнэ."
+   ],
+   "alt_en": [
+    "First I wake up."
+   ],
+   "mn_latin": "Ekhleed bi serdeg."
+  },
+  {
+   "mn": "Би босоод нүүрээ угаадаг.",
+   "en": "I get up and wash my face.",
+   "alt_mn": [
+    "Би босоод нүүрээ угаана."
+   ],
+   "alt_en": [
+    "I get up, then I wash my face."
+   ],
+   "mn_latin": "Bi bosood nüüree ugaadag."
+  },
+  {
+   "mn": "Нүүрээ угаачихаад хувцасладаг.",
+   "en": "After washing my face, I get dressed.",
+   "alt_mn": [
+    "Нүүрээ угаагаад хувцасладаг."
+   ],
+   "alt_en": [
+    "I wash my face and then get dressed."
+   ],
+   "mn_latin": "Nüüree ugaachikhaad khuvtsasladag."
+  },
+  {
+   "mn": "Дараа нь бид өглөөний хоол идэнэ.",
+   "en": "Then we eat breakfast.",
+   "alt_mn": [
+    "Түүний дараа бид өглөөний хоол идэнэ."
+   ],
+   "alt_en": [
+    "After that, we eat breakfast."
+   ],
+   "mn_latin": "Daraa ni bid öglöönii khool idene."
+  },
+  {
+   "mn": "Эцэст нь ажилдаа явна.",
+   "en": "Finally, I go to work.",
+   "alt_mn": [
+    "Эцэст нь би ажилдаа явна."
+   ],
+   "alt_en": [
+    "In the end, I go to work."
+   ],
+   "mn_latin": "Etsest ni ajildaa yavna."
+  },
+  {
+   "mn": "Тэр сэрээд цай уусан.",
+   "en": "He woke up and drank tea.",
+   "alt_mn": [
+    "Тэр сэрээд цай уув."
+   ],
+   "alt_en": [
+    "He woke up and had tea."
+   ],
+   "mn_latin": "Ter sereed tsai uusan."
+  },
+  {
+   "mn": "Бид хувцаслаад өглөөний хоол идлээ.",
+   "en": "We got dressed and ate breakfast.",
+   "alt_mn": [
+    "Бид хувцаслаад өглөөний хоол идсэн."
+   ],
+   "alt_en": [
+    "We got dressed, then ate breakfast."
+   ],
+   "mn_latin": "Bid khuvtsaslaad öglöönii khool idlee."
+  },
+  {
+   "mn": "Би гараа угаагаад хоол идсэн.",
+   "en": "I washed my hands and ate.",
+   "alt_mn": [
+    "Би гараа угаагаад хоолоо идсэн."
+   ],
+   "alt_en": [
+    "I washed my hands, then I ate."
+   ],
+   "mn_latin": "Bi garaa ugaagaad khool idsen."
+  },
+  {
+   "mn": "Эхлээд цай ууна, дараа нь бууз идэнэ.",
+   "en": "First I drink tea, then I eat buuz.",
+   "alt_mn": [
+    "Эхлээд цай уугаад, дараа нь бууз идэнэ."
+   ],
+   "alt_en": [
+    "First I'll drink tea, and after that I'll eat buuz."
+   ],
+   "mn_latin": "Ekhleed tsai uuna, daraa ni buuz idene."
+  },
+  {
+   "mn": "Хүүхэд босоод хувцаслав.",
+   "en": "The child got up and got dressed.",
+   "alt_mn": [
+    "Хүүхэд босоод хувцаслалаа."
+   ],
+   "alt_en": [
+    "The child got up and then got dressed."
+   ],
+   "mn_latin": "Khüükhed bosood khuvtsaslav."
+  },
+  {
+   "mn": "Би автобусанд суугаад сургуульдаа очсон.",
+   "en": "I got on the bus and went to school.",
+   "alt_mn": [
+    "Би автобусанд сууж сургуульдаа очсон."
+   ],
+   "alt_en": [
+    "I took the bus and went to school."
+   ],
+   "mn_latin": "Bi avtobusand suugaad surguulidaa ochson."
+  },
+  {
+   "mn": "Эхлээд босно, дараа нь угаана, эцэст нь хувцаслана.",
+   "en": "First I get up, then I wash, and finally I get dressed.",
+   "alt_mn": [],
+   "alt_en": [
+    "First I get up, next I wash, and finally I get dressed."
+   ],
+   "mn_latin": "Ekhleed bosno, daraa ni ugaana, etsest ni khuvtsaslana."
+  }
+ ],
+ "grammar": {
+  "title_en": "Linking actions with -аад/-ээд/-оод/-өөд",
+  "title_mn": "Дараалсан үйлийг -аад/-ээд/-оод/-өөд-өөр холбох",
+  "explain_en": "In Mongolian, add -аад/-ээд/-оод/-өөд to the first verb stem to say 'do this, and then do that'. Only the last verb carries the tense. The ending follows vowel harmony: босох → босоод, идэх → идээд, сэрэх → сэрээд, өмсөх → өмсөөд. If the stem ends in a long vowel or diphthong, add -г- first: угаах → угаагаад, уух → уугаад. In English, use first, then, next, after that, finally, or 'and'. Example: Би босоод хоол идсэн = I got up and ate.",
+  "explain_mn": "Монгол хэлэнд хоёр үйлийг дараалуулахдаа эхний үйлийн үндэст -аад/-ээд/-оод/-өөд залгана. Цагийн нөхцөл зөвхөн сүүлийн үйлд орно. Нөхцөл нь эгшиг зохицлыг дагана: босох → босоод, идэх → идээд, сэрэх → сэрээд, өмсөх → өмсөөд. Үндэс урт эгшиг эсвэл хос эгшгээр төгсвөл -г- нэмнэ: угаах → угаагаад, уух → уугаад. Жишээ нь: Би босоод хоол идсэн. Англи хэлэнд first, then, next, after that, finally гэх үг болон and-ээр холбоно: I got up and ate.",
+  "examples": [
+   {
+    "mn": "Би босоод хоол идсэн.",
+    "en": "I got up and ate.",
+    "mn_latin": "Bi bosood khool idsen."
+   },
+   {
+    "mn": "Тэр сэрээд нүүрээ угаав.",
+    "en": "He woke up and washed his face.",
+    "mn_latin": "Ter sereed nüüree ugaav."
+   },
+   {
+    "mn": "Бид хувцаслаад гарлаа.",
+    "en": "We got dressed and left.",
+    "mn_latin": "Bid khuvtsaslaad garlaa."
+   },
+   {
+    "mn": "Цай уугаад ажилдаа явна.",
+    "en": "After drinking tea, I go to work.",
+    "mn_latin": "Tsai uugaad ajildaa yavna."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би бос___ хоол идсэн.",
+   "answer": "оод",
+   "options": [
+    "оод",
+    "ээд",
+    "аад",
+    "өөд"
+   ],
+   "translation": "I got up and ate.",
+   "explain_en": "The stem босох has the vowel о, so the converb is -оод.",
+   "explain_mn": "Босох нь о эгшигтэй тул -оод залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр сэр___ нүүрээ угаав.",
+   "answer": "ээд",
+   "options": [
+    "ээд",
+    "оод",
+    "аад",
+    "өөд"
+   ],
+   "translation": "He woke up and washed his face.",
+   "explain_en": "Сэрэх has the vowel э, so the converb is -ээд.",
+   "explain_mn": "Сэрэх нь э эгшигтэй тул -ээд залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид хувцасла___ өглөөний хоол идлээ.",
+   "answer": "аад",
+   "options": [
+    "аад",
+    "ээд",
+    "оод",
+    "өөд"
+   ],
+   "translation": "We got dressed and ate breakfast.",
+   "explain_en": "Хувцаслах ends in an а-type stem (хувцасла-), so the converb is -аад.",
+   "explain_mn": "Хувцаслах нь а эгшигтэй тул -аад залгана."
+  },
+  {
+   "lang": "en",
+   "text": "First I wake up, ___ I wash my face.",
+   "answer": "then",
+   "options": [
+    "then",
+    "finally",
+    "first",
+    "before"
+   ],
+   "translation": "Эхлээд би сэрнэ, дараа нь нүүрээ угаана.",
+   "explain_en": "Then introduces the next step after first.",
+   "explain_mn": "Then нь эхний үйлийн дараах дараагийн алхмыг заана."
+  },
+  {
+   "lang": "en",
+   "text": "I eat breakfast. ___, I go to work.",
+   "answer": "Finally",
+   "options": [
+    "Finally",
+    "First",
+    "Wake",
+    "Before"
+   ],
+   "translation": "Би өглөөний хоол идэнэ. Эцэст нь ажилдаа явна.",
+   "explain_en": "Finally introduces the last step in a sequence.",
+   "explain_mn": "Finally нь дарааллын сүүлийн алхмыг заана."
+  },
+  {
+   "lang": "en",
+   "text": "She got up ___ got dressed.",
+   "answer": "and",
+   "options": [
+    "and",
+    "first",
+    "finally",
+    "to"
+   ],
+   "translation": "Тэр босоод хувцаслав.",
+   "explain_en": "Use and to join two actions in a sequence, similar to the Mongolian converb.",
+   "explain_mn": "Англиар хоёр үйлийг and-ээр холбож болно. Энэ нь монгол -аад нөхцөлтэй адил."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Болд, чи өглөө юу хийдэг вэ?",
+   "en": "Bold, what do you do in the morning?",
+   "mn_latin": "Bold, chi öglöö yuu khiideg ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Эхлээд зургаан цагт сэрдэг.",
+   "en": "First, I wake up at six.",
+   "mn_latin": "Ekhleed zurgaan tsagt serdeg."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Дараа нь?",
+   "en": "And then?",
+   "mn_latin": "Daraa ni?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Босоод нүүрээ угаадаг, хувцасладаг.",
+   "en": "I get up, wash my face, and get dressed.",
+   "mn_latin": "Bosood nüüree ugaadag, khuvtsasladag."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Өглөөний хоол иддэг үү?",
+   "en": "Do you eat breakfast?",
+   "mn_latin": "Öglöönii khool iddeg üü?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тийм ээ, цай уугаад бууз иддэг.",
+   "en": "Yes, I drink tea and eat buuz.",
+   "mn_latin": "Tiim ee, tsai uugaad buuz iddeg."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Эцэст нь юу хийдэг вэ?",
+   "en": "And finally, what do you do?",
+   "mn_latin": "Etsest ni yuu khiideg ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Эцэст нь ажилдаа явдаг.",
+   "en": "Finally, I go to work.",
+   "mn_latin": "Etsest ni ajildaa yavdag."
+  }
+ ],
+ "culture_note": {
+  "en": "In many Mongolian families, the morning begins with suutei tsai, salty milk tea, often with bread, dairy products, or leftover buuz. In the countryside, herders may start by caring for animals before eating. In Ulaanbaatar, people often hurry because of traffic.",
+  "mn": "Ихэнх монгол айлд өглөө давстай сүүтэй цайгаар эхэлдэг. Цайгаа ихэвчлэн талх, цагаан идээ, эсвэл үлдсэн буузтай хамт уудаг. Хөдөө малчид хоол идэхээсээ өмнө эхлээд малаа харж ханддаг. Улаанбаатарт замын түгжрэлээс болоод хүмүүс өглөө ихэвчлэн яардаг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 22,
+  "notes": "Several real errors (typo with Latin x, иднэ, wrong grammar mn explanation, alt mismatches) but content is generally usable."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Mostly solid. Fixes cover a duplicate alternative, the grammar explanation (missing -г- rule, en/mn mismatch), and a wrong verb in the culture note.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "The alternative was a duplicate of the main sentence; this one also matches 'After that'."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Explains the -г- in угаагаад and matches the mn word list (adds 'next')."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Brings the mn version in line with the en version (vowel harmony and -г-)."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'малаа хариад' wrongly means 'return home' (it should be 'care for the animals'). Also adds 'salty' and 'leftover buuz' to match the en text, and fixes the word order 'Ихэнх монгол айлд'."
+   }
+  ]
+ }
+}

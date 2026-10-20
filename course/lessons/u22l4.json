@@ -1,0 +1,462 @@
+{
+ "intro_en": "You will learn to ask politely for things at the table and to change your order a little. In Mongolian you will use the wish form -аасай/-ээсэй; in English, Could I have...? and Could I get...?",
+ "intro_mn": "Та ресторанд ширээний хэрэгсэл гуйх, захиалгаа бага зэрэг өөрчлөхийг сурна. Монгол хэлээр -аасай/-ээсэй хүсэх хэлбэр, англиар Could I have...? ба Could I get...? гэсэн бүтцийг хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "ус",
+   "en": "water",
+   "pos": "noun",
+   "example_mn": "Ус авмаар байна.",
+   "example_en": "I would like some water.",
+   "mn_latin": "us"
+  },
+  {
+   "mn": "салфетка",
+   "en": "napkin",
+   "pos": "noun",
+   "example_mn": "Салфетка өгөөч.",
+   "example_en": "Please give me a napkin.",
+   "mn_latin": "salfyetka"
+  },
+  {
+   "mn": "халбага",
+   "en": "spoon",
+   "pos": "noun",
+   "example_mn": "Надад халбага хэрэгтэй.",
+   "example_en": "I need a spoon.",
+   "mn_latin": "khalbaga"
+  },
+  {
+   "mn": "сэрээ",
+   "en": "fork",
+   "pos": "noun",
+   "example_mn": "Сэрээ байна уу?",
+   "example_en": "Do you have a fork?",
+   "mn_latin": "seree"
+  },
+  {
+   "mn": "давс",
+   "en": "salt",
+   "pos": "noun",
+   "example_mn": "Давс бага байна.",
+   "example_en": "There is little salt.",
+   "mn_latin": "davs"
+  },
+  {
+   "mn": "нэмэх",
+   "en": "to add / to give more",
+   "pos": "verb",
+   "example_mn": "Шөл нэмж өгөөсэй.",
+   "example_en": "I'd like you to give me more soup.",
+   "mn_latin": "nemekh"
+  },
+  {
+   "mn": "өөр",
+   "en": "another / different",
+   "pos": "adjective",
+   "example_mn": "Өөр сэрээ өгөөч.",
+   "example_en": "Please give me another fork.",
+   "mn_latin": "öör"
+  },
+  {
+   "mn": "дахиад",
+   "en": "again / one more",
+   "pos": "adverb",
+   "example_mn": "Дахиад нэг цай авъя.",
+   "example_en": "Let me have one more tea.",
+   "mn_latin": "dakhiad"
+  },
+  {
+   "mn": "авчрах",
+   "en": "to bring",
+   "pos": "verb",
+   "example_mn": "Ус авчирсан бол сайн.",
+   "example_en": "It would be good if you brought water.",
+   "mn_latin": "avchrakh"
+  },
+  {
+   "mn": "гуйх",
+   "en": "to ask for",
+   "pos": "verb",
+   "example_mn": "Би нэг зүйл гуймаар байна.",
+   "example_en": "I would like to ask for something.",
+   "mn_latin": "guikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ус авчирсан бол сайн байна.",
+   "en": "It would be nice if you brought some water.",
+   "alt_mn": [
+    "Ус авчирвал сайн байна."
+   ],
+   "alt_en": [
+    "It would be good if you brought water."
+   ],
+   "mn_latin": "Us avchirsan bol sain baina."
+  },
+  {
+   "mn": "Надад нэг халбага өгөөч.",
+   "en": "Could I have a spoon?",
+   "alt_mn": [
+    "Халбага өгөөч."
+   ],
+   "alt_en": [
+    "Could I get a spoon?",
+    "Please give me a spoon."
+   ],
+   "mn_latin": "Nadad neg khalbaga ögööch."
+  },
+  {
+   "mn": "Сэрээ авч болох уу?",
+   "en": "Could I get a fork?",
+   "alt_mn": [
+    "Надад сэрээ өгөөч."
+   ],
+   "alt_en": [
+    "Could I have a fork?"
+   ],
+   "mn_latin": "Seree avch bolokh uu?"
+  },
+  {
+   "mn": "Надад давс өгөөч.",
+   "en": "Could I have some salt, please?",
+   "alt_mn": [
+    "Давс өгөөч ээ.",
+    "Давс авч болох уу?"
+   ],
+   "alt_en": [
+    "Could I get some salt?"
+   ],
+   "mn_latin": "Nadad davs ögööch."
+  },
+  {
+   "mn": "Шөл нэмж өгөөч.",
+   "en": "I'd like some more soup.",
+   "alt_mn": [
+    "Шөл нэмж өгөөсэй."
+   ],
+   "alt_en": [
+    "Could I have more soup?"
+   ],
+   "mn_latin": "Shöl nemj ögööch."
+  },
+  {
+   "mn": "Өөр салфетка өгөөсэй.",
+   "en": "Could I have another napkin?",
+   "alt_mn": [
+    "Өөр салфетка авч болох уу?"
+   ],
+   "alt_en": [
+    "Could I get another napkin?"
+   ],
+   "mn_latin": "Öör salfyetka ögöösei."
+  },
+  {
+   "mn": "Дахиад нэг аяга цай авч болох уу?",
+   "en": "Could I have one more cup of tea?",
+   "alt_mn": [
+    "Дахиад нэг аяга цай өгөөсэй."
+   ],
+   "alt_en": [
+    "Could I get another cup of tea?"
+   ],
+   "mn_latin": "Dakhiad neg ayaga tsai avch bolokh uu?"
+  },
+  {
+   "mn": "Давс бага хийгээсэй.",
+   "en": "I'd like it with less salt.",
+   "alt_mn": [
+    "Давс бага хийвэл сайн байна."
+   ],
+   "alt_en": [
+    "Could you put in less salt?"
+   ],
+   "mn_latin": "Davs baga khiigeesei."
+  },
+  {
+   "mn": "Халуун ус авчирсан бол сайн байна.",
+   "en": "It would be good if you brought some hot water.",
+   "alt_mn": [
+    "Халуун ус авчирвал сайн байна."
+   ],
+   "alt_en": [
+    "It would be nice if you brought some hot water."
+   ],
+   "mn_latin": "Khaluun us avchirsan bol sain baina."
+  },
+  {
+   "mn": "Энэ сэрээ бохир байна, өөр өгөөч.",
+   "en": "This fork is dirty. Could I have another one?",
+   "alt_mn": [
+    "Энэ сэрээ бохир байна, өөр сэрээ өгөөч."
+   ],
+   "alt_en": [
+    "This fork is dirty. Could I get a different one?"
+   ],
+   "mn_latin": "Ene seree bokhir baina, öör ögööch."
+  },
+  {
+   "mn": "Хуушуур жаахан нэмж өгөөсэй.",
+   "en": "I'd like a few more khuushuur.",
+   "alt_mn": [
+    "Хуушуур нэмж өгөөч."
+   ],
+   "alt_en": [
+    "Could I have a few more khuushuur?"
+   ],
+   "mn_latin": "Khuushuur jaakhan nemj ögöösei."
+  },
+  {
+   "mn": "Уучлаарай, ус авч болох уу?",
+   "en": "Excuse me, could I get some water?",
+   "alt_mn": [
+    "Уучлаарай, ус өгөөч."
+   ],
+   "alt_en": [
+    "Excuse me, could I have some water?"
+   ],
+   "mn_latin": "Uuchlaarai, us avch bolokh uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Polite wishes with -аасай/-ээсэй",
+  "title_mn": "Could I have...? / Could I get...? гэсэн эелдэг хүсэлт",
+  "explain_en": "To politely say what you would like someone to do, add -аасай/-ээсэй/-оосой/-өөсөй to the verb stem. It means 'I wish/I'd like it if...'. The vowel follows vowel harmony: өгөх → өгөөсэй, авчрах → авчраасай, хийх → хийгээсэй. For a softer request, use «бол сайн»: Ус авчирсан бол сайн. You can also use -аач/-ээч/-ооч/-өөч (Өгөөч) for a simple 'please give'. In English you would say Could I have...?",
+  "explain_mn": "Англиар эелдэг хүсэлтийг Could I have...? эсвэл Could I get...? гэж хэлнэ. Could нь хүсэлтийг зөөлөн болгодог. Could I have water? = Ус авч болох уу? Could I get another napkin? = Өөр салфетка авч болох уу? Please нэмбэл илүү эелдэг: Could I have the bill, please? Тушаал биш, асуулт хэлбэртэй тул 'Give me water' гэхээс хамаагүй зөөлөн.",
+  "examples": [
+   {
+    "mn": "Ус авчирсан бол сайн.",
+    "en": "It would be good if you brought water.",
+    "mn_latin": "Us avchirsan bol sain."
+   },
+   {
+    "mn": "Нэмж өгөөсэй.",
+    "en": "I'd like you to give me some more.",
+    "mn_latin": "Nemj ögöösei."
+   },
+   {
+    "mn": "Давс бага хийгээсэй.",
+    "en": "I'd like less salt, please.",
+    "mn_latin": "Davs baga khiigeesei."
+   },
+   {
+    "mn": "Халбага өгөөч.",
+    "en": "Could I have a spoon?",
+    "mn_latin": "Khalbaga ögööch."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шөл нэмж өг___.",
+   "answer": "өөсэй",
+   "options": [
+    "өөсэй",
+    "аасай",
+    "ээсэй",
+    "оосой"
+   ],
+   "translation": "I'd like you to give me more soup.",
+   "explain_en": "The verb өгөх has the vowel ө, so by vowel harmony the wish ending is -өөсэй: өгөөсэй. The other endings do not match the vowel of the stem.",
+   "explain_mn": "Өгөх үйл үг ө эгшигтэй тул эгшиг зохицох ёсоор хүсэх нөхцөл -өөсэй (өгөөсэй) болно. Бусад нөхцөл үгийн эгшигт тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Ус авчир___ бол сайн.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "аач",
+    "на",
+    "лаа"
+   ],
+   "translation": "It would be good if you brought water.",
+   "explain_en": "The pattern «verb + -сан бол сайн» means 'it would be good if...'.",
+   "explain_mn": "«-сан бол сайн» бүтэц нь 'хэрэв ... бол сайн' гэсэн эелдэг хүсэлт илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Надад өөр халбага ___.",
+   "answer": "өгөөч",
+   "options": [
+    "өгөөч",
+    "өгсөн",
+    "өгнө",
+    "өгч"
+   ],
+   "translation": "Please give me another spoon.",
+   "explain_en": "-өөч (өгөөч) makes a polite request: 'please give'.",
+   "explain_mn": "-өөч нөхцөл нь эелдэг хүсэлт болгодог: өгөөч = 'өгнө үү'."
+  },
+  {
+   "lang": "en",
+   "text": "___ I have a napkin, please?",
+   "answer": "Could",
+   "options": [
+    "Could",
+    "Do",
+    "Am",
+    "Must"
+   ],
+   "translation": "Салфетка авч болох уу?",
+   "explain_en": "Could I have...? is the polite way to ask for something.",
+   "explain_mn": "Could I have...? нь эелдэг хүсэлт. Could нь 'болох уу' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Could I ___ another fork?",
+   "answer": "have",
+   "options": [
+    "have",
+    "having",
+    "has",
+    "to have"
+   ],
+   "translation": "Өөр сэрээ авч болох уу?",
+   "explain_en": "After Could I, use the base verb: have or get.",
+   "explain_mn": "Could I-ийн дараа үйл үгийн үндсэн хэлбэр орно: have, get."
+  },
+  {
+   "lang": "en",
+   "text": "Could I get some more ___?",
+   "answer": "water",
+   "options": [
+    "water",
+    "waters",
+    "a water",
+    "the waters"
+   ],
+   "translation": "Дахиад ус авч болох уу?",
+   "explain_en": "Water is uncountable, so we say 'some more water' with no -s.",
+   "explain_mn": "Water тоологдохгүй нэр үг тул -s залгахгүй: some more water."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Уучлаарай, ус авчирсан бол сайн байна.",
+   "en": "Excuse me, it would be nice if you brought some water.",
+   "mn_latin": "Uuchlaarai, us avchirsan bol sain baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Мэдээжийн хэрэг. Өөр юм хэрэгтэй юу?",
+   "en": "Of course. Do you need anything else?",
+   "mn_latin": "Medeejiin khereg. Öör yum kheregtei yuu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Надад халбага, сэрээ өгөөч.",
+   "en": "Could I have a spoon and a fork?",
+   "mn_latin": "Nadad khalbaga, seree ögööch."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Мэдээж. Энд байна.",
+   "en": "Sure. Here you are.",
+   "mn_latin": "Medeej. End baina."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Шөл арай давс багатай байна. Давс өгөөч.",
+   "en": "The soup is a bit bland. Could I have some salt?",
+   "mn_latin": "Shöl arai davs bagatai baina. Davs ögööch."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Одоо авчирлаа. Шөл нэмж өгөх үү?",
+   "en": "Here it is. Would you like more soup?",
+   "mn_latin": "Odoo avchirlaa. Shöl nemj ögökh üü?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм ээ, нэмж өгөөсэй. Баярлалаа!",
+   "en": "Yes, I'd like some more. Thank you!",
+   "mn_latin": "Tiim ee, nemj ögöösei. Bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, people often make requests softly and indirectly, and forms like -аасай/-ээсэй or «бол сайн» sound kind and respectful. In many canteens (цайны газар) it is normal to ask for extra tea or soup, and refills of milk tea are often free. Adding «та» and a smile makes your request even more polite.",
+  "mn": "Монголд хүсэлтээ зөөлөн, шууд бусаар хэлэх нь түгээмэл бөгөөд -аасай/-ээсэй, «бол сайн» гэсэн хэлбэр нь эелдэг, хүндэтгэлтэй сонсогдоно. Олон цайны газарт нэмж цай, шөл гуйх нь ердийн үзэгдэл, сүүтэй цайг ихэнхдээ үнэгүй нэмж өгдөг. «Та» гэж хандаж инээмсэглэвэл хүсэлт илүү эелдэг болно."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 32,
+  "notes": "Main errors are the invented word «амны данс» (should be салфетка), unnatural «авчирваас», some mismatched alternatives, and wrong suffix explanations."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 11,
+  "notes": "Fixed one wrong suffix in the grammar explanation, rebuilt the vowel-harmony blank, made two Mongolian object forms more natural, and cleaned up the English distractors.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "The accusative шөлийг sounds odd in this general request; the bare noun is natural."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "Хуушуурыг sounds unnatural here; the bare object is standard."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "The old alternative only repeated the corrected main sentence."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The ending list had the wrong form -оч; the correct form is -ооч."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "Splitting the word as өгө + өсэй was confusing; the blank now starts after the stem өг-."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "This is the full wish ending that fits the stem өг-."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "These options test vowel harmony; only one is correct."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Updated to match the new blank and options."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Updated to match the new options."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Хэрвээ is colloquial; the standard written form is хэрэв."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "The distractors 'a water the' and 'wateres' were garbled or misspelled."
+   }
+  ]
+ }
+}

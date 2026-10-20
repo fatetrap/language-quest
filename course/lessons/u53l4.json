@@ -1,0 +1,436 @@
+{
+ "intro_en": "You will learn to discuss delays, price changes and cancellations in a contract draft, using Mongolian conditionals with -вал and -х тохиолдолд and English inverted conditionals like 'Should you...', 'Were we to...' and 'Had they...'.",
+ "intro_mn": "Та гэрээний төсөлд саатал, үнийн өөрчлөлт, цуцлалтын талаар ярихыг сурах бөгөөд монгол хэлний -вал, -х тохиолдолд бүтэц болон англи хэлний урвуу нөхцөлт өгүүлбэр ('Should you...', 'Were we to...', 'Had they...')-ийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "саатал",
+   "en": "delay",
+   "pos": "noun",
+   "example_mn": "Хүргэлтэд саатал гарвал бид мэдэгдэнэ.",
+   "example_en": "If a delay occurs in delivery, we will notify you.",
+   "mn_latin": "saatal"
+  },
+  {
+   "mn": "эрсдэл",
+   "en": "risk",
+   "pos": "noun",
+   "example_mn": "Энэ гэрээ нь өндөр эрсдэлтэй.",
+   "example_en": "This contract carries a high risk.",
+   "mn_latin": "ersdel"
+  },
+  {
+   "mn": "цуцлах",
+   "en": "to cancel / terminate",
+   "pos": "verb",
+   "example_mn": "Захиалгыг долоо хоногийн өмнө цуцлах боломжтой.",
+   "example_en": "The order can be cancelled one week in advance.",
+   "mn_latin": "tsutslakh"
+  },
+  {
+   "mn": "торгууль",
+   "en": "penalty",
+   "pos": "noun",
+   "example_mn": "Хугацаа хэтэрвэл торгууль ногдуулна.",
+   "example_en": "If the deadline is exceeded, a penalty will be imposed.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "нөхцөл",
+   "en": "condition / term",
+   "pos": "noun",
+   "example_mn": "Төлбөрийн нөхцөлийг өөрчлөх шаардлагатай.",
+   "example_en": "The payment terms need to be changed.",
+   "mn_latin": "nökhtsöl"
+  },
+  {
+   "mn": "урьдчилсан төлбөр",
+   "en": "advance payment",
+   "pos": "noun",
+   "example_mn": "Урьдчилсан төлбөрийг буцаан олгохгүй.",
+   "example_en": "The advance payment is non-refundable.",
+   "mn_latin": "uridchilsan tölbör"
+  },
+  {
+   "mn": "давагдашгүй хүчин зүйл",
+   "en": "force majeure",
+   "pos": "noun",
+   "example_mn": "Давагдашгүй хүчин зүйлийн үед талууд хариуцлагаас чөлөөлөгдөнө.",
+   "example_en": "In a force majeure event, the parties are released from liability.",
+   "mn_latin": "davagdashgüi khüchin züil"
+  },
+  {
+   "mn": "нэмэлт өөрчлөлт",
+   "en": "amendment",
+   "pos": "noun",
+   "example_mn": "Гэрээнд нэмэлт өөрчлөлт оруулъя.",
+   "example_en": "Let's add an amendment to the contract.",
+   "mn_latin": "nemelt öörchlölt"
+  },
+  {
+   "mn": "хариуцлага хүлээх",
+   "en": "to bear responsibility",
+   "pos": "verb",
+   "example_mn": "Нийлүүлэгч саатлын хариуцлагыг хүлээнэ.",
+   "example_en": "The supplier bears responsibility for the delay.",
+   "mn_latin": "khariutslaga khüleekh"
+  },
+  {
+   "mn": "тохиролцох",
+   "en": "to agree / negotiate",
+   "pos": "verb",
+   "example_mn": "Үнийн өөрчлөлтийн талаар урьдчилан тохиролцъё.",
+   "example_en": "Let's agree on price changes in advance.",
+   "mn_latin": "tokhiroltsokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хүргэлтэд саатал гарвал бид танд шууд мэдэгдэнэ.",
+   "en": "Should a delay occur in delivery, we will notify you immediately.",
+   "alt_mn": [
+    "Хүргэлт хоцорвол бид танд шууд мэдэгдэнэ."
+   ],
+   "alt_en": [
+    "If there is a delay in delivery, we will notify you immediately."
+   ],
+   "mn_latin": "Khürgelted saatal garval bid tand shuud medegdene."
+  },
+  {
+   "mn": "Өөрчлөлт хийх шаардлагатай бол бидэнд урьдчилан хэлээрэй.",
+   "en": "Should you need changes, please tell us in advance.",
+   "alt_mn": [
+    "Өөрчлөлт хийх шаардлагатай тохиолдолд бидэнд урьдчилан мэдэгдээрэй."
+   ],
+   "alt_en": [
+    "If you need changes, please let us know beforehand."
+   ],
+   "mn_latin": "Öörchlölt khiikh shaardlagatai bol bidend uridchilan kheleerei."
+  },
+  {
+   "mn": "Үнэ 5 хувиар өссөн тохиолдолд талууд дахин хэлэлцэнэ.",
+   "en": "Should the price rise by 5 percent, the parties will renegotiate.",
+   "alt_mn": [
+    "Үнэ 5 хувиар өсвөл талууд дахин хэлэлцэнэ."
+   ],
+   "alt_en": [
+    "In the event that the price rises by 5 percent, the parties will renegotiate."
+   ],
+   "mn_latin": "Üne 5 khuviar össön tokhioldold taluud dakhin kheleltsene."
+  },
+  {
+   "mn": "Хэрэв бид гэрээг цуцлах юм бол торгууль төлөх үү?",
+   "en": "Were we to cancel the contract, would we have to pay a penalty?",
+   "alt_mn": [
+    "Бид гэрээг цуцалбал торгууль төлөх үү?"
+   ],
+   "alt_en": [
+    "If we cancelled the contract, would we have to pay a penalty?"
+   ],
+   "mn_latin": "Kherev bid gereeg tsutslakh yum bol torguuli tölökh üü?"
+  },
+  {
+   "mn": "Хэрэв тэд эрсдэлийг урьдчилан харсан бол одоо асуудал гарахгүй байх байсан.",
+   "en": "Had they foreseen the risk, there would be no problem now.",
+   "alt_mn": [
+    "Тэд эрсдэлийг урьдчилан харсан бол одоо асуудал гарахгүй байсан."
+   ],
+   "alt_en": [
+    "If they had foreseen the risk, there would be no problem now."
+   ],
+   "mn_latin": "Kherev ted ersdeliig uridchilan kharsan bol odoo asuudal garakhgüi baikh baisan."
+  },
+  {
+   "mn": "Давагдашгүй хүчин зүйл тохиолдвол аль ч тал хариуцлага хүлээхгүй.",
+   "en": "Should force majeure occur, neither party bears responsibility.",
+   "alt_mn": [
+    "Давагдашгүй хүчин зүйл үүссэн тохиолдолд аль ч тал хариуцлага хүлээхгүй."
+   ],
+   "alt_en": [
+    "If force majeure occurs, neither party will be held liable."
+   ],
+   "mn_latin": "Davagdashgüi khüchin züil tokhioldvol ali ch tal khariutslaga khüleekhgüi."
+  },
+  {
+   "mn": "Урьдчилсан төлбөр хоцорвол хүргэлтийн хугацаа ч хойшилно.",
+   "en": "Were the advance payment to be late, the delivery date would also be postponed.",
+   "alt_mn": [
+    "Урьдчилсан төлбөр хоцорсон тохиолдолд хүргэлтийн хугацаа ч хойшилно."
+   ],
+   "alt_en": [
+    "If the advance payment is late, the delivery date will be postponed too."
+   ],
+   "mn_latin": "Uridchilsan tölbör khotsorvol khürgeltiin khugatsaa ch khoishilno."
+  },
+  {
+   "mn": "Нөхцөлийг өөрчлөх тохиолдолд хоёр талын бичгээр зөвшөөрөл шаардлагатай.",
+   "en": "Should the terms be changed, written consent from both parties is required.",
+   "alt_mn": [
+    "Нөхцөлийг өөрчлөх бол хоёр талын бичгээр зөвшөөрөл хэрэгтэй."
+   ],
+   "alt_en": [
+    "If the terms are changed, both parties must give written consent."
+   ],
+   "mn_latin": "Nökhtsöliig öörchlökh tokhioldold khoyor talyn bichgeer zövshööröl shaardlagatai."
+  },
+  {
+   "mn": "Хэрэв бид эрт тохиролцсон бол торгууль төлөхгүй байсан.",
+   "en": "Had we agreed earlier, we would not have had to pay a penalty.",
+   "alt_mn": [
+    "Бид эрт тохиролцсон бол торгууль төлөхгүй байх байсан."
+   ],
+   "alt_en": [
+    "If we had agreed earlier, we wouldn't have paid a penalty."
+   ],
+   "mn_latin": "Kherev bid ert tokhiroltsson bol torguuli tölökhgüi baisan."
+  },
+  {
+   "mn": "Нийлүүлэгч саатлын хариуцлагыг хүлээх тохиолдолд бид нэмэлт өөрчлөлт санал болгоно.",
+   "en": "Should the supplier bear responsibility for the delay, we will propose an amendment.",
+   "alt_mn": [
+    "Нийлүүлэгч саатлын хариуцлагыг хүлээвэл бид нэмэлт өөрчлөлт санал болгоно."
+   ],
+   "alt_en": [
+    "If the supplier bears responsibility for the delay, we will propose an amendment."
+   ],
+   "mn_latin": "Niilüülegch saatlyn khariutslagyg khüleekh tokhioldold bid nemelt öörchlölt sanal bolgono."
+  },
+  {
+   "mn": "Эрсдэл нэмэгдвэл бид төлөвлөгөөгөө эргэн харна.",
+   "en": "Should the risk increase, we will review our plan.",
+   "alt_mn": [
+    "Эрсдэл нэмэгдсэн тохиолдолд бид төлөвлөгөөгөө эргэн харна."
+   ],
+   "alt_en": [
+    "If the risk increases, we will reconsider our plan."
+   ],
+   "mn_latin": "Ersdel nemegdvel bid tölövlögöögöö ergen kharna."
+  },
+  {
+   "mn": "Захиалгыг цуцлах тохиолдолд урьдчилсан төлбөр буцаагдахгүй.",
+   "en": "Should the order be cancelled, the advance payment will not be refunded.",
+   "alt_mn": [
+    "Захиалгыг цуцалбал урьдчилсан төлбөр буцаагдахгүй."
+   ],
+   "alt_en": [
+    "If the order is cancelled, the advance payment is non-refundable."
+   ],
+   "mn_latin": "Zakhialgyg tsutslakh tokhioldold uridchilsan tölbör butsaagdakhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Hypothetical conditions: -вал and -х тохиолдолд",
+  "title_mn": "Урвуу нөхцөлт өгүүлбэр: Should / Were / Had",
+  "explain_en": "Mongolian has two main ways to state a condition. Add -вал/-вэл/-вол/-вөл to the verb stem: саатал гарвал (if a delay occurs). For a more formal, contract-style tone use the verb's -х form plus тохиолдолд: цуцлах тохиолдолд (in the event of cancelling). Past hypotheticals use -сан бол: тохиролцсон бол (if we had agreed), often with -х байсан in the result. Put the condition first, the consequence last. Adding хэрэв ('if') makes it more explicit. English formal writing does the same with inversion (Should.../Were.../Had...), which is explained in the Mongolian-language notes.",
+  "explain_mn": "Англи хэлэнд 'if'-ийг хасаад туслах үйлийг өгүүлбэрийн эхэнд гаргаж, албан ёсны өнгө аясыг бий болгодог. Should + subject + үйл = ирээдүйн боломжит нөхцөл: 'Should you need changes, call us.' (Хэрэв танд өөрчлөлт хэрэгтэй бол...). Were + subject + to + үйл = магадлал багатай эсвэл төсөөллийн нөхцөл: 'Were we to cancel, ...'. Had + subject + өнгөрсөн цагийн хэлбэр = өнгөрсөнд бүтээгүй нөхцөл: 'Had they known, they would have acted.' Энд 'if' хэрэглэхгүй. Үгүйсгэлийг Should/Were/Had-ийн дараа 'not'-оор хийнэ: 'Had we not agreed...' (урвуу нөхцөлт өгүүлбэрт 'Hadn't we agreed...' гэсэн товчилсон хэлбэр хэрэглэгддэггүй).",
+  "examples": [
+   {
+    "mn": "Саатал гарвал бид мэдэгдэнэ.",
+    "en": "Should a delay occur, we will notify you.",
+    "mn_latin": "Saatal garval bid medegdene."
+   },
+   {
+    "mn": "Гэрээг цуцлах тохиолдолд торгууль ногдоно.",
+    "en": "Were the contract to be cancelled, a penalty would apply.",
+    "mn_latin": "Gereeg tsutslakh tokhioldold torguuli nogdono."
+   },
+   {
+    "mn": "Тэд эрт мэдсэн бол өөрөөр шийдэх байсан.",
+    "en": "Had they known earlier, they would have decided differently.",
+    "mn_latin": "Ted ert medsen bol ööröör shiidekh baisan."
+   },
+   {
+    "mn": "Үнэ өсөх тохиолдолд дахин хэлэлцэнэ.",
+    "en": "Should prices rise, we will renegotiate.",
+    "mn_latin": "Üne ösökh tokhioldold dakhin kheleltsene."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хүргэлт хоцор___ бид торгууль төлнө.",
+   "answer": "вол",
+   "options": [
+    "вол",
+    "сон",
+    "ж",
+    "лаа"
+   ],
+   "translation": "If the delivery is late, we will pay a penalty.",
+   "explain_en": "Conditional -вол attaches to the stem хоцор- (back vowel o, so -вол).",
+   "explain_mn": "Хоцор- үгийн сүүлчийн эгшиг нь хойд эгшиг (о) тул -вол нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Гэрээг цуцлах ___ урьдчилсан төлбөр буцаагдахгүй.",
+   "answer": "тохиолдолд",
+   "options": [
+    "тохиолдолд",
+    "тохиолдол",
+    "тохиолдсон",
+    "тохиолдлоор"
+   ],
+   "translation": "In the event of cancelling the contract, the advance payment will not be refunded.",
+   "explain_en": "The formal pattern is verb-х + тохиолдолд, 'in the case of'.",
+   "explain_mn": "-х + тохиолдолд нь албан ёсны нөхцөл илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид эрт тохиролцсон ___, асуудал гарахгүй байсан.",
+   "answer": "бол",
+   "options": [
+    "бол",
+    "гэж",
+    "уу",
+    "руу"
+   ],
+   "translation": "Had we agreed earlier, there would have been no problem.",
+   "explain_en": "Past hypothetical: -сан бол ('if ... had').",
+   "explain_mn": "Өнгөрсөн цагийн таамаглал: -сан бол."
+  },
+  {
+   "lang": "en",
+   "text": "___ you need changes, please contact our manager.",
+   "answer": "Should",
+   "options": [
+    "Should",
+    "Were",
+    "Had",
+    "Would"
+   ],
+   "translation": "Өөрчлөлт хэрэгтэй бол манай менежертэй холбогдоно уу.",
+   "explain_en": "'Should' + subject introduces a possible future condition without 'if'.",
+   "explain_mn": "Боломжит ирээдүйн нөхцөлд 'Should' + subject хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ we to cancel the order, what would the penalty be?",
+   "answer": "Were",
+   "options": [
+    "Were",
+    "Should",
+    "Had",
+    "Did"
+   ],
+   "translation": "Бид захиалгаа цуцлах юм бол торгууль ямар байх вэ?",
+   "explain_en": "'Were + subject + to + verb' is the inverted form of 'If we were to cancel'.",
+   "explain_mn": "'Were + subject + to + verb' нь 'If we were to...'-ийн урвуу хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "___ they signed earlier, the price would have been lower.",
+   "answer": "Had",
+   "options": [
+    "Had",
+    "Were",
+    "Should",
+    "Have"
+   ],
+   "translation": "Тэд эрт гарын үсэг зурсан бол үнэ бага байх байсан.",
+   "explain_en": "Past unreal condition: 'Had + subject + past participle'.",
+   "explain_mn": "Өнгөрсөн цагийн бодит бус нөхцөл: 'Had + subject + V3'."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Гэрээний 7-р зүйлд хүргэлтийн саатлын талаар юу гэж бичих вэ?",
+   "en": "What should we write in Clause 7 about delivery delays?",
+   "mn_latin": "Gereenii 7-r züild khürgeltiin saatlyn talaar yuu gej bichikh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Саатал 10 хоногоос хэтэрвэл бид 2 хувийн торгууль санал болгож байна.",
+   "en": "Should a delay exceed ten days, we propose a two percent penalty.",
+   "mn_latin": "Saatal 10 khonogoos khetervel bid 2 khuviin torguuli sanal bolgoj baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Үүнийг зөвшөөрч болно. Гэхдээ давагдашгүй хүчин зүйл тохиолдвол яах вэ?",
+   "en": "That's acceptable. But what if force majeure occurs?",
+   "mn_latin": "Üüniig zövshöörch bolno. Gekhdee davagdashgüi khüchin züil tokhioldvol yaakh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэр тохиолдолд аль ч тал хариуцлага хүлээхгүй.",
+   "en": "In that case, neither party bears responsibility.",
+   "mn_latin": "Ter tokhioldold ali ch tal khariutslaga khüleekhgüi."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Үнэ өөрчлөгдөх тохиолдолд яах вэ? Түүхий эдийн үнэ огцом өсөж магадгүй.",
+   "en": "And price changes? Raw material prices might rise sharply.",
+   "mn_latin": "Üne öörchlögdökh tokhioldold yaakh ve? Tüükhii ediin üne ogtsom ösöj magadgüi."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Үнэ 5 хувиас дээш өсвөл бид дахин хэлэлцэнэ.",
+   "en": "Should prices rise by more than five percent, we will renegotiate.",
+   "mn_latin": "Üne 5 khuvias deesh ösvöl bid dakhin kheleltsene."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэгвэл цуцлалтын нөхцөлийг нэмье. Бид цуцалбал урьдчилсан төлбөр буцах уу?",
+   "en": "Then let's add cancellation terms. Were we to cancel, would the advance payment be refunded?",
+   "mn_latin": "Tegvel tsutslaltyn nökhtsöliig nemiye. Bid tsutsalbal uridchilsan tölbör butsakh uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Буцахгүй, гэхдээ 30 хоногийн өмнө мэдэгдвэл хагас нь буцна.",
+   "en": "No, but should you give 30 days' notice, half would be returned.",
+   "mn_latin": "Butsakhgüi, gekhdee 30 khonogiin ömnö medegdvel khagas ni butsna."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian business, personal trust and a good relationship often matter as much as the written contract, so contingency clauses are usually discussed politely and in person before drafting. Foreign partners are advised to confirm key terms in writing and, ideally, in both Mongolian and English. Formal contract language in English often uses inverted conditionals ('Should...', 'Had...') for a precise, professional tone.",
+  "mn": "Монголын бизнесийн орчинд хувийн итгэлцэл, сайн харилцаа нь бичгийн гэрээтэй адил чухал байдаг тул гэнэтийн нөхцөл байдлын заалтыг ихэвчлэн эелдгээр, биечлэн ярилцсаны дараа бичдэг. Гадаадын түнш гол нөхцөлөө бичгээр, боломжтой бол монгол, англи хоёр хэлээр баталгаажуулах нь зүйтэй. Англи хэлний албан ёсны гэрээнд нарийвчлал, мэргэжлийн өнгө аяс өгөхийн тулд 'Should...', 'Had...' зэрэг урвуу нөхцөлт өгүүлбэрийг ихэвчлэн хэрэглэдэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 13,
+  "notes": "Mostly good, but a few logic and naturalness problems (a fill-blank sentence that contradicted itself, clumsy 'тохиолдсон тохиолдолд', imprecise grammar explanations)."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Mostly solid. Fixed one calqued collocation, inaccurate notes on 'were to' and negation, a non-existent option form, a non-unique blank, and one mistranslated dialogue line.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "'том эрсдэл' is a calque. Standard collocation is 'өндөр эрсдэлтэй'."
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_en",
+    "why": "The natural English collocation is 'high risk'."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'Were to' expresses an unlikely condition, not an impossible one. Contracted 'Hadn't we' is not used in inverted conditionals, not merely rare."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'тохиолдоор' is not a real form. The instrumental is 'тохиолдлоор'."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'тул' and 'ч' also form grammatical sentences, so the answer was not unique."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "'5 хувиас дээш өсвөл' means 'rise by more than 5%'. 'Rise above five percent' is wrong."
+   }
+  ]
+ }
+}

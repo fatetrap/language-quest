@@ -1,0 +1,516 @@
+{
+ "intro_en": "You will learn Mongolian idioms built on body parts like сэтгэл, зүрх, толгой, гар, нүд and чих, and English idioms such as 'keep an eye on', 'cold feet' and 'lend a hand'. You will also see how fixed noun + verb phrases use set case endings.",
+ "intro_mn": "Та сэтгэл, зүрх, толгой, гар, нүд, чих зэрэг биеийн хэсгийн нэрээр бүтсэн монгол хэллэг болон 'keep an eye on', 'cold feet', 'lend a hand' зэрэг англи хэллэгийг сурна. Мөн тогтсон нэр үг + үйл үгийн хослол дахь тусгай тийн ялгалын нөхцөлийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "сэтгэл",
+   "en": "heart, feelings, mind",
+   "pos": "noun",
+   "example_mn": "Түүний сэтгэл тайван биш байна.",
+   "example_en": "He is not at peace.",
+   "mn_latin": "setgel"
+  },
+  {
+   "mn": "зүрх",
+   "en": "heart",
+   "pos": "noun",
+   "example_mn": "Шалгалтын өмнө миний зүрх дэлсэв.",
+   "example_en": "My heart pounded before the exam.",
+   "mn_latin": "zürkh"
+  },
+  {
+   "mn": "нүд нээх",
+   "en": "to open someone's eyes",
+   "pos": "verb phrase",
+   "example_mn": "Энэ ном миний нүдийг нээсэн.",
+   "example_en": "This book opened my eyes.",
+   "mn_latin": "nüd neekh"
+  },
+  {
+   "mn": "чих тавих",
+   "en": "to listen carefully",
+   "pos": "verb phrase",
+   "example_mn": "Менежерийнхээ яриаг чих тавьж сонсоорой.",
+   "example_en": "Listen carefully to your manager's talk.",
+   "mn_latin": "chikh tavikh"
+  },
+  {
+   "mn": "гар сунгах",
+   "en": "to lend a hand, reach out to help",
+   "pos": "verb phrase",
+   "example_mn": "Багийнхан надад гараа сунгасан.",
+   "example_en": "The team lent me a hand.",
+   "mn_latin": "gar sungakh"
+  },
+  {
+   "mn": "толгой өвдөх",
+   "en": "to have a headache; to be troubled",
+   "pos": "verb phrase",
+   "example_mn": "Энэ асуудлаас толгой өвдөж байна.",
+   "example_en": "This problem is giving me a headache.",
+   "mn_latin": "tolgoi övdökh"
+  },
+  {
+   "mn": "сэтгэл зовох",
+   "en": "to worry",
+   "pos": "verb phrase",
+   "example_mn": "Тэр хойшлогдсон ажилд сэтгэл зовж байна.",
+   "example_en": "She is worried about the delayed work.",
+   "mn_latin": "setgel zovokh"
+  },
+  {
+   "mn": "сэтгэл гаргах",
+   "en": "to put one's heart into, to make an effort",
+   "pos": "verb phrase",
+   "example_mn": "Тэр ажилдаа сэтгэл гаргадаг.",
+   "example_en": "He puts his heart into his work.",
+   "mn_latin": "setgel gargakh"
+  },
+  {
+   "mn": "нүд ирмэх",
+   "en": "to blink; in a flash",
+   "pos": "verb phrase",
+   "example_mn": "Нүд ирмэхийн зуур цаг өнгөрлөө.",
+   "example_en": "Time passed in the blink of an eye.",
+   "mn_latin": "nüd irmekh"
+  },
+  {
+   "mn": "стресс",
+   "en": "stress",
+   "pos": "noun",
+   "example_mn": "Сүүлийн үед ажлын стресс ихэссэн.",
+   "example_en": "Work stress has increased lately.",
+   "mn_latin": "stryess"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Чи надад гараа сунгаж чадах уу?",
+   "en": "Can you lend me a hand?",
+   "alt_mn": [
+    "Чи надад тусалж чадах уу?"
+   ],
+   "alt_en": [
+    "Can you give me a hand?"
+   ],
+   "mn_latin": "Chi nadad garaa sungaj chadakh uu?"
+  },
+  {
+   "mn": "Тайлангийн хугацаанаас толгой өвдөж байна.",
+   "en": "The report deadline is giving me a headache.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have a headache because of the report deadline."
+   ],
+   "mn_latin": "Tailangiin khugatsaanaas tolgoi övdöj baina."
+  },
+  {
+   "mn": "Захирлын яриаг чих тавьж сонсоорой.",
+   "en": "Listen carefully to the director's talk.",
+   "alt_mn": [
+    "Захирлын яриаг анхааралтай сонсоорой."
+   ],
+   "alt_en": [
+    "Pay close attention to the director's speech."
+   ],
+   "mn_latin": "Zakhirlyn yariag chikh tavij sonsooroi."
+  },
+  {
+   "mn": "Энэ туршлага миний нүдийг нээсэн.",
+   "en": "This experience opened my eyes.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene turshlaga minii nüdiig neesen."
+  },
+  {
+   "mn": "Тэр ярилцлагын өмнө зүрх нь дэлсэж байв.",
+   "en": "His heart was pounding before the interview.",
+   "alt_mn": [
+    "Тэр ярилцлагын өмнө зүрх нь дэлсэж байлаа."
+   ],
+   "alt_en": [
+    "Her heart was pounding before the interview."
+   ],
+   "mn_latin": "Ter yariltslagyn ömnö zürkh ni delsej baiv."
+  },
+  {
+   "mn": "Хүүхдүүдийнхээ төлөө сэтгэл зовохоо боль.",
+   "en": "Stop worrying about your children.",
+   "alt_mn": [
+    "Хүүхдүүддээ санаа зовохоо боль."
+   ],
+   "alt_en": [],
+   "mn_latin": "Khüükhdüüdiinkhee tölöö setgel zovokhoo boli."
+  },
+  {
+   "mn": "Би шинэ төсөлд сэтгэл гаргаж ажиллаж байна.",
+   "en": "I am putting my heart into the new project.",
+   "alt_mn": [],
+   "alt_en": [
+    "I am working hard on the new project."
+   ],
+   "mn_latin": "Bi shine tösöld setgel gargaj ajillaj baina."
+  },
+  {
+   "mn": "Нүд ирмэхийн зуур хуралдаан дууслаа.",
+   "en": "The meeting ended in the blink of an eye.",
+   "alt_mn": [],
+   "alt_en": [
+    "The meeting was over in a flash."
+   ],
+   "mn_latin": "Nüd irmekhiin zuur khuraldaan duuslaa."
+  },
+  {
+   "mn": "Түүнийг анхааралтай ажиглаж байгаарай, тэр сэтгэл дундуур байна.",
+   "en": "Keep an eye on him; he is upset.",
+   "alt_mn": [
+    "Түүнийг харж байгаарай, тэр сэтгэл дундуур байна."
+   ],
+   "alt_en": [
+    "Keep an eye on her; she is upset."
+   ],
+   "mn_latin": "Tüüniig ankhaaraltai ajiglaj baigaarai, ter setgel dunduur baina."
+  },
+  {
+   "mn": "Тэр хуримынхаа өмнө айгаад ухарсан.",
+   "en": "Before the wedding he got cold feet.",
+   "alt_mn": [
+    "Тэр хуримынхаа өмнө айж, шийдвэрээсээ буцсан."
+   ],
+   "alt_en": [
+    "He got cold feet before the wedding."
+   ],
+   "mn_latin": "Ter khurimynkhaa ömnö aigaad ukharsan."
+  },
+  {
+   "mn": "Ажлын стресс миний сэтгэлд хүндээр тусаж байна.",
+   "en": "Work stress is weighing heavily on my mind.",
+   "alt_mn": [],
+   "alt_en": [
+    "Work stress is really affecting me."
+   ],
+   "mn_latin": "Ajlyn stryess minii setgeld khündeer tusaj baina."
+  },
+  {
+   "mn": "Найз маань намайг үргэлж чих тавьж сонсдог.",
+   "en": "My friend always listens to me attentively.",
+   "alt_mn": [],
+   "alt_en": [
+    "My friend always lends me an ear."
+   ],
+   "mn_latin": "Naiz maani namaig ürgelj chikh tavij sonsdog."
+  }
+ ],
+ "grammar": {
+  "title_en": "Fixed collocations and case endings",
+  "title_mn": "Тогтсон хэлц ба тийн ялгалын нөхцөл",
+  "explain_en": "Many Mongolian body idioms are fixed: the noun keeps a set form and the verb is chosen for it. Some take a particular case. Examples: сэтгэл зовох takes the dative-locative for the cause (ажилд сэтгэл зовох), while the ablative gives the source (асуудлаас толгой өвдөх). Чих тавих often takes the accusative for what you listen to (яриаг чих тавих). The possessive -аа/-ээ on the noun (гараа сунгах) refers back to the subject. Learn each idiom together with its case.",
+  "explain_mn": "Монгол хэлний биеийн хэсгийн олон хэллэг тогтсон байдаг: нэр үг нь тогтсон хэлбэртэй, үйл үг нь түүнд тохирсон байна. Зарим нь тодорхой тийн ялгал шаарддаг. Жишээ нь сэтгэл зовох шалтгааныг өгөх-оршихын тийн ялгалаар (ажилд сэтгэл зовох) заадаг бол гарахын тийн ялгал эх үүсвэрийг заана (асуудлаас толгой өвдөх). Чих тавих хэллэгт юуг сонсож буйг ихэвчлэн заахын тийн ялгалаар илэрхийлнэ (яриаг чих тавих). Нэр үгийн -аа/-ээ ерөнхий хамаатуулах нөхцөл (гараа сунгах) өгүүлэгч рүүгээ буцаж заана. Хэллэг бүрийг тийн ялгалтай нь хамт цээжил.",
+  "examples": [
+   {
+    "mn": "Ажилд сэтгэл зовж байна.",
+    "en": "I'm worried about work.",
+    "mn_latin": "Ajild setgel zovj baina."
+   },
+   {
+    "mn": "Асуудлаас толгой өвдөж байна.",
+    "en": "The problem is giving me a headache.",
+    "mn_latin": "Asuudlaas tolgoi övdöj baina."
+   },
+   {
+    "mn": "Яриаг чих тавьж сонсов.",
+    "en": "He listened carefully to the talk.",
+    "mn_latin": "Yariag chikh tavij sonsov."
+   },
+   {
+    "mn": "Тэр надад гараа сунгасан.",
+    "en": "He lent me a hand.",
+    "mn_latin": "Ter nadad garaa sungasan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ ___ толгой өвдөж байна.",
+   "answer": "асуудлаас",
+   "options": [
+    "асуудлаас",
+    "асуудалд",
+    "асуудлыг",
+    "асуудалтай"
+   ],
+   "translation": "This problem is giving me a headache.",
+   "explain_en": "The cause of the headache is expressed with the ablative: асуудал + аас = асуудлаас (the vowel drops from the stem).",
+   "explain_mn": "Толгой өвдөх шалтгааныг хасахын тийн ялгалаар илэрхийлнэ: асуудлаас."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр ___ сэтгэл зовж байна.",
+   "answer": "ажилд",
+   "options": [
+    "ажилд",
+    "ажлаас",
+    "ажлыг",
+    "ажилтай"
+   ],
+   "translation": "She is worried about work.",
+   "explain_en": "Сэтгэл зовох takes the dative-locative for what you worry about: ажилд.",
+   "explain_mn": "Сэтгэл зовох үйл үг юунд зовж буйг оршихын тийн ялгалаар (ажилд) заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Багш яриаг ___ тавьж сонсов.",
+   "answer": "чих",
+   "options": [
+    "чих",
+    "нүд",
+    "гар",
+    "зүрх"
+   ],
+   "translation": "The teacher listened carefully to the talk.",
+   "explain_en": "'Чих тавих' is the fixed idiom for listening carefully; other body parts do not work.",
+   "explain_mn": "'Чих тавих' нь анхааралтай сонсох тогтсон хэллэг тул өөр эрхтэн орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Please keep an ___ on the kids while I cook.",
+   "answer": "eye",
+   "options": [
+    "eye",
+    "ear",
+    "hand",
+    "foot"
+   ],
+   "translation": "Хоол хийж байхад хүүхдүүдийг харж байгаарай.",
+   "explain_en": "'Keep an eye on' means to watch over someone or something.",
+   "explain_mn": "'Keep an eye on' нь хэн нэгнийг эсвэл ямар нэг зүйлийг анхаарч харах, хараа хяналтандаа байлгах гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "He got cold ___ and canceled the trip.",
+   "answer": "feet",
+   "options": [
+    "feet",
+    "hands",
+    "eyes",
+    "ears"
+   ],
+   "translation": "Тэр айгаад аяллаа цуцалсан.",
+   "explain_en": "'Get cold feet' means to become nervous and back out of something planned.",
+   "explain_mn": "'Get cold feet' нь төлөвлөсөн зүйлээсээ айгаад ухрах гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Could you lend me a ___ with these boxes?",
+   "answer": "hand",
+   "options": [
+    "hand",
+    "head",
+    "heart",
+    "eye"
+   ],
+   "translation": "Эдгээр хайрцгийг зөөхөд надад тусалж өгөөч?",
+   "explain_en": "'Lend a hand' means to help; the noun 'hand' is fixed.",
+   "explain_mn": "'Lend a hand' нь туслах гэсэн утгатай, 'hand' гэдэг үг тогтсон."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Болд, чи өнөөдөр ядарсан харагдаж байна. Юу болсон бэ?",
+   "en": "Bold, you look tired today. What happened?",
+   "mn_latin": "Bold, chi önöödör yadarsan kharagdaj baina. Yuu bolson be?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тайлангийн хугацаанаас толгой өвдөж байна. Сэтгэл ч тайван биш.",
+   "en": "The report deadline is giving me a headache. And I'm not at ease either.",
+   "mn_latin": "Tailangiin khugatsaanaas tolgoi övdöj baina. Setgel ch taivan bish."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Санаа зовох хэрэггүй. Би чамд гараа сунгая.",
+   "en": "Don't worry. Let me lend you a hand.",
+   "mn_latin": "Sanaa zovokh khereggüi. Bi chamd garaa sungaya."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Баярлалаа. Захирлын өчигдөр хэлсэн үгийг чих тавьж сонссон уу?",
+   "en": "Thanks. Did you listen carefully to what the director said yesterday?",
+   "mn_latin": "Bayarlalaa. Zakhirlyn öchigdör khelsen ügiig chikh tavij sonsson uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм ээ, тэр яриа миний нүдийг нээсэн. Бид хэт олон ажил хийж байна.",
+   "en": "Yes, that talk opened my eyes. We are doing too much work.",
+   "mn_latin": "Tiim ee, ter yaria minii nüdiig neesen. Bid khet olon ajil khiij baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Үнэн. Заримдаа зүрх дэлсэх хэмжээний стресс болдог.",
+   "en": "True. Sometimes the stress makes your heart pound.",
+   "mn_latin": "Ünen. Zarimdaa zürkh delsekh khemjeenii stryess boldog."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Үдийн цайны цагаар хамт алхъя. Тэгвэл сэтгэл амарна.",
+   "en": "Let's take a walk together at lunch. Then you'll feel calmer.",
+   "mn_latin": "Üdiin tsainy tsagaar khamt alkhya. Tegvel setgel amarna."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн санаа байна. Нүд ирмэхийн зуур хоёр цаг болчихлоо.",
+   "en": "Good idea. Two hours have flown by in the blink of an eye.",
+   "mn_latin": "Sain sanaa baina. Nüd irmekhiin zuur khoyor tsag bolchikhloo."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian has many sayings about the heart and mind, and сэтгэл is central: people talk about a good or open сэтгэл when they mean a kind person. Body idioms are common in offices in Ulaanbaatar as well as in ger districts, and they are a polite, softer way to talk about stress. English body idioms like 'lend a hand' are just as casual, so use them with colleagues rather than in formal writing.",
+  "mn": "Монгол хэлэнд сэтгэл, зүрхтэй холбоотой хэллэг олон бөгөөд сэтгэл гэдэг үг нэн чухал: сайхан сэтгэлтэй, нээлттэй сэтгэлтэй гэвэл энэрэнгүй, сайн хүнийг хэлдэг. Биеийн хэсгийн хэллэг Улаанбаатарын оффис болон гэр хороололд адил түгээмэл бөгөөд стрессийн тухай эелдэг, зөөлөн ярих арга юм. Англи хэлний 'lend a hand' зэрэг хэллэг ярианы хэв маягтай тул албан бичигт биш, хамт олонтойгоо ярихад тохиромжтой."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 18,
+  "notes": "Mostly good content, but a few mistranslated or ungrammatical items (cold feet sentence, чих тавьдаг sentence, dialogue line) needed fixes."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 22,
+  "notes": "Replaced the non-standard нүд тайлах with нүд нээх everywhere, fixed register and case errors, and aligned the grammar explanation in mn with the en version.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "хийгдсэн is unnatural for idioms"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "mn",
+    "why": "нүд тайлах is not standard; нүд нээх is"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "standard idiom form"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "standard idiom нүд нээх"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "буцсан means 'returned'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "буцсан alone is wrong; added the needed object"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "тогтвортой means 'stable'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn must match explain_en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "асуудал+аас gives the wrong form; the stem changes"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "full correct form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "correct case forms"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "the stem changes, so the options must be full words"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "answer",
+    "why": "full form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "correct stem forms (ажлаас, ажлыг)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "хараад хамгаалах is awkward"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "text",
+    "why": "American spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "unnatural translation"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "чи/та inconsistency"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "wrong possessive чинь and the case of захирал"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "standard idiom нүд нээх"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "natural wording for 'at lunch'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "match en (kind, polite)"
+   }
+  ]
+ }
+}

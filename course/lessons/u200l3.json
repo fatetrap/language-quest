@@ -1,0 +1,435 @@
+{
+ "intro_en": "You'll learn to decode official khoroo notices about heating, water, power, and permits, and to turn stacked bureaucratic verbs like \"шийдвэрлэх ажлыг зохион байгуулах\" into plain Mongolian. On the English side, you'll practice present continuous passives with prepositions, like \"is being looked into\" and \"is being dealt with.\"",
+ "intro_mn": "Дулаан, ус, цахилгаан, зөвшөөрлийн тухай хорооны албан бичгийг ойлгож, \"шийдвэрлэх ажлыг зохион байгуулах\" мэт давхар үйл үгийг энгийн хэлээр илэрхийлж сурна. Англи хэлэнд \"is being looked into\", \"is being dealt with\" зэрэг угтвар үгтэй одоо үргэлжилж буй цагийн идэвхгүй хэвийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "албан бичиг",
+   "en": "official letter",
+   "pos": "noun",
+   "example_mn": "Хорооноос албан бичиг ирлээ.",
+   "example_en": "An official letter came from the khoroo.",
+   "mn_latin": "alban bichig"
+  },
+  {
+   "mn": "шийдвэрлэх",
+   "en": "to resolve",
+   "pos": "verb",
+   "example_mn": "Энэ асуудлыг яаралтай шийдвэрлэх шаардлагатай.",
+   "example_en": "This issue needs to be resolved urgently.",
+   "mn_latin": "shiidverlekh"
+  },
+  {
+   "mn": "хэрэгжүүлэх",
+   "en": "to implement",
+   "pos": "verb",
+   "example_mn": "Шинэ журмыг ирэх сараас хэрэгжүүлнэ.",
+   "example_en": "The new rules will be implemented starting next month.",
+   "mn_latin": "kheregjüülekh"
+  },
+  {
+   "mn": "зохион байгуулах",
+   "en": "to organize",
+   "pos": "verb",
+   "example_mn": "Хороо иргэдийн хурал зохион байгуулна.",
+   "example_en": "The khoroo will organize a residents' meeting.",
+   "mn_latin": "zokhion baiguulakh"
+  },
+  {
+   "mn": "хянан шийдвэрлэх",
+   "en": "to review and decide",
+   "pos": "verb",
+   "example_mn": "Таны хүсэлтийг хянан шийдвэрлэж байна.",
+   "example_en": "Your request is being looked into.",
+   "mn_latin": "khyanan shiidverlekh"
+  },
+  {
+   "mn": "зөвшөөрөл",
+   "en": "permit",
+   "pos": "noun",
+   "example_mn": "Хашаа барихад зөвшөөрөл авах хэрэгтэй.",
+   "example_en": "You need a permit to build a fence.",
+   "mn_latin": "zövshööröl"
+  },
+  {
+   "mn": "дулаан хангамж",
+   "en": "heating supply",
+   "pos": "noun",
+   "example_mn": "Маргааш дулаан хангамж түр зогсоно.",
+   "example_en": "The heating supply will be temporarily stopped tomorrow.",
+   "mn_latin": "dulaan khangamj"
+  },
+  {
+   "mn": "тасалдал",
+   "en": "outage",
+   "pos": "noun",
+   "example_mn": "Өчигдөр цахилгааны тасалдал гарсан.",
+   "example_en": "There was a power outage yesterday.",
+   "mn_latin": "tasaldal"
+  },
+  {
+   "mn": "өргөдөл",
+   "en": "application",
+   "pos": "noun",
+   "example_mn": "Өргөдлөө хорооны ажилтанд өгнө үү.",
+   "example_en": "Please give your application to the khoroo staff.",
+   "mn_latin": "örgödöl"
+  },
+  {
+   "mn": "холбогдох байгууллага",
+   "en": "relevant agency",
+   "pos": "noun",
+   "example_mn": "Энэ асуудлыг холбогдох байгууллага шийднэ.",
+   "example_en": "The relevant agency will handle this issue.",
+   "mn_latin": "kholbogdokh baiguullaga"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Таны хүсэлтийг одоо хянан шийдвэрлэж байна.",
+   "en": "Your request is being looked into now.",
+   "alt_mn": [
+    "Таны хүсэлтийг одоогоор хянаж байна."
+   ],
+   "alt_en": [
+    "Your request is currently being reviewed.",
+    "Your request is now being looked into."
+   ],
+   "mn_latin": "Tany khüseltiig odoo khyanan shiidverlej baina."
+  },
+  {
+   "mn": "Халуун усны асуудлыг шийдвэрлэх ажлыг зохион байгуулж байна.",
+   "en": "Work to resolve the hot water issue is being organized.",
+   "alt_mn": [],
+   "alt_en": [
+    "Measures to resolve the hot water problem are being organized."
+   ],
+   "mn_latin": "Khaluun usny asuudlyg shiidverlekh ajlyg zokhion baiguulj baina."
+  },
+  {
+   "mn": "Энгийнээр хэлбэл, халуун усыг засаж байна.",
+   "en": "Put simply, the hot water is being fixed.",
+   "alt_mn": [
+    "Энгийнээр хэлэхэд, халуун усыг засаж байна."
+   ],
+   "alt_en": [
+    "In plain words, they're fixing the hot water.",
+    "Simply put, the hot water is being fixed."
+   ],
+   "mn_latin": "Engiineer khelbel, khaluun usyg zasaj baina."
+  },
+  {
+   "mn": "Цахилгааны тасалдлыг одоо арилгаж байна.",
+   "en": "The power outage is being dealt with right now.",
+   "alt_mn": [
+    "Цахилгааны тасалдлыг яг одоо засаж байна."
+   ],
+   "alt_en": [
+    "The power outage is being fixed right now.",
+    "They're dealing with the power outage right now."
+   ],
+   "mn_latin": "Tsakhilgaany tasaldlyg odoo arilgaj baina."
+  },
+  {
+   "mn": "Хорооноос иргэдэд албан бичиг хүргүүлэв.",
+   "en": "The khoroo sent an official letter to residents.",
+   "alt_mn": [
+    "Хороо иргэдэд албан бичиг хүргүүлсэн."
+   ],
+   "alt_en": [
+    "The khoroo sent residents an official notice."
+   ],
+   "mn_latin": "Khoroonoos irgeded alban bichig khürgüülev."
+  },
+  {
+   "mn": "Энэ шийдвэрийг дөрөвдүгээр сарын 1-ээс эхлэн хэрэгжүүлнэ.",
+   "en": "This decision will be implemented starting April 1.",
+   "alt_mn": [],
+   "alt_en": [
+    "This decision takes effect on April 1.",
+    "This decision will take effect from April 1."
+   ],
+   "mn_latin": "Ene shiidveriig dörövdügeer saryn 1-ees ekhlen kheregjüülne."
+  },
+  {
+   "mn": "Гэр хорооллын замын асуудлыг судалж байна.",
+   "en": "The road problem in the ger district is being looked at.",
+   "alt_mn": [
+    "Гэр хорооллын замын асуудлыг судалж үзэж байна."
+   ],
+   "alt_en": [
+    "The road issue in the ger district is being looked into."
+   ],
+   "mn_latin": "Ger khoroollyn zamyn asuudlyg sudalj baina."
+  },
+  {
+   "mn": "Хашаа барих зөвшөөрлийн өргөдлийг тань хүлээн авлаа.",
+   "en": "Your application for a fence permit has been received.",
+   "alt_mn": [
+    "Таны хашаа барих зөвшөөрлийн өргөдлийг хүлээн авлаа."
+   ],
+   "alt_en": [
+    "We have received your application for a fence permit."
+   ],
+   "mn_latin": "Khashaa barikh zövshöörliin örgödliig tani khüleen avlaa."
+  },
+  {
+   "mn": "Тэд \"хэрэгжүүлнэ\" гэж бичсэн ч энэ нь зүгээр л \"хийнэ\" гэсэн үг.",
+   "en": "They wrote \"will be implemented,\" but it just means \"will be done.\"",
+   "alt_mn": [],
+   "alt_en": [
+    "They wrote \"will be implemented,\" but that simply means \"will be done.\""
+   ],
+   "mn_latin": "Ted \"kheregjüülne\" gej bichsen ch ene ni zügeer l \"khiine\" gesen üg."
+  },
+  {
+   "mn": "Таны гомдлыг холбогдох байгууллагад шилжүүлсэн.",
+   "en": "Your complaint has been passed on to the relevant agency.",
+   "alt_mn": [
+    "Таны гомдлыг холбогдох байгууллага руу шилжүүлсэн."
+   ],
+   "alt_en": [
+    "Your complaint has been forwarded to the relevant agency."
+   ],
+   "mn_latin": "Tany gomdlyg kholbogdokh baiguullagad shiljüülsen."
+  },
+  {
+   "mn": "Дулааны шугамын засварыг ирэх долоо хоногт хийнэ.",
+   "en": "The heating pipes will be repaired next week.",
+   "alt_mn": [
+    "Дулааны шугамыг ирэх долоо хоногт засна."
+   ],
+   "alt_en": [
+    "They'll repair the heating pipes next week.",
+    "The heating line repair will be done next week."
+   ],
+   "mn_latin": "Dulaany shugamyn zasvaryg irekh doloo khonogt khiine."
+  },
+  {
+   "mn": "Энэ асуудлыг аль хэдийн шийдэж байгаа, санаа зоволтгүй.",
+   "en": "This is already being taken care of, don't worry.",
+   "alt_mn": [
+    "Энэ асуудлыг аль хэдийн шийдэж байна, санаа бүү зов."
+   ],
+   "alt_en": [
+    "This issue is already being dealt with, don't worry."
+   ],
+   "mn_latin": "Ene asuudlyg ali khediin shiidej baigaa, sanaa zovoltgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Unstacking bureaucratic verbs / Prepositional passives in the present continuous",
+  "title_mn": "Давхар албан үйл үгийг энгийн болгох / Угтвар үгтэй идэвхгүй хэв (is being looked into)",
+  "explain_en": "Official Mongolian loves stacking: a verb becomes a noun phrase (шийдвэрлэх ажил, \"the work of resolving\"), and then another verb is added on top (зохион байгуулах, хэрэгжүүлэх). \"Асуудлыг шийдвэрлэх ажлыг зохион байгуулж байна\" literally means \"the work of resolving the issue is being organized,\" but all it really says is \"Асуудлыг шийдэж байна\" (they're solving it). To simplify, find the core action and use it as the main verb. Formal verbs also have everyday partners: шийдвэрлэх → шийдэх, хэрэгжүүлэх → хийх, зохион байгуулах → хийх or бэлдэх. Notice that Mongolian often leaves the doer out and uses the active form with -ж байна, where English would use a passive.",
+  "explain_mn": "Англи хэлний албан мэдэгдэлд \"is being + V3 + угтвар үг\" бүтэц их гардаг: \"Your request is being looked into\" (Таны хүсэлтийг шалгаж байна), \"The outage is being dealt with\" (Тасалдлыг арилгаж байна), \"It's being taken care of\" (Үүнийг шийдэж байна). Look into, deal with, take care of зэрэг нь угтвар үгтэй үйл үг тул идэвхгүй хэвд ороход угтвар үг нь үйл үгийн ард хэвээр үлдэнэ. Түүнийг хасаж болохгүй: \"is being looked\" гэвэл буруу. Монгол хэлэнд ихэвчлэн үйлдэгчийг дурдалгүй \"-ж байна\" гэж хэлдэг бол англи хэлэнд энэ утгыг идэвхгүй хэвээр илэрхийлдэг.",
+  "examples": [
+   {
+    "mn": "Усны асуудлыг шийдвэрлэх ажлыг зохион байгуулж байна. → Усны асуудлыг шийдэж байна.",
+    "en": "Work to resolve the water issue is being organized. → The water issue is being dealt with.",
+    "mn_latin": "Usny asuudlyg shiidverlekh ajlyg zokhion baiguulj baina. → Usny asuudlyg shiidej baina."
+   },
+   {
+    "mn": "Таны хүсэлтийг хянан шийдвэрлэж байна. → Таны хүсэлтийг шалгаж байна.",
+    "en": "Your request is being reviewed. → Your request is being looked into.",
+    "mn_latin": "Tany khüseltiig khyanan shiidverlej baina. → Tany khüseltiig shalgaj baina."
+   },
+   {
+    "mn": "Зөвшөөрөл олгох ажлыг хэрэгжүүлж байна. → Зөвшөөрөл олгож байна.",
+    "en": "The issuing of permits is being implemented. → Permits are being issued.",
+    "mn_latin": "Zövshööröl olgokh ajlyg kheregjüülj baina. → Zövshööröl olgoj baina."
+   },
+   {
+    "mn": "Иргэдийн хурлыг зохион байгуулна. → Иргэдийн хурал хийнэ.",
+    "en": "A residents' meeting will be organized. → There will be a residents' meeting.",
+    "mn_latin": "Irgediin khurlyg zokhion baiguulna. → Irgediin khural khiine."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Таны хүсэлтийг хянан ___ байна.",
+   "answer": "шийдвэрлэж",
+   "options": [
+    "шийдвэрлэж",
+    "шийдвэрлэсэн",
+    "шийдвэрлэх",
+    "шийдвэрлэвэл"
+   ],
+   "translation": "Your request is being looked into.",
+   "explain_en": "The ongoing action \"is being...\" is expressed with the converb -ж followed by байна. \"Шийдвэрлэсэн байна\" would mean the request has already been resolved, not that it is being looked into. \"Шийдвэрлэх\" doesn't form a progressive with байна, and \"шийдвэрлэвэл\" means \"if (one) resolves.\"",
+   "explain_mn": "Үргэлжилж буй үйлдлийг \"-ж байна\" хэлбэрээр илэрхийлнэ. \"Шийдвэрлэсэн байна\" гэвэл аль хэдийн шийдвэрлэчихсэн гэсэн утгатай болно. \"Шийдвэрлэх\" нь \"байна\"-тай үргэлжлэх утга үүсгэхгүй, \"шийдвэрлэвэл\" нь болзох хэлбэр."
+  },
+  {
+   "lang": "mn",
+   "text": "Хорооноос иргэдэд ___ хүргүүллээ.",
+   "answer": "албан бичиг",
+   "options": [
+    "албан бичиг",
+    "тасалдал",
+    "дулаан хангамж",
+    "өргөдөл"
+   ],
+   "translation": "The khoroo sent an official letter to residents.",
+   "explain_en": "An office sends out (хүргүүлэх) an official letter, which is албан бичиг. An өргөдөл (application) goes the other way, from residents to the office, and you can't \"send\" an outage or a heating supply.",
+   "explain_mn": "Байгууллага иргэдэд \"албан бичиг\" хүргүүлдэг. \"Өргөдөл\"-ийг иргэн байгууллагад өгдөг тул чиглэл нь эсрэг. Тасалдал, дулаан хангамжийг хүргүүлэх боломжгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Энгийнээр хэлбэл, бид халуун усыг ___ байна.",
+   "answer": "засаж",
+   "options": [
+    "засаж",
+    "засах",
+    "засвар",
+    "засагдаж"
+   ],
+   "translation": "Put simply, we're fixing the hot water.",
+   "explain_en": "In plain style, the core action becomes the main verb: засаж байна, \"are fixing.\" \"Засагдаж\" is passive and clashes with the subject бид (we). \"Засах\" and \"засвар\" can't stand before байна on their own.",
+   "explain_mn": "Энгийн хэллэгт гол үйлдлийг шууд үйл үгээр хэлнэ: \"засаж байна\". \"Засагдаж\" нь үйлдэгдэх хэв тул \"бид\" гэсэн үйлдэгчтэй зөрчилдөнө. \"Засах\", \"засвар\" нь \"байна\"-гийн өмнө ганцаараа орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Your complaint is being looked ___.",
+   "answer": "into",
+   "options": [
+    "into",
+    "after",
+    "in",
+    "onto"
+   ],
+   "translation": "Таны гомдлыг шалгаж байна.",
+   "explain_en": "\"Look into\" means investigate. \"Look after\" means take care of someone, as with a child, and doesn't fit a complaint. \"Look in\" and \"look onto\" don't mean investigate.",
+   "explain_mn": "\"Look into\" нь \"шалгах, судлах\" гэсэн утгатай. \"Look after\" нь хүүхэд гэх мэт хэн нэгнийг \"асран халамжлах\" гэсэн утгатай тул гомдолд тохирохгүй. \"Look in\", \"look onto\" нь \"шалгах\" гэсэн утгагүй."
+  },
+  {
+   "lang": "en",
+   "text": "The power outage is ___ dealt with.",
+   "answer": "being",
+   "options": [
+    "being",
+    "been",
+    "be",
+    "to"
+   ],
+   "translation": "Цахилгааны тасалдлыг арилгаж байна.",
+   "explain_en": "The present continuous passive is is + being + past participle. \"Is been\" and \"is be\" are not grammatical. \"Is to be dealt with\" would need \"to be,\" not just \"to.\"",
+   "explain_mn": "Одоо үргэлжилж буй цагийн идэвхгүй хэв нь \"is + being + V3\" бүтэцтэй. \"Is been\", \"is be\" гэж хэлэхгүй. \"Is to be dealt with\" гэвэл зөвхөн \"to\" биш, \"to be\" хэрэгтэй."
+  },
+  {
+   "lang": "en",
+   "text": "Don't worry, the heating problem is being taken care ___.",
+   "answer": "of",
+   "options": [
+    "of",
+    "for",
+    "about",
+    "with"
+   ],
+   "translation": "Санаа зоволтгүй, халаалтын асуудлыг шийдэж байна.",
+   "explain_en": "The fixed phrase is \"take care of\" (handle, fix). In the passive the \"of\" stays at the end: \"is being taken care of.\"",
+   "explain_mn": "\"Take care of\" нь \"шийдэх, анхаарах\" гэсэн тогтвортой хэллэг. Идэвхгүй хэвд \"of\" өгүүлбэрийн төгсгөлд үлдэнэ: \"is being taken care of\"."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болормаа",
+   "mn": "Хорооноос албан бичиг ирсэн байна. Уншсан ч сайн ойлгосонгүй.",
+   "en": "We got an official letter from the khoroo. I read it, but I didn't really get it.",
+   "mn_latin": "Khoroonoos alban bichig irsen baina. Unshsan ch sain oilgosongüi."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Юу гэж бичсэн юм бэ?",
+   "en": "What does it say?",
+   "mn_latin": "Yuu gej bichsen yum be?"
+  },
+  {
+   "speaker": "Болормаа",
+   "mn": "\"Дулаан хангамжийн тасалдлыг шийдвэрлэх ажлыг зохион байгуулж байна\" гэнэ.",
+   "en": "It says, \"Work to resolve the heating supply outage is being organized.\"",
+   "mn_latin": "\"Dulaan khangamjiin tasaldlyg shiidverlekh ajlyg zokhion baiguulj baina\" gene."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Энгийнээр хэлбэл, халаалтыг засаж байна гэсэн үг.",
+   "en": "Put simply, it means the heating is being fixed.",
+   "mn_latin": "Engiineer khelbel, khalaaltyg zasaj baina gesen üg."
+  },
+  {
+   "speaker": "Болормаа",
+   "mn": "Хэзээ дуусахыг бичээгүй юу?",
+   "en": "Doesn't it say when it'll be done?",
+   "mn_latin": "Khezee duusakhyg bicheegüi yuu?"
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "\"Ажлыг энэ сарын 20-иос өмнө хэрэгжүүлнэ\" гэж байна. Тэгэхээр 20-иос өмнө халаалт орно.",
+   "en": "It says, \"The work will be implemented before the 20th of this month.\" So the heating will be back before the 20th.",
+   "mn_latin": "\"Ajlyg ene saryn 20-ios ömnö kheregjüülne\" gej baina. Tegekheer 20-ios ömnö khalaalt orno."
+  },
+  {
+   "speaker": "Болормаа",
+   "mn": "Тэгвэл \"20-иос өмнө засна\" гэж л бичиж болоогүй юм уу?",
+   "en": "Then couldn't they just write, \"We'll fix it before the 20th\"?",
+   "mn_latin": "Tegvel \"20-ios ömnö zasna\" gej l bichij boloogüi yum uu?"
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Албан бичиг чинь ийм л байдаг даа.",
+   "en": "That's just how official letters are.",
+   "mn_latin": "Alban bichig chini iim l baidag daa."
+  }
+ ],
+ "culture_note": {
+  "en": "The khoroo is the smallest administrative unit in Ulaanbaatar. Its office is where residents get residence certificates, hear about heating and water shutoffs, and hand in permit applications. Mongolian officialese leans heavily on noun-based phrases like \"шийдвэрлэх ажлыг зохион байгуулах,\" a style that grew out of the 20th-century administrative tradition. Today, many citizens, journalists, and even some officials argue that notices should simply say what will happen and when.",
+  "mn": "Хороо бол Улаанбаатарын засаг захиргааны хамгийн бага нэгж юм. Иргэд оршин суугаа газрын тодорхойлолт авах, дулаан, ус түр зогсох мэдээлэл сонсох, зөвшөөрлийн өргөдөл өгөхөөр хорооны албанд ханддаг. Монгол албан бичигт \"шийдвэрлэх ажлыг зохион байгуулах\" мэт нэр үгжсэн хэллэг их хэрэглэгддэг бөгөөд энэ хэв маяг XX зууны захиргааны уламжлалаас үүдэлтэй. Өнөөдөр олон иргэн, сэтгүүлч, зарим албан тушаалтан ч мэдэгдлийг юу, хэзээ болохыг нь энгийнээр бичих хэрэгтэй гэж үздэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A well-built lesson with natural Mongolian and English. The fixes are one mixed-script typo and one inaccurate distractor explanation."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Main fixes: the ablative forms of the numerals 1 and 20 (1-ээс, 20-иос), plus fill-blank mn explanations aligned with the en versions. Disregard the first dialogue[5] entry (placeholder); the second dialogue[5] entry is the correct fix.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "1 = нэг, so the ablative is нэгээс → 1-ээс, not 1-нээс"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "placeholder"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "20 = хорь, so the ablative is хориос → 20-иос, not 20-ноос"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "20 = хорь, so the ablative is хориос → 20-иос"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "mn explanation did not match en: it skipped look in/onto"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_mn",
+    "why": "mn explanation did not match en: it skipped the 'to' option"
+   }
+  ]
+ }
+}

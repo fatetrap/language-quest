@@ -1,0 +1,528 @@
+{
+ "intro_en": "You will learn how to raise everyday neighbor problems politely, such as noise, parking, trash, and shared yards. You will also use either/neither ... nor in English and ч гэсэн in Mongolian to make offers, refusals, and concessions.",
+ "intro_mn": "Та хөрш айлуудын өдөр тутмын асуудлыг, тухайлбал дуу шуугиан, машины зогсоол, хог, хамтын хашааны талаар эелдгээр ярихыг сурна. Мөн англи хэлний either/neither ... nor бүтэц болон монгол хэлний ч гэсэн хэллэгийг санал, татгалзал, зөвшөөрөлд хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "дуу шуугиан",
+   "en": "noise, racket",
+   "pos": "noun",
+   "example_mn": "Шөнийн дуу шуугианаас болоод би унтаж чадсангүй.",
+   "example_en": "I couldn't sleep because of the noise at night.",
+   "mn_latin": "duu shuugian"
+  },
+  {
+   "mn": "машины зогсоол",
+   "en": "parking lot, parking space",
+   "pos": "noun",
+   "example_mn": "Манай байранд машины зогсоол хүрэлцэхгүй байна.",
+   "example_en": "There aren't enough parking spaces in our building.",
+   "mn_latin": "mashiny zogsool"
+  },
+  {
+   "mn": "хог",
+   "en": "trash, garbage",
+   "pos": "noun",
+   "example_mn": "Хогоо өглөө бүр хогийн савандаа хийгээрэй.",
+   "example_en": "Please put your trash in the bin every morning.",
+   "mn_latin": "khog"
+  },
+  {
+   "mn": "хашаа",
+   "en": "yard, fenced courtyard",
+   "pos": "noun",
+   "example_mn": "Хүүхдүүд хашаанд тоглож байна.",
+   "example_en": "The children are playing in the yard.",
+   "mn_latin": "khashaa"
+  },
+  {
+   "mn": "гомдол",
+   "en": "complaint",
+   "pos": "noun",
+   "example_mn": "Тэр хөршийнхөө талаар гомдол гаргасан.",
+   "example_en": "He filed a complaint about his neighbor.",
+   "mn_latin": "gomdol"
+  },
+  {
+   "mn": "зөрчил",
+   "en": "violation, conflict",
+   "pos": "noun",
+   "example_mn": "Дүрмийн зөрчил гарвал хорооноос мэдэгдэнэ.",
+   "example_en": "If a violation of the rules occurs, the khoroo office will notify you.",
+   "mn_latin": "zörchil"
+  },
+  {
+   "mn": "саад болох",
+   "en": "to disturb, to get in the way",
+   "pos": "verb",
+   "example_mn": "Таны машин гарцанд саад болж байна.",
+   "example_en": "Your car is blocking the exit.",
+   "mn_latin": "saad bolokh"
+  },
+  {
+   "mn": "тохиролцох",
+   "en": "to reach an agreement",
+   "pos": "verb",
+   "example_mn": "Бид зогсоолын цагийн хуваарийн талаар тохиролцсон.",
+   "example_en": "We agreed on a schedule for the parking spaces.",
+   "mn_latin": "tokhiroltsokh"
+  },
+  {
+   "mn": "уучлал гуйх",
+   "en": "to apologize",
+   "pos": "verb phrase",
+   "example_mn": "Шуугиулсандаа хөршөөсөө уучлал гуйлаа.",
+   "example_en": "I apologized to my neighbor for making noise.",
+   "mn_latin": "uuchlal guikh"
+  },
+  {
+   "mn": "хамтын",
+   "en": "shared, communal",
+   "pos": "adjective",
+   "example_mn": "Хамтын хашаагаа цэвэр байлгая.",
+   "example_en": "Let's keep our shared yard clean.",
+   "mn_latin": "khamtyn"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Орой 10 цагаас хойш дуу шуугиан хийхгүй байхыг хүсье.",
+   "en": "Please don't make noise after 10 p.m.",
+   "alt_mn": [
+    "Орой 10 цагаас хойш дуу шуугиан гаргахгүй байхыг хүсье."
+   ],
+   "alt_en": [
+    "Please don't make any noise after 10 p.m."
+   ],
+   "mn_latin": "Oroi 10 tsagaas khoish duu shuugian khiikhgüi baikhyg khüsiye."
+  },
+  {
+   "mn": "Таны машин миний зогсоолд зогссон байна.",
+   "en": "Your car is parked in my space.",
+   "alt_mn": [
+    "Таны машин миний зогсоол дээр зогссон байна."
+   ],
+   "alt_en": [
+    "Your car is parked in my parking spot."
+   ],
+   "mn_latin": "Tany mashin minii zogsoold zogsson baina."
+  },
+  {
+   "mn": "Та хоёрын аль нь ч хогоо гаргаагүй байна.",
+   "en": "Neither of you has taken out the trash.",
+   "alt_mn": [
+    "Та хоёрын хэн нь ч хогоо гаргаагүй байна."
+   ],
+   "alt_en": [
+    "Neither of you has taken the garbage out."
+   ],
+   "mn_latin": "Ta khoyoryn ali ni ch khogoo gargaagüi baina."
+  },
+  {
+   "mn": "Бид хашаандаа цэцэг тарьж болно, эсвэл модон сандал тавьж болно.",
+   "en": "We can either plant flowers in the yard or put in wooden benches.",
+   "alt_mn": [
+    "Бид хашаандаа цэцэг тарьж ч болно, модон сандал тавьж ч болно."
+   ],
+   "alt_en": [
+    "Either we plant flowers in the yard, or we put in wooden benches."
+   ],
+   "mn_latin": "Bid khashaandaa tsetseg tarij bolno, esvel modon sandal tavij bolno."
+  },
+  {
+   "mn": "Хөгжим сонсох дуртайг тань ойлгож байна, гэхдээ шөнө дунд болчихлоо, би маргааш ажилтай.",
+   "en": "I understand that you like listening to music, but it's midnight and I have work tomorrow.",
+   "alt_mn": [
+    "Хөгжимд дуртайг тань ойлгож байна, гэхдээ шөнө дунд болчихлоо, маргааш би ажилтай."
+   ],
+   "alt_en": [
+    "I get that you love music, but it's midnight and I have to work tomorrow."
+   ],
+   "mn_latin": "Khögjim sonsokh durtaig tani oilgoj baina, gekhdee shönö dund bolchikhloo, bi margaash ajiltai."
+  },
+  {
+   "mn": "Би ч гэсэн энэ зөрчилд буруутай, уучлаарай.",
+   "en": "I am also at fault in this conflict, I'm sorry.",
+   "alt_mn": [
+    "Энэ зөрчилд би ч бас буруутай, уучлаарай."
+   ],
+   "alt_en": [
+    "I'm to blame for this conflict too, I'm sorry."
+   ],
+   "mn_latin": "Bi ch gesen ene zörchild buruutai, uuchlaarai."
+  },
+  {
+   "mn": "Бат ч, Сарнай ч гомдол гаргахыг хүсэхгүй байна.",
+   "en": "Neither Bat nor Sarnai wants to file a complaint.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bat ch, Sarnai ch gomdol gargakhyg khüsekhgüi baina."
+  },
+  {
+   "mn": "Хөрш маань ч гэсэн хашааны хогийг цэвэрлэхэд тусалсан.",
+   "en": "Our neighbor helped clean up the trash in the yard too.",
+   "alt_mn": [],
+   "alt_en": [
+    "Our neighbor also helped clean the trash out of the yard."
+   ],
+   "mn_latin": "Khörsh maani ch gesen khashaany khogiig tseverlekhed tusalsan."
+  },
+  {
+   "mn": "Би өнөөдөр ч, маргааш ч зогсоолд машинаа тавьж чадахгүй.",
+   "en": "I can't park my car in the lot today or tomorrow.",
+   "alt_mn": [],
+   "alt_en": [
+    "I can't park in the lot either today or tomorrow."
+   ],
+   "mn_latin": "Bi önöödör ch, margaash ch zogsoold mashinaa tavij chadakhgüi."
+  },
+  {
+   "mn": "Хэрэв дахин зөрчил гарвал хороонд гомдол гаргана.",
+   "en": "If another violation happens, I will file a complaint with the khoroo office.",
+   "alt_mn": [
+    "Дахин зөрчил гарвал хороонд гомдол гаргана."
+   ],
+   "alt_en": [
+    "If there is another violation, I will complain to the khoroo office."
+   ],
+   "mn_latin": "Kherev dakhin zörchil garval khoroond gomdol gargana."
+  },
+  {
+   "mn": "Бороо орж байгаа ч гэсэн хүүхдүүд хашаанд тоглосоор байна.",
+   "en": "Even though it's raining, the children keep playing in the yard.",
+   "alt_mn": [
+    "Бороо орж байхад ч хүүхдүүд хашаанд тоглосоор байна."
+   ],
+   "alt_en": [
+    "Even though it is raining, the kids are still playing in the yard."
+   ],
+   "mn_latin": "Boroo orj baigaa ch gesen khüükhdüüd khashaand toglosoor baina."
+  },
+  {
+   "mn": "Хамтын хашааны дүрмийг би ч, чи ч мөрдөх ёстой.",
+   "en": "Both you and I have to follow the shared yard rules.",
+   "alt_mn": [],
+   "alt_en": [
+    "The shared yard rules apply to me as well as to you."
+   ],
+   "mn_latin": "Khamtyn khashaany dürmiig bi ch, chi ch mördökh yostoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Even/also with ч гэсэн, and either/neither ... nor",
+  "title_mn": "Either/neither ... nor ба ч гэсэн",
+  "explain_en": "In Mongolian, ч after a word means 'also' or 'even': Би ч гэсэн буруутай ('I am also at fault'). After a verb or clause, ч гэсэн means 'even though/even if': Бороо орсон ч гэсэн явна ('Even though it rained, we'll go'). Repeating X ч, Y ч gives 'both X and Y' in a positive sentence, and 'neither X nor Y' with a negative verb: Бат ч, Сарнай ч ирээгүй ('Neither Bat nor Sarnai came'). To offer options, use ... эсвэл ... or ...ч, ...ч: Цэвэрлэж ч болно, мөнгө төлж ч болно. In English, use either ... or to offer two options (Either we talk now, or we write a note) and neither ... nor for a double refusal (Neither option works for me). With neither, do not add another negative: 'Neither of us wants trouble', not 'doesn't want'. After neither of, the verb is usually singular: Neither of them is here.",
+  "explain_mn": "Монгол хэлэнд үгийн ард орсон ч нь «бас» эсвэл «хүртэл» гэсэн утгатай: Би ч гэсэн буруутай (I am also at fault). Үйл үг буюу өгүүлбэрийн ард орсон ч гэсэн нь «хэдийгээр» гэсэн утга илэрхийлнэ: Бороо орсон ч гэсэн явна (Even though it rained, we'll go). X ч, Y ч гэж давтвал эерэг өгүүлбэрт «хоёулаа» (both X and Y), сөрөг үйл үгтэй бол «аль нь ч биш» (neither X nor Y) гэсэн утга гарна: Бат ч, Сарнай ч ирээгүй (Neither Bat nor Sarnai came). Сонголт санал болгохдоо ... эсвэл ... буюу ...ч, ...ч бүтэц хэрэглэнэ: Цэвэрлэж ч болно, мөнгө төлж ч болно. Англи хэлэнд хоёр сонголт санал болгоход either ... or (Either we talk now, or we write a note), хоёуланг нь үгүйсгэхэд neither ... nor хэрэглэнэ (Neither option works for me). Neither-тэй өгүүлбэрт нэмж үгүйсгэл хэрэглэхгүй. Зөв: «Neither of us wants trouble», буруу: «Neither of us doesn't want trouble». Neither of-ийн дараа үйл үг ихэвчлэн нэгийн тоонд байна: Neither of them is here.",
+  "examples": [
+   {
+    "mn": "Бат ч, Сарнай ч зогсоолд машинаа тавиагүй.",
+    "en": "Neither Bat nor Sarnai parked in the lot.",
+    "mn_latin": "Bat ch, Sarnai ch zogsoold mashinaa taviagüi."
+   },
+   {
+    "mn": "Би ч гэсэн шуугиан дэгдээсэндээ харамсаж байна.",
+    "en": "I also regret making a fuss.",
+    "mn_latin": "Bi ch gesen shuugian degdeesendee kharamsaj baina."
+   },
+   {
+    "mn": "Хөрш нь уучилсан ч гэсэн асуудал бүрэн шийдэгдээгүй.",
+    "en": "Even though the neighbor forgave him, the problem wasn't fully solved.",
+    "mn_latin": "Khörsh ni uuchilsan ch gesen asuudal büren shiidegdeegüi."
+   },
+   {
+    "mn": "Бид хашааг хамт цэвэрлэж ч болно, ээлжлэн цэвэрлэж ч болно.",
+    "en": "We can clean the yard together or take turns cleaning it.",
+    "mn_latin": "Bid khashaag khamt tseverlej ch bolno, eeljlen tseverlej ch bolno."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бат ___, Сарнай ч хогоо гаргаагүй.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "нь",
+    "руу",
+    "гэж"
+   ],
+   "translation": "Neither Bat nor Sarnai took out the trash.",
+   "explain_en": "Repeating ч after each name, with a negative verb, means 'neither ... nor'.",
+   "explain_mn": "Ч-ийг хоёр нэрийн ард давтаж, үйл үгийг сөрөг болговол «neither ... nor» гэсэн утга гарна."
+  },
+  {
+   "lang": "mn",
+   "text": "Бороо орсон ч ___ бид хашаагаа цэвэрлэсэн.",
+   "answer": "гэсэн",
+   "options": [
+    "гэсэн",
+    "гэхээр",
+    "болохоор",
+    "учраас"
+   ],
+   "translation": "Even though it rained, we cleaned the yard.",
+   "explain_en": "Verb + ч гэсэн expresses concession: 'even though'.",
+   "explain_mn": "Үйл үг + ч гэсэн нь «хэдийгээр» гэсэн зөвшөөрлийн утга илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Би ___ гэсэн энэ зөрчилд буруутай.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "аас",
+    "д",
+    "тай"
+   ],
+   "translation": "I am also at fault in this conflict.",
+   "explain_en": "Би ч гэсэн means 'I also', including the speaker in the blame.",
+   "explain_mn": "«Би ч гэсэн» нь «би бас» гэсэн утгаар өөрийгөө оруулж хэлж байна."
+  },
+  {
+   "lang": "en",
+   "text": "Neither the neighbors ___ the landlord answered my complaint.",
+   "answer": "nor",
+   "options": [
+    "nor",
+    "or",
+    "and",
+    "but"
+   ],
+   "translation": "Хөршүүд ч, байрны эзэн ч миний гомдолд хариулсангүй.",
+   "explain_en": "Neither always pairs with nor.",
+   "explain_mn": "Neither үргэлж nor-той хослоно."
+  },
+  {
+   "lang": "en",
+   "text": "We can either move the cars ___ ask the khoroo office for more parking spaces.",
+   "answer": "or",
+   "options": [
+    "or",
+    "nor",
+    "and",
+    "than"
+   ],
+   "translation": "Бид машинуудаа зөөж болно, эсвэл хороонд илүү зогсоол гуйж болно.",
+   "explain_en": "Either pairs with or to offer two options.",
+   "explain_mn": "Either нь or-той хослон хоёр сонголт санал болгоно."
+  },
+  {
+   "lang": "en",
+   "text": "Neither of the tenants ___ happy about the noise.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are not",
+    "isn't",
+    "aren't"
+   ],
+   "translation": "Түрээслэгчдийн аль нь ч шуугианд сэтгэл хангалуун бус байна.",
+   "explain_en": "Neither already makes the sentence negative, so do not add not; the verb is usually singular.",
+   "explain_mn": "Neither өөрөө үгүйсгэл тул not нэмэхгүй; үйл үг ихэвчлэн нэгийн тоонд байна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу, Болд ах. Таны машин манай орцны гарцанд саад болж байна.",
+   "en": "Hello, Bold. Your car is blocking the entrance to our stairwell.",
+   "mn_latin": "Sain baina uu, Bold akh. Tany mashin manai ortsny gartsand saad bolj baina."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Өө, уучлаарай. Би ч гэсэн өөр зогсоол олж чадсангүй.",
+   "en": "Oh, I'm sorry. I couldn't find another spot either.",
+   "mn_latin": "Öö, uuchlaarai. Bi ch gesen öör zogsool olj chadsangüi."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Ойлгож байна. Бид хашааны ард зогсоол гуйж болно, эсвэл ээлжлэн зогсож болно.",
+   "en": "I understand. We can either ask for a spot behind the yard or take turns parking.",
+   "mn_latin": "Oilgoj baina. Bid khashaany ard zogsool guij bolno, esvel eeljlen zogsoj bolno."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Миний хувьд аль нь ч болно. Гэхдээ орой нь хүүхдүүд хашаанд шуугиад байгаа шүү.",
+   "en": "Either works for me. But in the evenings the kids make a lot of noise in the yard.",
+   "mn_latin": "Minii khuvid ali ni ch bolno. Gekhdee oroi ni khüükhdüüd khashaand shuugiad baigaa shüü."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тийм ээ, хүүхдүүд ч, эцэг эх ч дүрмээ мэдэх хэрэгтэй. Би хороонд хэлье.",
+   "en": "Yes, both the children and the parents need to know the rules. I'll tell the khoroo office.",
+   "mn_latin": "Tiim ee, khüükhdüüd ch, etseg ekh ch dürmee medekh kheregtei. Bi khoroond kheliye."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Сайн байна. Би гомдол гаргахыг ч, маргалдахыг ч хүсэхгүй байна.",
+   "en": "Good. I want neither to file a complaint nor to argue.",
+   "mn_latin": "Sain baina. Bi gomdol gargakhyg ch, margaldakhyg ch khüsekhgüi baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Би ч гэсэн тэгж бодож байна. Хамтдаа шийдье.",
+   "en": "I think so too. Let's solve it together.",
+   "mn_latin": "Bi ch gesen tegj bodoj baina. Khamtdaa shiidiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar apartment blocks and ger-district neighborhoods, neighbors often settle problems directly and politely. In apartment buildings, the owners' association (СӨХ) usually handles parking, trash, and shared yards. Parking space is a common problem in older districts because there were few cars when the buildings were built. People usually speak to a neighbor first and go to the khoroo (subdistrict) office only if that fails.",
+  "mn": "Улаанбаатарын орон сууцны байр болон гэр хорооллын хөршүүд асуудлаа ихэвчлэн шууд, эелдгээр ярьж шийддэг. Орон сууцны байранд зогсоол, хог, хамтын хашааны асуудлыг ихэвчлэн СӨХ (сууц өмчлөгчдийн холбоо) хариуцдаг. Хуучин хороололд байр баригдах үед машин цөөн байсан тул зогсоолын асуудал элбэг. Ихэнхдээ эхлээд хөрштэйгөө ярьж, шийдэгдэхгүй бол хороонд хандана."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 17,
+  "notes": "Good concept, but it has a swapped mn/en pair, a Latin letter inside Cyrillic, a wrong ч гэсэн form in an example, and some unnatural English."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 24,
+  "notes": "Fixed wrong word choices, mismatched alternatives, a tense error, an illogical sentence, the хороо mistranslation, and made the en/mn grammar explanations match.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_en",
+    "why": "хороо is the subdistrict office, not a 'committee'"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "'хуваарьт тохиролцох' is unnatural; use 'хуваарийн талаар'"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'Let's ask everyone...' has a different meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "'wooden bench' is модон сандал, not модны суудал"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "the alt meant 'plant trees', which is a different meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "the original was illogical and the ч usage was wrong"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "en",
+    "why": "the original English was illogical; now matches the new Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "matches the new sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "matches the new sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "the alt was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "'can't ... either today or tomorrow' is awkward"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "removed the unnatural 'can park neither today nor tomorrow'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "хороо is the khoroo office"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "хороо is the khoroo office"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "tense: 'it's raining' is орж байгаа, not орж байсан"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "the old alt is now the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "added the singular-verb point so en matches mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "the mn version left out the Mongolian ч / ч гэсэн rules; now matches en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "text",
+    "why": "хороо is the khoroo office"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "tenants are түрээслэгчид; баярлаагүй was the wrong tense and nuance"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "word order: аль нь ч, not аль ч нь"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "хороо is the khoroo office"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "СӨХ exists only in apartment buildings; хороо is the subdistrict office, not a committee"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "matches the corrected en version"
+   }
+  ]
+ }
+}

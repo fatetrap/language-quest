@@ -1,0 +1,433 @@
+{
+ "intro_en": "You will learn the names of common furniture and things in a room. You will also practice asking and answering what is in a room: Is there a...? Are there any...?",
+ "intro_mn": "Та өрөөн доторх тавилга, эд зүйлсийн нэрийг сурна. Мөн өрөөнд юу байгааг асуух, хариулах (Is there a...? Are there any...?) дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "ор",
+   "en": "bed",
+   "pos": "noun",
+   "example_mn": "Унтлагын өрөөнд ор байна.",
+   "example_en": "There is a bed in the bedroom.",
+   "mn_latin": "or"
+  },
+  {
+   "mn": "ширээ",
+   "en": "table",
+   "pos": "noun",
+   "example_mn": "Ширээ том.",
+   "example_en": "The table is big.",
+   "mn_latin": "shiree"
+  },
+  {
+   "mn": "сандал",
+   "en": "chair",
+   "pos": "noun",
+   "example_mn": "Ширээний дэргэд сандал байна.",
+   "example_en": "There is a chair next to the table.",
+   "mn_latin": "sandal"
+  },
+  {
+   "mn": "шүүгээ",
+   "en": "cabinet; wardrobe",
+   "pos": "noun",
+   "example_mn": "Шүүгээнд хувцас байна.",
+   "example_en": "There are clothes in the wardrobe.",
+   "mn_latin": "shüügee"
+  },
+  {
+   "mn": "диван",
+   "en": "sofa",
+   "pos": "noun",
+   "example_mn": "Зочны өрөөнд диван байна.",
+   "example_en": "There is a sofa in the living room.",
+   "mn_latin": "divan"
+  },
+  {
+   "mn": "зурагт",
+   "en": "TV",
+   "pos": "noun",
+   "example_mn": "Манай зурагт шинэ.",
+   "example_en": "Our TV is new.",
+   "mn_latin": "zuragt"
+  },
+  {
+   "mn": "цонх",
+   "en": "window",
+   "pos": "noun",
+   "example_mn": "Цонх нээлттэй байна.",
+   "example_en": "The window is open.",
+   "mn_latin": "tsonkh"
+  },
+  {
+   "mn": "хаалга",
+   "en": "door",
+   "pos": "noun",
+   "example_mn": "Хаалга хаалттай байна.",
+   "example_en": "The door is closed.",
+   "mn_latin": "khaalga"
+  },
+  {
+   "mn": "өрөө",
+   "en": "room",
+   "pos": "noun",
+   "example_mn": "Энэ өрөө жижиг.",
+   "example_en": "This room is small.",
+   "mn_latin": "öröö"
+  },
+  {
+   "mn": "байхгүй",
+   "en": "there isn't / there aren't (not existing)",
+   "pos": "verb",
+   "example_mn": "Энд зурагт байхгүй.",
+   "example_en": "There is no TV here.",
+   "mn_latin": "baikhgüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энд юу байна вэ?",
+   "en": "What is there here?",
+   "alt_mn": [
+    "Энд юу байна?"
+   ],
+   "alt_en": [
+    "What is here?"
+   ],
+   "mn_latin": "End yuu baina ve?"
+  },
+  {
+   "mn": "Өрөөнд ор байна.",
+   "en": "There is a bed in the room.",
+   "alt_mn": [
+    "Өрөөнд нэг ор байна."
+   ],
+   "alt_en": [
+    "A bed is in the room."
+   ],
+   "mn_latin": "Öröönd or baina."
+  },
+  {
+   "mn": "Өрөөнд ширээ байна уу?",
+   "en": "Is there a table in the room?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Öröönd shiree baina uu?"
+  },
+  {
+   "mn": "Тийм, байна.",
+   "en": "Yes, there is.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, there is one."
+   ],
+   "mn_latin": "Tiim, baina."
+  },
+  {
+   "mn": "Үгүй, байхгүй.",
+   "en": "No, there isn't.",
+   "alt_mn": [],
+   "alt_en": [
+    "No, there is not."
+   ],
+   "mn_latin": "Ügüi, baikhgüi."
+  },
+  {
+   "mn": "Зочны өрөөнд диван байна.",
+   "en": "There is a sofa in the living room.",
+   "alt_mn": [],
+   "alt_en": [
+    "A sofa is in the living room."
+   ],
+   "mn_latin": "Zochny öröönd divan baina."
+  },
+  {
+   "mn": "Танай гэрт зурагт байна уу?",
+   "en": "Is there a TV in your home?",
+   "alt_mn": [],
+   "alt_en": [
+    "Do you have a TV at home?"
+   ],
+   "mn_latin": "Tanai gert zuragt baina uu?"
+  },
+  {
+   "mn": "Энд сандал байхгүй.",
+   "en": "There is no chair here.",
+   "alt_mn": [],
+   "alt_en": [
+    "There isn't a chair here.",
+    "There are no chairs here."
+   ],
+   "mn_latin": "End sandal baikhgüi."
+  },
+  {
+   "mn": "Өрөөнд сандал байна уу?",
+   "en": "Are there any chairs in the room?",
+   "alt_mn": [],
+   "alt_en": [
+    "Are there chairs in the room?"
+   ],
+   "mn_latin": "Öröönd sandal baina uu?"
+  },
+  {
+   "mn": "Тийм, хоёр сандал байна.",
+   "en": "Yes, there are two chairs.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, there are two."
+   ],
+   "mn_latin": "Tiim, khoyor sandal baina."
+  },
+  {
+   "mn": "Шүүгээнд хувцас байна.",
+   "en": "There are clothes in the wardrobe.",
+   "alt_mn": [],
+   "alt_en": [
+    "There are clothes in the cabinet."
+   ],
+   "mn_latin": "Shüügeend khuvtsas baina."
+  },
+  {
+   "mn": "Цонх нээлттэй, хаалга хаалттай.",
+   "en": "The window is open and the door is closed.",
+   "alt_mn": [],
+   "alt_en": [
+    "The window is open, the door is closed."
+   ],
+   "mn_latin": "Tsonkh neelttei, khaalga khaalttai."
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking what is there: байна уу? / байхгүй",
+  "title_mn": "Байгаа эсэхийг асуух: байна уу? / байхгүй",
+  "explain_en": "In Mongolian, to say something exists in a place, put the place first and use байна: Өрөөнд ор байна (There is a bed in the room). The place takes the ending -д or -т, and some words take -нд (өрөө → өрөөнд). For yes/no questions, add уу after байна: Ор байна уу? The answers are short: Тийм, байна (Yes, there is) or Үгүй, байхгүй (No, there isn't). To ask 'what', use Энд юу байна вэ? Mongolian does not need a/an or a plural ending: ор can mean 'a bed' or 'beds'.",
+  "explain_mn": "Монгол хэлэнд оршихуйг \"байна\" гэж хэлдэг бол англи хэлэнд there is (ганц тоо) болон there are (олон тоо) гэж ялгана. Асуухдаа Is there a...? (нэг зүйл) эсвэл Are there any...? (олон зүйл) гэнэ. Хариулт нь богино: Yes, there is. / No, there isn't. / Yes, there are. / No, there aren't. Ганц тоотой нэр үгийн өмнө a/an (a bed, an armchair) хэрэглэнэ, олон тоонд -s залгана (chairs). \"What is in the room?\" гэж асууна.",
+  "examples": [
+   {
+    "mn": "Өрөөнд ор байна.",
+    "en": "There is a bed in the room.",
+    "mn_latin": "Öröönd or baina."
+   },
+   {
+    "mn": "Өрөөнд шүүгээ байна уу?",
+    "en": "Is there a wardrobe in the room?",
+    "mn_latin": "Öröönd shüügee baina uu?"
+   },
+   {
+    "mn": "Үгүй, байхгүй.",
+    "en": "No, there isn't.",
+    "mn_latin": "Ügüi, baikhgüi."
+   },
+   {
+    "mn": "Энд юу байна вэ?",
+    "en": "What is there here?",
+    "mn_latin": "End yuu baina ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өрөө___ ор байна.",
+   "answer": "нд",
+   "options": [
+    "нд",
+    "ний",
+    "г",
+    "нөөс"
+   ],
+   "translation": "There is a bed in the room.",
+   "explain_en": "To say 'in the room', add the location ending. The word өрөө takes -нд: өрөөнд.",
+   "explain_mn": "\"Өрөөнд\" нь \"in the room\" гэсэн утгатай. Энэ нь өгөх-орших тийн ялгалын -д нөхцөл бөгөөд өрөө үгэнд -нд болж залгана. Англиар in the room гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энд диван байна ___?",
+   "answer": "уу",
+   "options": [
+    "уу",
+    "вэ",
+    "юу",
+    "бэ"
+   ],
+   "translation": "Is there a sofa here?",
+   "explain_en": "Yes/no questions with байна use уу. вэ is used with question words like юу.",
+   "explain_mn": "Тийм/үгүй гэж хариулах асуултад \"байна уу?\" гэнэ. Англиар Is there...? гэж асууна."
+  },
+  {
+   "lang": "mn",
+   "text": "Үгүй, ___.",
+   "answer": "байхгүй",
+   "options": [
+    "байхгүй",
+    "байна",
+    "биш",
+    "уу"
+   ],
+   "translation": "No, there isn't.",
+   "explain_en": "To say something does not exist, use байхгүй, not биш.",
+   "explain_mn": "Байхгүй гэдэг нь \"there isn't\" гэсэн утга. Англиар No, there isn't. гэж хариулна."
+  },
+  {
+   "lang": "en",
+   "text": "___ there a TV in the room?",
+   "answer": "Is",
+   "options": [
+    "Is",
+    "Are",
+    "Do",
+    "Am"
+   ],
+   "translation": "Өрөөнд зурагт байна уу?",
+   "explain_en": "For one thing (a TV), ask Is there...?",
+   "explain_mn": "Нэг тоотой зүйлд (a TV) \"Is there...?\" гэж асууна."
+  },
+  {
+   "lang": "en",
+   "text": "Are there any chairs? Yes, there ___.",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "do",
+    "have"
+   ],
+   "translation": "Сандал байна уу? Тийм, байна.",
+   "explain_en": "The short answer repeats the verb from the question: Are there...? → Yes, there are.",
+   "explain_mn": "Богино хариулт асуултын үйл үгийг давтана: Are there...? → Yes, there are."
+  },
+  {
+   "lang": "en",
+   "text": "Is there a TV in the room? No, there ___.",
+   "answer": "isn't",
+   "options": [
+    "isn't",
+    "aren't",
+    "don't",
+    "not"
+   ],
+   "translation": "Өрөөнд зурагт байна уу? Үгүй, байхгүй.",
+   "explain_en": "After 'Is there a...?' the negative short answer is No, there isn't.",
+   "explain_mn": "\"Is there a...?\" асуултад \"No, there isn't.\" гэж хариулна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу! Таны шинэ байранд юу байна вэ?",
+   "en": "Hello! What is there in your new apartment?",
+   "mn_latin": "Sain baina uu! Tany shine bairand yuu baina ve?"
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Зочны өрөөнд диван, зурагт байна.",
+   "en": "In the living room there is a sofa and a TV.",
+   "mn_latin": "Zochny öröönd divan, zuragt baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Унтлагын өрөөнд шүүгээ байна уу?",
+   "en": "Is there a wardrobe in the bedroom?",
+   "mn_latin": "Untlagyn öröönd shüügee baina uu?"
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Тийм, байна. Мөн ор байна.",
+   "en": "Yes, there is. And there is a bed.",
+   "mn_latin": "Tiim, baina. Mön or baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Гал тогоонд ширээ, сандал байна уу?",
+   "en": "Are there a table and chairs in the kitchen?",
+   "mn_latin": "Gal togoond shiree, sandal baina uu?"
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Ширээ байна, гэхдээ сандал байхгүй.",
+   "en": "There is a table, but there are no chairs.",
+   "mn_latin": "Shiree baina, gekhdee sandal baikhgüi."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэгвэл би хоёр сандал авчирна.",
+   "en": "Then I will bring two chairs.",
+   "mn_latin": "Tegvel bi khoyor sandal avchirna."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Баярлалаа!",
+   "en": "Thank you!",
+   "mn_latin": "Bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "In a traditional ger, furniture stands along the round wall in a set order: beds on the west and east sides, a cabinet at the back (north), and the stove in the center. The door usually faces south. In Ulaanbaatar apartments, people usually have a sofa, a TV, and a cabinet with family photos.",
+  "mn": "Уламжлалт гэрт тавилга дугуй хананы дагуу тодорхой дарааллаар байрлана: ор баруун, зүүн талд, шүүгээ хойморт, голд нь зуух байна. Хаалга ихэвчлэн урагшаа харсан байдаг. Улаанбаатарын орон сууцанд ихэвчлэн диван, зурагт, гэр бүлийн зурагтай шүүгээ байдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 20,
+  "notes": "Generally usable but several duplicate alternates, a Latin letter in Mongolian text, a misleading grammar explanation, and some ambiguous blanks need fixing."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 9,
+  "notes": "Fixed the case-ending explanations, wrong-form distractors, a duplicate and an unnatural alternative, an incomplete translation, and the mismatched culture note.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "'Is there any table' is unnatural with a singular countable noun"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "The alternative just repeated the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The ending in өрөөнд is -нд, not -д/-т"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "a/an is used only before singular nouns"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The distractors were incorrect forms (ны/ийг/оос break vowel harmony or the stem rules)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Not every vowel stem takes -нд, so the rule was wrong"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "The case was named incorrectly"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "The translation must cover the whole item, including the question"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Now matches the English (a cabinet with family photos), with more natural wording"
+   }
+  ]
+ }
+}

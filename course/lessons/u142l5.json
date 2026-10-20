@@ -1,0 +1,443 @@
+{
+ "intro_en": "Follow a winter fox hunt across frozen Altai slopes and learn the Mongolian verb pairs that separate \"it happened\" from \"someone made it happen\": хөлдөх/хөлдөөх, гулсах/гулсуулах, ойртох/ойртуулах, хагарах/хагалах. You'll also see how English often uses one verb for both, as in \"the ice broke\" and \"he broke the ice.\"",
+ "intro_mn": "Алтайн хөлдүү налуу дээр өрнөх өвлийн үнэгний ангийн түүхээр дамжуулан \"өөрөө болсон\" ба \"хэн нэгэн болгосон\" үйлийг ялгадаг хөлдөх/хөлдөөх, гулсах/гулсуулах, ойртох/ойртуулах, хагарах/хагалах хосуудыг сурна. Мөн англи хэлэнд нэг үйл үгээр хоёр утгыг илэрхийлдэг \"the ice broke / he broke the ice\" маягийн хэрэглээтэй танилцана.",
+ "vocab": [
+  {
+   "mn": "үнэг",
+   "en": "fox",
+   "pos": "noun",
+   "example_mn": "Уулын хормойд нэг улаан үнэг харагдлаа.",
+   "example_en": "A red fox appeared at the foot of the mountain.",
+   "mn_latin": "üneg"
+  },
+  {
+   "mn": "мөр",
+   "en": "track, trail (of footprints)",
+   "pos": "noun",
+   "example_mn": "Шинэ цасан дээр үнэгний мөр тод үлджээ.",
+   "example_en": "The fox's tracks were clearly visible in the fresh snow.",
+   "mn_latin": "mör"
+  },
+  {
+   "mn": "мөс",
+   "en": "ice",
+   "pos": "noun",
+   "example_mn": "Голын мөс нимгэн байсан.",
+   "example_en": "The river ice was thin.",
+   "mn_latin": "mös"
+  },
+  {
+   "mn": "цас",
+   "en": "snow",
+   "pos": "noun",
+   "example_mn": "Шөнөжин цас орсон.",
+   "example_en": "It snowed all night.",
+   "mn_latin": "tsas"
+  },
+  {
+   "mn": "хормой",
+   "en": "foot of a mountain, lower slope",
+   "pos": "noun",
+   "example_mn": "Бид уулын хормойгоор морь унаж явлаа.",
+   "example_en": "We rode along the foot of the mountain.",
+   "mn_latin": "khormoi"
+  },
+  {
+   "mn": "хөлдөх",
+   "en": "to freeze (become frozen)",
+   "pos": "verb (intransitive)",
+   "example_mn": "Өглөө гэхэд гол бүрэн хөлдчихсөн байв.",
+   "example_en": "By morning the river had frozen completely.",
+   "mn_latin": "khöldökh"
+  },
+  {
+   "mn": "хөлдөөх",
+   "en": "to freeze (something)",
+   "pos": "verb (transitive)",
+   "example_mn": "Хүйтэн салхи бидний гарыг хөлдөөчихлөө.",
+   "example_en": "The cold wind froze our hands.",
+   "mn_latin": "khöldöökh"
+  },
+  {
+   "mn": "гулсах",
+   "en": "to slip, to slide",
+   "pos": "verb (intransitive)",
+   "example_mn": "Морь мөсөн дээр гулсаж унах шахлаа.",
+   "example_en": "The horse slipped on the ice and nearly fell.",
+   "mn_latin": "gulsakh"
+  },
+  {
+   "mn": "ойртуулах",
+   "en": "to bring closer, to move (something) nearer",
+   "pos": "verb (transitive)",
+   "example_mn": "Анчин морио үнэг рүү аажмаар ойртуулав.",
+   "example_en": "The hunter slowly brought his horse closer to the fox.",
+   "mn_latin": "oirtuulakh"
+  },
+  {
+   "mn": "хагарах",
+   "en": "to break, to crack (by itself)",
+   "pos": "verb (intransitive)",
+   "example_mn": "Бидний доор мөс хагарлаа.",
+   "example_en": "The ice broke under us.",
+   "mn_latin": "khagarakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Шөнийн тачигнасан хүйтэнд голын ус бүрэн хөлдсөн байлаа.",
+   "en": "In the bitter cold of the night, the river had frozen solid.",
+   "alt_mn": [
+    "Шөнийн хахир хүйтэнд гол бүрэн хөлдчихсөн байв."
+   ],
+   "alt_en": [
+    "The river had frozen solid in the bitter night cold."
+   ],
+   "mn_latin": "Shöniin tachignasan khüitend golyn us büren khöldsön bailaa."
+  },
+  {
+   "mn": "Нурлан бүргэдээ гар дээрээ суулгаад уулын хормой руу гарлаа.",
+   "en": "Nurlan set his eagle on his arm and headed out toward the foot of the mountain.",
+   "alt_mn": [
+    "Нурлан бүргэдээ гартаа суулгаад уулын хормой руу явлаа."
+   ],
+   "alt_en": [
+    "Nurlan put his eagle on his arm and set off for the foot of the mountain."
+   ],
+   "mn_latin": "Nurlan bürgedee gar deeree suulgaad uulyn khormoi ruu garlaa."
+  },
+  {
+   "mn": "Шинэ цасан дээрх үнэгний мөр хадан цохио руу хөтөлж байлаа.",
+   "en": "The fox tracks in the fresh snow led toward the cliffs.",
+   "alt_mn": [
+    "Шинэ цасан дээрх үнэгний мөр хад руу чиглэж байв."
+   ],
+   "alt_en": [
+    "The fox's trail in the fresh snow led toward the cliffs."
+   ],
+   "mn_latin": "Shine tsasan deerkh ünegnii mör khadan tsokhio ruu khötölj bailaa."
+  },
+  {
+   "mn": "Морь эгц налуу дээр гулсаж, би жолоогоо чанга татлаа.",
+   "en": "The horse slid on the steep slope, and I pulled hard on the reins.",
+   "alt_mn": [
+    "Морь эгц налуу дээр гулсахад би жолоогоо чанга татав."
+   ],
+   "alt_en": [
+    "The horse slipped on the steep slope, so I pulled the reins hard."
+   ],
+   "mn_latin": "Mori egts naluu deer gulsaj, bi joloogoo changa tatlaa."
+  },
+  {
+   "mn": "Тэр бүргэдийн бээлийг мөсөн дээгүүр над руу гулсуулав.",
+   "en": "He slid the eagle glove across the ice to me.",
+   "alt_mn": [
+    "Тэр бүргэдийн бээлийг мөсөн дээгүүр над руу гулсуулж өгөв."
+   ],
+   "alt_en": [
+    "He slid me the eagle glove across the ice."
+   ],
+   "mn_latin": "Ter bürgediin beeliig mösön deegüür nad ruu gulsuulav."
+  },
+  {
+   "mn": "Бид үнэгэнд ойртох тусам бүргэд улам тайван бус болов.",
+   "en": "The closer we got to the fox, the more restless the eagle became.",
+   "alt_mn": [
+    "Үнэгэнд ойртох тусам бүргэд улам тайван бус болж байлаа."
+   ],
+   "alt_en": [
+    "The nearer we came to the fox, the more restless the eagle grew."
+   ],
+   "mn_latin": "Bid ünegend oirtokh tusam bürged ulam taivan bus bolov."
+  },
+  {
+   "mn": "Анчин морио салхины доод талаас аажмаар ойртуулав.",
+   "en": "The hunter slowly brought his horse closer from downwind.",
+   "alt_mn": [
+    "Анчин морио салхины доод талаас аажуухан ойртуулав."
+   ],
+   "alt_en": [
+    "The hunter slowly moved his horse in from downwind."
+   ],
+   "mn_latin": "Anchin morio salkhiny dood talaas aajmaar oirtuulav."
+  },
+  {
+   "mn": "Гэнэт бидний доор мөс хагарч, морины хөл ус руу шигдэв.",
+   "en": "Suddenly the ice broke under us, and the horse's leg sank into the water.",
+   "alt_mn": [
+    "Гэнэт бидний доор мөс хагараад морины хөл ус руу шигдчихлээ."
+   ],
+   "alt_en": [
+    "Suddenly the ice cracked beneath us and the horse's leg plunged into the water."
+   ],
+   "mn_latin": "Genet bidnii door mös khagarch, moriny khöl us ruu shigdev."
+  },
+  {
+   "mn": "Ах минь сүхээр мөс хагалж, морьдод ус уулгав.",
+   "en": "My older brother broke the ice with an ax and watered the horses.",
+   "alt_mn": [
+    "Ах маань сүхээр мөс хагалаад морьдоо услав."
+   ],
+   "alt_en": [
+    "My brother broke through the ice with an ax and gave the horses water."
+   ],
+   "mn_latin": "Akh mini sükheer mös khagalj, moridod us uulgav."
+  },
+  {
+   "mn": "Хүйтэнд мотоциклийн хөдөлгүүр зогсчихлоо.",
+   "en": "The motorcycle engine stopped in the cold.",
+   "alt_mn": [
+    "Хүйтнээс болж мотоциклийн хөдөлгүүр зогсчихов."
+   ],
+   "alt_en": [
+    "The motorcycle engine died in the cold.",
+    "The cold made the motorcycle engine stop."
+   ],
+   "mn_latin": "Khüitend mototsikliin khödölgüür zogschikhloo."
+  },
+  {
+   "mn": "Нурлан хөдөлгүүрээ зогсоож, бид явганаар цааш явлаа.",
+   "en": "Nurlan stopped the engine, and we continued on foot.",
+   "alt_mn": [
+    "Нурлан хөдөлгүүрээ унтраагаад бид цааш явган явлаа."
+   ],
+   "alt_en": [
+    "Nurlan turned off the engine, and we continued on foot."
+   ],
+   "mn_latin": "Nurlan khödölgüüree zogsooj, bid yavganaar tsaash yavlaa."
+  },
+  {
+   "mn": "Тэр өдрийн хүйтэн миний хурууг хөлдөөсөн ч бүргэд үнэгийг барьж авсан агшныг би хэзээ ч мартахгүй.",
+   "en": "The cold that day froze my fingers, but I will never forget the moment the eagle caught the fox.",
+   "alt_mn": [
+    "Тэр өдөр хүйтэнд хуруу минь хөлдсөн ч бүргэд үнэг барьсан тэр агшныг хэзээ ч мартахгүй."
+   ],
+   "alt_en": [
+    "My fingers froze in the cold that day, but I'll never forget the moment the eagle caught the fox."
+   ],
+   "mn_latin": "Ter ödriin khüiten minii khuruug khöldöösön ch bürged ünegiig barij avsan agshnyg bi khezee ch martakhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "It happened vs. someone made it happen: Mongolian causative pairs",
+  "title_mn": "Өөрөө болох ба болгох: англи хэлний \"ergative\" үйл үг",
+  "explain_en": "Mongolian usually marks the difference between \"something happened\" and \"someone caused it\" on the verb itself. The basic verb describes what happens by itself: мөс хагарлаа (the ice broke), гол хөлдлөө (the river froze). To show that someone or something caused it, you add a causative suffix. This can be -уул/-үүл (гулсах → гулсуулах, ойртох → ойртуулах) or a long vowel -аа/-ээ/-оо/-өө (хөлдөх → хөлдөөх, зогсох → зогсоох). Some verbs change р to л instead (хагарах → хагалах). The caused thing is the object. It takes the accusative or reflexive ending when it is specific (морио ойртуулав, мөсийг хагалав). It can stay unmarked when it is general (мөс хагалав). In storytelling, this tells the listener at once whether nature acted or a person did. English often uses the same word for both meanings, so pay attention to the Mongolian ending.",
+  "explain_mn": "Англи хэлэнд олон үйл үг нэг хэлбэрээрээ \"өөрөө болох\" ба \"болгох\" хоёр утгыг хоёуланг нь илэрхийлдэг. Үүнийг ergative verb гэдэг: The ice broke (мөс хагарлаа) / He broke the ice (тэр мөс хагалав). The engine stopped (хөдөлгүүр зогслоо) / He stopped the engine (тэр хөдөлгүүрээ зогсоов). Freeze, slide, stop, break, melt зэрэг үгэнд дагавар нэмэгддэггүй. Харин өгүүлбэрт тусагдахуун (object) байвал \"болгох\", байхгүй бол \"өөрөө болох\" утгатай болно. Гэхдээ бүх үг ингэж хэрэглэгддэггүй. \"Ойртуулах\"-ыг \"approach the horse\" гэж орчуулахгүй, харин \"bring the horse closer\" гэж bring/make/get тусламжаар хэлнэ.",
+  "examples": [
+   {
+    "mn": "Бидний доор мөс хагарлаа. / Ах минь мөс хагалав.",
+    "en": "The ice broke under us. / My brother broke the ice.",
+    "mn_latin": "Bidnii door mös khagarlaa. / Akh mini mös khagalav."
+   },
+   {
+    "mn": "Хөдөлгүүр зогслоо. / Тэр хөдөлгүүрээ зогсоов.",
+    "en": "The engine stopped. / He stopped the engine.",
+    "mn_latin": "Khödölgüür zogsloo. / Ter khödölgüüree zogsoov."
+   },
+   {
+    "mn": "Гол хөлдлөө. / Хүйтэн салхи гарыг минь хөлдөөлөө.",
+    "en": "The river froze. / The cold wind froze my hands.",
+    "mn_latin": "Gol khöldlöö. / Khüiten salkhi garyg mini khöldöölöö."
+   },
+   {
+    "mn": "Бид үнэгэнд ойртов. / Анчин морио ойртуулав.",
+    "en": "We got closer to the fox. / The hunter brought his horse closer.",
+    "mn_latin": "Bid ünegend oirtov. / Anchin morio oirtuulav."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гэнэт бидний доор мөс ___.",
+   "answer": "хагарлаа",
+   "options": [
+    "хагарлаа",
+    "хагаллаа",
+    "хагалуулав",
+    "ойртуулав"
+   ],
+   "translation": "Suddenly the ice broke under us.",
+   "explain_en": "Nobody broke the ice. It cracked by itself, so use the plain intransitive хагарах. Хагалах means someone broke it deliberately.",
+   "explain_mn": "Мөсийг хэн нэгэн хагалаагүй, өөрөө хагарсан тул \"хагарах\" үйл үгийг хэрэглэнэ. \"Хагалах\" бол хүн зориуд хагалах утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Анчин морио үнэг рүү аажмаар ___.",
+   "answer": "ойртуулав",
+   "options": [
+    "ойртуулав",
+    "ойртов",
+    "ойртсон",
+    "гулсав"
+   ],
+   "translation": "The hunter slowly brought his horse closer to the fox.",
+   "explain_en": "Морио (his horse) is the object being moved, so you need the causative ойртуулах. Ойртох is used only when the subject itself moves closer.",
+   "explain_mn": "\"Морио\" гэдэг тусагдахуун байгаа тул үйлдүүлэх хэлбэр \"ойртуулах\" хэрэгтэй. \"Ойртох\" бол өөрөө ойртох утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүйтэн салхи бидний гарыг ___.",
+   "answer": "хөлдөөчихлөө",
+   "options": [
+    "хөлдөөчихлөө",
+    "хөлдчихлөө",
+    "хөлдөхгүй",
+    "гулсчихлаа"
+   ],
+   "translation": "The cold wind froze our hands.",
+   "explain_en": "The wind is acting on гарыг (our hands, accusative), so the transitive хөлдөөх is required. Хөлдөх would mean the wind itself froze.",
+   "explain_mn": "Салхи \"гарыг\" хөлдөөж байгаа, өөрөөр хэлбэл заахын тийн ялгалтай тусагдахуун байгаа тул \"хөлдөөх\" хэрэглэнэ. \"Хөлдөх\" гэвэл салхи өөрөө хөлдсөн гэсэн утгатай болно."
+  },
+  {
+   "lang": "en",
+   "text": "The ice ___ under the horse.",
+   "answer": "broke",
+   "options": [
+    "broke",
+    "was broke",
+    "broken",
+    "breaked"
+   ],
+   "translation": "Морины доор мөс хагарлаа.",
+   "explain_en": "\"Break\" is ergative, so \"the ice broke\" needs no passive and no object. The past tense is irregular: broke.",
+   "explain_mn": "\"Break\" нь ergative үйл үг тул \"мөс хагарлаа\" гэхэд идэвхгүй хэв (passive) хэрэггүй, шууд \"the ice broke\" гэнэ. Өнгөрсөн цаг нь дүрмийн бус: broke."
+  },
+  {
+   "lang": "en",
+   "text": "Nurlan ___ the engine, and we walked the rest of the way.",
+   "answer": "stopped",
+   "options": [
+    "stopped",
+    "stopping",
+    "was stopped",
+    "stops"
+   ],
+   "translation": "Нурлан хөдөлгүүрээ зогсоож, бид үлдсэн замыг явганаар туулав.",
+   "explain_en": "Here \"stop\" has an object (the engine), so it has the transitive meaning зогсоох. The form is the same as in \"the engine stopped.\"",
+   "explain_mn": "Энд \"the engine\" тусагдахуун байгаа тул \"зогсоох\" утгатай. Гэхдээ хэлбэр нь \"the engine stopped\" (зогсох)-той яг адил: stopped."
+  },
+  {
+   "lang": "en",
+   "text": "The hunter ___ his horse closer to the fox.",
+   "answer": "brought",
+   "options": [
+    "brought",
+    "approached",
+    "came",
+    "neared"
+   ],
+   "translation": "Анчин морио үнэг рүү ойртуулав.",
+   "explain_en": "English has no causative form of \"approach\" or \"come,\" so to translate ойртуулах use \"bring (something) closer.\"",
+   "explain_mn": "\"Approach\", \"come\" нь ergative биш тул \"морио ойртуулах\"-ыг \"bring his horse closer\" гэж хэлнэ. \"Approached his horse\" гэвэл \"морь руугаа ойртов\" гэсэн өөр утгатай болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Нурлан аа, өчигдрийн ан ямар болсон бэ? Голын эрэг дээр та нарыг харсан.",
+   "en": "Nurlan, how did yesterday's hunt go? I saw you on the riverbank.",
+   "mn_latin": "Nurlan aa, öchigdriin an yamar bolson be? Golyn ereg deer ta naryg kharsan."
+  },
+  {
+   "speaker": "Nurlan",
+   "mn": "Анхнаасаа л муу эхэлсэн. Хүйтэнд мотоциклийн хөдөлгүүр зогсчихсон.",
+   "en": "It started badly. The motorcycle engine stopped in the cold.",
+   "mn_latin": "Ankhnaasaa l muu ekhelsen. Khüitend mototsikliin khödölgüür zogschikhson."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгээд та нар морьтой явсан уу?",
+   "en": "So you went on horseback?",
+   "mn_latin": "Tegeed ta nar moritoi yavsan uu?"
+  },
+  {
+   "speaker": "Nurlan",
+   "mn": "Тийм. Уулын хормойд шинэ цасан дээр үнэгний мөр олоод, морьдоо салхины доод талаас ойртуулсан.",
+   "en": "Yes. We found fox tracks in the fresh snow at the foot of the mountain and brought the horses in from downwind.",
+   "mn_latin": "Tiim. Uulyn khormoid shine tsasan deer ünegnii mör olood, moridoo salkhiny dood talaas oirtuulsan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Голыг яаж гаталсан бэ? Мөс нь нимгэн байсан биз дээ.",
+   "en": "How did you cross the river? The ice must have been thin.",
+   "mn_latin": "Golyg yaaj gatalsan be? Mös ni nimgen baisan biz dee."
+  },
+  {
+   "speaker": "Nurlan",
+   "mn": "Нимгэн байсан шүү. Нэг газар бидний доор мөс хагарч, морь минь гулсаад унах шахсан.",
+   "en": "It was thin, all right. In one spot the ice broke under us, and my horse slipped and nearly fell.",
+   "mn_latin": "Nimgen baisan shüü. Neg gazar bidnii door mös khagarch, mori mini gulsaad unakh shakhsan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Аймаар юм! Харин бүргэд үнэг барьсан уу?",
+   "en": "That's scary! But did the eagle catch the fox?",
+   "mn_latin": "Aimaar yum! Kharin bürged üneg barisan uu?"
+  },
+  {
+   "speaker": "Nurlan",
+   "mn": "Барьсан. Хуруу минь хөлдсөн ч тэр агшныг хэзээ ч мартахгүй.",
+   "en": "It did. My fingers were frozen, but I'll never forget that moment.",
+   "mn_latin": "Barisan. Khuruu mini khöldsön ch ter agshnyg khezee ch martakhgüi."
+  }
+ ],
+ "culture_note": {
+  "en": "Kazakh eagle hunters (бүргэдчин) in Bayan-Ölgii hunt mainly from late autumn through February, when fox fur is thickest and fresh snow shows tracks clearly. Hunters ride up to high ridges and release the golden eagle toward prey on the slopes below. A fox pelt traditionally becomes a warm hat or a trim for winter clothing. Today these skills are also shown at the Golden Eagle Festival each October.",
+  "mn": "Баян-Өлгийн казах бүргэдчид голдуу намрын сүүлээс хоёрдугаар сар хүртэл ан хийдэг. Энэ үед үнэгний үс хамгийн өтгөн, шинэ цасан дээр мөр тод харагддаг. Анчид өндөр нуруу руу мордож, доорх налуу дахь ан руу бүргэдээ тавьдаг. Үнэгний арьсаар уламжлал ёсоор дулаан малгай хийх буюу өвлийн хувцасны захыг чимдэг. Өнөө үед энэ ур чадвараа жил бүрийн аравдугаар сард болдог \"Алтан бүргэд\" наадамд үзүүлдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "The lesson is accurate and natural overall. It needed only one grammar clarification and one fix to a conversational verb form."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 7,
+  "notes": "Main fixes: genitive бүргэдийн, a complete causative suffix list, a natural collocation, and the English wording 'went on on foot'.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "Genitive of бүргэд is бүргэдийн, not бүргэдний"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "Same genitive error: бүргэдийн"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "'тас хүйтэн' is not a natural collocation; хахир хүйтэн is the standard phrase"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "'went on on foot' is awkward English"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Suffix given as -аа/-өө, but the examples use -өө and -оо; listed all harmony variants"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Restored the missing second point so it matches explain_en"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "'Эхлээд л муу эхэлсэн' repeats itself"
+   }
+  ]
+ }
+}

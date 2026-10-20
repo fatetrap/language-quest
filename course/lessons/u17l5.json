@@ -1,0 +1,446 @@
+{
+ "intro_en": "You will learn to talk about the weather and make predictions, like 'It will rain tomorrow' and 'It's going to snow.' You will also practice the Mongolian future ending -на/-нэ.",
+ "intro_mn": "Та цаг агаарын тухай ярьж, \"Маргааш бороо орно\", \"Одоо цас орох гэж байна\" гэх мэт таамаглал хэлж сурна. Мөн монгол хэлний -на/-нэ ирээдүйн дагаврыг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "цаг агаар",
+   "en": "weather",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр цаг агаар сайхан байна.",
+   "example_en": "The weather is nice today.",
+   "mn_latin": "tsag agaar"
+  },
+  {
+   "mn": "бороо",
+   "en": "rain",
+   "pos": "noun",
+   "example_mn": "Маргааш бороо орно.",
+   "example_en": "It will rain tomorrow.",
+   "mn_latin": "boroo"
+  },
+  {
+   "mn": "салхи",
+   "en": "wind",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр салхи салхилж байна.",
+   "example_en": "The wind is blowing today.",
+   "mn_latin": "salkhi"
+  },
+  {
+   "mn": "цас",
+   "en": "snow",
+   "pos": "noun",
+   "example_mn": "Уулан дээр цас орсон байна.",
+   "example_en": "It has snowed on the mountain.",
+   "mn_latin": "tsas"
+  },
+  {
+   "mn": "дулаарах",
+   "en": "to get warmer",
+   "pos": "verb",
+   "example_mn": "Маргааш дулаарна.",
+   "example_en": "It will get warmer tomorrow.",
+   "mn_latin": "dulaarakh"
+  },
+  {
+   "mn": "хүйтрэх",
+   "en": "to get colder",
+   "pos": "verb",
+   "example_mn": "Орой хүйтэрнэ.",
+   "example_en": "It will get colder in the evening.",
+   "mn_latin": "khüitrekh"
+  },
+  {
+   "mn": "үүлэрхэг",
+   "en": "cloudy",
+   "pos": "adjective",
+   "example_mn": "Тэнгэр үүлэрхэг байна.",
+   "example_en": "The sky is cloudy.",
+   "mn_latin": "üülerkheg"
+  },
+  {
+   "mn": "нарлаг",
+   "en": "sunny",
+   "pos": "adjective",
+   "example_mn": "Маргааш нарлаг байна.",
+   "example_en": "It will be sunny tomorrow.",
+   "mn_latin": "narlag"
+  },
+  {
+   "mn": "урьдчилсан мэдээ",
+   "en": "forecast",
+   "pos": "noun",
+   "example_mn": "Явахаасаа өмнө цаг агаарын урьдчилсан мэдээ харъя.",
+   "example_en": "Let's check the weather forecast before we leave.",
+   "mn_latin": "uridchilsan medee"
+  },
+  {
+   "mn": "магадгүй",
+   "en": "maybe / probably",
+   "pos": "adverb",
+   "example_mn": "Магадгүй бороо орно.",
+   "example_en": "It will probably rain.",
+   "mn_latin": "magadgüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Маргааш бороо орно.",
+   "en": "It will rain tomorrow.",
+   "alt_mn": [
+    "Маргааш бороотой байна."
+   ],
+   "alt_en": [
+    "Tomorrow it will rain."
+   ],
+   "mn_latin": "Margaash boroo orno."
+  },
+  {
+   "mn": "Явахаасаа өмнө цаг агаарын урьдчилсан мэдээ харъя.",
+   "en": "Let's check the weather forecast before we go.",
+   "alt_mn": [
+    "Явахын өмнө цаг агаарын урьдчилсан мэдээ харъя."
+   ],
+   "alt_en": [
+    "Let's look at the weather forecast before leaving."
+   ],
+   "mn_latin": "Yavakhaasaa ömnö tsag agaaryn uridchilsan medee kharya."
+  },
+  {
+   "mn": "Орой хүйтэрнэ.",
+   "en": "It will get colder in the evening.",
+   "alt_mn": [
+    "Орой хүйтэн болно."
+   ],
+   "alt_en": [
+    "It will be colder in the evening."
+   ],
+   "mn_latin": "Oroi khüiterne."
+  },
+  {
+   "mn": "Маргааш дулаарна.",
+   "en": "It will get warmer tomorrow.",
+   "alt_mn": [
+    "Маргааш дулаан болно."
+   ],
+   "alt_en": [
+    "Tomorrow it will be warmer."
+   ],
+   "mn_latin": "Margaash dulaarna."
+  },
+  {
+   "mn": "Магадгүй маргааш салхи салхилна.",
+   "en": "It will probably be windy tomorrow.",
+   "alt_mn": [
+    "Маргааш магадгүй салхитай байх."
+   ],
+   "alt_en": [
+    "Maybe the wind will blow tomorrow."
+   ],
+   "mn_latin": "Magadgüi margaash salkhi salkhilna."
+  },
+  {
+   "mn": "Тэнгэр үүлэрхэг байна. Бороо орох гэж байна.",
+   "en": "The sky is cloudy. It's going to rain.",
+   "alt_mn": [
+    "Тэнгэр үүлэрхэг байна. Удахгүй бороо орно."
+   ],
+   "alt_en": [
+    "The sky is cloudy. It is going to rain."
+   ],
+   "mn_latin": "Tenger üülerkheg baina. Boroo orokh gej baina."
+  },
+  {
+   "mn": "Бороо орохгүй, санаа зовох хэрэггүй.",
+   "en": "It won't rain, don't worry.",
+   "alt_mn": [
+    "Бороо орохгүй, санаа зоволтгүй ээ."
+   ],
+   "alt_en": [
+    "It will not rain, don't worry."
+   ],
+   "mn_latin": "Boroo orokhgüi, sanaa zovokh khereggüi."
+  },
+  {
+   "mn": "Маргааш нарлаг байна.",
+   "en": "Tomorrow will be sunny.",
+   "alt_mn": [
+    "Маргааш нартай өдөр болно."
+   ],
+   "alt_en": [
+    "It will be sunny tomorrow."
+   ],
+   "mn_latin": "Margaash narlag baina."
+  },
+  {
+   "mn": "Би дулаан хүрэм авна.",
+   "en": "I will take a warm jacket.",
+   "alt_mn": [
+    "Би дулаан куртик авч явна."
+   ],
+   "alt_en": [
+    "I'll bring a warm jacket."
+   ],
+   "mn_latin": "Bi dulaan khürem avna."
+  },
+  {
+   "mn": "Бид танд залгана.",
+   "en": "We will call you.",
+   "alt_mn": [
+    "Бид тантай холбогдоно."
+   ],
+   "alt_en": [
+    "We'll call you."
+   ],
+   "mn_latin": "Bid tand zalgana."
+  },
+  {
+   "mn": "Уулан дээр цас орох байх.",
+   "en": "It will probably snow in the mountains.",
+   "alt_mn": [
+    "Уулан дээр магадгүй цас орно."
+   ],
+   "alt_en": [
+    "It's probably going to snow on the mountain."
+   ],
+   "mn_latin": "Uulan deer tsas orokh baikh."
+  },
+  {
+   "mn": "Тэр бороонд норохгүй.",
+   "en": "He won't get wet in the rain.",
+   "alt_mn": [],
+   "alt_en": [
+    "He will not get wet in the rain."
+   ],
+   "mn_latin": "Ter boroond norokhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Predictions and promises: Mongolian -на/-нэ and English will / going to",
+  "title_mn": "Таамаглал ба амлалт: монгол -на/-нэ ба англи will / going to",
+  "explain_en": "In Mongolian, add -на/-нэ (or -но/-нө by vowel harmony) to the verb stem to say what will happen or what you promise: бороо орно (it will rain), дулаарна (it will get warmer), би залгана (I will call). For a negative, use -х + гүй: бороо орохгүй (it won't rain). To soften a guess, add магадгүй (maybe), or put the verb in the -х form and add байх at the end: бороо орох байх (it will probably rain). English uses will for predictions and promises: 'It will rain.' Use going to when you can see evidence now: 'Look at those clouds! It's going to rain.'",
+  "explain_mn": "Англи хэлэнд ирээдүйн таамаглал, амлалтыг will + үйл үгийн үндсээр илэрхийлнэ: It will rain tomorrow. (Маргааш бороо орно.) Үгүйсгэхдээ will not буюу товчоор won't хэрэглэнэ: It won't rain. Одоо харагдаж байгаа шинж тэмдэг дээр үндэслэсэн таамаглалд going to хэрэглэнэ: Look at the clouds! It's going to rain. (Үүлийг хар! Бороо орох гэж байна.) Магадгүй гэсэн утгыг probably гэж нэмж хэлнэ: It will probably rain. Probably нь will-ийн дараа, won't-ийн өмнө ордог: It probably won't rain.",
+  "examples": [
+   {
+    "mn": "Маргааш бороо орно.",
+    "en": "It will rain tomorrow.",
+    "mn_latin": "Margaash boroo orno."
+   },
+   {
+    "mn": "Орой хүйтэрнэ.",
+    "en": "It will get colder in the evening.",
+    "mn_latin": "Oroi khüiterne."
+   },
+   {
+    "mn": "Бороо орохгүй.",
+    "en": "It won't rain.",
+    "mn_latin": "Boroo orokhgüi."
+   },
+   {
+    "mn": "Үүлийг хар, бороо орох гэж байна.",
+    "en": "Look at the clouds, it's going to rain.",
+    "mn_latin": "Üüliig khar, boroo orokh gej baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Маргааш бороо ор___.",
+   "answer": "но",
+   "options": [
+    "но",
+    "ов",
+    "сон",
+    "дог"
+   ],
+   "translation": "It will rain tomorrow.",
+   "explain_en": "The future/prediction ending is -но after the stem ор- (back vowel o): орно.",
+   "explain_mn": "Ирээдүй, таамаглалын -на/-нэ/-но/-нө дагавар. «Ор-» үндэс дээр «-но» залгаж «орно» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Орой хүйтэ___.",
+   "answer": "рнэ",
+   "options": [
+    "рнэ",
+    "рсэн",
+    "рлээ",
+    "рдэг"
+   ],
+   "translation": "It will get colder in the evening.",
+   "explain_en": "Хүйтрэх becomes хүйтэрнэ in the future: stem + -нэ.",
+   "explain_mn": "Хүйтрэх үйл үг ирээдүйд «хүйтэрнэ» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Бороо ор___, санаа зоволтгүй.",
+   "answer": "охгүй",
+   "options": [
+    "охгүй",
+    "овгүй",
+    "сон",
+    "ж байна"
+   ],
+   "translation": "It won't rain, don't worry.",
+   "explain_en": "Negative future: verb stem + -х + гүй: орохгүй.",
+   "explain_mn": "Ирээдүйн үгүйсгэл: үйл үгийн үндэс + -х + гүй, «орохгүй»."
+  },
+  {
+   "lang": "en",
+   "text": "Look at those dark clouds! It ___ rain.",
+   "answer": "is going to",
+   "options": [
+    "is going to",
+    "will to",
+    "going",
+    "is will"
+   ],
+   "translation": "Тэр хар үүлсийг хар! Бороо орох гэж байна.",
+   "explain_en": "We can see evidence now (dark clouds), so we use going to.",
+   "explain_mn": "Одоо шинж тэмдэг харагдаж байгаа тул going to хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Don't worry. It ___ rain tomorrow.",
+   "answer": "won't",
+   "options": [
+    "won't",
+    "doesn't",
+    "isn't",
+    "not"
+   ],
+   "translation": "Санаа зовох хэрэггүй. Маргааш бороо орохгүй.",
+   "explain_en": "Won't = will not, used for a negative prediction.",
+   "explain_mn": "Won't нь will not гэсэн үг, үгүйсгэсэн таамаглалд хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It will ___ be windy in the mountains.",
+   "answer": "probably",
+   "options": [
+    "probably",
+    "possible",
+    "maybe to",
+    "certain"
+   ],
+   "translation": "Уулан дээр магадгүй салхитай байна.",
+   "explain_en": "Probably is an adverb and goes after will.",
+   "explain_mn": "Probably нь adverb бөгөөд will-ийн дараа орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Явахаасаа өмнө цаг агаарын урьдчилсан мэдээ харъя.",
+   "en": "Let's check the weather forecast before we leave.",
+   "mn_latin": "Yavakhaasaa ömnö tsag agaaryn uridchilsan medee kharya."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "За. Маргааш ямар байх вэ?",
+   "en": "OK. What will tomorrow be like?",
+   "mn_latin": "Za. Margaash yamar baikh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Өдөр нарлаг, дулаан байна. Гэхдээ орой хүйтэрнэ.",
+   "en": "It will be sunny and warm during the day. But it will get colder in the evening.",
+   "mn_latin": "Ödör narlag, dulaan baina. Gekhdee oroi khüiterne."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Бороо орох болов уу?",
+   "en": "Is it going to rain?",
+   "mn_latin": "Boroo orokh bolov uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Магадгүй орохгүй. Гэхдээ тэнгэр үүлэрхэг байна.",
+   "en": "It probably won't. But the sky is cloudy.",
+   "mn_latin": "Magadgüi orokhgüi. Gekhdee tenger üülerkheg baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэгвэл би дулаан хүрэм авна.",
+   "en": "Then I'll take a warm jacket.",
+   "mn_latin": "Tegvel bi dulaan khürem avna."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн санаа. Би борооны цув авна.",
+   "en": "Good idea. I'll take a raincoat.",
+   "mn_latin": "Sain sanaa. Bi boroony tsuv avna."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian weather can change quickly, especially in the countryside and mountains: a sunny morning can turn into a cold, windy afternoon. Many people check the forecast and always bring a warm jacket, even in summer. Herders also predict the weather by watching the sky, the clouds and the animals.",
+  "mn": "Монголын цаг агаар, ялангуяа хөдөө, уулархаг нутагт хурдан өөрчлөгддөг: нартай өглөө салхитай, хүйтэн үдээс хойш болж болно. Олон хүн урьдчилсан мэдээ шалгаж, зун ч гэсэн үргэлж дулаан хүрэм авч явдаг. Малчид тэнгэр, үүл, малын байдлыг ажиглан цаг агаарыг таамагладаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 25,
+  "notes": "Several real errors (intro_mn mismatch, broken sentence 1, blank mismatch in fill_blank 1, informal чамд); some entries need care."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 9,
+  "notes": "Mostly solid; fixed mismatched alternatives, the байх explanation, fill-blank option forms, a Latin-letter typo and the culture note mismatch.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "'орох байх' means 'will probably rain', which is weaker than the definite 'will rain'"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "'норохгүй байх' means 'probably won't get wet', which is not the same meaning"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "байх follows the -х form, not the -на form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The habitual form is 'ордог', not 'ордаг' (vowel harmony)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'орсоо' is not a standard form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "Awkward repeated 'хар' at the start"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Latin letters mixed into the Cyrillic text"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "Colloquial 'will sure be' could also be accepted, so the answer would not be unique"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Matches the English version ('always', 'warm jacket')"
+   }
+  ]
+ }
+}

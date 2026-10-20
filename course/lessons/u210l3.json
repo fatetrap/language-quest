@@ -1,0 +1,394 @@
+{
+ "intro_en": "In this lesson, you'll learn how to speak respectfully to elders in Mongolian: calling unrelated older people ээж, аав, өвөө, эмээ, using та with polite verb forms, and choosing honorific words like зооглох and морилох. You'll also learn how English speakers address older people with sir, ma'am, and Mr./Mrs. + surname.",
+ "intro_mn": "Энэ хичээлээр та ахмад настантай хүндэтгэлтэй ярьж сурна. Танихгүй настныг ээж, аав, өвөө, эмээ гэж дуудах, «та» болон хүндэтгэлийн үйл үгийн хэлбэр хэрэглэх, зооглох, морилох зэрэг хүндэтгэлийн үгсийг сонгох талаар үзнэ. Мөн англиар өндөр настай хүнийг sir, ma'am, Mr./Mrs. + овог гэж хэрхэн хүндэтгэлтэй дууддагийг сурна.",
+ "vocab": [
+  {
+   "mn": "өвөө",
+   "en": "grandfather; elderly man",
+   "pos": "noun",
+   "example_mn": "Өвөө, та сайн байна уу?",
+   "example_en": "Hello, Grandpa, how are you?",
+   "mn_latin": "övöö"
+  },
+  {
+   "mn": "эмээ",
+   "en": "grandmother; elderly woman",
+   "pos": "noun",
+   "example_mn": "Эмээ минь, би танд бэлэг авчирлаа.",
+   "example_en": "Grandma, I brought you a present.",
+   "mn_latin": "emee"
+  },
+  {
+   "mn": "настан",
+   "en": "elderly person, elder",
+   "pos": "noun",
+   "example_mn": "Настан хүнд суудлаа тавьж өгөөрэй.",
+   "example_en": "Give your seat to an elderly person.",
+   "mn_latin": "nastan"
+  },
+  {
+   "mn": "ахмад",
+   "en": "elder, senior",
+   "pos": "noun/adjective",
+   "example_mn": "Ахмад үеийнхнээ хүндэлье.",
+   "example_en": "Let's respect the older generation.",
+   "mn_latin": "akhmad"
+  },
+  {
+   "mn": "хүндлэх",
+   "en": "to respect",
+   "pos": "verb",
+   "example_mn": "Бид ахмадаа хүндлэх ёстой.",
+   "example_en": "We should respect our elders.",
+   "mn_latin": "khündlekh"
+  },
+  {
+   "mn": "морилох",
+   "en": "to come (honorific)",
+   "pos": "verb",
+   "example_mn": "Та манайд морилоорой.",
+   "example_en": "Please come visit us.",
+   "mn_latin": "morilokh"
+  },
+  {
+   "mn": "зооглох",
+   "en": "to eat (honorific)",
+   "pos": "verb",
+   "example_mn": "Өвөө, хоолоо зооглоно уу.",
+   "example_en": "Grandpa, please have your meal.",
+   "mn_latin": "zooglokh"
+  },
+  {
+   "mn": "нас сүүдэр",
+   "en": "age (honorific)",
+   "pos": "noun",
+   "example_mn": "Таны нас сүүдэр хэд хүрч байна вэ?",
+   "example_en": "May I ask how old you are?",
+   "mn_latin": "nas süüder"
+  },
+  {
+   "mn": "бараалхах",
+   "en": "to pay a respectful visit to an elder",
+   "pos": "verb",
+   "example_mn": "Цагаан сараар өвөө эмээдээ бараалхлаа.",
+   "example_en": "We paid our respects to our grandparents for Tsagaan Sar.",
+   "mn_latin": "baraalkhakh"
+  },
+  {
+   "mn": "мэндлэх",
+   "en": "to greet",
+   "pos": "verb",
+   "example_mn": "Тэр настантай хүндэтгэлтэй мэндлэв.",
+   "example_en": "He greeted the elderly man respectfully.",
+   "mn_latin": "mendlekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өвөө, эмээ, та хоёр сайн байна уу?",
+   "en": "Hello, Grandpa and Grandma, how are you both?",
+   "alt_mn": [],
+   "alt_en": [
+    "Grandpa, Grandma, how are you two doing?"
+   ],
+   "mn_latin": "Övöö, emee, ta khoyor sain baina uu?"
+  },
+  {
+   "mn": "Аав аа, сайхан хаваржиж байна уу?",
+   "en": "Sir, are you having a good spring?",
+   "alt_mn": [
+    "Аав аа, та сайхан хаваржиж байна уу?"
+   ],
+   "alt_en": [
+    "Is your spring going well, sir?"
+   ],
+   "mn_latin": "Aav aa, saikhan khavarjij baina uu?"
+  },
+  {
+   "mn": "Мал сүрэг тарган тавтай юу?",
+   "en": "Is your livestock fat and healthy?",
+   "alt_mn": [
+    "Танай мал сүрэг тарган тавтай юу?"
+   ],
+   "alt_en": [
+    "Are your animals fat and healthy?"
+   ],
+   "mn_latin": "Mal süreg targan tavtai yuu?"
+  },
+  {
+   "mn": "Ээж ээ, та энд сууна уу.",
+   "en": "Please have a seat here, ma'am.",
+   "alt_mn": [
+    "Ээж ээ, энд сууна уу."
+   ],
+   "alt_en": [
+    "Ma'am, please sit here."
+   ],
+   "mn_latin": "Eej ee, ta end suuna uu."
+  },
+  {
+   "mn": "Эмээ, цайгаа уугаарай, хөрчих гээд байна.",
+   "en": "Grandma, please drink your tea before it gets cold.",
+   "alt_mn": [
+    "Эмээ, цайгаа уугаарай, хөрөх гээд байна."
+   ],
+   "alt_en": [
+    "Grandma, drink your tea, it's getting cold."
+   ],
+   "mn_latin": "Emee, tsaigaa uugaarai, khörchikh geed baina."
+  },
+  {
+   "mn": "Таны нас сүүдэр хэд хүрч байна вэ?",
+   "en": "May I ask how old you are?",
+   "alt_mn": [
+    "Та хэдэн нас хүрч байна вэ?"
+   ],
+   "alt_en": [
+    "If I may ask, how old are you?"
+   ],
+   "mn_latin": "Tany nas süüder khed khürch baina ve?"
+  },
+  {
+   "mn": "Өвөө хоолоо зооглочихсон уу?",
+   "en": "Has Grandpa already eaten?",
+   "alt_mn": [
+    "Өвөө хоолоо зооглосон уу?"
+   ],
+   "alt_en": [
+    "Has Grandpa had his meal yet?"
+   ],
+   "mn_latin": "Övöö khooloo zooglochikhson uu?"
+  },
+  {
+   "mn": "Настан хүнтэй ярихдаа заавал «та» гэж хэлээрэй.",
+   "en": "When you talk to an elderly person, be sure to say \"та.\"",
+   "alt_mn": [
+    "Өндөр настай хүнтэй ярихдаа заавал «та» гэж хэлээрэй."
+   ],
+   "alt_en": [
+    "Always use \"та\" when speaking with an elderly person."
+   ],
+   "mn_latin": "Nastan khüntei yarikhdaa zaaval «ta» gej kheleerei."
+  },
+  {
+   "mn": "Цагаан сараар бид хөдөө өвөө эмээдээ бараалхахаар явна.",
+   "en": "For Tsagaan Sar, we're going to the countryside to visit our grandparents.",
+   "alt_mn": [],
+   "alt_en": [
+    "We're going to the countryside to pay our respects to our grandparents for Tsagaan Sar."
+   ],
+   "mn_latin": "Tsagaan saraar bid khödöö övöö emeedee baraalkhakhaar yavna."
+  },
+  {
+   "mn": "Та манайд морилсонд баярлалаа.",
+   "en": "Thank you for coming to our home.",
+   "alt_mn": [
+    "Та манайд морилж ирсэнд баярлалаа."
+   ],
+   "alt_en": [
+    "Thank you for visiting us."
+   ],
+   "mn_latin": "Ta manaid morilsond bayarlalaa."
+  },
+  {
+   "mn": "Бат гуай, би танд тусалъя.",
+   "en": "Mr. Bat, let me help you.",
+   "alt_mn": [
+    "Бат гуай, би танд туслаад өгье."
+   ],
+   "alt_en": [
+    "Let me give you a hand, Mr. Bat."
+   ],
+   "mn_latin": "Bat guai, bi tand tusalya."
+  },
+  {
+   "mn": "Уучлаарай, ээж ээ, энэ суудал хүнтэй юу?",
+   "en": "Excuse me, ma'am, is this seat taken?",
+   "alt_mn": [],
+   "alt_en": [
+    "Excuse me, ma'am, is anyone sitting here?"
+   ],
+   "mn_latin": "Uuchlaarai, eej ee, ene suudal khüntei yuu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Speaking politely to elders: та, polite verb endings, and honorific words",
+  "title_mn": "Ахмад хүнд хандах хүндэтгэлийн хэлбэр: sir, ma'am, Mr./Mrs. + овог",
+  "explain_en": "With elders, Mongolian shows respect in four ways. 1) Always use та, never чи. 2) Use soft request endings instead of the bare command: -на уу / -нэ үү / -но уу / -нө үү (\"would you please\") or -аарай / -ээрэй / -оорой / -өөрэй (\"please do\"). Compare суу! (sit!) with сууна уу (please sit). 3) Swap everyday words for honorific ones: идэх → зооглох (eat), ирэх → морилох (come), нас → нас сүүдэр (age), уулзах → бараалхах (visit an elder). 4) Call even unrelated elders by family words in the vocative: аав аа, ээж ээ, өвөө, эмээ. You can also add гуай after a name: Бат гуай.",
+  "explain_mn": "Англи хэлэнд «та/чи» гэсэн ялгаа байхгүй. Бүгдэд нь «you» гэдэг. Тиймээс хүндэтгэлийг хаяг, асуултын хэлбэрээр илэрхийлдэг. 1) Танихгүй өндөр настай эрэгтэйг «sir», эмэгтэйг «ma'am» гэж дуудна. 2) Нэрээр нь биш, Mr. (эрэгтэй), Mrs. (гэрлэсэн эмэгтэй) эсвэл Ms. (эмэгтэй) гэж хэлээд араас нь овгийг нь залгана: Mr. Smith, Mrs. Brown. Энэ нь монголын «Бат гуай» гэдэгтэй ойролцоо. 3) Тушаалын хэлбэр биш, «Would you like...?», «Could you...?», «May I...?» гэж эелдгээр асууна. Өөрөө «Call me John» гэж хэлэх хүртэл нэрээр нь дуудахгүй байх нь соёлтой.",
+  "examples": [
+   {
+    "mn": "Аав аа, та орж сууна уу.",
+    "en": "Please come in and sit down, sir.",
+    "mn_latin": "Aav aa, ta orj suuna uu."
+   },
+   {
+    "mn": "Эмээ, та амтархан зооглоорой.",
+    "en": "Enjoy your meal, Grandma.",
+    "mn_latin": "Emee, ta amtarkhan zooglooroi."
+   },
+   {
+    "mn": "Дорж гуай, та маргааш манайд морилно уу.",
+    "en": "Mr. Dorj, would you please come to our home tomorrow?",
+    "mn_latin": "Dorj guai, ta margaash manaid morilno uu."
+   },
+   {
+    "mn": "Уучлаарай, ээж ээ, танд тусалж болох уу?",
+    "en": "Excuse me, ma'am, may I help you?",
+    "mn_latin": "Uuchlaarai, eej ee, tand tusalj bolokh uu?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өвөө, та хоолоо ___ уу.",
+   "answer": "зооглоно",
+   "options": [
+    "зооглоно",
+    "ид",
+    "идчих",
+    "зооглосон"
+   ],
+   "translation": "Grandpa, please have your meal.",
+   "explain_en": "With an elder, use the honorific verb зооглох instead of идэх, plus the polite request ending -но уу (\"would you please\"). Ид and идчих are blunt commands, and зооглосон уу would mean \"did you eat?\"",
+   "explain_mn": "Ахмад хүнд «идэх» биш, хүндэтгэлийн «зооглох» үйл үгийг хэрэглэж, эелдэг хүсэлтийн «-но уу» нөхцөл залгана. «Ид, идчих» нь тушаал, «зооглосон уу» нь асуулт болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Ээж ___, та энд сууна уу.",
+   "answer": "ээ",
+   "options": [
+    "ээ",
+    "аа",
+    "оо",
+    "өө"
+   ],
+   "translation": "Please have a seat here, ma'am.",
+   "explain_en": "When you call someone, Mongolian adds a vocative particle that follows vowel harmony: аав аа, ээж ээ, ах аа. Ээж has the front vowel э, so it takes ээ.",
+   "explain_mn": "Хүнийг дуудахад дуудах сул үг эгшгийн зохицлоор залгана: аав аа, ээж ээ, ах аа. «Ээж» эм үг тул «ээ» авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Таны нас ___ хэд хүрч байна вэ?",
+   "answer": "сүүдэр",
+   "options": [
+    "сүүдэр",
+    "нас",
+    "жил",
+    "он"
+   ],
+   "translation": "May I ask how old you are?",
+   "explain_en": "Нас сүүдэр is the honorific way to say \"age.\" Use it when asking an elder's age. Plain нас alone sounds too casual here.",
+   "explain_mn": "«Нас сүүдэр» бол насыг хүндэтгэн хэлэх хэллэг. Ахмад хүний насыг асуухдаа ингэж хэлбэл зохимжтой."
+  },
+  {
+   "lang": "en",
+   "text": "Excuse me, ___, is this seat taken? (to an older woman)",
+   "answer": "ma'am",
+   "options": [
+    "ma'am",
+    "sir",
+    "mister",
+    "buddy"
+   ],
+   "translation": "Уучлаарай, ээж ээ, энэ суудал хүнтэй юу?",
+   "explain_en": "\"Ma'am\" is the polite way to address a woman whose name you don't know, especially an older woman. \"Sir\" is for men, and \"buddy\" is too casual.",
+   "explain_mn": "Нэрийг нь мэдэхгүй, ялангуяа өндөр настай эмэгтэйд «ma'am» гэж хүндэтгэн ханддаг. «Sir» нь эрэгтэйд хэрэглэгдэх үг, «buddy» нь хэт энгийн, найз нөхдийн үг."
+  },
+  {
+   "lang": "en",
+   "text": "Good morning, ___ Smith. How is your back today, sir?",
+   "answer": "Mr.",
+   "options": [
+    "Mr.",
+    "Sir",
+    "Mrs.",
+    "Miss"
+   ],
+   "translation": "Өглөөний мэнд, Смит гуай. Өнөөдөр нуруу тань ямар байна?",
+   "explain_en": "Before a man's surname, use \"Mr.\" \"Sir\" is never used with a surname, and \"Mrs.\" and \"Miss\" are for women.",
+   "explain_mn": "Эрэгтэй хүний овгийн өмнө «Mr.» гэж хэлнэ. «Sir»-ийг овогтой хамт хэрэглэдэггүй, харин «Mrs.» болон «Miss» нь эмэгтэйд хэрэглэгддэг."
+  },
+  {
+   "lang": "en",
+   "text": "___ you like some more tea, sir?",
+   "answer": "Would",
+   "options": [
+    "Would",
+    "Do",
+    "Will",
+    "Are"
+   ],
+   "translation": "Аав аа, та дахиад цай уух уу?",
+   "explain_en": "\"Would you like...?\" is the polite way to offer something. \"Do you like...?\" asks about your general taste, not an offer.",
+   "explain_mn": "Ямар нэг юм санал болгохдоо «Would you like...?» гэж эелдгээр асуудаг. «Do you like...?» нь «танд таалагддаг уу?» гэсэн утгатай тул санал болгоход тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Өвөө, эмээ, та хоёр сайхан хаваржиж байна уу?",
+   "en": "Grandpa, Grandma, are you both having a good spring?",
+   "mn_latin": "Övöö, emee, ta khoyor saikhan khavarjij baina uu?"
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Сайн, сайн. Миний хүү сайхан ирэв үү? Ор, ор, суу.",
+   "en": "Fine, fine. Did you have a good trip, my boy? Come in, come in, sit down.",
+   "mn_latin": "Sain, sain. Minii khüü saikhan irev üü? Or, or, suu."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Өвөө, энэ миний найз Жеймс. Америкаас ирсэн.",
+   "en": "Grandpa, this is my friend James. He's from America.",
+   "mn_latin": "Övöö, ene minii naiz Jyeims. Amyerikaas irsen."
+  },
+  {
+   "speaker": "James",
+   "mn": "Сайн байна уу, аав аа. Мал сүрэг тарган тавтай юу?",
+   "en": "Hello, sir. Is your livestock fat and healthy?",
+   "mn_latin": "Sain baina uu, aav aa. Mal süreg targan tavtai yuu?"
+  },
+  {
+   "speaker": "Цэцэг",
+   "mn": "Тарган сайхан байна. Хүү минь монголоор их сайхан ярьдаг юм байна. Цайгаа уугаарай.",
+   "en": "They're nice and fat. My boy, you speak Mongolian really well. Please, have your tea.",
+   "mn_latin": "Targan saikhan baina. Khüü mini mongoloor ikh saikhan yaridag yum baina. Tsaigaa uugaarai."
+  },
+  {
+   "speaker": "James",
+   "mn": "Баярлалаа, ээж ээ. Та хоёр эхлээд зооглоно уу.",
+   "en": "Thank you, ma'am. Please, you two eat first.",
+   "mn_latin": "Bayarlalaa, eej ee. Ta khoyor ekhleed zooglono uu."
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Ёс мэддэг сайн хүүхэд байна шүү!",
+   "en": "Now there's a young man who knows his manners!",
+   "mn_latin": "Yos meddeg sain khüükhed baina shüü!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, it's normal and warm to call unrelated older people ээж, аав, эмээ, or өвөө, and to add гуай after an older person's name. Elders are served tea and food first, and during Tsagaan Sar the younger person holds out their arms under the elder's arms to greet them (золгох). In English-speaking countries, the safe choice is \"sir,\" \"ma'am,\" or Mr./Mrs. + surname until the older person says, \"Please, call me Linda.\"",
+  "mn": "Монголд танихгүй ахмад настныг ээж, аав, эмээ, өвөө гэж дуудах, нэрийнх нь араас «гуай» гэж залгах нь дотно бөгөөд хүндэтгэлтэй хэрэг. Ахмадад цай, хоолыг эхэлж барьдаг ба Цагаан сараар залуу хүн гараа ахмадын гарын доор оруулан золгодог. Англи хэлтэй орнуудад өндөр настай хүн «Please, call me Linda» гэж өөрөө хэлэх хүртэл «sir», «ma'am» эсвэл Mr./Mrs. + овог гэж дуудах нь хамгийн зөв."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A strong, accurate lesson with natural Mongolian and English. The only fix is one vowel-harmony form missing from the grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "The lesson is solid overall. The only real error was the case government of мэндлэх; everything else is correct and natural.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "мэндлэх takes the comitative case (-тай), not the dative: настантай мэндлэх"
+   }
+  ]
+ }
+}

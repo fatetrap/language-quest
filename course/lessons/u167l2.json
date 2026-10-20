@@ -1,0 +1,402 @@
+{
+ "intro_en": "Follow a family debate about paying the alternative service fee versus enlisting. You will learn terms for fees, exemptions, and deferments, and use -х учиртай to talk about duties that are expected or destined.",
+ "intro_mn": "Цэргийн алба хаахын оронд мөнгөн төлбөр төлөх үү, эсвэл цэрэгт явах уу гэсэн гэр бүлийн маргааныг даган төлбөр, чөлөөлөлт, хойшлуулалттай холбоотой үгсийг сурна. Англи хэлний be obliged to, have to, be exempt from хэллэгүүдийг ялгаж хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "мөнгөн төлбөр",
+   "en": "fee, cash payment",
+   "pos": "noun",
+   "example_mn": "Мөнгөн төлбөрийн хэмжээ жил бүр өөрчлөгддөг.",
+   "example_en": "The amount of the fee changes every year.",
+   "mn_latin": "möngön tölbör"
+  },
+  {
+   "mn": "чөлөөлөлт",
+   "en": "exemption",
+   "pos": "noun",
+   "example_mn": "Эрүүл мэндийн шалтгаанаар чөлөөлөлт авах боломжтой.",
+   "example_en": "You can get an exemption for health reasons.",
+   "mn_latin": "chölöölölt"
+  },
+  {
+   "mn": "чөлөөлөгдөх",
+   "en": "to be exempted, to be released",
+   "pos": "verb",
+   "example_mn": "Тэр цэргийн албанаас чөлөөлөгдсөн.",
+   "example_en": "He was exempted from military service.",
+   "mn_latin": "chölöölögdökh"
+  },
+  {
+   "mn": "хойшлуулах",
+   "en": "to defer, to postpone",
+   "pos": "verb",
+   "example_mn": "Би цэргийн албаа хоёр жилээр хойшлуулсан.",
+   "example_en": "I deferred my military service for two years.",
+   "mn_latin": "khoishluulakh"
+  },
+  {
+   "mn": "оюутны хөнгөлөлт",
+   "en": "student deferment, student concession",
+   "pos": "noun phrase",
+   "example_mn": "Оюутны хөнгөлөлт эдлэхийн тулд сургуулийн тодорхойлолт хэрэгтэй.",
+   "example_en": "To get the student deferment, you need a certificate from your university.",
+   "mn_latin": "oyuutny khöngölölt"
+  },
+  {
+   "mn": "алба хаах",
+   "en": "to serve (in the military)",
+   "pos": "verb",
+   "example_mn": "Аав минь хилийн цэрэгт алба хааж байсан.",
+   "example_en": "My father served in the border guard.",
+   "mn_latin": "alba khaakh"
+  },
+  {
+   "mn": "цэрэгт татагдах",
+   "en": "to be drafted, to be called up",
+   "pos": "verb phrase",
+   "example_mn": "Тэр арван найман насандаа цэрэгт татагдсан.",
+   "example_en": "He was drafted at eighteen.",
+   "mn_latin": "tseregt tatagdakh"
+  },
+  {
+   "mn": "дүйцүүлэх алба",
+   "en": "alternative (civilian) service",
+   "pos": "noun phrase",
+   "example_mn": "Дүйцүүлэх алба нь цэргийн албатай адил хугацаатай.",
+   "example_en": "Alternative service lasts as long as military service.",
+   "mn_latin": "düitsüülekh alba"
+  },
+  {
+   "mn": "иргэний үүрэг",
+   "en": "civic duty",
+   "pos": "noun phrase",
+   "example_mn": "Эх орноо хамгаалах нь иргэний үүрэг.",
+   "example_en": "Defending your country is a civic duty.",
+   "mn_latin": "irgenii üüreg"
+  },
+  {
+   "mn": "шударга бус",
+   "en": "unfair",
+   "pos": "adjective",
+   "example_mn": "Мөнгөөр чөлөөлөгдөх нь шударга бус санагддаг.",
+   "example_en": "Buying your way out seems unfair.",
+   "mn_latin": "shudarga bus"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хуулиар эрэгтэй иргэн бүр цэргийн алба хаах учиртай.",
+   "en": "By law, every male citizen is obliged to do military service.",
+   "alt_mn": [
+    "Хуулийн дагуу эрэгтэй иргэн бүр цэргийн алба хаах учиртай."
+   ],
+   "alt_en": [
+    "By law, every male citizen is required to do military service.",
+    "By law, every male citizen has to do military service."
+   ],
+   "mn_latin": "Khuuliar eregtei irgen bür tsergiin alba khaakh uchirtai."
+  },
+  {
+   "mn": "Оюутнууд цэргийн албаа хойшлуулж болно.",
+   "en": "Students can defer their military service.",
+   "alt_mn": [
+    "Оюутнууд цэргийн албаа хойшлуулах боломжтой."
+   ],
+   "alt_en": [
+    "Students may defer their military service.",
+    "Students are allowed to defer their military service."
+   ],
+   "mn_latin": "Oyuutnuud tsergiin albaa khoishluulj bolno."
+  },
+  {
+   "mn": "Тэр эрүүл мэндийн шалтгаанаар цэргийн албанаас чөлөөлөгдсөн.",
+   "en": "He was exempted from military service for health reasons.",
+   "alt_mn": [],
+   "alt_en": [
+    "He was exempt from military service for health reasons.",
+    "He got an exemption from military service for health reasons."
+   ],
+   "mn_latin": "Ter erüül mendiin shaltgaanaar tsergiin albanaas chölöölögdsön."
+  },
+  {
+   "mn": "Мөнгөн төлбөр төлөөд албанаас чөлөөлөгдөх нь шударга бус гэж зарим хүн үздэг.",
+   "en": "Some people think that paying a fee to get out of service is unfair.",
+   "alt_mn": [
+    "Мөнгө төлж албанаас чөлөөлөгдөх нь шударга бус гэж зарим хүмүүс үздэг."
+   ],
+   "alt_en": [
+    "Some people consider it unfair to pay a fee to avoid service."
+   ],
+   "mn_latin": "Möngön tölbör tölööd albanaas chölöölögdökh ni shudarga bus gej zarim khün üzdeg."
+  },
+  {
+   "mn": "Төгссөнийхөө дараа би цэргийн алба хаах учиртай.",
+   "en": "After I graduate, I'm supposed to do my military service.",
+   "alt_mn": [
+    "Сургуулиа төгссөний дараа би цэргийн алба хаах учиртай."
+   ],
+   "alt_en": [
+    "After I graduate, I'm obliged to do my military service.",
+    "After graduation, I'm due to do my military service."
+   ],
+   "mn_latin": "Tögssöniikhöö daraa bi tsergiin alba khaakh uchirtai."
+  },
+  {
+   "mn": "Хэрэв чи одоо хойшлуулбал хорин тав хүрэхээсээ өмнө алба хаах учиртай болно.",
+   "en": "If you defer now, you'll be obliged to serve before you turn twenty-five.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you defer now, you'll have to serve before you turn twenty-five."
+   ],
+   "mn_latin": "Kherev chi odoo khoishluulbal khorin tav khürekheesee ömnö alba khaakh uchirtai bolno."
+  },
+  {
+   "mn": "Мөнгөтэй айлын хүүхдүүд л төлбөр төлж чаддаг.",
+   "en": "Only kids from wealthy families can afford to pay the fee.",
+   "alt_mn": [
+    "Зөвхөн чинээлэг айлын хүүхдүүд төлбөр төлж чаддаг."
+   ],
+   "alt_en": [
+    "Only children from rich families can afford the fee."
+   ],
+   "mn_latin": "Möngötei ailyn khüükhdüüd l tölbör tölj chaddag."
+  },
+  {
+   "mn": "Оюутны хөнгөлөлт эдлэхийн тулд их сургуулийн тодорхойлолт шаардлагатай.",
+   "en": "To get the student deferment, you need a certificate from your university.",
+   "alt_mn": [
+    "Оюутны хөнгөлөлт авахын тулд их сургуулийн тодорхойлолт хэрэгтэй."
+   ],
+   "alt_en": [
+    "You need a university certificate to qualify for the student deferment."
+   ],
+   "mn_latin": "Oyuutny khöngölölt edlekhiin tuld ikh surguuliin todorkhoilolt shaardlagatai."
+  },
+  {
+   "mn": "Цэргийн алба бол зүгээр нэг үүрэг биш, амьдралын сургууль.",
+   "en": "Military service isn't just a duty; it's a school of life.",
+   "alt_mn": [],
+   "alt_en": [
+    "Military service is not only a duty but a school of life."
+   ],
+   "mn_latin": "Tsergiin alba bol zügeer neg üüreg bish, amidralyn surguuli."
+  },
+  {
+   "mn": "Ах маань цэргээс чөлөөлөгдсөндөө одоо ч харамсдаг.",
+   "en": "My older brother still regrets being exempted from the army.",
+   "alt_mn": [
+    "Ах маань цэргээс чөлөөлөгдсөндөө одоог хүртэл харамсдаг."
+   ],
+   "alt_en": [
+    "My older brother still regrets getting out of the army."
+   ],
+   "mn_latin": "Akh maani tsergees chölöölögdsöndöö odoo ch kharamsdag."
+  },
+  {
+   "mn": "Дүйцүүлэх алба хаавал цэрэгт татагдахгүй.",
+   "en": "If you do alternative service, you won't be drafted.",
+   "alt_mn": [
+    "Дүйцүүлэх алба хаасан тохиолдолд цэрэгт татагдахгүй."
+   ],
+   "alt_en": [
+    "If you do alternative service, you won't be called up."
+   ],
+   "mn_latin": "Düitsüülekh alba khaaval tseregt tatagdakhgüi."
+  },
+  {
+   "mn": "Эх орноо хамгаалах нь эрэгтэй хүн бүрийн иргэний үүрэг гэж өвөө хэлдэг.",
+   "en": "Grandpa says that defending the homeland is every man's civic duty.",
+   "alt_mn": [],
+   "alt_en": [
+    "Grandpa says defending our country is every man's civic duty."
+   ],
+   "mn_latin": "Ekh ornoo khamgaalakh ni eregtei khün büriin irgenii üüreg gej övöö kheldeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "-х учиртай: duties that are expected or destined",
+  "title_mn": "be obliged to, have to, be exempt from",
+  "explain_en": "Add -х (the future/infinitive participle) to a verb stem and follow it with учиртай to say that something is expected, required by circumstances, or simply meant to happen: алба хаах учиртай means 'is supposed to / is obliged to serve.' It sounds more formal and fated than -х ёстой (must), which expresses personal or moral necessity. Add болно for 'will end up having to': хаах учиртай болно. Negate it with -х учиргүй (there's no reason to / not supposed to).",
+  "explain_mn": "Англи хэлэнд 'have to' нь өдөр тутмын, ерөнхий албадлагыг илэрхийлнэ: I have to pay the fee. 'Be obliged to' нь илүү албан ёсны бөгөөд хууль, дүрэм, үүргээс үүдсэн албадлагыг заана: All men are obliged to register. Үгүйсгэлд 'don't have to' нь 'шаардлагагүй' гэсэн утгатай, 'must not' (хориотой)-той андуурч болохгүй. 'Be exempt from' хэллэгийн араас нэр үг эсвэл -ing хэлбэр орно: He is exempt from service / from paying.",
+  "examples": [
+   {
+    "mn": "Хууль ёсоор та бүртгүүлэх учиртай.",
+    "en": "By law, you are obliged to register.",
+    "mn_latin": "Khuuli yosoor ta bürtgüülekh uchirtai."
+   },
+   {
+    "mn": "Би маргааш төлбөрөө төлөх ёстой.",
+    "en": "I have to pay my fee tomorrow.",
+    "mn_latin": "Bi margaash tölböröö tölökh yostoi."
+   },
+   {
+    "mn": "Оюутнууд одоохондоо алба хаах шаардлагагүй.",
+    "en": "Students don't have to serve for now.",
+    "mn_latin": "Oyuutnuud odookhondoo alba khaakh shaardlagagüi."
+   },
+   {
+    "mn": "Тэр төлбөр төлөхөөс чөлөөлөгдсөн.",
+    "en": "He is exempt from paying the fee.",
+    "mn_latin": "Ter tölbör tölökhöös chölöölögdsön."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хуулийн дагуу тэр алба хаа___ учиртай.",
+   "answer": "х",
+   "options": [
+    "х",
+    "ж",
+    "сан",
+    "на"
+   ],
+   "translation": "By law, he is obliged to serve.",
+   "explain_en": "учиртай always follows the -х participle: хаах учиртай.",
+   "explain_mn": "'учиртай'-н өмнө үйл үг заавал -х хэлбэртэй байна: хаах учиртай."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр эрүүл мэндийн шалтгаанаар албанаас ___.",
+   "answer": "чөлөөлөгдсөн",
+   "options": [
+    "чөлөөлөгдсөн",
+    "чөлөөлсөн",
+    "хойшлуулсан",
+    "төлсөн"
+   ],
+   "translation": "He was exempted from service for health reasons.",
+   "explain_en": "The passive чөлөөлөгдөх ('to be exempted') fits because he received the exemption; чөлөөлсөн would mean he exempted someone else.",
+   "explain_mn": "Тэр өөрөө чөлөөлөлт авсан тул үйлдэх хэвийн 'чөлөөлсөн' биш, үйлдэгдэх хэвийн 'чөлөөлөгдсөн' тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Оюутан учраас тэр цэргийн албаа ___ боломжтой.",
+   "answer": "хойшлуулах",
+   "options": [
+    "хойшлуулах",
+    "чөлөөлөх",
+    "төлөх",
+    "татах"
+   ],
+   "translation": "Since he's a student, he can defer his military service.",
+   "explain_en": "Students get a deferment (хойшлуулах, 'to postpone'), not a full exemption.",
+   "explain_mn": "Оюутан албаа бүрмөсөн чөлөөлүүлэхгүй, харин хойшлуулдаг тул 'хойшлуулах' зөв."
+  },
+  {
+   "lang": "en",
+   "text": "Full-time students are exempt ___ the fee.",
+   "answer": "from",
+   "options": [
+    "from",
+    "of",
+    "to",
+    "with"
+   ],
+   "translation": "Өдрийн ангийн оюутнууд төлбөрөөс чөлөөлөгддөг.",
+   "explain_en": "The fixed preposition after 'exempt' is 'from.'",
+   "explain_mn": "'exempt' үгийн араас үргэлж 'from' угтвар орно."
+  },
+  {
+   "lang": "en",
+   "text": "By law, all men are ___ to register at eighteen.",
+   "answer": "obliged",
+   "options": [
+    "obliged",
+    "must",
+    "have",
+    "need"
+   ],
+   "translation": "Хуулиар бүх эрэгтэй арван найман насандаа бүртгүүлэх учиртай.",
+   "explain_en": "After 'are' you need an adjective/participle: 'are obliged to.' 'Must,' 'have,' and 'need' can't follow 'are' here.",
+   "explain_mn": "'are'-ийн араас 'obliged to' орно. 'are must', 'are have' гэж хэлэхгүй. Хууль, дүрмийн албадлагад 'be obliged to' тохиромжтой."
+  },
+  {
+   "lang": "en",
+   "text": "I don't ___ to pay anything if I enlist.",
+   "answer": "have",
+   "options": [
+    "have",
+    "must",
+    "obliged",
+    "exempt"
+   ],
+   "translation": "Би цэрэгт явбал юу ч төлөх шаардлагагүй.",
+   "explain_en": "'Don't have to' means 'it's not necessary.' 'Must' never takes 'do' in the negative.",
+   "explain_mn": "'don't have to' = шаардлагагүй. 'don't must' гэсэн хэлбэр байдаггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батбаяр",
+   "mn": "Тэмүүлэн, чи ирэх жил арван найм хүрнэ. Цэргийн алба хаах учиртай гэдгээ мэдэж байгаа биз дээ?",
+   "en": "Temuulen, you'll turn eighteen next year. You know you're obliged to do military service, right?",
+   "mn_latin": "Temüülen, chi irekh jil arvan naim khürne. Tsergiin alba khaakh uchirtai gedgee medej baigaa biz dee?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Мэдэж байна, аав аа. Гэхдээ би их сургуульд орвол оюутны хөнгөлөлтөөр хойшлуулж болно.",
+   "en": "I know, Dad. But if I get into university, I can defer it with the student deferment.",
+   "mn_latin": "Medej baina, aav aa. Gekhdee bi ikh surguulid orvol oyuutny khöngölöltöör khoishluulj bolno."
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Хойшлуулаад ч хамаагүй, хорин тав хүрэхээсээ өмнө алба хаах учиртай болно шүү дээ. Мөнгөн төлбөрөө төлчихвөл яасан юм?",
+   "en": "Even if you defer, you'll still be obliged to serve before you turn twenty-five. Why not just pay the fee?",
+   "mn_latin": "Khoishluulaad ch khamaagüi, khorin tav khürekheesee ömnö alba khaakh uchirtai bolno shüü dee. Möngön tölböröö tölchikhvöl yaasan yum?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Мөнгөөр чөлөөлөгдөх нь шударга бус. Хөдөөний айлын хүүхдүүд тэгж чадахгүй шүү дээ.",
+   "en": "Buying an exemption is unfair. Kids from countryside families can't afford to do that.",
+   "mn_latin": "Möngöör chölöölögdökh ni shudarga bus. Khödöönii ailyn khüükhdüüd tegj chadakhgüi shüü dee."
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Шударга эсэхийг нь мэдэхгүй, гэхдээ хүүгийн сургууль нэг жил тасалдах нь миний санааг зовоож байна.",
+   "en": "I don't know about fairness, but I'm worried about our son missing a whole year of school.",
+   "mn_latin": "Shudarga esekhiig ni medekhgüi, gekhdee khüügiin surguuli neg jil tasaldakh ni minii sanaag zovooj baina."
+  },
+  {
+   "speaker": "Өвөө",
+   "mn": "Би залуудаа хилийн цэрэгт алба хаасан. Тэр бол амьдралын сургууль байсан. Иргэний үүргээсээ зугтах хэрэггүй.",
+   "en": "When I was young, I served in the border guard. It was a school of life. There's no need to run from your civic duty.",
+   "mn_latin": "Bi zaluudaa khiliin tseregt alba khaasan. Ter bol amidralyn surguuli baisan. Irgenii üürgeesee zugtakh khereggüi."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Өвөө, би зугтах гээгүй ээ. Сургуулиа төгсөөд алба хаая гэж бодож байна. Тэгвэл төлбөр төлөх ч шаардлагагүй.",
+   "en": "Grandpa, I'm not trying to run away. I'm thinking of serving after I graduate. Then I won't have to pay any fee either.",
+   "mn_latin": "Övöö, bi zugtakh geegüi ee. Surguulia tögsööd alba khaaya gej bodoj baina. Tegvel tölbör tölökh ch shaardlagagüi."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Энэ бол ухаалаг шийдвэр. Ээж чинь ч зөвшөөрөх байх.",
+   "en": "That's a sensible decision. Your mom will probably agree, too.",
+   "mn_latin": "Ene bol ukhaalag shiidver. Eej chini ch zövshöörökh baikh."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, men aged 18 to 25 are required to do 12 months of military service, but the law also allows alternatives such as civilian alternative service or paying a fee instead. The fee option is a frequent topic of family and public debate: some see it as a practical choice for students and young professionals, while others feel it lets wealthier families buy their way out of a shared civic duty.",
+  "mn": "Монголд 18-25 насны эрэгтэй иргэд 12 сарын хугацаатай цэргийн алба хаах үүрэгтэй ч хуулиар дүйцүүлэх алба хаах, эсвэл мөнгөн төлбөр төлөх зэрэг өөр сонголтыг зөвшөөрдөг. Мөнгөн төлбөрийн асуудал гэр бүл, олон нийтийн дунд байнга маргаан дагуулдаг. Зарим нь үүнийг оюутан, залуу мэргэжилтнүүдэд тохиромжтой сонголт гэж үздэг бол зарим нь чинээлэг айлууд нийтийн иргэний үүргээс мөнгөөр чөлөөлөгдөх боломж гэж шүүмжилдэг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Strong lesson. Both languages are accurate and natural, the fill-in-the-blank answers each have only one correct option, and the culture facts are correct. Only one case-government error needed fixing in the dialogue."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "The lesson is largely accurate. One grammar example used учиргүй where 'not required' (шаардлагагүй) was meant.",
+  "changes": [
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Here -х учиргүй sounds like 'shouldn't / no way they would', not 'don't have to'. шаардлагагүй matches 'don't have to'."
+   }
+  ]
+ }
+}

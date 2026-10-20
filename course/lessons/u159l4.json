@@ -1,0 +1,429 @@
+{
+ "intro_en": "In this lesson, you will talk about border queues, transit fees and transport costs the way logistics managers do. You will practice the Mongolian route-and-cause patterns -ыг дамжин and -аар дамжуулан, and the English intensifiers considerably, significantly and marginally with comparatives, plus 'much less' and 'even more'.",
+ "intro_mn": "Энэ хичээлээр та ложистикийн менежерүүд шиг хилийн дараалал, дамжлагын хураамж, тээврийн зардлын талаар ярьж сурна. Монгол хэлний -ыг дамжин, -аар дамжуулан хэлбэрийг давтана. Мөн англи хэлний considerably, significantly, marginally гэсэн үгсийг харьцуулсан зэрэгтэй хэрэглэх болон much less, even more хэллэгийг сурна.",
+ "vocab": [
+  {
+   "mn": "тээврийн зардал",
+   "en": "transport costs",
+   "pos": "noun phrase",
+   "example_mn": "Тээврийн зардал өнгөрсөн жилийнхээс хамаагүй өндөр байна.",
+   "example_en": "Transport costs are considerably higher than last year.",
+   "mn_latin": "teevriin zardal"
+  },
+  {
+   "mn": "саатал",
+   "en": "delay",
+   "pos": "noun",
+   "example_mn": "Хил дээрх саатал гурав хоног үргэлжилсэн.",
+   "example_en": "The delay at the border lasted three days.",
+   "mn_latin": "saatal"
+  },
+  {
+   "mn": "дамжлагын хураамж",
+   "en": "transit fee",
+   "pos": "noun phrase",
+   "example_mn": "Дамжлагын хураамж бага зэрэг нэмэгдсэн.",
+   "example_en": "The transit fee went up slightly.",
+   "mn_latin": "damjlagyn khuraamj"
+  },
+  {
+   "mn": "ложистик",
+   "en": "logistics",
+   "pos": "noun",
+   "example_mn": "Манай компани ложистикийн шинэ систем нэвтрүүлсэн.",
+   "example_en": "Our company introduced a new logistics system.",
+   "mn_latin": "lojistik"
+  },
+  {
+   "mn": "бөглөрөл",
+   "en": "bottleneck, congestion",
+   "pos": "noun",
+   "example_mn": "Замын-Үүдэд дахиад бөглөрөл үүссэн.",
+   "example_en": "A bottleneck has formed at Zamyn-Uud again.",
+   "mn_latin": "böglöröl"
+  },
+  {
+   "mn": "хилийн боомт",
+   "en": "border crossing",
+   "pos": "noun phrase",
+   "example_mn": "Хилийн боомт баярын үеэр хаалттай байдаг.",
+   "example_en": "The border crossing is closed during holidays.",
+   "mn_latin": "khiliin boomt"
+  },
+  {
+   "mn": "дараалал",
+   "en": "queue, line",
+   "pos": "noun",
+   "example_mn": "Ачааны машинуудын дараалал хэдэн километр үргэлжилжээ.",
+   "example_en": "The line of trucks stretched for several kilometers.",
+   "mn_latin": "daraalal"
+  },
+  {
+   "mn": "ачаа",
+   "en": "cargo, freight",
+   "pos": "noun",
+   "example_mn": "Ачаагаа цагт нь хүргэх хэрэгтэй.",
+   "example_en": "We need to deliver the cargo on time.",
+   "mn_latin": "achaa"
+  },
+  {
+   "mn": "нийлүүлэлтийн сүлжээ",
+   "en": "supply chain",
+   "pos": "noun phrase",
+   "example_mn": "Нийлүүлэлтийн сүлжээ тасалдвал үнэ өснө.",
+   "example_en": "If the supply chain breaks down, prices will rise.",
+   "mn_latin": "niilüüleltiin süljee"
+  },
+  {
+   "mn": "дамжуулан",
+   "en": "through, by way of",
+   "pos": "postposition (converb)",
+   "example_mn": "Бид Тяньжин боомтоор дамжуулан экспортолдог.",
+   "example_en": "We export through the port of Tianjin.",
+   "mn_latin": "damjuulan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Төмөр замаар тээвэрлэх нь авто тээврээс хамаагүй хямд.",
+   "en": "Rail transport is considerably cheaper than road transport.",
+   "alt_mn": [
+    "Төмөр замын тээвэр авто тээврээс хамаагүй хямд."
+   ],
+   "alt_en": [
+    "Shipping by rail is considerably cheaper than shipping by road.",
+    "Rail freight is much cheaper than road freight."
+   ],
+   "mn_latin": "Tömör zamaar teeverlekh ni avto teevrees khamaagüi khyamd."
+  },
+  {
+   "mn": "Энэ жил хил дээрх саатал өмнөх жилийнхээс мэдэгдэхүйц урт байна.",
+   "en": "This year the border delays are significantly longer than the year before.",
+   "alt_mn": [
+    "Энэ жил хилийн саатал өнгөрсөн жилийнхээс мэдэгдэхүйц урт байна."
+   ],
+   "alt_en": [
+    "Border delays this year are significantly longer than last year."
+   ],
+   "mn_latin": "Ene jil khil deerkh saatal ömnökh jiliinkhees medegdekhüits urt baina."
+  },
+  {
+   "mn": "Эрээнийг дамжин ирэх ачаа арай хурдан хүрдэг.",
+   "en": "Cargo coming via Erenhot arrives marginally faster.",
+   "alt_mn": [
+    "Эрээнийг дамжин ирдэг ачаа арай хурдан хүрдэг."
+   ],
+   "alt_en": [
+    "Freight that comes via Erenhot arrives slightly faster."
+   ],
+   "mn_latin": "Ereeniig damjin irekh achaa arai khurdan khürdeg."
+  },
+  {
+   "mn": "Тяньжин боомтоор дамжуулан экспортлох нь бүр ч илүү зардалтай болсон.",
+   "en": "Exporting through the port of Tianjin has become even more costly.",
+   "alt_mn": [
+    "Тяньжин боомтоор дамжуулан экспортлох зардал бүр ч өссөн."
+   ],
+   "alt_en": [
+    "Exporting through Tianjin port has become even more expensive."
+   ],
+   "mn_latin": "Tyanijin boomtoor damjuulan eksportlokh ni bür ch ilüü zardaltai bolson."
+  },
+  {
+   "mn": "Хилийн бөглөрөл тээврийн зардлаар дамжуулан хэрэглээний барааны үнэд нөлөөлдөг.",
+   "en": "Border bottlenecks affect consumer prices through transport costs.",
+   "alt_mn": [
+    "Хил дээрх бөглөрөл тээврийн зардлаар дамжуулан өргөн хэрэглээний барааны үнэд нөлөөлдөг."
+   ],
+   "alt_en": [
+    "Bottlenecks at the border affect consumer prices by way of transport costs."
+   ],
+   "mn_latin": "Khiliin böglöröl teevriin zardlaar damjuulan kheregleenii baraany üned nölööldög."
+  },
+  {
+   "mn": "Дамжлагын хураамж нэмэгдвэл манай ашиг бүр ч багасна.",
+   "en": "If transit fees go up, our profit will shrink even more.",
+   "alt_mn": [
+    "Дамжлагын хураамж өсвөл манай ашиг бүр ч буурна."
+   ],
+   "alt_en": [
+    "If the transit fees rise, our profits will shrink even further."
+   ],
+   "mn_latin": "Damjlagyn khuraamj nemegdvel manai ashig bür ch bagasna."
+  },
+  {
+   "mn": "Замын-Үүдэд ачааны машинуудын дараалал арван километр үргэлжилсэн.",
+   "en": "At Zamyn-Uud, the line of trucks stretched for ten kilometers.",
+   "alt_mn": [
+    "Замын-Үүдэд ачааны машины дараалал арван километр сунасан."
+   ],
+   "alt_en": [
+    "The truck queue at Zamyn-Uud stretched for ten kilometers."
+   ],
+   "mn_latin": "Zamyn-Üüded achaany mashinuudyn daraalal arvan kilomyetr ürgeljilsen."
+  },
+  {
+   "mn": "Агаарын тээвэр хамаагүй үнэтэй тул бид түүнийг ховор ашигладаг.",
+   "en": "Air freight is much more expensive, so we rarely use it.",
+   "alt_mn": [
+    "Агаарын тээвэр хамаагүй үнэтэй учраас бид ховор ашигладаг."
+   ],
+   "alt_en": [
+    "Air freight is considerably more expensive, so we seldom use it."
+   ],
+   "mn_latin": "Agaaryn teever khamaagüi ünetei tul bid tüüniig khovor ashigladag."
+  },
+  {
+   "mn": "Шинэ терминал ашиглалтад орсноор саатал хамаагүй цөөрсөн.",
+   "en": "Since the new terminal opened, delays have become much less common.",
+   "alt_mn": [
+    "Шинэ терминал ажиллаж эхэлснээр саатал хамаагүй цөөрсөн."
+   ],
+   "alt_en": [
+    "Since the new terminal opened, delays have become much less frequent."
+   ],
+   "mn_latin": "Shine tyerminal ashiglaltad orsnoor saatal khamaagüi tsöörsön."
+  },
+  {
+   "mn": "Ложистикийн менежерүүд нийлүүлэлтийн сүлжээг илүү уян хатан болгохыг хичээж байна.",
+   "en": "Logistics managers are trying to make supply chains more flexible.",
+   "alt_mn": [],
+   "alt_en": [
+    "Logistics managers are working to make supply chains more flexible."
+   ],
+   "mn_latin": "Lojistikiin myenyejyerüüd niilüüleltiin süljeeg ilüü uyan khatan bolgokhyg khicheej baina."
+  },
+  {
+   "mn": "Нүүрсний экспортын ихэнх нь Гашуунсухайтыг дамжин явдаг.",
+   "en": "Most coal exports go via Gashuunsukhait.",
+   "alt_mn": [
+    "Нүүрсний экспортын дийлэнх нь Гашуунсухайтыг дамжин гардаг."
+   ],
+   "alt_en": [
+    "Most of the coal exports pass through Gashuunsukhait."
+   ],
+   "mn_latin": "Nüürsnii eksportyn ikhenkh ni Gashuunsukhaityg damjin yavdag."
+  },
+  {
+   "mn": "Нэг өдрийн саатал ч гэсэн нийт зардлыг мэдэгдэхүйц өсгөдөг.",
+   "en": "Even a one-day delay significantly raises the total cost.",
+   "alt_mn": [
+    "Ганц өдрийн саатал ч нийт зардлыг мэдэгдэхүйц нэмэгдүүлдэг."
+   ],
+   "alt_en": [
+    "Even a single day's delay raises the overall cost significantly."
+   ],
+   "mn_latin": "Neg ödriin saatal ch gesen niit zardlyg medegdekhüits ösgödög."
+  }
+ ],
+ "grammar": {
+  "title_en": "Routes and cause chains: -ыг дамжин and -аар дамжуулан",
+  "title_mn": "Харьцуулсан зэргийг чангатгах нь: considerably, significantly, marginally, much less, even more",
+  "explain_en": "Mongolian has two common ways to say 'via' or 'through'. (1) Accusative -ыг/-ийг/-г + дамжин (from дамжих, 'to pass through') describes a physical route: Эрээнийг дамжин 'via Erenhot', Гашуунсухайтыг дамжин 'via Gashuunsukhait'. (2) Instrumental -аар/-ээр/-оор/-өөр + дамжуулан (from дамжуулах, 'to pass something on') works for routes and also for abstract chains of cause or cost: X нь Y-аар дамжуулан Z-д нөлөөлдөг 'X affects Z through Y'. Pick the ending by vowel harmony: зардлаар, боомтоор, сүлжээгээр. For 'considerably/much + comparative', Mongolian uses -аас + хамаагүй: авто тээврээс хамаагүй хямд 'considerably cheaper than road'. Use мэдэгдэхүйц for 'significantly', арай or бага зэрэг for 'marginally', and бүр ч for 'even more'.",
+  "explain_mn": "Англи хэлэнд харьцуулсан зэргийн (cheaper, more expensive) өмнө зэргийн үг тавьж ялгааны хэмжээг заадаг. Ялгаа их бол considerably, significantly, much, far гэнэ: considerably cheaper 'хамаагүй хямд'. Ялгаа бага бол marginally, slightly гэнэ: marginally faster 'арай хурдан'. Харьцуулсан зэргийн өмнө very гэж хэрэглэдэггүй гэдгийг анхаараарай: 'very cheaper' гэвэл буруу. Even more (бүр ч илүү) нь аль хэдийн өндөр байгаа зүйл улам нэмэгдэхийг илэрхийлнэ: even more costly. Much less нь хоёр утгатай. (1) Тэмдэг нэрийн өмнө 'хамаагүй бага' гэсэн утгатай: much less common. (2) Үгүйсгэсэн өгүүлбэрийн дараа 'бүү хэл' гэсэн утгатай: We can't afford rail, much less air freight.",
+  "examples": [
+   {
+    "mn": "Ачаа Эрээнийг дамжин Тяньжин хүрдэг.",
+    "en": "The cargo reaches Tianjin via Erenhot.",
+    "mn_latin": "Achaa Ereeniig damjin Tyanijin khürdeg."
+   },
+   {
+    "mn": "Түлшний үнэ тээврийн зардлаар дамжуулан хүнсний үнэд нөлөөлдөг.",
+    "en": "Fuel prices affect food prices through transport costs.",
+    "mn_latin": "Tülshnii üne teevriin zardlaar damjuulan khünsnii üned nölööldög."
+   },
+   {
+    "mn": "Шинэ зам хуучнаас мэдэгдэхүйц богино, гэхдээ хураамж нь арай өндөр.",
+    "en": "The new road is significantly shorter than the old one, but its fee is marginally higher.",
+    "mn_latin": "Shine zam khuuchnaas medegdekhüits bogino, gekhdee khuraamj ni arai öndör."
+   },
+   {
+    "mn": "Бид төмөр замын тээврийг ч төлж чадахгүй, агаарын тээврийг бүү хэл.",
+    "en": "We can't afford rail freight, much less air freight.",
+    "mn_latin": "Bid tömör zamyn teevriig ch tölj chadakhgüi, agaaryn teevriig büü khel."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ачаа Эрээн___ дамжин ирсэн.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "тэй",
+    "д",
+    "ээс"
+   ],
+   "translation": "The cargo came via Erenhot.",
+   "explain_en": "дамжин ('passing through') takes the accusative case. After the front-vowel word Эрээн ending in н, the accusative ending is -ийг, which gives Эрээнийг.",
+   "explain_mn": "Дамжин гэдэг үг заах тийн ялгалтай нийлдэг. Эрээн гэдэг үг эм үг бөгөөд н-ээр төгсдөг тул -ийг залгаж Эрээнийг болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хилийн саатал тээврийн зардл___ дамжуулан үнэд нөлөөлдөг.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "ыг",
+    "д",
+    "тай"
+   ],
+   "translation": "Border delays affect prices through transport costs.",
+   "explain_en": "дамжуулан ('by way of') takes the instrumental case. зардал is a back-vowel word, and its last vowel drops before the ending: зардал becomes зардлаар.",
+   "explain_mn": "Дамжуулан гэдэг үг үйлдэх тийн ялгалтай нийлдэг. Зардал гэдэг үг эр үг тул -аар залгах ба сүүлийн эгшиг гээгдэж зардлаар болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Төмөр замын тээвэр авто тээврээс ___ хямд.",
+   "answer": "хамаагүй",
+   "options": [
+    "хамаагүй",
+    "хамгийн",
+    "дэндүү",
+    "тийм"
+   ],
+   "translation": "Rail transport is considerably cheaper than road transport.",
+   "explain_en": "With -аас ('than'), хамаагүй means 'considerably'. хамгийн is the superlative marker ('most'), so it cannot follow a 'than' phrase.",
+   "explain_mn": "-аас ялгалтай харьцуулалтад ялгаа ихийг хамаагүй гэдэг үгээр илэрхийлнэ. Хамгийн гэдэг нь онцгойлох зэрэг тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Rail is ___ cheaper than road transport.",
+   "answer": "considerably",
+   "options": [
+    "considerably",
+    "very",
+    "most",
+    "too"
+   ],
+   "translation": "Төмөр замын тээвэр авто тээврээс хамаагүй хямд.",
+   "explain_en": "Comparatives such as 'cheaper' take intensifiers like 'considerably' or 'much'. 'Very cheaper' and 'most cheaper' are ungrammatical, and 'too' does not combine with a comparative in this way.",
+   "explain_mn": "Cheaper гэдэг харьцуулсан зэргийн өмнө considerably, much гэх мэт үг хэрэглэнэ. Very cheaper, most cheaper гэж хэлдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "The new fee raised our costs only ___.",
+   "answer": "marginally",
+   "options": [
+    "marginally",
+    "much",
+    "even",
+    "more"
+   ],
+   "translation": "Шинэ хураамж манай зардлыг ердөө бага зэрэг өсгөсөн.",
+   "explain_en": "'Only marginally' means 'only by a small amount'. 'Only much' and 'only even' are not natural English.",
+   "explain_mn": "Only marginally нь 'зөвхөн бага зэрэг' гэсэн утгатай. Энд бага хэмжээний өөрчлөлтийг заах үг хэрэгтэй."
+  },
+  {
+   "lang": "en",
+   "text": "We can't afford rail freight, ___ air freight.",
+   "answer": "much less",
+   "options": [
+    "much less",
+    "even more",
+    "much more",
+    "much fewer"
+   ],
+   "translation": "Бид төмөр замын тээврийг ч төлж чадахгүй, агаарын тээврийг бүү хэл.",
+   "explain_en": "After a negative statement, 'much less' means 'and certainly not' and introduces an even less likely option.",
+   "explain_mn": "Үгүйсгэсэн өгүүлбэрийн дараа much less нь 'бүү хэл' гэсэн утгатай. Түүнээс ч боломжгүй зүйлийг нэмж хэлэхэд хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Сара, энэ долоо хоногт Замын-Үүдэд дахиад бөглөрөл үүссэн. Дараалал найман километр болсон байна.",
+   "en": "Sarah, there's another bottleneck at Zamyn-Uud this week. The queue is eight kilometers long.",
+   "mn_latin": "Sara, ene doloo khonogt Zamyn-Üüded dakhiad böglöröl üüssen. Daraalal naiman kilomyetr bolson baina."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Тэгвэл манай ачаа хэд хоног саатах вэ?",
+   "en": "So how many days will our cargo be delayed?",
+   "mn_latin": "Tegvel manai achaa khed khonog saatakh ve?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Гурваас доошгүй хоног. Саатал бүр тээврийн зардлыг мэдэгдэхүйц өсгөдөг.",
+   "en": "At least three days. Every delay raises transport costs significantly.",
+   "mn_latin": "Gurvaas dooshgüi khonog. Saatal bür teevriin zardlyg medegdekhüits ösgödög."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Авто замын оронд төмөр замаар явуулбал ямар вэ?",
+   "en": "What if we ship by rail instead of by road?",
+   "mn_latin": "Avto zamyn orond tömör zamaar yavuulbal yamar ve?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Төмөр зам хамаагүй хямд ч дамжлагын хураамж нь саяхан бага зэрэг нэмэгдсэн.",
+   "en": "Rail is considerably cheaper, but its transit fee went up marginally not long ago.",
+   "mn_latin": "Tömör zam khamaagüi khyamd ch damjlagyn khuraamj ni sayakhan baga zereg nemegdsen."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Агаарын тээврийг бол бүр ч ярих юм алга. Хэт үнэтэй.",
+   "en": "Air freight is even more out of the question. It's far too expensive.",
+   "mn_latin": "Agaaryn teevriig bol bür ch yarikh yum alga. Khet ünetei."
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Тийм. Бөглөрөл тээврийн зардлаар дамжуулан эцсийн үнэд шууд нөлөөлнө.",
+   "en": "Right. The bottleneck feeds straight into the final price through transport costs.",
+   "mn_latin": "Tiim. Böglöröl teevriin zardlaar damjuulan etssiin üned shuud nölöölnö."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "За, тэгвэл энэ удаад төмөр замыг сонгоё.",
+   "en": "Okay, let's go with rail this time.",
+   "mn_latin": "Za, tegvel ene udaad tömör zamyg songoyo."
+  }
+ ],
+ "culture_note": {
+  "en": "As a landlocked country, Mongolia moves most of its overseas trade through Chinese ports such as Tianjin, and much of it crosses the border at Zamyn-Uud–Erenhot. Coal trucks heading south through Gashuunsukhait have at times formed queues stretching for many kilometers. Border closures during Chinese holidays can also add days of delay, so Mongolian logistics managers plan their shipments around both countries' calendars.",
+  "mn": "Монгол Улс далайд гарцгүй тул гадаад худалдааныхаа ихэнхийг Тяньжин зэрэг Хятадын боомтоор дамжуулан хийдэг бөгөөд их хэсэг нь Замын-Үүд–Эрээний боомтоор хил давдаг. Гашуунсухайтыг дамжин урагшаа явдаг нүүрсний машинууд заримдаа олон километр урт дараалал үүсгэдэг. Хятадын баярын үеэр хилийн боомт хаагдах нь хэдэн хоногийн саатал нэмдэг тул Монголын ложистикийн менежерүүд хоёр орны хуанлийг харгалзан тээврээ төлөвлөдөг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 1,
+  "notes": "A strong, accurate lesson with natural Mongolian and English throughout. The only real problem was the distractor 'ээр' in the first fill-in-the-blank, which also produced a correct sentence."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "Solid lesson. The fixes are a dialogue route inconsistency, an ambiguous distractor, and minor wording. The grammar titles differ on purpose (one per learner direction), so they were left unchanged.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Mongolian line left out 'by road' and wrongly implied rail avoids Erenhot. Rail also crosses at Zamyn-Uud–Erenhot."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "Matches the corrected Mongolian and removes the factual error."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'even less' is also used in this slot, so the answer was not the only correct option."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "ердөө is the natural word for 'only (by a small amount)'."
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The sentence lists three words, so the plural үгсийг is needed."
+   }
+  ]
+ }
+}

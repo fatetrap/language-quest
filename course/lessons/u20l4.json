@@ -1,0 +1,510 @@
+{
+ "intro_en": "You will learn to invite people politely to dinner, a birthday party or a Tsagaan Sar visit, and to accept or decline kindly. You will also practice 'Would you like to...?' and 'I'd love to.'",
+ "intro_mn": "Та оройн хоол, төрсөн өдөр, Цагаан сарын айлчлалд хүмүүсийг эелдгээр урьж, урилгыг эелдгээр хүлээн авах эсвэл татгалзаж сурна. Мөн англиар 'Would you like to...?' болон 'I'd love to.' гэж хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "урих",
+   "en": "to invite",
+   "pos": "verb",
+   "example_mn": "Би найзаа оройн хоолонд урина.",
+   "example_en": "I will invite my friend to dinner.",
+   "mn_latin": "urikh"
+  },
+  {
+   "mn": "зочин",
+   "en": "guest",
+   "pos": "noun",
+   "example_mn": "Манайд өнөө орой зочин ирнэ.",
+   "example_en": "A guest is coming to our place tonight.",
+   "mn_latin": "zochin"
+  },
+  {
+   "mn": "урилга",
+   "en": "invitation",
+   "pos": "noun",
+   "example_mn": "Урилгад баярлалаа.",
+   "example_en": "Thank you for the invitation.",
+   "mn_latin": "urilga"
+  },
+  {
+   "mn": "төрсөн өдөр",
+   "en": "birthday",
+   "pos": "noun",
+   "example_mn": "Маргааш миний төрсөн өдөр.",
+   "example_en": "Tomorrow is my birthday.",
+   "mn_latin": "törsön ödör"
+  },
+  {
+   "mn": "найр",
+   "en": "party, feast",
+   "pos": "noun",
+   "example_mn": "Бид баасан гаригт найр хийнэ.",
+   "example_en": "We are having a party on Friday.",
+   "mn_latin": "nair"
+  },
+  {
+   "mn": "зочлох",
+   "en": "to visit (as a guest)",
+   "pos": "verb",
+   "example_mn": "Та манайд зочлоорой.",
+   "example_en": "Please come visit us.",
+   "mn_latin": "zochlokh"
+  },
+  {
+   "mn": "ирэх",
+   "en": "to come",
+   "pos": "verb",
+   "example_mn": "Чи заавал ирээрэй.",
+   "example_en": "Be sure to come.",
+   "mn_latin": "irekh"
+  },
+  {
+   "mn": "Цагаан сар",
+   "en": "Tsagaan Sar (Lunar New Year)",
+   "pos": "noun",
+   "example_mn": "Цагаан сараар манайд ирээрэй.",
+   "example_en": "Come to our home for Tsagaan Sar.",
+   "mn_latin": "Tsagaan sar"
+  },
+  {
+   "mn": "бууз",
+   "en": "steamed dumplings (buuz)",
+   "pos": "noun",
+   "example_mn": "Бууз идэх үү?",
+   "example_en": "Would you like to eat some buuz?",
+   "mn_latin": "buuz"
+  },
+  {
+   "mn": "баяртай байх",
+   "en": "to be glad",
+   "pos": "phrase",
+   "example_mn": "Би ирсэндээ баяртай байна.",
+   "example_en": "I'm glad I came.",
+   "mn_latin": "bayartai baikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манайд зочлоорой.",
+   "en": "Please come visit us.",
+   "alt_mn": [
+    "Та манайд зочлоорой."
+   ],
+   "alt_en": [
+    "Please visit us.",
+    "Please come to our place."
+   ],
+   "mn_latin": "Manaid zochlooroi."
+  },
+  {
+   "mn": "Та маргааш оройн хоолонд ирэх үү?",
+   "en": "Would you like to come to dinner tomorrow?",
+   "alt_mn": [],
+   "alt_en": [
+    "Will you come to dinner tomorrow?",
+    "Would you like to come for dinner tomorrow?"
+   ],
+   "mn_latin": "Ta margaash oroin khoolond irekh üü?"
+  },
+  {
+   "mn": "Би чамайг төрсөн өдрийн найрт урья.",
+   "en": "I would like to invite you to my birthday.",
+   "alt_mn": [
+    "Би чамайг төрсөн өдрийн минь найрт урья."
+   ],
+   "alt_en": [
+    "Let me invite you to my birthday."
+   ],
+   "mn_latin": "Bi chamaig törsön ödriin nairt uriya."
+  },
+  {
+   "mn": "Баярлалаа, би заавал ирнэ.",
+   "en": "Thank you, I will definitely come.",
+   "alt_mn": [],
+   "alt_en": [
+    "Thanks, I'll definitely come."
+   ],
+   "mn_latin": "Bayarlalaa, bi zaaval irne."
+  },
+  {
+   "mn": "Бууз идэх үү?",
+   "en": "Would you like some buuz?",
+   "alt_mn": [
+    "Бууз авах уу?"
+   ],
+   "alt_en": [
+    "Would you like to eat some buuz?",
+    "Do you want some buuz?"
+   ],
+   "mn_latin": "Buuz idekh üü?"
+  },
+  {
+   "mn": "Таны урилгад баярлалаа.",
+   "en": "Thank you for your invitation.",
+   "alt_mn": [
+    "Урилгад баярлалаа."
+   ],
+   "alt_en": [
+    "Thanks for inviting me."
+   ],
+   "mn_latin": "Tany urilgad bayarlalaa."
+  },
+  {
+   "mn": "Та манайд ирэхгүй юу?",
+   "en": "Won't you come to our place?",
+   "alt_mn": [],
+   "alt_en": [
+    "Wouldn't you like to come to our place?",
+    "Won't you come over?"
+   ],
+   "mn_latin": "Ta manaid irekhgüi yuu?"
+  },
+  {
+   "mn": "Очмоор байна, гэхдээ маргааш ажилтай.",
+   "en": "I'd love to come, but I have work tomorrow.",
+   "alt_mn": [
+    "Ирмээр байна, гэхдээ маргааш ажилтай."
+   ],
+   "alt_en": [
+    "I'd like to come, but I have to work tomorrow."
+   ],
+   "mn_latin": "Ochmoor baina, gekhdee margaash ajiltai."
+  },
+  {
+   "mn": "Бид Цагаан сараар зочин урина.",
+   "en": "We invite guests for Tsagaan Sar.",
+   "alt_mn": [],
+   "alt_en": [
+    "We invite guests at Tsagaan Sar."
+   ],
+   "mn_latin": "Bid Tsagaan saraar zochin urina."
+  },
+  {
+   "mn": "Цай уух уу?",
+   "en": "Would you like some tea?",
+   "alt_mn": [
+    "Цай авах уу?"
+   ],
+   "alt_en": [
+    "Would you like to have some tea?",
+    "Do you want some tea?"
+   ],
+   "mn_latin": "Tsai uukh uu?"
+  },
+  {
+   "mn": "Найр хэдэн цагт эхлэх вэ?",
+   "en": "What time does the party start?",
+   "alt_mn": [],
+   "alt_en": [
+    "When does the party begin?"
+   ],
+   "mn_latin": "Nair kheden tsagt ekhlekh ve?"
+  },
+  {
+   "mn": "Дуртайяа очино.",
+   "en": "I'd love to come.",
+   "alt_mn": [
+    "Баяртайгаар очино."
+   ],
+   "alt_en": [
+    "I'd love to.",
+    "With pleasure."
+   ],
+   "mn_latin": "Durtaiyaa ochino."
+  }
+ ],
+ "grammar": {
+  "title_en": "Inviting with -х уу? and -оорой",
+  "title_mn": "Урих хэлбэр: -х уу? ба -оорой",
+  "explain_en": "To offer or invite, Mongolian uses the future/verbal-noun form of the verb plus the question particle үү/уу: 'Ирэх үү?' (Would you like to come?), 'Идэх үү?' (Would you like to eat?). The particle is үү after words with front vowels (э, ө, ү) and уу after words with back vowels (а, о, у): 'Цай уух уу?'. After a negative -хгүй the particle is юу: 'Ирэхгүй юу?'. A negative question like this sounds warmer and more persuasive, like 'Won't you come?'. For a polite request, use the endings -аарай/-ээрэй/-оорой/-өөрэй: 'Манайд зочлоорой' (Please visit us). Adding 'та' makes it more polite.",
+  "explain_mn": "Урихдаа үйл үгийн -х хэлбэр дээр асуух сул үг «уу/үү»-г залгана: «Ирэх үү?», «Идэх үү?». Эгшиг зохицох ёсоор эр үгийн (а, о, у) дараа «уу», эм үгийн (э, ө, ү) дараа «үү» бичнэ. «-хгүй»-н дараа «юу» бичнэ: «Ирэхгүй юу?» нь илүү дулаахан, ятгасан өнгө аястай. Эелдэг хүсэлтийг -аарай/-ээрэй/-оорой/-өөрэй нөхцөлөөр илэрхийлнэ: «Манайд зочлоорой». «Та» гэж нэмбэл илүү эелдэг болно.",
+  "examples": [
+   {
+    "mn": "Та оройн хоолонд ирэх үү?",
+    "en": "Would you like to come to dinner?",
+    "mn_latin": "Ta oroin khoolond irekh üü?"
+   },
+   {
+    "mn": "Цай уух уу?",
+    "en": "Would you like some tea?",
+    "mn_latin": "Tsai uukh uu?"
+   },
+   {
+    "mn": "Та манайд ирэхгүй юу?",
+    "en": "Won't you come to our place?",
+    "mn_latin": "Ta manaid irekhgüi yuu?"
+   },
+   {
+    "mn": "Манайд зочлоорой.",
+    "en": "Please come visit us.",
+    "mn_latin": "Manaid zochlooroi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Та маргааш манайд ирэх ___?",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "уу",
+    "юу",
+    "вэ"
+   ],
+   "translation": "Would you like to come to our place tomorrow?",
+   "explain_en": "After ирэх (ending in х with front vowel э) the question particle is үү by vowel harmony.",
+   "explain_mn": "«Ирэх» нь урд эгшигтэй (э) үг тул асуух сул үг «үү» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Манайд зочл___.",
+   "answer": "оорой",
+   "options": [
+    "оорой",
+    "ээрэй",
+    "сон",
+    "даг"
+   ],
+   "translation": "Please come visit us.",
+   "explain_en": "The polite request ending -оорой follows the back vowel о; the unstressed и of зочил- drops: зочлоорой.",
+   "explain_mn": "«Зочлох» үйл үгэнд эелдэг хүсэлтийн -оорой нөхцөл залгаж «зочлоорой» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Маргааш миний ___ өдөр.",
+   "answer": "төрсөн",
+   "options": [
+    "төрсөн",
+    "найр",
+    "зочин",
+    "урилга"
+   ],
+   "translation": "Tomorrow is my birthday.",
+   "explain_en": "'Төрсөн өдөр' means birthday, literally 'born day'.",
+   "explain_mn": "'Төрсөн өдөр' нь birthday гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "___ you like to come to dinner?",
+   "answer": "Would",
+   "options": [
+    "Would",
+    "Do",
+    "Are",
+    "Will to"
+   ],
+   "translation": "Та оройн хоолонд ирэх үү?",
+   "explain_en": "'Would you like to...?' is the polite way to invite.",
+   "explain_mn": "Эелдэг урихдаа 'Would you like to...?' гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Would you like ___ tea?",
+   "answer": "some",
+   "options": [
+    "some",
+    "to",
+    "many",
+    "an"
+   ],
+   "translation": "Цай уух уу?",
+   "explain_en": "In offers, we use 'some' with uncountable nouns like tea.",
+   "explain_mn": "Санал болгохдоо тоолдоггүй нэрийн өмнө 'some' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Thank you! I'd ___ to.",
+   "answer": "love",
+   "options": [
+    "love",
+    "loves",
+    "loving",
+    "want"
+   ],
+   "translation": "Баярлалаа! Баяртайгаар очино.",
+   "explain_en": "'I'd love to' is the warm way to accept an invitation.",
+   "explain_mn": "'I'd love to' нь урилгыг баяртайгаар хүлээн авах хэлбэр."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Сайн уу, Том! Маргааш миний төрсөн өдөр.",
+   "en": "Hi, Tom! Tomorrow is my birthday.",
+   "mn_latin": "Sain uu, Tom! Margaash minii törsön ödör."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Баяр хүргэе, Сараа!",
+   "en": "Congratulations, Saraa!",
+   "mn_latin": "Bayar khürgeye, Saraa!"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Баярлалаа. Чи манайд оройн хоолонд ирэх үү?",
+   "en": "Thank you. Would you like to come to our place for dinner?",
+   "mn_latin": "Bayarlalaa. Chi manaid oroin khoolond irekh üü?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Дуртайяа очино! Хэдэн цагт вэ?",
+   "en": "I'd love to! What time?",
+   "mn_latin": "Durtaiyaa ochino! Kheden tsagt ve?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Зургаан цагт. Бууз, хуушуур бий.",
+   "en": "At six. There will be buuz and khuushuur.",
+   "mn_latin": "Zurgaan tsagt. Buuz, khuushuur bii."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайхан байна. Би юм авч очих уу?",
+   "en": "Sounds great. Should I bring something?",
+   "mn_latin": "Saikhan baina. Bi yum avch ochikh uu?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Үгүй ээ, зүгээр ирээрэй.",
+   "en": "No need, just come.",
+   "mn_latin": "Ügüi ee, zügeer ireerei."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За, урилгад баярлалаа!",
+   "en": "OK, thanks for the invitation!",
+   "mn_latin": "Za, urilgad bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "During Tsagaan Sar, families visit each other for several days, and hosts welcome guests with buuz, milk tea and other treats. It is polite to accept at least a little food, and to bring a small gift. People often repeat an invitation two or three times, so a warm 'Манайд зочлоорой' is meant sincerely.",
+  "mn": "Цагаан сараар айлууд хэд хоногийн турш бие биедээ зочилж, бууз, сүүтэй цай болон бусад идээгээр дайлдаг. Бага ч гэсэн идэж амсах, жижиг бэлэг авч очих нь эелдэг ёс юм. Урилгыг хоёр, гурван удаа давтан хэлэх нь элбэг тул «Манайд зочлоорой» гэдэг нь чин сэтгэлийн урилга байдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 18,
+  "notes": "Content is usable, but the grammar explanations contain wrong vowel-harmony claims and the Mongolian explanation describes English instead of Mongolian; a few sentences are unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 19,
+  "notes": "Main issues: the nonstandard form зочилоорой throughout, duplicate or wrong alternatives, and a wrong 'kindly' in the intro.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "эелдгээр spelling; 'decline kindly', not 'decline gladly'"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "Standard form is зочлоорой"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "ирэхдээ means 'when I come'; unnatural"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "Match the corrected Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "Standard spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "Old alt was the same as the corrected main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "Duplicate of the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "залъя means 'let's invite', not 'we invite'"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "Duplicate of the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Use the standard form зочлоорой; и is neutral, so it was removed from the front-vowel list"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Use standard эр/эм үг terms and the form зочлоорой"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Standard spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "The stem vowel drops: зочлоорой"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Accurate explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Accurate explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'a tea' can also be acceptable"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "'come as you are' means dress casually"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Standard spelling"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": null
+   }
+  ]
+ }
+}

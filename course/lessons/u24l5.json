@@ -1,0 +1,476 @@
+{
+ "intro_en": "You will learn how to say how many times you did something and how recently: once, twice, many times, just now. You will also practice ever, never, already, yet and just, and the difference between 'been' and 'gone'.",
+ "intro_mn": "Та ямар нэг зүйлийг хэдэн удаа хийснээ, саяхан хийсэн эсэхээ хэлж сурна: нэг удаа, хоёр удаа, олон удаа, саяхан. Мөн ever, never, already, yet, just үгс болон 'been', 'gone' хоёрын ялгааг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "удаа",
+   "en": "time (occasion)",
+   "pos": "noun",
+   "example_mn": "Би нэг удаа Налайхад очсон.",
+   "example_en": "I went to Nalaikh once.",
+   "mn_latin": "udaa"
+  },
+  {
+   "mn": "нэг удаа",
+   "en": "once",
+   "pos": "adverb",
+   "example_mn": "Би нэг удаа бөхийн барилдаан үзсэн.",
+   "example_en": "I watched a wrestling match once.",
+   "mn_latin": "neg udaa"
+  },
+  {
+   "mn": "хоёр удаа",
+   "en": "twice",
+   "pos": "adverb",
+   "example_mn": "Тэр энэ киног хоёр удаа үзсэн.",
+   "example_en": "She has seen this film twice.",
+   "mn_latin": "khoyor udaa"
+  },
+  {
+   "mn": "хэд хэдэн удаа",
+   "en": "several times",
+   "pos": "adverb",
+   "example_mn": "Би хэд хэдэн удаа концертод явсан.",
+   "example_en": "I have been to concerts several times.",
+   "mn_latin": "khed kheden udaa"
+  },
+  {
+   "mn": "олон удаа",
+   "en": "many times",
+   "pos": "adverb",
+   "example_mn": "Бид олон удаа уулзсан.",
+   "example_en": "We have met many times.",
+   "mn_latin": "olon udaa"
+  },
+  {
+   "mn": "саяхан",
+   "en": "recently, just now",
+   "pos": "adverb",
+   "example_mn": "Би саяхан гэртээ ирсэн.",
+   "example_en": "I just got home.",
+   "mn_latin": "sayakhan"
+  },
+  {
+   "mn": "хэзээ ч",
+   "en": "ever / never (with negative)",
+   "pos": "adverb",
+   "example_mn": "Би хэзээ ч морь унаж үзээгүй.",
+   "example_en": "I have never ridden a horse.",
+   "mn_latin": "khezee ch"
+  },
+  {
+   "mn": "аль хэдийн",
+   "en": "already",
+   "pos": "adverb",
+   "example_mn": "Тэр аль хэдийн явчихсан.",
+   "example_en": "He has already left.",
+   "mn_latin": "ali khediin"
+  },
+  {
+   "mn": "хараахан",
+   "en": "yet",
+   "pos": "adverb",
+   "example_mn": "Би хараахан кино үзээгүй.",
+   "example_en": "I haven't seen the film yet.",
+   "mn_latin": "kharaakhan"
+  },
+  {
+   "mn": "үзэх",
+   "en": "to watch, to see",
+   "pos": "verb",
+   "example_mn": "Та энэ киног үзсэн үү?",
+   "example_en": "Have you seen this film?",
+   "mn_latin": "üzekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та хэзээ нэгэн цагт бөхийн барилдаан үзэж байсан уу?",
+   "en": "Have you ever watched a wrestling match?",
+   "alt_mn": [
+    "Та хэзээ нэгэн цагт бөхийн барилдаан үзсэн үү?"
+   ],
+   "alt_en": [
+    "Have you ever seen a wrestling match?"
+   ],
+   "mn_latin": "Ta khezee negen tsagt bökhiin barildaan üzej baisan uu?"
+  },
+  {
+   "mn": "Би нэг удаа Наадамд очсон.",
+   "en": "I have been to Naadam once.",
+   "alt_mn": [
+    "Би Наадамд нэг удаа очсон."
+   ],
+   "alt_en": [
+    "I went to Naadam once."
+   ],
+   "mn_latin": "Bi neg udaa Naadamd ochson."
+  },
+  {
+   "mn": "Тэр энэ киног хоёр удаа үзсэн.",
+   "en": "She has seen this film twice.",
+   "alt_mn": [
+    "Тэр энэ киног хоёр удаа үзсэн шүү."
+   ],
+   "alt_en": [
+    "She watched this film twice."
+   ],
+   "mn_latin": "Ter ene kinog khoyor udaa üzsen."
+  },
+  {
+   "mn": "Бид гурван удаа концертод явсан.",
+   "en": "We have been to a concert three times.",
+   "alt_mn": [
+    "Бид концертод гурван удаа явсан."
+   ],
+   "alt_en": [
+    "We have been to concerts three times."
+   ],
+   "mn_latin": "Bid gurvan udaa kontsyertod yavsan."
+  },
+  {
+   "mn": "Би хэзээ ч яруу найраг уншиж үзээгүй.",
+   "en": "I have never read poetry.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have never tried reading poetry."
+   ],
+   "mn_latin": "Bi khezee ch yaruu nairag unshij üzeegüi."
+  },
+  {
+   "mn": "Та энэ киног үзсэн үү?",
+   "en": "Have you seen this film?",
+   "alt_mn": [
+    "Та энэ киног үзчихсэн үү?"
+   ],
+   "alt_en": [
+    "Have you watched this film yet?"
+   ],
+   "mn_latin": "Ta ene kinog üzsen üü?"
+  },
+  {
+   "mn": "Үгүй ээ, би хараахан үзээгүй.",
+   "en": "No, I haven't seen it yet.",
+   "alt_mn": [
+    "Үгүй, би хараахан үзээгүй байна."
+   ],
+   "alt_en": [
+    "No, not yet."
+   ],
+   "mn_latin": "Ügüi ee, bi kharaakhan üzeegüi."
+  },
+  {
+   "mn": "Би аль хэдийн тасалбар авчихсан.",
+   "en": "I have already bought the tickets.",
+   "alt_mn": [
+    "Би тасалбарыг аль хэдийн авчихсан."
+   ],
+   "alt_en": [
+    "I already got the tickets."
+   ],
+   "mn_latin": "Bi ali khediin tasalbar avchikhsan."
+  },
+  {
+   "mn": "Тэд саяхан ирсэн.",
+   "en": "They have just arrived.",
+   "alt_mn": [
+    "Тэд саяхан ирлээ."
+   ],
+   "alt_en": [
+    "They arrived just now."
+   ],
+   "mn_latin": "Ted sayakhan irsen."
+  },
+  {
+   "mn": "Бат Дархан руу явсан, одоо буцаагүй байгаа.",
+   "en": "Bat has gone to Darkhan.",
+   "alt_mn": [
+    "Бат Дархан руу явсан."
+   ],
+   "alt_en": [
+    "Bat went to Darkhan and is not back."
+   ],
+   "mn_latin": "Bat Darkhan ruu yavsan, odoo butsaagüi baigaa."
+  },
+  {
+   "mn": "Бат Дарханд очиж байсан.",
+   "en": "Bat has been to Darkhan.",
+   "alt_mn": [
+    "Бат Дарханд очоод ирсэн."
+   ],
+   "alt_en": [
+    "Bat has visited Darkhan before."
+   ],
+   "mn_latin": "Bat Darkhand ochij baisan."
+  },
+  {
+   "mn": "Би энэ дуучныг олон удаа сонсож байсан.",
+   "en": "I have listened to this singer many times.",
+   "alt_mn": [
+    "Би энэ дуучныг олон удаа сонссон."
+   ],
+   "alt_en": [
+    "I have heard this singer many times."
+   ],
+   "mn_latin": "Bi ene duuchnyg olon udaa sonsoj baisan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Counting times with удаа",
+  "title_mn": "Одоо төгс цаг: хэдэн удаа, саяхан",
+  "explain_en": "To say how many times, put a number before удаа: нэг удаа (once), хоёр удаа (twice), гурван удаа (three times). Use олон удаа for 'many times' and хэд хэдэн удаа for 'several times'. The verb usually ends in the past -сан/-сэн. To ask about experience, use 'үзсэн үү?' or '-ж үзсэн/-ж байсан'. Negative experience: 'хэзээ ч ... -ж үзээгүй' (never). Саяхан means 'just/recently', and хараахан with a negative verb means 'not yet'. Note: Дархан руу явсан = has gone (and is still there); Дарханд очиж байсан = has been (and came back).",
+  "explain_mn": "Англи хэлэнд 'have/has + 3-р хэлбэр' (Present Perfect) нь өнгөрсөн туршлага эсвэл одоотой холбоотой үйлдлийг илэрхийлнэ: I have seen it twice. Давтамжийг once, twice, three times, many times гэж хэлнэ (3-аас эхлэн тоо + times). Ever нь асуулт дотор 'хэзээ нэгэн цагт', never нь 'хэзээ ч ...гүй'. Just = саяхан, already = аль хэдийн (өгүүлбэрийн дунд), yet = хараахан (асуулт, үгүйсгэлд, төгсгөлд). Ялгаа: 'has been to' = очоод ирсэн; 'has gone to' = явсан, одоо тэндээ байгаа.",
+  "examples": [
+   {
+    "mn": "Би энэ киног хоёр удаа үзсэн.",
+    "en": "I have seen this film twice.",
+    "mn_latin": "Bi ene kinog khoyor udaa üzsen."
+   },
+   {
+    "mn": "Тэр олон удаа Хархоринд очиж байсан.",
+    "en": "He has been to Kharkhorin many times.",
+    "mn_latin": "Ter olon udaa Kharkhorind ochij baisan."
+   },
+   {
+    "mn": "Бид саяхан хоол идсэн.",
+    "en": "We have just eaten.",
+    "mn_latin": "Bid sayakhan khool idsen."
+   },
+   {
+    "mn": "Би хараахан тасалбар аваагүй.",
+    "en": "I haven't bought a ticket yet.",
+    "mn_latin": "Bi kharaakhan tasalbar avaagüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би энэ киног хоёр ___ үзсэн.",
+   "answer": "удаа",
+   "options": [
+    "удаа",
+    "цаг",
+    "өдөр",
+    "жил"
+   ],
+   "translation": "I have seen this film twice.",
+   "explain_en": "Удаа means 'time/occasion' and follows the number: хоёр удаа = twice.",
+   "explain_mn": "'Удаа' нь тоон үгийн дараа орж 'times' гэсэн утга өгнө: хоёр удаа = twice."
+  },
+  {
+   "lang": "mn",
+   "text": "Би хэзээ ч морь унаж ___.",
+   "answer": "үзээгүй",
+   "options": [
+    "үзээгүй",
+    "үзсэн",
+    "үзнэ",
+    "үзэв"
+   ],
+   "translation": "I have never ridden a horse.",
+   "explain_en": "'Хэзээ ч' (never) is used with a negative verb: -ж үзээгүй = have never tried.",
+   "explain_mn": "'Хэзээ ч' нь үгүйсгэсэн үйл үгтэй хамт 'never' гэсэн утгатай: -ж үзээгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр ___ гэртээ ирсэн.",
+   "answer": "саяхан",
+   "options": [
+    "саяхан",
+    "маргааш",
+    "хараахан",
+    "хэзээ ч"
+   ],
+   "translation": "He has just come home.",
+   "explain_en": "Саяхан means 'just now / recently' and fits a recent past action.",
+   "explain_mn": "'Саяхан' нь 'just / recently' гэсэн утгатай бөгөөд ойрхон өнгөрсөн үйлдэлд тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "I have been to Erdenet ___. It was great.",
+   "answer": "twice",
+   "options": [
+    "twice",
+    "yet",
+    "ever",
+    "never"
+   ],
+   "translation": "Би Эрдэнэтэд хоёр удаа очиж байсан. Гайхалтай байсан.",
+   "explain_en": "'Twice' (two times) goes at the end of the sentence. 'Yet' needs a question or negative, and 'ever' and 'never' don't go at the end here.",
+   "explain_mn": "'Twice' = хоёр удаа, өгүүлбэрийн төгсгөлд орно. 'Yet' нь асуулт эсвэл үгүйсгэлд орно. 'Ever', 'never' энд төгсгөлд орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Have you seen the new film ___?",
+   "answer": "yet",
+   "options": [
+    "yet",
+    "just",
+    "never",
+    "still"
+   ],
+   "translation": "Та шинэ киног үзсэн үү?",
+   "explain_en": "Use 'yet' at the end of questions about something expected.",
+   "explain_mn": "Хүлээгдэж буй зүйлийн тухай асуултын төгсгөлд 'yet' ашиглана."
+  },
+  {
+   "lang": "en",
+   "text": "Where is Bat? He has ___ to the market. He isn't back.",
+   "answer": "gone",
+   "options": [
+    "gone",
+    "been",
+    "go",
+    "went"
+   ],
+   "translation": "Бат хаана байна? Тэр зах руу явсан. Одоо буцаагүй байна.",
+   "explain_en": "'Has gone' means he is still there; 'has been' means he went and returned.",
+   "explain_mn": "'Has gone' = явсан, одоо тэнд байгаа; 'has been' = очоод буцаж ирсэн."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Бат, чи хэзээ нэгэн цагт бөхийн барилдаан үзэж байсан уу?",
+   "en": "Bat, have you ever watched a wrestling match?",
+   "mn_latin": "Bat, chi khezee negen tsagt bökhiin barildaan üzej baisan uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм ээ, би олон удаа үзсэн. Өнгөрсөн зун Наадамд очсон.",
+   "en": "Yes, many times. Last summer I went to Naadam.",
+   "mn_latin": "Tiim ee, bi olon udaa üzsen. Öngörsön zun Naadamd ochson."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Би хараахан үзээгүй. Гэхдээ тасалбар аль хэдийн авчихсан.",
+   "en": "I haven't seen one yet. But I have already bought a ticket.",
+   "mn_latin": "Bi kharaakhan üzeegüi. Gekhdee tasalbar ali khediin avchikhsan."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна! Чи концертод явж үзсэн үү?",
+   "en": "Great! Have you ever been to a concert?",
+   "mn_latin": "Sain baina! Chi kontsyertod yavj üzsen üü?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Нэг удаа явсан. Саяхан Туул голын эрэг дээр нэг дуучныг сонссон.",
+   "en": "Once. I recently heard a singer by the Tuul River.",
+   "mn_latin": "Neg udaa yavsan. Sayakhan Tuul golyn ereg deer neg duuchnyg sonsson."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сарнай хаана байна?",
+   "en": "Where is Sarnai?",
+   "mn_latin": "Sarnai khaana baina?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэр Дархан руу явсан. Маргааш буцаж ирнэ.",
+   "en": "She has gone to Darkhan. She will be back tomorrow.",
+   "mn_latin": "Ter Darkhan ruu yavsan. Margaash butsaj irne."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolians go to Naadam every summer, and people often say how many times they have seen the wrestling, archery or horse racing. Wrestlers' titles, like 'Arslan' or 'Avarga', are won after many victories, so fans often count how many times their favorite has won. Asking 'Have you ever been to Naadam?' is a friendly way to start a conversation.",
+  "mn": "Олон монголчууд зун бүр Наадамд очдог бөгөөд бөх, сур харваа, морин уралдааныг хэдэн удаа үзсэнээ ярих нь элбэг. Арслан, Аварга зэрэг цолыг олон удаа ялсны дараа хүртдэг тул хөгжөөн дэмжигчид дуртай бөхийнхөө хэдэн удаа түрүүлснийг тоолж ярих нь элбэг. 'Та Наадамд очиж үзсэн үү?' гэдэг нь найрсаг яриа эхлүүлэх сайн асуулт юм."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 22,
+  "notes": "Mostly understandable but has some mismatched pairs (yet/gone), redundant alt entries and awkward Mongolian like 'очсон байгаа' and 'дууч хүнийг'."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed the mismatched sentence pair, the unnatural дууч forms, the Kharkhorin name, and blanks that had more than one correct answer.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'хэзээ саяхан хийснээ' is ungrammatical"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "mn did not match en (it was about a singer)"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "match 'has been to Darkhan'"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "'дууч хүн' is unnatural; standard is дуучин → дуучныг"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "standard accusative form дуучныг"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "Kharkhorin = Хархорин (the modern town), not Хархорум"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'олон удаа' also fit the blank"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "text",
+    "why": "'have twice been' is unnatural; the frequency word goes at the end"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'just' was also correct; only 'twice' fits now"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "updated for the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "updated for the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'already' was also correct at the end of the question"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'гол дээр' means on the river; the meaning is 'by the river'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "match en: 'many Mongolians' and 'often say'"
+   }
+  ]
+ }
+}

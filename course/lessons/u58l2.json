@@ -1,0 +1,526 @@
+{
+ "intro_en": "You will learn how to describe an accident or a fight to an officer and give a statement. You will also practice indirect yes/no questions with \"if\" and \"whether\" in English and with эсэх in Mongolian.",
+ "intro_mn": "Та осол, зодооныг цагдаад дүрсэлж, мэдүүлэг өгөхийг сурна. Мөн монгол хэлний «эсэх» болон англи хэлний «if/whether» бүхий шууд бус асуултыг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "гэрч",
+   "en": "witness",
+   "pos": "noun",
+   "example_mn": "Тэр осолд нэг гэрч байсан.",
+   "example_en": "There was one witness to the accident.",
+   "mn_latin": "gerch"
+  },
+  {
+   "mn": "мэдүүлэг",
+   "en": "statement (testimony)",
+   "pos": "noun",
+   "example_mn": "Би цагдаад мэдүүлэг өглөө.",
+   "example_en": "I gave a statement to the police.",
+   "mn_latin": "medüüleg"
+  },
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence",
+   "pos": "noun",
+   "example_mn": "Энэ бол чухал нотлох баримт.",
+   "example_en": "This is important evidence.",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "камерын бичлэг",
+   "en": "camera footage",
+   "pos": "noun",
+   "example_mn": "Камерын бичлэгийг шалгана.",
+   "example_en": "They will check the camera footage.",
+   "mn_latin": "kamyeryn bichleg"
+  },
+  {
+   "mn": "дүрслэх",
+   "en": "to describe",
+   "pos": "verb",
+   "example_mn": "Гэрч хулгайчийг дүрсэлж чадсан.",
+   "example_en": "The witness was able to describe the thief.",
+   "mn_latin": "dürslekh"
+  },
+  {
+   "mn": "санах",
+   "en": "to remember",
+   "pos": "verb",
+   "example_mn": "Би машины дугаарыг сайн санахгүй байна.",
+   "example_en": "I don't remember the license plate well.",
+   "mn_latin": "sanakh"
+  },
+  {
+   "mn": "харах",
+   "en": "to see, to watch",
+   "pos": "verb",
+   "example_mn": "Би бүх зүйлийг өөрийн нүдээр харсан.",
+   "example_en": "I saw everything with my own eyes.",
+   "mn_latin": "kharakh"
+  },
+  {
+   "mn": "зөрчил",
+   "en": "violation; clash",
+   "pos": "noun",
+   "example_mn": "Жолооч замын хөдөлгөөний зөрчил гаргасан.",
+   "example_en": "The driver committed a traffic violation.",
+   "mn_latin": "zörchil"
+  },
+  {
+   "mn": "сэжигтэн",
+   "en": "suspect",
+   "pos": "noun",
+   "example_mn": "Сэжигтэн гэмт хэргээ үгүйсгэсэн.",
+   "example_en": "The suspect denied the crime.",
+   "mn_latin": "sejigten"
+  },
+  {
+   "mn": "батлах",
+   "en": "to confirm, to prove",
+   "pos": "verb",
+   "example_mn": "Бичлэг миний үгийг баталж байна.",
+   "example_en": "The footage confirms my words.",
+   "mn_latin": "batlakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та осол болохыг харсан уу?",
+   "en": "Did you see the accident happen?",
+   "alt_mn": [
+    "Осол гарахыг та харсан уу?"
+   ],
+   "alt_en": [
+    "Did you see the crash happen?"
+   ],
+   "mn_latin": "Ta osol bolokhyg kharsan uu?"
+  },
+  {
+   "mn": "Би гэрчээр мэдүүлэг өгөхөөр ирлээ.",
+   "en": "I came to give a statement as a witness.",
+   "alt_mn": [
+    "Би гэрчийн мэдүүлэг өгөхөөр ирлээ."
+   ],
+   "alt_en": [
+    "I came to give a witness statement."
+   ],
+   "mn_latin": "Bi gercheer medüüleg ögökhöör irlee."
+  },
+  {
+   "mn": "Жолооч улаан гэрэл дээр зогссон эсэхийг би мэдэхгүй.",
+   "en": "I don't know whether the driver stopped at the red light.",
+   "alt_mn": [
+    "Жолооч улаан гэрэл дээр зогссон эсэхийг мэдэхгүй байна."
+   ],
+   "alt_en": [
+    "I don't know if the driver stopped at the red light."
+   ],
+   "mn_latin": "Jolooch ulaan gerel deer zogsson esekhiig bi medekhgüi."
+  },
+  {
+   "mn": "Цагдаа надаас тэр хүнийг дүрслэхийг хүссэн.",
+   "en": "The officer asked me to describe that man.",
+   "alt_mn": [
+    "Цагдаа надаас тэр хүний гадаад төрхийг дүрслэхийг хүссэн."
+   ],
+   "alt_en": [
+    "The officer asked me to describe the man."
+   ],
+   "mn_latin": "Tsagdaa nadaas ter khüniig dürslekhiig khüssen."
+  },
+  {
+   "mn": "Тэр ойролцоо камер байсан эсэхийг та санаж байна уу?",
+   "en": "Do you remember whether there was a camera nearby?",
+   "alt_mn": [
+    "Ойрхон камер байсан эсэхийг санаж байна уу?"
+   ],
+   "alt_en": [
+    "Do you remember if there was a camera nearby?"
+   ],
+   "mn_latin": "Ter oiroltsoo kamyer baisan esekhiig ta sanaj baina uu?"
+  },
+  {
+   "mn": "Камерын бичлэг нотлох баримт болно.",
+   "en": "The camera footage will be evidence.",
+   "alt_mn": [
+    "Камерын бичлэг нотлох баримт болох юм."
+   ],
+   "alt_en": [
+    "The camera footage will serve as evidence."
+   ],
+   "mn_latin": "Kamyeryn bichleg notlokh barimt bolno."
+  },
+  {
+   "mn": "Зодоон хэзээ эхэлснийг би сайн санахгүй байна.",
+   "en": "I don't remember well when the fight started.",
+   "alt_mn": [
+    "Зодоон хэзээ эхэлснийг сайн санахгүй байна."
+   ],
+   "alt_en": [
+    "I can't remember exactly when the fight started."
+   ],
+   "mn_latin": "Zodoon khezee ekhelsniig bi sain sanakhgüi baina."
+  },
+  {
+   "mn": "Тэр хүн зэвсэгтэй байсан эсэхийг би анзаарсангүй.",
+   "en": "I didn't notice whether that man was armed.",
+   "alt_mn": [
+    "Тэр хүнд зэвсэг байсан эсэхийг би анзаараагүй."
+   ],
+   "alt_en": [
+    "I didn't notice if that man had a weapon."
+   ],
+   "mn_latin": "Ter khün zevsegtei baisan esekhiig bi anzaarsangüi."
+  },
+  {
+   "mn": "Цагдаа надаас өөр гэрч байсан эсэхийг асуулаа.",
+   "en": "The officer asked me whether there were other witnesses.",
+   "alt_mn": [
+    "Цагдаа өөр гэрч байсан эсэхийг надаас асуулаа."
+   ],
+   "alt_en": [
+    "The officer asked me if there were any other witnesses."
+   ],
+   "mn_latin": "Tsagdaa nadaas öör gerch baisan esekhiig asuulaa."
+  },
+  {
+   "mn": "Би бүх зүйлийг эхнээс нь дуустал дүрсэлье.",
+   "en": "Let me describe everything from beginning to end.",
+   "alt_mn": [
+    "Би бүгдийг эхнээс нь дуустал ярья."
+   ],
+   "alt_en": [
+    "I'll describe everything from start to finish."
+   ],
+   "mn_latin": "Bi bükh züiliig ekhnees ni duustal dürseliye."
+  },
+  {
+   "mn": "Бичлэг миний мэдүүлгийг баталж байна.",
+   "en": "The footage confirms my statement.",
+   "alt_mn": [
+    "Бичлэг миний мэдүүлэгтэй нийцэж байна."
+   ],
+   "alt_en": [
+    "The recording supports my statement."
+   ],
+   "mn_latin": "Bichleg minii medüülgiig batalj baina."
+  },
+  {
+   "mn": "Мэдүүлэгтээ гарын үсгээ зурна уу.",
+   "en": "Please sign your statement.",
+   "alt_mn": [
+    "Мэдүүлэг дээрээ гарын үсэг зурна уу."
+   ],
+   "alt_en": [
+    "Please sign your testimony."
+   ],
+   "mn_latin": "Medüülegtee garyn üsgee zurna uu."
+  }
+ ],
+ "grammar": {
+  "title_en": "Embedded yes/no questions with эсэх",
+  "title_mn": "«Эсэх» бүхий шууд бус асуулт",
+  "explain_en": "To say \"I don't know whether/if...\", Mongolian does not use a word like \"if\". Instead, put the clause's verb in a participle form (-сан/-сэн/-сон/-сөн, -даг, -х), or use a noun/adjective or a form like байгаа. Then add эсэх with the accusative ending -ийг: тэр байсан эсэхийг мэдэхгүй = \"I don't know whether he was there\". Follow it with a verb like мэдэх, асуух, санах or шалгах. You don't need a separate negative form, because эсэх already means \"or not\". In English, the embedded question keeps statement word order and takes no auxiliary \"did\": I don't know if he came.",
+  "explain_mn": "Монгол хэлэнд «тийм/үгүй» асуултыг өгүүлбэр дотор оруулахдаа үйл үгийг үйлт нэрийн хэлбэрт (-сан/-сэн/-сон/-сөн, -даг, -х) оруулна, эсвэл нэр, тэмдэг нэр, «байгаа» мэтийн хэлбэр хэрэглэнэ. Үүний дараа заах тийн -ийг нөхцөлтэй «эсэх» нэмж, мэдэх, асуух, санах, шалгах зэрэг үйл үгтэй хэрэглэнэ: Тэр байсан эсэхийг мэдэхгүй. «Эсэх» нь «эсвэл үгүй» гэсэн утгатай тул тусад нь үгүйсгэх хэлбэр хэрэггүй. Англи хэлэнд if эсвэл whether хэрэглэх бөгөөд үгийн дараалал нь асуултын биш, мэдэгдэх өгүүлбэрийнх байна. Туслах «did» хэрэггүй: I don't know if he came (I don't know if he did come биш).",
+  "examples": [
+   {
+    "mn": "Тэр байсан эсэхийг би мэдэхгүй.",
+    "en": "I don't know whether he was there.",
+    "mn_latin": "Ter baisan esekhiig bi medekhgüi."
+   },
+   {
+    "mn": "Камер ажиллаж байсан эсэхийг шалгаарай.",
+    "en": "Check whether the camera was working.",
+    "mn_latin": "Kamyer ajillaj baisan esekhiig shalgaarai."
+   },
+   {
+    "mn": "Тэр ямар нэг юм хэлсэн эсэхийг санахгүй байна.",
+    "en": "I don't remember if he said anything.",
+    "mn_latin": "Ter yamar neg yum khelsen esekhiig sanakhgüi baina."
+   },
+   {
+    "mn": "Цагдаа энэ үнэн эсэхийг асуусан.",
+    "en": "The officer asked whether this was true.",
+    "mn_latin": "Tsagdaa ene ünen esekhiig asuusan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэр жолооч согтуу байсан ___ би мэдэхгүй.",
+   "answer": "эсэхийг",
+   "options": [
+    "эсэхийг",
+    "эсэхэд",
+    "эсэхээс",
+    "эсэхтэй"
+   ],
+   "translation": "I don't know whether that driver was drunk.",
+   "explain_en": "Мэдэх takes a direct object, so эсэх gets the accusative ending -ийг.",
+   "explain_mn": "«Мэдэх» үйл үг шууд тусагдахуун авдаг тул «эсэх» нь заах тийн ялгалын -ийг нөхцөлтэй байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Цагдаа камерын бичлэг байгаа ___ шалгалаа.",
+   "answer": "эсэхийг",
+   "options": [
+    "эсэхийг",
+    "уу",
+    "гэж",
+    "бол"
+   ],
+   "translation": "The officer checked whether there was camera footage.",
+   "explain_en": "Use эсэхийг after шалгах to mean \"check whether\".",
+   "explain_mn": "«Шалгах» гэсний өмнө «эсэхийг» ашиглан «эсэхийг шалгах» гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Би зодоон хэзээ ___ сайн санахгүй байна.",
+   "answer": "эхэлснийг",
+   "options": [
+    "эхэлснийг",
+    "эхэлсэн эсэхийг",
+    "эхлэх",
+    "эхэлсэн үү"
+   ],
+   "translation": "I don't remember well when the fight started.",
+   "explain_en": "With a question word (хэзээ), no эсэх is needed; the verb takes the nominal -сан form plus accusative: эхэлсэн + ийг = эхэлснийг.",
+   "explain_mn": "Асуух үгтэй (хэзээ) үед «эсэх» хэрэггүй; үйл үг -сан нөхцөл дээр -ийг нэмж тусагдахуун болно: эхэлснийг."
+  },
+  {
+   "lang": "en",
+   "text": "I don't know ___ he saw the accident.",
+   "answer": "whether",
+   "options": [
+    "whether",
+    "does",
+    "what",
+    "which"
+   ],
+   "translation": "Тэр ослыг харсан эсэхийг би мэдэхгүй.",
+   "explain_en": "Whether introduces an embedded yes/no question.",
+   "explain_mn": "Whether нь «тийм/үгүй» асуултыг өгүүлбэрт оруулдаг."
+  },
+  {
+   "lang": "en",
+   "text": "The officer asked if I ___ the driver.",
+   "answer": "recognized",
+   "options": [
+    "recognized",
+    "did recognize",
+    "recognize did",
+    "recognizing"
+   ],
+   "translation": "Цагдаа надаас жолоочийг таньсан эсэхийг асуусан.",
+   "explain_en": "Embedded questions use statement word order with no extra \"did\"; the verb shifts to past after asked.",
+   "explain_mn": "Шууд бус асуултад туслах «did» хэрэггүй, үйл үг энгийн өнгөрсөн цагт орно."
+  },
+  {
+   "lang": "en",
+   "text": "Do you remember ___ there was a camera?",
+   "answer": "if",
+   "options": [
+    "if",
+    "did",
+    "what",
+    "is"
+   ],
+   "translation": "Камер байсан эсэхийг та санаж байна уу?",
+   "explain_en": "If works like whether in everyday speech for yes/no embedded questions.",
+   "explain_mn": "Яриан дунд «if» нь «whether»-тэй адил «эсэх» гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Officer Bat",
+   "mn": "Сайн байна уу. Та осол болохыг харсан уу?",
+   "en": "Hello. Did you see the accident happen?",
+   "mn_latin": "Sain baina uu. Ta osol bolokhyg kharsan uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм ээ, би автобусны буудал дээр зогсож байсан.",
+   "en": "Yes, I was standing at the bus stop.",
+   "mn_latin": "Tiim ee, bi avtobusny buudal deer zogsoj baisan."
+  },
+  {
+   "speaker": "Officer Bat",
+   "mn": "Машинууд хэрхэн мөргөлдсөнийг дүрсэлж чадах уу?",
+   "en": "Can you describe how the cars collided?",
+   "mn_latin": "Mashinuud kherkhen mörgöldsöniig dürselj chadakh uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Цагаан машин гэнэт эргэсэн. Гэхдээ улаан гэрэл асаалттай байсан эсэхийг мэдэхгүй.",
+   "en": "A white car turned suddenly. But I don't know whether the red light was on.",
+   "mn_latin": "Tsagaan mashin genet ergesen. Gekhdee ulaan gerel asaalttai baisan esekhiig medekhgüi."
+  },
+  {
+   "speaker": "Officer Bat",
+   "mn": "Ойрхон камер байсан эсэхийг санаж байна уу?",
+   "en": "Do you remember if there was a camera nearby?",
+   "mn_latin": "Oirkhon kamyer baisan esekhiig sanaj baina uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Дэлгүүрийн үүдэнд нэг камер байсан юм шиг санагдаж байна.",
+   "en": "I think there was a camera at the shop entrance.",
+   "mn_latin": "Delgüüriin üüdend neg kamyer baisan yum shig sanagdaj baina."
+  },
+  {
+   "speaker": "Officer Bat",
+   "mn": "Сайн байна. Бид бичлэгийг нотлох баримт болгон авна.",
+   "en": "Good. We will take the footage as evidence.",
+   "mn_latin": "Sain baina. Bid bichlegiig notlokh barimt bolgon avna."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Мэдүүлэгтээ гарын үсэг зурах уу?",
+   "en": "Should I sign my statement?",
+   "mn_latin": "Medüülegtee garyn üseg zurakh uu?"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, a witness is usually called to a police station or to the investigator's office to give a written statement, which they must sign on every page. In Ulaanbaatar, many roads and shops now have cameras, so footage often supports what people say. Witnesses are expected to speak only about what they actually saw.",
+  "mn": "Монголд гэрч ихэвчлэн цагдаагийн хэлтэс эсвэл мөрдөгчийн өрөөнд очиж бичгээр мэдүүлэг өгдөг бөгөөд хуудас бүр дээр гарын үсэг зурах ёстой. Улаанбаатарт зам, дэлгүүрт камер олширсон тул бичлэг нь хүмүүсийн яриаг ихэвчлэн баталдаг. Гэрч зөвхөн өөрийн харсан зүйлийн тухай ярих ёстой."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 17,
+  "notes": "Mostly good content, but fill_blank item 2 is broken (answer 'нийг' invalid), the Mongolian grammar explanation is off-target, and a few Mongolian phrasings need fixing."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 21,
+  "notes": "Main problems: a broken fill-in item, the misspelled дүрслэх, the wrong сэжигтэн gloss, the хэрүүл/зодоон mix-up, and a grammar explanation where en and mn said different things.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Accusative of зодоон is зодооныг; language names are lowercase in Mongolian"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "mn",
+    "why": "Correct spelling is дүрслэх"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_en",
+    "why": "Гэрч means witness, not man"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "en",
+    "why": "Сэжигтэн means suspect; accused is яллагдагч"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_en",
+    "why": "Matches сэжигтэн"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "Хэрүүл is a verbal quarrel; fight = зодоон"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "Alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "\"Couldn't see\" doesn't mean \"didn't notice\""
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "Spelling ярья; dropped the redundant нь"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Aligned with the mn version; clarified the negation point"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "en and mn versions must say the same thing"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "\"Said anything\" needs ямар нэг юм"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Original grammar terminology was garbled and wrong"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "The item had no blank"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "The answer was not a real option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Options must contain the answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "\"That\" is also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "Түүнийг made the object ambiguous"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Асуух takes надаас, not намайг"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Санагдах needs юм шиг here"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Added \"must\" and \"often\" to match the en version"
+   }
+  ]
+ }
+}

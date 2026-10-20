@@ -1,0 +1,444 @@
+{
+ "intro_en": "Follow a doctor and a nutritionist as they debate whether people can get enough protein, iron, and vitamin B12 without meat. You'll learn to express equivalence with the Mongolian -д дүйцэх and to add emphasis in English with 'the very' plus a superlative.",
+ "intro_mn": "Эмч, хоол зүйч хоёр махгүйгээр хангалттай уураг, төмөр, витамин B12 авч болох эсэхийг хэрхэн мэтгэлцэж байгааг сонсоорой. Монгол хэлний -д дүйцэх хэлбэрээр тэнцүү байдлыг илэрхийлж, англи хэлэнд 'the very' болон хамгийн дээд зэргийн хэлбэрийг хамтад нь хэрэглэн онцлохыг сурна.",
+ "vocab": [
+  {
+   "mn": "шим тэжээл",
+   "en": "nutrient",
+   "pos": "noun",
+   "example_mn": "Энэ хоолонд шим тэжээл маш бага байна.",
+   "example_en": "This food has very few nutrients.",
+   "mn_latin": "shim tejeel"
+  },
+  {
+   "mn": "уураг",
+   "en": "protein",
+   "pos": "noun",
+   "example_mn": "Өндөг уураг ихтэй.",
+   "example_en": "Eggs are high in protein.",
+   "mn_latin": "uurag"
+  },
+  {
+   "mn": "төмөр",
+   "en": "iron",
+   "pos": "noun",
+   "example_mn": "Элгэнд төмөр их агуулагддаг.",
+   "example_en": "Liver contains a lot of iron.",
+   "mn_latin": "tömör"
+  },
+  {
+   "mn": "витамин B12",
+   "en": "vitamin B12",
+   "pos": "noun",
+   "example_mn": "Витамин B12 голдуу амьтны гаралтай хүнсэнд байдаг.",
+   "example_en": "Vitamin B12 is found mainly in animal products.",
+   "mn_latin": "vitamin B12"
+  },
+  {
+   "mn": "дутагдал",
+   "en": "deficiency",
+   "pos": "noun",
+   "example_mn": "Түүнд төмрийн дутагдал илэрсэн.",
+   "example_en": "She was found to have an iron deficiency.",
+   "mn_latin": "dutagdal"
+  },
+  {
+   "mn": "тэнцвэртэй хооллолт",
+   "en": "balanced diet",
+   "pos": "noun phrase",
+   "example_mn": "Тэнцвэртэй хооллолт эрүүл мэндийн үндэс юм.",
+   "example_en": "A balanced diet is the foundation of good health.",
+   "mn_latin": "tentsvertei khoollolt"
+  },
+  {
+   "mn": "дүйцэх",
+   "en": "to be equivalent to",
+   "pos": "verb",
+   "example_mn": "Энэ хэмжээ нэг аяга сүүнд дүйцнэ.",
+   "example_en": "This amount is equivalent to a cup of milk.",
+   "mn_latin": "düitsekh"
+  },
+  {
+   "mn": "шингэх",
+   "en": "to be absorbed",
+   "pos": "verb",
+   "example_mn": "Махан дахь төмөр сайн шингэдэг.",
+   "example_en": "The iron in meat is absorbed well.",
+   "mn_latin": "shingekh"
+  },
+  {
+   "mn": "нэмэлт тэжээл",
+   "en": "dietary supplement",
+   "pos": "noun",
+   "example_mn": "Эмч надад нэмэлт тэжээл уухыг зөвлөсөн.",
+   "example_en": "The doctor advised me to take a supplement.",
+   "mn_latin": "nemelt tejeel"
+  },
+  {
+   "mn": "цус багадалт",
+   "en": "anemia",
+   "pos": "noun",
+   "example_mn": "Цус багадалт эмэгтэйчүүдэд элбэг тохиолддог.",
+   "example_en": "Anemia is common among women.",
+   "mn_latin": "tsus bagadalt"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Нэг аяга сэвэг зарам 100 грамм махны уурагт дүйцнэ гэдгийг олон хүн мэддэггүй.",
+   "en": "Many people don't know that a cup of lentils is equivalent to the protein in 100 grams of meat.",
+   "alt_mn": [
+    "Нэг аяга сэвэг зарам 100 грамм махны уурагт дүйцдгийг олон хүн мэддэггүй."
+   ],
+   "alt_en": [
+    "Many people don't realize that one cup of lentils equals the protein in 100 grams of meat."
+   ],
+   "mn_latin": "Neg ayaga seveg zaram 100 gramm makhny uuragt düitsne gedgiig olon khün meddeggüi."
+  },
+  {
+   "mn": "Витамин B12-ын дутагдал бол цагаан хоолтнуудын хамгийн түгээмэл асуудал юм.",
+   "en": "Vitamin B12 deficiency is the most common problem among vegetarians.",
+   "alt_mn": [
+    "Цагаан хоолтнуудын хамгийн түгээмэл асуудал бол витамин B12-ын дутагдал юм."
+   ],
+   "alt_en": [
+    "The most common problem for vegetarians is vitamin B12 deficiency."
+   ],
+   "mn_latin": "Vitamin B12-yn dutagdal bol tsagaan khooltnuudyn khamgiin tügeemel asuudal yum."
+  },
+  {
+   "mn": "Тэнцвэртэй хооллолт бол эрүүл мэндийг хамгаалах хамгийн сайн арга.",
+   "en": "A balanced diet is the very best way to protect your health.",
+   "alt_mn": [
+    "Эрүүл мэндээ хамгаалах хамгийн сайн арга бол тэнцвэртэй хооллолт."
+   ],
+   "alt_en": [
+    "A balanced diet is the very best way to stay healthy."
+   ],
+   "mn_latin": "Tentsvertei khoollolt bol erüül mendiig khamgaalakh khamgiin sain arga."
+  },
+  {
+   "mn": "Ургамлын гаралтай төмөр махан дахь төмрөөс муу шингэдэг.",
+   "en": "Plant-based iron is absorbed less well than the iron in meat.",
+   "alt_mn": [
+    "Ургамлын гаралтай төмөр махан дахь төмөр шиг сайн шингэдэггүй."
+   ],
+   "alt_en": [
+    "Iron from plants isn't absorbed as well as iron from meat."
+   ],
+   "mn_latin": "Urgamlyn garaltai tömör makhan dakhi tömröös muu shingedeg."
+  },
+  {
+   "mn": "Хэрэв та мах идэхээ больсон бол нэмэлт тэжээл уух нь зүйтэй.",
+   "en": "If you've stopped eating meat, it's advisable to take a supplement.",
+   "alt_mn": [
+    "Мах идэхээ больсон бол нэмэлт тэжээл уувал зүйтэй."
+   ],
+   "alt_en": [
+    "If you've given up meat, you should probably take a supplement."
+   ],
+   "mn_latin": "Kherev ta makh idekhee bolison bol nemelt tejeel uukh ni züitei."
+  },
+  {
+   "mn": "Байнга ядарч сульдах нь төмрийн дутагдлын анхны шинж тэмдэг байж болно.",
+   "en": "Constant fatigue can be the first sign of iron deficiency.",
+   "alt_mn": [],
+   "alt_en": [
+    "Feeling tired all the time may be the first sign of an iron deficiency."
+   ],
+   "mn_latin": "Bainga yadarch sulidakh ni tömriin dutagdlyn ankhny shinj temdeg baij bolno."
+  },
+  {
+   "mn": "Шалгалтын үеэр цус багадах бол таны хамгийн хэрэггүй зүйл.",
+   "en": "Becoming anemic during exams is the very last thing you need.",
+   "alt_mn": [
+    "Шалгалтын үеэр цус багадалттай болох бол хамгийн хэрэггүй зүйл."
+   ],
+   "alt_en": [
+    "Becoming anemic during exam season is the very last thing you need."
+   ],
+   "mn_latin": "Shalgaltyn üyeer tsus bagadakh bol tany khamgiin khereggüi züil."
+  },
+  {
+   "mn": "Нэг аяга сүү нэг өндөгний уурагт бараг дүйцнэ.",
+   "en": "A cup of milk is almost equivalent to an egg in protein.",
+   "alt_mn": [
+    "Нэг аяга сүүний уураг нэг өндөгнийхтэй бараг тэнцүү."
+   ],
+   "alt_en": [
+    "A cup of milk has nearly as much protein as an egg."
+   ],
+   "mn_latin": "Neg ayaga süü neg öndögnii uuragt barag düitsne."
+  },
+  {
+   "mn": "Эмч надад витамин B12-ын шинжилгээ өгөхийг зөвлөсөн.",
+   "en": "The doctor advised me to get tested for vitamin B12.",
+   "alt_mn": [],
+   "alt_en": [
+    "My doctor recommended a vitamin B12 test."
+   ],
+   "mn_latin": "Emch nadad vitamin B12-yn shinjilgee ögökhiig zövlösön."
+  },
+  {
+   "mn": "Олон монгол хүн махыг уургийн хамгийн сайн эх үүсвэр гэж үздэг.",
+   "en": "Many Mongolians believe meat is the very best source of protein.",
+   "alt_mn": [
+    "Олон монгол хүний бодлоор мах бол уургийн хамгийн сайн эх үүсвэр."
+   ],
+   "alt_en": [
+    "Many Mongolians consider meat the very best source of protein."
+   ],
+   "mn_latin": "Olon mongol khün makhyg uurgiin khamgiin sain ekh üüsver gej üzdeg."
+  },
+  {
+   "mn": "Шим тэжээлийн хувьд энэ хоёр хоол бие биедээ огт дүйцэхгүй.",
+   "en": "In terms of nutrients, these two dishes are not at all equivalent.",
+   "alt_mn": [
+    "Шим тэжээлийн хувьд энэ хоёр хоол огт адилгүй."
+   ],
+   "alt_en": [
+    "Nutritionally, these two dishes aren't remotely equivalent."
+   ],
+   "mn_latin": "Shim tejeeliin khuvid ene khoyor khool biye biyedee ogt düitsekhgüi."
+  },
+  {
+   "mn": "Бууцай дахь төмрийг сайн шингээхийн тулд түүнийг С витамин ихтэй хүнстэй хамт идээрэй.",
+   "en": "To absorb the iron in spinach better, eat it with foods rich in vitamin C.",
+   "alt_mn": [
+    "Бууцай дахь төмөр сайн шингэхийн тулд С витамин ихтэй хүнстэй хамт идээрэй."
+   ],
+   "alt_en": [
+    "Eat spinach with vitamin C-rich foods so the iron is absorbed better."
+   ],
+   "mn_latin": "Buutsai dakhi tömriig sain shingeekhiin tuld tüüniig S vitamin ikhtei khünstei khamt ideerei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Expressing equivalence with -д дүйцэх",
+  "title_mn": "-д дүйцэх хэлбэрээр тэнцүү байдлыг илэрхийлэх",
+  "explain_en": "To say that one thing is equivalent to another, Mongolian uses the verb дүйцэх ('to be equivalent, to match'). The thing being compared to takes the dative-locative ending -д/-т (махны уурагт, сүүнд, өндөгний уурагт). Pattern: X (нь) Y-д дүйцнэ = 'X is equivalent to Y.' Use -т after stems ending in р, с, г, в (уурагт, газарт), and -д elsewhere (сүүнд, хоолонд). For the negative say дүйцэхгүй, and for a habitual fact use дүйцдэг. It is more precise and formal than тэнцүү, which makes it common in science, health, and economics.",
+  "explain_mn": "Нэг зүйл нөгөөтэйгээ тэнцүү гэдгийг хэлэхдээ монгол хэлэнд дүйцэх ('тэнцэх, адил байх') үйл үгийг хэрэглэдэг. Харьцуулж буй зүйл нь өгөх-орших тийн -д/-т нөхцөл авна (махны уурагт, сүүнд, өндөгний уурагт). Загвар: X (нь) Y-д дүйцнэ = 'X is equivalent to Y.' р, с, г, в-ээр төгссөн үгэнд -т (уурагт, газарт), бусад тохиолдолд -д (сүүнд, хоолонд) залгана. Үгүйсгэхдээ дүйцэхгүй, байнгын үнэнийг хэлэхдээ дүйцдэг гэнэ. Энэ үг тэнцүү гэдгээс илүү нарийн, албан ёсны тул шинжлэх ухаан, эрүүл мэнд, эдийн засгийн сэдэвт түгээмэл хэрэглэгддэг.",
+  "examples": [
+   {
+    "mn": "Нэг аяга сэвэг зарам 100 грамм махны уурагт дүйцнэ.",
+    "en": "A cup of lentils is equivalent to the protein in 100 grams of meat.",
+    "mn_latin": "Neg ayaga seveg zaram 100 gramm makhny uuragt düitsne."
+   },
+   {
+    "mn": "Энэ нэмэлт тэжээл гурван аяга сүүнд дүйцэх кальцитай.",
+    "en": "This supplement has as much calcium as three cups of milk.",
+    "mn_latin": "Ene nemelt tejeel gurvan ayaga süünd düitsekh kalitsitai."
+   },
+   {
+    "mn": "Сэвэг зарам бол цагаан хоолтны хувьд төмрийн хамгийн сайн эх үүсвэр.",
+    "en": "For a vegetarian, lentils are the very best source of iron.",
+    "mn_latin": "Seveg zaram bol tsagaan khooltny khuvid tömriin khamgiin sain ekh üüsver."
+   },
+   {
+    "mn": "Цус багадалт бол өвлийн улиралд таны хамгийн хэрэггүй зүйл.",
+    "en": "Anemia is the very last thing you need in winter.",
+    "mn_latin": "Tsus bagadalt bol övliin ulirald tany khamgiin khereggüi züil."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нэг аяга сэвэг зарам 100 грамм махны уураг___ дүйцнэ.",
+   "answer": "т",
+   "options": [
+    "т",
+    "ыг",
+    "аас",
+    "тай"
+   ],
+   "translation": "A cup of lentils is equivalent to the protein in 100 grams of meat.",
+   "explain_en": "дүйцэх requires the dative-locative case on the thing compared to. After a stem ending in г (уураг), the ending is -т.",
+   "explain_mn": "Дүйцэх үйл үг нь харьцуулж буй зүйлийг өгөх-орших тийн ялгалд тавихыг шаарддаг. 'г'-ээр төгссөн үгэнд -т залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Ургамлын гаралтай төмөр махан дахь төмр___ муу шингэдэг.",
+   "answer": "өөс",
+   "options": [
+    "өөс",
+    "ийг",
+    "өөр",
+    "ийн"
+   ],
+   "translation": "Plant-based iron is absorbed less well than the iron in meat.",
+   "explain_en": "Comparisons ('worse than') use the ablative case -аас/-ээс/-оос/-өөс. Төмөр drops its vowel to төмр- and takes -өөс by vowel harmony.",
+   "explain_mn": "Харьцуулахдаа гарах тийн ялгал хэрэглэнэ. 'Төмөр' нь эгшгээ гээж 'төмр-' болоод эгшиг зохицлын дагуу -өөс залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Витамин B12-ын ___ нь ядаргаа, толгой эргэлт үүсгэж болно.",
+   "answer": "дутагдал",
+   "options": [
+    "дутагдал",
+    "тэнцвэр",
+    "эх үүсвэр",
+    "нэмэлт"
+   ],
+   "translation": "Vitamin B12 deficiency can cause fatigue and dizziness.",
+   "explain_en": "Дутагдал means 'deficiency, shortage'. Only a lack of B12 causes symptoms, not its 'balance' or 'source'.",
+   "explain_mn": "Ядаргаа үүсгэдэг нь витамины дутагдал юм. Тэнцвэр, эх үүсвэр гэдэг нь энд утга таарахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Getting sick before the Naadam festival is the ___ last thing you need.",
+   "answer": "very",
+   "options": [
+    "very",
+    "most",
+    "much",
+    "so"
+   ],
+   "translation": "Наадмын өмнө өвдөх бол таны хамгийн хэрэггүй зүйл.",
+   "explain_en": "The fixed emphatic pattern is 'the very + superlative': the very last thing you need.",
+   "explain_mn": "Хамгийн дээд зэргийг онцлохдоо 'the' болон тэмдэг нэрийн хооронд 'very' оруулдаг. 'The most last' гэж хэлдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "For vegetarians, lentils are the very ___ source of iron.",
+   "answer": "best",
+   "options": [
+    "best",
+    "better",
+    "good",
+    "most"
+   ],
+   "translation": "Цагаан хоолтнуудын хувьд сэвэг зарам бол төмрийн хамгийн сайн эх үүсвэр.",
+   "explain_en": "'The very' must be followed by a superlative. The superlative of 'good' is 'best'.",
+   "explain_mn": "'The very'-гийн дараа заавал хамгийн дээд зэргийн хэлбэр орно. 'Good' үгийн хамгийн дээд зэрэг нь 'best'."
+  },
+  {
+   "lang": "en",
+   "text": "A balanced ___ matters more than any supplement.",
+   "answer": "diet",
+   "options": [
+    "diet",
+    "diets",
+    "dieting",
+    "dietary"
+   ],
+   "translation": "Тэнцвэртэй хооллолт ямар ч нэмэлт тэжээлээс илүү чухал.",
+   "explain_en": "'A balanced diet' is the standard singular noun phrase. 'Dieting' means trying to lose weight, and 'dietary' is an adjective.",
+   "explain_mn": "'A balanced diet' нь тогтсон хэллэг бөгөөд ганц тоонд байна. 'Dieting' гэдэг нь турах гэж хоол хязгаарлахыг хэлдэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ganbaatar",
+   "mn": "Би эмчийн хувьд хэлэхэд, Монголд цагаан хоолтон болох нь эрсдэлтэй. Манайд төмрийн дутагдал аль хэдийн их байна.",
+   "en": "Speaking as a doctor, going vegetarian in Mongolia is risky. Iron deficiency is already widespread here.",
+   "mn_latin": "Bi emchiin khuvid khelekhed, Mongold tsagaan khoolton bolokh ni ersdeltei. Manaid tömriin dutagdal ali khediin ikh baina."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Би санал нийлэхгүй байна. Нэг аяга сэвэг зарам 100 грамм махны уурагт дүйцнэ шүү дээ.",
+   "en": "I disagree. A cup of lentils is equivalent to the protein in 100 grams of meat, you know.",
+   "mn_latin": "Bi sanal niilekhgüi baina. Neg ayaga seveg zaram 100 gramm makhny uuragt düitsne shüü dee."
+  },
+  {
+   "speaker": "Ganbaatar",
+   "mn": "Уургийн хувьд тийм байж магадгүй. Гэхдээ ургамлын төмөр махныхаас хамаагүй муу шингэдэг.",
+   "en": "In terms of protein, maybe. But plant iron is absorbed far less well than iron from meat.",
+   "mn_latin": "Uurgiin khuvid tiim baij magadgüi. Gekhdee urgamlyn tömör makhnykhaas khamaagüi muu shingedeg."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тийм учраас С витамин ихтэй хүнстэй хамт идэхийг зөвлөдөг юм. Тэнцвэртэй хооллолт бол хамгийн зөв арга.",
+   "en": "That's exactly why we recommend eating it with vitamin C-rich foods. A balanced diet is the very best approach.",
+   "mn_latin": "Tiim uchraas S vitamin ikhtei khünstei khamt idekhiig zövlödög yum. Tentsvertei khoollolt bol khamgiin zöv arga."
+  },
+  {
+   "speaker": "Ganbaatar",
+   "mn": "Харин витамин B12 яах вэ? Ургамлын гаралтай хүнсэнд бараг байдаггүй.",
+   "en": "And what about vitamin B12? It's almost absent from plant foods.",
+   "mn_latin": "Kharin vitamin B12 yaakh ve? Urgamlyn garaltai khünsend barag baidaggüi."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Энэ үнэн. Тиймээс би үйлчлүүлэгчиддээ нэмэлт тэжээл ууж, жилд нэг удаа шинжилгээ өгөхийг зөвлөдөг.",
+   "en": "That's true. So I advise my clients to take a supplement and get tested once a year.",
+   "mn_latin": "Ene ünen. Tiimees bi üilchlüülegchiddee nemelt tejeel uuj, jild neg udaa shinjilgee ögökhiig zövlödög."
+  },
+  {
+   "speaker": "Ganbaatar",
+   "mn": "Зөв. Өвлийн хүйтэнд цус багадалттай болох бол хүний хамгийн хэрэггүй зүйл.",
+   "en": "Right. Becoming anemic in the bitter winter cold is the very last thing anyone needs.",
+   "mn_latin": "Zöv. Övliin khüitend tsus bagadalttai bolokh bol khünii khamgiin khereggüi züil."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэгэхээр бид нэг л зүйл дээр санал нэгдэж байна: мах эсвэл махгүй, гол нь мэдлэгтэйгээр хооллох.",
+   "en": "So we agree on one thing: meat or no meat, what matters is eating with knowledge.",
+   "mn_latin": "Tegekheer bid neg l züil deer sanal negdej baina: makh esvel makhgüi, gol ni medlegteigeer khoollokh."
+  }
+ ],
+ "culture_note": {
+  "en": "Traditional Mongolian cuisine is built on two pillars: 'red foods' (улаан идээ, meat) eaten mostly in the cold months, and 'white foods' (цагаан идээ, dairy such as aaruul, byaslag, and airag) that dominate the summer. Health experts in Mongolia have long pointed to iron-deficiency anemia among women and young children as a public health concern, which is why debates about cutting back on meat often focus on iron and B12.",
+  "mn": "Монголын уламжлалт хоол хүнс хоёр үндсэн тулгууртай: хүйтний улиралд голлон иддэг улаан идээ (мах), зуны улиралд давамгайлдаг цагаан идээ (ааруул, бяслаг, айраг зэрэг сүүн бүтээгдэхүүн). Монголын эрүүл мэндийн мэргэжилтнүүд эмэгтэйчүүд, бага насны хүүхдийн дундах төмрийн дутагдлын цус багадалтыг нийгмийн эрүүл мэндийн асуудал гэж удаан хугацаанд онцолсоор ирсэн. Тиймээс мах багасгах тухай маргаан ихэвчлэн төмөр, витамин B12-ын асуудал руу хандадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, natural lesson with mostly correct Mongolian and English. There was one wrong case example in the grammar explanation, and a few small wording and meaning mismatches."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 8,
+  "notes": "The main problem was that the grammar mn title and explanation covered a different topic than the en version. Other fixes are spelling, translation-match and option-form corrections.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn described a different topic than title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn covered 'the very' instead of the same content as explain_en"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "Standard spelling is дүйцдгийг, not дүйцдэгийг"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "'most reliable' did not match 'very best'"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "Made it match the en sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "'Getting anemia' is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'төмрд' and 'төмртэй' are not valid forms"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Removed the redundant 'тулгуурт тулгуурладаг'"
+   }
+  ]
+ }
+}

@@ -1,0 +1,486 @@
+{
+ "intro_en": "You will learn to describe a herder family's seasonal migration and daily work. You will also use the Mongolian purpose form -хын тулд to explain why people do things, like English 'in order to'.",
+ "intro_mn": "Та малчин айлын улирлын нүүдэл, өдөр тутмын ажлыг тайлбарлаж сурна. Мөн англи хэлний 'in order to'-той тохирох -хын тулд хэлбэрээр ямар зорилгоор юм хийж байгаагаа хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "нүүдэл",
+   "en": "migration, moving camp",
+   "pos": "noun",
+   "example_mn": "Манай айл жилд дөрвөн удаа нүүдэл хийдэг.",
+   "example_en": "Our family moves camp four times a year.",
+   "mn_latin": "nüüdel"
+  },
+  {
+   "mn": "өвөлжөө",
+   "en": "winter camp",
+   "pos": "noun",
+   "example_mn": "Өвөлжөө маань уулын өвөрт байдаг.",
+   "example_en": "Our winter camp is in the shelter of the mountain.",
+   "mn_latin": "övöljöö"
+  },
+  {
+   "mn": "хаваржаа",
+   "en": "spring camp",
+   "pos": "noun",
+   "example_mn": "Бид хаваржаандаа мал төллүүлдэг.",
+   "example_en": "We help the animals give birth at our spring camp.",
+   "mn_latin": "khavarjaa"
+  },
+  {
+   "mn": "хадлан",
+   "en": "haymaking, hay harvest",
+   "pos": "noun",
+   "example_mn": "Долдугаар сард хадлан эхэлдэг.",
+   "example_en": "Haymaking begins in July.",
+   "mn_latin": "khadlan"
+  },
+  {
+   "mn": "сүү",
+   "en": "milk",
+   "pos": "noun",
+   "example_mn": "Өглөө бүр үнээ сааж сүү авдаг.",
+   "example_en": "Every morning we milk the cows and get milk.",
+   "mn_latin": "süü"
+  },
+  {
+   "mn": "ноос",
+   "en": "wool",
+   "pos": "noun",
+   "example_mn": "Хаврын сүүлээр хонийн ноос авдаг.",
+   "example_en": "At the end of spring we get wool from the sheep.",
+   "mn_latin": "noos"
+  },
+  {
+   "mn": "бэлчээр",
+   "en": "pasture",
+   "pos": "noun",
+   "example_mn": "Мал сайн бэлчээр хайж явдаг.",
+   "example_en": "The animals go looking for good pasture.",
+   "mn_latin": "belcheer"
+  },
+  {
+   "mn": "хураах",
+   "en": "to gather, to store up",
+   "pos": "verb",
+   "example_mn": "Намар бид өвс хураадаг.",
+   "example_en": "In autumn we gather hay.",
+   "mn_latin": "khuraakh"
+  },
+  {
+   "mn": "малчин",
+   "en": "herder",
+   "pos": "noun",
+   "example_mn": "Миний аав малчин хүн.",
+   "example_en": "My father is a herder.",
+   "mn_latin": "malchin"
+  },
+  {
+   "mn": "бэлтгэх",
+   "en": "to prepare",
+   "pos": "verb",
+   "example_mn": "Өвөл болохоос өмнө малаа бэлтгэх хэрэгтэй.",
+   "example_en": "We need to get our animals ready before winter comes.",
+   "mn_latin": "beltgekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид жилд дөрвөн удаа нүүдэл хийдэг.",
+   "en": "We move camp four times a year.",
+   "alt_mn": [
+    "Бид жилд дөрвөн удаа нүүдэллэдэг."
+   ],
+   "alt_en": [
+    "We migrate four times a year."
+   ],
+   "mn_latin": "Bid jild dörvön udaa nüüdel khiideg."
+  },
+  {
+   "mn": "Өвлийн хүйтнээс хоргодохын тулд бид өвөлжөөндөө очдог.",
+   "en": "To shelter from the winter cold, we go to our winter camp.",
+   "alt_mn": [],
+   "alt_en": [
+    "In order to shelter from the winter cold, we go to our winter camp."
+   ],
+   "mn_latin": "Övliin khüitnees khorgodokhyn tuld bid övöljööndöö ochdog."
+  },
+  {
+   "mn": "Хаваржаандаа мал төллүүлдэг.",
+   "en": "We help the animals give birth at our spring camp.",
+   "alt_mn": [
+    "Хаваржаандаа бид мал төллүүлдэг."
+   ],
+   "alt_en": [
+    "At our spring camp we help the livestock give birth."
+   ],
+   "mn_latin": "Khavarjaandaa mal töllüüldeg."
+  },
+  {
+   "mn": "Мал таргалахын тулд сайн бэлчээр хэрэгтэй.",
+   "en": "The animals need good pasture in order to get fat.",
+   "alt_mn": [
+    "Мал таргалахын тулд сайн бэлчээр шаардлагатай."
+   ],
+   "alt_en": [
+    "Good pasture is needed for the animals to fatten up."
+   ],
+   "mn_latin": "Mal targalakhyn tuld sain belcheer kheregtei."
+  },
+  {
+   "mn": "Өвөлд мал тэжээхийн тулд бид зун хадлан хийдэг.",
+   "en": "In order to feed the animals in winter, we make hay in summer.",
+   "alt_mn": [
+    "Бид өвөлд мал тэжээхийн тулд зун хадлан хийдэг."
+   ],
+   "alt_en": [
+    "To feed the animals in winter, we make hay in the summer."
+   ],
+   "mn_latin": "Övöld mal tejeekhiin tuld bid zun khadlan khiideg."
+  },
+  {
+   "mn": "Өглөө бүр үнээ сааж сүү авдаг.",
+   "en": "Every morning we milk the cows and get milk.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every morning we milk the cows to get milk."
+   ],
+   "mn_latin": "Öglöö bür ünee saaj süü avdag."
+  },
+  {
+   "mn": "Сүүгээр тараг, аарц, ааруул хийдэг.",
+   "en": "We make yogurt, curds and dried curds from milk.",
+   "alt_mn": [],
+   "alt_en": [
+    "We make yogurt and different kinds of curds out of milk."
+   ],
+   "mn_latin": "Süügeer tarag, aarts, aaruul khiideg."
+  },
+  {
+   "mn": "Хавар хонио хяргаж ноос авдаг.",
+   "en": "In spring we shear the sheep and get wool.",
+   "alt_mn": [
+    "Хавар бид хонио хяргаж ноос авдаг."
+   ],
+   "alt_en": [
+    "In spring we shear our sheep for wool."
+   ],
+   "mn_latin": "Khavar khonio khyargaj noos avdag."
+  },
+  {
+   "mn": "Ноосоор эсгий хийхийн тулд бүх айл хамтарч ажилладаг.",
+   "en": "To make felt from wool, all the families work together.",
+   "alt_mn": [],
+   "alt_en": [
+    "In order to make felt out of wool, all the families work together."
+   ],
+   "mn_latin": "Noosoor esgii khiikhiin tuld bükh ail khamtarch ajilladag."
+  },
+  {
+   "mn": "Шинэ бэлчээр олохын тулд бид намар нүүдэг.",
+   "en": "We move in autumn in order to find new pasture.",
+   "alt_mn": [
+    "Бид шинэ бэлчээр олохын тулд намар нүүдэг."
+   ],
+   "alt_en": [
+    "To find new pasture, we move in the fall."
+   ],
+   "mn_latin": "Shine belcheer olokhyn tuld bid namar nüüdeg."
+  },
+  {
+   "mn": "Өвөл болохоос өмнө малаа бэлтгэх хэрэгтэй.",
+   "en": "We need to get the animals ready before winter comes.",
+   "alt_mn": [
+    "Өвөл болохоос өмнө малаа бэлдэх хэрэгтэй."
+   ],
+   "alt_en": [
+    "We have to prepare the livestock before winter."
+   ],
+   "mn_latin": "Övöl bolokhoos ömnö malaa beltgekh kheregtei."
+  },
+  {
+   "mn": "Хүүхдүүдээ сургуульд явуулахын тулд заримдаа сумын төвд ч суудаг.",
+   "en": "Sometimes we also stay in the district center in order to send the children to school.",
+   "alt_mn": [],
+   "alt_en": [
+    "To send our children to school, we sometimes stay in the district center too."
+   ],
+   "mn_latin": "Khüükhdüüdee surguulid yavuulakhyn tuld zarimdaa sumyn tövd ch suudag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Stating purpose with -хын тулд",
+  "title_mn": "Зорилго илэрхийлэх нь: -хын тулд = in order to",
+  "explain_en": "To say 'in order to do something', take the verb stem, add -х (the verbal noun), then -ын/-ийн by vowel harmony, then тулд: хад- → хадахын тулд; ав- → авахын тулд; ол- → олохын тулд. Pattern: verb + -хын/-хийн тулд. Use -хын after words with back vowels (а, о, у), and -хийн after words with front vowels (э, ө, ү) or only и, e.g. хийх → хийхийн тулд. The purpose clause usually comes first, before the main clause: Мал тэжээхийн тулд бид хадлан хийдэг (We make hay to feed the animals). Usually both clauses have the same subject. In English, use 'to + verb' or 'in order to + verb'. The negative is 'in order not to'.",
+  "explain_mn": "Монгол хэлэнд зорилгыг үйл үгийн нэрлэсэн хэлбэр -х дээр -ын/-ийн нэмээд «тулд» гэж хэлнэ: тэжээх → тэжээхийн тулд, олох → олохын тулд. Бүдүүн эгшигтэй үгэнд -ын, нарийн эгшигтэй (эсвэл зөвхөн и-тэй) үгэнд -ийн залгана: хийх → хийхийн тулд. Зорилгын өгүүлбэр ихэвчлэн өгүүлбэрийн эхэнд ордог: Мал тэжээхийн тулд бид хадлан хийдэг. Ихэвчлэн хоёр өгүүлбэрийн үйлдэгч ижил байдаг. Англи хэлэнд 'to + үйл үг' эсвэл 'in order to + үйл үг' гэнэ: We move in order to find new pasture. Үгүйсгэхдээ 'in order not to' гэнэ.",
+  "examples": [
+   {
+    "mn": "Мал тэжээхийн тулд бид хадлан хийдэг.",
+    "en": "We make hay in order to feed the animals.",
+    "mn_latin": "Mal tejeekhiin tuld bid khadlan khiideg."
+   },
+   {
+    "mn": "Сүү авахын тулд үнээ саадаг.",
+    "en": "We milk the cows to get milk.",
+    "mn_latin": "Süü avakhyn tuld ünee saadag."
+   },
+   {
+    "mn": "Бэлчээр олохын тулд нүүдэг.",
+    "en": "We move in order to find pasture.",
+    "mn_latin": "Belcheer olokhyn tuld nüüdeg."
+   },
+   {
+    "mn": "Өвөлд амьд үлдэхийн тулд эрт бэлддэг.",
+    "en": "We prepare early in order to survive the winter.",
+    "mn_latin": "Övöld amid üldekhiin tuld ert belddeg."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Мал тэжээх___ тулд бид зун хадлан хийдэг.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "ын",
+    "аар",
+    "д"
+   ],
+   "translation": "We make hay in summer in order to feed the animals.",
+   "explain_en": "Тэжээх has front vowels (э), so it takes -ийн: тэжээхийн тулд.",
+   "explain_mn": "Тэжээх гэдэг үгэнд нарийн эгшиг (э) байгаа тул -ийн залгана: тэжээхийн тулд."
+  },
+  {
+   "lang": "mn",
+   "text": "Шинэ бэлчээр олох___ тулд бид нүүдэг.",
+   "answer": "ын",
+   "options": [
+    "ын",
+    "ийн",
+    "оор",
+    "д"
+   ],
+   "translation": "We move in order to find new pasture.",
+   "explain_en": "Олох has back vowel о, so it takes -ын: олохын тулд.",
+   "explain_mn": "Олох нь бүдүүн эгшигтэй (о) тул -ын залгана: олохын тулд."
+  },
+  {
+   "lang": "mn",
+   "text": "Өглөө бүр үнээ сааж ___ авдаг.",
+   "answer": "сүү",
+   "options": [
+    "сүү",
+    "ноос",
+    "хадлан",
+    "өвөлжөө"
+   ],
+   "translation": "Every morning we milk the cows and get milk.",
+   "explain_en": "Milking cows gives сүү (milk); ноос (wool) comes from sheep.",
+   "explain_mn": "Үнээ саахад сүү гардаг. Ноос нь хонинаас авдаг."
+  },
+  {
+   "lang": "en",
+   "text": "We go to the winter camp ___ protect the animals from the cold.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "by"
+   ],
+   "translation": "Бид малаа хүйтнээс хамгаалахын тулд өвөлжөө рүү явдаг.",
+   "explain_en": "Purpose before a verb uses 'to' (or 'in order to'). 'For' needs a noun or -ing form.",
+   "explain_mn": "Үйл үгийн өмнө зорилгыг 'to' эсвэл 'in order to' гэж илэрхийлнэ. 'For' нэр үг эсвэл -ing-тэй хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "They move early in order ___ lose any animals.",
+   "answer": "not to",
+   "options": [
+    "not to",
+    "no",
+    "no to",
+    "don't"
+   ],
+   "translation": "Тэд нэг ч мал алдахгүйн тулд эрт нүүдэг.",
+   "explain_en": "The negative purpose form is 'in order not to + verb'.",
+   "explain_mn": "Үгүйсгэсэн зорилгыг 'in order not to + үйл үг' гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "In spring we shear the sheep ___ get wool.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "that",
+    "so"
+   ],
+   "translation": "Хавар бид ноос авахын тулд хонио хяргадаг.",
+   "explain_en": "'To + base verb' expresses purpose: to get wool.",
+   "explain_mn": "Зорилгыг 'to + үйл үгийн үндсэн хэлбэр' гэж илэрхийлнэ: to get wool."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Анна",
+   "mn": "Сайн байна уу, Бат-Эрдэнэ! Та нар жилийн турш хаана амьдардаг вэ?",
+   "en": "Hello, Bat-Erdene! Where do you live throughout the year?",
+   "mn_latin": "Sain baina uu, Bat-Erdene! Ta nar jiliin tursh khaana amidardag ve?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Бид жилд дөрвөн удаа нүүдэг. Өвөл өвөлжөөндөө, хавар хаваржаандаа байдаг.",
+   "en": "We move four times a year. In winter we stay at our winter camp, and in spring at our spring camp.",
+   "mn_latin": "Bid jild dörvön udaa nüüdeg. Övöl övöljööndöö, khavar khavarjaandaa baidag."
+  },
+  {
+   "speaker": "Анна",
+   "mn": "Яагаад ийм олон нүүдэг юм бэ?",
+   "en": "Why do you move so often?",
+   "mn_latin": "Yaagaad iim olon nüüdeg yum be?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Малаа таргалуулахын тулд сайн бэлчээр хайдаг юм.",
+   "en": "We look for good pasture in order to fatten our animals.",
+   "mn_latin": "Malaa targaluulakhyn tuld sain belcheer khaidag yum."
+  },
+  {
+   "speaker": "Анна",
+   "mn": "Зун ямар ажил хийдэг вэ?",
+   "en": "What work do you do in summer?",
+   "mn_latin": "Zun yamar ajil khiideg ve?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Зун хадлан хийнэ. Өвөлд мал тэжээхийн тулд өвс хураана.",
+   "en": "In summer we make hay. We gather it to feed the animals in winter.",
+   "mn_latin": "Zun khadlan khiine. Övöld mal tejeekhiin tuld övs khuraana."
+  },
+  {
+   "speaker": "Анна",
+   "mn": "Сүү, ноосоор юу хийдэг вэ?",
+   "en": "What do you make from milk and wool?",
+   "mn_latin": "Süü, noosoor yuu khiideg ve?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Сүүгээр тараг, ааруул хийнэ. Ноосоор эсгий хийж гэрээ бүрнэ.",
+   "en": "From milk we make yogurt and hard curds. From wool we make felt to cover the ger.",
+   "mn_latin": "Süügeer tarag, aaruul khiine. Noosoor esgii khiij geree bürne."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian herder families follow a four-season cycle: winter camp (өвөлжөө) in sheltered valleys, spring camp (хаваржаа) for births, then summer and autumn camps with fresh pasture. Neighbors often help each other with hay, shearing and felt-making. Climate change and dzud are making these routes harder to plan.",
+  "mn": "Монголын олон малчин айл дөрвөн улирлын нүүдлийн мөчлөгийг баримталдаг: салхи, хүйтнээс хамгаалагдсан хөндийд өвөлжөө, төл авах хаваржаа, дараа нь шинэ бэлчээртэй зуслан, намаржаа. Хөрш айлууд хадлан, ноос хяргах, эсгий хийх зэрэгт бие биедээ тусалдаг. Уур амьсгалын өөрчлөлт, зуд нүүдлийн төлөвлөгөөг улам хүндрүүлж байна."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 19,
+  "notes": "Mostly good content, but contains a corrupted vocab example, a missing translation, and a flawed grammar explanation (wrong stems, mismatched Mongolian explanation); some of my listed fixes are no-ops."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 16,
+  "notes": "Main problems: combing vs shearing sheep, the curd terms, wrong verb stems in the grammar note, and an ambiguous negative-purpose option.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "English left out 'малаа' (our animals)"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "хамгаалах needs an object; хоргодох (to shelter) is the natural verb here"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "en",
+    "why": "match the corrected Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_en",
+    "why": "match the corrected Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "en",
+    "why": "аарц is curds; ааруул is the dried curds"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "sheep are shorn (хяргах); combing is for goat cashmere"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "shear, not comb"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "shear, not comb"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "shear, not comb"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "wrong stems (хада-, оло-); made consistent with the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "same-subject rule was too strict; now matches en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'to not' is also used colloquially, so the answer wasn't the only correct option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "text",
+    "why": "sheep are sheared, not combed"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "хяргах, not самнах"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "the standard verb for covering a ger is бүрэх"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "цикл→мөчлөг; хоргодсон hollow is unnatural; 'for births' = төл авах"
+   }
+  ]
+ }
+}

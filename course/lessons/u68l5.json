@@ -1,0 +1,456 @@
+{
+ "intro_en": "You will learn to read and write online reviews, using review vocabulary like rating, pros and cons, and value for money. You will also practice contrast with харин, X бол ..., Y бол ..., and -ж байхад, matching English whereas, while, and on the other hand.",
+ "intro_mn": "Та онлайн сэтгэгдэл унших, бичих, мөн үнэлгээ, давуу ба сул тал, үнэ цэнэ зэрэг үгсийг сурна. Мөн харин, X бол ..., Y бол ..., -ж байхад хэлбэрээр харьцуулалт хэрхэн илэрхийлэхийг англи хэлний whereas, while, on the other hand-тай харьцуулан сурна.",
+ "vocab": [
+  {
+   "mn": "үнэлгээ",
+   "en": "rating",
+   "pos": "noun",
+   "example_mn": "Энэ дэлгүүрийн үнэлгээ дөрвөн од байна.",
+   "example_en": "This shop has a four-star rating.",
+   "mn_latin": "ünelgee"
+  },
+  {
+   "mn": "давуу тал",
+   "en": "advantage, pro",
+   "pos": "noun",
+   "example_mn": "Утасны давуу тал нь батарей удаан барьдагт байна.",
+   "example_en": "The phone's advantage is that its battery lasts a long time.",
+   "mn_latin": "davuu tal"
+  },
+  {
+   "mn": "сул тал",
+   "en": "weakness, con",
+   "pos": "noun",
+   "example_mn": "Гол сул тал нь үйлчилгээ удаан байдаг явдал.",
+   "example_en": "The main drawback is the slow service.",
+   "mn_latin": "sul tal"
+  },
+  {
+   "mn": "санал болгох",
+   "en": "to recommend",
+   "pos": "verb",
+   "example_mn": "Би энэ ресторанг найздаа санал болгоно.",
+   "example_en": "I will recommend this restaurant to my friend.",
+   "mn_latin": "sanal bolgokh"
+  },
+  {
+   "mn": "үнэ цэнэтэй",
+   "en": "good value for money",
+   "pos": "adjective",
+   "example_mn": "Энэ цүнх үнэ цэнэтэй санагдсан.",
+   "example_en": "This bag felt like good value for money.",
+   "mn_latin": "üne tsenetei"
+  },
+  {
+   "mn": "урам хугарах",
+   "en": "to be disappointed",
+   "pos": "verb",
+   "example_mn": "Хүргэлт хоцорсон болохоор би урам хугарсан.",
+   "example_en": "I was disappointed because the delivery was late.",
+   "mn_latin": "uram khugarakh"
+  },
+  {
+   "mn": "сэтгэгдэл",
+   "en": "review, comment",
+   "pos": "noun",
+   "example_mn": "Худалдан авахаасаа өмнө сэтгэгдлийг уншаарай.",
+   "example_en": "Read the reviews before you buy.",
+   "mn_latin": "setgegdel"
+  },
+  {
+   "mn": "чанар",
+   "en": "quality",
+   "pos": "noun",
+   "example_mn": "Материалын чанар сайн байсан.",
+   "example_en": "The quality of the material was good.",
+   "mn_latin": "chanar"
+  },
+  {
+   "mn": "үйлчилгээ",
+   "en": "service",
+   "pos": "noun",
+   "example_mn": "Ажилчдын үйлчилгээ маш эелдэг байсан.",
+   "example_en": "The staff's service was very polite.",
+   "mn_latin": "üilchilgee"
+  },
+  {
+   "mn": "буцаалт",
+   "en": "return, refund",
+   "pos": "noun",
+   "example_mn": "Дэлгүүр буцаалтыг хүлээн авсангүй.",
+   "example_en": "The shop did not accept the return.",
+   "mn_latin": "butsaalt"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ дэлгүүрийн үнэлгээ өндөр байна.",
+   "en": "This shop has a high rating.",
+   "alt_mn": [
+    "Энэ дэлгүүрийн үнэлгээ өндөр."
+   ],
+   "alt_en": [
+    "The rating of this shop is high."
+   ],
+   "mn_latin": "Ene delgüüriin ünelgee öndör baina."
+  },
+  {
+   "mn": "Чанар сайн, харин үнэ нь жаахан өндөр.",
+   "en": "The quality is good, but the price is a bit high.",
+   "alt_mn": [
+    "Чанар сайн боловч үнэ жаахан өндөр."
+   ],
+   "alt_en": [
+    "The quality is good, whereas the price is a bit high."
+   ],
+   "mn_latin": "Chanar sain, kharin üne ni jaakhan öndör."
+  },
+  {
+   "mn": "Би энэ үйлчилгээг найзууддаа санал болгоно.",
+   "en": "I will recommend this service to my friends.",
+   "alt_mn": [
+    "Энэ үйлчилгээг найзууддаа санал болгоно."
+   ],
+   "alt_en": [
+    "I'd recommend this service to my friends."
+   ],
+   "mn_latin": "Bi ene üilchilgeeg naizuuddaa sanal bolgono."
+  },
+  {
+   "mn": "Хүргэлт хурдан байсан ч бүтээгдэхүүн эвдэрхий ирсэн.",
+   "en": "The delivery was fast, but the product arrived broken.",
+   "alt_mn": [
+    "Хүргэлт хурдан байсан боловч бараа эвдэрхий ирсэн."
+   ],
+   "alt_en": [
+    "Delivery was quick, yet the item arrived damaged."
+   ],
+   "mn_latin": "Khürgelt khurdan baisan ch büteegdekhüün evderkhii irsen."
+  },
+  {
+   "mn": "Эхний утас удаан ажиллаж байхад хоёр дахь нь маш хурдан байсан.",
+   "en": "While the first phone ran slowly, the second one was very fast.",
+   "alt_mn": [],
+   "alt_en": [
+    "Whereas the first phone was slow, the second was very fast."
+   ],
+   "mn_latin": "Ekhnii utas udaan ajillaj baikhad khoyor dakhi ni mash khurdan baisan."
+  },
+  {
+   "mn": "Энэ зочид буудал нэг талаараа тохилог, нөгөө талаараа төвөөс хол.",
+   "en": "On the one hand this hotel is comfortable; on the other hand it is far from the center.",
+   "alt_mn": [],
+   "alt_en": [
+    "This hotel is comfortable in one way, but far from the center in another."
+   ],
+   "mn_latin": "Ene zochid buudal neg talaaraa tokhilog, nögöö talaaraa tövöös khol."
+  },
+  {
+   "mn": "Манай хүү шинэ гутлаа үнэ цэнэтэй гэж үзсэн.",
+   "en": "Our son considered his new shoes good value for money.",
+   "alt_mn": [],
+   "alt_en": [
+    "Our son thought his new shoes were worth the money."
+   ],
+   "mn_latin": "Manai khüü shine gutlaa üne tsenetei gej üzsen."
+  },
+  {
+   "mn": "Би хоцорсон хүргэлтэд маш их урам хугарсан.",
+   "en": "I was very disappointed with the late delivery.",
+   "alt_mn": [
+    "Хүргэлт хоцорсонд би маш их урам хугарсан."
+   ],
+   "alt_en": [
+    "I was really disappointed by the delayed delivery."
+   ],
+   "mn_latin": "Bi khotsorson khürgelted mash ikh uram khugarsan."
+  },
+  {
+   "mn": "Энэ апп хэрэглэхэд хялбар бол тэр нь хэтэрхий үнэтэй.",
+   "en": "This app is easy to use, whereas that one is too expensive.",
+   "alt_mn": [],
+   "alt_en": [
+    "This app is easy to use, but that one is too expensive."
+   ],
+   "mn_latin": "Ene app khereglekhed khyalbar bol ter ni kheterkhii ünetei."
+  },
+  {
+   "mn": "Сэтгэгдлүүдийг уншаад бид өөр дэлгүүр сонгосон.",
+   "en": "After reading the reviews, we chose a different shop.",
+   "alt_mn": [
+    "Сэтгэгдлийг уншсаны дараа бид өөр дэлгүүр сонгосон."
+   ],
+   "alt_en": [
+    "Having read the reviews, we picked another store."
+   ],
+   "mn_latin": "Setgegdlüüdiig unshaad bid öör delgüür songoson."
+  },
+  {
+   "mn": "Давуу тал нь олон, харин сул тал нь цөөхөн.",
+   "en": "The pros are many, whereas the cons are few.",
+   "alt_mn": [],
+   "alt_en": [
+    "There are many advantages, but few drawbacks."
+   ],
+   "mn_latin": "Davuu tal ni olon, kharin sul tal ni tsöökhön."
+  },
+  {
+   "mn": "Буцаалт хийх нь хэцүү байсан тул би нэг од өгсөн.",
+   "en": "Returning it was difficult, so I gave one star.",
+   "alt_mn": [
+    "Буцаалт хийхэд хэцүү байсан болохоор нэг од өгсөн."
+   ],
+   "alt_en": [
+    "It was hard to return, so I gave it one star."
+   ],
+   "mn_latin": "Butsaalt khiikh ni khetsüü baisan tul bi neg od ögsön."
+  }
+ ],
+ "grammar": {
+  "title_en": "Expressing contrast: харин, X бол ..., Y бол ..., -ж байхад",
+  "title_mn": "Харьцуулалт ба тэнцвэр: whereas, while, on the other hand",
+  "explain_en": "Use харин to start a clause that contrasts with the previous one: Чанар сайн, харин үнэ өндөр (Quality is good, whereas the price is high). Use a topic pair with бол to compare two things: Энэ утас бол хурдан, тэр бол удаан. The converb -ж байхад ('while/when') sets two situations side by side: Нэг нь удаан ажиллаж байхад нөгөө нь хурдан. For concession, боловч and ч also mean 'but/although'. These match English whereas, while and on the other hand.",
+  "explain_mn": "Монгол хэлэнд харьцуулалтыг харин, 'X бол ..., Y бол ...' бүтэц, -ж байхад хэлбэрээр илэрхийлнэ. Харин нь өмнөх санаатай эсрэгцүүлнэ: Чанар сайн, харин үнэ өндөр. Бол нь хоёр зүйлийг зэрэгцүүлнэ: Энэ утас бол хурдан, тэр бол удаан. -ж байхад нь 'while/when' гэсэн утгатай: Нэг нь удаан ажиллаж байхад нөгөө нь хурдан. Буулт хийх утгаар боловч, ч нь мөн 'but/although' гэсэн утгатай. Эдгээр нь англи хэлний whereas, while, on the other hand-тай тохирно.",
+  "examples": [
+   {
+    "mn": "Өрөө цэвэр, харин ор жаахан жижиг байсан.",
+    "en": "The room was clean, whereas the bed was a bit small.",
+    "mn_latin": "Öröö tsever, kharin or jaakhan jijig baisan."
+   },
+   {
+    "mn": "Энэ ресторан бол хямд, тэр бол үнэтэй.",
+    "en": "This restaurant is cheap, while that one is expensive.",
+    "mn_latin": "Ene ryestoran bol khyamd, ter bol ünetei."
+   },
+   {
+    "mn": "Зарим хүн магтаж бичиж байхад зарим нь шүүмжилсэн.",
+    "en": "While some people wrote praise, others criticized it.",
+    "mn_latin": "Zarim khün magtaj bichij baikhad zarim ni shüümjilsen."
+   },
+   {
+    "mn": "Үнэ өндөр. Нөгөө талаар чанар нь маш сайн.",
+    "en": "The price is high. On the other hand, the quality is excellent.",
+    "mn_latin": "Üne öndör. Nögöö talaar chanar ni mash sain."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Утас хурдан, ___ батарей хурдан дуусдаг.",
+   "answer": "харин",
+   "options": [
+    "харин",
+    "учир нь",
+    "тиймээс",
+    "эсвэл"
+   ],
+   "translation": "The phone is fast, whereas the battery runs out quickly.",
+   "explain_en": "харин introduces a contrasting clause, like whereas.",
+   "explain_mn": "Харин нь өмнөх өгүүлбэртэй эсрэгцүүлэх үед хэрэглэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Нэг нь удаан ажиллаж ___ нөгөө нь хурдан байсан.",
+   "answer": "байхад",
+   "options": [
+    "байхад",
+    "байсан",
+    "байгаад",
+    "байвал"
+   ],
+   "translation": "While one worked slowly, the other was fast.",
+   "explain_en": "-ж байхад means 'while', setting two situations side by side.",
+   "explain_mn": "-ж байхад нь 'while' гэсэн утгатай, хоёр нөхцөлийг зэрэгцүүлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүргэлт хоцорсон болохоор би маш их ___.",
+   "answer": "урам хугарсан",
+   "options": [
+    "урам хугарсан",
+    "санал болгосон",
+    "үнэлсэн",
+    "хямдруулсан"
+   ],
+   "translation": "Because the delivery was late, I was very disappointed.",
+   "explain_en": "урам хугарах means 'to be disappointed'; past tense -сан fits the finished event.",
+   "explain_mn": "Урам хугарах нь disappointed гэсэн утгатай; дууссан үйл явдал тул -сан хэлбэр тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "The hotel is cheap; ___, it is far from the center.",
+   "answer": "on the other hand",
+   "options": [
+    "on the other hand",
+    "because",
+    "so that",
+    "for example"
+   ],
+   "translation": "Зочид буудал хямд; нөгөө талаар төвөөс хол.",
+   "explain_en": "On the other hand introduces a contrasting point.",
+   "explain_mn": "On the other hand нь эсрэг талын санааг оруулдаг."
+  },
+  {
+   "lang": "en",
+   "text": "The first laptop is light, ___ the second is heavy.",
+   "answer": "whereas",
+   "options": [
+    "whereas",
+    "because",
+    "unless",
+    "so"
+   ],
+   "translation": "Эхний зөөврийн компьютер хөнгөн, харин хоёр дахь нь хүнд.",
+   "explain_en": "Whereas joins two contrasting clauses in one sentence.",
+   "explain_mn": "Whereas нь нэг өгүүлбэрт хоёр эсрэг хэсгийг холбоно."
+  },
+  {
+   "lang": "en",
+   "text": "I would ___ this shop to anyone.",
+   "answer": "recommend",
+   "options": [
+    "recommend",
+    "return",
+    "rate",
+    "refuse"
+   ],
+   "translation": "Би энэ дэлгүүрийг хэнд ч санал болгоно.",
+   "explain_en": "Recommend something to someone is the usual review phrase.",
+   "explain_mn": "Recommend нь санал болгох гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Би шинэ чихэвч авах гэж байна. Сэтгэгдлүүдийг уншсан уу?",
+   "en": "I'm going to buy new headphones. Have you read the reviews?",
+   "mn_latin": "Bi shine chikhevch avakh gej baina. Setgegdlüüdiig unshsan uu?"
+  },
+  {
+   "speaker": "James",
+   "mn": "Тийм ээ. Дууны чанар сайн гэсэн, харин батарей сул гэж олон хүн бичсэн.",
+   "en": "Yes. They say the sound quality is good, but many people wrote that the battery is weak.",
+   "mn_latin": "Tiim ee. Duuny chanar sain gesen, kharin bataryei sul gej olon khün bichsen."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Үнэлгээ нь хэд вэ?",
+   "en": "What's the rating?",
+   "mn_latin": "Ünelgee ni khed ve?"
+  },
+  {
+   "speaker": "James",
+   "mn": "Дөрвөн од. Гэхдээ нөгөө загвар арай хямд, дөрөв хагас од авсан.",
+   "en": "Four stars. But the other model is a bit cheaper and got four and a half stars.",
+   "mn_latin": "Dörvön od. Gekhdee nögöö zagvar arai khyamd, döröv khagas od avsan."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Нэг нь үнэтэй байхад нөгөө нь үнэ цэнэтэй санагдаж байна.",
+   "en": "While one is expensive, the other seems like good value for money.",
+   "mn_latin": "Neg ni ünetei baikhad nögöö ni üne tsenetei sanagdaj baina."
+  },
+  {
+   "speaker": "James",
+   "mn": "Нэг хүн урам хугарсан гэжээ, учир нь буцаалт хийж чадаагүй.",
+   "en": "One person said they were disappointed because they couldn't return it.",
+   "mn_latin": "Neg khün uram khugarsan gejee, uchir ni butsaalt khiij chadaagüi."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тэгвэл би буцаалтын нөхцөлийг шалгана.",
+   "en": "Then I'll check the return policy.",
+   "mn_latin": "Tegvel bi butsaaltyn nökhtsöliig shalgana."
+  },
+  {
+   "speaker": "James",
+   "mn": "Сайн санаа. Би чамд хоёр дахь загварыг санал болгоно.",
+   "en": "Good idea. I'd recommend the second model to you.",
+   "mn_latin": "Sain sanaa. Bi chamd khoyor dakhi zagvaryg sanal bolgono."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, many people check reviews in Facebook groups, on shopping pages, and in map apps before choosing a restaurant or shop. Mongolian reviewers are often direct but polite, and they usually mention service and delivery as well as the product. International sites use star ratings, while local posts often add a short, personal comment from friends.",
+  "mn": "Монголд олон хүн ресторан, дэлгүүр сонгохоосоо өмнө Facebook групп, онлайн дэлгүүр, газрын зургийн аппаас сэтгэгдэл уншдаг. Монгол хэрэглэгчид шууд боловч эелдэг бичдэг бөгөөд бүтээгдэхүүнээс гадна үйлчилгээ, хүргэлтийн талаар ихэвчлэн дурддаг. Олон улсын сайтад одоор үнэлдэг бол орон нутгийн постод найз нөхдийн богино хувийн сэтгэгдэл нэмэгддэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 13,
+  "notes": "Mostly good, but there were a few real errors: хугарсан for a product, the illogical 'far from the countryside' hotel line, a mismatched app sentence, and an explanation in Mongolian that only described English."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 11,
+  "notes": "Fixed the mislabeled бол pattern, a few unnatural Mongolian phrases, and mismatches between the en and mn explanations.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "The pattern is 'X бол ..., Y бол ...', not 'мөн ... бол'."
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Wrong pattern name; 'English-ийн' changed to 'англи хэлний'."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Wrong pattern name."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Adds the боловч/ч point that the en version has; 'English-ийн' changed to 'англи хэлний'."
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_en",
+    "why": "More natural English."
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "The clause before 'явдал' had no verb."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "'үнэ ... үнэтэй' (the price is expensive) is redundant."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "'эвдэрсэн ирсэн' is ungrammatical."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "Same error as the main sentence."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "'сайшаалтай бичих' is unnatural."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Now matches the en explanation."
+   }
+  ]
+ }
+}

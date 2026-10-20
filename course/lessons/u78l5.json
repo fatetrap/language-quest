@@ -1,0 +1,478 @@
+{
+ "intro_en": "You will learn to talk about costs, income and profit on a herding household, and to use distributive expressions like 'per head', 'every month' and 'each year' in calculations. You will also practice English 'per capita', 'per annum' and ways to describe rates of change.",
+ "intro_mn": "Та малчин өрхийн зардал, орлого, ашгийн тухай ярьж, «нэг толгой тутамд», «сар бүр», «жил тутам» гэх мэт хуваарилах илэрхийллийг тооцоонд хэрэглэж сурна. Мөн англи хэлний «per capita», «per annum» болон өөрчлөлтийн хувийг хэрхэн илэрхийлэхийг дадлагажина.",
+ "vocab": [
+  {
+   "mn": "зардал",
+   "en": "expense, cost",
+   "pos": "noun",
+   "example_mn": "Өвс, тэжээлийн зардал жил бүр нэмэгдэж байна.",
+   "example_en": "The cost of hay and fodder is rising every year.",
+   "mn_latin": "zardal"
+  },
+  {
+   "mn": "ашиг",
+   "en": "profit",
+   "pos": "noun",
+   "example_mn": "Энэ жил бидний ашиг бага байлаа.",
+   "example_en": "Our profit was small this year.",
+   "mn_latin": "ashig"
+  },
+  {
+   "mn": "алдагдал",
+   "en": "loss, deficit",
+   "pos": "noun",
+   "example_mn": "Өвлийн хүйтнээс болж өрх алдагдалд орсон.",
+   "example_en": "Because of the winter cold, the household ran at a loss.",
+   "mn_latin": "aldagdal"
+  },
+  {
+   "mn": "өртөг",
+   "en": "production cost, unit cost",
+   "pos": "noun",
+   "example_mn": "Нэг кг ноолуурын өртөг өссөн.",
+   "example_en": "The cost of producing a kilogram of cashmere has risen.",
+   "mn_latin": "örtög"
+  },
+  {
+   "mn": "татаас",
+   "en": "subsidy",
+   "pos": "noun",
+   "example_mn": "Засгийн газар малчдад татаас олгодог.",
+   "example_en": "The government gives subsidies to herders.",
+   "mn_latin": "tataas"
+  },
+  {
+   "mn": "зээл",
+   "en": "loan",
+   "pos": "noun",
+   "example_mn": "Бид банкнаас зээл авсан.",
+   "example_en": "We took out a loan from the bank.",
+   "mn_latin": "zeel"
+  },
+  {
+   "mn": "тээврийн зардал",
+   "en": "transport cost",
+   "pos": "noun",
+   "example_mn": "Тээврийн зардал нийт зардлын гуравны нэгийг эзэлдэг.",
+   "example_en": "Transport costs make up a third of total costs.",
+   "mn_latin": "teevriin zardal"
+  },
+  {
+   "mn": "орлого",
+   "en": "income, revenue",
+   "pos": "noun",
+   "example_mn": "Гол орлого нь ноолуур, махнаас гардаг.",
+   "example_en": "The main income comes from cashmere and meat.",
+   "mn_latin": "orlogo"
+  },
+  {
+   "mn": "тооцоолох",
+   "en": "to calculate",
+   "pos": "verb",
+   "example_mn": "Аав жилийн зардлаа тооцоолж байна.",
+   "example_en": "Dad is calculating the annual expenses.",
+   "mn_latin": "tootsoolokh"
+  },
+  {
+   "mn": "өсөлт",
+   "en": "increase, growth",
+   "pos": "noun",
+   "example_mn": "Махны үнийн өсөлт арван хувьд хүрсэн.",
+   "example_en": "The increase in meat prices reached ten percent.",
+   "mn_latin": "ösölt"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай өрх жил тутам өвс, тэжээлд их мөнгө зарцуулдаг.",
+   "en": "Our household spends a lot of money on hay and fodder every year.",
+   "alt_mn": [
+    "Манай өрх жил бүр өвс, тэжээлд их мөнгө зарцуулдаг."
+   ],
+   "alt_en": [
+    "Our household spends a lot on hay and fodder each year."
+   ],
+   "mn_latin": "Manai örkh jil tutam övs, tejeeld ikh möngö zartsuuldag."
+  },
+  {
+   "mn": "Нэг толгой тутамд өвлийн тэжээлийн зардал дунджаар тавин мянган төгрөг болно.",
+   "en": "Winter fodder costs fifty thousand tugriks per head on average.",
+   "alt_mn": [
+    "Нэг толгой мал тутамд өвлийн тэжээлийн зардал дунджаар тавин мянган төгрөг гарна."
+   ],
+   "alt_en": [
+    "On average, winter fodder comes to fifty thousand tugriks for each animal."
+   ],
+   "mn_latin": "Neg tolgoi tutamd övliin tejeeliin zardal dundjaar tavin myangan tögrög bolno."
+  },
+  {
+   "mn": "Сар бүр зээлийнхээ хүүг төлөх ёстой.",
+   "en": "We have to pay the interest on our loan every month.",
+   "alt_mn": [
+    "Сар болгон зээлийнхээ хүүг төлөх ёстой."
+   ],
+   "alt_en": [
+    "Every month we must pay the interest on our loan."
+   ],
+   "mn_latin": "Sar bür zeeliinkhee khüüg tölökh yostoi."
+  },
+  {
+   "mn": "Ноолуурын үнэ унасан тул энэ жил ашиг багассан.",
+   "en": "Profit fell this year because the price of cashmere dropped.",
+   "alt_mn": [
+    "Ноолуурын үнэ буурсан учраас энэ жил ашиг багассан."
+   ],
+   "alt_en": [
+    "This year's profit was lower because cashmere prices fell."
+   ],
+   "mn_latin": "Nooluuryn üne unasan tul ene jil ashig bagassan."
+  },
+  {
+   "mn": "Тээврийн зардлаа тооцвол цэвэр ашиг бараг үлдэхгүй.",
+   "en": "If you count the transport costs, there is hardly any net profit left.",
+   "alt_mn": [
+    "Тээврийн зардлыг тооцвол цэвэр ашиг бараг үлдэхгүй."
+   ],
+   "alt_en": [
+    "Once transport costs are included, almost no net profit remains."
+   ],
+   "mn_latin": "Teevriin zardlaa tootsvol tsever ashig barag üldekhgüi."
+  },
+  {
+   "mn": "Жилийн нийт орлого гурван сая төгрөг, зардал нь дөрвөн сая байсан тул алдагдалтай гарсан.",
+   "en": "Total annual income was three million tugriks and costs were four million, so we ended up at a loss.",
+   "alt_mn": [
+    "Жилийн нийт орлого гурван сая, зардал дөрвөн сая байсан учраас алдагдалтай гарсан."
+   ],
+   "alt_en": [
+    "Our annual income was three million and our costs four million, so we finished with a deficit."
+   ],
+   "mn_latin": "Jiliin niit orlogo gurvan saya tögrög, zardal ni dörvön saya baisan tul aldagdaltai garsan."
+  },
+  {
+   "mn": "Татаас авсан ч өрх зээлээ бүрэн төлж чадаагүй.",
+   "en": "Even with the subsidy, the household could not repay the loan in full.",
+   "alt_mn": [
+    "Татаас авсан ч гэсэн өрх зээлээ бүрэн төлж чадсангүй."
+   ],
+   "alt_en": [
+    "Even after receiving the subsidy, the family couldn't pay off the whole loan."
+   ],
+   "mn_latin": "Tataas avsan ch örkh zeelee büren tölj chadaagüi."
+  },
+  {
+   "mn": "Махны үнэ өнгөрсөн жилээс долоон хувиар өссөн.",
+   "en": "The price of meat rose by seven percent compared with last year.",
+   "alt_mn": [
+    "Махны үнэ өмнөх жилээс долоон хувиар нэмэгдсэн."
+   ],
+   "alt_en": [
+    "Meat prices are up seven percent on last year."
+   ],
+   "mn_latin": "Makhny üne öngörsön jilees doloon khuviar össön."
+  },
+  {
+   "mn": "Нэг хүнд ногдох орлого жилд хоёр сая орчим төгрөг байна.",
+   "en": "Income per capita is about two million tugriks per annum.",
+   "alt_mn": [
+    "Нэг хүнд ногдох жилийн орлого хоёр сая орчим төгрөг байна."
+   ],
+   "alt_en": [
+    "The income per person is around two million tugriks a year."
+   ],
+   "mn_latin": "Neg khünd nogdokh orlogo jild khoyor saya orchim tögrög baina."
+  },
+  {
+   "mn": "Мал аж ахуйн өртөг өсөхөд малчид үнээ нэмэхээс өөр аргагүй болдог.",
+   "en": "When farming costs rise, herders have no choice but to raise their prices.",
+   "alt_mn": [
+    "Мал аж ахуйн зардал өсөхөд малчид үнээ нэмэхээс өөр аргагүй болдог."
+   ],
+   "alt_en": [
+    "As production costs go up, herders are forced to raise prices."
+   ],
+   "mn_latin": "Mal aj akhuin örtög ösökhöd malchid ünee nemekhees öör argagüi boldog."
+  },
+  {
+   "mn": "Бид ямар зардлыг танаж болохыг нягт тооцоолсон.",
+   "en": "We carefully calculated which expenses we could cut.",
+   "alt_mn": [
+    "Бид аль зардлыг танаж болохыг сайтар тооцоолсон."
+   ],
+   "alt_en": [
+    "We worked out carefully which costs could be reduced."
+   ],
+   "mn_latin": "Bid yamar zardlyg tanaj bolokhyg nyagt tootsoolson."
+  },
+  {
+   "mn": "Хоршоонд орсноор нэг кг ноолуур тутамд олох ашиг нэмэгдсэн.",
+   "en": "By joining the cooperative, we increased our profit per kilogram of cashmere.",
+   "alt_mn": [
+    "Хоршоонд нэгдсэнээр нэг кг ноолуур тутмын ашиг өссөн."
+   ],
+   "alt_en": [
+    "Joining the cooperative raised our profit on each kilogram of cashmere."
+   ],
+   "mn_latin": "Khorshoond orsnoor neg kg nooluur tutamd olokh ashig nemegdsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Distributive expressions: тутам, бүр, болгон",
+  "title_mn": "Хуваарилах илэрхийлэл: тутам, бүр, болгон",
+  "explain_en": "Mongolian expresses 'per' and 'every' with words placed after the noun: тутам (each, per), бүр (every) and болгон (every single). Use them with units of time (сар бүр, жил тутам) or counted things (нэг толгой тутамд, нэг кг тутамд). Add a case ending to the last word if the sentence needs it (толгой тутамд = per head, dative-locative). For 'per person' you can also use ногдох: нэг хүнд ногдох орлого. Percent change uses the instrumental: долоон хувиар өссөн (rose by 7%). Combine them freely: «Сар бүр нэг толгой тутамд 2000 төгрөг зарцуулна».",
+  "explain_mn": "Англи хэлэнд «per», «every», «each» гэсэн үгсийг ашигладаг. «Per head», «per month», «per annum», «per capita» гэх мэтээр «per»-ийг нэр үгийн өмнө тавина: «5,000 tugriks per head». Давтамжийг «every month», «each year» гэж хэлнэ; «annually», «monthly» гэсэн дайвар үгсийг мөн хэрэглэнэ. Өөрчлөлтийн хэмжээг «by» угтвартай хэлнэ: «rose by 7%», «fell by 3 percent». «Per capita» нь «нэг хүнд ногдох» гэсэн утгатай бөгөөд ихэвчлэн орлого, хэрэглээний талаар хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Сар бүр зээлийн хүү төлдөг.",
+    "en": "We pay loan interest every month.",
+    "mn_latin": "Sar bür zeeliin khüü töldög."
+   },
+   {
+    "mn": "Нэг толгой тутамд тавин мянган төгрөг зарцуулдаг.",
+    "en": "We spend fifty thousand tugriks per head.",
+    "mn_latin": "Neg tolgoi tutamd tavin myangan tögrög zartsuuldag."
+   },
+   {
+    "mn": "Нэг хүнд ногдох орлого жил тутам өсөж байна.",
+    "en": "Income per capita is rising annually.",
+    "mn_latin": "Neg khünd nogdokh orlogo jil tutam ösöj baina."
+   },
+   {
+    "mn": "Өртөг таван хувиар өссөн.",
+    "en": "The unit cost rose by five percent.",
+    "mn_latin": "Örtög tavan khuviar össön."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нэг толгой ___ тэжээлийн зардал өндөр байна.",
+   "answer": "тутамд",
+   "options": [
+    "тутамд",
+    "тутмыг",
+    "бүрийг",
+    "болгоныг"
+   ],
+   "translation": "The fodder cost per head is high.",
+   "explain_en": "'Per head' is нэг толгой тутамд, with тутам in the dative.",
+   "explain_mn": "«Нэг толгой тутамд» нь «per head» гэсэн утгатай бөгөөд тутам нь өгөх орших тийн «д» нөхцөлтэй."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэд зээлийн хүүгээ сар ___ төлдөг.",
+   "answer": "бүр",
+   "options": [
+    "бүр",
+    "тутмаар",
+    "хүртэл",
+    "гэхэд"
+   ],
+   "translation": "They pay their loan interest every month.",
+   "explain_en": "'Every month' is сар бүр.",
+   "explain_mn": "«Сар бүр» нь «every month» гэсэн утгатай, давтамж заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Махны үнэ найман ___ өссөн.",
+   "answer": "хувиар",
+   "options": [
+    "хувиар",
+    "хувийг",
+    "хувьд",
+    "хувьтай"
+   ],
+   "translation": "The price of meat rose by eight percent.",
+   "explain_en": "The amount of change takes the instrumental: хувь + иар = хувиар.",
+   "explain_mn": "Өөрчлөлтийн хэмжээг үйлдэх тийн ялгалаар («хувиар») илэрхийлнэ: хувь + иар."
+  },
+  {
+   "lang": "en",
+   "text": "Income ___ capita has risen over the last decade.",
+   "answer": "per",
+   "options": [
+    "per",
+    "by",
+    "for",
+    "at"
+   ],
+   "translation": "Нэг хүнд ногдох орлого сүүлийн арван жилд өссөн.",
+   "explain_en": "'Per capita' is the fixed expression meaning 'per person'.",
+   "explain_mn": "«Per capita» нь «нэг хүнд ногдох» гэсэн тогтмол хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "The price of cashmere fell ___ ten percent this year.",
+   "answer": "by",
+   "options": [
+    "by",
+    "to",
+    "of",
+    "at"
+   ],
+   "translation": "Ноолуурын үнэ энэ жил арван хувиар буурсан.",
+   "explain_en": "Use 'by' for the size of a change; 'to' would give the final figure.",
+   "explain_mn": "Өөрчлөлтийн хэмжээг «by» гэж хэлнэ; «to» нь эцсийн тоог заана."
+  },
+  {
+   "lang": "en",
+   "text": "The family pays the bank 200,000 tugriks ___ annum.",
+   "answer": "per",
+   "options": [
+    "per",
+    "on",
+    "in",
+    "each of"
+   ],
+   "translation": "Гэр бүл банканд жилд 200,000 төгрөг төлдөг.",
+   "explain_en": "'Per annum' means 'per year' and is common in finance.",
+   "explain_mn": "«Per annum» нь «жилд» гэсэн санхүүгийн хэллэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Энэ жилийн зардлаа нийлүүлж тооцоолъё. Өвс, тэжээл хэд болов?",
+   "en": "Let's add up this year's costs. How much were hay and fodder?",
+   "mn_latin": "Ene jiliin zardlaa niilüülj tootsoolyo. Övs, tejeel khed bolov?"
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Нэг толгой тутамд дунджаар тавин мянга, нийт гурван зуун толгойд арван таван сая.",
+   "en": "On average fifty thousand per head, so fifteen million for three hundred animals.",
+   "mn_latin": "Neg tolgoi tutamd dundjaar tavin myanga, niit gurvan zuun tolgoid arvan tavan saya."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тээвэр, зээлийн хүү нэмбэл дахиад зургаан сая гарна. Зээлийн хүүг сар бүр төлдөг шүү дээ.",
+   "en": "Adding transport and loan interest comes to another six million. We pay the interest every month, after all.",
+   "mn_latin": "Teever, zeeliin khüü nembel dakhiad zurgaan saya garna. Zeeliin khüüg sar bür töldög shüü dee."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Орлого хэд вэ? Ноолуур, ноос, махнаас хичнээн олсон бэ?",
+   "en": "And the income? How much did we get from cashmere, wool and meat?",
+   "mn_latin": "Orlogo khed ve? Nooluur, noos, makhnaas khichneen olson be?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Нийт нь хорин сая. Тэгэхээр зардлаа хасвал алдагдал гарна.",
+   "en": "Twenty million in total. So after subtracting costs, we are at a loss.",
+   "mn_latin": "Niit ni khorin saya. Tegekheer zardlaa khasval aldagdal garna."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Татаасыг нэмбэл яах вэ? Хоршоо нэг кг ноолуур тутамд илүү үнэ өгч байгаа.",
+   "en": "What if we add the subsidy? The cooperative pays more per kilogram of cashmere.",
+   "mn_latin": "Tataasyg nembel yaakh ve? Khorshoo neg kg nooluur tutamd ilüü üne ögch baigaa."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэгвэл ашиг бага ч гэсэн гарна. Ирэх жил тээврийн зардлыг хоёр хувиар танах арга бодъё.",
+   "en": "Then we'd make a small profit at least. Next year let's find a way to cut transport costs by two percent.",
+   "mn_latin": "Tegvel ashig baga ch gesen garna. Irekh jil teevriin zardlyg khoyor khuviar tanakh arga bodyo."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian herders face costs that swing with the weather: a harsh winter (zud) can force them to buy expensive hay and fodder and push a household into debt. Many families rely on bank loans, state subsidies and cooperatives to even out income from cashmere, wool and meat. Because cashmere prices are set on world markets, herders often discuss them as closely as city dwellers discuss salaries.",
+  "mn": "Монгол малчдын зардал цаг агаараас хамаарч огцом өөрчлөгддөг: хүнд өвөл буюу зуд болоход үнэтэй өвс, тэжээл худалдаж авахаас өөр аргагүй болж, өрх өрөнд орох нь бий. Олон өрх ноолуур, ноос, махны орлогоо жигдрүүлэхийн тулд банкны зээл, төрийн татаас, хоршоонд тулгуурладаг. Ноолуурын үнэ дэлхийн зах зээлээр тодорхойлогддог тул малчид үүнийг хотынхон цалингаа ярьдагтай адил анхааралтай ярьдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 15,
+  "notes": "Mostly good content; main real error is the instrumental suffix хувиар (-иар, not -аар) in a fill-in item, plus a non-unique option and a few awkward phrasings."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed the dialogue arithmetic, ambiguous and malformed blanks, a dangling modifier, and several Mongolian wording issues.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "The example didn't use the headword өсөлт"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "Matches the new example"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "Хөдөө аж ахуй (agriculture in general) changed the meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "«нягтлан тооцоолсон» is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "en",
+    "why": "Dangling modifier"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Standard spelling is өсөж"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "«толгой тутмын зардал» is also correct, so the blank had two answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Typo: жийн → тийн"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "хувь + иар doesn't join into хувиар (ь drops)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "Use the full correct form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Full forms to match the new blank"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Costs are 21M, so 22M income would be a profit, not a loss"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "Matches the corrected figure"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The English says 'can force'; the Mongolian stated it as always happening"
+   }
+  ]
+ }
+}

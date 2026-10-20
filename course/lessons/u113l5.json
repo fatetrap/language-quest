@@ -1,0 +1,406 @@
+{
+ "intro_en": "In this lesson you will learn how to talk about fire safety at home in winter: electric heaters, overloaded sockets, smoke alarms, fire extinguishers, and calling 101. You will also learn how to give negative warnings in Mongolian with -хаас болгоомжлох and -хгүй байхыг анхаарах.",
+ "intro_mn": "Энэ хичээлээр өвлийн улиралд гэртээ галын аюулаас хэрхэн сэргийлэх тухай ярьж сурна. Цахилгаан халаагуур, ачаалал хэтэрсэн залгуур, утааны дохиолол, гал унтраагуур, 101 руу залгах тухай үзнэ. Мөн англи хэлний \"be careful not to\" болон \"watch out for\" хоёрын ялгааг судална.",
+ "vocab": [
+  {
+   "mn": "гал унтраагуур",
+   "en": "fire extinguisher",
+   "pos": "noun",
+   "example_mn": "Гал унтраагуур гал тогооны хаалганы дэргэд байдаг.",
+   "example_en": "The fire extinguisher is by the kitchen door.",
+   "mn_latin": "gal untraaguur"
+  },
+  {
+   "mn": "богино холбоо",
+   "en": "short circuit",
+   "pos": "noun",
+   "example_mn": "Хуучин утаснаас болж богино холбоо үүсчээ.",
+   "example_en": "A short circuit happened because of an old wire.",
+   "mn_latin": "bogino kholboo"
+  },
+  {
+   "mn": "утааны дохиолол",
+   "en": "smoke alarm",
+   "pos": "noun",
+   "example_mn": "Утааны дохиолол шөнө гэнэт дуугарлаа.",
+   "example_en": "The smoke alarm suddenly went off at night.",
+   "mn_latin": "utaany dokhiolol"
+  },
+  {
+   "mn": "ачаалал хэтрэх",
+   "en": "to be overloaded",
+   "pos": "verb phrase",
+   "example_mn": "Залгуурын ачаалал хэтэрвэл аюултай.",
+   "example_en": "It's dangerous if the socket is overloaded.",
+   "mn_latin": "achaalal khetrekh"
+  },
+  {
+   "mn": "цахилгаан халаагуур",
+   "en": "electric heater",
+   "pos": "noun",
+   "example_mn": "Өвөл бид цахилгаан халаагуур ашигладаг.",
+   "example_en": "We use an electric heater in the winter.",
+   "mn_latin": "tsakhilgaan khalaaguur"
+  },
+  {
+   "mn": "залгуур",
+   "en": "socket, outlet",
+   "pos": "noun",
+   "example_mn": "Энэ залгуур хэт халж байна.",
+   "example_en": "This outlet is getting too hot.",
+   "mn_latin": "zalguur"
+  },
+  {
+   "mn": "уртасгагч",
+   "en": "extension cord",
+   "pos": "noun",
+   "example_mn": "Уртасгагчид халаагуур бүү залгаарай.",
+   "example_en": "Don't plug a heater into an extension cord.",
+   "mn_latin": "urtasgagch"
+  },
+  {
+   "mn": "болгоомжлох",
+   "en": "to be careful, to watch out",
+   "pos": "verb",
+   "example_mn": "Халуун зуухнаас болгоомжлоорой.",
+   "example_en": "Watch out for the hot stove.",
+   "mn_latin": "bolgoomjlokh"
+  },
+  {
+   "mn": "гал гарах",
+   "en": "a fire breaks out",
+   "pos": "verb phrase",
+   "example_mn": "Өчигдөр хөршийн байранд гал гарсан.",
+   "example_en": "A fire broke out in the neighbors' building yesterday.",
+   "mn_latin": "gal garakh"
+  },
+  {
+   "mn": "дуугарах",
+   "en": "to go off, to sound (of an alarm)",
+   "pos": "verb",
+   "example_mn": "Дохиолол дуугармагц бид гадагш гарсан.",
+   "example_en": "As soon as the alarm went off, we went outside.",
+   "mn_latin": "duugarakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Нэг залгуурт хэт олон төхөөрөмж залгахаас болгоомжлоорой.",
+   "en": "Be careful not to plug too many devices into one outlet.",
+   "alt_mn": [
+    "Нэг залгуурт хэт олон төхөөрөмж бүү залгаарай."
+   ],
+   "alt_en": [
+    "Be careful not to plug too many devices into one socket."
+   ],
+   "mn_latin": "Neg zalguurt khet olon tökhöörömj zalgakhaas bolgoomjlooroi."
+  },
+  {
+   "mn": "Залгуурын ачаалал хэтэрвэл богино холбоо үүсч, гал гарч болзошгүй.",
+   "en": "If the outlet is overloaded, a short circuit can happen and start a fire.",
+   "alt_mn": [
+    "Залгуурын ачаалал хэтэрвэл богино холбоо үүсч, гал гарч болно."
+   ],
+   "alt_en": [
+    "If the socket is overloaded, it can cause a short circuit and a fire."
+   ],
+   "mn_latin": "Zalguuryn achaalal khetervel bogino kholboo üüsch, gal garch bolzoshgüi."
+  },
+  {
+   "mn": "Цахилгаан халаагуурыг хөшиг, буйдангаас хол байрлуулаарай.",
+   "en": "Keep the electric heater away from the curtains and the sofa.",
+   "alt_mn": [
+    "Цахилгаан халаагуурыг хөшиг, буйдангаас холдуулж тавиарай."
+   ],
+   "alt_en": [
+    "Place the electric heater away from the curtains and the couch."
+   ],
+   "mn_latin": "Tsakhilgaan khalaaguuryg khöshig, buidangaas khol bairluulaarai."
+  },
+  {
+   "mn": "Унтахаасаа өмнө халаагуураа унтраахаа мартахгүй байхыг анхаараарай.",
+   "en": "Be careful not to forget to turn off the heater before you go to bed.",
+   "alt_mn": [
+    "Унтахаасаа өмнө халаагуураа унтраахаа бүү мартаарай."
+   ],
+   "alt_en": [
+    "Make sure you don't forget to turn off the heater before bed."
+   ],
+   "mn_latin": "Untakhaasaa ömnö khalaaguuraa untraakhaa martakhgüi baikhyg ankhaaraarai."
+  },
+  {
+   "mn": "Утааны дохиоллын зай суларсан эсэхийг сар бүр шалгаарай.",
+   "en": "Check every month whether the smoke alarm battery is low.",
+   "alt_mn": [],
+   "alt_en": [
+    "Check the smoke alarm battery every month to see if it's low."
+   ],
+   "mn_latin": "Utaany dokhiollyn zai sularsan esekhiig sar bür shalgaarai."
+  },
+  {
+   "mn": "Манай гал тогоонд гал унтраагуур байгаа юу?",
+   "en": "Do we have a fire extinguisher in our kitchen?",
+   "alt_mn": [
+    "Манай гал тогоонд гал унтраагуур бий юу?"
+   ],
+   "alt_en": [
+    "Is there a fire extinguisher in our kitchen?"
+   ],
+   "mn_latin": "Manai gal togoond gal untraaguur baigaa yuu?"
+  },
+  {
+   "mn": "Гал гарвал тайван байж, 101 руу шууд залгаарай.",
+   "en": "If a fire breaks out, stay calm and call 101 right away.",
+   "alt_mn": [
+    "Гал гарвал тайван байгаад 101 руу даруй залгаарай."
+   ],
+   "alt_en": [
+    "If there's a fire, stay calm and call 101 immediately."
+   ],
+   "mn_latin": "Gal garval taivan baij, 101 ruu shuud zalgaarai."
+  },
+  {
+   "mn": "Хуучирсан, хагарсан утаснаас болгоомжлоорой.",
+   "en": "Watch out for old, cracked cords.",
+   "alt_mn": [],
+   "alt_en": [
+    "Watch out for worn, cracked wires."
+   ],
+   "mn_latin": "Khuuchirsan, khagarsan utasnaas bolgoomjlooroi."
+  },
+  {
+   "mn": "Гал унтраагуурыг хэрхэн ашиглахыг гэр бүлээрээ урьдчилан сураарай.",
+   "en": "Learn ahead of time, as a family, how to use the fire extinguisher.",
+   "alt_mn": [],
+   "alt_en": [
+    "As a family, learn in advance how to use a fire extinguisher."
+   ],
+   "mn_latin": "Gal untraaguuryg kherkhen ashiglakhyg ger büleeree uridchilan suraarai."
+  },
+  {
+   "mn": "Цахилгааны гал дээр ус цацахаас болгоомжлоорой.",
+   "en": "Be careful not to throw water on an electrical fire.",
+   "alt_mn": [
+    "Цахилгааны гал дээр ус бүү цацаарай."
+   ],
+   "alt_en": [
+    "Be careful not to pour water on an electrical fire."
+   ],
+   "mn_latin": "Tsakhilgaany gal deer us tsatsakhaas bolgoomjlooroi."
+  },
+  {
+   "mn": "Утааны дохиолол дуугармагц бид бүгд шууд гадагш гарсан.",
+   "en": "As soon as the smoke alarm went off, we all went straight outside.",
+   "alt_mn": [
+    "Утааны дохиолол дуугарахад бид бүгд даруй гадагш гарсан."
+   ],
+   "alt_en": [
+    "When the smoke alarm went off, we all went outside immediately."
+   ],
+   "mn_latin": "Utaany dokhiolol duugarmagts bid bügd shuud gadagsh garsan."
+  },
+  {
+   "mn": "Халаагуурыг уртасгагчаар залгахгүй байхыг зөвлөж байна.",
+   "en": "It's recommended not to plug a heater into an extension cord.",
+   "alt_mn": [
+    "Халаагуурыг уртасгагчид залгахгүй байхыг зөвлөдөг."
+   ],
+   "alt_en": [
+    "We recommend not plugging a heater into an extension cord."
+   ],
+   "mn_latin": "Khalaaguuryg urtasgagchaar zalgakhgüi baikhyg zövlöj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Negative warnings: -хаас болгоомжлох and -хгүй байхыг анхаарах",
+  "title_mn": "\"Be careful not to\" ба \"watch out for\"",
+  "explain_en": "Mongolian has two common ways to give a safety warning. (1) Verb + -х + ablative -аас/-ээс/-оос/-өөс + болгоомжлох means \"be careful not to do X\" or \"beware of doing X\": залгахаас болгоомжлоорой, \"be careful not to plug in.\" The same pattern works with nouns for things to watch out for: утаснаас болгоомжлоорой, \"watch out for the cord.\" (2) Verb + -хгүй байх + accusative -ыг/-ийг + анхаарах means \"take care not to do X.\" It is often used for mistakes like forgetting: мартахгүй байхыг анхаараарай, \"be careful not to forget.\" To remind someone to do something, the simplest option is -хаа бүү мартаарай: зайгаа солихоо бүү мартаарай, \"don't forget to replace the battery.\" Add -аарай/-ээрэй for a polite request, or -на уу on official notices.",
+  "explain_mn": "Англи хэлэнд анхааруулахдаа хоёр хэллэг их хэрэглэдэг. \"Be careful not to + үйл үг\" нь өөрөө хийж болзошгүй алдаанаас сэрэмжлүүлнэ: \"Be careful not to overload the outlet\" буюу \"Залгуурын ачааллыг хэтрүүлэхээс болгоомжлоорой.\" \"Not\" нь \"to\"-гийн өмнө ордог. \"Be careful to not\" гэж хэлж болох ч бичгийн хэлэнд \"not to\" нь илүү түгээмэл. \"Watch out for + нэр үг/-ing\" нь гаднаас ирж болох аюулд анхаарал хандуулна: \"Watch out for frayed cords\" буюу \"Элэгдсэн утаснаас болгоомжлоорой.\" Товчоор: be careful not to нь \"битгий ингээрэй\" гэсэн утгатай, watch out for нь \"тэрийг анхаараарай\" гэсэн утгатай.",
+  "examples": [
+   {
+    "mn": "Залгуурын ачааллыг хэтрүүлэхээс болгоомжлоорой.",
+    "en": "Be careful not to overload the outlet.",
+    "mn_latin": "Zalguuryn achaallyg khetrüülekhees bolgoomjlooroi."
+   },
+   {
+    "mn": "Халаагуурын дэргэд хувцас хатаахгүй байхыг анхаараарай.",
+    "en": "Be careful not to dry clothes next to the heater.",
+    "mn_latin": "Khalaaguuryn derged khuvtsas khataakhgüi baikhyg ankhaaraarai."
+   },
+   {
+    "mn": "Буйдангийн ард байгаа хагарсан утаснаас болгоомжлоорой.",
+    "en": "Watch out for the cracked cord behind the sofa.",
+    "mn_latin": "Buidangiin ard baigaa khagarsan utasnaas bolgoomjlooroi."
+   },
+   {
+    "mn": "Утааны дохиоллын зайгаа солихоо бүү мартаарай.",
+    "en": "Don't forget to replace the smoke alarm battery.",
+    "mn_latin": "Utaany dokhiollyn zaigaa solikhoo büü martaarai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нэг залгуурт олон төхөөрөмж залгах___ болгоомжлоорой.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "ыг",
+    "д",
+    "аар"
+   ],
+   "translation": "Be careful not to plug many devices into one outlet.",
+   "explain_en": "болгоомжлох takes the ablative case (-аас), so the verb залгах becomes залгахаас, \"(be careful) of plugging in.\"",
+   "explain_mn": "\"Болгоомжлох\" үйл үг гарах тийн ялгал (-аас) шаарддаг тул \"залгахаас болгоомжлох\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Унтахаасаа өмнө халаагуураа унтраахаа марта___ байхыг анхаараарай.",
+   "answer": "хгүй",
+   "options": [
+    "хгүй",
+    "хаас",
+    "хыг",
+    "хаар"
+   ],
+   "translation": "Be careful not to forget to turn off the heater before you go to bed.",
+   "explain_en": "To say \"take care NOT to forget,\" use the negative -хгүй before байх: мартахгүй байхыг анхаараарай.",
+   "explain_mn": "Үгүйсгэлийн \"-хгүй байх\" хэлбэр \"мартахгүй байх\" гэсэн утга өгдөг. \"Анхаарах\" үйл үг заах тийн ялгал (-ыг) шаарддаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Хуучин утаснаас болж ___ холбоо үүсч болно.",
+   "answer": "богино",
+   "options": [
+    "богино",
+    "урт",
+    "хүчтэй",
+    "бага"
+   ],
+   "translation": "An old wire can cause a short circuit.",
+   "explain_en": "\"Short circuit\" in Mongolian is богино холбоо, literally \"short connection.\"",
+   "explain_mn": "\"Богино холбоо\" нь англиар \"short circuit\" гэсэн тогтвортой нэр томьёо."
+  },
+  {
+   "lang": "en",
+   "text": "Be careful ___ to overload the outlet.",
+   "answer": "not",
+   "options": [
+    "not",
+    "no",
+    "don't",
+    "without"
+   ],
+   "translation": "Залгуурын ачааллыг хэтрүүлэхээс болгоомжлоорой.",
+   "explain_en": "The pattern is \"be careful not to + verb.\" \"Not\" goes directly before \"to.\"",
+   "explain_mn": "\"Be careful not to + үйл үг\" загвар. \"Not\" нь \"to\"-гийн өмнө ордог. \"Don't\" эсвэл \"no\" энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Watch out ___ frayed cords behind the sofa.",
+   "answer": "for",
+   "options": [
+    "for",
+    "to",
+    "from",
+    "at"
+   ],
+   "translation": "Буйдангийн ард байгаа элэгдсэн утаснаас болгоомжлоорой.",
+   "explain_en": "\"Watch out for\" + noun is the fixed phrase for pointing out a danger.",
+   "explain_mn": "\"Watch out for\" нь нэр үгтэй хамт хэрэглэгддэг тогтвортой хэллэг. Монгол хэлний \"-аас болгоомжлох\" гэдэгтэй дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Our smoke ___ went off when the toast burned.",
+   "answer": "alarm",
+   "options": [
+    "alarm",
+    "extinguisher",
+    "circuit",
+    "socket"
+   ],
+   "translation": "Талх түлэгдэхэд манай утааны дохиолол дуугарсан.",
+   "explain_en": "A smoke alarm is the device that \"goes off\" when it detects smoke.",
+   "explain_mn": "\"Smoke alarm\" буюу утааны дохиолол утаа мэдрэхдээ дуугардаг. Англиар \"go off\" гэж хэлдэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Эмма, та нэг залгуурт халаагуур, данх, утасны цэнэглэгч гурвыг зэрэг залгачихсан байна.",
+   "en": "Emma, you've got the heater, the kettle, and a phone charger all plugged into one outlet.",
+   "mn_latin": "Emma, ta neg zalguurt khalaaguur, dankh, utasny tseneglegch gurvyg zereg zalgachikhsan baina."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Тийм ээ, өөр залгуур байхгүй болохоор. Аюултай юу?",
+   "en": "Yeah, there's no other outlet. Is that dangerous?",
+   "mn_latin": "Tiim ee, öör zalguur baikhgüi bolokhoor. Ayuultai yuu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм. Ачаалал хэтэрвэл богино холбоо үүсч, гал гарч болзошгүй. Ялангуяа халаагуурыг тусад нь залгаарай.",
+   "en": "Yes. If it's overloaded, there could be a short circuit and a fire. Especially the heater: plug that in separately.",
+   "mn_latin": "Tiim. Achaalal khetervel bogino kholboo üüsch, gal garch bolzoshgüi. Yalanguyaa khalaaguuryg tusad ni zalgaarai."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "За ойлголоо. Тэгвэл уртасгагч ашиглаж болох уу?",
+   "en": "Okay, got it. Can I use an extension cord, then?",
+   "mn_latin": "Za oilgoloo. Tegvel urtasgagch ashiglaj bolokh uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Халаагуурыг уртасгагчаар залгахгүй байхыг зөвлөж байна. Хагарсан утаснаас бас болгоомжлоорой.",
+   "en": "I recommend not plugging the heater into an extension cord. And watch out for cracked cords, too.",
+   "mn_latin": "Khalaaguuryg urtasgagchaar zalgakhgüi baikhyg zövlöj baina. Khagarsan utasnaas bas bolgoomjlooroi."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Манайд гал унтраагуур байгаа юу? Би хаана байдгийг нь мэдэхгүй байна.",
+   "en": "Do we have a fire extinguisher? I don't know where it is.",
+   "mn_latin": "Manaid gal untraaguur baigaa yuu? Bi khaana baidgiig ni medekhgüi baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Үүдний шүүгээнд байгаа. Гал гарвал тайван байж, 101 руу шууд залгаарай.",
+   "en": "It's in the hallway closet. If a fire breaks out, stay calm and call 101 right away.",
+   "mn_latin": "Üüdnii shüügeend baigaa. Gal garval taivan baij, 101 ruu shuud zalgaarai."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Баярлалаа. Унтахаасаа өмнө халаагуураа унтраахаа мартахгүй байхыг анхаарна.",
+   "en": "Thanks. I'll be careful not to forget to turn off the heater before bed.",
+   "mn_latin": "Bayarlalaa. Untakhaasaa ömnö khalaaguuraa untraakhaa martakhgüi baikhyg ankhaarna."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, 101 is the emergency number for fires, answered by the National Emergency Management Agency. House fires rise sharply in winter, especially in Ulaanbaatar's ger districts. Coal stoves, electric heaters running for hours, and old or overloaded wiring are common causes. Every autumn, emergency services run awareness campaigns that remind families to check their smoke alarms and avoid overloading outlets.",
+  "mn": "Монголд гал түймрийн үед 101 дугаарт залгадаг бөгөөд Онцгой байдлын ерөнхий газар хүлээн авдаг. Өвлийн улиралд, ялангуяа Улаанбаатарын гэр хорооллуудад айл өрхийн гал түймэр эрс нэмэгддэг. Нүүрсний зуух, олон цаг ажилласан цахилгаан халаагуур, хуучирсан эсвэл ачаалал хэтэрсэн цахилгааны утас нь гол шалтгаанууд юм. Жил бүрийн намар онцгой байдлын алба сурталчилгааны аян зохион байгуулж, айл өрхүүдэд утааны дохиоллоо шалгаж, залгуурын ачааллыг хэтрүүлэхгүй байхыг сануулдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, natural lesson overall. The main problem was an unnatural double-negative pattern taught in the grammar section."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "Solid lesson overall; only a dialogue mistranslation and a culture-note mismatch needed fixing.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "ялангуяа means 'especially', not 'at least'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "орон сууц means apartments, which doesn't fit ger districts; added the awareness campaigns to match the en version"
+   }
+  ]
+ }
+}

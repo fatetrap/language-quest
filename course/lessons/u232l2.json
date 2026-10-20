@@ -1,0 +1,448 @@
+{
+ "intro_en": "Plan and record a podcast episode with a co-host, using key recording terms such as recording, episode, editing and listener. You'll also hear the hidden vowels Mongolians pronounce in consonant clusters, and practice English words whose stress changes between noun and verb.",
+ "intro_mn": "Хамтран хөтлөгчтэйгөө подкастын дугаар төлөвлөж, бичлэг хийхэд хэрэгтэй бичлэг, дугаар, засварлах, сонсогч зэрэг үгсийг сурна. Мөн монгол хэлний гийгүүлэгчийн давхцал дунд бичигддэггүй ч дуудагддаг далд эгшгийг сонсож, англи хэлний нэр үг, үйл үг болохдоо өргөлтөө сольдог үгсийг давтана.",
+ "vocab": [
+  {
+   "mn": "бичлэг",
+   "en": "recording",
+   "pos": "noun",
+   "example_mn": "Энэ бичлэгт шуугиан их орсон байна.",
+   "example_en": "There's a lot of noise in this recording.",
+   "mn_latin": "bichleg"
+  },
+  {
+   "mn": "дугаар",
+   "en": "episode",
+   "pos": "noun",
+   "example_mn": "Шинэ дугаар маань баасан гаригт гарна.",
+   "example_en": "Our new episode comes out on Friday.",
+   "mn_latin": "dugaar"
+  },
+  {
+   "mn": "микрофон",
+   "en": "microphone",
+   "pos": "noun",
+   "example_mn": "Микрофоноо жаахан доошлуулаарай.",
+   "example_en": "Lower your microphone a little.",
+   "mn_latin": "mikrofon"
+  },
+  {
+   "mn": "засварлах",
+   "en": "to edit",
+   "pos": "verb",
+   "example_mn": "Бичлэгээ өнөө орой засварлана.",
+   "example_en": "I'll edit the recording tonight.",
+   "mn_latin": "zasvarlakh"
+  },
+  {
+   "mn": "сонсогч",
+   "en": "listener",
+   "pos": "noun",
+   "example_mn": "Сонсогчид их олон асуулт илгээсэн.",
+   "example_en": "Listeners sent in a lot of questions.",
+   "mn_latin": "sonsogch"
+  },
+  {
+   "mn": "хөтлөгч",
+   "en": "host",
+   "pos": "noun",
+   "example_mn": "Тэр бол манай подкастын хөтлөгч.",
+   "example_en": "She's the host of our podcast.",
+   "mn_latin": "khötlögch"
+  },
+  {
+   "mn": "хамтран хөтлөгч",
+   "en": "co-host",
+   "pos": "noun",
+   "example_mn": "Хамтран хөтлөгч маань өнөөдөр өвчтэй байна.",
+   "example_en": "My co-host is sick today.",
+   "mn_latin": "khamtran khötlögch"
+  },
+  {
+   "mn": "сэдэв",
+   "en": "topic",
+   "pos": "noun",
+   "example_mn": "Энэ удаагийн сэдэв бол Цагаан сар.",
+   "example_en": "This time the topic is Tsagaan Sar.",
+   "mn_latin": "sedev"
+  },
+  {
+   "mn": "нийтлэх",
+   "en": "to publish, to post",
+   "pos": "verb",
+   "example_mn": "Дугаараа лхагва гаригт нийтэлдэг.",
+   "example_en": "We publish our episodes on Wednesdays.",
+   "mn_latin": "niitlekh"
+  },
+  {
+   "mn": "гэрээ",
+   "en": "contract",
+   "pos": "noun",
+   "example_mn": "Ивээн тэтгэгчтэй гэрээ байгууллаа.",
+   "example_en": "We signed a contract with a sponsor.",
+   "mn_latin": "geree"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид дараагийн дугаарынхаа сэдвийг энэ долоо хоногт тохиролцох хэрэгтэй.",
+   "en": "We need to agree on the topic of our next episode this week.",
+   "alt_mn": [
+    "Дараагийн дугаарынхаа сэдвийг бид энэ долоо хоногт тохиролцох хэрэгтэй."
+   ],
+   "alt_en": [
+    "We have to settle on the topic for our next episode this week."
+   ],
+   "mn_latin": "Bid daraagiin dugaarynkhaa sedviig ene doloo khonogt tokhiroltsokh kheregtei."
+  },
+  {
+   "mn": "Хамтран хөтлөгч маань бичлэгийг засварлах ажлыг хариуцна.",
+   "en": "My co-host will be in charge of editing the recording.",
+   "alt_mn": [
+    "Бичлэгийг засварлах ажлыг хамтран хөтлөгч маань хариуцна."
+   ],
+   "alt_en": [
+    "My co-host will take care of editing the recording."
+   ],
+   "mn_latin": "Khamtran khötlögch maani bichlegiig zasvarlakh ajlyg khariutsna."
+  },
+  {
+   "mn": "Микрофоныг амандаа хэт ойртуулбал таны амьсгал бичлэгт орно.",
+   "en": "If you hold the microphone too close to your mouth, your breathing will end up in the recording.",
+   "alt_mn": [
+    "Микрофоныг амандаа хэт ойр барьвал таны амьсгал бичлэгт орно."
+   ],
+   "alt_en": [
+    "If the mic is too close to your mouth, your breathing gets recorded."
+   ],
+   "mn_latin": "Mikrofonyg amandaa khet oirtuulbal tany amisgal bichlegt orno."
+  },
+  {
+   "mn": "Сонсогчдын тоо сүүлийн гурван сард хоёр дахин өссөн.",
+   "en": "The number of listeners has doubled over the last three months.",
+   "alt_mn": [
+    "Сүүлийн гурван сард сонсогчдын тоо хоёр дахин өсчээ."
+   ],
+   "alt_en": [
+    "Our listener count has doubled in the past three months."
+   ],
+   "mn_latin": "Sonsogchdyn too süüliin gurvan sard khoyor dakhin össön."
+  },
+  {
+   "mn": "Ивээн тэтгэгчтэй гэрээ байгуулахаасаа өмнө нөхцөлийг нь сайн уншиж үзэх ёстой.",
+   "en": "We should read the terms carefully before we sign a contract with a sponsor.",
+   "alt_mn": [
+    "Ивээн тэтгэгчтэй гэрээ хийхээсээ өмнө нөхцөлийг нь сайн унших хэрэгтэй."
+   ],
+   "alt_en": [
+    "Before signing a contract with a sponsor, we should read the terms carefully."
+   ],
+   "mn_latin": "Iveen tetgegchtei geree baiguulakhaasaa ömnö nökhtsöliig ni sain unshij üzekh yostoi."
+  },
+  {
+   "mn": "Энэ хэсгийг дахин бичье, ард нэг машин дохио дарчихлаа.",
+   "en": "Let's record this part again; a car honked in the background.",
+   "alt_mn": [
+    "Энэ хэсгийг дахиж бичье, ард машин дохио дарчихлаа."
+   ],
+   "alt_en": [
+    "Let's redo this part; a car honked in the background."
+   ],
+   "mn_latin": "Ene khesgiig dakhin bichiye, ard neg mashin dokhio darchikhlaa."
+  },
+  {
+   "mn": "Бид анхны дугаараа ажлаа тараад орой гэртээ бичсэн.",
+   "en": "We recorded our first episode at home in the evening after work.",
+   "alt_mn": [
+    "Анхны дугаараа бид ажлаа тараад орой гэртээ бичсэн."
+   ],
+   "alt_en": [
+    "We recorded our first episode at home one evening after work."
+   ],
+   "mn_latin": "Bid ankhny dugaaraa ajlaa taraad oroi gertee bichsen."
+  },
+  {
+   "mn": "Зочин маань аль нэг асуултыг эсэргүүцвэл бид тэр хэсгийг хасна.",
+   "en": "If our guest objects to any question, we'll cut that part.",
+   "alt_mn": [
+    "Хэрэв зочин маань нэг асуултыг эсэргүүцвэл бид тэр хэсгийг хасна."
+   ],
+   "alt_en": [
+    "If the guest objects to a question, we'll cut that section."
+   ],
+   "mn_latin": "Zochin maani ali neg asuultyg esergüütsvel bid ter khesgiig khasna."
+  },
+  {
+   "mn": "Засварлахад бичлэг хийснээс гурав дахин их цаг зарцуулдаг.",
+   "en": "Editing takes three times as long as recording.",
+   "alt_mn": [
+    "Засварлах ажил бичлэг хийхээс гурав дахин их цаг авдаг."
+   ],
+   "alt_en": [
+    "Editing takes three times longer than recording."
+   ],
+   "mn_latin": "Zasvarlakhad bichleg khiisnees gurav dakhin ikh tsag zartsuuldag."
+  },
+  {
+   "mn": "Сонсогчид хөтлөгч нарын хоорондын хөгжилтэй яриаг хамгийн их сонирхдог.",
+   "en": "Listeners are most interested in the fun back-and-forth between the hosts.",
+   "alt_mn": [
+    "Сонсогчдод хөтлөгчдийн хоорондын хөгжилтэй яриа хамгийн их таалагддаг."
+   ],
+   "alt_en": [
+    "What listeners love most is the playful banter between the hosts."
+   ],
+   "mn_latin": "Sonsogchid khötlögch naryn khoorondyn khögjiltei yariag khamgiin ikh sonirkhdog."
+  },
+  {
+   "mn": "Бид шинэ дугаар бүрээ лхагва гаригийн өглөө нийтэлдэг.",
+   "en": "We publish every new episode on Wednesday morning.",
+   "alt_mn": [
+    "Шинэ дугаар бүрийг лхагва гарагийн өглөө нийтэлдэг."
+   ],
+   "alt_en": [
+    "Each new episode goes out on Wednesday mornings."
+   ],
+   "mn_latin": "Bid shine dugaar büree lkhagva garigiin öglöö niiteldeg."
+  },
+  {
+   "mn": "Чимээгүй өрөө байхгүй бол хувцасны шүүгээнд ороод бичлэг хийж болно.",
+   "en": "If you don't have a quiet room, you can record inside a closet.",
+   "alt_mn": [
+    "Чимээгүй өрөө олдохгүй бол хувцасны шүүгээнд орж бичиж болно."
+   ],
+   "alt_en": [
+    "Without a quiet room, you can record in a closet."
+   ],
+   "mn_latin": "Chimeegüi öröö baikhgüi bol khuvtsasny shüügeend orood bichleg khiij bolno."
+  }
+ ],
+ "grammar": {
+  "title_en": "Hidden vowels and stress pairs: бичлэг [бичилэг], REcord / reCORD",
+  "title_mn": "Далд эгшиг ба өргөлтийн хос: бичлэг [бичилэг], REcord / reCORD",
+  "explain_en": "1) Hidden vowels in Mongolian. Mongolian spelling often leaves out a short vowel between consonants, but speakers still pronounce a light, quick vowel to break up the cluster. So бичлэг (бич- + -лэг) sounds like [бичилэг], хөтлөгч sounds like [хөтөлөгч], ажлаа (ажил + -аа) sounds like [ажилаа], and нэвтрүүлэг sounds like [нэвтэрүүлэг]. The vowel you hear follows vowel harmony, but you must not write it. A useful rule: when a word like ажил or the verb stem хөтөл- gets a vowel-initial suffix, its second vowel disappears on paper (ажил → ажлаа, ажлын). 2) Noun/verb stress pairs in English. Some English words are spelled the same as a noun and a verb, and only the stress changes. The noun stresses the first syllable: a REcord, a CONtract, an INcrease, an OBject (a thing). The verb stresses the last syllable: to reCORD, to conTRACT (to shrink; to make a contract), to inCREASE, to obJECT (to protest). The stressed vowel is clear and long, and the unstressed vowel weakens to [ə]. So object sounds like [OBjikt] as a noun but [əbJEKT] as a verb.",
+  "explain_mn": "1) Монгол хэлний далд эгшиг. Монгол бичигт гийгүүлэгчийн дунд байгаа богино эгшгийг ихэнхдээ бичдэггүй, гэвч ярихдаа давхцлыг салгах сул, богино эгшиг дуудагддаг. Жишээ нь бичлэг (бич- + -лэг) [бичилэг], хөтлөгч [хөтөлөгч], ажлаа (ажил + -аа) [ажилаа], нэвтрүүлэг [нэвтэрүүлэг] гэж сонсогдоно. Сонсогдох эгшиг нь эгшиг зохицох ёсыг дагадаг ч бичихгүй. Дүрэм: ажил, хөтөл- зэрэг үгэнд эгшгээр эхэлсэн дагавар залгавал хоёр дахь эгшиг нь бичигдэхгүй (ажил → ажлаа, ажлын). 2) Англи хэлний нэр үг, үйл үгийн өргөлтийн хос. Англи хэлэнд зарим үг нэг бичигдлээрээ нэр үг ч, үйл үг ч болдог. Ялгаа нь өргөлтөд байдаг. Нэр үг бол эхний үеэ өргөнө: a REcord (бичлэг), a CONtract (гэрээ), an INcrease (өсөлт), an OBject (эд зүйл). Үйл үг бол сүүлийн үеэ өргөнө: to reCORD (бичих), to conTRACT (агших; гэрээ хийх), to inCREASE (өсөх), to obJECT (эсэргүүцэх). Өргөлттэй үеийн эгшиг тод, урт сонсогдож, өргөлтгүй үеийн эгшиг сулраад [ə] шиг болно. Тиймээс object нь нэр үг байхад [ОБжикт], үйл үг байхад [əбЖЕКТ] гэж сонсогдоно.",
+  "examples": [
+   {
+    "mn": "Бичлэг [бичилэг] маань бэлэн боллоо.",
+    "en": "Our recording is ready.",
+    "mn_latin": "Bichleg [bichileg] maani belen bolloo."
+   },
+   {
+    "mn": "Хөтлөгч [хөтөлөгч] гэрээндээ гарын үсэг зурлаа.",
+    "en": "The host signed the CONtract.",
+    "mn_latin": "Khötlögch [khötölögch] gereendee garyn üseg zurlaa."
+   },
+   {
+    "mn": "Ажлаа [ажилаа] тараад сонсогчдын тоо өссөнийг харлаа.",
+    "en": "After work I saw the INcrease in listeners.",
+    "mn_latin": "Ajlaa [ajilaa] taraad sonsogchdyn too össöniig kharlaa."
+   },
+   {
+    "mn": "Зочин энэ асуултыг эсэргүүцсэн.",
+    "en": "The guest obJECTed to this question.",
+    "mn_latin": "Zochin ene asuultyg esergüütssen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өчигдөр ___ тараад студид очсон.",
+   "answer": "ажлаа",
+   "options": [
+    "ажлаа",
+    "ажилаа",
+    "ажлыг",
+    "ажилд"
+   ],
+   "translation": "Yesterday I went to the studio after work.",
+   "explain_en": "'Ажлаа тараад' means 'after finishing work'. In speech you hear [ажилаа], but the и drops in writing when the suffix -аа is added. 'Ажилаа' is a common misspelling.",
+   "explain_mn": "'Ажлаа тараад' нь 'ажлаа тарсны дараа' гэсэн утгатай. Дуудахдаа [ажилаа] гэж сонсогдох ч бичихдээ и-г гээдэг. 'Ажилаа' гэж бичих нь алдаа."
+  },
+  {
+   "lang": "mn",
+   "text": "Манай подкастын ___ бол Болд.",
+   "answer": "хөтлөгч",
+   "options": [
+    "хөтлөгч",
+    "хөтөлөгч",
+    "хөтлөгчийг",
+    "хөтлөх"
+   ],
+   "translation": "The host of our podcast is Bold.",
+   "explain_en": "The word is said [хөтөлөгч], but it is written хөтлөгч with no second ө. The accusative and verb forms don't fit this naming sentence.",
+   "explain_mn": "[хөтөлөгч] гэж дуудагддаг ч хөтлөгч гэж бичнэ. Энэ өгүүлбэрт нэрлэхийн тийн ялгалтай нэр үг хэрэгтэй тул заахын тийн ялгалтай хэлбэр, үйл үг тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ бичлэг___ маргааш засварлана.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "ыг",
+    "г",
+    "ийн"
+   ],
+   "translation": "I'll edit this recording tomorrow.",
+   "explain_en": "Бичлэг is the direct object of засварлах, so it takes the accusative. It is a front-vowel word ending in г, so the ending is -ийг. -ыг is for back-vowel words, and -ийн is the genitive.",
+   "explain_mn": "Бичлэг нь засварлах үйлийн шууд тусагдахуун тул заахын тийн ялгал авна. Эр үгийн -ыг энд тохирохгүй. -ийн бол харьяалахын тийн ялгал."
+  },
+  {
+   "lang": "en",
+   "text": "Please ___ the interview in a quiet room.",
+   "answer": "record",
+   "options": [
+    "record",
+    "recording",
+    "records",
+    "recorder"
+   ],
+   "translation": "Ярилцлагаа чимээгүй өрөөнд бичээрэй.",
+   "explain_en": "After 'please' you need the base verb. As a verb it is stressed reCORD; the noun is REcord.",
+   "explain_mn": "'Please'-ийн дараа үйл үгийн үндсэн хэлбэр орно. Үйл үг болохоор сүүлийн үеэ өргөж reCORD гэж дуудна."
+  },
+  {
+   "lang": "en",
+   "text": "We expect our audience to ___ after the Naadam special.",
+   "answer": "increase",
+   "options": [
+    "increase",
+    "increasing",
+    "increased",
+    "increases"
+   ],
+   "translation": "Наадмын тусгай дугаарын дараа сонсогчдын тоо өснө гэж бид хүлээж байна.",
+   "explain_en": "'Expect someone to + base verb', so 'to increase'. The verb is stressed inCREASE; the noun 'an INcrease' is stressed on the first syllable.",
+   "explain_mn": "'Expect ... to'-ийн дараа үйл үгийн үндсэн хэлбэр орно. Үйл үг тул inCREASE гэж өргөнө. Нэр үг бол INcrease."
+  },
+  {
+   "lang": "en",
+   "text": "I hope nobody will ___ if we start ten minutes late.",
+   "answer": "object",
+   "options": [
+    "object",
+    "objects",
+    "objected",
+    "objection"
+   ],
+   "translation": "Арван минут хоцорч эхэлбэл хэн ч эсэргүүцэхгүй байх гэж найдаж байна.",
+   "explain_en": "After 'will' use the base verb 'object', meaning 'to protest'. As a verb it is stressed obJECT. The noun OBject means 'a thing'.",
+   "explain_mn": "'Will'-ийн дараа үйл үгийн үндсэн хэлбэр орно. 'Эсэргүүцэх' утгатай үйл үг obJECT гэж сүүлийн үеэ өргөнө. Нэр үг OBject нь 'эд зүйл' гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Түвшин, дараагийн дугаарын сэдвээ шийдэх үү? Би Улаанбаатарын түгжрэлийн тухай ярихыг санал болгож байна.",
+   "en": "Tuvshin, shall we decide on the topic for the next episode? I suggest we talk about traffic in Ulaanbaatar.",
+   "mn_latin": "Tüvshin, daraagiin dugaaryn sedvee shiidekh üü? Bi Ulaanbaataryn tügjreliin tukhai yarikhyg sanal bolgoj baina."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Сайхан санаа байна. Сонсогчид маань ихэнхдээ машиндаа манай подкастыг сонсдог шүү дээ.",
+   "en": "Great idea. Most of our listeners actually listen to us in their cars.",
+   "mn_latin": "Saikhan sanaa baina. Sonsogchid maani ikhenkhdee mashindaa manai podkastyg sonsdog shüü dee."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл зочноор замын цагдаа урьж болох юм. Бичлэгээ хэзээ хийх вэ?",
+   "en": "Then we could invite a traffic officer as a guest. When should we record?",
+   "mn_latin": "Tegvel zochnoor zamyn tsagdaa urij bolokh yum. Bichlegee khezee khiikh ve?"
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Пүрэв гаригт ажлаа тараад хийе. Тэр үед манай байрны хажуугийн барилга чимээгүй болчихдог.",
+   "en": "Let's do it Thursday after work. The construction next to my building goes quiet by then.",
+   "mn_latin": "Pürev garigt ajlaa taraad khiiye. Ter üyed manai bairny khajuugiin barilga chimeegüi bolchikhdog."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За. Энэ удаа шинэ микрофоноо туршина. Өнгөрсөн удаа бичлэгт шуугиан их орсон.",
+   "en": "Okay. I'll try out my new microphone this time. Last time there was a lot of noise in the recording.",
+   "mn_latin": "Za. Ene udaa shine mikrofonoo turshina. Öngörsön udaa bichlegt shuugian ikh orson."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Засварлахыг би хариуцъя. Харин ивээн тэтгэгчийн гэрээг чи уншаад өгөөч.",
+   "en": "I'll take care of the editing. But could you read through the sponsor's contract?",
+   "mn_latin": "Zasvarlakhyg bi khariutsya. Kharin iveen tetgegchiin gereeg chi unshaad ögööch."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгье. Нэг заалтыг нь эсэргүүцэх хэрэг гарч магадгүй, дараа нь ярилцъя.",
+   "en": "Sure. I might need to object to one of the clauses; let's discuss it later.",
+   "mn_latin": "Tegiye. Neg zaaltyg ni esergüütsekh khereg garch magadgüi, daraa ni yariltsya."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Болж байна. Тэгвэл дугаараа лхагва гаригт нийтлэх төлөвлөгөөтэй явъя.",
+   "en": "Sounds good. Then let's plan to publish the episode on Wednesday.",
+   "mn_latin": "Bolj baina. Tegvel dugaaraa lkhagva garigt niitlekh tölövlögöötei yavya."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian-language podcasts grew quickly from the late 2010s. Many are recorded in small home studios or offices and shared on YouTube, Facebook and streaming apps. Long commutes in Ulaanbaatar's traffic have made podcasts a popular way to learn something on the way to work, and interview shows about business, history and self-development have especially large audiences.",
+  "mn": "Монгол хэл дээрх подкастууд 2010-аад оны сүүлээс хурдан олширсон. Ихэнхийг нь гэр, оффисын жижиг студид бичиж, YouTube, Facebook болон стриминг апп-аар түгээдэг. Улаанбаатарын түгжрэлд удаан зогсдог тул олон хүн ажилдаа явах замдаа подкаст сонсож, шинэ зүйл сурдаг болжээ. Ялангуяа бизнес, түүх, хувь хүний хөгжлийн тухай ярилцлагын нэвтрүүлгүүд олон сонсогчтой байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "The lesson is solid and natural overall, with deliberately split grammar for each learner direction. Only a few small Mongolian form errors needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 8,
+  "notes": "Main problem: the grammar section's en and mn halves explained different topics. Both now cover hidden vowels and noun/verb stress pairs. Wrong stress on 'recording' and stray example sentences fixed.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the hidden-vowel topic in intro_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "en and mn titles named different topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "en and mn titles named different topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; also бичлэг has no 'dropped' vowel"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "make mn explanation match en, covering both topics"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "en",
+    "why": "'recording' is stressed reCORDing, not REcording; extra sentence had no mn equivalent"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "en",
+    "why": "extra untranslated, unnatural sentence removed"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "correct term 'нэрлэхийн тийн ялгал'; match en"
+   }
+  ]
+ }
+}

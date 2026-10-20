@@ -1,0 +1,406 @@
+{
+ "intro_en": "Learn to decode a Mongolian diagnosis and discharge note. You will turn heavy medical jargon into plain everyday Mongolian, and use causative forms like эмчлүүлэх and хагалгаа хийлгэх to say what was done to a patient.",
+ "intro_mn": "Энэ хичээлээр эмчийн онош, эмнэлгээс гарах хуудсыг ойлгож, хүнд мэргэжлийн үгийг энгийн үгээр хэлж сурна. Мөн англи хэлний «is being looked after», «was operated on» гэх мэт угтвартай идэвхгүй хэвийг эзэмшинэ.",
+ "vocab": [
+  {
+   "mn": "онош",
+   "en": "diagnosis",
+   "pos": "noun",
+   "example_mn": "Эмч надад оношийг энгийн үгээр тайлбарлаж өгсөн.",
+   "example_en": "The doctor explained the diagnosis to me in plain words.",
+   "mn_latin": "onosh"
+  },
+  {
+   "mn": "эмнэлгээс гарах",
+   "en": "to be discharged from the hospital",
+   "pos": "verb phrase",
+   "example_mn": "Ээж маань маргааш эмнэлгээс гарна.",
+   "example_en": "My mom is being discharged from the hospital tomorrow.",
+   "mn_latin": "emnelgees garakh"
+  },
+  {
+   "mn": "даралт ихтэй",
+   "en": "having high blood pressure",
+   "pos": "adjective phrase",
+   "example_mn": "Аав маань олон жил даралт ихтэй.",
+   "example_en": "My dad has had high blood pressure for many years.",
+   "mn_latin": "daralt ikhtei"
+  },
+  {
+   "mn": "эмчлүүлэх",
+   "en": "to get treated, to receive treatment",
+   "pos": "verb",
+   "example_mn": "Би хоёр долоо хоног эмнэлэгт хэвтэж эмчлүүлсэн.",
+   "example_en": "I was treated in the hospital for two weeks.",
+   "mn_latin": "emchlüülekh"
+  },
+  {
+   "mn": "хагалгаа",
+   "en": "surgery, operation",
+   "pos": "noun",
+   "example_mn": "Түүнийг өчигдөр хагалгаанд оруулсан.",
+   "example_en": "He was operated on yesterday.",
+   "mn_latin": "khagalgaa"
+  },
+  {
+   "mn": "асрах",
+   "en": "to look after, to care for",
+   "pos": "verb",
+   "example_mn": "Эмээг маань сувилагч асарч байна.",
+   "example_en": "My grandma is being looked after by a nurse.",
+   "mn_latin": "asrakh"
+  },
+  {
+   "mn": "шинжилгээ",
+   "en": "medical test, lab test",
+   "pos": "noun",
+   "example_mn": "Маргааш өглөө цусны шинжилгээ өгнө.",
+   "example_en": "I'll have a blood test tomorrow morning.",
+   "mn_latin": "shinjilgee"
+  },
+  {
+   "mn": "жор",
+   "en": "prescription",
+   "pos": "noun",
+   "example_mn": "Эмч надад жор бичиж өгсөн.",
+   "example_en": "The doctor wrote me a prescription.",
+   "mn_latin": "jor"
+  },
+  {
+   "mn": "хяналтад байх",
+   "en": "to be under observation, to be monitored",
+   "pos": "verb phrase",
+   "example_mn": "Өвчтөн одоо эмчийн хяналтад байгаа.",
+   "example_en": "The patient is being monitored by a doctor now.",
+   "mn_latin": "khyanaltad baikh"
+  },
+  {
+   "mn": "хүндрэл",
+   "en": "complication",
+   "pos": "noun",
+   "example_mn": "Хагалгааны дараа ямар ч хүндрэл гараагүй.",
+   "example_en": "There were no complications after the surgery.",
+   "mn_latin": "khündrel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эмчийн бичсэн «артерийн гипертензи» гэдэг нь энгийнээр хэлбэл даралт ихтэй гэсэн үг.",
+   "en": "The 'arterial hypertension' the doctor wrote down simply means high blood pressure.",
+   "alt_mn": [
+    "«Артерийн гипертензи» гэдэг нь энгийн үгээр даралт ихтэй гэсэн үг."
+   ],
+   "alt_en": [
+    "'Arterial hypertension,' which the doctor wrote, just means high blood pressure."
+   ],
+   "mn_latin": "Emchiin bichsen «artyeriin gipyertyenzi» gedeg ni engiineer khelbel daralt ikhtei gesen üg."
+  },
+  {
+   "mn": "Өвдөгний хагалгаанаас хойш аавыг маань гэрт нь ээж асарч байгаа.",
+   "en": "Since his knee surgery, my dad has been looked after at home by my mom.",
+   "alt_mn": [
+    "Аавыг маань өвдөгний хагалгаанаас хойш ээж гэрт нь асарч байна."
+   ],
+   "alt_en": [
+    "Since his knee operation, my dad has been cared for at home by my mom."
+   ],
+   "mn_latin": "Övdögnii khagalgaanaas khoish aavyg maani gert ni eej asarch baigaa."
+  },
+  {
+   "mn": "Түүнийг өнгөрсөн мягмар гаригт хагалгаанд оруулсан.",
+   "en": "He was operated on last Tuesday.",
+   "alt_mn": [
+    "Тэр өнгөрсөн мягмар гаригт хагалгаа хийлгэсэн."
+   ],
+   "alt_en": [
+    "He had surgery last Tuesday."
+   ],
+   "mn_latin": "Tüüniig öngörsön myagmar garigt khagalgaand oruulsan."
+  },
+  {
+   "mn": "Эмнэлгээс гарах хуудсан дээр «хэвтрийн дэглэм сахих» гэж бичсэн байна, өөрөөр хэлбэл хэвтэж амрах хэрэгтэй.",
+   "en": "The discharge note says 'maintain bed rest,' which means you need to lie down and rest.",
+   "alt_mn": [],
+   "alt_en": [
+    "The discharge note says 'maintain bed rest'; in other words, you need to stay in bed and rest."
+   ],
+   "mn_latin": "Emnelgees garakh khuudsan deer «khevtriin deglem sakhikh» gej bichsen baina, ööröör khelbel khevtej amrakh kheregtei."
+  },
+  {
+   "mn": "Таныг эмч дахин үзэх хүртэл энэ эмийг өдөрт хоёр удаа уугаарай.",
+   "en": "Until you're seen by the doctor again, take this medicine twice a day.",
+   "alt_mn": [
+    "Эмчид дахин үзүүлэх хүртлээ энэ эмийг өдөрт хоёр удаа уугаарай."
+   ],
+   "alt_en": [
+    "Take this medicine twice a day until the doctor sees you again."
+   ],
+   "mn_latin": "Tanyg emch dakhin üzekh khürtel ene emiig ödört khoyor udaa uugaarai."
+  },
+  {
+   "mn": "Би гэдэс өвдөөд гурван хоног эмнэлэгт хэвтэж эмчлүүлсэн.",
+   "en": "I had a stomachache and was treated in the hospital for three days.",
+   "alt_mn": [],
+   "alt_en": [
+    "I was in the hospital for three days getting treated for a stomachache."
+   ],
+   "mn_latin": "Bi gedes övdööd gurvan khonog emnelegt khevtej emchlüülsen."
+  },
+  {
+   "mn": "Шинжилгээний хариу хэвийн гарсан, санаа зовох зүйлгүй.",
+   "en": "The test results came back normal; there's nothing to worry about.",
+   "alt_mn": [
+    "Шинжилгээний хариу хэвийн байна, санаа зовох хэрэггүй."
+   ],
+   "alt_en": [
+    "Your test results are normal, so there's nothing to worry about."
+   ],
+   "mn_latin": "Shinjilgeenii khariu kheviin garsan, sanaa zovokh züilgüi."
+  },
+  {
+   "mn": "Хүүхдийг маань хүүхдийн эмч сайн харж байгаа.",
+   "en": "Our child is being well looked after by the pediatrician.",
+   "alt_mn": [],
+   "alt_en": [
+    "The pediatrician is taking good care of our child."
+   ],
+   "mn_latin": "Khüükhdiig maani khüükhdiin emch sain kharj baigaa."
+  },
+  {
+   "mn": "Эмч нарын «хүндрэл гараагүй» гэдэг нь бүх юм сайн болсон гэсэн үг.",
+   "en": "When the doctors say 'no complications,' it means everything went well.",
+   "alt_mn": [],
+   "alt_en": [
+    "'No complications' from the doctors means everything went fine."
+   ],
+   "mn_latin": "Emch naryn «khündrel garaagüi» gedeg ni bükh yum sain bolson gesen üg."
+  },
+  {
+   "mn": "Өвчтөн хяналтад байсан тул түүнийг шөнөжингөө сувилагч шалгаж байсан.",
+   "en": "The patient was under observation, so he was being checked on by a nurse all night.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because the patient was being monitored, a nurse checked on him all night."
+   ],
+   "mn_latin": "Övchtön khyanaltad baisan tul tüüniig shönöjingöö suvilagch shalgaj baisan."
+  },
+  {
+   "mn": "Энэ жорыг эмийн санд үзүүлээд эмээ аваарай.",
+   "en": "Show this prescription at the pharmacy and pick up your medicine.",
+   "alt_mn": [],
+   "alt_en": [
+    "Take this prescription to the pharmacy and get your medicine."
+   ],
+   "mn_latin": "Ene joryg emiin sand üzüüleed emee avaarai."
+  },
+  {
+   "mn": "Эмчийн хэлснийг ойлгохгүй бол энгийн үгээр тайлбарлаж өгөхийг хүсээрэй.",
+   "en": "If you don't understand what the doctor said, ask them to explain it in plain words.",
+   "alt_mn": [
+    "Эмчийн үгийг ойлгоогүй бол энгийнээр тайлбарлаж өгөөч гэж хэлээрэй."
+   ],
+   "alt_en": [
+    "If you don't follow what the doctor says, ask for an explanation in plain language."
+   ],
+   "mn_latin": "Emchiin khelsniig oilgokhgüi bol engiin ügeer tailbarlaj ögökhiig khüseerei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Getting It Done to You: the Causative -уул-/-лга- in Medical Talk",
+  "title_mn": "Угтвартай идэвхгүй хэв: is being looked after, was operated on",
+  "explain_en": "Plain Mongolian rarely uses a true passive to talk about medical care. Instead, it adds a causative suffix to say you *had* something done to you: эмчлэх 'to treat' → эмчлүүлэх 'to get treated'; үзэх 'to examine' → (эмчид) үзүүлэх 'to be seen by a doctor'; хагалгаа хийх 'to perform surgery' → хагалгаа хийлгэх 'to have surgery'. Watch out: 'Би эмчийг үзсэн' would mean you examined the doctor! Doctors' notes are often full of nouns and Latin or Russian terms (цусны даралт ихсэх, артерийн гипертензи). In speech, people turn these into short phrases and verbs: даралт ихтэй, эмчлүүлсэн, хагалгаа хийлгэсэн.",
+  "explain_mn": "Англи хэлэнд look after, care for, operate on, see to, check on гэх мэт угтвартай үйл үгийг идэвхгүй хэвт оруулахад угтвар нь үйл үгийн ард үлддэг: The nurse is looking after my grandma → My grandma is being looked after (by the nurse). The surgeon operated on him → He was operated on. Угтварыг хаяж болохгүй: «He was operated» гэвэл буруу. Үйл явц одоо үргэлжилж байвал «is being + V3» хэлбэрийг хэрэглэнэ: She is being cared for. Энэ нь монгол хэлний «асарч байна», «хагалгаанд оруулсан», «эмчлүүлж байна» гэдэгтэй дүйнэ.",
+  "examples": [
+   {
+    "mn": "Би өчигдөр эмчид үзүүлсэн.",
+    "en": "I was seen by a doctor yesterday.",
+    "mn_latin": "Bi öchigdör emchid üzüülsen."
+   },
+   {
+    "mn": "Тэр өвдгөндөө хагалгаа хийлгэсэн.",
+    "en": "He had his knee operated on.",
+    "mn_latin": "Ter övdgöndöö khagalgaa khiilgesen."
+   },
+   {
+    "mn": "Эмээг маань сувилагч асарч байна.",
+    "en": "My grandma is being looked after by a nurse.",
+    "mn_latin": "Emeeg maani suvilagch asarch baina."
+   },
+   {
+    "mn": "Ах маань одоо эмнэлэгт эмчлүүлж байгаа.",
+    "en": "My brother is being treated in the hospital right now.",
+    "mn_latin": "Akh maani odoo emnelegt emchlüülj baigaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өчигдөр би эмчид ___.",
+   "answer": "үзүүлсэн",
+   "options": [
+    "үзүүлсэн",
+    "үзсэн",
+    "үзүүлдэг",
+    "үзүүлэх"
+   ],
+   "translation": "Yesterday I was seen by a doctor.",
+   "explain_en": "Use the causative үзүүлэх with the dative эмчид to mean 'to be seen by a doctor.' Эмчид үзсэн is ungrammatical (Би эмчийг үзсэн would mean you examined the doctor). Үзүүлдэг is habitual ('I usually get seen'), and үзүүлэх is not past tense, but өчигдөр needs the past -сэн.",
+   "explain_mn": "«Эмчид үзүүлэх» гэдэг нь эмчээр өөрийгөө шалгуулах гэсэн утгатай. «Эмчид үзсэн» гэж хэлэхгүй («Би эмчийг үзсэн» гэвэл та өөрөө эмчийг шалгаж үзсэн гэсэн утгатай болно). «Үзүүлдэг» нь байнгын үйлийг, «үзүүлэх» нь ирээдүйг заадаг. Өчигдөр гэсэн тул -сэн нөхцөл хэрэгтэй."
+  },
+  {
+   "lang": "mn",
+   "text": "Аав маань даралт ___ учраас өдөр бүр эм уудаг.",
+   "answer": "ихтэй",
+   "options": [
+    "ихтэй",
+    "ихсэх",
+    "ихээр",
+    "ихээс"
+   ],
+   "translation": "My dad has high blood pressure, so he takes medicine every day.",
+   "explain_en": "In everyday speech, people say даралт ихтэй, literally 'with high pressure,' using the comitative -тэй. Ихсэх is the verb you find in medical writing (цусны даралт ихсэх), and it doesn't fit here.",
+   "explain_mn": "Ярианы хэлэнд «даралт ихтэй» гэж -тэй нөхцөлөөр хэлдэг. «Цусны даралт ихсэх» нь эмнэлгийн бичгийн хэллэг бөгөөд энэ өгүүлбэрт тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр өвдгөндөө хагалгаа ___.",
+   "answer": "хийлгэсэн",
+   "options": [
+    "хийлгэсэн",
+    "хийсэн",
+    "хийх",
+    "хийлгэх"
+   ],
+   "translation": "He had surgery on his knee.",
+   "explain_en": "The patient doesn't perform the surgery. He *has it done*, so you need the causative -лгэ-: хийлгэсэн. Хийсэн would make him the surgeon.",
+   "explain_mn": "Өвчтөн өөрөө хагалгаа хийгээгүй, түүнд хийсэн тул -лгэ- үйлдүүлэх нөхцөл хэрэгтэй. «Хийсэн» гэвэл тэр мэс засалч болж хувирна."
+  },
+  {
+   "lang": "en",
+   "text": "Grandma is being looked ___ by her neighbor.",
+   "answer": "after",
+   "options": [
+    "after",
+    "by",
+    "with",
+    "about"
+   ],
+   "translation": "Эмээг хөрш нь асарч байна.",
+   "explain_en": "'Look after' means 'take care of.' In the passive, the preposition stays right after the verb: is being looked after.",
+   "explain_mn": "«Look after» нь асрах гэсэн утгатай. Идэвхгүй хэвт угтвар нь үйл үгийн ард хэвээр үлдэнэ: is being looked after."
+  },
+  {
+   "lang": "en",
+   "text": "He was operated ___ last Tuesday.",
+   "answer": "on",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "with"
+   ],
+   "translation": "Түүнийг өнгөрсөн мягмар гаригт хагалгаанд оруулсан.",
+   "explain_en": "The verb is 'operate on (someone),' so its passive is 'was operated on.' The preposition can't be dropped.",
+   "explain_mn": "Үйл үг нь «operate on someone» тул идэвхгүй хэв нь «was operated on» болно. «On» угтварыг хаяж болохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The patient is being ___ for by the nursing staff.",
+   "answer": "cared",
+   "options": [
+    "cared",
+    "care",
+    "cares",
+    "caring"
+   ],
+   "translation": "Өвчтөнийг сувилагч нар асарч байна.",
+   "explain_en": "The passive progressive is 'is being' plus the past participle, so 'care' becomes 'cared,' followed by 'for.'",
+   "explain_mn": "Үргэлжилж буй идэвхгүй хэв нь «is being + V3» тул «care» нь «cared» болж, ард нь «for» угтвар орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Эмч юу гэж хэлэв? Аавыг хэзээ эмнэлгээс гаргах юм бэ?",
+   "en": "What did the doctor say? When is Dad being discharged?",
+   "mn_latin": "Emch yuu gej khelev? Aavyg khezee emnelgees gargakh yum be?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Маргааш гаргана гэсэн. Гэхдээ энэ хуудсан дээрх үгсийг би сайн ойлгосонгүй.",
+   "en": "Tomorrow, she said. But I didn't really understand the words on this sheet.",
+   "mn_latin": "Margaash gargana gesen. Gekhdee ene khuudsan deerkh ügsiig bi sain oilgosongüi."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Үзье. «Артерийн гипертензи, II зэрэг» гэдэг нь зүгээр л даралт ихтэй гэсэн үг.",
+   "en": "Let me see. 'Stage II arterial hypertension' just means he has high blood pressure.",
+   "mn_latin": "Üziye. «Artyeriin gipyertyenzi, II zereg» gedeg ni zügeer l daralt ikhtei gesen üg."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл «амбулаторийн хяналтад байх» гэдэг юу гэсэн үг вэ?",
+   "en": "Then what does 'remain under outpatient monitoring' mean?",
+   "mn_latin": "Tegvel «ambulatoriin khyanaltad baikh» gedeg yuu gesen üg ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Гэртээ байгаад сард нэг удаа өрхийн эмчдээ үзүүлнэ гэсэн үг.",
+   "en": "It means he stays home and gets seen by his family doctor once a month.",
+   "mn_latin": "Gertee baigaad sard neg udaa örkhiin emchdee üzüülne gesen üg."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ойлголоо. Хагалгааны дараа хүндрэл гараагүй гэж бичсэн байна лээ.",
+   "en": "Got it. It also said there were no complications after the surgery.",
+   "mn_latin": "Oilgoloo. Khagalgaany daraa khündrel garaagüi gej bichsen baina lee."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Сайн байна. Гэртээ ирэхээр нь бид ээлжлэн асаръя.",
+   "en": "Good. When he gets home, let's take turns looking after him.",
+   "mn_latin": "Sain baina. Gertee irekheer ni bid eeljlen asarya."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм ээ, эмчийн хэлснээр хоёр долоо хоног хэвтрийн дэглэм сахих ёстой.",
+   "en": "Yes. According to the doctor, he has to stay on bed rest for two weeks.",
+   "mn_latin": "Tiim ee, emchiin khelsneer khoyor doloo khonog khevtriin deglem sakhikh yostoi."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian hospitals, a relative often stays with an inpatient as an асрагч (caregiver), bringing food and helping with daily needs. Medical notes mix Latin and Russian-origin terms like гипертензи or амбулатори, so families commonly ask the doctor, or a relative who works in medicine, to 'translate' the discharge note. After discharge, follow-up care usually goes through your local өрхийн эмч (family doctor).",
+  "mn": "Монголын эмнэлэгт хэвтэн эмчлүүлж буй хүний дэргэд ихэвчлэн гэр бүлийн нэг гишүүн асрагчаар хамт байж, хоол унд авчирч, өдөр тутмын хэрэгцээнд нь тусалдаг. Эмнэлгийн бичигт гипертензи, амбулатори гэх мэт латин, орос гаралтай үг их байдаг тул гэр бүлийнхэн эмчээсээ, эсвэл эмч мэргэжилтэй хамаатнаасаа гарах хуудсыг «орчуулж» өгөхийг хүсэх нь элбэг. Эмнэлгээс гарсны дараах хяналтыг ихэвчлэн харьяа өрхийн эмч хийдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 7,
+  "notes": "A solid, accurate lesson. The fixes cover a numeral form, a missing genitive, a misleading claim about эмчид үзсэн, and a nonexistent distractor word."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Solid lesson. The only real problem was a fill-blank distractor that could also be correct; its explanations are updated to match.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "үзэгдсэн (passive 'was seen/noticed') could arguably fit, so the item had two possible answers; replaced it with a clearly wrong habitual form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "matches the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "removed the circular wording and matched the new options; -сэн follows vowel harmony"
+   }
+  ]
+ }
+}

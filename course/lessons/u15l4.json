@@ -1,0 +1,491 @@
+{
+ "intro_en": "You will learn how to register at a clinic, make an appointment, and answer a doctor's questions about pain and how long it has lasted. You will also practice 'for' and 'since' and the present continuous.",
+ "intro_mn": "Та эмнэлэгт бүртгүүлэх, цаг авах, эмчийн өвдөлт болон хэр удаан өвдөж байгаа тухай асуултад хариулж сурна. Мөн англи хэлний 'for', 'since' болон одоо үргэлжилж буй цагийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "эмч",
+   "en": "doctor",
+   "pos": "noun",
+   "example_mn": "Эмч намайг үзэж байна.",
+   "example_en": "The doctor is examining me.",
+   "mn_latin": "emch"
+  },
+  {
+   "mn": "эмнэлэг",
+   "en": "clinic / hospital",
+   "pos": "noun",
+   "example_mn": "Манай эмнэлэг ойрхон байдаг.",
+   "example_en": "Our clinic is nearby.",
+   "mn_latin": "emneleg"
+  },
+  {
+   "mn": "цаг авах",
+   "en": "to make an appointment",
+   "pos": "verb phrase",
+   "example_mn": "Би эмчид цаг авмаар байна.",
+   "example_en": "I would like to make an appointment with the doctor.",
+   "mn_latin": "tsag avakh"
+  },
+  {
+   "mn": "үзлэг",
+   "en": "examination / check-up",
+   "pos": "noun",
+   "example_mn": "Маргааш миний үзлэг байна.",
+   "example_en": "I have a check-up tomorrow.",
+   "mn_latin": "üzleg"
+  },
+  {
+   "mn": "температур",
+   "en": "temperature",
+   "pos": "noun",
+   "example_mn": "Таны температур өндөр байна.",
+   "example_en": "Your temperature is high.",
+   "mn_latin": "tyempyeratur"
+  },
+  {
+   "mn": "даралт",
+   "en": "blood pressure",
+   "pos": "noun",
+   "example_mn": "Эмч миний даралтыг хэмжлээ.",
+   "example_en": "The doctor measured my blood pressure.",
+   "mn_latin": "daralt"
+  },
+  {
+   "mn": "өвчтөн",
+   "en": "patient",
+   "pos": "noun",
+   "example_mn": "Олон өвчтөн хүлээж байна.",
+   "example_en": "Many patients are waiting.",
+   "mn_latin": "övchtön"
+  },
+  {
+   "mn": "өвдөх",
+   "en": "to hurt, to be in pain",
+   "pos": "verb",
+   "example_mn": "Миний гэдэс өвдөж байна.",
+   "example_en": "My stomach hurts.",
+   "mn_latin": "övdökh"
+  },
+  {
+   "mn": "бүртгүүлэх",
+   "en": "to register",
+   "pos": "verb",
+   "example_mn": "Та эхлээд бүртгүүлнэ үү.",
+   "example_en": "Please register first.",
+   "mn_latin": "bürtgüülekh"
+  },
+  {
+   "mn": "хүлээх",
+   "en": "to wait",
+   "pos": "verb",
+   "example_mn": "Та жаахан хүлээнэ үү.",
+   "example_en": "Please wait a little.",
+   "mn_latin": "khüleekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хаана өвдөж байна вэ?",
+   "en": "Where does it hurt?",
+   "alt_mn": [
+    "Хаана нь өвдөж байна вэ?"
+   ],
+   "alt_en": [
+    "Where is the pain?"
+   ],
+   "mn_latin": "Khaana övdöj baina ve?"
+  },
+  {
+   "mn": "Миний толгой өвдөж байна.",
+   "en": "My head hurts.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have a headache."
+   ],
+   "mn_latin": "Minii tolgoi övdöj baina."
+  },
+  {
+   "mn": "Хэдэн өдөр болж байна вэ?",
+   "en": "How many days has it been?",
+   "alt_mn": [],
+   "alt_en": [
+    "How long has it been?"
+   ],
+   "mn_latin": "Kheden ödör bolj baina ve?"
+  },
+  {
+   "mn": "Гурван өдөр болж байна.",
+   "en": "It has been three days.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Gurvan ödör bolj baina."
+  },
+  {
+   "mn": "Би гурван өдөр ханиалгаж байна.",
+   "en": "I have been coughing for three days.",
+   "alt_mn": [
+    "Би гурван өдрийн өмнөөс ханиалгаж байна."
+   ],
+   "alt_en": [
+    "I've been coughing for the past three days."
+   ],
+   "mn_latin": "Bi gurvan ödör khanialgaj baina."
+  },
+  {
+   "mn": "Би эмчид цаг авмаар байна.",
+   "en": "I would like to make an appointment with the doctor.",
+   "alt_mn": [
+    "Би эмчид цаг авахыг хүсэж байна."
+   ],
+   "alt_en": [
+    "I want to book an appointment with the doctor."
+   ],
+   "mn_latin": "Bi emchid tsag avmaar baina."
+  },
+  {
+   "mn": "Та эхлээд бүртгүүлнэ үү.",
+   "en": "Please register first.",
+   "alt_mn": [],
+   "alt_en": [
+    "Please sign in first."
+   ],
+   "mn_latin": "Ta ekhleed bürtgüülne üü."
+  },
+  {
+   "mn": "Танд ямар зовиур байна вэ?",
+   "en": "What symptoms do you have?",
+   "alt_mn": [
+    "Юу болсон бэ?"
+   ],
+   "alt_en": [
+    "What is the problem?",
+    "What's wrong?"
+   ],
+   "mn_latin": "Tand yamar zoviur baina ve?"
+  },
+  {
+   "mn": "Таны температурыг хэмжье.",
+   "en": "Let's measure your temperature.",
+   "alt_mn": [
+    "Таны халууныг хэмжье."
+   ],
+   "alt_en": [
+    "Let me take your temperature."
+   ],
+   "mn_latin": "Tany tyempyeraturyg khemjiye."
+  },
+  {
+   "mn": "Миний даралт өндөр байна.",
+   "en": "My blood pressure is high.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have high blood pressure."
+   ],
+   "mn_latin": "Minii daralt öndör baina."
+  },
+  {
+   "mn": "Өвчтөнүүд коридорт хүлээж байна.",
+   "en": "The patients are waiting in the hallway.",
+   "alt_mn": [
+    "Өвчтөнүүд коридорт хүлээж сууж байна."
+   ],
+   "alt_en": [
+    "The patients are waiting in the corridor."
+   ],
+   "mn_latin": "Övchtönüüd koridort khüleej baina."
+  },
+  {
+   "mn": "Өнөөдөр миний бие их муу байна.",
+   "en": "Today I am feeling very bad.",
+   "alt_mn": [
+    "Би өнөөдөр их тавгүй байна."
+   ],
+   "alt_en": [
+    "I feel very bad today."
+   ],
+   "mn_latin": "Önöödör minii biye ikh muu baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Duration: хэдэн өдөр болж байна & -аас хойш",
+  "title_mn": "Үргэлжлэх хугацаа: for / since ба одоо үргэлжилж буй цаг",
+  "explain_en": "To ask how long, Mongolian says 'Хэдэн өдөр болж байна вэ?' (literally 'How many days is it becoming?'). Answer with a number plus өдөр: 'Гурван өдөр болж байна.' To say 'since', add -аас/-ээс/-оос/-өөс plus хойш to a time point: 'Даваагаас хойш' (since Monday). For a plain duration, just use the number plus өдөр: 'Гурван өдөр ханиалгаж байна.' Use the ongoing form -ж байна for something happening now: 'өвдөж байна' (it hurts / is hurting).",
+  "explain_mn": "Англи хэлэнд 'How long have you...?' гэж хугацаа асууна: 'How long have you had a fever?' Хариулахдаа 'for' нь хугацааны урт (for three days), 'since' нь эхэлсэн цэг (since Monday) заана. Түр зуурын байдлыг одоо үргэлжилж буй цагаар хэлнэ: 'I am feeling bad today.' (be + -ing). Мөн 'What's wrong?', 'Where does it hurt?' гэж асууна.",
+  "examples": [
+   {
+    "mn": "Хэдэн өдөр болж байна вэ?",
+    "en": "How long has it been?",
+    "mn_latin": "Kheden ödör bolj baina ve?"
+   },
+   {
+    "mn": "Би гурван өдөр өвдөж байна.",
+    "en": "I have been in pain for three days.",
+    "mn_latin": "Bi gurvan ödör övdöj baina."
+   },
+   {
+    "mn": "Би даваагаас хойш ханиалгаж байна.",
+    "en": "I have been coughing since Monday.",
+    "mn_latin": "Bi davaagaas khoish khanialgaj baina."
+   },
+   {
+    "mn": "Миний гэдэс өвдөж байна.",
+    "en": "My stomach is hurting.",
+    "mn_latin": "Minii gedes övdöj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хаана ___ байна вэ?",
+   "answer": "өвдөж",
+   "options": [
+    "өвдөж",
+    "өвдөх",
+    "өвдсөн",
+    "өвдөөд"
+   ],
+   "translation": "Where does it hurt?",
+   "explain_en": "The ongoing form -ж байна (өвдөж байна) says it hurts right now.",
+   "explain_mn": "Одоо үргэлжилж буй үйлдлийг -ж байна гэж хэлнэ: өвдөж байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Би даваа гараг___ хойш ханиалгаж байна.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "д",
+    "ийг",
+    "тай"
+   ],
+   "translation": "I have been coughing since Monday.",
+   "explain_en": "'Since' uses the ablative ending before хойш. Гараг has back vowels (а), so the ending is -аас: гарагаас хойш (since Monday).",
+   "explain_mn": "'Хойш' үгийн өмнө гарахын тийн ялгал орно. Гараг гэдэг үг эр үг тул -аас авна: гарагаас хойш."
+  },
+  {
+   "lang": "mn",
+   "text": "Би эмчид ___ авмаар байна.",
+   "answer": "цаг",
+   "options": [
+    "цаг",
+    "даралт",
+    "өвчтөн",
+    "үзлэг"
+   ],
+   "translation": "I would like to make an appointment with the doctor.",
+   "explain_en": "'Цаг авах' means to make an appointment (literally 'take a time').",
+   "explain_mn": "'Цаг авах' нь эмчид уулзах цаг захиалах гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "I have been coughing ___ three days.",
+   "answer": "for",
+   "options": [
+    "for",
+    "since",
+    "at",
+    "from"
+   ],
+   "translation": "Би гурван өдөр ханиалгаж байна.",
+   "explain_en": "Use 'for' with a length of time (three days).",
+   "explain_mn": "Хугацааны урт (гурван өдөр)-ын өмнө 'for' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I have had a fever ___ Monday.",
+   "answer": "since",
+   "options": [
+    "since",
+    "for",
+    "during",
+    "from"
+   ],
+   "translation": "Би даваагаас хойш халуурч байна.",
+   "explain_en": "Use 'since' with a starting point in time (Monday).",
+   "explain_mn": "Эхэлсэн цэг (Даваа гараг)-ийн өмнө 'since' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The doctor ___ examining the patient now.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "does",
+    "has"
+   ],
+   "translation": "Эмч одоо өвчтөнийг үзэж байна.",
+   "explain_en": "Present continuous: is + verb-ing for something happening now.",
+   "explain_mn": "Одоо болж буй үйлдэлд 'is + -ing' хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу. Би эмчид цаг авмаар байна.",
+   "en": "Hello. I would like to make an appointment with the doctor.",
+   "mn_latin": "Sain baina uu. Bi emchid tsag avmaar baina."
+  },
+  {
+   "speaker": "Бүртгэгч",
+   "mn": "Та эхлээд бүртгүүлнэ үү. Танд ямар зовиур байна вэ?",
+   "en": "Please register first. What's wrong?",
+   "mn_latin": "Ta ekhleed bürtgüülne üü. Tand yamar zoviur baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Миний хоолой өвдөж, халуурч байна.",
+   "en": "My throat hurts and I have a fever.",
+   "mn_latin": "Minii khooloi övdöj, khaluurch baina."
+  },
+  {
+   "speaker": "Эмч",
+   "mn": "Сайн байна уу. Хаана өвдөж байна вэ?",
+   "en": "Hello. Where does it hurt?",
+   "mn_latin": "Sain baina uu. Khaana övdöj baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Хоолой минь их өвдөж байна.",
+   "en": "My throat hurts a lot.",
+   "mn_latin": "Khooloi mini ikh övdöj baina."
+  },
+  {
+   "speaker": "Эмч",
+   "mn": "Хэдэн өдөр болж байна вэ?",
+   "en": "How long has it been?",
+   "mn_latin": "Kheden ödör bolj baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Гурван өдөр өвдөж байна.",
+   "en": "It has been hurting for three days.",
+   "mn_latin": "Gurvan ödör övdöj baina."
+  },
+  {
+   "speaker": "Эмч",
+   "mn": "За, таны температурыг хэмжье.",
+   "en": "Okay, let's measure your temperature.",
+   "mn_latin": "Za, tany tyempyeraturyg khemjiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many people first visit their local family clinic (өрхийн эмнэлэг), and are then referred to a larger hospital if needed. You often need to register at the front desk and wait, and people also use private clinics for faster appointments. Bringing your ID card and health insurance book is common.",
+  "mn": "Улаанбаатарт олон хүн эхлээд харьяа өрхийн эмнэлэгтээ хандаж, шаардлагатай бол томоохон эмнэлэгт шилжүүлэгддэг. Ихэвчлэн хүлээн авах газарт бүртгүүлж, дараалалд хүлээнэ. Хурдан цаг авахын тулд хувийн эмнэлэгт очдог хүн ч олон. Иргэний үнэмлэх, эрүүл мэндийн даатгалын дэвтрээ авч явах нь элбэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 24,
+  "notes": "Mostly usable but with a mismatch between 'for' and 'since' in several Mongolian items, a Latin-letter typo, ungrammatical alts, and some awkward phrasing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 17,
+  "notes": "Fixed the misused 'өдрөөс хойш', unnatural forms (хэвлий, санагдаж, хүсч), duplicate alternatives, and the culture-note accuracy.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "гэдэс is the everyday word for stomach; хэвлий is anatomical/bookish"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "alt duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "alt duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_en",
+    "why": "'It's the third day' doesn't mean 'It has been three days'"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "'гурван өдрөөс хойш' reads as 'after three days'; 'since three days ago' needs өмнөөс"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "standard spelling is хүсэж"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "'би ... санагдаж байна' is ungrammatical; this is the natural way to say you feel unwell"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "гэдэс is the natural everyday word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "'өдөр+өөс' gives the wrong form (should be өдрөөс), and 'since three days' is unnatural; use a time point"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "answer",
+    "why": "the ablative ending for гараг (back vowel)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "options must fit гараг"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "translation",
+    "why": "natural English; matches the new sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "matches the new item"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "matches the new item"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'гурван өдрөөс хойш' means 'after three days'; for a duration, use the number plus өдөр"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "family clinics serve neighborhoods (khoroo), not whole districts"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "ихэнх≠many; passive шилжүүлэгддэг; family clinics are not district-level"
+   }
+  ]
+ }
+}

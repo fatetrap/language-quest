@@ -1,0 +1,412 @@
+{
+ "intro_en": "Learn to talk about packed venues, long lines, security checks, and getting lost in a crowd. You'll explain delays and problems with the casual Mongolian causal form -сан болохоор, and practice the English pattern \"such a + adjective + noun + that.\"",
+ "intro_mn": "Хүн ихтэй газар, урт дараалал, хяналтын шалгалт, олон хүний дунд төөрөх тухай ярьж сурна. Саатал, асуудлын шалтгааныг яриан хэлний \"-сан болохоор\" хэлбэрээр тайлбарлаж, англиар \"such a + тэмдэг нэр + нэр үг + that\" бүтцээр шалтгаан, үр дагаврыг илэрхийлэх аргыг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "дараалал",
+   "en": "line, queue",
+   "pos": "noun",
+   "example_mn": "Орох хаалган дээр урт дараалал үүссэн байна.",
+   "example_en": "A long line has formed at the entrance.",
+   "mn_latin": "daraalal"
+  },
+  {
+   "mn": "хяналтын цэг",
+   "en": "security checkpoint",
+   "pos": "noun phrase",
+   "example_mn": "Хяналтын цэг дээр цүнх бүрийг шалгадаг.",
+   "example_en": "They check every bag at the security checkpoint.",
+   "mn_latin": "khyanaltyn tseg"
+  },
+  {
+   "mn": "орох хаалга",
+   "en": "entrance gate",
+   "pos": "noun phrase",
+   "example_mn": "Орох хаалга хаана байгаа вэ?",
+   "example_en": "Where is the entrance gate?",
+   "mn_latin": "orokh khaalga"
+  },
+  {
+   "mn": "хөл хөдөлгөөн",
+   "en": "crowds, foot traffic",
+   "pos": "noun",
+   "example_mn": "Цэнгэлдэхийн орчим хөл хөдөлгөөн ихтэй байлаа.",
+   "example_en": "It was very crowded around the stadium.",
+   "mn_latin": "khöl khödölgöön"
+  },
+  {
+   "mn": "нягтрал",
+   "en": "density (crowd density)",
+   "pos": "noun",
+   "example_mn": "Тайзны өмнө хүний нягтрал хэт өндөр байсан.",
+   "example_en": "The crowd density in front of the stage was too high.",
+   "mn_latin": "nyagtral"
+  },
+  {
+   "mn": "цугларах",
+   "en": "to gather, to assemble",
+   "pos": "verb",
+   "example_mn": "Хүмүүс тайзны өмнө цугларч эхэллээ.",
+   "example_en": "People started gathering in front of the stage.",
+   "mn_latin": "tsuglarakh"
+  },
+  {
+   "mn": "төөрөх",
+   "en": "to get lost",
+   "pos": "verb",
+   "example_mn": "Би олон хүний дунд төөрчихлөө.",
+   "example_en": "I got lost in the crowd.",
+   "mn_latin": "töörökh"
+  },
+  {
+   "mn": "шалгах",
+   "en": "to check, to inspect",
+   "pos": "verb",
+   "example_mn": "Хамгаалалтын ажилтан тасалбарыг минь шалгалаа.",
+   "example_en": "The security guard checked my ticket.",
+   "mn_latin": "shalgakh"
+  },
+  {
+   "mn": "бугуйвч",
+   "en": "wristband",
+   "pos": "noun",
+   "example_mn": "Бугуйвчаа үзүүлээд ороорой.",
+   "example_en": "Show your wristband and go in.",
+   "mn_latin": "buguivch"
+  },
+  {
+   "mn": "уулзах цэг",
+   "en": "meeting point",
+   "pos": "noun phrase",
+   "example_mn": "Төөрвөл уулзах цэг дээрээ уулзъя.",
+   "example_en": "If we get lost, let's meet at our meeting point.",
+   "mn_latin": "uulzakh tseg"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Дараалал маш урт байсан болохоор бид нэг цаг хүлээсэн.",
+   "en": "It was such a long line that we waited for an hour.",
+   "alt_mn": [
+    "Дараалал маш урт байсан учраас бид нэг цаг хүлээсэн."
+   ],
+   "alt_en": [
+    "The line was so long that we waited for an hour.",
+    "It was such a long queue that we waited for an hour.",
+    "The line was very long, so we waited for an hour."
+   ],
+   "mn_latin": "Daraalal mash urt baisan bolokhoor bid neg tsag khüleesen."
+  },
+  {
+   "mn": "Хяналтын цэг дээр цүнх бүрийг шалгасан болохоор бид хоцорчихлоо.",
+   "en": "We're late because they checked every bag at the security checkpoint.",
+   "alt_mn": [
+    "Хяналтын цэг дээр цүнх бүрийг шалгасан учраас бид хоцорчихлоо."
+   ],
+   "alt_en": [
+    "They checked every bag at the security checkpoint, so we're late."
+   ],
+   "mn_latin": "Khyanaltyn tseg deer tsünkh büriig shalgasan bolokhoor bid khotsorchikhloo."
+  },
+  {
+   "mn": "Утасны цэнэг дууссан болохоор чам руу залгаж чадаагүй.",
+   "en": "My phone died, so I couldn't call you.",
+   "alt_mn": [
+    "Утасны цэнэг дууссан учраас чам руу залгаж чадаагүй."
+   ],
+   "alt_en": [
+    "I couldn't call you because my phone died.",
+    "My battery died, so I couldn't call you."
+   ],
+   "mn_latin": "Utasny tseneg duussan bolokhoor cham ruu zalgaj chadaagüi."
+  },
+  {
+   "mn": "Хөл хөдөлгөөн ихтэй байсан болохоор би найзаасаа салчихсан.",
+   "en": "It was so crowded that I got separated from my friend.",
+   "alt_mn": [
+    "Хөл хөдөлгөөн ихтэй байсан учраас би найзаасаа салчихсан."
+   ],
+   "alt_en": [
+    "It was such a big crowd that I got separated from my friend.",
+    "I got separated from my friend because it was so crowded."
+   ],
+   "mn_latin": "Khöl khödölgöön ikhtei baisan bolokhoor bi naizaasaa salchikhsan."
+  },
+  {
+   "mn": "Орох хаалгыг хаачихсан болохоор хүмүүс нөгөө талаас орж байна.",
+   "en": "They closed the entrance gate, so people are going in from the other side.",
+   "alt_mn": [
+    "Орох хаалгыг хаасан болохоор хүмүүс нөгөө талаас орж байна."
+   ],
+   "alt_en": [
+    "Since the entrance gate is closed, people are going in from the other side."
+   ],
+   "mn_latin": "Orokh khaalgyg khaachikhsan bolokhoor khümüüs nögöö talaas orj baina."
+  },
+  {
+   "mn": "Тайзны өмнө хүний нягтрал хэт өндөр болсон болохоор хамгаалалтынхан хүмүүсийг ухраасан.",
+   "en": "The crowd in front of the stage got so dense that security moved people back.",
+   "alt_mn": [
+    "Тайзны өмнө хүний нягтрал хэт өндөр болсон учраас хамгаалалтынхан хүмүүсийг ухраасан."
+   ],
+   "alt_en": [
+    "Security moved people back because the crowd in front of the stage got too dense."
+   ],
+   "mn_latin": "Taizny ömnö khünii nyagtral khet öndör bolson bolokhoor khamgaalaltynkhan khümüüsiig ukhraasan."
+  },
+  {
+   "mn": "Маш халуун өдөр байсан болохоор олон хүн сүүдэрт хүлээсэн.",
+   "en": "It was such a hot day that many people waited in the shade.",
+   "alt_mn": [
+    "Өдөр маш халуун байсан болохоор олон хүн сүүдэрт хүлээсэн."
+   ],
+   "alt_en": [
+    "It was so hot that many people waited in the shade.",
+    "The day was so hot that a lot of people waited in the shade."
+   ],
+   "mn_latin": "Mash khaluun ödör baisan bolokhoor olon khün süüdert khüleesen."
+  },
+  {
+   "mn": "Олон хүн цугларсан болохоор концерт хагас цаг хоцорч эхэлсэн.",
+   "en": "So many people gathered that the concert started half an hour late.",
+   "alt_mn": [
+    "Олон хүн цугларсан учраас концерт хагас цаг хоцорч эхэлсэн."
+   ],
+   "alt_en": [
+    "The concert started half an hour late because so many people had gathered."
+   ],
+   "mn_latin": "Olon khün tsuglarsan bolokhoor kontsyert khagas tsag khotsorch ekhelsen."
+  },
+  {
+   "mn": "Би төөрчихсөн болохоор уулзах цэг дээр очиж хүлээсэн.",
+   "en": "I got lost, so I went to the meeting point and waited.",
+   "alt_mn": [
+    "Би төөрсөн болохоор уулзах цэг дээр очиж хүлээсэн."
+   ],
+   "alt_en": [
+    "Since I got lost, I went to the meeting point and waited."
+   ],
+   "mn_latin": "Bi töörchikhsön bolokhoor uulzakh tseg deer ochij khüleesen."
+  },
+  {
+   "mn": "Бугуйвчаа гэртээ мартсан болохоор дахиад дараалалд зогсох болсон.",
+   "en": "I forgot my wristband at home, so I had to stand in line again.",
+   "alt_mn": [
+    "Бугуйвчаа гэртээ мартчихсан болохоор дахиад дараалалд зогсох болсон."
+   ],
+   "alt_en": [
+    "I left my wristband at home, so I had to wait in line again."
+   ],
+   "mn_latin": "Buguivchaa gertee martsan bolokhoor dakhiad daraalald zogsokh bolson."
+  },
+  {
+   "mn": "Маш их хүн байсан болохоор бид тайзыг харж чадаагүй.",
+   "en": "It was such a big crowd that we couldn't see the stage.",
+   "alt_mn": [
+    "Хүн маш их байсан болохоор бид тайзыг харж чадаагүй."
+   ],
+   "alt_en": [
+    "There were so many people that we couldn't see the stage.",
+    "The crowd was so big that we couldn't see the stage."
+   ],
+   "mn_latin": "Mash ikh khün baisan bolokhoor bid taizyg kharj chadaagüi."
+  },
+  {
+   "mn": "Ус авчирч болохгүй гэсэн болохоор хяналтын цэг дээр савтай усаа хаясан.",
+   "en": "They said we couldn't bring water, so I threw out my bottle of water at the security checkpoint.",
+   "alt_mn": [
+    "Ус авчирч болохгүй гэсэн учраас хяналтын цэг дээр савтай усаа хаясан."
+   ],
+   "alt_en": [
+    "Since they said water wasn't allowed, I threw away my water bottle at the checkpoint."
+   ],
+   "mn_latin": "Us avchirch bolokhgüi gesen bolokhoor khyanaltyn tseg deer savtai usaa khayasan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Explaining delays casually with -сан болохоор",
+  "title_mn": "such a + тэмдэг нэр + нэр үг + that бүтэц",
+  "explain_en": "To give a reason in everyday speech (\"because...\", \"...so...\"), Mongolians often put the past participle -сан before болохоор. The reason comes first and the result second: \"Дараалал урт байсан болохоор хоцорсон\" means \"The line was long, so I was late.\" The suffix follows vowel harmony: -сан (a), -сон (o), -сэн (e), -сөн (ө): цугларсан, орсон, ирсэн, төөрсөн. It also combines with -чих for an \"it just happened\" feeling (төөрчихсөн болохоор). For a negative reason, use -аагүй болохоор: \"Ирээгүй болохоор...\" (\"Since he didn't come...\"). In writing or formal speech, -сан учраас is more common. For a situation that is still going on, use байгаа болохоор.",
+  "explain_mn": "Англи хэлэнд \"маш ... байсан тул ...\" гэсэн утгыг \"such\" болон \"so\"-гоор илэрхийлдэг. Тоолж болох ганц тооны нэр үгтэй бол such a/an + тэмдэг нэр + нэр үг + that: \"It was such a long line that we left.\" Олон тоо эсвэл тоолж болохгүй нэр үгтэй бол a/an хэрэглэхгүй: \"such long lines\", \"such loud music\". Нэр үггүй, зөвхөн тэмдэг нэртэй бол so хэрэглэнэ: \"The line was so long that we left.\" \"so a long line\" гэж хэзээ ч хэлэхгүйг санаарай. Яриан хэлэнд \"that\"-ийг ихэвчлэн гээдэг: \"It was such a long line we left.\"",
+  "examples": [
+   {
+    "mn": "Дараалал маш урт байсан болохоор бид буцсан.",
+    "en": "It was such a long line that we turned back.",
+    "mn_latin": "Daraalal mash urt baisan bolokhoor bid butssan."
+   },
+   {
+    "mn": "Хөгжим их чанга байсан болохоор найзыгаа сонсож чадаагүй.",
+    "en": "The music was so loud that I couldn't hear my friend.",
+    "mn_latin": "Khögjim ikh changa baisan bolokhoor naizygaa sonsoj chadaagüi."
+   },
+   {
+    "mn": "Хүн маш их цугларсан болохоор хаалгыг эрт хаасан.",
+    "en": "There were such big crowds that they closed the gates early.",
+    "mn_latin": "Khün mash ikh tsuglarsan bolokhoor khaalgyg ert khaasan."
+   },
+   {
+    "mn": "Тэр ирээгүй болохоор бид түүнгүйгээр орсон.",
+    "en": "He didn't show up, so we went in without him.",
+    "mn_latin": "Ter ireegüi bolokhoor bid tüüngüigeer orson."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хүн их байсан ___ бид удсан.",
+   "answer": "болохоор",
+   "options": [
+    "болохоор",
+    "боловч",
+    "болохын",
+    "байхад"
+   ],
+   "translation": "There were so many people that it took us a long time.",
+   "explain_en": "болохоор after the past participle (байсан) gives the reason for the result. боловч means \"although\", which is the opposite meaning.",
+   "explain_mn": "\"болохоор\" нь шалтгааныг илэрхийлнэ. \"боловч\" нь эсрэг утгатай, \"болохын\", \"байхад\" энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Олон хүн цуглар___ болохоор хаалгыг эрт нээсэн.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "сон",
+    "сэн",
+    "сөн"
+   ],
+   "translation": "So many people had gathered that they opened the gates early.",
+   "explain_en": "The stem цуглар- has the vowels у and а, so by vowel harmony it takes -сан: цугларсан.",
+   "explain_mn": "\"цуглар-\" үйл үгийн эгшиг нь эр үгийн \"а\" тул \"-сан\" залгана: цугларсан."
+  },
+  {
+   "lang": "mn",
+   "text": "Би олон хүний дунд төөр___ болохоор найз руугаа залгасан.",
+   "answer": "сөн",
+   "options": [
+    "сөн",
+    "сан",
+    "сон",
+    "сэн"
+   ],
+   "translation": "I got lost in the crowd, so I called my friend.",
+   "explain_en": "The stem төөр- has the vowel ө, so it takes -сөн: төөрсөн.",
+   "explain_mn": "\"төөр-\" үйл үгийн эгшиг нь \"ө\" тул \"-сөн\" залгана: төөрсөн."
+  },
+  {
+   "lang": "en",
+   "text": "It was ___ long queue that we almost went home.",
+   "answer": "such a",
+   "options": [
+    "such a",
+    "so",
+    "such",
+    "so a"
+   ],
+   "translation": "Дараалал маш урт байсан болохоор бид гэртээ харих шахсан.",
+   "explain_en": "\"Queue\" is a singular countable noun after an adjective, so we need \"such a.\"",
+   "explain_mn": "\"queue\" нь ганц тооны, тоолж болох нэр үг бөгөөд урд нь тэмдэг нэр байгаа тул \"such a\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The music was ___ loud that I couldn't hear my friend.",
+   "answer": "so",
+   "options": [
+    "so",
+    "such",
+    "such a",
+    "such an"
+   ],
+   "translation": "Хөгжим их чанга байсан болохоор найзыгаа сонсож чадаагүй.",
+   "explain_en": "\"Loud\" is just an adjective with no noun after it, so we use \"so.\"",
+   "explain_mn": "\"loud\"-ын ард нэр үг байхгүй, зөвхөн тэмдэг нэр байгаа тул \"so\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "There were ___ big crowds that the gates closed early.",
+   "answer": "such",
+   "options": [
+    "such",
+    "such a",
+    "so",
+    "so a"
+   ],
+   "translation": "Хүн маш их цугларсан болохоор хаалгыг эрт хаасан.",
+   "explain_en": "\"Crowds\" is plural, so we use \"such\" without \"a.\"",
+   "explain_mn": "\"crowds\" нь олон тоотой тул \"a\"-гүйгээр зөвхөн \"such\" хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Хаана явна? Концерт эхэлчихлээ шүү!",
+   "en": "Where are you? The concert's already started!",
+   "mn_latin": "Khaana yavna? Kontsyert ekhelchikhlee shüü!"
+  },
+  {
+   "speaker": "Батаа",
+   "mn": "Уучлаарай, дараалал маш урт байсан болохоор одоо л хяналтын цэг дээр ирлээ.",
+   "en": "Sorry, it was such a long line that I've only just made it to the security checkpoint.",
+   "mn_latin": "Uuchlaarai, daraalal mash urt baisan bolokhoor odoo l khyanaltyn tseg deer irlee."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Би тайзны ойролцоо байна. Хүн хэт их цугларсан болохоор чи намайг олохгүй байх.",
+   "en": "I'm near the stage. So many people have gathered here that you probably won't find me.",
+   "mn_latin": "Bi taizny oiroltsoo baina. Khün khet ikh tsuglarsan bolokhoor chi namaig olokhgüi baikh."
+  },
+  {
+   "speaker": "Батаа",
+   "mn": "Тэгвэл зүүн талын орох хаалганы дэргэд уулзъя. Тэнд хөл хөдөлгөөн бага байна.",
+   "en": "Then let's meet by the east entrance gate. It's less crowded there.",
+   "mn_latin": "Tegvel züün talyn orokh khaalgany derged uulzya. Tend khöl khödölgöön baga baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За. Би түрүүн нэг удаа төөрчихсөн болохоор одоо болгоомжтой байгаа.",
+   "en": "Okay. I already got lost once earlier, so I'm being careful now.",
+   "mn_latin": "Za. Bi türüün neg udaa töörchikhsön bolokhoor odoo bolgoomjtoi baigaa."
+  },
+  {
+   "speaker": "Батаа",
+   "mn": "Хамгаалалтынхан цүнх бүрийг нэг бүрчлэн шалгаж байгаа болохоор жаахан удах байх.",
+   "en": "Security is checking every single bag, so it might take a little while.",
+   "mn_latin": "Khamgaalaltynkhan tsünkh büriig neg bürchlen shalgaj baigaa bolokhoor jaakhan udakh baikh."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Зүгээр ээ. Утасны цэнэг бага байгаа болохоор дахиж залгахгүй, хаалганы дэргэд хүлээж байна.",
+   "en": "No problem. My battery's low, so I won't call again. I'll be waiting by the gate.",
+   "mn_latin": "Zügeer ee. Utasny tseneg baga baigaa bolokhoor dakhij zalgakhgüi, khaalgany derged khüleej baina."
+  },
+  {
+   "speaker": "Батаа",
+   "mn": "Ойлголоо, арван минутын дараа уулзъя!",
+   "en": "Got it, see you in ten minutes!",
+   "mn_latin": "Oilgoloo, arvan minutyn daraa uulzya!"
+  }
+ ],
+ "culture_note": {
+  "en": "During Naadam in July, tens of thousands of people head to the Central Stadium in Ulaanbaatar for the opening ceremony. Many arrive early in the morning to get through the long lines and security checks. Mobile networks often get overloaded in these crowds, so friends and families usually agree on a landmark, such as a particular gate or statue, as their meeting point before they go in.",
+  "mn": "Долдугаар сард болдог Наадмын нээлтэд Улаанбаатарын Төв цэнгэлдэх хүрээлэн рүү хэдэн арван мянган хүн цуглардаг. Урт дараалал, хяналтын шалгалтыг амжиж давахын тулд олон хүн өглөө эрт ирдэг. Ийм хөл хөдөлгөөнтэй үед гар утасны сүлжээ ихэвчлэн ачаалал даахгүй болдог тул найз нөхөд, гэр бүлийнхэн орохоосоо өмнө тодорхой хаалга эсвэл хөшөөг уулзах цэг болгон тохирдог."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Clean, natural lesson with correct vowel harmony and accurate explanations. The only real mistake is one example translation that adds 'home'."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "The lesson is largely clean. The only real issue was that intro_mn did not mention the Mongolian causal form, which intro_en does.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the -сан болохоор part that intro_en mentions"
+   }
+  ]
+ }
+}

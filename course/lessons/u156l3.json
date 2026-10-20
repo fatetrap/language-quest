@@ -1,0 +1,409 @@
+{
+ "intro_en": "Learn how to politely call about an electricity, heating, or water bill that looks wrong. You will use -х гэсэн юм to say what you wanted to ask and why, and words like тоолуур, өр, and нэхэмжлэх.",
+ "intro_mn": "Цахилгаан, халаалт, усны төлбөр буруу ирсэн үед үйлчилгээний төв рүү эелдгээр залгаж сурна. Англи хэлэнд \"I wanted to ask...\", \"I was wondering...\" гэх мэт өнгөрсөн цагаар зөөлрүүлж хэлэх аргыг эзэмшинэ.",
+ "vocab": [
+  {
+   "mn": "тоолуур",
+   "en": "meter",
+   "pos": "noun",
+   "example_mn": "Манай цахилгааны тоолуур коридорт байдаг.",
+   "example_en": "Our electricity meter is in the hallway.",
+   "mn_latin": "tooluur"
+  },
+  {
+   "mn": "заалт",
+   "en": "meter reading",
+   "pos": "noun",
+   "example_mn": "Тоолуурын заалтыг сар бүр илгээдэг.",
+   "example_en": "I send the meter reading every month.",
+   "mn_latin": "zaalt"
+  },
+  {
+   "mn": "нэхэмжлэх",
+   "en": "bill, invoice",
+   "pos": "noun",
+   "example_mn": "Энэ сарын нэхэмжлэх их ирсэн байна.",
+   "example_en": "This month's bill came in high.",
+   "mn_latin": "nekhemjlekh"
+  },
+  {
+   "mn": "өр",
+   "en": "debt, outstanding balance",
+   "pos": "noun",
+   "example_mn": "Надад өр байхгүй гэж бодож байсан.",
+   "example_en": "I thought I didn't have any outstanding balance.",
+   "mn_latin": "ör"
+  },
+  {
+   "mn": "илүү бодогдох",
+   "en": "to be overcharged",
+   "pos": "verb phrase",
+   "example_mn": "Усны төлбөр илүү бодогдсон байна.",
+   "example_en": "I've been overcharged for water.",
+   "mn_latin": "ilüü bodogdokh"
+  },
+  {
+   "mn": "халаалт",
+   "en": "heating",
+   "pos": "noun",
+   "example_mn": "Өвөл халаалтын төлбөр нэмэгддэг.",
+   "example_en": "The heating charge goes up in winter.",
+   "mn_latin": "khalaalt"
+  },
+  {
+   "mn": "хэрэглээ",
+   "en": "usage, consumption",
+   "pos": "noun",
+   "example_mn": "Энэ сард цахилгааны хэрэглээ их гарсан.",
+   "example_en": "Electricity usage was high this month.",
+   "mn_latin": "khereglee"
+  },
+  {
+   "mn": "лавлах",
+   "en": "to inquire, to check",
+   "pos": "verb",
+   "example_mn": "Би төлбөрийн талаар лавлах гэсэн юм.",
+   "example_en": "I wanted to inquire about the bill.",
+   "mn_latin": "lavlakh"
+  },
+  {
+   "mn": "тодруулах",
+   "en": "to clarify",
+   "pos": "verb",
+   "example_mn": "Нэг зүйл тодруулж болох уу?",
+   "example_en": "Can I clarify one thing?",
+   "mn_latin": "todruulakh"
+  },
+  {
+   "mn": "хасах",
+   "en": "to deduct, to subtract",
+   "pos": "verb",
+   "example_mn": "Илүү төлсөн мөнгийг дараа сарынхаас хасна.",
+   "example_en": "The extra amount will be deducted from next month's bill.",
+   "mn_latin": "khasakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сайн байна уу, энэ сарын цахилгааны төлбөрийн талаар асуух гэсэн юм.",
+   "en": "Hello, I wanted to ask about this month's electricity bill.",
+   "alt_mn": [
+    "Сайн байна уу, энэ сарын цахилгааны төлбөрийн талаар асуух гэж байна."
+   ],
+   "alt_en": [
+    "Hi, I wanted to ask about this month's electricity bill.",
+    "Hello, I was wondering about this month's electricity bill."
+   ],
+   "mn_latin": "Sain baina uu, ene saryn tsakhilgaany tölböriin talaar asuukh gesen yum."
+  },
+  {
+   "mn": "Манай нэхэмжлэх өмнөх сарынхаас хоёр дахин их ирсэн болохоор лавлах гэсэн юм.",
+   "en": "Our bill was twice as high as last month's, so I wanted to check.",
+   "alt_mn": [
+    "Манай нэхэмжлэх өнгөрсөн сарынхаас хоёр дахин их ирсэн учраас лавлах гэсэн юм."
+   ],
+   "alt_en": [
+    "Our bill came in twice as high as last month's, so I wanted to look into it."
+   ],
+   "mn_latin": "Manai nekhemjlekh ömnökh sarynkhaas khoyor dakhin ikh irsen bolokhoor lavlakh gesen yum."
+  },
+  {
+   "mn": "Тоолуурын заалт буруу бичигдсэн байх шиг байна.",
+   "en": "I think the meter reading was recorded incorrectly.",
+   "alt_mn": [
+    "Тоолуурын заалтыг буруу бичсэн байх шиг байна."
+   ],
+   "alt_en": [
+    "It looks like the meter reading was recorded wrong.",
+    "I think the meter reading was entered incorrectly."
+   ],
+   "mn_latin": "Tooluuryn zaalt buruu bichigdsen baikh shig baina."
+  },
+  {
+   "mn": "Бид гэртээ хоёр долоо хоног байгаагүй, гэтэл хэрэглээ их гарсан байна.",
+   "en": "We weren't home for two weeks, but the usage still came out high.",
+   "alt_mn": [
+    "Бид гэртээ хоёр долоо хоног байгаагүй ч хэрэглээ их гарсан байна."
+   ],
+   "alt_en": [
+    "We were away for two weeks, but the usage still came out high."
+   ],
+   "mn_latin": "Bid gertee khoyor doloo khonog baigaagüi, getel khereglee ikh garsan baina."
+  },
+  {
+   "mn": "Надад өр байх ёсгүй, өнгөрсөн сарын төлбөрөө бүрэн төлсөн.",
+   "en": "I shouldn't have any outstanding balance. I paid last month's bill in full.",
+   "alt_mn": [
+    "Би өргүй байх ёстой, өнгөрсөн сарын төлбөрөө бүрэн төлсөн."
+   ],
+   "alt_en": [
+    "I shouldn't owe anything. I paid last month's bill in full."
+   ],
+   "mn_latin": "Nadad ör baikh yosgüi, öngörsön saryn tölböröö büren tölsön."
+  },
+  {
+   "mn": "Халаалтын төлбөр илүү бодогдсон юм шиг санагдаад залгах гэсэн юм.",
+   "en": "I felt like I'd been overcharged for heating, so I wanted to call.",
+   "alt_mn": [
+    "Халаалтын төлбөр илүү бодогдсон юм шиг санагдсан болохоор залгах гэсэн юм."
+   ],
+   "alt_en": [
+    "It seemed like I was overcharged for heating, so I wanted to call."
+   ],
+   "mn_latin": "Khalaaltyn tölbör ilüü bodogdson yum shig sanagdaad zalgakh gesen yum."
+  },
+  {
+   "mn": "Тоолуурынхаа зургийг илгээж болох уу?",
+   "en": "Can I send a photo of my meter?",
+   "alt_mn": [
+    "Тоолуурын зургаа явуулж болох уу?"
+   ],
+   "alt_en": [
+    "Could I send a picture of my meter?"
+   ],
+   "mn_latin": "Tooluurynkhaa zurgiig ilgeej bolokh uu?"
+  },
+  {
+   "mn": "Манай халуун усны тоолуур хоёр сар ажиллахгүй байгаа.",
+   "en": "Our hot water meter hasn't been working for two months.",
+   "alt_mn": [
+    "Манай халуун усны тоолуур хоёр сарын турш ажиллахгүй байна."
+   ],
+   "alt_en": [
+    "Our hot water meter has been broken for two months."
+   ],
+   "mn_latin": "Manai khaluun usny tooluur khoyor sar ajillakhgüi baigaa."
+  },
+  {
+   "mn": "Илүү бодогдсон мөнгийг дараа сарын төлбөрөөс хасаж болох уу?",
+   "en": "Could the overcharged amount be deducted from next month's bill?",
+   "alt_mn": [
+    "Илүү бодогдсон дүнг дараа сарын төлбөрөөс хасаж болох уу?"
+   ],
+   "alt_en": [
+    "Can you take the overcharge off next month's bill?"
+   ],
+   "mn_latin": "Ilüü bodogdson möngiig daraa saryn tölböröös khasaj bolokh uu?"
+  },
+  {
+   "mn": "Би зүгээр л нэг зүйл тодруулах гэсэн юм.",
+   "en": "I just wanted to clarify one thing.",
+   "alt_mn": [
+    "Би зүгээр л нэг юм тодруулах гэсэн юм."
+   ],
+   "alt_en": [
+    "I just needed to clarify one thing."
+   ],
+   "mn_latin": "Bi zügeer l neg züil todruulakh gesen yum."
+  },
+  {
+   "mn": "Шинэ тоолуур тавиулах шаардлагатай юу гэдгийг асуух гэсэн юм.",
+   "en": "I wanted to ask whether I need to have a new meter installed.",
+   "alt_mn": [
+    "Шинэ тоолуур тавиулах хэрэгтэй юу гэж асуух гэсэн юм."
+   ],
+   "alt_en": [
+    "I was wondering if I need to get a new meter installed."
+   ],
+   "mn_latin": "Shine tooluur taviulakh shaardlagatai yuu gedgiig asuukh gesen yum."
+  },
+  {
+   "mn": "Нэхэмжлэх дээр миний мэдэхгүй өр бичигдсэн байна.",
+   "en": "There's a debt on the bill that I don't know anything about.",
+   "alt_mn": [
+    "Нэхэмжлэх дээр миний мэдэхгүй өр гарсан байна."
+   ],
+   "alt_en": [
+    "The bill shows a balance I don't know about."
+   ],
+   "mn_latin": "Nekhemjlekh deer minii medekhgüi ör bichigdsen baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Polite requests with -х гэсэн юм + a reason",
+  "title_mn": "Өнгөрсөн цагаар зөөлрүүлэх: I wanted to ask... / I was wondering...",
+  "explain_en": "To open a call politely, Mongolians add гэсэн юм after a verb in the -х form: асуух гэсэн юм means \"I wanted to ask.\" It sounds softer than асуумаар байна (\"I want to ask\"). To give a reason first, put it before the verb with болохоор or учраас (\"because, so\"), or use a verb in the -аад/-ээд form such as санагдаад (\"it seemed..., so\"). For example, Төлбөр их ирсэн болохоор лавлах гэсэн юм means \"The bill came in high, so I wanted to check.\" To sound even more careful, use байх шиг байна or юм шиг (\"it seems\") instead of stating the problem as a fact.",
+  "explain_mn": "Англи хэлэнд хүсэлтийг өнгөрсөн цагаар хэлбэл илүү эелдэг сонсогддог. \"I wanted to ask about my bill\" нь өнгөрсөн үйл явдлыг биш, яг одоогийн хүсэлтийг илэрхийлнэ. Энэ нь \"асуух гэсэн юм\"-тай адил. Мөн \"I needed to check...\", \"I was wondering if...\" гэж хэлдэг. \"I want...\" гэвэл арай шууд, шаардсан мэт сонсогдож болно. Шалтгааныг \"because\" эсвэл \"so\"-оор холбоно: \"My bill doubled, so I wanted to ask about it.\"",
+  "examples": [
+   {
+    "mn": "Усны төлбөрийн талаар асуух гэсэн юм.",
+    "en": "I wanted to ask about my water bill.",
+    "mn_latin": "Usny tölböriin talaar asuukh gesen yum."
+   },
+   {
+    "mn": "Нэхэмжлэх хоёр дахин их ирсэн болохоор лавлах гэсэн юм.",
+    "en": "My bill doubled, so I needed to check.",
+    "mn_latin": "Nekhemjlekh khoyor dakhin ikh irsen bolokhoor lavlakh gesen yum."
+   },
+   {
+    "mn": "Заалтыг дахин шалгаж болох болов уу гэж асуух гэсэн юм.",
+    "en": "I was wondering if you could check the reading again.",
+    "mn_latin": "Zaaltyg dakhin shalgaj bolokh bolov uu gej asuukh gesen yum."
+   },
+   {
+    "mn": "Илүү бодогдсон юм шиг санагдаад залгах гэсэн юм.",
+    "en": "It seemed like I'd been overcharged, so I wanted to call.",
+    "mn_latin": "Ilüü bodogdson yum shig sanagdaad zalgakh gesen yum."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ сарын нэхэмжлэхийн талаар асуух ___ юм.",
+   "answer": "гэсэн",
+   "options": [
+    "гэсэн",
+    "гэж",
+    "гэвэл",
+    "гээд"
+   ],
+   "translation": "I wanted to ask about this month's bill.",
+   "explain_en": "The fixed polite pattern is verb + -х + гэсэн юм, meaning \"I wanted to...\". The forms гэж, гэвэл, and гээд cannot come right before юм in this pattern.",
+   "explain_mn": "\"-х гэсэн юм\" бол \"I wanted to...\" гэсэн утгатай тогтсон эелдэг хэлбэр. \"Юм\"-ын өмнө \"гэсэн\" ордог."
+  },
+  {
+   "mn_note": "",
+   "lang": "mn",
+   "text": "Төлбөр их ирсэн ___ залгах гэсэн юм.",
+   "answer": "болохоор",
+   "options": [
+    "болохоор",
+    "боловч",
+    "байхад",
+    "хүртэл"
+   ],
+   "translation": "The bill came in high, so I wanted to call.",
+   "explain_en": "болохоор gives a reason (\"because, so\"). боловч means \"although,\" байхад means \"while,\" and хүртэл means \"until.\"",
+   "explain_mn": "Шалтгааныг \"болохоор\" илэрхийлнэ. Англиар \"so\" эсвэл \"because\" гэж орчуулна."
+  },
+  {
+   "lang": "mn",
+   "text": "Халаалтын төлбөр илүү ___ байна.",
+   "answer": "бодогдсон",
+   "options": [
+    "бодогдсон",
+    "бодох",
+    "бодуулах",
+    "бодогдохоор"
+   ],
+   "translation": "I've been overcharged for heating.",
+   "explain_en": "Use the passive past form бодогдсон (\"was calculated\") with байна to report a result you just noticed. илүү бодогдсон means \"overcharged.\"",
+   "explain_mn": "\"Илүү бодогдсон\" нь англиар \"overcharged\" буюу \"was/have been overcharged\" гэсэн үйлдэгдэх хэвийн хэлбэр юм."
+  },
+  {
+   "lang": "en",
+   "text": "Hi, I ___ to ask about my water bill.",
+   "answer": "wanted",
+   "options": [
+    "wanted",
+    "wants",
+    "wanting",
+    "was want"
+   ],
+   "translation": "Сайн байна уу, усны төлбөрийнхөө талаар асуух гэсэн юм.",
+   "explain_en": "\"I wanted to ask\" is the polite, distanced way to open a request. The past tense here refers to the present.",
+   "explain_mn": "\"I wanted to ask\" нь өнгөрсөн цаг хэдий ч одоогийн хүсэлтийг эелдгээр илэрхийлнэ. \"Wants\" бол \"I\"-тэй зөрнө, бусад хувилбар нь дүрмийн хувьд буруу."
+  },
+  {
+   "lang": "en",
+   "text": "I was ___ if you could check my meter reading.",
+   "answer": "wondering",
+   "options": [
+    "wondering",
+    "wonder",
+    "wondered",
+    "wonders"
+   ],
+   "translation": "Тоолуурын заалтыг минь шалгаж өгч болох болов уу гэж асуух гэсэн юм.",
+   "explain_en": "\"I was wondering if...\" uses the past continuous and is one of the softest ways to make a request.",
+   "explain_mn": "\"I was wondering if...\" бол \"was\" + \"-ing\" хэлбэр бөгөөд маш эелдэг хүсэлт юм. \"Was\"-ын дараа заавал \"-ing\" хэлбэр орно."
+  },
+  {
+   "lang": "en",
+   "text": "I think I was ___ for heating last month.",
+   "answer": "overcharged",
+   "options": [
+    "overcharged",
+    "overcharge",
+    "overcharging",
+    "charged over"
+   ],
+   "translation": "Өнгөрсөн сард халаалтын төлбөр илүү бодогдсон байх шиг байна.",
+   "explain_en": "After \"was,\" you need the past participle for the passive: \"was overcharged.\"",
+   "explain_mn": "Үйлдэгдэх хэв (\"was\" + V3) хэрэгтэй: \"was overcharged\" нь \"илүү бодогдсон\" гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Сайн байна уу, үйлчилгээний төв байна. Танд юугаар туслах вэ?",
+   "en": "Hello, this is customer service. How can I help you?",
+   "mn_latin": "Sain baina uu, üilchilgeenii töv baina. Tand yuugaar tuslakh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу. Энэ сарын цахилгааны нэхэмжлэх өмнөх сарынхаас хоёр дахин их ирсэн болохоор лавлах гэсэн юм.",
+   "en": "Hello. This month's electricity bill was twice as high as last month's, so I wanted to look into it.",
+   "mn_latin": "Sain baina uu. Ene saryn tsakhilgaany nekhemjlekh ömnökh sarynkhaas khoyor dakhin ikh irsen bolokhoor lavlakh gesen yum."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Ойлголоо. Таны хэрэглэгчийн дугаарыг хэлж өгөхгүй юу?",
+   "en": "I see. Could you tell me your customer number, please?",
+   "mn_latin": "Oilgoloo. Tany khereglegchiin dugaaryg khelj ögökhgüi yuu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгье, 48217. Бид хөдөө хоёр долоо хоног явсан, гэтэл хэрэглээ их гарсан байна. Тоолуурын заалт буруу бичигдсэн байх шиг байна.",
+   "en": "Sure, 48217. We were in the countryside for two weeks, but the usage still came out high. I think the meter reading was recorded incorrectly.",
+   "mn_latin": "Tegiye, 48217. Bid khödöö khoyor doloo khonog yavsan, getel khereglee ikh garsan baina. Tooluuryn zaalt buruu bichigdsen baikh shig baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Шалгаад үзье. Тийм ээ, заалтыг буруу оруулсан байна. Уучлаарай.",
+   "en": "Let me check. Yes, the reading was entered incorrectly. I'm sorry.",
+   "mn_latin": "Shalgaad üziye. Tiim ee, zaaltyg buruu oruulsan baina. Uuchlaarai."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл илүү бодогдсон мөнгийг дараа сарын төлбөрөөс хасаж болох уу?",
+   "en": "In that case, could the overcharged amount be deducted from next month's bill?",
+   "mn_latin": "Tegvel ilüü bodogdson möngiig daraa saryn tölböröös khasaj bolokh uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Болно. Бас тоолуурынхаа одоогийн заалтын зургийг манай пэйж рүү илгээгээрэй.",
+   "en": "Yes. Please also send a photo of your current meter reading to our page.",
+   "mn_latin": "Bolno. Bas tooluurynkhaa odoogiin zaaltyn zurgiig manai peij rüü ilgeegeerei."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, баярлалаа. Өөр өр байхгүй гэдгийг л тодруулах гэсэн юм.",
+   "en": "Okay, thank you. I just wanted to make sure I don't have any other outstanding balance.",
+   "mn_latin": "Za, bayarlalaa. Öör ör baikhgüi gedgiig l todruulakh gesen yum."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar apartments, central heating and hot water come from the city's heating plants. They are usually billed together with water in one monthly statement, and heating is often charged by the size of the apartment. Most people pay through bank apps. Ger district homes are not connected to central heating, but households there have received discounts on nighttime electricity to encourage electric heating and reduce smoke.",
+  "mn": "Улаанбаатарын орон сууцны төвлөрсөн халаалт, халуун ус хотын дулааны цахилгаан станцуудаас ирдэг. Тэдгээрийн төлбөрийг ихэвчлэн устай нь хамт нэг нэхэмжлэхээр сар бүр гаргадаг бөгөөд халаалтыг байрны талбайгаар нь бодох нь элбэг. Ихэнх хүн төлбөрөө банкны аппаар төлдөг. Гэр хорооллын айлууд төвлөрсөн халаалтад холбогдоогүй ч утааг багасгах, цахилгаан халаагуур ашиглахыг дэмжих зорилгоор шөнийн цахилгааны хөнгөлөлт эдэлж ирсэн."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "Accurate, natural lesson overall. Fixes cover a recurring \"бид хоёр\" ambiguity, one spelling variant, and one unclear grammar description."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson was already clean. Only one alternative translation changed meaning; everything else is accurate and natural.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "'надад мэдэгдээгүй' means 'that I wasn't notified of', not 'that I don't know about'"
+   }
+  ]
+ }
+}

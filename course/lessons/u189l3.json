@@ -1,0 +1,396 @@
+{
+ "intro_en": "In this lesson, you will practice talking with a surgeon before an operation, asking about risks, and using informed-consent vocabulary. You will also learn the Mongolian adversative passive (-уул/-лга) for procedures done to you against your will, and English 'might have been / could have been + -ing' for guessing what happened in the past.",
+ "intro_mn": "Энэ хичээлээр та хагалгааны өмнө мэс засалчтай ярилцаж, эрсдэлийн талаар асууж, мэдээлэлтэй зөвшөөрөлтэй холбоотой үгсийг хэрэглэж сурна. Мөн англи хэлний 'might have been / could have been + -ing' бүтцээр өнгөрсөн үйл явдлын боломжит тайлбарыг хэрхэн хэлэхийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "мэдээлэлтэй зөвшөөрөл",
+   "en": "informed consent",
+   "pos": "noun",
+   "example_mn": "Эмч мэдээлэлтэй зөвшөөрөл авах үүрэгтэй.",
+   "example_en": "The doctor is obligated to obtain informed consent.",
+   "mn_latin": "medeeleltei zövshööröl"
+  },
+  {
+   "mn": "эрсдэл",
+   "en": "risk",
+   "pos": "noun",
+   "example_mn": "Энэ хагалгааны эрсдэл ямар вэ?",
+   "example_en": "What are the risks of this operation?",
+   "mn_latin": "ersdel"
+  },
+  {
+   "mn": "хүндрэл",
+   "en": "complication",
+   "pos": "noun",
+   "example_mn": "Хагалгааны дараа хүндрэл гарч болзошгүй.",
+   "example_en": "Complications may arise after surgery.",
+   "mn_latin": "khündrel"
+  },
+  {
+   "mn": "мэдээ алдуулалт",
+   "en": "anesthesia",
+   "pos": "noun",
+   "example_mn": "Танд ерөнхий мэдээ алдуулалт хийнэ.",
+   "example_en": "You will be given general anesthesia.",
+   "mn_latin": "medee alduulalt"
+  },
+  {
+   "mn": "гарын үсэг зурах",
+   "en": "to sign",
+   "pos": "verb",
+   "example_mn": "Уншиж ойлгосныхоо дараа гарын үсэг зураарай.",
+   "example_en": "Please sign after you have read and understood it.",
+   "mn_latin": "garyn üseg zurakh"
+  },
+  {
+   "mn": "мэс засалч",
+   "en": "surgeon",
+   "pos": "noun",
+   "example_mn": "Мэс засалч надад хагалгааны явцыг тайлбарласан.",
+   "example_en": "The surgeon explained the procedure to me.",
+   "mn_latin": "mes zasalch"
+  },
+  {
+   "mn": "хагалгаа",
+   "en": "operation, surgery",
+   "pos": "noun",
+   "example_mn": "Хагалгаа маргааш өглөө болно.",
+   "example_en": "The operation will take place tomorrow morning.",
+   "mn_latin": "khagalgaa"
+  },
+  {
+   "mn": "тариулах",
+   "en": "to get an injection; to be injected (by someone)",
+   "pos": "verb",
+   "example_mn": "Би сувилагчид буруу эм тариулсан.",
+   "example_en": "A nurse injected me with the wrong medicine.",
+   "mn_latin": "tariulakh"
+  },
+  {
+   "mn": "зөвшөөрөлгүй",
+   "en": "without consent",
+   "pos": "adjective/adverb",
+   "example_mn": "Өвчтөнийг зөвшөөрөлгүй хагалгаанд оруулж болохгүй.",
+   "example_en": "A patient must not be operated on without consent.",
+   "mn_latin": "zövshöörölgüi"
+  },
+  {
+   "mn": "татгалзах",
+   "en": "to refuse, to decline",
+   "pos": "verb",
+   "example_mn": "Та энэ эмчилгээнээс татгалзах эрхтэй.",
+   "example_en": "You have the right to refuse this treatment.",
+   "mn_latin": "tatgalzakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Гарын үсэг зурахаасаа өмнө эрсдэлийг нь бүрэн ойлгомоор байна.",
+   "en": "Before I sign, I want to fully understand the risks.",
+   "alt_mn": [
+    "Гарын үсэг зурахаас өмнө эрсдэлийг бүрэн ойлгомоор байна."
+   ],
+   "alt_en": [
+    "I'd like to fully understand the risks before I sign."
+   ],
+   "mn_latin": "Garyn üseg zurakhaasaa ömnö ersdeliig ni büren oilgomoor baina."
+  },
+  {
+   "mn": "Мэдээ алдуулалтаас ямар хүндрэл гарч болох вэ?",
+   "en": "What complications can anesthesia cause?",
+   "alt_mn": [
+    "Мэдээ алдуулалтын улмаас ямар хүндрэл гарч болох вэ?"
+   ],
+   "alt_en": [
+    "What complications can arise from anesthesia?"
+   ],
+   "mn_latin": "Medee alduulaltaas yamar khündrel garch bolokh ve?"
+  },
+  {
+   "mn": "Ээж маань зөвшөөрөлгүй хагалгаа хийлгэсэн гэж гомдол гаргасан.",
+   "en": "My mother filed a complaint saying she had been operated on without her consent.",
+   "alt_mn": [],
+   "alt_en": [
+    "My mother complained that she had been operated on without consent."
+   ],
+   "mn_latin": "Eej maani zövshöörölgüi khagalgaa khiilgesen gej gomdol gargasan."
+  },
+  {
+   "mn": "Би тайлбар авалгүй тариулчихсан, юу тарьсныг нь ч мэдэхгүй.",
+   "en": "I got an injection without any explanation, and I don't even know what they injected.",
+   "alt_mn": [],
+   "alt_en": [
+    "They gave me an injection without explaining anything, and I don't even know what it was."
+   ],
+   "mn_latin": "Bi tailbar avalgüi tariulchikhsan, yuu tarisnyg ni ch medekhgüi."
+  },
+  {
+   "mn": "Эмч яарч байсан байж магадгүй.",
+   "en": "The doctor might have been rushing.",
+   "alt_mn": [
+    "Эмч яарч байсан байх."
+   ],
+   "alt_en": [
+    "The doctor may have been in a hurry."
+   ],
+   "mn_latin": "Emch yaarch baisan baij magadgüi."
+  },
+  {
+   "mn": "Сувилагч өөр өвчтөний картыг харж байсан байж болох юм.",
+   "en": "The nurse could have been looking at another patient's chart.",
+   "alt_mn": [
+    "Сувилагч өөр өвчтөний картыг харж байсан байж магадгүй."
+   ],
+   "alt_en": [
+    "The nurse might have been looking at another patient's chart."
+   ],
+   "mn_latin": "Suvilagch öör övchtönii kartyg kharj baisan baij bolokh yum."
+  },
+  {
+   "mn": "Энэ хуудсанд бүх хүндрэлийг бичсэн үү?",
+   "en": "Does this form list all the complications?",
+   "alt_mn": [
+    "Энэ хуудсанд бүх хүндрэл бичигдсэн үү?"
+   ],
+   "alt_en": [
+    "Are all the complications listed on this form?"
+   ],
+   "mn_latin": "Ene khuudsand bükh khündreliig bichsen üü?"
+  },
+  {
+   "mn": "Хэрэв би татгалзвал ямар эрсдэлтэй вэ?",
+   "en": "What are the risks if I refuse?",
+   "alt_mn": [
+    "Би татгалзвал ямар эрсдэл гарах вэ?"
+   ],
+   "alt_en": [
+    "What risks are there if I decline?"
+   ],
+   "mn_latin": "Kherev bi tatgalzval yamar ersdeltei ve?"
+  },
+  {
+   "mn": "Мэдээлэлтэй зөвшөөрөл гэдэг нь зөвхөн гарын үсэг биш.",
+   "en": "Informed consent is not just a signature.",
+   "alt_mn": [],
+   "alt_en": [
+    "Informed consent is more than just a signature."
+   ],
+   "mn_latin": "Medeeleltei zövshööröl gedeg ni zövkhön garyn üseg bish."
+  },
+  {
+   "mn": "Түүнд хэлмэрчгүйгээр гарын үсэг зуруулсан.",
+   "en": "He was made to sign without an interpreter.",
+   "alt_mn": [
+    "Түүгээр хэлмэрчгүйгээр гарын үсэг зуруулсан."
+   ],
+   "alt_en": [
+    "They had him sign without an interpreter."
+   ],
+   "mn_latin": "Tüünd khelmerchgüigeer garyn üseg zuruulsan."
+  },
+  {
+   "mn": "Мэс засалч хагалгааны өмнө надтай уулзаж, асуултад минь хариулсан.",
+   "en": "The surgeon met with me before the operation and answered my questions.",
+   "alt_mn": [],
+   "alt_en": [
+    "Before the surgery, the surgeon met with me and answered my questions."
+   ],
+   "mn_latin": "Mes zasalch khagalgaany ömnö nadtai uulzaj, asuultad mini khariulsan."
+  },
+  {
+   "mn": "Тэд намайг тайвшруулах гэж эрсдэлийг багасгаж хэлж байсан байж магадгүй.",
+   "en": "They might have been downplaying the risks to calm me down.",
+   "alt_mn": [],
+   "alt_en": [
+    "They could have been downplaying the risks to reassure me."
+   ],
+   "mn_latin": "Ted namaig taivshruulakh gej ersdeliig bagasgaj khelj baisan baij magadgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Adversative passive (-уул/-лга) and guessing about the past",
+  "title_mn": "Өнгөрсөн үйлийн боломжит тайлбар: might have been / could have been + -ing",
+  "explain_en": "Mongolian often uses the causative suffix (-уул/-үүл, -лга/-лгэ) when something is done TO you, especially something unwanted. 'Хагалгаа хийлгэх' normally means 'to have surgery done', but with 'зөвшөөрөлгүй' (without consent) it means you were operated on against your will. 'Тариулах' means 'to get injected', and if you name the person who did it, put them in the dative: 'сувилагчид тариулсан' (I got injected by the nurse). The suffix '-алгүй/-элгүй' means 'without doing': 'тайлбар авалгүй' = 'without getting an explanation'. Adding '-чих-' (тариулчихсан) stresses that it happened suddenly or against your wishes. To guess about the past, say '-ж байсан байж магадгүй' or '-ж байсан байж болох юм'.",
+  "explain_mn": "Англи хэлэнд өнгөрсөн үед хэн нэгэн юу хийж байсныг таамаглан тайлбарлахдаа 'might have been' эсвэл 'could have been' + үйл үг + -ing хэлбэрийг хэрэглэдэг. Энэ нь монгол хэлний '-ж байсан байж магадгүй / байж болох юм' гэсэнтэй дүйцнэ. Жишээ нь: 'The doctor might have been rushing.' — Эмч яарч байсан байж магадгүй. 'Been' гэдгийг энэ бүтцэд орхиж болохгүй бөгөөд түүний ард заавал -ing хэлбэр орно. Өнгөрсөн үйлийг таамаглахад 'might have been' болон 'could have been' хоёр бараг ижил утгатай бөгөөд хоёулаа 'магадгүй' гэсэн утгыг илэрхийлнэ.",
+  "examples": [
+   {
+    "mn": "Аав маань зөвшөөрөлгүй хагалгаа хийлгэсэн.",
+    "en": "My father was operated on without his consent.",
+    "mn_latin": "Aav maani zövshöörölgüi khagalgaa khiilgesen."
+   },
+   {
+    "mn": "Би тайлбар авалгүй тариулсан.",
+    "en": "I was given an injection without any explanation.",
+    "mn_latin": "Bi tailbar avalgüi tariulsan."
+   },
+   {
+    "mn": "Эмч өөр хүний шинжилгээний хариуг уншиж байсан байж магадгүй.",
+    "en": "The doctor might have been reading someone else's test results.",
+    "mn_latin": "Emch öör khünii shinjilgeenii khariug unshij baisan baij magadgüi."
+   },
+   {
+    "mn": "Тэд яаралтай тохиолдолтой ажиллаж байсан байж болох юм.",
+    "en": "They could have been dealing with an emergency.",
+    "mn_latin": "Ted yaaraltai tokhioldoltoi ajillaj baisan baij bolokh yum."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би сувилагч___ буруу эм тариулсан.",
+   "answer": "ид",
+   "options": [
+    "ид",
+    "аас",
+    "тай",
+    "ийг"
+   ],
+   "translation": "A nurse injected me with the wrong medicine.",
+   "explain_en": "In the adversative passive, the person who does the action to you goes in the dative case: сувилагч + ид = сувилагчид ('by the nurse').",
+   "explain_mn": "Үйлдүүлэх хэвийн өгүүлбэрт үйлийг гүйцэтгэгчийг өгөх-оршихын тийн ялгалаар илэрхийлнэ: сувилагчид тариулсан."
+  },
+  {
+   "lang": "mn",
+   "text": "Өвчтөн зөвшөөрөлгүй хагалгаа ___.",
+   "answer": "хийлгэсэн",
+   "options": [
+    "хийлгэсэн",
+    "хийсэн",
+    "хийв",
+    "хийгээд"
+   ],
+   "translation": "The patient was operated on without consent.",
+   "explain_en": "The patient didn't perform the surgery but had it done to them, so you need the causative/adversative form хийлгэсэн. 'Хийсэн' would mean the patient performed it.",
+   "explain_mn": "Өвчтөн өөрөө хагалгаа хийгээгүй, түүнд хийсэн тул 'хийлгэсэн' гэсэн үйлдүүлэх хэвийн хэлбэр зөв. 'Хийсэн' гэвэл өвчтөн өөрөө хийсэн гэсэн утгатай болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тайлбар ав___ тариулах нь эрхийн зөрчил юм.",
+   "answer": "алгүй",
+   "options": [
+    "алгүй",
+    "аад",
+    "саар",
+    "ч"
+   ],
+   "translation": "Getting an injection without receiving an explanation is a violation of rights.",
+   "explain_en": "The suffix -алгүй/-элгүй means 'without doing (something)': авалгүй = 'without getting'.",
+   "explain_mn": "'-алгүй' нь тухайн үйлийг хийлгүйгээр гэсэн утгатай: авалгүй = тайлбар аваагүй байхад."
+  },
+  {
+   "lang": "en",
+   "text": "The surgeon might have been ___ about another case.",
+   "answer": "thinking",
+   "options": [
+    "thinking",
+    "thought",
+    "think",
+    "thinks"
+   ],
+   "translation": "Мэс засалч өөр тохиолдлын талаар бодож байсан байж магадгүй.",
+   "explain_en": "After 'might have been' you need the -ing form to describe an action in progress in the past.",
+   "explain_mn": "'Might have been'-ийн ард үргэлжилж байсан үйлийг илэрхийлэхийн тулд заавал -ing хэлбэр орно."
+  },
+  {
+   "lang": "en",
+   "text": "The nurse could have ___ following old instructions.",
+   "answer": "been",
+   "options": [
+    "been",
+    "be",
+    "being",
+    "was"
+   ],
+   "translation": "Сувилагч хуучин зааврыг дагаж байсан байж болох юм.",
+   "explain_en": "The structure is 'could have + been + -ing'. After 'have', use the past participle 'been'.",
+   "explain_mn": "Бүтэц нь 'could have + been + -ing'. 'Have'-ийн ард 'been' гэсэн гуравдугаар хэлбэр орно."
+  },
+  {
+   "lang": "en",
+   "text": "Before you sign, make sure you understand all the ___.",
+   "answer": "risks",
+   "options": [
+    "risks",
+    "risky",
+    "risked",
+    "risking"
+   ],
+   "translation": "Гарын үсэг зурахаасаа өмнө бүх эрсдэлийг ойлгосон эсэхээ шалгаарай.",
+   "explain_en": "After 'all the' you need a plural noun: risks.",
+   "explain_mn": "'All the'-ийн ард олон тооны нэр үг орно: risks — эрсдэлүүд."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ганболд",
+   "mn": "Сайн байна уу, Саруул аа. Маргаашийн хагалгааны талаар ярилцъя.",
+   "en": "Hello, Saruul. Let's talk about tomorrow's operation.",
+   "mn_latin": "Sain baina uu, Saruul aa. Margaashiin khagalgaany talaar yariltsya."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Гарын үсэг зурахаасаа өмнө хэдэн асуулт асууя гэсэн юм.",
+   "en": "Before I sign, I wanted to ask a few questions.",
+   "mn_latin": "Garyn üseg zurakhaasaa ömnö kheden asuult asuuya gesen yum."
+  },
+  {
+   "speaker": "Ганболд",
+   "mn": "Мэдээж. Хамгийн түгээмэл хүндрэл бол цус алдалт, халдвар юм.",
+   "en": "Of course. The most common complications are bleeding and infection.",
+   "mn_latin": "Medeej. Khamgiin tügeemel khündrel bol tsus aldalt, khaldvar yum."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Мэдээ алдуулалтын эрсдэл ямар вэ? Өмнө нь би тайлбар авалгүй тариулчихаад их айсан.",
+   "en": "What about the risks of anesthesia? Last time I got an injection without any explanation, and it really scared me.",
+   "mn_latin": "Medee alduulaltyn ersdel yamar ve? Ömnö ni bi tailbar avalgüi tariulchikhaad ikh aisan."
+  },
+  {
+   "speaker": "Ганболд",
+   "mn": "Уучлаарай. Тэр үед эмч нар яаралтай тохиолдолтой ажиллаж байсан байж магадгүй. Гэхдээ энэ нь шалтаг болохгүй.",
+   "en": "I'm sorry. The doctors might have been dealing with an emergency at the time. But that's no excuse.",
+   "mn_latin": "Uuchlaarai. Ter üyed emch nar yaaraltai tokhioldoltoi ajillaj baisan baij magadgüi. Gekhdee ene ni shaltag bolokhgüi."
+  },
+  {
+   "speaker": "Ганболд",
+   "mn": "Мэдээ алдуулагч эмч өнөө орой тантай уулзаж, бүгдийг тайлбарлана.",
+   "en": "The anesthesiologist will meet with you this evening and explain everything.",
+   "mn_latin": "Medee alduulagch emch önöö oroi tantai uulzaj, bügdiig tailbarlana."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Баярлалаа. Хэрэв би эргэлзвэл хагалгаанаас татгалзаж болох уу?",
+   "en": "Thank you. If I have doubts, can I refuse the operation?",
+   "mn_latin": "Bayarlalaa. Kherev bi ergelzvel khagalgaanaas tatgalzaj bolokh uu?"
+  },
+  {
+   "speaker": "Ганболд",
+   "mn": "Болно. Энэ бол таны эрх. Зөвшөөрлөө хүссэн үедээ буцааж авч болно.",
+   "en": "Yes. That's your right. You can withdraw your consent at any time.",
+   "mn_latin": "Bolno. Ene bol tany erkh. Zövshöörlöö khüssen üyedee butsaaj avch bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, as in most countries, hospitals must get a patient's written consent before surgery, and relatives often join these conversations or even help make the decision. Many patients, especially older ones, still feel uncomfortable questioning a doctor. However, asking about risks and alternatives is your legal right, not a sign of disrespect.",
+  "mn": "Монголд ч бусад ихэнх орны адил хагалгааны өмнө эмнэлэг өвчтөнөөс бичгээр зөвшөөрөл авах ёстой бөгөөд ар гэрийнхэн нь ихэвчлэн ярианд оролцож, шийдвэр гаргахад тусалдаг. Олон өвчтөн, ялангуяа ахмад хүмүүс эмчээс асуулт асуухаас одоо ч эвгүйцдэг. Гэвч эрсдэл болон өөр сонголтын талаар асуух нь үл хүндэтгэсэн хэрэг биш, харин таны хуулиар олгогдсон эрх юм."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "Strong, natural lesson. The main fixes are a wrong pronoun case form in one sentence and a mislabeled verb voice in one explanation."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "The lesson is mostly accurate. The only real error was a misleading claim comparing might and could in the Mongolian grammar explanation.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The claim that 'might' sounds more doubtful than 'could' is not accurate. In past speculation the two are near-synonyms."
+   }
+  ]
+ }
+}

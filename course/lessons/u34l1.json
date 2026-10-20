@@ -1,0 +1,464 @@
+{
+ "intro_en": "You will learn to read a job ad, find the key information (vacancy, requirements, salary, deadline) and understand formal requirement phrases. You will also practice the formal wording used in English ads.",
+ "intro_mn": "Та ажлын зарыг уншиж, гол мэдээллийг (сул орон тоо, шаардлага, цалин, хугацаа) олж, албан ёсны шаардлагын хэллэгийг ойлгож сурна. Мөн англи хэл дээрх зарын албан ёсны хэллэгээр дасгал хийнэ.",
+ "vocab": [
+  {
+   "mn": "сул орон тоо",
+   "en": "vacancy",
+   "pos": "noun",
+   "example_mn": "Манай компанид маркетингийн менежерийн сул орон тоо байна.",
+   "example_en": "Our company has a vacancy for a marketing manager.",
+   "mn_latin": "sul oron too"
+  },
+  {
+   "mn": "албан тушаал",
+   "en": "position",
+   "pos": "noun",
+   "example_mn": "Энэ албан тушаалд хариуцлагатай хүн хэрэгтэй.",
+   "example_en": "This position requires a responsible person.",
+   "mn_latin": "alban tushaal"
+  },
+  {
+   "mn": "шаардлага",
+   "en": "requirement",
+   "pos": "noun",
+   "example_mn": "Зарын шаардлагыг сайн уншаарай.",
+   "example_en": "Read the requirements in the ad carefully.",
+   "mn_latin": "shaardlaga"
+  },
+  {
+   "mn": "туршлага",
+   "en": "experience",
+   "pos": "noun",
+   "example_mn": "Надад борлуулалтын чиглэлээр гурван жилийн туршлага бий.",
+   "example_en": "I have three years of experience in sales.",
+   "mn_latin": "turshlaga"
+  },
+  {
+   "mn": "цалин",
+   "en": "salary",
+   "pos": "noun",
+   "example_mn": "Сарын цалин ярилцлагын дараа тохиролцоно.",
+   "example_en": "The monthly salary will be agreed after the interview.",
+   "mn_latin": "tsalin"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "deadline / period",
+   "pos": "noun",
+   "example_mn": "Анкет хүлээн авах хугацаа гуравдугаар сарын 15-нд дуусна.",
+   "example_en": "The application period ends on March 15.",
+   "mn_latin": "khugatsaa"
+  },
+  {
+   "mn": "анкет",
+   "en": "application form",
+   "pos": "noun",
+   "example_mn": "Та анкетаа цахимаар илгээнэ үү.",
+   "example_en": "Please send your application form online.",
+   "mn_latin": "ankyet"
+  },
+  {
+   "mn": "горилогч",
+   "en": "applicant, candidate",
+   "pos": "noun",
+   "example_mn": "Горилогч бүх бичиг баримтаа бүрдүүлэх ёстой.",
+   "example_en": "Applicants must prepare all their documents.",
+   "mn_latin": "gorilogch"
+  },
+  {
+   "mn": "мэргэжил",
+   "en": "profession, field of study",
+   "pos": "noun",
+   "example_mn": "Санхүүгийн мэргэжлээр төгссөн байх шаардлагатай.",
+   "example_en": "A degree in finance is required.",
+   "mn_latin": "mergejil"
+  },
+  {
+   "mn": "шаардах",
+   "en": "to require, demand",
+   "pos": "verb",
+   "example_mn": "Энэ ажил англи хэлний мэдлэг шаардана.",
+   "example_en": "This job requires knowledge of English.",
+   "mn_latin": "shaardakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Банкинд нягтлан бодогчийн сул орон тоо зарласан.",
+   "en": "The bank has announced a vacancy for an accountant.",
+   "alt_mn": [],
+   "alt_en": [
+    "The bank has advertised an accountant vacancy."
+   ],
+   "mn_latin": "Bankind nyagtlan bodogchiin sul oron too zarlasan."
+  },
+  {
+   "mn": "Горилогч дээд боловсролтой байх шаардлагатай.",
+   "en": "Applicants must have a higher education degree.",
+   "alt_mn": [
+    "Горилогч дээд боловсролтой байх ёстой."
+   ],
+   "alt_en": [
+    "Applicants are required to have a university degree."
+   ],
+   "mn_latin": "Gorilogch deed bolovsroltoi baikh shaardlagatai."
+  },
+  {
+   "mn": "Дор хаяж хоёр жил ажилласан байх шаардлагатай.",
+   "en": "At least two years of work experience is required.",
+   "alt_mn": [],
+   "alt_en": [
+    "Applicants must have worked for at least two years."
+   ],
+   "mn_latin": "Dor khayaj khoyor jil ajillasan baikh shaardlagatai."
+  },
+  {
+   "mn": "Англи хэлээр чөлөөтэй ярьж чаддаг байх шаардлагатай.",
+   "en": "Applicants must be able to speak English fluently.",
+   "alt_mn": [],
+   "alt_en": [
+    "Fluent spoken English is required."
+   ],
+   "mn_latin": "Angli kheleer chölöötei yarij chaddag baikh shaardlagatai."
+  },
+  {
+   "mn": "Цалингийн хэмжээг ярилцлагын үеэр тохиролцоно.",
+   "en": "The salary will be negotiated during the interview.",
+   "alt_mn": [],
+   "alt_en": [
+    "The salary is to be agreed at the interview."
+   ],
+   "mn_latin": "Tsalingiin khemjeeg yariltslagyn üyeer tokhiroltsono."
+  },
+  {
+   "mn": "Анкетаа дөрөвдүгээр сарын 1-ээс өмнө илгээх шаардлагатай.",
+   "en": "You must submit your application before April 1.",
+   "alt_mn": [],
+   "alt_en": [
+    "Applications must be submitted before April 1."
+   ],
+   "mn_latin": "Ankyetaa dörövdügeer saryn 1-ees ömnö ilgeekh shaardlagatai."
+  },
+  {
+   "mn": "Энэ албан тушаалд багаар ажиллах чадвар чухал.",
+   "en": "Teamwork skills are important for this position.",
+   "alt_mn": [],
+   "alt_en": [
+    "The ability to work in a team is important for this position."
+   ],
+   "mn_latin": "Ene alban tushaald bagaar ajillakh chadvar chukhal."
+  },
+  {
+   "mn": "Компьютерийн програм дээр ажиллаж чаддаг байх шаардлагатай.",
+   "en": "Applicants must be able to use computer software.",
+   "alt_mn": [],
+   "alt_en": [
+    "Computer software skills are required."
+   ],
+   "mn_latin": "Kompiyutyeriin program deer ajillaj chaddag baikh shaardlagatai."
+  },
+  {
+   "mn": "Зарын хугацаа дууссан тул би анкет илгээж чадсангүй.",
+   "en": "The deadline had passed, so I could not send my application.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because the deadline had passed, I couldn't submit my application."
+   ],
+   "mn_latin": "Zaryn khugatsaa duussan tul bi ankyet ilgeej chadsangüi."
+  },
+  {
+   "mn": "Жолооны үнэмлэхтэй байх нь давуу тал болно.",
+   "en": "Having a driver's license will be an advantage.",
+   "alt_mn": [],
+   "alt_en": [
+    "A driver's license is an advantage."
+   ],
+   "mn_latin": "Joloony ünemlekhtei baikh ni davuu tal bolno."
+  },
+  {
+   "mn": "Дипломын хуулбар болон намтраа хавсаргах шаардлагатай.",
+   "en": "You must attach a copy of your diploma and your CV.",
+   "alt_mn": [],
+   "alt_en": [
+    "A copy of the diploma and a CV must be attached."
+   ],
+   "mn_latin": "Diplomyn khuulbar bolon namtraa khavsargakh shaardlagatai."
+  },
+  {
+   "mn": "Би энэ албан тушаалын шаардлагыг бүрэн хангаж байна.",
+   "en": "I fully meet the requirements for this position.",
+   "alt_mn": [
+    "Би энэ албан тушаалын шаардлагад бүрэн нийцэж байна."
+   ],
+   "alt_en": [
+    "I meet all the requirements of this position."
+   ],
+   "mn_latin": "Bi ene alban tushaalyn shaardlagyg büren khangaj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal requirements: -х шаардлагатай and -сан байх",
+  "title_mn": "Албан ёсны шаардлага: -х шаардлагатай, -сан байх",
+  "explain_en": "Mongolian job ads state requirements with a verb stem + -х + шаардлагатай (\"it is required to...\"): илгээх шаардлагатай = must send. To say a state or past experience must exist, use -сан/-сэн/-сон/-сөн + байх: ажилласан байх = to have worked; төгссөн байх = to have graduated. Use -даг/-дэг/-дог/-дөг + байх for habitual ability: чаддаг байх = to be able to. The suffix vowel follows vowel harmony: ажиллах, төгсөх. Ads use these impersonal forms, so the subject (горилогч) is often omitted. In English ads these match \"must\" and \"be required to\": Applicants must have worked..., Applicants must be able to... Short verbless phrases like \"Experience required\" and \"Degree preferred\" are also common.",
+  "explain_mn": "Монгол хэлний ажлын зарууд шаардлагыг үйл үгийн үндэс + -х + шаардлагатай хэлбэрээр илэрхийлдэг: илгээх шаардлагатай. Өмнөх туршлага, төлөвийг -сан/-сэн/-сон/-сөн + байх хэлбэрээр хэлнэ: ажилласан байх, төгссөн байх. Чадварыг -даг/-дэг/-дог/-дөг + байх хэлбэрээр илэрхийлнэ: чаддаг байх. Залгаврын эгшиг эгшиг зохицох ёсоор сонгогдоно: ажиллах, төгсөх. Зарт эдгээр хувийн бус хэлбэрийг хэрэглэдэг тул эзэн (горилогч) ихэвчлэн орхигддог. Англи хэлний зарт энэ нь \"must\", \"be required to\" бүтэцтэй дүйнэ: Applicants must have worked..., Applicants must be able to... Мөн \"Experience required\", \"Degree preferred\" гэх мэт үйл үггүй товч хэллэг түгээмэл.",
+  "examples": [
+   {
+    "mn": "Анкетаа цахимаар илгээх шаардлагатай.",
+    "en": "Applications must be submitted online.",
+    "mn_latin": "Ankyetaa tsakhimaar ilgeekh shaardlagatai."
+   },
+   {
+    "mn": "Дээд сургууль төгссөн байх шаардлагатай.",
+    "en": "Applicants must have graduated from a university.",
+    "mn_latin": "Deed surguuli tögssön baikh shaardlagatai."
+   },
+   {
+    "mn": "Менежерээр ажилласан байх нь давуу тал.",
+    "en": "Having worked as a manager is an advantage.",
+    "mn_latin": "Myenyejyereer ajillasan baikh ni davuu tal."
+   },
+   {
+    "mn": "Орос хэлээр харилцаж чаддаг байх шаардлагатай.",
+    "en": "Applicants must be able to communicate in Russian.",
+    "mn_latin": "Oros kheleer khariltsaj chaddag baikh shaardlagatai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Горилогч бүх бичиг баримтаа бүрдүүл___ шаардлагатай.",
+   "answer": "эх",
+   "options": [
+    "эх",
+    "сэн",
+    "дэг",
+    "ээд"
+   ],
+   "translation": "Applicants are required to prepare all their documents.",
+   "explain_en": "-х + шаардлагатай expresses a requirement. The stem бүрдүүл- has front vowels, so it takes -эх: бүрдүүлэх.",
+   "explain_mn": "-х + шаардлагатай нь шаардлагыг илэрхийлнэ. Бүрдүүл- үндэс эм эгшигтэй тул -эх залгана: бүрдүүлэх."
+  },
+  {
+   "lang": "mn",
+   "text": "Дор хаяж гурван жил ажилла___ байх шаардлагатай.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "даг",
+    "х",
+    "аад"
+   ],
+   "translation": "At least three years of work experience is required.",
+   "explain_en": "Past experience is expressed with -сан + байх: ажилласан байх.",
+   "explain_mn": "Өмнөх туршлагыг -сан + байх хэлбэрээр илэрхийлнэ: ажилласан байх."
+  },
+  {
+   "lang": "mn",
+   "text": "Англи хэлээр чөлөөтэй ярьж ___ байх шаардлагатай.",
+   "answer": "чаддаг",
+   "options": [
+    "чаддаг",
+    "чадах",
+    "чадсан",
+    "чадаад"
+   ],
+   "translation": "Applicants must be able to speak English fluently.",
+   "explain_en": "Ability as a stable skill uses чаддаг байх.",
+   "explain_mn": "Тогтвортой чадварыг чаддаг байх гэж илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Applicants must ___ a degree in economics.",
+   "answer": "have",
+   "options": [
+    "have",
+    "having",
+    "has",
+    "to have"
+   ],
+   "translation": "Горилогч эдийн засгийн мэргэжлээр төгссөн байх ёстой.",
+   "explain_en": "After the modal 'must' use the base form: must have.",
+   "explain_mn": "'must'-ын дараа үйл үг үндсэн хэлбэрээрээ орно: must have."
+  },
+  {
+   "lang": "en",
+   "text": "Applicants must be ___ to work on weekends.",
+   "answer": "able",
+   "options": [
+    "able",
+    "can",
+    "possible",
+    "ability"
+   ],
+   "translation": "Горилогч амралтын өдөр ажиллах боломжтой байх ёстой.",
+   "explain_en": "'Must be able to' is the fixed formal phrase, since 'must can' is incorrect.",
+   "explain_mn": "'must can' гэж хэлэхгүй, 'must be able to' гэсэн тогтсон хэллэг хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Applications must ___ submitted before the deadline.",
+   "answer": "be",
+   "options": [
+    "be",
+    "been",
+    "being",
+    "is"
+   ],
+   "translation": "Анкетыг хугацаа дуусахаас өмнө илгээх ёстой.",
+   "explain_en": "Passive after 'must': must be + past participle.",
+   "explain_mn": "Үйлдэгдэхүйн хэлбэр: must be + V3."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Би өнөөдөр сонирхолтой зар олсон. Банкинд харилцагчийн менежерийн сул орон тоо байна.",
+   "en": "I found an interesting ad today. The bank has a vacancy for a customer manager.",
+   "mn_latin": "Bi önöödör sonirkholtoi zar olson. Bankind khariltsagchiin myenyejyeriin sul oron too baina."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Шаардлага нь юу вэ?",
+   "en": "What are the requirements?",
+   "mn_latin": "Shaardlaga ni yuu ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Санхүүгийн мэргэжлээр төгссөн, хоёр жил ажилласан байх шаардлагатай гэсэн.",
+   "en": "It says you must have graduated in finance and have worked for two years.",
+   "mn_latin": "Sankhüügiin mergejleer tögssön, khoyor jil ajillasan baikh shaardlagatai gesen."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Чамд тэр туршлага бий юу?",
+   "en": "Do you have that experience?",
+   "mn_latin": "Chamd ter turshlaga bii yuu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Бий. Мөн англи хэлээр ярьж чаддаг байх ёстой, би чадна.",
+   "en": "Yes. It also says you have to be able to speak English, and I can.",
+   "mn_latin": "Bii. Mön angli kheleer yarij chaddag baikh yostoi, bi chadna."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Цалингийн талаар юу гэсэн байна?",
+   "en": "What does it say about the salary?",
+   "mn_latin": "Tsalingiin talaar yuu gesen baina?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Ярилцлагын үеэр тохиролцоно гэжээ. Анкетаа гуравдугаар сарын 20-ны дотор илгээх хэрэгтэй.",
+   "en": "It says it will be negotiated at the interview. I need to send my application by March 20.",
+   "mn_latin": "Yariltslagyn üyeer tokhiroltsono gejee. Ankyetaa guravdugaar saryn 20-ny dotor ilgeekh kheregtei."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тэгвэл өнөөдөртөө л илгээчих. Амжилт хүсье!",
+   "en": "Then send it today. Good luck!",
+   "mn_latin": "Tegvel önöödörtöö l ilgeechikh. Amjilt khüsiye!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, job ads are often posted on sites like unegui.mn and zar.mn, on Facebook pages, and on company websites. Ads usually list requirements in a bulleted list and often say the salary is \"negotiable\" (тохиролцоно). Applicants typically send a CV (намтар) and a copy of their diploma.",
+  "mn": "Монголд ажлын зарыг unegui.mn, zar.mn зэрэг сайт, Фэйсбүүк хуудас, компанийн вэбсайтаар тавьдаг. Шаардлагыг ихэвчлэн жагсаалтаар бичиж, цалинг \"тохиролцоно\" гэж заах нь элбэг. Горилогчид ихэвчлэн намтар болон дипломын хуулбараа илгээдэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 9,
+  "notes": "Mostly good content, but the Mongolian grammar explanation was wrong in focus and the first fill-blank had a spelling/answer problem."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Main problems were the broken fill-in-the-blank morphology, a second correct option, and en/mn grammar explanations that did not match.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "дадлагажуулна means to train someone else, which is the wrong verb here"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_en",
+    "why": "'deadline ends' is unnatural; the Mongolian says the period ends"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_en",
+    "why": "'by' includes April 1, but өмнө means before"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "давуу талтай means 'has an advantage', which is a different meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "'төгссөн дипломын' is unnatural and redundant"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Synced the content with the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Added the missing suffix variants and matched the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "With the stem бүрдүүлэ-, the answer эх would produce бүрдүүлээх"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "Distractors now use correct front-vowel harmony"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Accurate explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "The previous explanation was inaccurate"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "зэрэгтэй is ambiguous (it can mean rank)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'ready' was also a correct answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Natural rendering of 'before the deadline'"
+   }
+  ]
+ }
+}

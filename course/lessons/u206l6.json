@@ -1,0 +1,472 @@
+{
+ "intro_en": "Follow the story of a young woman raised abroad who lost her Mongolian and then won it back. You'll learn words for identity and belonging. You'll review the Mongolian patterns -ж л байвал (\"as long as you keep doing\") and -аад л (\"just once / as soon as\"), and the English patterns would rather / prefer + object, all in reflective storytelling.",
+ "intro_mn": "Гадаадад өсөж, монгол хэлээ мартаад дахин сэргээсэн залуу бүсгүйн түүхтэй танилцана. Өвөрмөц байдал, харьяалагдах мэдрэмжийн тухай үгсийг сурна. Мөн монгол хэлний -ж л байвал (\"тасралтгүй хийсээр байвал\"), -аад л (\"ганц удаа ...-аад\", \"...-магц\") хэлбэр болон англи хэлний would rather / prefer + object бүтцийг хувийн дурсамжаар давтана.",
+ "vocab": [
+  {
+   "mn": "өв хэл",
+   "en": "heritage language",
+   "pos": "noun",
+   "example_mn": "Монгол хэл бол миний өв хэл.",
+   "example_en": "Mongolian is my heritage language.",
+   "mn_latin": "öv khel"
+  },
+  {
+   "mn": "өвөрмөц байдал",
+   "en": "identity",
+   "pos": "noun",
+   "example_mn": "Хэл бол бидний өвөрмөц байдлын үндэс.",
+   "example_en": "Language is the foundation of our identity.",
+   "mn_latin": "övörmöts baidal"
+  },
+  {
+   "mn": "харьяалагдах мэдрэмж",
+   "en": "sense of belonging",
+   "pos": "noun",
+   "example_mn": "Би удаан хугацаанд харьяалагдах мэдрэмжээ олж чадаагүй.",
+   "example_en": "For a long time I couldn't find where I belonged.",
+   "mn_latin": "khariyaalagdakh medremj"
+  },
+  {
+   "mn": "хэлээ сэргээх",
+   "en": "to regain one's language",
+   "pos": "verb phrase",
+   "example_mn": "Тэр хорин таван настайдаа хэлээ сэргээж эхэлсэн.",
+   "example_en": "She started regaining her language at twenty-five.",
+   "mn_latin": "khelee sergeekh"
+  },
+  {
+   "mn": "ичих сэтгэл",
+   "en": "sense of shame, embarrassment",
+   "pos": "noun phrase",
+   "example_mn": "Ичих сэтгэлээ даваад ярьж эхэлсэн.",
+   "example_en": "I got over my embarrassment and started speaking.",
+   "mn_latin": "ichikh setgel"
+  },
+  {
+   "mn": "аялга",
+   "en": "accent",
+   "pos": "noun",
+   "example_mn": "Миний монгол аялга одоо ч сонин сонсогддог.",
+   "example_en": "My Mongolian accent still sounds odd.",
+   "mn_latin": "ayalga"
+  },
+  {
+   "mn": "эх орон",
+   "en": "homeland",
+   "pos": "noun",
+   "example_mn": "Эх орондоо очих бүрдээ сэтгэл догдолдог.",
+   "example_en": "Every time I go to my homeland, I get emotional.",
+   "mn_latin": "ekh oron"
+  },
+  {
+   "mn": "мартагдах",
+   "en": "to be forgotten, to fade",
+   "pos": "verb",
+   "example_mn": "Хэрэглэхгүй бол хэл мартагддаг.",
+   "example_en": "If you don't use a language, it fades.",
+   "mn_latin": "martagdakh"
+  },
+  {
+   "mn": "өөртөө итгэх итгэл",
+   "en": "self-confidence",
+   "pos": "noun phrase",
+   "example_mn": "Ярих тусам өөртөө итгэх итгэл нэмэгдсэн.",
+   "example_en": "The more I spoke, the more confident I became.",
+   "mn_latin": "öörtöö itgekh itgel"
+  },
+  {
+   "mn": "хоёр соёлын дунд",
+   "en": "between two cultures",
+   "pos": "phrase",
+   "example_mn": "Бид хоёр соёлын дунд өссөн.",
+   "example_en": "We grew up between two cultures.",
+   "mn_latin": "khoyor soyolyn dund"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би Сөүлд өссөн болохоор монгол хэлээ бараг мартчихсан байсан.",
+   "en": "I grew up in Seoul, so I had almost forgotten my Mongolian.",
+   "alt_mn": [
+    "Сөүлд өссөн учраас би монгол хэлээ бараг мартчихсан байсан."
+   ],
+   "alt_en": [
+    "Because I grew up in Seoul, I had nearly forgotten my Mongolian."
+   ],
+   "mn_latin": "Bi Söüld össön bolokhoor mongol khelee barag martchikhsan baisan."
+  },
+  {
+   "mn": "Аялгыг минь хүмүүс шоолоход ичих сэтгэл төрдөг байсан.",
+   "en": "I used to feel ashamed when people made fun of my accent.",
+   "alt_mn": [
+    "Хүмүүс аялгыг минь шоолоход би ичдэг байсан."
+   ],
+   "alt_en": [
+    "When people mocked my accent, I used to feel embarrassed."
+   ],
+   "mn_latin": "Ayalgyg mini khümüüs shoolokhod ichikh setgel tördög baisan."
+  },
+  {
+   "mn": "Өдөр бүр бага ч гэсэн ярьж л байвал хэл чинь сэргэнэ.",
+   "en": "As long as you keep speaking a little every day, your language will come back.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you just keep speaking a little every day, your language will come back."
+   ],
+   "mn_latin": "Ödör bür baga ch gesen yarij l baival khel chini sergene."
+  },
+  {
+   "mn": "Нэг удаа шоолуулаад л би монголоор ярихаа больсон.",
+   "en": "After being teased just once, I stopped speaking Mongolian.",
+   "alt_mn": [],
+   "alt_en": [
+    "Getting teased just one time was enough to make me stop speaking Mongolian."
+   ],
+   "mn_latin": "Neg udaa shooluulaad l bi mongoloor yarikhaa bolison."
+  },
+  {
+   "mn": "Эмээтэйгээ ярьж эхлээд л харьяалагдах мэдрэмж гэж юу болохыг ойлгосон.",
+   "en": "As soon as I started talking with my grandmother, I understood what belonging means.",
+   "alt_mn": [],
+   "alt_en": [
+    "Once I started talking with my grandmother, I understood what it means to belong."
+   ],
+   "mn_latin": "Emeeteigee yarij ekhleed l khariyaalagdakh medremj gej yuu bolokhyg oilgoson."
+  },
+  {
+   "mn": "Миний өвөрмөц байдал хоёр соёлын дунд бүрэлдсэн.",
+   "en": "My identity took shape between two cultures.",
+   "alt_mn": [
+    "Миний өвөрмөц байдал хоёр соёлын дунд төлөвшсөн."
+   ],
+   "alt_en": [
+    "My identity was formed between two cultures."
+   ],
+   "mn_latin": "Minii övörmöts baidal khoyor soyolyn dund büreldsen."
+  },
+  {
+   "mn": "Эцэг эх маань надтай гэртээ зөвхөн монголоор ярьдаг байсан бол дээр байх байсан.",
+   "en": "I'd rather my parents had spoken only Mongolian with me at home.",
+   "alt_mn": [],
+   "alt_en": [
+    "I wish my parents had spoken only Mongolian with me at home."
+   ],
+   "mn_latin": "Etseg ekh maani nadtai gertee zövkhön mongoloor yaridag baisan bol deer baikh baisan."
+  },
+  {
+   "mn": "Би хүүхдүүдээ хоёр хэлтэй өсөхийг илүүд үзнэ.",
+   "en": "I'd prefer my children to grow up bilingual.",
+   "alt_mn": [],
+   "alt_en": [
+    "I would prefer my kids to grow up bilingual."
+   ],
+   "mn_latin": "Bi khüükhdüüdee khoyor kheltei ösökhiig ilüüd üzne."
+  },
+  {
+   "mn": "Хэлээ сэргээх нь зөвхөн үг цээжлэх биш, өөрийгөө эргэж олох явдал юм.",
+   "en": "Regaining your language isn't just memorizing words; it's finding yourself again.",
+   "alt_mn": [],
+   "alt_en": [
+    "Getting your language back isn't only about memorizing words; it's about rediscovering yourself."
+   ],
+   "mn_latin": "Khelee sergeekh ni zövkhön üg tseejlekh bish, ööriigöö ergej olokh yavdal yum."
+  },
+  {
+   "mn": "Улаанбаатарт ирээд л би эх орондоо өөрийгөө харь хүн шиг мэдэрсэн.",
+   "en": "As soon as I arrived in Ulaanbaatar, I felt like a stranger in my own homeland.",
+   "alt_mn": [],
+   "alt_en": [
+    "The moment I got to Ulaanbaatar, I felt like a foreigner in my own homeland."
+   ],
+   "mn_latin": "Ulaanbaatart ireed l bi ekh orondoo ööriigöö khari khün shig medersen."
+  },
+  {
+   "mn": "Алдаа гаргахаас айлгүй ярьж л байвал өөртөө итгэх итгэл аяндаа ирнэ.",
+   "en": "As long as you keep talking without fear of mistakes, confidence will come naturally.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you just keep speaking without being afraid of mistakes, your confidence will come on its own."
+   ],
+   "mn_latin": "Aldaa gargakhaas ailgüi yarij l baival öörtöö itgekh itgel ayandaa irne."
+  },
+  {
+   "mn": "Чимээгүй байснаас алдаатай ч гэсэн ярьсан нь дээр гэж би боддог.",
+   "en": "I'd rather speak with mistakes than stay silent.",
+   "alt_mn": [],
+   "alt_en": [
+    "I would rather make mistakes when I speak than stay silent."
+   ],
+   "mn_latin": "Chimeegüi baisnaas aldaatai ch gesen yarisan ni deer gej bi boddog."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reflecting on change: -ж л байвал, -аад л, and would rather / prefer + object",
+  "title_mn": "Хувийн эргэцүүлэл: -ж л байвал, -аад л ба would rather / prefer + object",
+  "explain_en": "Mongolian: both patterns use the little particle л (\"just\") and appear constantly in personal stories. Verb + -ж/-ч + л байвал means \"as long as you keep doing X\". It describes a steady, ongoing habit that leads to a result (ярьж л байвал сэргэнэ, \"as long as you keep speaking, it comes back\"). Verb + -аад/-ээд/-оод/-өөд + л means \"just by doing X once\" or \"as soon as X happened\". It marks a single event that triggers a change (шоолуулаад л больсон, \"after being teased just once, I quit\"). In short, -ж л байвал is the slow, continuous path, and -аад л is the one moment that changes things. Choose the vowel by vowel harmony: ирээд, ярьж эхлээд, олоод. English: 1) would rather + another person + past simple expresses a present wish: I'd rather you spoke Mongolian with me. 2) would rather + another person + past perfect expresses regret about the past: I'd rather my parents had spoken Mongolian at home. 3) About your own choice, use would rather + bare infinitive + than: I'd rather speak with mistakes than stay silent. 4) prefer + object + to-infinitive: I'd prefer my children to grow up bilingual. No \"to\" after would rather, but \"to\" is required after prefer + object.",
+  "explain_mn": "Монгол хэл: хоёр хэлбэр хоёулаа л сул үгтэй бөгөөд хувийн түүхэнд маш олон гардаг. Үйл үг + -ж/-ч + л байвал нь \"тасралтгүй хийсээр байвал\" гэсэн утгатай. Тогтмол, үргэлжилсэн үйл үр дүнд хүргэхийг илэрхийлнэ: ярьж л байвал сэргэнэ. Үйл үг + -аад/-ээд/-оод/-өөд + л нь \"ганц удаа хийгээд л\" буюу \"...-магц\" гэсэн утгатай. Нэг удаагийн үйл явдал өөрчлөлт авчрахыг илэрхийлнэ: шоолуулаад л больсон. Товчхондоо -ж л байвал нь удаан, тасралтгүй зам, -аад л нь бүхнийг өөрчилсөн ганц мөч юм. Эгшгийг эгшиг зохицох ёсоор сонгоно: ирээд, ярьж эхлээд, олоод. Англи хэл: 1) would rather + бусад хүн + Past Simple нь одоогийн хүслийг илэрхийлнэ: I'd rather you spoke Mongolian with me. (Надтай монголоор ярьдаг бол дээр байна.) 2) would rather + бусад хүн + Past Perfect нь өнгөрсөнд болсон зүйлд харамсахыг илэрхийлнэ: I'd rather my parents had spoken Mongolian at home. 3) Өөрийнхөө сонголтын тухай ярихдаа would rather + to-гүй үндсэн үйл үг + than хэрэглэнэ: I'd rather speak with mistakes than stay silent. 4) prefer + хүн + to-тэй үйл үг: I'd prefer my children to grow up bilingual. Анхаар: would rather-ийн дараа to орохгүй, харин prefer + хүн бүтцийн дараа to заавал орно.",
+  "examples": [
+   {
+    "mn": "Өдөр бүр уншиж л байвал үгийн сан чинь өснө.",
+    "en": "As long as you keep reading every day, your vocabulary will grow.",
+    "mn_latin": "Ödör bür unshij l baival ügiin san chini ösnö."
+   },
+   {
+    "mn": "Эмээгийнхээ дуу хоолойг сонсоод л нулимс минь гарсан.",
+    "en": "As soon as I heard my grandmother's voice, I burst into tears.",
+    "mn_latin": "Emeegiinkhee duu khooloig sonsood l nulims mini garsan."
+   },
+   {
+    "mn": "Эцэг эх маань намайг монгол сургуульд явуулсан бол дээр байх байсан.",
+    "en": "I'd rather my parents had sent me to Mongolian school.",
+    "mn_latin": "Etseg ekh maani namaig mongol surguulid yavuulsan bol deer baikh baisan."
+   },
+   {
+    "mn": "Би охиноо зунаа хөдөө эмээгийнд нь өнгөрүүлэхийг илүүд үзнэ.",
+    "en": "I'd prefer my daughter to spend the summer with her grandmother in the countryside.",
+    "mn_latin": "Bi okhinoo zunaa khödöö emeegiind ni öngörüülekhiig ilüüd üzne."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өдөр бүр ярь___ л байвал хэл чинь мартагдахгүй.",
+   "answer": "ж",
+   "options": [
+    "ж",
+    "иад",
+    "сан",
+    "вал"
+   ],
+   "translation": "As long as you keep speaking every day, your language won't fade.",
+   "explain_en": "The pattern for \"as long as you keep doing\" is -ж/-ч + л байвал. After ярь- the converb ending is -ж: ярьж л байвал.",
+   "explain_mn": "Үргэлжилсэн, тогтмол үйлийг \"-ж л байвал\" хэлбэрээр илэрхийлнэ: ярьж л байвал."
+  },
+  {
+   "lang": "mn",
+   "text": "Нэг удаа шоолуул___ л би монголоор ярихаа больсон.",
+   "answer": "аад",
+   "options": [
+    "аад",
+    "ж",
+    "вал",
+    "сан"
+   ],
+   "translation": "After being teased just once, I stopped speaking Mongolian.",
+   "explain_en": "A single event that triggered a change takes -аад л (\"just once, and then\"). The stem шоолуул- has back vowels, so the ending is -аад.",
+   "explain_mn": "Нэг удаагийн үйлдэл өөрчлөлтөд хүргэсэн тул \"-аад л\" хэрэглэнэ. Эр үгтэй тул -аад: шоолуулаад."
+  },
+  {
+   "lang": "mn",
+   "text": "Аялгаасаа болж ___ сэтгэл төрдөг байсан.",
+   "answer": "ичих",
+   "options": [
+    "ичих",
+    "ичсэн",
+    "ичиж",
+    "ичвэл"
+   ],
+   "translation": "I used to feel ashamed because of my accent.",
+   "explain_en": "\"Sense of shame\" is the fixed phrase ичих сэтгэл, with the -х verbal noun used like an adjective before сэтгэл.",
+   "explain_mn": "\"Ичих сэтгэл\" бол тогтвортой хэллэг. Үйлт нэрийн -х хэлбэр сэтгэл гэдэг үгийг тодотгоно."
+  },
+  {
+   "lang": "en",
+   "text": "I'd rather my parents ___ spoken Mongolian with me when I was little.",
+   "answer": "had",
+   "options": [
+    "had",
+    "have",
+    "would",
+    "were"
+   ],
+   "translation": "Эцэг эх маань намайг бага байхад надтай монголоор ярьдаг байсан бол дээр байх байсан.",
+   "explain_en": "For a regret about the past, use would rather + subject + past perfect: had spoken.",
+   "explain_mn": "Өнгөрсөнд болсон зүйлд харамсаж байгаа тул would rather-ийн дараа Past Perfect (had + V3) хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I'd prefer my kids ___ grow up bilingual.",
+   "answer": "to",
+   "options": [
+    "to",
+    "that",
+    "for",
+    "will"
+   ],
+   "translation": "Би хүүхдүүдээ хоёр хэлтэй өсөхийг илүүд үзнэ.",
+   "explain_en": "Prefer + object is followed by a to-infinitive: prefer my kids to grow up.",
+   "explain_mn": "Prefer + хүн + to + үйл үг бүтэц тул энд \"to\" заавал орно."
+  },
+  {
+   "lang": "en",
+   "text": "She'd rather ___ with mistakes than stay silent.",
+   "answer": "speak",
+   "options": [
+    "speak",
+    "to speak",
+    "speaking",
+    "spoke"
+   ],
+   "translation": "Тэр чимээгүй байснаас алдаатай ч гэсэн ярьсан нь дээр гэж боддог.",
+   "explain_en": "When the subject is talking about her own choice, would rather takes the bare infinitive, with no \"to\": would rather speak.",
+   "explain_mn": "Өөрийнхөө сонголтын тухай ярихад would rather-ийн дараа to-гүй үндсэн үйл үг орно: would rather speak."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Ану, чи Чикагод өссөн мөртлөө монголоор маш сайн ярьдаг юм аа.",
+   "en": "Anu, you grew up in Chicago, but you speak Mongolian really well.",
+   "mn_latin": "Anu, chi Chikagod össön mörtlöö mongoloor mash sain yaridag yum aa."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Баярлалаа. Гэхдээ арван хэдэн настайдаа бараг мартчихсан байсан шүү.",
+   "en": "Thanks. But in my teens I had almost forgotten it.",
+   "mn_latin": "Bayarlalaa. Gekhdee arvan kheden nastaidaa barag martchikhsan baisan shüü."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Яагаад? Гэртээ монголоор ярьдаггүй байсан юм уу?",
+   "en": "Why? Didn't you speak Mongolian at home?",
+   "mn_latin": "Yaagaad? Gertee mongoloor yaridaggüi baisan yum uu?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Ярьдаг байсан. Гэтэл нэг удаа найзууд минь аялгыг минь шоолоод л би ичих сэтгэлдээ дарагдаад англиар л ярьдаг болсон.",
+   "en": "We did. But once my friends made fun of my accent, I was overwhelmed with embarrassment and switched to English only.",
+   "mn_latin": "Yaridag baisan. Getel neg udaa naizuud mini ayalgyg mini shoolood l bi ichikh setgeldee daragdaad angliar l yaridag bolson."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тэгээд яаж хэлээ сэргээсэн бэ?",
+   "en": "So how did you get your language back?",
+   "mn_latin": "Tegeed yaaj khelee sergeesen be?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Хорин настайдаа хөдөө эмээгийндээ нэг зун очоод л бүх зүйл өөрчлөгдсөн. Тэнд л харьяалагдах мэдрэмж гэж юу болохыг мэдэрсэн.",
+   "en": "At twenty, I spent one summer at my grandmother's in the countryside, and everything changed. That's where I felt what belonging really is.",
+   "mn_latin": "Khorin nastaidaa khödöö emeegiindee neg zun ochood l bükh züil öörchlögdsön. Tend l khariyaalagdakh medremj gej yuu bolokhyg medersen."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Ирээдүйд хүүхдүүдээ ямар хэлтэй өсгөмөөр байна?",
+   "en": "What language do you want to raise your kids in?",
+   "mn_latin": "Ireedüid khüükhdüüdee yamar kheltei ösgömöör baina?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Тэднийг хоёр хэлтэй өсөхийг илүүд үзнэ. Өдөр бүр монголоор ярьж л байвал мартахгүй гэдгийг би өөрөө мэднэ.",
+   "en": "I'd prefer them to grow up bilingual. I know from experience that as long as you keep speaking Mongolian every day, you won't forget it.",
+   "mn_latin": "Tedniig khoyor kheltei ösökhiig ilüüd üzne. Ödör bür mongoloor yarij l baival martakhgüi gedgiig bi ööröö medne."
+  }
+ ],
+ "culture_note": {
+  "en": "Large Mongolian communities now live in South Korea, the United States, Japan, and Europe, and many children there grow up hearing Mongolian only at home. For many heritage speakers, a summer spent with grandparents in the countryside or a visit during Tsagaan Sar becomes the turning point that revives the language. Mongolians in the homeland increasingly encourage these speakers instead of correcting their accent, because a brave, imperfect Mongolian keeps the language alive.",
+  "mn": "Өнөөдөр Өмнөд Солонгос, АНУ, Япон, Европт олон монгол хүн амьдарч байгаа бөгөөд тэдний хүүхдүүд монгол хэлийг ихэвчлэн зөвхөн гэртээ сонсож өсдөг. Өв хэлтэй олон залуусын хувьд хөдөө өвөө эмээгийндээ өнгөрүүлсэн зун эсвэл Цагаан сараар ирсэн нь хэлээ сэргээх эргэлтийн цэг болдог. Эх орондоо байгаа монголчууд ч эдгээр залуусын аялгыг засахын оронд урам өгөх нь нэмэгдэж байна. Учир нь алдаатай ч гэсэн зоригтой ярих нь л хэлийг маань амьд байлгадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A well-built B1-B2 lesson with accurate grammar explanations for both directions and unambiguous blanks. Only one meaning mismatch and one awkward culture-note sentence needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 15,
+  "notes": "Main problem: the en and mn intro/title/explanation covered different grammar, so both were merged to cover the whole lesson. Also fixed belonging wording, one ungrammatical санагдсан, one converb option form and one tense mismatch.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "en and mn intros described different grammar; both now cover the whole lesson"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "match en intro; natural word for belonging"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "titles must match and cover both topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "titles must match"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; now identical content"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "match en explanation"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "mn",
+    "why": "харьяалал means affiliation/jurisdiction, not belonging"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "natural word for belonging"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "en",
+    "why": "match new mn"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "unnatural харьяалал"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "habitual -дэг doesn't match I'd prefer"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "би ... санагдсан is ungrammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "the converb of ярь- is яриад, not ярьаад"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "match I'd prefer"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "unnatural харьяалал"
+   }
+  ]
+ }
+}

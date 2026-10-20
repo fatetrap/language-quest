@@ -1,0 +1,499 @@
+{
+ "intro_en": "You will learn to talk about how you will travel: by bus, train, minibus, car or plane. You will use the Mongolian instrumental ending -аар/-ээр with the future tense, and English 'going to' and 'will' for plans and predictions.",
+ "intro_mn": "Та автобус, галт тэрэг, микро, машин, онгоцоор хэрхэн явахаа ярьж сурна. Мөн Монгол хэлний -аар/-ээр нөхцөлийг ирээдүй цагтай хамт, англи хэлний 'going to', 'will' хэлбэрийг төлөвлөгөө, таамаглал илэрхийлэхэд хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "тээвэр",
+   "en": "transport",
+   "pos": "noun",
+   "example_mn": "Хөдөө явах тээвэр хэцүү байна.",
+   "example_en": "Transport to the countryside is difficult.",
+   "mn_latin": "teever"
+  },
+  {
+   "mn": "жолооч",
+   "en": "driver",
+   "pos": "noun",
+   "example_mn": "Манай жолооч сайн хүн.",
+   "example_en": "Our driver is a good person.",
+   "mn_latin": "jolooch"
+  },
+  {
+   "mn": "буудал",
+   "en": "station / stop",
+   "pos": "noun",
+   "example_mn": "Автобусны буудал хаана вэ?",
+   "example_en": "Where is the bus station?",
+   "mn_latin": "buudal"
+  },
+  {
+   "mn": "зам",
+   "en": "road",
+   "pos": "noun",
+   "example_mn": "Зам маш сайн байна.",
+   "example_en": "The road is very good.",
+   "mn_latin": "zam"
+  },
+  {
+   "mn": "галт тэрэг",
+   "en": "train",
+   "pos": "noun",
+   "example_mn": "Бид галт тэргээр явна.",
+   "example_en": "We will go by train.",
+   "mn_latin": "galt tereg"
+  },
+  {
+   "mn": "онгоц",
+   "en": "airplane",
+   "pos": "noun",
+   "example_mn": "Онгоц удахгүй буух болно.",
+   "example_en": "The plane will land soon.",
+   "mn_latin": "ongots"
+  },
+  {
+   "mn": "микро",
+   "en": "minibus",
+   "pos": "noun",
+   "example_mn": "Микро хоёр цагт гарна.",
+   "example_en": "The minibus leaves at two o'clock.",
+   "mn_latin": "mikro"
+  },
+  {
+   "mn": "машинд дайгдах",
+   "en": "to hitchhike",
+   "pos": "verb phrase",
+   "example_mn": "Би машинд дайгдаж явахгүй.",
+   "example_en": "I won't hitchhike.",
+   "mn_latin": "mashind daigdakh"
+  },
+  {
+   "mn": "хэдэн цагт",
+   "en": "at what time",
+   "pos": "phrase",
+   "example_mn": "Автобус хэдэн цагт явах вэ?",
+   "example_en": "What time will the bus leave?",
+   "mn_latin": "kheden tsagt"
+  },
+  {
+   "mn": "хүрэх",
+   "en": "to arrive, reach",
+   "pos": "verb",
+   "example_mn": "Бид орой хүрнэ.",
+   "example_en": "We will arrive in the evening.",
+   "mn_latin": "khürekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид автобусаар явна.",
+   "en": "We will go by bus.",
+   "alt_mn": [],
+   "alt_en": [
+    "We are going to go by bus.",
+    "We are going by bus."
+   ],
+   "mn_latin": "Bid avtobusaar yavna."
+  },
+  {
+   "mn": "Би галт тэргээр хөдөө явна.",
+   "en": "I will go to the countryside by train.",
+   "alt_mn": [
+    "Би хөдөө галт тэргээр явна."
+   ],
+   "alt_en": [
+    "I'm going to the countryside by train."
+   ],
+   "mn_latin": "Bi galt tergeer khödöö yavna."
+  },
+  {
+   "mn": "Тэд машинаар явна.",
+   "en": "They will go by car.",
+   "alt_mn": [],
+   "alt_en": [
+    "They are going to go by car."
+   ],
+   "mn_latin": "Ted mashinaar yavna."
+  },
+  {
+   "mn": "Автобус хэдэн цагт явах вэ?",
+   "en": "What time will the bus leave?",
+   "alt_mn": [
+    "Автобус хэдэн цагт гарах вэ?"
+   ],
+   "alt_en": [
+    "What time is the bus going to leave?"
+   ],
+   "mn_latin": "Avtobus kheden tsagt yavakh ve?"
+  },
+  {
+   "mn": "Автобусны буудал хаана вэ?",
+   "en": "Where is the bus station?",
+   "alt_mn": [],
+   "alt_en": [
+    "Where is the bus stop?"
+   ],
+   "mn_latin": "Avtobusny buudal khaana ve?"
+  },
+  {
+   "mn": "Жолооч бидэнтэй хамт явна.",
+   "en": "The driver will go with us.",
+   "alt_mn": [],
+   "alt_en": [
+    "The driver is going with us."
+   ],
+   "mn_latin": "Jolooch bidentei khamt yavna."
+  },
+  {
+   "mn": "Өнөөдөр зам муу байна, бид оройтож хүрнэ.",
+   "en": "The road is bad today, so we will arrive late.",
+   "alt_mn": [
+    "Өнөөдөр зам муу учраас бид оройтож хүрнэ."
+   ],
+   "alt_en": [
+    "The road is bad today, so we are going to arrive late."
+   ],
+   "mn_latin": "Önöödör zam muu baina, bid oroitoj khürne."
+  },
+  {
+   "mn": "Та онгоцоор явах уу, галт тэргээр явах уу?",
+   "en": "Will you go by plane or by train?",
+   "alt_mn": [
+    "Та онгоцоор уу, галт тэргээр явах уу?"
+   ],
+   "alt_en": [
+    "Are you going to go by plane or by train?"
+   ],
+   "mn_latin": "Ta ongotsoor yavakh uu, galt tergeer yavakh uu?"
+  },
+  {
+   "mn": "Микро хурдан боловч бага зэрэг дүүрэн, олон хүнтэй.",
+   "en": "The minibus is fast, but a bit crowded.",
+   "alt_mn": [],
+   "alt_en": [
+    "The minibus is quick, but a little crowded."
+   ],
+   "mn_latin": "Mikro khurdan bolovch baga zereg düüren, olon khüntei."
+  },
+  {
+   "mn": "Бороо орно, тиймээс бид машинаар явна.",
+   "en": "It's going to rain, so we will go by car.",
+   "alt_mn": [
+    "Бороо орох гэж байна, тиймээс бид машинаар явна."
+   ],
+   "alt_en": [
+    "It will rain, so we are going by car."
+   ],
+   "mn_latin": "Boroo orno, tiimees bid mashinaar yavna."
+  },
+  {
+   "mn": "Би маргааш найзтайгаа микроор явна.",
+   "en": "Tomorrow I will go by minibus with my friend.",
+   "alt_mn": [
+    "Маргааш би найзтайгаа микроор явна."
+   ],
+   "alt_en": [
+    "I'm going by minibus with my friend tomorrow."
+   ],
+   "mn_latin": "Bi margaash naiztaigaa mikroor yavna."
+  },
+  {
+   "mn": "Бид орой Хархоринд хүрнэ.",
+   "en": "We will reach Kharkhorin in the evening.",
+   "alt_mn": [
+    "Бид Хархоринд орой хүрнэ."
+   ],
+   "alt_en": [
+    "We are going to arrive in Kharkhorin in the evening."
+   ],
+   "mn_latin": "Bid oroi Kharkhorind khürne."
+  }
+ ],
+ "grammar": {
+  "title_en": "By what means: -аар/-ээр + future -на; going to and will",
+  "title_mn": "Хэрэгслийн тийн ялгал -аар/-ээр + ирээдүй цаг -на; going to ба will",
+  "explain_en": "To say how you travel, add the instrumental ending to the vehicle: автобус → автобусаар, машин → машинаар, галт тэрэг → галт тэргээр, онгоц → онгоцоор. The ending follows vowel harmony: -аар, -оор, -ээр, -өөр. After a stem ending in a long vowel or diphthong, it becomes -гаар/-гээр etc. Then add a verb in the future: явна (will go). Example: Бид автобусаар явна. English uses 'be going to' for plans already decided and for predictions based on evidence you can see (Look at the clouds. It's going to rain.). It uses 'will' for decisions made on the spot and for general predictions (I'll take the train.). Mongolian -на covers both, so choose the English form from the context. In English, say 'by bus' and 'by train' with no 'a' or 'the'.",
+  "explain_mn": "Монгол хэлэнд тээврийн хэрэгслийг хэрэгслийн тийн ялгалын -аар/-оор/-ээр/-өөр нөхцөлөөр (эгшиг зохицох ёсоор) илэрхийлж, ирээдүй цагийн -на-тай хэрэглэнэ: Бид автобусаар явна. Англи хэлэнд урьдчилан шийдсэн төлөвлөгөөг 'be going to' гэж хэлнэ: We are going to take a bus. Мөн одоо харагдаж буй шинж тэмдэгт тулгуурласан таамаглалд хэрэглэнэ: Look at the clouds. It's going to rain. 'Will' нь тэр дороо гаргасан шийдвэр, ерөнхий таамаглалд хэрэглэгдэнэ: I'll take the train. Монгол хэлний '-на' нь хоёуланг нь илэрхийлдэг тул англиар сонгохдоо нөхцөл байдлыг харна. Тээврийн хэрэгслийг 'by bus', 'by train' гэж хэлнэ (a, the хэрэггүй).",
+  "examples": [
+   {
+    "mn": "Бид автобусаар явна.",
+    "en": "We are going to go by bus.",
+    "mn_latin": "Bid avtobusaar yavna."
+   },
+   {
+    "mn": "Тэр онгоцоор ирнэ.",
+    "en": "He will come by plane.",
+    "mn_latin": "Ter ongotsoor irne."
+   },
+   {
+    "mn": "Би галт тэргээр явна.",
+    "en": "I'm going to travel by train.",
+    "mn_latin": "Bi galt tergeer yavna."
+   },
+   {
+    "mn": "Бид машинаар хүрнэ.",
+    "en": "We will arrive by car.",
+    "mn_latin": "Bid mashinaar khürne."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бид автобус___ явна.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "ээр",
+    "оор",
+    "тай"
+   ],
+   "translation": "We will go by bus.",
+   "explain_en": "The first vowel of автобус is а (a back vowel), so the instrumental is -аар.",
+   "explain_mn": "Автобус гэдэг үгийн эхний эгшиг нь а (эр эгшиг) тул -аар нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэд галт тэрг___ явна.",
+   "answer": "ээр",
+   "options": [
+    "ээр",
+    "аар",
+    "оор",
+    "өөр"
+   ],
+   "translation": "They will go by train.",
+   "explain_en": "Тэрэг becomes тэргээр: the ending is -ээр after the front vowel э.",
+   "explain_mn": "Тэрэг гэдэг нь э эгшигтэй тул тэргээр болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Маргааш би онгоц___ явна.",
+   "answer": "оор",
+   "options": [
+    "оор",
+    "аар",
+    "ээр",
+    "өөр"
+   ],
+   "translation": "Tomorrow I will go by plane.",
+   "explain_en": "Онгоц has о, so harmony gives -оор.",
+   "explain_mn": "Онгоц нь о эгшигтэй тул -оор нөхцөл залгана."
+  },
+  {
+   "lang": "en",
+   "text": "Look at those clouds! It ___ rain.",
+   "answer": "is going to",
+   "options": [
+    "is going to",
+    "will",
+    "goes to",
+    "is going"
+   ],
+   "translation": "Тэр үүлсийг хар! Бороо орох нь.",
+   "explain_en": "Use 'going to' for a prediction based on evidence you can see.",
+   "explain_mn": "Харагдаж буй шинж тэмдэгт тулгуурласан таамаглалд 'is going to' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The bus is full. OK, I ___ take the train.",
+   "answer": "will",
+   "options": [
+    "will",
+    "am going to",
+    "going to",
+    "will to"
+   ],
+   "translation": "Автобус дүүрсэн байна. За, би галт тэргээр явъя.",
+   "explain_en": "'Will' is used for a decision made at the moment of speaking.",
+   "explain_mn": "Яг ярьж байхдаа гаргасан шийдвэрт 'will' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "We ___ travel to Khuvsgul by minibus next week.",
+   "answer": "are going to",
+   "options": [
+    "are going to",
+    "is going to",
+    "going to",
+    "will to"
+   ],
+   "translation": "Бид ирэх долоо хоногт Хөвсгөл рүү микроор явна.",
+   "explain_en": "For a plan already decided, use 'are going to' with 'we'.",
+   "explain_mn": "Урьдчилан шийдсэн төлөвлөгөөнд 'we are going to' гэж хэлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Бид Хархорин руу яаж явах вэ?",
+   "en": "How are we going to get to Kharkhorin?",
+   "mn_latin": "Bid Kharkhorin ruu yaaj yavakh ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Бид автобусаар явна гэж бодож байна.",
+   "en": "I think we'll go by bus.",
+   "mn_latin": "Bid avtobusaar yavna gej bodoj baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Микроор явбал илүү хурдан байх болов уу?",
+   "en": "Would a minibus be faster, do you think?",
+   "mn_latin": "Mikroor yavbal ilüü khurdan baikh bolov uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм, гэхдээ микро хэдэн цагт явах вэ?",
+   "en": "Yes, but what time does the minibus leave?",
+   "mn_latin": "Tiim, gekhdee mikro kheden tsagt yavakh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Арван цагт. Буудал дээр уулзъя.",
+   "en": "At ten. Let's meet at the station.",
+   "mn_latin": "Arvan tsagt. Buudal deer uulzya."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За. Зам сайн бол бид орой хүрнэ.",
+   "en": "OK. If the road is good, we will arrive in the evening.",
+   "mn_latin": "Za. Zam sain bol bid oroi khürne."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Жолооч бидэнд тусална гэж найдаж байна.",
+   "en": "I hope the driver will help us.",
+   "mn_latin": "Jolooch bidend tusalna gej naidaj baina."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, many people travel to the countryside by minibus or shared car from a big station in Ulaanbaatar, and the vehicle often leaves only when it is full. Paved roads connect main towns, but beyond them the journey can be slow, so people often plan extra time. Hitchhiking is also common in rural areas, where drivers usually expect to be paid a little.",
+  "mn": "Монголд олон хүн хөдөө явахдаа Улаанбаатарын том буудлаас микро эсвэл унаа хөлслөн явдаг бөгөөд ихэвчлэн дүүрэх үед л гардаг. Гол хотуудыг асфальт замаар холбосон ч түүнээс цааш явахад удаан тул урьдчилан цаг тооцдог. Мөн хөдөө орон нутагт машинд дайгдаж явах нь түгээмэл бөгөөд жолооч бага зэрэг мөнгө авдаг заншилтай."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 21,
+  "notes": "Mostly good, but there are a few real errors: the vocab phrase 'унага гэх', 'ачаалалтай' meaning crowded, микроар instead of микроор, and mismatched grammar title and intro."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 19,
+  "notes": "Fixed the hitchhiking term, case endings, the broken fill-blank items, and aligned the grammar explanations in both languages.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "mn",
+    "why": "'машин саатуулах' means to delay or stop a car; the standard term for hitchhiking is 'машинд дайгдах'"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "use the standard term for hitchhiking"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "standard hitchhiking term; add 'мөн' to match 'also' in the English"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "the alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "хүрэх needs the dative case: Хархоринд"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "dative case needed"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "match title_mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "make en and mn explanations say the same thing"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "the mn version left out the instrumental rule"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "автобус also contains о; the first vowel decides the ending"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "the first vowel decides the ending"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "the stem drops its vowel; 'тэрэг'+ээр would give the wrong form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'those clouds' is plural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "text",
+    "why": "the text did not match the translation and explanation, and the answer was not among the options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "the answer must be one of the options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "vowel harmony: микроор"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "a direction case is needed; яаж is more natural"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "the English says 'we'"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "en",
+    "why": "more natural English"
+   }
+  ]
+ }
+}

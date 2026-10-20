@@ -1,0 +1,476 @@
+{
+ "intro_en": "You will learn to talk about flash floods, warnings and rescue, and how to express limits and deadlines with -хаас наана ('before it reaches'). In English you will practice 'be bound to' for things that are almost certain to happen.",
+ "intro_mn": "Та түргэн үер, сэрэмжлүүлэг, аврах ажиллагааны талаар ярьж, -хаас наана хэлбэрээр хугацаа, хязгаарыг илэрхийлэхийг сурна. Мөн англи хэлний 'be bound to' бүтцээр бараг заавал болох зүйлийг хэлэхийг дадна.",
+ "vocab": [
+  {
+   "mn": "үер",
+   "en": "flood",
+   "pos": "noun",
+   "example_mn": "Өчигдөр уулын хормойд гэнэт үер болсон.",
+   "example_en": "Yesterday a sudden flood hit the foot of the mountain.",
+   "mn_latin": "üyer"
+  },
+  {
+   "mn": "голын татам",
+   "en": "floodplain",
+   "pos": "noun",
+   "example_mn": "Голын татамд барилга барихыг хориглодог.",
+   "example_en": "Building in the floodplain is prohibited.",
+   "mn_latin": "golyn tatam"
+  },
+  {
+   "mn": "далан",
+   "en": "dam / embankment",
+   "pos": "noun",
+   "example_mn": "Хүчтэй борооны дараа далан нурчихсан.",
+   "example_en": "After the heavy rain, the embankment collapsed.",
+   "mn_latin": "dalan"
+  },
+  {
+   "mn": "усны түвшин",
+   "en": "water level",
+   "pos": "noun",
+   "example_mn": "Туул голын усны түвшин өндөр байна.",
+   "example_en": "The water level of the Tuul River is high.",
+   "mn_latin": "usny tüvshin"
+  },
+  {
+   "mn": "нэмэгдэх",
+   "en": "to increase, to rise",
+   "pos": "verb",
+   "example_mn": "Орой болоход ус улам нэмэгдэв.",
+   "example_en": "By evening the water had risen even more.",
+   "mn_latin": "nemegdekh"
+  },
+  {
+   "mn": "аврах завь",
+   "en": "rescue boat",
+   "pos": "noun",
+   "example_mn": "Аврагчид аврах завиар хүмүүсийг гаргав.",
+   "example_en": "The rescuers got people out by rescue boat.",
+   "mn_latin": "avrakh zavi"
+  },
+  {
+   "mn": "хамгаалалтын байгууламж",
+   "en": "protective structure",
+   "pos": "noun",
+   "example_mn": "Хотод шинэ хамгаалалтын байгууламж барьж байна.",
+   "example_en": "A new protective structure is being built in the city.",
+   "mn_latin": "khamgaalaltyn baiguulamj"
+  },
+  {
+   "mn": "сэрэмжлүүлэг",
+   "en": "warning, alert",
+   "pos": "noun",
+   "example_mn": "Цаг уурынхан үерийн сэрэмжлүүлэг гаргасан.",
+   "example_en": "The weather service issued a flood warning.",
+   "mn_latin": "seremjlüüleg"
+  },
+  {
+   "mn": "нүүлгэх",
+   "en": "to evacuate, to relocate",
+   "pos": "verb",
+   "example_mn": "Айл өрхүүдийг аюулгүй газар нүүлгэсэн.",
+   "example_en": "The households were relocated to a safe place.",
+   "mn_latin": "nüülgekh"
+  },
+  {
+   "mn": "усанд автах",
+   "en": "to be flooded, to be submerged",
+   "pos": "verb",
+   "example_mn": "Хэд хэдэн гудамж усанд автжээ.",
+   "example_en": "Several streets were flooded.",
+   "mn_latin": "usand avtakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хүчтэй бороо орвол үер болох нь тодорхой.",
+   "en": "Heavy rain is bound to cause floods.",
+   "alt_mn": [
+    "Хүчтэй бороо орвол үер болохгүй байх аргагүй."
+   ],
+   "alt_en": [
+    "If heavy rain falls, a flood is sure to happen."
+   ],
+   "mn_latin": "Khüchtei boroo orvol üyer bolokh ni todorkhoi."
+  },
+  {
+   "mn": "Үер ирэхээс наана бид гэр хороолол руу мэдэгдэл хүргэх ёстой.",
+   "en": "Before the flood arrives, we must get the notice out to the ger district.",
+   "alt_mn": [],
+   "alt_en": [
+    "We have to deliver the warning to the ger district before the flood reaches it."
+   ],
+   "mn_latin": "Üyer irekhees naana bid ger khoroolol ruu medegdel khürgekh yostoi."
+  },
+  {
+   "mn": "Ус орой болохоос наана даланг давах байх.",
+   "en": "The water will probably go over the embankment before evening.",
+   "alt_mn": [
+    "Ус орой болохоос наана далан дээгүүр халих байх."
+   ],
+   "alt_en": [
+    "The water will likely overflow the embankment before nightfall."
+   ],
+   "mn_latin": "Us oroi bolokhoos naana dalang davakh baikh."
+  },
+  {
+   "mn": "Туул голын усны түвшин өчигдөр оройноос хойш хоёр метр нэмэгдсэн.",
+   "en": "The water level of the Tuul River has risen two meters since last evening.",
+   "alt_mn": [],
+   "alt_en": [
+    "The Tuul River's water level has risen by two meters since yesterday evening."
+   ],
+   "mn_latin": "Tuul golyn usny tüvshin öchigdör oroinoos khoish khoyor myetr nemegdsen."
+  },
+  {
+   "mn": "Зуны улиралд түргэн үер гарах нь гарцаагүй.",
+   "en": "Flash floods are bound to happen in summer.",
+   "alt_mn": [
+    "Зуны улиралд түргэн үер гарахгүй байх аргагүй."
+   ],
+   "alt_en": [
+    "Flash floods are sure to occur in summer."
+   ],
+   "mn_latin": "Zuny ulirald türgen üyer garakh ni gartsaagüi."
+  },
+  {
+   "mn": "Аврагчид аврах завиар хүүхэд, настнуудыг түрүүлж гаргав.",
+   "en": "The rescuers took out the children and the elderly first by rescue boat.",
+   "alt_mn": [
+    "Аврагчид хүүхэд, өвгөд настныг аврах завиар түрүүлж гаргасан."
+   ],
+   "alt_en": [
+    "Rescuers evacuated children and the elderly first in a rescue boat."
+   ],
+   "mn_latin": "Avragchid avrakh zaviar khüükhed, nastnuudyg türüülj gargav."
+  },
+  {
+   "mn": "Голын татамд амьдардаг айлууд үер ирэхээс наана нүүх хэрэгтэй.",
+   "en": "Families living in the floodplain need to move out before the flood comes.",
+   "alt_mn": [],
+   "alt_en": [
+    "Families in the floodplain need to relocate before the flood arrives."
+   ],
+   "mn_latin": "Golyn tatamd amidardag ailuud üyer irekhees naana nüükh kheregtei."
+  },
+  {
+   "mn": "Далан нурвал доор байгаа хороолол усанд автах нь дамжиггүй.",
+   "en": "If the embankment collapses, the district below is bound to be flooded.",
+   "alt_mn": [],
+   "alt_en": [
+    "If the dam breaks, the neighborhood below will certainly be underwater."
+   ],
+   "mn_latin": "Dalan nurval door baigaa khoroolol usand avtakh ni damjiggüi."
+  },
+  {
+   "mn": "Цаг уурын сэрэмжлүүлгийг үл тоомсорловол аюулд орох нь ойлгомжтой.",
+   "en": "If you ignore the weather warning, you are bound to end up in danger.",
+   "alt_mn": [],
+   "alt_en": [
+    "Ignoring the weather warning is bound to put you in danger."
+   ],
+   "mn_latin": "Tsag uuryn seremjlüülgiig ül toomsorlovol ayuuld orokh ni oilgomjtoi."
+  },
+  {
+   "mn": "Хамгаалалтын байгууламж дуусахаас наана бороо орчих вий гэж айж байна.",
+   "en": "I'm afraid it will rain before the protective structure is finished.",
+   "alt_mn": [],
+   "alt_en": [
+    "I worry that the rain will come before the protective structure is completed."
+   ],
+   "mn_latin": "Khamgaalaltyn baiguulamj duusakhaas naana boroo orchikh vii gej aij baina."
+  },
+  {
+   "mn": "Хөдөөгийн малчид үерийн улмаас мал сүргээ алдсан.",
+   "en": "In the countryside, herders lost their livestock because of the flood.",
+   "alt_mn": [
+    "Хөдөөгийн малчид үерт мал сүргээ алдсан."
+   ],
+   "alt_en": [
+    "Herders in the countryside lost their herds in the flood."
+   ],
+   "mn_latin": "Khödöögiin malchid üyeriin ulmaas mal sürgee aldsan."
+  },
+  {
+   "mn": "Ус татрахаас наана хэнд ч гэртээ буцаж орохыг зөвшөөрөхгүй.",
+   "en": "No one will be allowed to return home until the water has gone down.",
+   "alt_mn": [],
+   "alt_en": [
+    "Nobody is allowed back into their homes before the water recedes."
+   ],
+   "mn_latin": "Us tatrakhaas naana khend ch gertee butsaj orokhyg zövshöörökhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "-хаас наана: 'before reaching / short of'; English: 'be bound to'",
+  "title_mn": "-хаас наана: «хүрэхээс өмнө, хүрэхээс урд»; англи хэл: 'be bound to'",
+  "explain_en": "Add -хаас наана (-х + аас + наана) to a verb stem to say 'before something happens' or 'short of a limit': үер ирэхээс наана = before the flood arrives. It is common in warnings and deadlines, and it often sounds more formal and urgent than өмнө. Vowel harmony applies: ирэхээс, очихоос, гарахаас, буухаас. The main clause shows what must happen in time: Үер ирэхээс наана нүү. In English, 'be bound to' + verb means something is almost certain to happen: Heavy rain is bound to cause floods. Structure: subject + be + bound to + base form of the verb.",
+  "explain_mn": "Үйл үгийн үндэс дээр -хаас наана (-х + аас + наана) залгаж «ямар нэг зүйл болохоос өмнө» эсвэл «хязгаарт хүрэхээс өмнө» гэсэн утга гаргана: үер ирэхээс наана = үер ирэхээс өмнө. Анхааруулга, хугацааны хязгаарт түгээмэл бөгөөд «өмнө»-өөс илүү албан, яаралтай сонсогдоно. Эгшгийн зохицол үйлчилнэ: ирэхээс, очихоос, гарахаас, буухаас. Гол өгүүлбэр нь цагтаа юу хийх ёстойг заана: Үер ирэхээс наана нүү. Англи хэлний 'be bound to + үйл үг' нь ямар нэг зүйл бараг гарцаагүй болно гэсэн утгатай: Heavy rain is bound to cause floods (Хүчтэй бороо үер үүсгэх нь гарцаагүй). Бүтэц: subject + be + bound to + үйл үгийн үндсэн хэлбэр.",
+  "examples": [
+   {
+    "mn": "Үер ирэхээс наана бид нүүсэн.",
+    "en": "We moved out before the flood arrived.",
+    "mn_latin": "Üyer irekhees naana bid nüüsen."
+   },
+   {
+    "mn": "Ус хаалтыг давахаас наана хүмүүсийг гаргая.",
+    "en": "Let's get people out before the water goes over the barrier.",
+    "mn_latin": "Us khaaltyg davakhaas naana khümüüsiig gargaya."
+   },
+   {
+    "mn": "Орой болохоос наана ачаагаа бэлдээрэй.",
+    "en": "Get your belongings ready before evening.",
+    "mn_latin": "Oroi bolokhoos naana achaagaa beldeerei."
+   },
+   {
+    "mn": "Бороо ширүүсэх нь гарцаагүй.",
+    "en": "The rain is bound to get heavier.",
+    "mn_latin": "Boroo shirüüsekh ni gartsaagüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Үер ирэх___ наана бид өндөр газарт гарлаа.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "аас",
+    "д",
+    "ийг"
+   ],
+   "translation": "We went up to high ground before the flood arrived.",
+   "explain_en": "Ирэх has a front (e-type) vowel, so the ablative is -ээс: ирэхээс наана.",
+   "explain_mn": "«Ирэх» нь эмэгтэй эгшигтэй (э) тул -ээс залгаж «ирэхээс наана» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Ус орой болохоос ___ далан дээгүүр халисан.",
+   "answer": "наана",
+   "options": [
+    "наана",
+    "хойно",
+    "дараа",
+    "дотор"
+   ],
+   "translation": "The water overflowed the embankment before evening.",
+   "explain_en": "-хаас наана means 'before / short of'; 'хойно' and 'дараа' mean after.",
+   "explain_mn": "-хаас наана нь «өмнө, хүрэхээс урд» гэсэн утгатай; «хойно», «дараа» нь эсрэг утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Голын татам дахь айлуудыг аврах ___ ашиглан гаргав.",
+   "answer": "завь",
+   "options": [
+    "завь",
+    "далан",
+    "сэрэмжлүүлэг",
+    "түвшин"
+   ],
+   "translation": "They evacuated families in the floodplain using rescue boats.",
+   "explain_en": "You rescue people from water using a boat: аврах завь.",
+   "explain_mn": "Усанд хүн гаргахад «аврах завь» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "After three days of rain, the river is ___ to overflow.",
+   "answer": "bound",
+   "options": [
+    "bound",
+    "bind",
+    "binding",
+    "bounded"
+   ],
+   "translation": "Гурван өдөр бороо орсны дараа гол халих нь гарцаагүй.",
+   "explain_en": "The fixed phrase is 'be bound to' + verb.",
+   "explain_mn": "«be bound to + үйл үг» гэсэн тогтвортой бүтэц."
+  },
+  {
+   "lang": "en",
+   "text": "Heavy rain in the mountains is bound ___ flash floods downstream.",
+   "answer": "to cause",
+   "options": [
+    "to cause",
+    "causing",
+    "cause",
+    "to causing"
+   ],
+   "translation": "Уулын хүчтэй бороо доод хэсэгт түргэн үер үүсгэх нь гарцаагүй.",
+   "explain_en": "'Bound to' is followed by the base form of the verb.",
+   "explain_mn": "«Bound to»-ийн ард үйл үгийн үндсэн хэлбэр ордог."
+  },
+  {
+   "lang": "en",
+   "text": "If nobody warns the families, someone ___ to get hurt.",
+   "answer": "is bound",
+   "options": [
+    "is bound",
+    "are bound",
+    "has bound",
+    "bound"
+   ],
+   "translation": "Хэрэв айл өрхүүдэд хэн ч сэрэмжлүүлэхгүй бол хэн нэгэн гэмтэх нь гарцаагүй.",
+   "explain_en": "'Someone' is singular, so use 'is bound to'.",
+   "explain_mn": "«Someone» нь ганц тоо тул «is bound to» хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Цаг уурынхан өнөө орой хүчтэй бороо орно гэж сэрэмжлүүлж байна.",
+   "en": "The meteorologists are warning that heavy rain will fall this evening.",
+   "mn_latin": "Tsag uurynkhan önöö oroi khüchtei boroo orno gej seremjlüülj baina."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэгвэл Туул голын усны түвшин нэмэгдэх нь гарцаагүй биз дээ.",
+   "en": "Then the Tuul River's water level is bound to rise, isn't it?",
+   "mn_latin": "Tegvel Tuul golyn usny tüvshin nemegdekh ni gartsaagüi biz dee."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тийм. Манай гэр хороолол голын татамд ойрхон учраас аюултай.",
+   "en": "Yes. Our ger district is close to the floodplain, so it's dangerous.",
+   "mn_latin": "Tiim. Manai ger khoroolol golyn tatamd oirkhon uchraas ayuultai."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Бид юу хийх ёстой вэ?",
+   "en": "What should we do?",
+   "mn_latin": "Bid yuu khiikh yostoi ve?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Орой болохоос наана чухал бичиг баримтаа авч, өндөр газар гарна.",
+   "en": "Before evening, we'll take our important documents and go to higher ground.",
+   "mn_latin": "Oroi bolokhoos naana chukhal bichig barimtaa avch, öndör gazar garna."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Хөршүүддээ бас хэлье. Аврах завь бэлэн байгаа юу?",
+   "en": "Let's tell the neighbors too. Is a rescue boat ready?",
+   "mn_latin": "Khörshüüddee bas kheliye. Avrakh zavi belen baigaa yuu?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Аврагчид хоёр завьтай ирээд хүлээж байна.",
+   "en": "The rescuers have arrived with two boats and are waiting.",
+   "mn_latin": "Avragchid khoyor zavitai ireed khüleej baina."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайн байна. Ус дээш гарахаас наана гарцгаая.",
+   "en": "Good. Let's get out before the water rises.",
+   "mn_latin": "Sain baina. Us deesh garakhaas naana gartsgaaya."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia's flash floods usually come in July and August, when intense rain hits dry ground and sends water rushing down dry riverbeds and mountain valleys. In Ulaanbaatar, ger districts built too close to the Tuul and Selbe rivers are the most exposed, so authorities issue warnings and move residents before storms. In the countryside, herders watch the sky and avoid camping in low-lying riverbeds.",
+  "mn": "Монголд түргэн үер ихэвчлэн долдугаар, наймдугаар сард, хуурай газарт хүчтэй аадар орох үед гарч, ширгэсэн голдирол, уулын хөндийгөөр хурдтай урсдаг. Улаанбаатарт Туул, Сэлбэ голд хэт ойрхон баригдсан гэр хорооллууд хамгийн их эрсдэлтэй тул эрх баригчид шуурга болохоос өмнө сэрэмжлүүлж, оршин суугчдыг нүүлгэдэг. Хөдөө малчид тэнгэр ажиглаж, нам дор голдиролд буудаллахаас зайлсхийдэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 12,
+  "notes": "Content is mostly good, but the grammar section mixes up its titles and explanations, and there are a few ungrammatical or unnatural Mongolian phrases (Хөдөө малчид, ус буух)."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "Replaced the nonstandard 'голын ай' with 'голын татам' everywhere it appeared. Also fixed халисан, the vowel-type explanation, and the хаалт/далан mismatch, and brought the grammar titles and explanations into line with each other.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "'голын ай' alone is not standard (basin = 'ай сав газар'); floodplain = 'голын татам'"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "en",
+    "why": "match corrected term"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "term fix"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "term fix"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "a river basin is not the same as a floodplain"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "хаалт = barrier, not embankment; matches en and alt_mn"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "consistency with далан"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "э is a feminine (эмэгтэй) vowel, not masculine"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "past of халих is халисан; халсан comes from халах 'to heat'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "term fix"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "term fix"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn must cover the same content as title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "sync with mn version (structure line)"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "sync with en version (limit sense, main-clause point)"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "намхан means 'short', so use нам дор; add 'too close' to match en"
+   }
+  ]
+ }
+}

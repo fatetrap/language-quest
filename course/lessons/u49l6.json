@@ -1,0 +1,526 @@
+{
+ "intro_en": "You will learn to compare solutions to a travel problem (wait, rebook, switch hotels, take a refund) and to explain what you prefer. You will use 'would rather (not)' and 'would rather ... than' in English, and -хын оронд and -сан нь дээр in Mongolian.",
+ "intro_mn": "Та аяллын асуудлыг шийдэх хувилбаруудыг (хүлээх, дахин захиалах, зочид буудал солих, мөнгөө буцаан авах) харьцуулж, өөрийн сонголтыг тайлбарлаж сурна. Англи хэлний 'would rather (not)', 'would rather ... than' болон монгол хэлний -хын оронд, -сан нь дээр бүтцийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "өөр хувилбар",
+   "en": "alternative",
+   "pos": "noun",
+   "example_mn": "Танд өөр хувилбар байна уу?",
+   "example_en": "Do you have an alternative?",
+   "mn_latin": "öör khuvilbar"
+  },
+  {
+   "mn": "ангиллыг дээшлүүлэх",
+   "en": "upgrade",
+   "pos": "noun/verb",
+   "example_mn": "Тэд надад ангилал дээшлүүлж өгсөн.",
+   "example_en": "They gave me an upgrade.",
+   "mn_latin": "angillyg deeshlüülekh"
+  },
+  {
+   "mn": "купон",
+   "en": "voucher",
+   "pos": "noun",
+   "example_mn": "Мөнгөний оронд купон өгөх гэнэ.",
+   "example_en": "They say they'll give a voucher instead of money.",
+   "mn_latin": "kupon"
+  },
+  {
+   "mn": "мөнгө буцаалт",
+   "en": "refund",
+   "pos": "noun",
+   "example_mn": "Би мөнгө буцаалт авмаар байна.",
+   "example_en": "I'd like a refund.",
+   "mn_latin": "möngö butsaalt"
+  },
+  {
+   "mn": "цагийг өөрчлөх",
+   "en": "reschedule",
+   "pos": "verb",
+   "example_mn": "Бид нислэгийн цагийг өөрчилсөн.",
+   "example_en": "We rescheduled the flight.",
+   "mn_latin": "tsagiig öörchlökh"
+  },
+  {
+   "mn": "буулт хийх",
+   "en": "compromise",
+   "pos": "verb",
+   "example_mn": "Хоёулаа буулт хийцгээе.",
+   "example_en": "Let's both compromise.",
+   "mn_latin": "buult khiikh"
+  },
+  {
+   "mn": "дахин захиалах",
+   "en": "rebook",
+   "pos": "verb",
+   "example_mn": "Тэд билетийг дахин захиалж өгсөн.",
+   "example_en": "They rebooked the ticket for me.",
+   "mn_latin": "dakhin zakhialakh"
+  },
+  {
+   "mn": "хүлээх",
+   "en": "wait",
+   "pos": "verb",
+   "example_mn": "Би дараагийн нислэгийг хүлээнэ.",
+   "example_en": "I'll wait for the next flight.",
+   "mn_latin": "khüleekh"
+  },
+  {
+   "mn": "сонголт",
+   "en": "choice",
+   "pos": "noun",
+   "example_mn": "Бидэнд хоёр сонголт байна.",
+   "example_en": "We have two choices.",
+   "mn_latin": "songolt"
+  },
+  {
+   "mn": "нөхөн олговор",
+   "en": "compensation",
+   "pos": "noun",
+   "example_mn": "Компани нөхөн олговор өгсөн.",
+   "example_en": "The company paid compensation.",
+   "mn_latin": "nökhön olgovor"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би энд хүлээхээс өөр нислэгээр явахыг илүүд үзнэ.",
+   "en": "I'd rather take a different flight than wait here.",
+   "alt_mn": [
+    "Би энд хүлээхийн оронд өөр нислэгээр явсан нь дээр."
+   ],
+   "alt_en": [
+    "I'd rather take another flight than wait here."
+   ],
+   "mn_latin": "Bi end khüleekhees öör nislegeer yavakhyg ilüüd üzne."
+  },
+  {
+   "mn": "Би мөнгөө буцааж авсан нь дээр.",
+   "en": "I'd rather get a refund.",
+   "alt_mn": [
+    "Би мөнгөө буцаан авсан нь дээр."
+   ],
+   "alt_en": [
+    "I would rather take a refund."
+   ],
+   "mn_latin": "Bi möngöö butsaaj avsan ni deer."
+  },
+  {
+   "mn": "Би купон авахгүй байсан нь дээр.",
+   "en": "I'd rather not take a voucher.",
+   "alt_mn": [
+    "Би купон авахыг хүсэхгүй байна."
+   ],
+   "alt_en": [
+    "I would rather not accept a voucher."
+   ],
+   "mn_latin": "Bi kupon avakhgüi baisan ni deer."
+  },
+  {
+   "mn": "Зочид буудал солихын оронд энд үлдсэн нь дээр.",
+   "en": "I'd rather stay here than switch hotels.",
+   "alt_mn": [
+    "Зочид буудал солихоос энд үлдэх нь дээр."
+   ],
+   "alt_en": [
+    "I'd rather stay here instead of switching hotels."
+   ],
+   "mn_latin": "Zochid buudal solikhyn orond end üldsen ni deer."
+  },
+  {
+   "mn": "Нислэгийн цагийг өөрчлөх боломжтой юу?",
+   "en": "Is it possible to reschedule the flight?",
+   "alt_mn": [
+    "Нислэгийг өөр цагт шилжүүлж болох уу?"
+   ],
+   "alt_en": [
+    "Can we reschedule the flight?"
+   ],
+   "mn_latin": "Nislegiin tsagiig öörchlökh bolomjtoi yuu?"
+  },
+  {
+   "mn": "Надад өөр хувилбар байна уу?",
+   "en": "Do I have any alternatives?",
+   "alt_mn": [
+    "Өөр сонголт байна уу?"
+   ],
+   "alt_en": [
+    "Is there another option?"
+   ],
+   "mn_latin": "Nadad öör khuvilbar baina uu?"
+  },
+  {
+   "mn": "Тэд надад ангилал дээшлүүлж өгвөл би хүлээхэд бэлэн.",
+   "en": "If they give me an upgrade, I'm ready to wait.",
+   "alt_mn": [
+    "Хэрэв ангилал дээшлүүлж өгвөл би хүлээж чадна."
+   ],
+   "alt_en": [
+    "If they upgrade me, I'm willing to wait."
+   ],
+   "mn_latin": "Ted nadad angilal deeshlüülj ögvöl bi khüleekhed belen."
+  },
+  {
+   "mn": "Бид буулт хийж, маргааш өглөөний нислэгээр явъя.",
+   "en": "Let's compromise and take the flight tomorrow morning.",
+   "alt_mn": [
+    "Бид буулт хийгээд маргааш өглөө явцгаая."
+   ],
+   "alt_en": [
+    "Let's compromise and fly tomorrow morning."
+   ],
+   "mn_latin": "Bid buult khiij, margaash öglöönii nislegeer yavya."
+  },
+  {
+   "mn": "Би таксинд суухаас галт тэргээр явахыг илүүд үзнэ.",
+   "en": "I'd rather take the train than a taxi.",
+   "alt_mn": [
+    "Би таксигаар явахын оронд галт тэргээр явсан нь дээр."
+   ],
+   "alt_en": [
+    "I prefer the train to a taxi."
+   ],
+   "mn_latin": "Bi taksind suukhaas galt tergeer yavakhyg ilüüd üzne."
+  },
+  {
+   "mn": "Бид шөнөжин хүлээхгүй байсан нь дээр.",
+   "en": "We'd rather not wait through the night.",
+   "alt_mn": [
+    "Бид шөнөжин хүлээхийг хүсэхгүй байна."
+   ],
+   "alt_en": [
+    "We would rather not wait all night."
+   ],
+   "mn_latin": "Bid shönöjin khüleekhgüi baisan ni deer."
+  },
+  {
+   "mn": "Тэр дахин захиалахын оронд мөнгөө буцааж авсан.",
+   "en": "Instead of rebooking, she took her money back.",
+   "alt_mn": [
+    "Тэр дахин захиалалгүй мөнгөө буцааж авсан."
+   ],
+   "alt_en": [
+    "She took a refund rather than rebook."
+   ],
+   "mn_latin": "Ter dakhin zakhialakhyn orond möngöö butsaaj avsan."
+  },
+  {
+   "mn": "Чи хүлээчих, би өөр хувилбар хайя.",
+   "en": "You go ahead and wait, and I'll look for an alternative.",
+   "alt_mn": [
+    "Чи хүлээчих, би өөр сонголт хайя."
+   ],
+   "alt_en": [
+    "You just wait, and I'll look for another option."
+   ],
+   "mn_latin": "Chi khüleechikh, bi öör khuvilbar khaiya."
+  }
+ ],
+ "grammar": {
+  "title_en": "Stating preferences: -хын оронд, -сан нь дээр, -чих",
+  "title_mn": "Сонголтоо илэрхийлэх: -хын оронд, -сан нь дээр, -чих",
+  "explain_en": "To say 'instead of doing X', add the genitive ending to the verb form in -х: -ын after back vowels, -ийн after front vowels: явахын оронд 'instead of going', хүлээхийн оронд 'instead of waiting'. -хаас/-хээс (хүлээхээс) means 'rather than' after a verb: хүлээхээс илүү ... 'more than waiting'. To say 'I'd rather', use the past form + нь дээр: Би үлдсэн нь дээр 'It's better that I stay'. For the negative, use -хгүй байсан нь дээр: Би хүлээхгүй байсан нь дээр 'I'd rather not wait'. You can also use илүү дуртай: Би галт тэргэнд илүү дуртай. Review -чих: it adds a quick, 'just do it' feel to a suggestion: Хүлээчих! 'Just wait!' Don't mix it up with the preference: -чих is about action, -сан нь дээр is about choice.",
+  "explain_mn": "«Аль нэг үйлийн оронд» гэж хэлэхдээ -х хэлбэрт илийн тийн ялгалын нөхцөл залгана: хойт эгшигтэй үгэнд -ын, өмнөх эгшигтэй үгэнд -ийн: явахын оронд, хүлээхийн оронд. «-хаас/-хээс илүү» нь харьцуулалт илэрхийлнэ: хүлээхээс илүү. Сонголтыг «-сан нь дээр» бүтцээр хэлнэ: Би үлдсэн нь дээр. Үгүйсгэхдээ «-хгүй байсан нь дээр» гэж хэлнэ: Би хүлээхгүй байсан нь дээр. Мөн «илүү дуртай» гэж хэлж болно: Би галт тэргэнд илүү дуртай. «-чих» нь хөнгөн, «зүгээр л хийчих» гэсэн санал: Хүлээчих! Үүнийг сонголттой андуурч болохгүй: «-чих» нь үйлдлийн тухай, «-сан нь дээр» нь сонголтын тухай.",
+  "examples": [
+   {
+    "mn": "Би хүлээхийн оронд мөнгөө буцааж авсан нь дээр.",
+    "en": "I'd rather get a refund than wait.",
+    "mn_latin": "Bi khüleekhiin orond möngöö butsaaj avsan ni deer."
+   },
+   {
+    "mn": "Бид зочид буудал солихгүй байсан нь дээр.",
+    "en": "We'd rather not switch hotels.",
+    "mn_latin": "Bid zochid buudal solikhgüi baisan ni deer."
+   },
+   {
+    "mn": "Би таксигаар явахаас галт тэргээр явсан нь дээр.",
+    "en": "I'd rather go by train than by taxi.",
+    "mn_latin": "Bi taksigaar yavakhaas galt tergeer yavsan ni deer."
+   },
+   {
+    "mn": "Хүлээчих, би асууя.",
+    "en": "Just wait, and I'll ask.",
+    "mn_latin": "Khüleechikh, bi asuuya."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би энд хүлээх___ оронд мөнгөө буцааж авсан нь дээр.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "ээс",
+    "ээр",
+    "эд"
+   ],
+   "translation": "I'd rather take a refund than wait here.",
+   "explain_en": "'Instead of X' is verb + -х + genitive (-ын/-ийн) + оронд: хүлээхийн оронд.",
+   "explain_mn": "'Instead of' гэдгийг үйл үгийн -х хэлбэр + -ын/-ийн + оронд гэж хэлнэ: хүлээхийн оронд."
+  },
+  {
+   "lang": "mn",
+   "text": "Би зочид буудлаа солихгүй, энд үлдсэн нь ___.",
+   "answer": "дээр",
+   "options": [
+    "дээр",
+    "доор",
+    "хойно",
+    "өмнө"
+   ],
+   "translation": "I won't switch hotels; I'd rather stay here.",
+   "explain_en": "-сан нь дээр means 'it's better to...', used to state a preference.",
+   "explain_mn": "-сан нь дээр гэдэг нь 'илүү дээр' гэсэн сонголтыг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Чи энд хүлээ___, би билетийн талаар асууя.",
+   "answer": "чих",
+   "options": [
+    "чих",
+    "сэн",
+    "х",
+    "в"
+   ],
+   "translation": "You just wait here, and I'll ask about the ticket.",
+   "explain_en": "-чих added to the verb stem (хүлээ-) gives a casual, 'just do it' suggestion: хүлээчих.",
+   "explain_mn": "-чих нь «зүгээр л хийчих» гэсэн хөнгөн санал, хүсэлтийг илэрхийлнэ: хүлээчих."
+  },
+  {
+   "lang": "en",
+   "text": "I'd rather ___ here than switch hotels.",
+   "answer": "stay",
+   "options": [
+    "stay",
+    "to stay",
+    "staying",
+    "stayed"
+   ],
+   "translation": "Би зочид буудал солихоос энд үлдсэн нь дээр.",
+   "explain_en": "'Would rather' is followed by the base form without 'to'.",
+   "explain_mn": "'Would rather' дараа 'to'-гүй анхны хэлбэр орно: stay."
+  },
+  {
+   "lang": "en",
+   "text": "We'd rather ___ wait all night.",
+   "answer": "not",
+   "options": [
+    "not",
+    "don't",
+    "no",
+    "never"
+   ],
+   "translation": "Бид шөнөжин хүлээхгүй байсан нь дээр.",
+   "explain_en": "The negative is 'would rather not' + base verb.",
+   "explain_mn": "Үгүйсгэхдээ 'would rather not' гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She'd rather get a refund ___ accept a voucher.",
+   "answer": "than",
+   "options": [
+    "than",
+    "then",
+    "to",
+    "from"
+   ],
+   "translation": "Тэр купон авахаас мөнгөө буцааж авахыг илүүд үздэг.",
+   "explain_en": "Use 'than' to compare two options with 'would rather'.",
+   "explain_mn": "Хоёр сонголтыг харьцуулахдаа 'than' ашиглана."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Нислэг цуцлагдлаа. Бидэнд ямар хувилбар байна вэ?",
+   "en": "The flight was canceled. What alternatives do we have?",
+   "mn_latin": "Nisleg tsutslagdlaa. Bidend yamar khuvilbar baina ve?"
+  },
+  {
+   "speaker": "Agent",
+   "mn": "Та маргааш өглөөний нислэгээр явж болно, эсвэл мөнгөө буцааж авч болно.",
+   "en": "You can take tomorrow morning's flight, or get a refund.",
+   "mn_latin": "Ta margaash öglöönii nislegeer yavj bolno, esvel möngöö butsaaj avch bolno."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Би шөнөжин хүлээхийн оронд мөнгөө буцааж авсан нь дээр.",
+   "en": "I'd rather get a refund than wait all night.",
+   "mn_latin": "Bi shönöjin khüleekhiin orond möngöö butsaaj avsan ni deer."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Би бол маргааш явсан нь дээр. Зочид буудлаа солихгүй байсан нь дээр.",
+   "en": "I'd rather leave tomorrow. I'd rather not switch hotels.",
+   "mn_latin": "Bi bol margaash yavsan ni deer. Zochid buudlaa solikhgüi baisan ni deer."
+  },
+  {
+   "speaker": "Agent",
+   "mn": "Бид зочид буудлын купон болон ангилал дээшлүүлэх боломж өгч чадна.",
+   "en": "We can offer a hotel voucher and an upgrade.",
+   "mn_latin": "Bid zochid buudlyn kupon bolon angilal deeshlüülekh bolomj ögch chadna."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэгвэл буулт хийъе. Би маргааш явъя.",
+   "en": "Then let's compromise. I'll leave tomorrow.",
+   "mn_latin": "Tegvel buult khiiye. Bi margaash yavya."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Сайхан байна. Чи билетээ дахин захиалчих.",
+   "en": "Great. Go ahead and rebook your ticket.",
+   "mn_latin": "Saikhan baina. Chi bilyetee dakhin zakhialchikh."
+  },
+  {
+   "speaker": "Agent",
+   "mn": "За, одоохон цагийг өөрчилчихье.",
+   "en": "Okay, I'll reschedule it right now.",
+   "mn_latin": "Za, odookhon tsagiig öörchilchikhiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, flights from Ulaanbaatar are often delayed by weather, especially in winter, and the airport is busy during the Naadam season. Travelers usually negotiate politely and look for a practical compromise, such as an alternative flight or a hotel voucher. Staying calm and using phrases like 'Би ...сан нь дээр' is considered polite.",
+  "mn": "Монголд Улаанбаатараас гарах нислэг цаг агаараас шалтгаалан, ялангуяа өвөл хойшлогдох нь элбэг бөгөөд Наадмын үеэр нисэх буудал ачаалал ихтэй байдаг. Аялагчид ихэвчлэн эелдэгээр ярилцаж, өөр нислэг, зочид буудлын купон гэх мэт бодит буулт хайдаг. Тайван байж, «Би ...сан нь дээр» гэх мэт хэллэг хэрэглэх нь эелдэг гэж үзэгддэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 24,
+  "notes": "Grammar explanations are inaccurate or mismatched, and several Mongolian sentences do not express 'would rather'; many fixes needed."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 21,
+  "notes": "Fixed genitive vowel harmony, fill-blank forms, grammar en/mn mismatch, unnatural phrasing and culture note mismatch.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_en",
+    "why": "гэнэ means 'they say', not 'want to'"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "redundant double илүү"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'fly a different flight' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "'мөнгө буцаалт авах' is awkward; natural phrasing"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "genitive rule was inaccurate; align with mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "wrong '-саар' form; en/mn content mismatch"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "'илүү сонирхож байна' means 'more interested', unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "front-vowel word: хүлээхийн"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "options must follow vowel harmony"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "accurate ending"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "accurate ending"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "split at the stem so options are real forms"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "хүлээ + чих"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "old options produced non-words"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "inaccurate morphology description"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "tense mismatch with 'She'd rather'"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "spelling: хийъе"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'Сайн байна' reads as a greeting"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "accurate phrase form; match mn"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "mn merged Naadam into weather delays; now matches en"
+   }
+  ]
+ }
+}

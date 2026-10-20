@@ -1,0 +1,402 @@
+{
+ "intro_en": "You will learn to ask and tell the time: o'clock, half past, quarter past, and minutes. You will also say when you do things with 'at' in English and the ending -т in Mongolian.",
+ "intro_mn": "Та цаг асуух, хэлэхийг сурна: яг цаг, хагас, 15 минут, минут. Мөн англиар 'at', монголоор -т дагаврыг ашиглан үйлдлийн цагийг хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "цаг",
+   "en": "hour; o'clock; clock",
+   "pos": "noun",
+   "example_mn": "Одоо хэдэн цаг вэ?",
+   "example_en": "What time is it now?",
+   "mn_latin": "tsag"
+  },
+  {
+   "mn": "минут",
+   "en": "minute",
+   "pos": "noun",
+   "example_mn": "Тав минут хүлээнэ үү.",
+   "example_en": "Please wait five minutes.",
+   "mn_latin": "minut"
+  },
+  {
+   "mn": "хагас",
+   "en": "half",
+   "pos": "noun",
+   "example_mn": "Одоо хоёр хагас болсон.",
+   "example_en": "It is half past two.",
+   "mn_latin": "khagas"
+  },
+  {
+   "mn": "одоо",
+   "en": "now",
+   "pos": "adverb",
+   "example_mn": "Одоо найман цаг боллоо.",
+   "example_en": "It is eight o'clock now.",
+   "mn_latin": "odoo"
+  },
+  {
+   "mn": "хэдэн",
+   "en": "how many; what (time)",
+   "pos": "question word",
+   "example_mn": "Та хэдэн цагт босдог вэ?",
+   "example_en": "What time do you wake up?",
+   "mn_latin": "kheden"
+  },
+  {
+   "mn": "өглөө",
+   "en": "morning",
+   "pos": "noun",
+   "example_mn": "Би өглөө долоон цагт босно.",
+   "example_en": "I get up at seven in the morning.",
+   "mn_latin": "öglöö"
+  },
+  {
+   "mn": "орой",
+   "en": "evening",
+   "pos": "noun",
+   "example_mn": "Бид орой зургаан цагт хоол иднэ.",
+   "example_en": "We eat dinner at six in the evening.",
+   "mn_latin": "oroi"
+  },
+  {
+   "mn": "үдээс хойш",
+   "en": "afternoon",
+   "pos": "noun phrase",
+   "example_mn": "Үдээс хойш хичээл байна.",
+   "example_en": "There is class in the afternoon.",
+   "mn_latin": "üdees khoish"
+  },
+  {
+   "mn": "яг",
+   "en": "exactly; sharp",
+   "pos": "adverb",
+   "example_mn": "Яг есөн цаг болсон.",
+   "example_en": "It is exactly nine o'clock.",
+   "mn_latin": "yag"
+  },
+  {
+   "mn": "хичээл",
+   "en": "class; lesson",
+   "pos": "noun",
+   "example_mn": "Хичээл есөн цагт эхэлнэ.",
+   "example_en": "Class starts at nine.",
+   "mn_latin": "khicheel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Одоо хэдэн цаг вэ?",
+   "en": "What time is it now?",
+   "alt_mn": [
+    "Хэдэн цаг болж байна вэ?"
+   ],
+   "alt_en": [
+    "What time is it?"
+   ],
+   "mn_latin": "Odoo kheden tsag ve?"
+  },
+  {
+   "mn": "Одоо гурван цаг.",
+   "en": "It is three o'clock now.",
+   "alt_mn": [
+    "Одоо яг гурван цаг."
+   ],
+   "alt_en": [
+    "It's three o'clock."
+   ],
+   "mn_latin": "Odoo gurvan tsag."
+  },
+  {
+   "mn": "Одоо дөрөв хагас.",
+   "en": "It is half past four.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's four thirty."
+   ],
+   "mn_latin": "Odoo döröv khagas."
+  },
+  {
+   "mn": "Одоо таван цаг арван минут.",
+   "en": "It is ten past five.",
+   "alt_mn": [
+    "Таван цаг арван минут болсон."
+   ],
+   "alt_en": [
+    "It's five ten."
+   ],
+   "mn_latin": "Odoo tavan tsag arvan minut."
+  },
+  {
+   "mn": "Би долоон цагт босдог.",
+   "en": "I get up at seven o'clock.",
+   "alt_mn": [
+    "Би долоон цагт сэрдэг."
+   ],
+   "alt_en": [
+    "I wake up at seven."
+   ],
+   "mn_latin": "Bi doloon tsagt bosdog."
+  },
+  {
+   "mn": "Хичээл хэдэн цагт эхэлдэг вэ?",
+   "en": "What time does class start?",
+   "alt_mn": [
+    "Хичээл хэдэн цагт эхлэх вэ?"
+   ],
+   "alt_en": [
+    "When does class start?"
+   ],
+   "mn_latin": "Khicheel kheden tsagt ekheldeg ve?"
+  },
+  {
+   "mn": "Хичээл есөн цагт эхэлнэ.",
+   "en": "Class starts at nine o'clock.",
+   "alt_mn": [],
+   "alt_en": [
+    "The class begins at nine."
+   ],
+   "mn_latin": "Khicheel yesön tsagt ekhelne."
+  },
+  {
+   "mn": "Бид орой зургаан цагт хоол иддэг.",
+   "en": "We eat dinner at six in the evening.",
+   "alt_mn": [
+    "Бид орой зургаан цагт оройн хоол иддэг."
+   ],
+   "alt_en": [
+    "We have dinner at six in the evening."
+   ],
+   "mn_latin": "Bid oroi zurgaan tsagt khool iddeg."
+  },
+  {
+   "mn": "Автобус найм хагаст ирнэ.",
+   "en": "The bus comes at half past eight.",
+   "alt_mn": [],
+   "alt_en": [
+    "The bus arrives at eight thirty."
+   ],
+   "mn_latin": "Avtobus naim khagast irne."
+  },
+  {
+   "mn": "Одоо арван нэгэн цаг болсон.",
+   "en": "It is eleven o'clock now.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's eleven o'clock."
+   ],
+   "mn_latin": "Odoo arvan negen tsag bolson."
+  },
+  {
+   "mn": "Та хэдэн цагт ажилдаа явдаг вэ?",
+   "en": "What time do you go to work?",
+   "alt_mn": [
+    "Та ажилдаа хэдэн цагт явдаг вэ?"
+   ],
+   "alt_en": [
+    "When do you go to work?"
+   ],
+   "mn_latin": "Ta kheden tsagt ajildaa yavdag ve?"
+  },
+  {
+   "mn": "Би ажлаасаа таван цагт гардаг.",
+   "en": "I leave work at five o'clock.",
+   "alt_mn": [],
+   "alt_en": [
+    "I get off work at five."
+   ],
+   "mn_latin": "Bi ajlaasaa tavan tsagt gardag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling time and 'at' = -т",
+  "title_mn": "Цаг хэлэх нь ба 'at' = -т",
+  "explain_en": "To ask the time, say «Хэдэн цаг вэ?». Answer with number + цаг: «Гурван цаг» (3:00). For half past, say the hour number with хагас: «Хоёр хагас» is 2:30, «Дөрөв хагас» is 4:30. Minutes come after the hour: «Таван цаг арван минут» (5:10). To say 'at' a time, add -т to цаг: «долоон цагт» (at 7), «хоёр цагт» (at 2). Ask «Хэдэн цагт?» (At what time?). Numbers before цаг often take -н: гурван, дөрвөн, долоон, найман, есөн.",
+  "explain_mn": "Англиар цаг асуухдаа 'What time is it?' гэнэ. Хариулахдаа 'It's + цаг' гэнэ: 'It's three o'clock.' Хагас бол 'half past': 'half past two' (2:30). 15 минут бол 'quarter past': 'quarter past five' (5:15). Минут өнгөрсөн бол 'past', дутуу бол 'to': 'ten past five', 'ten to six'. Үйлдлийн цагийг хэлэхдээ 'at' угтвар үгийг цагийн өмнө тавина: 'at seven', 'at half past eight'. Монгол -т дагаварт англи 'at' таарна, гэхдээ англиар цагийн өмнө тусдаа үг болж орно.",
+  "examples": [
+   {
+    "mn": "Хэдэн цаг вэ? — Хоёр хагас.",
+    "en": "What time is it? — Half past two.",
+    "mn_latin": "Kheden tsag ve? — Khoyor khagas."
+   },
+   {
+    "mn": "Би долоон цагт босно.",
+    "en": "I get up at seven.",
+    "mn_latin": "Bi doloon tsagt bosno."
+   },
+   {
+    "mn": "Таван цаг арван минут.",
+    "en": "Five ten.",
+    "mn_latin": "Tavan tsag arvan minut."
+   },
+   {
+    "mn": "Хичээл хэдэн цагт эхлэх вэ?",
+    "en": "What time does class start?",
+    "mn_latin": "Khicheel kheden tsagt ekhlekh ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би долоон цаг___ босно.",
+   "answer": "т",
+   "options": [
+    "т",
+    "аас",
+    "ийг",
+    "тай"
+   ],
+   "translation": "I get up at seven o'clock.",
+   "explain_en": "The ending -т (dative-locative) means 'at' a time: цаг → цагт.",
+   "explain_mn": "Цаг заахад -т дагавар залгаж «цагт» гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Одоо хэдэн ___ вэ?",
+   "answer": "цаг",
+   "options": [
+    "цаг",
+    "өдөр",
+    "сар",
+    "жил"
+   ],
+   "translation": "What time is it now?",
+   "explain_en": "To ask the time, use «хэдэн цаг вэ?».",
+   "explain_mn": "Цаг асуухдаа «хэдэн цаг вэ?» гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Одоо хоёр ___ болсон.",
+   "answer": "хагас",
+   "options": [
+    "хагас",
+    "цагт",
+    "өглөө",
+    "яг"
+   ],
+   "translation": "It is half past two.",
+   "explain_en": "хагас means 'half'; «хоёр хагас» is 2:30.",
+   "explain_mn": "«Хоёр хагас» гэдэг нь 2:30 гэсэн үг."
+  },
+  {
+   "lang": "en",
+   "text": "I get up ___ seven o'clock.",
+   "answer": "at",
+   "options": [
+    "at",
+    "in",
+    "on",
+    "to"
+   ],
+   "translation": "Би долоон цагт босно.",
+   "explain_en": "Use 'at' before a clock time.",
+   "explain_mn": "Цагийн өмнө «at» хэрэглэнэ, «in/on» биш."
+  },
+  {
+   "lang": "en",
+   "text": "It is ___ past three.",
+   "answer": "half",
+   "options": [
+    "half",
+    "middle",
+    "part",
+    "hour"
+   ],
+   "translation": "Одоо гурав хагас болсон.",
+   "explain_en": "'Half past three' means 3:30.",
+   "explain_mn": "'Half past three' нь 3:30 гэсэн үг."
+  },
+  {
+   "lang": "en",
+   "text": "What ___ is it?",
+   "answer": "time",
+   "options": [
+    "time",
+    "hour",
+    "clock",
+    "when"
+   ],
+   "translation": "Хэдэн цаг вэ?",
+   "explain_en": "The set question is 'What time is it?'",
+   "explain_mn": "Цаг асуухдаа «What time is it?» гэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн уу, Сара! Одоо хэдэн цаг вэ?",
+   "en": "Hi, Sara! What time is it now?",
+   "mn_latin": "Sain uu, Sara! Odoo kheden tsag ve?"
+  },
+  {
+   "speaker": "Sara",
+   "mn": "Сайн уу, Болд. Одоо найм хагас.",
+   "en": "Hi, Bold. It's half past eight.",
+   "mn_latin": "Sain uu, Bold. Odoo naim khagas."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Хичээл хэдэн цагт эхлэх вэ?",
+   "en": "What time does class start?",
+   "mn_latin": "Khicheel kheden tsagt ekhlekh ve?"
+  },
+  {
+   "speaker": "Sara",
+   "mn": "Есөн цагт эхэлнэ.",
+   "en": "It starts at nine.",
+   "mn_latin": "Yesön tsagt ekhelne."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэгвэл бид хурдан явъя.",
+   "en": "Then let's go quickly.",
+   "mn_latin": "Tegvel bid khurdan yavya."
+  },
+  {
+   "speaker": "Sara",
+   "mn": "За. Хичээлийн дараа орой хэдэн цагт завтай вэ?",
+   "en": "OK. What time are you free in the evening after class?",
+   "mn_latin": "Za. Khicheeliin daraa oroi kheden tsagt zavtai ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би зургаан цагт завтай.",
+   "en": "I'm free at six.",
+   "mn_latin": "Bi zurgaan tsagt zavtai."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia people often use the 24-hour clock in schedules, such as train and bus times, but in conversation they usually say the 12-hour time with өглөө, үдээс хойш, or орой. Class and office hours often start at 8 or 9 a.m.",
+  "mn": "Монголд галт тэрэг, автобусны хуваарьт 24 цагийн систем түгээмэл хэрэглэгддэг ч яриандаа ихэвчлэн өглөө, үдээс хойш, орой гэж 12 цагаар хэлдэг. Хичээл, ажил ихэвчлэн өглөөний 8 эсвэл 9 цагт эхэлдэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 18,
+  "notes": "Main problems: numerals before хагас (найм/дөрөв, not найман/дөрвөн), an incorrect and contradictory half-past explanation, and an unnatural 'past' sentence."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "The lesson is mostly accurate: one spelling error, one fill-in item with two possible answers, and one inexact English alternative.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "The correct spelling is явъя, with the hard sign ъ."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "«Одоо хоёр минут болсон» ('two minutes have passed') is also grammatical, so the blank had two correct answers."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "'Already' adds a meaning that the Mongolian sentence doesn't have."
+   }
+  ]
+ }
+}

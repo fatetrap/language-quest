@@ -1,0 +1,424 @@
+{
+ "intro_en": "You will learn to say what you just did or finished, like calling a friend or doing the laundry. You will also compare Mongolian -лаа/-лээ with -сан/-сэн and use English past simple with time words like this morning, yesterday, and ago.",
+ "intro_mn": "Та дөнгөж сая хийсэн зүйлээ, жишээ нь найздаа залгасан эсвэл угаалга хийж дууссан тухайгаа хэлж сурна. Мөн -лаа/-лээ болон -сан/-сэн нөхцлийг англи хэлний өнгөрсөн цагтай (this morning, yesterday, ago) харьцуулна.",
+ "vocab": [
+  {
+   "mn": "угаах",
+   "en": "to wash",
+   "pos": "verb",
+   "example_mn": "Би аяга таваг угаалаа.",
+   "example_en": "I washed the dishes.",
+   "mn_latin": "ugaakh"
+  },
+  {
+   "mn": "залгах",
+   "en": "to call",
+   "pos": "verb",
+   "example_mn": "Би ээжид залгалаа.",
+   "example_en": "I called my mom.",
+   "mn_latin": "zalgakh"
+  },
+  {
+   "mn": "дуусгах",
+   "en": "to finish",
+   "pos": "verb",
+   "example_mn": "Би ажлаа дуусгалаа.",
+   "example_en": "I finished my work.",
+   "mn_latin": "duusgakh"
+  },
+  {
+   "mn": "бичих",
+   "en": "to write",
+   "pos": "verb",
+   "example_mn": "Би захидал бичлээ.",
+   "example_en": "I wrote a letter.",
+   "mn_latin": "bichikh"
+  },
+  {
+   "mn": "нээх",
+   "en": "to open",
+   "pos": "verb",
+   "example_mn": "Би цонхоо нээлээ.",
+   "example_en": "I opened the window.",
+   "mn_latin": "neekh"
+  },
+  {
+   "mn": "цэвэрлэх",
+   "en": "to clean",
+   "pos": "verb",
+   "example_mn": "Би өрөөгөө цэвэрлэлээ.",
+   "example_en": "I cleaned my room.",
+   "mn_latin": "tseverlekh"
+  },
+  {
+   "mn": "угаалга",
+   "en": "laundry",
+   "pos": "noun",
+   "example_mn": "Би угаалгаа хийлээ.",
+   "example_en": "I did my laundry.",
+   "mn_latin": "ugaalga"
+  },
+  {
+   "mn": "аяга таваг",
+   "en": "dishes",
+   "pos": "noun",
+   "example_mn": "Аяга таваг угаах хэрэгтэй.",
+   "example_en": "The dishes need to be washed.",
+   "mn_latin": "ayaga tavag"
+  },
+  {
+   "mn": "дөнгөж сая",
+   "en": "just now",
+   "pos": "adverb",
+   "example_mn": "Дөнгөж сая ирлээ.",
+   "example_en": "I just arrived.",
+   "mn_latin": "döngöj saya"
+  },
+  {
+   "mn": "өчигдөр",
+   "en": "yesterday",
+   "pos": "noun",
+   "example_mn": "Өчигдөр би гэрээ цэвэрлэсэн.",
+   "example_en": "Yesterday I cleaned my home.",
+   "mn_latin": "öchigdör"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би дөнгөж сая найздаа залгалаа.",
+   "en": "I just called my friend.",
+   "alt_mn": [
+    "Би дөнгөж сая найздаа утасдлаа."
+   ],
+   "alt_en": [
+    "I called my friend just now."
+   ],
+   "mn_latin": "Bi döngöj saya naizdaa zalgalaa."
+  },
+  {
+   "mn": "Би угаалгаа хийж дууслаа.",
+   "en": "I finished the laundry.",
+   "alt_mn": [
+    "Би угаалгаа хийж дуусгалаа."
+   ],
+   "alt_en": [
+    "I finished doing the laundry."
+   ],
+   "mn_latin": "Bi ugaalgaa khiij duuslaa."
+  },
+  {
+   "mn": "Өчигдөр орой би аяга таваг угаасан.",
+   "en": "Last night I washed the dishes.",
+   "alt_mn": [
+    "Би өчигдөр орой аяга таваг угаасан."
+   ],
+   "alt_en": [
+    "Yesterday evening I washed the dishes."
+   ],
+   "mn_latin": "Öchigdör oroi bi ayaga tavag ugaasan."
+  },
+  {
+   "mn": "Би өнөөдөр өглөө өрөөгөө цэвэрлэсэн.",
+   "en": "I cleaned my room this morning.",
+   "alt_mn": [],
+   "alt_en": [
+    "This morning I cleaned my room."
+   ],
+   "mn_latin": "Bi önöödör öglöö öröögöö tseverlesen."
+  },
+  {
+   "mn": "Би цонхоо нээлээ.",
+   "en": "I just opened the window.",
+   "alt_mn": [],
+   "alt_en": [
+    "I opened the window just now."
+   ],
+   "mn_latin": "Bi tsonkhoo neelee."
+  },
+  {
+   "mn": "Би багшид имэйл бичлээ.",
+   "en": "I just wrote an email to the teacher.",
+   "alt_mn": [],
+   "alt_en": [
+    "I just wrote the teacher an email."
+   ],
+   "mn_latin": "Bi bagshid imeil bichlee."
+  },
+  {
+   "mn": "Би хоёр цагийн өмнө ээжид залгасан.",
+   "en": "I called my mom two hours ago.",
+   "alt_mn": [],
+   "alt_en": [
+    "Two hours ago I called my mom."
+   ],
+   "mn_latin": "Bi khoyor tsagiin ömnö eejid zalgasan."
+  },
+  {
+   "mn": "Чи ажлаа дуусгасан уу?",
+   "en": "Did you finish your work?",
+   "alt_mn": [
+    "Та ажлаа дуусгасан уу?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Chi ajlaa duusgasan uu?"
+  },
+  {
+   "mn": "Би өчигдөр ажлаа дуусгасан.",
+   "en": "I finished my work yesterday.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yesterday I finished my work."
+   ],
+   "mn_latin": "Bi öchigdör ajlaa duusgasan."
+  },
+  {
+   "mn": "Би дөнгөж сая хаалгаа нээлээ.",
+   "en": "I just opened the door.",
+   "alt_mn": [],
+   "alt_en": [
+    "I opened the door just now."
+   ],
+   "mn_latin": "Bi döngöj saya khaalgaa neelee."
+  },
+  {
+   "mn": "Өнгөрсөн долоо хоногт бид байраа цэвэрлэсэн.",
+   "en": "Last week we cleaned our apartment.",
+   "alt_mn": [],
+   "alt_en": [
+    "We cleaned our apartment last week."
+   ],
+   "mn_latin": "Öngörsön doloo khonogt bid bairaa tseverlesen."
+  },
+  {
+   "mn": "Би дөнгөж сая захидлаа бичиж дууслаа.",
+   "en": "I just finished writing my letter.",
+   "alt_mn": [],
+   "alt_en": [
+    "I just finished the letter."
+   ],
+   "mn_latin": "Bi döngöj saya zakhidlaa bichij duuslaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "-лаа/-лээ for \"just now\" vs -сан/-сэн for general past",
+  "title_mn": "Дөнгөж сая хийсэн (-лаа/-лээ) ба ерөнхий өнгөрсөн (-сан/-сэн)",
+  "explain_en": "Mongolian has two common past endings. Use -лаа/-лээ/-лоо/-лөө (by vowel harmony) for something you just did or that is fresh and close to now: Би залгалаа (I just called). Use -сан/-сэн/-сон/-сөн for the general past, especially with time words like yesterday or last week: Би өчигдөр залгасан (I called yesterday). English does not change the verb ending for this. It uses the past simple (called, washed, wrote) and adds time words: this morning, yesterday, last night, two hours ago. For \"just now\", English can add just: I just called her. Irregular verbs (go – went, write – wrote) must be memorized. Regular verbs add -ed.",
+  "explain_mn": "Монгол хэлэнд хоёр түгээмэл өнгөрсөн цагийн нөхцөл бий. Дөнгөж сая болсон, одоотой ойр үйлдэлд -лаа/-лээ/-лоо/-лөө (эгшиг зохицлоор) хэрэглэнэ: Би залгалаа. Ерөнхий өнгөрсөн үйлдэлд, ялангуяа өчигдөр, өнгөрсөн долоо хоногт гэх мэт цагийн үгтэй бол -сан/-сэн/-сон/-сөн хэрэглэнэ: Би өчигдөр залгасан. Англи хэлэнд ийм хоёр нөхцөл байдаггүй. Бүх өнгөрсөн үйлдлийг нэг хэлбэрээр (past simple) хэлнэ: called, washed, wrote. Дөнгөж сая болсныг илэрхийлэхдээ just гэж нэмнэ. Өнгөрсөн цагийг yesterday, last night, this morning, two hours ago зэрэг үгээр тодруулна. Жишээ: I just called her. I called her yesterday. Тусгай үйл үгийг (go – went, write – wrote) цээжлэх хэрэгтэй, харин ердийн үйл үг -ed авна.",
+  "examples": [
+   {
+    "mn": "Би дөнгөж сая угаалгаа хийлээ.",
+    "en": "I just did my laundry.",
+    "mn_latin": "Bi döngöj saya ugaalgaa khiilee."
+   },
+   {
+    "mn": "Би өчигдөр угаалгаа хийсэн.",
+    "en": "I did my laundry yesterday.",
+    "mn_latin": "Bi öchigdör ugaalgaa khiisen."
+   },
+   {
+    "mn": "Бид цонхоо нээлээ.",
+    "en": "We opened the window.",
+    "mn_latin": "Bid tsonkhoo neelee."
+   },
+   {
+    "mn": "Тэр гурван өдрийн өмнө залгасан.",
+    "en": "He called three days ago.",
+    "mn_latin": "Ter gurvan ödriin ömnö zalgasan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би дөнгөж сая найздаа залга___.",
+   "answer": "лаа",
+   "options": [
+    "лаа",
+    "лээ",
+    "лоо",
+    "лөө"
+   ],
+   "translation": "I just called my friend.",
+   "explain_en": "Залгах has the vowel а, so the 'just now' ending is -лаа.",
+   "explain_mn": "Залгах гэсэн үйл үгийн эгшиг а тул дөнгөж сая болсныг -лаа гэж төгсгөнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Өчигдөр би аяга таваг угаа___.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "сэн",
+    "сон",
+    "сөн"
+   ],
+   "translation": "Yesterday I washed the dishes.",
+   "explain_en": "With 'yesterday', a general past is natural, and угаах takes -сан.",
+   "explain_mn": "Өчигдөр гэсэн цагийн үгтэй бол ерөнхий өнгөрсөн -сан тохиромжтой."
+  },
+  {
+   "lang": "mn",
+   "text": "Би цонхоо нээ___.",
+   "answer": "лээ",
+   "options": [
+    "лээ",
+    "лаа",
+    "сан",
+    "лөө"
+   ],
+   "translation": "I just opened the window.",
+   "explain_en": "Нээх has the vowel э, so the ending is -лээ.",
+   "explain_mn": "Нээх нь э эгшигтэй тул -лээ нөхцөл залгана."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ my mom two hours ago.",
+   "answer": "called",
+   "options": [
+    "called",
+    "call",
+    "calling",
+    "will call"
+   ],
+   "translation": "Би хоёр цагийн өмнө ээжид залгасан.",
+   "explain_en": "'Ago' needs the past simple: called.",
+   "explain_mn": "Ago гэсэн үгтэй өнгөрсөн цаг хэрэглэнэ: called."
+  },
+  {
+   "lang": "en",
+   "text": "She ___ a letter last night.",
+   "answer": "wrote",
+   "options": [
+    "wrote",
+    "writed",
+    "writes",
+    "write"
+   ],
+   "translation": "Тэр өчигдөр орой захидал бичсэн.",
+   "explain_en": "Write is irregular: write → wrote.",
+   "explain_mn": "Write нь тусгай үйл үг: write → wrote."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ the dishes this morning.",
+   "answer": "washed",
+   "options": [
+    "washed",
+    "wash",
+    "washing",
+    "washes"
+   ],
+   "translation": "Би өнөөдөр өглөө аяга таваг угаасан.",
+   "explain_en": "This morning is a finished time in the past here, so use washed.",
+   "explain_mn": "Өнөө өглөө дууссан үйлдлийг хэлж байгаа тул washed хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Чи юу хийж байна?",
+   "en": "What are you doing?",
+   "mn_latin": "Chi yuu khiij baina?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Би дөнгөж сая угаалгаа хийж дууслаа.",
+   "en": "I just finished the laundry.",
+   "mn_latin": "Bi döngöj saya ugaalgaa khiij duuslaa."
+  },
+  {
+   "speaker": "Содгэрэл",
+   "mn": "За сайн байна. Аяга таваг угаасан уу?",
+   "en": "Good. Did you wash the dishes?",
+   "mn_latin": "Za sain baina. Ayaga tavag ugaasan uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм, өнөөдөр өглөө угаасан.",
+   "en": "Yes, I washed them this morning.",
+   "mn_latin": "Tiim, önöödör öglöö ugaasan."
+  },
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Ээжид залгасан уу?",
+   "en": "Did you call your mom?",
+   "mn_latin": "Eejid zalgasan uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Дөнгөж сая залгалаа.",
+   "en": "I just called her.",
+   "mn_latin": "Döngöj saya zalgalaa."
+  },
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Тэгвэл цонхоо нээгээч.",
+   "en": "Then please open the window.",
+   "mn_latin": "Tegvel tsonkhoo neegeech."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Дөнгөж сая нээлээ!",
+   "en": "I just opened it!",
+   "mn_latin": "Döngöj saya neelee!"
+  }
+ ],
+ "culture_note": {
+  "en": "Before Tsagaan Sar, Mongolian families clean their homes thoroughly and finish all chores, because they want to start the new year with a fresh, tidy home. People often say they have finished everything with a quick -лаа/-лээ sentence, such as 'Цэвэрлэлээ!'. In Ulaanbaatar apartments and ger districts alike, helping with chores is a family activity.",
+  "mn": "Цагаан сарын өмнө монгол айлууд гэрээ сайтар цэвэрлэж, бүх ажлаа дуусгадаг. Шинэ жилийг цэвэр цэмцгэр гэрт угтахыг хүсдэг. Хүмүүс ихэвчлэн 'Цэвэрлэлээ!' гэх мэтээр дөнгөж сая дууссан ажлаа хэлдэг. Улаанбаатарын орон сууц болон гэр хороололд гэрийн ажил хийх нь гэр бүлийн хамтын үйл ажиллагаа юм."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 17,
+  "notes": "Mostly good. The main errors are a lost 'just' in the pair 'Би цонхоо нээлээ', the dialogue line 'Одоо нээлээ' not matching its English, and a few unnatural alternates. Several 'fixes' above only restate the existing text and can be ignored."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 7,
+  "notes": "Fixed duplicate alternatives, two ambiguous blanks, a mistranslated vocab example, and the mismatched grammar explanations.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_mn",
+    "why": "аяга alone means 'cup', not 'the dishes'"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "the alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "the alternative was identical to the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "the en and mn versions must say the same thing"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "the mn version did not explain the Mongolian contrast that the en version explains"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "залгасан is also grammatical with дөнгөж сая, so there were two correct answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "угаалаа is also possible with өчигдөр in narration, so there were two correct answers"
+   }
+  ]
+ }
+}

@@ -1,0 +1,415 @@
+{
+ "intro_en": "Learn to talk about family with a chatty taxi driver: marriage, kids, grandkids and retirement, and how to politely dodge personal questions. You'll also use doubled question words like юу юу and хэдэн хэдэн to ask about several things or people.",
+ "intro_mn": "Яриасаг таксины жолоочтой гэр бүлийн тухай ярьж сурна: гэрлэлт, хүүхэд, ач зээ, тэтгэвэр, мөн хувийн асуултаас эелдгээр зайлсхийх. Мөн хэд хэдэн зүйл, хүний тухай асуухдаа 'юу юу', 'хэдэн хэдэн' гэх мэт давхар асуух үг хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "хүүхэд",
+   "en": "child",
+   "pos": "noun",
+   "example_mn": "Та хэдэн хүүхэдтэй вэ?",
+   "example_en": "How many children do you have?",
+   "mn_latin": "khüükhed"
+  },
+  {
+   "mn": "ач зээ",
+   "en": "grandchildren",
+   "pos": "noun",
+   "example_mn": "Манай ээж арван ач зээтэй.",
+   "example_en": "My mom has ten grandchildren.",
+   "mn_latin": "ach zee"
+  },
+  {
+   "mn": "гэрлэх",
+   "en": "to get married",
+   "pos": "verb",
+   "example_mn": "Та гэрлэсэн үү?",
+   "example_en": "Are you married?",
+   "mn_latin": "gerlekh"
+  },
+  {
+   "mn": "тэтгэвэр",
+   "en": "pension, retirement",
+   "pos": "noun",
+   "example_mn": "Аав маань өнгөрсөн жил тэтгэвэрт гарсан.",
+   "example_en": "My dad retired last year.",
+   "mn_latin": "tetgever"
+  },
+  {
+   "mn": "бэр",
+   "en": "daughter-in-law",
+   "pos": "noun",
+   "example_mn": "Манай бэр эмч хийдэг.",
+   "example_en": "Our daughter-in-law works as a doctor.",
+   "mn_latin": "ber"
+  },
+  {
+   "mn": "хүргэн",
+   "en": "son-in-law",
+   "pos": "noun",
+   "example_mn": "Хүргэн маань Солонгост ажилладаг.",
+   "example_en": "My son-in-law works in Korea.",
+   "mn_latin": "khürgen"
+  },
+  {
+   "mn": "ганц бие",
+   "en": "single",
+   "pos": "adjective",
+   "example_mn": "Би одоохондоо ганц бие.",
+   "example_en": "I'm single for now.",
+   "mn_latin": "gants biye"
+  },
+  {
+   "mn": "гадаадад",
+   "en": "abroad",
+   "pos": "adverb",
+   "example_mn": "Том хүү маань гадаадад сурдаг.",
+   "example_en": "My oldest son studies abroad.",
+   "mn_latin": "gadaadad"
+  },
+  {
+   "mn": "хувийн",
+   "en": "personal, private",
+   "pos": "adjective",
+   "example_mn": "Энэ арай хувийн асуулт байна.",
+   "example_en": "That's a bit of a personal question.",
+   "mn_latin": "khuviin"
+  },
+  {
+   "mn": "төгсөх",
+   "en": "to graduate",
+   "pos": "verb",
+   "example_mn": "Охин маань энэ жил их сургууль төгсөнө.",
+   "example_en": "My daughter graduates from university this year.",
+   "mn_latin": "tögsökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хүүхдүүд тань хэдэн хэдэн настай вэ?",
+   "en": "How old are your children?",
+   "alt_mn": [
+    "Таны хүүхдүүд хэдэн хэдэн настай вэ?"
+   ],
+   "alt_en": [
+    "How old are your kids?"
+   ],
+   "mn_latin": "Khüükhdüüd tani kheden kheden nastai ve?"
+  },
+  {
+   "mn": "Охин маань арван хоёртой, хүү маань долоотой.",
+   "en": "My daughter is twelve and my son is seven.",
+   "alt_mn": [
+    "Охин маань арван хоёр настай, хүү маань долоон настай."
+   ],
+   "alt_en": [
+    "My daughter is twelve, and my son is seven."
+   ],
+   "mn_latin": "Okhin maani arvan khoyortoi, khüü maani dolootoi."
+  },
+  {
+   "mn": "Тэд сургууль дээрээ юу юу сурдаг вэ?",
+   "en": "What subjects do they study at school?",
+   "alt_mn": [
+    "Тэд сургуульдаа юу юу үздэг вэ?"
+   ],
+   "alt_en": [
+    "What do they study at school?",
+    "What kinds of things do they learn at school?"
+   ],
+   "mn_latin": "Ted surguuli deeree yuu yuu surdag ve?"
+  },
+  {
+   "mn": "Та гэрлэсэн үү?",
+   "en": "Are you married?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ta gerlesen üü?"
+  },
+  {
+   "mn": "Одоохондоо үгүй ээ, ажилдаа л анхаарч байна.",
+   "en": "Not yet, I'm focusing on my work for now.",
+   "alt_mn": [
+    "Одоохондоо үгүй, ажилдаа анхаарч байгаа."
+   ],
+   "alt_en": [
+    "Not yet. For now I'm focusing on work.",
+    "Not yet, I'm concentrating on my job for now."
+   ],
+   "mn_latin": "Odookhondoo ügüi ee, ajildaa l ankhaarch baina."
+  },
+  {
+   "mn": "Энэ сэдвээр ярихгүй байж болох уу?",
+   "en": "Could we not talk about this?",
+   "alt_mn": [
+    "Энэ талаар ярихгүй байж болох уу?"
+   ],
+   "alt_en": [
+    "Can we not talk about this?",
+    "Could we skip this topic?"
+   ],
+   "mn_latin": "Ene sedveer yarikhgüi baij bolokh uu?"
+  },
+  {
+   "mn": "Уучлаарай, энэ арай хувийн асуулт юм.",
+   "en": "Sorry, that's a bit of a personal question.",
+   "alt_mn": [
+    "Уучлаарай, энэ жаахан хувийн асуулт байна."
+   ],
+   "alt_en": [
+    "Sorry, that's a little personal."
+   ],
+   "mn_latin": "Uuchlaarai, ene arai khuviin asuult yum."
+  },
+  {
+   "mn": "Аав маань тэтгэвэрт гараад хөдөө амьдардаг.",
+   "en": "My dad retired and lives in the countryside.",
+   "alt_mn": [
+    "Аав маань тэтгэвэрт гарчихаад хөдөө амьдарч байгаа."
+   ],
+   "alt_en": [
+    "My father retired and lives in the countryside.",
+    "My dad is retired and lives in the countryside."
+   ],
+   "mn_latin": "Aav maani tetgevert garaad khödöö amidardag."
+  },
+  {
+   "mn": "Та хэдэн ач зээтэй вэ?",
+   "en": "How many grandchildren do you have?",
+   "alt_mn": [
+    "Танд хэдэн ач зээ байгаа вэ?"
+   ],
+   "alt_en": [
+    "How many grandkids do you have?"
+   ],
+   "mn_latin": "Ta kheden ach zeetei ve?"
+  },
+  {
+   "mn": "Хэний хүү гадаадад ажилладаг вэ?",
+   "en": "Whose son works abroad?",
+   "alt_mn": [
+    "Хэний хүү гадаадад ажилладаг юм бэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Khenii khüü gadaadad ajilladag ve?"
+  },
+  {
+   "mn": "Та хэний машиныг зээлсэн бэ?",
+   "en": "Whose car did you borrow?",
+   "alt_mn": [
+    "Та хэний машин зээлсэн бэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Ta khenii mashinyg zeelsen be?"
+  },
+  {
+   "mn": "Аль хүүхэд тань их сургуульд сурдаг вэ?",
+   "en": "Which of your children goes to university?",
+   "alt_mn": [
+    "Хүүхдүүдийн тань аль нь их сургуульд сурдаг вэ?"
+   ],
+   "alt_en": [
+    "Which of your children is in college?",
+    "Which of your kids goes to university?"
+   ],
+   "mn_latin": "Ali khüükhed tani ikh surguulid surdag ve?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Doubled question words: юу юу, хэдэн хэдэн",
+  "title_mn": "Давхар асуух үг: юу юу, хэдэн хэдэн",
+  "explain_en": "In Mongolian, doubling a question word tells the listener you expect more than one answer. Юу? means 'what?', but Юу юу сурдаг вэ? means 'What (all) do they study?', so the answer is a list. Хэдэн настай вэ? asks one person's age, while Хүүхдүүд тань хэдэн хэдэн настай вэ? asks the age of each child. The same works with хэн хэн (who all), хаана хаана (where all) and ямар ямар (what kinds). English has no exact match. Translate it with a plain question, or add 'all' or 'each' if you need to.",
+  "explain_mn": "Монгол хэлэнд асуух үгийг давхарлавал хариулт нэгээс олон байна гэж хүлээж байгааг илэрхийлнэ. 'Юу?' гэдэг нь 'what?' гэсэн утгатай. Харин 'Юу юу сурдаг вэ?' гэдэг нь 'What (all) do they study?' гэсэн утгатай тул хариулт нь жагсаалт байна. 'Хэдэн настай вэ?' гэж нэг хүний насыг асуудаг бол 'Хүүхдүүд тань хэдэн хэдэн настай вэ?' гэж хүүхэд бүрийн насыг асуудаг. 'Хэн хэн' (who all), 'хаана хаана' (where all), 'ямар ямар' (what kinds) гэдэг үгс ч мөн адил. Англи хэлэнд яг ийм хэлбэр байдаггүй. Энгийн асуултаар орчуулах буюу шаардлагатай бол 'all' эсвэл 'each' гэдэг үг нэмнэ.",
+  "examples": [
+   {
+    "mn": "Хүүхдүүд чинь сургууль дээрээ юу юу сурдаг вэ?",
+    "en": "What subjects do your kids study at school?",
+    "mn_latin": "Khüükhdüüd chini surguuli deeree yuu yuu surdag ve?"
+   },
+   {
+    "mn": "Ач зээ нар тань хэдэн хэдэн настай вэ?",
+    "en": "How old are your grandchildren?",
+    "mn_latin": "Ach zee nar tani kheden kheden nastai ve?"
+   },
+   {
+    "mn": "Аль хүүхэд тань гадаадад ажилладаг вэ?",
+    "en": "Which of your children works abroad?",
+    "mn_latin": "Ali khüükhed tani gadaadad ajilladag ve?"
+   },
+   {
+    "mn": "Та аль хүүхэдтэйгээ хамт амьдардаг вэ?",
+    "en": "Which of your children do you live with?",
+    "mn_latin": "Ta ali khüükhedteigee khamt amidardag ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хүүхдүүд тань хэдэн ___ настай вэ?",
+   "answer": "хэдэн",
+   "options": [
+    "хэдэн",
+    "хэд",
+    "хэдээр",
+    "хэний"
+   ],
+   "translation": "How old are your children?",
+   "explain_en": "Doubling хэдэн (хэдэн хэдэн) asks the age of each of several children, so you expect several answers.",
+   "explain_mn": "Олон хүүхдийн нас тус бүрийг асууж байгаа тул 'хэдэн хэдэн' гэж давхарлана."
+  },
+  {
+   "lang": "mn",
+   "text": "Та гэрлэ___ үү?",
+   "answer": "сэн",
+   "options": [
+    "сэн",
+    "сан",
+    "сон",
+    "сөн"
+   ],
+   "translation": "Are you married?",
+   "explain_en": "Гэрлэх has front vowels (э), so by vowel harmony the past ending is -сэн: гэрлэсэн.",
+   "explain_mn": "Эгшиг зохицох ёсоор 'гэрлэ' үйл үгт '-сэн' нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Аав маань өнгөрсөн жил тэтгэвэрт ___.",
+   "answer": "гарсан",
+   "options": [
+    "гарсан",
+    "ирсэн",
+    "авсан",
+    "өгсөн"
+   ],
+   "translation": "My dad retired last year.",
+   "explain_en": "'To retire' is the fixed phrase тэтгэвэрт гарах, literally 'to go out to pension'.",
+   "explain_mn": "'Тэтгэвэрт гарах' нь тогтвортой хэллэг тул 'гарсан' гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Whose son ___ abroad?",
+   "answer": "works",
+   "options": [
+    "works",
+    "does he work",
+    "do work",
+    "working"
+   ],
+   "translation": "Хэний хүү гадаадад ажилладаг вэ?",
+   "explain_en": "'Whose son' is the subject, so there is no do/does and the verb takes -s: works.",
+   "explain_mn": "'Whose son' өгүүлэгч учраас does хэрэглэхгүй, үйл үг шууд -s авна: works."
+  },
+  {
+   "lang": "en",
+   "text": "Whose car ___ you borrow?",
+   "answer": "did",
+   "options": [
+    "did",
+    "does",
+    "have",
+    "was"
+   ],
+   "translation": "Та хэний машиныг зээлсэн бэ?",
+   "explain_en": "'Whose car' is the object and 'you' is the subject, so a past question needs 'did' plus the base verb.",
+   "explain_mn": "'Whose car' тусагдахуун, 'you' өгүүлэгч тул өнгөрсөн цагт 'did' + үйл үгийн үндсэн хэлбэр хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Which of your children ___ to university?",
+   "answer": "goes",
+   "options": [
+    "goes",
+    "do go",
+    "going",
+    "does"
+   ],
+   "translation": "Аль хүүхэд тань их сургуульд сурдаг вэ?",
+   "explain_en": "'Which of your children' is the subject and means one child, so use 'goes' with no do-support.",
+   "explain_mn": "'Which of your children' өгүүлэгч бөгөөд нэг хүүхдийг заана, тиймээс туслах үйл үггүйгээр 'goes' гэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Та гэрлэсэн үү, охин минь?",
+   "en": "Are you married, dear?",
+   "mn_latin": "Ta gerlesen üü, okhin mini?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Одоохондоо үгүй ээ, ажилдаа л анхаарч байна. Таны хүүхдүүд хэдэн хэдэн настай вэ?",
+   "en": "Not yet, I'm focusing on my work for now. How old are your kids?",
+   "mn_latin": "Odookhondoo ügüi ee, ajildaa l ankhaarch baina. Tany khüükhdüüd kheden kheden nastai ve?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Гурвуулаа том болсон. Том хүү маань Солонгост ажилладаг, охин маань багш.",
+   "en": "All three are grown up. My oldest son works in Korea, and my daughter is a teacher.",
+   "mn_latin": "Gurvuulaa tom bolson. Tom khüü maani Solongost ajilladag, okhin maani bagsh."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Та ач зээтэй юу?",
+   "en": "Do you have grandchildren?",
+   "mn_latin": "Ta ach zeetei yuu?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Дөрвөн ач зээтэй. Ирэх жил тэтгэвэрт гараад тэдэнтэйгээ байна.",
+   "en": "Four. Next year I'll retire and spend time with them.",
+   "mn_latin": "Dörvön ach zeetei. Irekh jil tetgevert garaad tedenteigee baina."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Ямар сайхан юм бэ. Ач зээ нар тань юу юу хийх дуртай вэ?",
+   "en": "How lovely. What kinds of things do your grandkids like to do?",
+   "mn_latin": "Yamar saikhan yum be. Ach zee nar tani yuu yuu khiikh durtai ve?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Нэг нь бөх барилдах дуртай, нөгөө нь зураг зурах дуртай. Харин та хэзээ гэрлэх вэ?",
+   "en": "One loves wrestling, another loves drawing. So when are you getting married?",
+   "mn_latin": "Neg ni bökh barildakh durtai, nögöö ni zurag zurakh durtai. Kharin ta khezee gerlekh ve?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Ха ха, энэ хувийн асуулт байна шүү! За, энд зогсоорой.",
+   "en": "Ha ha, that's a personal question! Okay, please stop here.",
+   "mn_latin": "Kha kha, ene khuviin asuult baina shüü! Za, end zogsooroi."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar many taxis are private cars, and drivers often ask about your age, marriage and children within minutes. It's friendly curiosity, not rudeness. Older drivers may call you охин минь ('my girl') or хүү минь ('my boy'), and a light laugh or a question back about their own family is the easiest way to change the subject.",
+  "mn": "Улаанбаатарт олон такси хувийн машин байдаг бөгөөд жолооч нар ихэвчлэн хэдхэн минутын дотор нас, гэр бүл, хүүхдийн тухай асуудаг. Энэ нь бүдүүлэг биш, найрсаг сониуч зан юм. Ахмад жолооч нар 'охин минь', 'хүү минь' гэж дуудах нь элбэг. Сэдвээ солих хамгийн амар арга бол инээгээд, тэдний гэр бүлийн тухай буцааж асуух явдал."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 2,
+  "notes": "Accurate, natural lesson. The only issues were one fill-blank distractor that could also be correct and one awkward alternate translation."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 3,
+  "notes": "The main problem was that the Mongolian intro and grammar section taught a different point from the English versions. Those three fields were rewritten to match. The rest of the lesson is accurate.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro described a different grammar point (which/whose) than the en intro"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn did not match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn covered which/whose instead of matching explain_en on doubled question words"
+   }
+  ]
+ }
+}

@@ -1,0 +1,441 @@
+{
+ "intro_en": "You will learn words for dorm life and how to give requests and warnings with conditions: Mongolian -вал/-вэл + imperative or -на, and English 'If you...' + imperative.",
+ "intro_mn": "Та оюутны байрны амьдралын үгсийг, мөн -вал/-вэл + захирах хэлбэр эсвэл -на хэлбэрээр хүсэлт, сануулга хэлэх аргыг (англиар 'If you...' + тушаал) сурна.",
+ "vocab": [
+  {
+   "mn": "байр",
+   "en": "dorm / housing",
+   "pos": "noun",
+   "example_mn": "Би оюутны байранд амьдардаг.",
+   "example_en": "I live in the student dorm.",
+   "mn_latin": "bair"
+  },
+  {
+   "mn": "өрөөний нөхөр",
+   "en": "roommate",
+   "pos": "noun",
+   "example_mn": "Миний өрөөний нөхөр маш эмх цэгцтэй.",
+   "example_en": "My roommate is very tidy.",
+   "mn_latin": "öröönii nökhör"
+  },
+  {
+   "mn": "цэвэрлэгээ",
+   "en": "cleaning",
+   "pos": "noun",
+   "example_mn": "Бямба гаригт бид өрөөний цэвэрлэгээ хийдэг.",
+   "example_en": "On Saturdays we clean the room.",
+   "mn_latin": "tseverlegee"
+  },
+  {
+   "mn": "чимээ шуугиан",
+   "en": "noise",
+   "pos": "noun",
+   "example_mn": "Шөнө чимээ шуугиан гаргаж болохгүй.",
+   "example_en": "You must not make noise at night.",
+   "mn_latin": "chimee shuugian"
+  },
+  {
+   "mn": "түлхүүр",
+   "en": "key",
+   "pos": "noun",
+   "example_mn": "Түлхүүрээ бүү март.",
+   "example_en": "Don't forget your key.",
+   "mn_latin": "tülkhüür"
+  },
+  {
+   "mn": "дүрэм",
+   "en": "rule",
+   "pos": "noun",
+   "example_mn": "Байрны дүрмийг сайн уншаарай.",
+   "example_en": "Read the dorm rules carefully.",
+   "mn_latin": "dürem"
+  },
+  {
+   "mn": "түгжих",
+   "en": "to lock",
+   "pos": "verb",
+   "example_mn": "Гарахдаа хаалгаа түгжээрэй.",
+   "example_en": "Lock the door when you leave.",
+   "mn_latin": "tügjikh"
+  },
+  {
+   "mn": "угаах",
+   "en": "to wash",
+   "pos": "verb",
+   "example_mn": "Аяга тавгаа угаа.",
+   "example_en": "Wash your dishes.",
+   "mn_latin": "ugaakh"
+  },
+  {
+   "mn": "жижүүр",
+   "en": "person on duty",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр би жижүүр байна.",
+   "example_en": "Today I am on duty.",
+   "mn_latin": "jijüür"
+  },
+  {
+   "mn": "зочин",
+   "en": "guest",
+   "pos": "noun",
+   "example_mn": "Зочин ирвэл вахтад бүртгүүлээрэй.",
+   "example_en": "If you have a guest, register at the front desk.",
+   "mn_latin": "zochin"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Гарвал хаалгаа түгжээрэй.",
+   "en": "If you go out, lock the door.",
+   "alt_mn": [],
+   "alt_en": [
+    "Lock the door if you go out."
+   ],
+   "mn_latin": "Garval khaalgaa tügjeerei."
+  },
+  {
+   "mn": "Түлхүүрээ мартвал вахтаас аваарай.",
+   "en": "If you forget your key, get one from the front desk.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you forget your key, ask the front desk for one."
+   ],
+   "mn_latin": "Tülkhüüree martval vakhtaas avaarai."
+  },
+  {
+   "mn": "Шөнө чимээ шуугиан гаргавал өрөөний нөхөр чинь төвөгшөөнө.",
+   "en": "If you make noise at night, your roommate will be bothered.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you make noise at night, it will bother your roommate."
+   ],
+   "mn_latin": "Shönö chimee shuugian gargaval öröönii nökhör chini tövögshöönö."
+  },
+  {
+   "mn": "Цэвэрлэгээгээ хийхгүй бол торгууль төлнө.",
+   "en": "If you don't do the cleaning, you will pay a fine.",
+   "alt_mn": [
+    "Цэвэрлэгээгээ хийхгүй бол торгуулна."
+   ],
+   "alt_en": [
+    "If you don't clean, you'll pay a fine."
+   ],
+   "mn_latin": "Tseverlegeegee khiikhgüi bol torguuli tölnö."
+  },
+  {
+   "mn": "Зочин ирвэл вахтад бүртгүүлээрэй.",
+   "en": "If you have a guest, register at the front desk.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you have a visitor, sign in at the front desk."
+   ],
+   "mn_latin": "Zochin irvel vakhtad bürtgüüleerei."
+  },
+  {
+   "mn": "Надад хичээл байвал чимээгүй байгаарай.",
+   "en": "If I have class, please be quiet.",
+   "alt_mn": [],
+   "alt_en": [
+    "If I have class, be quiet, please."
+   ],
+   "mn_latin": "Nadad khicheel baival chimeegüi baigaarai."
+  },
+  {
+   "mn": "Хоолоо задгай үлдээвэл өрөөнд муухай үнэр гарна.",
+   "en": "If you leave food out, the room will smell bad.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you leave food out, the room will smell."
+   ],
+   "mn_latin": "Khooloo zadgai üldeevel öröönd muukhai üner garna."
+  },
+  {
+   "mn": "Миний өрөөний нөхөр оройтож ирвэл дуугүй орж ирдэг.",
+   "en": "If my roommate comes home late, he comes in quietly.",
+   "alt_mn": [],
+   "alt_en": [
+    "When my roommate comes home late, he enters quietly."
+   ],
+   "mn_latin": "Minii öröönii nökhör oroitoj irvel duugüi orj irdeg."
+  },
+  {
+   "mn": "Аяга тавгаа угаавал өрөө цэвэрхэн байна.",
+   "en": "If you wash your dishes, the room stays clean.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you wash the dishes, the room will be clean."
+   ],
+   "mn_latin": "Ayaga tavgaa ugaaval öröö tseverkhen baina."
+  },
+  {
+   "mn": "Шөнийн арван нэгээс хойш хөгжим тоглож болохгүй.",
+   "en": "You may not play music after eleven at night.",
+   "alt_mn": [],
+   "alt_en": [
+    "Don't play music after 11 p.m."
+   ],
+   "mn_latin": "Shöniin arvan negees khoish khögjim togloj bolokhgüi."
+  },
+  {
+   "mn": "Юм хэрэгтэй бол надаас асуугаарай.",
+   "en": "If you need anything, ask me.",
+   "alt_mn": [
+    "Ямар нэг юм хэрэгтэй бол надаас асуугаарай."
+   ],
+   "alt_en": [
+    "If you need something, just ask me."
+   ],
+   "mn_latin": "Yum kheregtei bol nadaas asuugaarai."
+  },
+  {
+   "mn": "Байрны дүрмийг зөрчвөл танд анхааруулга өгнө.",
+   "en": "If you break the dorm rules, you will get a warning.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you break the rules, they'll give you a warning."
+   ],
+   "mn_latin": "Bairny dürmiig zörchvöl tand ankhaaruulga ögnö."
+  }
+ ],
+ "grammar": {
+  "title_en": "If-clauses with requests and warnings: -вал/-вэл",
+  "title_mn": "Нөхцөл + хүсэлт, сануулга (-вал/-вэл)",
+  "explain_en": "In Mongolian, add -вал/-вэл (by vowel harmony: -вал/-вол, -вэл/-вөл) to the verb stem for 'if'. Negative: -хгүй бол. The main clause can be an imperative (-аарай/-ээрэй, polite request) or a future/warning with -на: 'Гарвал хаалгаа түгжээрэй' (If you go out, lock the door); 'Дүрэм зөрчвөл торгуулна' (If you break the rules, you'll be fined). English uses 'If' + present simple, then an imperative or 'will'. Condition first, result second in both languages.",
+  "explain_mn": "Англи хэлэнд нөхцөлт өгүүлбэр 'If' + одоо цагийн энгийн хэлбэрээр эхэлж, дараа нь тушаал эсвэл 'will' гэсэн үр дүн ирнэ. Жишээ: If you go out, lock the door. If you break the rules, you will get a warning. 'If'-ийн хэсэгт 'will' хэрэглэхгүй: ✗ If you will go out. If-хэсэг эхэнд байвал таслалаар тусгаарлана. Тушаал нь 'to'-гүй үндсэн хэлбэртэй, үгүйсгэхдээ Don't + үйл үг хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Гарвал хаалгаа түгжээрэй.",
+    "en": "If you go out, lock the door.",
+    "mn_latin": "Garval khaalgaa tügjeerei."
+   },
+   {
+    "mn": "Чимээ шуугиан гаргавал өрөөний нөхөр чинь гомдоно.",
+    "en": "If you make noise, your roommate will be upset.",
+    "mn_latin": "Chimee shuugian gargaval öröönii nökhör chini gomdono."
+   },
+   {
+    "mn": "Түлхүүрээ алдвал надад хэлээрэй.",
+    "en": "If you lose your key, tell me.",
+    "mn_latin": "Tülkhüüree aldval nadad kheleerei."
+   },
+   {
+    "mn": "Цэвэрлэгээ хийхгүй бол торгууль төлнө.",
+    "en": "If you don't clean, you will pay a fine.",
+    "mn_latin": "Tseverlegee khiikhgüi bol torguuli tölnö."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гар___ хаалгаа түгжээрэй.",
+   "answer": "вал",
+   "options": [
+    "вал",
+    "вэл",
+    "сан",
+    "лаа"
+   ],
+   "translation": "If you go out, lock the door.",
+   "explain_en": "Гарах has the back vowel а, so the 'if' ending is -вал.",
+   "explain_mn": "«Гар» нь а эгшигтэй тул -вал нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Шөнө чимээ шуугиан гарга___ өрөөний нөхөр чинь гомдоно.",
+   "answer": "вал",
+   "options": [
+    "вал",
+    "вэл",
+    "аад",
+    "даг"
+   ],
+   "translation": "If you make noise at night, your roommate will be upset.",
+   "explain_en": "The stem «гарга» has back vowels, so the 'if' ending is -вал: гаргавал.",
+   "explain_mn": "«Гарга» нь а эгшигтэй тул -вал нөхцөл залгаж «гаргавал» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Цэвэрлэгээ хийхгүй ___ торгууль төлнө.",
+   "answer": "бол",
+   "options": [
+    "бол",
+    "вал",
+    "байна",
+    "гэж"
+   ],
+   "translation": "If you don't do the cleaning, you will pay a fine.",
+   "explain_en": "Negative condition: verb + -хгүй бол.",
+   "explain_mn": "Үгүйсгэсэн нөхцөл нь «-хгүй бол» хэлбэртэй."
+  },
+  {
+   "lang": "en",
+   "text": "If you ___ out, lock the door.",
+   "answer": "go",
+   "options": [
+    "go",
+    "will go",
+    "went",
+    "going"
+   ],
+   "translation": "Гарвал хаалгаа түгжээрэй.",
+   "explain_en": "After 'If', use the present simple, not 'will'.",
+   "explain_mn": "'If'-ийн дараа одоо цагийн энгийн хэлбэр (go) хэрэглэнэ, 'will' биш."
+  },
+  {
+   "lang": "en",
+   "text": "If you break the rules, you ___ a warning.",
+   "answer": "will get",
+   "options": [
+    "will get",
+    "get will",
+    "got",
+    "getting"
+   ],
+   "translation": "Дүрэм зөрчвөл анхааруулга авна.",
+   "explain_en": "The result of a likely condition uses 'will' + base verb.",
+   "explain_mn": "Үр дүнг 'will' + үндсэн хэлбэрээр илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "If you forget your key, ___ the front desk.",
+   "answer": "ask",
+   "options": [
+    "ask",
+    "asking",
+    "to ask",
+    "asks"
+   ],
+   "translation": "Түлхүүрээ мартвал вахтаас асуугаарай.",
+   "explain_en": "An imperative uses the base verb with no 'to' and no subject.",
+   "explain_mn": "Тушаалд 'to'-гүй үндсэн хэлбэр хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн уу, би чиний шинэ өрөөний нөхөр Сараа.",
+   "en": "Hi, I'm Saraa, your new roommate.",
+   "mn_latin": "Sain uu, bi chinii shine öröönii nökhör Saraa."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Сайн уу! Би Анна. Байрны дүрмийг надад хэлж өгөөч.",
+   "en": "Hi! I'm Anna. Please tell me the dorm rules.",
+   "mn_latin": "Sain uu! Bi Anna. Bairny dürmiig nadad khelj ögööch."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Гарвал хаалгаа заавал түгжээрэй. Түлхүүрээ мартвал вахтаас аваарай.",
+   "en": "If you go out, be sure to lock the door. If you forget your key, get one from the front desk.",
+   "mn_latin": "Garval khaalgaa zaaval tügjeerei. Tülkhüüree martval vakhtaas avaarai."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Ойлголоо. Чимээ шуугианы тухайд яах вэ?",
+   "en": "Got it. What about noise?",
+   "mn_latin": "Oilgoloo. Chimee shuugiany tukhaid yaakh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Арван нэгээс хойш чимээ гаргавал вахтын эмэгтэй чамд анхааруулна.",
+   "en": "If you make noise after eleven, the woman at the front desk will warn you.",
+   "mn_latin": "Arvan negees khoish chimee gargaval vakhtyn emegtei chamd ankhaaruulna."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэгвэл би чихэвчээр хөгжим сонсоно. Цэвэрлэгээг яаж хийдэг вэ?",
+   "en": "Then I'll listen to music with headphones. How does cleaning work?",
+   "mn_latin": "Tegvel bi chikhevcheer khögjim sonsono. Tseverlegeeg yaaj khiideg ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Долоо хоногт нэг удаа ээлжлэн хийнэ. Хийхгүй бол торгууль төлнө.",
+   "en": "We take turns once a week. If you don't do it, you pay a fine.",
+   "mn_latin": "Doloo khonogt neg udaa eeljlen khiine. Khiikhgüi bol torguuli tölnö."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "За, би бүгдийг нь санаж байя.",
+   "en": "Fine, I'll remember it all.",
+   "mn_latin": "Za, bi bügdiig ni sanaj baiya."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian university students live in dorms (байр) in Ulaanbaatar, often sharing a room with two to four people. Dorms usually have a front desk (вахт) where a duty person keeps keys and registers guests, and quiet hours at night. Students from the countryside often bring home food like dried curds or meat to share with roommates.",
+  "mn": "Монголын олон оюутан Улаанбаатарт байранд амьдардаг бөгөөд нэг өрөөнд ихэвчлэн хоёроос дөрвөн хүн хамт амьдардаг. Байрууд ихэвчлэн вахттай байдаг бөгөөд жижүүр түлхүүр хадгалж, зочдыг бүртгэнэ. Шөнө чимээгүй байх цагтай. Хөдөөнөөс ирсэн оюутнууд аарул, борц зэрэг гэрийн хүнсээ өрөөний нөхдүүдтэйгээ хуваалцдаг.",
+  "_": ""
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 33,
+  "notes": "Good concept and mostly accurate grammar, but several unnatural Mongolian words (өрөөний хамаатан, дарамтална), a typo, a broken fill-blank, and some translation mismatches."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Fixed the roommate term, unnatural phrases, the чи/та mismatch, a duplicate alternative, and the en/mn culture-note mismatch.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'аман тушаал' means oral order; the grammatical term is захирах хэлбэр"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "хамаатан means relative, not roommate"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "'зочин авах' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "alternative duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "'зочин авах' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "'орой оройтож' is redundant"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "reflexive -аа here wrongly refers back to the speaker"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "register: the dialogue uses чи, so танд should be чамд"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'Цэвэрлэгээ яадаг вэ' is unnatural"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'бүрт' did not match 'usually' in en; дried meat is борц"
+   }
+  ]
+ }
+}

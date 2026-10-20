@@ -1,0 +1,428 @@
+{
+ "intro_en": "You will chat with a friend about the job you have, the job you wanted as a child, and your dream job. You will combine -ч nouns, ажилладаг, and дуртай/хүсч байна, and use I want to be a/an ... and I work as a ... in English.",
+ "intro_mn": "Та найзтайгаа одоо хийж буй ажил, багадаа хүсч байсан ажил, мөрөөдлийн ажлынхаа тухай ярилцаж сурна. -ч төгсгөлтэй нэр үг, ажилладаг, дуртай/хүсч байна гэсэн хэлбэрүүдийг хослуулж, англиар I want to be a/an ... болон I work as a ... гэж хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "мөрөөдөл",
+   "en": "dream",
+   "pos": "noun",
+   "example_mn": "Миний мөрөөдөл том.",
+   "example_en": "My dream is big.",
+   "mn_latin": "möröödöl"
+  },
+  {
+   "mn": "эмч",
+   "en": "doctor",
+   "pos": "noun",
+   "example_mn": "Тэр эмч болохыг хүсч байна.",
+   "example_en": "She wants to be a doctor.",
+   "mn_latin": "emch"
+  },
+  {
+   "mn": "багш",
+   "en": "teacher",
+   "pos": "noun",
+   "example_mn": "Миний ээж багш.",
+   "example_en": "My mother is a teacher.",
+   "mn_latin": "bagsh"
+  },
+  {
+   "mn": "жолооч",
+   "en": "driver",
+   "pos": "noun",
+   "example_mn": "Аав маань жолооч.",
+   "example_en": "My father is a driver.",
+   "mn_latin": "jolooch"
+  },
+  {
+   "mn": "нисгэгч",
+   "en": "pilot",
+   "pos": "noun",
+   "example_mn": "Би нисгэгч болохыг хүсч байна.",
+   "example_en": "I want to become a pilot.",
+   "mn_latin": "nisgegch"
+  },
+  {
+   "mn": "эмнэлэг",
+   "en": "hospital",
+   "pos": "noun",
+   "example_mn": "Тэр эмнэлэгт ажилладаг.",
+   "example_en": "She works at a hospital.",
+   "mn_latin": "emneleg"
+  },
+  {
+   "mn": "ажилладаг",
+   "en": "works (regularly)",
+   "pos": "verb",
+   "example_mn": "Би банкинд ажилладаг.",
+   "example_en": "I work at a bank.",
+   "mn_latin": "ajilladag"
+  },
+  {
+   "mn": "дуртай",
+   "en": "fond of, like",
+   "pos": "adjective",
+   "example_mn": "Би хүүхэдтэй ажиллах дуртай.",
+   "example_en": "I like working with children.",
+   "mn_latin": "durtai"
+  },
+  {
+   "mn": "хүсэх",
+   "en": "to want",
+   "pos": "verb",
+   "example_mn": "Би зураач болохыг хүсч байна.",
+   "example_en": "I want to become an artist.",
+   "mn_latin": "khüsekh"
+  },
+  {
+   "mn": "болох",
+   "en": "to become",
+   "pos": "verb",
+   "example_mn": "Чи хэн болмоор байна?",
+   "example_en": "What would you like to be?",
+   "mn_latin": "bolokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Таны мөрөөдлийн ажил юу вэ?",
+   "en": "What is your dream job?",
+   "alt_mn": [],
+   "alt_en": [
+    "What's your dream job?"
+   ],
+   "mn_latin": "Tany möröödliin ajil yuu ve?"
+  },
+  {
+   "mn": "Би эмч болохыг хүсч байна.",
+   "en": "I want to be a doctor.",
+   "alt_mn": [
+    "Би эмч болмоор байна."
+   ],
+   "alt_en": [
+    "I would like to be a doctor."
+   ],
+   "mn_latin": "Bi emch bolokhyg khüsch baina."
+  },
+  {
+   "mn": "Би багшаар ажилладаг.",
+   "en": "I work as a teacher.",
+   "alt_mn": [
+    "Би багш хийдэг."
+   ],
+   "alt_en": [
+    "I'm a teacher."
+   ],
+   "mn_latin": "Bi bagshaar ajilladag."
+  },
+  {
+   "mn": "Багадаа би нисгэгч болохыг хүсдэг байсан.",
+   "en": "When I was little, I wanted to be a pilot.",
+   "alt_mn": [
+    "Багадаа би нисгэгч болмоор байсан."
+   ],
+   "alt_en": [
+    "As a child, I wanted to be a pilot."
+   ],
+   "mn_latin": "Bagadaa bi nisgegch bolokhyg khüsdeg baisan."
+  },
+  {
+   "mn": "Чи одоо хаана ажилладаг вэ?",
+   "en": "Where do you work now?",
+   "alt_mn": [
+    "Та одоо хаана ажилладаг вэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Chi odoo khaana ajilladag ve?"
+  },
+  {
+   "mn": "Би эмнэлэгт ажилладаг.",
+   "en": "I work at a hospital.",
+   "alt_mn": [],
+   "alt_en": [
+    "I work in a hospital."
+   ],
+   "mn_latin": "Bi emnelegt ajilladag."
+  },
+  {
+   "mn": "Миний найз жолоочоор ажилладаг.",
+   "en": "My friend works as a driver.",
+   "alt_mn": [],
+   "alt_en": [
+    "My friend is a driver."
+   ],
+   "mn_latin": "Minii naiz joloochoor ajilladag."
+  },
+  {
+   "mn": "Би хүмүүстэй ажиллах дуртай.",
+   "en": "I like working with people.",
+   "alt_mn": [],
+   "alt_en": [
+    "I enjoy working with people."
+   ],
+   "mn_latin": "Bi khümüüstei ajillakh durtai."
+  },
+  {
+   "mn": "Тэр зураач болохыг хүсч байна.",
+   "en": "She wants to be an artist.",
+   "alt_mn": [
+    "Тэр зураач болмоор байна."
+   ],
+   "alt_en": [
+    "She wants to become an artist."
+   ],
+   "mn_latin": "Ter zuraach bolokhyg khüsch baina."
+  },
+  {
+   "mn": "Чи ирээдүйд хэн болохыг хүсч байна вэ?",
+   "en": "What do you want to be in the future?",
+   "alt_mn": [
+    "Чи ирээдүйд ямар ажил хийхийг хүсч байна вэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Chi ireedüid khen bolokhyg khüsch baina ve?"
+  },
+  {
+   "mn": "Миний дүү хоолны газарт тогооч хийдэг.",
+   "en": "My younger brother works as a cook at a restaurant.",
+   "alt_mn": [
+    "Миний дүү хоолны газарт тогоочоор ажилладаг."
+   ],
+   "alt_en": [
+    "My younger brother is a cook at a restaurant."
+   ],
+   "mn_latin": "Minii düü khoolny gazart togooch khiideg."
+  },
+  {
+   "mn": "Би одоо оффист ажилладаг ч мөрөөдлийн ажил маань өөр.",
+   "en": "I work in an office now, but my dream job is different.",
+   "alt_mn": [],
+   "alt_en": [
+    "I work at an office now, but my dream job is something else."
+   ],
+   "mn_latin": "Bi odoo offist ajilladag ch möröödliin ajil maani öör."
+  }
+ ],
+ "grammar": {
+  "title_en": "Saying your job and your dream job",
+  "title_mn": "Ажил болон мөрөөдлийн ажлаа хэлэх нь",
+  "explain_en": "Many Mongolian job names end in -ч: жолооч (driver), зураач (artist), тогооч (cook); багш (teacher) is an exception. To say what you do, use the instrumental -аар/-ээр/-оор/-өөр: Би багшаар ажилладаг (I work as a teacher). For the place, use the dative -д/-т: Би эмнэлэгт ажилладаг. To say what you want to be, use болохыг хүсч байна or болмоор байна: Би эмч болмоор байна. Дуртай means 'fond of, like': Би хүүхэдтэй ажиллах дуртай. For a past wish use хүсдэг байсан.",
+  "explain_mn": "Англиар ажлаа хэлэхдээ I work as a ... гэнэ: I work as a teacher. Ажлын газрыг at/in-ээр хэлнэ: I work at a hospital. Ирээдүйн хүслээ I want to be a ... гэж хэлнэ. Үгийн эхний авиа эгшиг бол an хэрэглэнэ: I want to be an artist, харин a doctor. Дуртай гэдгийг like/enjoy + -ing гэж хэлнэ: I like working with children. Багадаа хүссэн зүйлээ I wanted to be ... гэж өнгөрсөн цагаар хэлнэ.",
+  "examples": [
+   {
+    "mn": "Би жолоочоор ажилладаг.",
+    "en": "I work as a driver.",
+    "mn_latin": "Bi joloochoor ajilladag."
+   },
+   {
+    "mn": "Би эмнэлэгт ажилладаг.",
+    "en": "I work at a hospital.",
+    "mn_latin": "Bi emnelegt ajilladag."
+   },
+   {
+    "mn": "Би зураач болмоор байна.",
+    "en": "I want to be an artist.",
+    "mn_latin": "Bi zuraach bolmoor baina."
+   },
+   {
+    "mn": "Би хүүхэдтэй ажиллах дуртай.",
+    "en": "I like working with children.",
+    "mn_latin": "Bi khüükhedtei ajillakh durtai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би багш___ ажилладаг.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "д",
+    "тай",
+    "ыг"
+   ],
+   "translation": "I work as a teacher.",
+   "explain_en": "To say 'as a (job)' we add the instrumental ending. After багш it is -аар: багшаар.",
+   "explain_mn": "«Ажил хийдэг» гэж хэлэхдээ мэргэжлийн нэрэнд -аар/-ээр/-оор/-өөр нөхцөл залгана: багшаар ажилладаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр эмнэлэг___ ажилладаг.",
+   "answer": "т",
+   "options": [
+    "т",
+    "д",
+    "ээр",
+    "тэй"
+   ],
+   "translation": "She works at a hospital.",
+   "explain_en": "The place of work takes the dative-locative ending. After г we use -т: эмнэлэгт.",
+   "explain_mn": "Ажлын газар өгөх орших тийн ялгалтай орно. «г»-ийн дараа -т залгана: эмнэлэгт."
+  },
+  {
+   "lang": "mn",
+   "text": "Би нисгэгч болмоор ___.",
+   "answer": "байна",
+   "options": [
+    "байна",
+    "байсан",
+    "биш",
+    "уу"
+   ],
+   "translation": "I would like to become a pilot.",
+   "explain_en": "The pattern verb stem + -маар/-мээр/-моор/-мөөр + байна expresses a wish: болмоор байна = 'I would like to become'.",
+   "explain_mn": "«-маар/-мээр/-моор/-мөөр байна» бүтэц хүслийг илэрхийлнэ: болмоор байна."
+  },
+  {
+   "lang": "en",
+   "text": "I want to be ___ artist.",
+   "answer": "an",
+   "options": [
+    "an",
+    "a",
+    "the",
+    "to"
+   ],
+   "translation": "Би зураач болмоор байна.",
+   "explain_en": "Use 'an' before a vowel sound: an artist.",
+   "explain_mn": "Эгшиг авиагаар эхэлсэн үгийн өмнө «an» хэрэглэнэ: an artist."
+  },
+  {
+   "lang": "en",
+   "text": "I work ___ a driver.",
+   "answer": "as",
+   "options": [
+    "as",
+    "at",
+    "in",
+    "to"
+   ],
+   "translation": "Би жолоочоор ажилладаг.",
+   "explain_en": "'Work as' tells your job. 'Work at' tells the place.",
+   "explain_mn": "Ажлын төрлийг «work as» гэж хэлнэ. Газрыг нь «work at» гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She works ___ a hospital.",
+   "answer": "at",
+   "options": [
+    "at",
+    "as",
+    "for",
+    "is"
+   ],
+   "translation": "Тэр эмнэлэгт ажилладаг.",
+   "explain_en": "Use 'at' for a workplace: at a hospital. She also takes -s: works.",
+   "explain_mn": "Ажлын газрыг «at» гэж хэлнэ. «She» гэсэн үед үйл үгэнд -s залгана: works."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Сайн уу, Том! Чи одоо хаана ажилладаг вэ?",
+   "en": "Hi, Tom! Where do you work now?",
+   "mn_latin": "Sain uu, Tom! Chi odoo khaana ajilladag ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайн, Ану. Би банкинд ажилладаг.",
+   "en": "Hi, Anu. I work at a bank.",
+   "mn_latin": "Sain, Anu. Bi bankind ajilladag."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Чи багадаа хэн болохыг хүсдэг байсан бэ?",
+   "en": "What did you want to be when you were little?",
+   "mn_latin": "Chi bagadaa khen bolokhyg khüsdeg baisan be?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Би нисгэгч болохыг хүсдэг байсан. Харин одоо тогооч болмоор байна.",
+   "en": "I wanted to be a pilot. But now I want to be a cook.",
+   "mn_latin": "Bi nisgegch bolokhyg khüsdeg baisan. Kharin odoo togooch bolmoor baina."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Үнэхээр үү? Чи хоол хийх дуртай юу?",
+   "en": "Really? Do you like cooking?",
+   "mn_latin": "Ünekheer üü? Chi khool khiikh durtai yuu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм, маш дуртай. Миний мөрөөдөл бол өөрийн хоолны газартай болох явдал.",
+   "en": "Yes, very much. My dream is to have my own restaurant.",
+   "mn_latin": "Tiim, mash durtai. Minii möröödöl bol ööriin khoolny gazartai bolokh yavdal."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Сайхан мөрөөдөл байна! Би эмч болмоор байна.",
+   "en": "That's a nice dream! I want to be a doctor.",
+   "mn_latin": "Saikhan möröödöl baina! Bi emch bolmoor baina."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Чи чадна! Одоо чи юу хийдэг вэ?",
+   "en": "You can do it! What do you do now?",
+   "mn_latin": "Chi chadna! Odoo chi yuu khiideg ve?"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, many children dream of becoming doctors, teachers, pilots, or wrestlers, and Naadam champions are national heroes. Today young people in Ulaanbaatar also dream of working in IT, tourism, or abroad. Asking \"What did you want to be as a child?\" is a friendly way to start a conversation.",
+  "mn": "Монголд олон хүүхэд эмч, багш, нисгэгч, бөх болохыг мөрөөддөг бөгөөд Наадмын аваргууд үндэсний баатрууд болдог. Одоо Улаанбаатарын залуус мэдээллийн технологи, жуулчлал, гадаадад ажиллахыг ч мөрөөддөг. «Багадаа хэн болохыг хүсдэг байсан бэ?» гэж асуух нь найрсаг яриа эхлэх сайхан арга юм."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 21,
+  "notes": "Mostly understandable, but the grammar explanations contain errors (-маар/-моор), a faulty option ('for to'), and an unnatural 'my dream job' question; several pairs needed alignment."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 7,
+  "notes": "Fixed wrong distractor forms, suffix lists, spelling, and an unnatural English alternative.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "хүсдэг is habitual; 'wants (now)' is хүсч байна"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "'Who do you want to become' is unnatural English for a job question"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "distractors used wrong vowel harmony (ийг, тай) after эмнэлэг"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "standard grammar term is өгөх орших тийн ялгал"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "suffix list repeated -моор and omitted -мээр"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "spelling: хүслийг, not хүсэлийг"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "the rule depends on the vowel sound, not the letter; now matches explain_en"
+   }
+  ]
+ }
+}

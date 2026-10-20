@@ -1,0 +1,402 @@
+{
+ "intro_en": "Follow an architect and a blind tester as they review a new building and its website. You will learn accessibility vocabulary and how to contrast what is possible (-х боломжтой) with what is difficult (-хад хүндрэлтэй) in an evaluation.",
+ "intro_mn": "Архитектор болон хараагүй туршигч шинэ барилга, түүний вэбсайтыг хамтдаа үнэлэх явцыг дагана. Хүртээмжтэй холбоотой үгс сурч, англи хэлэнд \"What if...?\", \"Suppose...\" хэллэгээр санал болон эсрэг байр суурь илэрхийлж сурна.",
+ "vocab": [
+  {
+   "mn": "хүртээмж",
+   "en": "accessibility",
+   "pos": "noun",
+   "example_mn": "Шинэ номын сангийн хүртээмж мэдэгдэхүйц сайжирсан.",
+   "example_en": "The new library's accessibility has improved noticeably.",
+   "mn_latin": "khürteemj"
+  },
+  {
+   "mn": "дуут дохио",
+   "en": "audible signal",
+   "pos": "noun",
+   "example_mn": "Гарцын гэрлэн дохио дуут дохиотой болжээ.",
+   "example_en": "The traffic light at the crosswalk now has an audible signal.",
+   "mn_latin": "duut dokhio"
+  },
+  {
+   "mn": "товгор зам",
+   "en": "tactile paving",
+   "pos": "noun",
+   "example_mn": "Товгор зам автобусны буудлаас орц хүртэл үргэлжилдэг.",
+   "example_en": "The tactile paving runs from the bus stop to the entrance.",
+   "mn_latin": "tovgor zam"
+  },
+  {
+   "mn": "дэлгэц уншигч",
+   "en": "screen reader",
+   "pos": "noun",
+   "example_mn": "Дэлгэц уншигч товчлуур бүрийн нэрийг чангаар уншдаг.",
+   "example_en": "The screen reader reads the name of each button aloud.",
+   "mn_latin": "delgets unshigch"
+  },
+  {
+   "mn": "брайль бичиг",
+   "en": "Braille",
+   "pos": "noun",
+   "example_mn": "Цахилгаан шатны товчлуурууд дээр брайль бичиг байна.",
+   "example_en": "There is Braille on the elevator buttons.",
+   "mn_latin": "braili bichig"
+  },
+  {
+   "mn": "налуу зам",
+   "en": "ramp",
+   "pos": "noun",
+   "example_mn": "Хажуугийн хаалганы налуу зам хэт эгц байна.",
+   "example_en": "The ramp at the side door is too steep.",
+   "mn_latin": "naluu zam"
+  },
+  {
+   "mn": "туршигч",
+   "en": "tester",
+   "pos": "noun",
+   "example_mn": "Туршигч вэбсайтыг гурван өдрийн турш шалгасан.",
+   "example_en": "The tester checked the website over three days.",
+   "mn_latin": "turshigch"
+  },
+  {
+   "mn": "үнэлгээ",
+   "en": "evaluation, assessment",
+   "pos": "noun",
+   "example_mn": "Бид эцсийн үнэлгээгээ маргааш хүргүүлнэ.",
+   "example_en": "We will submit our final evaluation tomorrow.",
+   "mn_latin": "ünelgee"
+  },
+  {
+   "mn": "тохируулах",
+   "en": "to adjust",
+   "pos": "verb",
+   "example_mn": "Өнгөний ялгарлыг дахин тохируулах хэрэгтэй.",
+   "example_en": "We need to adjust the color contrast again.",
+   "mn_latin": "tokhiruulakh"
+  },
+  {
+   "mn": "хүндрэлтэй",
+   "en": "difficult, problematic",
+   "pos": "adjective",
+   "example_mn": "Энэ маягтыг бөглөхөд хүндрэлтэй.",
+   "example_en": "This form is difficult to fill out.",
+   "mn_latin": "khündreltei"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ барилгад тэргэнцэртэй хүн бие даан орох боломжтой.",
+   "en": "A wheelchair user can enter this building independently.",
+   "alt_mn": [
+    "Тэргэнцэртэй хүн энэ барилгад бие даан орох боломжтой."
+   ],
+   "alt_en": [
+    "Wheelchair users can enter this building on their own.",
+    "It is possible for a wheelchair user to enter this building independently."
+   ],
+   "mn_latin": "Ene barilgad tergentsertei khün biye daan orokh bolomjtoi."
+  },
+  {
+   "mn": "Харин хоёрдугаар давхарт гарахад хүндрэлтэй, учир нь цахилгаан шат хэт явцуу.",
+   "en": "But getting to the second floor is difficult, because the elevator is too narrow.",
+   "alt_mn": [
+    "Харин цахилгаан шат хэт явцуу тул хоёрдугаар давхарт гарахад хүндрэлтэй."
+   ],
+   "alt_en": [
+    "However, it is difficult to reach the second floor because the elevator is too narrow."
+   ],
+   "mn_latin": "Kharin khoyordugaar davkhart garakhad khündreltei, uchir ni tsakhilgaan shat khet yavtsuu."
+  },
+  {
+   "mn": "Товгор зам автобусны буудлаас орц хүртэл тасралтгүй үргэлжлэх ёстой.",
+   "en": "The tactile paving should run continuously from the bus stop to the entrance.",
+   "alt_mn": [],
+   "alt_en": [
+    "The tactile paving must run without a break from the bus stop to the entrance."
+   ],
+   "mn_latin": "Tovgor zam avtobusny buudlaas orts khürtel tasraltgüi ürgeljlekh yostoi."
+  },
+  {
+   "mn": "Дэлгэц уншигчаар бүртгэлийн маягтыг бөглөхөд хүндрэлтэй байлаа.",
+   "en": "Filling out the registration form with a screen reader was difficult.",
+   "alt_mn": [
+    "Бүртгэлийн маягтыг дэлгэц уншигчаар бөглөхөд хүндрэлтэй байсан."
+   ],
+   "alt_en": [
+    "It was difficult to fill out the registration form with a screen reader."
+   ],
+   "mn_latin": "Delgets unshigchaar bürtgeliin mayagtyg böglökhöd khündreltei bailaa."
+  },
+  {
+   "mn": "Товчлуур бүрт тодорхой нэр өгвөл ямар вэ?",
+   "en": "What if we gave every button a clear label?",
+   "alt_mn": [
+    "Хэрэв бид товчлуур бүрт тодорхой нэр өгвөл яасан юм бэ?"
+   ],
+   "alt_en": [
+    "Suppose we gave each button a clear label?",
+    "What if we give every button a clear label?"
+   ],
+   "mn_latin": "Tovchluur bürt todorkhoi ner ögvöl yamar ve?"
+  },
+  {
+   "mn": "Гарц дээр дуут дохио суурилуулбал хараагүй хүмүүст зам гарахад илүү аюулгүй болно.",
+   "en": "If we install an audible signal at the crosswalk, it will be safer for blind people to cross the street.",
+   "alt_mn": [],
+   "alt_en": [
+    "Installing an audible signal at the crosswalk would make crossing safer for blind people."
+   ],
+   "mn_latin": "Garts deer duut dokhio suuriluulbal kharaagüi khümüüst zam garakhad ilüü ayuulgüi bolno."
+  },
+  {
+   "mn": "Брайль бичигтэй тэмдэглэгээг хаалга бүрийн хажууд байрлуулвал ямар вэ?",
+   "en": "Suppose we placed Braille signs next to every door?",
+   "alt_mn": [
+    "Хаалга бүрийн хажууд брайль бичигтэй тэмдэглэгээ байрлуулвал яасан юм бэ?"
+   ],
+   "alt_en": [
+    "What if we put Braille signs next to every door?"
+   ],
+   "mn_latin": "Braili bichigtei temdeglegeeg khaalga büriin khajuud bairluulval yamar ve?"
+  },
+  {
+   "mn": "Энэ сайтыг зөвхөн гарын товчлуураар удирдах боломжтой юу?",
+   "en": "Is it possible to navigate this site using only the keyboard?",
+   "alt_mn": [],
+   "alt_en": [
+    "Can this site be navigated with the keyboard alone?"
+   ],
+   "mn_latin": "Ene saityg zövkhön garyn tovchluuraar udirdakh bolomjtoi yuu?"
+  },
+  {
+   "mn": "Хүртээмжийг төслийн эхнээс нь тооцох нь хожим засахаас хамаагүй хямд.",
+   "en": "Considering accessibility from the start of a project is much cheaper than fixing it later.",
+   "alt_mn": [],
+   "alt_en": [
+    "Planning for accessibility from the beginning of a project costs far less than fixing it later."
+   ],
+   "mn_latin": "Khürteemjiig tösliin ekhnees ni tootsokh ni khojim zasakhaas khamaagüi khyamd."
+  },
+  {
+   "mn": "Өнгөний ялгарал сул тул текстийг уншихад хүндрэлтэй.",
+   "en": "The color contrast is weak, so the text is hard to read.",
+   "alt_mn": [
+    "Өнгөний ялгарал сул учраас текстийг уншихад хүндрэлтэй."
+   ],
+   "alt_en": [
+    "Because the color contrast is weak, the text is difficult to read."
+   ],
+   "mn_latin": "Öngönii yalgaral sul tul tyekstiig unshikhad khündreltei."
+  },
+  {
+   "mn": "Цахилгаан тасарвал яах вэ? Дуут дохио ажиллахаа болих уу?",
+   "en": "What if the power goes out? Will the audible signal stop working?",
+   "alt_mn": [],
+   "alt_en": [
+    "Suppose the power goes out — will the audible signal stop working?"
+   ],
+   "mn_latin": "Tsakhilgaan tasarval yaakh ve? Duut dokhio ajillakhaa bolikh uu?"
+  },
+  {
+   "mn": "Хараагүй туршигчийн үнэлгээ бидний анзаараагүй олон дутагдлыг илрүүлсэн.",
+   "en": "The blind tester's evaluation revealed many flaws we hadn't noticed.",
+   "alt_mn": [],
+   "alt_en": [
+    "The blind tester's assessment uncovered many shortcomings we had missed."
+   ],
+   "mn_latin": "Kharaagüi turshigchiin ünelgee bidnii anzaaraagüi olon dutagdlyg ilrüülsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Possible vs. difficult: -х боломжтой and -хад хүндрэлтэй",
+  "title_mn": "Санал ба эсрэг байр суурь: What if / Suppose",
+  "explain_en": "In evaluations, Mongolians often contrast what works with what doesn't. To say something CAN be done, use the future participle -х + боломжтой: орох боломжтой 'it is possible to enter'. To say it is HARD to do, put the participle in the dative: -хад/-хэд/-ход/-хөд + хүндрэлтэй: уншихад хүндрэлтэй 'it is hard to read', ороход хүндрэлтэй 'hard to enter', хөдлөхөд хүндрэлтэй 'hard to move'. Choose the vowel by vowel harmony. Note the different endings: боломжтой takes the bare -х, but хүндрэлтэй needs the dative -д ('difficult FOR doing'). A typical review sentence links both with харин or ч: '...ашиглах боломжтой ч ...ойлгоход хүндрэлтэй'.",
+  "explain_mn": "Англи хэлэнд санал гаргахдаа \"What if...?\" эсвэл \"Suppose...\" хэллэгийг их ашигладаг. Зөөлөн, эелдэг санал болгоход ихэвчлэн өнгөрсөн цагийн хэлбэр хэрэглэнэ: \"What if we added a ramp?\" (Налуу зам нэмбэл ямар вэ?), \"Suppose we moved the door?\" Энд өнгөрсөн цаг нь өнгөрсөн үйлийг биш, таамаглалыг илэрхийлж байгаа. Харин санаа зовж буй эрсдэл, эсэргүүцлийг хэлэхдээ одоо цаг хэрэглэх нь элбэг: \"What if the power goes out?\" (Цахилгаан тасарвал яах вэ?). Энэ нь монгол хэлний \"-вал/-бал ямар вэ?\" ба \"-вал яах вэ?\" хэлбэртэй ойролцоо.",
+  "examples": [
+   {
+    "mn": "Тэргэнцэртэй хүн гол хаалгаар орох боломжтой.",
+    "en": "A wheelchair user can enter through the main door.",
+    "mn_latin": "Tergentsertei khün gol khaalgaar orokh bolomjtoi."
+   },
+   {
+    "mn": "Харин хажуугийн хаалгаар ороход хүндрэлтэй.",
+    "en": "But entering through the side door is difficult.",
+    "mn_latin": "Kharin khajuugiin khaalgaar orokhod khündreltei."
+   },
+   {
+    "mn": "Дэлгэц уншигчаар цэсийг ашиглах боломжтой ч зургийн тайлбаргүй тул агуулгыг ойлгоход хүндрэлтэй.",
+    "en": "The menu can be used with a screen reader, but without image descriptions the content is hard to understand.",
+    "mn_latin": "Delgets unshigchaar tsesiig ashiglakh bolomjtoi ch zurgiin tailbargüi tul aguulgyg oilgokhod khündreltei."
+   },
+   {
+    "mn": "Налуу замыг арай зөөлөн болговол ямар вэ?",
+    "en": "What if we made the ramp a little less steep?",
+    "mn_latin": "Naluu zamyg arai zöölön bolgovol yamar ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэргэнцэртэй хүн налуу замаар орох ___.",
+   "answer": "боломжтой",
+   "options": [
+    "боломжтой",
+    "хүндрэлтэй",
+    "хэцүүд",
+    "боломжгүйд"
+   ],
+   "translation": "A wheelchair user can enter via the ramp.",
+   "explain_en": "After the bare participle орох, use боломжтой 'possible'. хүндрэлтэй would need the dative form ороход.",
+   "explain_mn": "\"орох\" гэсэн -х хэлбэрийн дараа \"боломжтой\" ордог. \"Хүндрэлтэй\" бол \"ороход\" гэж -д нөхцөлтэй байх ёстой."
+  },
+  {
+   "lang": "mn",
+   "text": "Үсэг хэт жижиг тул текстийг ___ хүндрэлтэй.",
+   "answer": "уншихад",
+   "options": [
+    "уншихад",
+    "унших",
+    "уншиж",
+    "уншихын"
+   ],
+   "translation": "The letters are too small, so the text is hard to read.",
+   "explain_en": "хүндрэлтэй requires the participle in the dative case: унших + ад = уншихад.",
+   "explain_mn": "\"Хүндрэлтэй\"-н өмнө үйл үг -хад/-хэд/-ход/-хөд хэлбэртэй байна: уншихад."
+  },
+  {
+   "lang": "mn",
+   "text": "Цасан доор товгор замыг ___ хүндрэлтэй.",
+   "answer": "олоход",
+   "options": [
+    "олоход",
+    "олохад",
+    "олохэд",
+    "олох"
+   ],
+   "translation": "It is hard to find the tactile paving under the snow.",
+   "explain_en": "The stem ол- has the vowel о, so vowel harmony gives the dative -ход: олоход.",
+   "explain_mn": "\"Ол-\" үндэс \"о\" эгшигтэй тул эгшиг зохицлын дагуу \"-ход\" залгана: олоход."
+  },
+  {
+   "lang": "en",
+   "text": "What if we ___ a ramp at the side entrance?",
+   "answer": "added",
+   "options": [
+    "added",
+    "would add",
+    "adding",
+    "have added"
+   ],
+   "translation": "Хажуугийн орцонд налуу зам нэмбэл ямар вэ?",
+   "explain_en": "In polite proposals, 'What if' is often followed by the simple past to show a hypothetical idea: What if we added...?",
+   "explain_mn": "Эелдэг санал болгохдоо \"What if\"-ийн дараа өнгөрсөн цагийн хэлбэр (added) хэрэглэдэг. Энэ нь таамаглалыг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ the elevator breaks down — how will wheelchair users leave the building?",
+   "answer": "Suppose",
+   "options": [
+    "Suppose",
+    "What",
+    "Unless",
+    "Despite"
+   ],
+   "translation": "Цахилгаан шат эвдэрвэл яах вэ? Тэргэнцэртэй хүмүүс барилгаас яаж гарах вэ?",
+   "explain_en": "'Suppose' introduces an imagined situation, here a possible problem. 'What' alone would need 'if'.",
+   "explain_mn": "\"Suppose\" нь \"ийм зүйл болсон гэж бодъё\" гэсэн утгатай, эрсдэлийг дурдахад тохиромжтой. \"What\" ганцаараа бол \"if\" дутуу болно."
+  },
+  {
+   "lang": "en",
+   "text": "Suppose we ___ the buttons larger. Would that help?",
+   "answer": "made",
+   "options": [
+    "made",
+    "would make",
+    "making",
+    "to make"
+   ],
+   "translation": "Товчлууруудыг томруулбал ямар вэ? Энэ тус болох уу?",
+   "explain_en": "After 'Suppose' in a proposal, use the simple past (made), and continue with 'would' in the follow-up question.",
+   "explain_mn": "Санал гаргахдаа \"Suppose\"-ийн дараа өнгөрсөн цаг (made) хэрэглэж, дараагийн асуултад \"would\" ашиглана."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Төмөр",
+   "mn": "Сарнай, орцноос эхэлье. Товгор зам танд хэр ойлгомжтой байна?",
+   "en": "Sarnai, let's start at the entrance. How clear is the tactile paving for you?",
+   "mn_latin": "Sarnai, ortsnoos ekheliye. Tovgor zam tand kher oilgomjtoi baina?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Буудлаас орц хүртэл дагаж явах боломжтой. Харин үүдний өмнө зам тасарч байгаа тул хаалгыг олоход хүндрэлтэй.",
+   "en": "I can follow it from the bus stop to the entrance. But the path breaks off in front of the doorway, so finding the door is difficult.",
+   "mn_latin": "Buudlaas orts khürtel dagaj yavakh bolomjtoi. Kharin üüdnii ömnö zam tasarch baigaa tul khaalgyg olokhod khündreltei."
+  },
+  {
+   "speaker": "Төмөр",
+   "mn": "Хаалганы өмнө жижиг дуут дохио нэмбэл яасан юм бэ?",
+   "en": "What if we added a small audible signal in front of the door?",
+   "mn_latin": "Khaalgany ömnö jijig duut dokhio nembel yaasan yum be?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн санаа. Гэхдээ гудамж шуугиантай үед дуу нь сонсогдохгүй бол яах вэ?",
+   "en": "Good idea. But what if it can't be heard when the street is noisy?",
+   "mn_latin": "Sain sanaa. Gekhdee gudamj shuugiantai üyed duu ni sonsogdokhgüi bol yaakh ve?"
+  },
+  {
+   "speaker": "Төмөр",
+   "mn": "Тэгвэл товгор замыг хаалга хүртэл үргэлжлүүлээд, хоёуланг нь хийе.",
+   "en": "Then let's extend the tactile paving all the way to the door and do both.",
+   "mn_latin": "Tegvel tovgor zamyg khaalga khürtel ürgeljlüüleed, khoyoulang ni khiiye."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Одоо вэбсайт руу оръё. Дэлгэц уншигчаар цэсийг ашиглах боломжтой ч зургуудад тайлбар алга.",
+   "en": "Now let's move on to the website. I can use the menu with a screen reader, but the images have no descriptions.",
+   "mn_latin": "Odoo vebsait ruu oryo. Delgets unshigchaar tsesiig ashiglakh bolomjtoi ch zurguudad tailbar alga."
+  },
+  {
+   "speaker": "Төмөр",
+   "mn": "Зураг бүрт богино тайлбар нэмбэл ямар вэ? Дараагийн туршилтад та дахин үнэлгээ өгөх үү?",
+   "en": "Suppose we added a short description to every image? Would you evaluate it again in the next round?",
+   "mn_latin": "Zurag bürt bogino tailbar nembel yamar ve? Daraagiin turshiltad ta dakhin ünelgee ögökh üü?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Мэдээж. Хүртээмжийг хэрэглэгчидтэй хамт шалгах нь хамгийн зөв арга.",
+   "en": "Of course. Testing accessibility together with users is the best approach.",
+   "mn_latin": "Medeej. Khürteemjiig khereglegchidtei khamt shalgakh ni khamgiin zöv arga."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia ratified the UN Convention on the Rights of Persons with Disabilities in 2009 and adopted a national law on the rights of persons with disabilities in 2016, which requires new public buildings to be accessible. In Ulaanbaatar you can see yellow tactile paving on many sidewalks, but it is often interrupted by parked cars, kiosks, or broken tiles. That is why organizations of blind people regularly call for users themselves to test buildings and websites.",
+  "mn": "Монгол Улс 2009 онд НҮБ-ын Хөгжлийн бэрхшээлтэй хүмүүсийн эрхийн тухай конвенцод нэгдэн орж, 2016 онд Хөгжлийн бэрхшээлтэй хүний эрхийн тухай хууль баталсан. Энэ хууль шинэ нийтийн барилгыг хүртээмжтэй байлгахыг шаарддаг. Улаанбаатарын олон явган хүний замд шар өнгийн товгор зам байдаг ч зогсоосон машин, ТҮЦ, эвдэрсэн хавтангаас болж ихэвчлэн тасардаг. Тиймээс хараагүй хүмүүсийн байгууллагууд барилга, вэбсайтыг хэрэглэгчид өөрсдөө туршиж үнэлэх ёстойг байнга сануулдаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A high-quality lesson. The grammar, vowel harmony and translations are accurate, and the culture facts are correct. Only one case ending needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is mostly accurate. The intro and grammar texts deliberately differ by direction (Mongolian grammar for English speakers, English grammar for Mongolian speakers), so they were left unchanged.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "The reflexive possessive хаалгаа ('one's own door') is unnatural here because it is not her door. Use the plain accusative хаалгыг."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "In the original, the grammatical subject of шаарддаг was the country, not the law. The new wording makes the law the subject, matching the English."
+   }
+  ]
+ }
+}

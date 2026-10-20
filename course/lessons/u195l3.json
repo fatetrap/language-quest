@@ -1,0 +1,394 @@
+{
+ "intro_en": "Learn to give and follow countryside directions using steppe landmarks: wells, ovoos, passes, valleys, rivers, and power lines. You'll practice the Mongolian pattern -ыг барин / барьж (\"following X\") and the English relative adverb \"when\" (the time when we passed the well).",
+ "intro_mn": "Худаг, овоо, даваа, хөндий, гол, цахилгааны шугам зэрэг тал нутгийн тэмдгээр зам заах, заасан замаар явахад суралцана. Монгол хэлний -ыг барин / барьж хэлбэр болон англи хэлний \"when\" харьцангуй дайвар үгийг (the time when we passed the well) дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "худаг",
+   "en": "well",
+   "pos": "noun",
+   "example_mn": "Худгийн дэргэд хэдэн тэмээ зогсож байв.",
+   "example_en": "A few camels were standing by the well.",
+   "mn_latin": "khudag"
+  },
+  {
+   "mn": "овоо",
+   "en": "ovoo (stone cairn)",
+   "pos": "noun",
+   "example_mn": "Бид овоог гурван удаа тойрч, чулуу нэмлээ.",
+   "example_en": "We circled the ovoo three times and added a stone.",
+   "mn_latin": "ovoo"
+  },
+  {
+   "mn": "даваа",
+   "en": "mountain pass",
+   "pos": "noun",
+   "example_mn": "Энэ даваа өвөл их хальтиргаатай байдаг.",
+   "example_en": "This pass is very slippery in winter.",
+   "mn_latin": "davaa"
+  },
+  {
+   "mn": "хөндий",
+   "en": "valley",
+   "pos": "noun",
+   "example_mn": "Даваанаас буухад өргөн хөндий харагдана.",
+   "example_en": "When you come down from the pass, you'll see a wide valley.",
+   "mn_latin": "khöndii"
+  },
+  {
+   "mn": "гол",
+   "en": "river",
+   "pos": "noun",
+   "example_mn": "Энэ гол зун их үерлэдэг.",
+   "example_en": "This river often floods in summer.",
+   "mn_latin": "gol"
+  },
+  {
+   "mn": "цахилгааны шугам",
+   "en": "power line",
+   "pos": "noun phrase",
+   "example_mn": "Цахилгааны шугамыг барьж явбал төөрөхгүй.",
+   "example_en": "If you follow the power line, you won't get lost.",
+   "mn_latin": "tsakhilgaany shugam"
+  },
+  {
+   "mn": "ганц мод",
+   "en": "lone tree",
+   "pos": "noun phrase",
+   "example_mn": "Ганц модны хажуугаар зүүн тийш эргээрэй.",
+   "example_en": "Turn left past the lone tree.",
+   "mn_latin": "gants mod"
+  },
+  {
+   "mn": "барих",
+   "en": "to follow (a river, road, line)",
+   "pos": "verb",
+   "example_mn": "Хөндийг барин урагшаа яваарай.",
+   "example_en": "Head south along the valley.",
+   "mn_latin": "barikh"
+  },
+  {
+   "mn": "өнгөрөх",
+   "en": "to pass",
+   "pos": "verb",
+   "example_mn": "Худгийг өнгөрөөд хоёр километр яваарай.",
+   "example_en": "Go two kilometers past the well.",
+   "mn_latin": "öngörökh"
+  },
+  {
+   "mn": "салаа зам",
+   "en": "fork in the road",
+   "pos": "noun phrase",
+   "example_mn": "Салаа замд хүрээд баруун гар талын замаар яваарай.",
+   "example_en": "When you reach the fork, take the road on the right.",
+   "mn_latin": "salaa zam"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид худгийг өнгөрсөн тэр үед нар жаргаж байсан.",
+   "en": "The sun was setting at the time when we passed the well.",
+   "alt_mn": [
+    "Биднийг худгийг өнгөрөхөд нар жаргаж байсан."
+   ],
+   "alt_en": [
+    "The sun was setting when we passed the well."
+   ],
+   "mn_latin": "Bid khudgiig öngörsön ter üyed nar jargaj baisan."
+  },
+  {
+   "mn": "Голыг барин уруудаж явбал хоёр цагийн дотор сумын төвд хүрнэ.",
+   "en": "If you follow the river downstream, you'll reach the soum center within two hours.",
+   "alt_mn": [
+    "Голыг барьж уруудвал хоёр цагийн дотор сумын төвд хүрнэ."
+   ],
+   "alt_en": [
+    "If you go downstream along the river, you'll reach the soum center within two hours."
+   ],
+   "mn_latin": "Golyg barin uruudaj yavbal khoyor tsagiin dotor sumyn tövd khürne."
+  },
+  {
+   "mn": "Цахилгааны шугамыг барьж явсаар байгаад том зам дээр гарлаа.",
+   "en": "We kept following the power line and came out onto the main road.",
+   "alt_mn": [],
+   "alt_en": [
+    "We kept following the power line until we came out onto the main road."
+   ],
+   "mn_latin": "Tsakhilgaany shugamyg barij yavsaar baigaad tom zam deer garlaa."
+  },
+  {
+   "mn": "Даваан дээр том овоо бий, тэнд заавал зогсоорой.",
+   "en": "There's a big ovoo on the pass, so be sure to stop there.",
+   "alt_mn": [
+    "Даваан дээр том овоо байгаа, тэнд заавал зогсоорой."
+   ],
+   "alt_en": [
+    "There's a big ovoo at the top of the pass; make sure you stop there."
+   ],
+   "mn_latin": "Davaan deer tom ovoo bii, tend zaaval zogsooroi."
+  },
+  {
+   "mn": "Ганц модыг харсан тэр мөчид бид зөв замаар явж байгаагаа ойлгосон.",
+   "en": "The moment when we saw the lone tree, we realized we were on the right route.",
+   "alt_mn": [],
+   "alt_en": [
+    "The moment we saw the lone tree, we realized we were on the right route."
+   ],
+   "mn_latin": "Gants modyg kharsan ter möchid bid zöv zamaar yavj baigaagaa oilgoson."
+  },
+  {
+   "mn": "Хөндий рүү буухаас өмнө салаа зам бий, зүүн гар талынхыг сонгоорой.",
+   "en": "Before you go down into the valley, there's a fork; take the left one.",
+   "alt_mn": [],
+   "alt_en": [
+    "There's a fork before you descend into the valley; take the left one."
+   ],
+   "mn_latin": "Khöndii rüü buukhaas ömnö salaa zam bii, züün gar talynkhyg songooroi."
+  },
+  {
+   "mn": "Энэ худаг зун ширгэдэг тул малчид өөр худгаас ус авдаг.",
+   "en": "This well dries up in summer, so herders get water from another well.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because this well dries up in summer, herders get water from a different well."
+   ],
+   "mn_latin": "Ene khudag zun shirgedeg tul malchid öör khudgaas us avdag."
+  },
+  {
+   "mn": "Анх энэ даваагаар гарсан өдрөө би хэзээ ч мартахгүй.",
+   "en": "I'll never forget the day when I first crossed this pass.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'll never forget the day I first crossed this pass."
+   ],
+   "mn_latin": "Ankh ene davaagaar garsan ödröö bi khezee ch martakhgüi."
+  },
+  {
+   "mn": "Шугамын баганыг тоолж явбал хэр хол явснаа мэдэж болно.",
+   "en": "If you count the power line poles, you can tell how far you've gone.",
+   "alt_mn": [],
+   "alt_en": [
+    "By counting the power line poles, you can tell how far you've traveled."
+   ],
+   "mn_latin": "Shugamyn baganyg toolj yavbal kher khol yavsnaa medej bolno."
+  },
+  {
+   "mn": "Голыг барьж явах нь илүү аюулгүй боловч зам нь урт.",
+   "en": "Following the river is safer, but the route is longer.",
+   "alt_mn": [],
+   "alt_en": [
+    "Going along the river is safer, but it's a longer route."
+   ],
+   "mn_latin": "Golyg barij yavakh ni ilüü ayuulgüi bolovch zam ni urt."
+  },
+  {
+   "mn": "Овооны дэргэдээс баруун хойш харвал хоёр уулын хоорондох даваа харагдана.",
+   "en": "If you look northwest from the ovoo, you'll see the pass between two mountains.",
+   "alt_mn": [],
+   "alt_en": [
+    "Looking northwest from the ovoo, you'll see the pass between the two mountains."
+   ],
+   "mn_latin": "Ovoony dergedees baruun khoish kharval khoyor uulyn khoorondokh davaa kharagdana."
+  },
+  {
+   "mn": "Машин эвдэрсэн тэр орой бид гэрэлтэй гэр хайж хөндийг барин алхсан.",
+   "en": "On the evening when the car broke down, we walked along the valley looking for a ger with a light on.",
+   "alt_mn": [],
+   "alt_en": [
+    "The evening the car broke down, we walked along the valley searching for a ger with its light on."
+   ],
+   "mn_latin": "Mashin evdersen ter oroi bid gereltei ger khaij khöndiig barin alkhsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Following a landmark: -ыг барин / барьж явах",
+  "title_mn": "Цаг хугацааг тодотгох \"when\": the time when..., the day when...",
+  "explain_en": "To say \"follow / go along\" a river, road, valley, or power line, Mongolians use the verb барих (literally \"to hold\"): put the landmark in the accusative case (-ыг/-ийг/-г) and add барин or барьж before a verb of motion. Голыг барин яваарай = \"Go along the river.\" Шугамыг барьж явбал = \"If you follow the line.\" The idea is that you \"hold on to\" the landmark so you don't lose your way. Барин and барьж mean the same here; барин sounds slightly more formal or written, and барьж is more conversational. Remember the accusative: гол → голыг, худаг → худгийг, хөндий → хөндийг, шугам → шугамыг.",
+  "explain_mn": "Англи хэлэнд цаг хугацааг илэрхийлэх нэр үгийг (the time, the day, the moment, the evening) тодотгохдоо \"when\" хэрэглэнэ: the time when we passed the well (бид худгийг өнгөрсөн тэр үе). Монголоор тодотгол нь нэр үгийн өмнө ирдэг бол англиар ард нь ирнэ: \"the day + when + өгүүлбэр\". Ярианд \"when\"-ийг ихэвчлэн орхидог: the day I first crossed this pass. Харин газрын хувьд \"where\" хэрэглэнэ: the place where we camped. Анхаар: \"when\"-ий ард бүтэн өгүүлбэр (эзэн + үйл үг) ирнэ.",
+  "examples": [
+   {
+    "mn": "Голыг барин хойшоо яваарай.",
+    "en": "Go north along the river.",
+    "mn_latin": "Golyg barin khoishoo yavaarai."
+   },
+   {
+    "mn": "Цахилгааны шугамыг барьж явбал төөрөхгүй.",
+    "en": "If you follow the power line, you won't get lost.",
+    "mn_latin": "Tsakhilgaany shugamyg barij yavbal töörökhgüi."
+   },
+   {
+    "mn": "Бид худгийг өнгөрсөн тэр үед бороо орж эхэлсэн.",
+    "en": "It started raining at the time when we passed the well.",
+    "mn_latin": "Bid khudgiig öngörsön ter üyed boroo orj ekhelsen."
+   },
+   {
+    "mn": "Төөрсөн тэр өдрөө би санаж байна.",
+    "en": "I remember the day when we got lost.",
+    "mn_latin": "Töörsön ter ödröö bi sanaj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гол___ барин хойшоо яваарай.",
+   "answer": "ыг",
+   "options": [
+    "ыг",
+    "ын",
+    "д",
+    "оор"
+   ],
+   "translation": "Go north along the river.",
+   "explain_en": "With барин/барьж, the landmark you follow is a direct object, so it takes the accusative ending: гол → голыг.",
+   "explain_mn": "Барин/барьж үйл үгтэй хэрэглэхэд барьж буй зүйл шууд тусагдахуун болж заахын тийн ялгал авна: гол → голыг."
+  },
+  {
+   "lang": "mn",
+   "text": "Цахилгааны шугамыг ___ явбал төөрөхгүй.",
+   "answer": "барьж",
+   "options": [
+    "барьж",
+    "барих",
+    "барьсан",
+    "барина"
+   ],
+   "translation": "If you follow the power line, you won't get lost.",
+   "explain_en": "Before a verb of motion like явах, you need the converb form барьж (or барин), meaning \"following / holding to.\"",
+   "explain_mn": "Явах гэсэн хөдөлгөөний үйл үгийн өмнө нөхцөл үйл үгийн хэлбэр \"барьж\" (эсвэл \"барин\") хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Худг___ өнгөрөөд баруун тийш эргээрэй.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "ийн",
+    "т",
+    "ээс"
+   ],
+   "translation": "After you pass the well, turn right.",
+   "explain_en": "Өнгөрөх (to pass) takes a direct object in the accusative. Худаг drops its second vowel: худаг → худгийг.",
+   "explain_mn": "\"Өнгөрөх\" үйл үг заахын тийн ялгалтай нэр шаардана: худаг → худгийг."
+  },
+  {
+   "lang": "en",
+   "text": "I still remember the day ___ we got lost near the pass.",
+   "answer": "when",
+   "options": [
+    "when",
+    "where",
+    "which",
+    "what"
+   ],
+   "translation": "Бид давааны ойролцоо төөрсөн тэр өдрийг би одоо ч санаж байна.",
+   "explain_en": "\"The day\" is a time noun, and a full clause follows (we got lost), so use the relative adverb \"when.\"",
+   "explain_mn": "\"The day\" бол цаг хугацааны нэр үг бөгөөд ард нь бүтэн өгүүлбэр ирж байгаа тул \"when\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "That was the moment ___ we saw the lone tree.",
+   "answer": "when",
+   "options": [
+    "when",
+    "which",
+    "who",
+    "where"
+   ],
+   "translation": "Яг тэр мөчид бид ганц модыг харсан.",
+   "explain_en": "\"The moment\" refers to a point in time, so \"when\" introduces the clause. \"Who\" is for people, and \"where\" is for places.",
+   "explain_mn": "\"The moment\" нь цаг хугацааг заадаг тул \"when\" хэрэглэнэ. \"Who\" нь хүнд, \"where\" нь газарт хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Do you remember the time ___ the well was completely dry?",
+   "answer": "when",
+   "options": [
+    "when",
+    "where",
+    "which",
+    "whose"
+   ],
+   "translation": "Худаг бүр ширгэчихсэн байсан тэр үеийг чи санаж байна уу?",
+   "explain_en": "\"The time\" plus a full clause takes \"when.\" Even though the sentence mentions a well, the word being described is \"the time,\" not a place.",
+   "explain_mn": "Өгүүлбэрт худаг дурдагдсан ч тодотгож буй үг нь \"the time\" (цаг хугацаа) тул \"where\" биш \"when\" хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Сайн байна уу! Уучлаарай, бид сумын төв рүү явах замаа алдчихлаа.",
+   "en": "Hello! Excuse me, we've lost the road to the soum center.",
+   "mn_latin": "Sain baina uu! Uuchlaarai, bid sumyn töv rüü yavakh zamaa aldchikhlaa."
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Сайн, сайн. Та нар хаанаас ирсэн бэ? Замдаа худаг харсан уу?",
+   "en": "Hello there. Where did you come from? Did you see a well on the way?",
+   "mn_latin": "Sain, sain. Ta nar khaanaas irsen be? Zamdaa khudag kharsan uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм, нэг цагийн өмнө худгийг өнгөрсөн. Яг тэр үед зам хоёр салсан.",
+   "en": "Yes, we passed a well an hour ago. That's exactly when the road split in two.",
+   "mn_latin": "Tiim, neg tsagiin ömnö khudgiig öngörsön. Yag ter üyed zam khoyor salsan."
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Та нар баруун тийшээ эргэчихсэн юм байна. Буцаж очоод цахилгааны шугамыг барин хойшоо яваарай.",
+   "en": "Looks like you turned right. Go back and follow the power line north.",
+   "mn_latin": "Ta nar baruun tiishee ergechikhsen yum baina. Butsaj ochood tsakhilgaany shugamyg barin khoishoo yavaarai."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Шугамыг хэр удаан барьж явах вэ?",
+   "en": "How long should we follow the line?",
+   "mn_latin": "Shugamyg kher udaan barij yavakh ve?"
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Ганц мод харагдтал. Тэндээс даваа руу өгсөөд, овооны дэргэд зогсоорой.",
+   "en": "Until you see a lone tree. From there, drive up to the pass and stop by the ovoo.",
+   "mn_latin": "Gants mod kharagdtal. Tendees davaa ruu ögsööd, ovoony derged zogsooroi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Даваанаас цааш яах вэ?",
+   "en": "And after the pass?",
+   "mn_latin": "Davaanaas tsaash yaakh ve?"
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Хөндий рүү буугаад голыг барин уруудвал сумын төв шууд харагдана.",
+   "en": "Go down into the valley and follow the river downstream; you'll see the soum center right away.",
+   "mn_latin": "Khöndii rüü buugaad golyg barin uruudval sumyn töv shuud kharagdana."
+  }
+ ],
+ "culture_note": {
+  "en": "In the Mongolian countryside, directions are rarely given with road names or GPS. Herders describe the route by wells, ovoos, passes, and rivers, and they often measure distance in hours of driving. When you reach an ovoo, it's customary to stop, walk around it clockwise three times, and add a stone or leave a small offering for a safe journey. Drivers who can't stop often honk as they pass.",
+  "mn": "Монголын хөдөө нутагт замыг гудамжны нэр эсвэл GPS-ээр бараг заадаггүй. Малчид худаг, овоо, даваа, голоор зам зааж, зайг ихэвчлэн машинаар хэдэн цаг явахаар хэмждэг. Овоон дээр очвол зогсож, нар зөв гурван удаа тойрон, чулуу нэмж эсвэл өргөл өргөж, замын бэлгэ дэмбэрэл хүсдэг заншилтай. Зогсох боломжгүй жолооч нар хажуугаар нь өнгөрөхдөө дуут дохио дуугаргадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A solid lesson with natural Mongolian and English; only the intro terminology and one grammar note needed correction."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is mostly clean. The two grammar explanations cover different topics on purpose: Mongolian барин/барьж for English speakers and English 'when' for Mongolian speakers. I left them as they are.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The intro said 'заах, асуух' (give, ask) while the English says 'give and follow'."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "The English says 'safer', so the Mongolian needs the comparative 'илүү аюулгүй'."
+   }
+  ]
+ }
+}

@@ -1,0 +1,468 @@
+{
+ "intro_en": "You will learn to talk about your hometown and say whether it is a big city or a small place in the countryside. You will also use the Mongolian endings -аас (from) and руу/рүү (to), and the English questions 'Where is she from?' and 'Is he from...?'.",
+ "intro_mn": "Та төрсөн нутгаа ярьж, том хот уу, жижиг сум уу гэдгийг хэлж сурна. Мөн монгол хэлний -аас, -руу нөхцөл болон англи хэлний 'Where is she from?', 'Is he from...?' асуултуудыг ашиглана.",
+ "vocab": [
+  {
+   "mn": "хот",
+   "en": "city",
+   "pos": "noun",
+   "example_mn": "Улаанбаатар бол том хот.",
+   "example_en": "Ulaanbaatar is a big city.",
+   "mn_latin": "khot"
+  },
+  {
+   "mn": "аймаг",
+   "en": "province",
+   "pos": "noun",
+   "example_mn": "Монголд олон аймаг бий.",
+   "example_en": "There are many provinces in Mongolia.",
+   "mn_latin": "aimag"
+  },
+  {
+   "mn": "сум",
+   "en": "district (of a province)",
+   "pos": "noun",
+   "example_mn": "Манай сум жижиг.",
+   "example_en": "Our district is small.",
+   "mn_latin": "sum"
+  },
+  {
+   "mn": "нутаг",
+   "en": "homeland, native place",
+   "pos": "noun",
+   "example_mn": "Миний нутаг сайхан.",
+   "example_en": "My homeland is beautiful.",
+   "mn_latin": "nutag"
+  },
+  {
+   "mn": "том",
+   "en": "big",
+   "pos": "adjective",
+   "example_mn": "Энэ хот том.",
+   "example_en": "This city is big.",
+   "mn_latin": "tom"
+  },
+  {
+   "mn": "жижиг",
+   "en": "small",
+   "pos": "adjective",
+   "example_mn": "Тэр жижиг сум.",
+   "example_en": "That is a small district.",
+   "mn_latin": "jijig"
+  },
+  {
+   "mn": "Хөвсгөл",
+   "en": "Khuvsgul (province)",
+   "pos": "proper noun",
+   "example_mn": "Би Хөвсгөлөөс ирсэн.",
+   "example_en": "I am from Khuvsgul.",
+   "mn_latin": "Khövsgöl"
+  },
+  {
+   "mn": "Архангай",
+   "en": "Arkhangai (province)",
+   "pos": "proper noun",
+   "example_mn": "Түүний нутаг Архангай.",
+   "example_en": "His homeland is Arkhangai.",
+   "mn_latin": "Arkhangai"
+  },
+  {
+   "mn": "Дорнод",
+   "en": "Dornod (province)",
+   "pos": "proper noun",
+   "example_mn": "Дорнод аймаг Монголын зүүн хэсэгт байдаг.",
+   "example_en": "Dornod province is in the east of Mongolia.",
+   "mn_latin": "Dornod"
+  },
+  {
+   "mn": "хөдөө",
+   "en": "countryside",
+   "pos": "noun",
+   "example_mn": "Би хөдөөнөөс ирсэн.",
+   "example_en": "I come from the countryside.",
+   "mn_latin": "khödöö"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та хаанаас ирсэн бэ?",
+   "en": "Where are you from?",
+   "alt_mn": [
+    "Та хаанаас вэ?"
+   ],
+   "alt_en": [
+    "Where do you come from?"
+   ],
+   "mn_latin": "Ta khaanaas irsen be?"
+  },
+  {
+   "mn": "Би Хөвсгөлөөс ирсэн.",
+   "en": "I am from Khuvsgul.",
+   "alt_mn": [
+    "Би Хөвсгөлийн хүн."
+   ],
+   "alt_en": [
+    "I come from Khuvsgul."
+   ],
+   "mn_latin": "Bi Khövsgölöös irsen."
+  },
+  {
+   "mn": "Тэр Архангайгаас ирсэн.",
+   "en": "He is from Arkhangai.",
+   "alt_mn": [],
+   "alt_en": [
+    "She is from Arkhangai."
+   ],
+   "mn_latin": "Ter Arkhangaigaas irsen."
+  },
+  {
+   "mn": "Тэр хаанаас ирсэн бэ?",
+   "en": "Where is she from?",
+   "alt_mn": [],
+   "alt_en": [
+    "Where is he from?"
+   ],
+   "mn_latin": "Ter khaanaas irsen be?"
+  },
+  {
+   "mn": "Тэр Дорнодоос ирсэн үү?",
+   "en": "Is he from Dornod?",
+   "alt_mn": [],
+   "alt_en": [
+    "Is she from Dornod?"
+   ],
+   "mn_latin": "Ter Dornodoos irsen üü?"
+  },
+  {
+   "mn": "Тийм, тэр Дорнодоос ирсэн.",
+   "en": "Yes, she is from Dornod.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, he is from Dornod."
+   ],
+   "mn_latin": "Tiim, ter Dornodoos irsen."
+  },
+  {
+   "mn": "Үгүй, тэр хотоос ирсэн.",
+   "en": "No, he is from the city.",
+   "alt_mn": [],
+   "alt_en": [
+    "No, she is from the city."
+   ],
+   "mn_latin": "Ügüi, ter khotoos irsen."
+  },
+  {
+   "mn": "Миний нутаг жижиг сум.",
+   "en": "My homeland is a small district.",
+   "alt_mn": [
+    "Миний төрсөн нутаг жижиг сум."
+   ],
+   "alt_en": [
+    "My native place is a small district."
+   ],
+   "mn_latin": "Minii nutag jijig sum."
+  },
+  {
+   "mn": "Улаанбаатар том хот.",
+   "en": "Ulaanbaatar is a big city.",
+   "alt_mn": [
+    "Улаанбаатар бол том хот."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ulaanbaatar tom khot."
+  },
+  {
+   "mn": "Би хөдөөнөөс хот руу явна.",
+   "en": "I am going from the countryside to the city.",
+   "alt_mn": [
+    "Би хөдөөнөөс хот руу явж байна."
+   ],
+   "alt_en": [
+    "I go from the countryside to the city."
+   ],
+   "mn_latin": "Bi khödöönöös khot ruu yavna."
+  },
+  {
+   "mn": "Тэр Дорнодоос Улаанбаатар луу явсан.",
+   "en": "He went from Dornod to Ulaanbaatar.",
+   "alt_mn": [],
+   "alt_en": [
+    "She went from Dornod to Ulaanbaatar."
+   ],
+   "mn_latin": "Ter Dornodoos Ulaanbaatar luu yavsan."
+  },
+  {
+   "mn": "Манай аймаг том биш.",
+   "en": "Our province is not big.",
+   "alt_mn": [],
+   "alt_en": [
+    "Our province is not large."
+   ],
+   "mn_latin": "Manai aimag tom bish."
+  }
+ ],
+ "grammar": {
+  "title_en": "From ... to: -аас and -руу",
+  "title_mn": "Гарах ба чиглэх тийн ялгал: -аас, -руу",
+  "explain_en": "Add -аас/-ээс/-оос/-өөс to a place to say 'from': Хөвсгөл → Хөвсгөлөөс, хот → хотоос. The vowel follows vowel harmony. After a word ending in a long vowel or diphthong, such as Архангай, the ending is -гаас/-гээс: Архангайгаас. To say 'to', write руу as a separate word after words with а, о, у, and рүү after words with э, ө, ү: хот руу, Хөвсгөл рүү. After a word ending in р, use луу/лүү instead: Улаанбаатар луу. So 'from ... to' is: Дорнодоос Улаанбаатар луу.",
+  "explain_mn": "Монгол хэлэнд 'аас/ээс/оос/өөс' (from) нөхцөл үгийн төгсгөлд залгаж, 'руу/рүү' (to) үгийн араас орно. Англи хэлэнд 'from' ба 'to' нь тусдаа үг бөгөөд газрын нэрийн өмнө орно: from Dornod to Ulaanbaatar. Нэр үг өөрчлөгдөхгүй. Асуухдаа 'Where is she from?' гэнэ. Тийм/үгүй асуултад 'Is' өгүүлбэрийн эхэнд гарна: 'Is he from Dornod?'. Англи хэлэнд хүнийг 'he' (эрэгтэй), 'she' (эмэгтэй) гэж ялгана. Монголоор хоёуланг нь 'тэр' гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "Би Хөвсгөлөөс ирсэн.",
+    "en": "I am from Khuvsgul.",
+    "mn_latin": "Bi Khövsgölöös irsen."
+   },
+   {
+    "mn": "Тэр Архангайгаас ирсэн.",
+    "en": "She is from Arkhangai.",
+    "mn_latin": "Ter Arkhangaigaas irsen."
+   },
+   {
+    "mn": "Тэр хотоос хөдөө рүү явсан.",
+    "en": "He went from the city to the countryside.",
+    "mn_latin": "Ter khotoos khödöö rüü yavsan."
+   },
+   {
+    "mn": "Тэр Дорнодоос ирсэн үү?",
+    "en": "Is he from Dornod?",
+    "mn_latin": "Ter Dornodoos irsen üü?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би Хөвсгөл___ ирсэн.",
+   "answer": "өөс",
+   "options": [
+    "өөс",
+    "аас",
+    "руу",
+    "ийн"
+   ],
+   "translation": "I am from Khuvsgul.",
+   "explain_en": "Хөвсгөл has the vowel ө (twice), so the ending is -өөс: Хөвсгөлөөс.",
+   "explain_mn": "Хөвсгөл гэдэг үгэнд ө эгшиг байгаа тул -өөс нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр хот ___ явсан.",
+   "answer": "руу",
+   "options": [
+    "руу",
+    "аас",
+    "нд",
+    "тай"
+   ],
+   "translation": "He went to the city.",
+   "explain_en": "For direction 'to' a place, use руу after the noun.",
+   "explain_mn": "Чиглэл заахад газрын нэрийн дараа руу гэж бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр Дорнод___ ирсэн үү?",
+   "answer": "оос",
+   "options": [
+    "оос",
+    "ээс",
+    "өөс",
+    "руу"
+   ],
+   "translation": "Is she from Dornod?",
+   "explain_en": "Дорнод has the vowel о, so the ending is -оос: Дорнодоос.",
+   "explain_mn": "Дорнод гэдэг үгэнд о эгшиг байгаа тул -оос нөхцөл залгана."
+  },
+  {
+   "lang": "en",
+   "text": "She ___ from Arkhangai.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "translation": "Тэр Архангайгаас ирсэн.",
+   "explain_en": "With he, she, or it, use 'is'.",
+   "explain_mn": "'He', 'she', 'it'-тэй хамт 'is' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ is he from?",
+   "answer": "Where",
+   "options": [
+    "Where",
+    "What",
+    "Who",
+    "When"
+   ],
+   "translation": "Where is he from?",
+   "explain_en": "Use 'Where' to ask about a place.",
+   "explain_mn": "Газрыг асуухад 'Where' (хаана) гэж асууна."
+  },
+  {
+   "lang": "en",
+   "text": "___ she from Dornod?",
+   "answer": "Is",
+   "options": [
+    "Is",
+    "Are",
+    "Am",
+    "Do"
+   ],
+   "translation": "Тэр Дорнодоос ирсэн үү?",
+   "explain_en": "For yes/no questions with she, put 'Is' first.",
+   "explain_mn": "Тийм/үгүй асуултад 'Is' өгүүлбэрийн эхэнд гарна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу, Болд! Та хаанаас ирсэн бэ?",
+   "en": "Hello, Bold! Where are you from?",
+   "mn_latin": "Sain baina uu, Bold! Ta khaanaas irsen be?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Би Хөвсгөлөөс ирсэн.",
+   "en": "I am from Khuvsgul.",
+   "mn_latin": "Bi Khövsgölöös irsen."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Хөвсгөл том хот уу?",
+   "en": "Is Khuvsgul a big city?",
+   "mn_latin": "Khövsgöl tom khot uu?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Үгүй ээ, Хөвсгөл бол аймаг. Миний нутаг жижиг сум. Одоо би Улаанбаатарт амьдардаг.",
+   "en": "No, Khuvsgul is a province. My hometown is a small district. Now I live in Ulaanbaatar.",
+   "mn_latin": "Ügüi ee, Khövsgöl bol aimag. Minii nutag jijig sum. Odoo bi Ulaanbaatart amidardag."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Манай найз Сараа хаанаас ирсэн бэ?",
+   "en": "Where is our friend Saraa from?",
+   "mn_latin": "Manai naiz Saraa khaanaas irsen be?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тэр Дорнодоос ирсэн.",
+   "en": "She is from Dornod.",
+   "mn_latin": "Ter Dornodoos irsen."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэр Дорнодоос Улаанбаатар луу явсан уу?",
+   "en": "Did she go from Dornod to Ulaanbaatar?",
+   "mn_latin": "Ter Dornodoos Ulaanbaatar luu yavsan uu?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тийм, тэр их сургуульд суралцдаг.",
+   "en": "Yes, she studies at a university.",
+   "mn_latin": "Tiim, ter ikh surguulid suraltsdag."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia has 21 aimags (provinces), and each aimag is divided into sums (districts). Many people in Ulaanbaatar still say where their nutag (homeland) is, and it is a point of pride. Khuvsgul is famous for its big blue lake, Arkhangai for its mountains and hot springs, and Dornod for its wide eastern steppe.",
+  "mn": "Монгол Улсад 21 аймаг байдаг бөгөөд аймаг бүр сумдад хуваагддаг. Улаанбаатарт амьдардаг олон хүн өөрийн нутгаа бахархан ярьдаг. Хөвсгөл нь том цэнхэр нуураараа, Архангай нь уул, рашаанаараа, Дорнод нь зүүн хэсгийн өргөн тал нутгаараа алдартай."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 18,
+  "notes": "Mostly good; main errors are 'хотруу' spelling, hometown/district mismatch, an incomplete руу/рүү explanation, and Dornod described as Gobi in the Mongolian culture note."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Main issues: луу after р, the Khuvsgul province/district mix-up, a wrong alt, the crude 'эм', and inconsistent register.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "plural 'endings'; руу is written as a separate word and has the form рүү"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "'зүүн талд бий' is unnatural for a location"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_en",
+    "why": "match the new Mongolian sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "after a word ending in р, the standard form is луу"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "'жижиг' (small) is not the same as 'not big'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "missing луу/лүү rule after р; the Улаанбаатар руу example was wrong"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'эм' is crude for female; also clarifies that руу is a separate word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "ungrammatical Mongolian; match the en version"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "informal 'Сайн уу' clashes with polite 'Та'"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "match the polite greeting"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Khuvsgul is a province, not a district"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "match the corrected Mongolian line"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "standard луу after р"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'eastern' was missing; make it match the en version"
+   }
+  ]
+ }
+}

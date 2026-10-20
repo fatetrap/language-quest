@@ -1,0 +1,436 @@
+{
+ "intro_en": "You will learn how to arrive at a restaurant, ask whether there is a free table, and say how many people you have. You will also practice asking for a menu and calling the waiter.",
+ "intro_mn": "Та ресторанд ирээд сул ширээ байгаа эсэхийг асууж, хэдэн хүн байгаагаа хэлж сурна. Мөн меню асууж, зөөгчийг дуудах хэллэгийг давтана.",
+ "vocab": [
+  {
+   "mn": "ширээ",
+   "en": "table",
+   "pos": "noun",
+   "example_mn": "Энэ ширээ сул байна.",
+   "example_en": "This table is free.",
+   "mn_latin": "shiree"
+  },
+  {
+   "mn": "меню",
+   "en": "menu",
+   "pos": "noun",
+   "example_mn": "Меню өгөөч.",
+   "example_en": "Please give me the menu.",
+   "mn_latin": "myenyu"
+  },
+  {
+   "mn": "зөөгч",
+   "en": "waiter",
+   "pos": "noun",
+   "example_mn": "Зөөгч ирж байна.",
+   "example_en": "The waiter is coming.",
+   "mn_latin": "zöögch"
+  },
+  {
+   "mn": "сул",
+   "en": "free, empty",
+   "pos": "adjective",
+   "example_mn": "Сул ширээ байна уу?",
+   "example_en": "Is there a free table?",
+   "mn_latin": "sul"
+  },
+  {
+   "mn": "суудал",
+   "en": "seat",
+   "pos": "noun",
+   "example_mn": "Надад нэг суудал хэрэгтэй.",
+   "example_en": "I need one seat.",
+   "mn_latin": "suudal"
+  },
+  {
+   "mn": "хүн",
+   "en": "person, people",
+   "pos": "noun",
+   "example_mn": "Гурван хүн байна.",
+   "example_en": "There are three of us.",
+   "mn_latin": "khün"
+  },
+  {
+   "mn": "хэдэн",
+   "en": "how many",
+   "pos": "question word",
+   "example_mn": "Хэдэн хүн бэ?",
+   "example_en": "How many people?",
+   "mn_latin": "kheden"
+  },
+  {
+   "mn": "захиалга",
+   "en": "reservation, order",
+   "pos": "noun",
+   "example_mn": "Надад захиалга бий.",
+   "example_en": "I have a reservation.",
+   "mn_latin": "zakhialga"
+  },
+  {
+   "mn": "ресторан",
+   "en": "restaurant",
+   "pos": "noun",
+   "example_mn": "Энэ ресторан сайхан байна.",
+   "example_en": "This restaurant is nice.",
+   "mn_latin": "ryestoran"
+  },
+  {
+   "mn": "суух",
+   "en": "to sit",
+   "pos": "verb",
+   "example_mn": "Та энд суугаарай.",
+   "example_en": "Please sit here.",
+   "mn_latin": "suukh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сайн байна уу? Ширээ байна уу?",
+   "en": "Hello. Do you have a table?",
+   "alt_mn": [
+    "Сайн байна уу? Сул ширээ байна уу?"
+   ],
+   "alt_en": [
+    "Hello. Is there a table available?"
+   ],
+   "mn_latin": "Sain baina uu? Shiree baina uu?"
+  },
+  {
+   "mn": "Хоёр хүнд ширээ өгнө үү.",
+   "en": "A table for two, please.",
+   "alt_mn": [
+    "Хоёр хүний ширээ байна уу?"
+   ],
+   "alt_en": [
+    "Could we have a table for two?"
+   ],
+   "mn_latin": "Khoyor khünd shiree ögnö üü."
+  },
+  {
+   "mn": "Бид гурван хүн.",
+   "en": "There are three of us.",
+   "alt_mn": [
+    "Бид гурав."
+   ],
+   "alt_en": [
+    "We're a party of three."
+   ],
+   "mn_latin": "Bid gurvan khün."
+  },
+  {
+   "mn": "Хэдэн хүн бэ?",
+   "en": "How many people?",
+   "alt_mn": [
+    "Хэдүүлээ вэ?"
+   ],
+   "alt_en": [
+    "How many in your party?"
+   ],
+   "mn_latin": "Kheden khün be?"
+  },
+  {
+   "mn": "Дөрвөн хүнд сул ширээ байна уу?",
+   "en": "Is there a free table for four?",
+   "alt_mn": [],
+   "alt_en": [
+    "Do you have a free table for four people?"
+   ],
+   "mn_latin": "Dörvön khünd sul shiree baina uu?"
+  },
+  {
+   "mn": "Тийм ээ, байна.",
+   "en": "Yes, we do.",
+   "alt_mn": [
+    "Тийм, байгаа."
+   ],
+   "alt_en": [
+    "Yes, there is."
+   ],
+   "mn_latin": "Tiim ee, baina."
+  },
+  {
+   "mn": "Уучлаарай, одоо сул ширээ алга.",
+   "en": "Sorry, we have no free tables now.",
+   "alt_mn": [
+    "Уучлаарай, одоогоор сул ширээ байхгүй байна."
+   ],
+   "alt_en": [
+    "Sorry, there are no free tables right now."
+   ],
+   "mn_latin": "Uuchlaarai, odoo sul shiree alga."
+  },
+  {
+   "mn": "Энд суугаарай.",
+   "en": "Please sit here.",
+   "alt_mn": [
+    "Та энд суугаарай."
+   ],
+   "alt_en": [
+    "Have a seat here."
+   ],
+   "mn_latin": "End suugaarai."
+  },
+  {
+   "mn": "Меню өгөөч.",
+   "en": "Could I have the menu, please?",
+   "alt_mn": [
+    "Меню өгнө үү."
+   ],
+   "alt_en": [
+    "Please give me the menu."
+   ],
+   "mn_latin": "Myenyu ögööch."
+  },
+  {
+   "mn": "Зөөгч ирж байна.",
+   "en": "The waiter is coming.",
+   "alt_mn": [],
+   "alt_en": [
+    "The waiter is on the way."
+   ],
+   "mn_latin": "Zöögch irj baina."
+  },
+  {
+   "mn": "Надад захиалга бий.",
+   "en": "I have a reservation.",
+   "alt_mn": [
+    "Би захиалга хийсэн."
+   ],
+   "alt_en": [
+    "I have booked a table."
+   ],
+   "mn_latin": "Nadad zakhialga bii."
+  },
+  {
+   "mn": "Цонхны хажууд ширээ байна уу?",
+   "en": "Is there a table by the window?",
+   "alt_mn": [],
+   "alt_en": [
+    "Do you have a table next to the window?"
+   ],
+   "mn_latin": "Tsonkhny khajuud shiree baina uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking «Is there…?» with байна уу and counting people",
+  "title_mn": "«Байна уу?» асуулт ба хүний тоо хэлэх",
+  "explain_en": "To ask if something is available, put the thing first and add «байна уу?»: «Ширээ байна уу?» = «Is there a table? / Do you have a table?». Mongolian has no word for «a», so «ширээ» means «a table» or «the table». To say how many people, put the number before «хүн»: «хоёр хүн» (two people), «гурван хүн» (three people). After a number, the noun «хүн» stays singular. To ask for a table for a group, add the dative-locative ending -д to «хүн»: «хоёр хүнд ширээ» = «a table for two people». Add «өгнө үү» to make the request polite («please»).",
+  "explain_mn": "Монгол хэлэнд ямар нэг зүйл байгаа эсэхийг асуухдаа тэр зүйлээ эхэлж хэлээд «байна уу?» гэж нэмнэ: «Ширээ байна уу?» = «Is there a table? / Do you have a table?». Монгол хэлэнд англи хэлний «a» гэсэн үг байдаггүй тул «ширээ» гэдэг нь «a table» эсвэл «the table» гэсэн утгатай. Хүний тоог хэлэхдээ тоог «хүн»-ийн өмнө тавина: «хоёр хүн», «гурван хүн». Тооны дараа «хүн» ганц тоонд хэвээр байна. Хэдэн хүнд зориулсан ширээ асуухдаа «хүн» гэдэг үгэнд «-д» нөхцөл залгана: «хоёр хүнд ширээ» = «a table for two people». Эелдэг болгохдоо «өгнө үү» гэж нэмнэ.",
+  "examples": [
+   {
+    "mn": "Ширээ байна уу?",
+    "en": "Do you have a table?",
+    "mn_latin": "Shiree baina uu?"
+   },
+   {
+    "mn": "Хоёр хүнд ширээ өгнө үү.",
+    "en": "A table for two, please.",
+    "mn_latin": "Khoyor khünd shiree ögnö üü."
+   },
+   {
+    "mn": "Бид таван хүн.",
+    "en": "There are five of us.",
+    "mn_latin": "Bid tavan khün."
+   },
+   {
+    "mn": "Сул суудал байна уу?",
+    "en": "Is there a free seat?",
+    "mn_latin": "Sul suudal baina uu?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Сайн байна уу? Ширээ ___ уу?",
+   "answer": "байна",
+   "options": [
+    "байна",
+    "байх",
+    "болсон",
+    "байсан"
+   ],
+   "translation": "Hello. Do you have a table?",
+   "explain_en": "«Байна уу?» is the standard way to ask if something is available.",
+   "explain_mn": "«Байна уу?» нь ямар нэг зүйл байгаа эсэхийг асуух энгийн хэлбэр."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид гурван ___.",
+   "answer": "хүн",
+   "options": [
+    "хүн",
+    "ширээ",
+    "меню",
+    "зөөгч"
+   ],
+   "translation": "There are three of us.",
+   "explain_en": "After a number we use «хүн» (person/people) in the singular form.",
+   "explain_mn": "Тооны дараа «хүн» гэдэг үгийг ганц тоон хэлбэрээр хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хоёр хүн___ ширээ өгнө үү.",
+   "answer": "д",
+   "options": [
+    "д",
+    "ийг",
+    "ээс",
+    "тэй"
+   ],
+   "translation": "A table for two people, please.",
+   "explain_en": "The dative-locative ending -д here means «for»: «хоёр хүнд» = for two people.",
+   "explain_mn": "«-д» нь өгөх орших тийн ялгалын нөхцөл бөгөөд хэнд зориулсныг илэрхийлнэ: «хүнд»."
+  },
+  {
+   "lang": "en",
+   "text": "A table ___ two, please.",
+   "answer": "for",
+   "options": [
+    "for",
+    "in",
+    "at",
+    "of"
+   ],
+   "translation": "Хоёр хүнд ширээ өгнө үү.",
+   "explain_en": "We say «a table for two» to show who the table is meant for.",
+   "explain_mn": "«For» угтвар нь хэнд зориулсныг заана: «a table for two»."
+  },
+  {
+   "lang": "en",
+   "text": "___ you have a table?",
+   "answer": "Do",
+   "options": [
+    "Do",
+    "Are",
+    "Is",
+    "Does"
+   ],
+   "translation": "Танд ширээ байна уу?",
+   "explain_en": "Questions with «you have» use «Do».",
+   "explain_mn": "«You have» гэсэн асуултад туслах үг «Do» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "How ___ people?",
+   "answer": "many",
+   "options": [
+    "many",
+    "much",
+    "long",
+    "old"
+   ],
+   "translation": "Хэдэн хүн бэ?",
+   "explain_en": "«People» can be counted, so we say «how many».",
+   "explain_mn": "«People» тоологдох тул «how many» гэж асууна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Зөөгч",
+   "mn": "Сайн байна уу! Хэдэн хүн бэ?",
+   "en": "Hello! How many people?",
+   "mn_latin": "Sain baina uu! Kheden khün be?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу. Бид гурван хүн.",
+   "en": "Hello. There are three of us.",
+   "mn_latin": "Sain baina uu. Bid gurvan khün."
+  },
+  {
+   "speaker": "Зөөгч",
+   "mn": "Захиалга байна уу?",
+   "en": "Do you have a reservation?",
+   "mn_latin": "Zakhialga baina uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Үгүй, захиалга байхгүй. Гурван хүнд ширээ байна уу?",
+   "en": "No, we don't. Do you have a table for three?",
+   "mn_latin": "Ügüi, zakhialga baikhgüi. Gurvan khünd shiree baina uu?"
+  },
+  {
+   "speaker": "Зөөгч",
+   "mn": "Тийм ээ, цонхны хажууд сул ширээ байна.",
+   "en": "Yes, there is a free table by the window.",
+   "mn_latin": "Tiim ee, tsonkhny khajuud sul shiree baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайхан байна. Баярлалаа.",
+   "en": "Great. Thank you.",
+   "mn_latin": "Saikhan baina. Bayarlalaa."
+  },
+  {
+   "speaker": "Зөөгч",
+   "mn": "Энд суугаарай. Меню энд байна.",
+   "en": "Please sit here. Here is the menu.",
+   "mn_latin": "End suugaarai. Myenyu end baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Баярлалаа.",
+   "en": "Thank you.",
+   "mn_latin": "Bayarlalaa."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar restaurants, a host or waiter usually greets you and shows you to a table. At busy times, such as Tsagaan Sar or on weekends, it is wise to book a table in advance. Large family groups often eat together, so restaurants usually have big round tables.",
+  "mn": "Улаанбаатарын ресторанд ихэвчлэн угтагч эсвэл зөөгч таныг угтан авч, ширээ зааж өгдөг. Цагаан сар, амралтын өдрүүд зэрэг ачаалалтай үед ширээг урьдчилан захиалах нь зүйтэй. Монголчууд гэр бүлээрээ олуулаа хооллох нь элбэг тул ресторанд том дугуй ширээ түгээмэл байдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 11,
+  "notes": "Mostly usable vocabulary and dialogue, but the Mongolian grammar explanation is wrong (it explains English), and there are a few weak alternates and options."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 7,
+  "notes": "Fixed an option with broken vowel harmony, a wrong case name, an inaccurate grammar statement and mismatches between the en and mn versions.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "«хэдэн хүн болохоо хэлэх зүйлийг» was awkward and unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "The alternative repeated the main translation"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "It is the noun that stays singular, not the number; the case name and the «please» wording now match the mn version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Vowel harmony: the comitative of хүн is хүнтэй, so the option must be «тэй»"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "The correct case name is өгөх орших тийн ялгал"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Matches the mn explanation and is more precise"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Now matches the English: host or waiter, and big round tables"
+   }
+  ]
+ }
+}

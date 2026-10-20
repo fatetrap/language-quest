@@ -1,0 +1,418 @@
+{
+ "intro_en": "In this lesson you will follow a state inspection of a new building: failed checks, official reports, and required fixes. You will learn formal inspection vocabulary and how Mongolian builds abstract nouns with -уур/-үүр, -мж and -вэр/-вар. You will also practice the English inversion pattern \"Only after… was the permit issued.\"",
+ "intro_mn": "Энэ хичээлээр шинэ барилгын улсын шалгалт, тэнцээгүй үзүүлэлт, заавал хийх засварын тухай үзнэ. Хяналт, чанарын албан ёсны үг хэллэг, -уур/-үүр, -мж, -вэр/-вар дагавартай нэр үгсийг судална. Мөн англи хэлний \"Only after… was the permit issued\" гэсэн урвуу дараалалтай бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "стандарт",
+   "en": "standard",
+   "pos": "noun",
+   "example_mn": "Энэ хана улсын стандартад нийцэхгүй байна.",
+   "example_en": "This wall does not comply with the national standard.",
+   "mn_latin": "standart"
+  },
+  {
+   "mn": "зөрчил",
+   "en": "violation",
+   "pos": "noun",
+   "example_mn": "Шалгалтаар гурван ноцтой зөрчил илэрсэн.",
+   "example_en": "The inspection revealed three serious violations.",
+   "mn_latin": "zörchil"
+  },
+  {
+   "mn": "акт",
+   "en": "official report (of findings)",
+   "pos": "noun",
+   "example_mn": "Байцаагч зөрчлийн акт тогтоолоо.",
+   "example_en": "The inspector drew up a violation report.",
+   "mn_latin": "akt"
+  },
+  {
+   "mn": "ашиглалтад оруулах",
+   "en": "to commission, to put into operation",
+   "pos": "verb phrase",
+   "example_mn": "Барилгыг ирэх сард ашиглалтад оруулна.",
+   "example_en": "The building will be put into operation next month.",
+   "mn_latin": "ashiglaltad oruulakh"
+  },
+  {
+   "mn": "магадлал",
+   "en": "expert review, certification",
+   "pos": "noun",
+   "example_mn": "Зураг төслийн магадлал хараахан гараагүй байна.",
+   "example_en": "The expert review of the design has not been issued yet.",
+   "mn_latin": "magadlal"
+  },
+  {
+   "mn": "шалгуур",
+   "en": "criterion",
+   "pos": "noun",
+   "example_mn": "Шалгуур бүрээр үнэлгээ хийнэ.",
+   "example_en": "An assessment is made against each criterion.",
+   "mn_latin": "shalguur"
+  },
+  {
+   "mn": "хэмжүүр",
+   "en": "measure, benchmark",
+   "pos": "noun",
+   "example_mn": "Чанарын гол хэмжүүр бол бетоны бат бөх юм.",
+   "example_en": "The main measure of quality is the strength of the concrete.",
+   "mn_latin": "khemjüür"
+  },
+  {
+   "mn": "шаардлага",
+   "en": "requirement, formal demand",
+   "pos": "noun",
+   "example_mn": "Компанид зөрчлийг арилгах шаардлага хүргүүлсэн.",
+   "example_en": "The company was served a requirement to correct the violations.",
+   "mn_latin": "shaardlaga"
+  },
+  {
+   "mn": "санамж",
+   "en": "reminder, advisory note",
+   "pos": "noun",
+   "example_mn": "Энэ бол шаардлага биш, зөвхөн санамж.",
+   "example_en": "This is not a requirement, just an advisory note.",
+   "mn_latin": "sanamj"
+  },
+  {
+   "mn": "шийдвэр",
+   "en": "decision",
+   "pos": "noun",
+   "example_mn": "Комисс маргааш шийдвэрээ гаргана.",
+   "example_en": "The commission will make its decision tomorrow.",
+   "mn_latin": "shiidver"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Барилга улсын стандартын шаардлага хангаагүй тул байцаагч зөрчлийн акт тогтоолоо.",
+   "en": "Because the building did not meet the requirements of the national standard, the inspector drew up a violation report.",
+   "alt_mn": [
+    "Барилга улсын стандартын шаардлага хангаагүй учир байцаагч зөрчлийн акт тогтоосон."
+   ],
+   "alt_en": [
+    "Since the building failed to meet national standard requirements, the inspector drew up a violation report."
+   ],
+   "mn_latin": "Barilga ulsyn standartyn shaardlaga khangaagüi tul baitsaagch zörchliin akt togtooloo."
+  },
+  {
+   "mn": "Ан цавыг засварласны дараа л зөвшөөрөл олгосон.",
+   "en": "Only after the cracks were repaired was the permit issued.",
+   "alt_mn": [
+    "Ан цавыг засварласны дараа л зөвшөөрлийг олгосон."
+   ],
+   "alt_en": [
+    "Only after the cracks had been repaired was the permit issued."
+   ],
+   "mn_latin": "An tsavyg zasvarlasny daraa l zövshööröl olgoson."
+  },
+  {
+   "mn": "Галын аюулгүй байдлын магадлал гараагүй бол барилгыг ашиглалтад оруулахгүй.",
+   "en": "If the fire safety certification has not been issued, the building will not be put into operation.",
+   "alt_mn": [
+    "Галын аюулгүй байдлын магадлалгүйгээр барилгыг ашиглалтад оруулахгүй."
+   ],
+   "alt_en": [
+    "Without fire safety certification, the building will not be commissioned."
+   ],
+   "mn_latin": "Galyn ayuulgüi baidlyn magadlal garaagüi bol barilgyg ashiglaltad oruulakhgüi."
+  },
+  {
+   "mn": "Шалгуур бүрийн дагуу хэмжилт хийж, үр дүнг актад тусгана.",
+   "en": "Measurements are taken against each criterion, and the results are recorded in the report.",
+   "alt_mn": [
+    "Шалгуур бүрээр хэмжилт хийгээд үр дүнг актад тусгана."
+   ],
+   "alt_en": [
+    "Measurements are made for each criterion and the results are included in the report."
+   ],
+   "mn_latin": "Shalguur büriin daguu khemjilt khiij, ür düng aktad tusgana."
+  },
+  {
+   "mn": "Хананы зузаан стандартын хэмжээнд хүрээгүй байна.",
+   "en": "The wall thickness does not meet the standard.",
+   "alt_mn": [
+    "Хананы зузаан стандартын хэмжээнээс бага байна."
+   ],
+   "alt_en": [
+    "The walls are thinner than the standard requires."
+   ],
+   "mn_latin": "Khanany zuzaan standartyn khemjeend khüreegüi baina."
+  },
+  {
+   "mn": "Энэ нь заавал биелүүлэх шаардлага биш, зөвхөн санамж юм.",
+   "en": "This is not a mandatory requirement, only an advisory note.",
+   "alt_mn": [
+    "Энэ бол заавал биелүүлэх шаардлага биш, зүгээр л санамж."
+   ],
+   "alt_en": [
+    "This isn't a binding requirement, just an advisory note."
+   ],
+   "mn_latin": "Ene ni zaaval biyelüülekh shaardlaga bish, zövkhön sanamj yum."
+  },
+  {
+   "mn": "Тэр үед л барилгын компани цахилгааны утсыг солихыг зөвшөөрсөн.",
+   "en": "Only then did the developer agree to replace the wiring.",
+   "alt_mn": [
+    "Зөвхөн тэр үед л барилгын компани цахилгааны утсыг солихыг зөвшөөрсөн."
+   ],
+   "alt_en": [
+    "Only then did the construction company agree to replace the wiring."
+   ],
+   "mn_latin": "Ter üyed l barilgyn kompani tsakhilgaany utsyg solikhyg zövshöörsön."
+  },
+  {
+   "mn": "Байцаагч зөрчлийг 30 хоногийн дотор арилгах шаардлага хүргүүлсэн.",
+   "en": "The inspector issued a requirement to correct the violations within 30 days.",
+   "alt_mn": [
+    "Байцаагч зөрчлийг 30 хоногт багтаан арилгахыг шаардсан."
+   ],
+   "alt_en": [
+    "The inspector required the violations to be corrected within 30 days."
+   ],
+   "mn_latin": "Baitsaagch zörchliig 30 khonogiin dotor arilgakh shaardlaga khürgüülsen."
+  },
+  {
+   "mn": "Комиссын шийдвэрээр барилгыг ашиглалтад оруулахыг түр хойшлууллаа.",
+   "en": "By decision of the commission, the commissioning of the building has been temporarily postponed.",
+   "alt_mn": [
+    "Комисс барилгыг ашиглалтад оруулахыг түр хойшлуулах шийдвэр гаргалаа."
+   ],
+   "alt_en": [
+    "The commission decided to temporarily postpone putting the building into operation."
+   ],
+   "mn_latin": "Komissyn shiidvereer barilgyg ashiglaltad oruulakhyg tür khoishluullaa."
+  },
+  {
+   "mn": "Дахин шалгалт хийсний дараа л барилгыг ашиглалтад оруулна.",
+   "en": "Only after a second inspection will the building be put into operation.",
+   "alt_mn": [
+    "Давтан шалгалт хийсний дараа л барилгыг ашиглалтад оруулна."
+   ],
+   "alt_en": [
+    "Only after a re-inspection will the building be commissioned."
+   ],
+   "mn_latin": "Dakhin shalgalt khiisnii daraa l barilgyg ashiglaltad oruulna."
+  },
+  {
+   "mn": "Галын дохиоллын системийн засвар дуусаагүй байсан.",
+   "en": "Repairs to the fire alarm system had not been finished.",
+   "alt_mn": [
+    "Галын дохиоллын системийн засвар хараахан дуусаагүй байсан."
+   ],
+   "alt_en": [
+    "The repair of the fire alarm system had not been completed."
+   ],
+   "mn_latin": "Galyn dokhiollyn sistyemiin zasvar duusaagüi baisan."
+  },
+  {
+   "mn": "Зураг төслийн магадлалгүйгээр барилгын ажлыг эхлүүлсэн нь ноцтой зөрчил юм.",
+   "en": "Starting construction without an expert review of the design is a serious violation.",
+   "alt_mn": [
+    "Зураг төсөлд магадлал хийлгэлгүй барилгын ажлыг эхлүүлэх нь ноцтой зөрчил."
+   ],
+   "alt_en": [
+    "Beginning construction without design certification is a serious violation."
+   ],
+   "mn_latin": "Zurag tösliin magadlalgüigeer barilgyn ajlyg ekhlüülsen ni notstoi zörchil yum."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal nouns from verbs: -уур/-үүр, -мж, -вэр/-вар (and English \"Only after… + inversion\")",
+  "title_mn": "Үйл үгээс бүтсэн албан ёсны нэр үг ба англи хэлний \"Only after…\" урвуу дараалал",
+  "explain_en": "Official inspection reports in Mongolian depend on nouns built from verbs, and each suffix gives a different shade of meaning. -уур/-үүр makes a tool or means for doing something: шалгах 'to check' → шалгуур 'criterion' (the thing you check against), хэмжих 'to measure' → хэмжүүр 'measure, benchmark'. Compare it with хэмжээ 'size, amount', which is the result of measuring: the wall's хэмжээ is its actual size, while хэмжүүр is the yardstick you judge it by. -мж makes a noun for a piece of advice or a mental note: санах 'to remember' → санамж 'reminder', зөвлөх 'to advise' → зөвлөмж 'recommendation'. These are soft and not binding. A шаардлага (from шаардах 'to demand') is binding. In a report, the difference between шаардлага and санамж decides whether the builder must act. -вэр/-вар makes the finished outcome of an action: шийдэх 'to decide' → шийдвэр 'decision', засах 'to fix' → засвар 'repair'. Pick -вэр or -вар by vowel harmony. In English, when \"Only after…\" or \"Only then\" starts a sentence, the auxiliary of the main clause comes before the subject, as in a question: \"Only after the cracks were repaired was the permit issued.\" The \"Only after\" clause itself keeps normal word order. If there is no auxiliary, add do/does/did: \"Only then did the developer agree.\" In the future, \"will\" moves forward: \"Only after a second inspection will the building be commissioned.\" Mongolian expresses the same emphasis with the particle л: \"-ны дараа л\", \"тэр үед л\". This pattern is common in official documents and reports.",
+  "explain_mn": "Монгол хэлний хяналт шалгалтын албан бичигт үйл үгээс бүтсэн нэр үг их хэрэглэгддэг бөгөөд дагавар бүр өөр утгын өнгө өгдөг. -уур/-үүр нь ямар нэг зүйл хийх хэрэгсэл, арга хэрэгслийг заана: шалгах → шалгуур (юугаар нь шалгах вэ), хэмжих → хэмжүүр. Үүнийг хэмжээтэй харьцуулаарай. Хэмжээ нь хэмжсэний үр дүн, жишээ нь хананы бодит хэмжээ. Харин хэмжүүр нь түүнийг үнэлэх жишиг юм. -мж нь зөвлөгөө, сануулгыг заана: санах → санамж, зөвлөх → зөвлөмж. Эдгээр нь заавал биелүүлэх зүйл биш. Харин шаардлага (шаардах үйл үгээс) заавал биелүүлэх ёстой. Актад шаардлага уу, санамж уу гэдгээс барилгын компани заавал арга хэмжээ авах эсэх шийдэгдэнэ. -вэр/-вар нь үйлдлийн эцсийн үр дүнг заана: шийдэх → шийдвэр, засах → засвар. -вэр эсвэл -вар-ыг эгшиг зохицлоор сонгоно. Англи хэлэнд \"Only after…\" эсвэл \"Only then\" өгүүлбэрийн эхэнд орвол гол өгүүлбэрийн туслах үйл үг өгүүлэгдэхүүний өмнө гарна. Үүнийг асуух өгүүлбэр шиг урвуу дараалал гэж ойлгож болно. Жишээ нь: \"Only after the cracks were repaired was the permit issued.\" Энд эхний хэсэг (the cracks were repaired) энгийн дараалалтай, харин гол хэсэгт \"was the permit\" гэж урвуулна. Туслах үйл үг байхгүй бол do/does/did нэмнэ: \"Only then did the developer agree.\" Ирээдүйд \"will\" урд гарна: \"Only after a second inspection will the building be commissioned.\" Монгол хэлэнд үүнийг \"-ны дараа л\", \"тэр үед л\" гэж \"л\" сул үгээр онцолдог. Энэ бүтэц албан бичиг, тайланд их хэрэглэгддэг.",
+  "examples": [
+   {
+    "mn": "Чанарын гол шалгуур бол бетоны бат бөх.",
+    "en": "The main quality criterion is the strength of the concrete.",
+    "mn_latin": "Chanaryn gol shalguur bol byetony bat bökh."
+   },
+   {
+    "mn": "Хаалганы хэмжээ стандартын хэмжүүрт нийцэхгүй байна.",
+    "en": "The size of the door does not match the standard benchmark.",
+    "mn_latin": "Khaalgany khemjee standartyn khemjüürt niitsekhgüi baina."
+   },
+   {
+    "mn": "Актад хоёр шаардлага, нэг санамж тусгасан.",
+    "en": "The report contains two requirements and one advisory note.",
+    "mn_latin": "Aktad khoyor shaardlaga, neg sanamj tusgasan."
+   },
+   {
+    "mn": "Засвар дууссаны дараа л комисс шийдвэр гаргасан.",
+    "en": "Only after the repairs were finished did the commission make its decision.",
+    "mn_latin": "Zasvar duussany daraa l komiss shiidver gargasan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Байцаагч зөрчлийн ___ тогтоолоо.",
+   "answer": "акт",
+   "options": [
+    "акт",
+    "шийдвэр",
+    "санамж",
+    "хэмжүүр"
+   ],
+   "translation": "The inspector drew up a violation report.",
+   "explain_en": "The fixed collocation is \"акт тогтоох\", meaning to draw up an official report of findings. A шийдвэр is \"гаргах\" (made), a санамж is \"өгөх\" (given), and хэмжүүр means a measure, not a document.",
+   "explain_mn": "\"Акт тогтоох\" бол тогтсон хэллэг. Шийдвэрийг \"гаргадаг\", санамжийг \"өгдөг\". Хэмжүүр нь баримт бичиг биш."
+  },
+  {
+   "lang": "mn",
+   "text": "Комиссын шийд___ гарсны дараа барилгыг ашиглалтад оруулна.",
+   "answer": "вэр",
+   "options": [
+    "вэр",
+    "вар",
+    "мж",
+    "үүр"
+   ],
+   "translation": "The building will be put into operation after the commission's decision is issued.",
+   "explain_en": "шийдэх → шийдвэр 'decision'. The suffix -вэр/-вар names the finished result of an action, and шийд- takes the front-vowel form -вэр. The suffix -мж would mean advice, and -үүр would mean a tool or means.",
+   "explain_mn": "Шийдэх → шийдвэр. -вэр/-вар нь үйлдлийн үр дүнг заана. Эгшиг зохицлын дагуу энд -вэр орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ бол заавал биелүүлэх ___ биш, зөвхөн санамж.",
+   "answer": "шаардлага",
+   "options": [
+    "шаардлага",
+    "зөвлөмж",
+    "хэмжээ",
+    "магадлал"
+   ],
+   "translation": "This is not a mandatory requirement, only an advisory note.",
+   "explain_en": "The sentence contrasts a binding demand with a soft note. \"Заавал биелүүлэх\" (mandatory) goes with шаардлага. Зөвлөмж is itself non-binding advice, so the contrast would make no sense.",
+   "explain_mn": "\"Заавал биелүүлэх\" гэдэг нь шаардлагатай холбогдоно. Зөвлөмж нь санамжтай адил заавал биш тул эсрэгцэл үүсэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Only after the cracks were repaired ___ the permit issued.",
+   "answer": "was",
+   "options": [
+    "was",
+    "were",
+    "did",
+    "the"
+   ],
+   "translation": "Ан цавыг засварласны дараа л зөвшөөрөл олгосон.",
+   "explain_en": "After an \"Only after…\" clause, the main clause inverts: the auxiliary comes before the subject. The subject \"the permit\" is singular and the verb is passive past, so the answer is \"was\".",
+   "explain_mn": "\"Only after…\" хэсгийн дараа гол өгүүлбэрт туслах үйл үг өгүүлэгдэхүүний өмнө гарна. \"The permit\" ганц тоо, үйл үг идэвхгүй хэвийн өнгөрсөн цаг тул \"was\" орно."
+  },
+  {
+   "lang": "en",
+   "text": "Only then ___ the developer agree to replace the wiring.",
+   "answer": "did",
+   "options": [
+    "did",
+    "had",
+    "was",
+    "agreed"
+   ],
+   "translation": "Тэр үед л барилгын компани цахилгааны утсыг солихыг зөвшөөрсөн.",
+   "explain_en": "There is no auxiliary in the plain sentence (\"the developer agreed\"), so inversion needs \"did\", and the main verb returns to its base form \"agree\".",
+   "explain_mn": "Энгийн өгүүлбэрт туслах үйл үг байхгүй (the developer agreed). Тиймээс урвуулахдаа \"did\" нэмж, үндсэн үйл үг \"agree\" хэлбэрт орно."
+  },
+  {
+   "lang": "en",
+   "text": "Only after a second inspection ___ the building be put into operation.",
+   "answer": "will",
+   "options": [
+    "will",
+    "is",
+    "has",
+    "does"
+   ],
+   "translation": "Дахин шалгалт хийсний дараа л барилгыг ашиглалтад оруулна.",
+   "explain_en": "The bare verb \"be\" follows, so a modal is needed. This is about the future, so the answer is \"will\", which moves in front of the subject.",
+   "explain_mn": "Араас нь \"be\" гэсэн үндсэн хэлбэр ирж байгаа тул модаль үйл үг хэрэгтэй. Ирээдүй цаг учраас \"will\" өгүүлэгдэхүүний өмнө гарна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батбаяр",
+   "mn": "Өглөөний мэнд. Бид мэргэжлийн хяналтаас ирлээ. Барилгыг ашиглалтад оруулахын өмнөх шалгалт хийнэ.",
+   "en": "Good morning. We're from the state inspection agency. We'll be carrying out the inspection before the building is put into operation.",
+   "mn_latin": "Öglöönii mend. Bid mergejliin khyanaltaas irlee. Barilgyg ashiglaltad oruulakhyn ömnökh shalgalt khiine."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Тавтай морил. Бүх баримт бичиг, зураг төслийн магадлалын дүгнэлт бэлэн байгаа.",
+   "en": "Welcome. All the documents and the expert review of the design are ready.",
+   "mn_latin": "Tavtai moril. Bükh barimt bichig, zurag tösliin magadlalyn dügnelt belen baigaa."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Гуравдугаар давхрын хананд ан цав байна. Энэ нь стандартын зөрчил.",
+   "en": "There are cracks in the third-floor wall. That's a violation of the standard.",
+   "mn_latin": "Guravdugaar davkhryn khanand an tsav baina. Ene ni standartyn zörchil."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Үүнийг яаралтай засна. Өөр зөрчил илэрсэн үү?",
+   "en": "We'll fix that right away. Did you find any other violations?",
+   "mn_latin": "Üüniig yaaraltai zasna. Öör zörchil ilersen üü?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Галын гарцын тэмдэглэгээ дутуу байна. Энэ бол шаардлага. Харин агааржуулалтын талаар зөвхөн санамж өгье.",
+   "en": "The fire exit signs are incomplete. That's a requirement. On ventilation, though, I'll just give you an advisory note.",
+   "mn_latin": "Galyn gartsyn temdeglegee dutuu baina. Ene bol shaardlaga. Kharin agaarjuulaltyn talaar zövkhön sanamj ögiye."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Ойлголоо. Засварыг хэдэн хоногт дуусгах ёстой вэ?",
+   "en": "Understood. How many days do we have to finish the repairs?",
+   "mn_latin": "Oilgoloo. Zasvaryg kheden khonogt duusgakh yostoi ve?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Актад 14 хоног гэж заана. Дахин шалгасны дараа л комисс шийдвэр гаргана.",
+   "en": "The report will say 14 days. Only after a re-inspection will the commission make its decision.",
+   "mn_latin": "Aktad 14 khonog gej zaana. Dakhin shalgasny daraa l komiss shiidver gargana."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Тэгвэл хоёр долоо хоногийн дараа дахин уулзъя.",
+   "en": "Then let's meet again in two weeks.",
+   "mn_latin": "Tegvel khoyor doloo khonogiin daraa dakhin uulzya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, a new building cannot be occupied until a state acceptance commission has inspected it and signed off on putting it into operation (ашиглалтад оруулах). Because the construction season in Ulaanbaatar is short, builders often rush to finish before winter. Inspectors' violation reports and correction deadlines are a familiar part of that race, and buyers of new apartments often ask whether the building has been officially commissioned yet.",
+  "mn": "Монголд шинэ барилгыг улсын хүлээн авах комисс шалгаж, ашиглалтад оруулах шийдвэр гаргахаас өмнө ашиглах боломжгүй. Улаанбаатарт барилгын улирал богино тул компаниуд өвөл болохоос өмнө ажлаа дуусгах гэж яардаг. Байцаагчийн зөрчлийн акт, засварын хугацаа нь энэ уралдааны салшгүй хэсэг болдог. Шинэ орон сууц худалдан авагчид барилга албан ёсоор ашиглалтад орсон эсэхийг ихэвчлэн асуудаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 0,
+  "notes": "Accurate, natural Mongolian and English throughout. Suffix explanations and inversion explanations are correct, fill-in-the-blank answers are unambiguous, and the translation pairs match. No real errors found."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "Main problem was mismatched grammar explanations; the rest only needed one small English wording fix.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; now both cover both"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation omitted the suffix section; now matches en"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "en",
+    "why": "unnatural English 'reach the standard size'"
+   }
+  ]
+ }
+}

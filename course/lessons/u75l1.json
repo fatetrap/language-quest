@@ -1,0 +1,484 @@
+{
+ "intro_en": "You will learn the names of basic camping gear and how to talk about plans that did not happen using -х байсан юм, which matches English 'was going to' and 'should have + past participle'.",
+ "intro_mn": "Та кемпингийн үндсэн хэрэгслийн нэрс болон биелээгүй төлөвлөгөөг -х байсан юм хэлбэрээр хэрхэн хэлэхийг сурна. Энэ нь англи хэлний 'was going to', 'should have + past participle' бүтэцтэй тохирно.",
+ "vocab": [
+  {
+   "mn": "майхан",
+   "en": "tent",
+   "pos": "noun",
+   "example_mn": "Бид шинэ майхан авсан.",
+   "example_en": "We bought a new tent.",
+   "mn_latin": "maikhan"
+  },
+  {
+   "mn": "унтлагын уут",
+   "en": "sleeping bag",
+   "pos": "noun",
+   "example_mn": "Миний унтлагын уут маш дулаан.",
+   "example_en": "My sleeping bag is very warm.",
+   "mn_latin": "untlagyn uut"
+  },
+  {
+   "mn": "бугуйвч",
+   "en": "bracelet",
+   "pos": "noun",
+   "example_mn": "Тэр бугуйвчаа орхисон.",
+   "example_en": "She left her bracelet behind.",
+   "mn_latin": "buguivch"
+  },
+  {
+   "mn": "гар чийдэн",
+   "en": "flashlight",
+   "pos": "noun",
+   "example_mn": "Шөнө гар чийдэн хэрэгтэй.",
+   "example_en": "You need a flashlight at night.",
+   "mn_latin": "gar chiiden"
+  },
+  {
+   "mn": "үүргэвч",
+   "en": "backpack",
+   "pos": "noun",
+   "example_mn": "Үүргэвч маань хэтэрхий хүнд байна.",
+   "example_en": "My backpack is too heavy.",
+   "mn_latin": "üürgevch"
+  },
+  {
+   "mn": "анхны тусламжийн хэрэгсэл",
+   "en": "first-aid kit",
+   "pos": "noun",
+   "example_mn": "Анхны тусламжийн хэрэгслээ мартаж болохгүй.",
+   "example_en": "Don't forget the first-aid kit.",
+   "mn_latin": "ankhny tuslamjiin kheregsel"
+  },
+  {
+   "mn": "хийн плит",
+   "en": "camping stove",
+   "pos": "noun",
+   "example_mn": "Хийн плитээр цай чанаж болно.",
+   "example_en": "You can boil tea on the camping stove.",
+   "mn_latin": "khiin plit"
+  },
+  {
+   "mn": "жагсаалт",
+   "en": "list",
+   "pos": "noun",
+   "example_mn": "Хэрэгтэй юмсын жагсаалт гаргацгаая.",
+   "example_en": "Let's make a list of what we need.",
+   "mn_latin": "jagsaalt"
+  },
+  {
+   "mn": "мартах",
+   "en": "to forget",
+   "pos": "verb",
+   "example_mn": "Би шүдний оогоо мартсан.",
+   "example_en": "I forgot my toothpaste.",
+   "mn_latin": "martakh"
+  },
+  {
+   "mn": "бэлтгэх",
+   "en": "to prepare, to pack",
+   "pos": "verb",
+   "example_mn": "Бид баасан гарагт бэлтгэнэ.",
+   "example_en": "We will pack on Friday.",
+   "mn_latin": "beltgekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид энэ амралтын өдөр Тэрэлжид майхантай явна.",
+   "en": "We are going camping in Terelj this weekend.",
+   "alt_mn": [
+    "Бид энэ амралтаар Тэрэлжид майхан барьж амрахаар явна."
+   ],
+   "alt_en": [
+    "This weekend we're going to Terelj to camp."
+   ],
+   "mn_latin": "Bid ene amraltyn ödör Tereljid maikhantai yavna."
+  },
+  {
+   "mn": "Би гар чийдэн авчрах байсан юм.",
+   "en": "I was going to bring a flashlight.",
+   "alt_mn": [
+    "Би гар чийдэн авчрахаар бодож байсан."
+   ],
+   "alt_en": [
+    "I meant to bring a flashlight."
+   ],
+   "mn_latin": "Bi gar chiiden avchrakh baisan yum."
+  },
+  {
+   "mn": "Чи майхнаа авчрах байсан юм.",
+   "en": "You should have brought your tent.",
+   "alt_mn": [
+    "Чи майхнаа авчрах ёстой байсан."
+   ],
+   "alt_en": [
+    "You were supposed to bring your tent."
+   ],
+   "mn_latin": "Chi maikhnaa avchrakh baisan yum."
+  },
+  {
+   "mn": "Унтлагын уутыг хэн авсан бэ?",
+   "en": "Who took the sleeping bag?",
+   "alt_mn": [
+    "Унтлагын уутыг хэн авчихсан бэ?"
+   ],
+   "alt_en": [
+    "Who has taken the sleeping bag?"
+   ],
+   "mn_latin": "Untlagyn uutyg khen avsan be?"
+  },
+  {
+   "mn": "Бид хийн плитээ мартчихсан.",
+   "en": "We forgot our camping stove.",
+   "alt_mn": [
+    "Бид хийн плитээ мартсан."
+   ],
+   "alt_en": [
+    "We have forgotten our camping stove."
+   ],
+   "mn_latin": "Bid khiin plitee martchikhsan."
+  },
+  {
+   "mn": "Анхны тусламжийн хэрэгслээ үүргэвчиндээ хийх байсан юм.",
+   "en": "I was going to put the first-aid kit in my backpack.",
+   "alt_mn": [
+    "Анхны тусламжийн хэрэгслээ үүргэвчинд хийх байсан юм."
+   ],
+   "alt_en": [
+    "I meant to put the first-aid kit in my backpack."
+   ],
+   "mn_latin": "Ankhny tuslamjiin kheregslee üürgevchindee khiikh baisan yum."
+  },
+  {
+   "mn": "Жагсаалтаа өчигдөр шалгах байсан юм.",
+   "en": "I should have checked the list yesterday.",
+   "alt_mn": [
+    "Жагсаалтаа өчигдөр шалгах ёстой байсан."
+   ],
+   "alt_en": [
+    "I meant to check the list yesterday."
+   ],
+   "mn_latin": "Jagsaaltaa öchigdör shalgakh baisan yum."
+  },
+  {
+   "mn": "Бид илүү дулаан хувцас авах байсан юм.",
+   "en": "We should have brought warmer clothes.",
+   "alt_mn": [
+    "Бид илүү дулаан хувцас авчрах байсан юм."
+   ],
+   "alt_en": [
+    "We were going to bring warmer clothes."
+   ],
+   "mn_latin": "Bid ilüü dulaan khuvtsas avakh baisan yum."
+  },
+  {
+   "mn": "Энэ үүргэвч надад хэт жижиг байна.",
+   "en": "This backpack is too small for me.",
+   "alt_mn": [
+    "Энэ үүргэвч миний хувьд хэт жижиг байна."
+   ],
+   "alt_en": [
+    "This backpack's too small for me."
+   ],
+   "mn_latin": "Ene üürgevch nadad khet jijig baina."
+  },
+  {
+   "mn": "Тэр хийн плит худалдаж авах байсан юм, гэхдээ мөнгө нь дутсан.",
+   "en": "He was going to buy a camping stove, but he didn't have enough money.",
+   "alt_mn": [
+    "Тэр хийн плит авах байсан юм, гэвч мөнгө нь хүрээгүй."
+   ],
+   "alt_en": [
+    "He meant to buy a camping stove, but he ran short of money."
+   ],
+   "mn_latin": "Ter khiin plit khudaldaj avakh baisan yum, gekhdee möngö ni dutsan."
+  },
+  {
+   "mn": "Шөнө хүйтэн байх тул унтлагын уут маш чухал.",
+   "en": "Since the nights are cold, a sleeping bag is very important.",
+   "alt_mn": [
+    "Шөнө хүйтэн учраас унтлагын уут их чухал."
+   ],
+   "alt_en": [
+    "Because it's cold at night, a sleeping bag is very important."
+   ],
+   "mn_latin": "Shönö khüiten baikh tul untlagyn uut mash chukhal."
+  },
+  {
+   "mn": "Бид бүх юмаа үүргэвчиндээ амархан багтаалаа.",
+   "en": "We fit everything into our backpacks easily.",
+   "alt_mn": [
+    "Бид бүх юмаа үүргэвчиндээ багтаалаа."
+   ],
+   "alt_en": [
+    "We managed to fit everything in our backpacks."
+   ],
+   "mn_latin": "Bid bükh yumaa üürgevchindee amarkhan bagtaalaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "-х байсан юм: things you meant to do",
+  "title_mn": "-х байсан юм: хийхээр төлөвлөсөн боловч хийгээгүй зүйл",
+  "explain_en": "Add -х (the future/intention participle) to a verb stem, then байсан юм, to say you were going to do something but did not: авах байсан юм = 'I was going to take/bring it.' Often the context or a following 'гэхдээ…' (but…) tells us it did not happen. In English, for a forgotten item that was expected, you say 'I should have brought it' (should have + past participle). Mongolian often uses the same pattern: Би авчрах байсан юм can mean both 'I was going to bring it' and 'I should have brought it.' To stress obligation, you can add ёстой: авчрах ёстой байсан.",
+  "explain_mn": "Үйл үгийн язгуур дээр -х (ирээдүй/санааны нөхцөл) залгаад байсан юм гэвэл хийхээр бодож байсан ч хийгээгүйг илэрхийлнэ: авах байсан юм = 'I was going to take/bring it.' Ихэвчлэн нөхцөл байдал эсвэл араас нь ирэх 'гэхдээ…' нь тэр үйл болоогүйг харуулна. Англи хэлэнд авчрах ёстой байсан зүйлээ мартсан бол 'I should have brought it' (should have + V3; brought, forgotten, checked) гэнэ. 'Was going to + verb' нь зүгээр л төлөвлөсөн боловч хийгээгүй зүйл: I was going to call you. Монгол хэлэнд Би авчрах байсан юм нь хоёр утгыг хоёуланг нь илэрхийлж чадна. Үүрэг гэдгийг тодотгох бол ёстой нэмнэ: авчрах ёстой байсан.",
+  "examples": [
+   {
+    "mn": "Би майхнаа авчрах байсан юм.",
+    "en": "I should have brought my tent.",
+    "mn_latin": "Bi maikhnaa avchrakh baisan yum."
+   },
+   {
+    "mn": "Бид эрт гарах байсан юм.",
+    "en": "We were going to leave early.",
+    "mn_latin": "Bid ert garakh baisan yum."
+   },
+   {
+    "mn": "Тэр анхны тусламжийн хэрэгсэл бэлдэх байсан юм.",
+    "en": "She was going to prepare a first-aid kit.",
+    "mn_latin": "Ter ankhny tuslamjiin kheregsel beldekh baisan yum."
+   },
+   {
+    "mn": "Чи гар чийдэнгээ шалгах байсан юм.",
+    "en": "You should have checked your flashlight.",
+    "mn_latin": "Chi gar chiidengee shalgakh baisan yum."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би гар чийдэн авчрах ___ юм.",
+   "answer": "байсан",
+   "options": [
+    "байсан",
+    "байна",
+    "байх",
+    "бий"
+   ],
+   "translation": "I was going to bring a flashlight.",
+   "explain_en": "The pattern is verb + -х + байсан юм for an intention that did not happen.",
+   "explain_mn": "Биелээгүй санааг -х байсан юм гэж илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид хийн плитээ ___.",
+   "answer": "мартчихсан",
+   "options": [
+    "мартчихсан",
+    "мартах",
+    "мартаарай",
+    "мартдаг"
+   ],
+   "translation": "We forgot our camping stove.",
+   "explain_en": "Past completed action: мартчихсан means 'have forgotten'. Мартах is the base form and does not fit.",
+   "explain_mn": "Өнгөрсөн дууссан үйлийг мартчихсан гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Унтлагын ___ маш дулаан байна.",
+   "answer": "уут",
+   "options": [
+    "уут",
+    "чийдэн",
+    "майхан",
+    "жагсаалт"
+   ],
+   "translation": "The sleeping bag is very warm.",
+   "explain_en": "'Унтлагын уут' is the fixed phrase for sleeping bag.",
+   "explain_mn": "Унтлагын уут гэдэг нь sleeping bag гэсэн тогтвортой хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "I forgot my tent. I ___ brought it.",
+   "answer": "should have",
+   "options": [
+    "should have",
+    "should",
+    "was should",
+    "should had"
+   ],
+   "translation": "Би майхнаа мартсан. Би авчрах ёстой байсан.",
+   "explain_en": "Use should have + past participle for something you failed to do.",
+   "explain_mn": "Хийгээгүй ёстой зүйлд should have + V3 хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "We ___ going to buy a stove, but the shop was closed.",
+   "answer": "were",
+   "options": [
+    "were",
+    "are",
+    "have",
+    "did"
+   ],
+   "translation": "Бид плит авах байсан юм, гэвч дэлгүүр хаалттай байсан.",
+   "explain_en": "'Were going to' expresses a past plan that did not happen.",
+   "explain_mn": "'Were going to' нь биелээгүй өнгөрсөн төлөвлөгөөг заана."
+  },
+  {
+   "lang": "en",
+   "text": "You should have ___ the first-aid kit.",
+   "answer": "packed",
+   "options": [
+    "packed",
+    "pack",
+    "packing",
+    "packs"
+   ],
+   "translation": "Чи анхны тусламжийн хэрэгслээ бэлдэх ёстой байсан.",
+   "explain_en": "After should have, use the past participle: packed.",
+   "explain_mn": "Should have-ийн дараа үйл үгийн гуравдахь хэлбэр орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Бид Тэрэлжид явахад бэлэн үү? Жагсаалтаа шалгацгаая.",
+   "en": "Are we ready for Terelj? Let's check our list.",
+   "mn_latin": "Bid Tereljid yavakhad belen üü? Jagsaaltaa shalgatsgaaya."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Майхан, унтлагын уут, хийн плит байна. Гар чийдэн хаана байна?",
+   "en": "We have the tent, sleeping bags, and stove. Where is the flashlight?",
+   "mn_latin": "Maikhan, untlagyn uut, khiin plit baina. Gar chiiden khaana baina?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Өө, би гар чийдэн авчрах байсан юм. Мартчихжээ.",
+   "en": "Oh, I was going to bring a flashlight. I forgot it.",
+   "mn_latin": "Öö, bi gar chiiden avchrakh baisan yum. Martchikhjee."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Чи өчигдөр шалгах байсан юм шүү дээ.",
+   "en": "You should have checked yesterday, you know.",
+   "mn_latin": "Chi öchigdör shalgakh baisan yum shüü dee."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тийм ээ. Гэхдээ анхны тусламжийн хэрэгсэл үүргэвчинд байгаа.",
+   "en": "True. But the first-aid kit is in the backpack.",
+   "mn_latin": "Tiim ee. Gekhdee ankhny tuslamjiin kheregsel üürgevchind baigaa."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Сайн байна. Би утасныхаа гэрлийг ашиглаж болно.",
+   "en": "Good. I can use my phone's light.",
+   "mn_latin": "Sain baina. Bi utasnykhaa gerliig ashiglaj bolno."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "За, замдаа дэлгүүрт орж нэгийг нь авъя.",
+   "en": "OK, let's stop at a shop on the way and buy one.",
+   "mn_latin": "Za, zamdaa delgüürt orj negiig ni avya."
+  },
+  {
+   "speaker": "Сара",
+   "mn": "Тэгье. Дараагийн удаа эрт бэлдэх хэрэгтэй.",
+   "en": "Let's do that. Next time we need to prepare earlier.",
+   "mn_latin": "Tegiye. Daraagiin udaa ert beldekh kheregtei."
+  }
+ ],
+ "culture_note": {
+  "en": "Terelj, in Gorkhi-Terelj National Park about an hour or two from Ulaanbaatar, is a popular weekend getaway with granite rocks, rivers, and ger camps. Many families and friends camp there in summer, but nights can be cold even in July, so a warm sleeping bag matters. Campers often grill or cook buuz and boil milk tea over a stove.",
+  "mn": "Тэрэлж нь Улаанбаатараас нэг, хоёр цагийн зайд орших Горхи-Тэрэлжийн байгалийн цогцолборт газарт байдаг бөгөөд боржин хад, гол горхи, жуулчны гэр баазаараа алдартай, амралтын өдрөөр очих дуртай газар юм. Зуны улиралд олон гэр бүл, найз нөхөд тэнд майхан барьж амардаг ч долдугаар сард ч шөнө хүйтэн байдаг тул дулаан унтлагын уут чухал. Хүмүүс плитэн дээр сүүтэй цай чанаж, бууз хийж, мах шарж иддэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 21,
+  "notes": "Many real issues with авах/авчрах, pairs that do not match, and a few illogical lines; the rest is mostly fine, though some listed fixes are minor consistency edits."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed object case, duplicate and wrong alternatives, a nonstandard verb, the grammar explanation mismatch, and the culture note mismatch.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "A definite object needs the reflexive/accusative ending: оогоо."
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_en",
+    "why": "Matches the reflexive оогоо."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "'This weekend' was missing (энэ)."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "'Майхалж' is not a standard form; 'майхан барьж' is the natural phrasing."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "The alternative was a duplicate of the main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "Reflexive -аа with хэн reads as 'their own bag'; the accusative is the correct form."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "Replaces the alternative that duplicated the corrected main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_en",
+    "why": "'Who had' does not mean the same as 'who took'."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "The alternative was a duplicate of the main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "Сайн does not mean 'easily'."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn explanation did not match the en one (it left out ёстой and the double meaning, and added shouldn't have)."
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "Standard spelling of the form is мартчихжээ."
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "The Mongolian has no 'I' and refers to both of them."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Brought in line with the en note (rocks, rivers, ger camps); replaced the nonstandard 'майхалдаг'."
+   }
+  ]
+ }
+}

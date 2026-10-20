@@ -1,0 +1,482 @@
+{
+ "intro_en": "You will learn to report what someone asked or requested: reported questions with ask if/whether and wh- words, and requests with tell/ask someone to do something. In Mongolian you will use -х уу гэж асуусан, -сныг асуусан, -хыг хүссэн and -аарай гэж хэлсэн.",
+ "intro_mn": "Та өөр хүний асуусан асуулт, тавьсан хүсэлтийг дамжуулж сурна. Англи хэлэнд ask if/whether, асуух үг, tell/ask someone to do бүтцийг, монгол хэлэнд -х уу гэж асуусан, -сныг асуусан, -хыг хүссэн, -аарай гэж хэлсэн бүтцийг хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "асуух",
+   "en": "to ask (a question)",
+   "pos": "verb",
+   "example_mn": "Багш надаас асуулт асуусан.",
+   "example_en": "The teacher asked me a question.",
+   "mn_latin": "asuukh"
+  },
+  {
+   "mn": "хүсэх",
+   "en": "to request, to ask for",
+   "pos": "verb",
+   "example_mn": "Эмч надаас амрахыг хүссэн.",
+   "example_en": "The doctor asked me to rest.",
+   "mn_latin": "khüsekh"
+  },
+  {
+   "mn": "захих",
+   "en": "to instruct, to tell (to do)",
+   "pos": "verb",
+   "example_mn": "Дарга надад мэдээлэл илгээхийг захисан.",
+   "example_en": "The boss told me to send the information.",
+   "mn_latin": "zakhikh"
+  },
+  {
+   "mn": "санал болгох",
+   "en": "to suggest",
+   "pos": "verb",
+   "example_mn": "Эмч алхахыг санал болгосон.",
+   "example_en": "The doctor suggested walking.",
+   "mn_latin": "sanal bolgokh"
+  },
+  {
+   "mn": "хариулах",
+   "en": "to answer",
+   "pos": "verb",
+   "example_mn": "Би асуултад хариулсан.",
+   "example_en": "I answered the question.",
+   "mn_latin": "khariulakh"
+  },
+  {
+   "mn": "асуулт",
+   "en": "question",
+   "pos": "noun",
+   "example_mn": "Энэ асуулт хэцүү байна.",
+   "example_en": "This question is difficult.",
+   "mn_latin": "asuult"
+  },
+  {
+   "mn": "хүсэлт",
+   "en": "request",
+   "pos": "noun",
+   "example_mn": "Миний хүсэлтийг хүлээж авсан.",
+   "example_en": "My request was accepted.",
+   "mn_latin": "khüselt"
+  },
+  {
+   "mn": "бичиг баримт",
+   "en": "documents",
+   "pos": "noun",
+   "example_mn": "Ажилтан надаас бичиг баримтаа үзүүлэхийг хүссэн.",
+   "example_en": "The clerk asked me to show my documents.",
+   "mn_latin": "bichig barimt"
+  },
+  {
+   "mn": "дахин",
+   "en": "again",
+   "pos": "adverb",
+   "example_mn": "Дахин хэлээч.",
+   "example_en": "Please say it again.",
+   "mn_latin": "dakhin"
+  },
+  {
+   "mn": "хэзээ",
+   "en": "when",
+   "pos": "question word",
+   "example_mn": "Та хэзээ ирэх вэ?",
+   "example_en": "When will you come?",
+   "mn_latin": "khezee"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Багш надаас тэмдэглэлээ авчирсан уу гэж асуусан.",
+   "en": "The teacher asked me if I had brought my notes.",
+   "alt_mn": [
+    "Багш надаас тэмдэглэлээ авчирсан эсэхийг асуусан."
+   ],
+   "alt_en": [
+    "The teacher asked me whether I had brought my notes."
+   ],
+   "mn_latin": "Bagsh nadaas temdeglelee avchirsan uu gej asuusan."
+  },
+  {
+   "mn": "Эмч надаас хаана өвдөж байгааг асуусан.",
+   "en": "The doctor asked me where it hurt.",
+   "alt_mn": [
+    "Эмч надаас хаана өвдөж байна гэж асуусан."
+   ],
+   "alt_en": [
+    "The doctor asked me where I was hurting."
+   ],
+   "mn_latin": "Emch nadaas khaana övdöj baigaag asuusan."
+  },
+  {
+   "mn": "Ажилтан надаас хэзээ ирснийг асуусан.",
+   "en": "The clerk asked me when I had arrived.",
+   "alt_mn": [
+    "Ажилтан надаас хэзээ ирсэн гэж асуусан."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ajiltan nadaas khezee irsniig asuusan."
+  },
+  {
+   "mn": "Эмч надад их ус уугаарай гэж хэлсэн.",
+   "en": "The doctor told me to drink a lot of water.",
+   "alt_mn": [
+    "Эмч надад их ус уухыг захисан."
+   ],
+   "alt_en": [
+    "The doctor told me I should drink a lot of water."
+   ],
+   "mn_latin": "Emch nadad ikh us uugaarai gej khelsen."
+  },
+  {
+   "mn": "Багш бидэнд хичээлээ давтаарай гэж хэлсэн.",
+   "en": "The teacher told us to review the lesson.",
+   "alt_mn": [
+    "Багш биднээс хичээлээ давтахыг хүссэн."
+   ],
+   "alt_en": [
+    "The teacher asked us to review the lesson."
+   ],
+   "mn_latin": "Bagsh bidend khicheelee davtaarai gej khelsen."
+  },
+  {
+   "mn": "Ажилтан надаас паспортоо үзүүлэхийг хүссэн.",
+   "en": "The clerk asked me to show my passport.",
+   "alt_mn": [
+    "Ажилтан надад паспортоо үзүүлээч гэж хэлсэн."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ajiltan nadaas pasportoo üzüülekhiig khüssen."
+  },
+  {
+   "mn": "Дарга надад тайланг маргааш илгээхийг захисан.",
+   "en": "The boss told me to send the report tomorrow.",
+   "alt_mn": [],
+   "alt_en": [
+    "The boss instructed me to send the report tomorrow."
+   ],
+   "mn_latin": "Darga nadad tailang margaash ilgeekhiig zakhisan."
+  },
+  {
+   "mn": "Тэр надаас хаанаас ирснийг асуусан.",
+   "en": "He asked me where I was from.",
+   "alt_mn": [
+    "Тэр надаас хаанаас ирсэн гэж асуусан."
+   ],
+   "alt_en": [
+    "He asked me where I came from."
+   ],
+   "mn_latin": "Ter nadaas khaanaas irsniig asuusan."
+  },
+  {
+   "mn": "Эмч өдөр бүр алхахыг санал болгосон.",
+   "en": "The doctor suggested walking every day.",
+   "alt_mn": [],
+   "alt_en": [
+    "The doctor suggested that I walk every day."
+   ],
+   "mn_latin": "Emch ödör bür alkhakhyg sanal bolgoson."
+  },
+  {
+   "mn": "Тэр надаас маргааш завтай юу гэж асуусан.",
+   "en": "She asked me if I was free tomorrow.",
+   "alt_mn": [
+    "Тэр надаас маргааш завтай эсэхийг асуусан."
+   ],
+   "alt_en": [
+    "She asked me whether I was free tomorrow."
+   ],
+   "mn_latin": "Ter nadaas margaash zavtai yuu gej asuusan."
+  },
+  {
+   "mn": "Багш надаас яагаад хоцорсныг асуусан.",
+   "en": "The teacher asked me why I was late.",
+   "alt_mn": [
+    "Багш надаас яагаад хоцорсон гэж асуусан."
+   ],
+   "alt_en": [
+    "The teacher asked me why I had been late."
+   ],
+   "mn_latin": "Bagsh nadaas yaagaad khotsorsnyg asuusan."
+  },
+  {
+   "mn": "Ажилтан надад дахин ирээч гэж хэлсэн.",
+   "en": "The clerk told me to come again.",
+   "alt_mn": [
+    "Ажилтан надаас дахин ирэхийг хүссэн."
+   ],
+   "alt_en": [
+    "The clerk asked me to come again."
+   ],
+   "mn_latin": "Ajiltan nadad dakhin ireech gej khelsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reporting questions and requests",
+  "title_mn": "Асуулт, хүсэлтийг дамжуулах",
+  "explain_en": "To report a yes/no question in Mongolian, put the original question before гэж асуусан: «Чи ирсэн үү?» becomes Тэр надаас ирсэн үү гэж асуусан. You can also say ирсэн эсэхийг асуусан (whether or not). For question words (хаана, хэзээ, яагаад), use the verb with a participle (-сан, -х, -аа) plus the accusative: хаана байгааг асуусан, хэзээ ирснийг асуусан. A request is often a command turned into a quote: «Ус уугаарай» → ус уугаарай гэж хэлсэн. Or use -хыг хүссэн / -хыг захисан: ус уухыг хүссэн. The person asked goes in the ablative (надаас) with асуух and хүсэх, and in the dative (надад) with хэлэх and захих.",
+  "explain_mn": "Англи хэлэнд дамжуулсан асуултад асуух үгийн дараа үгийн дараалал энгийн өгүүлбэр шиг болно: «Where do you live?» → He asked where I lived (did, does ашиглахгүй). Тийм/үгүй асуултад if эсвэл whether хэрэглэнэ: She asked if I was ready. Цаг ихэвчлэн нэг шат ухарна: is → was, have → had. Хүсэлтэд tell/ask + хүн + to + үйл үг хэрэглэнэ: The doctor told me to rest. Үгүйсгэхдээ not to: He asked me not to be late. Асуултын тэмдэг хэрэггүй.",
+  "examples": [
+   {
+    "mn": "Багш надаас бэлэн үү гэж асуусан.",
+    "en": "The teacher asked if I was ready.",
+    "mn_latin": "Bagsh nadaas belen üü gej asuusan."
+   },
+   {
+    "mn": "Эмч надаас хэзээ эхэлснийг асуусан.",
+    "en": "The doctor asked me when it had started.",
+    "mn_latin": "Emch nadaas khezee ekhelsniig asuusan."
+   },
+   {
+    "mn": "Дарга надад ирээч гэж хэлсэн.",
+    "en": "The boss told me to come.",
+    "mn_latin": "Darga nadad ireech gej khelsen."
+   },
+   {
+    "mn": "Ажилтан надаас баримтаа үзүүлэхийг хүссэн.",
+    "en": "The clerk asked me to show my documents.",
+    "mn_latin": "Ajiltan nadaas barimtaa üzüülekhiig khüssen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Багш надаас даалгавраа хийсэн ___ гэж асуусан.",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "вэ",
+    "байна",
+    "юм"
+   ],
+   "translation": "The teacher asked me if I had done my homework.",
+   "explain_en": "A yes/no question is reported with the question particle үү before гэж асуусан.",
+   "explain_mn": "Тийм/үгүй асуултыг дамжуулахдаа «үү» асуух сул үгийг «гэж асуусан»-ы өмнө үлдээнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Эмч надаас хаана өвдөж байгаа___ асуусан.",
+   "answer": "г",
+   "options": [
+    "г",
+    "д",
+    "с",
+    "аас"
+   ],
+   "translation": "The doctor asked me where it hurt.",
+   "explain_en": "байгаа takes the accusative -г (байгааг) as the object of асуусан.",
+   "explain_mn": "«байгаа» нь «асуусан»-ы тусагдахуун тул «-г» нөхцөл авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Эмч надад их ус уу___ гэж хэлсэн.",
+   "answer": "гаарай",
+   "options": [
+    "гаарай",
+    "аарай",
+    "гээрэй",
+    "х вэ"
+   ],
+   "translation": "The doctor told me to drink a lot of water.",
+   "explain_en": "The polite request form -аарай/-гаарай is quoted before гэж хэлсэн.",
+   "explain_mn": "Эелдэг хүсэлтийн «-гаарай» хэлбэр гэж хэлсэн-ий өмнө орно."
+  },
+  {
+   "lang": "en",
+   "text": "The clerk asked me where I ___ from.",
+   "answer": "was",
+   "options": [
+    "was",
+    "am",
+    "did",
+    "were"
+   ],
+   "translation": "Ажилтан надаас хаанаас ирснийг асуусан.",
+   "explain_en": "Reported wh- questions use statement order and the past: where I was, not where was I.",
+   "explain_mn": "Дамжуулсан асуултад өгүүлбэрийн дараалал, өнгөрсөн цаг хэрэглэнэ: where I was."
+  },
+  {
+   "lang": "en",
+   "text": "She asked me ___ I was free tomorrow.",
+   "answer": "if",
+   "options": [
+    "if",
+    "that",
+    "what",
+    "to"
+   ],
+   "translation": "Тэр надаас маргааш завтай юу гэж асуусан.",
+   "explain_en": "Yes/no questions are reported with if or whether.",
+   "explain_mn": "Тийм/үгүй асуултыг if эсвэл whether-ээр дамжуулна."
+  },
+  {
+   "lang": "en",
+   "text": "The doctor told me ___ more water.",
+   "answer": "to drink",
+   "options": [
+    "to drink",
+    "drink",
+    "drinking",
+    "that drink"
+   ],
+   "translation": "Эмч надад илүү их ус уугаарай гэж хэлсэн.",
+   "explain_en": "Use tell + person + to + verb for instructions.",
+   "explain_mn": "Зөвлөмж, захиасыг tell + хүн + to + үйл үг гэж илэрхийлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Золоо",
+   "mn": "Өнөөдөр эмчид очсон уу?",
+   "en": "Did you go to the doctor today?",
+   "mn_latin": "Önöödör emchid ochson uu?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тийм ээ. Эмч надаас хэзээнээс ханиалгаж байгааг асуусан.",
+   "en": "Yes. The doctor asked me how long I had been coughing.",
+   "mn_latin": "Tiim ee. Emch nadaas khezeenees khanialgaj baigaag asuusan."
+  },
+  {
+   "speaker": "Золоо",
+   "mn": "Дараа нь юу гэсэн бэ?",
+   "en": "What did he say then?",
+   "mn_latin": "Daraa ni yuu gesen be?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тамхины утаанаас зайлсхийхийг хүссэн.",
+   "en": "He asked me to avoid cigarette smoke.",
+   "mn_latin": "Tamkhiny utaanaas zailskhiikhiig khüssen."
+  },
+  {
+   "speaker": "Золоо",
+   "mn": "Өөр юу санал болгосон бэ?",
+   "en": "What else did he suggest?",
+   "mn_latin": "Öör yuu sanal bolgoson be?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Халуун цай уугаарай гэж хэлсэн.",
+   "en": "He told me to drink hot tea.",
+   "mn_latin": "Khaluun tsai uugaarai gej khelsen."
+  },
+  {
+   "speaker": "Золоо",
+   "mn": "Бас ирэх долоо хоногт дахин ирээрэй гэсэн үү?",
+   "en": "Did he also tell you to come back next week?",
+   "mn_latin": "Bas irekh doloo khonogt dakhin ireerei gesen üü?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тийм, дахин ирээч гэж хэлсэн.",
+   "en": "Yes, he told me to come again.",
+   "mn_latin": "Tiim, dakhin ireech gej khelsen."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, requests to elders, teachers, and officials are usually softened with polite forms like -аарай or -на уу and the word «та»; -аач is softer but more familiar. When reporting such requests, Mongolians often keep this politeness by using «хүссэн» (asked) rather than the more direct «захисан» (instructed). In English, 'asked me to' also sounds softer than 'told me to'.",
+  "mn": "Монголд ахмад хүн, багш, албан тушаалтанд хандахдаа «та» гэж хэлээд «-аарай», «-на уу» зэрэг эелдэг хэлбэр хэрэглэдэг; «-аач» нь зөөлөн боловч дотно хүрээнд илүү хэрэглэгддэг. Ийм хүсэлтийг дамжуулахдаа ихэвчлэн «захисан»-аас илүү зөөлөн «хүссэн» гэж хэлдэг. Англи хэлэнд ч 'asked me to' нь 'told me to'-оос зөөлөн сонсогддог."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 29,
+  "notes": "Mostly good, but several asуух sentences wrongly use accusative намайг instead of ablative надаас, one pair mismatches ask and tell, and a few fill-in-the-blank items and explanations need cleanup."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "The main problems were case government (надаас/намайг), a nominative subject with a participle, an ambiguous fill-in-the-blank, an archaic word, and an inaccurate politeness claim.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "The listed patterns did not match what the lesson actually teaches."
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Matched to the lesson's actual patterns, same as the English intro."
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_mn",
+    "why": "The Mongolian lacked 'a question', so it did not match the English."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Added the missing person asked (надаас)."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_en",
+    "why": "Now matches the Mongolian meaning."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "'уухыг хэлсэн' is unnatural; захих is the standard verb with this pattern."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "Nominative 'би' with a participle in the accusative is ungrammatical."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "хүсэх takes the ablative (надаас), as the grammar note states."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'үг дараалал' changed to the correct 'үгийн дараалал'."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "'тоосыг' (dust) was a wrong word; the correct term is 'асуух сул үг' (question particle)."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'сан' and 'лаа' also made grammatical sentences, so the answer was not the only correct option."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'Түшмэл' is archaic; асуух needs the ablative (надаас), not намайг."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "The Mongolian says тамхины утаа (cigarette smoke)."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "-аач is familiar, not typical toward officials or elders; захих means instruct, not order."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Same correction as the English note, so both versions say the same thing."
+   }
+  ]
+ }
+}

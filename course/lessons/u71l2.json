@@ -1,0 +1,462 @@
+{
+ "intro_en": "You will learn to plan a project meeting and assign tasks, using Mongolian role nouns ending in -гч and the patterns -х үүрэгтэй and -ыг хариуцах. You will also practice English verbs with fixed prepositions, such as delegate to, depend on, be in charge of and report to.",
+ "intro_mn": "Та төслийн уулзалт товлож, ажил хуваарилж сурна. Үүнд -гч дагавартай үүрэг заасан нэр үг, -х үүрэгтэй, -ыг хариуцах бүтцийг ашиглана. Мөн англи хэлний delegate to, depend on, be in charge of, report to зэрэг тогтмол угтвартай үйл үгсийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "даалгавар",
+   "en": "task, assignment",
+   "pos": "noun",
+   "example_mn": "Надад шинэ даалгавар өгсөн.",
+   "example_en": "I was given a new assignment.",
+   "mn_latin": "daalgavar"
+  },
+  {
+   "mn": "хуваарилах",
+   "en": "to assign, to distribute",
+   "pos": "verb",
+   "example_mn": "Менежер ажлыг багийн гишүүдэд хуваарилсан.",
+   "example_en": "The manager distributed the work among the team members.",
+   "mn_latin": "khuvaarilakh"
+  },
+  {
+   "mn": "хариуцах",
+   "en": "to be in charge of, to be responsible for",
+   "pos": "verb",
+   "example_mn": "Би худалдан авалтыг хариуцдаг.",
+   "example_en": "I am in charge of purchasing.",
+   "mn_latin": "khariutsakh"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "time frame, period",
+   "pos": "noun",
+   "example_mn": "Энэ ажилд хангалттай хугацаа байна.",
+   "example_en": "There is enough time for this job.",
+   "mn_latin": "khugatsaa"
+  },
+  {
+   "mn": "эцсийн хугацаа",
+   "en": "deadline",
+   "pos": "noun",
+   "example_mn": "Тайлангийн эцсийн хугацаа баасан гараг.",
+   "example_en": "The deadline for the report is Friday.",
+   "mn_latin": "etssiin khugatsaa"
+  },
+  {
+   "mn": "зохион байгуулагч",
+   "en": "organizer",
+   "pos": "noun",
+   "example_mn": "Уулзалтын зохион байгуулагч өрөөг захиалсан.",
+   "example_en": "The organizer of the meeting booked the room.",
+   "mn_latin": "zokhion baiguulagch"
+  },
+  {
+   "mn": "хэрэгжүүлэгч",
+   "en": "implementer",
+   "pos": "noun",
+   "example_mn": "Төслийн хэрэгжүүлэгч баг маргаашаас ажиллана.",
+   "example_en": "The implementing team starts work tomorrow.",
+   "mn_latin": "kheregjüülegch"
+  },
+  {
+   "mn": "зохицуулагч",
+   "en": "coordinator",
+   "pos": "noun",
+   "example_mn": "Зохицуулагч бүх хэлтэстэй холбогдсон.",
+   "example_en": "The coordinator contacted all the departments.",
+   "mn_latin": "zokhitsuulagch"
+  },
+  {
+   "mn": "хянагч",
+   "en": "supervisor, reviewer",
+   "pos": "noun",
+   "example_mn": "Хянагч хийсэн ажлыг шалгана.",
+   "example_en": "The reviewer will check the completed work.",
+   "mn_latin": "khyanagch"
+  },
+  {
+   "mn": "үүрэг",
+   "en": "duty, role",
+   "pos": "noun",
+   "example_mn": "Гишүүн бүр өөрийн үүрэгтэй.",
+   "example_en": "Every member has their own role.",
+   "mn_latin": "üüreg"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид маргааш төслийн уулзалт хийнэ.",
+   "en": "We will have a project meeting tomorrow.",
+   "alt_mn": [
+    "Бид маргааш төслийн уулзалттай."
+   ],
+   "alt_en": [
+    "We are holding a project meeting tomorrow."
+   ],
+   "mn_latin": "Bid margaash tösliin uulzalt khiine."
+  },
+  {
+   "mn": "Эхлээд даалгавруудыг хуваарилъя.",
+   "en": "Let's assign the tasks first.",
+   "alt_mn": [
+    "Эхлээд даалгавруудаа хуваарилцгаая."
+   ],
+   "alt_en": [
+    "Let's distribute the tasks first."
+   ],
+   "mn_latin": "Ekhleed daalgavruudyg khuvaarilya."
+  },
+  {
+   "mn": "Энэ хэсгийг хариуцах хүн хэн бэ?",
+   "en": "Who is in charge of this part?",
+   "alt_mn": [
+    "Энэ хэсгийг хэн хариуцах вэ?"
+   ],
+   "alt_en": [
+    "Who will be responsible for this part?"
+   ],
+   "mn_latin": "Ene khesgiig khariutsakh khün khen be?"
+  },
+  {
+   "mn": "Болд худалдан авалтыг хариуцна.",
+   "en": "Bold will be in charge of purchasing.",
+   "alt_mn": [
+    "Болд худалдан авалтыг хариуцах болно."
+   ],
+   "alt_en": [
+    "Bold will handle purchasing."
+   ],
+   "mn_latin": "Bold khudaldan avaltyg khariutsna."
+  },
+  {
+   "mn": "Сараа зохицуулагчийн үүрэг гүйцэтгэнэ.",
+   "en": "Sara will act as the coordinator.",
+   "alt_mn": [],
+   "alt_en": [
+    "Sara will play the role of coordinator."
+   ],
+   "mn_latin": "Saraa zokhitsuulagchiin üüreg güitsetgene."
+  },
+  {
+   "mn": "Зохион байгуулагч нь уулзалтын цагийг товлох үүрэгтэй.",
+   "en": "The organizer is responsible for scheduling the meeting.",
+   "alt_mn": [
+    "Зохион байгуулагч уулзалтын цагийг товлох үүрэгтэй."
+   ],
+   "alt_en": [
+    "The organizer has the duty of setting the meeting time."
+   ],
+   "mn_latin": "Zokhion baiguulagch ni uulzaltyn tsagiig tovlokh üüregtei."
+  },
+  {
+   "mn": "Хянагч бүх тайланг шалгах үүрэгтэй.",
+   "en": "The reviewer is supposed to check all the reports.",
+   "alt_mn": [],
+   "alt_en": [
+    "The reviewer has the duty to check all the reports."
+   ],
+   "mn_latin": "Khyanagch bükh tailang shalgakh üüregtei."
+  },
+  {
+   "mn": "Эцсийн хугацаа нь дараа сарын эхний долоо хоног.",
+   "en": "The deadline is the first week of next month.",
+   "alt_mn": [
+    "Эцсийн хугацаа дараа сарын эхний долоо хоногт болно."
+   ],
+   "alt_en": [
+    "The deadline falls in the first week of next month."
+   ],
+   "mn_latin": "Etssiin khugatsaa ni daraa saryn ekhnii doloo khonog."
+  },
+  {
+   "mn": "Захирал зарим ажлаа туслахдаа даалгадаг.",
+   "en": "The director delegates some of his work to his assistant.",
+   "alt_mn": [
+    "Захирал зарим ажлаа туслахдаа шилжүүлдэг."
+   ],
+   "alt_en": [
+    "The director hands some of his work over to his assistant."
+   ],
+   "mn_latin": "Zakhiral zarim ajlaa tuslakhdaa daalgadag."
+  },
+  {
+   "mn": "Төслийн амжилт багийн хамтын ажиллагаанаас шалтгаална.",
+   "en": "The success of the project depends on teamwork.",
+   "alt_mn": [
+    "Төслийн амжилт багийн хамтын ажиллагаанаас хамаарна."
+   ],
+   "alt_en": [
+    "The project's success depends on the team's cooperation."
+   ],
+   "mn_latin": "Tösliin amjilt bagiin khamtyn ajillagaanaas shaltgaalna."
+  },
+  {
+   "mn": "Хэрэгжүүлэгчид долоо хоног бүр менежерт тайлагнадаг.",
+   "en": "The implementers report to the manager every week.",
+   "alt_mn": [
+    "Хэрэгжүүлэгчид долоо хоног бүр менежерт тайлан өгдөг."
+   ],
+   "alt_en": [
+    "The implementers report to the manager weekly."
+   ],
+   "mn_latin": "Kheregjüülegchid doloo khonog bür myenyejyert tailagnadag."
+  },
+  {
+   "mn": "Хугацаа богино тул ажлыг бүгдэд хуваарилах хэрэгтэй.",
+   "en": "Since time is short, we need to distribute the work among everyone.",
+   "alt_mn": [
+    "Хугацаа бага учир ажлыг бүгдэд хуваарилах хэрэгтэй."
+   ],
+   "alt_en": [
+    "The time frame is short, so we should divide the work among everyone."
+   ],
+   "mn_latin": "Khugatsaa bogino tul ajlyg bügded khuvaarilakh kheregtei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Role nouns in -гч, -х үүрэгтэй and -ыг хариуцах",
+  "title_mn": "-гч нэр үг, -х үүрэгтэй, -ыг хариуцах",
+  "explain_en": "Add -гч (-агч/-эгч/-огч/-өгч, by vowel harmony) to a verb stem to name the person who does the action: зохион байгуулах → зохион байгуулагч (organizer), хянах → хянагч (reviewer), зохицуулах → зохицуулагч (coordinator). To state a duty, put a verb in the -х form and add үүрэгтэй: Тэр тайлан бичих үүрэгтэй (He is responsible for writing the report). To say who is in charge of something, use the accusative with хариуцах: Тэр аюулгүй байдлыг хариуцдаг (He/She is in charge of safety). The accusative ending is -ыг/-ийг (by vowel harmony, and -ийг after г, ж, ч, ш, ь, и) after consonants and short vowels, and -г after long vowels and diphthongs (санхүү → санхүүг). In English, be in charge of, be responsible for, delegate to, depend on and report to take fixed prepositions. After the preposition comes a noun or an -ing form: be in charge of organizing. Learn each verb together with its preposition.",
+  "explain_mn": "Монгол хэлэнд -гч (-агч/-эгч/-огч/-өгч) дагавар үйл үгээс үйлдэгчийг заасан нэр үг үүсгэнэ: зохион байгуулах → зохион байгуулагч, хянах → хянагч, зохицуулах → зохицуулагч. Үүрэг илтгэхдээ -х хэлбэр + үүрэгтэй гэж хэлнэ: Тэр тайлан бичих үүрэгтэй. Хариуцах үйл үг заахуй тийн ялгалтай (-ыг/-ийг/-г) нэрийг авна: Тэр аюулгүй байдлыг хариуцдаг. Англи хэлэнд be in charge of, be responsible for, delegate to, depend on, report to зэрэг үйл үг, хэллэг тогтмол угтвартай. Угтварын ард нэр үг эсвэл -ing хэлбэр орно: be in charge of organizing. Угтварыг үйл үгтэй хамт цээжил.",
+  "examples": [
+   {
+    "mn": "Тэр уулзалтын зохион байгуулагч юм.",
+    "en": "He is the organizer of the meeting.",
+    "mn_latin": "Ter uulzaltyn zokhion baiguulagch yum."
+   },
+   {
+    "mn": "Би хэрэгжилтийг хянах үүрэгтэй.",
+    "en": "I am responsible for monitoring the implementation.",
+    "mn_latin": "Bi kheregjiltiig khyanakh üüregtei."
+   },
+   {
+    "mn": "Дэлгүүрийн нярав агуулахыг хариуцдаг.",
+    "en": "The store's stockkeeper is in charge of the warehouse.",
+    "mn_latin": "Delgüüriin nyarav aguulakhyg khariutsdag."
+   },
+   {
+    "mn": "Зохицуулагч хэлтсүүдийн ажлыг уялдуулах үүрэгтэй.",
+    "en": "The coordinator is responsible for aligning the departments' work.",
+    "mn_latin": "Zokhitsuulagch kheltsüüdiin ajlyg uyalduulakh üüregtei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэр төслийн санхүүг ___.",
+   "answer": "хариуцдаг",
+   "options": [
+    "хариуцдаг",
+    "хариуцагч",
+    "хариуцлагатай",
+    "хугацаатай"
+   ],
+   "translation": "He is in charge of the project's finances.",
+   "explain_en": "Хариуцах means 'to be in charge of' and takes the accusative (санхүүг). Present habitual form: хариуцдаг.",
+   "explain_mn": "Хариуцах нь 'be in charge of' гэсэн утгатай бөгөөд заахуй тийн ялгалтай (-ыг/-ийг/-г) нэр авна (санхүүг). Байнгын үйлийг -даг хэлбэрээр илэрхийлнэ: хариуцдаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Хянагч тайланг шалгах ___.",
+   "answer": "үүрэгтэй",
+   "options": [
+    "үүрэгтэй",
+    "хугацаатай",
+    "үүргийг",
+    "хүнтэй"
+   ],
+   "translation": "The reviewer is responsible for checking the report.",
+   "explain_en": "Verb in -х form + үүрэгтэй expresses a duty.",
+   "explain_mn": "-х үүрэгтэй бүтэц нь хүлээсэн үүргийг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Уулзалтын зохион ___ бол Дорж гэдэг хүн.",
+   "answer": "байгуулагч",
+   "options": [
+    "байгуулагч",
+    "байгуулах",
+    "байгуулсан",
+    "байгуулалт"
+   ],
+   "translation": "The organizer of the meeting is a person named Dorj.",
+   "explain_en": "The suffix -гч turns зохион байгуулах into the role noun зохион байгуулагч.",
+   "explain_mn": "-гч дагавар үйл үгээс үйлдэгчийг заасан нэр үг үүсгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The manager delegated the report ___ his assistant.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "on",
+    "with"
+   ],
+   "translation": "Менежер тайланг туслахдаа даалгасан.",
+   "explain_en": "We delegate something TO someone.",
+   "explain_mn": "Delegate нь 'to' угтвартай: delegate a task to someone."
+  },
+  {
+   "lang": "en",
+   "text": "The final result depends ___ everyone's effort.",
+   "answer": "on",
+   "options": [
+    "on",
+    "of",
+    "to",
+    "from"
+   ],
+   "translation": "Эцсийн үр дүн хүн бүрийн хүчин чармайлтаас хамаарна.",
+   "explain_en": "Depend always takes 'on'.",
+   "explain_mn": "Depend нь үргэлж 'on' угтвартай."
+  },
+  {
+   "lang": "en",
+   "text": "She is in charge ___ organizing the conference.",
+   "answer": "of",
+   "options": [
+    "of",
+    "for",
+    "at",
+    "with"
+   ],
+   "translation": "Тэр чуулганыг зохион байгуулах ажлыг хариуцдаг.",
+   "explain_en": "The fixed phrase is 'be in charge of', followed by a noun or -ing form.",
+   "explain_mn": "'Be in charge of' нь тогтвортой хэллэг бөгөөд араас нь нэр үг эсвэл -ing орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Narantuya",
+   "mn": "Өнөөдрийн уулзалтын зорилго бол шинэ төслийн ажлыг хуваарилах.",
+   "en": "The goal of today's meeting is to assign the work for the new project.",
+   "mn_latin": "Önöödriin uulzaltyn zorilgo bol shine tösliin ajlyg khuvaarilakh."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Хэн зохицуулагчийн үүрэг гүйцэтгэх вэ?",
+   "en": "Who will act as coordinator?",
+   "mn_latin": "Khen zokhitsuulagchiin üüreg güitsetgekh ve?"
+  },
+  {
+   "speaker": "Narantuya",
+   "mn": "Би зохицуулна. Та түншүүдтэй харилцах ажлыг хариуцаж болох уу?",
+   "en": "I will coordinate. Could you be in charge of communicating with the partners?",
+   "mn_latin": "Bi zokhitsuulna. Ta tünshüüdtei khariltsakh ajlyg khariutsaj bolokh uu?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Болно. Гэхдээ энэ нь гэрээний нөхцөлөөс хамаарна.",
+   "en": "Sure. But that depends on the terms of the contract.",
+   "mn_latin": "Bolno. Gekhdee ene ni gereenii nökhtsölöös khamaarna."
+  },
+  {
+   "speaker": "Narantuya",
+   "mn": "Ойлголоо. Тэгвэл бичиг баримтыг Золжаргал хянана.",
+   "en": "Understood. Then Zoljargal will review the documents.",
+   "mn_latin": "Oilgoloo. Tegvel bichig barimtyg Zoljargal khyanana."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Эцсийн хугацаа хэзээ вэ?",
+   "en": "What is the deadline?",
+   "mn_latin": "Etssiin khugatsaa khezee ve?"
+  },
+  {
+   "speaker": "Narantuya",
+   "mn": "Дараа сарын арван тав. Та бүгд миний оронд захиралд тайлагнана.",
+   "en": "The fifteenth of next month. You will all report to the director on my behalf.",
+   "mn_latin": "Daraa saryn arvan tav. Ta bügd minii orond zakhirald tailagnana."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "За, би даалгавруудаа долоо хоног бүр шинэчилнэ.",
+   "en": "Fine, I will update my tasks every week.",
+   "mn_latin": "Za, bi daalgavruudaa doloo khonog bür shinechilne."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian workplaces, hierarchy matters and tasks are often assigned by a director (захирал) in a formal meeting, but teams increasingly use shared messaging apps and Facebook groups to follow up. Polite language such as та and softened requests (…болох уу?) is the norm when delegating, even to colleagues of the same age.",
+  "mn": "Монголын байгууллагад албан тушаалын шатлал чухал бөгөөд ажлыг ихэвчлэн захирал албан уулзалтаар хуваарилдаг ч сүүлийн үед баг Facebook групп, мессенжер ашиглан ажлаа хянах болсон. Ажил хуваарилахдаа үе тэнгийн хүнтэй ч «та» гэж хандаж, «…болох уу?» гэх мэтээр эелдэг хэлдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 14,
+  "notes": "Mostly good, but the grammar explanations were mismatched and a few word choices (даатгах for delegate) were wrong."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 11,
+  "notes": "Fixed ambiguous blanks, the case usage with role nouns, the inaccurate accusative rule, the en/mn mismatches and one stray foreign word.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the Mongolian grammar points the en version mentions"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "цөөхөн is not used with хугацаа"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "accusative rule was inaccurate; en lacked the English-preposition part present in mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "align examples with en version"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "role noun takes genitive, not accusative"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "en",
+    "why": "нярав is a stockkeeper, not a clerk"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "хуваарилдаг also fit the blank grammatically"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "removed stray Greek word; match en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "даалгавартай was also a correct answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "role noun needs genitive; old text also allowed байгуулсан"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "Зүгээ is slangy, wrong register for this formal dialogue"
+   }
+  ]
+ }
+}

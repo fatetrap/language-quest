@@ -1,0 +1,538 @@
+{
+ "intro_en": "You will learn to describe rain, footsteps and a busy market with sound-image words like пид пад and түг таг. You will also see how Mongolian uses them as adverbs with байх and хийх, and how English does it with words like pitter-patter and thud.",
+ "intro_mn": "Та бороо, алхаа, хөл хөдөлгөөн ихтэй зах зээлийг пид пад, түг таг зэрэг дуурайх, дүрслэх үгээр амьд тодоор дүрслэхийг сурна. Мөн эдгээр үгийг байх, хийх үгтэй хамт дайвар үгийн адил хэрэглэхийг, англиар pitter-patter, thud зэрэг үгээр хэрхэн хэлдгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "пид пад",
+   "en": "pitter-patter (light, quick tapping)",
+   "pos": "ideophone",
+   "example_mn": "Бороо пид пад хийж байна.",
+   "example_en": "The rain is pattering.",
+   "mn_latin": "pid pad"
+  },
+  {
+   "mn": "түг таг",
+   "en": "thump-thump (heavy, steady steps)",
+   "pos": "ideophone",
+   "example_mn": "Хэн нэгэн түг таг алхаж байна.",
+   "example_en": "Someone is walking with heavy thuds.",
+   "mn_latin": "tüg tag"
+  },
+  {
+   "mn": "шаагих",
+   "en": "to pour, to hiss down (of heavy rain)",
+   "pos": "verb",
+   "example_mn": "Орой бороо шаагиж эхэллээ.",
+   "example_en": "In the evening the rain started pouring down.",
+   "mn_latin": "shaagikh"
+  },
+  {
+   "mn": "нижигнэх",
+   "en": "to rumble, to boom (thunder, applause)",
+   "pos": "verb",
+   "example_mn": "Алс холоос аянга нижигнэж байв.",
+   "example_en": "Thunder was rumbling far away.",
+   "mn_latin": "nijignekh"
+  },
+  {
+   "mn": "жигд",
+   "en": "evenly steady, rhythmic (of rain)",
+   "pos": "adjective",
+   "example_mn": "Жигд бороо шөнөжин орсон.",
+   "example_en": "A steady rain fell all night.",
+   "mn_latin": "jigd"
+  },
+  {
+   "mn": "шуугих",
+   "en": "to buzz, to be noisy",
+   "pos": "verb",
+   "example_mn": "Зах хүнээр дүүрч шуугиж байна.",
+   "example_en": "The market is full of people and buzzing with noise.",
+   "mn_latin": "shuugikh"
+  },
+  {
+   "mn": "чимээ",
+   "en": "sound, noise",
+   "pos": "noun",
+   "example_mn": "Хөлийн чимээ сонсогдов.",
+   "example_en": "The sound of footsteps could be heard.",
+   "mn_latin": "chimee"
+  },
+  {
+   "mn": "алхаа",
+   "en": "step, way of walking",
+   "pos": "noun",
+   "example_mn": "Түүний алхаа маш хүнд байлаа.",
+   "example_en": "His step was very heavy.",
+   "mn_latin": "alkhaa"
+  },
+  {
+   "mn": "дуурайх",
+   "en": "to imitate (a sound)",
+   "pos": "verb",
+   "example_mn": "Хүүхэд аянгын дууг дуурайв.",
+   "example_en": "The child imitated the sound of thunder.",
+   "mn_latin": "duuraikh"
+  },
+  {
+   "mn": "хөл хөдөлгөөн",
+   "en": "hustle and bustle, traffic of people",
+   "pos": "noun",
+   "example_mn": "Наадмын үеэр хөл хөдөлгөөн ихэсдэг.",
+   "example_en": "During Naadam the bustle increases.",
+   "mn_latin": "khöl khödölgöön"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бороо пид пад хийж байна.",
+   "en": "The rain is pattering.",
+   "alt_mn": [
+    "Бороо пид пад орж байна."
+   ],
+   "alt_en": [
+    "It is raining with a pitter-patter."
+   ],
+   "mn_latin": "Boroo pid pad khiij baina."
+  },
+  {
+   "mn": "Дээвэр дээр бороо пид пад дуугарч байв.",
+   "en": "The rain was pattering on the roof.",
+   "alt_mn": [],
+   "alt_en": [
+    "The rain was going pitter-patter on the roof."
+   ],
+   "mn_latin": "Deever deer boroo pid pad duugarch baiv."
+  },
+  {
+   "mn": "Шөнөжин жигд бороо орлоо.",
+   "en": "A steady rain fell all night.",
+   "alt_mn": [
+    "Шөнөжин жигд бороо орсон."
+   ],
+   "alt_en": [
+    "Steady rain fell all night long."
+   ],
+   "mn_latin": "Shönöjin jigd boroo orloo."
+  },
+  {
+   "mn": "Дараа нь бороо шаагиж эхэллээ.",
+   "en": "Then the rain started pouring down.",
+   "alt_mn": [],
+   "alt_en": [
+    "Then the rain began to pour."
+   ],
+   "mn_latin": "Daraa ni boroo shaagij ekhellee."
+  },
+  {
+   "mn": "Алс холоос аянга нижигнэж байна.",
+   "en": "Thunder is rumbling far away.",
+   "alt_mn": [],
+   "alt_en": [
+    "Thunder is booming in the distance."
+   ],
+   "mn_latin": "Als kholoos ayanga nijignej baina."
+  },
+  {
+   "mn": "Дээд давхарт хэн нэгэн түг таг алхаж байна.",
+   "en": "Someone upstairs is walking with heavy thuds.",
+   "alt_mn": [
+    "Дээд давхарт хэн нэгэн түг таг хийн алхаж байна."
+   ],
+   "alt_en": [
+    "Someone upstairs is thumping around."
+   ],
+   "mn_latin": "Deed davkhart khen negen tüg tag alkhaj baina."
+  },
+  {
+   "mn": "Хүүхдүүд пид пад гүйлдэн орж ирлээ.",
+   "en": "The children came running in with a patter of feet.",
+   "alt_mn": [],
+   "alt_en": [
+    "The kids pattered in."
+   ],
+   "mn_latin": "Khüükhdüüd pid pad güilden orj irlee."
+  },
+  {
+   "mn": "Наадмын өдөр зах хүнээр дүүрч шуугиж байлаа.",
+   "en": "On the day of Naadam the market was full of people and buzzing.",
+   "alt_mn": [],
+   "alt_en": [
+    "On Naadam day the market was packed and noisy."
+   ],
+   "mn_latin": "Naadmyn ödör zakh khüneer düürch shuugij bailaa."
+  },
+  {
+   "mn": "Хөл хөдөлгөөн ихтэй зах дундуур бид бага багаар урагшиллаа.",
+   "en": "We inched forward through the crowded market.",
+   "alt_mn": [],
+   "alt_en": [
+    "We made our way slowly through the busy market."
+   ],
+   "mn_latin": "Khöl khödölgöön ikhtei zakh dunduur bid baga bagaar uragshillaa."
+  },
+  {
+   "mn": "Орон сууцны шат түг таг дуугарав.",
+   "en": "The apartment stairs thudded.",
+   "alt_mn": [],
+   "alt_en": [
+    "The stairs thumped under heavy feet."
+   ],
+   "mn_latin": "Oron suutsny shat tüg tag duugarav."
+  },
+  {
+   "mn": "Аав минь хаалгыг тас хийтэл хаахад чанга чимээ гарав.",
+   "en": "When my father slammed the door, it made a loud noise.",
+   "alt_mn": [],
+   "alt_en": [
+    "My father slammed the door with a bang."
+   ],
+   "mn_latin": "Aav mini khaalgyg tas khiitel khaakhad changa chimee garav."
+  },
+  {
+   "mn": "Хүүхэд аянгын дууг дуурайн инээв.",
+   "en": "The child laughed, imitating the sound of thunder.",
+   "alt_mn": [],
+   "alt_en": [
+    "The child imitated the thunder and laughed."
+   ],
+   "mn_latin": "Khüükhed ayangyn duug duurain ineev."
+  }
+ ],
+ "grammar": {
+  "title_en": "Sound-image words with байх / хийх",
+  "title_mn": "Дуурайх, дүрслэх үг + байх / хийх",
+  "explain_en": "Mongolian has many ideophones: words that imitate a sound or picture a movement, often as a pair with a changed second half (пид пад, түг таг). They work like adverbs and are usually followed by хийх (to make/do) or байх (to be) to form a verb phrase: пид пад хийх 'to patter', түг таг хийх 'to thump'. Put the ideophone before the verb and conjugate only хийх/байх: пид пад хийж байна (is pattering), түг таг хийв (thumped). Some verbs, like шаагих and нижигнэх, already contain the sound image, so no extra хийх is needed. English has no such construction. Its onomatopoeic words are used as nouns or verbs: The rain went pitter-patter (go + sound); Something fell with a thud (noun); Bees buzzed (verb).",
+  "explain_mn": "Монгол хэлэнд «пид пад», «түг таг» зэрэг дуурайх, дүрслэх үгийг ихэвчлэн «хийх» эсвэл «байх» үйл үгтэй хамт хэрэглэдэг: «пид пад хийх», «түг таг хийх». Дуурайх үг үйл үгийн өмнө орж, дайвар үгийн үүрэгтэй байдаг бөгөөд зөвхөн «хийх/байх» үйл үг нөхцөл авна: «пид пад хийж байна», «түг таг хийв». «Шаагих», «нижигнэх» зэрэг үйл үг өөрөө дүрслэлтэй тул «хийх» шаардахгүй. Англи хэлэнд ийм бүтэц байхгүй, харин onomatopoeia (pitter-patter, thud, buzz, splash) нь нэр үг, үйл үг болж хэрэглэгддэг. Жишээ нь: The rain went pitter-patter (go + дуу); Something fell with a thud (нэр үг); Bees buzzed (үйл үг).",
+  "examples": [
+   {
+    "mn": "Бороо пид пад хийж байна.",
+    "en": "The rain is going pitter-patter.",
+    "mn_latin": "Boroo pid pad khiij baina."
+   },
+   {
+    "mn": "Тэр түг таг алхаж ирэв.",
+    "en": "He walked over with heavy thuds.",
+    "mn_latin": "Ter tüg tag alkhaj irev."
+   },
+   {
+    "mn": "Аянга нижигнэж байна.",
+    "en": "Thunder is rumbling.",
+    "mn_latin": "Ayanga nijignej baina."
+   },
+   {
+    "mn": "Зах шуугиж байна.",
+    "en": "The market is buzzing.",
+    "mn_latin": "Zakh shuugij baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Дээвэр дээр бороо пид пад ___ байна.",
+   "answer": "хийж",
+   "options": [
+    "хийж",
+    "хийв",
+    "хийх",
+    "хийнэ"
+   ],
+   "translation": "The rain is pattering on the roof.",
+   "explain_en": "After the ideophone we use хийх, and with байна it takes the -ж linking form: хийж байна (is doing/pattering).",
+   "explain_mn": "Дуурайх үгийн дараа хийх үг орж, «байна»-тай хамт үргэлжилж буй үйлийг илэрхийлэхдээ -ж нөхцөл авна: хийж байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Алс холоос аянга ___ байна.",
+   "answer": "нижигнэж",
+   "options": [
+    "нижигнэж",
+    "нижигнэх",
+    "нижигнэв",
+    "нижигнэ"
+   ],
+   "translation": "Thunder is rumbling far away.",
+   "explain_en": "The verb нижигнэх takes the linking suffix -ж before байна to show an ongoing action: нижигнэж байна.",
+   "explain_mn": "«Байна»-ын өмнө үйл үг -ж нөхцөлтэй байж үргэлжилж буй үйлийг илтгэнэ: нижигнэж байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Дээд давхарт хэн нэгэн ___ таг алхаж байна.",
+   "answer": "түг",
+   "options": [
+    "түг",
+    "пид",
+    "шаа",
+    "бор"
+   ],
+   "translation": "Someone upstairs is walking with heavy thuds.",
+   "explain_en": "The pair түг таг imitates heavy steps; пид пад would be light taps.",
+   "explain_mn": "Хүнд алхааг түг таг гэж дүрсэлдэг. Пид пад нь хөнгөн дууг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The rain went ___ on the tin roof all night.",
+   "answer": "pitter-patter",
+   "options": [
+    "pitter-patter",
+    "thud",
+    "slam",
+    "roar"
+   ],
+   "translation": "Бороо шөнөжин төмөр дээвэр дээр пид пад хийв.",
+   "explain_en": "Pitter-patter is the light, quick sound of rain or little feet; thud is a single heavy sound.",
+   "explain_mn": "Pitter-patter нь хөнгөн, хурдан бороо эсвэл жижиг хөлийн дуу; thud нь нэг удаагийн хүнд дуу."
+  },
+  {
+   "lang": "en",
+   "text": "The heavy bag fell to the floor with a loud ___.",
+   "answer": "thud",
+   "options": [
+    "thud",
+    "patter",
+    "buzz",
+    "drip"
+   ],
+   "translation": "Хүнд цүнх шалан дээр чанга дуу гарган унав.",
+   "explain_en": "After 'a loud', we need a noun. Thud names the dull sound of a heavy fall.",
+   "explain_mn": "«a loud»-ын дараа нэр үг орно. Thud нь хүнд зүйл унахад гарах бүдэг дуу."
+  },
+  {
+   "lang": "en",
+   "text": "The market was ___ with voices and laughter.",
+   "answer": "buzzing",
+   "options": [
+    "buzzing",
+    "thudding",
+    "dripping",
+    "banging"
+   ],
+   "translation": "Зах хүмүүсийн дуу хоолой, инээдээр шуугиж байлаа.",
+   "explain_en": "Buzz is used for a crowded place full of busy, overlapping noise, like Mongolian шуугих.",
+   "explain_mn": "Buzz нь олон хүнтэй газрын шуугианыг хэлдэг, монгол «шуугих»-тай төстэй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Сонсож байна уу? Бороо дээвэр дээр пид пад хийж байна.",
+   "en": "Do you hear that? The rain is pattering on the roof.",
+   "mn_latin": "Sonsoj baina uu? Boroo deever deer pid pad khiij baina."
+  },
+  {
+   "speaker": "Ben",
+   "mn": "Тийм ээ, жигд сайхан бороо шүү.",
+   "en": "Yes, it's a lovely steady rain.",
+   "mn_latin": "Tiim ee, jigd saikhan boroo shüü."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Өчигдөр Нарантуул зах дээр хөл хөдөлгөөн ихтэй, шуугиад байсан.",
+   "en": "Yesterday the Narantuul market was crowded and buzzing.",
+   "mn_latin": "Öchigdör Narantuul zakh deer khöl khödölgöön ikhtei, shuugiad baisan."
+  },
+  {
+   "speaker": "Ben",
+   "mn": "Би хүмүүсийн дундуур бага багаар л урагшилсан.",
+   "en": "I just inched forward through the crowd.",
+   "mn_latin": "Bi khümüüsiin dunduur baga bagaar l uragshilsan."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Дараа нь аянга нижигнэж, бороо шаагиж эхэлсэн.",
+   "en": "Then thunder rumbled and the rain started pouring.",
+   "mn_latin": "Daraa ni ayanga nijignej, boroo shaagij ekhelsen."
+  },
+  {
+   "speaker": "Ben",
+   "mn": "Бүгд түг таг гүйж, дэлгүүрт орсон.",
+   "en": "Everyone ran into the shops with heavy steps.",
+   "mn_latin": "Bügd tüg tag güij, delgüürt orson."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Англиар ийм дууг юу гэж хэлдэг вэ?",
+   "en": "What do you call such sounds in English?",
+   "mn_latin": "Angliar iim duug yuu gej kheldeg ve?"
+  },
+  {
+   "speaker": "Ben",
+   "mn": "Pitter-patter, thud гэж хэлдэг. Монгол хэлнийхээс цөөн ч гэсэн байдаг.",
+   "en": "We say pitter-patter and thud, though we have fewer of them than Mongolian does.",
+   "mn_latin": "Pitter-patter, thud gej kheldeg. Mongol khelniikhees tsöön ch gesen baidag."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian is rich in sound-image words, used in everyday speech, songs and poems to describe horses' hooves, rain, wind and animal sounds. Herding life gave speakers a precise vocabulary for what they heard on the steppe. English has onomatopoeia too, but fewer of them are part of regular grammar.",
+  "mn": "Монгол хэлэнд дуурайх, дүрслэх үг маш элбэг бөгөөд өдөр тутмын яриа, дуу, шүлэгт морины туурай, бороо, салхи, малын дууг дүрслэхэд хэрэглэгддэг. Нүүдэлчин ахуй хээр талын дууг нарийн ялгах баялаг үгсийг бүрдүүлсэн. Англи хэлэнд ч дуурайх үг бий боловч дүрмийн хэсэг болтлоо өргөн хэрэглэгддэггүй."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 11,
+  "notes": "Mostly good content; some verb forms, one unnatural sentence and a poorly aimed Mongolian grammar explanation needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 26,
+  "notes": "Replaced the non-standard бүгдэрэх/жигдэрсэн everywhere, fixed fill-blank options that had two correct answers and bad translations, and aligned the grammar explanations.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "They are used as adverbs, not as verbs, matching intro_en"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "mn",
+    "why": "бүгдэрэх is not a standard word; thunder нижигнэнэ"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "en",
+    "why": "Matches the meaning of нижигнэх"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "Replaces the non-standard verb"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "mn",
+    "why": "жигдэрсэн бороо is unnatural; the normal phrase is жигд бороо"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "Natural collocation"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "Standard form is дээвэр дээр, not дээврийн дээр"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "Natural collocation"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "Natural collocation"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "Replaces the non-standard verb"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Replaces the non-standard verb and aligns with the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Adds the шаагих/нижигнэх point so en and mn say the same thing"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "en",
+    "why": "ирэв means came, not came in"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Replaces the non-standard verb"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "хийгээд байна is also grammatical, so two options were correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "answer",
+    "why": "Replaces the non-standard verb"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Uses the standard verb; нижигнэсэн байна would also be acceptable, so it is not offered"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Replaces the non-standard verb"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Replaces the non-standard verb"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "A tin roof is төмөр дээвэр; цайрсан means whitened"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "«бумбэр» is not a word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_en",
+    "why": "'a loud' is not an article"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "Natural collocation"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Replaces the non-standard verb"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "Clearer comparison with Mongolian"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "Natural English"
+   }
+  ]
+ }
+}

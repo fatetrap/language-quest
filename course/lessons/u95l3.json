@@ -1,0 +1,399 @@
+{
+ "intro_en": "In this lesson you will follow a philosophy lecture about knowledge, belief and doubt, and learn the academic Mongolian terms built with -хуй/-хүй. You will also practice English concessive inversion such as \"Try as they might...\" and \"Much as I respect...\".",
+ "intro_mn": "Энэ хичээлээр та мэдлэг, итгэл үнэмшил, эргэлзээний тухай философийн лекцийг сонсож, -хуй/-хүй дагавартай эрдэм шинжилгээний нэр томьёог сурна. Мөн англи хэлний \"Try as they might...\", \"Much as I respect...\" гэх мэт харшлах утгатай урвуу байрлалын бүтцийг давтана.",
+ "vocab": [
+  {
+   "mn": "мэдэхүй",
+   "en": "knowledge, cognition (academic)",
+   "pos": "noun",
+   "example_mn": "Хүний мэдэхүй хязгаартай.",
+   "example_en": "Human knowledge is limited.",
+   "mn_latin": "medekhüi"
+  },
+  {
+   "mn": "танин мэдэхүй",
+   "en": "cognition",
+   "pos": "noun",
+   "example_mn": "Хүүхдийн танин мэдэхүй тоглоомоор дамжин хөгждөг.",
+   "example_en": "A child's cognition develops through play.",
+   "mn_latin": "tanin medekhüi"
+  },
+  {
+   "mn": "танин мэдэхүйн онол",
+   "en": "epistemology, theory of knowledge",
+   "pos": "noun phrase",
+   "example_mn": "Танин мэдэхүйн онол мэдлэгийн мөн чанарыг судалдаг.",
+   "example_en": "Epistemology studies the nature of knowledge.",
+   "mn_latin": "tanin medekhüin onol"
+  },
+  {
+   "mn": "мэдрэхүй",
+   "en": "the senses, perception",
+   "pos": "noun",
+   "example_mn": "Мэдрэхүй заримдаа биднийг хуурдаг.",
+   "example_en": "Our senses sometimes deceive us.",
+   "mn_latin": "medrekhüi"
+  },
+  {
+   "mn": "баримт",
+   "en": "fact",
+   "pos": "noun",
+   "example_mn": "Энэ бол үгүйсгэх аргагүй баримт.",
+   "example_en": "This is an undeniable fact.",
+   "mn_latin": "barimt"
+  },
+  {
+   "mn": "итгэл үнэмшил",
+   "en": "belief, conviction",
+   "pos": "noun",
+   "example_mn": "Итгэл үнэмшил мэдлэгтэй адилхан биш.",
+   "example_en": "Belief is not the same as knowledge.",
+   "mn_latin": "itgel ünemshil"
+  },
+  {
+   "mn": "эргэлзээ",
+   "en": "doubt",
+   "pos": "noun",
+   "example_mn": "Эргэлзээ бол философийн эхлэл.",
+   "example_en": "Doubt is the beginning of philosophy.",
+   "mn_latin": "ergelzee"
+  },
+  {
+   "mn": "эргэлзэх",
+   "en": "to doubt",
+   "pos": "verb",
+   "example_mn": "Би түүний үгэнд эргэлзэж байна.",
+   "example_en": "I have doubts about what he said.",
+   "mn_latin": "ergelzekh"
+  },
+  {
+   "mn": "нотолгоо",
+   "en": "proof, evidence",
+   "pos": "noun",
+   "example_mn": "Нотолгоогүйгээр үүнийг батлах боломжгүй.",
+   "example_en": "This cannot be confirmed without evidence.",
+   "mn_latin": "notolgoo"
+  },
+  {
+   "mn": "үндэслэл",
+   "en": "grounds, justification",
+   "pos": "noun",
+   "example_mn": "Таны дүгнэлт ямар үндэслэлтэй вэ?",
+   "example_en": "What are the grounds for your conclusion?",
+   "mn_latin": "ündeslel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би Декартыг хичнээн хүндэлдэг ч түүний дүгнэлтийг хүлээн зөвшөөрч чадахгүй.",
+   "en": "Much as I respect Descartes, I can't accept his conclusion.",
+   "alt_mn": [
+    "Декартыг хэдий хүндэлдэг ч би түүний дүгнэлтийг хүлээн зөвшөөрч чадахгүй."
+   ],
+   "alt_en": [
+    "Much as I respect Descartes, I cannot accept his conclusion.",
+    "Although I respect Descartes a great deal, I can't accept his conclusion."
+   ],
+   "mn_latin": "Bi Dyekartyg khichneen khündeldeg ch tüünii dügneltiig khüleen zövshöörch chadakhgüi."
+  },
+  {
+   "mn": "Философичид хичнээн оролдсон ч мэдлэгийг нарийн тодорхойлж чадаагүй.",
+   "en": "Try as they might, philosophers have not been able to define knowledge precisely.",
+   "alt_mn": [
+    "Хичнээн оролдсон ч философичид мэдлэгт нарийн тодорхойлолт өгч чадаагүй."
+   ],
+   "alt_en": [
+    "Try as they might, philosophers have failed to define knowledge precisely."
+   ],
+   "mn_latin": "Filosofichid khichneen oroldson ch medlegiig nariin todorkhoilj chadaagüi."
+  },
+  {
+   "mn": "Мэдрэхүй биднийг хуурч болно.",
+   "en": "Our senses can deceive us.",
+   "alt_mn": [
+    "Мэдрэхүй маань биднийг хуурч болно."
+   ],
+   "alt_en": [
+    "The senses can deceive us."
+   ],
+   "mn_latin": "Medrekhüi bidniig khuurch bolno."
+  },
+  {
+   "mn": "Танин мэдэхүйн онол бид юуг, яаж мэдэж чадахыг асуудаг.",
+   "en": "Epistemology asks what we can know and how.",
+   "alt_mn": [],
+   "alt_en": [
+    "The theory of knowledge asks what we can know and how."
+   ],
+   "mn_latin": "Tanin medekhüin onol bid yuug, yaaj medej chadakhyg asuudag."
+  },
+  {
+   "mn": "Нотолгоогүй итгэл үнэмшил бол хараахан мэдлэг биш.",
+   "en": "A belief without evidence is not yet knowledge.",
+   "alt_mn": [
+    "Нотолгоогүй итгэл үнэмшил одоохондоо мэдлэг болж чадахгүй."
+   ],
+   "alt_en": [
+    "A belief with no evidence is not yet knowledge."
+   ],
+   "mn_latin": "Notolgoogüi itgel ünemshil bol kharaakhan medleg bish."
+  },
+  {
+   "mn": "Декарт өөрийгөө бодож байгаа гэдэг баримтаас бусад бүх зүйлд эргэлзсэн.",
+   "en": "Descartes doubted everything except the fact that he was thinking.",
+   "alt_mn": [],
+   "alt_en": [
+    "Descartes doubted everything but the fact that he was thinking."
+   ],
+   "mn_latin": "Dyekart ööriigöö bodoj baigaa gedeg barimtaas busad bükh züild ergelzsen."
+  },
+  {
+   "mn": "Бид хичнээн оролдсон ч өөрийн ухамсраас гарч чадахгүй.",
+   "en": "Try as we might, we cannot step outside our own consciousness.",
+   "alt_mn": [
+    "Хичнээн оролдсон ч бид өөрийн ухамсраас гарч чадахгүй."
+   ],
+   "alt_en": [
+    "Try as we might, we can't step outside our own consciousness."
+   ],
+   "mn_latin": "Bid khichneen oroldson ch ööriin ukhamsraas garch chadakhgüi."
+  },
+  {
+   "mn": "Баримт өөрөө өөрийгөө тайлбарладаггүй.",
+   "en": "Facts do not interpret themselves.",
+   "alt_mn": [],
+   "alt_en": [
+    "Facts don't interpret themselves."
+   ],
+   "mn_latin": "Barimt ööröö ööriigöö tailbarladaggüi."
+  },
+  {
+   "mn": "Бид баттай байдлыг хичнээн хүссэн ч бага зэрэг эргэлзэх нь ашигтай.",
+   "en": "Much as we long for certainty, a little doubt is useful.",
+   "alt_mn": [
+    "Бид итгэлтэй байхыг хичнээн хүссэн ч бага зэргийн эргэлзээ ашигтай."
+   ],
+   "alt_en": [
+    "Much as we want certainty, a little doubt is useful."
+   ],
+   "mn_latin": "Bid battai baidlyg khichneen khüssen ch baga zereg ergelzekh ni ashigtai."
+  },
+  {
+   "mn": "Хүний танин мэдэхүй туршлагаар дамжин хөгждөг.",
+   "en": "Human cognition develops through experience.",
+   "alt_mn": [
+    "Хүний танин мэдэхүй туршлагаар хөгждөг."
+   ],
+   "alt_en": [],
+   "mn_latin": "Khünii tanin medekhüi turshlagaar damjin khögjdög."
+  },
+  {
+   "mn": "Таны энэ итгэл үнэмшил ямар үндэслэлтэй вэ?",
+   "en": "What grounds do you have for this belief?",
+   "alt_mn": [
+    "Та энэ итгэл үнэмшлээ юунд үндэслэдэг вэ?"
+   ],
+   "alt_en": [
+    "What is the justification for your belief?"
+   ],
+   "mn_latin": "Tany ene itgel ünemshil yamar ündesleltei ve?"
+  },
+  {
+   "mn": "Профессор хичнээн маргасан ч оюутнуудаа итгүүлж чадсангүй.",
+   "en": "Argue as he might, the professor could not convince his students.",
+   "alt_mn": [
+    "Профессор хэчнээн маргасан ч оюутнуудаа итгүүлж чадаагүй."
+   ],
+   "alt_en": [
+    "Argue as he might, the professor couldn't convince his students."
+   ],
+   "mn_latin": "Profyessor khichneen margasan ch oyuutnuudaa itgüülj chadsangüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Academic nouns with -хуй/-хүй; English concessive inversion",
+  "title_mn": "-хуй/-хүй дагавартай нэр томьёо; англи хэлний харшлах урвуу байрлал",
+  "explain_en": "Mongolian has an old suffix -хуй/-хүй that turns a verb into an abstract noun. Today it is not used to make new words in everyday speech, but it lives on in fixed academic terms: мэдэх 'to know' → мэдэхүй 'knowledge, cognition', мэдрэх 'to feel' → мэдрэхүй 'the senses', сэтгэх 'to think' → сэтгэхүй 'thinking, mentality'. Words with front vowels take -хүй, and words with back vowels take -хуй (compare the fixed word ахуй 'way of life'). These nouns take normal case endings, so the genitive form is -н: танин мэдэхүйн онол 'theory of knowledge', сэтгэхүйн хэв маяг 'way of thinking'. To say 'try as they might', Mongolian uses хичнээн/хэчнээн + past verb + ч: хичнээн оролдсон ч.",
+  "explain_mn": "Англи хэлэнд \"хичнээн ... ч\" гэсэн харшлах утгыг номын хэлний, уран яруу хэлбэрээр урвуу байрлалаар илэрхийлдэг. Загвар нь: Үйл үг + as + эзэн + might/may. Жишээ нь: Try as they might, ... (Тэд хичнээн оролдсон ч ...), Argue as he might, ... (Тэр хичнээн маргасан ч ...). Энд үйл үг ямар ч дагаваргүй, үндсэн хэлбэрээрээ өгүүлбэрийн эхэнд ирдэг. Харин \"Much as + бүрэн өгүүлбэр\" нь \"хичнээн ... ч\" гэсэн утгатай: Much as I respect him, ... (Би түүнийг хичнээн хүндэлдэг ч ...). Энэ бүтэц энгийн \"Although\"-оос илүү албан ёсны, хүчтэй сонсогддог тул лекц, эссэ бичихэд тохиромжтой.",
+  "examples": [
+   {
+    "mn": "Танин мэдэхүйн онол эргэлзээнээс эхэлдэг.",
+    "en": "Epistemology begins with doubt.",
+    "mn_latin": "Tanin medekhüin onol ergelzeenees ekheldeg."
+   },
+   {
+    "mn": "Мэдрэхүйн мэдээлэл үргэлж найдвартай байдаггүй.",
+    "en": "Information from the senses is not always reliable.",
+    "mn_latin": "Medrekhüin medeelel ürgelj naidvartai baidaggüi."
+   },
+   {
+    "mn": "Тэд хичнээн оролдсон ч үүнийг баталж чадаагүй.",
+    "en": "Try as they might, they could not prove it.",
+    "mn_latin": "Ted khichneen oroldson ch üüniig batalj chadaagüi."
+   },
+   {
+    "mn": "Би түүний бүтээлийг хичнээн биширдэг ч түүнтэй санал нийлэхгүй.",
+    "en": "Much as I admire her work, I disagree with her.",
+    "mn_latin": "Bi tüünii büteeliig khichneen bishirdeg ch tüüntei sanal niilekhgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Танин мэдэ___н онол мэдлэгийн мөн чанарыг судалдаг.",
+   "answer": "хүй",
+   "options": [
+    "хүй",
+    "хуй",
+    "лгийн",
+    "лтийн"
+   ],
+   "translation": "Epistemology studies the nature of knowledge.",
+   "explain_en": "The verb мэдэх has front vowels, so it takes -хүй: мэдэхүй. Then the genitive -н is added: мэдэхүйн онол 'theory of knowledge'.",
+   "explain_mn": "мэдэх үйл үг эм үгийн эгшигтэй тул -хүй дагавар авч мэдэхүй болно. Дараа нь харьяалахын -н нэмэгдэж мэдэхүйн онол болдог."
+  },
+  {
+   "lang": "mn",
+   "text": "Нотолгоо___ итгэл үнэмшил бол хараахан мэдлэг биш.",
+   "answer": "гүй",
+   "options": [
+    "гүй",
+    "гуй",
+    "той",
+    "ны"
+   ],
+   "translation": "A belief without evidence is not yet knowledge.",
+   "explain_en": "-гүй means 'without'. This suffix does not change with vowel harmony: it is always -гүй, so нотолгоо becomes нотолгоогүй. -той means 'with', the opposite meaning.",
+   "explain_mn": "-гүй дагавар \"байхгүй, -гүй\" гэсэн утгатай. нотолгоо гэдэг үгэнд нотолгоогүй гэж залгана. -той нь эсрэг утгатай тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид хичнээн оролдсон ___ үнэнийг бүрэн мэдэж чадахгүй.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "бол",
+    "тул",
+    "учраас"
+   ],
+   "translation": "Try as we might, we cannot fully know the truth.",
+   "explain_en": "The pattern хичнээн + past verb + ч means 'no matter how much... / try as we might'. тул and учраас mean 'because', and бол means 'if'.",
+   "explain_mn": "\"хичнээн ... -сан ч\" бүтэц харшлах утгыг илэрхийлнэ. тул, учраас нь шалтгаан, бол нь болзол заадаг тул тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "___ as they might, they couldn't prove the theory.",
+   "answer": "Try",
+   "options": [
+    "Try",
+    "Tried",
+    "Trying",
+    "To try"
+   ],
+   "translation": "Тэд хичнээн оролдсон ч онолыг баталж чадаагүй.",
+   "explain_en": "In concessive inversion the verb comes first in its bare form: Try as they might. Past tense is shown by 'might' and the main clause, not by the verb.",
+   "explain_mn": "Энэ бүтцэд үйл үг өгүүлбэрийн эхэнд дагаваргүй, үндсэн хэлбэрээрээ ирдэг: Try as they might. Өнгөрсөн цагийг үйл үг биш, might болон гол өгүүлбэр харуулна."
+  },
+  {
+   "lang": "en",
+   "text": "Much ___ I admire her work, I disagree with her conclusion.",
+   "answer": "as",
+   "options": [
+    "as",
+    "though",
+    "like",
+    "so"
+   ],
+   "translation": "Би түүний бүтээлийг хичнээн биширдэг ч түүний дүгнэлттэй санал нийлэхгүй.",
+   "explain_en": "The fixed concessive phrase is 'Much as + clause'. 'Much though' and 'Much like' do not work this way.",
+   "explain_mn": "\"Much as + өгүүлбэр\" нь тогтсон хэллэг бөгөөд \"хичнээн ... ч\" гэсэн утгатай. though, like, so гэж хэрэглэдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Argue as he ___, nobody in the lecture hall believed him.",
+   "answer": "might",
+   "options": [
+    "might",
+    "can",
+    "was",
+    "has"
+   ],
+   "translation": "Тэр хичнээн маргасан ч лекцийн танхимд байсан хэн ч түүнд итгээгүй.",
+   "explain_en": "The standard pattern is 'Verb + as + subject + might/may'. 'Might' fits best here because the situation is in the past.",
+   "explain_mn": "Энэ бүтцэд ихэвчлэн might эсвэл may хэрэглэдэг. Өнгөрсөн үйл явдлын тухай учир might нь хамгийн тохиромжтой."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батбаяр",
+   "mn": "Өнөөдөр бид танин мэдэхүйн онолын гол асуулттай танилцана: бид юуг үнэхээр мэдэж чадах вэ?",
+   "en": "Today we'll look at the central question of epistemology: what can we truly know?",
+   "mn_latin": "Önöödör bid tanin medekhüin onolyn gol asuulttai taniltsana: bid yuug ünekheer medej chadakh ve?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Багш аа, мэдрэхүй маань биднийг хуурч болдог бол аливаа баримтад яаж итгэх вэ?",
+   "en": "Professor, if our senses can deceive us, how can we trust any fact?",
+   "mn_latin": "Bagsh aa, medrekhüi maani bidniig khuurch boldog bol alivaa barimtad yaaj itgekh ve?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Сайн асуулт. Декарт яг ингэж бодоод, бодож байгаа гэдгээсээ бусад бүх зүйлд эргэлзсэн.",
+   "en": "Good question. Descartes thought exactly that and doubted everything except the fact that he was thinking.",
+   "mn_latin": "Sain asuult. Dyekart yag ingej bodood, bodoj baigaa gedgeesee busad bükh züild ergelzsen."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Би Декартыг хичнээн хүндэлдэг ч ийм хэмжээний эргэлзээ хэт туйлширсан гэж боддог.",
+   "en": "Much as I respect Descartes, I think that much doubt goes too far.",
+   "mn_latin": "Bi Dyekartyg khichneen khündeldeg ch iim khemjeenii ergelzee khet tuilshirsan gej boddog."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Олон хүн тантай санал нийлдэг. Гэхдээ үндэслэлгүй итгэл үнэмшил мэдлэг болж чадах уу?",
+   "en": "Many people agree with you. But can a belief without justification count as knowledge?",
+   "mn_latin": "Olon khün tantai sanal niildeg. Gekhdee ündeslelgüi itgel ünemshil medleg bolj chadakh uu?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Үгүй байх. Мэдлэгт нотолгоо хэрэгтэй, гэхдээ бүрэн баттай нотолгоо гэж байдаг уу?",
+   "en": "Probably not. Knowledge needs evidence, but is there ever completely certain evidence?",
+   "mn_latin": "Ügüi baikh. Medlegt notolgoo kheregtei, gekhdee büren battai notolgoo gej baidag uu?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Философичид хичнээн оролдсон ч энэ асуултад эцсийн хариулт өгч чадаагүй. Тиймээс л бид үргэлжлүүлэн судалдаг.",
+   "en": "Try as they might, philosophers have never given a final answer to that question. That's exactly why we keep studying it.",
+   "mn_latin": "Filosofichid khichneen oroldson ch ene asuultad etssiin khariult ögch chadaagüi. Tiimees l bid ürgeljlüülen sudaldag."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian Buddhist monasteries such as Gandan in Ulaanbaatar, monks have long studied logic and the theory of knowledge from Tibetan texts. They test ideas in lively debates in which the questioner punctuates each challenge with a sharp hand clap. Today Mongolian universities teach epistemology under the name \"танин мэдэхүйн онол\", a term built with the old suffix -хүй.",
+  "mn": "Улаанбаатарын Гандан зэрэг Монголын бурхны шашны хийдүүдэд лам нар төвд хэлээрх судраас логик, танин мэдэхүйн ухааныг эртнээс судалж ирсэн. Тэд санаагаа эрч хүчтэй мэтгэлцээнээр сорьдог бөгөөд асуулт тавигч нь асуулт бүрээ алгаа чанга ташиж тодотгодог. Өнөөдөр Монголын их сургуулиуд энэ салбарыг эртний -хүй дагавартай \"танин мэдэхүйн онол\" гэдэг нэрээр заадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A strong, accurate lesson. The fixes cover one wrong harmony explanation, one fill-in-the-blank with more than one correct answer, and two Mongolian word-choice errors."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "Solid lesson overall; two small fixes: an en/mn mismatch in one fill-in-the-blank explanation and one word choice in the culture note.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "The Mongolian explanation left out the role of 'might', so it did not match the English one."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'сэтгэл хөдөлгөм' means 'moving/touching', not 'lively'; replaced with 'эрч хүчтэй'."
+   }
+  ]
+ }
+}

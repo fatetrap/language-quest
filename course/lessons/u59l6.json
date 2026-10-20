@@ -1,0 +1,548 @@
+{
+ "intro_en": "Learn to plan and host a holiday meal: divide tasks, set the table and offer food politely. You will also review Mongolian diminutives, intensive reduplication and instructions, and use adjective order and compound adjectives in English.",
+ "intro_mn": "Баярын хоолоо төлөвлөж, ажлаа хуваарилж, ширээгээ засаж, зочдод эелдэг дайлахыг сурна. Мөн монгол хэлний -хан/-хэн нэмэгдэхүүн, давтлаар хүч нэмэх хэлбэр, захиж зааварлах хэлбэрийг давтаж, англи хэлний тэмдэг нэрийн дараалал болон нийлмэл тэмдэг нэрийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "зочин",
+   "en": "guest",
+   "pos": "noun",
+   "example_mn": "Өнөө орой манайд зочин ирнэ.",
+   "example_en": "Guests are coming to our place tonight.",
+   "mn_latin": "zochin"
+  },
+  {
+   "mn": "ширээ засах",
+   "en": "to set the table",
+   "pos": "verb phrase",
+   "example_mn": "Би ширээгээ засчихъя.",
+   "example_en": "Let me set the table.",
+   "mn_latin": "shiree zasakh"
+  },
+  {
+   "mn": "хуваарилах",
+   "en": "to divide, assign",
+   "pos": "verb",
+   "example_mn": "Ажлаа хуваарилчихъя.",
+   "example_en": "Let's divide up the work.",
+   "mn_latin": "khuvaarilakh"
+  },
+  {
+   "mn": "дайлах",
+   "en": "to treat (someone to food), offer",
+   "pos": "verb",
+   "example_mn": "Тэр зочдоо цайгаар дайлсан.",
+   "example_en": "She treated the guests to tea.",
+   "mn_latin": "dailakh"
+  },
+  {
+   "mn": "таваг",
+   "en": "serving dish, platter",
+   "pos": "noun",
+   "example_mn": "Буузаа таваг дээр тавь.",
+   "example_en": "Put the buuz on the platter.",
+   "mn_latin": "tavag"
+  },
+  {
+   "mn": "амтлах",
+   "en": "to season, flavor",
+   "pos": "verb",
+   "example_mn": "Шөлөө давсаар амтлаарай.",
+   "example_en": "Season the soup with salt.",
+   "mn_latin": "amtlakh"
+  },
+  {
+   "mn": "бэлтгэх",
+   "en": "to prepare",
+   "pos": "verb",
+   "example_mn": "Бид баярын хоол бэлтгэж байна.",
+   "example_en": "We are preparing a holiday meal.",
+   "mn_latin": "beltgekh"
+  },
+  {
+   "mn": "хүндэтгэх",
+   "en": "to honor, respect",
+   "pos": "verb",
+   "example_mn": "Өвгөнийг хүндэтгэн түрүүлж дайлна.",
+   "example_en": "Out of respect, we serve the elder first.",
+   "mn_latin": "khündetgekh"
+  },
+  {
+   "mn": "найр",
+   "en": "feast, party",
+   "pos": "noun",
+   "example_mn": "Цагаан сарын найр маш сайхан болсон.",
+   "example_en": "The Tsagaan Sar feast was wonderful.",
+   "mn_latin": "nair"
+  },
+  {
+   "mn": "нэмж аваарай",
+   "en": "please have more",
+   "pos": "phrase",
+   "example_mn": "Бууз нэмж аваарай.",
+   "example_en": "Please have more buuz.",
+   "mn_latin": "nemj avaarai"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөө орой манайд зочин ирнэ.",
+   "en": "Guests are coming to our place tonight.",
+   "alt_mn": [
+    "Өнөө орой бидэнд зочин ирнэ."
+   ],
+   "alt_en": [
+    "We're having guests tonight."
+   ],
+   "mn_latin": "Önöö oroi manaid zochin irne."
+  },
+  {
+   "mn": "Ажлаа хуваарилчихъя.",
+   "en": "Let's divide up the work.",
+   "alt_mn": [
+    "Ажлаа хувааж авъя."
+   ],
+   "alt_en": [
+    "Let's split up the tasks."
+   ],
+   "mn_latin": "Ajlaa khuvaarilchikhya."
+  },
+  {
+   "mn": "Чи махаа сайн сайн жижиглээрэй.",
+   "en": "Chop the meat really well.",
+   "alt_mn": [
+    "Та махаа сайн сайн жижиглээрэй."
+   ],
+   "alt_en": [
+    "Please chop the meat thoroughly."
+   ],
+   "mn_latin": "Chi makhaa sain sain jijigleerei."
+  },
+  {
+   "mn": "Би ширээгээ засчихъя.",
+   "en": "Let me set the table.",
+   "alt_mn": [
+    "Би ширээгээ засъя."
+   ],
+   "alt_en": [
+    "I'll set the table."
+   ],
+   "mn_latin": "Bi shireegee zaschikhya."
+  },
+  {
+   "mn": "Жаахан давс хийгээрэй.",
+   "en": "Add a little salt.",
+   "alt_mn": [
+    "Бага зэрэг давс хийгээрэй."
+   ],
+   "alt_en": [
+    "Put in a pinch of salt."
+   ],
+   "mn_latin": "Jaakhan davs khiigeerei."
+  },
+  {
+   "mn": "Энэ жижигхэн таваг дээр аарууль тавья.",
+   "en": "I'll put the aaruul on this small platter.",
+   "alt_mn": [],
+   "alt_en": [
+    "Let me put the aaruul on this little plate."
+   ],
+   "mn_latin": "Ene jijigkhen tavag deer aaruuli taviya."
+  },
+  {
+   "mn": "Шөлийг халуун халуун байхад нь уугаарай.",
+   "en": "Have the soup while it is piping hot.",
+   "alt_mn": [
+    "Шөлөө халуун халуун байхад нь уугаарай."
+   ],
+   "alt_en": [
+    "Eat the soup while it's nice and hot."
+   ],
+   "mn_latin": "Shöliig khaluun khaluun baikhad ni uugaarai."
+  },
+  {
+   "mn": "Өвөөгөөс эхэлж дайлаарай.",
+   "en": "Start by serving grandfather.",
+   "alt_mn": [],
+   "alt_en": [
+    "Serve grandfather first."
+   ],
+   "mn_latin": "Övöögöös ekhelj dailaarai."
+  },
+  {
+   "mn": "Бууз нэмж аваарай, битгий ичээрэй.",
+   "en": "Please have more buuz, don't be shy.",
+   "alt_mn": [
+    "Бууз нэмж аваарай, бүү ич."
+   ],
+   "alt_en": [
+    "Do have some more buuz, don't be shy."
+   ],
+   "mn_latin": "Buuz nemj avaarai, bitgii icheerei."
+  },
+  {
+   "mn": "Энэ бол халуун дулаан, гэрийн амттай хоол.",
+   "en": "This is a warm, home-cooked meal.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is a warm, homemade meal."
+   ],
+   "mn_latin": "Ene bol khaluun dulaan, geriin amttai khool."
+  },
+  {
+   "mn": "Хоол маш амттай, баярлалаа.",
+   "en": "The food is very tasty, thank you.",
+   "alt_mn": [
+    "Хоол үнэхээр амттай байна, баярлалаа."
+   ],
+   "alt_en": [
+    "The food is delicious, thanks."
+   ],
+   "mn_latin": "Khool mash amttai, bayarlalaa."
+  },
+  {
+   "mn": "Дараагийн удаа манайд заавал ирээрэй.",
+   "en": "Next time, be sure to come to our place.",
+   "alt_mn": [],
+   "alt_en": [
+    "Please come visit us again next time."
+   ],
+   "mn_latin": "Daraagiin udaa manaid zaaval ireerei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Diminutives, reduplication and instructions together",
+  "title_mn": "Нэмэгдэхүүн, давтлаар хүч нэмэх хэлбэр ба захиж зааварлах хэлбэр",
+  "explain_en": "Mongolian softens or shrinks words with -хан/-хэн/-хон (жижигхэн 'small', бага → багахан 'a little'), and it intensifies by repeating a word: сайн сайн 'really well', халуун халуун 'piping hot'. Polite instructions use -аарай/-ээрэй/-оорой/-өөрэй (жижиглээрэй 'please chop'), and -чих- adds the sense 'get it done' (засчихъя). English has a fixed adjective order: opinion (lovely) → size (big) → shape (round) → material (wooden) → noun, as in a lovely big round wooden table. Compound adjectives take a hyphen (home-cooked meal, mouth-watering dish, slow-cooked lamb) and never take a plural: a ten-minute walk.",
+  "explain_mn": "Монгол хэлэнд -хан/-хэн/-хон нь үгийг багасгаж, зөөлрүүлнэ (жижигхэн, багахан). Үгийг давтаж хүч нэмнэ: сайн сайн, халуун халуун. Эелдэг захиж зааварлахдаа -аарай/-ээрэй/-оорой/-өөрэй ашиглана (жижиглээрэй), -чих- нь «дуусгах» утга нэмнэ (засчихъя). Англи хэлэнд тэмдэг нэрийн дараалал тогтсон: үзэл бодол (lovely) → хэмжээ (big) → хэлбэр (round) → материал (wooden) → нэр. Жишээ: a lovely big round wooden table. Нийлмэл тэмдэг нэрийг зураасаар холбоно: home-cooked meal, mouth-watering dish, slow-cooked lamb. Ийм нийлмэл тэмдэг нэр олон тоонд орохгүй: a ten-minute walk.",
+  "examples": [
+   {
+    "mn": "Жаахан давс хийгээд сайн сайн хутгаарай.",
+    "en": "Add a little salt and stir it in really well.",
+    "mn_latin": "Jaakhan davs khiigeed sain sain khutgaarai."
+   },
+   {
+    "mn": "Жижигхэн аяганд халуун халуун шөл аваарай.",
+    "en": "Take some piping hot soup in a small bowl.",
+    "mn_latin": "Jijigkhen ayagand khaluun khaluun shöl avaarai."
+   },
+   {
+    "mn": "Ширээгээ хурдан засчихаарай.",
+    "en": "Please set the table quickly.",
+    "mn_latin": "Shireegee khurdan zaschikhaarai."
+   },
+   {
+    "mn": "Бага багаар амтлаарай.",
+    "en": "Season it little by little.",
+    "mn_latin": "Baga bagaar amtlaarai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Махаа сайн ___ жижиглээрэй.",
+   "answer": "сайн",
+   "options": [
+    "сайн",
+    "муу",
+    "их",
+    "жижиг"
+   ],
+   "translation": "Chop the meat really well.",
+   "explain_en": "Repeating сайн (сайн сайн) intensifies the meaning: 'really well'.",
+   "explain_mn": "«Сайн сайн» гэж давтаж хэлснээр утга чангарна."
+  },
+  {
+   "lang": "mn",
+   "text": "Жижиг___ таваг дээр аарууль тавь.",
+   "answer": "хэн",
+   "options": [
+    "хэн",
+    "хан",
+    "лаа",
+    "гаар"
+   ],
+   "translation": "Put the aaruul on the small platter.",
+   "explain_en": "Жижиг has front vowels (и), so the diminutive is -хэн: жижигхэн.",
+   "explain_mn": "«Жижиг» үгийн эгшиг зөөлөн (и) тул -хэн залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Ширээгээ хурдан зас___.",
+   "answer": "чихаарай",
+   "options": [
+    "чихаарай",
+    "чихээрэй",
+    "чихоорой",
+    "чихөөрэй"
+   ],
+   "translation": "Please set the table quickly.",
+   "explain_en": "-чих- means 'get it done'; after it the polite instruction ending is -аарай: засчихаарай.",
+   "explain_mn": "-чих- нь «дуусгах» утга нэмнэ, түүний дараа эелдэг захиа -аарай залгана: засчихаарай."
+  },
+  {
+   "lang": "en",
+   "text": "She served a ___ meal to the guests.",
+   "answer": "mouth-watering",
+   "options": [
+    "mouth-watering",
+    "mouth-watered",
+    "mouths-watering",
+    "watering-mouth"
+   ],
+   "translation": "Тэр зочдод шүлс гоожмоор амттай хоол барьсан.",
+   "explain_en": "Compound adjectives take a hyphen and no plural: mouth-watering.",
+   "explain_mn": "Нийлмэл тэмдэг нэр зураастай, олон тоогүй: mouth-watering."
+  },
+  {
+   "lang": "en",
+   "text": "We sat at a lovely ___ wooden table.",
+   "answer": "big round",
+   "options": [
+    "big round",
+    "round big",
+    "wooden big",
+    "round lovely"
+   ],
+   "translation": "Бид гоё том дугуй модон ширээний ард суулаа.",
+   "explain_en": "Order: opinion, size, shape, material, so 'lovely big round wooden'.",
+   "explain_mn": "Дараалал: үзэл бодол, хэмжээ, хэлбэр, материал."
+  },
+  {
+   "lang": "en",
+   "text": "It was a ___ lamb stew.",
+   "answer": "slow-cooked",
+   "options": [
+    "slow-cooked",
+    "slowly-cooked",
+    "slow cooking",
+    "slow-cooks"
+   ],
+   "translation": "Энэ бол удаан чанасан хурганы шөл байлаа.",
+   "explain_en": "Adverb-like 'slow' plus the past participle 'cooked' forms the hyphenated adjective slow-cooked.",
+   "explain_mn": "slow + cooked гэж зураасаар холбож тэмдэг нэр болгоно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Өнөө орой зочин ирнэ. Ажлаа хуваарилчихъя.",
+   "en": "Guests are coming tonight. Let's divide up the work.",
+   "mn_latin": "Önöö oroi zochin irne. Ajlaa khuvaarilchikhya."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За. Би юу хийх вэ?",
+   "en": "OK. What should I do?",
+   "mn_latin": "Za. Bi yuu khiikh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Чи махаа сайн сайн жижиглээрэй. Би ширээгээ засчихъя.",
+   "en": "Chop the meat really well. I'll set the table.",
+   "mn_latin": "Chi makhaa sain sain jijigleerei. Bi shireegee zaschikhya."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Давс хэр их хийх вэ?",
+   "en": "How much salt should I add?",
+   "mn_latin": "Davs kher ikh khiikh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Жаахан хийгээд амсаад үзээрэй.",
+   "en": "Add a little and taste it.",
+   "mn_latin": "Jaakhan khiigeed amsaad üzeerei."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Шөл халуун халуун байна. Жижигхэн аяга авчиръя.",
+   "en": "The soup is piping hot. I'll bring small bowls.",
+   "mn_latin": "Shöl khaluun khaluun baina. Jijigkhen ayaga avchirya."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна. Зочид ирэхээр бууз нэмж аваарай гэж хэлээрэй.",
+   "en": "Good. When the guests come, tell them to have more buuz.",
+   "mn_latin": "Sain baina. Zochid irekheer buuz nemj avaarai gej kheleerei."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За, бүгдийг нь сайхан дайлъя.",
+   "en": "Sure, let's treat everyone well.",
+   "mn_latin": "Za, bügdiig ni saikhan dailya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian homes, hosts serve the eldest guests first and keep urging everyone to eat more; refusing politely but accepting at least a taste is good manners. For Tsagaan Sar, tables hold stacks of buuz, a sheep's back, aaruul and sweets, whether in an apartment or a ger. Guests are expected to try everything and compliment the cook.",
+  "mn": "Монгол айлд өвгөн, хөгшин зочдоос эхлэн дайлж, хүн бүрийг нэмж аваарай гэж урина. Татгалзсан ч гэсэн ядаж амсаж үзэх нь соёлтой үйлдэл. Цагаан сарын ширээнд бууз, хонины уут, аарууль, чихэр өрсөн байх бөгөөд гэрт ч, орон сууцанд ч адилхан. Зочид бүх хоолыг амсаж, хоол хийсэн хүнийг сайшаадаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 19,
+  "notes": "Mostly good, but explain_mn described the wrong grammar, there are a couple of wrong Mongolian sentences (аль, эцэг эхнээс), and one fill_blank has unusable options; some of my fix entries are no-ops."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 26,
+  "notes": "Fixed the wrong words таваг/амсах, a broken fill-blank and its options, бүү usage, case errors in the dialogue and en/mn mismatch in the grammar.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "mn",
+    "why": "тавиур means shelf/stand; a platter is таваг"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "correct word for platter"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "en",
+    "why": "амтлах means season; 'taste' is амсах"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "the example used амтлах for 'taste'"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_en",
+    "why": "matches the new example"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "тавиур → таваг"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "'өвгөн эцгээс нь' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "'start by … first' is redundant"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "бүү does not combine with -ээрэй"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "correct form with бүү"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en version lacked the English part that mn has; added -хон"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "keep en/mn in sync (-хон)"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "'Жаахан давсыг' is unnatural"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "en",
+    "why": "matches the fixed sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "тавиур → таваг"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "'засч' + answer gave засччихаарай"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "options had Latin h and were not real forms; now a single correct answer by vowel harmony"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "explain the harmony choice"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "matches the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'ам ханатал' does not mean mouth-watering"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'taste' is амсах"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'аягатай аваад ирье' is ungrammatical"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "the subject must be зочид, not the accusative зочдоо"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "Зүгээр does not mean 'Sure' here"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'өрөөстэй' is not a word; fixed wording"
+   }
+  ]
+ }
+}

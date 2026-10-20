@@ -1,0 +1,655 @@
+{
+ "intro_en": "In this lesson you will learn how to say what nationality people are, like Mongolian, American, Chinese, Korean, Japanese and Russian. You will practice introducing yourself and others at a university orientation.",
+ "intro_mn": "Энэ хичээлээр та хүмүүсийн үндэс, иргэншлийг хэрхэн хэлэхийг сурна: монгол, америк, хятад, солонгос, япон, орос. Мөн их сургуулийн шинэ оюутны танилцах өдөр өөрийгөө болон бусдыг танилцуулж сурна.",
+ "vocab": [
+  {
+   "mn": "монгол хүн",
+   "en": "Mongolian (person)",
+   "pos": "noun",
+   "example_mn": "Би монгол хүн.",
+   "example_en": "I am Mongolian.",
+   "mn_latin": "mongol khün"
+  },
+  {
+   "mn": "америк хүн",
+   "en": "American (person)",
+   "pos": "noun",
+   "example_mn": "Тэр америк хүн.",
+   "example_en": "He is American.",
+   "mn_latin": "amyerik khün"
+  },
+  {
+   "mn": "хятад хүн",
+   "en": "Chinese (person)",
+   "pos": "noun",
+   "example_mn": "Ли багш хятад хүн.",
+   "example_en": "Teacher Li is Chinese.",
+   "mn_latin": "khyatad khün"
+  },
+  {
+   "mn": "солонгос хүн",
+   "en": "Korean (person)",
+   "pos": "noun",
+   "example_mn": "Жиён солонгос хүн.",
+   "example_en": "Jiyeon is Korean.",
+   "mn_latin": "solongos khün"
+  },
+  {
+   "mn": "япон хүн",
+   "en": "Japanese (person)",
+   "pos": "noun",
+   "example_mn": "Юки япон хүн.",
+   "example_en": "Yuki is Japanese.",
+   "mn_latin": "yapon khün"
+  },
+  {
+   "mn": "орос хүн",
+   "en": "Russian (person)",
+   "pos": "noun",
+   "example_mn": "Анна орос хүн.",
+   "example_en": "Anna is Russian.",
+   "mn_latin": "oros khün"
+  },
+  {
+   "mn": "оюутан",
+   "en": "student",
+   "pos": "noun",
+   "example_mn": "Би оюутан.",
+   "example_en": "I am a student.",
+   "mn_latin": "oyuutan"
+  },
+  {
+   "mn": "найз",
+   "en": "friend",
+   "pos": "noun",
+   "example_mn": "Энэ миний найз.",
+   "example_en": "This is my friend.",
+   "mn_latin": "naiz"
+  },
+  {
+   "mn": "танилцъя",
+   "en": "nice to meet you / let's get acquainted",
+   "pos": "verb",
+   "example_mn": "Танилцъя, намайг Болд гэдэг.",
+   "example_en": "Nice to meet you, my name is Bold.",
+   "mn_latin": "taniltsya"
+  },
+  {
+   "mn": "тэр",
+   "en": "he / she",
+   "pos": "pronoun",
+   "example_mn": "Тэр солонгос хүн.",
+   "example_en": "He is Korean.",
+   "mn_latin": "ter"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би монгол хүн.",
+   "en": "I am Mongolian.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm Mongolian."
+   ],
+   "mn_latin": "Bi mongol khün."
+  },
+  {
+   "mn": "Тэр америк хүн.",
+   "en": "He is American.",
+   "alt_mn": [],
+   "alt_en": [
+    "She is American.",
+    "He's American."
+   ],
+   "mn_latin": "Ter amyerik khün."
+  },
+  {
+   "mn": "Тэр солонгос хүн.",
+   "en": "She is Korean.",
+   "alt_mn": [],
+   "alt_en": [
+    "He is Korean.",
+    "She's Korean."
+   ],
+   "mn_latin": "Ter solongos khün."
+  },
+  {
+   "mn": "Та япон хүн үү?",
+   "en": "Are you Japanese?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ta yapon khün üü?"
+  },
+  {
+   "mn": "Тийм, би япон хүн.",
+   "en": "Yes, I am Japanese.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, I'm Japanese."
+   ],
+   "mn_latin": "Tiim, bi yapon khün."
+  },
+  {
+   "mn": "Үгүй, би хятад хүн.",
+   "en": "No, I am Chinese.",
+   "alt_mn": [],
+   "alt_en": [
+    "No, I'm Chinese."
+   ],
+   "mn_latin": "Ügüi, bi khyatad khün."
+  },
+  {
+   "mn": "Анна орос хүн.",
+   "en": "Anna is Russian.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Anna oros khün."
+  },
+  {
+   "mn": "Бид оюутнууд.",
+   "en": "We are students.",
+   "alt_mn": [],
+   "alt_en": [
+    "We're students."
+   ],
+   "mn_latin": "Bid oyuutnuud."
+  },
+  {
+   "mn": "Энэ миний найз. Тэр орос хүн.",
+   "en": "This is my friend. He is Russian.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is my friend. She is Russian."
+   ],
+   "mn_latin": "Ene minii naiz. Ter oros khün."
+  },
+  {
+   "mn": "Тэр монгол хүн биш.",
+   "en": "He is not Mongolian.",
+   "alt_mn": [],
+   "alt_en": [
+    "She is not Mongolian.",
+    "He isn't Mongolian."
+   ],
+   "mn_latin": "Ter mongol khün bish."
+  },
+  {
+   "mn": "Танилцъя, би Болд. Би монгол хүн.",
+   "en": "Nice to meet you, I am Bold. I am Mongolian.",
+   "alt_mn": [],
+   "alt_en": [
+    "Let's get acquainted. I'm Bold. I'm Mongolian."
+   ],
+   "mn_latin": "Taniltsya, bi Bold. Bi mongol khün."
+  },
+  {
+   "mn": "Манай багш америк хүн.",
+   "en": "Our teacher is American.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Manai bagsh amyerik khün."
+  }
+ ],
+ "grammar": {
+  "title_en": "Country + хүн = nationality",
+  "title_mn": "Англи хэл: үндэс, иргэншлийн нэр том үсгээр бичигдэнэ",
+  "explain_en": "In Mongolian, you say a nationality with the country or people name + хүн (person): монгол хүн, япон хүн. Unlike in English, nationality words are written with a small letter (but the country name is capitalized: Монгол Улс). There is no word for 'am/is/are' in these sentences: just say Би монгол хүн (literally 'I Mongolian person'). To say 'not', use биш: Би орос хүн биш. For yes/no questions add уу/үү: Та хятад хүн үү?",
+  "explain_mn": "Англи хэлэнд үндэс, иргэншлийг заасан үг үргэлж том үсгээр эхэлнэ: American, Korean, Japanese. Монгол хэлэнд эдгээр үгийг жижиг үсгээр бичдэг. Монгол хэлээс ялгаатай нь «байх» гэсэн үйл үг (am/is/are) заавал хэрэгтэй: I am Mongolian, He is American, She is Korean. «Хүн» гэдэг үг хэрэггүй: «америк хүн» = American. Асуухдаа үйл үгийг өгүүлбэрийн эхэнд тавина: Are you Japanese? Үгүйсгэхдээ not нэмнэ: She is not Russian.",
+  "examples": [
+   {
+    "mn": "Би монгол хүн.",
+    "en": "I am Mongolian.",
+    "mn_latin": "Bi mongol khün."
+   },
+   {
+    "mn": "Тэр солонгос хүн.",
+    "en": "She is Korean.",
+    "mn_latin": "Ter solongos khün."
+   },
+   {
+    "mn": "Тэр орос хүн биш.",
+    "en": "He is not Russian.",
+    "mn_latin": "Ter oros khün bish."
+   },
+   {
+    "mn": "Та америк хүн үү?",
+    "en": "Are you American?",
+    "mn_latin": "Ta amyerik khün üü?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би монгол ___.",
+   "answer": "хүн",
+   "options": [
+    "хүн",
+    "улс",
+    "найз",
+    "хэл"
+   ],
+   "translation": "I am Mongolian.",
+   "explain_en": "Nationality = country + хүн (person).",
+   "explain_mn": "Үндэс, иргэншил = улсын нэр + хүн."
+  },
+  {
+   "lang": "mn",
+   "text": "Та япон хүн ___?",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "уу",
+    "биш",
+    "бол"
+   ],
+   "translation": "Are you Japanese?",
+   "explain_en": "After a word with the front vowel ү (хүн), the question particle is үү.",
+   "explain_mn": "«хүн» үгэнд эмэгтэй «ү» эгшиг байгаа тул асуух сул үг «үү» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр орос хүн ___.",
+   "answer": "биш",
+   "options": [
+    "биш",
+    "үү",
+    "байна",
+    "хүн"
+   ],
+   "translation": "He is not Russian.",
+   "explain_en": "Биш makes the sentence negative: 'is not'.",
+   "explain_mn": "«Биш» нь өгүүлбэрийг үгүйсгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She ___ Korean.",
+   "answer": "is",
+   "options": [
+    "is",
+    "am",
+    "are",
+    "be"
+   ],
+   "translation": "Тэр солонгос хүн.",
+   "explain_en": "With he/she we use 'is'.",
+   "explain_mn": "He/she-тэй хамт «is» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I am ___.",
+   "answer": "Mongolian",
+   "options": [
+    "Mongolian",
+    "mongolian",
+    "Mongolia",
+    "Mongol person"
+   ],
+   "translation": "Би монгол хүн.",
+   "explain_en": "Use the nationality word, with a capital M. 'Mongolia' is the country.",
+   "explain_mn": "Үндсийг заасан үг «Mongolian» том үсгээр бичигдэнэ. «Mongolia» бол улсын нэр."
+  },
+  {
+   "lang": "en",
+   "text": "Yuki is ___.",
+   "answer": "Japanese",
+   "options": [
+    "Japanese",
+    "japanese",
+    "Japan",
+    "Japaner"
+   ],
+   "translation": "Юки япон хүн.",
+   "explain_en": "Nationalities always start with a capital letter in English.",
+   "explain_mn": "Англиар үндэс, иргэншлийн нэр үргэлж том үсгээр эхэлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу? Намайг Болд гэдэг. Би монгол хүн.",
+   "en": "Hello! My name is Bold. I am Mongolian.",
+   "mn_latin": "Sain baina uu? Namaig Bold gedeg. Bi mongol khün."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Сайн байна уу, Болд. Намайг Эмма гэдэг. Би америк хүн.",
+   "en": "Hello, Bold. My name is Emma. I am American.",
+   "mn_latin": "Sain baina uu, Bold. Namaig Emma gedeg. Bi amyerik khün."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Танилцсандаа таатай байна. Энэ хэн бэ?",
+   "en": "Nice to meet you. Who is this?",
+   "mn_latin": "Taniltssandaa taatai baina. Ene khen be?"
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Энэ миний найз Жиён. Тэр солонгос хүн.",
+   "en": "This is my friend Jiyeon. She is Korean.",
+   "mn_latin": "Ene minii naiz Jiyon. Ter solongos khün."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Жиён, та оюутан уу?",
+   "en": "Jiyeon, are you a student?",
+   "mn_latin": "Jiyon, ta oyuutan uu?"
+  },
+  {
+   "speaker": "Жиён",
+   "mn": "Тийм, би оюутан. Та хятад хүн үү?",
+   "en": "Yes, I am a student. Are you Chinese?",
+   "mn_latin": "Tiim, bi oyuutan. Ta khyatad khün üü?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Үгүй, би хятад хүн биш. Би монгол хүн.",
+   "en": "No, I am not Chinese. I am Mongolian.",
+   "mn_latin": "Ügüi, bi khyatad khün bish. Bi mongol khün."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia is home to several ethnic groups, such as Khalkha, Buryat and Kazakh, but all citizens can be called монгол хүн (Mongolian) or Монгол Улсын иргэн (citizen of Mongolia). Many students from Korea, Japan, China and Russia study in Ulaanbaatar, so university orientations there are often international.",
+  "mn": "Монгол Улсад халх, буриад, казах зэрэг олон ястан амьдардаг ч бүх иргэнийг монгол хүн буюу Монгол Улсын иргэн гэж хэлж болно. Солонгос, Япон, Хятад, Оросоос олон оюутан Улаанбаатарт суралцдаг тул их сургуулиудын шинэ оюутны танилцах өдөр олон улсын уур амьсгалтай байдаг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 22,
+  "notes": "Mostly good content; main problems were the mislabeled grammar title_mn, the wrong vowel explanation for үү, unnatural alt translations, and inconsistent speaker names."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 48,
+  "notes": "Main issues: capitalized nationality words (Mongolian writes them lowercase), the unnatural 'нэвтрэлтийн өдөр', the Jiyeon transliteration and illogical culture-note reasoning.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'нэвтрэлтийн өдөр' is not a natural word for orientation; nationality names are lowercase in Mongolian"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "mn",
+    "why": "nationality names are lowercase in Mongolian orthography"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "standard transliteration of Jiyeon; lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "alternative is now identical to the main answer"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "lowercase nationality and note the capitalization difference"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "lowercase nationality; makes the capitalization contrast explicit"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "garbled wording"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "transliteration of Jiyeon; lowercase nationality"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "transliteration of Jiyeon"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "speaker",
+    "why": "transliteration of Jiyeon"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "lowercase nationality"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Khalkha spelling; fixed illogical reasoning (students going abroad don't make UB orientations international)"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "same logic fix as the English; natural word for orientation; Монгол Улс capitalization"
+   }
+  ]
+ }
+}

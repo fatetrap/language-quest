@@ -1,0 +1,476 @@
+{
+ "intro_en": "Join a tour guide as she tells the legends behind Mongolian place names like Khövsgöl, Ölgii, and Terkhiin Tsagaan Lake. You will use \"гэдэг аж\" and \"гэж нэрлэсэн аж\" to retell stories you have heard from others, and learn where to put the subject after a fronted place phrase in English.",
+ "intro_mn": "Хөтөч Хөвсгөл, Өлгий, Тэрхийн Цагаан нуур зэрэг газрын нэрийн цаадах домгийг ярина. Та бусдаас сонссон зүйлээ \"гэдэг аж\", \"гэж нэрлэсэн аж\" хэлбэрээр дамжуулж сурна. Мөн англи хэлэнд газрын байршил заасан хэллэг өгүүлбэрийн эхэнд гарахад эзэн биеийг хаана тавихыг үзнэ.",
+ "vocab": [
+  {
+   "mn": "домог",
+   "en": "legend",
+   "pos": "noun",
+   "example_mn": "Энэ нуурын тухай сонирхолтой домог бий.",
+   "example_en": "There is an interesting legend about this lake.",
+   "mn_latin": "domog"
+  },
+  {
+   "mn": "нэрлэсэн",
+   "en": "named after",
+   "pos": "verb (past participle)",
+   "example_mn": "Энэ гудамжийг нэгэн яруу найрагчийн нэрээр нэрлэсэн.",
+   "example_en": "This street was named after a poet.",
+   "mn_latin": "nerlesen"
+  },
+  {
+   "mn": "гаралтай",
+   "en": "originating from, of ... origin",
+   "pos": "adjective",
+   "example_mn": "Энэ үг түрэг гаралтай.",
+   "example_en": "This word is of Turkic origin.",
+   "mn_latin": "garaltai"
+  },
+  {
+   "mn": "үлдэгдэл",
+   "en": "remnant, remains",
+   "pos": "noun",
+   "example_mn": "Энд эртний хотын үлдэгдэл бий.",
+   "example_en": "There are remains of an ancient city here.",
+   "mn_latin": "üldegdel"
+  },
+  {
+   "mn": "ул мөр",
+   "en": "trace, footprint",
+   "pos": "noun",
+   "example_mn": "Түүхийн ул мөр газрын нэрэнд үлддэг.",
+   "example_en": "Traces of history remain in place names.",
+   "mn_latin": "ul mör"
+  },
+  {
+   "mn": "худаг",
+   "en": "well",
+   "pos": "noun",
+   "example_mn": "Эмгэн худгаас ус авав.",
+   "example_en": "The old woman drew water from the well.",
+   "mn_latin": "khudag"
+  },
+  {
+   "mn": "галт уул",
+   "en": "volcano",
+   "pos": "noun",
+   "example_mn": "Хорго бол унтарсан галт уул.",
+   "example_en": "Khorgo is an extinct volcano.",
+   "mn_latin": "galt uul"
+  },
+  {
+   "mn": "арал",
+   "en": "island",
+   "pos": "noun",
+   "example_mn": "Нуурын голд жижиг арал бий.",
+   "example_en": "There is a small island in the middle of the lake.",
+   "mn_latin": "aral"
+  },
+  {
+   "mn": "хөндий",
+   "en": "valley",
+   "pos": "noun",
+   "example_mn": "Хөндийгөөр гол урсдаг.",
+   "example_en": "A river flows through the valley.",
+   "mn_latin": "khöndii"
+  },
+  {
+   "mn": "өлгий",
+   "en": "cradle",
+   "pos": "noun",
+   "example_mn": "Хүүхэд өлгийд унтаж байна.",
+   "example_en": "The baby is sleeping in the cradle.",
+   "mn_latin": "ölgii"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хөвсгөл гэдэг нэр түрэг хэлнээс гаралтай гэдэг аж.",
+   "en": "The name Khövsgöl is said to come from a Turkic language.",
+   "alt_mn": [
+    "Хөвсгөл гэдэг нэр түрэг гаралтай гэдэг аж."
+   ],
+   "alt_en": [
+    "They say the name Khövsgöl comes from a Turkic language.",
+    "The name Khövsgöl reportedly comes from a Turkic language."
+   ],
+   "mn_latin": "Khövsgöl gedeg ner türeg khelnees garaltai gedeg aj."
+  },
+  {
+   "mn": "Эрт урьд цагт энд нэгэн худаг байсан гэдэг аж.",
+   "en": "Long ago, there was a well here, they say.",
+   "alt_mn": [
+    "Эрт дээр үед энд нэгэн худаг байсан гэдэг аж."
+   ],
+   "alt_en": [
+    "Legend has it that there was a well here long ago.",
+    "Long ago, there was supposedly a well here."
+   ],
+   "mn_latin": "Ert urid tsagt end negen khudag baisan gedeg aj."
+  },
+  {
+   "mn": "Хөгшин эмгэн худгийнхаа амсрыг таглахаа мартсан гэдэг аж.",
+   "en": "An old woman forgot to cover the mouth of her well, the story goes.",
+   "alt_mn": [
+    "Нэгэн эмгэн худгаа таглахаа мартсан гэдэг аж."
+   ],
+   "alt_en": [
+    "They say an old woman forgot to cover her well.",
+    "An old woman reportedly forgot to cover the mouth of her well."
+   ],
+   "mn_latin": "Khögshin emgen khudgiinkhaa amsryg taglakhaa martsan gedeg aj."
+  },
+  {
+   "mn": "Нуурын голд байгаа арлыг өвгөний шидсэн таг гэдэг аж.",
+   "en": "The island in the middle of the lake is said to be the lid the old man threw.",
+   "alt_mn": [
+    "Нуурын голын арлыг өвгөний шидсэн таг гэдэг аж."
+   ],
+   "alt_en": [
+    "They say the island in the middle of the lake is the lid the old man threw."
+   ],
+   "mn_latin": "Nuuryn gold baigaa arlyg övgönii shidsen tag gedeg aj."
+  },
+  {
+   "mn": "Энэ хөндий өлгий шиг хэлбэртэй учраас Өлгий гэж нэрлэсэн аж.",
+   "en": "This valley is shaped like a cradle, so it was named Ölgii, they say.",
+   "alt_mn": [
+    "Энэ хөндийг өлгий шиг хэлбэртэй тул Өлгий гэж нэрлэсэн аж."
+   ],
+   "alt_en": [
+    "They say this valley was named Ölgii because it is shaped like a cradle."
+   ],
+   "mn_latin": "Ene khöndii ölgii shig khelbertei uchraas Ölgii gej nerlesen aj."
+  },
+  {
+   "mn": "Хорго галт уулын ул мөр одоо ч тод харагддаг.",
+   "en": "Traces of the Khorgo volcano can still be clearly seen today.",
+   "alt_mn": [
+    "Хорго галт уулын ул мөр одоо ч харагдсаар байна."
+   ],
+   "alt_en": [
+    "You can still clearly see traces of the Khorgo volcano today."
+   ],
+   "mn_latin": "Khorgo galt uulyn ul mör odoo ch tod kharagddag."
+  },
+  {
+   "mn": "Эдгээр хар чулуу эртний галт уулын үлдэгдэл юм.",
+   "en": "These black rocks are the remains of an ancient volcano.",
+   "alt_mn": [
+    "Эдгээр хар чулуу бол эртний галт уулын үлдэгдэл."
+   ],
+   "alt_en": [
+    "These black stones are remnants of an ancient volcano."
+   ],
+   "mn_latin": "Edgeer khar chuluu ertnii galt uulyn üldegdel yum."
+  },
+  {
+   "mn": "Энэ уулыг нутгийн нэгэн баатрын нэрээр нэрлэсэн аж.",
+   "en": "This mountain was reportedly named after a local hero.",
+   "alt_mn": [
+    "Энэ уулыг нутгийн нэгэн баатрын нэрээр нэрлэсэн гэдэг аж."
+   ],
+   "alt_en": [
+    "They say this mountain was named after a local hero."
+   ],
+   "mn_latin": "Ene uulyg nutgiin negen baatryn nereer nerlesen aj."
+  },
+  {
+   "mn": "Яг энд баатрын морь зогссон гэдэг аж.",
+   "en": "Right here stopped the hero's horse, legend has it.",
+   "alt_mn": [
+    "Баатрын морь яг энд зогссон гэдэг аж."
+   ],
+   "alt_en": [
+    "Legend has it that the hero's horse stopped right here.",
+    "Right here the hero's horse stopped, legend has it."
+   ],
+   "mn_latin": "Yag end baatryn mori zogsson gedeg aj."
+  },
+  {
+   "mn": "Энд тэр зогсоод нуур луу удаан харсан гэдэг аж.",
+   "en": "Here he stopped and gazed at the lake for a long time, they say.",
+   "alt_mn": [
+    "Тэр энд зогсоод нуур луу удаан харсан гэдэг аж."
+   ],
+   "alt_en": [
+    "They say he stopped here and looked at the lake for a long time."
+   ],
+   "mn_latin": "End ter zogsood nuur luu udaan kharsan gedeg aj."
+  },
+  {
+   "mn": "Тэр уулнаас нэгэн горхи урсан бууж ирсэн гэдэг аж.",
+   "en": "Down from that mountain flowed a stream, they say.",
+   "alt_mn": [
+    "Тэр уулнаас горхи урсаж ирсэн гэдэг аж."
+   ],
+   "alt_en": [
+    "They say a stream flowed down from that mountain."
+   ],
+   "mn_latin": "Ter uulnaas negen gorkhi ursan buuj irsen gedeg aj."
+  },
+  {
+   "mn": "Олон газрын нэр домгоос гаралтай ч эрдэмтэд өөрөөр тайлбарладаг.",
+   "en": "Many place names come from legends, but scholars explain them differently.",
+   "alt_mn": [
+    "Олон газрын нэр домгоос гаралтай боловч эрдэмтэд өөрөөр тайлбарладаг."
+   ],
+   "alt_en": [
+    "Many place names have legendary origins, but scholars explain them differently."
+   ],
+   "mn_latin": "Olon gazryn ner domgoos garaltai ch erdemted ööröör tailbarladag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Retelling what people say: гэдэг аж and гэж нэрлэсэн аж",
+  "title_mn": "Байршлын хэллэг эхэнд: Here it stopped ба Here stopped the horse",
+  "explain_en": "When Mongolians pass on a legend, they rarely state it as plain fact. They add \"гэдэг аж\" (roughly \"they say,\" \"it is said\") to the end of the sentence: \"Энд худаг байсан гэдэг аж\" means \"There was a well here, they say.\" The particle \"аж\" marks information you did not witness yourself but learned from others or from tradition. For names, use \"... гэж нэрлэсэн аж\" (\"it was named ..., reportedly\"). For the person or thing a place is named after, use \"...-ын нэрээр нэрлэсэн\" (\"named after ...\"). Tour guides use these forms constantly, because they sound respectful toward the story without claiming it is history.",
+  "explain_mn": "Англи хэлэнд газар заасан хэллэгийг (here, there, down the hill, into the lake) өгүүлбэрийн эхэнд гаргаж, түүхийг илүү уран болгож болно. Гэхдээ эзэн бие нь төлөөний үг (it, he, they) бол ердийн дараалал хэвээр үлдэнэ: \"Here it stopped.\" \"Here stopped it\" гэж хэлэхгүй. Эзэн бие нь нэр үг бол үйл үгийг түрүүлж тавьж болно: \"Here stopped the horse.\" \"Down the hill ran the river.\" Ийм урвуу дараалал нь голдуу come, go, stand, stop, flow, lie, run зэрэг хөдөлгөөн, байршлын үйл үгтэй хэрэглэгддэг. Энэ хэлбэр домог, уран зохиол, хөтчийн ярианд түгээмэл. Харин \"do/did\" туслах үйл үг энд нэмэгддэггүй.",
+  "examples": [
+   {
+    "mn": "Энд баатрын морь зогссон гэдэг аж.",
+    "en": "Here stopped the hero's horse, they say.",
+    "mn_latin": "End baatryn mori zogsson gedeg aj."
+   },
+   {
+    "mn": "Энд тэр зогссон гэдэг аж.",
+    "en": "Here it stopped, they say.",
+    "mn_latin": "End ter zogsson gedeg aj."
+   },
+   {
+    "mn": "Энэ нуурыг Тэрхийн Цагаан нуур гэж нэрлэсэн аж.",
+    "en": "This lake was named Terkhiin Tsagaan Lake, reportedly.",
+    "mn_latin": "Ene nuuryg Terkhiin Tsagaan nuur gej nerlesen aj."
+   },
+   {
+    "mn": "Уулнаас ус урсан бууж ирсэн гэдэг аж.",
+    "en": "Down from the mountain came the water, the story goes.",
+    "mn_latin": "Uulnaas us ursan buuj irsen gedeg aj."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эрт урьд цагт энд нэгэн худаг байсан гэдэг ___.",
+   "answer": "аж",
+   "options": [
+    "аж",
+    "байна",
+    "биз",
+    "юм уу"
+   ],
+   "translation": "Long ago, there was a well here, they say.",
+   "explain_en": "\"Гэдэг аж\" marks a story passed down by others, the standard way to retell a legend. \"Биз\" asks for agreement and \"юм уу\" makes a question, so neither fits a narrator's statement.",
+   "explain_mn": "\"Гэдэг аж\" нь бусдаас сонссон, уламжлагдан ирсэн мэдээллийг илэрхийлдэг тул домог ярихад тохирно. \"Биз\", \"юм уу\" нь асуулт, таамаг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ уулыг нутгийн нэгэн баатрын нэрээр ___ аж.",
+   "answer": "нэрлэсэн",
+   "options": [
+    "нэрлэсэн",
+    "гаралтай",
+    "нэртэй",
+    "нэрлэгдэх"
+   ],
+   "translation": "This mountain was reportedly named after a local hero.",
+   "explain_en": "\"...-ын нэрээр нэрлэсэн\" is the set phrase for \"named after someone.\" \"Гаралтай\" means \"originating from,\" \"нэртэй\" means \"having a name\" and does not fit after \"нэрээр,\" and \"нэрлэгдэх\" is a non-past form that cannot come before \"аж\" here.",
+   "explain_mn": "\"Хэн нэгний нэрээр нэрлэсэн\" нь тогтвортой хэллэг. \"Гаралтай\" нь гарал үүслийг заадаг. \"Нэртэй\" нь \"нэрээр\"-тэй зохицохгүй. \"Нэрлэгдэх\" нь ирээдүйн хэлбэр учраас \"аж\"-тай зохицохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Хөвсгөл гэдэг нэр түрэг хэлнээс ___ гэдэг аж.",
+   "answer": "гаралтай",
+   "options": [
+    "гаралтай",
+    "үлдэгдэл",
+    "нэрлэсэн",
+    "ул мөр"
+   ],
+   "translation": "The name Khövsgöl is said to come from a Turkic language.",
+   "explain_en": "\"...-аас гаралтай\" means \"comes from / is of ... origin\" and pairs with the ablative \"хэлнээс\" (from the language). \"Үлдэгдэл\" and \"ул мөр\" are nouns and do not fit the slot.",
+   "explain_mn": "\"...-аас гаралтай\" нь гарал үүсэл заадаг бөгөөд гарах тийн ялгалтай \"хэлнээс\"-тэй зохицно. \"Үлдэгдэл\", \"ул мөр\" нь нэр үг тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The horse ran across the valley. Here ___ stopped, and a spring appeared.",
+   "answer": "it",
+   "options": [
+    "it",
+    "did it",
+    "was it",
+    "stopped it"
+   ],
+   "translation": "Морь хөндийг гатлан давхив. Энд тэр зогсоход булаг гарч иржээ.",
+   "explain_en": "With a pronoun subject, a fronted \"here\" does not trigger inversion: \"Here it stopped.\" \"Stopped it\" is wrong word order, and \"did it\" and \"was it\" are question forms.",
+   "explain_mn": "Эзэн бие нь төлөөний үг (it) бол \"here\"-ийн дараа ердийн дараалал хэвээр байна: \"Here it stopped.\" \"Did it\", \"was it\" нь асуултын хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "Down the hill ___ the stream, straight into the lake.",
+   "answer": "rushed",
+   "options": [
+    "rushed",
+    "it rushed",
+    "did rush",
+    "rushing"
+   ],
+   "translation": "Горхи толгодын энгэрээр уруудан, шууд нуур луу хурдлан урсав.",
+   "explain_en": "The subject \"the stream\" is a noun, so after the fronted \"Down the hill\" the verb can come first: \"Down the hill rushed the stream.\" No \"did\" is added, and \"-ing\" alone cannot be the main verb.",
+   "explain_mn": "Эзэн бие нь нэр үг (the stream) тул байршлын хэллэгийн дараа үйл үгийг түрүүлж тавина. \"Did\" нэмэхгүй, \"-ing\" хэлбэр ганцаараа үндсэн үйл үг болохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "In the middle of the valley ___ the old couple's well.",
+   "answer": "stood",
+   "options": [
+    "stood",
+    "they stood",
+    "did stand",
+    "standing"
+   ],
+   "translation": "Хөндийн голд өвгөн эмгэн хоёрын худаг байжээ.",
+   "explain_en": "\"Stand\" is a typical verb for this inversion with a noun subject: \"In the middle of the valley stood the well.\" \"They stood\" would add a second, conflicting subject.",
+   "explain_mn": "\"Stand\" нь ийм урвуу дараалалд түгээмэл хэрэглэгддэг. Эзэн бие нь \"the old couple's well\" тул \"they\" нэмбэл давхар эзэн бие болж буруу болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Та бүхэн Тэрхийн Цагаан нуурт тавтай морилно уу! Энэ нуурын нэрийн тухай нэгэн домог бий.",
+   "en": "Welcome, everyone, to Terkhiin Tsagaan Lake! There is a legend about this lake's name.",
+   "mn_latin": "Ta bükhen Terkhiin Tsagaan nuurt tavtai morilno uu! Ene nuuryn neriin tukhai negen domog bii."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Сонсмоор байна. Нуур хэрхэн үүссэн юм бэ?",
+   "en": "I'd love to hear it. How did the lake form?",
+   "mn_latin": "Sonsmoor baina. Nuur kherkhen üüssen yum be?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Эрт урьд цагт энд нэгэн өвгөн эмгэн хоёр амьдардаг байсан гэдэг аж. Тэд худгаа таглахаа мартаж, ус хальж, хөндийг бүхэлд нь усанд автуулсан гэдэг аж.",
+   "en": "Long ago, an old couple lived here, they say. They forgot to cover their well, and the water overflowed and flooded the whole valley.",
+   "mn_latin": "Ert urid tsagt end negen övgön emgen khoyor amidardag baisan gedeg aj. Ted khudgaa taglakhaa martaj, us khalij, khöndiig bükheld ni usand avtuulsan gedeg aj."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгээд нуурын голын тэр арал юу юм бэ?",
+   "en": "And what about that island in the middle of the lake?",
+   "mn_latin": "Tegeed nuuryn golyn ter aral yuu yum be?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Өвгөн худгийн тагийг шидэхэд яг тэнд унасан гэдэг аж. Тиймээс арлыг худгийн таг гэж нэрлэдэг.",
+   "en": "When the old man threw the well's lid, right there it fell, they say. That's why people call the island the well lid.",
+   "mn_latin": "Övgön khudgiin tagiig shidekhed yag tend unasan gedeg aj. Tiimees arlyg khudgiin tag gej nerledeg."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Сайхан домог байна. Харин эрдэмтэд юу гэж тайлбарладаг вэ?",
+   "en": "What a lovely legend. But how do scientists explain it?",
+   "mn_latin": "Saikhan domog baina. Kharin erdemted yuu gej tailbarladag ve?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Эрдэмтдийн үзэж байгаагаар Хорго галт уулын лаав голыг хаасны улмаас нуур үүссэн. Эргэн тойрны хар чулуу бол тэр галт уулын үлдэгдэл юм.",
+   "en": "According to scientists, the lake formed when lava from the Khorgo volcano blocked a river. The black rocks all around are remnants of that volcano.",
+   "mn_latin": "Erdemtdiin üzej baigaagaar Khorgo galt uulyn laav golyg khaasny ulmaas nuur üüssen. Ergen toirny khar chuluu bol ter galt uulyn üldegdel yum."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгэхээр домог, шинжлэх ухаан хоёр нэг газрын ул мөрийг өөр өөрөөр уншдаг юм байна.",
+   "en": "So legend and science each read the traces of the same place in their own way.",
+   "mn_latin": "Tegekheer domog, shinjlekh ukhaan khoyor neg gazryn ul möriig öör ööröör unshdag yum baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian place names come with a legend, and locals happily retell them to visitors, usually ending with \"гэдэг аж\" to show the story belongs to tradition. Lake Khövsgöl is affectionately called \"Хөвсгөл далай ээж\" (Mother Sea Khövsgöl), and the name itself is often traced to a Turkic phrase meaning \"blue water lake.\" Terkhiin Tsagaan Lake sits beside the extinct Khorgo volcano, so folk stories and geology meet in the same landscape.",
+  "mn": "Монголын олон газрын нэр өөрийн гэсэн домогтой бөгөөд нутгийн иргэд жуулчдад сонирхуулахдаа ихэвчлэн \"гэдэг аж\" гэж төгсгөн, уламжлалаас дамжсан түүх гэдгийг илэрхийлдэг. Хөвсгөл нуурыг хүмүүс \"Хөвсгөл далай ээж\" гэж хайрлан дууддаг бөгөөд нэр нь \"хөх устай нуур\" гэсэн утгатай түрэг үгнээс гаралтай гэж үздэг. Тэрхийн Цагаан нуур унтарсан Хорго галт уулын дэргэд оршдог тул ардын домог, геологи хоёр нэг газар нийлдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "Solid lesson with accurate explanations. One ungrammatical dialogue line and one mistranslated fill-blank translation needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 12,
+  "notes": "Replaced the nonstandard 'нэрээр нэрийдсэн' with 'нэрээр нэрлэсэн' throughout; the dual grammar focus (Mongolian evidential 'гэдэг аж' for English speakers, English inversion after a fronted place phrase for Mongolian speakers) is left as designed.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "'нэрийдэх' means 'to act under a name or pretext'; the standard form for 'named after' is '...-ын нэрээр нэрлэсэн'"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "Standard Khalkha uses 'нэрээр нэрлэсэн'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "Replace the unnatural 'нэрийдсэн'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "The old alternative is now identical to the main sentence, so a different valid alternative is given"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "'домгоос гаралтай' (from legends) is the natural form here"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Replace 'нэрийдсэн' with the standard 'нэрлэсэн'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "answer",
+    "why": "Standard form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "The options must include the corrected answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Matches the corrected answer and covers every distractor"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Matches the corrected answer and keeps the en and mn versions parallel"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Remove the nonstandard 'нэрийдсэн'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "Align with the mn explanation"
+   }
+  ]
+ }
+}

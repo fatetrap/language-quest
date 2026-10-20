@@ -1,0 +1,478 @@
+{
+ "intro_en": "You will learn to talk about small everyday mishaps and express regret about the past with the third conditional (If I had known, I would have...). In Mongolian you will use -сан бол ... -х байсан.",
+ "intro_mn": "Та өдөр тутмын жижиг алдааны тухай ярьж, өнгөрсөн явдалд харамсахыг сурна. Англиар third conditional (If I had known, I would have...) хэрэглэнэ, монголоор -сан бол ... -х байсан бүтцийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "хоцрох",
+   "en": "to be late; to miss (a deadline)",
+   "pos": "verb",
+   "example_mn": "Би хичээлээсээ хоцорсон.",
+   "example_en": "I was late for my class.",
+   "mn_latin": "khotsrokh"
+  },
+  {
+   "mn": "алдах",
+   "en": "to miss; to lose",
+   "pos": "verb",
+   "example_mn": "Би сүүлчийн автобусаа алдсан.",
+   "example_en": "I missed the last bus.",
+   "mn_latin": "aldakh"
+  },
+  {
+   "mn": "мартах",
+   "en": "to forget",
+   "pos": "verb",
+   "example_mn": "Би шүхрээ мартсан.",
+   "example_en": "I forgot my umbrella.",
+   "mn_latin": "martakh"
+  },
+  {
+   "mn": "шүхэр",
+   "en": "umbrella",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр бороо орсон ч шүхэр надад байгаагүй.",
+   "example_en": "It rained today, but I didn't have an umbrella.",
+   "mn_latin": "shükher"
+  },
+  {
+   "mn": "түгжрэл",
+   "en": "traffic jam",
+   "pos": "noun",
+   "example_mn": "Улаанбаатарт өглөө түгжрэл их байдаг.",
+   "example_en": "There is a lot of traffic in Ulaanbaatar in the morning.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "унаа",
+   "en": "ride; transport",
+   "pos": "noun",
+   "example_mn": "Надад унаа олдсонгүй.",
+   "example_en": "I couldn't find a ride.",
+   "mn_latin": "unaa"
+  },
+  {
+   "mn": "бүтэлгүйтэх",
+   "en": "to fail; to go wrong",
+   "pos": "verb",
+   "example_mn": "Миний төлөвлөгөө бүтэлгүйтсэн.",
+   "example_en": "My plan went wrong.",
+   "mn_latin": "bütelgüitekh"
+  },
+  {
+   "mn": "эрт",
+   "en": "early",
+   "pos": "adverb",
+   "example_mn": "Эрт гарсан бол болох байсан.",
+   "example_en": "It would have been fine if I had left early.",
+   "mn_latin": "ert"
+  },
+  {
+   "mn": "харамсах",
+   "en": "to regret",
+   "pos": "verb",
+   "example_mn": "Би хоцорсондоо харамсаж байна.",
+   "example_en": "I regret being late.",
+   "mn_latin": "kharamsakh"
+  },
+  {
+   "mn": "цаг",
+   "en": "time; hour; clock",
+   "pos": "noun",
+   "example_mn": "Надад хангалттай цаг байсангүй.",
+   "example_en": "I didn't have enough time.",
+   "mn_latin": "tsag"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хэрэв би эрт гарсан бол автобусаа алдахгүй байсан.",
+   "en": "If I had left early, I wouldn't have missed the bus.",
+   "alt_mn": [
+    "Хэрэв эрт гарсан бол би автобусаа алдахгүй байсан."
+   ],
+   "alt_en": [
+    "I wouldn't have missed the bus if I had left early."
+   ],
+   "mn_latin": "Kherev bi ert garsan bol avtobusaa aldakhgüi baisan."
+  },
+  {
+   "mn": "Хэрэв шүхрээ мартаагүй бол норохгүй байсан.",
+   "en": "If I hadn't forgotten my umbrella, I wouldn't have gotten wet.",
+   "alt_mn": [
+    "Шүхрээ мартаагүй бол би норохгүй байсан."
+   ],
+   "alt_en": [
+    "I wouldn't have gotten wet if I hadn't forgotten my umbrella."
+   ],
+   "mn_latin": "Kherev shükhree martaagüi bol norokhgüi baisan."
+  },
+  {
+   "mn": "Хэрэв түгжрэлийг мэдсэн бол явганаар явах байсан.",
+   "en": "If I had known about the traffic jam, I would have walked.",
+   "alt_mn": [
+    "Түгжрэлийг мэдсэн бол би явганаар явах байсан."
+   ],
+   "alt_en": [
+    "If I had known about the traffic, I would have gone on foot."
+   ],
+   "mn_latin": "Kherev tügjreliig medsen bol yavganaar yavakh baisan."
+  },
+  {
+   "mn": "Хэрэв сэрүүлгээ тавьсан бол хичээлээсээ хоцрохгүй байсан.",
+   "en": "If I had set my alarm, I wouldn't have been late for class.",
+   "alt_mn": [
+    "Сэрүүлгээ тавьсан бол хичээлээсээ хоцрохгүй байсан."
+   ],
+   "alt_en": [
+    "I wouldn't have been late for class if I had set my alarm."
+   ],
+   "mn_latin": "Kherev serüülgee tavisan bol khicheeleesee khotsrokhgüi baisan."
+  },
+  {
+   "mn": "Хэрэв надад унаа олдсон бол цагтаа очих байсан.",
+   "en": "If I had found a ride, I would have arrived on time.",
+   "alt_mn": [
+    "Унаа олдсон бол би цагтаа очих байсан."
+   ],
+   "alt_en": [
+    "I would have arrived on time if I had found a ride."
+   ],
+   "mn_latin": "Kherev nadad unaa oldson bol tsagtaa ochikh baisan."
+  },
+  {
+   "mn": "Хэрэв чамайг хоцорно гэдгийг мэдсэн бол хүлээхгүй байсан.",
+   "en": "If I had known you would be late, I wouldn't have waited.",
+   "alt_mn": [
+    "Чамайг хоцорно гэж мэдсэн бол би хүлээхгүй байсан."
+   ],
+   "alt_en": [
+    "I wouldn't have waited if I had known you would be late."
+   ],
+   "mn_latin": "Kherev chamaig khotsorno gedgiig medsen bol khüleekhgüi baisan."
+  },
+  {
+   "mn": "Хэрэв утсаа мартаагүй бол чамд залгах байсан.",
+   "en": "If I hadn't forgotten my phone, I would have called you.",
+   "alt_mn": [
+    "Утсаа мартаагүй бол би чамд залгах байсан."
+   ],
+   "alt_en": [
+    "I would have called you if I hadn't forgotten my phone."
+   ],
+   "mn_latin": "Kherev utsaa martaagüi bol chamd zalgakh baisan."
+  },
+  {
+   "mn": "Хэрэв цаг агаарын мэдээг сонссон бол дулаан хувцаслах байсан.",
+   "en": "If I had listened to the weather forecast, I would have dressed warmly.",
+   "alt_mn": [
+    "Цаг агаарын мэдээг сонссон бол дулаан хувцаслах байсан."
+   ],
+   "alt_en": [
+    "I would have dressed warmly if I had listened to the forecast."
+   ],
+   "mn_latin": "Kherev tsag agaaryn medeeg sonsson bol dulaan khuvtsaslakh baisan."
+  },
+  {
+   "mn": "Хэрэв тэр хоцроогүй бол бид киног үзэж амжих байсан.",
+   "en": "If he hadn't been late, we would have made it to the movie.",
+   "alt_mn": [
+    "Тэр хоцроогүй бол бид киног үзэж амжих байсан."
+   ],
+   "alt_en": [
+    "We would have made it to the movie if he hadn't been late."
+   ],
+   "mn_latin": "Kherev ter khotsroogüi bol bid kinog üzej amjikh baisan."
+  },
+  {
+   "mn": "Хэрэв төлөвлөгөө бүтэлгүйтээгүй бол бид баяртай байх байсан.",
+   "en": "If the plan hadn't gone wrong, we would have been happy.",
+   "alt_mn": [
+    "Төлөвлөгөө бүтэлгүйтээгүй бол бид баяртай байх байсан."
+   ],
+   "alt_en": [
+    "We would have been happy if the plan hadn't gone wrong."
+   ],
+   "mn_latin": "Kherev tölövlögöö bütelgüiteegüi bol bid bayartai baikh baisan."
+  },
+  {
+   "mn": "Хэрэв надад илүү цаг байсан бол өглөөний цайгаа уух байсан.",
+   "en": "If I had had more time, I would have had breakfast.",
+   "alt_mn": [
+    "Илүү цаг байсан бол би өглөөний цайгаа уух байсан."
+   ],
+   "alt_en": [
+    "I would have had breakfast if I had had more time."
+   ],
+   "mn_latin": "Kherev nadad ilüü tsag baisan bol öglöönii tsaigaa uukh baisan."
+  },
+  {
+   "mn": "Хэрэв би үүнийг мэдсэн бол харамсахгүй байсан.",
+   "en": "If I had known this, I wouldn't have regretted it.",
+   "alt_mn": [
+    "Үүнийг мэдсэн бол би харамсахгүй байсан."
+   ],
+   "alt_en": [
+    "I wouldn't have regretted it if I had known this."
+   ],
+   "mn_latin": "Kherev bi üüniig medsen bol kharamsakhgüi baisan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Past unreal conditions: -сан бол ... -х байсан",
+  "title_mn": "Өнгөрсөн цагийн боломжгүй нөхцөл: If + had + V3, would have + V3",
+  "explain_en": "To say what would have happened differently in the past, Mongolian uses the past participle ending -сан/-сэн/-сон/-сөн (or negative -аагүй/-ээгүй/-оогүй/-өөгүй) + бол in the 'if' part, and the future participle -х + байсан in the result part. Хэрэв ('if') is optional but common. Example: мэдсэн бол (if I had known) ... очих байсан (I would have gone). Negatives: мэдээгүй бол ... очихгүй байсан. Choose the vowel to match the stem: ир-сэн, яв-сан, үз-сэн, ор-сон.",
+  "explain_mn": "Англи хэлэнд өнгөрсөнд болоогүй зүйлийн тухай хэлэхдээ if + had + V3 (мэдсэн бол) ба would have + V3 (...х байсан) бүтцийг хэрэглэнэ. Жишээ нь: If I had known, I would have come. Үгүйсгэхдээ hadn't + V3 ба wouldn't have + V3 гэнэ: If I hadn't forgotten, I wouldn't have been late. Монголоор -сан бол ... -х байсан гэж хэлнэ; if-ийн хэсэгт had + V3, үр дүнд would have + V3 хэрэглэхээ санаарай.",
+  "examples": [
+   {
+    "mn": "Мэдсэн бол би ирэх байсан.",
+    "en": "If I had known, I would have come.",
+    "mn_latin": "Medsen bol bi irekh baisan."
+   },
+   {
+    "mn": "Эрт босоогүй бол хоцрох байсан.",
+    "en": "If I hadn't gotten up early, I would have been late.",
+    "mn_latin": "Ert bosoogüi bol khotsrokh baisan."
+   },
+   {
+    "mn": "Шүхэр авсан бол норохгүй байсан.",
+    "en": "If I had taken an umbrella, I wouldn't have gotten wet.",
+    "mn_latin": "Shükher avsan bol norokhgüi baisan."
+   },
+   {
+    "mn": "Автобус удаан ирээгүй бол цагтаа очих байсан.",
+    "en": "If the bus hadn't taken so long, I would have arrived on time.",
+    "mn_latin": "Avtobus udaan ireegüi bol tsagtaa ochikh baisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эрт гарсан ___ би хоцрохгүй байсан.",
+   "answer": "бол",
+   "options": [
+    "бол",
+    "болоод",
+    "ч",
+    "гэж"
+   ],
+   "translation": "If I had left early, I wouldn't have been late.",
+   "explain_en": "The conditional particle бол follows the past participle (гарсан бол) to mean 'if ... had'.",
+   "explain_mn": "Нөхцөлийг -сан бол гэж илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Шүхрээ мартаагүй бол норохгүй ___.",
+   "answer": "байсан",
+   "options": [
+    "байсан",
+    "байна",
+    "бол",
+    "болсон"
+   ],
+   "translation": "If I hadn't forgotten my umbrella, I wouldn't have gotten wet.",
+   "explain_en": "The result clause is negative: -хгүй байсан = 'wouldn't have'.",
+   "explain_mn": "Үр дүнгийн хэсэгт үгүйсгэл -хгүй байсан гэж хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Түгжрэлийг мэд___ бол явганаар явах байсан.",
+   "answer": "сэн",
+   "options": [
+    "сэн",
+    "сан",
+    "сон",
+    "х"
+   ],
+   "translation": "If I had known about the traffic, I would have walked.",
+   "explain_en": "Мэд- has the vowel э, so the ending is -сэн (vowel harmony).",
+   "explain_mn": "Мэд- гэсэн үг э эгшигтэй тул -сэн залгана."
+  },
+  {
+   "lang": "en",
+   "text": "If I ___ the alarm, I wouldn't have been late.",
+   "answer": "had set",
+   "options": [
+    "had set",
+    "would set",
+    "have set",
+    "set"
+   ],
+   "translation": "Сэрүүлгээ тавьсан бол хоцрохгүй байсан.",
+   "explain_en": "Third conditional uses 'had + past participle' in the if-clause.",
+   "explain_mn": "If-ийн хэсэгт had + V3 хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "If she had called, I ___ have waited.",
+   "answer": "wouldn't",
+   "options": [
+    "wouldn't",
+    "won't",
+    "hadn't",
+    "didn't"
+   ],
+   "translation": "Хэрэв тэр залгасан бол би хүлээхгүй байсан.",
+   "explain_en": "The result clause needs 'would(n't) have + past participle'.",
+   "explain_mn": "Үр дүнгийн хэсэгт would(n't) have + V3 хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I would have caught the bus if I ___ earlier.",
+   "answer": "had left",
+   "options": [
+    "had left",
+    "would leave",
+    "left",
+    "have left"
+   ],
+   "translation": "Эрт гарсан бол би автобусанд амжих байсан.",
+   "explain_en": "After 'if' in a past unreal condition, use 'had left', not 'would leave'.",
+   "explain_mn": "If-ийн дараа would биш had + V3 ордог."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Чи яагаад хоцорсон бэ?",
+   "en": "Why were you late?",
+   "mn_latin": "Chi yaagaad khotsorson be?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Би автобусаа алдсан. Түгжрэл маш их байсан.",
+   "en": "I missed my bus. The traffic was terrible.",
+   "mn_latin": "Bi avtobusaa aldsan. Tügjrel mash ikh baisan."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Эрт гарсан бол цагтаа ирэх байсан биз дээ.",
+   "en": "If you had left early, you would have arrived on time, right?",
+   "mn_latin": "Ert garsan bol tsagtaa irekh baisan biz dee."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм. Түгжрэлийг мэдсэн бол явганаар ирэх байсан.",
+   "en": "Yes. If I had known about the traffic, I would have walked.",
+   "mn_latin": "Tiim. Tügjreliig medsen bol yavganaar irekh baisan."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бороо орж байна. Шүхэр авсан уу?",
+   "en": "It's raining. Did you bring an umbrella?",
+   "mn_latin": "Boroo orj baina. Shükher avsan uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Үгүй, мартсан. Цаг агаарын мэдээ сонссон бол авах байсан.",
+   "en": "No, I forgot. If I had listened to the forecast, I would have taken one.",
+   "mn_latin": "Ügüi, martsan. Tsag agaaryn medee sonsson bol avakh baisan."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Харамсалтай. Миний шүхрийн доор хамт явъя.",
+   "en": "That's a pity. Let's go together under my umbrella.",
+   "mn_latin": "Kharamsaltai. Minii shükhriin door khamt yavya."
+  }
+ ],
+ "culture_note": {
+  "en": "Traffic jams in Ulaanbaatar are famous, especially in the morning and evening rush hours, so people often say they were 'stuck in a jam' when they arrive late. Many residents plan extra time or use the bus and the minibus network. Weather also changes quickly, so carrying an umbrella or a jacket is wise.",
+  "mn": "Улаанбаатарын түгжрэл алдартай. Ялангуяа өглөө, оройн ачаалалтай цагаар хүмүүс хоцорсон шалтгаанаа ихэвчлэн түгжрэлд орсноор тайлбарладаг. Олон хүн илүү цаг гаргадаг, эсвэл автобус, микро автобусаар явдаг. Цаг агаар хурдан өөрчлөгддөг тул шүхэр, хүрэм авч явах нь ухаалаг хэрэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 15,
+  "notes": "Mostly sound content, but there is a hidden soft hyphen, a confusing Mongolian explanation, and a few fill-in-the-blank items with flawed blanks or translations."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Main problems were the nonexistent Ulaanbaatar metro, a doubled байсан in a fill-in blank, and some unnatural Mongolian in the dialogue.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "Ulaanbaatar has no metro"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "en",
+    "why": "Ulaanbaatar has no metro"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "Ulaanbaatar has no metro"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "Ulaanbaatar has no metro"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "Possessor надад was missing"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "Unnatural English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "Байсан appeared twice with the answer filled in"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "No metro in Ulaanbaatar"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "Matches the edited text"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "No metro in Ulaanbaatar"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "No metro in Ulaanbaatar"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Мэдээ alone means 'news', not 'forecast'"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'Шүхрээр хамт явъя' is unnatural"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Aligned with en ('or', not 'therefore'); more natural wording"
+   }
+  ]
+ }
+}

@@ -1,0 +1,528 @@
+{
+ "intro_en": "You will learn to describe an injury and your recovery to a physio, and to explain what went wrong using -ын улмаас. In English you will also practice the difference between try + gerund and try + infinitive, and between regret + gerund and regret + infinitive.",
+ "intro_mn": "Та физиотерапевтэд бэртлээ болон эдгэрч буй байдлаа тайлбарлаж, -ын улмаас хэлбэрээр шалтгаанаа хэлж сурна. Мөн англи хэлний try + gerund / infinitive болон regret + gerund / infinitive-ийн ялгааг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "бэртэл",
+   "en": "injury",
+   "pos": "noun",
+   "example_mn": "Энэ бэртэл надад маш их саад болсон.",
+   "example_en": "This injury got in my way a lot.",
+   "mn_latin": "bertel"
+  },
+  {
+   "mn": "булгалалт",
+   "en": "sprain",
+   "pos": "noun",
+   "example_mn": "Миний шагайн булгалалт хүнд байна.",
+   "example_en": "My ankle sprain is serious.",
+   "mn_latin": "bulgalalt"
+  },
+  {
+   "mn": "булчин",
+   "en": "muscle",
+   "pos": "noun",
+   "example_mn": "Гуяны булчин чинь чангарчихсан байна.",
+   "example_en": "Your thigh muscle has tightened up.",
+   "mn_latin": "bulchin"
+  },
+  {
+   "mn": "үе",
+   "en": "joint",
+   "pos": "noun",
+   "example_mn": "Өвдөгний үе өвдөж байна.",
+   "example_en": "My knee joint hurts.",
+   "mn_latin": "üye"
+  },
+  {
+   "mn": "шагай",
+   "en": "ankle",
+   "pos": "noun",
+   "example_mn": "Би шагайгаа мурийлгасан.",
+   "example_en": "I twisted my ankle.",
+   "mn_latin": "shagai"
+  },
+  {
+   "mn": "сэргээн засах",
+   "en": "to rehabilitate",
+   "pos": "verb",
+   "example_mn": "Сэргээн засах эмчилгээ гурван долоо хоног үргэлжилнэ.",
+   "example_en": "The rehabilitation treatment lasts three weeks.",
+   "mn_latin": "sergeen zasakh"
+  },
+  {
+   "mn": "амрах",
+   "en": "to rest",
+   "pos": "verb",
+   "example_mn": "Эмч надад долоо хоног амрахыг зөвлөсөн.",
+   "example_en": "The doctor advised me to rest for a week.",
+   "mn_latin": "amrakh"
+  },
+  {
+   "mn": "хавдар",
+   "en": "swelling",
+   "pos": "noun",
+   "example_mn": "Шагайн хавдар бага зэрэг буурсан.",
+   "example_en": "The ankle swelling has gone down a little.",
+   "mn_latin": "khavdar"
+  },
+  {
+   "mn": "уралдаан",
+   "en": "race",
+   "pos": "noun",
+   "example_mn": "Би хавар болсон уралдаанд оролцож чадаагүй.",
+   "example_en": "I couldn't take part in the race in spring.",
+   "mn_latin": "uraldaan"
+  },
+  {
+   "mn": "дасгал хийх",
+   "en": "to exercise",
+   "pos": "verb",
+   "example_mn": "Өдөр бүр хөнгөн дасгал хийх хэрэгтэй.",
+   "example_en": "You need to do light exercises every day.",
+   "mn_latin": "dasgal khiikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Шагайн булгалалтын улмаас би уралдаанд оролцож чадсангүй.",
+   "en": "Because of an ankle sprain, I couldn't take part in the race.",
+   "alt_mn": [
+    "Шагайн булгалалтын улмаас би уралдаанд орж чадсангүй."
+   ],
+   "alt_en": [
+    "I couldn't take part in the race due to an ankle sprain."
+   ],
+   "mn_latin": "Shagain bulgalaltyn ulmaas bi uraldaand oroltsoj chadsangüi."
+  },
+  {
+   "mn": "Бэртлийн улмаас бэлтгэл маань зогссон.",
+   "en": "My training stopped because of the injury.",
+   "alt_mn": [],
+   "alt_en": [
+    "My training stopped due to the injury."
+   ],
+   "mn_latin": "Bertliin ulmaas beltgel maani zogsson."
+  },
+  {
+   "mn": "Шагай чинь хаана өвдөж байна вэ?",
+   "en": "Where does your ankle hurt?",
+   "alt_mn": [
+    "Шагайн чинь аль хэсэг өвдөж байна вэ?"
+   ],
+   "alt_en": [
+    "Where is your ankle hurting?"
+   ],
+   "mn_latin": "Shagai chini khaana övdöj baina ve?"
+  },
+  {
+   "mn": "Эмч надад хэдэн хоног амрахыг хэлсэн.",
+   "en": "The doctor told me to rest for a few days.",
+   "alt_mn": [],
+   "alt_en": [
+    "The doctor told me to take a few days off."
+   ],
+   "mn_latin": "Emch nadad kheden khonog amrakhyg khelsen."
+  },
+  {
+   "mn": "Би гүйхийг оролдсон боловч шагай маань өвдсөн.",
+   "en": "I tried to run, but my ankle hurt.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bi güikhiig oroldson bolovch shagai maani övdsön."
+  },
+  {
+   "mn": "Амарч үзээрэй, магадгүй хавдар буурах байх.",
+   "en": "Try taking a rest; maybe the swelling will go down.",
+   "alt_mn": [
+    "Амраад үзээрэй, хавдар буурч магадгүй."
+   ],
+   "alt_en": [
+    "Try resting; maybe the swelling will go down."
+   ],
+   "mn_latin": "Amarch üzeerei, magadgüi khavdar buurakh baikh."
+  },
+  {
+   "mn": "Би өмнө нь сайн халаагаагүйдээ харамсаж байна.",
+   "en": "I regret not warming up properly before.",
+   "alt_mn": [
+    "Өмнө нь сайн халаалт хийгээгүйдээ харамсаж байна."
+   ],
+   "alt_en": [
+    "I regret not warming up well beforehand."
+   ],
+   "mn_latin": "Bi ömnö ni sain khalaagaagüidee kharamsaj baina."
+  },
+  {
+   "mn": "Танд мэдэгдэхэд харамсалтай байна, та уралдаанд оролцох боломжгүй.",
+   "en": "I regret to tell you that you can't take part in the race.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm sorry to tell you that you can't take part in the race."
+   ],
+   "mn_latin": "Tand medegdekhed kharamsaltai baina, ta uraldaand oroltsokh bolomjgüi."
+  },
+  {
+   "mn": "Сэргээн засах дасгалыг өдөр бүр хийх хэрэгтэй.",
+   "en": "You need to do the rehabilitation exercises every day.",
+   "alt_mn": [],
+   "alt_en": [
+    "The rehab exercises should be done daily."
+   ],
+   "mn_latin": "Sergeen zasakh dasgalyg ödör bür khiikh kheregtei."
+  },
+  {
+   "mn": "Булчингийн хөндүүрийн улмаас би өнөөдөр гүйсэнгүй.",
+   "en": "I didn't run today because of muscle soreness.",
+   "alt_mn": [],
+   "alt_en": [
+    "Due to muscle soreness, I didn't run today."
+   ],
+   "mn_latin": "Bulchingiin khöndüüriin ulmaas bi önöödör güisengüi."
+  },
+  {
+   "mn": "Өвдөгний үе чинь одоо хэр байна?",
+   "en": "How is your knee joint now?",
+   "alt_mn": [
+    "Өвдөгний чинь үе одоо ямар байна?"
+   ],
+   "alt_en": [
+    "How's your knee joint doing now?"
+   ],
+   "mn_latin": "Övdögnii üye chini odoo kher baina?"
+  },
+  {
+   "mn": "Бэртэл надад маш их саад болсон ч би дахин гүйх болно.",
+   "en": "The injury really set me back, but I will run again.",
+   "alt_mn": [],
+   "alt_en": [
+    "The injury was a big setback, but I'll run again."
+   ],
+   "mn_latin": "Bertel nadad mash ikh saad bolson ch bi dakhin güikh bolno."
+  }
+ ],
+ "grammar": {
+  "title_en": "-ын улмаас (because of) + English try / regret",
+  "title_mn": "-ын улмаас (шалтгаан) + англи хэлний try / regret",
+  "explain_en": "In Mongolian, add улмаас after a noun in the genitive case to give a cause, usually a negative or unwanted one: бэртлийн улмаас = because of the injury. It is more formal than учраас and fits explanations to doctors or organizers. In English, the verb after try or regret changes the meaning. Try + gerund means to test something as an experiment: try taking a rest. Try + infinitive means to make an effort: try to run (even though it is hard). Regret + gerund means you feel sorry about something you did earlier: I regret running on it. Regret + infinitive is used for delivering bad news now: I regret to tell you.",
+  "explain_mn": "Монгол хэлэнд харьяалахын тийн ялгалтай нэрийн дараа «улмаас» залгаж шалтгааныг, голдуу сөрөг, хүсээгүй шалтгааныг илэрхийлнэ: бэртлийн улмаас = because of the injury. Энэ нь «учраас»-аас албан ёсны өнгөтэй тул эмч, зохион байгуулагчид тайлбар өгөхөд тохиромжтой. Англи хэлэнд try, regret үйл үгийн дараах хэлбэр утгыг өөрчилнө. Try + gerund (-ing) нь «туршиж үзэх» гэсэн утгатай: Try taking a rest — амарч үзээрэй. Try + to + үйл үг нь «хичээх, оролдох»: I tried to run — гүйхийг хичээсэн. Regret + gerund нь өнгөрсөн үйлдэлдээ харамсахыг илэрхийлнэ: I regret running on it — түүн дээр гүйсэндээ харамсаж байна. Regret + to + үйл үг нь муу мэдээ дамжуулахад хэрэглэгдэнэ: I regret to tell you... — Танд хэлэхэд харамсалтай байна.",
+  "examples": [
+   {
+    "mn": "Булгалалтын улмаас би уралдаанд оролцсонгүй.",
+    "en": "Because of the sprain, I didn't take part in the race.",
+    "mn_latin": "Bulgalaltyn ulmaas bi uraldaand oroltssongüi."
+   },
+   {
+    "mn": "Бэртлийн улмаас бэлтгэл хийж чадсангүй.",
+    "en": "I couldn't train due to the injury.",
+    "mn_latin": "Bertliin ulmaas beltgel khiij chadsangüi."
+   },
+   {
+    "mn": "Мөс тавьж үзээрэй.",
+    "en": "Try putting ice on it.",
+    "mn_latin": "Mös tavij üzeerei."
+   },
+   {
+    "mn": "Гүйхийг оролдсон ч чадсангүй.",
+    "en": "I tried to run, but I couldn't.",
+    "mn_latin": "Güikhiig oroldson ch chadsangüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шагайн булгалалт___ улмаас би уралдаанд оролцсонгүй.",
+   "answer": "ын",
+   "options": [
+    "ын",
+    "ыг",
+    "д",
+    "аар"
+   ],
+   "translation": "I didn't take part in the race because of the ankle sprain.",
+   "explain_en": "улмаас follows a genitive noun. Булгалалт is a back-vowel word ending in a consonant (т), so the genitive is -ын: булгалалтын улмаас.",
+   "explain_mn": "улмаас нь харьяалахын тийн ялгалтай нэрийн дараа орно. Булгалалт гэдэг эр үг т-ээр төгссөн тул -ын залгаж «булгалалтын улмаас» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Эмч надад долоо хоног ___ зөвлөсөн.",
+   "answer": "амрахыг",
+   "options": [
+    "амрахыг",
+    "амарсан",
+    "амраад",
+    "амралт"
+   ],
+   "translation": "The doctor advised me to rest for a week.",
+   "explain_en": "Зөвлөх takes a verbal noun in the accusative: амрахыг = to rest (as advice). Here the options амарсан, амраад and амралт do not fit the pattern.",
+   "explain_mn": "«Зөвлөх» үйл үг нэр үйлийг хамаарах тийн ялгалаар авна: амрахыг."
+  },
+  {
+   "lang": "mn",
+   "text": "Бэртлийн ___ бэлтгэл маань зогссон.",
+   "answer": "улмаас",
+   "options": [
+    "улмаас",
+    "тулд",
+    "хамт",
+    "төлөө"
+   ],
+   "translation": "My training stopped because of the injury.",
+   "explain_en": "улмаас marks a cause, often a negative one. тулд means 'in order to', which does not fit here.",
+   "explain_mn": "улмаас нь шалтгааныг, голдуу сөрөг шалтгааныг илэрхийлнэ. «Тулд» нь зорилго заана."
+  },
+  {
+   "lang": "en",
+   "text": "Your ankle still hurts? Try ___ a rest for a few days and see if it helps.",
+   "answer": "taking",
+   "options": [
+    "taking",
+    "to take",
+    "take",
+    "took"
+   ],
+   "translation": "Шагай чинь өвдсөөр байна уу? Хэдэн өдөр амарч үзээд тус болох эсэхийг хараарай.",
+   "explain_en": "Try + gerund means to test something as a possible solution: try taking a rest.",
+   "explain_mn": "Try + gerund нь «туршиж үзэх» гэсэн утгатай, тиймээс taking гэж хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I regret ___ you that the race is canceled.",
+   "answer": "to tell",
+   "options": [
+    "to tell",
+    "telling",
+    "tell",
+    "told"
+   ],
+   "translation": "Уралдаан цуцлагдсан гэдгийг танд хэлэхэд харамсалтай байна.",
+   "explain_en": "Regret + infinitive introduces bad news you are giving right now.",
+   "explain_mn": "Regret + to-infinitive нь одоо дамжуулж буй муу мэдээний өмнө хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I regret ___ on my sprained ankle; it made things worse.",
+   "answer": "running",
+   "options": [
+    "running",
+    "to run",
+    "run",
+    "ran"
+   ],
+   "translation": "Булгалсан шагай дээрээ гүйсэндээ харамсаж байна; энэ нь байдлыг дордуулсан.",
+   "explain_en": "Regret + gerund expresses sorrow about a past action: running.",
+   "explain_mn": "Regret + gerund нь өнгөрсөн үйлдэлдээ харамсахыг заана: running."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу, эмч ээ. Би шагайгаа мурийлгасан.",
+   "en": "Hello, doctor. I twisted my ankle.",
+   "mn_latin": "Sain baina uu, emch ee. Bi shagaigaa muriilgasan."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу. Хэзээ болсон бэ? Одоо хавдар байна уу?",
+   "en": "Hello. When did it happen? Is there swelling now?",
+   "mn_latin": "Sain baina uu. Khezee bolson be? Odoo khavdar baina uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Гурван хоногийн өмнө. Хавдар байгаа, бас үе нь өвдөж байна.",
+   "en": "Three days ago. There's swelling, and the joint hurts too.",
+   "mn_latin": "Gurvan khonogiin ömnö. Khavdar baigaa, bas üye ni övdöj baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Энэ бол булгалалт байна. Эхлээд амарч, мөс тавьж үзээрэй.",
+   "en": "This is a sprain. First, try resting and putting ice on it.",
+   "mn_latin": "Ene bol bulgalalt baina. Ekhleed amarch, mös tavij üzeerei."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Би өчигдөр гүйхийг оролдсон ч чадсангүй. Одоо гүйсэндээ харамсаж байна.",
+   "en": "I tried to run yesterday, but I couldn't. Now I regret running.",
+   "mn_latin": "Bi öchigdör güikhiig oroldson ch chadsangüi. Odoo güisendee kharamsaj baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тийм ээ, гүйсэн нь муу байсан. Танд хэлэхэд харамсалтай ч та уралдаанд оролцох боломжгүй.",
+   "en": "Yes, running was a bad idea. I regret to tell you that you can't take part in the race.",
+   "mn_latin": "Tiim ee, güisen ni muu baisan. Tand khelekhed kharamsaltai ch ta uraldaand oroltsokh bolomjgüi."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Бэртлийн улмаас бүтэн жилийн бэлтгэл дэмий боллоо.",
+   "en": "A whole year of training is wasted because of the injury.",
+   "mn_latin": "Bertliin ulmaas büten jiliin beltgel demii bolloo."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Санаа зоволтгүй. Сэргээн засах дасгал хийвэл дараагийн уралдаанд бэлэн болно.",
+   "en": "Don't worry. If you do rehab exercises, you'll be ready for the next race.",
+   "mn_latin": "Sanaa zovoltgüi. Sergeen zasakh dasgal khiivel daraagiin uraldaand belen bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many people run in events like the Ulaanbaatar Marathon in summer, and winter ice and uneven sidewalks cause many sprained ankles. Traditional Mongolian care for sports injuries, such as bone-setting (яс засал) by a bonesetter, is still respected alongside modern physiotherapy. Many Mongolians combine both, but doctors advise checking serious injuries at a clinic first.",
+  "mn": "Улаанбаатарт зуны улиралд Улаанбаатар марафон зэрэг гүйлтийн арга хэмжээнд олон хүн оролцдог бол өвлийн мөс, тэгш бус явган хүний зам шагай мурийлгах бэртэл их үүсгэдэг. Яс засагчаар засуулах зэрэг уламжлалт арга орчин үеийн физиотерапитай зэрэгцэн одоо ч нэр хүндтэй. Олон хүн хоёуланг хослуулдаг ч ноцтой бэртлийг эхлээд эмнэлэгт үзүүлэхийг эмч нар зөвлөдөг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 14,
+  "notes": "Mostly good and grammatically sound, with a few unnatural Mongolian phrasings and some alternatives that shift the meaning."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 24,
+  "notes": "Replaced the nonstandard шүүрэлт with булгалалт throughout, fixed swapped/wrong alternatives, case forms, and the en/mn mismatch in the grammar explanation.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "шүүрэлт is not standard for 'sprain'. It suggests secretion (шүүрэл). Use булгалалт."
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "Genitive of шагай is шагайн. Also replaces the term."
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_en",
+    "why": "Match хүнд."
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "en",
+    "why": "'Recover' is эдгэрэх, not сэргээн засах."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "Replace term. Back-vowel genitive is -ын."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "Replace term."
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "халаагүй is the wrong verb form."
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "The old alternative had a different meaning."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "The old alternative was an unrelated sentence."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn version lacked the улмаас explanation given in en."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "Replace term."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "Replace term."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "Back-vowel word ending in т takes -ын."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "Match the new answer."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Updated form."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Updated form."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'дараа нь' (after) could also fit, so the answer was not unique."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "text",
+    "why": "The old setup was self-addressed. The new one makes the experiment meaning clear."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "Match the new text."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "text",
+    "why": "American spelling."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Replace term."
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "Attributive numeral form is гурван."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Replace term and fix the wording."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Missing subject та."
+   }
+  ]
+ }
+}

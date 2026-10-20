@@ -1,0 +1,434 @@
+{
+ "intro_en": "Take part in a panel discussion on the ethics, risks and benefits of new technology, and argue what the world will look like in 2040. You will practice the future continuous and future perfect in English, and the matching Mongolian forms -ж байх болно and -сан байх болно in connected speech.",
+ "intro_mn": "Шинэ технологийн ёс зүй, эрсдэл, ашиг тусын тухай хэлэлцүүлэгт оролцож, 2040 онд дэлхий ямар байхыг маргаж сурна. Англи хэлний ирээдүй үргэлжлэх ба ирээдүй гүйцэтгэх цагийг, монгол хэлний -ж байх болно, -сан байх болно хэлбэрүүдийг холбоотой яриандаа чөлөөтэй хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "эрсдэл",
+   "en": "risk",
+   "pos": "noun",
+   "example_mn": "Хиймэл оюун ухаан эрсдэлтэй ч ашигтай.",
+   "example_en": "Artificial intelligence is risky but useful.",
+   "mn_latin": "ersdel"
+  },
+  {
+   "mn": "зохицуулалт",
+   "en": "regulation",
+   "pos": "noun",
+   "example_mn": "Шинэ технологид хууль зохицуулалт хэрэгтэй.",
+   "example_en": "New technology needs legal regulation.",
+   "mn_latin": "zokhitsuulalt"
+  },
+  {
+   "mn": "нууцлал",
+   "en": "privacy",
+   "pos": "noun",
+   "example_mn": "Хүн бүр хувийн нууцлалтай байх эрхтэй.",
+   "example_en": "Everyone has the right to privacy.",
+   "mn_latin": "nuutslal"
+  },
+  {
+   "mn": "ашиг тус",
+   "en": "benefit",
+   "pos": "noun",
+   "example_mn": "Энэ судалгааны ашиг тус маш их.",
+   "example_en": "The benefit of this research is great.",
+   "mn_latin": "ashig tus"
+  },
+  {
+   "mn": "хариуцлагатай",
+   "en": "responsible",
+   "pos": "adjective",
+   "example_mn": "Эрдэмтэд хариуцлагатай байх ёстой.",
+   "example_en": "Scientists must be responsible.",
+   "mn_latin": "khariutslagatai"
+  },
+  {
+   "mn": "ёс зүй",
+   "en": "ethics",
+   "pos": "noun",
+   "example_mn": "Судалгаанд ёс зүй чухал.",
+   "example_en": "Ethics matter in research.",
+   "mn_latin": "yos züi"
+  },
+  {
+   "mn": "маргах",
+   "en": "to argue, to debate",
+   "pos": "verb",
+   "example_mn": "Бид энэ асуудлаар удаан маргасан.",
+   "example_en": "We debated this issue for a long time.",
+   "mn_latin": "margakh"
+  },
+  {
+   "mn": "татгалзах",
+   "en": "to reject, to decline",
+   "pos": "verb",
+   "example_mn": "Тэр өгөгдлөө өгөхөөс татгалзсан.",
+   "example_en": "She declined to hand over her data.",
+   "mn_latin": "tatgalzakh"
+  },
+  {
+   "mn": "өгөгдөл",
+   "en": "data",
+   "pos": "noun",
+   "example_mn": "Компаниуд хэрэглэгчийн өгөгдлийг цуглуулдаг.",
+   "example_en": "Companies collect users' data.",
+   "mn_latin": "ögögdöl"
+  },
+  {
+   "mn": "нийгмийн нөлөө",
+   "en": "social impact",
+   "pos": "noun phrase",
+   "example_mn": "Технологи нийгэмд асар их нөлөө үзүүлнэ.",
+   "example_en": "Technology has an enormous impact on society.",
+   "mn_latin": "niigmiin nölöö"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "2040 он гэхэд бид ажиллах арга барилаа өөрчилсөн байх болно.",
+   "en": "By 2040 we will have changed how we work.",
+   "alt_mn": [
+    "2040 он гэхэд бид ажлын хэв маягаа өөрчилсөн байх болно."
+   ],
+   "alt_en": [
+    "By 2040, we will have changed the way we work."
+   ],
+   "mn_latin": "2040 on gekhed bid ajillakh arga barilaa öörchilsön baikh bolno."
+  },
+  {
+   "mn": "Тэр үед олон хүн алсаас ажиллаж байх болно.",
+   "en": "By then, many people will be working remotely.",
+   "alt_mn": [
+    "Тэр үед олон хүн зайнаас ажиллаж байх болно."
+   ],
+   "alt_en": [
+    "At that time, many people will be working remotely."
+   ],
+   "mn_latin": "Ter üyed olon khün alsaas ajillaj baikh bolno."
+  },
+  {
+   "mn": "Хууль зохицуулалтгүйгээр эрсдэл улам нэмэгдэнэ.",
+   "en": "Without regulation, the risks will only grow.",
+   "alt_mn": [],
+   "alt_en": [
+    "Without regulation, the risk will increase."
+   ],
+   "mn_latin": "Khuuli zokhitsuulaltgüigeer ersdel ulam nemegdene."
+  },
+  {
+   "mn": "Миний бодлоор хувийн нууцлалыг хамгаалах ёстой.",
+   "en": "In my opinion, privacy must be protected.",
+   "alt_mn": [
+    "Миний бодоход хувийн нууцлалыг хамгаалах ёстой."
+   ],
+   "alt_en": [
+    "I think privacy must be protected."
+   ],
+   "mn_latin": "Minii bodloor khuviin nuutslalyg khamgaalakh yostoi."
+  },
+  {
+   "mn": "Компаниуд хариуцлагагүй бол хэрэглэгчид тэдэнд итгэхээ болино.",
+   "en": "If companies are not responsible, users will stop trusting them.",
+   "alt_mn": [],
+   "alt_en": [
+    "Unless companies are responsible, users will stop trusting them."
+   ],
+   "mn_latin": "Kompaniud khariutslagagüi bol khereglegchid tedend itgekhee bolino."
+  },
+  {
+   "mn": "Энэ технологийн ашиг тус нь эрсдэлээсээ илүү гэж би бодож байна.",
+   "en": "I think the benefits of this technology outweigh its risks.",
+   "alt_mn": [],
+   "alt_en": [
+    "I think this technology's benefits are greater than its risks."
+   ],
+   "mn_latin": "Ene tyekhnologiin ashig tus ni ersdeleesee ilüü gej bi bodoj baina."
+  },
+  {
+   "mn": "Тэр өгөгдлөө зарахаас татгалзсан гэнэ.",
+   "en": "Apparently, he refused to sell his data.",
+   "alt_mn": [
+    "Тэр өгөгдлөө зарахаас татгалзсан гэсэн."
+   ],
+   "alt_en": [
+    "I hear he refused to sell his data."
+   ],
+   "mn_latin": "Ter ögögdlöö zarakhaas tatgalzsan gene."
+  },
+  {
+   "mn": "Эрдэмтэд одоо шинэ вакцин боловсруулаад байгаа.",
+   "en": "Scientists are developing a new vaccine right now.",
+   "alt_mn": [
+    "Эрдэмтэд одоо шинэ вакцин боловсруулж байна."
+   ],
+   "alt_en": [
+    "Scientists are currently developing a new vaccine."
+   ],
+   "mn_latin": "Erdemted odoo shine vaktsin bolovsruulaad baigaa."
+  },
+  {
+   "mn": "Маш олон хүн технологид хэт найдах нь аюултай шиг санагдана.",
+   "en": "It seems dangerous that so many people rely too much on technology.",
+   "alt_mn": [],
+   "alt_en": [
+    "It feels dangerous that so many people depend so heavily on technology."
+   ],
+   "mn_latin": "Mash olon khün tyekhnologid khet naidakh ni ayuultai shig sanagdana."
+  },
+  {
+   "mn": "Арван жилийн дараа бид хиймэл оюун ухаантай өдөр бүр ажиллаж байх болно.",
+   "en": "Ten years from now, we will be working with artificial intelligence every day.",
+   "alt_mn": [],
+   "alt_en": [
+    "In ten years, we'll be working with AI every day."
+   ],
+   "mn_latin": "Arvan jiliin daraa bid khiimel oyuun ukhaantai ödör bür ajillaj baikh bolno."
+  },
+  {
+   "mn": "Үүнийг хүлээн зөвшөөрөх хүн байхгүй бололтой, учир нь ёс зүйн асуудал их байна.",
+   "en": "It looks like nobody will accept this, because there are many ethical problems.",
+   "alt_mn": [],
+   "alt_en": [
+    "Apparently no one will accept it, since there are many ethical issues."
+   ],
+   "mn_latin": "Üüniig khüleen zövshöörökh khün baikhgüi bololtoi, uchir ni yos züin asuudal ikh baina."
+  },
+  {
+   "mn": "Бид маргаж байгаа ч, эцэст нь нийтлэг шийдэлд хүрнэ.",
+   "en": "Although we are arguing, in the end we will reach a common solution.",
+   "alt_mn": [],
+   "alt_en": [
+    "We may be debating now, but we will eventually find a shared solution."
+   ],
+   "mn_latin": "Bid margaj baigaa ch, etsest ni niitleg shiideld khürne."
+  }
+ ],
+ "grammar": {
+  "title_en": "Arguing about the future: Mongolian -ж байх болно and -сан байх болно, plus English future forms",
+  "title_mn": "Ирээдүйн тухай маргах нь: -ж байх болно, -сан байх болно ба англи ирээдүй цагууд",
+  "explain_en": "In Mongolian, will-future ideas are expressed with verb forms plus байх болно. For 'it will have happened', use -сан байх болно: 'өөрчилсөн байх болно'. For 'will be doing', use -ж байх болно: 'ажиллаж байх болно'. The suffix -аад/-ээд/-оод/-өөд plus байна (e.g. боловсруулаад байна) shows an action that has been started and is ongoing with a present result; the plain progressive is -ж байна. Link claims with учир нь, тиймээс, харин. For a tentative opinion use бололтой or шиг санагдана.",
+  "explain_mn": "Англи хэлэнд ирээдүйн үйлдлийг хоёр янзаар илэрхийлнэ. Future continuous (will be + -ing) нь ирээдүйн тодорхой цагт үргэлжилж байгаа үйлдлийг заана: 'In 2040 we will be working with robots.' Future perfect (will have + V3) нь тухайн цагаас өмнө дууссан үйлдлийг заана: 'By 2040 we will have changed how we work.' 'By' гэсэн үгийг ихэвчлэн хамт хэрэглэнэ. Монголоор эхнийг -ж байх болно, хоёрдахийг -сан байх болно гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "2040 он гэхэд бид ажлаа өөрчилсөн байх болно.",
+    "en": "By 2040 we will have changed our work.",
+    "mn_latin": "2040 on gekhed bid ajlaa öörchilsön baikh bolno."
+   },
+   {
+    "mn": "Тэр үед бид роботуудтай ажиллаж байх болно.",
+    "en": "By then we will be working with robots.",
+    "mn_latin": "Ter üyed bid robotuudtai ajillaj baikh bolno."
+   },
+   {
+    "mn": "Эрдэмтэд шинэ вакцин боловсруулаад байгаа.",
+    "en": "Scientists are developing a new vaccine.",
+    "mn_latin": "Erdemted shine vaktsin bolovsruulaad baigaa."
+   },
+   {
+    "mn": "Энэ нь аюултай бололтой.",
+    "en": "It seems to be dangerous.",
+    "mn_latin": "Ene ni ayuultai bololtoi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "2040 он гэхэд бид ажлын хэв маягаа өөрчилсөн ___ болно.",
+   "answer": "байх",
+   "options": [
+    "байх",
+    "байна",
+    "байсан",
+    "бай"
+   ],
+   "translation": "By 2040 we will have changed our work style.",
+   "explain_en": "The future perfect idea is -сан байх болно: 'will have done'.",
+   "explain_mn": "'Өөрчилсөн байх болно' нь ирээдүйд дууссан үйлдлийг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Эрдэмтэд одоо шинэ эм боловсруулаад ___ .",
+   "answer": "байна",
+   "options": [
+    "байна",
+    "байх",
+    "болно",
+    "сан"
+   ],
+   "translation": "Scientists are developing a new medicine.",
+   "explain_en": "The -аад form plus байна shows an action that began and is still going, with a present result.",
+   "explain_mn": "-аад/-ээд + байна нь эхэлсэн, одоо үргэлжилж буй үйлдлийг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Хувийн нууцлалыг хамгаалах ___ .",
+   "answer": "ёстой",
+   "options": [
+    "ёстой",
+    "гэж",
+    "хүсдэг",
+    "байна"
+   ],
+   "translation": "Privacy must be protected.",
+   "explain_en": "'Ёстой' expresses obligation: must.",
+   "explain_mn": "'Ёстой' нь үүрэг, зайлшгүй байдлыг илтгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "By 2040 we ___ changed how we work.",
+   "answer": "will have",
+   "options": [
+    "will have",
+    "will be",
+    "are",
+    "had"
+   ],
+   "translation": "2040 он гэхэд бид ажиллах арга барилаа өөрчилсөн байх болно.",
+   "explain_en": "Future perfect: will have + past participle, with 'by' marking a deadline.",
+   "explain_mn": "'By 2040' нь ирээдүй гүйцэтгэх цаг (will have + V3)-ыг шаарддаг."
+  },
+  {
+   "lang": "en",
+   "text": "At this time next year, I ___ presenting my research.",
+   "answer": "will be",
+   "options": [
+    "will be",
+    "will have",
+    "am",
+    "was"
+   ],
+   "translation": "Ирэх жил яг энэ үед би судалгаагаа танилцуулж байх болно.",
+   "explain_en": "Future continuous: will be + -ing for an action in progress at a future time.",
+   "explain_mn": "Ирээдүйн тодорхой мөчид үргэлжилж буй үйлдэлд will be + -ing хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Without regulation, the risks ___ grow.",
+   "answer": "will",
+   "options": [
+    "will",
+    "would have",
+    "are",
+    "had"
+   ],
+   "translation": "Зохицуулалтгүй бол эрсдэл өснө.",
+   "explain_en": "A simple future 'will' predicts the result of the condition.",
+   "explain_mn": "Нөхцлийн үр дүнг таамаглахад энгийн ирээдүй 'will' хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Хүндэт оролцогчид, өнөөдрийн сэдэв: технологийн ашиг тус ба эрсдэл.",
+   "en": "Dear participants, today's topic is the benefits and risks of technology.",
+   "mn_latin": "Khündet oroltsogchid, önöödriin sedev: tyekhnologiin ashig tus ba ersdel."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Миний бодлоор 2040 он гэхэд бид ажиллах арга барилаа бүрэн өөрчилсөн байх болно.",
+   "en": "In my opinion, by 2040 we will have completely changed how we work.",
+   "mn_latin": "Minii bodloor 2040 on gekhed bid ajillakh arga barilaa büren öörchilsön baikh bolno."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм ээ, гэхдээ тэр үед хувийн нууцлал ямар байх бол? Хүмүүсийн өгөгдлийг хэн хамгаалах вэ?",
+   "en": "Yes, but what will privacy look like by then? Who will protect people's data?",
+   "mn_latin": "Tiim ee, gekhdee ter üyed khuviin nuutslal yamar baikh bol? Khümüüsiin ögögdliig khen khamgaalakh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тиймээс хууль зохицуулалт хэрэгтэй. Компаниуд хариуцлагатай байх ёстой.",
+   "en": "That's why regulation is needed. Companies must be responsible.",
+   "mn_latin": "Tiimees khuuli zokhitsuulalt kheregtei. Kompaniud khariutslagatai baikh yostoi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Би санал нийлж байна, гэхдээ хэт хатуу зохицуулалт шинэ санааг боогдуулж магадгүй.",
+   "en": "I agree, but overly strict regulation might stifle new ideas.",
+   "mn_latin": "Bi sanal niilj baina, gekhdee khet khatuu zokhitsuulalt shine sanaag boogduulj magadgüi."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Зөв зүйл хэллээ. Арван жилийн дараа бид хиймэл оюун ухаантай өдөр бүр ажиллаж байх болно.",
+   "en": "Good point. Ten years from now we will be working with AI every day.",
+   "mn_latin": "Zöv züil khellee. Arvan jiliin daraa bid khiimel oyuun ukhaantai ödör bür ajillaj baikh bolno."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тиймээс ёс зүйн дүрмийг одооноос бэлдэх хэрэгтэй.",
+   "en": "So we need to prepare the ethical rules starting now.",
+   "mn_latin": "Tiimees yos züin dürmiig odoonoos beldekh kheregtei."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Эцэст нь бид нийтлэг шийдэлд хүрнэ гэдэгт би итгэж байна.",
+   "en": "In the end, I believe we will reach a common solution.",
+   "mn_latin": "Etsest ni bid niitleg shiideld khürne gedegt bi itgej baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia is a young, fast-changing digital society: e-services such as the government portal E-Mongolia and widespread mobile payments have grown quickly. Debates about data protection, mining technology and the use of AI are now part of public discussion in Ulaanbaatar. Many Mongolians also stress that new technology must respect nomadic traditions and the environment.",
+  "mn": "Монгол улс залуу, хурдан өөрчлөгдөж буй дижитал нийгэм юм. Э-Монгол зэрэг төрийн үйлчилгээ, гар утсаар төлбөр тооцоо хурдтай хөгжиж байна. Өгөгдлийн хамгаалалт, уул уурхайн технологи, хиймэл оюун ухааны хэрэглээний тухай яриа Улаанбаатарт нийтийн хэлэлцүүлгийн сэдэв болжээ. Олон хүн шинэ технологи нүүдлийн уламжлал, байгаль орчныг хүндэтгэх ёстой гэж үздэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 16,
+  "notes": "Mostly good content, but the grammar notes and intro described -магц/-нгаа, which the lesson does not teach, and one fill-blank had an empty answer."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 8,
+  "notes": "Fixed the wrong grammar title, an ungrammatical negative condition, an awkward doubled intensifier, an ambiguous fill-in-the-blank, and a mistranslated discourse marker.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Title named -магц/-нгаа, which the lesson never teaches"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Title named -магц/-нгаа, which the lesson never teaches"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "'хариуцлагатай байхгүй бол' is ungrammatical; it should be 'хариуцлагагүй бол'. Also added 'тэдэнд' to match 'them'"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "Doubled 'хэт' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "'too many people rely too much' is awkward; matches the corrected Mongolian"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'хамгаалах болно' is also grammatical, so the blank had two correct answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "Ungrammatical wording"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'Сайн санал' means 'good suggestion', not 'good point'"
+   }
+  ]
+ }
+}

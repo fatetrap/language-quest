@@ -1,0 +1,458 @@
+{
+ "intro_en": "You will learn to tell a friend about your Tsagaan Sar holiday and compare customs. You will also review -аа/-ээ and -тай/-тэй in short past-tense stories, and use in/on/at with dates.",
+ "intro_mn": "Та Цагаан сараар хийсэн зүйлээ найздаа ярьж, уламжлалуудыг харьцуулж сурна. Мөн -аа/-ээ, -тай/-тэй нөхцөлийг өнгөрсөн цагийн богино ярианд давтаж, англи хэлний in/on/at-ыг огноотой хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "уламжлал",
+   "en": "tradition",
+   "pos": "noun",
+   "example_mn": "Энэ манай гэрийн уламжлал.",
+   "example_en": "This is our family's tradition.",
+   "mn_latin": "ulamjlal"
+  },
+  {
+   "mn": "баяр",
+   "en": "holiday, celebration",
+   "pos": "noun",
+   "example_mn": "Цагаан сар бол том баяр.",
+   "example_en": "Tsagaan Sar is a big holiday.",
+   "mn_latin": "bayar"
+  },
+  {
+   "mn": "шинэ жил",
+   "en": "New Year",
+   "pos": "noun",
+   "example_mn": "Бид шинэ жилийг хотод тэмдэглэсэн.",
+   "example_en": "We celebrated New Year in the city.",
+   "mn_latin": "shine jil"
+  },
+  {
+   "mn": "хүлээн авах",
+   "en": "to receive, to welcome",
+   "pos": "verb",
+   "example_mn": "Бид зочдыг хүлээн авсан.",
+   "example_en": "We welcomed the guests.",
+   "mn_latin": "khüleen avakh"
+  },
+  {
+   "mn": "зочилсон",
+   "en": "visited (as a guest)",
+   "pos": "verb",
+   "example_mn": "Би эмээ дээрээ зочилсон.",
+   "example_en": "I visited my grandmother.",
+   "mn_latin": "zochilson"
+  },
+  {
+   "mn": "ойр дотнын хүмүүс",
+   "en": "close relatives and friends",
+   "pos": "noun phrase",
+   "example_mn": "Ойр дотнын хүмүүс манайд ирсэн.",
+   "example_en": "Our close relatives and friends came to our home.",
+   "mn_latin": "oir dotnyn khümüüs"
+  },
+  {
+   "mn": "бууз",
+   "en": "steamed dumpling",
+   "pos": "noun",
+   "example_mn": "Бид олон бууз идсэн.",
+   "example_en": "We ate many buuz.",
+   "mn_latin": "buuz"
+  },
+  {
+   "mn": "мэндчилэх",
+   "en": "to greet",
+   "pos": "verb",
+   "example_mn": "Би өвөөтэйгөө мэндчилсэн.",
+   "example_en": "I greeted my grandfather.",
+   "mn_latin": "mendchilekh"
+  },
+  {
+   "mn": "бэлэг",
+   "en": "gift",
+   "pos": "noun",
+   "example_mn": "Ач нар бэлэг авсан.",
+   "example_en": "The grandchildren received gifts.",
+   "mn_latin": "beleg"
+  },
+  {
+   "mn": "харьцуулах",
+   "en": "to compare",
+   "pos": "verb",
+   "example_mn": "Бид хоёр орны уламжлалыг харьцуулсан.",
+   "example_en": "We compared the traditions of two countries.",
+   "mn_latin": "kharitsuulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Цагаан сар бол манай гэрийн хамгийн том баяр.",
+   "en": "Tsagaan Sar is our family's biggest holiday.",
+   "alt_mn": [
+    "Цагаан сар бол манай гэр бүлийн хамгийн том баяр."
+   ],
+   "alt_en": [
+    "Tsagaan Sar is the biggest holiday in our family."
+   ],
+   "mn_latin": "Tsagaan sar bol manai geriin khamgiin tom bayar."
+  },
+  {
+   "mn": "Би өвөө, эмээтэйгээ хамт баяраа тэмдэглэсэн.",
+   "en": "I celebrated with my grandfather and grandmother.",
+   "alt_mn": [],
+   "alt_en": [
+    "I celebrated the holiday with my grandparents."
+   ],
+   "mn_latin": "Bi övöö, emeeteigee khamt bayaraa temdeglesen."
+  },
+  {
+   "mn": "Бид өглөө эрт босож, бууз хийсэн.",
+   "en": "We got up early in the morning and made buuz.",
+   "alt_mn": [],
+   "alt_en": [
+    "We woke up early and made buuz."
+   ],
+   "mn_latin": "Bid öglöö ert bosoj, buuz khiisen."
+  },
+  {
+   "mn": "Ойр дотнын хүмүүс манайд зочилсон.",
+   "en": "Our close relatives and friends visited us.",
+   "alt_mn": [
+    "Ойр дотнын хүмүүс манайд ирсэн."
+   ],
+   "alt_en": [
+    "Our close relatives and friends came to our place."
+   ],
+   "mn_latin": "Oir dotnyn khümüüs manaid zochilson."
+  },
+  {
+   "mn": "Бид зочдыг гэртээ халуунаар хүлээн авсан.",
+   "en": "We welcomed the guests warmly at home.",
+   "alt_mn": [],
+   "alt_en": [
+    "We received the guests warmly in our home."
+   ],
+   "mn_latin": "Bid zochdyg gertee khaluunaar khüleen avsan."
+  },
+  {
+   "mn": "Би хоёр дахь өдөр нагац ахтайгаа уулзсан.",
+   "en": "On the second day I met my maternal uncle.",
+   "alt_mn": [],
+   "alt_en": [
+    "On the second day I saw my uncle on my mother's side."
+   ],
+   "mn_latin": "Bi khoyor dakhi ödör nagats akhtaigaa uulzsan."
+  },
+  {
+   "mn": "Энэ жил Цагаан сар хоёрдугаар сарын арван тавнд болсон.",
+   "en": "This year Tsagaan Sar was on the 15th of February.",
+   "alt_mn": [
+    "Энэ жил Цагаан сар 2-р сарын 15-нд болсон."
+   ],
+   "alt_en": [
+    "This year Tsagaan Sar took place on February 15th."
+   ],
+   "mn_latin": "Ene jil Tsagaan sar khoyordugaar saryn arvan tavnd bolson."
+  },
+  {
+   "mn": "Бид шөнө дунд гал тогооны өрөөнд цай ууж байсан.",
+   "en": "At midnight we were drinking tea in the kitchen.",
+   "alt_mn": [],
+   "alt_en": [
+    "We were having tea in the kitchen at midnight."
+   ],
+   "mn_latin": "Bid shönö dund gal togoony öröönd tsai uuj baisan."
+  },
+  {
+   "mn": "Өвөл манай хотод маш хүйтэн байдаг.",
+   "en": "In winter it is very cold in our city.",
+   "alt_mn": [
+    "Өвлийн улиралд манай хотод маш хүйтэн байдаг."
+   ],
+   "alt_en": [
+    "It is very cold in our city in winter."
+   ],
+   "mn_latin": "Övöl manai khotod mash khüiten baidag."
+  },
+  {
+   "mn": "Танай орны шинэ жил ямар уламжлалтай вэ?",
+   "en": "What traditions does New Year have in your country?",
+   "alt_mn": [
+    "Танай орны шинэ жилийн уламжлал ямар вэ?"
+   ],
+   "alt_en": [
+    "What are the New Year traditions in your country?"
+   ],
+   "mn_latin": "Tanai orny shine jil yamar ulamjlaltai ve?"
+  },
+  {
+   "mn": "Бид хоёр орны баярыг харьцуулсан.",
+   "en": "We compared the holidays of the two countries.",
+   "alt_mn": [],
+   "alt_en": [
+    "We compared the two countries' holidays."
+   ],
+   "mn_latin": "Bid khoyor orny bayaryg kharitsuulsan."
+  },
+  {
+   "mn": "Би хамаатан садандаа бэлэг аваачсан.",
+   "en": "I took gifts to my relatives.",
+   "alt_mn": [],
+   "alt_en": [
+    "I brought gifts to my relatives."
+   ],
+   "mn_latin": "Bi khamaatan sadandaa beleg avaachsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reflexive -аа/-ээ and 'with' -тай/-тэй in short stories",
+  "title_mn": "Ерөнхий хамаатуулах -аа/-ээ ба «хамт» гэсэн -тай/-тэй нөхцөл богино ярианд",
+  "explain_en": "In stories, Mongolian often adds the reflexive possessive -аа/-ээ/-оо/-өө to show that something belongs to the subject: «найзтайгаа» (with my friend), «гэртээ» (at my home). The suffix -тай/-тэй/-той means 'with' or 'having': «эмээтэй», «ахтай». You can combine them: «Би эмээтэйгээ хамт байсан» = 'I was together with my grandmother.' Use the past suffix -сан/-сэн/-сон/-сөн for what happened: «зочилсон», «хүлээн авсан». Vowel harmony: words with а, у take -аа/-тай; words with о take -оо/-той; words with э, ү take -ээ/-тэй; words with ө take -өө/-тэй.",
+  "explain_mn": "Ярианд «өөрийн» гэсэн утгатай ерөнхий хамаатуулах -аа/-ээ/-оо/-өө нөхцөлийг олон хэрэглэнэ: найзтайгаа, гэртээ. -тай/-тэй/-той нөхцөл «хамт» эсвэл «-тэй байх» гэсэн утгатай: эмээтэй, ахтай. Хоёуланг нь хослуулж болно: «Би эмээтэйгээ хамт байсан». Болсон үйлийг өнгөрсөн цагийн -сан/-сэн/-сон/-сөн нөхцөлөөр илэрхийлнэ: зочилсон, хүлээн авсан. Эгшиг зохицох ёс: а, у эгшигтэй үгэнд -аа/-тай, о эгшигтэй үгэнд -оо/-той, э, ү эгшигтэй үгэнд -ээ/-тэй, ө эгшигтэй үгэнд -өө/-тэй залгана.",
+  "examples": [
+   {
+    "mn": "Би эмээтэйгээ хамт цай уусан.",
+    "en": "I drank tea together with my grandmother.",
+    "mn_latin": "Bi emeeteigee khamt tsai uusan."
+   },
+   {
+    "mn": "Бид гэртээ зочдыг хүлээн авлаа.",
+    "en": "We welcomed the guests at home.",
+    "mn_latin": "Bid gertee zochdyg khüleen avlaa."
+   },
+   {
+    "mn": "Тэр Цагаан сараар найзтайгаа хамт багшдаа зочилсон.",
+    "en": "During Tsagaan Sar he visited his teacher with his friend.",
+    "mn_latin": "Ter Tsagaan saraar naiztaigaa khamt bagshdaa zochilson."
+   },
+   {
+    "mn": "Би ахтайгаа уулзаад бэлэг өгсөн.",
+    "en": "I met my older brother and gave him a gift.",
+    "mn_latin": "Bi akhtaigaa uulzaad beleg ögsön."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өвөө эмээ___ хамт баяраа тэмдэглэсэн.",
+   "answer": "тэйгээ",
+   "options": [
+    "тэйгээ",
+    "тайгаа",
+    "аас",
+    "руу"
+   ],
+   "translation": "I celebrated the holiday with my grandfather and grandmother.",
+   "explain_en": "'With' is -тэй (after э), plus reflexive -гээ: эмээтэйгээ = with my grandmother.",
+   "explain_mn": "«Эмээ» үгийн дараа «-тэй» нөхцөл «хамт» гэсэн утгатай, өөрийн гэдгийг заахад «-гээ» залгана: эмээтэйгээ."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид зочдыг гэр___ хүлээн авсан.",
+   "answer": "тээ",
+   "options": [
+    "тээ",
+    "тоо",
+    "ийг",
+    "тэй"
+   ],
+   "translation": "We welcomed the guests at our home.",
+   "explain_en": "The locative -т plus reflexive -ээ gives 'at our own home': гэртээ.",
+   "explain_mn": "«Гэр» + «-т» (байршил) + «-ээ» (өөрийн) = гэртээ."
+  },
+  {
+   "lang": "mn",
+   "text": "Өчигдөр ойр дотнын хүмүүс манайд зочил___.",
+   "answer": "сон",
+   "options": [
+    "сон",
+    "на",
+    "даг",
+    "ж байна"
+   ],
+   "translation": "Yesterday our close relatives and friends visited us.",
+   "explain_en": "The past tense uses -сан/-сэн/-сон/-сөн; зочлох has о, so the form is зочилсон.",
+   "explain_mn": "Өнгөрсөн цагийн үйл явдлыг «-сон» нөхцөлөөр илэрхийлнэ: зочилсон."
+  },
+  {
+   "lang": "en",
+   "text": "Tsagaan Sar was ___ the 15th of February.",
+   "answer": "on",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "translation": "Цагаан сар хоёрдугаар сарын 15-нд болсон.",
+   "explain_en": "Use 'on' with a specific date.",
+   "explain_mn": "Тодорхой огнооны өмнө «on» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It is very cold ___ winter in Ulaanbaatar.",
+   "answer": "in",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "translation": "Улаанбаатарт өвөл маш хүйтэн.",
+   "explain_en": "Use 'in' with seasons and months.",
+   "explain_mn": "Улирал, сарын өмнө «in» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "We drank tea ___ midnight.",
+   "answer": "at",
+   "options": [
+    "at",
+    "in",
+    "on",
+    "for"
+   ],
+   "translation": "Бид шөнө дунд цай уусан.",
+   "explain_en": "Use 'at' with exact times like midnight, noon, 8 o'clock.",
+   "explain_mn": "Тодорхой цагийн өмнө «at» хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн уу, Болд! Цагаан сараар юу хийсэн бэ?",
+   "en": "Hi, Bold! What did you do for Tsagaan Sar?",
+   "mn_latin": "Sain uu, Bold! Tsagaan saraar yuu khiisen be?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Би гэр бүлтэйгээ хамт баяраа тэмдэглэсэн. Ойр дотнын хүмүүс манайд зочилсон.",
+   "en": "I celebrated with my family. Our close relatives and friends visited us.",
+   "mn_latin": "Bi ger bülteigee khamt bayaraa temdeglesen. Oir dotnyn khümüüs manaid zochilson."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Та нар юу идсэн бэ?",
+   "en": "What did you eat?",
+   "mn_latin": "Ta nar yuu idsen be?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Бид олон бууз идэж, сүүтэй цай уусан.",
+   "en": "We ate lots of buuz and drank milk tea.",
+   "mn_latin": "Bid olon buuz idej, süütei tsai uusan."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Танай орны шинэ жил ямар байдаг вэ?",
+   "en": "What is New Year like in your country?",
+   "mn_latin": "Tanai orny shine jil yamar baidag ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Бид арван хоёрдугаар сарын 31-нд шөнө дунд салют хардаг.",
+   "en": "On December 31st, at midnight, we watch fireworks.",
+   "mn_latin": "Bid arvan khoyordugaar saryn 31-nd shönö dund salyut khardag."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Сонирхолтой юм! Манай уламжлал их өөр юм байна.",
+   "en": "Interesting! Our tradition is very different.",
+   "mn_latin": "Sonirkholtoi yum! Manai ulamjlal ikh öör yum baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Tsagaan Sar, the Mongolian Lunar New Year, usually falls in February and is a time for visiting family. Hosts welcome guests with buuz, milk tea and gifts, and the visits last for several days. Many Mongolians also celebrate the Gregorian New Year on January 1st, so people often compare the two holidays.",
+  "mn": "Цагаан сар нь Монголын уламжлалт шинийн баяр бөгөөд ихэвчлэн хоёрдугаар сард тохиодог, ойр дотнын хүмүүстэйгээ золгож уулздаг цаг юм. Гэрийн эзэд зочдоо бууз, сүүтэй цай, бэлгээр угтдаг бөгөөд золголт хэдэн өдөр үргэлжилдэг. Олон монголчууд нэгдүгээр сарын 1-ний шинэ жилийг мөн тэмдэглэдэг тул хоёр баярыг харьцуулах нь элбэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 24,
+  "notes": "Grammar block is mismatched and contains errors; several date and word-choice mistakes in sentences and dialogue."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 13,
+  "notes": "Main problems: wrong vowel-harmony rule, mismatched grammar explanations, a duplicate alternative and a wrong alternative, and the date spelling.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Vowel harmony rule was wrong: о takes -оо/-той, and ө takes -өө."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The Mongolian version left out content that the English has, including vowel harmony."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "«Рефлексив» is not the standard Mongolian grammar term."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "зочилсон needs someone being visited."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "en",
+    "why": "Matches the fixed Mongolian sentence."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "More natural English."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "«эрт» is the natural word here; «эртлэн» sounds unnatural."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "«өгсөн» means 'gave', not 'took/brought'."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "Consistent with the vocab gloss; 'close ones' is unnatural."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Complete suffix set and the reason for -сон."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "«2 сарын» is not the correct written form of the month name."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "«Арван хоёрдугаар» is written as two words."
+   }
+  ]
+ }
+}

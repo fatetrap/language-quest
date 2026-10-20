@@ -1,0 +1,392 @@
+{
+ "intro_en": "Follow a yoga instructor's directions in Mongolian and talk about stretching, breathing, and balance. You will use -аад үзээрэй for polite \"try doing\" instructions and -аад үзсэн/үзлээ to say what happened when you tried something.",
+ "intro_mn": "Иогийн багшийн зааврыг ойлгож, сунгалт, амьсгал, тэнцвэрийн тухай ярьж сурна. Англи хэлэнд \"It's my first time + -ing\" болон \"It's the first time + present perfect\" хэлбэрүүдийн ялгааг үзнэ.",
+ "vocab": [
+  {
+   "mn": "сунгах",
+   "en": "to stretch",
+   "pos": "verb",
+   "example_mn": "Гараа дээш сунгаарай.",
+   "example_en": "Stretch your arms up.",
+   "mn_latin": "sungakh"
+  },
+  {
+   "mn": "амьсгалах",
+   "en": "to breathe",
+   "pos": "verb",
+   "example_mn": "Гүнзгий амьсгалаарай.",
+   "example_en": "Breathe deeply.",
+   "mn_latin": "amisgalakh"
+  },
+  {
+   "mn": "тэнцвэр",
+   "en": "balance",
+   "pos": "noun",
+   "example_mn": "Нэг хөл дээрээ тэнцвэрээ хадгалахад хэцүү байлаа.",
+   "example_en": "It was hard to keep my balance on one leg.",
+   "mn_latin": "tentsver"
+  },
+  {
+   "mn": "дэвсгэр",
+   "en": "mat",
+   "pos": "noun",
+   "example_mn": "Дэвсгэрээ шалан дээр дэлгээрэй.",
+   "example_en": "Spread your mat out on the floor.",
+   "mn_latin": "devsger"
+  },
+  {
+   "mn": "булчин",
+   "en": "muscle",
+   "pos": "noun",
+   "example_mn": "Хичээлийн дараа булчин минь өвдсөн.",
+   "example_en": "My muscles were sore after the class.",
+   "mn_latin": "bulchin"
+  },
+  {
+   "mn": "амьсгал авах",
+   "en": "to breathe in, to inhale",
+   "pos": "verb phrase",
+   "example_mn": "Хамраараа амьсгал аваарай.",
+   "example_en": "Breathe in through your nose.",
+   "mn_latin": "amisgal avakh"
+  },
+  {
+   "mn": "амьсгалаа гаргах",
+   "en": "to breathe out, to exhale",
+   "pos": "verb phrase",
+   "example_mn": "Амьсгалаа аажмаар гаргаарай.",
+   "example_en": "Breathe out slowly.",
+   "mn_latin": "amisgalaa gargakh"
+  },
+  {
+   "mn": "бөхийх",
+   "en": "to bend forward, to bow",
+   "pos": "verb",
+   "example_mn": "Урагшаа бөхийгөөд хөлийнхөө хуруунд хүрээрэй.",
+   "example_en": "Bend forward and touch your toes.",
+   "mn_latin": "bökhiikh"
+  },
+  {
+   "mn": "уян хатан",
+   "en": "flexible",
+   "pos": "adjective",
+   "example_mn": "Би тийм ч уян хатан биш.",
+   "example_en": "I'm not very flexible.",
+   "mn_latin": "uyan khatan"
+  },
+  {
+   "mn": "байрлал",
+   "en": "pose, position",
+   "pos": "noun",
+   "example_mn": "Энэ байрлал надад хэцүү санагдлаа.",
+   "example_en": "This pose felt hard for me.",
+   "mn_latin": "bairlal"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би анх удаа иогийн хичээлд сууж байна.",
+   "en": "It's my first time taking a yoga class.",
+   "alt_mn": [
+    "Энэ бол миний анхны иогийн хичээл."
+   ],
+   "alt_en": [
+    "This is my first yoga class.",
+    "It's the first time I've taken a yoga class."
+   ],
+   "mn_latin": "Bi ankh udaa iogiin khicheeld suuj baina."
+  },
+  {
+   "mn": "Би иог анх удаа хийж үзэж байна.",
+   "en": "It's the first time I've tried yoga.",
+   "alt_mn": [
+    "Би анх удаа иог хийж үзэж байна."
+   ],
+   "alt_en": [
+    "It's my first time trying yoga.",
+    "This is the first time I've tried yoga."
+   ],
+   "mn_latin": "Bi iog ankh udaa khiij üzej baina."
+  },
+  {
+   "mn": "Гутлаа тайлаад, дэвсгэрээ дэлгээрэй.",
+   "en": "Take off your shoes and lay out your mat.",
+   "alt_mn": [],
+   "alt_en": [
+    "Take your shoes off and spread out your mat."
+   ],
+   "mn_latin": "Gutlaa tailaad, devsgeree delgeerei."
+  },
+  {
+   "mn": "Гараа дээш сунгаад, гүнзгий амьсгал аваад үзээрэй.",
+   "en": "Try stretching your arms up and taking a deep breath.",
+   "alt_mn": [],
+   "alt_en": [
+    "Try stretching your arms up and breathing in deeply."
+   ],
+   "mn_latin": "Garaa deesh sungaad, günzgii amisgal avaad üzeerei."
+  },
+  {
+   "mn": "Нэг хөл дээрээ зогсоод, тэнцвэрээ хадгалж үзээрэй.",
+   "en": "Try standing on one leg and keeping your balance.",
+   "alt_mn": [],
+   "alt_en": [
+    "Try to stand on one leg and keep your balance."
+   ],
+   "mn_latin": "Neg khöl deeree zogsood, tentsveree khadgalj üzeerei."
+  },
+  {
+   "mn": "Би урагшаа бөхийгөөд хөлийнхөө хуруунд хүрч үзсэн ч хүрч чадсангүй.",
+   "en": "I tried bending forward to touch my toes, but I couldn't reach them.",
+   "alt_mn": [],
+   "alt_en": [
+    "I tried to bend forward and touch my toes, but I couldn't reach them."
+   ],
+   "mn_latin": "Bi uragshaa bökhiigööd khöliinkhöö khuruund khürch üzsen ch khürch chadsangüi."
+  },
+  {
+   "mn": "Нүдээ аниад амьсгалаа тоолоод үзлээ, үнэхээр тайвширлаа.",
+   "en": "I tried closing my eyes and counting my breaths, and I really calmed down.",
+   "alt_mn": [],
+   "alt_en": [
+    "I closed my eyes and tried counting my breaths, and it really calmed me down."
+   ],
+   "mn_latin": "Nüdee aniad amisgalaa toolood üzlee, ünekheer taivshirlaa."
+  },
+  {
+   "mn": "Хичээлийн дараа хөлийн булчин минь жаахан өвдөж байна.",
+   "en": "After the class, my leg muscles are a little sore.",
+   "alt_mn": [
+    "Хичээлийн дараа хөлийн булчин маань бага зэрэг өвдөж байна."
+   ],
+   "alt_en": [
+    "My leg muscles are a bit sore after the class."
+   ],
+   "mn_latin": "Khicheeliin daraa khöliin bulchin mini jaakhan övdöj baina."
+  },
+  {
+   "mn": "Өвдвөл хүчээр битгий сунгаарай, зүгээр л амьсгалаарай.",
+   "en": "If it hurts, don't force the stretch. Just breathe.",
+   "alt_mn": [
+    "Өвдөж байвал хүчээр битгий сунгаарай, зүгээр л амьсгалаарай."
+   ],
+   "alt_en": [
+    "If it hurts, don't force it. Just breathe."
+   ],
+   "mn_latin": "Övdvöl khücheer bitgii sungaarai, zügeer l amisgalaarai."
+  },
+  {
+   "mn": "Би ийм удаан сунгалт хийж үзээгүй юм байна.",
+   "en": "I've never done such a long stretch before.",
+   "alt_mn": [],
+   "alt_en": [
+    "I've never tried stretching for this long before."
+   ],
+   "mn_latin": "Bi iim udaan sungalt khiij üzeegüi yum baina."
+  },
+  {
+   "mn": "Багш маань \"Мөрөө суллаад үзээрэй\" гэж хэлсэн.",
+   "en": "My instructor said, \"Try relaxing your shoulders.\"",
+   "alt_mn": [],
+   "alt_en": [
+    "My teacher said, \"Try relaxing your shoulders.\""
+   ],
+   "mn_latin": "Bagsh maani \"Möröö sullaad üzeerei\" gej khelsen."
+  },
+  {
+   "mn": "Дахиад нэг хичээлд сууж үзье гэж бодож байна.",
+   "en": "I'm thinking of trying another class.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm thinking about trying one more class."
+   ],
+   "mn_latin": "Dakhiad neg khicheeld suuj üziye gej bodoj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Trying things: -аад үзээрэй / -аад үзлээ",
+  "title_mn": "It's my first time + -ing ба It's the first time + present perfect",
+  "explain_en": "To say \"try doing something,\" Mongolian puts the main verb in the converb form -аад/-ээд/-оод/-өөд and adds the verb үзэх, \"to see.\" Literally it means \"do it and see.\" A yoga teacher uses the polite form: сунгаад үзээрэй (try stretching), амьсгалаад үзнэ үү (please try breathing). To report what happened when you tried, use the past tense: бөхийгөөд үзсэн (I tried bending), аниад үзлээ (I just tried closing my eyes). The ending follows vowel harmony: сунга→сунгаад, бөхий→бөхийгөөд, зогс→зогсоод. You will also hear -ж/-ч үз with the same meaning, as in хүрч үзээрэй (try touching).",
+  "explain_mn": "Англи хэлэнд \"анх удаа\" гэдгийг хоёр янзаар хэлдэг. (1) It's my first time + -ing: It's my first time doing yoga. Энд үйл үг заавал -ing хэлбэртэй байна. \"It's my first time to do\" гэж хэлэхгүй. (2) It's the first time + present perfect: It's the first time I've done yoga. Энд have/has + V3 хэлбэр хэрэглэнэ. \"It's the first time I do yoga\" гэвэл буруу. Өнгөрсөн үйлдлийн тухай ярихдаа was ба past perfect хэрэглэнэ: It was the first time I had tried yoga.",
+  "examples": [
+   {
+    "mn": "Гараа дээш сунгаад үзээрэй.",
+    "en": "Try stretching your arms up.",
+    "mn_latin": "Garaa deesh sungaad üzeerei."
+   },
+   {
+    "mn": "Би нүдээ аниад амьсгалаад үзлээ.",
+    "en": "I tried closing my eyes and breathing.",
+    "mn_latin": "Bi nüdee aniad amisgalaad üzlee."
+   },
+   {
+    "mn": "Би анх удаа иог хийж байна.",
+    "en": "It's my first time doing yoga.",
+    "mn_latin": "Bi ankh udaa iog khiij baina."
+   },
+   {
+    "mn": "Би энэ байрлалыг анх удаа хийж үзэж байна.",
+    "en": "It's the first time I've tried this pose.",
+    "mn_latin": "Bi ene bairlalyg ankh udaa khiij üzej baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гараа дээш сунг___ үзээрэй.",
+   "answer": "аад",
+   "options": [
+    "аад",
+    "асаар",
+    "асан",
+    "авал"
+   ],
+   "translation": "Try stretching your arms up.",
+   "explain_en": "Before үзэх (\"try\"), the main verb takes the converb ending -аад. Сунгах has back vowels, so it becomes сунгаад.",
+   "explain_mn": "\"Үзэх\" үйл үгийн өмнө гол үйл үг -аад нөхцөлтэй байж \"оролдож үзэх\" утгыг илэрхийлнэ: сунгаад үзээрэй."
+  },
+  {
+   "lang": "mn",
+   "text": "Өчигдөр би анх удаа иог хийгээд үз___.",
+   "answer": "сэн",
+   "options": [
+    "сэн",
+    "ээрэй",
+    "нэ үү",
+    "вэл"
+   ],
+   "translation": "Yesterday I tried doing yoga for the first time.",
+   "explain_en": "Өчигдөр (yesterday) points to the past, so үзэх takes the past ending -сэн: үзсэн, \"I tried.\" The ending -ээрэй is a request, which doesn't fit a story about yesterday.",
+   "explain_mn": "Өнгөрсөн үйлдлийг ярьж байгаа тул -сэн нөхцөл хэрэглэнэ: үзсэн. -ээрэй бол хүсэлт, зааврын хэлбэр."
+  },
+  {
+   "lang": "mn",
+   "text": "___ дээрээ хэвтээд гүнзгий амьсгалаарай.",
+   "answer": "Дэвсгэр",
+   "options": [
+    "Дэвсгэр",
+    "Булчин",
+    "Тэнцвэр",
+    "Амьсгал"
+   ],
+   "translation": "Lie down on your mat and breathe deeply.",
+   "explain_en": "You lie down on a mat (дэвсгэр). You can't lie on a muscle, on balance, or on a breath.",
+   "explain_mn": "Хэвтэх газар бол дэвсгэр. Бусад үгс энэ утгад тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "It's my first time ___ yoga.",
+   "answer": "doing",
+   "options": [
+    "doing",
+    "do",
+    "to do",
+    "done"
+   ],
+   "translation": "Би анх удаа иог хийж байна.",
+   "explain_en": "After \"It's my first time,\" use the -ing form: It's my first time doing yoga.",
+   "explain_mn": "\"It's my first time\"-ийн дараа үйл үг -ing хэлбэртэй байна. \"to do\" гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "It's the first time I have ___ a yoga class.",
+   "answer": "taken",
+   "options": [
+    "taken",
+    "take",
+    "taking",
+    "took"
+   ],
+   "translation": "Би анх удаа иогийн хичээлд сууж байна.",
+   "explain_en": "After \"It's the first time,\" use the present perfect (have + past participle), so the answer is taken.",
+   "explain_mn": "\"It's the first time\"-ийн дараа present perfect буюу have + V3 хэлбэр хэрэглэнэ. Take үйл үгийн V3 хэлбэр нь taken."
+  },
+  {
+   "lang": "en",
+   "text": "Try ___ your shoulders.",
+   "answer": "relaxing",
+   "options": [
+    "relaxing",
+    "relax",
+    "relaxed",
+    "relaxes"
+   ],
+   "translation": "Мөрөө суллаад үзээрэй.",
+   "explain_en": "\"Try + -ing\" means experimenting with something to see what happens, like a teacher's tip in class.",
+   "explain_mn": "\"Try + -ing\" нь \"хийгээд үз\" гэсэн утгатай. Энэ нь Монгол хэлний -аад үз хэлбэртэй дүйнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу! Та иогоор анх удаа хичээллэж байна уу?",
+   "en": "Hello! Is this your first time doing yoga?",
+   "mn_latin": "Sain baina uu! Ta iogoor ankh udaa khicheellej baina uu?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тийм ээ, анх удаа. Би тийм ч уян хатан биш шүү.",
+   "en": "Yes, it's my first time. Just so you know, I'm not very flexible.",
+   "mn_latin": "Tiim ee, ankh udaa. Bi tiim ch uyan khatan bish shüü."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Зүгээр ээ. Дэвсгэр дээрээ суугаад, нүдээ аниад, гүнзгий амьсгалаад үзээрэй.",
+   "en": "That's fine. Sit on your mat, close your eyes, and try breathing deeply.",
+   "mn_latin": "Zügeer ee. Devsger deeree suugaad, nüdee aniad, günzgii amisgalaad üzeerei."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Амьсгалаад үзлээ. Үнэхээр тайвширч байна.",
+   "en": "I tried it. I'm really starting to relax.",
+   "mn_latin": "Amisgalaad üzlee. Ünekheer taivshirch baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Одоо босоод, нэг хөл дээрээ зогсоод тэнцвэрээ хадгалж үзээрэй.",
+   "en": "Now stand up and try balancing on one leg.",
+   "mn_latin": "Odoo bosood, neg khöl deeree zogsood tentsveree khadgalj üzeerei."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Өө, унах нь ээ! Хөлийн булчин минь чичирч байна.",
+   "en": "Oh, I'm going to fall! My leg muscles are shaking.",
+   "mn_latin": "Öö, unakh ni ee! Khöliin bulchin mini chichirch baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Хананд гараа тулаад үзээрэй. Анхны хичээл дээр хүн бүр ингэдэг юм.",
+   "en": "Try putting your hand on the wall. Everyone does that in their first class.",
+   "mn_latin": "Khanand garaa tulaad üzeerei. Ankhny khicheel deer khün bür ingedeg yum."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Ингээд үзлээ, одоо арай гайгүй боллоо. Ийм сонирхолтой хичээлд анх удаа сууж байна.",
+   "en": "I tried that, and now it's a bit better. It's the first time I've taken such an interesting class.",
+   "mn_latin": "Ingeed üzlee, odoo arai gaigüi bolloo. Iim sonirkholtoi khicheeld ankh udaa suuj baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Yoga has become popular in Ulaanbaatar over the last decade, especially among young office workers and students. New studios often offer a free trial class. In many classes the instructor gives directions in Mongolian but uses English or Sanskrit names for poses, so you might hear \"downward dog\" right in the middle of a Mongolian sentence.",
+  "mn": "Сүүлийн арван жилд иог Улаанбаатарт, ялангуяа залуу оффисын ажилтнууд болон оюутнуудын дунд их түгсэн. Шинэ студиуд ихэвчлэн нэг удаагийн үнэгүй туршилтын хичээл санал болгодог. Олон хичээл дээр багш монголоор заавар өгөхдөө байрлалын нэрийг англи эсвэл санскрит хэлээр хэлдэг тул монгол өгүүлбэр дунд \"downward dog\" гэх мэт үг сонсогдож болно."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 0,
+  "notes": "Clean, natural lesson. The Mongolian and English are correct, the translation pairs match, each fill-in-the-blank has only one correct option, and the explanations are accurate. No real mistakes found."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "Mongolian and English are otherwise accurate and natural. Register (та) is consistent in the dialogue. Pairing grammar on Mongolian -аад үз for English speakers with English 'first time' grammar for Mongolian speakers is the intended dual-direction design.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The distractors must combine with the stem сунг- into real forms (сунгасаар, сунгасан, сунгавал). 'саар', 'сан' and 'вал' would give the non-words сунгсаар, сунгсан, сунгвал."
+   }
+  ]
+ }
+}

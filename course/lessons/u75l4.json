@@ -1,0 +1,532 @@
+{
+ "intro_en": "You will learn to talk about sudden storms, cold nights and wet clothes in the Terelj hills. You will also practice the Mongolian completive -чихвол for conditions ('if it gets all wet') and the English 'needn't have + past participle' for wasted effort.",
+ "intro_mn": "Та Тэрэлжийн ууланд гэнэт орсон бороо, хүйтэн шөнө, норсон хувцасны тухай ярьж сурна. Мөн монгол хэлний -чихвол нөхцөлийг болон англи хэлний 'needn't have + өнгөрсөн цагийн үйлт нэр (V3)' бүтцийг (дэмий хөдөлмөрийг илтгэх) дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "борооны цув",
+   "en": "raincoat",
+   "pos": "noun",
+   "example_mn": "Би үүргэвчиндээ борооны цув хийсэн.",
+   "example_en": "I put a raincoat in my backpack.",
+   "mn_latin": "boroony tsuv"
+  },
+  {
+   "mn": "норох",
+   "en": "to get soaked",
+   "pos": "verb",
+   "example_mn": "Бидний гутал бүрэн норчихсон.",
+   "example_en": "Our boots are completely soaked.",
+   "mn_latin": "norokh"
+  },
+  {
+   "mn": "чичрэх",
+   "en": "to shiver",
+   "pos": "verb",
+   "example_mn": "Хүүхдүүд хүйтэнд чичирч байлаа.",
+   "example_en": "The children were shivering in the cold.",
+   "mn_latin": "chichrekh"
+  },
+  {
+   "mn": "аадар бороо",
+   "en": "downpour",
+   "pos": "noun",
+   "example_mn": "Үдээс хойш гэнэт аадар бороо орлоо.",
+   "example_en": "A sudden downpour began in the afternoon.",
+   "mn_latin": "aadar boroo"
+  },
+  {
+   "mn": "аянга цахилгаан",
+   "en": "thunderstorm (thunder and lightning)",
+   "pos": "noun",
+   "example_mn": "Аянга цахилгаантай бороо орж байна.",
+   "example_en": "There is a thunderstorm with rain.",
+   "mn_latin": "ayanga tsakhilgaan"
+  },
+  {
+   "mn": "мөндөр",
+   "en": "hail",
+   "pos": "noun",
+   "example_mn": "Мөндөр майхан дээр шаржигнаж байлаа.",
+   "example_en": "The hail was clattering on the tent.",
+   "mn_latin": "möndör"
+  },
+  {
+   "mn": "чийгтэй",
+   "en": "damp",
+   "pos": "adjective",
+   "example_mn": "Унтлагын уут чийгтэй болсон байна.",
+   "example_en": "The sleeping bag has become damp.",
+   "mn_latin": "chiigtei"
+  },
+  {
+   "mn": "хатаах",
+   "en": "to dry out",
+   "pos": "verb",
+   "example_mn": "Бид хувцсаа галын дэргэд хатаалаа.",
+   "example_en": "We dried our clothes by the fire.",
+   "mn_latin": "khataakh"
+  },
+  {
+   "mn": "дулаан хувцас",
+   "en": "warm clothes",
+   "pos": "noun",
+   "example_mn": "Шөнө дулаан хувцас өмсөх хэрэгтэй.",
+   "example_en": "You need to wear warm clothes at night.",
+   "mn_latin": "dulaan khuvtsas"
+  },
+  {
+   "mn": "гэнэтийн",
+   "en": "unexpected, sudden",
+   "pos": "adjective",
+   "example_mn": "Уулын гэнэтийн цаг агаар аюултай.",
+   "example_en": "Sudden mountain weather is dangerous.",
+   "mn_latin": "genetiin"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Гэнэт аадар бороо орж эхэллээ.",
+   "en": "A downpour suddenly started.",
+   "alt_mn": [
+    "Гэнэт хүчтэй бороо орж эхлэв."
+   ],
+   "alt_en": [
+    "It suddenly started pouring."
+   ],
+   "mn_latin": "Genet aadar boroo orj ekhellee."
+  },
+  {
+   "mn": "Бид борооны цувтай байсан болохоор нороогүй.",
+   "en": "We didn't get soaked because we had raincoats.",
+   "alt_mn": [],
+   "alt_en": [
+    "We stayed dry because we had raincoats."
+   ],
+   "mn_latin": "Bid boroony tsuvtai baisan bolokhoor noroogüi."
+  },
+  {
+   "mn": "Хэрвээ майхан норчихвол бид шөнөжин чичирнэ.",
+   "en": "If the tent gets all wet, we will shiver all night.",
+   "alt_mn": [
+    "Майхан норчихвол бид шөнөжин чичирнэ."
+   ],
+   "alt_en": [
+    "If the tent gets soaked, we'll be shivering all night."
+   ],
+   "mn_latin": "Khervee maikhan norchikhvol bid shönöjin chichirne."
+  },
+  {
+   "mn": "Унтлагын уут чийгтэй болчихвол өөр хуурай хөнжил хэрэгтэй.",
+   "en": "If the sleeping bag gets damp, we'll need another dry blanket.",
+   "alt_mn": [],
+   "alt_en": [
+    "If the sleeping bag ends up damp, we'll need a dry blanket."
+   ],
+   "mn_latin": "Untlagyn uut chiigtei bolchikhvol öör khuurai khönjil kheregtei."
+  },
+  {
+   "mn": "Мөндөр орохоор бид майхандаа орлоо.",
+   "en": "When the hail started, we went into our tent.",
+   "alt_mn": [
+    "Мөндөр орж эхлэхэд бид майхандаа орлоо."
+   ],
+   "alt_en": [
+    "As soon as the hail came, we got into the tent."
+   ],
+   "mn_latin": "Möndör orokhoor bid maikhandaa orloo."
+  },
+  {
+   "mn": "Аянга цахилгаантай үед өндөр мод дор зогсож болохгүй.",
+   "en": "You shouldn't stand under a tall tree during a thunderstorm.",
+   "alt_mn": [],
+   "alt_en": [
+    "You must not stand under tall trees in a thunderstorm."
+   ],
+   "mn_latin": "Ayanga tsakhilgaantai üyed öndör mod dor zogsoj bolokhgüi."
+  },
+  {
+   "mn": "Камер маань норчихвол зургууд бүгд устана.",
+   "en": "If my camera gets soaked, all the photos will be lost.",
+   "alt_mn": [
+    "Камер маань норчихвол бүх зураг алга болно."
+   ],
+   "alt_en": [
+    "If my camera gets soaked, all the photos will be gone."
+   ],
+   "mn_latin": "Kamyer maani norchikhvol zurguud bügd ustana."
+  },
+  {
+   "mn": "Шөнө маш хүйтэн байсан тул бид дулаан хувцсаа бүгдийг нь өмссөн.",
+   "en": "The night was very cold, so we wore all our warm clothes.",
+   "alt_mn": [],
+   "alt_en": [
+    "It was so cold at night that we put on all our warm clothes."
+   ],
+   "mn_latin": "Shönö mash khüiten baisan tul bid dulaan khuvtssaa bügdiig ni ömssön."
+  },
+  {
+   "mn": "Бид ийм их санаа зовох албагүй байсан.",
+   "en": "We needn't have worried so much.",
+   "alt_mn": [
+    "Бид ийм их санаа зовох шаардлагагүй байжээ."
+   ],
+   "alt_en": [
+    "We didn't need to worry so much."
+   ],
+   "mn_latin": "Bid iim ikh sanaa zovokh albagüi baisan."
+  },
+  {
+   "mn": "Чи ийм олон цув авчрах албагүй байсан.",
+   "en": "You needn't have brought so many raincoats.",
+   "alt_mn": [
+    "Чи ийм олон цув авч явах шаардлагагүй байсан."
+   ],
+   "alt_en": [
+    "You didn't have to bring so many raincoats."
+   ],
+   "mn_latin": "Chi iim olon tsuv avchrakh albagüi baisan."
+  },
+  {
+   "mn": "Өглөө нар гарсан тул бид норсон хувцсаа хатаалаа.",
+   "en": "The sun came out in the morning, so we dried our wet clothes.",
+   "alt_mn": [],
+   "alt_en": [
+    "In the morning the sun came out and we dried our soaked clothes."
+   ],
+   "mn_latin": "Öglöö nar garsan tul bid norson khuvtssaa khataalaa."
+  },
+  {
+   "mn": "Бороо шөнөдөө зогссон болохоор бид галаа дахин асааж чадсан.",
+   "en": "The rain stopped during the night, so we were able to light the fire again.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because the rain stopped overnight, we could relight the fire."
+   ],
+   "mn_latin": "Boroo shönödöö zogsson bolokhoor bid galaa dakhin asaaj chadsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Completive -чихвол for conditions + 'needn't have'",
+  "title_mn": "Гүйцэтгэх -чихвол нөхцөл ба 'needn't have'",
+  "explain_en": "In Mongolian, the completive suffix -чих (added to the verb stem: нор-чих, эвдэр-чих) shows that something becomes fully done, often 'all wet/broken/ruined'. Add the conditional ending ('if/when') to get forms like норчихвол: Майхан норчихвол... = 'If the tent gets all wet...'. It stresses a complete, often unwelcome result. The suffix -чих itself does not change. The conditional follows the vowel harmony of the stem: -вол after о (норчихвол), -вал after а/у (алдчихвал), -вэл after front vowels (эвдэрчихвэл 'if it gets broken'). In English, 'needn't have + past participle' (We needn't have worried) says an action happened but was unnecessary. 'Didn't need to' only says it wasn't necessary and doesn't tell us whether it was done. In Mongolian, use -х албагүй байсан / шаардлагагүй байсан.",
+  "explain_mn": "Монгол хэлэнд -чих дагавар (нор-чих, эвдэр-чих) үйл бүрэн гүйцэж дууссаныг, ихэвчлэн хүсээгүй үр дүнг заана. Үүн дээр нөхцөлийн нөхцөл залгаж норчихвол гэх мэт хэлбэр үүсгэнэ: Майхан норчихвол... = 'If the tent gets all wet...'. -чих өөрчлөгдөхгүй, харин нөхцөл нь эгшиг зохицлоор -вол (норчихвол), -вал (алдчихвал), -вэл (эвдэрчихвэл) болно. Англи хэлэнд үүнийг 'gets all wet / soaked / broken' гэж илэрхийлнэ (If the tent gets soaked...). Англи хэлний 'needn't have + V3' (worried, brought, packed up) нь өнгөрсөнд хийчихсэн үйлдэл шаардлагагүй, дэмий байсныг заана: We needn't have worried = Бид санаа зовох албагүй байсан. Харин 'didn't need to' нь шаардлагагүй байсныг л хэлэх бөгөөд хийсэн эсэхийг заадаггүй.",
+  "examples": [
+   {
+    "mn": "Майхан норчихвол бид хүйтэнд чичирнэ.",
+    "en": "If the tent gets all wet, we'll shiver in the cold.",
+    "mn_latin": "Maikhan norchikhvol bid khüitend chichirne."
+   },
+   {
+    "mn": "Гутал чинь эвдэрчихвэл яах вэ?",
+    "en": "What if your boots get ruined?",
+    "mn_latin": "Gutal chini evderchikhvel yaakh ve?"
+   },
+   {
+    "mn": "Бид санаа зовох албагүй байсан.",
+    "en": "We needn't have worried.",
+    "mn_latin": "Bid sanaa zovokh albagüi baisan."
+   },
+   {
+    "mn": "Утсаа бороонд алдчихвал холбоо тасарна.",
+    "en": "If you lose your phone in the rain, you'll be cut off.",
+    "mn_latin": "Utsaa boroond aldchikhval kholboo tasarna."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Унтлагын уут нор___ бид хүйтэнд хононо.",
+   "answer": "чихвол",
+   "options": [
+    "чихвол",
+    "чихсон",
+    "чихоод",
+    "чихлоо"
+   ],
+   "translation": "If the sleeping bag gets all wet, we'll spend the night in the cold.",
+   "explain_en": "-чихвол = completive -чих + conditional -вол: 'if it gets completely wet'. The stem нор- has the vowel о, so the conditional is -вол: норчихвол.",
+   "explain_mn": "Нор + чихвол = норчихвол. -чих нь үйлийн бүрэн дуусахыг, -вол нь нөхцөлийг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Камер эвдэр___ зургаа яаж авах вэ?",
+   "answer": "чихвэл",
+   "options": [
+    "чихвэл",
+    "чихвол",
+    "чихсэн",
+    "чихлээ"
+   ],
+   "translation": "If the camera gets broken, how will I take photos?",
+   "explain_en": "Эвдэр- is a front-vowel verb, so the ending is -чихвэл (not -чихвол).",
+   "explain_mn": "Эвдэр- нь эм эгшигтэй тул эгшиг зохицлын дагуу -чихвэл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Аадар бороо орж, бид бүрэн ___.",
+   "answer": "норчихлоо",
+   "options": [
+    "норчихлоо",
+    "хатчихлаа",
+    "хатаалаа",
+    "чичирлээ"
+   ],
+   "translation": "A downpour began, and we got completely soaked.",
+   "explain_en": "Норчихлоо = 'got completely soaked'. Хатчихлаа means 'dried completely', the opposite.",
+   "explain_mn": "Бороонд бүрэн норсон гэсэн утгатай тул норчихлоо тохирно; хатчихлаа нь эсрэг утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "It didn't rain at all, so we needn't ___ so many raincoats.",
+   "answer": "have brought",
+   "options": [
+    "have brought",
+    "bring",
+    "brought",
+    "to bring"
+   ],
+   "translation": "Бороо огт орсонгүй, тиймээс бид ийм олон борооны цув авчрах албагүй байсан.",
+   "explain_en": "'Needn't have' is followed by the past participle: needn't have brought.",
+   "explain_mn": "'Needn't have'-ийн дараа үйл үгийн 3-р хэлбэр орно: brought."
+  },
+  {
+   "lang": "en",
+   "text": "The storm passed quickly; we needn't have ___ the whole camp.",
+   "answer": "packed up",
+   "options": [
+    "packed up",
+    "pack up",
+    "packing up",
+    "to pack up"
+   ],
+   "translation": "Шуурга хурдан өнгөрсөн; бид бүх майхан, юмаа хураах албагүй байсан.",
+   "explain_en": "After 'needn't have' we need the past participle: packed up.",
+   "explain_mn": "'Needn't have'-ийн дараа 3-р хэлбэр буюу packed up орно."
+  },
+  {
+   "lang": "en",
+   "text": "If the tent ___ soaked, we'll move into the car.",
+   "answer": "gets",
+   "options": [
+    "gets",
+    "will get",
+    "got",
+    "is getting"
+   ],
+   "translation": "Хэрвээ майхан норчихвол бид машинд орно.",
+   "explain_en": "In real future conditions, use the present simple after 'if': If the tent gets soaked.",
+   "explain_mn": "Ирээдүйн бодит нөхцөлд 'if'-ийн дараа одоо цаг ашиглана: gets."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Хараач, тэнгэр хар үүлээр бүрхэгдлээ!",
+   "en": "Look, the sky is covered with black clouds!",
+   "mn_latin": "Kharaach, tenger khar üüleer bürkhegdlee!"
+  },
+  {
+   "speaker": "Jake",
+   "mn": "Аянга цахилгаантай бороо орох нь ээ. Майхнаа хурдан бэхэлье.",
+   "en": "A thunderstorm is coming. Let's secure the tent quickly.",
+   "mn_latin": "Ayanga tsakhilgaantai boroo orokh ni ee. Maikhnaa khurdan bekheliye."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Хувцас норчихвол яана? Бүгд үүргэвчинд байгаа.",
+   "en": "What if the clothes get all wet? They're all in the backpack.",
+   "mn_latin": "Khuvtsas norchikhvol yaana? Bügd üürgevchind baigaa."
+  },
+  {
+   "speaker": "Jake",
+   "mn": "Би үүргэвчээ гялгар уутанд хийчихсэн. Мөндөр орж байна, дотогш ор!",
+   "en": "I've put the backpack in a plastic sack. Hail's starting, get inside!",
+   "mn_latin": "Bi üürgevchee gyalgar uutand khiichikhsen. Möndör orj baina, dotogsh or!"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Би чичирч байна. Гутал минь норчихлоо.",
+   "en": "I'm shivering. My boots are soaked.",
+   "mn_latin": "Bi chichirch baina. Gutal mini norchikhloo."
+  },
+  {
+   "speaker": "Jake",
+   "mn": "Чамд халуун цай хэрэгтэй. Гал асааж хувцсаа хатаая.",
+   "en": "You need hot tea. Let's light a fire and dry our clothes.",
+   "mn_latin": "Chamd khaluun tsai kheregtei. Gal asaaj khuvtssaa khataaya."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Нар гарлаа! Бид тэгтлээ санаа зовох албагүй байжээ.",
+   "en": "The sun's out! We needn't have worried that much.",
+   "mn_latin": "Nar garlaa! Bid tegtlee sanaa zovokh albagüi baijee."
+  },
+  {
+   "speaker": "Jake",
+   "mn": "Гэхдээ өнөө шөнө хүйтэн байх болно, дулаан хувцсаа бэлд.",
+   "en": "But tonight will be cold, so get your warm clothes ready.",
+   "mn_latin": "Gekhdee önöö shönö khüiten baikh bolno, dulaan khuvtssaa beld."
+  }
+ ],
+ "culture_note": {
+  "en": "Weather in the Mongolian mountains can change within an hour: a sunny morning may turn into hail by afternoon, even in summer. In Gorkhi-Terelj, nights are often near freezing even in July, so locals always carry a deel or warm layer. Herding families say that a visitor should always be prepared for four seasons in one day.",
+  "mn": "Монголын уулархаг нутагт цаг агаар нэг цагийн дотор өөрчлөгдөж, нартай өглөө үдээс хойш мөндөртэй болж хувирдаг бөгөөд зуны улиралд ч ийм байдаг. Горхи-Тэрэлжид 7-р сард ч шөнө хөлдөх шахам хүйтэн байдаг тул нутгийнхан дээл буюу дулаан хувцсаа үргэлж авч явдаг. Малчид зочин хүн нэг өдөрт дөрвөн улирлыг туулахад үргэлж бэлэн байх ёстой гэж хэлдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 22,
+  "notes": "Main error: the conditional suffix is -вол/-вэл, not -вал, and the first fill-in-the-blank is mis-segmented; a few translation mismatches too."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 24,
+  "notes": "Main problems were нойрмог уут, the wrong stem эвдэ-, harmony errors in the -чих forms, grammar explanations that didn't match, and цув/coat.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'гишүүнээ' is wrong; the correct term is өнгөрсөн цагийн үйлт нэр"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "Sleeping bag is унтлагын уут; нойрмог means 'sleepy'"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Matches 'by the fire'; гал дээр means 'on the fire'"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "унтлагын уут"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "'Bring' is авчрах"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "цув means raincoat"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "цув means raincoat"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Inconsistent with -чихвол used elsewhere"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Fixed the wrong stem эвдэ-, the inaccurate harmony rule, and matched explain_mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Used the consistent -чихвол and made it match explain_en"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "The intransitive is эвдрэх; эвдэх is transitive"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "унтлагын уут"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The distractors had wrong vowel harmony (чихсэн, чихээр)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Accurate harmony rule"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "'Gets broken' is эвдрэх"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Updated stem; the old text mentioned the wrong form -чихвал"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Correct term is эм эгшиг"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "'бааз бэлтгэлээ цуглуулах' is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "Харагтун is archaic"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Matches 'plastic sack' and the backpack"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "Consistency with the previous line"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Hot tea is халуун цай"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "хувцсаа хатаая means 'dry our clothes'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The last sentence didn't match the en version"
+   }
+  ]
+ }
+}

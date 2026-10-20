@@ -1,0 +1,474 @@
+{
+ "intro_en": "You will play a guessing game and write a short portrait of a person or an object. You will choose between the Mongolian participles -сан, -даг, and -х, use negation like \"хэзээ ч уншаагүй ном\", and build English relative clauses with who, which, that, where, and whose.",
+ "intro_mn": "Та таах тоглоом тоглож, хүн эсвэл эд зүйлийн богино тайлбар бичнэ. Монгол хэлний -сан, -даг, -х үйлт нэрийг ялгаж, \"хэзээ ч уншаагүй ном\" шиг үгүйсгэлийг хэрэглэж, англи хэлний who, which, that, where, whose гэсэн тодотгол өгүүлбэр зохиохыг сурна.",
+ "vocab": [
+  {
+   "mn": "таах",
+   "en": "to guess",
+   "pos": "verb",
+   "example_mn": "Би энэ хүн хэн болохыг таасан.",
+   "example_en": "I guessed who this person is.",
+   "mn_latin": "taakh"
+  },
+  {
+   "mn": "тайлбар",
+   "en": "description",
+   "pos": "noun",
+   "example_mn": "Түүний тайлбар их тодорхой байсан.",
+   "example_en": "His description was very clear.",
+   "mn_latin": "tailbar"
+  },
+  {
+   "mn": "багш",
+   "en": "teacher",
+   "pos": "noun",
+   "example_mn": "Миний багш надад маш их тусалсан.",
+   "example_en": "My teacher helped me a lot.",
+   "mn_latin": "bagsh"
+  },
+  {
+   "mn": "ном",
+   "en": "book",
+   "pos": "noun",
+   "example_mn": "Энэ бол миний хэзээ ч уншаагүй ном.",
+   "example_en": "This is a book I have never read.",
+   "mn_latin": "nom"
+  },
+  {
+   "mn": "номын сан",
+   "en": "library",
+   "pos": "noun",
+   "example_mn": "Би номын сан руу явдаг.",
+   "example_en": "I go to the library.",
+   "mn_latin": "nomyn san"
+  },
+  {
+   "mn": "түлхүүр",
+   "en": "key",
+   "pos": "noun",
+   "example_mn": "Миний түлхүүр цүнх дотор байгаа.",
+   "example_en": "My key is in the bag.",
+   "mn_latin": "tülkhüür"
+  },
+  {
+   "mn": "хөрш",
+   "en": "neighbor",
+   "pos": "noun",
+   "example_mn": "Манай хөрш өглөө бүр нохойгоо зугаалуулдаг.",
+   "example_en": "Our neighbor walks the dog every morning.",
+   "mn_latin": "khörsh"
+  },
+  {
+   "mn": "онцлог",
+   "en": "special feature",
+   "pos": "noun",
+   "example_mn": "Энэ хотын онцлог нь хүйтэн өвөл.",
+   "example_en": "This city's special feature is its cold winter.",
+   "mn_latin": "ontslog"
+  },
+  {
+   "mn": "хэрэглэх",
+   "en": "to use",
+   "pos": "verb",
+   "example_mn": "Би энэ утсыг өдөр бүр хэрэглэдэг.",
+   "example_en": "I use this phone every day.",
+   "mn_latin": "khereglekh"
+  },
+  {
+   "mn": "уулзах",
+   "en": "to meet",
+   "pos": "verb",
+   "example_mn": "Маргааш миний уулзах хүн бол найз минь.",
+   "example_en": "The person I will meet tomorrow is my friend.",
+   "mn_latin": "uulzakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ бол бага насанд минь надад тусалсан хүн.",
+   "en": "This is the person who helped me in my childhood.",
+   "alt_mn": [
+    "Энэ бол намайг бага байхад надад тусалсан хүн."
+   ],
+   "alt_en": [
+    "This is the person that helped me when I was a child."
+   ],
+   "mn_latin": "Ene bol baga nasand mini nadad tusalsan khün."
+  },
+  {
+   "mn": "Миний хэзээ ч уншаагүй ном байна уу?",
+   "en": "Is there a book that I have never read?",
+   "alt_mn": [],
+   "alt_en": [
+    "Is there a book I have never read?"
+   ],
+   "mn_latin": "Minii khezee ch unshaagüi nom baina uu?"
+  },
+  {
+   "mn": "Энэ бол өдөр бүр хэрэглэдэг эд зүйл.",
+   "en": "This is something people use every day.",
+   "alt_mn": [
+    "Энэ бол өдөр бүр хэрэглэдэг зүйл."
+   ],
+   "alt_en": [
+    "It is an object that we use every day."
+   ],
+   "mn_latin": "Ene bol ödör bür kheregledeg ed züil."
+  },
+  {
+   "mn": "Миний маргааш уулзах хүн Японоос ирсэн.",
+   "en": "The person I will meet tomorrow came from Japan.",
+   "alt_mn": [
+    "Маргааш уулзах хүн минь Японоос ирсэн."
+   ],
+   "alt_en": [
+    "The person who I am meeting tomorrow is from Japan."
+   ],
+   "mn_latin": "Minii margaash uulzakh khün Yaponoos irsen."
+  },
+  {
+   "mn": "Энэ бол ном уншдаг газар.",
+   "en": "This is a place where people read books.",
+   "alt_mn": [
+    "Энэ бол хүмүүс ном уншдаг газар."
+   ],
+   "alt_en": [
+    "It is a place where you read books."
+   ],
+   "mn_latin": "Ene bol nom unshdag gazar."
+  },
+  {
+   "mn": "Тэр бол ээжийн минь ээж болох эмээ минь.",
+   "en": "She is my grandmother, who is my mother's mother.",
+   "alt_mn": [],
+   "alt_en": [
+    "She is my grandmother, my mother's mother."
+   ],
+   "mn_latin": "Ter bol eejiin mini eej bolokh emee mini."
+  },
+  {
+   "mn": "Би бууз хамгийн сайн хийдэг хүнийг мэднэ.",
+   "en": "I know the person who makes the best buuz.",
+   "alt_mn": [
+    "Би хамгийн сайхан бууз хийдэг хүнийг мэднэ."
+   ],
+   "alt_en": [
+    "I know someone who makes the best buuz."
+   ],
+   "mn_latin": "Bi buuz khamgiin sain khiideg khüniig medne."
+  },
+  {
+   "mn": "Миний уншаагүй ном ширээн дээр байна.",
+   "en": "The book that I haven't read is on the table.",
+   "alt_mn": [
+    "Миний хараахан уншаагүй ном ширээн дээр байна."
+   ],
+   "alt_en": [
+    "The book I haven't read is on the table."
+   ],
+   "mn_latin": "Minii unshaagüi nom shireen deer baina."
+  },
+  {
+   "mn": "Түүний аав нь жолооч, ээж нь эмч.",
+   "en": "His father is a driver and his mother is a doctor.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Tüünii aav ni jolooch, eej ni emch."
+  },
+  {
+   "mn": "Би гэрийн түлхүүр байсан цүнхээ гээчихлээ.",
+   "en": "I lost the bag that my house key was in.",
+   "alt_mn": [
+    "Би гэрийн түлхүүртэй цүнхээ гээчихлээ."
+   ],
+   "alt_en": [
+    "I lost the bag that had my house key in it."
+   ],
+   "mn_latin": "Bi geriin tülkhüür baisan tsünkhee geechikhlee."
+  },
+  {
+   "mn": "Энэ хүн бол нохойгоо өглөө бүр зугаалуулдаг манай хөрш.",
+   "en": "This is our neighbor who walks his dog every morning.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is our neighbor, who walks his dog every morning."
+   ],
+   "mn_latin": "Ene khün bol nokhoigoo öglöö bür zugaaluuldag manai khörsh."
+  },
+  {
+   "mn": "Эзэн нь олдоогүй түлхүүрийг би харсан.",
+   "en": "I saw a key whose owner hasn't been found.",
+   "alt_mn": [
+    "Эзэн нь олдоогүй түлхүүрийг харсан."
+   ],
+   "alt_en": [
+    "I saw a key that has no known owner yet."
+   ],
+   "mn_latin": "Ezen ni oldoogüi tülkhüüriig bi kharsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Relative clauses: -сан, -даг, -х and who/which/that/where/whose",
+  "title_mn": "Тодотгол өгүүлбэр: -сан, -даг, -х ба who/which/that/where/whose",
+  "explain_en": "Mongolian puts the description BEFORE the noun, using a participle. -сан shows a finished action: надад тусалсан хүн (the person who helped me). -даг shows a habit or general truth: ном уншдаг газар (a place where people read). -х shows something not yet done: маргааш уулзах хүн (the person I will meet tomorrow). For negation, -сан is replaced by -аагүй (long vowel + гүй): уншсан → хэзээ ч уншаагүй ном (a book I have never read). The subject inside the description takes the genitive: миний уншаагүй ном. English does the opposite: the noun comes first, then who (people), which/that (things), where (places), or whose (belonging). Example: a place where people read.",
+  "explain_mn": "Англи хэлэнд тодотгол нь нэрийн ДАРАА орно. Хүний хувьд who, эд зүйлийн хувьд which/that, газрын хувьд where, эзэмшлийн хувьд whose хэрэглэнэ. Жишээ: the person who helped me (надад тусалсан хүн), a place where people read (хүмүүс ном уншдаг газар), a girl whose brother is a doctor (ах нь эмч охин). Монголоор бид -сан, -даг, -х гэж өөрчилдөг бол англи хэлэнд цаг нь үйл үгэнд илэрнэ: helped, reads, will meet. Үгүйсгэхдээ have never read, haven't read гэх мэт хэлбэр хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "надад тусалсан багш",
+    "en": "the teacher who helped me",
+    "mn_latin": "nadad tusalsan bagsh"
+   },
+   {
+    "mn": "өдөр бүр хэрэглэдэг утас",
+    "en": "the phone that I use every day",
+    "mn_latin": "ödör bür kheregledeg utas"
+   },
+   {
+    "mn": "маргааш уулзах хүн",
+    "en": "the person I will meet tomorrow",
+    "mn_latin": "margaash uulzakh khün"
+   },
+   {
+    "mn": "хэзээ ч уншаагүй ном",
+    "en": "a book I have never read",
+    "mn_latin": "khezee ch unshaagüi nom"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ бол надад маш их тусал___ багш.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "даг",
+    "х",
+    "аагүй"
+   ],
+   "translation": "This is the teacher who helped me a lot.",
+   "explain_en": "The help already happened, so we use the past participle -сан.",
+   "explain_mn": "Тусламж өмнө нь болсон тул өнгөрсөн цагийн -сан хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр бол өглөө бүр хүүхдүүдтэй тогло___ хөрш.",
+   "answer": "дог",
+   "options": [
+    "дог",
+    "сон",
+    "х",
+    "оогүй"
+   ],
+   "translation": "She is the neighbor who plays with the children every morning.",
+   "explain_en": "A regular habit uses -дог (after тогло-).",
+   "explain_mn": "Давтагддаг үйлд -даг хэрэглэнэ. Эгшгийн зохицлоор тогло- үгэнд -дог болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ бол миний хэзээ ч уншаа___ ном.",
+   "answer": "гүй",
+   "options": [
+    "гүй",
+    "даг",
+    "сан",
+    "х"
+   ],
+   "translation": "This is a book I have never read.",
+   "explain_en": "Negation: the negative past participle is -аагүй: унш- + -аагүй = уншаагүй. The blank needs -гүй.",
+   "explain_mn": "Үгүйсгэхдээ -сан-ыг -аагүй болгоно: уншаагүй."
+  },
+  {
+   "lang": "en",
+   "text": "She is the woman ___ helped me find the library.",
+   "answer": "who",
+   "options": [
+    "who",
+    "which",
+    "where",
+    "whose"
+   ],
+   "translation": "Тэр бол надад номын сан олоход тусалсан эмэгтэй.",
+   "explain_en": "Use who for a person doing the action.",
+   "explain_mn": "Хүнийг тодотгохдоо who хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "This is the room ___ I do my homework.",
+   "answer": "where",
+   "options": [
+    "where",
+    "who",
+    "whose",
+    "which"
+   ],
+   "translation": "Энэ бол миний хичээлээ хийдэг өрөө.",
+   "explain_en": "Use where for a place.",
+   "explain_mn": "Газрыг тодотгохдоо where хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I know a boy ___ father is a famous singer.",
+   "answer": "whose",
+   "options": [
+    "whose",
+    "who",
+    "which",
+    "where"
+   ],
+   "translation": "Би аав нь алдартай дуучин хүүг мэднэ.",
+   "explain_en": "Whose shows possession: the boy's father.",
+   "explain_mn": "Эзэмшлийг whose илэрхийлнэ: аав нь."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Тоглоё! Би нэг хүнийг бодсон. Тэр бол өглөө бүр манай гудамжаар алхдаг хүн.",
+   "en": "Let's play! I'm thinking of a person. It's someone who walks along our street every morning.",
+   "mn_latin": "Togloyo! Bi neg khüniig bodson. Ter bol öglöö bür manai gudamjaar alkhdag khün."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэр хүн ном заадаг уу?",
+   "en": "Is it someone who teaches?",
+   "mn_latin": "Ter khün nom zaadag uu?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тийм. Тэр бол ах нь эмч багш.",
+   "en": "Yes. It's a teacher whose brother is a doctor.",
+   "mn_latin": "Tiim. Ter bol akh ni emch bagsh."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэр хүн маргааш бидэнтэй уулзах уу?",
+   "en": "Is he the person who will meet us tomorrow?",
+   "mn_latin": "Ter khün margaash bidentei uulzakh uu?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Үгүй. Бидний маргааш уулзах хүн өөр.",
+   "en": "No. The person we will meet tomorrow is someone else.",
+   "mn_latin": "Ügüi. Bidnii margaash uulzakh khün öör."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэгвэл би таалаа. Тэр бол манай хөрш багш!",
+   "en": "Then I've got it. It's our neighbor, the teacher!",
+   "mn_latin": "Tegvel bi taalaa. Ter bol manai khörsh bagsh!"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Зөв! Одоо чи нэг зүйл бод. Тэр миний сайн мэддэг зүйл байх ёстой.",
+   "en": "Correct! Now you think of something. It should be something I know well.",
+   "mn_latin": "Zöv! Odoo chi neg züil bod. Ter minii sain meddeg züil baikh yostoi."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "За, энэ бол хүмүүс ном авдаг газар.",
+   "en": "OK, it's a place where people get books.",
+   "mn_latin": "Za, ene bol khümüüs nom avdag gazar."
+  }
+ ],
+ "culture_note": {
+  "en": "Guessing games and riddles (оньсого) are a beloved tradition in Mongolia, played by children and adults at family gatherings, often during Tsagaan Sar. Many riddles describe everyday objects from ger life, such as a stove or a door, with a short poetic hint. Playing with descriptions like these is a fun way to practice participles.",
+  "mn": "Оньсого таах нь Монголд хүүхэд, том хүн бүгдийн дуртай уламжлалт тоглоом бөгөөд ихэвчлэн Цагаан сарын үеэр гэр бүлийн цугларалтад тоглогддог. Олон оньсого гэрийн зуух, хаалга зэрэг өдөр тутмын эд зүйлийг богино яруу тодорхойлолтоор хэлдэг. Ийм тайлбараар тоглох нь үйлт нэрийг дадлагажуулах сайн арга юм."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 25,
+  "notes": "Has several real errors (typo 'каг', harmony in тоглодог, 'сумкан', mismatched pairs) but content is mostly sound."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Main issues were the genitive subject in participle clauses, an inaccurate negation rule, and a logic slip in the dialogue.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_mn",
+    "why": "The sentence had two accusative objects (хүнийг + болохыг); this is the natural construction."
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "The subject of a participle clause takes the genitive (миний), not би."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "надад was missing, so 'helped me' was not expressed."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "тусалах takes the dative, so намайг ... тусалсан was wrong. дэмжиж also added 'supported'."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "English doesn't use 'where' for a bag."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Matches the Mongolian title."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The negation rule was inaccurate: -гүй is not added to -сан. Also added the genitive-subject rule."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Now matches the en explanation and mentions vowel harmony."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "The participle subject must be genitive (миний)."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "'-саа' was an incorrect, confusing form."
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'ах нь эмч байдаг багш' was unnatural."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Saraa would surely have seen a library, so Tom's answer contradicted 'never seen'."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "Matches the corrected mn line."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'том хүн хүн бүрийн' was an awkward repetition."
+   }
+  ]
+ }
+}

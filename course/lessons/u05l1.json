@@ -1,0 +1,498 @@
+{
+ "intro_en": "You will learn to count from one to ten (and zero) in Mongolian and English. You will also ask 'How many?' and count things at a market stall.",
+ "intro_mn": "Та монгол болон англи хэлээр нэгээс арав хүртэл (мөн тэг) тоолж сурна. Мөн \"Хэд вэ?\" гэж асууж, зах дээр юм тоолж сурна.",
+ "vocab": [
+  {
+   "mn": "нэг",
+   "en": "one",
+   "pos": "numeral",
+   "example_mn": "Надад нэг ном байна.",
+   "example_en": "I have one book.",
+   "mn_latin": "neg"
+  },
+  {
+   "mn": "хоёр",
+   "en": "two",
+   "pos": "numeral",
+   "example_mn": "Хоёр бууз өгөөч.",
+   "example_en": "Please give me two buuz.",
+   "mn_latin": "khoyor"
+  },
+  {
+   "mn": "гурав",
+   "en": "three",
+   "pos": "numeral",
+   "example_mn": "Гурван алим авъя.",
+   "example_en": "I'll take three apples.",
+   "mn_latin": "gurav"
+  },
+  {
+   "mn": "дөрөв",
+   "en": "four",
+   "pos": "numeral",
+   "example_mn": "Дөрвөн алим авъя.",
+   "example_en": "I'll take four apples.",
+   "mn_latin": "döröv"
+  },
+  {
+   "mn": "тав",
+   "en": "five",
+   "pos": "numeral",
+   "example_mn": "Миний гарт таван хуруу бий.",
+   "example_en": "My hand has five fingers.",
+   "mn_latin": "tav"
+  },
+  {
+   "mn": "зургаа",
+   "en": "six",
+   "pos": "numeral",
+   "example_mn": "Зургаан жимс байна.",
+   "example_en": "There are six fruits.",
+   "mn_latin": "zurgaa"
+  },
+  {
+   "mn": "долоо",
+   "en": "seven",
+   "pos": "numeral",
+   "example_mn": "Долоо хоногт долоон өдөр бий.",
+   "example_en": "A week has seven days.",
+   "mn_latin": "doloo"
+  },
+  {
+   "mn": "найм",
+   "en": "eight",
+   "pos": "numeral",
+   "example_mn": "Найман хүн ирлээ.",
+   "example_en": "Eight people came.",
+   "mn_latin": "naim"
+  },
+  {
+   "mn": "ес",
+   "en": "nine",
+   "pos": "numeral",
+   "example_mn": "Есөн цагт уулзъя.",
+   "example_en": "Let's meet at nine o'clock.",
+   "mn_latin": "yes"
+  },
+  {
+   "mn": "арав",
+   "en": "ten",
+   "pos": "numeral",
+   "example_mn": "Надад арван хуруу байна.",
+   "example_en": "I have ten fingers.",
+   "mn_latin": "arav"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Нэг, хоёр, гурав.",
+   "en": "One, two, three.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Neg, khoyor, gurav."
+  },
+  {
+   "mn": "Энд хэдэн хүн байна вэ?",
+   "en": "How many people are here?",
+   "alt_mn": [
+    "Энд хэдэн хүн байна?"
+   ],
+   "alt_en": [
+    "How many people are there here?"
+   ],
+   "mn_latin": "End kheden khün baina ve?"
+  },
+  {
+   "mn": "Тав байна.",
+   "en": "There are five.",
+   "alt_mn": [
+    "Тав."
+   ],
+   "alt_en": [
+    "Five."
+   ],
+   "mn_latin": "Tav baina."
+  },
+  {
+   "mn": "Надад хоёр алим байна.",
+   "en": "I have two apples.",
+   "alt_mn": [
+    "Надад хоёр алим бий."
+   ],
+   "alt_en": [
+    "I've got two apples."
+   ],
+   "mn_latin": "Nadad khoyor alim baina."
+  },
+  {
+   "mn": "Танд хэдэн ах дүү байна вэ?",
+   "en": "How many siblings do you have?",
+   "alt_mn": [
+    "Танд хэдэн ах дүү бий вэ?"
+   ],
+   "alt_en": [
+    "How many brothers and sisters do you have?"
+   ],
+   "mn_latin": "Tand kheden akh düü baina ve?"
+  },
+  {
+   "mn": "Гурван бууз авъя.",
+   "en": "I'll take three buuz.",
+   "alt_mn": [
+    "Гурван бууз өгөөч."
+   ],
+   "alt_en": [
+    "I'd like three buuz.",
+    "Three buuz, please."
+   ],
+   "mn_latin": "Gurvan buuz avya."
+  },
+  {
+   "mn": "Дөрвөн алим ямар үнэтэй вэ?",
+   "en": "How much are four apples?",
+   "alt_mn": [
+    "Дөрвөн алим хэд вэ?"
+   ],
+   "alt_en": [
+    "How much is it for four apples?"
+   ],
+   "mn_latin": "Dörvön alim yamar ünetei ve?"
+  },
+  {
+   "mn": "Долоон өдөр бол нэг долоо хоног.",
+   "en": "Seven days is one week.",
+   "alt_mn": [
+    "Долоон өдөр нэг долоо хоног болно."
+   ],
+   "alt_en": [
+    "Seven days make a week."
+   ],
+   "mn_latin": "Doloon ödör bol neg doloo khonog."
+  },
+  {
+   "mn": "Миний гарт таван хуруу байна.",
+   "en": "My hand has five fingers.",
+   "alt_mn": [
+    "Миний нэг гарт таван хуруу бий."
+   ],
+   "alt_en": [
+    "I have five fingers on one hand."
+   ],
+   "mn_latin": "Minii gart tavan khuruu baina."
+  },
+  {
+   "mn": "Найман ширхэг өгнө үү.",
+   "en": "Please give me eight pieces.",
+   "alt_mn": [
+    "Найман ширхэг өгөөч."
+   ],
+   "alt_en": [
+    "Eight pieces, please."
+   ],
+   "mn_latin": "Naiman shirkheg ögnö üü."
+  },
+  {
+   "mn": "Есөн цагт уулзъя.",
+   "en": "Let's meet at nine o'clock.",
+   "alt_mn": [],
+   "alt_en": [
+    "Let's meet at nine."
+   ],
+   "mn_latin": "Yesön tsagt uulzya."
+  },
+  {
+   "mn": "Арван хуруугаа тоолъё.",
+   "en": "Let's count our ten fingers.",
+   "alt_mn": [
+    "Арван хуруугаа тоолцгооё."
+   ],
+   "alt_en": [
+    "Let's count the ten fingers."
+   ],
+   "mn_latin": "Arvan khuruugaa toolyo."
+  }
+ ],
+ "grammar": {
+  "title_en": "Numbers before nouns and 'хэдэн' (how many)",
+  "title_mn": "Тооны үг ба \"хэдэн\" асуух үг",
+  "explain_en": "In Mongolian the number goes before the noun and the noun stays singular: хоёр алим (two apples). Most numbers change before a noun: нэг and хоёр stay the same, but гурав → гурван, дөрөв → дөрвөн, тав → таван, зургаа → зургаан, долоо → долоон, найм → найман, ес → есөн, арав → арван. To ask 'How many?' use хэдэн + noun: хэдэн алим? When you ask for a number or a price without a noun, use хэд: Хэд вэ? The word for zero is тэг.",
+  "explain_mn": "Монгол хэлэнд тооны үг нэр үгийн өмнө орно. Монгол хэлэнд нэр үг ганц тооны хэлбэрээрээ үлддэг: хоёр алим. Харин англи хэлэнд 1-ээс бусад тоотой бол нэр үг олон тооны хэлбэртэй болдог: one apple, two apples, ten apples. Хоёр ба түүнээс дээш тоотой бол англи нэр үгэнд -s эсвэл -es залгана: two books, five buses. \"Хэдэн\" нь \"how many\" гэсэн утгатай: How many apples? Тоо: one, two, three, four, five, six, seven, eight, nine, ten, zero (тэг). Бичихэд анхаарах зүйл: four (u-тай), eight (gh-тай), nine (e-тэй).",
+  "examples": [
+   {
+    "mn": "хоёр алим",
+    "en": "two apples",
+    "mn_latin": "khoyor alim"
+   },
+   {
+    "mn": "гурван бууз",
+    "en": "three buuz",
+    "mn_latin": "gurvan buuz"
+   },
+   {
+    "mn": "Хэдэн алим байна вэ?",
+    "en": "How many apples are there?",
+    "mn_latin": "Kheden alim baina ve?"
+   },
+   {
+    "mn": "Арван хуруу",
+    "en": "ten fingers",
+    "mn_latin": "Arvan khuruu"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Надад ___ алим байна. (3)",
+   "answer": "гурван",
+   "options": [
+    "гурван",
+    "гурав",
+    "гурвыг",
+    "гурвуулаа"
+   ],
+   "translation": "I have three apples.",
+   "explain_en": "Before a noun, гурав becomes гурван.",
+   "explain_mn": "Нэр үгийн өмнө \"гурав\" нь \"гурван\" болно."
+  },
+  {
+   "mn": "Энд ___ хүн байна вэ?",
+   "lang": "mn",
+   "text": "Энд ___ хүн байна вэ?",
+   "answer": "хэдэн",
+   "options": [
+    "хэдэн",
+    "хэд",
+    "ямар",
+    "хаана"
+   ],
+   "translation": "How many people are here?",
+   "explain_en": "Use хэдэн before a noun to ask 'how many'.",
+   "explain_mn": "Нэр үгийн өмнө \"хэдэн\" гэж асууна."
+  },
+  {
+   "lang": "mn",
+   "text": "Миний гарт ___ хуруу байна. (5)",
+   "answer": "таван",
+   "options": [
+    "таван",
+    "тав",
+    "найман",
+    "дөрвөн"
+   ],
+   "translation": "My hand has five fingers.",
+   "explain_en": "A hand has five fingers. Before a noun, тав becomes таван.",
+   "explain_mn": "Нэг гарт таван хуруу байдаг. Нэр үгийн өмнө \"тав\" нь \"таван\" болно."
+  },
+  {
+   "lang": "en",
+   "text": "I have ___ fingers on my two hands. (10)",
+   "answer": "ten",
+   "options": [
+    "ten",
+    "tan",
+    "tin",
+    "nine"
+   ],
+   "translation": "Миний хоёр гарт арван хуруу бий.",
+   "explain_en": "Two hands have ten fingers in total.",
+   "explain_mn": "Ten нь \"арав\" гэсэн үг."
+  },
+  {
+   "lang": "en",
+   "text": "How ___ buuz do you want?",
+   "answer": "many",
+   "options": [
+    "many",
+    "much",
+    "more",
+    "any"
+   ],
+   "translation": "Та хэдэн бууз авмаар байна?",
+   "explain_en": "Buuz can be counted, so use 'how many'.",
+   "explain_mn": "Бууз тоологдох тул \"how many\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "A week has ___ days. (7)",
+   "answer": "seven",
+   "options": [
+    "seven",
+    "sevin",
+    "six",
+    "eight"
+   ],
+   "translation": "Долоо хоногт долоон өдөр бий.",
+   "explain_en": "Seven is spelled s-e-v-e-n.",
+   "explain_mn": "Seven нь \"долоо\" гэсэн үг, s-e-v-e-n гэж бичнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу? Бууз хэд вэ?",
+   "en": "Hello! How much are the buuz?",
+   "mn_latin": "Sain baina uu? Buuz khed ve?"
+  },
+  {
+   "speaker": "Bill",
+   "mn": "Сайн байна уу. Нэг бууз нэг мянган төгрөг.",
+   "en": "Hello. One buuz is one thousand tugrik.",
+   "mn_latin": "Sain baina uu. Neg buuz neg myangan tögrög."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Надад арван бууз өгнө үү.",
+   "en": "Please give me ten buuz.",
+   "mn_latin": "Nadad arvan buuz ögnö üü."
+  },
+  {
+   "speaker": "Bill",
+   "mn": "За. Та нар хэдэн хүн бэ?",
+   "en": "OK. How many of you are there?",
+   "mn_latin": "Za. Ta nar kheden khün be?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бид таван хүн.",
+   "en": "There are five of us.",
+   "mn_latin": "Bid tavan khün."
+  },
+  {
+   "speaker": "Bill",
+   "mn": "Тэгвэл нэг хүнд хоёр бууз.",
+   "en": "Then that is two buuz per person.",
+   "mn_latin": "Tegvel neg khünd khoyor buuz."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм ээ, арван бууз. Баярлалаа!",
+   "en": "Yes, ten buuz. Thank you!",
+   "mn_latin": "Tiim ee, arvan buuz. Bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "At the Narantuul market and at many stalls in Ulaanbaatar, buuz and fruit are often sold by the piece, so knowing numbers is very useful. Mongolian children also learn to count with the traditional shagai game, which uses sheep ankle bones. Number nine is considered special and lucky in Mongolian culture, so gifts often come in nines.",
+  "mn": "Улаанбаатарын Нарантуул зах болон олон лангуунд бууз, жимсийг ширхэгээр нь зардаг тул тоог мэдэх нь маш хэрэгтэй. Монгол хүүхдүүд хонины шагайгаар тоглодог уламжлалт шагайн тоглоомоор тоолж сурдаг. Ес гэдэг тоог монгол ёсонд онцгой, ерөөлтэй гэж үздэг тул бэлгийг ихэвчлэн есөөр өгдөг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 18,
+  "notes": "Mostly good Mongolian, but the Mongolian grammar explanation was confused and some examples/dialogue lines were unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 18,
+  "notes": "The main error was тав → таван before nouns; I also fixed a wrong price question, the dialogue question form and mismatches between the en and mn versions.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Language names are lowercase in Mongolian"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "тав becomes таван before a noun"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "'хэдийн үнэтэй' is incorrect"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "Natural alternative"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "Attributive form is таван"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "Attributive form is таван"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "тав also changes to таван"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'Хоёроос дээш' excluded two; 'нэгж' is the wrong term"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'гурвууд' is not a real form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "Attributive form before a noun"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Options must use attributive forms; тав is the wrong form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Matches the corrected answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Matches the corrected answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "text",
+    "why": "Kept as is"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'Надад хоёр гарт' is ungrammatical"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "'хэд хүн' is wrong; the question is addressed to a group"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "Matches the mn line"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Align with the en version (traditional, sheep ankle bones, special)"
+   }
+  ]
+ }
+}

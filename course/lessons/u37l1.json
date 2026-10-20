@@ -1,0 +1,436 @@
+{
+ "intro_en": "You will learn to read a short economic overview and use key words like GDP, growth, export, import, budget and sector. You will also see how Mongolian forms nouns with the suffix -лт (өсөлт, бууралт) and how English uses adjective + noun phrases (economic growth, foreign trade).",
+ "intro_mn": "Та эдийн засгийн товч тоймыг уншиж, ДНБ, өсөлт, экспорт, импорт, төсөв, салбар зэрэг үгсийг хэрэглэж сурна. Мөн монгол хэлний -лт дагавартай нэр үг (өсөлт, бууралт), англи хэлний тэмдэг нэр + нэр үгийн хэлбэр (economic growth, foreign trade)-ийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "эдийн засаг",
+   "en": "economy",
+   "pos": "noun",
+   "example_mn": "Монголын эдийн засаг уул уурхайгаас хамаардаг.",
+   "example_en": "Mongolia's economy depends on mining.",
+   "mn_latin": "ediin zasag"
+  },
+  {
+   "mn": "дотоодын нийт бүтээгдэхүүн (ДНБ)",
+   "en": "gross domestic product (GDP)",
+   "pos": "noun",
+   "example_mn": "Энэ жил ДНБ өссөн.",
+   "example_en": "This year GDP increased.",
+   "mn_latin": "dotoodyn niit büteegdekhüün (DNB)"
+  },
+  {
+   "mn": "өсөлт",
+   "en": "growth",
+   "pos": "noun",
+   "example_mn": "Эдийн засгийн өсөлт хоёр хувьд хүрсэн.",
+   "example_en": "Economic growth reached two percent.",
+   "mn_latin": "ösölt"
+  },
+  {
+   "mn": "бууралт",
+   "en": "decline, decrease",
+   "pos": "noun",
+   "example_mn": "Импортын бууралт ажиглагдсан.",
+   "example_en": "A decrease in imports was noted.",
+   "mn_latin": "buuralt"
+  },
+  {
+   "mn": "экспорт",
+   "en": "export",
+   "pos": "noun",
+   "example_mn": "Нүүрс бол Монголын гол экспорт юм.",
+   "example_en": "Coal is Mongolia's main export.",
+   "mn_latin": "eksport"
+  },
+  {
+   "mn": "импорт",
+   "en": "import",
+   "pos": "noun",
+   "example_mn": "Бид түлш импортолдог.",
+   "example_en": "We import fuel.",
+   "mn_latin": "import"
+  },
+  {
+   "mn": "төсөв",
+   "en": "budget",
+   "pos": "noun",
+   "example_mn": "Улсын төсөв дутагдалтай байна.",
+   "example_en": "The state budget is in deficit.",
+   "mn_latin": "tösöv"
+  },
+  {
+   "mn": "салбар",
+   "en": "sector, branch",
+   "pos": "noun",
+   "example_mn": "Үйлчилгээний салбар хурдтай өсөж байна.",
+   "example_en": "The service sector is growing fast.",
+   "mn_latin": "salbar"
+  },
+  {
+   "mn": "хөгжил",
+   "en": "development",
+   "pos": "noun",
+   "example_mn": "Хөдөө орон нутгийн хөгжил чухал.",
+   "example_en": "Development of rural areas is important.",
+   "mn_latin": "khögjil"
+  },
+  {
+   "mn": "гадаад худалдаа",
+   "en": "foreign trade",
+   "pos": "noun phrase",
+   "example_mn": "Гадаад худалдаа Хятадаас ихээхэн хамаардаг.",
+   "example_en": "Foreign trade depends heavily on China.",
+   "mn_latin": "gadaad khudaldaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Монголын эдийн засаг уул уурхайд тулгуурладаг.",
+   "en": "Mongolia's economy relies on mining.",
+   "alt_mn": [
+    "Монголын эдийн засаг уул уурхайгаас хамаардаг."
+   ],
+   "alt_en": [
+    "The Mongolian economy is based on mining."
+   ],
+   "mn_latin": "Mongolyn ediin zasag uul uurkhaid tulguurladag."
+  },
+  {
+   "mn": "Энэ жил эдийн засгийн өсөлт өндөр байлаа.",
+   "en": "Economic growth was high this year.",
+   "alt_mn": [
+    "Энэ жил эдийн засаг хурдтай өссөн."
+   ],
+   "alt_en": [
+    "This year's economic growth was high."
+   ],
+   "mn_latin": "Ene jil ediin zasgiin ösölt öndör bailaa."
+  },
+  {
+   "mn": "Нүүрсний экспорт ихэссэн.",
+   "en": "Coal exports have increased.",
+   "alt_mn": [
+    "Нүүрсний экспорт нэмэгдсэн."
+   ],
+   "alt_en": [
+    "Coal exports grew."
+   ],
+   "mn_latin": "Nüürsnii eksport ikhessen."
+  },
+  {
+   "mn": "Бид хүнс болон түлш импортолдог.",
+   "en": "We import food and fuel.",
+   "alt_mn": [
+    "Манайх хүнс, түлш импортолдог."
+   ],
+   "alt_en": [
+    "Our country imports food and fuel."
+   ],
+   "mn_latin": "Bid khüns bolon tülsh importoldog."
+  },
+  {
+   "mn": "Улсын төсвийн орлого буурсан.",
+   "en": "State budget revenue has fallen.",
+   "alt_mn": [
+    "Төсвийн орлого багассан."
+   ],
+   "alt_en": [
+    "The state budget's revenue decreased."
+   ],
+   "mn_latin": "Ulsyn tösviin orlogo buursan."
+  },
+  {
+   "mn": "Уул уурхайн салбар ДНБ-ий их хэсгийг бүрдүүлдэг.",
+   "en": "The mining sector makes up a large part of GDP.",
+   "alt_mn": [
+    "Уул уурхайн салбар ДНБ-д их хувь нэмэр оруулдаг."
+   ],
+   "alt_en": [
+    "The mining sector accounts for much of GDP."
+   ],
+   "mn_latin": "Uul uurkhain salbar DNB-ii ikh khesgiig bürdüüldeg."
+  },
+  {
+   "mn": "Хөдөө аж ахуйн салбарт мал аж ахуй чухал байр суурьтай.",
+   "en": "Livestock farming has an important place in the agricultural sector.",
+   "alt_mn": [],
+   "alt_en": [
+    "Herding plays an important role in agriculture."
+   ],
+   "mn_latin": "Khödöö aj akhuin salbart mal aj akhui chukhal bair suuritai."
+  },
+  {
+   "mn": "Гадаад худалдааны бууралт эдийн засагт нөлөөлсөн.",
+   "en": "The decline in foreign trade affected the economy.",
+   "alt_mn": [
+    "Гадаад худалдаа буурсан нь эдийн засагт нөлөөлсөн."
+   ],
+   "alt_en": [
+    "The drop in foreign trade had an impact on the economy."
+   ],
+   "mn_latin": "Gadaad khudaldaany buuralt ediin zasagt nölöölsön."
+  },
+  {
+   "mn": "Засгийн газар төсвөө нягт хянах хэрэгтэй.",
+   "en": "The government needs to monitor its budget closely.",
+   "alt_mn": [
+    "Засгийн газар төсвийг нарийн хянах ёстой."
+   ],
+   "alt_en": [
+    "The government must keep a close eye on its budget."
+   ],
+   "mn_latin": "Zasgiin gazar tösvöö nyagt khyanakh kheregtei."
+  },
+  {
+   "mn": "Эдийн засгийн хөгжил хүмүүсийн амьдралыг сайжруулдаг.",
+   "en": "Economic development improves people's lives.",
+   "alt_mn": [],
+   "alt_en": [
+    "Economic development improves people's living standards."
+   ],
+   "mn_latin": "Ediin zasgiin khögjil khümüüsiin amidralyg saijruuldag."
+  },
+  {
+   "mn": "Үйлчилгээний салбарт олон шинэ ажлын байр бий болсон.",
+   "en": "Many new jobs have been created in the service sector.",
+   "alt_mn": [
+    "Үйлчилгээний салбарт олон шинэ ажлын байр нэмэгдсэн."
+   ],
+   "alt_en": [
+    "Many new jobs appeared in the service sector."
+   ],
+   "mn_latin": "Üilchilgeenii salbart olon shine ajlyn bair bii bolson."
+  },
+  {
+   "mn": "Экспортын өсөлт төсвийн орлогыг нэмэгдүүлнэ.",
+   "en": "Export growth will increase budget revenue.",
+   "alt_mn": [],
+   "alt_en": [
+    "Growth in exports will raise budget revenue."
+   ],
+   "mn_latin": "Eksportyn ösölt tösviin orlogyg nemegdüülne."
+  }
+ ],
+ "grammar": {
+  "title_en": "Verbal nouns in -лт and adjective + noun phrases",
+  "title_mn": "-лт дагавартай үйл үгээс үүссэн нэр үг ба тэмдэг нэр + нэр үг",
+  "explain_en": "Mongolian turns verbs into nouns with the suffix -лт (өсөх → өсөлт 'growth', буурах → бууралт 'decline'). A linking vowel such as -а- or -ө- often appears before it, matching vowel harmony. A related noun ending is -л, as in хөгжих → хөгжил 'development'. These nouns sound formal and are common in news and reports. You add case endings to them as usual: өсөлтийн хурд (the speed of growth). English has similar suffixes such as -th and -ment: grow → growth, develop → development. In English, you simply put the adjective before the noun: economic growth, foreign trade, state budget. The adjective never takes plural -s (economic reforms). Mongolian often uses a genitive noun for this instead: эдийн засгийн өсөлт (literally 'of-economy growth').",
+  "explain_mn": "Монгол хэлэнд -лт дагавраар үйл үгээс нэр үг үүсгэдэг (өсөх → өсөлт, буурах → бууралт). Үүнтэй төстэй нь -л дагавар юм (хөгжих → хөгжил). Эдгээр үг албан ёсны өнгөтэй бөгөөд мэдээ, тайланд элбэг. Тэдэнд тийн ялгалын нөхцөл ердийнхөөрөө залгана: өсөлтийн хурд. Англи хэлэнд үүнтэй төстэй -th, -ment зэрэг дагавар байдаг: grow → growth, develop → development. Англиар тэмдэг нэрийг нэр үгийн өмнө шууд тавьдаг бөгөөд хэлбэр нь өөрчлөгддөггүй: economic growth, foreign trade, state budget. Монголоор харин ихэвчлэн харьяалахын тийн ялгалтай нэр үг хэрэглэдэг: «эдийн засгийн өсөлт». Олон тооны -s зөвхөн нэр үгэнд залгана, тэмдэг нэрт залгахгүй: economic reforms («economics reforms» биш).",
+  "examples": [
+   {
+    "mn": "өсөх → өсөлт: Эдийн засгийн өсөлт тогтвортой байна.",
+    "en": "Economic growth is stable.",
+    "mn_latin": "ösökh → ösölt: Ediin zasgiin ösölt togtvortoi baina."
+   },
+   {
+    "mn": "буурах → бууралт: Үнийн бууралт орлогод нөлөөлсөн.",
+    "en": "The price decline affected income.",
+    "mn_latin": "buurakh → buuralt: Üniin buuralt orlogod nölöölsön."
+   },
+   {
+    "mn": "хөгжих → хөгжил: Салбарын хөгжил хурдасаж байна.",
+    "en": "The sector's development is speeding up.",
+    "mn_latin": "khögjikh → khögjil: Salbaryn khögjil khurdasaj baina."
+   },
+   {
+    "mn": "гадаад худалдаа, улсын төсөв",
+    "en": "foreign trade, state budget",
+    "mn_latin": "gadaad khudaldaa, ulsyn tösöv"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эдийн засгийн ___ энэ жил өндөр байлаа.",
+   "answer": "өсөлт",
+   "options": [
+    "өсөлт",
+    "өсөх",
+    "өссөн",
+    "өсгөх"
+   ],
+   "translation": "Economic growth was high this year.",
+   "explain_en": "After a genitive (эдийн засгийн) we need a noun, so the verbal noun өсөлт 'growth' fits, not a verb form.",
+   "explain_mn": "«Эдийн засгийн» гэсэн харьяалахын тийн ялгалын дараа нэр үг хэрэгтэй тул «өсөлт» зөв."
+  },
+  {
+   "lang": "mn",
+   "text": "Импортын ___ худалдааны тэнцэлд нөлөөлсөн.",
+   "answer": "бууралт",
+   "options": [
+    "бууралт",
+    "буурах",
+    "буулгах",
+    "буусан"
+   ],
+   "translation": "The decline in imports affected the trade balance.",
+   "explain_en": "буурах 'to fall' becomes the noun бууралт 'decline'; it is the subject of the sentence.",
+   "explain_mn": "«Буурах» үйл үгээс «бууралт» нэр үг үүсэж, өгүүлбэрийн эзэн болсон."
+  },
+  {
+   "lang": "mn",
+   "text": "Монгол Улс нүүрсийг Хятад руу ___ хийдэг.",
+   "answer": "экспорт",
+   "options": [
+    "экспорт",
+    "импорт",
+    "төсөв",
+    "салбар"
+   ],
+   "translation": "Mongolia exports coal to China.",
+   "explain_en": "Selling goods abroad is экспорт; импорт means bringing goods in.",
+   "explain_mn": "Гадаад руу бараа гаргах нь экспорт, оруулж ирэх нь импорт."
+  },
+  {
+   "lang": "en",
+   "text": "Mongolia's ___ growth depends on mining.",
+   "answer": "economic",
+   "options": [
+    "economic",
+    "economy",
+    "economics",
+    "economically"
+   ],
+   "translation": "Монголын эдийн засгийн өсөлт уул уурхайгаас хамаарна.",
+   "explain_en": "Before a noun (growth) we use the adjective economic, not the noun economy.",
+   "explain_mn": "«growth» нэр үгийн өмнө тэмдэг нэр «economic» хэрэглэнэ, «economy» биш."
+  },
+  {
+   "lang": "en",
+   "text": "The government approved the state ___ for next year.",
+   "answer": "budget",
+   "options": [
+    "budget",
+    "export",
+    "sector",
+    "import"
+   ],
+   "translation": "Засгийн газар ирэх оны улсын төсвийг баталсан.",
+   "explain_en": "State budget is a fixed noun phrase meaning the government's yearly plan for money.",
+   "explain_mn": "«State budget» нь улсын төсөв гэсэн тогтвортой хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "Foreign ___ has increased in recent years.",
+   "answer": "trade",
+   "options": [
+    "trade",
+    "trades",
+    "trading of",
+    "traded"
+   ],
+   "translation": "Сүүлийн жилүүдэд гадаад худалдаа нэмэгдсэн.",
+   "explain_en": "Trade is uncountable here, so no -s, and it takes the singular verb 'has'.",
+   "explain_mn": "Энд «trade» тоолдоггүй нэр үг тул «-s» залгахгүй бөгөөд ганц тооны «has» үйл үгтэй хэрэглэгдэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Та Монголын эдийн засгийн тойм уншсан уу?",
+   "en": "Have you read the overview of Mongolia's economy?",
+   "mn_latin": "Ta Mongolyn ediin zasgiin toim unshsan uu?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Тийм, уншсан. Өсөлт сайн байгаа ч төсөв дутагдалтай байна лээ.",
+   "en": "Yes, I have. Growth is good, but the budget seems to be in deficit.",
+   "mn_latin": "Tiim, unshsan. Ösölt sain baigaa ch tösöv dutagdaltai baina lee."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Зөв. Экспортын ихэнх хувийг нүүрс, зэс бүрдүүлдэг.",
+   "en": "Right. Coal and copper make up most of the exports.",
+   "mn_latin": "Zöv. Eksportyn ikhenkh khuviig nüürs, zes bürdüüldeg."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Тэгвэл үнэ буурвал эдийн засагт хүнд байх юм биз?",
+   "en": "Then if prices fall, it must be hard on the economy, right?",
+   "mn_latin": "Tegvel üne buurval ediin zasagt khünd baikh yum biz?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм ээ. Тиймээс бусад салбарын хөгжил чухал.",
+   "en": "Yes. That's why the development of other sectors is important.",
+   "mn_latin": "Tiim ee. Tiimees busad salbaryn khögjil chukhal."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Жишээ нь аялал жуулчлал, хөдөө аж ахуй уу?",
+   "en": "For example, tourism and agriculture?",
+   "mn_latin": "Jishee ni ayalal juulchlal, khödöö aj akhui uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Яг тийм. Мөн бид олон бараа импортолдог тул дотоодын үйлдвэрлэл хэрэгтэй.",
+   "en": "Exactly. We also import many goods, so domestic production is needed.",
+   "mn_latin": "Yag tiim. Mön bid olon baraa importoldog tul dotoodyn üildverlel kheregtei."
+  }
+ ],
+ "culture_note": {
+  "en": "Mining is the backbone of Mongolia's economy: coal, copper and gold make up most of its exports, and China buys the large majority of them. Projects like Oyu Tolgoi in the Gobi can noticeably change the national GDP in a single year. Because of this, the government and many Mongolians talk about 'diversifying' the economy toward agriculture, tourism and services.",
+  "mn": "Уул уурхай бол Монголын эдийн засгийн тулгуур юм: нүүрс, зэс, алт экспортын ихэнх хувийг бүрдүүлдэг ба тэдгээрийн дийлэнхийг Хятад худалдан авдаг. Говийн Оюу толгой зэрэг төслүүд нэг жилийн дотор улсын ДНБ-д мэдэгдэхүйц нөлөөлж чаддаг. Иймээс Засгийн газар болон олон иргэн эдийн засгаа хөдөө аж ахуй, аялал жуулчлал, үйлчилгээний салбар руу төрөлжүүлэх тухай ярьдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 13,
+  "notes": "Mostly good; the main errors are the repeated 'лт/лт' suffix wording, a Russian word in Mongolian explanation, and some loose phrasing."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 8,
+  "notes": "Mostly solid; fixed spelling (өсөж/үүсэж/хурдасаж), grammar terminology, and en/mn explanation parity.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Standard spelling is өсөж, not өсч."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "In Mongolian grammar, үйл нэр means participle. Forms like өсөлт are nouns derived from verbs."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Aligns the text with explain_en and uses the correct term. Also fixes the misleading -s point: trade has no -s because it is uncountable, not because of the -s rule."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Makes the en and mn explanations cover the same points."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Standard spelling is хурдасаж."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Standard spelling is үүсэж."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Now matches explain_en, which also mentions the singular verb."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Засгийн газар should be capitalized. 'Can change' is now rendered to match the English."
+   }
+  ]
+ }
+}

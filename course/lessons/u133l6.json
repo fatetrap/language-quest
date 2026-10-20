@@ -1,0 +1,448 @@
+{
+ "intro_en": "In this C1 lesson, you will discuss identity, changing your name, and living with your name abroad. You will review formal Mongolian paired words like эрх ашиг and нэр төр, and in English you will practice object complements with \"be known as\" and \"be regarded as\" in formal writing.",
+ "intro_mn": "Энэ C1 хичээлээр та өвөрмөц байдал, нэрээ солих, гадаадад нэрээ хэрхэн хэрэглэх тухай ярилцана. Мөн эрх ашиг, нэр төр зэрэг албан хэв маягийн хос үгийг давтаж, англи хэлний \"be known as\", \"be regarded as\" бүтэц болон тусагдахууны гүйцэд (object complement)-ийг албан бичгийн хэлэнд хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "нэр төр",
+   "en": "honor, dignity",
+   "pos": "noun (paired word)",
+   "example_mn": "Тэр гэр бүлийнхээ нэр төрийг хамгаалсан.",
+   "example_en": "He defended his family's honor.",
+   "mn_latin": "ner tör"
+  },
+  {
+   "mn": "эрх ашиг",
+   "en": "interests (rights and benefits)",
+   "pos": "noun (paired word)",
+   "example_mn": "Хууль иргэдийн эрх ашгийг хамгаалах ёстой.",
+   "example_en": "The law must protect citizens' interests.",
+   "mn_latin": "erkh ashig"
+  },
+  {
+   "mn": "өвөрмөц байдал",
+   "en": "identity, distinctiveness",
+   "pos": "noun",
+   "example_mn": "Хэл бол үндэсний өвөрмөц байдлын үндэс юм.",
+   "example_en": "Language is the foundation of national identity.",
+   "mn_latin": "övörmöts baidal"
+  },
+  {
+   "mn": "ёс заншил",
+   "en": "customs, traditions",
+   "pos": "noun (paired word)",
+   "example_mn": "Цагаан сарын ёс заншил гэр бүл бүрт өөр байдаг.",
+   "example_en": "Tsagaan Sar customs differ from family to family.",
+   "mn_latin": "yos zanshil"
+  },
+  {
+   "mn": "өвөг дээдэс",
+   "en": "ancestors",
+   "pos": "noun (paired word)",
+   "example_mn": "Бид өвөг дээдсээ хүндэтгэдэг.",
+   "example_en": "We honor our ancestors.",
+   "mn_latin": "övög deedes"
+  },
+  {
+   "mn": "учир утга",
+   "en": "meaning, significance",
+   "pos": "noun (paired word)",
+   "example_mn": "Энэ нэрийн учир утга юу вэ?",
+   "example_en": "What is the meaning of this name?",
+   "mn_latin": "uchir utga"
+  },
+  {
+   "mn": "үнэ цэнэ",
+   "en": "value, worth",
+   "pos": "noun (paired word)",
+   "example_mn": "Нэрийн үнэ цэнэ цаг хугацаа өнгөрөх тусам нэмэгддэг.",
+   "example_en": "The value of a name grows over time.",
+   "mn_latin": "üne tsene"
+  },
+  {
+   "mn": "нэрээ солих",
+   "en": "to change one's name",
+   "pos": "verb phrase",
+   "example_mn": "Тэр гэрлэсний дараа нэрээ солихгүй гэж шийдсэн.",
+   "example_en": "She decided not to change her name after marrying.",
+   "mn_latin": "neree solikh"
+  },
+  {
+   "mn": "хүлээн зөвшөөрөх",
+   "en": "to accept, to recognize",
+   "pos": "verb",
+   "example_mn": "Нийгэм түүний шинэ нэрийг хүлээн зөвшөөрсөн.",
+   "example_en": "Society accepted his new name.",
+   "mn_latin": "khüleen zövshöörökh"
+  },
+  {
+   "mn": "андуурах",
+   "en": "to mistake, to confuse",
+   "pos": "verb",
+   "example_mn": "Олон хүн миний нэрийг эрэгтэй хүний нэр гэж андуурдаг.",
+   "example_en": "Many people mistake my name for a man's name.",
+   "mn_latin": "anduurakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Нэр бол хүний өвөрмөц байдлын салшгүй хэсэг юм.",
+   "en": "A name is an inseparable part of a person's identity.",
+   "alt_mn": [
+    "Нэр бол хүний өвөрмөц байдлын салшгүй нэг хэсэг мөн."
+   ],
+   "alt_en": [
+    "A name is an integral part of a person's identity."
+   ],
+   "mn_latin": "Ner bol khünii övörmöts baidlyn salshgüi kheseg yum."
+  },
+  {
+   "mn": "Гадаадад амьдардаг олон монгол хүн нэрээ товчилж хэрэглэдэг.",
+   "en": "Many Mongolians living abroad use a shortened form of their name.",
+   "alt_mn": [
+    "Гадаадад амьдардаг олон монгол хүн товчилсон нэр хэрэглэдэг."
+   ],
+   "alt_en": [
+    "Many Mongolians who live abroad shorten their names."
+   ],
+   "mn_latin": "Gadaadad amidardag olon mongol khün neree tovchilj kheregledeg."
+  },
+  {
+   "mn": "Гэр бүлийнхэн нь түүнийг гэр бүлийн нэр төрийг сахигч гэж үздэг.",
+   "en": "His family regards him as the guardian of the family's honor.",
+   "alt_mn": [
+    "Түүнийг гэр бүлийнхэн нь гэр бүлийн нэр төрийг сахигч гэж үздэг."
+   ],
+   "alt_en": [
+    "His family considers him the guardian of the family's honor."
+   ],
+   "mn_latin": "Ger büliinkhen ni tüüniig ger büliin ner töriig sakhigch gej üzdeg."
+  },
+  {
+   "mn": "Өвөг дээдсийн нэрийг ургийн овог болгон хэрэглэх нь уламжлал болжээ.",
+   "en": "Using ancestors' names as clan names has become a tradition.",
+   "alt_mn": [
+    "Өвөг дээдсийнхээ нэрийг ургийн овог болгох нь уламжлал болсон."
+   ],
+   "alt_en": [
+    "It has become a tradition to use ancestors' names as clan names."
+   ],
+   "mn_latin": "Övög deedsiin neriig urgiin ovog bolgon khereglekh ni ulamjlal boljee."
+  },
+  {
+   "mn": "Хууль ёсны дагуу нэрээ солих нь иргэний эрх гэж тооцогддог.",
+   "en": "Changing one's name through legal means is regarded as a citizen's right.",
+   "alt_mn": [
+    "Нэрээ хууль ёсоор солих нь иргэний эрх гэж үздэг."
+   ],
+   "alt_en": [
+    "Legally changing one's name is considered a citizen's right."
+   ],
+   "mn_latin": "Khuuli yosny daguu neree solikh ni irgenii erkh gej tootsogddog."
+  },
+  {
+   "mn": "Олон улсад тэрбээр Тэмүүжин гэхээсээ илүү Тэмка гэдэг нэрээр танигдсан.",
+   "en": "Internationally, he became better known as Temka than as Temuujin.",
+   "alt_mn": [
+    "Олон улсад түүнийг Тэмүүжин гэхээсээ илүү Тэмка гэж мэддэг болсон."
+   ],
+   "alt_en": [
+    "Abroad, he came to be known as Temka rather than Temuujin."
+   ],
+   "mn_latin": "Olon ulsad terbeer Temüüjin gekheesee ilüü Temka gedeg nereer tanigdsan."
+  },
+  {
+   "mn": "Нэрийг хүний нэр төр, гэр бүлийн эрх ашигтай нягт холбоотой гэж үздэг.",
+   "en": "A name is regarded as closely tied to a person's dignity and the family's interests.",
+   "alt_mn": [
+    "Нэр нь хүний нэр төр, гэр бүлийн эрх ашигтай нягт холбоотой гэж тооцогддог."
+   ],
+   "alt_en": [
+    "A name is considered closely linked to a person's honor and the family's interests."
+   ],
+   "mn_latin": "Neriig khünii ner tör, ger büliin erkh ashigtai nyagt kholbootoi gej üzdeg."
+  },
+  {
+   "mn": "Нэрийнхээ учир утгыг ойлгосны дараа би түүнийгээ илүү үнэлдэг болсон.",
+   "en": "After I understood the meaning of my name, I came to value it more.",
+   "alt_mn": [
+    "Нэрийнхээ учир утгыг ойлгосноос хойш би түүнийг илүү үнэлэх болсон."
+   ],
+   "alt_en": [
+    "Once I understood what my name meant, I began to value it more."
+   ],
+   "mn_latin": "Neriinkhee uchir utgyg oilgosny daraa bi tüüniigee ilüü üneldeg bolson."
+  },
+  {
+   "mn": "Ёс заншлаа хүндэтгэх нь өөрийн өвөрмөц байдлаа хадгалах нэг арга юм.",
+   "en": "Respecting one's customs is one way of preserving one's identity.",
+   "alt_mn": [
+    "Ёс заншлаа хүндлэх нь өвөрмөц байдлаа хадгалах нэг арга мөн."
+   ],
+   "alt_en": [
+    "Honoring your customs is one way to preserve your identity."
+   ],
+   "mn_latin": "Yos zanshlaa khündetgekh ni ööriin övörmöts baidlaa khadgalakh neg arga yum."
+  },
+  {
+   "mn": "Нийгэм шинэ нэрийг тэр бүр хүлээн зөвшөөрдөггүй.",
+   "en": "Society does not always accept a new name.",
+   "alt_mn": [
+    "Нийгэм шинэ нэрийг үргэлж хүлээн зөвшөөрдөггүй."
+   ],
+   "alt_en": [
+    "A new name is not always accepted by society."
+   ],
+   "mn_latin": "Niigem shine neriig ter bür khüleen zövshöördöggüi."
+  },
+  {
+   "mn": "Гадаадад миний эцгийн нэрийг ихэвчлэн ургийн овог гэж андуурдаг.",
+   "en": "Abroad, my father's name is often mistaken for my family name.",
+   "alt_mn": [
+    "Гадаадад хүмүүс миний эцгийн нэрийг ихэвчлэн ургийн овог гэж андуурдаг."
+   ],
+   "alt_en": [
+    "Abroad, people often mistake my patronymic for my surname."
+   ],
+   "mn_latin": "Gadaadad minii etsgiin neriig ikhevchlen urgiin ovog gej anduurdag."
+  },
+  {
+   "mn": "Нэрийн үнэ цэнийг хүн түүнийг хэрхэн авч явж буйгаар нь хэмждэг.",
+   "en": "The worth of a name is measured by how one carries it.",
+   "alt_mn": [
+    "Нэрийн үнэ цэнэ түүнийг хэрхэн авч явахаас хамаардаг."
+   ],
+   "alt_en": [
+    "A name's value depends on how its bearer lives up to it."
+   ],
+   "mn_latin": "Neriin üne tseniig khün tüüniig kherkhen avch yavj buigaar ni khemjdeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "Mongolian paired words in formal register / English object complements with \"be known as\" and \"be regarded as\"",
+  "title_mn": "Албан хэв маягийн хос үг / Англи хэлний тусагдахууны гүйцэд ба \"be known as\", \"be regarded as\"",
+  "explain_en": "1) Formal Mongolian often uses paired words (хос үг). Two related or near-synonymous words are joined to express one broader, more dignified idea: нэр (name) + төр (state, dignity) = нэр төр 'honor'; эрх (right) + ашиг (benefit) = эрх ашиг 'interests'. Treat the pair as one noun. Only the SECOND word takes case endings: нэр төрийг, эрх ашгийг, ёс заншлаа, үнэ цэнийг. Watch the stem changes: ашиг → ашгийг (the vowel drops), заншил → заншлыг. Paired words make writing sound weightier, so they are common in essays, speeches, and the news. 2) In English, some verbs (consider, call, find, regard ... as, know ... as) take an object complement after the object: \"They consider the name a symbol.\" \"His family regards him as a guardian.\" In the passive, the object becomes the subject and the complement stays: \"He is regarded as a guardian.\" \"She is known as Temka.\" This pattern is very common in formal writing. Note: regard, know, and see need \"as\". Consider and call usually do not: \"considered a right\" (\"considered as a right\" is generally avoided), \"called Temka\" (\"called as\" is wrong).",
+  "explain_mn": "1) Албан хэв маягийн монгол хэлэнд хос үг түгээмэл. Утга ойролцоо буюу холбоотой хоёр үгийг хослуулж илүү өргөн, хүндэтгэлтэй нэг утга илэрхийлнэ: нэр + төр = нэр төр; эрх + ашиг = эрх ашиг. Хос үгийг нэг нэр үг мэт хэрэглэх бөгөөд зөвхөн ХОЁР ДАХЬ үг нь нөхцөл авна: нэр төрийг, эрх ашгийг, ёс заншлаа, үнэ цэнийг. Үгийн язгуурын өөрчлөлтөд анхаар: ашиг → ашгийг (эгшиг гээгдэнэ), заншил → заншлыг. Хос үг бичвэрийг жинтэй болгодог тул эссэ, илтгэл, мэдээнд элбэг. 2) Англи хэлэнд зарим үйл үг (consider, call, find, regard ... as, know ... as) тусагдахууны дараа түүнийг тодорхойлох гүйцэд (object complement) авдаг: \"They consider the name a symbol.\" \"His family regards him as a guardian.\" Идэвхгүй хэвд тусагдахуун нь өгүүлэгдэхүүн болж, гүйцэд нь хэвээр үлдэнэ: \"He is regarded as a guardian.\" \"She is known as Temka.\" Албан бичигт энэ хэлбэр маш түгээмэл. Анхаарах зүйл: regard, know, see үйл үгийн дараа \"as\" орно. Харин consider, call үйл үгийн дараа ихэвчлэн \"as\" хэрэглэдэггүй: \"considered a right\" (\"considered as a right\" хэлбэрээс зайлсхийдэг), \"called Temka\" (\"called as\" буруу).",
+  "examples": [
+   {
+    "mn": "Бид үндэсний эрх ашгаа хамгаалах ёстой.",
+    "en": "We must protect our national interests.",
+    "mn_latin": "Bid ündesnii erkh ashgaa khamgaalakh yostoi."
+   },
+   {
+    "mn": "Түүнийг Монголын орчин үеийн яруу найргийн эцэг гэж үздэг.",
+    "en": "He is regarded as the father of modern Mongolian poetry.",
+    "mn_latin": "Tüüniig Mongolyn orchin üyeiin yaruu nairgiin etseg gej üzdeg."
+   },
+   {
+    "mn": "Олон улсад тэр Сараа гэдэг нэрээр танигддаг.",
+    "en": "Internationally, she is known as Saraa.",
+    "mn_latin": "Olon ulsad ter Saraa gedeg nereer tanigddag."
+   },
+   {
+    "mn": "Энэ үйлдлийг түүний нэр төрийг гутаасан хэрэг гэж үзсэн.",
+    "en": "This act was considered a blow to his honor.",
+    "mn_latin": "Ene üildliig tüünii ner töriig gutaasan khereg gej üzsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бид үндэсний эрх ___ хамгаалах ёстой.",
+   "answer": "ашгаа",
+   "options": [
+    "ашгаа",
+    "төрөө",
+    "заншлаа",
+    "цэнээ"
+   ],
+   "translation": "We must protect our national interests.",
+   "explain_en": "The paired word эрх ашиг means 'interests'. Only the second word takes the ending. The reflexive accusative of ашиг is ашгаа, because the stem vowel drops.",
+   "explain_mn": "\"Эрх ашиг\" хос үгийн зөвхөн хоёр дахь үг нь нөхцөл авна. \"Ашиг\" үг өөрийн хамаатуулах нөхцөл авахдаа эгшгээ гээж \"ашгаа\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ хэрэг түүний нэр ___ ихээхэн хохироосон.",
+   "answer": "төрийг",
+   "options": [
+    "төрийг",
+    "ашгийг",
+    "заншлыг",
+    "утгыг"
+   ],
+   "translation": "This incident seriously damaged his honor.",
+   "explain_en": "нэр is completed by төр to form нэр төр 'honor, reputation'. It takes the accusative -ийг as the object of хохироох 'to damage'.",
+   "explain_mn": "\"Нэр\" үгтэй хослох үг нь \"төр\" бөгөөд \"нэр төр\" болно. \"Хохироох\" үйл үгийн тусагдахуун тул заахын тийн ялгал \"-ийг\" авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Залуучууд өвөг дээдсийнхээ ёс ___ мартаж болохгүй.",
+   "answer": "заншлыг",
+   "options": [
+    "заншлыг",
+    "төрийг",
+    "ашгийг",
+    "цэнийг"
+   ],
+   "translation": "Young people must not forget the customs of their ancestors.",
+   "explain_en": "ёс pairs with заншил to form ёс заншил 'customs'. The final -ил drops its vowel before the accusative ending: заншил → заншлыг.",
+   "explain_mn": "\"Ёс\" үг \"заншил\" үгтэй хослоно. Заахын тийн ялгал авахад \"заншил\" үгийн эгшиг гээгдэж \"заншлыг\" болно."
+  },
+  {
+   "lang": "en",
+   "text": "She is widely regarded ___ one of the finest poets of her generation.",
+   "answer": "as",
+   "options": [
+    "as",
+    "like",
+    "for",
+    "by"
+   ],
+   "translation": "Түүнийг үеийнхээ хамгийн шилдэг яруу найрагчдын нэг гэж өргөнөөр үздэг.",
+   "explain_en": "\"Regard\" always takes \"as\" before its complement, in both active and passive forms: regard someone as X, be regarded as X.",
+   "explain_mn": "\"Regard\" үйл үг гүйцдийнхээ өмнө заавал \"as\" авна. Идэвхтэй болон идэвхгүй хэвийн аль алинд нь ийм байна: \"be regarded as\"."
+  },
+  {
+   "lang": "en",
+   "text": "Her foreign colleagues found her name ___ to pronounce.",
+   "answer": "difficult",
+   "options": [
+    "difficult",
+    "difficulty",
+    "difficultly",
+    "as difficult"
+   ],
+   "translation": "Гадаад хамт олон нь түүний нэрийг дуудахад хэцүү гэж үзсэн.",
+   "explain_en": "With \"find\", the object complement is an adjective placed directly after the object, with no \"as\": find something difficult.",
+   "explain_mn": "\"Find\" үйл үгийн тусагдахууны дараа тэмдэг нэр шууд орж гүйцэд болно. Энд \"as\" хэрэглэдэггүй, мөн дайвар үг (difficultly) байж болохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The ger is ___ as a symbol of nomadic life.",
+   "answer": "regarded",
+   "options": [
+    "regarded",
+    "called",
+    "thought",
+    "believed"
+   ],
+   "translation": "Гэрийг нүүдэлчдийн амьдралын бэлгэдэл гэж үздэг.",
+   "explain_en": "Only \"regarded\" is followed by \"as\" here. We say \"called a symbol\" without \"as\", and \"thought\" and \"believed\" need \"to be\": thought to be a symbol.",
+   "explain_mn": "\"As\"-тай хамт зөвхөн \"regarded\" орно. \"Called\" үйл үг \"as\" авдаггүй, харин \"thought\", \"believed\" нь \"to be\" шаарддаг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Ану, чамайг энд бүгд \"Annie\" гэж дууддаг. Чамд тэр нь таалагддаг уу?",
+   "en": "Anu, everyone here calls you \"Annie.\" Do you like that?",
+   "mn_latin": "Anu, chamaig end bügd \"Annie\" gej duuddag. Chamd ter ni taalagddag uu?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Эхэндээ надад хэвийн санагдаж байсан. Гэвч сүүлдээ өөрийнхөө өвөрмөц байдлыг алдаж байгаа юм шиг санагдах болсон.",
+   "en": "At first it felt normal. But later I started to feel as if I were losing my identity.",
+   "mn_latin": "Ekhendee nadad kheviin sanagdaj baisan. Gevch süüldee ööriinkhöö övörmöts baidlyg aldaj baigaa yum shig sanagdakh bolson."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Ойлголоо. Чиний нэрийн учир утга юу вэ?",
+   "en": "I see. What does your name mean?",
+   "mn_latin": "Oilgoloo. Chinii neriin uchir utga yuu ve?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Ану хатан бол түүхэнд зоригтой эмэгтэй гэж тооцогддог. Эмээ маань миний нэрийг гэр бүлийн нэр төрийн бэлгэдэл гэж үздэг.",
+   "en": "Queen Anu is regarded in history as a brave woman. My grandmother considers my name a symbol of the family's honor.",
+   "mn_latin": "Anu khatan bol tüükhend zorigtoi emegtei gej tootsogddog. Emee maani minii neriig ger büliin ner töriin belgedel gej üzdeg."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Тэгвэл чи жинхэнэ нэрээрээ танигдахыг хүсэж байгаа юм байна.",
+   "en": "So you want to be known by your real name.",
+   "mn_latin": "Tegvel chi jinkhene nereeree tanigdakhyg khüsej baigaa yum baina."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Тийм ээ. Хүмүүс миний нэрийг зөв дуудаж сурвал тэр нь миний үнэ цэнийг хүлээн зөвшөөрч байгаа хэрэг гэж би боддог.",
+   "en": "Yes. I think that when people learn to pronounce my name correctly, they are recognizing my worth.",
+   "mn_latin": "Tiim ee. Khümüüs minii neriig zöv duudaj surval ter ni minii üne tseniig khüleen zövshöörch baigaa khereg gej bi boddog."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Тэгвэл өнөөдрөөс эхлэн би чамайг Ану гэж дуудна.",
+   "en": "Then starting today, I'll call you Anu.",
+   "mn_latin": "Tegvel önöödröös ekhlen bi chamaig Anu gej duudna."
+  }
+ ],
+ "culture_note": {
+  "en": "During the socialist period, Mongolians stopped using clan names (ургийн овог) and were known mainly by a patronymic plus a given name. Since the 1990s and 2000s, many families have revived or chosen clan names, often inspired by their ancestors. Abroad, Mongolian patronymics are frequently printed in the surname field of documents, so a person may be addressed by their father's name.",
+  "mn": "Социализмын үед монголчууд ургийн овгоо хэрэглэхээ больж, голдуу эцгийн нэр, өөрийн нэрээр танигддаг байв. 1990-ээд, 2000-аад оноос хойш олон гэр бүл ургийн овгоо сэргээх буюу өвөг дээдсээсээ санаа авч шинээр сонгох болсон. Гадаадад монгол хүний эцгийн нэрийг бичиг баримтын овгийн хэсэгт бичих нь элбэг тул хүнийг эцгийнх нь нэрээр дуудах тохиолдол гардаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A strong C1 lesson. The paired words and case endings are accurate and the fill-in-the-blank answers are unambiguous. I fixed one translation mismatch in the grammar examples and two nonstandard genitive forms."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 9,
+  "notes": "Main issue: grammar en/mn explanations described different topics; plus several unnatural Mongolian forms.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; now both cover both"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Match en content (both topics)"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "\"салж үл болох\" is unnatural/archaic"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "\"үзэгддэг\" means 'appears', not 'is regarded'"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "With үздэг the object must be accusative"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "Avoid duplicate; passive verb fits nominative"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "\"авч явахаар\" reads as purpose; unnatural"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Tense mismatch with 'is known'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Awkward wording"
+   }
+  ]
+ }
+}

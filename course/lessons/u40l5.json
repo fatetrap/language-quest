@@ -1,0 +1,480 @@
+{
+ "intro_en": "You will learn to turn a rough draft into a polished formal text using nominalizations, passive and impersonal structures, and precise vocabulary. You will also learn to avoid repetition, fillers, and colloquial phrasing.",
+ "intro_mn": "Та анхны ноорог бичвэрээ нэр үгжүүлэлт, үйлдэгдэх болон хүнгүй бүтэц, нарийн үгсийн тусламжтайгаар албан ёсны, цэгцтэй бичвэр болгож сурна. Мөн үг давтах, илүү үг болон ярианы хэллэг хэрэглэхээс зайлсхийх аргыг эзэмшинэ.",
+ "vocab": [
+  {
+   "mn": "хэрэгжилт",
+   "en": "implementation",
+   "pos": "noun",
+   "example_mn": "Төслийн хэрэгжилт сайн явагдаж байна.",
+   "example_en": "The implementation of the project is going well.",
+   "mn_latin": "kheregjilt"
+  },
+  {
+   "mn": "хөгжүүлэлт",
+   "en": "development",
+   "pos": "noun",
+   "example_mn": "Хотын дэд бүтцийн хөгжүүлэлтэд анхаарах хэрэгтэй.",
+   "example_en": "Attention should be paid to the development of the city's infrastructure.",
+   "mn_latin": "khögjüülelt"
+  },
+  {
+   "mn": "шийдвэрлэх",
+   "en": "to resolve, to settle",
+   "pos": "verb",
+   "example_mn": "Энэ асуудлыг яаралтай шийдвэрлэх шаардлагатай.",
+   "example_en": "This issue needs to be resolved urgently.",
+   "mn_latin": "shiidverlekh"
+  },
+  {
+   "mn": "дүгнэх",
+   "en": "to conclude, to sum up",
+   "pos": "verb",
+   "example_mn": "Судалгааны үр дүнг дараах байдлаар дүгнэв.",
+   "example_en": "The results of the study are summarized as follows.",
+   "mn_latin": "dügnekh"
+  },
+  {
+   "mn": "тусгах",
+   "en": "to reflect, to include",
+   "pos": "verb",
+   "example_mn": "Саналыг эцсийн тайланд тусгасан.",
+   "example_en": "The suggestion was included in the final report.",
+   "mn_latin": "tusgakh"
+  },
+  {
+   "mn": "анхаарах",
+   "en": "to pay attention to",
+   "pos": "verb",
+   "example_mn": "Өгөгдлийн нарийвчлалд онцгой анхаарах хэрэгтэй.",
+   "example_en": "Special attention should be paid to the accuracy of the data.",
+   "mn_latin": "ankhaarakh"
+  },
+  {
+   "mn": "нарийвчлал",
+   "en": "precision",
+   "pos": "noun",
+   "example_mn": "Тайлангийн нарийвчлал сайжирсан.",
+   "example_en": "The precision of the report has improved.",
+   "mn_latin": "nariivchlal"
+  },
+  {
+   "mn": "давталт",
+   "en": "repetition",
+   "pos": "noun",
+   "example_mn": "Нэг үгийн давталтаас зайлсхийх хэрэгтэй.",
+   "example_en": "One should avoid repetition of the same word.",
+   "mn_latin": "davtalt"
+  },
+  {
+   "mn": "тодорхойлох",
+   "en": "to define, to specify",
+   "pos": "verb",
+   "example_mn": "Судалгааны зорилгыг тодорхой тодорхойлсон.",
+   "example_en": "The aim of the study was clearly defined.",
+   "mn_latin": "todorkhoilokh"
+  },
+  {
+   "mn": "боловсруулах",
+   "en": "to draft, to prepare",
+   "pos": "verb",
+   "example_mn": "Журмын шинэ төслийг боловсруулжээ.",
+   "example_en": "A new draft of the regulation has been prepared.",
+   "mn_latin": "bolovsruulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Төслийн хэрэгжилтийг дараа сард дүгнэнэ.",
+   "en": "The implementation of the project will be evaluated next month.",
+   "alt_mn": [
+    "Төслийн хэрэгжилтэд дараа сард дүгнэлт хийнэ."
+   ],
+   "alt_en": [
+    "The project's implementation will be assessed next month."
+   ],
+   "mn_latin": "Tösliin kheregjiltiig daraa sard dügnene."
+  },
+  {
+   "mn": "Асуудлыг богино хугацаанд шийдвэрлэх шаардлагатай.",
+   "en": "It is necessary to resolve the issue within a short time.",
+   "alt_mn": [
+    "Асуудлыг богино хугацаанд шийдвэрлэх хэрэгтэй."
+   ],
+   "alt_en": [
+    "The issue must be resolved within a short period."
+   ],
+   "mn_latin": "Asuudlyg bogino khugatsaand shiidverlekh shaardlagatai."
+  },
+  {
+   "mn": "Таны санал эцсийн төсөлд тусгагдсан.",
+   "en": "Your suggestion has been reflected in the final draft.",
+   "alt_mn": [
+    "Таны саналыг эцсийн төсөлд тусгасан."
+   ],
+   "alt_en": [
+    "Your suggestion has been included in the final draft."
+   ],
+   "mn_latin": "Tany sanal etssiin tösöld tusgagdsan."
+  },
+  {
+   "mn": "Өгөгдлийн нарийвчлалд анхаарах нь зүйтэй.",
+   "en": "It is advisable to pay attention to the accuracy of the data.",
+   "alt_mn": [],
+   "alt_en": [
+    "Attention should be paid to the precision of the data."
+   ],
+   "mn_latin": "Ögögdliin nariivchlald ankhaarakh ni züitei."
+  },
+  {
+   "mn": "Бичвэрт ярианы хэллэг хэрэглэхгүй байх хэрэгтэй.",
+   "en": "Colloquial expressions should not be used in the text.",
+   "alt_mn": [
+    "Бичвэрт ярианы хэллэг хэрэглэхээс зайлсхийх нь зүйтэй."
+   ],
+   "alt_en": [
+    "One should avoid colloquial expressions in the text."
+   ],
+   "mn_latin": "Bichvert yariany khelleg khereglekhgüi baikh kheregtei."
+  },
+  {
+   "mn": "Судалгааны зорилго тодорхойлогдсон.",
+   "en": "The aim of the research has been defined.",
+   "alt_mn": [
+    "Судалгааны зорилгыг тодорхойлсон."
+   ],
+   "alt_en": [
+    "The research objective has been specified."
+   ],
+   "mn_latin": "Sudalgaany zorilgo todorkhoilogdson."
+  },
+  {
+   "mn": "Шинэ журмын төслийг боловсруулж байна.",
+   "en": "A draft of the new regulation is being prepared.",
+   "alt_mn": [
+    "Шинэ журмын төсөл боловсруулагдаж байна."
+   ],
+   "alt_en": [
+    "The new regulation is being drafted."
+   ],
+   "mn_latin": "Shine jurmyn tösliig bolovsruulj baina."
+  },
+  {
+   "mn": "Хөгжүүлэлтийн ажил энэ жил үргэлжилнэ.",
+   "en": "Development work will continue this year.",
+   "alt_mn": [],
+   "alt_en": [
+    "The development work will go on this year."
+   ],
+   "mn_latin": "Khögjüüleltiin ajil ene jil ürgeljilne."
+  },
+  {
+   "mn": "Үр дүнг доорх байдлаар дүгнэж болно.",
+   "en": "The results may be summarized as follows.",
+   "alt_mn": [
+    "Үр дүнг дараах байдлаар дүгнэж болно."
+   ],
+   "alt_en": [
+    "The results can be summarized as follows."
+   ],
+   "mn_latin": "Ür düng doorkh baidlaar dügnej bolno."
+  },
+  {
+   "mn": "Оюутнууд хичээлийн өмнө бэлтгэл хийх хандлагатай байдаг.",
+   "en": "Students tend to prepare before class.",
+   "alt_mn": [
+    "Оюутнууд хичээлийн өмнө бэлтгэх хандлагатай байдаг."
+   ],
+   "alt_en": [
+    "Students tend to prepare before lessons."
+   ],
+   "mn_latin": "Oyuutnuud khicheeliin ömnö beltgel khiikh khandlagatai baidag."
+  },
+  {
+   "mn": "Тайланд давталтыг багасгах шаардлагатай.",
+   "en": "Repetition in the report needs to be reduced.",
+   "alt_mn": [
+    "Тайлан дахь давталтыг багасгах хэрэгтэй."
+   ],
+   "alt_en": [
+    "It is necessary to reduce repetition in the report."
+   ],
+   "mn_latin": "Tailand davtaltyg bagasgakh shaardlagatai."
+  },
+  {
+   "mn": "Энэ арга нь үр дүнг сайжруулж магадгүй.",
+   "en": "This method may improve the results.",
+   "alt_mn": [
+    "Энэ арга үр дүнг сайжруулж болзошгүй."
+   ],
+   "alt_en": [
+    "This approach might improve the results."
+   ],
+   "mn_latin": "Ene arga ni ür düng saijruulj magadgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Nominalization and passive/impersonal style",
+  "title_mn": "Нэр үгжүүлэлт ба үйлдэгдэх, хүнгүй бүтэц",
+  "explain_en": "Formal Mongolian prefers noun forms and impersonal structures over personal verbs. Add -лт/-лал/-лага to verb stems to make nouns (хэрэгжих → хэрэгжилт, хөгжүүлэх → хөгжүүлэлт). The passive suffix -гд- (also -д-, -т-) removes the doer: тусгах → тусгагдсан (was reflected). Impersonal patterns such as '-х хэрэгтэй', '-х шаардлагатай', '-х нь зүйтэй' replace 'you must / I think'. Avoid fillers like 'тэгээд', 'ер нь', 'за'.",
+  "explain_mn": "Монгол албан бичвэрт үйлдэгчийг заасан хувийн үйл үгийн оронд нэр үгжүүлэлт болон үйлдэгдэх, хүнгүй бүтцийг илүү хэрэглэнэ. Үйл үгийн язгуурт -лт/-лал/-лага дагавар залгаж нэр үг үүсгэнэ (хэрэгжих → хэрэгжилт, хөгжүүлэх → хөгжүүлэлт). Үйлдэгдэх нөхцөл -гд- (мөн -д-, -т-) нь үйлдэгчийг заахгүй: тусгах → тусгагдсан. '-х хэрэгтэй', '-х шаардлагатай', '-х нь зүйтэй' гэх мэт хүнгүй хэлбэр нь 'та заавал', 'миний бодоход' гэсэн хэллэгийг орлоно. 'Тэгээд', 'ер нь', 'за' зэрэг ярианы илүү үгээс зайлсхийнэ.",
+  "examples": [
+   {
+    "mn": "Төслийг хэрэгжүүлсэн → Төслийн хэрэгжилт хангагдсан.",
+    "en": "They implemented the project → The implementation of the project was ensured.",
+    "mn_latin": "Tösliig kheregjüülsen → Tösliin kheregjilt khangagdsan."
+   },
+   {
+    "mn": "Санал тусгагдсан.",
+    "en": "The suggestion was incorporated.",
+    "mn_latin": "Sanal tusgagdsan."
+   },
+   {
+    "mn": "Анхаарах шаардлагатай.",
+    "en": "Attention is required.",
+    "mn_latin": "Ankhaarakh shaardlagatai."
+   },
+   {
+    "mn": "Үр дүн сайжирч магадгүй.",
+    "en": "The results may improve.",
+    "mn_latin": "Ür dün saijirch magadgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Төслийн хэрэгжи___ сайн байна.",
+   "answer": "лт",
+   "options": [
+    "лт",
+    "гдсэн",
+    "х",
+    "ж"
+   ],
+   "translation": "The implementation of the project is good.",
+   "explain_en": "-лт turns the verb stem into an abstract noun: хэрэгжих → хэрэгжилт.",
+   "explain_mn": "-лт дагавар нь үйл үгийн язгуураас нэр үг үүсгэнэ: хэрэгжих → хэрэгжилт."
+  },
+  {
+   "lang": "mn",
+   "text": "Таны санал тайланд тусга___.",
+   "answer": "гдсан",
+   "options": [
+    "гдсан",
+    "сан бол",
+    "ж",
+    "хаар"
+   ],
+   "translation": "Your suggestion was reflected in the report.",
+   "explain_en": "-гдсан is the passive past: no doer is named, which suits formal writing.",
+   "explain_mn": "-гдсан нь үйлдэгдэх хэвийн өнгөрсөн цагийн хэлбэр; үйлдэгчийг заахгүй тул албан бичигт тохиромжтой."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ асуудлыг яаралтай шийдвэрлэх ___.",
+   "answer": "шаардлагатай",
+   "options": [
+    "шаардлагатай",
+    "дээ",
+    "нь",
+    "гэдэг"
+   ],
+   "translation": "This issue needs to be resolved urgently.",
+   "explain_en": "'-х шаардлагатай' is an impersonal formal pattern meaning 'it is necessary to'.",
+   "explain_mn": "'-х шаардлагатай' нь хүнгүй албан хэлбэр бөгөөд 'it is necessary to' буюу 'зайлшгүй хийх ёстой' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The results ___ be summarized as follows.",
+   "answer": "may",
+   "options": [
+    "may",
+    "gonna",
+    "wanna",
+    "gotta"
+   ],
+   "translation": "Үр дүнг дараах байдлаар дүгнэж болно.",
+   "explain_en": "'May' is a formal, hedged modal; the other options are colloquial.",
+   "explain_mn": "'May' нь албан, зөөлрүүлсэн модаль үг; бусад нь ярианы хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "The committee ___ the meeting last week.",
+   "answer": "postponed",
+   "options": [
+    "postponed",
+    "pushed back on",
+    "put off on",
+    "held up on"
+   ],
+   "translation": "Хороо өнгөрсөн долоо хоногт хурлыг хойшлуулсан.",
+   "explain_en": "Formal writing prefers single-word verbs to phrasal verbs.",
+   "explain_mn": "Албан бичигт phrasal verb-ийн оронд нэг үгт үйл үгийг илүүд үздэг."
+  },
+  {
+   "lang": "en",
+   "text": "The data ___ collected in 2023.",
+   "answer": "were",
+   "options": [
+    "were",
+    "was been",
+    "have",
+    "did"
+   ],
+   "translation": "Өгөгдлийг 2023 онд цуглуулсан.",
+   "explain_en": "Passive = be + past participle; 'data' is often treated as plural in formal writing.",
+   "explain_mn": "Passive = be + үйлт нэрийн өнгөрсөн хэлбэр; 'data'-г албан бичигт ихэвчлэн олон тоогоор авна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Миний тайлангийн ноорогийг харлаа уу?",
+   "en": "Have you looked at my draft report?",
+   "mn_latin": "Minii tailangiin noorogiig kharlaa uu?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тийм. Агуулга сайн, гэхдээ хэт ярианы хэллэгтэй байна.",
+   "en": "Yes. The content is good, but it sounds too colloquial.",
+   "mn_latin": "Tiim. Aguulga sain, gekhdee khet yariany khellegtei baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Жишээ нь юу вэ?",
+   "en": "For example?",
+   "mn_latin": "Jishee ni yuu ve?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "'Ер нь бид асуудлыг шийдчихлээ' гэдгийг 'Асуудал шийдвэрлэгдсэн' гэж бичиж болно.",
+   "en": "Instead of 'We basically sorted the problem out', you could write 'The problem has been resolved.'",
+   "mn_latin": "'Yer ni bid asuudlyg shiidchikhlee' gedgiig 'Asuudal shiidverlegdsen' gej bichij bolno."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ойлголоо. Давтагдсан үгсийг ч багасгах хэрэгтэй байх.",
+   "en": "I see. I should probably reduce the repeated words too.",
+   "mn_latin": "Oilgoloo. Davtagdsan ügsiig ch bagasgakh kheregtei baikh."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тийм, мөн 'хийх' гэдгийг 'хэрэгжүүлэх', 'боловсруулах' гэх мэтээр солиорой.",
+   "en": "Yes, and replace 'do' with words like 'implement' or 'prepare'.",
+   "mn_latin": "Tiim, mön 'khiikh' gedgiig 'kheregjüülekh', 'bolovsruulakh' gekh meteer solioroi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Дараа нь дүгнэлтийг илүү нарийн болгоно.",
+   "en": "Then I will make the conclusion more precise.",
+   "mn_latin": "Daraa ni dügneltiig ilüü nariin bolgono."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian official documents, such as government decrees and university regulations, impersonal and passive constructions (e.g. '-хыг үүрэг болгосугай', '-гдсан') are the norm. Writers avoid 'I' and personal opinion. Students are often taught to follow this style in theses and official letters.",
+  "mn": "Монгол Улсын албан бичиг, захирамж, их сургуулийн журамд хүнгүй, үйлдэгдэх хэлбэр (жишээ нь '-хыг үүрэг болгосугай', '-гдсан') өргөн хэрэглэгддэг. Бичигч 'би' гэж хэлэхээс зайлсхийж, хувийн үзэл бодлыг оруулдаггүй. Оюутнуудад дипломын ажил, албан захидалд энэ хэв маягийг баримтлахыг заадаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 15,
+  "notes": "Mostly good, but grammar.explain_mn was a mistaken English-grammar text and needed replacing; other fixes are minor."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "The main problems were wrong terminology for nominalization, a wrong derivation base, mistranslations of 'draft' and 'meeting', and distractors in the fill-in-the-blank items that were also correct.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'анхны хуудас' means first page, not draft. 'нэр томьёолол' means terminology. Fixed 'үйлдэх/хүн хэлбэргүй' and added the missing colloquial phrasing."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "'бэлддэг хандлагатай' is ungrammatical; хандлагатай needs the -х form."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "'нэр томьёолол' means terminology, not nominalization."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "хэрэгжилт comes from хэрэгжих, not хэрэгжүүлэх. This now matches the mn version."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Fixed the unnatural 'Албан Монгол' word order, the term, and the verb 'дараалуулж'."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "en",
+    "why": "'хангагдсан' means ensured, not completed."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "хэрэгжих is front-vowel, so the distractor should be -гдсэн."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'тусгалаа' is also an acceptable sentence."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'шийдвэрлэх шүү' is a valid colloquial sentence."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Now matches the en explanation."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'put off' is also grammatically correct."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "The sentence says meeting (хурал), not proposal (санал)."
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "'эх' means original text; draft is ноорог."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "Natural adverb order."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'сургагддаг' is unnatural."
+   }
+  ]
+ }
+}

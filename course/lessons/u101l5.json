@@ -1,0 +1,510 @@
+{
+ "intro_en": "Join a night trip to an observatory near Ulaanbaatar to watch an eclipse, and learn key astronomy words. You'll compare three ways Mongolian says something can't be done (-шгүй, -хын аргагүй, -ж боломжгүй) and practice English phrases like \"many of which\" and \"none of whom.\"",
+ "intro_mn": "Улаанбаатарын ойролцоох одон орны төвд хиртэлт үзэхээр очиж, одон орны гол үг хэллэгүүдийг сурна. Монгол хэлний \"болохгүй\" гэсэн утгатай гурван хэлбэрийг (-шгүй, -хын аргагүй, -ж боломжгүй) харьцуулж, англи хэлний \"many of which\", \"none of whom\" гэх мэт тоо хэмжээний үг + of which/whom бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "нар хиртэх",
+   "en": "(of the sun) to be eclipsed; solar eclipse",
+   "pos": "verb phrase",
+   "example_mn": "Маргааш өглөө нар хиртэнэ.",
+   "example_en": "There will be a solar eclipse tomorrow morning.",
+   "mn_latin": "nar khirtekh"
+  },
+  {
+   "mn": "бүтэн хиртэлт",
+   "en": "total eclipse",
+   "pos": "noun",
+   "example_mn": "Бүтэн хиртэлт хэдхэн минут үргэлжилдэг.",
+   "example_en": "A total eclipse lasts only a few minutes.",
+   "mn_latin": "büten khirtelt"
+  },
+  {
+   "mn": "гараг",
+   "en": "planet",
+   "pos": "noun",
+   "example_mn": "Өнөө орой хоёр гараг тод харагдана.",
+   "example_en": "Two planets will be clearly visible tonight.",
+   "mn_latin": "garag"
+  },
+  {
+   "mn": "дуран",
+   "en": "telescope",
+   "pos": "noun",
+   "example_mn": "Энэ дурангаар Бархасбадийн дагуулуудыг харж болно.",
+   "example_en": "You can see Jupiter's moons through this telescope.",
+   "mn_latin": "duran"
+  },
+  {
+   "mn": "гэрлийн жил",
+   "en": "light-year",
+   "pos": "noun",
+   "example_mn": "Тэр од биднээс мянган гэрлийн жилийн зайтай.",
+   "example_en": "That star is a thousand light-years away from us.",
+   "mn_latin": "gerliin jil"
+  },
+  {
+   "mn": "одон орны ажиглалтын төв",
+   "en": "observatory",
+   "pos": "noun",
+   "example_mn": "Одон орны ажиглалтын төв уулын оройд байрладаг.",
+   "example_en": "The observatory is located on a mountaintop.",
+   "mn_latin": "odon orny ajiglaltyn töv"
+  },
+  {
+   "mn": "сүүлт од",
+   "en": "comet",
+   "pos": "noun",
+   "example_mn": "Сүүлт од ховор тохиолддог үзэгдэл.",
+   "example_en": "A comet is a rare sight.",
+   "mn_latin": "süült od"
+  },
+  {
+   "mn": "нүцгэн нүд",
+   "en": "naked eye",
+   "pos": "noun",
+   "example_mn": "Сугар гарагийг нүцгэн нүдээр харж болно.",
+   "example_en": "You can see Venus with the naked eye.",
+   "mn_latin": "nütsgen nüd"
+  },
+  {
+   "mn": "тоолошгүй",
+   "en": "countless",
+   "pos": "adjective",
+   "example_mn": "Хөдөө тэнгэрт тоолошгүй од бий.",
+   "example_en": "There are countless stars in the countryside sky.",
+   "mn_latin": "tooloshgüi"
+  },
+  {
+   "mn": "үгүйсгэхийн аргагүй",
+   "en": "undeniable",
+   "pos": "adjective phrase",
+   "example_mn": "Энэ бол үгүйсгэхийн аргагүй баримт.",
+   "example_en": "This is an undeniable fact.",
+   "mn_latin": "ügüisgekhiin argagüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ гарагийг дурангүйгээр харж боломжгүй.",
+   "en": "It's impossible to see this planet without a telescope.",
+   "alt_mn": [
+    "Энэ гарагийг дурангүй харж боломжгүй."
+   ],
+   "alt_en": [
+    "This planet can't be seen without a telescope.",
+    "It is impossible to see this planet without a telescope."
+   ],
+   "mn_latin": "Ene garagiig durangüigeer kharj bolomjgüi."
+  },
+  {
+   "mn": "Бүтэн хиртэлтийн үеийн тэр харанхуй мартагдашгүй байлаа.",
+   "en": "The darkness during the total eclipse was unforgettable.",
+   "alt_mn": [
+    "Бүтэн хиртэлтийн үеийн харанхуй мартагдашгүй байсан."
+   ],
+   "alt_en": [
+    "That darkness during the total eclipse was unforgettable."
+   ],
+   "mn_latin": "Büten khirteltiin üyeiin ter kharankhui martagdashgüi bailaa."
+  },
+  {
+   "mn": "Тэнгэрт тоолошгүй од гялалзаж, хэлэхийн аргагүй сайхан байлаа.",
+   "en": "Countless stars were twinkling in the sky, and it was indescribably beautiful.",
+   "alt_mn": [
+    "Тэнгэрт тоолошгүй од гялалзаж байсан нь хэлэхийн аргагүй сайхан байв."
+   ],
+   "alt_en": [
+    "Countless stars were twinkling in the sky; it was beautiful beyond words."
+   ],
+   "mn_latin": "Tengert tooloshgüi od gyalalzaj, khelekhiin argagüi saikhan bailaa."
+  },
+  {
+   "mn": "Нарны аймагт найман гараг байдаг бөгөөд тэдний ихэнх нь дагуултай.",
+   "en": "There are eight planets in the solar system, most of which have moons.",
+   "alt_mn": [
+    "Нарны аймагт найман гараг бий, тэдний ихэнх нь дагуултай."
+   ],
+   "alt_en": [
+    "The solar system has eight planets, most of which have moons."
+   ],
+   "mn_latin": "Narny aimagt naiman garag baidag bögööd tednii ikhenkh ni daguultai."
+  },
+  {
+   "mn": "Бид арван хоёр оюутантай уулзсан бөгөөд тэдний нэг нь ч өмнө нь дурангаар харж үзээгүй байв.",
+   "en": "We met twelve students, none of whom had ever looked through a telescope before.",
+   "alt_mn": [
+    "Бид арван хоёр оюутантай уулзсан, тэдний хэн нь ч өмнө нь дурангаар харж үзээгүй байсан."
+   ],
+   "alt_en": [
+    "We met twelve students, none of whom had looked through a telescope before."
+   ],
+   "mn_latin": "Bid arvan khoyor oyuutantai uulzsan bögööd tednii neg ni ch ömnö ni durangaar kharj üzeegüi baiv."
+  },
+  {
+   "mn": "Тэр од биднээс мянган гэрлийн жилийн зайтай.",
+   "en": "That star is a thousand light-years away from us.",
+   "alt_mn": [
+    "Тэр од биднээс мянган гэрлийн жилийн зайд оршдог."
+   ],
+   "alt_en": [
+    "That star is one thousand light-years away from us."
+   ],
+   "mn_latin": "Ter od bidnees myangan gerliin jiliin zaitai."
+  },
+  {
+   "mn": "Хотын гэрлээс болж Улаанбаатарын төвөөс одыг сайн харж боломжгүй.",
+   "en": "Because of the city lights, it's impossible to see the stars well from central Ulaanbaatar.",
+   "alt_mn": [
+    "Хотын гэрэл ихтэй тул Улаанбаатарын төвөөс одыг сайн харж боломжгүй."
+   ],
+   "alt_en": [
+    "Because of the city lights, you can't see the stars well from downtown Ulaanbaatar."
+   ],
+   "mn_latin": "Khotyn gerlees bolj Ulaanbaataryn tövöös odyg sain kharj bolomjgüi."
+  },
+  {
+   "mn": "Хиртэлт эхлэхэд хүйтэн салхи тэсэхийн аргагүй болсон ч хэн ч машиндаа ороогүй.",
+   "en": "When the eclipse began, the cold wind became unbearable, but no one got back into their car.",
+   "alt_mn": [
+    "Хиртэлт эхлэхэд салхи тэсэхийн аргагүй хүйтэн болсон ч хэн ч машиндаа ороогүй."
+   ],
+   "alt_en": [
+    "When the eclipse started, the cold wind became unbearable, but nobody went back to their car."
+   ],
+   "mn_latin": "Khirtelt ekhlekhed khüiten salkhi tesekhiin argagüi bolson ch khen ch mashindaa oroogüi."
+  },
+  {
+   "mn": "Эрдэмтдийн тооцоо зөв байсныг үгүйсгэхийн аргагүй.",
+   "en": "There's no denying that the scientists' calculations were correct.",
+   "alt_mn": [
+    "Эрдэмтдийн тооцоо зөв байсан нь үгүйсгэхийн аргагүй."
+   ],
+   "alt_en": [
+    "It's undeniable that the scientists' calculations were correct.",
+    "There is no denying that the scientists' calculations were right."
+   ],
+   "mn_latin": "Erdemtdiin tootsoo zöv baisnyg ügüisgekhiin argagüi."
+  },
+  {
+   "mn": "Ажиглалтын төвд гурван дуран байдаг бөгөөд тэдний хоёр нь нэлээд хуучин.",
+   "en": "The observatory has three telescopes, two of which are quite old.",
+   "alt_mn": [
+    "Ажиглалтын төвд гурван дуран бий, тэдний хоёр нь нэлээд хуучин."
+   ],
+   "alt_en": [
+    "There are three telescopes at the observatory, two of which are quite old."
+   ],
+   "mn_latin": "Ajiglaltyn tövd gurvan duran baidag bögööd tednii khoyor ni neleed khuuchin."
+  },
+  {
+   "mn": "Ийм нарийн тооцоог дуран, компьютергүйгээр хийж боломжгүй.",
+   "en": "Such precise calculations would be impossible without telescopes and computers.",
+   "alt_mn": [
+    "Ийм нарийн тооцоог дуран, компьютергүй хийж боломжгүй."
+   ],
+   "alt_en": [
+    "Calculations this precise can't be done without telescopes and computers."
+   ],
+   "mn_latin": "Iim nariin tootsoog duran, kompiyutyergüigeer khiij bolomjgüi."
+  },
+  {
+   "mn": "Оюутнууд олон асуулт асуусан бөгөөд тэдний заримд нь эрдэмтэд ч хариулж чадаагүй.",
+   "en": "The students asked many questions, some of which even the scientists couldn't answer.",
+   "alt_mn": [
+    "Оюутнууд олон асуулт асуусан, тэдний заримд нь эрдэмтэд хүртэл хариулж чадаагүй."
+   ],
+   "alt_en": [
+    "The students asked a lot of questions, some of which even the scientists couldn't answer."
+   ],
+   "mn_latin": "Oyuutnuud olon asuult asuusan bögööd tednii zarimd ni erdemted ch khariulj chadaagüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Three kinds of \"impossible\": -шгүй, -хын аргагүй, -ж боломжгүй",
+  "title_mn": "Тоо хэмжээний үг + of which / of whom",
+  "explain_en": "All three express that something can't happen, but they feel different. 1) -шгүй attaches to a verb stem and makes an adjective, often a fixed word. If the stem ends in a vowel, it attaches directly: мартагда- → мартагдашгүй \"unforgettable.\" If the stem ends in a consonant, a harmonizing vowel is often added: тоол- → тоолошгүй \"countless.\" Some stems take no vowel at all: зайл- → зайлшгүй \"inevitable.\" Think English -less or un-...-able. 2) -хын/-хийн аргагүй literally means \"there is no way of doing.\" It is often emotional or evaluative: хэлэхийн аргагүй сайхан \"indescribably beautiful,\" тэсэхийн аргагүй \"unbearable,\" үгүйсгэхийн аргагүй \"undeniable.\" Use -хын with back vowels and -хийн with front vowels. 3) -ж боломжгүй means \"impossible to do\" for objective, practical reasons: харж боломжгүй \"impossible to see,\" хийж боломжгүй \"impossible to do.\" Tip: a feeling or a judgment usually takes аргагүй, a physical limit takes боломжгүй, and a ready-made adjective takes -шгүй.",
+  "explain_mn": "Англи хэлэнд өмнөх нэр үгийг тайлбарлахдаа \"тоо хэмжээний үг + of which/whom\" бүтцийг хэрэглэдэг. Энэ нь монгол хэлний \"...бөгөөд тэдний ихэнх нь / тэдний нэг нь ч\" гэдэгтэй дүйнэ. Эд зүйл, гараг, асуулт зэрэгт which, хүнд whom хэрэглэнэ: eight planets, most of which have moons; twelve students, none of whom had seen... Энд who биш заавал whom, them биш заавал which/whom гэж бичнэ. Өмнө нь таслал тавина. Түгээмэл үгс: all, most, many, some, none, both, two, one.",
+  "examples": [
+   {
+    "mn": "Тэр шөнийн хиртэлт мартагдашгүй байлаа.",
+    "en": "The eclipse that night was unforgettable.",
+    "mn_latin": "Ter shöniin khirtelt martagdashgüi bailaa."
+   },
+   {
+    "mn": "Сүүлт одыг харахад хэлэхийн аргагүй сайхан байв.",
+    "en": "Seeing the comet was indescribably beautiful.",
+    "mn_latin": "Süült odyg kharakhad khelekhiin argagüi saikhan baiv."
+   },
+   {
+    "mn": "Үүлтэй шөнө гарагийг харж боломжгүй.",
+    "en": "It's impossible to see the planets on a cloudy night.",
+    "mn_latin": "Üültei shönö garagiig kharj bolomjgüi."
+   },
+   {
+    "mn": "Бид таван гараг харсан бөгөөд тэдний хоёр нь их тод байв.",
+    "en": "We saw five planets, two of which were very bright.",
+    "mn_latin": "Bid tavan garag kharsan bögööd tednii khoyor ni ikh tod baiv."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бүтэн хиртэлт бол мартагда___ үзэгдэл.",
+   "answer": "шгүй",
+   "options": [
+    "шгүй",
+    "хын",
+    "хийн",
+    "ж"
+   ],
+   "translation": "A total eclipse is an unforgettable sight.",
+   "explain_en": "-шгүй turns the verb stem мартагда- (\"be forgotten\") into an adjective meaning \"unforgettable.\" It fits directly before a noun like үзэгдэл.",
+   "explain_mn": "-шгүй нь үйл үгийн язгуурт залгаж тэмдэг нэр үүсгэнэ: мартагдашгүй. Нэр үгийн өмнө шууд тодотгол болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ үнэн гэдгийг үгүйсгэ___ аргагүй.",
+   "answer": "хийн",
+   "options": [
+    "хийн",
+    "хын",
+    "ж",
+    "шгүй"
+   ],
+   "translation": "There's no denying that this is true.",
+   "explain_en": "аргагүй needs the genitive form of the verb (-хын/-хийн). Because үгүйсгэ- has front vowels, the ending is -хийн, not -хын.",
+   "explain_mn": "\"аргагүй\"-н өмнө үйл үг -х + харьяалахын тийн ялгалын хэлбэртэй байна. Эгшиг зохицоогоор эм үгэнд -хийн залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Хотын гэрлээс болж Сүүн замыг харж ___.",
+   "answer": "боломжгүй",
+   "options": [
+    "боломжгүй",
+    "аргагүй",
+    "мартагдашгүй",
+    "тоолошгүй"
+   ],
+   "translation": "Because of the city lights, it's impossible to see the Milky Way.",
+   "explain_en": "After the -ж form (харж), use боломжгүй for a practical, physical impossibility. аргагүй would need харахын, and the -шгүй words don't fit here.",
+   "explain_mn": "-ж хэлбэрийн дараа \"боломжгүй\" ирж, бодит нөхцөлөөс шалтгаалсан боломжгүй байдлыг илэрхийлнэ. \"Аргагүй\" бол \"харахын\" хэлбэртэй хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "We saw five planets, two of ___ were very bright.",
+   "answer": "which",
+   "options": [
+    "which",
+    "them",
+    "whom",
+    "that"
+   ],
+   "translation": "Бид таван гараг харсан бөгөөд тэдний хоёр нь их тод байв.",
+   "explain_en": "Planets are things, so we use \"which.\" \"Them\" would create two sentences joined only by a comma, and \"that\" can't follow \"of\" here.",
+   "explain_mn": "Гараг бол эд зүйл тул which хэрэглэнэ. \"Them\" бол хоёр тусдаа өгүүлбэр болж алдаа болно. \"Of\"-ын дараа \"that\" ирэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I invited ten friends, none of ___ had ever seen an eclipse.",
+   "answer": "whom",
+   "options": [
+    "whom",
+    "who",
+    "which",
+    "them"
+   ],
+   "translation": "Би арван найзаа урьсан бөгөөд тэдний хэн нь ч хиртэлт үзэж байгаагүй.",
+   "explain_en": "Friends are people, and after a preposition (of) we use the object form \"whom,\" not \"who.\"",
+   "explain_mn": "Найзууд нь хүн тул whom хэрэглэнэ. \"Of\" угтвар үгийн дараа who биш, заавал whom ирнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The guide showed us many photos, ___ of which were taken at the observatory.",
+   "answer": "most",
+   "options": [
+    "most",
+    "much",
+    "almost",
+    "mostly"
+   ],
+   "translation": "Хөтөч бидэнд олон зураг үзүүлсэн бөгөөд тэдний ихэнхийг нь ажиглалтын төвд авсан байв.",
+   "explain_en": "\"Most of which\" means \"the majority of them.\" \"Much\" is for uncountable nouns, while \"almost\" and \"mostly\" are adverbs and can't come before \"of which.\"",
+   "explain_mn": "\"Most of which\" нь \"тэдний ихэнх нь\" гэсэн утгатай. \"Much\" тоолж болохгүй нэрэнд, \"almost\", \"mostly\" нь дайвар үг тул энд тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Эмили, хурдан ир! Нар хиртэж эхэллээ.",
+   "en": "Emily, come quick! The eclipse is starting.",
+   "mn_latin": "Emili, khurdan ir! Nar khirtej ekhellee."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Хүлээ, шүүлтүүртэй нүдний шилээ зүүе. Нүцгэн нүдээр нар руу шууд харж болохгүй шүү дээ.",
+   "en": "Wait, let me put on my eclipse glasses. You shouldn't look straight at the sun with the naked eye.",
+   "mn_latin": "Khülee, shüültüürtei nüdnii shilee züüye. Nütsgen nüdeer nar ruu shuud kharj bolokhgüi shüü dee."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Зөв. Харин ажиглалтын төвийн дурангаар аюулгүй харж болно гэсэн.",
+   "en": "Right. But they said we can look safely through the observatory's telescope.",
+   "mn_latin": "Zöv. Kharin ajiglaltyn töviin durangaar ayuulgüi kharj bolno gesen."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Энд олон хүн ирсэн байна. Тэдний ихэнх нь оюутан бололтой.",
+   "en": "So many people came here. Most of them seem to be students.",
+   "mn_latin": "End olon khün irsen baina. Tednii ikhenkh ni oyuutan bololtoi."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм ээ. Харж байна уу, бүр харанхуй болчихлоо! Хэлэхийн аргагүй гайхалтай юм.",
+   "en": "Yes. Look, it's gotten completely dark! It's amazing beyond words.",
+   "mn_latin": "Tiim ee. Kharj baina uu, bür kharankhui bolchikhloo! Khelekhiin argagüi gaikhaltai yum."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэнгэрт гараг ч харагдаж байна. Энэ мөч надад мартагдашгүй дурсамж болно.",
+   "en": "You can even see a planet in the sky. I'll never forget this moment.",
+   "mn_latin": "Tengert garag ch kharagdaj baina. Ene möch nadad martagdashgüi dursamj bolno."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Дараагийн бүтэн хиртэлтийг Монголоос харж боломжгүй байх, тиймээс энэ азтай өдөр.",
+   "en": "We probably won't be able to see the next total eclipse from Mongolia, so today is a lucky day.",
+   "mn_latin": "Daraagiin büten khirteltiig Mongoloos kharj bolomjgüi baikh, tiimees ene aztai ödör."
+  }
+ ],
+ "culture_note": {
+  "en": "The Khureltogoot observatory sits in the mountains just outside Ulaanbaatar, far from the city lights, and it is the center of Mongolian astronomy research. In traditional Mongolian folklore, an eclipse happened when the monster Rahu swallowed the sun or the moon. In the past, people banged pots and made loud noises to make it spit them back out.",
+  "mn": "Хүрэлтогоотын одон орны ажиглалтын төв Улаанбаатарын ойролцоо, хотын гэрлээс хол уулын дунд байрладаг бөгөөд Монголын одон орон судлалын төв юм. Монгол ардын домогт Рахү хэмээх мангас нар, сарыг залгихад хиртэлт болдог гэж үздэг байв. Эрт үед хүмүүс түүнийг нар, сараа буцааж гаргуулахын тулд тогоо сав тогшиж, чимээ шуугиан гаргадаг байжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, accurate lesson. The main problems were one inaccurate suffix rule, one fill-in-the-blank with two possible answers, and one wrong pronoun form."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 19,
+  "notes": "The main recurring error was the misspelling боломгүй for боломжгүй. Also fixed a non-unique fill-in-the-blank, the mn intro, and one unnatural dialogue phrase.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "Standard spelling is боломжгүй"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the three Mongolian forms that the en intro mentions"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "en",
+    "why": "Gloss now matches the verb-phrase POS"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "мартагдасан/мартагдах also form grammatical attributes, so the answer wasn't unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "Correct spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Correct spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "боломгүй → боломжгүй"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Correct spelling"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "хамгаалалттай харж is unnatural; аюулгүй = safely"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "боломгүй → боломжгүй"
+   }
+  ]
+ }
+}

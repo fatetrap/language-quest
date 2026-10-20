@@ -1,0 +1,442 @@
+{
+ "intro_en": "Follow a heated radio debate about medical errors, overworked doctors, and patients' trust. You'll learn to contrast Mongolian adversative causatives, passives, and active verbs (шалгуулсан / шалгагдсан / шалгасан) and to weigh blame with English modal perfect continuous forms like \"they must have been overworked.\"",
+ "intro_mn": "Эмчийн алдаа, эмч нарын ачаалал, өвчтөний итгэлийн тухай радиогийн мэтгэлцээнийг сонсоно. Монгол хэлний үйлдүүлэх, үйлдэгдэх, үйлдэх хэвийн ялгааг (шалгуулсан / шалгагдсан / шалгасан) таньж, англи хэлэнд \"they must have been overworked\" гэх мэт модаль төгссөн үргэлжилсэн хэлбэрээр хэн буруутайг таамаглаж дүгнэх аргад суралцана.",
+ "vocab": [
+  {
+   "mn": "эмчийн алдаа",
+   "en": "medical error, malpractice",
+   "pos": "noun phrase",
+   "example_mn": "Эмчийн алдааг нуух ёсгүй.",
+   "example_en": "Medical errors should not be covered up.",
+   "mn_latin": "emchiin aldaa"
+  },
+  {
+   "mn": "мэргэжлийн хариуцлагын даатгал",
+   "en": "professional liability insurance",
+   "pos": "noun phrase",
+   "example_mn": "Олон эмчид мэргэжлийн хариуцлагын даатгал байхгүй.",
+   "example_en": "Many doctors don't have professional liability insurance.",
+   "mn_latin": "mergejliin khariutslagyn daatgal"
+  },
+  {
+   "mn": "хяналт шалгалт",
+   "en": "inspection, oversight",
+   "pos": "noun",
+   "example_mn": "Хяналт шалгалт жилд нэг л удаа ирдэг.",
+   "example_en": "Inspections happen only once a year.",
+   "mn_latin": "khyanalt shalgalt"
+  },
+  {
+   "mn": "ачаалал",
+   "en": "workload, overload",
+   "pos": "noun",
+   "example_mn": "Өвлийн улиралд эмч нарын ачаалал хоёр дахин нэмэгддэг.",
+   "example_en": "In winter, doctors' workload doubles.",
+   "mn_latin": "achaalal"
+  },
+  {
+   "mn": "итгэл",
+   "en": "trust",
+   "pos": "noun",
+   "example_mn": "Алдагдсан итгэлийг сэргээх амаргүй.",
+   "example_en": "Lost trust is not easy to rebuild.",
+   "mn_latin": "itgel"
+  },
+  {
+   "mn": "хариуцлага хүлээх",
+   "en": "to be held accountable, to take responsibility",
+   "pos": "verb phrase",
+   "example_mn": "Алдаа гаргасан хүн хариуцлага хүлээх ёстой.",
+   "example_en": "Whoever made the mistake should be held accountable.",
+   "mn_latin": "khariutslaga khüleekh"
+  },
+  {
+   "mn": "шалгуулах",
+   "en": "to be (adversely) inspected by; to have something inspected",
+   "pos": "verb (causative)",
+   "example_mn": "Эмнэлэг хяналтын байгууллагад шалгуулсан.",
+   "example_en": "The hospital got investigated by the regulator.",
+   "mn_latin": "shalguulakh"
+  },
+  {
+   "mn": "шалгагдах",
+   "en": "to be inspected, to be investigated",
+   "pos": "verb (passive)",
+   "example_mn": "Энэ хэрэг одоо шалгагдаж байна.",
+   "example_en": "This case is now under investigation.",
+   "mn_latin": "shalgagdakh"
+  },
+  {
+   "mn": "буруутгах",
+   "en": "to blame",
+   "pos": "verb",
+   "example_mn": "Бүх зүйлд сувилагчийг буруутгах хэрэггүй.",
+   "example_en": "Don't blame the nurse for everything.",
+   "mn_latin": "buruutgakh"
+  },
+  {
+   "mn": "шинэчлэл",
+   "en": "reform",
+   "pos": "noun",
+   "example_mn": "Эрүүл мэндийн салбарт шинэчлэл хэрэгтэй.",
+   "example_en": "The health sector needs reform.",
+   "mn_latin": "shinechlel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тэр эмнэлэг өнгөрсөн жил бүх бичиг баримтаа хяналтын байгууллагад шалгуулсан.",
+   "en": "Last year that hospital had all its records investigated by the regulator.",
+   "alt_mn": [],
+   "alt_en": [
+    "Last year that hospital got all its paperwork inspected by the regulatory agency."
+   ],
+   "mn_latin": "Ter emneleg öngörsön jil bükh bichig barimtaa khyanaltyn baiguullagad shalguulsan."
+  },
+  {
+   "mn": "Тэр эмч өмнө нь хоёр удаа шалгагдсан.",
+   "en": "That doctor had been investigated twice before.",
+   "alt_mn": [
+    "Тэр эмч урьд нь хоёр удаа шалгагдаж байсан."
+   ],
+   "alt_en": [
+    "That doctor has been investigated twice before."
+   ],
+   "mn_latin": "Ter emch ömnö ni khoyor udaa shalgagdsan."
+  },
+  {
+   "mn": "Комисс бүх баримтыг нэг бүрчлэн шалгасан.",
+   "en": "The commission examined every document one by one.",
+   "alt_mn": [],
+   "alt_en": [
+    "The commission checked all the documents one by one."
+   ],
+   "mn_latin": "Komiss bükh barimtyg neg bürchlen shalgasan."
+  },
+  {
+   "mn": "Эмч нар хэт их ачаалалтай ажиллаж байсан байх.",
+   "en": "The doctors must have been overworked.",
+   "alt_mn": [
+    "Эмч нар хэт их ачаалалтай байсан нь лавтай."
+   ],
+   "alt_en": [
+    "The doctors must have been working under too much pressure."
+   ],
+   "mn_latin": "Emch nar khet ikh achaalaltai ajillaj baisan baikh."
+  },
+  {
+   "mn": "Тэд цаг хэмнэхийн тулд ажлаа дутуу хийж байсан байж магадгүй.",
+   "en": "They may have been cutting corners to save time.",
+   "alt_mn": [],
+   "alt_en": [
+    "They might have been cutting corners to save time."
+   ],
+   "mn_latin": "Ted tsag khemnekhiin tuld ajlaa dutuu khiij baisan baij magadgüi."
+  },
+  {
+   "mn": "Сувилагч тунг шалгаж байх ёстой байсан.",
+   "en": "The nurse should have been checking the dosage.",
+   "alt_mn": [],
+   "alt_en": [
+    "The nurse ought to have been checking the dose."
+   ],
+   "mn_latin": "Suvilagch tung shalgaj baikh yostoi baisan."
+  },
+  {
+   "mn": "Ээж минь хоёр өөр эмнэлэгт буруу онош тавиулсан.",
+   "en": "My mother was given the wrong diagnosis at two different hospitals.",
+   "alt_mn": [],
+   "alt_en": [
+    "My mom got misdiagnosed at two different hospitals."
+   ],
+   "mn_latin": "Eej mini khoyor öör emnelegt buruu onosh taviulsan."
+  },
+  {
+   "mn": "Нэг эмч өдөрт тавин өвчтөн үздэг бол алдаа гарах нь гайхах зүйл биш.",
+   "en": "If one doctor sees fifty patients a day, it's no surprise that mistakes happen.",
+   "alt_mn": [],
+   "alt_en": [
+    "When a single doctor sees fifty patients a day, mistakes are hardly surprising."
+   ],
+   "mn_latin": "Neg emch ödört tavin övchtön üzdeg bol aldaa garakh ni gaikhakh züil bish."
+  },
+  {
+   "mn": "Эмчийн алдаанд зөвхөн эмчийг буруутгах нь шударга бус.",
+   "en": "Blaming only the doctor for medical errors is unfair.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's unfair to blame medical errors on the doctor alone."
+   ],
+   "mn_latin": "Emchiin aldaand zövkhön emchiig buruutgakh ni shudarga bus."
+  },
+  {
+   "mn": "Мэргэжлийн хариуцлагын даатгал бүх эмчид заавал байх ёстой.",
+   "en": "Professional liability insurance should be mandatory for every doctor.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every doctor should be required to have malpractice insurance."
+   ],
+   "mn_latin": "Mergejliin khariutslagyn daatgal bükh emchid zaaval baikh yostoi."
+  },
+  {
+   "mn": "Өвчтөнүүдийн эмч нарт итгэх итгэл жилээс жилд суларч байна.",
+   "en": "Patients' trust in doctors is weakening year after year.",
+   "alt_mn": [],
+   "alt_en": [
+    "Year by year, patients trust doctors less and less."
+   ],
+   "mn_latin": "Övchtönüüdiin emch nart itgekh itgel jilees jild sularch baina."
+  },
+  {
+   "mn": "Хэн хариуцлага хүлээх вэ гэдэг асуулт хариултгүй үлдсэн.",
+   "en": "The question of who is accountable remained unanswered.",
+   "alt_mn": [
+    "Хэн хариуцлага хүлээх нь тодорхойгүй хэвээр байна."
+   ],
+   "alt_en": [
+    "Who should be held accountable is still unclear."
+   ],
+   "mn_latin": "Khen khariutslaga khüleekh ve gedeg asuult khariultgüi üldsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Checked, got checked, or was checked? Active vs. adversative causative vs. passive",
+  "title_mn": "Шалгасан уу, шалгуулсан уу, шалгагдсан уу? Үйлдэх, үйлдүүлэх, үйлдэгдэх хэв",
+  "explain_en": "Mongolian gives you three ways to talk about an inspection, and in a debate each sends a different message. Active шалгасан: the subject does the checking (Комисс баримтыг шалгасан, 'The commission checked the documents'). Passive -гд-, шалгагдсан: the subject is checked, and the focus is neutral and formal. The agent, if mentioned, often takes the instrumental -аар/-ээр (прокуророор шалгагдсан, 'investigated by the prosecutor'). Adversative causative -уул/-үүл-, шалгуулсан: the subject 'undergoes' the action, usually unwillingly or to its cost. The agent takes the dative -д/-т, and the subject can even keep its own object in the accusative (Эмнэлэг бичиг баримтаа хяналтад шалгуулсан, 'The hospital got its records investigated by the regulator'). Think of the English 'got bitten,' 'had my wallet stolen': нохойд хазуулсан, онош тавиулсан. Debaters choose the causative to sound sympathetic or accusatory, and the passive to sound official.",
+  "explain_mn": "Монгол хэлэнд шалгалтын тухай гурван янзаар ярьж болох бөгөөд мэтгэлцээнд тус бүр өөр утга санаа илэрхийлнэ. Үйлдэх хэв, шалгасан: өгүүлэгдэхүүн өөрөө шалгана (Комисс баримтыг шалгасан, 'The commission checked the documents'). Үйлдэгдэх хэв -гд-, шалгагдсан: өгүүлэгдэхүүнийг шалгана, өнгө аяс нь төвийг сахисан, албан ёсны. Үйлдэгчийг дурдвал ихэвчлэн үйлдэх тийн -аар/-ээр нөхцөлтэй байна (прокуророор шалгагдсан, 'investigated by the prosecutor'). Үйлдүүлэх хэв -уул/-үүл-, шалгуулсан: өгүүлэгдэхүүн үйлийг ихэвчлэн хүсээгүй байдлаар эсвэл өөрийн хохиролтойгоор амсана. Үйлдэгч өгөх орших тийн -д/-т нөхцөлтэй байх ба өгүүлэгдэхүүн өөрийн тусагдахуунаа заах тийн ялгалаар хадгалж ч болно (Эмнэлэг бичиг баримтаа хяналтад шалгуулсан, 'The hospital got its records investigated by the regulator'). Англи хэлний 'got bitten', 'had my wallet stolen' гэдэгтэй жишиж болно: нохойд хазуулсан, онош тавиулсан. Мэтгэлцэгчид өрөвдсөн эсвэл буруутгасан өнгө аяс гаргахдаа үйлдүүлэх хэвийг, албан ёсны сонсогдохыг хүсвэл үйлдэгдэх хэвийг сонгодог.",
+  "examples": [
+   {
+    "mn": "Хяналтын комисс эмнэлгийг шалгасан.",
+    "en": "The oversight commission inspected the hospital.",
+    "mn_latin": "Khyanaltyn komiss emnelgiig shalgasan."
+   },
+   {
+    "mn": "Эмнэлэг хяналтын комиссоор шалгагдсан.",
+    "en": "The hospital was inspected by the oversight commission.",
+    "mn_latin": "Emneleg khyanaltyn komissoor shalgagdsan."
+   },
+   {
+    "mn": "Эмнэлэг хяналтын комисст шалгуулж, торгууль төлсөн.",
+    "en": "The hospital got investigated by the commission and had to pay a fine.",
+    "mn_latin": "Emneleg khyanaltyn komisst shalguulj, torguuli tölsön."
+   },
+   {
+    "mn": "Мэс засалч арван зургаан цаг зогсолтгүй ажиллаж байсан байх.",
+    "en": "The surgeon must have been working sixteen hours straight.",
+    "mn_latin": "Mes zasalch arvan zurgaan tsag zogsoltgüi ajillaj baisan baikh."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэр эмнэлэг бүх бичиг баримтаа хяналтын байгууллагад шалг___.",
+   "answer": "уулсан",
+   "options": [
+    "уулсан",
+    "агдсан",
+    "асан",
+    "аж"
+   ],
+   "translation": "That hospital had all its records investigated by the regulator.",
+   "explain_en": "The subject keeps its own object in the accusative (баримтаа), and the agent is in the dative (байгууллагад). Only the adversative causative -уул- allows this. A passive can't take a direct object.",
+   "explain_mn": "Үйлдэгдэх хэв тусагдахуун авч чаддаггүй. Энд \"баримтаа\" гэсэн тусагдахуун, \"байгууллагад\" гэсэн үйлдэгч байгаа тул үйлдүүлэх хэвийн -уул- нөхцөл тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ хэрэг одоо прокуророор ___ байна.",
+   "answer": "шалгагдаж",
+   "options": [
+    "шалгагдаж",
+    "шалгуулж",
+    "шалгаж",
+    "шалгагдах"
+   ],
+   "translation": "This case is now being investigated by the prosecutor.",
+   "explain_en": "The case itself undergoes the action, there is no object, and the agent is in the instrumental (прокуророор). That is the neutral, official passive -гд-. Before байна you need the converb -ж.",
+   "explain_mn": "Үйлдэгч нь үйлдэх тийн ялгалтаар (прокуророор) илэрсэн, тусагдахуунгүй тул үйлдэгдэх хэвийн -гд- нөхцөл хэрэгтэй. \"байна\"-гийн өмнө -ж нөхцөл орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Эмч нарын ___ хэт их байгаа нь алдаа гарах нэг шалтгаан.",
+   "answer": "ачаалал",
+   "options": [
+    "ачаалал",
+    "итгэл",
+    "шинэчлэл",
+    "даатгал"
+   ],
+   "translation": "Doctors' excessive workload is one reason mistakes happen.",
+   "explain_en": "Ачаалал means 'workload.' Only a workload can be 'too much' and lead to errors here.",
+   "explain_mn": "\"Хэт их\" байж, алдаа гаргахад хүргэх зүйл нь ачаалал юм. Итгэл, шинэчлэл, даатгал утгын хувьд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "They must have ___ working double shifts all month.",
+   "answer": "been",
+   "options": [
+    "been",
+    "be",
+    "being",
+    "had"
+   ],
+   "translation": "Тэд сарын турш давхар ээлжээр ажиллаж байсан байх.",
+   "explain_en": "The modal perfect continuous is modal + have + been + -ing. After 'have,' you need the past participle 'been.'",
+   "explain_mn": "Модаль төгссөн үргэлжилсэн хэлбэр: must + have + been + -ing. have-ийн дараа заавал been орно."
+  },
+  {
+   "lang": "en",
+   "text": "The staff may have been ___ corners to see more patients.",
+   "answer": "cutting",
+   "options": [
+    "cutting",
+    "cut",
+    "cuts",
+    "to cut"
+   ],
+   "translation": "Ажилтнууд олон өвчтөн үзэх гэж ажлаа дутуу хийж байсан байж магадгүй.",
+   "explain_en": "After 'have been,' use the -ing form. 'Cut corners' means doing a job badly to save time.",
+   "explain_mn": "\"have been\"-ий дараа үйл үг -ing хэлбэртэй байна. \"cut corners\" нь ажлыг дутуу, хялбарчилж хийх гэсэн хэлц."
+  },
+  {
+   "lang": "en",
+   "text": "The chart shows no checks for six hours. The nurse ___ have been monitoring the patient.",
+   "answer": "can't",
+   "options": [
+    "can't",
+    "must",
+    "had",
+    "will"
+   ],
+   "translation": "Картад зургаан цагийн турш ямар ч шалгалт тэмдэглэгдээгүй. Сувилагч өвчтөнийг хянаж байсан байх боломжгүй.",
+   "explain_en": "The evidence shows the nurse wasn't monitoring, so we use 'can't have been,' a confident negative deduction. 'Must' would say the opposite. 'Had have' and 'will have been' don't fit a deduction about the past.",
+   "explain_mn": "Нотолгоо нь хянаж байгаагүйг харуулж байгаа тул \"can't have been\" буюу \"байх боломжгүй\" гэсэн итгэлтэй үгүйсгэл тохирно. \"must\" бол эсрэг утга, \"had have\" дүрмийн хувьд буруу, \"will have been\" өнгөрсний дүгнэлтэд тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Сайн байцгаана уу, \"Олны дуу\" нэвтрүүлэгт тавтай морилно уу. Өнөөдөр эмчийн алдаанд хэн хариуцлага хүлээх вэ гэдгийг ярилцъя.",
+   "en": "Hello, and welcome to \"Voice of the People.\" Today we're discussing who should be held accountable for medical errors.",
+   "mn_latin": "Sain baitsgaana uu, \"Olny duu\" nevtrüülegt tavtai morilno uu. Önöödör emchiin aldaand khen khariutslaga khüleekh ve gedgiig yariltsya."
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Миний үйлчлүүлэгчийн хүү хоёр удаа буруу онош тавиулсан. Хэн ч уучлалт гуйгаагүй.",
+   "en": "My client's son was misdiagnosed twice. No one ever apologized.",
+   "mn_latin": "Minii üilchlüülegchiin khüü khoyor udaa buruu onosh taviulsan. Khen ch uuchlalt guigaagüi."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Харамсалтай байна. Гэхдээ тэр эмч өдөрт жаран өвчтөн үзэж байсан. Ядарч туйлдсан байсан байх.",
+   "en": "That's unfortunate. But that doctor was seeing sixty patients a day. He must have been exhausted.",
+   "mn_latin": "Kharamsaltai baina. Gekhdee ter emch ödört jaran övchtön üzej baisan. Yadarch tuildsan baisan baikh."
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Ачаалал шалтаг болохгүй. Яаран ажлаа дутуу хийж байсан байж магадгүй шүү дээ.",
+   "en": "Workload is no excuse. He may well have been rushing and cutting corners.",
+   "mn_latin": "Achaalal shaltag bolokhgüi. Yaaran ajlaa dutuu khiij baisan baij magadgüi shüü dee."
+  },
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Тэр эмнэлэг хяналтын байгууллагад шалгуулсан уу?",
+   "en": "Did that hospital get investigated?",
+   "mn_latin": "Ter emneleg khyanaltyn baiguullagad shalguulsan uu?"
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Шалгагдсан, гэвч комисс зөвхөн бичиг баримтыг шалгасан. Өвчтөнтэй уулзаагүй.",
+   "en": "It was investigated, but the commission only checked the paperwork. They never met the patient.",
+   "mn_latin": "Shalgagdsan, gevch komiss zövkhön bichig barimtyg shalgasan. Övchtöntei uulzaagüi."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Тийм учраас бид мэргэжлийн хариуцлагын даатгалыг албан журмын болгох шинэчлэл шаардаж байна. Тэгвэл өвчтөн нөхөн төлбөр авч, эмч ганцаараа буруутгагдахгүй.",
+   "en": "That's why we're calling for reform to make professional liability insurance mandatory. Then patients get compensated, and the doctor doesn't take all the blame.",
+   "mn_latin": "Tiim uchraas bid mergejliin khariutslagyn daatgalyg alban jurmyn bolgokh shinechlel shaardaj baina. Tegvel övchtön nökhön tölbör avch, emch gantsaaraa buruutgagdakhgüi."
+  },
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Нэг зүйл тодорхой: итгэлийг сэргээхгүй бол хэн ч ялахгүй.",
+   "en": "One thing is clear: unless trust is restored, nobody wins.",
+   "mn_latin": "Neg züil todorkhoi: itgeliig sergeekhgüi bol khen ch yalakhgüi."
+  }
+ ],
+ "culture_note": {
+  "en": "Call-in radio and TV debates are a popular forum in Mongolia for arguing over public issues, and \"эмчийн алдаа\" stories regularly spark national discussion. Doctors in crowded Ulaanbaatar state hospitals often see very large numbers of patients, especially during winter air-pollution season, so debates usually weigh individual negligence against systemic overload. Some families who lose trust in local care travel to South Korea or other countries for treatment.",
+  "mn": "Монголд олон нийтийн асуудлыг радио, телевизийн шууд утасдах нэвтрүүлгээр мэтгэлцэх нь түгээмэл бөгөөд эмчийн алдааны тухай мэдээ байнга олны анхаарлыг татдаг. Улаанбаатарын хүн ихтэй улсын эмнэлгүүдийн эмч нар, ялангуяа өвлийн утаатай улиралд маш олон өвчтөн үздэг. Тиймээс мэтгэлцээнд хувь хүний хайхрамжгүй байдал, тогтолцооны ачааллыг хооронд нь жишдэг. Дотоодын эмнэлэгт итгэх итгэлээ алдсан зарим гэр бүл Өмнөд Солонгос болон бусад оронд эмчлүүлэхээр явдаг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 6,
+  "notes": "Strong, coherent lesson. The main fix is an ambiguous English blank where 'should' was also correct. The rest are small Mongolian naturalness fixes."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Main problem: the mn grammar title and explanation covered a different topic than the en versions. Also fixed register, word choice and translation accuracy.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "The mn title covered a different topic (modal perfect) than the en title."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn explanation must match explain_en. It was explaining a different grammar point."
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The standard term for the active voice is үйлдэх хэв, not \"энгийн хэв\"."
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_en",
+    "why": "Closer to the Mongolian, which is about inspections, not inspectors."
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "A polite broadcast greeting needs \"морилно уу\"."
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "\"Харамсалтай\" means unfortunate, not terrible."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "The translation was missing \"яаран\" (rushing)."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "\"хяналт шалгалтад шалгуулсан\" is redundant and unnatural."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "\"албан журмын болгох\" is the natural way to say \"make mandatory\"."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "\"take all the blame alone\" is redundant."
+   }
+  ]
+ }
+}

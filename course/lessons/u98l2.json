@@ -1,0 +1,415 @@
+{
+ "intro_en": "Join a school chess club and play online. You'll learn the Mongolian names for chess pieces and moves, and how to say \"each time / every time\" with -х болгон and -х бүр.",
+ "intro_mn": "Сургуулийн шатрын дугуйлан болон онлайн шатрын тухай хичээл. Шатрын дүрс, нүүдлийн нэрсийг англиар сурч, \"each time / every time + өгүүлбэр\" бүтцийг эзэмшинэ.",
+ "vocab": [
+  {
+   "mn": "шатар",
+   "en": "chess",
+   "pos": "noun",
+   "example_mn": "Би долоо хоногт хоёр удаа шатар тоглодог.",
+   "example_en": "I play chess twice a week.",
+   "mn_latin": "shatar"
+  },
+  {
+   "mn": "хүү",
+   "en": "pawn",
+   "pos": "noun",
+   "example_mn": "Хүү урагшаа нэг нүд нүүдэг.",
+   "example_en": "A pawn moves forward one square.",
+   "mn_latin": "khüü"
+  },
+  {
+   "mn": "тэрэг",
+   "en": "rook",
+   "pos": "noun",
+   "example_mn": "Тэрэг шулуун явдаг.",
+   "example_en": "The rook moves in straight lines.",
+   "mn_latin": "tereg"
+  },
+  {
+   "mn": "бэрс",
+   "en": "queen",
+   "pos": "noun",
+   "example_mn": "Бэрсээ битгий амархан алдаарай.",
+   "example_en": "Don't lose your queen so easily.",
+   "mn_latin": "bers"
+  },
+  {
+   "mn": "мэх",
+   "en": "trick, tactic",
+   "pos": "noun",
+   "example_mn": "Багш маань бидэнд шинэ мэх зааж өглөө.",
+   "example_en": "Our teacher showed us a new tactic.",
+   "mn_latin": "mekh"
+  },
+  {
+   "mn": "шаг",
+   "en": "check",
+   "pos": "noun",
+   "example_mn": "Шаг! Ноёноо хамгаал.",
+   "example_en": "Check! Protect your king.",
+   "mn_latin": "shag"
+  },
+  {
+   "mn": "мад",
+   "en": "checkmate",
+   "pos": "noun",
+   "example_mn": "Тэр арван нүүдлээр мад хийлээ.",
+   "example_en": "She checkmated in ten moves.",
+   "mn_latin": "mad"
+  },
+  {
+   "mn": "тэнцээ",
+   "en": "draw (in a game)",
+   "pos": "noun",
+   "example_mn": "Тоглолт тэнцээгээр дууслаа.",
+   "example_en": "The game ended in a draw.",
+   "mn_latin": "tentsee"
+  },
+  {
+   "mn": "нүүх",
+   "en": "to move (a piece)",
+   "pos": "verb",
+   "example_mn": "Одоо таны нүүх ээлж.",
+   "example_en": "It's your turn to move.",
+   "mn_latin": "nüükh"
+  },
+  {
+   "mn": "дугуйлан",
+   "en": "club (after-school)",
+   "pos": "noun",
+   "example_mn": "Манай сургуульд шатрын дугуйлан бий.",
+   "example_en": "Our school has a chess club.",
+   "mn_latin": "duguilan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би нүүх болгондоо нэг минут боддог.",
+   "en": "Each time I move, I think for a minute.",
+   "alt_mn": [
+    "Би нүүх бүртээ нэг минут боддог."
+   ],
+   "alt_en": [
+    "Every time I move, I think for a minute.",
+    "Every time I make a move, I think for a minute."
+   ],
+   "mn_latin": "Bi nüükh bolgondoo neg minut boddog."
+  },
+  {
+   "mn": "Сарнай надад шаг өгөх болгондоо инээмсэглэдэг.",
+   "en": "Every time Sarnai puts me in check, she smiles.",
+   "alt_mn": [
+    "Сарнай надад шаг өгөх бүртээ инээмсэглэдэг."
+   ],
+   "alt_en": [
+    "Each time Sarnai puts me in check, she smiles."
+   ],
+   "mn_latin": "Sarnai nadad shag ögökh bolgondoo ineemsegledeg."
+  },
+  {
+   "mn": "Онлайнаар тоглох болгондоо би бэрсээ алддаг.",
+   "en": "Every time I play online, I lose my queen.",
+   "alt_mn": [
+    "Онлайнаар тоглох бүртээ би бэрсээ алддаг."
+   ],
+   "alt_en": [
+    "Each time I play online, I lose my queen."
+   ],
+   "mn_latin": "Onlainaar toglokh bolgondoo bi bersee alddag."
+  },
+  {
+   "mn": "Биднийг дугуйланд очих бүрт багш шинэ мэх заадаг.",
+   "en": "Each time we go to the club, the teacher shows us a new tactic.",
+   "alt_mn": [
+    "Биднийг дугуйланд очих болгонд багш шинэ мэх заадаг."
+   ],
+   "alt_en": [
+    "Every time we go to the club, the teacher teaches us a new trick."
+   ],
+   "mn_latin": "Bidniig duguiland ochikh bürt bagsh shine mekh zaadag."
+  },
+  {
+   "mn": "Хоёр хүүгээ алдсан ч тэр тэнцээ хийж чадсан.",
+   "en": "He lost two pawns but still managed a draw.",
+   "alt_mn": [],
+   "alt_en": [
+    "He lost two pawns but still managed to draw."
+   ],
+   "mn_latin": "Khoyor khüügee aldsan ch ter tentsee khiij chadsan."
+  },
+  {
+   "mn": "Тэр ердөө таван нүүдлээр мад хийсэн.",
+   "en": "She checkmated in just five moves.",
+   "alt_mn": [],
+   "alt_en": [
+    "He checkmated in only five moves."
+   ],
+   "mn_latin": "Ter yerdöö tavan nüüdleer mad khiisen."
+  },
+  {
+   "mn": "Төгсгөлийн шатанд тэрэг их хүчтэй болдог.",
+   "en": "Rooks become very strong in the endgame.",
+   "alt_mn": [],
+   "alt_en": [
+    "The rook gets very powerful in the endgame."
+   ],
+   "mn_latin": "Tögsgöliin shatand tereg ikh khüchtei boldog."
+  },
+  {
+   "mn": "Миний ах ялагдах болгондоо шатраа дахин өрдөг.",
+   "en": "Every time my brother loses, he sets up the pieces again.",
+   "alt_mn": [
+    "Миний ах ялагдах бүртээ шатраа дахин өрдөг."
+   ],
+   "alt_en": [
+    "Each time my brother loses, he sets up the board again."
+   ],
+   "mn_latin": "Minii akh yalagdakh bolgondoo shatraa dakhin ördög."
+  },
+  {
+   "mn": "Энэ тэнцээ бидний хувьд ялалттай адил.",
+   "en": "This draw is like a win for us.",
+   "alt_mn": [],
+   "alt_en": [
+    "For us, this draw is as good as a win."
+   ],
+   "mn_latin": "Ene tentsee bidnii khuvid yalalttai adil."
+  },
+  {
+   "mn": "Хүүгээ бэрс болгоход тэр их баярласан.",
+   "en": "When he promoted his pawn to a queen, he was really happy.",
+   "alt_mn": [],
+   "alt_en": [
+    "He was very happy when he turned his pawn into a queen."
+   ],
+   "mn_latin": "Khüügee bers bolgokhod ter ikh bayarlasan."
+  },
+  {
+   "mn": "Аппаа нээх болгонд надад шинэ даалгавар ирдэг.",
+   "en": "Each time I open the app, I get a new puzzle.",
+   "alt_mn": [
+    "Аппаа нээх бүрт надад шинэ даалгавар ирдэг."
+   ],
+   "alt_en": [
+    "Every time I open the app, I get a new puzzle."
+   ],
+   "mn_latin": "Appaa neekh bolgond nadad shine daalgavar irdeg."
+  },
+  {
+   "mn": "Намайг шаг өгөх бүрт тэр ноёноо хажуу тийш нүүлгэдэг.",
+   "en": "Every time I give check, he moves his king to the side.",
+   "alt_mn": [
+    "Намайг шаг өгөх болгонд тэр ноёноо хажуу тийш нүүлгэдэг."
+   ],
+   "alt_en": [
+    "Each time I put him in check, he moves his king sideways."
+   ],
+   "mn_latin": "Namaig shag ögökh bürt ter noyonoo khajuu tiish nüülgedeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "\"Each time\": -х болгон and -х бүр",
+  "title_mn": "\"Each time / every time\" + өгүүлбэр",
+  "explain_en": "To say \"each time / every time something happens,\" put the verb in its -х form and add болгон or бүр: нүүх болгон / нүүх бүр (\"each time [I] move\"). Both mean the same thing. Бүр sounds a bit more standard and written, while болгон is very common in everyday speech. Usually you add a case ending: бүрт / болгонд (\"at each time\"). When the action belongs to the subject of the sentence, use the reflexive form: бүртээ / болгондоо (\"each time I myself...\"). Example: Би нүүх болгондоо боддог. Note that бүр can also mean \"completely, even\" (бүр мартчихлаа), but болгон never does.",
+  "explain_mn": "Англиар \"... болгон, ... бүр\" гэж хэлэхдээ өгүүлбэрийн эхэнд \"Each time\" эсвэл \"Every time\" гэж тавиад, араас нь бүтэн өгүүлбэр (эзэн + үйл үг) бичнэ: Each time I move, I think. Хоёулаа ижил утгатай. Анхаарах зүйл: \"time\"-ийн араас \"when\" бичихгүй (Every time when I move гэж бичихгүй). Ирээдүйн тухай ярихдаа ч энэ хэсэгт одоо цагийг хэрэглэнэ: Every time you check me, I will move my king. Хоёр хэсгийг таслалаар тусгаарлана.",
+  "examples": [
+   {
+    "mn": "Би нүүх болгондоо самбараа сайн хардаг.",
+    "en": "Each time I move, I look at the board carefully.",
+    "mn_latin": "Bi nüükh bolgondoo sambaraa sain khardag."
+   },
+   {
+    "mn": "Түүнтэй тоглох бүрт би ялагддаг.",
+    "en": "Every time I play against him, I lose.",
+    "mn_latin": "Tüüntei toglokh bürt bi yalagddag."
+   },
+   {
+    "mn": "Дугуйланд очих болгондоо бид шинэ мэх сурдаг.",
+    "en": "Each time we go to the club, we learn a new tactic.",
+    "mn_latin": "Duguiland ochikh bolgondoo bid shine mekh surdag."
+   },
+   {
+    "mn": "Багш шаг өгөх бүрт \"Шаг!\" гэж хэлдэг.",
+    "en": "Every time the teacher gives check, he says \"Check!\"",
+    "mn_latin": "Bagsh shag ögökh bürt \"Shag!\" gej kheldeg."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би нүүх ___ сайн бодож байж нүүдэг.",
+   "answer": "болгондоо",
+   "options": [
+    "болгондоо",
+    "бүрийн",
+    "болгоод",
+    "бүхэн"
+   ],
+   "translation": "Each time I move, I think carefully first.",
+   "explain_en": "-х болгон + the reflexive ending -доо means \"each time I (the subject) do it.\" Бүрийн is genitive, болгоод means \"having made,\" and бүхэн means \"all\" and doesn't follow a verb this way.",
+   "explain_mn": "\"Each time I move\" гэдгийг \"нүүх болгондоо\" гэж хэлнэ. Үйлдэл нь өгүүлбэрийн эзэнд хамаатай учраас ерөнхий хамаатуулах \"-доо\" нөхцөл нэмэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Удаан тоглолт эцэст нь ___ дууслаа.",
+   "answer": "тэнцээгээр",
+   "options": [
+    "тэнцээгээр",
+    "тэнцээнд",
+    "тэнцээг",
+    "тэнцээтэй"
+   ],
+   "translation": "The long game finally ended in a draw.",
+   "explain_en": "\"To end in/with something\" uses the instrumental case: ...-аар/-ээр дуусах. Тэнцээ + гээр = тэнцээгээр. A -г- is inserted because the word ends in a long vowel.",
+   "explain_mn": "\"End in a draw\" гэдэг хэллэгт англиар \"in\" угтвар үг хэрэглэнэ: The game ended in a draw."
+  },
+  {
+   "lang": "mn",
+   "text": "Би онлайнаар тоглох бүр___ шинэ хүнтэй таардаг.",
+   "answer": "т",
+   "options": [
+    "т",
+    "ийг",
+    "ийн",
+    "ээр"
+   ],
+   "translation": "Every time I play online, I meet someone new.",
+   "explain_en": "Бүр takes the dative -т to mean \"at each time\": тоглох бүрт. Accusative, genitive, and instrumental endings don't fit this pattern.",
+   "explain_mn": "\"Every time I play online\" хэсэгт \"when\" нэмэхгүй. \"Every time\"-ийн араас шууд эзэн, үйл үг бичнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ time she moves her queen, she checks the whole board.",
+   "answer": "Each",
+   "options": [
+    "Each",
+    "All",
+    "Much",
+    "Both"
+   ],
+   "translation": "Тэр бэрсээ нүүх болгондоо самбарыг бүхэлд нь шалгадаг.",
+   "explain_en": "\"Each time\" (or \"every time\") introduces a repeated situation. \"All time,\" \"much time,\" and \"both time\" don't work here.",
+   "explain_mn": "\"-х болгон / -х бүр\" гэдгийг англиар \"Each time\" эсвэл \"Every time\" гэж хэлнэ. \"All\", \"Both\" энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Every time I ___ online, I lose my queen.",
+   "answer": "play",
+   "options": [
+    "play",
+    "playing",
+    "to play",
+    "plays"
+   ],
+   "translation": "Онлайнаар тоглох болгондоо би бэрсээ алддаг.",
+   "explain_en": "After \"every time,\" you need a full clause with a conjugated verb: I play. The -ing form and the infinitive can't stand alone here, and \"plays\" doesn't agree with \"I.\"",
+   "explain_mn": "\"Every time\"-ийн араас бүтэн өгүүлбэр ирнэ. Эзэн нь \"I\" учраас үйл үг \"play\" байна. Ердийн үйлдэл тул одоо цаг хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Each time the teacher shows a new tactic, we ___ it on the board.",
+   "answer": "try",
+   "options": [
+    "try",
+    "tries",
+    "trying",
+    "will tried"
+   ],
+   "translation": "Багш шинэ мэх үзүүлэх болгонд бид самбар дээр туршиж үздэг.",
+   "explain_en": "The main clause describes a habit, so it uses the simple present with \"we\": we try. \"Tries\" is for he/she/it, and \"will tried\" is ungrammatical.",
+   "explain_mn": "Байнга давтагддаг үйлдэл учраас энгийн одоо цаг хэрэглэнэ. Эзэн нь \"we\" тул \"try\" болно. \"Tries\" нь he/she/it-тэй хэрэглэгдэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батболд",
+   "mn": "За, хүүхдүүд ээ, өнөөдөр шинэ мэх үзнэ. Шатраа өрцгөөе.",
+   "en": "Okay, kids, today we're learning a new tactic. Let's set up the boards.",
+   "mn_latin": "Za, khüükhdüüd ee, önöödör shine mekh üzne. Shatraa örtsgööye."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Багш аа, би онлайнаар тоглох болгондоо бэрсээ эрт алддаг юм.",
+   "en": "Teacher, every time I play online, I lose my queen early.",
+   "mn_latin": "Bagsh aa, bi onlainaar toglokh bolgondoo bersee ert alddag yum."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Чи бэрсээ хэт эрт гаргаад байна. Эхлээд хүү, морио хөдөлгө.",
+   "en": "You're bringing your queen out too early. Move your pawns and knights first.",
+   "mn_latin": "Chi bersee khet ert gargaad baina. Ekhleed khüü, morio khödölgö."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэмүүлэн, нүүх болгондоо ноёноо шалгаж бай. Шаг!",
+   "en": "Temuulen, check on your king each time you move. Check!",
+   "mn_latin": "Temüülen, nüükh bolgondoo noyonoo shalgaj bai. Shag!"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Өө, үгүй ээ! Тэргээрээ хаачихъя.",
+   "en": "Oh no! Let me block it with my rook.",
+   "mn_latin": "Öö, ügüi ee! Tergeeree khaachikhya."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн нүүдэл. Гэхдээ дараагийн нүүдлээр мад байж магадгүй шүү.",
+   "en": "Good move. But it might be checkmate on the next move.",
+   "mn_latin": "Sain nüüdel. Gekhdee daraagiin nüüdleer mad baij magadgüi shüü."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Тайван бод. Ийм байдлаас заримдаа тэнцээ хийж болдог.",
+   "en": "Think calmly. Sometimes you can still get a draw from a position like this.",
+   "mn_latin": "Taivan bod. Iim baidlaas zarimdaa tentsee khiij boldog."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тэнцээ ч гэсэн надад ялалттай адил шүү!",
+   "en": "Even a draw would feel like a win to me!",
+   "mn_latin": "Tentsee ch gesen nadad yalalttai adil shüü!"
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia has its own traditional chess, shatar, with pieces often carved as a noyon (lord), bers, camels, horses, carts, and children. That's why the bishop is тэмээ (\"camel\") and the pawn is хүү (\"boy\"). Today international chess is very popular in Mongolian schools, and many Ulaanbaatar kids practice in after-school clubs and on online apps.",
+  "mn": "Монголчууд эртнээс өөрийн шатартай. Шатрын дүрсийг ноён, бэрс, тэмээ, морь, тэрэг, хүү хэлбэрээр сийлдэг байжээ. Тиймээс англиар \"bishop\" гэдгийг бид тэмээ, \"pawn\"-ийг хүү гэдэг. Өнөөдөр олон улсын шатар Монголын сургуулиудад их түгээмэл бөгөөд Улаанбаатарын олон хүүхэд дугуйлан болон онлайн аппаар бэлтгэл хийдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Accurate, natural lesson with correct grammar. Only a few small issues: an ambiguous sentence, one blank with two correct answers, and one unnatural collocation."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "The main errors were хүү ('pawn') used where 'pieces' was meant and one subordinate-clause subject in the wrong case. The rest is accurate.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "хүү means pawn, not chess pieces; use дүрс"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Хүүг нь (pawn) wrongly used for 'pieces'"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "subordinate subject differs from main subject; needs accusative, as in item 11"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "same case fix"
+   }
+  ]
+ }
+}

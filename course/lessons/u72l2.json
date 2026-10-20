@@ -1,0 +1,474 @@
+{
+ "intro_en": "You will learn to debate plans for satellite towns like New Kharkhorum and Zuunmod at a public forum. You will also use the Mongolian nominalizer -х нь with case endings, and English whatever/whoever clauses.",
+ "intro_mn": "Та Шинэ Хархорум, Зуунмод зэрэг дагуул хотын төслийн талаар олон нийтийн хэлэлцүүлэгт санал солилцож сурна. Мөн -х нь бүтцийг тийн ялгалын нөхцөлтэй хэрэглэх болон англи хэлний whatever/whoever өгүүлбэрийг сурна.",
+ "vocab": [
+  {
+   "mn": "дагуул хот",
+   "en": "satellite town",
+   "pos": "noun",
+   "example_mn": "Зуунмод бол Улаанбаатарын дагуул хот болж чадна.",
+   "example_en": "Zuunmod could become a satellite town of Ulaanbaatar.",
+   "mn_latin": "daguul khot"
+  },
+  {
+   "mn": "өдөр тутмын зорчилт",
+   "en": "commuting",
+   "pos": "noun",
+   "example_mn": "Өдөр тутмын зорчилт хүмүүсийн цагийг их иддэг.",
+   "example_en": "Commuting takes up a lot of people's time.",
+   "mn_latin": "ödör tutmyn zorchilt"
+  },
+  {
+   "mn": "нүүлгэн шилжүүлэлт",
+   "en": "relocation",
+   "pos": "noun",
+   "example_mn": "Нүүлгэн шилжүүлэлт айл өрхүүдэд хүнд тусдаг.",
+   "example_en": "Relocation is hard on families.",
+   "mn_latin": "nüülgen shiljüülelt"
+  },
+  {
+   "mn": "газар олголт",
+   "en": "land allocation",
+   "pos": "noun",
+   "example_mn": "Газар олголт ил тод байх ёстой.",
+   "example_en": "Land allocation must be transparent.",
+   "mn_latin": "gazar olgolt"
+  },
+  {
+   "mn": "бүсчлэл",
+   "en": "zoning",
+   "pos": "noun",
+   "example_mn": "Бүсчлэлийн төлөвлөгөөг шинэчилсэн.",
+   "example_en": "The zoning plan has been updated.",
+   "mn_latin": "büschlel"
+  },
+  {
+   "mn": "ногоон бүс",
+   "en": "green belt",
+   "pos": "noun",
+   "example_mn": "Ногоон бүсийг барилгаар дүүргэж болохгүй.",
+   "example_en": "The green belt must not be filled with buildings.",
+   "mn_latin": "nogoon büs"
+  },
+  {
+   "mn": "нүүх",
+   "en": "to move (relocate)",
+   "pos": "verb",
+   "example_mn": "Тэд хөдөө рүү нүүхээр шийдсэн.",
+   "example_en": "They decided to move to the countryside.",
+   "mn_latin": "nüükh"
+  },
+  {
+   "mn": "эсэргүүцэх",
+   "en": "to oppose",
+   "pos": "verb",
+   "example_mn": "Оршин суугчид төслийг эсэргүүцэж байна.",
+   "example_en": "Residents are opposing the project.",
+   "mn_latin": "esergüütsekh"
+  },
+  {
+   "mn": "дэд бүтэц",
+   "en": "infrastructure",
+   "pos": "noun",
+   "example_mn": "Шинэ хотод дэд бүтэц дутагдаж байна.",
+   "example_en": "The new town lacks infrastructure.",
+   "mn_latin": "ded bütets"
+  },
+  {
+   "mn": "оршин суугч",
+   "en": "resident",
+   "pos": "noun",
+   "example_mn": "Оршин суугчид хурал дээр үг хэлэв.",
+   "example_en": "Residents spoke at the meeting.",
+   "mn_latin": "orshin suugch"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Дагуул хот барих нь замын түгжрэлийг бууруулна.",
+   "en": "Building satellite towns will reduce traffic congestion.",
+   "alt_mn": [
+    "Дагуул хот барьснаар замын түгжрэл буурна."
+   ],
+   "alt_en": [
+    "Building a satellite town will ease traffic jams."
+   ],
+   "mn_latin": "Daguul khot barikh ni zamyn tügjreliig buuruulna."
+  },
+  {
+   "mn": "Би Зуунмод руу нүүхийг хүсэхгүй байна.",
+   "en": "I don't want to move to Zuunmod.",
+   "alt_mn": [
+    "Би Зуунмод руу нүүхийг хүсэхгүй."
+   ],
+   "alt_en": [
+    "I do not wish to relocate to Zuunmod."
+   ],
+   "mn_latin": "Bi Zuunmod ruu nüükhiig khüsekhgüi baina."
+  },
+  {
+   "mn": "Засгийн газар юу шийдсэн ч оршин суугчид өөрсдийн эрхээ шаардана.",
+   "en": "Whatever the government decides, residents will demand their rights.",
+   "alt_mn": [
+    "Засгийн газар ямар шийдвэр гаргасан ч оршин суугчид эрхээ шаардана."
+   ],
+   "alt_en": [
+    "No matter what the government decides, residents will demand their rights."
+   ],
+   "mn_latin": "Zasgiin gazar yuu shiidsen ch orshin suugchid öörsdiin erkhee shaardana."
+  },
+  {
+   "mn": "Тэдний нүүсэн нь бидэнд гайхмаар санагдсангүй.",
+   "en": "Their moving did not seem surprising to us.",
+   "alt_mn": [],
+   "alt_en": [
+    "It didn't surprise us that they moved."
+   ],
+   "mn_latin": "Tednii nüüsen ni bidend gaikhmaar sanagdsangüi."
+  },
+  {
+   "mn": "Өдөр тутмын зорчилт хүмүүсийг ядраадаг.",
+   "en": "Commuting wears people out.",
+   "alt_mn": [
+    "Өдөр бүр зорчих нь хүмүүсийг ядраана."
+   ],
+   "alt_en": [
+    "The daily commute tires people out."
+   ],
+   "mn_latin": "Ödör tutmyn zorchilt khümüüsiig yadraadag."
+  },
+  {
+   "mn": "Бид ногоон бүсийг хамгаалах нь чухал гэж үзэж байна.",
+   "en": "We believe that protecting the green belt is important.",
+   "alt_mn": [],
+   "alt_en": [
+    "We think it is important to protect the green belt."
+   ],
+   "mn_latin": "Bid nogoon büsiig khamgaalakh ni chukhal gej üzej baina."
+  },
+  {
+   "mn": "Хэн эсэргүүцсэн ч төсөл үргэлжилнэ.",
+   "en": "Whoever objects, the project will go ahead.",
+   "alt_mn": [
+    "Хэн эсэргүүцэж байсан ч төсөл үргэлжилнэ."
+   ],
+   "alt_en": [
+    "No matter who objects, the project will continue."
+   ],
+   "mn_latin": "Khen esergüütssen ch tösöl ürgeljilne."
+  },
+  {
+   "mn": "Газар олголт шударга байх нь хамгийн чухал.",
+   "en": "It is most important that land allocation be fair.",
+   "alt_mn": [],
+   "alt_en": [
+    "Fair land allocation matters most."
+   ],
+   "mn_latin": "Gazar olgolt shudarga baikh ni khamgiin chukhal."
+  },
+  {
+   "mn": "Тэр айлууд нүүснийг хэн ч мэдсэнгүй.",
+   "en": "Nobody knew that those families had moved.",
+   "alt_mn": [
+    "Тэр айлуудын нүүснийг хэн ч мэдсэнгүй."
+   ],
+   "alt_en": [
+    "No one knew those families had relocated."
+   ],
+   "mn_latin": "Ter ailuud nüüsniig khen ch medsengüi."
+  },
+  {
+   "mn": "Тэднийг нүүхэд нь тусламж үзүүлэх хэрэгтэй.",
+   "en": "Help should be given when they relocate.",
+   "alt_mn": [
+    "Нүүхэд нь тэдэнд тусламж үзүүлэх хэрэгтэй."
+   ],
+   "alt_en": [
+    "They need support when they move."
+   ],
+   "mn_latin": "Tedniig nüükhed ni tuslamj üzüülekh kheregtei."
+  },
+  {
+   "mn": "Бүсчлэлийн шинэ төлөвлөгөөг нийтэд танилцуулах ёстой.",
+   "en": "The new zoning plan must be presented to the public.",
+   "alt_mn": [],
+   "alt_en": [
+    "The new zoning plan should be made public."
+   ],
+   "mn_latin": "Büschleliin shine tölövlögöög niited taniltsuulakh yostoi."
+  },
+  {
+   "mn": "Хэзээ эхэлсэн ч дэд бүтэц эхлээд бэлэн байх ёстой.",
+   "en": "Whenever it starts, the infrastructure must be ready first.",
+   "alt_mn": [],
+   "alt_en": [
+    "No matter when it begins, infrastructure has to be ready first."
+   ],
+   "mn_latin": "Khezee ekhelsen ch ded bütets ekhleed belen baikh yostoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Verb + -х нь with case endings",
+  "title_mn": "-х нь бүтэц ба тийн ялгалын нөхцөл",
+  "explain_en": "In Mongolian, a verb stem + -х makes a verbal noun ('moving', 'to move'). It takes case endings like a noun: object (accusative) нүүхийг 'the moving', dative нүүхэд 'when/upon moving', ablative нүүхээс 'from moving', instrumental нүүхээр 'by moving'. With the third-person possessive нь, нүүх нь means 'his/her/their moving', and it is often used as the subject of a sentence. For completed events use the past form -сан with case: нүүснийг 'the fact that (someone) moved', нүүсэнд 'because of having moved'. Tip: -х is about plans or general ideas; -сан is about things that already happened. In English, whatever/whoever + clause gives a concessive meaning, 'no matter what / no matter who'. Example: Whatever the government decides, residents will protest. = Засгийн газар юу шийдсэн ч оршин суугчид эсэргүүцнэ. Whatever/whoever itself fills a role in its clause (subject or object), so no extra noun is added for that role. The clause is usually separated by a comma.",
+  "explain_mn": "Монгол хэлэнд үйл үгийн үндэс + -х нь үйл нэр ('нүүх', 'нүүх явдал') болж, нэр үгийн адил тийн ялгалын нөхцөл авна: заахын тийн ялгал нүүхийг, өгөх орших тийн ялгал нүүхэд ('нүүх үед'), гарахын тийн ялгал нүүхээс ('нүүхээс'), үйлдэхийн тийн ялгал нүүхээр ('нүүснээр, нүүх замаар'). Гуравдугаар биеийн нь-тэй нүүх нь гэвэл 'түүний/тэдний нүүх' гэсэн утгатай бөгөөд ихэвчлэн өгүүлбэрийн эзэн болдог. Өнгөрсөн, дууссан үйл явдлыг -сан + тийн ялгалаар илэрхийлнэ: нүүснийг ('нүүсэн явдлыг'), нүүсэнд ('нүүсний улмаас'). Зөвлөмж: -х нь төлөвлөгөө, ерөнхий санааг, -сан нь болсон зүйлийг илэрхийлнэ. Англи хэлний whatever/whoever + өгүүлбэр нь 'юу ч бай', 'хэн ч бай' гэсэн утгатай зөвшөөрөх өгүүлбэр юм. Жишээ: Whatever the government decides, residents will protest. = Засгийн газар юу шийдсэн ч оршин суугчид эсэргүүцнэ. Whatever/whoever нь өөрөө өгүүлбэрийн гишүүн (эзэн эсвэл тусагдахуун) болдог тул тэр байранд дахин нэр үг орохгүй. Мөн ихэвчлэн таслалаар тусгаарлана.",
+  "examples": [
+   {
+    "mn": "Би нүүхийг хүсэхгүй байна.",
+    "en": "I don't want to move.",
+    "mn_latin": "Bi nüükhiig khüsekhgüi baina."
+   },
+   {
+    "mn": "Нүүхэд нь тусламж хэрэгтэй.",
+    "en": "They need help when they move.",
+    "mn_latin": "Nüükhed ni tuslamj kheregtei."
+   },
+   {
+    "mn": "Тэд нүүснийг би мэдсэн.",
+    "en": "I knew that they had moved.",
+    "mn_latin": "Ted nüüsniig bi medsen."
+   },
+   {
+    "mn": "Хэн хэлсэн ч бид хэлэлцэнэ.",
+    "en": "Whoever says it, we will discuss it.",
+    "mn_latin": "Khen khelsen ch bid kheleltsene."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би хөдөө рүү нүүх___ хүсэж байна.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "ээс",
+    "эд",
+    "ийн"
+   ],
+   "translation": "I want to move to the countryside.",
+   "explain_en": "'Want' takes a direct object, so -х takes the accusative: нүүхийг.",
+   "explain_mn": "'Хүсэх' үйл үг тусагдахуун шаарддаг тул -х үйл нэр заахын тийн ялгалын -ийг нөхцөл авна: нүүхийг."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэднийг нүү___ нь бид тусалсан.",
+   "answer": "хэд",
+   "options": [
+    "хэд",
+    "хийг",
+    "хээс",
+    "хийн"
+   ],
+   "translation": "We helped them when they moved.",
+   "explain_en": "Dative -д gives 'when/upon': нүүхэд нь 'when they moved'.",
+   "explain_mn": "Өгөх орших тийн ялгалын -д нөхцөл 'тэр үед' гэсэн цагийн утга илэрхийлнэ: нүүхэд нь."
+  },
+  {
+   "lang": "mn",
+   "text": "Оршин суугчид айлууд нүү___ мэдсэн.",
+   "answer": "снийг",
+   "options": [
+    "снийг",
+    "сэнд",
+    "хэд",
+    "снээс"
+   ],
+   "translation": "The residents knew that the families had moved.",
+   "explain_en": "A completed fact uses past -сан plus accusative: нүүснийг.",
+   "explain_mn": "Болсон үйл явдлыг -сан + -ийг хэлбэрээр илэрхийлнэ: нүүснийг."
+  },
+  {
+   "lang": "en",
+   "text": "___ the government decides, residents will keep protesting.",
+   "answer": "Whatever",
+   "options": [
+    "Whatever",
+    "Whoever",
+    "Which",
+    "Whom"
+   ],
+   "translation": "Засгийн газар юу шийдсэн ч оршин суугчид эсэргүүцсээр байх болно.",
+   "explain_en": "'Whatever' stands for a thing: the thing the government decides.",
+   "explain_mn": "'Whatever' нь юм, зүйлийг заана: засгийн газрын шийдсэн зүйл."
+  },
+  {
+   "lang": "en",
+   "text": "___ opposes the plan, the forum must listen to them.",
+   "answer": "Whoever",
+   "options": [
+    "Whoever",
+    "Whatever",
+    "Wherever",
+    "Whichever"
+   ],
+   "translation": "Хэн төслийг эсэргүүцсэн ч хэлэлцүүлэг тэднийг сонсох ёстой.",
+   "explain_en": "'Whoever' refers to a person and is the subject of 'opposes'.",
+   "explain_mn": "'Whoever' нь хүнийг заана, 'opposes' үйл үгийн өгүүлбэрийн эзэн болно."
+  },
+  {
+   "lang": "en",
+   "text": "Whatever the zoning plan ___, the green belt should stay.",
+   "answer": "says",
+   "options": [
+    "says",
+    "will say",
+    "saying",
+    "said to"
+   ],
+   "translation": "Бүсчлэлийн төлөвлөгөө юу гэж заасан ч ногоон бүс хэвээр үлдэх ёстой.",
+   "explain_en": "After whatever, use the simple present for a general or future condition, not 'will'.",
+   "explain_mn": "Whatever-ийн дараа ирээдүйн утгыг ч энгийн одоо цагаар илэрхийлнэ, 'will' хэрэглэхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Дагуул хот барих нь замын түгжрэлийг багасгана гэдэгт би итгэж байна.",
+   "en": "I believe building a satellite town will reduce traffic congestion.",
+   "mn_latin": "Daguul khot barikh ni zamyn tügjreliig bagasgana gedegt bi itgej baina."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Гэхдээ ажлын байр байхгүй бол хүмүүс өдөр бүр Улаанбаатар руу зорчсоор байх болно.",
+   "en": "But if there are no jobs, people will keep commuting to Ulaanbaatar every day.",
+   "mn_latin": "Gekhdee ajlyn bair baikhgüi bol khümüüs ödör bür Ulaanbaatar ruu zorchsoor baikh bolno."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Үнэн. Зуунмод руу нүүхэд нь хүмүүст ажил, сургууль хэрэгтэй.",
+   "en": "True. When people move to Zuunmod, they need jobs and schools.",
+   "mn_latin": "Ünen. Zuunmod ruu nüükhed ni khümüüst ajil, surguuli kheregtei."
+  },
+  {
+   "speaker": "Oyun",
+   "mn": "Миний санааг зовоож буй зүйл бол газар олголт. Хэн нэгэн давуу эрх авах вий.",
+   "en": "My worry is land allocation. Someone might get preferential treatment.",
+   "mn_latin": "Minii sanaag zovooj bui züil bol gazar olgolt. Khen negen davuu erkh avakh vii."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Хэн авсан ч олголт нийтэд ил байх ёстой.",
+   "en": "Whoever gets it, the allocation must be public.",
+   "mn_latin": "Khen avsan ch olgolt niited il baikh yostoi."
+  },
+  {
+   "speaker": "Oyun",
+   "mn": "Ногоон бүсийг хамгаалах нь бас чухал. Бүсчлэлийг чанд мөрдөх хэрэгтэй.",
+   "en": "Protecting the green belt matters too. Zoning must be strictly enforced.",
+   "mn_latin": "Nogoon büsiig khamgaalakh ni bas chukhal. Büschleliig chand mördökh kheregtei."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Зөв. Засгийн газар юу шийдсэн ч бид хяналт тавьж байх ёстой.",
+   "en": "Right. Whatever the government decides, we must keep watch.",
+   "mn_latin": "Zöv. Zasgiin gazar yuu shiidsen ch bid khyanalt tavij baikh yostoi."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar holds about half of Mongolia's population, and many families live in ger districts without full utilities. Plans for satellite towns such as New Kharkhorum, in the Orkhon Valley, and Zuunmod, in Töv province, aim to relieve congestion and air pollution. Public forums on land and relocation are often heated, since land is closely tied to family and herding tradition.",
+  "mn": "Монгол Улсын хүн амын тал орчим нь Улаанбаатарт амьдардаг бөгөөд олон айл гэр хороололд бүрэн дэд бүтэцгүй амьдарч байна. Орхоны хөндийд байгуулах Шинэ Хархорум, Төв аймгийн Зуунмод зэрэг дагуул хотын төслүүд түгжрэл, агаарын бохирдлыг бууруулахыг зорьдог. Газар нь гэр бүл, мал аж ахуйн уламжлалтай нягт холбоотой тул газар, нүүлгэн шилжүүлэлтийн хэлэлцүүлэг ихэвчлэн ширүүн өрнөдөг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 22,
+  "notes": "Content is mostly good but has some unnatural Mongolian, a wrong-topic Mongolian grammar explanation, garbled explanations and a few case/direction errors."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 15,
+  "notes": "Fixed the concessive -сан ч order, a mismatched sentence, case terminology, vowel harmony, ambiguous options, and a culture fact error.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "Concessive is 'юу …-сан ч', not 'юу ч …-сан'"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "mn was a copy of the next sentence and didn't match the en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn must cover the same content; whatever/whoever part was only in mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Wrong case terms ('харъяалах бус'), 'нэр томьёоны эзэн' should be 'өгүүлбэрийн эзэн'; brought in line with en"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Correct concessive order: хэн …-сан ч"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "Vowel harmony: хөдөө рүү"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Accusative is заахын тийн ялгал, not харьцах; also fixes grammar"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Correct case name"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'нүүхийг мэдсэн' is also grammatical; replace with a clearly wrong option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'However'/'Whenever the government decides' are also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_mn",
+    "why": "Russian term подлежащее is not standard Mongolian"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Needs accusative: санааг зовоох"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Correct concessive order"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "New Kharkhorum is planned in the Orkhon Valley, not near the airport; match mn 'ширүүн'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Add the location so en and mn match"
+   }
+  ]
+ }
+}

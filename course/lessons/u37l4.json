@@ -1,0 +1,437 @@
+{
+ "intro_en": "In this lesson, you will follow a TV news discussion about unemployment, hiring, and skills shortages in Mongolia. You will learn how Mongolian builds nouns from verbs with -л, -лт, and -вар, and which words go with \"job\" and \"work\" in English.",
+ "intro_mn": "Энэ хичээлээр та ажилгүйдэл, ажилд авалт, ур чадварын дутагдлын тухай телевизийн мэдээний ярилцлагыг сонсоно. Мөн монгол хэлэнд үйл үгээс -л, -лт, -вар дагавраар нэр үг хэрхэн үүсдэгийг судлана. Англи хэлэнд \"job\", \"work\" үгтэй ямар үгс хамт хэрэглэгддэгийг ч үзнэ.",
+ "vocab": [
+  {
+   "mn": "ажлын байр",
+   "en": "job, vacancy",
+   "pos": "noun phrase",
+   "example_mn": "Энэ үйлдвэрт сул ажлын байр олон байна.",
+   "example_en": "This factory has many vacancies.",
+   "mn_latin": "ajlyn bair"
+  },
+  {
+   "mn": "цалин",
+   "en": "salary, wage",
+   "pos": "noun",
+   "example_mn": "Түүний цалин өнгөрсөн жил нэмэгдсэн.",
+   "example_en": "Her salary went up last year.",
+   "mn_latin": "tsalin"
+  },
+  {
+   "mn": "ажил олгогч",
+   "en": "employer",
+   "pos": "noun",
+   "example_mn": "Ажил олгогчид туршлагатай хүн хайж байна.",
+   "example_en": "Employers are looking for experienced people.",
+   "mn_latin": "ajil olgogch"
+  },
+  {
+   "mn": "ур чадвар",
+   "en": "skills",
+   "pos": "noun",
+   "example_mn": "Танд ямар ур чадвар байна вэ?",
+   "example_en": "What skills do you have?",
+   "mn_latin": "ur chadvar"
+  },
+  {
+   "mn": "ажилгүйдлийн түвшин",
+   "en": "unemployment rate",
+   "pos": "noun phrase",
+   "example_mn": "Ажилгүйдлийн түвшин буурч байна.",
+   "example_en": "The unemployment rate is falling.",
+   "mn_latin": "ajilgüidliin tüvshin"
+  },
+  {
+   "mn": "эрэлт",
+   "en": "demand",
+   "pos": "noun",
+   "example_mn": "Инженерийн эрэлт өндөр байна.",
+   "example_en": "Demand for engineers is high.",
+   "mn_latin": "erelt"
+  },
+  {
+   "mn": "нийлүүлэлт",
+   "en": "supply",
+   "pos": "noun",
+   "example_mn": "Мэргэжилтний нийлүүлэлт хангалтгүй байна.",
+   "example_en": "The supply of specialists is insufficient.",
+   "mn_latin": "niilüülelt"
+  },
+  {
+   "mn": "хүсэлт гаргах",
+   "en": "to apply, to submit a request",
+   "pos": "verb phrase",
+   "example_mn": "Би энэ ажилд хүсэлт гаргасан.",
+   "example_en": "I applied for this job.",
+   "mn_latin": "khüselt gargakh"
+  },
+  {
+   "mn": "ажиллах хүчний хомсдол",
+   "en": "labor shortage",
+   "pos": "noun phrase",
+   "example_mn": "Хөдөө ажиллах хүчний хомсдол байна.",
+   "example_en": "There is a labor shortage in the countryside.",
+   "mn_latin": "ajillakh khüchnii khomsdol"
+  },
+  {
+   "mn": "бүтэн цагийн ажил",
+   "en": "full-time position, full-time job",
+   "pos": "noun phrase",
+   "example_mn": "Тэр бүтэн цагийн ажил хайж байна.",
+   "example_en": "He is looking for a full-time job.",
+   "mn_latin": "büten tsagiin ajil"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ажилгүйдлийн түвшин өнгөрсөн оныхтой харьцуулахад бага зэрэг буурсан.",
+   "en": "The unemployment rate has fallen slightly compared with last year.",
+   "alt_mn": [
+    "Ажилгүйдлийн түвшин өнгөрсөн жилтэй харьцуулахад бага зэрэг буурсан."
+   ],
+   "alt_en": [
+    "Compared with last year, the unemployment rate has dropped slightly.",
+    "The unemployment rate fell slightly compared to last year."
+   ],
+   "mn_latin": "Ajilgüidliin tüvshin öngörsön onykhtoi kharitsuulakhad baga zereg buursan."
+  },
+  {
+   "mn": "Уул уурхайн салбарт инженерийн эрэлт өндөр байгаа ч нийлүүлэлт хангалтгүй байна.",
+   "en": "Demand for engineers in the mining sector is high, but the supply is insufficient.",
+   "alt_mn": [
+    "Уул уурхайн салбарт инженерийн эрэлт өндөр боловч нийлүүлэлт хангалтгүй байна."
+   ],
+   "alt_en": [
+    "In the mining sector, demand for engineers is high, but supply is not sufficient."
+   ],
+   "mn_latin": "Uul uurkhain salbart injyenyeriin erelt öndör baigaa ch niilüülelt khangaltgüi baina."
+  },
+  {
+   "mn": "Олон ажил олгогч залуучуудад практик ур чадвар дутагдаж байна гэж үздэг.",
+   "en": "Many employers believe that young people lack practical skills.",
+   "alt_mn": [
+    "Залуучуудад практик ур чадвар дутагдаж байна гэж олон ажил олгогч үздэг."
+   ],
+   "alt_en": [
+    "Many employers think young people lack practical skills."
+   ],
+   "mn_latin": "Olon ajil olgogch zaluuchuudad praktik ur chadvar dutagdaj baina gej üzdeg."
+  },
+  {
+   "mn": "Энэ компани ирэх жил таван зуун шинэ ажлын байр бий болгоно.",
+   "en": "This company will create five hundred new jobs next year.",
+   "alt_mn": [
+    "Энэ компани ирэх жил 500 шинэ ажлын байр бий болгоно."
+   ],
+   "alt_en": [
+    "Next year, this company will create 500 new jobs."
+   ],
+   "mn_latin": "Ene kompani irekh jil tavan zuun shine ajlyn bair bii bolgono."
+  },
+  {
+   "mn": "Би нэг уурхайн компанийн бүтэн цагийн ажлын байранд хүсэлт гаргасан.",
+   "en": "I applied for a full-time position at a mining company.",
+   "alt_mn": [
+    "Би нэг уурхайн компанид бүтэн цагийн ажилд орохоор хүсэлт гаргасан."
+   ],
+   "alt_en": [
+    "I applied for a full-time job at a mining company."
+   ],
+   "mn_latin": "Bi neg uurkhain kompaniin büten tsagiin ajlyn bairand khüselt gargasan."
+  },
+  {
+   "mn": "Барилгын салбарт ажиллах хүчний хомсдол үүсээд байна.",
+   "en": "A labor shortage has emerged in the construction sector.",
+   "alt_mn": [
+    "Барилгын салбарт ажиллах хүчний хомсдол үүссэн."
+   ],
+   "alt_en": [
+    "There is now a labor shortage in construction."
+   ],
+   "mn_latin": "Barilgyn salbart ajillakh khüchnii khomsdol üüseed baina."
+  },
+  {
+   "mn": "Цалин инфляцтай хөл нийлүүлэн өсөхгүй байна.",
+   "en": "Salaries are not keeping up with inflation.",
+   "alt_mn": [
+    "Цалингийн өсөлт инфляцаас хоцорч байна."
+   ],
+   "alt_en": [
+    "Wages aren't keeping pace with inflation."
+   ],
+   "mn_latin": "Tsalin inflyatstai khöl niilüülen ösökhgüi baina."
+  },
+  {
+   "mn": "Төгсөгчдийн ихэнх нь мэргэжлээрээ ажил олж чадахгүй байна.",
+   "en": "Most graduates can't find work in their field.",
+   "alt_mn": [
+    "Ихэнх төгсөгч мэргэжлээрээ ажил олж чадахгүй байна."
+   ],
+   "alt_en": [
+    "Most graduates are unable to find jobs in their field."
+   ],
+   "mn_latin": "Tögsögchdiin ikhenkh ni mergejleeree ajil olj chadakhgüi baina."
+  },
+  {
+   "mn": "Мэргэжлийн сургалтын хэрэгцээ жил ирэх тусам нэмэгдэж байна.",
+   "en": "The need for vocational training is growing every year.",
+   "alt_mn": [
+    "Мэргэжлийн сургалтын хэрэгцээ жилээс жилд нэмэгдэж байна."
+   ],
+   "alt_en": [
+    "The need for vocational training grows year after year."
+   ],
+   "mn_latin": "Mergejliin surgaltyn kheregtsee jil irekh tusam nemegdej baina."
+  },
+  {
+   "mn": "Тоног төхөөрөмжийн засвар үйлчилгээний мэргэжилтэн олоход хэцүү байна.",
+   "en": "It is hard to find equipment maintenance specialists.",
+   "alt_mn": [
+    "Тоног төхөөрөмжийн засвар үйлчилгээний мэргэжилтэн олдохгүй байна."
+   ],
+   "alt_en": [
+    "Equipment maintenance specialists are hard to find."
+   ],
+   "mn_latin": "Tonog tökhöörömjiin zasvar üilchilgeenii mergejilten olokhod khetsüü baina."
+  },
+  {
+   "mn": "Хөдөөнөөс хот руу шилжих хөдөлгөөн хөдөлмөрийн зах зээлд нөлөөлж байна.",
+   "en": "Migration from the countryside to the city is affecting the labor market.",
+   "alt_mn": [
+    "Хөдөөнөөс хот руу чиглэсэн шилжилт хөдөлгөөн хөдөлмөрийн зах зээлд нөлөөлж байна."
+   ],
+   "alt_en": [
+    "Rural-to-urban migration is affecting the job market."
+   ],
+   "mn_latin": "Khödöönöös khot ruu shiljikh khödölgöön khödölmöriin zakh zeeld nölöölj baina."
+  },
+  {
+   "mn": "Ажил хайгчид цалингаас гадна ажлын нөхцөлд ч анхаарч байна.",
+   "en": "Job seekers are paying attention not only to salary but also to working conditions.",
+   "alt_mn": [
+    "Ажил хайгчид зөвхөн цалин биш, ажлын нөхцөлийг ч анхаардаг болжээ."
+   ],
+   "alt_en": [
+    "Job seekers care about working conditions as well as salary."
+   ],
+   "mn_latin": "Ajil khaigchid tsalingaas gadna ajlyn nökhtsöld ch ankhaarch baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Nouns from verbs: -л, -лт, and -вар",
+  "title_mn": "Үйл үгээс нэр үг үүсгэх нь: -л, -лт, -вар",
+  "explain_en": "Mongolian often turns verbs into nouns with a suffix, and each suffix gives a slightly different meaning. The suffix -л (-ал/-эл/-ол/-өл, following vowel harmony) names an idea or a result: хөгжих 'to develop' → хөгжил 'development', мэдээлэх → мэдээлэл 'information', эрэх 'to search' → эрэл 'a search, a quest'. The suffix -лт (-алт/-элт/-олт/-өлт) names the process or an amount you can measure, which is why it is so common in economics: эрэх → эрэлт 'demand', нийлүүлэх → нийлүүлэлт 'supply', өсөх → өсөлт 'growth', буурах → бууралт 'decline', хүсэх → хүсэлт 'request, application'. Compare эрэл 'a search' with эрэлт 'demand'. The suffix -вар/-вэр marks the result of an action: засах 'to fix' → засвар 'repair', шийдэх → шийдвэр 'decision'. Not every noun comes from a verb, though. Ажил 'work' is a basic noun, and the verb ажиллах 'to work' was built from it. Хэрэгцээ 'need' comes from the noun хэрэг 'matter, use'. Learn these nouns in pairs: эрэлт ба нийлүүлэлт, засвар үйлчилгээ. In English, 'job' is countable (a job, two jobs), but 'work' is usually uncountable (I have a lot of work). Learn the fixed collocations: apply for a job, create jobs (not 'make jobs'), labor shortage, full-time position, look for work, lose your job. 'Labor' is the American spelling, and 'labour' is British.",
+  "explain_mn": "Монгол хэлэнд үйл үгэнд дагавар залгаж нэр үг үүсгэх нь түгээмэл. Дагавар бүр арай өөр утга өгдөг. -л (-ал/-эл/-ол/-өл, эгшиг зохицох ёсоор) дагавар нь ойлголт, үр дүнг нэрлэнэ: хөгжих → хөгжил, мэдээлэх → мэдээлэл, эрэх → эрэл (хайлт, эрэл хайгуул). -лт (-алт/-элт/-олт/-өлт) дагавар нь үйл явц эсвэл хэмжиж болох хэмжээг илэрхийлдэг тул эдийн засагт их хэрэглэгддэг: эрэх → эрэлт, нийлүүлэх → нийлүүлэлт, өсөх → өсөлт, буурах → бууралт, хүсэх → хүсэлт. \"Эрэл\" ба \"эрэлт\" хоёрыг харьцуулаарай. -вар/-вэр дагавар нь үйлийн үр дүнг заана: засах → засвар, шийдэх → шийдвэр. Гэхдээ бүх нэр үг үйл үгээс гардаггүй. \"Ажил\" бол үндсэн нэр үг бөгөөд \"ажиллах\" үйл үг түүнээс үүссэн. \"Хэрэгцээ\" нь \"хэрэг\" гэсэн нэр үгээс гаралтай. Эдгээрийг хосоор нь цээжлээрэй: эрэлт ба нийлүүлэлт, засвар үйлчилгээ. Англи хэлэнд \"job\" тоологддог (a job, two jobs), харин \"work\" ихэвчлэн тоологддоггүй (I have a lot of work). Тогтсон хослолуудыг цээжлээрэй: apply for a job (ажилд хүсэлт гаргах), create jobs (ажлын байр бий болгох; \"make jobs\" гэдэггүй), labor shortage (ажиллах хүчний хомсдол), full-time position (бүтэн цагийн ажил), look for work (ажил хайх), lose your job (ажилгүй болох). \"Labor\" нь Америк, \"labour\" нь Британи бичлэг.",
+  "examples": [
+   {
+    "mn": "Нүүрсний эрэлт өсөхөд нийлүүлэлт ч нэмэгдсэн.",
+    "en": "When demand for coal grew, supply increased too.",
+    "mn_latin": "Nüürsnii erelt ösökhöd niilüülelt ch nemegdsen."
+   },
+   {
+    "mn": "Эдийн засгийн өсөлт шинэ ажлын байр бий болгодог.",
+    "en": "Economic growth creates new jobs.",
+    "mn_latin": "Ediin zasgiin ösölt shine ajlyn bair bii bolgodog."
+   },
+   {
+    "mn": "Машин засварт орсон тул би ажилдаа автобусаар явсан.",
+    "en": "My car was in for repairs, so I took the bus to work.",
+    "mn_latin": "Mashin zasvart orson tul bi ajildaa avtobusaar yavsan."
+   },
+   {
+    "mn": "Тэр бүтэн цагийн ажилд хүсэлт гаргаж, шийдвэрийг хүлээж байна.",
+    "en": "She applied for a full-time position and is waiting for the decision.",
+    "mn_latin": "Ter büten tsagiin ajild khüselt gargaj, shiidveriig khüleej baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Уул уурхайд инженерийн ___ өндөр байна.",
+   "answer": "эрэлт",
+   "options": [
+    "эрэлт",
+    "эрэл",
+    "засвар",
+    "хүсэл"
+   ],
+   "translation": "Demand for engineers is high in mining.",
+   "explain_en": "Эрэлт (-лт) means 'demand', a measurable economic quantity. Эрэл (-л) means 'a search or quest' and does not fit here.",
+   "explain_mn": "Эдийн засгийн хэмжигдэхүйц ойлголтыг -лт дагавартай \"эрэлт\" гэдэг үгээр илэрхийлнэ. \"Эрэл\" нь хайгуул, хайлт гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Компанийн тоног төхөөрөмжид их ___ хийх шаардлагатай.",
+   "answer": "засвар",
+   "options": [
+    "засвар",
+    "засах",
+    "засаж",
+    "засагч"
+   ],
+   "translation": "The company's equipment needs a major repair.",
+   "explain_en": "The blank needs a noun meaning 'repair'. Засах + -вар gives засвар, the result of fixing. Засах and засаж are verb forms, and засагч means 'someone who fixes'.",
+   "explain_mn": "\"Их ___ хийх\" гэсэн бүтцэд нэр үг шаардлагатай. Засах үйл үгэнд -вар дагавар залгаж \"засвар\" болно. Засах, засаж нь үйл үгийн хэлбэр, засагч нь засдаг хүн гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Нүүрсний ___ нэмэгдсэнээр үнэ буурсан.",
+   "answer": "нийлүүлэлт",
+   "options": [
+    "нийлүүлэлт",
+    "нийлүүлэл",
+    "нийлүүлэх",
+    "нийлүүлж"
+   ],
+   "translation": "The price fell because the supply of coal increased.",
+   "explain_en": "'Supply' as an economic quantity takes -лт: нийлүүлэх → нийлүүлэлт. The form нийлүүлэл does not exist, and нийлүүлэх and нийлүүлж are verb forms.",
+   "explain_mn": "Эдийн засгийн \"нийлүүлэлт\" гэдэг ойлголт -лт дагавартай. \"Нийлүүлэл\" гэж үг байхгүй, \"нийлүүлэх\", \"нийлүүлж\" нь үйл үгийн хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "She ___ for a job at a mining company in Oyu Tolgoi.",
+   "answer": "applied",
+   "options": [
+    "applied",
+    "made",
+    "requested",
+    "submitted"
+   ],
+   "translation": "Тэр Оюу Толгойн нэгэн уурхайн компанид ажилд орохоор хүсэлт гаргасан.",
+   "explain_en": "The fixed collocation is 'apply for a job'. You submit an application, but you don't 'submit for' a job.",
+   "explain_mn": "\"Ажилд хүсэлт гаргах\" нь англиар \"apply for a job\" гэсэн тогтвортой хослол юм. \"Submit\" бол \"submit an application\" гэж хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The new copper plant will ___ about 300 jobs.",
+   "answer": "create",
+   "options": [
+    "create",
+    "do",
+    "rise",
+    "raise"
+   ],
+   "translation": "Зэсийн шинэ үйлдвэр 300 орчим ажлын байр бий болгоно.",
+   "explain_en": "Jobs are 'created'. 'Do jobs' means to carry out tasks, and 'rise' and 'raise' don't collocate with jobs this way.",
+   "explain_mn": "\"Ажлын байр бий болгох\" нь \"create jobs\" болно. \"Do a job\" нь ажил гүйцэтгэх гэсэн өөр утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Many mining towns are facing a labor ___.",
+   "answer": "shortage",
+   "options": [
+    "shortage",
+    "lack",
+    "few",
+    "missing"
+   ],
+   "translation": "Олон уурхайн хот ажиллах хүчний хомсдолтой тулгараад байна.",
+   "explain_en": "'Labor shortage' is the standard collocation. You can say 'a lack of workers', but not 'a labor lack'.",
+   "explain_mn": "\"Ажиллах хүчний хомсдол\" нь \"labor shortage\" гэсэн тогтсон хослол. \"Lack\"-ийг \"a lack of workers\" гэж хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Сайн байцгаана уу, \"Эдийн засгийн цаг\" нэвтрүүлэгт тавтай морилно уу. Өнөөдөр бид хөдөлмөрийн зах зээлийн талаар ярилцана. Батболд аа, ажилгүйдлийн түвшин одоо ямар байна вэ?",
+   "en": "Hello, and welcome to \"Economy Hour.\" Today we're talking about the labor market. Batbold, what is the unemployment rate right now?",
+   "mn_latin": "Sain baitsgaana uu, \"Ediin zasgiin tsag\" nevtrüülegt tavtai morilno uu. Önöödör bid khödölmöriin zakh zeeliin talaar yariltsana. Batbold aa, ajilgüidliin tüvshin odoo yamar baina ve?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Албан ёсны тоогоор бага зэрэг буурсан. Гэхдээ албан бус салбарт ажиллаж байгаа хүмүүс энэ тоонд бүрэн тусгагдаагүй.",
+   "en": "According to the official figures, it has fallen slightly. But people working in the informal sector aren't fully reflected in that number.",
+   "mn_latin": "Alban yosny toogoor baga zereg buursan. Gekhdee alban bus salbart ajillaj baigaa khümüüs ene toond büren tusgagdaagüi."
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Нэг талаас ажилгүй хүн олон, нөгөө талаас ажил олгогчид хүн олдохгүй байна гэж гомдоллодог. Яагаад ийм байна вэ?",
+   "en": "On one hand, many people are unemployed. On the other, employers complain they can't find workers. Why is that?",
+   "mn_latin": "Neg talaas ajilgüi khün olon, nögöö talaas ajil olgogchid khün oldokhgüi baina gej gomdollodog. Yaagaad iim baina ve?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Энэ бол ур чадварын асуудал. Гагнуурчин, засвар үйлчилгээний техникчийн эрэлт өндөр байгаа ч нийлүүлэлт хангалтгүй байна.",
+   "en": "It's a skills problem. Demand for welders and maintenance technicians is high, but the supply is insufficient.",
+   "mn_latin": "Ene bol ur chadvaryn asuudal. Gagnuurchin, zasvar üilchilgeenii tyekhnikchiin erelt öndör baigaa ch niilüülelt khangaltgüi baina."
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Харин их сургууль төгсөгчдийн хувьд ямар байна вэ?",
+   "en": "And what about university graduates?",
+   "mn_latin": "Kharin ikh surguuli tögsögchdiin khuvid yamar baina ve?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Олон залуу бүтэн цагийн ажилд хүсэлт гаргадаг ч мэргэжлээрээ ажил олж чаддаггүй. Зарим нь Солонгос руу ажиллахаар явж байна.",
+   "en": "Many young people apply for full-time positions but can't find work in their field. Some are going to Korea to work.",
+   "mn_latin": "Olon zaluu büten tsagiin ajild khüselt gargadag ch mergejleeree ajil olj chaddaggüi. Zarim ni Solongos ruu ajillakhaar yavj baina."
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Тэгвэл шинэ ажлын байр бий болгохын тулд юу хийх хэрэгтэй вэ?",
+   "en": "So what needs to be done to create new jobs?",
+   "mn_latin": "Tegvel shine ajlyn bair bii bolgokhyn tuld yuu khiikh kheregtei ve?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Мэргэжлийн сургалтыг хөгжүүлж, уул уурхайгаас гадна бусад салбарыг дэмжих хэрэгтэй. Тэгэхгүй бол ажиллах хүчний хомсдол улам нэмэгдэнэ.",
+   "en": "We need to develop vocational training and support sectors other than mining. Otherwise, the labor shortage will only get worse.",
+   "mn_latin": "Mergejliin surgaltyg khögjüülj, uul uurkhaigaas gadna busad salbaryg demjikh kheregtei. Tegekhgüi bol ajillakh khüchnii khomsdol ulam nemegdene."
+  }
+ ],
+ "culture_note": {
+  "en": "Mining produces a large share of Mongolia's GDP and exports, but it employs only a small share of the country's workers, so economic growth does not always bring many new jobs. Many Mongolians work in the informal economy, for example in small trade, herding, or driving taxis. Tens of thousands have gone abroad to work, especially to South Korea. As a result, many employers in Ulaanbaatar and in mining towns report shortages of skilled technicians, even while many young graduates struggle to find work.",
+  "mn": "Уул уурхай Монголын ДНБ болон экспортод том хувь эзэлдэг ч нийт ажиллагсдын багахан хэсгийг л ажлын байраар хангадаг. Тиймээс эдийн засгийн өсөлт тэр бүр олон ажлын байр бий болгодоггүй. Олон хүн жижиг худалдаа, мал аж ахуй, такси жолоодох зэрэг албан бус салбарт ажилладаг. Хэдэн арван мянган хүн гадаадад, ялангуяа Өмнөд Солонгост ажиллахаар явсан. Үүний улмаас олон залуу төгсөгч ажил олж ядаж байхад Улаанбаатар болон уурхайн хотуудын ажил олгогчид мэргэжилтэй техникч дутагдаж байна гэж ярьдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A strong, natural lesson with accurate explanations. One fill-in-the-blank had two correct answers, and the host's welcome needed the polite form."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 6,
+  "notes": "The main problem was the grammar section: the mn title and explanation covered a different topic from the en version, so both are aligned now. One fill-in-the-blank had a second option that could also fit, and it was replaced.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "The mn title was about English collocations and did not match title_en."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Added the job/work collocation part so the en and mn explanations cover the same content."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn explanation covered only English collocations and did not match explain_en."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'Нийлүүлэгч нэмэгдсэнээр' (more suppliers) is also arguably correct, so the answer was not the only option."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Updated to match the new options."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Updated to match the new options."
+   }
+  ]
+ }
+}

@@ -1,0 +1,503 @@
+{
+ "intro_en": "You will learn how to browse an app or website, add items to your cart, and place an order. You will also practice 'make + object + verb' in English and the purpose ending -хаар in Mongolian.",
+ "intro_mn": "Та апп эсвэл вэбсайтаар бараа сонгох, сагсандаа нэмэх, захиалга өгөх үгсийг сурна. Мөн англи хэлний 'make + object + verb' бүтэц болон монгол хэлний -хаар хэлбэрийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "сагс",
+   "en": "cart, basket",
+   "pos": "noun",
+   "example_mn": "Би хоёр цамцыг сагсандаа нэмсэн.",
+   "example_en": "I added two shirts to my cart.",
+   "mn_latin": "sags"
+  },
+  {
+   "mn": "захиалга",
+   "en": "order",
+   "pos": "noun",
+   "example_mn": "Таны захиалга баталгаажлаа.",
+   "example_en": "Your order has been confirmed.",
+   "mn_latin": "zakhialga"
+  },
+  {
+   "mn": "нэмэх",
+   "en": "to add",
+   "pos": "verb",
+   "example_mn": "Энэ бүтээгдэхүүнийг сагсандаа нэмээрэй.",
+   "example_en": "Please add this product to your cart.",
+   "mn_latin": "nemekh"
+  },
+  {
+   "mn": "хөнгөлөлт",
+   "en": "discount",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр бүх гуталд хөнгөлөлт байна.",
+   "example_en": "There is a discount on all shoes today.",
+   "mn_latin": "khöngölölt"
+  },
+  {
+   "mn": "төлбөр",
+   "en": "payment",
+   "pos": "noun",
+   "example_mn": "Төлбөрөө картаар хийж болох уу?",
+   "example_en": "Can I make the payment by card?",
+   "mn_latin": "tölbör"
+  },
+  {
+   "mn": "апп",
+   "en": "app",
+   "pos": "noun",
+   "example_mn": "Энэ аппыг утсандаа татаж аваарай.",
+   "example_en": "Download this app on your phone.",
+   "mn_latin": "app"
+  },
+  {
+   "mn": "сонгох",
+   "en": "to choose, select",
+   "pos": "verb",
+   "example_mn": "Размераа сонгоно уу.",
+   "example_en": "Please select your size.",
+   "mn_latin": "songokh"
+  },
+  {
+   "mn": "хүргэлт",
+   "en": "delivery",
+   "pos": "noun",
+   "example_mn": "Хүргэлт хоёр хоногт ирнэ.",
+   "example_en": "Delivery will arrive in two days.",
+   "mn_latin": "khürgelt"
+  },
+  {
+   "mn": "нэвтрэх",
+   "en": "to log in",
+   "pos": "verb",
+   "example_mn": "Захиалахын өмнө нэвтрэх хэрэгтэй.",
+   "example_en": "You need to log in before ordering.",
+   "mn_latin": "nevtrekh"
+  },
+  {
+   "mn": "баталгаажуулах",
+   "en": "to confirm",
+   "pos": "verb",
+   "example_mn": "Захиалгаа баталгаажуулна уу.",
+   "example_en": "Please confirm your order.",
+   "mn_latin": "batalgaajuulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би гутал захиалахаар сайт руу орлоо.",
+   "en": "I went to the website to order shoes.",
+   "alt_mn": [
+    "Би гутал захиалахаар вэбсайт руу орлоо."
+   ],
+   "alt_en": [
+    "I visited the website in order to order shoes.",
+    "I went onto the site to order shoes."
+   ],
+   "mn_latin": "Bi gutal zakhialakhaar sait ruu orloo."
+  },
+  {
+   "mn": "Апп намайг дахин нэвтрэхийг шаарддаг.",
+   "en": "The app makes me log in again.",
+   "alt_mn": [
+    "Апп дахин нэвтрэхийг шаарддаг."
+   ],
+   "alt_en": [
+    "The app forces me to log in again."
+   ],
+   "mn_latin": "App namaig dakhin nevtrekhiig shaarddag."
+  },
+  {
+   "mn": "Сагсандаа юу нэмсэн бэ?",
+   "en": "What did you add to your cart?",
+   "alt_mn": [
+    "Та сагсандаа юу нэмсэн бэ?"
+   ],
+   "alt_en": [
+    "What have you added to your cart?"
+   ],
+   "mn_latin": "Sagsandaa yuu nemsen be?"
+  },
+  {
+   "mn": "Хөнгөлөлт авахаар би купон код оруулсан.",
+   "en": "I entered a coupon code to get a discount.",
+   "alt_mn": [
+    "Хөнгөлөлт авахын тулд би купон код оруулсан."
+   ],
+   "alt_en": [
+    "I put in a coupon code to get a discount."
+   ],
+   "mn_latin": "Khöngölölt avakhaar bi kupon kod oruulsan."
+  },
+  {
+   "mn": "Төлбөр хийхээс өмнө захиалгаа шалгаарай.",
+   "en": "Check your order before you pay.",
+   "alt_mn": [
+    "Төлбөр төлөхөөс өмнө захиалгаа шалгаарай."
+   ],
+   "alt_en": [
+    "Check your order before making the payment."
+   ],
+   "mn_latin": "Tölbör khiikhees ömnö zakhialgaa shalgaarai."
+  },
+  {
+   "mn": "Энэ сайт мөнгө төлөхөд намайг удаан хүлээлгэсэн.",
+   "en": "This site made me wait a long time to pay.",
+   "alt_mn": [
+    "Энэ сайт төлбөр хийхэд намайг удаан хүлээлгэсэн."
+   ],
+   "alt_en": [
+    "This website made me wait a long time to pay."
+   ],
+   "mn_latin": "Ene sait möngö tölökhöd namaig udaan khüleelgesen."
+  },
+  {
+   "mn": "Размераа сонгоод сагсандаа нэм.",
+   "en": "Choose your size and add it to your cart.",
+   "alt_mn": [
+    "Размераа сонгоод сагсандаа нэмээрэй."
+   ],
+   "alt_en": [
+    "Select your size and add it to the cart."
+   ],
+   "mn_latin": "Razmyeraa songood sagsandaa nem."
+  },
+  {
+   "mn": "Захиалгаа баталгаажуулахаар имэйлээ шалгалаа.",
+   "en": "I checked my email to confirm my order.",
+   "alt_mn": [
+    "Захиалгаа баталгаажуулахаар имэйл рүүгээ орлоо."
+   ],
+   "alt_en": [
+    "I checked my email in order to confirm my order."
+   ],
+   "mn_latin": "Zakhialgaa batalgaajuulakhaar imeilee shalgalaa."
+  },
+  {
+   "mn": "Хямдрал нь намайг хэрэггүй зүйл авахад хүргэсэн.",
+   "en": "The sale made me buy things I didn't need.",
+   "alt_mn": [
+    "Хямдрал намайг хэрэггүй зүйл худалдаж авахад хүргэсэн."
+   ],
+   "alt_en": [
+    "The sale got me to buy things I didn't need."
+   ],
+   "mn_latin": "Khyamdral ni namaig khereggüi züil avakhad khürgesen."
+  },
+  {
+   "mn": "Хүргэлтийн хаягаа оруулаад төлбөрөө хий.",
+   "en": "Enter your delivery address and make the payment.",
+   "alt_mn": [
+    "Хүргэлтийн хаягаа бичээд төлбөрөө хийгээрэй."
+   ],
+   "alt_en": [
+    "Type in your delivery address and pay."
+   ],
+   "mn_latin": "Khürgeltiin khayagaa oruulaad tölböröö khii."
+  },
+  {
+   "mn": "Шинэ апп татаж авахаар дэлгүүрийн хуудас руу орсон.",
+   "en": "I went to the store page to download the new app.",
+   "alt_mn": [
+    "Шинэ апп татахаар дэлгүүрийн хуудас руу орсон."
+   ],
+   "alt_en": [
+    "I opened the store page to get the new app."
+   ],
+   "mn_latin": "Shine app tataj avakhaar delgüüriin khuudas ruu orson."
+  },
+  {
+   "mn": "Нууц үгээ мартсан болохоор дахин захиалга өгөхөд хэцүү болсон.",
+   "en": "Forgetting my password made it hard for me to order again.",
+   "alt_mn": [
+    "Нууц үгээ мартсанаас болж дахин захиалахад хэцүү болсон."
+   ],
+   "alt_en": [
+    "Forgetting my password made ordering again difficult."
+   ],
+   "mn_latin": "Nuuts ügee martsan bolokhoor dakhin zakhialga ögökhöd khetsüü bolson."
+  }
+ ],
+ "grammar": {
+  "title_en": "Purpose with -хаар and 'make + object + verb'",
+  "title_mn": "-хаар хэлбэр ба 'make + тусагдахуун + үйл үг'",
+  "explain_en": "In Mongolian, add -хаар (-хаар/-хээр/-хоор/-хөөр by vowel harmony) to a verb stem to say you go or do something in order to do another action: захиалахаар орлоо = 'I went in to order'. It usually goes with motion verbs like орох, очих, ирэх, явах. The meaning is 'in order to', so the subject is the same in both parts. In English, 'make + object + base verb' means someone or something forces or causes you to do something: 'The app makes me log in again.' Do not use 'to' after make: say 'makes me log in', not 'makes me to log in'. In the passive, 'to' appears: 'I was made to log in.'",
+  "explain_mn": "Монгол хэлэнд үйл үгийн үндэс дээр -хаар (эгшиг зохицох ёсоор -хаар/-хээр/-хоор/-хөөр) залгаж, өөр нэг үйлдэл хийх зорилгоор явах, ямар нэг юм хийхийг илэрхийлнэ: захиалахаар орлоо = 'I went in to order'. Ихэвчлэн орох, очих, ирэх, явах зэрэг хөдөлгөөний үйлтэй хэрэглэгдэнэ. 'Зорилго' утгатай учраас хоёр хэсгийн үйлийг нэг хүн хийнэ. Англи хэлэнд 'make + тусагдахуун + үйлийн үндсэн хэлбэр' нь ямар нэг зүйл эсвэл хэн нэгэн таныг ямар нэг үйлдэл хийхэд хүргэх, албадах гэсэн утгатай: 'The app makes me log in again.' (Апп намайг дахин нэвтрэхийг шаарддаг.) 'make'-ийн дараа 'to' хэрэглэхгүй: 'makes me log in' гэнэ, 'makes me to log in' гэж болохгүй. Идэвхгүй хэвд 'to' гарч ирдэг: 'I was made to log in.'",
+  "examples": [
+   {
+    "mn": "Би хувцас захиалахаар апп нээлээ.",
+    "en": "I opened the app to order clothes.",
+    "mn_latin": "Bi khuvtsas zakhialakhaar app neelee."
+   },
+   {
+    "mn": "Бид хөнгөлөлт авахаар Цагаан сарын өмнө сайт руу орсон.",
+    "en": "Before Tsagaan Sar, we went onto the site to get a discount.",
+    "mn_latin": "Bid khöngölölt avakhaar Tsagaan saryn ömnö sait ruu orson."
+   },
+   {
+    "mn": "Сайт намайг карт бүртгүүлэхэд хүргэсэн.",
+    "en": "The site made me register a card.",
+    "mn_latin": "Sait namaig kart bürtgüülekhed khürgesen."
+   },
+   {
+    "mn": "Энэ апп намайг нууц үгээ дахин оруулахыг шаарддаг.",
+    "en": "This app makes me enter my password again.",
+    "mn_latin": "Ene app namaig nuuts ügee dakhin oruulakhyg shaarddag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би цамц захиал___ сайт руу орлоо.",
+   "answer": "ахаар",
+   "options": [
+    "ахаар",
+    "ахыг",
+    "ахын",
+    "ахтай"
+   ],
+   "translation": "I went to the website to order a shirt.",
+   "explain_en": "Purpose is formed with -хаар on the verb stem. With the consonant-final stem захиал-, the form is захиалахаар ('in order to order'), so the blank takes -ахаар. It combines naturally with the motion verb орох.",
+   "explain_mn": "Зорилгыг илэрхийлэхдээ үйл үгийн үндэс дээр -хаар залгана: захиал + ахаар = захиалахаар. Орох зэрэг хөдөлгөөний үйлтэй сайн холбогдоно."
+  },
+  {
+   "lang": "mn",
+   "text": "Төлбөр хийхээс ___ захиалгаа шалга.",
+   "answer": "өмнө",
+   "options": [
+    "өмнө",
+    "дараа",
+    "хойно",
+    "дотор"
+   ],
+   "translation": "Check your order before you pay.",
+   "explain_en": "Verb + -хаас/-хээс өмнө means 'before'. Төлбөр хийхээс өмнө = 'before making the payment'.",
+   "explain_mn": "'-хээс өмнө' нь 'before' гэсэн утгатай. Төлбөр хийхээс өмнө захиалгаа шалгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ бүтээгдэхүүнийг ___ нэмээрэй.",
+   "answer": "сагсандаа",
+   "options": [
+    "сагсандаа",
+    "сагсыг",
+    "сагсаас",
+    "сагстай"
+   ],
+   "translation": "Please add this product to your cart.",
+   "explain_en": "Location needs the dative-locative -д plus the reflexive -аа: сагсандаа = 'to/in your cart'.",
+   "explain_mn": "Хаашаа нэмэхийг заахдаа өгөх-орших тийн ялгалын -д дээр ерөнхий хамаатуулах -аа залгана: сагсандаа."
+  },
+  {
+   "lang": "en",
+   "text": "The app makes me ___ in again.",
+   "answer": "log",
+   "options": [
+    "log",
+    "to log",
+    "logging",
+    "logs"
+   ],
+   "translation": "Апп намайг дахин нэвтрэхийг шаарддаг.",
+   "explain_en": "After make + object, use the base verb without 'to': makes me log.",
+   "explain_mn": "'make'-ийн дараа үйл үг 'to'-гүй, үндсэн хэлбэрээрээ орно: makes me log."
+  },
+  {
+   "lang": "en",
+   "text": "The sale made her ___ three jackets.",
+   "answer": "buy",
+   "options": [
+    "buy",
+    "to buy",
+    "buying",
+    "bought"
+   ],
+   "translation": "Хямдрал түүнийг гурван хүрэм авахад хүргэсэн.",
+   "explain_en": "Use the base form buy after 'made her'.",
+   "explain_mn": "'made her'-ийн дараа 'buy' гэсэн үндсэн хэлбэр хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The website made us ___ our address twice.",
+   "answer": "enter",
+   "options": [
+    "enter",
+    "entering",
+    "to enter",
+    "entered"
+   ],
+   "translation": "Вэбсайт биднийг хаягаа хоёр удаа оруулахад хүргэсэн.",
+   "explain_en": "Make + us + base verb: made us enter.",
+   "explain_mn": "'made us'-ийн дараа 'enter' гэж үндсэн хэлбэрээр бичнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Би шинэ гутал захиалахаар апп руу орлоо.",
+   "en": "I opened the app to order new shoes.",
+   "mn_latin": "Bi shine gutal zakhialakhaar app ruu orloo."
+  },
+  {
+   "speaker": "Tom",
+   "en": "Did you find any you like?",
+   "mn": "Таалагдсан нь байна уу?",
+   "mn_latin": "Taalagdsan ni baina uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм, хар гутал сонгоод сагсандаа нэмсэн. Хөнгөлөлттэй байсан.",
+   "en": "Yes, I chose black shoes and added them to my cart. They were discounted.",
+   "mn_latin": "Tiim, khar gutal songood sagsandaa nemsen. Khöngölölttei baisan."
+  },
+  {
+   "speaker": "Tom",
+   "en": "Great. Did you pay already?",
+   "mn": "Сайн байна. Төлбөрөө хийчихсэн үү?",
+   "mn_latin": "Sain baina. Tölböröö khiichikhsen üü?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Үгүй ээ, апп намайг дахин нэвтрэхийг шаардсан. Нууц үгээ мартчихсан байсан.",
+   "en": "No, the app made me log in again. I forgot my password.",
+   "mn_latin": "Ügüi ee, app namaig dakhin nevtrekhiig shaardsan. Nuuts ügee martchikhsan baisan."
+  },
+  {
+   "speaker": "Tom",
+   "en": "Reset it, then confirm your order.",
+   "mn": "Нууц үгээ сэргээгээд захиалгаа баталгаажуулаарай.",
+   "mn_latin": "Nuuts ügee sergeegeed zakhialgaa batalgaajuulaarai."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, хийлээ. Хүргэлт маргааш ирнэ гэж байна.",
+   "en": "Okay, done. It says delivery will arrive tomorrow.",
+   "mn_latin": "Za, khiilee. Khürgelt margaash irne gej baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Online shopping has grown quickly in Ulaanbaatar, especially through mobile apps and social media shops. Many people pay with bank apps or QR codes, and delivery inside the city is often same-day or next-day. Before Tsagaan Sar and other holidays, shops advertise big discounts online.",
+  "mn": "Улаанбаатарт онлайн худалдаа, ялангуяа гар утасны апп болон сошиал медиа дэлгүүрээр хурдацтай хөгжиж байна. Олон хүн банкны апп эсвэл QR кодоор төлбөр хийдэг бөгөөд хот доторх хүргэлт ихэвчлэн тэр өдөртөө эсвэл маргааш нь ирдэг. Цагаан сар болон бусад баярын өмнө дэлгүүрүүд онлайнаар их хөнгөлөлт зарладаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 11,
+  "notes": "Mostly good; main real error is the causative in the last grammar example (оруулдаг → оруулуулдаг), plus a few confusing explanations."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 18,
+  "notes": "Main issues: misuse of нэвтрүүлэх, an ungrammatical sentence 12, an ambiguous fill-blank, and mismatched grammar explanations.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "нэвтрүүлэх means 'let in / let through', not 'make log in'"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "previous alt is now the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_en",
+    "why": "'every time' adds meaning not in the source"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "trailing ', та?' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "alt duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "the original was ungrammatical (нь … намайг … хүндрүүлсэн)"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "fixed the case ending and added the missing 'болж'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "aligned with the mn version (passive note)"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn lacked the -хаар explanation; fixed the example translation"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "оруулуулдаг is awkward and unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "аад/сан/даг also gave grammatical sentences"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "the original explanation contradicted itself"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "matched the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "the form given was inaccurate"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "the grammar term was garbled"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "нэвтрүүлэх has the wrong meaning"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "нэвтрүүлэх has the wrong meaning; fixed the tense"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "the object was missing for 'reset it'"
+   }
+  ]
+ }
+}

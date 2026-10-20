@@ -1,0 +1,406 @@
+{
+ "intro_en": "Plan a trip from Ulaanbaatar to Lake Khövsgöl via Mörön. You'll talk about distances, travel times and costs, and use орчим to give approximate numbers like 700 км орчим ('about 700 km').",
+ "intro_mn": "Улаанбаатараас Мөрөнгөөр дамжин Хөвсгөл нуур руу аялал төлөвлөж сурна. Зай, хугацаа, зардлын тухай ярьж, англи хэлэнд тоолж болдоггүй нэр үгийг 'a piece of luggage', 'two bags of food' гэх мэтээр тоолж сурна.",
+ "vocab": [
+  {
+   "mn": "аялал",
+   "en": "trip",
+   "pos": "noun",
+   "example_mn": "Энэ зун бид Хөвсгөл рүү аялал хийнэ.",
+   "example_en": "This summer we're taking a trip to Khövsgöl.",
+   "mn_latin": "ayalal"
+  },
+  {
+   "mn": "төлөвлөх",
+   "en": "to plan",
+   "pos": "verb",
+   "example_mn": "Бид аяллаа сайн төлөвлөх хэрэгтэй.",
+   "example_en": "We need to plan our trip carefully.",
+   "mn_latin": "tölövlökh"
+  },
+  {
+   "mn": "зай",
+   "en": "distance",
+   "pos": "noun",
+   "example_mn": "Хоёр хотын хоорондох зай хэд вэ?",
+   "example_en": "What's the distance between the two cities?",
+   "mn_latin": "zai"
+  },
+  {
+   "mn": "орчим",
+   "en": "about, around (approximately)",
+   "pos": "postposition",
+   "example_mn": "Мөрөн хүртэл 700 км орчим.",
+   "example_en": "It's about 700 km to Mörön.",
+   "mn_latin": "orchim"
+  },
+  {
+   "mn": "зардал",
+   "en": "cost, expense",
+   "pos": "noun",
+   "example_mn": "Аяллын зардал их гарсан.",
+   "example_en": "The trip cost a lot.",
+   "mn_latin": "zardal"
+  },
+  {
+   "mn": "тасалбар",
+   "en": "ticket",
+   "pos": "noun",
+   "example_mn": "Би онгоцны тасалбар захиалсан.",
+   "example_en": "I booked a plane ticket.",
+   "mn_latin": "tasalbar"
+  },
+  {
+   "mn": "ачаа тээш",
+   "en": "luggage",
+   "pos": "noun",
+   "example_mn": "Таны ачаа тээш хэр хүнд вэ?",
+   "example_en": "How heavy is your luggage?",
+   "mn_latin": "achaa teesh"
+  },
+  {
+   "mn": "шатахуун",
+   "en": "fuel, gas",
+   "pos": "noun",
+   "example_mn": "Хөдөө шатахуун олоход хэцүү.",
+   "example_en": "It's hard to find gas in the countryside.",
+   "mn_latin": "shatakhuun"
+  },
+  {
+   "mn": "хүнс",
+   "en": "food, groceries",
+   "pos": "noun",
+   "example_mn": "Замдаа хангалттай хүнс авцгаая.",
+   "example_en": "Let's take enough food for the road.",
+   "mn_latin": "khüns"
+  },
+  {
+   "mn": "дамжих",
+   "en": "to go via, to pass through",
+   "pos": "verb",
+   "example_mn": "Бид Мөрөнгөөр дамжиж явна.",
+   "example_en": "We'll go via Mörön.",
+   "mn_latin": "damjikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Улаанбаатараас Мөрөн хүртэл 700 км орчим.",
+   "en": "It's about 700 km from Ulaanbaatar to Mörön.",
+   "alt_mn": [
+    "Улаанбаатараас Мөрөн хүртэл ойролцоогоор 700 км."
+   ],
+   "alt_en": [
+    "It's around 700 km from Ulaanbaatar to Mörön.",
+    "Ulaanbaatar to Mörön is about 700 km."
+   ],
+   "mn_latin": "Ulaanbaataraas Mörön khürtel 700 km orchim."
+  },
+  {
+   "mn": "Автобусаар 12 цаг орчим явна.",
+   "en": "It takes about 12 hours by bus.",
+   "alt_mn": [
+    "Автобусаар ойролцоогоор 12 цаг явна."
+   ],
+   "alt_en": [
+    "The bus takes around 12 hours.",
+    "By bus it takes about 12 hours."
+   ],
+   "mn_latin": "Avtobusaar 12 tsag orchim yavna."
+  },
+  {
+   "mn": "Онгоцоор нэг цаг хагас орчим ниснэ.",
+   "en": "By plane, it's about an hour and a half.",
+   "alt_mn": [
+    "Онгоцоор нэг цаг хагас орчим явна."
+   ],
+   "alt_en": [
+    "The flight takes about an hour and a half.",
+    "It's around an hour and a half by plane."
+   ],
+   "mn_latin": "Ongotsoor neg tsag khagas orchim nisne."
+  },
+  {
+   "mn": "Мөрөнгөөс Хатгал хүртэл 100 км орчим зам бий.",
+   "en": "There's about 100 km of road from Mörön to Khatgal.",
+   "alt_mn": [
+    "Мөрөнгөөс Хатгал хүртэл 100 км орчим."
+   ],
+   "alt_en": [
+    "It's about 100 km from Mörön to Khatgal.",
+    "The road from Mörön to Khatgal is around 100 km."
+   ],
+   "mn_latin": "Möröngöös Khatgal khürtel 100 km orchim zam bii."
+  },
+  {
+   "mn": "Онгоцны тасалбар нэг хүнд 300 мянган төгрөг орчим болно.",
+   "en": "A plane ticket costs about 300,000 tögrög per person.",
+   "alt_mn": [
+    "Онгоцны тасалбар хүн бүрт 300 мянган төгрөг орчим."
+   ],
+   "alt_en": [
+    "A plane ticket is around 300,000 tögrög per person."
+   ],
+   "mn_latin": "Ongotsny tasalbar neg khünd 300 myangan tögrög orchim bolno."
+  },
+  {
+   "mn": "Хүн бүр нэг ширхэг ачаа авч явж болно.",
+   "en": "Each person can bring one piece of luggage.",
+   "alt_mn": [
+    "Хүн бүр нэг ачаа авч явж болно."
+   ],
+   "alt_en": [
+    "Everyone can bring one piece of luggage.",
+    "Each person can take one piece of luggage."
+   ],
+   "mn_latin": "Khün bür neg shirkheg achaa avch yavj bolno."
+  },
+  {
+   "mn": "Замдаа идэх хоёр уут хүнс авъя.",
+   "en": "Let's buy two bags of food for the road.",
+   "alt_mn": [
+    "Замдаа хоёр уут хүнс авъя."
+   ],
+   "alt_en": [
+    "Let's get two bags of food for the road."
+   ],
+   "mn_latin": "Zamdaa idekh khoyor uut khüns avya."
+  },
+  {
+   "mn": "Машинд хэдэн шил ус авч явах хэрэгтэй.",
+   "en": "We need to take a few bottles of water in the car.",
+   "alt_mn": [
+    "Машиндаа хэдэн шил ус авч явах хэрэгтэй."
+   ],
+   "alt_en": [
+    "We should take a few bottles of water in the car."
+   ],
+   "mn_latin": "Mashind kheden shil us avch yavakh kheregtei."
+  },
+  {
+   "mn": "Замдаа шатахуунд их зардал гарна.",
+   "en": "We'll spend a lot on gas along the way.",
+   "alt_mn": [
+    "Замдаа шатахуунд их мөнгө зарна."
+   ],
+   "alt_en": [
+    "Gas will cost a lot on the way.",
+    "We'll spend a lot on fuel along the way."
+   ],
+   "mn_latin": "Zamdaa shatakhuund ikh zardal garna."
+  },
+  {
+   "mn": "Аяллын нийт зардал нэг сая төгрөг орчим гарах байх.",
+   "en": "The total cost of the trip will probably be about one million tögrög.",
+   "alt_mn": [
+    "Аяллын нийт зардал ойролцоогоор нэг сая төгрөг гарах байх."
+   ],
+   "alt_en": [
+    "The whole trip will probably cost around one million tögrög."
+   ],
+   "mn_latin": "Ayallyn niit zardal neg saya tögrög orchim garakh baikh."
+  },
+  {
+   "mn": "Бид долдугаар сард Хөвсгөл рүү аялал төлөвлөж байна.",
+   "en": "We're planning a trip to Khövsgöl in July.",
+   "alt_mn": [
+    "Бид долдугаар сард Хөвсгөл явахаар төлөвлөж байна."
+   ],
+   "alt_en": [
+    "We're planning to go to Khövsgöl in July."
+   ],
+   "mn_latin": "Bid doldugaar sard Khövsgöl rüü ayalal tölövlöj baina."
+  },
+  {
+   "mn": "Мөрөнд нэг шөнө хоноод маргааш нь нуур руу явна.",
+   "en": "We'll spend a night in Mörön and go to the lake the next day.",
+   "alt_mn": [
+    "Мөрөнд нэг хоноод маргааш нь нуур руу явна."
+   ],
+   "alt_en": [
+    "We'll stay one night in Mörön and head to the lake the next day."
+   ],
+   "mn_latin": "Mörönd neg shönö khonood margaash ni nuur ruu yavna."
+  }
+ ],
+ "grammar": {
+  "title_en": "Approximation with орчим / Making uncountable nouns countable",
+  "title_mn": "орчим-оор ойролцоо хэлэх / Тоолж болдоггүй нэр үгийг тоолох",
+  "explain_en": "To say 'about' or 'around' with a number, Mongolian puts орчим AFTER the number and its unit: 700 км орчим (about 700 km), 12 цаг орчим (about 12 hours), нэг сая төгрөг орчим (about a million tögrög). Think of it as '700 km or so'. You can also put ойролцоогоор BEFORE the number with the same meaning: ойролцоогоор 700 км. The word order is the opposite of English, so don't say *орчим 700 км.",
+  "explain_mn": "Англи хэлэнд luggage, food, water, information, advice зэрэг үгсийг шууд тоолж болдоггүй. 'a luggage', 'two luggages' гэж хэлэх нь буруу. Тоолохдоо хэмжих үг ашиглана: a piece of luggage (нэг ширхэг ачаа), two bags of food (хоёр уут хүнс), a bottle of water (нэг шил ус), a liter of gas (нэг литр шатахуун). Олон тоо хэмжих үг дээр нэмэгдэнэ: two bottles of water, гэхдээ waters биш. Монгол хэлний 'ширхэг', 'уут', 'шил'-тэй адил.",
+  "examples": [
+   {
+    "mn": "Мөрөн хүртэл 700 км орчим.",
+    "en": "It's about 700 km to Mörön.",
+    "mn_latin": "Mörön khürtel 700 km orchim."
+   },
+   {
+    "mn": "Автобусаар 12 цаг орчим явна.",
+    "en": "It takes about 12 hours by bus.",
+    "mn_latin": "Avtobusaar 12 tsag orchim yavna."
+   },
+   {
+    "mn": "Хүн бүр нэг ширхэг ачаа авч болно.",
+    "en": "Each person can bring one piece of luggage.",
+    "mn_latin": "Khün bür neg shirkheg achaa avch bolno."
+   },
+   {
+    "mn": "Хоёр уут хүнс, гурван шил ус авъя.",
+    "en": "Let's get two bags of food and three bottles of water.",
+    "mn_latin": "Khoyor uut khüns, gurvan shil us avya."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Улаанбаатараас Мөрөн хүртэл 700 км ___.",
+   "answer": "орчим",
+   "options": [
+    "орчим",
+    "хүртэл",
+    "руу",
+    "тухай"
+   ],
+   "translation": "It's about 700 km from Ulaanbaatar to Mörön.",
+   "explain_en": "орчим comes after the number and unit to mean 'about'. хүртэл means 'until/up to', руу means 'toward', and тухай means 'about' in the sense of 'concerning a topic', not an approximate amount.",
+   "explain_mn": "Тоо, хэмжээг ойролцоогоор хэлэхдээ тоо ба нэгжийн ард 'орчим' тавина. 'Тухай' нь сэдвийн тухай ярихад хэрэглэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Мөрөн___ Хатгал хүртэл 100 км орчим.",
+   "answer": "гөөс",
+   "options": [
+    "гөөс",
+    "өөс",
+    "аас",
+    "д"
+   ],
+   "translation": "It's about 100 km from Mörön to Khatgal.",
+   "explain_en": "'From' takes the ablative ending. Мөрөн has a hidden -г that appears before case endings, and its vowels are front (ө), so the ending is -гөөс: Мөрөнгөөс.",
+   "explain_mn": "Гарах тийн ялгал. 'Мөрөн' үг ялгал авахдаа далд 'г' гарч ирдэг тул 'Мөрөнгөөс' болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Аяллын нийт ___ нэг сая төгрөг орчим гарна.",
+   "answer": "зардал",
+   "options": [
+    "зардал",
+    "зай",
+    "зам",
+    "тасалбар"
+   ],
+   "translation": "The total cost of the trip will be about one million tögrög.",
+   "explain_en": "Money 'comes out' (гарна) as a cost, so зардал (cost, expense) fits. зай is distance, зам is road, and тасалбар is a single ticket, not the total cost.",
+   "explain_mn": "Мөнгөний хэмжээ 'гарах' нь зардлыг илэрхийлнэ. Зай, зам нь километрээр хэмжигдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Each passenger can bring one ___ of luggage.",
+   "answer": "piece",
+   "options": [
+    "piece",
+    "bottle",
+    "slice",
+    "liter"
+   ],
+   "translation": "Зорчигч бүр нэг ширхэг ачаа авч явж болно.",
+   "explain_en": "Luggage is uncountable in English, so we count it with 'a piece of'. Bottle, slice, and liter are used for drinks, bread, or liquids.",
+   "explain_mn": "'Luggage' тоолж болдоггүй тул 'a piece of luggage' гэж тоолно. Bottle (шил), slice (зүсэм), liter (литр) нь ачаанд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Let's buy two ___ of food for the road.",
+   "answer": "bags",
+   "options": [
+    "bags",
+    "slices",
+    "drops",
+    "sheets"
+   ],
+   "translation": "Замдаа хоёр уут хүнс авъя.",
+   "explain_en": "'Two bags of food' is the natural way to count groceries. 'Bags' is plural because there are two.",
+   "explain_mn": "Хүнсийг 'bag' (уут)-аар тоолно. Хоёр гэдэг тул хэмжих үг олон тоо авна: bags. 'Foods' гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "We need to take a few ___ of water in the car.",
+   "answer": "bottles",
+   "options": [
+    "bottles",
+    "loaves",
+    "slices",
+    "sheets"
+   ],
+   "translation": "Машинд хэдэн шил ус авч явах хэрэгтэй.",
+   "explain_en": "Water is uncountable, so we use 'bottles of water'. Loaves and slices are for bread, and sheets are for paper.",
+   "explain_mn": "'Water' тоолж болдоггүй тул 'bottles of water' гэнэ. 'Waters' гэж хэлэхгүй. Loaf, slice нь талханд, sheet нь цаасанд хэрэглэгдэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Эмили, Хөвсгөл рүү яаж явах вэ? Онгоцоор уу, автобусаар уу?",
+   "en": "Emily, how should we get to Khövsgöl? By plane or by bus?",
+   "mn_latin": "Emili, Khövsgöl rüü yaaj yavakh ve? Ongotsoor uu, avtobusaar uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Автобус Мөрөн хүртэл хэр удаан явдаг вэ?",
+   "en": "How long does the bus take to Mörön?",
+   "mn_latin": "Avtobus Mörön khürtel kher udaan yavdag ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "12 цаг орчим. Онгоц нэг цаг хагас орчим ниснэ, гэхдээ тасалбар нь үнэтэй.",
+   "en": "About 12 hours. The plane takes about an hour and a half, but the ticket is expensive.",
+   "mn_latin": "12 tsag orchim. Ongots neg tsag khagas orchim nisne, gekhdee tasalbar ni ünetei."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгвэл автобусаар явъя. Хэдэн ширхэг ачаа авч болох вэ?",
+   "en": "Then let's take the bus. How many pieces of luggage can we bring?",
+   "mn_latin": "Tegvel avtobusaar yavya. Kheden shirkheg achaa avch bolokh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Хүн бүр нэг том ачаа авч болно. Мөрөнгөөс Хатгал хүртэл 100 км орчим, тэндээс микро хөлсөлнө.",
+   "en": "Each person can bring one big piece of luggage. It's about 100 km from Mörön to Khatgal, and we'll hire a minibus from there.",
+   "mn_latin": "Khün bür neg tom achaa avch bolno. Möröngöös Khatgal khürtel 100 km orchim, tendees mikro khölsölnö."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Замдаа идэх хоёр уут хүнс, хэдэн шил ус авъя.",
+   "en": "Let's get two bags of food and a few bottles of water for the road.",
+   "mn_latin": "Zamdaa idekh khoyor uut khüns, kheden shil us avya."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн санаа. Нийт зардал хүн бүрт 500 мянган төгрөг орчим гарах байх.",
+   "en": "Good idea. The total cost will probably be about 500,000 tögrög per person.",
+   "mn_latin": "Sain sanaa. Niit zardal khün bürt 500 myangan tögrög orchim garakh baikh."
+  }
+ ],
+ "culture_note": {
+  "en": "Lake Khövsgöl, often called the 'Blue Pearl' of Mongolia, holds about 70% of the country's fresh water. Most travelers take an overnight bus or a short flight to Mörön, the provincial center, and then drive about 100 km to the village of Khatgal on the lake's southern shore. July and August are the busiest months, so it's wise to book tickets early.",
+  "mn": "Монголын 'Хөх сувд' хэмээх Хөвсгөл нуурт улсын цэнгэг усны 70 орчим хувь бий. Ихэнх аялагч Хөвсгөл аймгийн төв Мөрөн хүртэл шөнийн автобус эсвэл онгоцоор очоод, тэндээс нуурын өмнөд эрэгт орших Хатгал тосгон руу 100 км орчим замыг машинаар туулдаг. Долдугаар сар, наймдугаар сард хамгийн их ачаалалтай байдаг тул тасалбараа эрт захиалах нь зүйтэй."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "The lesson is accurate and natural in both languages. Case forms (Мөрөнгөөс, Мөрөнгөөр), placement of орчим, the counting explanations, and the culture facts are all correct. Only one awkward English phrasing needed a fix."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "The lesson is mostly accurate. The en and mn intros and grammar explanations target different learner directions on purpose. The only fix is one unnatural Mongolian alternative.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "'Замын хоёр уут хүнс' is unnatural Mongolian. Use 'Замдаа' for 'for the road'."
+   }
+  ]
+ }
+}

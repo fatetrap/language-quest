@@ -1,0 +1,406 @@
+{
+ "intro_en": "In this lesson you will practice writing a formal opinion essay on justice reform and restorative justice. You will use key reform terms and combine аль аль нь, хэн хэн нь and аль нэг нь to weigh two sides of an argument.",
+ "intro_mn": "Энэ хичээлээр шүүхийн шинэчлэл, нөхөн сэргээх шударга ёсны талаар үзэл бодлын эсээ бичиж сурна. Мөн англи хэлний академик бичгийн much as, while, albeit гэсэн холбоосуудыг давтана.",
+ "vocab": [
+  {
+   "mn": "шүүхийн шинэчлэл",
+   "en": "judicial reform",
+   "pos": "noun phrase",
+   "example_mn": "Шүүхийн шинэчлэл олон жил үргэлжилж байна.",
+   "example_en": "Judicial reform has been going on for many years.",
+   "mn_latin": "shüükhiin shinechlel"
+  },
+  {
+   "mn": "нөхөн төлбөр",
+   "en": "compensation, restitution",
+   "pos": "noun",
+   "example_mn": "Тэр хохирогчид нөхөн төлбөр төлсөн.",
+   "example_en": "He paid compensation to the victim.",
+   "mn_latin": "nökhön tölbör"
+  },
+  {
+   "mn": "эвлэрүүлэн зуучлал",
+   "en": "mediation",
+   "pos": "noun",
+   "example_mn": "Маргааныг эвлэрүүлэн зуучлалаар шийдвэрлэв.",
+   "example_en": "The dispute was resolved through mediation.",
+   "mn_latin": "evlerüülen zuuchlal"
+  },
+  {
+   "mn": "урьдчилан сэргийлэх",
+   "en": "to prevent",
+   "pos": "verb",
+   "example_mn": "Гэмт хэргээс урьдчилан сэргийлэх нь шийтгэхээс чухал.",
+   "example_en": "Preventing crime is more important than punishing it.",
+   "mn_latin": "uridchilan sergiilekh"
+  },
+  {
+   "mn": "нөхөн сэргээх шударга ёс",
+   "en": "restorative justice",
+   "pos": "noun phrase",
+   "example_mn": "Нөхөн сэргээх шударга ёс хохирогчийн хэрэгцээг төвд тавьдаг.",
+   "example_en": "Restorative justice puts the victim's needs at the center.",
+   "mn_latin": "nökhön sergeekh shudarga yos"
+  },
+  {
+   "mn": "хохирогч",
+   "en": "victim",
+   "pos": "noun",
+   "example_mn": "Хохирогчийн дуу хоолойг сонсох ёстой.",
+   "example_en": "The victim's voice must be heard.",
+   "mn_latin": "khokhirogch"
+  },
+  {
+   "mn": "давтан гэмт хэрэг",
+   "en": "reoffending, recidivism",
+   "pos": "noun phrase",
+   "example_mn": "Давтан гэмт хэргийн түвшин буурсан.",
+   "example_en": "The rate of reoffending has gone down.",
+   "mn_latin": "davtan gemt khereg"
+  },
+  {
+   "mn": "хариуцлага хүлээх",
+   "en": "to take responsibility",
+   "pos": "verb phrase",
+   "example_mn": "Тэр үйлдлийнхээ төлөө хариуцлага хүлээв.",
+   "example_en": "He took responsibility for his actions.",
+   "mn_latin": "khariutslaga khüleekh"
+  },
+  {
+   "mn": "нийгэмшүүлэх",
+   "en": "to reintegrate (into society)",
+   "pos": "verb",
+   "example_mn": "Ял эдэлж гарсан хүнийг нийгэмшүүлэх хөтөлбөр хэрэгтэй.",
+   "example_en": "We need programs to reintegrate people released from prison.",
+   "mn_latin": "niigemshüülekh"
+  },
+  {
+   "mn": "ял шийтгэл",
+   "en": "punishment, sentence",
+   "pos": "noun",
+   "example_mn": "Ял шийтгэл дангаараа хүнийг өөрчилдөггүй.",
+   "example_en": "Punishment alone does not change a person.",
+   "mn_latin": "yal shiitgel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хохирогчдыг хичнээн өрөвдөж байгаа ч гэсэн ганцхан ял шийтгэлээр гэмт хэргээс урьдчилан сэргийлж чадахгүй гэж би үзэж байна.",
+   "en": "Much as I sympathize with the victims, I believe that punishment alone cannot prevent crime.",
+   "alt_mn": [
+    "Хохирогчдыг өрөвдөж байгаа ч ял шийтгэл дангаараа гэмт хэргээс урьдчилан сэргийлж чадахгүй гэж би бодож байна."
+   ],
+   "alt_en": [
+    "Although I sympathize with the victims, I believe punishment alone cannot prevent crime."
+   ],
+   "mn_latin": "Khokhirogchdyg khichneen örövdöj baigaa ch gesen gantskhan yal shiitgeleer gemt khergees uridchilan sergiilj chadakhgüi gej bi üzej baina."
+  },
+  {
+   "mn": "Эвлэрүүлэн зуучлал, нөхөн төлбөр аль аль нь хохирогчид дуу хоолойгоо илэрхийлэх боломж олгодог.",
+   "en": "Both mediation and compensation give the victim a chance to have a voice.",
+   "alt_mn": [],
+   "alt_en": [
+    "Mediation and compensation both give victims a voice."
+   ],
+   "mn_latin": "Evlerüülen zuuchlal, nökhön tölbör ali ali ni khokhirogchid duu khooloigoo ilerkhiilekh bolomj olgodog."
+  },
+  {
+   "mn": "Хохирогч, гэмт этгээд хэн хэн нь эвлэрүүлэн зуучлалд оролцохыг зөвшөөрсөн.",
+   "en": "Both the victim and the offender agreed to take part in mediation.",
+   "alt_mn": [
+    "Хохирогч, гэмт этгээд хоёулаа эвлэрүүлэн зуучлалд оролцохыг зөвшөөрсөн."
+   ],
+   "alt_en": [
+    "The victim and the offender both agreed to take part in mediation."
+   ],
+   "mn_latin": "Khokhirogch, gemt etgeed khen khen ni evlerüülen zuuchlald oroltsokhyg zövshöörsön."
+  },
+  {
+   "mn": "Шүүхийн шинэчлэл удаан бөгөөд зардал ихтэй ч гэсэн зайлшгүй шаардлагатай.",
+   "en": "Judicial reform is essential, albeit slow and expensive.",
+   "alt_mn": [
+    "Шүүхийн шинэчлэл удаан, зардал ихтэй боловч зайлшгүй хэрэгтэй."
+   ],
+   "alt_en": [
+    "Judicial reform is necessary, albeit slow and costly."
+   ],
+   "mn_latin": "Shüükhiin shinechlel udaan bögööd zardal ikhtei ch gesen zailshgüi shaardlagatai."
+  },
+  {
+   "mn": "Шорон богино хугацаанд нийгмийг хамгаалдаг ч давтан гэмт хэргийг бууруулах нь ховор.",
+   "en": "While prisons protect society in the short term, they rarely reduce reoffending.",
+   "alt_mn": [
+    "Шорон богино хугацаанд нийгмийг хамгаалдаг боловч давтан гэмт хэргийг бараг бууруулдаггүй."
+   ],
+   "alt_en": [
+    "Although prisons protect society in the short term, they rarely reduce reoffending."
+   ],
+   "mn_latin": "Shoron bogino khugatsaand niigmiig khamgaaldag ch davtan gemt khergiig buuruulakh ni khovor."
+  },
+  {
+   "mn": "Хоёр хандлагын аль нэгийг нь сонгох ёстой, учир нь аль алийг нь нэг дор санхүүжүүлэх боломжгүй.",
+   "en": "One of the two approaches must be chosen, because they cannot both be funded at once.",
+   "alt_mn": [],
+   "alt_en": [
+    "We have to choose one of the two approaches, since we cannot fund both at the same time."
+   ],
+   "mn_latin": "Khoyor khandlagyn ali negiig ni songokh yostoi, uchir ni ali aliig ni neg dor sankhüüjüülekh bolomjgüi."
+  },
+  {
+   "mn": "Хоёр мэргэжилтний хэн хэн нь тогтолцоог өөрчлөх шаардлагатай гэдгийг үгүйсгээгүй.",
+   "en": "Neither of the two experts denied that the system needs to change.",
+   "alt_mn": [],
+   "alt_en": [
+    "Neither expert denied that the system needs to change."
+   ],
+   "mn_latin": "Khoyor mergejiltnii khen khen ni togtoltsoog öörchlökh shaardlagatai gedgiig ügüisgeegüi."
+  },
+  {
+   "mn": "Талуудын аль нэг нь татгалзвал эвлэрүүлэн зуучлал үргэлжлэх боломжгүй.",
+   "en": "If either party refuses, the mediation cannot continue.",
+   "alt_mn": [
+    "Аль нэг тал нь татгалзвал эвлэрүүлэн зуучлалыг үргэлжлүүлэх боломжгүй."
+   ],
+   "alt_en": [
+    "If one of the parties refuses, mediation cannot go on."
+   ],
+   "mn_latin": "Taluudyn ali neg ni tatgalzval evlerüülen zuuchlal ürgeljlekh bolomjgüi."
+  },
+  {
+   "mn": "Нөхөн сэргээх шударга ёс гэмт этгээдээс учруулсан хохирлынхоо төлөө хариуцлага хүлээхийг шаарддаг.",
+   "en": "Restorative justice requires offenders to take responsibility for the harm they caused.",
+   "alt_mn": [],
+   "alt_en": [
+    "Restorative justice asks offenders to take responsibility for the harm they have caused."
+   ],
+   "mn_latin": "Nökhön sergeekh shudarga yos gemt etgeedees uchruulsan khokhirlynkhoo tölöö khariutslaga khüleekhiig shaarddag."
+  },
+  {
+   "mn": "Нөхөн төлбөр төлөх нь бэлгэдлийн чанартай ч гэсэн эвлэрэх анхны алхам болж чадна.",
+   "en": "Paying compensation, albeit symbolically, can be the first step toward reconciliation.",
+   "alt_mn": [],
+   "alt_en": [
+    "Paying compensation, albeit only symbolically, can be a first step toward reconciliation."
+   ],
+   "mn_latin": "Nökhön tölbör tölökh ni belgedliin chanartai ch gesen evlerekh ankhny alkham bolj chadna."
+  },
+  {
+   "mn": "Ял эдэлж гарсан хүмүүсийг нийгэмшүүлэх нь цаашид гарах гэмт хэргээс урьдчилан сэргийлэхэд тусалдаг.",
+   "en": "Reintegrating former prisoners helps prevent future crime.",
+   "alt_mn": [],
+   "alt_en": [
+    "Helping former prisoners reintegrate into society helps prevent future crimes."
+   ],
+   "mn_latin": "Yal edelj garsan khümüüsiig niigemshüülekh ni tsaashid garakh gemt khergees uridchilan sergiilekhed tusaldag."
+  },
+  {
+   "mn": "Олон нийт илүү хатуу ял шийтгэл шаардаж байгаа ч судалгааны үр дүн үүний эсрэгийг харуулж байна.",
+   "en": "While the public demands harsher sentences, the research points the other way.",
+   "alt_mn": [
+    "Олон нийт хатуу ял шаардаж байгаа хэдий ч судалгаа өөр дүгнэлт гаргаж байна."
+   ],
+   "alt_en": [
+    "Although the public demands harsher sentences, the evidence points in the opposite direction."
+   ],
+   "mn_latin": "Olon niit ilüü khatuu yal shiitgel shaardaj baigaa ch sudalgaany ür dün üünii esregiig kharuulj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Weighing two sides: аль аль нь, хэн хэн нь, аль нэг нь",
+  "title_mn": "Академик бичигт much as, while, albeit хэрэглэх нь",
+  "explain_en": "In formal arguments you often compare two options. Use аль аль нь for 'both' (mostly things, ideas, institutions): Шорон, зуучлал аль аль нь... Use хэн хэн нь for 'both' when talking about people: Хохирогч, гэмт этгээд хэн хэн нь... With a negative verb, both phrases mean 'neither': хэн хэн нь үгүйсгээгүй = neither denied it. Use аль нэг нь for 'one of them / either': Талуудын аль нэг нь татгалзвал... = If either party refuses. The case ending goes on аль нэг / аль аль, before нь, which stays the same. So as an object you get аль нэгийг нь and аль алийг нь. The group these phrases refer to usually comes before them, either in the genitive (хоёр хандлагын аль нэг нь) or as a list (А, Б аль аль нь).",
+  "explain_mn": "Англи академик бичигт эсрэг санааг зөөлөн хүлээн зөвшөөрөхдөө гурван холбоос хэрэглэдэг. 1) Much as + өгүүлбэр нь 'хичнээн ... ч гэсэн' гэсэн утгатай бөгөөд ихэвчлэн бичигчийн мэдрэмжтэй холбоотой үйл үгтэй хэрэглэгдэнэ: Much as I sympathize..., much as I admire... 2) While + өгүүлбэр нь 'хэдий ... ч' гэсэн утгаар хоёр санааг харьцуулна: While prisons protect society, they rarely... 3) Albeit нь 'хэдийгээр ... ч гэсэн' гэсэн утгатай. Гэхдээ араас нь бүтэн өгүүлбэр биш, зөвхөн тэмдэг нэр, дайвар үг эсвэл богино хэллэг ордог: albeit slow, albeit symbolically, albeit on a small scale. 'Albeit it was slow' гэж бичвэл буруу болно.",
+  "examples": [
+   {
+    "mn": "Шорон, эвлэрүүлэн зуучлал аль аль нь давуу талтай ч өөр өөр зорилгод үйлчилдэг.",
+    "en": "While prison and mediation both have advantages, they serve different goals.",
+    "mn_latin": "Shoron, evlerüülen zuuchlal ali ali ni davuu taltai ch öör öör zorilgod üilchildeg."
+   },
+   {
+    "mn": "Шүүгч, прокурор хэн хэн нь өөр өөр шалтгаантай ч гэсэн шинэчлэлийг эсэргүүцээгүй.",
+    "en": "Neither the judge nor the prosecutor opposed the reform, albeit for different reasons.",
+    "mn_latin": "Shüügch, prokuror khen khen ni öör öör shaltgaantai ch gesen shinechleliig esergüütseegüi."
+   },
+   {
+    "mn": "Хоёр санаачилга аль аль нь надад хичнээн таалагдаж байгаа ч аль нэгийг нь л хэрэгжүүлэх боломжтой.",
+    "en": "Much as I like both initiatives, only one of them can be carried out.",
+    "mn_latin": "Khoyor sanaachilga ali ali ni nadad khichneen taalagdaj baigaa ch ali negiig ni l kheregjüülekh bolomjtoi."
+   },
+   {
+    "mn": "Талуудын аль нэг нь гомдол гаргаж болно.",
+    "en": "Either party may file a complaint.",
+    "mn_latin": "Taluudyn ali neg ni gomdol gargaj bolno."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шорон, эвлэрүүлэн зуучлал ___ нь давуу талтай.",
+   "answer": "аль аль",
+   "options": [
+    "аль аль",
+    "хэн хэн",
+    "аль нэг",
+    "хэн нэг"
+   ],
+   "translation": "Both prison and mediation have advantages.",
+   "explain_en": "The two items are institutions or methods, not people, so 'both' is аль аль нь. хэн хэн нь is used for people.",
+   "explain_mn": "Шорон, зуучлал нь хүн биш, арга хэлбэр учир 'both' гэсэн утгаар аль аль нь хэрэглэнэ. Хүний тухай бол хэн хэн нь гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хоёр хандлагын аль нэг___ нь сонгох ёстой.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "ийн",
+    "д",
+    "ээс"
+   ],
+   "translation": "One of the two approaches must be chosen.",
+   "explain_en": "аль нэг is the object of сонгох (to choose), so it takes the accusative ending -ийг: аль нэгийг нь.",
+   "explain_mn": "'сонгох' үйл үгийн тусагдахуун тул заахын тийн ялгал -ийг авна: аль нэгийг нь."
+  },
+  {
+   "lang": "mn",
+   "text": "Гэмт хэргээс урьдчилан ___ хамгийн үр дүнтэй арга бол боловсрол юм.",
+   "answer": "сэргийлэх",
+   "options": [
+    "сэргийлэх",
+    "сэргээх",
+    "сэргэх",
+    "сэрэмжлэх"
+   ],
+   "translation": "The most effective way to prevent crime is education.",
+   "explain_en": "'To prevent' is the fixed expression урьдчилан сэргийлэх, which takes the ablative case (гэмт хэргээс). сэргээх means 'to restore'.",
+   "explain_mn": "'Prevent' гэдэг нь урьдчилан сэргийлэх тогтвортой хэллэг. Сэргээх нь 'restore' гэсэн өөр утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The pilot program was successful, ___ on a small scale.",
+   "answer": "albeit",
+   "options": [
+    "albeit",
+    "much as",
+    "while",
+    "despite"
+   ],
+   "translation": "Туршилтын хөтөлбөр бага хэмжээнд ч гэсэн амжилттай болсон.",
+   "explain_en": "Albeit is followed by a short phrase ('on a small scale'), not a full clause. Much as and while need a full clause, and despite needs a noun.",
+   "explain_mn": "Albeit-ийн ард бүтэн өгүүлбэр биш, 'on a small scale' гэх мэт богино хэллэг ордог. Much as, while хоёрт бүтэн өгүүлбэр хэрэгтэй, despite-д нэр үг хэрэгтэй."
+  },
+  {
+   "lang": "en",
+   "text": "___ I admire the judge, I disagree with her ruling.",
+   "answer": "Much as",
+   "options": [
+    "Much as",
+    "Albeit",
+    "Despite",
+    "Even"
+   ],
+   "translation": "Би шүүгчийг хичнээн хүндэлдэг ч түүний шийдвэртэй санал нийлэхгүй байна.",
+   "explain_en": "Much as + clause expresses a concession tied to the writer's feelings ('admire').",
+   "explain_mn": "Much as + өгүүлбэр нь 'хичнээн ... ч гэсэн' гэсэн утгатай бөгөөд admire, sympathize гэх мэт мэдрэмжийн үйл үгтэй ихэвчлэн хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ some see prison as punishment, others see it as a chance to change.",
+   "answer": "While",
+   "options": [
+    "While",
+    "Albeit",
+    "Despite",
+    "Much as"
+   ],
+   "translation": "Зарим хүн шоронг шийтгэл гэж хардаг бол зарим нь өөрчлөгдөх боломж гэж хардаг.",
+   "explain_en": "While contrasts two views held by different people. Much as fits the writer's own feelings, not other people's opinions.",
+   "explain_mn": "While нь хоёр өөр бүлгийн үзэл бодлыг харьцуулна. Much as нь бичигчийн өөрийн мэдрэмжийг илэрхийлдэг тул энд тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Эсээндээ шорон, нөхөн сэргээх шударга ёс аль аль нь хэрэгтэй гэж бичмээр байна.",
+   "en": "In my essay I want to argue that both prison and restorative justice are necessary.",
+   "mn_latin": "Eseendee shoron, nökhön sergeekh shudarga yos ali ali ni kheregtei gej bichmeer baina."
+  },
+  {
+   "speaker": "Rachel",
+   "mn": "Сайн санаа. Гэхдээ эсрэг талын байр суурийг эхлээд хүлээн зөвшөөрөөрэй. Жишээ нь, 'Much as I understand public anger...' гэж эхэлж болно.",
+   "en": "Good idea. But acknowledge the opposing view first. You could start with 'Much as I understand public anger...'",
+   "mn_latin": "Sain sanaa. Gekhdee esreg talyn bair suuriig ekhleed khüleen zövshööröörei. Jishee ni, 'Much as I understand public anger...' gej ekhelj bolno."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Хохирогч, гэмт этгээд хэн хэн нь зөвшөөрвөл эвлэрүүлэн зуучлал хамгийн үр дүнтэй гэдгийг онцолно.",
+   "en": "I'll stress that mediation works best when both the victim and the offender agree to it.",
+   "mn_latin": "Khokhirogch, gemt etgeed khen khen ni zövshöörvöl evlerüülen zuuchlal khamgiin ür düntei gedgiig ontsolno."
+  },
+  {
+   "speaker": "Rachel",
+   "mn": "Тэгвэл талуудын аль нэг нь татгалзвал яах вэ гэдгийг бас бичээрэй.",
+   "en": "Then also write about what happens if either party refuses.",
+   "mn_latin": "Tegvel taluudyn ali neg ni tatgalzval yaakh ve gedgiig bas bicheerei."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Тэр тохиолдолд ердийн шүүх ажиллагаа үргэлжилнэ. Нөхөн төлбөр нь бэлгэдлийн чанартай ч гэсэн утга учиртай гэж бичнэ.",
+   "en": "In that case, the normal court process continues. I'll write that compensation matters, albeit symbolically.",
+   "mn_latin": "Ter tokhioldold yerdiin shüükh ajillagaa ürgeljilne. Nökhön tölbör ni belgedliin chanartai ch gesen utga uchirtai gej bichne."
+  },
+  {
+   "speaker": "Rachel",
+   "mn": "Тийм. 'Albeit'-ийн араас бүтэн өгүүлбэр бүү бичээрэй, зөвхөн богино хэллэг хангалттай.",
+   "en": "Right. Don't put a full clause after 'albeit'. A short phrase is enough.",
+   "mn_latin": "Tiim. 'Albeit'-iin araas büten ögüülber büü bicheerei, zövkhön bogino khelleg khangalttai."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Ойлголоо. Дүгнэлтэд шүүхийн шинэчлэл гэмт хэргээс урьдчилан сэргийлэхэд чиглэх ёстой гэж бичье.",
+   "en": "Got it. In the conclusion, I'll write that judicial reform should focus on preventing crime.",
+   "mn_latin": "Oilgoloo. Dügnelted shüükhiin shinechlel gemt khergees uridchilan sergiilekhed chiglekh yostoi gej bichiye."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia passed a Law on Conciliation and Mediation in 2017, and many courts now have mediation services where parties can settle disputes before trial. The new Criminal Code, in force since 2017, also expanded non-custodial sentences such as probation and travel restrictions. The idea is not entirely new: in the countryside, respected elders have long helped families settle conflicts through talk and compensation.",
+  "mn": "Монгол Улс 2017 онд Эвлэрүүлэн зуучлалын тухай хуулийг баталснаар олон шүүх дээр эвлэрүүлэн зуучлалын үйлчилгээ ажиллах болсон. Ингэснээр талууд шүүх хуралдаанаас өмнө маргаанаа шийдвэрлэх боломжтой болжээ. 2017 оноос хэрэгжиж эхэлсэн Эрүүгийн шинэ хууль мөн тэнсэн харгалзах, зорчих эрхийг хязгаарлах зэрэг хорихоос өөр ял шийтгэлийг өргөжүүлсэн. Энэ санаа шинэ зүйл биш: хөдөө орон нутагт хүндтэй ахмадууд айл гэрийн маргааныг яриа хэлэлцээ, нөхөн төлбөрөөр шийдвэрлэж ирсэн уламжлалтай."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 5,
+  "notes": "Solid, accurate content overall. The main problems were mismatched grammar example pairs, one 'much as' misuse, and an inaccurate note about where the case ending goes before нь."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Three grammar example pairs did not match in meaning, and one English sentence was ambiguous. The rest is accurate.",
+  "changes": [
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "The Mongolian lacked the 'they serve different goals' part of the English."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "The Mongolian lacked 'albeit for different reasons'."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "The Mongolian lacked the 'much as I like both' clause."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "en",
+    "why": "'Both cannot be funded' is ambiguous and could be read as 'neither can be funded'."
+   }
+  ]
+ }
+}

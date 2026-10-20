@@ -1,0 +1,472 @@
+{
+ "intro_en": "You will learn to talk about grades, exams and retakes, and to say what happens if you don't pass. You will use Mongolian -хгүй бол and English 'unless' for negative conditions.",
+ "intro_mn": "Та оноо, дүн, шалгалт, дахин өгөх тухай ярьж, тэнцэхгүй бол юу болохыг хэлж сурна. Сөрөг нөхцөлийг монгол хэлэнд -хгүй бол, англи хэлэнд 'unless'-ээр илэрхийлнэ.",
+ "vocab": [
+  {
+   "mn": "оноо",
+   "en": "score, points",
+   "pos": "noun",
+   "example_mn": "Миний оноо хангалттай өндөр биш байна.",
+   "example_en": "My score isn't high enough.",
+   "mn_latin": "onoo"
+  },
+  {
+   "mn": "дүн",
+   "en": "grade, result",
+   "pos": "noun",
+   "example_mn": "Шалгалтын дүн маргааш гарна.",
+   "example_en": "The exam results will come out tomorrow.",
+   "mn_latin": "dün"
+  },
+  {
+   "mn": "тэнцэх",
+   "en": "to pass",
+   "pos": "verb",
+   "example_mn": "Би шалгалтад тэнцсэн.",
+   "example_en": "I passed the exam.",
+   "mn_latin": "tentsekh"
+  },
+  {
+   "mn": "унах",
+   "en": "to fail",
+   "pos": "verb",
+   "example_mn": "Тэр математикийн шалгалтад унасан.",
+   "example_en": "He failed the math exam.",
+   "mn_latin": "unakh"
+  },
+  {
+   "mn": "дахин өгөх",
+   "en": "to retake",
+   "pos": "verb",
+   "example_mn": "Би шалгалтаа дахин өгөх хэрэгтэй.",
+   "example_en": "I need to retake my exam.",
+   "mn_latin": "dakhin ögökh"
+  },
+  {
+   "mn": "шалгалт",
+   "en": "exam",
+   "pos": "noun",
+   "example_mn": "Төгсөлтийн шалгалт хэцүү байсан.",
+   "example_en": "The graduation exam was hard.",
+   "mn_latin": "shalgalt"
+  },
+  {
+   "mn": "дүгнэлт",
+   "en": "assessment, evaluation",
+   "pos": "noun",
+   "example_mn": "Багш миний ажилд дүгнэлт өгсөн.",
+   "example_en": "The teacher gave an assessment of my work.",
+   "mn_latin": "dügnelt"
+  },
+  {
+   "mn": "дүн тавих",
+   "en": "to give a grade",
+   "pos": "verb",
+   "example_mn": "Багш бидэнд дүн тавьсан.",
+   "example_en": "The teacher gave us our grades.",
+   "mn_latin": "dün tavikh"
+  },
+  {
+   "mn": "хичээлээс чөлөө авах",
+   "en": "to take leave from classes",
+   "pos": "verb",
+   "example_mn": "Тэр өвдсөн учраас хичээлээс чөлөө авсан.",
+   "example_en": "He took leave from classes because he got sick.",
+   "mn_latin": "khicheelees chölöö avakh"
+  },
+  {
+   "mn": "тэтгэлэг",
+   "en": "scholarship",
+   "pos": "noun",
+   "example_mn": "Сайн дүнтэй бол тэтгэлэг авч болно.",
+   "example_en": "With good grades you can get a scholarship.",
+   "mn_latin": "tetgeleg"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хэрэв тэнцэхгүй бол би дахин өгнө.",
+   "en": "If I don't pass, I will retake it.",
+   "alt_mn": [
+    "Тэнцэхгүй бол би дахин өгнө."
+   ],
+   "alt_en": [
+    "If I fail, I'll take it again."
+   ],
+   "mn_latin": "Kherev tentsekhgüi bol bi dakhin ögnö."
+  },
+  {
+   "mn": "Чи хичээллэхгүй бол шалгалтад тэнцэхгүй.",
+   "en": "If you don't study, you won't pass the exam.",
+   "alt_mn": [
+    "Чи хичээллэхгүй бол шалгалтад унана."
+   ],
+   "alt_en": [
+    "Unless you study, you won't pass the exam."
+   ],
+   "mn_latin": "Chi khicheellekhgüi bol shalgaltad tentsekhgüi."
+  },
+  {
+   "mn": "Шалгалтын дүн хэзээ гарах вэ?",
+   "en": "When will the exam results come out?",
+   "alt_mn": [],
+   "alt_en": [
+    "When are the exam results coming out?"
+   ],
+   "mn_latin": "Shalgaltyn dün khezee garakh ve?"
+  },
+  {
+   "mn": "Би хангалттай оноо авахгүй бол тэтгэлгээ алдана.",
+   "en": "If I don't get enough points, I'll lose my scholarship.",
+   "alt_mn": [],
+   "alt_en": [
+    "Unless I get enough points, I'll lose my scholarship."
+   ],
+   "mn_latin": "Bi khangalttai onoo avakhgüi bol tetgelgee aldana."
+  },
+  {
+   "mn": "Тэр шалгалтад унасан болохоор дахин өгөх ёстой.",
+   "en": "He failed the exam, so he has to retake it.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because he failed the exam, he must retake it."
+   ],
+   "mn_latin": "Ter shalgaltad unasan bolokhoor dakhin ögökh yostoi."
+  },
+  {
+   "mn": "Багш зөвшөөрөхгүй бол бид шалгалтыг хойшлуулж чадахгүй.",
+   "en": "If the teacher doesn't agree, we can't postpone the exam.",
+   "alt_mn": [],
+   "alt_en": [
+    "Unless the teacher agrees, we can't postpone the exam."
+   ],
+   "mn_latin": "Bagsh zövshöörökhgüi bol bid shalgaltyg khoishluulj chadakhgüi."
+  },
+  {
+   "mn": "Миний дүн муу байсан ч би бууж өгөөгүй.",
+   "en": "My grade was bad, but I didn't give up.",
+   "alt_mn": [],
+   "alt_en": [
+    "Even though my grade was bad, I didn't give up."
+   ],
+   "mn_latin": "Minii dün muu baisan ch bi buuj ögöögüi."
+  },
+  {
+   "mn": "Оноо чинь хүрэхгүй бол дахин өгөх шаардлагатай.",
+   "en": "If your score isn't enough, you need to retake it.",
+   "alt_mn": [
+    "Оноо хүрэхгүй бол дахин өгөх хэрэгтэй."
+   ],
+   "alt_en": [
+    "Unless your score is enough, you need to retake it."
+   ],
+   "mn_latin": "Onoo chini khürekhgüi bol dakhin ögökh shaardlagatai."
+  },
+  {
+   "mn": "Чи цагтаа ирэхгүй бол би чамайг хүлээхгүй.",
+   "en": "If you don't come on time, I won't wait for you.",
+   "alt_mn": [],
+   "alt_en": [
+    "Unless you come on time, I won't wait for you."
+   ],
+   "mn_latin": "Chi tsagtaa irekhgüi bol bi chamaig khüleekhgüi."
+  },
+  {
+   "mn": "Бүх хичээлдээ тэнцвэл би зун амарна.",
+   "en": "If I pass all my classes, I'll rest in the summer.",
+   "alt_mn": [],
+   "alt_en": [
+    "If I pass all my courses, I'll relax this summer."
+   ],
+   "mn_latin": "Bükh khicheeldee tentsvel bi zun amarna."
+  },
+  {
+   "mn": "Дахин өгөхгүй бол чи энэ хичээлийг дуусгаж чадахгүй.",
+   "en": "Unless you retake it, you can't finish this course.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you don't retake it, you can't complete this course."
+   ],
+   "mn_latin": "Dakhin ögökhgüi bol chi ene khicheeliig duusgaj chadakhgüi."
+  },
+  {
+   "mn": "Бэлдэхгүй бол унах вий гэж айж байна.",
+   "en": "I'm afraid I'll fail if I don't prepare.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm worried I'll fail unless I prepare."
+   ],
+   "mn_latin": "Beldekhgüi bol unakh vii gej aij baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Negative conditions: -хгүй бол and 'unless'",
+  "title_mn": "Сөрөг нөхцөл: -хгүй бол ба 'unless'",
+  "explain_en": "To say 'if not' in Mongolian, add -хгүй бол to the verb stem: тэнцэхгүй бол (if I/you don't pass), хичээллэхгүй бол (if you don't study). The ending doesn't change for person. English 'unless' means 'if ... not', and the verb after it is positive: 'Unless you study, you won't pass' = 'If you don't study, you won't pass.' You can't say 'Unless you don't study.' Also, for the future, use the present tense after 'unless', not 'will': 'Unless he comes, we will start' (not 'Unless he will come'). The main clause usually has 'will' or 'can'.",
+  "explain_mn": "Монгол хэлэнд 'хэрэв ... биш бол' гэсэн утгыг үйл үгийн үндэс дээр -хгүй бол залгаж илэрхийлнэ: тэнцэхгүй бол, хичээллэхгүй бол. Энэ нөхцөл нь бие хүнээр хувирдаггүй. Англи хэлэнд 'unless' нь 'if ... not' буюу '-хгүй бол' гэсэн утгатай. Харин 'unless'-ийн дараах үйл үг эерэг хэлбэртэй байдаг: 'Unless you study, you won't pass' = 'If you don't study, you won't pass.' 'Unless you don't study' гэж хэлж болохгүй. Мөн 'unless'-ийн дараа ирээдүй цагийг 'will'-ээр бус одоо цагаар хэлнэ: 'Unless he comes, we will start' ('Unless he will come' гэж болохгүй). Үндсэн өгүүлбэр нь ихэвчлэн 'will' эсвэл 'can' агуулна.",
+  "examples": [
+   {
+    "mn": "Чи хичээллэхгүй бол тэнцэхгүй.",
+    "en": "If you don't study, you won't pass.",
+    "mn_latin": "Chi khicheellekhgüi bol tentsekhgüi."
+   },
+   {
+    "mn": "Оноо авахгүй бол тэтгэлэг алдана.",
+    "en": "Unless you get the points, you'll lose the scholarship.",
+    "mn_latin": "Onoo avakhgüi bol tetgeleg aldana."
+   },
+   {
+    "mn": "Багш зөвшөөрөхгүй бол бид ирж болохгүй.",
+    "en": "Unless the teacher agrees, we can't come.",
+    "mn_latin": "Bagsh zövshöörökhgüi bol bid irj bolokhgüi."
+   },
+   {
+    "mn": "Дахин өгөхгүй бол дүн засагдахгүй.",
+    "en": "Unless you retake it, your grade won't improve.",
+    "mn_latin": "Dakhin ögökhgüi bol dün zasagdakhgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Чи хичээллэ___ бол шалгалтад тэнцэхгүй.",
+   "answer": "хгүй",
+   "options": [
+    "хгүй",
+    "сэн",
+    "х",
+    "жээ"
+   ],
+   "translation": "If you don't study, you won't pass the exam.",
+   "explain_en": "Negative condition: verb stem + -хгүй бол means 'if not'.",
+   "explain_mn": "Сөрөг нөхцөл нь үйл үгийн үндэс + -хгүй бол хэлбэрээр бүтнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр шалгалтад ___ тул дахин өгнө.",
+   "answer": "унасан",
+   "options": [
+    "унасан",
+    "тэнцсэн",
+    "бэлдсэн",
+    "хэлсэн"
+   ],
+   "translation": "He failed the exam, so he will retake it.",
+   "explain_en": "унах means 'to fail'; тэнцэх would mean he passed, so no retake.",
+   "explain_mn": "Дахин өгөх шалтгаан нь шалгалтад унасан явдал, тэнцсэн бол дахин өгөхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Шалгалтын ___ маргааш гарна.",
+   "answer": "дүн",
+   "options": [
+    "дүн",
+    "өрөө",
+    "хоол",
+    "зам"
+   ],
+   "translation": "The exam results will come out tomorrow.",
+   "explain_en": "дүн means 'result/grade' and fits with 'come out' (гарах).",
+   "explain_mn": "Шалгалтын дүн гарна гэж хэлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "___ you study, you won't pass the exam.",
+   "answer": "Unless",
+   "options": [
+    "Unless",
+    "If",
+    "Although",
+    "Because"
+   ],
+   "translation": "Чи хичээллэхгүй бол шалгалтад тэнцэхгүй.",
+   "explain_en": "'Unless' = 'if not', and the verb after it is positive.",
+   "explain_mn": "'Unless' нь 'if not' гэсэн утгатай, дараах үйл үг нь эерэг байна."
+  },
+  {
+   "lang": "en",
+   "text": "Unless he ___ the teacher, he can't skip the class.",
+   "answer": "asks",
+   "options": [
+    "asks",
+    "will ask",
+    "doesn't ask",
+    "asked"
+   ],
+   "translation": "Тэр багшаас асуухгүй бол хичээл тасалж болохгүй.",
+   "explain_en": "After 'unless' use the simple present, not 'will' and not a negative.",
+   "explain_mn": "'Unless'-ийн дараа одоо цагийн энгийн хэлбэр хэрэглэнэ, 'will' болон үгүйсгэл хэрэглэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "If I fail, I will ___ the exam.",
+   "answer": "retake",
+   "options": [
+    "retake",
+    "pass",
+    "finish",
+    "grade"
+   ],
+   "translation": "Хэрэв би унавал шалгалтаа дахин өгнө.",
+   "explain_en": "'Retake' is the English equivalent of дахин өгөх.",
+   "explain_mn": "'Retake' нь 'дахин өгөх' гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Бат аа, шалгалтын дүн гарсан уу?",
+   "en": "Bat, have the exam results come out?",
+   "mn_latin": "Bat aa, shalgaltyn dün garsan uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Гарсан. Би дөнгөж тэнцсэн, оноо маань бага байна.",
+   "en": "Yes. I barely passed, and my score is low.",
+   "mn_latin": "Garsan. Bi döngöj tentssen, onoo maani baga baina."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Би айж байна. Хэрэв унавал яах вэ?",
+   "en": "I'm nervous. What if I fail?",
+   "mn_latin": "Bi aij baina. Kherev unaval yaakh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Унавал дараа сард дахин өгч болно.",
+   "en": "If you fail, you can retake it next month.",
+   "mn_latin": "Unaval daraa sard dakhin ögch bolno."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Гэхдээ тэтгэлгээ алдчих вий дээ.",
+   "en": "But I might lose my scholarship.",
+   "mn_latin": "Gekhdee tetgelgee aldchikh vii dee."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн бэлдэхгүй бол тийм эрсдэл бий.",
+   "en": "Unless you prepare well, there is that risk.",
+   "mn_latin": "Sain beldekhgüi bol tiim ersdel bii."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тийм ээ, би өнөөдрөөс эхлээд өдөр бүр хичээллэнэ.",
+   "en": "You're right, I'll study every day starting today.",
+   "mn_latin": "Tiim ee, bi önöödröös ekhleed ödör bür khicheellene."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна. Тусламж хэрэгтэй бол би тусалъя.",
+   "en": "Good. If you need help, I'll help you.",
+   "mn_latin": "Sain baina. Tuslamj kheregtei bol bi tusalya."
+  }
+ ],
+ "culture_note": {
+  "en": "In many Mongolian universities, a student who fails a course can usually retake the exam, often for a fee or in a later session. Grades are often given as points out of 100 and turned into letter grades, and keeping a good average matters for state or university scholarships. Students often study together in groups before retakes.",
+  "mn": "Монголын олон их дээд сургуульд хичээлд унасан оюутан шалгалтаа дахин өгөх боломжтой бөгөөд ихэвчлэн төлбөртэй эсвэл дараагийн улиралд өгдөг. Дүнг ихэвчлэн 100 онооны системээр тооцоод үсгэн дүн болгодог бөгөөд төрийн болон сургуулийн тэтгэлэгт хамрагдахад дундаж дүн чухал. Дахин өгөхийн өмнө оюутнууд бүлгээрээ хамт хичээллэх нь элбэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 20,
+  "notes": "Mostly good; main problems are the inaccurate 'formal -вал+гүй' claim in the grammar, a few translation mismatches, and a poorly formed scholarship phrase in the dialogue. Some items I flagged as 'kept' need no change."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "Fixed an unnatural vocab item, case and spelling errors, an illogical sentence, and en/mn mismatches in the grammar and culture texts.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "mn",
+    "why": "'хичээл завсарлах' means a class break; standard phrase for taking leave is 'чөлөө авах'"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "en",
+    "why": "Natural English has no article: 'take leave'"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "Matches the corrected headword"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_en",
+    "why": "Natural English"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "'нь' means 'his/her'; the English says 'your'"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "'If you don't come, I won't wait' is illogical; adding 'on time' fixes it"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "Matches the corrected Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "Matches the corrected meaning"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Make the en and mn explanations say the same thing"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn version was missing the Mongolian -хгүй бол part; now matches en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "'таслаж' is a misspelling of 'тасалж'; natural phrase is 'хичээл тасалж'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Reflexive possessive is natural for one's own exam"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "'надаар тусламж хэрэгтэй' uses the wrong case"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "Clearer, matches the Mongolian"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Matches en: 'often' (not 'заримдаа') and 'state or university scholarships'"
+   }
+  ]
+ }
+}

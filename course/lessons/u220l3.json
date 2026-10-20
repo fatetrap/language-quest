@@ -1,0 +1,440 @@
+{
+ "intro_en": "Join your host family for the early-morning milking of cows, goats and mares, and learn the key milking words. You'll practice the Mongolian pattern -ж сурах (\"learn to do\") in present, past and future, and the English phrases \"Shall I...?\" and \"Would you like me to...?\" for offering help.",
+ "intro_mn": "Малчин айлынхаа хамт өглөө эрт үнээ, ямаа, гүү саах үйл ажиллагаанд оролцож, саалийн гол үгсийг сурна. Монгол хэлний \"-ж сурах\" хэлбэрийг одоо, өнгөрсөн, ирээдүй цагт хэрэглэж, мөн англи хэлний \"Shall I...?\", \"Would you like me to...?\" хэллэгээр тусламж санал болгож сурна.",
+ "vocab": [
+  {
+   "mn": "саах",
+   "en": "to milk",
+   "pos": "verb",
+   "example_mn": "Би өглөө бүр үнээ саадаг.",
+   "example_en": "I milk the cow every morning.",
+   "mn_latin": "saakh"
+  },
+  {
+   "mn": "сааль",
+   "en": "milking",
+   "pos": "noun",
+   "example_mn": "Өглөөний сааль эрт эхэлдэг.",
+   "example_en": "The morning milking starts early.",
+   "mn_latin": "saali"
+  },
+  {
+   "mn": "тугал",
+   "en": "calf",
+   "pos": "noun",
+   "example_mn": "Эхлээд тугалыг хөхүүлнэ.",
+   "example_en": "First, you let the calf suckle.",
+   "mn_latin": "tugal"
+  },
+  {
+   "mn": "унага",
+   "en": "foal",
+   "pos": "noun",
+   "example_mn": "Унага ээжийнхээ хажууд зогсож байна.",
+   "example_en": "The foal is standing next to its mother.",
+   "mn_latin": "unaga"
+  },
+  {
+   "mn": "хувин",
+   "en": "bucket, pail",
+   "pos": "noun",
+   "example_mn": "Энэ хувин дүүрэн сүүтэй.",
+   "example_en": "This bucket is full of milk.",
+   "mn_latin": "khuvin"
+  },
+  {
+   "mn": "зэл",
+   "en": "tethering line (for foals or calves)",
+   "pos": "noun",
+   "example_mn": "Унаганууд зэлд уяатай байна.",
+   "example_en": "The foals are tied to the tethering line.",
+   "mn_latin": "zel"
+  },
+  {
+   "mn": "гүү",
+   "en": "mare",
+   "pos": "noun",
+   "example_mn": "Зун гүүг өдөрт хэд хэдэн удаа саадаг.",
+   "example_en": "In summer, mares are milked several times a day.",
+   "mn_latin": "güü"
+  },
+  {
+   "mn": "ямаа",
+   "en": "goat",
+   "pos": "noun",
+   "example_mn": "Ямаа саахад амархан уу?",
+   "example_en": "Is it easy to milk goats?",
+   "mn_latin": "yamaa"
+  },
+  {
+   "mn": "үнээ",
+   "en": "cow",
+   "pos": "noun",
+   "example_mn": "Үнээ тайван зогсож байна.",
+   "example_en": "The cow is standing calmly.",
+   "mn_latin": "ünee"
+  },
+  {
+   "mn": "хөхүүлэх",
+   "en": "to let suckle, to nurse",
+   "pos": "verb",
+   "example_mn": "Гүү саахын өмнө унагыг хөхүүлдэг.",
+   "example_en": "Before milking a mare, they let the foal suckle.",
+   "mn_latin": "khökhüülekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би үнээ саалж сурч байна.",
+   "en": "I'm learning to milk cows.",
+   "alt_mn": [
+    "Би үнээ саахыг сурч байна."
+   ],
+   "alt_en": [
+    "I am learning to milk cows.",
+    "I'm learning how to milk cows."
+   ],
+   "mn_latin": "Bi ünee saalj surch baina."
+  },
+  {
+   "mn": "Би эцэст нь ямаа саалж сурлаа!",
+   "en": "I've finally learned to milk goats!",
+   "alt_mn": [
+    "Эцэст нь би ямаа саалж сурлаа!"
+   ],
+   "alt_en": [
+    "I finally learned to milk goats!",
+    "I've finally learned how to milk goats!"
+   ],
+   "mn_latin": "Bi etsest ni yamaa saalj surlaa!"
+  },
+  {
+   "mn": "Миний эмээ бага байхдаа гүү саалж сурсан.",
+   "en": "My grandmother learned to milk mares when she was little.",
+   "alt_mn": [
+    "Манай эмээ бага байхдаа гүү саалж сурсан."
+   ],
+   "alt_en": [
+    "My grandma learned to milk mares when she was little.",
+    "My grandmother learned to milk mares as a child."
+   ],
+   "mn_latin": "Minii emee baga baikhdaa güü saalj sursan."
+  },
+  {
+   "mn": "Би хувинг барих уу?",
+   "en": "Shall I hold the bucket?",
+   "alt_mn": [
+    "Хувинг би барих уу?"
+   ],
+   "alt_en": [
+    "Should I hold the bucket?",
+    "Shall I hold the pail?"
+   ],
+   "mn_latin": "Bi khuving barikh uu?"
+  },
+  {
+   "mn": "Би тугалыг тайлаад өгөх үү?",
+   "en": "Would you like me to untie the calf?",
+   "alt_mn": [
+    "Тугалыг би тайлаад өгөх үү?"
+   ],
+   "alt_en": [
+    "Shall I untie the calf?",
+    "Do you want me to untie the calf?"
+   ],
+   "mn_latin": "Bi tugalyg tailaad ögökh üü?"
+  },
+  {
+   "mn": "Гүү саахын өмнө унагыг хөхүүлэх хэрэгтэй.",
+   "en": "Before milking a mare, you need to let the foal suckle.",
+   "alt_mn": [
+    "Гүүг саахын өмнө унагыг хөхүүлэх хэрэгтэй."
+   ],
+   "alt_en": [
+    "You have to let the foal suckle before milking a mare."
+   ],
+   "mn_latin": "Güü saakhyn ömnö unagyg khökhüülekh kheregtei."
+  },
+  {
+   "mn": "Та хэдэн настайдаа үнээ саалж сурсан бэ?",
+   "en": "How old were you when you learned to milk cows?",
+   "alt_mn": [],
+   "alt_en": [
+    "At what age did you learn to milk cows?"
+   ],
+   "mn_latin": "Ta kheden nastaidaa ünee saalj sursan be?"
+  },
+  {
+   "mn": "Дүү маань одоо гүү саалж сурч байгаа.",
+   "en": "My younger sibling is learning to milk mares now.",
+   "alt_mn": [
+    "Миний дүү одоо гүү саалж сурч байна."
+   ],
+   "alt_en": [
+    "My younger brother is learning to milk mares now.",
+    "My younger sister is learning to milk mares now."
+   ],
+   "mn_latin": "Düü maani odoo güü saalj surch baigaa."
+  },
+  {
+   "mn": "Би сүүг гэрт зөөх үү?",
+   "en": "Shall I carry the milk to the ger?",
+   "alt_mn": [
+    "Сүүг би гэрт зөөх үү?"
+   ],
+   "alt_en": [
+    "Should I carry the milk to the ger?",
+    "Shall I take the milk to the ger?"
+   ],
+   "mn_latin": "Bi süüg gert zöökh üü?"
+  },
+  {
+   "mn": "Энэ зун би сайн саалж сурна.",
+   "en": "This summer I'll learn to milk well.",
+   "alt_mn": [
+    "Би энэ зун сайн саалж сурна."
+   ],
+   "alt_en": [
+    "I will learn to milk well this summer."
+   ],
+   "mn_latin": "Ene zun bi sain saalj surna."
+  },
+  {
+   "mn": "Өглөөний сааль нар гарахаас өмнө эхэлдэг.",
+   "en": "The morning milking starts before sunrise.",
+   "alt_mn": [],
+   "alt_en": [
+    "Morning milking begins before sunrise."
+   ],
+   "mn_latin": "Öglöönii saali nar garakhaas ömnö ekheldeg."
+  },
+  {
+   "mn": "Би өөр хувин авчирч өгөх үү?",
+   "en": "Would you like me to bring another bucket?",
+   "alt_mn": [
+    "Өөр хувин авчирч өгөх үү?"
+   ],
+   "alt_en": [
+    "Shall I bring another bucket?",
+    "Do you want me to bring another bucket?"
+   ],
+   "mn_latin": "Bi öör khuvin avchirch ögökh üü?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Learning a skill: -ж/-ч сурах",
+  "title_mn": "Тусламж санал болгох нь: Shall I...? / Would you like me to...?",
+  "explain_en": "To say \"learn to do something,\" Mongolian puts the action verb in the -ж/-ч form and adds сурах (to learn): саах → саалж сурах \"learn to milk\" (verbs with a long-vowel stem like саа- add -л- before -ж). Only сурах changes for tense. Present: саалж сурч байна (I'm learning to milk). Recent or just-achieved past: саалж сурлаа (I've learned / I just learned). General past: саалж сурсан (I learned, I know how now). Future: саалж сурна (I will learn). Use -ч after stems ending in в, г, р, с (бичих → бичиж, but сурах → сурч).",
+  "explain_mn": "Англи хэлэнд тусламж санал болгохдоо \"Shall I + үйл үг?\" эсвэл \"Would you like me to + үйл үг?\" гэж хэлдэг. \"Shall I hold the bucket?\" нь монголоор \"Би хувинг барих уу?\" гэсэн утгатай. \"Would you like me to...?\" нь илүү эелдэг: \"Would you like me to untie the calf?\" (Би тугалыг тайлаад өгөх үү?). \"Would you like me\" гэсний дараа заавал \"to\" орно, \"me\"-г \"I\" гэж солихгүй. Хариулт: \"Yes, please.\" эсвэл \"No, thanks, I'm fine.\"",
+  "examples": [
+   {
+    "mn": "Би гүү саалж сурч байна.",
+    "en": "I'm learning to milk mares.",
+    "mn_latin": "Bi güü saalj surch baina."
+   },
+   {
+    "mn": "Өчигдөр би ямаа саалж сурлаа.",
+    "en": "Yesterday I learned to milk goats.",
+    "mn_latin": "Öchigdör bi yamaa saalj surlaa."
+   },
+   {
+    "mn": "Би хувинг барих уу?",
+    "en": "Shall I hold the bucket?",
+    "mn_latin": "Bi khuving barikh uu?"
+   },
+   {
+    "mn": "Би сүүг гэрт аваачиж өгөх үү?",
+    "en": "Would you like me to take the milk to the ger?",
+    "mn_latin": "Bi süüg gert avaachij ögökh üü?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би ямаа саалж ___ байна.",
+   "answer": "сурч",
+   "options": [
+    "сурч",
+    "сурах",
+    "сурна",
+    "сурлаа"
+   ],
+   "translation": "I'm learning to milk goats.",
+   "explain_en": "Before байна you need the -ч converb form сурч to build the present progressive: сурч байна = \"am learning.\"",
+   "explain_mn": "\"байна\"-ын өмнө нөхцөл үйл үг \"сурч\" орж, одоо үргэлжилж буй үйлийг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Миний ээж арван настайдаа үнээ саалж ___.",
+   "answer": "сурсан",
+   "options": [
+    "сурсан",
+    "сурч",
+    "сурна",
+    "сурах"
+   ],
+   "translation": "My mother learned to milk cows when she was ten.",
+   "explain_en": "This happened long ago, so use the general past сурсан.",
+   "explain_mn": "Эрт өнгөрсөн үйл тул \"-сан\" нөхцөлтэй \"сурсан\" хэлбэр тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Би эцэст нь гүү ___ сурлаа!",
+   "answer": "саалж",
+   "options": [
+    "саалж",
+    "саах",
+    "саасан",
+    "саана"
+   ],
+   "translation": "I've finally learned to milk mares!",
+   "explain_en": "The action verb before сурах takes the -ж converb: саалж сурлаа.",
+   "explain_mn": "\"сурах\"-ын өмнөх үйл үг \"-ж\" нөхцөлтэй байна: саалж сурлаа."
+  },
+  {
+   "lang": "en",
+   "text": "___ I hold the bucket?",
+   "answer": "Shall",
+   "options": [
+    "Shall",
+    "Would",
+    "Does",
+    "Am"
+   ],
+   "translation": "Би хувинг барих уу?",
+   "explain_en": "\"Shall I + verb?\" is the standard way to offer help with I.",
+   "explain_mn": "\"I\"-тэй хамт тусламж санал болгоход \"Shall I...?\" хэрэглэнэ. \"Would I hold\" гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Would you like ___ to untie the calf?",
+   "answer": "me",
+   "options": [
+    "me",
+    "I",
+    "my",
+    "mine"
+   ],
+   "translation": "Би тугалыг тайлаад өгөх үү?",
+   "explain_en": "After \"like\" we use the object pronoun: Would you like me to...?",
+   "explain_mn": "\"like\"-ийн дараа тусагдахуун \"me\" орно, \"I\" биш."
+  },
+  {
+   "lang": "en",
+   "text": "Would you like me ___ carry the milk to the ger?",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "and",
+    "of"
+   ],
+   "translation": "Би сүүг гэрт зөөж өгөх үү?",
+   "explain_en": "The pattern is \"Would you like me to + base verb.\"",
+   "explain_mn": "Энэ хэллэгт \"me\"-гийн дараа заавал \"to\" + үйл үгийн үндсэн хэлбэр орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Цэцэг",
+   "mn": "Өглөөний сааль эхэлж байна. Хувиа аваарай.",
+   "en": "The morning milking is starting. Grab your bucket.",
+   "mn_latin": "Öglöönii saali ekhelj baina. Khuvia avaarai."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Би тугалыг тайлах уу?",
+   "en": "Shall I untie the calf?",
+   "mn_latin": "Bi tugalyg tailakh uu?"
+  },
+  {
+   "speaker": "Цэцэг",
+   "mn": "Тийм ээ. Эхлээд тугалыг хөхүүлээд, дараа нь үнээг саана.",
+   "en": "Yes. First we let the calf suckle, then we milk the cow.",
+   "mn_latin": "Tiim ee. Ekhleed tugalyg khökhüüleed, daraa ni üneeg saana."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Би өчигдөр ямаа саалж сурлаа. Одоо үнээ саалж сурмаар байна.",
+   "en": "Yesterday I learned to milk goats. Now I want to learn to milk cows.",
+   "mn_latin": "Bi öchigdör yamaa saalj surlaa. Odoo ünee saalj surmaar baina."
+  },
+  {
+   "speaker": "Цэцэг",
+   "mn": "Сайн байна. Маргааш гүү саахыг заая. Унаганууд тэр зэлд уяатай байгаа.",
+   "en": "Great. Tomorrow I'll teach you to milk mares. The foals are tied to that line over there.",
+   "mn_latin": "Sain baina. Margaash güü saakhyg zaaya. Unaganuud ter zeld uyaatai baigaa."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Би сүүг гэрт аваачиж өгөх үү?",
+   "en": "Would you like me to take the milk to the ger?",
+   "mn_latin": "Bi süüg gert avaachij ögökh üü?"
+  },
+  {
+   "speaker": "Цэцэг",
+   "mn": "Тэгээрэй, баярлалаа. Та хурдан сурч байна шүү.",
+   "en": "Yes, please, thank you. You're learning fast.",
+   "mn_latin": "Tegeerei, bayarlalaa. Ta khurdan surch baina shüü."
+  }
+ ],
+ "culture_note": {
+  "en": "In summer, herders tie the foals to a long line called a зэл so the mares stay close, and the mares are milked every couple of hours. The mare's milk is churned and fermented into airag. Cows are usually milked in the morning and evening, and the calf is allowed to suckle first so the milk starts flowing.",
+  "mn": "Зуны улиралд малчид унагыг зэлд уяж, гүүг ойр байлгадаг бөгөөд хоёр цаг тутам саадаг. Гүүний сүүг бүлж исгээд айраг болгодог. Үнээг ихэвчлэн өглөө, орой саадаг бөгөөд үнээ ивэхийн тулд эхлээд тугалыг хөхүүлдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, natural lesson. There was one ungrammatical alternative, two fill-in-the-blank items had more than one correct answer, and one grammar explanation left out a step."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 7,
+  "notes": "Fixed the сааль spelling throughout, made Tsetseg's register consistently polite, used the standard ивэх, and aligned the two intros.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "Standard spelling is сааль (soft sign), as in саалийн"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "Spelling: сааль"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "Spelling: сааль"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "Spelling: сааль"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Register: Tsetseg uses the polite -аарай earlier, so чи should be та; тэгээч changed to the matching polite form тэгээрэй"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Standard verb is ивэх (to let down milk), not ивлэх"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Mongolian intro omitted the -ж сурах grammar point mentioned in the English intro"
+   }
+  ]
+ }
+}

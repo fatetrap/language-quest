@@ -1,0 +1,415 @@
+{
+ "intro_en": "Learn how to buy concert tickets online and at the box office, compare seat types and prices, and understand ticket notices. You will practice the semi-formal Mongolian cause ending -х тул and the English pattern so + adjective + that.",
+ "intro_mn": "Концертын тасалбарыг онлайнаар болон кассаас авах, суудлын төрөл, үнийг харьцуулах, тасалбартай холбоотой мэдэгдлийг ойлгож сурна. Монгол хэлний хагас албан ёсны шалтгааны «-х тул» нөхцөл болон англи хэлний so + тэмдэг нэр + that бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "тасалбар",
+   "en": "ticket",
+   "pos": "noun",
+   "example_mn": "Би тоглолтын хоёр тасалбар авлаа.",
+   "example_en": "I bought two tickets for the concert.",
+   "mn_latin": "tasalbar"
+  },
+  {
+   "mn": "касс",
+   "en": "box office",
+   "pos": "noun",
+   "example_mn": "Тасалбарын касс өглөө 10 цагт нээгдэнэ.",
+   "example_en": "The box office opens at 10 a.m.",
+   "mn_latin": "kass"
+  },
+  {
+   "mn": "ердийн суудал",
+   "en": "regular seat",
+   "pos": "noun phrase",
+   "example_mn": "Ердийн суудал VIP-ээс хамаагүй хямд.",
+   "example_en": "Regular seats are much cheaper than VIP.",
+   "mn_latin": "yerdiin suudal"
+  },
+  {
+   "mn": "VIP суудал",
+   "en": "VIP seat",
+   "pos": "noun phrase",
+   "example_mn": "VIP суудал тайзны яг өмнө байрладаг.",
+   "example_en": "The VIP seats are right in front of the stage.",
+   "mn_latin": "VIP suudal"
+  },
+  {
+   "mn": "урьдчилан захиалах",
+   "en": "to book in advance",
+   "pos": "verb phrase",
+   "example_mn": "Тасалбараа урьдчилан захиалсан нь дээр.",
+   "example_en": "It's better to book your tickets in advance.",
+   "mn_latin": "uridchilan zakhialakh"
+  },
+  {
+   "mn": "зарагдаж дуусах",
+   "en": "to sell out",
+   "pos": "verb phrase",
+   "example_mn": "Тасалбар хоёр цагийн дотор зарагдаж дууссан.",
+   "example_en": "The tickets sold out within two hours.",
+   "mn_latin": "zaragdaj duusakh"
+  },
+  {
+   "mn": "QPay-ээр төлөх",
+   "en": "to pay with QPay",
+   "pos": "verb phrase",
+   "example_mn": "Та QPay-ээр төлж болно.",
+   "example_en": "You can pay with QPay.",
+   "mn_latin": "QPay-eer tölökh"
+  },
+  {
+   "mn": "буцаан олгох",
+   "en": "to refund",
+   "pos": "verb",
+   "example_mn": "Тасалбарын үнийг бүрэн буцаан олгоно.",
+   "example_en": "The full ticket price will be refunded.",
+   "mn_latin": "butsaan olgokh"
+  },
+  {
+   "mn": "хөнгөлөлт",
+   "en": "discount",
+   "pos": "noun",
+   "example_mn": "Оюутнуудад 20 хувийн хөнгөлөлт үзүүлнэ.",
+   "example_en": "Students get a 20 percent discount.",
+   "mn_latin": "khöngölölt"
+  },
+  {
+   "mn": "тайз",
+   "en": "stage",
+   "pos": "noun",
+   "example_mn": "Бид тайзнаас хол суусан.",
+   "example_en": "We sat far from the stage.",
+   "mn_latin": "taiz"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тасалбар зарагдаж дууссан тул касс хаалттай байна.",
+   "en": "Since the tickets are sold out, the box office is closed.",
+   "alt_mn": [
+    "Тасалбар дууссан тул касс хаалттай байна."
+   ],
+   "alt_en": [
+    "The box office is closed because the tickets have sold out.",
+    "Because the tickets are sold out, the box office is closed."
+   ],
+   "mn_latin": "Tasalbar zaragdaj duussan tul kass khaalttai baina."
+  },
+  {
+   "mn": "VIP тасалбар маш үнэтэй байсан тул бид ердийн суудал авсан.",
+   "en": "The VIP tickets were so expensive that we bought regular seats.",
+   "alt_mn": [
+    "VIP тасалбар хэтэрхий үнэтэй байсан болохоор бид ердийн суудал авсан."
+   ],
+   "alt_en": [
+    "Because the VIP tickets were very expensive, we got regular seats."
+   ],
+   "mn_latin": "VIP tasalbar mash ünetei baisan tul bid yerdiin suudal avsan."
+  },
+  {
+   "mn": "Тоглолт цуцлагдсан тул тасалбарын үнийг бүрэн буцаан олгоно.",
+   "en": "Since the concert has been canceled, the full ticket price will be refunded.",
+   "alt_mn": [
+    "Тоглолт цуцлагдсан тул тасалбарын төлбөрийг бүрэн буцаан олгоно."
+   ],
+   "alt_en": [
+    "Because the concert was canceled, tickets will be fully refunded."
+   ],
+   "mn_latin": "Toglolt tsutslagdsan tul tasalbaryn üniig büren butsaan olgono."
+  },
+  {
+   "mn": "Онлайнаар урьдчилан захиалбал 20 хувийн хөнгөлөлт эдэлнэ.",
+   "en": "If you book online in advance, you get a 20 percent discount.",
+   "alt_mn": [
+    "Онлайнаар урьдчилан захиалбал 20 хувийн хөнгөлөлт авна."
+   ],
+   "alt_en": [
+    "Booking online in advance gets you a 20 percent discount."
+   ],
+   "mn_latin": "Onlainaar uridchilan zakhialbal 20 khuviin khöngölölt edelne."
+  },
+  {
+   "mn": "Сайтын ачаалал их байгаа тул QPay-ээр төлөхдөө түр хүлээнэ үү.",
+   "en": "Since the website is very busy, please wait a moment when paying with QPay.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because the site is overloaded, please wait a moment when paying with QPay."
+   ],
+   "mn_latin": "Saityn achaalal ikh baigaa tul QPay-eer tölökhdöö tür khüleene üü."
+  },
+  {
+   "mn": "Дараалал маш урт байсан тул бид хоёр цаг зогссон.",
+   "en": "The line was so long that we stood for two hours.",
+   "alt_mn": [
+    "Дараалал тийм урт байсан болохоор бид хоёр цаг зогссон."
+   ],
+   "alt_en": [
+    "The line was so long that we waited for two hours."
+   ],
+   "mn_latin": "Daraalal mash urt baisan tul bid khoyor tsag zogsson."
+  },
+  {
+   "mn": "Тайзны өмнөх суудал хамгийн үнэтэй.",
+   "en": "The seats in front of the stage are the most expensive.",
+   "alt_mn": [
+    "Тайзны өмнөх суудлууд хамгийн үнэтэй."
+   ],
+   "alt_en": [
+    "The seats near the front of the stage cost the most."
+   ],
+   "mn_latin": "Taizny ömnökh suudal khamgiin ünetei."
+  },
+  {
+   "mn": "Тасалбарын төлбөрийг QPay-ээр төлж болох уу?",
+   "en": "Can I pay for the ticket with QPay?",
+   "alt_mn": [
+    "Тасалбарын төлбөрийг QPay-ээр төлөх боломжтой юу?"
+   ],
+   "alt_en": [
+    "Is it possible to pay for the ticket with QPay?"
+   ],
+   "mn_latin": "Tasalbaryn tölböriig QPay-eer tölj bolokh uu?"
+  },
+  {
+   "mn": "Худалдан авсан тасалбарын төлбөрийг буцаан олгохгүй тул анхааралтай сонгоно уу.",
+   "en": "Since purchased tickets are non-refundable, please choose carefully.",
+   "alt_mn": [],
+   "alt_en": [
+    "Purchased tickets cannot be refunded, so please choose carefully."
+   ],
+   "mn_latin": "Khudaldan avsan tasalbaryn tölböriig butsaan olgokhgüi tul ankhaaraltai songono uu."
+  },
+  {
+   "mn": "Тоглолт маш гоё байсан тул үзэгчид босож алга ташсан.",
+   "en": "The concert was so good that the audience gave a standing ovation.",
+   "alt_mn": [
+    "Тоглолт тийм гоё байсан болохоор үзэгчид босож алга ташсан."
+   ],
+   "alt_en": [
+    "The concert was so good that the audience stood up and applauded."
+   ],
+   "mn_latin": "Toglolt mash goyo baisan tul üzegchid bosoj alga tashsan."
+  },
+  {
+   "mn": "Хүүхдийн тасалбар том хүнийхээс хоёр дахин хямд.",
+   "en": "Children's tickets are half the price of adult tickets.",
+   "alt_mn": [
+    "Хүүхдийн тасалбар насанд хүрэгчдийнхээс хоёр дахин хямд."
+   ],
+   "alt_en": [
+    "A child's ticket costs half as much as an adult's."
+   ],
+   "mn_latin": "Khüükhdiin tasalbar tom khüniikhees khoyor dakhin khyamd."
+  },
+  {
+   "mn": "Тасалбар маш хурдан зарагдаж дууссан тул би авч амжсангүй.",
+   "en": "The tickets sold out so fast that I couldn't get one.",
+   "alt_mn": [
+    "Тасалбар маш хурдан дууссан болохоор би авч амжаагүй."
+   ],
+   "alt_en": [
+    "The tickets sold out so quickly that I didn't manage to get one."
+   ],
+   "mn_latin": "Tasalbar mash khurdan zaragdaj duussan tul bi avch amjsangüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Giving reasons with -х тул / -сан тул",
+  "title_mn": "So + тэмдэг нэр + that: «маш ... тул» гэсэн утга",
+  "explain_en": "To give a reason in a semi-formal way, put тул after a verb participle. Use the past participle -сан/-сон/-сэн/-сөн for something that has already happened: Тасалбар дууссан тул... (Since the tickets have sold out...). Use -х for a general, present, or future reason, often with байх: Ачаалал их байх тул... (Since traffic will be heavy...). You will see тул in notices, announcements, emails, and official explanations. In casual speech people usually say болохоор or учраас instead.",
+  "explain_mn": "Англи хэлэнд ямар нэг зүйл хэт их байснаас үр дүн гарсныг «so + тэмдэг нэр/дайвар + that + үр дүн» бүтцээр илэрхийлнэ: The tickets were so expensive that we stayed home (Тасалбар маш үнэтэй байсан тул бид гэртээ үлдсэн). Нэр үгтэй бол «such (a) + тэмдэг нэр + нэр үг + that» хэрэглэнэ: It was such a long line that we left. Ярианд «that»-ийг заримдаа орхидог: The show was so good I cried. «Too»-г ингэж хэрэглэдэггүйг анхаараарай. «too expensive that» гэж хэлэхгүй.",
+  "examples": [
+   {
+    "mn": "Тасалбар зарагдаж дууссан тул нэмэлт тоглолт зохион байгуулна.",
+    "en": "Since the tickets have sold out, an extra show will be held.",
+    "mn_latin": "Tasalbar zaragdaj duussan tul nemelt toglolt zokhion baiguulna."
+   },
+   {
+    "mn": "Цаг агаар муу байх тул тоглолтыг заалд шилжүүллээ.",
+    "en": "Since the weather will be bad, the concert has been moved indoors.",
+    "mn_latin": "Tsag agaar muu baikh tul togloltyg zaald shiljüüllee."
+   },
+   {
+    "mn": "Дуучин өвдсөн тул тоглолт хойшлогдлоо.",
+    "en": "Since the singer is ill, the concert has been postponed.",
+    "mn_latin": "Duuchin övdsön tul toglolt khoishlogdloo."
+   },
+   {
+    "mn": "Тасалбар маш үнэтэй байсан тул бид гэртээ үлдсэн.",
+    "en": "The tickets were so expensive that we stayed home.",
+    "mn_latin": "Tasalbar mash ünetei baisan tul bid gertee üldsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тасалбар зарагдаж дууссан ___ касс хаалттай байна.",
+   "answer": "тул",
+   "options": [
+    "тул",
+    "бол",
+    "ч",
+    "гэж"
+   ],
+   "translation": "Since the tickets are sold out, the box office is closed.",
+   "explain_en": "тул after a past participle (дууссан) gives the reason: 'since / because'. бол means 'if/as for', ч means 'even/also', and гэж is a quoting word.",
+   "explain_mn": "«-сан тул» нь шалтгааныг илэрхийлнэ. «бол», «ч», «гэж» нь шалтгааны утга өгөхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Тоглолт хойшлогд___ тул шинэ огноог удахгүй мэдэгдэнэ.",
+   "answer": "сон",
+   "options": [
+    "сон",
+    "сан",
+    "сэн",
+    "сөн"
+   ],
+   "translation": "Since the concert has been postponed, the new date will be announced soon.",
+   "explain_en": "The verb хойшлогдох has the back vowel о, so vowel harmony requires -сон: хойшлогдсон.",
+   "explain_mn": "«Хойшлогдох» үг «о» эгшигтэй тул эгшиг зохицлын дагуу «-сон» залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Тасалбараа онлайнаар урьдчилан ___ нь дээр.",
+   "answer": "захиалсан",
+   "options": [
+    "захиалсан",
+    "зарагдсан",
+    "буцаасан",
+    "дууссан"
+   ],
+   "translation": "It's better to book your tickets online in advance.",
+   "explain_en": "урьдчилан захиалах means 'to book in advance'. Here -сан нь дээр means 'it's better to do it'. The other verbs mean 'sold', 'returned', and 'finished'.",
+   "explain_mn": "«Урьдчилан захиалах» нь тогтсон хэллэг. «-сан нь дээр» нь зөвлөгөө өгөх утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The tickets were ___ expensive that we stayed home.",
+   "answer": "so",
+   "options": [
+    "so",
+    "such",
+    "too",
+    "very"
+   ],
+   "translation": "Тасалбар маш үнэтэй байсан тул бид гэртээ үлдсэн.",
+   "explain_en": "Before an adjective followed by 'that' + result, use 'so'. 'Such' needs a noun, and 'too' and 'very' don't combine with 'that' this way.",
+   "explain_mn": "Тэмдэг нэрийн өмнө, ард нь «that + үр дүн» ирэх үед «so» хэрэглэнэ. «Such»-ийн ард нэр үг заавал байна. «Too», «very» энэ бүтцэд орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "It was such a long line ___ we went home.",
+   "answer": "that",
+   "options": [
+    "that",
+    "than",
+    "as",
+    "because"
+   ],
+   "translation": "Дараалал маш урт байсан тул бид гэртээ харьсан.",
+   "explain_en": "The pattern is 'such (a) + adjective + noun + that + result'.",
+   "explain_mn": "«Such a + тэмдэг нэр + нэр үг» бүтцийн ард үр дүнг «that»-аар эхлүүлнэ. «Than» нь харьцуулалтад хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The show sold out so quickly that I ___ get a ticket.",
+   "answer": "couldn't",
+   "options": [
+    "couldn't",
+    "can't",
+    "wouldn't",
+    "mustn't"
+   ],
+   "translation": "Тасалбар маш хурдан зарагдаж дууссан тул би авч чадаагүй.",
+   "explain_en": "The story is in the past (sold out), so the result also needs the past form: couldn't.",
+   "explain_mn": "Өгүүлбэр өнгөрсөн цагт (sold out) байгаа тул үр дүнг мөн өнгөрсөн цагаар «couldn't» гэж илэрхийлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу? Баасан гарагийн тоглолтын тасалбар байна уу?",
+   "en": "Hello. Do you have tickets for Friday's concert?",
+   "mn_latin": "Sain baina uu? Baasan garagiin togloltyn tasalbar baina uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Уучлаарай, ердийн суудлын тасалбар зарагдаж дууссан. Зөвхөн VIP үлдсэн.",
+   "en": "Sorry, the regular seats are sold out. Only VIP is left.",
+   "mn_latin": "Uuchlaarai, yerdiin suudlyn tasalbar zaragdaj duussan. Zövkhön VIP üldsen."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "VIP тасалбар хэд вэ?",
+   "en": "How much is a VIP ticket?",
+   "mn_latin": "VIP tasalbar khed ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Нэг тасалбар 250,000 төгрөг. Тайзны яг өмнө суудалтай.",
+   "en": "It's 250,000 tugriks per ticket. The seats are right in front of the stage.",
+   "mn_latin": "Neg tasalbar 250,000 tögrög. Taizny yag ömnö suudaltai."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Ёстой үнэтэй юм аа. Онлайнаар урьдчилан захиалаагүйдээ харамсаж байна.",
+   "en": "That's really expensive. I regret not booking online in advance.",
+   "mn_latin": "Yostoi ünetei yum aa. Onlainaar uridchilan zakhialaagüidee kharamsaj baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тоглолт цуцлагдвал төлбөрийг бүрэн буцаан олгоно. QPay-ээр эсвэл картаар төлж болно.",
+   "en": "If the concert is canceled, you'll get a full refund. You can pay with QPay or by card.",
+   "mn_latin": "Toglolt tsutslagdval tölböriig büren butsaan olgono. QPay-eer esvel kartaar tölj bolno."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "За, нэгийг авъя. QPay-ээр төлье.",
+   "en": "Okay, I'll take one. I'll pay with QPay.",
+   "mn_latin": "Za, negiig avya. QPay-eer töliye."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Баярлалаа. Хаалга 18 цагт нээгдэх тул эртхэн ирээрэй.",
+   "en": "Thank you. The doors open at 6 p.m., so please come a little early.",
+   "mn_latin": "Bayarlalaa. Khaalga 18 tsagt neegdekh tul ertkhen ireerei."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, most concert tickets are sold online through ticketing websites and organizers' social media pages, and paying by scanning a QPay QR code with a banking app is extremely common. Shows by popular Mongolian artists often sell out within hours, so fans follow announcements closely and book as soon as sales open.",
+  "mn": "Улаанбаатарт концертын тасалбарын ихэнхийг тасалбар борлуулах сайт болон зохион байгуулагчдын сошиал хуудсаар зардаг бөгөөд банкны аппликейшнээр QPay QR код уншуулж төлөх нь маш түгээмэл. Алдартай уран бүтээлчдийн тоглолтын тасалбар хэдхэн цагийн дотор зарагдаж дуусах нь элбэг тул фенүүд мэдээллийг анхааралтай дагаж, худалдаа эхэлмэгц захиалдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Solid, natural lesson with accurate grammar explanations. There were only two small morphological and collocation issues in the Mongolian sentences."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "A solid lesson overall. Fixed the intro mismatch, one unnatural Mongolian alternative, and a blank with two possible answers.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The mn intro left out the -х тул point that the en intro includes."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "«Тасалбарыг төлөх» is unnatural. You pay the payment (төлбөр), not the ticket."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "«so» could also be accepted («..., so we went home»), so the blank had two possible answers."
+   }
+  ]
+ }
+}

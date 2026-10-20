@@ -1,0 +1,431 @@
+{
+ "intro_en": "In this lesson you'll book a vet appointment, describe a sick pet's symptoms, and understand treatments like vaccines, shots, and tests. You'll also learn when Mongolian uses -нар for groups of people (эмч нар, эзэд) and when it uses -ууд/-үүд.",
+ "intro_mn": "Энэ хичээлээр та малын эмчид цаг авах, өвчтэй амьтны шинж тэмдгийг тайлбарлах, вакцин, тарилга, шинжилгээ зэрэг эмчилгээний талаар ярьж сурна. Мөн монгол хэлэнд хүмүүсийн бүлгийг заахдаа хэзээ \"нар\" (эмч нар, эзэд), хэзээ -ууд/-үүд хэрэглэдгийг сурна.",
+ "vocab": [
+  {
+   "mn": "вакцин",
+   "en": "vaccine",
+   "pos": "noun",
+   "example_mn": "Манай нохой жил бүр вакцин хийлгэдэг.",
+   "example_en": "Our dog gets vaccinated every year.",
+   "mn_latin": "vaktsin"
+  },
+  {
+   "mn": "тарилга",
+   "en": "injection, shot",
+   "pos": "noun",
+   "example_mn": "Эмч муурт тарилга хийлээ.",
+   "example_en": "The vet gave the cat a shot.",
+   "mn_latin": "tarilga"
+  },
+  {
+   "mn": "шинжилгээ",
+   "en": "test (medical)",
+   "pos": "noun",
+   "example_mn": "Цусны шинжилгээ өгөх хэрэгтэй.",
+   "example_en": "A blood test is needed.",
+   "mn_latin": "shinjilgee"
+  },
+  {
+   "mn": "хоолонд дургүй болох",
+   "en": "to lose one's appetite",
+   "pos": "verb phrase",
+   "example_mn": "Манай муур хэд хоног хоолонд дургүй болсон.",
+   "example_en": "Our cat hasn't had much appetite for a few days.",
+   "mn_latin": "khoolond durgüi bolokh"
+  },
+  {
+   "mn": "малын эмч",
+   "en": "veterinarian, vet",
+   "pos": "noun",
+   "example_mn": "Малын эмч нохойг үзлээ.",
+   "example_en": "The vet examined the dog.",
+   "mn_latin": "malyn emch"
+  },
+  {
+   "mn": "цаг авах",
+   "en": "to book an appointment",
+   "pos": "verb phrase",
+   "example_mn": "Би маргаашийн цаг авмаар байна.",
+   "example_en": "I'd like to book an appointment for tomorrow.",
+   "mn_latin": "tsag avakh"
+  },
+  {
+   "mn": "шинж тэмдэг",
+   "en": "symptom",
+   "pos": "noun",
+   "example_mn": "Ямар шинж тэмдэг илэрч байна вэ?",
+   "example_en": "What symptoms is it showing?",
+   "mn_latin": "shinj temdeg"
+  },
+  {
+   "mn": "эзэн (олон тоо: эзэд)",
+   "en": "owner",
+   "pos": "noun",
+   "example_mn": "Амьтны эзэд хүлээлгийн өрөөнд сууж байна.",
+   "example_en": "Pet owners are sitting in the waiting room.",
+   "mn_latin": "ezen (olon too: ezed)"
+  },
+  {
+   "mn": "эмчилгээ",
+   "en": "treatment",
+   "pos": "noun",
+   "example_mn": "Эмчилгээ долоо хоног үргэлжилнэ.",
+   "example_en": "The treatment will last a week.",
+   "mn_latin": "emchilgee"
+  },
+  {
+   "mn": "бөөлжих",
+   "en": "to vomit, to throw up",
+   "pos": "verb",
+   "example_mn": "Нохой өглөө хоёр удаа бөөлжсөн.",
+   "example_en": "The dog threw up twice this morning.",
+   "mn_latin": "bööljikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай муур өчигдрөөс хойш хоолонд дургүй болсон.",
+   "en": "Our cat hasn't had any appetite since yesterday.",
+   "alt_mn": [
+    "Манай муур өчигдрөөс хойш хоол идэхгүй байна."
+   ],
+   "alt_en": [
+    "Our cat hasn't wanted to eat since yesterday.",
+    "Our cat has had no appetite since yesterday."
+   ],
+   "mn_latin": "Manai muur öchigdröös khoish khoolond durgüi bolson."
+  },
+  {
+   "mn": "Маргааш өглөөний цаг авч болох уу?",
+   "en": "Can I book an appointment for tomorrow morning?",
+   "alt_mn": [
+    "Маргааш өглөө цаг авч болох уу?"
+   ],
+   "alt_en": [
+    "Could I book an appointment for tomorrow morning?",
+    "Can I make an appointment for tomorrow morning?"
+   ],
+   "mn_latin": "Margaash öglöönii tsag avch bolokh uu?"
+  },
+  {
+   "mn": "Эмч нар одоо мэс засал хийж байгаа.",
+   "en": "The vets are doing surgery right now.",
+   "alt_mn": [
+    "Эмч нар яг одоо мэс засал хийж байна."
+   ],
+   "alt_en": [
+    "The doctors are doing surgery right now.",
+    "The vets are in surgery right now."
+   ],
+   "mn_latin": "Emch nar odoo mes zasal khiij baigaa."
+  },
+  {
+   "mn": "Манай нохой бага зэрэг хоол идсэн ч их сульдсан байна.",
+   "en": "Our dog ate a little food, but he's very weak.",
+   "alt_mn": [
+    "Манай нохой жаахан хоол идсэн ч их сульдсан байна."
+   ],
+   "alt_en": [
+    "Our dog ate a little food, but she's very weak.",
+    "Our dog ate a little, but he's very weak."
+   ],
+   "mn_latin": "Manai nokhoi baga zereg khool idsen ch ikh sulidsan baina."
+  },
+  {
+   "mn": "Түүнд эрч хүч бараг алга.",
+   "en": "He has little energy.",
+   "alt_mn": [
+    "Түүнд эрч хүч бараг байхгүй."
+   ],
+   "alt_en": [
+    "She has little energy.",
+    "He has hardly any energy."
+   ],
+   "mn_latin": "Tüünd erch khüch barag alga."
+  },
+  {
+   "mn": "Эхлээд цусны шинжилгээ авъя.",
+   "en": "Let's do a blood test first.",
+   "alt_mn": [
+    "Эхлээд цусны шинжилгээ хийе."
+   ],
+   "alt_en": [
+    "First, let's do a blood test.",
+    "Let's take a blood test first."
+   ],
+   "mn_latin": "Ekhleed tsusny shinjilgee avya."
+  },
+  {
+   "mn": "Вакцин хийлгэсний дараа бага зэрэг сульдах нь хэвийн.",
+   "en": "It's normal to be a little weak after a vaccine.",
+   "alt_mn": [
+    "Вакцин хийлгэсний дараа жаахан сульдах нь хэвийн зүйл."
+   ],
+   "alt_en": [
+    "Being a little weak after a vaccine is normal.",
+    "It's normal for pets to be a little weak after a vaccine."
+   ],
+   "mn_latin": "Vaktsin khiilgesnii daraa baga zereg sulidakh ni kheviin."
+  },
+  {
+   "mn": "Хүлээлгийн өрөөнд нохойнууд, муурнууд, тэдний эзэд байлаа.",
+   "en": "There were dogs, cats, and their owners in the waiting room.",
+   "alt_mn": [],
+   "alt_en": [
+    "Dogs, cats, and their owners were in the waiting room."
+   ],
+   "mn_latin": "Khüleelgiin öröönd nokhoinuud, muurnuud, tednii ezed bailaa."
+  },
+  {
+   "mn": "Малын эмч нар эмчилгээний төлөвлөгөөг тайлбарласан.",
+   "en": "The vets explained the treatment plan.",
+   "alt_mn": [
+    "Малын эмч нар эмчилгээний төлөвлөгөөг тайлбарлав."
+   ],
+   "alt_en": [
+    "The veterinarians explained the treatment plan."
+   ],
+   "mn_latin": "Malyn emch nar emchilgeenii tölövlögöög tailbarlasan."
+  },
+  {
+   "mn": "Энэ тарилгыг өдөрт нэг удаа, гурван өдөр хийнэ.",
+   "en": "This shot is given once a day for three days.",
+   "alt_mn": [
+    "Энэ тарилгыг гурван өдөр, өдөрт нэг удаа хийнэ."
+   ],
+   "alt_en": [
+    "This injection is given once a day for three days."
+   ],
+   "mn_latin": "Ene tarilgyg ödört neg udaa, gurvan ödör khiine."
+  },
+  {
+   "mn": "Шинжилгээний хариу маргааш гарна.",
+   "en": "The test results will be ready tomorrow.",
+   "alt_mn": [
+    "Шинжилгээний хариу маргааш гарах болно."
+   ],
+   "alt_en": [
+    "The test results will come out tomorrow.",
+    "We'll have the test results tomorrow."
+   ],
+   "mn_latin": "Shinjilgeenii khariu margaash garna."
+  },
+  {
+   "mn": "Эдгээр эмүүдийг хоолны дараа өгөөрэй.",
+   "en": "Give these medicines after meals.",
+   "alt_mn": [
+    "Эдгээр эмийг хоолны дараа өгөөрэй."
+   ],
+   "alt_en": [
+    "Please give these medicines after meals.",
+    "Give these medications after meals."
+   ],
+   "mn_latin": "Edgeer emüüdiig khoolny daraa ögöörei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Plurals for people: -нар vs -ууд/-үүд",
+  "title_mn": "Хүмүүсийн олон тоо: \"нар\" ба -ууд/-үүд",
+  "explain_en": "Mongolian often leaves nouns without a plural ending, but when it does mark the plural, the ending depends on the noun. For groups of people defined by their role or relationship, Mongolian uses нар as a separate word: эмч нар (doctors), малын эмч нар (vets), багш нар (teachers), найз нар (friends). It sounds natural and a bit respectful. For animals and things, use -ууд/-үүд, following vowel harmony: нохойнууд (dogs), муурнууд (cats), эмүүд (medicines). Some nouns have their own plural form: эзэн → эзэд (owners). Others drop a vowel before the ending: хүүхэд → хүүхдүүд (children). Remember: you don't say *эмчүүд or *нохой нар.",
+  "explain_mn": "Монгол хэлэнд нэр үгийг олон тооны нөхцөлгүй хэрэглэх нь элбэг. Харин олон тоог тэмдэглэх үед нөхцөл нь нэр үгээс хамаарна. Мэргэжил, үүрэг, харилцаагаар нь нэрлэсэн хүмүүсийн бүлэгт \"нар\"-ыг тусад нь бичнэ: эмч нар, малын эмч нар, багш нар, найз нар. Энэ нь сонсоход зохимжтой, бага зэрэг хүндэтгэлтэй. Амьтан, эд зүйлд эгшиг зохицох ёсны дагуу -ууд/-үүд залгана: нохойнууд, муурнууд, эмүүд. Зарим үг олон тооны онцгой хэлбэртэй: эзэн → эзэд. Заримд нь нөхцөлийн өмнө эгшиг гээгдэнэ: хүүхэд → хүүхдүүд. Анхаар: *эмчүүд, *нохой нар гэж хэлэхгүй.",
+  "examples": [
+   {
+    "mn": "Малын эмч нар хуралдаж байна.",
+    "en": "The vets are having a meeting.",
+    "mn_latin": "Malyn emch nar khuraldaj baina."
+   },
+   {
+    "mn": "Амьтны эзэд эмчээ хүлээж байна.",
+    "en": "The pet owners are waiting for the vet.",
+    "mn_latin": "Amitny ezed emchee khüleej baina."
+   },
+   {
+    "mn": "Муур маань бага зэрэг ус уусан.",
+    "en": "My cat drank a little water.",
+    "mn_latin": "Muur maani baga zereg us uusan."
+   },
+   {
+    "mn": "Нохойнууд маань хоолонд бараг хүрээгүй.",
+    "en": "My dogs ate very little food.",
+    "mn_latin": "Nokhoinuud maani khoolond barag khüreegüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Малын эмч ___ хурал дээр байна.",
+   "answer": "нар",
+   "options": [
+    "нар",
+    "үүд",
+    "ууд",
+    "д"
+   ],
+   "translation": "The vets are at a meeting.",
+   "explain_en": "Groups of people defined by their job take нар, written as a separate word: малын эмч нар. The -үүд/-ууд endings are for animals and things.",
+   "explain_mn": "Мэргэжил, үүргээр нь нэрлэсэн хүмүүсийн олон тоог \"нар\"-аар илэрхийлж, тусад нь бичнэ: малын эмч нар."
+  },
+  {
+   "lang": "mn",
+   "text": "___ хашаанд хуцаж байна.",
+   "answer": "Нохойнууд",
+   "options": [
+    "Нохойнууд",
+    "Нохой нар",
+    "Нохойд",
+    "Нохойнүүд"
+   ],
+   "translation": "The dogs are barking in the yard.",
+   "explain_en": "Animals take -ууд/-үүд, not нар. Нохой has back vowels, so vowel harmony gives -нууд: нохойнууд.",
+   "explain_mn": "Амьтны олон тоонд \"нар\" биш -ууд/-үүд залгана. \"Нохой\" эр үг тул -нууд авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Амьтны ___ хүлээлгийн өрөөнд сууж байна.",
+   "answer": "эзэд",
+   "options": [
+    "эзэд",
+    "эзэнүүд",
+    "эзнүүд",
+    "эзэн нарууд"
+   ],
+   "translation": "The pet owners are sitting in the waiting room.",
+   "explain_en": "Эзэн (owner) has a special plural: эзэд. Forms like эзэнүүд are not used.",
+   "explain_mn": "\"Эзэн\" үгийн олон тоо нь онцгой хэлбэртэй: эзэд."
+  },
+  {
+   "lang": "en",
+   "text": "My cat ate ___ food this morning, so I feel a bit better.",
+   "answer": "a little",
+   "options": [
+    "a little",
+    "little",
+    "a few",
+    "many"
+   ],
+   "translation": "Муур маань өнөө өглөө бага зэрэг хоол идсэн болохоор би жаахан тайвширлаа.",
+   "explain_en": "The speaker feels better, so the meaning is positive: some food, which is good. Use \"a little\" with uncountable nouns like food.",
+   "explain_mn": "Өгүүлэгч тайвширсан тул эерэг утга: \"жаахан ч гэсэн идсэн\". Тоолж болохгүй нэр үгтэй эерэг утгаар a little хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "He has ___ energy and sleeps all day.",
+   "answer": "little",
+   "options": [
+    "little",
+    "a little",
+    "few",
+    "a few"
+   ],
+   "translation": "Түүнд эрч хүч бараг алга, өдөржин унтдаг.",
+   "explain_en": "Sleeping all day is a bad sign, so the meaning is \"almost no energy\". Without \"a\", little sounds negative.",
+   "explain_mn": "Өдөржин унтах нь муу шинж тул \"бараг байхгүй\" гэсэн сөрөг утга. a-гүй little сөрөг өнгө аястай."
+  },
+  {
+   "lang": "en",
+   "text": "Could you give him ___ water after the shot?",
+   "answer": "a little",
+   "options": [
+    "a little",
+    "little",
+    "a few",
+    "many"
+   ],
+   "translation": "Тарилгын дараа түүнд жаахан ус өгч болох уу?",
+   "explain_en": "This is a polite request for some water, so the meaning is positive. Water is uncountable, so \"a few\" and \"many\" don't work.",
+   "explain_mn": "Жаахан ус өгөхийг хүсэж байгаа эерэг утга. Water тоолж болохгүй тул a few, many тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу. Би мууртаа цаг авах гэсэн юм.",
+   "en": "Hello. I'd like to book an appointment for my cat.",
+   "mn_latin": "Sain baina uu. Bi muurtaa tsag avakh gesen yum."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу. Ямар шинж тэмдэг илэрч байна вэ?",
+   "en": "Hello. What symptoms is she showing?",
+   "mn_latin": "Sain baina uu. Yamar shinj temdeg ilerch baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Гурван хоног хоолонд дургүй байна, эрч хүч бараг алга. Ус бага зэрэг уудаг.",
+   "en": "She hasn't wanted to eat for three days, and she has little energy. She drinks a little water.",
+   "mn_latin": "Gurvan khonog khoolond durgüi baina, erch khüch barag alga. Us baga zereg uudag."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Ойлголоо. Өнөөдөр эмч нар завгүй байгаа ч өдрийн гурван цагт нэг сул цаг байна.",
+   "en": "I see. The vets are busy today, but there's one opening at 3 p.m.",
+   "mn_latin": "Oilgoloo. Önöödör emch nar zavgüi baigaa ch ödriin gurvan tsagt neg sul tsag baina."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Сайн байна уу. Муур тань сүүлд хэзээ вакцин хийлгэсэн бэ?",
+   "en": "Hello. When was your cat last vaccinated?",
+   "mn_latin": "Sain baina uu. Muur tani süüld khezee vaktsin khiilgesen be?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Өнгөрсөн хавар.",
+   "en": "Last spring.",
+   "mn_latin": "Öngörsön khavar."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Эхлээд цусны шинжилгээ авъя. Шингэн алдсан байж магадгүй тул тарилга хийнэ.",
+   "en": "Let's do a blood test first. She may be dehydrated, so I'll give her a shot.",
+   "mn_latin": "Ekhleed tsusny shinjilgee avya. Shingen aldsan baij magadgüi tul tarilga khiine."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, баярлалаа. Хариу хэзээ гарах вэ?",
+   "en": "Okay, thank you. When will the results be ready?",
+   "mn_latin": "Za, bayarlalaa. Khariu khezee garakh ve?"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, \"мал эмнэлэг\" traditionally means a clinic for livestock, and in the countryside the local малын эмч looks after herders' sheep, goats, horses, and camels. In Ulaanbaatar, more and more apartment families keep cats and dogs, so private pet clinics (often called амьтны эмнэлэг) offering vaccines, tests, and surgery have become common.",
+  "mn": "Монголд \"мал эмнэлэг\" гэдэг нь уламжлал ёсоор мал эмнэх газрыг хэлдэг бөгөөд хөдөө орон нутагт малын эмч малчдын хонь, ямаа, адуу, тэмээг эмчилдэг. Улаанбаатарт байранд муур, нохой тэжээдэг гэр бүл олширсноор вакцин, шинжилгээ, мэс засал хийдэг хувийн амьтны эмнэлгүүд элбэг болжээ."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 4,
+  "notes": "Solid, natural lesson with good bidirectional grammar design; fixed two ungrammatical English sentences, one numeral form, and one inaccurate grammar claim."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 4,
+  "notes": "Main problem: the Mongolian intro and grammar section covered a different topic (little/a little) from the English ones; they now both cover plurals. Also fixed one case ending in the dialogue.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro covered a different grammar topic than en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title must match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation was about little/a little, not the same as en"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "dative of муур is муурт → мууртаа"
+   }
+  ]
+ }
+}

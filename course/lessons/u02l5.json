@@ -1,0 +1,441 @@
+{
+ "intro_en": "You will learn how Mongolian endings change to match the vowels in a word (ном-д, гэр-т), and how English plural -s sounds different in different words.",
+ "intro_mn": "Монгол үгийн дагавар эгшгийн зохицлоор хэрхэн өөрчлөгддөг (ном-д, гэр-т), мөн англи олон тооны -s дагавар үг бүрт хэрхэн өөр дуудагддагийг сурна.",
+ "vocab": [
+  {
+   "mn": "ном",
+   "en": "book",
+   "pos": "noun",
+   "example_mn": "Энэ миний ном.",
+   "example_en": "This is my book.",
+   "mn_latin": "nom"
+  },
+  {
+   "mn": "гэр",
+   "en": "home / ger",
+   "pos": "noun",
+   "example_mn": "Би гэртээ байна.",
+   "example_en": "I am at home.",
+   "mn_latin": "ger"
+  },
+  {
+   "mn": "сургууль",
+   "en": "school",
+   "pos": "noun",
+   "example_mn": "Сургууль том.",
+   "example_en": "The school is big.",
+   "mn_latin": "surguuli"
+  },
+  {
+   "mn": "хот",
+   "en": "city",
+   "pos": "noun",
+   "example_mn": "Улаанбаатар бол хот.",
+   "example_en": "Ulaanbaatar is a city.",
+   "mn_latin": "khot"
+  },
+  {
+   "mn": "өрөө",
+   "en": "room",
+   "pos": "noun",
+   "example_mn": "Өрөө жижиг.",
+   "example_en": "The room is small.",
+   "mn_latin": "öröö"
+  },
+  {
+   "mn": "ширээ",
+   "en": "table",
+   "pos": "noun",
+   "example_mn": "Ширээн дээр ном байна.",
+   "example_en": "There is a book on the table.",
+   "mn_latin": "shiree"
+  },
+  {
+   "mn": "цонх",
+   "en": "window",
+   "pos": "noun",
+   "example_mn": "Цонх нээлттэй.",
+   "example_en": "The window is open.",
+   "mn_latin": "tsonkh"
+  },
+  {
+   "mn": "хаалга",
+   "en": "door",
+   "pos": "noun",
+   "example_mn": "Хаалга хаалттай.",
+   "example_en": "The door is closed.",
+   "mn_latin": "khaalga"
+  },
+  {
+   "mn": "захиа",
+   "en": "letter",
+   "pos": "noun",
+   "example_mn": "Би захиа авлаа.",
+   "example_en": "I received a letter.",
+   "mn_latin": "zakhia"
+  },
+  {
+   "mn": "байшин",
+   "en": "house / building",
+   "pos": "noun",
+   "example_mn": "Байшин өндөр.",
+   "example_en": "The building is tall.",
+   "mn_latin": "baishin"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ном ширээн дээр байна.",
+   "en": "The book is on the table.",
+   "alt_mn": [
+    "Ном ширээн дээр бий."
+   ],
+   "alt_en": [],
+   "mn_latin": "Nom shireen deer baina."
+  },
+  {
+   "mn": "Би гэрт байна.",
+   "en": "I am in the ger.",
+   "alt_mn": [
+    "Би гэртээ байна."
+   ],
+   "alt_en": [
+    "I am at home."
+   ],
+   "mn_latin": "Bi gert baina."
+  },
+  {
+   "mn": "Би сургуульд байна.",
+   "en": "I am at school.",
+   "alt_mn": [],
+   "alt_en": [
+    "I am in school."
+   ],
+   "mn_latin": "Bi surguulid baina."
+  },
+  {
+   "mn": "Бид хотод байна.",
+   "en": "We are in the city.",
+   "alt_mn": [],
+   "alt_en": [
+    "We are in town."
+   ],
+   "mn_latin": "Bid khotod baina."
+  },
+  {
+   "mn": "Номд зураг байна.",
+   "en": "There is a picture in the book.",
+   "alt_mn": [],
+   "alt_en": [
+    "The book has a picture."
+   ],
+   "mn_latin": "Nomd zurag baina."
+  },
+  {
+   "mn": "Өрөөнд ширээ байна.",
+   "en": "There is a table in the room.",
+   "alt_mn": [],
+   "alt_en": [
+    "A table is in the room."
+   ],
+   "mn_latin": "Öröönd shiree baina."
+  },
+  {
+   "mn": "Цонхонд цэцэг байна.",
+   "en": "There are flowers on the windowsill.",
+   "alt_mn": [],
+   "alt_en": [
+    "There is a flower on the windowsill."
+   ],
+   "mn_latin": "Tsonkhond tsetseg baina."
+  },
+  {
+   "mn": "Байшинд хаалга байна.",
+   "en": "The building has a door.",
+   "alt_mn": [],
+   "alt_en": [
+    "There is a door in the building."
+   ],
+   "mn_latin": "Baishind khaalga baina."
+  },
+  {
+   "mn": "Би гэртээ захиа авлаа.",
+   "en": "I received a letter at home.",
+   "alt_mn": [],
+   "alt_en": [
+    "I got a letter at home."
+   ],
+   "mn_latin": "Bi gertee zakhia avlaa."
+  },
+  {
+   "mn": "Тэр хотод ном авлаа.",
+   "en": "He bought a book in the city.",
+   "alt_mn": [
+    "Тэр хотод ном худалдаж авлаа."
+   ],
+   "alt_en": [
+    "She bought a book in the city.",
+    "He got a book in the city."
+   ],
+   "mn_latin": "Ter khotod nom avlaa."
+  },
+  {
+   "mn": "Миний өрөөнд олон ном байна.",
+   "en": "There are many books in my room.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have many books in my room."
+   ],
+   "mn_latin": "Minii öröönd olon nom baina."
+  },
+  {
+   "mn": "Сургуульд олон хүүхэд байна.",
+   "en": "There are many children at school.",
+   "alt_mn": [],
+   "alt_en": [
+    "Many children are at school."
+   ],
+   "mn_latin": "Surguulid olon khüükhed baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Vowel harmony: -д or -т, back or front",
+  "title_mn": "Эгшгийн зохицол: -д эсвэл -т, эр эсвэл эм",
+  "explain_en": "Mongolian words have back vowels (а, о, у) or front vowels (э, ө, ү). Endings must match the vowels of the word. The 'in/at' ending is -д or -т. After a vowel or л, м, н it is -д (ном-д, сургууль-д, өрөө-нд). After г, в, р, с it is -т (гэр-т). After other consonants such as д, т, з, ж, ш, a vowel is added before -д, and it matches the word: хот → хотод (back vowel о), but a front-vowel word takes -өд/-эд. Learn each word with its ending as a pair.",
+  "explain_mn": "Монгол үгийн дагавар үгийн эгшигт тохирно: эр эгшигтэй (а, о, у) үгэнд эр, эм эгшигтэй (э, ө, ү) үгэнд эм хувилбар залгана. «-д/-т» (өгөх орших) дагавар: эгшиг болон л, м, н-ийн дараа -д (ном-д, сургууль-д, өрөө-нд); г, в, р, с-ийн дараа -т (гэр-т); д, т, з, ж, ш зэргийн дараа эгшиг нэмж -од/-ад/-өд/-эд (хот-од). Үг бүрийг дагавартай нь хамт цээжил.",
+  "examples": [
+   {
+    "mn": "ном-д",
+    "en": "in the book",
+    "mn_latin": "nom-d"
+   },
+   {
+    "mn": "гэр-т",
+    "en": "in the ger",
+    "mn_latin": "ger-t"
+   },
+   {
+    "mn": "сургууль-д",
+    "en": "at school",
+    "mn_latin": "surguuli-d"
+   },
+   {
+    "mn": "хот-од",
+    "en": "in the city",
+    "mn_latin": "khot-od"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би сургууль___ байна.",
+   "answer": "д",
+   "options": [
+    "д",
+    "т",
+    "од",
+    "өд"
+   ],
+   "translation": "I am at school.",
+   "explain_en": "After the consonant л, the 'at/in' ending is -д: сургуульд.",
+   "explain_mn": "«л» гийгүүлэгчийн дараа -д дагавар орно: сургуульд."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид гэр___ байна.",
+   "answer": "т",
+   "options": [
+    "т",
+    "д",
+    "от",
+    "ат"
+   ],
+   "translation": "We are in the ger.",
+   "explain_en": "After р we use -т: гэрт.",
+   "explain_mn": "«р»-ийн дараа -т дагавар орно: гэрт."
+  },
+  {
+   "lang": "mn",
+   "text": "Хот___ олон байшин байна.",
+   "answer": "од",
+   "options": [
+    "од",
+    "өд",
+    "т",
+    "ийн"
+   ],
+   "translation": "There are many buildings in the city.",
+   "explain_en": "Хот has the back vowel о, so the ending is back too: хотод, not хотөд.",
+   "explain_mn": "«хот» үг эр эгшигтэй (о) тул дагавар нь эр хувилбартай: хотод, «хотөд» биш."
+  },
+  {
+   "lang": "en",
+   "text": "I have two book___ on my table. (sound: /s/)",
+   "answer": "s",
+   "options": [
+    "s",
+    "es",
+    "en",
+    "ies"
+   ],
+   "translation": "Миний ширээн дээр хоёр ном байна.",
+   "explain_en": "Book ends in the voiceless sound /k/, so the plural -s sounds like /s/.",
+   "explain_mn": "Book үг дуугүй /k/-ээр төгсдөг тул -s нь /s/ гэж дуудагдана."
+  },
+  {
+   "lang": "en",
+   "text": "There are three room___ in the house. (sound: /z/)",
+   "answer": "s",
+   "options": [
+    "s",
+    "es",
+    "en",
+    "ies"
+   ],
+   "translation": "Байшинд гурван өрөө байна.",
+   "explain_en": "Room ends in a voiced sound /m/, so -s sounds like /z/.",
+   "explain_mn": "Room дуутай /m/-ээр төгсдөг тул -s нь /z/ гэж дуудагдана."
+  },
+  {
+   "lang": "en",
+   "text": "We have two hous___ in the city.",
+   "answer": "es",
+   "options": [
+    "es",
+    "s",
+    "en",
+    "ies"
+   ],
+   "translation": "Хотод бидэнд хоёр байшин байна.",
+   "explain_en": "House ends in an /s/ sound, so the plural is spelled houses and the ending is pronounced /ɪz/: /ˈhaʊzɪz/.",
+   "explain_mn": "House үг /s/ дуугаар төгсдөг тул олон тоо нь houses болж, төгсгөл нь /ɪz/ гэж дуудагдана."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Сайн уу, Эмма! Чи хаана байна?",
+   "en": "Hi, Emma! Where are you?",
+   "mn_latin": "Sain uu, Emma! Chi khaana baina?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Би гэртээ байна. Өрөөндөө ном уншиж байна.",
+   "en": "I am at home. I am reading a book in my room.",
+   "mn_latin": "Bi gertee baina. Örööndöö nom unshij baina."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна. Номд зураг байна уу?",
+   "en": "Nice. Are there pictures in the book?",
+   "mn_latin": "Sain baina. Nomd zurag baina uu?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Тийм, олон зураг байна.",
+   "en": "Yes, there are many pictures.",
+   "mn_latin": "Tiim, olon zurag baina."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Би сургуульд байна.",
+   "en": "I am at school.",
+   "mn_latin": "Bi surguulid baina."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Сургууль хотод байна уу?",
+   "en": "Is the school in the city?",
+   "mn_latin": "Surguuli khotod baina uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, хотод байна.",
+   "en": "Yes, it is in the city.",
+   "mn_latin": "Tiim, khotod baina."
+  }
+ ],
+ "culture_note": {
+  "en": "The traditional Mongolian ger has one door, usually facing south, and one round window at the top called the toono. In Ulaanbaatar many families live in ger districts or apartments, and people often say 'гэртээ' for 'at home' even when it is an apartment.",
+  "mn": "Уламжлалт монгол гэр ихэвчлэн өмнө зүг рүү харсан ганц хаалгатай, оройдоо тооно хэмээх дугуй цонхтой. Улаанбаатарт олон айл гэр хороолол эсвэл орон сууцанд амьдардаг бөгөөд орон сууц байсан ч «гэртээ» гэж хэлдэг."
+ },
+ "review": {
+  "rating": 3,
+  "fixes": 20,
+  "notes": "Grammar explanation was garbled and explain_mn contained the wrong topic; several sentences/blanks needed tightening."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 11,
+  "notes": "The main errors were an incorrect -д/-т consonant rule and non-standard vowel terminology in the Mongolian explanations.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Rule wrongly listed г, в, р as -д consonants, which contradicts гэрт."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Standard terms are эр/эм эгшиг, not хойд/нарийн. Now matches the English explanation."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Match the en title."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Standard terminology. Now matches the en explanation."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Consistent with the corrected rule."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Match the en explanation."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_en",
+    "why": "House already ends in e. The ending only adds -s, so 'we add -es' was inaccurate."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Match the en explanation."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "More natural translation of 'on my table'."
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'There is a book' corresponds to Ширээн дээр ном байна, not to the definite subject ном."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Add 'usually' to match the en note. Fix the word order of орон сууц байсан ч."
+   }
+  ]
+ }
+}

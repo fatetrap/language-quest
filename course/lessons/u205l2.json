@@ -1,0 +1,394 @@
+{
+ "intro_en": "Follow a radio report on how the cashmere boom led to overgrazing, and learn key terms for land degradation. You'll also practice the literary negative particle үл (үл тоох, үл ялиг) and the English cause-and-effect connectors consequently, therefore, and as a consequence.",
+ "intro_mn": "Ноолуурын эрэлтийн огцом өсөлт бэлчээрийн даац хэтрэхэд хэрхэн хүргэсэн тухай радио нэвтрүүлгийг сонсож, газрын доройтлын гол нэр томьёог сурна. Мөн «үл тоох», «үл ялиг» зэрэг «үл» сул үгтэй үгүйсгэх хэлбэр болон англи хэлний consequently, therefore, as a consequence холбоосуудыг давтана.",
+ "vocab": [
+  {
+   "mn": "доройтол",
+   "en": "degradation",
+   "pos": "noun",
+   "example_mn": "Бэлчээрийн доройтол жил ирэх тусам нэмэгдэж байна.",
+   "example_en": "Pasture degradation is increasing year by year.",
+   "mn_latin": "doroitol"
+  },
+  {
+   "mn": "даац хэтрэх",
+   "en": "to exceed carrying capacity",
+   "pos": "verb phrase",
+   "example_mn": "Энэ сумын бэлчээрийн даац хоёр дахин хэтэрсэн.",
+   "example_en": "The pastures in this soum are at twice their carrying capacity.",
+   "mn_latin": "daats khetrekh"
+  },
+  {
+   "mn": "малын тоо толгой",
+   "en": "livestock numbers (head count)",
+   "pos": "noun phrase",
+   "example_mn": "Малын тоо толгой 70 саяас давжээ.",
+   "example_en": "Livestock numbers have passed 70 million.",
+   "mn_latin": "malyn too tolgoi"
+  },
+  {
+   "mn": "цөлжилт",
+   "en": "desertification",
+   "pos": "noun",
+   "example_mn": "Цөлжилт Монголын нутаг дэвсгэрийн дийлэнх хэсэгт нөлөөлж байна.",
+   "example_en": "Desertification affects most of Mongolia's territory.",
+   "mn_latin": "tsöljilt"
+  },
+  {
+   "mn": "ноолуур",
+   "en": "cashmere",
+   "pos": "noun",
+   "example_mn": "Ноолуурын үнэ өсөхөд малчид ямаагаа олшруулсан.",
+   "example_en": "When cashmere prices rose, herders increased their goat herds.",
+   "mn_latin": "nooluur"
+  },
+  {
+   "mn": "үл тоох",
+   "en": "to disregard, to ignore",
+   "pos": "verb (literary)",
+   "example_mn": "Энэ асуудлыг олон жил үл тоосоор ирсэн.",
+   "example_en": "This problem has been ignored for many years.",
+   "mn_latin": "ül tookh"
+  },
+  {
+   "mn": "үл ялиг",
+   "en": "slightly",
+   "pos": "adverb (literary)",
+   "example_mn": "Энэ жил ямааны тоо үл ялиг буурсан.",
+   "example_en": "This year the number of goats decreased slightly.",
+   "mn_latin": "ül yalig"
+  },
+  {
+   "mn": "ургамлан бүрхэвч",
+   "en": "vegetation cover",
+   "pos": "noun phrase",
+   "example_mn": "Ургамлан бүрхэвч жилээс жилд сийрэгжиж байна.",
+   "example_en": "The vegetation cover is getting thinner every year.",
+   "mn_latin": "urgamlan bürkhevch"
+  },
+  {
+   "mn": "үр дагавар",
+   "en": "consequence",
+   "pos": "noun",
+   "example_mn": "Үүний үр дагаврыг бид бүгд амсаж байна.",
+   "example_en": "We are all suffering the consequences of this.",
+   "mn_latin": "ür dagavar"
+  },
+  {
+   "mn": "иймээс",
+   "en": "therefore, consequently",
+   "pos": "conjunction",
+   "example_mn": "Иймээс бэлчээрийг сэлгэх шаардлагатай.",
+   "example_en": "Therefore, the pastures need to be rotated.",
+   "mn_latin": "iimees"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сүүлийн гучин жилд ямааны тоо толгой хэд дахин өссөн.",
+   "en": "Over the last thirty years, the number of goats has grown several times over.",
+   "alt_mn": [
+    "Сүүлийн гучин жилийн хугацаанд ямааны тоо хэд дахин өссөн."
+   ],
+   "alt_en": [
+    "In the past thirty years, the number of goats has multiplied several times."
+   ],
+   "mn_latin": "Süüliin guchin jild yamaany too tolgoi khed dakhin össön."
+  },
+  {
+   "mn": "Ноолуурын эрэлт өсөхийн хэрээр малчид ямаагаа олшруулсан.",
+   "en": "As demand for cashmere grew, herders increased their goat herds.",
+   "alt_mn": [],
+   "alt_en": [
+    "As the demand for cashmere grew, herders kept more goats."
+   ],
+   "mn_latin": "Nooluuryn erelt ösökhiin khereer malchid yamaagaa olshruulsan."
+  },
+  {
+   "mn": "Иймээс олон нутагт бэлчээрийн даац хэтэрсэн.",
+   "en": "Consequently, pastures in many areas have exceeded their carrying capacity.",
+   "alt_mn": [
+    "Үүнээс болж олон нутагт бэлчээрийн даац хэтэрсэн."
+   ],
+   "alt_en": [
+    "Therefore, pastures in many areas have exceeded their carrying capacity.",
+    "As a consequence, pastures in many areas have exceeded their carrying capacity."
+   ],
+   "mn_latin": "Iimees olon nutagt belcheeriin daats khetersen."
+  },
+  {
+   "mn": "Бэлчээрийн доройтол цөлжилтийг хурдасгаж байна.",
+   "en": "Pasture degradation is accelerating desertification.",
+   "alt_mn": [],
+   "alt_en": [
+    "The degradation of pastures is speeding up desertification."
+   ],
+   "mn_latin": "Belcheeriin doroitol tsöljiltiig khurdasgaj baina."
+  },
+  {
+   "mn": "Ямаа өвсийг үндсээр нь сугалж иддэг.",
+   "en": "Goats pull grass up by the roots when they graze.",
+   "alt_mn": [],
+   "alt_en": [
+    "Goats eat grass by pulling it out by the roots."
+   ],
+   "mn_latin": "Yamaa övsiig ündseer ni sugalj iddeg."
+  },
+  {
+   "mn": "Мэргэжилтнүүдийн анхааруулгыг олон жил үл тоосоор ирсэн.",
+   "en": "Experts' warnings have been ignored for many years.",
+   "alt_mn": [
+    "Мэргэжилтнүүдийн анхааруулгыг олон жил тоосонгүй."
+   ],
+   "alt_en": [
+    "The experts' warnings were disregarded for many years."
+   ],
+   "mn_latin": "Mergejiltnüüdiin ankhaaruulgyg olon jil ül toosoor irsen."
+  },
+  {
+   "mn": "Энэ жил ноолуурын үнэ үл ялиг буурсан.",
+   "en": "This year the price of cashmere fell slightly.",
+   "alt_mn": [
+    "Энэ жил ноолуурын үнэ бага зэрэг буурсан."
+   ],
+   "alt_en": [
+    "Cashmere prices dropped slightly this year."
+   ],
+   "mn_latin": "Ene jil nooluuryn üne ül yalig buursan."
+  },
+  {
+   "mn": "Үүнээс үүдэн шороон шуурга ихсэж байна.",
+   "en": "As a consequence, dust storms are becoming more frequent.",
+   "alt_mn": [
+    "Үүний үр дагавраар шороон шуурга ихсэж байна."
+   ],
+   "alt_en": [
+    "Consequently, dust storms are becoming more frequent.",
+    "As a result, dust storms are increasing."
+   ],
+   "mn_latin": "Üünees üüden shoroon shuurga ikhsej baina."
+  },
+  {
+   "mn": "Малын тоо толгойг бэлчээрийн даацад тохируулах хэрэгтэй.",
+   "en": "Livestock numbers need to be matched to the carrying capacity of the pastures.",
+   "alt_mn": [],
+   "alt_en": [
+    "We need to adjust livestock numbers to the pastures' carrying capacity."
+   ],
+   "mn_latin": "Malyn too tolgoig belcheeriin daatsad tokhiruulakh kheregtei."
+  },
+  {
+   "mn": "Сумын засаг дарга энэ асуудлыг үл ойшоох аргагүй гэв.",
+   "en": "The soum governor said this problem could not be ignored.",
+   "alt_mn": [],
+   "alt_en": [
+    "The soum governor said that this issue cannot be ignored."
+   ],
+   "mn_latin": "Sumyn zasag darga ene asuudlyg ül oishookh argagüi gev."
+  },
+  {
+   "mn": "Бэлчээрийг сэлгэдэггүй учир ургамлан бүрхэвч нөхөн сэргэж амжихгүй байна.",
+   "en": "Because the pastures aren't rotated, the vegetation cover doesn't have time to recover.",
+   "alt_mn": [],
+   "alt_en": [
+    "Since pastures are not rotated, the vegetation cover cannot recover in time."
+   ],
+   "mn_latin": "Belcheeriig selgedeggüi uchir urgamlan bürkhevch nökhön sergej amjikhgüi baina."
+  },
+  {
+   "mn": "Ноолуур малчдын гол орлого учраас ямаагаа цөөлөх нь тэдэнд амаргүй.",
+   "en": "Cashmere is herders' main income; therefore, reducing their goats isn't easy for them.",
+   "alt_mn": [],
+   "alt_en": [
+    "Cashmere is the herders' main source of income, so cutting back on goats isn't easy for them."
+   ],
+   "mn_latin": "Nooluur malchdyn gol orlogo uchraas yamaagaa tsöölökh ni tedend amargüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Literary negation with үл + verb",
+  "title_mn": "Үр дагаврыг илэрхийлэх: consequently, therefore, as a consequence",
+  "explain_en": "Everyday Mongolian negates verbs with the suffix -гүй (тоохгүй, тоосонгүй). In formal writing, news, and radio reports you'll also hear the older particle үл placed BEFORE the verb: үл тоох 'to disregard', үл ойшоох 'to pay no attention', үл мэдэгдэх 'unknown'. The verb after үл keeps its normal endings (үл тоосон, үл тоосоор ирсэн). Many үл-expressions are fixed phrases, for example үл хөдлөх хөрөнгө 'real estate', and the adverb үл ялиг 'slightly'. Use them to sound formal, but don't swap every -гүй for үл: say Би мэдэхгүй, not Би үл мэдэх.",
+  "explain_mn": "Англи хэлэнд үр дагаврыг илэрхийлэх албан ёсны гурван хэллэг бий. «Therefore» нь логик дүгнэлт («иймээс»), «consequently» нь өмнөх үйл явдлын үр дүн («үүнээс болж»), «as a consequence» нь «үүний үр дагавраар» гэсэн утгатай. «As a consequence of + нэр үг» гэж хэрэглэж болно: as a consequence of overgrazing. Эдгээрийг ихэвчлэн өгүүлбэрийн эхэнд таслалтай, эсвэл цэгтэй таслалын (;) дараа хэрэглэнэ. Хоёр өгүүлбэрийг зөвхөн таслалаар холбож болохгүй: «Prices rose, therefore herders bought goats» гэж бичвэл алдаа. Зөв нь «Prices rose; therefore, herders bought more goats.»",
+  "examples": [
+   {
+    "mn": "Бэлчээрийн даац хэтэрсэн. Иймээс өвс ургахаа больсон.",
+    "en": "The pastures were overloaded. Therefore, the grass stopped growing.",
+    "mn_latin": "Belcheeriin daats khetersen. Iimees övs urgakhaa bolison."
+   },
+   {
+    "mn": "Олон жил энэ асуудлыг үл тоосон.",
+    "en": "For many years, this problem was ignored.",
+    "mn_latin": "Olon jil ene asuudlyg ül tooson."
+   },
+   {
+    "mn": "Ноолуурын үнэ өссөн; үүнээс болж ямааны тоо огцом нэмэгдсэн.",
+    "en": "Cashmere prices rose; consequently, goat numbers increased sharply.",
+    "mn_latin": "Nooluuryn üne össön; üünees bolj yamaany too ogtsom nemegdsen."
+   },
+   {
+    "mn": "Бэлчээр доройтсоны үр дагавраар цөлжилт хурдассан.",
+    "en": "As a consequence of pasture degradation, desertification has accelerated.",
+    "mn_latin": "Belcheer doroitsony ür dagavraar tsöljilt khurdassan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Мэргэжилтнүүдийн анхааруулгыг ___ тоосоор ирсэн.",
+   "answer": "үл",
+   "options": [
+    "үл",
+    "бүү",
+    "битгий",
+    "үгүй"
+   ],
+   "translation": "Experts' warnings have been ignored all along.",
+   "explain_en": "Үл is the literary negative particle placed before a verb: үл тоох 'to disregard'. Бүү and битгий are for negative commands ('don't!'), and үгүй doesn't go before a verb like this.",
+   "explain_mn": "«Үл» нь үйл үгийн өмнө орж бичгийн хэлний үгүйсгэл үүсгэдэг: үл тоох. «Бүү», «битгий» нь хориглох тушаалд хэрэглэгдэх бөгөөд «үгүй» үйл үгийн өмнө ингэж ордоггүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ сумын бэлчээрийн ___ хоёр дахин хэтэрсэн.",
+   "answer": "даац",
+   "options": [
+    "даац",
+    "доройтол",
+    "цөлжилт",
+    "тоо толгой"
+   ],
+   "translation": "The pastures in this soum are at twice their carrying capacity.",
+   "explain_en": "Даац хэтрэх is a set phrase meaning 'to exceed carrying capacity'. Degradation and desertification don't 'exceed'.",
+   "explain_mn": "«Даац хэтрэх» нь тогтвортой хэллэг. Доройтол, цөлжилт «хэтэрдэггүй», харин ихэсдэг, хурдасдаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Ямааны тоо толгой энэ жил үл ___ буурсан.",
+   "answer": "ялиг",
+   "options": [
+    "ялиг",
+    "тоох",
+    "мэдэх",
+    "ойшоох"
+   ],
+   "translation": "The number of goats decreased slightly this year.",
+   "explain_en": "Үл ялиг is a fixed adverb meaning 'slightly'. The other options form verbs (үл тоох 'ignore'), which make no sense before буурсан.",
+   "explain_mn": "«Үл ялиг» нь «бага зэрэг» гэсэн утгатай тогтсон дайвар үг. Бусад хувилбар нь үйл үг тул энд утга зохихгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Cashmere prices rose sharply; ___, herders kept more and more goats.",
+   "answer": "consequently",
+   "options": [
+    "consequently",
+    "however",
+    "although",
+    "despite"
+   ],
+   "translation": "Ноолуурын үнэ огцом өссөн; үүнээс болж малчид улам олон ямаа тэжээх болсон.",
+   "explain_en": "The second clause is a result of the first, so a result connector is needed. However shows contrast, and although/despite can't follow a semicolon like this.",
+   "explain_mn": "Хоёр дахь хэсэг нь эхнийхийн үр дүн учраас «consequently» тохирно. «However» нь эсрэгцүүлэл, «although», «despite» нь цэгтэй таслалын дараа ингэж ордоггүй."
+  },
+  {
+   "lang": "en",
+   "text": "As a ___ of overgrazing, the soil is drying out.",
+   "answer": "consequence",
+   "options": [
+    "consequence",
+    "consequent",
+    "therefore",
+    "cause"
+   ],
+   "translation": "Бэлчээрийн даац хэтэрсний үр дагавраар хөрс хатаж байна.",
+   "explain_en": "The fixed phrase is 'as a consequence of + noun'. Consequent is an adjective, and 'as a cause of' reverses the meaning.",
+   "explain_mn": "Тогтсон хэллэг нь «as a consequence of + нэр үг». «Consequent» бол тэмдэг нэр, «cause» нь «шалтгаан» гэсэн эсрэг утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The pastures were never rotated, and ___ the grass did not recover.",
+   "answer": "therefore",
+   "options": [
+    "therefore",
+    "despite",
+    "unless",
+    "whereas"
+   ],
+   "translation": "Бэлчээрийг огт сэлгээгүй, иймээс өвс нөхөн сэргэсэнгүй.",
+   "explain_en": "'And therefore' introduces a logical result. Despite needs a noun, unless expresses a condition, and whereas expresses contrast.",
+   "explain_mn": "«And therefore» нь логик үр дүнг илэрхийлнэ. «Despite»-ийн дараа нэр үг ордог, «unless» нь болзол, «whereas» нь эсрэгцүүлэл."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Сайн байцгаана уу, «Эх дэлхий» нэвтрүүлэг эхэллээ. Өнөөдөр бид бэлчээрийн доройтлын талаар ярилцана.",
+   "en": "Hello, everyone, and welcome to 'Mother Earth.' Today we're talking about pasture degradation.",
+   "mn_latin": "Sain baitsgaana uu, «Ekh delkhii» nevtrüüleg ekhellee. Önöödör bid belcheeriin doroitlyn talaar yariltsana."
+  },
+  {
+   "speaker": "Oyunaa",
+   "mn": "Манай улсын бэлчээрийн дийлэнх хэсэг ямар нэг хэмжээгээр доройтсон. Гол шалтгаан нь малын тоо толгой хэт өссөн явдал.",
+   "en": "Most of our country's pastureland is degraded to some degree. The main cause is the excessive growth in livestock numbers.",
+   "mn_latin": "Manai ulsyn belcheeriin diilenkh kheseg yamar neg khemjeegeer doroitson. Gol shaltgaan ni malyn too tolgoi khet össön yavdal."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Бат-Эрдэнэ гуай, та хэдэн ямаатай вэ?",
+   "en": "Mr. Bat-Erdene, how many goats do you have?",
+   "mn_latin": "Bat-Erdene guai, ta kheden yamaatai ve?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Гурван зуу гаруй. Ноолуурын үнэ сайн байсан болохоор жил бүр нэмсээр ирсэн.",
+   "en": "Over three hundred. Cashmere prices were good, so I kept adding more every year.",
+   "mn_latin": "Gurvan zuu garui. Nooluuryn üne sain baisan bolokhoor jil bür nemseer irsen."
+  },
+  {
+   "speaker": "Oyunaa",
+   "mn": "Ойлгомжтой. Гэхдээ ямаа өвсийг үндсээр нь сугалдаг. Иймээс бэлчээр нөхөн сэргэж амждаггүй.",
+   "en": "That's understandable. But goats pull grass up by the roots. Therefore, the pasture doesn't have time to recover.",
+   "mn_latin": "Oilgomjtoi. Gekhdee yamaa övsiig ündseer ni sugaldag. Iimees belcheer nökhön sergej amjdaggüi."
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Үнэн шүү. Манай нутагт өвс жил ирэх тусам сийрэгжиж, элс ихсэж байна. Бид үүнийг удаан хугацаанд үл тоосон.",
+   "en": "That's true. In our area the grass gets thinner every year and the sand keeps spreading. We ignored it for a long time.",
+   "mn_latin": "Ünen shüü. Manai nutagt övs jil irekh tusam siiregjij, els ikhsej baina. Bid üüniig udaan khugatsaand ül tooson."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэгвэл ямар гарц байна вэ?",
+   "en": "So what's the way out?",
+   "mn_latin": "Tegvel yamar garts baina ve?"
+  },
+  {
+   "speaker": "Oyunaa",
+   "mn": "Малын тоог бэлчээрийн даацад тохируулж, ноолуурыг хэмжээгээр нь биш, чанараар нь үнэлдэг болох хэрэгтэй.",
+   "en": "We need to match livestock numbers to the pastures' carrying capacity and start valuing cashmere for its quality, not its quantity.",
+   "mn_latin": "Malyn toog belcheeriin daatsad tokhiruulj, nooluuryg khemjeegeer ni bish, chanaraar ni üneldeg bolokh kheregtei."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia is one of the world's largest producers of raw cashmere. After the shift to a market economy in the 1990s, goat numbers rose sharply because cashmere brought herders cash income. Since goats graze very close to the ground, this boom is often linked to pasture degradation, and herder groups and buyers are now promoting 'sustainable cashmere' with fewer but better-quality animals.",
+  "mn": "Монгол Улс дэлхийд түүхий ноолуур хамгийн их бэлтгэдэг орнуудын нэг. 1990-ээд онд зах зээлд шилжсэний дараа ноолуур малчдад бэлэн мөнгөний орлого авчирдаг байсан тул ямааны тоо огцом өссөн. Ямаа өвсийг газарт ойр, ёроолоор нь хазаж иддэг учраас энэ өсөлтийг бэлчээрийн доройтолтой холбон үздэг. Одоо малчдын бүлгүүд болон худалдан авагчид цөөн боловч чанартай малтай «тогтвортой ноолуур»-ыг дэмжих болжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "The lesson is accurate and natural overall. The only real errors are a wrong word in the Mongolian culture note («ёроолгүй») and a vague phrase in the Mongolian intro."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The Mongolian, translations and fill-in-the-blank items are accurate. The grammar section intentionally teaches үл to English speakers and English result connectors to Mongolian speakers, so it was left as is.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "comma splice; added 'and' for natural broadcast greeting"
+   }
+  ]
+ }
+}

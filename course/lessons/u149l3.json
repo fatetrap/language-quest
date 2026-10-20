@@ -1,0 +1,418 @@
+{
+ "intro_en": "Follow a team in Ulaanbaatar as they test chatbots, translation software and coding assistants. You will learn to say what a problem is \"caused by\" with -аас үүдэлтэй, and how English uses the formal \"Were we to...\" to talk about hypothetical decisions.",
+ "intro_mn": "Улаанбаатарын нэгэн баг чатбот, орчуулгын программ, кодчиллын туслахыг туршиж буйг дагаж үзнэ. Асуудал юунаас болж гарсныг -аас үүдэлтэй хэлбэрээр илэрхийлж сурна. Мөн англи хэлний албан ёсны \"Were we to...\" бүтцээр таамаг шийдвэрийн тухай ярьж сурна.",
+ "vocab": [
+  {
+   "mn": "чатбот",
+   "en": "chatbot",
+   "pos": "noun",
+   "example_mn": "Чатбот үйлчлүүлэгчдийн асуултад шөнө ч хариулдаг.",
+   "example_en": "The chatbot answers customers' questions even at night.",
+   "mn_latin": "chatbot"
+  },
+  {
+   "mn": "хүсэлт (prompt)",
+   "en": "prompt",
+   "pos": "noun",
+   "example_mn": "Хүсэлтээ илүү тодорхой бичээд үзээрэй.",
+   "example_en": "Try writing your prompt more clearly.",
+   "mn_latin": "khüselt (prompt)"
+  },
+  {
+   "mn": "орчуулгын программ",
+   "en": "translation software",
+   "pos": "noun phrase",
+   "example_mn": "Орчуулгын программ хууль зүйн нэр томьёог сайн мэддэггүй.",
+   "example_en": "The translation software doesn't handle legal terminology well.",
+   "mn_latin": "orchuulgyn programm"
+  },
+  {
+   "mn": "бүтээмж",
+   "en": "productivity",
+   "pos": "noun",
+   "example_mn": "Шинэ хэрэгсэл багийн бүтээмжийг нэмэгдүүлсэн.",
+   "example_en": "The new tool increased the team's productivity.",
+   "mn_latin": "büteemj"
+  },
+  {
+   "mn": "кодчиллын туслах",
+   "en": "coding assistant",
+   "pos": "noun phrase",
+   "example_mn": "Кодчиллын туслах алдааг хурдан олж өгдөг.",
+   "example_en": "The coding assistant finds bugs quickly.",
+   "mn_latin": "kodchillyn tuslakh"
+  },
+  {
+   "mn": "нэвтрүүлэх",
+   "en": "to adopt, to introduce (a system)",
+   "pos": "verb",
+   "example_mn": "Компани шинэ системийг ирэх сард нэвтрүүлнэ.",
+   "example_en": "The company will introduce the new system next month.",
+   "mn_latin": "nevtrüülekh"
+  },
+  {
+   "mn": "үүдэлтэй",
+   "en": "caused by, stemming from",
+   "pos": "adjective",
+   "example_mn": "Энэ саатал сүлжээнээс үүдэлтэй.",
+   "example_en": "This delay is caused by the network.",
+   "mn_latin": "üüdeltei"
+  },
+  {
+   "mn": "туршилт",
+   "en": "trial, pilot",
+   "pos": "noun",
+   "example_mn": "Туршилт гурван сар үргэлжилнэ.",
+   "example_en": "The pilot will last three months.",
+   "mn_latin": "turshilt"
+  },
+  {
+   "mn": "хянан засах",
+   "en": "to review and edit",
+   "pos": "verb",
+   "example_mn": "Бичвэрийг хэвлэхээс өмнө хянан засаарай.",
+   "example_en": "Please review and edit the text before printing it.",
+   "mn_latin": "khyanan zasakh"
+  },
+  {
+   "mn": "мэдээллийн нууцлал",
+   "en": "data privacy, confidentiality",
+   "pos": "noun phrase",
+   "example_mn": "Мэдээллийн нууцлал бидний хувьд хамгийн чухал.",
+   "example_en": "Data privacy is our top priority.",
+   "mn_latin": "medeelliin nuutslal"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай баг энэ сард чатботыг туршиж үзэж байна.",
+   "en": "Our team is trying out a chatbot this month.",
+   "alt_mn": [
+    "Энэ сард манай баг чатбот туршиж байна."
+   ],
+   "alt_en": [
+    "This month our team is testing a chatbot."
+   ],
+   "mn_latin": "Manai bag ene sard chatbotyg turshij üzej baina."
+  },
+  {
+   "mn": "Хүсэлтээ тодорхой бичвэл чатбот илүү оновчтой хариулт өгдөг.",
+   "en": "If you write your prompt clearly, the chatbot gives more accurate answers.",
+   "alt_mn": [
+    "Хүсэлтээ тодорхой бичих юм бол чатбот илүү оновчтой хариулдаг."
+   ],
+   "alt_en": [
+    "When your prompt is clear, the chatbot gives more accurate answers."
+   ],
+   "mn_latin": "Khüseltee todorkhoi bichvel chatbot ilüü onovchtoi khariult ögdög."
+  },
+  {
+   "mn": "Энэ алдаа орчуулгын программаас үүдэлтэй байсан.",
+   "en": "This error was caused by the translation software.",
+   "alt_mn": [
+    "Энэ алдаа орчуулгын программаас болсон."
+   ],
+   "alt_en": [
+    "This mistake stemmed from the translation software."
+   ],
+   "mn_latin": "Ene aldaa orchuulgyn programmaas üüdeltei baisan."
+  },
+  {
+   "mn": "Хэрэв бид энэ хэрэгслийг нэвтрүүлэх юм бол ажилтан бүрийг сургах шаардлагатай болно.",
+   "en": "Were we to adopt this tool, we would have to train every employee.",
+   "alt_mn": [
+    "Бид энэ хэрэгслийг нэвтрүүлбэл ажилтан бүрийг сургах хэрэгтэй болно."
+   ],
+   "alt_en": [
+    "If we adopted this tool, we would have to train every employee."
+   ],
+   "mn_latin": "Kherev bid ene kheregsliig nevtrüülekh yum bol ajiltan büriig surgakh shaardlagatai bolno."
+  },
+  {
+   "mn": "Кодчиллын туслах манай програмистуудын бүтээмжийг мэдэгдэхүйц нэмэгдүүлсэн.",
+   "en": "The coding assistant noticeably boosted our programmers' productivity.",
+   "alt_mn": [
+    "Кодчиллын туслахын ачаар манай програмистуудын бүтээмж мэдэгдэхүйц өссөн."
+   ],
+   "alt_en": [
+    "The coding assistant significantly increased our programmers' productivity."
+   ],
+   "mn_latin": "Kodchillyn tuslakh manai programistuudyn büteemjiig medegdekhüits nemegdüülsen."
+  },
+  {
+   "mn": "Ихэнх асуудал буруу бичсэн хүсэлтээс үүдэлтэй гэдгийг бид ойлгосон.",
+   "en": "We realized that most of the problems stemmed from poorly written prompts.",
+   "alt_mn": [
+    "Ихэнх асуудал муу бичсэн хүсэлтээс үүдэлтэй болохыг бид ойлгосон."
+   ],
+   "alt_en": [
+    "We realized most of the problems were caused by badly written prompts."
+   ],
+   "mn_latin": "Ikhenkh asuudal buruu bichsen khüseltees üüdeltei gedgiig bid oilgoson."
+  },
+  {
+   "mn": "Хэрэв программ гэрээг буруу орчуулбал хэн хариуцлага хүлээх вэ?",
+   "en": "Were the software to mistranslate a contract, who would be responsible?",
+   "alt_mn": [
+    "Программ гэрээг буруу орчуулах юм бол хэн хариуцах вэ?"
+   ],
+   "alt_en": [
+    "If the software mistranslated a contract, who would be responsible?"
+   ],
+   "mn_latin": "Kherev programm gereeg buruu orchuulbal khen khariutslaga khüleekh ve?"
+  },
+  {
+   "mn": "Мэдээлэл алдагдахаас үүдэлтэй эрсдэлийг үл тоомсорлож болохгүй.",
+   "en": "The risks arising from data leaks must not be overlooked.",
+   "alt_mn": [
+    "Мэдээлэл алдагдахаас үүдэлтэй эрсдэлийг анхаарахгүй байж болохгүй."
+   ],
+   "alt_en": [
+    "We can't ignore the risks that come from data leaks."
+   ],
+   "mn_latin": "Medeelel aldagdakhaas üüdeltei ersdeliig ül toomsorloj bolokhgüi."
+  },
+  {
+   "mn": "Орчуулгын программын гаргасан бичвэрийг заавал хүн хянан засах ёстой.",
+   "en": "Text produced by translation software must always be reviewed by a human.",
+   "alt_mn": [
+    "Орчуулгын программаар орчуулсан бичвэрийг хүн заавал хянан засах ёстой."
+   ],
+   "alt_en": [
+    "A person must always review text generated by translation software."
+   ],
+   "mn_latin": "Orchuulgyn programmyn gargasan bichveriig zaaval khün khyanan zasakh yostoi."
+  },
+  {
+   "mn": "Туршилтын хугацаа дуусахад бид бүтээмжийн өөрчлөлтийг дүгнэнэ.",
+   "en": "When the pilot period ends, we will evaluate the change in productivity.",
+   "alt_mn": [
+    "Туршилт дуусахаар бид бүтээмж хэрхэн өөрчлөгдсөнийг дүгнэнэ."
+   ],
+   "alt_en": [
+    "At the end of the pilot, we will assess how productivity has changed."
+   ],
+   "mn_latin": "Turshiltyn khugatsaa duusakhad bid büteemjiin öörchlöltiig dügnene."
+  },
+  {
+   "mn": "Хэрэв удирдлага төсвийг батлах юм бол бид хавар гэхэд хэрэгслийг нэвтрүүлж чадна.",
+   "en": "Were management to approve the budget, we could roll out the tool by spring.",
+   "alt_mn": [
+    "Удирдлага төсвийг баталбал бид хавар гэхэд хэрэгслийг нэвтрүүлж чадна."
+   ],
+   "alt_en": [
+    "If management approved the budget, we could introduce the tool by spring."
+   ],
+   "mn_latin": "Kherev udirdlaga tösviig batlakh yum bol bid khavar gekhed kheregsliig nevtrüülj chadna."
+  },
+  {
+   "mn": "Чатботоос үүдэлтэй үл ойлголцлыг багасгахын тулд бид заавар боловсруулсан.",
+   "en": "To reduce misunderstandings caused by the chatbot, we drew up guidelines.",
+   "alt_mn": [
+    "Чатботоос болж гардаг үл ойлголцлыг багасгахын тулд бид заавар гаргасан."
+   ],
+   "alt_en": [
+    "We wrote guidelines to cut down on misunderstandings caused by the chatbot."
+   ],
+   "mn_latin": "Chatbotoos üüdeltei ül oilgoltslyg bagasgakhyn tuld bid zaavar bolovsruulsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "-аас үүдэлтэй \"caused by\" / Inverted \"Were we to...\"",
+  "title_mn": "-аас үүдэлтэй хэлбэр / Англи хэлний \"Were we to...\" урвуу нөхцөл",
+  "explain_en": "To say a problem or error is \"caused by\" or \"stems from\" something, put the cause in the ablative case (-аас/-ээс/-оос/-өөс, chosen by vowel harmony) and add үүдэлтэй. It can end the sentence (Энэ алдаа программаас үүдэлтэй. \"This error is caused by the software.\") or describe a noun directly (программаас үүдэлтэй алдаа, \"an error caused by the software\"). It sounds more formal and analytical than the everyday -аас болсон, so it fits reports, meetings and emails. With verbs, use the verbal noun: мэдээлэл алдагдахаас үүдэлтэй эрсдэл, \"risks arising from data leaks\". In formal English, a hypothetical condition can be inverted: instead of \"If we adopted...\", say \"Were + subject + to + verb\": Were we to adopt this tool, we would... (Хэрэв бид энэ хэрэгслийг нэвтрүүлэх юм бол...). There is no \"if\", and the verb is always \"were\", never \"was\", whatever the subject: Were the software to fail... The result clause usually has would, could or might. This structure is more common in meetings, reports and formal letters than in conversation.",
+  "explain_mn": "Асуудал, алдаа юунаас \"үүдэлтэй\", өөрөөр хэлбэл юунаас болж гарсныг хэлэхдээ шалтгааныг гарахын тийн ялгалаар (-аас/-ээс/-оос/-өөс, эгшиг зохицох ёсоор) хэлээд \"үүдэлтэй\" гэж залгана. Өгүүлбэрийн төгсгөлд (Энэ алдаа программаас үүдэлтэй.) эсвэл нэр үгийг шууд тодотгож (программаас үүдэлтэй алдаа) хэрэглэж болно. Энэ нь ярианы \"-аас болсон\"-оос илүү албан ёсны, дүн шинжилгээний өнгөтэй тул тайлан, уулзалт, албан захидалд тохиромжтой. Үйл үгтэй бол үйлт нэрийг хэрэглэнэ: мэдээлэл алдагдахаас үүдэлтэй эрсдэл. Англи хэлэнд албан ёсны таамаг нөхцөлийг \"If we adopted...\" гэхийн оронд \"Were + эзэн + to + үйл үг\" гэж урвуулан хэлж болно: Were we to adopt this tool, we would... (Хэрэв бид энэ хэрэгслийг нэвтрүүлэх юм бол...). Энэ үед \"if\" ордоггүй бөгөөд эзэн ямар ч байсан \"was\" биш, үргэлж \"were\" хэрэглэнэ: Were the software to fail... Хоёр дахь хэсэгт ихэвчлэн would, could, might ордог. Энэ бүтэц ярианаас илүү уулзалт, тайлан, албан захидалд түгээмэл.",
+  "examples": [
+   {
+    "mn": "Энэ саатал сүлжээний доголдлоос үүдэлтэй.",
+    "en": "This delay is caused by a network failure.",
+    "mn_latin": "Ene saatal süljeenii dogoldloos üüdeltei."
+   },
+   {
+    "mn": "Орчуулгын программаас үүдэлтэй алдааг бид гараар зассан.",
+    "en": "We fixed the errors caused by the translation software by hand.",
+    "mn_latin": "Orchuulgyn programmaas üüdeltei aldaag bid garaar zassan."
+   },
+   {
+    "mn": "Хэрэв бид энэ хэрэгслийг нэвтрүүлэх юм бол бүтээмж өсөх байх.",
+    "en": "Were we to adopt this tool, productivity would probably rise.",
+    "mn_latin": "Kherev bid ene kheregsliig nevtrüülekh yum bol büteemj ösökh baikh."
+   },
+   {
+    "mn": "Хэрэв чатбот буруу мэдээлэл өгвөл үйлчлүүлэгчид гомдол гаргаж магадгүй.",
+    "en": "Were the chatbot to give wrong information, customers might complain.",
+    "mn_latin": "Kherev chatbot buruu medeelel ögvöl üilchlüülegchid gomdol gargaj magadgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ алдаа программ___ үүдэлтэй.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "ээс",
+    "оос",
+    "д"
+   ],
+   "translation": "This error is caused by the software.",
+   "explain_en": "үүдэлтэй needs the ablative case. The last vowel of программ is а, so vowel harmony gives -аас.",
+   "explain_mn": "\"Үүдэлтэй\" үгийн өмнө гарах тийн ялгал шаардлагатай. \"Программ\" үгийн сүүлийн эгшиг нь а тул эгшиг зохицох ёсоор -аас залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Ихэнх саатал сүлжээний доголдл___ үүдэлтэй байв.",
+   "answer": "оос",
+   "options": [
+    "оос",
+    "аас",
+    "ээс",
+    "өөс"
+   ],
+   "translation": "Most of the delays were caused by network failures.",
+   "explain_en": "доголдол drops its last vowel before the ending, giving доголдл-. Its vowels are о, so the ablative is -оос: доголдлоос.",
+   "explain_mn": "\"Доголдол\" үгэнд дагавар залгахад сүүлийн эгшиг гээгдэж \"доголдл-\" болно. Эр үг, о эгшигтэй тул -оос залгаж \"доголдлоос\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Кодчиллын туслах багийн ___ нэмэгдүүлсэн.",
+   "answer": "бүтээмжийг",
+   "options": [
+    "бүтээмжийг",
+    "хүсэлтийг",
+    "нууцлалыг",
+    "туршилтыг"
+   ],
+   "translation": "The coding assistant increased the team's productivity.",
+   "explain_en": "What a tool \"increases\" (нэмэгдүүлэх) here is productivity (бүтээмж). As the direct object it takes the accusative -ийг.",
+   "explain_mn": "Хэрэгсэл багийн бүтээмжийг нэмэгдүүлдэг. Бусад үг энэ утгад тохирохгүй. Шууд тусагдахуун тул заахын тийн ялгал -ийг авна."
+  },
+  {
+   "lang": "en",
+   "text": "___ we to adopt this tool, we would need a bigger budget.",
+   "answer": "Were",
+   "options": [
+    "Were",
+    "Was",
+    "Did",
+    "Had"
+   ],
+   "translation": "Хэрэв бид энэ хэрэгслийг нэвтрүүлэх юм бол илүү их төсөв хэрэгтэй болно.",
+   "explain_en": "The inverted conditional always uses \"were\" + subject + \"to\" + verb, never \"was\", \"did\" or \"had\".",
+   "explain_mn": "Урвуу нөхцөлд үргэлж \"Were + эзэн + to + үйл үг\" хэрэглэнэ. \"Was\", \"Did\", \"Had\" энэ бүтцэд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Were the chatbot ___ give a wrong answer, the client might complain.",
+   "answer": "to",
+   "options": [
+    "to",
+    "will",
+    "would",
+    "should"
+   ],
+   "translation": "Хэрэв чатбот буруу хариулт өгвөл үйлчлүүлэгч гомдол гаргаж магадгүй.",
+   "explain_en": "After \"Were + subject\" you need the infinitive marker \"to\" before the verb.",
+   "explain_mn": "\"Were + эзэн\"-ий дараа үйл үгийн өмнө \"to\" заавал орно. Үүнийг \"will\" эсвэл \"would\"-оор орлуулж болохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Were they to approve the plan, we ___ start next month.",
+   "answer": "could",
+   "options": [
+    "could",
+    "can",
+    "will",
+    "are"
+   ],
+   "translation": "Хэрэв тэд төлөвлөгөөг батлах юм бол бид ирэх сараас эхэлж чадна.",
+   "explain_en": "The result clause of a \"Were... to\" conditional uses a past modal such as would, could or might.",
+   "explain_mn": "\"Were... to\" нөхцөлийн үр дүнгийн хэсэгт would, could, might зэрэг өнгөрсөн цагийн модаль үйл үг хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Naraa",
+   "mn": "Туршилт эхлээд хоёр долоо хоног боллоо. Чатботын талаар ямар бодолтой байна?",
+   "en": "It's been two weeks since the pilot started. What do you think of the chatbot?",
+   "mn_latin": "Turshilt ekhleed khoyor doloo khonog bolloo. Chatbotyn talaar yamar bodoltoi baina?"
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Ерөнхийдөө сайн. Гэхдээ үйлчлүүлэгчдийн гомдлын нэлээд хэсэг чатботоос үүдэлтэй байна.",
+   "en": "Generally good. But quite a few customer complaints are caused by the chatbot.",
+   "mn_latin": "Yerönkhiidöö sain. Gekhdee üilchlüülegchdiin gomdlyn neleed kheseg chatbotoos üüdeltei baina."
+  },
+  {
+   "speaker": "Naraa",
+   "mn": "Үнэхээр үү? Яг юу болоод байгаа юм бэ?",
+   "en": "Really? What exactly is going wrong?",
+   "mn_latin": "Ünekheer üü? Yag yuu bolood baigaa yum be?"
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Монгол хэлний тийн ялгалыг буруу ойлгодог. Зарим нь бидний өөрсдийн буруу бичсэн хүсэлтээс ч үүдэлтэй.",
+   "en": "It misunderstands Mongolian case endings. Some of it also stems from our own badly written prompts.",
+   "mn_latin": "Mongol khelnii tiin yalgalyg buruu oilgodog. Zarim ni bidnii öörsdiin buruu bichsen khüseltees ch üüdeltei."
+  },
+  {
+   "speaker": "Ganbat",
+   "mn": "Харин кодчиллын туслах манай програмистуудын бүтээмжийг бараг гуравны нэгээр нэмэгдүүлсэн.",
+   "en": "The coding assistant, on the other hand, raised our programmers' productivity by almost a third.",
+   "mn_latin": "Kharin kodchillyn tuslakh manai programistuudyn büteemjiig barag guravny negeer nemegdüülsen."
+  },
+  {
+   "speaker": "Naraa",
+   "mn": "Хэрэв бид эдгээр хэрэгслийг бүх хэлтэст нэвтрүүлэх юм бол мэдээллийн нууцлалыг яаж хангах вэ?",
+   "en": "Were we to roll out these tools across every department, how would we ensure data privacy?",
+   "mn_latin": "Kherev bid edgeer kheregsliig bükh kheltest nevtrüülekh yum bol medeelliin nuutslalyg yaaj khangakh ve?"
+  },
+  {
+   "speaker": "Ganbat",
+   "mn": "Нууц гэрээ, хувийн мэдээллийг гадны программд оруулахгүй байх журам гаргах хэрэгтэй.",
+   "en": "We'd need a policy that keeps confidential contracts and personal data out of external software.",
+   "mn_latin": "Nuuts geree, khuviin medeelliig gadny programmd oruulakhgüi baikh juram gargakh kheregtei."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Тэгээд орчуулгын программын гаргасан бүх бичвэрийг заавал хүнээр хянан засуулдаг болъё.",
+   "en": "And let's make sure a person reviews everything the translation software produces.",
+   "mn_latin": "Tegeed orchuulgyn programmyn gargasan bükh bichveriig zaaval khüneer khyanan zasuuldag bolyo."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian has far less online text than languages like English or Russian, so AI tools often stumble over its case endings, vowel harmony and specialized terms. Many Ulaanbaatar offices work in both Mongolian and English, so staff often write prompts in English and then edit the Mongolian output by hand. Young IT professionals in the city have been quick to adopt coding assistants. Banks and government agencies tend to move more cautiously because of data privacy rules.",
+  "mn": "Монгол хэлээр бичсэн цахим мэдээлэл англи, орос хэлийг бодвол хамаагүй цөөн. Тиймээс хиймэл оюуны хэрэгслүүд тийн ялгал, эгшиг зохицох ёс, мэргэжлийн нэр томьёонд ихэвчлэн алдаа гаргадаг. Улаанбаатарын олон оффис монгол, англи хоёр хэлээр ажилладаг тул ажилтнууд хүсэлтээ англиар бичээд монгол хариултыг гараар засах нь элбэг. Хотын залуу IT мэргэжилтнүүд кодчиллын туслахыг хурдан хэрэглэж эхэлсэн. Харин банк, төрийн байгууллагууд мэдээллийн нууцлалын журмаас болж илүү болгоомжтой хандаж байна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, natural lesson with accurate grammar explanations; only a few small grammatical and tense-mismatch issues needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 3,
+  "notes": "The main problem was that the en and mn grammar explanations each covered only half of the grammar, so they did not match. The rest is mostly sound. The програм/программ spelling varies, but both forms are in use, so I left it.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en version covered only үүдэлтэй. It must match the mn version and the lesson title."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn version covered only the Were-to part. It must match the en version."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "\"...-д алддаг\" is unnatural here. \"алдаа гаргадаг\" is the natural phrase."
+   }
+  ]
+ }
+}

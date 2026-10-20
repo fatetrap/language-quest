@@ -1,0 +1,510 @@
+{
+ "intro_en": "You will learn to talk about grandparents, grandchildren and the old and young generations, and how families pass down traditions and care for elders. You will also use the Mongolian reflexive possessive -аа/-ээ with өөрөө for emphasis, and English reflexive pronouns.",
+ "intro_mn": "Та өвөө эмээ, ач зээ нар, ахмад болон залуу үеийн тухай, уламжлалаа өвлүүлж, ахмадаа халамжлах тухай ярьж сурна. Мөн монгол хэлний ерөнхий хамаатуулах -аа/-ээ нөхцөл ба онцлох өөрөө, англи хэлний reflexive төлөөний үгийг ашиглаж сурна.",
+ "vocab": [
+  {
+   "mn": "өвөө",
+   "en": "grandfather",
+   "pos": "noun",
+   "example_mn": "Миний өвөө маш сайхан үлгэр ярьдаг.",
+   "example_en": "My grandfather tells wonderful stories.",
+   "mn_latin": "övöö"
+  },
+  {
+   "mn": "эмээ",
+   "en": "grandmother",
+   "pos": "noun",
+   "example_mn": "Эмээ маань өглөө бүр сүүтэй цай чанадаг.",
+   "example_en": "My grandmother makes milk tea every morning.",
+   "mn_latin": "emee"
+  },
+  {
+   "mn": "ач",
+   "en": "grandchild (son's child)",
+   "pos": "noun",
+   "example_mn": "Өвөө ачийгаа тэвэрч авлаа.",
+   "example_en": "Grandfather picked up his grandchild in his arms.",
+   "mn_latin": "ach"
+  },
+  {
+   "mn": "зээ",
+   "en": "grandchild (daughter's child)",
+   "pos": "noun",
+   "example_mn": "Эмээ зээ хүүдээ дээл оёж өгсөн.",
+   "example_en": "Grandmother sewed a deel for her grandson.",
+   "mn_latin": "zee"
+  },
+  {
+   "mn": "өтөл",
+   "en": "old age",
+   "pos": "noun",
+   "example_mn": "Өтөл насандаа тэр тайван амьдарч байна.",
+   "example_en": "In his old age he lives peacefully.",
+   "mn_latin": "ötöl"
+  },
+  {
+   "mn": "залуу үе",
+   "en": "young generation",
+   "pos": "noun",
+   "example_mn": "Залуу үе уламжлалаа хайрлах ёстой.",
+   "example_en": "The young generation should cherish its traditions.",
+   "mn_latin": "zaluu üye"
+  },
+  {
+   "mn": "уламжлал",
+   "en": "tradition",
+   "pos": "noun",
+   "example_mn": "Цагаан сарын уламжлал манай гэрт хадгалагдсаар байна.",
+   "example_en": "The Tsagaan Sar tradition is still kept in our family.",
+   "mn_latin": "ulamjlal"
+  },
+  {
+   "mn": "өв залгамжлал",
+   "en": "heritage, succession",
+   "pos": "noun",
+   "example_mn": "Соёлын өв залгамжлал гэр бүлээс эхэлдэг.",
+   "example_en": "Cultural heritage begins in the family.",
+   "mn_latin": "öv zalgamjlal"
+  },
+  {
+   "mn": "ахмад настан",
+   "en": "elderly person",
+   "pos": "noun",
+   "example_mn": "Ахмад настанд суудлаа тавьж өгөх хэрэгтэй.",
+   "example_en": "You should give your seat to an elderly person.",
+   "mn_latin": "akhmad nastan"
+  },
+  {
+   "mn": "асрах",
+   "en": "to care for",
+   "pos": "verb",
+   "example_mn": "Бид өвөөгөө гэртээ асардаг.",
+   "example_en": "We care for our grandfather at home.",
+   "mn_latin": "asrakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний өвөө эмээ хөдөө амьдардаг.",
+   "en": "My grandparents live in the countryside.",
+   "alt_mn": [
+    "Манай өвөө эмээ хөдөө амьдардаг."
+   ],
+   "alt_en": [
+    "My grandfather and grandmother live in the countryside."
+   ],
+   "mn_latin": "Minii övöö emee khödöö amidardag."
+  },
+  {
+   "mn": "Эмээ ач зээ нартаа буузыг өөрөө хийж өгдөг.",
+   "en": "Grandmother makes buuz herself for her grandchildren.",
+   "alt_mn": [
+    "Эмээ ач зээ нартаа бууз өөрөө хийж өгдөг."
+   ],
+   "alt_en": [
+    "Grandmother herself makes buuz for her grandchildren."
+   ],
+   "mn_latin": "Emee ach zee nartaa buuzyg ööröö khiij ögdög."
+  },
+  {
+   "mn": "Залуу үе ахмад настнаа хүндлэх ёстой.",
+   "en": "The young generation must respect its elderly.",
+   "alt_mn": [
+    "Залуу үе ахмад настнуудаа хүндлэх ёстой."
+   ],
+   "alt_en": [
+    "The younger generation should respect the elderly."
+   ],
+   "mn_latin": "Zaluu üye akhmad nastnaa khündlekh yostoi."
+  },
+  {
+   "mn": "Би өвөөтэйгөө хамт адуу хариулж сурсан.",
+   "en": "I learned to herd horses together with my grandfather.",
+   "alt_mn": [
+    "Би өвөөтэйгөө хамт адуу хариулж сурсан юм."
+   ],
+   "alt_en": [
+    "I learned how to herd horses with my grandfather."
+   ],
+   "mn_latin": "Bi övööteigöö khamt aduu khariulj sursan."
+  },
+  {
+   "mn": "Эмээ маань ачтайгаа хамт дуулж бүжиглэв.",
+   "en": "My grandmother sang and danced with her grandchild.",
+   "alt_mn": [],
+   "alt_en": [
+    "My grandmother sang and danced together with her grandchild."
+   ],
+   "mn_latin": "Emee maani achtaigaa khamt duulj büjiglev."
+  },
+  {
+   "mn": "Уламжлалаа өвлүүлэх нь өв залгамжлалын гол хэсэг юм.",
+   "en": "Passing on our traditions is a key part of heritage.",
+   "alt_mn": [],
+   "alt_en": [
+    "Handing down our traditions is a key part of our heritage."
+   ],
+   "mn_latin": "Ulamjlalaa övlüülekh ni öv zalgamjlalyn gol kheseg yum."
+  },
+  {
+   "mn": "Өвөө өтөл насандаа ч гэсэн малаа өөрөө хариулдаг.",
+   "en": "Even in his old age, grandfather tends his livestock himself.",
+   "alt_mn": [],
+   "alt_en": [
+    "Even in old age, my grandfather looks after his animals himself."
+   ],
+   "mn_latin": "Övöö ötöl nasandaa ch gesen malaa ööröö khariuldag."
+  },
+  {
+   "mn": "Та өөрийгөө сайн хайрлаарай, эмээ минь.",
+   "en": "Take good care of yourself, Grandma.",
+   "alt_mn": [
+    "Өөрийгөө сайн хайрлаарай, эмээ минь."
+   ],
+   "alt_en": [
+    "Look after yourself, Grandma."
+   ],
+   "mn_latin": "Ta ööriigöö sain khairlaarai, emee mini."
+  },
+  {
+   "mn": "Зээ охин эмээтэйгээ хамт гэрээ цэвэрлэлээ.",
+   "en": "The granddaughter cleaned the ger together with her grandmother.",
+   "alt_mn": [
+    "Зээ охин эмээтэйгээ гэрээ цэвэрлэв."
+   ],
+   "alt_en": [
+    "The granddaughter cleaned the ger with her grandmother."
+   ],
+   "mn_latin": "Zee okhin emeeteigee khamt geree tseverlelee."
+  },
+  {
+   "mn": "Бид баярын үеэр өвөө эмээтэйгээ цугларч, өөрсдөө хоол хийсэн.",
+   "en": "At the holiday we gathered with our grandparents and cooked the food ourselves.",
+   "alt_mn": [],
+   "alt_en": [
+    "During the holiday we got together with our grandparents and made the meal ourselves."
+   ],
+   "mn_latin": "Bid bayaryn üyeer övöö emeeteigee tsuglarch, öörsdöö khool khiisen."
+  },
+  {
+   "mn": "Ач нар нь өвөөгөө өөрсдөө асардаг.",
+   "en": "The grandchildren take care of their grandfather themselves.",
+   "alt_mn": [],
+   "alt_en": [
+    "The grandchildren look after their grandfather themselves."
+   ],
+   "mn_latin": "Ach nar ni övöögöö öörsdöö asardag."
+  },
+  {
+   "mn": "Баяраар хүүхдүүд сайхан өнгөрүүлсэн.",
+   "en": "The children enjoyed themselves during the holiday.",
+   "alt_mn": [
+    "Баяраар хүүхдүүд цагийг сайхан өнгөрүүлсэн."
+   ],
+   "alt_en": [
+    "The children had a great time during the holiday."
+   ],
+   "mn_latin": "Bayaraar khüükhdüüd saikhan öngörüülsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reflexive possessive -аа/-ээ and өөрөө for emphasis",
+  "title_mn": "Ерөнхий хамаатуулах -аа/-ээ ба онцлох өөрөө",
+  "explain_en": "When the owner is the subject of the sentence, Mongolian adds the reflexive possessive ending -аа/-ээ/-оо/-өө to the noun (following vowel harmony and the case ending): ач зээгээ 'one's grandchildren', өвөөтэйгөө 'with one's grandfather', эмээгийнхээ 'of one's grandmother'. It matches the subject: 'I... my', 'she... her'. With the comitative -тай (-тэй), the reflexive ending comes after the case ending: найзтайгаа, өвөөтэйгөө. For emphasis, add өөрөө (one person) or өөрсдөө (several people): Эмээ бууз өөрөө хийсэн 'Grandma made the buuz herself.' The two can be used together: Би өвөөтэйгөө өөрөө ярьсан 'I talked with my grandfather myself.' English uses reflexive pronouns (myself, yourself, himself, herself, ourselves, themselves) for the same subject: enjoy yourself, She cut herself. They also add emphasis: She made the buuz herself. For a different person, use an ordinary pronoun: She helped her. (someone else) / She helped herself. (her own self)",
+  "explain_mn": "Монгол хэлэнд эзэмшигч нь өгүүлбэрийн өгүүлэгдэхүүн (үйлдэгч) байх үед нэр үгэнд эгшиг зохицох ёс болон тийн ялгалыг дагуулан ерөнхий хамаатуулах -аа/-ээ/-оо/-өө нөхцөл залгана: ач зээгээ, өвөөтэйгөө, эмээгийнхээ. Энэ нь үйлдэгчтэй тохирно: 'би ... миний', 'тэр ... түүний'. Хамтын -тай (-тэй) тийн ялгалын дараа ерөнхий хамаатуулах нөхцөл залгана: найзтайгаа, өвөөтэйгөө. Онцлохдоо өөрөө (нэг хүн), өөрсдөө (олон хүн) гэж хэлнэ: Эмээ бууз өөрөө хийсэн. Хоёуланг нь хамт хэрэглэж болно: Би өвөөтэйгөө өөрөө ярьсан. Англи хэлэнд үүнтэй адил reflexive төлөөний үг (myself, yourself, himself, herself, ourselves, themselves) байдаг: enjoy yourself, She cut herself. Онцлохдоо: She made the buuz herself. Өөр хүнийг заахдаа энгийн төлөөний үг хэрэглэнэ: She helped her. (өөр хүнд) / She helped herself. (өөртөө)",
+  "examples": [
+   {
+    "mn": "Би өвөөтэйгөө өөрөө ярьсан.",
+    "en": "I talked with my grandfather myself.",
+    "mn_latin": "Bi övööteigöö ööröö yarisan."
+   },
+   {
+    "mn": "Эмээ ач зээгээ өөрөө асарсан.",
+    "en": "Grandmother took care of her grandchildren herself.",
+    "mn_latin": "Emee ach zeegee ööröö asarsan."
+   },
+   {
+    "mn": "Тэд уламжлалаа өөрсдөө өвлүүлж байна.",
+    "en": "They are passing down their traditions themselves.",
+    "mn_latin": "Ted ulamjlalaa öörsdöö övlüülj baina."
+   },
+   {
+    "mn": "Өөрийгөө сайн хайрлаарай.",
+    "en": "Take care of yourself.",
+    "mn_latin": "Ööriigöö sain khairlaarai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өвөө___ хамт хөдөө очсон.",
+   "answer": "тэйгөө",
+   "options": [
+    "тэйгөө",
+    "тайгаа",
+    "гээ",
+    "ийгээ"
+   ],
+   "translation": "I went to the countryside with my grandfather.",
+   "explain_en": "Comitative -тэй plus reflexive -гөө: 'with my own grandfather'.",
+   "explain_mn": "Хамтын -тэй дээр ерөнхий хамаатуулах -гөө залгаж 'өвөөтэйгөө' болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Эмээ ач зээ___ маш их хайрладаг.",
+   "answer": "гээ",
+   "options": [
+    "гээ",
+    "ийн",
+    "д",
+    "гоо"
+   ],
+   "translation": "Grandmother loves her grandchildren very much.",
+   "explain_en": "The object belongs to the subject, so the accusative takes reflexive: ач зээгээ.",
+   "explain_mn": "Тусагдахуун нь үйлдэгчийнх тул ерөнхий хамаатуулах -гээ залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Өвөө малаа ___ хариулдаг.",
+   "answer": "өөрөө",
+   "options": [
+    "өөрөө",
+    "өөрийн",
+    "өөрт",
+    "өөрсдөө"
+   ],
+   "translation": "Grandfather herds his livestock himself.",
+   "explain_en": "Өөрөө adds emphasis for a singular subject: 'himself'.",
+   "explain_mn": "Нэг хүний тухай онцлохдоо 'өөрөө' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Grandma, please take care of ___.",
+   "answer": "yourself",
+   "options": [
+    "yourself",
+    "herself",
+    "yourselves",
+    "you"
+   ],
+   "translation": "Эмээ, өөрийгөө сайн хайрлаарай.",
+   "explain_en": "The subject is 'you' (singular), so we use yourself.",
+   "explain_mn": "Үйлдэгч нь 'you' (нэг хүн) тул yourself хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The children enjoyed ___ at the festival.",
+   "answer": "themselves",
+   "options": [
+    "themselves",
+    "them",
+    "itself",
+    "himself"
+   ],
+   "translation": "Хүүхдүүд наадамд сайхан өнгөрүүллээ.",
+   "explain_en": "Enjoy needs a reflexive pronoun; plural subject gives themselves.",
+   "explain_mn": "Олон тооны үйлдэгч тул themselves хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My grandfather built the ger ___.",
+   "answer": "himself",
+   "options": [
+    "himself",
+    "herself",
+    "him",
+    "itself"
+   ],
+   "translation": "Манай өвөө гэрээ өөрөө барьсан.",
+   "explain_en": "Himself after the object adds emphasis: he did it alone.",
+   "explain_mn": "Himself нь 'өөрөө' гэж онцолж байна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Өвөө, та өнөөдөр юу хийж байна?",
+   "en": "Grandpa, what are you doing today?",
+   "mn_latin": "Övöö, ta önöödör yuu khiij baina?"
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Би өөрөө морио эмээллэж байна, ач минь.",
+   "en": "I'm saddling my horse myself, my dear grandchild.",
+   "mn_latin": "Bi ööröö morio emeellej baina, ach mini."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Эмээ таныг өндөр настай болохоор санаа зовдог шүү дээ.",
+   "en": "Grandma worries because you are old, you know.",
+   "mn_latin": "Emee tanyg öndör nastai bolokhoor sanaa zovdog shüü dee."
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Тийм ээ, гэхдээ уламжлалаа залуу үедээ заах хэрэгтэй.",
+   "en": "Yes, but I need to teach our traditions to the young generation.",
+   "mn_latin": "Tiim ee, gekhdee ulamjlalaa zaluu üyedee zaakh kheregtei."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэгвэл би тантай хамт сурья.",
+   "en": "Then I'll learn together with you.",
+   "mn_latin": "Tegvel bi tantai khamt suriya."
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Сайн байна. Өөрийгөө сайн хайрла, морио болгоомжтой унаарай.",
+   "en": "Good. Take care of yourself and ride carefully.",
+   "mn_latin": "Sain baina. Ööriigöö sain khairla, morio bolgoomjtoi unaarai."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэгье, өвөө. Эмээ бидэнд бууз хийж байгаа.",
+   "en": "I will, Grandpa. Grandma is making buuz for us.",
+   "mn_latin": "Tegiye, övöö. Emee bidend buuz khiij baigaa."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian families, grandparents often live with or near their children and help raise the grandchildren. Elders are greatly respected: young people greet them first, serve them first and offer them the best seat. At Tsagaan Sar, the youngest greet the eldest with the zolgokh greeting, passing down tradition through everyday family life.",
+  "mn": "Монгол айлд өвөө эмээ нь хүүхдүүдтэйгээ хамт эсвэл ойрхон амьдарч, ач зээ нараа өсгөхөд тусалдаг. Ахмад настныг ихэд хүндэлж, тэдэнтэй түрүүлж мэндэлж, хоол цайг нь эхэлж барьж, хамгийн сайн суудлыг тэдэнд тавьж өгдөг. Цагаан сараар бага нь ахмадтайгаа золгож, уламжлалаа өдөр тутмын амьдралаар дамжуулан өвлүүлдэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 19,
+  "notes": "Several ungrammatical sentences and a mismatched Mongolian grammar explanation needed fixing; fill-ins mostly fine."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 21,
+  "notes": "Fixed the nonstandard grammar term and the elderly term, ambiguous fill-blank options, unnatural phrases, and en/mn mismatches in grammar and culture.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'өтөл үе' is unnatural; 'өөриймсөх' is not the standard grammar term"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "mn",
+    "why": "'хөгшин настан' is nonstandard; the usual term is 'ахмад настан'"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "Uses the standard term and the natural verb phrase"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "Standard term for the elderly"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "Standard term for the elderly"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "'морь маллах' is unnatural; the usual phrase is 'адуу хариулах'"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "Same fix as the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "en",
+    "why": "'a main part' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "'өвөөдөө зочломтгой ханддаг' is semantically odd"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "Matches the new Mongolian sentence; the old English was unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "Matches the new meaning"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Standard grammar term"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The en and mn versions must contain the same content (the English part was missing)"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Removed the Russian term; fixed 'минийх/түүнийх' to 'миний/түүний'; added the comitative rule"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'өвөөтэй хамт' is also correct, so the old options had two right answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Standard grammar term"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Removes the ambiguous 'нь'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Standard grammar term"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "The original construction was unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'та нартайгаа' is plural and the reflexive ending is wrong here; she means 'with you'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Adds 'serve them first' and 'the youngest' to match the en version"
+   }
+  ]
+ }
+}

@@ -1,0 +1,428 @@
+{
+ "intro_en": "You will read a hospital patient-rights poster and charter and learn the key terms for your rights in Mongolian. You will also review the causative -уул/-үүл for having something done (үзүүлэх, шалгуулах) and practice English \"must have + past participle\" for confident guesses about the past.",
+ "intro_mn": "Эмнэлгийн өвчтөний эрхийн зурагт хуудас, дүрмийг уншиж, эрхтэй холбоотой гол нэр томьёог сурна. Мөн -уул/-үүл үйлдүүлэх хэвийг (үзүүлэх, шалгуулах) давтаж, англи хэлний \"must have + V3\" бүтцээр өнгөрсөн үйлийн талаар итгэлтэй таамаг дэвшүүлж сурна.",
+ "vocab": [
+  {
+   "mn": "өвчтөний эрх",
+   "en": "patient rights",
+   "pos": "noun phrase",
+   "example_mn": "Өвчтөний эрхийг хуулиар хамгаалдаг.",
+   "example_en": "Patient rights are protected by law.",
+   "mn_latin": "övchtönii erkh"
+  },
+  {
+   "mn": "эмнэлгийн нууц",
+   "en": "medical confidentiality",
+   "pos": "noun phrase",
+   "example_mn": "Эмч эмнэлгийн нууцыг хадгалах үүрэгтэй.",
+   "example_en": "Doctors are obliged to maintain medical confidentiality.",
+   "mn_latin": "emnelgiin nuuts"
+  },
+  {
+   "mn": "мэдээлэл авах эрх",
+   "en": "right to information",
+   "pos": "noun phrase",
+   "example_mn": "Мэдээлэл авах эрх нь өвчтөн бүрт бий.",
+   "example_en": "Every patient has the right to information.",
+   "mn_latin": "medeelel avakh erkh"
+  },
+  {
+   "mn": "эмчилгээнээс татгалзах",
+   "en": "to refuse treatment",
+   "pos": "verb phrase",
+   "example_mn": "Тэр хагалгаанаас татгалзахаар шийдсэн.",
+   "example_en": "She decided to refuse the surgery.",
+   "mn_latin": "emchilgeenees tatgalzakh"
+  },
+  {
+   "mn": "зөвшөөрөл",
+   "en": "consent",
+   "pos": "noun",
+   "example_mn": "Хагалгааны өмнө бичгээр зөвшөөрөл авна.",
+   "example_en": "Written consent is obtained before surgery.",
+   "mn_latin": "zövshööröl"
+  },
+  {
+   "mn": "үзүүлэх",
+   "en": "to see (a doctor), to get examined",
+   "pos": "verb (causative)",
+   "example_mn": "Би маргааш дотрын эмчид үзүүлнэ.",
+   "example_en": "I'm seeing an internist tomorrow.",
+   "mn_latin": "üzüülekh"
+  },
+  {
+   "mn": "шалгуулах",
+   "en": "to have (something) checked",
+   "pos": "verb (causative)",
+   "example_mn": "Даралтаа тогтмол шалгуулж байгаарай.",
+   "example_en": "Have your blood pressure checked regularly.",
+   "mn_latin": "shalguulakh"
+  },
+  {
+   "mn": "хувийн мэдээлэл",
+   "en": "personal information",
+   "pos": "noun phrase",
+   "example_mn": "Таны хувийн мэдээллийг нууцлан хадгална.",
+   "example_en": "Your personal information is kept confidential.",
+   "mn_latin": "khuviin medeelel"
+  },
+  {
+   "mn": "гомдол гаргах",
+   "en": "to file a complaint",
+   "pos": "verb phrase",
+   "example_mn": "Та эмнэлгийн удирдлагад гомдол гаргаж болно.",
+   "example_en": "You can file a complaint with the hospital administration.",
+   "mn_latin": "gomdol gargakh"
+  },
+  {
+   "mn": "зурагт хуудас",
+   "en": "poster",
+   "pos": "noun",
+   "example_mn": "Хүлээлгийн танхимд шинэ зурагт хуудас өлгөсөн байна.",
+   "example_en": "A new poster has been hung in the waiting room.",
+   "mn_latin": "zuragt khuudas"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өвчтөн эмчилгээнийхээ талаар бүрэн мэдээлэл авах эрхтэй.",
+   "en": "A patient has the right to receive full information about their treatment.",
+   "alt_mn": [
+    "Өвчтөн эмчилгээнийхээ тухай бүрэн мэдээлэл авах эрхтэй."
+   ],
+   "alt_en": [
+    "Patients have the right to receive full information about their treatment."
+   ],
+   "mn_latin": "Övchtön emchilgeeniikhee talaar büren medeelel avakh erkhtei."
+  },
+  {
+   "mn": "Эмнэлгийн нууцыг задруулахыг хуулиар хориглоно.",
+   "en": "Disclosing confidential medical information is prohibited by law.",
+   "alt_mn": [
+    "Эмнэлгийн нууцыг задруулахыг хууль хориглодог."
+   ],
+   "alt_en": [
+    "The law prohibits disclosing confidential medical information."
+   ],
+   "mn_latin": "Emnelgiin nuutsyg zadruulakhyg khuuliar khoriglono."
+  },
+  {
+   "mn": "Та эмчилгээнээс татгалзах эрхтэй, гэхдээ эмч эрсдэлийг нь тайлбарлах ёстой.",
+   "en": "You have the right to refuse treatment, but the doctor must explain the risks.",
+   "alt_mn": [],
+   "alt_en": [
+    "You have the right to refuse treatment, but the doctor has to explain the risks."
+   ],
+   "mn_latin": "Ta emchilgeenees tatgalzakh erkhtei, gekhdee emch ersdeliig ni tailbarlakh yostoi."
+  },
+  {
+   "mn": "Би өчигдөр зүрхний эмчид үзүүлсэн.",
+   "en": "I saw a cardiologist yesterday.",
+   "alt_mn": [
+    "Өчигдөр би зүрхний эмчид үзүүлсэн."
+   ],
+   "alt_en": [
+    "I got examined by a cardiologist yesterday.",
+    "Yesterday I saw a cardiologist."
+   ],
+   "mn_latin": "Bi öchigdör zürkhnii emchid üzüülsen."
+  },
+  {
+   "mn": "Цусаа шинжлүүлэхээс өмнө өлөн байх хэрэгтэй.",
+   "en": "You need to fast before having your blood tested.",
+   "alt_mn": [
+    "Цусаа шинжлүүлэхийн өмнө өлөн байх хэрэгтэй."
+   ],
+   "alt_en": [
+    "You need to fast before getting your blood tested.",
+    "You have to fast before having your blood tested."
+   ],
+   "mn_latin": "Tsusaa shinjlüülekhees ömnö ölön baikh kheregtei."
+  },
+  {
+   "mn": "Хагалгаа хийлгэхийн өмнө өвчтөн бичгээр зөвшөөрөл өгнө.",
+   "en": "Before having surgery, the patient gives written consent.",
+   "alt_mn": [
+    "Хагалгаа хийлгэхээс өмнө өвчтөн бичгээр зөвшөөрөл өгдөг."
+   ],
+   "alt_en": [
+    "Before undergoing surgery, the patient gives written consent."
+   ],
+   "mn_latin": "Khagalgaa khiilgekhiin ömnö övchtön bichgeer zövshööröl ögnö."
+  },
+  {
+   "mn": "Ээж маань сувилагчид даралтаа шалгуулсан.",
+   "en": "My mother had her blood pressure checked by a nurse.",
+   "alt_mn": [
+    "Ээж маань даралтаа сувилагчид шалгуулсан."
+   ],
+   "alt_en": [
+    "My mom had a nurse check her blood pressure."
+   ],
+   "mn_latin": "Eej maani suvilagchid daraltaa shalguulsan."
+  },
+  {
+   "mn": "Хэн нэгэн зурагт хуудсыг хаалганы дэргэд наасан байх ёстой.",
+   "en": "Someone must have put the poster up by the door.",
+   "alt_mn": [
+    "Зурагт хуудсыг хэн нэгэн хаалганы дэргэд наасан байх ёстой."
+   ],
+   "alt_en": [
+    "Someone must have stuck the poster up by the door."
+   ],
+   "mn_latin": "Khen negen zuragt khuudsyg khaalgany derged naasan baikh yostoi."
+  },
+  {
+   "mn": "Эмч таны шинжилгээний хариуг аль хэдийн харсан байх ёстой.",
+   "en": "The doctor must have already seen your test results.",
+   "alt_mn": [],
+   "alt_en": [
+    "The doctor must already have seen your test results."
+   ],
+   "mn_latin": "Emch tany shinjilgeenii khariug ali khediin kharsan baikh yostoi."
+  },
+  {
+   "mn": "Таны зөвшөөрөлгүйгээр хувийн мэдээллийг тань гуравдагч этгээдэд өгөхгүй.",
+   "en": "Your personal information will not be given to third parties without your consent.",
+   "alt_mn": [
+    "Таны хувийн мэдээллийг таны зөвшөөрөлгүйгээр гуравдагч этгээдэд өгөхгүй."
+   ],
+   "alt_en": [
+    "Your personal information won't be shared with third parties without your consent."
+   ],
+   "mn_latin": "Tany zövshöörölgüigeer khuviin medeelliig tani guravdagch etgeeded ögökhgüi."
+  },
+  {
+   "mn": "Хэрэв таны эрх зөрчигдсөн бол эмнэлгийн удирдлагад гомдол гаргаж болно.",
+   "en": "If your rights have been violated, you can file a complaint with the hospital administration.",
+   "alt_mn": [
+    "Эрх тань зөрчигдсөн бол эмнэлгийн удирдлагад гомдол гаргаж болно."
+   ],
+   "alt_en": [
+    "If your rights have been violated, you may file a complaint with the hospital management."
+   ],
+   "mn_latin": "Kherev tany erkh zörchigdsön bol emnelgiin udirdlagad gomdol gargaj bolno."
+  },
+  {
+   "mn": "Тэр зурагт хуудсыг анхааралтай уншсан байх ёстой, бүх эрхээ мэдэж байна.",
+   "en": "She must have read the poster carefully; she knows all her rights.",
+   "alt_mn": [
+    "Тэр бүх эрхээ мэдэж байна, зурагт хуудсыг анхааралтай уншсан байх ёстой."
+   ],
+   "alt_en": [
+    "He must have read the poster carefully; he knows all his rights."
+   ],
+   "mn_latin": "Ter zuragt khuudsyg ankhaaraltai unshsan baikh yostoi, bükh erkhee medej baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Causative -уул/-үүл: having something done (үзүүлэх, шалгуулах)",
+  "title_mn": "Үйлдүүлэх хэв -уул/-үүл: бусдаар үйл хийлгэх (үзүүлэх, шалгуулах)",
+  "explain_en": "Mongolian adds a causative suffix to a verb to mean 'make, let, or have someone do it.' After most consonant-final stems this is -уул/-үүл, chosen by vowel harmony: шалгах → шалгуулах 'have checked', үзэх → үзүүлэх 'have examined; see a doctor', шинжлэх → шинжлүүлэх 'have tested'. Other stems take -лга/-лгэ (хийх → хийлгэх). The person who actually does the action usually goes in the dative: эмчид үзүүлэх 'be seen by a doctor', сувилагчид даралтаа шалгуулах 'have a nurse check my blood pressure'. In medical Mongolian you almost always 'have' things done to yourself. Compare Би эмч үзсэн ('I watched a doctor') with Би эмчид үзүүлсэн ('I saw a doctor as a patient'). Later in this unit you'll meet a second use of the same suffix, for things that happen to you against your will.",
+  "explain_mn": "Монгол хэлэнд үйл үгэнд үйлдүүлэх хэвийн дагавар залгаж \"бусдаар хийлгэх, хийхийг зөвшөөрөх, хийлгэх\" гэсэн утгыг илэрхийлдэг. Гийгүүлэгчээр төгссөн ихэнх язгуурт эгшиг зохицох ёсоор -уул/-үүл залгана: шалгах → шалгуулах, үзэх → үзүүлэх (эмчид үзүүлэх), шинжлэх → шинжлүүлэх. Бусад язгуурт -лга/-лгэ залгана (хийх → хийлгэх). Үйлийг бодитоор гүйцэтгэгч ихэвчлэн өгөх оршихын тийн ялгалд орно: эмчид үзүүлэх, сувилагчид даралтаа шалгуулах. Эмнэлгийн нөхцөлд бид ихэвчлэн өөрт хамаатай зүйлээ бусдаар хийлгэдэг. Харьцуулбал: \"Би эмч үзсэн\" (эмчийг харсан) ба \"Би эмчид үзүүлсэн\" (өвчтөн болж үзүүлсэн). Энэ бүлгийн дараагийн хичээлүүдэд ижил дагаврын өөр нэг хэрэглээ буюу хүсээгүй зүйл өөрт тохиолдохыг илэрхийлэх утгатай танилцана.",
+  "examples": [
+   {
+    "mn": "Би өнөө өглөө шүдний эмчид үзүүлсэн.",
+    "en": "I saw a dentist this morning.",
+    "mn_latin": "Bi önöö öglöö shüdnii emchid üzüülsen."
+   },
+   {
+    "mn": "Сувилагч надад цусаа яаралтай шинжлүүлэхийг зөвлөсөн.",
+    "en": "The nurse advised me to get my blood tested urgently.",
+    "mn_latin": "Suvilagch nadad tsusaa yaaraltai shinjlüülekhiig zövlösön."
+   },
+   {
+    "mn": "Тэр хариугаа аль хэдийн авсан байх ёстой.",
+    "en": "He must have already received his results.",
+    "mn_latin": "Ter khariugaa ali khediin avsan baikh yostoi."
+   },
+   {
+    "mn": "Эмнэлэг энэ дүрмийг саяхан шинэчилсэн байх ёстой.",
+    "en": "The hospital must have updated this charter recently.",
+    "mn_latin": "Emneleg ene dürmiig sayakhan shinechilsen baikh yostoi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өчигдөр би шүдний эмчид ___.",
+   "answer": "үзүүлсэн",
+   "options": [
+    "үзүүлсэн",
+    "үзсэн",
+    "үзэгдсэн",
+    "үзэлцсэн"
+   ],
+   "translation": "Yesterday I saw a dentist.",
+   "explain_en": "As a patient, you 'have yourself examined': the causative үзүүлэх with the doctor in the dative (эмчид). Үзсэн would mean you examined or watched the dentist yourself.",
+   "explain_mn": "Өвчтөн эмчид өөрийгөө үзүүлдэг тул үйлдүүлэх хэвийн \"үзүүлэх\" хэрэглэнэ. \"Үзсэн\" гэвэл та өөрөө эмчийг үзсэн, харсан гэсэн буруу утга гарна."
+  },
+  {
+   "lang": "mn",
+   "text": "Даралтаа тогтмол шалг___ хэрэгтэй.",
+   "answer": "уулах",
+   "options": [
+    "уулах",
+    "уулсан",
+    "агдах",
+    "алцах"
+   ],
+   "translation": "You need to have your blood pressure checked regularly.",
+   "explain_en": "Шалгах + causative -уул gives шалгуулах, 'have checked by someone else.' Here a medical worker does the checking, so the causative fits. -агдах (шалгагдах) is passive and -алцах (шалгалцах) is cooperative.",
+   "explain_mn": "Даралтыг эмч, сувилагч хэмждэг тул үйлдүүлэх хэвийн -уул залгаж \"шалгуулах\" болно. -агдах (шалгагдах) нь үйлдэгдэх хэв, -алцах (шалгалцах) нь хамжих хэв тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Өвчтөн эмчилгээнээс ___ эрхтэй.",
+   "answer": "татгалзах",
+   "options": [
+    "татгалзах",
+    "татгалзсан",
+    "татгалзуулах",
+    "татгалзана"
+   ],
+   "translation": "A patient has the right to refuse treatment.",
+   "explain_en": "Before эрхтэй ('has the right to'), Mongolian uses the future participle -х: татгалзах эрхтэй. Татгалзуулах would mean 'make someone else refuse.'",
+   "explain_mn": "\"Эрхтэй\"-н өмнө ирээдүй цагийн нэрлэх үйлт (-х) орно: татгалзах эрхтэй. \"Татгалзуулах\" гэвэл бусдыг татгалзуулах утга гарна."
+  },
+  {
+   "lang": "en",
+   "text": "The nurse must have ___ your file already.",
+   "answer": "seen",
+   "options": [
+    "seen",
+    "saw",
+    "see",
+    "seeing"
+   ],
+   "translation": "Сувилагч таны картыг аль хэдийн харсан байх ёстой.",
+   "explain_en": "After 'must have' you always need the past participle: see → saw → seen. 'Must have saw' is a common mistake.",
+   "explain_mn": "\"Must have\"-ийн дараа үйл үгийн 3-р хэлбэр (V3) орно: see – saw – seen. \"Saw\" бол энгийн өнгөрсөн цаг тул тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Someone must ___ moved the poster.",
+   "answer": "have",
+   "options": [
+    "have",
+    "has",
+    "had",
+    "of"
+   ],
+   "translation": "Хэн нэгэн зурагт хуудсыг зөөсөн байх ёстой.",
+   "explain_en": "Modal verbs like 'must' are followed by the base form, so it's always 'must have,' never 'has' or 'had.' 'Must of' is a spelling mistake that comes from the spoken form 'must've.'",
+   "explain_mn": "\"Must\" зэрэг модаль үйл үгийн дараа үндсэн хэлбэр орох тул үргэлж \"have\" байна. \"Must of\" нь яриан дахь \"must've\"-ийг буруу бичсэн алдаа."
+  },
+  {
+   "lang": "en",
+   "text": "You have the right to ___ treatment.",
+   "answer": "refuse",
+   "options": [
+    "refuse",
+    "refusing",
+    "refused",
+    "refuses"
+   ],
+   "translation": "Та эмчилгээнээс татгалзах эрхтэй.",
+   "explain_en": "'The right to' is followed by the base form of the verb: the right to refuse, the right to know.",
+   "explain_mn": "\"The right to\"-гийн дараа үйл үгийн үндсэн хэлбэр орно: the right to refuse (татгалзах эрх), the right to know (мэдэх эрх)."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Уучлаарай, хаалганы дэргэдэх зурагт хуудас шинэ үү?",
+   "en": "Excuse me, is the poster by the door new?",
+   "mn_latin": "Uuchlaarai, khaalgany dergedekh zuragt khuudas shine üü?"
+  },
+  {
+   "speaker": "Tuya",
+   "mn": "Тийм ээ, өвчтөний эрхийн тухай. Захиргаанаас өчигдөр наасан байх ёстой.",
+   "en": "Yes, it's about patient rights. The administration must have put it up yesterday.",
+   "mn_latin": "Tiim ee, övchtönii erkhiin tukhai. Zakhirgaanaas öchigdör naasan baikh yostoi."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Би өнөө өглөө цусаа шинжлүүлсэн. Хариуг минь эмчээс өөр хүн харж болох уу?",
+   "en": "I had my blood tested this morning. Can anyone other than the doctor see my results?",
+   "mn_latin": "Bi önöö öglöö tsusaa shinjlüülsen. Khariug mini emchees öör khün kharj bolokh uu?"
+  },
+  {
+   "speaker": "Tuya",
+   "mn": "Үгүй, энэ бол эмнэлгийн нууц. Таны зөвшөөрөлгүйгээр хэнд ч өгөхгүй.",
+   "en": "No, that's covered by medical confidentiality. They won't be given to anyone without your consent.",
+   "mn_latin": "Ügüi, ene bol emnelgiin nuuts. Tany zövshöörölgüigeer khend ch ögökhgüi."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Эмч надад нэг эм санал болгосон, гэхдээ би эргэлзэж байна.",
+   "en": "The doctor recommended a medication, but I'm hesitant.",
+   "mn_latin": "Emch nadad neg em sanal bolgoson, gekhdee bi ergelzej baina."
+  },
+  {
+   "speaker": "Tuya",
+   "mn": "Та эмчилгээнээс татгалзах эрхтэй. Гэхдээ эхлээд эрсдэл, ашиг тусыг нь эмчээсээ дэлгэрэнгүй асуугаарай.",
+   "en": "You have the right to refuse treatment. But first, ask your doctor about the risks and benefits in detail.",
+   "mn_latin": "Ta emchilgeenees tatgalzakh erkhtei. Gekhdee ekhleed ersdel, ashig tusyg ni emcheesee delgerengüi asuugaarai."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Ойлголоо. Мэдээлэл авах эрхээ ашиглая даа.",
+   "en": "Got it. I'll make use of my right to information, then.",
+   "mn_latin": "Oilgoloo. Medeelel avakh erkhee ashiglaya daa."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian health legislation lists patient rights such as the right to information, confidentiality, and refusing treatment, and many hospitals in Ulaanbaatar now display them on posters in hallways. In practice, family members are often closely involved in medical decisions, and doctors may discuss a diagnosis with relatives as well as the patient. Knowing the terms on these posters helps you ask politely but firmly for what you are entitled to.",
+  "mn": "Монголын эрүүл мэндийн хууль тогтоомжид мэдээлэл авах, нууцаа хамгаалуулах, эмчилгээнээс татгалзах зэрэг өвчтөний эрхийг тусгасан бөгөөд Улаанбаатарын олон эмнэлэг эдгээрийг хонгилдоо зурагт хуудсаар байршуулдаг. Бодит байдал дээр ар гэрийнхэн нь эмчилгээний шийдвэрт идэвхтэй оролцдог тул эмч оношийг өвчтөнөөс гадна төрөл төрөгсөдтэй нь ч ярилцах нь бий. Зурагт хуудсан дээрх нэр томьёог мэдвэл та өөрт ногдох эрхээ эелдэг боловч тууштай шаардаж чадна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Solid, natural lesson. The main problems were a wrong Mongolian term for the causative voice and one fill-in-the-blank that accepted two correct answers."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 6,
+  "notes": "Main problem was the mn grammar title and explanation covering a different topic than the en versions. Also fixed the зөвлөх case government and the malformed suffix options.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn described a different topic (must have) than title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn covered must have instead of matching explain_en"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "зөвлөх takes the dative (надад), not the accusative намайг"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "the distractors must attach correctly to шалг- (шалгагдах, шалгалцах)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "match the corrected options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "match the corrected options"
+   }
+  ]
+ }
+}

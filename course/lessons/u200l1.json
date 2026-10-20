@@ -1,0 +1,406 @@
+{
+ "intro_en": "Learn to read the fine print in Mongolian bank loan agreements and phone contracts. You'll learn key contract terms like нөхцөл, заалт, үүрэг хариуцлага, and алданги, and how to turn wordy official verbs like төлбөр төлөх ажлыг гүйцэтгэх into plain Mongolian.",
+ "intro_mn": "Банкны зээлийн гэрээ, утасны гэрээний жижиг үсгээр бичсэн хэсгийг англиар уншиж сурна. Мөн гэрээнд түгээмэл гардаг \"will be charged for\", \"is referred to as\" зэрэг угтвартай идэвхгүй хэвийг таньж сурна.",
+ "vocab": [
+  {
+   "mn": "нөхцөл",
+   "en": "terms, conditions",
+   "pos": "noun",
+   "example_mn": "Гэрээний нөхцөлийг сайтар уншаарай.",
+   "example_en": "Read the terms of the contract carefully.",
+   "mn_latin": "nökhtsöl"
+  },
+  {
+   "mn": "заалт",
+   "en": "clause, provision",
+   "pos": "noun",
+   "example_mn": "Гэрээний 5.2 дахь заалтад хүүгийн хэмжээг тусгасан.",
+   "example_en": "Clause 5.2 of the contract sets out the interest rate.",
+   "mn_latin": "zaalt"
+  },
+  {
+   "mn": "үүрэг хариуцлага",
+   "en": "obligations, responsibilities",
+   "pos": "noun",
+   "example_mn": "Талуудын үүрэг хариуцлагыг гэрээнд тодорхой заасан.",
+   "example_en": "The contract clearly sets out the parties' obligations.",
+   "mn_latin": "üüreg khariutslaga"
+  },
+  {
+   "mn": "алданги",
+   "en": "late-payment penalty",
+   "pos": "noun",
+   "example_mn": "Төлбөрөө хоцроосон хоног бүрд алданги тооцно.",
+   "example_en": "A penalty is charged for every day of late payment.",
+   "mn_latin": "aldangi"
+  },
+  {
+   "mn": "зээлдэгч",
+   "en": "borrower",
+   "pos": "noun",
+   "example_mn": "Зээлдэгч зээлээ хугацаанд нь төлөх үүрэгтэй.",
+   "example_en": "The borrower must repay the loan on time.",
+   "mn_latin": "zeeldegch"
+  },
+  {
+   "mn": "хүү",
+   "en": "interest",
+   "pos": "noun",
+   "example_mn": "Жилийн хүү 18 хувь байна.",
+   "example_en": "The annual interest rate is 18 percent.",
+   "mn_latin": "khüü"
+  },
+  {
+   "mn": "хүсэлт гаргах",
+   "en": "to submit a request",
+   "pos": "verb phrase",
+   "example_mn": "Зээлдэгч хугацаа сунгах хүсэлт гаргаж болно.",
+   "example_en": "The borrower may request an extension.",
+   "mn_latin": "khüselt gargakh"
+  },
+  {
+   "mn": "цуцлах",
+   "en": "to cancel, to terminate",
+   "pos": "verb",
+   "example_mn": "Гэрээг хугацаанаас нь өмнө цуцалбал нэмэлт төлбөр төлнө.",
+   "example_en": "If you cancel the contract early, you pay an extra fee.",
+   "mn_latin": "tsutslakh"
+  },
+  {
+   "mn": "барьцаа",
+   "en": "collateral",
+   "pos": "noun",
+   "example_mn": "Банк орон сууцыг барьцаанд авсан.",
+   "example_en": "The bank took the apartment as collateral.",
+   "mn_latin": "baritsaa"
+  },
+  {
+   "mn": "хугацаа хэтэрсэн",
+   "en": "overdue",
+   "pos": "adjective",
+   "example_mn": "Хугацаа хэтэрсэн төлбөрт алданги ногдуулна.",
+   "example_en": "A penalty is imposed on overdue payments.",
+   "mn_latin": "khugatsaa khetersen"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Цаашид энэхүү гэрээнд Банкийг \"Зээлдүүлэгч\" гэж нэрлэнэ.",
+   "en": "Hereinafter, the Bank is referred to as the \"Lender\" in this agreement.",
+   "alt_mn": [
+    "Энэхүү гэрээнд цаашид Банкийг \"Зээлдүүлэгч\" гэнэ."
+   ],
+   "alt_en": [
+    "In this agreement, the Bank will be referred to as the \"Lender.\""
+   ],
+   "mn_latin": "Tsaashid enekhüü gereend Bankiig \"Zeeldüülegch\" gej nerlene."
+  },
+  {
+   "mn": "Зээлдэгч сар бүрийн 25-ны дотор төлбөр төлөх ажлыг гүйцэтгэнэ.",
+   "en": "The borrower shall make payment by the 25th of each month.",
+   "alt_mn": [
+    "Зээлдэгч сар бүрийн 25-ны дотор төлбөрөө төлнө."
+   ],
+   "alt_en": [
+    "The borrower pays by the 25th of every month."
+   ],
+   "mn_latin": "Zeeldegch sar büriin 25-ny dotor tölbör tölökh ajlyg güitsetgene."
+  },
+  {
+   "mn": "Төлбөрөө хоцроосон тохиолдолд хоног тутамд 0.5 хувийн алданги тооцно.",
+   "en": "If you pay late, you will be charged a penalty of 0.5 percent per day.",
+   "alt_mn": [
+    "Төлбөр хоцорвол хоног бүрд 0.5 хувийн алданги тооцно."
+   ],
+   "alt_en": [
+    "In the event of late payment, a penalty of 0.5 percent per day will be charged."
+   ],
+   "mn_latin": "Tölböröö khotsrooson tokhioldold khonog tutamd 0.5 khuviin aldangi tootsno."
+  },
+  {
+   "mn": "Та гэрээний нөхцөлийг өөрчлөх хүсэлтээ бичгээр гаргана.",
+   "en": "You must submit any request to change the terms in writing.",
+   "alt_mn": [
+    "Гэрээний нөхцөлийг өөрчлөх бол та бичгээр хүсэлт гаргана."
+   ],
+   "alt_en": [
+    "Requests to change the terms must be submitted in writing."
+   ],
+   "mn_latin": "Ta gereenii nökhtsöliig öörchlökh khüseltee bichgeer gargana."
+  },
+  {
+   "mn": "Энгийнээр хэлбэл, та сар бүрийн 25-ны дотор төлөх ёстой.",
+   "en": "Put simply, you have to pay by the 25th of every month.",
+   "alt_mn": [
+    "Энгийн үгээр бол та сар бүрийн 25-ны дотор төлөх ёстой."
+   ],
+   "alt_en": [
+    "In plain terms, you have to pay by the 25th of each month."
+   ],
+   "mn_latin": "Engiineer khelbel, ta sar büriin 25-ny dotor tölökh yostoi."
+  },
+  {
+   "mn": "Багцаас хэтэрсэн дата хэрэглээнд нэмэлт төлбөр ногдуулна.",
+   "en": "You will be charged for any data you use beyond your plan.",
+   "alt_mn": [
+    "Багцаас илүү хэрэглэсэн датанд нэмэлт төлбөр авна."
+   ],
+   "alt_en": [
+    "Data used beyond your plan will be charged extra."
+   ],
+   "mn_latin": "Bagtsaas khetersen data kheregleend nemelt tölbör nogduulna."
+  },
+  {
+   "mn": "Гэрээг хугацаанаас нь өмнө цуцалбал үлдсэн саруудын төлбөрийг нэг дор төлнө.",
+   "en": "If you cancel the contract early, you pay for the remaining months all at once.",
+   "alt_mn": [
+    "Гэрээг эрт цуцалбал үлдсэн саруудын төлбөрийг нэг дор төлнө."
+   ],
+   "alt_en": [
+    "If the contract is terminated early, the fees for the remaining months must be paid all at once."
+   ],
+   "mn_latin": "Gereeg khugatsaanaas ni ömnö tsutsalbal üldsen saruudyn tölböriig neg dor tölnö."
+  },
+  {
+   "mn": "Энэ заалтыг би сайн ойлгосонгүй, тайлбарлаж өгнө үү.",
+   "en": "I didn't quite understand this clause. Could you explain it?",
+   "alt_mn": [
+    "Энэ заалтыг сайн ойлгосонгүй, тайлбарлаад өгөхгүй юу?"
+   ],
+   "alt_en": [
+    "I don't really understand this clause. Could you explain it, please?"
+   ],
+   "mn_latin": "Ene zaaltyg bi sain oilgosongüi, tailbarlaj ögnö üü."
+  },
+  {
+   "mn": "Барьцаа хөрөнгийн даатгалын зардлыг зээлдэгч хариуцна.",
+   "en": "The cost of insuring the collateral is paid by the borrower.",
+   "alt_mn": [
+    "Барьцаа хөрөнгийн даатгалын зардлыг зээлдэгч төлнө."
+   ],
+   "alt_en": [
+    "The borrower is responsible for the cost of insuring the collateral."
+   ],
+   "mn_latin": "Baritsaa khöröngiin daatgalyn zardlyg zeeldegch khariutsna."
+  },
+  {
+   "mn": "Талууд гэрээгээр хүлээсэн үүрэг хариуцлагаа биелүүлнэ.",
+   "en": "The parties shall fulfill the obligations they have assumed under the agreement.",
+   "alt_mn": [
+    "Талууд гэрээнд заасан үүргээ биелүүлнэ."
+   ],
+   "alt_en": [
+    "Both sides must do what the agreement requires of them."
+   ],
+   "mn_latin": "Taluud gereegeer khüleesen üüreg khariutslagaa biyelüülne."
+  },
+  {
+   "mn": "Жижиг үсгээр бичсэн хэсгийг заавал уншаарай.",
+   "en": "Be sure to read the fine print.",
+   "alt_mn": [
+    "Жижиг үсгээр бичсэн хэсгийг заавал уншаад үзээрэй."
+   ],
+   "alt_en": [
+    "Make sure you read the part in small print."
+   ],
+   "mn_latin": "Jijig üsgeer bichsen khesgiig zaaval unshaarai."
+  },
+  {
+   "mn": "Хэрэглэгч гэрээгээ сунгах хүсэлт гаргасан тохиолдолд нэг сарын үнэгүй дата олгоно.",
+   "en": "If the customer requests a contract extension, one month of free data is provided.",
+   "alt_mn": [
+    "Гэрээгээ сунгавал хэрэглэгчид нэг сарын үнэгүй дата өгнө."
+   ],
+   "alt_en": [
+    "Customers who ask to extend their contract will be given a month of free data."
+   ],
+   "mn_latin": "Khereglegch gereegee sungakh khüselt gargasan tokhioldold neg saryn ünegüi data olgono."
+  }
+ ],
+ "grammar": {
+  "title_en": "Wordy official verbs: noun + гаргах / гүйцэтгэх",
+  "title_mn": "Угтвартай идэвхгүй хэв: \"will be charged for\", \"is referred to as\"",
+  "explain_en": "Mongolian contracts often replace a simple verb with a heavy phrase: a noun plus a 'helper' verb like гаргах (to put out), тавих (to place), or ажлыг гүйцэтгэх (to carry out the work of). So instead of төлнө (pays), a contract says төлбөр төлөх ажлыг гүйцэтгэнэ (carries out the work of making payment). Instead of хүснэ (requests), it says хүсэлт гаргана (submits a request). Instead of хянана (checks), it says хяналт тавина (exercises oversight). To understand a sentence, find the action noun and turn it back into a verb. The meaning is usually the same, only more formal. Note that хүсэлт гаргах is fully normal, even in everyday speech, while ажлыг гүйцэтгэх is pure bureaucratic style.",
+  "explain_mn": "Англи гэрээнд \"charge for\", \"refer to as\", \"pay for\" гэх мэт угтвартай үйл үгийг идэвхгүй хэвээр их хэрэглэдэг. Энэ үед угтвар үг үйл үгийнхээ ард үлдэнэ: \"We charge you for data\" гэдэг нь \"You will be charged for data\" болно. \"We refer to the Bank as the Lender\" гэдэг нь \"The Bank is referred to as the Lender\" болно. Угтварыг нь хаяж болохгүй: \"is referred as\" гэвэл буруу. Ийм өгүүлбэрийн үйлдэгч нь ихэвчлэн банк эсвэл компани байдаг ч өгүүлбэрт дурдагддаггүй. Ойлгохын тулд \"хэн хэнээс төлбөр авч байна?\" гэж асуугаарай.",
+  "examples": [
+   {
+    "mn": "Зээлдэгч төлбөр төлөх ажлыг гүйцэтгэнэ. → Зээлдэгч төлнө.",
+    "en": "The borrower shall effect payment. → The borrower pays.",
+    "mn_latin": "Zeeldegch tölbör tölökh ajlyg güitsetgene. → Zeeldegch tölnö."
+   },
+   {
+    "mn": "Банк зээлийн зарцуулалтад хяналт тавина. → Банк зээлийн зарцуулалтыг хянана.",
+    "en": "The bank shall exercise oversight of how the loan is used. → The bank checks how the loan is used.",
+    "mn_latin": "Bank zeeliin zartsuulaltad khyanalt tavina. → Bank zeeliin zartsuulaltyg khyanana."
+   },
+   {
+    "mn": "Нэмэлт үйлчилгээ бүрд тусад нь төлбөр ногдуулна.",
+    "en": "You will be charged for each additional service separately.",
+    "mn_latin": "Nemelt üilchilgee bürd tusad ni tölbör nogduulna."
+   },
+   {
+    "mn": "Энэхүү баримт бичгийг цаашид \"Гэрээ\" гэж нэрлэнэ.",
+    "en": "This document is hereinafter referred to as the \"Agreement.\"",
+    "mn_latin": "Enekhüü barimt bichgiig tsaashid \"Geree\" gej nerlene."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Зээлдэгч хугацаа сунгах хүсэлт ___ эрхтэй.",
+   "answer": "гаргах",
+   "options": [
+    "гаргах",
+    "гүйцэтгэх",
+    "тооцох",
+    "ногдуулах"
+   ],
+   "translation": "The borrower has the right to request an extension.",
+   "explain_en": "The noun хүсэлт (request) pairs with гаргах to mean 'to submit a request.' Гүйцэтгэх goes with ажил (work), and тооцох and ногдуулах go with penalties and fees.",
+   "explain_mn": "Англиар \"submit a request\" буюу \"request\" гэсэн ганц үйл үгээр илэрхийлнэ. Монголд хүсэлт гэдэг нэр үг гаргах үйл үгтэй хослодог."
+  },
+  {
+   "lang": "mn",
+   "text": "Төлбөр хоцорсон хоног тутамд ___ тооцно.",
+   "answer": "алданги",
+   "options": [
+    "алданги",
+    "барьцаа",
+    "заалт",
+    "нөхцөл"
+   ],
+   "translation": "A penalty is charged for each day the payment is late.",
+   "explain_en": "Алданги is the penalty charged for late payment, usually per day. Барьцаа is collateral, заалт is a clause, and нөхцөл means terms. None of these is 'charged per day.'",
+   "explain_mn": "Англиар \"late-payment penalty\" эсвэл \"late fee\" гэнэ. Гэрээнд ихэвчлэн \"a penalty will be charged\" гэж идэвхгүй хэвээр бичдэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Гэрээний 4.1 дэх заалт___ хүүгийн хэмжээг тусгасан.",
+   "answer": "ад",
+   "options": [
+    "ад",
+    "ыг",
+    "аас",
+    "тай"
+   ],
+   "translation": "Clause 4.1 of the contract sets out the interest rate.",
+   "explain_en": "Тусгах (to include, set out) takes the place where something is written in the dative-locative case: заалтад means 'in the clause.' The ending -ад follows vowel harmony with заалт.",
+   "explain_mn": "Англиар \"in clause 4.1\" эсвэл \"Clause 4.1 sets out...\" гэж хэлдэг. Гэрээний заалтыг дугаартай нь том үсгээр бичдэг: Clause 4.1."
+  },
+  {
+   "lang": "en",
+   "text": "You will be charged ___ every text message sent abroad.",
+   "answer": "for",
+   "options": [
+    "for",
+    "with",
+    "by",
+    "on"
+   ],
+   "translation": "Гадаад руу илгээсэн мессеж бүрд төлбөр ногдуулна.",
+   "explain_en": "The verb is 'charge someone for something,' so the passive keeps 'for': 'you will be charged for.' 'Charged with' means accused of a crime.",
+   "explain_mn": "\"Charge someone for something\" гэдэг нь \"ямар нэг зүйлд төлбөр авах\" гэсэн утгатай. Идэвхгүй хэвд \"for\" хэвээрээ үлдэнэ. \"Charged with\" гэвэл \"гэмт хэрэгт буруутгагдах\" гэсэн өөр утга гарна."
+  },
+  {
+   "lang": "en",
+   "text": "The phone company is referred ___ as the \"Operator.\"",
+   "answer": "to",
+   "options": [
+    "to",
+    "as",
+    "for",
+    "at"
+   ],
+   "translation": "Утасны компанийг \"Оператор\" гэж нэрлэнэ.",
+   "explain_en": "The pattern is 'refer to X as Y.' In the passive it becomes 'X is referred to as Y,' and both 'to' and 'as' are needed.",
+   "explain_mn": "\"Refer to X as Y\" нь \"X-ийг Y гэж нэрлэх\" гэсэн хэллэг. Идэвхгүй хэвд \"is referred to as\" болж, \"to\", \"as\" хоёулаа үлдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The insurance is paid ___ by the borrower.",
+   "answer": "for",
+   "options": [
+    "for",
+    "to",
+    "of",
+    "with"
+   ],
+   "translation": "Даатгалын төлбөрийг зээлдэгч хариуцна.",
+   "explain_en": "'Pay for something' becomes 'something is paid for' in the passive. The 'by' phrase names who pays.",
+   "explain_mn": "\"Pay for something\" нь \"ямар нэг зүйлийн төлбөрийг төлөх\" гэсэн утгатай. Идэвхгүй хэвд \"is paid for by...\" болно. \"By\"-ийн ард төлж буй хүн гарна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarnai",
+   "mn": "Тэмүүлэн, энэ зээлийн гэрээний 6.3 дахь заалтыг харж өгөөч. Юу гэсэн үг вэ?",
+   "en": "Temuulen, could you look at clause 6.3 of this loan agreement? What does it mean?",
+   "mn_latin": "Temüülen, ene zeeliin gereenii 6.3 dakhi zaaltyg kharj ögööch. Yuu gesen üg ve?"
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "\"Зээлдэгч сар бүр төлбөр төлөх ажлыг гүйцэтгэнэ\" гэж байна. Энгийнээр бол сар бүр төлнө гэсэн үг.",
+   "en": "It says, \"The borrower shall effect payment monthly.\" Put simply, you pay every month.",
+   "mn_latin": "\"Zeeldegch sar bür tölbör tölökh ajlyg güitsetgene\" gej baina. Engiineer bol sar bür tölnö gesen üg."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Тэгвэл яагаад ингэж хэцүү бичдэг юм бол?",
+   "en": "Then why do they write it in such a complicated way?",
+   "mn_latin": "Tegvel yaagaad ingej khetsüü bichdeg yum bol?"
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Албан бичгийн хэв маяг л даа. Харин энэ алдангийн заалтад анхаараарай.",
+   "en": "That's just official style. But pay attention to this penalty clause.",
+   "mn_latin": "Alban bichgiin khev mayag l daa. Kharin ene aldangiin zaaltad ankhaaraarai."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Хоцроосон хоног тутамд 0.5 хувь гэнэ үү? Сардаа бол бараг 15 хувь болох нь.",
+   "en": "Half a percent for every day I'm late? That's almost 15 percent a month!",
+   "mn_latin": "Khotsrooson khonog tutamd 0.5 khuvi gene üü? Sardaa bol barag 15 khuvi bolokh ni."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Тийм. Тиймээс хугацаа сунгах шаардлага гарвал урьдчилж хүсэлт гаргаарай.",
+   "en": "Exactly. So if you need more time, submit a request in advance.",
+   "mn_latin": "Tiim. Tiimees khugatsaa sungakh shaardlaga garval uridchilj khüselt gargaarai."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Ойлголоо. Утасны гэрээгээ ч бас дахин уншиж үзье. Багцаас хэтэрсэн датанд хэдэн төгрөг авдгийг мэдэхгүй байна.",
+   "en": "Got it. I'll reread my phone contract too. I don't know how much I'm charged for data over my plan.",
+   "mn_latin": "Oilgoloo. Utasny gereegee ch bas dakhin unshij üziye. Bagtsaas khetersen datand kheden tögrög avdgiig medekhgüi baina."
+  },
+  {
+   "speaker": "Temuulen",
+   "mn": "Сайн санаа. Ийм зүйл ихэнхдээ жижиг үсгээр бичсэн хэсэгт нуугдаж байдаг.",
+   "en": "Good idea. That kind of thing is usually hidden in the fine print.",
+   "mn_latin": "Sain sanaa. Iim züil ikhenkhdee jijig üsgeer bichsen khesegt nuugdaj baidag."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, salary loans and pension loans are very common, and interest rates are often higher than in many other countries. This makes clauses about interest and алданги especially important to read. Mongolian official documents use a noun-heavy bureaucratic style full of phrases like ажлыг гүйцэтгэх and хяналт тавих, so even native speakers often ask a friend or a bank employee to explain a contract in plain words.",
+  "mn": "Англи хэлтэй орнуудад \"plain language\" буюу энгийн хэлний хөдөлгөөн өргөн тархсан. Зарим улсад хэрэглэгчийн гэрээг ойлгомжтой хэлээр бичихийг хуулиар шаарддаг. Гэсэн ч зээл, утасны гэрээнд \"hereinafter referred to as\", \"shall be charged for\" гэх мэт хуучинсаг хэллэг одоо ч их гардаг. Иймээс англиар гарын үсэг зурахаасаа өмнө \"fine print\" буюу жижиг үсгийн хэсгийг заавал уншиж байх хэрэгтэй."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 2,
+  "notes": "A strong, accurate lesson. Mongolian and English are natural and the explanations are correct. Two small fixes: one translation pair that didn't match, and one awkward Mongolian phrase."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "The lesson is largely clean. The en/mn intros, grammar and culture note target different learner directions on purpose, and they stay consistent with that design.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "In English you pay a cost, not pay for a cost. 'Is paid for' sounds unnatural with 'cost'."
+   }
+  ]
+ }
+}

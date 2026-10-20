@@ -1,0 +1,437 @@
+{
+ "intro_en": "Learn how parents give a babysitter the house rules for bedtime, meals, and screen time. You'll practice Mongolian negative commands with битгий and -хгүй байгаарай, and how to report them with гэж хэлсэн, alongside English 'tell/ask someone not to + verb'.",
+ "intro_mn": "Эцэг эх хүүхэд асрагчид унтах цаг, хоол, дэлгэцийн цагийн дүрмийг хэрхэн тайлбарладгийг сурна. Англи хэлний 'tell/ask someone not to + verb' бүтцийг монгол хэлний битгий, -хгүй байгаарай, гэж хэлсэн хэлбэрүүдтэй харьцуулан дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "хүүхэд асрагч",
+   "en": "babysitter",
+   "pos": "noun",
+   "example_mn": "Хүүхэд асрагч долоон цагт ирнэ.",
+   "example_en": "The babysitter is coming at seven.",
+   "mn_latin": "khüükhed asragch"
+  },
+  {
+   "mn": "унтуулах",
+   "en": "to put to bed",
+   "pos": "verb",
+   "example_mn": "Хүүхдүүдийг есөн цагт унтуулаарай.",
+   "example_en": "Please put the kids to bed at nine.",
+   "mn_latin": "untuulakh"
+  },
+  {
+   "mn": "хооллох",
+   "en": "to feed",
+   "pos": "verb",
+   "example_mn": "Хүүхдүүдийг зургаан цагт хооллоорой.",
+   "example_en": "Please feed the kids at six.",
+   "mn_latin": "khoollokh"
+  },
+  {
+   "mn": "утас өгөх",
+   "en": "to give (someone) the phone",
+   "pos": "verb phrase",
+   "example_mn": "Хоолны үеэр утас өгөхгүй байгаарай.",
+   "example_en": "Please don't give them the phone during meals.",
+   "mn_latin": "utas ögökh"
+  },
+  {
+   "mn": "хаалга түгжих",
+   "en": "to lock the door",
+   "pos": "verb phrase",
+   "example_mn": "Орой болохоор хаалгаа түгжээрэй.",
+   "example_en": "Lock the door when it gets dark.",
+   "mn_latin": "khaalga tügjikh"
+  },
+  {
+   "mn": "дэлгэцийн цаг",
+   "en": "screen time",
+   "pos": "noun",
+   "example_mn": "Дэлгэцийн цаг өдөрт нэг цагаас хэтрэхгүй.",
+   "example_en": "Screen time is no more than one hour a day.",
+   "mn_latin": "delgetsiin tsag"
+  },
+  {
+   "mn": "унтахын өмнө",
+   "en": "before bed",
+   "pos": "phrase",
+   "example_mn": "Унтахын өмнө шүдээ угаана.",
+   "example_en": "They brush their teeth before bed.",
+   "mn_latin": "untakhyn ömnö"
+  },
+  {
+   "mn": "чихэр",
+   "en": "candy",
+   "pos": "noun",
+   "example_mn": "Оройн хоолны дараа чихэр битгий өгөөрэй.",
+   "example_en": "Please don't give them candy after dinner.",
+   "mn_latin": "chikher"
+  },
+  {
+   "mn": "зөвшөөрөх",
+   "en": "to allow",
+   "pos": "verb",
+   "example_mn": "Ээж нь хагас цаг зурагт үзэхийг зөвшөөрсөн.",
+   "example_en": "Their mom allowed half an hour of TV.",
+   "mn_latin": "zövshöörökh"
+  },
+  {
+   "mn": "дүрэм",
+   "en": "rule",
+   "pos": "noun",
+   "example_mn": "Манай гэрийн дүрэм их энгийн.",
+   "example_en": "Our house rules are very simple.",
+   "mn_latin": "dürem"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ээж нь надад хүүхдүүдэд утас битгий өг гэж хэлсэн.",
+   "en": "Their mom told me not to give the kids the phone.",
+   "alt_mn": [
+    "Ээж нь надад хүүхдүүдэд утас өгөхгүй байгаарай гэж хэлсэн."
+   ],
+   "alt_en": [
+    "Their mother told me not to give the kids the phone.",
+    "Their mom told me not to give the children the phone."
+   ],
+   "mn_latin": "Eej ni nadad khüükhdüüded utas bitgii ög gej khelsen."
+  },
+  {
+   "mn": "Есөн цагаас хойш зурагт үзүүлэхгүй байгаарай.",
+   "en": "Please don't let them watch TV after nine.",
+   "alt_mn": [
+    "Есөн цагаас хойш зурагт битгий үзүүлээрэй."
+   ],
+   "alt_en": [
+    "Please don't let them watch TV after nine o'clock."
+   ],
+   "mn_latin": "Yesön tsagaas khoish zuragt üzüülekhgüi baigaarai."
+  },
+  {
+   "mn": "Аав нь надад хэнд ч хаалга битгий онгойлго гэж хэлсэн.",
+   "en": "Their dad told me not to open the door for anyone.",
+   "alt_mn": [
+    "Аав нь надад хаалгыг хэнд ч битгий онгойлгоорой гэж хэлсэн."
+   ],
+   "alt_en": [
+    "Their father told me not to open the door for anyone.",
+    "Their dad told me not to open the door to anyone."
+   ],
+   "mn_latin": "Aav ni nadad khend ch khaalga bitgii ongoilgo gej khelsen."
+  },
+  {
+   "mn": "Тэд надаас оройн хоолны дараа чихэр өгөхгүй байхыг гуйсан.",
+   "en": "They asked me not to give them candy after dinner.",
+   "alt_mn": [
+    "Тэд надаас оройн хоолны дараа чихэр өгөхгүй байхыг хүссэн."
+   ],
+   "alt_en": [
+    "They asked me not to give the kids candy after dinner."
+   ],
+   "mn_latin": "Ted nadaas oroin khoolny daraa chikher ögökhgüi baikhyg guisan."
+  },
+  {
+   "mn": "Хүүхдүүдийг найман цаг хагаст унтуулаарай.",
+   "en": "Please put the kids to bed at eight thirty.",
+   "alt_mn": [
+    "Хүүхдүүдийг 8:30-д унтуулаарай."
+   ],
+   "alt_en": [
+    "Please put the children to bed at eight thirty.",
+    "Please put the kids to bed at 8:30."
+   ],
+   "mn_latin": "Khüükhdüüdiig naiman tsag khagast untuulaarai."
+  },
+  {
+   "mn": "Сарааг хоолны үеэр утсаар тоглуулахгүй байгаарай.",
+   "en": "Please don't let Saraa play on the phone during meals.",
+   "alt_mn": [
+    "Сарааг хоолны үеэр утсаар битгий тоглуулаарай."
+   ],
+   "alt_en": [
+    "Please don't let Saraa play on her phone during meals."
+   ],
+   "mn_latin": "Saraag khoolny üyeer utsaar togluulakhgüi baigaarai."
+  },
+  {
+   "mn": "Орой болохоор хаалгаа заавал түгжээрэй.",
+   "en": "Be sure to lock the door when it gets dark.",
+   "alt_mn": [
+    "Харанхуй болохоор хаалгаа заавал түгжээрэй."
+   ],
+   "alt_en": [
+    "Make sure you lock the door when it gets dark.",
+    "Make sure to lock the door in the evening."
+   ],
+   "mn_latin": "Oroi bolokhoor khaalgaa zaaval tügjeerei."
+  },
+  {
+   "mn": "Ээж нь надад хүүхдүүдийг долоон цагт хооллоорой гэж хэлсэн.",
+   "en": "Their mom told me to feed the kids at seven.",
+   "alt_mn": [],
+   "alt_en": [
+    "Their mother told me to feed the children at seven."
+   ],
+   "mn_latin": "Eej ni nadad khüükhdüüdiig doloon tsagt khoollooroi gej khelsen."
+  },
+  {
+   "mn": "Хүүхдүүдийн дэлгэцийн цаг өдөрт нэг цагаас хэтрэхгүй байх ёстой.",
+   "en": "The kids' screen time shouldn't be more than an hour a day.",
+   "alt_mn": [],
+   "alt_en": [
+    "The kids shouldn't have more than an hour of screen time a day.",
+    "The children's screen time shouldn't go over one hour a day."
+   ],
+   "mn_latin": "Khüükhdüüdiin delgetsiin tsag ödört neg tsagaas khetrekhgüi baikh yostoi."
+  },
+  {
+   "mn": "Тэр надад хүүхдүүдийг ганцааранг нь битгий орхи гэж хэлсэн.",
+   "en": "She told me not to leave the kids alone.",
+   "alt_mn": [
+    "Тэр надад хүүхдүүдийг ганцааранг нь орхихгүй байгаарай гэж хэлсэн."
+   ],
+   "alt_en": [
+    "She told me not to leave the children alone."
+   ],
+   "mn_latin": "Ter nadad khüükhdüüdiig gantsaarang ni bitgii orkhi gej khelsen."
+  },
+  {
+   "mn": "Танихгүй хүн ирвэл хаалгаа онгойлгохгүй байгаарай.",
+   "en": "If a stranger comes, please don't open the door.",
+   "alt_mn": [
+    "Танихгүй хүн ирвэл хаалгаа битгий онгойлгоорой."
+   ],
+   "alt_en": [
+    "Please don't open the door if a stranger comes."
+   ],
+   "mn_latin": "Tanikhgüi khün irvel khaalgaa ongoilgokhgüi baigaarai."
+  },
+  {
+   "mn": "Би хүүхдүүдэд оройн хоолны өмнө чихэр битгий ид гэж хэлсэн.",
+   "en": "I told the kids not to eat candy before dinner.",
+   "alt_mn": [
+    "Би хүүхдүүдэд оройн хоолны өмнө чихэр идэхгүй байгаарай гэж хэлсэн."
+   ],
+   "alt_en": [
+    "I told the children not to eat candy before dinner."
+   ],
+   "mn_latin": "Bi khüükhdüüded oroin khoolny ömnö chikher bitgii id gej khelsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Giving and reporting 'don't' instructions",
+  "title_mn": "'Битгий' гэх тушаалыг өгөх ба дамжуулах",
+  "explain_en": "Mongolian has two main ways to say 'don't.' (1) битгий + verb: битгий өг is a direct 'don't give,' and битгий өгөөрэй is a softer, polite 'please don't give.' (2) Verb + -хгүй байгаарай, as in өгөхгүй байгаарай, which means 'please make sure you don't.' It is gentle and sounds right for rules that hold all evening, so parents use it a lot with babysitters. To report what someone said, put the bare command before гэж хэлсэн: Ээж нь надад битгий өг гэж хэлсэн means 'Mom told me not to give.' For 'asked me not to,' use надаас ... -хгүй байхыг гуйсан/хүссэн. Watch for causatives like унтуулах (to put to bed), үзүүлэх (to let watch) and тоглуулах (to let play). They describe what you let or make the child do.",
+  "explain_mn": "Англи хэлэнд хэн нэгнийг ямар нэг юм хийхгүй байхыг хэлснээ дамжуулахдаа tell/ask + хүн + not to + үйл үг бүтцийг хэрэглэнэ. Жишээ нь: She told me not to give them candy. Энд not үргэлж to-гийн өмнө ордог. 'told me don't give' гэж хэлэхгүй, 'told me to not' хэлбэрээс ч зайлсхийх нь дээр. Шууд тушаалд Don't + үйл үг хэрэглэнэ: Don't open the door. Зөвшөөрлийг let + хүн + үйл үг (to-гүй) хэлбэрээр илэрхийлнэ: Don't let them watch TV. Анхаар: put the kids to bed гэвэл 'хүүхдүүдийг унтуулах' гэсэн утгатай. put to sleep гэдэг нь мөн унтуулах утгатай боловч амьтныг 'тарьж унтуулах' гэсэн утгаар ч хэрэглэгддэг.",
+  "examples": [
+   {
+    "mn": "Хүүхдүүдэд утас битгий өгөөрэй.",
+    "en": "Please don't give the kids the phone.",
+    "mn_latin": "Khüükhdüüded utas bitgii ögöörei."
+   },
+   {
+    "mn": "Унтахын өмнө зурагт үзүүлэхгүй байгаарай.",
+    "en": "Please don't let them watch TV before bed.",
+    "mn_latin": "Untakhyn ömnö zuragt üzüülekhgüi baigaarai."
+   },
+   {
+    "mn": "Ээж нь надад хаалга битгий онгойлго гэж хэлсэн.",
+    "en": "Their mom told me not to open the door.",
+    "mn_latin": "Eej ni nadad khaalga bitgii ongoilgo gej khelsen."
+   },
+   {
+    "mn": "Тэд надаас чихэр өгөхгүй байхыг гуйсан.",
+    "en": "They asked me not to give them candy.",
+    "mn_latin": "Ted nadaas chikher ögökhgüi baikhyg guisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ээж нь надад хүүхдүүдэд утас битгий ___ гэж хэлсэн.",
+   "answer": "өг",
+   "options": [
+    "өг",
+    "өгөх",
+    "өгсөн",
+    "өгөхгүй"
+   ],
+   "translation": "Their mom told me not to give the kids the phone.",
+   "explain_en": "Before гэж хэлсэн you repeat the command as it was said. After битгий, a direct command uses the bare verb stem: битгий өг.",
+   "explain_mn": "Англиар 'told me not to give' гэнэ. not нь to-гийн өмнө орж, үйл үг энгийн хэлбэрээр (give) үлдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Есөн цагаас хойш зурагт ___ байгаарай.",
+   "answer": "үзүүлэхгүй",
+   "options": [
+    "үзүүлэхгүй",
+    "үзүүлэх",
+    "үзүүлсэн",
+    "битгий"
+   ],
+   "translation": "Please don't let them watch TV after nine.",
+   "explain_en": "The pattern is verb + -хгүй байгаарай, 'please make sure not to.' Үзүүлэх is the causative of үзэх, so it means 'let (them) watch.'",
+   "explain_mn": "Англиар 'Don't let them watch TV' гэнэ. let-ийн дараа үйл үг to-гүй ордог."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүүхдүүдийг найман цагт ___.",
+   "answer": "унтуулаарай",
+   "options": [
+    "унтуулаарай",
+    "унтаарай",
+    "унтуулсан",
+    "унтахгүй"
+   ],
+   "translation": "Please put the kids to bed at eight.",
+   "explain_en": "The object is хүүхдүүдийг, so you are the one acting on the kids. That calls for the causative унтуулах, 'put to bed.' Унтаарай would tell the person you're speaking to to sleep.",
+   "explain_mn": "Англиар 'put the kids to bed' гэнэ. Хүүхдийг унтуулах гэдэг утгаар 'put ... to bed' хэллэгийг хэрэглэдэг."
+  },
+  {
+   "lang": "en",
+   "text": "She told me ___ to give them candy after dinner.",
+   "answer": "not",
+   "options": [
+    "not",
+    "don't",
+    "no",
+    "didn't"
+   ],
+   "translation": "Тэр надад оройн хоолны дараа чихэр битгий өг гэж хэлсэн.",
+   "explain_en": "Reported negative instructions use tell + person + not to + verb. 'Don't' is only for direct commands.",
+   "explain_mn": "Дамжуулсан үгэнд 'not to + үйл үг' хэрэглэнэ. 'told me don't give' гэвэл буруу. Энэ нь монголын 'битгий ... гэж хэлсэн'-тэй дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "They asked me not ___ the door to strangers.",
+   "answer": "to open",
+   "options": [
+    "to open",
+    "opening",
+    "open",
+    "to opening"
+   ],
+   "translation": "Тэд надаас танихгүй хүнд хаалга онгойлгохгүй байхыг гуйсан.",
+   "explain_en": "After 'ask someone not,' use the to-infinitive: not to open.",
+   "explain_mn": "ask + хүн + not to + үйл үгийн энгийн хэлбэр. Монголоор '-хгүй байхыг гуйсан' гэдэгтэй дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Please put the kids to ___ by eight thirty.",
+   "answer": "bed",
+   "options": [
+    "bed",
+    "beds",
+    "the bed",
+    "sleeping"
+   ],
+   "translation": "Хүүхдүүдийг найман цаг хагас гэхэд унтуулаарай.",
+   "explain_en": "The fixed phrase is 'put someone to bed,' with no article. Note that 'put to sleep' can also mean putting an animal down.",
+   "explain_mn": "'put to bed' нь 'унтуулах' гэсэн тогтвортой хэллэг бөгөөд the хэрэглэхгүй. 'put to sleep' нь хүүхдийг унтуулах гэсэн утгатай байхаас гадна амьтныг тарьж үхүүлэх утгатай байж болдог тул анхаараарай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Оюунаа",
+   "mn": "Анү, хүүхдүүдийг долоон цагт хооллоорой. Хөргөгчинд бууз байгаа.",
+   "en": "Anu, please feed the kids at seven. There's buuz in the fridge.",
+   "mn_latin": "Anü, khüükhdüüdiig doloon tsagt khoollooroi. Khörgögchind buuz baigaa."
+  },
+  {
+   "speaker": "Анү",
+   "mn": "За. Хоолны дараа чихэр өгч болох уу?",
+   "en": "Okay. Can I give them candy after dinner?",
+   "mn_latin": "Za. Khoolny daraa chikher ögch bolokh uu?"
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Битгий өгөөрэй. Шүдээ угаасны дараа юу ч идүүлэхгүй байгаарай.",
+   "en": "Please don't. And don't let them eat anything after they brush their teeth.",
+   "mn_latin": "Bitgii ögöörei. Shüdee ugaasny daraa yuu ch idüülekhgüi baigaarai."
+  },
+  {
+   "speaker": "Анү",
+   "mn": "Ойлголоо. Дэлгэцийн цаг хэр байх вэ?",
+   "en": "Got it. What about screen time?",
+   "mn_latin": "Oilgoloo. Delgetsiin tsag kher baikh ve?"
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Хагас цаг хүүхэлдэйн кино үзэж болно. Харин унтахын өмнө утас өгөхгүй байгаарай.",
+   "en": "They can watch cartoons for half an hour. But please don't give them the phone before bed.",
+   "mn_latin": "Khagas tsag khüükheldein kino üzej bolno. Kharin untakhyn ömnö utas ögökhgüi baigaarai."
+  },
+  {
+   "speaker": "Анү",
+   "mn": "Хэдэн цагт унтуулах вэ?",
+   "en": "What time should I put them to bed?",
+   "mn_latin": "Kheden tsagt untuulakh ve?"
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Есөн цагт. Тэгээд хаалгаа түгжээд, хэнд ч битгий онгойлгоорой.",
+   "en": "At nine. And lock the door and don't open it for anyone.",
+   "mn_latin": "Yesön tsagt. Tegeed khaalgaa tügjeed, khend ch bitgii ongoilgooroi."
+  },
+  {
+   "speaker": "Анү",
+   "mn": "Санаа зоволтгүй. Сайхан цагийг өнгөрүүлээрэй!",
+   "en": "Don't worry. Have a great time!",
+   "mn_latin": "Sanaa zovoltgüi. Saikhan tsagiig öngörüüleerei!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, grandparents and older siblings have traditionally looked after young children, and many families still rely on them. In Ulaanbaatar, more working parents now hire a paid babysitter, often called асрагч эгч ('nanny sister'). It is common for parents to leave detailed instructions about food, sleep, and phone use.",
+  "mn": "Монголд бага насны хүүхдийг уламжлал ёсоор өвөө эмээ, ах эгч нь харж ирсэн бөгөөд одоо ч олон гэр бүл тэдэнд найддаг. Улаанбаатарт ажил хийдэг эцэг эхчүүд цалинтай хүүхэд асрагч буюу 'асрагч эгч' авах нь нэмэгдсэн. Эцэг эхчүүд хоол, унтах цаг, утас хэрэглээний талаар нарийн заавар үлдээх нь түгээмэл."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Natural, accurate bilingual content. The only real problems were the ambiguous 'put to ___' blank and an overstated claim about 'put to sleep'."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 6,
+  "notes": "Mostly solid. Fixed the case government of гуйх/хүсэх (надаас) and a missing надад in two places.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "Standard Khalkha uses хэнээс ... -хыг гуйх. 'Намайг ... байхыг гуйсан' is an awkward double accusative."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "Kept the alternative, which already uses the correct надаас construction."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Same case fix: надаас, not намайг."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Same case fix: надаас, not намайг."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "The English says 'told me', so надад is needed to match."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Added надад so the example matches 'told me', and showed the надаас pattern for 'asked me'."
+   }
+  ]
+ }
+}

@@ -1,0 +1,423 @@
+{
+ "intro_en": "Talk about the empty shelves of the lockdown years: panic buying, flour and fuel shortages, long queues and rising prices. You'll use the Mongolian '... ч байтугай' construction for 'let alone', and English fixed pairs like 'odds and ends', 'more or less' and 'all or nothing'.",
+ "intro_mn": "Хорио цээрийн жилүүдийн хоосон лангуу, сандарч худалдан авах явдал, гурил, шатахууны хомсдол, урт дараалал, үнийн өсөлтийн тухай ярьж сурна. Мөн '... ч байтугай' хэллэгийг англиар 'let alone' гэж хэрхэн илэрхийлэх, 'odds and ends', 'more or less', 'all or nothing' гэх мэт тогтвортой хос үгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "хомсдол",
+   "en": "shortage",
+   "pos": "noun",
+   "example_mn": "Шатахууны хомсдол хэдэн долоо хоног үргэлжилсэн.",
+   "example_en": "The fuel shortage lasted several weeks.",
+   "mn_latin": "khomsdol"
+  },
+  {
+   "mn": "нөөцлөх",
+   "en": "to stock up, to stockpile",
+   "pos": "verb",
+   "example_mn": "Хүмүүс гурил, будаа нөөцөлж эхэлсэн.",
+   "example_en": "People started stocking up on flour and rice.",
+   "mn_latin": "nöötslökh"
+  },
+  {
+   "mn": "үнийн өсөлт",
+   "en": "price rise",
+   "pos": "noun phrase",
+   "example_mn": "Үнийн өсөлт тэтгэврийн насныхныг хамгийн хүнд цохисон.",
+   "example_en": "The price rises hit pensioners the hardest.",
+   "mn_latin": "üniin ösölt"
+  },
+  {
+   "mn": "хүнсний хангамж",
+   "en": "food supply",
+   "pos": "noun phrase",
+   "example_mn": "Хотын хүнсний хангамж тасалдах вий гэж олон хүн эмээж байв.",
+   "example_en": "Many people feared the city's food supply would be cut off.",
+   "mn_latin": "khünsnii khangamj"
+  },
+  {
+   "mn": "сандарч худалдан авах",
+   "en": "to panic-buy",
+   "pos": "verb phrase",
+   "example_mn": "Хүмүүс сандарч худалдан авснаас болж лангуу хоосорсон.",
+   "example_en": "The shelves were emptied because people panic-bought.",
+   "mn_latin": "sandarch khudaldan avakh"
+  },
+  {
+   "mn": "дараалал",
+   "en": "queue, line",
+   "pos": "noun",
+   "example_mn": "Шатахуун түгээх станцын өмнө урт дараалал үүссэн.",
+   "example_en": "A long line formed outside the gas station.",
+   "mn_latin": "daraalal"
+  },
+  {
+   "mn": "шатахуун",
+   "en": "fuel, gasoline",
+   "pos": "noun",
+   "example_mn": "Шатахуун авахын тулд гурван цаг хүлээсэн.",
+   "example_en": "I waited three hours to get gas.",
+   "mn_latin": "shatakhuun"
+  },
+  {
+   "mn": "лангуу",
+   "en": "shelf, shop counter",
+   "pos": "noun",
+   "example_mn": "Өглөө гэхэд дэлгүүрийн лангуу хоосорчихсон байв.",
+   "example_en": "By morning the store shelves were already empty.",
+   "mn_latin": "languu"
+  },
+  {
+   "mn": "хязгаарлах",
+   "en": "to limit, to ration",
+   "pos": "verb",
+   "example_mn": "Дэлгүүр нэг хүнд хоёр шуудай гурил зарахаар хязгаарласан.",
+   "example_en": "The store limited each person to two sacks of flour.",
+   "mn_latin": "khyazgaarlakh"
+  },
+  {
+   "mn": "хангамжийн гинжин хэлхээ",
+   "en": "supply chain",
+   "pos": "noun phrase",
+   "example_mn": "Хил хаагдахад хангамжийн гинжин хэлхээ тасалдсан.",
+   "example_en": "When the border closed, the supply chain broke down.",
+   "mn_latin": "khangamjiin ginjin khelkhee"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Мах ч байтугай гурил ч олдохгүй байсан.",
+   "en": "We couldn't even find flour, let alone meat.",
+   "alt_mn": [
+    "Мах ч байтугай гурил олдохгүй байсан."
+   ],
+   "alt_en": [
+    "You couldn't find flour, let alone meat.",
+    "There was no flour, let alone meat."
+   ],
+   "mn_latin": "Makh ch baitugai guril ch oldokhgüi baisan."
+  },
+  {
+   "mn": "Хүмүүс сандарч худалдан авснаас болж лангуунууд хоёр хоногийн дотор хоосорсон.",
+   "en": "Because of panic buying, the shelves were empty within two days.",
+   "alt_mn": [
+    "Сандарч худалдан авсны улмаас лангуунууд хоёр хоногийн дотор хоосорсон."
+   ],
+   "alt_en": [
+    "Panic buying emptied the shelves within two days."
+   ],
+   "mn_latin": "Khümüüs sandarch khudaldan avsnaas bolj languunuud khoyor khonogiin dotor khoosorson."
+  },
+  {
+   "mn": "Шатахууны хомсдолоос болж олон жолооч шөнөжин дараалалд зогссон.",
+   "en": "Because of the fuel shortage, many drivers waited in line all night.",
+   "alt_mn": [
+    "Шатахууны хомсдолоос болж олон жолооч шөнөжингөө дараалалд зогссон."
+   ],
+   "alt_en": [
+    "The fuel shortage meant many drivers stood in line all night."
+   ],
+   "mn_latin": "Shatakhuuny khomsdoloos bolj olon jolooch shönöjin daraalald zogsson."
+  },
+  {
+   "mn": "Гурилын үнэ нэг сарын дотор бараг хоёр дахин өссөн.",
+   "en": "The price of flour nearly doubled within a month.",
+   "alt_mn": [
+    "Нэг сарын дотор гурилын үнэ бараг хоёр дахин нэмэгдсэн."
+   ],
+   "alt_en": [
+    "Flour prices almost doubled in a month."
+   ],
+   "mn_latin": "Gurilyn üne neg saryn dotor barag khoyor dakhin össön."
+  },
+  {
+   "mn": "Ажилгүй болсон хойно бид нөөцлөх ч байтугай өдөр тутмын хоолоо арай гэж залгуулж байлаа.",
+   "en": "After we lost our jobs, we could barely put food on the table, let alone stock up.",
+   "alt_mn": [],
+   "alt_en": [
+    "Once we were out of work, we could hardly afford our daily meals, let alone stockpile."
+   ],
+   "mn_latin": "Ajilgüi bolson khoino bid nöötslökh ch baitugai ödör tutmyn khooloo arai gej zalguulj bailaa."
+  },
+  {
+   "mn": "Засгийн газар хүнсний хангамжийг тасалдуулахгүй гэж амласан.",
+   "en": "The government promised that the food supply would not be interrupted.",
+   "alt_mn": [
+    "Засгийн газар хүнсний хангамж тасрахгүй гэж амласан."
+   ],
+   "alt_en": [
+    "The government promised to keep the food supply going."
+   ],
+   "mn_latin": "Zasgiin gazar khünsnii khangamjiig tasalduulakhgüi gej amlasan."
+  },
+  {
+   "mn": "Гэрт үлдсэн хэдэн юмаа нийлүүлж хоол хийлээ.",
+   "en": "We made a meal out of the odds and ends left in the house.",
+   "alt_mn": [
+    "Гэрт үлдсэн юмаараа хоол хийлээ."
+   ],
+   "alt_en": [
+    "We cooked with whatever odds and ends we had left at home."
+   ],
+   "mn_latin": "Gert üldsen kheden yumaa niilüülj khool khiilee."
+  },
+  {
+   "mn": "Одоо бүх зүйл бараг хэвийн байдалдаа орсон.",
+   "en": "Things are more or less back to normal now.",
+   "alt_mn": [
+    "Одоо бүх юм бараг хэвийн болсон."
+   ],
+   "alt_en": [
+    "Everything is more or less back to normal now."
+   ],
+   "mn_latin": "Odoo bükh züil barag kheviin baidaldaa orson."
+  },
+  {
+   "mn": "Хүнсний үнийн өсөлт ядуу өрхүүдийг хамгийн хүнд цохисон.",
+   "en": "Rising food prices hit poor households the hardest.",
+   "alt_mn": [
+    "Хүнсний бүтээгдэхүүний үнийн өсөлт ядуу өрхүүдэд хамгийн хүнд туссан."
+   ],
+   "alt_en": [
+    "The rise in food prices hit poor families hardest."
+   ],
+   "mn_latin": "Khünsnii üniin ösölt yaduu örkhüüdiig khamgiin khünd tsokhison."
+  },
+  {
+   "mn": "Хил хаагдсан тул хангамжийн гинжин хэлхээ тасалдсан.",
+   "en": "Since the border was closed, the supply chain broke down.",
+   "alt_mn": [
+    "Хил хаагдсанаас болж хангамжийн гинжин хэлхээ тасарсан."
+   ],
+   "alt_en": [
+    "The border closure broke the supply chain."
+   ],
+   "mn_latin": "Khil khaagdsan tul khangamjiin ginjin khelkhee tasaldsan."
+  },
+  {
+   "mn": "Дэлгүүрүүд нэг хүнд зарах гурилын хэмжээг хязгаарласан.",
+   "en": "Stores limited how much flour each customer could buy.",
+   "alt_mn": [
+    "Дэлгүүрүүд нэг хүний авах гурилыг хязгаарласан."
+   ],
+   "alt_en": [
+    "Shops put a limit on flour per customer."
+   ],
+   "mn_latin": "Delgüürüüd neg khünd zarakh gurilyn khemjeeg khyazgaarlasan."
+  },
+  {
+   "mn": "Шинэ ногоо ховор, олдвол үнэтэй байлаа.",
+   "en": "Fresh vegetables were few and far between, and expensive when you did find them.",
+   "alt_mn": [
+    "Шинэ ногоо ховор байсан бөгөөд олдсон ч үнэтэй байв."
+   ],
+   "alt_en": [
+    "Fresh vegetables were scarce, and pricey when you found them."
+   ],
+   "mn_latin": "Shine nogoo khovor, oldvol ünetei bailaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "'... ч байтугай' = 'let alone' / English binomials",
+  "title_mn": "'... ч байтугай' ба англи хэлний тогтвортой хос үг",
+  "explain_en": "'X ч байтугай Y ч ...-гүй' means 'not even Y, let alone X'. Watch the order: Mongolian names the bigger, less likely thing FIRST (мах ч байтугай) and then the basic thing (гурил ч олдохгүй). English reverses it: 'We couldn't find flour, let alone meat.' So the word that comes first in Mongolian goes after 'let alone' in English. The second ч ('even') is often there but can be dropped. In a positive sentence, 'X ч байтугай Y ч' means 'not just X, even Y': Залуус ч байтугай өндөр настнууд ч дараалалд зогссон 'Not just young people, even the elderly stood in line.' English also has fixed pairs (binomials) whose word order cannot be swapped: 'odds and ends' (small leftover things), 'more or less' (roughly, almost), 'all or nothing' (no middle option), 'few and far between' (rare), 'sooner or later' (at some point). Nobody says 'less or more' or 'ends and odds'.",
+  "explain_mn": "'X ч байтугай Y ч ...-гүй' нь англиар 'not even Y, let alone X' гэсэн утгатай. Монголоор том, олдох магадлал багатай зүйлийг ЭХЭНД нэрлээд (мах ч байтугай), дараа нь энгийн зүйлийг хэлдэг (гурил ч олдохгүй). Англиар энэ дараалал урвуу байна: 'We couldn't find flour, let alone meat.' Тэгэхээр монголоор эхэнд орсон үг англиар 'let alone'-ы дараа орно. Хоёр дахь 'ч' ('even') ихэвчлэн ордог ч хасаж болно. Батлах өгүүлбэрт 'X ч байтугай Y ч' нь 'not just X, even Y' гэсэн утгатай: Залуус ч байтугай өндөр настнууд ч дараалалд зогссон 'Not just young people, even the elderly stood in line.' Англи хэлэнд мөн үгийн дарааллыг нь сольж болохгүй тогтвортой хос үг байдаг: 'odds and ends' (хэдэн жижиг юм, үлдэгдэл), 'more or less' (бараг, ойролцоогоор), 'all or nothing' (дунд хувилбаргүй), 'few and far between' (ховор), 'sooner or later' (эрт орой хэзээ нэгэн цагт). 'Less or more', 'ends and odds' гэж хэлдэггүй.",
+  "examples": [
+   {
+    "mn": "Мах ч байтугай гурил ч олдохгүй байсан.",
+    "en": "We couldn't find flour, let alone meat.",
+    "mn_latin": "Makh ch baitugai guril ch oldokhgüi baisan."
+   },
+   {
+    "mn": "Тэр машин ч байтугай унадаг дугуй ч авч чадахгүй.",
+    "en": "He can't afford a bike, let alone a car.",
+    "mn_latin": "Ter mashin ch baitugai unadag dugui ch avch chadakhgüi."
+   },
+   {
+    "mn": "Долоо хоногийн ч байтугай нэг өдрийн хүнс ч нөөцлөөгүй байсан.",
+    "en": "We hadn't stocked up enough food for one day, let alone a week.",
+    "mn_latin": "Doloo khonogiin ch baitugai neg ödriin khüns ch nöötslöögüi baisan."
+   },
+   {
+    "mn": "Залуус ч байтугай өндөр настнууд ч шөнөжин дараалалд зогссон.",
+    "en": "Not just young people, even the elderly stood in line all night.",
+    "mn_latin": "Zaluus ch baitugai öndör nastnuud ch shönöjin daraalald zogsson."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Мах ___ байтугай гурил олдохгүй байсан.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "л",
+    "бол",
+    "нь"
+   ],
+   "translation": "There was no flour, let alone meat.",
+   "explain_en": "The fixed pattern is 'X ч байтугай': the particle ч must come right before байтугай to mean 'let alone'.",
+   "explain_mn": "'Байтугай'-н өмнө заавал 'ч' сул үг орж '... ч байтугай' хэллэг үүснэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүмүүс гурил, будаа ___ эхэлсэн.",
+   "answer": "нөөцөлж",
+   "options": [
+    "нөөцөлж",
+    "нөөцөлсөн",
+    "нөөцлөх",
+    "нөөцөлтөл"
+   ],
+   "translation": "People started stocking up on flour and rice.",
+   "explain_en": "Before эхлэх 'to begin', the main verb takes the converb -ж: нөөцөлж эхэлсэн 'began stocking up'.",
+   "explain_mn": "'Эхлэх' үйл үгийн өмнө нөгөө үйл үг '-ж' нөхцөлтэй орно: нөөцөлж эхэлсэн."
+  },
+  {
+   "lang": "mn",
+   "text": "Шатахууны ___ болж урт дараалал үүссэн.",
+   "answer": "хомсдолоос",
+   "options": [
+    "хомсдолоос",
+    "хомсдолд",
+    "хомсдолыг",
+    "хомсдолтой"
+   ],
+   "translation": "Long lines formed because of the fuel shortage.",
+   "explain_en": "'Because of X' is X + ablative -аас/-оос + болж, so хомсдол becomes хомсдолоос болж.",
+   "explain_mn": "Шалтгааныг гарахын тийн ялгал + 'болж' хэлбэрээр илэрхийлнэ: хомсдолоос болж."
+  },
+  {
+   "lang": "en",
+   "text": "We cooked dinner from the odds and ___ left in the fridge.",
+   "answer": "ends",
+   "options": [
+    "ends",
+    "pieces",
+    "bits",
+    "things"
+   ],
+   "translation": "Хөргөгчинд үлдсэн хэдэн юмаар оройн хоол хийлээ.",
+   "explain_en": "'Odds and ends' is a fixed pair meaning small leftover items; no other noun can replace 'ends'.",
+   "explain_mn": "'Odds and ends' нь 'хэдэн үлдэгдэл юм' гэсэн тогтвортой хос үг тул 'ends'-ийг өөр үгээр сольж болохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Prices are more or ___ back to where they were before the lockdown.",
+   "answer": "less",
+   "options": [
+    "less",
+    "fewer",
+    "else",
+    "more"
+   ],
+   "translation": "Үнэ хорио цээрийн өмнөх түвшиндээ бараг эргэн орсон.",
+   "explain_en": "'More or less' is a fixed binomial meaning 'roughly, almost'. It is never 'more or fewer'.",
+   "explain_mn": "'More or less' нь 'бараг, ойролцоогоор' гэсэн утгатай тогтвортой хэллэг. 'Fewer' гэж хэлдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "For many small shops, it was all or ___: reopen fully or close for good.",
+   "answer": "nothing",
+   "options": [
+    "nothing",
+    "none",
+    "anything",
+    "something"
+   ],
+   "translation": "Олон жижиг дэлгүүрийн хувьд бүгд эсвэл юу ч үгүй гэсэн байдал байсан: бүрэн нээх эсвэл бүрмөсөн хаах.",
+   "explain_en": "'All or nothing' is the fixed pair for a choice with no middle option.",
+   "explain_mn": "'All or nothing' нь дунд хувилбаргүй сонголтыг илэрхийлдэг тогтвортой хос үг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Тэр өвлийг санаж байна уу? Шатахуун түгээх станцын дараалал хэдэн километр үргэлжилдэг байсан.",
+   "en": "Do you remember that winter? The lines at the gas stations stretched for kilometers.",
+   "mn_latin": "Ter övliig sanaj baina uu? Shatakhuun tügeekh stantsyn daraalal kheden kilomyetr ürgeljildeg baisan."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Санаж байна. Манайд ч бас тийм байсан. Хүмүүс сандарч худалдан авсаар лангуун дээрх ариун цэврийн цаасыг дуусгасан.",
+   "en": "I do. It was the same back home. People panic-bought every last roll of toilet paper on the shelves.",
+   "mn_latin": "Sanaj baina. Manaid ch bas tiim baisan. Khümüüs sandarch khudaldan avsaar languun deerkh ariun tsevriin tsaasyg duusgasan."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Манай хорооллын дэлгүүрт мах ч байтугай гурил ч олдохгүй болсон үе байсан.",
+   "en": "There was a time when our neighborhood store didn't even have flour, let alone meat.",
+   "mn_latin": "Manai khoroollyn delgüürt makh ch baitugai guril ch oldokhgüi bolson üye baisan."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэгээд хоолоо яаж хийдэг байсан юм бэ?",
+   "en": "So how did you manage to cook?",
+   "mn_latin": "Tegeed khooloo yaaj khiideg baisan yum be?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Гэрт байсан хэдэн юмаа нийлүүлж л хийдэг байлаа. Ээж маань нөөцөө маш хэмнэж хэрэглэдэг байсан.",
+   "en": "We just threw together whatever odds and ends we had. My mom was very careful with our supplies.",
+   "mn_latin": "Gert baisan kheden yumaa niilüülj l khiideg bailaa. Eej maani nöötsöö mash khemnej kheregledeg baisan."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Үнэ нь яасан бэ? Их өссөн үү?",
+   "en": "And what about prices? Did they go up a lot?",
+   "mn_latin": "Üne ni yaasan be? Ikh össön üü?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Гурилын үнэ бараг хоёр дахин өссөн. Одоо бүх зүйл бараг хэвийн болсон ч ээж маань одоо болтол гурил нөөцөлдөг.",
+   "en": "Flour nearly doubled in price. Things are more or less back to normal now, but my mom still stockpiles flour.",
+   "mn_latin": "Gurilyn üne barag khoyor dakhin össön. Odoo bükh züil barag kheviin bolson ch eej maani odoo boltol guril nöötsöldög."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Ойлгомжтой. Дахиж тийм юм болохгүй гэсэн баталгаа байхгүй шүү дээ.",
+   "en": "That makes sense. There's no guarantee it won't happen again.",
+   "mn_latin": "Oilgomjtoi. Dakhij tiim yum bolokhgüi gesen batalgaa baikhgüi shüü dee."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia imports nearly all of its fuel, most of it from Russia, so border closures and supply disruptions quickly show up as lines at gas stations and rising prices. Many families also have a long tradition of stocking up: in late autumn they prepare өвлийн идэш, meat put away for the winter, and keep sacks of flour and rice at home. For many households, keeping a supply of food at home felt natural long before the lockdowns.",
+  "mn": "Монгол Улс шатахууныхаа бараг бүгдийг импортоор, голдуу ОХУ-аас авдаг тул хил хаагдаж, нийлүүлэлт тасалдахад шатахуун түгээх станцын дараалал, үнийн өсөлт шууд мэдрэгддэг. Олон айл намрын сүүлээр өвлийн идшээ бэлтгэж, гурил, будаагаа шуудайгаар нь нөөцөлдөг уламжлалтай. Тиймээс гэртээ хүнс нөөцөлж байх нь олон айлын хувьд хорио цээрээс өмнө ч ердийн зүйл байсан."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A strong, natural lesson. Only minor spelling and case issues needed fixing, plus one misleading gloss."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Mostly sound. The main fix aligns the two grammar explanations, which covered different points; the others are small wording fixes.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different content"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "make mn match en; it lacked the positive use and the optional second ч"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "дугуй alone can mean tire; bike = унадаг дугуй"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'close for good' = бүрмөсөн хаах"
+   }
+  ]
+ }
+}

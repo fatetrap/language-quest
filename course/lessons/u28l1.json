@@ -1,0 +1,538 @@
+{
+ "intro_en": "You will learn to ask for and give opinions about a place, using basic opinion words like good, bad, interesting, difficult and expensive. You will practice 'гэж бодож байна', 'миний бодлоор' and English 'I think (that)...' and 'What do you think?'.",
+ "intro_mn": "Та ямар нэг газрын талаар санал бодлоо асууж, хэлж сурна. Сайн, муу, сонирхолтой, хэцүү, үнэтэй гэх мэт үгсийг, мөн 'гэж бодож байна', 'миний бодлоор' болон англи хэлний 'I think (that)...', 'What do you think?' хэлбэрүүдийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "бодол",
+   "en": "opinion, thought",
+   "pos": "noun",
+   "example_mn": "Таны бодол юу вэ?",
+   "example_en": "What is your opinion?",
+   "mn_latin": "bodol"
+  },
+  {
+   "mn": "бодох",
+   "en": "to think",
+   "pos": "verb",
+   "example_mn": "Би тийм гэж бодож байна.",
+   "example_en": "I think so.",
+   "mn_latin": "bodokh"
+  },
+  {
+   "mn": "сайн",
+   "en": "good",
+   "pos": "adjective",
+   "example_mn": "Энэ кофе их сайн байна.",
+   "example_en": "This coffee is very good.",
+   "mn_latin": "sain"
+  },
+  {
+   "mn": "муу",
+   "en": "bad",
+   "pos": "adjective",
+   "example_mn": "Үйлчилгээ муу биш байсан.",
+   "example_en": "The service wasn't bad.",
+   "mn_latin": "muu"
+  },
+  {
+   "mn": "сонирхолтой",
+   "en": "interesting",
+   "pos": "adjective",
+   "example_mn": "Кафены дотоод засал сонирхолтой.",
+   "example_en": "The café's interior is interesting.",
+   "mn_latin": "sonirkholtoi"
+  },
+  {
+   "mn": "хэцүү",
+   "en": "difficult, hard",
+   "pos": "adjective",
+   "example_mn": "Энд зогсоол олоход хэцүү.",
+   "example_en": "It is hard to find parking here.",
+   "mn_latin": "khetsüü"
+  },
+  {
+   "mn": "үнэтэй",
+   "en": "expensive",
+   "pos": "adjective",
+   "example_mn": "Энэ кафе арай үнэтэй.",
+   "example_en": "This café is a bit expensive.",
+   "mn_latin": "ünetei"
+  },
+  {
+   "mn": "кафе",
+   "en": "café",
+   "pos": "noun",
+   "example_mn": "Төвд шинэ кафе нээгдлээ.",
+   "example_en": "A new café opened downtown.",
+   "mn_latin": "kafye"
+  },
+  {
+   "mn": "миний бодлоор",
+   "en": "in my opinion",
+   "pos": "phrase",
+   "example_mn": "Миний бодлоор тэнд очих хэрэгтэй.",
+   "example_en": "In my opinion, we should go there.",
+   "mn_latin": "minii bodloor"
+  },
+  {
+   "mn": "санал нийлэх",
+   "en": "to agree",
+   "pos": "verb",
+   "example_mn": "Би тантай санал нийлж байна.",
+   "example_en": "I agree with you.",
+   "mn_latin": "sanal niilekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та юу гэж бодож байна вэ?",
+   "en": "What do you think?",
+   "alt_mn": [
+    "Чи юу гэж бодож байна вэ?"
+   ],
+   "alt_en": [
+    "What is your opinion?"
+   ],
+   "mn_latin": "Ta yuu gej bodoj baina ve?"
+  },
+  {
+   "mn": "Би энэ кафе сайн гэж бодож байна.",
+   "en": "I think this café is good.",
+   "alt_mn": [
+    "Энэ кафе сайн байна гэж би бодож байна."
+   ],
+   "alt_en": [
+    "I think that this café is good."
+   ],
+   "mn_latin": "Bi ene kafye sain gej bodoj baina."
+  },
+  {
+   "mn": "Миний бодлоор кофе нь маш амттай.",
+   "en": "In my opinion, the coffee is very tasty.",
+   "alt_mn": [
+    "Миний бодлоор кофе нь их амттай."
+   ],
+   "alt_en": [
+    "I think the coffee is very tasty."
+   ],
+   "mn_latin": "Minii bodloor kofye ni mash amttai."
+  },
+  {
+   "mn": "Шинэ кафены талаар та юу гэж бодож байна вэ?",
+   "en": "What do you think about the new café?",
+   "alt_mn": [
+    "Та шинэ кафены талаар юу гэж бодож байна вэ?"
+   ],
+   "alt_en": [
+    "What is your opinion of the new café?"
+   ],
+   "mn_latin": "Shine kafyeny talaar ta yuu gej bodoj baina ve?"
+  },
+  {
+   "mn": "Энд арай үнэтэй гэж бодож байна.",
+   "en": "I think it's a bit expensive here.",
+   "alt_mn": [
+    "Энд жаахан үнэтэй гэж бодож байна."
+   ],
+   "alt_en": [
+    "I think that it's a bit expensive here."
+   ],
+   "mn_latin": "End arai ünetei gej bodoj baina."
+  },
+  {
+   "mn": "Миний бодлоор дотоод засал нь сонирхолтой.",
+   "en": "In my opinion, the interior is interesting.",
+   "alt_mn": [
+    "Миний бодлоор дотоод засал нь сонирхолтой байна."
+   ],
+   "alt_en": [
+    "I think the interior is interesting."
+   ],
+   "mn_latin": "Minii bodloor dotood zasal ni sonirkholtoi."
+  },
+  {
+   "mn": "Би тантай санал нийлж байна.",
+   "en": "I agree with you.",
+   "alt_mn": [
+    "Би чамтай санал нийлж байна."
+   ],
+   "alt_en": [
+    "I agree with you."
+   ],
+   "mn_latin": "Bi tantai sanal niilj baina."
+  },
+  {
+   "mn": "Би тийм гэж бодохгүй байна.",
+   "en": "I don't think so.",
+   "alt_mn": [
+    "Би тэгж бодохгүй байна."
+   ],
+   "alt_en": [
+    "I don't think that's true."
+   ],
+   "mn_latin": "Bi tiim gej bodokhgüi baina."
+  },
+  {
+   "mn": "Энд суудал олоход хэцүү гэж бодож байна.",
+   "en": "I think it is hard to find a seat here.",
+   "alt_mn": [
+    "Энд суудал олоход хэцүү байх шиг байна."
+   ],
+   "alt_en": [
+    "I think that finding a seat here is difficult."
+   ],
+   "mn_latin": "End suudal olokhod khetsüü gej bodoj baina."
+  },
+  {
+   "mn": "Үйлчилгээ муу биш гэж бодож байна.",
+   "en": "I think the service isn't bad.",
+   "alt_mn": [
+    "Миний бодлоор үйлчилгээ муу биш."
+   ],
+   "alt_en": [
+    "I think that the service is not bad."
+   ],
+   "mn_latin": "Üilchilgee muu bish gej bodoj baina."
+  },
+  {
+   "mn": "Миний бодлоор бид дахиад ирэх хэрэгтэй.",
+   "en": "In my opinion, we should come again.",
+   "alt_mn": [
+    "Бид дахиад ирэх хэрэгтэй гэж бодож байна."
+   ],
+   "alt_en": [
+    "I think we should come back."
+   ],
+   "mn_latin": "Minii bodloor bid dakhiad irekh kheregtei."
+  },
+  {
+   "mn": "Танд энэ кафе таалагдаж байна уу?",
+   "en": "Do you like this café?",
+   "alt_mn": [
+    "Чамд энэ кафе таалагдаж байна уу?"
+   ],
+   "alt_en": [
+    "Do you like this café?"
+   ],
+   "mn_latin": "Tand ene kafye taalagdaj baina uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Giving opinions: ... гэж бодож байна / Миний бодлоор",
+  "title_mn": "Санал бодлоо хэлэх: I think (that)... / What do you think?",
+  "explain_en": "In Mongolian, the opinion comes BEFORE the verb: put your statement first, then add 'гэж бодож байна' (literally 'saying that, I am thinking'). Example: Кафе сайн + гэж бодож байна = I think the café is good. There is no word for 'that'; 'гэж' does that job. (In English, 'that' after 'I think' is optional.) Another way is to start with 'Миний бодлоор' (in my opinion) and then say the statement normally. To ask, use 'Та юу гэж бодож байна вэ?' To disagree, use 'бодохгүй байна'; in English you add 'don't': 'I don't think so.'",
+  "explain_mn": "Англиар 'I think (that)...' гэж эхэлж, дараа нь санал бодлоо хэлдэг бол монголоор эсрэгээрээ санал бодлоо эхэлж хэлээд 'гэж бодож байна' гэж төгсгөнө: 'Кафе сайн гэж бодож байна.' Англи хэлний 'that' холбоо үг заавал биш. Асуухдаа 'Та юу гэж бодож байна вэ?' гэнэ. 'Миний бодлоор' нь 'In my opinion,' гэсэнтэй адил бөгөөд өгүүлбэрийн эхэнд ордог. Үгүйсгэхдээ монголоор 'бодохгүй байна', англиар 'I don't think so' гэж 'don't' нэмнэ.",
+  "examples": [
+   {
+    "mn": "Энэ кафе сайн гэж бодож байна.",
+    "en": "I think this café is good.",
+    "mn_latin": "Ene kafye sain gej bodoj baina."
+   },
+   {
+    "mn": "Миний бодлоор энэ хоол үнэтэй.",
+    "en": "In my opinion, this meal is expensive.",
+    "mn_latin": "Minii bodloor ene khool ünetei."
+   },
+   {
+    "mn": "Та юу гэж бодож байна вэ?",
+    "en": "What do you think?",
+    "mn_latin": "Ta yuu gej bodoj baina ve?"
+   },
+   {
+    "mn": "Би тэгж бодохгүй байна.",
+    "en": "I don't think so.",
+    "mn_latin": "Bi tegj bodokhgüi baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ кафе сайн гэж ___ байна.",
+   "answer": "бодож",
+   "options": [
+    "бодож",
+    "бодох",
+    "бодно",
+    "боддог"
+   ],
+   "translation": "I think this café is good.",
+   "explain_en": "'гэж бодож байна' means 'I think that...'. Before 'байна' the verb бодох takes the converb form 'бодож'.",
+   "explain_mn": "'гэж бодож байна' нь 'I think that...' гэсэн утгатай. 'байна'-ын өмнө бодох үйл үг 'бодож' гэсэн нөхцөл үйлийн хэлбэртэй орно."
+  },
+  {
+   "lang": "mn",
+   "text": "___ бодлоор энэ кофе амттай.",
+   "answer": "Миний",
+   "options": [
+    "Миний",
+    "Би",
+    "Надад",
+    "Намайг"
+   ],
+   "translation": "In my opinion, this coffee is tasty.",
+   "explain_en": "'Миний бодлоор' means 'in my opinion'. Миний is the genitive of 'I'.",
+   "explain_mn": "'Миний бодлоор' нь 'in my opinion' гэсэн үг. 'Миний' нь 'би' гэсэн үгийн харьяалахын тийн ялгал (my)."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ кафены кофе маш ___, нэг аяга нь 20,000 төгрөг.",
+   "answer": "үнэтэй",
+   "options": [
+    "үнэтэй",
+    "хэцүү",
+    "сонирхолтой",
+    "муу"
+   ],
+   "translation": "The coffee at this café is very expensive; one cup costs 20,000 tögrög.",
+   "explain_en": "'үнэтэй' means expensive; the price (20,000 tögrög a cup) shows this.",
+   "explain_mn": "'үнэтэй' нь 'expensive' гэсэн утгатай; нэг аяга 20,000 төгрөг гэдэг нь үүнийг харуулж байна."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ the new café is good.",
+   "answer": "think",
+   "options": [
+    "think",
+    "thinks",
+    "thinking",
+    "to think"
+   ],
+   "translation": "Би шинэ кафе сайн гэж бодож байна.",
+   "explain_en": "After 'I' we use the base verb 'think' to give an opinion.",
+   "explain_mn": "'I'-ийн дараа 'think' гэсэн үндсэн хэлбэр орно: 'I think...'."
+  },
+  {
+   "lang": "en",
+   "text": "What do you ___ about this place?",
+   "answer": "think",
+   "options": [
+    "think",
+    "thinks",
+    "thinking",
+    "to think"
+   ],
+   "translation": "Та энэ газрын талаар юу гэж бодож байна вэ?",
+   "explain_en": "After 'do you' we use the base form of the verb: 'What do you think?'",
+   "explain_mn": "'do you' -ийн дараа үйл үг үндсэн хэлбэрээрээ орно: 'What do you think?'"
+  },
+  {
+   "lang": "en",
+   "text": "I don't ___ it is too expensive.",
+   "answer": "think",
+   "options": [
+    "think",
+    "thinks",
+    "thinking",
+    "thought"
+   ],
+   "translation": "Би энэ хэт үнэтэй гэж бодохгүй байна.",
+   "explain_en": "In English the negative is made with 'don't think', not 'think not'.",
+   "explain_mn": "Англиар үгүйсгэхдээ 'don't think' гэж хэлнэ. 'don't'-ийн дараа 'think' үндсэн хэлбэрээрээ орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн уу, Бат! Шинэ кафед очсон уу?",
+   "en": "Hi, Bat! Have you been to the new café?",
+   "mn_latin": "Sain uu, Bat! Shine kafyed ochson uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тийм, өчигдөр очсон. Чи юу гэж бодож байна вэ?",
+   "en": "Yes, I went yesterday. What do you think?",
+   "mn_latin": "Tiim, öchigdör ochson. Chi yuu gej bodoj baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Миний бодлоор дотоод засал нь маш сонирхолтой.",
+   "en": "In my opinion, the interior is very interesting.",
+   "mn_latin": "Minii bodloor dotood zasal ni mash sonirkholtoi."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Би санал нийлж байна. Гэхдээ арай үнэтэй гэж бодож байна.",
+   "en": "I agree. But I think it's a bit expensive.",
+   "mn_latin": "Bi sanal niilj baina. Gekhdee arai ünetei gej bodoj baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм ээ, гэхдээ кофе нь амттай. Үйлчилгээ ч муу биш.",
+   "en": "Yes, but the coffee is tasty. The service isn't bad either.",
+   "mn_latin": "Tiim ee, gekhdee kofye ni amttai. Üilchilgee ch muu bish."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Харин суудал олоход хэцүү байсан.",
+   "en": "But it was hard to find a seat.",
+   "mn_latin": "Kharin suudal olokhod khetsüü baisan."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл бид эрт очих хэрэгтэй гэж бодож байна.",
+   "en": "Then I think we should go early.",
+   "mn_latin": "Tegvel bid ert ochikh kheregtei gej bodoj baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Зөв, ирэх бямба гарагт хамт явъя!",
+   "en": "Right, let's go together next Saturday!",
+   "mn_latin": "Zöv, irekh byamba garagt khamt yavya!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, new cafés open quickly, and young people love to meet in them after work or university and share opinions. Mongolians often soften their opinions with phrases like 'миний бодлоор' ('in my opinion') or 'гэж бодож байна' to sound polite rather than too direct. When disagreeing with someone older, it is polite to use 'та' and a gentle tone.",
+  "mn": "Улаанбаатарт шинэ кафенууд маш хурдан нээгдэж, залуус ажил, сургуулийнхаа дараа хамт уулзаж санал бодлоо солилцдог. Монголчууд санал бодлоо зөөлрүүлж, шууд биш хэлэхийн тулд 'миний бодлоор', 'гэж бодож байна' гэх мэт хэллэгийг ихэвчлэн ашигладаг. Өөрөөсөө ахмад хүнтэй санал нийлэхгүй бол 'та' гэж хандаж, эелдэг аястай хэлэх нь зохистой."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 14,
+  "notes": "Mostly good content, but some alt variants change meaning, the Mongolian grammar explanation is muddled, and a few small unnatural phrasings need fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 23,
+  "notes": "Fixed the tautology 'үнэ үнэтэй', fill-blank options with more than one correct answer, the dialogue register, and the wording of the culture note.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "'үнэ ... үнэтэй' is a tautology and unnatural"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_en",
+    "why": "match new mn; 'prices are expensive' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "dative 'кафед' is wrong with this meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "remove tautology 'үнэ үнэтэй'"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "en",
+    "why": "match mn; natural English"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "remove tautology"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "match new sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "'come back again' is redundant"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "align with mn version (optional 'that', English negative)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'хэлж'/'сонсож' were also grammatical answers"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "match new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "match new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'Таны/Тэдний/Чиний бодлоор' were also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "remove 'үнэ үнэтэй'; context makes answer unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "match new text"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "match new text"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "match new text"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'thought' could also fit"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "'өмнө' was wrong; it comes after 'I'"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "friends use чи; missing question particle вэ"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "remove 'үнэ үнэтэй'"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "match mn"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'хөгшин' means elderly, not 'older than you'"
+   }
+  ]
+ }
+}

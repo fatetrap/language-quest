@@ -1,0 +1,410 @@
+{
+ "intro_en": "Learn how to split a countryside meat and dairy order with relatives. You will talk about shares, totals, and remaining balances, and use distributive phrases like айл бүрт нэг гулууз (one carcass per family).",
+ "intro_mn": "Хөдөөний хамаатнуудаас ирсэн мах, сүүний захиалгыг хамаатнуудтайгаа хувааж, мөнгийг нь яаж тооцох талаар суралцана. Англи хэлний meat orders, the family's coal supply гэх мэт нийлмэл нэрийн олон тоо, өмчлөх хэлбэрийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "хуваах",
+   "en": "to split, to divide",
+   "pos": "verb",
+   "example_mn": "Бид мах, сүүгээ гурван айлд хуваана.",
+   "example_en": "We'll split the meat and dairy among three families.",
+   "mn_latin": "khuvaakh"
+  },
+  {
+   "mn": "хувь",
+   "en": "share, portion",
+   "pos": "noun",
+   "example_mn": "Манай айлын хувь нэг гулууз хонь.",
+   "example_en": "Our family's share is one sheep carcass.",
+   "mn_latin": "khuvi"
+  },
+  {
+   "mn": "тус бүр",
+   "en": "each (one)",
+   "pos": "determiner phrase",
+   "example_mn": "Хүн тус бүр хорин мянган төгрөг өгнө.",
+   "example_en": "Each person pays twenty thousand tögrög.",
+   "mn_latin": "tus bür"
+  },
+  {
+   "mn": "нийт",
+   "en": "total, in total",
+   "pos": "adjective/adverb",
+   "example_mn": "Нийт үнэ нэг сая хоёр зуун мянган төгрөг.",
+   "example_en": "The total price is 1,200,000 tögrög.",
+   "mn_latin": "niit"
+  },
+  {
+   "mn": "үлдэгдэл",
+   "en": "remaining balance, remainder",
+   "pos": "noun",
+   "example_mn": "Үлдэгдлийг маргааш шилжүүлнэ.",
+   "example_en": "I'll transfer the remaining balance tomorrow.",
+   "mn_latin": "üldegdel"
+  },
+  {
+   "mn": "гулууз",
+   "en": "(whole) carcass",
+   "pos": "noun",
+   "example_mn": "Айл бүрт нэг гулууз хонь ногдоно.",
+   "example_en": "Each family gets one sheep carcass.",
+   "mn_latin": "guluuz"
+  },
+  {
+   "mn": "шуудай",
+   "en": "sack",
+   "pos": "noun",
+   "example_mn": "Хүн тус бүр хоёр шуудай төмс авна.",
+   "example_en": "Each person takes two sacks of potatoes.",
+   "mn_latin": "shuudai"
+  },
+  {
+   "mn": "ногдох",
+   "en": "to fall to someone as their share",
+   "pos": "verb",
+   "example_mn": "Нэг айлд дөрвөн зуун мянган төгрөг ногдож байна.",
+   "example_en": "It comes to four hundred thousand tögrög per family.",
+   "mn_latin": "nogdokh"
+  },
+  {
+   "mn": "шилжүүлэх",
+   "en": "to transfer (money)",
+   "pos": "verb",
+   "example_mn": "Мөнгөө утсаараа шилжүүлчихлээ.",
+   "example_en": "I've transferred the money with my phone.",
+   "mn_latin": "shiljüülekh"
+  },
+  {
+   "mn": "зардал",
+   "en": "cost, expense",
+   "pos": "noun",
+   "example_mn": "Тээврийн зардлыг тэнцүү хуваая.",
+   "example_en": "Let's split the shipping cost equally.",
+   "mn_latin": "zardal"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хөдөөнөөс ирсэн мах, сүүг гурван айлд хуваая.",
+   "en": "Let's split the meat and dairy from the countryside among three families.",
+   "alt_mn": [
+    "Хөдөөнөөс ирсэн мах, сүүг гурван айл хуваая."
+   ],
+   "alt_en": [
+    "Let's divide the meat and dairy from the countryside among three families."
+   ],
+   "mn_latin": "Khödöönöös irsen makh, süüg gurvan aild khuvaaya."
+  },
+  {
+   "mn": "Айл бүрт нэг гулууз хонь ногдоно.",
+   "en": "Each family gets one sheep carcass.",
+   "alt_mn": [
+    "Айл тус бүрт нэг гулууз хонь ногдоно."
+   ],
+   "alt_en": [
+    "Every family gets one sheep carcass.",
+    "It's one sheep carcass per family."
+   ],
+   "mn_latin": "Ail bürt neg guluuz khoni nogdono."
+  },
+  {
+   "mn": "Хүн тус бүр хоёр шуудай төмс авна.",
+   "en": "Each person takes two sacks of potatoes.",
+   "alt_mn": [
+    "Хүн бүр хоёр шуудай төмс авна."
+   ],
+   "alt_en": [
+    "Everyone takes two sacks of potatoes.",
+    "Each person gets two sacks of potatoes."
+   ],
+   "mn_latin": "Khün tus bür khoyor shuudai töms avna."
+  },
+  {
+   "mn": "Нийт зардал нэг сая найман зуун мянган төгрөг гарсан.",
+   "en": "The total cost came to 1,800,000 tögrög.",
+   "alt_mn": [
+    "Нийт зардал нэг сая найман зуун мянган төгрөг болсон."
+   ],
+   "alt_en": [
+    "The total cost was 1,800,000 tögrög."
+   ],
+   "mn_latin": "Niit zardal neg saya naiman zuun myangan tögrög garsan."
+  },
+  {
+   "mn": "Тээврийн зардлыг тэнцүү хуваах уу?",
+   "en": "Should we split the shipping cost equally?",
+   "alt_mn": [
+    "Тээврийн зардлыг тэнцүү хуваах юм уу?"
+   ],
+   "alt_en": [
+    "Should we split the shipping costs equally?",
+    "Are we splitting the shipping cost equally?"
+   ],
+   "mn_latin": "Teevriin zardlyg tentsüü khuvaakh uu?"
+  },
+  {
+   "mn": "Манай хувийн мөнгийг өнөөдөр шилжүүлчихлээ.",
+   "en": "I transferred the money for our share today.",
+   "alt_mn": [
+    "Манай хувийн мөнгийг өнөөдөр шилжүүлсэн."
+   ],
+   "alt_en": [
+    "I've transferred our share of the money today."
+   ],
+   "mn_latin": "Manai khuviin möngiig önöödör shiljüülchikhlee."
+  },
+  {
+   "mn": "Үлдэгдлээ цалингаа буухаар төлнө.",
+   "en": "I'll pay the balance when my salary comes in.",
+   "alt_mn": [
+    "Үлдэгдлийг цалингаа буухаар төлнө."
+   ],
+   "alt_en": [
+    "I'll pay the rest when I get paid."
+   ],
+   "mn_latin": "Üldegdlee tsalingaa buukhaar tölnö."
+  },
+  {
+   "mn": "Ах маань малчин хамаатнуудаас ирэх захиалгыг зохицуулсан.",
+   "en": "My older brother arranged the order from our herding relatives.",
+   "alt_mn": [
+    "Ах маань малчин хамаатнуудын захиалгыг зохицуулсан."
+   ],
+   "alt_en": [
+    "My older brother organized the order from our herder relatives."
+   ],
+   "mn_latin": "Akh maani malchin khamaatnuudaas irekh zakhialgyg zokhitsuulsan."
+  },
+  {
+   "mn": "Нэг айлд хэдэн кило цөцгийн тос ногдох вэ?",
+   "en": "How many kilos of butter does each family get?",
+   "alt_mn": [
+    "Айл бүрт хэдэн кило цөцгийн тос ногдох вэ?"
+   ],
+   "alt_en": [
+    "How many kilos of butter per family?"
+   ],
+   "mn_latin": "Neg aild kheden kilo tsötsgiin tos nogdokh ve?"
+  },
+  {
+   "mn": "Хүүхэдтэй айлуудад ааруулыг арай илүү хувааж өгье.",
+   "en": "Let's give the families with kids a bit more aaruul.",
+   "alt_mn": [
+    "Хүүхэдтэй айлуудад ааруулаас арай илүү хувь өгье."
+   ],
+   "alt_en": [
+    "Let's give a little more aaruul to the families with children."
+   ],
+   "mn_latin": "Khüükhedtei ailuudad aaruulyg arai ilüü khuvaaj ögiye."
+  },
+  {
+   "mn": "Эгчийнх илүү том хувь авсан болохоор илүү мөнгө төлнө.",
+   "en": "My older sister's family took a bigger share, so they'll pay more.",
+   "alt_mn": [
+    "Эгчийнх том хувь авсан учраас илүү мөнгө төлнө."
+   ],
+   "alt_en": [
+    "My sister's family got a bigger share, so they'll pay more."
+   ],
+   "mn_latin": "Egchiinkh ilüü tom khuvi avsan bolokhoor ilüü möngö tölnö."
+  },
+  {
+   "mn": "Хүн бүр төлсөн дүнгээ групп чатад бичээрэй.",
+   "en": "Everyone, please post the amount you paid in the group chat.",
+   "alt_mn": [
+    "Хүн бүр төлсөн мөнгөө групп чатад бичээрэй."
+   ],
+   "alt_en": [
+    "Everyone, please write how much you paid in the group chat."
+   ],
+   "mn_latin": "Khün bür tölsön düngee grupp chatad bicheerei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Distributive phrases: айл бүрт нэг гулууз (one carcass per family)",
+  "title_mn": "Англи хэлний нийлмэл нэр: олон тоо ба өмчлөх хэлбэр (meat orders, the family's coal supply)",
+  "explain_en": "To say 'each X gets Y', Mongolian puts бүр or тус бүр (each) after the noun. If X is the receiver, add the dative -д/-т to бүр: айл бүрт нэг гулууз ногдоно (each family gets one carcass). If X is the one doing the action, there is no ending: хүн тус бүр хоёр шуудай авна (each person takes two sacks). The verb ногдох (to fall to someone as their share) always takes the dative: нэг айлд 400,000 төгрөг ногдоно. In measure phrases the order is number + measure word + item, and nothing takes a plural ending: хоёр шуудай гурил (two sacks of flour), нэг гулууз хонь (one sheep carcass).",
+  "explain_mn": "Англи хэлэнд хоёр нэр нийлж нэг ойлголт үүсгэвэл (meat order, coal supply) эхний нэр тодотгол болж ганц тоогоороо үлдэнэ. Олон тоог зөвхөн сүүлийн нэрт залгана: meat orders (meats orders гэж болохгүй), coal sacks. Эзэмшигчийг заахдаа 's-ийг эзэмшигчид залгана: the family's coal supply (айлын нүүрсний нөөц). Эзэмшигч нь -s-ээр төгссөн олон тоо бол зөвхөн апостроф нэмнэ: the relatives' meat order, the three families' shipping costs. Each/every-ийн дараа нэр, үйл үг ганц тоогоор байна: Each family gets one carcass.",
+  "examples": [
+   {
+    "mn": "Айл бүрт нэг гулууз хонь ногдоно.",
+    "en": "Each family gets one sheep carcass.",
+    "mn_latin": "Ail bürt neg guluuz khoni nogdono."
+   },
+   {
+    "mn": "Хүн тус бүр хоёр шуудай гурил авна.",
+    "en": "Each person takes two sacks of flour.",
+    "mn_latin": "Khün tus bür khoyor shuudai guril avna."
+   },
+   {
+    "mn": "Хамаатнуудын махны захиалга маргааш ирнэ.",
+    "en": "The relatives' meat order arrives tomorrow.",
+    "mn_latin": "Khamaatnuudyn makhny zakhialga margaash irne."
+   },
+   {
+    "mn": "Айлын нүүрсний нөөц нэгдүгээр сард дууссан.",
+    "en": "The family's coal supply ran out in January.",
+    "mn_latin": "Ailyn nüürsnii nööts negdügeer sard duussan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Айл ___ нэг гулууз ногдоно.",
+   "answer": "бүрт",
+   "options": [
+    "бүрт",
+    "бүр",
+    "бүрээс",
+    "бүрийн"
+   ],
+   "translation": "Each family gets one carcass.",
+   "explain_en": "Ногдох (to fall to as a share) needs the receiver in the dative case, so бүр takes -т: айл бүрт.",
+   "explain_mn": "Ногдох үйл үг хүлээн авагчийг өгөх-оршихын тийн ялгалаар шаардана. Тиймээс бүр + т = бүрт."
+  },
+  {
+   "mn_note": "",
+   "lang": "mn",
+   "text": "Нийт зардлыг дөрвөн айл___ хуваая.",
+   "answer": "д",
+   "options": [
+    "д",
+    "ын",
+    "аас",
+    "ыг"
+   ],
+   "translation": "Let's split the total cost among four families.",
+   "explain_en": "With хуваах, the people you divide something among take the dative -д: дөрвөн айлд хуваах (split among four families).",
+   "explain_mn": "Хуваах үйл үгийн хувьд юмыг хэдэд хувааж байгааг -д/-т дагавраар заана: дөрвөн айлд хуваах."
+  },
+  {
+   "lang": "mn",
+   "text": "Үлдэгд___ маргааш шилжүүлнэ.",
+   "answer": "лийг",
+   "options": [
+    "лийг",
+    "лийн",
+    "элд",
+    "лээс"
+   ],
+   "translation": "I'll transfer the remaining balance tomorrow.",
+   "explain_en": "Үлдэгдэл is the direct object of шилжүүлэх, so it takes the accusative. The hidden vowel э drops out: үлдэгдэл → үлдэгдлийг.",
+   "explain_mn": "Үлдэгдэл нь шилжүүлэх үйлийн шууд тусагдахуун тул заахын тийн ялгал авна. Эгшиг гээгдэж үлдэгдлийг болно."
+  },
+  {
+   "lang": "en",
+   "text": "We placed two ___ orders this year.",
+   "answer": "meat",
+   "options": [
+    "meat",
+    "meats",
+    "meat's",
+    "meats'"
+   ],
+   "translation": "Бид энэ жил хоёр удаа мах захиалсан.",
+   "explain_en": "In a compound noun, the first noun works like an adjective and stays singular. Only the last noun takes the plural: meat orders.",
+   "explain_mn": "Нийлмэл нэрийн эхний нэр тодотгол тул олон тоо авахгүй. Олон тоог зөвхөн orders авна: meat orders."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ coal supply ran out in January.",
+   "answer": "family's",
+   "options": [
+    "family's",
+    "families",
+    "familys'",
+    "families's"
+   ],
+   "translation": "Айлын нүүрсний нөөц нэгдүгээр сард дууссан.",
+   "explain_en": "One family owns the supply, so the singular possessive 's is used: the family's coal supply.",
+   "explain_mn": "Нэг айлын нөөц тул ганц тооны өмчлөх 's хэрэглэнэ: the family's coal supply."
+  },
+  {
+   "lang": "en",
+   "text": "The three ___ shipping costs were split equally.",
+   "answer": "families'",
+   "options": [
+    "families'",
+    "family's",
+    "families",
+    "familys"
+   ],
+   "translation": "Гурван айлын тээврийн зардлыг тэнцүү хуваасан.",
+   "explain_en": "'Three' makes the owner plural (families). A plural ending in -s takes only an apostrophe: families'.",
+   "explain_mn": "Three гэсэн тул эзэмшигч олон тоо (families) байна. -s-ээр төгссөн олон тоонд зөвхөн апостроф нэмнэ: families'."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Архангайгаас ах маань мах, сүү явуулчихлаа. Нийт дөрвөн гулууз хонь, хорин кило цөцгийн тос байна.",
+   "en": "My brother sent meat and dairy from Arkhangai. In total, there are four sheep carcasses and twenty kilos of butter.",
+   "mn_latin": "Arkhangaigaas akh maani makh, süü yavuulchikhlaa. Niit dörvön guluuz khoni, khorin kilo tsötsgiin tos baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна. Яаж хуваах вэ? Бид дөрвөн айл шүү дээ.",
+   "en": "Great. How do we split it? There are four families of us, after all.",
+   "mn_latin": "Sain baina. Yaaj khuvaakh ve? Bid dörvön ail shüü dee."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Айл бүрт нэг гулууз, тус бүр таван кило тос ногдоно.",
+   "en": "Each family gets one carcass and five kilos of butter.",
+   "mn_latin": "Ail bürt neg guluuz, tus bür tavan kilo tos nogdono."
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Нийт хэд болсон бэ? Тээврийн зардлыг оруулсан уу?",
+   "en": "How much did it come to in total? Did you include the shipping cost?",
+   "mn_latin": "Niit khed bolson be? Teevriin zardlyg oruulsan uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм, нийт нэг сая зургаан зуун мянга. Айл тус бүр дөрвөн зуун мянган төгрөг шилжүүлнэ.",
+   "en": "Yes, 1,600,000 in total. Each family transfers 400,000 tögrög.",
+   "mn_latin": "Tiim, niit neg saya zurgaan zuun myanga. Ail tus bür dörvön zuun myangan tögrög shiljüülne."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би хоёр зуун мянгыг нь өнөөдөр шилжүүлье, үлдэгдлийг нь цалингаа буухаар өгье.",
+   "en": "I'll transfer 200,000 today and pay the balance when my salary comes in.",
+   "mn_latin": "Bi khoyor zuun myangyg ni önöödör shiljüüliye, üldegdliig ni tsalingaa buukhaar ögiye."
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Манай хүүхдүүд ааруул их иддэг. Ааруулаас илүү хувь авч болох уу? Илүү мөнгө төлье.",
+   "en": "My kids eat a lot of aaruul. Could we take a bigger share of the aaruul? We'll pay extra.",
+   "mn_latin": "Manai khüükhdüüd aaruul ikh iddeg. Aaruulaas ilüü khuvi avch bolokh uu? Ilüü möngö töliye."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Болно. Тэгвэл ааруулын мөнгийг тусад нь бодъё.",
+   "en": "Sure. Then let's calculate the aaruul money separately.",
+   "mn_latin": "Bolno. Tegvel aaruulyn möngiig tusad ni bodyo."
+  }
+ ],
+ "culture_note": {
+  "en": "In late autumn, many Ulaanbaatar families get their winter meat (идэш) from herding relatives in the countryside. One relative usually coordinates the order, and the cost is split in a family group chat, with money sent by bank app. The exchange often goes both ways: city relatives send flour, rice, clothes, or help with paperwork in return.",
+  "mn": "Намрын сүүлээр Улаанбаатарын олон айл өвлийн идшээ хөдөөний малчин хамаатнуудаасаа авдаг. Ихэвчлэн нэг хүн захиалгыг зохицуулж, зардлыг гэр бүлийн групп чатад хувааж, мөнгөө банкны аппаар шилжүүлдэг. Энэ харилцаа ихэвчлэн хоёр талтай байдаг: хотын хамаатнууд нь хариуд нь гурил, будаа, хувцас явуулах эсвэл бичиг цаасны ажилд нь тусалдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Strong, natural lesson with correct math and grammar. One English blank had two valid answers, and 'coal' was translated as the general word for fuel."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "The lesson is mostly accurate. The only real problem was in the Mongolian culture note: it left out 'in return' and used буюу where 'or' was needed.",
+  "changes": [
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The Mongolian version was missing 'in return' (хариуд нь), and буюу ('i.e.') was used where эсвэл ('or') is meant."
+   }
+  ]
+ }
+}

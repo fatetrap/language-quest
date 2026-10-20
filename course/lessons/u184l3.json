@@ -1,0 +1,413 @@
+{
+ "intro_en": "In this lesson you will compile a professional glossary for a mining or IT report. You will use category and classification words, the Mongolian connectors болон and ба, and the English patterns 'is defined as,' 'is a type of,' and 'consists of.'",
+ "intro_mn": "Энэ хичээлээр та уул уурхай эсвэл мэдээллийн технологийн тайланд зориулсан мэргэжлийн тайлбар толь бэлтгэж сурна. Төрөл, ангиллыг илэрхийлэх үгс, \"болон\", \"ба\" холбоос, мөн англи хэлний \"is defined as\", \"is a type of\", \"consists of\" хэлбэрүүдийг хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "тайлбар толь",
+   "en": "glossary",
+   "pos": "noun",
+   "example_mn": "Тайлангийн төгсгөлд тайлбар толь хавсаргана.",
+   "example_en": "A glossary is attached at the end of the report.",
+   "mn_latin": "tailbar toli"
+  },
+  {
+   "mn": "нэр томьёо",
+   "en": "term",
+   "pos": "noun",
+   "example_mn": "Энэ нэр томьёог монголоор яаж орчуулах вэ?",
+   "example_en": "How do we translate this term into Mongolian?",
+   "mn_latin": "ner tomiyoo"
+  },
+  {
+   "mn": "тодорхойлолт",
+   "en": "definition",
+   "pos": "noun",
+   "example_mn": "Тодорхойлолт товч бөгөөд ойлгомжтой байх ёстой.",
+   "example_en": "A definition should be short and clear.",
+   "mn_latin": "todorkhoilolt"
+  },
+  {
+   "mn": "төрөл",
+   "en": "type, kind",
+   "pos": "noun",
+   "example_mn": "Linux бол үйлдлийн системийн нэг төрөл юм.",
+   "example_en": "Linux is a type of operating system.",
+   "mn_latin": "töröl"
+  },
+  {
+   "mn": "ангилал",
+   "en": "classification, category",
+   "pos": "noun",
+   "example_mn": "Ашигт малтмалын ангиллыг хүснэгтээр харуулав.",
+   "example_en": "The classification of minerals is shown in a table.",
+   "mn_latin": "angilal"
+  },
+  {
+   "mn": "хамаарах",
+   "en": "to belong to, to fall under",
+   "pos": "verb",
+   "example_mn": "Зэс өнгөт металлын төрөлд хамаардаг.",
+   "example_en": "Copper belongs to the category of non-ferrous metals.",
+   "mn_latin": "khamaarakh"
+  },
+  {
+   "mn": "бүрдэх",
+   "en": "to consist of",
+   "pos": "verb",
+   "example_mn": "Сүлжээ сервер, чиглүүлэгч болон кабелиас бүрдэнэ.",
+   "example_en": "The network consists of servers, routers, and cables.",
+   "mn_latin": "bürdekh"
+  },
+  {
+   "mn": "жишээлбэл",
+   "en": "for example",
+   "pos": "adverb",
+   "example_mn": "Жишээлбэл, нүүрс бол чулуужсан түлш юм.",
+   "example_en": "For example, coal is a fossil fuel.",
+   "mn_latin": "jisheelbel"
+  },
+  {
+   "mn": "хүдэр",
+   "en": "ore",
+   "pos": "noun",
+   "example_mn": "Хүдрийг баяжуулах үйлдвэрт боловсруулдаг.",
+   "example_en": "Ore is processed at a concentrator plant.",
+   "mn_latin": "khüder"
+  },
+  {
+   "mn": "өгөгдлийн сан",
+   "en": "database",
+   "pos": "noun",
+   "example_mn": "Бүх нэр томьёог өгөгдлийн санд хадгална.",
+   "example_en": "All the terms are stored in a database.",
+   "mn_latin": "ögögdliin san"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хүдэр гэж ашигт малтмал агуулсан чулуулгийг хэлнэ.",
+   "en": "Ore is defined as rock that contains valuable minerals.",
+   "alt_mn": [
+    "Хүдэр гэдэг нь ашигт малтмал агуулсан чулуулаг юм."
+   ],
+   "alt_en": [
+    "Ore is rock that contains valuable minerals."
+   ],
+   "mn_latin": "Khüder gej ashigt maltmal aguulsan chuluulgiig khelne."
+  },
+  {
+   "mn": "Зэс, алт болон мөнгө нь Оюу толгойн ордын гол бүтээгдэхүүн юм.",
+   "en": "Copper, gold, and silver are the main products of the Oyu Tolgoi deposit.",
+   "alt_mn": [
+    "Зэс, алт ба мөнгө нь Оюу толгойн ордын гол бүтээгдэхүүн юм."
+   ],
+   "alt_en": [
+    "Copper, gold and silver are the main products of the Oyu Tolgoi deposit."
+   ],
+   "mn_latin": "Zes, alt bolon möngö ni Oyuu tolgoin ordyn gol büteegdekhüün yum."
+  },
+  {
+   "mn": "Нүүрс чулуужсан түлшний ангилалд хамаарна.",
+   "en": "Coal falls under the category of fossil fuels.",
+   "alt_mn": [
+    "Нүүрс бол чулуужсан түлшний нэг төрөл юм."
+   ],
+   "alt_en": [
+    "Coal is a type of fossil fuel.",
+    "Coal belongs to the category of fossil fuels."
+   ],
+   "mn_latin": "Nüürs chuluujsan tülshnii angilald khamaarna."
+  },
+  {
+   "mn": "Манай сүлжээ сервер, чиглүүлэгч болон кабелиас бүрдэнэ.",
+   "en": "Our network consists of servers, routers, and cables.",
+   "alt_mn": [
+    "Манай сүлжээ сервер, чиглүүлэгч, кабелиас бүрддэг."
+   ],
+   "alt_en": [
+    "Our network is made up of servers, routers, and cables."
+   ],
+   "mn_latin": "Manai süljee syervyer, chiglüülegch bolon kabyelias bürdene."
+  },
+  {
+   "mn": "Жишээлбэл, фишинг бол кибер халдлагын нэг төрөл юм.",
+   "en": "For example, phishing is a type of cyberattack.",
+   "alt_mn": [
+    "Тухайлбал, фишинг бол кибер халдлагын нэг төрөл юм."
+   ],
+   "alt_en": [
+    "For instance, phishing is a type of cyberattack."
+   ],
+   "mn_latin": "Jisheelbel, fishing bol kibyer khaldlagyn neg töröl yum."
+  },
+  {
+   "mn": "Үүлэн тооцоолол гэдэг нь интернэтээр дамжуулан тооцооллын нөөц ашиглахыг хэлнэ.",
+   "en": "Cloud computing is defined as using computing resources over the internet.",
+   "alt_mn": [
+    "Үүлэн тооцоолол гэж интернэтээр дамжуулан тооцооллын нөөц ашиглахыг хэлнэ."
+   ],
+   "alt_en": [
+    "Cloud computing means using computing resources over the internet."
+   ],
+   "mn_latin": "Üülen tootsoolol gedeg ni intyerneteer damjuulan tootsoollyn nööts ashiglakhyg khelne."
+  },
+  {
+   "mn": "Тайлбар тольд нэр томьёог цагаан толгойн дарааллаар байрлуулна.",
+   "en": "In the glossary, the terms are arranged in alphabetical order.",
+   "alt_mn": [
+    "Тайлбар толийн нэр томьёог цагаан толгойн дарааллаар жагсаана."
+   ],
+   "alt_en": [
+    "The terms in the glossary are listed alphabetically."
+   ],
+   "mn_latin": "Tailbar tolid ner tomiyoog tsagaan tolgoin daraallaar bairluulna."
+  },
+  {
+   "mn": "Энэ нэр томьёо хэд хэдэн утгатай ба нөхцөлөөсөө хамаарч өөр өөрөөр ойлгогдоно.",
+   "en": "This term has several meanings, and it is understood differently depending on the context.",
+   "alt_mn": [
+    "Энэ нэр томьёо хэд хэдэн утгатай бөгөөд нөхцөлөөсөө хамаарч өөр өөрөөр ойлгогдоно."
+   ],
+   "alt_en": [
+    "This term has several meanings and is interpreted differently depending on the context."
+   ],
+   "mn_latin": "Ene ner tomiyoo khed kheden utgatai ba nökhtsölöösöö khamaarch öör ööröör oilgogdono."
+  },
+  {
+   "mn": "Уурхайн тоног төхөөрөмжийг гурван үндсэн ангилалд хуваадаг.",
+   "en": "Mining equipment is divided into three main categories.",
+   "alt_mn": [
+    "Уурхайн тоног төхөөрөмж гурван үндсэн ангилалтай."
+   ],
+   "alt_en": [
+    "Mining equipment falls into three main categories."
+   ],
+   "mn_latin": "Uurkhain tonog tökhöörömjiig gurvan ündsen angilald khuvaadag."
+  },
+  {
+   "mn": "Ил уурхай гэж ашигт малтмалыг газрын гадаргаас олборлодог уурхайг хэлнэ.",
+   "en": "An open-pit mine is defined as a mine that extracts minerals from the surface.",
+   "alt_mn": [
+    "Ил уурхай гэдэг нь ашигт малтмалыг газрын гадаргаас олборлодог уурхай юм."
+   ],
+   "alt_en": [
+    "An open-pit mine is a mine where minerals are extracted from the surface."
+   ],
+   "mn_latin": "Il uurkhai gej ashigt maltmalyg gazryn gadargaas olborlodog uurkhaig khelne."
+  },
+  {
+   "mn": "Тайлан танилцуулга, үндсэн хэсэг болон хавсралтаас бүрдэнэ.",
+   "en": "The report consists of an introduction, a main section, and appendices.",
+   "alt_mn": [
+    "Тайлан танилцуулга, үндсэн хэсэг, хавсралтаас бүрддэг."
+   ],
+   "alt_en": [
+    "The report is made up of an introduction, a main section, and appendices."
+   ],
+   "mn_latin": "Tailan taniltsuulga, ündsen kheseg bolon khavsraltaas bürdene."
+  },
+  {
+   "mn": "Шинэ нэр томьёо бүрийг тайлбар толь болон өгөгдлийн санд нэмэх шаардлагатай.",
+   "en": "Every new term needs to be added to the glossary and the database.",
+   "alt_mn": [
+    "Шинэ нэр томьёо бүрийг тайлбар толь ба өгөгдлийн санд нэмэх ёстой."
+   ],
+   "alt_en": [
+    "Each new term must be added to both the glossary and the database."
+   ],
+   "mn_latin": "Shine ner tomiyoo büriig tailbar toli bolon ögögdliin sand nemekh shaardlagatai."
+  }
+ ],
+ "grammar": {
+  "title_en": "Joining nouns and clauses: болон vs ба",
+  "title_mn": "Ангилал ба тодорхойлолт: is defined as, is a type of, consists of",
+  "explain_en": "Both болон and ба mean 'and,' and both belong to formal, written Mongolian. Болон joins nouns and noun phrases. In a list, it usually goes before the last item only: зэс, алт болон мөнгө ('copper, gold, and silver'). Ба can also join nouns, but it can join verbs, adjectives, and whole clauses as well: Төсөл гурван жил үргэлжилсэн ба 2023 онд дууссан ('The project lasted three years and ended in 2023'). Болон cannot be used this way. In everyday speech, Mongolians usually just list items with commas, or put хоёр after a pair (зэс, алт хоёр 'copper and gold'). Classification phrases you will need: X нь Y-ын төрөлд хамаарна ('X belongs to the Y category'), X нь A, B болон C-аас бүрдэнэ ('X consists of A, B, and C'; note the ablative ending -аас/-ээс/-оос/-өөс), and X гэж ...-ыг хэлнэ ('X is defined as...').",
+  "explain_mn": "Англи хэлэнд нэр томьёог тодорхойлж, ангилахдаа гурван хэлбэрийг их хэрэглэдэг. 1) \"X is defined as Y\" нь \"X гэж Y-ыг хэлнэ\" гэсэн утгатай: Ore is defined as rock that contains valuable minerals. 2) \"X is a type of Y\" нь \"X бол Y-ын нэг төрөл\" гэсэн утгатай. \"type\"-ын араас ихэвчлэн ганц тооны нэр үг ордог, артикль хэрэглэхгүй: a type of metal (a type of a metal гэж болохгүй). 3) \"X consists of A, B, and C\" нь \"X нь A, B, C-ээс бүрдэнэ\" гэсэн утгатай. \"consist\"-ыг заавал \"of\"-той хэрэглэнэ. Үйлдэгдэх хэвд (is consisted of) хэзээ ч хэрэглэдэггүй. \"comprise\" бол \"of\"-гүй хэрэглэгддэг: The report comprises four sections. Англи жагсаалтад \"and\"-ийг сүүлийн зүйлийн өмнө тавьдаг нь монгол хэлний \"болон\"-той адил.",
+  "examples": [
+   {
+    "mn": "Сүлжээ сервер, чиглүүлэгч болон кабелиас бүрдэнэ.",
+    "en": "The network consists of servers, routers, and cables.",
+    "mn_latin": "Süljee syervyer, chiglüülegch bolon kabyelias bürdene."
+   },
+   {
+    "mn": "Зэс өнгөт металлын төрөлд хамаарна.",
+    "en": "Copper is a type of non-ferrous metal.",
+    "mn_latin": "Zes öngöt myetallyn töröld khamaarna."
+   },
+   {
+    "mn": "Хүдэр гэж ашигт малтмал агуулсан чулуулгийг хэлнэ.",
+    "en": "Ore is defined as rock that contains valuable minerals.",
+    "mn_latin": "Khüder gej ashigt maltmal aguulsan chuluulgiig khelne."
+   },
+   {
+    "mn": "Систем шинэчлэгдсэн ба одоо илүү хурдан ажиллаж байна.",
+    "en": "The system has been updated, and it now runs faster.",
+    "mn_latin": "Sistyem shinechlegdsen ba odoo ilüü khurdan ajillaj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Төсөл гурван жил үргэлжилсэн ___ 2023 онд амжилттай дууссан.",
+   "answer": "ба",
+   "options": [
+    "ба",
+    "болон",
+    "буюу",
+    "тухайлбал"
+   ],
+   "translation": "The project lasted three years and was successfully completed in 2023.",
+   "explain_en": "This blank joins two clauses (two verbs), so only ба works here. Болон can join only nouns and noun phrases, and буюу means 'or, that is.'",
+   "explain_mn": "Энд хоёр өгүүлбэр (үйл үг) холбогдож байгаа тул \"ба\" орно. \"Болон\" зөвхөн нэр үг, нэр үгийн хэллэг холбодог. \"Буюу\" нь \"эсвэл, өөрөөр хэлбэл\" гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Мэдээллийн систем гурван үндсэн хэсг___ бүрдэнэ.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "эд",
+    "тэй",
+    "ийг"
+   ],
+   "translation": "The information system consists of three main parts.",
+   "explain_en": "The verb бүрдэх ('to consist of') takes the ablative case. хэсэг + ablative = хэсгээс (the stem vowel drops, and the front-vowel ending -ээс follows vowel harmony).",
+   "explain_mn": "\"Бүрдэх\" үйл үг гарах тийн ялгалтай хэрэглэгддэг: хэсэг → хэсгээс. \"Юунаас бүрдэх вэ?\" гэж асуудаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Нүүрс чулуужсан түлшний ангилалд ___.",
+   "answer": "хамаарна",
+   "options": [
+    "хамаарна",
+    "бүрдэнэ",
+    "тодорхойлно",
+    "агуулна"
+   ],
+   "translation": "Coal falls under the category of fossil fuels.",
+   "explain_en": "With the dative ангилалд ('in/to the category'), the verb meaning 'belongs to' is хамаарах. Бүрдэх needs the ablative and means 'consists of.'",
+   "explain_mn": "Өгөх оршихын тийн ялгалтай \"ангилалд\" гэдгийн араас \"хамаарах\" үйл үг орно. \"Бүрдэх\" нь гарах тийн ялгал шаарддаг."
+  },
+  {
+   "lang": "en",
+   "text": "A router is a ___ of network device.",
+   "answer": "type",
+   "options": [
+    "type",
+    "piece",
+    "range",
+    "group"
+   ],
+   "translation": "Чиглүүлэгч бол сүлжээний төхөөрөмжийн нэг төрөл юм.",
+   "explain_en": "'Is a type of' is the standard pattern for classification. Note the singular noun after it, with no article: a type of device.",
+   "explain_mn": "Ангилал илэрхийлэхдээ \"is a type of\" хэлбэрийг хэрэглэнэ. Араас нь артикльгүй, ганц тооны нэр үг орно: a type of device."
+  },
+  {
+   "lang": "en",
+   "text": "The report ___ of four main sections.",
+   "answer": "consists",
+   "options": [
+    "consists",
+    "contains",
+    "includes",
+    "comprises"
+   ],
+   "translation": "Тайлан дөрвөн үндсэн хэсгээс бүрдэнэ.",
+   "explain_en": "Only 'consist' combines with 'of.' 'Contains' and 'includes' take a direct object, and careful writers avoid 'comprises of.'",
+   "explain_mn": "\"of\"-той зөвхөн \"consist\" хэрэглэгдэнэ. \"contain\", \"include\", \"comprise\" нь \"of\"-гүйгээр шууд тусагдахуун авдаг."
+  },
+  {
+   "lang": "en",
+   "text": "Ore is ___ as rock that contains valuable minerals.",
+   "answer": "defined",
+   "options": [
+    "defined",
+    "meant",
+    "called",
+    "said"
+   ],
+   "translation": "Хүдэр гэж ашигт малтмал агуулсан чулуулгийг хэлнэ.",
+   "explain_en": "The fixed pattern for definitions is 'X is defined as Y.' 'Called as,' 'meant as,' and 'said as' are not correct here.",
+   "explain_mn": "Тодорхойлолтод \"X is defined as Y\" гэсэн тогтвортой хэлбэр хэрэглэнэ. \"called as\", \"meant as\", \"said as\" гэж хэлдэггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Tom",
+   "mn": "Сарнай аа, уурхайн тайлангийн тайлбар толийг өнөөдөр дуусгаж болох уу?",
+   "en": "Sarnai, can we finish the glossary for the mining report today?",
+   "mn_latin": "Sarnai aa, uurkhain tailangiin tailbar toliig önöödör duusgaj bolokh uu?"
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Тэгье. Эхлээд нэр томьёогоо геологи, тоног төхөөрөмж болон байгаль орчин гэж гурав ангилъя.",
+   "en": "Sure. First, let's sort the terms into three categories: geology, equipment, and environment.",
+   "mn_latin": "Tegiye. Ekhleed ner tomiyoogoo gyeologi, tonog tökhöörömj bolon baigali orchin gej gurav angilya."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайн санаа. \"Хүдэр\" гэдгийг яаж тодорхойлох вэ?",
+   "en": "Good idea. How should we define \"ore\"?",
+   "mn_latin": "Sain sanaa. \"Khüder\" gedgiig yaaj todorkhoilokh ve?"
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "\"Хүдэр гэж ашигт малтмал агуулсан, олборлоход ашигтай чулуулгийг хэлнэ\" гэж бичье.",
+   "en": "Let's write: \"Ore is defined as rock that contains minerals and is profitable to mine.\"",
+   "mn_latin": "\"Khüder gej ashigt maltmal aguulsan, olborlokhod ashigtai chuluulgiig khelne\" gej bichiye."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэгвэл баяжуулалтын хаягдал нь хог хаягдлын нэг төрөл үү?",
+   "en": "And are tailings a type of waste, then?",
+   "mn_latin": "Tegvel bayajuulaltyn khayagdal ni khog khayagdlyn neg töröl üü?"
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Тийм, үйлдвэрийн хаягдлын ангилалд хамаарна. Ус, нунтагласан чулуулаг болон химийн бодисоос бүрддэг.",
+   "en": "Yes, they fall under the category of industrial waste. They consist of water, ground rock, and chemicals.",
+   "mn_latin": "Tiim, üildveriin khayagdlyn angilald khamaarna. Us, nuntaglasan chuluulag bolon khimiin bodisoos bürddeg."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тодорхойлолт бүрт жишээ нэмэх үү?",
+   "en": "Should we add an example to each definition?",
+   "mn_latin": "Todorkhoilolt bürt jishee nemekh üü?"
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Нэмье. Жишээлбэл, Оюу толгойн баяжуулах үйлдвэрийн тоо баримтыг ашиглаж болно.",
+   "en": "Yes, let's. For example, we could use data from the Oyu Tolgoi concentrator.",
+   "mn_latin": "Nemiye. Jisheelbel, Oyuu tolgoin bayajuulakh üildveriin too barimtyg ashiglaj bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, new technical terms are reviewed and approved by the State Language Council (Төрийн хэлний зөвлөл). Even so, many mining and IT terms are still borrowed from Russian or English, for example сервер, кабель, and молибден. Large projects such as Oyu Tolgoi publish reports in both Mongolian and English, so bilingual glossaries are a real and valued part of professional work in Ulaanbaatar.",
+  "mn": "Монголд шинэ нэр томьёог Төрийн хэлний зөвлөл хэлэлцэж баталдаг. Гэсэн хэдий ч уул уурхай болон мэдээллийн технологийн олон нэр томьёо орос, англи хэлнээс орж ирсэн хэвээр байна, жишээлбэл сервер, кабель, молибден. Оюу толгой зэрэг томоохон төслүүд тайлангаа монгол, англи хоёр хэлээр гаргадаг тул хоёр хэлний тайлбар толь Улаанбаатарын мэргэжлийн ажилд чухал үүрэгтэй."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 6,
+  "notes": "Natural, accurate bilingual lesson. Three fixes: a factual error about Oyu Tolgoi's products, a fill-in-the-blank with two possible answers, and a wrong grammar term in the Mongolian explanation."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is mostly accurate. I fixed one misleading spoken-Mongolian example and one en/mn explanation mismatch.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "mn omitted 'meant as' that en mentions"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "'зэс алттай' does not mean 'copper and gold'; the natural spoken pattern is 'зэс, алт хоёр'"
+   }
+  ]
+ }
+}

@@ -1,0 +1,414 @@
+{
+ "intro_en": "In this lesson, a doctor and a family talk about memory loss, mobility and treating elders with respect. You will learn health and rights vocabulary and how to state rights formally with -сан ч бай, -аагүй ч бай and -х ч бай, -хгүй ч бай, which correspond to English \"regardless of whether…\".",
+ "intro_mn": "Энэ хичээлээр эмч гэр бүлийнхэнтэй ой санамж, хөдөлгөөний чадвар, ахмад настныг хүндлэх тухай ярилцана. Ахмад настны эрүүл мэнд, эрхийн нэр томьёо болон англи хэлний \"regardless of whether…\" бүтцийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "ой санамж муудах",
+   "en": "memory decline; for one's memory to get worse",
+   "pos": "verb phrase",
+   "example_mn": "Эмээгийн ой санамж сүүлийн үед муудаж байна.",
+   "example_en": "Grandma's memory has been getting worse lately.",
+   "mn_latin": "oi sanamj muudakh"
+  },
+  {
+   "mn": "хараа муудах",
+   "en": "for one's vision to deteriorate",
+   "pos": "verb phrase",
+   "example_mn": "Хараа муудсан болохоор тэр сонин уншиж чадахаа больсон.",
+   "example_en": "Her vision has deteriorated, so she can no longer read the newspaper.",
+   "mn_latin": "kharaa muudakh"
+  },
+  {
+   "mn": "оюуны хомсрол",
+   "en": "dementia",
+   "pos": "noun",
+   "example_mn": "Оюуны хомсролыг эрт оношлох нь чухал.",
+   "example_en": "Early diagnosis of dementia is important.",
+   "mn_latin": "oyuuny khomsrol"
+  },
+  {
+   "mn": "хүндлэл",
+   "en": "respect",
+   "pos": "noun",
+   "example_mn": "Ахмад настанд хүндлэлтэй хандах хэрэгтэй.",
+   "example_en": "We should treat older people with respect.",
+   "mn_latin": "khündlel"
+  },
+  {
+   "mn": "нэр төр",
+   "en": "dignity",
+   "pos": "noun",
+   "example_mn": "Өвчтөний нэр төрийг хамгаалах нь эмчийн үүрэг.",
+   "example_en": "Protecting a patient's dignity is a doctor's duty.",
+   "mn_latin": "ner tör"
+  },
+  {
+   "mn": "хайхрамжгүй байдал",
+   "en": "neglect",
+   "pos": "noun",
+   "example_mn": "Асрамжийн газарт хайхрамжгүй байдал гарахыг хүлээн зөвшөөрч болохгүй.",
+   "example_en": "Neglect in a care home cannot be tolerated.",
+   "mn_latin": "khaikhramjgüi baidal"
+  },
+  {
+   "mn": "хөдөлгөөний чадвар",
+   "en": "mobility",
+   "pos": "noun",
+   "example_mn": "Өвдөгний мэс заслын дараа түүний хөдөлгөөний чадвар сайжирсан.",
+   "example_en": "His mobility improved after knee surgery.",
+   "mn_latin": "khödölgöönii chadvar"
+  },
+  {
+   "mn": "эрх",
+   "en": "right",
+   "pos": "noun",
+   "example_mn": "Ахмад настан бүр эмнэлгийн тусламж авах эрхтэй.",
+   "example_en": "Every older person has the right to medical care.",
+   "mn_latin": "erkh"
+  },
+  {
+   "mn": "асрагч",
+   "en": "caregiver",
+   "pos": "noun",
+   "example_mn": "Асрагч өдөр бүр өглөө ирж тусалдаг.",
+   "example_en": "The caregiver comes every morning to help.",
+   "mn_latin": "asragch"
+  },
+  {
+   "mn": "ялгаварлан гадуурхах",
+   "en": "to discriminate against",
+   "pos": "verb",
+   "example_mn": "Хүнийг насаар нь ялгаварлан гадуурхаж болохгүй.",
+   "example_en": "You must not discriminate against people because of their age.",
+   "mn_latin": "yalgavarlan gaduurkhakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ой санамж нь муудсан ч бай, муудаагүй ч бай, ахмад настан бүр өөрөө шийдвэр гаргах эрхтэй.",
+   "en": "Regardless of whether their memory has declined, every older person has the right to make their own decisions.",
+   "alt_mn": [],
+   "alt_en": [
+    "Whether or not their memory has declined, every older person has the right to make their own decisions."
+   ],
+   "mn_latin": "Oi sanamj ni muudsan ch bai, muudaagüi ch bai, akhmad nastan bür ööröö shiidver gargakh erkhtei."
+  },
+  {
+   "mn": "Эмчилгээ хүлээн авах ч бай, авахгүй ч бай, өвчтөний сонголтыг хүндэтгэх ёстой.",
+   "en": "Regardless of whether the patient accepts treatment, their choice must be respected.",
+   "alt_mn": [],
+   "alt_en": [
+    "Whether or not the patient accepts treatment, their choice must be respected."
+   ],
+   "mn_latin": "Emchilgee khüleen avakh ch bai, avakhgüi ch bai, övchtönii songoltyg khündetgekh yostoi."
+  },
+  {
+   "mn": "Таны ээжийн хараа сүүлийн нэг жилд нэлээд муудсан байна.",
+   "en": "Your mother's vision has gotten considerably worse over the past year.",
+   "alt_mn": [],
+   "alt_en": [
+    "Your mother's eyesight has deteriorated considerably over the past year."
+   ],
+   "mn_latin": "Tany eejiin kharaa süüliin neg jild neleed muudsan baina."
+  },
+  {
+   "mn": "Хайхрамжгүй байдал бол хүчирхийллийн нэг хэлбэр гэдгийг ойлгох хэрэгтэй.",
+   "en": "We need to understand that neglect is a form of abuse.",
+   "alt_mn": [],
+   "alt_en": [
+    "It is important to understand that neglect is a form of abuse."
+   ],
+   "mn_latin": "Khaikhramjgüi baidal bol khüchirkhiilliin neg khelber gedgiig oilgokh kheregtei."
+  },
+  {
+   "mn": "Оюуны хомсролтой хүнтэй ярихдаа түүний нэр төрийг хүндэтгэх нь чухал.",
+   "en": "When talking with a person who has dementia, it is important to respect their dignity.",
+   "alt_mn": [],
+   "alt_en": [
+    "When you talk to someone with dementia, it's important to respect their dignity."
+   ],
+   "mn_latin": "Oyuuny khomsroltoi khüntei yarikhdaa tüünii ner töriig khündetgekh ni chukhal."
+  },
+  {
+   "mn": "Тэтгэвэр авдаг ч бай, авдаггүй ч бай, ахмад настан эрүүл мэндийн үйлчилгээг тэгш авах эрхтэй.",
+   "en": "Regardless of whether they receive a pension, older people have the right to equal access to health care.",
+   "alt_mn": [],
+   "alt_en": [
+    "Whether or not they receive a pension, older people are entitled to equal access to health care."
+   ],
+   "mn_latin": "Tetgever avdag ch bai, avdaggüi ch bai, akhmad nastan erüül mendiin üilchilgeeg tegsh avakh erkhtei."
+  },
+  {
+   "mn": "Хөдөлгөөний чадвар нь буурсан ч аав маань өөрөө хоол хийхийг хүсдэг.",
+   "en": "Even though his mobility has declined, my father wants to cook for himself.",
+   "alt_mn": [
+    "Хөдөлгөөний чадвар нь буурсан хэдий ч аав маань өөрөө хоол хийхийг хүсдэг."
+   ],
+   "alt_en": [
+    "Although his mobility has declined, my dad wants to do his own cooking."
+   ],
+   "mn_latin": "Khödölgöönii chadvar ni buursan ch aav maani ööröö khool khiikhiig khüsdeg."
+  },
+  {
+   "mn": "Гэр бүлийнхэн нь зөвшөөрсөн ч бай, зөвшөөрөөгүй ч бай, эмч оношийг өвчтөнд өөрт нь хэлэх үүрэгтэй.",
+   "en": "Regardless of whether the family agrees, the doctor is obligated to tell the patient the diagnosis directly.",
+   "alt_mn": [],
+   "alt_en": [
+    "Whether or not the family agrees, the doctor must tell the patient the diagnosis directly."
+   ],
+   "mn_latin": "Ger büliinkhen ni zövshöörsön ch bai, zövshööröögüi ch bai, emch onoshiig övchtönd öört ni khelekh üüregtei."
+  },
+  {
+   "mn": "Ахмад настныг насаар нь ялгаварлан гадуурхахыг хуулиар хориглоно.",
+   "en": "Discriminating against older people because of their age is prohibited by law.",
+   "alt_mn": [],
+   "alt_en": [
+    "The law prohibits age discrimination against older people."
+   ],
+   "mn_latin": "Akhmad nastnyg nasaar ni yalgavarlan gaduurkhakhyg khuuliar khoriglono."
+  },
+  {
+   "mn": "Асрагч өдөр бүр эмийг нь цагт нь өгч байх ёстой.",
+   "en": "The caregiver must give them their medicine on time every day.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every day, the caregiver has to give them their medication on time."
+   ],
+   "mn_latin": "Asragch ödör bür emiig ni tsagt ni ögch baikh yostoi."
+  },
+  {
+   "mn": "Хотод амьдардаг ч бай, хөдөө амьдардаг ч бай, ахмад настан бүр тусламж авах боломжтой байх ёстой.",
+   "en": "Regardless of whether they live in the city or the countryside, every older person should be able to get help.",
+   "alt_mn": [],
+   "alt_en": [
+    "Whether they live in the city or in the countryside, all older people should have access to help."
+   ],
+   "mn_latin": "Khotod amidardag ch bai, khödöö amidardag ch bai, akhmad nastan bür tuslamj avakh bolomjtoi baikh yostoi."
+  },
+  {
+   "mn": "Хүндлэл бол зөвхөн үг биш, өдөр тутмын харьцаанд харагддаг зүйл.",
+   "en": "Respect is not just words. It shows in everyday interactions.",
+   "alt_mn": [],
+   "alt_en": [
+    "Respect isn't only about words. It shows in how we treat people every day."
+   ],
+   "mn_latin": "Khündlel bol zövkhön üg bish, ödör tutmyn kharitsaand kharagddag züil."
+  }
+ ],
+ "grammar": {
+  "title_en": "\"Whether or not\": -сан ч бай, -аагүй ч бай / -х ч бай, -хгүй ч бай",
+  "title_mn": "Англи хэлний \"regardless of whether + өгүүлбэр\"",
+  "explain_en": "To say that something is true no matter which option applies, Mongolian puts two contrasting verb forms side by side. Each one is followed by ч бай (\"even if it is\"). For something that has or hasn't happened, use past -сан/-сон/-сэн and negative -аагүй/-оогүй/-ээгүй: муудсан ч бай, муудаагүй ч бай (\"whether it has declined or not\"). For a general or future situation, use -х ч бай, -хгүй ч бай: авах ч бай, авахгүй ч бай. For habits, use -даг ч бай, -даггүй ч бай. The two options can also be different words: хотод ч бай, хөдөө ч бай. This pattern is common in laws, rules and formal statements about rights. A main clause with эрхтэй, ёстой or үүрэгтэй usually follows.",
+  "explain_mn": "Англи хэлэнд \"ямар ч байсан хамаагүй\" гэсэн утгыг \"regardless of whether + өгүүлбэр\" эсвэл \"whether or not + өгүүлбэр\" гэж илэрхийлнэ. \"of\"-ийн дараа \"if\" биш, заавал \"whether\" хэрэглэнэ. Жишээ нь: Regardless of whether they receive a pension… Энэ бүтэц монгол хэлний \"-сан ч бай, -аагүй ч бай\"-тай дүйнэ. Хуулийн болон албан ёсны мэдэгдэлд \"has the right to\", \"must\", \"is obligated to\" гэсэн үгтэй хамт их хэрэглэгддэг. Ярианд \"whether or not\" нь илүү энгийн сонсогдоно.",
+  "examples": [
+   {
+    "mn": "Оношлогдсон ч бай, оношлогдоогүй ч бай, тэр өөрийн амьдралын талаар шийдэх эрхтэй.",
+    "en": "Regardless of whether he has been diagnosed, he has the right to decide about his own life.",
+    "mn_latin": "Onoshlogdson ch bai, onoshlogdoogüi ch bai, ter ööriin amidralyn talaar shiidekh erkhtei."
+   },
+   {
+    "mn": "Төлбөр төлж чадах ч бай, чадахгүй ч бай, өвчтөн бүр тусламж авна.",
+    "en": "Regardless of whether they can pay, every patient will receive care.",
+    "mn_latin": "Tölbör tölj chadakh ch bai, chadakhgüi ch bai, övchtön bür tuslamj avna."
+   },
+   {
+    "mn": "Хүүхэдтэй ч бай, хүүхэдгүй ч бай, ахмад настан бүр асрамж авах эрхтэй.",
+    "en": "Regardless of whether they have children, every older person is entitled to care.",
+    "mn_latin": "Khüükhedtei ch bai, khüükhedgüi ch bai, akhmad nastan bür asramj avakh erkhtei."
+   },
+   {
+    "mn": "Бидэнтэй хамт амьдардаг ч бай, амьдардаггүй ч бай, бид ээждээ байнга анхаарал тавьдаг.",
+    "en": "Whether or not she lives with us, we always look after our mother.",
+    "mn_latin": "Bidentei khamt amidardag ch bai, amidardaggüi ch bai, bid eejdee bainga ankhaaral tavidag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ой санамж нь муудсан ч ___, муудаагүй ч бай, тэр өөрөө шийдвэр гаргах эрхтэй.",
+   "answer": "бай",
+   "options": [
+    "бай",
+    "байх",
+    "байсан",
+    "болно"
+   ],
+   "translation": "Regardless of whether her memory has declined, she has the right to make her own decisions.",
+   "explain_en": "Each half of the \"whether or not\" pattern ends with the fixed form ч бай, so both halves match: муудсан ч бай, муудаагүй ч бай.",
+   "explain_mn": "Энэ бүтцийн хоёр хэсэг хоёулаа \"ч бай\"-гаар төгсөнө: муудсан ч бай, муудаагүй ч бай."
+  },
+  {
+   "lang": "mn",
+   "text": "Эмчилгээ хүлээн авах ч бай, ___ ч бай, өвчтөний сонголтыг хүндэтгэнэ.",
+   "answer": "авахгүй",
+   "options": [
+    "авахгүй",
+    "аваагүй",
+    "авна",
+    "авсан"
+   ],
+   "translation": "Regardless of whether the patient accepts treatment, their choice will be respected.",
+   "explain_en": "The two halves must use matching forms. Since the first is -х (авах), the negative partner is -хгүй (авахгүй). The past negative аваагүй would pair with авсан instead.",
+   "explain_mn": "Хоёр хэсэг ижил хэлбэртэй байна. Эхнийх нь \"-х\" (авах) учраас эсрэг хэлбэр нь \"-хгүй\" (авахгүй) болно. \"Аваагүй\" нь \"авсан\"-тай хос болдог."
+  },
+  {
+   "lang": "mn",
+   "text": "Ахмад настантай харьцахдаа тэдний ___ төрийг хүндэтгэх хэрэгтэй.",
+   "answer": "нэр",
+   "options": [
+    "нэр",
+    "ой",
+    "хараа",
+    "эрх"
+   ],
+   "translation": "When dealing with older people, we need to respect their dignity.",
+   "explain_en": "\"Dignity\" is the fixed pair нэр төр. The other words do not combine with төр.",
+   "explain_mn": "\"Dignity\" гэдэг нь \"нэр төр\" гэсэн тогтвортой хослол юм. Бусад үг \"төр\"-тэй хослохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Every patient deserves good care, regardless ___ whether they can pay.",
+   "answer": "of",
+   "options": [
+    "of",
+    "to",
+    "for",
+    "from"
+   ],
+   "translation": "Төлбөр төлж чадах ч бай, чадахгүй ч бай, өвчтөн бүр сайн тусламж авах ёстой.",
+   "explain_en": "The fixed phrase is \"regardless of\". No other preposition is possible.",
+   "explain_mn": "\"Regardless\" гэдэг үг үргэлж \"of\" угтвар үгтэй хамт хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Regardless of ___ she remembers us, we visit her every week.",
+   "answer": "whether",
+   "options": [
+    "whether",
+    "if",
+    "that",
+    "what"
+   ],
+   "translation": "Биднийг санаж байгаа ч бай, санахгүй байгаа ч бай, бид түүнийг долоо хоног бүр эргэж очдог.",
+   "explain_en": "After a preposition like \"of\", English uses \"whether\", not \"if\".",
+   "explain_mn": "\"Of\" мэтийн угтвар үгийн дараа \"if\" биш \"whether\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Leaving an elderly person alone for days without food is a clear case of ___.",
+   "answer": "neglect",
+   "options": [
+    "neglect",
+    "dignity",
+    "mobility",
+    "dementia"
+   ],
+   "translation": "Ахмад настныг хэдэн өдөр хоолгүй ганцааранг нь орхих нь хайхрамжгүй байдлын тод жишээ.",
+   "explain_en": "Failing to give someone basic care is \"neglect\" (хайхрамжгүй байдал).",
+   "explain_mn": "Хүнд үндсэн асаргаа үзүүлэхгүй байхыг \"neglect\" буюу хайхрамжгүй байдал гэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Эмч ээ, аав маань сүүлийн үед юм их мартдаг болсон. Энэ оюуны хомсролын шинж үү?",
+   "en": "Doctor, my father has been forgetting things a lot lately. Is this a sign of dementia?",
+   "mn_latin": "Emch ee, aav maani süüliin üyed yum ikh martdag bolson. Ene oyuuny khomsrolyn shinj üü?"
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Одоохондоо хэлэхэд эрт байна. Шинжилгээ хийж, ой санамжийн сорил авсны дараа хэлье. Харин хараа нь ч муудсан юм шиг байна.",
+   "en": "It's too early to say. We'll run some tests and do a memory assessment, and then I'll let you know. His vision seems to have gotten worse, too.",
+   "mn_latin": "Odookhondoo khelekhed ert baina. Shinjilgee khiij, oi sanamjiin soril avsny daraa kheliye. Kharin kharaa ni ch muudsan yum shig baina."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Тийм ээ, шатаар өгсөхөд хэцүү болсон. Ганцааранг нь гадагш гаргахгүй байх нь дээр болов уу?",
+   "en": "Yes, climbing stairs has become hard for him. Would it be better not to let him go out alone?",
+   "mn_latin": "Tiim ee, shataar ögsökhöd khetsüü bolson. Gantsaarang ni gadagsh gargakhgüi baikh ni deer bolov uu?"
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Аюулгүй байдал чухал ч бие даасан байдлыг нь бүрэн хасаж болохгүй. Оношлогдсон ч бай, оношлогдоогүй ч бай, тэр өөрийн амьдралын талаар шийдэх эрхтэй.",
+   "en": "Safety matters, but you shouldn't take away his independence completely. Regardless of whether he's diagnosed, he has the right to make decisions about his own life.",
+   "mn_latin": "Ayuulgüi baidal chukhal ch biye daasan baidlyg ni büren khasaj bolokhgüi. Onoshlogdson ch bai, onoshlogdoogüi ch bai, ter ööriin amidralyn talaar shiidekh erkhtei."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Ойлголоо. Биднийг өөрийг нь хүүхэд шиг үздэг гэж аав гомдоллодог юм.",
+   "en": "I understand. Dad complains that we treat him like a child.",
+   "mn_latin": "Oilgoloo. Bidniig ööriig ni khüükhed shig üzdeg gej aav gomdollodog yum."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Энэ бол хүндлэлийн асуудал. Түүнээс асууж, сонсож, сонголт өгч байгаарай. Хүндлэл заримдаа хамгийн сайн эм болдог.",
+   "en": "That's a question of respect. Keep asking him, listening to him and giving him choices. Sometimes respect is the best medicine.",
+   "mn_latin": "Ene bol khündleliin asuudal. Tüünees asuuj, sonsoj, songolt ögch baigaarai. Khündlel zarimdaa khamgiin sain em boldog."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Баярлалаа, эмч ээ. Ирэх долоо хоногт шинжилгээнд нь хамт ирье.",
+   "en": "Thank you, doctor. We'll come in together for his tests next week.",
+   "mn_latin": "Bayarlalaa, emch ee. Irekh doloo khonogt shinjilgeend ni khamt iriye."
+  }
+ ],
+ "culture_note": {
+  "en": "Respect for elders is central to Mongolian culture. At Tsagaan Sar, younger relatives greet the eldest first with the zolgokh greeting, and older people are given the seat of honor in the ger. Mongolia's Law on Older Persons protects their rights to care and social services. However, memory loss is still often dismissed as \"just getting old,\" so dementia is frequently diagnosed late.",
+  "mn": "Ахмад настныг хүндлэх нь монгол соёлын чухал хэсэг. Цагаан сараар залуус хамгийн ахмад хүнээс эхэлж золгодог бөгөөд ахмад хүнийг гэрийн хойморт суулгадаг. Ахмад настны тухай хууль тэдний асрамж, нийгмийн үйлчилгээ авах эрхийг хамгаалдаг. Гэвч ой санамж муудахыг \"зүгээр л хөгшрөөд байна\" гэж үзэх нь элбэг тул оюуны хомсролыг ихэвчлэн оройтож оношилдог."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Accurate, natural lesson with consistent grammar and good fill-in-the-blank items. Only one unidiomatic phrase in the culture note needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 7,
+  "notes": "The main error was the dementia term (хомсдол → хомсрол) throughout. The other fix is a logic issue in one grammar example.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "mn",
+    "why": "оюуны хомсдол means intellectual disability; dementia is оюуны хомсрол"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "Use the correct term for dementia"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "Use the correct term for dementia"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "Use the correct term for dementia"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Use the correct term for dementia"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Visiting someone who lives with you makes no sense"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "Match the corrected logic"
+   }
+  ]
+ }
+}

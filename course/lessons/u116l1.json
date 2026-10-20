@@ -1,0 +1,396 @@
+{
+ "intro_en": "Friends compare bucket lists over coffee. You will learn to talk about dreams, goals, and new experiences, and to express wishes with the Mongolian -х юм сан (\"I wish I could...\") and -сан юм сан (\"I wish I had...\").",
+ "intro_mn": "Найзууд кофе ууж суугаад амьдралдаа хийх зүйлсийн жагсаалтаа хуваалцана. Мөрөөдөл, зорилго, шинэ туршлагын тухай ярьж, англиар \"I wish I could...\", \"I wish I had...\" хэлбэрээр хүсэл илэрхийлж сурна.",
+ "vocab": [
+  {
+   "mn": "мөрөөдөл",
+   "en": "dream",
+   "pos": "noun",
+   "example_mn": "Миний мөрөөдөл бол Говиор аялах.",
+   "example_en": "My dream is to travel through the Gobi.",
+   "mn_latin": "möröödöl"
+  },
+  {
+   "mn": "мөрөөдөх",
+   "en": "to dream (of)",
+   "pos": "verb",
+   "example_mn": "Тэр багаасаа нисгэгч болохыг мөрөөддөг байсан.",
+   "example_en": "He dreamed of becoming a pilot ever since he was a child.",
+   "mn_latin": "möröödökh"
+  },
+  {
+   "mn": "зорилго",
+   "en": "goal",
+   "pos": "noun",
+   "example_mn": "Энэ жилийн миний зорилго бол англиар чөлөөтэй ярих.",
+   "example_en": "My goal this year is to speak English fluently.",
+   "mn_latin": "zorilgo"
+  },
+  {
+   "mn": "жагсаалт",
+   "en": "list",
+   "pos": "noun",
+   "example_mn": "Би амьдралдаа хийх зүйлсийн жагсаалт гаргасан.",
+   "example_en": "I made a bucket list.",
+   "mn_latin": "jagsaalt"
+  },
+  {
+   "mn": "туршиж үзэх",
+   "en": "to try (out)",
+   "pos": "verb",
+   "example_mn": "Би айргийг анх удаа туршиж үзсэн.",
+   "example_en": "I tried airag for the first time.",
+   "mn_latin": "turshij üzekh"
+  },
+  {
+   "mn": "туршлага",
+   "en": "experience",
+   "pos": "noun",
+   "example_mn": "Энэ аялал надад гайхалтай туршлага болсон.",
+   "example_en": "This trip was an amazing experience for me.",
+   "mn_latin": "turshlaga"
+  },
+  {
+   "mn": "биелүүлэх",
+   "en": "to achieve, to fulfill",
+   "pos": "verb",
+   "example_mn": "Би зорилгоо биелүүлэхийн тулд их хичээж байна.",
+   "example_en": "I'm working hard to achieve my goal.",
+   "mn_latin": "biyelüülekh"
+  },
+  {
+   "mn": "адал явдал",
+   "en": "adventure",
+   "pos": "noun",
+   "example_mn": "Миний дүү адал явдалд их дуртай.",
+   "example_en": "My younger brother loves adventure.",
+   "mn_latin": "adal yavdal"
+  },
+  {
+   "mn": "хойшлуулах",
+   "en": "to put off, to postpone",
+   "pos": "verb",
+   "example_mn": "Мөрөөдлөө битгий хойшлуулаарай.",
+   "example_en": "Don't put off your dreams.",
+   "mn_latin": "khoishluulakh"
+  },
+  {
+   "mn": "зориг",
+   "en": "courage",
+   "pos": "noun",
+   "example_mn": "Надад шүхрээр үсрэх зориг алга.",
+   "example_en": "I don't have the courage to go skydiving.",
+   "mn_latin": "zorig"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тэмээ унах юм сан.",
+   "en": "I wish I could ride a camel.",
+   "alt_mn": [
+    "Тэмээ унаж үзэх юм сан."
+   ],
+   "alt_en": [
+    "If only I could ride a camel."
+   ],
+   "mn_latin": "Temee unakh yum san."
+  },
+  {
+   "mn": "Би нэг удаа ч гэсэн Хөвсгөл нууранд очих юм сан.",
+   "en": "I wish I could go to Lake Khuvsgul at least once.",
+   "alt_mn": [
+    "Би ядаж нэг удаа Хөвсгөл нууранд очих юм сан."
+   ],
+   "alt_en": [
+    "If only I could visit Lake Khuvsgul at least once."
+   ],
+   "mn_latin": "Bi neg udaa ch gesen Khövsgöl nuurand ochikh yum san."
+  },
+  {
+   "mn": "Говиор аялах нь миний жагсаалтын эхэнд байгаа.",
+   "en": "Traveling through the Gobi is at the top of my list.",
+   "alt_mn": [
+    "Миний жагсаалтын эхэнд Говиор аялах гэж байгаа."
+   ],
+   "alt_en": [
+    "Traveling in the Gobi is at the top of my list."
+   ],
+   "mn_latin": "Govior ayalakh ni minii jagsaaltyn ekhend baigaa."
+  },
+  {
+   "mn": "Чи хэзээ нэгэн цагт шүхрээр үсрэхийг туршиж үзмээр байна уу?",
+   "en": "Would you like to try skydiving someday?",
+   "alt_mn": [
+    "Та хэзээ нэгэн цагт шүхрээр үсрэхийг туршиж үзмээр байна уу?"
+   ],
+   "alt_en": [
+    "Do you want to try skydiving someday?"
+   ],
+   "mn_latin": "Chi khezee negen tsagt shükhreer üsrekhiig turshij üzmeer baina uu?"
+  },
+  {
+   "mn": "Би гитар тоглож сурах юм сан.",
+   "en": "I wish I could learn to play the guitar.",
+   "alt_mn": [],
+   "alt_en": [
+    "If only I could learn to play the guitar."
+   ],
+   "mn_latin": "Bi gitar togloj surakh yum san."
+  },
+  {
+   "mn": "Мөрөөдлөө хойшлуулахаа больё.",
+   "en": "Let's stop putting off our dreams.",
+   "alt_mn": [],
+   "alt_en": [
+    "Let's stop postponing our dreams."
+   ],
+   "mn_latin": "Möröödlöö khoishluulakhaa boliyo."
+  },
+  {
+   "mn": "Надад илүү их цаг байсан бол дэлхийг тойрон аялах юм сан.",
+   "en": "If I had more time, I would travel around the world.",
+   "alt_mn": [
+    "Илүү их цагтай байсан бол дэлхийг тойрон аялах юм сан."
+   ],
+   "alt_en": [
+    "If I had more time, I'd travel around the world."
+   ],
+   "mn_latin": "Nadad ilüü ikh tsag baisan bol delkhiig toiron ayalakh yum san."
+  },
+  {
+   "mn": "Энэ жил ядаж нэг зорилгоо биелүүлмээр байна.",
+   "en": "I want to achieve at least one of my goals this year.",
+   "alt_mn": [],
+   "alt_en": [
+    "This year I want to accomplish at least one of my goals."
+   ],
+   "mn_latin": "Ene jil yadaj neg zorilgoo biyelüülmeer baina."
+  },
+  {
+   "mn": "Залуудаа илүү их аялсан юм сан.",
+   "en": "I wish I had traveled more when I was young.",
+   "alt_mn": [
+    "Залуу байхдаа илүү их аялсан юм сан."
+   ],
+   "alt_en": [
+    "If only I had traveled more when I was young."
+   ],
+   "mn_latin": "Zaluudaa ilüü ikh ayalsan yum san."
+  },
+  {
+   "mn": "Хойд туйлын туяаг өөрийн нүдээр харах юм сан.",
+   "en": "I wish I could see the northern lights with my own eyes.",
+   "alt_mn": [],
+   "alt_en": [
+    "If only I could see the northern lights with my own eyes."
+   ],
+   "mn_latin": "Khoid tuilyn tuyaag ööriin nüdeer kharakh yum san."
+  },
+  {
+   "mn": "Миний ээж Наадмын нээлтийг цэнгэлдэхэд үзэхийг мөрөөддөг.",
+   "en": "My mom dreams of watching the Naadam opening ceremony at the stadium.",
+   "alt_mn": [],
+   "alt_en": [
+    "My mother dreams of seeing the Naadam opening ceremony at the stadium."
+   ],
+   "mn_latin": "Minii eej Naadmyn neeltiig tsengeldekhed üzekhiig mörööddög."
+  },
+  {
+   "mn": "Шинэ зүйл туршиж үзэх зориг надад дутдаг.",
+   "en": "I lack the courage to try new things.",
+   "alt_mn": [
+    "Надад шинэ зүйл туршиж үзэх зориг дутдаг."
+   ],
+   "alt_en": [
+    "I don't have enough courage to try new things."
+   ],
+   "mn_latin": "Shine züil turshij üzekh zorig nadad dutdag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Wishes: -х юм сан and -сан юм сан",
+  "title_mn": "Хүсэл илэрхийлэх: I wish I could... / I wish I had...",
+  "explain_en": "To say \"I wish I could...\" in Mongolian, take the verb's future/infinitive form in -х and add юм сан: унах → Тэмээ унах юм сан (I wish I could ride a camel). For a regret about the past (\"I wish I had...\"), use the past form in -сан/-сон/-сэн/-сөн + юм сан: Илүү их аялсан юм сан (I wish I had traveled more). The same ending gives the \"would\" part of an unreal condition: Цаг байсан бол аялах юм сан (If I had time, I would travel). Note that юм сан never changes. Only the verb before it changes, following vowel harmony.",
+  "explain_mn": "Англиар одоо эсвэл ирээдүйд биелэхгүй байгаа хүслийг \"I wish I could + үйл үг\" гэж хэлнэ: I wish I could ride a camel (Тэмээ унах юм сан). \"I wish I can\" гэж хэлэхгүй. could заавал байх ёстой. Өнгөрсөн зүйлд харамсаж байвал \"I wish I had + 3-р хэлбэр\" хэрэглэнэ: I wish I had traveled more (Илүү их аялсан юм сан). \"If I had time, I would travel\" гэвэл \"Цаг байсан бол аялах юм сан\" гэсэн утгатай. Энд would нь \"-х юм сан\"-тай дүйнэ.",
+  "examples": [
+   {
+    "mn": "Тэмээ унах юм сан.",
+    "en": "I wish I could ride a camel.",
+    "mn_latin": "Temee unakh yum san."
+   },
+   {
+    "mn": "Япон хэлээр ярьж чаддаг байсан юм сан.",
+    "en": "I wish I could speak Japanese.",
+    "mn_latin": "Yapon kheleer yarij chaddag baisan yum san."
+   },
+   {
+    "mn": "Өчигдөр эрт унтсан юм сан.",
+    "en": "I wish I had gone to bed early yesterday.",
+    "mn_latin": "Öchigdör ert untsan yum san."
+   },
+   {
+    "mn": "Мөнгөтэй байсан бол Исланд руу нисэх юм сан.",
+    "en": "If I had money, I would fly to Iceland.",
+    "mn_latin": "Möngötei baisan bol Island ruu nisekh yum san."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэмээ унах юм ___.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "байна",
+    "болно",
+    "гэж"
+   ],
+   "translation": "I wish I could ride a camel.",
+   "explain_en": "Wishes end in юм сан (-х юм сан for \"I wish I could...\"). The word сан completes the construction and never changes.",
+   "explain_mn": "Хүсэл илэрхийлэх \"-х юм сан\" хэлбэр. \"Сан\" үргэлж ингэж бичигддэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Залуудаа илүү их ___ юм сан.",
+   "answer": "аялсан",
+   "options": [
+    "аялсан",
+    "аялах",
+    "аялж",
+    "аялна"
+   ],
+   "translation": "I wish I had traveled more when I was young.",
+   "explain_en": "This is a regret about the past (when I was young), so the verb takes the past form -сан before юм сан: \"I wish I had traveled.\"",
+   "explain_mn": "Өнгөрсөн цагт харамсаж байгаа тул \"-сан юм сан\" хэлбэр хэрэглэнэ. Англиар \"I wish I had traveled\"."
+  },
+  {
+   "lang": "mn",
+   "text": "Би нэг удаа ч гэсэн Хөвсгөл нуур___ очих юм сан.",
+   "answer": "анд",
+   "options": [
+    "анд",
+    "аас",
+    "тай",
+    "ыг"
+   ],
+   "translation": "I wish I could go to Lake Khuvsgul at least once.",
+   "explain_en": "The verb очих (to go, to visit) takes the dative-locative case. After нуур it is -анд, so you get нууранд (to the lake).",
+   "explain_mn": "\"Очих\" үйл үг өгөх-орших тийн ялгалтай хэрэглэгдэнэ: нууранд очих."
+  },
+  {
+   "lang": "en",
+   "text": "I wish I ___ ride a camel.",
+   "answer": "could",
+   "options": [
+    "could",
+    "can",
+    "will",
+    "am"
+   ],
+   "translation": "Тэмээ унах юм сан.",
+   "explain_en": "After \"I wish\" we use \"could\" for abilities we don't have. \"I wish I can\" is incorrect.",
+   "explain_mn": "\"I wish\"-ийн дараа \"can\" биш \"could\" хэрэглэнэ. Энэ нь \"-х юм сан\"-тай дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I wish I had ___ more when I was young.",
+   "answer": "traveled",
+   "options": [
+    "traveled",
+    "travel",
+    "traveling",
+    "travels"
+   ],
+   "translation": "Залуудаа илүү их аялсан юм сан.",
+   "explain_en": "For past regrets, use \"I wish I had\" + past participle: had traveled.",
+   "explain_mn": "Өнгөрсөнд харамсахдаа \"I wish I had + үйл үгийн 3-р хэлбэр\" (traveled) хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Skydiving is at the top of my bucket ___.",
+   "answer": "list",
+   "options": [
+    "list",
+    "book",
+    "goal",
+    "dream"
+   ],
+   "translation": "Шүхрээр үсрэх нь миний амьдралдаа хийх зүйлсийн жагсаалтын эхэнд байгаа.",
+   "explain_en": "\"Bucket list\" is a fixed expression for the things you want to do in your life.",
+   "explain_mn": "\"Bucket list\" бол \"амьдралдаа хийх зүйлсийн жагсаалт\" гэсэн тогтвортой хэллэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Номин",
+   "mn": "Эмили, чамд амьдралдаа хийх зүйлсийн жагсаалт байдаг уу?",
+   "en": "Emily, do you have a bucket list?",
+   "mn_latin": "Emili, chamd amidraldaa khiikh züilsiin jagsaalt baidag uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм ээ, утсандаа бичээд хадгалчихсан. Эхэнд нь \"Монголд тэмээ унах\" гэж байгаа.",
+   "en": "Yes, I wrote it down and saved it on my phone. \"Ride a camel in Mongolia\" is at the top.",
+   "mn_latin": "Tiim ee, utsandaa bicheed khadgalchikhsan. Ekhend ni \"Mongold temee unakh\" gej baigaa."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Ха ха, тэр чинь амархан! Зун хамт Говь руу явъя. Харин миний мөрөөдөл бол Японд очиж сакура цэцэглэхийг харах.",
+   "en": "Ha ha, that's easy! Let's go to the Gobi together this summer. My dream is to go to Japan and see the cherry blossoms.",
+   "mn_latin": "Kha kha, ter chini amarkhan! Zun khamt Govi ruu yavya. Kharin minii möröödöl bol Yapond ochij sakura tsetseglekhiig kharakh."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Гоё юм. Би бас хэзээ нэгэн цагт шүхрээр үсрэхийг туршиж үзмээр байна, гэхдээ зориг дутаад байна.",
+   "en": "That's lovely. I'd also like to try skydiving someday, but I don't have the courage.",
+   "mn_latin": "Goyo yum. Bi bas khezee negen tsagt shükhreer üsrekhiig turshij üzmeer baina, gekhdee zorig dutaad baina."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Би чиний оронд байсан бол заавал үсрэх юм сан. Мөрөөдлөө битгий хойшлуул!",
+   "en": "If I were you, I would definitely jump. Don't put off your dreams!",
+   "mn_latin": "Bi chinii orond baisan bol zaaval üsrekh yum san. Möröödlöö bitgii khoishluul!"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Чиний зөв. Хожим \"Залуудаа илүү зоригтой байсан юм сан\" гэж харамсмааргүй байна.",
+   "en": "You're right. I don't want to regret it later and think, \"I wish I had been braver when I was young.\"",
+   "mn_latin": "Chinii zöv. Khojim \"Zaluudaa ilüü zorigtoi baisan yum san\" gej kharamsmaargüi baina."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Тэгвэл энэ жил хоёулаа жагсаалтаасаа ядаж нэгийг биелүүлье.",
+   "en": "Then let's both check off at least one thing from our lists this year.",
+   "mn_latin": "Tegvel ene jil khoyoulaa jagsaaltaasaa yadaj negiig biyelüüliye."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тохиролцлоо! Говь руу хийх аяллаас эхэлье.",
+   "en": "Deal! Let's start with the trip to the Gobi.",
+   "mn_latin": "Tokhiroltsloo! Govi ruu khiikh ayallaas ekheliye."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolians believe that words have power. That is why good wishes, called ерөөл, are spoken aloud at Tsagaan Sar, weddings, and other big occasions. Saying a dream out loud is seen as a first step toward making it come true. For many people in Ulaanbaatar, a classic bucket list includes seeing Lake Khuvsgul, crossing the Gobi, and watching Naadam in the countryside.",
+  "mn": "Олон монголчууд үг хүч чадалтай гэж үздэг. Тиймээс Цагаан сар, хурим болон бусад томоохон баяраар ерөөл хэлдэг. Мөрөөдлөө чангаар хэлэх нь түүнийг биелүүлэх эхний алхам гэж үздэг. Улаанбаатарын олон хүний жагсаалтад Хөвсгөл нуурыг үзэх, Говиор аялах, хөдөөний наадамд очих зэрэг зүйлс байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Strong, natural lesson with one wrong case form, one awkward alternative, one ungrammatical grammar example, and one slightly inaccurate explanation."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is clean overall. The only fix aligns the Mongolian culture note with the English 'Many Mongolians' qualifier.",
+  "changes": [
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The English says 'Many Mongolians'. The Mongolian generalized this to all Mongolians, so the two versions did not match."
+   }
+  ]
+ }
+}

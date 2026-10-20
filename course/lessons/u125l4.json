@@ -1,0 +1,445 @@
+{
+ "intro_en": "Chat with a student from Hohhot and practice noticing Chinese loanwords and the different words Inner Mongolians use for technology and administration. You will also learn to say 'so you call it X' with -дэг юм байна and to ask 'do you call it X?' with гэж хэлдэг юм уу?",
+ "intro_mn": "Хөх хотоос ирсэн оюутантай ярилцаж, Өвөр Монголд хэрэглэдэг хятад зээлдсэн үг болон техник, захиргааны өөр нэр томьёог анзаарч сурна. Мөн -дэг юм байна хэлбэрээр 'та нар үүнийг X гэдэг юм байна' гэж, гэж хэлдэг юм уу? хэлбэрээр 'X гэж хэлдэг юм уу?' гэж асууж сурна.",
+ "vocab": [
+  {
+   "mn": "уйгаржин бичиг",
+   "en": "traditional Mongolian script",
+   "pos": "noun",
+   "example_mn": "Өвөр Монголд уйгаржин бичгийг өдөр бүр хэрэглэдэг.",
+   "example_en": "In Inner Mongolia, the traditional script is used every day.",
+   "mn_latin": "uigarjin bichig"
+  },
+  {
+   "mn": "кирилл үсэг",
+   "en": "Cyrillic alphabet",
+   "pos": "noun",
+   "example_mn": "Сарнай кирилл үсгийг Улаанбаатарт ирээд сурсан.",
+   "example_en": "Sarnai learned the Cyrillic alphabet after coming to Ulaanbaatar.",
+   "mn_latin": "kirill üseg"
+  },
+  {
+   "mn": "нэр томьёо",
+   "en": "terminology, term",
+   "pos": "noun",
+   "example_mn": "Техникийн нэр томьёо хоёр талд өөр байдаг.",
+   "example_en": "Technical terminology is different on the two sides.",
+   "mn_latin": "ner tomiyoo"
+  },
+  {
+   "mn": "зээлдсэн үг",
+   "en": "loanword",
+   "pos": "noun",
+   "example_mn": "Байцаа гэдэг нь хятад хэлнээс зээлдсэн үг.",
+   "example_en": "The word \"baitsaa\" (cabbage) is a loanword from Chinese.",
+   "mn_latin": "zeeldsen üg"
+  },
+  {
+   "mn": "Өвөр Монгол",
+   "en": "Inner Mongolia",
+   "pos": "proper noun",
+   "example_mn": "Өвөр Монгол бол БНХАУ-ын өөртөө засах орон.",
+   "example_en": "Inner Mongolia is an autonomous region of the People's Republic of China.",
+   "mn_latin": "Övör Mongol"
+  },
+  {
+   "mn": "хошуу",
+   "en": "banner (administrative unit in Inner Mongolia)",
+   "pos": "noun",
+   "example_mn": "Миний эмээ Шилийн голын нэг хошуунд амьдардаг.",
+   "example_en": "My grandmother lives in a banner in Xilingol.",
+   "mn_latin": "khoshuu"
+  },
+  {
+   "mn": "цахилгаан тархи",
+   "en": "computer (Inner Mongolian term, lit. 'electric brain')",
+   "pos": "noun",
+   "example_mn": "Хөх хотод компьютерийг цахилгаан тархи гэдэг.",
+   "example_en": "In Hohhot, people call a computer an \"electric brain.\"",
+   "mn_latin": "tsakhilgaan tarkhi"
+  },
+  {
+   "mn": "аялга",
+   "en": "dialect, accent",
+   "pos": "noun",
+   "example_mn": "Өвөр Монголын утга зохиолын хэл цахар аялгад тулгуурладаг.",
+   "example_en": "The Inner Mongolian standard language is based on the Chakhar dialect.",
+   "mn_latin": "ayalga"
+  },
+  {
+   "mn": "дуудлага",
+   "en": "pronunciation",
+   "pos": "noun",
+   "example_mn": "Таны дуудлага надад их сонирхолтой санагдлаа.",
+   "example_en": "I found your pronunciation really interesting.",
+   "mn_latin": "duudlaga"
+  },
+  {
+   "mn": "зээлдэх",
+   "en": "to borrow (a word, an idea)",
+   "pos": "verb",
+   "example_mn": "Монгол хэл орос хэлнээс олон үг зээлдсэн.",
+   "example_en": "Mongolian has borrowed many words from Russian.",
+   "mn_latin": "zeeldekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та нар компьютерийг \"цахилгаан тархи\" гэдэг юм байна.",
+   "en": "So you call a computer an \"electric brain.\"",
+   "alt_mn": [
+    "Та нар компьютерийг \"цахилгаан тархи\" гэж хэлдэг юм байна."
+   ],
+   "alt_en": [
+    "So you guys call a computer an \"electric brain.\"",
+    "I see, you call a computer an \"electric brain.\""
+   ],
+   "mn_latin": "Ta nar kompiyutyeriig \"tsakhilgaan tarkhi\" gedeg yum baina."
+  },
+  {
+   "mn": "Өвөр Монголд уйгаржин бичгийг өдөр тутам хэрэглэдэг юм байна.",
+   "en": "So in Inner Mongolia they use the traditional script every day.",
+   "alt_mn": [
+    "Өвөр Монголд уйгаржин бичгийг өдөр бүр хэрэглэдэг юм байна."
+   ],
+   "alt_en": [
+    "I see, in Inner Mongolia the traditional script is used every day."
+   ],
+   "mn_latin": "Övör Mongold uigarjin bichgiig ödör tutam kheregledeg yum baina."
+  },
+  {
+   "mn": "Та нар \"хошуу\" гэж хэлдэг юм уу?",
+   "en": "Do you say \"khoshuu\"?",
+   "alt_mn": [
+    "Та нар \"хошуу\" гэдэг юм уу?"
+   ],
+   "alt_en": [
+    "Do you call it a \"khoshuu\"?"
+   ],
+   "mn_latin": "Ta nar \"khoshuu\" gej kheldeg yum uu?"
+  },
+  {
+   "mn": "Энэ үгийг Хөх хотод юу гэж хэлдэг юм бэ?",
+   "en": "How do they say this word in Hohhot?",
+   "alt_mn": [
+    "Үүнийг Хөх хотод юу гэдэг юм бэ?"
+   ],
+   "alt_en": [
+    "What do people in Hohhot call this?",
+    "How do they say this in Hohhot?"
+   ],
+   "mn_latin": "Ene ügiig Khökh khotod yuu gej kheldeg yum be?"
+  },
+  {
+   "mn": "Энэ бол хятад хэлнээс зээлдсэн үг.",
+   "en": "This is a word borrowed from Chinese.",
+   "alt_mn": [
+    "Энэ үг хятад хэлнээс зээлдсэн."
+   ],
+   "alt_en": [
+    "This is a loanword from Chinese.",
+    "This word was borrowed from Chinese."
+   ],
+   "mn_latin": "Ene bol khyatad khelnees zeeldsen üg."
+  },
+  {
+   "mn": "Шинжлэх ухааны нэр томьёо хоёр талд нэлээд ялгаатай.",
+   "en": "Scientific terminology is quite different on the two sides.",
+   "alt_mn": [
+    "Хоёр талын шинжлэх ухааны нэр томьёо нэлээд ялгаатай."
+   ],
+   "alt_en": [
+    "Scientific terms are quite different on the two sides of the border."
+   ],
+   "mn_latin": "Shinjlekh ukhaany ner tomiyoo khoyor tald neleed yalgaatai."
+  },
+  {
+   "mn": "Кирилл үсгийг сурахад надад хоёр сар болсон.",
+   "en": "It took me two months to learn the Cyrillic alphabet.",
+   "alt_mn": [
+    "Би кирилл үсгийг хоёр сарын дотор сурсан."
+   ],
+   "alt_en": [
+    "Learning the Cyrillic alphabet took me two months."
+   ],
+   "mn_latin": "Kirill üsgiig surakhad nadad khoyor sar bolson."
+  },
+  {
+   "mn": "Таны дуудлагаас Өвөр Монголын аялга шууд мэдэгдэж байна.",
+   "en": "Your Inner Mongolian accent comes through right away in your pronunciation.",
+   "alt_mn": [
+    "Таны дуудлагаас Өвөр Монгол аялга шууд анзаарагдаж байна."
+   ],
+   "alt_en": [
+    "I can hear your Inner Mongolian accent right away."
+   ],
+   "mn_latin": "Tany duudlagaas Övör Mongolyn ayalga shuud medegdej baina."
+  },
+  {
+   "mn": "Хөх хотын залуучууд ярианд хятад үг их хольж хэрэглэдэг юм байна.",
+   "en": "So young people in Hohhot mix a lot of Chinese words into their speech.",
+   "alt_mn": [
+    "Хөх хотын залуучууд ярихдаа хятад үг их хольдог юм байна."
+   ],
+   "alt_en": [
+    "I see, young people in Hohhot mix in a lot of Chinese words when they talk."
+   ],
+   "mn_latin": "Khökh khotyn zaluuchuud yariand khyatad üg ikh kholij kheregledeg yum baina."
+  },
+  {
+   "mn": "Монгол Улсад уйгаржин бичгийг сургуульд заадаг ч өдөр тутмын амьдралд бага хэрэглэдэг.",
+   "en": "In Mongolia, the traditional script is taught in school but rarely used in daily life.",
+   "alt_mn": [
+    "Монгол Улсад уйгаржин бичгийг сургуульд заадаг боловч өдөр тутамдаа бага хэрэглэдэг."
+   ],
+   "alt_en": [
+    "In Mongolia, the traditional script is taught at school, but people seldom use it day to day."
+   ],
+   "mn_latin": "Mongol Ulsad uigarjin bichgiig surguulid zaadag ch ödör tutmyn amidrald baga kheregledeg."
+  },
+  {
+   "mn": "Та нар интернэтийг \"сүлжээ\" гэж хэлдэг юм уу?",
+   "en": "Do you call the internet \"the network\"?",
+   "alt_mn": [
+    "Та нар интернэтийг \"сүлжээ\" гэдэг юм уу?"
+   ],
+   "alt_en": [
+    "Do you guys say \"the network\" for the internet?"
+   ],
+   "mn_latin": "Ta nar intyernetiig \"süljee\" gej kheldeg yum uu?"
+  },
+  {
+   "mn": "Хоёр талын бичгийн хэлийг нэг стандарт болгох нь амаргүй.",
+   "en": "Unifying the written languages of the two sides into one standard isn't easy.",
+   "alt_mn": [
+    "Хоёр талын бичгийн хэлийг нэгтгэх нь амар биш."
+   ],
+   "alt_en": [
+    "It isn't easy to bring the written languages of the two sides under one standard."
+   ],
+   "mn_latin": "Khoyor talyn bichgiin kheliig neg standart bolgokh ni amargüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Noticing how others say it: -дэг юм байна and ... гэж хэлдэг юм уу?",
+  "title_mn": "Бусдын хэлдэг хэлбэрийг анзаарах: -дэг юм байна ба ... гэж хэлдэг юм уу?",
+  "explain_en": "When you discover how another community habitually does or says something, Mongolian uses the habitual participle -дэг/-даг/-дог/-дөг plus юм байна. It means \"so you (usually) do X; I see that now\": Та нар компьютерийг цахилгаан тархи гэдэг юм байна. (So you call a computer an \"electric brain.\") The юм байна part signals fresh realization based on what you just heard. To check a term, ask with гэж хэлдэг юм уу? (yes/no question, \"Do you call it X?\"). With a question word, end with бэ instead: юу гэж хэлдэг юм бэ? (\"What do you call it?\"). Remember vowel harmony: хэлдэг, гэдэг, хэрэглэдэг, but уншдаг, ярьдаг, ордог, өгдөг.",
+  "explain_mn": "Өөр бүлэг хүмүүс ямар нэг зүйлийг байнга яаж хийдэг, юу гэж хэлдгийг шинээр мэдэж авахад -дэг/-даг/-дог/-дөг давтамжийн үйлт нэр дээр юм байна залгаж хэрэглэнэ. Энэ нь 'та нар ингэдэг юм байна, одоо л мэдлээ' гэсэн утгатай: Та нар компьютерийг цахилгаан тархи гэдэг юм байна. Юм байна нь дөнгөж сонссон зүйлээсээ шинээр ухаарсныг илэрхийлнэ. Нэр томьёог тодруулахдаа гэж хэлдэг юм уу? гэж асууна (тийм/үгүй асуулт). Асуух үгтэй бол төгсгөлд нь бэ орно: юу гэж хэлдэг юм бэ? Эгшиг зохицлыг анхаараарай: хэлдэг, гэдэг, хэрэглэдэг, харин уншдаг, ярьдаг, ордог, өгдөг.",
+  "examples": [
+   {
+    "mn": "Та нар цайгаа сүүтэй уудаг юм байна.",
+    "en": "So you drink your tea with milk.",
+    "mn_latin": "Ta nar tsaigaa süütei uudag yum baina."
+   },
+   {
+    "mn": "Та нар үүнийг \"цахилгаан тархи\" гэж хэлдэг юм уу?",
+    "en": "Do you call this an \"electric brain\"?",
+    "mn_latin": "Ta nar üüniig \"tsakhilgaan tarkhi\" gej kheldeg yum uu?"
+   },
+   {
+    "mn": "Хөх хотод үүнийг юу гэж хэлдэг юм бэ?",
+    "en": "What do they call this in Hohhot?",
+    "mn_latin": "Khökh khotod üüniig yuu gej kheldeg yum be?"
+   },
+   {
+    "mn": "Манай баг энэ жил маш сайн тоглож байна.",
+    "en": "Our team is playing really well this year. (UK: Our team are playing really well this year.)",
+    "mn_latin": "Manai bag ene jil mash sain togloj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Та нар компьютерийг \"цахилгаан тархи\" гэ___ юм байна.",
+   "answer": "дэг",
+   "options": [
+    "дэг",
+    "сэн",
+    "нэ",
+    "х"
+   ],
+   "translation": "So you call a computer an \"electric brain.\"",
+   "explain_en": "To express a newly noticed habit, use the habitual participle -дэг before юм байна. гэдэг юм байна = \"so you (usually) call it...\". -сэн would be a one-time past event, not a habit.",
+   "explain_mn": "Байнга давтагддаг зуршлыг шинээр мэдэж авсныг илэрхийлэхэд -дэг хэлбэр + юм байна хэрэглэнэ. -сэн нь нэг удаагийн өнгөрсөн үйлийг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Та нар интернэтийг \"сүлжээ\" гэж хэлдэг юм ___?",
+   "answer": "уу",
+   "options": [
+    "уу",
+    "бэ",
+    "байна",
+    "шүү"
+   ],
+   "translation": "Do you call the internet \"the network\"?",
+   "explain_en": "This is a yes/no question with no question word, so it takes the particle уу. бэ is only used when there is a question word like юу (what).",
+   "explain_mn": "Асуух төлөөний үггүй, тийм/үгүй хариулттай асуулт тул уу сул үг орно. бэ нь юу, хаана зэрэг асуух үгтэй хамт хэрэглэгдэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хөх хотод үүнийг юу гэж хэлдэг юм ___?",
+   "answer": "бэ",
+   "options": [
+    "бэ",
+    "уу",
+    "үү",
+    "байна"
+   ],
+   "translation": "What do they call this in Hohhot?",
+   "explain_en": "The sentence contains the question word юу (what), so it ends with бэ, not уу.",
+   "explain_mn": "Өгүүлбэрт юу гэсэн асуух үг байгаа тул төгсгөлд нь бэ орно, уу орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "In American English, we spell it \"___,\" but in Britain it's \"colour.\"",
+   "answer": "color",
+   "options": [
+    "color",
+    "colour",
+    "coler",
+    "colur"
+   ],
+   "translation": "Америкийн англи хэлэнд \"color\" гэж бичдэг, харин Британид \"colour\" гэж бичдэг.",
+   "explain_en": "American spelling drops the u in -our words: color, honor, favor.",
+   "explain_mn": "Америк бичлэгт -our төгсгөлтэй үгийн u үсгийг хасаж -or болгодог: color, honor, favor."
+  },
+  {
+   "lang": "en",
+   "text": "Excuse me, do you ___ a pen I could borrow?",
+   "answer": "have",
+   "options": [
+    "have",
+    "have got",
+    "has",
+    "got"
+   ],
+   "translation": "Уучлаарай, надад түр өгөх үзэг танд байна уу?",
+   "explain_en": "After do in an American question, use plain have. \"Have you got a pen?\" is the typical British pattern, but \"do you have got\" is never correct.",
+   "explain_mn": "do туслах үйл үгтэй асуултад зөвхөн have орно. Британичууд \"Have you got a pen?\" гэж асуудаг ч \"do you have got\" гэж хэзээ ч хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "In American English, we say \"The government ___ planning a new language policy.\"",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "be",
+    "were"
+   ],
+   "translation": "Америкийн англи хэлэнд \"Засгийн газар хэлний шинэ бодлого боловсруулж байна\" гэдгийг ганц тоогоор хэлдэг.",
+   "explain_en": "In American English, collective nouns like government, team, and family usually take a singular verb. British English often allows \"are.\"",
+   "explain_mn": "Америк хувилбарт government, team, family зэрэг хамтын нэр үг ганц тооны үйл үгтэй (is) хэрэглэгддэг. Британид are ч бас болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Сарнай, чи Хөх хотоос ирсэн гэсэн үү? Дуудлагаас чинь Өвөр Монголын аялга шууд мэдэгдэж байна.",
+   "en": "Sarnai, you said you're from Hohhot, right? Your Inner Mongolian accent comes through right away.",
+   "mn_latin": "Sarnai, chi Khökh khotoos irsen gesen üü? Duudlagaas chini Övör Mongolyn ayalga shuud medegdej baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм ээ. Энд ирээд хамгийн түрүүнд кирилл үсэг сурах хэрэг гарсан. Манайд бүгд уйгаржин бичгээр бичдэг.",
+   "en": "Yes. When I got here, the first thing I had to do was learn Cyrillic. Back home, everyone writes in the traditional script.",
+   "mn_latin": "Tiim ee. End ireed khamgiin türüünd kirill üseg surakh khereg garsan. Manaid bügd uigarjin bichgeer bichdeg."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Хичээл дээр чи \"цахилгаан тархи\" гэж хэлсэн. Та нар компьютерийг ингэж нэрлэдэг юм уу?",
+   "en": "In class, you said \"electric brain.\" Is that what you call a computer?",
+   "mn_latin": "Khicheel deer chi \"tsakhilgaan tarkhi\" gej khelsen. Ta nar kompiyutyeriig ingej nerledeg yum uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм. Хятадаар \"дяньнао\" гэдгийг шууд орчуулсан нэр томьёо л доо.",
+   "en": "Yes. It's just a direct translation of the Chinese term \"diannao.\"",
+   "mn_latin": "Tiim. Khyatadaar \"dyaninao\" gedgiig shuud orchuulsan ner tomiyoo l doo."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Сонин юм. Тэгэхээр нэр томьёо чинь хятад хэлний нөлөөгөөр үүсдэг юм байна. Харин аймаг, сумыг юу гэж хэлдэг юм бэ?",
+   "en": "Interesting. So your terms tend to take shape under the influence of Chinese. And what do you call an aimag or a sum?",
+   "mn_latin": "Sonin yum. Tegekheer ner tomiyoo chini khyatad khelnii nölöögöör üüsdeg yum baina. Kharin aimag, sumyg yuu gej kheldeg yum be?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Манайд ч аймаг, сум гэж байдаг, гэхдээ тэдний хооронд хошуу гэдэг нэгж бий. Өдөр тутмын ярианд хятад зээлдсэн үг ч их хольж хэрэглэдэг.",
+   "en": "We have aimags and sums too, but between them there's a unit called a banner. And in everyday speech we mix in a lot of Chinese loanwords, too.",
+   "mn_latin": "Manaid ch aimag, sum gej baidag, gekhdee tednii khoorond khoshuu gedeg negj bii. Ödör tutmyn yariand khyatad zeeldsen üg ch ikh kholij kheregledeg."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Хэл нэг ч гэлээ хоёр талын бичгийн хэлийг нэг стандарт болгох нь амаргүй юм байна.",
+   "en": "So even though it's one language, bringing the two written standards together isn't easy.",
+   "mn_latin": "Khel neg ch gelee khoyor talyn bichgiin kheliig neg standart bolgokh ni amargüi yum baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм ээ. Гэхдээ бид бие биенээ ойлгоод л байна шүү дээ!",
+   "en": "True. But we understand each other just fine, don't we!",
+   "mn_latin": "Tiim ee. Gekhdee bid biye biyenee oilgood l baina shüü dee!"
+  }
+ ],
+ "culture_note": {
+  "en": "More Mongolians live in Inner Mongolia, an autonomous region of China, than in Mongolia itself. There, Mongolian is still written in the traditional vertical script, while Mongolia switched to Cyrillic in the 1940s. Because the two communities developed new terminology separately, under Chinese and Russian influence respectively, words for technology and administration often differ, but speakers on both sides usually understand each other well.",
+  "mn": "Хятадын өөртөө засах орон болох Өвөр Монголд Монгол Улсаас ч олон монгол хүн амьдардаг. Тэнд монгол хэлийг одоо ч босоо уйгаржин бичгээр бичдэг бол Монгол Улс 1940-өөд онд кирилл үсэгт шилжсэн. Хоёр тал шинэ нэр томьёог тус тусдаа, нэг нь хятад, нөгөө нь орос хэлний нөлөөтэй бүтээсэн тул техник, захиргааны үг ихэвчлэн ялгаатай ч хоорондоо сайн ойлголцдог."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 16,
+  "notes": "Solid lesson with natural Mongolian, but the Inner Mongolian computer term was wrong throughout, the vowel-harmony example list was wrong, and the dialogue misstated the administrative units."
+ },
+ "opus_fix": {
+  "rating_before": 4,
+  "fixes": 7,
+  "notes": "The main problem was that the mn intro and grammar explanation covered US/UK English instead of the -дэг юм байна topic. Only small wording fixes were needed elsewhere.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro described a different topic (US/UK English) than en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title must match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation covered a different topic than explain_en"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "en",
+    "why": "'What do they call this word' is unnatural; matches mn"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "more natural phrasing for 'in daily life'"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'нөлөөтэй үүсдэг' is unidiomatic; 'нөлөөгөөр' is standard"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "more natural verb phrase"
+   }
+  ]
+ }
+}

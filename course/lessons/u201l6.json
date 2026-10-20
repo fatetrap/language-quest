@@ -1,0 +1,411 @@
+{
+ "intro_en": "Follow the story of a disastrous morning where everything went wrong, then make a promise to be punctual. You'll combine Mongolian -сан байсан and -чихсан байлаа to tell a past story in order, and review punctuality vocabulary.",
+ "intro_mn": "Бүх зүйл буруу болсон нэгэн өглөөний түүхийг уншиж, цаг баримтлах амлалт өгнө. Өнгөрсөн үйл явдлыг дарааллаар нь ярихдаа англи хэлний past simple, past perfect, past perfect continuous цагуудыг хослуулж сурна.",
+ "vocab": [
+  {
+   "mn": "цагтаа",
+   "en": "on time",
+   "pos": "adverb",
+   "example_mn": "Би маргааш цагтаа ирнэ.",
+   "example_en": "I will arrive on time tomorrow.",
+   "mn_latin": "tsagtaa"
+  },
+  {
+   "mn": "цаг баримтлах",
+   "en": "to be punctual",
+   "pos": "verb phrase",
+   "example_mn": "Тэр үргэлж цаг баримталдаг.",
+   "example_en": "She is always punctual.",
+   "mn_latin": "tsag barimtlakh"
+  },
+  {
+   "mn": "хоцрох",
+   "en": "to be late",
+   "pos": "verb",
+   "example_mn": "Би дахиж хоцрохгүй.",
+   "example_en": "I won't be late again.",
+   "mn_latin": "khotsrokh"
+  },
+  {
+   "mn": "унтаж хоцрох",
+   "en": "to oversleep",
+   "pos": "verb phrase",
+   "example_mn": "Би өнөө өглөө унтаж хоцорчихсон.",
+   "example_en": "I overslept this morning.",
+   "mn_latin": "untaj khotsrokh"
+  },
+  {
+   "mn": "сэрүүлэг",
+   "en": "alarm (clock)",
+   "pos": "noun",
+   "example_mn": "Сэрүүлэг минь дуугараагүй.",
+   "example_en": "My alarm didn't go off.",
+   "mn_latin": "serüüleg"
+  },
+  {
+   "mn": "түгжрэл",
+   "en": "traffic jam",
+   "pos": "noun",
+   "example_mn": "Өглөө замд түгжрэл их байсан.",
+   "example_en": "There was a lot of traffic on the road this morning.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "уучлалт гуйх",
+   "en": "to apologize",
+   "pos": "verb phrase",
+   "example_mn": "Тэр даргаасаа уучлалт гуйсан.",
+   "example_en": "He apologized to his boss.",
+   "mn_latin": "uuchlalt guikh"
+  },
+  {
+   "mn": "шалтаг",
+   "en": "excuse",
+   "pos": "noun",
+   "example_mn": "Энэ бол зүгээр л шалтаг.",
+   "example_en": "That's just an excuse.",
+   "mn_latin": "shaltag"
+  },
+  {
+   "mn": "амлах",
+   "en": "to promise",
+   "pos": "verb",
+   "example_mn": "Би цагтаа ирнэ гэж амлаж байна.",
+   "example_en": "I promise I'll come on time.",
+   "mn_latin": "amlakh"
+  },
+  {
+   "mn": "эрт",
+   "en": "early",
+   "pos": "adverb",
+   "example_mn": "Маргаашаас эхлээд эрт босно.",
+   "example_en": "Starting tomorrow, I'll get up early.",
+   "mn_latin": "ert"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Намайг буудал дээр ирэхэд автобус аль хэдийн явчихсан байлаа.",
+   "en": "When I got to the stop, the bus had already left.",
+   "alt_mn": [
+    "Би буудал дээр ирэхэд автобус аль хэдийн явчихсан байлаа."
+   ],
+   "alt_en": [
+    "By the time I got to the stop, the bus had already left.",
+    "When I got to the bus stop, the bus had already left."
+   ],
+   "mn_latin": "Namaig buudal deer irekhed avtobus ali khediin yavchikhsan bailaa."
+  },
+  {
+   "mn": "Өмнөх шөнө нь би оройтож унтсан байсан.",
+   "en": "I had gone to bed late the night before.",
+   "alt_mn": [
+    "Өмнөх шөнө нь би орой унтсан байсан."
+   ],
+   "alt_en": [
+    "The night before, I had gone to bed late."
+   ],
+   "mn_latin": "Ömnökh shönö ni bi oroitoj untsan baisan."
+  },
+  {
+   "mn": "Утас минь цэнэггүй болчихсон байсан тул сэрүүлэг дуугараагүй.",
+   "en": "My phone had died, so the alarm didn't go off.",
+   "alt_mn": [
+    "Утасны минь цэнэг дуусчихсан байсан тул сэрүүлэг дуугараагүй."
+   ],
+   "alt_en": [
+    "My phone's battery had died, so the alarm didn't go off."
+   ],
+   "mn_latin": "Utas mini tseneggüi bolchikhson baisan tul serüüleg duugaraagüi."
+  },
+  {
+   "mn": "Би автобусыг хорин минут хүлээсэн байсан ч ирээгүй.",
+   "en": "I had been waiting for the bus for twenty minutes, but it didn't come.",
+   "alt_mn": [],
+   "alt_en": [
+    "I had waited for the bus for twenty minutes, but it didn't come."
+   ],
+   "mn_latin": "Bi avtobusyg khorin minut khüleesen baisan ch ireegüi."
+  },
+  {
+   "mn": "Оффист ирэхэд хурал аль хэдийн эхэлчихсэн байлаа.",
+   "en": "When I got to the office, the meeting had already started.",
+   "alt_mn": [
+    "Намайг оффист ирэхэд хурал аль хэдийн эхэлчихсэн байлаа."
+   ],
+   "alt_en": [
+    "By the time I got to the office, the meeting had already started."
+   ],
+   "mn_latin": "Offist irekhed khural ali khediin ekhelchikhsen bailaa."
+  },
+  {
+   "mn": "Дарга маань намайг хагас цаг хүлээсэн байсан.",
+   "en": "My boss had been waiting for me for half an hour.",
+   "alt_mn": [
+    "Дарга минь намайг хагас цаг хүлээсэн байсан."
+   ],
+   "alt_en": [
+    "My boss had waited for me for half an hour."
+   ],
+   "mn_latin": "Darga maani namaig khagas tsag khüleesen baisan."
+  },
+  {
+   "mn": "Би даргаасаа уучлалт гуйгаад дахиж хоцрохгүй гэж амласан.",
+   "en": "I apologized to my boss and promised I would never be late again.",
+   "alt_mn": [],
+   "alt_en": [
+    "I apologized to my boss and promised never to be late again."
+   ],
+   "mn_latin": "Bi dargaasaa uuchlalt guigaad dakhij khotsrokhgüi gej amlasan."
+  },
+  {
+   "mn": "Түгжрэл бол хангалттай шалтаг биш.",
+   "en": "Traffic isn't a good enough excuse.",
+   "alt_mn": [],
+   "alt_en": [
+    "A traffic jam isn't a good enough excuse."
+   ],
+   "mn_latin": "Tügjrel bol khangalttai shaltag bish."
+  },
+  {
+   "mn": "Маргаашаас эхлээд би нэг цагаар эрт босно.",
+   "en": "Starting tomorrow, I'll get up an hour earlier.",
+   "alt_mn": [],
+   "alt_en": [
+    "From tomorrow on, I'll get up an hour earlier."
+   ],
+   "mn_latin": "Margaashaas ekhleed bi neg tsagaar ert bosno."
+  },
+  {
+   "mn": "Цаг баримталдаг хүнийг хүн бүр хүндэлдэг.",
+   "en": "Everyone respects a punctual person.",
+   "alt_mn": [],
+   "alt_en": [
+    "Everybody respects a punctual person."
+   ],
+   "mn_latin": "Tsag barimtaldag khüniig khün bür khündeldeg."
+  },
+  {
+   "mn": "Гэрээсээ гарах гэж байтал түлхүүрээ гээчихснээ мэдлээ.",
+   "en": "Just as I was about to leave home, I realized I had lost my keys.",
+   "alt_mn": [],
+   "alt_en": [
+    "Just as I was leaving the house, I realized I had lost my keys."
+   ],
+   "mn_latin": "Gereesee garakh gej baital tülkhüüree geechikhsnee medlee."
+  },
+  {
+   "mn": "Тэр өглөө юу ч бүтсэнгүй.",
+   "en": "Nothing went right that morning.",
+   "alt_mn": [
+    "Тэр өглөө юу ч бүтээгүй."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ter öglöö yuu ch bütsengüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling a story in order: -сан байсан and -чихсан байлаа",
+  "title_mn": "Өнгөрсөн түүх ярих: past simple, past perfect, past perfect continuous",
+  "explain_en": "When you tell a story in Mongolian, the main events use the simple past (-сан, -лаа). To show that something happened even earlier, before another past event, use the verb + -сан/-сон/-сэн/-сөн + байсан. This works like the English past perfect: 'унтсан байсан' means 'had slept'. It also covers 'had been doing' for actions with a duration: 'хүлээсэн байсан' means 'had been waiting'. When you want to stress that something was already completely finished, often with a feeling of 'too late, oh no!', use -чихсан + байлаа: 'автобус явчихсан байлаа' means 'the bus had already gone'. A typical story pattern is: 'Намайг ирэхэд ... -чихсан байлаа' (When I arrived, ... had already happened).",
+  "explain_mn": "Англиар түүх ярихдаа гол үйл явдлуудыг past simple-ээр (went, arrived) хэлнэ. Өөр нэг өнгөрсөн үйлээс ӨМНӨ болсон зүйлийг past perfect-ээр (had + V3) илэрхийлнэ: 'When I arrived, the bus had already left.' Энэ нь монгол хэлний '-чихсан байлаа, -сан байсан'-тай дүйнэ. Өмнөх үйл тодорхой хугацаанд үргэлжилсэн бол past perfect continuous (had been + -ing) хэрэглэнэ: 'I had been waiting for twenty minutes.' Монголоор бол 'хорин минут хүлээсэн байсан' гэж хэлнэ. 'already' гэдэг үг ихэвчлэн had болон V3-ийн хооронд ордог.",
+  "examples": [
+   {
+    "mn": "Намайг ирэхэд кино эхэлчихсэн байлаа.",
+    "en": "When I arrived, the movie had already started.",
+    "mn_latin": "Namaig irekhed kino ekhelchikhsen bailaa."
+   },
+   {
+    "mn": "Тэр өдөр би өглөөний цайгаа ууж амжаагүй байсан.",
+    "en": "That day I hadn't had time to eat breakfast.",
+    "mn_latin": "Ter ödör bi öglöönii tsaigaa uuj amjaagüi baisan."
+   },
+   {
+    "mn": "Бид цаг гаруй хүлээсэн байсан.",
+    "en": "We had been waiting for over an hour.",
+    "mn_latin": "Bid tsag garui khüleesen baisan."
+   },
+   {
+    "mn": "Тэр уучлалт гуйсан ч бүх хүн явчихсан байлаа.",
+    "en": "He apologized, but everyone had already left.",
+    "mn_latin": "Ter uuchlalt guisan ch bükh khün yavchikhsan bailaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Намайг ирэхэд автобус явчихсан ___.",
+   "answer": "байлаа",
+   "options": [
+    "байлаа",
+    "байна",
+    "байх",
+    "болно"
+   ],
+   "translation": "When I arrived, the bus had already left.",
+   "explain_en": "-чихсан + байлаа describes something that was already finished at a past moment, like the English 'had already left'. 'байна' would make it present, and 'байх' and 'болно' refer to the future or to a guess.",
+   "explain_mn": "Өнгөрсөн нэг агшинд аль хэдийн дуусчихсан үйлийг '-чихсан байлаа' гэж илэрхийлнэ. Англиар 'had already left' гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Өмнөх шөнө нь би оройтож унт___ байсан.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "на",
+    "даг",
+    "лаа"
+   ],
+   "translation": "I had gone to bed late the night before.",
+   "explain_en": "Before 'байсан' you need the past participle -сан. 'унтсан байсан' means 'had slept / had gone to bed'. The other endings are present-future, habitual, or finite past forms that don't fit here.",
+   "explain_mn": "'байсан'-ы өмнө үйл үг '-сан' нөхцөлтэй байж, урьдчилсан өнгөрсөн цагийг үүсгэнэ. Англиар 'had gone to bed' гэж орчуулна."
+  },
+  {
+   "lang": "mn",
+   "text": "Би дахиж хоцро___ гэж амласан.",
+   "answer": "хгүй",
+   "options": [
+    "хгүй",
+    "но",
+    "ж",
+    "од"
+   ],
+   "translation": "I promised I would never be late again.",
+   "explain_en": "A promise concerns the future, so you use the negative future form -хгүй: 'хоцрохгүй' means 'won't be late'. The quoted promise comes before 'гэж амласан'.",
+   "explain_mn": "Амлалт ирээдүйн тухай учраас '-хгүй' гэсэн үгүйсгэх хэлбэр хэрэглэнэ. Англиар 'I promised I would never be late' гэж 'would' ашиглана."
+  },
+  {
+   "lang": "en",
+   "text": "When I got to the office, the meeting ___ already started.",
+   "answer": "had",
+   "options": [
+    "had",
+    "has",
+    "was",
+    "did"
+   ],
+   "translation": "Оффист ирэхэд хурал аль хэдийн эхэлчихсэн байлаа.",
+   "explain_en": "The meeting started before I arrived, and both events are in the past, so we use the past perfect: had + started.",
+   "explain_mn": "Хурал намайг ирэхээс ӨМНӨ эхэлсэн. Хоёр үйл хоёулаа өнгөрсөн тул эртэх үйлийг past perfect буюу 'had + V3' хэлбэрээр хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ been waiting for an hour when the bus finally came.",
+   "answer": "had",
+   "options": [
+    "had",
+    "have",
+    "was",
+    "am"
+   ],
+   "translation": "Автобус эцэст нь ирэхэд би нэг цаг хүлээсэн байсан.",
+   "explain_en": "This is the past perfect continuous (had been + -ing). It shows an action that lasted for some time before another past event.",
+   "explain_mn": "Өнгөрсөн нэг үйлээс өмнө тодорхой хугацаанд үргэлжилсэн үйлийг 'had been + -ing' буюу past perfect continuous-ээр хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I promise I will never be late ___.",
+   "answer": "again",
+   "options": [
+    "again",
+    "once",
+    "yet",
+    "already"
+   ],
+   "translation": "Дахиж хэзээ ч хоцрохгүй гэж амлаж байна.",
+   "explain_en": "'Never ... again' means 'not one more time' and is the natural way to make this kind of promise.",
+   "explain_mn": "'never ... again' гэдэг нь 'дахиж хэзээ ч' гэсэн утгатай. 'yet', 'already' нь энэ өгүүлбэрт тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Тэмүүлэн, хурал есөн цагт эхэлсэн шүү дээ. Юу болсон бэ?",
+   "en": "Temuulen, the meeting started at nine. What happened?",
+   "mn_latin": "Temüülen, khural yesön tsagt ekhelsen shüü dee. Yuu bolson be?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Уучлаарай. Өнөө өглөө юу ч бүтсэнгүй. Утас минь цэнэггүй болчихсон байсан болохоор сэрүүлэг дуугараагүй.",
+   "en": "I'm sorry. Nothing went right this morning. My phone had died, so my alarm didn't go off.",
+   "mn_latin": "Uuchlaarai. Önöö öglöö yuu ch bütsengüi. Utas mini tseneggüi bolchikhson baisan bolokhoor serüüleg duugaraagüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгээд яасан бэ?",
+   "en": "And then what?",
+   "mn_latin": "Tegeed yaasan be?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Буудал дээр ирэхэд автобус явчихсан байлаа. Дараагийн автобусыг хорин минут хүлээгээд суусан, тэгсэн чинь замд их түгжрэл байсан.",
+   "en": "When I got to the stop, the bus had already left. I waited twenty minutes for the next one, and then there was a huge traffic jam.",
+   "mn_latin": "Buudal deer irekhed avtobus yavchikhsan bailaa. Daraagiin avtobusyg khorin minut khüleegeed suusan, tegsen chini zamd ikh tügjrel baisan."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Энэ сард гурав дахь удаагаа хоцорч байна шүү.",
+   "en": "This is the third time you've been late this month.",
+   "mn_latin": "Ene sard gurav dakhi udaagaa khotsorch baina shüü."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Мэдэж байна. Шалтаг тоочихгүй ээ. Маргаашаас эхлээд эрт босож, гэрээсээ нэг цагаар эрт гарна.",
+   "en": "I know. I'm not going to make excuses. Starting tomorrow, I'll get up early and leave home an hour earlier.",
+   "mn_latin": "Medej baina. Shaltag toochikhgüi ee. Margaashaas ekhleed ert bosoj, gereesee neg tsagaar ert garna."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, итгэе. Гэхдээ дахиж хоцорвол захиралтай ярих хэрэгтэй болно.",
+   "en": "Okay, I'll trust you. But if you're late again, we'll have to talk to the director.",
+   "mn_latin": "Za, itgeye. Gekhdee dakhij khotsorvol zakhiraltai yarikh kheregtei bolno."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Ойлголоо. Дахиж хоцрохгүй гэж амлаж байна.",
+   "en": "Understood. I promise I won't be late again.",
+   "mn_latin": "Oilgoloo. Dakhij khotsrokhgüi gej amlaj baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Traffic in Ulaanbaatar is famous: a 15-minute trip can easily take an hour, and the city even limits which cars can drive on certain days based on the last digit of the license plate. People sometimes joke about \"Mongolian time,\" but at offices, universities, and official meetings, being on time is expected. A quick call or message before you arrive late is considered basic politeness.",
+  "mn": "Улаанбаатарын түгжрэл алдартай. 15 минутын зам нэг цаг болох нь энгийн бөгөөд машины дугаарын сүүлийн орноор тодорхой өдрүүдэд хөдөлгөөнийг хязгаарладаг. \"Монгол цаг\" гэж хошигнох нь бий ч оффис, их сургууль, албан ёсны уулзалтад цагтаа ирэхийг хүн бүр хүлээдэг. Хоцрох гэж байгаа бол урьдчилж залгах эсвэл мессеж бичих нь энгийн ёс юм."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A solid, natural lesson. The fixes cover one promise example, one fill-in-the-blank with an ambiguous distractor, and an unclear culture note."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "Mostly solid. Fixed one participle spelling, a malformed distractor, an illogical clause link in the dialogue, and a case error in the culture note.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "Correct form is гээчихснээ (vowel drops before reflexive -ээ)."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'хоцро+сон' is a malformed form (should be хоцорсон). Replaced it with a well-formed distractor."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "'хүлээсэн чинь' wrongly makes the waiting the cause of the jam. The new wording matches 'and then'."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Fixed the case form оронгоор → орноор. Added 'on certain days' so the note matches the English."
+   }
+  ]
+ }
+}

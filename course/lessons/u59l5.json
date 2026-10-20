@@ -1,0 +1,622 @@
+{
+ "intro_en": "You will learn to taste dishes and describe flavors at a family gathering, and to soften comments with the Mongolian -хан/-хэн ending. You will also learn the order of adjectives before an English noun.",
+ "intro_mn": "Та гэр бүлийн цугларалтад хоол амсаж, амтыг нь тайлбарлах, мөн -хан/-хэн нөхцөлөөр үгээ зөөлрүүлж хэлж сурна. Мөн англи хэлэнд нэр үгийн өмнө орох тэмдэг нэрийн дарааллыг сурна.",
+ "vocab": [
+  {
+   "mn": "шорвог",
+   "en": "salty",
+   "pos": "adjective",
+   "example_mn": "Энэ шөл жаахан шорвог байна.",
+   "example_en": "This soup is a little salty.",
+   "mn_latin": "shorvog"
+  },
+  {
+   "mn": "чихэрлэг",
+   "en": "sweet",
+   "pos": "adjective",
+   "example_mn": "Энэ амттан хэтэрхий чихэрлэг байна.",
+   "example_en": "This dessert is too sweet.",
+   "mn_latin": "chikherleg"
+  },
+  {
+   "mn": "ширүүн",
+   "en": "strong, harsh (of taste)",
+   "pos": "adjective",
+   "example_mn": "Энэ архи ширүүн амттай.",
+   "example_en": "This vodka has a strong, harsh taste.",
+   "mn_latin": "shirüün"
+  },
+  {
+   "mn": "өөх тос ихтэй",
+   "en": "fatty, greasy",
+   "pos": "adjective phrase",
+   "example_mn": "Энэ мах өөх тос ихтэй.",
+   "example_en": "This meat is fatty.",
+   "mn_latin": "öökh tos ikhtei"
+  },
+  {
+   "mn": "шаржигнуур",
+   "en": "crispy, crunchy",
+   "pos": "adjective",
+   "example_mn": "Хуушуур нь шаржигнуур байна.",
+   "example_en": "The khuushuur is crispy.",
+   "mn_latin": "sharjignuur"
+  },
+  {
+   "mn": "амсах",
+   "en": "to taste, to try",
+   "pos": "verb",
+   "example_mn": "Шөлөө амсаж үзээрэй.",
+   "example_en": "Taste the soup and see.",
+   "mn_latin": "amsakh"
+  },
+  {
+   "mn": "исгэлэн",
+   "en": "sour",
+   "pos": "adjective",
+   "example_mn": "Айраг бага зэрэг исгэлэн.",
+   "example_en": "Airag is a bit sour.",
+   "mn_latin": "isgelen"
+  },
+  {
+   "mn": "халуун",
+   "en": "hot",
+   "pos": "adjective",
+   "example_mn": "Халуун сүүтэй цай уух уу?",
+   "example_en": "Would you like some hot milk tea?",
+   "mn_latin": "khaluun"
+  },
+  {
+   "mn": "зөөлөн",
+   "en": "soft, mild",
+   "pos": "adjective",
+   "example_mn": "Энэ ааруул зөөлөн амттай.",
+   "example_en": "This aaruul has a mild taste.",
+   "mn_latin": "zöölön"
+  },
+  {
+   "mn": "амт",
+   "en": "taste, flavor",
+   "pos": "noun",
+   "example_mn": "Энэ хоолны амт сайхан байна.",
+   "example_en": "The flavor of this dish is good.",
+   "mn_latin": "amt"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ шөл жаахан шорвог байна.",
+   "en": "This soup is a little salty.",
+   "alt_mn": [
+    "Энэ шөл бага зэрэг шорвог байна."
+   ],
+   "alt_en": [
+    "This soup is slightly salty."
+   ],
+   "mn_latin": "Ene shöl jaakhan shorvog baina."
+  },
+  {
+   "mn": "Та энэ буузнаас амсаж үзэх үү?",
+   "en": "Would you like to taste this buuz?",
+   "alt_mn": [
+    "Та энэ буузыг амсаж үзэх үү?"
+   ],
+   "alt_en": [
+    "Would you like to try this buuz?"
+   ],
+   "mn_latin": "Ta ene buuznaas amsaj üzekh üü?"
+  },
+  {
+   "mn": "Хуушуур нь шаржигнуур, амттай байна.",
+   "en": "The khuushuur is crispy and tasty.",
+   "alt_mn": [],
+   "alt_en": [
+    "The khuushuur is crunchy and delicious."
+   ],
+   "mn_latin": "Khuushuur ni sharjignuur, amttai baina."
+  },
+  {
+   "mn": "Энэ мах өөх тос ихтэй байна.",
+   "en": "This meat is fatty.",
+   "alt_mn": [
+    "Энэ мах нэлээд өөх тостой байна."
+   ],
+   "alt_en": [
+    "This meat is quite greasy."
+   ],
+   "mn_latin": "Ene makh öökh tos ikhtei baina."
+  },
+  {
+   "mn": "Цай чинь халуунхан байна, уугаарай.",
+   "en": "Your tea is nice and hot, have some.",
+   "alt_mn": [],
+   "alt_en": [
+    "Your tea is fairly hot, drink up."
+   ],
+   "mn_latin": "Tsai chini khaluunkhan baina, uugaarai."
+  },
+  {
+   "mn": "Энэ сүүтэй цай цайвархан байна.",
+   "en": "This milk tea is a bit pale.",
+   "alt_mn": [
+    "Энэ сүүтэй цай арай цайвар байна."
+   ],
+   "alt_en": [
+    "This milk tea is rather light."
+   ],
+   "mn_latin": "Ene süütei tsai tsaivarkhan baina."
+  },
+  {
+   "mn": "Ааруул чихэрлэгхэн болжээ.",
+   "en": "The aaruul has turned out slightly sweet.",
+   "alt_mn": [],
+   "alt_en": [
+    "The aaruul came out a little sweet."
+   ],
+   "mn_latin": "Aaruul chikherlegkhen boljee."
+  },
+  {
+   "mn": "Миний бодлоор давс нэмэх хэрэгтэй.",
+   "en": "In my opinion, it needs more salt.",
+   "alt_mn": [
+    "Миний бодоход давс нэмэх хэрэгтэй."
+   ],
+   "alt_en": [
+    "I think it needs more salt."
+   ],
+   "mn_latin": "Minii bodloor davs nemekh kheregtei."
+  },
+  {
+   "mn": "Айраг бага зэрэг исгэлэн, гэхдээ надад таалагдаж байна.",
+   "en": "The airag is a bit sour, but I like it.",
+   "alt_mn": [],
+   "alt_en": [
+    "The airag is slightly sour, but I enjoy it."
+   ],
+   "mn_latin": "Airag baga zereg isgelen, gekhdee nadad taalagdaj baina."
+  },
+  {
+   "mn": "Энэ бол амттай халуун давстай сүүтэй цай.",
+   "en": "This is a delicious hot salty milk tea.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is a nice hot salty milk tea."
+   ],
+   "mn_latin": "Ene bol amttai khaluun davstai süütei tsai."
+  },
+  {
+   "mn": "Хэтэрхий чихэрлэг биш, яг тохирсон байна.",
+   "en": "It's not too sweet, it's just right.",
+   "alt_mn": [
+    "Хэтэрхий чихэрлэг биш, яг зүгээр байна."
+   ],
+   "alt_en": [
+    "It isn't too sweet; it's perfect."
+   ],
+   "mn_latin": "Kheterkhii chikherleg bish, yag tokhirson baina."
+  },
+  {
+   "mn": "Эгч ээ, энэ хоолны амт маш сайхан байна.",
+   "en": "Older sister, the flavor of this dish is wonderful.",
+   "alt_mn": [],
+   "alt_en": [
+    "Sis, this dish tastes wonderful."
+   ],
+   "mn_latin": "Egch ee, ene khoolny amt mash saikhan baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Softening with -хан/-хэн; adjective order in English",
+  "title_mn": "-хан/-хэн нөхцөлөөр зөөлрүүлэх; англи хэлний тэмдэг нэрийн дараалал",
+  "explain_en": "Add -хан/-хэн (by vowel harmony: -хан, -хэн, -хон, -хөн) to an adjective to soften it: халуун → халуунхан (nicely hot), цайвар → цайвархан (rather pale), чихэрлэг → чихэрлэгхэн (a touch sweet), шорвог → шорвогхон (a bit salty). It sounds polite and gentle, so it is useful when commenting on someone's cooking. In English, when several adjectives come before one noun, they follow a fixed order: opinion (delicious) → size → temperature (hot) → taste/quality (salty) → type/purpose (milk) → noun (tea). Example: a delicious hot salty milk tea. Mongolian also puts adjectives before the noun, and its order is somewhat freer (амттай халуун давстай сүүтэй цай). In English you cannot change the order: \"a milk salty hot delicious tea\" is wrong.",
+  "explain_mn": "Тэмдэг нэрт -хан/-хэн (эгшиг зохицлоор -хан, -хэн, -хон, -хөн) нөхцөл залгаж утгыг нь зөөлрүүлнэ: халуун → халуунхан, цайвар → цайвархан, чихэрлэг → чихэрлэгхэн, шорвог → шорвогхон. Энэ нь эелдэг, зөөлөн сонсогддог тул бусдын хийсэн хоолны талаар хэлэхэд тохиромжтой. Англи хэлэнд хэд хэдэн тэмдэг нэр нэг нэрийн өмнө орвол тогтсон дараалалтай байдаг: үзэл бодол (delicious) → хэмжээ → температур (hot) → амт/шинж (salty) → төрөл/зориулалт (milk) → нэр (tea). Жишээ нь: a delicious hot salty milk tea. Монгол хэлэнд ч тэмдэг нэр нэрийн өмнө ордог бөгөөд дараалал нь арай чөлөөтэй (амттай халуун давстай сүүтэй цай). Харин англиар дарааллыг сольж болохгүй: \"a milk salty hot delicious tea\" буруу.",
+  "examples": [
+   {
+    "mn": "Цай халуунхан байна.",
+    "en": "The tea is nice and hot.",
+    "mn_latin": "Tsai khaluunkhan baina."
+   },
+   {
+    "mn": "Шөл шорвогхон байна.",
+    "en": "The soup is a bit salty.",
+    "mn_latin": "Shöl shorvogkhon baina."
+   },
+   {
+    "mn": "Амттай халуун давстай сүүтэй цай.",
+    "en": "A delicious hot salty milk tea.",
+    "mn_latin": "Amttai khaluun davstai süütei tsai."
+   },
+   {
+    "mn": "Энэ бол жижиг шарсан бууз.",
+    "en": "This is a small fried buuz.",
+    "mn_latin": "Ene bol jijig sharsan buuz."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Цай ___ байна, одоо уугаарай.",
+   "answer": "халуунхан",
+   "options": [
+    "халуунхан",
+    "халуунхон",
+    "халууныг",
+    "халуунаас"
+   ],
+   "translation": "The tea is nice and hot, drink it now.",
+   "explain_en": "Add -хан to халуун (back vowels) to get a gentle 'nicely hot'.",
+   "explain_mn": "Арын эгшигтэй тул -хан нөхцөл залгаж зөөлөн утга үүсгэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ шөл жаахан ___ байна.",
+   "answer": "шорвог",
+   "options": [
+    "шорвог",
+    "шорвогоос",
+    "шорвогийг",
+    "шорвогоор"
+   ],
+   "translation": "This soup is a little salty.",
+   "explain_en": "Before байна we need the plain adjective шорвог (salty), not a case form.",
+   "explain_mn": "'байна'-гийн өмнө тийн ялгалгүй тэмдэг нэр (шорвог) орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хуушуур нь ___ байна, надад таалагдлаа.",
+   "answer": "шаржигнуур",
+   "options": [
+    "шаржигнуур",
+    "шаржигнуурыг",
+    "шаржигнуураас",
+    "шаржигнах"
+   ],
+   "translation": "The khuushuur is crispy, I liked it.",
+   "explain_en": "Before байна we need the plain adjective шаржигнуур (crispy), not a case form or a dictionary-form verb.",
+   "explain_mn": "'байна'-гийн өмнө тийн ялгалгүй тэмдэг нэр (шаржигнуур) орно."
+  },
+  {
+   "lang": "en",
+   "text": "This is a ___ milk tea.",
+   "answer": "delicious hot salty",
+   "options": [
+    "delicious hot salty",
+    "salty hot delicious",
+    "hot delicious salty",
+    "milk delicious hot"
+   ],
+   "translation": "Энэ бол амттай халуун давстай сүүтэй цай.",
+   "explain_en": "Opinion comes first, then temperature, then taste.",
+   "explain_mn": "Эхлээд үзэл бодол, дараа нь температур, тэгээд амт орно."
+  },
+  {
+   "lang": "en",
+   "text": "I think it needs a little more ___.",
+   "answer": "salt",
+   "options": [
+    "salt",
+    "salty",
+    "saltily",
+    "salting"
+   ],
+   "translation": "Миний бодлоор арай илүү давс хэрэгтэй.",
+   "explain_en": "After 'more' we need a noun: salt.",
+   "explain_mn": "'more'-ийн дараа нэр үг (salt) орно."
+  },
+  {
+   "lang": "en",
+   "text": "The airag tastes a bit ___, but I like it.",
+   "answer": "sour",
+   "options": [
+    "sour",
+    "sourly",
+    "sourness",
+    "to sour"
+   ],
+   "translation": "Айраг бага зэрэг исгэлэн, гэхдээ надад таалагдаж байна.",
+   "explain_en": "After 'taste' we use an adjective, not an adverb.",
+   "explain_mn": "'tastes'-ийн дараа дайвар үг биш тэмдэг нэр орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Эгч ээ, энэ буузнаас амсаж үзээрэй.",
+   "en": "Sis, please try this buuz.",
+   "mn_latin": "Egch ee, ene buuznaas amsaj üzeerei."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Баярлалаа. Маш амттай юм! Гэхдээ жаахан шорвогхон байна.",
+   "en": "Thanks. It's very tasty! But it's a bit salty.",
+   "mn_latin": "Bayarlalaa. Mash amttai yum! Gekhdee jaakhan shorvogkhon baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм үү? Миний бодлоор яг тохирсон байна.",
+   "en": "Really? I think it's just right.",
+   "mn_latin": "Tiim üü? Minii bodloor yag tokhirson baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэгвэл сүүтэй цайгаа халуунхан уумаар байна.",
+   "en": "Then I'd like my milk tea nice and hot.",
+   "mn_latin": "Tegvel süütei tsaigaa khaluunkhan uumaar baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, энд амттай халуун давстай сүүтэй цай байна.",
+   "en": "Okay, here's a delicious hot salty milk tea.",
+   "mn_latin": "Za, end amttai khaluun davstai süütei tsai baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Хуушуур нь шаржигнуур, өөх тос ихгүй байна.",
+   "en": "The khuushuur is crispy and not greasy.",
+   "mn_latin": "Khuushuur ni sharjignuur, öökh tos ikhgüi baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ааруул чихэрлэгхэн болсон, та амсаж үзэх үү?",
+   "en": "The aaruul turned out a touch sweet, would you like to taste it?",
+   "mn_latin": "Aaruul chikherlegkhen bolson, ta amsaj üzekh üü?"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian homes, guests are encouraged to taste everything, and refusing food outright can seem impolite. Comments are often softened with -хан/-хэн, so a host hears 'a little salty' rather than 'too salty'. Salty milk tea (сүүтэй цай) is a daily drink and is often served first to guests.",
+  "mn": "Монгол айлд зочинд бүх зүйлээс амсуулах нь заншил бөгөөд шууд татгалзах нь эелдэг бус санагдаж болно. Сэтгэгдлээ ихэвчлэн -хан/-хэн нөхцөлөөр зөөлрүүлж хэлдэг тул эзэн \"хэтэрхий шорвог\" биш \"шорвогхон\" гэж сонсдог. Давстай сүүтэй цай өдөр бүр уудаг ундаа бөгөөд зочинд ихэвчлэн хамгийн түрүүнд өргөдөг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 23,
+  "notes": "Several vocab examples mismatch headwords, the grammar explanation has an incorrect example and a contradiction, and the Mongolian question forms are unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 4,
+  "fixes": 40,
+  "notes": "Replaced unnatural давслаг/амтат/шаржигнасан/амтлах with шорвог/чихэрлэг/шаржигнуур/амсах everywhere, made each blank have only one correct answer, and aligned the en/mn grammar explanations and culture notes.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "амтлах means 'to season'; tasting is амсах"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "mn",
+    "why": "шорвог is the standard word for a salty taste"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_mn",
+    "why": "standard word"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "амтат is attributive only; чихэрлэг is the standard word for sweet"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "en",
+    "why": "matches чихэрлэг"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "natural wording"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "mn",
+    "why": "шаржигнуур is the standard adjective for crispy"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "standard word"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "mn",
+    "why": "амтлах means 'to season'"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "амсах = to taste"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_en",
+    "why": "natural offer"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "standard word"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "standard word"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "амсах plus the correct case"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "the imperative alternative did not match the question; correct verb and case"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_en",
+    "why": "the old alternative sounded unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "standard word"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "давстай is the natural word here; сайхан changed to амттай to match 'delicious'"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "standard word"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "standard word"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "the en and mn versions differed, and the old comparison did not show -хан"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "now says the same as the en version"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "standard word with the correct -хон harmony"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "natural word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "unchanged text; the answer and options are fixed below"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "answer",
+    "why": "standard word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "халуун/цайвар also fit the old blank; now only one answer is correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "matches the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "matches the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "standard word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "давслаг/өөхтэй also fit the old blank; now only one answer is correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "matches the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "matches the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "natural word"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "амсах plus the correct case"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "standard word"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "natural 'here is' plus the right word"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "ихтэй биш is unnatural; standard word for crispy"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "амсах = to taste"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "now matches the en version (example, outright, salty)"
+   }
+  ]
+ }
+}

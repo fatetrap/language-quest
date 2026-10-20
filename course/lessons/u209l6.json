@@ -1,0 +1,416 @@
+{
+ "intro_en": "In this lesson, you will check a household's winter list and estimate how long supplies will last. You will practice нөөц, хүрэлцэх, дутах, and хангалттай, and use approximate amounts with measure words, such as гурван сар орчим (about three months) and арав гаруй шуудай (over ten sacks).",
+ "intro_mn": "Энэ хичээлээр гэр бүлийн өвлийн жагсаалтыг шалгаж, нөөц хэр удаан хүрэлцэхийг тооцоолж сурна. Нөөц, хүрэлцэх, дутах, хангалттай гэсэн үгсийг давтаж, гурван сар орчим (about three months), арав гаруй шуудай (over ten sacks) гэх мэтээр хэмжих нэгжтэй ойролцоо хэмжээг хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "нөөц",
+   "en": "supply, reserve, stock",
+   "pos": "noun",
+   "example_mn": "Манай гурилын нөөц багасаж байна.",
+   "example_en": "Our flour supply is running low.",
+   "mn_latin": "nööts"
+  },
+  {
+   "mn": "хүрэлцэх",
+   "en": "to last, to be enough",
+   "pos": "verb",
+   "example_mn": "Энэ нүүрс гурван сар орчим хүрэлцэнэ.",
+   "example_en": "This coal will last about three months.",
+   "mn_latin": "khüreltsekh"
+  },
+  {
+   "mn": "дутах",
+   "en": "to be short of, to lack",
+   "pos": "verb",
+   "example_mn": "Бидэнд хоёр шуудай будаа дутаж байна.",
+   "example_en": "We are two sacks of rice short.",
+   "mn_latin": "dutakh"
+  },
+  {
+   "mn": "хангалттай",
+   "en": "enough, sufficient",
+   "pos": "adjective",
+   "example_mn": "Мах хангалттай байгаа юу?",
+   "example_en": "Do we have enough meat?",
+   "mn_latin": "khangalttai"
+  },
+  {
+   "mn": "орчим",
+   "en": "about, around (after a number)",
+   "pos": "postposition",
+   "example_mn": "Хоёр тонн орчим нүүрс авна.",
+   "example_en": "We'll buy about two tons of coal.",
+   "mn_latin": "orchim"
+  },
+  {
+   "mn": "гаруй",
+   "en": "over, more than (after a number)",
+   "pos": "postposition",
+   "example_mn": "Арав гаруй шуудай төмс бий.",
+   "example_en": "We have more than ten sacks of potatoes.",
+   "mn_latin": "garui"
+  },
+  {
+   "mn": "ойролцоогоор",
+   "en": "approximately, roughly",
+   "pos": "adverb",
+   "example_mn": "Ойролцоогоор хорин килограмм мах хэрэгтэй.",
+   "example_en": "We need approximately twenty kilograms of meat.",
+   "mn_latin": "oiroltsoogoor"
+  },
+  {
+   "mn": "жагсаалт",
+   "en": "list",
+   "pos": "noun",
+   "example_mn": "Өвлийн хүнсний жагсаалтаа шалгая.",
+   "example_en": "Let's check our winter food list.",
+   "mn_latin": "jagsaalt"
+  },
+  {
+   "mn": "тооцоолох",
+   "en": "to calculate, to estimate",
+   "pos": "verb",
+   "example_mn": "Хэдэн сар хүрэлцэхийг тооцоолъё.",
+   "example_en": "Let's estimate how many months it will last.",
+   "mn_latin": "tootsoolokh"
+  },
+  {
+   "mn": "үлдэх",
+   "en": "to be left, to remain",
+   "pos": "verb",
+   "example_mn": "Хоёр шуудай гурил үлдсэн.",
+   "example_en": "There are two sacks of flour left.",
+   "mn_latin": "üldekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Манай өвлийн нөөц хангалттай юу?",
+   "en": "Are our winter supplies sufficient?",
+   "alt_mn": [
+    "Манай өвлийн нөөц хүрэлцэх үү?"
+   ],
+   "alt_en": [
+    "Do we have enough winter supplies?",
+    "Are our winter supplies enough?"
+   ],
+   "mn_latin": "Manai övliin nööts khangalttai yuu?"
+  },
+  {
+   "mn": "Энэ нүүрс гурван сар орчим хүрэлцэнэ.",
+   "en": "This coal will last about three months.",
+   "alt_mn": [
+    "Энэ нүүрс ойролцоогоор гурван сар хүрэлцэнэ."
+   ],
+   "alt_en": [
+    "This coal will last around three months.",
+    "This coal will be enough for about three months."
+   ],
+   "mn_latin": "Ene nüürs gurvan sar orchim khüreltsene."
+  },
+  {
+   "mn": "Зоорьд арав гаруй шуудай төмс байна.",
+   "en": "There are more than ten sacks of potatoes in the cellar.",
+   "alt_mn": [],
+   "alt_en": [
+    "There are over ten sacks of potatoes in the cellar."
+   ],
+   "mn_latin": "Zoorid arav garui shuudai töms baina."
+  },
+  {
+   "mn": "Будаа хоёр шуудай орчим дутаж байна.",
+   "en": "We're about two sacks of rice short.",
+   "alt_mn": [
+    "Будаа хоёр шуудай орчим дутуу байна."
+   ],
+   "alt_en": [
+    "We are short about two sacks of rice."
+   ],
+   "mn_latin": "Budaa khoyor shuudai orchim dutaj baina."
+  },
+  {
+   "mn": "Хоёр тонн гаруй нүүрс хэрэгтэй гэж бодож байна.",
+   "en": "I think we need over two tons of coal.",
+   "alt_mn": [],
+   "alt_en": [
+    "I think we need more than two tons of coal."
+   ],
+   "mn_latin": "Khoyor tonn garui nüürs kheregtei gej bodoj baina."
+  },
+  {
+   "mn": "Мах хавар хүртэл хүрэлцэх үү?",
+   "en": "Will the meat last until spring?",
+   "alt_mn": [],
+   "alt_en": [
+    "Will the meat last till spring?"
+   ],
+   "mn_latin": "Makh khavar khürtel khüreltsekh üü?"
+  },
+  {
+   "mn": "Өвлийн хүнсний нөөцийн жагсаалтаа дахин шалгая.",
+   "en": "Let's check our winter food supply list again.",
+   "alt_mn": [],
+   "alt_en": [
+    "Let's go over our winter food supply list again."
+   ],
+   "mn_latin": "Övliin khünsnii nöötsiin jagsaaltaa dakhin shalgaya."
+  },
+  {
+   "mn": "Нүүрс хүргэлтийн машин маргааш ирнэ.",
+   "en": "The coal delivery truck is coming tomorrow.",
+   "alt_mn": [],
+   "alt_en": [
+    "The coal delivery truck will come tomorrow."
+   ],
+   "mn_latin": "Nüürs khürgeltiin mashin margaash irne."
+  },
+  {
+   "mn": "Гурил хангалттай, харин тос дутах байх.",
+   "en": "We have enough flour, but we'll probably run short of oil.",
+   "alt_mn": [],
+   "alt_en": [
+    "There's enough flour, but we'll probably be short on oil."
+   ],
+   "mn_latin": "Guril khangalttai, kharin tos dutakh baikh."
+  },
+  {
+   "mn": "Бид сард ойролцоогоор нэг шуудай гурил хэрэглэдэг.",
+   "en": "We use approximately one sack of flour a month.",
+   "alt_mn": [
+    "Бид сард нэг шуудай орчим гурил хэрэглэдэг."
+   ],
+   "alt_en": [
+    "We use roughly one sack of flour per month."
+   ],
+   "mn_latin": "Bid sard oiroltsoogoor neg shuudai guril kheregledeg."
+  },
+  {
+   "mn": "Хүйтэн удаан үргэлжилбэл нүүрс маань хүрэлцэхгүй байж магадгүй.",
+   "en": "If the cold lasts a long time, our coal might not be enough.",
+   "alt_mn": [],
+   "alt_en": [
+    "If the cold goes on for a long time, our coal may not last."
+   ],
+   "mn_latin": "Khüiten udaan ürgeljilbel nüürs maani khüreltsekhgüi baij magadgüi."
+  },
+  {
+   "mn": "Бид зуу гаруй бууз хийж хөлдөөсөн.",
+   "en": "We made and froze over a hundred buuz.",
+   "alt_mn": [],
+   "alt_en": [
+    "We made more than a hundred buuz and froze them."
+   ],
+   "mn_latin": "Bid zuu garui buuz khiij khöldöösön."
+  }
+ ],
+ "grammar": {
+  "title_en": "Approximate amounts: орчим, гаруй, ойролцоогоор + measure words",
+  "title_mn": "Ойролцоо хэмжээ: орчим, гаруй, ойролцоогоор + хэмжих нэгж",
+  "explain_en": "To give an approximate amount, put орчим (about) or гаруй (over, more than) after the number or the measure phrase. ойролцоогоор (approximately) goes before it. The usual pattern is: number + measure word + орчим, as in гурван сар орчим (about three months) or хоёр тонн орчим нүүрс (about two tons of coal). With гаруй, the number comes directly before it in its plain form: арав гаруй шуудай (over ten sacks), хорь гаруй килограмм (over twenty kilos), зуу гаруй бууз (over a hundred buuz). Note that you say арав гаруй, not арван гаруй. Combine these with хүрэлцэх (to last), дутах (to be short), and хангалттай (enough) to plan your winter supplies.",
+  "explain_mn": "Ойролцоо хэмжээг илэрхийлэхдээ тоо эсвэл хэмжээний хэллэгийн ард 'орчим' (about) эсвэл 'гаруй' (over, more than) гэж хэлнэ. 'Ойролцоогоор' (approximately) нь харин түүний өмнө орно. Түгээмэл загвар нь тоо + хэмжих нэгж + орчим юм. Жишээ нь: гурван сар орчим (about three months), хоёр тонн орчим нүүрс (about two tons of coal). 'Гаруй'-н өмнө тоо нэр шууд, үндсэн хэлбэрээрээ орно: арав гаруй шуудай (over ten sacks), хорь гаруй килограмм (over twenty kilos), зуу гаруй бууз (over a hundred buuz). 'Арван гаруй' биш, 'арав гаруй' гэж хэлдгийг анхаараарай. Эдгээрийг хүрэлцэх (to last), дутах (to be short), хангалттай (enough) гэсэн үгстэй хослуулан өвлийн нөөцөө төлөвлөөрэй.",
+  "examples": [
+   {
+    "mn": "Энэ нүүрс гурван сар орчим хүрэлцэнэ.",
+    "en": "This coal will last about three months.",
+    "mn_latin": "Ene nüürs gurvan sar orchim khüreltsene."
+   },
+   {
+    "mn": "Арав гаруй шуудай төмс бий.",
+    "en": "We have over ten sacks of potatoes.",
+    "mn_latin": "Arav garui shuudai töms bii."
+   },
+   {
+    "mn": "Нүүрс хүргэлтийн машин маргааш ирнэ.",
+    "en": "The coal delivery truck is coming tomorrow.",
+    "mn_latin": "Nüürs khürgeltiin mashin margaash irne."
+   },
+   {
+    "mn": "Өвлийн хүнсний нөөцийн жагсаалт",
+    "en": "the winter food supply list",
+    "mn_latin": "Övliin khünsnii nöötsiin jagsaalt"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ нүүрс гурван сар ___ хүрэлцэнэ.",
+   "answer": "орчим",
+   "options": [
+    "орчим",
+    "дээр",
+    "тутам",
+    "нь"
+   ],
+   "translation": "This coal will last about three months.",
+   "explain_en": "орчим comes after the number + measure word and means 'about, around'.",
+   "explain_mn": "'Орчим' нь тоо ба хэмжих нэгжийн ард орж ойролцоо хэмжээг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Зоорьд ___ гаруй шуудай төмс байна.",
+   "answer": "арав",
+   "options": [
+    "арав",
+    "арван",
+    "аравт",
+    "арвыг"
+   ],
+   "translation": "There are more than ten sacks of potatoes in the cellar.",
+   "explain_en": "Before гаруй, the number keeps its plain form: арав гаруй, not арван гаруй.",
+   "explain_mn": "'Гаруй'-н өмнө тоо нэрийн үндсэн хэлбэр орно: арав гаруй."
+  },
+  {
+   "lang": "mn",
+   "text": "Гурил ___, харин тос дутна.",
+   "answer": "хангалттай",
+   "options": [
+    "хангалттай",
+    "дутуу",
+    "хүрэлцэхгүй",
+    "үлдээгүй"
+   ],
+   "translation": "We have enough flour, but we'll be short on oil.",
+   "explain_en": "хангалттай means 'enough'. It contrasts with дутна (will be short) after харин (but).",
+   "explain_mn": "'Харин' гэдэг эсрэгцүүлэх холбоос тул эхний хэсэгт эерэг утгатай 'хангалттай' орно."
+  },
+  {
+   "lang": "en",
+   "text": "Let's check the winter food ___ list.",
+   "answer": "supply",
+   "options": [
+    "supply",
+    "supplies",
+    "supplying",
+    "supplied"
+   ],
+   "translation": "Өвлийн хүнсний нөөцийн жагсаалтаа шалгая.",
+   "explain_en": "Nouns used as modifiers in a compound are usually singular: a supply list.",
+   "explain_mn": "Нийлмэл нэрийн дунд орж буй тодотгол нэр үг ихэвчлэн ганц тоотой байдаг: supply list."
+  },
+  {
+   "lang": "en",
+   "text": "The coal ___ truck comes on Friday.",
+   "answer": "delivery",
+   "options": [
+    "delivery",
+    "deliveries",
+    "delivered",
+    "deliver's"
+   ],
+   "translation": "Нүүрс хүргэлтийн машин баасан гарагт ирнэ.",
+   "explain_en": "In the compound 'coal delivery truck', the modifier noun 'delivery' stays singular and has no possessive -'s.",
+   "explain_mn": "'Coal delivery truck' нийлмэл нэрт 'delivery' нь ганц тоотой, -'s залгавар авахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "This coal will ___ about three months.",
+   "answer": "last",
+   "options": [
+    "last",
+    "take",
+    "stay",
+    "keep"
+   ],
+   "translation": "Энэ нүүрс гурван сар орчим хүрэлцэнэ.",
+   "explain_en": "'Last' + a time period means that something is enough for that long.",
+   "explain_mn": "'Хүрэлцэх' гэдгийг хугацаатай хэрэглэхэд англиар 'last' гэж хэлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Батболд оо, өвлийн жагсаалтаа шалгачихъя. Нүүрс хэр байна?",
+   "en": "Batbold, let's go over our winter list. How's the coal?",
+   "mn_latin": "Batbold oo, övliin jagsaaltaa shalgachikhya. Nüürs kher baina?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Гурван тонн орчим авсан. Гурван сар гаруй хүрэлцэнэ гэж тооцоолсон.",
+   "en": "We got about three tons. I estimated it'll last over three months.",
+   "mn_latin": "Gurvan tonn orchim avsan. Gurvan sar garui khüreltsene gej tootsoolson."
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Хүйтэн удаан үргэлжилбэл дутах байх аа. Нүүрс хүргэлтийн машиныг дахиад дуудах уу?",
+   "en": "If the cold drags on, we'll probably run short. Should we call the coal delivery truck again?",
+   "mn_latin": "Khüiten udaan ürgeljilbel dutakh baikh aa. Nüürs khürgeltiin mashinyg dakhiad duudakh uu?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Тэгье. Мах яасан бэ?",
+   "en": "Let's do that. What about the meat?",
+   "mn_latin": "Tegiye. Makh yaasan be?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Хагас үхэр, хоёр хонины мах бий. Цагаан сар хүртэл хангалттай.",
+   "en": "We have half a cow and two sheep. That's enough until Tsagaan Sar.",
+   "mn_latin": "Khagas ükher, khoyor khoniny makh bii. Tsagaan sar khürtel khangalttai."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Гурил, будаа?",
+   "en": "And flour and rice?",
+   "mn_latin": "Guril, budaa?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Гурил дөрвөн шуудай, будаа хоёр шуудай орчим үлдсэн. Тос л дутаж байна.",
+   "en": "There are four sacks of flour and about two sacks of rice left. We're only short on oil.",
+   "mn_latin": "Guril dörvön shuudai, budaa khoyor shuudai orchim üldsen. Tos l dutaj baina."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "За, маргааш тос авъя. Тэгвэл бид өвөлдөө бэлэн боллоо!",
+   "en": "Okay, let's buy oil tomorrow. Then we're ready for winter!",
+   "mn_latin": "Za, margaash tos avya. Tegvel bid övöldöö belen bolloo!"
+  }
+ ],
+ "culture_note": {
+  "en": "In late autumn, many Mongolian families prepare идэш, their winter meat supply. They slaughter livestock once it is cold enough to freeze the meat naturally, and it often lasts until Tsagaan Sar or spring. In Ulaanbaatar's ger districts, households also stock up on fuel. Since raw coal was banned in the capital in 2019, people buy improved coal briquettes (сайжруулсан шахмал түлш) to reduce air pollution.",
+  "mn": "Намрын сүүлээр олон монгол айл өвлийн идшээ бэлддэг. Махыг байгалийн жамаар хөлдөөхүйц хүйтэн болмогц мал гаргадаг бөгөөд энэ нөөц ихэвчлэн Цагаан сар эсвэл хавар хүртэл хүрэлцдэг. Улаанбаатарын гэр хорооллын айлууд мөн түлшээ нөөцөлдөг. 2019 оноос нийслэлд түүхий нүүрс хэрэглэхийг хориглосон тул агаарын бохирдлыг бууруулахын тулд сайжруулсан шахмал түлш авдаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Accurate, natural lesson in both languages. The only real issue is one fill-in-the-blank distractor that could also be correct."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 5,
+  "notes": "Mongolian-side intro and grammar described English compound nouns; they were aligned with the English approximate-amounts topic.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro described a different topic than en intro"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn did not match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn covered English compounds; must match explain_en"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "en",
+    "why": "stress capitals irrelevant to grammar topic"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "stress capitals irrelevant to grammar topic"
+   }
+  ]
+ }
+}

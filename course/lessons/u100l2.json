@@ -1,0 +1,430 @@
+{
+ "intro_en": "Learn how to call work when you're stuck in rush-hour traffic on Peace Avenue, explain the delay, and give a realistic arrival estimate. You'll practice the loose alternative юм уу (\"ten minutes or maybe half an hour\") and the English difference between \"be due to\" and \"because of.\"",
+ "intro_mn": "Энхтайваны өргөн чөлөөн дээр оргил цагийн түгжрэлд орохдоо ажил руугаа утасдаж, хоцорч буй шалтгаанаа тайлбарлан, хэзээ очихоо хэлж сурна. Мөн \"арван минут юм уу хагас цаг\" гэх мэт юм уу-г хэрэглэх, англи хэлний \"be due to\", \"because of\" хоёрын ялгааг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "түгжрэл",
+   "en": "traffic jam",
+   "pos": "noun",
+   "example_mn": "Өглөө бүр энд түгжрэл үүсдэг.",
+   "example_en": "There's a traffic jam here every morning.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "оргил цаг",
+   "en": "rush hour",
+   "pos": "noun",
+   "example_mn": "Оргил цагаар такси олоход хэцүү.",
+   "example_en": "It's hard to find a taxi during rush hour.",
+   "mn_latin": "orgil tsag"
+  },
+  {
+   "mn": "хоцрох",
+   "en": "to be late",
+   "pos": "verb",
+   "example_mn": "Би өнөөдөр ажилдаа хоцорлоо.",
+   "example_en": "I was late for work today.",
+   "mn_latin": "khotsrokh"
+  },
+  {
+   "mn": "тойрох",
+   "en": "to go around, to bypass",
+   "pos": "verb",
+   "example_mn": "Төвийг тойроод явъя.",
+   "example_en": "Let's go around the city center.",
+   "mn_latin": "toirokh"
+  },
+  {
+   "mn": "тойруу зам",
+   "en": "detour",
+   "pos": "noun",
+   "example_mn": "Бид тойруу замаар явсан.",
+   "example_en": "We took a detour.",
+   "mn_latin": "toiruu zam"
+  },
+  {
+   "mn": "дугаарын хязгаарлалт",
+   "en": "license plate restriction",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр манай машин дугаарын хязгаарлалтад орно.",
+   "example_en": "Our car is restricted by its plate number today.",
+   "mn_latin": "dugaaryn khyazgaarlalt"
+  },
+  {
+   "mn": "уулзвар",
+   "en": "intersection",
+   "pos": "noun",
+   "example_mn": "Уулзвар дээр осол болжээ.",
+   "example_en": "There was an accident at the intersection.",
+   "mn_latin": "uulzvar"
+  },
+  {
+   "mn": "ачаалал",
+   "en": "congestion, heavy traffic",
+   "pos": "noun",
+   "example_mn": "Замын ачаалал их байна.",
+   "example_en": "Traffic is heavy.",
+   "mn_latin": "achaalal"
+  },
+  {
+   "mn": "ойролцоогоор",
+   "en": "approximately, about",
+   "pos": "adverb",
+   "example_mn": "Ойролцоогоор хорин минутын дараа очно.",
+   "example_en": "I'll get there in about twenty minutes.",
+   "mn_latin": "oiroltsoogoor"
+  },
+  {
+   "mn": "хойшлуулах",
+   "en": "to postpone, to push back",
+   "pos": "verb",
+   "example_mn": "Хурлыг маргааш хүртэл хойшлуулъя.",
+   "example_en": "Let's postpone the meeting until tomorrow.",
+   "mn_latin": "khoishluulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би Энхтайваны өргөн чөлөөн дээр түгжрэлд орчихлоо.",
+   "en": "I'm stuck in traffic on Peace Avenue.",
+   "alt_mn": [
+    "Би Энхтайваны өргөн чөлөөн дээр түгжрэлд орлоо."
+   ],
+   "alt_en": [
+    "I got stuck in traffic on Peace Avenue.",
+    "I'm stuck in a traffic jam on Peace Avenue."
+   ],
+   "mn_latin": "Bi Enkhtaivany örgön chölöön deer tügjreld orchikhloo."
+  },
+  {
+   "mn": "Оргил цагаар энэ зам огт хөдлөхгүй.",
+   "en": "During rush hour, this road doesn't move at all.",
+   "alt_mn": [],
+   "alt_en": [
+    "At rush hour, this road doesn't move at all."
+   ],
+   "mn_latin": "Orgil tsagaar ene zam ogt khödlökhgüi."
+  },
+  {
+   "mn": "Би арван минут юм уу хагас цаг хоцорно.",
+   "en": "I'll be ten minutes or maybe half an hour late.",
+   "alt_mn": [
+    "Би арван минут эсвэл хагас цаг хоцорно."
+   ],
+   "alt_en": [
+    "I'll be ten minutes or half an hour late.",
+    "I'll be somewhere between ten minutes and half an hour late."
+   ],
+   "mn_latin": "Bi arvan minut yum uu khagas tsag khotsorno."
+  },
+  {
+   "mn": "Миний хоцролт замын ослоос шалтгаалсан.",
+   "en": "My delay is due to a traffic accident.",
+   "alt_mn": [
+    "Би замын ослоос болж хоцорсон."
+   ],
+   "alt_en": [
+    "I'm late because of a traffic accident."
+   ],
+   "mn_latin": "Minii khotsrolt zamyn osloos shaltgaalsan."
+  },
+  {
+   "mn": "Өнөөдөр манай машин дугаарын хязгаарлалтад орж байгаа болохоор автобусаар явж байна.",
+   "en": "Our car is restricted by its plate number today, so I'm taking the bus.",
+   "alt_mn": [
+    "Өнөөдөр манай машин дугаарын хязгаарлалтад орсон тул автобусаар явж байна."
+   ],
+   "alt_en": [
+    "Our car can't be driven today because of the license plate restriction, so I'm taking the bus."
+   ],
+   "mn_latin": "Önöödör manai mashin dugaaryn khyazgaarlaltad orj baigaa bolokhoor avtobusaar yavj baina."
+  },
+  {
+   "mn": "Жолооч Сөүлийн гудамжаар тойрохоор шийдлээ.",
+   "en": "The driver decided to take a detour via Seoul Street.",
+   "alt_mn": [
+    "Жолооч Сөүлийн гудамжаар тойрч явахаар шийдлээ."
+   ],
+   "alt_en": [
+    "The driver decided to go around by way of Seoul Street."
+   ],
+   "mn_latin": "Jolooch Söüliin gudamjaar toirokhoor shiidlee."
+  },
+  {
+   "mn": "Би есөн цаг хагас гэхэд очих байх.",
+   "en": "I should be there by nine thirty.",
+   "alt_mn": [],
+   "alt_en": [
+    "I should get there by nine thirty.",
+    "I should be there by 9:30."
+   ],
+   "mn_latin": "Bi yesön tsag khagas gekhed ochikh baikh."
+  },
+  {
+   "mn": "Хурлыг арав юм уу арван таван минутаар хойшлуулж болох уу?",
+   "en": "Could we push the meeting back ten or fifteen minutes?",
+   "alt_mn": [
+    "Хурлыг арав эсвэл арван таван минутаар хойшлуулж болох уу?"
+   ],
+   "alt_en": [
+    "Could we postpone the meeting by ten or fifteen minutes?",
+    "Can we push the meeting back ten or fifteen minutes?"
+   ],
+   "mn_latin": "Khurlyg arav yum uu arvan tavan minutaar khoishluulj bolokh uu?"
+  },
+  {
+   "mn": "Автобус түгжрэлээс болж хорин минут хоцорч байна.",
+   "en": "The bus is running twenty minutes late because of the traffic.",
+   "alt_mn": [],
+   "alt_en": [
+    "The bus is twenty minutes late because of the traffic jam."
+   ],
+   "mn_latin": "Avtobus tügjrelees bolj khorin minut khotsorch baina."
+  },
+  {
+   "mn": "Замын цагдаа уулзварыг хаасан байна.",
+   "en": "The traffic police have closed the intersection.",
+   "alt_mn": [],
+   "alt_en": [
+    "The traffic police closed the intersection."
+   ],
+   "mn_latin": "Zamyn tsagdaa uulzvaryg khaasan baina."
+  },
+  {
+   "mn": "Метро байсан бол ингэж зовохгүй байсан.",
+   "en": "If we had a subway, we wouldn't be suffering like this.",
+   "alt_mn": [],
+   "alt_en": [
+    "If there were a subway, we wouldn't have to suffer like this."
+   ],
+   "mn_latin": "Myetro baisan bol ingej zovokhgüi baisan."
+  },
+  {
+   "mn": "Дараагийн удаа би хагас цагаар эрт гарна.",
+   "en": "Next time I'll leave half an hour earlier.",
+   "alt_mn": [
+    "Дараагийн удаа би хагас цаг эрт гарна."
+   ],
+   "alt_en": [
+    "Next time I'll head out half an hour earlier."
+   ],
+   "mn_latin": "Daraagiin udaa bi khagas tsagaar ert garna."
+  }
+ ],
+ "grammar": {
+  "title_en": "Loose alternatives with юм уу (\"or maybe, or so\")",
+  "title_mn": "Юм уу-гаар ойролцоо сонголт илэрхийлэх (\"эсвэл магадгүй, ...орчим\")",
+  "explain_en": "In spoken Mongolian, юм уу goes right after the first option to give a rough, relaxed choice: арван минут юм уу хагас цаг means \"ten minutes or maybe half an hour.\" It sounds less formal than эсвэл (\"or\"), and it suggests you aren't sure. When the options share a case ending, only the last one usually takes it: такси юм уу автобусаар (\"by taxi or bus\"). At the end of a phrase, юм уу can mean \"or something\": Кофе юм уу ууя. (\"Let's have a coffee or something.\")",
+  "explain_mn": "Ярианы хэлэнд юм уу-г эхний сонголтын яг ард тавьж, ойролцоо, тайван сонголт илэрхийлнэ: арван минут юм уу хагас цаг гэвэл \"ten minutes or maybe half an hour\" гэсэн утгатай. Энэ нь эсвэл гэдгээс албан бус сонсогддог бөгөөд хэлж буй хүн яг итгэлгүй байгааг илтгэнэ. Сонголтууд ижил тийн ялгалтай бол ихэвчлэн зөвхөн сүүлийнх нь нөхцөлөө авна: такси юм уу автобусаар (\"by taxi or bus\"). Хэллэгийн төгсгөлд юм уу нь \"...эсвэл өөр юм\" гэсэн утгатай байж болно: Кофе юм уу ууя. (\"Let's have a coffee or something.\")",
+  "examples": [
+   {
+    "mn": "Арван минут юм уу хагас цаг хүлээнэ.",
+    "en": "We'll wait ten minutes or maybe half an hour.",
+    "mn_latin": "Arvan minut yum uu khagas tsag khüleene."
+   },
+   {
+    "mn": "Такси юм уу автобусаар очно.",
+    "en": "I'll get there by taxi or bus.",
+    "mn_latin": "Taksi yum uu avtobusaar ochno."
+   },
+   {
+    "mn": "Маргааш юм уу нөгөөдөр уулзъя.",
+    "en": "Let's meet tomorrow or the day after.",
+    "mn_latin": "Margaash yum uu nögöödör uulzya."
+   },
+   {
+    "mn": "Хоцролт ослоос шалтгаалсан. Автобус есөн цагт ирэх ёстой.",
+    "en": "The delay is due to an accident. The bus is due to arrive at nine.",
+    "mn_latin": "Khotsrolt osloos shaltgaalsan. Avtobus yesön tsagt irekh yostoi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би арван минут ___ хагас цаг хоцорно.",
+   "answer": "юм уу",
+   "options": [
+    "юм уу",
+    "гэхдээ",
+    "учраас",
+    "байтал"
+   ],
+   "translation": "I'll be ten minutes or maybe half an hour late.",
+   "explain_en": "юм уу links two rough alternatives: \"ten minutes or maybe half an hour.\" гэхдээ means \"but,\" учраас means \"because,\" and байтал means \"while/although.\"",
+   "explain_mn": "Хоёр ойролцоо сонголтыг холбоход юм уу хэрэглэнэ. Гэхдээ нь эсрэгцүүлэл, учраас нь шалтгаан, байтал нь \"...байхад\" гэсэн утгатай тул тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Би Энхтайваны өргөн чөлөөн дээр түгжрэл___ орчихлоо.",
+   "answer": "д",
+   "options": [
+    "д",
+    "ээс",
+    "тэй",
+    "ийг"
+   ],
+   "translation": "I'm stuck in traffic on Peace Avenue.",
+   "explain_en": "The verb орох (\"to get into\") takes the dative-locative case -д: түгжрэлд орох means \"to get stuck in traffic.\" -ээс means \"from,\" -тэй means \"with,\" and -ийг marks the direct object.",
+   "explain_mn": "Орох үйл үг өгөх-оршихын тийн ялгал шаарддаг тул түгжрэлд орох гэж хэлнэ. -ээс нь гарахын, -тэй нь хамтрахын, -ийг нь заахын тийн ялгал."
+  },
+  {
+   "lang": "mn",
+   "text": "Энхтайваны өргөн чөлөөг ___ Сөүлийн гудамжаар явъя.",
+   "answer": "тойроод",
+   "options": [
+    "тойроод",
+    "хоцроод",
+    "хойшлуулаад",
+    "зогсоод"
+   ],
+   "translation": "Let's go around Peace Avenue and take Seoul Street.",
+   "explain_en": "тойрох means \"to go around, bypass.\" With -оод it means \"go around and then...\". The other verbs mean \"be late,\" \"postpone,\" and \"stop.\"",
+   "explain_mn": "Замыг тойрч гарах утгатай тул тойроод зөв. Хоцрох, хойшлуулах, зогсох үйл үгс энд утгаараа тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The delay is ___ to an accident on Peace Avenue.",
+   "answer": "due",
+   "options": [
+    "due",
+    "because",
+    "reason",
+    "result"
+   ],
+   "translation": "Хоцролт Энхтайваны өргөн чөлөөн дээрх ослоос шалтгаалсан.",
+   "explain_en": "After \"is,\" we use \"due to\" + noun to give the cause. \"Because\" needs \"of\" (\"because of\"), and \"reason\" and \"result\" are nouns that would need \"the reason for\" or \"the result of.\"",
+   "explain_mn": "Be үйл үгийн дараа шалтгаан хэлэхэд \"due to\" хэрэглэнэ. \"Because\"-ийн дараа \"of\" хэрэгтэй. \"Reason\", \"result\" нь нэр үг тул \"the reason for\", \"the result of\" гэж хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I'm running late ___ the traffic.",
+   "answer": "because of",
+   "options": [
+    "because of",
+    "due",
+    "because",
+    "since"
+   ],
+   "translation": "Би түгжрэлээс болж хоцорч байна.",
+   "explain_en": "\"Because of\" + noun explains why the action (running late) happens. \"Due\" alone is incomplete, and \"because\" and \"since\" need a full clause (\"because the traffic is bad\").",
+   "explain_mn": "Үйл үгийн шалтгааныг нэр үгээр хэлэхэд \"because of\" хэрэглэнэ. \"Because\", \"since\"-ийн дараа өгүүлэгдэхүүн, өгүүлэхүүнтэй бүтэн өгүүлбэр шаардлагатай."
+  },
+  {
+   "lang": "en",
+   "text": "Don't worry, I should be there ___ 9:30.",
+   "answer": "by",
+   "options": [
+    "by",
+    "on",
+    "since",
+    "during"
+   ],
+   "translation": "Санаа зоволтгүй, би есөн цаг хагас гэхэд очих байх.",
+   "explain_en": "\"By\" + time means \"no later than,\" which is perfect for arrival estimates. \"On\" is used with days and dates, not clock times. \"Since\" refers to a starting point in the past, and \"during\" refers to a period.",
+   "explain_mn": "\"By 9:30\" нь \"9:30 гэхэд, түүнээс хойш биш\" гэсэн утгатай. \"On\"-г цагтай биш, гариг, огноотой хэрэглэнэ. \"Since\" нь өнгөрсөн цагаас эхлэх, \"during\" нь хугацааны туршид гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу, Сараа. Уучлаарай, би Энхтайваны өргөн чөлөөн дээр түгжрэлд орчихлоо.",
+   "en": "Hi, Saraa. Sorry, I'm stuck in traffic on Peace Avenue.",
+   "mn_latin": "Sain baina uu, Saraa. Uuchlaarai, bi Enkhtaivany örgön chölöön deer tügjreld orchikhloo."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Өө, тийм үү. Юунаас болсон юм бэ?",
+   "en": "Oh, really? What's causing it?",
+   "mn_latin": "Öö, tiim üü. Yuunaas bolson yum be?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Барс захын уулзвар дээр осол болсон бололтой. Машинууд огт хөдлөхгүй байна.",
+   "en": "It looks like there was an accident at the Bars Market intersection. The cars aren't moving at all.",
+   "mn_latin": "Bars zakhyn uulzvar deer osol bolson bololtoi. Mashinuud ogt khödlökhgüi baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Хэр удаан хоцрох вэ? Есөн цагт уулзалт байгаа шүү дээ.",
+   "en": "How late will you be? We have a meeting at nine, you know.",
+   "mn_latin": "Kher udaan khotsrokh ve? Yesön tsagt uulzalt baigaa shüü dee."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Арван минут юм уу хагас цаг. Таксичин тойруу замаар явъя гэж байна.",
+   "en": "Ten minutes or maybe half an hour. The taxi driver wants to take a detour.",
+   "mn_latin": "Arvan minut yum uu khagas tsag. Taksichin toiruu zamaar yavya gej baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, тэгвэл уулзалтыг арав юм уу арван таван минутаар хойшлуулъя.",
+   "en": "Okay, then let's push the meeting back ten or fifteen minutes.",
+   "mn_latin": "Za, tegvel uulzaltyg arav yum uu arvan tavan minutaar khoishluulya."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Баярлалаа. Би есөн цаг хагас гэхэд заавал очно.",
+   "en": "Thank you. I'll definitely be there by nine thirty.",
+   "mn_latin": "Bayarlalaa. Bi yesön tsag khagas gekhed zaaval ochno."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Зүгээр дээ. Болгоомжтой яваарай.",
+   "en": "No problem. Get here safely.",
+   "mn_latin": "Zügeer dee. Bolgoomjtoi yavaarai."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar is home to nearly half of Mongolia's population, and Peace Avenue, the main east-west road, is often jammed during rush hour. To reduce congestion, the city restricts private cars on weekdays by license plate number. It once used an odd-even system, and now each weekday bans plates ending in certain digits. That's why people often mention their plate number when explaining why they took the bus or a taxi.",
+  "mn": "Улаанбаатарт Монголын хүн амын бараг тал нь амьдардаг бөгөөд хотын зүүнээс баруун тийш гол зам болох Энхтайваны өргөн чөлөө оргил цагаар ихэвчлэн түгжирдэг. Түгжрэлийг бууруулахын тулд ажлын өдрүүдэд хувийн машиныг дугаараар нь хязгаарладаг. Өмнө нь тэгш, сондгойгоор хязгаарладаг байсан бол одоо гариг бүр тодорхой тоогоор төгссөн дугаартай машин явах эрхгүй. Тиймээс хүмүүс яагаад автобус, таксигаар явснаа тайлбарлахдаа машиныхаа дугаарыг ихэвчлэн дурддаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 7,
+  "notes": "A solid, natural lesson. The fixes cover one inaccurate time expression, an ambiguous fill-in-the-blank option, a grammar-term error in one explanation, and one dialogue mistranslation."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 6,
+  "notes": "The main problem was the grammar section, where the Mongolian title and explanation covered a different topic; there were also one wrong alternative and one fill-in-the-blank with two correct answers.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Mongolian title covered a different topic than the English title."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The Mongolian explanation described a different topic (due to / because of) than the English one (юм уу)."
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "\"есөн цаг хагаст\" means \"at 9:30,\" not \"by 9:30.\""
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "\"I should be there until 9:30\" is also grammatical, so the blank had two correct answers."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_en",
+    "why": "Updated to match the new options."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Updated to match the new options."
+   }
+  ]
+ }
+}

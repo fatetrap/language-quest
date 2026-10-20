@@ -1,0 +1,538 @@
+{
+ "intro_en": "You will learn the numbers 11-20 and the tens (30, 40, 50 ... 90) in Mongolian. You will also practice reading house numbers and bus numbers, and hear the difference between English 'thirteen' and 'thirty'.",
+ "intro_mn": "Та 11-20 болон аравтуудыг (30, 40, 50 ... 90) монголоор сурна. Мөн байшингийн дугаар, автобусны дугаар уншиж, англи хэлний 'thirteen' ба 'thirty' үгийн ялгааг сонсож сурна.",
+ "vocab": [
+  {
+   "mn": "арван нэг",
+   "en": "eleven",
+   "pos": "numeral",
+   "example_mn": "Миний автобус арван нэг дугаар.",
+   "example_en": "My bus is number eleven.",
+   "mn_latin": "arvan neg"
+  },
+  {
+   "mn": "арван хоёр",
+   "en": "twelve",
+   "pos": "numeral",
+   "example_mn": "Манай байр арван хоёр дугаар.",
+   "example_en": "Our building is number twelve.",
+   "mn_latin": "arvan khoyor"
+  },
+  {
+   "mn": "арван тав",
+   "en": "fifteen",
+   "pos": "numeral",
+   "example_mn": "Арван таван дугаар автобус ирлээ.",
+   "example_en": "Bus number fifteen has arrived.",
+   "mn_latin": "arvan tav"
+  },
+  {
+   "mn": "хорь",
+   "en": "twenty",
+   "pos": "numeral",
+   "example_mn": "Хорин дугаар гэр энд байна.",
+   "example_en": "Ger number twenty is here.",
+   "mn_latin": "khori"
+  },
+  {
+   "mn": "гуч",
+   "en": "thirty",
+   "pos": "numeral",
+   "example_mn": "Гучин дугаар байр хаана вэ?",
+   "example_en": "Where is building thirty?",
+   "mn_latin": "guch"
+  },
+  {
+   "mn": "дөч",
+   "en": "forty",
+   "pos": "numeral",
+   "example_mn": "Дөчин дугаар автобус энд зогсдог.",
+   "example_en": "Bus forty stops here.",
+   "mn_latin": "döch"
+  },
+  {
+   "mn": "тавь",
+   "en": "fifty",
+   "pos": "numeral",
+   "example_mn": "Тавин дугаар сургууль энд байна.",
+   "example_en": "School number fifty is here.",
+   "mn_latin": "tavi"
+  },
+  {
+   "mn": "жар",
+   "en": "sixty",
+   "pos": "numeral",
+   "example_mn": "Жаран дугаар автобус ирлээ.",
+   "example_en": "Bus sixty has come.",
+   "mn_latin": "jar"
+  },
+  {
+   "mn": "далан",
+   "en": "seventy",
+   "pos": "numeral",
+   "example_mn": "Миний байр далан дугаар.",
+   "example_en": "My building is number seventy.",
+   "mn_latin": "dalan"
+  },
+  {
+   "mn": "наян",
+   "en": "eighty",
+   "pos": "numeral",
+   "example_mn": "Наян дугаар байр хол биш.",
+   "example_en": "Building eighty is not far.",
+   "mn_latin": "nayan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний байр арван гурав.",
+   "en": "My building is number thirteen.",
+   "alt_mn": [
+    "Миний байр арван гурван дугаар."
+   ],
+   "alt_en": [
+    "My building is thirteen."
+   ],
+   "mn_latin": "Minii bair arvan gurav."
+  },
+  {
+   "mn": "Танай автобус хэд вэ?",
+   "en": "What number is your bus?",
+   "alt_mn": [
+    "Таны автобус хэд вэ?"
+   ],
+   "alt_en": [
+    "What is your bus number?"
+   ],
+   "mn_latin": "Tanai avtobus khed ve?"
+  },
+  {
+   "mn": "Манай автобус арван тав.",
+   "en": "Our bus is fifteen.",
+   "alt_mn": [
+    "Манай автобус арван таван дугаар."
+   ],
+   "alt_en": [
+    "Our bus is number fifteen."
+   ],
+   "mn_latin": "Manai avtobus arvan tav."
+  },
+  {
+   "mn": "Тэр хорин дугаар байранд амьдардаг.",
+   "en": "He lives in building number twenty.",
+   "alt_mn": [
+    "Тэр хорин дугаар байранд амьдарч байна."
+   ],
+   "alt_en": [
+    "He lives in building twenty."
+   ],
+   "mn_latin": "Ter khorin dugaar bairand amidardag."
+  },
+  {
+   "mn": "Гучин дугаар автобус ирлээ.",
+   "en": "Bus number thirty has arrived.",
+   "alt_mn": [],
+   "alt_en": [
+    "Bus thirty has come."
+   ],
+   "mn_latin": "Guchin dugaar avtobus irlee."
+  },
+  {
+   "mn": "Миний гэр дөчин нэг дугаар.",
+   "en": "My ger is number forty-one.",
+   "alt_mn": [],
+   "alt_en": [
+    "My ger is forty-one."
+   ],
+   "mn_latin": "Minii ger döchin neg dugaar."
+  },
+  {
+   "mn": "Арван зургаа биш, жар.",
+   "en": "Not sixteen, sixty.",
+   "alt_mn": [
+    "Арван зургаа биш, жар шүү."
+   ],
+   "alt_en": [
+    "It is not sixteen, it is sixty."
+   ],
+   "mn_latin": "Arvan zurgaa bish, jar."
+  },
+  {
+   "mn": "Арван ес нь ерэн нэг биш.",
+   "en": "Nineteen is not ninety-one.",
+   "alt_mn": [],
+   "alt_en": [
+    "Nineteen and ninety-one are different."
+   ],
+   "mn_latin": "Arvan yes ni yeren neg bish."
+  },
+  {
+   "mn": "Наян дугаар автобус хаана зогсдог вэ?",
+   "en": "Where does bus eighty stop?",
+   "alt_mn": [],
+   "alt_en": [
+    "Where does bus number eighty stop?"
+   ],
+   "mn_latin": "Nayan dugaar avtobus khaana zogsdog ve?"
+  },
+  {
+   "mn": "Би далан дугаар байранд очно.",
+   "en": "I am going to building seventy.",
+   "alt_mn": [
+    "Би далан дугаар байр руу явна."
+   ],
+   "alt_en": [
+    "I will go to building number seventy."
+   ],
+   "mn_latin": "Bi dalan dugaar bairand ochno."
+  },
+  {
+   "mn": "Энэ арван долоон дугаар байр уу?",
+   "en": "Is this building number seventeen?",
+   "alt_mn": [],
+   "alt_en": [
+    "Is this building seventeen?"
+   ],
+   "mn_latin": "Ene arvan doloon dugaar bair uu?"
+  },
+  {
+   "mn": "Ерэн дугаар автобус энд алга.",
+   "en": "Bus number ninety is not here.",
+   "alt_mn": [],
+   "alt_en": [
+    "Bus ninety isn't here."
+   ],
+   "mn_latin": "Yeren dugaar avtobus end alga."
+  }
+ ],
+ "grammar": {
+  "title_en": "Teens, tens and 'дугаар' for numbers",
+  "title_mn": "Арван нэгээс хорин, аравтууд ба «дугаар»",
+  "explain_en": "Mongolian teens are easy: арван ('ten') + the digit, like арван нэг (11), арван хоёр (12), арван тав (15). The tens are separate words: хорь 20, гуч 30, дөч 40, тавь 50, жар 60, далан 70, наян 80, ер 90. Before another word (a digit or a noun), many numbers take a form ending in -н: хорин, гучин, дөчин, тавин, жаран, ерэн, and also гурван (3), таван (5), долоон (7). Examples: гучин нэг (31), ерэн нэг (91). For 'No. 15' add дугаар: арван таван дугаар автобус. In English, 13-19 end in -teen and 30-90 end in -ty. Watch the stress: thirTEEN (stress at the end) vs THIRty (stress at the start), and fifTEEN (15) vs FIFty (50).",
+  "explain_mn": "Монгол хэлэнд 11-19 нь «арван» + нэгжийн тоо (арван нэг, арван хоёр, арван тав). Аравтууд нь тусдаа үг: хорь 20, гуч 30, дөч 40, тавь 50, жар 60, далан 70, наян 80, ер 90. Өөр үгийн (тоо эсвэл нэр үгийн) өмнө олон тоо -н-тэй хэлбэртэй болно: хорин, гучин, дөчин, тавин, жаран, ерэн, мөн гурван (3), таван (5), долоон (7). Жишээ: гучин нэг (31), ерэн нэг (91). Дугаар хэлэхдээ «дугаар» нэмнэ: арван таван дугаар автобус. Англи хэлэнд 13-19 нь -teen, 30-90 нь -ty төгсгөлтэй. Стрессийг анхаар: thirTEEN [тэр-ТИЙН] гэдэгт сүүлийн үе дээр, THIRty [ТЭР-ти] гэдэгт эхний үе дээр. Мөн fifTEEN (15) ба FIFty (50).",
+  "examples": [
+   {
+    "mn": "арван гурав",
+    "en": "thirteen",
+    "mn_latin": "arvan gurav"
+   },
+   {
+    "mn": "гуч",
+    "en": "thirty",
+    "mn_latin": "guch"
+   },
+   {
+    "mn": "арван тав",
+    "en": "fifteen",
+    "mn_latin": "arvan tav"
+   },
+   {
+    "mn": "тавь",
+    "en": "fifty",
+    "mn_latin": "tavi"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Миний автобус ___ тав. (15)",
+   "answer": "арван",
+   "options": [
+    "арван",
+    "хорин",
+    "гучин",
+    "жаран"
+   ],
+   "translation": "My bus is fifteen.",
+   "explain_en": "Fifteen is арван тав: арван (ten) + тав (five).",
+   "explain_mn": "15 нь арван + тав = арван тав."
+  },
+  {
+   "lang": "mn",
+   "text": "Гучин нэг биш, ___ нэг. (41)",
+   "answer": "дөчин",
+   "options": [
+    "дөчин",
+    "арван",
+    "хорин",
+    "наян"
+   ],
+   "translation": "Not thirty-one, forty-one.",
+   "explain_en": "Дөч means forty; before a digit it becomes дөчин: дөчин нэг (41).",
+   "explain_mn": "Дөч гэдэг нь 40, цифрийн өмнө дөчин болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Ер гэдэг нь ___ гэсэн тоо.",
+   "answer": "90",
+   "options": [
+    "90",
+    "60",
+    "70",
+    "19"
+   ],
+   "translation": "Ер means ninety.",
+   "explain_en": "Ер is the word for 90, the last of the tens.",
+   "explain_mn": "Ер нь 90 гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "My building is number ___ (30).",
+   "answer": "thirty",
+   "options": [
+    "thirty",
+    "thirteen",
+    "fifty",
+    "twenty"
+   ],
+   "translation": "Миний байр гуч дугаар.",
+   "explain_en": "30 is thirty, stress on the first part: THIR-ty.",
+   "explain_mn": "30 нь thirty, эхний үе дээр стресстэй."
+  },
+  {
+   "lang": "en",
+   "text": "Bus ___ is here. (15)",
+   "answer": "fifteen",
+   "options": [
+    "fifteen",
+    "fifty",
+    "fourteen",
+    "five"
+   ],
+   "translation": "Арван таван дугаар автобус энд байна.",
+   "explain_en": "15 is fifteen, with -teen stressed: fif-TEEN.",
+   "explain_mn": "15 нь fifteen, -teen дээр стресс бий."
+  },
+  {
+   "lang": "en",
+   "text": "She is not sixteen, she is ___. (60)",
+   "answer": "sixty",
+   "options": [
+    "sixty",
+    "sixteen",
+    "sixth",
+    "seventy"
+   ],
+   "translation": "Тэр арван зургаан настай биш, жаран настай.",
+   "explain_en": "60 is sixty (SIX-ty); 16 is sixteen (six-TEEN).",
+   "explain_mn": "60 нь sixty, 16 нь sixteen."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу? Таны байр хэд вэ?",
+   "en": "Hello! What is your building number?",
+   "mn_latin": "Sain baina uu? Tany bair khed ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу. Миний байр арван гурав.",
+   "en": "Hello. My building is thirteen.",
+   "mn_latin": "Sain baina uu. Minii bair arvan gurav."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Арван гурав уу, гуч уу?",
+   "en": "Thirteen or thirty?",
+   "mn_latin": "Arvan gurav uu, guch uu?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Арван гурав. Гуч биш.",
+   "en": "Thirteen. Not thirty.",
+   "mn_latin": "Arvan gurav. Guch bish."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "За. Та ямар автобусаар явдаг вэ?",
+   "en": "OK. Which bus do you take?",
+   "mn_latin": "Za. Ta yamar avtobusaar yavdag ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Би арван таван дугаар автобусаар явдаг.",
+   "en": "I take bus number fifteen.",
+   "mn_latin": "Bi arvan tavan dugaar avtobusaar yavdag."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тавь биш үү?",
+   "en": "Not fifty?",
+   "mn_latin": "Tavi bish üü?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Үгүй, арван тав.",
+   "en": "No, fifteen.",
+   "mn_latin": "Ügüi, arvan tav."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, buses and microdistrict buildings are known by numbers, and people often say them quickly. In ger districts, houses often have plot numbers rather than street names, so it helps to listen carefully to numbers like 13 and 30.",
+  "mn": "Улаанбаатарт автобус, хорооллын байрыг дугаараар нь хэлдэг бөгөөд хурдан ярьдаг. Гэр хороололд гудамжны нэрээс илүү хашааны дугаар чухал байдаг тул 13, 30 зэрэг тоог сайн сонсох хэрэгтэй."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 19,
+  "notes": "Mostly good, but there are a few real errors: ungrammatical 'арван есөн нэг', 'долоон' vs 'долоо', 'нэгэн', altered-meaning alts, and a garbled grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 4,
+  "fixes": 25,
+  "notes": "The main problems were the missing attributive -н forms before nouns and digits (гучин, таван, ерэн, etc.), duplicate alternatives, and fill-in-the-blank items with more than one correct answer.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "тав takes the -н form before a noun: таван"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "mn",
+    "why": "Standalone 20 is хорь; хорин is the form used before another word"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_en",
+    "why": "гэр here means ger, not house"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "Before a noun, гуч becomes гучин"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "Before a noun, дөч becomes дөчин"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "Before a noun, тавь becomes тавин"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Before a noun, жар becomes жаран"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "гурав becomes гурван before a noun"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "тав becomes таван before a noun"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "гуч becomes гучин before a noun"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "91 is ерэн нэг"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "долоо becomes долоон before a noun"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "After the fix, the alternative is identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "ер becomes ерэн before a noun"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_en",
+    "why": "'There is no bus ninety' changes the meaning; энд алга means 'not here'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Adds the -н forms used throughout the lesson and makes the en version match the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Explains the -н forms and matches the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "Without a cue, хорин (25) is also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "Distractors should use the correct pre-digit forms"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "Without a cue, хорин, наян and other options also fit"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Needs the таван form before a noun"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "The sentence is about age, so настай is needed"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "тав becomes таван before a noun"
+   }
+  ]
+ }
+}

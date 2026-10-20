@@ -1,0 +1,392 @@
+{
+ "intro_en": "Learn to ask your manager for more time, fewer tasks, or extra help, and to say no politely with soft phrases like -ж гүйцэхгүй нь ээ and -ж амжихгүй байх аа. On the English side, you'll practice object to, think about, and count on followed by an -ing verb.",
+ "intro_mn": "Даргадаа хугацаа сунгах, ажлаа багасгах, туслах хүн авах талаар хэрхэн хүсэлт тавих, мөн -ж гүйцэхгүй нь ээ, -ж амжихгүй байх аа гэх мэт зөөлөн хэллэгээр хэрхэн эелдэгээр татгалзахыг сурна. Англи хэлний хувьд object to, think about, count on гэсэн хэллэгийн араас -ing хэлбэртэй үйл үг хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "хугацаа сунгах",
+   "en": "to extend a deadline",
+   "pos": "verb phrase",
+   "example_mn": "Хугацааг нь нэг долоо хоногоор сунгаж болох уу?",
+   "example_en": "Could the deadline be extended by a week?",
+   "mn_latin": "khugatsaa sungakh"
+  },
+  {
+   "mn": "ажил хуваарилах",
+   "en": "to divide up the work, to assign tasks",
+   "pos": "verb phrase",
+   "example_mn": "Энэ ажлыг багийнхандаа хуваарилъя.",
+   "example_en": "Let's divide this work among the team.",
+   "mn_latin": "ajil khuvaarilakh"
+  },
+  {
+   "mn": "туслах хүн",
+   "en": "someone to help, an assistant",
+   "pos": "noun phrase",
+   "example_mn": "Надад туслах хүн хэрэгтэй байна.",
+   "example_en": "I need someone to help me.",
+   "mn_latin": "tuslakh khün"
+  },
+  {
+   "mn": "дарга",
+   "en": "boss, manager",
+   "pos": "noun",
+   "example_mn": "Дарга маань өнөөдөр их завгүй байна.",
+   "example_en": "My boss is very busy today.",
+   "mn_latin": "darga"
+  },
+  {
+   "mn": "ачаалал",
+   "en": "workload",
+   "pos": "noun",
+   "example_mn": "Миний ачаалал хэт их байна.",
+   "example_en": "My workload is too heavy.",
+   "mn_latin": "achaalal"
+  },
+  {
+   "mn": "нэн тэргүүний",
+   "en": "top-priority",
+   "pos": "adjective",
+   "example_mn": "Энэ бол нэн тэргүүний ажил.",
+   "example_en": "This is a top-priority task.",
+   "mn_latin": "nen tergüünii"
+  },
+  {
+   "mn": "хойшлуулах",
+   "en": "to postpone",
+   "pos": "verb",
+   "example_mn": "Уулзалтыг даваа гараг хүртэл хойшлуулъя.",
+   "example_en": "Let's postpone the meeting until Monday.",
+   "mn_latin": "khoishluulakh"
+  },
+  {
+   "mn": "зөвшөөрөх",
+   "en": "to approve, to agree to",
+   "pos": "verb",
+   "example_mn": "Дарга хүсэлтийг минь зөвшөөрсөн.",
+   "example_en": "The boss approved my request.",
+   "mn_latin": "zövshöörökh"
+  },
+  {
+   "mn": "санал болгох",
+   "en": "to propose, to suggest",
+   "pos": "verb phrase",
+   "example_mn": "Би шинэ төлөвлөгөө санал болгомоор байна.",
+   "example_en": "I'd like to propose a new plan.",
+   "mn_latin": "sanal bolgokh"
+  },
+  {
+   "mn": "хүсэлт",
+   "en": "request",
+   "pos": "noun",
+   "example_mn": "Албан ёсны хүсэлт бичих хэрэгтэй.",
+   "example_en": "You need to write an official request.",
+   "mn_latin": "khüselt"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Уучлаарай, энэ тайланг баасан гараг гэхэд дуусгаж гүйцэхгүй нь ээ.",
+   "en": "Sorry, it looks like I won't be able to finish this report by Friday.",
+   "alt_mn": [
+    "Уучлаарай, энэ тайланг баасан гараг гэхэд дуусгаж амжихгүй нь ээ."
+   ],
+   "alt_en": [
+    "Sorry, I don't think I'll manage to finish this report by Friday."
+   ],
+   "mn_latin": "Uuchlaarai, ene tailang baasan garag gekhed duusgaj güitsekhgüi ni ee."
+  },
+  {
+   "mn": "Хугацааг хоёр хоногоор сунгаж болох уу?",
+   "en": "Could you extend the deadline by two days?",
+   "alt_mn": [
+    "Хугацааг хоёр хоногоор сунгаж өгөхгүй юу?"
+   ],
+   "alt_en": [
+    "Could the deadline be extended by two days?"
+   ],
+   "mn_latin": "Khugatsaag khoyor khonogoor sungaj bolokh uu?"
+  },
+  {
+   "mn": "Бүх ажлыг ганцаараа хийж амжихгүй байх аа.",
+   "en": "I probably won't have time to do all the work by myself.",
+   "alt_mn": [
+    "Бүх ажлыг ганцаараа хийж гүйцэхгүй байх аа."
+   ],
+   "alt_en": [
+    "I probably won't manage to do all the work on my own."
+   ],
+   "mn_latin": "Bükh ajlyg gantsaaraa khiij amjikhgüi baikh aa."
+  },
+  {
+   "mn": "Энэ төслийн ажлыг Болдтой хуваалцаж болох уу?",
+   "en": "Could I share the work on this project with Bold?",
+   "alt_mn": [],
+   "alt_en": [
+    "Can I split the work on this project with Bold?"
+   ],
+   "mn_latin": "Ene tösliin ajlyg Boldtoi khuvaaltsaj bolokh uu?"
+  },
+  {
+   "mn": "Надад түр хугацаагаар туслах хүн өгч болох уу?",
+   "en": "Could you give me someone to help me for a while?",
+   "alt_mn": [],
+   "alt_en": [
+    "Could I get someone to help me for a while?"
+   ],
+   "mn_latin": "Nadad tür khugatsaagaar tuslakh khün ögch bolokh uu?"
+  },
+  {
+   "mn": "Би илүү цагаар ажиллахыг эсэргүүцэхгүй, гэхдээ амралтын өдөр ажиллаж чадахгүй.",
+   "en": "I don't object to working overtime, but I can't work on weekends.",
+   "alt_mn": [],
+   "alt_en": [
+    "I don't mind working overtime, but I can't work on weekends."
+   ],
+   "mn_latin": "Bi ilüü tsagaar ajillakhyg esergüütsekhgüi, gekhdee amraltyn ödör ajillaj chadakhgüi."
+  },
+  {
+   "mn": "Дарга шинэ хүн авах талаар бодож байгаа гэсэн.",
+   "en": "The boss said he's thinking about hiring someone new.",
+   "alt_mn": [
+    "Дарга шинэ ажилтан авах талаар бодож байгаа гэсэн."
+   ],
+   "alt_en": [
+    "The boss said she's thinking about hiring someone new."
+   ],
+   "mn_latin": "Darga shine khün avakh talaar bodoj baigaa gesen."
+  },
+  {
+   "mn": "Бид таныг энэ төслийг удирдана гэж найдаж байна.",
+   "en": "We're counting on you leading this project.",
+   "alt_mn": [],
+   "alt_en": [
+    "We're counting on you to lead this project."
+   ],
+   "mn_latin": "Bid tanyg ene tösliig udirdana gej naidaj baina."
+  },
+  {
+   "mn": "Аль ажлыг түрүүлж хийхээ хэлж өгөхгүй юу?",
+   "en": "Could you tell me which task to do first?",
+   "alt_mn": [
+    "Аль ажлыг эхэлж хийхийг хэлж өгөхгүй юу?"
+   ],
+   "alt_en": [
+    "Could you tell me which task I should do first?"
+   ],
+   "mn_latin": "Ali ajlyg türüülj khiikhee khelj ögökhgüi yuu?"
+  },
+  {
+   "mn": "Миний ачаалал сүүлийн үед хэт их болсон.",
+   "en": "My workload has gotten too heavy lately.",
+   "alt_mn": [],
+   "alt_en": [
+    "My workload has become too heavy recently."
+   ],
+   "mn_latin": "Minii achaalal süüliin üyed khet ikh bolson."
+  },
+  {
+   "mn": "Уулзалтыг дараагийн долоо хоног руу хойшлуулбал ямар вэ?",
+   "en": "How about postponing the meeting to next week?",
+   "alt_mn": [],
+   "alt_en": [
+    "What if we postpone the meeting to next week?"
+   ],
+   "mn_latin": "Uulzaltyg daraagiin doloo khonog ruu khoishluulbal yamar ve?"
+  },
+  {
+   "mn": "Дарга хүсэлтийг минь зөвшөөрч, нэг ажлыг өөр хүнд шилжүүлсэн.",
+   "en": "The boss approved my request and reassigned one task to someone else.",
+   "alt_mn": [],
+   "alt_en": [
+    "My boss agreed to my request and gave one task to someone else."
+   ],
+   "mn_latin": "Darga khüseltiig mini zövshöörch, neg ajlyg öör khünd shiljüülsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Polite refusals: -ж гүйцэхгүй нь ээ / -ж амжихгүй байх аа",
+  "title_mn": "object to / think about / count on + -ing",
+  "explain_en": "To say no to your boss without sounding blunt, Mongolians combine a verb in its -ж/-ч form with гүйцэх (to complete fully) or амжих (to make it in time). Both helpers then take a softening ending. Verb + -ж гүйцэхгүй нь ээ means 'it turns out I won't manage to finish.' The нь ээ makes it sound like a realization you've just reached, not a flat refusal. Verb + -ж амжихгүй байх аа means 'I probably won't have time.' Here байх аа adds 'probably', which leaves room for negotiation. Compare the blunt Хийхгүй ('I won't do it') with the polite Хийж амжихгүй байх аа ('I probably won't get to it in time'). Remember that -ж becomes -ч after в, г, р, с: авч, гарч.",
+  "explain_mn": "Англи хэлэнд object to, look forward to, count on, think about зэрэг хэллэгийн сүүлийн үг (to, on, about) нь угтвар үг юм. Угтвар үгийн араас үйл үг -ing хэлбэртэй ирдэг. Тиймээс I object to working late гэж хэлнэ, харин I object to work late гэвэл буруу. Мөн ижил дүрмээр We're thinking about hiring someone, You can count on me finishing it гэнэ. Count on-ийн хувьд count on someone to do something гэсэн хэлбэр ч түгээмэл: I'm counting on you to help me. Эдгээр хэллэгийг даргатайгаа ярихдаа өөрийн байр суурийг эелдэг боловч тодорхой илэрхийлэхэд ашиглаарай.",
+  "examples": [
+   {
+    "mn": "Энэ ажлыг өнөөдөр хийж гүйцэхгүй нь ээ.",
+    "en": "It looks like I won't manage to finish this today.",
+    "mn_latin": "Ene ajlyg önöödör khiij güitsekhgüi ni ee."
+   },
+   {
+    "mn": "Уулзалтад орж амжихгүй байх аа.",
+    "en": "I probably won't make it to the meeting in time.",
+    "mn_latin": "Uulzaltad orj amjikhgüi baikh aa."
+   },
+   {
+    "mn": "Би амралтын өдөр ажиллахыг эсэргүүцэж байна.",
+    "en": "I object to working on weekends.",
+    "mn_latin": "Bi amraltyn ödör ajillakhyg esergüütsej baina."
+   },
+   {
+    "mn": "Бид чамайг бидэнд тусална гэж найдаж байна.",
+    "en": "We're counting on you helping us.",
+    "mn_latin": "Bid chamaig bidend tusalna gej naidaj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ ажлыг маргааш гэхэд хийж ___ нь ээ.",
+   "answer": "гүйцэхгүй",
+   "options": [
+    "гүйцэхгүй",
+    "гүйцнэ",
+    "гүйцээд",
+    "гүйцсэн"
+   ],
+   "translation": "It looks like I won't manage to finish this by tomorrow.",
+   "explain_en": "The fixed polite refusal pattern is -ж гүйцэхгүй нь ээ: a negative future form plus нь ээ. A positive or past form doesn't fit before нь ээ in a refusal.",
+   "explain_mn": "Татгалзал илэрхийлэх тул үгүйсгэх хэлбэр гүйцэхгүй хэрэгтэй. -ж гүйцэхгүй нь ээ бол тогтсон эелдэг хэллэг юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Би өнөөдөр бүгдийг нь хийж амжихгүй ___ аа.",
+   "answer": "байх",
+   "options": [
+    "байх",
+    "байна",
+    "байсан",
+    "байгаа"
+   ],
+   "translation": "I probably won't have time to do all of it today.",
+   "explain_en": "Байх аа adds 'probably' and softens the refusal. Байна аа and байсан аа don't form this hedge.",
+   "explain_mn": "Байх аа нь 'магадгүй, байх' гэсэн таамаглал, зөөлрүүлэх утга өгнө. Бусад хэлбэр энэ утгыг илэрхийлэхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Хугацааг нэг долоо хоног___ сунгаж болох уу?",
+   "answer": "оор",
+   "options": [
+    "оор",
+    "ээр",
+    "аар",
+    "өөр"
+   ],
+   "translation": "Could the deadline be extended by one week?",
+   "explain_en": "The instrumental case -аар/-ээр/-оор/-өөр expresses 'by how much.' The last vowel in хоног is о, so vowel harmony requires -оор: хоногоор.",
+   "explain_mn": "Хэмжээ заахдаа үйлдэх тийн ялгал хэрэглэнэ. Хоног үгийн эгшиг о тул эгшиг зохицох ёсоор -оор залгана."
+  },
+  {
+   "lang": "en",
+   "text": "I object to ___ on Sundays.",
+   "answer": "working",
+   "options": [
+    "working",
+    "work",
+    "worked",
+    "works"
+   ],
+   "translation": "Би ням гарагт ажиллахыг эсэргүүцэж байна.",
+   "explain_en": "In object to, the word to is a preposition, so the verb after it takes the -ing form.",
+   "explain_mn": "Object to-гийн to бол угтвар үг тул араас нь үйл үг -ing хэлбэртэй ирнэ. Тиймээс object to work гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "We're thinking about ___ another designer.",
+   "answer": "hiring",
+   "options": [
+    "hiring",
+    "hire",
+    "hired",
+    "to hire"
+   ],
+   "translation": "Бид дахиад нэг дизайнер авах талаар бодож байна.",
+   "explain_en": "About is a preposition, and prepositions are followed by -ing verbs.",
+   "explain_mn": "About угтвар үгийн араас үйл үг -ing хэлбэртэй ирдэг. Тиймээс thinking about hiring гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "You can count ___ me finishing it on time.",
+   "answer": "on",
+   "options": [
+    "on",
+    "to",
+    "at",
+    "for"
+   ],
+   "translation": "Намайг цагтаа дуусгана гэдэгт найдаж болно.",
+   "explain_en": "The phrasal verb is count on, meaning to rely on someone.",
+   "explain_mn": "'Хэн нэгэнд найдах, итгэх' гэсэн утгатай хэллэг нь count on юм. Бусад угтвар үг энэ утгыг өгөхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Ганбат гуай, завтай бол тантай хэдэн минут ярилцаж болох уу?",
+   "en": "Mr. Ganbat, if you have a moment, could I talk with you for a few minutes?",
+   "mn_latin": "Ganbat guai, zavtai bol tantai kheden minut yariltsaj bolokh uu?"
+  },
+  {
+   "speaker": "Ганбат",
+   "mn": "Тэгэлгүй яах вэ. Юу болов?",
+   "en": "Of course. What's up?",
+   "mn_latin": "Tegelgüi yaakh ve. Yuu bolov?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Үнэнийг хэлэхэд, жилийн эцсийн тайланг баасан гараг гэхэд дуусгаж гүйцэхгүй нь ээ. Ачаалал хэт их байна.",
+   "en": "To be honest, it looks like I won't be able to finish the year-end report by Friday. The workload is too heavy.",
+   "mn_latin": "Üneniig khelekhed, jiliin etssiin tailang baasan garag gekhed duusgaj güitsekhgüi ni ee. Achaalal khet ikh baina."
+  },
+  {
+   "speaker": "Ганбат",
+   "mn": "Ойлголоо. Хугацааг сунгах уу, эсвэл ажлыг хуваарилах уу?",
+   "en": "I see. Should we extend the deadline or divide up the work?",
+   "mn_latin": "Oilgoloo. Khugatsaag sungakh uu, esvel ajlyg khuvaarilakh uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Би илүү цагаар ажиллахыг эсэргүүцэхгүй, гэхдээ ганцаараа амжихгүй байх аа. Надад туслах хүн хэрэгтэй байна.",
+   "en": "I don't object to working late, but I probably won't make it on my own. I need someone to help me.",
+   "mn_latin": "Bi ilüü tsagaar ajillakhyg esergüütsekhgüi, gekhdee gantsaaraa amjikhgüi baikh aa. Nadad tuslakh khün kheregtei baina."
+  },
+  {
+   "speaker": "Ганбат",
+   "mn": "Тэгвэл Тэмүүлэн чамд туслаг. Хугацааг даваа гараг хүртэл сунгая.",
+   "en": "Then let Temuulen help you. We'll extend the deadline until Monday.",
+   "mn_latin": "Tegvel Temüülen chamd tuslag. Khugatsaag davaa garag khürtel sungaya."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Их баярлалаа. Даваа гэхэд заавал дуусгана.",
+   "en": "Thank you so much. I'll definitely finish it by Monday.",
+   "mn_latin": "Ikh bayarlalaa. Davaa gekhed zaaval duusgana."
+  },
+  {
+   "speaker": "Ганбат",
+   "mn": "За, би чамд найдаж байна шүү.",
+   "en": "All right, I'm counting on you.",
+   "mn_latin": "Za, bi chamd naidaj baina shüü."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian workplaces tend to be fairly hierarchical, so people often address a senior manager with гуай after the name and use the polite та. A flat \"no\" can sound rude. Softened phrases like -ж амжихгүй байх аа, ideally paired with a proposed solution such as a new deadline or a helper, keep the conversation respectful and cooperative.",
+  "mn": "Монголын ажлын байранд албан тушаалын шатлалыг харьцангуй чухалчилдаг тул ахлах удирдлагыг нэрийн араас гуай гэж нэрлэж, та гэж хүндэтгэн хандах нь түгээмэл. Шууд \"үгүй\" гэвэл бүдүүлэг сонсогдож болно. Тиймээс -ж амжихгүй байх аа гэх мэт зөөлөн хэллэг хэрэглэж, шинэ хугацаа эсвэл туслах хүн гэх мэт шийдэл санал болгох нь харилцааг хүндэтгэлтэй, хамтын ажиллагаатай байлгадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A solid, accurate lesson. The only real issues were a case error in the Mongolian intro and a non-standard word in the culture note."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is mostly accurate. The grammar section is split on purpose: explain_en covers the Mongolian refusals and explain_mn covers the English -ing pattern, which matches the intro.",
+  "changes": [
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "The English says 'helping us', but the Mongolian had no 'us'; added бидэнд so the pair matches."
+   }
+  ]
+ }
+}

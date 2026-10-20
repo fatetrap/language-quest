@@ -1,0 +1,396 @@
+{
+ "intro_en": "You will learn to correct statements about days and weather using биш (isn't / aren't) and to answer questions with тийм and үгүй. You will also practice isn't, aren't and short negative answers in English.",
+ "intro_mn": "Та өдөр, цаг агаарын тухай буруу мэдэгдлийг \"биш\" гэж засаж, \"тийм\", \"үгүй\" гэж хариулахыг сурна. Мөн англи хэлний isn't, aren't болон богино үгүйсгэсэн хариултын дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "биш",
+   "en": "not / isn't",
+   "pos": "particle",
+   "example_mn": "Энэ Даваа биш.",
+   "example_en": "It isn't Monday.",
+   "mn_latin": "bish"
+  },
+  {
+   "mn": "тийм",
+   "en": "yes / that's right",
+   "pos": "particle",
+   "example_mn": "Тийм, өнөөдөр Мягмар.",
+   "example_en": "Yes, today is Tuesday.",
+   "mn_latin": "tiim"
+  },
+  {
+   "mn": "үгүй",
+   "en": "no",
+   "pos": "particle",
+   "example_mn": "Үгүй, өнөөдөр Лхагва биш.",
+   "example_en": "No, today isn't Wednesday.",
+   "mn_latin": "ügüi"
+  },
+  {
+   "mn": "өнөөдөр",
+   "en": "today",
+   "pos": "adverb",
+   "example_mn": "Өнөөдөр хүйтэн биш.",
+   "example_en": "It isn't cold today.",
+   "mn_latin": "önöödör"
+  },
+  {
+   "mn": "хүйтэн",
+   "en": "cold",
+   "pos": "adjective",
+   "example_mn": "Өвөл хүйтэн.",
+   "example_en": "Winter is cold.",
+   "mn_latin": "khüiten"
+  },
+  {
+   "mn": "халуун",
+   "en": "hot",
+   "pos": "adjective",
+   "example_mn": "Зун халуун.",
+   "example_en": "Summer is hot.",
+   "mn_latin": "khaluun"
+  },
+  {
+   "mn": "муу",
+   "en": "bad",
+   "pos": "adjective",
+   "example_mn": "Цаг агаар муу биш.",
+   "example_en": "The weather isn't bad.",
+   "mn_latin": "muu"
+  },
+  {
+   "mn": "сайн",
+   "en": "good",
+   "pos": "adjective",
+   "example_mn": "Өнөөдөр цаг агаар сайн.",
+   "example_en": "The weather is good today.",
+   "mn_latin": "sain"
+  },
+  {
+   "mn": "цаг агаар",
+   "en": "weather",
+   "pos": "noun",
+   "example_mn": "Цаг агаар ямар вэ?",
+   "example_en": "What's the weather like?",
+   "mn_latin": "tsag agaar"
+  },
+  {
+   "mn": "Даваа",
+   "en": "Monday",
+   "pos": "noun",
+   "example_mn": "Маргааш Даваа.",
+   "example_en": "Tomorrow is Monday.",
+   "mn_latin": "Davaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөөдөр Даваа биш.",
+   "en": "Today isn't Monday.",
+   "alt_mn": [],
+   "alt_en": [
+    "It isn't Monday today."
+   ],
+   "mn_latin": "Önöödör Davaa bish."
+  },
+  {
+   "mn": "Өнөөдөр хүйтэн биш.",
+   "en": "It isn't cold today.",
+   "alt_mn": [
+    "Өнөөдөр хүйтэн биш шүү."
+   ],
+   "alt_en": [
+    "Today isn't cold."
+   ],
+   "mn_latin": "Önöödör khüiten bish."
+  },
+  {
+   "mn": "Цаг агаар муу биш.",
+   "en": "The weather isn't bad.",
+   "alt_mn": [],
+   "alt_en": [
+    "The weather is not bad."
+   ],
+   "mn_latin": "Tsag agaar muu bish."
+  },
+  {
+   "mn": "Өнөөдөр Мягмар уу?",
+   "en": "Is today Tuesday?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Önöödör Myagmar uu?"
+  },
+  {
+   "mn": "Үгүй, өнөөдөр Мягмар биш.",
+   "en": "No, today isn't Tuesday.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ügüi, önöödör Myagmar bish."
+  },
+  {
+   "mn": "Тийм, өнөөдөр Лхагва.",
+   "en": "Yes, today is Wednesday.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, it is Wednesday today."
+   ],
+   "mn_latin": "Tiim, önöödör Lkhagva."
+  },
+  {
+   "mn": "Зун хүйтэн биш, халуун.",
+   "en": "Summer isn't cold, it's hot.",
+   "alt_mn": [],
+   "alt_en": [
+    "Summer is not cold. It is hot."
+   ],
+   "mn_latin": "Zun khüiten bish, khaluun."
+  },
+  {
+   "mn": "Өвөл халуун биш, хүйтэн.",
+   "en": "Winter isn't hot, it's cold.",
+   "alt_mn": [],
+   "alt_en": [
+    "Winter is not hot. It is cold."
+   ],
+   "mn_latin": "Övöl khaluun bish, khüiten."
+  },
+  {
+   "mn": "Өнөөдөр цаг агаар сайн уу?",
+   "en": "Is the weather good today?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Önöödör tsag agaar sain uu?"
+  },
+  {
+   "mn": "Үгүй, сайн биш.",
+   "en": "No, it isn't good.",
+   "alt_mn": [
+    "Үгүй, сайн биш байна."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ügüi, sain bish."
+  },
+  {
+   "mn": "Маргааш Бямба биш, Ням.",
+   "en": "Tomorrow isn't Saturday, it's Sunday.",
+   "alt_mn": [],
+   "alt_en": [
+    "Tomorrow is not Saturday. It is Sunday."
+   ],
+   "mn_latin": "Margaash Byamba bish, Nyam."
+  },
+  {
+   "mn": "Эдгээр өдрүүд хүйтэн биш.",
+   "en": "These days aren't cold.",
+   "alt_mn": [],
+   "alt_en": [
+    "These days are not cold."
+   ],
+   "mn_latin": "Edgeer ödrüüd khüiten bish."
+  }
+ ],
+ "grammar": {
+  "title_en": "Saying \"isn't\": биш",
+  "title_mn": "Үгүйсгэх нь: биш ба isn't / aren't",
+  "explain_en": "To say something is not true, put биш after the noun or adjective: Энэ Даваа биш (It isn't Monday), Өнөөдөр хүйтэн биш (It isn't cold today). Биш stays the same for every person and number. English changes the verb: is not = isn't (with he, she, it and singular nouns) and are not = aren't (with we, you, they and plural nouns): It isn't Monday. The days aren't cold. For yes/no questions with \"уу/үү\", answer Тийм (yes) or Үгүй (no): Хүйтэн үү? – Үгүй, хүйтэн биш. Үгүй alone means \"no\". Биш negates the word before it. English short answers: Is it cold? – No, it isn't. / Yes, it is.",
+  "explain_mn": "Монгол хэлэнд нэр үг, тэмдэг нэрийн ард \"биш\" нэмж үгүйсгэнэ: Энэ Даваа биш. Өнөөдөр хүйтэн биш. \"Биш\" бүх биед, ганц болон олон тоонд адилхан. Англи хэлэнд үйл үг өөрчлөгддөг: is not = isn't (he, she, it болон ганц тооны нэр үгтэй), are not = aren't (we, you, they болон олон тооны нэр үгтэй): It isn't Monday. The days aren't cold. \"уу/үү\"-тэй асуултад \"Тийм\" эсвэл \"Үгүй\" гэж хариулна: Хүйтэн үү? – Үгүй, хүйтэн биш. \"Үгүй\" дангаараа \"no\" гэсэн утгатай. \"Биш\" өмнөх үгээ үгүйсгэнэ. Англи богино хариулт: Is it cold? – No, it isn't. / Yes, it is.",
+  "examples": [
+   {
+    "mn": "Энэ Даваа биш.",
+    "en": "It isn't Monday.",
+    "mn_latin": "Ene Davaa bish."
+   },
+   {
+    "mn": "Өнөөдөр хүйтэн биш.",
+    "en": "It isn't cold today.",
+    "mn_latin": "Önöödör khüiten bish."
+   },
+   {
+    "mn": "Хүйтэн үү? – Үгүй, хүйтэн биш.",
+    "en": "Is it cold? – No, it isn't.",
+    "mn_latin": "Khüiten üü? – Ügüi, khüiten bish."
+   },
+   {
+    "mn": "Эдгээр өдрүүд халуун биш.",
+    "en": "These days aren't hot.",
+    "mn_latin": "Edgeer ödrüüd khaluun bish."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өнөөдөр Лхагва ___.",
+   "answer": "биш",
+   "options": [
+    "биш",
+    "үгүй",
+    "тийм",
+    "муу"
+   ],
+   "translation": "Today isn't Wednesday.",
+   "explain_en": "Use биш after a noun to say 'isn't'. Үгүй means 'no' as an answer, not 'isn't'.",
+   "explain_mn": "Нэр үгийн ард \"биш\" орж үгүйсгэнэ. \"Үгүй\" бол хариулах үг."
+  },
+  {
+   "lang": "mn",
+   "text": "Өнөөдөр хүйтэн үү? – ___, хүйтэн.",
+   "answer": "Тийм",
+   "options": [
+    "Тийм",
+    "Үгүй",
+    "Биш",
+    "Халуун"
+   ],
+   "translation": "Is it cold today? – Yes, it's cold.",
+   "explain_en": "The answer confirms that it is cold, so use Тийм (yes).",
+   "explain_mn": "Хариулт нь баталж байгаа учир \"Тийм\" гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Цаг агаар муу ___, сайн.",
+   "answer": "биш",
+   "options": [
+    "биш",
+    "тийм",
+    "үгүй",
+    "халуун"
+   ],
+   "translation": "The weather isn't bad, it's good.",
+   "explain_en": "Биш follows the adjective муу to negate it.",
+   "explain_mn": "\"Муу\" тэмдэг нэрийн ард \"биш\" орж үгүйсгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ Monday today.",
+   "answer": "isn't",
+   "options": [
+    "isn't",
+    "aren't",
+    "don't",
+    "no"
+   ],
+   "translation": "Өнөөдөр Даваа биш.",
+   "explain_en": "'It' is singular, so use isn't.",
+   "explain_mn": "\"It\" нэг тоо тул isn't хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The days ___ cold in summer.",
+   "answer": "aren't",
+   "options": [
+    "aren't",
+    "isn't",
+    "doesn't",
+    "not"
+   ],
+   "translation": "Зун өдрүүд хүйтэн биш.",
+   "explain_en": "'The days' is plural, so use aren't.",
+   "explain_mn": "\"The days\" олон тоо тул aren't хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Is it hot today? – No, it ___.",
+   "answer": "isn't",
+   "options": [
+    "isn't",
+    "aren't",
+    "doesn't",
+    "not"
+   ],
+   "translation": "Өнөөдөр халуун уу? – Үгүй, халуун биш.",
+   "explain_en": "A short negative answer repeats is + n't: No, it isn't.",
+   "explain_mn": "Богино үгүйсгэсэн хариулт: No, it isn't."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Өнөөдөр Даваа гараг уу?",
+   "en": "Is today Monday?",
+   "mn_latin": "Önöödör Davaa garag uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Үгүй, Даваа биш. Өнөөдөр Мягмар.",
+   "en": "No, it isn't Monday. Today is Tuesday.",
+   "mn_latin": "Ügüi, Davaa bish. Önöödör Myagmar."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Аа, тийм ээ. Өнөөдөр хүйтэн үү?",
+   "en": "Oh, right. Is it cold today?",
+   "mn_latin": "Aa, tiim ee. Önöödör khüiten üü?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Үгүй, хүйтэн биш.",
+   "en": "No, it isn't cold.",
+   "mn_latin": "Ügüi, khüiten bish."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл халуун уу?",
+   "en": "Then is it hot?",
+   "mn_latin": "Tegvel khaluun uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Халуун ч биш. Цаг агаар муу биш.",
+   "en": "It isn't hot either. The weather isn't bad.",
+   "mn_latin": "Khaluun ch bish. Tsag agaar muu bish."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Сайхан байна. Гарч алхъя!",
+   "en": "Great. Let's go for a walk!",
+   "mn_latin": "Saikhan baina. Garch alkhya!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar the weather can change quickly, so people often talk about it, even to correct each other: \"It isn't that cold today!\" Winters can reach -30°C, so a day around 0°C feels almost warm. Mongolians often say \"Өнөөдөр дулаахан байна\" (It's fairly warm today) when the temperature rises a little.",
+  "mn": "Улаанбаатарт цаг агаар хурдан өөрчлөгддөг тул хүмүүс энэ тухай байнга ярьж, бие биенээ ч засдаг: \"Өнөөдөр тийм ч хүйтэн биш шүү!\" Өвөл агаарын хэм -30°C хүртэл буурдаг учир 0°C орчим өдөр бараг дулаан санагддаг. Агаарын хэм бага зэрэг дулаарахад монголчууд \"Өнөөдөр дулаахан байна\" гэж их хэлдэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 20,
+  "notes": "Mostly correct vocabulary and sentences, but the grammar explanations were muddled and several alternate answers were not true equivalents; several entries in the fixes list are no-op confirmations."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 5,
+  "notes": "The grammar explanations were misaligned and slightly inaccurate. Also fixed the culture note mismatch and an unnatural dialogue line.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Make en and mn say the same thing. 'You' takes aren't, so 'isn't = singular' was misleading."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Align with the en version. The old text treated 'you' as plural only."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'Сайн байна' reads as a greeting. 'Гарч алхъя' is the natural way to say 'let's go for a walk'."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Wording fixed ('хүйтэн ... буурдаг'). Added the missing content so it matches the en note."
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'дадлага хийнэ' is more natural than 'дадлагажина'."
+   }
+  ]
+ }
+}

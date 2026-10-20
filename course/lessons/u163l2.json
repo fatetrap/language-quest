@@ -1,0 +1,433 @@
+{
+ "intro_en": "Learn to call a karaoke place and book a room: ask about times, package prices, microphones, and song choices. You'll also use the Mongolian suffix -цгаа- to say that a whole group is going to do something or is doing it right now.",
+ "intro_mn": "Караоке руу залгаж өрөө захиалж сурна. Цаг, багц үнэ, микрофон, дуу сонгох талаар асууна. Мөн англи хэлний Wh- асуултын төгсгөлд угтвар үг үлддэг онцлогийг (What time is it booked for?) сурна.",
+ "vocab": [
+  {
+   "mn": "өрөө",
+   "en": "room",
+   "pos": "noun",
+   "example_mn": "Өнөө орой том өрөө сул байна уу?",
+   "example_en": "Is there a big room available tonight?",
+   "mn_latin": "öröö"
+  },
+  {
+   "mn": "захиалга",
+   "en": "reservation, booking",
+   "pos": "noun",
+   "example_mn": "Би захиалга өгмөөр байна.",
+   "example_en": "I'd like to make a reservation.",
+   "mn_latin": "zakhialga"
+  },
+  {
+   "mn": "микрофон",
+   "en": "microphone",
+   "pos": "noun",
+   "example_mn": "Өрөөнд хоёр микрофон байдаг.",
+   "example_en": "The room has two microphones.",
+   "mn_latin": "mikrofon"
+  },
+  {
+   "mn": "дуу сонгох",
+   "en": "to choose a song",
+   "pos": "verb phrase",
+   "example_mn": "Та эхлээд дуугаа сонгоорой.",
+   "example_en": "Please choose your song first.",
+   "mn_latin": "duu songokh"
+  },
+  {
+   "mn": "багц үнэ",
+   "en": "package price",
+   "pos": "noun phrase",
+   "example_mn": "Гурван цагийн багц үнэ хэд вэ?",
+   "example_en": "How much is the three-hour package?",
+   "mn_latin": "bagts üne"
+  },
+  {
+   "mn": "сул",
+   "en": "available, free",
+   "pos": "adjective",
+   "example_mn": "Есөн цагт сул өрөө байна.",
+   "example_en": "There's a room available at nine.",
+   "mn_latin": "sul"
+  },
+  {
+   "mn": "урьдчилгаа",
+   "en": "deposit, advance payment",
+   "pos": "noun",
+   "example_mn": "Урьдчилгаа төлөх шаардлагатай юу?",
+   "example_en": "Do I need to pay a deposit?",
+   "mn_latin": "uridchilgaa"
+  },
+  {
+   "mn": "сунгах",
+   "en": "to extend",
+   "pos": "verb",
+   "example_mn": "Бид нэг цагаар сунгаж болох уу?",
+   "example_en": "Can we extend by an hour?",
+   "mn_latin": "sungakh"
+  },
+  {
+   "mn": "дуулцгаах",
+   "en": "to sing (as a group, all together)",
+   "pos": "verb",
+   "example_mn": "Өнөө орой бид бүгдээрээ дуулцгаана.",
+   "example_en": "We're all going to sing tonight.",
+   "mn_latin": "duultsgaakh"
+  },
+  {
+   "mn": "хүлээцгээх",
+   "en": "to wait (as a group, all of them)",
+   "pos": "verb",
+   "example_mn": "Найзууд маань гадаа хүлээцгээж байна.",
+   "example_en": "My friends are all waiting outside.",
+   "mn_latin": "khüleetsgeekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сайн байна уу, өнөө орой караоке өрөө захиалах гэсэн юм.",
+   "en": "Hello, I'd like to book a karaoke room for tonight.",
+   "alt_mn": [
+    "Сайн байна уу, өнөө орой караоке өрөө захиалмаар байна."
+   ],
+   "alt_en": [
+    "Hi, I'd like to reserve a karaoke room for tonight."
+   ],
+   "mn_latin": "Sain baina uu, önöö oroi karaokye öröö zakhialakh gesen yum."
+  },
+  {
+   "mn": "Хэдэн хүний өрөө вэ?",
+   "en": "How many people is it for?",
+   "alt_mn": [
+    "Хэдэн хүн байх вэ?"
+   ],
+   "alt_en": [
+    "How many people is the room for?",
+    "How many people will there be?"
+   ],
+   "mn_latin": "Kheden khünii öröö ve?"
+  },
+  {
+   "mn": "Бид найман хүн есөн цагаас дуулцгаах гэж байна.",
+   "en": "There are eight of us, and we're going to sing from nine.",
+   "alt_mn": [
+    "Бид найман хүн есөн цагаас дуулах гэж байна."
+   ],
+   "alt_en": [
+    "Eight of us are going to sing starting at nine."
+   ],
+   "mn_latin": "Bid naiman khün yesön tsagaas duultsgaakh gej baina."
+  },
+  {
+   "mn": "Хэдэн цагт захиалсан бэ?",
+   "en": "What time is it booked for?",
+   "alt_mn": [
+    "Захиалга хэдэн цагт вэ?"
+   ],
+   "alt_en": [
+    "What time is the booking for?"
+   ],
+   "mn_latin": "Kheden tsagt zakhialsan be?"
+  },
+  {
+   "mn": "Гурван цагийн багц үнэ хэд вэ?",
+   "en": "How much is the three-hour package?",
+   "alt_mn": [
+    "Гурван цагийн багц ямар үнэтэй вэ?"
+   ],
+   "alt_en": [
+    "What's the price of the three-hour package?"
+   ],
+   "mn_latin": "Gurvan tsagiin bagts üne khed ve?"
+  },
+  {
+   "mn": "Багцад юу юу ордог вэ?",
+   "en": "What does the package come with?",
+   "alt_mn": [
+    "Багц үнэд юу юу багтдаг вэ?"
+   ],
+   "alt_en": [
+    "What's included in the package?"
+   ],
+   "mn_latin": "Bagtsad yuu yuu ordog ve?"
+  },
+  {
+   "mn": "Найзууд маань аль хэдийн хаалганы гадаа хүлээцгээж байна.",
+   "en": "My friends are already waiting outside the door.",
+   "alt_mn": [
+    "Найзууд маань хэдийнэ хаалганы гадаа хүлээцгээж байна."
+   ],
+   "alt_en": [
+    "My friends are all already waiting outside the door."
+   ],
+   "mn_latin": "Naizuud maani ali khediin khaalgany gadaa khüleetsgeej baina."
+  },
+  {
+   "mn": "Өрөөнд хэдэн микрофон байдаг вэ?",
+   "en": "How many microphones does the room have?",
+   "alt_mn": [
+    "Өрөө хэдэн микрофонтой вэ?"
+   ],
+   "alt_en": [
+    "How many microphones are there in the room?"
+   ],
+   "mn_latin": "Öröönd kheden mikrofon baidag ve?"
+  },
+  {
+   "mn": "Англи дуу сонгож болох уу?",
+   "en": "Can we choose English songs?",
+   "alt_mn": [
+    "Англи дуу сонгох боломжтой юу?"
+   ],
+   "alt_en": [
+    "Are we able to pick English songs?"
+   ],
+   "mn_latin": "Angli duu songoj bolokh uu?"
+  },
+  {
+   "mn": "Хүмүүс аль хэдийн дуулцгааж байна, хурдан ирээрэй.",
+   "en": "Everyone's already singing, so come quickly.",
+   "alt_mn": [
+    "Бүгд аль хэдийн дуулцгааж байна, хурдан ирээрэй."
+   ],
+   "alt_en": [
+    "Everybody's already singing, hurry up and come."
+   ],
+   "mn_latin": "Khümüüs ali khediin duultsgaaj baina, khurdan ireerei."
+  },
+  {
+   "mn": "Хэний нэр дээр захиалах вэ?",
+   "en": "What name should I put the booking under?",
+   "alt_mn": [
+    "Захиалгыг хэний нэр дээр хийх вэ?"
+   ],
+   "alt_en": [
+    "Whose name should I put the booking under?",
+    "What name should I book it under?"
+   ],
+   "mn_latin": "Khenii ner deer zakhialakh ve?"
+  },
+  {
+   "mn": "Бид нэг цагаар сунгаж болох уу?",
+   "en": "Can we extend by an hour?",
+   "alt_mn": [
+    "Нэг цаг сунгаж болох уу?"
+   ],
+   "alt_en": [
+    "Could we extend for one more hour?"
+   ],
+   "mn_latin": "Bid neg tsagaar sungaj bolokh uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Group action with -цгаа- / Prepositions at the end of English questions",
+  "title_mn": "-цгаа- нөхцөл / Англи асуултын төгсгөлийн угтвар үг",
+  "explain_en": "Mongolian adds -цгаа- to a verb stem to show that several people are all doing the action together. It follows vowel harmony: -цгаа- (дуулцгаах), -цгээ- (хүлээцгээх), -цгоо- (орцгоох), -цгөө- (өгцгөөх). It combines with other endings as usual: for intention, use the infinitive plus гэж байна (дуулцгаах гэж байна, 'we're all going to sing'). For something happening right now, use -ж/-ч байна (хүлээцгээж байна, 'they're all waiting'). It's like adding 'all' or 'together' to the verb.",
+  "explain_mn": "Англи хэлэнд Wh- асуулт (what, who, how many) үүсгэхэд угтвар үг (for, with, under, about) асуултын эхэнд биш, өгүүлбэрийн төгсгөлд үлддэг. Жишээ нь 'The room is for eight people' гэдгээс 'How many people is the room for?' болно. 'For how many people...' гэж хэлж болох ч ярианд хэт албархаг сонсогдоно. Монголоор 'хэдэн хүний', 'хэний нэр дээр' гэж асуух үед англиар угтвар үгийг төгсгөлд нь тавина.",
+  "examples": [
+   {
+    "mn": "Бид бүгдээрээ дуулцгаах гэж байна.",
+    "en": "We're all going to sing.",
+    "mn_latin": "Bid bügdeeree duultsgaakh gej baina."
+   },
+   {
+    "mn": "Тэд үүдэнд хүлээцгээж байна.",
+    "en": "They're all waiting at the entrance.",
+    "mn_latin": "Ted üüdend khüleetsgeej baina."
+   },
+   {
+    "mn": "Энэ өрөө хэдэн хүний өрөө вэ?",
+    "en": "How many people is this room for?",
+    "mn_latin": "Ene öröö kheden khünii öröö ve?"
+   },
+   {
+    "mn": "Та хэнтэй караоке явах гэж байна?",
+    "en": "Who are you going to karaoke with?",
+    "mn_latin": "Ta khentei karaokye yavakh gej baina?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Найзууд маань гадаа хүлээ___ж байна.",
+   "answer": "цгээ",
+   "options": [
+    "цгээ",
+    "цгаа",
+    "цгоо",
+    "цгөө"
+   ],
+   "translation": "My friends are all waiting outside.",
+   "explain_en": "The stem хүлээ- has front vowels (ү, ээ), so vowel harmony requires -цгээ-.",
+   "explain_mn": "Хүлээ- үйл үг эм үгийн эгшигтэй тул эгшиг зохицох ёсоор -цгээ- залгана."
+  },
+  {
+   "mn": "",
+   "lang": "mn",
+   "text": "Бид өнөө орой дуулцгаах ___ байна.",
+   "answer": "гэж",
+   "options": [
+    "гэж",
+    "гэхэд",
+    "гэсэн",
+    "гэх"
+   ],
+   "translation": "We're all going to sing tonight.",
+   "explain_en": "Intention uses the infinitive + гэж байна: дуулцгаах гэж байна = 'we're all planning to sing.'",
+   "explain_mn": "Санаа зорилгыг 'үйл үг + -х гэж байна' хэлбэрээр илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Гурван цагийн ___ үнэ хэд вэ?",
+   "answer": "багц",
+   "options": [
+    "багц",
+    "урьдчилгаа",
+    "микрофон",
+    "сул"
+   ],
+   "translation": "How much is the three-hour package?",
+   "explain_en": "Багц үнэ means 'package price.' Karaoke places often sell rooms in time packages.",
+   "explain_mn": "'Багц үнэ' нь хэдэн цаг, ундаа зэргийг багтаасан нэгдсэн үнэ юм."
+  },
+  {
+   "lang": "en",
+   "text": "How many people is the room ___?",
+   "answer": "for",
+   "options": [
+    "for",
+    "to",
+    "with",
+    "at"
+   ],
+   "translation": "Өрөө хэдэн хүний өрөө вэ?",
+   "explain_en": "'The room is for eight people' becomes a question with 'for' left at the end.",
+   "explain_mn": "'The room is for eight people' гэдгээс асуулт үүсгэхэд 'for' төгсгөлдөө үлдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "What name is the booking ___?",
+   "answer": "under",
+   "options": [
+    "under",
+    "on",
+    "at",
+    "with"
+   ],
+   "translation": "Захиалга хэний нэр дээр байгаа вэ?",
+   "explain_en": "In English, a booking is 'under' a name. In questions, 'under' moves to the end.",
+   "explain_mn": "Англиар захиалгыг хэний нэр дээр байгааг 'under' угтвар үгээр илэрхийлдэг ('under Saruul'). Асуултад энэ угтвар үг төгсгөлд гарна."
+  },
+  {
+   "lang": "en",
+   "text": "Who are you going to karaoke ___ tonight?",
+   "answer": "with",
+   "options": [
+    "with",
+    "to",
+    "for",
+    "about"
+   ],
+   "translation": "Өнөө орой хэнтэй караоке явах гэж байна?",
+   "explain_en": "'Going with someone' becomes 'Who are you going with?' The preposition stays after the verb phrase instead of moving to the front with 'who'.",
+   "explain_mn": "'Хэнтэй' гэдгийг англиар 'who ... with' гэж илэрхийлдэг. 'With' нь асуултын эхэнд 'who'-тэй хамт гарахгүй, үйл үгийн араас үлддэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Сайн байна уу, «Мелоди» караоке байна.",
+   "en": "Hello, Melody Karaoke.",
+   "mn_latin": "Sain baina uu, «Myelodi» karaokye baina."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Сайн байна уу. Өнөө орой өрөө захиалах гэсэн юм. Сул өрөө байна уу?",
+   "en": "Hello. I'd like to book a room for tonight. Do you have one available?",
+   "mn_latin": "Sain baina uu. Önöö oroi öröö zakhialakh gesen yum. Sul öröö baina uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Байгаа. Хэдэн хүний өрөө вэ, хэдэн цагаас вэ?",
+   "en": "We do. How many people is it for, and what time is it for?",
+   "mn_latin": "Baigaa. Kheden khünii öröö ve, kheden tsagaas ve?"
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Бид арван хүн есөн цагаас дуулцгаах гэж байна.",
+   "en": "There are ten of us, and we're going to sing from nine.",
+   "mn_latin": "Bid arvan khün yesön tsagaas duultsgaakh gej baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Арван хүнд том өрөө тохирно. Гурван цагийн багц үнэ хоёр зуун мянган төгрөг, ундаа, жимс багтсан.",
+   "en": "A big room works for ten. The three-hour package is two hundred thousand tögrög, with drinks and fruit included.",
+   "mn_latin": "Arvan khünd tom öröö tokhirno. Gurvan tsagiin bagts üne khoyor zuun myangan tögrög, undaa, jims bagtsan."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Сайн байна. Өрөөнд хэдэн микрофон байдаг вэ? Англи дуу сонгож болох уу?",
+   "en": "Great. How many microphones does the room have? Can we choose English songs?",
+   "mn_latin": "Sain baina. Öröönd kheden mikrofon baidag ve? Angli duu songoj bolokh uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Дөрвөн микрофонтой. Англи, солонгос дуу ч их бий. Хэний нэр дээр захиалах вэ?",
+   "en": "It has four microphones, and there are lots of English and Korean songs too. What name should I put it under?",
+   "mn_latin": "Dörvön mikrofontoi. Angli, solongos duu ch ikh bii. Khenii ner deer zakhialakh ve?"
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Саруул гэдэг нэр дээр. Найзууд маань хариуг хүлээцгээж байна, баярлалаа!",
+   "en": "Under Saruul. My friends are all waiting to hear back. Thank you!",
+   "mn_latin": "Saruul gedeg ner deer. Naizuud maani khariug khüleetsgeej baina, bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "Karaoke is one of the most popular nights out in Ulaanbaatar, for birthdays, work parties, and reunions alike. Rooms are usually rented by the hour, and many places offer package prices with drinks and snacks included. On weekends, it's smart to call ahead and book, because big rooms fill up fast.",
+  "mn": "Улаанбаатарт караоке бол төрсөн өдөр, ажлын үдэшлэг, ангийн уулзалтын хамгийн түгээмэл газрын нэг. Өрөөг ихэвчлэн цагаар түрээслэх ба олон газар ундаа, зууштай багц үнэ санал болгодог. Амралтын өдрүүдэд том өрөө хурдан дүүрдэг тул урьдчилан залгаж захиалах нь зүйтэй."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "Solid lesson with natural Mongolian and correct vowel harmony; fixes are only small inaccuracies in the fill-in-the-blank explanations."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "Generally solid lesson. Fixed two fill-in-the-blanks that had more than one correct option, mismatched English alternatives, one garbled Mongolian explanation, and one unnatural word in the culture note.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "The old alternatives asked about an existing booking. The Mongolian захиалах вэ asks about the booking being made now."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'дуулцгаах гээд байна' is also grammatical colloquially ('keep trying to sing'), so the blank had two correct answers."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'What name is the booking in?' is also used ('in the name of'), so the blank had two correct answers."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_mn",
+    "why": "The old sentence was garbled ('нэр дээр гэхдээ')."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'ажлын үдэшлэг' is the natural term for a work party; 'цэнгүүн' sounds like a formal feast."
+   }
+  ]
+ }
+}

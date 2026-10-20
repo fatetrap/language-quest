@@ -1,0 +1,514 @@
+{
+ "intro_en": "You will learn to listen to voicemails and texts and pass the message on to someone else. You will also practice the Mongolian pattern 'ирнэ гэсэн захиа' and how English changes 'today', 'tomorrow' and 'here' in reported speech.",
+ "intro_mn": "Та утсаар үлдээсэн захиас, мессежийг сонсоод, бусдад дамжуулж сурна. Мөн монгол хэлний «ирнэ гэсэн захиа» хэлбэр болон англи хэлний шууд бус ярианд «today», «tomorrow», «here» гэх мэт үгс хэрхэн өөрчлөгддөгийг дадлагажина.",
+ "vocab": [
+  {
+   "mn": "үлдээх",
+   "en": "to leave (a message)",
+   "pos": "verb",
+   "example_mn": "Би танд захиас үлдээсэн.",
+   "example_en": "I left you a message.",
+   "mn_latin": "üldeekh"
+  },
+  {
+   "mn": "дамжуулах",
+   "en": "to pass on",
+   "pos": "verb",
+   "example_mn": "Энэ захиасыг багшид дамжуулаарай.",
+   "example_en": "Please pass this message on to the teacher.",
+   "mn_latin": "damjuulakh"
+  },
+  {
+   "mn": "дахин залгах",
+   "en": "to call back",
+   "pos": "verb",
+   "example_mn": "Тэр орой дахин залгана гэсэн.",
+   "example_en": "He said he would call back in the evening.",
+   "mn_latin": "dakhin zalgakh"
+  },
+  {
+   "mn": "уулзалт",
+   "en": "meeting",
+   "pos": "noun",
+   "example_mn": "Маргааш өглөө уулзалт байна.",
+   "example_en": "There is a meeting tomorrow morning.",
+   "mn_latin": "uulzalt"
+  },
+  {
+   "mn": "цуцлах",
+   "en": "to cancel",
+   "pos": "verb",
+   "example_mn": "Тэд уулзалтыг цуцалсан.",
+   "example_en": "They canceled the meeting.",
+   "mn_latin": "tsutslakh"
+  },
+  {
+   "mn": "дуут шуудан",
+   "en": "voicemail",
+   "pos": "noun",
+   "example_mn": "Миний дуут шуудан дүүрсэн байна.",
+   "example_en": "My voicemail is full.",
+   "mn_latin": "duut shuudan"
+  },
+  {
+   "mn": "эцсийн хугацаа",
+   "en": "deadline",
+   "pos": "noun",
+   "example_mn": "Тайлангийн эцсийн хугацаа баасан гараг.",
+   "example_en": "The deadline for the report is Friday.",
+   "mn_latin": "etssiin khugatsaa"
+  },
+  {
+   "mn": "хойшлуулах",
+   "en": "to postpone",
+   "pos": "verb",
+   "example_mn": "Дарга уулзалтыг хойшлууллаа.",
+   "example_en": "The boss postponed the meeting.",
+   "mn_latin": "khoishluulakh"
+  },
+  {
+   "mn": "захиа",
+   "en": "message (written), letter",
+   "pos": "noun",
+   "example_mn": "Танд тэднээс ямар нэг захиа ирсэн үү?",
+   "example_en": "Did you get any message from them?",
+   "mn_latin": "zakhia"
+  },
+  {
+   "mn": "сонсох",
+   "en": "to listen / to hear",
+   "pos": "verb",
+   "example_mn": "Би дуут шууданг сонслоо.",
+   "example_en": "I listened to the voicemail.",
+   "mn_latin": "sonsokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Болд надад утсаар захиас үлдээсэн.",
+   "en": "Bold left me a message on the phone.",
+   "alt_mn": [
+    "Болд надад утсаар захиас үлдээсэн байна."
+   ],
+   "alt_en": [
+    "Bold left a voicemail for me."
+   ],
+   "mn_latin": "Bold nadad utsaar zakhias üldeesen."
+  },
+  {
+   "mn": "Тэр маргааш дахин залгана гэж хэлсэн.",
+   "en": "She said she would call back the next day.",
+   "alt_mn": [
+    "Тэр маргааш дахин залгана гэсэн."
+   ],
+   "alt_en": [
+    "She said she'd call again the next day."
+   ],
+   "mn_latin": "Ter margaash dakhin zalgana gej khelsen."
+  },
+  {
+   "mn": "Дарга өнөөдрийн уулзалтыг цуцалсан гэж хэлсэн.",
+   "en": "The boss said that he had canceled that day's meeting.",
+   "alt_mn": [
+    "Дарга өнөөдрийн уулзалтыг цуцалсан гэсэн."
+   ],
+   "alt_en": [
+    "The boss said he had canceled the meeting for that day."
+   ],
+   "mn_latin": "Darga önöödriin uulzaltyg tsutsalsan gej khelsen."
+  },
+  {
+   "mn": "Би чамд энэ захиасыг дамжуулъя.",
+   "en": "Let me pass this message on to you.",
+   "alt_mn": [
+    "Би танд энэ захиасыг дамжуулъя."
+   ],
+   "alt_en": [
+    "I'll pass this message on to you."
+   ],
+   "mn_latin": "Bi chamd ene zakhiasyg damjuulya."
+  },
+  {
+   "mn": "Надад маргааш ирнэ гэсэн захиа ирсэн.",
+   "en": "I got a message saying he would come tomorrow.",
+   "alt_mn": [
+    "Надад маргааш ирнэ гэсэн мессеж ирсэн."
+   ],
+   "alt_en": [
+    "I received a message that said he would come tomorrow."
+   ],
+   "mn_latin": "Nadad margaash irne gesen zakhia irsen."
+  },
+  {
+   "mn": "Тэр өчигдөр энд уулзалттай байсан гэж хэлсэн.",
+   "en": "He said he had a meeting there the day before.",
+   "alt_mn": [
+    "Тэр өчигдөр энд уулзалттай байсан гэсэн."
+   ],
+   "alt_en": [
+    "He said he'd had a meeting there the previous day."
+   ],
+   "mn_latin": "Ter öchigdör end uulzalttai baisan gej khelsen."
+  },
+  {
+   "mn": "Тайлангийн эцсийн хугацаа баасан гараг гэсэн захиа ирсэн.",
+   "en": "A message came saying the report deadline is Friday.",
+   "alt_mn": [
+    "Тайлангийн эцсийн хугацаа баасан гараг гэсэн мессеж ирлээ."
+   ],
+   "alt_en": [
+    "I got a message saying the deadline for the report was Friday."
+   ],
+   "mn_latin": "Tailangiin etssiin khugatsaa baasan garag gesen zakhia irsen."
+  },
+  {
+   "mn": "Багш уулзалтыг дараа долоо хоногт хойшлууллаа гэсэн.",
+   "en": "The teacher said the meeting had been postponed to the following week.",
+   "alt_mn": [
+    "Багш уулзалтыг дараа долоо хоногт хойшлуулсан гэж хэлсэн."
+   ],
+   "alt_en": [
+    "The teacher said he had postponed the meeting until the next week."
+   ],
+   "mn_latin": "Bagsh uulzaltyg daraa doloo khonogt khoishluullaa gesen."
+  },
+  {
+   "mn": "Дуут шууданд тэр надаас дахин залгаарай гэж гуйсан.",
+   "en": "In the voicemail she asked me to call her back.",
+   "alt_mn": [
+    "Дуут шууданд тэр надаас буцааж залгаарай гэж гуйсан."
+   ],
+   "alt_en": [
+    "In the voicemail, she asked me to call back."
+   ],
+   "mn_latin": "Duut shuudand ter nadaas dakhin zalgaarai gej guisan."
+  },
+  {
+   "mn": "Номин өнөөдөр оройтож ирнэ гэж хэлсэн.",
+   "en": "Nomin said she would be late that day.",
+   "alt_mn": [
+    "Номин өнөөдөр оройтно гэж хэлсэн."
+   ],
+   "alt_en": [
+    "Nomin said she would come late that day."
+   ],
+   "mn_latin": "Nomin önöödör oroitoj irne gej khelsen."
+  },
+  {
+   "mn": "Би сонссон захиасаа ээждээ товчхон дамжуулсан.",
+   "en": "I briefly passed the message I heard on to my mom.",
+   "alt_mn": [
+    "Би сонссон захиасаа ээждээ товчоор дамжуулсан."
+   ],
+   "alt_en": [
+    "I briefly relayed the message I had heard to my mom."
+   ],
+   "mn_latin": "Bi sonsson zakhiasaa eejdee tovchkhon damjuulsan."
+  },
+  {
+   "mn": "Тэр манай уулзалт энд биш, оффис дээр болно гэсэн.",
+   "en": "He said our meeting would be at the office, not here.",
+   "alt_mn": [
+    "Тэр уулзалт энд биш оффис дээр болно гэж хэлсэн."
+   ],
+   "alt_en": [
+    "He said our meeting would take place at the office, not there."
+   ],
+   "mn_latin": "Ter manai uulzalt end bish, offis deer bolno gesen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Noun + гэсэн, and reported speech with -сан гэж хэлсэн",
+  "title_mn": "Нэр үгийн өмнөх «гэсэн» ба «-сан гэж хэлсэн» шууд бус яриа",
+  "explain_en": "In Mongolian, 'гэсэн' placed before a noun works like 'saying that': 'маргааш ирнэ гэсэн захиа' = 'a message saying he'll come tomorrow'. The quoted clause keeps its own form, and 'гэсэн' links it to the noun (захиа, мэдээ, цуу яриа). To report what someone said, use '... гэж хэлсэн' or just '... гэсэн'. Mongolian usually keeps the original verb tense: 'Би маргааш ирнэ' → 'Тэр маргааш ирнэ гэсэн.' English usually shifts tense and time/place words: will → would, is → was, have come → had come; today → that day, tomorrow → the next day, yesterday → the day before, now → then, here → there. Example: 'I will call tomorrow.' → She said she would call the next day. If the time and place are still the same, no change is needed: He says he is here today.",
+  "explain_mn": "Монгол хэлэнд нэр үгийн өмнө «гэсэн» тавибал ‘…гэсэн’ гэсэн утгатай болно: «маргааш ирнэ гэсэн захиа» = a message saying he'll come tomorrow. Иш татсан хэсэг өөрийн хэлбэрээ хадгалж, «гэсэн» нь түүнийг нэр үгтэй (захиа, мэдээ, цуу яриа) холбоно. Хэлснийг дамжуулахдаа «… гэж хэлсэн» эсвэл «… гэсэн» хэрэглэнэ. Монгол хэлэнд үйл үгийн цаг ихэвчлэн хэвээр үлдэнэ: «Би маргааш ирнэ» → «Тэр маргааш ирнэ гэсэн». Англи хэлэнд харин цаг болон цаг, газрын үгс ихэвчлэн шилжинэ: will → would, is → was, have come → had come; today → that day, tomorrow → the next day, yesterday → the day before, now → then, here → there. Жишээ нь: “I will call tomorrow.” → She said she would call the next day. Цаг, газар хэвээрээ бол өөрчлөх шаардлагагүй: He says he is here today.",
+  "examples": [
+   {
+    "mn": "Маргааш уулзана гэсэн захиа ирсэн.",
+    "en": "A message came saying we would meet tomorrow.",
+    "mn_latin": "Margaash uulzana gesen zakhia irsen."
+   },
+   {
+    "mn": "Тэр өнөөдөр завгүй гэж хэлсэн.",
+    "en": "He said he was busy that day.",
+    "mn_latin": "Ter önöödör zavgüi gej khelsen."
+   },
+   {
+    "mn": "Дарга энд хүлээ гэсэн.",
+    "en": "The boss said to wait there.",
+    "mn_latin": "Darga end khülee gesen."
+   },
+   {
+    "mn": "Уулзалтыг цуцалсан гэсэн дуут шуудан сонслоо.",
+    "en": "I heard a voicemail saying the meeting had been canceled.",
+    "mn_latin": "Uulzaltyg tsutsalsan gesen duut shuudan sonsloo."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Надад маргааш ирнэ ___ захиа ирсэн.",
+   "answer": "гэсэн",
+   "options": [
+    "гэсэн",
+    "гэдэг",
+    "гэвэл",
+    "гэх"
+   ],
+   "translation": "I got a message saying he is coming tomorrow.",
+   "explain_en": "'гэсэн' before a noun links the quoted clause to 'захиа': 'a message saying...'.",
+   "explain_mn": "Нэр үгийн өмнө «гэсэн» ашиглан ‘…гэсэн захиа’ гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр орой дахин залгана ___ хэлсэн.",
+   "answer": "гэж",
+   "options": [
+    "гэж",
+    "гэсэн",
+    "гээд",
+    "гэх"
+   ],
+   "translation": "He said he would call back in the evening.",
+   "explain_en": "'гэж хэлсэн' is the usual way to report speech: 'said that'.",
+   "explain_mn": "Хэлсэн зүйлийг дамжуулахдаа «…гэж хэлсэн» хэлбэрийг хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Дарга уулзалтыг ___ гэж хэлсэн.",
+   "answer": "цуцалсан",
+   "options": [
+    "цуцалсан",
+    "цуцлахад",
+    "цуцалсаар",
+    "цуцалж"
+   ],
+   "translation": "The boss said he had canceled the meeting.",
+   "explain_en": "'-сан' marks a completed past action before 'гэж хэлсэн'.",
+   "explain_mn": "Дууссан үйлдлийг «-сан» нөхцөлөөр илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She said she would call back the ___ day.",
+   "answer": "next",
+   "options": [
+    "next",
+    "tomorrow",
+    "last",
+    "this"
+   ],
+   "translation": "Тэр маргааш нь дахин залгана гэж хэлсэн.",
+   "explain_en": "In reported speech, 'tomorrow' becomes 'the next day' when the report is made later.",
+   "explain_mn": "Дамжуулсан өгүүлбэрт «tomorrow» нь «the next day» болно."
+  },
+  {
+   "lang": "en",
+   "text": "He told me he had a meeting ___ that day.",
+   "answer": "there",
+   "options": [
+    "there",
+    "these",
+    "now",
+    "tomorrow"
+   ],
+   "translation": "Тэр надад тэр өдөр тэнд уулзалттай гэж хэлсэн.",
+   "explain_en": "'Here' usually changes to 'there' when you report from a different place.",
+   "explain_mn": "Өөр газраас дамжуулахад «here» нь «there» болно."
+  },
+  {
+   "lang": "en",
+   "text": "The voicemail said the deadline ___ Friday.",
+   "answer": "was",
+   "options": [
+    "was",
+    "is going",
+    "be",
+    "were"
+   ],
+   "translation": "Эцсийн хугацаа баасан гараг гэж дуут шууданд хэлсэн байсан.",
+   "explain_en": "Backshift: present 'is' becomes past 'was' in reported speech.",
+   "explain_mn": "Англи хэлэнд одоо цаг өнгөрсөн цаг руу шилждэг: is → was."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Болд, Дулмаа чамд утсаар захиас үлдээсэн үү?",
+   "en": "Bold, did Dulmaa leave you a message on the phone?",
+   "mn_latin": "Bold, Dulmaa chamd utsaar zakhias üldeesen üü?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм ээ, дуут шууданд үлдээсэн байсан.",
+   "en": "Yes, she left one in my voicemail.",
+   "mn_latin": "Tiim ee, duut shuudand üldeesen baisan."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэр юу гэж хэлсэн бэ?",
+   "en": "What did she say?",
+   "mn_latin": "Ter yuu gej khelsen be?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Маргаашийн уулзалтыг цуцалсан гэж хэлсэн.",
+   "en": "She said that she had canceled tomorrow's meeting.",
+   "mn_latin": "Margaashiin uulzaltyg tsutsalsan gej khelsen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгээд шинэ цаг нь хэзээ гэсэн бэ?",
+   "en": "So when did she say the new time is?",
+   "mn_latin": "Tegeed shine tsag ni khezee gesen be?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Дараагийн долоо хоногт хойшлууллаа гэсэн. Мөн тайлангийн эцсийн хугацаа хэвээрээ гэсэн.",
+   "en": "She said it had been postponed to the following week. She also said the report deadline stays the same.",
+   "mn_latin": "Daraagiin doloo khonogt khoishluullaa gesen. Mön tailangiin etssiin khugatsaa kheveeree gesen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, би энэ захиасыг бусад багийнханд дамжуулъя.",
+   "en": "OK, I'll pass this message on to the rest of the team.",
+   "mn_latin": "Za, bi ene zakhiasyg busad bagiinkhand damjuulya."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "За, тэгээрэй. Тэр орой дахин залгана гэсэн.",
+   "en": "OK, please do. She said she would call back in the evening.",
+   "mn_latin": "Za, tegeerei. Ter oroi dakhin zalgana gesen."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, people often send short voice messages on Messenger or Viber instead of writing long texts, and information is often passed on through team group chats. When relaying a message, it is polite to be clear about who said it and when, using phrases like 'гэж хэлсэн' or 'гэсэн'. In formal work settings, it is also common to confirm important changes to a meeting by phone.",
+  "mn": "Монголд урт мессеж бичихийн оронд Messenger, Viber дээр дуут мессеж илгээх нь элбэг бөгөөд мэдээллийг багийн чатаар дамжуулдаг. Захиас дамжуулахдаа хэн, хэзээ хэлснийг «гэж хэлсэн», «гэсэн» хэлбэрээр тодорхой хэлэх нь соёлтой хэрэг. Албан ажил дээр уулзалтын чухал өөрчлөлтийг утсаар давтан баталгаажуулах нь түгээмэл."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 18,
+  "notes": "Generally good lesson; a few tense/backshift inconsistencies, one unnatural vocab example, and a duplicated alt."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 19,
+  "notes": "Main problems were mismatched en/mn grammar explanations, fill-blanks with more than one correct answer, and inconsistent speaker names.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Standard term for reported speech is 'шууд бус яриа'"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "'Танаас' meant 'from you', which did not match 'from them'"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "en",
+    "why": "захиа is a written message or letter, unlike захиас"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "The old alt was ambiguous: it could mean the canceling happened that day"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Should match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The en and mn explanations covered different content; this aligns them"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Aligned with en; also corrected 'заавал', since the shift is not always obligatory"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'цуцлаарай гэж хэлсэн' was also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'here' could also be correct, since the sentence doesn't say the place changed"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'will be' was also a correct answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "The old translation was unnatural Mongolian"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "speaker",
+    "why": "Speaker name should be consistent in Cyrillic"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'шинэ цагийг хэзээ гэсэн' is ungrammatical"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "Matches the corrected mn"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "speaker",
+    "why": "Speaker name should be consistent"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "speaker",
+    "why": "Speaker name should be consistent"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "'Сайн байна' is unnatural as a reply here"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "Matches the corrected mn"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Removed the contradiction 'word of mouth in a chat' and aligned with mn"
+   }
+  ]
+ }
+}

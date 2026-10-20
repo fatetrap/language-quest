@@ -1,0 +1,409 @@
+{
+ "intro_en": "In this lesson you will write and present a food security policy brief to a ministry working group. You will practice key agricultural policy terms and the formal Mongolian ways of giving credit, stating causes, and assigning blame. On the English side, you will practice formal absolute constructions such as \"all factors considered\" and \"funding permitting.\"",
+ "intro_mn": "Энэ хичээлээр та яамны ажлын хэсэгт хүнсний аюулгүй байдлын бодлогын товчлол бичиж танилцуулж сурна. Хөдөө аж ахуйн бодлогын үндсэн нэр томьёо, гавьяа үнэлэх, шалтгаан заах, буруутгах албан хэлбэрүүдийг дадлагажуулна. Мөн англи хэлний \"all factors considered\", \"funding permitting\" зэрэг албан ёсны бие даасан бүтцийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "хүнсний аюулгүй байдал",
+   "en": "food security",
+   "pos": "noun phrase",
+   "example_mn": "Хүнсний аюулгүй байдал бол үндэсний аюулгүй байдлын салшгүй хэсэг юм.",
+   "example_en": "Food security is an integral part of national security.",
+   "mn_latin": "khünsnii ayuulgüi baidal"
+  },
+  {
+   "mn": "татаас",
+   "en": "subsidy",
+   "pos": "noun",
+   "example_mn": "Засгийн газар улаан буудайн тариаланчдад татаас олгодог.",
+   "example_en": "The government provides subsidies to wheat farmers.",
+   "mn_latin": "tataas"
+  },
+  {
+   "mn": "өөрийгөө хангах",
+   "en": "to be self-sufficient; self-sufficiency",
+   "pos": "verb phrase",
+   "example_mn": "Монгол Улс махаар өөрийгөө бүрэн хангадаг.",
+   "example_en": "Mongolia is fully self-sufficient in meat.",
+   "mn_latin": "ööriigöö khangakh"
+  },
+  {
+   "mn": "стратегийн нөөц",
+   "en": "strategic reserve",
+   "pos": "noun phrase",
+   "example_mn": "Өвлийн улиралд махны стратегийн нөөцийг зах зээлд гаргадаг.",
+   "example_en": "In winter, the strategic meat reserve is released onto the market.",
+   "mn_latin": "stratyegiin nööts"
+  },
+  {
+   "mn": "дотоодын үйлдвэрлэл",
+   "en": "domestic production",
+   "pos": "noun phrase",
+   "example_mn": "Дотоодын үйлдвэрлэлийг дэмжих нь импортын хамаарлыг бууруулна.",
+   "example_en": "Supporting domestic production will reduce import dependence.",
+   "mn_latin": "dotoodyn üildverlel"
+  },
+  {
+   "mn": "импортын хамаарал",
+   "en": "import dependence",
+   "pos": "noun phrase",
+   "example_mn": "Хүнсний ногооны импортын хамаарал өндөр хэвээр байна.",
+   "example_en": "Import dependence for vegetables remains high.",
+   "mn_latin": "importyn khamaaral"
+  },
+  {
+   "mn": "бодлогын зөвлөмж",
+   "en": "policy recommendation",
+   "pos": "noun phrase",
+   "example_mn": "Бид гурван бодлогын зөвлөмж боловсруулсан.",
+   "example_en": "We have drafted three policy recommendations.",
+   "mn_latin": "bodlogyn zövlömj"
+  },
+  {
+   "mn": "ажлын хэсэг",
+   "en": "working group",
+   "pos": "noun phrase",
+   "example_mn": "Яамны ажлын хэсэг маргааш хуралдана.",
+   "example_en": "The ministry's working group will meet tomorrow.",
+   "mn_latin": "ajlyn kheseg"
+  },
+  {
+   "mn": "санхүүжилт",
+   "en": "funding",
+   "pos": "noun",
+   "example_mn": "Төслийн санхүүжилт хараахан батлагдаагүй байна.",
+   "example_en": "The project's funding has not been approved yet.",
+   "mn_latin": "sankhüüjilt"
+  },
+  {
+   "mn": "хэрэгжүүлэх",
+   "en": "to implement",
+   "pos": "verb",
+   "example_mn": "Энэ хөтөлбөрийг гурван жилийн хугацаанд хэрэгжүүлнэ.",
+   "example_en": "This program will be implemented over three years.",
+   "mn_latin": "kheregjüülekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Импортын хамаарал өндөр байгаагийн улмаас хүнсний үнэ огцом өссөн.",
+   "en": "Due to high import dependence, food prices rose sharply.",
+   "alt_mn": [
+    "Импортын хамаарал өндөр байгаагаас болж хүнсний үнэ огцом өссөн."
+   ],
+   "alt_en": [
+    "Because of high import dependence, food prices rose sharply.",
+    "Food prices rose sharply owing to high import dependence."
+   ],
+   "mn_latin": "Importyn khamaaral öndör baigaagiin ulmaas khünsnii üne ogtsom össön."
+  },
+  {
+   "mn": "Атар-3 аяны ачаар улаан буудайн хэрэгцээгээ дотоодын үйлдвэрлэлээр хангах болсон.",
+   "en": "Thanks to the Atar-3 campaign, the country began meeting its wheat needs through domestic production.",
+   "alt_mn": [
+    "Атар-3 аяны ачаар улаан буудайн хэрэгцээг дотоодын үйлдвэрлэлээр хангадаг болсон."
+   ],
+   "alt_en": [
+    "Thanks to the Atar-3 campaign, wheat needs came to be met by domestic production."
+   ],
+   "mn_latin": "Atar-3 ayany achaar ulaan buudain kheregtseegee dotoodyn üildverleleer khangakh bolson."
+  },
+  {
+   "mn": "Татаасыг буруу хуваарилснаас болж жижиг тариаланчид хохирсон.",
+   "en": "Small farmers suffered losses because the subsidies were misallocated.",
+   "alt_mn": [
+    "Татаасыг буруу хуваарилсны улмаас жижиг тариаланчид хохирсон."
+   ],
+   "alt_en": [
+    "Because subsidies were misallocated, small farmers suffered losses.",
+    "Small farmers were hurt by the misallocation of subsidies."
+   ],
+   "mn_latin": "Tataasyg buruu khuvaarilsnaas bolj jijig tarialanchid khokhirson."
+  },
+  {
+   "mn": "Бүх хүчин зүйлийг харгалзан үзвэл, бид хүлэмжийн аж ахуйг дэмжихийг зөвлөж байна.",
+   "en": "All factors considered, we recommend supporting greenhouse farming.",
+   "alt_mn": [
+    "Бүх хүчин зүйлийг харгалзан үзээд бид хүлэмжийн аж ахуйг дэмжихийг зөвлөж байна."
+   ],
+   "alt_en": [
+    "All things considered, we recommend supporting greenhouse farming."
+   ],
+   "mn_latin": "Bükh khüchin züiliig khargalzan üzvel, bid khülemjiin aj akhuig demjikhiig zövlöj baina."
+  },
+  {
+   "mn": "Санхүүжилт боломжтой бол стратегийн нөөцийг хоёр дахин нэмэгдүүлнэ.",
+   "en": "Funding permitting, the strategic reserve will be doubled.",
+   "alt_mn": [
+    "Санхүүжилт хүрэлцвэл стратегийн нөөцийг хоёр дахин нэмэгдүүлнэ."
+   ],
+   "alt_en": [
+    "If funding permits, the strategic reserve will be doubled.",
+    "Funding permitting, the strategic reserve will be increased twofold."
+   ],
+   "mn_latin": "Sankhüüjilt bolomjtoi bol stratyegiin nöötsiig khoyor dakhin nemegdüülne."
+  },
+  {
+   "mn": "Зорилтуудыг тодорхойлсны дараа ажлын хэсэг хэрэгжүүлэх төлөвлөгөө боловсруулна.",
+   "en": "The goals having been set, the working group will draft an implementation plan.",
+   "alt_mn": [
+    "Зорилтуудаа тодорхойлсны дараа ажлын хэсэг хэрэгжүүлэх төлөвлөгөөгөө боловсруулна."
+   ],
+   "alt_en": [
+    "Once the goals have been set, the working group will draft an implementation plan.",
+    "With the goals set, the working group will draw up an implementation plan."
+   ],
+   "mn_latin": "Zoriltuudyg todorkhoilsny daraa ajlyn kheseg kheregjüülekh tölövlögöö bolovsruulna."
+  },
+  {
+   "mn": "Энэхүү товчлолд хүнсний аюулгүй байдлыг бэхжүүлэх гурван зөвлөмжийг санал болгож байна.",
+   "en": "This brief puts forward three recommendations for strengthening food security.",
+   "alt_mn": [
+    "Энэ товчлолд хүнсний аюулгүй байдлыг бэхжүүлэх гурван зөвлөмж санал болгож байна."
+   ],
+   "alt_en": [
+    "This brief proposes three recommendations to strengthen food security.",
+    "This brief offers three recommendations for strengthening food security."
+   ],
+   "mn_latin": "Enekhüü tovchlold khünsnii ayuulgüi baidlyg bekhjüülekh gurvan zövlömjiig sanal bolgoj baina."
+  },
+  {
+   "mn": "Хүнсний ногооны хувьд өөрийгөө хангах түвшин хангалтгүй хэвээр байна.",
+   "en": "For vegetables, the level of self-sufficiency remains insufficient.",
+   "alt_mn": [
+    "Хүнсний ногоогоор өөрийгөө хангах түвшин хангалтгүй хэвээр байна."
+   ],
+   "alt_en": [
+    "The level of self-sufficiency in vegetables remains insufficient.",
+    "Vegetable self-sufficiency is still inadequate."
+   ],
+   "mn_latin": "Khünsnii nogoony khuvid ööriigöö khangakh tüvshin khangaltgüi kheveer baina."
+  },
+  {
+   "mn": "Шинэчилсэн татаасын бодлогын үр дүнд өндөгний дотоодын үйлдвэрлэл нэмэгджээ.",
+   "en": "As a result of the revised subsidy policy, domestic egg production increased.",
+   "alt_mn": [
+    "Шинэчилсэн татаасын бодлогын үр дүнд дотоодын өндөгний үйлдвэрлэл нэмэгдсэн."
+   ],
+   "alt_en": [
+    "Domestic egg production increased as a result of the revised subsidy policy.",
+    "The revised subsidy policy resulted in an increase in domestic egg production."
+   ],
+   "mn_latin": "Shinechilsen tataasyn bodlogyn ür dünd öndögnii dotoodyn üildverlel nemegdjee."
+  },
+  {
+   "mn": "Махны стратегийн нөөц хангалтгүй байдгаас болж хаврын улиралд махны үнэ өсдөг.",
+   "en": "Because the strategic meat reserve is insufficient, meat prices rise every spring.",
+   "alt_mn": [
+    "Махны стратегийн нөөц хангалтгүй байдгийн улмаас хавар махны үнэ өсдөг."
+   ],
+   "alt_en": [
+    "Meat prices rise every spring due to an insufficient strategic meat reserve.",
+    "An insufficient strategic meat reserve causes meat prices to rise in spring."
+   ],
+   "mn_latin": "Makhny stratyegiin nööts khangaltgüi baidgaas bolj khavryn ulirald makhny üne ösdög."
+  },
+  {
+   "mn": "Ажлын хэсэг эдгээр зөвлөмжийг ирэх улиралд хэлэлцэнэ.",
+   "en": "The working group will discuss these recommendations next quarter.",
+   "alt_mn": [
+    "Эдгээр зөвлөмжийг ажлын хэсэг ирэх улиралд хэлэлцэнэ."
+   ],
+   "alt_en": [
+    "The working group will review these recommendations next quarter.",
+    "These recommendations will be discussed by the working group next quarter."
+   ],
+   "mn_latin": "Ajlyn kheseg edgeer zövlömjiig irekh ulirald kheleltsene."
+  },
+  {
+   "mn": "Цаг агаар зөвшөөрвөл ургац хураалтыг есдүгээр сард дуусгана.",
+   "en": "Weather permitting, the harvest will be completed in September.",
+   "alt_mn": [
+    "Цаг агаарын нөхцөл зөвшөөрвөл ургац хураалтыг есдүгээр сард дуусгана."
+   ],
+   "alt_en": [
+    "If the weather permits, the harvest will be finished in September.",
+    "Weather permitting, harvesting will be completed in September."
+   ],
+   "mn_latin": "Tsag agaar zövshöörvöl urgats khuraaltyg yesdügeer sard duusgana."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal result, credit, and blame: -ын үр дүнд, -ын ачаар, -ын улмаас / -аас болж",
+  "title_mn": "Англи хэлний албан ёсны бие даасан бүтэц: all factors considered, funding permitting, the goals having been set",
+  "explain_en": "A policy brief has to say what caused what, and whether the effect was good or bad. Mongolian has distinct forms for this, and your choice signals your judgment. 1) -ын үр дүнд (\"as a result of\") is neutral and analytical: татаасын бодлогын үр дүнд. 2) -ын ачаар (\"thanks to\") gives credit for a positive outcome: Атар-3 аяны ачаар. Never use it for a bad result. 3) -ын улмаас (\"due to, owing to\") is the formal choice for a negative or undesired outcome: ган гачгийн улмаас. -аас болж (\"because of\") also marks a negative cause, but it sounds more pointed and blaming. In formal writing, the cause is often a whole clause. You nominalize it with a participle first: хуваарилсны улмаас, байгаагийн улмаас, хуваарилснаас болж, байдгаас болж. Ministry writers usually prefer улмаас, because it sounds objective. They save -аас болж for cases where they really want to point at a responsible cause.",
+  "explain_mn": "Албан бичигт англи хэлэнд \"бие даасан бүтэц\" (absolute construction) их хэрэглэгддэг. Энэ нь өгүүлбэрийн үндсэн өгүүлэгдэхүүнээс тусдаа, өөрийн гэсэн нэр үгтэй, үйл үгийн хэлбэртэй жижиг хэсэг юм. Ихэвчлэн таслалаар тусгаарлана. Гурван хэлбэр бий. 1) Нэр үг + өнгөрсөн үйлт нэр (V3): \"All factors considered, ...\" (Бүх хүчин зүйлийг харгалзан үзвэл). 2) Нэр үг + -ing: \"Funding permitting, ...\" (Санхүүжилт боломжтой бол), \"Weather permitting, ...\" (Цаг агаар зөвшөөрвөл). 3) Нэр үг + having been + V3. Энэ нь өмнө нь болж дууссан үйлийг заана: \"The goals having been set, ...\" (Зорилтуудыг тодорхойлсны дараа). Эдгээр бүтэц нь \"if\", \"after\", \"because\" зэрэг холбоос үгийг орлож, бичвэрийг товч, албан болгоно. Ярианд \"Once the goals have been set\", \"If funding permits\" гэж энгийнээр хэлэх нь илүү түгээмэл.",
+  "examples": [
+   {
+    "mn": "Ган гачгийн улмаас улаан буудайн ургац 30 хувиар буурсан.",
+    "en": "Due to the drought, the wheat harvest fell by 30 percent.",
+    "mn_latin": "Gan gachgiin ulmaas ulaan buudain urgats 30 khuviar buursan."
+   },
+   {
+    "mn": "Хүлэмжийн татаасын ачаар өвлийн улиралд ч дотоодын ногоо худалдаалагдах болсон.",
+    "en": "Thanks to greenhouse subsidies, domestic vegetables are now sold even in winter.",
+    "mn_latin": "Khülemjiin tataasyn achaar övliin ulirald ch dotoodyn nogoo khudaldaalagdakh bolson."
+   },
+   {
+    "mn": "Бүх хүчин зүйлийг харгалзан үзвэл, импортын хамаарлыг үе шаттайгаар бууруулах нь зүйтэй.",
+    "en": "All factors considered, import dependence should be reduced in stages.",
+    "mn_latin": "Bükh khüchin züiliig khargalzan üzvel, importyn khamaarlyg üye shattaigaar buuruulakh ni züitei."
+   },
+   {
+    "mn": "Зорилтуудыг баталсны дараа яам санхүүжилтийн хуваарийг гаргана.",
+    "en": "The goals having been approved, the ministry will issue a funding schedule.",
+    "mn_latin": "Zoriltuudyg batalsny daraa yaam sankhüüjiltiin khuvaariig gargana."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Татаасын шинэ бодлогын ___ тариаланчдын орлого нэмэгдсэн.",
+   "answer": "ачаар",
+   "options": [
+    "ачаар",
+    "улмаас",
+    "тулд",
+    "хувьд"
+   ],
+   "translation": "Thanks to the new subsidy policy, farmers' incomes increased.",
+   "explain_en": "The result (higher incomes) is positive and the policy deserves credit, so use -ын ачаар \"thanks to.\" Улмаас would wrongly frame it as a negative outcome, тулд means \"in order to,\" and хувьд means \"as for.\"",
+   "explain_mn": "Энд \"thanks to\" буюу эерэг үр дүнд хүргэсэн шалтгааныг илэрхийлж байна. Англиар \"Thanks to the new subsidy policy\" гэж орчуулна. Сөрөг шалтгаан бол \"due to\" гэж орчуулах байсан."
+  },
+  {
+   "lang": "mn",
+   "text": "Ган гачгийн ___ ургац 30 хувиар буурсан.",
+   "answer": "улмаас",
+   "options": [
+    "улмаас",
+    "ачаар",
+    "тулд",
+    "хувьд"
+   ],
+   "translation": "Due to the drought, the harvest fell by 30 percent.",
+   "explain_en": "A drought causing a smaller harvest is a negative outcome. The objective, formal choice is -ын улмаас \"due to.\" Ачаар would absurdly thank the drought.",
+   "explain_mn": "Сөрөг үр дүнг албан ёсоор илэрхийлэхэд англиар \"due to\" эсвэл \"owing to\" хэрэглэнэ: \"Due to the drought, ...\". Эерэг үр дүнд \"thanks to\" ордог."
+  },
+  {
+   "lang": "mn",
+   "text": "Импортын хамаарал өндөр байгаа___ болж үнэ өссөн.",
+   "answer": "гаас",
+   "options": [
+    "гаас",
+    "гийн",
+    "гаар",
+    "гаа"
+   ],
+   "translation": "Prices rose because import dependence is high.",
+   "explain_en": "Болж (\"because of,\" blaming) requires the ablative case -аас/-ээс on the nominalized clause, so байгаа becomes байгаагаас. The genitive байгаагийн goes with улмаас instead.",
+   "explain_mn": "Энд шалтгааныг буруутгах өнгө аястай хэлж байна. Англиар \"because\" эсвэл \"because of\" гэж орчуулна: \"Prices rose because import dependence is high.\""
+  },
+  {
+   "lang": "en",
+   "text": "All factors ___, the brief recommends a gradual increase in subsidies.",
+   "answer": "considered",
+   "options": [
+    "considered",
+    "considering",
+    "consider",
+    "to consider"
+   ],
+   "translation": "Бүх хүчин зүйлийг харгалзан үзвэл, товчлолд татаасыг аажмаар нэмэгдүүлэхийг зөвлөсөн байна.",
+   "explain_en": "In this absolute construction the factors are the things being considered, which is a passive meaning. So the past participle \"considered\" is required: \"all factors considered.\"",
+   "explain_mn": "\"Хүчин зүйлс\" нь өөрөө харгалзан үздэггүй, харин харгалзан үзэгддэг. Тиймээс идэвхгүй утгатай өнгөрсөн үйлт нэр \"considered\" (V3) хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Funding ___, the reserve will be expanded next year.",
+   "answer": "permitting",
+   "options": [
+    "permitting",
+    "permitted",
+    "permits",
+    "to permit"
+   ],
+   "translation": "Санхүүжилт боломжтой бол ирэх жил нөөцийг өргөжүүлнэ.",
+   "explain_en": "\"Funding\" is the one doing the permitting, which is an active meaning. So the -ing form is used: \"funding permitting,\" just like \"weather permitting.\"",
+   "explain_mn": "\"Санхүүжилт\" өөрөө \"зөвшөөрөх\" үйлийг хийж байгаа тул идэвхтэй утгатай -ing хэлбэр \"permitting\" орно. \"Weather permitting\" (цаг агаар зөвшөөрвөл) гэдэгтэй адил."
+  },
+  {
+   "lang": "en",
+   "text": "The goals having been ___, the working group began drafting the plan.",
+   "answer": "set",
+   "options": [
+    "set",
+    "setting",
+    "sets",
+    "to set"
+   ],
+   "translation": "Зорилтуудыг тодорхойлсны дараа ажлын хэсэг төлөвлөгөөг боловсруулж эхэлсэн.",
+   "explain_en": "\"Having been\" is always followed by a past participle. The past participle of \"set\" is \"set.\" The whole phrase shows an action completed before the main clause.",
+   "explain_mn": "\"Having been\"-ийн ард заавал өнгөрсөн үйлт нэр (V3) орно. \"Set\" үйл үгийн гурван хэлбэр нь ижил (set, set, set). Энэ бүтэц нь үндсэн үйлээс өмнө дууссан үйлийг заадаг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батболд",
+   "mn": "Сараа, ажлын хэсэгт бодлогын товчлолоо танилцуулна уу.",
+   "en": "Saraa, please present your policy brief to the working group.",
+   "mn_latin": "Saraa, ajlyn khesegt bodlogyn tovchloloo taniltsuulna uu."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Баярлалаа. Сүүлийн гурван жилд импортын хамаарал өндөр байгаагийн улмаас хүнсний үнэ жилд дунджаар арван хоёр хувиар өссөн.",
+   "en": "Thank you. Over the past three years, due to high import dependence, food prices have risen by an average of twelve percent a year.",
+   "mn_latin": "Bayarlalaa. Süüliin gurvan jild importyn khamaaral öndör baigaagiin ulmaas khünsnii üne jild dundjaar arvan khoyor khuviar össön."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Харин улаан буудайн хувьд байдал өөр биз дээ?",
+   "en": "But the situation is different for wheat, isn't it?",
+   "mn_latin": "Kharin ulaan buudain khuvid baidal öör biz dee?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм. Атар-3 аяны ачаар бид улаан буудайгаар өөрийгөө хангаж чадсан. Гэвч хүнсний ногоо, өндөг, ургамлын тосны хувьд дотоодын үйлдвэрлэл хангалтгүй хэвээр байна.",
+   "en": "Yes. Thanks to the Atar-3 campaign, we became self-sufficient in wheat. However, domestic production of vegetables, eggs, and cooking oil remains insufficient.",
+   "mn_latin": "Tiim. Atar-3 ayany achaar bid ulaan buudaigaar ööriigöö khangaj chadsan. Gevch khünsnii nogoo, öndög, urgamlyn tosny khuvid dotoodyn üildverlel khangaltgüi kheveer baina."
+  },
+  {
+   "speaker": "Дэвид",
+   "mn": "Татаасын тогтолцоонд ямар асуудал байна вэ?",
+   "en": "What problems are there in the subsidy system?",
+   "mn_latin": "Tataasyn togtoltsoond yamar asuudal baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Татаасыг тариалсан талбайн хэмжээгээр олгодгоос болж жижиг өрхийн аж ахуйнууд бараг хүртдэггүй.",
+   "en": "Because subsidies are allocated by planted area, small household farms receive almost nothing.",
+   "mn_latin": "Tataasyg tarialsan talbain khemjeegeer olgodgoos bolj jijig örkhiin aj akhuinuud barag khürtdeggüi."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Тэгэхээр та юуг зөвлөж байна вэ?",
+   "en": "So what do you recommend?",
+   "mn_latin": "Tegekheer ta yuug zövlöj baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бүх хүчин зүйлийг харгалзан үзвэл, бид хүлэмжийн аж ахуйд чиглэсэн татаасыг нэмэгдүүлэхийг зөвлөж байна. Санхүүжилт боломжтой бол махны стратегийн нөөцийг ч өргөжүүлэх хэрэгтэй.",
+   "en": "All factors considered, we recommend increasing subsidies targeted at greenhouse farming. Funding permitting, the strategic meat reserve should also be expanded.",
+   "mn_latin": "Bükh khüchin züiliig khargalzan üzvel, bid khülemjiin aj akhuid chiglesen tataasyg nemegdüülekhiig zövlöj baina. Sankhüüjilt bolomjtoi bol makhny stratyegiin nöötsiig ch örgöjüülekh kheregtei."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia is self-sufficient in meat, and since the Atar-3 campaign of 2008–2010, it has largely been self-sufficient in wheat. It still imports much of its vegetables, eggs, fruit, and cooking oil. In 2022 the government launched the national movement \"Food Supply and Security\" to boost domestic production. Each winter and spring, the state also releases meat from its strategic reserve to keep prices in Ulaanbaatar stable.",
+  "mn": "Монгол Улс махаар өөрийгөө бүрэн хангадаг. 2008–2010 оны Атар-3 аянаас хойш улаан буудайгаар ч өөрийгөө үндсэндээ хангах болсон. Гэвч хүнсний ногоо, өндөг, жимс, ургамлын тосны ихэнхийг импортоор авсаар байна. 2022 онд Засгийн газар дотоодын үйлдвэрлэлийг нэмэгдүүлэх зорилгоор \"Хүнсний хангамж, аюулгүй байдал\" үндэсний хөдөлгөөнийг эхлүүлсэн. Мөн жил бүрийн өвөл, хавар Улаанбаатарын махны үнийг тогтворжуулахын тулд стратегийн нөөцөөс мах гаргадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Strong, accurate lesson. Natural formal Mongolian, correct case endings, and a clear grammar explanation with unambiguous blanks. Only a lexical mismatch in the dialogue and a small intro mismatch needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 0,
+  "notes": "I found no real errors; the Mongolian forms, case endings, the cause/credit/blame semantics, the English absolute constructions, the fill-blank answers and the culture-note facts all check out.",
+  "changes": []
+ }
+}

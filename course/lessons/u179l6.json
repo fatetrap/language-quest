@@ -1,0 +1,416 @@
+{
+ "intro_en": "Tell your friends about a month of trying new things and whether you will keep going. You will combine -аад үзэх forms for storytelling, suggestions and advice, and review \"It's the first time I've...\" vs \"It was the first time I had...\".",
+ "intro_mn": "Нэг сарын турш шинэ зүйл туршиж үзсэн тухайгаа найзууддаа ярьж, цааш үргэлжлүүлэх эсэхээ хэлж сурна. Ярихдаа, санал болгохдоо, зөвлөгөө өгөхдөө -аад үзэх хэлбэрийг хэрэглэж, англи хэлний \"It's the first time I've...\" болон \"It was the first time I had...\" хэлбэрийг давтана.",
+ "vocab": [
+  {
+   "mn": "айдас",
+   "en": "fear",
+   "pos": "noun",
+   "example_mn": "Олны өмнө ярихад айдас төрдөг.",
+   "example_en": "I get scared when I speak in front of people.",
+   "mn_latin": "aidas"
+  },
+  {
+   "mn": "зориг",
+   "en": "courage",
+   "pos": "noun",
+   "example_mn": "Түүнд их зориг хэрэгтэй байсан.",
+   "example_en": "She needed a lot of courage.",
+   "mn_latin": "zorig"
+  },
+  {
+   "mn": "сонирхол татах",
+   "en": "to be interesting, to catch one's interest",
+   "pos": "verb phrase",
+   "example_mn": "Энэ хичээл миний сонирхлыг их татсан.",
+   "example_en": "This class really caught my interest.",
+   "mn_latin": "sonirkhol tatakh"
+  },
+  {
+   "mn": "үргэлжлүүлэх",
+   "en": "to continue, to keep going",
+   "pos": "verb",
+   "example_mn": "Би бүжгээ үргэлжлүүлнэ.",
+   "example_en": "I'm going to keep dancing.",
+   "mn_latin": "ürgeljlüülekh"
+  },
+  {
+   "mn": "дадал",
+   "en": "habit",
+   "pos": "noun",
+   "example_mn": "Өглөө гүйх нь миний шинэ дадал.",
+   "example_en": "Running in the morning is my new habit.",
+   "mn_latin": "dadal"
+  },
+  {
+   "mn": "туршлага",
+   "en": "experience",
+   "pos": "noun",
+   "example_mn": "Энэ бол сайхан туршлага байлаа.",
+   "example_en": "It was a great experience.",
+   "mn_latin": "turshlaga"
+  },
+  {
+   "mn": "тав тухын бүс",
+   "en": "comfort zone",
+   "pos": "noun phrase",
+   "example_mn": "Тав тухын бүсээсээ гарах хэрэгтэй.",
+   "example_en": "You need to step out of your comfort zone.",
+   "mn_latin": "tav tukhyn büs"
+  },
+  {
+   "mn": "зүрх гаргах",
+   "en": "to dare, to work up the nerve",
+   "pos": "verb phrase",
+   "example_mn": "Би зүрх гаргаад түүнтэй ярьсан.",
+   "example_en": "I worked up the nerve and talked to him.",
+   "mn_latin": "zürkh gargakh"
+  },
+  {
+   "mn": "эргэцүүлэн бодох",
+   "en": "to reflect, to look back on",
+   "pos": "verb phrase",
+   "example_mn": "Өнгөрсөн сараа эргэцүүлэн бодлоо.",
+   "example_en": "I looked back on the past month.",
+   "mn_latin": "ergetsüülen bodokh"
+  },
+  {
+   "mn": "бууж өгөх",
+   "en": "to give up",
+   "pos": "verb phrase",
+   "example_mn": "Хэцүү байсан ч бууж өгөөгүй.",
+   "example_en": "It was hard, but I didn't give up.",
+   "mn_latin": "buuj ögökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ сард би олон шинэ зүйл хийгээд үзлээ.",
+   "en": "This month I tried a lot of new things.",
+   "alt_mn": [
+    "Энэ сард би олон шинэ зүйл туршиж үзлээ."
+   ],
+   "alt_en": [
+    "I tried lots of new things this month."
+   ],
+   "mn_latin": "Ene sard bi olon shine züil khiigeed üzlee."
+  },
+  {
+   "mn": "Уулын дугуй унаад үзсэн чинь сонирхлыг минь их татсан.",
+   "en": "When I tried mountain biking, I found it really interesting.",
+   "alt_mn": [
+    "Уулын дугуй унаад үзэхэд их сонирхолтой байсан."
+   ],
+   "alt_en": [
+    "I tried mountain biking, and it turned out to be really interesting."
+   ],
+   "mn_latin": "Uulyn dugui unaad üzsen chini sonirkhlyg mini ikh tatsan."
+  },
+  {
+   "mn": "Олны өмнө ярихаас айдаг байсан ч зориг гаргаад хийгээд үзсэн.",
+   "en": "I used to be afraid of public speaking, but I found the courage and gave it a try.",
+   "alt_mn": [],
+   "alt_en": [
+    "I was afraid of speaking in public, but I found the courage and tried it."
+   ],
+   "mn_latin": "Olny ömnö yarikhaas aidag baisan ch zorig gargaad khiigeed üzsen."
+  },
+  {
+   "mn": "Би ийм зүйлийг анх удаа хийж байна.",
+   "en": "It's the first time I've done something like this.",
+   "alt_mn": [
+    "Ийм зүйл хийж байгаа минь анх удаа."
+   ],
+   "alt_en": [
+    "This is the first time I've done anything like this."
+   ],
+   "mn_latin": "Bi iim züiliig ankh udaa khiij baina."
+  },
+  {
+   "mn": "Тэр өдөр би анх удаа морь унасан.",
+   "en": "It was the first time I had ridden a horse.",
+   "alt_mn": [
+    "Тэр бол миний анх удаа морь унасан өдөр байлаа."
+   ],
+   "alt_en": [
+    "That was the first time I had ridden a horse."
+   ],
+   "mn_latin": "Ter ödör bi ankh udaa mori unasan."
+  },
+  {
+   "mn": "Чи ч бас нэг сар туршаад үзээрэй.",
+   "en": "You should try it for a month too.",
+   "alt_mn": [
+    "Чи ч бас нэг сар оролдоод үзээрэй."
+   ],
+   "alt_en": [
+    "You should give it a try for a month too."
+   ],
+   "mn_latin": "Chi ch bas neg sar turshaad üzeerei."
+  },
+  {
+   "mn": "Өглөө эрт босох дадлаа үргэлжлүүлэх гэж байна.",
+   "en": "I'm going to keep up my habit of getting up early.",
+   "alt_mn": [
+    "Өглөө эрт босох дадлаа үргэлжлүүлнэ."
+   ],
+   "alt_en": [
+    "I'm going to keep up my early-rising habit."
+   ],
+   "mn_latin": "Öglöö ert bosokh dadlaa ürgeljlüülekh gej baina."
+  },
+  {
+   "mn": "Тав тухын бүсээсээ гарах амаргүй.",
+   "en": "It's not easy to step out of your comfort zone.",
+   "alt_mn": [
+    "Тав тухын бүсээсээ гарах амар биш."
+   ],
+   "alt_en": [
+    "Stepping out of your comfort zone isn't easy."
+   ],
+   "mn_latin": "Tav tukhyn büseesee garakh amargüi."
+  },
+  {
+   "mn": "Хамтдаа бүжгийн хичээлд яваад үзье.",
+   "en": "Let's try going to a dance class together.",
+   "alt_mn": [
+    "Хамт бүжгийн хичээлд явж үзье."
+   ],
+   "alt_en": [
+    "Let's go to a dance class together and see how it goes."
+   ],
+   "mn_latin": "Khamtdaa büjgiin khicheeld yavaad üziye."
+  },
+  {
+   "mn": "Энэ туршлагаа эргэцүүлэн бодоход их зүйл сурсан байна.",
+   "en": "Looking back on this experience, I've learned a lot.",
+   "alt_mn": [
+    "Энэ туршлагаа эргэн бодоход би их зүйл сурсан байна."
+   ],
+   "alt_en": [
+    "When I look back on this experience, I realize I've learned a lot."
+   ],
+   "mn_latin": "Ene turshlagaa ergetsüülen bodokhod ikh züil sursan baina."
+  },
+  {
+   "mn": "Хэцүү санагдсан ч бууж өгөөгүй.",
+   "en": "It felt hard, but I didn't give up.",
+   "alt_mn": [
+    "Хэцүү байсан ч би бууж өгөөгүй."
+   ],
+   "alt_en": [
+    "It was hard, but I didn't give up."
+   ],
+   "mn_latin": "Khetsüü sanagdsan ch buuj ögöögüi."
+  },
+  {
+   "mn": "Зүрх гаргаад нэг удаа оролдоод үзвэл ямар вэ?",
+   "en": "Why don't you work up the nerve and try it once?",
+   "alt_mn": [
+    "Зүрх гаргаад нэг удаа хийгээд үзвэл ямар вэ?"
+   ],
+   "alt_en": [
+    "How about working up the nerve and giving it a try once?"
+   ],
+   "mn_latin": "Zürkh gargaad neg udaa oroldood üzvel yamar ve?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling, suggesting and advising with -аад үзэх",
+  "title_mn": "It's the first time + present perfect ба It was the first time + past perfect",
+  "explain_en": "Add -аад/-ээд/-оод/-өөд (following vowel harmony; -гаад/-гээд after stems ending in a long vowel or diphthong) to a verb and follow it with үзэх, and you get \"try doing\": хийгээд үзэх \"try doing\", яваад үзэх \"try going\". The ending on үзэх changes the meaning. In storytelling, -аад үзсэн means \"I tried it\", and -аад үзсэн чинь means \"when I tried it, (it turned out that)...\". For suggestions, -аад үзье means \"let's try\". For advice, -аад үзээрэй means \"you should try\" and -аад үзвэл ямар вэ? means \"why don't you try?\". Among friends you'll also hear the casual request -аад үзээч.",
+  "explain_mn": "Одоо болж буй анхны туршлагаа хэлэхдээ It's the first time + present perfect (have/has + V3) хэрэглэнэ: It's the first time I've tried yoga. Өнгөрсөн үйл явдлыг ярихдаа It was the first time + past perfect (had + V3) хэрэглэнэ: It was the first time I had ridden a horse. Анхаарах зүйл: \"It's the first time I tried\" гэж хэлэх нь түгээмэл алдаа юм. is бол have, was бол had гэж санаарай.",
+  "examples": [
+   {
+    "mn": "Хуушуур хийгээд үзсэн чинь амархан байсан.",
+    "en": "When I tried making khuushuur, it was easy.",
+    "mn_latin": "Khuushuur khiigeed üzsen chini amarkhan baisan."
+   },
+   {
+    "mn": "Маргааш хамт уулын дугуй унаад үзье.",
+    "en": "Let's try mountain biking together tomorrow.",
+    "mn_latin": "Margaash khamt uulyn dugui unaad üziye."
+   },
+   {
+    "mn": "Би иогоор анх удаа хичээллэж байна.",
+    "en": "It's the first time I've done yoga.",
+    "mn_latin": "Bi iogoor ankh udaa khicheellej baina."
+   },
+   {
+    "mn": "Тэр Наадамд анх удаа очсон.",
+    "en": "It was the first time she had been to Naadam.",
+    "mn_latin": "Ter Naadamd ankh udaa ochson."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Чи ч бас нэг удаа туршаад ___.",
+   "answer": "үзээрэй",
+   "options": [
+    "үзээрэй",
+    "үзсэн",
+    "үзье",
+    "үзэх"
+   ],
+   "translation": "You should try it once too.",
+   "explain_en": "This is advice to a friend, so you need the advising imperative үзээрэй (\"do try\"). Үзье means \"let's\" and doesn't fit with \"чи\", and үзсэн is past tense.",
+   "explain_mn": "Найздаа зөвлөгөө өгч байгаа тул -аарай/-ээрэй захирах хэлбэр зөв. \"Үзье\" нь хамтын санал, \"үзсэн\" нь өнгөрсөн цаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Олны өмнө ярихад ___ төрсөн.",
+   "answer": "айдас",
+   "options": [
+    "айдас",
+    "дадал",
+    "хичээл",
+    "туршлага"
+   ],
+   "translation": "I felt fear when I spoke in front of people.",
+   "explain_en": "The verb төрөх (\"arise\") goes with feelings. \"Айдас төрөх\" means \"to feel fear\". Дадал means \"habit\" and doesn't fit here.",
+   "explain_mn": "\"Төрөх\" үйл үг мэдрэмжтэй хамт хэрэглэгддэг тул \"айдас төрөх\" зөв хослол."
+  },
+  {
+   "lang": "mn",
+   "text": "Би энэ дадлаа ___ гэж байна.",
+   "answer": "үргэлжлүүлэх",
+   "options": [
+    "үргэлжлүүлэх",
+    "үргэлжлүүлсэн",
+    "үргэлжлүүлээд",
+    "үргэлжилсэн"
+   ],
+   "translation": "I'm going to keep up this habit.",
+   "explain_en": "To express an intention with \"гэж байна\", use the -х form: үргэлжлүүлэх гэж байна means \"going to continue\".",
+   "explain_mn": "\"Гэж байна\"-аар төлөвлөгөө илэрхийлэхэд үйл үг -х хэлбэртэй байна."
+  },
+  {
+   "lang": "en",
+   "text": "It's the first time I ___ tried yoga.",
+   "answer": "have",
+   "options": [
+    "have",
+    "had",
+    "was",
+    "did"
+   ],
+   "translation": "Би иогоор анх удаа хичээллэж байна.",
+   "explain_en": "\"It's the first time\" is followed by the present perfect: I've (I have) tried.",
+   "explain_mn": "\"It's the first time\"-ийн дараа present perfect буюу have + V3 ирнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It was the first time she had ___ in front of so many people.",
+   "answer": "spoken",
+   "options": [
+    "spoken",
+    "spoke",
+    "speak",
+    "speaking"
+   ],
+   "translation": "Тэр анх удаа ийм олон хүний өмнө үг хэлсэн.",
+   "explain_en": "The past perfect is had + past participle, and the past participle of speak is spoken.",
+   "explain_mn": "Past perfect нь had + V3 бүтэцтэй. speak үйл үгийн V3 хэлбэр нь spoken."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ the first time I had eaten khuushuur.",
+   "answer": "was",
+   "options": [
+    "was",
+    "is",
+    "has been",
+    "had"
+   ],
+   "translation": "Би анх удаа хуушуур идсэн.",
+   "explain_en": "\"Had eaten\" is past perfect, so the main verb must be past: It was the first time.",
+   "explain_mn": "\"Had eaten\" past perfect байгаа тул өмнө нь \"It was\" байх ёстой. \"It is\"-тэй \"have\" хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Бат аа, энэ сард би өөрийгөө сорьж, долоо хоног бүр шинэ зүйл хийгээд үзлээ.",
+   "en": "Bat, this month I challenged myself and tried something new every week.",
+   "mn_latin": "Bat aa, ene sard bi ööriigöö sorij, doloo khonog bür shine züil khiigeed üzlee."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Ёстой гоё! Юу юу хийгээд үзсэн бэ?",
+   "en": "That's awesome! What did you try?",
+   "mn_latin": "Yostoi goyo! Yuu yuu khiigeed üzsen be?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Авиралт хийгээд үзсэн. Би өндрөөс айдаг болохоор ийм зүйл анх удаа хийсэн.",
+   "en": "I tried climbing. I'm afraid of heights, so it was the first time I had done anything like that.",
+   "mn_latin": "Aviralt khiigeed üzsen. Bi öndröös aidag bolokhoor iim züil ankh udaa khiisen."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Айдсаа яаж даван туулсан бэ?",
+   "en": "How did you get over your fear?",
+   "mn_latin": "Aidsaa yaaj davan tuulsan be?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Эхлээд их зориг хэрэгтэй байсан. Гэхдээ дээш авираад үзсэн чинь сэтгэл их хөөрсөн.",
+   "en": "At first it took a lot of courage. But once I actually climbed up, I felt so excited.",
+   "mn_latin": "Ekhleed ikh zorig kheregtei baisan. Gekhdee deesh aviraad üzsen chini setgel ikh khöörsön."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэгвэл үргэлжлүүлэх үү?",
+   "en": "So are you going to keep going?",
+   "mn_latin": "Tegvel ürgeljlüülekh üü?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм ээ, долоо хоногт нэг удаа явдаг дадал болгоно. Чи ч бас хамт яваад үзээч!",
+   "en": "Yes, I'm going to make it a habit to go once a week. You should come and try it too!",
+   "mn_latin": "Tiim ee, doloo khonogt neg udaa yavdag dadal bolgono. Chi ch bas khamt yavaad üzeech!"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "За, ирэх бямба гаригт хамт яваад үзье. Миний хувьд анх удаа болох нь.",
+   "en": "Okay, let's go together this Saturday. It'll be my first time.",
+   "mn_latin": "Za, irekh byamba garigt khamt yavaad üziye. Minii khuvid ankh udaa bolokh ni."
+  }
+ ],
+ "culture_note": {
+  "en": "A well-known Mongolian saying goes \"Айвал бүү хий, хийвэл бүү ай\": \"If you're afraid, don't do it. If you do it, don't be afraid.\" People often quote it to encourage someone who is hesitating before something new. In Ulaanbaatar, young people increasingly try climbing gyms, dance studios and 30-day challenges, and they share their progress on social media.",
+  "mn": "Монголчууд \"Айвал бүү хий, хийвэл бүү ай\" гэж хэлдэг. Шинэ зүйл хийхээс эргэлзэж буй хүнийг урамшуулахдаа энэ үгийг их иш татдаг. Сүүлийн үед Улаанбаатарын залуучууд авиралтын төв, бүжгийн студи, 30 хоногийн сорилд оролцож, ахицаа олон нийтийн сүлжээнд хуваалцах нь түгээмэл болжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "Solid, natural lesson. The main fixes are an ambiguous blank option, a missing -гаад allomorph in the rule, and two English translation mismatches."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "Mostly solid. Main fixes: incomplete intro_mn and an unnatural сонирхол татах construction.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "intro_mn left out the -аад үзэх part that intro_en mentions"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "сонирхол татах needs an object (сонирхлыг минь); 'их сонирхол татсан' alone is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "first-person -жээ (сурчээ) is bookish and unnatural here"
+   }
+  ]
+ }
+}

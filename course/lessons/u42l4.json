@@ -1,0 +1,444 @@
+{
+ "intro_en": "You will learn to talk with a scientist about desertification, drought and drying rivers. You will also describe causes and effects using Mongolian nouns in -лт and -х, and the English present perfect for change.",
+ "intro_mn": "Та эрдэмтэнтэй цөлжилт, ган, ширгэж буй гол горхины талаар ярьж сурна. Мөн шалтгаан, үр дагаврыг монгол хэлний -лт, -х нэр үгээр, англи хэлний present perfect цагаар хэрхэн илэрхийлэхийг сурна.",
+ "vocab": [
+  {
+   "mn": "цөлжилт",
+   "en": "desertification",
+   "pos": "noun",
+   "example_mn": "Цөлжилт жил бүр нэмэгдэж байна.",
+   "example_en": "Desertification is increasing every year.",
+   "mn_latin": "tsöljilt"
+  },
+  {
+   "mn": "ган",
+   "en": "drought",
+   "pos": "noun",
+   "example_mn": "Энэ зун хүчтэй ган болсон.",
+   "example_en": "There was a severe drought this summer.",
+   "mn_latin": "gan"
+  },
+  {
+   "mn": "уур амьсгал",
+   "en": "climate",
+   "pos": "noun",
+   "example_mn": "Монголын уур амьсгал өөрчлөгдөж байна.",
+   "example_en": "Mongolia's climate is changing.",
+   "mn_latin": "uur amisgal"
+  },
+  {
+   "mn": "дулаарал",
+   "en": "warming",
+   "pos": "noun",
+   "example_mn": "Дэлхийн дулаарал нутгийг хуурайшуулж байна.",
+   "example_en": "Global warming is drying out the land.",
+   "mn_latin": "dulaaral"
+  },
+  {
+   "mn": "гол горхи",
+   "en": "rivers and streams",
+   "pos": "noun",
+   "example_mn": "Манай нутгийн гол горхи багассан.",
+   "example_en": "The rivers and streams in our area have shrunk.",
+   "mn_latin": "gol gorkhi"
+  },
+  {
+   "mn": "ширгэх",
+   "en": "to dry up",
+   "pos": "verb",
+   "example_mn": "Энэ горхи зун ширгэдэг болсон.",
+   "example_en": "This stream dries up every summer now.",
+   "mn_latin": "shirgekh"
+  },
+  {
+   "mn": "хуурайшилт",
+   "en": "aridification, drying",
+   "pos": "noun",
+   "example_mn": "Хуурайшилт бэлчээрт сөргөөр нөлөөлж байна.",
+   "example_en": "Drying has a negative effect on pastures.",
+   "mn_latin": "khuuraishilt"
+  },
+  {
+   "mn": "шалтгаан",
+   "en": "cause",
+   "pos": "noun",
+   "example_mn": "Ганы гол шалтгаан юу вэ?",
+   "example_en": "What is the main cause of the drought?",
+   "mn_latin": "shaltgaan"
+  },
+  {
+   "mn": "үр дагавар",
+   "en": "consequence",
+   "pos": "noun",
+   "example_mn": "Цөлжилтийн үр дагавар маш ноцтой.",
+   "example_en": "The consequences of desertification are very serious.",
+   "mn_latin": "ür dagavar"
+  },
+  {
+   "mn": "бэлчээр",
+   "en": "pasture",
+   "pos": "noun",
+   "example_mn": "Бэлчээр доройтож байна.",
+   "example_en": "The pasture is degrading.",
+   "mn_latin": "belcheer"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Уур амьсгал сүүлийн жилүүдэд илүү хуурай болсон.",
+   "en": "The climate has become drier in recent years.",
+   "alt_mn": [
+    "Сүүлийн жилүүдэд уур амьсгал илүү хуурай болсон."
+   ],
+   "alt_en": [
+    "The climate has gotten drier in recent years."
+   ],
+   "mn_latin": "Uur amisgal süüliin jilüüded ilüü khuurai bolson."
+  },
+  {
+   "mn": "Цөлжилт бэлчээрийг багасгаж байна.",
+   "en": "Desertification is reducing the pastures.",
+   "alt_mn": [],
+   "alt_en": [
+    "Desertification is shrinking the pastureland."
+   ],
+   "mn_latin": "Tsöljilt belcheeriig bagasgaj baina."
+  },
+  {
+   "mn": "Ганы улмаас мал тарга хүчээ алдсан.",
+   "en": "Because of the drought, the livestock have lost condition.",
+   "alt_mn": [
+    "Ганы улмаас мал турсан."
+   ],
+   "alt_en": [
+    "The livestock have lost weight because of the drought."
+   ],
+   "mn_latin": "Gany ulmaas mal targa khüchee aldsan."
+  },
+  {
+   "mn": "Олон горхи ширгэсэн.",
+   "en": "Many streams have dried up.",
+   "alt_mn": [
+    "Олон горхи ширгээд алга болсон."
+   ],
+   "alt_en": [
+    "Many creeks have dried up."
+   ],
+   "mn_latin": "Olon gorkhi shirgesen."
+  },
+  {
+   "mn": "Дулаарлын нөлөөгөөр мөс хурдан хайлж байна.",
+   "en": "Because of warming, the ice is melting quickly.",
+   "alt_mn": [
+    "Дулаарлын нөлөөгөөр мөс хурдан хайлаад байна."
+   ],
+   "alt_en": [
+    "Due to warming, the ice is melting fast."
+   ],
+   "mn_latin": "Dulaarlyn nölöögöör mös khurdan khailj baina."
+  },
+  {
+   "mn": "Хуурайшилтын шалтгааныг судалж байна.",
+   "en": "We are studying the causes of the drying.",
+   "alt_mn": [
+    "Хуурайшилтын шалтгааныг судалж байгаа."
+   ],
+   "alt_en": [
+    "They are studying the causes of the aridification."
+   ],
+   "mn_latin": "Khuuraishiltyn shaltgaanyg sudalj baina."
+  },
+  {
+   "mn": "Мал хэт олширсон нь бэлчээрт сөрөг нөлөөтэй.",
+   "en": "The fact that livestock numbers have grown too large has a negative effect on pastures.",
+   "alt_mn": [
+    "Малын тоо хэт олширсон нь бэлчээрт муу нөлөөтэй."
+   ],
+   "alt_en": [
+    "Herds have grown too large, which harms the pastures."
+   ],
+   "mn_latin": "Mal khet olshirson ni belcheert sörög nölöötei."
+  },
+  {
+   "mn": "Бороо ордоггүй болсноос голын ус багассан.",
+   "en": "The river's water has decreased because rain no longer falls.",
+   "alt_mn": [
+    "Бороо орохоо больсноос голын ус багассан."
+   ],
+   "alt_en": [
+    "The river has shrunk because it no longer rains."
+   ],
+   "mn_latin": "Boroo ordoggüi bolsnoos golyn us bagassan."
+  },
+  {
+   "mn": "Манай нутаг өмнөхөөсөө илүү хуурай болжээ.",
+   "en": "Our region has become drier than before.",
+   "alt_mn": [
+    "Манай нутаг урьдынхаас хуурай болсон."
+   ],
+   "alt_en": [
+    "Our area has gotten drier than it used to be."
+   ],
+   "mn_latin": "Manai nutag ömnökhöösöö ilüü khuurai boljee."
+  },
+  {
+   "mn": "Гол горхи ширгэх нь малчдад хүндрэл учруулдаг.",
+   "en": "The drying up of rivers and streams causes hardship for herders.",
+   "alt_mn": [
+    "Гол горхи ширгэх нь малчдад хүнд байдаг."
+   ],
+   "alt_en": [
+    "Rivers and streams drying up creates problems for herders."
+   ],
+   "mn_latin": "Gol gorkhi shirgekh ni malchdad khündrel uchruuldag."
+  },
+  {
+   "mn": "Мод тарих нь цөлжилтөөс сэргийлэх нэг арга юм.",
+   "en": "Planting trees is one way to prevent desertification.",
+   "alt_mn": [],
+   "alt_en": [
+    "Planting trees is one way of preventing desertification."
+   ],
+   "mn_latin": "Mod tarikh ni tsöljiltöös sergiilekh neg arga yum."
+  },
+  {
+   "mn": "Уур амьсгалын өөрчлөлт нь ганг улам ихэсгэсэн.",
+   "en": "Climate change has made droughts worse.",
+   "alt_mn": [
+    "Уур амьсгалын өөрчлөлт ганг улам хүчтэй болгосон."
+   ],
+   "alt_en": [
+    "Climate change has increased the severity of droughts."
+   ],
+   "mn_latin": "Uur amisgalyn öörchlölt ni gang ulam ikhesgesen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Process nouns (-лт, -х) and the present perfect",
+  "title_mn": "Нэршил (-лт, -х) ба present perfect",
+  "explain_en": "Mongolian often names processes and causes with nouns. Add -лт/-л to a verb stem to make a noun for the process: цөлжих → цөлжилт (desertification), дулаарах → дулаарал (warming), хуурайших → хуурайшилт (drying). The verbal noun in -х works like 'the act of ...': гол ширгэх нь 'rivers drying up', and takes case endings: ширгэхээс 'from drying up'. Use нь to make it the topic. Use шалтгаан, үр дагавар, улмаас (because of), нөлөөгөөр (through the influence of) to link cause and effect: Ганы улмаас мал турлаа. Compare English present perfect for change: 'The land has become drier.'",
+  "explain_mn": "Англи хэлэнд өөрчлөлт, үр дүнг одоо цагтай холбож хэлэхдээ present perfect (have/has + III хэлбэр) хэрэглэнэ: The river has dried up. The land has become drier. Монголоор -сан/-лаа гэж орчуулагддаг ч англиар одоогийн байдалд хамаатай болохыг has/have-ээр заана. Шалтгааныг because of + нэр үг (because of the drought), because + өгүүлбэр, cause/lead to/result in гэх үйл үгээр илэрхийлнэ: Drought has led to desertification. Монгол -лт, -х нэршлийг англиар -ing эсвэл -ation нэр үгээр өгнө: desertification, drying up.",
+  "examples": [
+   {
+    "mn": "цөлжих → цөлжилт",
+    "en": "to desertify → desertification",
+    "mn_latin": "tsöljikh → tsöljilt"
+   },
+   {
+    "mn": "Гол ширгэх нь аюултай.",
+    "en": "Rivers drying up is dangerous.",
+    "mn_latin": "Gol shirgekh ni ayuultai."
+   },
+   {
+    "mn": "Ганы улмаас бэлчээр хатсан.",
+    "en": "The pasture has dried out because of the drought.",
+    "mn_latin": "Gany ulmaas belcheer khatsan."
+   },
+   {
+    "mn": "Дулаарал ганг нэмэгдүүлсэн.",
+    "en": "Warming has increased droughts.",
+    "mn_latin": "Dulaaral gang nemegdüülsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бэлчээр ___ малчид хүндрэлтэй байна.",
+   "answer": "доройтсоны улмаас",
+   "options": [
+    "доройтсоны улмаас",
+    "доройтохыг",
+    "доройтолд",
+    "доройтлыг"
+   ],
+   "translation": "Herders are struggling because the pasture has degraded.",
+   "explain_en": "'-сан + ы улмаас' means 'because of (something having happened)'. The other forms don't give a cause.",
+   "explain_mn": "'-сан + ы улмаас' нь шалтгааныг заана. Бусад хэлбэр шалтгаан илэрхийлэхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Сүүлийн үед гол зун ___ болсон.",
+   "answer": "ширгэдэг",
+   "options": [
+    "ширгэдэг",
+    "ширгэхийн",
+    "ширгэлт",
+    "ширгэж"
+   ],
+   "translation": "Lately the river has started drying up every summer.",
+   "explain_en": "'-даг болох' means 'to become a habit/regular'; so the verb needs -даг before болсон.",
+   "explain_mn": "'-даг болсон' бүтцэд үйл үг -даг нөхцөлтэй байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Хуурай___ нь бэлчээрт муу нөлөөтэй.",
+   "answer": "шилт",
+   "options": [
+    "шилт",
+    "шиж",
+    "шаад",
+    "шина"
+   ],
+   "translation": "Drying (aridification) has a bad effect on pastures.",
+   "explain_en": "хуурайших + -лт gives хуурайшилт, the noun for the process.",
+   "explain_mn": "хуурайших + -лт = хуурайшилт, үйл явцыг нэрлэсэн нэр үг."
+  },
+  {
+   "lang": "en",
+   "text": "The river ___ dry because there has been no rain.",
+   "answer": "has run",
+   "options": [
+    "has run",
+    "is run",
+    "ran",
+    "runs"
+   ],
+   "translation": "Гол борооны дутагдлаас болж ширгэсэн.",
+   "explain_en": "'Has run dry' is present perfect: a change that affects the present.",
+   "explain_mn": "'Has run dry' нь present perfect бөгөөд өөрчлөлтийн үр дүн одоо ч мэдрэгдэж буйг харуулна."
+  },
+  {
+   "lang": "en",
+   "text": "Desertification is a result ___ overgrazing and drought.",
+   "answer": "of",
+   "options": [
+    "of",
+    "from",
+    "by",
+    "for"
+   ],
+   "translation": "Цөлжилт нь хэт бэлчээрлэлт болон ганы үр дагавар юм.",
+   "explain_en": "We say 'a result of' something.",
+   "explain_mn": "'a result of' гэсэн тогтвортой хэлц."
+  },
+  {
+   "lang": "en",
+   "text": "The climate ___ much warmer over the past decades.",
+   "answer": "has become",
+   "options": [
+    "has become",
+    "became",
+    "becomes",
+    "is becoming"
+   ],
+   "translation": "Сүүлийн хэдэн арван жилд уур амьсгал хамаагүй дулаан болсон.",
+   "explain_en": "'Over the past decades' is a period up to now, so we use present perfect.",
+   "explain_mn": "'Over the past decades' нь одоог хүртэлх хугацаа тул present perfect хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Доктор Болд, манай нутаг яагаад ингэж хуурай болсон бэ?",
+   "en": "Dr. Bold, why has our region become so dry?",
+   "mn_latin": "Doktor Bold, manai nutag yaagaad ingej khuurai bolson be?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Гол шалтгаан нь уур амьсгалын дулаарал юм. Мөн мал хэт олширсон.",
+   "en": "The main cause is climate warming. Also, livestock numbers have grown too large.",
+   "mn_latin": "Gol shaltgaan ni uur amisgalyn dulaaral yum. Mön mal khet olshirson."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Манай гэрийн ойролцоох горхи ширгэчихсэн.",
+   "en": "The stream near our ger has dried up.",
+   "mn_latin": "Manai geriin oiroltsookh gorkhi shirgechikhsen."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм, олон горхи ширгэсэн. Энэ нь цөлжилтийн нэг шинж юм.",
+   "en": "Yes, many streams have dried up. That is one sign of desertification.",
+   "mn_latin": "Tiim, olon gorkhi shirgesen. Ene ni tsöljiltiin neg shinj yum."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ган малчдад хэрхэн нөлөөлж байна вэ?",
+   "en": "How is the drought affecting herders?",
+   "mn_latin": "Gan malchdad kherkhen nölöölj baina ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Бэлчээр хатсанаас мал турж, өвөлд зудын эрсдэл нэмэгддэг.",
+   "en": "Because the pasture has dried out, animals get thin, and the risk of dzud rises in winter.",
+   "mn_latin": "Belcheer khatsanaas mal turj, övöld zudyn ersdel nemegddeg."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бид юу хийж чадах вэ?",
+   "en": "What can we do?",
+   "mn_latin": "Bid yuu khiij chadakh ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Бэлчээрийг ээлжлэн ашиглаж, мод тарих нь тусална.",
+   "en": "Rotating pastures and planting trees will help.",
+   "mn_latin": "Belcheeriig eeljlen ashiglaj, mod tarikh ni tusalna."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia has warmed by about 2°C since the 1940s, much faster than the global average. Many small rivers and lakes have dried up, and desertification affects a large part of the country. The \"Billion Trees\" national movement and the Green Belt project aim to slow the spread of sand.",
+  "mn": "Монгол орны агаарын дундаж температур 1940-өөд оноос хойш ойролцоогоор 2°C-аар нэмэгдсэн нь дэлхийн дунджаас хавьгүй хурдан юм. Олон жижиг гол, нуур ширгэж, цөлжилт тус улсын нутгийн нэлээд хэсэгт нөлөөлж байна. «Тэрбум мод» үндэсний хөдөлгөөн, «Ногоон хэрэм» төсөл элсний тархалтыг удаашруулахыг зорьдог."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 11,
+  "notes": "Mostly good; a few translation mismatches and inaccurate explanations fixed."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 8,
+  "notes": "Mostly solid. Fixed one meaning mismatch, two fill-blanks with more than one correct option, unnatural verb choices, and the grammar title mismatch.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "The English says 'drier', so the Mongolian needs the comparative 'илүү'."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "'Малчид хүндэрч байна' is unnatural; 'хүндрэх' is used for illness or situations getting worse."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'доройтоод' can also give a causal reading, so the answer was not the only correct option."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "Habitual -даг болсон does not fit 'энэ жил' (this year)."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "translation",
+    "why": "Matches the new sentence and is natural English."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'хуурайшсан нь' is also correct; 'шоод' and 'шихыг' are misspelled distractors."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'Хэр' means 'how much', but the English asks 'how'."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Should match title_mn, which also covers the present perfect."
+   }
+  ]
+ }
+}

@@ -1,0 +1,429 @@
+{
+ "intro_en": "You will follow a service call from start to finish: confirming that a problem is fixed, asking for a refund or confirmation email, leaving feedback, and thanking the agent. You will also review the soft requests -х гэсэн юм and -ж болох болов уу in real call situations.",
+ "intro_mn": "Үйлчилгээний дуудлагыг эхнээс нь дуустал дагаж сурна. Асуудал засагдсаныг баталгаажуулах, буцаан олголт эсвэл баталгаажуулах имэйл хүсэх, санал хүсэлт үлдээх, ажилтанд талархал илэрхийлэх зэргийг үзнэ. Мөн англи хэлний зөөлөн хүсэлтийн хэлбэр (I was wondering, I wanted to) болон дуудлагыг эелдгээр дуусгах хэллэгүүдийг давтана.",
+ "vocab": [
+  {
+   "mn": "баталгаажуулах",
+   "en": "to confirm",
+   "pos": "verb",
+   "example_mn": "Би захиалгаа баталгаажуулах гэсэн юм.",
+   "example_en": "I wanted to confirm my order.",
+   "mn_latin": "batalgaajuulakh"
+  },
+  {
+   "mn": "санал хүсэлт",
+   "en": "feedback",
+   "pos": "noun",
+   "example_mn": "Та санал хүсэлтээ манай вэбсайтад үлдээнэ үү.",
+   "example_en": "Please leave your feedback on our website.",
+   "mn_latin": "sanal khüselt"
+  },
+  {
+   "mn": "үнэлгээ",
+   "en": "rating",
+   "pos": "noun",
+   "example_mn": "Үйлчилгээнд үнэлгээ өгнө үү.",
+   "example_en": "Please give the service a rating.",
+   "mn_latin": "ünelgee"
+  },
+  {
+   "mn": "шийдвэрлэх",
+   "en": "to resolve",
+   "pos": "verb",
+   "example_mn": "Бид асуудлыг өнөөдөр шийдвэрлэнэ.",
+   "example_en": "We will resolve the problem today.",
+   "mn_latin": "shiidverlekh"
+  },
+  {
+   "mn": "хүсэлтийн дугаар",
+   "en": "ticket number",
+   "pos": "noun",
+   "example_mn": "Таны хүсэлтийн дугаар 4821.",
+   "example_en": "Your ticket number is 4821.",
+   "mn_latin": "khüseltiin dugaar"
+  },
+  {
+   "mn": "сэргээх",
+   "en": "to restore",
+   "pos": "verb",
+   "example_mn": "Таны интернэтийг өнөө өглөө сэргээсэн.",
+   "example_en": "Your internet was restored this morning.",
+   "mn_latin": "sergeekh"
+  },
+  {
+   "mn": "давхар шалгах",
+   "en": "to double-check",
+   "pos": "verb",
+   "example_mn": "Би хаягаа давхар шалгах гэсэн юм.",
+   "example_en": "I wanted to double-check my address.",
+   "mn_latin": "davkhar shalgakh"
+  },
+  {
+   "mn": "буцаан олголт",
+   "en": "refund",
+   "pos": "noun",
+   "example_mn": "Буцаан олголт гурван хоногт орно.",
+   "example_en": "The refund will arrive in three days.",
+   "mn_latin": "butsaan olgolt"
+  },
+  {
+   "mn": "талархах",
+   "en": "to appreciate",
+   "pos": "verb",
+   "example_mn": "Таны тусламжид талархаж байна.",
+   "example_en": "I appreciate your help.",
+   "mn_latin": "talarkhakh"
+  },
+  {
+   "mn": "судалгаа",
+   "en": "survey",
+   "pos": "noun",
+   "example_mn": "Дуудлагын дараа богино судалгаа ирнэ.",
+   "example_en": "A short survey will come after the call.",
+   "mn_latin": "sudalgaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би асуудал бүрэн шийдэгдсэн эсэхийг баталгаажуулах гэсэн юм.",
+   "en": "I wanted to confirm whether the problem was fully resolved.",
+   "alt_mn": [
+    "Асуудал бүрэн шийдэгдсэн эсэхийг баталгаажуулах гэсэн юм."
+   ],
+   "alt_en": [
+    "I wanted to confirm whether the problem was completely resolved.",
+    "I was hoping to confirm whether the problem was fully resolved."
+   ],
+   "mn_latin": "Bi asuudal büren shiidegdsen esekhiig batalgaajuulakh gesen yum."
+  },
+  {
+   "mn": "Хүсэлтийн дугаарыг надад дахин хэлж өгч болох болов уу?",
+   "en": "I was wondering if you could tell me the ticket number again.",
+   "alt_mn": [
+    "Хүсэлтийн дугаарыг дахин хэлж өгч болох болов уу?"
+   ],
+   "alt_en": [
+    "Could you possibly tell me the ticket number again?"
+   ],
+   "mn_latin": "Khüseltiin dugaaryg nadad dakhin khelj ögch bolokh bolov uu?"
+  },
+  {
+   "mn": "Интернэт өчигдөр оройноос хойш хэвийн ажиллаж байна.",
+   "en": "The internet has been working normally since last night.",
+   "alt_mn": [
+    "Өчигдөр оройноос хойш интернэт хэвийн ажиллаж байна."
+   ],
+   "alt_en": [
+    "The internet has been working fine since last night."
+   ],
+   "mn_latin": "Intyernet öchigdör oroinoos khoish kheviin ajillaj baina."
+  },
+  {
+   "mn": "Буцаан олголт хэдэн өдрийн дотор орох вэ?",
+   "en": "How many days will it take for the refund to come through?",
+   "alt_mn": [
+    "Буцаан олголт хэдэн хоногт орох вэ?"
+   ],
+   "alt_en": [
+    "How many days will the refund take?",
+    "How long will it take for the refund to come through?"
+   ],
+   "mn_latin": "Butsaan olgolt kheden ödriin dotor orokh ve?"
+  },
+  {
+   "mn": "Энэ бүгдийг имэйлээр баталгаажуулж өгч болох болов уу?",
+   "en": "Could you possibly confirm all of this by email?",
+   "alt_mn": [
+    "Энэ бүгдийг надад имэйлээр баталгаажуулж өгч болох болов уу?"
+   ],
+   "alt_en": [
+    "I was wondering if you could confirm all of this by email."
+   ],
+   "mn_latin": "Ene bügdiig imeileer batalgaajuulj ögch bolokh bolov uu?"
+  },
+  {
+   "mn": "Дуудлагын дараа та үйлчилгээнд үнэлгээ өгөх боломжтой.",
+   "en": "After the call, you can rate the service.",
+   "alt_mn": [
+    "Дуудлагын дараа та үйлчилгээг үнэлэх боломжтой."
+   ],
+   "alt_en": [
+    "After the call, you can give the service a rating."
+   ],
+   "mn_latin": "Duudlagyn daraa ta üilchilgeend ünelgee ögökh bolomjtoi."
+  },
+  {
+   "mn": "Би танай ажилтны талаар эерэг санал хүсэлт үлдээх гэсэн юм.",
+   "en": "I wanted to leave positive feedback about your staff member.",
+   "alt_mn": [
+    "Танай ажилтны талаар эерэг санал хүсэлт үлдээх гэсэн юм."
+   ],
+   "alt_en": [
+    "I wanted to leave some positive feedback about your employee."
+   ],
+   "mn_latin": "Bi tanai ajiltny talaar eyereg sanal khüselt üldeekh gesen yum."
+  },
+  {
+   "mn": "Тэвчээртэй тусалсанд тань их баярлалаа.",
+   "en": "Thank you so much for helping me so patiently.",
+   "alt_mn": [
+    "Тэвчээртэй тусалсанд их баярлалаа."
+   ],
+   "alt_en": [
+    "Thanks so much for your patient help.",
+    "Thank you very much for your patience and help."
+   ],
+   "mn_latin": "Tevcheertei tusalsand tani ikh bayarlalaa."
+  },
+  {
+   "mn": "Хэрэв асуудал дахин гарвал энэ дугаар луу залгана уу.",
+   "en": "If the problem comes up again, please call this number.",
+   "alt_mn": [
+    "Асуудал дахин гарвал энэ дугаар луу залгана уу.",
+    "Хэрэв асуудал дахин гарвал энэ дугаарт залгана уу."
+   ],
+   "alt_en": [
+    "If the problem happens again, please call this number."
+   ],
+   "mn_latin": "Kherev asuudal dakhin garval ene dugaar luu zalgana uu."
+  },
+  {
+   "mn": "Өөр асуух зүйл байхгүй, их баярлалаа.",
+   "en": "That's all I needed, thank you very much.",
+   "alt_mn": [
+    "Өөр асуух зүйл алга, их баярлалаа."
+   ],
+   "alt_en": [
+    "I don't have any other questions, thank you very much.",
+    "That's everything, thanks so much."
+   ],
+   "mn_latin": "Öör asuukh züil baikhgüi, ikh bayarlalaa."
+  },
+  {
+   "mn": "Таны тусламжид маш их талархаж байна.",
+   "en": "I really appreciate your help.",
+   "alt_mn": [
+    "Таны тусламжид их талархаж байна."
+   ],
+   "alt_en": [
+    "I truly appreciate your help."
+   ],
+   "mn_latin": "Tany tuslamjid mash ikh talarkhaj baina."
+  },
+  {
+   "mn": "Нэхэмжлэлийн алдааг зассан эсэхийг давхар шалгаж болох болов уу?",
+   "en": "I was wondering if you could double-check whether the billing error was fixed.",
+   "alt_mn": [
+    "Нэхэмжлэлийн алдааг засчихсан эсэхийг давхар шалгаж болох болов уу?"
+   ],
+   "alt_en": [
+    "Could you possibly double-check whether the billing error has been fixed?"
+   ],
+   "mn_latin": "Nekhemjleliin aldaag zassan esekhiig davkhar shalgaj bolokh bolov uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Soft openings and requests: -х гэсэн юм and -ж болох болов уу",
+  "title_mn": "Зөөлөн хүсэлт: I was wondering / I wanted to болон дуудлагыг эелдгээр дуусгах",
+  "explain_en": "In a service call, Mongolians rarely say a bare 'I want...'. To state why you are calling, use verb + -х гэсэн юм ('I wanted to...'): асуух гэсэн юм, баталгаажуулах гэсэн юм. It sounds modest, like you are explaining your reason. To ask for something, use verb + -ж/-ч болох болов уу? ('I wonder if it would be possible to...'): илгээж болох болов уу?, шалгаж болох болов уу? It is softer than -ж болох уу? because болов уу adds 'I wonder'. Add өгөх (as өгч) before болох when the agent does something for you: хэлж өгч болох болов уу? To close the call, say Өөр асуух зүйл байхгүй, then give thanks with -сАнд тань баярлалаа ('thank you for ...ing'), and finish with Сайхан өдөр өнгөрүүлээрэй.",
+  "explain_mn": "Англи хэлэнд хүсэлтийг зөөлрүүлэхийн тулд одоо цагийн оронд өнгөрсөн цагийг хэрэглэдэг. Үүнийг 'distancing past' гэнэ. 'I want to ask...' гэхээс 'I wanted to ask...' гэх нь эелдэг сонсогдоно. Энэ нь монгол хэлний '-х гэсэн юм'-тай адилхан. 'Can you...?' гэхээс 'I was wondering if you could...' гэх нь илүү зөөлөн бөгөөд '-ж болох болов уу?'-тай дүйнэ. Дуудлагыг дуусгахдаа 'That's everything, thanks.' (Өөр зүйл байхгүй, баярлалаа), 'I really appreciate your help.' (Таны тусламжид талархаж байна), 'Have a great day!' (Сайхан өдөр өнгөрүүлээрэй) гэж хэлдэг.",
+  "examples": [
+   {
+    "mn": "Би буцаан олголтын талаар асуух гэсэн юм.",
+    "en": "I wanted to ask about my refund.",
+    "mn_latin": "Bi butsaan olgoltyn talaar asuukh gesen yum."
+   },
+   {
+    "mn": "Баталгаажуулах имэйл илгээж өгч болох болов уу?",
+    "en": "I was wondering if you could send me a confirmation email.",
+    "mn_latin": "Batalgaajuulakh imeil ilgeej ögch bolokh bolov uu?"
+   },
+   {
+    "mn": "Хурдан шийдвэрлэсэнд тань баярлалаа.",
+    "en": "Thank you for resolving it so quickly.",
+    "mn_latin": "Khurdan shiidverlesend tani bayarlalaa."
+   },
+   {
+    "mn": "Өөр асуух зүйл байхгүй. Сайхан өдөр өнгөрүүлээрэй!",
+    "en": "That's everything. Have a great day!",
+    "mn_latin": "Öör asuukh züil baikhgüi. Saikhan ödör öngörüüleerei!"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би захиалгаа баталгаажуул___ гэсэн юм.",
+   "answer": "ах",
+   "options": [
+    "ах",
+    "ж",
+    "аад",
+    "вал"
+   ],
+   "translation": "I wanted to confirm my order.",
+   "explain_en": "гэсэн юм needs the future/infinitive form in -х before it: баталгаажуулах гэсэн юм = 'I wanted to confirm'.",
+   "explain_mn": "'гэсэн юм'-ын өмнө үйл үг '-х' нөхцөлтэй байна: баталгаажуулах гэсэн юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Надад имэйлээр илгээж өгч ___ болов уу?",
+   "answer": "болох",
+   "options": [
+    "болох",
+    "болно",
+    "болсон",
+    "болж"
+   ],
+   "translation": "I was wondering if you could send it to me by email.",
+   "explain_en": "The fixed pattern is -ж болох болов уу? Only болох fits before болов уу.",
+   "explain_mn": "Тогтсон хэлбэр нь '-ж болох болов уу?'. 'болов уу'-ын өмнө 'болох' ордог."
+  },
+  {
+   "lang": "mn",
+   "text": "Дуудлагын дараа үйлчилгээнд ___ өгнө үү.",
+   "answer": "үнэлгээ",
+   "options": [
+    "үнэлгээ",
+    "дугаар",
+    "буцаан олголт",
+    "судалгаа"
+   ],
+   "translation": "After the call, please give the service a rating.",
+   "explain_en": "You 'give a rating' to a service: үйлчилгээнд үнэлгээ өгөх.",
+   "explain_mn": "Үйлчилгээнд 'үнэлгээ өгнө' гэж хэлдэг. Бусад үг энэ утганд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I ___ wondering if you could send me a confirmation.",
+   "answer": "was",
+   "options": [
+    "was",
+    "is",
+    "be",
+    "did"
+   ],
+   "translation": "Надад баталгаажуулалт илгээж өгч болох болов уу?",
+   "explain_en": "'I was wondering if...' uses the past continuous to make a request sound polite and indirect.",
+   "explain_mn": "'I was wondering if...' нь өнгөрсөн үргэлжилсэн цаг бөгөөд хүсэлтийг зөөлөн, эелдэг болгодог. 'I'-тай 'was' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Hi, I ___ to ask about my refund.",
+   "answer": "wanted",
+   "options": [
+    "wanted",
+    "wants",
+    "wanting",
+    "was want"
+   ],
+   "translation": "Сайн байна уу, би буцаан олголтынхоо талаар асуух гэсэн юм.",
+   "explain_en": "'I wanted to...' is the distancing past. It is softer than 'I want to...'.",
+   "explain_mn": "'I wanted to' нь '-х гэсэн юм'-тай адил. Өнгөрсөн цаг хэрэглэсэн ч утга нь одоо цагийн зөөлөн хүсэлт юм."
+  },
+  {
+   "lang": "en",
+   "text": "That's everything. Thanks so much, and have a great ___!",
+   "answer": "day",
+   "options": [
+    "day",
+    "call",
+    "problem",
+    "ticket"
+   ],
+   "translation": "Өөр зүйл байхгүй. Их баярлалаа, сайхан өдөр өнгөрүүлээрэй!",
+   "explain_en": "'Have a great day!' is the standard friendly way to end a call.",
+   "explain_mn": "'Have a great day!' нь дуудлагыг дуусгах түгээмэл, эелдэг хэллэг юм."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Үйлчилгээний төв, Саруул байна. Танд юугаар туслах вэ?",
+   "en": "Customer service, this is Saruul. How can I help you?",
+   "mn_latin": "Üilchilgeenii töv, Saruul baina. Tand yuugaar tuslakh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу. Өчигдөр интернэтийн асуудлаар залгасан юм. Хүсэлтийн дугаар 4821. Асуудал шийдэгдсэн эсэхийг баталгаажуулах гэсэн юм.",
+   "en": "Hello. I called yesterday about my internet. The ticket number is 4821. I wanted to confirm whether the problem was resolved.",
+   "mn_latin": "Sain baina uu. Öchigdör intyernetiin asuudlaar zalgasan yum. Khüseltiin dugaar 4821. Asuudal shiidegdsen esekhiig batalgaajuulakh gesen yum."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Түр хүлээнэ үү... Тийм, таны шугамыг өнөө өглөө сэргээсэн байна. Одоо хэвийн ажиллаж байна уу?",
+   "en": "One moment, please... Yes, your line was restored this morning. Is it working normally now?",
+   "mn_latin": "Tür khüleene üü... Tiim, tany shugamyg önöö öglöö sergeesen baina. Odoo kheviin ajillaj baina uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, хэвийн. Харин илүү төлсөн мөнгөө буцааж авч болох болов уу?",
+   "en": "Yes, it's fine. But I was wondering if I could get back the money I overpaid.",
+   "mn_latin": "Tiim, kheviin. Kharin ilüü tölsön möngöö butsaaj avch bolokh bolov uu?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Мэдээж. Буцаан олголт гурван ажлын өдрийн дотор таны дансанд орно.",
+   "en": "Of course. The refund will reach your account within three business days.",
+   "mn_latin": "Medeej. Butsaan olgolt gurvan ajlyn ödriin dotor tany dansand orno."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна. Энэ бүгдийг имэйлээр баталгаажуулж өгч болох болов уу?",
+   "en": "Great. Could you possibly confirm all of this by email?",
+   "mn_latin": "Sain baina. Ene bügdiig imeileer batalgaajuulj ögch bolokh bolov uu?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тэгье. Дуудлагын дараа богино судалгаа ирнэ. Үнэлгээ өгвөл бидэнд их тус болно.",
+   "en": "Sure. A short survey will come after the call. It would really help us if you gave a rating.",
+   "mn_latin": "Tegiye. Duudlagyn daraa bogino sudalgaa irne. Ünelgee ögvöl bidend ikh tus bolno."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Заавал өгнө. Тэвчээртэй тусалсанд тань их баярлалаа. Сайхан өдөр өнгөрүүлээрэй!",
+   "en": "I definitely will. Thank you so much for your patient help. Have a great day!",
+   "mn_latin": "Zaaval ögnö. Tevcheertei tusalsand tani ikh bayarlalaa. Saikhan ödör öngörüüleerei!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, mobile and internet companies usually send an SMS survey right after a call, asking you to rate the agent from 1 to 5. Many people skip it, but leaving a good rating or a short thank-you is seen as a kind gesture, because ratings can affect an agent's performance review. Callers keep using polite та to the very end, often closing with Баярлалаа, сайхан өдөр өнгөрүүлээрэй.",
+  "mn": "Монголд гар утас, интернэтийн компаниуд дуудлагын дараа ажилтныг 1-5 оноогоор үнэлэх SMS судалгаа ихэвчлэн илгээдэг. Олон хүн үүнийг алгасдаг. Гэхдээ үнэлгээ нь ажилтны гүйцэтгэлийн үнэлгээнд нөлөөлдөг тул сайн үнэлгээ эсвэл богино талархал үлдээх нь эелдэг сэтгэлийн илэрхийлэл болдог. Залгагчид дуудлагын төгсгөл хүртэл 'та' гэж хүндэтгэлтэй ярьж, ихэвчлэн 'Баярлалаа, сайхан өдөр өнгөрүүлээрэй' гэж дуусгадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "Natural, well-built lesson. Fixes cover one case-ending error (дугаар луу), one reflexive possessive misuse, and a typo in the English grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "Mostly solid: the fixes make two fill-in-the-blank items have a single correct answer, replace one literary Mongolian form, and correct one English alternative that shifted the meaning.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'сан' and 'на' also give grammatical reported-speech readings (баталгаажуулсан/баталгаажуулна гэсэн юм), so the answer was not unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "Without өгч the sentence means 'could I send it', which doesn't match the translation 'if you could send it to me'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_mn",
+    "why": "'хэрэглэвч' is a rare literary concessive; the natural form is 'хэрэглэсэн ч'"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "эсэхийг means 'whether'; 'confirm that' assumes the problem was fixed, which changes the meaning"
+   }
+  ]
+ }
+}

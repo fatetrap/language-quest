@@ -1,0 +1,485 @@
+{
+ "intro_en": "You will learn to say and read numbers up to 100 by combining tens and units, like хорин тав (25). You will use them for prices, bus numbers and page numbers.",
+ "intro_mn": "Та аравт ба нэгжийг хослуулан 100 хүртэлх тоог хэлж, унших, мөн үнэ, автобусны дугаар, хуудасны дугаарт хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "хорин",
+   "en": "twenty (before another number)",
+   "pos": "numeral",
+   "example_mn": "Надад хорин таван ном байна.",
+   "example_en": "I have twenty-five books.",
+   "mn_latin": "khorin"
+  },
+  {
+   "mn": "гучин",
+   "en": "thirty (before another number)",
+   "pos": "numeral",
+   "example_mn": "Гучин долоон төгрөг.",
+   "example_en": "Thirty-seven tugrik.",
+   "mn_latin": "guchin"
+  },
+  {
+   "mn": "дөчин",
+   "en": "forty (before another number)",
+   "pos": "numeral",
+   "example_mn": "Дөчин хоёрдугаар автобус ирлээ.",
+   "example_en": "Bus number forty-two has arrived.",
+   "mn_latin": "döchin"
+  },
+  {
+   "mn": "тавин",
+   "en": "fifty (before another number)",
+   "pos": "numeral",
+   "example_mn": "Тавин наймдугаар хуудсыг нээнэ үү.",
+   "example_en": "Please open page fifty-eight.",
+   "mn_latin": "tavin"
+  },
+  {
+   "mn": "жаран",
+   "en": "sixty (before another number)",
+   "pos": "numeral",
+   "example_mn": "Жаран гурван оюутан байна.",
+   "example_en": "There are sixty-three students.",
+   "mn_latin": "jaran"
+  },
+  {
+   "mn": "далан",
+   "en": "seventy (before another number)",
+   "pos": "numeral",
+   "example_mn": "Тэр далан нэгэн настай.",
+   "example_en": "He is seventy-one years old.",
+   "mn_latin": "dalan"
+  },
+  {
+   "mn": "наян",
+   "en": "eighty (before another number)",
+   "pos": "numeral",
+   "example_mn": "Наян зургаан хуудас.",
+   "example_en": "Eighty-six pages.",
+   "mn_latin": "nayan"
+  },
+  {
+   "mn": "ерэн",
+   "en": "ninety (before another number)",
+   "pos": "numeral",
+   "example_mn": "Ерэн есдүгээр хуудас.",
+   "example_en": "Page ninety-nine.",
+   "mn_latin": "yeren"
+  },
+  {
+   "mn": "зуу",
+   "en": "one hundred",
+   "pos": "numeral",
+   "example_mn": "Энэ нэг зуун мянган төгрөг.",
+   "example_en": "This is one hundred thousand tugrik.",
+   "mn_latin": "zuu"
+  },
+  {
+   "mn": "үнэ",
+   "en": "price",
+   "pos": "noun",
+   "example_mn": "Энэ ямар үнэтэй вэ?",
+   "example_en": "What is the price of this?",
+   "mn_latin": "üne"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Надад хорин таван ном байна.",
+   "en": "I have twenty-five books.",
+   "alt_mn": [],
+   "alt_en": [
+    "I've got twenty-five books."
+   ],
+   "mn_latin": "Nadad khorin tavan nom baina."
+  },
+  {
+   "mn": "Автобусны үнэ гучин таван төгрөг.",
+   "en": "The bus fare is thirty-five tugrik.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Avtobusny üne guchin tavan tögrög."
+  },
+  {
+   "mn": "Дөчин хоёрдугаар автобус ирлээ.",
+   "en": "Bus number forty-two has arrived.",
+   "alt_mn": [
+    "Дөчин хоёрын автобус ирлээ."
+   ],
+   "alt_en": [
+    "Bus forty-two is here."
+   ],
+   "mn_latin": "Döchin khoyordugaar avtobus irlee."
+  },
+  {
+   "mn": "Тавин наймдугаар хуудсыг нээнэ үү.",
+   "en": "Please open page fifty-eight.",
+   "alt_mn": [
+    "Тавин наймдугаар хуудас нээнэ үү."
+   ],
+   "alt_en": [
+    "Open to page fifty-eight, please."
+   ],
+   "mn_latin": "Tavin naimdugaar khuudsyg neene üü."
+  },
+  {
+   "mn": "Манай ангид жаран гурван оюутан байна.",
+   "en": "There are sixty-three students in our class.",
+   "alt_mn": [],
+   "alt_en": [
+    "Our class has sixty-three students."
+   ],
+   "mn_latin": "Manai angid jaran gurvan oyuutan baina."
+  },
+  {
+   "mn": "Миний өвөө далан нэгэн настай.",
+   "en": "My grandfather is seventy-one years old.",
+   "alt_mn": [],
+   "alt_en": [
+    "My grandfather is seventy-one."
+   ],
+   "mn_latin": "Minii övöö dalan negen nastai."
+  },
+  {
+   "mn": "Энэ ном наян зургаан хуудастай.",
+   "en": "This book has eighty-six pages.",
+   "alt_mn": [],
+   "alt_en": [
+    "This book is eighty-six pages long."
+   ],
+   "mn_latin": "Ene nom nayan zurgaan khuudastai."
+  },
+  {
+   "mn": "Би ерэн ес төгрөгтэй.",
+   "en": "I have ninety-nine tugrik.",
+   "alt_mn": [
+    "Надад ерэн ес төгрөг байна."
+   ],
+   "alt_en": [
+    "I've got ninety-nine tugrik."
+   ],
+   "mn_latin": "Bi yeren yes tögrögtei."
+  },
+  {
+   "mn": "Зуу хүртэл тоолъё.",
+   "en": "Let's count up to one hundred.",
+   "alt_mn": [],
+   "alt_en": [
+    "Let's count to a hundred."
+   ],
+   "mn_latin": "Zuu khürtel toolyo."
+  },
+  {
+   "mn": "Энэ ямар үнэтэй вэ?",
+   "en": "How much is this?",
+   "alt_mn": [
+    "Энэ хэд вэ?"
+   ],
+   "alt_en": [
+    "What is the price of this?"
+   ],
+   "mn_latin": "Ene yamar ünetei ve?"
+  },
+  {
+   "mn": "Хорин долоон буузны үнэ хэд вэ?",
+   "en": "How much are twenty-seven buuz?",
+   "alt_mn": [],
+   "alt_en": [
+    "What is the price of twenty-seven buuz?"
+   ],
+   "mn_latin": "Khorin doloon buuzny üne khed ve?"
+  },
+  {
+   "mn": "Миний утасны дугаарын сүүлийн хоёр орон дөчин дөрөв.",
+   "en": "The last two digits of my phone number are forty-four.",
+   "alt_mn": [],
+   "alt_en": [
+    "My phone number ends in forty-four."
+   ],
+   "mn_latin": "Minii utasny dugaaryn süüliin khoyor oron döchin döröv."
+  }
+ ],
+ "grammar": {
+  "title_en": "Tens + units: the 'n' form of the tens",
+  "title_mn": "Аравт + нэгж: аравтын «н» хэлбэр",
+  "explain_en": "To make a number from 21 to 99, say the tens first, then the units, as two separate words: хорин тав (20+5 = 25), гучин долоо (30+7 = 37). Before another number, the tens take a linking form ending in -н: хорь → хорин, гуч → гучин, дөч → дөчин, тавь → тавин, жар → жаран, дал → далан, ная → наян, ер → ерэн. On their own you say хорь, гуч, дөч, тавь, жар, дал, ная, ер. Units also take -н before a noun: хорин таван ном. In English, tens and units are joined with a hyphen: twenty-five. 100 is зуу (зуун before a noun or number: нэг зуун).",
+  "explain_mn": "21-ээс 99 хүртэлх тоог аравт ба нэгжийг тусдаа хоёр үгээр хэлнэ: хорин тав (25), гучин долоо (37). Өөр тооны өмнө аравт «н» төгсгөлтэй хэлбэр авна: хорь → хорин, гуч → гучин, дөч → дөчин, тавь → тавин, жар → жаран, дал → далан, ная → наян, ер → ерэн. Дангаар нь хорь, гуч, дөч, тавь, жар, дал, ная, ер гэнэ. Нэр үгийн өмнө нэгж ч мөн «н» авна: хорин таван ном. Англи хэлэнд аравт ба нэгжийг зураасаар бичнэ: twenty-five. 100 нь зуу (нэр үг, тооны өмнө «зуун»: нэг зуун).",
+  "examples": [
+   {
+    "mn": "хорин тав",
+    "en": "twenty-five",
+    "mn_latin": "khorin tav"
+   },
+   {
+    "mn": "гучин долоо",
+    "en": "thirty-seven",
+    "mn_latin": "guchin doloo"
+   },
+   {
+    "mn": "жаран найм",
+    "en": "sixty-eight",
+    "mn_latin": "jaran naim"
+   },
+   {
+    "mn": "ерэн ес",
+    "en": "ninety-nine",
+    "mn_latin": "yeren yes"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Надад ___ таван ном байна. (25)",
+   "answer": "хорин",
+   "options": [
+    "хорин",
+    "хорь",
+    "гучин",
+    "арван"
+   ],
+   "translation": "I have twenty-five books.",
+   "explain_en": "Before another number, 20 takes the linking form хорин, not хорь.",
+   "explain_mn": "Өөр тооны өмнө 20 нь «хорин» хэлбэртэй болдог, «хорь» гэж хэлэхгүй."
+  },
+  {
+   "mn": "",
+   "lang": "mn",
+   "text": "Автобусны үнэ ___ долоон төгрөг. (37)",
+   "answer": "гучин",
+   "options": [
+    "гучин",
+    "гуч",
+    "дөчин",
+    "хорин"
+   ],
+   "translation": "The bus fare is thirty-seven tugrik.",
+   "explain_en": "30 is гуч alone but гучин before the units.",
+   "explain_mn": "30 дангаараа «гуч», нэгжийн өмнө «гучин» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ ном ___ нэг хуудастай. (91)",
+   "answer": "ерэн",
+   "options": [
+    "ерэн",
+    "наян",
+    "далан",
+    "жаран"
+   ],
+   "translation": "This book has ninety-one pages.",
+   "explain_en": "90 before another number is ерэн.",
+   "explain_mn": "Өөр тооны өмнө 90 нь «ерэн» болно."
+  },
+  {
+   "lang": "en",
+   "text": "I am forty___ years old. (45)",
+   "answer": "-five",
+   "options": [
+    "-five",
+    "-fifty",
+    "-fifteen",
+    "five"
+   ],
+   "translation": "Би дөчин таван настай.",
+   "explain_en": "English joins tens and units with a hyphen: forty-five.",
+   "explain_mn": "Англи хэлэнд аравт, нэгжийг зураасаар холбоно: forty-five."
+  },
+  {
+   "lang": "en",
+   "text": "Please open page sixty-___.",
+   "answer": "eight",
+   "options": [
+    "eight",
+    "eighty",
+    "eighteen",
+    "eigth"
+   ],
+   "translation": "Жаран наймдугаар хуудсыг нээнэ үү.",
+   "explain_en": "68 = sixty-eight; the units word is eight.",
+   "explain_mn": "68 нь sixty-eight; нэгж нь eight (найм)."
+  },
+  {
+   "lang": "en",
+   "text": "There are one ___ students here. (100)",
+   "answer": "hundred",
+   "options": [
+    "hundred",
+    "hundreds",
+    "thousand",
+    "ten"
+   ],
+   "translation": "Энд нэг зуун оюутан байна.",
+   "explain_en": "100 is one hundred, with no -s after the number.",
+   "explain_mn": "100 нь one hundred; тооны дараа «-s» залгахгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу? Энэ ном ямар үнэтэй вэ?",
+   "en": "Hello! How much is this book?",
+   "mn_latin": "Sain baina uu? Ene nom yamar ünetei ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайн байна уу. Тавин таван мянган төгрөг.",
+   "en": "Hello. Fifty-five thousand tugrik.",
+   "mn_latin": "Sain baina uu. Tavin tavan myangan tögrög."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэр ном хэд вэ?",
+   "en": "And how much is that book?",
+   "mn_latin": "Ter nom khed ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэр жаран долоон мянган төгрөг.",
+   "en": "That one is sixty-seven thousand tugrik.",
+   "mn_latin": "Ter jaran doloon myangan tögrög."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, би эхнийхийг авъя. Энэ хэдэн хуудастай вэ?",
+   "en": "OK, I'll take the first one. How many pages does it have?",
+   "mn_latin": "Za, bi ekhniikhiig avya. Ene kheden khuudastai ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Нэг зуун хорин хуудастай.",
+   "en": "It has one hundred twenty pages.",
+   "mn_latin": "Neg zuun khorin khuudastai."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Баярлалаа. Надад зуун мянгатын дэвсгэрт байна.",
+   "en": "Thank you. I have a hundred-thousand-tugrik note.",
+   "mn_latin": "Bayarlalaa. Nadad zuun myangatyn devsgert baina."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, buses show route numbers, and shops often write prices in thousands of tugrik, so you will hear numbers like гучин таван мянга (35,000) all the time. Paying by card or QR code with Mongolian banking apps is very common, but cash is still used at markets such as the Narantuul.",
+  "mn": "Улаанбаатарт автобус чиглэлийн дугаартай явдаг, дэлгүүрт үнийг ихэвчлэн мянгаар бичдэг тул «гучин таван мянга» гэх мэт тоог байнга сонсоно. Картаар болон банкны апп-аар QR кодоор төлөх нь элбэг ч Нарантуул зэрэг зах дээр бэлэн мөнгө одоо ч хэрэглэгддэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 20,
+  "notes": "Mostly good vocab and sentences, but the grammar explain_mn describes English instead of Mongolian, the наян base form is wrong, and several smaller fixes are needed."
+ },
+ "opus_fix": {
+  "rating_before": 4,
+  "fixes": 18,
+  "notes": "Main fixes: ordinal spelling and meaning (page 58), ная/наян, the standalone vs. before-noun forms, the dialogue banknote, and culture note parity.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "On its own, 25 is хорин тав. Таван is the form used before a noun."
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "The ordinal suffix дугаар is written together with the numeral."
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "'Тавин найман хуудас' means 58 pages, not page 58."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "The suffix is written together with the numeral and follows vowel harmony (есдүгээр)."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_en",
+    "why": "'Bus price' is unnatural English."
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "Ordinal suffix spelling."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "The original said 'open the 58 pages'."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "The old alternative duplicated the corrected main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "The alternative duplicated the main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "The alternative duplicated the main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "Precise and natural wording for 'last digits of my phone number'."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "en",
+    "why": "Matches the corrected Mongolian."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "80 alone is ная. Standalone 25 is хорин тав. Now matches the mn version."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Fixes ная and хорин тав, and matches the en version."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "Standalone form of 25."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "Before a noun the units word is долоон."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Must say a 100,000 note, matching the en line."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The old mn said bus route numbers are written in thousands and left out card payment."
+   }
+  ]
+ }
+}

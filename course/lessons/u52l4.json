@@ -1,0 +1,416 @@
+{
+ "intro_en": "You will learn how to connect a claim to data in an academic paragraph, using words like evidence, correlation, and factor. You will also practice the Mongolian patterns -тай холбогдуулан, -тай холбоотой, and -ын үр дүнд.",
+ "intro_mn": "Та эрдэм шинжилгээний догол мөрөнд гол санааг өгөгдөлтэй холбохыг сурна. Мөн evidence, correlation, factor зэрэг үгс болон -тай холбогдуулан, -тай холбоотой, -ын үр дүнд хэлбэрүүдийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "нотолгоо",
+   "en": "evidence",
+   "pos": "noun",
+   "example_mn": "Энэ нотолгоо таны санааг батална.",
+   "example_en": "This evidence confirms your idea.",
+   "mn_latin": "notolgoo"
+  },
+  {
+   "mn": "хамаарал",
+   "en": "correlation",
+   "pos": "noun",
+   "example_mn": "Хоёр хувьсагчийн хооронд хүчтэй хамаарал бий.",
+   "example_en": "There is a strong correlation between the two variables.",
+   "mn_latin": "khamaaral"
+  },
+  {
+   "mn": "хүчин зүйл",
+   "en": "factor",
+   "pos": "noun",
+   "example_mn": "Орлого бол чухал хүчин зүйл юм.",
+   "example_en": "Income is an important factor.",
+   "mn_latin": "khüchin züil"
+  },
+  {
+   "mn": "нөлөө",
+   "en": "impact",
+   "pos": "noun",
+   "example_mn": "Цасан зуд малчдад ихээхэн нөлөө үзүүлсэн.",
+   "example_en": "The snow disaster had a major impact on herders.",
+   "mn_latin": "nölöö"
+  },
+  {
+   "mn": "дэмжих",
+   "en": "to support",
+   "pos": "verb",
+   "example_mn": "Судалгааны үр дүн таны таамаглалыг дэмжиж байна.",
+   "example_en": "The research results support your hypothesis.",
+   "mn_latin": "demjikh"
+  },
+  {
+   "mn": "үгүйсгэх",
+   "en": "to contradict",
+   "pos": "verb",
+   "example_mn": "Шинэ өгөгдөл хуучин дүгнэлтийг үгүйсгэж байна.",
+   "example_en": "The new data contradict the old conclusion.",
+   "mn_latin": "ügüisgekh"
+  },
+  {
+   "mn": "үр дүн",
+   "en": "result",
+   "pos": "noun",
+   "example_mn": "Туршилтын үр дүн гарлаа.",
+   "example_en": "The experiment's results are out.",
+   "mn_latin": "ür dün"
+  },
+  {
+   "mn": "өгөгдөл",
+   "en": "data",
+   "pos": "noun",
+   "example_mn": "Бид өгөгдлөө дахин шалгасан.",
+   "example_en": "We rechecked our data.",
+   "mn_latin": "ögögdöl"
+  },
+  {
+   "mn": "холбоотой",
+   "en": "related, linked",
+   "pos": "adjective",
+   "example_mn": "Энэ сэдэв эдийн засагтай холбоотой.",
+   "example_en": "This topic is related to the economy.",
+   "mn_latin": "kholbootoi"
+  },
+  {
+   "mn": "дүгнэлт",
+   "en": "conclusion",
+   "pos": "noun",
+   "example_mn": "Дүгнэлт нь нотолгоон дээр суурилах ёстой.",
+   "example_en": "A conclusion must be based on evidence.",
+   "mn_latin": "dügnelt"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ өгөгдөл бидний таамаглалыг дэмжиж байна.",
+   "en": "These data support our hypothesis.",
+   "alt_mn": [
+    "Эдгээр өгөгдөл бидний таамаглалыг дэмжиж байна."
+   ],
+   "alt_en": [
+    "These data back up our hypothesis."
+   ],
+   "mn_latin": "Ene ögögdöl bidnii taamaglalyg demjij baina."
+  },
+  {
+   "mn": "Хоёр хүчин зүйлийн хооронд хүчтэй хамаарал ажиглагдсан.",
+   "en": "A strong correlation was observed between the two factors.",
+   "alt_mn": [],
+   "alt_en": [
+    "A strong correlation was found between the two factors."
+   ],
+   "mn_latin": "Khoyor khüchin züiliin khoorond khüchtei khamaaral ajiglagdsan."
+  },
+  {
+   "mn": "Агаарын бохирдол нь амьсгалын эрхтний өвчинтэй холбоотой.",
+   "en": "Air pollution is linked to respiratory diseases.",
+   "alt_mn": [],
+   "alt_en": [
+    "Air pollution is related to respiratory diseases."
+   ],
+   "mn_latin": "Agaaryn bokhirdol ni amisgalyn erkhtnii övchintei kholbootoi."
+  },
+  {
+   "mn": "Хотжилттой холбогдуулан гэр хорооллын асуудлыг судалсан.",
+   "en": "In relation to urbanization, the problems of the ger districts were studied.",
+   "alt_mn": [],
+   "alt_en": [
+    "We studied the problems of the ger districts in connection with urbanization."
+   ],
+   "mn_latin": "Khotjilttoi kholbogduulan ger khoroollyn asuudlyg sudalsan."
+  },
+  {
+   "mn": "Шинэ нотолгоо өмнөх дүгнэлтийг үгүйсгэж байна.",
+   "en": "The new evidence contradicts the earlier conclusion.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Shine notolgoo ömnökh dügneltiig ügüisgej baina."
+  },
+  {
+   "mn": "Судалгааны үр дүнд оюутнуудын ирц сайжирсан нь тогтоогдсон.",
+   "en": "As a result of the study, it was established that students' attendance had improved.",
+   "alt_mn": [],
+   "alt_en": [
+    "The study showed that students' attendance had improved."
+   ],
+   "mn_latin": "Sudalgaany ür dünd oyuutnuudyn irts saijirsan ni togtoogdson."
+  },
+  {
+   "mn": "Энэ үр дүн өмнөх судалгаатай нийцэж байна.",
+   "en": "This result is consistent with the earlier study.",
+   "alt_mn": [
+    "Энэ үр дүн өмнөх судалгаатай тохирч байна."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ene ür dün ömnökh sudalgaatai niitsej baina."
+  },
+  {
+   "mn": "Үнийн өсөлт худалдан авалтад ихээхэн нөлөө үзүүлсэн.",
+   "en": "The price increase had a major impact on purchasing.",
+   "alt_mn": [],
+   "alt_en": [
+    "The rise in prices had a big impact on purchases."
+   ],
+   "mn_latin": "Üniin ösölt khudaldan avaltad ikheekhen nölöö üzüülsen."
+  },
+  {
+   "mn": "Хамаарал нь заавал шалтгаан гэсэн үг биш.",
+   "en": "Correlation does not necessarily mean causation.",
+   "alt_mn": [
+    "Хамаарал гэдэг нь заавал шалтгаан гэсэн үг биш."
+   ],
+   "alt_en": [
+    "Correlation does not always mean cause."
+   ],
+   "mn_latin": "Khamaaral ni zaaval shaltgaan gesen üg bish."
+  },
+  {
+   "mn": "Цаг уурын өөрчлөлттэй холбогдуулан малчдын орлогыг шинжилсэн.",
+   "en": "In relation to climate change, herders' income was analyzed.",
+   "alt_mn": [],
+   "alt_en": [
+    "We analyzed herders' income in connection with climate change."
+   ],
+   "mn_latin": "Tsag uuryn öörchlölttei kholbogduulan malchdyn orlogyg shinjilsen."
+  },
+  {
+   "mn": "Дүгнэлтээ нотолгоогоор баталгаажуулах хэрэгтэй.",
+   "en": "You need to back up your conclusion with evidence.",
+   "alt_mn": [
+    "Дүгнэлтээ нотолгоогоор бататгах хэрэгтэй."
+   ],
+   "alt_en": [
+    "You should support your conclusion with evidence."
+   ],
+   "mn_latin": "Dügneltee notolgoogoor batalgaajuulakh kheregtei."
+  },
+  {
+   "mn": "Боловсролын түвшин нь орлоготой холбоотой гол хүчин зүйл юм.",
+   "en": "The level of education is a key factor related to income.",
+   "alt_mn": [],
+   "alt_en": [
+    "Education level is a main factor linked to income."
+   ],
+   "mn_latin": "Bolovsrolyn tüvshin ni orlogotoi kholbootoi gol khüchin züil yum."
+  }
+ ],
+ "grammar": {
+  "title_en": "Relating topics and results: -тай холбогдуулан, -тай холбоотой, -ын үр дүнд",
+  "title_mn": "Холбоо ба үр дүнг илэрхийлэх нь: linked to, in relation to, as a result of",
+  "explain_en": "To link ideas and data in Mongolian, use these patterns: noun + -тай/-тэй/-той/-төй (comitative) + холбоотой for 'is related/linked to' (стресстэй холбоотой); comitative + холбогдуулан for 'in relation to' (орлоготой холбогдуулан); comitative + нийцэх for 'is consistent with'; and genitive + үр дүнд for 'as a result of' (судалгааны үр дүнд). Choose the comitative vowel by vowel harmony. Холбогдуулан is a converb and often opens a clause, while холбоотой usually comes right before the predicate. In English these are prepositional phrases that come before the noun: 'linked to smoking', 'in relation to income', 'consistent with the data'. Don't forget the 'with' in 'consistent with'.",
+  "explain_mn": "Монгол хэлэнд санаа, өгөгдлийг холбохдоо дараах хэлбэрүүдийг хэрэглэнэ: -тай холбоотой (is linked/related to), -тай холбогдуулан (in relation to), -тай нийцэх (is consistent with), -ын үр дүнд (as a result of). Нэр үгэнд эгшиг зохицох ёсоор тохирох дагаврыг залгана: «стресстэй холбоотой», «орлоготой холбогдуулан». «Холбогдуулан» нь нөхцөл үйл үг тул ихэвчлэн өгүүлбэрийн эхэнд ордог. Харин «холбоотой» нь ихэвчлэн өгүүлэхүүний яг өмнө ордог. Англи хэлэнд эдгээр нь угтвар хэллэг бөгөөд нэр үгийн өмнө орно: 'linked to smoking', 'in relation to income', 'consistent with the data'. 'Consistent with'-ийн 'with'-ийг мартаж болохгүй.",
+  "examples": [
+   {
+    "mn": "Цаг уурын өөрчлөлттэй холбогдуулан судалгаа хийлээ.",
+    "en": "We conducted research in relation to climate change.",
+    "mn_latin": "Tsag uuryn öörchlölttei kholbogduulan sudalgaa khiilee."
+   },
+   {
+    "mn": "Энэ нь стресстэй холбоотой.",
+    "en": "This is linked to stress.",
+    "mn_latin": "Ene ni stryesstei kholbootoi."
+   },
+   {
+    "mn": "Туршилтын үр дүнд шинэ дүгнэлт гарсан.",
+    "en": "As a result of the experiment, a new conclusion emerged.",
+    "mn_latin": "Turshiltyn ür dünd shine dügnelt garsan."
+   },
+   {
+    "mn": "Өгөгдөл таамаглалтай нийцэж байна.",
+    "en": "The data are consistent with the hypothesis.",
+    "mn_latin": "Ögögdöl taamaglaltai niitsej baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хотжилт___ холбогдуулан судалгаа хийсэн.",
+   "answer": "той",
+   "options": [
+    "той",
+    "тай",
+    "тэй",
+    "төй"
+   ],
+   "translation": "We conducted research in relation to urbanization.",
+   "explain_en": "Хотжилт has the back vowel о (и is neutral), so the comitative is -той: хотжилттой.",
+   "explain_mn": "Хотжилт үг о эгшигтэй тул «-той» дагавар залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ өвчин хүнсний чанар___ холбоотой.",
+   "answer": "тай",
+   "options": [
+    "тай",
+    "той",
+    "тэй",
+    "төй"
+   ],
+   "translation": "This disease is related to food quality.",
+   "explain_en": "Чанар has a back vowel, so use -тай before холбоотой.",
+   "explain_mn": "Чанар гэдэг үг а эгшигтэй тул «-тай» залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Судалгааны ___ оюутнуудын ирц нэмэгдсэн.",
+   "answer": "үр дүнд",
+   "options": [
+    "үр дүнд",
+    "үр дүнтэй",
+    "үр дүнгээс",
+    "үр дүнгээр"
+   ],
+   "translation": "As a result of the study, students' attendance increased.",
+   "explain_en": "Genitive + үр дүнд means 'as a result of'.",
+   "explain_mn": "«-ын үр дүнд» нь «as a result of» гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The new data are ___ with our earlier findings.",
+   "answer": "consistent",
+   "options": [
+    "consistent",
+    "related",
+    "caused",
+    "contrary"
+   ],
+   "translation": "Шинэ өгөгдөл бидний өмнөх олдвортой нийцэж байна.",
+   "explain_en": "'Consistent with' is the fixed phrase for agreement between data and findings.",
+   "explain_mn": "«Consistent with» нь «-тай нийцэх» гэсэн тогтсон хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "Air pollution is ___ to higher rates of asthma.",
+   "answer": "linked",
+   "options": [
+    "linked",
+    "supported",
+    "resulted",
+    "contradicted"
+   ],
+   "translation": "Агаарын бохирдол астмагийн өндөр түвшинтэй холбоотой.",
+   "explain_en": "'Linked to' expresses an association without claiming direct cause.",
+   "explain_mn": "«Linked to» нь шууд шалтгааныг заалгүй холбоог илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "These results ___ the claim that prices affect demand.",
+   "answer": "support",
+   "options": [
+    "support",
+    "contradict",
+    "relate",
+    "depend"
+   ],
+   "translation": "Эдгээр үр дүн үнэ эрэлтэд нөлөөлдөг гэсэн санааг дэмжиж байна.",
+   "explain_en": "'Support' fits because the results agree with the claim; 'contradict' would mean the opposite.",
+   "explain_mn": "Үр дүн санаатай нийцэж байгаа тул «support» тохирно; «contradict» эсрэг утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Миний догол мөрөнд нотолгоо дутуу байна уу?",
+   "en": "Is there not enough evidence in my paragraph?",
+   "mn_latin": "Minii dogol mörönd notolgoo dutuu baina uu?"
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Таны гол санаа тод, гэхдээ өгөгдөлтэй холбоогүй байна.",
+   "en": "Your main idea is clear, but it isn't connected to the data.",
+   "mn_latin": "Tany gol sanaa tod, gekhdee ögögdöltei kholboogüi baina."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Би агаарын бохирдол өвчинтэй холбоотой гэж бичсэн.",
+   "en": "I wrote that air pollution is linked to illness.",
+   "mn_latin": "Bi agaaryn bokhirdol övchintei kholbootoi gej bichsen."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Тэгвэл тоон мэдээллээ нэмээд, хамаарал хэр хүчтэй болохыг тайлбарлаарай.",
+   "en": "Then add the numbers and explain how strong the correlation is.",
+   "mn_latin": "Tegvel toon medeellee nemeed, khamaaral kher khüchtei bolokhyg tailbarlaarai."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Энэ үр дүн өмнөх судалгаатай нийцэж байна гэж бичиж болох уу?",
+   "en": "Can I write that this result is consistent with the earlier study?",
+   "mn_latin": "Ene ür dün ömnökh sudalgaatai niitsej baina gej bichij bolokh uu?"
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Болно. Гэхдээ хамаарал нь шалтгаан гэсэн үг биш гэдгийг бүү мартаарай.",
+   "en": "Yes. But don't forget that correlation doesn't mean causation.",
+   "mn_latin": "Bolno. Gekhdee khamaaral ni shaltgaan gesen üg bish gedgiig büü martaarai."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Ойлголоо. Өөр хүчин зүйлсийг ч дурдъя.",
+   "en": "Got it. I'll mention other factors too.",
+   "mn_latin": "Oilgoloo. Öör khüchin züilsiig ch durdya."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Сайн санаа. Тэгвэл таны дүгнэлт илүү үнэмшилтэй болно.",
+   "en": "Good idea. Then your conclusion will be more convincing.",
+   "mn_latin": "Sain sanaa. Tegvel tany dügnelt ilüü ünemshiltei bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian academic writing, authors often hedge claims with phrases like «холбоотой байж болзошгүй» (may be linked). Ulaanbaatar's winter air pollution from ger district stoves is a common topic in student papers, where the link between data and claims is closely examined. Clear evidence and careful wording are highly valued at the National University of Mongolia.",
+  "mn": "Монголын эрдэм шинжилгээний бичигт зохиогчид «холбоотой байж болзошгүй» гэх мэтээр дүгнэлтээ болгоомжтой илэрхийлдэг. Гэр хорооллын зуухнаас үүдэлтэй Улаанбаатарын өвлийн утаа нь оюутны ажлуудад түгээмэл сэдэв бөгөөд өгөгдөл ба санааны холбоог нарийн шалгадаг. Монгол Улсын Их Сургуульд тодорхой нотолгоо, болгоомжтой хэллэгийг өндрөөр үнэлдэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 11,
+  "notes": "Mostly good content; the Mongolian grammar explanation was written as English-side content and needed rewriting, plus a few weak distractors."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Mostly solid. I aligned the grammar explanations, fixed register and hidden characters in the dialogue, and corrected the university name capitalization.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different content"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "align with en version"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "polite imperative to match та register"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "removed hidden soft hyphens; polite register"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "plural to match 'other factors'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "proper-name capitalization of the university"
+   }
+  ]
+ }
+}

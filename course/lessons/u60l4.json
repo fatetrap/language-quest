@@ -1,0 +1,440 @@
+{
+ "intro_en": "You will learn to pay by QPay, split a restaurant bill and send money to relatives in the countryside. You will also practice collective numerals like гурвуулаа and дөрвүүлээ for sharing costs.",
+ "intro_mn": "Та QPay-ээр төлөх, ресторан дахь тооцоог хуваах, хөдөөгийн төрөл садан руу мөнгө шилжүүлэх зэргийг сурна. Мөн зардлыг хуваахад хэрэглэдэг гурвуулаа, дөрвүүлээ гэх мэт хамтын тооны нэрийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "шилжүүлэг",
+   "en": "transfer",
+   "pos": "noun",
+   "example_mn": "Би аавдаа мөнгөний шилжүүлэг хийсэн.",
+   "example_en": "I made a money transfer to my father.",
+   "mn_latin": "shiljüüleg"
+  },
+  {
+   "mn": "QR код",
+   "en": "QR code",
+   "pos": "noun",
+   "example_mn": "Касс дээрх QR кодыг уншуулна уу.",
+   "example_en": "Please scan the QR code at the checkout.",
+   "mn_latin": "QR kod"
+  },
+  {
+   "mn": "гүйлгээ",
+   "en": "transaction",
+   "pos": "noun",
+   "example_mn": "Таны гүйлгээ амжилттай хийгдлээ.",
+   "example_en": "Your transaction was successful.",
+   "mn_latin": "güilgee"
+  },
+  {
+   "mn": "банкны апп",
+   "en": "banking app",
+   "pos": "noun",
+   "example_mn": "Би банкны аппаа утсандаа суулгасан.",
+   "example_en": "I installed the banking app on my phone.",
+   "mn_latin": "bankny app"
+  },
+  {
+   "mn": "хураамж",
+   "en": "fee",
+   "pos": "noun",
+   "example_mn": "Банк энэ шилжүүлгээс хураамж авна.",
+   "example_en": "The bank charges a fee for this transfer.",
+   "mn_latin": "khuraamj"
+  },
+  {
+   "mn": "баримт",
+   "en": "receipt",
+   "pos": "noun",
+   "example_mn": "Надад төлбөрийн баримт өгөөч.",
+   "example_en": "Please give me the payment receipt.",
+   "mn_latin": "barimt"
+  },
+  {
+   "mn": "хуваах",
+   "en": "to split",
+   "pos": "verb",
+   "example_mn": "Бид тооцоог тэнцүү хуваая.",
+   "example_en": "Let's split the bill equally.",
+   "mn_latin": "khuvaakh"
+  },
+  {
+   "mn": "уншуулах",
+   "en": "to scan",
+   "pos": "verb",
+   "example_mn": "Утсаараа кодыг уншуулаарай.",
+   "example_en": "Scan the code with your phone.",
+   "mn_latin": "unshuulakh"
+  },
+  {
+   "mn": "тооцоо",
+   "en": "bill, settling up",
+   "pos": "noun",
+   "example_mn": "Тооцоогоо хийе.",
+   "example_en": "Let's settle the bill.",
+   "mn_latin": "tootsoo"
+  },
+  {
+   "mn": "данс",
+   "en": "account",
+   "pos": "noun",
+   "example_mn": "Мөнгийг миний данс руу шилжүүл.",
+   "example_en": "Transfer the money to my account.",
+   "mn_latin": "dans"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид гурвуулаа ресторанд очсон.",
+   "en": "The three of us went to a restaurant.",
+   "alt_mn": [],
+   "alt_en": [
+    "We three went to a restaurant."
+   ],
+   "mn_latin": "Bid gurvuulaa ryestorand ochson."
+  },
+  {
+   "mn": "Тооцоог гурвуулаа хуваая.",
+   "en": "Let's split the bill between the three of us.",
+   "alt_mn": [
+    "Тооцоог гурвуулаа хуваацгаая."
+   ],
+   "alt_en": [
+    "Let's split the bill three ways."
+   ],
+   "mn_latin": "Tootsoog gurvuulaa khuvaaya."
+  },
+  {
+   "mn": "Бид дөрвүүлээ нийт арван мянган төгрөг төлсөн.",
+   "en": "The four of us paid ten thousand tugriks altogether.",
+   "alt_mn": [],
+   "alt_en": [
+    "The four of us paid a total of ten thousand tugriks."
+   ],
+   "mn_latin": "Bid dörvüülee niit arvan myangan tögrög tölsön."
+  },
+  {
+   "mn": "Хүн бүр тавыг төлнө.",
+   "en": "Each person will pay five.",
+   "alt_mn": [
+    "Хүн бүр тав тавыг төлөх болно."
+   ],
+   "alt_en": [
+    "Everyone pays five each."
+   ],
+   "mn_latin": "Khün bür tavyg tölnö."
+  },
+  {
+   "mn": "QR кодыг уншуулаад төлбөрөө баталгаажуулна уу.",
+   "en": "Scan the QR code and confirm your payment.",
+   "alt_mn": [],
+   "alt_en": [
+    "Please scan the QR code and confirm the payment."
+   ],
+   "mn_latin": "QR kodyg unshuulaad tölböröö batalgaajuulna uu."
+  },
+  {
+   "mn": "Би QPay-ээр төлбөрөө төлсөн.",
+   "en": "I paid with QPay.",
+   "alt_mn": [
+    "Би төлбөрөө QPay-ээр төлсөн."
+   ],
+   "alt_en": [
+    "I paid the bill with QPay."
+   ],
+   "mn_latin": "Bi QPay-eer tölböröö tölsön."
+  },
+  {
+   "mn": "Гүйлгээ амжилттай боллоо.",
+   "en": "The transaction went through.",
+   "alt_mn": [
+    "Гүйлгээ амжилттай хийгдлээ."
+   ],
+   "alt_en": [
+    "The transaction was successful."
+   ],
+   "mn_latin": "Güilgee amjilttai bolloo."
+  },
+  {
+   "mn": "Энэ шилжүүлэгт хураамж авах уу?",
+   "en": "Is there a fee for this transfer?",
+   "alt_mn": [
+    "Энэ шилжүүлгээс хураамж авдаг уу?"
+   ],
+   "alt_en": [
+    "Do you charge a fee for this transfer?"
+   ],
+   "mn_latin": "Ene shiljüülegt khuraamj avakh uu?"
+  },
+  {
+   "mn": "Би хөдөө байгаа ээждээ мөнгө шилжүүлэх гэж байна.",
+   "en": "I am going to send money to my mother in the countryside.",
+   "alt_mn": [
+    "Би ээждээ хөдөө мөнгө шилжүүлэх гэж байна."
+   ],
+   "alt_en": [
+    "I'm about to transfer money to my mom in the countryside."
+   ],
+   "mn_latin": "Bi khödöö baigaa eejdee möngö shiljüülekh gej baina."
+  },
+  {
+   "mn": "Төлбөрийн баримтаа хадгалаарай.",
+   "en": "Keep your payment receipt.",
+   "alt_mn": [
+    "Баримтаа хадгалаарай."
+   ],
+   "alt_en": [
+    "Please keep your receipt."
+   ],
+   "mn_latin": "Tölböriin barimtaa khadgalaarai."
+  },
+  {
+   "mn": "Бид тавуулаа хоолны мөнгийг тэнцүү хувааж төлсөн.",
+   "en": "The five of us split the food bill equally.",
+   "alt_mn": [
+    "Бид тавуулаа хоолны төлбөрийг тэнцүү хувааж төлсөн."
+   ],
+   "alt_en": [
+    "The five of us paid for the food, splitting it equally."
+   ],
+   "mn_latin": "Bid tavuulaa khoolny möngiig tentsüü khuvaaj tölsön."
+  },
+  {
+   "mn": "Банкны аппаараа дансныхаа үлдэгдлийг хар.",
+   "en": "Check your account balance in your banking app.",
+   "alt_mn": [],
+   "alt_en": [
+    "Look at your account balance in your banking app."
+   ],
+   "mn_latin": "Bankny appaaraa dansnykhaa üldegdliig khar."
+  }
+ ],
+ "grammar": {
+  "title_en": "Collective numerals: -уулаа / -үүлээ",
+  "title_mn": "Хамтын тооны нэр: -уулаа / -үүлээ",
+  "explain_en": "To say 'the three of us / you three / the three of them' acting together, Mongolian adds a collective ending to the number: гурав → гурвуулаа, дөрөв → дөрвүүлээ, тав → тавуулаа, хоёр → хоёулаа. The ending follows vowel harmony (-уулаа with back vowels, -үүлээ with front vowels) and is often used with бид (we), та нар (you) or тэд (they). It is perfect for sharing costs: 'Тооцоог гурвуулаа хуваая' = 'Let's split the bill between the three of us.' English uses 'the three of us', 'each' and 'altogether' for the same ideas; Mongolian often uses хүн бүр, тус бүр or нийтдээ for 'each' and 'altogether'.",
+  "explain_mn": "Англи хэлэнд хамтын тооны нэр байхгүй тул 'the three of us', 'the four of you' гэж тоог 'of + төлөөний үг' бүтцээр хэлнэ. Жишээ нь: Бид гурвуулаа → the three of us; та нар дөрвүүлээ → the four of you. Мөн 'each' нь хүн бүр, тус бүр гэсэн утгатай (We paid five each), 'altogether' нь нийтдээ гэсэн утгатай (It was twenty altogether). 'Split the bill between us' гэхдээ 'between' нь хоёр, гурав зэрэг цөөн хүнд, 'among' нь олон хүнд тохирно.",
+  "examples": [
+   {
+    "mn": "Бид гурвуулаа тооцоогоо хуваасан.",
+    "en": "The three of us split the bill.",
+    "mn_latin": "Bid gurvuulaa tootsoogoo khuvaasan."
+   },
+   {
+    "mn": "Та нар дөрвүүлээ хэдийг төлөх вэ?",
+    "en": "How much will the four of you pay?",
+    "mn_latin": "Ta nar dörvüülee khediig tölökh ve?"
+   },
+   {
+    "mn": "Тэд хоёулаа QPay-ээр төлсөн.",
+    "en": "The two of them paid with QPay.",
+    "mn_latin": "Ted khoyoulaa QPay-eer tölsön."
+   },
+   {
+    "mn": "Бид тавуулаа нийтдээ арван мянга төлсөн.",
+    "en": "The five of us paid ten thousand altogether.",
+    "mn_latin": "Bid tavuulaa niitdee arvan myanga tölsön."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бид гурв___ тооцоогоо хуваая.",
+   "answer": "уулаа",
+   "options": [
+    "уулаа",
+    "үүлээ",
+    "аа",
+    "тай"
+   ],
+   "translation": "Let's split the bill, the three of us.",
+   "explain_en": "Гурав is a back-vowel word, so the collective ending is -уулаа (гурвуулаа; the stem vowel drops).",
+   "explain_mn": "Гурав нь эрэгтэй эгшигтэй тул -уулаа залгана (гурвуулаа)."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид дөрв___ ресторанд хоолоо идсэн.",
+   "answer": "үүлээ",
+   "options": [
+    "үүлээ",
+    "уулаа",
+    "өөр",
+    "лөө"
+   ],
+   "translation": "The four of us ate at the restaurant.",
+   "explain_en": "Дөрөв has front vowels (ө), so the ending is -үүлээ: дөрвүүлээ.",
+   "explain_mn": "Дөрөв нь эмэгтэй эгшигтэй тул -үүлээ залгаж дөрвүүлээ болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Банк энэ шилжүүлгээс ___ авна.",
+   "answer": "хураамж",
+   "options": [
+    "хураамж",
+    "баримт",
+    "код",
+    "данс"
+   ],
+   "translation": "The bank charges a fee for this transfer.",
+   "explain_en": "Хураамж means 'fee', which is what a bank charges.",
+   "explain_mn": "Банк шилжүүлгээс авдаг төлбөрийг хураамж гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The three of us split the bill ___.",
+   "answer": "equally",
+   "options": [
+    "equally",
+    "altogether",
+    "each",
+    "between"
+   ],
+   "translation": "Бид гурвуулаа тооцоог тэнцүү хуваасан.",
+   "explain_en": "'Equally' describes how the bill is divided.",
+   "explain_mn": "'Equally' нь тэнцүү гэсэн утгатай, хуваах арга барилыг хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "We paid twenty thousand tugriks ___, so it was five thousand each.",
+   "answer": "altogether",
+   "options": [
+    "altogether",
+    "each",
+    "either",
+    "between"
+   ],
+   "translation": "Бид нийтдээ хорин мянган төгрөг төлсөн, тиймээс хүн бүр таван мянгыг төлсөн.",
+   "explain_en": "'Altogether' means the total of everyone's payment.",
+   "explain_mn": "'Altogether' нь нийтдээ гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Let's split the bill ___ the three of us.",
+   "answer": "between",
+   "options": [
+    "between",
+    "from",
+    "to",
+    "on"
+   ],
+   "translation": "Тооцоог бид гурвуулаа хуваая.",
+   "explain_en": "'Between' is the usual choice for splitting among a small, specific group, like three people.",
+   "explain_mn": "Цөөн, тодорхой хүмүүсийн хооронд хуваахад 'between' хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Тооцоогоо хийе. Бид гурвуулаа хуваах уу?",
+   "en": "Let's settle up. Shall we split it between the three of us?",
+   "mn_latin": "Tootsoogoo khiiye. Bid gurvuulaa khuvaakh uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм ээ. Нийтдээ хэд болов?",
+   "en": "Yes. How much is it altogether?",
+   "mn_latin": "Tiim ee. Niitdee khed bolov?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Нийтдээ тавин мянга. Хүн бүр арван зургаан мянга орчим.",
+   "en": "Fifty thousand altogether. About sixteen thousand each.",
+   "mn_latin": "Niitdee tavin myanga. Khün bür arvan zurgaan myanga orchim."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би QR кодыг уншуулъя. QPay-ээр төлж болох уу?",
+   "en": "I'll scan the QR code. Can we pay with QPay?",
+   "mn_latin": "Bi QR kodyg unshuulya. QPay-eer tölj bolokh uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Болно. Банкны аппаа нээгээд уншуул.",
+   "en": "Yes. Open your banking app and scan it.",
+   "mn_latin": "Bolno. Bankny appaa neegeed unshuul."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Гүйлгээ амжилттай боллоо. Баримтаа авъя.",
+   "en": "The transaction went through. Let me take the receipt.",
+   "mn_latin": "Güilgee amjilttai bolloo. Barimtaa avya."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Дараа нь би ээждээ хөдөө мөнгө шилжүүлэх ёстой.",
+   "en": "Afterward I have to send money to my mother in the countryside.",
+   "mn_latin": "Daraa ni bi eejdee khödöö möngö shiljüülekh yostoi."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Хураамж бага авдаг аппаар шилжүүлээрэй.",
+   "en": "Use an app that charges a small fee.",
+   "mn_latin": "Khuraamj baga avdag appaar shiljüüleerei."
+  }
+ ],
+ "culture_note": {
+  "en": "QPay is widely used in Ulaanbaatar, from restaurants and taxis to small markets: you scan a QR code with a banking app and pay at once. Many people also use mobile transfers to send money to parents or relatives in the countryside, where the rural bank branch may be far away. Friends often split the bill among themselves, but at family gatherings the older person or host may insist on paying for everyone.",
+  "mn": "QPay нь Улаанбаатарт ресторан, такси, жижиг дэлгүүр зэрэг олон газар өргөн хэрэглэгддэг бөгөөд банкны аппаар QR кодыг уншуулаад шууд төлдөг. Хөдөө байгаа эцэг эх, төрөл садандаа мобайл шилжүүлгээр мөнгө явуулах нь түгээмэл, учир нь банкны салбар хол байж болно. Найзууд тооцоогоо хуваадаг ч гэр бүлийн цугларалт дээр ахмад хүн эсвэл гэрийн эзэн бүгдийн төлбөрийг өөрөө төлнө гэж шаардаж магадгүй."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 21,
+  "notes": "Mostly good, but there are a few unnatural terms (the 'payment card app'), a garbled grammar sentence, and a redundant or ambiguous English fill-blank; some of the proposed edits are minor."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 8,
+  "notes": "Main problems were the wrong collective form таваулаа, a fill-in-the-blank stem and a blank with two correct answers, and wrong word choices in the mn culture note.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "Correct collective form is тавуулаа"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "таваулаа → тавуулаа"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "таваулаа → тавуулаа"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "таваулаа → тавуулаа"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "Repeated 'тавыг тавыг' is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "The blank must attach to the stem гурв- to give гурвуулаа"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'among the three of us' is also acceptable, so the answer was not unique"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "хуримтлал means 'savings' and этгээд is pejorative; the mn version now matches 'may insist' in the en"
+   }
+  ]
+ }
+}

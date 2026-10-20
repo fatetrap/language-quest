@@ -1,0 +1,403 @@
+{
+ "intro_en": "You will read and discuss news reports about looted tombs, smuggled dinosaur fossils, and their return to Mongolia. You will also learn how Mongolian reports make careful guesses about the past with -сан бололтой and -сан шинжтэй, and how English does the same with \"evidence suggests,\" \"there is no evidence that,\" and \"apparently.\"",
+ "intro_mn": "Тоносон булш, хууль бусаар гаргасан үлэг гүрвэлийн яс, тэдгээрийг Монголд буцаан авчирсан тухай мэдээ уншиж, ярилцана. Мөн англи хэлний мэдээнд өнгөрсөн үйл явдлын талаар хэрхэн болгоомжтой дүгнэлт хийдгийг сурна. Үүнд \"evidence suggests\", \"there is no evidence that\", \"apparently\" зэрэг хэллэг багтана.",
+ "vocab": [
+  {
+   "mn": "тонох",
+   "en": "to loot, to plunder",
+   "pos": "verb",
+   "example_mn": "Хэн нэгэн энэ булшийг шөнөөр тоножээ.",
+   "example_en": "Someone looted this tomb at night.",
+   "mn_latin": "tonokh"
+  },
+  {
+   "mn": "хар зах",
+   "en": "black market",
+   "pos": "noun",
+   "example_mn": "Чулуужсан яс хар зах дээр өндөр үнэтэй байдаг.",
+   "example_en": "Fossils fetch high prices on the black market.",
+   "mn_latin": "khar zakh"
+  },
+  {
+   "mn": "соёлын өв",
+   "en": "cultural heritage",
+   "pos": "noun",
+   "example_mn": "Хадны зураг бол манай соёлын өв.",
+   "example_en": "Rock art is part of our cultural heritage.",
+   "mn_latin": "soyolyn öv"
+  },
+  {
+   "mn": "чулуужсан яс",
+   "en": "fossil (bone)",
+   "pos": "noun",
+   "example_mn": "Говиос олон чулуужсан яс олддог.",
+   "example_en": "Many fossils are found in the Gobi.",
+   "mn_latin": "chuluujsan yas"
+  },
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence",
+   "pos": "noun",
+   "example_mn": "Цагдаад хангалттай нотлох баримт алга.",
+   "example_en": "The police don't have enough evidence.",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "хураан авах",
+   "en": "to seize, to confiscate",
+   "pos": "verb",
+   "example_mn": "Гаалийнхан нэг хайрцаг яс хураан авчээ.",
+   "example_en": "Customs officers seized a box of bones.",
+   "mn_latin": "khuraan avakh"
+  },
+  {
+   "mn": "буцаан авчрах",
+   "en": "to bring back, to repatriate",
+   "pos": "verb",
+   "example_mn": "Олдворуудыг Монголд буцаан авчирлаа.",
+   "example_en": "The artifacts were brought back to Mongolia.",
+   "mn_latin": "butsaan avchrakh"
+  },
+  {
+   "mn": "хууль бусаар",
+   "en": "illegally",
+   "pos": "adverb",
+   "example_mn": "Тэд дархан цаазат газарт хууль бусаар ухаж байжээ.",
+   "example_en": "They had been digging illegally in a protected area.",
+   "mn_latin": "khuuli busaar"
+  },
+  {
+   "mn": "хил давуулах",
+   "en": "to smuggle across the border",
+   "pos": "verb",
+   "example_mn": "Ясыг хайрцагт нууж хил давуулсан байна.",
+   "example_en": "The bones were smuggled across the border hidden in boxes.",
+   "mn_latin": "khil davuulakh"
+  },
+  {
+   "mn": "дуудлага худалдаа",
+   "en": "auction",
+   "pos": "noun",
+   "example_mn": "Араг ясыг дуудлага худалдаанд оруулжээ.",
+   "example_en": "The skeleton was put up for auction.",
+   "mn_latin": "duudlaga khudaldaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Булшийг хэдэн жилийн өмнө тоносон бололтой.",
+   "en": "The tomb was apparently looted several years ago.",
+   "alt_mn": [],
+   "alt_en": [
+    "It seems the tomb was looted several years ago.",
+    "Apparently, the tomb was looted several years ago."
+   ],
+   "mn_latin": "Bulshiig kheden jiliin ömnö tonoson bololtoi."
+  },
+  {
+   "mn": "Малтлагын талбайн ойролцоо хууль бусаар ухсан шинжтэй нүхнүүд олджээ.",
+   "en": "Pits showing signs of illegal digging were found near the excavation site.",
+   "alt_mn": [
+    "Малтлагын талбайн ойролцоо хууль бусаар ухсан шинжтэй нүхнүүд илэрчээ."
+   ],
+   "alt_en": [
+    "Holes that appear to have been dug illegally were found near the excavation site."
+   ],
+   "mn_latin": "Maltlagyn talbain oiroltsoo khuuli busaar ukhsan shinjtei nükhnüüd oldjee."
+  },
+  {
+   "mn": "Тарбозаврын араг ясыг Нью-Йоркт дуудлага худалдаагаар зарсны дараа хураан авчээ.",
+   "en": "The Tarbosaurus skeleton was seized after it was sold at an auction in New York.",
+   "alt_mn": [],
+   "alt_en": [
+    "The Tarbosaurus skeleton was confiscated after being sold at auction in New York."
+   ],
+   "mn_latin": "Tarbozavryn arag yasyg Niyu-Iorkt duudlaga khudaldaagaar zarsny daraa khuraan avchee."
+  },
+  {
+   "mn": "Чулуужсан ясыг Монголоос хууль бусаар гаргасныг нотлох баримт хангалттай байсан.",
+   "en": "There was enough evidence that the fossils had been smuggled out of Mongolia.",
+   "alt_mn": [
+    "Чулуужсан ясыг Монголоос хууль бусаар гаргасан гэдгийг нотлох баримт хангалттай байсан."
+   ],
+   "alt_en": [
+    "There was sufficient evidence that the fossils had been taken out of Mongolia illegally."
+   ],
+   "mn_latin": "Chuluujsan yasyg Mongoloos khuuli busaar gargasnyg notlokh barimt khangalttai baisan."
+  },
+  {
+   "mn": "Эдгээр олдворыг олон жил хар зах дээр худалдаалж байсан бололтой.",
+   "en": "These artifacts were apparently traded on the black market for many years.",
+   "alt_mn": [],
+   "alt_en": [
+    "It seems these artifacts had been sold on the black market for years."
+   ],
+   "mn_latin": "Edgeer oldvoryg olon jil khar zakh deer khudaldaalj baisan bololtoi."
+  },
+  {
+   "mn": "Яснуудыг машины суудал дор нууж хил давуулсан шинжтэй.",
+   "en": "There are signs that the bones were smuggled across the border hidden under car seats.",
+   "alt_mn": [],
+   "alt_en": [
+    "The bones appear to have been smuggled across the border under car seats."
+   ],
+   "mn_latin": "Yasnuudyg mashiny suudal dor nuuj khil davuulsan shinjtei."
+  },
+  {
+   "mn": "Музейн ажилтнууд хэрэгт оролцсон гэх нотлох баримт одоогоор алга.",
+   "en": "So far, there is no evidence that museum staff were involved.",
+   "alt_mn": [
+    "Музейн ажилтнууд хэрэгт оролцсоныг нотлох баримт одоогоор алга."
+   ],
+   "alt_en": [
+    "There is no evidence so far that museum employees were involved."
+   ],
+   "mn_latin": "Muzyein ajiltnuud kheregt oroltsson gekh notlokh barimt odoogoor alga."
+  },
+  {
+   "mn": "Нотлох баримтаас харахад хулгайчид энэ нутгийг сайн мэддэг хүмүүс байсан бололтой.",
+   "en": "Evidence suggests that the looters knew the area well.",
+   "alt_mn": [
+    "Нотлох баримтаас үзэхэд хулгайчид энэ нутгийг сайн мэддэг байсан бололтой."
+   ],
+   "alt_en": [
+    "The evidence suggests the looters were familiar with the area."
+   ],
+   "mn_latin": "Notlokh barimtaas kharakhad khulgaichid ene nutgiig sain meddeg khümüüs baisan bololtoi."
+  },
+  {
+   "mn": "Соёлын өвийг хамгаалах нь зөвхөн төрийн биш, хүн бүрийн үүрэг юм.",
+   "en": "Protecting cultural heritage is not only the government's duty but everyone's.",
+   "alt_mn": [],
+   "alt_en": [
+    "Protecting cultural heritage is everyone's responsibility, not just the state's."
+   ],
+   "mn_latin": "Soyolyn öviig khamgaalakh ni zövkhön töriin bish, khün büriin üüreg yum."
+  },
+  {
+   "mn": "Олон жилийн хэлэлцээний эцэст чулуужсан ясыг эх орондоо буцаан авчирлаа.",
+   "en": "After years of negotiations, the fossils were finally brought back to Mongolia.",
+   "alt_mn": [],
+   "alt_en": [
+    "After years of negotiations, the fossils were finally repatriated."
+   ],
+   "mn_latin": "Olon jiliin kheleltseenii etsest chuluujsan yasyg ekh orondoo butsaan avchirlaa."
+  },
+  {
+   "mn": "Хулгайчид шөнө ажилласан бололтой, учир нь хэн ч юу ч хараагүй.",
+   "en": "The looters apparently worked at night, since no one saw anything.",
+   "alt_mn": [],
+   "alt_en": [
+    "Apparently the looters worked at night, because nobody saw a thing."
+   ],
+   "mn_latin": "Khulgaichid shönö ajillasan bololtoi, uchir ni khen ch yuu ch kharaagüi."
+  },
+  {
+   "mn": "Энэ гавлын яс газар дор биш, хувийн цуглуулгад удаан хадгалагдсан шинжтэй.",
+   "en": "This skull shows signs of having been kept in a private collection for a long time, not underground.",
+   "alt_mn": [],
+   "alt_en": [
+    "This skull appears to have spent a long time in a private collection rather than in the ground."
+   ],
+   "mn_latin": "Ene gavlyn yas gazar dor bish, khuviin tsugluulgad udaan khadgalagdsan shinjtei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Careful conclusions: -сан бололтой and -сан шинжтэй",
+  "title_mn": "Нотолгоонд тулгуурласан дүгнэлт: evidence suggests, there is no evidence that, apparently",
+  "explain_en": "News reports in Mongolian rarely state an unwitnessed past event as plain fact. Instead, they attach a marker of inference to the past participle -сан/-сэн/-сон/-сөн, which follows vowel harmony. \"-сан бололтой\" means \"apparently\" or \"it seems.\" It is a general conclusion drawn from what is known: Тоносон бололтой means \"It was apparently looted.\" \"-сан шинжтэй\" literally means \"having the signs of.\" It is used when physical traces point to an event, such as marks, holes, or damage: Ухсан шинжтэй means \"shows signs of digging.\" For the negative, use -аагүй бололтой (\"apparently didn't\"). To say \"there is no evidence that...,\" use ...гэх нотлох баримт алга.",
+  "explain_mn": "Англи хэлний мэдээнд нүдээр хараагүй үйл явдлыг баттай баримт мэт бичдэггүй. \"Evidence suggests that...\" нь \"нотлох баримтаас харахад ... бололтой\" гэсэн утгатай. Үүнд \"suggests\" гэж гуравдугаар биеийн -s нөхцөлтэй бичнэ, учир нь \"evidence\" ганц тоо. Мөн \"evidences\" гэж олон тоо болгодоггүй. \"There is no evidence that...\" нь \"...гэх нотлох баримт алга\" гэсэн утгатай. \"Apparently\" нь \"-сан бололтой\"-той ойролцоо. Өгүүлбэрийн эхэнд эсвэл туслах үйл үгийн дараа хэрэглэнэ: \"The tomb had apparently been looted.\" Ул мөр, шинж тэмдгийн тухай ярихдаа \"shows signs of + -ing\" (-сан шинжтэй) хэллэгийг хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Булшийг саяхан тоносон бололтой.",
+    "en": "The tomb was apparently looted recently.",
+    "mn_latin": "Bulshiig sayakhan tonoson bololtoi."
+   },
+   {
+    "mn": "Хадны зургийг хутгаар хуссан шинжтэй.",
+    "en": "The rock art shows signs of having been scratched with a knife.",
+    "mn_latin": "Khadny zurgiig khutgaar khussan shinjtei."
+   },
+   {
+    "mn": "Олдворыг хилээр гаргасан гэх нотлох баримт алга.",
+    "en": "There is no evidence that the artifact was taken across the border.",
+    "mn_latin": "Oldvoryg khileer gargasan gekh notlokh barimt alga."
+   },
+   {
+    "mn": "Хулгайчид бүх зүйлийг аваагүй бололтой.",
+    "en": "Apparently the looters didn't take everything.",
+    "mn_latin": "Khulgaichid bükh züiliig avaagüi bololtoi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Булшийг саяхан тоно___ бололтой.",
+   "answer": "сон",
+   "options": [
+    "сон",
+    "х",
+    "оод",
+    "дог"
+   ],
+   "translation": "The tomb was apparently looted recently.",
+   "explain_en": "Бололтой follows the past participle. Тонох takes the o-harmony form -сон, which gives тоносон. The future participle (тонох), the converb (тоноод), and the habitual (тонодог) don't fit an inference about a past event.",
+   "explain_mn": "\"Бололтой\"-гийн өмнө өнгөрсөн цагийн нөхцөл -сан/-сон орно. \"Тонох\" нь о эгшигтэй тул \"тоносон\" болно. Англиар бол \"was apparently looted\"."
+  },
+  {
+   "lang": "mn",
+   "text": "Яснууд дээр хөрөөдсөн ___ ил тод харагдаж байна.",
+   "answer": "шинж",
+   "options": [
+    "шинж",
+    "бололтой",
+    "гэнэ",
+    "магадгүй"
+   ],
+   "translation": "Signs of sawing are clearly visible on the bones.",
+   "explain_en": "The sentence needs a noun as the subject of харагдаж байна (\"is visible\"). Шинж means \"sign, trace,\" the same root as -сан шинжтэй. Бололтой, гэнэ, and магадгүй are not nouns, so they can't be \"visible.\"",
+   "explain_mn": "\"Харагдаж байна\" гэдэг үйл үгийн эзэн нь нэр үг байх ёстой. Тиймээс \"шинж\" зөв. Англиар \"signs of + -ing\" хэлбэрээр илэрхийлнэ: \"signs of sawing\"."
+  },
+  {
+   "lang": "mn",
+   "text": "Олон жилийн дараа чулуужсан ясыг Монголд буцаан ___.",
+   "answer": "авчирлаа",
+   "options": [
+    "авчирлаа",
+    "аваачлаа",
+    "явууллаа",
+    "гаргалаа"
+   ],
+   "translation": "After many years, the fossils were brought back to Mongolia.",
+   "explain_en": "Авчрах means \"to bring here,\" toward the speaker, which is Mongolia in this report. Аваачих means \"to take there,\" away from the speaker. Явуулах (\"to send off\") and гаргах (\"to take out\") give the wrong direction.",
+   "explain_mn": "Мэдээ Монголын талаас ярьж байгаа тул \"авчрах\" (нааш авчрах) зөв, \"аваачих\" (цааш авч явах) биш. Англиар \"bring back\" эсвэл \"repatriate\" гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "There is no ___ that the museum staff were involved.",
+   "answer": "evidence",
+   "options": [
+    "evidence",
+    "evidences",
+    "evident",
+    "evidencing"
+   ],
+   "translation": "Музейн ажилтнууд хэрэгт оролцсон гэх нотлох баримт алга.",
+   "explain_en": "\"Evidence\" is an uncountable noun, so it is never \"evidences.\" \"Evident\" is an adjective. The fixed phrase is \"there is no evidence that...\"",
+   "explain_mn": "\"Evidence\" нь тоолж болдоггүй нэр үг тул \"evidences\" гэж олон тоо болгодоггүй. \"Evident\" бол тэмдэг нэр. \"There is no evidence that...\" нь \"...гэх нотлох баримт алга\" гэсэн тогтвортой хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "Evidence ___ that the site was looted in the 1990s.",
+   "answer": "suggests",
+   "options": [
+    "suggests",
+    "suggest",
+    "suggesting",
+    "suggested to"
+   ],
+   "translation": "Нотлох баримтаас харахад тус газрыг 1990-ээд онд тоносон бололтой.",
+   "explain_en": "\"Evidence\" is singular and uncountable, so the present-tense verb takes -s: \"evidence suggests.\" \"Suggesting\" isn't a finite verb, and \"suggested to\" is ungrammatical here.",
+   "explain_mn": "\"Evidence\" ганц тоонд тооцогддог тул одоо цагийн үйл үг -s авна: \"suggests\". Энэ хэллэг нь Монгол хэлний \"нотлох баримтаас харахад ... бололтой\"-той дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The skeleton had ___ been smuggled out in pieces.",
+   "answer": "apparently",
+   "options": [
+    "apparently",
+    "apparent",
+    "appearing",
+    "appeared"
+   ],
+   "translation": "Араг ясыг хэсэг хэсгээр нь хил давуулсан бололтой.",
+   "explain_en": "An adverb is needed between the auxiliary \"had\" and \"been.\" \"Apparently\" signals that this is an inference, not a witnessed fact. \"Apparent\" is an adjective, and \"appearing\" and \"appeared\" are verb forms.",
+   "explain_mn": "\"Had\" ба \"been\"-ий хооронд дайвар үг орно. \"Apparently\" нь \"-сан бололтой\" шиг дүгнэлт илэрхийлнэ. \"Apparent\" бол тэмдэг нэр тул энд тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Говийн тэр газрыг яг хэзээ тоносон бэ?",
+   "en": "When exactly was that site in the Gobi looted?",
+   "mn_latin": "Goviin ter gazryg yag khezee tonoson be?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Яг хэлэх боломжгүй. Гэхдээ шороо нь хатуурсан байсан тул хоёр гурван жилийн өмнө ухсан бололтой.",
+   "en": "We can't say exactly. But the soil had hardened, so it was apparently dug two or three years ago.",
+   "mn_latin": "Yag khelekh bolomjgüi. Gekhdee shoroo ni khatuursan baisan tul khoyor gurvan jiliin ömnö ukhsan bololtoi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгээд олдсон ул мөр юу хэлж байна?",
+   "en": "And what do the traces you found tell you?",
+   "mn_latin": "Tegeed oldson ul mör yuu khelj baina?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Чулуулаг дээр мэргэжлийн багажаар зүсэлт хийсэн шинжтэй. Мэргэжлийн бус хүмүүсийн ажил биш.",
+   "en": "The rock shows signs of being cut with professional tools. This wasn't the work of amateurs.",
+   "mn_latin": "Chuluulag deer mergejliin bagajaar züselt khiisen shinjtei. Mergejliin bus khümüüsiin ajil bish."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Ясыг гадагш гаргасан гэдгийг нотлох баримт бий юу?",
+   "en": "Is there any evidence that the bones were taken abroad?",
+   "mn_latin": "Yasyg gadagsh gargasan gedgiig notlokh barimt bii yuu?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Одоогоор алга. Гэвч ийм олдвор ихэвчлэн хар зах дээр гарч ирдэг.",
+   "en": "Not yet. But finds like this usually turn up on the black market.",
+   "mn_latin": "Odoogoor alga. Gevch iim oldvor ikhevchlen khar zakh deer garch irdeg."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Хэрэв гадаадын дуудлага худалдаанд гарвал яах вэ?",
+   "en": "What happens if it shows up at a foreign auction?",
+   "mn_latin": "Kherev gadaadyn duudlaga khudaldaand garval yaakh ve?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Тэр үед бид хураалгаж, эх орондоо буцаан авчрахын төлөө тэмцэнэ. Тарбозаврын хэрэг үүний сайн жишээ.",
+   "en": "Then we fight to have it seized and brought back home. The Tarbosaurus case is a good example.",
+   "mn_latin": "Ter üyed bid khuraalgaj, ekh orondoo butsaan avchrakhyn tölöö temtsene. Tarbozavryn khereg üünii sain jishee."
+  }
+ ],
+ "culture_note": {
+  "en": "In 2012, a nearly complete Tarbosaurus bataar skeleton was sold at auction in New York. Mongolian officials and paleontologists proved it had been smuggled out of the Gobi, and U.S. authorities seized it. The skeleton returned to Mongolia in 2013 and was shown to crowds on Sükhbaatar Square. Since then, hundreds more fossils have been repatriated, and many are displayed at the Central Museum of Mongolian Dinosaurs in Ulaanbaatar.",
+  "mn": "2012 онд бараг бүтэн тарбозавр батаарын араг ясыг Нью-Йоркт дуудлага худалдаагаар заржээ. Монголын албаны хүмүүс болон палеонтологичид уг ясыг Говиос хууль бусаар гаргасныг нотолсны дараа АНУ-ын эрх баригчид түүнийг хураан авсан. Араг яс 2013 онд эх орондоо ирж, Сүхбаатарын талбайд олон нийтэд дэлгэгдсэн. Түүнээс хойш хэдэн зуун чулуужсан ясыг буцаан авчирсан бөгөөд олныг нь Улаанбаатар дахь Монголын үлэг гүрвэлийн төв музейд дэлгэн үзүүлж байна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 6,
+  "notes": "A strong, natural lesson with accurate grammar notes. Fixes cover one mixed active/passive construction, a fill-in-the-blank whose distractors formed non-words, and one mistranslated dialogue phrase."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Mostly solid. Fixed one unnatural vocab example, one redundant alternative, and an en/mn mismatch in the culture note.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "'хайрцагтай яс' means 'bones that have a box', not 'a box of bones'"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "'бололтой байна' is a redundant, unnatural stacking"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'ихэнх' (most) didn't match 'many'. Also 'дэлгэн үзүүлэх' is the natural verb for a museum display"
+   }
+  ]
+ }
+}

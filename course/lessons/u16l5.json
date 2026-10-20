@@ -1,0 +1,450 @@
+{
+ "intro_en": "You will learn to compare two things: bigger, cheaper, warmer. In Mongolian you add -аас/-ээс/-оос/-өөс to the thing you compare with and put илүү before the adjective.",
+ "intro_mn": "Та хоёр зүйлийг харьцуулж сурна: илүү том, илүү хямд, илүү дулаан. Англи хэлэнд шинж тэмдгийн дараа -er эсвэл more нэмдэг, харин than-ийн дараа харьцуулах зүйлээ хэлнэ.",
+ "vocab": [
+  {
+   "mn": "том",
+   "en": "big",
+   "pos": "adjective",
+   "example_mn": "Энэ пальто том байна.",
+   "example_en": "This coat is big.",
+   "mn_latin": "tom"
+  },
+  {
+   "mn": "жижиг",
+   "en": "small",
+   "pos": "adjective",
+   "example_mn": "Миний дээл жижиг байна.",
+   "example_en": "My deel is small.",
+   "mn_latin": "jijig"
+  },
+  {
+   "mn": "хямд",
+   "en": "cheap",
+   "pos": "adjective",
+   "example_mn": "Энэ малгай хямд.",
+   "example_en": "This hat is cheap.",
+   "mn_latin": "khyamd"
+  },
+  {
+   "mn": "үнэтэй",
+   "en": "expensive",
+   "pos": "adjective",
+   "example_mn": "Тэдгээр гутал үнэтэй.",
+   "example_en": "Those boots are expensive.",
+   "mn_latin": "ünetei"
+  },
+  {
+   "mn": "дулаан",
+   "en": "warm",
+   "pos": "adjective",
+   "example_mn": "Өвлийн дээл дулаан.",
+   "example_en": "A winter deel is warm.",
+   "mn_latin": "dulaan"
+  },
+  {
+   "mn": "хөнгөн",
+   "en": "light",
+   "pos": "adjective",
+   "example_mn": "Энэ цамц хөнгөн.",
+   "example_en": "This shirt is light.",
+   "mn_latin": "khöngön"
+  },
+  {
+   "mn": "хүнд",
+   "en": "heavy",
+   "pos": "adjective",
+   "example_mn": "Тэр пальто хүнд байна.",
+   "example_en": "That coat is heavy.",
+   "mn_latin": "khünd"
+  },
+  {
+   "mn": "илүү",
+   "en": "more",
+   "pos": "adverb",
+   "example_mn": "Энэ илүү сайн.",
+   "example_en": "This one is better.",
+   "mn_latin": "ilüü"
+  },
+  {
+   "mn": "зах",
+   "en": "market",
+   "pos": "noun",
+   "example_mn": "Бид Нарантуул зах руу явна.",
+   "example_en": "We are going to Narantuul Market.",
+   "mn_latin": "zakh"
+  },
+  {
+   "mn": "үнэ",
+   "en": "price",
+   "pos": "noun",
+   "example_mn": "Энэ дээлний үнэ хэд вэ?",
+   "example_en": "What is the price of this deel?",
+   "mn_latin": "üne"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ дээл тэр дээлээс илүү дулаан.",
+   "en": "This deel is warmer than that deel.",
+   "alt_mn": [],
+   "alt_en": [
+    "This deel is warmer than that one."
+   ],
+   "mn_latin": "Ene deel ter deelees ilüü dulaan."
+  },
+  {
+   "mn": "Тэр пальто энэ пальтоос илүү хүнд.",
+   "en": "That coat is heavier than this coat.",
+   "alt_mn": [],
+   "alt_en": [
+    "That coat is heavier than this one."
+   ],
+   "mn_latin": "Ter palito ene palitoos ilüü khünd."
+  },
+  {
+   "mn": "Энэ малгай тэр малгайгаас илүү хямд.",
+   "en": "This hat is cheaper than that hat.",
+   "alt_mn": [],
+   "alt_en": [
+    "This hat is cheaper than that one."
+   ],
+   "mn_latin": "Ene malgai ter malgaigaas ilüü khyamd."
+  },
+  {
+   "mn": "Миний гутал чиний гутлаас илүү үнэтэй.",
+   "en": "My boots are more expensive than your boots.",
+   "alt_mn": [],
+   "alt_en": [
+    "My boots are more expensive than yours."
+   ],
+   "mn_latin": "Minii gutal chinii gutlaas ilüü ünetei."
+  },
+  {
+   "mn": "Энэ цамц тэр цамцнаас илүү хөнгөн.",
+   "en": "This shirt is lighter than that shirt.",
+   "alt_mn": [],
+   "alt_en": [
+    "This shirt is lighter than that one."
+   ],
+   "mn_latin": "Ene tsamts ter tsamtsnaas ilüü khöngön."
+  },
+  {
+   "mn": "Энэ дээл надад жаахан том байна.",
+   "en": "This deel is a little big for me.",
+   "alt_mn": [
+    "Энэ дээл надад бага зэрэг том байна."
+   ],
+   "alt_en": [
+    "This deel is a bit big for me."
+   ],
+   "mn_latin": "Ene deel nadad jaakhan tom baina."
+  },
+  {
+   "mn": "Тэр хар цув энэ цувнаас илүү сайн.",
+   "en": "That black coat is better than this coat.",
+   "alt_mn": [],
+   "alt_en": [
+    "That black coat is better than this one."
+   ],
+   "mn_latin": "Ter khar tsuv ene tsuvnaas ilüü sain."
+  },
+  {
+   "mn": "Зуны дээл өвлийн дээлээс илүү хөнгөн.",
+   "en": "A summer deel is lighter than a winter deel.",
+   "alt_mn": [],
+   "alt_en": [
+    "A summer deel is lighter than a winter one."
+   ],
+   "mn_latin": "Zuny deel övliin deelees ilüü khöngön."
+  },
+  {
+   "mn": "Нарантуул зах дэлгүүрээс илүү хямд.",
+   "en": "Narantuul Market is cheaper than stores.",
+   "alt_mn": [
+    "Нарантуул зах дэлгүүрээс илүү хямд байдаг."
+   ],
+   "alt_en": [
+    "Narantuul Market is cheaper than shops."
+   ],
+   "mn_latin": "Narantuul zakh delgüürees ilüü khyamd."
+  },
+  {
+   "mn": "Надад илүү том размер хэрэгтэй.",
+   "en": "I need a bigger size.",
+   "alt_mn": [
+    "Надад арай том размер хэрэгтэй."
+   ],
+   "alt_en": [
+    "I need a larger size."
+   ],
+   "mn_latin": "Nadad ilüü tom razmyer kheregtei."
+  },
+  {
+   "mn": "Миний пальто чинийхээс илүү жижиг.",
+   "en": "My coat is smaller than yours.",
+   "alt_mn": [
+    "Миний пальто чиний пальтоноос илүү жижиг."
+   ],
+   "alt_en": [
+    "My coat is smaller than your coat."
+   ],
+   "mn_latin": "Minii palito chiniikhees ilüü jijig."
+  },
+  {
+   "mn": "Энэ дээл хамгийн сайн биш, гэхдээ хямд.",
+   "en": "This deel is not the best, but it is cheap.",
+   "alt_mn": [],
+   "alt_en": [
+    "This deel isn't the best, but it's cheap."
+   ],
+   "mn_latin": "Ene deel khamgiin sain bish, gekhdee khyamd."
+  }
+ ],
+ "grammar": {
+  "title_en": "Comparing with -аас/-ээс/-оос/-өөс + илүү",
+  "title_mn": "Харьцуулах нөхцөл: than, -er, more",
+  "explain_en": "To say 'A is more ... than B', Mongolian puts B first with the ablative ending, then илүү, then the adjective: Энэ дээл тэр дээлээс илүү дулаан = This deel is warmer than that deel. The ending follows vowel harmony: -аас (words with а, у), -ээс (words with э, ү, и), -оос (words with о), -өөс (words with ө): дээл → дээлээс, малгай → малгайгаас (words ending in -й or a long vowel take г), пальто → пальтоноос (some words add н first), гутал → гутлаас (some words drop a vowel). English uses -er for short adjectives (cheaper, warmer, lighter) and 'more' for long ones (more expensive). In English the thing you compare with comes after 'than'. Some short adjectives double the last consonant: big → bigger. Better is irregular (good → better). Mongolian says илүү сайн for better.",
+  "explain_mn": "Англи хэлэнд хоёр зүйлийг харьцуулахдаа богино тэмдэг нэрэнд -er нэмнэ: cheap → cheaper, warm → warmer, light → lighter. Урт тэмдэг нэрийн өмнө more тавина: more expensive. Харьцуулах зүйлийг than-ийн дараа хэлнэ: This coat is warmer than that coat. Монгол хэлэнд -аас/-ээс гэж хойно нь нэмдэг бол англиар than өмнө нь орно. Дүрэмд үл нийцэх хэлбэр: good → better (илүү сайн). Big → bigger гэж төгсгөлийн гийгүүлэгчийг давхарлана.",
+  "examples": [
+   {
+    "mn": "Энэ пальто тэр пальтоноос илүү дулаан.",
+    "en": "This coat is warmer than that coat.",
+    "mn_latin": "Ene palito ter palitonoos ilüü dulaan."
+   },
+   {
+    "mn": "Миний цүнх чиний цүнхнээс илүү хүнд.",
+    "en": "My bag is heavier than your bag.",
+    "mn_latin": "Minii tsünkh chinii tsünkhnees ilüü khünd."
+   },
+   {
+    "mn": "Энэ гутал тэр гутлаас илүү үнэтэй.",
+    "en": "These boots are more expensive than those boots.",
+    "mn_latin": "Ene gutal ter gutlaas ilüü ünetei."
+   },
+   {
+    "mn": "Энэ малгай тэр малгайгаас илүү сайн.",
+    "en": "This hat is better than that hat.",
+    "mn_latin": "Ene malgai ter malgaigaas ilüü sain."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ дээл тэр дээл___ илүү дулаан.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "аас",
+    "оос",
+    "өөс"
+   ],
+   "translation": "This deel is warmer than that deel.",
+   "explain_en": "Дээл has the vowel э, so the ablative ending is -ээс.",
+   "explain_mn": "Дээл гэдэг үг э эгшигтэй тул -ээс нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр малгай энэ малгай___ илүү хямд.",
+   "answer": "гаас",
+   "options": [
+    "гаас",
+    "аас",
+    "гээс",
+    "оос"
+   ],
+   "translation": "That hat is cheaper than this hat.",
+   "explain_en": "Малгай has the back vowel а, so it takes -аас. After -й it adds г: малгайгаас.",
+   "explain_mn": "Малгай гэдэг үг а эгшигтэй тул -аас залгана. -й-ээр төгссөн тул г нэмэгдэнэ: малгайгаас."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ цамц тэр цамцнаас ___ хөнгөн.",
+   "answer": "илүү",
+   "options": [
+    "илүү",
+    "хамгийн",
+    "маш",
+    "бага"
+   ],
+   "translation": "This shirt is lighter than that shirt.",
+   "explain_en": "илүү before the adjective means 'more' and makes the comparison.",
+   "explain_mn": "Харьцуулахдаа тэмдэг нэрийн өмнө илүү гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "This coat is ___ than that coat. (warm)",
+   "answer": "warmer",
+   "options": [
+    "warmer",
+    "more warm",
+    "warmest",
+    "warm"
+   ],
+   "translation": "Энэ пальто тэр пальтоноос илүү дулаан.",
+   "explain_en": "Short adjectives add -er: warm → warmer.",
+   "explain_mn": "Богино тэмдэг нэрэнд -er нэмнэ: warm → warmer."
+  },
+  {
+   "lang": "en",
+   "text": "These boots are ___ expensive than those boots.",
+   "answer": "more",
+   "options": [
+    "more",
+    "most",
+    "much",
+    "very"
+   ],
+   "translation": "Эдгээр гутал тэдгээр гутлаас илүү үнэтэй.",
+   "explain_en": "Long adjectives like expensive use 'more' instead of -er.",
+   "explain_mn": "Expensive шиг урт үгэнд -er биш more хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My coat is bigger ___ your coat.",
+   "answer": "than",
+   "options": [
+    "than",
+    "then",
+    "from",
+    "that"
+   ],
+   "translation": "Миний пальто чиний пальтоноос илүү том.",
+   "explain_en": "Use 'than' to introduce the thing you compare with.",
+   "explain_mn": "Харьцуулах зүйлийн өмнө than гэж хэлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу? Энэ дээлний үнэ хэд вэ?",
+   "en": "Hello. How much is this deel?",
+   "mn_latin": "Sain baina uu? Ene deelnii üne khed ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тавин мянган төгрөг.",
+   "en": "Fifty thousand tugriks.",
+   "mn_latin": "Tavin myangan tögrög."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэр дээл энэ дээлээс илүү дулаан уу?",
+   "en": "Is that deel warmer than this one?",
+   "mn_latin": "Ter deel ene deelees ilüü dulaan uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм, гэхдээ арай хүнд, үнэтэй.",
+   "en": "Yes, but it is a bit heavier and more expensive.",
+   "mn_latin": "Tiim, gekhdee arai khünd, ünetei."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Энэ илүү хөнгөн байна. Танд илүү том размер байна уу?",
+   "en": "This one is lighter. Do you have a bigger size?",
+   "mn_latin": "Ene ilüü khöngön baina. Tand ilüü tom razmyer baina uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Байна. Энэ нь танд сайн байх болно.",
+   "en": "Yes. This one will be good for you.",
+   "mn_latin": "Baina. Ene ni tand sain baikh bolno."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Зүгээр, би үүнийг авъя. Нарантуул дэлгүүрээс илүү хямд байна.",
+   "en": "Okay, I'll take it. Narantuul is cheaper than the store.",
+   "mn_latin": "Zügeer, bi üüniig avya. Narantuul delgüürees ilüü khyamd baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Narantuul Market (also called Khar Zakh, the \"Black Market\") in Ulaanbaatar is one of the biggest markets in Mongolia, where people buy deels, coats, boots and hats. Bargaining is common, so asking 'Is there a cheaper one?' is normal. Winters are very cold, so warmth often matters more than price.",
+  "mn": "Улаанбаатар дахь Нарантуул (Хар зах) нь Монголын хамгийн том захуудын нэг бөгөөд дээл, пальто, гутал, малгай зэргийг эндээс худалдаж авдаг. Үнээр тохиролцох нь энгийн зүйл тул «Илүү хямд нь байна уу?» гэж асуух нь хэвийн. Өвөл маш хүйтэн тул үнээс илүү дулаан байх нь чухал байдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 18,
+  "notes": "Mostly good, but the малгайгаас blank is wrong (the г is missing from the answer) and the Narantuul 'going to' example and the grammar harmony list needed fixing; some entries in this fix list were no-ops."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 12,
+  "notes": "The main errors were the ablative гутлаас and the vowel harmony rule; I also fixed the vocab example, the dialogue question and the speaker names.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_en",
+    "why": "'more good' is ungrammatical; good → better"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "The ablative of гутал is гутлаас (the vowel drops, no н)"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "Generic comparison; 'the store' sounds like one specific store"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "Matches the generic meaning"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Corrected the vowel harmony rule and added the bigger rule so en matches mn"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Correct form is гутлаас"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Correct form is гутлаас"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "speaker",
+    "why": "Speaker name should be in Cyrillic, like Сараа"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "speaker",
+    "why": "Speaker name should be in Cyrillic"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "speaker",
+    "why": "Speaker name should be in Cyrillic"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'Надад ... байна уу' means 'Do I have'; the question is to the seller"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Replaced the Cyrillic in the English text with a transliteration and gloss"
+   }
+  ]
+ }
+}

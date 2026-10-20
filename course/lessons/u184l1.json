@@ -1,0 +1,419 @@
+{
+ "intro_en": "Learn to ask about unfamiliar terms in a lecture or meeting and to give clear definitions. In Mongolian you'll use \"... гэдэг нь ... юм\", \"... гэж нэрлэдэг\" and \"ба\". In English you'll use \"X refers to Y\", \"X means\" and \"is called\".",
+ "intro_mn": "Лекц, хурал дээр танил бус нэр томьёоны утгыг асууж, тодорхой тайлбарлаж сурна. Монгол хэлэнд \"... гэдэг нь ... юм\", \"... гэж нэрлэдэг\", \"ба\"-г ашиглана. Англи хэлэнд \"X refers to Y\", \"X means\", \"is called\" гэсэн хэлцүүдийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "нэр томьёо",
+   "en": "term",
+   "pos": "noun",
+   "example_mn": "Энэ нэр томьёог анх удаа сонсож байна.",
+   "example_en": "This is the first time I've heard this term.",
+   "mn_latin": "ner tomiyoo"
+  },
+  {
+   "mn": "тодорхойлолт",
+   "en": "definition",
+   "pos": "noun",
+   "example_mn": "Багш шинэ ойлголтын тодорхойлолтыг самбар дээр бичлээ.",
+   "example_en": "The teacher wrote the definition of the new concept on the board.",
+   "mn_latin": "todorkhoilolt"
+  },
+  {
+   "mn": "ойлголт",
+   "en": "concept",
+   "pos": "noun",
+   "example_mn": "Энэ ойлголт эдийн засагт их чухал.",
+   "example_en": "This concept is very important in economics.",
+   "mn_latin": "oilgolt"
+  },
+  {
+   "mn": "утга",
+   "en": "meaning",
+   "pos": "noun",
+   "example_mn": "Энэ үгийн утгыг толь бичгээс харлаа.",
+   "example_en": "I looked up the meaning of this word in the dictionary.",
+   "mn_latin": "utga"
+  },
+  {
+   "mn": "гэдэг нь",
+   "en": "(X) is / means / refers to",
+   "pos": "phrase",
+   "example_mn": "Зуд гэдэг нь хатуу ширүүн өвөл юм.",
+   "example_en": "A dzud is a harsh winter.",
+   "mn_latin": "gedeg ni"
+  },
+  {
+   "mn": "гэж нэрлэдэг",
+   "en": "is called",
+   "pos": "phrase",
+   "example_mn": "Монголчуудын уламжлалт сууцыг гэр гэж нэрлэдэг.",
+   "example_en": "The traditional Mongolian dwelling is called a ger.",
+   "mn_latin": "gej nerledeg"
+  },
+  {
+   "mn": "тодорхойлох",
+   "en": "to define",
+   "pos": "verb",
+   "example_mn": "Энэ нэр томьёог яаж тодорхойлох вэ?",
+   "example_en": "How should we define this term?",
+   "mn_latin": "todorkhoilokh"
+  },
+  {
+   "mn": "тайлбарлах",
+   "en": "to explain",
+   "pos": "verb",
+   "example_mn": "Та үүнийг дахиад тайлбарлаж өгөөч.",
+   "example_en": "Please explain that again.",
+   "mn_latin": "tailbarlakh"
+  },
+  {
+   "mn": "товчлол",
+   "en": "abbreviation",
+   "pos": "noun",
+   "example_mn": "ДНБ бол түгээмэл хэрэглэгддэг товчлол.",
+   "example_en": "GDP is a commonly used abbreviation.",
+   "mn_latin": "tovchlol"
+  },
+  {
+   "mn": "ба",
+   "en": "and (joining paired nouns)",
+   "pos": "conjunction",
+   "example_mn": "Эрэлт ба нийлүүлэлт хоорондоо холбоотой.",
+   "example_en": "Supply and demand are connected.",
+   "mn_latin": "ba"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Инфляци гэдэг нь бараа, үйлчилгээний үнэ ерөнхийдөө өсөхийг хэлдэг.",
+   "en": "Inflation refers to a general rise in the prices of goods and services.",
+   "alt_mn": [
+    "Инфляци гэдэг нь бараа, үйлчилгээний үнийн ерөнхий өсөлт юм."
+   ],
+   "alt_en": [
+    "Inflation means a general rise in the prices of goods and services.",
+    "Inflation is a general rise in the prices of goods and services."
+   ],
+   "mn_latin": "Inflyatsi gedeg ni baraa, üilchilgeenii üne yerönkhiidöö ösökhiig kheldeg."
+  },
+  {
+   "mn": "Уучлаарай, таны сая хэлсэн нэр томьёо юу гэсэн үг вэ?",
+   "en": "Excuse me, what does the term you just used mean?",
+   "alt_mn": [
+    "Уучлаарай, таны сая хэрэглэсэн нэр томьёо ямар утгатай вэ?"
+   ],
+   "alt_en": [
+    "Sorry, what does the term you just mentioned mean?",
+    "Excuse me, what does that term you just used mean?"
+   ],
+   "mn_latin": "Uuchlaarai, tany saya khelsen ner tomiyoo yuu gesen üg ve?"
+  },
+  {
+   "mn": "Энэ ойлголтыг арай энгийнээр тайлбарлаж өгөхгүй юу?",
+   "en": "Could you explain this concept a bit more simply?",
+   "alt_mn": [
+    "Энэ ойлголтыг арай энгийнээр тайлбарлаж өгөөч."
+   ],
+   "alt_en": [
+    "Would you mind explaining this concept a bit more simply?",
+    "Could you explain this concept more simply?"
+   ],
+   "mn_latin": "Ene oilgoltyg arai engiineer tailbarlaj ögökhgüi yuu?"
+  },
+  {
+   "mn": "Тогтвортой хөгжил гэдэг нь хойч үеийнхний хэрэгцээг хохироохгүйгээр өнөөгийн хэрэгцээг хангахыг хэлдэг.",
+   "en": "Sustainable development refers to meeting present needs without compromising the needs of future generations.",
+   "alt_mn": [],
+   "alt_en": [
+    "Sustainable development means meeting present needs without compromising the needs of future generations."
+   ],
+   "mn_latin": "Togtvortoi khögjil gedeg ni khoich üyeiinkhnii kheregtseeg khokhirookhgüigeer önöögiin kheregtseeg khangakhyg kheldeg."
+  },
+  {
+   "mn": "Малыг таргалуулахаар алс бэлчээрт нүүлгэхийг отор гэж нэрлэдэг.",
+   "en": "Moving livestock to distant pastures to fatten them is called \"otor.\"",
+   "alt_mn": [
+    "Малыг таргалуулахын тулд алс бэлчээрт нүүлгэхийг отор гэдэг."
+   ],
+   "alt_en": [
+    "Taking livestock to distant pastures to fatten them is known as \"otor.\""
+   ],
+   "mn_latin": "Malyg targaluulakhaar als belcheert nüülgekhiig otor gej nerledeg."
+  },
+  {
+   "mn": "Зуд гэдэг нь малын их хорогдолд хүргэдэг хатуу ширүүн өвөл юм.",
+   "en": "A dzud is a harsh winter that leads to large livestock losses.",
+   "alt_mn": [
+    "Зуд гэдэг нь мал их хэмжээгээр хорогдоход хүргэдэг хатуу ширүүн өвөл юм."
+   ],
+   "alt_en": [
+    "A dzud is a severe winter that causes large livestock losses.",
+    "Dzud refers to a harsh winter that leads to large livestock losses."
+   ],
+   "mn_latin": "Zud gedeg ni malyn ikh khorogdold khürgedeg khatuu shirüün övöl yum."
+  },
+  {
+   "mn": "Энэ хоёр нэр томьёоны утга ойролцоо боловч ялгаатай.",
+   "en": "These two terms have similar but different meanings.",
+   "alt_mn": [
+    "Энэ хоёр нэр томьёо утгаараа ойролцоо боловч ялгаатай."
+   ],
+   "alt_en": [
+    "The meanings of these two terms are similar but different."
+   ],
+   "mn_latin": "Ene khoyor ner tomiyoony utga oiroltsoo bolovch yalgaatai."
+  },
+  {
+   "mn": "Илтгэгч эрэлт ба нийлүүлэлтийн тодорхойлолтыг өглөө.",
+   "en": "The speaker gave definitions of supply and demand.",
+   "alt_mn": [
+    "Илтгэгч эрэлт ба нийлүүлэлтийг тодорхойлж өглөө."
+   ],
+   "alt_en": [
+    "The speaker defined supply and demand."
+   ],
+   "mn_latin": "Iltgegch erelt ba niilüüleltiin todorkhoiloltyg öglöö."
+  },
+  {
+   "mn": "ДНБ гэдэг нь дотоодын нийт бүтээгдэхүүн гэсэн үг.",
+   "en": "GDP stands for gross domestic product.",
+   "alt_mn": [
+    "ДНБ гэдэг нь дотоодын нийт бүтээгдэхүүний товчлол юм."
+   ],
+   "alt_en": [
+    "GDP means gross domestic product.",
+    "GDP is short for gross domestic product."
+   ],
+   "mn_latin": "DNB gedeg ni dotoodyn niit büteegdekhüün gesen üg."
+  },
+  {
+   "mn": "Энэ тодорхойлолт хэт өргөн учраас бүх тохиолдолд тохирохгүй.",
+   "en": "This definition is too broad, so it doesn't fit every case.",
+   "alt_mn": [
+    "Энэ тодорхойлолт хэтэрхий өргөн тул бүх тохиолдолд тохирохгүй."
+   ],
+   "alt_en": [
+    "This definition is too broad to fit every case."
+   ],
+   "mn_latin": "Ene todorkhoilolt khet örgön uchraas bükh tokhioldold tokhirokhgüi."
+  },
+  {
+   "mn": "Хурлын тэмдэглэлд KPI гэдэг товчлолыг тайлбарлаагүй байна.",
+   "en": "The meeting notes don't explain the abbreviation KPI.",
+   "alt_mn": [
+    "Хурлын тэмдэглэлд KPI гэсэн товчлолын утгыг тайлбарлаагүй байна."
+   ],
+   "alt_en": [
+    "The abbreviation KPI isn't explained in the meeting notes."
+   ],
+   "mn_latin": "Khurlyn temdegleld KPI gedeg tovchlolyg tailbarlaagüi baina."
+  },
+  {
+   "mn": "Өөрөөр хэлбэл, энэ ойлголт нь хувь хүн ба нийгмийн хоорондын харилцааг илэрхийлдэг.",
+   "en": "In other words, this concept describes the relationship between the individual and society.",
+   "alt_mn": [],
+   "alt_en": [
+    "In other words, this concept refers to the relationship between the individual and society."
+   ],
+   "mn_latin": "Ööröör khelbel, ene oilgolt ni khuvi khün ba niigmiin khoorondyn khariltsaag ilerkhiildeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "Defining terms: \"гэдэг нь ... юм\", \"гэж нэрлэдэг\" and \"ба\"",
+  "title_mn": "Тодорхойлолт өгөх: \"X refers to Y\", \"X means\", \"is called\"",
+  "explain_en": "To define a term in Mongolian, put the term first, add \"гэдэг нь\" (literally \"what is called X\"), give the definition, and end with \"юм\": \"Зуд гэдэг нь хатуу ширүүн өвөл юм\" (A dzud is a harsh winter). If the definition is an action, turn the verb into a noun with -х plus the accusative ending (-ийг/-ыг) and finish with \"хэлдэг\": \"...өсөхийг хэлдэг\" (refers to ... rising). To name something, go the other way. Describe it first, add the accusative ending, then say \"X гэж нэрлэдэг\" (is called X). In formal speech, \"ба\" joins two closely paired nouns, such as \"эрэлт ба нийлүүлэлт\" (supply and demand). Use it for nouns only, not for joining clauses.",
+  "explain_mn": "Англи хэлэнд нэр томьёог тодорхойлохдоо гол төлөв гурван хэлцийг хэрэглэдэг. 1) \"X refers to Y\" нь \"X гэдэг нь Y-г хэлдэг\" гэсэнтэй ойролцоо. Ард нь нэр үг эсвэл -ing хэлбэр орно: \"Inflation refers to a rise in prices.\" \"to\"-г бүү мартаарай! 2) \"X means Y\" нь \"X гэдэг нь Y гэсэн үг\". Асуухдаа \"What does X mean?\" гэнэ. does байгаа тул mean нь -s авахгүй. 3) \"X is called Y\" бол үйлдэгдэхүүн хэв буюу \"Y гэж нэрлэдэг\". \"is\" болон \"called\" хоёулаа заавал орно. Товчлолын хувьд \"GDP stands for ...\" гэж ярьдаг.",
+  "examples": [
+   {
+    "mn": "Зуд гэдэг нь хатуу ширүүн өвөл юм.",
+    "en": "A dzud is a harsh winter.",
+    "mn_latin": "Zud gedeg ni khatuu shirüün övöl yum."
+   },
+   {
+    "mn": "Инфляци гэдэг нь үнэ ерөнхийдөө өсөхийг хэлдэг.",
+    "en": "Inflation refers to a general rise in prices.",
+    "mn_latin": "Inflyatsi gedeg ni üne yerönkhiidöö ösökhiig kheldeg."
+   },
+   {
+    "mn": "Малыг алс бэлчээрт нүүлгэхийг отор гэж нэрлэдэг.",
+    "en": "Moving livestock to distant pastures is called \"otor.\"",
+    "mn_latin": "Malyg als belcheert nüülgekhiig otor gej nerledeg."
+   },
+   {
+    "mn": "Эрэлт ба нийлүүлэлт үнэд нөлөөлдөг.",
+    "en": "Supply and demand affect prices.",
+    "mn_latin": "Erelt ba niilüülelt üned nölööldög."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Зуд ___ нь хатуу ширүүн өвөл юм.",
+   "answer": "гэдэг",
+   "options": [
+    "гэдэг",
+    "гэж",
+    "гэсэн",
+    "гэвэл"
+   ],
+   "translation": "A dzud is a harsh winter.",
+   "explain_en": "The defining pattern is \"X гэдэг нь ... юм\". \"Гэдэг нь\" marks the term being defined, much like \"what we call X is...\".",
+   "explain_mn": "Тодорхойлолт өгөхдөө \"X гэдэг нь ... юм\" гэсэн хэвшмэл бүтцийг хэрэглэнэ. \"Нь\"-ийн өмнө \"гэдэг\" орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Малыг алс бэлчээрт нүүлгэхийг отор гэж ___.",
+   "answer": "нэрлэдэг",
+   "options": [
+    "нэрлэдэг",
+    "нэрийг",
+    "нэрлэх",
+    "нэрээр"
+   ],
+   "translation": "Moving livestock to distant pastures is called \"otor.\"",
+   "explain_en": "\"... гэж нэрлэдэг\" means \"is called ...\". The habitual -дэг form is used for general facts, and the thing being named takes the accusative (нүүлгэхийг).",
+   "explain_mn": "\"... гэж нэрлэдэг\" бол ерөнхий баримтыг илэрхийлэх хэлбэр. Нэрлэгдэж буй зүйл заах тийн ялгал (-ийг) авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Илтгэгч эрэлт ___ нийлүүлэлтийн тодорхойлолтыг өглөө.",
+   "answer": "ба",
+   "options": [
+    "ба",
+    "нь",
+    "гэж",
+    "юм"
+   ],
+   "translation": "The speaker gave definitions of supply and demand.",
+   "explain_en": "\"Ба\" joins two paired nouns in formal or academic speech. The other options are not conjunctions.",
+   "explain_mn": "\"Ба\" нь эрдэм шинжилгээ, албан ярианд хос нэр үгийг холбоно. Бусад хувилбар холбоос үг биш."
+  },
+  {
+   "lang": "en",
+   "text": "Inflation ___ to a general rise in prices.",
+   "answer": "refers",
+   "options": [
+    "refers",
+    "means",
+    "is called",
+    "defines"
+   ],
+   "translation": "Инфляци гэдэг нь үнэ ерөнхийдөө өсөхийг хэлдэг.",
+   "explain_en": "Only \"refer\" is followed by \"to\" here: \"X refers to Y.\" \"Means\" and \"defines\" take no \"to\", and \"is called\" introduces a name, not a definition.",
+   "explain_mn": "Араас нь \"to\" байгаа тул \"refers\" л тохирно. \"Means\", \"defines\" хоёрын дараа \"to\" ордоггүй. \"Is called\" нь тодорхойлолт биш, нэр зааж өгдөг."
+  },
+  {
+   "lang": "en",
+   "text": "Moving herds to distant pastures is ___ \"otor.\"",
+   "answer": "called",
+   "options": [
+    "called",
+    "defined",
+    "meant",
+    "said"
+   ],
+   "translation": "Малыг алс бэлчээрт нүүлгэхийг отор гэж нэрлэдэг.",
+   "explain_en": "\"Is called\" + name is the standard way to introduce what something is named.",
+   "explain_mn": "Ямар нэгэн зүйлийн нэрийг хэлэхдээ \"is called + нэр\" гэдэг үйлдэгдэхүүн хэвийг хэрэглэнэ. Энэ нь \"... гэж нэрлэдэг\"-тэй адил."
+  },
+  {
+   "lang": "en",
+   "text": "Excuse me, what does this term ___?",
+   "answer": "mean",
+   "options": [
+    "mean",
+    "means",
+    "meaning",
+    "meant"
+   ],
+   "translation": "Уучлаарай, энэ нэр томьёо юу гэсэн үг вэ?",
+   "explain_en": "After the auxiliary \"does\", the main verb is in its base form: \"What does it mean?\" not \"means.\"",
+   "explain_mn": "Асуултад \"does\" орсон тул үндсэн үйл үг \"mean\" анхны хэлбэрээрээ байна. -s нэмэхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батболд",
+   "mn": "Өнөөдөр бид нөөцийн хараал гэдэг ойлголтыг авч үзнэ.",
+   "en": "Today we'll look at the concept of the resource curse.",
+   "mn_latin": "Önöödör bid nöötsiin kharaal gedeg oilgoltyg avch üzne."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Уучлаарай, багш аа, энэ нэр томьёо яг юу гэсэн үг вэ?",
+   "en": "Excuse me, professor, what exactly does this term mean?",
+   "mn_latin": "Uuchlaarai, bagsh aa, ene ner tomiyoo yag yuu gesen üg ve?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Нөөцийн хараал гэдэг нь байгалийн баялаг ихтэй орнуудын эдийн засаг харин ч удаан хөгжих үзэгдлийг хэлдэг.",
+   "en": "The resource curse refers to the phenomenon where countries rich in natural resources actually develop more slowly.",
+   "mn_latin": "Nöötsiin kharaal gedeg ni baigaliin bayalag ikhtei ornuudyn ediin zasag kharin ch udaan khögjikh üzegdliig kheldeg."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Үүнийг өөр нэрээр нэрлэдэг үү?",
+   "en": "Is it called anything else?",
+   "mn_latin": "Üüniig öör nereer nerledeg üü?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Тийм ээ, заримдаа элбэг дэлбэг байдлын парадокс гэж нэрлэдэг.",
+   "en": "Yes, it's sometimes called the paradox of plenty.",
+   "mn_latin": "Tiim ee, zarimdaa elbeg delbeg baidlyn paradoks gej nerledeg."
+  },
+  {
+   "speaker": "Оюунаа",
+   "mn": "Тэгэхээр энэ нь уул уурхай ба эдийн засгийн өсөлтийн хоорондын хамаарлыг тайлбарладаг юм байна, тийм үү?",
+   "en": "So it explains the relationship between mining and economic growth, right?",
+   "mn_latin": "Tegekheer ene ni uul uurkhai ba ediin zasgiin ösöltiin khoorondyn khamaarlyg tailbarladag yum baina, tiim üü?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Яг зөв. Дараагийн хичээлээр тодорхойлолтыг нь Монголын жишээн дээр дэлгэрэнгүй ярилцъя.",
+   "en": "Exactly. In the next class, let's discuss the definition in detail using Mongolia as an example.",
+   "mn_latin": "Yag zöv. Daraagiin khicheeleer todorkhoiloltyg ni Mongolyn jisheen deer delgerengüi yariltsya."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian academic and business language has borrowed many terms from Russian and, more recently, English, such as инфляци (inflation) and менежмент (management). The State Language Commission (Төрийн хэлний комисс) approves official Mongolian equivalents for new terms. In meetings in Ulaanbaatar you'll often hear the loanword and the official Mongolian term used side by side.",
+  "mn": "Монголын эрдэм шинжилгээ, бизнесийн хэлэнд орос хэлнээс, сүүлийн үед англи хэлнээс олон нэр томьёо орж ирсэн. Жишээлбэл: инфляци, менежмент. Шинэ нэр томьёоны албан ёсны монгол хувилбарыг Төрийн хэлний комисс баталдаг. Улаанбаатарт хурал дээр гадаад үг болон монгол нэр томьёог зэрэгцүүлэн хэрэглэх нь элбэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A well-built lesson. The Mongolian and English are natural, and the blanks have one clear answer each. The only real error is the name of the state language body."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "A solid lesson. Only a few Mongolian wording issues needed fixing: \"сая\", \"хойч үе\" and \"хамаарал\".",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "\"таны саяын хэлсэн\" is awkward. The natural form is \"таны сая хэлсэн\"."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "The old alternative now duplicates the main sentence, so it is replaced with a different valid wording."
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "\"ирээдүй үеийнхний\" is ungrammatical (it would need the genitive \"ирээдүйн\"). \"хойч үеийнхний\" is the standard phrase for \"future generations\"."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "\"хамаарал\" (correlation, dependence) fits a link between economic factors. \"харилцаа\" means interaction between people."
+   }
+  ]
+ }
+}

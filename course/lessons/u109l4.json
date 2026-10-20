@@ -1,0 +1,419 @@
+{
+ "intro_en": "You will read news-style Mongolian about the country's reliance on imported rice, sugar, oil and fruit, and about how exchange-rate swings reach the checkout counter. You will learn to describe harmful consequences with -ын хор уршгаар, and see how English uses absolute constructions with \"with\" (with prices rising, with the border closed).",
+ "intro_mn": "Энэ хичээлээр та будаа, элсэн чихэр, тос, жимсний импортын хараат байдал, ханшийн хэлбэлзэл худалдан авагчдад хэрхэн нөлөөлдөг тухай мэдээ уншина. Мөн -ын хор уршгаар хэлбэрээр сөрөг үр дагаврыг илэрхийлж, англи хэлний \"with\"-тэй бие даасан бүтцийг (with prices rising, with the border closed) судална.",
+ "vocab": [
+  {
+   "mn": "импорт",
+   "en": "import(s)",
+   "pos": "noun",
+   "example_mn": "Будааны импорт энэ жил нэмэгдлээ.",
+   "example_en": "Rice imports increased this year.",
+   "mn_latin": "import"
+  },
+  {
+   "mn": "импортлох",
+   "en": "to import",
+   "pos": "verb",
+   "example_mn": "Бид ихэнх жимсээ Хятадаас импортолдог.",
+   "example_en": "We import most of our fruit from China.",
+   "mn_latin": "importlokh"
+  },
+  {
+   "mn": "хараат байдал",
+   "en": "dependence",
+   "pos": "noun",
+   "example_mn": "Импортын хараат байдлыг бууруулах хэрэгтэй.",
+   "example_en": "Dependence on imports needs to be reduced.",
+   "mn_latin": "kharaat baidal"
+  },
+  {
+   "mn": "үнийн өсөлт",
+   "en": "price increase, rise in prices",
+   "pos": "noun",
+   "example_mn": "Үнийн өсөлт иргэдийн амьжиргаанд нөлөөлж байна.",
+   "example_en": "The rise in prices is affecting people's livelihoods.",
+   "mn_latin": "üniin ösölt"
+  },
+  {
+   "mn": "ханш",
+   "en": "exchange rate",
+   "pos": "noun",
+   "example_mn": "Долларын ханш дахин өсчээ.",
+   "example_en": "The dollar exchange rate has risen again.",
+   "mn_latin": "khansh"
+  },
+  {
+   "mn": "нөөц",
+   "en": "reserve(s), stockpile",
+   "pos": "noun",
+   "example_mn": "Улсын нөөцөд гурил хангалттай байна.",
+   "example_en": "There is enough flour in the state reserves.",
+   "mn_latin": "nööts"
+  },
+  {
+   "mn": "хор уршиг",
+   "en": "harmful consequence, damage",
+   "pos": "noun",
+   "example_mn": "Ган гачгийн хор уршиг олон жил үргэлжилсэн.",
+   "example_en": "The damage from the drought lasted for many years.",
+   "mn_latin": "khor urshig"
+  },
+  {
+   "mn": "хомсдол",
+   "en": "shortage",
+   "pos": "noun",
+   "example_mn": "Өвөл ургамлын тосны хомсдол үүссэн.",
+   "example_en": "A shortage of vegetable oil developed in the winter.",
+   "mn_latin": "khomsdol"
+  },
+  {
+   "mn": "нийлүүлэлт",
+   "en": "supply",
+   "pos": "noun",
+   "example_mn": "Жимсний нийлүүлэлт хэсэг хугацаанд тасарсан.",
+   "example_en": "The fruit supply was cut off for a while.",
+   "mn_latin": "niilüülelt"
+  },
+  {
+   "mn": "хэлбэлзэл",
+   "en": "fluctuation",
+   "pos": "noun",
+   "example_mn": "Ханшийн хэлбэлзэл импортлогчдод эрсдэл учруулдаг.",
+   "example_en": "Exchange-rate fluctuations create risk for importers.",
+   "mn_latin": "khelbelzel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Төгрөгийн ханш суларсны хор уршгаар импортын будааны үнэ огцом өслөө.",
+   "en": "With the tugrik weakening, the price of imported rice rose sharply.",
+   "alt_mn": [
+    "Төгрөгийн ханш суларсны улмаас импортын будааны үнэ огцом өсөв."
+   ],
+   "alt_en": [
+    "As a result of the tugrik's weakening, the price of imported rice rose sharply.",
+    "Because the tugrik weakened, the price of imported rice shot up."
+   ],
+   "mn_latin": "Tögrögiin khansh sularsny khor urshgaar importyn budaany üne ogtsom öslöö."
+  },
+  {
+   "mn": "Монгол Улс элсэн чихэр, ургамлын тосны хувьд импортоос бараг бүрэн хараат байдаг.",
+   "en": "Mongolia is almost entirely dependent on imports for sugar and vegetable oil.",
+   "alt_mn": [
+    "Монгол Улс элсэн чихэр, ургамлын тосоо бараг бүхэлд нь импортоор хангадаг."
+   ],
+   "alt_en": [
+    "Mongolia relies almost completely on imports for sugar and vegetable oil."
+   ],
+   "mn_latin": "Mongol Uls elsen chikher, urgamlyn tosny khuvid importoos barag büren kharaat baidag."
+  },
+  {
+   "mn": "Хил хаагдсан үед жимсний нийлүүлэлт тасалдаж, лангуунууд хоосорсон.",
+   "en": "With the border closed, fruit supplies were cut off and the stalls went empty.",
+   "alt_mn": [
+    "Хил хаагдахад жимсний нийлүүлэлт тасарч, лангуунууд хоосорчээ."
+   ],
+   "alt_en": [
+    "When the border was closed, fruit supplies stopped and the stalls emptied."
+   ],
+   "mn_latin": "Khil khaagdsan üyed jimsnii niilüülelt tasaldaj, languunuud khoosorson."
+  },
+  {
+   "mn": "Үнийн өсөлт ялангуяа гэр хорооллын өрхүүдэд хүнд тусаж байна.",
+   "en": "The rise in prices is hitting households in the ger districts especially hard.",
+   "alt_mn": [
+    "Үнийн өсөлт гэр хорооллын өрхүүдэд онцгой хүнд нөлөөлж байна."
+   ],
+   "alt_en": [
+    "Rising prices are hitting ger district households particularly hard."
+   ],
+   "mn_latin": "Üniin ösölt yalanguyaa ger khoroollyn örkhüüded khünd tusaj baina."
+  },
+  {
+   "mn": "Засгийн газар улсын нөөцөөс гурил, будаа гаргаж зах зээлд нийлүүлэв.",
+   "en": "The government released flour and rice from the state reserves onto the market.",
+   "alt_mn": [
+    "Засгийн газар улсын нөөцийн гурил, будааг зах зээлд гаргалаа."
+   ],
+   "alt_en": [
+    "The government put flour and rice from the state reserves on the market."
+   ],
+   "mn_latin": "Zasgiin gazar ulsyn nöötsöös guril, budaa gargaj zakh zeeld niilüülev."
+  },
+  {
+   "mn": "Импортын хараат байдлын хор уршгаар гадаад зах зээлийн аливаа хэлбэлзэл манай дэлгүүрийн лангуунд шууд мэдрэгддэг.",
+   "en": "Because of our dependence on imports, any fluctuation in foreign markets is felt immediately on our store shelves.",
+   "alt_mn": [
+    "Импортоос хараат байдгийн хор уршгаар гадаад зах зээлийн хэлбэлзэл дэлгүүрийн лангуунд шууд нөлөөлдөг."
+   ],
+   "alt_en": [
+    "As a consequence of import dependence, every swing in foreign markets shows up right away on our store shelves."
+   ],
+   "mn_latin": "Importyn kharaat baidlyn khor urshgaar gadaad zakh zeeliin alivaa khelbelzel manai delgüüriin languund shuud medregddeg."
+  },
+  {
+   "mn": "Долларын ханш өсөх тусам ургамлын тос, жимс жимсгэнэ үнэтэй болдог.",
+   "en": "The higher the dollar climbs, the more expensive vegetable oil and fruit become.",
+   "alt_mn": [
+    "Долларын ханш өсөхийн хэрээр ургамлын тос, жимсний үнэ нэмэгддэг."
+   ],
+   "alt_en": [
+    "As the dollar rate rises, vegetable oil and fruit get more expensive."
+   ],
+   "mn_latin": "Dollaryn khansh ösökh tusam urgamlyn tos, jims jimsgene ünetei boldog."
+  },
+  {
+   "mn": "Шинжээчид хүнсний хомсдолоос сэргийлэхийн тулд стратегийн нөөцийг нэмэгдүүлэхийг зөвлөж байна.",
+   "en": "Experts recommend expanding strategic reserves to prevent food shortages.",
+   "alt_mn": [
+    "Хүнсний хомсдолоос урьдчилан сэргийлэхийн тулд стратегийн нөөцөө нэмэх хэрэгтэй гэж шинжээчид зөвлөж байна."
+   ],
+   "alt_en": [
+    "Experts advise increasing strategic reserves in order to prevent food shortages."
+   ],
+   "mn_latin": "Shinjeechid khünsnii khomsdoloos sergiilekhiin tuld stratyegiin nöötsiig nemegdüülekhiig zövlöj baina."
+  },
+  {
+   "mn": "Цалин нэмэгдээгүй байхад үнэ өссөөр байгаа нь иргэдийн бухимдлыг төрүүлж байна.",
+   "en": "With wages flat and prices still climbing, frustration among the public is growing.",
+   "alt_mn": [
+    "Цалин өсөхгүй байхад үнэ үргэлжлэн өсөж байгаа нь иргэдийг бухимдуулж байна."
+   ],
+   "alt_en": [
+    "With wages unchanged and prices still rising, people are becoming frustrated."
+   ],
+   "mn_latin": "Tsalin nemegdeegüi baikhad üne össöör baigaa ni irgediin bukhimdlyg törüülj baina."
+  },
+  {
+   "mn": "Тээврийн зардал нэмэгдсэний хор уршгаар Хятадаас импортолдог алимны үнэ хоёр дахин өсчээ.",
+   "en": "As a result of higher transport costs, the price of apples imported from China has doubled.",
+   "alt_mn": [
+    "Тээврийн зардал өссөний улмаас Хятадаас оруулж ирдэг алимны үнэ хоёр дахин нэмэгджээ."
+   ],
+   "alt_en": [
+    "With transport costs up, the price of apples imported from China has doubled."
+   ],
+   "mn_latin": "Teevriin zardal nemegdsenii khor urshgaar Khyatadaas importoldog alimny üne khoyor dakhin öschee."
+  },
+  {
+   "mn": "Олон гэр бүл үнэтэй жимс худалдан авахаа больж, хямд гурилан бүтээгдэхүүн рүү шилжиж байна.",
+   "en": "Many families have stopped buying expensive fruit and are switching to cheap flour-based foods.",
+   "alt_mn": [
+    "Олон айл үнэтэй жимс авахаа больж, хямдхан гурилан хоол руу шилжиж байна."
+   ],
+   "alt_en": [
+    "Many families no longer buy expensive fruit and are turning to cheaper flour-based foods."
+   ],
+   "mn_latin": "Olon ger bül ünetei jims khudaldan avakhaa bolij, khyamd gurilan büteegdekhüün rüü shiljij baina."
+  },
+  {
+   "mn": "Нөөц хангалттай байвал үнийн огцом өсөлтийг зохицуулах боломжтой.",
+   "en": "With sufficient reserves in place, a sharp price spike can be managed.",
+   "alt_mn": [
+    "Хангалттай нөөцтэй байвал үнийн огцом өсөлтийг барьж болно."
+   ],
+   "alt_en": [
+    "If reserves are sufficient, a sudden price spike can be kept under control."
+   ],
+   "mn_latin": "Nööts khangalttai baival üniin ogtsom ösöltiig zokhitsuulakh bolomjtoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Harmful consequences with -ын хор уршгаар; absolute \"with\" in English",
+  "title_mn": "-ын хор уршгаар хэлбэр; англи хэлний \"with\"-тэй бие даасан бүтэц",
+  "explain_en": "Хор уршиг means \"harm, damaging consequences.\" Put the cause in the genitive (-ын/-ийн/-ы/-ий/-н, following vowel harmony), then add хор уршгаар (instrumental \"by the harm of\"; note that уршиг drops its vowel and becomes уршгаар). The result: \"as a harmful consequence of X.\" With a whole clause as the cause, use a past participle plus the genitive: ханш суларсны хор уршгаар, \"because the exchange rate weakened (and that hurt us).\" Unlike the neutral -ын улмаас (\"because of\"), this phrase signals that the result is bad, which is why it is common in news reports about crises.",
+  "explain_mn": "Англи хэлэнд \"with + нэр үг + -ing / -ed хэлбэр\" бүтцээр нөхцөл байдал, шалтгааныг товч илэрхийлдэг. Энэ нь бүтэн өгүүлбэр биш тул туслах үйл үг (is, was) хэрэглэдэггүй. With prices rising = үнэ өсөж байгаа энэ үед (үйл явц үргэлжилж байгаа бол -ing). With the border closed = хил хаагдсан тул (үр дүн, төлөв байдал бол -ed буюу 3-р хэлбэр). Мөн нэмэлт үг, бусад үгтэй хэрэглэж болно: with wages flat, with reserves in place. Мэдээ, нийтлэлд \"Because the border was closed...\" гэхийн оронд товч бөгөөд уран хэлэхэд тохиромжтой.",
+  "examples": [
+   {
+    "mn": "Ган гачгийн хор уршгаар улаан буудайн ургац буурав.",
+    "en": "With the drought dragging on, the wheat harvest fell.",
+    "mn_latin": "Gan gachgiin khor urshgaar ulaan buudain urgats buurav."
+   },
+   {
+    "mn": "Хил хаагдсаны хор уршгаар жимсний хомсдол үүсэв.",
+    "en": "With the border closed, a fruit shortage developed.",
+    "mn_latin": "Khil khaagdsany khor urshgaar jimsnii khomsdol üüsev."
+   },
+   {
+    "mn": "Ханш суларсны хор уршгаар элсэн чихрийн үнэ өслөө.",
+    "en": "With the tugrik losing value, sugar prices went up.",
+    "mn_latin": "Khansh sularsny khor urshgaar elsen chikhriin üne öslöö."
+   },
+   {
+    "mn": "Импортын хараат байдлын хор уршгаар бид гадаад хямралд эмзэг байна.",
+    "en": "With so much of our food imported, we are vulnerable to foreign crises.",
+    "mn_latin": "Importyn kharaat baidlyn khor urshgaar bid gadaad khyamrald emzeg baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ханш суларсны хор ___ будааны үнэ өслөө.",
+   "answer": "уршгаар",
+   "options": [
+    "уршгаар",
+    "уршгаас",
+    "уршгийн",
+    "уршигтай"
+   ],
+   "translation": "With the exchange rate weakening, the price of rice went up.",
+   "explain_en": "The fixed phrase uses the instrumental case: хор уршгаар, \"as a harmful result of.\" The ablative (-аас), the genitive (-ийн) and -тай do not express cause in this phrase.",
+   "explain_mn": "Шалтгааныг илэрхийлэхдээ үйлдэх тийн ялгал хэрэглэнэ: хор уршгаар. -аас, -ийн, -тай хэлбэр энэ хэллэгт шалтгааны утга өгөхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Монгол Улс элсэн чихрийн хувьд импортоос ___ байдаг.",
+   "answer": "хараат",
+   "options": [
+    "хараат",
+    "бие даасан",
+    "нөөц",
+    "ханш"
+   ],
+   "translation": "Mongolia is dependent on imports for sugar.",
+   "explain_en": "Хараат means \"dependent\" and goes with the ablative (импортоос, \"on imports\"). Бие даасан means \"independent,\" which contradicts the facts, and нөөц and ханш are nouns that don't fit here.",
+   "explain_mn": "Хараат гэдэг нь \"dependent\" гэсэн утгатай бөгөөд гарах тийн ялгалтай (импортоос) холбогдоно. Бие даасан нь эсрэг утгатай, нөөц, ханш нь энд утга зохирохгүй нэр үг."
+  },
+  {
+   "lang": "mn",
+   "text": "Засгийн газар улсын ___ гурил гаргажээ.",
+   "answer": "нөөцөөс",
+   "options": [
+    "нөөцөөс",
+    "нөөцөд",
+    "нөөцөөр",
+    "нөөцтэй"
+   ],
+   "translation": "The government released flour from the state reserves.",
+   "explain_en": "Something taken out of a place uses the ablative case. With the ө vowel in нөөц, the ending is -өөс: нөөцөөс, \"from the reserves.\"",
+   "explain_mn": "Аль нэг газраас гаргахыг гарах тийн ялгалаар илэрхийлнэ. Нөөц үгийн эгшигт тохируулан -өөс залгана: нөөцөөс."
+  },
+  {
+   "lang": "en",
+   "text": "___ prices rising, families are buying less fruit.",
+   "answer": "With",
+   "options": [
+    "With",
+    "As",
+    "Because",
+    "While"
+   ],
+   "translation": "Үнэ өсөж байгаа тул гэр бүлүүд жимс бага авч байна.",
+   "explain_en": "Only \"with\" can introduce a noun + -ing phrase that has no verb \"are.\" \"As,\" \"because\" and \"while\" would need a full clause: as prices are rising.",
+   "explain_mn": "Туслах үйл үггүй \"нэр үг + -ing\" бүтцийг зөвхөн \"with\" эхлүүлж чадна. As, because, while хэрэглэвэл бүтэн өгүүлбэр шаардана: as prices are rising."
+  },
+  {
+   "lang": "en",
+   "text": "With the border ___, fruit supplies stopped for weeks.",
+   "answer": "closed",
+   "options": [
+    "closed",
+    "close",
+    "closes",
+    "to close"
+   ],
+   "translation": "Хил хаагдсан тул жимсний нийлүүлэлт хэдэн долоо хоног зогссон.",
+   "explain_en": "The border was closed by someone, so this is a resulting state. Use the past participle: with the border closed.",
+   "explain_mn": "Хил хаагдсан төлөв байдлыг илэрхийлж байгаа тул үйл үгийн 3-р хэлбэр (past participle) хэрэглэнэ: closed."
+  },
+  {
+   "lang": "en",
+   "text": "With the tugrik ___ weaker, imported oil costs more every month.",
+   "answer": "growing",
+   "options": [
+    "growing",
+    "grows",
+    "grew",
+    "grow"
+   ],
+   "translation": "Төгрөг улам суларч байгаа тул импортын тос сар бүр үнэтэй болж байна.",
+   "explain_en": "The weakening is an ongoing process, so use the -ing form. Finite verbs like grows or grew can't follow \"with + noun.\"",
+   "explain_mn": "Үргэлжилж буй үйл явц тул -ing хэлбэр хэрэглэнэ. \"With + нэр үг\"-ийн дараа grows, grew гэх мэт хувирсан үйл үг орохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Өнөөдрийн мэдээг уншсан уу? Ургамлын тосны үнэ дахиад гуравны нэгээр өсчээ.",
+   "en": "Did you read today's news? The price of vegetable oil has gone up by a third again.",
+   "mn_latin": "Önöödriin medeeg unshsan uu? Urgamlyn tosny üne dakhiad guravny negeer öschee."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Уншсан. Долларын ханш өссөний хор уршиг гэж бичсэн байна лээ.",
+   "en": "I did. It said it's a consequence of the dollar going up.",
+   "mn_latin": "Unshsan. Dollaryn khansh össönii khor urshig gej bichsen baina lee."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тийм. Бид тос, элсэн чихрээ бараг бүгдийг нь импортолдог болохоор ханшийн хэлбэлзэл шууд тусдаг.",
+   "en": "Right. We import almost all our oil and sugar, so exchange-rate swings hit us directly.",
+   "mn_latin": "Tiim. Bid tos, elsen chikhree barag bügdiig ni importoldog bolokhoor khanshiin khelbelzel shuud tusdag."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Өнгөрсөн өвөл хил хаагдсан үед жимсний хомсдол үүссэнийг санаж байна.",
+   "en": "I remember the fruit shortage last winter, with the border closed.",
+   "mn_latin": "Öngörsön övöl khil khaagdsan üyed jimsnii khomsdol üüsseniig sanaj baina."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэр үед манай ээж алим авахаа больж, гурилан хоол руу шилжсэн.",
+   "en": "Back then my mom stopped buying apples and switched to flour-based meals.",
+   "mn_latin": "Ter üyed manai eej alim avakhaa bolij, gurilan khool ruu shiljsen."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Засгийн газар улсын нөөцөөс юм гаргаагүй юу?",
+   "en": "Didn't the government release anything from the state reserves?",
+   "mn_latin": "Zasgiin gazar ulsyn nöötsöös yum gargaagüi yuu?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Гурил, будаа гаргасан, гэхдээ жимсний нөөц гэж байдаггүй шүү дээ.",
+   "en": "They released flour and rice, but there's no such thing as a fruit reserve, you know.",
+   "mn_latin": "Guril, budaa gargasan, gekhdee jimsnii nööts gej baidaggüi shüü dee."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэгэхээр импортын хараат байдлыг бууруулахгүй бол ийм асуудал давтагдсаар байх нь.",
+   "en": "So unless we reduce our dependence on imports, these problems will keep coming back.",
+   "mn_latin": "Tegekheer importyn kharaat baidlyg buuruulakhgüi bol iim asuudal davtagdsaar baikh ni."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia produces plenty of meat and milk but imports nearly all of its sugar, vegetable oil and rice, as well as most fresh fruit, mainly from China and Russia. Because these goods are priced in foreign currency, a weaker tugrik quickly shows up as higher prices at markets like Mercury and Narantuul. Delays at border crossings such as Zamyn-Üüd have repeatedly left store shelves short of fruit and vegetables.",
+  "mn": "Монгол Улс мах, сүүгээр өөрийгөө хангадаг ч элсэн чихэр, ургамлын тос, будааныхаа бараг бүгдийг, мөн шинэ жимсний ихэнхийг голчлон Хятад, Оросоос импортолдог. Эдгээр барааг гадаад валютаар худалдан авдаг тул төгрөг суларсан даруйд Меркури, Нарантуул зэрэг захын үнэ өсдөг. Замын-Үүд зэрэг боомтоор бараа удаашрах бүрт дэлгүүрүүдэд жимс, хүнсний ногооны хомсдол удаа дараа үүсэж байсан."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A strong, natural lesson. It had one genitive spelling error, one fill-in-the-blank with two correct answers, and one dialogue line whose English and Mongolian did not match."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "Mostly solid lesson; fixed verb spelling (тусаж/үүсэж), one participle genitive (хаагдсаны), and made the culture note en/mn match.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "Misspelling: the correct form is тусаж, not тусч."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "Genitive of хаагдсан is хаагдсаны; the vowel can't drop after the -гдс cluster."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Fixes the misspelling үүсч → үүсэж; adds 'nearly all' and 'repeatedly' so it matches the en version."
+   }
+  ]
+ }
+}

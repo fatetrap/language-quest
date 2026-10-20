@@ -1,0 +1,485 @@
+{
+ "intro_en": "In this lesson you will write and present a full step-by-step description of a craft for an exhibition or festival. You will chain Mongolian converbs such as -нгуут/-нгүүт, -аад, -тал and -сны дараа in formal writing, and in English you will use perfect participles correctly without letting them dangle.",
+ "intro_mn": "Энэ хичээлээр та үзэсгэлэн, наадамд зориулж нэг гар урлалын явцыг алхам алхмаар бичиж, танилцуулж сурна. Мөн монгол хэлний -нгуут/-нгүүт, -аад, -тал, -сны дараа зэрэг нөхцөл үйлийг албан бичвэрт холбож хэрэглэнэ. Англи хэлний perfect participle-ийг «унжсан» алдаагүй зөв хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "дэс дараалал",
+   "en": "sequence, order",
+   "pos": "noun",
+   "example_mn": "Үе шатуудыг дэс дарааллаар нь бичээрэй.",
+   "example_en": "Write the stages in order.",
+   "mn_latin": "des daraalal"
+  },
+  {
+   "mn": "үе шат",
+   "en": "stage, phase",
+   "pos": "noun",
+   "example_mn": "Эсгий хийх ажил хэд хэдэн үе шаттай.",
+   "example_en": "Making felt has several stages.",
+   "mn_latin": "üye shat"
+  },
+  {
+   "mn": "түүхий эд",
+   "en": "raw material",
+   "pos": "noun",
+   "example_mn": "Гол түүхий эд нь хонины ноос юм.",
+   "example_en": "The main raw material is sheep's wool.",
+   "mn_latin": "tüükhii ed"
+  },
+  {
+   "mn": "боловсруулах",
+   "en": "to process, to treat",
+   "pos": "verb",
+   "example_mn": "Арьсыг гараар боловсруулдаг.",
+   "example_en": "The leather is processed by hand.",
+   "mn_latin": "bolovsruulakh"
+  },
+  {
+   "mn": "хатаах",
+   "en": "to dry (something)",
+   "pos": "verb",
+   "example_mn": "Ноосыг наранд хатаана.",
+   "example_en": "The wool is dried in the sun.",
+   "mn_latin": "khataakh"
+  },
+  {
+   "mn": "өнгөлөх",
+   "en": "to polish",
+   "pos": "verb",
+   "example_mn": "Дархан мөнгөн аягыг гялалзтал өнгөлөв.",
+   "example_en": "The smith polished the silver bowl until it gleamed.",
+   "mn_latin": "öngölökh"
+  },
+  {
+   "mn": "цутгах",
+   "en": "to cast, to pour (into a mold)",
+   "pos": "verb",
+   "example_mn": "Хайлсан мөнгийг хэвэнд цутгана.",
+   "example_en": "The molten silver is poured into a mold.",
+   "mn_latin": "tsutgakh"
+  },
+  {
+   "mn": "хээ угалз",
+   "en": "ornamental pattern",
+   "pos": "noun",
+   "example_mn": "Энэ хээ угалз нь урт наслахыг бэлгэддэг.",
+   "example_en": "This pattern symbolizes long life.",
+   "mn_latin": "khee ugalz"
+  },
+  {
+   "mn": "танилцуулга",
+   "en": "presentation, introduction",
+   "pos": "noun",
+   "example_mn": "Маргааш үзэсгэлэн дээр танилцуулга хийнэ.",
+   "example_en": "Tomorrow I'll give a presentation at the exhibition.",
+   "mn_latin": "taniltsuulga"
+  },
+  {
+   "mn": "цех",
+   "en": "workshop",
+   "pos": "noun",
+   "example_mn": "Түүний цех Сүхбаатар дүүрэгт байдаг.",
+   "example_en": "Her workshop is in Sükhbaatar District.",
+   "mn_latin": "tsyekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ноосоо угаагаад сайтар хатаана.",
+   "en": "The wool is washed and then dried thoroughly.",
+   "alt_mn": [
+    "Ноосыг угаасны дараа сайтар хатаана."
+   ],
+   "alt_en": [
+    "After washing the wool, we dry it thoroughly.",
+    "Having washed the wool, we dry it thoroughly."
+   ],
+   "mn_latin": "Noosoo ugaagaad saitar khataana."
+  },
+  {
+   "mn": "Ноос хатангуут түүнийг ташуурдаж эхэлнэ.",
+   "en": "As soon as the wool has dried, we start beating it with rods.",
+   "alt_mn": [
+    "Ноос хатмагц түүнийг ташуурдаж эхэлнэ."
+   ],
+   "alt_en": [
+    "Once the wool is dry, we begin beating it with rods."
+   ],
+   "mn_latin": "Noos khatanguut tüüniig tashuurdaj ekhelne."
+  },
+  {
+   "mn": "Ноосоо ташуурдаж дуусаад бид түүнийг хуучин эсгий дээр жигд дэвснэ.",
+   "en": "Having beaten the wool, we spread it evenly over an old piece of felt.",
+   "alt_mn": [
+    "Ноосоо ташуурдсаны дараа бид түүнийг хуучин эсгий дээр жигд дэвснэ."
+   ],
+   "alt_en": [
+    "After beating the wool, we spread it evenly over an old piece of felt."
+   ],
+   "mn_latin": "Noosoo tashuurdaj duusaad bid tüüniig khuuchin esgii deer jigd devsne."
+  },
+  {
+   "mn": "Эсгийг ороож боогоод мориор чирүүлнэ.",
+   "en": "The felt is rolled up, tied, and pulled along by a horse.",
+   "alt_mn": [
+    "Эсгийг ороогоод боож, мориор чирүүлнэ."
+   ],
+   "alt_en": [
+    "The felt is rolled and tied, then dragged by a horse."
+   ],
+   "mn_latin": "Esgiig orooj boogood morior chirüülne."
+  },
+  {
+   "mn": "Эсгийг бүрэн хататал нарны гэрэлд дэлгэж тавина.",
+   "en": "The felt is laid out in the sunlight until it is completely dry.",
+   "alt_mn": [
+    "Эсгий бүрэн хатах хүртэл нарны гэрэлд дэлгэж тавина."
+   ],
+   "alt_en": [
+    "The felt is spread out in the sun until it has fully dried."
+   ],
+   "mn_latin": "Esgiig büren khatatal narny gereld delgej tavina."
+  },
+  {
+   "mn": "Мөнгө хайлангуут түүнийг хэвэнд цутгана.",
+   "en": "As soon as the silver has melted, it is poured into a mold.",
+   "alt_mn": [
+    "Мөнгө хайлмагц түүнийг хэвэнд цутгана."
+   ],
+   "alt_en": [
+    "Once the silver melts, it is poured into a mold."
+   ],
+   "mn_latin": "Möngö khailanguut tüüniig khevend tsutgana."
+  },
+  {
+   "mn": "Эдлэл хөрсний дараа дархан хээ угалзыг нарийн сийлнэ.",
+   "en": "Once the piece has cooled, the silversmith carefully engraves the pattern.",
+   "alt_mn": [
+    "Эдлэл хөрөнгүүт дархан хээ угалзыг нарийн сийлнэ."
+   ],
+   "alt_en": [
+    "After the piece has cooled, the smith carefully engraves the ornament."
+   ],
+   "mn_latin": "Edlel khörsnii daraa darkhan khee ugalzyg nariin siilne."
+  },
+  {
+   "mn": "Аяга шөнөжин хөрсний дараа дархан түүнийг өнгөлсөн.",
+   "en": "After the bowl had cooled overnight, the craftsman polished it.",
+   "alt_mn": [
+    "Аяга шөнөжин хөрсний дараа дархан аягыг өнгөлсөн."
+   ],
+   "alt_en": [
+    "The bowl having cooled overnight, the craftsman polished it."
+   ],
+   "mn_latin": "Ayaga shönöjin khörsnii daraa darkhan tüüniig öngölsön."
+  },
+  {
+   "mn": "Арьсыг идээлж зөөлрүүлээд эмээлийн бүрээсэнд ашиглана.",
+   "en": "Having tanned and softened the leather, they use it for the saddle cover.",
+   "alt_mn": [
+    "Арьсыг идээлж зөөлрүүлсний дараа эмээлийн бүрээсэнд ашиглана."
+   ],
+   "alt_en": [
+    "The leather is tanned and softened, and then used for the saddle cover."
+   ],
+   "mn_latin": "Arisyg ideelj zöölrüüleed emeeliin büreesend ashiglana."
+  },
+  {
+   "mn": "Хээ угалзаа зурж дуусмагц өнгөт утсаар хатгана.",
+   "en": "As soon as the pattern has been drawn, it is stitched with colored thread.",
+   "alt_mn": [
+    "Хээ угалзаа зурж дуусангуут өнгөт утсаар хатгана."
+   ],
+   "alt_en": [
+    "Once the pattern is drawn, it is embroidered with colored thread."
+   ],
+   "mn_latin": "Khee ugalzaa zurj duusmagts öngöt utsaar khatgana."
+  },
+  {
+   "mn": "Танилцуулгадаа үе шат бүрийг дэс дарааллаар нь тайлбарлах хэрэгтэй.",
+   "en": "In your presentation, you should explain each stage in order.",
+   "alt_mn": [
+    "Танилцуулга хийхдээ үе шат бүрийг дэс дарааллаар нь тайлбарлаарай."
+   ],
+   "alt_en": [
+    "In your presentation, explain every stage in sequence."
+   ],
+   "mn_latin": "Taniltsuulgadaa üye shat büriig des daraallaar ni tailbarlakh kheregtei."
+  },
+  {
+   "mn": "Шавь байх хугацаагаа дуусгангуут Бат өөрийн цехийг нээсэн.",
+   "en": "Having completed his apprenticeship, Bat opened his own workshop.",
+   "alt_mn": [
+    "Шавь байх хугацаагаа дуусгамагц Бат өөрийн цехийг нээсэн."
+   ],
+   "alt_en": [
+    "As soon as he finished his apprenticeship, Bat opened his own workshop."
+   ],
+   "mn_latin": "Shavi baikh khugatsaagaa duusganguut Bat ööriin tsyekhiig neesen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Chaining converbs in formal process writing (-нгуут/-нгүүт, -аад, -тал, -сны дараа)",
+  "title_mn": "Албан явцын бичвэрт нөхцөл үйлийг холбох нь (-нгуут/-нгүүт, -аад, -тал, -сны дараа)",
+  "explain_en": "A Mongolian process description is built as a chain of converbs, and only the last verb takes a finite ending (usually -на/-нэ/-но/-нө). Each converb sets up a different time relation. -аад/-ээд/-оод/-өөд means 'having done, then' (угаагаад). -нгуут/-нгүүт means 'as soon as' and follows vowel harmony: хатангуут, хайлангуут, дуусгангуут, but хөрөнгүүт. -магц/-мэгц means the same and sounds a little more bookish. -тал/-тэл means 'until' (хататал). -сны/-сний дараа means 'after', and it is the clearest choice in formal writing. Unlike English participles, a Mongolian converb clause can have its own subject. In «Эдлэл хөрөнгүүт дархан сийлнэ» ('As soon as the piece cools, the smith engraves'), the piece cools and the smith engraves. That is perfectly correct. For good style, don't stack more than two or three converbs in one sentence. Vary them as well: -аад, then -нгуут, then -сны дараа.",
+  "explain_mn": "Монгол хэлэнд явцын тайлбарыг нөхцөл үйлүүдийг гинжлэн бүтээдэг бөгөөд зөвхөн сүүлийн үйл үг төгсгөх нөхцөл (ихэвчлэн -на/-нэ/-но/-нө) авна. Нөхцөл үйл бүр өөр цаг хугацааны харьцааг илэрхийлнэ. -аад/-ээд/-оод/-өөд нь «...ж дуусаад, тэгээд» гэсэн утгатай (угаагаад). -нгуут/-нгүүт нь «...сан даруйд» гэсэн утгатай бөгөөд эгшиг зохицох ёсыг дагана: хатангуут, хайлангуут, дуусгангуут, харин хөрөнгүүт. -магц/-мэгц нь мөн адил утгатай, арай номын хэллэгт ойр сонсогдоно. -тал/-тэл нь «...тал/хүртэл» гэсэн утгатай (хататал). -сны/-сний дараа нь «...сны дараа» гэсэн утгатай бөгөөд албан бичвэрт хамгийн тодорхой сонголт юм. Англи хэлний participle-ээс ялгаатай нь монгол нөхцөл үйлийн өгүүлбэр өөрийн гэсэн өгүүлэгдэхүүнтэй байж болно. «Эдлэл хөрөнгүүт дархан сийлнэ» гэхэд эдлэл хөрч, дархан сийлж байна. Энэ нь бүрэн зөв. Найруулга сайн байлгахын тулд нэг өгүүлбэрт хоёр, гурваас илүү нөхцөл үйл давхарлахгүй байх хэрэгтэй. Мөн тэдгээрийг ээлжлүүлэн хэрэглээрэй: -аад, дараа нь -нгуут, дараа нь -сны дараа.",
+  "examples": [
+   {
+    "mn": "Ноосоо угаагаад бид түүнийг хатаана.",
+    "en": "Having washed the wool, we dry it.",
+    "mn_latin": "Noosoo ugaagaad bid tüüniig khataana."
+   },
+   {
+    "mn": "Мөнгө хайлангуут дархан түүнийг хэвэнд цутгана.",
+    "en": "As soon as the silver has melted, the smith pours it into a mold.",
+    "mn_latin": "Möngö khailanguut darkhan tüüniig khevend tsutgana."
+   },
+   {
+    "mn": "Аяга хөрсний дараа дархан түүнийг өнгөлсөн.",
+    "en": "After the bowl had cooled, the smith polished it. (NOT: Having cooled, the smith polished the bowl.)",
+    "mn_latin": "Ayaga khörsnii daraa darkhan tüüniig öngölsön."
+   },
+   {
+    "mn": "Эсгийг бүрэн хататал наранд дэлгэнэ.",
+    "en": "The felt is spread out in the sun until it is completely dry.",
+    "mn_latin": "Esgiig büren khatatal narand delgene."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Мөнгө хайла___ түүнийг хэвэнд цутгана.",
+   "answer": "нгуут",
+   "options": [
+    "нгуут",
+    "нгүүт",
+    "мэгц",
+    "гүүт"
+   ],
+   "translation": "As soon as the silver has melted, it is poured into a mold.",
+   "explain_en": "The stem хайла- has back vowels (а), so it takes the back-vowel form -нгуут ('as soon as'). -нгүүт and -мэгц are front-vowel forms, and -гүүт is not a real suffix.",
+   "explain_mn": "«Хайлах» үйл үгийн үндэс эр эгшигтэй (а) тул -нгуут дагавар авна. -нгүүт, -мэгц нь эм эгшигтэй үгэнд залгагдана, харин -гүүт гэсэн дагавар байхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Эсгийг бүрэн хата___ нарны гэрэлд дэлгэж тавина.",
+   "answer": "тал",
+   "options": [
+    "тал",
+    "нгуут",
+    "аад",
+    "магц"
+   ],
+   "translation": "The felt is laid out in the sunlight until it is completely dry.",
+   "explain_en": "The meaning is 'until it is completely dry', so you need -тал ('until'). -нгуут and -магц mean 'as soon as', and -аад means 'having done'. None of these makes sense with бүрэн ('completely') here.",
+   "explain_mn": "«Бүрэн хатах хүртэл» гэсэн утгатай тул -тал дагавар зөв. -нгуут, -магц нь «...сан даруйд», -аад нь «...ж дуусаад» гэсэн утгатай тул энд логикгүй болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Ноосоо угаа___ сайтар хатаана.",
+   "answer": "гаад",
+   "options": [
+    "гаад",
+    "гээд",
+    "гоод",
+    "аад"
+   ],
+   "translation": "The wool is washed and then dried thoroughly.",
+   "explain_en": "Угаах has back vowels (а), and its stem ends in a long vowel, so a г is inserted: угаа + г + аад = угаагаад ('having washed'). -гээд and -гоод break vowel harmony, and угаа-аад is missing the linking г.",
+   "explain_mn": "«Угаах» үйл үгийн үндэс урт эгшгээр төгссөн тул «г» холбох гийгүүлэгч орж, угаагаад болно. -гээд, -гоод нь эгшиг зохицоог зөрчинө, -аад нь «г»-гүй тул буруу."
+  },
+  {
+   "lang": "en",
+   "text": "___ the wool, the artisans spread it evenly on the mat.",
+   "answer": "Having washed",
+   "options": [
+    "Having washed",
+    "Having been washed",
+    "Washed",
+    "Having wash"
+   ],
+   "translation": "Ноосоо угаагаад урчууд түүнийг дэвсгэр дээр жигд дэвснэ.",
+   "explain_en": "The artisans did the washing, so we need the active perfect participle 'Having washed'. 'Having been washed' would mean the artisans themselves were washed, which is a dangling participle.",
+   "explain_mn": "Угаасан хүн нь урчууд тул идэвхтэй хэвийн «Having washed» зөв. «Having been washed» гэвэл урчуудыг угаасан мэт утгатай болж, «dangling participle» алдаа гарна."
+  },
+  {
+   "lang": "en",
+   "text": "Once the felt ___ dried, it is rolled up again.",
+   "answer": "has",
+   "options": [
+    "has",
+    "have",
+    "having",
+    "was"
+   ],
+   "translation": "Эсгий хатангуут түүнийг дахин ороогдоно.",
+   "explain_en": "In a present-tense process description, 'once' + present perfect shows that the first step is finished. 'The felt' is singular, so the verb is 'has'. 'Was' would clash with the present 'is rolled'.",
+   "explain_mn": "Одоо цагийн явцын тайлбарт «once + present perfect» нь эхний алхам дууссаныг илтгэнэ. «The felt» ганц тоо тул «has» зөв. «Was» нь «is rolled» гэсэн одоо цагтай зөрчилдөнө."
+  },
+  {
+   "lang": "en",
+   "text": "Having cooled overnight, ___ was polished by the smith.",
+   "answer": "the bowl",
+   "options": [
+    "the bowl",
+    "the smith",
+    "we",
+    "the workshop"
+   ],
+   "translation": "Шөнөжин хөрсний дараа аягыг дархан өнгөлсөн.",
+   "explain_en": "The subject of the main clause must be the thing that cooled, which is the bowl. With 'the smith' or 'we', the participle would dangle, as if the person had cooled overnight.",
+   "explain_mn": "Үндсэн өгүүлбэрийн өгүүлэгдэхүүн нь хөрсөн зүйл буюу аяга байх ёстой. «The smith» эсвэл «we» гэвэл хүн өөрөө шөнөжин хөрсөн мэт болж, participle «унжина»."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу. Би эсгий хийх явцыг алхам алхмаар танилцуулъя.",
+   "en": "Hello. Let me walk you through the felt-making process step by step.",
+   "mn_latin": "Sain baina uu. Bi esgii khiikh yavtsyg alkham alkhmaar taniltsuulya."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Сайхан байна. Түүхий эдээс нь эхэлж болох уу?",
+   "en": "Wonderful. Could you start with the raw material?",
+   "mn_latin": "Saikhan baina. Tüükhii edees ni ekhelj bolokh uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгэлгүй яах вэ. Намрын ноосоо угаагаад сайтар хатаана. Ноос хатангуут ташуурдаж сэвсийлгэнэ.",
+   "en": "Of course. We wash the autumn wool and dry it thoroughly. As soon as it has dried, we beat it with rods to fluff it up.",
+   "mn_latin": "Tegelgüi yaakh ve. Namryn noosoo ugaagaad saitar khataana. Noos khatanguut tashuurdaj sevsiilgene."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгээд дараагийн үе шат нь юу вэ?",
+   "en": "And what's the next stage?",
+   "mn_latin": "Tegeed daraagiin üye shat ni yuu ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ноосоо хуучин эсгий дээр жигд дэвсээд ус цацна. Дараа нь ороож боогоод мориор чирүүлнэ.",
+   "en": "We spread the wool evenly over an old felt and sprinkle it with water. Then we roll it up, tie it, and have a horse pull it.",
+   "mn_latin": "Noosoo khuuchin esgii deer jigd devseed us tsatsna. Daraa ni orooj boogood morior chirüülne."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Англиар бичихдээ «Having rolled the felt, a horse pulls it» гэж бичвэл зөв үү?",
+   "en": "If I write in English, \"Having rolled the felt, a horse pulls it,\" is that correct?",
+   "mn_latin": "Angliar bichikhdee «Having rolled the felt, a horse pulls it» gej bichvel zöv üü?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Үгүй ээ, морь эсгий ороогоогүй шүү дээ! «After we have rolled the felt, a horse pulls it» гэвэл зөв.",
+   "en": "No, the horse didn't roll the felt! \"After we have rolled the felt, a horse pulls it\" is correct.",
+   "mn_latin": "Ügüi ee, mori esgii oroogoogüi shüü dee! «After we have rolled the felt, a horse pulls it» gevel zöv."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Ойлголоо. Тэгвэл үзэсгэлэнгийн тайлбарыг хамтдаа засъя.",
+   "en": "Got it. Then let's edit the exhibition text together.",
+   "mn_latin": "Oilgoloo. Tegvel üzesgelengiin tailbaryg khamtdaa zasya."
+  }
+ ],
+ "culture_note": {
+  "en": "In 2013, UNESCO added the traditional craftsmanship of the Mongolian ger and its associated customs to the Representative List of the Intangible Cultural Heritage of Humanity. Felt-making is a central part of that tradition. At craft fairs held in Ulaanbaatar during Naadam and before Tsagaan Sar, artisans often demonstrate felt-rolling, silverwork, and saddle-making live while explaining each stage to visitors.",
+  "mn": "2013 онд ЮНЕСКО Монгол гэр урлах уламжлалт ур ухаан, түүнтэй холбоотой зан үйлийг Хүн төрөлхтний соёлын биет бус өвийн төлөөллийн жагсаалтад бүртгэсэн. Эсгий хийх нь энэ уламжлалын салшгүй хэсэг юм. Наадмын үеэр болон Цагаан сарын өмнө Улаанбаатарт болдог гар урлалын үзэсгэлэнд урчууд эсгий хийх, мөнгөн эдлэл урлах, эмээл хийх явцаа үзэгчдэд шууд үзүүлж, үе шат бүрийг тайлбарлан танилцуулдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "Strong, accurate lesson overall. The fixes correct a wrong vowel-harmony example, an unnatural word in the Mongolian grammar title, and one small English wording slip."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 14,
+  "notes": "Fixed the дэвснэ form, the UNESCO list fact, the urlan wording, mismatched grammar texts, and a mixed active/passive translation.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "дэвсэх → дэвснэ, not дэвсэнэ"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "дэвсэнэ → дэвснэ"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "дэвсэнэ → дэвснэ"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Active ороож and passive боогдоно were mixed, and 'tied' is not in the English."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "The gloss «...мөдөө» was wrong."
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "mn",
+    "why": "Standalone noun урлан is not standard. Цех is the usual word for workshop."
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "Replaced урлан"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "en",
+    "why": "Matches цех"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "Replaced урлан"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "Replaced урлан"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "The Mongolian title described a different topic from title_en."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn covered English participles only and did not match explain_en."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "It was inscribed on the Representative List, not the Urgent Safeguarding List."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Corrected the UNESCO list name. The text now says 'during Naadam', matching the English."
+   }
+  ]
+ }
+}

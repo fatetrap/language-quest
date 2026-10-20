@@ -1,0 +1,482 @@
+{
+ "intro_en": "Walk through Ulaanbaatar with an architect and learn to talk about facades, skyscrapers and heritage buildings. You will use nominalized clauses in Mongolian to give reasons and contrasts, and \"no matter how/what/where\" in English to talk about design choices.",
+ "intro_mn": "Архитекторын хамт Улаанбаатараар алхаж, фасад, тэнгэр баганадсан барилга, өвийн барилгын тухай ярьж сурна. Монгол хэлний нэр үгжсэн өгүүлбэрээр шалтгаан, ялгааг илэрхийлэх, англи хэлний \"no matter how/what/where\" бүтцээр дизайны сонголтын тухай ярихыг сурна.",
+ "vocab": [
+  {
+   "mn": "фасад",
+   "en": "facade",
+   "pos": "noun",
+   "example_mn": "Энэ барилгын фасад маш өвөрмөц.",
+   "example_en": "The facade of this building is very distinctive.",
+   "mn_latin": "fasad"
+  },
+  {
+   "mn": "тэнгэр баганадсан барилга",
+   "en": "skyscraper",
+   "pos": "noun",
+   "example_mn": "Төвд шинэ тэнгэр баганадсан барилга баригдаж байна.",
+   "example_en": "A new skyscraper is being built downtown.",
+   "mn_latin": "tenger baganadsan barilga"
+  },
+  {
+   "mn": "өвийн барилга",
+   "en": "heritage building",
+   "pos": "noun",
+   "example_mn": "Өвийн барилгыг нураахыг хориглосон.",
+   "example_en": "Demolishing heritage buildings is prohibited.",
+   "mn_latin": "öviin barilga"
+  },
+  {
+   "mn": "материал",
+   "en": "material",
+   "pos": "noun",
+   "example_mn": "Тэд орон нутгийн материал ашигласан.",
+   "example_en": "They used local materials.",
+   "mn_latin": "matyerial"
+  },
+  {
+   "mn": "дизайн",
+   "en": "design",
+   "pos": "noun",
+   "example_mn": "Дизайн нь гэрийн дүрсээс санаа авсан.",
+   "example_en": "The design took its inspiration from the shape of a ger.",
+   "mn_latin": "dizain"
+  },
+  {
+   "mn": "тэнгэрийн хаяа",
+   "en": "skyline",
+   "pos": "noun",
+   "example_mn": "Хотын тэнгэрийн хаяа огт өөр болсон.",
+   "example_en": "The city's skyline has changed completely.",
+   "mn_latin": "tengeriin khayaa"
+  },
+  {
+   "mn": "төлөвлөх",
+   "en": "to plan, to design",
+   "pos": "verb",
+   "example_mn": "Тэр энэ цогцолборыг төлөвлөсөн.",
+   "example_en": "She designed this complex.",
+   "mn_latin": "tölövlökh"
+  },
+  {
+   "mn": "орчин үеийн",
+   "en": "modern, contemporary",
+   "pos": "adjective",
+   "example_mn": "Орчин үеийн барилгууд шилэн ханатай.",
+   "example_en": "Contemporary buildings have glass walls.",
+   "mn_latin": "orchin üyeiin"
+  },
+  {
+   "mn": "сэргээн засварлах",
+   "en": "to restore",
+   "pos": "verb",
+   "example_mn": "Хуучин театрыг сэргээн засварласан.",
+   "example_en": "The old theater was restored.",
+   "mn_latin": "sergeen zasvarlakh"
+  },
+  {
+   "mn": "панель байшин",
+   "en": "panel block",
+   "pos": "noun",
+   "example_mn": "Зөвлөлтийн үеийн панель байшин өнөөдөр ч олон бий.",
+   "example_en": "Many Soviet-era panel blocks still exist today.",
+   "mn_latin": "panyeli baishin"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Барилга өндөр байгаа нь хотын тэнгэрийн хаяаг өөрчилсөн.",
+   "en": "The fact that the building is tall has changed the city's skyline.",
+   "alt_mn": [],
+   "alt_en": [
+    "The building being so tall has changed the city's skyline."
+   ],
+   "mn_latin": "Barilga öndör baigaa ni khotyn tengeriin khayaag öörchilsön."
+  },
+  {
+   "mn": "Тэр барилгыг өвийн барилга гэж тооцсон учраас хэн ч нураахгүй.",
+   "en": "Because it is considered a heritage building, nobody will demolish it.",
+   "alt_mn": [],
+   "alt_en": [
+    "Since that building is counted as a heritage building, no one will tear it down."
+   ],
+   "mn_latin": "Ter barilgyg öviin barilga gej tootsson uchraas khen ch nuraakhgüi."
+  },
+  {
+   "mn": "Фасад нь шилээр хийгдсэн нь барилгад орчин үеийн өнгө төрх өгсөн.",
+   "en": "The fact that the facade is made of glass has given the building a contemporary look.",
+   "alt_mn": [],
+   "alt_en": [
+    "The glass facade has given the building a contemporary look."
+   ],
+   "mn_latin": "Fasad ni shileer khiigdsen ni barilgad orchin üyeiin öngö törkh ögsön."
+  },
+  {
+   "mn": "Панель байшин хямд баригдсан нь үнэн ч тохилог биш.",
+   "en": "It is true that panel blocks were built cheaply, but they are not comfortable.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's true the panel blocks were cheap to build, but they aren't cozy."
+   ],
+   "mn_latin": "Panyeli baishin khyamd barigdsan ni ünen ch tokhilog bish."
+  },
+  {
+   "mn": "Архитектор гэрийн хэлбэрийг дизайндаа ашигласан нь надад таалагдсан.",
+   "en": "I liked that the architect used the shape of a ger in the design.",
+   "alt_mn": [],
+   "alt_en": [
+    "I liked the fact that the architect used the ger's shape in the design."
+   ],
+   "mn_latin": "Arkhityektor geriin khelberiig dizaindaa ashiglasan ni nadad taalagdsan."
+  },
+  {
+   "mn": "Материал үнэтэй байсан учраас төсөл удаан хойшилсон.",
+   "en": "Because the materials were expensive, the project was delayed for a long time.",
+   "alt_mn": [],
+   "alt_en": [
+    "The project was held up for a long time because the materials were expensive."
+   ],
+   "mn_latin": "Matyerial ünetei baisan uchraas tösöl udaan khoishilson."
+  },
+  {
+   "mn": "Шинэ тэнгэр баганадсан барилгууд олширч байгаа нь шинэ хорооллыг хуучин хотоос эрс ялгаруулж байна.",
+   "en": "The fact that new skyscrapers are multiplying sets the new districts sharply apart from the old city.",
+   "alt_mn": [],
+   "alt_en": [
+    "The growing number of new skyscrapers sets the new districts sharply apart from the old city."
+   ],
+   "mn_latin": "Shine tenger baganadsan barilguud olshirch baigaa ni shine khoroollyg khuuchin khotoos ers yalgaruulj baina."
+  },
+  {
+   "mn": "Хичнээн өндөр байсан ч энэ цамхаг хөнгөн харагддаг.",
+   "en": "No matter how tall it is, this tower looks light.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Khichneen öndör baisan ch ene tsamkhag khöngön kharagddag."
+  },
+  {
+   "mn": "Хичнээн орчин үеийн харагдсан ч дизайн гудамжийг хүндэтгэх ёстой.",
+   "en": "No matter how modern it looks, the design must respect the street.",
+   "alt_mn": [],
+   "alt_en": [
+    "However modern it looks, the design must respect the street."
+   ],
+   "mn_latin": "Khichneen orchin üyeiin kharagdsan ch dizain gudamjiig khündetgekh yostoi."
+  },
+  {
+   "mn": "Ямар материал сонгосон ч фасадыг сайн арчилгаатай байлгах хэрэгтэй.",
+   "en": "No matter what material you choose, the facade needs good maintenance.",
+   "alt_mn": [],
+   "alt_en": [
+    "Whatever material you choose, you need to keep the facade well maintained."
+   ],
+   "mn_latin": "Yamar matyerial songoson ch fasadyg sain archilgaatai bailgakh kheregtei."
+  },
+  {
+   "mn": "Хаана баригдсан ч шинэ барилга хотын дүр төрхөд нөлөөлнө.",
+   "en": "No matter where it is built, a new building affects the city's character.",
+   "alt_mn": [],
+   "alt_en": [
+    "Wherever it is built, a new building influences the look of the city."
+   ],
+   "mn_latin": "Khaana barigdsan ch shine barilga khotyn dür törkhöd nölöölnö."
+  },
+  {
+   "mn": "Хуучин театрыг сэргээн засварласан нь хүмүүст их таалагдсан.",
+   "en": "People really liked that the old theater was restored.",
+   "alt_mn": [],
+   "alt_en": [
+    "The restoration of the old theater was very popular with people."
+   ],
+   "mn_latin": "Khuuchin tyeatryg sergeen zasvarlasan ni khümüüst ikh taalagdsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Nominalized clauses for reasons and contrasts",
+  "title_mn": "Шалтгаан, ялгааг илэрхийлэх нэр үгжсэн өгүүлбэр",
+  "explain_en": "In Mongolian you can turn a whole clause into a noun by adding a participle (-сан/-х/-аа/-даг and similar) + нь: \"барилга өндөр байгаа нь\" = \"the fact that the building is tall.\" This phrase can be the subject of the sentence or take case endings. Put \"учраас\" directly after a participle (\"төлөвлөсөн учраас\") to give a reason: \"because it was planned.\" Do not add нь before учраас. For contrast, follow the clause with \"ч\" or \"боловч\": \"үнэн ч …\" (true, but …).",
+  "explain_mn": "Монгол хэлэнд өгүүлбэрт үйлт нэрийн дагавар (-сан/-х/-аа/-даг гэх мэт) болон \"нь\" нэмж бүхэлд нь нэр үгжүүлж болно: \"барилга өндөр байгаа нь\" = \"the fact that the building is tall\". Ийм хэллэг өгүүлбэрийн эзэн болох буюу тийн ялгалын нөхцөл авч болно. Шалтгааныг илэрхийлэхдээ \"учраас\"-ыг үйлт нэрийн шууд араас тавина (\"төлөвлөсөн учраас\" = because it was planned). \"учраас\"-ын өмнө \"нь\" хэрэглэхгүй. Ялгаатай санааг илэрхийлэхдээ өгүүлбэрийн араас \"ч\" эсвэл \"боловч\" хэрэглэнэ: \"үнэн ч …\" (true, but …).",
+  "examples": [
+   {
+    "mn": "Барилга өндөр байгаа нь үзэмжийг хаасан.",
+    "en": "The fact that the building is tall blocked the view.",
+    "mn_latin": "Barilga öndör baigaa ni üzemjiig khaasan."
+   },
+   {
+    "mn": "Тэр үнэтэй материал сонгосон учраас төсөв хэтэрсэн.",
+    "en": "Because he chose expensive materials, the budget was exceeded.",
+    "mn_latin": "Ter ünetei matyerial songoson uchraas tösöv khetersen."
+   },
+   {
+    "mn": "Дизайн гоё байгаа нь үнэн ч ашиглахад хэцүү.",
+    "en": "It's true that the design is beautiful, but it's hard to use.",
+    "mn_latin": "Dizain goyo baigaa ni ünen ch ashiglakhad khetsüü."
+   },
+   {
+    "mn": "Хичнээн хөгжсөн ч өвийн барилгыг хамгаалах ёстой.",
+    "en": "No matter how developed we become, we must protect heritage buildings.",
+    "mn_latin": "Khichneen khögjsön ch öviin barilgyg khamgaalakh yostoi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Барилга өндөр байгаа ___ хотын тэнгэрийн хаяа өөрчлөгдсөн.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "аас",
+    "руу",
+    "гүй"
+   ],
+   "translation": "The fact that the building is tall changed the city's skyline.",
+   "explain_en": "\"нь\" turns the clause \"барилга өндөр байгаа\" into the subject, \"the fact that…\".",
+   "explain_mn": "\"нь\" нь өгүүлбэрийг нэр үгжүүлж, өгүүлбэрийн эзэн болгодог."
+  },
+  {
+   "lang": "mn",
+   "text": "Материал үнэтэй байсан ___ төсөл хойшилсон.",
+   "answer": "учраас",
+   "options": [
+    "учраас",
+    "хэдий ч",
+    "гэхдээ",
+    "бол"
+   ],
+   "translation": "The project was postponed because the materials were expensive.",
+   "explain_en": "\"учраас\" after a participle (байсан) means \"because\".",
+   "explain_mn": "\"байсан учраас\" нь шалтгааныг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Фасад гоё байгаа нь үнэн ___ дотор нь явахад хэцүү.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "нь",
+    "тай",
+    "руу"
+   ],
+   "translation": "It's true the facade is beautiful, but it's hard to move around inside.",
+   "explain_en": "\"ч\" adds the contrast: \"true, but…\".",
+   "explain_mn": "\"үнэн ч\" нь ялгаатай санааг дараа нь холбоно."
+  },
+  {
+   "lang": "en",
+   "text": "No matter ___ modern the tower looks, it still needs repairs.",
+   "answer": "how",
+   "options": [
+    "how",
+    "what",
+    "where",
+    "who"
+   ],
+   "translation": "Хичнээн орчин үеийн харагдсан ч цамхагт засвар хэрэгтэй хэвээр байна.",
+   "explain_en": "\"How\" is followed by an adjective (modern).",
+   "explain_mn": "\"modern\" гэсэн тэмдэг нэрийн өмнө \"how\" орно."
+  },
+  {
+   "lang": "en",
+   "text": "No matter ___ materials they use, the building will be expensive.",
+   "answer": "what",
+   "options": [
+    "what",
+    "how",
+    "where",
+    "when"
+   ],
+   "translation": "Ямар материал ашигласан ч барилга үнэтэй болно.",
+   "explain_en": "\"What\" is followed by a noun (materials).",
+   "explain_mn": "\"materials\" гэсэн нэр үгийн өмнө \"what\" орно."
+  },
+  {
+   "lang": "en",
+   "text": "No matter ___ they build it, people will argue about the design.",
+   "answer": "where",
+   "options": [
+    "where",
+    "who",
+    "what",
+    "which"
+   ],
+   "translation": "Хаана барьсан ч хүмүүс дизайны талаар маргана.",
+   "explain_en": "\"Where\" is followed by a full clause (they build it).",
+   "explain_mn": "\"where\"-ийн дараа бүтэн өгүүлбэр (they build it) орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Энэ шилэн барилга хотын тэнгэрийн хаяаг ямар болгосон бэ?",
+   "en": "How has this glass building changed the city's skyline?",
+   "mn_latin": "Ene shilen barilga khotyn tengeriin khayaag yamar bolgoson be?"
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Өндөр байгаа нь үнэн ч фасад нь орчиндоо нэг л зохихгүй байна.",
+   "en": "It's true that it's tall, but the facade doesn't quite fit the surroundings.",
+   "mn_latin": "Öndör baigaa ni ünen ch fasad ni orchindoo neg l zokhikhgüi baina."
+  },
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Тийм ээ. Гэхдээ хичнээн орчин үеийн харагдсан ч дизайн нь нүдэнд тааламжгүй биш.",
+   "en": "Yes. But no matter how modern it looks, the design isn't unpleasant to the eye.",
+   "mn_latin": "Tiim ee. Gekhdee khichneen orchin üyeiin kharagdsan ch dizain ni nüdend taalamjgüi bish."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Харин урд талын панель байшин яах вэ? Зөвлөлтийн үеийнх биз дээ?",
+   "en": "What about the panel block in front? It's from the Soviet era, right?",
+   "mn_latin": "Kharin urd talyn panyeli baishin yaakh ve? Zövlöltiin üyeiinkh biz dee?"
+  },
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Тийм. Хямд материалаар хурдан барьсан учраас тийм харагдаж байгаа юм. Гэхдээ дотроо өргөн өрөөтэй.",
+   "en": "Yes. Because it was built quickly with cheap materials, it looks like that. But it has spacious rooms inside.",
+   "mn_latin": "Tiim. Khyamd matyerialaar khurdan barisan uchraas tiim kharagdaj baigaa yum. Gekhdee dotroo örgön öröötei."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Тэгвэл гэрээс санаа авсан тэр шинэ төвийг хараарай. Дугуй хэлбэр нь гоё юм.",
+   "en": "Then look at that new center inspired by a ger. The round shape is lovely.",
+   "mn_latin": "Tegvel gerees sanaa avsan ter shine töviig kharaarai. Dugui khelber ni goyo yum."
+  },
+  {
+   "speaker": "Содгэрэл",
+   "mn": "Тэр өвийн барилгын дэргэд баригдсан нь сайн шийдэл. Хаана барьсан ч уламжлалаа санах хэрэгтэй.",
+   "en": "Building it next to a heritage building was a good decision. No matter where you build, you should remember tradition.",
+   "mn_latin": "Ter öviin barilgyn derged barigdsan ni sain shiidel. Khaana barisan ch ulamjlalaa sanakh kheregtei."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar's streets show layers of history: Soviet-era panel blocks, a few preserved heritage buildings such as the old theater, and new glass towers around Sukhbaatar Square. Some modern architects borrow the round shape and the bright decoration of the ger to make new buildings feel Mongolian. The debate over how much to preserve and how fast to build is a major topic in the city today.",
+  "mn": "Улаанбаатарын гудамжинд түүхийн давхарга харагддаг: Зөвлөлтийн үеийн панель байшин, хуучин театр шиг хадгалагдан үлдсэн өвийн барилга, Сүхбаатарын талбайн орчмын шинэ шилэн цамхагууд. Зарим орчин үеийн архитекторууд гэрийн дугуй хэлбэр, тод өнгийн чимэглэлээс санаа авч шинэ барилгыг монгол өнгө аястай болгодог. Юуг хэр хадгалж, хэр хурдан барих вэ гэдэг нь өнөөдөр хотын чухал яриа болоод байна."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 14,
+  "notes": "Main errors: the ungrammatical \"нь учраас\" in two sentences, English text in an mn field, the wrong punctuation note in the Mongolian grammar explanation, and a mistranslation of \"delayed\". Several entries in the fixes list are no-op confirmations."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 19,
+  "notes": "Main problems: the grammar explanation in mn covered a different topic from en, one sentence was duplicated, one fill-blank had two correct answers, and several Mongolian phrasings were unnatural.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "-г is not a participle suffix; -даг is"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation described a different topic; must match en"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "харагдац is non-standard; үзэмж = view"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "unclear pronoun; харагдалт unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "en",
+    "why": "tense must match өгсөн"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "tense match"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_en",
+    "why": "\"the project waited\" is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "illogical subject for ялгарах"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "en",
+    "why": "match corrected mn"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "match corrected mn"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "duplicate of next item"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "duplicate of next item"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "харагдавч is a literary form; хэчнээн is a variant spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "unnatural English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "\"still\" was missing"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "\"how they build it\" is also correct"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "хотын дэвсгэрт is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "тийм дүртэй is unnatural"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "match \"bright decoration\""
+   }
+  ]
+ }
+}

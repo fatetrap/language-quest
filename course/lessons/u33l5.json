@@ -1,0 +1,512 @@
+{
+ "intro_en": "You will learn how to weigh the pros and cons of technology and say \"yes, but...\" in Mongolian with гэхдээ, -сан ч, ч гэсэн and байсан ч / -вал ч. You will also compare although, though and but in English.",
+ "intro_mn": "Та технологийн давуу болон сул талыг хэлэлцэж, монголоор гэхдээ, -сан ч, ч гэсэн, байсан ч / -вал ч зэргээр эсрэг утгыг илэрхийлж сурна. Мөн англиар although, though, but үгсийг зөв ялган хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "давуу тал",
+   "en": "advantage",
+   "pos": "noun",
+   "example_mn": "Онлайн худалдааны давуу тал нь хямд үнэ юм.",
+   "example_en": "The advantage of online shopping is the low price.",
+   "mn_latin": "davuu tal"
+  },
+  {
+   "mn": "сул тал",
+   "en": "disadvantage",
+   "pos": "noun",
+   "example_mn": "Үүний сул тал нь бараагаа барьж үзэх боломжгүй байдаг явдал юм.",
+   "example_en": "The disadvantage is that you can't touch the product.",
+   "mn_latin": "sul tal"
+  },
+  {
+   "mn": "хувийн нууц",
+   "en": "privacy",
+   "pos": "noun",
+   "example_mn": "Аппууд миний хувийн нууцыг хамгаалдаггүй.",
+   "example_en": "Apps don't protect my privacy.",
+   "mn_latin": "khuviin nuuts"
+  },
+  {
+   "mn": "дэлгэц",
+   "en": "screen",
+   "pos": "noun",
+   "example_mn": "Би өдөр бүр дэлгэц ширтэж олон цаг өнгөрөөдөг.",
+   "example_en": "I spend many hours staring at a screen every day.",
+   "mn_latin": "delgets"
+  },
+  {
+   "mn": "захиалах",
+   "en": "to order",
+   "pos": "verb",
+   "example_mn": "Би энэ гутлыг онлайнаар захиалсан.",
+   "example_en": "I ordered these shoes online.",
+   "mn_latin": "zakhialakh"
+  },
+  {
+   "mn": "хүргэлт",
+   "en": "delivery",
+   "pos": "noun",
+   "example_mn": "Хүргэлт хоёр хоногийн дотор ирнэ.",
+   "example_en": "The delivery will arrive within two days.",
+   "mn_latin": "khürgelt"
+  },
+  {
+   "mn": "нууц үг",
+   "en": "password",
+   "pos": "noun",
+   "example_mn": "Нууц үгээ бусдад битгий хэл.",
+   "example_en": "Don't tell your password to others.",
+   "mn_latin": "nuuts üg"
+  },
+  {
+   "mn": "хэрэглэгч",
+   "en": "user / consumer",
+   "pos": "noun",
+   "example_mn": "Хэрэглэгчид хямдралд дуртай.",
+   "example_en": "Consumers like discounts.",
+   "mn_latin": "khereglegch"
+  },
+  {
+   "mn": "хамааралтай болох",
+   "en": "to become dependent",
+   "pos": "verb",
+   "example_mn": "Хүүхдүүд утсанд хэт хамааралтай болжээ.",
+   "example_en": "Children have become too dependent on phones.",
+   "mn_latin": "khamaaraltai bolokh"
+  },
+  {
+   "mn": "эрсдэл",
+   "en": "risk",
+   "pos": "noun",
+   "example_mn": "Онлайн төлбөр тодорхой эрсдэлтэй.",
+   "example_en": "Online payment has some risk.",
+   "mn_latin": "ersdel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Онлайн худалдаа тохиромжтой, гэхдээ заримдаа эрсдэлтэй.",
+   "en": "Online shopping is convenient, but sometimes it's risky.",
+   "alt_mn": [
+    "Онлайн худалдаа тохиромжтой ч заримдаа эрсдэлтэй."
+   ],
+   "alt_en": [
+    "Online shopping is convenient, but it's sometimes risky."
+   ],
+   "mn_latin": "Onlain khudaldaa tokhiromjtoi, gekhdee zarimdaa ersdeltei."
+  },
+  {
+   "mn": "Би бараагаа захиалсан ч хүргэлт удаан байлаа.",
+   "en": "Although I ordered the goods, the delivery was slow.",
+   "alt_mn": [
+    "Бараагаа захиалсан ч гэсэн хүргэлт удаан байсан."
+   ],
+   "alt_en": [
+    "I ordered the goods, but the delivery was slow."
+   ],
+   "mn_latin": "Bi baraagaa zakhialsan ch khürgelt udaan bailaa."
+  },
+  {
+   "mn": "Дэлгэц нүдэнд муу гэдгийг мэддэг ч би шөнө утсаа хардаг.",
+   "en": "Although I know screens are bad for the eyes, I look at my phone at night.",
+   "alt_mn": [
+    "Дэлгэц нүдэнд муу гэдгийг мэддэг ч гэсэн би шөнө утсаа хардаг."
+   ],
+   "alt_en": [
+    "I look at my phone at night, though I know screens are bad for the eyes."
+   ],
+   "mn_latin": "Delgets nüdend muu gedgiig meddeg ch bi shönö utsaa khardag."
+  },
+  {
+   "mn": "Хямд ч гэсэн чанар муутай бол авахгүй.",
+   "en": "Even though it's cheap, I won't buy it if the quality is bad.",
+   "alt_mn": [
+    "Хямд ч гэсэн чанар муутай бол би авахгүй."
+   ],
+   "alt_en": [
+    "Although it's cheap, I won't buy it if the quality is poor."
+   ],
+   "mn_latin": "Khyamd ch gesen chanar muutai bol avakhgüi."
+  },
+  {
+   "mn": "Хувийн нууцаа хамгаалах нь чухал, гэхдээ хэцүү.",
+   "en": "Protecting your privacy is important, but it's difficult.",
+   "alt_mn": [
+    "Хувийн нууцаа хамгаалах нь чухал ч хэцүү."
+   ],
+   "alt_en": [
+    "Protecting privacy is important, but hard."
+   ],
+   "mn_latin": "Khuviin nuutsaa khamgaalakh ni chukhal, gekhdee khetsüü."
+  },
+  {
+   "mn": "Нууц үгээ олон удаа солисон ч хакерт өртсөн.",
+   "en": "Even though I changed my password many times, I was hacked.",
+   "alt_mn": [
+    "Нууц үгээ олон удаа солисон ч гэсэн хакерт өртсөн."
+   ],
+   "alt_en": [
+    "I changed my password many times, but I was still hacked."
+   ],
+   "mn_latin": "Nuuts ügee olon udaa solison ch khakyert örtsön."
+  },
+  {
+   "mn": "Хүргэлт үнэтэй байсан ч би онлайнаар захиална.",
+   "en": "Even if the delivery is expensive, I'll order online.",
+   "alt_mn": [
+    "Хүргэлт үнэтэй ч гэсэн би онлайнаар захиална."
+   ],
+   "alt_en": [
+    "Even if delivery costs a lot, I will still order online."
+   ],
+   "mn_latin": "Khürgelt ünetei baisan ch bi onlainaar zakhialna."
+  },
+  {
+   "mn": "Бид утсаа маш их ашигладаг, гэхдээ түүнгүйгээр амьдарч чадна.",
+   "en": "We use our phones a lot, but we can live without them.",
+   "alt_mn": [],
+   "alt_en": [
+    "We use our phones a lot, though we can live without them."
+   ],
+   "mn_latin": "Bid utsaa mash ikh ashigladag, gekhdee tüüngüigeer amidarch chadna."
+  },
+  {
+   "mn": "Технологи амьдралыг хөнгөвчилсөн ч бидний цагийг авдаг.",
+   "en": "Although technology has made life easier, it takes up our time.",
+   "alt_mn": [
+    "Технологи амьдралыг хөнгөвчилсөн ч гэсэн бидний цагийг авдаг."
+   ],
+   "alt_en": [
+    "Technology has made life easier, but it takes our time."
+   ],
+   "mn_latin": "Tyekhnologi amidralyg khöngövchilsön ch bidnii tsagiig avdag."
+  },
+  {
+   "mn": "Шинэ апп сонирхолтой, гэхдээ миний мэдээллийг их асууж байна.",
+   "en": "The new app is interesting, but it asks for a lot of my information.",
+   "alt_mn": [],
+   "alt_en": [
+    "The new app is interesting. However, it asks for a lot of my information."
+   ],
+   "mn_latin": "Shine app sonirkholtoi, gekhdee minii medeelliig ikh asuuj baina."
+  },
+  {
+   "mn": "Дэлгэцийн цагаа хязгаарлахыг хүсдэг ч надад хүсэл зориг дутдаг.",
+   "en": "Although I want to limit my screen time, I lack willpower.",
+   "alt_mn": [],
+   "alt_en": [
+    "I want to limit my screen time, but I lack willpower."
+   ],
+   "mn_latin": "Delgetsiin tsagaa khyazgaarlakhyg khüsdeg ch nadad khüsel zorig dutdag."
+  },
+  {
+   "mn": "Би утсандаа хамааралтай болсон ч гэсэн хэзээ нэгэн цагт хэрэглээгээ багасгана.",
+   "en": "Even though I've become dependent on my phone, I'll cut back someday.",
+   "alt_mn": [],
+   "alt_en": [
+    "Although I've become dependent on my phone, I'll cut down some day."
+   ],
+   "mn_latin": "Bi utsandaa khamaaraltai bolson ch gesen khezee negen tsagt kheregleegee bagasgana."
+  }
+ ],
+ "grammar": {
+  "title_en": "Saying \"yes, but...\": гэхдээ, -сан ч, ч гэсэн",
+  "title_mn": "Although, though, but: эсрэг утга илэрхийлэх нь",
+  "explain_en": "Mongolian has several ways to contrast ideas. Гэхдээ starts a new clause and means \"but / however\": Тохиромжтой, гэхдээ эрсдэлтэй. The particle ч after a verb form such as -сан / -дэг in the first clause means \"although / even though\": Захиалсан ч удаан ирлээ. Adding гэсэн (ч гэсэн) makes it stronger, \"even so\", and it can also stand after a noun or adjective: Хямд ч гэсэн авахгүй. For \"even if\" (hypothetical) use байсан ч or -вал ч: Үнэтэй байсан ч авна. Note that ч is written as a separate word after the verb, and the main clause comes after it.",
+  "explain_mn": "Монгол хэлэнд эсрэг утгыг гэхдээ, -сан ч, ч гэсэн, байсан ч / -вал ч гэх мэтээр илэрхийлдэг бол англи хэлэнд although, though, but гэсэн үгсийг хэрэглэнэ. But нь хоёр өгүүлбэрийг холбож, урд нь таслал тавина: It is cheap, but it is bad. Although болон though нь \"-сан ч\"-тэй адил дэд өгүүлбэр оруулна: Although it is cheap, it is bad. Although өгүүлбэрийн эхэнд орвол дэд өгүүлбэрийн дараа таслал тавина. Дунд орвол ихэвчлэн таслал хэрэггүй: He bought it although it was expensive. Though нь although-той ойролцоо боловч ярианд өгүүлбэрийн төгсгөлд \"гэхдээ\" гэсэн утгаар орж болно: It's cheap. I won't buy it, though. But болон although-ыг нэг өгүүлбэрт хамт хэрэглэхгүй.",
+  "examples": [
+   {
+    "mn": "Тохиромжтой, гэхдээ эрсдэлтэй.",
+    "en": "It's convenient, but risky.",
+    "mn_latin": "Tokhiromjtoi, gekhdee ersdeltei."
+   },
+   {
+    "mn": "Захиалсан ч хүргэлт удаан байлаа.",
+    "en": "Although I ordered it, the delivery was slow.",
+    "mn_latin": "Zakhialsan ch khürgelt udaan bailaa."
+   },
+   {
+    "mn": "Хямд ч гэсэн би авахгүй.",
+    "en": "Even though it's cheap, I won't buy it.",
+    "mn_latin": "Khyamd ch gesen bi avakhgüi."
+   },
+   {
+    "mn": "Үнэтэй байсан ч би авна.",
+    "en": "Even if it's expensive, I'll buy it.",
+    "mn_latin": "Ünetei baisan ch bi avna."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Онлайн худалдаа тохиромжтой, ___ заримдаа эрсдэлтэй.",
+   "answer": "гэхдээ",
+   "options": [
+    "гэхдээ",
+    "учир нь",
+    "тиймээс",
+    "бас"
+   ],
+   "translation": "Online shopping is convenient, but sometimes it's risky.",
+   "explain_en": "Гэхдээ means \"but / however\" and introduces the contrasting part.",
+   "explain_mn": "Гэхдээ нь урьд хэлсэн санаатай зөрчилдөх санааг оруулдаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Би нууц үгээ солисон ___ хакерт өртсөн.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "бол",
+    "аас",
+    "аар"
+   ],
+   "translation": "Although I changed my password, I was hacked.",
+   "explain_en": "Verb + ч (солисон ч) means \"although I changed\".",
+   "explain_mn": "Үйл үгийн -сан дараа ч нь \"... боловч\" гэсэн утга өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Хямд ч ___ чанар муутай бол авахгүй.",
+   "answer": "гэсэн",
+   "options": [
+    "гэсэн",
+    "гэхээр",
+    "гэвэл",
+    "гээд"
+   ],
+   "translation": "Even though it's cheap, I won't buy it if the quality is bad.",
+   "explain_en": "Ч гэсэн means \"even though / even so\".",
+   "explain_mn": "\"Ч гэсэн\" нь \"... боловч\" гэсэн хүчтэй эсрэг утга өгнө."
+  },
+  {
+   "lang": "en",
+   "text": "___ the phone is expensive, many people buy it.",
+   "answer": "Although",
+   "options": [
+    "Although",
+    "But",
+    "Because",
+    "So"
+   ],
+   "translation": "Утас үнэтэй ч олон хүн авдаг.",
+   "explain_en": "Sentence-initial although introduces the subordinate clause; a comma follows that clause.",
+   "explain_mn": "Although өгүүлбэрийн эхэнд орж, дэд өгүүлбэрийн дараа таслал тавина."
+  },
+  {
+   "lang": "en",
+   "text": "I like online shopping, ___ I worry about my privacy.",
+   "answer": "but",
+   "options": [
+    "but",
+    "so",
+    "because",
+    "if"
+   ],
+   "translation": "Би онлайн худалдаанд дуртай, гэхдээ хувийн нууцынхаа талаар санаа зовдог.",
+   "explain_en": "But joins two main clauses with a comma before it.",
+   "explain_mn": "But нь хоёр үндсэн өгүүлбэрийг холбож, урд нь таслал авна."
+  },
+  {
+   "lang": "en",
+   "text": "She still uses her phone at night ___ she knows it's bad for her sleep.",
+   "answer": "although",
+   "options": [
+    "although",
+    "but",
+    "so",
+    "however"
+   ],
+   "translation": "Тэр нойронд муу гэдгийг мэддэг ч шөнө утсаа хэрэглэсээр байна.",
+   "explain_en": "Mid-sentence although needs no comma before it here, and it can't be combined with but.",
+   "explain_mn": "Although дунд орвол ихэвчлэн өмнө нь таслал хэрэггүй; but-тай хамт хэрэглэхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Ану",
+   "mn": "Чи шинэ утсаа онлайнаар захиалсан юм уу?",
+   "en": "Did you order your new phone online?",
+   "mn_latin": "Chi shine utsaa onlainaar zakhialsan yum uu?"
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Тийм ээ, хямд байсан. Гэхдээ хүргэлт удаан байлаа.",
+   "en": "Yes, it was cheap. But the delivery was slow.",
+   "mn_latin": "Tiim ee, khyamd baisan. Gekhdee khürgelt udaan bailaa."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Би онлайнаар худалдан авалт хийх дуртай ч хувийн нууцдаа болгоомжтой ханддаг.",
+   "en": "I like shopping online, although I'm careful about my privacy.",
+   "mn_latin": "Bi onlainaar khudaldan avalt khiikh durtai ch khuviin nuutsdaa bolgoomjtoi khanddag."
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Зөв. Нууц үгээ олон удаа солисон ч гэсэн санаа зовсоор л байна.",
+   "en": "Right. Even though I've changed my password many times, I still worry.",
+   "mn_latin": "Zöv. Nuuts ügee olon udaa solison ch gesen sanaa zovsoor l baina."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Дэлгэцийн цаг бас асуудал. Би өдөрт найм гаруй цаг дэлгэц ширтдэг.",
+   "en": "Screen time is also a problem. I look at screens for more than eight hours a day.",
+   "mn_latin": "Delgetsiin tsag bas asuudal. Bi ödört naim garui tsag delgets shirtdeg."
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Ажлаасаа болоод тэр. Гэсэн ч орой утсаа унтраах хэрэгтэй.",
+   "en": "That's because of work. Even so, you should turn off your phone in the evening.",
+   "mn_latin": "Ajlaasaa bolood ter. Gesen ch oroi utsaa untraakh kheregtei."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Зөв, гэхдээ хэцүү. Үнэхээр хамааралтай болчихсон.",
+   "en": "True, but it's hard. I've really become dependent.",
+   "mn_latin": "Zöv, gekhdee khetsüü. Ünekheer khamaaraltai bolchikhson."
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Хамт оролдъё. Тэгвэл бидэнд хялбар болно.",
+   "en": "Let's try together. Then it will be easier for us.",
+   "mn_latin": "Khamt oroldyo. Tegvel bidend khyalbar bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, online shopping and delivery apps have grown quickly, and many people pay by QR code or bank app. Even so, many Mongolians still like to see goods in person at markets such as the Narantuul (Black Market) before buying. Talking about both the good and bad sides politely, with \"гэхдээ\", is a normal part of workplace conversation.",
+  "mn": "Улаанбаатарт онлайн худалдаа, хүргэлтийн апп хурдан хөгжиж, олон хүн QR кодоор эсвэл банкны аппаар төлбөр хийдэг болсон. Гэсэн ч олон хүн Нарантуул зэрэг зах дээр бараагаа биечлэн үзэж байж авахыг илүүд үздэг. Ажлын байранд \"гэхдээ\" гэж хэлж, давуу болон сул талыг эелдгээр ярилцах нь түгээмэл."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 19,
+  "notes": "Mostly good content, but several unnatural Mongolian constructions (-х ч юм бол, гэв үү), a harmony error, whitespace in answers, and inaccurate grammar explanations."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 20,
+  "notes": "Main issues: the nonstandard -х ч юм бол form, an illogical sentence 10, an ambiguous fill-blank, and unnatural case and verb choices.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "-х ч юм бол is not a standard concessive form"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Matches the en fix"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "Incomplete predicate after нь"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "хаяг эвдэгдсэн is unnatural for 'hacked'"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "Replaces the nonstandard үнэтэй ч юм бол"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "The alt duplicated the new main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "The original was illogical; хүчтэй хүсэл ≠ willpower"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "Matches the fixed mn"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "The old alt changed the meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "багасгана needs an object"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Removes the nonstandard -х ч юм бол; ч is a particle, not a suffix"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Consistency with the fixed forms; comma placement"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Nonstandard үнэтэй ч юм бол"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "The comma follows the clause, not the word"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'although' was also correct here"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Wrong case with санаа зовох"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "нууцаа болгоомжлох is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Matches 'I still worry'; more natural"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "'for' is missing"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "-жээ is odd about oneself"
+   }
+  ]
+ }
+}

@@ -1,0 +1,394 @@
+{
+ "intro_en": "In this lesson you will learn to ask a neighbor politely to lend you tools for an apartment repair. You will practice the difference between зээлэх (to borrow) and зээлүүлэх (to lend), and polite requests with -ж болох уу.",
+ "intro_mn": "Энэ хичээлээр та байрныхаа засварт хэрэгтэй багажийг хөршөөсөө эелдгээр хэрхэн гуйхыг сурна. Англи хэлний lend (зээлүүлэх) ба borrow (зээлэх) гэдэг үгсийн ялгааг дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "өрөм",
+   "en": "drill",
+   "pos": "noun",
+   "example_mn": "Хананд нүх гаргахад өрөм хэрэгтэй.",
+   "example_en": "You need a drill to make a hole in the wall.",
+   "mn_latin": "öröm"
+  },
+  {
+   "mn": "зээлэх",
+   "en": "to borrow",
+   "pos": "verb",
+   "example_mn": "Би хөршөөсөө шат зээлсэн.",
+   "example_en": "I borrowed a ladder from my neighbor.",
+   "mn_latin": "zeelekh"
+  },
+  {
+   "mn": "зээлүүлэх",
+   "en": "to lend",
+   "pos": "verb",
+   "example_mn": "Тэр надад алхаа зээлүүлсэн.",
+   "example_en": "He lent me his hammer.",
+   "mn_latin": "zeelüülekh"
+  },
+  {
+   "mn": "зээлдүүлэх",
+   "en": "to lend (often money, more formal)",
+   "pos": "verb",
+   "example_mn": "Банк иргэдэд мөнгө зээлдүүлдэг.",
+   "example_en": "Banks lend money to people.",
+   "mn_latin": "zeeldüülekh"
+  },
+  {
+   "mn": "түр авах",
+   "en": "to borrow for a while, to take temporarily",
+   "pos": "verb phrase",
+   "example_mn": "Таны халивыг түр авч болох уу?",
+   "example_en": "Could I borrow your screwdriver for a bit?",
+   "mn_latin": "tür avakh"
+  },
+  {
+   "mn": "буцааж өгөх",
+   "en": "to give back, to return",
+   "pos": "verb phrase",
+   "example_mn": "Маргааш буцааж өгнө.",
+   "example_en": "I'll give it back tomorrow.",
+   "mn_latin": "butsaaj ögökh"
+  },
+  {
+   "mn": "алх",
+   "en": "hammer",
+   "pos": "noun",
+   "example_mn": "Алх авчраад өгөөч.",
+   "example_en": "Please bring me the hammer.",
+   "mn_latin": "alkh"
+  },
+  {
+   "mn": "шат",
+   "en": "ladder",
+   "pos": "noun",
+   "example_mn": "Шат байхгүй бол дээд тавиурт хүрэхгүй.",
+   "example_en": "Without a ladder, I can't reach the top shelf.",
+   "mn_latin": "shat"
+  },
+  {
+   "mn": "халив",
+   "en": "screwdriver",
+   "pos": "noun",
+   "example_mn": "Энэ халив хэтэрхий жижиг байна.",
+   "example_en": "This screwdriver is too small.",
+   "mn_latin": "khaliv"
+  },
+  {
+   "mn": "засвар",
+   "en": "repair, renovation",
+   "pos": "noun",
+   "example_mn": "Би байрандаа засвар хийж байна.",
+   "example_en": "I'm doing repairs in my apartment.",
+   "mn_latin": "zasvar"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та надад өрмөө түр зээлүүлж болох уу?",
+   "en": "Could you lend me your drill for a bit?",
+   "alt_mn": [
+    "Та надад өрмөө түр зээлдүүлж болох уу?"
+   ],
+   "alt_en": [
+    "Can you lend me your drill for a while?",
+    "Could you lend me your drill for a little while?"
+   ],
+   "mn_latin": "Ta nadad örmöö tür zeelüülj bolokh uu?"
+  },
+  {
+   "mn": "Би таны шатыг маргааш хүртэл зээлж болох уу?",
+   "en": "Could I borrow your ladder until tomorrow?",
+   "alt_mn": [
+    "Таны шатыг маргааш хүртэл түр авч болох уу?"
+   ],
+   "alt_en": [
+    "Can I borrow your ladder until tomorrow?"
+   ],
+   "mn_latin": "Bi tany shatyg margaash khürtel zeelj bolokh uu?"
+  },
+  {
+   "mn": "Би хөршөөсөө алх зээлсэн.",
+   "en": "I borrowed a hammer from my neighbor.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bi khörshöösöö alkh zeelsen."
+  },
+  {
+   "mn": "Хөрш маань надад халиваа зээлүүлсэн.",
+   "en": "My neighbor lent me his screwdriver.",
+   "alt_mn": [
+    "Хөрш маань надад халиваа зээлдүүлсэн."
+   ],
+   "alt_en": [
+    "My neighbor lent me her screwdriver.",
+    "My neighbor lent me their screwdriver."
+   ],
+   "mn_latin": "Khörsh maani nadad khalivaa zeelüülsen."
+  },
+  {
+   "mn": "Ажлаа дуусгамагц өрмийг тань буцааж өгье.",
+   "en": "I'll give your drill back as soon as I finish the job.",
+   "alt_mn": [
+    "Ажлаа дуусгамагц таны өрмийг буцааж өгье."
+   ],
+   "alt_en": [
+    "I'll return your drill as soon as I'm done."
+   ],
+   "mn_latin": "Ajlaa duusgamagts örmiig tani butsaaj ögiye."
+  },
+  {
+   "mn": "Гал тогооны тавиур унасан тул хананд дахин өрөмдөх хэрэгтэй болсон.",
+   "en": "The kitchen shelf fell, so I had to drill into the wall again.",
+   "alt_mn": [],
+   "alt_en": [
+    "The kitchen shelf fell down, so I had to drill into the wall again."
+   ],
+   "mn_latin": "Gal togoony taviur unasan tul khanand dakhin örömdökh kheregtei bolson."
+  },
+  {
+   "mn": "Уучлаарай, би өрмөө ахдаа зээлүүлчихсэн.",
+   "en": "Sorry, I've already lent my drill to my older brother.",
+   "alt_mn": [
+    "Уучлаарай, би өрмөө ахдаа зээлдүүлчихсэн."
+   ],
+   "alt_en": [
+    "Sorry, I already lent my drill to my older brother."
+   ],
+   "mn_latin": "Uuchlaarai, bi örmöö akhdaa zeelüülchikhsen."
+  },
+  {
+   "mn": "Та үүнийг хэзээ буцааж өгөх вэ?",
+   "en": "When will you give it back?",
+   "alt_mn": [],
+   "alt_en": [
+    "When are you going to give it back?",
+    "When will you return it?"
+   ],
+   "mn_latin": "Ta üüniig khezee butsaaj ögökh ve?"
+  },
+  {
+   "mn": "Хэрэв танд хэрэгтэй бол миний багажийг түр авч болно.",
+   "en": "If you need them, you can borrow my tools for a while.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you need them, you can borrow my tools for a bit."
+   ],
+   "mn_latin": "Kherev tand kheregtei bol minii bagajiig tür avch bolno."
+  },
+  {
+   "mn": "Би хөршөөсөө юм зээлэхээс ичдэг.",
+   "en": "I feel awkward borrowing things from my neighbors.",
+   "alt_mn": [],
+   "alt_en": [
+    "I feel embarrassed borrowing things from my neighbors.",
+    "I feel awkward borrowing things from my neighbor."
+   ],
+   "mn_latin": "Bi khörshöösöö yum zeelekhees ichdeg."
+  },
+  {
+   "mn": "Өрмийн цэнэг бараг дууссан тул эхлээд цэнэглээрэй.",
+   "en": "The drill is almost out of charge, so please charge it first.",
+   "alt_mn": [],
+   "alt_en": [
+    "The drill's battery is almost dead, so charge it first."
+   ],
+   "mn_latin": "Örmiin tseneg barag duussan tul ekhleed tsenegleerei."
+  },
+  {
+   "mn": "Би юм зээлсэн бол заавал цагт нь буцааж өгдөг.",
+   "en": "When I borrow something, I always return it on time.",
+   "alt_mn": [],
+   "alt_en": [
+    "Whenever I borrow something, I always give it back on time."
+   ],
+   "mn_latin": "Bi yum zeelsen bol zaaval tsagt ni butsaaj ögdög."
+  }
+ ],
+ "grammar": {
+  "title_en": "Borrow vs. lend: зээлэх vs. зээлүүлэх, and polite requests with -ж болох уу",
+  "title_mn": "Lend ба borrow: хэнээс авах, хэнд өгөх вэ?",
+  "explain_en": "Mongolian builds 'lend' from 'borrow'. Зээлэх means 'to borrow', and the person you borrow from takes the ablative case -аас/-ээс/-оос/-өөс: хөршөөсөө зээлэх (to borrow from my neighbor). Add the causative suffix -үүл (or -дүүл) and you get зээлүүлэх / зээлдүүлэх, 'to make someone borrow', which means 'to lend'. The person who receives the item takes the dative -д/-т: надад зээлүүлэх (to lend to me). Зээлдүүлэх sounds a bit more formal and is common with money and banks. To ask politely, use the verb stem + -ж (or -ч after в, г, р, с) + болох уу: Би авч болох уу? (May I take it?), Та зээлүүлж болох уу? (Could you lend it?). Түр (for a while) makes the request softer.",
+  "explain_mn": "Англи хэлэнд borrow ба lend хоёрыг их андуурдаг. Borrow = зээлэх, өөрөө авах. Хэнээс авч байгааг from-оор илэрхийлнэ: borrow something from someone (хэн нэгнээс юм зээлэх). Lend = зээлүүлэх, бусдад өгөх. Хэнд өгч байгааг шууд эсвэл to-гоор илэрхийлнэ: lend someone something эсвэл lend something to someone. Жишээ нь: Can I borrow your drill? (Би таны өрмийг зээлж болох уу?) – Could you lend me your drill? (Та надад өрмөө зээлүүлж болох уу?). 'Borrow me' гэж хэзээ ч хэлдэггүй! Буцааж өгөхийг give back эсвэл return гэнэ.",
+  "examples": [
+   {
+    "mn": "Би таны алхыг зээлж болох уу?",
+    "en": "Can I borrow your hammer?",
+    "mn_latin": "Bi tany alkhyg zeelj bolokh uu?"
+   },
+   {
+    "mn": "Та надад алхаа зээлүүлж болох уу?",
+    "en": "Could you lend me your hammer?",
+    "mn_latin": "Ta nadad alkhaa zeelüülj bolokh uu?"
+   },
+   {
+    "mn": "Бат Сараагаас шат зээлсэн.",
+    "en": "Bat borrowed a ladder from Saraa.",
+    "mn_latin": "Bat Saraagaas shat zeelsen."
+   },
+   {
+    "mn": "Сараа Батад шатаа зээлүүлсэн.",
+    "en": "Saraa lent Bat her ladder.",
+    "mn_latin": "Saraa Batad shataa zeelüülsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Та надад өрмөө түр зээл___ болох уу?",
+   "answer": "үүлж",
+   "options": [
+    "үүлж",
+    "ж",
+    "сэн",
+    "үүлэх"
+   ],
+   "translation": "Could you lend me your drill for a bit?",
+   "explain_en": "The listener (та) is the one giving the drill, so you need 'lend': зээл + үүл (causative) = зээлүүлэх. Before болох уу the verb takes the converb ending -ж, giving зээлүүлж болох уу.",
+   "explain_mn": "Энд өрмөө өгөх хүн нь 'та' тул 'lend' (зээлүүлэх) утгатай. 'Болох уу'-гийн өмнө үйл үг -ж нөхцөлтэй байна: зээлүүлж болох уу."
+  },
+  {
+   "lang": "mn",
+   "text": "Би хөршөөсөө шат ___.",
+   "answer": "зээлсэн",
+   "options": [
+    "зээлсэн",
+    "зээлүүлсэн",
+    "зээлдүүлсэн",
+    "буцаасан"
+   ],
+   "translation": "I borrowed a ladder from my neighbor.",
+   "explain_en": "Хөршөөсөө is in the ablative case (from my neighbor), and 'I' am receiving the ladder, so the verb is зээлэх (to borrow). The past tense is зээлсэн.",
+   "explain_mn": "'Хөршөөсөө' гэдэг нь гарах тийн ялгалтай (from my neighbor). Шатыг 'би' авч байгаа тул 'borrow' буюу зээлэх үйл үг тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Би таны халивыг түр ав___ болох уу?",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "ж",
+    "аад",
+    "на"
+   ],
+   "translation": "Could I borrow your screwdriver for a bit?",
+   "explain_en": "The converb ending is -ж, but after stems ending in в, г, р, с it becomes -ч. Ав ends in в, so it is авч болох уу.",
+   "explain_mn": "Нөхцөл -ж нь в, г, р, с үсгээр төгссөн язгуурын дараа -ч болдог. 'Ав' нь в-гээр төгссөн тул 'авч болох уу' болно."
+  },
+  {
+   "lang": "en",
+   "text": "Could you ___ me your hammer?",
+   "answer": "lend",
+   "options": [
+    "lend",
+    "borrow",
+    "take",
+    "loan from"
+   ],
+   "translation": "Та надад алхаа зээлүүлж болох уу?",
+   "explain_en": "The other person gives the hammer to 'me', so the verb is 'lend': lend someone something. 'Borrow me' is a common mistake.",
+   "explain_mn": "Алхыг нөгөө хүн надад өгч байгаа тул 'lend' (зээлүүлэх) хэрэглэнэ: lend someone something. 'Borrow me' гэж хэлэх нь алдаа."
+  },
+  {
+   "lang": "en",
+   "text": "I borrowed a ladder ___ my neighbor.",
+   "answer": "from",
+   "options": [
+    "from",
+    "to",
+    "at",
+    "by"
+   ],
+   "translation": "Би хөршөөсөө шат зээлсэн.",
+   "explain_en": "With 'borrow', the original owner comes after 'from', just like the Mongolian ablative -өөс.",
+   "explain_mn": "'Borrow'-той хэрэглэхэд эзнийг 'from'-оор заана. Энэ нь монгол хэлний -аас/-ээс нөхцөлтэй адилхан."
+  },
+  {
+   "lang": "en",
+   "text": "Thanks! I'll give the drill ___ tomorrow.",
+   "answer": "back",
+   "options": [
+    "back",
+    "again",
+    "return",
+    "away"
+   ],
+   "translation": "Баярлалаа! Өрмийг маргааш буцааж өгнө.",
+   "explain_en": "'Give back' means to return something to its owner. This matches буцааж өгөх. 'Give away' means to give it to someone permanently.",
+   "explain_mn": "'Give back' нь 'буцааж өгөх' гэсэн утгатай. 'Give away' бол бэлэглэх, бүр өгчих гэсэн утгатай тул тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Сайн байна уу, Сараа эгч ээ. Уучлаарай, түр саад болчихлоо.",
+   "en": "Hello, Saraa. Sorry to bother you.",
+   "mn_latin": "Sain baina uu, Saraa egch ee. Uuchlaarai, tür saad bolchikhloo."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Зүгээр ээ. Юу болов?",
+   "en": "No problem. What's up?",
+   "mn_latin": "Zügeer ee. Yuu bolov?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Би байрандаа жаахан засвар хийж байгаа юм. Та надад өрмөө түр зээлүүлж болох уу?",
+   "en": "I'm doing some repairs in my apartment. Could you lend me your drill for a bit?",
+   "mn_latin": "Bi bairandaa jaakhan zasvar khiij baigaa yum. Ta nadad örmöö tür zeelüülj bolokh uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Болно оо. Гэхдээ өрөм маань ахынд байгаа, орой авчирна. Алх, халив бол одоо байна.",
+   "en": "Sure. But my drill is at my brother's place. I'll bring it back tonight. I do have a hammer and a screwdriver right now.",
+   "mn_latin": "Bolno oo. Gekhdee öröm maani akhynd baigaa, oroi avchirna. Alkh, khaliv bol odoo baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэгвэл одоохондоо халивыг тань авч болох уу? Өрмийг орой авъя.",
+   "en": "Then could I borrow your screwdriver for now? I'll get the drill tonight.",
+   "mn_latin": "Tegvel odookhondoo khalivyg tani avch bolokh uu? Örmiig oroi avya."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Аваарай. Гэхдээ орой есөөс хойш битгий өрөмдөөрэй, хүүхдүүд унтдаг юм.",
+   "en": "Go ahead. But please don't drill after nine p.m. The kids are asleep by then.",
+   "mn_latin": "Avaarai. Gekhdee oroi yesöös khoish bitgii örömdöörei, khüükhdüüd untdag yum."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Ойлголоо. Маргааш өглөө бүгдийг нь буцааж өгнө. Их баярлалаа!",
+   "en": "Got it. I'll give everything back tomorrow morning. Thanks a lot!",
+   "mn_latin": "Oilgoloo. Margaash öglöö bügdiig ni butsaaj ögnö. Ikh bayarlalaa!"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Зүгээр ээ. Хөрш хөршдөө туслах ёстой.",
+   "en": "You're welcome. Neighbors should help each other.",
+   "mn_latin": "Zügeer ee. Khörsh khörshdöö tuslakh yostoi."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar apartment buildings and ger districts, neighbors often borrow tools, ladders, and even pots from each other instead of buying their own. There is also an old custom of not returning a borrowed dish or container empty. People often put a little food or sweets inside as a thank-you.",
+  "mn": "Улаанбаатарын орон сууц болон гэр хорооллын хөршүүд өөрсдөө худалдаж авахын оронд багаж, шат, тогоо хүртэл бие биеэсээ зээлэх нь элбэг. Мөн зээлж авсан сав суулгыг хоосон буцаадаггүй заншил бий. Ихэвчлэн талархлын илэрхийлэл болгож дотор нь бага зэрэг хоол, амттан хийж өгдөг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A well-built lesson with accurate grammar explanations and natural dialogue. The only real error is the intransitive дуусмагц used with an accusative object."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is accurate overall. The only fix is one wording change to make the dialogue sound more natural in spoken Khalkha.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "бүү is bookish; спoken Khalkha uses битгий"
+   }
+  ]
+ }
+}

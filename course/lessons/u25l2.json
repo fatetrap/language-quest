@@ -1,0 +1,463 @@
+{
+ "intro_en": "You will learn to plan study time with classmates and talk about exams. You will also practice saying what will happen if you do something, using -вал/-вэл in Mongolian and if-clauses in English.",
+ "intro_mn": "Та энэ хичээлээр ангийнхантайгаа хамт хичээл давтах төлөвлөгөө гаргаж, шалгалтын тухай ярихыг сурна. Мөн \"хэрвээ ... бол ...\" гэсэн нөхцөлт өгүүлбэрийг Монгол хэлний -вал/-вэл болон англи хэлний if-өгүүлбэрээр хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "шалгалт",
+   "en": "exam",
+   "pos": "noun",
+   "example_mn": "Маргааш миний анхны шалгалт болно.",
+   "example_en": "My first exam is tomorrow.",
+   "mn_latin": "shalgalt"
+  },
+  {
+   "mn": "лекц",
+   "en": "lecture",
+   "pos": "noun",
+   "example_mn": "Өнөөдрийн лекц маш сонирхолтой байсан.",
+   "example_en": "Today's lecture was very interesting.",
+   "mn_latin": "lyekts"
+  },
+  {
+   "mn": "дэвтэр",
+   "en": "notebook",
+   "pos": "noun",
+   "example_mn": "Би дэвтрээ номын санд мартчихжээ.",
+   "example_en": "I forgot my notebook at the library.",
+   "mn_latin": "devter"
+  },
+  {
+   "mn": "давтах",
+   "en": "to review",
+   "pos": "verb",
+   "example_mn": "Бид орой хамт хичээлээ давтана.",
+   "example_en": "We will review our lessons together this evening.",
+   "mn_latin": "davtakh"
+  },
+  {
+   "mn": "тэмдэглэл",
+   "en": "notes",
+   "pos": "noun",
+   "example_mn": "Чиний тэмдэглэлийг авч болох уу?",
+   "example_en": "Can I borrow your notes?",
+   "mn_latin": "temdeglel"
+  },
+  {
+   "mn": "оноо",
+   "en": "score, grade",
+   "pos": "noun",
+   "example_mn": "Тэр шалгалтаас өндөр оноо авсан.",
+   "example_en": "She got a high score on the exam.",
+   "mn_latin": "onoo"
+  },
+  {
+   "mn": "бэлтгэх",
+   "en": "to prepare",
+   "pos": "verb",
+   "example_mn": "Би шалгалтад сайн бэлтгэсэн.",
+   "example_en": "I prepared well for the exam.",
+   "mn_latin": "beltgekh"
+  },
+  {
+   "mn": "номын сан",
+   "en": "library",
+   "pos": "noun",
+   "example_mn": "Номын сан орой 9 цаг хүртэл ажилладаг.",
+   "example_en": "The library is open until 9 p.m.",
+   "mn_latin": "nomyn san"
+  },
+  {
+   "mn": "унших",
+   "en": "to read, to study",
+   "pos": "verb",
+   "example_mn": "Би энэ долоо хоногт олон ном уншина.",
+   "example_en": "I will read many books this week.",
+   "mn_latin": "unshikh"
+  },
+  {
+   "mn": "унтах",
+   "en": "to sleep",
+   "pos": "verb",
+   "example_mn": "Шалгалтын өмнө сайн унтах хэрэгтэй.",
+   "example_en": "You need to sleep well before an exam.",
+   "mn_latin": "untakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Давтвал, сайн оноо авна.",
+   "en": "If you review, you will get a good score.",
+   "alt_mn": [
+    "Хэрвээ давтвал сайн оноо авна."
+   ],
+   "alt_en": [
+    "If you study, you'll get a good grade.",
+    "You will get a good score if you review."
+   ],
+   "mn_latin": "Davtval, sain onoo avna."
+  },
+  {
+   "mn": "Шалгалтад бэлтгэхгүй бол муу оноо авна.",
+   "en": "If you don't prepare for the exam, you will get a bad score.",
+   "alt_mn": [
+    "Шалгалтад бэлтгэхгүй бол муу оноо авах болно."
+   ],
+   "alt_en": [
+    "You will get a bad score if you don't prepare for the exam."
+   ],
+   "mn_latin": "Shalgaltad beltgekhgüi bol muu onoo avna."
+  },
+  {
+   "mn": "Номын санд очвол тайван суугаад хичээлээ давтаж болно.",
+   "en": "If we go to the library, we can sit quietly and review.",
+   "alt_mn": [],
+   "alt_en": [
+    "If we go to the library, we can review in peace."
+   ],
+   "mn_latin": "Nomyn sand ochvol taivan suugaad khicheelee davtaj bolno."
+  },
+  {
+   "mn": "Чи тэмдэглэлээ өгвөл би маргааш буцааж өгнө.",
+   "en": "If you give me your notes, I will give them back tomorrow.",
+   "alt_mn": [
+    "Чи тэмдэглэлээ өгвөл би маргааш буцаана."
+   ],
+   "alt_en": [
+    "I will give your notes back tomorrow if you give them to me."
+   ],
+   "mn_latin": "Chi temdeglelee ögvöl bi margaash butsaaj ögnö."
+  },
+  {
+   "mn": "Лекцээ сайн сонсвол шалгалт хялбар санагдана.",
+   "en": "If you listen to the lectures carefully, the exam will feel easy.",
+   "alt_mn": [],
+   "alt_en": [
+    "The exam will seem easy if you listen to the lectures well."
+   ],
+   "mn_latin": "Lyektsee sain sonsvol shalgalt khyalbar sanagdana."
+  },
+  {
+   "mn": "Орой хүртэл суувал бид бүх сэдвийг давтаж дуусгана.",
+   "en": "If we stay until evening, we will finish reviewing all the topics.",
+   "alt_mn": [],
+   "alt_en": [
+    "We will finish reviewing all the topics if we stay until evening."
+   ],
+   "mn_latin": "Oroi khürtel suuval bid bükh sedviig davtaj duusgana."
+  },
+  {
+   "mn": "Шөнөжин сууж байвал маргааш ядарна.",
+   "en": "If you stay up all night, you will be tired tomorrow.",
+   "alt_mn": [
+    "Шөнөжин унтахгүй бол маргааш ядарна."
+   ],
+   "alt_en": [
+    "You will be tired tomorrow if you stay up all night."
+   ],
+   "mn_latin": "Shönöjin suuj baival margaash yadarna."
+  },
+  {
+   "mn": "Би дэвтрээ мартвал чиний дэвтрийг ашиглана.",
+   "en": "If I forget my notebook, I will use yours.",
+   "alt_mn": [],
+   "alt_en": [
+    "I will use your notebook if I forget mine."
+   ],
+   "mn_latin": "Bi devtree martval chinii devtriig ashiglana."
+  },
+  {
+   "mn": "Хичээлээ тогтмол давтвал шалгалтаас айхгүй.",
+   "en": "If you review regularly, you won't be afraid of the exam.",
+   "alt_mn": [],
+   "alt_en": [
+    "You won't be afraid of the exam if you review regularly."
+   ],
+   "mn_latin": "Khicheelee togtmol davtval shalgaltaas aikhgüi."
+  },
+  {
+   "mn": "Маргааш бороо орвол бид номын санд уулзана.",
+   "en": "If it rains tomorrow, we will meet at the library.",
+   "alt_mn": [],
+   "alt_en": [
+    "We will meet at the library if it rains tomorrow."
+   ],
+   "mn_latin": "Margaash boroo orvol bid nomyn sand uulzana."
+  },
+  {
+   "mn": "Сайн унтахгүй бол шалгалтын үеэр төвлөрч чадахгүй.",
+   "en": "If you don't sleep well, you won't be able to focus during the exam.",
+   "alt_mn": [],
+   "alt_en": [
+    "You won't be able to concentrate during the exam if you don't sleep well."
+   ],
+   "mn_latin": "Sain untakhgüi bol shalgaltyn üyeer tövlörch chadakhgüi."
+  },
+  {
+   "mn": "Бид хамт бэлтгэвэл илүү хурдан сурна.",
+   "en": "If we prepare together, we will learn faster.",
+   "alt_mn": [],
+   "alt_en": [
+    "We will learn faster if we prepare together."
+   ],
+   "mn_latin": "Bid khamt beltgevel ilüü khurdan surna."
+  }
+ ],
+ "grammar": {
+  "title_en": "Conditions and results: -вал/-вэл and 'if'",
+  "title_mn": "Нөхцөл ба үр дүн: -вал/-вэл ба 'if'",
+  "explain_en": "In Mongolian, add -вал/-вэл (or -вол/-вөл by vowel harmony) to the verb stem to mean 'if/when': давт + вал = давтвал 'if you review'. The result comes after it, usually in the future/present: Давтвал, сайн оноо авна. For negative conditions use -хгүй бол: давтахгүй бол 'if you don't review'. The condition clause comes first in Mongolian. In English, the 'if' clause uses the present tense, and the result uses will/won't: 'If you review, you will pass.' The 'if' clause can start the sentence (with a comma) or come in the middle (no comma): 'You will pass if you review.' Never say 'if you will review'.",
+  "explain_mn": "Монгол хэлэнд үйл үгийн үндэс дээр эгшгийн зохицлоор -вал/-вэл (эсвэл -вол/-вөл) залгаж \"хэрвээ\" гэсэн нөхцөлийг илэрхийлнэ: давт + вал = давтвал. Үр дүн нь араас нь, ихэвчлэн ирээдүй/одоо цагаар орно: Давтвал, сайн оноо авна. Үгүйсгэсэн нөхцөлд -хгүй бол хэрэглэнэ: давтахгүй бол. Монгол хэлэнд нөхцөлийн хэсэг эхэнд ордог. Англи хэлэнд if-ийн дараа одоо цагийг, үр дүнд will/won't-ийг хэрэглэнэ: If you review, you will pass. If хэсэг өгүүлбэрийн эхэнд (таслалтай) эсвэл дунд (таслалгүй) орж болно: If it rains, we will stay. / We will stay if it rains. \"If you will review\" гэж хэлж болохгүй, зөв нь \"If you review\".",
+  "examples": [
+   {
+    "mn": "Давтвал, сайн оноо авна.",
+    "en": "If you review, you will get a good score.",
+    "mn_latin": "Davtval, sain onoo avna."
+   },
+   {
+    "mn": "Давтахгүй бол шалгалтад унана.",
+    "en": "If you don't review, you will fail the exam.",
+    "mn_latin": "Davtakhgüi bol shalgaltad unana."
+   },
+   {
+    "mn": "Номын санд очвол тэмдэглэлээ хуваалцана.",
+    "en": "We will share our notes if we go to the library.",
+    "mn_latin": "Nomyn sand ochvol temdeglelee khuvaaltsana."
+   },
+   {
+    "mn": "Эрт босвол цаг хүрэлцэнэ.",
+    "en": "If you get up early, you will have enough time.",
+    "mn_latin": "Ert bosvol tsag khüreltsene."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хичээлээ давт___, сайн оноо авна.",
+   "answer": "вал",
+   "options": [
+    "вал",
+    "сан",
+    "даг",
+    "лаа"
+   ],
+   "translation": "If you review your lessons, you will get a good score.",
+   "explain_en": "Add -вал to a stem ending in a consonant to make 'if': давт + вал. The result follows in the future.",
+   "explain_mn": "Гийгүүлэгчээр төгссөн үйл үгийн үндэс дээр -вал залгаж нөхцөл бүтээнэ: давт + вал. Үр дүн нь ирээдүй цагаар хойно ордог."
+  },
+  {
+   "lang": "mn",
+   "text": "Шөнөжин суу___, маргааш ядарна.",
+   "answer": "вал",
+   "options": [
+    "вал",
+    "вэл",
+    "сан",
+    "аад"
+   ],
+   "translation": "If you stay up all night, you will be tired tomorrow.",
+   "explain_en": "The stem суу has back vowels, so vowel harmony gives -вал, not -вэл. In English, the 'if' clause uses the present: if you stay.",
+   "explain_mn": "Суу гэсэн үндэс нь эрэгтэй эгшигтэй тул -вал залгана. Англи хэлэнд if you stay гэж одоо цагаар хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Лекцээ сайн сонсохгүй ___, шалгалт хэцүү санагдана.",
+   "answer": "бол",
+   "options": [
+    "бол",
+    "гэж",
+    "ба",
+    "руу"
+   ],
+   "translation": "If you don't listen to the lecture carefully, the exam will feel hard.",
+   "explain_en": "For a negative condition, use the negative form -хгүй followed by бол.",
+   "explain_mn": "Үгүйсгэсэн нөхцөлд -хгүй бол гэж хэлнэ. Англи хэлэнд don't + verb хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "If you ___ the notes, you will pass the exam.",
+   "answer": "review",
+   "options": [
+    "review",
+    "will review",
+    "reviewed",
+    "reviewing"
+   ],
+   "translation": "Тэмдэглэлээ давтвал шалгалтад тэнцэнэ.",
+   "explain_en": "After 'if', use the present simple, not 'will'.",
+   "explain_mn": "If-ийн дараа одоо цаг хэрэглэнэ, will хэрэглэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "We ___ the library if it rains tomorrow.",
+   "answer": "will visit",
+   "options": [
+    "will visit",
+    "visit",
+    "visited",
+    "have visited"
+   ],
+   "translation": "Маргааш бороо орвол бид номын сан руу очно.",
+   "explain_en": "The result clause uses will + base verb. The 'if' clause in the middle needs no comma.",
+   "explain_mn": "Үр дүнгийн хэсэгт will + үйл үг хэрэглэнэ. If дунд орвол таслал хэрэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "If you ___ enough, you won't be able to focus during the exam.",
+   "answer": "don't sleep",
+   "options": [
+    "don't sleep",
+    "won't sleep",
+    "didn't sleep",
+    "not sleep"
+   ],
+   "translation": "Хангалттай унтахгүй бол шалгалтын үеэр төвлөрч чадахгүй.",
+   "explain_en": "Negative present simple in the 'if' clause: don't sleep. The result uses won't.",
+   "explain_mn": "If хэсэгт don't + үйл үг ашиглана. Үр дүнд нь won't орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн уу, Том! Маргаашийн шалгалтад бэлтгэж байна уу?",
+   "en": "Hi, Tom! Are you preparing for tomorrow's exam?",
+   "mn_latin": "Sain uu, Tom! Margaashiin shalgaltad beltgej baina uu?"
+  },
+  {
+   "speaker": "Том",
+   "mn": "Тийм ээ, гэхдээ би лекцийн тэмдэглэлээ дутуу бичсэн.",
+   "en": "Yes, but my lecture notes are incomplete.",
+   "mn_latin": "Tiim ee, gekhdee bi lyektsiin temdeglelee dutuu bichsen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Санаа зоволтгүй. Миний дэвтрийг ав. Хамт давтвал илүү хурдан болно.",
+   "en": "Don't worry. Take my notebook. If we review together, it will be faster.",
+   "mn_latin": "Sanaa zovoltgüi. Minii devtriig av. Khamt davtval ilüü khurdan bolno."
+  },
+  {
+   "speaker": "Том",
+   "mn": "Баярлалаа! Хэзээ эхлэх вэ?",
+   "en": "Thanks! When should we start?",
+   "mn_latin": "Bayarlalaa! Khezee ekhlekh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Одоо эхлэвэл есөн цаг гэхэд дуусгана.",
+   "en": "If we start now, we will finish by nine.",
+   "mn_latin": "Odoo ekhlevel yesön tsag gekhed duusgana."
+  },
+  {
+   "speaker": "Том",
+   "mn": "Сайн байна. Гэхдээ өнөө орой сайн унтахгүй бол маргааш төвлөрч чадахгүй.",
+   "en": "Good. But if I don't sleep well tonight, I won't be able to focus tomorrow.",
+   "mn_latin": "Sain baina. Gekhdee önöö oroi sain untakhgüi bol margaash tövlörch chadakhgüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тиймээс бид эрт дуусгая. Сайн бэлтгэвэл сайн оноо авна.",
+   "en": "So let's finish early. If we prepare well, we will get a good score.",
+   "mn_latin": "Tiimees bid ert duusgaya. Sain beltgevel sain onoo avna."
+  },
+  {
+   "speaker": "Том",
+   "mn": "Тийм шүү, эхэлцгээе!",
+   "en": "Right, let's begin!",
+   "mn_latin": "Tiim shüü, ekheltsgeeye!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many students study in university libraries and cafés near campuses, especially during the exam weeks at the end of each semester. Students often form small study groups and share lecture notes. Many also take part in special evening review sessions before big exams.",
+  "mn": "Улаанбаатарт олон оюутан улирлын төгсгөлийн шалгалтын үеэр их сургуулийн номын сан болон кампусын ойролцоох кафед хичээллэдэг. Оюутнууд жижиг бүлэг болж лекцийн тэмдэглэлээ солилцдог. Томоохон шалгалтын өмнө орой хамт давтлага хийх нь элбэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 13,
+  "notes": "Mostly natural and accurate; main issues are the грамматик explanation wording (-гүй бол, 'always first'), a wrong English-focused note in a Mongolian explanation, and an unnatural alt sentence."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 13,
+  "notes": "Main issues: the nonstandard dative шалгалтанд, an incomplete mn grammar explanation, ambiguous fill-blank distractors, and an unnatural dialogue line.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "Standard dative is шалгалтад, not шалгалтанд"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "Standard dative is шалгалтад"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "Standard dative is шалгалтад"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn version omitted the Mongolian rules given in the en version"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "Standard dative is шалгалтад"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Matches the content of the mn explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "тул also gives a grammatical sentence ('because'), so it can't be a distractor"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "Standard dative шалгалтад; standard future form тэнцэнэ"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'are visiting' is also acceptable for a future plan"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "Standard dative is шалгалтад"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Must match 'by nine'"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'бага зэрэг унтахгүй бол' is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "Natural wording; matches the corrected mn"
+   }
+  ]
+ }
+}

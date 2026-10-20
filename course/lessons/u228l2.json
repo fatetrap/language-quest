@@ -1,0 +1,438 @@
+{
+ "intro_en": "Learn to talk about biking through Ulaanbaatar traffic: bike lanes, sidewalks, intersections, and cars blocking your way. You'll use -х гэтэл for plans that got blocked, and English 'wouldn't' for someone who refused to do something.",
+ "intro_mn": "Улаанбаатарын замын хөдөлгөөнд дугуй унах, дугуйн зам, явган хүний зам, уулзвар, замыг хаасан машинуудын тухай ярьж сурна. Мөн англи хэлний 'wouldn't' хэлбэрээр хэн нэгэн ямар нэг зүйл хийхээс татгалзсаныг илэрхийлж сурна.",
+ "vocab": [
+  {
+   "mn": "дугуйн зам",
+   "en": "bike lane",
+   "pos": "noun",
+   "example_mn": "Энэ гудамжинд дугуйн зам байхгүй.",
+   "example_en": "There's no bike lane on this street.",
+   "mn_latin": "duguin zam"
+  },
+  {
+   "mn": "явган хүний зам",
+   "en": "sidewalk",
+   "pos": "noun",
+   "example_mn": "Явган хүний зам дээр дугуй унаж болохгүй.",
+   "example_en": "You can't ride a bike on the sidewalk.",
+   "mn_latin": "yavgan khünii zam"
+  },
+  {
+   "mn": "уулзвар",
+   "en": "intersection",
+   "pos": "noun",
+   "example_mn": "Дараагийн уулзвар дээр баруун тийш эргээрэй.",
+   "example_en": "Turn right at the next intersection.",
+   "mn_latin": "uulzvar"
+  },
+  {
+   "mn": "гэрлэн дохио",
+   "en": "traffic light",
+   "pos": "noun",
+   "example_mn": "Гэрлэн дохио улаан болчихлоо.",
+   "example_en": "The traffic light turned red.",
+   "mn_latin": "gerlen dokhio"
+  },
+  {
+   "mn": "түгжрэл",
+   "en": "traffic jam",
+   "pos": "noun",
+   "example_mn": "Өглөө Энхтайваны өргөн чөлөөнд түгжрэл их байдаг.",
+   "example_en": "There's heavy traffic on Peace Avenue in the morning.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "жолооч",
+   "en": "driver",
+   "pos": "noun",
+   "example_mn": "Жолооч машинаа хөдөлгөсөнгүй.",
+   "example_en": "The driver didn't move his car.",
+   "mn_latin": "jolooch"
+  },
+  {
+   "mn": "зам тавьж өгөх",
+   "en": "to give way, to let someone pass",
+   "pos": "verb phrase",
+   "example_mn": "Машинууд дугуйчдад зам тавьж өгөх ёстой.",
+   "example_en": "Cars should give way to cyclists.",
+   "mn_latin": "zam tavij ögökh"
+  },
+  {
+   "mn": "дуут дохио дарах",
+   "en": "to honk",
+   "pos": "verb phrase",
+   "example_mn": "Ард байсан машин дуут дохио дарлаа.",
+   "example_en": "The car behind me honked.",
+   "mn_latin": "duut dokhio darakh"
+  },
+  {
+   "mn": "тойрох",
+   "en": "to go around",
+   "pos": "verb",
+   "example_mn": "Би зогсож байсан машиныг тойроод гарлаа.",
+   "example_en": "I went around the parked car.",
+   "mn_latin": "toirokh"
+  },
+  {
+   "mn": "аюулгүй",
+   "en": "safe",
+   "pos": "adjective",
+   "example_mn": "Энд дугуй унахад аюулгүй биш.",
+   "example_en": "It's not safe to ride a bike here.",
+   "mn_latin": "ayuulgüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би дугуйн зам руу орох гэтэл машин зогсчихсон байсан.",
+   "en": "I was about to get into the bike lane, but a car was parked there.",
+   "alt_mn": [
+    "Би дугуйн зам руу орох гэтэл тэнд машин зогсчихсон байсан."
+   ],
+   "alt_en": [
+    "I was going to get into the bike lane, but there was a car parked in it.",
+    "I tried to get into the bike lane, but a car was parked there."
+   ],
+   "mn_latin": "Bi duguin zam ruu orokh getel mashin zogschikhson baisan."
+  },
+  {
+   "mn": "Жолоочоос машинаа хөдөлгөхийг гуйсан ч тэр хөдөлгөөгүй.",
+   "en": "I asked the driver to move his car, but he wouldn't.",
+   "alt_mn": [
+    "Жолоочоос машинаа хөдөлгөөч гэж гуйсан ч тэр хөдөлгөөгүй."
+   ],
+   "alt_en": [
+    "I asked the driver to move his car, but he refused."
+   ],
+   "mn_latin": "Joloochoos mashinaa khödölgökhiig guisan ch ter khödölgöögüi."
+  },
+  {
+   "mn": "Уулзвар гатлах гэтэл гэрлэн дохио улаан болчихлоо.",
+   "en": "I was about to cross the intersection, but the light turned red.",
+   "alt_mn": [
+    "Уулзвараар гарах гэтэл гэрлэн дохио улаан болчихлоо."
+   ],
+   "alt_en": [
+    "I was going to cross the intersection, but the light turned red."
+   ],
+   "mn_latin": "Uulzvar gatlakh getel gerlen dokhio ulaan bolchikhloo."
+  },
+  {
+   "mn": "Явган хүний зам дээр гарах гэтэл хүн их байсан.",
+   "en": "I tried to get onto the sidewalk, but it was too crowded.",
+   "alt_mn": [
+    "Явган хүний зам руу гарах гэтэл хүн их байсан."
+   ],
+   "alt_en": [
+    "I was going to get onto the sidewalk, but there were too many people."
+   ],
+   "mn_latin": "Yavgan khünii zam deer garakh getel khün ikh baisan."
+  },
+  {
+   "mn": "Өглөө ажилдаа дугуйгаар явах гэтэл бороо орчихсон байсан.",
+   "en": "I was going to bike to work this morning, but it was raining.",
+   "alt_mn": [
+    "Өнөө өглөө ажилдаа дугуйгаар явах гэтэл бороо орчихсон байсан."
+   ],
+   "alt_en": [
+    "I was planning to bike to work this morning, but it was raining."
+   ],
+   "mn_latin": "Öglöö ajildaa duguigaar yavakh getel boroo orchikhson baisan."
+  },
+  {
+   "mn": "Түгжрэлийн үеэр машинууд дугуйн зам руу шахаж ордог.",
+   "en": "During traffic jams, cars squeeze into the bike lane.",
+   "alt_mn": [
+    "Түгжрэл үүсэхээр машинууд дугуйн зам руу шахаж ордог."
+   ],
+   "alt_en": [
+    "When there's a traffic jam, cars squeeze into the bike lane."
+   ],
+   "mn_latin": "Tügjreliin üyeer mashinuud duguin zam ruu shakhaj ordog."
+  },
+  {
+   "mn": "Би машиныг тойрох гэтэл ард байсан автобус дуут дохио дарсан.",
+   "en": "I tried to go around the car, but the bus behind me honked.",
+   "alt_mn": [
+    "Би машиныг тойрох гэтэл араас автобус дуут дохио дарсан."
+   ],
+   "alt_en": [
+    "I was about to go around the car, but the bus behind me honked."
+   ],
+   "mn_latin": "Bi mashinyg toirokh getel ard baisan avtobus duut dokhio darsan."
+  },
+  {
+   "mn": "Таксины жолооч надад зам тавьж өгөхгүй байсан.",
+   "en": "The taxi driver wouldn't let me pass.",
+   "alt_mn": [
+    "Таксины жолооч надад зам тавьж өгөөгүй."
+   ],
+   "alt_en": [
+    "The taxi driver wouldn't give way to me.",
+    "The taxi driver refused to let me pass."
+   ],
+   "mn_latin": "Taksiny jolooch nadad zam tavij ögökhgüi baisan."
+  },
+  {
+   "mn": "Хотын төвд аюулгүй дугуйн зам хангалттай байхгүй.",
+   "en": "There aren't enough safe bike lanes downtown.",
+   "alt_mn": [
+    "Хотын төвд аюулгүй дугуйн зам хангалтгүй."
+   ],
+   "alt_en": [
+    "There aren't enough safe bike lanes in the city center."
+   ],
+   "mn_latin": "Khotyn tövd ayuulgüi duguin zam khangalttai baikhgüi."
+  },
+  {
+   "mn": "Дугуйгаа уях гэтэл уях газар олдсонгүй.",
+   "en": "I was going to lock my bike, but I couldn't find anywhere to lock it.",
+   "alt_mn": [
+    "Дугуйгаа уях гэтэл уях газар байсангүй."
+   ],
+   "alt_en": [
+    "I tried to lock up my bike, but there was nowhere to lock it."
+   ],
+   "mn_latin": "Duguigaa uyakh getel uyakh gazar oldsongüi."
+  },
+  {
+   "mn": "Цагдаа дуудах гэтэл жолооч машинаа хөдөлгөчихлөө.",
+   "en": "I was about to call the police, but then the driver moved his car.",
+   "alt_mn": [
+    "Цагдаа дуудах гэтэл жолооч машинаа хөдөлгөчихсөн."
+   ],
+   "alt_en": [
+    "I was going to call the police, but the driver moved his car."
+   ],
+   "mn_latin": "Tsagdaa duudakh getel jolooch mashinaa khödölgöchikhlöö."
+  },
+  {
+   "mn": "Гэрлэн дохио ногоон болсон ч машинууд хөдлөхгүй байлаа.",
+   "en": "The light turned green, but the cars wouldn't move.",
+   "alt_mn": [
+    "Гэрлэн дохио ногоон болсон ч машинууд хөдөлсөнгүй."
+   ],
+   "alt_en": [
+    "The light turned green, but the cars still wouldn't move."
+   ],
+   "mn_latin": "Gerlen dokhio nogoon bolson ch mashinuud khödlökhgüi bailaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "Blocked plans with -х гэтэл / Past refusal with 'wouldn't'",
+  "title_mn": "-х гэтэл хэлбэр / Өнгөрсөн цагийн татгалзал 'wouldn't'",
+  "explain_en": "To say 'I was about to do X, but then Y happened,' Mongolian adds гэтэл to the future participle (-х): орох гэтэл 'I was about to go in, but…', тойрох гэтэл 'I tried to go around, but…'. The second part tells you what got in the way, often with the 'unexpected' form -чих-: машин зогсчихсон байсан 'a car was (already) parked there'. The subject of the first part is usually 'I' and can be left out.",
+  "explain_mn": "Англи хэлэнд хэн нэгэн өнгөрсөн хугацаанд ямар нэг зүйл хийхээс татгалзсаныг 'wouldn't + үйл үг' хэлбэрээр илэрхийлдэг: The driver wouldn't move. 'Жолооч хөдлөхгүй байсан (хөдлөхийг хүсээгүй).' Энэ нь 'чадаагүй' (couldn't) гэсэн утгагүй, харин 'хүсээгүй, зөвшөөрөөгүй' гэсэн утгатай. Машин, хаалга зэрэг юманд ч хэрэглэж болно: The door wouldn't open. 'Хаалга онгойхгүй байсан.' Өгүүлбэрийн төгсгөлд үйл үгийг орхиж болно: I asked him to move, but he wouldn't.",
+  "examples": [
+   {
+    "mn": "Би дугуйн зам руу орох гэтэл машин зогсчихсон байсан.",
+    "en": "I was about to get into the bike lane, but a car was parked there.",
+    "mn_latin": "Bi duguin zam ruu orokh getel mashin zogschikhson baisan."
+   },
+   {
+    "mn": "Уулзвар гатлах гэтэл гэрлэн дохио улаан болчихлоо.",
+    "en": "I was about to cross the intersection, but the light turned red.",
+    "mn_latin": "Uulzvar gatlakh getel gerlen dokhio ulaan bolchikhloo."
+   },
+   {
+    "mn": "Жолоочоос машинаа хөдөлгөхийг гуйсан ч тэр хөдөлгөөгүй.",
+    "en": "I asked the driver to move his car, but he wouldn't.",
+    "mn_latin": "Joloochoos mashinaa khödölgökhiig guisan ch ter khödölgöögüi."
+   },
+   {
+    "mn": "Таксины жолооч надад зам тавьж өгөхгүй байсан.",
+    "en": "The taxi driver wouldn't let me pass.",
+    "mn_latin": "Taksiny jolooch nadad zam tavij ögökhgüi baisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би дугуйн зам руу орох ___ машин зогсчихсон байсан.",
+   "answer": "гэтэл",
+   "options": [
+    "гэтэл",
+    "болохоор",
+    "тул",
+    "бол"
+   ],
+   "translation": "I was about to get into the bike lane, but a car was parked there.",
+   "explain_en": "гэтэл after the -х form means 'I was about to…, but then…'. болохоор and тул mean 'because', and бол means 'if', which don't fit a blocked plan.",
+   "explain_mn": "'-х гэтэл' нь хийх гэж байсан үйлдэл саад тотгортой тулгарсныг илэрхийлнэ. 'Болохоор', 'тул' нь шалтгаан, 'бол' нь болзол заадаг тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Уулзвар гатлах гэтэл гэрлэн ___ улаан болчихлоо.",
+   "answer": "дохио",
+   "options": [
+    "дохио",
+    "зам",
+    "зогсоол",
+    "уулзвар"
+   ],
+   "translation": "I was about to cross the intersection, but the traffic light turned red.",
+   "explain_en": "'Traffic light' is гэрлэн дохио, literally 'light signal'. Only a signal can turn red.",
+   "explain_mn": "Улаан болдог зүйл бол гэрлэн дохио. Бусад үгс нь энэ утгад тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Би машиныг тойр___ гэтэл ард байсан автобус дуут дохио дарсан.",
+   "answer": "ох",
+   "options": [
+    "ох",
+    "оод",
+    "сон",
+    "вол"
+   ],
+   "translation": "I tried to go around the car, but the bus behind me honked.",
+   "explain_en": "гэтэл needs the future participle -х, so тойрох. -оод means 'and then', -сон is a past form, and -вол means 'if'.",
+   "explain_mn": "'Гэтэл'-ийн өмнө үйл үг ирээдүй цагийн нөхцөл '-х' авна: тойрох гэтэл. Бусад нөхцөлүүд энэ бүтцэд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I asked the driver to move his car, but he ___.",
+   "answer": "wouldn't",
+   "options": [
+    "wouldn't",
+    "won't",
+    "doesn't",
+    "hasn't"
+   ],
+   "translation": "Жолоочоос машинаа хөдөлгөхийг гуйсан ч тэр хөдөлгөөгүй.",
+   "explain_en": "The story is in the past and the driver refused, so use 'wouldn't'. 'Won't' and 'doesn't' are present, and 'hasn't' doesn't fit.",
+   "explain_mn": "Өнгөрсөн цагт хэн нэгэн татгалзсаныг 'wouldn't' гэж хэлнэ. 'Won't', 'doesn't' нь одоо цаг, 'hasn't' энд утгагүй."
+  },
+  {
+   "lang": "en",
+   "text": "The cars ___ let me into the lane.",
+   "answer": "wouldn't",
+   "options": [
+    "wouldn't",
+    "didn't wanted",
+    "weren't",
+    "won't"
+   ],
+   "translation": "Машинууд намайг зам руу оруулахгүй байсан.",
+   "explain_en": "'Wouldn't' + base verb shows past refusal. 'Didn't wanted' is incorrect (it should be 'didn't want to'), 'weren't let me' is not grammatical, and 'won't' is present or future.",
+   "explain_mn": "'Wouldn't'-ийн дараа үйл үг үндсэн хэлбэрээрээ (let) ирнэ. 'Didn't wanted' буруу хэлбэр, 'won't' нь одоо эсвэл ирээдүй цаг."
+  },
+  {
+   "lang": "en",
+   "text": "I was ___ to turn left when the light changed.",
+   "answer": "about",
+   "options": [
+    "about",
+    "around",
+    "nearly",
+    "close"
+   ],
+   "translation": "Би зүүн тийш эргэх гэтэл гэрлэн дохио солигдчихлоо.",
+   "explain_en": "'Was about to + verb' means you were just going to do something. It's the English match for -х гэтэл.",
+   "explain_mn": "'Was about to + үйл үг' нь 'хийх гэж байтал' гэсэн утгатай бөгөөд монгол хэлний '-х гэтэл'-тэй дүйцнэ. Бусад үгс 'to'-той ингэж хэрэглэгддэггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Сара, яагаад хоцорчихов оо? Дугуйгаар ирсэн биз дээ?",
+   "en": "Sarah, why are you late? You came by bike, didn't you?",
+   "mn_latin": "Sara, yaagaad khotsorchikhov oo? Duguigaar irsen biz dee?"
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Тийм ээ, гэхдээ замдаа маш их саатлаа. Дугуйн зам руу орох гэтэл машин зогсчихсон байсан.",
+   "en": "Yes, but I got held up a lot on the way. I was about to get into the bike lane, but a car was parked there.",
+   "mn_latin": "Tiim ee, gekhdee zamdaa mash ikh saatlaa. Duguin zam ruu orokh getel mashin zogschikhson baisan."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Энд байнга тийм байдаг. Жолоочид нь юм хэлсэн үү?",
+   "en": "That happens here all the time. Did you say anything to the driver?",
+   "mn_latin": "End bainga tiim baidag. Joloochid ni yum khelsen üü?"
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Машинаа хөдөлгөөч гэж гуйсан ч тэр хөдөлгөөгүй. Тэгээд би машиныг тойрох гэтэл ард байсан автобус дуут дохио дарсан.",
+   "en": "I asked him to move his car, but he wouldn't. Then I tried to go around it, but the bus behind me honked.",
+   "mn_latin": "Mashinaa khödölgööch gej guisan ch ter khödölgöögüi. Tegeed bi mashinyg toirokh getel ard baisan avtobus duut dokhio darsan."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Аюултай юм аа. Явган хүний зам руу гарчихгүй яасан юм?",
+   "en": "That's dangerous. Why didn't you just get on the sidewalk?",
+   "mn_latin": "Ayuultai yum aa. Yavgan khünii zam ruu garchikhgüi yaasan yum?"
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Гарах гэтэл хүн их байсан. Уулзвар дээр ирэхэд гэрлэн дохио ногоон болсон ч машинууд хөдлөхгүй байлаа.",
+   "en": "I tried, but it was too crowded. When I got to the intersection, the light turned green, but the cars wouldn't move.",
+   "mn_latin": "Garakh getel khün ikh baisan. Uulzvar deer irekhed gerlen dokhio nogoon bolson ch mashinuud khödlökhgüi bailaa."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Өглөөний түгжрэл л дээ. Маргааш Сөүлийн гудамжаар яваарай, тэнд арай чөлөөтэй.",
+   "en": "That's the morning traffic jam. Tomorrow take Seoul Street, it's a bit clearer there.",
+   "mn_latin": "Öglöönii tügjrel l dee. Margaash Söüliin gudamjaar yavaarai, tend arai chölöötei."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "За, баярлалаа. Гэхдээ хотод аюулгүй дугуйн зам үнэхээр хангалттай байхгүй байна.",
+   "en": "Okay, thanks. But there really aren't enough safe bike lanes in this city.",
+   "mn_latin": "Za, bayarlalaa. Gekhdee khotod ayuulgüi duguin zam ünekheer khangalttai baikhgüi baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar has some of the worst traffic congestion in Asia, and the bike lanes painted along major roads are often used for parking or as an extra car lane. Many cyclists end up riding on sidewalks, and the city has tried car-free days and license-plate restrictions (cars with certain plate numbers can't drive on certain weekdays) to ease traffic. In winter, ice and snow make cycling much harder, so most people ride from late spring to early fall.",
+  "mn": "Улаанбаатар бол Азийн хамгийн их түгжрэлтэй хотуудын нэг бөгөөд томоохон замуудын дагуу зурсан дугуйн замыг ихэвчлэн машин зогсоох эсвэл нэмэлт эгнээ болгон ашигладаг. Иймээс олон дугуйчин явган хүний замаар явахаас өөр аргагүй болдог бөгөөд хот түгжрэлийг бууруулахын тулд машингүй өдөр, гаригаар машины дугаарын хязгаарлалт зэргийг хэрэгжүүлж ирсэн. Өвөл мөс, цас ихтэй тул ихэнх хүн хаврын сүүлээс намрын эхэн хүртэл дугуй унадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, natural lesson. Only small fixes were needed: one dialogue question that didn't fit its answer, one inaccurate explanation, and a slight translation mismatch."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Mostly solid; fixed 'уулзвар гарах' → 'гатлах' in all three places, an unnatural vocab example, and an inaccurate culture detail.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "Natural Khalkha needs the dative: унахад аюулгүй"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "'Уулзвар гарах' is unnatural; 'to cross' is гатлах"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "Same fix as the sentence: 'cross' is гатлах"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "Same fix as the sentence: 'cross' is гатлах"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "UB restricts cars by the last digit of the plate on each weekday, not by odd and even numbers"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Plate rule is by weekday (accuracy); now matches the en version"
+   }
+  ]
+ }
+}

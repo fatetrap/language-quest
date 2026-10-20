@@ -1,0 +1,461 @@
+{
+ "intro_en": "You will learn how to warn people and be warned about household taboos when visiting a herder family, using бүү, битгий and -х хэрэггүй. You will also practice English negative commands and shouldn't.",
+ "intro_mn": "Малчин айлд зочилж очоод гэрийн цээр хоригийн талаар сануулах, сануулга авах хэлбэрийг бүү, битгий, -х хэрэггүй бүтцээр сурна. Мөн англи хэлний үгүйсгэсэн тушаал болон shouldn't-ийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "босго",
+   "en": "threshold",
+   "pos": "noun",
+   "example_mn": "Гэрийн босгон дээр бүү гишгээрэй.",
+   "example_en": "Don't step on the threshold of the ger.",
+   "mn_latin": "bosgo"
+  },
+  {
+   "mn": "гал",
+   "en": "fire; hearth",
+   "pos": "noun",
+   "example_mn": "Галд хог хаяж болохгүй.",
+   "example_en": "You must not throw trash into the fire.",
+   "mn_latin": "gal"
+  },
+  {
+   "mn": "цээр",
+   "en": "taboo; prohibition",
+   "pos": "noun",
+   "example_mn": "Энэ айлд олон цээр бий.",
+   "example_en": "This family has many taboos.",
+   "mn_latin": "tseer"
+  },
+  {
+   "mn": "золгүй",
+   "en": "unlucky; ill-omened",
+   "pos": "adjective",
+   "example_mn": "Үүнийг золгүй гэж үздэг.",
+   "example_en": "People consider this unlucky.",
+   "mn_latin": "zolgüi"
+  },
+  {
+   "mn": "ёс",
+   "en": "custom; etiquette",
+   "pos": "noun",
+   "example_mn": "Энэ бол манай нутгийн ёс.",
+   "example_en": "This is the custom of our region.",
+   "mn_latin": "yos"
+  },
+  {
+   "mn": "гишгэх",
+   "en": "to step on",
+   "pos": "verb",
+   "example_mn": "Босгыг гишгэж болохгүй.",
+   "example_en": "You must not step on the threshold.",
+   "mn_latin": "gishgekh"
+  },
+  {
+   "mn": "заах",
+   "en": "to point at",
+   "pos": "verb",
+   "example_mn": "Гал руу хуруугаараа бүү заа.",
+   "example_en": "Don't point your finger at the fire.",
+   "mn_latin": "zaakh"
+  },
+  {
+   "mn": "асгах",
+   "en": "to pour; to spill",
+   "pos": "verb",
+   "example_mn": "Галд ус бүү асга.",
+   "example_en": "Don't pour water on the fire.",
+   "mn_latin": "asgakh"
+  },
+  {
+   "mn": "сануулах",
+   "en": "to warn; to remind",
+   "pos": "verb",
+   "example_mn": "Эзэгтэй бидэнд сануулсан.",
+   "example_en": "The hostess warned us.",
+   "mn_latin": "sanuulakh"
+  },
+  {
+   "mn": "зочин",
+   "en": "guest",
+   "pos": "noun",
+   "example_mn": "Зочин айлын ёсыг дагах хэрэгтэй.",
+   "example_en": "A guest should follow the household's customs.",
+   "mn_latin": "zochin"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Босго гишгэж болохгүй.",
+   "en": "You must not step on the threshold.",
+   "alt_mn": [
+    "Босго бүү гишгээрэй."
+   ],
+   "alt_en": [
+    "You are not allowed to step on the threshold."
+   ],
+   "mn_latin": "Bosgo gishgej bolokhgüi."
+  },
+  {
+   "mn": "Галд ус бүү асга.",
+   "en": "Don't pour water on the fire.",
+   "alt_mn": [
+    "Галд ус битгий асга."
+   ],
+   "alt_en": [
+    "Do not pour water on the hearth."
+   ],
+   "mn_latin": "Gald us büü asga."
+  },
+  {
+   "mn": "Гал руу хуруугаараа битгий заа.",
+   "en": "Don't point your finger at the fire.",
+   "alt_mn": [
+    "Гал руу хуруугаараа бүү заа."
+   ],
+   "alt_en": [
+    "Don't point at the hearth with your finger."
+   ],
+   "mn_latin": "Gal ruu khuruugaaraa bitgii zaa."
+  },
+  {
+   "mn": "Энэ айлд олон цээр байдаг.",
+   "en": "This family has many taboos.",
+   "alt_mn": [
+    "Энэ айлд цээр хоригтой зүйл их байдаг."
+   ],
+   "alt_en": [
+    "There are many taboos in this household."
+   ],
+   "mn_latin": "Ene aild olon tseer baidag."
+  },
+  {
+   "mn": "Босго дээр суух хэрэггүй.",
+   "en": "You shouldn't sit on the threshold.",
+   "alt_mn": [
+    "Босго дээр суух хэрэггүй шүү."
+   ],
+   "alt_en": [
+    "You shouldn't sit on the doorsill."
+   ],
+   "mn_latin": "Bosgo deer suukh khereggüi."
+  },
+  {
+   "mn": "Үүнийг золгүй гэж үздэг.",
+   "en": "People consider this unlucky.",
+   "alt_mn": [
+    "Үүнийг золгүй зүйл гэдэг."
+   ],
+   "alt_en": [
+    "This is considered unlucky.",
+    "It's thought to bring bad luck."
+   ],
+   "mn_latin": "Üüniig zolgüi gej üzdeg."
+  },
+  {
+   "mn": "Зочин айлын ёсыг дагах ёстой.",
+   "en": "A guest must follow the household's customs.",
+   "alt_mn": [
+    "Зочин айлын ёсыг баримтлах хэрэгтэй."
+   ],
+   "alt_en": [
+    "Guests should follow the family's customs."
+   ],
+   "mn_latin": "Zochin ailyn yosyg dagakh yostoi."
+  },
+  {
+   "mn": "Санаа битгий зов, чамайг мэдээгүйд чинь хэн ч буруутгахгүй.",
+   "en": "Don't worry, nobody will blame you for not knowing.",
+   "alt_mn": [
+    "Санаа зоволтгүй, мэдээгүй бол буруутгахгүй."
+   ],
+   "alt_en": [
+    "Don't worry, no one will blame you for not knowing."
+   ],
+   "mn_latin": "Sanaa bitgii zov, chamaig medeegüid chini khen ch buruutgakhgüi."
+  },
+  {
+   "mn": "Эзэгтэй бидэнд галд хог хаяхгүй байхыг сануулсан.",
+   "en": "The hostess warned us not to throw trash into the fire.",
+   "alt_mn": [
+    "Эзэгтэй галд хог хаяхгүй байхыг бидэнд сануулсан."
+   ],
+   "alt_en": [
+    "The hostess reminded us not to put garbage in the fire."
+   ],
+   "mn_latin": "Ezegtei bidend gald khog khayakhgüi baikhyg sanuulsan."
+  },
+  {
+   "mn": "Хутгаа галд бүү хий.",
+   "en": "Don't put your knife into the fire.",
+   "alt_mn": [
+    "Хутгыг галд бүү хий."
+   ],
+   "alt_en": [
+    "Don't stick a knife in the fire."
+   ],
+   "mn_latin": "Khutgaa gald büü khii."
+  },
+  {
+   "mn": "Эдгээр цээрийг бүгдийг нь сайн мэдэх шаардлагагүй, гэхдээ хүндэлж байх хэрэгтэй.",
+   "en": "You don't need to know all these taboos exactly, but you should respect them.",
+   "alt_mn": [
+    "Эдгээр цээрийг бүгдийг нь мэдэх шаардлагагүй ч хүндэлж байх хэрэгтэй шүү."
+   ],
+   "alt_en": [
+    "There's no need to know every taboo exactly, but be respectful."
+   ],
+   "mn_latin": "Edgeer tseeriig bügdiig ni sain medekh shaardlagagüi, gekhdee khündelj baikh kheregtei."
+  },
+  {
+   "mn": "Орохдоо босгыг гишгэхгүй байхыг хичээгээрэй.",
+   "en": "When you enter, try not to step on the threshold.",
+   "alt_mn": [
+    "Гэрт орохдоо босго гишгэхгүй байхыг хичээгээрэй."
+   ],
+   "alt_en": [
+    "Make sure you don't step on the threshold when you go in."
+   ],
+   "mn_latin": "Orokhdoo bosgyg gishgekhgüi baikhyg khicheegeerei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Prohibitives: бүү, битгий and -х хэрэггүй",
+  "title_mn": "Хориглох хэлбэр: бүү, битгий ба -х хэрэггүй",
+  "explain_en": "To say 'Don't...!' put бүү or битгий before the verb stem: Бүү гишгэ! Битгий заа! Both work; бүү is a bit more formal or firm, битгий is common in speech. Add -аарай/-ээрэй/-оорой/-өөрэй (by vowel harmony) for a softer, polite tone: Бүү гишгээрэй. For 'no need to / shouldn't', use verb + -х хэрэггүй: Босго дээр суух хэрэггүй. Note that 'болохгүй' (Гишгэж болохгүй) states a rule: 'not allowed'.",
+  "explain_mn": "Монгол хэлэнд хориглохдоо үйл үгийн язгуурын өмнө бүү эсвэл битгий хэрэглэнэ. Англи хэлэнд Don't + үйл үг гэж хэлнэ: Don't step on it! Эелдэг хэлбэрт Please don't... гэнэ. Shouldn't нь зөвлөгөө өгнө: You shouldn't sit there (суух хэрэггүй). Must not нь чанга хориг: You must not touch the fire. Don't need to нь 'шаардлагагүй' гэсэн өөр утгатай: You don't need to bring gifts.",
+  "examples": [
+   {
+    "mn": "Босго бүү гишгэ.",
+    "en": "Don't step on the threshold.",
+    "mn_latin": "Bosgo büü gishge."
+   },
+   {
+    "mn": "Галд ус битгий асга.",
+    "en": "Don't pour water on the fire.",
+    "mn_latin": "Gald us bitgii asga."
+   },
+   {
+    "mn": "Гал руу заах хэрэггүй.",
+    "en": "You shouldn't point at the fire.",
+    "mn_latin": "Gal ruu zaakh khereggüi."
+   },
+   {
+    "mn": "Бүү гишгээрэй.",
+    "en": "Please don't step on it.",
+    "mn_latin": "Büü gishgeerei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Галд ус ___ асга.",
+   "answer": "бүү",
+   "options": [
+    "бүү",
+    "болохгүй",
+    "хэрэггүй",
+    "үгүй"
+   ],
+   "translation": "Don't pour water on the fire.",
+   "explain_en": "Бүү goes before the bare verb stem to make a prohibition.",
+   "explain_mn": "Бүү нь үйлийн язгуурын өмнө орж хориг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Гал руу хуруугаараа ___ заа.",
+   "answer": "битгий",
+   "options": [
+    "битгий",
+    "хэрэггүй",
+    "заасан",
+    "болохгүй"
+   ],
+   "translation": "Don't point your finger at the fire.",
+   "explain_en": "Битгий is the common spoken prohibitive before a verb stem.",
+   "explain_mn": "Битгий нь үйл үгийн язгуурын өмнө орж ярианд түгээмэл хориглоно."
+  },
+  {
+   "lang": "mn",
+   "text": "Босго дээр суу___ хэрэггүй.",
+   "answer": "х",
+   "options": [
+    "х",
+    "сан",
+    "ж",
+    "лаа"
+   ],
+   "translation": "You shouldn't sit on the threshold.",
+   "explain_en": "Use the verb stem + -х before хэрэггүй: суух хэрэггүй.",
+   "explain_mn": "Хэрэггүй-н өмнө үйл үгийн -х нөхцөл орно: суух хэрэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Please ___ step on the threshold.",
+   "answer": "don't",
+   "options": [
+    "don't",
+    "not",
+    "doesn't",
+    "no"
+   ],
+   "translation": "Босго битгий гишгээрэй.",
+   "explain_en": "Negative commands use don't + base verb.",
+   "explain_mn": "Үгүйсгэсэн тушаалд don't + үйл үгийн анхны хэлбэр хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "You ___ point at the fire; it is considered rude.",
+   "answer": "shouldn't",
+   "options": [
+    "shouldn't",
+    "doesn't",
+    "aren't",
+    "haven't"
+   ],
+   "translation": "Гал руу заах хэрэггүй, үүнийг бусдыг үл хүндэтгэсэн үйлдэл гэж үздэг.",
+   "explain_en": "Shouldn't + base verb gives advice about what is not recommended.",
+   "explain_mn": "Shouldn't + үйл үг нь 'хэрэггүй' гэсэн зөвлөгөө илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Don't ___ water on the fire.",
+   "answer": "pour",
+   "options": [
+    "pour",
+    "pouring",
+    "poured",
+    "to pour"
+   ],
+   "translation": "Галд ус бүү асга.",
+   "explain_en": "After don't, use the base form of the verb.",
+   "explain_mn": "Don't-ийн дараа үйл үг анхны хэлбэрээрээ орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байцгаана уу! Бид таны гэрт орж болох уу?",
+   "en": "Hello! May we come into your ger?",
+   "mn_latin": "Sain baitsgaana uu! Bid tany gert orj bolokh uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тавтай морилно уу! Гэхдээ босгыг бүү гишгээрэй.",
+   "en": "Welcome! But please don't step on the threshold.",
+   "mn_latin": "Tavtai morilno uu! Gekhdee bosgyg büü gishgeerei."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Уучлаарай, яагаад гишгэж болохгүй вэ?",
+   "en": "Sorry, why can't we step on it?",
+   "mn_latin": "Uuchlaarai, yaagaad gishgej bolokhgüi ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Энэ бол манай ёс. Босгыг гэрийн эзний хүзүү гэж үздэг.",
+   "en": "It's our custom. The threshold is seen as the neck of the head of the household.",
+   "mn_latin": "Ene bol manai yos. Bosgyg geriin eznii khüzüü gej üzdeg."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Ойлголоо. Галын тухайд өөр цээр бий юу?",
+   "en": "I see. Are there other taboos about the fire?",
+   "mn_latin": "Oilgoloo. Galyn tukhaid öör tseer bii yuu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Бий. Галд ус битгий асгаарай, хутга хийж болохгүй.",
+   "en": "Yes. Don't pour water on it, and you must not put a knife in it.",
+   "mn_latin": "Bii. Gald us bitgii asgaarai, khutga khiij bolokhgüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Гал руу хуруугаараа заах ч хэрэггүй биз?",
+   "en": "We shouldn't point a finger at the fire either, right?",
+   "mn_latin": "Gal ruu khuruugaaraa zaakh ch khereggüi biz?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Зөв. Золгүй гэдэг. Гэхдээ мэдээгүй бол санаа зоволтгүй.",
+   "en": "Right. It's said to be unlucky. But don't worry if you didn't know.",
+   "mn_latin": "Zöv. Zolgüi gedeg. Gekhdee medeegüi bol sanaa zovoltgüi."
+  }
+ ],
+ "culture_note": {
+  "en": "In a Mongolian ger, the hearth is sacred and is treated with great respect: people don't pour water on it, throw rubbish into it, or step over it. The threshold is also important, and guests are expected to step over it rather than on it. Such taboos (цээр) are best seen as everyday etiquette passed down through generations, and hosts usually forgive guests who break them unknowingly.",
+  "mn": "Монгол гэрт гал бол ариун бөгөөд түүнд ус асгах, хог хаях, дээгүүр алхах зэргээс цээрлэдэг. Босго мөн чухал бөгөөд зочин босгыг гишгэлгүй давдаг. Эдгээр цээр нь үеэс үед уламжилж ирсэн өдөр тутмын ёс юм; мэдэлгүй алдсан зочныг айлын эзэд ихэвчлэн ойлгож өршөөдөг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 13,
+  "notes": "Mostly good content with a made-up distractor, a wrong verb (дэвсэх), some meaning-shifting alts, and a grammar explain_mn that does not explain the Mongolian structure."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 10,
+  "notes": "Fixed the case government of сануулах, an ungrammatical alt, two inaccurate alts, an ambiguous blank, and register in the dialogue.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "сануулах takes the dative (бидэнд), not the accusative"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "Dative бидэнд is required with сануулах"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "'respect' does not mean the same as 'follow'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "'we' changes the subject (хэн ч = nobody)"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "битгий cannot go with the -х form; the alt was ungrammatical"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Polite suffix list was incomplete for vowel harmony"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'You don't point at the fire' is also correct English, so 'don't' was a second right answer"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "Polite welcome to guests, consistent with та register"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Polite imperative to guests, consistent register"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Adds ч to match 'either' in the English"
+   }
+  ]
+ }
+}

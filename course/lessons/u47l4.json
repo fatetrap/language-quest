@@ -1,0 +1,441 @@
+{
+ "intro_en": "You will learn how Mongolian particles like шүү, биз and даа/дээ color a sentence with reminder, expected agreement, or gentle complaint, and how English does the same with tag questions, 'you know' and stress.",
+ "intro_mn": "Та энэ хичээлээр шүү, биз, даа/дээ зэрэг сул үгс өгүүлбэрт сануулга, зөвшилцөх хүлээлт, зөөлөн гомдол хэрхэн нэмдгийг, мөн англи хэлэнд tag асуулт, 'you know', өргөлт аялгаар үүнийг хэрхэн илэрхийлдгийг сурна.",
+ "vocab": [
+  {
+   "mn": "мэдээж",
+   "en": "of course, obviously",
+   "pos": "adverb",
+   "example_mn": "Мэдээж би чамд тусална.",
+   "example_en": "Of course I'll help you.",
+   "mn_latin": "medeej"
+  },
+  {
+   "mn": "за яахав",
+   "en": "oh well, so what, fine",
+   "pos": "phrase",
+   "example_mn": "За яахав, дараагийн удаа болно доо.",
+   "example_en": "Oh well, there's always next time.",
+   "mn_latin": "za yaakhav"
+  },
+  {
+   "mn": "чи ч гэсэн",
+   "en": "even you, you too",
+   "pos": "phrase",
+   "example_mn": "Чи ч гэсэн ингэж хэлнэ гэж бодоогүй.",
+   "example_en": "I didn't think even you would say that.",
+   "mn_latin": "chi ch gesen"
+  },
+  {
+   "mn": "сануулах",
+   "en": "to remind",
+   "pos": "verb",
+   "example_mn": "Ээж надад цүнхээ авахыг сануулсан.",
+   "example_en": "Mom reminded me to take my bag.",
+   "mn_latin": "sanuulakh"
+  },
+  {
+   "mn": "мартах",
+   "en": "to forget",
+   "pos": "verb",
+   "example_mn": "Утсаа битгий март.",
+   "example_en": "Don't forget your phone.",
+   "mn_latin": "martakh"
+  },
+  {
+   "mn": "санал нэг байх",
+   "en": "to agree",
+   "pos": "phrase",
+   "example_mn": "Энэ дээр бид санал нэг байна.",
+   "example_en": "We agree on this.",
+   "mn_latin": "sanal neg baikh"
+  },
+  {
+   "mn": "гомдоллох",
+   "en": "to complain",
+   "pos": "verb",
+   "example_mn": "Тэр өдөр бүр ажлынхаа талаар гомдоллодог.",
+   "example_en": "He complains about his work every day.",
+   "mn_latin": "gomdollokh"
+  },
+  {
+   "mn": "санаа зовох",
+   "en": "to worry",
+   "pos": "verb",
+   "example_mn": "Битгий санаа зов, бүгд сайн болно.",
+   "example_en": "Don't worry, everything will be fine.",
+   "mn_latin": "sanaa zovokh"
+  },
+  {
+   "mn": "өргөлт",
+   "en": "stress, emphasis",
+   "pos": "noun",
+   "example_mn": "Энэ үг дээр өргөлт тавьж хэлээрэй.",
+   "example_en": "Put the stress on this word.",
+   "mn_latin": "örgölt"
+  },
+  {
+   "mn": "аялга",
+   "en": "intonation",
+   "pos": "noun",
+   "example_mn": "Аялгаас нь тэр уурласан нь мэдэгдэж байлаа.",
+   "example_en": "You could tell from his intonation that he was angry.",
+   "mn_latin": "ayalga"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Маргааш эрт босох ёстой шүү.",
+   "en": "You have to get up early tomorrow, remember.",
+   "alt_mn": [],
+   "alt_en": [
+    "Remember, you have to get up early tomorrow.",
+    "Don't forget, you need to get up early tomorrow."
+   ],
+   "mn_latin": "Margaash ert bosokh yostoi shüü."
+  },
+  {
+   "mn": "Хүйтэн байна, дулаан хувцаслаарай шүү.",
+   "en": "It's cold, so dress warmly, okay?",
+   "alt_mn": [
+    "Хүйтэн байна, дулаан хувцасла шүү."
+   ],
+   "alt_en": [
+    "It's cold, so make sure you dress warmly."
+   ],
+   "mn_latin": "Khüiten baina, dulaan khuvtsaslaarai shüü."
+  },
+  {
+   "mn": "Энэ хоол амттай биз?",
+   "en": "This food is tasty, right?",
+   "alt_mn": [
+    "Энэ хоол амттай биз дээ?"
+   ],
+   "alt_en": [
+    "This food is delicious, isn't it?"
+   ],
+   "mn_latin": "Ene khool amttai biz?"
+  },
+  {
+   "mn": "Чи маргааш ирнэ биз дээ.",
+   "en": "You'll come tomorrow, right?",
+   "alt_mn": [],
+   "alt_en": [
+    "You're coming tomorrow, aren't you?"
+   ],
+   "mn_latin": "Chi margaash irne biz dee."
+  },
+  {
+   "mn": "За яахав дээ, одоо болохгүй бол дараа хийе.",
+   "en": "Oh well, if it can't be done now, let's do it later.",
+   "alt_mn": [
+    "За яахав, одоо болохгүй бол дараа хийе."
+   ],
+   "alt_en": [
+    "Fine, if we can't do it now, let's do it later."
+   ],
+   "mn_latin": "Za yaakhav dee, odoo bolokhgüi bol daraa khiiye."
+  },
+  {
+   "mn": "Мэдээж чамайг хүлээнэ шүү.",
+   "en": "Of course I'll wait for you, don't worry.",
+   "alt_mn": [],
+   "alt_en": [
+    "Of course I'll be waiting for you."
+   ],
+   "mn_latin": "Medeej chamaig khüleene shüü."
+  },
+  {
+   "mn": "Чи ч гэсэн надад тусалсангүй дээ.",
+   "en": "Even you didn't help me, you know.",
+   "alt_mn": [
+    "Чи ч гэсэн надад тусалсангүй шүү дээ."
+   ],
+   "alt_en": [
+    "Even you didn't help me, come on."
+   ],
+   "mn_latin": "Chi ch gesen nadad tusalsangüi dee."
+  },
+  {
+   "mn": "Битгий санаа зов, бүх юм сайхан болно доо.",
+   "en": "Don't worry, everything will turn out fine.",
+   "alt_mn": [
+    "Санаа зоволтгүй, бүх юм сайхан болно доо."
+   ],
+   "alt_en": [
+    "Don't worry, it'll all work out, you'll see."
+   ],
+   "mn_latin": "Bitgii sanaa zov, bükh yum saikhan bolno doo."
+  },
+  {
+   "mn": "Өчигдөр чамайг хүлээсэн шүү дээ, яагаад ирээгүй юм бэ?",
+   "en": "I waited for you yesterday, you know. Why didn't you come?",
+   "alt_mn": [],
+   "alt_en": [
+    "I was waiting for you yesterday! Why didn't you come?"
+   ],
+   "mn_latin": "Öchigdör chamaig khüleesen shüü dee, yaagaad ireegüi yum be?"
+  },
+  {
+   "mn": "Хичээлийн дараа кино үзье, за юу?",
+   "en": "Let's watch a movie after class, okay?",
+   "alt_mn": [],
+   "alt_en": [
+    "Let's watch a movie after class, shall we?"
+   ],
+   "mn_latin": "Khicheeliin daraa kino üziye, za yuu?"
+  },
+  {
+   "mn": "Багшийн хэлснийг битгий март, тэр чухал шүү.",
+   "en": "Don't forget what the teacher said, it's important.",
+   "alt_mn": [],
+   "alt_en": [
+    "You'd better not forget what the teacher said. It's important."
+   ],
+   "mn_latin": "Bagshiin khelsniig bitgii mart, ter chukhal shüü."
+  },
+  {
+   "mn": "Дандаа л би хийдэг дээ, та нар ч бас тусалж үз дээ.",
+   "en": "I'm always the one doing it, you know. You all should try helping too.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's always me who does it. Come on, you guys try helping too."
+   ],
+   "mn_latin": "Dandaa l bi khiideg dee, ta nar ch bas tusalj üz dee."
+  }
+ ],
+ "grammar": {
+  "title_en": "Mood particles: шүү, биз, даа/дээ",
+  "title_mn": "Сэтгэлийн өнгө илэрхийлэх сул үгс: шүү, биз, даа/дээ",
+  "explain_en": "These small words come at the end of a sentence and carry feeling. Шүү is a firm but friendly reminder or emphasis: 'Don't forget, I mean it' (Утсаа аваарай шүү). Биз expects the listener to agree, like 'right?' or 'surely': Чи ирнэ биз дээ? Даа/дээ (vowel harmony: даа, доо, дээ, дөө) adds appeal, reassurance or mild complaint: Хүлээгээч дээ ('Oh, wait for me!'), Болно доо ('It'll be fine, really'). Шүү дээ means 'you know, after all' and justifies a point. They belong to casual speech with friends and family. With elders or strangers they can sound too familiar, so add polite endings or leave them out. English does the same job with intonation, tag questions ('You're coming, aren't you?': a positive statement takes a negative tag, a negative statement takes a positive tag) and 'you know'.",
+  "explain_mn": "Эдгээр сул үгс өгүүлбэрийн төгсгөлд орж, сэтгэлийн өнгө нэмдэг. Шүү нь хатуу боловч найрсаг сануулга, онцлолыг илэрхийлнэ: 'Мартуузай, үнэхээр' (Утсаа аваарай шүү). Биз нь сонсогч зөвшөөрнө гэж хүлээж буйг илэрхийлнэ, англиар 'right?', 'surely' гэсэнтэй адил: Чи ирнэ биз дээ? Даа/дээ (эгшиг зохицох ёсоор даа, доо, дээ, дөө) нь гуйлт, тайвшруулга эсвэл зөөлөн гомдол нэмнэ: Хүлээгээч дээ, Болно доо. Шүү дээ нь 'шүү дээ, угаасаа' гэсэн утгаар санаагаа батална. Эдгээрийг найз нөхөд, гэр бүлтэйгээ ярихдаа хэрэглэдэг. Ахмад болон танихгүй хүнтэй ярихад хэт дотно сонсогдож болох тул хүндэтгэлийн төгсгөл нэмэх юм уу хэрэглэхгүй байх нь зүйтэй. Англи хэлэнд энэ үүргийг аялга, tag асуулт ('You're coming, aren't you?': батлах өгүүлбэрийн дараа сөрөг tag, сөрөг өгүүлбэрийн дараа батлах tag орно), 'you know' гүйцэтгэдэг.",
+  "examples": [
+   {
+    "mn": "Утсаа битгий март шүү.",
+    "en": "Don't forget your phone, okay?",
+    "mn_latin": "Utsaa bitgii mart shüü."
+   },
+   {
+    "mn": "Чи надтай санал нэг биз?",
+    "en": "You agree with me, right?",
+    "mn_latin": "Chi nadtai sanal neg biz?"
+   },
+   {
+    "mn": "Түр хүлээгээч дээ.",
+    "en": "Oh, wait a moment, will you?",
+    "mn_latin": "Tür khüleegeech dee."
+   },
+   {
+    "mn": "Би чамд хэлсэн шүү дээ.",
+    "en": "I did tell you, you know.",
+    "mn_latin": "Bi chamd khelsen shüü dee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Маргааш цагтаа ир ___.",
+   "answer": "шүү",
+   "options": [
+    "шүү",
+    "биз",
+    "уу",
+    "бол"
+   ],
+   "translation": "Come on time tomorrow, remember.",
+   "explain_en": "Шүү gives a firm but friendly reminder after a command.",
+   "explain_mn": "Шүү нь сануулга, тушаалын дараа найрсаг боловч шаардлагатай өнгө өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Чи надтай санал нэг ___?",
+   "answer": "биз",
+   "options": [
+    "биз",
+    "шүү",
+    "бэ",
+    "юм"
+   ],
+   "translation": "You agree with me, right?",
+   "explain_en": "Биз expects the listener to agree, like 'right?'.",
+   "explain_mn": "Биз нь сонсогчийн зөвшөөрлийг хүлээж буйг илтгэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Түр хүлээгээч ___, би одоо ирнэ.",
+   "answer": "дээ",
+   "options": [
+    "дээ",
+    "биз",
+    "уу",
+    "лээ"
+   ],
+   "translation": "Oh, wait a moment, I'll be right there.",
+   "explain_en": "Дээ softens a request into a friendly appeal; it often follows requests like хүлээгээч.",
+   "explain_mn": "Дээ нь хүсэлтийг зөөлрүүлж, найрсаг гуйлт болгоно."
+  },
+  {
+   "lang": "en",
+   "text": "You haven't eaten yet, ___ you?",
+   "answer": "have",
+   "options": [
+    "have",
+    "haven't",
+    "did",
+    "do"
+   ],
+   "translation": "Чи хараахан хоол идээгүй биз дээ?",
+   "explain_en": "After a negative statement ('haven't'), the tag is positive: 'have you?'.",
+   "explain_mn": "Сөрөг өгүүлбэрийн дараа батлах tag орно: 'have you?'."
+  },
+  {
+   "lang": "en",
+   "text": "She's coming tonight, ___ she?",
+   "answer": "isn't",
+   "options": [
+    "isn't",
+    "is",
+    "doesn't",
+    "won't"
+   ],
+   "translation": "Тэр өнөө орой ирнэ биз дээ?",
+   "explain_en": "A positive statement with 'is' takes a negative tag with the same verb: 'isn't she?'.",
+   "explain_mn": "Батлах өгүүлбэрийн 'is' үйл үгтэй сөрөг tag 'isn't she?' орно."
+  },
+  {
+   "lang": "en",
+   "text": "I waited for an hour, ___!",
+   "answer": "you know",
+   "options": [
+    "you know",
+    "isn't it",
+    "do you",
+    "of course not"
+   ],
+   "translation": "Би нэг цаг хүлээсэн шүү дээ!",
+   "explain_en": "'You know' adds mild complaint or reminder, like шүү дээ.",
+   "explain_mn": "'You know' нь шүү дээ-тэй адил зөөлөн гомдол, сануулга нэмнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Бат аа, маргааш ээжийнд очно биз дээ?",
+   "en": "Bat, we're going to Mom's tomorrow, right?",
+   "mn_latin": "Bat aa, margaash eejiind ochno biz dee?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Мэдээж очно. Гэхдээ эрт босох хэрэгтэй шүү.",
+   "en": "Of course we are. But we need to get up early, remember.",
+   "mn_latin": "Medeej ochno. Gekhdee ert bosokh kheregtei shüü."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Чи ч гэсэн өнгөрсөн удаад унтаж орхисон шүү дээ.",
+   "en": "You overslept last time too, you know.",
+   "mn_latin": "Chi ch gesen öngörsön udaad untaj orkhison shüü dee."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "За яахав, энэ удаад сэрүүлгээ тохируулъя.",
+   "en": "Oh well, this time I'll set an alarm.",
+   "mn_latin": "Za yaakhav, ene udaad serüülgee tokhiruulya."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бас бэлгээ битгий март. Ээж чинь хүлээж байгаа шүү.",
+   "en": "And don't forget the gift. Your mom is waiting, you know.",
+   "mn_latin": "Bas belgee bitgii mart. Eej chini khüleej baigaa shüü."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Битгий санаа зов доо, би аль хэдийн цүнхэндээ хийсэн.",
+   "en": "Don't worry, really. I already put it in my bag.",
+   "mn_latin": "Bitgii sanaa zov doo, bi ali khediin tsünkhendee khiisen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна. Ээж маш их баярлана биз?",
+   "en": "Good. Mom will be really happy, won't she?",
+   "mn_latin": "Sain baina. Eej mash ikh bayarlana biz?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Мэдээж, баярлана шүү.",
+   "en": "Of course she will, you'll see.",
+   "mn_latin": "Medeej, bayarlana shüü."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian homes, reminders like 'Be careful on the road, okay?' (Зам сайн яваарай шүү) are a normal way to show care, and they are not seen as nagging. Particles like шүү and дээ carry warmth that English often spreads across tone of voice and words like 'okay?' or 'you know'. With elders or in formal settings, speakers usually drop them or add polite endings.",
+  "mn": "Монгол айлд 'Зам сайн яваарай шүү' гэх мэт сануулга нь халамжийн илрэл бөгөөд үглээ гэж үздэггүй. Шүү, дээ зэрэг сул үгс англи хэлэнд аялга болон 'okay?', 'you know' гэх мэт үгээр дамждаг дулаан өнгийг агуулдаг. Ахмад хүнтэй ярихдаа эсвэл албан ёсны орчинд эдгээрийг ихэвчлэн хэрэглэхгүй, эсвэл хүндэтгэлийн төгсгөл нэмнэ."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 25,
+  "notes": "Mostly good concept, but unnatural 'март гэж үү' constructions, a typo, an inconsistent vocab headword, and a few mistranslations need fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 9,
+  "notes": "Fixed the grammar en/mn mismatch, a sentence pair that didn't match, a wrong word in the culture note and a case government error.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "гомдоллох takes '-ын талаар', not the ablative"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "шүү дээ matches 'you know' (complaint)"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "'Let's..., right?' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "the alternative is a statement with биз, not a suggestion"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "'We'll watch' did not match the suggestion"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "should match 'Mood particles'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "aligned with the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "the en and mn versions explained different things"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'шаналах' is the wrong word for nagging; 'албан ёсны үед' is unnatural"
+   }
+  ]
+ }
+}

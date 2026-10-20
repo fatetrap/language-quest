@@ -1,0 +1,425 @@
+{
+ "intro_en": "In this lesson you will compare ways to get to work or school, like the bus, walking, cycling, and transit apps, and plan a better route. You will review how to give choices in Mongolian with юм уу, эсвэл and -х уу, -х уу.",
+ "intro_mn": "Энэ хичээлээр та ажил, сургууль руугаа явах янз бүрийн аргыг (автобус, явганаар, дугуйгаар, тээврийн апп) харьцуулж, илүү тохиромжтой маршрут төлөвлөж сурна. Мөн англи хэлний be to, be due to, be set to хэллэгийг давтана.",
+ "vocab": [
+  {
+   "mn": "зорчих",
+   "en": "to commute, to travel",
+   "pos": "verb",
+   "example_mn": "Би өдөр бүр автобусаар зорчдог.",
+   "example_en": "I commute by bus every day.",
+   "mn_latin": "zorchikh"
+  },
+  {
+   "mn": "маршрут",
+   "en": "route",
+   "pos": "noun",
+   "example_mn": "Энэ маршрут илүү хурдан.",
+   "example_en": "This route is faster.",
+   "mn_latin": "marshrut"
+  },
+  {
+   "mn": "хуваарь",
+   "en": "schedule, timetable",
+   "pos": "noun",
+   "example_mn": "Автобусны хуваарийг аппаас харж болно.",
+   "example_en": "You can see the bus schedule in the app.",
+   "mn_latin": "khuvaari"
+  },
+  {
+   "mn": "дугуй унах",
+   "en": "to ride a bike",
+   "pos": "verb phrase",
+   "example_mn": "Зун би ажилдаа дугуй унаж явдаг.",
+   "example_en": "In summer I ride my bike to work.",
+   "mn_latin": "dugui unakh"
+  },
+  {
+   "mn": "явганаар",
+   "en": "on foot",
+   "pos": "adverb",
+   "example_mn": "Буудал хүртэл арван минут явганаар явна.",
+   "example_en": "It's a ten-minute walk to the stop.",
+   "mn_latin": "yavganaar"
+  },
+  {
+   "mn": "буудал",
+   "en": "stop, station",
+   "pos": "noun",
+   "example_mn": "Манай гэрийн ойролцоо автобусны буудал бий.",
+   "example_en": "There is a bus stop near my home.",
+   "mn_latin": "buudal"
+  },
+  {
+   "mn": "түгжрэл",
+   "en": "traffic jam, congestion",
+   "pos": "noun",
+   "example_mn": "Өглөөний түгжрэлээс болж хоцорлоо.",
+   "example_en": "I was late because of the morning traffic.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "дөт",
+   "en": "shorter, more direct (of a way)",
+   "pos": "adjective",
+   "example_mn": "Гудамжаар явбал дөт.",
+   "example_en": "It's shorter if you go through the side streets.",
+   "mn_latin": "döt"
+  },
+  {
+   "mn": "автобус солих",
+   "en": "to change buses, to transfer",
+   "pos": "verb phrase",
+   "example_mn": "Би Сансар дээр автобус сольдог.",
+   "example_en": "I change buses at Sansar.",
+   "mn_latin": "avtobus solikh"
+  },
+  {
+   "mn": "замд зарцуулах хугацаа",
+   "en": "travel time",
+   "pos": "noun phrase",
+   "example_mn": "Замд зарцуулах хугацаа маань хоёр дахин багассан.",
+   "example_en": "My travel time was cut in half.",
+   "mn_latin": "zamd zartsuulakh khugatsaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би автобусаар явах уу, дугуйгаар явах уу гэдгээ шийдэж чадахгүй байна.",
+   "en": "I can't decide whether to take the bus or ride my bike.",
+   "alt_mn": [
+    "Автобусаар явах уу, дугуй унах уу гэдгээ шийдэж чадахгүй байна."
+   ],
+   "alt_en": [
+    "I can't decide if I should take the bus or go by bike."
+   ],
+   "mn_latin": "Bi avtobusaar yavakh uu, duguigaar yavakh uu gedgee shiidej chadakhgüi baina."
+  },
+  {
+   "mn": "Өглөө би замд нэг цаг юм уу түүнээс ч илүү зарцуулдаг.",
+   "en": "In the morning I spend an hour or even more on the road.",
+   "alt_mn": [
+    "Өглөө замд нэг цаг юм уу түүнээс илүү зарцуулдаг."
+   ],
+   "alt_en": [
+    "In the morning my commute takes an hour or more."
+   ],
+   "mn_latin": "Öglöö bi zamd neg tsag yum uu tüünees ch ilüü zartsuuldag."
+  },
+  {
+   "mn": "Та автобусаар явах уу, эсвэл такси барих уу?",
+   "en": "Will you take the bus, or will you catch a taxi?",
+   "alt_mn": [
+    "Та автобусаар явах уу, такси барих уу?"
+   ],
+   "alt_en": [
+    "Are you taking the bus or getting a taxi?"
+   ],
+   "mn_latin": "Ta avtobusaar yavakh uu, esvel taksi barikh uu?"
+  },
+  {
+   "mn": "Хуваарийг аппаас шалгаад гарвал буудал дээр удаан хүлээхгүй.",
+   "en": "If you check the schedule in the app before you leave, you won't wait long at the stop.",
+   "alt_mn": [
+    "Аппаас хуваарь шалгаад гарвал буудал дээр удаан хүлээхгүй."
+   ],
+   "alt_en": [
+    "Check the schedule in the app before leaving, and you won't wait long at the stop."
+   ],
+   "mn_latin": "Khuvaariig appaas shalgaad garval buudal deer udaan khüleekhgüi."
+  },
+  {
+   "mn": "Гэрээсээ буудал хүртэл арван минут явганаар явдаг.",
+   "en": "I walk ten minutes from my home to the stop.",
+   "alt_mn": [
+    "Гэрээс буудал хүртэл арван минут алхдаг."
+   ],
+   "alt_en": [
+    "It's a ten-minute walk from my home to the stop."
+   ],
+   "mn_latin": "Gereesee buudal khürtel arvan minut yavganaar yavdag."
+  },
+  {
+   "mn": "Зун дугуйгаар явбал түгжрэлд орохгүй, бас хурдан.",
+   "en": "In summer, if you go by bike, you avoid the traffic, and it's faster too.",
+   "alt_mn": [
+    "Зун дугуй унавал түгжрэлд орохгүй, бас хурдан."
+   ],
+   "alt_en": [
+    "Cycling in summer lets you skip the traffic, and it's faster."
+   ],
+   "mn_latin": "Zun duguigaar yavbal tügjreld orokhgüi, bas khurdan."
+  },
+  {
+   "mn": "Шинэ автобусны чиглэл ирэх сард нээгдэх гэж байна.",
+   "en": "A new bus route is set to open next month.",
+   "alt_mn": [
+    "Ирэх сард шинэ автобусны чиглэл нээгдэх гэж байна."
+   ],
+   "alt_en": [
+    "A new bus route is due to open next month."
+   ],
+   "mn_latin": "Shine avtobusny chiglel irekh sard neegdekh gej baina."
+  },
+  {
+   "mn": "Миний автобус 7:40-д ирэх ёстой.",
+   "en": "My bus is due at 7:40.",
+   "alt_mn": [
+    "Миний автобус 7:40-д ирэх учиртай."
+   ],
+   "alt_en": [
+    "My bus is supposed to come at 7:40."
+   ],
+   "mn_latin": "Minii avtobus 7:40-d irekh yostoi."
+  },
+  {
+   "mn": "Бид 8:30 гэхэд ажил дээрээ байх ёстой.",
+   "en": "We are to be at work by 8:30.",
+   "alt_mn": [
+    "Бид 8:30 гэхэд ажилдаа ирсэн байх ёстой."
+   ],
+   "alt_en": [
+    "We have to be at work by 8:30.",
+    "We're supposed to be at work by 8:30."
+   ],
+   "mn_latin": "Bid 8:30 gekhed ajil deeree baikh yostoi."
+  },
+  {
+   "mn": "Энэ замаар явбал дөт ч гэсэн их түгжирдэг.",
+   "en": "This way is shorter, but it gets really congested.",
+   "alt_mn": [
+    "Энэ зам дөт боловч их түгжирдэг."
+   ],
+   "alt_en": [
+    "This road is more direct, but the traffic is terrible."
+   ],
+   "mn_latin": "Ene zamaar yavbal döt ch gesen ikh tügjirdeg."
+  },
+  {
+   "mn": "Сансар дээр автобус солих уу, эсвэл тэндээс явганаар явах уу?",
+   "en": "Should I change buses at Sansar, or walk from there?",
+   "alt_mn": [
+    "Сансар дээр автобус солих уу, тэндээс явганаар явах уу?"
+   ],
+   "alt_en": [
+    "Do I transfer at Sansar or walk from there?"
+   ],
+   "mn_latin": "Sansar deer avtobus solikh uu, esvel tendees yavganaar yavakh uu?"
+  },
+  {
+   "mn": "Аппын мэдээллээр дараагийн автобус таван минутын дараа ирнэ.",
+   "en": "According to the app, the next bus is due in five minutes.",
+   "alt_mn": [
+    "Аппад дараагийн автобус таван минутын дараа ирнэ гэж байна."
+   ],
+   "alt_en": [
+    "The app says the next bus will come in five minutes."
+   ],
+   "mn_latin": "Appyn medeelleer daraagiin avtobus tavan minutyn daraa irne."
+  }
+ ],
+ "grammar": {
+  "title_en": "Giving choices: юм уу, эсвэл, and -х уу, -х уу",
+  "title_mn": "Төлөвлөгөө, хуваарь илэрхийлэх: be to, be due to, be set to",
+  "explain_en": "Mongolian has several ways to say \"or.\" Юм уу links two words or phrases and often sounds a little loose, like \"or so\" or \"or something\": нэг цаг юм уу (an hour or so). Эсвэл is a neutral \"or\" and is common at the start of the second option: автобусаар эсвэл явганаар. To ask \"whether to do A or B,\" put the question particle after each verb in the -х form: явах уу, хүлээх үү. The particle follows vowel harmony: уу after back-vowel words, үү after front-vowel words (суух уу, үзэх үү). Add гэдгээ шийдэх / мэдэхгүй to say \"decide / don't know whether...\"",
+  "explain_mn": "Англи хэлэнд хуваарь, төлөвлөгөөг дараах гурван хэллэгээр илэрхийлдэг. \"Be to + үйл үг\" нь албан ёсны заавар, тогтсон үүрэг: We are to be at work by 8:30 (8:30 гэхэд ажил дээрээ байх ёстой). \"Be due + цаг\" эсвэл \"be due to + үйл үг\" нь хуваарийн дагуу хүлээгдэж буй зүйл: The bus is due at 7:40, The bus is due in five minutes. \"Be set to + үйл үг\" нь шийдэгдчихсэн, удахгүй болох үйл явдал: The new route is set to open next month. \"Be\" үйл үгийг эзэндээ тааруулж (am/is/are) хувиргахаа мартуузай.",
+  "examples": [
+   {
+    "mn": "Цай юм уу кофе уух уу?",
+    "en": "Would you like some tea or coffee?",
+    "mn_latin": "Tsai yum uu kofye uukh uu?"
+   },
+   {
+    "mn": "Ажилдаа автобусаар эсвэл явганаар явж болно.",
+    "en": "You can get to work by bus or on foot.",
+    "mn_latin": "Ajildaa avtobusaar esvel yavganaar yavj bolno."
+   },
+   {
+    "mn": "Өнөөдөр шинэ маршрут туршиж үзэх үү, хуучнаараа явах уу?",
+    "en": "Should I try the new route today or go my usual way?",
+    "mn_latin": "Önöödör shine marshrut turshij üzekh üü, khuuchnaaraa yavakh uu?"
+   },
+   {
+    "mn": "Шинэ дугуйн зам зургадугаар сард нээгдэх гэж байна.",
+    "en": "The new bike lane is set to open in June.",
+    "mn_latin": "Shine duguin zam zurgadugaar sard neegdekh gej baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Таксинд суух уу, автобус ___ үү?",
+   "answer": "хүлээх",
+   "options": [
+    "хүлээх",
+    "хүлээж",
+    "хүлээсэн",
+    "хүлээвэл"
+   ],
+   "translation": "Should I get a taxi or wait for the bus?",
+   "explain_en": "In the pattern \"A or B?\", both verbs take the -х form before the question particle: суух уу, хүлээх үү. The -х form is needed to show a choice you are still deciding about.",
+   "explain_mn": "\"-х уу, -х уу\" загварт хоёр үйл үг хоёулаа -х хэлбэртэй байна. Англиар \"Should I ... or ...?\" гэж орчуулна."
+  },
+  {
+   "lang": "mn",
+   "text": "Би өглөө 7 цаг ___ 7:30-д гардаг.",
+   "answer": "юм уу",
+   "options": [
+    "юм уу",
+    "гэхэд",
+    "болохоор",
+    "тул"
+   ],
+   "translation": "I leave at 7 or 7:30 in the morning.",
+   "explain_en": "Юм уу links two options, here two times, with a relaxed feel of \"or so.\" Гэхэд means \"by,\" while болохоор and тул mean \"because,\" so they don't fit.",
+   "explain_mn": "Хоёр хувилбарыг холбоход \"юм уу\"-г хэрэглэнэ. Англиар энгийн \"or\" гэж орчуулна: at 7 or 7:30."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ шинэ аппыг суулгаж үзэх ___, хуучнаа ашиглах уу?",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "уу",
+    "юү",
+    "вэ"
+   ],
+   "translation": "Should I install this new app, or keep using my old one?",
+   "explain_en": "Үзэх has front vowels (ү, э), so the question particle is үү. Ашиглах has back vowels, so it takes уу. Вэ is only for question-word questions (who, what, where).",
+   "explain_mn": "Англиар хоёр хувилбар асуухдаа \"Should I ... or ...?\" гэж нэг өгүүлбэрт \"or\"-оор холбоно."
+  },
+  {
+   "lang": "en",
+   "text": "The new bike lane is set ___ open in June.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "on",
+    "at"
+   ],
+   "translation": "Шинэ дугуйн зам зургадугаар сард нээгдэх гэж байна.",
+   "explain_en": "In this meaning, \"be set\" is always followed by \"to\" plus the base form of the verb: is set to open.",
+   "explain_mn": "\"Be set\"-ийн дараа заавал \"to\" + үйл үгийн үндсэн хэлбэр орно: is set to open (нээгдэх гэж байна)."
+  },
+  {
+   "lang": "en",
+   "text": "The next train is due ___ ten minutes.",
+   "answer": "in",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "after"
+   ],
+   "translation": "Дараагийн галт тэрэг арван минутын дараа ирэх ёстой.",
+   "explain_en": "Use \"due in\" for an amount of time from now and \"due at\" for a clock time (due at 7:40).",
+   "explain_mn": "Одооноос хойш хэдэн минут гэвэл \"due in\" (due in ten minutes), тодорхой цаг гэвэл \"due at\" (due at 7:40) гэнэ. \"Дараа\" гэдгийг энд \"after\" биш, \"in\"-ээр илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "All staff ___ to arrive by 8:30 next week.",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "translation": "Дараа долоо хоногт бүх ажилтан 8:30 гэхэд ирсэн байх ёстой.",
+   "explain_en": "\"Be to\" gives an official instruction. \"Staff\" here means the employees as a group, so it takes \"are.\"",
+   "explain_mn": "\"Be to\" нь албан ёсны заавар илэрхийлнэ. \"All staff\" олон хүнийг заадаг тул \"are\" хэрэглэнэ: All staff are to arrive."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Болд оо, чи ажилдаа ирэхдээ хэр удаан явдаг вэ?",
+   "en": "Bold, how long does your commute take?",
+   "mn_latin": "Bold oo, chi ajildaa irekhdee kher udaan yavdag ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Нэг цаг юм уу, түгжрэл ихтэй өдөр бол бүр нэг цаг хагас.",
+   "en": "An hour or so, and on bad traffic days, even an hour and a half.",
+   "mn_latin": "Neg tsag yum uu, tügjrel ikhtei ödör bol bür neg tsag khagas."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Метро хэдэн жилийн дараа нээгдэх гэж байгаа биз дээ? Тэгвэл хурдан болно.",
+   "en": "The metro is set to open in a few years, right? Then it'll be faster.",
+   "mn_latin": "Myetro kheden jiliin daraa neegdekh gej baigaa biz dee? Tegvel khurdan bolno."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тийм ээ, гэхдээ одоохондоо автобусаар явах уу, дугуй унах уу гэдгээ бодож байна.",
+   "en": "Yeah, but for now I'm trying to decide whether to take the bus or ride my bike.",
+   "mn_latin": "Tiim ee, gekhdee odookhondoo avtobusaar yavakh uu, dugui unakh uu gedgee bodoj baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Би аппаас хуваарь шалгаад гардаг. Миний автобус 7:45-д ирэх ёстой, тэгэхээр буудал дээр хүлээдэггүй.",
+   "en": "I check the schedule in the app before I leave. My bus is due at 7:45, so I don't wait at the stop.",
+   "mn_latin": "Bi appaas khuvaari shalgaad gardag. Minii avtobus 7:45-d irekh yostoi, tegekheer buudal deer khüleedeggüi."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Зун дугуйгаар дөт замаар явбал хорин минутад ирж болно. Эсвэл голын зам хүртэл дугуйгаар, тэндээс явганаар.",
+   "en": "In summer, if I bike the shortcut, I can get here in twenty minutes. Or I could bike to the river path and walk from there.",
+   "mn_latin": "Zun duguigaar döt zamaar yavbal khorin minutad irj bolno. Esvel golyn zam khürtel duguigaar, tendees yavganaar."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Сайхан санаа байна. Маргааш туршиж үзэх үү, эсвэл Даваа гарагаас эхлэх үү?",
+   "en": "Good idea. Will you try it tomorrow, or start on Monday?",
+   "mn_latin": "Saikhan sanaa baina. Margaash turshij üzekh üü, esvel Davaa garagaas ekhlekh üü?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Маргаашаас! Бид 8:30 гэхэд ажил дээрээ байх ёстой, тэгэхээр 7:50-д гарна.",
+   "en": "Tomorrow! We're to be at work by 8:30, so I'll leave at 7:50.",
+   "mn_latin": "Margaashaas! Bid 8:30 gekhed ajil deeree baikh yostoi, tegekheer 7:50-d garna."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar's traffic is famous for its jams, and on weekdays the city keeps some cars off the road based on the last digit of their license plate. Many residents mix bus rides with long walks, and transit apps that show where buses are in real time have become a popular way to avoid waiting in the cold. In the warmer months, more people try cycling, though bike lanes are still limited.",
+  "mn": "Улаанбаатарын замын түгжрэл алдартай бөгөөд ажлын өдрүүдэд машины улсын дугаарын сүүлийн орноор хөдөлгөөнийг хязгаарладаг. Олон хүн автобус, явган алхалтыг хослуулдаг. Автобус хаана явааг шууд харуулдаг тээврийн аппууд хүйтэнд буудал дээр хүлээхээс сэргийлэх сайн арга болжээ. Дулаан улиралд дугуй унах хүн нэмэгддэг ч дугуйн зам одоогоор цөөн хэвээр байна."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 4,
+  "notes": "A solid, natural lesson. The main fixes are one vowel-harmony error in a fill-in-the-blank item, a mismatched explanation, an ambiguous dialogue line, and one case-form error."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "Mostly solid: the last fill-in-the-blank was ambiguous, and there were small fixes to a Mongolian dialogue line, an English culture-note phrase and one explanation.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "\"have\" also fits (All staff have to arrive...), so the answer was not unique"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "The subject of both clauses is the same, so the reflexive form -хдээ is the natural choice"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "\"limits some cars from driving\" is ungrammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "The original explanation was circular (\"be set to\" is followed by \"to\")"
+   }
+  ]
+ }
+}

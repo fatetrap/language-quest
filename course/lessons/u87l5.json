@@ -1,0 +1,403 @@
+{
+ "intro_en": "Follow a researcher as she presents camera-trap and GPS-collar findings and herder-led conservation programs. You will learn to make careful, hedged claims with Mongolian double negation such as үгүйсгэх аргагүй and -хгүй байх магадлал багагүй, and with English litotes like 'not insignificant' and 'no small achievement.'",
+ "intro_mn": "Судлаач камер хавх, GPS хүзүүвчийн судалгааны үр дүн болон малчдын санаачилсан хамгааллын хөтөлбөрүүдийг танилцуулна. Та давхар үгүйсгэлээр болгоомжтой дүгнэлт хийж сурна. Монгол хэлэнд үгүйсгэх аргагүй, -хгүй байх магадлал багагүй гэх хэллэг, англи хэлэнд not insignificant, no small achievement гэх хэллэгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "камер хавх",
+   "en": "camera trap",
+   "pos": "noun",
+   "example_mn": "Бид хөндийд арван камер хавх байршуулсан.",
+   "example_en": "We set up ten camera traps in the valley.",
+   "mn_latin": "kamyer khavkh"
+  },
+  {
+   "mn": "GPS хүзүүвч",
+   "en": "GPS collar",
+   "pos": "noun",
+   "example_mn": "Ирвэсэнд GPS хүзүүвч зүүсэн.",
+   "example_en": "A GPS collar was fitted on the snow leopard.",
+   "mn_latin": "GPS khüzüüvch"
+  },
+  {
+   "mn": "хяналт судалгаа",
+   "en": "monitoring",
+   "pos": "noun",
+   "example_mn": "Хяналт судалгаа таван жил үргэлжилсэн.",
+   "example_en": "The monitoring lasted five years.",
+   "mn_latin": "khyanalt sudalgaa"
+  },
+  {
+   "mn": "экосистем",
+   "en": "ecosystem",
+   "pos": "noun",
+   "example_mn": "Говийн экосистем маш эмзэг.",
+   "example_en": "The Gobi ecosystem is very fragile.",
+   "mn_latin": "ekosistyem"
+  },
+  {
+   "mn": "биологийн төрөл зүйл",
+   "en": "species",
+   "pos": "noun",
+   "example_mn": "Энэ нутагт олон биологийн төрөл зүйл бүртгэгдсэн.",
+   "example_en": "Many species have been recorded in this area.",
+   "mn_latin": "biologiin töröl züil"
+  },
+  {
+   "mn": "хамтын ажиллагаа",
+   "en": "cooperation",
+   "pos": "noun",
+   "example_mn": "Малчид, эрдэмтдийн хамтын ажиллагаа амжилттай болсон.",
+   "example_en": "The cooperation between herders and scientists was successful.",
+   "mn_latin": "khamtyn ajillagaa"
+  },
+  {
+   "mn": "ашиг шим",
+   "en": "benefit",
+   "pos": "noun",
+   "example_mn": "Хөтөлбөрийн ашиг шимийг малчид хүртэж байна.",
+   "example_en": "Herders are receiving the benefits of the program.",
+   "mn_latin": "ashig shim"
+  },
+  {
+   "mn": "үгүйсгэх аргагүй",
+   "en": "undeniable",
+   "pos": "phrase",
+   "example_mn": "Энэ нь үгүйсгэх аргагүй баримт.",
+   "example_en": "This is an undeniable fact.",
+   "mn_latin": "ügüisgekh argagüi"
+  },
+  {
+   "mn": "багагүй",
+   "en": "considerable",
+   "pos": "adjective",
+   "example_mn": "Малчид багагүй хувь нэмэр оруулсан.",
+   "example_en": "The herders made a considerable contribution.",
+   "mn_latin": "bagagüi"
+  },
+  {
+   "mn": "цөөнгүй",
+   "en": "quite a few",
+   "pos": "adjective",
+   "example_mn": "Ийм тохиолдол цөөнгүй гарсан.",
+   "example_en": "There have been quite a few such cases.",
+   "mn_latin": "tsööngüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Камер хавхны мэдээллээс харахад ирвэсийн тоо нэмэгдсэн нь үгүйсгэх аргагүй.",
+   "en": "Judging by the camera-trap data, it cannot be denied that the snow leopard population has grown.",
+   "alt_mn": [
+    "Камер хавхны мэдээллээс харахад ирвэсийн тоо нэмэгдсэнийг үгүйсгэх аргагүй."
+   ],
+   "alt_en": [
+    "Judging by the camera-trap data, there's no denying that the snow leopard population has grown.",
+    "According to the camera-trap data, it is undeniable that the number of snow leopards has increased."
+   ],
+   "mn_latin": "Kamyer khavkhny medeellees kharakhad irvesiin too nemegdsen ni ügüisgekh argagüi."
+  },
+  {
+   "mn": "GPS хүзүүвчийн мэдээллээс гарсан үр дүнгийн ач холбогдол багагүй.",
+   "en": "The results from the GPS-collar data are not insignificant.",
+   "alt_mn": [
+    "GPS хүзүүвчийн мэдээллээс гарсан үр дүн багагүй ач холбогдолтой."
+   ],
+   "alt_en": [
+    "The findings from the GPS-collar data are of no small importance."
+   ],
+   "mn_latin": "GPS khüzüüvchiin medeellees garsan ür düngiin ach kholbogdol bagagüi."
+  },
+  {
+   "mn": "Малчдын оролцоогүйгээр энэ хөтөлбөр амжилтад хүрэхгүй байх магадлал багагүй байсан.",
+   "en": "Without the herders' participation, it was not unlikely that this program would have failed.",
+   "alt_mn": [],
+   "alt_en": [
+    "Without the herders' involvement, there was a fair chance this program would not have succeeded."
+   ],
+   "mn_latin": "Malchdyn oroltsoogüigeer ene khötölbör amjiltad khürekhgüi baikh magadlal bagagüi baisan."
+  },
+  {
+   "mn": "Энэ нутгийн экосистем эмзэг гэдэг нь эрдэмтдэд үл мэдэгдэх зүйл биш.",
+   "en": "The fragility of this area's ecosystem is hardly unknown to scientists.",
+   "alt_mn": [],
+   "alt_en": [
+    "That this area's ecosystem is fragile is hardly news to scientists."
+   ],
+   "mn_latin": "Ene nutgiin ekosistyem emzeg gedeg ni erdemtded ül medegdekh züil bish."
+  },
+  {
+   "mn": "Хамтын ажиллагааны ачаар малчид ч, зэрлэг амьтад ч ашиг шим хүртэж байгаа нь үгүйсгэх аргагүй.",
+   "en": "Thanks to this cooperation, it is undeniable that both herders and wildlife are benefiting.",
+   "alt_mn": [],
+   "alt_en": [
+    "Thanks to this cooperation, there's no denying that both herders and wildlife are benefiting."
+   ],
+   "mn_latin": "Khamtyn ajillagaany achaar malchid ch, zerleg amitad ch ashig shim khürtej baigaa ni ügüisgekh argagüi."
+  },
+  {
+   "mn": "Камер хавх бүрийг дор хаяж гурван сар ажиллуулахгүй бол хангалттай мэдээлэл цуглахгүй байх магадлал багагүй.",
+   "en": "Unless each camera trap runs for at least three months, there's a fair chance we won't collect enough data.",
+   "alt_mn": [],
+   "alt_en": [
+    "If each camera trap doesn't run for at least three months, it's quite possible we won't gather enough data."
+   ],
+   "mn_latin": "Kamyer khavkh büriig dor khayaj gurvan sar ajilluulakhgüi bol khangalttai medeelel tsuglakhgüi baikh magadlal bagagüi."
+  },
+  {
+   "mn": "Нэг хөндийд ийм олон биологийн төрөл зүйл бүртгэсэн нь бага амжилт биш.",
+   "en": "Recording so many species in a single valley is no small achievement.",
+   "alt_mn": [],
+   "alt_en": [
+    "Recording this many species in one valley is no small accomplishment."
+   ],
+   "mn_latin": "Neg khöndiid iim olon biologiin töröl züil bürtgesen ni baga amjilt bish."
+  },
+  {
+   "mn": "Хулгайн ан агнуурыг бууруулахад малчдын бүлгүүдийн оруулсан хувь нэмэр бага биш.",
+   "en": "The contribution herder groups have made to reducing poaching is not insignificant.",
+   "alt_mn": [
+    "Хулгайн ан агнуурыг бууруулахад малчдын бүлгүүд багагүй хувь нэмэр оруулсан."
+   ],
+   "alt_en": [
+    "Herder groups have made no small contribution to reducing poaching."
+   ],
+   "mn_latin": "Khulgain an agnuuryg buuruulakhad malchdyn bülgüüdiin oruulsan khuvi nemer baga bish."
+  },
+  {
+   "mn": "Цаг уурын өөрчлөлт бэлчээрт нөлөөлж байгааг үгүйсгэх аргагүй.",
+   "en": "There's no denying that climate change is affecting the pastures.",
+   "alt_mn": [
+    "Уур амьсгалын өөрчлөлт бэлчээрт нөлөөлж байгааг үгүйсгэх аргагүй."
+   ],
+   "alt_en": [
+    "It cannot be denied that climate change is affecting the pastures."
+   ],
+   "mn_latin": "Tsag uuryn öörchlölt belcheert nölöölj baigaag ügüisgekh argagüi."
+  },
+  {
+   "mn": "Хүзүүвчтэй ирвэс хилийн нөгөө тал руу гарсан тохиолдол цөөнгүй.",
+   "en": "There have been more than a few cases of collared snow leopards crossing the border.",
+   "alt_mn": [],
+   "alt_en": [
+    "Cases of collared snow leopards crossing the border are not uncommon."
+   ],
+   "mn_latin": "Khüzüüvchtei irves khiliin nögöö tal ruu garsan tokhioldol tsööngüi."
+  },
+  {
+   "mn": "Орон нутгийн мэдлэгийг шинжлэх ухааны өгөгдөлтэй хослуулахгүй бол бодлого үр дүнгүй байх магадлал багагүй.",
+   "en": "If local knowledge isn't combined with scientific data, there's a real chance the policy will be ineffective.",
+   "alt_mn": [],
+   "alt_en": [
+    "Unless local knowledge is combined with scientific data, it's not unlikely that the policy will fail."
+   ],
+   "mn_latin": "Oron nutgiin medlegiig shinjlekh ukhaany ögögdöltei khosluulakhgüi bol bodlogo ür düngüi baikh magadlal bagagüi."
+  },
+  {
+   "mn": "Хамгааллын хөтөлбөр малчдад ашиг шимгүй бол тэд оролцохгүй байх нь ойлгомжтой.",
+   "en": "If the conservation program brings herders no benefit, it's understandable that they won't take part.",
+   "alt_mn": [],
+   "alt_en": [
+    "If the conservation program doesn't benefit herders, it's no surprise they won't participate."
+   ],
+   "mn_latin": "Khamgaallyn khötölbör malchdad ashig shimgüi bol ted oroltsokhgüi baikh ni oilgomjtoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Double negation for cautious claims",
+  "title_mn": "Болгоомжтой дүгнэлт: давхар үгүйсгэл ба литотес",
+  "explain_en": "Mongolian scientists and speakers often make a claim stronger but more careful by negating a negative. Үгүйсгэх аргагүй literally means 'there is no way to deny it,' so it works like 'undeniable.' Багагүй ('not small') and цөөнгүй ('not few') mean 'considerable' and 'quite a few.' The pattern -хгүй байх магадлал багагүй means 'the chance of NOT doing something is not small,' or 'it's quite possible that... won't.' You can also add биш after a noun phrase, as in бага амжилт биш, 'no small achievement.' English does the same thing with litotes: not insignificant, hardly unknown, no small achievement, not unlikely. Note that English does not allow 'not hardly,' because hardly is already negative. These forms sound measured and academic, which makes them perfect for research reports.",
+  "explain_mn": "Монгол хэлэнд сөрөг утгыг үгүйсгэж, дүгнэлтээ болгоомжтой боловч итгэлтэй илэрхийлдэг. Жишээ нь үгүйсгэх аргагүй (undeniable), багагүй (considerable), цөөнгүй (quite a few), -хгүй байх магадлал багагүй (it's quite possible that... won't), бага амжилт биш (no small achievement). Англи хэлэнд үүнийг литотес гэдэг. not insignificant гэвэл \"ач холбогдол багагүй\", hardly unknown гэвэл \"үл мэдэгдэх зүйл биш\", no small achievement гэвэл \"бага амжилт биш\" гэсэн утгатай. not unlikely нь \"магадлал багагүй\" гэсэн үг. Эрдэм шинжилгээний илтгэлд хэт эрс дүгнэлт хийхгүйн тулд эдгээрийг их хэрэглэдэг. not hardly гэж давхарлан хэлж болохгүй гэдгийг анхаараарай: hardly өөрөө үгүйсгэлийн утгатай.",
+  "examples": [
+   {
+    "mn": "Мэдээлэл үнэн зөв гэдгийг үгүйсгэх аргагүй.",
+    "en": "It cannot be denied that the data are accurate.",
+    "mn_latin": "Medeelel ünen zöv gedgiig ügüisgekh argagüi."
+   },
+   {
+    "mn": "Ирвэс энэ хөндийд дахин ирэхгүй байх магадлал багагүй.",
+    "en": "There's a fair chance that the snow leopard won't return to this valley.",
+    "mn_latin": "Irves ene khöndiid dakhin irekhgüi baikh magadlal bagagüi."
+   },
+   {
+    "mn": "Энэ төслийн ашиг шим багагүй.",
+    "en": "The benefits of this project are not insignificant.",
+    "mn_latin": "Ene tösliin ashig shim bagagüi."
+   },
+   {
+    "mn": "Таван жилийн хяналт судалгааг дуусгасан нь бага амжилт биш.",
+    "en": "Completing five years of monitoring is no small achievement.",
+    "mn_latin": "Tavan jiliin khyanalt sudalgaag duusgasan ni baga amjilt bish."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хамтын ажиллагаа үр дүнгээ өгсөн нь үгүйсгэх ___.",
+   "answer": "аргагүй",
+   "options": [
+    "аргагүй",
+    "боломжтой",
+    "хэрэгтэй",
+    "ёстой"
+   ],
+   "translation": "It cannot be denied that the cooperation has paid off.",
+   "explain_en": "Үгүйсгэх аргагүй means 'there is no way to deny,' which is a fixed expression for 'undeniable.' The other options would mean 'possible/necessary/must deny.'",
+   "explain_mn": "\"Үгүйсгэх аргагүй\" нь тогтвортой хэллэг бөгөөд англиар undeniable, there's no denying гэж орчуулагдана."
+  },
+  {
+   "lang": "mn",
+   "text": "Камер хавх цөөн бол мэдээлэл хангалтгүй байх магадлал ___.",
+   "answer": "багагүй",
+   "options": [
+    "багагүй",
+    "бага",
+    "байхгүй",
+    "үгүй"
+   ],
+   "translation": "If there are few camera traps, it's not unlikely that the data will be insufficient.",
+   "explain_en": "Магадлал багагүй means 'the probability is not small,' a cautious way to say 'quite likely.' Бага would say the opposite: 'unlikely.'",
+   "explain_mn": "\"Магадлал багагүй\" нь англиар not unlikely, there's a fair chance гэсэн болгоомжтой хэллэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Нэг хөндийд дөчин зүйл бүртгэсэн нь бага амжилт ___.",
+   "answer": "биш",
+   "options": [
+    "биш",
+    "байна",
+    "юм",
+    "байх"
+   ],
+   "translation": "Recording forty species in one valley is no small achievement.",
+   "explain_en": "Adding биш after бага амжилт ('a small achievement') negates it and gives 'no small achievement.' Юм or байна would call it a small achievement.",
+   "explain_mn": "\"Бага амжилт биш\" нь англиар no small achievement буюу \"том амжилт\" гэсэн утгыг зөөлөн илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Recording forty species in one valley is no ___ achievement.",
+   "answer": "small",
+   "options": [
+    "small",
+    "big",
+    "huge",
+    "high"
+   ],
+   "translation": "Нэг хөндийд дөчин зүйл бүртгэсэн нь бага амжилт биш.",
+   "explain_en": "'No small achievement' is a fixed litotes meaning 'a big achievement.' 'No big achievement' would mean the opposite.",
+   "explain_mn": "no small achievement гэдэг нь \"бага амжилт биш\", өөрөөр хэлбэл \"том амжилт\" гэсэн тогтвортой хэллэг. no big гэвэл эсрэг утгатай болно."
+  },
+  {
+   "lang": "en",
+   "text": "The herders' contribution to reducing poaching is not ___.",
+   "answer": "insignificant",
+   "options": [
+    "insignificant",
+    "significant",
+    "important",
+    "unknown"
+   ],
+   "translation": "Хулгайн ан агнуурыг бууруулахад малчдын оруулсан хувь нэмэр бага биш.",
+   "explain_en": "'Not insignificant' negates a negative word, giving a careful 'fairly significant.' 'Not significant' would mean it didn't matter.",
+   "explain_mn": "insignificant нь \"ач холбогдолгүй\" гэсэн сөрөг үг. Түүнийг not-оор үгүйсгэвэл \"багагүй ач холбогдолтой\" болно."
+  },
+  {
+   "lang": "en",
+   "text": "The fragility of the Gobi ecosystem is ___ unknown to scientists.",
+   "answer": "hardly",
+   "options": [
+    "hardly",
+    "mostly",
+    "highly",
+    "fully"
+   ],
+   "translation": "Говийн экосистем эмзэг гэдэг нь эрдэмтдэд үл мэдэгдэх зүйл биш.",
+   "explain_en": "'Hardly unknown' means 'well known.' Hardly works as a soft negative before the negative word 'unknown.'",
+   "explain_mn": "hardly нь \"бараг ...гүй\" гэсэн үгүйсгэлийн утгатай. hardly unknown гэвэл \"үл мэдэгдэх зүйл биш\", өөрөөр хэлбэл \"сайн мэдэгдэх\" гэсэн утга гарна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Гурван жилийн хяналт судалгаагаар камер хавхнууд хорин долоон ирвэсийг бүртгэсэн.",
+   "en": "Over three years of monitoring, our camera traps recorded twenty-seven snow leopards.",
+   "mn_latin": "Gurvan jiliin khyanalt sudalgaagaar kamyer khavkhnuud khorin doloon irvesiig bürtgesen."
+  },
+  {
+   "speaker": "David",
+   "mn": "Энэ тоо нэмэгдсэн гэж хэлж болох уу?",
+   "en": "Can you say the number has increased?",
+   "mn_latin": "Ene too nemegdsen gej khelj bolokh uu?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Болгоомжтой хэлэхэд, тоо буураагүй нь үгүйсгэх аргагүй. Харин нэмэгдсэн гэж дүгнэхэд эрт байна.",
+   "en": "To put it cautiously, it cannot be denied that the number hasn't fallen. But it's too early to conclude that it has grown.",
+   "mn_latin": "Bolgoomjtoi khelekhed, too buuraagüi ni ügüisgekh argagüi. Kharin nemegdsen gej dügnekhed ert baina."
+  },
+  {
+   "speaker": "David",
+   "mn": "GPS хүзүүвчийн мэдээлэл юу харуулсан бэ?",
+   "en": "What did the GPS-collar data show?",
+   "mn_latin": "GPS khüzüüvchiin medeelel yuu kharuulsan be?"
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Ирвэсүүд малчдын өвөлжөөний ойролцоо явдаг тохиолдол цөөнгүй. Тиймээс малчидтай хамтын ажиллагаа зайлшгүй хэрэгтэй.",
+   "en": "There are more than a few cases of snow leopards moving near herders' winter camps. That's why cooperation with herders is essential.",
+   "mn_latin": "Irvesüüd malchdyn övöljöönii oiroltsoo yavdag tokhioldol tsööngüi. Tiimees malchidtai khamtyn ajillagaa zailshgüi kheregtei."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Манай бүлэг хулгайн анчдыг эргүүлээр хянадаг. Мөн ноолуурын хоршоогоороо ашиг шим хүртдэг.",
+   "en": "Our group patrols for poachers. We also benefit through our cashmere cooperative.",
+   "mn_latin": "Manai büleg khulgain anchdyg ergüüleer khyanadag. Mön nooluuryn khorshoogooroo ashig shim khürtdeg."
+  },
+  {
+   "speaker": "David",
+   "mn": "Малчдын санаачилга ийм үр дүн өгсөн нь бага амжилт биш шүү.",
+   "en": "It's no small achievement that a herder-led initiative has produced results like these.",
+   "mn_latin": "Malchdyn sanaachilga iim ür dün ögsön ni baga amjilt bish shüü."
+  },
+  {
+   "speaker": "Сарантуяа",
+   "mn": "Тийм ээ. Энэ дэмжлэг зогсвол экосистем дахин доройтох магадлал багагүй.",
+   "en": "Yes. If this support stops, it's not unlikely that the ecosystem will degrade again.",
+   "mn_latin": "Tiim ee. Ene demjleg zogsvol ekosistyem dakhin doroitokh magadlal bagagüi."
+  }
+ ],
+ "culture_note": {
+  "en": "Since the early 2000s, Mongolian herders have formed community conservation groups called нөхөрлөл, which take on legal responsibility for managing local pastures, forests, and wildlife. In the South Gobi, programs run with snow leopard researchers link herders' cashmere and handicraft income to protecting wildlife. This helped make the Tost Mountains a state nature reserve in 2016.",
+  "mn": "2000-аад оны эхнээс Монголын малчид \"нөхөрлөл\" хэмээх олон нийтийн хамгааллын бүлгүүд байгуулж, нутгийнхаа бэлчээр, ой мод, зэрлэг амьтдыг хууль ёсоор хариуцан хамгаалах болсон. Өмнөговьд ирвэс судлаачидтай хамтран хэрэгжүүлсэн хөтөлбөрүүд малчдын ноолуур, гар урлалын орлогыг зэрлэг амьтан хамгаалахтай холбосон. Энэ нь 2016 онд Тост уулыг улсын байгалийн нөөц газар болгоход нөлөөлсөн."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Accurate, natural lesson with a strong pairing of double negation and litotes. The only issue is one tense mismatch in a translation."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Solid lesson. Fixed the over-negated English example and aligned the two grammar explanations.",
+  "changes": [
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "en",
+    "why": "'Not unlikely... won't' stacks three negatives and is hard to follow; use a natural equivalent."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Align with explain_mn, which covers the English litotes and the 'not hardly' warning."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Add the Mongolian patterns so the mn explanation matches the en one."
+   }
+  ]
+ }
+}

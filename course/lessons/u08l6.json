@@ -1,0 +1,401 @@
+{
+ "intro_en": "You will describe your own home to a new friend in 4-6 connected sentences. You will combine rooms, furniture, location, -д/-т, and байна / байхгүй.",
+ "intro_mn": "Та шинэ найздаа өөрийн гэрийн тухай 4-6 өгүүлбэрээр холбож ярьж сурна. Өрөө, тавилга, байршил, -д/-т тийн ялгал, байна / байхгүй хоёрыг хамт хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "орон сууц",
+   "en": "apartment",
+   "pos": "noun",
+   "example_mn": "Миний орон сууц жижиг.",
+   "example_en": "My apartment is small.",
+   "mn_latin": "oron suuts"
+  },
+  {
+   "mn": "гэр",
+   "en": "home / ger",
+   "pos": "noun",
+   "example_mn": "Манай гэр дулаахан.",
+   "example_en": "Our ger is warm.",
+   "mn_latin": "ger"
+  },
+  {
+   "mn": "өрөө",
+   "en": "room",
+   "pos": "noun",
+   "example_mn": "Манай гэрт гурван өрөө байна.",
+   "example_en": "Our home has three rooms.",
+   "mn_latin": "öröö"
+  },
+  {
+   "mn": "гал тогоо",
+   "en": "kitchen",
+   "pos": "noun",
+   "example_mn": "Гал тогоонд ширээ байна.",
+   "example_en": "There is a table in the kitchen.",
+   "mn_latin": "gal togoo"
+  },
+  {
+   "mn": "унтлагын өрөө",
+   "en": "bedroom",
+   "pos": "noun",
+   "example_mn": "Унтлагын өрөөнд ор байна.",
+   "example_en": "There is a bed in the bedroom.",
+   "mn_latin": "untlagyn öröö"
+  },
+  {
+   "mn": "ор",
+   "en": "bed",
+   "pos": "noun",
+   "example_mn": "Миний ор жижиг.",
+   "example_en": "My bed is small.",
+   "mn_latin": "or"
+  },
+  {
+   "mn": "ширээ",
+   "en": "table",
+   "pos": "noun",
+   "example_mn": "Ширээн дээр ном байна.",
+   "example_en": "There is a book on the table.",
+   "mn_latin": "shiree"
+  },
+  {
+   "mn": "сандал",
+   "en": "chair",
+   "pos": "noun",
+   "example_mn": "Ширээний доор сандал байна.",
+   "example_en": "There is a chair under the table.",
+   "mn_latin": "sandal"
+  },
+  {
+   "mn": "тагт",
+   "en": "balcony",
+   "pos": "noun",
+   "example_mn": "Манай орон сууцанд тагт байхгүй.",
+   "example_en": "Our apartment has no balcony.",
+   "mn_latin": "tagt"
+  },
+  {
+   "mn": "хот",
+   "en": "city",
+   "pos": "noun",
+   "example_mn": "Би хотод амьдардаг.",
+   "example_en": "I live in the city.",
+   "mn_latin": "khot"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би Улаанбаатарт амьдардаг.",
+   "en": "I live in Ulaanbaatar.",
+   "alt_mn": [],
+   "alt_en": [
+    "I live in Ulaanbaatar city."
+   ],
+   "mn_latin": "Bi Ulaanbaatart amidardag."
+  },
+  {
+   "mn": "Миний орон сууц жижиг.",
+   "en": "My apartment is small.",
+   "alt_mn": [
+    "Миний байр жижиг."
+   ],
+   "alt_en": [
+    "My flat is small."
+   ],
+   "mn_latin": "Minii oron suuts jijig."
+  },
+  {
+   "mn": "Манай гэрт гурван өрөө байна.",
+   "en": "Our home has three rooms.",
+   "alt_mn": [
+    "Манай гэрт гурван өрөө бий."
+   ],
+   "alt_en": [
+    "There are three rooms in our home."
+   ],
+   "mn_latin": "Manai gert gurvan öröö baina."
+  },
+  {
+   "mn": "Унтлагын өрөөнд ор байна.",
+   "en": "There is a bed in the bedroom.",
+   "alt_mn": [],
+   "alt_en": [
+    "The bedroom has a bed."
+   ],
+   "mn_latin": "Untlagyn öröönd or baina."
+  },
+  {
+   "mn": "Гал тогоонд ширээ, дөрвөн сандал байна.",
+   "en": "There is a table and four chairs in the kitchen.",
+   "alt_mn": [],
+   "alt_en": [
+    "The kitchen has a table and four chairs."
+   ],
+   "mn_latin": "Gal togoond shiree, dörvön sandal baina."
+  },
+  {
+   "mn": "Ширээн дээр ваар байна.",
+   "en": "There is a vase on the table.",
+   "alt_mn": [],
+   "alt_en": [
+    "A vase is on the table."
+   ],
+   "mn_latin": "Shireen deer vaar baina."
+  },
+  {
+   "mn": "Орны доор уутнууд байна.",
+   "en": "There are bags under the bed.",
+   "alt_mn": [
+    "Орны доор уут байна."
+   ],
+   "alt_en": [
+    "There are some bags under the bed."
+   ],
+   "mn_latin": "Orny door uutnuud baina."
+  },
+  {
+   "mn": "Манай орон сууцанд тагт байхгүй.",
+   "en": "Our apartment has no balcony.",
+   "alt_mn": [
+    "Манай байранд тагт байхгүй."
+   ],
+   "alt_en": [
+    "There is no balcony in our apartment.",
+    "Our apartment doesn't have a balcony."
+   ],
+   "mn_latin": "Manai oron suutsand tagt baikhgüi."
+  },
+  {
+   "mn": "Миний гэр хотод байдаг.",
+   "en": "My home is in the city.",
+   "alt_mn": [
+    "Миний гэр хотод байна."
+   ],
+   "alt_en": [],
+   "mn_latin": "Minii ger khotod baidag."
+  },
+  {
+   "mn": "Танай гэрт хэдэн өрөө байна вэ?",
+   "en": "How many rooms does your home have?",
+   "alt_mn": [
+    "Таны гэрт хэдэн өрөө байна вэ?"
+   ],
+   "alt_en": [
+    "How many rooms are there in your home?"
+   ],
+   "mn_latin": "Tanai gert kheden öröö baina ve?"
+  },
+  {
+   "mn": "Миний өрөөнд компьютер байхгүй.",
+   "en": "There is no computer in my room.",
+   "alt_mn": [],
+   "alt_en": [
+    "My room doesn't have a computer."
+   ],
+   "mn_latin": "Minii öröönd kompiyutyer baikhgüi."
+  },
+  {
+   "mn": "Манай гэр жижиг боловч дулаахан.",
+   "en": "Our home is small but warm.",
+   "alt_mn": [
+    "Манай гэр жижигхэн ч дулаахан."
+   ],
+   "alt_en": [
+    "Our home is small, but it is warm."
+   ],
+   "mn_latin": "Manai ger jijig bolovch dulaakhan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Describing a home: -д/-т + байна / байхгүй",
+  "title_mn": "Гэрээ тайлбарлах: There is/are, in/on/under, My home has...",
+  "explain_en": "To say where something is, add -д or -т to the place word: өрөө → өрөөнд (in the room), гал тогоо → гал тогоонд. Some words, like өрөө and гал тогоо, have a hidden н, so they take -нд. Some words take -т, for example гэр → гэрт. Most other words take -д, for example хот → хотод. Then add байна (there is) or байхгүй (there is not). Order: place + thing + байна. For 'on' and 'under' use дээр and доор: ширээн дээр (on the table), орны доор (under the bed). For 'Our home has three rooms', Mongolian says 'In our home, three rooms exist'.",
+  "explain_mn": "Англи хэлэнд «байна» гэдгийг There is (нэг зүйл) / There are (олон зүйл) гэж хэлнэ. Эхлээд There is/are, дараа нь зүйл, төгсгөлд нь байрлалыг хэлнэ: There is a bed in the room. Дээр, доор нь on, under: on the table, under the bed. «Манай гэрт гурван өрөө байна» гэдгийг Our home has three rooms гэж хэлж болно. Үгийн дараалал монголоос ялгаатай: байршил төгсгөлд ордог. Үгүйсгэхдээ no эсвэл doesn't have хэрэглэнэ: There is no balcony.",
+  "examples": [
+   {
+    "mn": "Өрөөнд ор байна.",
+    "en": "There is a bed in the room.",
+    "mn_latin": "Öröönd or baina."
+   },
+   {
+    "mn": "Ширээн дээр аяга байна.",
+    "en": "There is a cup on the table.",
+    "mn_latin": "Shireen deer ayaga baina."
+   },
+   {
+    "mn": "Манай гэрт тагт байхгүй.",
+    "en": "Our home has no balcony.",
+    "mn_latin": "Manai gert tagt baikhgüi."
+   },
+   {
+    "mn": "Орны доор хайрцаг байна.",
+    "en": "There is a box under the bed.",
+    "mn_latin": "Orny door khairtsag baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Гал тогоо___ ширээ байна.",
+   "answer": "нд",
+   "options": [
+    "нд",
+    "ноос",
+    "г",
+    "той"
+   ],
+   "translation": "There is a table in the kitchen.",
+   "explain_en": "Гал тогоо ends in a long vowel, so the form is -нд: гал тогоонд = in the kitchen.",
+   "explain_mn": "«Гал тогоо» урт эгшгээр төгссөн тул -нд залгаж «гал тогоонд» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Манай орон сууцанд тагт ___.",
+   "answer": "байхгүй",
+   "options": [
+    "байхгүй",
+    "байна",
+    "биш",
+    "болно"
+   ],
+   "translation": "Our apartment has no balcony.",
+   "explain_en": "To say something does not exist or is not there, use байхгүй.",
+   "explain_mn": "Юм байхгүй гэдгийг «байхгүй» гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Ширээн ___ ном байна.",
+   "answer": "дээр",
+   "options": [
+    "дээр",
+    "доор",
+    "дотор",
+    "хажууд"
+   ],
+   "translation": "There is a book on the table.",
+   "explain_en": "дээр means on or above. доор means under.",
+   "explain_mn": "«Дээр» нь on, «доор» нь under гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "There ___ a bed in the bedroom.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "have",
+    "has"
+   ],
+   "translation": "Унтлагын өрөөнд ор байна.",
+   "explain_en": "Use 'is' with one thing (a bed).",
+   "explain_mn": "Нэг зүйлтэй (a bed) тул 'is' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "There ___ two chairs under the table.",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "has",
+    "do"
+   ],
+   "translation": "Ширээний доор хоёр сандал байна.",
+   "explain_en": "Use 'are' with plural things (two chairs).",
+   "explain_mn": "Олон тоотой (two chairs) тул 'are' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My home ___ three rooms.",
+   "answer": "has",
+   "options": [
+    "has",
+    "have",
+    "is",
+    "are"
+   ],
+   "translation": "Миний гэрт гурван өрөө байна.",
+   "explain_en": "'My home' is singular (it), so use 'has'.",
+   "explain_mn": "'My home' нэгж тоотой (it) тул 'has' хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Анна",
+   "mn": "Сайн уу, Болд! Чи хаана амьдардаг вэ?",
+   "en": "Hi, Bold! Where do you live?",
+   "mn_latin": "Sain uu, Bold! Chi khaana amidardag ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би Улаанбаатарт, орон сууцанд амьдардаг.",
+   "en": "I live in Ulaanbaatar, in an apartment.",
+   "mn_latin": "Bi Ulaanbaatart, oron suutsand amidardag."
+  },
+  {
+   "speaker": "Анна",
+   "mn": "Танай орон сууцанд хэдэн өрөө байна вэ?",
+   "en": "How many rooms does your apartment have?",
+   "mn_latin": "Tanai oron suutsand kheden öröö baina ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Хоёр өрөө, гал тогоо байна. Тагт байхгүй.",
+   "en": "There are two rooms and a kitchen. There is no balcony.",
+   "mn_latin": "Khoyor öröö, gal togoo baina. Tagt baikhgüi."
+  },
+  {
+   "speaker": "Анна",
+   "mn": "Унтлагын өрөөнд юу байна вэ?",
+   "en": "What is in the bedroom?",
+   "mn_latin": "Untlagyn öröönd yuu baina ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Ор, шүүгээ байна. Орны доор хайрцаг байна.",
+   "en": "There is a bed and a wardrobe. There is a box under the bed.",
+   "mn_latin": "Or, shüügee baina. Orny door khairtsag baina."
+  },
+  {
+   "speaker": "Анна",
+   "mn": "Гал тогоонд юу байна вэ?",
+   "en": "What is in the kitchen?",
+   "mn_latin": "Gal togoond yuu baina ve?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Ширээ, дөрвөн сандал байна. Манай гэр жижиг боловч дулаахан.",
+   "en": "There is a table and four chairs. Our home is small but warm.",
+   "mn_latin": "Shiree, dörvön sandal baina. Manai ger jijig bolovch dulaakhan."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar many people live in apartments in big buildings, while many others live in a ger in a ger district with a small yard. Mongolians often welcome guests warmly and may offer tea or snacks, so talking about your home is a friendly way to get to know someone.",
+  "mn": "Улаанбаатарт олон хүн өндөр барилгын орон сууцанд амьдардаг бол бусад нь гэр хороололд хашаатай гэрт амьдардаг. Монголчууд зочноо дотноор угтаж, цай, зууш өгдөг тул гэрийнхээ тухай ярих нь танилцах найрсаг арга юм."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 16,
+  "notes": "Mostly good; the main real errors are the missing genitive in 'Ор доор', an inaccurate suffix rule in the grammar explanation, and inconsistent speaker names."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 2,
+  "notes": "The lesson is mostly sound. I corrected the -нд rule in the grammar explanation and replaced the malformed fill-in-the-blank options with real case forms.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The -нд rule was wrong: diphthongs take -д (далай → далайд). -нд comes from a hidden н."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The wrong options used malformed forms (тогоооос, тогоотай) instead of real case forms."
+   }
+  ]
+ }
+}

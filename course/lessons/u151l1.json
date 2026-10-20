@@ -1,0 +1,416 @@
+{
+ "intro_en": "Hike Bogd Khan Uul from Zaisan and learn why this mountain above Ulaanbaatar has been protected for centuries. You will learn sacred-landscape vocabulary and the Mongolian resultative suffix -аастай/-ээстэй, which describes a state left behind by an action.",
+ "intro_mn": "Зайсангаас Богд хан уулыг өгсөж, Улаанбаатарын дээрх энэ уул яагаад олон зууны турш хамгаалагдаж ирснийг судална. Ариун газрын үгс болон англи хэлний \"the first / the oldest + to-infinitive\" бүтцийг сурна.",
+ "vocab": [
+  {
+   "mn": "тахилгат уул",
+   "en": "sacred mountain (worshipped with offerings)",
+   "pos": "noun phrase",
+   "example_mn": "Богд хан бол төрийн тахилгат уул.",
+   "example_en": "Bogd Khan is a state-worshipped sacred mountain.",
+   "mn_latin": "takhilgat uul"
+  },
+  {
+   "mn": "дархан цаазат газар",
+   "en": "strictly protected area",
+   "pos": "noun phrase",
+   "example_mn": "Энэ хөндий дархан цаазат газарт багтдаг.",
+   "example_en": "This valley is part of a strictly protected area.",
+   "mn_latin": "darkhan tsaazat gazar"
+  },
+  {
+   "mn": "овоо",
+   "en": "ovoo (sacred stone cairn)",
+   "pos": "noun",
+   "example_mn": "Даваан дээр том овоо байна.",
+   "example_en": "There is a big ovoo on the pass.",
+   "mn_latin": "ovoo"
+  },
+  {
+   "mn": "хадаг",
+   "en": "khadag (ceremonial silk scarf)",
+   "pos": "noun",
+   "example_mn": "Тэр овоонд цэнхэр хадаг өргөв.",
+   "example_en": "She offered a blue khadag at the ovoo.",
+   "mn_latin": "khadag"
+  },
+  {
+   "mn": "тахих",
+   "en": "to worship, to make offerings to",
+   "pos": "verb",
+   "example_mn": "Монголчууд уул усаа тахидаг.",
+   "example_en": "Mongolians make offerings to their mountains and waters.",
+   "mn_latin": "takhikh"
+  },
+  {
+   "mn": "хамгаалах",
+   "en": "to protect",
+   "pos": "verb",
+   "example_mn": "Энэ уулыг 1778 оноос хамгаалж эхэлсэн.",
+   "example_en": "People began protecting this mountain in 1778.",
+   "mn_latin": "khamgaalakh"
+  },
+  {
+   "mn": "оргил",
+   "en": "peak, summit",
+   "pos": "noun",
+   "example_mn": "Цэцээ гүний оргил 2256 метр өндөр.",
+   "example_en": "Tsetsee Gün peak is 2,256 meters high.",
+   "mn_latin": "orgil"
+  },
+  {
+   "mn": "өгсөх",
+   "en": "to climb, to go uphill",
+   "pos": "verb",
+   "example_mn": "Бид өглөө эрт уул өгсөв.",
+   "example_en": "We climbed the mountain early in the morning.",
+   "mn_latin": "ögsökh"
+  },
+  {
+   "mn": "уях",
+   "en": "to tie",
+   "pos": "verb",
+   "example_mn": "Хадгаа мөчирт зөөлөн уяарай.",
+   "example_en": "Tie your khadag gently to the branch.",
+   "mn_latin": "uyakh"
+  },
+  {
+   "mn": "хориглох",
+   "en": "to forbid, to prohibit",
+   "pos": "verb",
+   "example_mn": "Энд гал түлэхийг хориглоно.",
+   "example_en": "Making fires is prohibited here.",
+   "mn_latin": "khoriglokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Модонд цэнхэр хадаг уяастай байна.",
+   "en": "There is a blue khadag tied to the tree.",
+   "alt_mn": [
+    "Модонд цэнхэр хадаг уяатай байна."
+   ],
+   "alt_en": [
+    "A blue khadag is tied to the tree.",
+    "A blue khadag has been tied to the tree."
+   ],
+   "mn_latin": "Modond tsenkher khadag uyaastai baina."
+  },
+  {
+   "mn": "Оргил дээр чулуу овоолоостой байсан.",
+   "en": "At the summit, stones had been piled up.",
+   "alt_mn": [],
+   "alt_en": [
+    "There were stones piled up on the summit.",
+    "Stones had been piled up at the summit."
+   ],
+   "mn_latin": "Orgil deer chuluu ovooloostoi baisan."
+  },
+  {
+   "mn": "Богд хан уул бол дэлхийн хамгийн эртний дархан цаазат газруудын нэг юм.",
+   "en": "Bogd Khan Uul is one of the oldest protected areas in the world.",
+   "alt_mn": [
+    "Богд хан уул дэлхийн хамгийн эртний дархан цаазат газруудын нэг."
+   ],
+   "alt_en": [
+    "Bogd Khan Uul is among the oldest protected areas in the world."
+   ],
+   "mn_latin": "Bogd khan uul bol delkhiin khamgiin ertnii darkhan tsaazat gazruudyn neg yum."
+  },
+  {
+   "mn": "Монгол бол байгалиа хуулиар хамгаалсан анхны орнуудын нэг юм.",
+   "en": "Mongolia was one of the first countries to protect nature by law.",
+   "alt_mn": [
+    "Монгол улс байгалиа хуулиар хамгаалсан анхны орнуудын нэг."
+   ],
+   "alt_en": [
+    "Mongolia is one of the first countries to protect nature by law.",
+    "Mongolia was among the first countries to protect nature by law."
+   ],
+   "mn_latin": "Mongol bol baigalia khuuliar khamgaalsan ankhny ornuudyn neg yum."
+  },
+  {
+   "mn": "Зайсангаас оргил хүртэл өгсөхөд гурав орчим цаг болдог.",
+   "en": "The climb from Zaisan to the summit takes about three hours.",
+   "alt_mn": [
+    "Зайсангаас оргил хүртэл гурав орчим цаг өгсдөг."
+   ],
+   "alt_en": [
+    "It takes about three hours to climb from Zaisan to the summit."
+   ],
+   "mn_latin": "Zaisangaas orgil khürtel ögsökhöd gurav orchim tsag boldog."
+  },
+  {
+   "mn": "Замын эхэнд анхааруулах самбар хадаастай байсан.",
+   "en": "A warning sign had been nailed up at the start of the trail.",
+   "alt_mn": [],
+   "alt_en": [
+    "There was a warning sign nailed up at the start of the trail.",
+    "A warning sign was nailed up at the start of the trail."
+   ],
+   "mn_latin": "Zamyn ekhend ankhaaruulakh sambar khadaastai baisan."
+  },
+  {
+   "mn": "Энэ ууланд мод огтлох, ан агнахыг хориглодог.",
+   "en": "Cutting trees and hunting are prohibited on this mountain.",
+   "alt_mn": [
+    "Энэ ууланд мод огтлох, ан агнахыг хориглоно."
+   ],
+   "alt_en": [
+    "Cutting trees and hunting are forbidden on this mountain.",
+    "Logging and hunting are prohibited on this mountain."
+   ],
+   "mn_latin": "Ene uuland mod ogtlokh, an agnakhyg khoriglodog."
+  },
+  {
+   "mn": "Хүмүүс овоог нар зөв гурав тойроод, нэг чулуу нэмдэг.",
+   "en": "People walk around the ovoo clockwise three times and add a stone.",
+   "alt_mn": [
+    "Хүмүүс овоог нар зөв гурван удаа тойроод чулуу нэмдэг."
+   ],
+   "alt_en": [
+    "People circle the ovoo clockwise three times and add one stone."
+   ],
+   "mn_latin": "Khümüüs ovoog nar zöv gurav toirood, neg chuluu nemdeg."
+  },
+  {
+   "mn": "Сараа оргилд хамгийн түрүүнд хүрсэн.",
+   "en": "Saraa was the first to reach the summit.",
+   "alt_mn": [
+    "Сараа оргилд хамгийн түрүүнд гарсан."
+   ],
+   "alt_en": [
+    "Saraa was the first one to reach the summit."
+   ],
+   "mn_latin": "Saraa orgild khamgiin türüünd khürsen."
+  },
+  {
+   "mn": "Хадан дээр эртний бичиг сийлээстэй байна.",
+   "en": "There is an ancient inscription carved into the rock.",
+   "alt_mn": [],
+   "alt_en": [
+    "An ancient inscription is carved into the rock."
+   ],
+   "mn_latin": "Khadan deer ertnii bichig siileestei baina."
+  },
+  {
+   "mn": "Манай баг уулаас хамгийн сүүлд буусан.",
+   "en": "Our group was the last to come down the mountain.",
+   "alt_mn": [],
+   "alt_en": [
+    "Our team was the last to come down the mountain.",
+    "Our group was the last to descend the mountain."
+   ],
+   "mn_latin": "Manai bag uulaas khamgiin süüld buusan."
+  },
+  {
+   "mn": "Богд хан, Бурхан Халдун, Отгонтэнгэр уулыг төрөөс тахидаг.",
+   "en": "Bogd Khan, Burkhan Khaldun, and Otgontenger are worshipped by the state.",
+   "alt_mn": [
+    "Богд хан, Бурхан Халдун, Отгонтэнгэр бол төрийн тахилгат уулс."
+   ],
+   "alt_en": [
+    "Bogd Khan, Burkhan Khaldun, and Otgontenger are state-worshipped mountains."
+   ],
+   "mn_latin": "Bogd khan, Burkhan Khaldun, Otgontenger uulyg töröös takhidag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Resultative -аастай/-ээстэй/-оостой/-өөстэй: a state left by an action",
+  "title_mn": "the first / the oldest / the last + to-infinitive",
+  "explain_en": "To describe something that is in a certain state because someone did something to it earlier, Mongolian adds -аастай/-ээстэй/-оостой/-өөстэй to the verb stem, following vowel harmony. The focus is on the visible result, not on who did it: уях 'to tie' → хадаг уяастай мод 'a tree with a khadag tied to it'; овоолох 'to pile' → чулуу овоолоостой 'stones piled up'; өлгөх → өлгөөстэй 'hung up'; сийлэх → сийлээстэй 'carved'. Add байна/байсан to locate the state in time. Compare: хадаг уясан 'someone tied a khadag' (the event) vs. хадаг уяастай 'a khadag is (there) tied' (the result).",
+  "explain_mn": "Англи хэлэнд \"анхны, хамгийн эртний, хамгийн сүүлчийн\" гэж хэн нэгэн юм хийснийг илэрхийлэхдээ the first / the oldest / the last / the only + to + үйл үг хэрэглэдэг: \"She was the first to reach the summit\" (Тэр оргилд хамгийн түрүүнд хүрсэн). Монгол хэлэнд \"хүрсэн хүн\" гэж -сан/-сэн хэлбэр хэрэглэдэг тул reaching, reached гэж бичих алдаа гардаг. Нэр үгийн өмнө ч орно: \"one of the first countries to protect nature\" (байгалиа хамгаалсан анхны орнуудын нэг).",
+  "examples": [
+   {
+    "mn": "Мөчир бүрд хадаг уяастай.",
+    "en": "Every branch has a khadag tied to it.",
+    "mn_latin": "Möchir bürd khadag uyaastai."
+   },
+   {
+    "mn": "Овоон дээр чулуу овоолоостой, хадаг өлгөөстэй байв.",
+    "en": "On the ovoo, stones were piled up and khadags were hung.",
+    "mn_latin": "Ovoon deer chuluu ovooloostoi, khadag ölgööstei baiv."
+   },
+   {
+    "mn": "Тэр уулын оройд хамгийн түрүүнд гарсан хүн.",
+    "en": "He was the first person to reach the top of the mountain.",
+    "mn_latin": "Ter uulyn oroid khamgiin türüünd garsan khün."
+   },
+   {
+    "mn": "Богд хан бол хамгаалалтад авсан хамгийн эртний газруудын нэг.",
+    "en": "Bogd Khan is one of the oldest places to be placed under protection.",
+    "mn_latin": "Bogd khan bol khamgaalaltad avsan khamgiin ertnii gazruudyn neg."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Модонд цэнхэр хадаг ___ байна.",
+   "answer": "уяастай",
+   "options": [
+    "уяастай",
+    "уяастэй",
+    "уяахтай",
+    "уяатэй"
+   ],
+   "translation": "There is a blue khadag tied to the tree.",
+   "explain_en": "уях 'to tie' has back vowels, so the resultative takes -аастай: уяастай. -ээстэй breaks vowel harmony, and -хтай is not a resultative ending.",
+   "explain_mn": "Англиар \"is tied\" буюу \"tied to\" гэж үйлдлийн үр дүнг хэлдэг. Монголоор уях → уяастай (эр үгийн эгшиг зохицол)."
+  },
+  {
+   "lang": "mn",
+   "text": "Оргил дээр чулуу ___ байсан.",
+   "answer": "овоолоостой",
+   "options": [
+    "овоолоостой",
+    "овоолоостэй",
+    "овоолсонтой",
+    "овоолохтой"
+   ],
+   "translation": "At the summit, stones had been piled up.",
+   "explain_en": "овоолох has the vowel о, so the ending is -оостой: овоолоостой. The state of the stones is what matters, not who piled them.",
+   "explain_mn": "Англиар \"had been piled up\" гэж өмнө хийгдсэн үйлдлийн үр дүнг илэрхийлдэг. Монголоор овоолох → овоолоостой."
+  },
+  {
+   "lang": "mn",
+   "text": "Хадан дээр эртний бичиг ___ байна.",
+   "answer": "сийлээстэй",
+   "options": [
+    "сийлээстэй",
+    "сийлээстай",
+    "сийлсэнтэй",
+    "сийлэхтэй"
+   ],
+   "translation": "There is an ancient inscription carved into the rock.",
+   "explain_en": "сийлэх 'to carve' has front vowels, so it takes -ээстэй: сийлээстэй 'carved (and still there)'.",
+   "explain_mn": "Англиар \"carved into the rock\" гэж хэлнэ. Монголоор сийлэх → сийлээстэй (эм үгийн эгшиг зохицол)."
+  },
+  {
+   "lang": "en",
+   "text": "Saraa was the first ___ the summit.",
+   "answer": "to reach",
+   "options": [
+    "to reach",
+    "reaching",
+    "reached",
+    "for reaching"
+   ],
+   "translation": "Сараа оргилд хамгийн түрүүнд хүрсэн.",
+   "explain_en": "After 'the first', use the to-infinitive: the first to reach. 'Reaching' and 'reached' are not used in this pattern.",
+   "explain_mn": "the first-ийн дараа to + үйл үг ордог: the first to reach. Монголоор \"хүрсэн\" гэдэг ч англиар reached гэж бичихгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Mongolia was one of the first countries ___ nature by law.",
+   "answer": "to protect",
+   "options": [
+    "to protect",
+    "protecting",
+    "protected",
+    "that protect"
+   ],
+   "translation": "Монгол бол байгалиа хуулиар хамгаалсан анхны орнуудын нэг юм.",
+   "explain_en": "'The first + noun + to-infinitive' describes who did something first: the first countries to protect.",
+   "explain_mn": "\"the first countries to protect\" гэдэг нь \"хамгаалсан анхны орнууд\" гэсэн утгатай. Нэр үгийн дараа to + үйл үг орно."
+  },
+  {
+   "lang": "en",
+   "text": "Our group was the last ___ down the mountain.",
+   "answer": "to come",
+   "options": [
+    "to come",
+    "coming",
+    "came",
+    "for coming"
+   ],
+   "translation": "Манай баг уулаас хамгийн сүүлд буусан.",
+   "explain_en": "'The last' follows the same pattern as 'the first': the last to come down.",
+   "explain_mn": "the last нь the first-тэй адил to + үйл үг авна: the last to come down (хамгийн сүүлд буусан)."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Эмма, Зайсангаас өгсөх зам энэ. Оргил хүртэл гурав орчим цаг явна.",
+   "en": "Emma, this is the trail up from Zaisan. It's about three hours to the summit.",
+   "mn_latin": "Emma, Zaisangaas ögsökh zam ene. Orgil khürtel gurav orchim tsag yavna."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Тэр модонд яагаад ийм олон хадаг уяастай байгаа юм бэ?",
+   "en": "Why are there so many khadags tied to that tree?",
+   "mn_latin": "Ter modond yaagaad iim olon khadag uyaastai baigaa yum be?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Хүмүүс уулын эзэнд хүндэтгэл үзүүлж, сайн сайхныг хүсэж уясан юм. Богд хан бол тахилгат уул.",
+   "en": "People tied them to honor the spirit of the mountain and wish for good fortune. Bogd Khan is a sacred mountain.",
+   "mn_latin": "Khümüüs uulyn ezend khündetgel üzüülj, sain saikhnyg khüsej uyasan yum. Bogd khan bol takhilgat uul."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Энэ уулыг дэлхийн хамгийн эртний дархан цаазат газруудын нэг гэж уншсан.",
+   "en": "I read that this mountain is one of the oldest protected areas in the world.",
+   "mn_latin": "Ene uulyg delkhiin khamgiin ertnii darkhan tsaazat gazruudyn neg gej unshsan."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм ээ, 1778 оноос хойш хамгаалагдаж ирсэн. Мод огтлох, ан агнахыг хориглодог байсан.",
+   "en": "Yes, it has been protected since 1778. Cutting trees and hunting were forbidden.",
+   "mn_latin": "Tiim ee, 1778 onoos khoish khamgaalagdaj irsen. Mod ogtlokh, an agnakhyg khoriglodog baisan."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Тэр чулуу овоолоостой газар овоо юу?",
+   "en": "Is that pile of stones an ovoo?",
+   "mn_latin": "Ter chuluu ovooloostoi gazar ovoo yuu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм. Нар зөв гурав тойроод, нэг чулуу нэмээрэй.",
+   "en": "Yes. Walk around it clockwise three times and add a stone.",
+   "mn_latin": "Tiim. Nar zöv gurav toirood, neg chuluu nemeerei."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "За. Тэгээд оргилд хамгийн түрүүнд хүрэх хүн нь би болно шүү!",
+   "en": "Okay. And I'm going to be the first to reach the summit!",
+   "mn_latin": "Za. Tegeed orgild khamgiin türüünd khürekh khün ni bi bolno shüü!"
+  }
+ ],
+ "culture_note": {
+  "en": "Bogd Khan Uul, the mountain on Ulaanbaatar's southern edge, was officially protected in 1778, and Mongolians often call it one of the oldest protected areas in the world. In 1995 it became one of three state-worshipped mountains, together with Burkhan Khaldun and Otgontenger, and it is also a UNESCO biosphere reserve. At ovoos, people traditionally walk around clockwise, add a stone, and offer a blue khadag, the color of the Eternal Blue Sky.",
+  "mn": "Улаанбаатарын өмнө талын Богд хан уулыг 1778 онд албан ёсоор хамгаалалтад авсан бөгөөд монголчууд үүнийг дэлхийн хамгийн эртний дархан цаазат газруудын нэг гэж ярьдаг. 1995 онд Бурхан Халдун, Отгонтэнгэр уулын хамт төрийн тахилгат уул болсон бөгөөд ЮНЕСКО-гийн шим мандлын нөөц газарт ч багтдаг. Овоонд очихдоо нар зөв тойрч, чулуу нэмэн, Мөнх хөх тэнгэрийн өнгө болох цэнхэр хадаг өргөдөг уламжлалтай."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A strong, accurate lesson: the resultative forms, vowel harmony, fill-in-the-blank items and cultural facts are all correct, apart from one verb spelling error."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 3,
+  "notes": "The lesson is accurate overall. The resultative forms, the English to-infinitive items and the facts (1778, 1995, UNESCO) check out; only the capitalization of Бурхан Халдун needed fixing.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "Both parts of the proper name Бурхан Халдун are capitalized."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "Both parts of the proper name Бурхан Халдун are capitalized."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Both parts of the proper name Бурхан Халдун are capitalized."
+   }
+  ]
+ }
+}

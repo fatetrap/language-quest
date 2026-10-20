@@ -1,0 +1,420 @@
+{
+ "intro_en": "You will learn how to talk with an adviser about scholarships, applications, and studying abroad. You will also practice chaining conditions and plans with -вал ... -х юм бол in Mongolian and the first conditional in English.",
+ "intro_mn": "Та зөвлөхтэй тэтгэлэг, өргөдөл, гадаадад суралцах талаар ярихыг сурна. Мөн монгол хэлний -вал ... -х юм бол бүтэц, англи хэлний first conditional (if/when + may/might/can/should)-ийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "тэтгэлэг",
+   "en": "scholarship",
+   "pos": "noun",
+   "example_mn": "Би Солонгосын тэтгэлэгт хамрагдахыг хүсч байна.",
+   "example_en": "I want to be considered for the Korean scholarship.",
+   "mn_latin": "tetgeleg"
+  },
+  {
+   "mn": "өргөдөл",
+   "en": "application (request)",
+   "pos": "noun",
+   "example_mn": "Өргөдлөө хоёрдугаар сарын 1-нээс өмнө өгөөрэй.",
+   "example_en": "Please submit your application before February 1.",
+   "mn_latin": "örgödöl"
+  },
+  {
+   "mn": "элсэлт",
+   "en": "admission, enrollment",
+   "pos": "noun",
+   "example_mn": "Энэ их сургуулийн элсэлт есдүгээр сард эхэлдэг.",
+   "example_en": "Admission at this university begins in September.",
+   "mn_latin": "elselt"
+  },
+  {
+   "mn": "бичиг баримт",
+   "en": "documents",
+   "pos": "noun",
+   "example_mn": "Бичиг баримтаа бүрдүүлж дуусгасан уу?",
+   "example_en": "Have you finished gathering your documents?",
+   "mn_latin": "bichig barimt"
+  },
+  {
+   "mn": "шаардлага",
+   "en": "requirement",
+   "pos": "noun",
+   "example_mn": "Англи хэлний оноо нь үндсэн шаардлага юм.",
+   "example_en": "An English test score is a basic requirement.",
+   "mn_latin": "shaardlaga"
+  },
+  {
+   "mn": "гадаадад суралцах",
+   "en": "to study abroad",
+   "pos": "verb phrase",
+   "example_mn": "Би магистрт гадаадад суралцмаар байна.",
+   "example_en": "I would like to study abroad for my master's.",
+   "mn_latin": "gadaadad suraltsakh"
+  },
+  {
+   "mn": "зөвлөх багш",
+   "en": "adviser",
+   "pos": "noun",
+   "example_mn": "Зөвлөх багш надад маш их тусалсан.",
+   "example_en": "My adviser helped me a lot.",
+   "mn_latin": "zövlökh bagsh"
+  },
+  {
+   "mn": "тодорхойлолт",
+   "en": "recommendation letter / reference",
+   "pos": "noun",
+   "example_mn": "Профессороос тодорхойлолт авах хэрэгтэй.",
+   "example_en": "I need to get a recommendation letter from a professor.",
+   "mn_latin": "todorkhoilolt"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "deadline / period",
+   "pos": "noun",
+   "example_mn": "Өргөдөл хүлээн авах хугацаа удахгүй дуусна.",
+   "example_en": "The application period ends soon.",
+   "mn_latin": "khugatsaa"
+  },
+  {
+   "mn": "хамрагдах",
+   "en": "to be included in / to be accepted to",
+   "pos": "verb",
+   "example_mn": "Тэр шалгаруулалтад хамрагдсан.",
+   "example_en": "He was included in the selection round.",
+   "mn_latin": "khamragdakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тэтгэлэгт хамрагдвал би гадаадад суралцана.",
+   "en": "If I get the scholarship, I will study abroad.",
+   "alt_mn": [
+    "Тэтгэлэг авбал би гадаадад суралцана."
+   ],
+   "alt_en": [
+    "If I am awarded the scholarship, I will study abroad."
+   ],
+   "mn_latin": "Tetgelegt khamragdval bi gadaadad suraltsana."
+  },
+  {
+   "mn": "Бичиг баримтаа бэлдэж дуусвал өргөдлөө илгээнэ.",
+   "en": "When I finish preparing my documents, I will send my application.",
+   "alt_mn": [],
+   "alt_en": [
+    "Once I finish preparing my documents, I'll send in my application."
+   ],
+   "mn_latin": "Bichig barimtaa beldej duusval örgödlöö ilgeene."
+  },
+  {
+   "mn": "Шаардлагыг хангахгүй бол өргөдөл чинь хүлээн авагдахгүй.",
+   "en": "If you don't meet the requirements, your application won't be accepted.",
+   "alt_mn": [
+    "Шаардлагаа хангахгүй бол өргөдлийг чинь авахгүй."
+   ],
+   "alt_en": [],
+   "mn_latin": "Shaardlagyg khangakhgüi bol örgödöl chini khüleen avagdakhgüi."
+  },
+  {
+   "mn": "Хугацаандаа амжихгүй юм бол зөвлөх багшдаа хэлээрэй.",
+   "en": "If you won't be able to make the deadline, tell your adviser.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you think you can't make the deadline, tell your adviser."
+   ],
+   "mn_latin": "Khugatsaandaa amjikhgüi yum bol zövlökh bagshdaa kheleerei."
+  },
+  {
+   "mn": "Англи хэлний шалгалтаа сайн өгвөл тэтгэлэг авч магадгүй.",
+   "en": "If you do well on the English test, you might get a scholarship.",
+   "alt_mn": [
+    "Англи хэлний шалгалтад өндөр оноо авбал тэтгэлэг авч магадгүй."
+   ],
+   "alt_en": [
+    "If you do well on the English exam, you may get a scholarship."
+   ],
+   "mn_latin": "Angli khelnii shalgaltaa sain ögvöl tetgeleg avch magadgüi."
+  },
+  {
+   "mn": "Тодорхойлолт хэрэгтэй юм бол профессороосоо урьдчилж асуу.",
+   "en": "If you need a recommendation letter, ask your professor in advance.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you need a reference, you should ask your professor ahead of time."
+   ],
+   "mn_latin": "Todorkhoilolt kheregtei yum bol profyessoroosoo uridchilj asuu."
+  },
+  {
+   "mn": "Элсэлтийн шалгалтад тэнцвэл би зун явна.",
+   "en": "If I pass the admission exam, I will leave in the summer.",
+   "alt_mn": [],
+   "alt_en": [
+    "If I pass the entrance exam, I'll go in the summer."
+   ],
+   "mn_latin": "Elseltiin shalgaltad tentsvel bi zun yavna."
+  },
+  {
+   "mn": "Дүн гарахаар би танд мэдэгдье.",
+   "en": "When the results come out, I'll let you know.",
+   "alt_mn": [
+    "Дүн гарсан даруйдаа би танд мэдэгдье."
+   ],
+   "alt_en": [
+    "When the grades come out, I'll let you know."
+   ],
+   "mn_latin": "Dün garakhaar bi tand medegdiye."
+  },
+  {
+   "mn": "Гадаадад суралцахыг хүсвэл хэлээ сайн сурах хэрэгтэй.",
+   "en": "If you want to study abroad, you should learn the language well.",
+   "alt_mn": [
+    "Гадаадад суралцах гэж байгаа бол хэлээ сайн сурах хэрэгтэй."
+   ],
+   "alt_en": [
+    "If you are going to study abroad, you need to learn the language well."
+   ],
+   "mn_latin": "Gadaadad suraltsakhyg khüsvel khelee sain surakh kheregtei."
+  },
+  {
+   "mn": "Өргөдлөө эртхэн өгвөл дараа нь санаа зовохгүй.",
+   "en": "If you submit your application early, you won't have to worry later.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you turn in your application early, you won't worry later."
+   ],
+   "mn_latin": "Örgödlöö ertkhen ögvöl daraa ni sanaa zovokhgüi."
+  },
+  {
+   "mn": "Тэтгэлэг авахгүй байсан ч би өөр боломж хайна.",
+   "en": "Even if I don't get the scholarship, I will look for another opportunity.",
+   "alt_mn": [],
+   "alt_en": [
+    "Even if I don't receive the scholarship, I'll look for other options."
+   ],
+   "mn_latin": "Tetgeleg avakhgüi baisan ch bi öör bolomj khaina."
+  },
+  {
+   "mn": "Зөвлөх багштайгаа уулзвал танд хэрэгтэй мэдээлэл өгнө.",
+   "en": "If you meet with your adviser, they will give you useful information.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you meet your adviser, they'll give you the information you need."
+   ],
+   "mn_latin": "Zövlökh bagshtaigaa uulzval tand kheregtei medeelel ögnö."
+  }
+ ],
+ "grammar": {
+  "title_en": "Chaining conditions: -вал ... -х юм бол",
+  "title_mn": "Нөхцөл ба төлөвлөгөөг холбох: if / when + may, might, can, should",
+  "explain_en": "In Mongolian, the conditional suffix -вал/-вэл/-вол/-вөл (-бал/-бэл/-бол/-бөл after stems ending in -в, -л or -м) means 'if' for a likely situation: Тэтгэлэг авбал явна. The pattern -х юм бол ('if it happens that...') sounds a little more formal or hypothetical: Хугацаандаа амжихгүй юм бол хэлээрэй. Negative: -гүй бол (Шаардлага хангахгүй бол...). You can chain conditions: Тэнцвэл, тэтгэлэг авбал, зун явна. The result part uses the future or a polite command, or магадгүй (maybe), болно (can), хэрэгтэй (should). For 'when' as time, Mongolian often uses -хаар: Дүн гарахаар мэдэгдье.",
+  "explain_mn": "Англи хэлний first conditional нь бодит боломжтой нөхцөлийг хэлнэ: if + одоо цаг, үр дүн нь will + үйл үг. Жишээ: If I get the scholarship, I will study abroad. Үр дүнд will-ийн оронд may/might (магадгүй), can (болно), should (хэрэгтэй) хэрэглэж болно: If you apply early, you might get an answer sooner. 'If' нь 'магадгүй болох, болохгүй' зүйлд, 'when' нь 'болох нь тодорхой' зүйлд хэрэглэнэ: When the results come out, I'll call you. If-ийн дараа will хэрэглэхгүй: If I will pass гэж хэлэхгүй, If I pass гэнэ.",
+  "examples": [
+   {
+    "mn": "Тэтгэлэг авбал би гадаадад суралцана.",
+    "en": "If I get a scholarship, I will study abroad.",
+    "mn_latin": "Tetgeleg avbal bi gadaadad suraltsana."
+   },
+   {
+    "mn": "Хугацаандаа амжихгүй юм бол багшдаа хэлээрэй.",
+    "en": "If you can't make the deadline, you should tell your teacher.",
+    "mn_latin": "Khugatsaandaa amjikhgüi yum bol bagshdaa kheleerei."
+   },
+   {
+    "mn": "Шалгалтад тэнцвэл, тэтгэлэг авч магадгүй.",
+    "en": "If you pass the exam, you might get a scholarship.",
+    "mn_latin": "Shalgaltad tentsvel, tetgeleg avch magadgüi."
+   },
+   {
+    "mn": "Дүн гарахаар би залгана.",
+    "en": "When the results come out, I'll call you.",
+    "mn_latin": "Dün garakhaar bi zalgana."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэтгэлэг ___ би Солонгост суралцана.",
+   "answer": "авбал",
+   "options": [
+    "авбал",
+    "авсан",
+    "авдаг",
+    "аваад байна"
+   ],
+   "translation": "If I get the scholarship, I will study in Korea.",
+   "explain_en": "The conditional suffix -бал/-вал means 'if'. Here 'авбал' means 'if (I) get'.",
+   "explain_mn": "'Авбал' нь нөхцөл заасан -бал дагавартай хэлбэр бөгөөд 'if' гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Хугацаандаа амжихгүй ___ бол надад хэлээрэй.",
+   "answer": "юм",
+   "options": [
+    "юм",
+    "нь",
+    "байх",
+    "ч"
+   ],
+   "translation": "If you won't be able to make the deadline, tell me.",
+   "explain_en": "The pattern is '-х юм бол' / '-гүй юм бол': 'амжихгүй юм бол'.",
+   "explain_mn": "'-хгүй юм бол' нь 'if it happens that...' гэсэн нөхцөлийг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Бичиг баримт бүрэн ___ өргөдлийг хүлээн авна.",
+   "answer": "байвал",
+   "options": [
+    "байвал",
+    "байна",
+    "байлаа",
+    "байгаарай"
+   ],
+   "translation": "If the documents are complete, we will accept the application.",
+   "explain_en": "'байвал' means 'if (it) is'. It already carries the condition, so no extra 'бол' is needed.",
+   "explain_mn": "'Байвал' нь 'if there is / if it is' гэсэн утгатай нөхцөл хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "If I ___ the scholarship, I will study abroad.",
+   "answer": "get",
+   "options": [
+    "get",
+    "will get",
+    "got",
+    "getting"
+   ],
+   "translation": "Хэрэв би тэтгэлэг авбал гадаадад суралцана.",
+   "explain_en": "In a first conditional, the if-clause uses the present simple, not 'will'.",
+   "explain_mn": "First conditional-д if-ийн дараа одоо цаг (get) хэрэглэнэ, 'will' хэрэглэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "___ the results come out, I will call you.",
+   "answer": "When",
+   "options": [
+    "When",
+    "Until",
+    "Unless",
+    "Although"
+   ],
+   "translation": "Дүн гарахаар би чамд залгана.",
+   "explain_en": "Use 'when' for something that will definitely happen.",
+   "explain_mn": "Заавал болох зүйлд 'when', болох эсэх нь тодорхойгүй бол 'if' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "If you miss the deadline, you ___ lose the chance.",
+   "answer": "might",
+   "options": [
+    "might",
+    "might to",
+    "mights",
+    "are might"
+   ],
+   "translation": "Хэрэв та хугацаагаа алдвал боломжоо алдаж магадгүй.",
+   "explain_en": "'Might' is followed by the base verb and shows possibility.",
+   "explain_mn": "'Might' нь магадлалыг илтгэж, дараа нь үйл үгийн үндсэн хэлбэр ордог."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Сайн байна уу, багшаа. Би гадаадад суралцах тэтгэлгийн талаар асуух гэсэн юм.",
+   "en": "Hello, professor. I wanted to ask about scholarships for studying abroad.",
+   "mn_latin": "Sain baina uu, bagshaa. Bi gadaadad suraltsakh tetgelgiin talaar asuukh gesen yum."
+  },
+  {
+   "speaker": "Professor Brown",
+   "mn": "Тавтай морил. Та ямар улсад суралцахыг хүсч байна вэ?",
+   "en": "Welcome. Which country would you like to study in?",
+   "mn_latin": "Tavtai moril. Ta yamar ulsad suraltsakhyg khüsch baina ve?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Би Герман руу явахыг хүсч байна. Тэтгэлэг авбал магистрын хөтөлбөрт суралцана.",
+   "en": "I would like to go to Germany. If I get a scholarship, I'll enter a master's program.",
+   "mn_latin": "Bi Gyerman ruu yavakhyg khüsch baina. Tetgeleg avbal magistryn khötölbört suraltsana."
+  },
+  {
+   "speaker": "Professor Brown",
+   "mn": "Сайн шийдэл. Шаардлагыг нь уншсан уу?",
+   "en": "A good decision. Have you read the requirements?",
+   "mn_latin": "Sain shiidel. Shaardlagyg ni unshsan uu?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тийм ээ. Англи хэлний оноо, тодорхойлолт, бичиг баримт хэрэгтэй юм билээ.",
+   "en": "Yes. I need an English score, a recommendation letter, and documents.",
+   "mn_latin": "Tiim ee. Angli khelnii onoo, todorkhoilolt, bichig barimt kheregtei yum bilee."
+  },
+  {
+   "speaker": "Professor Brown",
+   "mn": "Хугацаандаа амжихгүй юм бол надад эртхэн хэлээрэй. Би тодорхойлолтыг бичиж өгч чадна.",
+   "en": "If you won't be able to make the deadline, tell me early. I can write the letter for you.",
+   "mn_latin": "Khugatsaandaa amjikhgüi yum bol nadad ertkhen kheleerei. Bi todorkhoiloltyg bichij ögch chadna."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Баярлалаа. Дүн гарахаар би танд шууд мэдэгдье.",
+   "en": "Thank you. When the results come out, I'll let you know right away.",
+   "mn_latin": "Bayarlalaa. Dün garakhaar bi tand shuud medegdiye."
+  },
+  {
+   "speaker": "Professor Brown",
+   "mn": "Сайн байна. Өргөдлөө эртхэн өгвөл амжилт гарах магадлал өснө.",
+   "en": "Good. If you submit early, your chances of success will increase.",
+   "mn_latin": "Sain baina. Örgödlöö ertkhen ögvöl amjilt garakh magadlal ösnö."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian students apply for government scholarships or for programs offered by countries such as Korea, Japan, Germany, and the United States. Applications usually require an official transcript, language test scores, and recommendation letters, and a university adviser can be a big help. Families often support students in this process, since studying abroad is seen as an important investment.",
+  "mn": "Монголын олон оюутан засгийн газрын тэтгэлэг, мөн Солонгос, Япон, Герман, АНУ зэрэг улсын тэтгэлэгт хөтөлбөрт өргөдөл өгдөг. Ихэвчлэн дипломын хавсралт, хэлний шалгалтын оноо, тодорхойлолт шаарддаг бөгөөд зөвлөх багш их тусалдаг. Гадаадад суралцах нь чухал хөрөнгө оруулалт гэж үздэг тул гэр бүл нь ихэвчлэн дэмждэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 22,
+  "notes": "Generally usable but has several unnatural or mismatched Mongolian forms (-вал used for 'when', 'байвал бол') and some unclear English."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Fixed an incorrect vocab example, an unnatural case, a grammar example mismatch, and ambiguous blank options.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "'магистрыг судлах' is wrong; the headword is суралцах"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "'шалгалтад сайн өгөх' is unnatural; шалгалт өгөх takes the accusative"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "The old alt is now the main sentence; this gives a valid alternative"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The negative example had no -гүй; the -бал rule is now stated precisely"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'байсан/байдаг' (relative clause) and 'байхаар' also fit the blank grammatically"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'If' is also grammatical here, so the answer was not unique"
+   }
+  ]
+ }
+}

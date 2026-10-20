@@ -1,0 +1,415 @@
+{
+ "intro_en": "Tune in to a tech podcast that introduces the basics of artificial intelligence. You will learn core AI terms in Mongolian, explain where changes come from with -аас үүдэн, and discuss hypothetical futures in English with \"If X were to + base verb.\"",
+ "intro_mn": "Хиймэл оюун ухааны үндсийг танилцуулах технологийн подкаст сонсоорой. Хиймэл оюун ухааны үндсэн нэр томьёог сурч, өөрчлөлт хаанаас гарсныг -аас үүдэн хэлбэрээр тайлбарлана. Мөн англи хэлний \"If X were to + үйл үг\" бүтцээр ирээдүйн таамаг хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "хиймэл оюун ухаан",
+   "en": "artificial intelligence (AI)",
+   "pos": "noun",
+   "example_mn": "Хиймэл оюун ухаан өдөр тутмын амьдралд нэвтэрч байна.",
+   "example_en": "AI is making its way into everyday life.",
+   "mn_latin": "khiimel oyuun ukhaan"
+  },
+  {
+   "mn": "алгоритм",
+   "en": "algorithm",
+   "pos": "noun",
+   "example_mn": "Энэ алгоритм хэрэглэгчийн сонирхлыг тааж чаддаг.",
+   "example_en": "This algorithm can guess what users are interested in.",
+   "mn_latin": "algoritm"
+  },
+  {
+   "mn": "өгөгдөл",
+   "en": "data",
+   "pos": "noun",
+   "example_mn": "Загвар сургахад их хэмжээний өгөгдөл шаардлагатай.",
+   "example_en": "Training a model requires a large amount of data.",
+   "mn_latin": "ögögdöl"
+  },
+  {
+   "mn": "машин сургалт",
+   "en": "machine learning",
+   "pos": "noun",
+   "example_mn": "Машин сургалт өгөгдлөөс хэв маяг илрүүлдэг.",
+   "example_en": "Machine learning detects patterns in data.",
+   "mn_latin": "mashin surgalt"
+  },
+  {
+   "mn": "автоматжуулалт",
+   "en": "automation",
+   "pos": "noun",
+   "example_mn": "Автоматжуулалтаас үүдэн үйлдвэрийн зарим ажил алга болсон.",
+   "example_en": "Some factory jobs have disappeared because of automation.",
+   "mn_latin": "avtomatjuulalt"
+  },
+  {
+   "mn": "загвар",
+   "en": "model",
+   "pos": "noun",
+   "example_mn": "Энэ хэлний загвар монгол хэлийг сайн ойлгодог.",
+   "example_en": "This language model understands Mongolian well.",
+   "mn_latin": "zagvar"
+  },
+  {
+   "mn": "сургах",
+   "en": "to train",
+   "pos": "verb",
+   "example_mn": "Инженерүүд загварыг шинэ өгөгдлөөр сургаж байна.",
+   "example_en": "The engineers are training the model on new data.",
+   "mn_latin": "surgakh"
+  },
+  {
+   "mn": "хэв маяг",
+   "en": "pattern",
+   "pos": "noun",
+   "example_mn": "Систем худалдан авалтын хэв маягийг тодорхойлдог.",
+   "example_en": "The system identifies purchasing patterns.",
+   "mn_latin": "khev mayag"
+  },
+  {
+   "mn": "ажлын байр",
+   "en": "job",
+   "pos": "noun",
+   "example_mn": "Шинэ технологи шинэ ажлын байр бий болгодог.",
+   "example_en": "New technology creates new jobs.",
+   "mn_latin": "ajlyn bair"
+  },
+  {
+   "mn": "нөлөөлөх",
+   "en": "to affect, to influence",
+   "pos": "verb",
+   "example_mn": "Хиймэл оюун ухаан хөдөлмөрийн зах зээлд нөлөөлж байна.",
+   "example_en": "AI is affecting the labor market.",
+   "mn_latin": "nölöölökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өгөгдлийн чанар муу байснаас үүдэн загвар буруу хариулт өгсөн.",
+   "en": "The model gave wrong answers because the data was of poor quality.",
+   "alt_mn": [
+    "Өгөгдлийн чанар муугаас үүдэн загвар буруу хариулт өгсөн."
+   ],
+   "alt_en": [
+    "Because of poor-quality data, the model gave wrong answers."
+   ],
+   "mn_latin": "Ögögdliin chanar muu baisnaas üüden zagvar buruu khariult ögsön."
+  },
+  {
+   "mn": "Хэрэв хиймэл оюун ухаан эмч нарыг орлох юм бол өвчтөнүүд түүнд итгэх болов уу?",
+   "en": "If AI were to replace doctors, would patients trust it?",
+   "alt_mn": [
+    "Хиймэл оюун ухаан эмч нарыг орловол өвчтөнүүд түүнд итгэх болов уу?"
+   ],
+   "alt_en": [
+    "If artificial intelligence were to replace doctors, would patients trust it?"
+   ],
+   "mn_latin": "Kherev khiimel oyuun ukhaan emch naryg orlokh yum bol övchtönüüd tüünd itgekh bolov uu?"
+  },
+  {
+   "mn": "Машин сургалтын ачаар компьютер туршлагаасаа суралцаж чаддаг болсон.",
+   "en": "Thanks to machine learning, computers can now learn from experience.",
+   "alt_mn": [],
+   "alt_en": [
+    "Machine learning has made it possible for computers to learn from experience."
+   ],
+   "mn_latin": "Mashin surgaltyn achaar kompiyutyer turshlagaasaa suraltsaj chaddag bolson."
+  },
+  {
+   "mn": "Энэ өөрчлөлт шинэ алгоритмаас үүдэлтэй.",
+   "en": "This change stems from a new algorithm.",
+   "alt_mn": [
+    "Энэ өөрчлөлт шинэ алгоритмаас үүдэн гарсан."
+   ],
+   "alt_en": [
+    "This change comes from a new algorithm.",
+    "This change is caused by a new algorithm."
+   ],
+   "mn_latin": "Ene öörchlölt shine algoritmaas üüdeltei."
+  },
+  {
+   "mn": "Хэрэв банкууд бүх шийдвэрийг алгоритмд даатгах юм бол хариуцлагыг хэн хүлээх вэ?",
+   "en": "If banks were to leave all decisions to algorithms, who would take responsibility?",
+   "alt_mn": [],
+   "alt_en": [
+    "If banks were to hand every decision over to algorithms, who would be responsible?"
+   ],
+   "mn_latin": "Kherev bankuud bükh shiidveriig algoritmd daatgakh yum bol khariutslagyg khen khüleekh ve?"
+  },
+  {
+   "mn": "Автоматжуулалтаас үүдэн олон ажилтан шинэ ур чадвар эзэмших шаардлагатай болж байна.",
+   "en": "Because of automation, many workers now need to acquire new skills.",
+   "alt_mn": [],
+   "alt_en": [
+    "Automation means that many workers now need to learn new skills."
+   ],
+   "mn_latin": "Avtomatjuulaltaas üüden olon ajiltan shine ur chadvar ezemshikh shaardlagatai bolj baina."
+  },
+  {
+   "mn": "Загвар хэдий чинээ их өгөгдлөөр суралцана, төдий чинээ нарийвчлалтай болдог.",
+   "en": "The more data a model learns from, the more accurate it becomes.",
+   "alt_mn": [],
+   "alt_en": [
+    "The more data a model is trained on, the more accurate it gets."
+   ],
+   "mn_latin": "Zagvar khedii chinee ikh ögögdlöör suraltsana, tödii chinee nariivchlaltai boldog."
+  },
+  {
+   "mn": "Улаанбаатарын агаарын бохирдлыг урьдчилан таамаглахад машин сургалтыг ашиглаж эхэлжээ.",
+   "en": "Machine learning has started to be used to forecast air pollution in Ulaanbaatar.",
+   "alt_mn": [],
+   "alt_en": [
+    "People have started using machine learning to forecast air pollution in Ulaanbaatar."
+   ],
+   "mn_latin": "Ulaanbaataryn agaaryn bokhirdlyg uridchilan taamaglakhad mashin surgaltyg ashiglaj ekheljee."
+  },
+  {
+   "mn": "Хиймэл оюун ухаан хүн шиг сэтгэдэг үү, эсвэл зөвхөн хэв маяг таньдаг уу?",
+   "en": "Does AI think like a human, or does it just recognize patterns?",
+   "alt_mn": [],
+   "alt_en": [
+    "Does artificial intelligence think the way people do, or does it only recognize patterns?"
+   ],
+   "mn_latin": "Khiimel oyuun ukhaan khün shig setgedeg üü, esvel zövkhön khev mayag tanidag uu?"
+  },
+  {
+   "mn": "Хэрэв машинууд жинхэнэ утгаараа сэтгэж эхлэх юм бол бидний ажил ямар болох бол?",
+   "en": "If machines were to start truly thinking, what would our jobs be like?",
+   "alt_mn": [],
+   "alt_en": [
+    "If machines were to really start thinking, what would happen to our jobs?"
+   ],
+   "mn_latin": "Kherev mashinuud jinkhene utgaaraa setgej ekhlekh yum bol bidnii ajil yamar bolokh bol?"
+  },
+  {
+   "mn": "Нийгмийн сүлжээний алгоритмаас үүдэн хүмүүс зөвхөн өөрийнхөө үзэл бодолтой таарсан мэдээлэл хардаг болсон.",
+   "en": "Because of social media algorithms, people have come to see only information that matches their own views.",
+   "alt_mn": [],
+   "alt_en": [
+    "Social media algorithms have led people to see only information that fits their own views."
+   ],
+   "mn_latin": "Niigmiin süljeenii algoritmaas üüden khümüüs zövkhön ööriinkhöö üzel bodoltoi taarsan medeelel khardag bolson."
+  },
+  {
+   "mn": "Энэ подкастаар бид хиймэл оюун ухааны үндсэн ойлголтуудыг тайлбарлана.",
+   "en": "In this podcast, we'll explain the basic concepts of AI.",
+   "alt_mn": [
+    "Энэ подкастад бид хиймэл оюун ухааны үндсэн ойлголтуудыг тайлбарлах болно."
+   ],
+   "alt_en": [
+    "In this podcast, we will explain the key ideas behind artificial intelligence."
+   ],
+   "mn_latin": "Ene podkastaar bid khiimel oyuun ukhaany ündsen oilgoltuudyg tailbarlana."
+  }
+ ],
+ "grammar": {
+  "title_en": "Explaining origins with -аас үүдэн / Hypotheticals with \"If X were to\"",
+  "title_mn": "-аас үүдэн хэлбэрээр шалтгаан тайлбарлах / \"If X were to\" бүтэц",
+  "explain_en": "To say where a change or problem comes from, put the source noun in the ablative case (-аас/-ээс/-оос/-өөс, following vowel harmony) and add үүдэн, which literally means \"originating from.\" It sounds more analytical than -аас болж (\"because of\") and is common in news, reports, and podcasts: автоматжуулалтаас үүдэн (\"stemming from automation\"). Words that end in a long vowel or diphthong usually insert г (далайгаас). Words with a hidden н take -наас/-нээс instead (алдаа → алдаанаас). To describe a state, use the adjective form үүдэлтэй: Энэ өөрчлөлт алгоритмаас үүдэлтэй (\"This change stems from the algorithm\"). You can also attach it to a verb: муу байснаас үүдэн (\"because it was bad\").",
+  "explain_mn": "Англи хэлэнд ирээдүйд болж магадгүй, гэхдээ тийм ч их итгэлгүй байгаа нөхцөлийг \"If + эзэн + were to + үйл үгийн үндсэн хэлбэр\" бүтцээр илэрхийлдэг. Үр дүнгийн хэсэгт \"would + үйл үг\" хэрэглэнэ: \"If AI were to replace teachers, students would lose something.\" Эзэн нь I, he, it байсан ч \"were\" хэвээрээ байдаг. \"to\"-гийн дараа үйл үг өөрчлөгдөхгүй: \"were to replace\" гэж хэлнэ, \"were to replaced\" гэж хэлэхгүй. Энэ бүтэц энгийн \"If AI replaces...\" бүтцээс илүү албан ёсны өнгө аястай. Ярилцлага, подкаст, мэтгэлцээнд таамаг дэвшүүлэхэд их хэрэглэгддэг.",
+  "examples": [
+   {
+    "mn": "Автоматжуулалтаас үүдэн зарим ажлын байр алга болж байна.",
+    "en": "Some jobs are disappearing as a result of automation.",
+    "mn_latin": "Avtomatjuulaltaas üüden zarim ajlyn bair alga bolj baina."
+   },
+   {
+    "mn": "Энэ алдаа буруу өгөгдлөөс үүдэлтэй.",
+    "en": "This error stems from incorrect data.",
+    "mn_latin": "Ene aldaa buruu ögögdlöös üüdeltei."
+   },
+   {
+    "mn": "Хэрэв хиймэл оюун ухаан багш нарыг орлох юм бол сурагчид их зүйл алдах байх.",
+    "en": "If AI were to replace teachers, students would lose a lot.",
+    "mn_latin": "Kherev khiimel oyuun ukhaan bagsh naryg orlokh yum bol suragchid ikh züil aldakh baikh."
+   },
+   {
+    "mn": "Хэрэв компани ажилд авах шийдвэрийг алгоритмд даатгах юм бол шударга байх уу?",
+    "en": "If the company were to leave hiring decisions to an algorithm, would it be fair?",
+    "mn_latin": "Kherev kompani ajild avakh shiidveriig algoritmd daatgakh yum bol shudarga baikh uu?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Автоматжуулалт___ үүдэн үйлдвэрүүдэд ажилтны тоо буурсан.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "ээс",
+    "оос",
+    "д"
+   ],
+   "translation": "The number of workers in factories has dropped because of automation.",
+   "explain_en": "үүдэн needs the ablative case. The last vowel of автоматжуулалт is а, so vowel harmony gives -аас.",
+   "explain_mn": "үүдэн нь гарахын тийн ялгалтай хамт хэрэглэгдэнэ. \"Автоматжуулалт\" үгийн сүүлийн эгшиг нь \"а\" учраас эгшиг зохицох ёсоор -аас залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Өгөгдлийн алдаанаас ___ загвар буруу дүгнэлт хийсэн.",
+   "answer": "үүдэн",
+   "options": [
+    "үүдэн",
+    "тулд",
+    "тухай",
+    "хүртэл"
+   ],
+   "translation": "The model drew the wrong conclusion because of errors in the data.",
+   "explain_en": "The ablative алдаанаас plus үүдэн names the source of the problem. тулд means \"in order to,\" тухай means \"about\" and takes the genitive, and хүртэл means \"until,\" so none of them express cause here.",
+   "explain_mn": "\"Алдаанаас үүдэн\" гэдэг нь асуудлын эх үүсвэрийг заана. \"Тулд\" нь зорилго, \"хүртэл\" нь хязгаар заадаг. \"Тухай\" нь харьяалахын тийн ялгалтай хэрэглэгддэг тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Машин ___ нь компьютерт өгөгдлөөс суралцах боломж олгодог.",
+   "answer": "сургалт",
+   "options": [
+    "сургалт",
+    "сургууль",
+    "сургах",
+    "суралцагч"
+   ],
+   "translation": "Machine learning allows computers to learn from data.",
+   "explain_en": "The fixed term for \"machine learning\" is машин сургалт. сургууль means \"school,\" сургах is the verb \"to train,\" and суралцагч means \"learner.\"",
+   "explain_mn": "\"Машин сургалт\" бол тогтсон нэр томьёо. \"Сургууль\", \"сургах\", \"суралцагч\" гэсэн үгс энэ утгыг илэрхийлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "If AI were ___ replace teachers, students would lose something important.",
+   "answer": "to",
+   "options": [
+    "to",
+    "for",
+    "going",
+    "will"
+   ],
+   "translation": "Хэрэв хиймэл оюун ухаан багш нарыг орлох юм бол сурагчид чухал зүйлээ алдах байх.",
+   "explain_en": "The structure is \"were to + base verb.\" Only \"to\" completes it.",
+   "explain_mn": "Бүтэц нь \"were to + үйл үгийн үндсэн хэлбэр\" тул \"to\" орно. Бусад хувилбар дүрмийн хувьд буруу."
+  },
+  {
+   "lang": "en",
+   "text": "If robots were to ___ most factory jobs, unemployment would rise.",
+   "answer": "replace",
+   "options": [
+    "replace",
+    "replaced",
+    "replacing",
+    "replaces"
+   ],
+   "translation": "Хэрэв роботууд үйлдвэрийн ихэнх ажлыг орлох юм бол ажилгүйдэл өсөх байсан.",
+   "explain_en": "After \"were to,\" use the base form of the verb with no -ed, -ing, or -s ending.",
+   "explain_mn": "\"were to\"-гийн дараа үйл үг үндсэн хэлбэрээрээ байна. -ed, -ing, -s нөхцөл залгахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "If machines were to start thinking, our jobs ___ change dramatically.",
+   "answer": "would",
+   "options": [
+    "would",
+    "will",
+    "are",
+    "did"
+   ],
+   "translation": "Хэрэв машинууд сэтгэж эхлэх юм бол бидний ажил эрс өөрчлөгдөх байсан.",
+   "explain_en": "The result clause of a \"were to\" hypothetical uses \"would + base verb,\" not \"will.\"",
+   "explain_mn": "\"were to\" нөхцлийн үр дүнгийн хэсэгт \"will\" биш \"would + үйл үг\" хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байцгаана уу! \"Ирээдүйн технологи\" подкастад тавтай морилно уу. Өнөөдөр бид хиймэл оюун ухааны тухай ярина.",
+   "en": "Hello everyone! Welcome to the \"Future Tech\" podcast. Today we're talking about artificial intelligence.",
+   "mn_latin": "Sain baitsgaana uu! \"Ireedüin tyekhnologi\" podkastad tavtai morilno uu. Önöödör bid khiimel oyuun ukhaany tukhai yarina."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Тэгэхээр эхлээд энгийн асуулт тавья. Машин үнэхээр сэтгэж чадах уу?",
+   "en": "So let's start with a simple question. Can a machine really think?",
+   "mn_latin": "Tegekheer ekhleed engiin asuult taviya. Mashin ünekheer setgej chadakh uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Одоогийн системүүд хүн шиг сэтгэдэггүй. Тэд их хэмжээний өгөгдлөөс хэв маяг олж, түүндээ тулгуурлан таамаглал гаргадаг.",
+   "en": "Today's systems don't think like humans. They find patterns in huge amounts of data and make predictions based on them.",
+   "mn_latin": "Odoogiin sistyemüüd khün shig setgedeggüi. Ted ikh khemjeenii ögögdlöös khev mayag olj, tüündee tulguurlan taamaglal gargadag."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Үүнийг л машин сургалт гэдэг, тийм ээ? Алгоритм жишээнүүдээс суралцдаг.",
+   "en": "And that's what we call machine learning, right? The algorithm learns from examples.",
+   "mn_latin": "Üüniig l mashin surgalt gedeg, tiim ee? Algoritm jisheenüüdees suraltsdag."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Яг тийм. Сүүлийн жилүүдийн том өөрчлөлтүүд тооцооллын хүчин чадал өссөнөөс үүдэлтэй.",
+   "en": "Exactly. The big changes of recent years stem from the growth in computing power.",
+   "mn_latin": "Yag tiim. Süüliin jilüüdiin tom öörchlöltüüd tootsoollyn khüchin chadal össönöös üüdeltei."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Сонсогчдод нэг асуулт байна. Хэрэв хиймэл оюун ухаан таны ажлын талыг хийх юм бол та юу хийх вэ?",
+   "en": "Here's a question for our listeners. If AI were to do half of your job, what would you do?",
+   "mn_latin": "Sonsogchdod neg asuult baina. Kherev khiimel oyuun ukhaan tany ajlyn talyg khiikh yum bol ta yuu khiikh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Миний бодлоор бид чөлөөлөгдсөн цагаа бүтээлч ажилд зориулах байх.",
+   "en": "I think we would spend the time we got back on creative work.",
+   "mn_latin": "Minii bodloor bid chölöölögdsön tsagaa büteelch ajild zoriulakh baikh."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Сонирхолтой санаа байна. Дараагийн дугаараар бид ажлын байрны ирээдүйн талаар дэлгэрэнгүй ярилцана.",
+   "en": "That's an interesting idea. In the next episode, we'll talk about the future of jobs in more detail.",
+   "mn_latin": "Sonirkholtoi sanaa baina. Daraagiin dugaaraar bid ajlyn bairny ireedüin talaar delgerengüi yariltsana."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia has been digitizing quickly. Through the government's e-Mongolia platform, people can access hundreds of public services from their phones. Mongolian is a low-resource language for AI, with relatively little online data compared to English, so local startups and universities are building speech recognition and language models designed specifically for Mongolian. Many Ulaanbaatar tech podcasts mix Mongolian with English terms, but there is a growing effort to use native terms like хиймэл оюун ухаан and өгөгдөл.",
+  "mn": "Монгол Улс дижитал шилжилтийг хурдацтай хийж байна. Засгийн газрын e-Mongolia платформоор хүмүүс олон зуун төрийн үйлчилгээг утаснаасаа авах боломжтой. Монгол хэлний онлайн өгөгдөл англи хэлтэй харьцуулахад цөөн байдаг. Тиймээс дотоодын стартап, их сургуулиуд монгол хэлэнд зориулсан яриа таних систем, хэлний загвар бүтээж байна. Улаанбаатарын технологийн подкастуудад англи нэр томьёо их орж ирдэг ч \"хиймэл оюун ухаан\", \"өгөгдөл\" зэрэг монгол нэр томьёог түгээх хүчин чармайлт нэмэгдэж байна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A solid, natural lesson with one inaccurate case-ending rule in the English grammar note and one awkward Mongolian phrase."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "The lesson is solid overall. The fixes are one register slip, one translation mismatch, and one blank that had two valid answers.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "The greeting addresses listeners with polite plural 'байцгаана уу', so the welcome needs the matching polite form 'тавтай морилно уу'."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "The Mongolian line has no 'more', so it was removed from the English."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'алдаанаас хойш' (since the error) is also grammatical, so the blank had two possible answers. Replaced хойш with тухай, which cannot follow the ablative."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Updated to match the new options."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Updated to match the new options."
+   }
+  ]
+ }
+}

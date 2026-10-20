@@ -1,0 +1,486 @@
+{
+ "intro_en": "You will learn to describe what a colleague or friend does at work every day. You will use work verbs like teach, treat, drive, cook, write, sell and help with the Mongolian habitual ending -даг/-дэг/-дог/-дөг.",
+ "intro_mn": "Та хамт ажилладаг хүн эсвэл найзынхаа өдөр бүр ажил дээрээ юу хийдгийг тайлбарлаж сурна. Заах, эмчлэх, жолоодох, хоол хийх, бичих, зарах, туслах зэрэг үйл үгийг -даг/-дэг/-дог/-дөг дагавартай хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "заах",
+   "en": "to teach",
+   "pos": "verb",
+   "example_mn": "Багш англи хэл заадаг.",
+   "example_en": "The teacher teaches English.",
+   "mn_latin": "zaakh"
+  },
+  {
+   "mn": "эмчлэх",
+   "en": "to treat (a patient)",
+   "pos": "verb",
+   "example_mn": "Эмч өвчтөнийг эмчилдэг.",
+   "example_en": "The doctor treats patients.",
+   "mn_latin": "emchlekh"
+  },
+  {
+   "mn": "жолоодох",
+   "en": "to drive",
+   "pos": "verb",
+   "example_mn": "Ах такси жолооддог.",
+   "example_en": "My older brother drives a taxi.",
+   "mn_latin": "joloodokh"
+  },
+  {
+   "mn": "хоол хийх",
+   "en": "to cook",
+   "pos": "verb",
+   "example_mn": "Тогооч бууз хийдэг.",
+   "example_en": "The cook makes buuz.",
+   "mn_latin": "khool khiikh"
+  },
+  {
+   "mn": "бичих",
+   "en": "to write",
+   "pos": "verb",
+   "example_mn": "Сэтгүүлч нийтлэл бичдэг.",
+   "example_en": "The journalist writes articles.",
+   "mn_latin": "bichikh"
+  },
+  {
+   "mn": "зарах",
+   "en": "to sell",
+   "pos": "verb",
+   "example_mn": "Тэр дэлгүүрт хувцас зардаг.",
+   "example_en": "She sells clothes in a shop.",
+   "mn_latin": "zarakh"
+  },
+  {
+   "mn": "туслах",
+   "en": "to help",
+   "pos": "verb",
+   "example_mn": "Сувилагч өвчтөнд тусалдаг.",
+   "example_en": "A nurse helps patients.",
+   "mn_latin": "tuslakh"
+  },
+  {
+   "mn": "өвчтөн",
+   "en": "patient",
+   "pos": "noun",
+   "example_mn": "Өвчтөн эмнэлэгт ирдэг.",
+   "example_en": "Patients come to the hospital.",
+   "mn_latin": "övchtön"
+  },
+  {
+   "mn": "сурагч",
+   "en": "pupil, student",
+   "pos": "noun",
+   "example_mn": "Сурагчид өглөө сургуульд ирдэг.",
+   "example_en": "The pupils come to school in the morning.",
+   "mn_latin": "suragch"
+  },
+  {
+   "mn": "үйлчлүүлэгч",
+   "en": "customer, client",
+   "pos": "noun",
+   "example_mn": "Үйлчлүүлэгч бараа авдаг.",
+   "example_en": "The customer buys goods.",
+   "mn_latin": "üilchlüülegch"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний найз сургуульд математик заадаг.",
+   "en": "My friend teaches math at a school.",
+   "alt_mn": [
+    "Манай найз сургуульд математик заадаг."
+   ],
+   "alt_en": [
+    "My friend teaches math in a school."
+   ],
+   "mn_latin": "Minii naiz surguulid matyematik zaadag."
+  },
+  {
+   "mn": "Эмч өвчтөнүүдийг эмчилдэг.",
+   "en": "A doctor treats patients.",
+   "alt_mn": [
+    "Эмч өвчтөнийг эмчилдэг."
+   ],
+   "alt_en": [
+    "The doctor treats patients."
+   ],
+   "mn_latin": "Emch övchtönüüdiig emchildeg."
+  },
+  {
+   "mn": "Миний аав автобус жолооддог.",
+   "en": "My father drives a bus.",
+   "alt_mn": [],
+   "alt_en": [
+    "My dad drives a bus."
+   ],
+   "mn_latin": "Minii aav avtobus jolooddog."
+  },
+  {
+   "mn": "Тогооч өдөр бүр бууз хийдэг.",
+   "en": "The cook makes buuz every day.",
+   "alt_mn": [],
+   "alt_en": [
+    "The cook makes buuz daily."
+   ],
+   "mn_latin": "Togooch ödör bür buuz khiideg."
+  },
+  {
+   "mn": "Сэтгүүлч сонинд нийтлэл бичдэг.",
+   "en": "The journalist writes articles for a newspaper.",
+   "alt_mn": [],
+   "alt_en": [
+    "A journalist writes articles in a newspaper."
+   ],
+   "mn_latin": "Setgüülch sonind niitlel bichdeg."
+  },
+  {
+   "mn": "Тэр захад мах зардаг.",
+   "en": "She sells meat at the market.",
+   "alt_mn": [
+    "Тэр зах дээр мах зардаг."
+   ],
+   "alt_en": [
+    "She sells meat at a market."
+   ],
+   "mn_latin": "Ter zakhad makh zardag."
+  },
+  {
+   "mn": "Сувилагч өвчтөнд тусалдаг.",
+   "en": "A nurse helps patients.",
+   "alt_mn": [
+    "Сувилагч өвчтөнүүдэд тусалдаг."
+   ],
+   "alt_en": [
+    "The nurse helps patients."
+   ],
+   "mn_latin": "Suvilagch övchtönd tusaldag."
+  },
+  {
+   "mn": "Манай эгч банкинд ажилладаг.",
+   "en": "My older sister works at a bank.",
+   "alt_mn": [
+    "Миний эгч банкинд ажилладаг."
+   ],
+   "alt_en": [
+    "My older sister works in a bank."
+   ],
+   "mn_latin": "Manai egch bankind ajilladag."
+  },
+  {
+   "mn": "Тэр өдөр бүр хэдэн имэйл бичдэг.",
+   "en": "He writes several emails every day.",
+   "alt_mn": [
+    "Тэр өдөр бүр хэд хэдэн имэйл бичдэг."
+   ],
+   "alt_en": [
+    "She writes several emails every day."
+   ],
+   "mn_latin": "Ter ödör bür kheden imeil bichdeg."
+  },
+  {
+   "mn": "Жолооч хүмүүсийг ажил руу нь хүргэдэг.",
+   "en": "The driver takes people to work.",
+   "alt_mn": [],
+   "alt_en": [
+    "A driver takes people to work."
+   ],
+   "mn_latin": "Jolooch khümüüsiig ajil ruu ni khürgedeg."
+  },
+  {
+   "mn": "Багш сурагчдад монгол хэл заадаг.",
+   "en": "The teacher teaches Mongolian to the pupils.",
+   "alt_mn": [
+    "Багш сурагчдад монгол хэл зааж өгдөг."
+   ],
+   "alt_en": [
+    "The teacher teaches the pupils Mongolian."
+   ],
+   "mn_latin": "Bagsh suragchdad mongol khel zaadag."
+  },
+  {
+   "mn": "Дэлгүүрийн худалдагч үйлчлүүлэгчдэд тусалдаг.",
+   "en": "The shop assistant helps customers.",
+   "alt_mn": [],
+   "alt_en": [
+    "The salesperson helps customers."
+   ],
+   "mn_latin": "Delgüüriin khudaldagch üilchlüülegchded tusaldag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Habitual -даг/-дэг/-дог/-дөг with objects",
+  "title_mn": "-даг/-дэг/-дог/-дөг дагавар: ажлын үүрэг",
+  "explain_en": "To say what someone usually does at work, add -даг/-дэг/-дог/-дөг to the verb stem. The ending follows vowel harmony: заа → заадаг, бич → бичдэг, зар → зардаг, жолоод → жолооддог, эмчил → эмчилдэг. The object comes before the verb: Багш англи хэл заадаг (The teacher teaches English). A definite object takes -ыг/-ийг, and the person you help takes the dative -д/-т: Эмч өвчтөнийг эмчилдэг, Сувилагч өвчтөнд тусалдаг. There is no -s ending, and the verb stays the same for every person.",
+  "explain_mn": "Монгол хэлэнд ажил мэргэжлийн байнгын үүргийг -даг/-дэг/-дог/-дөг дагавараар илэрхийлнэ. Дагавар нь эгшгийн эв зохицлоор сонгогдоно: заа → заадаг, бич → бичдэг, зар → зардаг, жолоод → жолооддог, эмчил → эмчилдэг. Тусагдахуун үйл үгийн өмнө байна: Багш англи хэл заадаг. Тодорхой тусагдахууныг -ыг/-ийг, тусалж буй хүнийг -д/-т дагавраар хэлнэ: Эмч өвчтөнийг эмчилдэг, Сувилагч өвчтөнд тусалдаг. Монгол хэлэнд англи хэлний -s залгавар байхгүй, үйл үг бүх хүнд ижил хэвээр байна.",
+  "examples": [
+   {
+    "mn": "Багш англи хэл заадаг.",
+    "en": "A teacher teaches English.",
+    "mn_latin": "Bagsh angli khel zaadag."
+   },
+   {
+    "mn": "Эмч өвчтөнийг эмчилдэг.",
+    "en": "A doctor treats patients.",
+    "mn_latin": "Emch övchtöniig emchildeg."
+   },
+   {
+    "mn": "Жолооч автобус жолооддог.",
+    "en": "A driver drives a bus.",
+    "mn_latin": "Jolooch avtobus jolooddog."
+   },
+   {
+    "mn": "Сувилагч өвчтөнд тусалдаг.",
+    "en": "A nurse helps patients.",
+    "mn_latin": "Suvilagch övchtönd tusaldag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Багш сурагчдад хэл ___.",
+   "answer": "заадаг",
+   "options": [
+    "заадаг",
+    "заадэг",
+    "зааж",
+    "заасан"
+   ],
+   "translation": "The teacher teaches the pupils a language.",
+   "explain_en": "The stem заа- has back vowels, so the habitual ending is -даг: заадаг.",
+   "explain_mn": "Заа- үндэс нь хатуу эгшигтэй тул -даг дагавар залгаж «заадаг» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Эмч өвчтөн___ эмчилдэг.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "д",
+    "өөс",
+    "тэй"
+   ],
+   "translation": "The doctor treats the patient.",
+   "explain_en": "The object of эмчлэх takes the accusative: өвчтөнийг.",
+   "explain_mn": "Эмчлэх үйл үгийн тусагдахуун нэр үгэнд заахын тийн ялгалын -ийг залгана: өвчтөнийг."
+  },
+  {
+   "lang": "mn",
+   "text": "Сувилагч өвчтөн___ тусалдаг.",
+   "answer": "д",
+   "options": [
+    "д",
+    "ийг",
+    "өөс",
+    "ыг"
+   ],
+   "translation": "A nurse helps patients.",
+   "explain_en": "Туслах takes the dative for the person helped: өвчтөнд.",
+   "explain_mn": "Туслах үйл үг өгөх-орших тийн ялгалтай нэртэй хэрэглэгдэнэ: өвчтөнд."
+  },
+  {
+   "lang": "en",
+   "text": "A nurse ___ patients.",
+   "answer": "helps",
+   "options": [
+    "helps",
+    "help",
+    "helping",
+    "to help"
+   ],
+   "translation": "Сувилагч өвчтөнд тусалдаг.",
+   "explain_en": "With a singular subject (a nurse), the present simple verb takes -s: helps.",
+   "explain_mn": "Нэгж тооны гуравдагч этгээдийн дэргэд энгийн одоо цагт -s залгана: helps."
+  },
+  {
+   "lang": "en",
+   "text": "My brother ___ a bus.",
+   "answer": "drives",
+   "options": [
+    "drives",
+    "drive",
+    "driving",
+    "is drive"
+   ],
+   "translation": "Миний ах автобус жолооддог.",
+   "explain_en": "My brother = he, so add -s: drives.",
+   "explain_mn": "My brother нь he-тэй адил тул үйл үгэнд -s залгана: drives."
+  },
+  {
+   "lang": "en",
+   "text": "They ___ clothes at the market.",
+   "answer": "sell",
+   "options": [
+    "sell",
+    "sells",
+    "selling",
+    "sold"
+   ],
+   "translation": "Тэд захад хувцас зардаг.",
+   "explain_en": "With they, the verb has no -s: sell.",
+   "explain_mn": "They-тэй үед үйл үгэнд -s залгахгүй: sell."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Болд, таны найз юу хийдэг вэ?",
+   "en": "Bold, what does your friend do?",
+   "mn_latin": "Bold, tany naiz yuu khiideg ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тэр эмч. Эмнэлэгт өвчтөнүүдийг эмчилдэг.",
+   "en": "She is a doctor. She treats patients at a hospital.",
+   "mn_latin": "Ter emch. Emnelegt övchtönüüdiig emchildeg."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Тэр өдөр бүр ажилладаг уу?",
+   "en": "Does she work every day?",
+   "mn_latin": "Ter ödör bür ajilladag uu?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тийм, бараг өдөр бүр. Заримдаа шөнө ч ажилладаг.",
+   "en": "Yes, almost every day. Sometimes she works at night too.",
+   "mn_latin": "Tiim, barag ödör bür. Zarimdaa shönö ch ajilladag."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Таны ах юу хийдэг вэ?",
+   "en": "What does your older brother do?",
+   "mn_latin": "Tany akh yuu khiideg ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Ах маань такси жолооддог. Хүмүүсийг ажил руу нь хүргэдэг.",
+   "en": "My brother drives a taxi. He takes people to work.",
+   "mn_latin": "Akh maani taksi jolooddog. Khümüüsiig ajil ruu ni khürgedeg."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Сонирхолтой ажил байна шүү!",
+   "en": "That sounds like an interesting job!",
+   "mn_latin": "Sonirkholtoi ajil baina shüü!"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тийм ээ, тэд хоёулаа хүмүүст тусалдаг.",
+   "en": "Yes, they both help people.",
+   "mn_latin": "Tiim ee, ted khoyoulaa khümüüst tusaldag."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, people often ask «Та юу хийдэг вэ?» (What do you do?), and the answer uses the habitual -даг form to describe a regular job. Family and friends are proud of each other's work, so people happily explain what a brother, sister or friend does. In Ulaanbaatar, many people also have a second job or sell goods at markets like Narantuul in their spare time.",
+  "mn": "Монголд «Та юу хийдэг вэ?» гэж асуухад -даг, -дэг хэлбэрээр байнгын ажлаа хэлдэг. Гэр бүл, найз нөхөд бие биенийхээ ажлыг бахархан ярьдаг. Улаанбаатарт олон хүн чөлөөт цагаараа Нарантуул зэрэг захад бараа зардаг, хоёр ажил хийдэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 7,
+  "notes": "Mongolian-side grammar explanation was wrongly about English and contained garbled text; a typo in a fill-blank translation; otherwise mostly fine."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 16,
+  "notes": "The main error was the repeated wrong habitual form жолоодог (correct: жолооддог); also fixed ablative distractors, case terminology and some alternatives.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "Stem жолоод- + -дог gives жолооддог"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "Wrong habitual form; must be жолооддог"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "A generic object should not take the accusative; буузыг is unnatural here"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "Манай эгч means 'my sister' in English"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "'to their work' is unnatural English"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Corrected the forms жолооддог and the stem бич-"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Corrected the forms жолооддог and the stem бич-"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "Correct form is жолооддог"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "After өвчтөн the ablative is -өөс, not -оос"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Wrong term and spelling: заахын тийн ялгал"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "After өвчтөн the ablative is -өөс, not -оос"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Correct form is жолооддог"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Asking about a job needs юу хийдэг; яадаг is not natural here"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Correct form is жолооддог"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Хамт олон means 'a team', not 'a colleague'; the wording was also unnatural"
+   }
+  ]
+ }
+}

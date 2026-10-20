@@ -1,0 +1,422 @@
+{
+ "intro_en": "Complain about Ulaanbaatar traffic like a local: jams, the even-odd plate rule, and endless summer roadworks. You'll learn to ask about many places at once with хаа хаана, and see how English forms 'what' questions with and without 'did'.",
+ "intro_mn": "Улаанбаатарын түгжрэл, тэгш сондгойн журам, зуны зам засварын талаар таксины жолоочтой ярилцаж сурна. Мөн олон газрын тухай асуухдаа 'хаа хаана' гэж хэрэглэх, англи хэлэнд 'what' асуултыг 'did'-тэй болон 'did'-гүй хэрхэн бүтээхийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "түгжрэл",
+   "en": "traffic jam",
+   "pos": "noun",
+   "example_mn": "Өглөө бүр Энхтайваны өргөн чөлөөнд түгжрэл үүсдэг.",
+   "example_en": "There's a traffic jam on Peace Avenue every morning.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "гэрлэн дохио",
+   "en": "traffic light",
+   "pos": "noun",
+   "example_mn": "Гэрлэн дохио ажиллахгүй байгаа болохоор цагдаа зохицуулж байна.",
+   "example_en": "The traffic light isn't working, so a police officer is directing traffic.",
+   "mn_latin": "gerlen dokhio"
+  },
+  {
+   "mn": "тойруу зам",
+   "en": "detour",
+   "pos": "noun",
+   "example_mn": "Тойруу замаар явбал арай хурдан хүрнэ.",
+   "example_en": "If we take the detour, we'll get there a bit faster.",
+   "mn_latin": "toiruu zam"
+  },
+  {
+   "mn": "дугаарын хязгаарлалт",
+   "en": "license plate restriction",
+   "pos": "noun",
+   "example_mn": "Дугаарын хязгаарлалтын улмаас өнөөдөр машинаа унаж чадахгүй.",
+   "example_en": "Because of the plate restriction, I can't drive my car today.",
+   "mn_latin": "dugaaryn khyazgaarlalt"
+  },
+  {
+   "mn": "тэгш сондгой",
+   "en": "even-odd",
+   "pos": "adjective",
+   "example_mn": "Маргаашаас тэгш сондгойгоор явах журам эхэлнэ.",
+   "example_en": "The even-odd rule starts tomorrow.",
+   "mn_latin": "tegsh sondgoi"
+  },
+  {
+   "mn": "зам засвар",
+   "en": "roadworks",
+   "pos": "noun",
+   "example_mn": "Зам засварын улмаас энэ гудамжийг хаасан.",
+   "example_en": "They closed this street because of roadworks.",
+   "mn_latin": "zam zasvar"
+  },
+  {
+   "mn": "хаах",
+   "en": "to close",
+   "pos": "verb",
+   "example_mn": "Цагдаа гүүрийг хаачихсан байна.",
+   "example_en": "The police have closed the bridge.",
+   "mn_latin": "khaakh"
+  },
+  {
+   "mn": "гацах",
+   "en": "to get stuck",
+   "pos": "verb",
+   "example_mn": "Бид энд хагас цаг гацлаа.",
+   "example_en": "We've been stuck here for half an hour.",
+   "mn_latin": "gatsakh"
+  },
+  {
+   "mn": "уулзвар",
+   "en": "intersection",
+   "pos": "noun",
+   "example_mn": "Дараагийн уулзвараас баруун тийш эргээрэй.",
+   "example_en": "Turn right at the next intersection.",
+   "mn_latin": "uulzvar"
+  },
+  {
+   "mn": "ачаалал ихтэй",
+   "en": "congested",
+   "pos": "adjective",
+   "example_mn": "Оройн цагаар зам ачаалал ихтэй байдаг.",
+   "example_en": "The roads are congested in the evening.",
+   "mn_latin": "achaalal ikhtei"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хаа хаана зам засвартай байна?",
+   "en": "Where are all the roadworks?",
+   "alt_mn": [
+    "Хаа хаана зам засвар хийж байна?"
+   ],
+   "alt_en": [
+    "Which places have roadworks?"
+   ],
+   "mn_latin": "Khaa khaana zam zasvartai baina?"
+  },
+  {
+   "mn": "Дахиад түгжрэлд орлоо.",
+   "en": "We're stuck in traffic again.",
+   "alt_mn": [
+    "Дахиад түгжрэлд орчихлоо."
+   ],
+   "alt_en": [
+    "We got caught in traffic again.",
+    "We're in a traffic jam again."
+   ],
+   "mn_latin": "Dakhiad tügjreld orloo."
+  },
+  {
+   "mn": "Түгжрэл юунаас болж үүссэн бэ?",
+   "en": "What caused the jam?",
+   "alt_mn": [
+    "Түгжрэл юунаас болсон бэ?"
+   ],
+   "alt_en": [
+    "What caused the traffic jam?"
+   ],
+   "mn_latin": "Tügjrel yuunaas bolj üüssen be?"
+  },
+  {
+   "mn": "Тэд юуг хаачихсан юм бэ?",
+   "en": "What did they close?",
+   "alt_mn": [
+    "Тэд юуг хаасан бэ?"
+   ],
+   "alt_en": [
+    "What have they closed?"
+   ],
+   "mn_latin": "Ted yuug khaachikhsan yum be?"
+  },
+  {
+   "mn": "Хотын төвд хаа хаана гэрлэн дохио ажиллахгүй байна.",
+   "en": "Traffic lights aren't working in several places downtown.",
+   "alt_mn": [],
+   "alt_en": [
+    "The traffic lights are out in various places downtown."
+   ],
+   "mn_latin": "Khotyn tövd khaa khaana gerlen dokhio ajillakhgüi baina."
+  },
+  {
+   "mn": "Өнөөдөр тэгш дугаартай машинууд явах өдөр үү?",
+   "en": "Is today an even-plate day?",
+   "alt_mn": [
+    "Өнөөдөр тэгш дугаартай машин явах өдөр үү?"
+   ],
+   "alt_en": [
+    "Can cars with even plates drive today?",
+    "Is today the day for even-numbered plates?"
+   ],
+   "mn_latin": "Önöödör tegsh dugaartai mashinuud yavakh ödör üü?"
+  },
+  {
+   "mn": "Тойруу замаар явбал арай хурдан байх.",
+   "en": "It'd probably be faster to take the detour.",
+   "alt_mn": [
+    "Тойруу замаар явбал арай хурдан байх даа."
+   ],
+   "alt_en": [
+    "Taking the detour would probably be faster."
+   ],
+   "mn_latin": "Toiruu zamaar yavbal arai khurdan baikh."
+  },
+  {
+   "mn": "Энэ уулзвар дээр хорин минут гацлаа.",
+   "en": "We've been stuck at this intersection for twenty minutes.",
+   "alt_mn": [
+    "Энэ уулзвар дээр хорин минут гацчихлаа."
+   ],
+   "alt_en": [
+    "We've been stuck at this intersection for 20 minutes."
+   ],
+   "mn_latin": "Ene uulzvar deer khorin minut gatslaa."
+  },
+  {
+   "mn": "Дугаарын хязгаарлалт байхад ч зам ачаалал ихтэй л байна.",
+   "en": "Even with the plate restriction, the roads are still congested.",
+   "alt_mn": [
+    "Дугаарын хязгаарлалттай байхад ч зам ачаалалтай л байна."
+   ],
+   "alt_en": [
+    "Even with the plate restriction, traffic is still heavy."
+   ],
+   "mn_latin": "Dugaaryn khyazgaarlalt baikhad ch zam achaalal ikhtei l baina."
+  },
+  {
+   "mn": "Зуны турш хаа хаана л зам ухчихсан байдаг.",
+   "en": "All summer long, roads are dug up all over the place.",
+   "alt_mn": [
+    "Зуны турш хаа хаана л зам ухсан байдаг."
+   ],
+   "alt_en": [
+    "All summer, roads are torn up everywhere."
+   ],
+   "mn_latin": "Zuny tursh khaa khaana l zam ukhchikhsan baidag."
+  },
+  {
+   "mn": "Юу болсон бэ, осол гарсан уу?",
+   "en": "What happened? Was there an accident?",
+   "alt_mn": [
+    "Юу болчихов, осол гарсан уу?"
+   ],
+   "alt_en": [
+    "What happened, was there an accident?"
+   ],
+   "mn_latin": "Yuu bolson be, osol garsan uu?"
+  },
+  {
+   "mn": "Таксинд дугаарын хязгаарлалт хамаарахгүй юу?",
+   "en": "Doesn't the plate restriction apply to taxis?",
+   "alt_mn": [],
+   "alt_en": [
+    "Does the plate restriction not apply to taxis?"
+   ],
+   "mn_latin": "Taksind dugaaryn khyazgaarlalt khamaarakhgüi yuu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking about many places: хаа хаана / Subject vs object questions with 'what'",
+  "title_mn": "Олон газрын тухай: хаа хаана / 'What'-ээр эхэлсэн эзэн ба тусагдахууны асуулт",
+  "explain_en": "Mongolian doubles question words to talk about several things at once. 'Хаана' means 'where', but 'хаа хаана' means 'in which places (all of them)?' in a question, and 'here and there / all over' in a statement: 'Хаа хаана зам засвартай байна?' (Where are all the roadworks?) vs. 'Хаа хаана л зам ухчихсан' (Roads are dug up all over). Adding 'л' makes it sound even more like a complaint. The same pattern works with 'хэн хэн' (who all) and 'юу юу' (what all). In English, when 'what' is the subject of the question, there is no 'did' and the verb is simply in the past tense: 'What caused the jam?' When 'what' is the object, use 'did' + the base form of the verb: 'What did they close?' (the subject is 'they'). Never say 'What did they closed?', because the verb after 'did' is always in the base form.",
+  "explain_mn": "Монгол хэлэнд асуух үгийг давтаж олон зүйлийн тухай ярьдаг. 'Хаана' нь нэг газрыг асуудаг бол 'хаа хаана' нь асуултад 'ямар ямар газар?' гэсэн утгатай, хүүрнэх өгүүлбэрт 'энд тэнд, хаа сайгүй' гэсэн утгатай: 'Хаа хаана зам засвартай байна?' болон 'Хаа хаана л зам ухчихсан'. 'Л' сул үг нэмбэл гомдоллосон өнгө улам тодорно. Ийм загвар 'хэн хэн', 'юу юу' гэх мэт үгэнд ч бий. Англи хэлэнд 'what' асуултын эзэн бол 'did' хэрэглэхгүй, үйл үг шууд өнгөрсөн цагтаа ордог: 'What caused the jam?' ('what' нь эзэн). Харин 'what' тусагдахуун бол 'did' + үйл үгийн үндсэн хэлбэр хэрэглэнэ: 'What did they close?' (Тэд юуг хаасан бэ? Эзэн нь 'they'). 'What did they closed?' гэж хэлж болохгүй, учир нь 'did'-ийн дараа үйл үг үргэлж үндсэн хэлбэртэй байна.",
+  "examples": [
+   {
+    "mn": "Хаа хаана зам засвартай байна?",
+    "en": "Where are all the roadworks?",
+    "mn_latin": "Khaa khaana zam zasvartai baina?"
+   },
+   {
+    "mn": "Хотын төвд хаа хаана л түгжрэлтэй байна.",
+    "en": "There are traffic jams all over downtown.",
+    "mn_latin": "Khotyn tövd khaa khaana l tügjreltei baina."
+   },
+   {
+    "mn": "Түгжрэл юунаас болж үүссэн бэ?",
+    "en": "What caused the jam?",
+    "mn_latin": "Tügjrel yuunaas bolj üüssen be?"
+   },
+   {
+    "mn": "Тэд юуг хаасан бэ?",
+    "en": "What did they close?",
+    "mn_latin": "Ted yuug khaasan be?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "___ хаана зам засвартай байна?",
+   "answer": "Хаа",
+   "options": [
+    "Хаа",
+    "Хэзээ",
+    "Хэн",
+    "Яаж"
+   ],
+   "translation": "Where are all the roadworks?",
+   "explain_en": "Doubling 'хаана' as 'хаа хаана' asks about several places at once: 'in which places?'",
+   "explain_mn": "'Хаа хаана' гэж давтаж хэлснээр олон газрын тухай асууж байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид тойруу зам___ явъя.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "ыг",
+    "д",
+    "аас"
+   ],
+   "translation": "Let's take the detour.",
+   "explain_en": "The instrumental ending -аар shows the route you travel by: 'замаар' = 'by/along the road'.",
+   "explain_mn": "Ямар замаар явахыг үйлдэх үйлдлийн тийн ялгалын -аар нөхцлөөр илэрхийлнэ: 'замаар' = 'замаар дамжин'."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ гудамжийг зам засварын улмаас хаа___.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "х",
+    "ж",
+    "вал"
+   ],
+   "translation": "They closed this street because of roadworks.",
+   "explain_en": "The past ending -сан completes the sentence: 'хаасан' = 'closed'. '-ж' and '-вал' need another clause to follow.",
+   "explain_mn": "Өгүүлбэрийг өнгөрсөн цагийн -сан нөхцлөөр төгсгөнө. '-ж', '-вал' нь өгүүлбэрийг дуусгадаггүй."
+  },
+  {
+   "lang": "en",
+   "text": "What ___ the jam?",
+   "answer": "caused",
+   "options": [
+    "caused",
+    "did caused",
+    "causing",
+    "did it cause"
+   ],
+   "translation": "Түгжрэл юунаас болж үүссэн бэ?",
+   "explain_en": "'What' is the subject here, so there's no 'did' — just the past tense verb.",
+   "explain_mn": "Энд 'what' нь эзэн тул 'did' хэрэггүй, үйл үг шууд өнгөрсөн цагт орно."
+  },
+  {
+   "lang": "en",
+   "text": "What did they ___?",
+   "answer": "close",
+   "options": [
+    "close",
+    "closed",
+    "closing",
+    "closes"
+   ],
+   "translation": "Тэд юуг хаасан бэ?",
+   "explain_en": "After 'did', always use the base form of the verb: 'did they close'.",
+   "explain_mn": "'Did'-ийн дараа үйл үг үргэлж үндсэн хэлбэртэй байна: 'did they close'."
+  },
+  {
+   "lang": "en",
+   "text": "Who ___ the accident yesterday?",
+   "answer": "saw",
+   "options": [
+    "saw",
+    "did saw",
+    "seen",
+    "seeing"
+   ],
+   "translation": "Өчигдөр ослыг хэн харсан бэ?",
+   "explain_en": "'Who' is the subject, so use the simple past 'saw' without 'did'.",
+   "explain_mn": "'Who' нь эзэн учир 'did'-гүйгээр өнгөрсөн цагийн 'saw' хэлбэрийг хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Дахиад түгжрэлд орчихлоо, тийм үү?",
+   "en": "We're stuck in traffic again, huh?",
+   "mn_latin": "Dakhiad tügjreld orchikhloo, tiim üü?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Тийм ээ. Өнөөдөр сондгой дугаартай машинууд явах өдөр ч гэсэн зам дүүрэн байна.",
+   "en": "Yep. Even though it's an odd-plate day, the road is packed.",
+   "mn_latin": "Tiim ee. Önöödör sondgoi dugaartai mashinuud yavakh ödör ch gesen zam düüren baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Түгжрэл юунаас болж үүссэн юм бол?",
+   "en": "I wonder what caused the jam.",
+   "mn_latin": "Tügjrel yuunaas bolj üüssen yum bol?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Урд талын уулзвар дээр гэрлэн дохио ажиллахгүй байгаа гэсэн. Бас Сөүлийн гудамжийг зам засварын улмаас хаачихсан.",
+   "en": "Apparently the traffic light at the intersection ahead isn't working. And they closed Seoul Street for roadworks.",
+   "mn_latin": "Urd talyn uulzvar deer gerlen dokhio ajillakhgüi baigaa gesen. Bas Söüliin gudamjiig zam zasvaryn ulmaas khaachikhsan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Хаа хаана зам засвартай байна аа?",
+   "en": "Where are all the roadworks, anyway?",
+   "mn_latin": "Khaa khaana zam zasvartai baina aa?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Зун болохоор хаа хаана л ухчихсан байдаг юм. Тойруу замаар явбал арван минут хэмнэнэ.",
+   "en": "It's summer, so roads are dug up all over the place. If we take a detour, we'll save ten minutes.",
+   "mn_latin": "Zun bolokhoor khaa khaana l ukhchikhsan baidag yum. Toiruu zamaar yavbal arvan minut khemnene."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгье, тойруу замаар явъя. Үнэ нь өөрчлөгдөхгүй биз дээ?",
+   "en": "Let's do that. The fare won't change, right?",
+   "mn_latin": "Tegiye, toiruu zamaar yavya. Üne ni öörchlögdökhgüi biz dee?"
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Санаа зоволтгүй, тохирсон үнээрээ л явна.",
+   "en": "Don't worry, we'll stick to the price we agreed on.",
+   "mn_latin": "Sanaa zovoltgüi, tokhirson üneeree l yavna."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar has some of the worst traffic in Asia, so the city regularly limits which cars may drive on weekdays based on the last digit of the license plate, sometimes with an even-odd system. Because the warm season is short, most road repairs are crammed into summer, and complaining about traffic is one of the easiest ways to start a conversation with a taxi driver.",
+  "mn": "Улаанбаатар Азийн хамгийн түгжрэлтэй хотуудын нэг тул ажлын өдрүүдэд улсын дугаарын сүүлийн орноор, заримдаа тэгш сондгойгоор машины хөдөлгөөнийг хязгаарладаг. Дулаан улирал богино учраас зам засварын ихэнх ажил зун хийгддэг бөгөөд түгжрэлийн тухай гомдоллох нь таксины жолоочтой яриа эхлүүлэх хамгийн амар арга юм."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Solid lesson with accurate Mongolian and correct grammar points. The only real problem was the unnatural English 'Where all are there…' gloss, which appeared in an alt answer and in the explanation."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 4,
+  "notes": "Grammar explanations now cover both topics in both languages. Minor term fix in a fill_blank explanation and an en/mn mismatch fixed in the culture note.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "en and mn explanations covered different topics"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "correct grammatical term; match the en explanation"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "'almost all' didn't match mn 'ихэнх' (most)"
+   }
+  ]
+ }
+}

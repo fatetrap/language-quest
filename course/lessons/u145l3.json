@@ -1,0 +1,418 @@
+{
+ "intro_en": "Learn to make small talk with fellow passengers on a long train trip, ask why they are traveling, and share food and tea. You will also learn when to use -дахь and when to use -ын доторх to describe where something is.",
+ "intro_mn": "Урт аяллын үеэр хамт зорчигчидтойгоо ярилцаж, аяллын зорилгыг нь асууж, хоол цайгаа хуваалцаж сурна. Мөн англи хэлний \"once + одоо цаг\" бүтцээр ирээдүйн үйл явдлыг илэрхийлж сурна.",
+ "vocab": [
+  {
+   "mn": "зорчигч",
+   "en": "passenger",
+   "pos": "noun",
+   "example_mn": "Энэ вагонд олон гадаад зорчигч байна.",
+   "example_en": "There are many foreign passengers in this car.",
+   "mn_latin": "zorchigch"
+  },
+  {
+   "mn": "хамт зорчигч",
+   "en": "fellow passenger",
+   "pos": "noun phrase",
+   "example_mn": "Миний хамт зорчигч Эрхүү рүү явж байгаа.",
+   "example_en": "My fellow passenger is going to Irkutsk.",
+   "mn_latin": "khamt zorchigch"
+  },
+  {
+   "mn": "зорилго",
+   "en": "purpose",
+   "pos": "noun",
+   "example_mn": "Таны аяллын зорилго юу вэ?",
+   "example_en": "What is the purpose of your trip?",
+   "mn_latin": "zorilgo"
+  },
+  {
+   "mn": "томилолт",
+   "en": "business trip",
+   "pos": "noun",
+   "example_mn": "Би Москвад томилолтоор явж байна.",
+   "example_en": "I'm going to Moscow on a business trip.",
+   "mn_latin": "tomilolt"
+  },
+  {
+   "mn": "амралт",
+   "en": "vacation",
+   "pos": "noun",
+   "example_mn": "Тэд амралтаараа Байгал нуур руу явж байна.",
+   "example_en": "They're going to Lake Baikal on vacation.",
+   "mn_latin": "amralt"
+  },
+  {
+   "mn": "хуваалцах",
+   "en": "to share",
+   "pos": "verb",
+   "example_mn": "Хоолоо хуваалцъя.",
+   "example_en": "Let's share our food.",
+   "mn_latin": "khuvaaltsakh"
+  },
+  {
+   "mn": "термос",
+   "en": "thermos",
+   "pos": "noun",
+   "example_mn": "Ээж маань термосонд сүүтэй цай хийж өгсөн.",
+   "example_en": "My mom made me milk tea in a thermos.",
+   "mn_latin": "tyermos"
+  },
+  {
+   "mn": "танилцах",
+   "en": "to get to know, to meet",
+   "pos": "verb",
+   "example_mn": "Танилцъя, намайг Бат гэдэг.",
+   "example_en": "Let's introduce ourselves. My name is Bat.",
+   "mn_latin": "taniltsakh"
+  },
+  {
+   "mn": "хажуугийн",
+   "en": "next, neighboring",
+   "pos": "adjective",
+   "example_mn": "Хажуугийн купед хоёр жуулчин байна.",
+   "example_en": "There are two tourists in the next compartment.",
+   "mn_latin": "khajuugiin"
+  },
+  {
+   "mn": "хоолны вагон",
+   "en": "dining car",
+   "pos": "noun phrase",
+   "example_mn": "Хоолны вагон хаана байдаг вэ?",
+   "example_en": "Where is the dining car?",
+   "mn_latin": "khoolny vagon"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Вагоны доторх хүмүүс бүгд найрсаг байна.",
+   "en": "The people in the car are all friendly.",
+   "alt_mn": [
+    "Вагон доторх хүмүүс бүгд найрсаг байна."
+   ],
+   "alt_en": [
+    "Everyone in the car is friendly.",
+    "The people inside the car are all friendly."
+   ],
+   "mn_latin": "Vagony dotorkh khümüüs bügd nairsag baina."
+  },
+  {
+   "mn": "Би Бээжин дэх ажилдаа буцаж явж байна.",
+   "en": "I'm going back to my job in Beijing.",
+   "alt_mn": [
+    "Би Бээжин дэх ажил руугаа буцаж явж байна."
+   ],
+   "alt_en": [
+    "I'm heading back to my job in Beijing."
+   ],
+   "mn_latin": "Bi Beejin dekh ajildaa butsaj yavj baina."
+  },
+  {
+   "mn": "Та ямар зорилгоор аялж байгаа вэ?",
+   "en": "What is the purpose of your trip?",
+   "alt_mn": [
+    "Таны аяллын зорилго юу вэ?"
+   ],
+   "alt_en": [
+    "Why are you traveling?",
+    "What's the purpose of your trip?"
+   ],
+   "mn_latin": "Ta yamar zorilgoor ayalj baigaa ve?"
+  },
+  {
+   "mn": "Би Эрхүү дэх эгчтэйгээ уулзахаар явж байна.",
+   "en": "I'm going to see my older sister in Irkutsk.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm going to visit my older sister in Irkutsk.",
+    "I'm on my way to see my older sister in Irkutsk."
+   ],
+   "mn_latin": "Bi Erkhüü dekh egchteigee uulzakhaar yavj baina."
+  },
+  {
+   "mn": "Эрхүүд хүрмэгцээ би танд залгана.",
+   "en": "Once we get to Irkutsk, I'll call you.",
+   "alt_mn": [
+    "Эрхүүд хүрсний дараа би танд залгана."
+   ],
+   "alt_en": [
+    "I'll call you once we get to Irkutsk.",
+    "Once we arrive in Irkutsk, I'll call you."
+   ],
+   "mn_latin": "Erkhüüd khürmegtsee bi tand zalgana."
+  },
+  {
+   "mn": "Термосны доторх цай одоо ч халуун байна.",
+   "en": "The tea in the thermos is still hot.",
+   "alt_mn": [
+    "Термос доторх цай одоо ч халуун байна."
+   ],
+   "alt_en": [
+    "The tea inside the thermos is still hot."
+   ],
+   "mn_latin": "Tyermosny dotorkh tsai odoo ch khaluun baina."
+  },
+  {
+   "mn": "Хоолоо хуваалцъя, би бууз авчирсан.",
+   "en": "Let's share our food. I brought buuz.",
+   "alt_mn": [
+    "Хоолоо хуваалцъя, би бууз авчирчихсан."
+   ],
+   "alt_en": [
+    "Let's share our food; I brought buuz."
+   ],
+   "mn_latin": "Khooloo khuvaaltsya, bi buuz avchirsan."
+  },
+  {
+   "mn": "Та томилолтоор явж байна уу, амралтаар уу?",
+   "en": "Are you on a business trip or on vacation?",
+   "alt_mn": [
+    "Та томилолтоор явж байгаа юу, амралтаар уу?"
+   ],
+   "alt_en": [
+    "Are you traveling for work or on vacation?"
+   ],
+   "mn_latin": "Ta tomiloltoor yavj baina uu, amraltaar uu?"
+  },
+  {
+   "mn": "Хажуугийн купед Германы хоёр жуулчин байгаа.",
+   "en": "There are two German tourists in the next compartment.",
+   "alt_mn": [
+    "Хажуугийн купед Германаас ирсэн хоёр жуулчин байгаа."
+   ],
+   "alt_en": [
+    "Two German tourists are in the next compartment."
+   ],
+   "mn_latin": "Khajuugiin kupyed Gyermany khoyor juulchin baigaa."
+  },
+  {
+   "mn": "Тэд Улаанбаатар дахь хамгийн сайхан газруудын талаар асуусан.",
+   "en": "They asked about the best places in Ulaanbaatar.",
+   "alt_mn": [],
+   "alt_en": [
+    "They asked about the nicest places in Ulaanbaatar."
+   ],
+   "mn_latin": "Ted Ulaanbaatar dakhi khamgiin saikhan gazruudyn talaar asuusan."
+  },
+  {
+   "mn": "Хил давмагц бид хоолны вагон руу явна.",
+   "en": "Once we cross the border, we'll go to the dining car.",
+   "alt_mn": [
+    "Хил давсны дараа бид хоолны вагон руу явна."
+   ],
+   "alt_en": [
+    "We'll go to the dining car once we cross the border."
+   ],
+   "mn_latin": "Khil davmagts bid khoolny vagon ruu yavna."
+  },
+  {
+   "mn": "Аяллын үеэр шинэ хүмүүстэй танилцах их сонирхолтой.",
+   "en": "It's really interesting to meet new people while traveling.",
+   "alt_mn": [
+    "Аялж байхдаа шинэ хүмүүстэй танилцах их сонирхолтой."
+   ],
+   "alt_en": [
+    "Meeting new people while traveling is really interesting."
+   ],
+   "mn_latin": "Ayallyn üyeer shine khümüüstei taniltsakh ikh sonirkholtoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "-дахь vs. -ын доторх: \"in\" as location vs. \"inside\"",
+  "title_mn": "Once + одоо цаг: ирээдүйн тухай ярих",
+  "explain_en": "Both forms turn a place into a describing word that comes before a noun, but they mean slightly different things. -дахь (дахь/дэх by vowel harmony: дахь after a, o, у words, дэх after э, ө, ү, и words) means \"located in/at\" a city, country, or organization: Бээжин дэх ажил (the job in Beijing), Улаанбаатар дахь газар (a place in Ulaanbaatar). After foreign or long names it is usually written as a separate word. -ын доторх (genitive + доторх) means \"physically inside\" an enclosed space such as a car, box, bag, or thermos: вагоны доторх хүмүүс (the people inside the car), термосны доторх цай (the tea inside the thermos). Use -дахь for where something is located, and доторх when you are thinking of the inside of a container.",
+  "explain_mn": "Англи хэлэнд \"once\" (-мэгц, -сны дараа) гэсэн үгтэй дэд өгүүлбэр ирээдүйг заасан ч will хэрэглэхгүй. Одоо цагийг хэрэглэнэ: Once we get to Irkutsk, I'll call you. (Эрхүүд хүрмэгцээ би чам руу залгана.) \"Once we will get\" гэж хэлэх нь алдаа. Харин гол өгүүлбэрт will, let's эсвэл тушаах хэлбэр орно. 3-р биеийн ганц тоонд -s залгахаа бүү мартаарай: Once the train stops...",
+  "examples": [
+   {
+    "mn": "Бээжин дэх ажил маань их завгүй.",
+    "en": "My job in Beijing is very busy.",
+    "mn_latin": "Beejin dekh ajil maani ikh zavgüi."
+   },
+   {
+    "mn": "Вагоны доторх агаар жаахан бүгчим байна.",
+    "en": "The air inside the car is a bit stuffy.",
+    "mn_latin": "Vagony dotorkh agaar jaakhan bügchim baina."
+   },
+   {
+    "mn": "Галт тэрэг зогсмогц цай ууя.",
+    "en": "Once the train stops, let's have some tea.",
+    "mn_latin": "Galt tereg zogsmogts tsai uuya."
+   },
+   {
+    "mn": "Хил давмагц би чамд мессеж бичнэ.",
+    "en": "I'll text you once I cross the border.",
+    "mn_latin": "Khil davmagts bi chamd myessyej bichne."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Вагоны ___ хүмүүс унтаж байна.",
+   "answer": "доторх",
+   "options": [
+    "доторх",
+    "дахь",
+    "тэх",
+    "дэх"
+   ],
+   "translation": "The people inside the car are sleeping.",
+   "explain_en": "After the genitive вагоны, you need доторх to describe the noun хүмүүс (\"the people inside\"). The location ending дахь/дэх doesn't follow a genitive, and тэх is not a real form.",
+   "explain_mn": "Харьяалахын тийн ялгалтай \"вагоны\" гэсний дараа нэр үгийг тодотгох \"доторх\" орно. \"Дахь/дэх\" нь харьяалахын тийн ялгалын дараа ордоггүй, \"тэх\" гэсэн хэлбэр байдаггүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Улаанбаатар ___ оффис маань төвд байдаг.",
+   "answer": "дахь",
+   "options": [
+    "дахь",
+    "дэх",
+    "дох",
+    "доторх"
+   ],
+   "translation": "Our office in Ulaanbaatar is downtown.",
+   "explain_en": "This means located in a city, so you need -дахь. The last vowel of Улаанбаатар is а, so vowel harmony gives дахь, not дэх. Дох is not a real form.",
+   "explain_mn": "Хотын байршлыг заах тул -дахь хэрэглэнэ. Эгшиг зохицоогоор \"а\"-тай үгэнд \"дахь\" залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Би Эрхүү ___ эгчтэйгээ уулзана.",
+   "answer": "дэх",
+   "options": [
+    "дэх",
+    "дахь",
+    "дөх",
+    "доторх"
+   ],
+   "translation": "I'll meet my older sister in Irkutsk.",
+   "explain_en": "Эрхүү has the front vowel ү, so the ending takes the form дэх. Доторх would wrongly suggest she is physically inside the city as if it were a box.",
+   "explain_mn": "\"Эрхүү\" эр бус эгшигтэй тул \"дэх\" залгана. Хотын байршлыг заахад \"доторх\" тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Once we ___ to Irkutsk, I'll call you.",
+   "answer": "get",
+   "options": [
+    "get",
+    "will get",
+    "got",
+    "getting"
+   ],
+   "translation": "Эрхүүд хүрмэгцээ би чам руу залгана.",
+   "explain_en": "In a clause with once that talks about the future, use the simple present, not will.",
+   "explain_mn": "\"Once\"-той дэд өгүүлбэр ирээдүйг заасан ч will хэрэглэхгүй, одоо цаг (get) орно."
+  },
+  {
+   "lang": "en",
+   "text": "Once the train ___, let's have some tea.",
+   "answer": "stops",
+   "options": [
+    "stops",
+    "will stop",
+    "stop",
+    "stopped"
+   ],
+   "translation": "Галт тэрэг зогсмогц цай ууя.",
+   "explain_en": "Use the simple present after once. The subject is the train (third person singular), so the verb needs -s.",
+   "explain_mn": "\"The train\" нь 3-р биеийн ганц тоо тул одоо цагийн үйл үгэнд -s залгана: stops."
+  },
+  {
+   "lang": "en",
+   "text": "I'll text you once I ___ the border.",
+   "answer": "cross",
+   "options": [
+    "cross",
+    "will cross",
+    "crossed",
+    "crosses"
+   ],
+   "translation": "Хил давмагц би чамд мессеж бичнэ.",
+   "explain_en": "The clause with once can come second, but it still takes the simple present. The subject is I, so there is no -s.",
+   "explain_mn": "\"Once\" өгүүлбэрийн хоёрдугаар хагаст байсан ч одоо цаг орно. \"I\"-тэй үед -s залгахгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу? Танилцъя, намайг Бат гэдэг. Та хаашаа явж байгаа вэ?",
+   "en": "Hello! Let me introduce myself. I'm Bat. Where are you headed?",
+   "mn_latin": "Sain baina uu? Taniltsya, namaig Bat gedeg. Ta khaashaa yavj baigaa ve?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Сайн байна уу, би Эмма. Эрхүү рүү явж байна. Амралтаараа Байгал нуурыг үзэх гэж байгаа юм.",
+   "en": "Hi, I'm Emma. I'm going to Irkutsk. I'm on vacation and want to see Lake Baikal.",
+   "mn_latin": "Sain baina uu, bi Emma. Erkhüü rüü yavj baina. Amraltaaraa Baigal nuuryg üzekh gej baigaa yum."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайхан байна. Би харин томилолтоор Москва дахь салбартаа явж байна.",
+   "en": "That's great. I'm on a business trip to our branch in Moscow.",
+   "mn_latin": "Saikhan baina. Bi kharin tomiloltoor Moskva dakhi salbartaa yavj baina."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Вагоны доторх хүмүүс бүгд их найрсаг юм аа. Хүмүүс надад хоолоо санал болгосон.",
+   "en": "Everyone in the car is so friendly. People have been offering me their food.",
+   "mn_latin": "Vagony dotorkh khümüüs bügd ikh nairsag yum aa. Khümüüs nadad khooloo sanal bolgoson."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм ээ, бид галт тэргэнд хоолоо хуваалцдаг. Ээжийн маань хийсэн бууз байна, амсаад үзээрэй. Термостой сүүтэй цай ч бий.",
+   "en": "Yes, we share food on the train. Here are some buuz my mom made. Please try them. I have milk tea in a thermos, too.",
+   "mn_latin": "Tiim ee, bid galt tergend khooloo khuvaaltsdag. Eejiin maani khiisen buuz baina, amsaad üzeerei. Tyermostoi süütei tsai ch bii."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Баярлалаа, их амттай байна! Надад Улаанбаатарт авсан шоколад байна, хуваалцъя.",
+   "en": "Thank you, they're delicious! I have some chocolate I bought in Ulaanbaatar. Let's share it.",
+   "mn_latin": "Bayarlalaa, ikh amttai baina! Nadad Ulaanbaatart avsan shokolad baina, khuvaaltsya."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Хил давмагц хоолны вагон руу хамт явах уу?",
+   "en": "Once we cross the border, shall we go to the dining car together?",
+   "mn_latin": "Khil davmagts khoolny vagon ruu khamt yavakh uu?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Тэгье! Эрхүүд хүрмэгцээ Байгалын зургуудаа танд явуулна.",
+   "en": "Sure! Once I get to Irkutsk, I'll send you my photos of Baikal.",
+   "mn_latin": "Tegiye! Erkhüüd khürmegtsee Baigalyn zurguudaa tand yavuulna."
+  }
+ ],
+ "culture_note": {
+  "en": "On the Trans-Mongolian Railway, passengers often bring homemade food for the long trip, such as buuz, khuushuur, boiled meat, and thermoses of milk tea, and they offer it to their compartment neighbors. Turning food down entirely can seem a little cold. Accepting a small taste and offering something back is the friendly way to start a conversation. Many lasting friendships begin over a shared cup of tea between Ulaanbaatar and Irkutsk.",
+  "mn": "Транс-Монголын төмөр замаар зорчигчид урт аялалдаа бууз, хуушуур, чанасан мах, термостой сүүтэй цай зэрэг гэрийн хоол авч явж, купены хөршүүддээ санал болгох нь элбэг. Хоолноос огт татгалзах нь жаахан хүйтэн сэтгэгдэл төрүүлж болзошгүй. Бага ч гэсэн амсаад, хариуд нь өөрийн юмаа санал болгох нь яриа эхлүүлэх найрсаг арга юм. Улаанбаатар, Эрхүүгийн хооронд нэг аяга цайны дэргэд олон удаан нөхөрлөл эхэлдэг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 5,
+  "notes": "A solid, natural lesson. The main fixes are a wrong claim about дох/дөх forms and an ambiguous fill-in-the-blank where дотор was also correct."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "The en/mn grammar and intro mismatch looks like the course's deliberate two-direction design (Mongolian grammar for English speakers, English 'once' for Mongolian speakers), so I left it; the main fixes are a wrong case name and an inaccurate translation.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "English says 'asked about the best places'. The original singular 'газрыг асуусан' means 'asked the place', not 'asked about the places'."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "'Илийн тийн ялгал' is wrong: вагоны is genitive (харьяалахын). Also aligned the text with the English note about тэх."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "тэх is not a real form at all, not just the wrong one here."
+   }
+  ]
+ }
+}

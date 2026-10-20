@@ -1,0 +1,414 @@
+{
+ "intro_en": "Learn to ask for and give scores during and after a match in Mongolian. You'll practice saying a team won, lost, or drew with a score like 3:1-ээр, and how English speakers read scores aloud.",
+ "intro_mn": "Тоглолтын үеэр болон дараа нь оноо асууж, хэлж сурна. Мөн англиар оноог хэрхэн чангаар уншдаг (three-one, two all, nil/zero), хожсон, хожигдсон, тэнцсэнийг хэрхэн хэлдгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "оноо",
+   "en": "score; point",
+   "pos": "noun",
+   "example_mn": "Одоо оноо хэд байна?",
+   "example_en": "What's the score now?",
+   "mn_latin": "onoo"
+  },
+  {
+   "mn": "гоол",
+   "en": "goal",
+   "pos": "noun",
+   "example_mn": "Тэр үнэхээр сайхан гоол байлаа.",
+   "example_en": "That was a really beautiful goal.",
+   "mn_latin": "gool"
+  },
+  {
+   "mn": "тэнцээ",
+   "en": "draw; tie",
+   "pos": "noun",
+   "example_mn": "Өчигдрийн тоглолт тэнцээгээр дууссан.",
+   "example_en": "Yesterday's game ended in a draw.",
+   "mn_latin": "tentsee"
+  },
+  {
+   "mn": "хожих",
+   "en": "to win",
+   "pos": "verb",
+   "example_mn": "Манай баг 3:1-ээр хожлоо.",
+   "example_en": "Our team won three-one.",
+   "mn_latin": "khojikh"
+  },
+  {
+   "mn": "хожигдох",
+   "en": "to lose (a game)",
+   "pos": "verb",
+   "example_mn": "Тэд 0:2-оор хожигдсон.",
+   "example_en": "They lost two-nothing.",
+   "mn_latin": "khojigdokh"
+  },
+  {
+   "mn": "тэнцэх",
+   "en": "to draw; to tie",
+   "pos": "verb",
+   "example_mn": "Хоёр баг 2:2-оор тэнцлээ.",
+   "example_en": "The two teams tied two all.",
+   "mn_latin": "tentsekh"
+  },
+  {
+   "mn": "тэргүүлэх",
+   "en": "to lead; to be ahead",
+   "pos": "verb",
+   "example_mn": "Монгол 1:0-ээр тэргүүлж байна.",
+   "example_en": "Mongolia is leading one-nothing.",
+   "mn_latin": "tergüülekh"
+  },
+  {
+   "mn": "гоол оруулах",
+   "en": "to score a goal",
+   "pos": "verb phrase",
+   "example_mn": "Тэр сүүлийн минутад гоол оруулсан.",
+   "example_en": "He scored in the last minute.",
+   "mn_latin": "gool oruulakh"
+  },
+  {
+   "mn": "эхний хагас",
+   "en": "first half",
+   "pos": "noun phrase",
+   "example_mn": "Эхний хагас 0:0-ээр дууслаа.",
+   "example_en": "The first half ended zero-zero.",
+   "mn_latin": "ekhnii khagas"
+  },
+  {
+   "mn": "тэг",
+   "en": "zero; nil",
+   "pos": "numeral",
+   "example_mn": "Оноо тэг тэг байна.",
+   "example_en": "It's nil-nil.",
+   "mn_latin": "teg"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Оноо хэд байна?",
+   "en": "What's the score?",
+   "alt_mn": [
+    "Одоо оноо хэд байна?"
+   ],
+   "alt_en": [
+    "What is the score?",
+    "What's the score now?"
+   ],
+   "mn_latin": "Onoo khed baina?"
+  },
+  {
+   "mn": "Одоогоор 2:1 байна.",
+   "en": "It's two-one right now.",
+   "alt_mn": [
+    "Одоо 2:1 байна."
+   ],
+   "alt_en": [
+    "It's 2-1 right now.",
+    "Right now it's two-one.",
+    "It's two to one right now."
+   ],
+   "mn_latin": "Odoogoor 2:1 baina."
+  },
+  {
+   "mn": "Манай баг 3:1-ээр хожлоо.",
+   "en": "Our team won three-one.",
+   "alt_mn": [
+    "Манайх 3:1-ээр хожлоо."
+   ],
+   "alt_en": [
+    "Our team won 3-1.",
+    "Our team won three to one."
+   ],
+   "mn_latin": "Manai bag 3:1-eer khojloo."
+  },
+  {
+   "mn": "Тоглолт 2:2-оор тэнцлээ.",
+   "en": "The game ended two all.",
+   "alt_mn": [
+    "Тоглолт 2:2 тэнцээгээр дууслаа."
+   ],
+   "alt_en": [
+    "The game was tied 2-2.",
+    "The match ended in a 2-2 draw.",
+    "It was a two-two tie."
+   ],
+   "mn_latin": "Toglolt 2:2-oor tentslee."
+  },
+  {
+   "mn": "Бид 0:1-ээр хожигдсон.",
+   "en": "We lost one-nothing.",
+   "alt_mn": [
+    "Бид 0:1-ээр хожигдлоо."
+   ],
+   "alt_en": [
+    "We lost 1-0.",
+    "We lost one-nil.",
+    "We lost one to nothing."
+   ],
+   "mn_latin": "Bid 0:1-eer khojigdson."
+  },
+  {
+   "mn": "Хэн гоол оруулсан бэ?",
+   "en": "Who scored?",
+   "alt_mn": [
+    "Гоолыг хэн оруулсан бэ?"
+   ],
+   "alt_en": [
+    "Who scored the goal?"
+   ],
+   "mn_latin": "Khen gool oruulsan be?"
+  },
+  {
+   "mn": "Эхний хагаст гоол ороогүй.",
+   "en": "There were no goals in the first half.",
+   "alt_mn": [
+    "Эхний хагаст хэн ч гоол оруулаагүй."
+   ],
+   "alt_en": [
+    "Nobody scored in the first half.",
+    "No one scored in the first half."
+   ],
+   "mn_latin": "Ekhnii khagast gool oroogüi."
+  },
+  {
+   "mn": "Монголын шигшээ баг 78:75-аар тэргүүлж байна.",
+   "en": "The Mongolian national team is leading 78 to 75.",
+   "alt_mn": [],
+   "alt_en": [
+    "Mongolia's national team is leading seventy-eight to seventy-five.",
+    "The Mongolian national team is ahead 78-75."
+   ],
+   "mn_latin": "Mongolyn shigshee bag 78:75-aar tergüülj baina."
+  },
+  {
+   "mn": "Тэнцээ бидэнд муу биш.",
+   "en": "A draw isn't bad for us.",
+   "alt_mn": [
+    "Тэнцэх нь бидэнд муу биш."
+   ],
+   "alt_en": [
+    "A tie isn't bad for us.",
+    "A draw is not bad for us."
+   ],
+   "mn_latin": "Tentsee bidend muu bish."
+  },
+  {
+   "mn": "Тэд сүүлийн минутад гоол оруулж, оноог тэнцүүллээ.",
+   "en": "They scored in the last minute and tied the game.",
+   "alt_mn": [
+    "Тэд сүүлийн минутад гоол оруулаад тэнцүүллээ."
+   ],
+   "alt_en": [
+    "They scored in the final minute and tied the score.",
+    "They scored in the last minute to tie the game."
+   ],
+   "mn_latin": "Ted süüliin minutad gool oruulj, onoog tentsüüllee."
+  },
+  {
+   "mn": "Эцсийн оноо хэд болсон бэ?",
+   "en": "What was the final score?",
+   "alt_mn": [
+    "Тоглолт хэдээр дууссан бэ?"
+   ],
+   "alt_en": [
+    "What was the final score of the game?"
+   ],
+   "mn_latin": "Etssiin onoo khed bolson be?"
+  },
+  {
+   "mn": "Тэд хоёр гоолын зөрүүтэй хожсон.",
+   "en": "They won by two goals.",
+   "alt_mn": [],
+   "alt_en": [
+    "They won by a two-goal margin."
+   ],
+   "mn_latin": "Ted khoyor goolyn zörüütei khojson."
+  }
+ ],
+ "grammar": {
+  "title_en": "Giving scores: the instrumental case + хожих / хожигдох / тэнцэх",
+  "title_mn": "Англиар оноо унших: three-one, two all, nil/zero",
+  "explain_en": "In Mongolian, the score takes the instrumental case ending (-аар/-ээр/-оор/-өөр, \"by/with\"), and the verb says what happened: хожих (win), хожигдох (lose), тэнцэх (draw). The ending goes on the last number and follows its vowel harmony: нэг → нэгээр, хоёр → хоёроор, гурав → гурваар, тэг → тэгээр, and after a long vowel add -г-: зургаа → зургаагаар. In writing, put a hyphen after the digits: 3:1-ээр хожлоо (read: гурав нэгээр). Mongolians usually say their own team's score first, even when they lose: Бид 0:2-оор хожигдлоо. To ask how something ended, use хэдээр: Тоглолт хэдээр дууссан бэ?",
+  "explain_mn": "Англиар оноог тоогоор нь уншдаг: 3-1 → \"three-one\", 78-75 → \"seventy-eight to seventy-five\". Тэнцсэн оноог \"two all\" эсвэл (Америкт) \"two-two\" гэнэ. Тэгийг Британид \"nil\", Америкт \"nothing\" эсвэл \"zero\" гэж хэлдэг: \"one-nothing\", \"nil-nil\". Анхаараарай: англиар ихэвчлэн их тоог түрүүлж хэлдэг. Тиймээс хожигдсон ч \"We lost two-one\" гэнэ, \"one-two\" гэхгүй. Зөрүүг \"by\"-гаар илэрхийлнэ: \"They won by two goals.\" Тэнцэхийг \"to tie\" эсвэл \"to draw\" гэдэг.",
+  "examples": [
+   {
+    "mn": "Манай баг 3:1-ээр хожлоо.",
+    "en": "Our team won three-one.",
+    "mn_latin": "Manai bag 3:1-eer khojloo."
+   },
+   {
+    "mn": "Хоёр баг 2:2-оор тэнцлээ.",
+    "en": "The two teams tied two all.",
+    "mn_latin": "Khoyor bag 2:2-oor tentslee."
+   },
+   {
+    "mn": "Бид 1:2-оор хожигдлоо.",
+    "en": "We lost two-one.",
+    "mn_latin": "Bid 1:2-oor khojigdloo."
+   },
+   {
+    "mn": "Эхний хагас 0:0-ээр дууссан.",
+    "en": "The first half ended nil-nil.",
+    "mn_latin": "Ekhnii khagas 0:0-eer duussan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Манай баг 3:1-___ хожлоо.",
+   "answer": "ээр",
+   "options": [
+    "ээр",
+    "аар",
+    "оор",
+    "өөр"
+   ],
+   "translation": "Our team won three-one.",
+   "explain_en": "The ending attaches to the last number, нэг (one). It has the front vowel э, so the instrumental is -ээр: нэгээр.",
+   "explain_mn": "Нөхцөл сүүлийн тоо болох \"нэг\"-д залгана. Эм үгийн эгшигтэй тул -ээр болно: нэгээр."
+  },
+  {
+   "lang": "mn",
+   "text": "Хоёр баг 2:2-___ тэнцлээ.",
+   "answer": "оор",
+   "options": [
+    "оор",
+    "ээр",
+    "аар",
+    "тай"
+   ],
+   "translation": "The two teams tied two all.",
+   "explain_en": "The last number is хоёр (two). Its vowel is о, so vowel harmony gives -оор: хоёроор.",
+   "explain_mn": "Сүүлийн тоо \"хоёр\" нь о эгшигтэй тул эгшиг зохицох ёсоор -оор залгана: хоёроор."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид 1:3-аар ___.",
+   "answer": "хожигдлоо",
+   "options": [
+    "хожигдлоо",
+    "хожлоо",
+    "тэнцлээ",
+    "тэргүүллээ"
+   ],
+   "translation": "We lost three-one.",
+   "explain_en": "Our side has 1 and the other side has 3, so we lost: хожигдох → хожигдлоо. Mongolians say their own team's score first.",
+   "explain_mn": "Бид 1, нөгөө баг 3 оноотой тул хожигдсон байна. Хожигдох → хожигдлоо. Монголчууд өөрийн багийн оноог түрүүлж хэлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "The game ended two ___.",
+   "answer": "all",
+   "options": [
+    "all",
+    "both",
+    "each",
+    "same"
+   ],
+   "translation": "Тоглолт 2:2-оор тэнцлээ.",
+   "explain_en": "For a tied score, English says the number plus \"all\": two all, one all. (Americans also say \"two-two.\")",
+   "explain_mn": "Тэнцсэн оноог англиар тоо + \"all\" гэж уншдаг: \"two all\", \"one all\"."
+  },
+  {
+   "lang": "en",
+   "text": "We lost three-___. We didn't score at all.",
+   "answer": "nothing",
+   "options": [
+    "nothing",
+    "none",
+    "no",
+    "empty"
+   ],
+   "translation": "Бид 0:3-аар хожигдсон. Бид огт гоол оруулаагүй.",
+   "explain_en": "In American English, zero in a score is read as \"nothing\" (or \"zero\"). In British English it's \"nil.\"",
+   "explain_mn": "Америк англиар онооны тэгийг \"nothing\" эсвэл \"zero\", Британид \"nil\" гэж уншдаг. \"None\" гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Brazil won ___ two goals.",
+   "answer": "by",
+   "options": [
+    "by",
+    "with",
+    "for",
+    "on"
+   ],
+   "translation": "Бразил хоёр гоолын зөрүүтэй хожсон.",
+   "explain_en": "Use \"by\" to give the winning margin: won by two goals, lost by three points.",
+   "explain_mn": "Хожсон, хожигдсон зөрүүг \"by\"-гаар илэрхийлнэ: won by two goals, lost by three points."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Уучлаарай, хоцорчихлоо. Оноо хэд байна?",
+   "en": "Sorry, I'm late. What's the score?",
+   "mn_latin": "Uuchlaarai, khotsorchikhloo. Onoo khed baina?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Манайх 1:0-ээр тэргүүлж байна. Ганбаатар арван минутын өмнө гоол оруулсан.",
+   "en": "We're up one-nothing. Ganbaatar scored ten minutes ago.",
+   "mn_latin": "Manaikh 1:0-eer tergüülj baina. Ganbaatar arvan minutyn ömnö gool oruulsan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Гайхалтай! Эхний хагас хэдээр дууссан бэ?",
+   "en": "Awesome! How did the first half end?",
+   "mn_latin": "Gaikhaltai! Ekhnii khagas khedeer duussan be?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэг тэг. Нөгөө баг сайн хамгаалсан.",
+   "en": "Nil-nil. The other team defended well.",
+   "mn_latin": "Teg teg. Nögöö bag sain khamgaalsan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Өө, үгүй! Тэд гоол оруулчихлаа. Одоо 1:1 боллоо.",
+   "en": "Oh no! They scored. Now it's one all.",
+   "mn_latin": "Öö, ügüi! Ted gool oruulchikhlaa. Odoo 1:1 bolloo."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэнцээ ч гэсэн муу биш шүү дээ.",
+   "en": "Well, a draw isn't so bad.",
+   "mn_latin": "Tentsee ch gesen muu bish shüü dee."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Үгүй ээ, бид хожих ёстой! Хараач, Тэмүүлэн гоол оруулчихлаа!",
+   "en": "No way, we have to win! Look, Temuulen scored!",
+   "mn_latin": "Ügüi ee, bid khojikh yostoi! Kharaach, Temüülen gool oruulchikhlaa!"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "2:1! Тоглолт дуусахад таван минут л үлдлээ.",
+   "en": "Two-one! There are only five minutes left in the game.",
+   "mn_latin": "2:1! Toglolt duusakhad tavan minut l üldlee."
+  }
+ ],
+ "culture_note": {
+  "en": "Not every Mongolian sport has a score. In Naadam wrestling, a match has no points: a wrestler loses as soon as his knee, elbow, or back touches the ground. Football and basketball are hugely popular, though, and Mongolia's 3x3 basketball teams have done well internationally, so fans in Ulaanbaatar often check scores on their phones.",
+  "mn": "Монголын бүх спортод оноо байдаггүй. Наадмын бөхөд оноо тоолдоггүй: өвдөг, тохой эсвэл нуруу нь газарт хүрмэгц бөх унадаг. Харин хөл бөмбөг, сагсан бөмбөг маш их алдартай. Монголын 3x3 сагсан бөмбөгийн багууд олон улсад амжилт гаргасан тул Улаанбаатарын хөгжөөн дэмжигчид утсаараа оноо байнга шалгадаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "Strong lesson with correct vowel harmony, case endings, and score conventions in both languages. Only one ungrammatical alternative needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "The lesson is in very good shape: case endings, vowel harmony and scores are correct throughout. The only fix makes the mn explanation match the en one.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "mn explanation was missing the point about saying one's own team's score first, which the en version makes"
+   }
+  ]
+ }
+}

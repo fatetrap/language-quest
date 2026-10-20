@@ -1,0 +1,409 @@
+{
+ "intro_en": "Learn how to call out to friends, children, and neighbors across the yard. You'll practice the Mongolian vocative particles аа/ээ/оо/өө (Болд оо!, эгч ээ!), see when to drop them, and compare them with English calls like \"Hey, Bold!\" and \"Hi there!\"",
+ "intro_mn": "Хашаанаас найз, хүүхэд, хөршөө хэрхэн дуудахыг сурна. Эгшгийн зохицлоор сонгогддог аа/ээ/оо/өө дуудах сул үгийг (Болд оо!, эгч ээ!) хэрэглэж, хэзээ хэрэглэхгүй байж болохыг үзнэ. Мөн англи хэлний \"Hey, Bold!\", \"Hi there!\" гэх дуудлага, түүний аялгатай танилцана.",
+ "vocab": [
+  {
+   "mn": "дуудах",
+   "en": "to call (out to)",
+   "pos": "verb",
+   "example_mn": "Ээж намайг гэрт дуудлаа.",
+   "example_en": "Mom called me inside.",
+   "mn_latin": "duudakh"
+  },
+  {
+   "mn": "хашаа",
+   "en": "yard, fenced yard",
+   "pos": "noun",
+   "example_mn": "Хүүхдүүд хашаанд тоглож байна.",
+   "example_en": "The kids are playing in the yard.",
+   "mn_latin": "khashaa"
+  },
+  {
+   "mn": "хөрш",
+   "en": "neighbor",
+   "pos": "noun",
+   "example_mn": "Манай хөрш их найрсаг.",
+   "example_en": "Our neighbor is very friendly.",
+   "mn_latin": "khörsh"
+  },
+  {
+   "mn": "хөөе",
+   "en": "hey",
+   "pos": "interjection",
+   "example_mn": "Хөөе, Бат аа! Наашаа!",
+   "example_en": "Hey, Bat! Over here!",
+   "mn_latin": "khööye"
+  },
+  {
+   "mn": "наашаа",
+   "en": "over here, this way",
+   "pos": "adverb",
+   "example_mn": "Наашаа ир, дүү минь.",
+   "example_en": "Come over here, little one.",
+   "mn_latin": "naashaa"
+  },
+  {
+   "mn": "чанга",
+   "en": "loud, loudly",
+   "pos": "adjective/adverb",
+   "example_mn": "Тэр нэрийг минь чанга дуудсан.",
+   "example_en": "He called my name loudly.",
+   "mn_latin": "changa"
+  },
+  {
+   "mn": "хүүхдүүд",
+   "en": "children, kids",
+   "pos": "noun",
+   "example_mn": "Хүүхдүүд ээ, гэртээ ороорой!",
+   "example_en": "Kids, come inside!",
+   "mn_latin": "khüükhdüüd"
+  },
+  {
+   "mn": "хариулах",
+   "en": "to answer, to respond",
+   "pos": "verb",
+   "example_mn": "Би дуудсан ч тэр хариулсангүй.",
+   "example_en": "I called, but he didn't answer.",
+   "mn_latin": "khariulakh"
+  },
+  {
+   "mn": "сонсох",
+   "en": "to hear, to listen",
+   "pos": "verb",
+   "example_mn": "Чи намайг сонсож байна уу?",
+   "example_en": "Can you hear me?",
+   "mn_latin": "sonsokh"
+  },
+  {
+   "mn": "хаалга",
+   "en": "gate, door",
+   "pos": "noun",
+   "example_mn": "Хашааны хаалга онгорхой байна.",
+   "example_en": "The yard gate is open.",
+   "mn_latin": "khaalga"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Болд оо, наашаа ир!",
+   "en": "Hey, Bold, come over here!",
+   "alt_mn": [
+    "Хөөе, Болд оо, наашаа ир!"
+   ],
+   "alt_en": [
+    "Bold, come here!",
+    "Bold, come over here!"
+   ],
+   "mn_latin": "Bold oo, naashaa ir!"
+  },
+  {
+   "mn": "Хүүхдүүд ээ, хоол бэлэн боллоо!",
+   "en": "Kids, dinner's ready!",
+   "alt_mn": [
+    "Хүүхдүүд ээ, хоол болчихлоо!"
+   ],
+   "alt_en": [
+    "Kids, dinner is ready!",
+    "Children, the food is ready!"
+   ],
+   "mn_latin": "Khüükhdüüd ee, khool belen bolloo!"
+  },
+  {
+   "mn": "Эгч ээ, та гэртээ байна уу?",
+   "en": "Hello, are you home?",
+   "alt_mn": [
+    "Эгч ээ, гэртээ байна уу?"
+   ],
+   "alt_en": [
+    "Ma'am, are you home?"
+   ],
+   "mn_latin": "Egch ee, ta gertee baina uu?"
+  },
+  {
+   "mn": "Дүү гээ, хаалгаа хаагаарай.",
+   "en": "Hey, kiddo, close the gate, okay?",
+   "alt_mn": [
+    "Дүү минь, хаалгаа хаагаарай."
+   ],
+   "alt_en": [
+    "Please close the gate, little one.",
+    "Close the gate, sweetie."
+   ],
+   "mn_latin": "Düü gee, khaalgaa khaagaarai."
+  },
+  {
+   "mn": "Хөөе, Бат аа! Чи хаашаа явж байна?",
+   "en": "Hey, Bat! Where are you going?",
+   "alt_mn": [
+    "Бат аа! Хаашаа явж байгаа юм?"
+   ],
+   "alt_en": [
+    "Hey, Bat! Where are you headed?"
+   ],
+   "mn_latin": "Khööye, Bat aa! Chi khaashaa yavj baina?"
+  },
+  {
+   "mn": "Ээж ээ, би ирлээ!",
+   "en": "Mom, I'm home!",
+   "alt_mn": [
+    "Ээж ээ, би ирчихлээ!"
+   ],
+   "alt_en": [
+    "Mom, I'm back!"
+   ],
+   "mn_latin": "Eej ee, bi irlee!"
+  },
+  {
+   "mn": "Сараа гаа, чи намайг сонсож байна уу?",
+   "en": "Saraa, can you hear me?",
+   "alt_mn": [
+    "Сараа гаа, сонсож байна уу?"
+   ],
+   "alt_en": [
+    "Saraa, do you hear me?"
+   ],
+   "mn_latin": "Saraa gaa, chi namaig sonsoj baina uu?"
+  },
+  {
+   "mn": "Төмөр өө, гараад ир, тоглоё!",
+   "en": "Hey, Tömör, come outside and let's play!",
+   "alt_mn": [
+    "Төмөр өө, гараад ир, хамт тоглоё!"
+   ],
+   "alt_en": [
+    "Tömör, come out and play!"
+   ],
+   "mn_latin": "Tömör öö, garaad ir, togloyo!"
+  },
+  {
+   "mn": "Дорж ах аа, танай нохой хашаанаас гарчихсан байна.",
+   "en": "Dorj, your dog got out of the yard.",
+   "alt_mn": [
+    "Дорж ах аа, танай нохой гадаа гарчихлаа."
+   ],
+   "alt_en": [
+    "Hey, Dorj, your dog got out of the yard."
+   ],
+   "mn_latin": "Dorj akh aa, tanai nokhoi khashaanaas garchikhsan baina."
+  },
+  {
+   "mn": "Би нэрийг нь гурван удаа чанга дуудсан ч тэр хариулсангүй.",
+   "en": "I called his name loudly three times, but he didn't answer.",
+   "alt_mn": [
+    "Би түүнийг гурван удаа чанга дуудсан ч хариулсангүй."
+   ],
+   "alt_en": [
+    "I shouted his name three times, but he didn't respond."
+   ],
+   "mn_latin": "Bi neriig ni gurvan udaa changa duudsan ch ter khariulsangüi."
+  },
+  {
+   "mn": "Болд, суугаач, ярилцъя.",
+   "en": "Bold, have a seat, let's talk.",
+   "alt_mn": [
+    "Болд, суу л даа, ярилцъя."
+   ],
+   "alt_en": [
+    "Bold, sit down, let's talk."
+   ],
+   "mn_latin": "Bold, suugaach, yariltsya."
+  },
+  {
+   "mn": "Багш аа, би нэг юм асууж болох уу?",
+   "en": "Excuse me, teacher, may I ask something?",
+   "alt_mn": [
+    "Багш аа, нэг асуулт асууж болох уу?"
+   ],
+   "alt_en": [
+    "Teacher, can I ask a question?"
+   ],
+   "mn_latin": "Bagsh aa, bi neg yum asuuj bolokh uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Calling someone: the vocative particle аа/ээ/оо/өө",
+  "title_mn": "Хүн дуудах: англи хэлний Hey, Hi there ба дуудлагын аялга",
+  "explain_en": "When you call out to someone in Mongolian, especially from a distance or with feeling, you add a separate particle after the name or address word: Болд оо!, эгч ээ!, ах аа! The vowel follows vowel harmony: after а or у → аа (Бат аа, ах аа); after о → оо (Болд оо, охин оо); after ө → өө (Төмөр өө); after э, ү, и → ээ (эгч ээ, ээж ээ). If the word ends in a vowel, a г is added: Сараа гаа, дүү гээ. You often drop the particle when the person is already close and you're just starting a calm sentence (Болд, суугаач), or when you use минь instead (дүү минь). Think of the particle as the stretched \"Bo-old!\" sound of a call across the yard.",
+  "explain_mn": "Англиар хүн дуудахдаа ихэвчлэн нэрийн өмнө Hey гэж хэлдэг: Hey, Bold! Нэрийг нь мэдэхгүй бол Hi there! эсвэл Excuse me! гэнэ. Монгол хэлний \"оо, ээ\" шиг тусгай дуудах сул үг англи хэлэнд байхгүй. Үүний оронд аялгаараа дууддаг: алсаас нэр дуудахдаа эхний үеийг нь өндөр, хоёр дахийг нь намхан сунжруулан \"Bo-old!\", \"Mo-om!\" гэдэг. Бичихдээ дуудаж буй үгийг таслалаар тусгаарлана: Kids, dinner's ready! / Mom, I'm home! Hey нь найз, дотны хүнд тохирно. Том хүн, багшид Excuse me эсвэл зүгээр нэрийг нь хэлсэн нь эелдэг.",
+  "examples": [
+   {
+    "mn": "Болд оо, наашаа!",
+    "en": "Hey, Bold! Over here!",
+    "mn_latin": "Bold oo, naashaa!"
+   },
+   {
+    "mn": "Сараа гаа, хоол болчихлоо!",
+    "en": "Saraa, food's ready!",
+    "mn_latin": "Saraa gaa, khool bolchikhloo!"
+   },
+   {
+    "mn": "Эгч ээ, хаалгаа онгойлгоорой!",
+    "en": "Hi there! Could you open the gate, please?",
+    "mn_latin": "Egch ee, khaalgaa ongoilgooroi!"
+   },
+   {
+    "mn": "Дүү минь, наашаа ир дээ.",
+    "en": "Come here, sweetie.",
+    "mn_latin": "Düü mini, naashaa ir dee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Болд ___, наашаа ир!",
+   "answer": "оо",
+   "options": [
+    "оо",
+    "аа",
+    "ээ",
+    "өө"
+   ],
+   "translation": "Hey, Bold, come over here!",
+   "explain_en": "Болд has the vowel о, so by vowel harmony the vocative particle is оо.",
+   "explain_mn": "\"Болд\" үгэнд о эгшиг байгаа тул эгшгийн зохицлоор \"оо\" залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Эгч ___, та гэртээ байна уу?",
+   "answer": "ээ",
+   "options": [
+    "ээ",
+    "аа",
+    "оо",
+    "гээ"
+   ],
+   "translation": "Hello, are you home?",
+   "explain_en": "Эгч has the front vowel э and ends in a consonant, so the particle is ээ with no г.",
+   "explain_mn": "\"Эгч\" эм эгшигтэй (э), гийгүүлэгчээр төгссөн тул \"ээ\" залгана. \"г\" нэмэхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Дүү ___, хаалгаа хаагаарай.",
+   "answer": "гээ",
+   "options": [
+    "гээ",
+    "ээ",
+    "гаа",
+    "оо"
+   ],
+   "translation": "Hey, kiddo, close the gate, okay?",
+   "explain_en": "Дүү ends in a vowel, so a г is added, and ү takes the ээ variant: дүү гээ.",
+   "explain_mn": "\"Дүү\" эгшгээр төгссөн тул \"г\" нэмж, ү эгшигт тохирох \"гээ\" хэлбэрийг авна."
+  },
+  {
+   "lang": "en",
+   "text": "___, Bold! Over here!",
+   "answer": "Hey",
+   "options": [
+    "Hey",
+    "Please",
+    "Sorry",
+    "Thanks"
+   ],
+   "translation": "Хөөе, Болд оо! Наашаа!",
+   "explain_en": "\"Hey\" is the usual casual word for getting a friend's attention.",
+   "explain_mn": "Найзынхаа анхаарлыг татахдаа \"Hey\" гэж хэлдэг. Энэ нь монголын \"хөөе\"-тэй адил."
+  },
+  {
+   "lang": "en",
+   "text": "Hi ___! Could you help me with the gate?",
+   "answer": "there",
+   "options": [
+    "there",
+    "here",
+    "them",
+    "it"
+   ],
+   "translation": "Сайн байна уу! Хаалга онгойлгоход туслаад өгөөч.",
+   "explain_en": "\"Hi there!\" is a friendly way to call out to someone whose name you don't know.",
+   "explain_mn": "Нэрийг нь мэдэхгүй хүнийг найрсгаар дуудахдаа \"Hi there!\" гэдэг. Энд \"there\" нь газар заахгүй, тогтсон хэллэг юм."
+  },
+  {
+   "lang": "en",
+   "text": "Kids, dinner's ___!",
+   "answer": "ready",
+   "options": [
+    "ready",
+    "already",
+    "readily",
+    "done up"
+   ],
+   "translation": "Хүүхдүүд ээ, хоол бэлэн боллоо!",
+   "explain_en": "\"Dinner's ready!\" is the standard phrase for calling people to eat.",
+   "explain_mn": "Хүмүүсийг хоолонд дуудахдаа \"Dinner's ready!\" гэж хэлдэг. \"ready\" нь \"бэлэн\" гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Нараа",
+   "mn": "Төмөр өө! Төмөр өө, гэртээ ор, харанхуй болж байна!",
+   "en": "Tömör! Tömör, come inside, it's getting dark!",
+   "mn_latin": "Tömör öö! Tömör öö, gertee or, kharankhui bolj baina!"
+  },
+  {
+   "speaker": "Төмөр",
+   "mn": "Ээж ээ, жаахан хүлээгээч, бид тоглож дуусаагүй байна!",
+   "en": "Mom, wait a little, we're not done playing!",
+   "mn_latin": "Eej ee, jaakhan khüleegeech, bid togloj duusaagüi baina!"
+  },
+  {
+   "speaker": "Нараа",
+   "mn": "Хүүхдүүд ээ, бүгдээрээ гэр гэртээ харих цаг боллоо.",
+   "en": "Kids, it's time for everyone to go home.",
+   "mn_latin": "Khüükhdüüd ee, bügdeeree ger gertee kharikh tsag bolloo."
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Нараа гаа, сайн байна уу! Манай Бат танайд байна уу?",
+   "en": "Hi, Naraa! Is our Bat at your place?",
+   "mn_latin": "Naraa gaa, sain baina uu! Manai Bat tanaid baina uu?"
+  },
+  {
+   "speaker": "Нараа",
+   "mn": "Сайн, Дорж ах аа. Байна, хашаанд Төмөртэй тоглож байна.",
+   "en": "Hi, Dorj. Yes, he's in the yard playing with Tömör.",
+   "mn_latin": "Sain, Dorj akh aa. Baina, khashaand Tömörtei togloj baina."
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Бат аа! Наашаа, хоолоо идэх цаг боллоо!",
+   "en": "Bat! Over here, it's time to eat!",
+   "mn_latin": "Bat aa! Naashaa, khooloo idekh tsag bolloo!"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "За, аав аа, одоо ирлээ!",
+   "en": "Okay, Dad, coming!",
+   "mn_latin": "Za, aav aa, odoo irlee!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar's ger districts, people often call to each other over the fence instead of knocking, using a stretched name with the vocative particle: \"Сараа гаа!\" When you arrive at a ger in the countryside, the classic call is \"Нохойгоо хориорой!\" (\"Hold your dog!\"). It is both a safety request and a way of announcing that a guest has come.",
+  "mn": "Улаанбаатарын гэр хороололд хаалга тогшихын оронд хашааны цаанаас нэрийг нь сунжруулан, дуудах сул үгтэй нь \"Сараа гаа!\" гэж дуудах нь элбэг. Хөдөө айлд очиход \"Нохойгоо хориорой!\" гэж дууддаг уламжлалтай. Энэ нь аюулгүй байдлын хүсэлт төдийгүй зочин ирснийг мэдэгдэж буй хэрэг юм."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "Solid lesson: vocative forms, vowel harmony and the г-insertion rule are correct and well explained. Only minor terminology and punctuation issues."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "Mostly accurate. Only small fixes: a mismatched greeting in the dialogue and a culture-note detail missing from the Mongolian version.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "\"Hi there\" is for someone whose name you don't know, but Dorj uses Naraa's name."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The Mongolian version left out the vocative particle that the English version mentions."
+   }
+  ]
+ }
+}

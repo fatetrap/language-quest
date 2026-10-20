@@ -1,0 +1,436 @@
+{
+ "intro_en": "You will learn to buy medicine at a pharmacy and understand how to take it. You will also practice polite instructions with -аарай/-ээрэй and words like before and after meals.",
+ "intro_mn": "Та эмийн санд эм худалдаж авах, эмийг хэрхэн уухыг ойлгох талаар сурна. Мөн -аарай/-ээрэй хэлбэрээр эелдэг зөвлөгөө өгөх, хоолны өмнө/дараа гэсэн үгсийг дадлагажина.",
+ "vocab": [
+  {
+   "mn": "эмийн сан",
+   "en": "pharmacy",
+   "pos": "noun",
+   "example_mn": "Эмийн сан хаана байна вэ?",
+   "example_en": "Where is the pharmacy?",
+   "mn_latin": "emiin san"
+  },
+  {
+   "mn": "эм",
+   "en": "medicine",
+   "pos": "noun",
+   "example_mn": "Надад толгойн өвдөлтийн эм хэрэгтэй.",
+   "example_en": "I need medicine for a headache.",
+   "mn_latin": "em"
+  },
+  {
+   "mn": "шахмал",
+   "en": "tablet",
+   "pos": "noun",
+   "example_mn": "Хоёр шахмал уугаарай.",
+   "example_en": "Take two tablets.",
+   "mn_latin": "shakhmal"
+  },
+  {
+   "mn": "сироп",
+   "en": "syrup",
+   "pos": "noun",
+   "example_mn": "Ханиалгын сироп байна уу?",
+   "example_en": "Do you have cough syrup?",
+   "mn_latin": "sirop"
+  },
+  {
+   "mn": "түрхэх тос",
+   "en": "ointment",
+   "pos": "noun",
+   "example_mn": "Энэ түрхэх тосыг өдөрт хоёр удаа түрхээрэй.",
+   "example_en": "Apply this ointment twice a day.",
+   "mn_latin": "türkhekh tos"
+  },
+  {
+   "mn": "жор",
+   "en": "prescription",
+   "pos": "noun",
+   "example_mn": "Танд эмчийн жор байна уу?",
+   "example_en": "Do you have a doctor's prescription?",
+   "mn_latin": "jor"
+  },
+  {
+   "mn": "өдөрт гурван удаа",
+   "en": "three times a day",
+   "pos": "phrase",
+   "example_mn": "Өдөрт гурван удаа уугаарай.",
+   "example_en": "Take it three times a day.",
+   "mn_latin": "ödört gurvan udaa"
+  },
+  {
+   "mn": "хоолны өмнө",
+   "en": "before meals",
+   "pos": "phrase",
+   "example_mn": "Хоолны өмнө уугаарай.",
+   "example_en": "Take it before meals.",
+   "mn_latin": "khoolny ömnö"
+  },
+  {
+   "mn": "хоолны дараа",
+   "en": "after meals",
+   "pos": "phrase",
+   "example_mn": "Хоолны дараа эмээ уугаарай.",
+   "example_en": "Take your medicine after meals.",
+   "mn_latin": "khoolny daraa"
+  },
+  {
+   "mn": "уух",
+   "en": "to drink; to take (medicine)",
+   "pos": "verb",
+   "example_mn": "Би энэ эмийг уух ёстой.",
+   "example_en": "I have to take this medicine.",
+   "mn_latin": "uukh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эмийн сан хаана байна вэ?",
+   "en": "Where is the pharmacy?",
+   "alt_mn": [],
+   "alt_en": [
+    "Where is the drugstore?"
+   ],
+   "mn_latin": "Emiin san khaana baina ve?"
+  },
+  {
+   "mn": "Толгой өвдөхөд ямар нэг эм байна уу?",
+   "en": "Do you have something for a headache?",
+   "alt_mn": [
+    "Толгойн өвдөлтийн эм байна уу?"
+   ],
+   "alt_en": [
+    "Can I have something for a headache?"
+   ],
+   "mn_latin": "Tolgoi övdökhöd yamar neg em baina uu?"
+  },
+  {
+   "mn": "Танд эмчийн жор байна уу?",
+   "en": "Do you have a prescription from the doctor?",
+   "alt_mn": [],
+   "alt_en": [
+    "Do you have a doctor's prescription?"
+   ],
+   "mn_latin": "Tand emchiin jor baina uu?"
+  },
+  {
+   "mn": "Надад ханиалгын сироп өгөөч.",
+   "en": "Please give me some cough syrup.",
+   "alt_mn": [
+    "Надад ханиалгын сироп өгөөрэй."
+   ],
+   "alt_en": [
+    "Can I have some cough syrup?"
+   ],
+   "mn_latin": "Nadad khanialgyn sirop ögööch."
+  },
+  {
+   "mn": "Хоёр шахмал уугаарай.",
+   "en": "Take two tablets.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Khoyor shakhmal uugaarai."
+  },
+  {
+   "mn": "Өдөрт гурван удаа уугаарай.",
+   "en": "Take it three times a day.",
+   "alt_mn": [],
+   "alt_en": [
+    "Take it three times daily."
+   ],
+   "mn_latin": "Ödört gurvan udaa uugaarai."
+  },
+  {
+   "mn": "Хоолны өмнө уугаарай.",
+   "en": "Take it before meals.",
+   "alt_mn": [
+    "Хоол идэхийн өмнө уугаарай."
+   ],
+   "alt_en": [
+    "Take it before eating."
+   ],
+   "mn_latin": "Khoolny ömnö uugaarai."
+  },
+  {
+   "mn": "Хоолны дараа эмээ уугаарай.",
+   "en": "Take your medicine after meals.",
+   "alt_mn": [],
+   "alt_en": [
+    "Take your medicine after eating."
+   ],
+   "mn_latin": "Khoolny daraa emee uugaarai."
+  },
+  {
+   "mn": "Энэ тосыг өвдөж буй газартаа түрхээрэй.",
+   "en": "Apply this ointment to the sore spot.",
+   "alt_mn": [],
+   "alt_en": [
+    "Put this ointment on the area that hurts."
+   ],
+   "mn_latin": "Ene tosyg övdöj bui gazartaa türkheerei."
+  },
+  {
+   "mn": "Их ус уугаарай.",
+   "en": "Drink lots of water.",
+   "alt_mn": [
+    "Маш их ус уугаарай."
+   ],
+   "alt_en": [
+    "Drink a lot of water."
+   ],
+   "mn_latin": "Ikh us uugaarai."
+  },
+  {
+   "mn": "Энэ эм хэд вэ?",
+   "en": "How much is this medicine?",
+   "alt_mn": [
+    "Энэ эм ямар үнэтэй вэ?"
+   ],
+   "alt_en": [
+    "How much does this medicine cost?"
+   ],
+   "mn_latin": "Ene em khed ve?"
+  },
+  {
+   "mn": "Эмээ дахин нэг өдөр уугаад эмчид очоорой.",
+   "en": "Take the medicine for one more day and then see the doctor.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Emee dakhin neg ödör uugaad emchid ochooroi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Polite instructions with -аарай/-ээрэй",
+  "title_mn": "-аарай/-ээрэй гэсэн эелдэг захиж хэлэх хэлбэр",
+  "explain_en": "To give friendly, polite instructions, add -аарай/-ээрэй/-оорой/-өөрэй to the verb stem. The ending follows vowel harmony: уух → уугаарай (take/drink; after a long vowel, -г- is added), түрхэх → түрхээрэй (apply), очих → очоорой (go). It sounds softer than a command and is typical for doctors and pharmacists. Time phrases go before the verb: хоолны өмнө (before meals), хоолны дараа (after meals), өдөрт гурван удаа (three times a day). In English, the plain imperative (Take two tablets.) or please is usually used.",
+  "explain_mn": "Эелдэг захиж хэлэхдээ үйл үгийн үндэс дээр -аарай/-ээрэй/-оорой/-өөрэй нэмнэ. Залгавар эгшгийн зохицлоор сонгогдоно: уух → уугаарай (урт эгшгийн дараа -г- орно), түрхэх → түрхээрэй, очих → очоорой. Энэ нь тушаалаас илүү зөөлөн сонсогдож, эмч, эмийн санчийн ярианд түгээмэл. Цаг хугацааны хэллэг үйл үгийн өмнө орно: хоолны өмнө, хоолны дараа, өдөрт гурван удаа. Англи хэлэнд ихэвчлэн Take two tablets. гэх мэт тушаах хэлбэр, эсвэл please ашигладаг.",
+  "examples": [
+   {
+    "mn": "Хоёр шахмал уугаарай.",
+    "en": "Take two tablets.",
+    "mn_latin": "Khoyor shakhmal uugaarai."
+   },
+   {
+    "mn": "Хоолны дараа уугаарай.",
+    "en": "Take it after meals.",
+    "mn_latin": "Khoolny daraa uugaarai."
+   },
+   {
+    "mn": "Тосыг өдөрт хоёр удаа түрхээрэй.",
+    "en": "Apply the ointment twice a day.",
+    "mn_latin": "Tosyg ödört khoyor udaa türkheerei."
+   },
+   {
+    "mn": "Маргааш эмчид очоорой.",
+    "en": "Go to the doctor tomorrow.",
+    "mn_latin": "Margaash emchid ochooroi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хоолны ___ эмээ уугаарай.",
+   "answer": "дараа",
+   "options": [
+    "дараа",
+    "доор",
+    "дотор",
+    "дээр"
+   ],
+   "translation": "Take your medicine after meals.",
+   "explain_en": "'Хоолны дараа' means 'after meals'. It is the set phrase used on instructions.",
+   "explain_mn": "«Хоолны дараа» нь «after meals» гэсэн утгатай тогтсон хэллэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Өдөрт гурван ___ уугаарай.",
+   "answer": "удаа",
+   "options": [
+    "удаа",
+    "цаг",
+    "өдөр",
+    "шахмал"
+   ],
+   "translation": "Take it three times a day.",
+   "explain_en": "'Удаа' means 'times' (occasions). 'Өдөрт гурван удаа' = three times a day.",
+   "explain_mn": "«Удаа» нь «times» гэсэн утгатай. «Өдөрт гурван удаа» = three times a day."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ тосыг өдөрт хоёр удаа түрх___.",
+   "answer": "ээрэй",
+   "options": [
+    "ээрэй",
+    "аарай",
+    "оорой",
+    "өөрэй"
+   ],
+   "translation": "Apply this ointment twice a day.",
+   "explain_en": "The stem түрх- has the front vowel ү, so it takes -ээрэй (vowel harmony).",
+   "explain_mn": "«Түрх-» үндэс ү эгшигтэй тул эгшгийн зохицлоор «-ээрэй» залгана."
+  },
+  {
+   "lang": "en",
+   "text": "Can I have ___ for a cough?",
+   "answer": "something",
+   "options": [
+    "something",
+    "anything",
+    "nothing",
+    "everything"
+   ],
+   "translation": "Ханиалгын эм авч болох уу?",
+   "explain_en": "'Can I have something for...?' is the natural way to ask a pharmacist for medicine.",
+   "explain_mn": "«Can I have something for...?» нь эмийн санчаас эм асуух байгалийн хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "Take two tablets ___ meals.",
+   "answer": "before",
+   "options": [
+    "before",
+    "across",
+    "under",
+    "since"
+   ],
+   "translation": "Хоолны өмнө хоёр шахмал уугаарай.",
+   "explain_en": "'Before meals' means 'хоолны өмнө'. The opposite is 'after meals'.",
+   "explain_mn": "«Before meals» нь «хоолны өмнө» гэсэн үг. Эсрэгээр нь «after meals»."
+  },
+  {
+   "lang": "en",
+   "text": "Take it three ___ a day.",
+   "answer": "times",
+   "options": [
+    "times",
+    "time",
+    "hours",
+    "tablet"
+   ],
+   "translation": "Өдөрт гурван удаа уугаарай.",
+   "explain_en": "After 'three' we use the plural 'times': three times a day.",
+   "explain_mn": "«Three»-ийн дараа олон тооны «times» хэрэглэнэ: three times a day."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу? Толгой өвдөхөд ямар нэг эм байна уу?",
+   "en": "Hello. Do you have something for a headache?",
+   "mn_latin": "Sain baina uu? Tolgoi övdökhöd yamar neg em baina uu?"
+  },
+  {
+   "speaker": "Эмийн санч",
+   "mn": "Сайн байна уу. Өөр ямар шинж тэмдэг байна вэ?",
+   "en": "Hello. Do you have any other symptoms?",
+   "mn_latin": "Sain baina uu. Öör yamar shinj temdeg baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бага зэрэг ханиалгаж байна.",
+   "en": "I have a little cough.",
+   "mn_latin": "Baga zereg khanialgaj baina."
+  },
+  {
+   "speaker": "Эмийн санч",
+   "mn": "За, энэ шахмалыг аваарай. Өдөрт гурван удаа уугаарай.",
+   "en": "Okay, take these tablets. Take them three times a day.",
+   "mn_latin": "Za, ene shakhmalyg avaarai. Ödört gurvan udaa uugaarai."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Хоолны өмнө үү, дараа юу?",
+   "en": "Before meals or after meals?",
+   "mn_latin": "Khoolny ömnö üü, daraa yuu?"
+  },
+  {
+   "speaker": "Эмийн санч",
+   "mn": "Хоолны дараа нэг шахмал уугаарай.",
+   "en": "Take one tablet after meals.",
+   "mn_latin": "Khoolny daraa neg shakhmal uugaarai."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Баярлалаа. Энэ хэд вэ?",
+   "en": "Thank you. How much is this?",
+   "mn_latin": "Bayarlalaa. Ene khed ve?"
+  },
+  {
+   "speaker": "Эмийн санч",
+   "mn": "Таван мянган төгрөг. Эдгэрээрэй!",
+   "en": "Five thousand tugrik. Get well soon!",
+   "mn_latin": "Tavan myangan tögrög. Edgereerei!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, pharmacies (эмийн сан) are everywhere, and many are open late. Pharmacists often give advice for small problems like colds, but strong medicines such as antibiotics usually need a doctor's prescription (жор). Many people also use traditional herbal remedies alongside modern medicine.",
+  "mn": "Улаанбаатарт эмийн сан хаа сайгүй байдаг бөгөөд олонх нь орой оройттол ажилладаг. Эмийн санч ханиад зэрэг жижиг асуудалд зөвлөгөө өгдөг ч антибиотик зэрэг хүчтэй эмийг ихэвчлэн эмчийн жороор өгдөг. Олон хүн орчин үеийн эмтэй зэрэгцүүлэн уламжлалт ургамлын эм хэрэглэдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 18,
+  "notes": "Mostly good, but a Latin 'x' typo, the 'ундаа' (drink) vs syrup word choice, ambiguous fill-blank options, and a weak Mongolian grammar explanation need fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 9,
+  "notes": "Removed a made-up word, fixed a case ending, made two fill-in-the-blank answers unique, and aligned the grammar explanations.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "mn",
+    "why": "'сиропон ундаа' is not a real word; the standard word is 'сироп'"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "'Apply to a place' needs the dative-locative 'газартаа', not the accusative 'газраа'"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "'Ямар үнэтэй вэ?' is the standard, natural way to ask the price"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Explains the inserted -г- and brings the en version in line with the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn version was missing the point about time phrases that the en version has"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'өмнө' also gives a correct sentence, so the answer was not the only correct option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "The deciding vowel of the stem is ү, not э"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "The deciding vowel of the stem is ү, not э"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'between meals' is also a valid instruction, so the answer was not the only correct option"
+   }
+  ]
+ }
+}

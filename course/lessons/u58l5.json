@@ -1,0 +1,494 @@
+{
+ "intro_en": "You will learn how to consult a lawyer about a dispute, a fine, or a contract problem, and how to ask polite indirect questions such as \"Could you tell me whether...?\" and \"I'd like to know when...\". You will also learn key legal vocabulary.",
+ "intro_mn": "Та маргаан, торгууль, гэрээний асуудлаар хуульчтай хэрхэн зөвлөлдөхийг сурна. Мөн \"... эсэхийг хэлж өгөхгүй юу?\", \"... хэзээ ...-ыг мэдмээр байна\" гэх мэт эелдэг шууд бус асуулт тавьж сурна. Түүнчлэн хуулийн гол үг хэллэгийг судална.",
+ "vocab": [
+  {
+   "mn": "хуульч",
+   "en": "lawyer",
+   "pos": "noun",
+   "example_mn": "Би маргааш хуульчтай уулзана.",
+   "example_en": "I am meeting a lawyer tomorrow.",
+   "mn_latin": "khuulich"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine",
+   "pos": "noun",
+   "example_mn": "Надад замын торгууль ирсэн.",
+   "example_en": "I received a traffic fine.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "хариуцлага",
+   "en": "responsibility, liability",
+   "pos": "noun",
+   "example_mn": "Гэрээг зөрчсөн тал хариуцлага хүлээнэ.",
+   "example_en": "The party that breaks the contract bears liability.",
+   "mn_latin": "khariutslaga"
+  },
+  {
+   "mn": "гомдол гаргах",
+   "en": "to file a complaint",
+   "pos": "verb phrase",
+   "example_mn": "Би компанийн эсрэг гомдол гаргахыг хүсэж байна.",
+   "example_en": "I want to file a complaint against the company.",
+   "mn_latin": "gomdol gargakh"
+  },
+  {
+   "mn": "эрх",
+   "en": "right",
+   "pos": "noun",
+   "example_mn": "Хэрэглэгч бүр эрхтэй.",
+   "example_en": "Every consumer has rights.",
+   "mn_latin": "erkh"
+  },
+  {
+   "mn": "үүрэг",
+   "en": "duty, obligation",
+   "pos": "noun",
+   "example_mn": "Түрээслэгч түрээсийн төлбөр төлөх үүрэгтэй.",
+   "example_en": "The tenant has an obligation to pay rent.",
+   "mn_latin": "üüreg"
+  },
+  {
+   "mn": "шийтгэл",
+   "en": "punishment, penalty",
+   "pos": "noun",
+   "example_mn": "Энэ зөрчилд ямар шийтгэл оноох вэ?",
+   "example_en": "What penalty will be imposed for this violation?",
+   "mn_latin": "shiitgel"
+  },
+  {
+   "mn": "нөхөн төлбөр",
+   "en": "compensation",
+   "pos": "noun",
+   "example_mn": "Тэд надад нөхөн төлбөр төлөх ёстой.",
+   "example_en": "They must pay me compensation.",
+   "mn_latin": "nökhön tölbör"
+  },
+  {
+   "mn": "гэрээ",
+   "en": "contract",
+   "pos": "noun",
+   "example_mn": "Гэрээнд гарын үсэг зурахаасаа өмнө уншина уу.",
+   "example_en": "Please read the contract before you sign it.",
+   "mn_latin": "geree"
+  },
+  {
+   "mn": "маргаан",
+   "en": "dispute",
+   "pos": "noun",
+   "example_mn": "Манай хөрштэй газрын маргаан гарсан.",
+   "example_en": "We have a land dispute with our neighbor.",
+   "mn_latin": "margaan"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ гэрээ хүчинтэй эсэхийг хэлж өгч болох уу?",
+   "en": "Could you tell me whether this contract is valid?",
+   "alt_mn": [
+    "Энэ гэрээ хүчинтэй юу, үгүй юу гэдгийг хэлж өгөхгүй юу?"
+   ],
+   "alt_en": [
+    "Could you tell me if this contract is valid?"
+   ],
+   "mn_latin": "Ene geree khüchintei esekhiig khelj ögch bolokh uu?"
+  },
+  {
+   "mn": "Гомдлоо хэзээ хүртэл гаргаж болохыг мэдмээр байна.",
+   "en": "I'd like to know by when I can file my complaint.",
+   "alt_mn": [
+    "Гомдлоо хэзээ хүртэл гаргаж болохыг мэдэхийг хүсэж байна."
+   ],
+   "alt_en": [
+    "I'd like to know how long I have to file a complaint."
+   ],
+   "mn_latin": "Gomdloo khezee khürtel gargaj bolokhyg medmeer baina."
+  },
+  {
+   "mn": "Торгуулийг яаж эсэргүүцэхийг надад хэлж өгөөч.",
+   "en": "Please tell me how I can appeal the fine.",
+   "alt_mn": [
+    "Торгуулийг хэрхэн эсэргүүцэхийг хэлж өгнө үү."
+   ],
+   "alt_en": [
+    "Could you tell me how to contest the fine?"
+   ],
+   "mn_latin": "Torguuliig yaaj esergüütsekhiig nadad khelj ögööch."
+  },
+  {
+   "mn": "Энэ хэргийг хэн шийдвэрлэхийг та мэдэх үү?",
+   "en": "Do you know who will handle this case?",
+   "alt_mn": [
+    "Энэ хэргийг хэн хариуцахыг та мэдэх үү?"
+   ],
+   "alt_en": [
+    "Do you know who is going to decide this case?"
+   ],
+   "mn_latin": "Ene khergiig khen shiidverlekhiig ta medekh üü?"
+  },
+  {
+   "mn": "Би ямар эрх, үүрэгтэй болохыг тодруулахыг хүсэж байна.",
+   "en": "I would like to clarify what rights and obligations I have.",
+   "alt_mn": [],
+   "alt_en": [
+    "I want to find out what my rights and duties are."
+   ],
+   "mn_latin": "Bi yamar erkh, üüregtei bolokhyg todruulakhyg khüsej baina."
+  },
+  {
+   "mn": "Компани надад нөхөн төлбөр төлөх үүрэгтэй эсэхийг мэдмээр байна.",
+   "en": "I'd like to know whether the company is obliged to pay me compensation.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'd like to know if the company has to pay me compensation."
+   ],
+   "mn_latin": "Kompani nadad nökhön tölbör tölökh üüregtei esekhiig medmeer baina."
+  },
+  {
+   "mn": "Хэрэв гэрээгээ зөрчвөл ямар хариуцлага хүлээхийг хэлж өгнө үү.",
+   "en": "Please tell me what liability I would bear if I breached the contract.",
+   "alt_mn": [],
+   "alt_en": [
+    "Could you tell me what responsibility I would have if I broke the contract?"
+   ],
+   "mn_latin": "Kherev gereegee zörchvöl yamar khariutslaga khüleekhiig khelj ögnö üü."
+  },
+  {
+   "mn": "Түрээсийн гэрээгээ хэзээ цуцалж болохыг та мэдэх үү?",
+   "en": "Do you know when I can terminate my lease?",
+   "alt_mn": [],
+   "alt_en": [
+    "Do you know when I am allowed to cancel my lease?"
+   ],
+   "mn_latin": "Türeesiin gereegee khezee tsutsalj bolokhyg ta medekh üü?"
+  },
+  {
+   "mn": "Миний авсан торгууль хууль ёсны эсэхийг шалгаж өгөхгүй юу?",
+   "en": "Could you check whether the fine I received is legal?",
+   "alt_mn": [],
+   "alt_en": [
+    "Would you mind checking if my fine is lawful?"
+   ],
+   "mn_latin": "Minii avsan torguuli khuuli yosny esekhiig shalgaj ögökhgüi yuu?"
+  },
+  {
+   "mn": "Шүүхэд хандахаас өмнө ямар баримт бэлдэхийг асуумаар байна.",
+   "en": "I'd like to ask what documents to prepare before going to court.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'd like to ask which documents I should prepare before applying to court."
+   ],
+   "mn_latin": "Shüükhed khandakhaas ömnö yamar barimt beldekhiig asuumaar baina."
+  },
+  {
+   "mn": "Тэр хүн ямар шийтгэл авсныг би мэдэхгүй байна.",
+   "en": "I don't know what penalty that person received.",
+   "alt_mn": [],
+   "alt_en": [
+    "I don't know what punishment that person got."
+   ],
+   "mn_latin": "Ter khün yamar shiitgel avsnyg bi medekhgüi baina."
+  },
+  {
+   "mn": "Маргаан хэр удаан үргэлжлэхийг хэлж чадах уу?",
+   "en": "Can you tell me how long the dispute might last?",
+   "alt_mn": [
+    "Маргаан хэр удаан үргэлжлэх вэ гэдгийг хэлж өгч чадах уу?"
+   ],
+   "alt_en": [
+    "Could you say how long the dispute will take?"
+   ],
+   "mn_latin": "Margaan kher udaan ürgeljlekhiig khelj chadakh uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Polite embedded questions: эсэх and question words + -х / -сан",
+  "title_mn": "Эелдэг шууд бус асуулт: эсэх болон асуух үг + -х / -сан",
+  "explain_en": "In Mongolian, an indirect question is built by putting a clause inside the sentence. For yes/no questions, use the verb in -х (or -сан for the past), or a predicate such as хүчинтэй, then эсэх + accusative -ийг: \"хүчинтэй эсэхийг\" = \"whether it is valid\". For wh-questions, keep the question word (хэзээ, хэн, яаж, ямар) and end the clause with -х or -сан plus a case ending: \"хэзээ гаргахыг\" = \"when to file\", \"хэн хийснийг\" = \"who did it\". Use -х for future or general actions and -сан for completed ones. Then add a polite main verb: хэлж өгөөч, хэлж өгнө үү, мэдмээр байна. In English, indirect questions use statement word order: \"Could you tell me when the hearing is?\" (not \"when is the hearing?\"). Use whether or if for yes/no questions, and don't add do/does.",
+  "explain_mn": "Монгол хэлэнд шууд бус асуултыг өгүүлбэрт орсон өгүүлбэр хэлбэрээр бүтээнэ. Тийм/үгүй асуултад үйл үгийн «-х» (өнгөрсөн бол «-сан») хэлбэр эсвэл «хүчинтэй» мэтийн өгүүлэхүүн дээр «эсэх» + «-ийг» залгана: «хүчинтэй эсэхийг». Асуух үгтэй асуултад асуух үгийг (хэзээ, хэн, яаж, ямар) хэвээр нь үлдээж, «-х/-сан» + тийн ялгалаар төгсгөнө: «хэзээ гаргахыг», «хэн хийснийг». Ирээдүйн болон ерөнхий үйлд «-х», болж өнгөрсөн үйлд «-сан» хэрэглэнэ. Дараа нь «хэлж өгөөч», «хэлж өгнө үү», «мэдмээр байна» гэх мэт эелдэг гол үйл үг нэмнэ. Англи хэлэнд шууд бус асуултад өгүүлбэрийн дарааллыг хэрэглэнэ: \"Could you tell me when the hearing is?\" (\"when is the hearing?\" биш). Тийм/үгүй асуултад whether эсвэл if ашиглана. Do/does нэмэхгүй.",
+  "examples": [
+   {
+    "mn": "Энэ торгууль хууль ёсны эсэхийг хэлж өгнө үү.",
+    "en": "Please tell me whether this fine is legal.",
+    "mn_latin": "Ene torguuli khuuli yosny esekhiig khelj ögnö üü."
+   },
+   {
+    "mn": "Гомдлоо хэзээ гаргахыг мэдмээр байна.",
+    "en": "I'd like to know when to file my complaint.",
+    "mn_latin": "Gomdloo khezee gargakhyg medmeer baina."
+   },
+   {
+    "mn": "Хэн хариуцлага хүлээхийг та мэдэх үү?",
+    "en": "Do you know who will bear responsibility?",
+    "mn_latin": "Khen khariutslaga khüleekhiig ta medekh üü?"
+   },
+   {
+    "mn": "Тэд яаж гэрээг зөрчсөнийг надад тайлбарлана уу.",
+    "en": "Please explain to me how they breached the contract.",
+    "mn_latin": "Ted yaaj gereeg zörchsöniig nadad tailbarlana uu."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ гэрээ хүчинтэй ___ хэлж өгнө үү.",
+   "answer": "эсэхийг",
+   "options": [
+    "эсэхийг",
+    "эсэх",
+    "эсэхэд",
+    "эсэхээс"
+   ],
+   "translation": "Please tell me whether this contract is valid.",
+   "explain_en": "The object of 'tell' takes the accusative: эсэх + ийг = эсэхийг.",
+   "explain_mn": "«Хэлэх» үйлийн тусагдахуун тул заахын тийн ялгалын «-ийг» залгаж «эсэхийг» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Гомдлоо хэзээ гаргах___ мэдмээр байна.",
+   "answer": "ыг",
+   "options": [
+    "ыг",
+    "аас",
+    "д",
+    "тай"
+   ],
+   "translation": "I'd like to know when to file my complaint.",
+   "explain_en": "After the -х clause, the accusative -ыг marks it as the thing you want to know (гаргахыг).",
+   "explain_mn": "«Мэдэх» үйлийн тусагдахуун тул «гаргах» + «-ыг» = «гаргахыг»."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр ямар шийтгэл авс___ би мэдэхгүй.",
+   "answer": "ныг",
+   "options": [
+    "ныг",
+    "хыг",
+    "нд",
+    "хаар"
+   ],
+   "translation": "I don't know what penalty he received.",
+   "explain_en": "The penalty was already received, so use past -сан: авсан + ыг = авсныг (the suffix after авс- is -ныг).",
+   "explain_mn": "Өнгөрсөн үйлийг «-сан» хэлбэрээр хэлнэ: «авсан» + «-ыг» = «авсныг»."
+  },
+  {
+   "lang": "en",
+   "text": "Could you tell me ___ this fine is legal?",
+   "answer": "whether",
+   "options": [
+    "whether",
+    "what",
+    "who",
+    "where"
+   ],
+   "translation": "Энэ торгууль хууль ёсны эсэхийг хэлж өгч чадах уу?",
+   "explain_en": "Use whether (or if) for yes/no indirect questions.",
+   "explain_mn": "Тийм/үгүй асуултын шууд бус хэлбэрт whether эсвэл if хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I'd like to know when ___ file a complaint.",
+   "answer": "I can",
+   "options": [
+    "I can",
+    "can I",
+    "do I can",
+    "I am can"
+   ],
+   "translation": "Би хэзээ гомдол гаргаж болохыг мэдмээр байна.",
+   "explain_en": "In indirect questions, use normal statement word order: I can, not can I.",
+   "explain_mn": "Шууд бус асуултад өгүүлбэрийн дараалал хэвээр: \"I can\", \"can I\" биш."
+  },
+  {
+   "lang": "en",
+   "text": "Do you know how long the case ___?",
+   "answer": "will take",
+   "options": [
+    "will take",
+    "does take",
+    "will it take",
+    "take will"
+   ],
+   "translation": "Хэрэг хэр удаан үргэлжлэхийг та мэдэх үү?",
+   "explain_en": "Embedded question: no inversion, so how long the case will take.",
+   "explain_mn": "Шууд бус асуултад үйл үг өгүүлэгдэхүүний дараа орно: the case will take."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу, өмгөөлөгч ээ. Би түрээсийн гэрээний талаар зөвлөгөө авмаар байна.",
+   "en": "Hello, counselor. I'd like some advice about my lease.",
+   "mn_latin": "Sain baina uu, ömgöölögch ee. Bi türeesiin gereenii talaar zövlögöö avmaar baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн байна уу. Юу болсныг тайлбарлаж өгнө үү.",
+   "en": "Hello. Please explain what happened.",
+   "mn_latin": "Sain baina uu. Yuu bolsnyg tailbarlaj ögnö üü."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Түрээслүүлэгч намайг урьдчилан мэдэгдэлгүйгээр байрнаас гаргах гэж байна.",
+   "en": "The landlord is trying to evict me without prior notice.",
+   "mn_latin": "Türeeslüülegch namaig uridchilan medegdelgüigeer bairnaas gargakh gej baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Гэрээнд хэзээ цуцалж болохыг тодорхой бичсэн үү?",
+   "en": "Does the contract clearly state when it can be terminated?",
+   "mn_latin": "Gereend khezee tsutsalj bolokhyg todorkhoi bichsen üü?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тийм, гэхдээ тэр нөхцөл хүчинтэй эсэхийг мэдэхгүй байна.",
+   "en": "Yes, but I don't know whether that clause is valid.",
+   "mn_latin": "Tiim, gekhdee ter nökhtsöl khüchintei esekhiig medekhgüi baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Би гэрээг шалгаад, танд ямар эрх, үүрэг байгааг хэлье.",
+   "en": "I'll review the contract and tell you what rights and obligations you have.",
+   "mn_latin": "Bi gereeg shalgaad, tand yamar erkh, üüreg baigaag kheliye."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Нөхөн төлбөр нэхэж болох эсэхийг бас асууя.",
+   "en": "I'd also like to ask whether I can claim compensation.",
+   "mn_latin": "Nökhön tölbör nekhej bolokh esekhiig bas asuuya."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Мэдээж. Эхлээд гомдлоо хэрхэн бичихийг тайлбарлая.",
+   "en": "Of course. First, let me explain how to write the complaint.",
+   "mn_latin": "Medeej. Ekhleed gomdloo kherkhen bichikhiig tailbarlaya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, many people first ask relatives or acquaintances for legal advice before visiting a lawyer. Free legal aid is available for some groups through the state legal aid centers. When meeting a lawyer, it is expected that you use polite forms like \"та\" and indirect questions.",
+  "mn": "Монголд олон хүн хуульчид хандахаасаа өмнө ураг төрөл, танилаасаа зөвлөгөө асуудаг. Улсын хууль зүйн туслалцааны төвүүд зарим бүлгийн хүмүүст үнэ төлбөргүй хууль зүйн туслалцаа үзүүлдэг. Хуульчтай уулзахдаа «та» гэж эелдгээр хандаж, шууд бус асуулт хэрэглэх нь зохистой."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 14,
+  "notes": "Mostly good content, but the fill-blank on авсан has a wrong suffix, and a few Mongolian phrases need cleanup."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 18,
+  "notes": "Fixed spelling (авсныг, хүсэж), ungrammatical forms, inconsistent grammar explanations, translation mismatches and intro gaps.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Unnatural word order in the example; the legal vocabulary part was missing"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "Standard spelling is хүсэж"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "'Rent' is түрээсийн төлбөр"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "en",
+    "why": "'until when' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "Standard spelling is хүсэж"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "'үүрэгтэйг' is ungrammatical; use болохыг"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "en",
+    "why": "Tense agreement with 'would'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "Placing 'та' at the end is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "Spelling: авсан + ыг = авсныг"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Example contradicted the rule; aligned with the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "en and mn must give the same explanation"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "Matches тайлбарлана уу"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Correct case term"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Vowel harmony: мэдэх үү"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Correct grammar term"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'Evict' needs байрнаас"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Redundant phrasing; aligned with mn"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Clearer wording; aligned with en"
+   }
+  ]
+ }
+}

@@ -1,0 +1,525 @@
+{
+ "intro_en": "You will learn to use the Mongolian suffix -жээ/-чээ to talk about facts you have just discovered or worked out. You will also learn English phrases like \"apparently\", \"it turns out\" and \"must have been\".",
+ "intro_mn": "Та саяхан мэдсэн эсвэл дүгнэж олсон зүйлээ илэрхийлэх -жээ/-чээ дагаврыг сурна. Мөн англи хэлний \"apparently\", \"it turns out\", \"must have been\" хэллэгүүдийг сурна.",
+ "vocab": [
+  {
+   "mn": "малтлага",
+   "en": "excavation",
+   "pos": "noun",
+   "example_mn": "Малтлага хоёр сар үргэлжилсэн.",
+   "example_en": "The excavation lasted two months.",
+   "mn_latin": "maltlaga"
+  },
+  {
+   "mn": "олдвор",
+   "en": "artifact, find",
+   "pos": "noun",
+   "example_mn": "Энэ олдвор маш үнэ цэнэтэй.",
+   "example_en": "This artifact is very valuable.",
+   "mn_latin": "oldvor"
+  },
+  {
+   "mn": "булш",
+   "en": "tomb, grave",
+   "pos": "noun",
+   "example_mn": "Тэд хаадын булш олжээ.",
+   "example_en": "They found a royal tomb.",
+   "mn_latin": "bulsh"
+  },
+  {
+   "mn": "хөшөө",
+   "en": "statue, monument",
+   "pos": "noun",
+   "example_mn": "Хээрт чулуун хөшөө зогсож байна.",
+   "example_en": "A stone monument stands in the steppe.",
+   "mn_latin": "khöshöö"
+  },
+  {
+   "mn": "эртний",
+   "en": "ancient",
+   "pos": "adjective",
+   "example_mn": "Энэ эртний хотын туурь юм.",
+   "example_en": "These are the ruins of an ancient city.",
+   "mn_latin": "ertnii"
+  },
+  {
+   "mn": "судлаач",
+   "en": "researcher, scholar",
+   "pos": "noun",
+   "example_mn": "Судлаачид шинэ олдворыг шинжилж байна.",
+   "example_en": "The researchers are analyzing the new find.",
+   "mn_latin": "sudlaach"
+  },
+  {
+   "mn": "нээх",
+   "en": "to discover, to open",
+   "pos": "verb",
+   "example_mn": "Тэд шинэ булш нээсэн.",
+   "example_en": "They discovered a new tomb.",
+   "mn_latin": "neekh"
+  },
+  {
+   "mn": "бичээс",
+   "en": "inscription",
+   "pos": "noun",
+   "example_mn": "Чулууны бичээсийг уншиж чадсангүй.",
+   "example_en": "They could not read the inscription on the stone.",
+   "mn_latin": "bichees"
+  },
+  {
+   "mn": "үлдэгдэл",
+   "en": "remains, remnant",
+   "pos": "noun",
+   "example_mn": "Булшнаас хүний үлдэгдэл гарсан.",
+   "example_en": "Human remains were found in the tomb.",
+   "mn_latin": "üldegdel"
+  },
+  {
+   "mn": "тооцох",
+   "en": "to estimate, to reckon",
+   "pos": "verb",
+   "example_mn": "Судлаачид насыг нь мянган жил гэж тооцдог.",
+   "example_en": "Researchers estimate its age at a thousand years.",
+   "mn_latin": "tootsokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Малтлагаас гайхалтай олдвор гарчээ.",
+   "en": "Apparently, an amazing artifact came out of the excavation.",
+   "alt_mn": [
+    "Малтлагаас гайхалтай олдвор гарсан байна."
+   ],
+   "alt_en": [
+    "It turns out an amazing artifact came out of the excavation.",
+    "An amazing artifact has come out of the excavation, it seems."
+   ],
+   "mn_latin": "Maltlagaas gaikhaltai oldvor garchee."
+  },
+  {
+   "mn": "Энэ булш хоёр мянган жилийн настай байжээ.",
+   "en": "It turns out this tomb was two thousand years old.",
+   "alt_mn": [
+    "Энэ булш хоёр мянган жилийн настай байсан байна."
+   ],
+   "alt_en": [
+    "Apparently, this tomb was two thousand years old."
+   ],
+   "mn_latin": "Ene bulsh khoyor myangan jiliin nastai baijee."
+  },
+  {
+   "mn": "Энэ хөшөөг эртний түрэг хүмүүс босгосон бололтой.",
+   "en": "This monument must have been built by ancient Turkic people.",
+   "alt_mn": [
+    "Энэ хөшөөг эртний түрэгүүд босгосон байх."
+   ],
+   "alt_en": [
+    "This monument seems to have been built by ancient Turkic people."
+   ],
+   "mn_latin": "Ene khöshöög ertnii türeg khümüüs bosgoson bololtoi."
+  },
+  {
+   "mn": "Судлаачид булшнаас алтан зүүлт олжээ.",
+   "en": "The researchers found a gold necklace in the tomb, apparently.",
+   "alt_mn": [
+    "Судлаачид булшнаас алтан зүүлт олсон байна."
+   ],
+   "alt_en": [
+    "It turns out the researchers found a gold necklace in the tomb."
+   ],
+   "mn_latin": "Sudlaachid bulshnaas altan züült oljee."
+  },
+  {
+   "mn": "Ямар сайхан эртний олдвор вэ! Үнэхээр гоё байжээ.",
+   "en": "What a beautiful ancient artifact! It really is lovely.",
+   "alt_mn": [],
+   "alt_en": [
+    "What a lovely ancient find! It turns out it's really pretty."
+   ],
+   "mn_latin": "Yamar saikhan ertnii oldvor ve! Ünekheer goyo baijee."
+  },
+  {
+   "mn": "Бичээсийг уншихад энэ нь хаанд зориулсан байжээ.",
+   "en": "When they read the inscription, it turned out it was dedicated to a khan.",
+   "alt_mn": [
+    "Бичээсийг уншсан чинь хаанд зориулсан байжээ."
+   ],
+   "alt_en": [
+    "When they read the inscription, it turned out it was for a khan."
+   ],
+   "mn_latin": "Bicheesiig unshikhad ene ni khaand zoriulsan baijee."
+  },
+  {
+   "mn": "Би энд ийм том малтлага явагдаж байгааг мэдсэнгүй, одоо мэдлээ.",
+   "en": "I did not know such a big excavation was going on here; now I know.",
+   "alt_mn": [],
+   "alt_en": [
+    "I had no idea such a big excavation was happening here, but now I do."
+   ],
+   "mn_latin": "Bi end iim tom maltlaga yavagdaj baigaag medsengüi, odoo medlee."
+  },
+  {
+   "mn": "Хөшөө хээрийн дунд ганцаараа зогсож байжээ.",
+   "en": "Apparently, the monument was standing alone in the middle of the steppe.",
+   "alt_mn": [
+    "Хөшөө хээрийн дунд ганцаараа зогсож байсан байна."
+   ],
+   "alt_en": [
+    "It turns out the monument was standing alone in the steppe."
+   ],
+   "mn_latin": "Khöshöö kheeriin dund gantsaaraa zogsoj baijee."
+  },
+  {
+   "mn": "Эдгээр сав маш эртний, ойролцоогоор гурван мянган жилийн настай байх.",
+   "en": "These vessels are very old, probably around three thousand years old.",
+   "alt_mn": [],
+   "alt_en": [
+    "These vessels must be very old, about three thousand years old."
+   ],
+   "mn_latin": "Edgeer sav mash ertnii, oiroltsoogoor gurvan myangan jiliin nastai baikh."
+  },
+  {
+   "mn": "Энэ хүн чухал удирдагч байсан бололтой, учир нь булш нь маш том.",
+   "en": "This man must have been an important leader, because his tomb is so big.",
+   "alt_mn": [
+    "Энэ хүн чухал удирдагч байсан байх, учир нь булш нь маш том."
+   ],
+   "alt_en": [
+    "This man seems to have been an important leader, since his tomb is huge."
+   ],
+   "mn_latin": "Ene khün chukhal udirdagch baisan bololtoi, uchir ni bulsh ni mash tom."
+  },
+  {
+   "mn": "Музейн дарга олдворыг маргааш үзүүлнэ гэжээ.",
+   "en": "The museum director said they would show the artifact tomorrow.",
+   "alt_mn": [
+    "Музейн дарга олдворыг маргааш үзүүлнэ гэсэн."
+   ],
+   "alt_en": [
+    "The museum director has said the artifact will be shown tomorrow."
+   ],
+   "mn_latin": "Muzyein darga oldvoryg margaash üzüülne gejee."
+  },
+  {
+   "mn": "Өө, чулуун хөшөөн дээр хүний нүүр сийлсэн байжээ.",
+   "en": "Oh, it turns out a human face was carved on the stone monument.",
+   "alt_mn": [],
+   "alt_en": [
+    "Apparently, a human face was carved on the stone statue."
+   ],
+   "mn_latin": "Öö, chuluun khöshöön deer khünii nüür siilsen baijee."
+  }
+ ],
+ "grammar": {
+  "title_en": "Discovery and surprise: -жээ/-чээ",
+  "title_mn": "Шинээр мэдсэн зүйл: -жээ/-чээ",
+  "explain_en": "Add -жээ or -чээ to a verb stem to say something you have just found out, noticed or worked out, often with a bit of surprise. The choice depends on the stem: -чээ is used after stems ending in в, г, р, с (гарчээ, ирчээ, явчээ), and -жээ is used everywhere else, including after vowels and л, н, м (олжээ, байжээ, нээжээ, хэлжээ). It is used for things you did not know before, not for things you personally witnessed and expected. English has no single ending for this. Use \"apparently\" or \"it turns out\", or \"must have been\" for a guess based on evidence. Note: -жээ is typical of written reports and news, and in speech -сан байна is often used for the same idea.",
+  "explain_mn": "-жээ/-чээ дагаврыг үйл үгийн язгуурт залгаж саяхан мэдсэн, анзаарсан эсвэл дүгнэж олсон зүйлийг ихэвчлэн гайхсан өнгөтэй илэрхийлнэ. в, г, р, с-ээр төгссөн язгуурт -чээ (гарчээ, ирчээ, явчээ), бусад тохиолдолд -жээ (олжээ, байжээ, нээжээ, хэлжээ) залгана. Өөрөө харж, урьдчилан мэдэж байсан зүйлд биш, өмнө нь мэдээгүй байсан зүйлд хэрэглэнэ. Англи хэлэнд ийм тусгай дагавар байхгүй. Тиймээс \"apparently\" (бололтой, сонссоноор), \"it turns out\" (... байжээ, ... байсан байна) гэж хэлнэ. Нотолгоонд тулгуурласан таамгийг \"must have been\" (байсан байх) гэж илэрхийлнэ. -жээ нь бичгийн мэдээ, мэдээлэлд түгээмэл бөгөөд ярианд ихэвчлэн -сан байна хэлбэрийг хэрэглэдэг. Жишээ нь: \"It turns out the tomb was empty\" = \"Булш хоосон байжээ.\"",
+  "examples": [
+   {
+    "mn": "Малтлагаас эртний хөшөө олджээ.",
+    "en": "Apparently, an ancient monument was found in the excavation.",
+    "mn_latin": "Maltlagaas ertnii khöshöö oldjee."
+   },
+   {
+    "mn": "Булш хоосон байжээ.",
+    "en": "It turns out the tomb was empty.",
+    "mn_latin": "Bulsh khooson baijee."
+   },
+   {
+    "mn": "Судлаачид шинэ бичээс нээжээ.",
+    "en": "The researchers have discovered a new inscription, it seems.",
+    "mn_latin": "Sudlaachid shine bichees neejee."
+   },
+   {
+    "mn": "Тэр хүн хаан байсан бололтой.",
+    "en": "That man must have been a king.",
+    "mn_latin": "Ter khün khaan baisan bololtoi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Малтлагаас эртний сав гар___.",
+   "answer": "чээ",
+   "options": [
+    "чээ",
+    "жээ",
+    "даг",
+    "на"
+   ],
+   "translation": "Apparently, an ancient vessel came out of the excavation.",
+   "explain_en": "-жээ/-чээ marks a newly discovered fact; after р use -чээ: гарчээ.",
+   "explain_mn": "Шинээр мэдсэн баримтыг -жээ/-чээ-ээр илэрхийлнэ; р-ийн дараа -чээ: гарчээ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ булш хоёр мянган жилийн настай бай___.",
+   "answer": "жээ",
+   "options": [
+    "жээ",
+    "чээ",
+    "х",
+    "даг"
+   ],
+   "translation": "It turns out this tomb was two thousand years old.",
+   "explain_en": "байжээ shows surprise at a new fact.",
+   "explain_mn": "Гэнэт мэдсэн зүйлийг байжээ гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Судлаачид шинэ олдвор нээ___.",
+   "answer": "жээ",
+   "options": [
+    "жээ",
+    "чээ",
+    "нэ",
+    "лээ"
+   ],
+   "translation": "The researchers have discovered a new find, it seems.",
+   "explain_en": "нээ- + -жээ gives нээжээ.",
+   "explain_mn": "нээ- + -жээ = нээжээ."
+  },
+  {
+   "lang": "en",
+   "text": "___, the tomb was empty when they opened it.",
+   "answer": "Apparently",
+   "options": [
+    "Apparently",
+    "Always",
+    "Hardly",
+    "Yesterday"
+   ],
+   "translation": "Булшийг нээхэд хоосон байжээ.",
+   "explain_en": "Apparently reports new information you heard.",
+   "explain_mn": "Apparently нь сонссон шинэ мэдээг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It turns ___ the statue was much older than we thought.",
+   "answer": "out",
+   "options": [
+    "out",
+    "in",
+    "up to",
+    "off"
+   ],
+   "translation": "Хөшөө бидний бодсоноос хавьгүй эртний байжээ.",
+   "explain_en": "\"It turns out\" is a fixed phrase.",
+   "explain_mn": "\"It turns out\" нь тогтмол хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "This king ___ been very powerful; his tomb is huge.",
+   "answer": "must have",
+   "options": [
+    "must have",
+    "should",
+    "will have to",
+    "can"
+   ],
+   "translation": "Энэ хаан маш хүчирхэг байсан байх; булш нь асар том.",
+   "explain_en": "\"must have been\" shows a strong guess about the past.",
+   "explain_mn": "\"must have been\" нь өнгөрсөн үйл явдлын хүчтэй таамаг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Золзаяа",
+   "mn": "Сонссон уу? Хэнтийд шинэ булш олжээ.",
+   "en": "Did you hear? Apparently, they found a new tomb in Khentii.",
+   "mn_latin": "Sonsson uu? Khentiid shine bulsh oljee."
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Үнэн үү? Ямар олдвор гарсан бэ?",
+   "en": "Really? What kind of artifacts came out?",
+   "mn_latin": "Ünen üü? Yamar oldvor garsan be?"
+  },
+  {
+   "speaker": "Золзаяа",
+   "mn": "Алтан зүүлт, сав, бас бичээстэй чулуу олдсон байна.",
+   "en": "A gold necklace, vessels, and a stone with an inscription, it seems.",
+   "mn_latin": "Altan züült, sav, bas bicheestei chuluu oldson baina."
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Бичээсийг уншсан уу?",
+   "en": "Have they read the inscription?",
+   "mn_latin": "Bicheesiig unshsan uu?"
+  },
+  {
+   "speaker": "Золзаяа",
+   "mn": "Тийм. Судлаачид уншихад булш нь язгууртны байжээ.",
+   "en": "Yes. When the researchers read it, it turned out the tomb belonged to a noble.",
+   "mn_latin": "Tiim. Sudlaachid unshikhad bulsh ni yazguurtny baijee."
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Тэр хүн чухал хүн байсан байх. Булш нь том юм байна.",
+   "en": "He must have been an important person. The tomb is big.",
+   "mn_latin": "Ter khün chukhal khün baisan baikh. Bulsh ni tom yum baina."
+  },
+  {
+   "speaker": "Золзаяа",
+   "mn": "Тийм ээ. Хажууд нь хөшөө ч байжээ.",
+   "en": "Yes. And apparently there was a monument next to it too.",
+   "mn_latin": "Tiim ee. Khajuud ni khöshöö ch baijee."
+  },
+  {
+   "speaker": "Майкл",
+   "mn": "Би заавал музейд үзэхээр очно!",
+   "en": "I'm definitely going to the museum to see it!",
+   "mn_latin": "Bi zaaval muzyeid üzekheer ochno!"
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia is full of ancient sites: Bronze Age deer stones, Turkic Orkhon inscriptions from the 8th century, and royal tombs of the Xiongnu at Noyon Uul. Archaeologists still make new discoveries, and in news reports the evidential -жээ is often used to announce them. The search for Chinggis Khaan's tomb remains one of the great unsolved mysteries.",
+  "mn": "Монгол орон эртний дурсгалаар баялаг: хүрлийн үеийн буган хөшөө, 8-р зууны Орхоны түрэг бичээс, Ноён уулын хүннү язгууртны булшнууд зэрэг. Археологичид одоо ч шинэ олдвор нээсээр байдаг бөгөөд мэдээнд шинэ нээлтийг ихэвчлэн -жээ дагавраар мэдээлдэг. Чингис хааны булшийг хайх нь одоо ч шийдэгдээгүй агуу нууц хэвээр байна."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 13,
+  "notes": "Mostly good, but the grammar explanation was muddled, the гарчээ blank had a wrong answer, and a few MN phrasing errors."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 22,
+  "notes": "Main problems: wrong ж/ч rule in the grammar, mismatched mn explanation, a duplicate alternative, ambiguous fill-blank options, and some unnatural wording.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_en",
+    "why": "'came out of the tomb' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "alt was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "natural word order; хөөрхөн means 'cute', not 'lovely', for an artifact"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "en",
+    "why": "the discovery is about the present, so present tense"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "consistent tense"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_en",
+    "why": "tense agreement"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "standard form is хээрийн дунд"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "standard form is хээрийн дунд"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "incomplete phrase"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "reported speech tense"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "Харин means 'but' and does not match 'Oh'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "wrong ж/ч rule (хэлчээ is incorrect); -лаа is not evidential"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Mongolian version didn't match the English one and had misleading glosses"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "test the ж/ч choice; гарлаа was also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "explain why the answer is чээ"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "explain why the answer is чээ"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "the stem already included ж, so the options produced impossible forms"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "forms that fit the stem бай-"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "ёо/ээ were non-forms"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "хүчирхэг is the natural word for 'powerful'"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "том means 'big', not 'huge'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "match 'often' in the English version"
+   }
+  ]
+ }
+}

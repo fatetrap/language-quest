@@ -1,0 +1,464 @@
+{
+ "intro_en": "You will learn to discuss a novel in a book club: plot, characters, narrator, theme and ending. You will also practice nuanced opinions with participles, the concessive -вч / -сан ч and the conditional -вал / -ваас.",
+ "intro_mn": "Та номын клубт романыг хэлэлцэж сурна: өрнөл, дүр, өгүүлэгч, гол санаа, төгсгөл. Мөн үйлт нэр, -вч / -сан ч болон -вал / -ваас нөхцөлөөр нарийн санал бодлоо илэрхийлэхийг дадлагажина.",
+ "vocab": [
+  {
+   "mn": "өрнөл",
+   "en": "plot",
+   "pos": "noun",
+   "example_mn": "Романы өрнөл маш хурдан хөгжсөн.",
+   "example_en": "The plot of the novel developed very quickly.",
+   "mn_latin": "örnöl"
+  },
+  {
+   "mn": "дүр",
+   "en": "character",
+   "pos": "noun",
+   "example_mn": "Гол дүр нь бидэнд ойр санагдсан.",
+   "example_en": "The main character felt close to us.",
+   "mn_latin": "dür"
+  },
+  {
+   "mn": "гол санаа",
+   "en": "main idea, theme",
+   "pos": "noun",
+   "example_mn": "Энэ номын гол санаа бол ганцаардал.",
+   "example_en": "The main theme of this book is loneliness.",
+   "mn_latin": "gol sanaa"
+  },
+  {
+   "mn": "өгүүлэгч",
+   "en": "narrator",
+   "pos": "noun",
+   "example_mn": "Өгүүлэгч үйл явдлыг хүүхдийн нүдээр харуулдаг.",
+   "example_en": "The narrator shows events through a child's eyes.",
+   "mn_latin": "ögüülegch"
+  },
+  {
+   "mn": "төгсгөл",
+   "en": "ending",
+   "pos": "noun",
+   "example_mn": "Төгсгөл нь нээлттэй үлдсэн.",
+   "example_en": "The ending was left open.",
+   "mn_latin": "tögsgöl"
+  },
+  {
+   "mn": "гэнэтийн эргэлт",
+   "en": "plot twist",
+   "pos": "noun phrase",
+   "example_mn": "Гэнэтийн эргэлт нь намайг цочирдуулсан.",
+   "example_en": "The plot twist shocked me.",
+   "mn_latin": "genetiin ergelt"
+  },
+  {
+   "mn": "хэлэлцэх",
+   "en": "to discuss",
+   "pos": "verb",
+   "example_mn": "Бид энэ сард нэг романыг хэлэлцэнэ.",
+   "example_en": "This month we will discuss a novel.",
+   "mn_latin": "kheleltsekh"
+  },
+  {
+   "mn": "дүгнэх",
+   "en": "to conclude, evaluate",
+   "pos": "verb",
+   "example_mn": "Та номыг хэрхэн дүгнэх вэ?",
+   "example_en": "How would you evaluate the book?",
+   "mn_latin": "dügnekh"
+  },
+  {
+   "mn": "найдваргүй",
+   "en": "unreliable",
+   "pos": "adjective",
+   "example_mn": "Найдваргүй өгүүлэгч уншигчийг төөрөлдүүлдэг.",
+   "example_en": "An unreliable narrator confuses the reader.",
+   "mn_latin": "naidvargüi"
+  },
+  {
+   "mn": "сэтгэгдэл",
+   "en": "impression, comment",
+   "pos": "noun",
+   "example_mn": "Таны сэтгэгдэл ямар байна?",
+   "example_en": "What is your impression?",
+   "mn_latin": "setgegdel"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өрнөл удаан эхэлсэн ч төгсгөл нь сэтгэл татсан.",
+   "en": "The plot started slowly, but the ending was gripping.",
+   "alt_mn": [
+    "Өрнөл удаан эхэлсэн боловч төгсгөл нь сэтгэл татсан."
+   ],
+   "alt_en": [
+    "Although the plot started slowly, the ending was captivating."
+   ],
+   "mn_latin": "Örnöl udaan ekhelsen ch tögsgöl ni setgel tatsan."
+  },
+  {
+   "mn": "Өгүүлэгч гол дүрийн ганцаардлыг мэдрүүлж байна.",
+   "en": "The narrator conveys the main character's loneliness.",
+   "alt_mn": [],
+   "alt_en": [
+    "The narrator makes us feel the main character's loneliness."
+   ],
+   "mn_latin": "Ögüülegch gol düriin gantsaardlyg medrüülj baina."
+  },
+  {
+   "mn": "Энэ нь надад уучлал гуйсан захидал шиг сонсогдсон.",
+   "en": "To me it read like a letter of apology.",
+   "alt_mn": [
+    "Энэ нь надад уучлалт гуйсан захидал шиг сонсогдов."
+   ],
+   "alt_en": [
+    "It read to me as an apology letter."
+   ],
+   "mn_latin": "Ene ni nadad uuchlal guisan zakhidal shig sonsogdson."
+  },
+  {
+   "mn": "Гол санааг нь ойлгосон ч төгсгөлд итгэсэнгүй.",
+   "en": "Although I understood the main theme, I wasn't convinced by the ending.",
+   "alt_mn": [],
+   "alt_en": [
+    "I understood the theme, but the ending did not convince me."
+   ],
+   "mn_latin": "Gol sanaag ni oilgoson ch tögsgöld itgesengüi."
+  },
+  {
+   "mn": "Гэнэтийн эргэлт гарахаас өмнө дүрүүд илүү амьд байсан.",
+   "en": "Before the plot twist, the characters felt more alive.",
+   "alt_mn": [],
+   "alt_en": [
+    "The characters were more alive before the twist came."
+   ],
+   "mn_latin": "Genetiin ergelt garakhaas ömnö dürüüd ilüü amid baisan."
+  },
+  {
+   "mn": "Зохиолчийн хэлэх гэсэн зүйлийг уншигч өөр өөрөөр ойлгож болно.",
+   "en": "Readers can understand what the author wanted to say in different ways.",
+   "alt_mn": [],
+   "alt_en": [
+    "Readers may interpret what the author meant differently."
+   ],
+   "mn_latin": "Zokhiolchiin khelekh gesen züiliig unshigch öör ööröör oilgoj bolno."
+  },
+  {
+   "mn": "Өгүүлэгч найдваргүй байсан учраас бид түүний үгэнд эргэлзсэн.",
+   "en": "Because the narrator was unreliable, we doubted his words.",
+   "alt_mn": [],
+   "alt_en": [
+    "Since the narrator was unreliable, we doubted what he said."
+   ],
+   "mn_latin": "Ögüülegch naidvargüi baisan uchraas bid tüünii ügend ergelzsen."
+  },
+  {
+   "mn": "Хичнээн шүүмжилсэн ч энэ роман миний сэтгэлд үлдсэн.",
+   "en": "However much I criticized it, this novel stayed with me.",
+   "alt_mn": [],
+   "alt_en": [
+    "No matter how much I criticized it, this novel stuck with me."
+   ],
+   "mn_latin": "Khichneen shüümjilsen ch ene roman minii setgeld üldsen."
+  },
+  {
+   "mn": "Дүрүүдийг сайн бичсэн хэдий ч өрнөл сул санагдсан.",
+   "en": "Even though the characters were well written, the plot felt weak.",
+   "alt_mn": [],
+   "alt_en": [
+    "The characters were well drawn, yet the plot felt weak."
+   ],
+   "mn_latin": "Dürüüdiig sain bichsen khedii ch örnöl sul sanagdsan."
+  },
+  {
+   "mn": "Өрнөл надад таалагдаагүй ч дүрүүдийг нь сайшаасан.",
+   "en": "I didn't like the plot, but I praised the characters.",
+   "alt_mn": [],
+   "alt_en": [
+    "I didn't care for the plot, but I admired its characters."
+   ],
+   "mn_latin": "Örnöl nadad taalagdaagüi ch dürüüdiig ni saishaasan."
+  },
+  {
+   "mn": "Номыг дахин уншвал өөр утга олж магадгүй.",
+   "en": "If you reread the book, you might find a different meaning.",
+   "alt_mn": [],
+   "alt_en": [
+    "Should you reread the book, you may find another meaning."
+   ],
+   "mn_latin": "Nomyg dakhin unshval öör utga olj magadgüi."
+  },
+  {
+   "mn": "Бидний хэлэлцэж буй роман маш өргөн хүрээтэй гол санаатай.",
+   "en": "The novel we are discussing has a very broad theme.",
+   "alt_mn": [],
+   "alt_en": [
+    "The novel under discussion has a very wide-ranging theme."
+   ],
+   "mn_latin": "Bidnii kheleltsej bui roman mash örgön khüreetei gol sanaatai."
+  }
+ ],
+ "grammar": {
+  "title_en": "Nuanced opinions: participles and -вч / -ваас",
+  "title_mn": "Нарийн санал бодол: үйлт нэр ба -вч / -ваас",
+  "explain_en": "In critical discussion, Mongolian often softens or balances opinions with participles: -сан (past, 'the one that…'), -даг (habitual/general), -х (future/needed), -ж буй (ongoing). Add -вч (or -сан ч) for concession: 'Уншивч ойлгохгүй' = 'Even if you read it, you won't understand.' The conditional -вал (also -ваас) means 'if/once': 'Дахин уншвал…' = 'If you reread…'. Pair them with connectors like харин, гэхдээ, учраас, хэдий ч. English equivalents are phrases like 'the narrator conveys…', 'it reads as…', 'it comes across as…'.",
+  "explain_mn": "Монгол хэлэнд шүүмжлэлтэй хэлэлцүүлэгт бодлоо зөөлрүүлэх, тэнцвэржүүлэхдээ үйлт нэр (-сан, -даг, -х, -ж буй)-ийг хэрэглэнэ. Нөхцөл: -вч / -сан ч нь 'although, even if', -вал / -ваас нь 'if' гэсэн утгатай. Жишээ нь: 'Дахин уншвал…' = 'If you reread…'. Англиар 'the narrator conveys', 'it reads as', 'it comes across as' гэх мэт хэллэг ашигладаг.",
+  "examples": [
+   {
+    "mn": "Хичнээн дахин уншивч төгсгөл нь тодорхойгүй хэвээр.",
+    "en": "However many times you reread it, the ending remains unclear.",
+    "mn_latin": "Khichneen dakhin unshivch tögsgöl ni todorkhoigüi kheveer."
+   },
+   {
+    "mn": "Өгүүлэгчийн хэлж буй зүйл үнэн бус ч бидэнд үнэмшилтэй сонсогддог.",
+    "en": "Even though what the narrator says is untrue, it sounds convincing to us.",
+    "mn_latin": "Ögüülegchiin khelj bui züil ünen bus ch bidend ünemshiltei sonsogddog."
+   },
+   {
+    "mn": "Дахин уншвал гол санаа нь илүү тодорно.",
+    "en": "If you reread it, the theme becomes clearer.",
+    "mn_latin": "Dakhin unshval gol sanaa ni ilüü todorno."
+   },
+   {
+    "mn": "Дүрүүд энгийн мэт ч гүн утгатай санагдсан.",
+    "en": "The characters seemed simple, but they came across as deep.",
+    "mn_latin": "Dürüüd engiin met ch gün utgatai sanagdsan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өрнөл удаан ___ төгсгөл нь сэтгэл татсан.",
+   "answer": "эхэлсэн ч",
+   "options": [
+    "эхэлсэн ч",
+    "эхэлсэн тул",
+    "эхлэхээр",
+    "эхэлнэ"
+   ],
+   "translation": "Although the plot started slowly, the ending was gripping.",
+   "explain_en": "'Эхэлсэн ч' = 'even though it began'; the concessive ч marks contrast.",
+   "explain_mn": "'-сан ч' нь 'гэвч' утгатай зөрчлийн холбоос юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Номыг дахин ___ өөр утга олж магадгүй.",
+   "answer": "уншвал",
+   "options": [
+    "уншвал",
+    "уншсан",
+    "уншдаг",
+    "унших"
+   ],
+   "translation": "If you reread the book, you might find a different meaning.",
+   "explain_en": "-вал is the conditional 'if'.",
+   "explain_mn": "-вал нь болзол заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Хичнээн ___ энэ роман миний сэтгэлд үлдсэн.",
+   "answer": "шүүмжилсэн ч",
+   "options": [
+    "шүүмжилсэн ч",
+    "шүүмжилсэн тул",
+    "шүүмжилнэ",
+    "шүүмжилж"
+   ],
+   "translation": "However much I criticized it, this novel stayed with me.",
+   "explain_en": "Хичнээн + -сан ч means 'however much'.",
+   "explain_mn": "'Хичнээн ...-сан ч' нь 'хэчнээн их ...-сан ч гэсэн' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The narrator ___ the character's loneliness very well.",
+   "answer": "conveys",
+   "options": [
+    "conveys",
+    "convey",
+    "conveyed to",
+    "conveying"
+   ],
+   "translation": "Өгүүлэгч дүрийн ганцаардлыг маш сайн мэдрүүлдэг.",
+   "explain_en": "Third-person singular present: 'conveys'.",
+   "explain_mn": "Одоо цагийн 3-р биеийн ганц тоонд -s залгана."
+  },
+  {
+   "lang": "en",
+   "text": "Although the plot is slow, it ___ as a very personal story.",
+   "answer": "reads",
+   "options": [
+    "reads",
+    "read",
+    "is reading",
+    "reading"
+   ],
+   "translation": "Өрнөл удаан ч энэ нь маш хувийн түүх мэт уншигддаг.",
+   "explain_en": "'Reads as' is a critical phrase meaning 'comes across as'.",
+   "explain_mn": "'Reads as' нь 'мэт уншигдах' гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "___ the characters are well written, the ending feels rushed.",
+   "answer": "Even though",
+   "options": [
+    "Even though",
+    "Because",
+    "So that",
+    "Unless"
+   ],
+   "translation": "Дүрүүдийг сайн бичсэн хэдий ч төгсгөл нь яаруу санагдана.",
+   "explain_en": "'Even though' introduces a contrast, like Mongolian -сан ч.",
+   "explain_mn": "'Even though' нь '-сан ч' шиг сөргөлдөөн заана."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Өнөөдөр бид энэ романы өрнөл, дүрүүдийг хэлэлцье.",
+   "en": "Today let's discuss the plot and characters of this novel.",
+   "mn_latin": "Önöödör bid ene romany örnöl, dürüüdiig kheleltsiye."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Өрнөл удаан эхэлсэн ч гэнэтийн эргэлт надад маш их таалагдсан.",
+   "en": "The plot started slowly, but I really liked the plot twist.",
+   "mn_latin": "Örnöl udaan ekhelsen ch genetiin ergelt nadad mash ikh taalagdsan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Би өөрөөр бодож байна. Өгүүлэгч найдваргүй учраас төгсгөлд итгэхэд хэцүү.",
+   "en": "I think differently. Because the narrator is unreliable, it's hard to trust the ending.",
+   "mn_latin": "Bi ööröör bodoj baina. Ögüülegch naidvargüi uchraas tögsgöld itgekhed khetsüü."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Үнэн, гэхдээ тэр нь гол санааг гүнзгийрүүлж байгаа биш үү?",
+   "en": "True, but doesn't that deepen the main theme?",
+   "mn_latin": "Ünen, gekhdee ter ni gol sanaag günzgiirüülj baigaa bish üü?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Миний хувьд ганцаардлыг маш сайн мэдрүүлсэн роман шиг уншигдсан.",
+   "en": "For me it read like a novel that conveys loneliness very well.",
+   "mn_latin": "Minii khuvid gantsaardlyg mash sain medrüülsen roman shig unshigdsan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Хичнээн сайшаавч төгсгөл нь надад хэтэрхий нээлттэй санагдсан.",
+   "en": "However much I praise it, the ending felt too open to me.",
+   "mn_latin": "Khichneen saishaavch tögsgöl ni nadad kheterkhii neelttei sanagdsan."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Дахин уншвал магадгүй өөр утга олох байх.",
+   "en": "If you reread it, maybe you'll find another meaning.",
+   "mn_latin": "Dakhin unshval magadgüi öör utga olokh baikh."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгвэл дараагийн уулзалтаар дахин ярилцъя.",
+   "en": "Then let's talk again at the next meeting.",
+   "mn_latin": "Tegvel daraagiin uulzaltaar dakhin yariltsya."
+  }
+ ],
+ "culture_note": {
+  "en": "Book clubs are growing in Ulaanbaatar, often meeting in cafés or bookshops, and readers discuss both Mongolian classics, such as works by Natsagdorj and Lodoidamba, and translated novels. Mongolian discussion style tends to be polite and indirect, so opinions are often softened with endings like -вч and connectors like гэхдээ.",
+  "mn": "Улаанбаатарт номын клубууд өргөжиж, кафе, номын дэлгүүрт уулздаг бөгөөд Нацагдорж, Ч. Лодойдамба зэрэг сонгодог зохиол болон орчуулгын романуудыг хэлэлцдэг. Монголчууд ихэвчлэн эелдэг, шууд бус маягаар санал солилцдог тул -вч, гэхдээ зэрэг хэллэгээр бодлоо зөөлрүүлдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 31,
+  "notes": "Mostly good content, but several unnatural Mongolian forms (итгэмжгүй, таагаагүй, хэчнээн) and an inaccurate grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Main problems: an invalid -вч form, -ваас wrongly called concessive, танай/таны, a duplicate alternative and tense mismatches.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "-ваас is conditional, not concessive"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Match the corrected English; -ваас is conditional"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "танай = your family/organization's; personal impression needs таны"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "*шүүмжилвч is not a valid form"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "Alternative is now the same as the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "Tense should match the past -сан"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "Tense should match the past -сан"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "Alternative was identical to the main sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "*шүүмжилвч is not a valid form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Options must include the valid answer form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "Match the past tense"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Match the corrected answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Match the corrected answer"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "Tense consistency"
+   }
+  ]
+ }
+}

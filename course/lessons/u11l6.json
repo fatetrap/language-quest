@@ -1,0 +1,420 @@
+{
+ "intro_en": "You will put together everything from this unit: greet the seller, ask for things, ask the price, pay, and say thanks. You will also review food, clothes, and school items.",
+ "intro_mn": "Та энэ нэгжийн бүх зүйлийг нэгтгэнэ: худалдагчтай мэндлэх, юм авахыг хүсэх, үнэ асуух, төлөх, баярлалаа гэх. Мөн хоол, хувцас, сургуулийн хэрэгслийн үгсийг давтана.",
+ "vocab": [
+  {
+   "mn": "дэлгүүр",
+   "en": "store",
+   "pos": "noun",
+   "example_mn": "Энэ дэлгүүр том.",
+   "example_en": "This store is big.",
+   "mn_latin": "delgüür"
+  },
+  {
+   "mn": "үнэ",
+   "en": "price",
+   "pos": "noun",
+   "example_mn": "Энэ юмны үнэ хэд вэ?",
+   "example_en": "What is the price of this?",
+   "mn_latin": "üne"
+  },
+  {
+   "mn": "хямд",
+   "en": "cheap",
+   "pos": "adjective",
+   "example_mn": "Энэ цамц хямд.",
+   "example_en": "This shirt is cheap.",
+   "mn_latin": "khyamd"
+  },
+  {
+   "mn": "нийт",
+   "en": "total",
+   "pos": "noun",
+   "example_mn": "Нийт үнэ арван мянган төгрөг.",
+   "example_en": "The total price is ten thousand tugriks.",
+   "mn_latin": "niit"
+  },
+  {
+   "mn": "төлөх",
+   "en": "to pay",
+   "pos": "verb",
+   "example_mn": "Би бэлнээр төлнө.",
+   "example_en": "I will pay in cash.",
+   "mn_latin": "tölökh"
+  },
+  {
+   "mn": "талх",
+   "en": "bread",
+   "pos": "noun",
+   "example_mn": "Надад талх өгөөч.",
+   "example_en": "Please give me bread.",
+   "mn_latin": "talkh"
+  },
+  {
+   "mn": "сүү",
+   "en": "milk",
+   "pos": "noun",
+   "example_mn": "Би сүү авна.",
+   "example_en": "I will take milk.",
+   "mn_latin": "süü"
+  },
+  {
+   "mn": "цамц",
+   "en": "shirt",
+   "pos": "noun",
+   "example_mn": "Тэр цамц хэд вэ?",
+   "example_en": "How much is that shirt?",
+   "mn_latin": "tsamts"
+  },
+  {
+   "mn": "дэвтэр",
+   "en": "notebook",
+   "pos": "noun",
+   "example_mn": "Энэ дэвтэр хямд.",
+   "example_en": "This notebook is cheap.",
+   "mn_latin": "devter"
+  },
+  {
+   "mn": "харандаа",
+   "en": "pencil",
+   "pos": "noun",
+   "example_mn": "Би хоёр харандаа авна.",
+   "example_en": "I will take two pencils.",
+   "mn_latin": "kharandaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сайн байна уу? Надад талх өгөөч.",
+   "en": "Hello. Can I have some bread, please?",
+   "alt_mn": [
+    "Сайн уу? Надад талх өгөөч."
+   ],
+   "alt_en": [
+    "Hello. Please give me some bread."
+   ],
+   "mn_latin": "Sain baina uu? Nadad talkh ögööch."
+  },
+  {
+   "mn": "Энэ сүүний үнэ хэд вэ?",
+   "en": "How much is this milk?",
+   "alt_mn": [
+    "Энэ сүү хэд вэ?"
+   ],
+   "alt_en": [
+    "How much does this milk cost?"
+   ],
+   "mn_latin": "Ene süünii üne khed ve?"
+  },
+  {
+   "mn": "Тэр цамц хэд вэ?",
+   "en": "How much is that shirt?",
+   "alt_mn": [],
+   "alt_en": [
+    "How much is that shirt over there?"
+   ],
+   "mn_latin": "Ter tsamts khed ve?"
+  },
+  {
+   "mn": "Эдгээр дэвтэр хямд.",
+   "en": "These notebooks are cheap.",
+   "alt_mn": [
+    "Эдгээр дэвтэр хямд байна."
+   ],
+   "alt_en": [],
+   "mn_latin": "Edgeer devter khyamd."
+  },
+  {
+   "mn": "Тэдгээр харандаа хэд вэ?",
+   "en": "How much are those pencils?",
+   "alt_mn": [
+    "Тэдгээр харандаанууд хэд вэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Tedgeer kharandaa khed ve?"
+  },
+  {
+   "mn": "Надад хоёр дэвтэр өгөөч.",
+   "en": "Can I have two notebooks, please?",
+   "alt_mn": [
+    "Хоёр дэвтэр өгөөч."
+   ],
+   "alt_en": [
+    "Please give me two notebooks."
+   ],
+   "mn_latin": "Nadad khoyor devter ögööch."
+  },
+  {
+   "mn": "Би үүнийг авна.",
+   "en": "I will take this one.",
+   "alt_mn": [
+    "Би энийг авна."
+   ],
+   "alt_en": [
+    "I'll take this."
+   ],
+   "mn_latin": "Bi üüniig avna."
+  },
+  {
+   "mn": "Нийт үнэ хэд вэ?",
+   "en": "How much is the total?",
+   "alt_mn": [
+    "Бүгд хэд вэ?"
+   ],
+   "alt_en": [
+    "What is the total price?"
+   ],
+   "mn_latin": "Niit üne khed ve?"
+  },
+  {
+   "mn": "Нийт арван таван мянган төгрөг.",
+   "en": "The total is fifteen thousand tugriks.",
+   "alt_mn": [
+    "Бүгд арван таван мянган төгрөг."
+   ],
+   "alt_en": [
+    "It's fifteen thousand tugriks in total."
+   ],
+   "mn_latin": "Niit arvan tavan myangan tögrög."
+  },
+  {
+   "mn": "Та бэлнээр төлөх үү?",
+   "en": "Will you pay in cash?",
+   "alt_mn": [],
+   "alt_en": [
+    "Are you paying in cash?"
+   ],
+   "mn_latin": "Ta belneer tölökh üü?"
+  },
+  {
+   "mn": "Энд ирээрэй.",
+   "en": "Please come here.",
+   "alt_mn": [
+    "Наашаа ирээрэй."
+   ],
+   "alt_en": [
+    "Come here, please."
+   ],
+   "mn_latin": "End ireerei."
+  },
+  {
+   "mn": "Баярлалаа, баяртай!",
+   "en": "Thank you, goodbye!",
+   "alt_mn": [],
+   "alt_en": [
+    "Thanks, bye!"
+   ],
+   "mn_latin": "Bayarlalaa, bayartai!"
+  }
+ ],
+ "grammar": {
+  "title_en": "Review: хэд вэ, -өөч, -аарай/-ээрэй",
+  "title_mn": "Давтлага: хэд вэ, -өөч, -аарай/-ээрэй",
+  "explain_en": "To ask a price, say the item + хэд вэ? (How much is it?). To ask politely, add the request ending by vowel harmony: -аач/-ээч/-ооч/-өөч (өгөөч = please give). The ending -аарай/-ээрэй (ирээрэй, суугаарай) is a soft, polite request or invitation. Use Энэ (this) and Тэр (that); for many items, Эдгээр (these) and Тэдгээр (those). Use Надад ... өгөөч for 'Can I have...'.",
+  "explain_mn": "Англиар үнэ асуухдаа 'How much is/are ...?' гэнэ: How much is this? (нэг зүйл), How much are these? (олон зүйл). Хүсэхдээ 'Can I have ...?' эсвэл 'Could I have ...?' гэнэ; 'please' нэмбэл эелдэг болно. 'This/that' нэгний тоо, 'these/those' олны тоонд хэрэглэгдэнэ: this notebook – these notebooks; that pencil – those pencils.",
+  "examples": [
+   {
+    "mn": "Энэ талх хэд вэ?",
+    "en": "How much is this bread?",
+    "mn_latin": "Ene talkh khed ve?"
+   },
+   {
+    "mn": "Надад сүү өгөөч.",
+    "en": "Can I have some milk, please?",
+    "mn_latin": "Nadad süü ögööch."
+   },
+   {
+    "mn": "Тэдгээр цамц хэд вэ?",
+    "en": "How much are those shirts?",
+    "mn_latin": "Tedgeer tsamts khed ve?"
+   },
+   {
+    "mn": "Дахиад ирээрэй.",
+    "en": "Please come again.",
+    "mn_latin": "Dakhiad ireerei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ дэвтэр хэд ___?",
+   "answer": "вэ",
+   "options": [
+    "вэ",
+    "уу",
+    "байна",
+    "юм"
+   ],
+   "translation": "How much is this notebook?",
+   "explain_en": "Questions with хэд (how many/much) end with вэ, not уу.",
+   "explain_mn": "'Хэд' гэсэн асуух үгтэй өгүүлбэр 'вэ'-ээр төгсдөг, 'уу'-аар биш."
+  },
+  {
+   "lang": "mn",
+   "text": "Надад талх өг___.",
+   "answer": "өөч",
+   "options": [
+    "өөч",
+    "аач",
+    "ээрэй",
+    "оорой"
+   ],
+   "translation": "Please give me bread.",
+   "explain_en": "өгөх has the vowel ө, so the polite request ending is -өөч.",
+   "explain_mn": "'Өгөх' нь ө эгшигтэй тул хүсэлтийн -өөч дагавар залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Дахиад ир___.",
+   "answer": "ээрэй",
+   "options": [
+    "ээрэй",
+    "аарай",
+    "өөч",
+    "оорой"
+   ],
+   "translation": "Please come again.",
+   "explain_en": "ирэх is a front-vowel verb (и, э), so the ending is -ээрэй (Дахиад ирээрэй).",
+   "explain_mn": "'Ирэх' нь зөөлөн эгшигтэй тул -ээрэй дагавар залгана."
+  },
+  {
+   "lang": "en",
+   "text": "How ___ is this milk?",
+   "answer": "much",
+   "options": [
+    "much",
+    "many",
+    "long",
+    "old"
+   ],
+   "translation": "Энэ сүү хэд вэ?",
+   "explain_en": "Use 'How much' to ask the price.",
+   "explain_mn": "Үнэ асуухад 'How much' гэж хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "How much ___ these pencils?",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "translation": "Эдгээр харандаа хэд вэ?",
+   "explain_en": "'These pencils' is plural, so use 'are'.",
+   "explain_mn": "'These pencils' олны тоо тул 'are' хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Can I ___ two notebooks, please?",
+   "answer": "have",
+   "options": [
+    "have",
+    "has",
+    "having",
+    "to have"
+   ],
+   "translation": "Надад хоёр дэвтэр өгөөч.",
+   "explain_en": "After 'Can I' use the base verb: have.",
+   "explain_mn": "'Can I'-ийн дараа үйл үг үндсэн хэлбэрээрээ орно: have."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байна уу? Надад талх, сүү өгөөч.",
+   "en": "Hello. Can I have bread and milk, please?",
+   "mn_latin": "Sain baina uu? Nadad talkh, süü ögööch."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Мэдээж. Энд байна.",
+   "en": "Of course. Here you are.",
+   "mn_latin": "Medeej. End baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэр дэвтэр хэд вэ?",
+   "en": "How much is that notebook?",
+   "mn_latin": "Ter devter khed ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Хоёр мянга таван зуун төгрөг.",
+   "en": "It's two thousand five hundred tugriks.",
+   "mn_latin": "Khoyor myanga tavan zuun tögrög."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл хоёр дэвтэр авна. Нийт хэд вэ?",
+   "en": "Then I will take two notebooks. How much is the total?",
+   "mn_latin": "Tegvel khoyor devter avna. Niit khed ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Нийт найман мянган төгрөг.",
+   "en": "The total is eight thousand tugriks.",
+   "mn_latin": "Niit naiman myangan tögrög."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Энэ байна. Баярлалаа!",
+   "en": "Here you go. Thank you!",
+   "mn_latin": "Ene baina. Bayarlalaa!"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Зүгээр. Дахиад ирээрэй!",
+   "en": "You're welcome. Please come again!",
+   "mn_latin": "Zügeer. Dakhiad ireerei!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, people shop in small neighborhood stores (дэлгүүр), big supermarkets, and the busy Narantuul market. Greeting the seller with «Сайн байна уу?» is polite, and in markets people often ask the price before buying. Many shops accept cards and QR payments, but cash is still common.",
+  "mn": "Улаанбаатарт хүмүүс хорооллын жижиг дэлгүүр, том супермаркет, хөл хөдөлгөөн ихтэй Нарантуул зах зэрэгт дэлгүүрлэдэг. Худалдагчид «Сайн байна уу?» гэж мэндлэх нь эелдэг бөгөөд захад ихэвчлэн үнийг эхлээд асуудаг. Олон дэлгүүр карт, QR төлбөр хүлээн авдаг ч бэлэн мөнгө одоо ч түгээмэл."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 12,
+  "notes": "Mostly good; fixed the invalid word 'Ал', a typo in the culture note, a wrong grammar list of endings, and the dialogue's arithmetic."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 5,
+  "notes": "Mostly solid; fixed the suffix list, a distractor that is not a real ending, the dialogue total, and the culture note mismatch.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The ending is -ооч, not -оч."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'ох' is not a real ending; replaced it with a real wrong-harmony distractor."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "The total must also include the bread and milk, not just the two notebooks (5,000)."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "Matches the corrected total."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'Худалдааны төв' means shopping mall, not supermarket; also added 'busy' to match the en version."
+   }
+  ]
+ }
+}

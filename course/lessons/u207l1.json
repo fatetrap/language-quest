@@ -1,0 +1,427 @@
+{
+ "intro_en": "On a walking tour of central Ulaanbaatar, you'll ask about the names of streets and squares and explain who they honor. You'll practice the -ын нэрэмжит construction both before a noun and as the end of a sentence, and compare English \"named after\" with \"named for.\"",
+ "intro_mn": "Улаанбаатарын төвөөр алхах аяллын үеэр гудамж, талбайн нэрийн талаар асууж, хэнийг хүндэтгэн нэрлэснийг тайлбарлаж сурна. -ын нэрэмжит бүтцийг нэр үгийн өмнө болон өгүүлбэрийн төгсгөлд хэрэглэж дадлага хийнэ. Мөн англи хэлний \"named after\", \"named for\" хэллэгийг харьцуулж үзнэ.",
+ "vocab": [
+  {
+   "mn": "гудамж",
+   "en": "street",
+   "pos": "noun",
+   "example_mn": "Энэ гудамж хэний нэрэмжит вэ?",
+   "example_en": "Who is this street named after?",
+   "mn_latin": "gudamj"
+  },
+  {
+   "mn": "талбай",
+   "en": "square (public plaza)",
+   "pos": "noun",
+   "example_mn": "Сүхбаатарын талбай хотын яг төвд байдаг.",
+   "example_en": "Sükhbaatar Square is right in the center of the city.",
+   "mn_latin": "talbai"
+  },
+  {
+   "mn": "өргөн чөлөө",
+   "en": "avenue",
+   "pos": "noun",
+   "example_mn": "Энхтайваны өргөн чөлөө хотыг зүүнээс баруун тийш дайрч гардаг.",
+   "example_en": "Peace Avenue runs across the city from east to west.",
+   "mn_latin": "örgön chölöö"
+  },
+  {
+   "mn": "нэрэмжит",
+   "en": "named after, bearing the name of",
+   "pos": "adjective",
+   "example_mn": "Энэ сургууль алдарт яруу найрагчийн нэрэмжит.",
+   "example_en": "This school is named after a famous poet.",
+   "mn_latin": "neremjit"
+  },
+  {
+   "mn": "алдартан",
+   "en": "famous person, notable figure",
+   "pos": "noun",
+   "example_mn": "Хотын олон гудамж алдартнуудын нэрээр нэрлэгдсэн.",
+   "example_en": "Many of the city's streets are named after famous people.",
+   "mn_latin": "aldartan"
+  },
+  {
+   "mn": "хөшөө",
+   "en": "monument, statue",
+   "pos": "noun",
+   "example_mn": "Талбайн голд морьтой хүний хөшөө бий.",
+   "example_en": "There is an equestrian statue in the middle of the square.",
+   "mn_latin": "khöshöö"
+  },
+  {
+   "mn": "нэрлэх",
+   "en": "to name, to call",
+   "pos": "verb",
+   "example_mn": "Энэ өргөн чөлөөг маршал Жуковын нэрээр нэрлэсэн.",
+   "example_en": "This avenue was named after Marshal Zhukov.",
+   "mn_latin": "nerlekh"
+  },
+  {
+   "mn": "дахин нэрлэх",
+   "en": "to rename",
+   "pos": "verb",
+   "example_mn": "2013 онд талбайг дахин нэрлэсэн.",
+   "example_en": "The square was renamed in 2013.",
+   "mn_latin": "dakhin nerlekh"
+  },
+  {
+   "mn": "хүндэтгэл",
+   "en": "honor, respect",
+   "pos": "noun",
+   "example_mn": "Гудамжийг түүнд хүндэтгэл үзүүлж нэрлэжээ.",
+   "example_en": "The street was named in his honor.",
+   "mn_latin": "khündetgel"
+  },
+  {
+   "mn": "дурсгал",
+   "en": "memorial, monument",
+   "pos": "noun",
+   "example_mn": "Энэ дурсгалыг дайнд амиа алдсан цэргүүдэд зориулсан.",
+   "example_en": "This memorial is dedicated to the soldiers who died in the war.",
+   "mn_latin": "dursgal"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ гудамж хэний нэрэмжит вэ?",
+   "en": "Who is this street named after?",
+   "alt_mn": [
+    "Энэ гудамжийг хэний нэрээр нэрлэсэн бэ?"
+   ],
+   "alt_en": [
+    "Who is this street named for?",
+    "Who was this street named after?"
+   ],
+   "mn_latin": "Ene gudamj khenii neremjit ve?"
+  },
+  {
+   "mn": "Сүхбаатарын талбай 1921 оны хувьсгалын удирдагч Д.Сүхбаатарын нэрэмжит.",
+   "en": "Sükhbaatar Square is named after D. Sükhbaatar, a leader of the 1921 revolution.",
+   "alt_mn": [
+    "Сүхбаатарын талбайг 1921 оны хувьсгалын удирдагч Д.Сүхбаатарын нэрээр нэрлэсэн."
+   ],
+   "alt_en": [
+    "Sükhbaatar Square is named for D. Sükhbaatar, a leader of the 1921 revolution."
+   ],
+   "mn_latin": "Sükhbaataryn talbai 1921 ony khuvisgalyn udirdagch D.Sükhbaataryn neremjit."
+  },
+  {
+   "mn": "2013 онд талбайг Чингисийн талбай гэж дахин нэрлэсэн боловч 2016 онд хуучин нэрийг нь сэргээсэн.",
+   "en": "In 2013 the square was renamed Chinggis Square, but its old name was restored in 2016.",
+   "alt_mn": [
+    "2013 онд талбайг Чингисийн талбай болгон өөрчилсөн ч 2016 онд хуучин нэрийг нь буцаан сэргээсэн."
+   ],
+   "alt_en": [
+    "The square was renamed Chinggis Square in 2013, but its original name was restored in 2016."
+   ],
+   "mn_latin": "2013 ond talbaig Chingisiin talbai gej dakhin nerlesen bolovch 2016 ond khuuchin neriig ni sergeesen."
+  },
+  {
+   "mn": "Жуковын өргөн чөлөө Зөвлөлтийн маршал Г.Жуковын нэрэмжит юм.",
+   "en": "Zhukov Avenue is named after the Soviet marshal Georgy Zhukov.",
+   "alt_mn": [
+    "Жуковын өргөн чөлөөг Зөвлөлтийн маршал Г.Жуковын нэрээр нэрлэсэн."
+   ],
+   "alt_en": [
+    "Zhukov Avenue is named for the Soviet marshal Georgy Zhukov."
+   ],
+   "mn_latin": "Jukovyn örgön chölöö Zövlöltiin marshal G.Jukovyn neremjit yum."
+  },
+  {
+   "mn": "Хотын олон гудамж алдартнуудын нэрээр нэрлэгдсэн байдаг.",
+   "en": "Many of the city's streets are named after famous people.",
+   "alt_mn": [
+    "Хотын олон гудамж алдартнуудын нэрэмжит байдаг."
+   ],
+   "alt_en": [
+    "Many streets in the city are named after famous people.",
+    "Many of the city's streets are named for famous people."
+   ],
+   "mn_latin": "Khotyn olon gudamj aldartnuudyn nereer nerlegdsen baidag."
+  },
+  {
+   "mn": "Энхтайваны өргөн чөлөөг ямар нэг хүний нэрээр биш, энх тайвны үзэл санааг илэрхийлж нэрлэсэн.",
+   "en": "Peace Avenue isn't named after any person; its name expresses the idea of peace.",
+   "alt_mn": [
+    "Энхтайваны өргөн чөлөө хүний нэрэмжит биш, энх тайвны үзэл санааг илэрхийлдэг нэр юм."
+   ],
+   "alt_en": [
+    "Peace Avenue isn't named after a person; it's named for the idea of peace."
+   ],
+   "mn_latin": "Enkhtaivany örgön chölöög yamar neg khünii nereer bish, enkh taivny üzel sanaag ilerkhiilj nerlesen."
+  },
+  {
+   "mn": "Сөүлийн гудамжийг Улаанбаатар, Сөүл хоёр хотын нөхөрлөлийг тэмдэглэн нэрлэсэн.",
+   "en": "Seoul Street was named to mark the friendship between Ulaanbaatar and Seoul.",
+   "alt_mn": [
+    "Сөүлийн гудамж Улаанбаатар, Сөүл хотын нөхөрлөлийн бэлгэдэл болгон нэрлэгдсэн."
+   ],
+   "alt_en": [
+    "Seoul Street got its name to celebrate the friendship between Ulaanbaatar and Seoul."
+   ],
+   "mn_latin": "Söüliin gudamjiig Ulaanbaatar, Söül khoyor khotyn nökhörlöliig temdeglen nerlesen."
+  },
+  {
+   "mn": "Занабазарын нэрэмжит Дүрслэх урлагийн музейд түүний бүтээлүүд хадгалагддаг.",
+   "en": "The Zanabazar Museum of Fine Arts, named after Zanabazar, houses his works.",
+   "alt_mn": [
+    "Занабазарын нэрэмжит Дүрслэх урлагийн музейд Занабазарын бүтээлүүдийг хадгалдаг."
+   ],
+   "alt_en": [
+    "His works are kept at the Zanabazar Museum of Fine Arts, which is named after him."
+   ],
+   "mn_latin": "Zanabazaryn neremjit Dürslekh urlagiin muzyeid tüünii büteelüüd khadgalagddag."
+  },
+  {
+   "mn": "Хэрэв та хотын түүхийг сонирхож байгаа бол гудамжны нэрсээс эхлээрэй.",
+   "en": "If you're interested in the city's history, start with its street names.",
+   "alt_mn": [
+    "Хотын түүхийг сонирхож байвал гудамжны нэрсээс эхэлбэл зүгээр."
+   ],
+   "alt_en": [
+    "If you're curious about the city's history, begin with the street names."
+   ],
+   "mn_latin": "Kherev ta khotyn tüükhiig sonirkhoj baigaa bol gudamjny nersees ekhleerei."
+  },
+  {
+   "mn": "Энэ хөшөө хэнд зориулагдсан бэ гэж хөтчөөс асуугаарай.",
+   "en": "Ask the guide who this monument is dedicated to.",
+   "alt_mn": [
+    "Энэ хөшөөг хэнд зориулсныг хөтчөөс асуугаарай."
+   ],
+   "alt_en": [
+    "Ask the guide who this statue is dedicated to.",
+    "Ask the guide whom this monument is dedicated to."
+   ],
+   "mn_latin": "Ene khöshöö khend zoriulagdsan be gej khötchöös asuugaarai."
+  },
+  {
+   "mn": "Олон хүн энэ гудамж хэний нэрэмжит болохыг мэддэггүй.",
+   "en": "Many people don't know who this street is named after.",
+   "alt_mn": [
+    "Энэ гудамж хэний нэрэмжит болохыг олон хүн мэддэггүй."
+   ],
+   "alt_en": [
+    "A lot of people don't know who this street is named for."
+   ],
+   "mn_latin": "Olon khün ene gudamj khenii neremjit bolokhyg meddeggüi."
+  },
+  {
+   "mn": "Нацагдоржийн нэрэмжит номын сан Монголын орчин үеийн уран зохиолыг үндэслэгчдийн нэгийг дурсдаг.",
+   "en": "The Natsagdorj Library honors one of the founders of modern Mongolian literature.",
+   "alt_mn": [
+    "Нацагдоржийн нэрэмжит номын сан орчин үеийн Монголын уран зохиолыг үндэслэгчдийн нэгийн нэрийг мөнхөлсөн."
+   ],
+   "alt_en": [
+    "The library named after Natsagdorj commemorates one of the founders of modern Mongolian literature."
+   ],
+   "mn_latin": "Natsagdorjiin neremjit nomyn san Mongolyn orchin üyeiin uran zokhiolyg ündeslegchdiin negiig dursdag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Saying who a place is named after: -ын нэрэмжит",
+  "title_mn": "Англи хэлний \"named after\" ба \"named for\"",
+  "explain_en": "To say a place is named after someone, put the person's name in the genitive case and add нэрэмжит. The genitive ending follows vowel harmony and the shape of the word: -ын/-ийн after most consonants (Сүхбаатарын, Нацагдоржийн), -гийн after a long vowel (Самбуугийн), -н after a diphthong or -й (далайн), and -ы/-ий after a final -н (Энхтайван → Энхтайваны). The phrase works in two ways. As a modifier it comes before the noun: \"Занабазарын нэрэмжит музей\" (the museum named after Zanabazar). As a predicate it ends the sentence: \"Энэ талбай Сүхбаатарын нэрэмжит\" (This square is named after Sükhbaatar). To ask, use хэний (whose): \"Энэ гудамж хэний нэрэмжит вэ?\" In everyday street names, the bare genitive is often enough on its own: \"Жуковын өргөн чөлөө\" (Zhukov Avenue). A more verbal alternative is \"...-ын нэрээр нэрлэсэн\" (was named with the name of...).",
+  "explain_mn": "Англи хэлэнд \"хэний нэрэмжит\" гэдгийг \"named after\" эсвэл \"named for\" гэж хэлдэг. Хоёулаа зөв бөгөөд утга нь бараг ижил: \"The square is named after Sükhbaatar\" = \"The square is named for Sükhbaatar.\" \"Named after\" нь дэлхий даяар илүү түгээмэл. \"Named for\" нь Америкт их хэрэглэгддэг бөгөөд заримдаа \"хэний хүндэтгэлд\" гэсэн утгыг илүү тодотгодог. Хүн биш, санаа эсвэл үйл явдлын нэрээр нэрлэсэн бол \"named for\" эсвэл \"in honor of\" илүү тохиромжтой: \"Peace Avenue is named for the idea of peace.\" Асуухдаа угтвар үг өгүүлбэрийн төгсгөлд үлддэг: \"Who is this street named after?\" Үүнийг \"After who...?\" гэж хэлэхгүй. Хоёр хэллэгт хоёуланд нь be + named (идэвхгүй хэв) хэлбэр хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Энэ талбай Сүхбаатарын нэрэмжит.",
+    "en": "This square is named after Sükhbaatar.",
+    "mn_latin": "Ene talbai Sükhbaataryn neremjit."
+   },
+   {
+    "mn": "Занабазарын нэрэмжит музей энэ гудамжинд байдаг.",
+    "en": "The museum named for Zanabazar is on this street.",
+    "mn_latin": "Zanabazaryn neremjit muzyei ene gudamjind baidag."
+   },
+   {
+    "mn": "Самбуугийн гудамж хаана байдаг вэ?",
+    "en": "Where is Sambuu Street?",
+    "mn_latin": "Sambuugiin gudamj khaana baidag ve?"
+   },
+   {
+    "mn": "Энэ сургуулийг алдарт эрдэмтний нэрээр нэрлэсэн.",
+    "en": "This school was named in honor of a famous scholar.",
+    "mn_latin": "Ene surguuliig aldart erdemtnii nereer nerlesen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ талбай Сүхбаатар___ нэрэмжит.",
+   "answer": "ын",
+   "options": [
+    "ын",
+    "ийн",
+    "ад",
+    "аар"
+   ],
+   "translation": "This square is named after Sükhbaatar.",
+   "explain_en": "нэрэмжит needs the genitive. Сүхбаатар has back vowels and ends in -р, so it takes -ын.",
+   "explain_mn": "нэрэмжит үгийн өмнө харьяалахын тийн ялгал орно. Сүхбаатар эр үг бөгөөд -р-ээр төгссөн тул -ын залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Самбуу___ гудамж Их тойруутай огтлолцдог.",
+   "answer": "гийн",
+   "options": [
+    "гийн",
+    "ийн",
+    "ын",
+    "н"
+   ],
+   "translation": "Sambuu Street crosses Ikh Toiruu.",
+   "explain_en": "Names ending in a long vowel (уу) take the genitive -гийн: Самбуугийн.",
+   "explain_mn": "Урт эгшгээр төгссөн үгэнд харьяалахын тийн ялгалын -гийн нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ өргөн чөлөөг маршал Жуковын нэр___ нэрлэсэн.",
+   "answer": "ээр",
+   "options": [
+    "ээр",
+    "ийн",
+    "ээс",
+    "эд"
+   ],
+   "translation": "This avenue was named after Marshal Zhukov.",
+   "explain_en": "\"Named with the name of\" uses the instrumental case. нэр has front vowels, so it becomes нэрээр.",
+   "explain_mn": "\"Хэний нэрээр нэрлэх\" хэллэгт үйлдэхийн тийн ялгал хэрэглэнэ. Эм үг тул -ээр залгана."
+  },
+  {
+   "lang": "en",
+   "text": "The square is named ___ a leader of the 1921 revolution.",
+   "answer": "after",
+   "options": [
+    "after",
+    "by",
+    "from",
+    "with"
+   ],
+   "translation": "Талбай 1921 оны хувьсгалын удирдагчийн нэрэмжит.",
+   "explain_en": "The fixed phrase is \"named after\" (or \"named for\"). \"By\" would mean the person who chose the name.",
+   "explain_mn": "Тогтсон хэллэг нь \"named after\" юм. \"Named by\" гэвэл нэрийг хэн өгсөн тухай болно."
+  },
+  {
+   "lang": "en",
+   "text": "The avenue was named ___ honor of peace.",
+   "answer": "in",
+   "options": [
+    "in",
+    "on",
+    "for",
+    "with"
+   ],
+   "translation": "Өргөн чөлөөг энх тайвныг хүндэтгэн нэрлэсэн.",
+   "explain_en": "The set expression is \"in honor of.\"",
+   "explain_mn": "\"In honor of\" (хүндэтгэлд) нь тогтсон хэллэг тул \"in\" угтвар үг хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Who is this street named ___?",
+   "answer": "for",
+   "options": [
+    "for",
+    "to",
+    "from",
+    "at"
+   ],
+   "translation": "Энэ гудамж хэний нэрэмжит вэ?",
+   "explain_en": "\"Named for\" is common in American English and means the same as \"named after.\" The preposition stays at the end of the question.",
+   "explain_mn": "Америк англи хэлэнд \"named for\" нь \"named after\"-тай адил утгатай. Асуултад угтвар үг төгсгөлдөө үлддэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Уучлаарай, энэ том талбай хэний нэрэмжит вэ?",
+   "en": "Excuse me, who is this big square named after?",
+   "mn_latin": "Uuchlaarai, ene tom talbai khenii neremjit ve?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Энэ бол Сүхбаатарын талбай. 1921 оны хувьсгалын удирдагч Д.Сүхбаатарын нэрэмжит.",
+   "en": "This is Sükhbaatar Square. It's named after D. Sükhbaatar, a leader of the 1921 revolution.",
+   "mn_latin": "Ene bol Sükhbaataryn talbai. 1921 ony khuvisgalyn udirdagch D.Sükhbaataryn neremjit."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Би Чингисийн талбай гэж уншсан юм шиг байна.",
+   "en": "I think I read that it was called Chinggis Square.",
+   "mn_latin": "Bi Chingisiin talbai gej unshsan yum shig baina."
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Зөв. 2013 онд дахин нэрлэсэн ч 2016 онд хуучин нэрийг нь сэргээсэн. Тиймээс одоо ч хоёр нэрийг хоёуланг нь сонсох нь бий.",
+   "en": "That's right. It was renamed in 2013, but the old name was restored in 2016, so you still hear both.",
+   "mn_latin": "Zöv. 2013 ond dakhin nerlesen ch 2016 ond khuuchin neriig ni sergeesen. Tiimees odoo ch khoyor neriig khoyoulang ni sonsokh ni bii."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Тэгвэл Энхтайваны өргөн чөлөө ямар нэг алдартны нэрэмжит үү?",
+   "en": "And is Peace Avenue named for some famous person?",
+   "mn_latin": "Tegvel Enkhtaivany örgön chölöö yamar neg aldartny neremjit üü?"
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Үгүй, хүний нэр биш. Энх тайвны санааг илэрхийлсэн нэр. Харин Жуковын өргөн чөлөө Зөвлөлтийн маршалын нэрэмжит.",
+   "en": "No, it's not a person's name. It expresses the idea of peace. Zhukov Avenue, on the other hand, is named after a Soviet marshal.",
+   "mn_latin": "Ügüi, khünii ner bish. Enkh taivny sanaag ilerkhiilsen ner. Kharin Jukovyn örgön chölöö Zövlöltiin marshalyn neremjit."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Гудамжны нэрсээр хотын түүхийг уншиж болох юм байна.",
+   "en": "So you can read the city's history in its street names.",
+   "mn_latin": "Gudamjny nerseer khotyn tüükhiig unshij bolokh yum baina."
+  },
+  {
+   "speaker": "Bat-Erdene",
+   "mn": "Яг тийм. Дараа нь Занабазарын нэрэмжит музей рүү очицгооё.",
+   "en": "Exactly. Next, let's head to the museum named after Zanabazar.",
+   "mn_latin": "Yag tiim. Daraa ni Zanabazaryn neremjit muzyei rüü ochitsgooyo."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar's place names reflect its layered history. Some honor revolutionary and Soviet-era figures, such as Sükhbaatar and Zhukov, while others celebrate cultural icons like the sculptor Zanabazar and the writer Natsagdorj. Since the democratic changes of 1990, debates over renaming have been common, and the brief renaming of the central square to Chinggis Square (2013–2016) is a well-known example.",
+  "mn": "Улаанбаатарын газар усны нэрс хотын олон давхар түүхийг тусгадаг. Зарим нь Сүхбаатар, Жуков зэрэг хувьсгал болон Зөвлөлтийн үеийн зүтгэлтнүүдийг хүндэтгэдэг бол зарим нь уран барималч Занабазар, зохиолч Нацагдорж зэрэг соёлын алдартнуудыг дурсдаг. 1990 оны ардчилсан өөрчлөлтөөс хойш нэр өөрчлөх тухай маргаан олонтаа гарсан бөгөөд төв талбайг 2013-2016 онд Чингисийн талбай гэж нэрлэж байсан нь үүний тод жишээ юм."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 5,
+  "notes": "A solid, natural lesson. The main problems were a wrong genitive rule for -н endings, wrong Mongolian case terminology, and one fill-in-the-blank item with two possible answers."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "Mostly accurate lesson. Fixes cover a missing point in intro_mn, two calques of \"in honor,\" and one awkward dialogue line.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro left out the -ын нэрэмжит practice that intro_en mentions"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "\"түүний хүндэтгэлд\" is a calque of \"in his honor\"; this is the natural phrasing"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "\"хоёр нэр хоёулаа сонсогддог\" is awkward; the en line also has \"still,\" which the mn lacked"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "\"энх тайвны хүндэтгэлд\" is an unnatural calque"
+   }
+  ]
+ }
+}

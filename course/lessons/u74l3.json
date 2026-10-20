@@ -1,0 +1,508 @@
+{
+ "intro_en": "You will learn to talk with a traffic police officer, understand a fine, and pay it by QPay. You will also practice warnings with -хгүй бол and the English words 'otherwise' and 'or else'.",
+ "intro_mn": "Та замын цагдаатай харилцах, торгуулийг ойлгох, QPay-ээр төлөх талаар сурна. Мөн -хгүй бол бүтэцтэй сануулга болон англи хэлний 'otherwise', 'or else' үгсийг хэрэглэх дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "цагдаа",
+   "en": "police officer",
+   "pos": "noun",
+   "example_mn": "Замын цагдаа миний машиныг зогсоов.",
+   "example_en": "A traffic police officer stopped my car.",
+   "mn_latin": "tsagdaa"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine, penalty",
+   "pos": "noun",
+   "example_mn": "Надад таван мянган төгрөгийн торгууль ногдлоо.",
+   "example_en": "I was given a fine of five thousand tugriks.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "зөрчил",
+   "en": "violation, offense",
+   "pos": "noun",
+   "example_mn": "Энэ бол замын хөдөлгөөний зөрчил юм.",
+   "example_en": "This is a traffic violation.",
+   "mn_latin": "zörchil"
+  },
+  {
+   "mn": "акт",
+   "en": "official report, citation",
+   "pos": "noun",
+   "example_mn": "Цагдаа зөрчлийн акт бичлээ.",
+   "example_en": "The officer wrote up a violation report.",
+   "mn_latin": "akt"
+  },
+  {
+   "mn": "хурд хэтрүүлэх",
+   "en": "to speed, exceed the speed limit",
+   "pos": "verb phrase",
+   "example_mn": "Та хотод хурд хэтрүүлсэн байна.",
+   "example_en": "You were speeding in the city.",
+   "mn_latin": "khurd khetrüülekh"
+  },
+  {
+   "mn": "бүс зүүх",
+   "en": "to fasten a seat belt",
+   "pos": "verb phrase",
+   "example_mn": "Жолооч, зорчигч бүгд бүс зүүх ёстой.",
+   "example_en": "The driver and all passengers must wear seat belts.",
+   "mn_latin": "büs züükh"
+  },
+  {
+   "mn": "төлбөр",
+   "en": "payment, fee",
+   "pos": "noun",
+   "example_mn": "Төлбөрөө QPay-ээр төлж болно.",
+   "example_en": "You can pay the fee with QPay.",
+   "mn_latin": "tölbör"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "deadline, period of time",
+   "pos": "noun",
+   "example_mn": "Төлөх хугацаа долоо хоног байна.",
+   "example_en": "The payment deadline is one week.",
+   "mn_latin": "khugatsaa"
+  },
+  {
+   "mn": "жолооны үнэмлэх",
+   "en": "driver's license",
+   "pos": "noun",
+   "example_mn": "Цагдаа жолооны үнэмлэхийг минь асуув.",
+   "example_en": "The officer asked for my driver's license.",
+   "mn_latin": "joloony ünemlekh"
+  },
+  {
+   "mn": "нэмэгдэх",
+   "en": "to increase",
+   "pos": "verb",
+   "example_mn": "Хоцорвол торгууль нэмэгдэнэ.",
+   "example_en": "If you are late, the fine will increase.",
+   "mn_latin": "nemegdekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сайн байна уу, жолооны үнэмлэхээ үзүүлнэ үү.",
+   "en": "Hello, please show your driver's license.",
+   "alt_mn": [
+    "Сайн байна уу, жолооны үнэмлэхээ үзүүлээрэй."
+   ],
+   "alt_en": [
+    "Hello, could you show me your driver's license?"
+   ],
+   "mn_latin": "Sain baina uu, joloony ünemlekhee üzüülne üü."
+  },
+  {
+   "mn": "Та хурд хэтрүүлсэн тул би акт бичнэ.",
+   "en": "You were speeding, so I will write a report.",
+   "alt_mn": [
+    "Та хурд хэтрүүлсэн учраас би акт бичнэ."
+   ],
+   "alt_en": [
+    "You exceeded the speed limit, so I'm going to write a citation."
+   ],
+   "mn_latin": "Ta khurd khetrüülsen tul bi akt bichne."
+  },
+  {
+   "mn": "Би бүсээ зүүхээ мартчихсан байна.",
+   "en": "I seem to have forgotten to fasten my seat belt.",
+   "alt_mn": [
+    "Би бүсээ зүүхээ мартчихаж."
+   ],
+   "alt_en": [
+    "I forgot to put on my seat belt."
+   ],
+   "mn_latin": "Bi büsee züükhee martchikhsan baina."
+  },
+  {
+   "mn": "Энэ зөрчилд хэдэн төгрөгийн торгууль ногдох вэ?",
+   "en": "How much is the fine for this violation?",
+   "alt_mn": [
+    "Энэ зөрчлийн торгууль хэд вэ?"
+   ],
+   "alt_en": [
+    "How big is the fine for this offense?"
+   ],
+   "mn_latin": "Ene zörchild kheden tögrögiin torguuli nogdokh ve?"
+  },
+  {
+   "mn": "Торгуулиа хугацаанд нь төлөхгүй бол нэмэгдэнэ.",
+   "en": "If you don't pay the fine on time, it will increase.",
+   "alt_mn": [
+    "Торгуулийг хугацаанд нь төлөхгүй бол нэмэгдэнэ."
+   ],
+   "alt_en": [
+    "If you don't pay the fine by the deadline, it will go up."
+   ],
+   "mn_latin": "Torguulia khugatsaand ni tölökhgüi bol nemegdene."
+  },
+  {
+   "mn": "Бүсээ зүүхгүй бол дахиад торгуулна.",
+   "en": "If you don't wear your seat belt, you will be fined again.",
+   "alt_mn": [
+    "Бүсээ зүүхгүй бол дахин торгуулна."
+   ],
+   "alt_en": [
+    "Wear your seat belt, or else you'll be fined again."
+   ],
+   "mn_latin": "Büsee züükhgüi bol dakhiad torguulna."
+  },
+  {
+   "mn": "Төлбөрөө QPay-ээр төлж болох уу?",
+   "en": "Can I pay the fee with QPay?",
+   "alt_mn": [
+    "QPay-ээр төлбөрөө төлж болох уу?"
+   ],
+   "alt_en": [
+    "Is it possible to pay through QPay?"
+   ],
+   "mn_latin": "Tölböröö QPay-eer tölj bolokh uu?"
+  },
+  {
+   "mn": "Тийм ээ, акт дээрх QR кодыг уншуулахад хангалттай.",
+   "en": "Yes, you just need to scan the QR code on the report.",
+   "alt_mn": [
+    "Тийм, акт дээрх QR кодыг уншуулахад л болно."
+   ],
+   "alt_en": [
+    "Yes, scanning the QR code on the citation is enough."
+   ],
+   "mn_latin": "Tiim ee, akt deerkh QR kodyg unshuulakhad khangalttai."
+  },
+  {
+   "mn": "Хурдаа багасгахгүй бол осол гарч магадгүй.",
+   "en": "If you don't slow down, an accident might happen.",
+   "alt_mn": [
+    "Хурдаа сааруулахгүй бол осол гарч магадгүй."
+   ],
+   "alt_en": [
+    "Slow down, otherwise there might be an accident."
+   ],
+   "mn_latin": "Khurdaa bagasgakhgüi bol osol garch magadgüi."
+  },
+  {
+   "mn": "Энэ удаад би танд зөвхөн сануулъя.",
+   "en": "This time I will only give you a warning.",
+   "alt_mn": [
+    "Энэ удаад би зөвхөн сануулъя."
+   ],
+   "alt_en": [
+    "I'll just warn you this time."
+   ],
+   "mn_latin": "Ene udaad bi tand zövkhön sanuulya."
+  },
+  {
+   "mn": "Дахиж зөрчвөл торгууль хоёр дахин нэмэгдэнэ.",
+   "en": "If you violate the rules again, the fine will double.",
+   "alt_mn": [
+    "Дахин зөрчвөл торгууль хоёр дахин өсөнө."
+   ],
+   "alt_en": [
+    "If you break the rules again, the fine will be twice as much."
+   ],
+   "mn_latin": "Dakhij zörchvöl torguuli khoyor dakhin nemegdene."
+  },
+  {
+   "mn": "Төлбөрөө төлчихлөө, баярлалаа.",
+   "en": "I've paid the fee, thank you.",
+   "alt_mn": [
+    "Төлбөрөө төлчихсөн, баярлалаа."
+   ],
+   "alt_en": [
+    "I have paid the fee, thanks."
+   ],
+   "mn_latin": "Tölböröö tölchikhlöö, bayarlalaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "Warnings and consequences with -хгүй бол",
+  "title_mn": "-хгүй бол: сануулга ба үр дагавар",
+  "explain_en": "Add -хгүй to a verb stem and then бол to say 'if you don't...': төлөх → төлөхгүй бол (if you don't pay). Technically the verb takes -х (төлөх) plus гүй. The main clause then states the consequence, often in the future tense with -на/-нэ: Төлөхгүй бол торгууль нэмэгдэнэ. Put time words or objects first: Хугацаанд нь төлөхгүй бол... The positive version uses -вал/-вэл: Төлвөл... (if you pay). Use it for rules, warnings and official notices.",
+  "explain_mn": "Англи хэлэнд сануулахдаа 'otherwise' эсвэл 'or else' хэрэглэнэ. Эдгээр нь өмнөх тушаалыг биелүүлэхгүй бол гарах үр дагаврыг илэрхийлнэ: Pay on time, otherwise the fine will increase. = Хугацаанд нь төлөхгүй бол торгууль нэмэгдэнэ. Монгол хэлэнд үүнийг -хгүй бол бүтцээр илэрхийлдэг: Үйл үгийн үндэс + -хгүй бол. 'Otherwise' нь илүү албан ёсны, 'or else' нь илүү хатуу, ярианы өнгөтэй бөгөөд заналхийлэл мэт сонсогдож болно. Хоёулаа ихэвчлэн тушаалын өгүүлбэрийн ард ордог: Slow down, or else you'll get a ticket.",
+  "examples": [
+   {
+    "mn": "Хугацаанд нь төлөхгүй бол торгууль нэмэгдэнэ.",
+    "en": "Pay on time, otherwise the fine will increase.",
+    "mn_latin": "Khugatsaand ni tölökhgüi bol torguuli nemegdene."
+   },
+   {
+    "mn": "Бүс зүүхгүй бол торгуулна.",
+    "en": "Wear your seat belt, or else you'll be fined.",
+    "mn_latin": "Büs züükhgüi bol torguulna."
+   },
+   {
+    "mn": "Хурдаа багасгахгүй бол осол гарна.",
+    "en": "Slow down, otherwise there will be an accident.",
+    "mn_latin": "Khurdaa bagasgakhgüi bol osol garna."
+   },
+   {
+    "mn": "Акт аваагүй бол төлбөр төлөх шаардлагагүй.",
+    "en": "If you didn't get a report, you don't have to pay.",
+    "mn_latin": "Akt avaagüi bol tölbör tölökh shaardlagagüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хугацаанд нь төл___ бол торгууль нэмэгдэнэ.",
+   "answer": "өхгүй",
+   "options": [
+    "өхгүй",
+    "вөл",
+    "ж",
+    "сөн"
+   ],
+   "translation": "If you don't pay on time, the fine will increase.",
+   "explain_en": "Verb stem + -хгүй + бол means 'if you don't do it'.",
+   "explain_mn": "Үйл үгийн үндэс + -хгүй бол нь 'хийхгүй бол' гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Цагдаа зөрчлийн ___ бичлээ.",
+   "answer": "акт",
+   "options": [
+    "акт",
+    "бүс",
+    "хурд",
+    "хугацаа"
+   ],
+   "translation": "The officer wrote up a violation report.",
+   "explain_en": "Акт бичих means to write up an official report or citation.",
+   "explain_mn": "Акт бичих гэдэг нь албан ёсны баримт бүрдүүлэхийг хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Төлбөрөө QPay-___ төлж болно.",
+   "answer": "ээр",
+   "options": [
+    "ээр",
+    "д",
+    "аас",
+    "тай"
+   ],
+   "translation": "You can pay the fee with QPay.",
+   "explain_en": "The instrumental ending -ээр means 'by means of' (here QPay).",
+   "explain_mn": "-ээр нөхцөл нь хэрэгслийг заана: QPay-ээр."
+  },
+  {
+   "lang": "en",
+   "text": "Wear your seat belt, ___ you'll get a fine.",
+   "answer": "or else",
+   "options": [
+    "or else",
+    "because",
+    "although",
+    "so that"
+   ],
+   "translation": "Бүсээ зүүгээрэй, үгүй бол торгуулна.",
+   "explain_en": "'Or else' introduces a negative consequence if you don't follow the order.",
+   "explain_mn": "'Or else' нь тушаалыг биелүүлэхгүй бол гарах муу үр дагаврыг заана."
+  },
+  {
+   "lang": "en",
+   "text": "Please pay by Friday; ___, the fine will increase.",
+   "answer": "otherwise",
+   "options": [
+    "otherwise",
+    "moreover",
+    "therefore",
+    "besides"
+   ],
+   "translation": "Баасан гараг хүртэл төлнө үү, эс бөгөөс торгууль нэмэгдэнэ.",
+   "explain_en": "'Otherwise' is a slightly formal way to state what happens if you don't.",
+   "explain_mn": "'Otherwise' нь 'үгүй бол' гэсэн албан ёсны утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "He was ___ in the city, so the officer stopped him.",
+   "answer": "speeding",
+   "options": [
+    "speeding",
+    "paying",
+    "parking",
+    "writing"
+   ],
+   "translation": "Тэр хотод хурд хэтрүүлсэн тул цагдаа түүнийг зогсоосон.",
+   "explain_en": "'Speeding' means driving faster than the limit.",
+   "explain_mn": "'Speeding' нь зөвшөөрөгдсөн хурдаас хэтрүүлж жолоодохыг хэлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Цагдаа",
+   "mn": "Сайн байна уу. Та хурд хэтрүүлсэн байна. Үнэмлэхээ үзүүлнэ үү.",
+   "en": "Hello. You were speeding. Please show your license.",
+   "mn_latin": "Sain baina uu. Ta khurd khetrüülsen baina. Ünemlekhee üzüülne üü."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Уучлаарай, би анзаарсангүй. Энд хурдны хязгаар хэд вэ?",
+   "en": "Sorry, I didn't notice. What is the speed limit here?",
+   "mn_latin": "Uuchlaarai, bi anzaarsangüi. End khurdny khyazgaar khed ve?"
+  },
+  {
+   "speaker": "Цагдаа",
+   "mn": "Тавин. Та жаран гаруйгаар явсан. Бүсээ ч зүүгээгүй байна.",
+   "en": "Fifty. You were going over sixty. And you aren't wearing your seat belt.",
+   "mn_latin": "Tavin. Ta jaran garuigaar yavsan. Büsee ch züügeegüi baina."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Тийм ээ, мартчихсан байна. Торгууль хэд вэ?",
+   "en": "Yes, I forgot. How much is the fine?",
+   "mn_latin": "Tiim ee, martchikhsan baina. Torguuli khed ve?"
+  },
+  {
+   "speaker": "Цагдаа",
+   "mn": "Би акт бичлээ. Нийт жаран мянган төгрөг.",
+   "en": "I've written the report. Sixty thousand tugriks in total.",
+   "mn_latin": "Bi akt bichlee. Niit jaran myangan tögrög."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Одоо QPay-ээр төлж болох уу?",
+   "en": "Can I pay with QPay now?",
+   "mn_latin": "Odoo QPay-eer tölj bolokh uu?"
+  },
+  {
+   "speaker": "Цагдаа",
+   "mn": "Болно. Акт дээрх кодыг уншуулаарай. Долоо хоногийн дотор төлөхгүй бол торгууль нэмэгдэнэ.",
+   "en": "Yes. Scan the code on the report. If you don't pay within a week, the fine will increase.",
+   "mn_latin": "Bolno. Akt deerkh kodyg unshuulaarai. Doloo khonogiin dotor tölökhgüi bol torguuli nemegdene."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Ойлголоо. Одоо төлчихье, баярлалаа.",
+   "en": "Understood. I'll pay right now, thank you.",
+   "mn_latin": "Oilgoloo. Odoo tölchikhiye, bayarlalaa."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, traffic fines are often issued through an electronic system, and you can usually pay through bank apps or QPay by scanning a QR code. Drivers in Ulaanbaatar also face cameras that record speeding and other violations, so fines may arrive even without a stop. It is wise to pay before the deadline, since late payment can increase the amount.",
+  "mn": "Монголд замын торгуулийг ихэвчлэн цахим системээр ногдуулдаг бөгөөд банкны апп эсвэл QPay-ээр QR кодыг уншуулан төлөх боломжтой. Улаанбаатарт хурд болон бусад зөрчлийг камер бүртгэдэг тул цагдаа зогсоогоогүй ч торгууль ирж болно. Хугацаа хэтэрвэл дүн нэмэгддэг тул заасан хугацаанд нь төлөх нь зүйтэй."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 14,
+  "notes": "Mostly good content; a few wrong forms (төллөө, торгоно, өснө, долоо хоногт) and a muddled Mongolian grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 18,
+  "notes": "Fixed the ногдох spelling, case errors, duplicate alts, the wrong suffix distractor and unnatural word choices.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'үгсийг дадлагажна' is unnatural"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "spelling: ногдох, not ноогдох"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "-аач is pleading and informal, wrong for an officer"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "first person with -жээ is unnatural in speech"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "spelling: ногдох"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "alt was identical to main"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "'хурдаа удаашруулах' is unnatural; сааруулах is standard"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "сануулах takes the dative: танд"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "alt was identical to main"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "alt was identical to main"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "the stem must take each option in a correct form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "matches the new stem: төлөхгүй"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'төлөвэл' was a wrong form; now төлвөл, төлж, төлсөн"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'торгууль авна' is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "давхих means gallop or race, wrong word"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "the subject must be nominative: Та"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "first person with -жээ is unnatural"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "fines are ногдуулах, not оноох"
+   }
+  ]
+ }
+}

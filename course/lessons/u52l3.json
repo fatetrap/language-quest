@@ -1,0 +1,486 @@
+{
+ "intro_en": "You will learn to cite sources in an academic paper: how to quote, paraphrase, and attribute ideas with Mongolian -ын үзэж байгаагаар, -ийн хэлснээр, -ийн дүгнэснээр and with English 'according to' plus reporting verbs.",
+ "intro_mn": "Та эрдэм шинжилгээний ажилдаа эх сурвалжаас шууд иш татах, өөрийн үгээр илэрхийлэх, санааг эзэнд нь холбож бичих аргыг сурна: монгол хэлний -ын үзэж байгаагаар, -ийн хэлснээр, -ийн дүгнэснээр бүтэц болон англи хэлний 'according to' ба мэдээлэх үйл үгс.",
+ "vocab": [
+  {
+   "mn": "ишлэл",
+   "en": "citation / quotation",
+   "pos": "noun",
+   "example_mn": "Энэ ишлэл таны өгүүлэлд тохирч байна.",
+   "example_en": "This quotation fits your article well.",
+   "mn_latin": "ishlel"
+  },
+  {
+   "mn": "ашигласан бүтээл",
+   "en": "reference",
+   "pos": "noun",
+   "example_mn": "Ашигласан бүтээлийн жагсаалтаа мартаж болохгүй.",
+   "example_en": "Don't forget your list of references.",
+   "mn_latin": "ashiglasan büteel"
+  },
+  {
+   "mn": "зохиогч",
+   "en": "author",
+   "pos": "noun",
+   "example_mn": "Энэ номын зохиогч нь манай их сургуулийн профессор.",
+   "example_en": "The author of this book is a professor at our university.",
+   "mn_latin": "zokhiogch"
+  },
+  {
+   "mn": "ном зүй",
+   "en": "bibliography",
+   "pos": "noun",
+   "example_mn": "Ном зүйгээ цагаан толгойн дарааллаар байрлуул.",
+   "example_en": "Arrange your bibliography in alphabetical order.",
+   "mn_latin": "nom züi"
+  },
+  {
+   "mn": "иш татах",
+   "en": "to quote",
+   "pos": "verb",
+   "example_mn": "Тэр өгүүллээс нэг хэсгийг шууд иш татсан.",
+   "example_en": "He quoted a passage directly from the article.",
+   "mn_latin": "ish tatakh"
+  },
+  {
+   "mn": "өөрийн үгээр хэлэх",
+   "en": "to paraphrase",
+   "pos": "verb",
+   "example_mn": "Урт хэсгийг өөрийн үгээр хэлбэл илүү ойлгомжтой.",
+   "example_en": "It is clearer if you paraphrase a long passage.",
+   "mn_latin": "ööriin ügeer khelekh"
+  },
+  {
+   "mn": "хуулбарлан ашиглах",
+   "en": "to plagiarize (copy without citing)",
+   "pos": "verb phrase",
+   "example_mn": "Бусдын бичсэнийг ишлэлгүй хуулбарлан ашиглах нь хулгай юм.",
+   "example_en": "Copying others' writing without citing it is plagiarism.",
+   "mn_latin": "khuulbarlan ashiglakh"
+  },
+  {
+   "mn": "эх сурвалж",
+   "en": "source",
+   "pos": "noun",
+   "example_mn": "Эх сурвалжаа үргэлж нягталж үз.",
+   "example_en": "Always verify your sources.",
+   "mn_latin": "ekh survalj"
+  },
+  {
+   "mn": "үндэслэх",
+   "en": "to base on",
+   "pos": "verb",
+   "example_mn": "Тэр дүгнэлтээ олон судалгаанд үндэслэсэн.",
+   "example_en": "He based his conclusion on many studies.",
+   "mn_latin": "ündeslekh"
+  },
+  {
+   "mn": "дурдах",
+   "en": "to mention / to note",
+   "pos": "verb",
+   "example_mn": "Зохиогч энэ асуудлыг удаа дараа дурдсан.",
+   "example_en": "The author mentioned this issue repeatedly.",
+   "mn_latin": "durdakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Зохиогчийн үзэж байгаагаар нүүдлийн соёл өөрчлөгдсөөр байна.",
+   "en": "According to the author, nomadic culture keeps changing.",
+   "alt_mn": [
+    "Зохиогчийн үзэж байгаагаар нүүдэлчдийн соёл тасралтгүй өөрчлөгдөж байна."
+   ],
+   "alt_en": [
+    "In the author's view, nomadic culture is still changing."
+   ],
+   "mn_latin": "Zokhiogchiin üzej baigaagaar nüüdliin soyol öörchlögdsöör baina."
+  },
+  {
+   "mn": "Профессорын хэлснээр ишлэл бүрт эх сурвалжаа заах ёстой.",
+   "en": "According to the professor, you must give a source for every citation.",
+   "alt_mn": [],
+   "alt_en": [
+    "As the professor said, every quotation needs a source."
+   ],
+   "mn_latin": "Profyessoryn khelsneer ishlel bürt ekh survaljaa zaakh yostoi."
+  },
+  {
+   "mn": "Судлаачдын дүгнэснээр хотын агаарын бохирдол өвлийн улиралд нэмэгддэг.",
+   "en": "According to the researchers' conclusions, air pollution in the city increases in winter.",
+   "alt_mn": [],
+   "alt_en": [
+    "The researchers concluded that air pollution in the city rises in winter."
+   ],
+   "mn_latin": "Sudlaachdyn dügnesneer khotyn agaaryn bokhirdol övliin ulirald nemegddeg."
+  },
+  {
+   "mn": "Тэр зохиолч нийгэм хурдан өөрчлөгдөж байна хэмээн бичжээ.",
+   "en": "That writer wrote that society is changing quickly.",
+   "alt_mn": [
+    "Тэр зохиолч нийгэм хурдан өөрчлөгдөж байна гэж бичжээ."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ter zokhiolch niigem khurdan öörchlögdöj baina khemeen bichjee."
+  },
+  {
+   "mn": "Би энэ хэсгийг шууд иш татахын оронд өөрийн үгээр хэлсэн.",
+   "en": "I paraphrased this part instead of quoting it directly.",
+   "alt_mn": [],
+   "alt_en": [
+    "I put this passage in my own words rather than quoting it."
+   ],
+   "mn_latin": "Bi ene khesgiig shuud ish tatakhyn orond ööriin ügeer khelsen."
+  },
+  {
+   "mn": "Ном зүйдээ ашигласан бүх бүтээлээ оруулах хэрэгтэй.",
+   "en": "You need to include all the works you used in your bibliography.",
+   "alt_mn": [],
+   "alt_en": [
+    "You should list every work you used in your bibliography."
+   ],
+   "mn_latin": "Nom züidee ashiglasan bükh büteelee oruulakh kheregtei."
+  },
+  {
+   "mn": "Бусдын санааг ишлэлгүй авбал хулгайд тооцогдоно.",
+   "en": "Taking others' ideas without citing them counts as plagiarism.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you take others' ideas without citation, it is considered plagiarism."
+   ],
+   "mn_latin": "Busdyn sanaag ishlelgüi avbal khulgaid tootsogdono."
+  },
+  {
+   "mn": "Багшийн хэлснээр миний ишлэлийн хэлбэр буруу байсан.",
+   "en": "According to my teacher, the format of my citations was wrong.",
+   "alt_mn": [],
+   "alt_en": [
+    "My teacher said my citation format was wrong."
+   ],
+   "mn_latin": "Bagshiin khelsneer minii ishleliin khelber buruu baisan."
+  },
+  {
+   "mn": "Зохиогч орчин үеийн боловсрол шинэчлэл шаардаж байна гэж үздэг.",
+   "en": "The author argues that modern education requires reform.",
+   "alt_mn": [],
+   "alt_en": [
+    "The author believes modern education needs reform."
+   ],
+   "mn_latin": "Zokhiogch orchin üyeiin bolovsrol shinechlel shaardaj baina gej üzdeg."
+  },
+  {
+   "mn": "Судалгааны дүнгээс харахад ихэнх оюутан шөнө муу унтдаг.",
+   "en": "According to the study's findings, most students sleep poorly at night.",
+   "alt_mn": [],
+   "alt_en": [
+    "The study found that most students sleep badly at night."
+   ],
+   "mn_latin": "Sudalgaany düngees kharakhad ikhenkh oyuutan shönö muu untdag."
+  },
+  {
+   "mn": "Тэр өгүүлэлдээ гурван зохиогчийн бүтээлийг дурджээ.",
+   "en": "In his article he mentioned the works of three authors.",
+   "alt_mn": [],
+   "alt_en": [
+    "He referred to the works of three authors in his article."
+   ],
+   "mn_latin": "Ter ögüüleldee gurvan zokhiogchiin büteeliig durdjee."
+  },
+  {
+   "mn": "Миний ишлэл бүр ашигласан бүтээлийн жагсаалттай таарч байна.",
+   "en": "Each of my citations matches the list of references.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every citation of mine corresponds to an entry in the reference list."
+   ],
+   "mn_latin": "Minii ishlel bür ashiglasan büteeliin jagsaalttai taarch baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Attributing ideas: -ын үзэж байгаагаар, -ийн хэлснээр, -ийн дүгнэснээр, хэмээн/гэж",
+  "title_mn": "Санааг эзэнд нь холбох: according to + мэдээлэх үйл үг",
+  "explain_en": "To say 'according to X', put X in the genitive and add a phrase: -ын үзэж байгаагаар ('in the view of'), -ийн хэлснээр ('as said by'), -ийн дүгнэснээр ('as concluded by'). Pick the one that matches the source: opinion, speech, or findings. To report a clause, close it with гэж (neutral) or the more formal, written хэмээн: 'нийгэм өөрчлөгдөж байна хэмээн бичжээ'. Genitive follows vowel harmony and the final consonant: зохиогчийн, профессорын, судлаачдын.",
+  "explain_mn": "Англи хэлэнд 'according to + эзэн' нь эх сурвалжийг заана: According to the author, ... Дараа нь мэдээлэх үйл үг ашиглана: argues (үздэг, маргадаг), claims (мэдэгддэг), notes (тэмдэглэнэ), found (олж тогтоосон). Одоо цагийг зохиогчийн үзэл баримтлал болон ерөнхий үнэнд, өнгөрсөн цагийг тодорхой судалгаа, нэг удаагийн үр дүнд хэрэглэнэ: Smith argues that..., The study found that... Англи хэлэнд 'that' холбоос орхигдож болно.",
+  "examples": [
+   {
+    "mn": "Зохиогчийн үзэж байгаагаар энэ онол хуучирсан.",
+    "en": "According to the author, this theory is outdated.",
+    "mn_latin": "Zokhiogchiin üzej baigaagaar ene onol khuuchirsan."
+   },
+   {
+    "mn": "Профессорын хэлснээр шалгалт ирэх долоо хоногт болно.",
+    "en": "According to the professor, the exam is next week.",
+    "mn_latin": "Profyessoryn khelsneer shalgalt irekh doloo khonogt bolno."
+   },
+   {
+    "mn": "Судлаачдын дүгнэснээр залуучууд илүү их уншиж байна.",
+    "en": "According to the researchers, young people are reading more.",
+    "mn_latin": "Sudlaachdyn dügnesneer zaluuchuud ilüü ikh unshij baina."
+   },
+   {
+    "mn": "Тэр уг асуудал чухал хэмээн тэмдэглэжээ.",
+    "en": "He noted that the issue is important.",
+    "mn_latin": "Ter ug asuudal chukhal khemeen temdeglejee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Зохиогчийн ___ байгаагаар энэ арга үр дүнтэй.",
+   "answer": "үзэж",
+   "options": [
+    "үзэж",
+    "хэлсэн",
+    "үзсэн",
+    "үзэх"
+   ],
+   "translation": "According to the author, this method is effective.",
+   "explain_en": "'-ын үзэж байгаагаар' is the fixed phrase for 'in someone's view'; үзэж is needed.",
+   "explain_mn": "'-ын үзэж байгаагаар' нь тогтсон хэлц тул «үзэж» гэж бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Багшийн ___ ном зүйг даваа гаригт өгөх ёстой.",
+   "answer": "хэлснээр",
+   "options": [
+    "хэлснээр",
+    "хэлсэн",
+    "хэлэхээр",
+    "хэлж"
+   ],
+   "translation": "According to the teacher, we must hand in the bibliography on Monday.",
+   "explain_en": "A spoken instruction uses -ийн хэлснээр, 'as said by', with the -снээр ending.",
+   "explain_mn": "Аман заавар болохоор «-ийн хэлснээр» бүтэц -снээр нөхцөлтэйгээ тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр нийгэм өөрчлөгдөж байна ___ бичжээ. (албан бичгийн хэлбэр)",
+   "answer": "хэмээн",
+   "options": [
+    "хэмээн",
+    "байгаагаар",
+    "хэлснээр",
+    "дүгнэснээр"
+   ],
+   "translation": "He wrote that society is changing.",
+   "explain_en": "хэмээн (or гэж) closes the reported clause before a verb like бичжээ.",
+   "explain_mn": "Иш татсан өгүүлбэрийн төгсгөлд «хэмээн» (албан) эсвэл «гэж» орно."
+  },
+  {
+   "lang": "en",
+   "text": "In his book, Smith ___ that memory declines with age.",
+   "answer": "argues",
+   "options": [
+    "argues",
+    "arguing",
+    "argue",
+    "argued to"
+   ],
+   "translation": "Смит номондоо нас ахихад ой тогтоолт буурдаг гэж үздэг.",
+   "explain_en": "Third person singular present: argues, for a view stated in the text.",
+   "explain_mn": "Нэг тоо, одоо цагт «argues» гэж s-тэй хэлбэр хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The study ___ that most students prefer online sources.",
+   "answer": "found",
+   "options": [
+    "found",
+    "finds to",
+    "founded",
+    "finding"
+   ],
+   "translation": "Судалгаагаар ихэнх оюутан онлайн эх сурвалжийг илүүд үздэг нь тогтоогдсон.",
+   "explain_en": "A completed study takes the past tense: found (not 'founded').",
+   "explain_mn": "Дууссан судалгааг өнгөрсөн цагаар «found» гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ the researchers, the results were not reliable.",
+   "answer": "According to",
+   "options": [
+    "According to",
+    "According",
+    "Based to",
+    "In accordance"
+   ],
+   "translation": "Судлаачдын хэлснээр үр дүн найдвартай биш байсан.",
+   "explain_en": "The fixed phrase is 'according to' followed by the source.",
+   "explain_mn": "«According to» нь тогтсон хэллэг бөгөөд дараа нь эх сурвалж ордог."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Миний өгүүлэлд ишлэл дутуу байна уу?",
+   "en": "Are there citations missing in my paper?",
+   "mn_latin": "Minii ögüüleld ishlel dutuu baina uu?"
+  },
+  {
+   "speaker": "Professor Brown",
+   "mn": "Хоёр дахь догол мөрөнд эх сурвалж алга байна.",
+   "en": "The second paragraph has no source.",
+   "mn_latin": "Khoyor dakhi dogol mörönd ekh survalj alga baina."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэнд би зохиогчийн санааг өөрийн үгээр хэлсэн.",
+   "en": "There I put the author's idea in my own words.",
+   "mn_latin": "Tend bi zokhiogchiin sanaag ööriin ügeer khelsen."
+  },
+  {
+   "speaker": "Professor Brown",
+   "mn": "Тэгсэн ч зохиогчийг нэрлэх хэрэгтэй, эс бөгөөс хулгайд тооцогдоно.",
+   "en": "Even so, you must name the author, otherwise it counts as plagiarism.",
+   "mn_latin": "Tegsen ch zokhiogchiig nerlekh kheregtei, es bögöös khulgaid tootsogdono."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ойлголоо. «Зохиогчийн үзэж байгаагаар...» гэж эхэлбэл болох уу?",
+   "en": "I see. Can I begin with 'According to the author...'?",
+   "mn_latin": "Oilgoloo. «Zokhiogchiin üzej baigaagaar...» gej ekhelbel bolokh uu?"
+  },
+  {
+   "speaker": "Professor Brown",
+   "mn": "Болно. Мөн дараа нь «Тэрээр үүнийг чухал гэж тэмдэглэсэн» гэж нэмж болно.",
+   "en": "Yes. You can also add 'She noted that this is important.'",
+   "mn_latin": "Bolno. Mön daraa ni «Tereer üüniig chukhal gej temdeglesen» gej nemj bolno."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ном зүйгээ цагаан толгойн дарааллаар байрлуулъя.",
+   "en": "I'll arrange my bibliography alphabetically.",
+   "mn_latin": "Nom züigee tsagaan tolgoin daraallaar bairluulya."
+  },
+  {
+   "speaker": "Professor Brown",
+   "mn": "Сайн байна. Маргааш дахин үзье.",
+   "en": "Good. Let's look at it again tomorrow.",
+   "mn_latin": "Sain baina. Margaash dakhin üziye."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian universities increasingly follow international citation styles such as APA, but many older Mongolian works use their own format, with the initial of the father's name before the given name (e.g., Д.Батболд). Students often cite Mongolian and Russian sources alongside English ones, so a bibliography may mix Cyrillic and Latin scripts. Academic honesty rules are now strictly applied, and plagiarism-detection software is commonly used to check theses.",
+  "mn": "Монголын их дээд сургуулиуд APA зэрэг олон улсын ишлэлийн хэв маягийг улам ихээр баримталж байгаа ч хуучин монгол бүтээлүүдэд эцгийн нэрийн эхний үсгийг нэрийн өмнө бичдэг (жишээ нь Д.Батболд) өөрийн хэлбэр түгээмэл байдаг. Оюутнууд монгол, орос эх сурвалжийг англи эх сурвалжтай хамт ашигладаг тул ном зүйд кирилл болон латин үсэг холилдож болно. Эрдэм шинжилгээний ёс зүйн дүрэм одоо чанд мөрдөгдөж, дипломын ажлыг хуулбар илрүүлэх программаар шалгах нь түгээмэл болсон."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 18,
+  "notes": "Generally usable, but several lexical mismatches (эшлэх, үндэслэх gloss, plagiarism entry) and an ungrammatical судалгааны дүгнэснээр need fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 18,
+  "notes": "Fixed spelling and case errors, unified ишлэл, fixed ambiguous blanks, a tense mismatch, and the culture-note facts.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "эх сурвалжаас иш татах; removes the redundant ишлэл/дахин"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "Ablative of өгүүлэл is өгүүллээс"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "Consistent standard spelling ишлэл"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "Natural wording for 'instead of quoting'"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "Consistent spelling ишлэл"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "Ungrammatical 'ихэнх' without нь; 'орой нойр муутай' was unnatural"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "'next week' requires ирэх"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "бичиж/дүгнэж байгаагаар could also be accepted"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "үзэснээр was misspelled, and дүгнэснээр/үзсэнээр were arguably possible"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Matches the new form-based options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Matches the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Consistent spelling; mention of register to match en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "text",
+    "why": "'According to Smith, the author argues' was illogical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "Matches the new sentence"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "'paraphrased ... in my own words' is redundant"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "Tense matches тэмдэглэсэн"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Corrected the name-format fact and aligned en with mn"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "хулгайн програм means pirated software; fixed name format; aligned with en"
+   }
+  ]
+ }
+}

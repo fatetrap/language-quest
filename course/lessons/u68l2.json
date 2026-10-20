@@ -1,0 +1,598 @@
+{
+ "intro_en": "You will learn to compare phones and say that one is 'not as good as' another, using шиг ... биш, -гүй and -аас дутуу in Mongolian, and 'not as ... as' and '(not) nearly as ... as' in English. You will also learn the key vocabulary for phones.",
+ "intro_mn": "Та утаснуудыг харьцуулж, нэг нь нөгөөх шиг «сайн биш» гэж хэлж сурна. Монгол хэлэнд шиг ... биш, -гүй, -аас дутуу, англи хэлэнд not as ... as, (not) nearly as ... as бүтцийг ашиглана. Мөн утастай холбоотой гол үгсийг сурна.",
+ "vocab": [
+  {
+   "mn": "батарей",
+   "en": "battery",
+   "pos": "noun",
+   "example_mn": "Энэ утасны батарей удаан барьдаг.",
+   "example_en": "This phone's battery lasts a long time.",
+   "mn_latin": "bataryei"
+  },
+  {
+   "mn": "камер",
+   "en": "camera",
+   "pos": "noun",
+   "example_mn": "Миний утасны камер сайн.",
+   "example_en": "My phone's camera is good.",
+   "mn_latin": "kamyer"
+  },
+  {
+   "mn": "санах ой",
+   "en": "storage",
+   "pos": "noun",
+   "example_mn": "Надад илүү их санах ой хэрэгтэй.",
+   "example_en": "I need more storage.",
+   "mn_latin": "sanakh oi"
+  },
+  {
+   "mn": "дэлгэц",
+   "en": "screen",
+   "pos": "noun",
+   "example_mn": "Дэлгэц нь маш тод байна.",
+   "example_en": "The screen is very bright.",
+   "mn_latin": "delgets"
+  },
+  {
+   "mn": "брэнд",
+   "en": "brand",
+   "pos": "noun",
+   "example_mn": "Та ямар брэндийн утсанд дуртай вэ?",
+   "example_en": "Which brand of phone do you like?",
+   "mn_latin": "brend"
+  },
+  {
+   "mn": "загвар",
+   "en": "model",
+   "pos": "noun",
+   "example_mn": "Энэ загвар шинэ гарсан.",
+   "example_en": "This model just came out.",
+   "mn_latin": "zagvar"
+  },
+  {
+   "mn": "цэнэглэх",
+   "en": "to charge",
+   "pos": "verb",
+   "example_mn": "Би утсаа орой бүр цэнэглэдэг.",
+   "example_en": "I charge my phone every evening.",
+   "mn_latin": "tseneglekh"
+  },
+  {
+   "mn": "хурдан",
+   "en": "fast",
+   "pos": "adjective",
+   "example_mn": "Шинэ утас илүү хурдан ажилладаг.",
+   "example_en": "The new phone works faster.",
+   "mn_latin": "khurdan"
+  },
+  {
+   "mn": "үнэтэй",
+   "en": "expensive",
+   "pos": "adjective",
+   "example_mn": "Тэр утас надад хэтэрхий үнэтэй.",
+   "example_en": "That phone is too expensive for me.",
+   "mn_latin": "ünetei"
+  },
+  {
+   "mn": "дутуу",
+   "en": "lacking, inferior",
+   "pos": "adjective",
+   "example_mn": "Энэ камер нөгөөгөөсөө дутуу.",
+   "example_en": "This camera is inferior to the other one.",
+   "mn_latin": "dutuu"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ утасны батарей нөгөөх шиг удаан барьдаггүй.",
+   "en": "This phone's battery doesn't last as long as the other one's.",
+   "alt_mn": [
+    "Энэ утасны батарей нөгөөх шиг удаан барихгүй."
+   ],
+   "alt_en": [
+    "This phone's battery doesn't last as long as that one's."
+   ],
+   "mn_latin": "Ene utasny bataryei nögöökh shig udaan baridaggüi."
+  },
+  {
+   "mn": "Энэ камер нөгөөгөөс дутуу.",
+   "en": "This camera is not as good as the other one.",
+   "alt_mn": [
+    "Энэ камер нөгөөх шиг сайн биш."
+   ],
+   "alt_en": [
+    "This camera is worse than the other one."
+   ],
+   "mn_latin": "Ene kamyer nögöögöös dutuu."
+  },
+  {
+   "mn": "Миний хуучин утасны дэлгэц шинэ утасных шиг том биш.",
+   "en": "My old phone's screen is not as big as the new phone's.",
+   "alt_mn": [
+    "Миний хуучин утасны дэлгэц шинэ утасныхаас жижиг."
+   ],
+   "alt_en": [
+    "My old phone's screen isn't as big as the new one's."
+   ],
+   "mn_latin": "Minii khuuchin utasny delgets shine utasnykh shig tom bish."
+  },
+  {
+   "mn": "Энэ брэнд нөгөө брэнд шиг алдартай биш.",
+   "en": "This brand is not as popular as the other brand.",
+   "alt_mn": [
+    "Энэ брэнд нөгөө брэндээс бага алдартай."
+   ],
+   "alt_en": [
+    "This brand isn't as famous as the other one."
+   ],
+   "mn_latin": "Ene brend nögöö brend shig aldartai bish."
+  },
+  {
+   "mn": "Энэ загвар тийм ч үнэтэй биш.",
+   "en": "This model is not that expensive.",
+   "alt_mn": [
+    "Энэ загвар тийм ч үнэтэй биш шүү."
+   ],
+   "alt_en": [
+    "This model isn't very expensive."
+   ],
+   "mn_latin": "Ene zagvar tiim ch ünetei bish."
+  },
+  {
+   "mn": "Дөчин мянган төгрөгийн утас нь Самсунг шиг хурдан биш.",
+   "en": "The forty-thousand-tugrik phone is not as fast as the Samsung.",
+   "alt_mn": [
+    "Дөчин мянган төгрөгийн утас Самсунгаас удаан."
+   ],
+   "alt_en": [
+    "The forty-thousand-tugrik phone isn't as fast as the Samsung."
+   ],
+   "mn_latin": "Döchin myangan tögrögiin utas ni Samsung shig khurdan bish."
+  },
+  {
+   "mn": "Энэ утас нөгөөгөөс хавьгүй дор.",
+   "en": "This phone is not nearly as good as the other one.",
+   "alt_mn": [
+    "Энэ утас нөгөөх шиг сайн биш, хавьгүй дор."
+   ],
+   "alt_en": [
+    "This phone is nowhere near as good as the other one."
+   ],
+   "mn_latin": "Ene utas nögöögöös khavigüi dor."
+  },
+  {
+   "mn": "Энэ утасны санах ой миний утасных шиг их биш.",
+   "en": "This phone's storage is not as large as my phone's.",
+   "alt_mn": [
+    "Энэ утасны санах ой миний утасныхаас бага."
+   ],
+   "alt_en": [
+    "This phone doesn't have as much storage as mine."
+   ],
+   "mn_latin": "Ene utasny sanakh oi minii utasnykh shig ikh bish."
+  },
+  {
+   "mn": "Энэ утасны батарей муу тул би авахгүй.",
+   "en": "This phone's battery falls short, so I won't buy it.",
+   "alt_mn": [
+    "Энэ утасны батарей муу учраас би авахгүй."
+   ],
+   "alt_en": [
+    "The battery on this phone is lacking, so I'm not going to buy it."
+   ],
+   "mn_latin": "Ene utasny bataryei muu tul bi avakhgüi."
+  },
+  {
+   "mn": "Миний утас шинэ загвар шиг сайн камергүй.",
+   "en": "My phone doesn't have as good a camera as the new model.",
+   "alt_mn": [
+    "Миний утасны камер шинэ загварынхаас дутуу."
+   ],
+   "alt_en": [
+    "My phone's camera is not as good as the new model's."
+   ],
+   "mn_latin": "Minii utas shine zagvar shig sain kamyergüi."
+  },
+  {
+   "mn": "Энэ утсыг цэнэглэхэд нөгөөгөөс удаан хугацаа орно.",
+   "en": "Charging this phone takes longer than the other one.",
+   "alt_mn": [
+    "Энэ утас нөгөөгөөс удаан цэнэглэгддэг."
+   ],
+   "alt_en": [
+    "This phone charges more slowly than the other one."
+   ],
+   "mn_latin": "Ene utsyg tseneglekhed nögöögöös udaan khugatsaa orno."
+  },
+  {
+   "mn": "Энэ утас бараг нөгөөх шиг сайн, гэхдээ арай хямд.",
+   "en": "This phone is almost as good as the other one, but a bit cheaper.",
+   "alt_mn": [
+    "Энэ утас нөгөөхтэй бараг адилхан сайн, гэхдээ арай хямд."
+   ],
+   "alt_en": [
+    "This phone is nearly as good as that one, but a little cheaper."
+   ],
+   "mn_latin": "Ene utas barag nögöökh shig sain, gekhdee arai khyamd."
+  }
+ ],
+ "grammar": {
+  "title_en": "Saying 'not as ... as' in Mongolian",
+  "title_mn": "Англи хэлний «not as ... as» бүтэц",
+  "explain_en": "Mongolian has three main ways to say one thing is not as good as another. 1) X шиг + adjective + биш: «Энэ камер нөгөөх шиг сайн биш» (not as good as that one). 2) The ablative -аас/-ээс/-оос/-өөс with дутуу: «Энэ камер нөгөөгөөс дутуу» (is inferior to). 3) A negative verb ending -гүй or -даггүй: «Нөгөөх шиг удаан барьдаггүй» (doesn't last as long). Use хавьгүй for 'nowhere near'. The standard is marked by шиг or -аас, and the adjective stays in its basic form.",
+  "explain_mn": "Англи хэлэнд «not as + adjective + as» нь «... шиг ... биш» гэсэн утгатай: This camera is not as good as that one = Энэ камер нөгөөх шиг сайн биш. Adjective нь үндсэн хэлбэрээрээ үлддэг, харьцуулах зүйлийг хоёр дахь as-ын ард тавина. «(not) nearly as ... as» нь ялгаа маш их гэдгийг онцолно: This phone is not nearly as fast as that one = Энэ утас нөгөөх шиг хурдан биш, хавьгүй удаан. Мөн «less + adjective + than» гэж хэлж болно, жишээ нь less expensive than.",
+  "examples": [
+   {
+    "mn": "Энэ утас нөгөөх шиг хурдан биш.",
+    "en": "This phone is not as fast as that one.",
+    "mn_latin": "Ene utas nögöökh shig khurdan bish."
+   },
+   {
+    "mn": "Энэ камер нөгөөгөөс дутуу.",
+    "en": "This camera is inferior to that one.",
+    "mn_latin": "Ene kamyer nögöögöös dutuu."
+   },
+   {
+    "mn": "Энэ батарей нөгөөх шиг удаан барьдаггүй.",
+    "en": "This battery doesn't last as long as that one.",
+    "mn_latin": "Ene bataryei nögöökh shig udaan baridaggüi."
+   },
+   {
+    "mn": "Энэ утас нөгөөгөөс хавьгүй дутуу.",
+    "en": "This phone is not nearly as good as that one.",
+    "mn_latin": "Ene utas nögöögöös khavigüi dutuu."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ камер нөгөөх ___ сайн биш.",
+   "answer": "шиг",
+   "options": [
+    "шиг",
+    "бол",
+    "тул",
+    "руу"
+   ],
+   "translation": "This camera is not as good as that one.",
+   "explain_en": "«X шиг ... биш» is the pattern for 'not as ... as'. Шиг marks the standard of comparison.",
+   "explain_mn": "«Нөгөөх шиг ... биш» нь «not as ... as» гэсэн утгатай. Шиг нь харьцуулах зүйлийг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ утас нөгөөг___ дутуу.",
+   "answer": "өөс",
+   "options": [
+    "өөс",
+    "ийн",
+    "тэй",
+    "ийг"
+   ],
+   "translation": "This phone is inferior to the other one.",
+   "explain_en": "Дутуу takes the ablative case: нөгөөгөөс, 'than/from the other'. After нөгөө a linking г is added, and because the stem has the vowel ө, the ending is -өөс: нөгөөгөөс.",
+   "explain_mn": "Дутуу гэдэг үг гарах тийн ялгал (-аас/-ээс/-оос/-өөс) шаарддаг. «Нөгөөгөөс дутуу» гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ утасны батарей удаан барьда___.",
+   "answer": "ггүй",
+   "options": [
+    "ггүй",
+    "г",
+    "хгүй",
+    "лаа"
+   ],
+   "translation": "This phone's battery doesn't last long.",
+   "explain_en": "The habitual negative is -даггүй: барьдаггүй means 'doesn't (usually) hold/last'.",
+   "explain_mn": "Байнгын үйлийн үгүйсгэл нь «-даггүй» байдаг: барьдаггүй."
+  },
+  {
+   "lang": "en",
+   "text": "This phone is not ___ good as that one.",
+   "answer": "as",
+   "options": [
+    "as",
+    "so than",
+    "more",
+    "like"
+   ],
+   "translation": "Энэ утас нөгөөх шиг сайн биш.",
+   "explain_en": "The pattern is 'not as + adjective + as'. The first 'as' goes before the adjective.",
+   "explain_mn": "«Not as + adjective + as» бүтцэд эхний as нь adjective-ын өмнө орно."
+  },
+  {
+   "lang": "en",
+   "text": "This screen is not nearly ___ bright as the other one.",
+   "answer": "as",
+   "options": [
+    "as",
+    "like",
+    "than",
+    "more"
+   ],
+   "translation": "Энэ дэлгэц нөгөөгөөс хавьгүй бүдэг.",
+   "explain_en": "'Not nearly as ... as' stresses a big difference. It still needs 'as' before the adjective.",
+   "explain_mn": "«Not nearly as ... as» нь том ялгааг онцолно. Adjective-ын өмнө as хэвээр орно."
+  },
+  {
+   "lang": "en",
+   "text": "The battery is not as good ___ the old one.",
+   "answer": "as",
+   "options": [
+    "as",
+    "than",
+    "to",
+    "from"
+   ],
+   "translation": "Батарей нь хуучин батарей шиг сайн биш.",
+   "explain_en": "After 'not as good' you need 'as', not 'than', to introduce the comparison.",
+   "explain_mn": "«Not as good» гэсний дараа харьцуулалтыг as-аар оруулна, than биш."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу? Надад шинэ утас хэрэгтэй байна.",
+   "en": "Hello. I need a new phone.",
+   "mn_latin": "Sain baina uu? Nadad shine utas kheregtei baina."
+  },
+  {
+   "speaker": "Худалдагч",
+   "mn": "Тавтай морил. Энэ загвар шинэ гарсан. Камер нь маш сайн.",
+   "en": "Welcome. This model just came out. The camera is very good.",
+   "mn_latin": "Tavtai moril. Ene zagvar shine garsan. Kamyer ni mash sain."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Харин нөгөө утастай харьцуулахад ямар вэ?",
+   "en": "But how does it compare with the other phone?",
+   "mn_latin": "Kharin nögöö utastai kharitsuulakhad yamar ve?"
+  },
+  {
+   "speaker": "Худалдагч",
+   "mn": "Нөгөө утасны камер энэ шиг сайн биш, гэхдээ батарей нь илүү удаан барьдаг.",
+   "en": "The other phone's camera is not as good as this one's, but its battery lasts longer.",
+   "mn_latin": "Nögöö utasny kamyer ene shig sain bish, gekhdee bataryei ni ilüü udaan baridag."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Санах ой нь хэр их вэ?",
+   "en": "How much storage does it have?",
+   "mn_latin": "Sanakh oi ni kher ikh ve?"
+  },
+  {
+   "speaker": "Худалдагч",
+   "mn": "Энэ нь 256 гигабайт. Нөгөө нь түүнээс дутуу, 128 гигабайт.",
+   "en": "This one has 256 gigabytes. The other one has less, 128 gigabytes.",
+   "mn_latin": "Ene ni 256 gigabait. Nögöö ni tüünees dutuu, 128 gigabait."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Үнэ нь ямар вэ? Энэ нь нөгөөгөөсөө үнэтэй байх шиг байна.",
+   "en": "What about the price? This one seems more expensive than the other one.",
+   "mn_latin": "Üne ni yamar ve? Ene ni nögöögöösöö ünetei baikh shig baina."
+  },
+  {
+   "speaker": "Худалдагч",
+   "mn": "Тийм, гэхдээ нөгөө нь энэ шиг хурдан биш. Би танд үүнийг санал болгоё.",
+   "en": "Yes, but the other one is not as fast as this one. I recommend this one.",
+   "mn_latin": "Tiim, gekhdee nögöö ni ene shig khurdan bish. Bi tand üüniig sanal bolgoyo."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many people compare phones at big electronics shops or at the State Department Store and the Max Mall area, and Samsung, iPhone and Xiaomi are especially popular. People often ask friends and relatives for advice before buying, since a phone is a big purchase. Shop staff usually expect a bit of polite conversation and comparison before a decision.",
+  "mn": "Улаанбаатарт олон хүн утсаа томоохон цахилгаан барааны дэлгүүрүүдээс, мөн Төв Их Дэлгүүр, Макс Молл орчмоос харьцуулж сонгодог. Самсунг, Айфон, Сяоми онцгой түгээмэл. Утас том худалдан авалт учраас хүмүүс авахаасаа өмнө найз, садан төрлөөсөө ихэвчлэн зөвлөгөө авдаг. Дэлгүүрийн ажилтнууд ч шийдвэр гаргахаас өмнө эелдэг ярилцаж, харьцуулж үзэхийг хэвийн зүйл гэж үздэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 16,
+  "notes": "Mostly understandable, but several unnatural Mongolian phrases (сан хөмрөг, дутуу алдартай, ungrammatical sentence 10) and misleading explanations needed fixes."
+ },
+ "opus_fix": {
+  "rating_before": 4,
+  "fixes": 33,
+  "notes": "Replaced the wrong terms тэжээл and сан хөмрөг/сторэйж with батарей and санах ой throughout; fixed wrong alternatives, the broken ablative blank, and dialogue wording.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "«нөгөөгөөсөө тийм сайн биш» is an unnatural mix of two patterns"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "mn",
+    "why": "тэжээл means power supply/nutrition; phone battery is батарей"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_mn",
+    "why": "use the standard word батарей"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "mn",
+    "why": "сторэйж is made up; the standard term is санах ой"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "сан хөмрөг means fund/treasury, not storage"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "дуртай needs the dative: утсанд"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "mn",
+    "why": "use батарей"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "the old alt meant 'doesn't last longer than', which is a different meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "«Самсунгаас хурдан биш» means 'not faster than', which is a different meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "сан хөмрөг is wrong for storage"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "сан хөмрөг is wrong for storage"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "use батарей"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "use батарей"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "«камертай биш» is unnatural; the natural form is камергүй"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "use батарей"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "нөгөөгөө + өөс produced a wrong form with too many ө"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "distractors must be real case forms of нөгөөг-"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "нөгөө does not have back vowels; ө takes the -өөс ending"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "the correct grammatical term is гарах тийн ялгал"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "text",
+    "why": "use батарей"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'not nearly so bright as' is also correct, so 'so' cannot be a wrong option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "use батарей"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "speaker",
+    "why": "Сэлс is not a Mongolian name"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "speaker",
+    "why": "keep the same speaker name"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "speaker",
+    "why": "keep the same speaker name"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "speaker",
+    "why": "keep the same speaker name"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "«яаж вэ» is ungrammatical here; use ямар вэ"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "unnatural instrumental «камераараа»; use батарей; илүү matches 'longer'"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "the comparison must be camera to camera: this one's"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "сан хөмрөг is wrong for storage"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "«яасан бэ» means 'what happened'"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "энийг is colloquial; use standard үүнийг in polite shop talk"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "заавал ('always') did not match 'often'; the shop-staff sentence now matches the English; standard store name and brand capitalization"
+   }
+  ]
+ }
+}

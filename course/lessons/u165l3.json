@@ -1,0 +1,434 @@
+{
+ "intro_en": "Follow a defamation case between a politician and a news site, and learn key legal terms such as гүтгэлэг, нэр төр, нэхэмжлэл and торгууль. You will also practice how Mongolian news expresses scheduled future events, and how English headlines use \"to + infinitive\" and \"is to\" for the future.",
+ "intro_mn": "Улс төрч болон мэдээллийн сайтын хоорондох гүтгэлгийн хэргийг дагаж, гүтгэлэг, нэр төр, нэхэмжлэл, торгууль зэрэг хууль зүйн нэр томьёог сурна. Мөн монгол мэдээнд товлогдсон ирээдүйн үйл явдлыг хэрхэн илэрхийлдэг, англи гарчигт ирээдүйг \"to + infinitive\" болон \"is to\" хэлбэрээр хэрхэн илэрхийлдгийг судална.",
+ "vocab": [
+  {
+   "mn": "гүтгэлэг",
+   "en": "defamation",
+   "pos": "noun",
+   "example_mn": "Гүтгэлгийн хэргийг шүүх хянан хэлэлцэж байна.",
+   "example_en": "The court is hearing the defamation case.",
+   "mn_latin": "gütgeleg"
+  },
+  {
+   "mn": "нэр төр",
+   "en": "honor, reputation",
+   "pos": "noun",
+   "example_mn": "Тэр нэр төрөө хамгаалахаар шүүхэд хандсан.",
+   "example_en": "He went to court to defend his reputation.",
+   "mn_latin": "ner tör"
+  },
+  {
+   "mn": "нэхэмжлэл",
+   "en": "lawsuit, claim",
+   "pos": "noun",
+   "example_mn": "Гишүүн сайтын эсрэг нэхэмжлэл гаргажээ.",
+   "example_en": "The MP filed a lawsuit against the website.",
+   "mn_latin": "nekhemjlel"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine (penalty)",
+   "pos": "noun",
+   "example_mn": "Сайтад их хэмжээний торгууль ногдуулсан.",
+   "example_en": "The website was given a heavy fine.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "нэхэмжлэгч",
+   "en": "plaintiff",
+   "pos": "noun",
+   "example_mn": "Нэхэмжлэгч нөхөн төлбөр шаардаж байна.",
+   "example_en": "The plaintiff is demanding compensation.",
+   "mn_latin": "nekhemjlegch"
+  },
+  {
+   "mn": "хариуцагч",
+   "en": "defendant",
+   "pos": "noun",
+   "example_mn": "Хариуцагч талын өмгөөлөгч мэдэгдэл хийлээ.",
+   "example_en": "The defendant's lawyer made a statement.",
+   "mn_latin": "khariutsagch"
+  },
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence",
+   "pos": "noun",
+   "example_mn": "Сэтгүүлч хангалттай нотлох баримт гаргаж өгсөн.",
+   "example_en": "The journalist provided sufficient evidence.",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "залруулга",
+   "en": "correction, retraction",
+   "pos": "noun",
+   "example_mn": "Сайт нүүр хуудсандаа залруулга нийтлэх ёстой.",
+   "example_en": "The site must publish a correction on its front page.",
+   "mn_latin": "zalruulga"
+  },
+  {
+   "mn": "нөхөн төлбөр",
+   "en": "compensation, damages",
+   "pos": "noun",
+   "example_mn": "Шүүх нөхөн төлбөр олгохоос татгалзав.",
+   "example_en": "The court refused to award damages.",
+   "mn_latin": "nökhön tölbör"
+  },
+  {
+   "mn": "шийдвэрлэх",
+   "en": "to rule on, to decide",
+   "pos": "verb",
+   "example_mn": "Шүүх хэргийг энэ сард шийдвэрлэнэ.",
+   "example_en": "The court will rule on the case this month.",
+   "mn_latin": "shiidverlekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Шүүх гүтгэлгийн хэргийг ирэх долоо хоногт шийдвэрлэнэ.",
+   "en": "Court to rule on defamation case next week.",
+   "alt_mn": [
+    "Гүтгэлгийн хэргийг шүүх ирэх долоо хоногт шийдвэрлэх гэж байна."
+   ],
+   "alt_en": [
+    "The court will rule on the defamation case next week.",
+    "The court is to rule on the defamation case next week."
+   ],
+   "mn_latin": "Shüükh gütgelgiin khergiig irekh doloo khonogt shiidverlene."
+  },
+  {
+   "mn": "Гишүүн мэдээллийн сайтын эсрэг нэхэмжлэл гаргахаар болжээ.",
+   "en": "MP to sue news site.",
+   "alt_mn": [
+    "Гишүүн мэдээллийн сайтыг шүүхэд өгөхөөр болжээ."
+   ],
+   "alt_en": [
+    "The MP is to sue the news site.",
+    "The MP is going to sue the news site."
+   ],
+   "mn_latin": "Gishüün medeelliin saityn esreg nekhemjlel gargakhaar boljee."
+  },
+  {
+   "mn": "Сайт залруулга нийтэлж, нэхэмжлэгчээс уучлал гуйх ёстой.",
+   "en": "The site is to publish a correction and apologize to the plaintiff.",
+   "alt_mn": [
+    "Сайт залруулга нийтэлж, нэхэмжлэгчээс уучлалт гуйх үүрэгтэй."
+   ],
+   "alt_en": [
+    "The site must publish a correction and apologize to the plaintiff."
+   ],
+   "mn_latin": "Sait zalruulga niitelj, nekhemjlegchees uuchlal guikh yostoi."
+  },
+  {
+   "mn": "Нэхэмжлэгч нэр төрийг нь гутаасан гэж сайтыг буруутгаж байна.",
+   "en": "The plaintiff accuses the site of damaging his reputation.",
+   "alt_mn": [
+    "Нэхэмжлэгч сайтыг нэр төрийг нь гутаасан гэж буруутгаж байна."
+   ],
+   "alt_en": [
+    "The plaintiff claims the site damaged his reputation."
+   ],
+   "mn_latin": "Nekhemjlegch ner töriig ni gutaasan gej saityg buruutgaj baina."
+  },
+  {
+   "mn": "Хариуцагч тал нийтлэлээ үнэн зөв гэж маргаж байна.",
+   "en": "The defense argues that the article was accurate.",
+   "alt_mn": [
+    "Хариуцагч тал нийтлэлийг үнэн гэж маргаж байна."
+   ],
+   "alt_en": [
+    "The defendant insists that the article was accurate."
+   ],
+   "mn_latin": "Khariutsagch tal niitlelee ünen zöv gej margaj baina."
+  },
+  {
+   "mn": "Сэтгүүлч шүүх хуралд нотлох баримтаа танилцуулна.",
+   "en": "Journalist to present evidence in court.",
+   "alt_mn": [
+    "Сэтгүүлч шүүх хурал дээр нотлох баримтаа танилцуулах юм."
+   ],
+   "alt_en": [
+    "The journalist will present her evidence in court.",
+    "The journalist is to present her evidence at the hearing."
+   ],
+   "mn_latin": "Setgüülch shüükh khurald notlokh barimtaa taniltsuulna."
+  },
+  {
+   "mn": "Шүүхийн шийдвэрийг баасан гарагт зарлана.",
+   "en": "The verdict is to be announced on Friday.",
+   "alt_mn": [
+    "Шүүхийн шийдвэр баасан гарагт зарлагдана."
+   ],
+   "alt_en": [
+    "The verdict will be announced on Friday."
+   ],
+   "mn_latin": "Shüükhiin shiidveriig baasan garagt zarlana."
+  },
+  {
+   "mn": "Хэрэв сайт ялагдвал таван сая төгрөгийн торгууль төлөх магадлалтай.",
+   "en": "If the site loses, it could face a fine of five million tugriks.",
+   "alt_mn": [
+    "Сайт ялагдах юм бол таван сая төгрөгөөр торгуулж магадгүй."
+   ],
+   "alt_en": [
+    "If the site loses, it may have to pay a five-million-tugrik fine."
+   ],
+   "mn_latin": "Kherev sait yalagdval tavan saya tögrögiin torguuli tölökh magadlaltai."
+  },
+  {
+   "mn": "Шүүх нөхөн төлбөрийн хэмжээг дараагийн хурлаар тогтооно.",
+   "en": "The court is to set the amount of damages at the next hearing.",
+   "alt_mn": [
+    "Нөхөн төлбөрийн хэмжээг шүүх дараагийн хурлаар тогтоох юм."
+   ],
+   "alt_en": [
+    "The court will determine the damages at the next hearing."
+   ],
+   "mn_latin": "Shüükh nökhön tölböriin khemjeeg daraagiin khurlaar togtoono."
+  },
+  {
+   "mn": "Олон сэтгүүлч энэ нэхэмжлэлийг хэвлэлийн эрх чөлөөнд заналхийлж буй хэрэг гэж үзэж байна.",
+   "en": "Many journalists see this lawsuit as a threat to press freedom.",
+   "alt_mn": [
+    "Олон сэтгүүлч энэ нэхэмжлэлийг хэвлэлийн эрх чөлөөнд аюул учруулж байна гэж үзэж байна."
+   ],
+   "alt_en": [
+    "Many journalists view the lawsuit as a threat to freedom of the press."
+   ],
+   "mn_latin": "Olon setgüülch ene nekhemjleliig khevleliin erkh chölöönd zanalkhiilj bui khereg gej üzej baina."
+  },
+  {
+   "mn": "Ерөнхий сайд энэ хэргийн талаар маргааш мэдэгдэл хийнэ.",
+   "en": "Prime minister to comment on case tomorrow.",
+   "alt_mn": [
+    "Ерөнхий сайд маргааш энэ хэргийн талаар байр сууриа илэрхийлэх юм."
+   ],
+   "alt_en": [
+    "The prime minister will make a statement on the case tomorrow.",
+    "The prime minister is to comment on the case tomorrow."
+   ],
+   "mn_latin": "Yerönkhii said ene khergiin talaar margaash medegdel khiine."
+  },
+  {
+   "mn": "Шүүх нэхэмжлэлийг хангалттай нотлох баримтгүй гэж үзэн хэрэгсэхгүй болгов.",
+   "en": "The court dismissed the lawsuit for lack of sufficient evidence.",
+   "alt_mn": [
+    "Нотлох баримт хангалтгүй тул шүүх нэхэмжлэлийг хэрэгсэхгүй болгосон."
+   ],
+   "alt_en": [
+    "The court threw out the claim, citing insufficient evidence."
+   ],
+   "mn_latin": "Shüükh nekhemjleliig khangalttai notlokh barimtgüi gej üzen kheregsekhgüi bolgov."
+  }
+ ],
+ "grammar": {
+  "title_en": "Talking about scheduled events in the news: -на/-нэ and -хаар болжээ",
+  "title_mn": "Англи гарчиг дахь ирээдүй цаг: \"to + infinitive\" ба \"is to\"",
+  "explain_en": "Mongolian news uses two main ways to report what is planned or scheduled. The simple future/present ending -на/-нэ/-но/-нө (vowel harmony!) states an expected event plainly: Шүүх маргааш шийдвэрлэнэ, \"The court will rule tomorrow.\" To report that a decision or plan has been made, use -хаар/-хээр/-хоор/-хөөр + болжээ/боллоо: Гишүүн нэхэмжлэл гаргахаар болжээ, \"The MP has decided to sue / is to sue.\" The ending -жээ adds a reported, \"it turns out\" flavor that is typical of news writing. English headlines translate both of these with \"to + verb\": \"MP to sue news site.\"",
+  "explain_mn": "Англи сонины гарчигт ирээдүйд болох, товлогдсон үйл явдлыг \"to + үйл үгийн үндсэн хэлбэр\"-ээр товч илэрхийлдэг: \"Court to rule on defamation case\" нь \"Шүүх гүтгэлгийн хэргийг шийдвэрлэнэ\" гэсэн утгатай. Энэ нь \"The court is to rule...\" гэсэн өгүүлбэрийн \"is\"-ийг хасч товчилсон хэлбэр юм. Бүтэн өгүүлбэрт \"be + to + infinitive\" (is to, are to, was to) нь албан ёсоор товлогдсон төлөвлөгөө, эсвэл үүрэг, заавар (\"must\")-ыг илэрхийлнэ: \"The site is to publish a correction.\" Үйлдэгдэхүйн хэв (passive)-д \"is to be + V3\" хэрэглэнэ: \"The verdict is to be announced on Friday.\"",
+  "examples": [
+   {
+    "mn": "Шүүх гүтгэлгийн хэргийг ирэх сард шийдвэрлэнэ.",
+    "en": "Court to rule on defamation case next month.",
+    "mn_latin": "Shüükh gütgelgiin khergiig irekh sard shiidverlene."
+   },
+   {
+    "mn": "Сайтын эрхлэгч шүүхэд мэдүүлэг өгөхөөр болжээ.",
+    "en": "Website editor to testify in court.",
+    "mn_latin": "Saityn erkhlegch shüükhed medüüleg ögökhöör boljee."
+   },
+   {
+    "mn": "Хариуцагч торгуулиа гуравдугаар сар гэхэд төлөх ёстой.",
+    "en": "The defendant is to pay the fine by March.",
+    "mn_latin": "Khariutsagch torguulia guravdugaar sar gekhed tölökh yostoi."
+   },
+   {
+    "mn": "Шүүхийн шийдвэрийг даваа гарагт зарлана.",
+    "en": "The ruling is to be announced on Monday.",
+    "mn_latin": "Shüükhiin shiidveriig davaa garagt zarlana."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шүүх маргааш шийдвэрээ гарга___.",
+   "answer": "на",
+   "options": [
+    "на",
+    "сан",
+    "жээ",
+    "хаар"
+   ],
+   "translation": "Court to deliver its ruling tomorrow.",
+   "explain_en": "\"Маргааш\" (tomorrow) points to the future, so we need the future ending -на (back vowel а in гарга- → -на). -сан and -жээ are past, and -хаар needs a following verb like болжээ.",
+   "explain_mn": "\"Маргааш\" гэдэг нь ирээдүйг заадаг тул ирээдүй цагийн -на нөхцөл зөв. Англиар гарчигт \"to deliver\" гэж \"to + infinitive\"-аар илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Гишүүн сайтын эсрэг нэхэмжлэл гарга___ болжээ.",
+   "answer": "хаар",
+   "options": [
+    "хаар",
+    "сан",
+    "на",
+    "вал"
+   ],
+   "translation": "MP to file lawsuit against website.",
+   "explain_en": "The pattern -хаар + болжээ means \"has decided to / is set to.\" It reports a plan that has been settled, which is very common in news reports.",
+   "explain_mn": "\"-хаар болжээ\" нь шийдвэр гарсан, товлогдсон төлөвлөгөөг илэрхийлдэг. Англи гарчигт энэ утгыг \"MP to file lawsuit\" гэж \"to\"-гоор товч илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Улс төрч нэр төр___ хамгаалахаар шүүхэд хандлаа.",
+   "answer": "өө",
+   "options": [
+    "өө",
+    "өөс",
+    "д",
+    "ийн"
+   ],
+   "translation": "The politician went to court to defend his reputation.",
+   "explain_en": "The reputation belongs to the subject (the politician himself), so Mongolian uses the reflexive possessive ending -аа/-ээ/-оо/-өө. With the front-rounded ө in төр, the form is -өө: нэр төрөө.",
+   "explain_mn": "Нэр төр нь үйлийн эзэн болох улс төрчийн өөрийнх тул ерөнхий хамаатуулах -өө нөхцөл хэрэглэнэ: нэр төрөө. Англиар \"his reputation\" гэж эзэмшлийн төлөөний үгээр илэрхийлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "Court ___ rule on defamation case against news site.",
+   "answer": "to",
+   "options": [
+    "to",
+    "will to",
+    "is",
+    "for"
+   ],
+   "translation": "Шүүх мэдээллийн сайтын эсрэг гүтгэлгийн хэргийг шийдвэрлэнэ.",
+   "explain_en": "Headlines drop \"is\" and use \"to + verb\" for future events: \"Court to rule.\" \"Will to\" is ungrammatical, and \"is rule\" lacks \"to.\"",
+   "explain_mn": "Гарчигт \"is\"-ийг хасч, ирээдүйг зөвхөн \"to + үйл үг\"-ээр илэрхийлнэ. \"Will to\" гэж хэзээ ч хэлдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "The verdict is ___ be announced on Friday.",
+   "answer": "to",
+   "options": [
+    "to",
+    "going",
+    "will",
+    "being"
+   ],
+   "translation": "Шүүхийн шийдвэрийг баасан гарагт зарлана.",
+   "explain_en": "The formal structure is \"be + to + infinitive\"; in the passive it becomes \"is to be + past participle.\" \"Is going be\" and \"is will be\" are incorrect.",
+   "explain_mn": "Үйлдэгдэхүйн хэвийн албан ёсны ирээдүй нь \"is to be + V3\" бүтэцтэй: \"is to be announced\" (зарлагдана)."
+  },
+  {
+   "lang": "en",
+   "text": "The editor is to ___ in court on Monday.",
+   "answer": "appear",
+   "options": [
+    "appear",
+    "appearing",
+    "appeared",
+    "appears"
+   ],
+   "translation": "Эрхлэгч даваа гарагт шүүх хуралд оролцоно.",
+   "explain_en": "After \"is to,\" English always uses the base form of the verb (the bare infinitive after \"to\"): \"is to appear.\"",
+   "explain_mn": "\"Is to\"-гийн дараа үйл үг үргэлж үндсэн хэлбэрээрээ (-ing, -ed, -s нөхцөлгүй) орно: \"is to appear\"."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болормаа",
+   "mn": "Та өнөөдрийн мэдээг уншсан уу? Гишүүн Батсүх \"Өдрийн шуурхай\" сайтыг шүүхэд өгчээ.",
+   "en": "Have you read today's news? MP Batsükh has taken the website \"Daily Express\" to court.",
+   "mn_latin": "Ta önöödriin medeeg unshsan uu? Gishüün Batsükh \"Ödriin shuurkhai\" saityg shüükhed ögchee."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Уншсан. Сайт түүнийг авлига авсан гэж бичсэн биз дээ. Тэр сайтыг нэр төрийг нь гутаасан гэж үзэж байгаа юм байна.",
+   "en": "I did. The site wrote that he took bribes, right? He believes it damaged his reputation.",
+   "mn_latin": "Unshsan. Sait tüüniig avliga avsan gej bichsen biz dee. Ter saityg ner töriig ni gutaasan gej üzej baigaa yum baina."
+  },
+  {
+   "speaker": "Болормаа",
+   "mn": "Тийм. Нэхэмжлэлдээ тэр арван сая төгрөгийн нөхөн төлбөр шаардсан гэнэ.",
+   "en": "Yes. In his lawsuit he's apparently demanding ten million tugriks in damages.",
+   "mn_latin": "Tiim. Nekhemjleldee ter arvan saya tögrögiin nökhön tölbör shaardsan gene."
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Харин сайтын эрхлэгч нотлох баримт бий, залруулга нийтлэхгүй гэж мэдэгдсэн.",
+   "en": "But the site's editor has said they have evidence and won't publish a correction.",
+   "mn_latin": "Kharin saityn erkhlegch notlokh barimt bii, zalruulga niitlekhgüi gej medegdsen."
+  },
+  {
+   "speaker": "Болормаа",
+   "mn": "Шүүх хурал хэзээ болох вэ?",
+   "en": "When is the hearing?",
+   "mn_latin": "Shüükh khural khezee bolokh ve?"
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Ирэх лхагва гарагт. Англи хэлний сайтууд \"Court to rule on MP's defamation claim\" гэж гарчиглажээ.",
+   "en": "Next Wednesday. English-language sites ran the headline \"Court to rule on MP's defamation claim.\"",
+   "mn_latin": "Irekh lkhagva garagt. Angli khelnii saituud \"Court to rule on MP's defamation claim\" gej garchiglajee."
+  },
+  {
+   "speaker": "Болормаа",
+   "mn": "Сайт ялагдвал торгууль төлөх үү, эсвэл зөвхөн уучлалт гуйх уу?",
+   "en": "If the site loses, will it pay a fine or just apologize?",
+   "mn_latin": "Sait yalagdval torguuli tölökh üü, esvel zövkhön uuchlalt guikh uu?"
+  },
+  {
+   "speaker": "Түвшин",
+   "mn": "Аль аль нь байж магадгүй. Ямар ч байсан энэ хэрэг хэвлэлийн эрх чөлөөнд том сорилт болно.",
+   "en": "Possibly both. Either way, this case will be a big test for press freedom.",
+   "mn_latin": "Ali ali ni baij magadgüi. Yamar ch baisan ene khereg khevleliin erkh chölöönd tom sorilt bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "When Mongolia's new Criminal Code took effect in 2017, defamation was removed from it. Since then it has mostly been handled under the Law on Infringements, which sets fines, while civil courts can order corrections and compensation for damage to a person's honor and reputation. Journalists' groups such as the Globe International Center say lawsuits by officials still make many reporters cautious, and debates continue over penalties for spreading \"false information.\"",
+  "mn": "2017 онд Монгол Улсын шинэ Эрүүгийн хууль хүчин төгөлдөр болоход гүтгэх гэмт хэргийг түүнээс хассан. Түүнээс хойш энэ асуудлыг голдуу торгууль ногдуулдаг Зөрчлийн тухай хуулиар зохицуулж байгаа бөгөөд иргэний шүүх залруулга нийтлүүлэх, хүний нэр төрд учирсан хохирлыг нөхөн төлүүлэх шийдвэр гаргаж болдог. \"Глоб Интернэшнл\" төв зэрэг сэтгүүлчдийн байгууллагуудын үзэж байгаагаар албан тушаалтнуудын гаргасан нэхэмжлэлээс болж олон сэтгүүлч болгоомжилсоор байгаа бөгөөд \"худал мэдээлэл тараах\" үйлдлийн хариуцлагын талаарх маргаан үргэлжилсээр байна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A solid, accurate lesson. The fixes are the wrong grammatical term for passive voice, one fill-in-the-blank with two possible answers, a spelling slip, and one unnatural phrase."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 5,
+  "notes": "Mostly solid. Fixed the mn intro gap, unclear possessives, a wrong grammar term and the culture-note wording.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the Mongolian-news part that intro_en mentions"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "reflexive -өө is ambiguous inside the embedded clause; нь makes 'his' clear"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "clear that the site damaged his reputation; matches the en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "өгүүлэгч (speaker) is the wrong term; the owner is the subject of the sentence"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'хохирлыг залруулж' was unclear and did not match 'order corrections and compensation'"
+   }
+  ]
+ }
+}

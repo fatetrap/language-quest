@@ -1,0 +1,466 @@
+{
+ "intro_en": "You will learn to read a soum livestock census and compare herd sizes between aimags. You will also practice expressing proportions with percentages and ratios in both languages.",
+ "intro_mn": "Та сумын малын тооллогын мэдээг уншиж, аймгуудын сүргийн хэмжээг харьцуулж сурна. Мөн хувь, харьцааг хоёр хэлээр хэрхэн илэрхийлэхийг дадлагжина.",
+ "vocab": [
+  {
+   "mn": "малын тоо толгой",
+   "en": "livestock numbers",
+   "pos": "noun phrase",
+   "example_mn": "Манай сумын малын тоо толгой жил бүр нэмэгдэж байна.",
+   "example_en": "Our soum's livestock numbers are growing every year.",
+   "mn_latin": "malyn too tolgoi"
+  },
+  {
+   "mn": "сүргийн бүтэц",
+   "en": "herd composition",
+   "pos": "noun phrase",
+   "example_mn": "Сүргийн бүтцэд ямаа зонхилж байна.",
+   "example_en": "Goats predominate in the herd composition.",
+   "mn_latin": "sürgiin bütets"
+  },
+  {
+   "mn": "бэлчээрийн даац",
+   "en": "pasture carrying capacity",
+   "pos": "noun phrase",
+   "example_mn": "Бэлчээрийн даац хэтэрсэн газар олон байна.",
+   "example_en": "There are many places where the pasture carrying capacity has been exceeded.",
+   "mn_latin": "belcheeriin daats"
+  },
+  {
+   "mn": "өсөлт",
+   "en": "growth, increase",
+   "pos": "noun",
+   "example_mn": "Үхрийн тооны өсөлт энэ жил бага байлаа.",
+   "example_en": "The growth in cattle numbers was small this year.",
+   "mn_latin": "ösölt"
+  },
+  {
+   "mn": "бууралт",
+   "en": "decline, decrease",
+   "pos": "noun",
+   "example_mn": "Адууны тоонд бага зэргийн бууралт гарсан.",
+   "example_en": "There was a slight decline in the number of horses.",
+   "mn_latin": "buuralt"
+  },
+  {
+   "mn": "тооллого",
+   "en": "census",
+   "pos": "noun",
+   "example_mn": "Малын тооллогыг жил бүрийн арванхоёрдугаар сард явуулдаг.",
+   "example_en": "The livestock census is carried out every December.",
+   "mn_latin": "toollogo"
+  },
+  {
+   "mn": "хувь",
+   "en": "percent; share",
+   "pos": "noun",
+   "example_mn": "Нийт малын тавин хувь нь ямаа байна.",
+   "example_en": "Fifty percent of all livestock are goats.",
+   "mn_latin": "khuvi"
+  },
+  {
+   "mn": "харьцаа",
+   "en": "ratio",
+   "pos": "noun",
+   "example_mn": "Хонь ямааны харьцаа гурав нэг байна.",
+   "example_en": "The ratio of sheep to goats is three to one.",
+   "mn_latin": "kharitsaa"
+  },
+  {
+   "mn": "бод мал",
+   "en": "large livestock (horses, cattle, camels)",
+   "pos": "noun phrase",
+   "example_mn": "Бод малын тоо багассан.",
+   "example_en": "The number of large livestock has fallen.",
+   "mn_latin": "bod mal"
+  },
+  {
+   "mn": "хэтрэх",
+   "en": "to exceed",
+   "pos": "verb",
+   "example_mn": "Малын тоо бэлчээрийн даацаас хэтэрч байна.",
+   "example_en": "The number of animals is exceeding the pasture's carrying capacity.",
+   "mn_latin": "khetrekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ сумын малын тоо толгой хоёр сая гаруй байна.",
+   "en": "This soum's livestock numbers are over two million.",
+   "alt_mn": [
+    "Энэ сумын малын тоо толгой хоёр саяас илүү байна."
+   ],
+   "alt_en": [
+    "This soum has more than two million head of livestock."
+   ],
+   "mn_latin": "Ene sumyn malyn too tolgoi khoyor saya garui baina."
+  },
+  {
+   "mn": "Сүргийн бүтцээр ямаа хамгийн их хувийг эзэлж байна.",
+   "en": "In terms of herd composition, goats make up the largest share.",
+   "alt_mn": [],
+   "alt_en": [
+    "By herd composition, goats account for the biggest share."
+   ],
+   "mn_latin": "Sürgiin büttseer yamaa khamgiin ikh khuviig ezelj baina."
+  },
+  {
+   "mn": "Нийт малын тавин хувь нь ямаа байна.",
+   "en": "Fifty percent of all livestock are goats.",
+   "alt_mn": [
+    "Нийт малын тал нь ямаа."
+   ],
+   "alt_en": [
+    "Half of all livestock are goats."
+   ],
+   "mn_latin": "Niit malyn tavin khuvi ni yamaa baina."
+  },
+  {
+   "mn": "Хөвсгөл аймагт Дорнод аймгаас хоёр дахин олон үхэр бий.",
+   "en": "Khuvsgul Aimag has twice as many cattle as Dornod Aimag.",
+   "alt_mn": [
+    "Хөвсгөл аймгийн үхрийн тоо Дорнод аймгийнхаас хоёр дахин их."
+   ],
+   "alt_en": [
+    "Khuvsgul has double the cattle of Dornod."
+   ],
+   "mn_latin": "Khövsgöl aimagt Dornod aimgaas khoyor dakhin olon ükher bii."
+  },
+  {
+   "mn": "Таван өрхийн нэг нь мал маллахаа больсон.",
+   "en": "One in five households has stopped herding.",
+   "alt_mn": [
+    "Өрхийн таванны нэг нь мал маллахаа больсон."
+   ],
+   "alt_en": [
+    "One household in five has given up herding."
+   ],
+   "mn_latin": "Tavan örkhiin neg ni mal mallakhaa bolison."
+  },
+  {
+   "mn": "Хонь ямааны харьцаа гурав нэг байна.",
+   "en": "The ratio of sheep to goats is three to one.",
+   "alt_mn": [
+    "Хонь ямааны харьцаа 3:1 байна."
+   ],
+   "alt_en": [
+    "The sheep-to-goat ratio is 3 to 1."
+   ],
+   "mn_latin": "Khoni yamaany kharitsaa gurav neg baina."
+  },
+  {
+   "mn": "Өнгөрсөн жилтэй харьцуулахад малын тоо арван хувиар өссөн.",
+   "en": "Compared with last year, livestock numbers rose by ten percent.",
+   "alt_mn": [
+    "Өнгөрсөн жилээс малын тоо 10 хувиар өссөн."
+   ],
+   "alt_en": [
+    "Livestock numbers grew ten percent compared to last year."
+   ],
+   "mn_latin": "Öngörsön jiltei kharitsuulakhad malyn too arvan khuviar össön."
+  },
+  {
+   "mn": "Зудын дараа адууны тоонд мэдэгдэхүйц бууралт гарсан.",
+   "en": "After the dzud, there was a noticeable decline in the number of horses.",
+   "alt_mn": [],
+   "alt_en": [
+    "After the harsh winter, horse numbers dropped noticeably."
+   ],
+   "mn_latin": "Zudyn daraa aduuny toond medegdekhüits buuralt garsan."
+  },
+  {
+   "mn": "Малын тоо бэлчээрийн даацаас хэтэрсэн нь бэлчээр доройтоход хүргэж байна.",
+   "en": "Exceeding the pasture's carrying capacity is leading to pasture degradation.",
+   "alt_mn": [
+    "Бэлчээрийн даац хэтэрсэн нь бэлчээрийг доройтуулж байна."
+   ],
+   "alt_en": [
+    "Overstocking beyond carrying capacity is degrading the pasture."
+   ],
+   "mn_latin": "Malyn too belcheeriin daatsaas khetersen ni belcheer doroitokhod khürgej baina."
+  },
+  {
+   "mn": "Говийн аймгуудад тэмээний эзлэх хувь илүү өндөр байдаг.",
+   "en": "The share of camels is higher in the Gobi aimags.",
+   "alt_mn": [],
+   "alt_en": [
+    "Camels make up a higher percentage in the Gobi aimags."
+   ],
+   "mn_latin": "Goviin aimguudad temeenii ezlekh khuvi ilüü öndör baidag."
+  },
+  {
+   "mn": "Манай сумд хүн амаас малын тоо арав дахин их байна.",
+   "en": "In our soum, livestock outnumber people ten to one.",
+   "alt_mn": [
+    "Манай сумд малын тоо хүн амынхаас арав дахин их."
+   ],
+   "alt_en": [
+    "In our soum there are ten times as many animals as people."
+   ],
+   "mn_latin": "Manai sumd khün amaas malyn too arav dakhin ikh baina."
+  },
+  {
+   "mn": "Тооллогын дүнгээр бод малын тоо багассан байна.",
+   "en": "According to the census results, the number of large livestock has decreased.",
+   "alt_mn": [
+    "Тооллогын дүнд бод малын тоо буурсан байна."
+   ],
+   "alt_en": [
+    "The census results show that large livestock numbers have fallen."
+   ],
+   "mn_latin": "Toollogyn düngeer bod malyn too bagassan baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Expressing proportions: the instrumental -аар/-ээр, хувь and ratios",
+  "title_mn": "Хувь, харьцааг илэрхийлэх нь",
+  "explain_en": "In Mongolian, a percentage is a number plus хувь: «арван хувь» (ten percent). Add the instrumental -аар/-ээр/-оор/-өөр for the amount of change: «арван хувиар өссөн» (rose by ten percent). The same instrumental ending on a noun can mean 'in terms of / by': «сүргийн бүтцээр» (by herd composition). Fractions use the pattern «таванны нэг» (one fifth), and 'twice as many' is «хоёр дахин олон/их». A ratio is «гурав нэг» or «3:1», with харьцаа. English uses 'one in five', 'twice as many as', 'a ratio of 3 to 1', and 'by 10 percent'.",
+  "explain_mn": "Англиар хувийг «percent» гэж хэлнэ: «ten percent». Өөрчлөлтийн хэмжээг «by» угтвараар илэрхийлнэ: «rose by ten percent». «One in five» нь «таван хүн тутмын нэг», «twice as many as» нь «...-аас хоёр дахин олон», «a ratio of 3 to 1» нь «гурав нэгийн харьцаа». Харьцуулахдаа «as many as», «more than», «compared with» гэх мэт хэллэг хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Малын тоо арван хувиар өссөн.",
+    "en": "Livestock numbers rose by ten percent.",
+    "mn_latin": "Malyn too arvan khuviar össön."
+   },
+   {
+    "mn": "Сүргийн бүтцээр ямаа тэргүүлж байна.",
+    "en": "In terms of herd composition, goats lead.",
+    "mn_latin": "Sürgiin büttseer yamaa tergüülj baina."
+   },
+   {
+    "mn": "Өрхийн таванны нэг нь мал маллахаа больсон.",
+    "en": "One in five households has stopped herding.",
+    "mn_latin": "Örkhiin tavanny neg ni mal mallakhaa bolison."
+   },
+   {
+    "mn": "Хонь ямааны харьцаа гурав нэг байна.",
+    "en": "The ratio of sheep to goats is three to one.",
+    "mn_latin": "Khoni yamaany kharitsaa gurav neg baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Малын тоо толгой өнгөрсөн жилээс таван хув___ өссөн.",
+   "answer": "иар",
+   "options": [
+    "иар",
+    "ьд",
+    "ийг",
+    "иас"
+   ],
+   "translation": "The livestock numbers rose by five percent from last year.",
+   "explain_en": "The amount of change takes the instrumental case: хувь → хувиар (the final ь is replaced by и before -ар).",
+   "explain_mn": "Өөрчлөлтийн хэмжээг үйлдэх тийн ялгалаар илэрхийлнэ: хувь → хувиар."
+  },
+  {
+   "lang": "mn",
+   "text": "Хонь ямааны ___ гурав нэг байна.",
+   "answer": "харьцаа",
+   "options": [
+    "харьцаа",
+    "өсөлт",
+    "даац",
+    "тооллого"
+   ],
+   "translation": "The ratio of sheep to goats is three to one.",
+   "explain_en": "«Харьцаа» means 'ratio' and is used with numbers like гурав нэг.",
+   "explain_mn": "Хоёр тоон хэмжээний хамаарлыг «харьцаа» гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хөвсгөлд Дорнодноос хоёр ___ олон үхэр бий.",
+   "answer": "дахин",
+   "options": [
+    "дахин",
+    "хувь",
+    "удаа",
+    "толгой"
+   ],
+   "translation": "Khuvsgul has twice as many cattle as Dornod.",
+   "explain_en": "«Хоёр дахин» means 'twice / two times' in comparisons.",
+   "explain_mn": "Хэд дахин их, олон болохыг харьцуулахад «дахин» үгийг хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Livestock numbers rose ___ ten percent last year.",
+   "answer": "by",
+   "options": [
+    "by",
+    "of",
+    "at",
+    "for"
+   ],
+   "translation": "Малын тоо өнгөрсөн жил арван хувиар өссөн.",
+   "explain_en": "Use 'by' for the amount of a change.",
+   "explain_mn": "Өөрчлөлтийн хэмжээг «by» угтвараар илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "One ___ five households in the soum has no animals.",
+   "answer": "in",
+   "options": [
+    "in",
+    "of",
+    "from",
+    "at"
+   ],
+   "translation": "Сумын таван өрхийн нэгэнд мал байхгүй.",
+   "explain_en": "'One in five' expresses a rate.",
+   "explain_mn": "«One in five» нь «таван тутмын нэг» гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The soum has twice ___ many goats as sheep.",
+   "answer": "as",
+   "options": [
+    "as",
+    "than",
+    "so",
+    "that"
+   ],
+   "translation": "Энэ сумд хониноос хоёр дахин олон ямаа бий.",
+   "explain_en": "The pattern is 'twice as many ... as'.",
+   "explain_mn": "«Twice as many ... as» бүтцийг хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Манай сумын энэ жилийн малын тооллогын дүн гарсан уу?",
+   "en": "Have this year's livestock census results for our soum come out?",
+   "mn_latin": "Manai sumyn ene jiliin malyn toollogyn dün garsan uu?"
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Гарсан. Нийт мал гурван сая орчим болсон, өнгөрсөн жилээс найман хувиар өссөн.",
+   "en": "Yes. The total is around three million head, up eight percent from last year.",
+   "mn_latin": "Garsan. Niit mal gurvan saya orchim bolson, öngörsön jilees naiman khuviar össön."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Сүргийн бүтэц ямар байна?",
+   "en": "What is the herd composition like?",
+   "mn_latin": "Sürgiin bütets yamar baina?"
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Ямаа тавин хувийг эзэлж байна. Хонь ямааны харьцаа нэг нэгийн харьцаатай шахуу.",
+   "en": "Goats make up fifty percent. The sheep-to-goat ratio is nearly one to one.",
+   "mn_latin": "Yamaa tavin khuviig ezelj baina. Khoni yamaany kharitsaa neg negiin kharitsaatai shakhuu."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Бэлчээрийн даацтай харьцуулахад яаж байна?",
+   "en": "How does that compare with the pasture's carrying capacity?",
+   "mn_latin": "Belcheeriin daatstai kharitsuulakhad yaaj baina?"
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Даацаас хоёр дахин их мал бэлчиж байгаа газар ч бий.",
+   "en": "In some places there are twice as many animals grazing as the pasture can carry.",
+   "mn_latin": "Daatsaas khoyor dakhin ikh mal belchij baigaa gazar ch bii."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэгвэл малын тоо буурах нь гарцаагүй юм байна.",
+   "en": "Then a decline seems unavoidable.",
+   "mn_latin": "Tegvel malyn too buurakh ni gartsaagüi yum baina."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Тийм ээ, малчдын таванны нэг нь сүргээ цөөлөхөөр шийдсэн.",
+   "en": "Yes, one in five herders has decided to reduce their herd.",
+   "mn_latin": "Tiim ee, malchdyn tavanny neg ni sürgee tsöölökhöör shiidsen."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia holds a national livestock census every year, and the results are often reported in millions of head: the total passed 70 million in recent years. Herders count five traditional animals, the «таван хошуу мал»: horses, cattle, camels, sheep and goats. Because goats produce cashmere, their share has grown fast, which worries ecologists concerned about overgrazing.",
+  "mn": "Монгол Улсад жил бүр малын тооллого явуулдаг бөгөөд дүнг ихэвчлэн сая толгойгоор мэдээлдэг: сүүлийн жилүүдэд нийт малын тоо 70 сая давсан. Малчид адуу, үхэр, тэмээ, хонь, ямаа гэсэн таван хошуу малыг тоолдог. Ямаа ноолуур өгдөг тул түүний эзлэх хувь хурдан өссөн нь бэлчээрийн доройтлын талаар экологичдыг түгшээж байна."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 19,
+  "notes": "Mostly sound content, but there are a few unnatural Mongolian constructions, a wrong possessive form (Дорноднхоос), an English fragment in the Mongolian grammar title, an inaccurate grammar description, and a broken fill-in-the-blank stem (хувь___)."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 12,
+  "notes": "Main fixes: the census month, the grammar explanation of the instrumental 'in terms of', the fill-in-the-blank distractor forms, and a few unnatural Mongolian phrasings.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "Mongolia's annual livestock census is held in December, not November."
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_en",
+    "why": "Matches the corrected month."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "The original had no subject for хэтэрсэн, so it did not say what exceeded the capacity."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "The '-ын хэмжээгээр' pattern is not what the lesson teaches."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The example «сүргийн бүтцээр» uses the instrumental ending, not the word хэмжээгээр."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "The particle нь is needed after the fraction used as subject."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The distractors now form real words (хувьд, хувийг, хувиас) instead of ill-formed ones."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "More accurate description of how the stem changes."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "«Үржвэр харьцуулахад» is unclear wording."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "«нэг нэгтэй» is not a natural way to state a ratio."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "«мал буурах» is unnatural; it is the number of animals that declines."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Fixes the awkward colon construction and makes the Mongolian match the English note."
+   }
+  ]
+ }
+}

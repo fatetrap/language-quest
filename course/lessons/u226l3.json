@@ -1,0 +1,413 @@
+{
+ "intro_en": "Learn how to ask a colleague to cover your shift and how to pass on handover instructions, such as closing out the register and leaving the key. You'll practice reporting requests in Mongolian with -аач/-ээч гэж гуйсан and -ж өгөөч гэсэн, and in English with \"ask someone to\" and \"ask if/whether.\"",
+ "intro_mn": "Хамт ажиллагсдаасаа ээлжээ орлуулахыг гуйх, касс хаах, түлхүүр үлдээх гэх мэт ээлж хүлээлгэж өгөх зааврыг дамжуулж сурна. Монгол хэлний \"-аач/-ээч гэж гуйсан\", \"-ж өгөөч гэсэн\" бүтэц болон англи хэлний \"ask someone to + үйл үг\", \"ask if/whether\" бүтцийг давтана.",
+ "vocab": [
+  {
+   "mn": "ээлж",
+   "en": "shift",
+   "pos": "noun",
+   "example_mn": "Маргааш би оройн ээлжтэй.",
+   "example_en": "I have the evening shift tomorrow.",
+   "mn_latin": "eelj"
+  },
+  {
+   "mn": "орлох",
+   "en": "to cover for, to substitute",
+   "pos": "verb",
+   "example_mn": "Өнөөдөр Баатар намайг орлоно.",
+   "example_en": "Baatar is covering for me today.",
+   "mn_latin": "orlokh"
+  },
+  {
+   "mn": "хүлээлгэж өгөх",
+   "en": "to hand over",
+   "pos": "verb",
+   "example_mn": "Би ээлжээ Сараад хүлээлгэж өгсөн.",
+   "example_en": "I handed over my shift to Saraa.",
+   "mn_latin": "khüleelgej ögökh"
+  },
+  {
+   "mn": "хүлээж авах",
+   "en": "to take over, to receive",
+   "pos": "verb",
+   "example_mn": "Өглөөний ээлжийг Номин хүлээж авна.",
+   "example_en": "Nomin will take over the morning shift.",
+   "mn_latin": "khüleej avakh"
+  },
+  {
+   "mn": "касс хаах",
+   "en": "to close out the register",
+   "pos": "verb phrase",
+   "example_mn": "Касс хаахдаа мөнгөө хоёр удаа тоолоорой.",
+   "example_en": "When you close out the register, count the money twice.",
+   "mn_latin": "kass khaakh"
+  },
+  {
+   "mn": "түлхүүр үлдээх",
+   "en": "to leave the key",
+   "pos": "verb phrase",
+   "example_mn": "Түлхүүрээ хамгаалагчид үлдээгээрэй.",
+   "example_en": "Leave the key with the security guard.",
+   "mn_latin": "tülkhüür üldeekh"
+  },
+  {
+   "mn": "ээлж солилцох",
+   "en": "to swap shifts",
+   "pos": "verb phrase",
+   "example_mn": "Бид Баасан гарагийн ээлжээ солилцож болох уу?",
+   "example_en": "Can we swap our Friday shifts?",
+   "mn_latin": "eelj soliltsokh"
+  },
+  {
+   "mn": "ээлжийн ахлагч",
+   "en": "shift supervisor",
+   "pos": "noun",
+   "example_mn": "Ээлжийн ахлагчид урьдчилж хэлээрэй.",
+   "example_en": "Tell the shift supervisor in advance.",
+   "mn_latin": "eeljiin akhlagch"
+  },
+  {
+   "mn": "ээлжийн тэмдэглэл",
+   "en": "shift log",
+   "pos": "noun",
+   "example_mn": "Ээлжийн тэмдэглэлд бүгдийг бичээрэй.",
+   "example_en": "Write everything in the shift log.",
+   "mn_latin": "eeljiin temdeglel"
+  },
+  {
+   "mn": "гуйх",
+   "en": "to ask (for), to request",
+   "pos": "verb",
+   "example_mn": "Тэр надаас тусламж гуйсан.",
+   "example_en": "She asked me for help.",
+   "mn_latin": "guikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Маргааш миний ээлжийг орлож өгөөч.",
+   "en": "Please cover my shift tomorrow.",
+   "alt_mn": [
+    "Маргааш намайг орлож өгөөч."
+   ],
+   "alt_en": [
+    "Could you cover my shift tomorrow?",
+    "Please cover for me tomorrow."
+   ],
+   "mn_latin": "Margaash minii eeljiig orloj ögööch."
+  },
+  {
+   "mn": "Болд надаас Бямба гарагийн ээлжийг нь орлож өгөөч гэж гуйсан.",
+   "en": "Bold asked me to cover his Saturday shift.",
+   "alt_mn": [],
+   "alt_en": [
+    "Bold asked me to cover his shift on Saturday."
+   ],
+   "mn_latin": "Bold nadaas Byamba garagiin eeljiig ni orloj ögööch gej guisan."
+  },
+  {
+   "mn": "Менежер кассаа есөн цагт хаагаач гэсэн.",
+   "en": "The manager asked us to close out the register at nine.",
+   "alt_mn": [
+    "Менежер кассаа есөн цагт хаагаач гэж хэлсэн."
+   ],
+   "alt_en": [
+    "The manager asked us to close the register at nine.",
+    "The manager told us to close out the register at nine."
+   ],
+   "mn_latin": "Myenyejyer kassaa yesön tsagt khaagaach gesen."
+  },
+  {
+   "mn": "Сараа түлхүүрээ хамгаалагчид үлдээж өгөөч гэсэн.",
+   "en": "Saraa asked me to leave the key with the security guard.",
+   "alt_mn": [
+    "Сараа түлхүүрээ хамгаалагчид үлдээж өгөөч гэж гуйсан."
+   ],
+   "alt_en": [
+    "Saraa asked me to leave the key with the guard."
+   ],
+   "mn_latin": "Saraa tülkhüüree khamgaalagchid üldeej ögööch gesen."
+  },
+  {
+   "mn": "Би түүнээс ээлжээ солилцож болох эсэхийг асуусан.",
+   "en": "I asked her if we could swap shifts.",
+   "alt_mn": [
+    "Би түүнээс ээлжээ солилцож болох уу гэж асуусан."
+   ],
+   "alt_en": [
+    "I asked her whether we could swap shifts.",
+    "I asked him if we could swap shifts."
+   ],
+   "mn_latin": "Bi tüünees eeljee soliltsoj bolokh esekhiig asuusan."
+  },
+  {
+   "mn": "Ээлжээ хүлээлгэж өгөхөөсөө өмнө ээлжийн тэмдэглэлээ бөглөөрэй.",
+   "en": "Before you hand over your shift, fill out the shift log.",
+   "alt_mn": [],
+   "alt_en": [
+    "Fill out the shift log before you hand over your shift.",
+    "Fill in the shift log before handing over your shift."
+   ],
+   "mn_latin": "Eeljee khüleelgej ögökhöösöö ömnö eeljiin temdeglelee böglöörei."
+  },
+  {
+   "mn": "Ахлагч Номиноос оройн ээлжийг хүлээж авч чадах эсэхийг асуусан.",
+   "en": "The supervisor asked Nomin whether she could take over the evening shift.",
+   "alt_mn": [],
+   "alt_en": [
+    "The supervisor asked Nomin if she could take over the evening shift."
+   ],
+   "mn_latin": "Akhlagch Nominoos oroin eeljiig khüleej avch chadakh esekhiig asuusan."
+  },
+  {
+   "mn": "Тэр надад касс хаахдаа мөнгөө хоёр удаа тоолоорой гэж хэлсэн.",
+   "en": "He told me to count the money twice when I close out the register.",
+   "alt_mn": [],
+   "alt_en": [
+    "She told me to count the money twice when closing out the register."
+   ],
+   "mn_latin": "Ter nadad kass khaakhdaa möngöö khoyor udaa toolooroi gej khelsen."
+  },
+  {
+   "mn": "Асуудал гарвал над руу залгаач гэж түүнд хэлээрэй.",
+   "en": "Tell him to call me if there's a problem.",
+   "alt_mn": [
+    "Асуудал гарвал над руу залгаарай гэж түүнд хэлээрэй."
+   ],
+   "alt_en": [
+    "Tell her to call me if there's a problem.",
+    "If there's a problem, tell him to call me."
+   ],
+   "mn_latin": "Asuudal garval nad ruu zalgaach gej tüünd kheleerei."
+  },
+  {
+   "mn": "Та намайг ирэх долоо хоногт орлож чадах уу?",
+   "en": "Could you cover for me next week?",
+   "alt_mn": [
+    "Та ирэх долоо хоногт намайг орлож чадах уу?"
+   ],
+   "alt_en": [
+    "Can you cover for me next week?"
+   ],
+   "mn_latin": "Ta namaig irekh doloo khonogt orloj chadakh uu?"
+  },
+  {
+   "mn": "Тэд надаас Пүрэв гарагт ажиллаж чадах эсэхийг асуусан.",
+   "en": "They asked me if I could work on Thursday.",
+   "alt_mn": [
+    "Тэд надаас Пүрэв гарагт ажиллаж чадах уу гэж асуусан."
+   ],
+   "alt_en": [
+    "They asked me whether I could work on Thursday."
+   ],
+   "mn_latin": "Ted nadaas Pürev garagt ajillaj chadakh esekhiig asuusan."
+  },
+  {
+   "mn": "Би Цэцэгээгээс ахлагчид урьдчилж мэдэгдээч гэж гуйсан.",
+   "en": "I asked Tsetsegee to let the supervisor know in advance.",
+   "alt_mn": [],
+   "alt_en": [
+    "I asked Tsetsegee to tell the supervisor in advance."
+   ],
+   "mn_latin": "Bi Tsetsegeegees akhlagchid uridchilj medegdeech gej guisan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reporting requests: -аач/-ээч гэж гуйсан, -ж өгөөч гэсэн",
+  "title_mn": "Хүсэлт дамжуулах: ask someone to + үйл үг, ask if/whether",
+  "explain_en": "The ending -аач/-ээч/-ооч/-өөч makes a warm, polite request: явах → яваач \"please go\". After a long vowel or diphthong it becomes -гаач/-гээч: хаах → хаагаач. Adding өгөх (\"give\") as -ж өгөөч makes it \"do it for me\": орлож өгөөч \"please cover for me\". To report a request, keep the request form and add гэж гуйсан (\"asked\"), гэсэн (\"said\") or гэж хэлсэн (\"told\"): Кассаа хаагаач гэсэн = \"She asked us to close out the register.\" To report a yes/no question, use -х эсэхийг асуусан: болох эсэхийг асуусан = \"asked if it was OK.\"",
+  "explain_mn": "Англи хэлэнд хэн нэгний хүсэлтийг дамжуулахдаа \"ask + хүн + to + үйл үг\" бүтцийг хэрэглэнэ: She asked me to leave the key. (Тэр түлхүүрээ үлдээж өгөөч гэсэн.) Үгүйсгэхдээ \"not to\" гэнэ: He asked me not to be late. Тийм/үгүй асуултыг дамжуулахдаа \"ask if/whether\" хэрэглэнэ: I asked her if we could swap shifts. Дамжуулсан асуултад үгийн дараалал энгийн өгүүлбэрийнх шиг байна (where the key was, where was the key биш), цаг нь ихэвчлэн нэг шат өнгөрсөн рүү шилжинэ (can → could, is → was).",
+  "examples": [
+   {
+    "mn": "Тэр надаас гарахдаа хаалгаа түгжээч гэж гуйсан.",
+    "en": "She asked me to lock the door when I leave.",
+    "mn_latin": "Ter nadaas garakhdaa khaalgaa tügjeech gej guisan."
+   },
+   {
+    "mn": "Ахлагч цонхнуудаа хааж өгөөч гэсэн.",
+    "en": "The supervisor asked me to close the windows.",
+    "mn_latin": "Akhlagch tsonkhnuudaa khaaj ögööch gesen."
+   },
+   {
+    "mn": "Би түүнээс маргааш ирж чадах эсэхийг асуусан.",
+    "en": "I asked him whether he could come tomorrow.",
+    "mn_latin": "Bi tüünees margaash irj chadakh esekhiig asuusan."
+   },
+   {
+    "mn": "Болд надаас түлхүүр хаана байгааг асуусан.",
+    "en": "Bold asked me where the key was.",
+    "mn_latin": "Bold nadaas tülkhüür khaana baigaag asuusan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Түлхүүрээ хамгаалагчид үлдээж өг___ гэсэн.",
+   "answer": "өөч",
+   "options": [
+    "өөч",
+    "аач",
+    "ооч",
+    "өөд"
+   ],
+   "translation": "She asked me to leave the key with the security guard.",
+   "explain_en": "-ж өгөөч is the polite \"do it for me\" request. The stem өг- takes the front-vowel ending -өөч, giving өгөөч. Followed by гэсэн, it reports what someone asked.",
+   "explain_mn": "\"-ж өгөөч\" нь эелдэг гуйлт. өг- үндэс эм эгшигтэй тул -өөч залгана. Ард нь \"гэсэн\" орж бусдын хүсэлтийг дамжуулж байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Менежер кассаа есөн цагт хаа___ гэж гуйсан.",
+   "answer": "гаач",
+   "options": [
+    "гаач",
+    "аач",
+    "гээч",
+    "сан"
+   ],
+   "translation": "The manager asked us to close out the register at nine.",
+   "explain_en": "The stem хаа- ends in a long vowel, so the request ending needs a linking г: хаа + гаач = хаагаач. It is a back-vowel word, so -гээч is wrong.",
+   "explain_mn": "хаа- үндэс урт эгшгээр төгссөн тул -аач-ийн өмнө холбох г орж \"хаагаач\" болно. Эр үг тул -гээч тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Би түүнээс ээлжээ солилцож болох ___ асуусан.",
+   "answer": "эсэхийг",
+   "options": [
+    "эсэхийг",
+    "уу",
+    "гэж",
+    "болохоор"
+   ],
+   "translation": "I asked her if we could swap shifts.",
+   "explain_en": "To report a yes/no question, Mongolian uses -х эсэхийг + асуусан (\"asked whether\"). \"уу\" would also need гэж after it (болох уу гэж асуусан).",
+   "explain_mn": "Тийм/үгүй асуултыг дамжуулахдаа \"-х эсэхийг асуусан\" бүтэц хэрэглэнэ. \"уу\" хэрэглэвэл ард нь заавал \"гэж\" орно."
+  },
+  {
+   "lang": "en",
+   "text": "Bold asked me ___ his shift on Saturday.",
+   "answer": "to cover",
+   "options": [
+    "to cover",
+    "cover",
+    "covering",
+    "that I cover"
+   ],
+   "translation": "Болд надаас Бямба гарагийн ээлжийг нь орлож өгөөч гэж гуйсан.",
+   "explain_en": "After \"ask + person,\" a request takes the to-infinitive: asked me to cover.",
+   "explain_mn": "\"ask + хүн\"-ий дараа хүсэлтийг \"to + үйл үг\" хэлбэрээр илэрхийлнэ: asked me to cover. -ing хэлбэр болон \"that\" энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I asked her ___ we could swap shifts.",
+   "answer": "if",
+   "options": [
+    "if",
+    "that",
+    "what",
+    "to"
+   ],
+   "translation": "Би түүнээс ээлжээ солилцож болох эсэхийг асуусан.",
+   "explain_en": "A reported yes/no question is introduced by \"if\" or \"whether,\" not \"that.\"",
+   "explain_mn": "Тийм/үгүй асуултыг дамжуулахдаа \"if\" эсвэл \"whether\" хэрэглэнэ. Энэ нь монгол хэлний \"-х эсэхийг\"-тэй дүйнэ. \"that\" энд буруу."
+  },
+  {
+   "lang": "en",
+   "text": "She asked me where the key ___.",
+   "answer": "was",
+   "options": [
+    "was",
+    "is it",
+    "was it",
+    "does"
+   ],
+   "translation": "Тэр надаас түлхүүр хаана байгааг асуусан.",
+   "explain_en": "In a reported question, the word order is like a statement (the key was), and the tense usually shifts back to the past.",
+   "explain_mn": "Дамжуулсан асуултад үгийн дараалал энгийн өгүүлбэрийнх шиг байна: \"where the key was\". \"was it\" гэвэл шууд асуултын дараалал болж буруу. Цаг нь өнгөрсөн цаг руу шилжинэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Болд оо, маргааш миний оройн ээлжийг орлож өгөөч. Эмээ маань өвдчихөөд хөдөө явах болсон.",
+   "en": "Bold, could you cover my evening shift tomorrow? My grandmother got sick, and I have to go to the countryside.",
+   "mn_latin": "Bold oo, margaash minii oroin eeljiig orloj ögööch. Emee maani övdchikhööd khödöö yavakh bolson."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "За, болно. Юу хийх ёстойг надад хэлээрэй.",
+   "en": "Sure, no problem. Tell me what I need to do.",
+   "mn_latin": "Za, bolno. Yuu khiikh yostoig nadad kheleerei."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Менежер кассаа есөн цагт хаагаач гэсэн. Мөнгөө хоёр удаа тоолоорой.",
+   "en": "The manager asked us to close out the register at nine. Count the money twice.",
+   "mn_latin": "Myenyejyer kassaa yesön tsagt khaagaach gesen. Möngöö khoyor udaa toolooroi."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Түлхүүрийг яах вэ?",
+   "en": "What about the key?",
+   "mn_latin": "Tülkhüüriig yaakh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Түлхүүрээ хамгаалагчид үлдээж өгөөч гэсэн. Бас ээлжийн тэмдэглэлээ бөглөөд өглөө Номинд хүлээлгэж өгөөрэй.",
+   "en": "She asked us to leave the key with the security guard. Also, fill out the shift log and hand it over to Nomin in the morning.",
+   "mn_latin": "Tülkhüüree khamgaalagchid üldeej ögööch gesen. Bas eeljiin temdeglelee böglööd öglöö Nomind khüleelgej ögöörei."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Ойлголоо. Ахлагчид хэлсэн үү?",
+   "en": "Got it. Did you tell the supervisor?",
+   "mn_latin": "Oilgoloo. Akhlagchid khelsen üü?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм ээ, би түүнээс чамаар орлуулж болох эсэхийг асуусан. Тэр зөвшөөрсөн.",
+   "en": "Yes, I asked her if you could cover for me. She said yes.",
+   "mn_latin": "Tiim ee, bi tüünees chamaar orluulj bolokh esekhiig asuusan. Ter zövshöörsön."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэгвэл санаа зоволтгүй. Эмээ чинь хурдан эдгэрээсэй.",
+   "en": "Then don't worry. I hope your grandmother gets better soon.",
+   "mn_latin": "Tegvel sanaa zovoltgüi. Emee chini khurdan edgereesei."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, colleagues often swap or cover shifts informally, and family reasons such as a sick relative in the countryside or preparations for Tsagaan Sar are widely accepted. The softer -ж өгөөч form, as in орлож өгөөч, sounds friendly and respectful, and many people thank the colleague afterward with a small treat or by covering for them in return.",
+  "mn": "Монголд хамт ажиллагсад ээлжээ албан бусаар солилцох, бие биеэ орлох нь түгээмэл. Хөдөө байгаа хамаатан садан өвдөх, Цагаан сарын бэлтгэл зэрэг гэр бүлийн шалтгааныг ихэнх хүн ойлгож хүлээн авдаг. \"Орлож өгөөч\" гэх зөөлөн хэлбэр найрсаг бөгөөд хүндэтгэлтэй сонсогддог. Олон хүн дараа нь хамт ажиллагсдаа жижиг амттанаар дайлах юм уу тэднийг эргүүлж орлож өгөх замаар талархлаа илэрхийлдэг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 2,
+  "notes": "A well-built lesson with natural Mongolian and English. There is one case-government error with гуйх and one inaccurate grammar term in an explanation."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "The lesson is mostly accurate. Fixed the incomplete mn intro, a case error after гуйх, and a fill-in-the-blank that had more than one valid answer.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the Mongolian structures mentioned in the en intro"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "гуйх takes the person in the ablative (надаас), not the accusative (намайг)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "өгсөн/өгөх гэсэн are also grammatical, so the blank had more than one answer; the new distractors test vowel harmony"
+   }
+  ]
+ }
+}

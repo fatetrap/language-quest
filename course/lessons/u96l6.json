@@ -1,0 +1,404 @@
+{
+ "intro_en": "Learn to present a season's excavation results at a conference. You will combine Mongolian inferential and hedging forms (-жээ, бололтой, -х шиг байна, байх магадлалтай, байж магадгүй, гэдэг) into one careful academic argument, and compare them with English hedging such as \"the findings appear to indicate\" and \"this points to.\"",
+ "intro_mn": "Нэг улирлын малтлагын үр дүнг эрдэм шинжилгээний хурал дээр хэрхэн танилцуулахыг сурна. Монгол хэлний таамаг, болгоомжлол илэрхийлэх хэлбэрүүдийг (-жээ, бололтой, -х шиг байна, байх магадлалтай, байж магадгүй, гэдэг) нэг эрдэм шинжилгээний үндэслэлд нэгтгэж, англи хэлний \"the findings appear to indicate\", \"this points to\" зэрэг болгоомжтой хэллэгтэй харьцуулна.",
+ "vocab": [
+  {
+   "mn": "таамаглал",
+   "en": "hypothesis",
+   "pos": "noun",
+   "example_mn": "Бидний таамаглал батлагдлаа.",
+   "example_en": "Our hypothesis was confirmed.",
+   "mn_latin": "taamaglal"
+  },
+  {
+   "mn": "тайлбар",
+   "en": "interpretation",
+   "pos": "noun",
+   "example_mn": "Энэ олдворын өөр тайлбар байж болно.",
+   "example_en": "There may be another interpretation of this find.",
+   "mn_latin": "tailbar"
+  },
+  {
+   "mn": "дүгнэлт",
+   "en": "conclusion",
+   "pos": "noun",
+   "example_mn": "Эцсийн дүгнэлт хийхэд одоогоор эрт байна.",
+   "example_en": "It's still too early to draw a final conclusion.",
+   "mn_latin": "dügnelt"
+  },
+  {
+   "mn": "нотолгоо",
+   "en": "evidence",
+   "pos": "noun",
+   "example_mn": "Шууд нотолгоо хараахан олдоогүй.",
+   "example_en": "No direct evidence has been found yet.",
+   "mn_latin": "notolgoo"
+  },
+  {
+   "mn": "илтгэл",
+   "en": "talk, conference paper",
+   "pos": "noun",
+   "example_mn": "Тэр бага хурал дээр илтгэл тавина.",
+   "example_en": "She will give a talk at the conference.",
+   "mn_latin": "iltgel"
+  },
+  {
+   "mn": "давхарга",
+   "en": "layer, stratum",
+   "pos": "noun",
+   "example_mn": "Доод давхаргаас шатсан мод гарсан.",
+   "example_en": "Burnt wood came out of the lower layer.",
+   "mn_latin": "davkharga"
+  },
+  {
+   "mn": "магадлалтай",
+   "en": "likely, probable",
+   "pos": "adjective",
+   "example_mn": "Энэ булш хүрэл зэвсгийн үеийнх байх магадлалтай.",
+   "example_en": "This grave is likely from the Bronze Age.",
+   "mn_latin": "magadlaltai"
+  },
+  {
+   "mn": "илтгэх",
+   "en": "to indicate, to point to",
+   "pos": "verb",
+   "example_mn": "Энэ ул мөр нүүдлийн амьдралыг илтгэнэ.",
+   "example_en": "This trace points to a nomadic way of life.",
+   "mn_latin": "iltgekh"
+  },
+  {
+   "mn": "батлах",
+   "en": "to confirm",
+   "pos": "verb",
+   "example_mn": "Радио нүүрстөрөгчийн шинжилгээ огноог баталсан.",
+   "example_en": "Radiocarbon analysis confirmed the date.",
+   "mn_latin": "batlakh"
+  },
+  {
+   "mn": "бололтой",
+   "en": "apparently, it seems",
+   "pos": "particle",
+   "example_mn": "Тэд энд өвөлжиж байсан бололтой.",
+   "example_en": "They apparently spent the winter here.",
+   "mn_latin": "bololtoi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ улирлын малтлагын үр дүнг танилцуулъя.",
+   "en": "Let me present the results of this season's excavation.",
+   "alt_mn": [
+    "Энэ улирлын малтлагын үр дүнг танилцуулах гэж байна."
+   ],
+   "alt_en": [
+    "I'd like to present the results of this season's excavation.",
+    "Let me present this season's excavation results."
+   ],
+   "mn_latin": "Ene ulirlyn maltlagyn ür düng taniltsuulya."
+  },
+  {
+   "mn": "Олдворууд энд байнгын суурин байсныг илтгэж байх шиг байна.",
+   "en": "The finds appear to indicate that there was a permanent settlement here.",
+   "alt_mn": [
+    "Олдворууд энд байнгын суурин байсныг илтгэх шиг байна."
+   ],
+   "alt_en": [
+    "The finds seem to indicate that there was a permanent settlement here.",
+    "The finds appear to point to a permanent settlement here."
+   ],
+   "mn_latin": "Oldvoruud end baingyn suurin baisnyg iltgej baikh shig baina."
+  },
+  {
+   "mn": "Хүмүүс энд төмөр хайлуулж байжээ.",
+   "en": "People were apparently smelting iron here.",
+   "alt_mn": [],
+   "alt_en": [
+    "Apparently, people were smelting iron here.",
+    "It seems people smelted iron here."
+   ],
+   "mn_latin": "Khümüüs end tömör khailuulj baijee."
+  },
+  {
+   "mn": "Энэ нь Хүннүгийн үеийн булш байх магадлалтай.",
+   "en": "This is likely a Xiongnu-period grave.",
+   "alt_mn": [
+    "Энэ Хүннүгийн үеийн булш байх магадлалтай."
+   ],
+   "alt_en": [
+    "This is probably a Xiongnu-period grave.",
+    "This is most likely a grave from the Xiongnu period."
+   ],
+   "mn_latin": "Ene ni Khünnügiin üyeiin bulsh baikh magadlaltai."
+  },
+  {
+   "mn": "Шууд нотолгоо хараахан олдоогүй тул энэ бол зөвхөн таамаглал юм.",
+   "en": "Since no direct evidence has been found yet, this is only a hypothesis.",
+   "alt_mn": [
+    "Шууд нотолгоо одоогоор олдоогүй учир энэ бол зөвхөн таамаглал юм."
+   ],
+   "alt_en": [
+    "As no direct evidence has been found yet, this is just a hypothesis."
+   ],
+   "mn_latin": "Shuud notolgoo kharaakhan oldoogüi tul ene bol zövkhön taamaglal yum."
+  },
+  {
+   "mn": "Шатсан ясны үлдэгдэл энд тахилгын зан үйл хийдэг байсныг харуулж магадгүй.",
+   "en": "The burnt bone remains may show that sacrificial rituals were performed here.",
+   "alt_mn": [
+    "Шатсан ясны үлдэгдэл энд тахилгын зан үйл хийдэг байсныг харуулж байж магадгүй."
+   ],
+   "alt_en": [
+    "The burnt bone remains might show that sacrificial rituals were performed here.",
+    "The burnt bone remains may point to sacrificial rituals here."
+   ],
+   "mn_latin": "Shatsan yasny üldegdel end takhilgyn zan üil khiideg baisnyg kharuulj magadgüi."
+  },
+  {
+   "mn": "Бидний анхны таамаглал хэсэгчлэн батлагдсан гэж хэлж болно.",
+   "en": "We can say that our initial hypothesis was partly confirmed.",
+   "alt_mn": [],
+   "alt_en": [
+    "It can be said that our initial hypothesis was partially confirmed."
+   ],
+   "mn_latin": "Bidnii ankhny taamaglal khesegchlen batlagdsan gej khelj bolno."
+  },
+  {
+   "mn": "Гэхдээ өөр тайлбарыг үгүйсгэх аргагүй.",
+   "en": "However, an alternative interpretation cannot be ruled out.",
+   "alt_mn": [
+    "Гэвч өөр тайлбарыг үгүйсгэх аргагүй."
+   ],
+   "alt_en": [
+    "However, we cannot rule out another interpretation."
+   ],
+   "mn_latin": "Gekhdee öör tailbaryg ügüisgekh argagüi."
+  },
+  {
+   "mn": "Эдгээр шавар савыг өөр газраас авчирсан бололтой.",
+   "en": "These clay pots were apparently brought from somewhere else.",
+   "alt_mn": [],
+   "alt_en": [
+    "These clay pots seem to have been brought from elsewhere.",
+    "Apparently, these clay pots were brought from elsewhere."
+   ],
+   "mn_latin": "Edgeer shavar savyg öör gazraas avchirsan bololtoi."
+  },
+  {
+   "mn": "Эцсийн дүгнэлт хийхийн тулд нэмэлт шинжилгээ шаардлагатай.",
+   "en": "Further analysis is needed to reach a final conclusion.",
+   "alt_mn": [
+    "Эцсийн дүгнэлт гаргахын тулд нэмэлт шинжилгээ шаардлагатай."
+   ],
+   "alt_en": [
+    "More analysis is needed before we can reach a final conclusion."
+   ],
+   "mn_latin": "Etssiin dügnelt khiikhiin tuld nemelt shinjilgee shaardlagatai."
+  },
+  {
+   "mn": "Энэ хээ угалз Алтайн соёлтой холбоотой байсныг илтгэж байна.",
+   "en": "This ornament points to a connection with Altai culture.",
+   "alt_mn": [],
+   "alt_en": [
+    "This ornamentation indicates a link with Altai culture."
+   ],
+   "mn_latin": "Ene khee ugalz Altain soyoltoi kholbootoi baisnyg iltgej baina."
+  },
+  {
+   "mn": "Нутгийн малчид энэ толгой дээр эрт цагт хот байсан гэдэг.",
+   "en": "Local herders say there was once a town on this hill.",
+   "alt_mn": [
+    "Нутгийн малчдын ярьснаар энэ толгой дээр эрт цагт хот байсан гэдэг."
+   ],
+   "alt_en": [
+    "According to local herders, there was once a town on this hill."
+   ],
+   "mn_latin": "Nutgiin malchid ene tolgoi deer ert tsagt khot baisan gedeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "Layering certainty: Mongolian inferential and hedging forms in academic argument",
+  "title_mn": "Англи хэлний болгоомжтой хэллэг: appear to, seem to, point to, may, likely",
+  "explain_en": "A good Mongolian talk shows exactly how sure you are, and each form signals a different source or strength of evidence. -жээ/-чээ is a past tense for something you did not witness but reconstruct from traces (\"people were apparently smelting iron here\"). The particle бололтой means \"it seems\" and is based on visible evidence. -х шиг байна means \"appears to.\" байх магадлалтай means \"likely,\" and байж магадгүй means \"possibly.\" гэдэг reports what others say (hearsay). The verb илтгэх (\"to indicate\") lets the evidence itself do the claiming. Mix them as your argument moves from data to hypothesis to a cautious conclusion.",
+  "explain_mn": "Англи хэлний эрдэм шинжилгээний илтгэлд шууд \"энэ бол...\" гэхээсээ илүү болгоомжтой хэлдэг. Нотолгоог өгүүлбэрийн эзэн болгоно: \"The findings indicate / point to / suggest...\" (Олдворууд ... илтгэж байна). Итгэлийг сулруулахын тулд \"appear to / seem to\" (-х шиг байна), \"apparently\" (-жээ, бололтой), \"is likely to / probably\" (байх магадлалтай), \"may / might\" (байж магадгүй) хэрэглэнэ. Бусдын яриаг \"according to...\" эсвэл \"... say\" (гэдэг) гэж дамжуулна. \"cannot be ruled out\" (үгүйсгэх аргагүй) хэллэгийг бас түгээмэл хэрэглэдэг.",
+  "examples": [
+   {
+    "mn": "Энд төмөр хайлуулж байжээ.",
+    "en": "Iron was apparently smelted here.",
+    "mn_latin": "End tömör khailuulj baijee."
+   },
+   {
+    "mn": "Олдворууд байнгын суурин байсныг илтгэж байх шиг байна.",
+    "en": "The findings appear to indicate a permanent settlement.",
+    "mn_latin": "Oldvoruud baingyn suurin baisnyg iltgej baikh shig baina."
+   },
+   {
+    "mn": "Энэ нь тахилгын газар байх магадлалтай, гэхдээ өөр тайлбарыг үгүйсгэх аргагүй.",
+    "en": "This is likely a ritual site, but an alternative interpretation cannot be ruled out.",
+    "mn_latin": "Ene ni takhilgyn gazar baikh magadlaltai, gekhdee öör tailbaryg ügüisgekh argagüi."
+   },
+   {
+    "mn": "Малчид энд эрт цагт хот байсан гэдэг.",
+    "en": "Herders say there was once a town here.",
+    "mn_latin": "Malchid end ert tsagt khot baisan gedeg."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хүмүүс энд төмөр хайлуулж бай___.",
+   "answer": "жээ",
+   "options": [
+    "жээ",
+    "на",
+    "лаа",
+    "гаарай"
+   ],
+   "translation": "People were apparently smelting iron here.",
+   "explain_en": "-жээ is the inferential past. You did not see the smelting yourself, so you reconstruct it from the slag and furnace remains. That is exactly the stance an archaeologist takes.",
+   "explain_mn": "-жээ нь өөрөө хараагүй, ул мөрөөр нь дүгнэсэн өнгөрсөн цагийг илэрхийлнэ. Англиар \"apparently\" эсвэл \"it seems\" гэж орчуулна."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ булш Хүннүгийн үеийнх байх ___.",
+   "answer": "магадлалтай",
+   "options": [
+    "магадлалтай",
+    "нотолгоо",
+    "дүгнэлт",
+    "таамаглал"
+   ],
+   "translation": "This grave is likely from the Xiongnu period.",
+   "explain_en": "байх магадлалтай means \"is likely to be.\" It expresses fairly strong but not full certainty. The other options are nouns and cannot follow байх here.",
+   "explain_mn": "\"байх магадлалтай\" нь англиар \"is likely\" буюу \"probably\" гэсэн утгатай. Итгэл нэлээд өндөр боловч бүрэн биш байгааг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Эдгээр савыг өөр газраас авчирсан ___.",
+   "answer": "бололтой",
+   "options": [
+    "бололтой",
+    "тул",
+    "мэт",
+    "гэх"
+   ],
+   "translation": "These pots were apparently brought from somewhere else.",
+   "explain_en": "бололтой (\"it seems, apparently\") goes after the past participle -сан and closes the sentence. It means you are inferring from what you can see, such as clay that is foreign to the site.",
+   "explain_mn": "\"-сан бололтой\" нь англиар \"apparently\" эсвэл \"seem to have been\" гэсэн утгатай. Харагдаж буй нотолгоонд тулгуурласан дүгнэлт юм."
+  },
+  {
+   "lang": "en",
+   "text": "The findings ___ to indicate a permanent settlement.",
+   "answer": "appear",
+   "options": [
+    "appear",
+    "show",
+    "prove",
+    "point"
+   ],
+   "translation": "Олдворууд байнгын суурин байсныг илтгэж байх шиг байна.",
+   "explain_en": "\"Appear to + verb\" is the classic academic hedge. \"Show,\" \"prove,\" and \"point\" cannot be followed by \"to indicate.\"",
+   "explain_mn": "\"appear to + үйл үг\" нь \"-х шиг байна\" гэсэн болгоомжтой хэллэг. \"show\", \"prove\", \"point\" үгсийн араас \"to indicate\" ордоггүй."
+  },
+  {
+   "lang": "en",
+   "text": "This evidence points ___ a ritual function.",
+   "answer": "to",
+   "options": [
+    "to",
+    "at",
+    "for",
+    "on"
+   ],
+   "translation": "Энэ нотолгоо зан үйлийн зориулалттай байсныг илтгэж байна.",
+   "explain_en": "The fixed phrase is \"point to something,\" meaning to indicate or suggest it.",
+   "explain_mn": "\"point to\" нь \"илтгэх, заах\" гэсэн тогтмол хэллэг. Үргэлж \"to\" угтвартай хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "An alternative interpretation cannot be ruled ___.",
+   "answer": "out",
+   "options": [
+    "out",
+    "off",
+    "away",
+    "down"
+   ],
+   "translation": "Өөр тайлбарыг үгүйсгэх аргагүй.",
+   "explain_en": "\"Rule out\" means to exclude a possibility. \"Cannot be ruled out\" is a standard cautious phrase in academic talks.",
+   "explain_mn": "\"rule out\" нь \"үгүйсгэх, хасах\" гэсэн утгатай. \"cannot be ruled out\" нь \"үгүйсгэх аргагүй\" гэсэн эрдэм шинжилгээний түгээмэл хэллэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarnai",
+   "mn": "Энэ улирлын малтлагаар бид гурван давхарга илрүүлсэн.",
+   "en": "During this season's excavation, we uncovered three layers.",
+   "mn_latin": "Ene ulirlyn maltlagaar bid gurvan davkharga ilrüülsen."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Дунд давхаргаас олдсон шавар савнууд энд хүмүүс удаан хугацаанд амьдарч байсныг илтгэж байх шиг байна.",
+   "en": "The clay pots from the middle layer appear to indicate that people lived here for a long time.",
+   "mn_latin": "Dund davkhargaas oldson shavar savnuud end khümüüs udaan khugatsaand amidarch baisnyg iltgej baikh shig baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Баярлалаа. Огноо хэр найдвартай вэ?",
+   "en": "Thank you. How reliable is the date?",
+   "mn_latin": "Bayarlalaa. Ognoo kher naidvartai ve?"
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Радио нүүрстөрөгчийн шинжилгээ одоо ч хийгдэж байгаа тул эцсийн дүгнэлт хийхэд эрт байна.",
+   "en": "The radiocarbon analysis is still underway, so it's too early to draw a final conclusion.",
+   "mn_latin": "Radio nüürstörögchiin shinjilgee odoo ch khiigdej baigaa tul etssiin dügnelt khiikhed ert baina."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Шатсан ясыг тахилгын зан үйлтэй холбож тайлбарлах боломжтой юу?",
+   "en": "Could the burnt bones be interpreted as linked to sacrificial rituals?",
+   "mn_latin": "Shatsan yasyg takhilgyn zan üiltei kholboj tailbarlakh bolomjtoi yuu?"
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Тийм байж магадгүй. Гэхдээ энд зүгээр л хоол хийдэг байжээ гэсэн тайлбарыг ч үгүйсгэх аргагүй.",
+   "en": "That's possible. But we can't rule out the interpretation that people were simply cooking here.",
+   "mn_latin": "Tiim baij magadgüi. Gekhdee end zügeer l khool khiideg baijee gesen tailbaryg ch ügüisgekh argagüi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгэхээр нотолгоо хоёр өөр тайлбарыг дэмжиж байх шиг байна, тийм үү?",
+   "en": "So the evidence seems to support two different interpretations?",
+   "mn_latin": "Tegekheer notolgoo khoyor öör tailbaryg demjij baikh shig baina, tiim üü?"
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Яг тийм. Ирэх улиралд энэ таамаглалыг шалгана.",
+   "en": "Exactly. We'll test this hypothesis next season.",
+   "mn_latin": "Yag tiim. Irekh ulirald ene taamaglalyg shalgana."
+  }
+ ],
+ "culture_note": {
+  "en": "Many excavations in Mongolia are joint expeditions between the Mongolian Academy of Sciences and foreign universities, so results are often presented in both Mongolian and English. Field seasons usually run through the short summer, and teams report their findings at conferences in Ulaanbaatar during the autumn and winter. Mongolian archaeologists often add local herders' oral traditions to their talks, carefully marked with гэдэг (\"they say\").",
+  "mn": "Монголд олон малтлагыг ШУА-ийн эрдэмтэд гадаадын их сургуулиудтай хамтран хийдэг тул үр дүнгээ монгол, англи хоёр хэлээр танилцуулах нь элбэг. Хээрийн судалгаа ихэвчлэн богино зуны улиралд явагдаж, судлаачид намар, өвлийн улиралд Улаанбаатарт болдог хурлуудад үр дүнгээ илтгэдэг. Монгол археологичид нутгийн малчдын аман яриаг илтгэлдээ оруулахдаа \"гэдэг\" гэж болгоомжтой тэмдэглэдэг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A strong, natural B2 lesson with accurate translations. The only real error is a grammar-term slip in the Mongolian explanation."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 1,
+  "notes": "Lesson is in very good shape. The only fix adds 'одоо ч' so the Mongolian matches 'still underway'; the audience-specific grammar titles and explanations are kept as designed.",
+  "changes": [
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "Mongolian lacked 'still' (одоо ч) from the English 'still underway'"
+   }
+  ]
+ }
+}

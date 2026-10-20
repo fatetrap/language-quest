@@ -1,0 +1,494 @@
+{
+ "intro_en": "You will learn to write and present a short proposal for a playground or courtyard improvement, and to answer objections politely. You will also review both/either/neither/all/none in English and the Mongolian patterns ч гэсэн, -аас өөр and зөвхөн ... л.",
+ "intro_mn": "Та хүүхдийн тоглоомын талбай эсвэл хашааг сайжруулах богино санал бичиж, танилцуулж, эсэргүүцэлд эелдгээр хариулж сурна. Мөн англи хэлний both/either/neither/all/none болон монгол хэлний ч гэсэн, -аас өөр, зөвхөн ... л бүтцийг давтана.",
+ "vocab": [
+  {
+   "mn": "төсөл",
+   "en": "project",
+   "pos": "noun",
+   "example_mn": "Бид хашааг засах төсөл бичсэн.",
+   "example_en": "We wrote a project to fix up the courtyard.",
+   "mn_latin": "tösöl"
+  },
+  {
+   "mn": "төсөв",
+   "en": "budget",
+   "pos": "noun",
+   "example_mn": "Энэ төслийн төсөв хэд вэ?",
+   "example_en": "What is the budget for this project?",
+   "mn_latin": "tösöv"
+  },
+  {
+   "mn": "тоглоомын талбай",
+   "en": "playground",
+   "pos": "noun",
+   "example_mn": "Манай байрны өмнө тоглоомын талбай алга.",
+   "example_en": "There is no playground in front of our building.",
+   "mn_latin": "togloomyn talbai"
+  },
+  {
+   "mn": "дэмжих",
+   "en": "to support",
+   "pos": "verb",
+   "example_mn": "Ихэнх айл санааг маань дэмжсэн.",
+   "example_en": "Most families supported my idea.",
+   "mn_latin": "demjikh"
+  },
+  {
+   "mn": "эсэргүүцэх",
+   "en": "to object, to oppose",
+   "pos": "verb",
+   "example_mn": "Зарим хүн модыг огтлохыг эсэргүүцсэн.",
+   "example_en": "Some people objected to cutting the trees.",
+   "mn_latin": "esergüütsekh"
+  },
+  {
+   "mn": "зөвшилцөл",
+   "en": "consensus, agreement",
+   "pos": "noun",
+   "example_mn": "Бид удаан ярилцаад зөвшилцөлд хүрсэн.",
+   "example_en": "After a long talk we reached a consensus.",
+   "mn_latin": "zövshiltsöl"
+  },
+  {
+   "mn": "санал",
+   "en": "proposal, suggestion",
+   "pos": "noun",
+   "example_mn": "Миний саналыг сонсоно уу.",
+   "example_en": "Please listen to my proposal.",
+   "mn_latin": "sanal"
+  },
+  {
+   "mn": "хашаа",
+   "en": "courtyard, yard",
+   "pos": "noun",
+   "example_mn": "Хашаанд машин зогсоход хүүхдэд аюултай.",
+   "example_en": "Cars parked in the courtyard are dangerous for children.",
+   "mn_latin": "khashaa"
+  },
+  {
+   "mn": "санхүүжүүлэх",
+   "en": "to fund, to finance",
+   "pos": "verb",
+   "example_mn": "Дүүрэг төслийн тал хувийг санхүүжүүлнэ.",
+   "example_en": "The district will fund half of the project.",
+   "mn_latin": "sankhüüjüülekh"
+  },
+  {
+   "mn": "аюулгүй байдал",
+   "en": "safety",
+   "pos": "noun",
+   "example_mn": "Хүүхдийн аюулгүй байдал бидэнд хамгийн чухал.",
+   "example_en": "Children's safety is the most important thing to us.",
+   "mn_latin": "ayuulgüi baidal"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид хашаандаа шинэ тоглоомын талбай барих төсөл санал болгож байна.",
+   "en": "We are proposing a project to build a new playground in our courtyard.",
+   "alt_mn": [],
+   "alt_en": [
+    "We propose a project to build a new playground in our yard."
+   ],
+   "mn_latin": "Bid khashaandaa shine togloomyn talbai barikh tösöl sanal bolgoj baina."
+  },
+  {
+   "mn": "Төслийн төсөв гурван сая төгрөг.",
+   "en": "The project budget is three million tugrik.",
+   "alt_mn": [
+    "Төслийн төсөв гурван сая төгрөг байна."
+   ],
+   "alt_en": [
+    "The budget for the project is three million tugriks."
+   ],
+   "mn_latin": "Tösliin tösöv gurvan saya tögrög."
+  },
+  {
+   "mn": "Хоёр хувилбар хоёулаа боломжийн, гэхдээ аль нэгийг нь сонгох хэрэгтэй.",
+   "en": "Both options are reasonable, but we need to choose one of them.",
+   "alt_mn": [],
+   "alt_en": [
+    "Both options are realistic, but we have to pick one."
+   ],
+   "mn_latin": "Khoyor khuvilbar khoyoulaa bolomjiin, gekhdee ali negiig ni songokh kheregtei."
+  },
+  {
+   "mn": "Аль ч хувилбар хүүхдийн аюулгүй байдлыг дээшлүүлнэ.",
+   "en": "Either option will improve children's safety.",
+   "alt_mn": [
+    "Аль ч хувилбар хүүхдийг аюулгүй болгоно."
+   ],
+   "alt_en": [
+    "Either choice will make children safer."
+   ],
+   "mn_latin": "Ali ch khuvilbar khüükhdiin ayuulgüi baidlyg deeshlüülne."
+  },
+  {
+   "mn": "Энэ хоёр санааны аль нь ч мөнгө шаарддаггүй.",
+   "en": "Neither of these two ideas requires money.",
+   "alt_mn": [],
+   "alt_en": [
+    "Neither of the two ideas needs money."
+   ],
+   "mn_latin": "Ene khoyor sanaany ali ni ch möngö shaarddaggüi."
+  },
+  {
+   "mn": "Төсөв бага ч гэсэн бид эхний ээлжийг эхлүүлж чадна.",
+   "en": "Even though the budget is small, we can still start the first stage.",
+   "alt_mn": [],
+   "alt_en": [
+    "Even if the budget is small, we can start the first phase."
+   ],
+   "mn_latin": "Tösöv baga ch gesen bid ekhnii eeljiig ekhlüülj chadna."
+  },
+  {
+   "mn": "Таны санаа сайн ч гэсэн хашаанд зогсоолоос өөр зай байхгүй.",
+   "en": "Your idea is good, but there's no space in the courtyard other than the parking area.",
+   "alt_mn": [],
+   "alt_en": [
+    "Your idea is good, but the yard has no space besides the parking area."
+   ],
+   "mn_latin": "Tany sanaa sain ch gesen khashaand zogsooloos öör zai baikhgüi."
+  },
+  {
+   "mn": "Эцэг эхчүүдээс өөр хэн ч энэ төслийг хариуцахгүй.",
+   "en": "No one other than the parents will take responsibility for this project.",
+   "alt_mn": [],
+   "alt_en": [
+    "Nobody except the parents will be in charge of this project."
+   ],
+   "mn_latin": "Etseg ekhchüüdees öör khen ch ene tösliig khariutsakhgüi."
+  },
+  {
+   "mn": "Бидэнд зөвхөн нэг хэсгийг л өөрчлөх мөнгө байна.",
+   "en": "We only have enough money to change one section.",
+   "alt_mn": [],
+   "alt_en": [
+    "We have money to change only one section."
+   ],
+   "mn_latin": "Bidend zövkhön neg khesgiig l öörchlökh möngö baina."
+  },
+  {
+   "mn": "Ердөө хоёр хүн л эсэргүүцсэн болохоор бид зөвшилцөлд ойрхон байна.",
+   "en": "Since just two people objected, we are close to a consensus.",
+   "alt_mn": [],
+   "alt_en": [
+    "Only two people objected, so we're close to consensus."
+   ],
+   "mn_latin": "Yerdöö khoyor khün l esergüütssen bolokhoor bid zövshiltsöld oirkhon baina."
+  },
+  {
+   "mn": "Зөвхөн хоёр л хүн эсэргүүцсэн болохоор бид зөвшилцөлд ойрхон байна.",
+   "en": "Since only two people objected, we are close to a consensus.",
+   "alt_mn": [],
+   "alt_en": [
+    "Only two people objected, so we are close to consensus."
+   ],
+   "mn_latin": "Zövkhön khoyor l khün esergüütssen bolokhoor bid zövshiltsöld oirkhon baina."
+  },
+  {
+   "mn": "Бид таны санааг дэмжиж байгаа, гэхдээ эхлээд хөрш айлуудтайгаа зөвшилцөх хэрэгтэй.",
+   "en": "We support your idea, but first we need to reach agreement with our neighbors.",
+   "alt_mn": [],
+   "alt_en": [
+    "We back your idea, but we should first reach a consensus with the neighbors."
+   ],
+   "mn_latin": "Bid tany sanaag demjij baigaa, gekhdee ekhleed khörsh ailuudtaigaa zövshiltsökh kheregtei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Persuasive combos: ч гэсэн, -аас өөр, зөвхөн ... л",
+  "title_mn": "Үнэмшилтэй ярианы бүтэц: ч гэсэн, -аас өөр, зөвхөн ... л",
+  "explain_en": "Use ч гэсэн after a clause to mean 'even if / still': Төсөв бага ч гэсэн... 'Even if the budget is small...'. Use noun + -аас өөр for 'other than / except': эцэг эхээс өөр хүн 'anyone other than the parents'. With a negative verb it means 'no one but': Эцэг эхээс өөр хэн ч хариуцахгүй. Use зөвхөн ... л to stress 'only, just': зөвхөн нэг хэсгийг л 'just one section'. Both/either/neither/all/none are the English tools for the same job (see the examples).",
+  "explain_mn": "Англи хэлэнд both нь хоёрыг хамтад нь (Both plans are good), either нь хоёрын аль нэг (Either plan works), neither нь хоёрын аль нь ч биш (Neither plan costs much) гэсэн утгатай. All нь гурав ба түүнээс олныг бүгдийг (All the families agree), none нь нэг нь ч биш (None of them objected) гэсэн утгатай. Neither, none нь өөрөө үгүйсгэх утгатай тул not-гүй хэрэглэнэ: Neither plan is expensive. 'Neither of' болон 'none of'-ийн дараа олон тооны нэр үг, 'the/these' орно: none of the neighbors.",
+  "examples": [
+   {
+    "mn": "Төсөв бага ч гэсэн бид эхэлнэ.",
+    "en": "Even if the budget is small, we will start.",
+    "mn_latin": "Tösöv baga ch gesen bid ekhelne."
+   },
+   {
+    "mn": "Эцэг эхээс өөр хэн ч мөнгө өгөхгүй.",
+    "en": "No one other than the parents will give money.",
+    "mn_latin": "Etseg ekhees öör khen ch möngö ögökhgüi."
+   },
+   {
+    "mn": "Бид зөвхөн нэг талбайг л засна.",
+    "en": "We will fix just one playground.",
+    "mn_latin": "Bid zövkhön neg talbaig l zasna."
+   },
+   {
+    "mn": "Хоёр санал хоёулаа сайн.",
+    "en": "Both proposals are good.",
+    "mn_latin": "Khoyor sanal khoyoulaa sain."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Төсөв бага ___ гэсэн бид төслөө эхлүүлнэ.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "аас",
+    "л",
+    "бол"
+   ],
+   "translation": "Even if the budget is small, we will start our project.",
+   "explain_en": "ч гэсэн means 'even if / still'; ч goes right before гэсэн.",
+   "explain_mn": "«ч гэсэн» нь «хэдий ч, байсан ч» гэсэн утгатай; «ч» нь «гэсэн»-ий өмнө орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Эцэг эхчүүд___ өөр хэн ч энэ ажлыг хийхгүй.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "д",
+    "ийг",
+    "тэй"
+   ],
+   "translation": "No one other than the parents will do this work.",
+   "explain_en": "-аас өөр uses the ablative: эцэг эхчүүд + ээс (vowel harmony: э).",
+   "explain_mn": "«-аас өөр» нь гарахын тийн ялгалтай нийлнэ; эцэг эхчүүд → эцэг эхчүүдээс."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид зөвхөн нэг хэсгийг ___ засна.",
+   "answer": "л",
+   "options": [
+    "л",
+    "ч",
+    "бас",
+    "ёстой"
+   ],
+   "translation": "We will fix only one section.",
+   "explain_en": "зөвхөн ... л is a pair meaning 'only'; л follows the emphasized part.",
+   "explain_mn": "«зөвхөн ... л» хос нь «зөвхөн, ганцхан» гэсэн хязгаарлах утгатай; «л» онцолсон үгийн ард орно."
+  },
+  {
+   "lang": "en",
+   "text": "___ of the two plans costs too much, so we can choose either.",
+   "answer": "Neither",
+   "options": [
+    "Neither",
+    "None",
+    "Both",
+    "All"
+   ],
+   "translation": "Хоёр төлөвлөгөөний аль нь ч хэт үнэтэй биш тул аль нэгийг нь сонгож болно.",
+   "explain_en": "Two things plus a negative meaning: neither. None is for three or more.",
+   "explain_mn": "Хоёр зүйлийн хувьд үгүйсгэхдээ neither; none нь гурваас дээш үед."
+  },
+  {
+   "lang": "en",
+   "text": "___ the neighbors signed the petition, so we have strong support.",
+   "answer": "All",
+   "options": [
+    "All",
+    "Either",
+    "Neither",
+    "Both"
+   ],
+   "translation": "Бүх хөршүүд өргөдөлд гарын үсэг зурсан тул бидэнд хүчтэй дэмжлэг бий.",
+   "explain_en": "All is for three or more people; 'all the neighbors' takes a plural.",
+   "explain_mn": "Гурваас олон хүнд all хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I asked about the swings and the slide, and ___ is possible this year.",
+   "answer": "neither",
+   "options": [
+    "neither",
+    "both",
+    "none",
+    "all"
+   ],
+   "translation": "Би савлуур, гулгуурын талаар асуусан бөгөөд энэ жил аль нь ч боломжгүй.",
+   "explain_en": "Two items, both negative: neither is. Both would need 'are' and would mean yes to each.",
+   "explain_mn": "Хоёр зүйл аль аль нь боломжгүй тул neither."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Сайн байцгаана уу. Би манай хашаанд хүүхдийн тоглоомын талбай барих төсөл танилцуулъя.",
+   "en": "Hello everyone. Let me present a project to build a children's playground in our courtyard.",
+   "mn_latin": "Sain baitsgaana uu. Bi manai khashaand khüükhdiin togloomyn talbai barikh tösöl taniltsuulya."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Төсөв нь хоёр сая таван зуун мянган төгрөг. Дүүрэг тал хувийг нь санхүүжүүлнэ.",
+   "en": "The budget is 2.5 million tugrik. The district will fund half of it.",
+   "mn_latin": "Tösöv ni khoyor saya tavan zuun myangan tögrög. Düüreg tal khuviig ni sankhüüjüülne."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Санаа сайн ч гэсэн би эсэргүүцэж байна. Тэнд машинууд зогсдог.",
+   "en": "It's a good idea, but I object. Cars park there.",
+   "mn_latin": "Sanaa sain ch gesen bi esergüütsej baina. Tend mashinuud zogsdog."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ойлгож байна. Хоёр хувилбар хоёулаа зогсоолын зайг хөндөхгүй.",
+   "en": "I understand. Both options leave the parking space alone.",
+   "mn_latin": "Oilgoj baina. Khoyor khuvilbar khoyoulaa zogsoolyn zaig khöndökhgüi."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэгвэл мөнгийг хэн төлөх вэ?",
+   "en": "Then who will pay?",
+   "mn_latin": "Tegvel möngiig khen tölökh ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Дүүргээс өөр нэг ивээн тэтгэгч бий. Айлууд зөвхөн бага хувийг л нэмнэ.",
+   "en": "There is a sponsor other than the district. Families would add only a small share.",
+   "mn_latin": "Düürgees öör neg iveen tetgegch bii. Ailuud zövkhön baga khuviig l nemne."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Хэрэв тийм бол би дэмжье. Бүх айл зөвшилцвөл сайн.",
+   "en": "If so, I'll support it. It would be good if all the families agree.",
+   "mn_latin": "Kherev tiim bol bi demjiye. Bükh ail zövshiltsvöl sain."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Баярлалаа. Ирэх долоо хоногт санал хураалт явуулна.",
+   "en": "Thank you. We'll hold a vote next week.",
+   "mn_latin": "Bayarlalaa. Irekh doloo khonogt sanal khuraalt yavuulna."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many courtyard and playground projects start at the khoroo or district level, where residents bring proposals and sometimes share costs with the district. Neighbors often discuss ideas informally first, and a respectful tone and a wish for consensus matter a great deal. Ger-district communities also organize cleanups and small improvements together.",
+  "mn": "Улаанбаатарт хашаа, тоглоомын талбайн олон төсөл хороо, дүүргийн түвшинд эхэлдэг бөгөөд оршин суугчид санал оруулж, заримдаа зардлыг дүүрэгтэй хуваалцдаг. Хөршүүд эхлээд албан бусаар ярилцдаг бөгөөд эелдэг өнгө аяс, зөвшилцөлд хүрэх хүсэл маш чухал. Гэр хорооллын иргэд цэвэрлэгээ, жижиг засвар үйлчилгээг хамтдаа зохион байгуулдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 23,
+  "notes": "Mostly good content, with a few real issues: Latin speaker names, a garbled grammar combo example, wrong 'sponsor' word, redundant 'only...just', and a muddled fill-blank explanation."
+ },
+ "opus_fix": {
+  "rating_before": 4,
+  "fixes": 19,
+  "notes": "Several sentence pairs were mismatched or duplicated; also fixed vowel-harmony options, a wrong vote term and mismatched explanations.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "'төсөв ... төгрөгтэй' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_en",
+    "why": "alt was an unrelated sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "'таны' for one person's idea, consistent with item 11"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "en",
+    "why": "English did not match the Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "the alternative did not match the Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "duplicate of item 6; restores the missing -аас өөр sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "matches the new Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "matches the new Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "'only ... just' is redundant"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "English did not match the Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "the alternative did not match the Mongolian"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "'гэхдээ ч' is unnatural; also fixes the suffix spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "vowel harmony requires -тэй"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "now matches explain_en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'аль алийг нь' means both, but 'either' means one of them"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_en",
+    "why": "'both is' is ungrammatical"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'жижиг хувь' is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "'санал асуулга' means a survey, not a vote"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Mongolian added a causal 'тул' that the English does not have"
+   }
+  ]
+ }
+}

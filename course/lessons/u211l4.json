@@ -1,0 +1,434 @@
+{
+ "intro_en": "Learn how to talk about café loyalty apps, QR payments, stamp cards and discounts in Ulaanbaatar. You'll practice the Mongolian light verbs бүртгэл үүсгэх and хөнгөлөлт эдлэх, and how to use English will/won't to make confident guesses.",
+ "intro_mn": "Улаанбаатарын кафены урамшууллын апп, QR төлбөр, тамганы карт, хөнгөлөлтийн талаар ярьж сурна. «Бүртгэл үүсгэх», «хөнгөлөлт эдлэх» зэрэг хөнгөн үйл үгтэй хэллэгийг дадлагажуулж, англи хэлний will/won't-оор итгэлтэй таамаг хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "оноо",
+   "en": "points",
+   "pos": "noun",
+   "example_mn": "Та энэ удаад 50 оноо авлаа.",
+   "example_en": "You earned 50 points this time.",
+   "mn_latin": "onoo"
+  },
+  {
+   "mn": "тамга",
+   "en": "stamp",
+   "pos": "noun",
+   "example_mn": "Арван тамга цуглуулбал нэг кофе үнэгүй.",
+   "example_en": "Collect ten stamps and you get one free coffee.",
+   "mn_latin": "tamga"
+  },
+  {
+   "mn": "урамшуулал",
+   "en": "promotion, reward",
+   "pos": "noun",
+   "example_mn": "Энэ долоо хоногт «нэгийг авбал нэг үнэгүй» урамшуулал явж байна.",
+   "example_en": "This week there's a buy-one-get-one-free promotion.",
+   "mn_latin": "uramshuulal"
+  },
+  {
+   "mn": "хөнгөлөлт",
+   "en": "discount",
+   "pos": "noun",
+   "example_mn": "Оюутнуудад 15 хувийн хөнгөлөлт үзүүлдэг.",
+   "example_en": "There's a 15 percent discount for students.",
+   "mn_latin": "khöngölölt"
+  },
+  {
+   "mn": "бүртгэл үүсгэх",
+   "en": "to create an account, to sign up",
+   "pos": "verb phrase",
+   "example_mn": "Апп дээр бүртгэл үүсгэхэд хоёрхон минут болно.",
+   "example_en": "Creating an account in the app takes only two minutes.",
+   "mn_latin": "bürtgel üüsgekh"
+  },
+  {
+   "mn": "хөнгөлөлт эдлэх",
+   "en": "to get a discount",
+   "pos": "verb phrase",
+   "example_mn": "Гишүүд өглөө бүр хөнгөлөлт эдэлдэг.",
+   "example_en": "Members get a discount every morning.",
+   "mn_latin": "khöngölölt edlekh"
+  },
+  {
+   "mn": "QR код уншуулах",
+   "en": "to scan a QR code",
+   "pos": "verb phrase",
+   "example_mn": "Утсаараа QR кодыг уншуулаад төлнө үү.",
+   "example_en": "Please scan the QR code with your phone and pay.",
+   "mn_latin": "QR kod unshuulakh"
+  },
+  {
+   "mn": "гишүүнчлэл",
+   "en": "membership",
+   "pos": "noun",
+   "example_mn": "Алтан гишүүнчлэлтэй үйлчлүүлэгчдийн аягыг үнэгүй томруулж өгдөг.",
+   "example_en": "Customers with a gold membership get a free size upgrade.",
+   "mn_latin": "gishüünchlel"
+  },
+  {
+   "mn": "хүчинтэй",
+   "en": "valid",
+   "pos": "adjective",
+   "example_mn": "Энэ купон сарын сүүл хүртэл хүчинтэй.",
+   "example_en": "This coupon is valid until the end of the month.",
+   "mn_latin": "khüchintei"
+  },
+  {
+   "mn": "цуглуулах",
+   "en": "to collect",
+   "pos": "verb",
+   "example_mn": "Би гурван сарын турш оноо цуглуулсан.",
+   "example_en": "I collected points for three months.",
+   "mn_latin": "tsugluulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ зөв код биш байх, дахиад уншуулаад үзье.",
+   "en": "That won't be the right code. Let's scan it again.",
+   "alt_mn": [
+    "Энэ зөв код биш бололтой, дахиад уншуулъя."
+   ],
+   "alt_en": [
+    "That's probably not the right code. Let's scan it again."
+   ],
+   "mn_latin": "Ene zöv kod bish baikh, dakhiad unshuulaad üziye."
+  },
+  {
+   "mn": "Таны оноо апп дээр хараахан ороогүй байх.",
+   "en": "Your points won't have shown up in the app yet.",
+   "alt_mn": [
+    "Таны оноо апп дээр одоохондоо ороогүй байх."
+   ],
+   "alt_en": [
+    "Your points probably haven't shown up in the app yet."
+   ],
+   "mn_latin": "Tany onoo app deer kharaakhan oroogüi baikh."
+  },
+  {
+   "mn": "Бүртгэл үүсгэсний дараа анхны кофегоо 50 хувийн хөнгөлөлттэй авна.",
+   "en": "After you create an account, you get your first coffee at 50 percent off.",
+   "alt_mn": [
+    "Бүртгэлээ үүсгэсний дараа анхны кофегоо хагас үнээр авна."
+   ],
+   "alt_en": [
+    "Once you sign up, your first coffee is 50 percent off.",
+    "After you create an account, you get your first coffee half price."
+   ],
+   "mn_latin": "Bürtgel üüsgesnii daraa ankhny kofyegoo 50 khuviin khöngölölttei avna."
+  },
+  {
+   "mn": "Оюутны үнэмлэхээ үзүүлбэл та 10 хувийн хөнгөлөлт эдэлнэ.",
+   "en": "If you show your student ID, you'll get a 10 percent discount.",
+   "alt_mn": [
+    "Оюутны үнэмлэхээ үзүүлэхэд та 10 хувийн хөнгөлөлт эдэлнэ."
+   ],
+   "alt_en": [
+    "If you show your student ID, you get 10 percent off."
+   ],
+   "mn_latin": "Oyuutny ünemlekhee üzüülbel ta 10 khuviin khöngölölt edelne."
+  },
+  {
+   "mn": "Би тамганы картаа гэртээ мартсан байх.",
+   "en": "I'll have left my stamp card at home.",
+   "alt_mn": [
+    "Би тамганы картаа гэртээ мартчихсан байх."
+   ],
+   "alt_en": [
+    "I must have left my stamp card at home.",
+    "I probably left my stamp card at home."
+   ],
+   "mn_latin": "Bi tamgany kartaa gertee martsan baikh."
+  },
+  {
+   "mn": "Энэ урамшуулал амралтын өдрүүдэд хамаарахгүй.",
+   "en": "This promotion doesn't apply on weekends.",
+   "alt_mn": [
+    "Энэ урамшуулал амралтын өдөр хамаарахгүй."
+   ],
+   "alt_en": [
+    "This promotion isn't valid on weekends."
+   ],
+   "mn_latin": "Ene uramshuulal amraltyn ödrüüded khamaarakhgüi."
+  },
+  {
+   "mn": "Хоёр хөнгөлөлтийг нэг дор эдлэх боломжгүй.",
+   "en": "You can't use two discounts at the same time.",
+   "alt_mn": [
+    "Хоёр хөнгөлөлтийг зэрэг эдлэх боломжгүй."
+   ],
+   "alt_en": [
+    "Two discounts can't be combined.",
+    "You can't combine two discounts."
+   ],
+   "mn_latin": "Khoyor khöngölöltiig neg dor edlekh bolomjgüi."
+  },
+  {
+   "mn": "Тэр хүн апп дээр бүртгэлгүй байх, тиймээс оноо нь бичигдээгүй.",
+   "en": "He won't have an account in the app, so his points weren't recorded.",
+   "alt_mn": [
+    "Тэр хүн апп дээр бүртгэлгүй байх, тийм болохоор оноо нь орсонгүй."
+   ],
+   "alt_en": [
+    "He probably doesn't have an account in the app, so his points weren't recorded."
+   ],
+   "mn_latin": "Ter khün app deer bürtgelgüi baikh, tiimees onoo ni bichigdeegüi."
+  },
+  {
+   "mn": "QR-аар төлөхөд хэдхэн секунд л болно.",
+   "en": "Paying by QR takes just a few seconds.",
+   "alt_mn": [
+    "QR-аар төлбөл хэдхэн секунд л болно."
+   ],
+   "alt_en": [
+    "Paying with a QR code only takes a few seconds."
+   ],
+   "mn_latin": "QR-aar tölökhöd khedkhen syekund l bolno."
+  },
+  {
+   "mn": "Купоны хугацаа өчигдөр дууссан тул хүчингүй болсон.",
+   "en": "The coupon expired yesterday, so it's no longer valid.",
+   "alt_mn": [
+    "Купоны хугацаа өчигдөр дуусчихсан болохоор хүчингүй болсон."
+   ],
+   "alt_en": [
+    "The coupon ran out yesterday, so it isn't valid anymore."
+   ],
+   "mn_latin": "Kupony khugatsaa öchigdör duussan tul khüchingüi bolson."
+  },
+  {
+   "mn": "Энэ мэдэгдэл аппаас ирсэн юм болов уу?",
+   "en": "Will that notification be from the app?",
+   "alt_mn": [
+    "Энэ мэдэгдэл аппаас ирсэн байх уу?"
+   ],
+   "alt_en": [
+    "Could that notification be from the app?",
+    "Is that notification from the app, do you think?"
+   ],
+   "mn_latin": "Ene medegdel appaas irsen yum bolov uu?"
+  },
+  {
+   "mn": "Арав дахь тамгаа цуглуулбал дараагийн латте чинь үнэгүй.",
+   "en": "Once you collect your tenth stamp, your next latte is free.",
+   "alt_mn": [
+    "Арав дахь тамгаа цуглуулчихвал дараагийн латте чинь үнэгүй."
+   ],
+   "alt_en": [
+    "When you get your tenth stamp, your next latte is free."
+   ],
+   "mn_latin": "Arav dakhi tamgaa tsugluulbal daraagiin lattye chini ünegüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Light verbs (бүртгэл үүсгэх, хөнгөлөлт эдлэх) and will/won't for guesses",
+  "title_mn": "Хөнгөн үйл үгтэй хэллэг ба таамаг илэрхийлэх will/won't",
+  "explain_en": "A lot of app and reward vocabulary in Mongolian is built from a noun plus a 'light' verb. The verb carries all the grammar. бүртгэл үүсгэх literally means 'create a registration' (= sign up), and хөнгөлөлт эдлэх means 'enjoy a discount' (= get a discount). Add the reflexive ending -ээ/-аа when it's your own: бүртгэлээ үүсгэсэн 'created my/your account'. Watch эдлэх: its stem is эдэл-, so before a consonant you get эдэлнэ, эдэлсэн, эдэлж, but before a vowel it's эдлээд. In English, will/won't isn't only about the future. It can also express a confident guess about the present, much like Mongolian ...байх: That won't be the right code = Энэ зөв код биш байх. In questions, Will that be...? matches ...байх уу? / ...болов уу? For a guess about a past action, use will have + past participle: She'll have forgotten her card = Тэр картаа мартсан байх. In speech these are usually contracted: it'll, she'll, won't.",
+  "explain_mn": "Монгол хэлэнд апп, урамшууллын олон хэллэг нэр үг ба «хөнгөн» үйл үгээс бүтдэг. Хэлзүйн бүх дагаврыг үйл үг авна: бүртгэл үүсгэх (= sign up), хөнгөлөлт эдлэх (= get a discount). Өөрийн зүйлийг хэлэхдээ -ээ/-аа хамаатуулах дагавар нэмнэ: бүртгэлээ үүсгэсэн. «Эдлэх»-ийн үндэс нь эдэл- тул гийгүүлэгчээр эхэлсэн дагаврын өмнө эдэлнэ, эдэлсэн, эдэлж, эгшгээр эхэлсэн дагаврын өмнө эдлээд болно. Англи хэлэнд will/won't нь зөвхөн ирээдүйг заадаггүй. Одоо байгаа зүйлийн талаар итгэлтэй таамаг хэлэхэд бас хэрэглэнэ. Энэ нь монголын «...байх» хэлбэртэй ойролцоо: That won't be the right code = Энэ зөв код биш байх. Асуухдаа Will that be...? = ...байх уу? / ...болов уу? Өнгөрсөн үйлийн талаар таамаглахдаа will have + V3 хэрэглэнэ: She'll have forgotten her card = Тэр картаа мартсан байх. Ярианд ихэвчлэн товчилно: it'll, she'll, won't.",
+  "examples": [
+   {
+    "mn": "Апп дээр бүртгэлээ үүсгэсэн үү?",
+    "en": "Have you created your account in the app?",
+    "mn_latin": "App deer bürtgelee üüsgesen üü?"
+   },
+   {
+    "mn": "Гишүүд баасан гаригт 20 хувийн хөнгөлөлт эдэлнэ.",
+    "en": "Members get 20 percent off on Fridays.",
+    "mn_latin": "Gishüüd baasan garigt 20 khuviin khöngölölt edelne."
+   },
+   {
+    "mn": "Энэ зөв код биш байх.",
+    "en": "That won't be the right code.",
+    "mn_latin": "Ene zöv kod bish baikh."
+   },
+   {
+    "mn": "Тэр картаа мартсан байх.",
+    "en": "She'll have forgotten her card.",
+    "mn_latin": "Ter kartaa martsan baikh."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Апп дээр бүртгэл ___ оноо цуглуулж эхэлнэ.",
+   "answer": "үүсгэвэл",
+   "options": [
+    "үүсгэвэл",
+    "эдэлбэл",
+    "цуглуулбал",
+    "уншуулбал"
+   ],
+   "translation": "If you create an account in the app, you'll start collecting points.",
+   "explain_en": "The fixed pair is бүртгэл + үүсгэх ('create an account'). The conditional ending -вэл gives 'if you create'. You can't 'enjoy', 'collect' or 'scan' an account.",
+   "explain_mn": "«Бүртгэл» гэдэг үг «үүсгэх» үйл үгтэй хэвшиж холбогддог. -вэл нөхцөл үйлийн дагавар «хэрэв» гэсэн утга өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Гишүүд мягмар гаригт 20 хувийн хөнгөлөлт ___.",
+   "answer": "эдэлнэ",
+   "options": [
+    "эдэлнэ",
+    "эдлэнэ",
+    "үүсгэнэ",
+    "уншуулна"
+   ],
+   "translation": "Members get a 20 percent discount on Tuesdays.",
+   "explain_en": "хөнгөлөлт goes with эдлэх. The stem is эдэл-, so with the consonant suffix -нэ it becomes эдэлнэ. эдлэнэ is a common misspelling.",
+   "explain_mn": "«Хөнгөлөлт эдлэх» хэвшмэл хэллэг. Үйл үгийн үндэс нь эдэл-, тиймээс гийгүүлэгчээр эхэлсэн -нэ дагавартай нийлээд «эдэлнэ» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Утсаараа QR код___ уншуулаад төлнө үү.",
+   "answer": "ыг",
+   "options": [
+    "ыг",
+    "ийг",
+    "ын",
+    "оор"
+   ],
+   "translation": "Please scan the QR code with your phone and pay.",
+   "explain_en": "The code is the direct object of уншуулах, so it takes the accusative. Because код is a back-vowel word, the ending is -ыг: кодыг.",
+   "explain_mn": "«Код» нь шууд тусагдахуун тул заахын тийн ялгал авна. Эр үг учраас -ыг: кодыг."
+  },
+  {
+   "lang": "en",
+   "text": "That ___ be the right code. It's for a different café.",
+   "answer": "won't",
+   "options": [
+    "won't",
+    "doesn't",
+    "isn't",
+    "wasn't"
+   ],
+   "translation": "Энэ зөв код биш байх, өөр кафеных байна.",
+   "explain_en": "Won't + base verb expresses a confident negative guess about the present. Doesn't/isn't/wasn't can't come before the bare verb be.",
+   "explain_mn": "won't + үйл үгийн үндсэн хэлбэр нь одоо байгаа зүйлийн талаарх итгэлтэй үгүйсгэх таамаг. «Энэ ... биш байх» гэсэнтэй ойролцоо."
+  },
+  {
+   "lang": "en",
+   "text": "___ that be Tuya's phone ringing?",
+   "answer": "Will",
+   "options": [
+    "Will",
+    "Does",
+    "Is",
+    "Has"
+   ],
+   "translation": "Энэ Туяагийн утас дуугарч байгаа юм болов уу?",
+   "explain_en": "In a guessing question, will comes first and is followed by the base verb be. Does, Is and Has don't work with be after the subject.",
+   "explain_mn": "Таамгийн асуултад will өгүүлбэрийн эхэнд гарч, араас нь be үндсэн хэлбэрээр орно. «...юм болов уу?» гэсэнтэй дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She'll ___ forgotten her stamp card again.",
+   "answer": "have",
+   "options": [
+    "have",
+    "has",
+    "be",
+    "had"
+   ],
+   "translation": "Тэр тамганы картаа дахиад мартсан байх.",
+   "explain_en": "To guess about a past action, use will have + past participle: she'll have forgotten. After will, the verb is always in base form, so it's have, not has.",
+   "explain_mn": "Өнгөрсөн үйлийн талаар таамаглахдаа will have + V3 хэрэглэнэ. will-ийн дараа үйл үг үргэлж үндсэн хэлбэртэй тул has биш have байна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Michael",
+   "mn": "Сайн байна уу, нэг флэт уайт өгөөч. QR-аар төлж болох уу?",
+   "en": "Hi, a flat white, please. Can I pay by QR?",
+   "mn_latin": "Sain baina uu, neg flet uait ögööch. QR-aar tölj bolokh uu?"
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Болно. Та манай апп дээр бүртгэлтэй юү? Бүртгэл үүсгэвэл өнөөдөр 20 хувийн хөнгөлөлт эдэлнэ.",
+   "en": "Sure. Do you have an account in our app? If you create one, you'll get 20 percent off today.",
+   "mn_latin": "Bolno. Ta manai app deer bürtgeltei yuü? Bürtgel üüsgevel önöödör 20 khuviin khöngölölt edelne."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Үгүй, одоо үүсгэе... За, боллоо. Гэхдээ энэ код ажиллахгүй байна.",
+   "en": "No, let me make one now... Okay, done. But this code isn't working.",
+   "mn_latin": "Ügüi, odoo üüsgeye... Za, bolloo. Gekhdee ene kod ajillakhgüi baina."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Энэ урамшууллын код биш байх. Өнгөрсөн сарын купон юм шиг байна.",
+   "en": "That won't be the promo code. It looks like last month's coupon.",
+   "mn_latin": "Ene uramshuullyn kod bish baikh. Öngörsön saryn kupon yum shig baina."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Аа, тийм байх. Шинэ код нь хаана байдаг вэ?",
+   "en": "Oh, you're probably right. Where's the new code?",
+   "mn_latin": "Aa, tiim baikh. Shine kod ni khaana baidag ve?"
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Аппын «Урамшуулал» хэсэгт байгаа. Тэгээд QR-ыг уншуулаад төлчихөөрэй.",
+   "en": "It's in the 'Promotions' section of the app. Then just scan the QR and pay.",
+   "mn_latin": "Appyn «Uramshuulal» khesegt baigaa. Tegeed QR-yg unshuulaad tölchikhöörei."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Боллоо! Оноо маань хэзээ орох вэ?",
+   "en": "Done! When will my points show up?",
+   "mn_latin": "Bolloo! Onoo maani khezee orokh ve?"
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Одоохондоо ороогүй байх, хэдэн минутын дараа харагдана. Арван тамга цуглуулбал нэг кофе үнэгүй шүү.",
+   "en": "They won't be there yet. They'll appear in a few minutes. And remember, ten stamps gets you a free coffee.",
+   "mn_latin": "Odookhondoo oroogüi baikh, kheden minutyn daraa kharagdana. Arvan tamga tsugluulbal neg kofye ünegüi shüü."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, QR payments through apps like QPay and SocialPay are everywhere, from big café chains to small corner shops, and many people rarely carry cash. Purchases also come with an e-barimt, the government's electronic VAT receipt, which you can register to enter a regular prize lottery. That's why you'll often see customers scanning a second QR code after they pay.",
+  "mn": "Улаанбаатарт QPay, SocialPay зэрэг аппаар QR-аар төлөх нь томоохон кафе сүлжээнээс эхлээд жижиг дэлгүүр хүртэл түгээмэл болсон. Олон хүн бэлэн мөнгө бараг авч явдаггүй. Худалдан авалт бүрт НӨАТ-ын цахим баримт буюу и-баримт гардаг бөгөөд түүнийгээ бүртгүүлбэл тогтмол явагддаг сугалаанд оролцох боломжтой. Тиймээс төлбөрөө төлсний дараа хоёр дахь QR кодоо уншуулж буй хүмүүсийг олонтаа харна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A solid, natural lesson with accurate grammar explanations. The only problems were misspelled conditional forms after л-final stems."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 5,
+  "notes": "Mostly solid. Main fixes: the mn/en grammar explanations didn't match, the intro_mn was incomplete, one over-strong alt_en, and one question particle.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the light-verb topic stated in en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different content"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation lacked the light-verb part covered in en"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "'can't be' is a certain deduction; байх only means 'probably'"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "front-vowel word takes the question particle юү; added polite та"
+   }
+  ]
+ }
+}

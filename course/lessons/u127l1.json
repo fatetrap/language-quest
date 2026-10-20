@@ -1,0 +1,418 @@
+{
+ "intro_en": "Follow a wheelchair user on her daily route through Ulaanbaatar and learn to talk about ramps, curbs, potholes, and broken elevators. You'll practice -х боломжтой / -х боломжгүй for what is physically possible, and English \"suppose / supposing + present\" for realistic scenarios.",
+ "intro_mn": "Тэргэнцэртэй хүний Улаанбаатар дахь өдөр тутмын замыг дагаж, налуу зам, хашлага чулуу, замын нүх, эвдэрсэн цахилгаан шатны тухай ярьж сурна. Бодит нөхцөлд ямар нэг зүйл хийх боломжтой эсэхийг -х боломжтой / -х боломжгүй хэлбэрээр илэрхийлж, англи хэлний \"suppose / supposing + одоо цаг\" бүтцээр бодит нөхцөл байдлыг төсөөлж ярих дасгал хийнэ.",
+ "vocab": [
+  {
+   "mn": "тэргэнцэр",
+   "en": "wheelchair",
+   "pos": "noun",
+   "example_mn": "Би арван жил тэргэнцэртэй явж байна.",
+   "example_en": "I've been using a wheelchair for ten years.",
+   "mn_latin": "tergentser"
+  },
+  {
+   "mn": "налуу зам",
+   "en": "ramp",
+   "pos": "noun",
+   "example_mn": "Энэ барилгын налуу зам хэтэрхий эгц байна.",
+   "example_en": "This building's ramp is too steep.",
+   "mn_latin": "naluu zam"
+  },
+  {
+   "mn": "хашлага чулуу",
+   "en": "curb",
+   "pos": "noun",
+   "example_mn": "Энэ уулзварын хашлага чулуу хэтэрхий өндөр.",
+   "example_en": "The curb at this intersection is too high.",
+   "mn_latin": "khashlaga chuluu"
+  },
+  {
+   "mn": "явган хүний зам",
+   "en": "sidewalk",
+   "pos": "noun",
+   "example_mn": "Явган хүний зам дээр машин зогсож байна.",
+   "example_en": "A car is parked on the sidewalk.",
+   "mn_latin": "yavgan khünii zam"
+  },
+  {
+   "mn": "цахилгаан шат",
+   "en": "elevator",
+   "pos": "noun",
+   "example_mn": "Цахилгаан шат дахиад л эвдэрчээ.",
+   "example_en": "The elevator is broken again.",
+   "mn_latin": "tsakhilgaan shat"
+  },
+  {
+   "mn": "нүх",
+   "en": "pothole",
+   "pos": "noun",
+   "example_mn": "Тэргэнцрийн минь дугуй нүхэнд гацчихлаа.",
+   "example_en": "My wheelchair's wheel got stuck in a pothole.",
+   "mn_latin": "nükh"
+  },
+  {
+   "mn": "тойрох",
+   "en": "to go around, to bypass",
+   "pos": "verb",
+   "example_mn": "Бид саадыг тойрч явах хэрэгтэй болсон.",
+   "example_en": "We had to go around the obstacle.",
+   "mn_latin": "toirokh"
+  },
+  {
+   "mn": "саад",
+   "en": "obstacle, barrier",
+   "pos": "noun",
+   "example_mn": "Хотод саад тотгор хэтэрхий олон байна.",
+   "example_en": "There are too many barriers in the city.",
+   "mn_latin": "saad"
+  },
+  {
+   "mn": "хүртээмж",
+   "en": "accessibility",
+   "pos": "noun",
+   "example_mn": "Нийтийн тээврийн хүртээмж сайжрах ёстой.",
+   "example_en": "Public transportation needs to become more accessible.",
+   "mn_latin": "khürteemj"
+  },
+  {
+   "mn": "боломжгүй",
+   "en": "impossible, not possible",
+   "pos": "adjective",
+   "example_mn": "Энэ шатаар тэргэнцэртэй гарах боломжгүй.",
+   "example_en": "It's impossible to get up these stairs in a wheelchair.",
+   "mn_latin": "bolomjgüi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ дэлгүүрт налуу зам байхгүй болохоор би орох боломжгүй.",
+   "en": "This store doesn't have a ramp, so I can't get in.",
+   "alt_mn": [
+    "Энэ дэлгүүрт налуу зам байхгүй тул би орж чадахгүй."
+   ],
+   "alt_en": [
+    "There's no ramp at this store, so there's no way for me to get in."
+   ],
+   "mn_latin": "Ene delgüürt naluu zam baikhgüi bolokhoor bi orokh bolomjgüi."
+  },
+  {
+   "mn": "Цахилгаан шат эвдэрчихсэн гэж бодъё. Та тавдугаар давхарт яаж гарах вэ?",
+   "en": "Suppose the elevator is broken. How do you get up to the fifth floor?",
+   "alt_mn": [
+    "Цахилгаан шат эвдэрсэн гэж бодъё, та тавдугаар давхарт яаж гарах вэ?"
+   ],
+   "alt_en": [
+    "Supposing the elevator is broken, how do you get to the fifth floor?"
+   ],
+   "mn_latin": "Tsakhilgaan shat evderchikhsen gej bodyo. Ta tavdugaar davkhart yaaj garakh ve?"
+  },
+  {
+   "mn": "Хашлага чулуу хэтэрхий өндөр тул би тусламжгүйгээр зам хөндлөн гарах боломжгүй.",
+   "en": "The curb is too high, so I can't cross the street without help.",
+   "alt_mn": [
+    "Хашлага чулуу хэтэрхий өндөр болохоор би хүний тусламжгүйгээр зам гарч чадахгүй."
+   ],
+   "alt_en": [
+    "The curb is so high that I can't cross the street without help."
+   ],
+   "mn_latin": "Khashlaga chuluu kheterkhii öndör tul bi tuslamjgüigeer zam khöndlön garakh bolomjgüi."
+  },
+  {
+   "mn": "Явган хүний замыг машинууд эзэлчихсэн байсан тул би авто замаар явахаас өөр аргагүй болсон.",
+   "en": "Cars had taken over the sidewalk, so I had no choice but to go along the road.",
+   "alt_mn": [
+    "Явган хүний зам дээр машинууд зогсчихсон байсан болохоор би авто замаар явахаас өөр арга байгаагүй."
+   ],
+   "alt_en": [
+    "Cars were parked all over the sidewalk, so I had no choice but to use the road."
+   ],
+   "mn_latin": "Yavgan khünii zamyg mashinuud ezelchikhsen baisan tul bi avto zamaar yavakhaas öör argagüi bolson."
+  },
+  {
+   "mn": "Өнөө орой цас орно гэж бодъё. Та маргааш ажилдаа очих боломжтой юу?",
+   "en": "Supposing it snows tonight, will you still be able to get to work tomorrow?",
+   "alt_mn": [
+    "Өнөө орой цас орлоо гэж бодъё, та маргааш ажилдаа очиж чадах уу?"
+   ],
+   "alt_en": [
+    "Suppose it snows tonight. Will you still be able to get to work tomorrow?"
+   ],
+   "mn_latin": "Önöö oroi tsas orno gej bodyo. Ta margaash ajildaa ochikh bolomjtoi yuu?"
+  },
+  {
+   "mn": "Төв шуудангийн ойролцоох уулзварт налуу зам хийснээр тэргэнцэртэй хүмүүс зам хөндлөн гарах боломжтой болсон.",
+   "en": "Since a ramp was built at the intersection near the Central Post Office, wheelchair users can now cross the street.",
+   "alt_mn": [
+    "Төв шуудангийн дэргэдэх уулзварт налуу зам хийсэн болохоор тэргэнцэртэй хүмүүс одоо зам гарах боломжтой."
+   ],
+   "alt_en": [
+    "Now that there's a ramp at the intersection near the Central Post Office, people in wheelchairs can cross the street."
+   ],
+   "mn_latin": "Töv shuudangiin oiroltsookh uulzvart naluu zam khiisneer tergentsertei khümüüs zam khöndlön garakh bolomjtoi bolson."
+  },
+  {
+   "mn": "Нүхийг тойрох гэж байгаад би унах шахлаа.",
+   "en": "I nearly fell over trying to go around a pothole.",
+   "alt_mn": [
+    "Замын нүхийг тойрох гэж байгаад би бараг унасан."
+   ],
+   "alt_en": [
+    "I almost fell while trying to get around a pothole."
+   ],
+   "mn_latin": "Nükhiig toirokh gej baigaad bi unakh shakhlaa."
+  },
+  {
+   "mn": "Налуу зам дээр машин тавьчихсан байна гэж бодъё. Та хэн рүү залгах вэ?",
+   "en": "Suppose a car is parked on the ramp. Who do you call?",
+   "alt_mn": [
+    "Налуу зам дээр машин зогсчихсон байна гэж бодъё, та хэн рүү залгах вэ?"
+   ],
+   "alt_en": [
+    "Supposing someone has parked on the ramp, who do you call?"
+   ],
+   "mn_latin": "Naluu zam deer mashin tavichikhsan baina gej bodyo. Ta khen rüü zalgakh ve?"
+  },
+  {
+   "mn": "Автобусанд тэргэнцэртэй суух боломжтой юу?",
+   "en": "Is it possible to get on the bus in a wheelchair?",
+   "alt_mn": [
+    "Тэргэнцэртэй хүн автобусанд суух боломжтой юу?"
+   ],
+   "alt_en": [
+    "Can you get on the bus in a wheelchair?"
+   ],
+   "mn_latin": "Avtobusand tergentsertei suukh bolomjtoi yuu?"
+  },
+  {
+   "mn": "Энэ барилгыг хүртээмжтэй гэдэг ч цахилгаан шат нь доод давхарт буудаггүй.",
+   "en": "This building is supposed to be accessible, but its elevator doesn't go down to the lower level.",
+   "alt_mn": [
+    "Энэ барилга хүртээмжтэй гэж ярьдаг ч цахилгаан шат нь доод давхар хүртэл буудаггүй."
+   ],
+   "alt_en": [
+    "They say this building is accessible, but the elevator doesn't reach the lower level."
+   ],
+   "mn_latin": "Ene barilgyg khürteemjtei gedeg ch tsakhilgaan shat ni dood davkhart buudaggüi."
+  },
+  {
+   "mn": "Явган хүний зам хаагдсан байна гэж бодъё. Хүлээх нь илүү аюулгүй юу, тойрох нь илүү аюулгүй юу?",
+   "en": "Supposing the sidewalk is blocked, is it safer to wait or to go around?",
+   "alt_mn": [
+    "Явган хүний зам хаагдчихсан гэж бодъё. Хүлээсэн нь илүү аюулгүй юу, тойрсон нь илүү аюулгүй юу?"
+   ],
+   "alt_en": [
+    "Suppose the sidewalk is blocked. Is it safer to wait or to go around?"
+   ],
+   "mn_latin": "Yavgan khünii zam khaagdsan baina gej bodyo. Khüleekh ni ilüü ayuulgüi yuu, toirokh ni ilüü ayuulgüi yuu?"
+  },
+  {
+   "mn": "Нийслэлийн захиргаа эдгээр саадыг арилгавал илүү олон хүн гадуур бие даан явах боломжтой болно.",
+   "en": "If the city removes these barriers, many more people will be able to get around on their own.",
+   "alt_mn": [
+    "Хот эдгээр саадыг арилгачихвал илүү олон хүн гадуур бие даан явж чадна."
+   ],
+   "alt_en": [
+    "If the city gets rid of these barriers, a lot more people will be able to get around independently."
+   ],
+   "mn_latin": "Niisleliin zakhirgaa edgeer saadyg arilgaval ilüü olon khün gaduur biye daan yavakh bolomjtoi bolno."
+  }
+ ],
+ "grammar": {
+  "title_en": "-х боломжтой / -х боломжгүй: possible or impossible because of circumstances",
+  "title_mn": "Suppose / Supposing + одоо цаг: бодит нөхцөл байдлыг төсөөлөх",
+  "explain_en": "To say that something is or isn't physically possible because of the situation, put the verb in its -х form (the dictionary form: орох, гарах, суух) and add боломжтой (\"there is a possibility\") or боломжгүй (\"there is no possibility\"). Боломж means \"possibility.\" The suffix -той/-тай/-тэй (\"with\") follows vowel harmony, so боломж takes -той. The suffix -гүй means \"without.\" Compare this with чадах (\"can, be able\"). \"Би орж чадахгүй\" often points to the person's own ability. \"Би орох боломжгүй\" puts the problem in the environment: no ramp, a broken elevator. That's why disability advocates prefer боломжгүй when they talk about barriers. You can also say \"Надад орох боломж байхгүй\" (\"I have no way to get in\").",
+  "explain_mn": "Англи хэлэнд бодит, болж магадгүй нөхцөл байдлыг төсөөлж ярихдаа \"Suppose ...\" эсвэл \"Supposing ...\" гэж эхлүүлээд үйл үгийг ОДОО цагаар хэрэглэнэ: \"Suppose the elevator is broken.\" Энэ нь монголоор \"... гэж бодъё\" гэсэн утгатай. Араас нь ихэвчлэн асуулт ирдэг: \"Supposing it snows, will you still go?\" Ийм өгүүлбэрт \"will\"-ийг Suppose-ын араас хэрэглэдэггүй, тиймээс \"Suppose it will snow\" гэж хэлэхгүй. Энэ бүтэц нь \"if\"-тэй төстэй, гэхдээ \"нэг ийм тохиолдол гарлаа гэж төсөөлөөд үзье\" гэсэн өнгө аястай. Төлөвлөгөө ярих, нөөц хувилбар бодох үед их хэрэглэгддэг.",
+  "examples": [
+   {
+    "mn": "Шат л байгаа болохоор би дээш гарах боломжгүй.",
+    "en": "There are only stairs, so I can't go up.",
+    "mn_latin": "Shat l baigaa bolokhoor bi deesh garakh bolomjgüi."
+   },
+   {
+    "mn": "Шинэ налуу зам хийснээс хойш би номын санд орох боломжтой болсон.",
+    "en": "Since they built the new ramp, I've been able to get into the library.",
+    "mn_latin": "Shine naluu zam khiisnees khoish bi nomyn sand orokh bolomjtoi bolson."
+   },
+   {
+    "mn": "Цахилгаан шат ажиллахгүй байна гэж бодъё. Та юу хийх вэ?",
+    "en": "Suppose the elevator isn't working. What do you do?",
+    "mn_latin": "Tsakhilgaan shat ajillakhgüi baina gej bodyo. Ta yuu khiikh ve?"
+   },
+   {
+    "mn": "Налуу зам мөстсөн байна гэж бодъё. Та өөр орц ашиглах уу?",
+    "en": "Supposing the ramp is icy, will you use another entrance?",
+    "mn_latin": "Naluu zam möstsön baina gej bodyo. Ta öör orts ashiglakh uu?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шат л байгаа болохоор би дээш гарах ___.",
+   "answer": "боломжгүй",
+   "options": [
+    "боломжгүй",
+    "боломжтой",
+    "чадвартай",
+    "чадахгүй"
+   ],
+   "translation": "There are only stairs, so I can't go up.",
+   "explain_en": "Stairs make going up impossible for a wheelchair user, so you need the negative боломжгүй (\"not possible\"). Боломжтой would mean the opposite. Чадвартай (\"skilled, capable\") describes a person's talent, not a physical situation. Чадахгүй needs the -ж form of the verb (гарч чадахгүй), not гарах.",
+   "explain_mn": "Шат л байгаа тул дээш гарах нөхцөл байхгүй. Тиймээс үгүйсгэсэн \"боломжгүй\" тохирно. \"Чадвартай\" нь хүний ур чадварыг илэрхийлдэг тул энд таарахгүй. \"Чадахгүй\"-н өмнө үйл үг -ж хэлбэртэй байх ёстой (гарч чадахгүй)."
+  },
+  {
+   "lang": "mn",
+   "text": "Шинэ налуу зам хийснээс хойш би номын санд орох боломж___ болсон.",
+   "answer": "той",
+   "options": [
+    "той",
+    "тай",
+    "тэй",
+    "гүй"
+   ],
+   "translation": "Since they built the new ramp, I've been able to get into the library.",
+   "explain_en": "The new ramp makes entry possible, so you need \"with\" (-тай/-той/-тэй) rather than -гүй. Боломж has the vowel о, so vowel harmony requires -той: боломжтой.",
+   "explain_mn": "Шинэ налуу зам хийсэн тул орох боломж бий болсон. Иймээс эерэг утгатай дагавар хэрэгтэй. \"Боломж\" үгэнд о эгшиг байгаа тул эгшиг зохицох ёсоор -той залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэргэнцэртэй суу___ боломжтой автобус цөөхөн байна.",
+   "answer": "х",
+   "options": [
+    "х",
+    "ж",
+    "сан",
+    "на"
+   ],
+   "translation": "There are few buses you can board in a wheelchair.",
+   "explain_en": "Before боломжтой/боломжгүй, the verb always takes the -х form: суух боломжтой (\"possible to board\"). The -ж form is used before чадах (сууж чадна), not before боломж.",
+   "explain_mn": "\"Боломжтой/боломжгүй\"-н өмнө үйл үг -х хэлбэртэй байна: суух боломжтой. \"-ж\" хэлбэр нь \"чадах\" үйл үгийн өмнө хэрэглэгддэг (сууж чадна)."
+  },
+  {
+   "lang": "en",
+   "text": "___ the elevator is out of service. What's your backup plan?",
+   "answer": "Suppose",
+   "options": [
+    "Suppose",
+    "Supposed",
+    "Unless",
+    "Despite"
+   ],
+   "translation": "Цахилгаан шат ажиллахгүй байна гэж бодъё. Таны нөөц төлөвлөгөө юу вэ?",
+   "explain_en": "\"Suppose\" introduces an imagined but realistic situation. \"Supposed\" is a past form and doesn't fit here, and \"unless\" and \"despite\" don't make sense with the follow-up question.",
+   "explain_mn": "\"Suppose\" нь \"... гэж бодъё\" гэсэн утгаар нөхцөл байдлыг төсөөлүүлж эхлүүлдэг. \"Supposed\" нь өнгөрсөн хэлбэр, \"unless\" (хэрэв ...гүй бол), \"despite\" (үл харгалзан) нь энд утга таарахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Supposing the ramp ___ icy, will you still use it?",
+   "answer": "is",
+   "options": [
+    "is",
+    "will be",
+    "being",
+    "been"
+   ],
+   "translation": "Налуу зам мөстсөн байна гэж бодъё. Та түүгээр явах уу?",
+   "explain_en": "After suppose/supposing, a realistic scenario takes the present tense, even when it refers to the future. \"Will\" goes in the main clause (will you still use it?), not after supposing.",
+   "explain_mn": "Supposing-ийн араас ирээдүйн тухай ярьж байсан ч одоо цаг (is) хэрэглэнэ. \"Will\" нь гол өгүүлбэрт орно (will you still use it?), харин supposing-ийн араас орохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Suppose a car ___ the curb cut. Who can you call?",
+   "answer": "blocks",
+   "options": [
+    "blocks",
+    "will block",
+    "blocking",
+    "to block"
+   ],
+   "translation": "Хашлага чулууны налууг машин хаачихлаа гэж бодъё. Та хэн рүү залгаж болох вэ?",
+   "explain_en": "The subject \"a car\" is singular, so the present-tense verb needs -s: blocks. \"Will block\" is wrong after suppose, and \"blocking\" and \"to block\" aren't finite verbs.",
+   "explain_mn": "\"A car\" ганц тоотой тул одоо цагийн үйл үг -s авна: blocks. Suppose-ын араас \"will\" орохгүй, \"blocking\", \"to block\" нь бүрэн үйл үг биш."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Сарнай, та өглөө бүр ажилдаа яаж очдог вэ?",
+   "en": "Sarnai, how do you get to work every morning?",
+   "mn_latin": "Sarnai, ta öglöö bür ajildaa yaaj ochdog ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Гэрээсээ гараад эхлээд хашлага чулууг даван гарах хэрэгтэй болдог. Ихэнх уулзварт налуу зам байхгүй.",
+   "en": "When I leave home, the first thing I have to do is get over the curb. Most intersections don't have ramps.",
+   "mn_latin": "Gereesee garaad ekhleed khashlaga chuluug davan garakh kheregtei boldog. Ikhenkh uulzvart naluu zam baikhgüi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Явган хүний зам нь ямар байдаг вэ?",
+   "en": "And what are the sidewalks like?",
+   "mn_latin": "Yavgan khünii zam ni yamar baidag ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Нүх ихтэй, бас дээр нь машинууд зогсчихсон байдаг. Заримдаа би авто замаар явахаас өөр аргагүй болдог.",
+   "en": "They're full of potholes, and there are cars parked on them. Sometimes I have no choice but to go along the road.",
+   "mn_latin": "Nükh ikhtei, bas deer ni mashinuud zogschikhson baidag. Zarimdaa bi avto zamaar yavakhaas öör argagüi boldog."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Бороо орж байна, автобусанд налуу зам байхгүй гэж бодъё. Тэгвэл та яадаг вэ?",
+   "en": "Suppose it's raining and the bus doesn't have a ramp. What do you do then?",
+   "mn_latin": "Boroo orj baina, avtobusand naluu zam baikhgüi gej bodyo. Tegvel ta yaadag ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгвэл автобусанд суух боломжгүй, такси дуудна. Гэхдээ энэ нь өдөр бүр нэмэлт зардал гэсэн үг.",
+   "en": "Then there's no way I can get on the bus, so I call a taxi. But that means extra costs every day.",
+   "mn_latin": "Tegvel avtobusand suukh bolomjgüi, taksi duudna. Gekhdee ene ni ödör bür nemelt zardal gesen üg."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Таны ажлын байранд цахилгаан шат байгаа юу?",
+   "en": "Is there an elevator at your workplace?",
+   "mn_latin": "Tany ajlyn bairand tsakhilgaan shat baigaa yuu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Байгаа, гэхдээ сард хэд хэдэн удаа эвдэрдэг. Тэр үед хамт ажиллагсдаасаа тусламж гуйхаас өөр аргагүй.",
+   "en": "There is, but it breaks down several times a month. When that happens, I have no choice but to ask my coworkers for help.",
+   "mn_latin": "Baigaa, gekhdee sard khed kheden udaa evderdeg. Ter üyed khamt ajillagsdaasaa tuslamj guikhaas öör argagüi."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia ratified the UN Convention on the Rights of Persons with Disabilities in 2009 and passed its Law on the Rights of Persons with Disabilities in 2016. Still, Ulaanbaatar's daily reality is tough: high curbs, steep or missing ramps, cars parked on sidewalks, and ice for several months of the year. Mongolian disability advocates often stress that the barrier is in the environment, not in the person, which is why phrases like \"орох боломжгүй\" (\"there is no way to get in\") are so common in public discussions.",
+  "mn": "Монгол Улс 2009 онд НҮБ-ын Хөгжлийн бэрхшээлтэй хүмүүсийн эрхийн тухай конвенцийг соёрхон баталж, 2016 онд Хөгжлийн бэрхшээлтэй хүний эрхийн тухай хууль баталсан. Гэсэн хэдий ч Улаанбаатарт өндөр хашлага чулуу, эгц эсвэл огт байхгүй налуу зам, явган хүний зам дээр тавьсан машин, жилийн хэдэн сар үргэлжилдэг мөс зэрэг саад өдөр бүр тулгардаг. Хөгжлийн бэрхшээлтэй хүмүүсийн эрхийн төлөө тэмцэгчид саад нь хүнд биш, орчинд байдаг гэдгийг онцолдог. Иймээс олон нийтийн ярианд \"орох боломжгүй\" гэх мэт хэллэг их сонсогддог."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "Accurate, natural lesson overall. A few translation pairs did not quite match: basement vs. lower floor, safer vs. better, and a missing \"more\"."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "The lesson is solid overall. The only real issue was an ambiguous distractor in the first fill-in-the-blank.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'гарах хэрэгтэй' is also grammatical and meaningful ('I have to go up'), so the blank had two answers. 'чадахгүй' is a clean distractor because it needs the -ж form (гарч чадахгүй)."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Explanation updated to match the new distractor."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Explanation updated to match the new distractor, and kept parallel with the English version."
+   }
+  ]
+ }
+}

@@ -1,0 +1,407 @@
+{
+ "intro_en": "In this lesson, you will learn how to declare goods at customs, talk with inspectors, and use key terms like duty, limit, and confiscate. You will also learn to guess about past events with -сан болов уу, while Mongolian speakers practice agreement with English words like police, staff, and customs.",
+ "intro_mn": "Энэ хичээлээр та гааль дээр бараа мэдүүлэх, байцаагчтай харилцах, татвар, хязгаар, хураах зэрэг гол нэр томьёог хэрэглэж сурна. Мөн өнгөрсөн үйл явдлын талаар -сан болов уу хэлбэрээр таамаглаж сурна. Англи хэлний хувьд police, staff, customs зэрэг үгтэй үйл үгийг ганц, олон тоогоор зөв зохицуулж сурна.",
+ "vocab": [
+  {
+   "mn": "гаалийн мэдүүлэг",
+   "en": "customs declaration",
+   "pos": "noun phrase",
+   "example_mn": "Гаалийн мэдүүлгээ бөглөөрэй.",
+   "example_en": "Please fill out your customs declaration.",
+   "mn_latin": "gaaliin medüüleg"
+  },
+  {
+   "mn": "мэдүүлэх",
+   "en": "to declare",
+   "pos": "verb",
+   "example_mn": "Танд мэдүүлэх бараа байна уу?",
+   "example_en": "Do you have any goods to declare?",
+   "mn_latin": "medüülekh"
+  },
+  {
+   "mn": "татвар",
+   "en": "duty, tax",
+   "pos": "noun",
+   "example_mn": "Энэ бараанд татвар ногдоно.",
+   "example_en": "This item is subject to duty.",
+   "mn_latin": "tatvar"
+  },
+  {
+   "mn": "хязгаар",
+   "en": "limit",
+   "pos": "noun",
+   "example_mn": "Та хязгаараас хэтэрсэн байна.",
+   "example_en": "You have gone over the limit.",
+   "mn_latin": "khyazgaar"
+  },
+  {
+   "mn": "хураах",
+   "en": "to confiscate, to seize",
+   "pos": "verb",
+   "example_mn": "Гааль мэдүүлээгүй барааг хураав.",
+   "example_en": "Customs seized the undeclared goods.",
+   "mn_latin": "khuraakh"
+  },
+  {
+   "mn": "гаалийн байцаагч",
+   "en": "customs inspector",
+   "pos": "noun phrase",
+   "example_mn": "Гаалийн байцаагч ачааг шалгав.",
+   "example_en": "The customs inspector checked the cargo.",
+   "mn_latin": "gaaliin baitsaagch"
+  },
+  {
+   "mn": "бичиг баримт",
+   "en": "documents, paperwork",
+   "pos": "noun",
+   "example_mn": "Бичиг баримтаа үзүүлнэ үү.",
+   "example_en": "Please show your documents.",
+   "mn_latin": "bichig barimt"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine, penalty",
+   "pos": "noun",
+   "example_mn": "Тэр их хэмжээний торгууль төлсөн.",
+   "example_en": "He paid a large fine.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "ачаа",
+   "en": "cargo, load, luggage",
+   "pos": "noun",
+   "example_mn": "Ачааны машин хил дээр зогсож байна.",
+   "example_en": "The truck is waiting at the border.",
+   "mn_latin": "achaa"
+  },
+  {
+   "mn": "саатуулах",
+   "en": "to detain, to hold up",
+   "pos": "verb",
+   "example_mn": "Манай ачааг хоёр хоног саатуулсан.",
+   "example_en": "Our cargo was held for two days.",
+   "mn_latin": "saatuulakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би гаалийн мэдүүлгээ бөглөж дуусаагүй байна.",
+   "en": "I haven't finished filling out my customs declaration.",
+   "alt_mn": [
+    "Би гаалийн мэдүүлгээ бөглөж амжаагүй байна."
+   ],
+   "alt_en": [
+    "I haven't finished my customs declaration yet."
+   ],
+   "mn_latin": "Bi gaaliin medüülgee böglöj duusaagüi baina."
+  },
+  {
+   "mn": "Татвар ногдох бараагаа мэдүүлнэ үү.",
+   "en": "Please declare any goods that are subject to duty.",
+   "alt_mn": [
+    "Татвартай бараагаа мэдүүлнэ үү."
+   ],
+   "alt_en": [
+    "Please declare all dutiable goods."
+   ],
+   "mn_latin": "Tatvar nogdokh baraagaa medüülne üü."
+  },
+  {
+   "mn": "Хүнсний бүтээгдэхүүнийг хэдэн кг хүртэл оруулж болох вэ?",
+   "en": "How many kilograms of food products can I bring in?",
+   "alt_mn": [
+    "Хүнсний бүтээгдэхүүний хязгаар хэдэн кг вэ?"
+   ],
+   "alt_en": [
+    "What is the limit for food products?"
+   ],
+   "mn_latin": "Khünsnii büteegdekhüüniig kheden kg khürtel oruulj bolokh ve?"
+  },
+  {
+   "mn": "Мэдүүлээгүй барааг гааль хураах эрхтэй.",
+   "en": "Customs has the right to confiscate undeclared goods.",
+   "alt_mn": [
+    "Гааль мэдүүлээгүй барааг хурааж болно."
+   ],
+   "alt_en": [
+    "Customs can seize undeclared goods."
+   ],
+   "mn_latin": "Medüüleegüi baraag gaali khuraakh erkhtei."
+  },
+  {
+   "mn": "Бичиг баримт дутуу байсан болов уу?",
+   "en": "I wonder if the documents were incomplete.",
+   "alt_mn": [
+    "Бичиг баримт дутуу байсан байх."
+   ],
+   "alt_en": [
+    "Maybe the paperwork was incomplete.",
+    "Perhaps the documents were incomplete."
+   ],
+   "mn_latin": "Bichig barimt dutuu baisan bolov uu?"
+  },
+  {
+   "mn": "Ачааг яагаад саатуулсныг байцаагч хэлээгүй.",
+   "en": "The inspector didn't say why the cargo was held.",
+   "alt_mn": [],
+   "alt_en": [
+    "The inspector didn't explain why the cargo was detained."
+   ],
+   "mn_latin": "Achaag yaagaad saatuulsnyg baitsaagch kheleegüi."
+  },
+  {
+   "mn": "Тэр нэхэмжлэхээ буруу бөглөсөн болов уу.",
+   "en": "Maybe he filled out the invoice incorrectly.",
+   "alt_mn": [
+    "Тэр нэхэмжлэхээ буруу бөглөсөн байх."
+   ],
+   "alt_en": [
+    "I wonder if he filled out the invoice wrong.",
+    "Perhaps she filled out the invoice incorrectly."
+   ],
+   "mn_latin": "Ter nekhemjlekhee buruu böglösön bolov uu."
+  },
+  {
+   "mn": "Цагдаа нар ачааны машин бүрийг шалгаж байна.",
+   "en": "The police are checking every truck.",
+   "alt_mn": [
+    "Цагдаа ачааны машин бүрийг шалгаж байна."
+   ],
+   "alt_en": [
+    "The police are inspecting every truck."
+   ],
+   "mn_latin": "Tsagdaa nar achaany mashin büriig shalgaj baina."
+  },
+  {
+   "mn": "Гаалийн ажилтнууд маш эелдэг байсан.",
+   "en": "The customs staff were very polite.",
+   "alt_mn": [],
+   "alt_en": [
+    "The customs staff was very polite.",
+    "The customs officers were very polite."
+   ],
+   "mn_latin": "Gaaliin ajiltnuud mash eyeldeg baisan."
+  },
+  {
+   "mn": "Хязгаараас хэтэрсэн хэсэгт татвар ногдуулна.",
+   "en": "Duty will be charged on the amount over the limit.",
+   "alt_mn": [],
+   "alt_en": [
+    "Anything over the limit will be taxed."
+   ],
+   "mn_latin": "Khyazgaaraas khetersen khesegt tatvar nogduulna."
+  },
+  {
+   "mn": "Хятадын тал зөвшөөрлийн бичгийг илгээгээгүй байсан болов уу.",
+   "en": "Perhaps the Chinese side hadn't sent the permit.",
+   "alt_mn": [],
+   "alt_en": [
+    "I wonder if the Chinese side hadn't sent the permit."
+   ],
+   "mn_latin": "Khyatadyn tal zövshöörliin bichgiig ilgeegeegüi baisan bolov uu."
+  },
+  {
+   "mn": "Торгууль төлөхгүйн тулд бүх бараагаа үнэн зөв мэдүүлээрэй.",
+   "en": "To avoid a fine, declare all your goods accurately.",
+   "alt_mn": [
+    "Торгууль төлөхгүйн тулд бүх бараагаа зөв мэдүүлээрэй."
+   ],
+   "alt_en": [
+    "Declare all your goods accurately so you don't get fined."
+   ],
+   "mn_latin": "Torguuli tölökhgüin tuld bükh baraagaa ünen zöv medüüleerei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Guessing about the past: -сан болов уу",
+  "title_mn": "Англи хэл: police, staff, customs ба ганц, олон тооны зохицол",
+  "explain_en": "To make a careful guess about something that already happened, add the past participle ending -сан/-сэн/-сон/-сөн to the verb (it follows vowel harmony), then add болов уу. It means \"I wonder if...\" or \"maybe/perhaps...\": Бичиг баримт дутуу байсан болов уу = \"Maybe the documents were incomplete.\" Use -сан байсан болов уу for something that had already happened before another past event (\"had...\"): уншаагүй байсан болов уу = \"maybe he hadn't read it.\" For negatives, use -аагүй/-ээгүй/-оогүй/-өөгүй болов уу (again by vowel harmony): илгээгээгүй болов уу = \"maybe they haven't sent it.\" It is softer and less certain than -сан байх (\"probably...\"), so it is very useful when you want to stay polite with officials.",
+  "explain_mn": "Англи хэлэнд \"the police\" үргэлж олон тоогоор хэрэглэгдэнэ: The police ARE checking... (polices гэж хэлдэггүй). Нэг хүнийг \"a police officer\" гэнэ. \"Staff\" нь хамт олныг илэрхийлэх үг. Америк англи хэлэнд ихэвчлэн ганц тоогоор (The staff is...) хэрэглэдэг ч ажилтнуудыг тус тусад нь бодвол олон тоогоор (The staff are...) хэлж болно. \"Customs\" нь байгууллагын утгаар Америкт ихэвчлэн ганц тоотой (Customs has seized...) байдаг бол \"customs duties\" (гаалийн татвар) үргэлж олон тоотой байна.",
+  "examples": [
+   {
+    "mn": "Ачааны машин хилээр гарсан болов уу?",
+    "en": "I wonder if the truck has crossed the border.",
+    "mn_latin": "Achaany mashin khileer garsan bolov uu?"
+   },
+   {
+    "mn": "Байцаагч миний мэдүүлгийг уншаагүй байсан болов уу.",
+    "en": "Maybe the inspector hadn't read my declaration.",
+    "mn_latin": "Baitsaagch minii medüülgiig unshaagüi baisan bolov uu."
+   },
+   {
+    "mn": "Цагдаа нар замыг хаасан байна.",
+    "en": "The police have closed the road.",
+    "mn_latin": "Tsagdaa nar zamyg khaasan baina."
+   },
+   {
+    "mn": "Гааль бүх ачааг хураасан.",
+    "en": "Customs has seized all the cargo.",
+    "mn_latin": "Gaali bükh achaag khuraasan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бичиг баримт дутуу ___ болов уу.",
+   "answer": "байсан",
+   "options": [
+    "байсан",
+    "байна",
+    "байвал",
+    "байв"
+   ],
+   "translation": "Maybe the documents were incomplete.",
+   "explain_en": "болов уу makes a guess (\"I wonder if / maybe\"). To make the guess about the past, the verb before it must be the past participle: байсан.",
+   "explain_mn": "болов уу нь таамаглал илэрхийлдэг. Өнгөрсөн үйл явдлын тухай таамаглахын тулд өмнө нь -сан хэлбэр (байсан) орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Гааль мэдүүлээгүй барааг ___.",
+   "answer": "хураана",
+   "options": [
+    "хураана",
+    "мэдүүлнэ",
+    "төлнө",
+    "бөглөнө"
+   ],
+   "translation": "Customs will confiscate undeclared goods.",
+   "explain_en": "Хураах means \"to confiscate.\" It is what customs does to undeclared goods.",
+   "explain_mn": "Мэдүүлээгүй барааг гааль хураадаг тул \"хураана\" гэдэг үйл үг утгад тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэд мэдүүлгээ буруу бөглө___ болов уу.",
+   "answer": "сөн",
+   "options": [
+    "сөн",
+    "сан",
+    "сэн",
+    "сон"
+   ],
+   "translation": "Perhaps they filled out the declaration incorrectly.",
+   "explain_en": "The stem бөглө- has the vowel ө, so vowel harmony requires -сөн: бөглөсөн.",
+   "explain_mn": "Эгшиг зохицох ёсоор ө эгшигтэй үгэнд -сөн залгана: бөглөсөн."
+  },
+  {
+   "lang": "en",
+   "text": "The police ___ checking every truck at the border.",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "was",
+    "has"
+   ],
+   "translation": "Цагдаа нар хил дээр ачааны машин бүрийг шалгаж байна.",
+   "explain_en": "\"Police\" is always plural, so it takes \"are.\"",
+   "explain_mn": "\"Police\" үргэлж олон тоотой тул \"are\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The police said ___ would need more time to inspect the cargo.",
+   "answer": "they",
+   "options": [
+    "they",
+    "it",
+    "he",
+    "she"
+   ],
+   "translation": "Цагдаа нар ачааг шалгахад илүү хугацаа хэрэгтэй гэж хэлсэн.",
+   "explain_en": "Since \"police\" is plural, the pronoun that refers back to it must be \"they.\"",
+   "explain_mn": "\"Police\" олон тоотой тул түүнийг орлох төлөөний үг нь \"they\" байна."
+  },
+  {
+   "lang": "en",
+   "text": "Two ___ officers stopped our truck near Zamyn-Üüd.",
+   "answer": "police",
+   "options": [
+    "police",
+    "polices",
+    "policeman",
+    "police's"
+   ],
+   "translation": "Хоёр цагдаа Замын-Үүдийн ойролцоо манай ачааны машиныг зогсоосон.",
+   "explain_en": "Before a noun like \"officers,\" \"police\" works as a modifier and never takes -s.",
+   "explain_mn": "\"Police\" нь \"officers\" гэдэг үгийн өмнө тодотгол болж орох ба -s авдаггүй. \"Polices\" гэх хэлбэр байхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батэрдэнэ",
+   "mn": "Сайн байна уу. Гаалийн мэдүүлгээ өгнө үү. Танд мэдүүлэх бараа байна уу?",
+   "en": "Hello. Please hand me your customs declaration. Do you have any goods to declare?",
+   "mn_latin": "Sain baina uu. Gaaliin medüülgee ögnö üü. Tand medüülekh baraa baina uu?"
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Сайн байна уу. Хоёр хайрцаг ноолууран бүтээгдэхүүн байгаа. Бүгдийг нь мэдүүлгэнд бичсэн.",
+   "en": "Hello. I have two boxes of cashmere products. I listed all of them on the declaration.",
+   "mn_latin": "Sain baina uu. Khoyor khairtsag nooluuran büteegdekhüün baigaa. Bügdiig ni medüülgend bichsen."
+  },
+  {
+   "speaker": "Батэрдэнэ",
+   "mn": "Энэ хэмжээ хувийн хэрэглээний хязгаараас хэтэрсэн байна. Татвар төлөх шаардлагатай.",
+   "en": "This amount is over the limit for personal use. You'll need to pay duty.",
+   "mn_latin": "Ene khemjee khuviin kheregleenii khyazgaaraas khetersen baina. Tatvar tölökh shaardlagatai."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Өнгөрсөн удаа асуудал гараагүй. Дүрэм өөрчлөгдсөн болов уу?",
+   "en": "There was no problem last time. I wonder if the rules have changed.",
+   "mn_latin": "Öngörsön udaa asuudal garaagüi. Dürem öörchlögdsön bolov uu?"
+  },
+  {
+   "speaker": "Батэрдэнэ",
+   "mn": "Тийм ээ, энэ оноос хязгаарыг багасгасан. Мөн таны нэхэмжлэх дээр тамга алга.",
+   "en": "Yes, the limit was lowered this year. Also, there's no stamp on your invoice.",
+   "mn_latin": "Tiim ee, ene onoos khyazgaaryg bagasgasan. Mön tany nekhemjlekh deer tamga alga."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Ханган нийлүүлэгч тамга дарахаа мартсан болов уу. Бараагаа хураалгах уу?",
+   "en": "Maybe the supplier forgot to stamp it. Will my goods be confiscated?",
+   "mn_latin": "Khangan niilüülegch tamga darakhaa martsan bolov uu. Baraagaa khuraalgakh uu?"
+  },
+  {
+   "speaker": "Батэрдэнэ",
+   "mn": "Үгүй, хураахгүй. Гэхдээ зөв бичиг баримт ирэх хүртэл ачааг саатуулна.",
+   "en": "No, they won't be confiscated. But we'll hold the cargo until the correct documents arrive.",
+   "mn_latin": "Ügüi, khuraakhgüi. Gekhdee zöv bichig barimt irekh khürtel achaag saatuulna."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Ойлголоо. Өнөөдрөө багтаан шинэ нэхэмжлэх явуулахыг гуйя. Баярлалаа.",
+   "en": "I understand. I'll ask them to send a new invoice before the end of today. Thank you.",
+   "mn_latin": "Oilgoloo. Önöödröö bagtaan shine nekhemjlekh yavuulakhyg guiya. Bayarlalaa."
+  }
+ ],
+ "culture_note": {
+  "en": "Zamyn-Üüd, across from Erenhot in China, is Mongolia's busiest land border crossing. Much of the country's imported food, clothing, and building materials pass through it. Small-scale traders, often called \"ченж\" (from the English word \"change\"), have crossed here for decades, so customs limits on personal goods and duty rules are everyday topics for many Mongolian families.",
+  "mn": "Хятадын Эрээн хоттой хиллэдэг Замын-Үүд бол Монголын хамгийн ачаалалтай хуурай замын боомт юм. Улсын импортын хүнс, хувцас, барилгын материалын ихэнх нь энэ боомтоор дамжин ордог. \"Ченж\" гэж нэрлэгддэг жижиг худалдаачид олон арван жил энэ хилээр зорчсоор ирсэн тул хувийн барааны хязгаар, татварын журам нь олон монгол гэр бүлийн өдөр тутмын яриа болдог."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Solid, accurate lesson with natural text in both languages. The main issue was a fill-in-the-blank with more than one correct option and an inaccurate explanation of what болов уу does."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is solid overall. The en/mn grammar parts deliberately cover different topics because the course runs in both directions, so I left that difference unchanged.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The negative ending also follows vowel harmony. The 'had' use was clarified with an example."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "'Их хэмжээний торгууль' is the standard way to say 'large fine'; 'том торгууль' sounds unidiomatic."
+   }
+  ]
+ }
+}

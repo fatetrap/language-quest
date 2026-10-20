@@ -1,0 +1,431 @@
+{
+ "intro_en": "In this lesson you will learn to explain how a detective caught a lie, using deduction words like дүгнэлт (conclusion), зөрчил (contradiction), and илчлэх (to give away). You will also practice the Mongolian focus construction that matches English wh-clefts like \"What gave him away was...\"",
+ "intro_mn": "Энэ хичээлээр та мөрдөгч худлыг хэрхэн илрүүлснийг conclusion (дүгнэлт), contradiction (зөрчил), give away (илчлэх) зэрэг дүгнэлт хийхэд хэрэглэдэг үгсээр тайлбарлаж сурна. Мөн англи хэлний \"What gave him away was...\" гэх мэт wh-cleft бүтцийг ашиглан гол санааг онцолж хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "дүгнэлт",
+   "en": "conclusion",
+   "pos": "noun",
+   "example_mn": "Мөрдөгч зөв дүгнэлт хийсэн.",
+   "example_en": "The detective drew the right conclusion.",
+   "mn_latin": "dügnelt"
+  },
+  {
+   "mn": "зөрчил",
+   "en": "contradiction, inconsistency",
+   "pos": "noun",
+   "example_mn": "Түүний мэдүүлэгт ноцтой зөрчил байсан.",
+   "example_en": "There was a serious contradiction in his statement.",
+   "mn_latin": "zörchil"
+  },
+  {
+   "mn": "илчлэх",
+   "en": "to give away, to expose",
+   "pos": "verb",
+   "example_mn": "Жижиг алдаа түүнийг илчилсэн.",
+   "example_en": "A small mistake gave him away.",
+   "mn_latin": "ilchlekh"
+  },
+  {
+   "mn": "сэжиг төрөх",
+   "en": "to become suspicious",
+   "pos": "verb phrase",
+   "example_mn": "Түүний хариултыг сонсоод надад сэжиг төрсөн.",
+   "example_en": "When I heard his answer, I became suspicious.",
+   "mn_latin": "sejig törökh"
+  },
+  {
+   "mn": "мэдүүлэг",
+   "en": "statement, testimony",
+   "pos": "noun",
+   "example_mn": "Гэрч цагдаад мэдүүлэг өгсөн.",
+   "example_en": "The witness gave a statement to the police.",
+   "mn_latin": "medüüleg"
+  },
+  {
+   "mn": "анзаарах",
+   "en": "to notice",
+   "pos": "verb",
+   "example_mn": "Мөрдөгч гутал дээрх шаврыг анзаарав.",
+   "example_en": "The detective noticed the mud on the shoes.",
+   "mn_latin": "anzaarakh"
+  },
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence",
+   "pos": "noun",
+   "example_mn": "Нотлох баримт хангалтгүй байна.",
+   "example_en": "There isn't enough evidence.",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "худал хэлэх",
+   "en": "to lie, to tell a lie",
+   "pos": "verb phrase",
+   "example_mn": "Тэр анхнаасаа худал хэлж байсан.",
+   "example_en": "He had been lying from the start.",
+   "mn_latin": "khudal khelekh"
+  },
+  {
+   "mn": "алиби",
+   "en": "alibi",
+   "pos": "noun",
+   "example_mn": "Түүний алиби нурсан.",
+   "example_en": "His alibi fell apart.",
+   "mn_latin": "alibi"
+  },
+  {
+   "mn": "тохирох",
+   "en": "to match, to fit",
+   "pos": "verb",
+   "example_mn": "Цаг хугацаа нь тохирохгүй байна.",
+   "example_en": "The times don't match.",
+   "mn_latin": "tokhirokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Түүнийг илчилсэн нь нэгэн өчүүхэн жижиг зүйл байлаа.",
+   "en": "What gave him away was one tiny detail.",
+   "alt_mn": [
+    "Түүнийг илчилсэн зүйл бол нэгэн өчүүхэн жижиг зүйл байв."
+   ],
+   "alt_en": [
+    "What gave him away was a tiny detail.",
+    "It was one tiny detail that gave him away."
+   ],
+   "mn_latin": "Tüüniig ilchilsen ni negen öchüükhen jijig züil bailaa."
+  },
+  {
+   "mn": "Надад сэжиг төрүүлсэн зүйл бол түүний хэтэрхий тайван хоолой байсан.",
+   "en": "What made me suspicious was his overly calm voice.",
+   "alt_mn": [
+    "Надад сэжиг төрүүлсэн нь түүний хэтэрхий тайван хоолой байв."
+   ],
+   "alt_en": [
+    "What made me suspicious was how calm his voice was."
+   ],
+   "mn_latin": "Nadad sejig törüülsen züil bol tüünii kheterkhii taivan khooloi baisan."
+  },
+  {
+   "mn": "Мөрдөгчийн хамгийн түрүүнд анзаарсан зүйл бол түүний гутал дээрх шавар байв.",
+   "en": "What the detective noticed first was the mud on his boots.",
+   "alt_mn": [
+    "Мөрдөгчийн хамгийн түрүүнд анзаарсан нь түүний гутал дээрх шавар байлаа."
+   ],
+   "alt_en": [
+    "The first thing the detective noticed was the mud on his boots."
+   ],
+   "mn_latin": "Mördögchiin khamgiin türüünd anzaarsan züil bol tüünii gutal deerkh shavar baiv."
+  },
+  {
+   "mn": "Хоёр мэдүүлгийн хооронд тодорхой зөрчил байсан.",
+   "en": "There was a clear contradiction between the two statements.",
+   "alt_mn": [
+    "Хоёр мэдүүлэг хоорондоо тодорхой зөрчилтэй байсан."
+   ],
+   "alt_en": [
+    "The two statements clearly contradicted each other."
+   ],
+   "mn_latin": "Khoyor medüülgiin khoorond todorkhoi zörchil baisan."
+  },
+  {
+   "mn": "Түүний тайлбарлаж чадаагүй зүйл бол хаалга яагаад дотроосоо түгжээтэй байсан нь байв.",
+   "en": "What she couldn't explain was why the door was locked from the inside.",
+   "alt_mn": [
+    "Хаалга яагаад дотроосоо түгжээтэй байсныг тэр тайлбарлаж чадаагүй."
+   ],
+   "alt_en": [
+    "What she could not explain was why the door had been locked from the inside."
+   ],
+   "mn_latin": "Tüünii tailbarlaj chadaagüi züil bol khaalga yaagaad dotroosoo tügjeetei baisan ni baiv."
+  },
+  {
+   "mn": "Нотлох баримтад үндэслэн мөрдөгч жолоочийг худал хэлж байна гэж дүгнэв.",
+   "en": "Based on the evidence, the detective concluded that the driver was lying.",
+   "alt_mn": [
+    "Нотлох баримт дээр үндэслээд мөрдөгч жолоочийг худал хэлж байна гэсэн дүгнэлтэд хүрсэн."
+   ],
+   "alt_en": [
+    "Based on the evidence, the detective came to the conclusion that the driver was lying."
+   ],
+   "mn_latin": "Notlokh barimtad ündeslen mördögch joloochiig khudal khelj baina gej dügnev."
+  },
+  {
+   "mn": "Түүний алиби автобусны хуваарьтай тохирохгүй байв.",
+   "en": "His alibi didn't match the bus schedule.",
+   "alt_mn": [
+    "Түүний алиби автобусны хуваарьтай таарахгүй байсан."
+   ],
+   "alt_en": [
+    "His alibi did not match the bus schedule."
+   ],
+   "mn_latin": "Tüünii alibi avtobusny khuvaaritai tokhirokhgüi baiv."
+  },
+  {
+   "mn": "Худлыг нь илчилсэн зүйл бол Улаанбаатарын нэгэн кафены кассын баримт байв.",
+   "en": "What exposed the lie was a receipt from a café in Ulaanbaatar.",
+   "alt_mn": [
+    "Худлыг нь илчилсэн нь Улаанбаатарын нэгэн кафены кассын баримт байлаа."
+   ],
+   "alt_en": [
+    "What exposed his lie was a receipt from a café in Ulaanbaatar."
+   ],
+   "mn_latin": "Khudlyg ni ilchilsen züil bol Ulaanbaataryn negen kafyeny kassyn barimt baiv."
+  },
+  {
+   "mn": "Тэр хөдөө байсан гэж мэдүүлсэн ч утас нь хотод байжээ.",
+   "en": "She claimed she was in the countryside, but her phone was in the city.",
+   "alt_mn": [
+    "Тэр хөдөө байсан гэж хэлсэн боловч утас нь хотод байсан."
+   ],
+   "alt_en": [
+    "She said she had been in the countryside, but her phone was in the city."
+   ],
+   "mn_latin": "Ter khödöö baisan gej medüülsen ch utas ni khotod baijee."
+  },
+  {
+   "mn": "Хамгийн чухал нь түүний хэлсэн зүйл биш, хэлээгүй зүйл юм.",
+   "en": "What matters most is not what he said, but what he didn't say.",
+   "alt_mn": [
+    "Түүний хэлсэн зүйл биш, хэлээгүй зүйл нь хамгийн чухал."
+   ],
+   "alt_en": [
+    "The most important thing is not what he said, but what he didn't say."
+   ],
+   "mn_latin": "Khamgiin chukhal ni tüünii khelsen züil bish, kheleegüi züil yum."
+  },
+  {
+   "mn": "Түүнийг яриагаа өөрчлөхөд л надад сэжиг төрсөн.",
+   "en": "I became suspicious the moment he changed his story.",
+   "alt_mn": [
+    "Тэр яриагаа өөрчлөх тэр мөчид надад сэжиг төрсөн."
+   ],
+   "alt_en": [
+    "I got suspicious as soon as he changed his story."
+   ],
+   "mn_latin": "Tüüniig yariagaa öörchlökhöd l nadad sejig törsön."
+  },
+  {
+   "mn": "Цагдаа нарын мэдээгүй зүйл бол гэрч нь түүний эгч байсан явдал байв.",
+   "en": "What the police didn't know was that the witness was his sister.",
+   "alt_mn": [
+    "Цагдаа нарын мэдээгүй нь гэрч түүний эгч байсан явдал юм."
+   ],
+   "alt_en": [
+    "What the police did not know was that the witness was his sister."
+   ],
+   "mn_latin": "Tsagdaa naryn medeegüi züil bol gerch ni tüünii egch baisan yavdal baiv."
+  }
+ ],
+ "grammar": {
+  "title_en": "Putting the key point last: \"What gave him away was...\"",
+  "title_mn": "Гол санааг онцлох: Wh-cleft (What gave him away was...)",
+  "explain_en": "To build suspense and highlight the key fact, Mongolian turns the first part of the sentence into a noun phrase. Take a past participle (-сан/-сэн/-сон/-сөн, following vowel harmony) and add either нь or зүйл бол. Then put the highlighted fact at the end with байв/байсан (past) or юм (present). So \"Түүнийг илчилсэн нь цас байв\" means \"What gave him away was the snow.\" The pattern is: [clause + participle] + нь / зүйл бол + [focus] + байв. To highlight a whole fact rather than a thing, end with ...сан явдал: \"гэрч түүний эгч байсан явдал\" (the fact that the witness was his sister).",
+  "explain_mn": "Англи хэлэнд гол мэдээллийг өгүүлбэрийн төгсгөлд онцолж хэлэхдээ wh-cleft бүтэц хэрэглэдэг: What + өгүүлбэр + be + онцлох хэсэг. Жишээ нь: \"What gave him away was the snow.\" Энэ нь \"Түүнийг илчилсэн нь цас байв\" гэсэнтэй яг адил. What-хэсэг ганц тоо гэж тооцогддог тул ихэвчлэн was/is хэрэглэнэ. Онцлох хэсэг нь нэр үг (the snow), that-өгүүлбэр (that the clock had stopped), эсвэл how/why-өгүүлбэр (why the door was locked) байж болно. Энэ бүтэц мөрдөгчийн түүхэнд маш түгээмэл. Энгийн \"The snow gave him away\" гэснээс илүү сэтгэл хөдөлгөм, драматик сонсогддог.",
+  "examples": [
+   {
+    "mn": "Түүнийг илчилсэн нь гутал дээрх цас байв.",
+    "en": "What gave him away was the snow on his boots.",
+    "mn_latin": "Tüüniig ilchilsen ni gutal deerkh tsas baiv."
+   },
+   {
+    "mn": "Надад сэжиг төрүүлсэн зүйл бол түүний инээд байсан.",
+    "en": "What made me suspicious was his laugh.",
+    "mn_latin": "Nadad sejig törüülsen züil bol tüünii ineed baisan."
+   },
+   {
+    "mn": "Мөрдөгчийн анзаарсан зүйл бол цаг зогссон явдал байв.",
+    "en": "What the detective noticed was that the clock had stopped.",
+    "mn_latin": "Mördögchiin anzaarsan züil bol tsag zogsson yavdal baiv."
+   },
+   {
+    "mn": "Бидний мэдэх ёстой зүйл бол тэр шөнө түүний хаана байсан нь юм.",
+    "en": "What we need to know is where he was that night.",
+    "mn_latin": "Bidnii medekh yostoi züil bol ter shönö tüünii khaana baisan ni yum."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Түүнийг илчил___ зүйл бол түүний бугуйн цаг байв.",
+   "answer": "сэн",
+   "options": [
+    "сэн",
+    "сан",
+    "сон",
+    "сөн"
+   ],
+   "translation": "What gave him away was his watch.",
+   "explain_en": "The verb илчлэх has front vowels (и, э), so vowel harmony requires the past participle ending -сэн: илчилсэн. The participle turns the clause into a noun phrase before зүйл бол.",
+   "explain_mn": "Илчлэх үйл үг эм үгийн эгшигтэй тул эгшиг зохицох ёсоор -сэн нөхцөл авна: илчилсэн. Англиар энэ бүтэц \"What gave him away was...\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хоёр мэдүүлгийн хооронд ноцтой ___ байсан.",
+   "answer": "зөрчил",
+   "options": [
+    "зөрчил",
+    "дүгнэлт",
+    "алиби",
+    "сэжиг"
+   ],
+   "translation": "There was a serious contradiction between the two statements.",
+   "explain_en": "Two statements that don't agree contain a зөрчил (contradiction). Дүгнэлт is a conclusion, and алиби is an alibi. Сэжиг is a suspicion, which a person has rather than something found \"between\" two statements.",
+   "explain_mn": "Хоёр мэдүүлэг хоорондоо таарахгүй бол зөрчил (contradiction) байна гэнэ. Англиар \"a contradiction between the two statements\"."
+  },
+  {
+   "lang": "mn",
+   "text": "Түүний хариултыг сонсоод надад сэжиг ___.",
+   "answer": "төрсөн",
+   "options": [
+    "төрсөн",
+    "өгсөн",
+    "хийсэн",
+    "авсан"
+   ],
+   "translation": "When I heard his answer, I became suspicious.",
+   "explain_en": "The fixed expression is сэжиг төрөх (literally \"suspicion is born\"). The person who feels it takes the dative: надад. Other verbs don't combine with сэжиг this way.",
+   "explain_mn": "\"Сэжиг төрөх\" нь тогтвортой хэллэг. Англиар \"to become suspicious\" эсвэл \"to get suspicious\" гэж хэлнэ: \"I became suspicious.\""
+  },
+  {
+   "lang": "en",
+   "text": "What gave him away ___ the mud on his shoes.",
+   "answer": "was",
+   "options": [
+    "was",
+    "were",
+    "did",
+    "had"
+   ],
+   "translation": "Түүнийг илчилсэн нь түүний гутал дээрх шавар байв.",
+   "explain_en": "In a wh-cleft, the What-clause acts as a singular subject, so it takes a singular form of \"be\". Here the past tense \"was\" matches \"gave\".",
+   "explain_mn": "Wh-cleft бүтцэд What-хэсэг ганц тооны өгүүлэгдэхүүн болдог тул be үйл үгийн ганц тооны хэлбэр хэрэглэнэ. Өнгөрсөн цаг (gave) учир was байна. Монголоор \"...нь ... байв\" гэсэнтэй адил."
+  },
+  {
+   "lang": "en",
+   "text": "___ made me suspicious was his nervous laugh.",
+   "answer": "What",
+   "options": [
+    "What",
+    "That",
+    "Which",
+    "It"
+   ],
+   "translation": "Надад сэжиг төрүүлсэн зүйл бол түүний сандарсан инээд байв.",
+   "explain_en": "A wh-cleft starts with \"What\", meaning \"the thing that\". \"That\" and \"Which\" can't begin this kind of subject clause. \"It\" would need a different pattern: \"It was his laugh that...\"",
+   "explain_mn": "Wh-cleft заавал What-аар эхэлнэ. What гэдэг нь \"...сан зүйл\" гэсэн утгатай. That, Which-ээр ингэж эхэлж болохгүй. It-ээр эхэлбэл өөр бүтэц болно: \"It was his laugh that made me suspicious.\""
+  },
+  {
+   "lang": "en",
+   "text": "What the detective noticed was ___ the clock had stopped.",
+   "answer": "that",
+   "options": [
+    "that",
+    "what",
+    "which",
+    "it"
+   ],
+   "translation": "Мөрдөгчийн анзаарсан зүйл бол цаг зогссон явдал байв.",
+   "explain_en": "When the focus is a whole fact, introduce it with \"that\". In Mongolian this matches the pattern ...сан явдал.",
+   "explain_mn": "Онцлох хэсэг нь бүтэн үйл явдал (баримт) бол that-аар эхэлнэ. Монголоор \"...сан явдал\" гэсэнтэй адил."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Тэгэхээр жолоочийг худал хэлж байгааг та яаж мэдсэн бэ?",
+   "en": "So how did you know the driver was lying?",
+   "mn_latin": "Tegekheer joloochiig khudal khelj baigaag ta yaaj medsen be?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Эхэндээ би түүнд итгэсэн. Мэдүүлэг нь бүрэн логиктой сонсогдож байсан.",
+   "en": "At first I believed him. His statement sounded perfectly logical.",
+   "mn_latin": "Ekhendee bi tüünd itgesen. Medüüleg ni büren logiktoi sonsogdoj baisan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгвэл танд юунаас болж сэжиг төрсөн бэ?",
+   "en": "Then what made you suspicious?",
+   "mn_latin": "Tegvel tand yuunaas bolj sejig törsön be?"
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Надад сэжиг төрүүлсэн зүйл бол цас байсан. Тэр шөнөжин Дарханаас машин барьж ирсэн гэсэн ч машин дээр нь цас огт байгаагүй.",
+   "en": "What made me suspicious was the snow. He said he had driven all night from Darkhan, but there was no snow on his car at all.",
+   "mn_latin": "Nadad sejig törüülsen züil bol tsas baisan. Ter shönöjin Darkhanaas mashin barij irsen gesen ch mashin deer ni tsas ogt baigaagüi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Гэтэл тэр замд шөнөжин их цас орсон шүү дээ.",
+   "en": "But it snowed heavily on that road all night.",
+   "mn_latin": "Getel ter zamd shönöjin ikh tsas orson shüü dee."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Яг тийм. Тэр зөрчил намайг ганц дүгнэлтэд хүргэсэн: машин нь хотод, дулаан гаражид байсан.",
+   "en": "Exactly. That contradiction led me to one conclusion: his car had been in a warm garage in the city.",
+   "mn_latin": "Yag tiim. Ter zörchil namaig gants dügnelted khürgesen: mashin ni khotod, dulaan garajid baisan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгэхээр түүнийг илчилсэн зүйл бол түүний огт бодоогүй зүйл байжээ.",
+   "en": "So what gave him away was something he never even thought about.",
+   "mn_latin": "Tegekheer tüüniig ilchilsen züil bol tüünii ogt bodoogüi züil baijee."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Худалч хүмүүс хэлсэн үгээ санадаг. Харин цаг агаарыг бараг санадаггүй.",
+   "en": "Liars remember their words. They rarely remember the weather.",
+   "mn_latin": "Khudalch khümüüs khelsen ügee sanadag. Kharin tsag agaaryg barag sanadaggüi."
+  }
+ ],
+ "culture_note": {
+  "en": "Sherlock Holmes and Agatha Christie are widely read in Mongolian translation, and detective series are popular on Mongolian TV. Deduction also has a traditional side: herders in the countryside can tell from a hoof print how long ago a horse passed, whether it was ridden, and even whose horse it was. That skill is often used to find lost animals.",
+  "mn": "Шерлок Холмс, Агата Кристигийн зохиолууд монгол хэлээр өргөн уншигддаг бөгөөд мөрдөгчийн цувралууд Монголын телевизээр их гардаг. Дүгнэлт хийх ур чадвар уламжлалт амьдралд ч бий. Хөдөөний малчид туурайн мөрөөр морь хэзээ өнгөрснийг, хүн унасан эсэхийг, бүр хэний морь болохыг хүртэл таньж, төөрсөн малаа хайхдаа ашигладаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A strong, accurate lesson with natural Mongolian and English throughout. Only one example sentence was missing its subject."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 5,
+  "notes": "Mostly solid lesson; fixed one unnatural cleft, one meaning mismatch, a culture-note wording issue and intro parity.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the vocabulary part that intro_en mentions"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "'...байсан шалтгаан байв' is unnatural; an embedded 'яагаад ... нь' clause matches 'why'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "'Хамгийн чухал' means 'most important', not 'really matters'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "the old alt became a duplicate of the new main sentence"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'унаатай байсан' is unclear for a horse; 'хүн унасан эсэх' = whether it was ridden"
+   }
+  ]
+ }
+}

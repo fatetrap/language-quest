@@ -1,0 +1,400 @@
+{
+ "intro_en": "Read and write a peacekeeper's letters home about patrols, camps, and civilians. You will use \"-ыг үндэслэн\" to give the grounds for a decision, and in English you will practice shortened relative clauses like \"families waiting at home\" and \"a camp full of refugees.\"",
+ "intro_mn": "Энхийг сахиулагчийн эргүүл, хуаран, энгийн иргэдийн тухай гэр рүүгээ бичсэн захидлыг уншиж, бичиж сурна. Шийдвэрийн үндэслэлийг \"-ыг үндэслэн\" хэлбэрээр илэрхийлнэ. Англи хэлэнд \"families waiting at home\", \"a camp full of refugees\" гэх мэт товчилсон тодотгол өгүүлбэрээр дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "эргүүл",
+   "en": "patrol",
+   "pos": "noun",
+   "example_mn": "Өнөөдрийн эргүүл зургаан цаг үргэлжилсэн.",
+   "example_en": "Today's patrol lasted six hours.",
+   "mn_latin": "ergüül"
+  },
+  {
+   "mn": "хуаран",
+   "en": "camp, base",
+   "pos": "noun",
+   "example_mn": "Манай хуаран голын эрэг дээр байдаг.",
+   "example_en": "Our camp is on the bank of a river.",
+   "mn_latin": "khuaran"
+  },
+  {
+   "mn": "дүрвэгсэд",
+   "en": "refugees",
+   "pos": "noun (plural)",
+   "example_mn": "Дүрвэгсэд шөнөжин алхаж ирсэн.",
+   "example_en": "The refugees walked all night to get here.",
+   "mn_latin": "dürvegsed"
+  },
+  {
+   "mn": "хамгаалалт",
+   "en": "protection, security",
+   "pos": "noun",
+   "example_mn": "Тосгонд хамгаалалт хэрэгтэй байна.",
+   "example_en": "The village needs protection.",
+   "mn_latin": "khamgaalalt"
+  },
+  {
+   "mn": "эргэж ирэх",
+   "en": "to come back, to return",
+   "pos": "verb",
+   "example_mn": "Би удахгүй эргэж ирнэ.",
+   "example_en": "I will come back soon.",
+   "mn_latin": "ergej irekh"
+  },
+  {
+   "mn": "үндэслэх",
+   "en": "to base on",
+   "pos": "verb",
+   "example_mn": "Бид баримтыг үндэслэн дүгнэлт гаргасан.",
+   "example_en": "We drew a conclusion based on the facts.",
+   "mn_latin": "ündeslekh"
+  },
+  {
+   "mn": "энгийн иргэд",
+   "en": "civilians",
+   "pos": "noun (plural)",
+   "example_mn": "Энгийн иргэд зах руу явж эхэлсэн.",
+   "example_en": "Civilians started going to the market.",
+   "mn_latin": "engiin irged"
+  },
+  {
+   "mn": "номлол",
+   "en": "mission",
+   "pos": "noun",
+   "example_mn": "Энэ бол миний анхны номлол.",
+   "example_en": "This is my first mission.",
+   "mn_latin": "nomlol"
+  },
+  {
+   "mn": "хүмүүнлэгийн тусламж",
+   "en": "humanitarian aid",
+   "pos": "noun",
+   "example_mn": "Хүмүүнлэгийн тусламж өнөөдөр ирлээ.",
+   "example_en": "The humanitarian aid arrived today.",
+   "mn_latin": "khümüünlegiin tuslamj"
+  },
+  {
+   "mn": "нөхцөл байдал",
+   "en": "situation, conditions",
+   "pos": "noun",
+   "example_mn": "Нөхцөл байдал тайван байна.",
+   "example_en": "The situation is calm.",
+   "mn_latin": "nökhtsöl baidal"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Мэдээллийг үндэслэн бид өнөө өглөө эргүүлийн маршрутаа өөрчилсөн.",
+   "en": "Based on the information, we changed our patrol route this morning.",
+   "alt_mn": [
+    "Мэдээлэлд үндэслэн бид өнөө өглөө эргүүлийн маршрутаа өөрчилсөн."
+   ],
+   "alt_en": [
+    "On the basis of the information, we changed our patrol route this morning."
+   ],
+   "mn_latin": "Medeelliig ündeslen bid önöö öglöö ergüüliin marshrutaa öörchilsön."
+  },
+  {
+   "mn": "Дүрвэгсдээр дүүрсэн хуаран манай баазаас ердөө таван километрийн зайд байдаг.",
+   "en": "A camp full of refugees is only five kilometers from our base.",
+   "alt_mn": [],
+   "alt_en": [
+    "A camp crowded with refugees is only five kilometers from our base."
+   ],
+   "mn_latin": "Dürvegsdeer düürsen khuaran manai baazaas yerdöö tavan kilomyetriin zaid baidag."
+  },
+  {
+   "mn": "Гэртээ хүлээж буй гэр бүлүүдийнхээ тухай бид орой бүр ярьдаг.",
+   "en": "Every evening we talk about our families waiting at home.",
+   "alt_mn": [
+    "Гэртээ хүлээж байгаа гэр бүлүүдийнхээ тухай бид орой бүр ярьдаг."
+   ],
+   "alt_en": [
+    "We talk every evening about our families waiting at home."
+   ],
+   "mn_latin": "Gertee khüleej bui ger bülüüdiinkhee tukhai bid oroi bür yaridag."
+  },
+  {
+   "mn": "Нөхцөл байдлыг үндэслэн командлагч шөнийн эргүүлийг цуцалсан.",
+   "en": "Based on the situation, the commander canceled the night patrol.",
+   "alt_mn": [
+    "Нөхцөл байдалд үндэслэн командлагч шөнийн эргүүлийг цуцалсан."
+   ],
+   "alt_en": [
+    "Given the situation, the commander canceled the night patrol."
+   ],
+   "mn_latin": "Nökhtsöl baidlyg ündeslen komandlagch shöniin ergüüliig tsutsalsan."
+  },
+  {
+   "mn": "Энгийн иргэдийн хамгаалалт бол манай номлолын гол зорилго.",
+   "en": "Protecting civilians is the main goal of our mission.",
+   "alt_mn": [],
+   "alt_en": [
+    "The protection of civilians is the main goal of our mission."
+   ],
+   "mn_latin": "Engiin irgediin khamgaalalt bol manai nomlolyn gol zorilgo."
+  },
+  {
+   "mn": "Бид тосгоны хүүхдүүдэд ус, хүнс тараасан.",
+   "en": "We handed out water and food to the children in the village.",
+   "alt_mn": [],
+   "alt_en": [
+    "We distributed water and food to the children in the village."
+   ],
+   "mn_latin": "Bid tosgony khüükhdüüded us, khüns taraasan."
+  },
+  {
+   "mn": "Ээжээ, таны захидлууд надад хүч өгдөг шүү.",
+   "en": "Mom, your letters really give me strength.",
+   "alt_mn": [
+    "Ээжээ, таны захидал надад хүч өгдөг шүү."
+   ],
+   "alt_en": [
+    "Mom, your letters give me strength."
+   ],
+   "mn_latin": "Eejee, tany zakhidluud nadad khüch ögdög shüü."
+  },
+  {
+   "mn": "Би есдүгээр сард гэртээ эргэж ирнэ гэж найдаж байна.",
+   "en": "I hope to come back home in September.",
+   "alt_mn": [],
+   "alt_en": [
+    "I hope I'll be back home in September."
+   ],
+   "mn_latin": "Bi yesdügeer sard gertee ergej irne gej naidaj baina."
+  },
+  {
+   "mn": "Нүдээр үзсэн хүмүүсийн яриаг үндэслэн бид тайлан бичсэн.",
+   "en": "We wrote a report based on eyewitness accounts.",
+   "alt_mn": [
+    "Гэрчүүдийн яриаг үндэслэн бид тайлан бичсэн."
+   ],
+   "alt_en": [
+    "Based on eyewitness accounts, we wrote a report."
+   ],
+   "mn_latin": "Nüdeer üzsen khümüüsiin yariag ündeslen bid tailan bichsen."
+  },
+  {
+   "mn": "Эмнэлгийн хэрэгслээр дүүрэн ачааны машинууд өчигдөр ирсэн.",
+   "en": "Trucks full of medical supplies arrived yesterday.",
+   "alt_mn": [
+    "Эмнэлгийн хэрэгсэл ачсан машинууд өчигдөр ирсэн."
+   ],
+   "alt_en": [
+    "Trucks loaded with medical supplies arrived yesterday."
+   ],
+   "mn_latin": "Emnelgiin kheregsleer düüren achaany mashinuud öchigdör irsen."
+  },
+  {
+   "mn": "Хуарангийн хажууд амьдардаг нэг өвгөн надад цай авчирч өгсөн.",
+   "en": "An old man living next to the camp brought me tea.",
+   "alt_mn": [],
+   "alt_en": [
+    "An old man who lives next to the camp brought me tea."
+   ],
+   "mn_latin": "Khuarangiin khajuud amidardag neg övgön nadad tsai avchirch ögsön."
+  },
+  {
+   "mn": "Аюулгүй байдлын үнэлгээг үндэслэн бид зөвхөн өдрийн цагаар хөдөлдөг.",
+   "en": "Based on the security assessment, we only move during the day.",
+   "alt_mn": [],
+   "alt_en": [
+    "Based on the security assessment, we travel only in daylight."
+   ],
+   "mn_latin": "Ayuulgüi baidlyn ünelgeeg ündeslen bid zövkhön ödriin tsagaar khödöldög."
+  }
+ ],
+ "grammar": {
+  "title_en": "Giving grounds with \"-ыг үндэслэн\"",
+  "title_mn": "Товчилсон тодотгол: \"families waiting at home\", \"a camp full of refugees\"",
+  "explain_en": "To say \"based on X\" or \"on the grounds of X,\" put X in the accusative case (-ыг/-ийг after consonants, -г after long vowels and diphthongs) and add \"үндэслэн.\" Үндэслэн comes from үндэслэх \"to base on\" and works like \"basing (it) on.\" Examples: мэдээллийг үндэслэн \"based on the information,\" нөхцөл байдлыг үндэслэн \"based on the situation,\" яриаг үндэслэн \"based on the accounts.\" The phrase usually opens the sentence, and the decision comes at the end. It sounds formal, so it fits reports and serious letters. You will also see the dative version, мэдээлэлд үндэслэн, which means the same thing.",
+  "explain_mn": "Англи хэлэнд \"who are\", \"that is\" хэсгийг хасаад тодотголыг нэр үгийн АРД шууд залгаж болдог. Монгол хэлэнд тодотгол нэр үгийн өмнө ордогоос ялгаатай. Жишээ нь: families (who are) waiting at home \"гэртээ хүлээж буй гэр бүлүүд\", a camp (that is) full of refugees \"дүрвэгсдээр дүүрсэн хуаран\", the children in the village \"тосгоны хүүхдүүд\", trucks full of medical supplies \"эмнэлгийн хэрэгслээр дүүрэн машинууд\". Нэмэлт үгтэй тэмдэг нэр (full of..., ready for...), угтвар үгтэй хэллэг (in the village, at home), -ing хэлбэр (waiting, living) бүгд нэр үгийн ард байрлана. \"A full of refugees camp\" гэж хэлж болохгүй.",
+  "examples": [
+   {
+    "mn": "Мэдээллийг үндэслэн бид маршрутаа өөрчилсөн.",
+    "en": "Based on the information, we changed our route.",
+    "mn_latin": "Medeelliig ündeslen bid marshrutaa öörchilsön."
+   },
+   {
+    "mn": "Нөхцөл байдлыг үндэслэн эргүүлийг хойшлуулсан.",
+    "en": "Based on the situation, the patrol was postponed.",
+    "mn_latin": "Nökhtsöl baidlyg ündeslen ergüüliig khoishluulsan."
+   },
+   {
+    "mn": "Дүрвэгсдээр дүүрсэн хуаран голын ойролцоо байдаг.",
+    "en": "A camp full of refugees is near the river.",
+    "mn_latin": "Dürvegsdeer düürsen khuaran golyn oiroltsoo baidag."
+   },
+   {
+    "mn": "Гэртээ хүлээж буй гэр бүлүүд бидэнд захидал бичдэг.",
+    "en": "Families waiting at home write us letters.",
+    "mn_latin": "Gertee khüleej bui ger bülüüd bidend zakhidal bichdeg."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шинэ мэдээлл___ үндэслэн бид маршрутаа өөрчилсөн.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "ийн",
+    "ээс",
+    "тэй"
+   ],
+   "translation": "Based on the new information, we changed our route.",
+   "explain_en": "Үндэслэн takes the accusative case. Мэдээлэл drops its last vowel before the ending, which gives мэдээллийг.",
+   "explain_mn": "\"Үндэслэн\" нь заахын тийн ялгалтай нийлдэг тул \"мэдээллийг\" болно. Харьяалахын \"-ийн\", гарахын \"-ээс\" энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Дүрвэгсд___ дүүрсэн хуаран манай баазын ойролцоо байдаг.",
+   "answer": "ээр",
+   "options": [
+    "ээр",
+    "ийг",
+    "эд",
+    "ийн"
+   ],
+   "translation": "A camp full of refugees is near our base.",
+   "explain_en": "Дүүрэх \"to fill\" marks what something is full of with the instrumental case (-аар/-ээр). The front vowels in дүрвэгсэд call for -ээр.",
+   "explain_mn": "\"Дүүрэх\" үйл үг юугаар дүүрснийг үйлдэхийн тийн ялгалаар (-аар/-ээр) заадаг. Эгшиг зохицлоор \"дүрвэгсдээр\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Би есдүгээр сард гэртээ эргэж ___ гэж найдаж байна.",
+   "answer": "ирнэ",
+   "options": [
+    "ирнэ",
+    "ирсэн",
+    "ирээд",
+    "ирэх"
+   ],
+   "translation": "I hope to come back home in September.",
+   "explain_en": "The return is still in the future, and the clause before \"гэж\" needs a finished verb form. That is the future/present ending -нэ: ирнэ.",
+   "explain_mn": "Ирээдүйд болох үйлийг \"гэж\"-ийн өмнө төгссөн хэлбэрээр илэрхийлэхэд \"ирнэ\" тохирно. \"Ирсэн\" нь өнгөрсөн цаг, \"ирээд\" нь нөхцөл үйл үг юм."
+  },
+  {
+   "lang": "en",
+   "text": "We visited a camp ___ of refugees.",
+   "answer": "full",
+   "options": [
+    "full",
+    "filled",
+    "filling",
+    "fully"
+   ],
+   "translation": "Бид дүрвэгсдээр дүүрсэн хуаранд очсон.",
+   "explain_en": "Only the adjective \"full\" goes with \"of\" here. It stands after the noun as a shortened relative clause: a camp (that is) full of refugees. \"Filled\" would need \"with.\"",
+   "explain_mn": "\"Full of\" хэллэг нэр үгийн ард ирж \"that is\"-ийг орлодог. \"Filled\" нь \"with\"-тэй хэрэглэгддэг, \"fully\" бол дайвар үг."
+  },
+  {
+   "lang": "en",
+   "text": "The families ___ at home miss us very much.",
+   "answer": "waiting",
+   "options": [
+    "waiting",
+    "waited",
+    "wait",
+    "to wait"
+   ],
+   "translation": "Гэртээ хүлээж буй гэр бүлүүд биднийг их санаж байна.",
+   "explain_en": "An -ing form after the noun shortens \"who are waiting\": the families waiting at home.",
+   "explain_mn": "\"Who are waiting\"-ийг товчилж нэр үгийн ард \"-ing\" хэлбэр тавина. \"Waited\" бол идэвхгүй утгатай болох тул тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "___ on the new information, we changed the route.",
+   "answer": "Based",
+   "options": [
+    "Based",
+    "Basing",
+    "Base",
+    "Basis"
+   ],
+   "translation": "Шинэ мэдээллийг үндэслэн бид маршрутаа өөрчилсөн.",
+   "explain_en": "The fixed phrase is \"based on.\" It matches Mongolian \"-ыг үндэслэн.\"",
+   "explain_mn": "\"Based on ...\" бол \"-ыг үндэслэн\"-ий англи хувилбар, тогтвортой хэллэг юм."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Батаа, сайн уу? Захидлыг чинь өчигдөр авлаа. Хүүхдүүд их баярласан.",
+   "en": "Hi, Bataa! I got your letter yesterday. The kids were so happy.",
+   "mn_latin": "Bataa, sain uu? Zakhidlyg chini öchigdör avlaa. Khüükhdüüd ikh bayarlasan."
+  },
+  {
+   "speaker": "Batbold",
+   "mn": "Сайн, сайн. Өнөөдөр эргүүлээс арай эрт буцаж ирлээ.",
+   "en": "Hi! Today I got back from patrol a bit early.",
+   "mn_latin": "Sain, sain. Önöödör ergüülees arai ert butsaj irlee."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Яагаад? Ямар нэг юм болоо юу?",
+   "en": "Why? Did something happen?",
+   "mn_latin": "Yaagaad? Yamar neg yum boloo yuu?"
+  },
+  {
+   "speaker": "Batbold",
+   "mn": "Санаа зоволтгүй. Нөхцөл байдлыг үндэслэн командлагч маршрутыг богиносгосон юм.",
+   "en": "Don't worry. Based on the situation, the commander shortened the route.",
+   "mn_latin": "Sanaa zovoltgüi. Nökhtsöl baidlyg ündeslen komandlagch marshrutyg boginosgoson yum."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Дүрвэгсдийн хуаран руу очсон уу?",
+   "en": "Did you go to the refugee camp?",
+   "mn_latin": "Dürvegsdiin khuaran ruu ochson uu?"
+  },
+  {
+   "speaker": "Batbold",
+   "mn": "Тийм ээ, хүүхдүүдээр дүүрсэн майханд ус, хүнс хүргэж өгсөн. Тэд манай хүүхдүүдтэй нас чацуу.",
+   "en": "Yes, we delivered water and food to a tent full of children. They're the same age as ours.",
+   "mn_latin": "Tiim ee, khüükhdüüdeer düürsen maikhand us, khüns khürgej ögsön. Ted manai khüükhdüüdtei nas chatsuu."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Чамаар бахархаж байна. Зүгээр л эсэн мэнд эргэж ирээрэй.",
+   "en": "I'm proud of you. Just come back safe and sound.",
+   "mn_latin": "Chamaar bakharkhaj baina. Zügeer l esen mend ergej ireerei."
+  },
+  {
+   "speaker": "Batbold",
+   "mn": "Заавал ирнэ. Цагаан сараар гэртээ байна гэж амлая.",
+   "en": "I definitely will. I promise I'll be home for Tsagaan Sar.",
+   "mn_latin": "Zaaval irne. Tsagaan saraar gertee baina gej amlaya."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia has sent soldiers on UN peacekeeping missions since 2002. Since 2011, Mongolian battalions have served in South Sudan, where they guard sites that shelter thousands of displaced civilians. Families stay in touch through phone and video calls. When a contingent comes home, relatives often meet the soldiers at the airport in Ulaanbaatar with blue khadag scarves.",
+  "mn": "Монгол Улс 2002 оноос хойш НҮБ-ын энхийг сахиулах ажиллагаанд цэрэг илгээж байна. 2011 оноос эхлэн Монгол батальонууд Өмнөд Суданд үүрэг гүйцэтгэж, мянга мянган дүрвэсэн энгийн иргэдийн хоргодох газрыг хамгаалж ирсэн. Гэр бүлүүд утас, видео дуудлагаар холбоотой байдаг. Анги эргэж ирэхэд төрөл төрөгсөд нь Улаанбаатарын нисэх онгоцны буудал дээр ихэвчлэн хөх хадагтай угтдаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 0,
+  "notes": "Accurate, natural lesson. Both languages read correctly, the translation pairs match, each blank has one clear answer, and the grammar explanations for both audiences are sound. No real errors found."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "A solid lesson: only one unnatural phrase in the Mongolian intro and one small en/mn mismatch in the culture note.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "\"дадлагажуулна\" is unnatural here; \"дадлага хийнэ\" is the standard phrase"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The mn version was missing \"often\" (ихэвчлэн), which the en version has"
+   }
+  ]
+ }
+}

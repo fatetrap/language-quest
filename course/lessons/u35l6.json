@@ -1,0 +1,548 @@
+{
+ "intro_en": "You will learn to talk about how history, your country or your family story might have turned out differently. You will review all the English conditionals, plus wish and as if / suppose, and the Mongolian -сан бол / -х байсан pattern.",
+ "intro_mn": "Та түүх, улс орон, гэр бүлийнхээ түүх өөрөөр өрнөж болох байсныг ярьж сурна. Англи хэлний бүх нөхцөлт өгүүлбэр, wish, as if, suppose болон монгол хэлний -сан бол / -х байсан хэлбэрийг давтана.",
+ "vocab": [
+  {
+   "mn": "түүх",
+   "en": "history; story",
+   "pos": "noun",
+   "example_mn": "Манай гэр бүлийн түүх сонирхолтой.",
+   "example_en": "Our family's story is interesting.",
+   "mn_latin": "tüükh"
+  },
+  {
+   "mn": "өвөг дээдэс",
+   "en": "ancestors",
+   "pos": "noun",
+   "example_mn": "Миний өвөг дээдэс малчин хүмүүс байсан.",
+   "example_en": "My ancestors were herders.",
+   "mn_latin": "övög deedes"
+  },
+  {
+   "mn": "үр дагавар",
+   "en": "consequence",
+   "pos": "noun",
+   "example_mn": "Тэр шийдвэр их үр дагавартай байсан.",
+   "example_en": "That decision had big consequences.",
+   "mn_latin": "ür dagavar"
+  },
+  {
+   "mn": "шалтгаан",
+   "en": "cause, reason",
+   "pos": "noun",
+   "example_mn": "Дайны шалтгааныг судалдаг.",
+   "example_en": "They study the causes of the war.",
+   "mn_latin": "shaltgaan"
+  },
+  {
+   "mn": "нүүх",
+   "en": "to move (house, region)",
+   "pos": "verb",
+   "example_mn": "Өвөө маань хот руу нүүж ирсэн.",
+   "example_en": "My grandfather moved to the city.",
+   "mn_latin": "nüükh"
+  },
+  {
+   "mn": "өөрчлөгдөх",
+   "en": "to change",
+   "pos": "verb",
+   "example_mn": "Хот маш хурдан өөрчлөгдөж байна.",
+   "example_en": "The city is changing very fast.",
+   "mn_latin": "öörchlögdökh"
+  },
+  {
+   "mn": "тусгаар тогтнол",
+   "en": "independence",
+   "pos": "noun",
+   "example_mn": "Монгол Улс тусгаар тогтнолоо хамгаалсан.",
+   "example_en": "Mongolia defended its independence.",
+   "mn_latin": "tusgaar togtnol"
+  },
+  {
+   "mn": "эзэнт гүрэн",
+   "en": "empire",
+   "pos": "noun",
+   "example_mn": "Монгол эзэнт гүрэн маш том байсан.",
+   "example_en": "The Mongol Empire was very large.",
+   "mn_latin": "ezent güren"
+  },
+  {
+   "mn": "боломж",
+   "en": "opportunity, possibility",
+   "pos": "noun",
+   "example_mn": "Тэр боломжоо алдсан.",
+   "example_en": "He missed his opportunity.",
+   "mn_latin": "bolomj"
+  },
+  {
+   "mn": "төсөөлөх",
+   "en": "to imagine",
+   "pos": "verb",
+   "example_mn": "Өөр амьдралыг төсөөлөхөд хэцүү.",
+   "example_en": "It is hard to imagine a different life.",
+   "mn_latin": "tösöölökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өвөө эмээ маань хөдөө үлдсэн бол би хотод төрөхгүй байсан.",
+   "en": "If my grandparents had stayed in the countryside, I wouldn't have been born in the city.",
+   "alt_mn": [
+    "Өвөө эмээ минь хөдөө үлдсэн бол би хотод төрөхгүй байсан."
+   ],
+   "alt_en": [
+    "Had my grandparents stayed in the countryside, I wouldn't have been born in the city."
+   ],
+   "mn_latin": "Övöö emee maani khödöö üldsen bol bi khotod törökhgüi baisan."
+  },
+  {
+   "mn": "Хэрвээ Монгол тусгаар тогтнолоо аваагүй бол юу болох байсан бол?",
+   "en": "What would have happened if Mongolia had not gained its independence?",
+   "alt_mn": [],
+   "alt_en": [
+    "What would have happened had Mongolia not gained its independence?"
+   ],
+   "mn_latin": "Khervee Mongol tusgaar togtnoloo avaagüi bol yuu bolokh baisan bol?"
+  },
+  {
+   "mn": "Тэр шийдвэр гараагүй бол манай гэр бүл одоо өөрөөр амьдарч байх байсан.",
+   "en": "If that decision hadn't been made, our family would be living differently now.",
+   "alt_mn": [],
+   "alt_en": [
+    "If that decision had not been made, our family would be living a different life now."
+   ],
+   "mn_latin": "Ter shiidver garaagüi bol manai ger bül odoo ööröör amidarch baikh baisan."
+  },
+  {
+   "mn": "Өвөг дээдэс минь нүүгээгүй бол бид одоо ч малчин байх байсан.",
+   "en": "If my ancestors hadn't moved, we would still be herders.",
+   "alt_mn": [],
+   "alt_en": [
+    "Had my ancestors not moved, we would still be herders today."
+   ],
+   "mn_latin": "Övög deedes mini nüügeegüi bol bid odoo ch malchin baikh baisan."
+  },
+  {
+   "mn": "Өвөө минь тэр өвлийг даван туулаагүй бол манай гэр бүл байхгүй байх байсан.",
+   "en": "If my grandfather hadn't survived that winter, our family wouldn't exist.",
+   "alt_mn": [],
+   "alt_en": [
+    "If my grandfather hadn't gotten through that winter, our family wouldn't exist."
+   ],
+   "mn_latin": "Övöö mini ter övliig davan tuulaagüi bol manai ger bül baikhgüi baikh baisan."
+  },
+  {
+   "mn": "Өвөө хөдөө үлдсэн бол сайн байсан гэж хааяа боддог.",
+   "en": "Sometimes I wish my grandfather had stayed in the countryside.",
+   "alt_mn": [
+    "Өвөө хөдөө үлдсэн бол гэж хааяа боддог."
+   ],
+   "alt_en": [
+    "Sometimes I wish Grandpa had stayed in the countryside."
+   ],
+   "mn_latin": "Övöö khödöö üldsen bol sain baisan gej khaayaa boddog."
+  },
+  {
+   "mn": "Тэр яг л хаан юм шиг аашилдаг.",
+   "en": "He acts as if he were a king.",
+   "alt_mn": [
+    "Тэр хаан юм шиг аашилдаг."
+   ],
+   "alt_en": [
+    "He behaves as though he were a king."
+   ],
+   "mn_latin": "Ter yag l khaan yum shig aashildag."
+  },
+  {
+   "mn": "Төсөөлөөд үз дээ, хэрвээ бид тэр боломжийг алдаагүй бол яах байсан бол?",
+   "en": "Suppose we hadn't missed that opportunity. What would we have done?",
+   "alt_mn": [],
+   "alt_en": [
+    "Imagine we hadn't missed that opportunity. What would we have done?"
+   ],
+   "mn_latin": "Tösöölööd üz dee, khervee bid ter bolomjiig aldaagüi bol yaakh baisan bol?"
+  },
+  {
+   "mn": "Хэрэв тэр дайн болоогүй бол олон хүн амьд үлдэх байсан.",
+   "en": "If that war hadn't happened, many people would have survived.",
+   "alt_mn": [],
+   "alt_en": [
+    "Had that war not happened, many people would have survived."
+   ],
+   "mn_latin": "Kherev ter dain boloogüi bol olon khün amid üldekh baisan."
+  },
+  {
+   "mn": "Хэрэв би хотод өссөн бол монгол ёс заншлыг ингэж сайн мэдэхгүй байх байсан.",
+   "en": "If I had grown up in the city, I wouldn't know Mongolian customs this well.",
+   "alt_mn": [],
+   "alt_en": [
+    "If I had grown up in the city, I wouldn't know Mongolian traditions so well."
+   ],
+   "mn_latin": "Kherev bi khotod össön bol mongol yos zanshlyg ingej sain medekhgüi baikh baisan."
+  },
+  {
+   "mn": "Хэрвээ бороо орвол өвс сайн ургана.",
+   "en": "If it rains, the grass will grow well.",
+   "alt_mn": [
+    "Бороо орвол өвс сайн ургана."
+   ],
+   "alt_en": [
+    "If it rains, the grass grows well."
+   ],
+   "mn_latin": "Khervee boroo orvol övs sain urgana."
+  },
+  {
+   "mn": "Түүхийг өөрчилж чадахгүй ч түүнээс суралцаж болно.",
+   "en": "We can't change history, but we can learn from it.",
+   "alt_mn": [
+    "Түүхийг өөрчлөх боломжгүй ч түүнээс суралцаж болно."
+   ],
+   "alt_en": [
+    "We cannot change history, but we can learn from it."
+   ],
+   "mn_latin": "Tüükhiig öörchilj chadakhgüi ch tüünees suraltsaj bolno."
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling a whole 'what if' story: -сан бол + -х байсан",
+  "title_mn": "Өргөтгөсөн «хэрэв...» түүх: -сан бол + -х байсан",
+  "explain_en": "To say how the past might have been different, put the 'if' part in the past participle + бол (-сан/-сэн/-сөн/-сон бол; negative -аагүй бол), and the result in the future participle + байсан (-х байсан). Example: Нүүгээгүй бол бид малчин байх байсан. In a longer story you can chain several clauses: A-сан бол, B-х байсан; B-гүй бол, C-х байсан. Add хэрвээ or хэрэв at the start for emphasis. If the result still affects the present, use -х байсан or -ж байх байсан (would be doing now). For a regret about the past, use -сан бол сайн байсан (Өвөө хөдөө үлдсэн бол сайн байсан). For a wish about the future, use -аасай/-ээсэй (үлдээсэй).",
+  "explain_mn": "Монгол хэлэнд өнгөрсөн үйл явдлыг өөрөөр төсөөлөхдөө «-сан бол» ба «-х байсан» хэлбэрийг хэрэглэнэ. Англи хэлэнд: If + past perfect, would have + V3 (3-р төрөл). Одоогийн үр дагаврыг хэлэхэд холимог хэлбэр: If I had stayed, I would be living there now. Бодит нөхцөл: If it rains, the grass will grow. Wish + past perfect нь өнгөрсөнд харамсахыг, wish + past simple нь одоогийн хүслийг илэрхийлнэ. As if / as though нь «яг л ... юм шиг» гэсэн утгатай. Suppose + past perfect нь «хэрэв ... байсан бол яах байсан бэ?» гэсэн утгатай. Албан хэлэнд Had + subject + V3 гэж урвуулж болно.",
+  "examples": [
+   {
+    "mn": "Өвөө эмээ маань хот руу нүүгээгүй бол би хөдөө өсөх байсан.",
+    "en": "If my grandparents hadn't moved to the city, I would have grown up in the countryside.",
+    "mn_latin": "Övöö emee maani khot ruu nüügeegüi bol bi khödöö ösökh baisan."
+   },
+   {
+    "mn": "Би хөдөө өссөн бол одоо мал маллаж байх байсан.",
+    "en": "If I had grown up in the countryside, I would be herding animals now.",
+    "mn_latin": "Bi khödöö össön bol odoo mal mallaj baikh baisan."
+   },
+   {
+    "mn": "Аав минь тэр галт тэргэнд суугаагүй бол ээжтэй минь уулзахгүй байсан.",
+    "en": "If my father hadn't taken that train, he wouldn't have met my mother.",
+    "mn_latin": "Aav mini ter galt tergend suugaagüi bol eejtei mini uulzakhgüi baisan."
+   },
+   {
+    "mn": "Түүх өөр байсан бол гэж бодох дуртай.",
+    "en": "I like to think about how history might have been different.",
+    "mn_latin": "Tüükh öör baisan bol gej bodokh durtai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэд хот руу нүүгээгүй ___, бид одоо хөдөө амьдарч байх байсан.",
+   "answer": "бол",
+   "options": [
+    "бол",
+    "ч",
+    "гэж",
+    "тул"
+   ],
+   "translation": "If they hadn't moved to the city, we would be living in the countryside now.",
+   "explain_en": "The 'if' clause ends with the participle + бол: нүүгээгүй бол = if (they) had not moved.",
+   "explain_mn": "Нөхцөл заасан өгүүлбэр «-гүй бол» хэлбэрээр төгсөнө: нүүгээгүй бол."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр цаг үед дайн болоогүй бол олон хүн амьд үлд___ байсан.",
+   "answer": "эх",
+   "options": [
+    "эх",
+    "сэн",
+    "ж",
+    "ээд"
+   ],
+   "translation": "If the war hadn't happened then, many people would have survived.",
+   "explain_en": "The result clause uses the future participle + байсан: үлдэх байсан = would have survived.",
+   "explain_mn": "Үр дүнг -х байсан хэлбэрээр илэрхийлнэ: үлдэх байсан."
+  },
+  {
+   "lang": "mn",
+   "text": "Өвөө минь тэр өвөл амьд үлдээгүй бол манай гэр бүл ___ байх байсан.",
+   "answer": "байхгүй",
+   "options": [
+    "байхгүй",
+    "байсан",
+    "байдаг",
+    "байна"
+   ],
+   "translation": "If my grandfather hadn't survived that winter, our family wouldn't exist.",
+   "explain_en": "Байхгүй means 'not exist'; with байх байсан it gives 'would not exist'.",
+   "explain_mn": "«Байхгүй байх байсан» нь «оршихгүй байх байсан» гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "If my great-grandparents ___ to the city, I would be a herder now.",
+   "answer": "hadn't moved",
+   "options": [
+    "hadn't moved",
+    "didn't move",
+    "wouldn't have moved",
+    "haven't moved"
+   ],
+   "translation": "Хэрэв элэнц өвөө эмээ маань хот руу нүүгээгүй бол би одоо малчин байх байсан.",
+   "explain_en": "Unreal past condition: if + past perfect (hadn't moved), result with would + base verb for the present.",
+   "explain_mn": "Өнгөрсөнд бодит бус нөхцөл: if + past perfect (hadn't moved), одоогийн үр дүнд would + үйл үгийн үндсэн хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "I wish my grandfather ___ more stories about his childhood before he passed away.",
+   "answer": "had told me",
+   "options": [
+    "had told me",
+    "told me",
+    "would tell me",
+    "has told me"
+   ],
+   "translation": "Өвөө минь өөд болохоосоо өмнө бага насныхаа тухай илүү их ярьж өгсөн бол гэж боддог.",
+   "explain_en": "To regret something in the past, use wish + past perfect.",
+   "explain_mn": "Өнгөрсөнд харамсахдаа wish + past perfect хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ the empire not collapsed, the world map would look very different today.",
+   "answer": "Had",
+   "options": [
+    "Had",
+    "If",
+    "Would",
+    "Did"
+   ],
+   "translation": "Эзэнт гүрэн задраагүй бол өнөөдөр дэлхийн газрын зураг маш өөр харагдах байсан.",
+   "explain_en": "Inverted third conditional: Had + subject + past participle, without 'if'. Here 'not' follows the subject: Had the empire not collapsed.",
+   "explain_mn": "Албан бичгийн урвуу бүтэц: Had + subject + V3, «if» орхигдоно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Өвөө маань 1950-аад онд хөдөөнөөс Улаанбаатар руу нүүсэн юм.",
+   "en": "My grandfather moved from the countryside to Ulaanbaatar in the 1950s.",
+   "mn_latin": "Övöö maani 1950-aad ond khödöönöös Ulaanbaatar ruu nüüsen yum."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Үнэхээр үү? Тэр нүүгээгүй бол чи одоо хаана байх байсан бол?",
+   "en": "Really? If he hadn't moved, where would you be now?",
+   "mn_latin": "Ünekheer üü? Ter nüügeegüi bol chi odoo khaana baikh baisan bol?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Магадгүй Архангайд мал маллаж байх байсан. Эцэг эх маань ч уулзахгүй байсан байх.",
+   "en": "Maybe I'd be herding animals in Arkhangai. My parents might never have met either.",
+   "mn_latin": "Magadgüi Arkhangaid mal mallaj baikh baisan. Etseg ekh maani ch uulzakhgüi baisan baikh."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Нэг шийдвэр бүх юмыг өөрчилсөн байна шүү дээ.",
+   "en": "So one decision changed everything.",
+   "mn_latin": "Neg shiidver bükh yumyg öörchilsön baina shüü dee."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тийм. Заримдаа өвөө хөдөө үлдсэн бол гэж боддог. Тэгвэл би морь унаж өссөн байх байсан.",
+   "en": "Yes. Sometimes I think, what if he had stayed? Then I would have grown up riding horses.",
+   "mn_latin": "Tiim. Zarimdaa övöö khödöö üldsen bol gej boddog. Tegvel bi mori unaj össön baikh baisan."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Чи одоо ч гэсэн хөдөө өссөн юм шиг ярьдаг юм аа.",
+   "en": "You still talk as if you had grown up in the countryside.",
+   "mn_latin": "Chi odoo ch gesen khödöö össön yum shig yaridag yum aa."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Зуны амралтаараа очдог байсан болохоор тэр байх. Төсөөлөөд үз, түүх өөр байсан бол бид уулзах байсан болов уу?",
+   "en": "That's probably because I spent my summer vacations there. Imagine, if history had been different, would we have met?",
+   "mn_latin": "Zuny amraltaaraa ochdog baisan bolokhoor ter baikh. Tösöölööd üz, tüükh öör baisan bol bid uulzakh baisan bolov uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Мэдэхгүй ээ, гэхдээ одоо уулзсанд баяртай байна.",
+   "en": "I don't know, but I'm glad we did meet.",
+   "mn_latin": "Medekhgüi ee, gekhdee odoo uulzsand bayartai baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Many families in Ulaanbaatar can trace their story to a move from the countryside, often during the socialist era, when people came to the capital for work, school or the army. Mongolians often talk about how history could have gone differently, especially around 1911, 1921 and 1990, when independence and democracy were won. Family stories about ancestors, such as a hard winter or a long journey on horseback, are passed down with great pride.",
+  "mn": "Улаанбаатарын олон гэр бүл түүхээ хөдөөнөөс хот руу нүүснээс эхэлдэг. Ихэнхдээ социализмын үед хүмүүс ажил, сургууль, цэргийн албаар нийслэлд ирсэн. Монголчууд түүх өөрөөр өрнөж болох байсан тухай, ялангуяа тусгаар тогтнол, ардчиллаа олж авсан 1911, 1921, 1990 оны үйл явдлын талаар их ярьдаг. Хүнд өвөл, морин дээрх урт аялал зэрэг өвөг дээдсийнхээ түүхийг ихэд бахархан дамжуулдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 17,
+  "notes": "Mostly good content with several Mongolian case/typo errors and some mismatches."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 27,
+  "notes": "Main fixes: vowel harmony (үлдэх), invalid wish forms, нүүх + руу, wrong possessive (ээжтэйгээ), and awkward English in the dialogue.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "Example did not use the target word өөрчлөгдөх."
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_en",
+    "why": "Matches the new example."
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "бэрх is literary; хэцүү is the natural everyday word."
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "en",
+    "why": "Restores одоо (now)."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "-сан болоосой is not the standard way to express a past regret."
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "'хаан байсан юм шиг' wrongly implies the past, and 'өөрийгөө' is unnatural here."
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "Removes the unnatural 'өөрийгөө'."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "With 'opportunity', English says 'miss', not 'lose'. The run-on sentence is also fixed."
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "With 'opportunity', English says 'miss', not 'lose'."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "'many more' adds a meaning the Mongolian doesn't have."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "'-саан болоосой' is not a real form. This corrects the wish patterns."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "With нүүх the direction takes руу, not -д."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "ээжтэйгээ means 'his own mother', and 'Тэр' was ambiguous."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "en",
+    "why": "Matches the corrected Mongolian."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "With нүүх the direction takes руу."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "answer",
+    "why": "Vowel harmony: the correct form is үлдэх, not үлдөх."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "Options now follow correct vowel harmony."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "Correct form is үлдэх."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Correct form is үлдэх."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "'элэнц өвөг эцэг эх' is unnatural."
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "Now matches the English explanation."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "'I wonder what if he'd stayed' is ungrammatical. 'Then' (Тэгвэл) was missing."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "In standard usage хөдөө is locative without -д."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "'anyway' doesn't match одоо ч гэсэн."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "Restores the hedge 'байх' and fits Төсөөлөөд үз."
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "'glad we met now' is unnatural."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The old sentence was ungrammatical and did not match the English meaning."
+   }
+  ]
+ }
+}

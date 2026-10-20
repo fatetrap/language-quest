@@ -1,0 +1,420 @@
+{
+ "intro_en": "You'll read the opening of a classic crime novel set in a library. You'll learn key detective-story vocabulary and how Mongolian highlights 'who did it' with the -сан нь ... байсан construction, the counterpart of English it-clefts.",
+ "intro_mn": "Номын санд өрнөх сонгодог гэмт хэргийн зохиолын эхний бүлгийг уншина. Мөрдөгч зохиолын гол үгсийг сурч, англи хэлний it-cleft буюу \"It was the butler who...\" бүтцээр өгүүлбэрийн нэг хэсгийг онцолж сурна.",
+ "vocab": [
+  {
+   "mn": "мөрдөгч",
+   "en": "detective",
+   "pos": "noun",
+   "example_mn": "Мөрдөгч өрөөг анхааралтай нэгжив.",
+   "example_en": "The detective searched the room carefully.",
+   "mn_latin": "mördögch"
+  },
+  {
+   "mn": "хэрэг",
+   "en": "case",
+   "pos": "noun",
+   "example_mn": "Энэ хэрэг маш ээдрээтэй болж хувирав.",
+   "example_en": "This case turned out to be very complicated.",
+   "mn_latin": "khereg"
+  },
+  {
+   "mn": "хохирогч",
+   "en": "victim",
+   "pos": "noun",
+   "example_mn": "Хохирогч бол нэртэй түүхч байжээ.",
+   "example_en": "The victim was a well-known historian.",
+   "mn_latin": "khokhirogch"
+  },
+  {
+   "mn": "гэмт хэрэгтэн",
+   "en": "criminal",
+   "pos": "noun",
+   "example_mn": "Гэмт хэрэгтэн шөнө дунд зугтжээ.",
+   "example_en": "The criminal escaped at midnight.",
+   "mn_latin": "gemt kheregten"
+  },
+  {
+   "mn": "нууцлаг",
+   "en": "mysterious",
+   "pos": "adjective",
+   "example_mn": "Тэр шөнө нууцлаг дуу сонсогдов.",
+   "example_en": "A mysterious sound was heard that night.",
+   "mn_latin": "nuutslag"
+  },
+  {
+   "mn": "цогцос",
+   "en": "body, corpse",
+   "pos": "noun",
+   "example_mn": "Цогцсыг үйлчлэгч бүсгүй олжээ.",
+   "example_en": "The maid found the body.",
+   "mn_latin": "tsogtsos"
+  },
+  {
+   "mn": "сэжигтэн",
+   "en": "suspect",
+   "pos": "noun",
+   "example_mn": "Цагдаа гурван сэжигтнийг байцаав.",
+   "example_en": "The police questioned three suspects.",
+   "mn_latin": "sejigten"
+  },
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence",
+   "pos": "noun",
+   "example_mn": "Түүнийг буруутгах нотлох баримт алга.",
+   "example_en": "There is no evidence against him.",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "гэрч",
+   "en": "witness",
+   "pos": "noun",
+   "example_mn": "Гэрч бүх зүйлийг харсан гэж хэлэв.",
+   "example_en": "The witness said he had seen everything.",
+   "mn_latin": "gerch"
+  },
+  {
+   "mn": "ул мөр",
+   "en": "trace, clue",
+   "pos": "noun",
+   "example_mn": "Шалан дээр цусны ул мөр үлджээ.",
+   "example_en": "Traces of blood were left on the floor.",
+   "mn_latin": "ul mör"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Номын сангийн шалан дээрээс цогцос олдсон нь өглөөний зургаан цагийн үед байлаа.",
+   "en": "It was around six in the morning that a body was found on the library floor.",
+   "alt_mn": [
+    "Номын сангийн шалан дээрээс цогцос өглөөний зургаан цагийн үед олдсон юм."
+   ],
+   "alt_en": [
+    "It was at about six in the morning that a body was found on the library floor."
+   ],
+   "mn_latin": "Nomyn sangiin shalan deerees tsogtsos oldson ni öglöönii zurgaan tsagiin üyed bailaa."
+  },
+  {
+   "mn": "Хохирогчийг хамгийн сүүлд амьд харсан нь зарц байсан.",
+   "en": "It was the butler who last saw the victim alive.",
+   "alt_mn": [
+    "Хохирогчийг хамгийн сүүлд амьд харсан хүн нь зарц байсан."
+   ],
+   "alt_en": [
+    "It was the butler who was the last to see the victim alive."
+   ],
+   "mn_latin": "Khokhirogchiig khamgiin süüld amid kharsan ni zarts baisan."
+  },
+  {
+   "mn": "Мөрдөгч Батбаяр энэ хэргийг гурван өдрийн дотор илрүүлнэ гэж амласан.",
+   "en": "Detective Batbayar promised to solve the case within three days.",
+   "alt_mn": [
+    "Мөрдөгч Батбаяр энэ хэргийг гурван хоногийн дотор илрүүлнэ гэж амлав."
+   ],
+   "alt_en": [
+    "Detective Batbayar promised he would solve the case within three days."
+   ],
+   "mn_latin": "Mördögch Batbayar ene khergiig gurvan ödriin dotor ilrüülne gej amlasan."
+  },
+  {
+   "mn": "Гэмт хэрэгтэн ямар ч ул мөр үлдээгээгүй мэт санагдсан.",
+   "en": "It seemed as though the criminal had left no trace at all.",
+   "alt_mn": [
+    "Гэмт хэрэгтэн ямар ч ул мөр үлдээгээгүй юм шиг санагдсан."
+   ],
+   "alt_en": [
+    "It seemed the criminal hadn't left a single trace."
+   ],
+   "mn_latin": "Gemt kheregten yamar ch ul mör üldeegeegüi met sanagdsan."
+  },
+  {
+   "mn": "Энэ нууцлаг хэргийн гол нотлох баримт нь хагарсан цаг байлаа.",
+   "en": "The key piece of evidence in this mysterious case was a broken clock.",
+   "alt_mn": [],
+   "alt_en": [
+    "The main evidence in this mysterious case was a broken clock."
+   ],
+   "mn_latin": "Ene nuutslag khergiin gol notlokh barimt ni khagarsan tsag bailaa."
+  },
+  {
+   "mn": "Мөрдөгчийн анхаарлыг татсан нь цонхны тавцан дээрх шавартай мөр байв.",
+   "en": "It was the muddy footprint on the windowsill that caught the detective's attention.",
+   "alt_mn": [
+    "Мөрдөгчийн анхаарлыг цонхны тавцан дээрх шавартай мөр татсан юм."
+   ],
+   "alt_en": [
+    "What caught the detective's attention was the muddy footprint on the windowsill."
+   ],
+   "mn_latin": "Mördögchiin ankhaarlyg tatsan ni tsonkhny tavtsan deerkh shavartai mör baiv."
+  },
+  {
+   "mn": "Гэрч тэр шөнө бороо орж байсан гэж мэдүүлсэн ч түүний гутал хуурай байлаа.",
+   "en": "The witness stated that it had been raining that night, yet his shoes were dry.",
+   "alt_mn": [],
+   "alt_en": [
+    "The witness claimed it had been raining that night, but his shoes were dry."
+   ],
+   "mn_latin": "Gerch ter shönö boroo orj baisan gej medüülsen ch tüünii gutal khuurai bailaa."
+  },
+  {
+   "mn": "Сэжигтэн бүр хохирогчийг үхээсэй гэж хүсэх шалтгаантай байсан.",
+   "en": "Every suspect had a reason to want the victim dead.",
+   "alt_mn": [],
+   "alt_en": [
+    "Each of the suspects had a motive to want the victim dead."
+   ],
+   "mn_latin": "Sejigten bür khokhirogchiig ükheesei gej khüsekh shaltgaantai baisan."
+  },
+  {
+   "mn": "Хаалгыг дотроос нь түгжсэн байсан нь хэргийг улам нууцлаг болгов.",
+   "en": "The fact that the door had been locked from the inside made the case even more mysterious.",
+   "alt_mn": [],
+   "alt_en": [
+    "The door having been locked from the inside made the case even more mysterious."
+   ],
+   "mn_latin": "Khaalgyg dotroos ni tügjsen baisan ni khergiig ulam nuutslag bolgov."
+  },
+  {
+   "mn": "Мөрдөгч биш, харин залуу үйлчлэгч бүсгүй л үнэнийг анх олж мэдсэн юм.",
+   "en": "It was not the detective but the young maid who first discovered the truth.",
+   "alt_mn": [
+    "Үнэнийг анх олж мэдсэн нь мөрдөгч биш, залуу үйлчлэгч бүсгүй байсан."
+   ],
+   "alt_en": [
+    "It wasn't the detective but the young maid who discovered the truth first."
+   ],
+   "mn_latin": "Mördögch bish, kharin zaluu üilchlegch büsgüi l üneniig ankh olj medsen yum."
+  },
+  {
+   "mn": "Бидний хайж байгаа зүйл бол буу биш, захидал юм.",
+   "en": "It's a letter, not a gun, that we're looking for.",
+   "alt_mn": [
+    "Бидний хайж байгаа нь буу биш, захидал."
+   ],
+   "alt_en": [
+    "What we're looking for is a letter, not a gun."
+   ],
+   "mn_latin": "Bidnii khaij baigaa züil bol buu bish, zakhidal yum."
+  },
+  {
+   "mn": "Мөрдөгчийн сонирхлыг татсан нь \"хэн\" гэдэг биш, \"яагаад\" гэдэг асуулт байлаа.",
+   "en": "It was not the question of who but the question of why that interested the detective.",
+   "alt_mn": [],
+   "alt_en": [
+    "What interested the detective was not who, but why."
+   ],
+   "mn_latin": "Mördögchiin sonirkhlyg tatsan ni \"khen\" gedeg bish, \"yaagaad\" gedeg asuult bailaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "Putting the spotlight on one part: -сан нь ... байсан",
+  "title_mn": "Онцлох бүтэц: It was ... who/that ...",
+  "explain_en": "English uses it-clefts to spotlight one element: 'It was the butler who saw her.' Mongolian does the same by turning the rest of the sentence into a participle phrase ending in -сан/-сэн/-сон/-сөн, adding the particle нь, and putting the focused element at the end before байсан/байв/юм: 'Түүнийг харсан нь зарц байсан' (literally 'the one who saw her was the butler'). The focused information always comes last, right before the verb 'to be'. In speech, the particle л after a word gives similar emphasis: 'Зарц л түүнийг харсан юм.' To contrast, use '... биш, харин ...' ('not X but Y').",
+  "explain_mn": "Англи хэлэнд өгүүлбэрийн нэг хэсгийг онцлохдоо \"It was + онцлох хэсэг + who/that + үлдсэн хэсэг\" бүтцийг хэрэглэдэг. Жишээ нь: \"The butler saw her\" гэдгийг \"It was the butler who saw her\" гэвэл \"Яг зарц л харсан\" гэсэн утга гарна. Хүн бол ихэвчлэн who, бусад тохиолдолд (газар, цаг, юм) that хэрэглэнэ: \"It was in the library that the body was found.\" Өнгөрсөн цагт \"It was\", одоо цагт \"It is\" гэж эхэлнэ. Олон тоотой үг онцолсон ч \"It was\" хэвээрээ үлдэнэ: \"It was the twins who...\". Монгол хэлний \"-сан нь ... байсан\" бүтэцтэй адил үүрэгтэй.",
+  "examples": [
+   {
+    "mn": "Цонхыг хагалсан нь гэмт хэрэгтэн биш, салхи байсан.",
+    "en": "It was the wind, not the criminal, that broke the window.",
+    "mn_latin": "Tsonkhyg khagalsan ni gemt kheregten bish, salkhi baisan."
+   },
+   {
+    "mn": "Цогцос олдсон газар нь номын сан байсан.",
+    "en": "It was in the library that the body was found.",
+    "mn_latin": "Tsogtsos oldson gazar ni nomyn san baisan."
+   },
+   {
+    "mn": "Мөрдөгчийг гайхшруулсан нь гэрчийн тайван байдал байв.",
+    "en": "It was the witness's calmness that surprised the detective.",
+    "mn_latin": "Mördögchiig gaikhshruulsan ni gerchiin taivan baidal baiv."
+   },
+   {
+    "mn": "Хэргийг илрүүлсэн нь Сараа л байсан юм.",
+    "en": "It was Saraa who solved the case.",
+    "mn_latin": "Khergiig ilrüülsen ni Saraa l baisan yum."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хохирогчийг хамгийн сүүлд харсан ___ зарц байсан.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "ч",
+    "гэж",
+    "юм"
+   ],
+   "translation": "It was the butler who last saw the victim.",
+   "explain_en": "In the focus construction, the participle phrase (харсан) is followed by the particle нь, which marks it as 'the one who...'. The focused element then comes before байсан.",
+   "explain_mn": "Онцлох бүтцэд үйлт нэр (харсан)-ийн дараа \"нь\" орж, \"харсан хүн нь\" гэсэн утгатай болно. \"ч\" (ч гэсэн), \"гэж\" (иш татах), \"юм\" (өгүүлбэрийн төгсгөл) энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Мөрдөгч ___ мэдүүлгийг анхааралтай сонсов.",
+   "answer": "гэрчийн",
+   "options": [
+    "гэрчийн",
+    "гэрчид",
+    "гэрчээс",
+    "гэрч"
+   ],
+   "translation": "The detective listened carefully to the witness's statement.",
+   "explain_en": "'The witness's statement' needs the genitive case: гэрч + ийн = гэрчийн. Гэрчид is dative ('to the witness') and гэрчээс is ablative ('from the witness').",
+   "explain_mn": "\"Гэрчийн мэдүүлэг\" гэдэг нь хэний мэдүүлэг вэ гэсэн асуултад хариулах тул харьяалахын тийн ялгал хэрэгтэй. Өгөх оршихын (гэрчид) болон гарахын (гэрчээс) тийн ялгал энд утгаараа тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Хохирогч___ гар дээр хагарсан цаг байв.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "ид",
+    "ийг",
+    "оос"
+   ],
+   "translation": "There was a broken watch on the victim's wrist.",
+   "explain_en": "'On the victim's hand' requires the genitive: хохирогч + ийн. Words ending in ч, ж, ш take -ийн rather than -ын.",
+   "explain_mn": "\"Хохирогчийн гар\" гэх ёстой тул харьяалахын тийн ялгалын \"-ийн\" залгана. Ч, ж, ш-ээр төгссөн үгэнд \"-ийн\" хувилбар залгадаг."
+  },
+  {
+   "lang": "en",
+   "text": "It was the butler ___ last saw the victim alive.",
+   "answer": "who",
+   "options": [
+    "who",
+    "which",
+    "what",
+    "whom"
+   ],
+   "translation": "Хохирогчийг хамгийн сүүлд амьд харсан нь зарц байсан.",
+   "explain_en": "When the focused element is a person and the subject of the verb that follows, use 'who' (or 'that'). 'Whom' is for objects, 'which' is for things, and 'what' doesn't work in it-clefts.",
+   "explain_mn": "Онцолсон хэсэг нь хүн бөгөөд дараагийн үйл үгийн үйлдэгч бол \"who\" хэрэглэнэ. \"Whom\" нь тусагдахуун, \"which\" нь юм, \"what\" it-cleft бүтцэд ордоггүй."
+  },
+  {
+   "lang": "en",
+   "text": "___ was in the library that the body was found.",
+   "answer": "It",
+   "options": [
+    "It",
+    "There",
+    "This",
+    "What"
+   ],
+   "translation": "Цогцос олдсон газар нь номын сан байсан.",
+   "explain_en": "Cleft sentences always begin with the empty subject 'It' + be. 'There was' introduces existence, not focus.",
+   "explain_mn": "Онцлох бүтэц үргэлж утгагүй \"It\" + be-ээр эхэлнэ. \"There was\" нь \"байсан, оршсон\" гэсэн утга илэрхийлдэг тул онцлолд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ a letter, not a gun, that the detective found.",
+   "answer": "was",
+   "options": [
+    "was",
+    "were",
+    "had",
+    "did"
+   ],
+   "translation": "Мөрдөгчийн олсон нь буу биш, захидал байсан.",
+   "explain_en": "The story is in the past, so the cleft uses 'It was'. The verb agrees with 'It', so 'were' is wrong even with plural nouns.",
+   "explain_mn": "Үйл явдал өнгөрсөн цагт өрнөж байгаа тул \"It was\" хэрэглэнэ. Үйл үг \"It\"-тэй зохицох тул олон тоо онцолсон ч \"were\" болохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батбаяр",
+   "mn": "Цогцсыг хэн анх олсон бэ?",
+   "en": "Who found the body first?",
+   "mn_latin": "Tsogtssyg khen ankh olson be?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Олсон нь залуу үйлчлэгч бүсгүй байсан. Тэр өглөө эрт номын сангийн хаалгыг онгойлгох гэж ирсэн юм.",
+   "en": "It was the young maid who found it. She came early in the morning to unlock the library.",
+   "mn_latin": "Olson ni zaluu üilchlegch büsgüi baisan. Ter öglöö ert nomyn sangiin khaalgyg ongoilgokh gej irsen yum."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Хаалга түгжээтэй байсан уу?",
+   "en": "Was the door locked?",
+   "mn_latin": "Khaalga tügjeetei baisan uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тийм, дотроос нь түгжсэн байсан. Гэмт хэрэгтэн яаж гарсныг хэн ч ойлгохгүй байна.",
+   "en": "Yes, it was locked from the inside. No one understands how the criminal got out.",
+   "mn_latin": "Tiim, dotroos ni tügjsen baisan. Gemt kheregten yaaj garsnyg khen ch oilgokhgüi baina."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Нотлох баримт олдсон уу?",
+   "en": "Has any evidence been found?",
+   "mn_latin": "Notlokh barimt oldson uu?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Миний анхаарлыг татсан нь цонхны тавцан дээрх шавартай мөр байлаа. Гэтэл өчигдөр шөнө бороо ороогүй.",
+   "en": "It was the muddy footprint on the windowsill that caught my attention. But it didn't rain last night.",
+   "mn_latin": "Minii ankhaarlyg tatsan ni tsonkhny tavtsan deerkh shavartai mör bailaa. Getel öchigdör shönö boroo oroogüi."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Сонирхолтой юм. Тэгвэл тэр шавар хаанаас ирсэн бэ? Энэ хэрэг үнэхээр нууцлаг юм.",
+   "en": "Interesting. Then where did that mud come from? This case is truly mysterious.",
+   "mn_latin": "Sonirkholtoi yum. Tegvel ter shavar khaanaas irsen be? Ene khereg ünekheer nuutslag yum."
+  }
+ ],
+ "culture_note": {
+  "en": "Agatha Christie's \"The Body in the Library\" (1942) plays with what was already a cliché of detective fiction: a body found in the library of a grand country house. In Mongolia, translated detective stories, especially Sherlock Holmes, have long been popular, and many readers first met the genre through these translations. Today Mongolian TV crime dramas and local mystery novels are often set in Ulaanbaatar or in the countryside.",
+  "mn": "Агата Кристигийн \"Номын санд олдсон цогцос\" (1942) зохиол нь хуучин харшийн номын сангаас цогцос олдох гэсэн, мөрдөгч зохиолд аль хэдийн хэвшмэл болсон дүр зургийг шог болгон тоглосон бүтээл юм. Монголд орчуулгын мөрдөгч зохиол, ялангуяа Шерлок Холмсын түүхүүд эртнээс олны хайрыг татсан бөгөөд олон уншигч энэ төрөлтэй тэдгээр орчуулгаар анх танилцжээ. Өнөөдөр Монголын гэмт хэргийн олон ангит кино, нууцлаг зохиолуудын үйл явдал ихэвчлэн Улаанбаатар хотод юм уу хөдөө орон нутагт өрнөдөг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 9,
+  "notes": "Solid lesson with natural Mongolian overall. The main problems were нярав mistranslated as 'butler' and the genitive case being mislabeled in the Mongolian explanations."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Fixed a numeral form, an awkward English cleft, an ungrammatical Mongolian place cleft in two places, and an inaccurate culture claim.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "Before a noun the attributive form is 'гурван', not 'гурав'."
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "en",
+    "why": "The original 'of who but of why' was awkward and unbalanced."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "'олдсон нь номын санд байсан' is ungrammatical. Focusing a place needs a head noun (газар)."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Same ungrammatical cleft as the grammar example."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "The scene was already a cliché that Christie parodied. She did not create it."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": null
+   }
+  ]
+ }
+}

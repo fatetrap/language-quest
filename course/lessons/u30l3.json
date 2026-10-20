@@ -1,0 +1,460 @@
+{
+ "intro_en": "You will learn to arrange a meeting with someone you have never met, and to describe how they look and what they are wearing. You will also use the Mongolian future participle -х as a modifier (миний уулзах хүн) and English relative clauses with who/that + will/going to.",
+ "intro_mn": "Та урьд нь уулзаж үзээгүй хүнтэй уулзахаар тохирч, түүний гадаад төрх, хувцсыг тайлбарлаж сурна. Мөн -х гишүүнт үйл үгийг тодотгол болгон (миний уулзах хүн), англи хэлний who/that + will/going to бүхий тодотгол өгүүлбэртэй харьцуулан хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "уулзах",
+   "en": "to meet",
+   "pos": "verb",
+   "example_mn": "Би маргааш Болдтой уулзана.",
+   "example_en": "I will meet Bold tomorrow.",
+   "mn_latin": "uulzakh"
+  },
+  {
+   "mn": "буудал",
+   "en": "station",
+   "pos": "noun",
+   "example_mn": "Бид галт тэрэгний буудал дээр уулзъя.",
+   "example_en": "Let's meet at the train station.",
+   "mn_latin": "buudal"
+  },
+  {
+   "mn": "кафе",
+   "en": "café",
+   "pos": "noun",
+   "example_mn": "Би кафены үүдэнд хүлээж байна.",
+   "example_en": "I am waiting at the entrance of the café.",
+   "mn_latin": "kafye"
+  },
+  {
+   "mn": "өндөр",
+   "en": "tall",
+   "pos": "adjective",
+   "example_mn": "Тэр өндөр залуу.",
+   "example_en": "He is a tall young man.",
+   "mn_latin": "öndör"
+  },
+  {
+   "mn": "нүдний шил",
+   "en": "glasses",
+   "pos": "noun",
+   "example_mn": "Тэр нүдний шил зүүдэг.",
+   "example_en": "She wears glasses.",
+   "mn_latin": "nüdnii shil"
+  },
+  {
+   "mn": "дээл",
+   "en": "deel (traditional robe)",
+   "pos": "noun",
+   "example_mn": "Тэр хөх дээл өмссөн байна.",
+   "example_en": "He is wearing a blue deel.",
+   "mn_latin": "deel"
+  },
+  {
+   "mn": "малгай",
+   "en": "hat",
+   "pos": "noun",
+   "example_mn": "Миний найз улаан малгайтай.",
+   "example_en": "My friend has a red hat.",
+   "mn_latin": "malgai"
+  },
+  {
+   "mn": "таних",
+   "en": "to recognize",
+   "pos": "verb",
+   "example_mn": "Би чамайг хэрхэн таних вэ?",
+   "example_en": "How will I recognize you?",
+   "mn_latin": "tanikh"
+  },
+  {
+   "mn": "хүлээх",
+   "en": "to wait",
+   "pos": "verb",
+   "example_mn": "Би таныг үүдэнд хүлээнэ.",
+   "example_en": "I will wait for you at the entrance.",
+   "mn_latin": "khüleekh"
+  },
+  {
+   "mn": "цүнх",
+   "en": "bag",
+   "pos": "noun",
+   "example_mn": "Би хар цүнх барьсан байна.",
+   "example_en": "I am holding a black bag.",
+   "mn_latin": "tsünkh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний уулзах хүн өндөр.",
+   "en": "The person I will meet is tall.",
+   "alt_mn": [
+    "Миний уулзах хүн өндөр биетэй."
+   ],
+   "alt_en": [
+    "The person that I'm going to meet is tall."
+   ],
+   "mn_latin": "Minii uulzakh khün öndör."
+  },
+  {
+   "mn": "Бид буудал дээр уулзъя.",
+   "en": "Let's meet at the station.",
+   "alt_mn": [
+    "Буудал дээр уулзацгаая."
+   ],
+   "alt_en": [
+    "Let's meet up at the station."
+   ],
+   "mn_latin": "Bid buudal deer uulzya."
+  },
+  {
+   "mn": "Би таныг хэрхэн таних вэ?",
+   "en": "How will I recognize you?",
+   "alt_mn": [
+    "Би таныг яаж таних вэ?"
+   ],
+   "alt_en": [
+    "How am I going to recognize you?"
+   ],
+   "mn_latin": "Bi tanyg kherkhen tanikh ve?"
+  },
+  {
+   "mn": "Би нүдний шилтэй, хар цүнхтэй.",
+   "en": "I have glasses and a black bag.",
+   "alt_mn": [],
+   "alt_en": [
+    "I wear glasses and I have a black bag."
+   ],
+   "mn_latin": "Bi nüdnii shiltei, khar tsünkhtei."
+  },
+  {
+   "mn": "Тэр хөх дээл өмссөн өндөр эр.",
+   "en": "He is a tall man wearing a blue deel.",
+   "alt_mn": [
+    "Тэр хөх дээлтэй өндөр эр."
+   ],
+   "alt_en": [
+    "He is a tall man in a blue deel."
+   ],
+   "mn_latin": "Ter khökh deel ömssön öndör er."
+  },
+  {
+   "mn": "Бидний очих кафе буудлын ойролцоо байна.",
+   "en": "The café we are going to is near the station.",
+   "alt_mn": [],
+   "alt_en": [
+    "The café that we will go to is near the station."
+   ],
+   "mn_latin": "Bidnii ochikh kafye buudlyn oiroltsoo baina."
+  },
+  {
+   "mn": "Би таныг үүдэнд хүлээж байх болно.",
+   "en": "I will be waiting for you at the entrance.",
+   "alt_mn": [
+    "Би таныг үүдэнд хүлээнэ."
+   ],
+   "alt_en": [
+    "I'll be waiting for you at the door."
+   ],
+   "mn_latin": "Bi tanyg üüdend khüleej baikh bolno."
+  },
+  {
+   "mn": "Миний хүлээж байгаа хүн улаан малгайтай.",
+   "en": "The person I am waiting for has a red hat.",
+   "alt_mn": [],
+   "alt_en": [
+    "The person that I'm waiting for is wearing a red hat."
+   ],
+   "mn_latin": "Minii khüleej baigaa khün ulaan malgaitai."
+  },
+  {
+   "mn": "Надтай уулзах хүн танд мэдэгдэх байх.",
+   "en": "The person who will meet me will probably let you know.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Nadtai uulzakh khün tand medegdekh baikh."
+  },
+  {
+   "mn": "Маргааш танай оффис дээр очих хүн бол би.",
+   "en": "I am the person who is going to come to your office tomorrow.",
+   "alt_mn": [
+    "Маргааш танай ажил дээр очих хүн нь би."
+   ],
+   "alt_en": [
+    "I'm the person who will come to your office tomorrow."
+   ],
+   "mn_latin": "Margaash tanai offis deer ochikh khün bol bi."
+  },
+  {
+   "mn": "Тэр богино үстэй, цагаан цамцтай.",
+   "en": "She has short hair and a white shirt.",
+   "alt_mn": [
+    "Тэр богино үстэй, цагаан цамц өмссөн."
+   ],
+   "alt_en": [
+    "She has short hair and is wearing a white shirt."
+   ],
+   "mn_latin": "Ter bogino üstei, tsagaan tsamtstai."
+  },
+  {
+   "mn": "Танд мессеж бичих хүн миний найз.",
+   "en": "The person who will text you is my friend.",
+   "alt_mn": [],
+   "alt_en": [
+    "The person that is going to message you is my friend."
+   ],
+   "mn_latin": "Tand myessyej bichikh khün minii naiz."
+  }
+ ],
+ "grammar": {
+  "title_en": "Future participle -х as a modifier",
+  "title_mn": "Ирээдүйн -х гишүүнт үйл үг тодотгол болох нь",
+  "explain_en": "Add -х (-ах/-эх/-ох/-өх by vowel harmony) to a verb stem and put it before a noun: уулзах хүн = 'a person who will meet / I will meet'. The doer goes in the genitive before it: миний уулзах хүн = 'the person I will meet'; бидний очих газар = 'the place we will go to'. Mongolian has no 'who/that' word; the whole phrase just comes before the noun. This form shows an action that has not happened yet. In English the relative clause comes AFTER the noun and starts with who or that for people, and that or which for things. The future is shown with will or be going to.",
+  "explain_mn": "Монголоор үйл үгийн үндэс дээр -х (-ах/-эх/-ох/-өх) залгаж, нэрийн ӨМНӨ тавина. Үйлдэгч нь харьяалахын тийн ялгалтай байна: миний уулзах хүн, бидний очих газар. Энэ хэлбэр нь хараахан болоогүй үйлийг заана. Англи хэлэнд тодотгол өгүүлбэр нь нэрийн ДАРАА орж, холбох үгээр эхэлнэ. Хүнийг who эсвэл that, юмыг that эсвэл which гэж заана: the person who will meet me / the person (that) I will meet. Ирээдүйг will эсвэл be going to-оор илэрхийлнэ.",
+  "examples": [
+   {
+    "mn": "миний уулзах хүн",
+    "en": "the person I will meet",
+    "mn_latin": "minii uulzakh khün"
+   },
+   {
+    "mn": "бидний очих газар",
+    "en": "the place we are going to",
+    "mn_latin": "bidnii ochikh gazar"
+   },
+   {
+    "mn": "над руу залгах найз",
+    "en": "the friend who will call me",
+    "mn_latin": "nad ruu zalgakh naiz"
+   },
+   {
+    "mn": "тэдний үзэх кино",
+    "en": "the movie that they are going to watch",
+    "mn_latin": "tednii üzekh kino"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Миний уулзах ___ өндөр, нүдний шилтэй.",
+   "answer": "хүн",
+   "options": [
+    "хүн",
+    "хүнд",
+    "хүнийг",
+    "хүнээс"
+   ],
+   "translation": "The person I will meet is tall and wears glasses.",
+   "explain_en": "The participle phrase comes before the noun хүн, which stays in the basic form here as the subject.",
+   "explain_mn": "Тодотгогдох үг «хүн» нь өгүүлбэрийн эзэн тул үндсэн хэлбэрээрээ байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Бидний маргааш ___ кафе тэнд байна.",
+   "answer": "очих",
+   "options": [
+    "очих",
+    "очсон",
+    "очдог",
+    "очоод"
+   ],
+   "translation": "The café we will go to tomorrow is over there.",
+   "explain_en": "-х shows a future action: 'the café we will go to'. Очих = will go.",
+   "explain_mn": "Ирээдүйд очих кафе гэсэн утгатай тул -х гишүүнт үйл үг хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр хөх ___ өмссөн байна.",
+   "answer": "дээл",
+   "options": [
+    "дээл",
+    "шил",
+    "буудал",
+    "цүнх"
+   ],
+   "translation": "He is wearing a blue deel.",
+   "explain_en": "Only a deel is clothing you wear (өмсөх).",
+   "explain_mn": "Өмсөх зүйл нь дээл тул тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "The person ___ will meet you is my brother.",
+   "answer": "who",
+   "options": [
+    "who",
+    "which",
+    "what",
+    "where"
+   ],
+   "translation": "Тантай уулзах хүн миний ах.",
+   "explain_en": "Use 'who' for people in a relative clause.",
+   "explain_mn": "Хүнийг заасан тодотгол өгүүлбэрт who хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The café that we ___ go to is near the station.",
+   "answer": "will",
+   "options": [
+    "will",
+    "did",
+    "are",
+    "have"
+   ],
+   "translation": "Бидний очих кафе буудлын ойролцоо байна.",
+   "explain_en": "'Will' + base verb expresses the future, like Mongolian -х.",
+   "explain_mn": "Ирээдүйг will + үйл үгийн үндсээр илэрхийлнэ (монголын -х-тэй адил)."
+  },
+  {
+   "lang": "en",
+   "text": "I am the man who ___ going to wait for you.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "do",
+    "did"
+   ],
+   "translation": "Таныг хүлээх хүн бол би.",
+   "explain_en": "'Who' refers to 'the man', so the verb is third person singular: is going to.",
+   "explain_mn": "Who нь «the man»-ыг заасан тул 3-р биеийн «is going to» болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Сайн байна уу? Маргааш буудал дээр таны уулзах хүн бол би.",
+   "en": "Hello! I'm the person you'll be meeting at the station tomorrow.",
+   "mn_latin": "Sain baina uu? Margaash buudal deer tany uulzakh khün bol bi."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайн байна уу! Баярлалаа. Би таныг яаж таних вэ?",
+   "en": "Hi! Thank you. How will I recognize you?",
+   "mn_latin": "Sain baina uu! Bayarlalaa. Bi tanyg yaaj tanikh ve?"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Би өндөр, нүдний шилтэй. Хөх дээл өмсөнө.",
+   "en": "I'm tall and wear glasses. I'll be wearing a blue deel.",
+   "mn_latin": "Bi öndör, nüdnii shiltei. Khökh deel ömsönö."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайн байна. Би хар малгай өмсөөд, улаан цүнх барина.",
+   "en": "Good. I'll have a black hat and carry a red bag.",
+   "mn_latin": "Sain baina. Bi khar malgai ömsööd, ulaan tsünkh barina."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Бид хаана уулзах вэ?",
+   "en": "Where shall we meet?",
+   "mn_latin": "Bid khaana uulzakh ve?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Буудлын үүдэнд уулзъя. Бидний дараа нь очих кафе ойрхон.",
+   "en": "Let's meet at the station entrance. The café we'll go to afterwards is close.",
+   "mn_latin": "Buudlyn üüdend uulzya. Bidnii daraa ni ochikh kafye oirkhon."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэгье. Би таныг үүдэнд хүлээж байх болно.",
+   "en": "Okay. I'll be waiting for you at the entrance.",
+   "mn_latin": "Tegiye. Bi tanyg üüdend khüleej baikh bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, people often meet at a well-known landmark, such as the entrance of the State Department Store or Sukhbaatar Square, and describe their clothes by message or phone. Many Mongolians still wear a deel on special occasions such as Tsagaan Sar and Naadam, which makes it an easy way to spot someone.",
+  "mn": "Улаанбаатарт хүмүүс Улсын их дэлгүүрийн үүд, Сүхбаатарын талбай зэрэг алдартай газар уулзаж, хувцсаа утсаар эсвэл мессежээр тайлбарладаг. Олон монголчууд Цагаан сар, Наадам зэрэг баяраар дээл өмссөөр байгаа тул дээлээр нь хүнийг амархан таньж болно."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 24,
+  "notes": "Several real errors (Latin letters, split word, mistranslated sentence, awkward dialogue); grammar title mismatch."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 13,
+  "notes": "Fixed unnatural Mongolian, the register in Tom's greeting, a fill-blank with several correct answers, and mismatched grammar and culture texts.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_en",
+    "why": "The alternative was identical to the main translation."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "'сайн мэдэгдэх' is unnatural and adds a meaning that is not in the English."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "'ажлын байр' usually means a job or position, not an office."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Make the en version say the same as the mn version."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'that' is also used for people, and the en and mn versions must match."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "Without a time word, очсон and очдог were also correct."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "translation",
+    "why": "Matches the updated sentence."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'Би таныг хүлээх хүн мөн' is unnatural."
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "'хүн нь би байна' is unnatural."
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "More natural English."
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "Informal 'Сайн уу' clashes with polite та."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Word order: 'дараа нь' should modify очих."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Fixes 'хувцсаа' and 'газраар'; adds 'олон монголчууд' to match the en version."
+   }
+  ]
+ }
+}

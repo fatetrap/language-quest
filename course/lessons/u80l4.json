@@ -1,0 +1,406 @@
+{
+ "intro_en": "In this lesson you will write and talk about leaving home or choosing a career, using words for choice, sacrifice, doubt and regret. You will also learn the Mongolian construction -х юм гэхэд ('even supposing / as for doing'), and how English uses 'one', 'so' and 'do so' to avoid repetition in contrasts.",
+ "intro_mn": "Энэ хичээлээр та гэрээсээ гарах, мэргэжил сонгох тухай бичиж ярихдаа сонголт, золиос, эргэлзээ, харамсалтай холбоотой үгсийг хэрэглэж сурна. Мөн монгол хэлний -х юм гэхэд ('even supposing / as for doing') бүтэц болон англи хэлэнд давталтаас зайлсхийхийн тулд 'one', 'so', 'do so'-г эсрэгцүүлсэн өгүүлбэрт хэрхэн хэрэглэдгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "сонголт",
+   "en": "choice",
+   "pos": "noun",
+   "example_mn": "Энэ бол миний амьдралын хамгийн хэцүү сонголт байсан.",
+   "example_en": "This was the hardest choice of my life.",
+   "mn_latin": "songolt"
+  },
+  {
+   "mn": "золиослох",
+   "en": "to sacrifice",
+   "pos": "verb",
+   "example_mn": "Ээж маань бидний төлөө олон зүйлийг золиосолсон.",
+   "example_en": "My mother sacrificed a lot for us.",
+   "mn_latin": "zolioslokh"
+  },
+  {
+   "mn": "эргэлзээ",
+   "en": "doubt",
+   "pos": "noun",
+   "example_mn": "Түүний сэтгэлд эргэлзээ төрсөн.",
+   "example_en": "Doubt arose in her mind.",
+   "mn_latin": "ergelzee"
+  },
+  {
+   "mn": "харамсал",
+   "en": "regret",
+   "pos": "noun",
+   "example_mn": "Надад ямар ч харамсал байхгүй.",
+   "example_en": "I have no regrets at all.",
+   "mn_latin": "kharamsal"
+  },
+  {
+   "mn": "эвлэрэх",
+   "en": "to come to terms with, to reconcile",
+   "pos": "verb",
+   "example_mn": "Тэр эцэст нь өнгөрсөнтэйгээ эвлэрсэн.",
+   "example_en": "In the end, he came to terms with his past.",
+   "mn_latin": "evlerekh"
+  },
+  {
+   "mn": "шийдвэр",
+   "en": "decision",
+   "pos": "noun",
+   "example_mn": "Би зөв шийдвэр гаргасан гэдэгтээ итгэлтэй байна.",
+   "example_en": "I'm sure I made the right decision.",
+   "mn_latin": "shiidver"
+  },
+  {
+   "mn": "алдагдал",
+   "en": "loss",
+   "pos": "noun",
+   "example_mn": "Энэ бол бидний гэр бүлийн хувьд том алдагдал байлаа.",
+   "example_en": "This was a great loss for our family.",
+   "mn_latin": "aldagdal"
+  },
+  {
+   "mn": "төрсөн нутаг",
+   "en": "homeland, the place where one was born",
+   "pos": "noun phrase",
+   "example_mn": "Би төрсөн нутгаа их санаж байна.",
+   "example_en": "I miss my homeland very much.",
+   "mn_latin": "törsön nutag"
+  },
+  {
+   "mn": "эргэцүүлэх",
+   "en": "to reflect on, to ponder",
+   "pos": "verb",
+   "example_mn": "Би өөрийн сонголтуудын талаар олон удаа эргэцүүлсэн.",
+   "example_en": "I have reflected on my choices many times.",
+   "mn_latin": "ergetsüülekh"
+  },
+  {
+   "mn": "тээнэгэлзэх",
+   "en": "to hesitate",
+   "pos": "verb",
+   "example_mn": "Тэр хариулахаасаа өмнө жаахан тээнэгэлзэв.",
+   "example_en": "She hesitated a little before answering.",
+   "mn_latin": "teenegelzekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хотод суурьших сонголт минь надад их зүйл өгч, бас их зүйл авсан.",
+   "en": "My choice to settle in the city gave me a lot, and took a lot from me, too.",
+   "alt_mn": [
+    "Хотод суурьшихаар сонгосон минь надад их зүйл өгч, бас их зүйл авсан."
+   ],
+   "alt_en": [
+    "My decision to settle in the city gave me a lot and took a lot away, too."
+   ],
+   "mn_latin": "Khotod suurishikh songolt mini nadad ikh züil ögch, bas ikh züil avsan."
+  },
+  {
+   "mn": "Эцэг эх маань намайг сургахын тулд олон зүйлийг золиосолсон.",
+   "en": "My parents sacrificed a great deal so that I could study.",
+   "alt_mn": [
+    "Аав ээж маань намайг сургахын тулд их зүйл золиосолсон."
+   ],
+   "alt_en": [
+    "My parents sacrificed a lot so I could get an education."
+   ],
+   "mn_latin": "Etseg ekh maani namaig surgakhyn tuld olon züiliig zoliosolson."
+  },
+  {
+   "mn": "Буцах юм гэхэд миний мэдэх тэр нутаг аль хэдийн өөрчлөгдсөн.",
+   "en": "Even supposing I went back, the place I knew has already changed.",
+   "alt_mn": [
+    "Буцах юм гэхэд миний мэддэг тэр нутаг аль хэдийнэ өөрчлөгдчихсөн."
+   ],
+   "alt_en": [
+    "Even if I were to go back, the place I knew has already changed."
+   ],
+   "mn_latin": "Butsakh yum gekhed minii medekh ter nutag ali khediin öörchlögdsön."
+  },
+  {
+   "mn": "Одоо мэргэжлээ солих юм гэхэд оройтоогүй гэж би боддог.",
+   "en": "I think it isn't too late, even if I were to change careers now.",
+   "alt_mn": [],
+   "alt_en": [
+    "I think that even if I changed careers now, it wouldn't be too late."
+   ],
+   "mn_latin": "Odoo mergejlee solikh yum gekhed oroitoogüi gej bi boddog."
+  },
+  {
+   "mn": "Эргэлзээ намайг олон жил орхисонгүй.",
+   "en": "Doubt didn't leave me for many years.",
+   "alt_mn": [
+    "Олон жилийн турш эргэлзээ намайг орхисонгүй."
+   ],
+   "alt_en": [
+    "For many years, doubt never left me."
+   ],
+   "mn_latin": "Ergelzee namaig olon jil orkhisongüi."
+  },
+  {
+   "mn": "Харамсал бол бидний сонгоогүй замын сүүдэр юм.",
+   "en": "Regret is the shadow of the road we didn't take.",
+   "alt_mn": [],
+   "alt_en": [
+    "Regret is the shadow of the path we didn't choose."
+   ],
+   "mn_latin": "Kharamsal bol bidnii songoogüi zamyn süüder yum."
+  },
+  {
+   "mn": "Би өнгөрсөнтэйгээ эвлэрч сурсан.",
+   "en": "I've learned to come to terms with my past.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have learned to make peace with my past."
+   ],
+   "mn_latin": "Bi öngörsönteigee evlerch sursan."
+  },
+  {
+   "mn": "Миний сонгосон зам ч, сонгоогүй зам ч надад ямар нэг зүйл заасан.",
+   "en": "The road I chose and the one I didn't both taught me something.",
+   "alt_mn": [
+    "Миний сонгосон зам, сонгоогүй зам хоёулаа надад ямар нэг юм заасан."
+   ],
+   "alt_en": [
+    "Both the road I took and the one I didn't taught me something."
+   ],
+   "mn_latin": "Minii songoson zam ch, songoogüi zam ch nadad yamar neg züil zaasan."
+  },
+  {
+   "mn": "Ах маань хөдөө үлдэхийг хүссэн, тэгээд тэгсэн.",
+   "en": "My brother wanted to stay in the countryside, and he did so.",
+   "alt_mn": [
+    "Ах маань хөдөө үлдэхийг хүсээд, үнэхээр үлдсэн."
+   ],
+   "alt_en": [
+    "My older brother wanted to stay in the countryside, and he did."
+   ],
+   "mn_latin": "Akh maani khödöö üldekhiig khüssen, tegeed tegsen."
+  },
+  {
+   "mn": "Та зөв шийдвэр гаргасан гэж бодож байна уу? — Тийм гэж бодож байна.",
+   "en": "Do you think you made the right decision? — I think so.",
+   "alt_mn": [],
+   "alt_en": [
+    "Do you believe you made the right decision? — I believe so."
+   ],
+   "mn_latin": "Ta zöv shiidver gargasan gej bodoj baina uu? — Tiim gej bodoj baina."
+  },
+  {
+   "mn": "Ажлын ямар ч амжилт тэр алдагдлыг нөхөж чадахгүй.",
+   "en": "No career success can make up for that loss.",
+   "alt_mn": [],
+   "alt_en": [
+    "No success at work can make up for that loss."
+   ],
+   "mn_latin": "Ajlyn yamar ch amjilt ter aldagdlyg nökhöj chadakhgüi."
+  },
+  {
+   "mn": "Малаа зарах юм гэхэд аав маань хотод юу хийх билээ?",
+   "en": "Even supposing he sold the herd, what would my father do in the city?",
+   "alt_mn": [],
+   "alt_en": [
+    "Even if he sold his livestock, what would my father do in the city?"
+   ],
+   "mn_latin": "Malaa zarakh yum gekhed aav maani khotod yuu khiikh bilee?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Mongolian -х юм гэхэд: 'even supposing / as for doing' · English 'one', 'so', 'do so'",
+  "title_mn": "Монгол хэлний -х юм гэхэд · Англи хэлний 'one', 'so', 'do so'",
+  "explain_en": "Add -х юм гэхэд to a verb stem (буцах юм гэхэд, солих юм гэхэд) to raise a hypothetical and then push back against it: 'even supposing I did X…' or 'as for doing X…'. The main clause usually shows that the hypothetical wouldn't solve the problem, or that something still holds true: Буцах юм гэхэд ажил олдохгүй 'Even if I went back, I wouldn't find work.' It sounds more reflective and concessive than plain -вал/-х юм бол ('if'). This makes it perfect for essays where you weigh options you never took. You can add ч for emphasis: буцах юм гэхэд ч.",
+  "explain_mn": "Англи хэлэнд давталтаас зайлсхийхийн тулд гурван хэрэгслийг хэрэглэдэг. 1) 'one' нь өмнө дурдсан тоолж болох нэр үгийг орлоно: 'the road I took and the one I didn't' (= the road I didn't take). 2) 'so' нь think, hope, believe, suppose гэх мэт үйл үгийн дараа бүхэл өгүүлбэрийг орлоно: 'Did I choose well? I think so.' Үгүйсгэвэл 'I hope not', 'I don't think so' гэнэ. 3) 'do so' нь өмнөх үйл үг болон түүний дагалдах үгсийг орлоно: 'She wanted to leave home, and she did so at eighteen.' Ярианд 'do so'-гийн оронд ихэвчлэн зүгээр 'did' хэрэглэдэг бол эссе, албан бичигт 'do so' илүү тохиромжтой.",
+  "examples": [
+   {
+    "mn": "Хөдөө буцах юм гэхэд тэнд надад ажил байхгүй.",
+    "en": "As for going back to the countryside, there's no work for me there.",
+    "mn_latin": "Khödöö butsakh yum gekhed tend nadad ajil baikhgüi."
+   },
+   {
+    "mn": "Түүнийг уучлах юм гэхэд би мартаж чадахгүй.",
+    "en": "Even supposing I forgive him, I can't forget.",
+    "mn_latin": "Tüüniig uuchlakh yum gekhed bi martaj chadakhgüi."
+   },
+   {
+    "mn": "Би аюулгүй замыг сонгосон, эрсдэлтэйг нь биш.",
+    "en": "I chose the safe road, not the risky one.",
+    "mn_latin": "Bi ayuulgüi zamyg songoson, ersdelteig ni bish."
+   },
+   {
+    "mn": "Эгч маань гадаадад сурахаар шийдсэн, тэгээд хорин настайдаа тэгсэн.",
+    "en": "My sister decided to study abroad, and she did so at twenty.",
+    "mn_latin": "Egch maani gadaadad surakhaar shiidsen, tegeed khorin nastaidaa tegsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Одоо буцах юм ___ ч надад ажил олдохгүй.",
+   "answer": "гэхэд",
+   "options": [
+    "гэхэд",
+    "бол",
+    "гэж",
+    "байвал"
+   ],
+   "translation": "Even if I were to go back now, I wouldn't find work.",
+   "explain_en": "The concessive 'even supposing' meaning needs -х юм гэхэд, which can take the emphatic particle ч. '-х юм бол ч' and 'байвал ч' after юм are not used this way, and 'гэж' alone doesn't complete the construction.",
+   "explain_mn": "'Even if' гэсэн утгыг -х юм гэхэд (ч) илэрхийлнэ. 'Юм бол ч', 'юм байвал ч' гэж ингэж хэрэглэдэггүй, 'гэж' нь энэ бүтцийг гүйцээхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Олон жилийн дараа би өнгөрсөнтэйгээ ___.",
+   "answer": "эвлэрсэн",
+   "options": [
+    "эвлэрсэн",
+    "золиосолсон",
+    "тээнэгэлзсэн",
+    "харамссан"
+   ],
+   "translation": "After many years, I came to terms with my past.",
+   "explain_en": "The comitative case -тэйгээ ('with one's own…') pairs naturally with эвлэрэх 'to come to terms with'. The other verbs don't take a 'with' object this way.",
+   "explain_mn": "'-тэйгээ' хамтын тийн ялгалын нөхцөл 'эвлэрэх' үйл үгтэй зохицно. Бусад үйл үг энэ утгаар хамтын тийн ялгалтай хэрэглэгддэггүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр гэр бүлийнхээ төлөө өөрийн карьераа ___.",
+   "answer": "золиосолсон",
+   "options": [
+    "золиосолсон",
+    "эвлэрсэн",
+    "тээнэгэлзсэн",
+    "харамссан"
+   ],
+   "translation": "She sacrificed her own career for the sake of her family.",
+   "explain_en": "'X-ын төлөө Y-ыг золиослох' means 'to sacrifice Y for X'. The accusative object карьераа fits золиослох, not the other verbs.",
+   "explain_mn": "'Хэн нэгний төлөө юмыг золиослох' гэсэн хэллэг. 'Карьераа' гэсэн заахын тийн ялгалын тусагдахууныг зөвхөн 'золиосолсон' авна."
+  },
+  {
+   "lang": "en",
+   "text": "I took the safe road, not the risky ___.",
+   "answer": "one",
+   "options": [
+    "one",
+    "so",
+    "it",
+    "that"
+   ],
+   "translation": "Би аюулгүй замыг сонгосон, эрсдэлтэйг нь биш.",
+   "explain_en": "'One' replaces a countable noun already mentioned (road) after an adjective: 'the risky one'.",
+   "explain_mn": "Өмнө дурдсан тоолж болох нэр үгийг (road) тэмдэг нэрийн дараа 'one' орлоно: 'the risky one'."
+  },
+  {
+   "lang": "en",
+   "text": "Did she make the right choice? — I believe ___.",
+   "answer": "so",
+   "options": [
+    "so",
+    "it",
+    "one",
+    "do"
+   ],
+   "translation": "Тэр зөв сонголт хийсэн үү? — Тийм гэж бодож байна.",
+   "explain_en": "After verbs like believe, think and hope, 'so' stands in for a whole clause ('that she made the right choice').",
+   "explain_mn": "believe, think, hope зэрэг үйл үгийн дараа 'so' нь бүхэл өгүүлбэрийг орлоно. 'I believe it' гэвэл өөр утгатай болно."
+  },
+  {
+   "lang": "en",
+   "text": "She said she would leave home at eighteen, and she ___ so.",
+   "answer": "did",
+   "options": [
+    "did",
+    "made",
+    "was",
+    "had"
+   ],
+   "translation": "Тэр арван найман настайдаа гэрээсээ гарна гэж хэлсэн, тэгээд тэгсэн.",
+   "explain_en": "'Do so' replaces the earlier verb phrase (leave home at eighteen). In the past tense it becomes 'did so'.",
+   "explain_mn": "'Do so' нь өмнөх үйл үгийн бүлгийг орлоно. Өнгөрсөн цагт 'did so' болно. 'Made so', 'had so' гэж хэлдэггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Бат аа, чи Увсаас хотод ирсэндээ харамсдаг уу?",
+   "en": "Bat, do you regret coming to the city from Uvs?",
+   "mn_latin": "Bat aa, chi Uvsaas khotod irsendee kharamsdag uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Заримдаа эргэлзээ төрдөг л юм. Гэхдээ буцах юм гэхэд тэнд надад ажил байхгүй.",
+   "en": "Sometimes I do have doubts. But even supposing I went back, there's no work for me there.",
+   "mn_latin": "Zarimdaa ergelzee tördög l yum. Gekhdee butsakh yum gekhed tend nadad ajil baikhgüi."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгвэл чи юуг хамгийн их золиосолсон бэ?",
+   "en": "So what did you sacrifice most?",
+   "mn_latin": "Tegvel chi yuug khamgiin ikh zoliosolson be?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Эцэг эхтэйгээ өнгөрүүлэх цагаа. Тэр алдагдлыг юу ч нөхөж чадахгүй.",
+   "en": "The time I could have spent with my parents. Nothing can make up for that loss.",
+   "mn_latin": "Etseg ekhteigee öngörüülekh tsagaa. Ter aldagdlyg yuu ch nökhöj chadakhgüi."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Би ч бас мэргэжлээ солихоор шийдээд, эцэст нь тэгсэн. Анх их тээнэгэлзсэн шүү.",
+   "en": "I also decided to change careers, and I finally did so. I hesitated a lot at first, though.",
+   "mn_latin": "Bi ch bas mergejlee solikhoor shiideed, etsest ni tegsen. Ankh ikh teenegelzsen shüü."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Чи зөв сонголт хийсэн гэж бодож байна уу?",
+   "en": "Do you think you made the right choice?",
+   "mn_latin": "Chi zöv songolt khiisen gej bodoj baina uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм гэж бодож байна. Сонгосон зам ч, сонгоогүй зам ч хоёулаа надад ямар нэг юм заасан.",
+   "en": "I think so. The road I chose and the one I didn't both taught me something.",
+   "mn_latin": "Tiim gej bodoj baina. Songoson zam ch, songoogüi zam ch khoyoulaa nadad yamar neg yum zaasan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Харин би өнгөрсөнтэйгээ эвлэрч л сурах хэрэгтэй байх.",
+   "en": "As for me, I guess I just need to learn to come to terms with my past.",
+   "mn_latin": "Kharin bi öngörsönteigee evlerch l surakh kheregtei baikh."
+  }
+ ],
+ "culture_note": {
+  "en": "Over the past few decades, hundreds of thousands of Mongolians have moved from the countryside to Ulaanbaatar for school and work, and many families sold livestock to pay for their children's education. Ties to one's төрсөн нутаг (birthplace) stay strong, though: people return home for Tsagaan Sar and the local Naadam, and hometown associations (нутгийн зөвлөл) connect city residents with the land they left.",
+  "mn": "Сүүлийн хэдэн арван жилд хэдэн зуун мянган монгол хүн сурч, ажиллахаар хөдөөнөөс Улаанбаатар руу нүүсэн бөгөөд олон гэр бүл хүүхдээ сургахын тулд малаа зарсан. Гэсэн ч хүмүүс төрсөн нутагтайгаа холбоогоо тасалдаггүй: Цагаан сар, нутгийн наадмаар нутагтаа очдог бөгөөд нутгийн зөвлөлүүд хотод амьдарч буй хүмүүсийг орхиж ирсэн нутагтай нь холбож байдаг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 0,
+  "notes": "Accurate, natural Mongolian and English throughout. The -х юм гэхэд examples, the English one/so/do so explanations and the fill-in-the-blank answers are all correct and unambiguous, so no real errors need fixing."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 3,
+  "notes": "Mostly solid. Fixed the wrong case government of харамсах, the incomplete Mongolian intro, and a gap in one fill-in-the-blank explanation.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the -х юм гэхэд construction mentioned in en"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "харамсах takes the dative: ирсэндээ, not ирснээ"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "match en explanation, which also covers байвал"
+   }
+  ]
+ }
+}

@@ -1,0 +1,456 @@
+{
+ "intro_en": "Capstone lesson: you will discuss a classic dilemma in a panel, use abstract ethics vocabulary, and write a reasoned position. You will also choose Mongolian rhetorical forms that persuade without sounding aggressive, and use 'it's high time', 'if need be' and 'as it were' in English.",
+ "intro_mn": "Төгсгөлийн хичээл: сонгодог дилеммийг хэлэлцүүлэг дээр ярилцаж, ёс зүйн хийсвэр үгсийг хэрэглэж, үндэслэлтэй байр сууриа бичнэ. Монголоор хэт ширүүн сонсогдохгүйгээр үнэмшүүлэх хэлбэрийг, англиар 'it's high time', 'if need be', 'as it were' хэллэгийг хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "зарчим",
+   "en": "principle",
+   "pos": "noun",
+   "example_mn": "Би өөрийн зарчмаасаа ухрахгүй.",
+   "example_en": "I will not back away from my principles.",
+   "mn_latin": "zarchim"
+  },
+  {
+   "mn": "хүлцэл",
+   "en": "tolerance",
+   "pos": "noun",
+   "example_mn": "Өөр үзэлтэй хүнд хүлцэлтэй хандах хэрэгтэй.",
+   "example_en": "We need to treat people with different views with tolerance.",
+   "mn_latin": "khültsel"
+  },
+  {
+   "mn": "эв нэгдэл",
+   "en": "solidarity, unity",
+   "pos": "noun",
+   "example_mn": "Хүнд цагт эв нэгдэл хамгийн чухал.",
+   "example_en": "In hard times, solidarity matters most.",
+   "mn_latin": "ev negdel"
+  },
+  {
+   "mn": "шүүн тунгаах",
+   "en": "to weigh up, to deliberate",
+   "pos": "verb",
+   "example_mn": "Шийдвэр гаргахаасаа өмнө бүгдийг шүүн тунгаа.",
+   "example_en": "Weigh everything up before you make a decision.",
+   "mn_latin": "shüün tungaakh"
+  },
+  {
+   "mn": "ёс суртахуун",
+   "en": "morality, ethics",
+   "pos": "noun",
+   "example_mn": "Технологи ёс суртахууны асуудал дэвшүүлж байна.",
+   "example_en": "Technology raises moral questions.",
+   "mn_latin": "yos surtakhuun"
+  },
+  {
+   "mn": "давхар стандарт",
+   "en": "double standard",
+   "pos": "noun",
+   "example_mn": "Энэ бол ил давхар стандарт юм.",
+   "example_en": "This is a blatant double standard.",
+   "mn_latin": "davkhar standart"
+  },
+  {
+   "mn": "дилемма",
+   "en": "dilemma",
+   "pos": "noun",
+   "example_mn": "Эмч нар хүнд дилемматай тулгарлаа.",
+   "example_en": "The doctors faced a hard dilemma.",
+   "mn_latin": "dilyemma"
+  },
+  {
+   "mn": "хязгаарлагдмал нөөц",
+   "en": "limited resource",
+   "pos": "noun",
+   "example_mn": "Хязгаарлагдмал нөөцийг шударгаар хуваарилах ёстой.",
+   "example_en": "A limited resource must be distributed fairly.",
+   "mn_latin": "khyazgaarlagdmal nööts"
+  },
+  {
+   "mn": "үндэслэх",
+   "en": "to justify, to base on",
+   "pos": "verb",
+   "example_mn": "Өөрийн байр суурийг баримтаар үндэслэ.",
+   "example_en": "Base your position on facts.",
+   "mn_latin": "ündeslekh"
+  },
+  {
+   "mn": "хариуцлага",
+   "en": "responsibility, accountability",
+   "pos": "noun",
+   "example_mn": "Шийдвэр гаргагч хариуцлага хүлээх ёстой.",
+   "example_en": "The decision-maker must take responsibility.",
+   "mn_latin": "khariutslaga"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хязгаарлагдмал нөөцийг хэрхэн хуваарилах вэ гэдэг нь хүнд асуулт.",
+   "en": "How to distribute a limited resource is a hard question.",
+   "alt_mn": [
+    "Хязгаарлагдмал нөөцийг яаж хуваарилах вэ гэдэг бол хүнд асуулт."
+   ],
+   "alt_en": [
+    "How to allocate a limited resource is a difficult question."
+   ],
+   "mn_latin": "Khyazgaarlagdmal nöötsiig kherkhen khuvaarilakh ve gedeg ni khünd asuult."
+  },
+  {
+   "mn": "Шийдвэр гаргахаасаа өмнө бүх талыг нь шүүн тунгаах хэрэгтэй.",
+   "en": "Before making a decision, you need to weigh up all sides.",
+   "alt_mn": [],
+   "alt_en": [
+    "You should deliberate on every aspect before deciding."
+   ],
+   "mn_latin": "Shiidver gargakhaasaa ömnö bükh talyg ni shüün tungaakh kheregtei."
+  },
+  {
+   "mn": "Миний бодлоор зарчмаа барих нь эв нэгдлээс дутахгүй чухал.",
+   "en": "In my view, holding to your principles is no less important than solidarity.",
+   "alt_mn": [],
+   "alt_en": [
+    "I think sticking to principles matters as much as solidarity."
+   ],
+   "mn_latin": "Minii bodloor zarchmaa barikh ni ev negdlees dutakhgüi chukhal."
+  },
+  {
+   "mn": "Та нарын санал ойлгомжтой ч, надад бага зэрэг эргэлзээтэй санагдаж байна.",
+   "en": "Your proposal is clear, but I have some slight doubts.",
+   "alt_mn": [],
+   "alt_en": [
+    "I understand your suggestion, but it seems a bit doubtful to me."
+   ],
+   "mn_latin": "Ta naryn sanal oilgomjtoi ch, nadad baga zereg ergelzeetei sanagdaj baina."
+  },
+  {
+   "mn": "Таван хүний амийг аврахын тулд нэг хүнийг золиослох нь ёс суртахууны хувьд зөвтгөгдөх үү?",
+   "en": "Is sacrificing one person to save five morally justifiable?",
+   "alt_mn": [],
+   "alt_en": [
+    "Can sacrificing one person to save five be morally justified?"
+   ],
+   "mn_latin": "Tavan khünii amiig avrakhyn tuld neg khüniig zolioslokh ni yos surtakhuuny khuvid zövtgögdökh üü?"
+  },
+  {
+   "mn": "Бусдаас хатуу шаардаад өөрөө дагахгүй бол энэ нь давхар стандарт.",
+   "en": "If you demand strictness from others but don't follow it yourself, that is a double standard.",
+   "alt_mn": [],
+   "alt_en": [
+    "Demanding much from others while not following it yourself is a double standard."
+   ],
+   "mn_latin": "Busdaas khatuu shaardaad ööröö dagakhgüi bol ene ni davkhar standart."
+  },
+  {
+   "mn": "Хүлцэл гэдэг нь бүх зүйлийг зөвшөөрөх гэсэн үг биш.",
+   "en": "Tolerance doesn't mean accepting everything.",
+   "alt_mn": [],
+   "alt_en": [
+    "Tolerance does not mean approving of everything."
+   ],
+   "mn_latin": "Khültsel gedeg ni bükh züiliig zövshöörökh gesen üg bish."
+  },
+  {
+   "mn": "Хиймэл оюун ухааны шийдвэрийн хариуцлагыг хэн хүлээх вэ?",
+   "en": "Who bears responsibility for an artificial intelligence's decision?",
+   "alt_mn": [],
+   "alt_en": [
+    "Who is accountable for a decision made by AI?"
+   ],
+   "mn_latin": "Khiimel oyuun ukhaany shiidveriin khariutslagyg khen khüleekh ve?"
+  },
+  {
+   "mn": "Энэ асуудлыг нээлттэй ярилцах цаг аль хэдийнэ болсон.",
+   "en": "It's high time we discussed this issue openly.",
+   "alt_mn": [],
+   "alt_en": [
+    "It is long past time to discuss this issue openly."
+   ],
+   "mn_latin": "Ene asuudlyg neelttei yariltsakh tsag ali khediine bolson."
+  },
+  {
+   "mn": "Шаардлагатай бол бид төлөвлөгөөгөө өөрчилнө.",
+   "en": "If need be, we will change our plan.",
+   "alt_mn": [],
+   "alt_en": [
+    "If necessary, we will change our plan."
+   ],
+   "mn_latin": "Shaardlagatai bol bid tölövlögöögöö öörchilnö."
+  },
+  {
+   "mn": "Эмнэлгийн ор цөөн учраас эмч нар, хэлж болох юм бол, хоёр галын дунд байна.",
+   "en": "Because there are so few beds, the doctors are, as it were, caught between two fires.",
+   "alt_mn": [],
+   "alt_en": [
+    "With so few beds, the doctors are, so to speak, between a rock and a hard place."
+   ],
+   "mn_latin": "Emnelgiin or tsöön uchraas emch nar, khelj bolokh yum bol, khoyor galyn dund baina."
+  },
+  {
+   "mn": "Миний байр суурь бол хамгийн олон хүнд тустай сонголтыг хийх, гэхдээ эрхийг нь мартахгүй байх.",
+   "en": "My position is to choose what helps the most people, without forgetting their rights.",
+   "alt_mn": [],
+   "alt_en": [
+    "I believe we should choose the option that benefits most people while still respecting individual rights."
+   ],
+   "mn_latin": "Minii bair suuri bol khamgiin olon khünd tustai songoltyg khiikh, gekhdee erkhiig ni martakhgüi baikh."
+  }
+ ],
+ "grammar": {
+  "title_en": "Softening a view: «-х болов уу», «-ж магадгүй», «миний бодлоор»",
+  "title_mn": "Үзэл бодлоо зөөлрүүлэх хэлбэр: «-х болов уу», «-ж магадгүй», «миний бодлоор»",
+  "explain_en": "To persuade without sounding aggressive, Mongolian prefers hedged forms over blunt statements. Use «-х болов уу» ('perhaps it would be...'), «-ж магадгүй» ('it may be that...'), «миний бодлоор» ('in my view') and «-х нь зүйтэй» ('it is advisable to'). Blunt: «Чи буруу байна.» Softer: «Энэ талаар өөр өнцгөөс харж болох болов уу.» Contrast with «ч» ('although') to acknowledge the other side first: «Таны санал зөв ч, нэг зүйл анхаарууштай байна.» In English: 'It's high time' + past-tense verb means something should have happened already (It's high time we made a decision). 'If need be' means 'if necessary' (We'll stay longer, if need be). 'As it were' softens a figurative remark (He is, as it were, the voice of the group). Don't overuse these.",
+  "explain_mn": "Монголоор зөөлөн үнэмшүүлэхдээ шууд, ширүүн өгүүлбэрийн оронд «-х болов уу» («...байж болох болов уу»), «-ж магадгүй» («...байж магадгүй»), «миний бодлоор», «-х нь зүйтэй» зэрэг хэлбэрийг хэрэглэнэ. Шууд: «Чи буруу байна.» Зөөлөн: «Энэ талаар өөр өнцгөөс харж болох болов уу.» Эхлээд «ч» гэж нөгөө талын саналыг хүлээн зөвшөөрч болно: «Таны санал зөв ч, нэг зүйл анхаарууштай байна.» Англиар: 'It's high time + өнгөрсөн цагийн үйл үг' нь «...х цаг аль хэдийн болсон» гэсэн утгатай (It's high time we made a decision). 'If need be' нь «хэрэв шаардлагатай бол» (We'll stay longer, if need be). 'As it were' нь «ингэж хэлж болох юм бол» гэж зөөлөн тайлбар нэмнэ (He is, as it were, the voice of the group). Эдгээрийг хэтрүүлэлгүй хэрэглэ.",
+  "examples": [
+   {
+    "mn": "Энэ асуудлыг өөр өнцгөөс харж болох болов уу.",
+    "en": "Perhaps this issue could be looked at from another angle.",
+    "mn_latin": "Ene asuudlyg öör öntsgöös kharj bolokh bolov uu."
+   },
+   {
+    "mn": "Таны санал зөв ч, нэг зүйл анхаарууштай байна.",
+    "en": "Your suggestion is right, but one thing deserves attention.",
+    "mn_latin": "Tany sanal zöv ch, neg züil ankhaaruushtai baina."
+   },
+   {
+    "mn": "Миний бодлоор эхлээд хохирогчдыг хамгаалах нь зүйтэй.",
+    "en": "In my view, it is advisable to protect the victims first.",
+    "mn_latin": "Minii bodloor ekhleed khokhirogchdyg khamgaalakh ni züitei."
+   },
+   {
+    "mn": "Энэ шийдэл зарим хүнд шударга бус санагдаж магадгүй.",
+    "en": "This solution may seem unfair to some people.",
+    "mn_latin": "Ene shiidel zarim khünd shudarga bus sanagdaj magadgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шийдвэр гаргахаасаа өмнө бүгдийг сайн ___.",
+   "answer": "шүүн тунгаа",
+   "options": [
+    "шүүн тунгаа",
+    "мартаарай",
+    "хойшлуул",
+    "дуурайлгаарай"
+   ],
+   "translation": "Weigh everything up well before making a decision.",
+   "explain_en": "«шүүн тунгаах» means to weigh up carefully; the imperative drops the final -х.",
+   "explain_mn": "«шүүн тунгаах» нь сайтар бодож цэгнэх гэсэн утгатай, тушаах төлөвт «шүүн тунгаа» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Бусдад нэг, өөртөө өөр шалгуур тавих нь ___ юм.",
+   "answer": "давхар стандарт",
+   "options": [
+    "давхар стандарт",
+    "эв нэгдэл",
+    "хүлцэл",
+    "зарчим"
+   ],
+   "translation": "Applying one rule to others and another to yourself is a double standard.",
+   "explain_en": "Two different rules for different people is «давхар стандарт».",
+   "explain_mn": "Хүнээс хамаарч өөр шалгуур хэрэглэх нь «давхар стандарт»."
+  },
+  {
+   "lang": "mn",
+   "text": "Таны санал зөв ___, нэг зүйл анхаарууштай байна.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "тул",
+    "бол",
+    "ба"
+   ],
+   "translation": "Your suggestion is right, but one thing deserves attention.",
+   "explain_en": "«ч» after a clause concedes a point ('although') before a gentle objection.",
+   "explain_mn": "«ч» нь «боловч» гэсэн утгаар эхлээд зөвшөөрч, дараа нь зөөлөн татгалзана."
+  },
+  {
+   "lang": "en",
+   "text": "It's high time we ___ this problem seriously.",
+   "answer": "took",
+   "options": [
+    "took",
+    "take",
+    "will take",
+    "taking"
+   ],
+   "translation": "Бид энэ асуудлыг нухацтай авч үзэх цаг болсон.",
+   "explain_en": "After 'it's high time' we use the past tense, though the meaning is present or future.",
+   "explain_mn": "'It's high time' дараа өнгөрсөн цагийн хэлбэр орно, утга нь одоо эсвэл ирээдүй цагийнх."
+  },
+  {
+   "lang": "en",
+   "text": "We will cancel the vote, if need ___.",
+   "answer": "be",
+   "options": [
+    "be",
+    "is",
+    "been",
+    "being"
+   ],
+   "translation": "Шаардлагатай бол бид санал хураалтыг цуцална.",
+   "explain_en": "'If need be' is a fixed phrase using the subjunctive 'be'.",
+   "explain_mn": "'If need be' нь тогтсон хэллэг бөгөөд 'be' хэлбэрээр байна."
+  },
+  {
+   "lang": "en",
+   "text": "He is, ___ ___, the conscience of the team.",
+   "answer": "as it were",
+   "options": [
+    "as it were",
+    "if it were",
+    "as it is",
+    "so it was"
+   ],
+   "translation": "Тэр, хэлж болох юм бол, багийн ухамсар нь юм.",
+   "explain_en": "'As it were' softens a figurative description, like 'so to speak'.",
+   "explain_mn": "'As it were' нь зүйрлэсэн тодорхойлолтыг зөөлрүүлнэ, «ингэж хэлбэл» гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Золзаяа",
+   "mn": "Манай хотын эмнэлэгт зөвхөн нэг амьсгалуулагч үлдсэн. Хоёр өвчтөн байна. Хэнийг сонгох вэ?",
+   "en": "Our city hospital has only one ventilator left. There are two patients. Whom should we choose?",
+   "mn_latin": "Manai khotyn emnelegt zövkhön neg amisgaluulagch üldsen. Khoyor övchtön baina. Kheniig songokh ve?"
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Энэ бол жинхэнэ дилемма. Миний бодлоор эмнэлгийн шалгуураар, өөрөөр хэлбэл амьд үлдэх магадлалаар шийдэх нь зүйтэй.",
+   "en": "That is a genuine dilemma. In my view, it is advisable to decide by medical criteria, that is, the likelihood of survival.",
+   "mn_latin": "Ene bol jinkhene dilyemma. Minii bodloor emnelgiin shalguuraar, ööröör khelbel amid üldekh magadlalaar shiidekh ni züitei."
+  },
+  {
+   "speaker": "Золзаяа",
+   "mn": "Таны санал ойлгомжтой ч, нас, нийгмийн байдлыг тооцохгүй бол шударга биш гэж үү?",
+   "en": "Your suggestion is clear, but isn't it unfair if we ignore age and social situation?",
+   "mn_latin": "Tany sanal oilgomjtoi ch, nas, niigmiin baidlyg tootsokhgüi bol shudarga bish gej üü?"
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Тийм эрсдэл бий. Гэхдээ нийгмийн байдлыг тооцвол давхар стандарт гарч магадгүй.",
+   "en": "There is that risk. But if we take social status into account, a double standard may arise.",
+   "mn_latin": "Tiim ersdel bii. Gekhdee niigmiin baidlyg tootsvol davkhar standart garch magadgüi."
+  },
+  {
+   "speaker": "Наран",
+   "mn": "Бидний зарчим бол хүн бүрийн амь тэнцүү гэдэг. Шаардлагатай бол сугалаа ч хэрэглэж болох юм болов уу.",
+   "en": "Our principle is that every life is equal. If need be, perhaps even a lottery could be used.",
+   "mn_latin": "Bidnii zarchim bol khün büriin ami tentsüü gedeg. Shaardlagatai bol sugalaa ch khereglej bolokh yum bolov uu."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Сонирхолтой санаа. Гэхдээ сугалаа нь, хэлж болох юм бол, хариуцлагаас зугтаах арга биш үү?",
+   "en": "Interesting idea. Still, isn't a lottery, as it were, a way of escaping responsibility?",
+   "mn_latin": "Sonirkholtoi sanaa. Gekhdee sugalaa ni, khelj bolokh yum bol, khariutslagaas zugtaakh arga bish üü?"
+  },
+  {
+   "speaker": "Наран",
+   "mn": "Магадгүй. Ямар ч байсан эдгээр дүрмийг нээлттэй зарлах цаг аль хэдийнэ болсон.",
+   "en": "Perhaps. Either way, it's high time these rules were announced openly.",
+   "mn_latin": "Magadgüi. Yamar ch baisan edgeer dürmiig neelttei zarlakh tsag ali khediine bolson."
+  },
+  {
+   "speaker": "Золзаяа",
+   "mn": "Тэгвэл бид эв нэгдэл, шударга байдлыг хамтад нь тусгасан нэг байр суурь бичье.",
+   "en": "Then let's write one position that combines solidarity and fairness.",
+   "mn_latin": "Tegvel bid ev negdel, shudarga baidlyg khamtad ni tusgasan neg bair suuri bichiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian public discussion, directness is often softened, and elders or senior colleagues are rarely contradicted openly; people prefer phrases like «миний бодлоор» or «болов уу». Traditional sayings and the idea of «эв нэгдэл» (community harmony) shape how people weigh individual rights against the interests of the group. In a panel, respectfully acknowledging the other view before disagreeing is considered a sign of cultured communication.",
+  "mn": "Монголчууд олон нийтийн яриа хэлцэлд шууд няцаахаас зайлсхийж, ахмад болон ахлах хүнийг ил үгүйсгэх нь ховор; «миний бодлоор», «болов уу» гэх мэт зөөлрүүлэгч үг хэрэглэдэг. Ардын цэцэн үг, «эв нэгдэл»-ийн үнэт зүйл нь хувь хүний эрх болон хамт олны эрх ашгийг жинлэх арга барилд нөлөөлдөг. Хэлэлцүүлэгт санал нийлэхгүй байсан ч эхлээд хүндэтгэн хүлээн зөвшөөрөх нь соёлтой харилцааны шинж гэж үздэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 9,
+  "notes": "Mostly good; main errors are the reversed sacrifice numbers in the dilemma sentence, a title/explanation mismatch in grammar, and «орон тоо» for 'beds'."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 13,
+  "notes": "The main error was «аминд хүрэх» ('to kill') used where 'to save' was meant; the other fixes cover case government, word choice, and en/mn parity in the explanations.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "«аминд хүрэх» means 'to kill', which is the opposite of 'to save'"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "The standard phrase is «-аас дутахгүй», not «дутуугүй»"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "«шаардах» takes the ablative case, and the doubled «бол ... бол» is awkward"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "'Because beds are few' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "«умартах» is literary; «мартах» is the standard word"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "The comitative ending must match the headword «дилемма»"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "The doubled «бол ... бол» is awkward"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Should match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The English explanation lacked the English-phrase section that the Mongolian version has"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The gloss «болсон цаг иржээ» is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "Should match explain_en ('present or future')"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "«группийн» is colloquial and unnatural here"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Now matches the Mongolian version ('соёлтой харилцаа', 'эрх ашиг')"
+   }
+  ]
+ }
+}

@@ -1,0 +1,393 @@
+{
+ "intro_en": "Argue with friends about referee decisions, fouls and missed chances. You'll learn rules vocabulary and how to say what should have happened and what would have happened if...",
+ "intro_mn": "Шүүгчийн шийдвэр, алдаа, алдсан боломжийн талаар найзуудтайгаа маргаж сурна. Тоглоомын дүрмийн үгс болон ямар нэг зүйл хэрхэн болох ёстой байсныг, мөн өөрөөр болсон бол юу болох байсныг англиар хэлж сурна.",
+ "vocab": [
+  {
+   "mn": "алдаа",
+   "en": "foul",
+   "pos": "noun",
+   "example_mn": "Энэ чинь алдаа биш шүү дээ!",
+   "example_en": "That was never a foul!",
+   "mn_latin": "aldaa"
+  },
+  {
+   "mn": "шүүгч",
+   "en": "referee",
+   "pos": "noun",
+   "example_mn": "Шүүгч тэр алдааг хараагүй.",
+   "example_en": "The referee didn't see that foul.",
+   "mn_latin": "shüügch"
+  },
+  {
+   "mn": "шар хуудас",
+   "en": "yellow card",
+   "pos": "noun",
+   "example_mn": "Тэр хоёр дахь шар хуудсаа авлаа.",
+   "example_en": "He got his second yellow card.",
+   "mn_latin": "shar khuudas"
+  },
+  {
+   "mn": "улаан хуудас",
+   "en": "red card",
+   "pos": "noun",
+   "example_mn": "Энэ бол шууд улаан хуудас!",
+   "example_en": "That's a straight red card!",
+   "mn_latin": "ulaan khuudas"
+  },
+  {
+   "mn": "офсайд",
+   "en": "offside",
+   "pos": "noun/adjective",
+   "example_mn": "Довтлогч офсайд байсан.",
+   "example_en": "The striker was offside.",
+   "mn_latin": "ofsaid"
+  },
+  {
+   "mn": "торгуулийн цохилт",
+   "en": "penalty kick",
+   "pos": "noun",
+   "example_mn": "Шүүгч торгуулийн цохилт өглөө.",
+   "example_en": "The referee gave a penalty kick.",
+   "mn_latin": "torguuliin tsokhilt"
+  },
+  {
+   "mn": "боломж алдах",
+   "en": "to miss a chance",
+   "pos": "verb phrase",
+   "example_mn": "Бид маш сайн боломж алдлаа.",
+   "example_en": "We missed a great chance.",
+   "mn_latin": "bolomj aldakh"
+  },
+  {
+   "mn": "шүгэл үлээх",
+   "en": "to blow the whistle",
+   "pos": "verb phrase",
+   "example_mn": "Шүүгч шүгэлээ хэтэрхий эрт үлээсэн.",
+   "example_en": "The referee blew the whistle too early.",
+   "mn_latin": "shügel üleekh"
+  },
+  {
+   "mn": "дахин тоглуулалт",
+   "en": "replay",
+   "pos": "noun",
+   "example_mn": "Дахин тоглуулалтыг хар даа.",
+   "example_en": "Look at the replay.",
+   "mn_latin": "dakhin togluulalt"
+  },
+  {
+   "mn": "маргах",
+   "en": "to argue",
+   "pos": "verb",
+   "example_mn": "Тоглогчид шүүгчтэй маргаж байна.",
+   "example_en": "The players are arguing with the referee.",
+   "mn_latin": "margakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Шүүгч торгуулийн цохилт өгөх ёстой байсан.",
+   "en": "The referee should have given a penalty.",
+   "alt_mn": [],
+   "alt_en": [
+    "The referee should have awarded a penalty.",
+    "The ref should have given a penalty."
+   ],
+   "mn_latin": "Shüügch torguuliin tsokhilt ögökh yostoi baisan."
+  },
+  {
+   "mn": "Тэр шар хуудас авах ёстой байсан.",
+   "en": "He should have gotten a yellow card.",
+   "alt_mn": [],
+   "alt_en": [
+    "He should have been given a yellow card.",
+    "He should have been booked."
+   ],
+   "mn_latin": "Ter shar khuudas avakh yostoi baisan."
+  },
+  {
+   "mn": "Энэ чинь офсайд биш шүү дээ!",
+   "en": "That wasn't offside!",
+   "alt_mn": [
+    "Энэ офсайд биш шүү дээ!"
+   ],
+   "alt_en": [
+    "That was never offside!"
+   ],
+   "mn_latin": "Ene chini ofsaid bish shüü dee!"
+  },
+  {
+   "mn": "Тэр бөмбөгийг дамжуулсан бол бид гоол оруулах байсан.",
+   "en": "If he had passed the ball, we would have scored.",
+   "alt_mn": [
+    "Хэрэв тэр бөмбөгийг дамжуулсан бол бид гоол оруулах байсан."
+   ],
+   "alt_en": [
+    "If he'd passed the ball, we would have scored.",
+    "If he had passed, we'd have scored."
+   ],
+   "mn_latin": "Ter bömbögiig damjuulsan bol bid gool oruulakh baisan."
+  },
+  {
+   "mn": "Шүүгч тэр алдааг огт хараагүй.",
+   "en": "The referee didn't see that foul at all.",
+   "alt_mn": [],
+   "alt_en": [
+    "The referee completely missed that foul."
+   ],
+   "mn_latin": "Shüügch ter aldaag ogt kharaagüi."
+  },
+  {
+   "mn": "Бид тэр боломжийг алдах ёсгүй байсан.",
+   "en": "We shouldn't have missed that chance.",
+   "alt_mn": [],
+   "alt_en": [
+    "We should never have missed that chance."
+   ],
+   "mn_latin": "Bid ter bolomjiig aldakh yosgüi baisan."
+  },
+  {
+   "mn": "Дахин тоглуулалтаас харахад тэр түүнд огт хүрээгүй.",
+   "en": "On the replay, you can see he didn't touch him at all.",
+   "alt_mn": [],
+   "alt_en": [
+    "The replay shows he didn't touch him at all."
+   ],
+   "mn_latin": "Dakhin togluulaltaas kharakhad ter tüünd ogt khüreegüi."
+  },
+  {
+   "mn": "Хэрэв бид эрт гоол оруулсан бол хожих байсан.",
+   "en": "If we had scored early, we would have won.",
+   "alt_mn": [
+    "Бид эрт гоол оруулсан бол хожих байсан."
+   ],
+   "alt_en": [
+    "If we'd scored early, we would have won."
+   ],
+   "mn_latin": "Kherev bid ert gool oruulsan bol khojikh baisan."
+  },
+  {
+   "mn": "Тэр улаан хуудас авсан бол тоглолт өөр болох байсан.",
+   "en": "If he had gotten a red card, the game would have been different.",
+   "alt_mn": [],
+   "alt_en": [
+    "If he had been sent off, the game would have been different."
+   ],
+   "mn_latin": "Ter ulaan khuudas avsan bol toglolt öör bolokh baisan."
+  },
+  {
+   "mn": "Шүүгчтэй маргаад яах юм бэ?",
+   "en": "What's the point of arguing with the referee?",
+   "alt_mn": [
+    "Шүүгчтэй маргаад яах вэ?"
+   ],
+   "alt_en": [
+    "Why bother arguing with the referee?"
+   ],
+   "mn_latin": "Shüügchtei margaad yaakh yum be?"
+  },
+  {
+   "mn": "Шүүгч шүгэлээ хэтэрхий эрт үлээсэн.",
+   "en": "The referee blew the whistle too early.",
+   "alt_mn": [],
+   "alt_en": [
+    "The ref blew his whistle too early."
+   ],
+   "mn_latin": "Shüügch shügelee kheterkhii ert üleesen."
+  },
+  {
+   "mn": "Хаалгач арай хурдан үсэрсэн бол торгуулийн цохилтыг барих байсан.",
+   "en": "If the goalkeeper had jumped a little faster, he would have saved the penalty.",
+   "alt_mn": [],
+   "alt_en": [
+    "If the keeper had dived a bit faster, he would have saved the penalty."
+   ],
+   "mn_latin": "Khaalgach arai khurdan üsersen bol torguuliin tsokhiltyg barikh baisan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Missed chances: -х ёстой байсан and -сан бол ... -х байсан",
+  "title_mn": "Өнгөрсөн боломж: should have / would have",
+  "explain_en": "To say what SHOULD have happened, use the future/infinitive form of the verb (-х) + ёстой байсан: өгөх ёстой байсан = should have given. For 'shouldn't have', use ёсгүй байсан: алдах ёсгүй байсан = shouldn't have missed. For an imagined past ('if X had happened, Y would have happened'), put the past form -сан/-сэн/-сон/-сөн (following vowel harmony) + бол in the 'if' part, and -х байсан in the result: дамжуулсан бол ... оруулах байсан = if he had passed ... we would have scored. Хэрэв ('if') at the start is optional.",
+  "explain_mn": "Англи хэлэнд болох ёстой байсан зүйлийг should have + үйл үгийн гуравдугаар хэлбэр (V3)-ээр илэрхийлнэ: He should have passed = Тэр дамжуулах ёстой байсан. Үгүйсгэвэл shouldn't have гэнэ. Болоогүй өнгөрсөн нөхцөлийг If + had + V3, ... would have + V3 гэж хэлнэ: If he had scored, we would have won = Тэр гоол оруулсан бол бид хожих байсан. Ярианд товчилж If he'd scored, we'd have won гэж хэлдэг. Анхаар: if-ийн араас would бичихгүй, had бичнэ!",
+  "examples": [
+   {
+    "mn": "Тэр бөмбөгийг дамжуулах ёстой байсан.",
+    "en": "He should have passed the ball.",
+    "mn_latin": "Ter bömbögiig damjuulakh yostoi baisan."
+   },
+   {
+    "mn": "Шүүгч тэр гоолыг тооцох ёсгүй байсан.",
+    "en": "The referee shouldn't have allowed that goal.",
+    "mn_latin": "Shüügch ter goolyg tootsokh yosgüi baisan."
+   },
+   {
+    "mn": "Офсайд биш байсан бол бид хожих байсан.",
+    "en": "If it hadn't been offside, we would have won.",
+    "mn_latin": "Ofsaid bish baisan bol bid khojikh baisan."
+   },
+   {
+    "mn": "Хэрэв шүүгч дахин тоглуулалтыг харсан бол улаан хуудас үзүүлэх байсан.",
+    "en": "If the referee had looked at the replay, he would have shown a red card.",
+    "mn_latin": "Kherev shüügch dakhin togluulaltyg kharsan bol ulaan khuudas üzüülekh baisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шүүгч торгуулийн цохилт өгөх ___ байсан.",
+   "answer": "ёстой",
+   "options": [
+    "ёстой",
+    "байсан бол",
+    "болохоор",
+    "уу"
+   ],
+   "translation": "The referee should have given a penalty.",
+   "explain_en": "'Should have' is -х + ёстой байсан. The verb өгөх is already in the -х form, so ёстой completes the pattern.",
+   "explain_mn": "'Should have given' гэдгийг -х ёстой байсан хэлбэрээр илэрхийлнэ: өгөх ёстой байсан."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр бөмбөгийг дамжуулсан ___ бид хожих байсан.",
+   "answer": "бол",
+   "options": [
+    "бол",
+    "уу",
+    "юм",
+    "нь"
+   ],
+   "translation": "If he had passed the ball, we would have won.",
+   "explain_en": "The 'if' clause about an unreal past uses -сан + бол. The result clause then uses -х байсан (хожих байсан).",
+   "explain_mn": "'If he had passed' нөхцөлийг -сан бол хэлбэрээр илэрхийлнэ, үр дүн нь -х байсан (would have won)."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр ___ хуудас авах ёстой байсан, гэхдээ шүүгч зөвхөн шар хуудас үзүүлсэн.",
+   "answer": "улаан",
+   "options": [
+    "улаан",
+    "шар",
+    "ногоон",
+    "цагаан"
+   ],
+   "translation": "He should have gotten a red card, but the referee only showed a yellow.",
+   "explain_en": "The contrast with шар хуудас (yellow card) means the missing word is улаан, 'red'.",
+   "explain_mn": "Өгүүлбэр шар хуудастай харьцуулж байгаа тул улаан хуудас (red card) байх ёстой."
+  },
+  {
+   "lang": "en",
+   "text": "The referee should have ___ that foul.",
+   "answer": "seen",
+   "options": [
+    "seen",
+    "saw",
+    "see",
+    "seeing"
+   ],
+   "translation": "Шүүгч тэр алдааг харах ёстой байсан.",
+   "explain_en": "After 'should have' we always use the past participle: seen, not saw.",
+   "explain_mn": "Should have-ийн араас үйл үгийн гуравдугаар хэлбэр (V3) орно: see – saw – seen."
+  },
+  {
+   "lang": "en",
+   "text": "If he had passed, we ___ have scored.",
+   "answer": "would",
+   "options": [
+    "would",
+    "will",
+    "had",
+    "did"
+   ],
+   "translation": "Тэр дамжуулсан бол бид гоол оруулах байсан.",
+   "explain_en": "In a past unreal conditional, the result part uses 'would have' + past participle.",
+   "explain_mn": "If + had + V3 гэсэн нөхцөлийн дараа үр дүн нь would have + V3 байна (-х байсан)."
+  },
+  {
+   "lang": "en",
+   "text": "That was never a ___! He got the ball first.",
+   "answer": "foul",
+   "options": [
+    "foul",
+    "score",
+    "whistle",
+    "chance"
+   ],
+   "translation": "Энэ чинь алдаа биш шүү дээ! Тэр эхлээд бөмбөгт хүрсэн.",
+   "explain_en": "Getting the ball first is the classic argument that a tackle wasn't a foul.",
+   "explain_mn": "Foul нь хөлбөмбөгийн 'алдаа' гэсэн утгатай. 'That was never a foul!' гэдэг нь фэнүүдийн түгээмэл хэллэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Энэ чинь алдаа биш шүү дээ! Тэр эхлээд бөмбөгт хүрсэн.",
+   "en": "That was never a foul! He got the ball first.",
+   "mn_latin": "Ene chini aldaa bish shüü dee! Ter ekhleed bömbögt khürsen."
+  },
+  {
+   "speaker": "Туул",
+   "mn": "Яасан алдаа биш гэж? Дахин тоглуулалтыг хар даа, хөлийг нь өшиглөсөн.",
+   "en": "What do you mean, not a foul? Look at the replay, he kicked his leg.",
+   "mn_latin": "Yaasan aldaa bish gej? Dakhin togluulaltyg khar daa, khöliig ni öshiglösön."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "За яахав, гэхдээ ядаж шар хуудас өгөх ёсгүй байсан.",
+   "en": "Okay, fine, but the ref at least shouldn't have given a yellow card.",
+   "mn_latin": "Za yaakhav, gekhdee yadaj shar khuudas ögökh yosgüi baisan."
+  },
+  {
+   "speaker": "Туул",
+   "mn": "Харин түрүүн манай довтлогчийг унагаахад шүүгч юу ч хийгээгүй. Торгуулийн цохилт өгөх ёстой байсан.",
+   "en": "But earlier, when they took down our striker, the referee did nothing. He should have given a penalty.",
+   "mn_latin": "Kharin türüün manai dovtlogchiig unagaakhad shüügch yuu ch khiigeegüi. Torguuliin tsokhilt ögökh yostoi baisan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тэр чинь офсайд байсан шүү дээ.",
+   "en": "He was offside anyway.",
+   "mn_latin": "Ter chini ofsaid baisan shüü dee."
+  },
+  {
+   "speaker": "Туул",
+   "mn": "Огт биш! Тэр гоол оруулсан бол бид одоо 2:1-ээр тэргүүлж байх байсан.",
+   "en": "No way! If he had scored, we'd be up 2-1 right now.",
+   "mn_latin": "Ogt bish! Ter gool oruulsan bol bid odoo 2:1-eer tergüülj baikh baisan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Ер нь Эрдэнэ тэр боломжийг алдах ёсгүй байсан. Хаалга хоосон байсан шүү дээ!",
+   "en": "Honestly, Erdene should never have missed that chance. The goal was empty!",
+   "mn_latin": "Yer ni Erdene ter bolomjiig aldakh yosgüi baisan. Khaalga khooson baisan shüü dee!"
+  },
+  {
+   "speaker": "Туул",
+   "mn": "Тийм ээ. Шүүгчийг буруутгаад яах вэ, өөрсдөө л буруу.",
+   "en": "Yeah. No point blaming the referee, it's our own fault.",
+   "mn_latin": "Tiim ee. Shüügchiig buruutgaad yaakh ve, öörsdöö l buruu."
+  }
+ ],
+ "culture_note": {
+  "en": "Football is growing fast in Mongolia. Fans follow the Mongolian National Premier League and crowd into Ulaanbaatar pubs to watch European matches late at night. When friends argue about a call, little particles like чинь and шүү дээ add emotional punch: \"Энэ чинь алдаа биш шүү дээ!\" sounds much stronger than a plain \"Энэ алдаа биш.\"",
+  "mn": "Монголд хөлбөмбөг хурдацтай хөгжиж байна. Фэнүүд Монголын Үндэсний Премьер лигийг дагаж, Европын тоглолтуудыг шөнө орой Улаанбаатарын пабуудад бөөгнөрөн үздэг. Найзууд шүүгчийн шийдвэрийн талаар маргахдаа чинь, шүү дээ зэрэг сул үгээр сэтгэл хөдлөлөө хүчтэй илэрхийлдэг: \"Энэ чинь алдаа биш шүү дээ!\" гэдэг нь энгийн \"Энэ алдаа биш.\" гэснээс хамаагүй хүчтэй сонсогддог."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, natural lesson with accurate grammar explanations. There were only one wrong verb choice, one fill-in-the-blank with two possible answers, and one unclear pronoun."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 1,
+  "notes": "The lesson is mostly accurate. The only real problem was that the en and mn culture notes said different things.",
+  "changes": [
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The mn version must match the en: it now gives the same 'plain sentence vs. particles' comparison instead of a different point about English 'never'."
+   }
+  ]
+ }
+}

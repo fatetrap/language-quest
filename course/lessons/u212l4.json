@@ -1,0 +1,437 @@
+{
+ "intro_en": "Spend a day at summer camp: hiking, swimming, crafts, sports, and the evening campfire, plus the safety words every camper needs. You'll learn the friendly Mongolian request form -ж байгаач (хамт явж байгаач) and when English drops the article: have breakfast, by bus, but go to the lake.",
+ "intro_mn": "Зуны лагерийн нэг өдрийг өнгөрүүлцгээе: явган аялал, сэлэлт, гар урлал, спорт, оройн түүдэг гал болон аюулгүй байдлын үгс. Монгол хэлний -ж байгаач (хамт явж байгаач) гэсэн найрсаг хүсэлтийн хэлбэрийг сурна. Мөн англи хэлэнд have breakfast, by bus гэх мэт хэллэгт артикль хэрэглэдэггүй ч go to the lake гэхэд the хэрэглэдгийг сурна.",
+ "vocab": [
+  {
+   "mn": "явган аялал",
+   "en": "hiking",
+   "pos": "noun",
+   "example_mn": "Маргааш бид уул руу явган аялал хийнэ.",
+   "example_en": "Tomorrow we're going hiking in the mountains.",
+   "mn_latin": "yavgan ayalal"
+  },
+  {
+   "mn": "сэлэх",
+   "en": "to swim",
+   "pos": "verb",
+   "example_mn": "Хүүхдүүд нууранд сэлж байна.",
+   "example_en": "The kids are swimming in the lake.",
+   "mn_latin": "selekh"
+  },
+  {
+   "mn": "түүдэг гал",
+   "en": "campfire",
+   "pos": "noun",
+   "example_mn": "Орой бид түүдэг галын дэргэд дуулдаг.",
+   "example_en": "In the evening we sing around the campfire.",
+   "mn_latin": "tüüdeg gal"
+  },
+  {
+   "mn": "гар урлал",
+   "en": "crafts",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр гар урлалын цагаар бид бугуйвч хийсэн.",
+   "example_en": "Today in crafts we made bracelets.",
+   "mn_latin": "gar urlal"
+  },
+  {
+   "mn": "аврах хантааз",
+   "en": "life jacket",
+   "pos": "noun",
+   "example_mn": "Завинд суухдаа аврах хантаазаа заавал өмсөөрэй.",
+   "example_en": "Always wear your life jacket in a boat.",
+   "mn_latin": "avrakh khantaaz"
+  },
+  {
+   "mn": "аюулгүй байдал",
+   "en": "safety",
+   "pos": "noun",
+   "example_mn": "Багш нар аюулгүй байдлын дүрмийг тайлбарласан.",
+   "example_en": "The counselors explained the safety rules.",
+   "mn_latin": "ayuulgüi baidal"
+  },
+  {
+   "mn": "нуур",
+   "en": "lake",
+   "pos": "noun",
+   "example_mn": "Лагерь нуурын эрэг дээр байдаг.",
+   "example_en": "The camp is on the shore of a lake.",
+   "mn_latin": "nuur"
+  },
+  {
+   "mn": "гол",
+   "en": "river",
+   "pos": "noun",
+   "example_mn": "Голын ус өнөөдөр их хүйтэн байна.",
+   "example_en": "The river water is really cold today.",
+   "mn_latin": "gol"
+  },
+  {
+   "mn": "өглөөний цай",
+   "en": "breakfast",
+   "pos": "noun",
+   "example_mn": "Бид өглөөний цайгаа долоон цагт уудаг.",
+   "example_en": "We have breakfast at seven.",
+   "mn_latin": "öglöönii tsai"
+  },
+  {
+   "mn": "өдрийн хоол",
+   "en": "lunch",
+   "pos": "noun",
+   "example_mn": "Өдрийн хоолны дараа бид хөл бөмбөг тоглоно.",
+   "example_en": "After lunch we'll play soccer.",
+   "mn_latin": "ödriin khool"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Чи надтай хамт явж байгаач.",
+   "en": "Come with me, will you?",
+   "alt_mn": [
+    "Надтай хамт явж байгаач."
+   ],
+   "alt_en": [
+    "Please come with me.",
+    "Stick with me, OK?"
+   ],
+   "mn_latin": "Chi nadtai khamt yavj baigaach."
+  },
+  {
+   "mn": "Бид өглөөний цайгаа уугаад нуур луу явна.",
+   "en": "We'll have breakfast and then go to the lake.",
+   "alt_mn": [
+    "Өглөөний цайгаа уусны дараа бид нуур луу явна."
+   ],
+   "alt_en": [
+    "After breakfast we'll go to the lake."
+   ],
+   "mn_latin": "Bid öglöönii tsaigaa uugaad nuur luu yavna."
+  },
+  {
+   "mn": "Бид лагерь руу автобусаар явсан.",
+   "en": "We went to camp by bus.",
+   "alt_mn": [
+    "Бид лагерьт автобусаар очсон."
+   ],
+   "alt_en": [
+    "We took the bus to camp."
+   ],
+   "mn_latin": "Bid lagyeri ruu avtobusaar yavsan."
+  },
+  {
+   "mn": "Голд ганцаараа битгий сэлээрэй.",
+   "en": "Don't swim in the river alone.",
+   "alt_mn": [
+    "Голд ганцаараа бүү сэл."
+   ],
+   "alt_en": [
+    "Never swim in the river by yourself."
+   ],
+   "mn_latin": "Gold gantsaaraa bitgii seleerei."
+  },
+  {
+   "mn": "Чи миний хантаазыг барьж байгаач, би ус аваад ирье.",
+   "en": "Hold my life jacket for a bit, will you? I'll go get some water.",
+   "alt_mn": [
+    "Миний хантаазыг барьж байгаач, би ус аваад ирье."
+   ],
+   "alt_en": [
+    "Can you hold my life jacket for a minute? I'll go get some water."
+   ],
+   "mn_latin": "Chi minii khantaazyg barij baigaach, bi us avaad iriye."
+  },
+  {
+   "mn": "Өдрийн хоолны дараа гар урлалын цаг эхэлнэ.",
+   "en": "Crafts start after lunch.",
+   "alt_mn": [
+    "Гар урлалын цаг өдрийн хоолны дараа эхэлнэ."
+   ],
+   "alt_en": [
+    "Craft time starts after lunch."
+   ],
+   "mn_latin": "Ödriin khoolny daraa gar urlalyn tsag ekhelne."
+  },
+  {
+   "mn": "Түүдэг галаас хол зогсоорой.",
+   "en": "Stay back from the campfire.",
+   "alt_mn": [
+    "Түүдэг галд ойртож болохгүй."
+   ],
+   "alt_en": [
+    "Keep away from the campfire."
+   ],
+   "mn_latin": "Tüüdeg galaas khol zogsooroi."
+  },
+  {
+   "mn": "Явган аялалд гарахдаа ус, малгайгаа заавал аваарай.",
+   "en": "When you go hiking, be sure to take water and a hat.",
+   "alt_mn": [
+    "Явган аялалд явахдаа ус, малгайгаа заавал аваарай."
+   ],
+   "alt_en": [
+    "Make sure you bring water and a hat when you go hiking."
+   ],
+   "mn_latin": "Yavgan ayalald garakhdaa us, malgaigaa zaaval avaarai."
+  },
+  {
+   "mn": "Намайг сэлж дуустал эндээ хүлээж байгаач.",
+   "en": "Wait here until I finish swimming, OK?",
+   "alt_mn": [
+    "Би сэлж дуустал энд хүлээж байгаач."
+   ],
+   "alt_en": [
+    "Wait for me here until I'm done swimming, will you?"
+   ],
+   "mn_latin": "Namaig selj duustal endee khüleej baigaach."
+  },
+  {
+   "mn": "Бид өдрийн хоолоо гадаа идсэн.",
+   "en": "We had lunch outside.",
+   "alt_mn": [
+    "Бид гадаа өдрийн хоолоо идсэн."
+   ],
+   "alt_en": [
+    "We ate lunch outside."
+   ],
+   "mn_latin": "Bid ödriin khooloo gadaa idsen."
+  },
+  {
+   "mn": "Сагсан бөмбөгийн тэмцээнд манай баг яллаа.",
+   "en": "Our team won the basketball tournament.",
+   "alt_mn": [
+    "Манай баг сагсан бөмбөгийн тэмцээнд түрүүлсэн."
+   ],
+   "alt_en": [
+    "Our team won the basketball competition."
+   ],
+   "mn_latin": "Sagsan bömbögiin temtseend manai bag yallaa."
+  },
+  {
+   "mn": "Аюулгүй байдлын дүрмийг сайн сонсож байгаач.",
+   "en": "Listen carefully to the safety rules, OK?",
+   "alt_mn": [
+    "Аюулгүй байдлын дүрмийг анхааралтай сонсож байгаач."
+   ],
+   "alt_en": [
+    "Pay attention to the safety rules, will you?"
+   ],
+   "mn_latin": "Ayuulgüi baidlyn dürmiig sain sonsoj baigaach."
+  }
+ ],
+ "grammar": {
+  "title_en": "Friendly requests with -ж/-ч байгаач, and articles: have breakfast, by bus, but go to the lake",
+  "title_mn": "-ж/-ч байгаач гэсэн найрсаг хүсэлт ба артикль: have breakfast, by bus, харин go to the lake",
+  "explain_en": "Kids at camp often make requests with verb + -ж/-ч + байгаач: хамт явж байгаач (come with me, OK?), хүлээж байгаач (wait for me, will you?). Байгаач is the urging imperative of байх (to be), so the request means 'please be doing this for a while' or 'please keep doing it.' It sounds warm and a little pleading, like adding 'will you?' or 'OK?' in English. Use it with чи, between friends and family. Most verbs take -ж (хүлээж, ирж, барьж). Stems ending in в, г, р, с take -ч (сурч байгаач, авч байгаач). Яв- is a common exception: явж. In English, meal names take no article: have breakfast, after lunch. 'By' + a means of transport also takes no article: by bus, by car. Lakes and rivers usually take 'the' (go to the lake, swim in the river) because the speakers know which one is meant. 'Go to camp' has no article.",
+  "explain_mn": "Лагерьт хүүхдүүд үйл үг + -ж/-ч + байгаач хэлбэрээр хүсэлт гаргадаг: хамт явж байгаач, хүлээж байгаач. Байгаач нь байх үйл үгийн ятгах, гуйх захирах хэлбэр тул 'түр хийж байгаарай, хийсээр байгаарай' гэсэн утгатай. Англи хэлний 'will you?', 'OK?'-тэй адил дулаахан, бага зэрэг гуйсан өнгөтэй. Үүнийг найз нөхөд, гэр бүлийн хооронд чи-тэй хэрэглэнэ. Ихэнх үйл үг -ж авна (хүлээж, ирж, барьж). В, г, р, с-ээр төгссөн язгуур -ч авна (сурч, авч). Яв- нь үл хамаарах тохиолдол тул явж болно. Англи хэлэнд хоолны нэрийн өмнө артикль тавьдаггүй: have breakfast, after lunch. By + тээврийн хэрэгсэл хэлбэрт мөн артикльгүй: by bus, by car. Харин нуур, голын өмнө ихэвчлэн the хэрэглэнэ (go to the lake, swim in the river), учир нь ярьж буй хүмүүс аль нуур, голыг хэлж байгааг мэддэг. 'Go to camp' гэхэд артикль хэрэглэдэггүй.",
+  "examples": [
+   {
+    "mn": "Чи надтай хамт явж байгаач.",
+    "en": "Come with me, will you?",
+    "mn_latin": "Chi nadtai khamt yavj baigaach."
+   },
+   {
+    "mn": "Бид өглөөний цайгаа уугаад нуур луу явсан.",
+    "en": "We had breakfast and went to the lake.",
+    "mn_latin": "Bid öglöönii tsaigaa uugaad nuur luu yavsan."
+   },
+   {
+    "mn": "Бид гол руу автобусаар явна.",
+    "en": "We're going to the river by bus.",
+    "mn_latin": "Bid gol ruu avtobusaar yavna."
+   },
+   {
+    "mn": "Энд хүлээж байгаач, би хантаазаа авчихъя.",
+    "en": "Wait here, OK? Let me grab my life jacket.",
+    "mn_latin": "End khüleej baigaach, bi khantaazaa avchikhya."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Чи надтай хамт явж ___.",
+   "answer": "байгаач",
+   "options": [
+    "байгаач",
+    "байна",
+    "байсан",
+    "байлаа"
+   ],
+   "translation": "Come with me, will you?",
+   "explain_en": "Verb + -ж + байгаач makes a friendly, slightly pleading request between friends: 'please come with me.'",
+   "explain_mn": "-ж байгаач нь найз нөхдийн хооронд хэрэглэдэг эелдэг, гуйсан өнгөтэй хүсэлт юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид өглөөний цайгаа уугаад нуур ___ явна.",
+   "answer": "луу",
+   "options": [
+    "луу",
+    "руу",
+    "лүү",
+    "рүү"
+   ],
+   "translation": "We'll have breakfast and then go to the lake.",
+   "explain_en": "Нуур has back vowels and ends in р. To avoid р + руу, the ending becomes луу.",
+   "explain_mn": "Нуур гэдэг үг р үсгээр төгссөн, эр үг тул чиглэх тийн ялгал нь 'луу' болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Намайг сэлж дуустал энд хүлээ___ байгаач.",
+   "answer": "ж",
+   "options": [
+    "ж",
+    "ч",
+    "аад",
+    "сан"
+   ],
+   "translation": "Wait here until I finish swimming, OK?",
+   "explain_en": "Хүлээ- ends in a vowel, so it takes -ж before байгаач. Only stems ending in в, г, р, с take -ч.",
+   "explain_mn": "Хүлээ- эгшгээр төгссөн тул -ж нөхцөл авна."
+  },
+  {
+   "lang": "en",
+   "text": "We have ___ at seven every morning.",
+   "answer": "breakfast",
+   "options": [
+    "breakfast",
+    "the breakfast",
+    "a breakfast",
+    "breakfasts"
+   ],
+   "translation": "Бид өглөө бүр долоон цагт өглөөний цайгаа уудаг.",
+   "explain_en": "Meal names take no article in 'have breakfast/lunch/dinner.'",
+   "explain_mn": "Have breakfast/lunch/dinner гэх хэллэгт хоолны нэрийн өмнө артикль тавихгүй."
+  },
+  {
+   "lang": "en",
+   "text": "After lunch we go to ___ lake to swim.",
+   "answer": "the",
+   "options": [
+    "the",
+    "a",
+    "an",
+    "some"
+   ],
+   "translation": "Өдрийн хоолны дараа бид сэлэхээр нуур луу явдаг.",
+   "explain_en": "Everyone knows which lake is meant, the one at camp, so English uses 'the.'",
+   "explain_mn": "Ярьж буй хүмүүс аль нуурыг хэлж байгааг мэддэг тул 'the' хэрэглэнэ: go to the lake."
+  },
+  {
+   "lang": "en",
+   "text": "We went to camp by ___.",
+   "answer": "bus",
+   "options": [
+    "bus",
+    "the bus",
+    "a bus",
+    "buses"
+   ],
+   "translation": "Бид лагерь руу автобусаар явсан.",
+   "explain_en": "With 'by' + a means of transport, use no article: by bus, by car, by train.",
+   "explain_mn": "By + тээврийн хэрэгсэл хэлбэрт артикль хэрэглэхгүй: by bus, by car."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Нараа, өглөөний цайгаа уусан уу? Өнөөдөр нуур луу явна гэсэн.",
+   "en": "Naraa, did you have breakfast? They said we're going to the lake today.",
+   "mn_latin": "Naraa, öglöönii tsaigaa uusan uu? Önöödör nuur luu yavna gesen."
+  },
+  {
+   "speaker": "Нараа",
+   "mn": "Уусан. Гэхдээ би сайн сэлж чадахгүй, жаахан айж байна.",
+   "en": "I did. But I can't swim very well, so I'm a little scared.",
+   "mn_latin": "Uusan. Gekhdee bi sain selj chadakhgüi, jaakhan aij baina."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Айх хэрэггүй. Бүгд аврах хантааз өмсөнө, багш нар ч бас тэнд байна.",
+   "en": "Don't be scared. Everyone will wear a life jacket, and the counselors will be there too.",
+   "mn_latin": "Aikh khereggüi. Bügd avrakh khantaaz ömsönö, bagsh nar ch bas tend baina."
+  },
+  {
+   "speaker": "Нараа",
+   "mn": "Тэгвэл чи надтай хамт явж байгаач, за юу?",
+   "en": "Then stick with me, OK?",
+   "mn_latin": "Tegvel chi nadtai khamt yavj baigaach, za yuu?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "За, мэдээж. Өдрийн хоолны дараа гар урлал, орой түүдэг гал байгаа.",
+   "en": "Sure, of course. After lunch we have crafts, and in the evening there's a campfire.",
+   "mn_latin": "Za, medeej. Ödriin khoolny daraa gar urlal, oroi tüüdeg gal baigaa."
+  },
+  {
+   "speaker": "Нараа",
+   "mn": "Гоё! Би хантаазаа авчихъя. Чи энд хүлээж байгаач.",
+   "en": "Cool! Let me grab my life jacket. Wait here, OK?",
+   "mn_latin": "Goyo! Bi khantaazaa avchikhya. Chi end khüleej baigaach."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "За, хурдан ирээрэй. Нуур луу автобусаар явна шүү, удахгүй хөдөлнө.",
+   "en": "OK, hurry back. We're going to the lake by bus, and it's leaving soon.",
+   "mn_latin": "Za, khurdan ireerei. Nuur luu avtobusaar yavna shüü, udakhgüi khödölnö."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Ulaanbaatar children spend part of the long summer break at a children's camp (хүүхдийн зуслан), often in Terelj, Gachuurt, or other green valleys outside the city. The tradition goes back to the socialist-era pioneer camps. Today a typical camp stay lasts one to three weeks and is full of hiking, sports contests, talent shows, and evening campfires.",
+  "mn": "Улаанбаатарын олон хүүхэд зуны урт амралтынхаа нэг хэсгийг Тэрэлж, Гачуурт зэрэг хотын захын ногоон хөндийд байрлах хүүхдийн зусланд өнгөрүүлдэг. Энэ уламжлал социализмын үеийн пионерийн лагериас эхтэй. Одоо хүүхдүүд зусланд ихэвчлэн нэгээс гурван долоо хоног амарч, явган аялал, спортын тэмцээн, авьяасын үзүүлбэр, оройн түүдэг галаар хөгжилтэй өнгөрүүлдэг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A strong, accurate lesson. Mongolian case endings (нуур луу, гол руу), -ж/-ч байгаач forms, and the article explanations are correct. Only one small unnatural English phrasing needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 7,
+  "notes": "The main problem was that the en and mn grammar title, explanation and intro covered different topics. Also fixed the -ж/-ч rule example, one ambiguous fill-blank option and a tense mismatch.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'Зуслан лагерийн' is unnatural, and the mn intro left out the -ж байгаач topic"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "The en and mn titles covered different topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Makes the mn title match the en title"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The en and mn explanations covered different topics. Явж also contradicted the stated в rule."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Makes the mn explanation say the same thing as the en one"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'явж байх' can also work as a mild imperative, so 'байх' was a second possible answer"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "Tense now matches the future 'өмсөнө'"
+   }
+  ]
+ }
+}

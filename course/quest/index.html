@@ -1,0 +1,1080 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<title>Language Quest · Language Quest</title>
+<style>
+/* 16-bit JRPG look (SNES era): pixel fonts from assets/fonts.js ("Yarya Pixel" = Press Start 2P for the UI chrome, "Yarya Uni"
+   = GNU Unifont for every learning text, crisp at 16 / 24 / 32 / 48 px), bevelled gradient windows, pixel art from pixel.js at
+   an integer scale (--px). Text colours meet WCAG AA (4.5:1) on both ends of every window gradient in both themes; text sits
+   on windows, never on the art. Dark theme = blue windows + dusk / night scenes, light = parchment windows + day scenes */
+:root{--px:2;--fs:16px;--lh:24px;--fo:24px;--big:32px;--word:32px;
+  --pix:"Yarya Pixel","Yarya Uni","Courier New",monospace;--uni:"Yarya Uni","Segoe UI","Noto Sans",Arial,sans-serif;
+  --bg:#0b0b22;--bg2:#17173c;--w1:#3646b4;--w2:#121a6a;--wl:#e8ecff;--wm:#7e88d0;--wd:#03031a;
+  --ink:#ffffff;--muted:#d4dcff;--dim:#c4ccf4;--gold:#ffe060;--acc:#a0e8ff;--red:#ff5a5a;--red-tx:#ffc4bc;--good:#58e070;--good-ink:#b4ffb8;
+  --sel:#26339c;--sh:#000000;--field:#080c3c;--track:#05061e;--good-soft:#0e4a2a;--red-soft:#5a1020}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#d8ceb2;--bg2:#c8bc9a;--w1:#fffaf0;--w2:#efdfba;--wl:#4a3018;--wm:#c4a274;--wd:#1e1208;
+  --ink:#1a1226;--muted:#43365a;--dim:#4c3f60;--gold:#7a3a00;--acc:#16468e;--red:#c41818;--red-tx:#9a1010;--good:#1a8a3a;--good-ink:#0a5a24;
+  --sel:#f6dc98;--sh:transparent;--field:#fffdf6;--track:#5a4028;--good-soft:#d6f5d6;--red-soft:#fbdcd6}}
+:root[data-theme="light"]{--bg:#d8ceb2;--bg2:#c8bc9a;--w1:#fffaf0;--w2:#efdfba;--wl:#4a3018;--wm:#c4a274;--wd:#1e1208;
+  --ink:#1a1226;--muted:#43365a;--dim:#4c3f60;--gold:#7a3a00;--acc:#16468e;--red:#c41818;--red-tx:#9a1010;--good:#1a8a3a;--good-ink:#0a5a24;
+  --sel:#f6dc98;--sh:transparent;--field:#fffdf6;--track:#5a4028;--good-soft:#d6f5d6;--red-soft:#fbdcd6}
+@media (min-width:900px){:root{--fs:24px;--lh:32px;--big:32px;--word:48px}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:var(--fs)/var(--lh) var(--uni);overflow-x:hidden;-webkit-font-smoothing:none}
+h1,h2,h3{margin:0;font-weight:400}
+h1,h2,.btn,.logo,.k,.lab,.pill,.chead,.plate,.enc,.lvhd,.lvsum,.tile .tk,.flag,.kick{font-family:var(--pix);font-weight:400}
+button,a.btn,a.ibtn{font:inherit;color:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent;text-decoration:none}
+button:disabled{cursor:default}
+:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.wrap{max-width:900px;margin:0 auto;padding:10px 8px 24px}
+.muted{color:var(--muted)}
+.latin{color:var(--acc);font-family:var(--uni)}
+/* the window: gradient, light bevel, dark rim, hard drop shadow (one look for every panel) */
+.win{position:relative;background:linear-gradient(var(--w1),var(--w2));color:var(--ink);border:3px solid var(--wl);border-radius:8px;
+  box-shadow:0 0 0 2px var(--wd),inset 0 0 0 2px var(--wm),inset 0 0 0 3px var(--wd),4px 5px 0 2px #00000045;text-shadow:1px 1px 0 var(--sh)}
+/* the pointing hand (CSS pixel art from pixel.js in --hand) on the command under the cursor */
+.btn::before,.opt::before,.choose button::before,.lvsum::before,.enc.next::before{content:"";position:absolute;width:2px;height:2px;box-shadow:var(--hand);pointer-events:none;visibility:hidden}
+.btn::before,.choose button::before,.lvsum::before{left:7px;top:calc(50% - 10px)}
+.btn:hover:not(:disabled)::before,.btn:focus::before,.choose button:hover::before,.choose button:focus-visible::before,.lvsum:hover::before,.lvsum:focus-visible::before,
+.opt.cur:not(:disabled)::before{visibility:visible;animation:point .5s steps(1) infinite}
+@keyframes point{50%{transform:translateX(3px)}}
+/* buttons: small windows with the pixel font */
+.btn{position:relative;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:10px 20px 10px 38px;font-size:16px;line-height:24px;
+  color:var(--ink);background:linear-gradient(var(--w1),var(--w2));border:3px solid var(--wl);border-radius:8px;box-shadow:0 0 0 2px var(--wd),inset 0 0 0 2px var(--wm);text-shadow:2px 2px 0 var(--sh)}
+.btn:hover:not(:disabled),.btn:focus-visible{color:var(--gold)}
+.btn:active:not(:disabled){transform:translateY(2px)}
+.btn:disabled{opacity:.55}
+.btn.ghost{background:var(--bg2);border-color:var(--wm);color:var(--ink)}
+.btn.wide{width:100%}
+.ibtn{width:40px;height:40px;flex:none;border:2px solid var(--wm);border-radius:6px;background:var(--field);color:var(--ink);display:grid;place-items:center;padding:0;font:20px/1 var(--uni)}
+.ibtn:hover{border-color:var(--gold)}
+.ibtn[aria-pressed="false"]{color:var(--dim);border-style:dashed}
+/* top bar */
+.top{position:sticky;top:0;z-index:20;padding:6px 6px 0;background:var(--bg)}
+.top .in{max-width:900px;margin:0 auto;padding:6px 8px;display:flex;align-items:center;gap:6px}
+.logo{margin-right:auto;font-size:16px;color:var(--gold);min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-shadow:2px 2px 0 var(--sh)}
+.pill{display:inline-flex;align-items:center;gap:4px;height:40px;padding:0 8px;font:16px/1 var(--uni);white-space:nowrap;color:var(--ink)}
+.pill.xp{color:var(--gold)}.pill.streak{color:var(--acc)}
+@media (max-width:420px){.logo .nm{display:none}.pill{padding:0 4px}.top .in{gap:4px;padding:6px}.ibtn{width:36px;height:36px;font-size:18px}}
+/* pixel art: canvases at an integer scale, never smoothed; a faint scanline on the scenes */
+.scene{position:relative;overflow:hidden;background:var(--bg2)}
+.scene>canvas{position:absolute;left:50%;bottom:0;transform:translateX(-50%);display:block;image-rendering:pixelated}
+.scene::after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(transparent 0 calc(var(--px) * 1px - 1px),#00000012 0 calc(var(--px) * 1px))}
+.spr{display:block;image-rendering:pixelated;width:calc(var(--w) * var(--px) * 1px);height:calc(var(--h) * var(--px) * 1px)}
+.spr.mini{--px:1}
+@media (min-width:900px){.spr.mini{--px:2}}
+/* title screen: language chooser */
+.splash{min-height:100vh;min-height:100dvh;display:flex;flex-direction:column}
+.splash .scene{height:clamp(220px,46vh,420px);flex:none}
+.splash .duo{position:absolute;left:0;right:0;bottom:6%;display:flex;justify-content:center;gap:clamp(40px,12vw,160px);align-items:flex-end}
+.splash .wrap{width:100%;margin-top:-46px;position:relative}
+.logo-win{text-align:center;padding:16px 12px 14px}
+.logo-win h1{font-size:clamp(20px,6vw,40px);line-height:1.3;color:var(--gold);text-shadow:3px 3px 0 var(--sh);letter-spacing:.04em}
+.logo-win .muted{margin-top:6px}
+.choose{display:grid;gap:12px;margin-top:14px}
+.choose button{position:relative;text-align:left;padding:14px 14px 14px 40px;display:flex;gap:14px;align-items:center}
+.choose button:hover b,.choose button:focus-visible b{color:var(--gold)}
+.choose .flag{font-size:12px;border:2px solid var(--wm);border-radius:4px;color:var(--acc);padding:8px;white-space:nowrap;background:var(--field)}
+.choose b{display:block;font-weight:400;font-size:var(--fo);line-height:1.3}
+/* onboarding: a dialogue box over the scene */
+.onb{position:fixed;inset:0;z-index:50;background:#000;display:flex;align-items:flex-end;justify-content:center;padding:16px}
+.onb>.scene{position:absolute;inset:0}
+.onb .card{position:relative;max-width:760px;width:100%;padding:24px 20px 18px;animation:rise .35s steps(5) both}
+.onb .dots{display:flex;gap:8px;margin-bottom:16px}
+.onb .dots i{flex:1;height:6px;background:var(--track);border:1px solid var(--wm)}.onb .dots i.on{background:var(--gold)}
+.onb h2{font-size:clamp(16px,4vw,24px);line-height:1.4;color:var(--gold);text-shadow:2px 2px 0 var(--sh)}
+.onb p{margin:12px 0 18px;min-height:calc(var(--lh) * 3)}
+.onb .skip{margin-right:auto;background:none;border:0;color:var(--muted);font:12px var(--pix);padding:8px 4px;min-height:44px;text-decoration:underline}
+.onb .row{justify-content:flex-end;align-items:center}
+@media (max-width:560px){.onb .row .btn{width:auto;flex:1}}
+/* camp: the world map, the next encounter, the chapter's units as trails of stepping stones */
+.mapwin{margin-bottom:14px;overflow:hidden;padding:0}
+.mhead{display:flex;justify-content:space-between;gap:10px;padding:8px 12px;font:12px/18px var(--pix);color:var(--gold)}
+.mhead span:last-child{color:var(--ink);flex:none}
+.mapbox{position:relative;overflow:hidden;height:clamp(150px,28vw,250px);border-top:3px solid var(--wl);background:var(--bg2);border-radius:0 0 5px 5px}
+.mapbox canvas{position:absolute;left:0;top:0;display:block;image-rendering:pixelated}
+.mapnode{position:absolute;width:34px;height:34px;margin:-17px 0 0 -17px;background:transparent;border:0;border-radius:6px;padding:0}
+.mapnode:hover{outline:2px solid var(--gold)}
+.hero{margin-bottom:14px;overflow:hidden}
+.hbanner{position:relative;height:clamp(130px,22vw,190px);border-bottom:3px solid var(--wl);border-radius:5px 5px 0 0;overflow:hidden}
+.hbanner .scene{position:absolute;inset:0}
+.hcast{position:absolute;left:0;right:0;bottom:4px;display:flex;justify-content:space-between;align-items:flex-end;padding:0 12%}
+.hero .tx{padding:12px 14px 14px}
+.hero .who{color:var(--gold)}
+.hero .intro{margin:6px 0 0;display:-webkit-box;-webkit-line-clamp:3;line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.k{font-size:12px;line-height:18px;color:var(--acc)}
+.hero h2{font-size:clamp(14px,3vw,20px);line-height:1.4;color:var(--ink);margin:6px 0 4px;text-shadow:2px 2px 0 var(--sh)}
+.hero .meta{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 12px}
+.tagx{border:2px solid var(--wm);border-radius:4px;padding:0 8px;color:var(--ink);background:var(--field)}
+.tagx.boss{border-color:var(--red);color:var(--red-tx)}
+.note{margin:0 0 14px;padding:10px 14px;color:var(--muted)}
+.lvhd{display:flex;align-items:center;gap:10px;margin:22px 0 10px;font-size:12px;line-height:18px;color:var(--gold);text-shadow:2px 2px 0 var(--sh)}
+.lvhd::before,.lvhd::after{content:"";flex:1;height:4px;background:repeating-linear-gradient(90deg,var(--wm) 0 6px,transparent 6px 10px)}
+.unit{padding:12px;margin-bottom:12px}
+.unit h3{font-size:var(--fs);line-height:var(--lh);margin-top:2px}
+.unit .s{color:var(--muted)}
+.trail{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:10px;align-items:center}
+.enc{position:relative;min-width:44px;height:44px;border:3px solid var(--wl);border-radius:8px;background:var(--field);color:var(--ink);font-size:12px;
+  display:grid;place-items:center;padding:0 6px;box-shadow:0 0 0 2px var(--wd)}
+.enc:not(:last-child)::after{content:"";position:absolute;right:-14px;top:calc(50% - 2px);width:10px;height:4px;background:repeating-linear-gradient(90deg,var(--wm) 0 4px,transparent 4px 6px);pointer-events:none}
+.enc:hover:not(:disabled){border-color:var(--gold)}
+.enc.won{background:linear-gradient(#ffe878,#c88a10);color:#2a1800;text-shadow:none}
+.enc.known{border-style:dashed;color:var(--acc)}
+.enc.next{border-color:var(--gold);animation:glow 1s steps(2) infinite}
+.enc.next::before{visibility:visible;left:4px;top:-26px;transform:rotate(90deg);animation:bob .5s steps(1) infinite}
+.enc.locked{opacity:.45}
+.enc.boss{padding:0 10px;background:linear-gradient(#b02838,#580818);color:#ffffff;border-color:#ffc4bc;text-shadow:1px 1px 0 #000}
+.lvsum{display:flex;justify-content:space-between;gap:10px;width:100%;text-align:left;padding:12px 12px 12px 40px;margin-bottom:10px;font-size:12px;line-height:18px;
+  background:linear-gradient(var(--w1),var(--w2));color:var(--ink);border:3px solid var(--wm);border-radius:8px;box-shadow:0 0 0 2px var(--wd)}
+.lvsum:hover,.lvsum:focus-visible{border-color:var(--wl);color:var(--gold)}
+.applink{display:flex;gap:12px;align-items:center;padding:12px 14px;margin-top:22px}
+.applink .tx{flex:1}
+.applink b{font-weight:400;color:var(--gold)}
+.applink .ico{font-size:32px}
+.keys{display:none;margin-top:10px;color:var(--muted)}
+@media (hover:hover) and (min-width:760px){.keys{display:block}}
+.empty{text-align:center;padding:60px 16px;color:var(--muted)}
+/* fight: HUD / stage (scene + both fighters + speech window) / board (the current card) / console (the command window) */
+.fight{height:100vh;height:100dvh;display:flex;flex-direction:column;position:relative;overflow:hidden;background:var(--bg)}
+.fight.hit{animation:shake .4s steps(8) both}
+.flash{position:absolute;inset:0;background:#ff2020;opacity:0;pointer-events:none;z-index:40}
+.flash.on{opacity:.35}
+.flash.heal{background:#40ff60}
+.hud{display:grid;grid-template-columns:1fr 1.2fr 1fr;gap:4px 16px;align-items:center;margin:6px 6px 0;padding:6px 12px;z-index:5}
+.lab{display:flex;justify-content:space-between;align-items:center;gap:6px;font-size:12px;line-height:18px;color:var(--muted);min-width:0}
+.lab>span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.lab b{font-weight:400;color:var(--ink);white-space:nowrap}
+.hp,.mp,.ruler{height:12px;background:var(--track);border:2px solid var(--wl);border-radius:3px;margin-top:3px;overflow:hidden}
+.mp{height:8px;margin-top:3px}
+.hp i,.mp i,.ruler i{display:block;height:100%;width:100%;transition:width .35s steps(5)}
+.hp i{background:linear-gradient(#b4ffb8 0 35%,#38c048 35%)}
+.hp.mid i{background:linear-gradient(#fff4a8 0 35%,#e0b818 35%)}
+.hp.low i{background:linear-gradient(#ffc0b0 0 35%,#e02828 35%)}
+.hud .low b{color:var(--red-tx)}
+.mp i{background:linear-gradient(#c8e8ff 0 35%,#3890f0 35%)}
+.ruler i{background:linear-gradient(#ffb8a8 0 35%,#c82838 35%)}
+.opp{display:flex;gap:10px;align-items:center;justify-content:flex-end;text-align:right;min-width:0}
+.opp .nm{font:16px/24px var(--pix);color:var(--gold);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-shadow:2px 2px 0 var(--sh)}
+.opp .role{color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.flee{width:32px;height:28px;font-size:16px;margin-left:6px}
+@media (max-width:600px){.hud{grid-template-columns:1fr 1fr;gap:2px 10px;padding:6px 10px}.hud .mid{grid-column:1/-1;order:3}.opp .spr{display:none}.opp .nm{font-size:12px;line-height:18px}.opp .role{font-size:16px;line-height:20px}}
+.arena{flex:1;min-height:0;display:flex;flex-direction:column}
+.stage{position:relative;flex:none;min-height:clamp(128px,28vh,264px);display:flex;align-items:flex-end;margin:6px 6px 0;border:3px solid var(--wl);border-radius:8px;
+  box-shadow:0 0 0 2px var(--wd);overflow:hidden}
+.stage>.scene{position:absolute;inset:0}
+.fight[data-phase="duel"] .stage{min-height:clamp(120px,24vh,250px)}
+/* the level guard looms one scale step larger on a taller stage */
+.fight.boss .stage{min-height:clamp(150px,30vh,290px)}
+.foe .spr.big{width:calc(var(--w) * (var(--px) + 1) * 1px);height:calc(var(--h) * (var(--px) + 1) * 1px)}
+.cast{position:relative;display:flex;align-items:flex-end;gap:12px;width:100%;max-width:1000px;margin:0 auto;padding:8px 10px 6px}
+.npc{flex:none;display:flex;flex-direction:column;align-items:center;gap:4px;max-width:140px}
+.npc.mine{align-self:flex-end;padding-bottom:32px}
+.plate{max-width:140px;color:var(--gold);padding:2px 8px;font-size:12px;line-height:18px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.actor{position:relative}
+.actor .spr{transform-origin:50% 100%}
+.actor.hurt .spr{animation:hurt .5s steps(1) both}
+.foe.lunge .spr{animation:lungeR .4s steps(4) both}
+.me.lunge .spr{animation:lungeL .4s steps(4) both}
+.actor.glow .spr{animation:glowup .6s steps(3) both}
+.slash{position:absolute;inset:-10% -20%;pointer-events:none;background:linear-gradient(135deg,transparent 46%,#ffffff 47% 53%,transparent 54%);animation:slash .3s steps(3) both}
+.pop{position:absolute;left:50%;top:0;z-index:6;font:16px/1 var(--pix);color:#ffffff;white-space:nowrap;pointer-events:none;
+  text-shadow:2px 2px 0 #000,-2px -2px 0 #000,2px -2px 0 #000,-2px 2px 0 #000;animation:pop 1s steps(10) both}
+.pop.dmg{color:#ff9a8a}.pop.heal{color:#90ff98}.pop.crit{color:#ffe060;font-size:12px}
+.bubble{position:relative;flex:1;min-width:0;max-width:560px;max-height:34vh;overflow-y:auto;align-self:flex-end;margin:0 0 24px;padding:8px 14px}
+.bubble::before{content:"";position:absolute;left:-15px;bottom:12px;border:7px solid transparent;border-right:8px solid var(--wl)}
+.bubble.ok{border-color:var(--good)}.bubble.no{border-color:var(--red)}
+.bubble:empty{display:none}
+.tw{visibility:hidden}
+@media (max-width:420px){.plate{max-width:84px}.npc{max-width:84px}.bubble{margin-bottom:18px;padding:6px 10px}.cast{gap:8px;padding:6px}}
+/* the board: one window at a time (story, a word to learn, the question), notes below it */
+.board{flex:1;min-height:64px;overflow-y:auto;background:var(--bg)}
+.board>.in{max-width:860px;margin:0 auto;padding:10px 8px;display:grid;grid-template-columns:minmax(0,1fr);gap:10px;align-content:start}
+.say{padding:12px 16px;animation:rise .25s steps(4) both}
+.say.m{justify-self:end;max-width:90%;padding:6px 14px;color:var(--gold)}
+.say.m::before{content:attr(data-who) ": ";color:var(--muted)}
+.say .k{margin-bottom:6px}
+.say .big{font:var(--big)/1.25 var(--uni);color:var(--ink);overflow-wrap:anywhere;text-shadow:2px 2px 0 var(--sh)}
+.say .tr{margin-top:6px}
+.story p{margin:0}
+.typed.more::after{content:" ▼";color:var(--gold);animation:blink .8s steps(1) infinite}
+/* the new word is the hero of its window */
+.teach{text-align:center;padding:14px 16px 16px;border-color:var(--gold)}
+.teach .word{font:var(--word)/1.15 var(--uni);color:var(--ink);overflow-wrap:anywhere;text-shadow:2px 2px 0 var(--sh);animation:shine .6s steps(3) both}
+.teach .trow{display:flex;gap:6px 12px;justify-content:center;align-items:center;flex-wrap:wrap;margin-top:4px}
+.teach .rom{color:var(--acc)}
+.teach .trow .phon{margin:0}
+.teach .mean{font:24px/32px var(--uni);color:var(--gold);margin-top:8px}
+.teach .pos{display:inline-block;border:2px solid var(--wm);border-radius:4px;padding:0 8px;color:var(--muted);background:var(--field)}
+.teach .ex{border-top:3px dotted var(--wm);margin-top:12px;padding-top:10px;text-align:left}
+.teach .ex .latin{display:block}
+.phon{display:flex;gap:8px;align-items:center;justify-content:center;flex-wrap:wrap;margin-top:8px;color:var(--acc)}
+.ask .phon{justify-content:flex-start}
+.phon b{font-weight:400;color:var(--acc)}
+.phon button{border:2px solid var(--wm);border-radius:6px;background:var(--field);color:var(--ink);padding:2px 10px;min-height:36px}
+.say .blank{font:var(--big)/1.3 var(--uni);color:var(--ink)}
+.slot{display:inline-block;min-width:70px;border-bottom:4px solid var(--gold);text-align:center;padding:0 6px;color:var(--gold)}
+/* grammar: one short line, "more" opens the explanation (never shouted in capitals) */
+.tip summary{display:flex;align-items:baseline;gap:8px;padding:10px 12px;cursor:pointer;list-style:none;min-height:44px}
+.tip summary::-webkit-details-marker{display:none}
+.tip .lbl{flex:none;color:var(--acc)}
+.tip .gt{flex:1;min-width:0}
+.tip:not([open]) .gt{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tip .more{flex:none;color:var(--gold);text-decoration:underline}
+.tip .more::after{content:attr(data-more)}.tip[open] .more::after{content:attr(data-less)}
+.tip .body{padding:0 12px 12px}
+.tip .body p{margin:0 0 8px;white-space:pre-line}
+.gex{border-top:2px dotted var(--wm);padding:6px 0}
+.gex b{font-weight:400;margin-right:8px;color:var(--gold)}
+.sys{justify-self:center;max-width:100%;padding:6px 14px;text-align:center;animation:rise .25s steps(4) both}
+.sys b{font-weight:400;color:var(--red-tx);margin-right:6px}
+.sys.heal{color:var(--good-ink);border-color:var(--good)}
+.recap{justify-self:stretch;text-align:left}
+.recap ul{margin:6px 0 0;padding-left:20px}.recap li{margin:2px 0}.recap .w{color:var(--gold)}
+/* the command window */
+.console{position:relative;z-index:5;margin:6px;padding:10px 12px calc(10px + env(safe-area-inset-bottom));max-height:50vh;overflow-y:auto}
+/* after an answer: only the right option and the one picked stay, so the question above stays in view */
+.console[data-round="next"] .opts .opt:not(.good):not(.badsel),.console[data-round="next"] .bank{display:none}
+.console .in{max-width:900px;margin:0 auto}
+.console[data-round="story"] .in,.console[data-round="teach"] .in{display:flex;align-items:center;justify-content:space-between;gap:10px 14px;flex-wrap:wrap}
+.console[data-round="story"] .chead,.console[data-round="teach"] .chead{margin:0;flex:1 1 200px}
+.chead{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12px;line-height:18px;color:var(--muted);margin-bottom:8px}
+.chead>span:first-child{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.chead .tag{flex:none;color:var(--red-tx);border:2px solid var(--red);border-radius:4px;padding:0 6px}
+.timer{height:8px;background:var(--track);border:2px solid var(--wl);border-radius:3px;margin:-2px 0 10px;overflow:hidden}
+.timer i{display:block;height:100%;background:var(--gold);width:100%}
+.timer.low i{background:var(--red)}
+.opts{display:grid;grid-template-columns:1fr 1fr;gap:4px 14px}
+@media (max-width:560px){.opts{grid-template-columns:1fr}}
+.opt{position:relative;text-align:left;background:transparent;border:2px solid transparent;border-radius:6px;padding:8px 32px 8px 40px;min-height:52px;
+  font:var(--fo)/1.25 var(--uni);color:var(--ink);text-shadow:1px 1px 0 var(--sh)}
+.opt::before{left:8px;top:calc(50% - 10px)}
+.opt.cur:not(:disabled){background:var(--sel)}
+.opt .num{position:absolute;top:6px;right:8px;font:12px var(--pix);color:var(--dim)}
+.opt small{display:block;color:var(--acc);font-size:16px;line-height:20px}
+.opt.good{background:var(--good-soft);border-color:var(--good);color:var(--good-ink)}
+.opt.badsel{background:var(--red-soft);border-color:var(--red);color:var(--red-tx)}
+.opt.good .num,.opt.badsel .num{display:none}
+.opt.good::after,.opt.badsel::after{position:absolute;right:10px;top:calc(50% - 12px);font:24px/24px var(--uni)}
+.opt.good::after{content:"✓"}.opt.badsel::after{content:"✗"}
+.opt:disabled:not(.good):not(.badsel){color:var(--muted)}
+.match{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.match .col{display:grid;gap:8px;align-content:start}
+.match .opt{text-align:center;padding:8px;font-size:var(--fs);line-height:var(--lh);word-break:break-word;border-color:var(--wm);background:var(--field)}
+.match .opt::before{display:none}
+.match .opt.cur:not(:disabled){border-color:var(--wl)}
+.match .opt.sel{border-color:var(--gold);background:var(--sel)}
+.match .opt.gone{color:var(--muted);border-style:dashed;border-color:var(--good)}
+.match .opt.miss{border-color:var(--red);animation:shake .35s steps(6)}
+.answer{min-height:56px;border-bottom:3px dotted var(--wm);display:flex;flex-wrap:wrap;gap:8px;padding:6px 0;margin-bottom:12px}
+.bank{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-bottom:12px}
+.chip{padding:6px 12px;border:2px solid var(--wl);border-radius:6px;background:var(--field);color:var(--ink);font:var(--fo)/1.25 var(--uni);min-height:44px}
+.chip:hover:not(:disabled),.chip:focus-visible{border-color:var(--gold)}
+.chip small{display:block;font-size:16px;line-height:20px;color:var(--acc)}
+.chip.used{visibility:hidden}
+textarea{width:100%;min-height:84px;border:2px solid var(--wl);border-radius:6px;background:var(--field);color:var(--ink);padding:10px;font:var(--fo)/1.3 var(--uni);resize:vertical;margin-bottom:10px}
+textarea:focus{border-color:var(--gold);outline:none}
+.verdict{display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:3px dotted var(--wm)}
+.verdict .v{flex:1;min-width:200px;font-family:var(--pix);font-size:16px;line-height:24px}
+.verdict.ok .v{color:var(--good-ink)}.verdict.no .v{color:var(--red-tx)}
+.verdict .v div{color:var(--ink);font:var(--fs)/var(--lh) var(--uni);margin-top:4px}
+.row{display:flex;gap:10px;justify-content:flex-end;flex-wrap:wrap}
+@media (max-width:560px){.row .btn,.verdict .btn{width:100%}}
+/* battle start: blocks in a spiral, then a mosaic dissolve (canvas drawn by the page) */
+.swirl{position:fixed;inset:0;width:100%;height:100%;z-index:90;pointer-events:none;image-rendering:pixelated}
+/* victory fanfare / game over */
+.over{position:fixed;inset:0;z-index:70;background:#000000d0;display:flex;align-items:center;justify-content:center;padding:12px;overflow-y:auto;animation:fadeIn .3s steps(3)}
+.over.defeat{background:#2a0008e0}
+.over .box{width:100%;max-width:760px;max-height:100%;overflow-y:auto;text-align:center;padding:18px 14px}
+.kick{font-size:12px;line-height:18px;color:var(--acc)}
+.over h1{font-size:clamp(18px,5vw,32px);line-height:1.35;color:var(--gold);margin:6px 0 4px;text-shadow:3px 3px 0 var(--sh)}
+.over.defeat h1{color:var(--red-tx)}
+/* game over: a dark red window in both themes */
+.over.defeat .box{--w1:#6a1a2c;--w2:#24060e;--wl:#ffd8d0;--wm:#b05868;--wd:#120004;--ink:#ffffff;--muted:#ffd8e0;--gold:#ffe060;--acc:#ffd0a0;--red-tx:#ffc4bc;--field:#1a0408;--sh:#000000;--bg2:#3a0a18}
+.over .duo{display:flex;justify-content:center;align-items:flex-end;gap:48px;margin:10px 0 4px;min-height:60px}
+.actor.cheer .spr{animation:cheer .6s steps(2) infinite}
+.actor.ko .spr{transform:rotate(-90deg) translateX(30%);filter:grayscale(.7)}
+.actor.beaten .spr{filter:grayscale(.6) brightness(.8);transform:translateY(4px)}
+.over p{margin:10px auto;max-width:640px;color:var(--muted)}
+.over p.line{color:var(--ink)}
+.tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:14px auto;max-width:520px}
+.tile{border:2px solid var(--wm);border-radius:6px;background:var(--field);padding:8px 4px}
+.tile .tk{font-size:12px;line-height:18px;color:var(--muted)}
+.tile .tv{font:32px/40px var(--uni);color:var(--gold)}
+.learned{text-align:left;margin:0 auto 14px;max-width:560px;padding:10px 14px}
+.learned ul{list-style:none;margin:6px 0 0;padding:0;display:grid;gap:2px}
+.learned li::before{content:"✦ ";color:var(--gold)}
+.learned .w{color:var(--gold)}
+.over .row{justify-content:center}
+/* retreat dialog */
+.modal{position:fixed;inset:0;z-index:80;background:#000a;display:flex;align-items:center;justify-content:center;padding:16px}
+.sheet{max-width:440px;width:100%;padding:22px;text-align:center;display:grid;gap:10px}
+.sheet h3{font:16px/24px var(--pix);color:var(--gold)}
+@keyframes shake{0%,100%{transform:none}12%{transform:translate(-6px,2px)}25%{transform:translate(6px,-2px)}37%{transform:translate(-4px,0)}50%{transform:translate(4px,2px)}
+  62%{transform:translate(-2px,-2px)}75%{transform:translate(2px,0)}87%{transform:translate(-1px,1px)}}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes fadeIn{from{opacity:0}}
+@keyframes glow{50%{box-shadow:0 0 0 2px var(--wd),0 0 0 5px var(--gold)}}
+@keyframes bob{50%{transform:rotate(90deg) translateX(3px)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes hurt{0%,40%,80%{filter:brightness(3) saturate(0);transform:translateX(5px)}20%,60%{filter:none;transform:translateX(-5px)}100%{filter:none;transform:none}}
+@keyframes lungeR{50%{transform:translateX(18px)}}
+@keyframes lungeL{50%{transform:translateX(-18px)}}
+@keyframes glowup{50%{filter:brightness(1.6) hue-rotate(60deg)}}
+@keyframes slash{from{opacity:1;transform:scale(.4)}to{opacity:0;transform:scale(1.2)}}
+@keyframes pop{0%{transform:translate(-50%,10px);opacity:0}12%{transform:translate(-50%,-16px);opacity:1}26%{transform:translate(-50%,-2px)}38%{transform:translate(-50%,-8px)}
+  50%{transform:translate(-50%,-2px)}85%{opacity:1}100%{transform:translate(-50%,-10px);opacity:0}}
+@keyframes shine{0%{filter:brightness(2.5)}60%{filter:brightness(1.4)}100%{filter:none}}
+@keyframes cheer{50%{transform:translateY(-10px)}}
+@media (prefers-reduced-motion: reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;
+  transition-duration:.01ms!important;animation-delay:0s!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<div id="app"><div class="empty">⚔ Language Quest · Language Quest …</div></div>   <!-- painted while the course database loads -->
+<script src="assets/fonts.js"></script>         <!-- the two pixel fonts (FontFace from base64, no network) -->
+<script src="../db/content.js"></script>
+<script src="../db/story.js"></script>          <!-- window.YARYA_STORY (optional: without it the quest uses its own lines) -->
+<script src="../shared/progress.js"></script>
+<script src="../shared/exercises.js"></script>
+<script src="campaign.js"></script>
+<script src="pixel.js"></script>                <!-- Yarya.pixel: sprites, scenes, maps drawn in code -->
+<script src="chip.js"></script>                 <!-- Yarya.chip: chiptune sound effects and music -->
+<script>
+// Language Quest: a survival campaign on the shared lesson database, dressed as a 16-bit JRPG. Content: window.YARYA_DB
+// (db/content.js); learner model: Yarya.progress (every answer is recorded there, so the lessons app sees it); exercises:
+// Yarya.ex; which encounter teaches/tests what: Yarya.quest (quest/campaign.js); pixel art: Yarya.pixel (pixel.js);
+// sound: Yarya.chip (chip.js). Quest-only state: Yarya.store 'quest_<native>'.
+const C = window.YARYA_DB, P = Yarya.progress, X = Yarya.ex, Q = Yarya.quest, store = Yarya.store, GAME = 'quest';
+const PX = Yarya.pixel, CHIP = Yarya.chip;
+const T = {
+  en: { title: 'Language Quest', onb: [
+      ['The journey', 'You land in Mongolia knowing not a single word. Every encounter teaches you a few, then tests you in a duel.'],
+      ['The guard', "BATZORIG, the Khan's Guard, waits at the end of every level. He respects only the tongue of his people."],
+      ['The test', 'Answer right to keep your integrity. Wrong answers cost you, bosses hit harder, a streak heals you.'],
+      ['Honor', 'Words you learn here count in the Language Quest lessons too, and words you know from the lessons are skipped here.']],
+    next: 'Next', begin: 'Begin the journey', skip: 'Skip', integrity: 'Integrity', honor: 'Honor', best: 'Best', round: 'Round',
+    enc: 'Encounter', unit: 'Unit', level: 'Level', boss: 'Level guard', fight: 'Fight', replay: 'Fight again', newWords: 'new words',
+    toReview: 'to review', skipped: 'encounters skipped: you know those words from the lessons', won: 'Won', known: 'Known from the lessons',
+    locked: 'Locked', campDone: 'Campaign complete!', campDoneSub: 'Every written lesson is behind you. Fight again to keep your words sharp.',
+    lessons: 'Language Quest lessons', lessonsSub: 'Calm lessons with the same words and the same progress.', open: 'Open', journey: 'Your journey',
+    learn: 'Learn this', gotIt: 'Got it', remember: 'Remember', whisper: 'The spirits whisper:', duel: 'Prove it: {n} rounds. Do not fall.',
+    pick: 'What does it mean?', pickRev: 'How do you say it?', match: 'Match the pairs', build: 'Say it in Mongolian',
+    type: 'What did I say? Write it in English', blank: 'Finish my sentence', strike: 'Answer', typeHere: 'Type your answer',
+    cont: 'Continue', wordWas: 'The answer was:', almost: 'Almost! Watch the spelling:', timeout: 'Too slow!', healed: 'Streak! Integrity +{n}',
+    review: 'Review', again: 'Again', you: 'Your voice', speaks: '{who} speaks', say: 'Say:', listen: 'Listen', right: 'Right!',
+    victory: 'Opponent crushed', victorySub: '{who} steps aside. The road goes on.', defeat: 'Integrity broken',
+    defeatSub: 'You fall back, but the words you learned stay with you.', retry: 'Try again', nextEnc: 'Next encounter', toCamp: 'Back to camp',
+    xp: 'XP', acc: 'Accuracy', learned: 'Learned', retreatQ: 'Retreat?', retreatSub: 'This fight is lost, the words you learned stay.',
+    stay: 'Keep fighting', retreat: 'Retreat', sound: 'Sound', theme: 'Theme', themes: ['Auto', 'Light', 'Dark'], timer: 'Time pressure',
+    switchLang: 'Switch language', streak: 'day streak', part: 'part', seconds: 's',
+    keys: 'Keys: arrows + Enter or 1-4 answer · Enter continue · Backspace undo · Esc retreat', more: 'more', less: 'less',
+    teachLine: 'Listen well, traveller. You will need these words.', bossLine: 'Show me what you learned. All of it.',
+    learnWords: 'Learn the words', ready: 'I am ready', units: 'Units', yourAnswer: 'You',
+    music: 'Music', gameOver: 'GAME OVER', learnedNew: 'Learned new words!', map: 'World map',
+    regions: ['Tuul River Valley', 'Khangai Mountains', 'Gobi Desert', 'Khövsgöl Taiga', 'Altai Peaks', 'The Eternal Blue Sky'] },
+  mn: { title: 'Language Quest', onb: [
+      ['Аян зам', 'Та Лондонд ганц ч англи үг мэдэхгүй буулаа. Тулаан бүр хэдэн шинэ үг зааж, дараа нь тулаанаар шалгана.'],
+      ['Харуул', 'Түвшин бүрийн төгсгөлд Хааны харуул Сэр Эдмунд хүлээж байна. Тэр зөвхөн өөрийн хэлийг хүндэтгэнэ.'],
+      ['Сорилт', 'Зөв хариулж тэсвэрээ хадгал. Буруу хариулт хохиролтой, харуулын цохилт илүү хүчтэй, дараалсан зөв хариулт эдгээнэ.'],
+      ['Нэр төр', 'Энд сурсан үгс Language Quest хичээлд ч тооцогдоно, хичээлээс мэдэх үгсийг энд алгасна.']],
+    next: 'Дараах', begin: 'Аянд гарах', skip: 'Алгасах', integrity: 'Тэсвэр', honor: 'Нэр төр', best: 'Шилдэг', round: 'Тойрог',
+    enc: 'Тулаан', unit: 'Бүлэг', level: 'Түвшин', boss: 'Түвшний харуул', fight: 'Тулалдах', replay: 'Дахин тулалдах', newWords: 'шинэ үг',
+    toReview: 'давтах', skipped: 'тулааныг алгаслаа: эдгээр үгсийг хичээлээс мэднэ', won: 'Ялсан', known: 'Хичээлээс мэднэ',
+    locked: 'Түгжээтэй', campDone: 'Аян дууслаа!', campDoneSub: 'Бичигдсэн бүх хичээлийг давлаа. Үгсээ мартахгүйн тулд дахин тулалдаарай.',
+    lessons: 'Language Quest хичээл', lessonsSub: 'Ижил үгс, ижил явцтай тайван хичээлүүд.', open: 'Нээх', journey: 'Таны аян',
+    learn: 'Үүнийг сур', gotIt: 'Ойлголоо', remember: 'Санаарай', whisper: 'Сүнснүүд шивнэнэ:', duel: 'Батал: {n} тойрог. Бүү унаарай.',
+    pick: 'Энэ юу гэсэн үг вэ?', pickRev: 'Үүнийг яаж хэлэх вэ?', match: 'Хосыг тааруул', build: 'Англиар хэл',
+    type: 'Би юу гэв? Монголоор бич', blank: 'Өгүүлбэрийг минь гүйцээ', strike: 'Хариулах', typeHere: 'Хариултаа бичнэ үү',
+    cont: 'Үргэлжлүүлэх', wordWas: 'Зөв хариулт:', almost: 'Бараг! Бичлэгээ анхаар:', timeout: 'Хэтэрхий удаан!', healed: 'Дараалал! Тэсвэр +{n}',
+    review: 'Давтлага', again: 'Дахин', you: 'Таны дуу', speaks: '{who} ярьж байна', say: 'Дуудлага:', listen: 'Сонсох', right: 'Зөв!',
+    victory: 'Өрсөлдөгч ялагдлаа', victorySub: '{who} замаа тавьж өглөө. Аян үргэлжилнэ.', defeat: 'Тэсвэр барагдлаа',
+    defeatSub: 'Та ухарлаа, гэхдээ сурсан үгс тань хадгалагдана.', retry: 'Дахин оролдох', nextEnc: 'Дараагийн тулаан', toCamp: 'Хуаран руу буцах',
+    xp: 'XP', acc: 'Нарийвчлал', learned: 'Сурсан', retreatQ: 'Ухрах уу?', retreatSub: 'Энэ тулаан тооцогдохгүй, сурсан үгс хадгалагдана.',
+    stay: 'Тулалдсаар', retreat: 'Ухрах', sound: 'Дуу', theme: 'Өнгө', themes: ['Автомат', 'Цайвар', 'Бараан'], timer: 'Цагийн хязгаар',
+    switchLang: 'Хэл солих', streak: 'өдөр дараалан', part: 'хэсэг', seconds: 'с',
+    keys: 'Товч: сум + Enter эсвэл 1-4 хариулах · Enter үргэлжлүүлэх · Backspace буцаах · Esc ухрах', more: 'дэлгэрэнгүй', less: 'хураах',
+    teachLine: 'Сайн сонс, аялагч аа. Эдгээр үг чамд хэрэг болно.', bossLine: 'Сурсан бүхнээ харуул. Бүгдийг нь.',
+    learnWords: 'Үгсийг сурах', ready: 'Би бэлэн', units: 'Бүлэг', yourAnswer: 'Та',
+    music: 'Хөгжим', gameOver: 'ТОГЛООМ ДУУСЛАА', learnedNew: 'Шинэ үг сурлаа!', map: 'Газрын зураг',
+    regions: ['Баруун Лондон', 'Темза мөрөн', 'Хойд Лондон', 'Лондон Сити', 'Вестминстер', 'Шотландын өндөрлөг'] }
+};
+let native = P.native();
+const target = () => native === 'en' ? 'mn' : 'en';
+const t = k => T[native][k];
+const tf = (k, o) => t(k).replace(/\{(\w+)\}/g, (_, x) => o[x]);
+const app = document.getElementById('app');
+const AUTO = 1300;     // ms before a right answer moves on by itself
+const reduceMotion = () => { try { return !!(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches); } catch (e) { return false; } };
+const later = (f, ms) => setTimeout(f, ms);
+
+function h(tag, attrs, ...kids) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) {
+    if (k === 'class') e.className = v; else if (k.startsWith('on')) e.addEventListener(k.slice(2), v);
+    else if (v != null && v !== false) e.setAttribute(k, v);
+  }
+  for (const c of kids.flat()) if (c != null && c !== false) e.append(c.nodeType ? c : document.createTextNode(c));
+  return e;
+}
+const { shuffle, pickOne, romanize } = X;
+const item = id => C.items[id];
+
+// ---------- quest-only state (per direction): won encounters, best streak, onboarding seen ----------
+const qkey = () => 'quest_' + native;
+const qload = () => Object.assign({ won: {}, best: 0, onb: false }, store.get(qkey(), null) || {});
+const qsave = s => store.set(qkey(), s);
+
+// ---------- theme, sound (the same preference keys as the lessons app), music (quest only, off by default) ----------
+let theme = store.get('theme', 0);  // 0 auto, 1 light, 2 dark
+function applyTheme() { if (theme) document.documentElement.setAttribute('data-theme', theme === 1 ? 'light' : 'dark'); else document.documentElement.removeAttribute('data-theme'); }
+applyTheme();
+let muted = store.get('muted', false), timerOn = store.get('quest_timer', true), musicOn = store.get('quest_music', false);
+CHIP.setMuted(muted); CHIP.setMusic(musicOn);
+const Sound = { play(name) { CHIP.sfx(name === 'tap' ? 'blip' : name); } };
+// pronunciation via the browser's own speech engine, when it has one (no network)
+const canSpeak = () => { try { return 'speechSynthesis' in window && typeof SpeechSynthesisUtterance === 'function'; } catch (e) { return false; } };
+function speak(text, lang) {
+  if (!canSpeak()) return;
+  try { speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang = lang === 'mn' ? 'mn-MN' : 'en-GB'; u.rate = .85; speechSynthesis.speak(u); } catch (e) {}
+}
+
+// ---------- pixel art on the page: one integer scale (--px) for every sprite and scene ----------
+const pxScale = () => (window.innerWidth >= 900 && window.innerHeight >= 640) ? 3 : 2;
+const night = () => theme === 2 || (theme === 0 && !(window.matchMedia && matchMedia('(prefers-color-scheme: light)').matches));
+const region = () => native === 'mn' ? 'uk' : 'mn';     // en learns Mongolian in Mongolia, mn learns English in London
+function setScale() { document.documentElement.style.setProperty('--px', String(pxScale())); }
+setScale();
+document.documentElement.style.setProperty('--hand', PX.shadowArt('hand', 2));
+PX.setMotion(() => !reduceMotion());
+window.addEventListener('resize', () => { setScale(); PX.refresh(); });
+// a sprite canvas (idles through its 2-4 frames unless motion is reduced)
+function spr(name, cls, o) {
+  const s = PX.sprite(name), cv = h('canvas', { class: 'spr' + (cls ? ' ' + cls : ''), 'aria-hidden': 'true' });
+  if (!s) return cv;
+  cv.width = s.w; cv.height = s.h; cv.style.setProperty('--w', s.w); cv.style.setProperty('--h', s.h);
+  const x = cv.getContext('2d'), seed = PX.hash(name) % 24;
+  PX.animate(cv, ms => { x.clearRect(0, 0, s.w, s.h); x.drawImage(s.frames[(o && o.still ? 0 : PX.idle(Math.floor(ms / 83), seed)) % s.frames.length], 0, 0); });
+  return cv;
+}
+// a scene backdrop: the canvas takes the box size divided by the scale, so pixels stay square and whole
+function art(kind) {
+  const cv = h('canvas', {}), box = h('div', { class: 'scene art-' + kind, 'aria-hidden': 'true' }, cv);
+  let W = 0, H = 0, x = null;
+  PX.animate(cv, ms => {
+    const s = pxScale(), w = Math.max(40, Math.ceil(box.clientWidth / s)), hh = Math.max(30, Math.ceil(box.clientHeight / s));
+    if (w !== W || hh !== H) { W = w; H = hh; cv.width = W; cv.height = H; cv.style.width = W * s + 'px'; cv.style.height = H * s + 'px'; }
+    x = x || cv.getContext('2d');
+    PX.scene(x, W, H, kind, { region: region(), night: night(), t: ms });
+  });
+  return box;
+}
+// typewriter: the whole text is in the DOM at once (screen readers, tests), the part not typed yet is invisible;
+// a blocking one (the story) is finished by the first Enter
+let typing = null;
+const typers = new Set();      // running typewriters: a new screen stops them all (their timers hold the old screen)
+const stopTypers = () => typers.forEach(T => T.stop());
+function typeText(el, text, blocking, delay) {
+  if (el._tw) el._tw.stop();
+  text = text || '';
+  const shown = document.createTextNode(''), rest = h('span', { class: 'tw' }, text);
+  el.replaceChildren(shown, rest); el.classList.remove('typed');
+  const T = { finish() { T.stop(); shown.data = text; rest.remove(); el.classList.add('typed'); },
+    stop() { clearInterval(id); typers.delete(T); el.removeAttribute('data-typing'); el.removeAttribute('aria-busy'); if (typing === T) typing = null; el._tw = null; } };
+  let i = 0, id = 0;
+  const t0 = Date.now() + (delay || 0);
+  if (reduceMotion() || !text) { T.finish(); return null; }
+  el.setAttribute(blocking ? 'data-typing' : 'data-typing-soft', ''); el.setAttribute('aria-busy', 'true');
+  id = setInterval(() => {
+    if (!el.isConnected) return T.stop();
+    if (Date.now() < t0) return;
+    i = Math.min(text.length, i + 2); shown.data = text.slice(0, i); rest.textContent = text.slice(i);
+    if (i % 8 === 0) Sound.play('text');
+    if (i >= text.length) { T.finish(); el.removeAttribute('data-typing-soft'); }
+  }, 26);
+  el._tw = T; typers.add(T);
+  if (blocking) typing = T;
+  return T;
+}
+// battle start: the screen breaks into a spiral of blocks, then they dissolve into the fight (skipped without motion)
+function spiral(c, r) {
+  const out = []; let x0 = 0, y0 = 0, x1 = c - 1, y1 = r - 1;
+  while (x0 <= x1 && y0 <= y1) {
+    for (let x = x0; x <= x1; x++) out.push(y0 * c + x);
+    for (let y = y0 + 1; y <= y1; y++) out.push(y * c + x1);
+    if (y0 < y1) for (let x = x1 - 1; x >= x0; x--) out.push(y1 * c + x);
+    if (x0 < x1) for (let y = y1 - 1; y > y0; y--) out.push(y * c + x0);
+    x0++; y0++; x1--; y1--;
+  }
+  return out;
+}
+const SWIRL = 720;     // ms
+function swirl() {
+  if (reduceMotion() || !PX.ok2d() || typeof requestAnimationFrame !== 'function') return 0;
+  document.querySelectorAll('.swirl').forEach(e => e.remove());
+  Sound.play('swirl');
+  const cols = 16, rows = Math.max(8, Math.ceil(16 * innerHeight / Math.max(1, innerWidth))), cv = h('canvas', { class: 'swirl', 'aria-hidden': 'true', width: cols, height: rows });
+  document.body.append(cv);
+  const x = cv.getContext('2d'), order = spiral(cols, rows), N = order.length, r = PX.rng(11), rank = order.map(() => r()), t0 = performance.now();
+  (function step(ts) {
+    const k = (ts - t0) / SWIRL, fill = Math.min(1, Math.max(0, (k - .08) / .42)), gone = Math.max(0, (k - .58) / .4);
+    x.clearRect(0, 0, cols, rows);
+    if (k < .1) { x.fillStyle = (Math.floor(k * 60) & 1) ? '#ffffff' : '#000000'; x.globalAlpha = .6; x.fillRect(0, 0, cols, rows); x.globalAlpha = 1; }
+    x.fillStyle = '#05051a';
+    for (let i = 0; i < Math.floor(N * fill); i++) { const id = order[i]; if (rank[id] < gone) continue; x.fillRect(id % cols, Math.floor(id / cols), 1, 1); }
+    if (k < 1 && cv.isConnected) requestAnimationFrame(step); else cv.remove();
+  })(t0);
+  return SWIRL;
+}
+// damage / heal numbers over a fighter, and short reactions (hurt flash, lunge)
+function pop(actor, text, cls) { if (!actor) return; const p = h('span', { class: 'pop ' + (cls || ''), 'aria-hidden': 'true' }, text); actor.append(p); later(() => p.remove(), 1050); }
+function react(actor, cls, ms) { if (!actor || reduceMotion()) return; actor.classList.remove(cls); void actor.offsetWidth; actor.classList.add(cls); later(() => actor.classList.remove(cls), ms || 500); }
+function slash(actor) { if (!actor || reduceMotion()) return; const s = h('span', { class: 'slash', 'aria-hidden': 'true' }); actor.append(s); later(() => s.remove(), 320); }
+// the menu cursor: the pointing hand sits on one command; mouse, focus and arrows move it
+function cursor(scope) {
+  const items = [...scope.querySelectorAll('.opt')];
+  const set = b => items.forEach(x => x.classList.toggle('cur', x === b));
+  items.forEach(b => {
+    b.addEventListener('mouseenter', () => { if (!b.disabled && !b.classList.contains('cur')) { Sound.play('tap'); set(b); } });
+    b.addEventListener('focus', () => set(b));
+  });
+  if (items[0]) set(items[0]);
+}
+// arrow keys move between the visible buttons of a menu (nearest one in that direction)
+function arrowNav(ev, scope) {
+  const d = { ArrowUp: [0, -1], ArrowDown: [0, 1], ArrowLeft: [-1, 0], ArrowRight: [1, 0] }[ev.key];
+  if (!d || !scope) return false;
+  const list = [...scope.querySelectorAll('button:not(:disabled),a.btn,a.applink')].filter(b => b.offsetParent !== null && !b.classList.contains('used') && !b.classList.contains('mapnode'));
+  if (!list.length) return false;
+  const a = scope.querySelector('.opt.cur:not(:disabled)') && !list.includes(document.activeElement) ? scope.querySelector('.opt.cur') : document.activeElement, i = list.indexOf(a);
+  let best = null;
+  if (i < 0) best = list[0];
+  else {
+    const r = a.getBoundingClientRect(), cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+    let bd = Infinity;
+    for (const b of list) {
+      if (b === a) continue;
+      const q = b.getBoundingClientRect(), dx = q.left + q.width / 2 - cx, dy = q.top + q.height / 2 - cy, along = dx * d[0] + dy * d[1];
+      if (along <= 4) continue;
+      const dist = along + Math.abs(d[0] ? dy : dx) * 2;
+      if (dist < bd) { bd = dist; best = b; }
+    }
+  }
+  if (!best) return true;
+  best.focus(); Sound.play('tap');
+  if (best.scrollIntoView) try { best.scrollIntoView({ block: 'nearest' }); } catch (e) {}
+  return true;
+}
+
+// ---------- shared top bar (camp) ----------
+let onKey = null, modal = null;
+document.addEventListener('keydown', e => { if (onKey) onKey(e); });
+function topBar() {
+  const toggle = (icon, label, on, flip) => {
+    const b = h('button', { class: 'ibtn', title: label, 'aria-label': label, 'aria-pressed': String(on()), onclick: () => { flip(); b.setAttribute('aria-pressed', String(on())); b.textContent = icon(); Sound.play('tap'); } }, icon());
+    return b;
+  };
+  const mute = toggle(() => muted ? '✕' : '♪', t('sound'), () => !muted, () => { muted = !muted; store.set('muted', muted); CHIP.setMuted(muted); });
+  const music = toggle(() => '♫', t('music'), () => musicOn, () => { musicOn = !musicOn; store.set('quest_music', musicOn); CHIP.setMusic(musicOn); });
+  const timer = toggle(() => '⌛', t('timer'), () => timerOn, () => { timerOn = !timerOn; store.set('quest_timer', timerOn); });
+  const th = h('button', { class: 'ibtn', title: t('theme') + ': ' + t('themes')[theme], 'aria-label': t('theme'),
+    onclick: () => { theme = (theme + 1) % 3; store.set('theme', theme); applyTheme(); PX.refresh(); th.title = t('theme') + ': ' + t('themes')[theme]; Sound.play('tap'); } }, '◐');
+  return h('div', { class: 'top' }, h('div', { class: 'in win' },
+    h('div', { class: 'logo' }, '⚔ ', h('span', { class: 'nm' }, t('title'))),
+    h('span', { class: 'pill streak', title: P.streak() + ' ' + t('streak') }, '☼ ' + P.streak()),
+    h('span', { class: 'pill xp', title: 'XP' }, '★ ' + P.xp()),
+    mute, music, timer, th,
+    h('a', { class: 'ibtn applink-top', href: '../index.html', title: t('lessons'), 'aria-label': t('lessons') }, '▤'),
+    h('button', { class: 'ibtn', title: t('switchLang'), 'aria-label': t('switchLang'), onclick: () => { native = null; P.setNative(null); start(); } }, '⇄')));
+}
+
+// ---------- start: language (the title screen), onboarding, camp ----------
+function start() {
+  document.querySelectorAll('.modal,.over,.onb,.swirl').forEach(e => e.remove()); modal = null;
+  if (!C) { app.replaceChildren(h('div', { class: 'empty' }, 'db/content.js not found. Run build_db.py first.')); return; }
+  if (!native) return chooseLanguage();
+  document.documentElement.lang = native;
+  document.title = t('title');
+  if (!qload().onb) return onboarding();
+  camp();
+}
+function chooseLanguage() {
+  CHIP.music(null);
+  const banner = art('ger');
+  banner.append(h('div', { class: 'duo' }, spr(PX.HERO), spr('batzorig'), spr('edmund')));
+  const pick = (n, flag, b, sub) => h('button', { class: 'win', onclick: () => pickNative(n) }, h('span', { class: 'flag' }, flag), h('span', {}, h('b', {}, b), sub));
+  const menu = h('div', { class: 'choose' },
+    pick('en', 'EN → MN', 'I speak English', 'Survive in Mongolia, learn Mongolian'),
+    pick('mn', 'MN → EN', 'Би монголоор ярьдаг', 'Гадаадад амьд үлдэж, англи хэл сур'));
+  app.replaceChildren(h('div', { class: 'splash' }, banner, h('div', { class: 'wrap' },
+    h('div', { class: 'logo-win win' }, h('h1', {}, 'Language Quest'), h('div', { class: 'muted' }, 'Language Quest · English ⇄ Монгол')), menu)));
+  onKey = e => { if (arrowNav(e, menu)) e.preventDefault(); };
+}
+function pickNative(n) { native = n; P.setNative(n); Sound.play('select'); start(); }
+function onboarding() {
+  const slides = t('onb'), arts = ['plane', 'gate', 'flags', 'hills'];
+  let k = 0;
+  const done = () => { const s = qload(); s.onb = true; qsave(s); ov.remove(); camp(); };
+  const ov = h('div', { class: 'onb', role: 'dialog', 'aria-modal': 'true' });
+  function show() {
+    const last = k === slides.length - 1, go = h('button', { class: 'btn', onclick: () => { Sound.play('select'); if (last) done(); else { k++; show(); } } }, last ? t('begin') : t('next'));
+    const p = h('p', {});
+    ov.replaceChildren(art(arts[k]), h('div', { class: 'card win', 'data-slide': String(k) },
+      h('div', { class: 'dots', 'aria-hidden': 'true' }, slides.map((_, i) => h('i', { class: i <= k ? 'on' : '' }))),
+      h('h2', {}, slides[k][0]), p, h('div', { class: 'row' }, h('button', { class: 'skip', onclick: done }, t('skip')), go)));
+    typeText(p, slides[k][1], false);
+    go.focus();
+  }
+  stopTypers(); app.replaceChildren(); document.body.append(ov); show();
+  onKey = e => { if (e.key === 'Enter') { e.preventDefault(); const b = ov.querySelector('.btn'); if (b) b.click(); } else if (e.key === 'Escape') done(); };
+}
+
+const encLabel = e => e.kind === 'boss' ? t('boss') : `${t('enc')} ${e.index + 1}`;
+const lessonTitle = e => e.lesson ? (X.lesson(e.lesson) || {})['title_' + native] || '' : '';
+let walkedTo = {};     // the map node the hero stood on last time (per direction): the next visit walks from there
+// the world map of a chapter: one node per unit (its scene's icon), the level guard at the end, the hero on the road
+function worldMap(c, all, S, nx) {
+  const es = all.slice(c.from, c.to + 1), uis = [...new Set(es.filter(e => e.kind === 'duel').map(e => e.ui))], lv = Q.lvIx(c.level);
+  const stOf = list => { const st = list.map(e => S.status(e)); return nx && list.includes(nx) ? 'next' : st.every(x => x === 'won' || x === 'known') ? 'done' : st.some(x => x === 'open') ? 'open' : 'locked'; };
+  const nodes = uis.map(ui => { const ue = es.filter(e => e.ui === ui && e.kind === 'duel'); return { ui, art: Q.story(ue[0], native).art, state: stOf(ue), label: `${t('unit')} ${ui + 1} · ${Q.story(ue[0], native).place}` }; });
+  const bossE = es.find(e => e.kind === 'boss');
+  if (bossE) nodes.push({ ui: bossE.ui, boss: bossE, art: 'gate', state: stOf([bossE]), label: `${t('boss')} · ${Q.story(bossE, native).who}` });
+  let here = nodes.findIndex(n => n.state === 'next');
+  if (here < 0) here = nodes.length - 1;
+  const key = native + c.from, from = walkedTo[key] != null && walkedTo[key] <= here ? walkedTo[key] : here;
+  walkedTo[key] = here;
+  const cv = h('canvas', {}), box = h('div', { class: 'mapbox', role: 'group', 'aria-label': t('map') }, cv);
+  const btns = nodes.map(n => h('button', { class: 'mapnode', 'aria-label': n.label, title: n.label, onclick: () => {
+    Sound.play('tap');
+    if (n.boss && S.open(n.boss)) return fight(n.boss);
+    const u = document.querySelector(`.unit[data-ui="${n.ui}"]`);
+    if (u) { u.scrollIntoView({ behavior: reduceMotion() ? 'auto' : 'smooth', block: 'center' }); const b = u.querySelector('.enc:not(:disabled)'); if (b) b.focus({ preventScroll: true }); }
+  } }));
+  box.append(...btns);
+  let W = 0, H = 0, x = null;
+  const seed = 101 + lv * 17 + (region() === 'uk' ? 5 : 0);
+  PX.animate(cv, ms => {
+    const s = pxScale(), w = Math.max(60, Math.ceil(box.clientWidth / s)), hh = Math.max(50, Math.ceil(box.clientHeight / s));
+    if (w !== W || hh !== H) { W = w; H = hh; cv.width = W; cv.height = H; cv.style.width = W * s + 'px'; cv.style.height = H * s + 'px'; }
+    const pts = PX.route(W, H, nodes.length, seed);
+    pts.forEach((p, i) => { Object.assign(nodes[i], p); btns[i].style.left = p.x * s + 'px'; btns[i].style.top = p.y * s + 'px'; });
+    // the walk: along the road from the old node to the current one, 0.5 s per stop
+    const k = from === here || reduceMotion() ? 1 : Math.min(1, ms / (500 * (here - from))), f = from + (here - from) * k, i = Math.min(nodes.length - 1, Math.floor(f)), j = Math.min(nodes.length - 1, i + 1), u = f - i;
+    const hero = { x: pts[i].x + (pts[j].x - pts[i].x) * u, y: pts[i].y + (pts[j].y - pts[i].y) * u, moving: k < 1 };
+    x = x || cv.getContext('2d');
+    PX.map(x, W, H, { region: region(), level: lv, nodes, hereIx: here, hero, t: ms });
+  });
+  const won = es.filter(e => { const st = S.status(e); return st === 'won' || st === 'known'; }).length;
+  return h('section', { class: 'mapwin win' }, h('div', { class: 'mhead' }, h('span', {}, `${t('level')} ${c.level} · ${t('regions')[lv] || ''}`), h('span', {}, `★ ${won}/${es.length}`)), box);
+}
+// 1,000+ encounters: the camp draws the chapter (a run of units on one level) with the next encounter in full,
+// every other chapter as one line that opens on click
+function camp() {
+  document.querySelectorAll('.over,.modal').forEach(e => e.remove()); modal = null; stopTypers();
+  CHIP.music('map');
+  const all = Q.campaign(), S = Q.state(qload().won), nx = S.next, wrap = h('div', { class: 'wrap' });
+  const chs = Q.chapters(), cur = nx ? chs.find(c => nx.index >= c.from && nx.index <= c.to) : chs[chs.length - 1];
+  if (cur) wrap.append(worldMap(cur, all, S, nx));
+  if (nx) {
+    const sc = Q.story(nx, native), fresh = nx.words.filter(id => !P.mastery(id).known).length, due = P.due(40).length;
+    const banner = h('div', { class: 'hbanner' }, art(sc.art), h('div', { class: 'hcast' }, spr(PX.foe(sc.role, sc.who, region(), nx.kind === 'boss')), spr(PX.HERO)));
+    wrap.append(h('div', { class: 'hero win', 'data-enc': nx.id }, banner,
+      h('div', { class: 'tx' },
+        h('div', { class: 'k' }, `${encLabel(nx)} / ${all.length} · ${nx.level} · ${t('unit')} ${nx.ui + 1}`),
+        h('h2', {}, sc.place), h('div', { class: 'who' }, `${sc.who} · ${sc.role}`),
+        h('div', { class: 'muted' }, lessonTitle(nx) + (nx.parts > 1 ? ` · ${t('part')} ${nx.part + 1}/${nx.parts}` : '')),
+        h('p', { class: 'intro' }, sc.intro),
+        h('div', { class: 'meta' }, nx.kind === 'boss' ? h('span', { class: 'tagx boss' }, '☠ ' + t('boss')) : null,
+          fresh ? h('span', { class: 'tagx' }, `${fresh} ${t('newWords')}`) : null, due ? h('span', { class: 'tagx' }, `${due} ${t('toReview')}`) : null),
+        h('button', { class: 'btn fight-go', onclick: () => fight(nx) }, '⚔ ' + t('fight')),
+        h('div', { class: 'keys' }, '⌨ ' + t('keys')))));
+  } else {
+    wrap.append(h('div', { class: 'hero win done' }, h('div', { class: 'hbanner' }, art('gate')), h('div', { class: 'tx' }, h('h2', {}, t('campDone')), h('div', { class: 'muted' }, t('campDoneSub')))));
+  }
+  if (S.skipped) wrap.append(h('div', { class: 'note skipped win' }, `» ${S.skipped} ${t('skipped')}`));
+  wrap.append(h('div', { class: 'lvhd' }, t('journey')));
+  const unitsOf = c => { const us = [...new Set(all.slice(c.from, c.to + 1).map(e => e.ui + 1))]; return us.length > 1 ? `${us[0]}–${us[us.length - 1]}` : String(us[0]); };
+  const name = c => `${t('level')} ${c.level} · ${t('units')} ${unitsOf(c)}`;
+  function chapter(c) {
+    const box = h('div', { class: 'chapter', 'data-ch': String(c.from) }, h('div', { class: 'lvhd' }, name(c))), es = all.slice(c.from, c.to + 1);
+    for (const ui of [...new Set(es.map(e => e.ui))]) {
+      const u = C.units[ui] || {}, ues = es.filter(e => e.ui === ui);
+      box.append(h('div', { class: 'unit win', 'data-ui': String(ui) }, h('div', { class: 'k' }, `${t('unit')} ${ui + 1} · ${Q.story(ues[0], native).place}`),
+        h('h3', {}, u['title_' + native] || ''), h('div', { class: 's' }, u['title_' + target()] || ''),
+        h('div', { class: 'trail' }, ues.map(e => {
+          const st = S.status(e), isNext = nx === e, label = `${encLabel(e)}${e.lesson ? ' · ' + lessonTitle(e) : ''} · ${st === 'locked' ? t('locked') : st === 'won' ? t('won') : st === 'known' ? t('known') : t('fight')}`;
+          return h('button', { class: `enc ${st}${isNext ? ' next' : ''}${e.kind === 'boss' ? ' boss' : ''}`, 'data-id': e.id, title: label, 'aria-label': label,
+            disabled: st === 'locked' ? 'disabled' : null, onclick: () => fight(e) },
+            e.kind === 'boss' ? '☠ ' + e.level : st === 'won' ? '★' : st === 'known' ? '»' : st === 'locked' ? '·' : String(e.index + 1));
+        }))));
+    }
+    return box;
+  }
+  for (const c of chs) {
+    if (c === cur) { wrap.append(chapter(c)); continue; }
+    const es = all.slice(c.from, c.to + 1), won = es.filter(e => { const st = S.status(e); return st === 'won' || st === 'known'; }).length;
+    const line = h('button', { class: 'lvsum', 'data-ch': String(c.from), 'aria-expanded': 'false',
+      onclick: () => { line.replaceWith(chapter(c)); Sound.play('tap'); } }, h('span', {}, name(c)), h('span', {}, `${won}/${es.length}`));
+    wrap.append(line);
+  }
+  wrap.append(h('a', { class: 'applink win', href: '../index.html' }, h('span', { class: 'ico', 'aria-hidden': 'true' }, '▤'),
+    h('span', { class: 'tx' }, h('b', {}, t('lessons')), h('div', { class: 'muted' }, t('lessonsSub'))), h('span', { class: 'btn ghost' }, t('open'))));
+  app.replaceChildren(topBar(), wrap);
+  try { window.scrollTo(0, 0); } catch (e) {}
+  onKey = e => {
+    const free = document.activeElement === document.body || !document.activeElement;
+    if (e.key === 'Enter' && nx && free) { e.preventDefault(); fight(nx); }
+    else if (/^Arrow/.test(e.key)) { if (free) { const b = wrap.querySelector('.fight-go'); if (b) { e.preventDefault(); b.focus(); } } else if (arrowNav(e, wrap)) e.preventDefault(); }
+  };
+}
+// ---------- rounds: each returns { head, prompt (nodes for the opponent's bubble), el (console), key(n), enter(), back(),
+//            answer (for a timeout), stop() }; done(result) ends the round: { ok, almost, answer, given, explain } ----------
+const phon = (latin, text, lang) => latin ? h('div', { class: 'phon' }, h('span', {}, t('say')), h('b', {}, '[' + latin + ']'),
+  canSpeak() ? h('button', { type: 'button', onclick: () => speak(text, lang) }, '♪ ' + t('listen')) : null) : null;
+const withLatin = (s, lat) => s + (lat ? ` (${lat})` : '');
+// the lesson's grammar: a one-line title, "more" opens the explanation and examples
+function grammarTip(g) {
+  const tg = target(), ex = (Array.isArray(g.examples) ? g.examples : []).filter(x => x && x[tg]), body = g['explain_' + native] || '';
+  const title = g['title_' + native] || (body.length > 70 ? body.slice(0, 68) + '…' : body);
+  return h('details', { class: 'tip win' }, h('summary', {}, h('span', { class: 'lbl' }, '✧ ' + t('whisper')), h('span', { class: 'gt' }, title),
+      h('span', { class: 'more', 'data-more': t('more'), 'data-less': t('less'), 'aria-hidden': 'true' })),
+    h('div', { class: 'body' }, body ? h('p', {}, body) : null,
+      ex.slice(0, 4).map(x => h('div', { class: 'gex' }, h('b', {}, x[tg]), tg === 'mn' && x.mn_latin ? h('span', { class: 'latin' }, x.mn_latin) : null,
+        x[native] ? h('div', { class: 'muted' }, x[native]) : null))));
+}
+const stopAll = el => () => el.querySelectorAll('button,textarea').forEach(b => { b.disabled = true; });
+const RND = {
+  mc(st, ctx) {
+    const q = X.mc(st.id, { native, rev: st.rev, lesson: st.lid, n: st.n || 4 }), o = q.options;
+    let off = false;
+    const btns = o.map((x, n) => h('button', { class: 'opt', onclick: () => pick(n) }, h('span', { class: 'num' }, String(n + 1)), h('span', { class: 'tx' }, x.text), x.latin ? h('small', {}, x.latin) : null));
+    const el = h('div', { class: 'opts' }, btns);
+    function pick(n) {
+      if (off) return; off = true;
+      const ok = q.check(n).ok;
+      btns.forEach((b, k) => { b.disabled = true; if (o[k].text === q.answer) b.classList.add('good'); else if (k === n) b.classList.add('badsel'); });
+      ctx.done({ ok, answer: withLatin(q.answer, q.answerLatin), given: o[n].text });
+    }
+    return { head: t(st.rev ? 'pickRev' : 'pick'), el, answer: withLatin(q.answer, q.answerLatin), stop: () => { off = true; stopAll(el)(); },
+      prompt: [h('div', { class: 'big' }, q.prompt), phon(q.promptLatin, q.prompt, q.from)], key: n => btns[n - 1] && pick(n - 1) };
+  },
+  blank(st, ctx) {
+    const q = X.fillBlank(st.id, { native }), o = q.options, slot = h('span', { class: 'slot' }, ' ');
+    let off = false;
+    const btns = o.map((x, n) => h('button', { class: 'opt', onclick: () => pick(n) }, h('span', { class: 'num' }, String(n + 1)), h('span', { class: 'tx' }, x)));
+    const el = h('div', { class: 'opts' }, btns);
+    function pick(n) {
+      if (off) return; off = true; slot.textContent = o[n];
+      const r = q.check(o[n]);
+      btns.forEach((b, k) => { b.disabled = true; if (o[k] === q.answer) b.classList.add('good'); else if (k === n) b.classList.add('badsel'); });
+      ctx.done({ ok: r.ok, answer: q.answer, given: o[n], explain: r.explain });
+    }
+    return { head: t('blank'), el, answer: q.answer, stop: () => { off = true; stopAll(el)(); },
+      prompt: [h('div', { class: 'blank' }, q.before, slot, q.after), h('div', { class: 'tr' }, q.translation)], key: n => btns[n - 1] && pick(n - 1) };
+  },
+  build(st, ctx) {
+    const q = X.wordBank(st.id, { native, lesson: st.lid }), tg = target(), ans = h('div', { class: 'answer', 'aria-live': 'polite' }), picked = [];
+    let off = false;
+    const lat = w => tg === 'mn' ? h('small', {}, romanize(w)) : null;
+    const bank = q.bank.map(w => { const b = { w, chip: null, put: null }; b.chip = h('button', { class: 'chip', 'data-w': w, onclick: () => take(b) }, w, lat(w)); return b; });
+    function take(b) { if (off || b.put) return; b.chip.classList.add('used'); b.put = h('button', { class: 'chip', 'data-w': b.w, onclick: () => giveBack(b) }, b.w, lat(b.w)); ans.append(b.put); picked.push(b); Sound.play('tap'); go.disabled = false; }
+    function giveBack(b) { if (off || !b.put) return; b.put.remove(); b.put = null; picked.splice(picked.indexOf(b), 1); b.chip.classList.remove('used'); Sound.play('tap'); go.disabled = !picked.length; }
+    const submit = () => { if (off || !picked.length) return; off = true; stopAll(el)(); const words = picked.map(b => b.w);
+      ctx.done({ ok: q.check(words).ok, answer: withLatin(q.answer, q.answerLatin), given: words.join(' ') }); };
+    const go = h('button', { class: 'btn strike', disabled: 'disabled', onclick: submit }, t('strike'));
+    const el = h('div', {}, ans, h('div', { class: 'bank' }, bank.map(b => b.chip)), h('div', { class: 'row' }, go));
+    return { head: t('build'), el, answer: withLatin(q.answer, q.answerLatin), stop: () => { off = true; stopAll(el)(); },
+      prompt: [h('div', { class: 'big' }, q.prompt)], enter: submit, back: () => picked.length && giveBack(picked[picked.length - 1]) };
+  },
+  type(st, ctx) {
+    const q = X.typeAnswer(st.id, { native });
+    let off = false;
+    const ta = h('textarea', { placeholder: t('typeHere'), 'aria-label': t('typeHere'), autocapitalize: 'off', spellcheck: 'false', oninput: () => { go.disabled = !ta.value.trim(); } });
+    const submit = () => { if (off || !ta.value.trim()) return; off = true; stopAll(el)(); const r = q.check(ta.value);
+      ctx.done({ ok: r.ok, almost: r.almost, answer: r.answer, given: ta.value.trim() }); };
+    const go = h('button', { class: 'btn strike', disabled: 'disabled', onclick: submit }, t('strike'));
+    const el = h('div', {}, ta, h('div', { class: 'row' }, go));
+    return { head: t('type'), el, answer: q.answer, focus: ta, stop: () => { off = true; stopAll(el)(); },
+      prompt: [h('div', { class: 'big' }, q.prompt), phon(q.promptLatin, q.prompt, target())], enter: submit };
+  },
+  match(st, ctx) {
+    // a wrong pair hurts at once (half damage); the round is "right" when no pair was missed
+    const q = X.match(st.items, { native }), missed = new Set(), matched = new Set();
+    let sel = { l: null, r: null }, off = false;
+    const mk = (side, x) => { const b = h('button', { class: 'opt', 'data-id': x.id, onclick: () => pick(side, x, b) }, h('span', { class: 'tx' }, x.text), side === 'l' && x.latin ? h('small', {}, x.latin) : null); return b; };
+    const Lc = q.left.map(x => mk('l', x)), Rc = q.right.map(x => mk('r', x));
+    function pick(side, x, b) {
+      if (off) return;
+      (side === 'l' ? Lc : Rc).forEach(c => c.classList.remove('sel'));
+      b.classList.add('sel'); sel[side] = { x, b };
+      const { l, r } = sel; if (!l || !r) return Sound.play('tap');
+      sel = { l: null, r: null };
+      if (q.isPair(l.x.id, r.x.id)) {
+        matched.add(l.x.id); Sound.play('tap');
+        [l.b, r.b].forEach(c => { c.classList.remove('sel'); c.classList.add('gone'); c.disabled = true; });
+        if (matched.size === q.left.length) {
+          off = true;
+          q.ids.forEach(id => P.record(id, !missed.has(id), { game: GAME, t: 'match', lesson: st.lid, mistake: false }));
+          ctx.done({ ok: !missed.size, given: '✓ ' + q.left.length + '/' + q.left.length, answer: '', recorded: true, noDamage: true });
+        }
+      } else {
+        missed.add(l.x.id);
+        [l.b, r.b].forEach(c => { c.classList.remove('sel'); c.classList.add('miss'); later(() => c.classList.remove('miss'), 400); });
+        ctx.miss();
+      }
+    }
+    const el = h('div', { class: 'match' }, h('div', { class: 'col' }, Lc), h('div', { class: 'col' }, Rc));
+    return { head: t('match'), el, answer: '', prompt: [h('div', { class: 'big' }, t('match'))],
+      stop: () => { off = true; stopAll(el)(); }, unmatched: () => q.ids.filter(id => !matched.has(id)) };
+  }
+};
+
+// ---------- the duel ----------
+function fight(e, retry) {
+  document.querySelectorAll('.over,.modal').forEach(x => x.remove()); modal = null; stopTypers();
+  const intro = swirl();     // ms until the fight shows
+  const plan = Q.plan(e, { native, retry }), R = Q.rules(e), sc = Q.story(e, native), boss = e.kind === 'boss', qs = qload();
+  const quotes = Q.QUOTES[native], queue = plan.rounds.slice(), foeName = PX.foe(sc.role, sc.who, region(), boss);
+  let hp = 100, run = 0, right = 0, graded = 0, i = 0, cur = null, st = null, waiting = false, over = false, pending = null, tick = null;
+  CHIP.music(boss ? 'boss' : 'battle');
+  // ----- layout: HUD (integrity + honor, rounds + the opponent's resolve, opponent), stage (scene, both fighters, the
+  //       speech window), board (current card), console (the command window) -----
+  const hpBar = h('i'), hpBox = h('div', { class: 'hp', role: 'progressbar', 'aria-label': t('integrity'), 'aria-valuemin': '0', 'aria-valuemax': '100' }, hpBar);
+  const mpBar = h('i'), hpN = h('b', {}, '100'), honorN = h('span', {}), roundN = h('span', {}), rulerI = h('i');
+  const flee = h('button', { class: 'ibtn flee', title: t('retreat'), 'aria-label': t('retreat'), onclick: () => askRetreat() }, '✕');
+  const hud = h('header', { class: 'hud win' },
+    h('div', { class: 'pbox' }, h('div', { class: 'lab' }, h('span', {}, '♥ ' + t('integrity')), hpN), hpBox, h('div', { class: 'mp', 'aria-hidden': 'true' }, mpBar)),
+    h('div', { class: 'mid' }, h('div', { class: 'lab' }, honorN, h('span', { style: 'display:flex;align-items:center' }, roundN, flee)), h('div', { class: 'ruler', 'aria-hidden': 'true' }, rulerI)),
+    h('div', { class: 'opp' }, h('div', { style: 'min-width:0' }, h('div', { class: 'nm' }, sc.who), h('div', { class: 'role', title: sc.role }, sc.role)), spr(foeName, 'mini', { still: true })));
+  const bubble = h('div', { class: 'bubble win', 'aria-live': 'polite' }), flash = h('div', { class: 'flash', 'aria-hidden': 'true' });
+  const foeA = h('div', { class: 'actor foe' }, spr(foeName, boss ? 'big' : '')), meA = h('div', { class: 'actor me' }, spr(PX.HERO));
+  const stage = h('section', { class: 'stage', 'aria-label': sc.place }, art(sc.art),
+    h('div', { class: 'cast' }, h('div', { class: 'npc' }, foeA, h('div', { class: 'plate win' }, sc.who)), bubble, h('div', { class: 'npc mine' }, meA)));
+  const board = h('div', { class: 'board' }), bin = h('div', { class: 'in' });
+  board.append(bin);
+  const cons = h('div', { class: 'console win' }), cin = h('div', { class: 'in' });
+  cons.append(cin);
+  const root = h('div', { class: 'fight' + (boss ? ' boss' : ''), 'data-enc': e.id }, hud, h('main', { class: 'arena' }, stage, board), cons, flash);
+  app.replaceChildren(root);
+  function hudUpdate() {
+    hpBar.style.width = hp + '%'; hpN.textContent = hp + '/100'; hpBox.setAttribute('aria-valuenow', String(hp));
+    hpBox.classList.toggle('low', hp < 30); hpBox.classList.toggle('mid', hp >= 30 && hp < 60); hpN.parentNode.classList.toggle('low', hp < 30);
+    mpBar.style.width = (run ? 100 * (((run - 1) % R.healEvery) + 1) / R.healEvery : 0) + '%';
+    honorN.textContent = `${t('honor')}: ${run}` + (qs.best ? ` · ${t('best')}: ${qs.best}` : '');
+    roundN.textContent = `${t('round')} ${Math.min(i + (waiting ? 1 : 0), queue.length)}/${queue.length}`;
+    // the opponent's resolve drains as the rounds go by
+    rulerI.style.width = (queue.length ? 100 - 100 * Math.min(i + (waiting ? 1 : 0), queue.length) / queue.length : 100) + '%';
+  }
+  // the opponent speaks in the speech window (typed out); the board shows one card (+ notes); `kind` colours it after an answer
+  function talk(text, kind) {
+    bubble.className = 'bubble win' + (kind ? ' ' + kind : '');
+    typeText(bubble, text, false);
+  }
+  function show(...kids) { bin.replaceChildren(...kids.flat().filter(Boolean)); board.scrollTop = 0; }
+  function sys(text, cls) {
+    const el = h('div', { class: 'sys win' + (cls ? ' ' + cls : '') }, cls === 'heal' ? null : h('b', {}, '⚠'), text);
+    bin.append(el);
+    return el;
+  }
+  function hit(n) {
+    Sound.play('hit');
+    if (!reduceMotion()) { root.classList.remove('hit'); void root.offsetWidth; root.classList.add('hit'); later(() => root.classList.remove('hit'), 420); }
+    flash.className = 'flash on'; later(() => { flash.className = 'flash'; }, 110);
+    react(foeA, 'lunge', 400); react(meA, 'hurt', 520); pop(meA, '-' + n, 'dmg');
+  }
+  function strike() {
+    Sound.play('slash'); react(meA, 'lunge', 400);
+    later(() => { react(foeA, 'hurt', 520); slash(foeA); pop(foeA, run > 1 ? `${t('right')} ×${run}` : t('right'), 'crit'); }, reduceMotion() ? 0 : 150);
+  }
+  function setConsole(kind, head, ...kids) {
+    cons.setAttribute('data-round', kind);
+    cin.replaceChildren(...[head ? h('div', { class: 'chead' }, h('span', {}, head), st && st.retry ? h('span', { class: 'tag' }, '↻ ' + t('again')) : st && st.review ? h('span', { class: 'tag' }, t('review')) : null) : null, ...kids].filter(Boolean));
+  }
+  const stopTimer = () => { if (tick) { clearInterval(tick); tick = null; } };
+  const cleanup = () => { stopTimer(); if (pending) { clearTimeout(pending); pending = null; } over = true; if (typing) typing.finish(); };
+
+  // ----- story + teaching: part 1 opens with the lesson's story (and its grammar), later parts with a short line;
+  //       a retry recaps the words already shown. Then the opponent introduces the new words, one card each -----
+  const L = e.lesson && X.lesson(e.lesson), g = L && e.part === 0 && !retry && L.grammar && item(L.grammar);
+  const tip = g && (g['title_' + native] || g['explain_' + native]) ? grammarTip(g) : null;
+  if (tip) P.markSeen(g.id, { game: GAME });
+  const teach = plan.teach.slice(), tg = target();
+  const recap = plan.recap.length ? h('div', { class: 'sys recap win' }, h('b', {}, t('remember')),
+    h('ul', {}, plan.recap.map(id => h('li', {}, h('span', { class: 'w' }, item(id)[tg]), item(id)[tg + '_latin'] ? ` [${item(id)[tg + '_latin']}]` : '', ' = ', item(id)[native])))) : null;
+  function opening() {
+    talk(boss ? t('bossLine') : e.part > 0 ? sc.intro : sc.teach || t('teachLine'));
+    const para = h('p', { class: 'more' }), story = !retry && (e.part === 0 || boss) ? h('div', { class: 'say o story win' },
+      h('div', { class: 'k' }, `❖ ${sc.place}${e.parts > 1 ? ` · ${t('part')} ${e.part + 1}/${e.parts}` : ''}`), para) : null;
+    if (!story && !recap) return teachNext();
+    show(story, tip, recap);
+    if (story) { typeText(para, sc.intro, true, intro * .6); story.addEventListener('click', () => { if (typing) typing.finish(); }); }
+    const go = h('button', { class: 'btn got', onclick: teachNext }, teach.length ? t('learnWords') : '⚔ ' + t('ready'));
+    setConsole('story', `${sc.who} · ${sc.role}`, h('div', { class: 'row' }, go));
+    go.focus();
+  }
+  function teachNext() {
+    st = null;
+    if (typing) typing.finish();
+    if (!teach.length) return duelStart();
+    const id = teach.shift(), v = item(id), lat = tg === 'mn' ? v.mn_latin || romanize(v.mn) : null, ex = v['example_' + tg];
+    P.markSeen(id, { game: GAME }); Sound.play('learn');
+    if (tip) tip.open = false;     // the word first; the grammar stays one line below it
+    show(h('div', { class: 'say o teach win' }, h('div', { class: 'k' }, `✨ ${t('learn')} · ${plan.teach.length - teach.length}/${plan.teach.length}`),
+      h('div', { class: 'word', lang: tg }, v[tg]),
+      h('div', { class: 'trow' }, lat ? h('span', { class: 'rom' }, '[' + lat + ']') : null, v.pos ? h('span', { class: 'pos' }, v.pos) : null,
+        canSpeak() ? h('span', { class: 'phon' }, h('button', { type: 'button', onclick: () => speak(v[tg], tg) }, '♪ ' + t('listen'))) : null),
+      h('div', { class: 'mean' }, '= ' + v[native]),
+      ex ? h('div', { class: 'ex' }, h('div', { lang: tg }, ex), tg === 'mn' ? h('span', { class: 'latin' }, romanize(ex)) : null,
+        v['example_' + native] ? h('div', { class: 'muted' }, v['example_' + native]) : null) : null), tip);
+    const go = h('button', { class: 'btn got', onclick: teachNext }, t('gotIt'));
+    setConsole('teach', `${t('learn')} · ${plan.teach.length - teach.length}/${plan.teach.length}`, h('div', { class: 'row' }, go));
+    go.focus();
+  }
+  function duelStart() {
+    if (boss) Sound.play('drum');
+    root.setAttribute('data-phase', 'duel');
+    talk(tf('duel', { n: queue.length }));
+    round();
+  }
+  // ----- one round: the opponent asks, the player answers in the console -----
+  function round() {
+    if (over) return;
+    if (i >= queue.length) return victory();
+    st = queue[i]; waiting = false;
+    cur = RND[st.t](st, { done: r => answer(r), miss });
+    if (i > 0) talk(cur.head);
+    show(h('div', { class: 'say o ask win', 'data-t': st.t }, h('div', { class: 'k' }, cur.head), cur.prompt.filter(Boolean)));
+    setConsole(st.t, `${t('round')} ${i + 1}/${queue.length}`, cur.el);
+    cursor(cin);
+    hudUpdate();
+    const limit = timerOn ? Q.timeFor(R, st.t) : 0;
+    if (limit) {
+      const bar = h('i'), box = h('div', { class: 'timer', role: 'timer', 'aria-label': `${limit}${t('seconds')}` }, bar), t0 = Date.now();
+      cin.insertBefore(box, cin.children[1] || null);
+      let lastS = limit;
+      tick = setInterval(() => {
+        const left = limit - (Date.now() - t0) / 1000;
+        bar.style.width = Math.max(0, 100 * left / limit) + '%'; box.classList.toggle('low', left < limit * .25);
+        if (left <= 3 && Math.ceil(left) < lastS) { lastS = Math.ceil(left); Sound.play('tick'); }
+        if (left <= 0) { stopTimer(); cur.stop(); answer({ ok: false, timeout: true, answer: cur.answer, given: '⌛' }); }
+      }, 100);
+    }
+    if (cur.focus && !('ontouchstart' in window)) cur.focus.focus();
+  }
+  function damage(n) {
+    hp = Math.max(0, hp - n); run = 0; hit(n); hudUpdate();
+    if (hp <= 0) { later(defeat, reduceMotion() ? 0 : 450); over = true; stopTimer(); if (cur) cur.stop(); cons.setAttribute('data-round', 'end'); }
+  }
+  function miss() { if (!over) damage(Math.ceil(R.damage / 2)); }
+  function answer(r) {
+    if (waiting || over) return;
+    waiting = true; stopTimer(); graded++;
+    // every answer goes to the shared learner model (the lessons app sees it); a right re-ask keeps the mistake for practice
+    if (st.t === 'match') { if (r.timeout) cur.unmatched().forEach(id => P.record(id, false, { game: GAME, t: 'match', lesson: st.lid, mistake: false })); }
+    else P.record(st.id, r.ok, { game: GAME, t: st.t, rev: st.rev, lesson: st.lid, keepMistake: !!st.retry });
+    bin.append(h('div', { class: 'say m win', 'data-who': t('yourAnswer') }, r.given || '…'));
+    if (r.ok) {
+      right++; run++; Sound.play('correct'); strike();
+      if (run > qs.best) { qs.best = run; const s = qload(); s.best = run; qsave(s); }
+      if (run % R.healEvery === 0 && hp < 100) {
+        const n = Math.min(R.heal, 100 - hp); hp += n; Sound.play('heal'); sys(tf('healed', { n }), 'heal');
+        later(() => { pop(meA, '+' + n, 'heal'); react(meA, 'glow', 620); flash.className = 'flash heal on'; later(() => { flash.className = 'flash'; }, 120); }, reduceMotion() ? 0 : 420);
+      }
+      talk(pickOne(boss ? quotes.bossOk : quotes.ok), 'ok');
+    } else {
+      if (!r.noDamage) damage(R.damage); else run = 0;
+      if (st.t !== 'match' && !st.retry) queue.push(Object.assign({}, st, { retry: true }));
+      talk(pickOne(boss ? quotes.bossNo : quotes.no), 'no');
+      if (r.timeout) sys(`${t('timeout')} ${r.answer ? t('wordWas') + ' ' + r.answer : ''}`);
+    }
+    hudUpdate();
+    if (over) return;
+    const go = h('button', { class: 'btn go', onclick: cont }, t('cont'));
+    cin.append(h('div', { class: 'verdict ' + (r.ok ? 'ok' : 'no'), role: 'status' },
+      h('div', { class: 'v' }, r.ok ? (r.almost ? t('almost') : t('right')) : r.timeout ? t('timeout') : t('wordWas'),
+        (!r.ok || r.almost) && r.answer ? h('div', {}, r.answer) : null, r.explain ? h('div', { class: 'muted' }, r.explain) : null), go));
+    cons.setAttribute('data-round', 'next');
+    go.focus();
+    if (r.ok && !r.almost) pending = later(cont, AUTO);
+  }
+  function cont() {
+    if (pending) { clearTimeout(pending); pending = null; }
+    if (!waiting || over) return;
+    i++; round();
+  }
+  // ----- the end: victory fanfare (XP, the words learned; lesson done when all its parts are won) or game over
+  //       (retry keeps the words) -----
+  function overlay(win, tiles, buttons, words) {
+    CHIP.music(null);
+    const title = win ? t('victory') : t('defeat');
+    const duo = h('div', { class: 'duo', 'aria-hidden': 'true' }, h('div', { class: 'actor ' + (win ? 'cheer' : 'ko') }, spr(PX.HERO)), h('div', { class: 'actor' + (win ? ' beaten' : '') }, spr(foeName)));
+    const ov = h('div', { class: 'over ' + (win ? 'victory' : 'defeat'), role: 'dialog', 'aria-modal': 'true', 'aria-label': title },
+      h('div', { class: 'box win' }, h('div', { class: 'kick' }, win ? `★ ${sc.place} ★` : t('gameOver')), h('h1', { class: 'glitch', 'data-text': title }, title), duo,
+        h('p', { class: 'line' }, win ? sc.win || tf('victorySub', { who: sc.who }) : sc.lose || t('defeatSub')),
+        !win && sc.lose ? h('p', {}, t('defeatSub')) : null,
+        h('div', { class: 'tiles' }, tiles.map(([k, v]) => h('div', { class: 'tile' }, h('div', { class: 'tk' }, k), h('div', { class: 'tv' }, v)))),
+        words && words.length ? h('div', { class: 'learned win' }, h('div', { class: 'k' }, t('learnedNew')),
+          h('ul', {}, words.map(id => h('li', {}, h('span', { class: 'w', lang: tg }, item(id)[tg]), tg === 'mn' ? ` [${item(id).mn_latin || romanize(item(id).mn)}]` : '', ' = ', item(id)[native])))) : null,
+        h('div', { class: 'row' }, buttons)));
+    document.body.append(ov); buttons[0].focus();
+    // the XP counts up like an EXP tally
+    const xv = ov.querySelector('.tile .tv'), goal = xv && /^\+(\d+)$/.exec(xv.textContent);
+    if (goal && !reduceMotion()) { let n = 0; const N = +goal[1], id = setInterval(() => { n = Math.min(N, n + Math.max(1, Math.ceil(N / 12))); xv.textContent = '+' + n; if (n % 2) Sound.play('text'); if (n >= N) clearInterval(id); }, 45); }
+    onKey = ev => { if (ev.key === 'Enter') { ev.preventDefault(); (ov.contains(document.activeElement) && document.activeElement.matches('button') ? document.activeElement : buttons[0]).click(); }
+      else if (ev.key === 'Escape') { ev.preventDefault(); camp(); } else if (arrowNav(ev, ov)) ev.preventDefault(); };
+  }
+  const acc = () => graded ? Math.round(100 * right / graded) + '%' : '-';
+  function victory() {
+    cleanup(); setConsole('end', null);
+    const s = qload(); s.won[e.id] = Date.now(); s.best = Math.max(s.best, qs.best); qsave(s);
+    const xp = R.xp + right + (right === graded ? 5 : 0);
+    P.addXP(xp, GAME);
+    if (e.lesson && Q.campaign().filter(x => x.lesson === e.lesson).every(x => s.won[x.id])) P.lessonDone(e.lesson, GAME);
+    Sound.play('victory');
+    const nx = Q.state(s.won).next;
+    overlay(true, [[t('xp'), '+' + xp], [t('acc'), acc()], [t('learned'), String(plan.teach.length + plan.recap.length)]],
+      [nx ? h('button', { class: 'btn', onclick: () => fight(nx) }, t('nextEnc')) : h('button', { class: 'btn', onclick: camp }, t('toCamp')),
+       nx ? h('button', { class: 'btn ghost', onclick: camp }, t('toCamp')) : null].filter(Boolean), [...plan.teach, ...plan.recap]);
+  }
+  function defeat() {
+    cleanup(); setConsole('end', null);
+    const xp = Math.floor(right / 2); if (xp) P.addXP(xp, GAME);
+    Sound.play('defeat');
+    overlay(false, [[t('xp'), '+' + xp], [t('acc'), acc()], [t('round'), `${i + 1}/${queue.length}`]],
+      [h('button', { class: 'btn', onclick: () => fight(e, true) }, '↻ ' + t('retry')), h('button', { class: 'btn ghost', onclick: camp }, t('toCamp'))]);
+  }
+  function askRetreat() {
+    if (modal || over) return;
+    const m = h('div', { class: 'modal', role: 'dialog', 'aria-modal': 'true', 'aria-label': t('retreatQ'), onclick: ev => ev.target === m && close() });
+    function close() { modal = null; m.remove(); }
+    const stay = h('button', { class: 'btn wide', onclick: close }, t('stay'));
+    m.append(h('div', { class: 'sheet win' }, h('h3', {}, t('retreatQ')), h('p', { class: 'muted' }, t('retreatSub')), stay,
+      h('button', { class: 'btn ghost wide', onclick: () => { close(); cleanup(); camp(); } }, t('retreat'))));
+    modal = { close, m }; document.body.append(m); stay.focus();
+  }
+  onKey = ev => {
+    if (modal) { if (ev.key === 'Escape') modal.close(); else if (arrowNav(ev, modal.m)) ev.preventDefault(); return; }
+    if (over) return;
+    const inText = ev.target && ev.target.tagName === 'TEXTAREA';
+    if (ev.key === 'Escape') { ev.preventDefault(); askRetreat(); }
+    else if (ev.key === 'Enter' && !ev.shiftKey) {
+      ev.preventDefault();
+      if (typing) typing.finish();                                 // the first Enter shows the whole story text
+      else if (!st) { const b = cin.querySelector('.got'); if (b) b.click(); }
+      else if (waiting) cont(); else if (cur.enter) cur.enter();
+      else { const c = cin.querySelector('.opt.cur:not(:disabled)'); if (c) c.click(); }
+    }
+    else if (!inText && /^[1-9]$/.test(ev.key) && st && !waiting && cur.key) cur.key(+ev.key);
+    else if (!inText && ev.key === 'Backspace' && st && !waiting && cur.back) { ev.preventDefault(); cur.back(); }
+    else if (!inText && arrowNav(ev, cons)) ev.preventDefault();
+  };
+  hudUpdate();
+  opening();
+}
+start();
+</script>
+</body>
+</html>

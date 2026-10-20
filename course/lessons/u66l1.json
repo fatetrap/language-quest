@@ -1,0 +1,484 @@
+{
+ "intro_en": "You will learn how to sign up at a gym in Ulaanbaatar and ask about memberships, trainers and equipment. You will also practice verbs followed by a gerund or an infinitive (enjoy, avoid, want, decide, plan).",
+ "intro_mn": "Та Улаанбаатар дахь фитнесийн зааланд бүртгүүлж, гишүүнчлэл, дасгалжуулагч, тоног төхөөрөмжийн талаар асууж сурна. Мөн англи хэлний gerund болон infinitive дагадаг үйл үгсийг (enjoy, avoid, want, decide, plan) дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "фитнесийн заал",
+   "en": "gym",
+   "pos": "noun",
+   "example_mn": "Манай байрны ойролцоо шинэ фитнесийн заал нээгдсэн.",
+   "example_en": "A new gym has opened near our building.",
+   "mn_latin": "fitnyesiin zaal"
+  },
+  {
+   "mn": "дасгалжуулагч",
+   "en": "trainer / coach",
+   "pos": "noun",
+   "example_mn": "Миний дасгалжуулагч маш туршлагатай.",
+   "example_en": "My trainer is very experienced.",
+   "mn_latin": "dasgaljuulagch"
+  },
+  {
+   "mn": "гишүүнчлэл",
+   "en": "membership",
+   "pos": "noun",
+   "example_mn": "Жилийн гишүүнчлэл хэд вэ?",
+   "example_en": "How much is the annual membership?",
+   "mn_latin": "gishüünchlel"
+  },
+  {
+   "mn": "жин",
+   "en": "weight",
+   "pos": "noun",
+   "example_mn": "Би жингээ хасахыг хүсч байна.",
+   "example_en": "I want to lose weight.",
+   "mn_latin": "jin"
+  },
+  {
+   "mn": "тоног төхөөрөмж",
+   "en": "equipment",
+   "pos": "noun",
+   "example_mn": "Энд тоног төхөөрөмж орчин үеийн байна.",
+   "example_en": "The equipment here is modern.",
+   "mn_latin": "tonog tökhöörömj"
+  },
+  {
+   "mn": "бүртгүүлэх",
+   "en": "to sign up / register",
+   "pos": "verb",
+   "example_mn": "Би өнөөдөр бүртгүүлэхээр ирлээ.",
+   "example_en": "I came to sign up today.",
+   "mn_latin": "bürtgüülekh"
+  },
+  {
+   "mn": "дасгал хийх",
+   "en": "to work out / exercise",
+   "pos": "verb",
+   "example_mn": "Би долоо хоногт гурван удаа дасгал хийдэг.",
+   "example_en": "I work out three times a week.",
+   "mn_latin": "dasgal khiikh"
+  },
+  {
+   "mn": "хөтөлбөр",
+   "en": "program / plan",
+   "pos": "noun",
+   "example_mn": "Танд тохирсон хөтөлбөр гаргаж өгье.",
+   "example_en": "Let me make a program that suits you.",
+   "mn_latin": "khötölbör"
+  },
+  {
+   "mn": "хөнгөлөлт",
+   "en": "discount",
+   "pos": "noun",
+   "example_mn": "Оюутнуудад хөнгөлөлт үзүүлдэг үү?",
+   "example_en": "Do you offer a discount to students?",
+   "mn_latin": "khöngölölt"
+  },
+  {
+   "mn": "шаардлагатай",
+   "en": "necessary / required",
+   "pos": "adjective",
+   "example_mn": "Эмчийн магадлагаа шаардлагатай юу?",
+   "example_en": "Is a doctor's certificate required?",
+   "mn_latin": "shaardlagatai"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би фитнесийн зааланд бүртгүүлэхийг хүсч байна.",
+   "en": "I want to sign up at the gym.",
+   "alt_mn": [
+    "Би фитнесийн зааланд бүртгүүлэх гэсэн юм."
+   ],
+   "alt_en": [
+    "I would like to join the gym."
+   ],
+   "mn_latin": "Bi fitnyesiin zaaland bürtgüülekhiig khüsch baina."
+  },
+  {
+   "mn": "Гишүүнчлэлийн үнэ сард хэд вэ?",
+   "en": "How much is the membership per month?",
+   "alt_mn": [
+    "Сарын гишүүнчлэл хэд вэ?"
+   ],
+   "alt_en": [
+    "What is the monthly membership price?"
+   ],
+   "mn_latin": "Gishüünchleliin üne sard khed ve?"
+  },
+  {
+   "mn": "Би жингээ хасахын тулд дасгал хийхээр шийдсэн.",
+   "en": "I decided to work out in order to lose weight.",
+   "alt_mn": [
+    "Би жингээ хасахаар шийдээд дасгал хийж эхэлсэн."
+   ],
+   "alt_en": [
+    "I decided to exercise to lose weight."
+   ],
+   "mn_latin": "Bi jingee khasakhyn tuld dasgal khiikheer shiidsen."
+  },
+  {
+   "mn": "Тэр өглөө эрт дасгал хийх дуртай.",
+   "en": "He enjoys working out early in the morning.",
+   "alt_mn": [],
+   "alt_en": [
+    "She enjoys exercising early in the morning."
+   ],
+   "mn_latin": "Ter öglöö ert dasgal khiikh durtai."
+  },
+  {
+   "mn": "Би оройн ачаалалтай цагт очихоос зайлсхийдэг.",
+   "en": "I avoid going during the busy evening hours.",
+   "alt_mn": [
+    "Би оройн ачаалалтай цагаас зайлсхийдэг."
+   ],
+   "alt_en": [
+    "I avoid going when it's busy in the evening."
+   ],
+   "mn_latin": "Bi oroin achaalaltai tsagt ochikhoos zailskhiideg."
+  },
+  {
+   "mn": "Бид ирэх сараас эхлэн хамт дасгал хийхээр төлөвлөж байна.",
+   "en": "We plan to start training together next month.",
+   "alt_mn": [
+    "Бид ирэх сараас хамт хичээллэхээр төлөвлөж байна."
+   ],
+   "alt_en": [
+    "We are planning to work out together starting next month."
+   ],
+   "mn_latin": "Bid irekh saraas ekhlen khamt dasgal khiikheer tölövlöj baina."
+  },
+  {
+   "mn": "Дасгалжуулагчтай хувийн хичээл авч болох уу?",
+   "en": "Can I take personal sessions with a trainer?",
+   "alt_mn": [
+    "Дасгалжуулагчтай ганцаарчилсан хичээл авч болох уу?"
+   ],
+   "alt_en": [
+    "Is it possible to have personal training with a coach?"
+   ],
+   "mn_latin": "Dasgaljuulagchtai khuviin khicheel avch bolokh uu?"
+  },
+  {
+   "mn": "Танай тоног төхөөрөмж маш орчин үеийн юм байна.",
+   "en": "Your equipment is very modern.",
+   "alt_mn": [],
+   "alt_en": [
+    "Your equipment looks very modern."
+   ],
+   "mn_latin": "Tanai tonog tökhöörömj mash orchin üyeiin yum baina."
+  },
+  {
+   "mn": "Оюутны үнэмлэхтэй бол хөнгөлөлт эдлэх боломжтой.",
+   "en": "With a student ID, you can get a discount.",
+   "alt_mn": [
+    "Оюутны үнэмлэхтэй бол хөнгөлөлт авна."
+   ],
+   "alt_en": [
+    "If you have a student ID, you can get a discount."
+   ],
+   "mn_latin": "Oyuutny ünemlekhtei bol khöngölölt edlekh bolomjtoi."
+  },
+  {
+   "mn": "Тэр шинэ хөтөлбөрөө эхлэхээс өмнө сайн бодохоор шийдсэн.",
+   "en": "He decided to think carefully before starting his new program.",
+   "alt_mn": [],
+   "alt_en": [
+    "He decided to think it over carefully before he started his new program."
+   ],
+   "mn_latin": "Ter shine khötölböröö ekhlekhees ömnö sain bodokhoor shiidsen."
+  },
+  {
+   "mn": "Би хүнд жин өргөж эхэлснээс хойш хэдэн сар болж байна.",
+   "en": "It has been a few months since I started lifting heavy weights.",
+   "alt_mn": [
+    "Би хүнд жин өргөж эхэлснээс хойш хэдэн сар болсон."
+   ],
+   "alt_en": [
+    "I started lifting heavy weights a few months ago."
+   ],
+   "mn_latin": "Bi khünd jin örgöj ekhelsnees khoish kheden sar bolj baina."
+  },
+  {
+   "mn": "Анх удаа ирж байгаа бол эхлээд үнэгүй туршиж үзээрэй.",
+   "en": "If it's your first time, try it for free first.",
+   "alt_mn": [
+    "Анх удаа ирсэн бол эхлээд үнэгүй туршаарай."
+   ],
+   "alt_en": [
+    "If you're a first-time visitor, please try a free session first."
+   ],
+   "mn_latin": "Ankh udaa irj baigaa bol ekhleed ünegüi turshij üzeerei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Gerund or infinitive after a verb",
+  "title_mn": "Үйл үгийн дараах gerund эсвэл infinitive",
+  "explain_en": "In English, some verbs take -ing (gerund) and others take 'to + verb' (infinitive). Use the gerund after enjoy and avoid: 'I enjoy swimming.' Use the infinitive after want, decide and plan: 'I decided to join.' In Mongolian you usually use -х/-хыг (with a case ending) or -хаар (purpose): хүсэх + -хыг, шийдэх + -хаар, дуртай + -х. So 'want to sign up' is бүртгүүлэхийг хүсэх, and 'decide to go' is очихоор шийдэх.",
+  "explain_mn": "Англи хэлэнд зарим үйл үгийн дараа үйл үг -ing (gerund) хэлбэрээр, заримын дараа 'to + үйл үг' (infinitive) хэлбэрээр орно. Enjoy, avoid-ийн дараа gerund хэрэглэнэ: 'I enjoy swimming.' Want, decide, plan-ийн дараа infinitive хэрэглэнэ: 'I decided to join.' Монгол хэлэнд ихэвчлэн -х/-хыг (тийн ялгалын нөхцөлтэй) эсвэл -хаар (зорилго) хэлбэр хэрэглэнэ: хүсэх + -хыг, шийдэх + -хаар, дуртай + -х. Жишээ нь, 'want to sign up' нь бүртгүүлэхийг хүсэх, 'decide to go' нь очихоор шийдэх болно.",
+  "examples": [
+   {
+    "mn": "Би өглөө гүйх дуртай.",
+    "en": "I enjoy running in the morning.",
+    "mn_latin": "Bi öglöö güikh durtai."
+   },
+   {
+    "mn": "Тэр чихэр идэхээс зайлсхийдэг.",
+    "en": "He avoids eating sweets.",
+    "mn_latin": "Ter chikher idekhees zailskhiideg."
+   },
+   {
+    "mn": "Би гишүүнчлэл авахаар шийдсэн.",
+    "en": "I decided to get a membership.",
+    "mn_latin": "Bi gishüünchlel avakhaar shiidsen."
+   },
+   {
+    "mn": "Бид сургуулийн дараа очихоор төлөвлөж байна.",
+    "en": "We plan to go after school.",
+    "mn_latin": "Bid surguuliin daraa ochikhoor tölövlöj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би фитнесийн зааланд бүртгүүлэх___ хүсч байна.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "ийн",
+    "ээс",
+    "тэй"
+   ],
+   "translation": "I want to sign up at the gym.",
+   "explain_en": "'Хүсэх' (to want) takes the verbal noun in -х plus the accusative -ийг: бүртгүүлэхийг хүсэх.",
+   "explain_mn": "'Хүсэх' үйл үг -х төгсгөлтэй үйл нэрийг заахын тийн ялгалын (-ийг) нөхцөлтэйгээр авна: бүртгүүлэхийг хүсэх."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр жингээ хасахын тулд өдөр бүр дасгал хий___ шийдсэн.",
+   "answer": "хээр",
+   "options": [
+    "хээр",
+    "хаар",
+    "сэн",
+    "ж"
+   ],
+   "translation": "He decided to work out every day in order to lose weight.",
+   "explain_en": "'Шийдэх' (to decide) is preceded by the intent form -хаар/-хээр. The stem хий- has only the neutral vowel и, which takes the front variant, so it becomes хийхээр.",
+   "explain_mn": "'Шийдэх' үйл үгийн өмнөх үйл үг -хаар/-хээр хэлбэртэй орно. 'Хий-' үндэс зөвхөн саармаг и эгшигтэй тул эм эгшгийн хувилбар авч 'хийхээр' болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Танай заалны тоног төхөөрөмж орчин ___.",
+   "answer": "үеийн",
+   "options": [
+    "үеийн",
+    "үе",
+    "үед",
+    "үеээс"
+   ],
+   "translation": "The equipment in your gym is modern.",
+   "explain_en": "'Орчин үеийн' (modern) is a fixed phrase that uses the genitive үеийн.",
+   "explain_mn": "'Орчин үеийн' нь тогтвортой хэллэг бөгөөд 'үе' гэдэг үг харьяалахын тийн ялгалын (-ийн) нөхцөлтэй орно."
+  },
+  {
+   "lang": "en",
+   "text": "I enjoy ___ in the gym after work.",
+   "answer": "exercising",
+   "options": [
+    "exercising",
+    "to exercise",
+    "exercise",
+    "exercised"
+   ],
+   "translation": "Би ажлын дараа фитнесийн зааланд дасгал хийх дуртай.",
+   "explain_en": "Enjoy is followed by a gerund (-ing).",
+   "explain_mn": "Enjoy-ийн дараа gerund (-ing) орно."
+  },
+  {
+   "lang": "en",
+   "text": "She decided ___ a personal trainer.",
+   "answer": "to hire",
+   "options": [
+    "to hire",
+    "hiring",
+    "hire",
+    "hired"
+   ],
+   "translation": "Тэр хувийн дасгалжуулагч хөлслөхөөр шийдсэн.",
+   "explain_en": "Decide is followed by an infinitive (to + verb).",
+   "explain_mn": "Decide-ийн дараа infinitive (to + үйл үг) орно."
+  },
+  {
+   "lang": "en",
+   "text": "I try to avoid ___ heavy weights without a warm-up.",
+   "answer": "lifting",
+   "options": [
+    "lifting",
+    "to lift",
+    "lift",
+    "lifted"
+   ],
+   "translation": "Би халаалтгүйгээр хүнд жин өргөхөөс зайлсхийхийг хичээдэг.",
+   "explain_en": "Avoid is followed by a gerund (-ing), even when the sentence already has 'try to' before it.",
+   "explain_mn": "Avoid-ийн дараа gerund (-ing) орно. Өгүүлбэрт 'try to' байгаа ч avoid-ийн дараах үйл үг -ing хэлбэртэй байна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу? Би гишүүнчлэл авахыг хүсч байна.",
+   "en": "Hello. I'd like to get a membership.",
+   "mn_latin": "Sain baina uu? Bi gishüünchlel avakhyg khüsch baina."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Тавтай морилно уу! Та сарын эсвэл жилийн гишүүнчлэл авахаар төлөвлөж байна уу?",
+   "en": "Welcome! Are you planning to get a monthly or an annual one?",
+   "mn_latin": "Tavtai morilno uu! Ta saryn esvel jiliin gishüünchlel avakhaar tölövlöj baina uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Эхлээд гурван сараар авахыг бодож байна. Оюутны хөнгөлөлт байдаг уу?",
+   "en": "I'm thinking of starting with three months. Is there a student discount?",
+   "mn_latin": "Ekhleed gurvan saraar avakhyg bodoj baina. Oyuutny khöngölölt baidag uu?"
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Тийм, оюутны үнэмлэхээ үзүүлбэл 15 хувийн хөнгөлөлт эдлэнэ.",
+   "en": "Yes, if you show your student ID you get a 15 percent discount.",
+   "mn_latin": "Tiim, oyuutny ünemlekhee üzüülbel 15 khuviin khöngölölt edlene."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна. Дасгалжуулагчтай хичээллэж болох уу? Би жин өргөж сурахыг хүсэж байна.",
+   "en": "Great. Can I train with a coach? I want to learn to lift weights.",
+   "mn_latin": "Sain baina. Dasgaljuulagchtai khicheellej bolokh uu? Bi jin örgöj surakhyg khüsej baina."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Мэдээжийн хэрэг. Эхний хичээл үнэгүй, тэр үед хөтөлбөрөө хамт гаргана.",
+   "en": "Of course. The first session is free, and we'll make your program together then.",
+   "mn_latin": "Medeejiin khereg. Ekhnii khicheel ünegüi, ter üyed khötölböröö khamt gargana."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тоног төхөөрөмжөө үзэж болох уу? Би орой явахаас зайлсхийдэг тул өглөө ирэх байх.",
+   "en": "Can I see the equipment? I avoid going in the evening, so I'll probably come in the morning.",
+   "mn_latin": "Tonog tökhöörömjöö üzej bolokh uu? Bi oroi yavakhaas zailskhiideg tul öglöö irekh baikh."
+  },
+  {
+   "speaker": "Эмма",
+   "mn": "Мэдээж, надтай хамт яваарай. Өглөө хүн цөөхөн, тайван байдаг.",
+   "en": "Sure, come with me. There are usually few people in the morning, so it's quiet.",
+   "mn_latin": "Medeej, nadtai khamt yavaarai. Öglöö khün tsöökhön, taivan baidag."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, the number of fitness clubs has grown quickly in recent years, especially in the city center around Sukhbaatar Square and in newer districts such as Zaisan. Many gyms offer student discounts, morning-only memberships and group classes such as yoga, boxing or aerobics. In the cold winter, indoor training is especially popular because outdoor running is hard when temperatures drop far below zero.",
+  "mn": "Улаанбаатарт сүүлийн жилүүдэд фитнесийн заалны тоо хурдацтай өсөж, ялангуяа Сүхбаатарын талбайн орчим буюу хотын төвд болон Зайсан зэрэг шинэ хорооллуудад олноор нээгдэж байна. Олон заал оюутны хөнгөлөлт, өглөөний цагийн гишүүнчлэл, йога, бокс, аэробик зэрэг бүлгийн хичээл санал болгодог. Өвлийн хүйтэнд агаарын хэм тэгээс хэд дахин доош унахад гадаа гүйхэд хэцүү тул хаалттай заалны дасгал онцгой түгээмэл байдаг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 22,
+  "notes": "Mostly good content, but the first fill-blank had a bad split, one had a nonsense option, and several Mongolian phrases and explanations were unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "Fixed a made-up word, duplicate alternatives, wrong grammar terms, polite register in the dialogue, and en/mn mismatches in the grammar and culture texts.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "The alternative was identical to the main sentence."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "'дасгалжих' is not a standard Mongolian word."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_mn",
+    "why": "The old alternative became a near-duplicate of the corrected sentence, so it was replaced with a real variant."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "'decided ... before he starts' mixes tenses; past sequence is needed."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn version did not match the en explanation; it lacked the Mongolian forms and examples."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "The accusative case is 'заахын тийн ялгал'; 'харьцахын тохиолд' is the wrong term."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "The vowel harmony explanation was inaccurate."
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Wording fixed and vowel harmony explanation aligned with en."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "'тусгаар' is the wrong grammatical term; the correct one is 'тийн ялгал'."
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "Polite register to a customer; the old line stacked question particles (уу...үү...вэ) awkwardly."
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "The English left out 'few people'."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "Sukhbaatar Square is in the city center, not a newer district."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Matched to en: number of gyms, correct geography, and the missing 'far below zero'."
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'дадлага хийнэ' is the more natural standard wording."
+   }
+  ]
+ }
+}

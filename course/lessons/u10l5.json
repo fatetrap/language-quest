@@ -1,0 +1,472 @@
+{
+ "intro_en": "You will learn to ask for and give street directions: left, right, straight, corner, crossroads and traffic light. You will also practice the command form of verbs in Mongolian and English.",
+ "intro_mn": "Та энэ хичээлээр замаа асууж, зам заж сурна: зүүн, баруун, шулуун, булан, уулзвар, гэрлэн дохио. Мөн монгол, англи хэлний тушаах хэлбэр дээр дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "зүүн",
+   "en": "left",
+   "pos": "adjective/noun",
+   "example_mn": "Зүүн тийш эргэ.",
+   "example_en": "Turn left.",
+   "mn_latin": "züün"
+  },
+  {
+   "mn": "баруун",
+   "en": "right",
+   "pos": "adjective/noun",
+   "example_mn": "Баруун тийш яв.",
+   "example_en": "Go to the right.",
+   "mn_latin": "baruun"
+  },
+  {
+   "mn": "шулуун",
+   "en": "straight",
+   "pos": "adjective/adverb",
+   "example_mn": "Шулуун яв.",
+   "example_en": "Go straight.",
+   "mn_latin": "shuluun"
+  },
+  {
+   "mn": "булан",
+   "en": "corner",
+   "pos": "noun",
+   "example_mn": "Буланд банк байна.",
+   "example_en": "There is a bank at the corner.",
+   "mn_latin": "bulan"
+  },
+  {
+   "mn": "уулзвар",
+   "en": "crossroads",
+   "pos": "noun",
+   "example_mn": "Уулзвар дээр зогс.",
+   "example_en": "Stop at the crossroads.",
+   "mn_latin": "uulzvar"
+  },
+  {
+   "mn": "гэрлэн дохио",
+   "en": "traffic light",
+   "pos": "noun",
+   "example_mn": "Гэрлэн дохио хүртэл яв.",
+   "example_en": "Go as far as the traffic light.",
+   "mn_latin": "gerlen dokhio"
+  },
+  {
+   "mn": "эргэх",
+   "en": "to turn",
+   "pos": "verb",
+   "example_mn": "Булан дээр эргэ.",
+   "example_en": "Turn at the corner.",
+   "mn_latin": "ergekh"
+  },
+  {
+   "mn": "явах",
+   "en": "to go",
+   "pos": "verb",
+   "example_mn": "Энэ замаар яв.",
+   "example_en": "Go along this road.",
+   "mn_latin": "yavakh"
+  },
+  {
+   "mn": "зогсох",
+   "en": "to stop",
+   "pos": "verb",
+   "example_mn": "Энд зогс.",
+   "example_en": "Stop here.",
+   "mn_latin": "zogsokh"
+  },
+  {
+   "mn": "өнгөрөх",
+   "en": "to pass",
+   "pos": "verb",
+   "example_mn": "Банкийг өнгөр.",
+   "example_en": "Pass the bank.",
+   "mn_latin": "öngörökh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Шулуун яв.",
+   "en": "Go straight.",
+   "alt_mn": [],
+   "alt_en": [
+    "Walk straight."
+   ],
+   "mn_latin": "Shuluun yav."
+  },
+  {
+   "mn": "Зүүн тийш эргэ.",
+   "en": "Turn left.",
+   "alt_mn": [
+    "Зүүн тийшээ эргэ."
+   ],
+   "alt_en": [
+    "Take a left."
+   ],
+   "mn_latin": "Züün tiish erge."
+  },
+  {
+   "mn": "Баруун тийш эргэ.",
+   "en": "Turn right.",
+   "alt_mn": [
+    "Баруун тийшээ эргэ."
+   ],
+   "alt_en": [
+    "Take a right."
+   ],
+   "mn_latin": "Baruun tiish erge."
+  },
+  {
+   "mn": "Уулзвар дээр зогс.",
+   "en": "Stop at the crossroads.",
+   "alt_mn": [
+    "Уулзвар дээр зогсоорой."
+   ],
+   "alt_en": [
+    "Stop at the intersection."
+   ],
+   "mn_latin": "Uulzvar deer zogs."
+  },
+  {
+   "mn": "Гэрлэн дохио хүртэл яв.",
+   "en": "Go to the traffic light.",
+   "alt_mn": [],
+   "alt_en": [
+    "Go as far as the traffic light."
+   ],
+   "mn_latin": "Gerlen dokhio khürtel yav."
+  },
+  {
+   "mn": "Гэрлэн дохио дээр баруун тийш эргэ.",
+   "en": "Turn right at the traffic light.",
+   "alt_mn": [
+    "Гэрлэн дохио дээр баруун тийшээ эргэ."
+   ],
+   "alt_en": [
+    "At the traffic light, turn right."
+   ],
+   "mn_latin": "Gerlen dokhio deer baruun tiish erge."
+  },
+  {
+   "mn": "Булан дээр зүүн тийш эргэ.",
+   "en": "Turn left at the corner.",
+   "alt_mn": [],
+   "alt_en": [
+    "At the corner, turn left."
+   ],
+   "mn_latin": "Bulan deer züün tiish erge."
+  },
+  {
+   "mn": "Банкийг өнгөр.",
+   "en": "Pass the bank.",
+   "alt_mn": [
+    "Банкийг өнгөрөөд яв."
+   ],
+   "alt_en": [
+    "Go past the bank."
+   ],
+   "mn_latin": "Bankiig öngör."
+  },
+  {
+   "mn": "Дэлгүүр хаана байна вэ?",
+   "en": "Where is the store?",
+   "alt_mn": [
+    "Дэлгүүр хаана байдаг вэ?"
+   ],
+   "alt_en": [
+    "Where is the shop?"
+   ],
+   "mn_latin": "Delgüür khaana baina ve?"
+  },
+  {
+   "mn": "Уучлаарай, төв шуудан хаана байна вэ?",
+   "en": "Excuse me, where is the central post office?",
+   "alt_mn": [
+    "Уучлаарай, төв шуудан хаана байдаг вэ?"
+   ],
+   "alt_en": [
+    "Sorry, where is the central post office?"
+   ],
+   "mn_latin": "Uuchlaarai, töv shuudan khaana baina ve?"
+  },
+  {
+   "mn": "Шулуун явж, дараа нь баруун тийш эргэ.",
+   "en": "Go straight, then turn right.",
+   "alt_mn": [
+    "Шулуун яваад баруун тийш эргэ."
+   ],
+   "alt_en": [
+    "Go straight and then turn right."
+   ],
+   "mn_latin": "Shuluun yavj, daraa ni baruun tiish erge."
+  },
+  {
+   "mn": "Энд зогс, гэрлэн дохио улаан байна.",
+   "en": "Stop here, the traffic light is red.",
+   "alt_mn": [
+    "Энд зогсоорой, гэрлэн дохио улаан байна."
+   ],
+   "alt_en": [
+    "Stop here. The light is red."
+   ],
+   "mn_latin": "End zogs, gerlen dokhio ulaan baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Commands (imperatives) in Mongolian",
+  "title_mn": "Монгол хэлний тушаах хэлбэр (Imperative)",
+  "explain_en": "To give a command in Mongolian, take the dictionary form of the verb and drop -х: явах → яв, эргэх → эргэ, зогсох → зогс, өнгөрөх → өнгөр. This short form is for friends and people close to you. To be polite, add -аарай/-ээрэй/-оорой/-өөрэй (the vowel matches the word): яваарай, эргээрэй, зогсоорой, өнгөрөөрөй. Directions go before the verb: зүүн тийш эргэ (turn to the left). In English, a command is just the base verb without \"to\": Go straight. Add \"Please\" to be polite: Please turn left. Use \"Don't\" for a negative command: Don't stop here.",
+  "explain_mn": "Монгол хэлэнд тушаал хийхдээ үйл үгийн толь бичгийн хэлбэрээс -х дагаврыг хасна: явах → яв, эргэх → эргэ, зогсох → зогс, өнгөрөх → өнгөр. Энэ товч хэлбэрийг найз нөхөд, дотнын хүнд хэлнэ. Эелдэг болгохдоо эгшиг зохицох ёсоор -аарай/-ээрэй/-оорой/-өөрэй залгана: яваарай, эргээрэй, зогсоорой, өнгөрөөрөй. Чиглэл заасан үг үйл үгийн өмнө орно: зүүн тийш эргэ. Англи хэлэнд тушаал нь \"to\"-гүй үндсэн хэлбэр байна: Go straight. Turn left. Stop here. Эелдэг болгохдоо өмнө нь \"Please\" нэмнэ: Please turn left. Үгүйсгэхдээ \"Don't\" нэмнэ: Don't stop here.",
+  "examples": [
+   {
+    "mn": "Шулуун яв.",
+    "en": "Go straight.",
+    "mn_latin": "Shuluun yav."
+   },
+   {
+    "mn": "Зүүн тийш эргэ.",
+    "en": "Turn left.",
+    "mn_latin": "Züün tiish erge."
+   },
+   {
+    "mn": "Уулзвар дээр зогсоорой.",
+    "en": "Please stop at the crossroads.",
+    "mn_latin": "Uulzvar deer zogsooroi."
+   },
+   {
+    "mn": "Банкийг өнгөр.",
+    "en": "Pass the bank.",
+    "mn_latin": "Bankiig öngör."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шулуун ___.",
+   "answer": "яв",
+   "options": [
+    "яв",
+    "явах",
+    "явсан",
+    "явна"
+   ],
+   "translation": "Go straight.",
+   "explain_en": "The command form drops -х from the infinitive: явах → яв.",
+   "explain_mn": "Тушаах хэлбэрт үйл үгийн -х дагаврыг хасна: явах → яв."
+  },
+  {
+   "lang": "mn",
+   "text": "Уулзвар ___ зогс.",
+   "answer": "дээр",
+   "options": [
+    "дээр",
+    "руу",
+    "хүртэл",
+    "тийш"
+   ],
+   "translation": "Stop at the crossroads.",
+   "explain_en": "дээр means 'on/at' a place, so it fits 'at the crossroads'.",
+   "explain_mn": "\"Дээр\" нь байршлыг заана: уулзвар дээр = at the crossroads."
+  },
+  {
+   "lang": "mn",
+   "text": "Баруун ___ эргэ.",
+   "answer": "тийш",
+   "options": [
+    "тийш",
+    "дээр",
+    "хүртэл",
+    "дотор"
+   ],
+   "translation": "Turn right.",
+   "explain_en": "тийш means 'toward', so баруун тийш is 'to the right'.",
+   "explain_mn": "\"Тийш\" нь чиглэл заана: баруун тийш = to the right."
+  },
+  {
+   "lang": "en",
+   "text": "___ left at the corner.",
+   "answer": "Turn",
+   "options": [
+    "Turn",
+    "Turns",
+    "Turning",
+    "To turn"
+   ],
+   "translation": "Булан дээр зүүн тийш эргэ.",
+   "explain_en": "English commands use the base verb with no ending: Turn.",
+   "explain_mn": "Англи тушаал үндсэн хэлбэртэй байна: Turn, Turns биш."
+  },
+  {
+   "lang": "en",
+   "text": "Go ___ and then turn right.",
+   "answer": "straight",
+   "options": [
+    "straight",
+    "corner",
+    "stop",
+    "light"
+   ],
+   "translation": "Шулуун яв, дараа нь баруун тийш эргэ.",
+   "explain_en": "'Go straight' means keep going forward without turning.",
+   "explain_mn": "\"Go straight\" нь эргэлгүй шулуун явна гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "___ at the red light.",
+   "answer": "Stop",
+   "options": [
+    "Stop",
+    "Stops",
+    "Stopped",
+    "Stopping"
+   ],
+   "translation": "Улаан гэрлийн өмнө зогс.",
+   "explain_en": "Use the base form Stop for a command.",
+   "explain_mn": "Тушаалд үндсэн хэлбэр Stop-ыг хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Tuya",
+   "mn": "Уучлаарай, төв номын сан хаана байна вэ?",
+   "en": "Excuse me, where is the central library?",
+   "mn_latin": "Uuchlaarai, töv nomyn san khaana baina ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Энэ замаар шулуун яваарай.",
+   "en": "Go straight along this road.",
+   "mn_latin": "Ene zamaar shuluun yavaarai."
+  },
+  {
+   "speaker": "Tuya",
+   "mn": "Дараа нь яах вэ?",
+   "en": "And then what?",
+   "mn_latin": "Daraa ni yaakh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Гэрлэн дохио дээр баруун тийш эргээрэй.",
+   "en": "Turn right at the traffic light.",
+   "mn_latin": "Gerlen dokhio deer baruun tiish ergeerei."
+  },
+  {
+   "speaker": "Tuya",
+   "mn": "Хол уу?",
+   "en": "Is it far?",
+   "mn_latin": "Khol uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Үгүй, ойрхон. Банкийг өнгөрөөд зүүн талд байна.",
+   "en": "No, it's close. Pass the bank and it's on the left.",
+   "mn_latin": "Ügüi, oirkhon. Bankiig öngörööd züün tald baina."
+  },
+  {
+   "speaker": "Tuya",
+   "mn": "Баярлалаа!",
+   "en": "Thank you!",
+   "mn_latin": "Bayarlalaa!"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Зүгээр. Сайн яваарай!",
+   "en": "You're welcome. Take care!",
+   "mn_latin": "Zügeer. Sain yavaarai!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, people often give directions using landmarks such as the State Department Store, Sükhbaatar Square, a bank or a big building, because many small streets have no clear signs. Traffic can be heavy, so crossroads and traffic lights are important meeting points. Do not be surprised if someone says 'Ask again a bit farther on' — asking several people is normal.",
+  "mn": "Улаанбаатарт зам зааж өгөхдөө Улсын их дэлгүүр, Сүхбаатарын талбай, банк, өндөр барилга зэрэг танигдахуйц газрыг ихэвчлэн ашигладаг, учир нь олон жижиг гудамжинд тод тэмдэг байдаггүй. Замын түгжрэл их тул уулзвар, гэрлэн дохио чухал уулзах цэг болдог. Хэн нэгэн \"Цаашаа яваад дахиад асуугаарай\" гэвэл гайхах хэрэггүй — хэд хэдэн хүнээс асуух нь хэвийн зүйл."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 15,
+  "notes": "Mostly good content, but the grammar section mixes up which language its Mongolian explanation covers, and a few Mongolian phrases (гэрлэн дохион дээр, clipped 'хаана вэ', улаан гэрэл дээр) are unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 13,
+  "notes": "Fixed redundant alternatives, invalid suffix options, unnatural words, and en/mn mismatches in the grammar explanation and culture note.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'дадлагажна' with an accusative object is unnatural; also use the same term 'тушаах хэлбэр' as the grammar title"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "'Тэгээд' (then) adds meaning that is not in the English"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "'шулуун' (straight) adds meaning that is not in the English"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "'төв шуудан' means the central post office"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "keep the meaning 'central'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "-х is dropped from the dictionary form, not from the stem"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "match the en version: -х comes off the dictionary form, plus the missing vowel harmony and word order points"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'аас' and 'тай' are suffixes, not separate words; use real postpositions as distractors"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'тай' is a suffix, not a separate word"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'холхон' means 'a bit far'; 'Хол уу?' is the natural question"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "Tuya is walking nearby, not going on a trip"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "'well-known signs' is unnatural"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'тэмдэглэгээ' means marking, not landmark; add the missing sentence so mn matches en"
+   }
+  ]
+ }
+}

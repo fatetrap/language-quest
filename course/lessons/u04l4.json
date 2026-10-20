@@ -1,0 +1,448 @@
+{
+ "intro_en": "You will learn to say how many people are in your family and to talk about brothers, sisters, and children. You will also see how English adds -s to make plurals, while Mongolian uses the bare noun after a number.",
+ "intro_mn": "Та гэр бүлдээ хэдэн хүн байгааг, ах дүү, хүүхдүүдийнхээ тухай хэлж сурна. Мөн англи хэлэнд олон тоог -s-ээр хэрхэн хийдгийг, монгол хэлэнд тооны дараа үгийг хэвээр нь хэрэглэдгийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "гэр бүл",
+   "en": "family",
+   "pos": "noun",
+   "example_mn": "Миний гэр бүл том.",
+   "example_en": "My family is big.",
+   "mn_latin": "ger bül"
+  },
+  {
+   "mn": "хүн",
+   "en": "person",
+   "pos": "noun",
+   "example_mn": "Манайд таван хүн бий.",
+   "example_en": "There are five people in our family.",
+   "mn_latin": "khün"
+  },
+  {
+   "mn": "хүүхэд",
+   "en": "child",
+   "pos": "noun",
+   "example_mn": "Надад нэг хүүхэд бий.",
+   "example_en": "I have one child.",
+   "mn_latin": "khüükhed"
+  },
+  {
+   "mn": "ах",
+   "en": "older brother",
+   "pos": "noun",
+   "example_mn": "Миний ах Улаанбаатарт амьдардаг.",
+   "example_en": "My older brother lives in Ulaanbaatar.",
+   "mn_latin": "akh"
+  },
+  {
+   "mn": "эгч",
+   "en": "older sister",
+   "pos": "noun",
+   "example_mn": "Надад хоёр эгч бий.",
+   "example_en": "I have two older sisters.",
+   "mn_latin": "egch"
+  },
+  {
+   "mn": "дүү",
+   "en": "younger sibling",
+   "pos": "noun",
+   "example_mn": "Миний дүү сургуульд явдаг.",
+   "example_en": "My younger sibling goes to school.",
+   "mn_latin": "düü"
+  },
+  {
+   "mn": "хэдэн",
+   "en": "how many",
+   "pos": "question word",
+   "example_mn": "Танд хэдэн дүү бий вэ?",
+   "example_en": "How many younger siblings do you have?",
+   "mn_latin": "kheden"
+  },
+  {
+   "mn": "хоёр",
+   "en": "two",
+   "pos": "number",
+   "example_mn": "Тэд хоёр хүүхэдтэй.",
+   "example_en": "They have two children.",
+   "mn_latin": "khoyor"
+  },
+  {
+   "mn": "гурав",
+   "en": "three",
+   "pos": "number",
+   "example_mn": "Манайд гурван хүүхэд бий.",
+   "example_en": "We have three children.",
+   "mn_latin": "gurav"
+  },
+  {
+   "mn": "нийт",
+   "en": "in total",
+   "pos": "adverb",
+   "example_mn": "Нийт зургаан хүн бий.",
+   "example_en": "There are six people in total.",
+   "mn_latin": "niit"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Танай гэр бүлд хэдэн хүн бий вэ?",
+   "en": "How many people are in your family?",
+   "alt_mn": [
+    "Танай гэр бүлд хэдэн хүн байдаг вэ?"
+   ],
+   "alt_en": [
+    "How many people are there in your family?"
+   ],
+   "mn_latin": "Tanai ger büld kheden khün bii ve?"
+  },
+  {
+   "mn": "Манай гэр бүлд таван хүн бий.",
+   "en": "There are five people in my family.",
+   "alt_mn": [
+    "Манайд таван хүн бий."
+   ],
+   "alt_en": [
+    "My family has five people."
+   ],
+   "mn_latin": "Manai ger büld tavan khün bii."
+  },
+  {
+   "mn": "Надад хоёр ах бий.",
+   "en": "I have two older brothers.",
+   "alt_mn": [
+    "Надад хоёр ах байна."
+   ],
+   "alt_en": [
+    "I have two brothers."
+   ],
+   "mn_latin": "Nadad khoyor akh bii."
+  },
+  {
+   "mn": "Танд хэдэн эгч бий вэ?",
+   "en": "How many older sisters do you have?",
+   "alt_mn": [],
+   "alt_en": [
+    "How many sisters do you have?"
+   ],
+   "mn_latin": "Tand kheden egch bii ve?"
+  },
+  {
+   "mn": "Надад нэг эгч бий.",
+   "en": "I have one older sister.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have one sister."
+   ],
+   "mn_latin": "Nadad neg egch bii."
+  },
+  {
+   "mn": "Тэд гурван хүүхэдтэй.",
+   "en": "They have three children.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ted gurvan khüükhedtei."
+  },
+  {
+   "mn": "Миний дүү нар сургуульд явдаг.",
+   "en": "My younger siblings go to school.",
+   "alt_mn": [],
+   "alt_en": [
+    "My younger brothers and sisters go to school."
+   ],
+   "mn_latin": "Minii düü nar surguulid yavdag."
+  },
+  {
+   "mn": "Нийт зургаан хүн бий.",
+   "en": "There are six people in total.",
+   "alt_mn": [],
+   "alt_en": [
+    "There are six of us in total."
+   ],
+   "mn_latin": "Niit zurgaan khün bii."
+  },
+  {
+   "mn": "Манай гэр бүл том.",
+   "en": "My family is big.",
+   "alt_mn": [
+    "Манай гэр бүл олуулаа."
+   ],
+   "alt_en": [
+    "Our family is big."
+   ],
+   "mn_latin": "Manai ger bül tom."
+  },
+  {
+   "mn": "Багш нар ширээний ард сууж байна.",
+   "en": "The teachers are sitting at the table.",
+   "alt_mn": [],
+   "alt_en": [
+    "The teachers are seated at the table."
+   ],
+   "mn_latin": "Bagsh nar shireenii ard suuj baina."
+  },
+  {
+   "mn": "Танай хүүхдүүд хаана байна вэ?",
+   "en": "Where are your children?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Tanai khüükhdüüd khaana baina ve?"
+  },
+  {
+   "mn": "Надад дүү байхгүй.",
+   "en": "I don't have a younger sibling.",
+   "alt_mn": [
+    "Надад дүү алга."
+   ],
+   "alt_en": [
+    "I have no younger siblings."
+   ],
+   "mn_latin": "Nadad düü baikhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Numbers and plurals",
+  "title_mn": "Тоо ба олон тоо",
+  "explain_en": "In Mongolian, after a number or хэдэн ('how many'), the noun stays in its basic form: хоёр ах (two older brothers), гурван хүүхэд (three children). Do not add a plural ending. When there is no number, нар (written as a separate word) shows several people, for example багш нар (teachers), ах нар (older brothers). Other words take plural endings such as -ууд/-үүд or -чууд: хүүхдүүд (children). Note: гурав becomes гурван before a noun.",
+  "explain_mn": "Англи хэлэнд нэр үгийн олон тоог ихэвчлэн -s залгаж үүсгэнэ: brother → brothers, sister → sisters. Монгол хэлэнд \"хоёр ах\" гэж тооны дараа олон тооны нөхцөл хэрэглэдэггүй ч англиар тооны дараа заавал олон тоо хэрэглэнэ: two brothers. Зарим үг энгийн бус олон тоотой: child → children, person → people, man → men, woman → women. Нэг гэвэл ганц тоо: one brother.",
+  "examples": [
+   {
+    "mn": "хоёр ах",
+    "en": "two older brothers",
+    "mn_latin": "khoyor akh"
+   },
+   {
+    "mn": "гурван хүүхэд",
+    "en": "three children",
+    "mn_latin": "gurvan khüükhed"
+   },
+   {
+    "mn": "ах нар",
+    "en": "older brothers",
+    "mn_latin": "akh nar"
+   },
+   {
+    "mn": "таван хүн",
+    "en": "five people",
+    "mn_latin": "tavan khün"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Надад хоёр ___ бий.",
+   "answer": "ах",
+   "options": [
+    "ах",
+    "ах нар",
+    "ахыг",
+    "ахтай"
+   ],
+   "translation": "I have two older brothers.",
+   "explain_en": "After a number, Mongolian keeps the noun in its basic form: хоёр ах, not a plural.",
+   "explain_mn": "Тооны дараа нэр үг олон тооны нөхцөлгүй байна: хоёр ах."
+  },
+  {
+   "lang": "mn",
+   "text": "Танай гэр бүлд ___ хүн бий вэ?",
+   "answer": "хэдэн",
+   "options": [
+    "хэдэн",
+    "хэн",
+    "хаана",
+    "юу"
+   ],
+   "translation": "How many people are in your family?",
+   "explain_en": "хэдэн means 'how many' and is followed by a basic-form noun.",
+   "explain_mn": "Тоо асуухад «хэдэн» хэрэглэнэ, дараа нь үг хэвээрээ байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Багш ___ ангид байна.",
+   "answer": "нар",
+   "options": [
+    "нар",
+    "гурав",
+    "гэр",
+    "юу"
+   ],
+   "translation": "The teachers are in the classroom.",
+   "explain_en": "Without a number, -нар marks several people: багш нар = teachers.",
+   "explain_mn": "Тооны үггүй бол хүний олон тоог «нар» үгээр илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I have two ___.",
+   "answer": "brothers",
+   "options": [
+    "brothers",
+    "brother",
+    "brothere",
+    "brotheres"
+   ],
+   "translation": "Надад хоёр ах бий.",
+   "explain_en": "In English, a number greater than one needs a plural noun: two brothers.",
+   "explain_mn": "Англиар хоёроос дээш тооны дараа нэр үг олон тоотой байна: two brothers."
+  },
+  {
+   "lang": "en",
+   "text": "They have three ___.",
+   "answer": "children",
+   "options": [
+    "children",
+    "childs",
+    "childen",
+    "child"
+   ],
+   "translation": "Тэд гурван хүүхэдтэй.",
+   "explain_en": "Child is irregular: the plural is children, not childs.",
+   "explain_mn": "Child бол ерөнхий дүрмээс гадуур үг: олон тоо нь children."
+  },
+  {
+   "lang": "en",
+   "text": "There are five ___ in my family.",
+   "answer": "people",
+   "options": [
+    "people",
+    "peoples",
+    "person",
+    "persones"
+   ],
+   "translation": "Манай гэр бүлд таван хүн бий.",
+   "explain_en": "People is the normal plural of person in everyday English.",
+   "explain_mn": "Person гэдэг үгийн энгийн олон тоо нь people."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу, Эмили! Манайд тавтай морил.",
+   "en": "Hello, Emily! Welcome to our home.",
+   "mn_latin": "Sain baina uu, Emili! Manaid tavtai moril."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Баярлалаа, Бат. Танай гэр бүлд хэдэн хүн бий вэ?",
+   "en": "Thank you, Bat. How many people are in your family?",
+   "mn_latin": "Bayarlalaa, Bat. Tanai ger büld kheden khün bii ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Нийт зургаан хүн бий: аав, ээж, хоёр эгч, би, дүү.",
+   "en": "Six people in total: Dad, Mom, two older sisters, me, and my younger sibling.",
+   "mn_latin": "Niit zurgaan khün bii: aav, eej, khoyor egch, bi, düü."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Таны эгч нар хаана байна?",
+   "en": "Where are your older sisters?",
+   "mn_latin": "Tany egch nar khaana baina?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэд гал тогоонд буузаа хийж байна.",
+   "en": "They are making buuz in the kitchen.",
+   "mn_latin": "Ted gal togoond buuzaa khiij baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Манай гэр бүлд дөрвөн хүн бий. Надад нэг ах бий.",
+   "en": "There are four people in my family. I have one older brother.",
+   "mn_latin": "Manai ger büld dörvön khün bii. Nadad neg akh bii."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Манай гэр бүл танайхаас том юм байна.",
+   "en": "My family is bigger than yours.",
+   "mn_latin": "Manai ger bül tanaikhaas tom yum baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм ээ, гэхдээ танай бууз үнэхээр амттай байна!",
+   "en": "Yes, but your buuz is really delicious!",
+   "mn_latin": "Tiim ee, gekhdee tanai buuz ünekheer amttai baina!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, families often gather for a big dinner, especially on weekends and at Tsagaan Sar, and several generations may live together in one home or ger. Making buuz together is a favorite family activity. Mongolian has special words for older and younger siblings (ах, эгч, дүү), so people say which one they mean.",
+  "mn": "Монголд гэр бүлийнхэн амралтын өдрүүдэд, ялангуяа Цагаан сараар нэг ширээний ард цуглаж хамтдаа хоол иддэг. Хэд хэдэн үе нэг гэр, байшинд хамт амьдрах нь элбэг. Бууз хамт хийх нь гэр бүлийн дуртай ажил. Монгол хэлэнд ах, эгч, дүү гэсэн тусдаа үгс байдаг тул хэнийг хэлж байгаагаа нарийн хэлдэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 11,
+  "notes": "Mostly good; main errors are an ungrammatical English alt, gender added to дүү in dialogue, and a weak distractor (тэй)."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 11,
+  "notes": "Mainly fixed plural spelling with нар, non-unique fill-blank options, and the grammar and culture mismatches.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "Misspelling: нар is written as a separate word (дүү нар)."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "'гэр бүл их' is not natural; олуулаа is the usual word for a big family."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "'хүүхэд нар' is colloquial; хүүхдүүд is the standard plural."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "нар is a separate word, and -ууд/-д are not mainly for people."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "en",
+    "why": "ах means older brother."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "Distractors were misspelled or non-existent forms."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'хэдэн' (several) could arguably fit the blank."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'persons' is also grammatical, so the answer was not the only correct option."
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "The suffix -ы on an English word is wrong."
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Манай is the natural choice with гэр бүл."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Now matches the English: weekends and Tsagaan Sar, and favorite family activity."
+   }
+  ]
+ }
+}

@@ -1,0 +1,418 @@
+{
+ "intro_en": "Learn how Mongolians cover a ger frame with felt and canvas to keep out wind and cold. You will also practice the movement words дээгүүр, доогуур, and гаднуур, and the English inseparable phrasal verbs look after, go over, and run into.",
+ "intro_mn": "Гэрийн модыг эсгий, бүрээсээр бүрж, салхи, хүйтнээс хэрхэн хамгаалдгийг сурна. Мөн дээгүүр, доогуур, гаднуур гэсэн хөдөлгөөн заасан үгс болон look after, go over, run into гэх мэт салдаггүй англи хэллэг үйл үгийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "эсгий",
+   "en": "felt",
+   "pos": "noun",
+   "example_mn": "Энэ эсгийг хонины ноосоор хийсэн.",
+   "example_en": "This felt is made from sheep's wool.",
+   "mn_latin": "esgii"
+  },
+  {
+   "mn": "бүрээс",
+   "en": "cover (outer canvas cover)",
+   "pos": "noun",
+   "example_mn": "Цагаан бүрээс бороонд норохгүй.",
+   "example_en": "The white cover doesn't get soaked in the rain.",
+   "mn_latin": "bürees"
+  },
+  {
+   "mn": "өрх",
+   "en": "smoke-hole cover (felt flap over the crown)",
+   "pos": "noun",
+   "example_mn": "Шөнө өрхөө хаагаарай.",
+   "example_en": "Close the smoke-hole cover at night.",
+   "mn_latin": "örkh"
+  },
+  {
+   "mn": "хаявч",
+   "en": "ger skirt (strip around the base of the walls)",
+   "pos": "noun",
+   "example_mn": "Өвөл хаявчийг шороогоор дардаг.",
+   "example_en": "In winter, people weigh the skirt down with earth.",
+   "mn_latin": "khayavch"
+  },
+  {
+   "mn": "дээвэр",
+   "en": "roof felt / roof covering",
+   "pos": "noun",
+   "example_mn": "Дээвэр эсгийг униудын дээгүүр тавина.",
+   "example_en": "You put the roof felt over the roof poles.",
+   "mn_latin": "deever"
+  },
+  {
+   "mn": "туурга",
+   "en": "wall felt",
+   "pos": "noun",
+   "example_mn": "Туургаа ханын гаднуур ороо.",
+   "example_en": "Wrap the wall felt around the outside of the lattice wall.",
+   "mn_latin": "tuurga"
+  },
+  {
+   "mn": "бүслүүр",
+   "en": "binding rope (around the ger)",
+   "pos": "noun",
+   "example_mn": "Гурван бүслүүр гэрийг тойруулан бүсэлдэг.",
+   "example_en": "Three binding ropes go all the way around the ger.",
+   "mn_latin": "büslüür"
+  },
+  {
+   "mn": "чангалах",
+   "en": "to tighten",
+   "pos": "verb",
+   "example_mn": "Бүслүүрээ сайн чангалаарай.",
+   "example_en": "Tighten the ropes well.",
+   "mn_latin": "changalakh"
+  },
+  {
+   "mn": "нөмрөх",
+   "en": "to drape over, to throw over",
+   "pos": "verb",
+   "example_mn": "Эсгийн дээгүүр бүрээс нөмрөнө.",
+   "example_en": "You drape the cover over the felt.",
+   "mn_latin": "nömrökh"
+  },
+  {
+   "mn": "дээгүүр",
+   "en": "over, across the top of",
+   "pos": "postposition",
+   "example_mn": "Салхи гэрийн дээгүүр исгэрч байна.",
+   "example_en": "The wind is whistling over the ger.",
+   "mn_latin": "deegüür"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эхлээд бид ханын гаднуур туурга ороосон.",
+   "en": "First, we wrapped the wall felts around the outside of the lattice walls.",
+   "alt_mn": [
+    "Эхлээд ханын гаднуур туурга ороосон."
+   ],
+   "alt_en": [
+    "First we wrapped the wall felts around the outside of the walls."
+   ],
+   "mn_latin": "Ekhleed bid khanyn gadnuur tuurga orooson."
+  },
+  {
+   "mn": "Дээвэр эсгийг униудын дээгүүр тавина.",
+   "en": "We put the roof felt over the roof poles.",
+   "alt_mn": [
+    "Дээвэр эсгийг униудын дээгүүр тавьдаг."
+   ],
+   "alt_en": [
+    "The roof felt goes over the roof poles."
+   ],
+   "mn_latin": "Deever esgiig uniudyn deegüür tavina."
+  },
+  {
+   "mn": "Эсгийн дээгүүр цагаан бүрээс нөмрөөрэй.",
+   "en": "Please drape the white cover over the felt.",
+   "alt_mn": [
+    "Цагаан бүрээсийг эсгийн дээгүүр нөмрөөрэй."
+   ],
+   "alt_en": [
+    "Please throw the white cover over the felt."
+   ],
+   "mn_latin": "Esgiin deegüür tsagaan bürees nömröörei."
+  },
+  {
+   "mn": "Салхи хаявчийн доогуур орж байна.",
+   "en": "The wind is getting in under the skirt.",
+   "alt_mn": [
+    "Хаявчийн доогуур салхи орж байна."
+   ],
+   "alt_en": [
+    "Wind is coming in under the skirt."
+   ],
+   "mn_latin": "Salkhi khayavchiin dooguur orj baina."
+  },
+  {
+   "mn": "Бүслүүрээ сайн чангалаарай, шөнө салхитай болно гэсэн.",
+   "en": "Tighten the ropes well; they say it'll get windy tonight.",
+   "alt_mn": [
+    "Бүслүүрээ сайн чангалаарай, шөнө салхи шуурна гэсэн."
+   ],
+   "alt_en": [
+    "Tighten the ropes well, because they say it will be windy tonight."
+   ],
+   "mn_latin": "Büslüüree sain changalaarai, shönö salkhitai bolno gesen."
+  },
+  {
+   "mn": "Бид өрхийг шөнө хааж, өглөө нээдэг.",
+   "en": "We close the smoke-hole cover at night and open it in the morning.",
+   "alt_mn": [
+    "Өрхийг шөнө хааж, өглөө нээдэг."
+   ],
+   "alt_en": [
+    "We shut the smoke-hole cover at night and open it in the morning."
+   ],
+   "mn_latin": "Bid örkhiig shönö khaaj, öglöö needeg."
+  },
+  {
+   "mn": "Ажлаа эхлэхээс өмнө төлөвлөгөөгөө дахин нэг харъя.",
+   "en": "Let's go over the plan once more before we start.",
+   "alt_mn": [
+    "Эхлэхээс өмнө төлөвлөгөөгөө дахиад нэг харъя."
+   ],
+   "alt_en": [
+    "Before we start, let's go over the plan one more time."
+   ],
+   "mn_latin": "Ajlaa ekhlekhees ömnö tölövlögöögöö dakhin neg kharya."
+  },
+  {
+   "mn": "Бид хойд талын ханан дээр нэг асуудалтай тулгарлаа.",
+   "en": "We ran into a problem with the north wall.",
+   "alt_mn": [
+    "Хойд талын хананд нэг асуудал гарлаа."
+   ],
+   "alt_en": [
+    "We ran into a problem on the north side wall."
+   ],
+   "mn_latin": "Bid khoid talyn khanan deer neg asuudaltai tulgarlaa."
+  },
+  {
+   "mn": "Намайг хотод байхад гэрээ сайн хараарай.",
+   "en": "Please look after the ger while I'm in the city.",
+   "alt_mn": [
+    "Би хотод байх хооронд гэрээ сайн хараарай."
+   ],
+   "alt_en": [
+    "Look after the ger while I'm in town."
+   ],
+   "mn_latin": "Namaig khotod baikhad geree sain kharaarai."
+  },
+  {
+   "mn": "Хүйтэн салхи орохгүйн тулд хаявчийг шороогоор дарна.",
+   "en": "We weigh the skirt down with earth so the cold wind doesn't get in.",
+   "alt_mn": [
+    "Хүйтэн салхи орохгүй байхын тулд хаявчийг шороогоор дардаг."
+   ],
+   "alt_en": [
+    "We press the skirt down with soil to keep the cold wind out."
+   ],
+   "mn_latin": "Khüiten salkhi orokhgüin tuld khayavchiig shoroogoor darna."
+  },
+  {
+   "mn": "Хоёр давхар эсгий өвлийн хүйтнээс сайн хамгаалдаг.",
+   "en": "Two layers of felt protect well against the winter cold.",
+   "alt_mn": [
+    "Хоёр давхар эсгий өвлийн хүйтнээс сайн хамгаална."
+   ],
+   "alt_en": [
+    "A double layer of felt keeps out the winter cold well."
+   ],
+   "mn_latin": "Khoyor davkhar esgii övliin khüitnees sain khamgaaldag."
+  },
+  {
+   "mn": "Би зах дээр хуучин хөрштэйгээ тааралдаад, тэр бүрээс тавихад тусалсан.",
+   "en": "I ran into my old neighbor at the market, and he helped put on the cover.",
+   "alt_mn": [
+    "Зах дээр хуучин хөрштэйгээ тааралдсан, тэр бүрээс тавихад тусалсан."
+   ],
+   "alt_en": [
+    "I ran into my former neighbor at the market, and he helped us put the cover on."
+   ],
+   "mn_latin": "Bi zakh deer khuuchin khörshteigee taaraldaad, ter bürees tavikhad tusalsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Moving over, under, and around: дээгүүр, доогуур, гаднуур",
+  "title_mn": "Дээгүүр, доогуур, гаднуур: дээгүүр, доогуур, гаднуур хөдлөх",
+  "explain_en": "Mongolian has special forms for movement along a path. Дээр means 'on' (a location), but дээгүүр means 'over, across the top of' (movement). In the same way, доогуур means 'under, passing beneath', and гаднуур means 'around the outside of'. Put the noun before them in the genitive case: эсгийн дээгүүр (over the felt), хаявчийн доогуур (under the skirt), ханын гаднуур (around the outside of the wall). Use them with verbs of motion or placing, such as нөмрөх, орох, ороох, and гарах.",
+  "explain_mn": "Монгол хэлэнд зам дагуух хөдөлгөөнийг заадаг тусгай хэлбэрүүд байдаг. 'Дээр' нь байршил заадаг ('дээр нь'), харин 'дээгүүр' нь дээд талаар нь хөдлөхийг заана. Үүнтэй адил 'доогуур' нь доод талаар нь нэвтрэх, 'гаднуур' нь гадна талаар нь тойрохыг заана. Өмнөх нэр үгийг харьяалахын тийн ялгалаар хэлнэ: эсгийн дээгүүр, хаявчийн доогуур, ханын гаднуур. Эдгээрийг нөмрөх, орох, ороох, гарах зэрэг хөдөлгөөн, байрлуулах утгатай үйл үгтэй хамт хэрэглэнэ.",
+  "examples": [
+   {
+    "mn": "Эсгийн дээгүүр бүрээс нөмрөнө.",
+    "en": "You drape the cover over the felt.",
+    "mn_latin": "Esgiin deegüür bürees nömrönö."
+   },
+   {
+    "mn": "Муур хаявчийн доогуур орж ирлээ.",
+    "en": "The cat came in under the skirt.",
+    "mn_latin": "Muur khayavchiin dooguur orj irlee."
+   },
+   {
+    "mn": "Бүслүүрийг туургын гаднуур ороо.",
+    "en": "Wrap the rope around the outside of the wall felts.",
+    "mn_latin": "Büslüüriig tuurgyn gadnuur oroo."
+   },
+   {
+    "mn": "Хүүхдүүдээ сайн хараарай, бид дүрмээ дахин нэг харъя.",
+    "en": "Look after the kids, and let's go over the rules again.",
+    "mn_latin": "Khüükhdüüdee sain kharaarai, bid dürmee dakhin neg kharya."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эсгийн ___ бүрээс нөмрөнө.",
+   "answer": "дээгүүр",
+   "options": [
+    "дээгүүр",
+    "доогуур",
+    "гаднуур",
+    "дотор"
+   ],
+   "translation": "You drape the cover over the felt.",
+   "explain_en": "The cover is placed across the top of the felt, so you need дээгүүр, 'over'. Доогуур means 'under' and гаднуур means 'around the outside'.",
+   "explain_mn": "Бүрээсийг эсгийн дээд талаар нөмрөх тул 'дээгүүр' зөв. Доогуур нь доод талаар, гаднуур нь гадна талаар тойрохыг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Туургаа ханын ___ ороосон.",
+   "answer": "гаднуур",
+   "options": [
+    "гаднуур",
+    "дээгүүр",
+    "доогуур",
+    "дотор"
+   ],
+   "translation": "We wrapped the wall felt around the outside of the lattice wall.",
+   "explain_en": "Wall felts go around the outside of the lattice, so гаднуур, 'around the outside of', fits.",
+   "explain_mn": "Туургыг ханын гадна талаар тойруулан ороодог тул 'гаднуур' зөв."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүйтэн салхи хаявчийн ___ орж байна.",
+   "answer": "доогуур",
+   "options": [
+    "доогуур",
+    "дээгүүр",
+    "гаднуур",
+    "дээр"
+   ],
+   "translation": "Cold wind is getting in under the skirt.",
+   "explain_en": "The wind slips in beneath the skirt, so you need доогуур, 'under' (movement). Дээр only shows a location ('on').",
+   "explain_mn": "Салхи хаявчийн доод талаар нэвтэрч байгаа тул 'доогуур' зөв. 'Дээр' нь байршил заадаг, хөдөлгөөн заадаггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Could you look ___ the ger while I'm away?",
+   "answer": "after",
+   "options": [
+    "after",
+    "over",
+    "into",
+    "up"
+   ],
+   "translation": "Намайг эзгүй байхад гэрийг хараад байж чадах уу?",
+   "explain_en": "'Look after' means to take care of something. 'Look over' means to check quickly, 'look into' means to investigate, and 'look up' means to search for information.",
+   "explain_mn": "'Look after' нь асран хамгаалах, харж байх гэсэн утгатай. 'Look over' нь гүйлгэн шалгах, 'look into' нь судлах, 'look up' нь мэдээлэл хайх гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "Let's go ___ the steps once more before we lift the roof felt.",
+   "answer": "over",
+   "options": [
+    "over",
+    "after",
+    "into",
+    "off"
+   ],
+   "translation": "Дээвэр эсгийг өргөхөөсөө өмнө алхмуудаа дахин нэг нягталъя.",
+   "explain_en": "'Go over' means to review something carefully.",
+   "explain_mn": "'Go over' нь ямар нэг зүйлийг дахин хянах, нягтлах гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "We ran ___ a problem when the rope broke.",
+   "answer": "into",
+   "options": [
+    "into",
+    "over",
+    "after",
+    "out"
+   ],
+   "translation": "Олс тасрахад бид асуудалтай тулгарсан.",
+   "explain_en": "'Run into a problem' means to meet an unexpected difficulty. 'Run out' would need 'of' and means to have none left.",
+   "explain_mn": "'Run into a problem' нь гэнэтийн асуудалтай тулгарах гэсэн утгатай. 'Run out (of)' нь дуусах, барагдах гэсэн өөр утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Эмили, туурга ороож дууслаа. Одоо дээвэр эсгийг униудын дээгүүр тавина.",
+   "en": "Emily, we've finished wrapping the wall felts. Now we put the roof felt over the roof poles.",
+   "mn_latin": "Emili, tuurga orooj duuslaa. Odoo deever esgiig uniudyn deegüür tavina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "За. Эхлээд алхмуудаа дахин нэг харъя, би бүгдийг санахгүй байна.",
+   "en": "Okay. Let's go over the steps once more first. I don't remember everything.",
+   "mn_latin": "Za. Ekhleed alkhmuudaa dakhin neg kharya, bi bügdiig sanakhgüi baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Дээвэр эсгийн дээгүүр цагаан бүрээс нөмрөөд, дараа нь бүслүүрээ чангалана.",
+   "en": "We drape the white cover over the roof felt, and then we tighten the ropes.",
+   "mn_latin": "Deever esgiin deegüür tsagaan bürees nömrööd, daraa ni büslüüree changalana."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Хаявчийн доогуур салхи орж байна. Яах вэ?",
+   "en": "Wind is getting in under the skirt. What should we do?",
+   "mn_latin": "Khayavchiin dooguur salkhi orj baina. Yaakh ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Хаявчийг шороогоор дарчихъя. Өвөл бол заавал ингэдэг.",
+   "en": "Let's weigh the skirt down with earth. In winter we always do that.",
+   "mn_latin": "Khayavchiig shoroogoor darchikhya. Övöl bol zaaval ingedeg."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Өчигдөр би зах дээр Сараатай тааралдсан. Маргааш тусална гэсэн.",
+   "en": "Yesterday I ran into Saraa at the market. She said she'd help tomorrow.",
+   "mn_latin": "Öchigdör bi zakh deer Saraatai taaraldsan. Margaash tusalna gesen."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Сайн байна. Маргааш намайг хотод байхад гэрээ сайн хараарай.",
+   "en": "Great. Tomorrow, while I'm in the city, please look after the ger.",
+   "mn_latin": "Sain baina. Margaash namaig khotod baikhad geree sain kharaarai."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Санаа зоволтгүй. Шөнө өрхийг нь хааж, галаа унтраалгүй түлээд байя.",
+   "en": "Don't worry. At night I'll close the smoke-hole cover and keep the fire going.",
+   "mn_latin": "Sanaa zovoltgüi. Shönö örkhiig ni khaaj, galaa untraalgüi tüleed baiya."
+  }
+ ],
+ "culture_note": {
+  "en": "Ger felt is traditionally made in autumn by beating and rolling sheep's wool, and families often celebrate the work with milk offerings and wishes for a warm home. In winter, herders add extra layers of felt and weigh the skirt down with earth or snow. In summer, they lift the bottom of the wall felts so a cool breeze can pass through.",
+  "mn": "Гэрийн эсгийг уламжлал ёсоор намар хонины ноосыг савж, өнхрүүлж хийдэг бөгөөд гэрийн дулаан, аз жаргалыг ерөөн сүү өргөдөг. Өвөл малчид эсгийгээ давхарлаж, хаявчийг шороо эсвэл цасаар дардаг. Зун туургаа сөхөж, сэрүүн салхи оруулдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 15,
+  "notes": "A solid, coherent lesson. The main problems are the misspelling 'хаяавч' (should be 'хаявч') throughout, plus a few non-words ('мөөр', 'сабаадаж') and one unnatural dialogue line."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 3,
+  "notes": "Fixed the mn grammar section, which explained a different topic from en, and corrected one verb form.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn covered phrasal verbs, while title_en covers дээгүүр/доогуур/гаднуур"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn was about phrasal verbs and did not match explain_en"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "verb form: чангална should be чангалана"
+   }
+  ]
+ }
+}

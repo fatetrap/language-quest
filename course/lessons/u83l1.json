@@ -1,0 +1,414 @@
+{
+ "intro_en": "In this lesson you'll learn how to set up a new account, choose a strong password, and talk about logins and two-factor authentication. You'll also learn how to complain when a system keeps asking you for something again and again.",
+ "intro_mn": "Энэ хичээлээр та шинэ бүртгэл үүсгэх, хүчтэй нууц үг сонгох, нэвтрэлт болон давхар баталгаажуулалтын талаар ярьж сурна. Мөн систем ямар нэг юмыг дахин дахин шаардахад энэ талаар хэрхэн гомдоллохыг сурна.",
+ "vocab": [
+  {
+   "mn": "нууц үг",
+   "en": "password",
+   "pos": "noun",
+   "example_mn": "Таны нууц үг дор хаяж найман тэмдэгттэй байх ёстой.",
+   "example_en": "Your password must be at least eight characters long.",
+   "mn_latin": "nuuts üg"
+  },
+  {
+   "mn": "нэвтрэх",
+   "en": "to log in, to sign in",
+   "pos": "verb",
+   "example_mn": "Би имэйл хаягаараа нэвтэрлээ.",
+   "example_en": "I logged in with my email address.",
+   "mn_latin": "nevtrekh"
+  },
+  {
+   "mn": "бүртгэл",
+   "en": "account; registration",
+   "pos": "noun",
+   "example_mn": "Би шинэ бүртгэл үүсгэсэн.",
+   "example_en": "I created a new account.",
+   "mn_latin": "bürtgel"
+  },
+  {
+   "mn": "хэрэглэгчийн нэр",
+   "en": "username",
+   "pos": "noun",
+   "example_mn": "Энэ хэрэглэгчийн нэр аль хэдийн бүртгэлтэй байна.",
+   "example_en": "This username is already taken.",
+   "mn_latin": "khereglegchiin ner"
+  },
+  {
+   "mn": "давхар баталгаажуулалт",
+   "en": "two-factor authentication",
+   "pos": "noun",
+   "example_mn": "Давхар баталгаажуулалтыг заавал асаагаарай.",
+   "example_en": "Be sure to turn on two-factor authentication.",
+   "mn_latin": "davkhar batalgaajuulalt"
+  },
+  {
+   "mn": "бүртгүүлэх",
+   "en": "to sign up, to register",
+   "pos": "verb",
+   "example_mn": "Та энэ сайтад утасны дугаараараа бүртгүүлж болно.",
+   "example_en": "You can sign up on this site with your phone number.",
+   "mn_latin": "bürtgüülekh"
+  },
+  {
+   "mn": "солих",
+   "en": "to change",
+   "pos": "verb",
+   "example_mn": "Нууц үгээ гурван сар тутам солиорой.",
+   "example_en": "Change your password every three months.",
+   "mn_latin": "solikh"
+  },
+  {
+   "mn": "мартах",
+   "en": "to forget",
+   "pos": "verb",
+   "example_mn": "Би нууц үгээ дахиад мартчихлаа.",
+   "example_en": "I forgot my password again.",
+   "mn_latin": "martakh"
+  },
+  {
+   "mn": "баталгаажуулах код",
+   "en": "verification code",
+   "pos": "noun",
+   "example_mn": "Утсанд тань баталгаажуулах код ирсэн үү?",
+   "example_en": "Did you get a verification code on your phone?",
+   "mn_latin": "batalgaajuulakh kod"
+  },
+  {
+   "mn": "гарах",
+   "en": "to log out (of an account); to exit",
+   "pos": "verb",
+   "example_mn": "Нийтийн компьютер дээр бүртгэлээсээ заавал гараарай.",
+   "example_en": "Always log out of your account on a public computer.",
+   "mn_latin": "garakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Сайт нууц үгээ соль гээд байна.",
+   "en": "The site keeps asking me to change my password.",
+   "alt_mn": [
+    "Сайт намайг нууц үгээ соль гээд байна."
+   ],
+   "alt_en": [
+    "The site keeps telling me to change my password.",
+    "The website keeps asking me to change my password."
+   ],
+   "mn_latin": "Sait nuuts ügee soli geed baina."
+  },
+  {
+   "mn": "Би нэвтрэх гээд байна, гэхдээ болохгүй байна.",
+   "en": "I keep trying to log in, but it isn't working.",
+   "alt_mn": [
+    "Би нэвтрэх гээд л байна, гэхдээ болохгүй байна."
+   ],
+   "alt_en": [
+    "I keep trying to log in, but it doesn't work.",
+    "I keep trying to sign in, but it isn't working."
+   ],
+   "mn_latin": "Bi nevtrekh geed baina, gekhdee bolokhgüi baina."
+  },
+  {
+   "mn": "Апп надаас баталгаажуулах код асуугаад байна.",
+   "en": "The app keeps asking me for a verification code.",
+   "alt_mn": [
+    "Апп баталгаажуулах код асуугаад байна."
+   ],
+   "alt_en": [
+    "The app keeps asking me for a confirmation code."
+   ],
+   "mn_latin": "App nadaas batalgaajuulakh kod asuugaad baina."
+  },
+  {
+   "mn": "Хүчтэй нууц үг том, жижиг үсэг, тоо, тэмдэгттэй байх ёстой.",
+   "en": "A strong password should have uppercase and lowercase letters, numbers, and symbols.",
+   "alt_mn": [
+    "Хүчтэй нууц үгэнд том, жижиг үсэг, тоо, тэмдэгт байх ёстой."
+   ],
+   "alt_en": [
+    "A strong password should contain uppercase and lowercase letters, numbers, and symbols."
+   ],
+   "mn_latin": "Khüchtei nuuts üg tom, jijig üseg, too, temdegttei baikh yostoi."
+  },
+  {
+   "mn": "Энэ хэрэглэгчийн нэр аль хэдийн бүртгэлтэй гээд байна.",
+   "en": "It keeps saying this username is already taken.",
+   "alt_mn": [],
+   "alt_en": [
+    "It keeps telling me this username is already taken."
+   ],
+   "mn_latin": "Ene khereglegchiin ner ali khediin bürtgeltei geed baina."
+  },
+  {
+   "mn": "Төрсөн өдрөө нууц үг болгож болохгүй.",
+   "en": "You shouldn't use your birthday as a password.",
+   "alt_mn": [
+    "Төрсөн өдрөө нууц үгээ болгож болохгүй."
+   ],
+   "alt_en": [
+    "Don't use your birthday as a password.",
+    "You shouldn't make your birthday your password."
+   ],
+   "mn_latin": "Törsön ödröö nuuts üg bolgoj bolokhgüi."
+  },
+  {
+   "mn": "Давхар баталгаажуулалтыг асаасны дараа би илүү тайван байна.",
+   "en": "I feel safer since I turned on two-factor authentication.",
+   "alt_mn": [
+    "Давхар баталгаажуулалт асаасны дараа би илүү тайван болсон."
+   ],
+   "alt_en": [
+    "I feel more at ease since I turned on two-factor authentication.",
+    "After turning on two-factor authentication, I feel safer."
+   ],
+   "mn_latin": "Davkhar batalgaajuulaltyg asaasny daraa bi ilüü taivan baina."
+  },
+  {
+   "mn": "Дүү маань миний бүртгэлээр нэвтрэх гээд байна.",
+   "en": "My younger brother keeps trying to log into my account.",
+   "alt_mn": [
+    "Миний дүү миний бүртгэлээр нэвтрэх гээд байна."
+   ],
+   "alt_en": [
+    "My younger sister keeps trying to log into my account.",
+    "My younger sibling keeps trying to log into my account."
+   ],
+   "mn_latin": "Düü maani minii bürtgeleer nevtrekh geed baina."
+  },
+  {
+   "mn": "Нууц үгээ мартсан бол «Нууц үг сэргээх» дээр дарна уу.",
+   "en": "If you forgot your password, please click \"Reset password.\"",
+   "alt_mn": [
+    "Нууц үгээ мартсан бол «Нууц үг сэргээх» гэсэн товч дээр дарна уу."
+   ],
+   "alt_en": [
+    "If you've forgotten your password, click \"Reset password.\""
+   ],
+   "mn_latin": "Nuuts ügee martsan bol «Nuuts üg sergeekh» deer darna uu."
+  },
+  {
+   "mn": "Банкны апп намайг дахин нэвтэр гээд байна.",
+   "en": "The banking app keeps telling me to log in again.",
+   "alt_mn": [
+    "Банкны апп дахин нэвтэр гээд байна."
+   ],
+   "alt_en": [
+    "The bank app keeps asking me to log in again."
+   ],
+   "mn_latin": "Bankny app namaig dakhin nevter geed baina."
+  },
+  {
+   "mn": "Би өмнө нь олон сайтад нэг л нууц үг ашигладаг байсан, одоо больсон.",
+   "en": "I used to use the same password on lots of sites, but I've stopped.",
+   "alt_mn": [],
+   "alt_en": [
+    "I used to use one password for many sites, but I don't anymore."
+   ],
+   "mn_latin": "Bi ömnö ni olon saitad neg l nuuts üg ashigladag baisan, odoo bolison."
+  },
+  {
+   "mn": "Шинэ бүртгэл үүсгэхэд хэдхэн минут л болно.",
+   "en": "Creating a new account only takes a few minutes.",
+   "alt_mn": [
+    "Шинэ бүртгэл үүсгэхэд хэдхэн минут л зарцуулна."
+   ],
+   "alt_en": [
+    "It only takes a few minutes to create a new account.",
+    "Setting up a new account only takes a few minutes."
+   ],
+   "mn_latin": "Shine bürtgel üüsgekhed khedkhen minut l bolno."
+  }
+ ],
+ "grammar": {
+  "title_en": "Something keeps happening: -х гээд байна / keep + -ing",
+  "title_mn": "Дахин дахин давтагдах үйл: -х гээд байна / keep + -ing",
+  "explain_en": "Mongolian uses гээд байна to describe something that keeps happening, often with a note of annoyance. There are two common patterns. (1) Verb + -х гээд байна means \"keeps trying/wanting to do\": Би нэвтрэх гээд байна = \"I keep trying to log in.\" (2) A quoted command or statement + гээд байна means \"keeps saying\": Сайт нууц үгээ соль гээд байна = \"The site keeps saying 'change your password.'\" (гэх = to say, гээд байна = keeps saying). In the second pattern the quoted verb is in the command form (соль, нэвтэр), not the -х form. A related pattern, verb + -аад/-ээд/-оод байна (асуугаад байна), simply means \"keeps doing.\"",
+  "explain_mn": "Англи хэлэнд ямар нэг үйл дахин дахин давтагдаж байгааг (ихэвчлэн залхаж, бухимдаж буйгаа илэрхийлэхдээ) keep + үйл үг-ing хэлбэрээр хэлдэг. Жишээ нь: The site keeps asking me to change my password — «Сайт нууц үгээ соль гээд байна». I keep forgetting my password — «Би нууц үгээ мартаад байна». keep-ийн дараа заавал -ing хэлбэр орно: keep to ask, keep ask гэж хэлэхгүй. Хүнд хандсан шаардлага бол keep asking/telling me to + үйл үг гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "Би нэвтрэх гээд байна, гэхдээ нууц үг буруу гэнэ.",
+    "en": "I keep trying to log in, but it says the password is wrong.",
+    "mn_latin": "Bi nevtrekh geed baina, gekhdee nuuts üg buruu gene."
+   },
+   {
+    "mn": "Систем намайг нууц үгээ соль гээд байна.",
+    "en": "The system keeps telling me to change my password.",
+    "mn_latin": "Sistyem namaig nuuts ügee soli geed baina."
+   },
+   {
+    "mn": "Утас маань намайг бүртгэлээс гаргаад байна.",
+    "en": "My phone keeps logging me out of my account.",
+    "mn_latin": "Utas maani namaig bürtgelees gargaad baina."
+   },
+   {
+    "mn": "Би нууц үгээ мартаад байна.",
+    "en": "I keep forgetting my password.",
+    "mn_latin": "Bi nuuts ügee martaad baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би нэвтрэх ___ байна, гэхдээ нууц үг буруу гэнэ.",
+   "answer": "гээд",
+   "options": [
+    "гээд",
+    "гэхэд",
+    "гэсэн",
+    "гэвэл"
+   ],
+   "translation": "I keep trying to log in, but it says the password is wrong.",
+   "explain_en": "The pattern for \"keep trying to\" is verb + -х гээд байна. Only гээд fits before байна here; гэхэд, гэсэн and гэвэл are other forms of гэх with different meanings.",
+   "explain_mn": "«Дахин дахин оролдох» утгыг -х гээд байна хэлбэрээр илэрхийлнэ. байна-гийн өмнө гээд л зөв таарна."
+  },
+  {
+   "lang": "mn",
+   "text": "Сайт нууц үгээ ___ гээд байна.",
+   "answer": "соль",
+   "options": [
+    "соль",
+    "солих",
+    "сольсон",
+    "солиод"
+   ],
+   "translation": "The site keeps telling me to change my password.",
+   "explain_en": "Here the site is \"saying\" a command, so the quoted verb takes the command form соль (\"change!\"). Солих гээд байна would mean the site itself keeps trying to change something, which doesn't make sense.",
+   "explain_mn": "Сайтын хэлж буй тушаалыг иш татаж байгаа тул захирах хэлбэр соль орно. «Солих гээд байна» гэвэл сайт өөрөө солих гээд байгаа мэт утгатай болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Шинэ ___ үүсгэхийн тулд имэйл хаягаа оруулна уу.",
+   "answer": "бүртгэл",
+   "options": [
+    "бүртгэл",
+    "нэвтрэх",
+    "гарах",
+    "солих"
+   ],
+   "translation": "To create a new account, please enter your email address.",
+   "explain_en": "Бүртгэл үүсгэх means \"to create an account.\" Нэвтрэх, гарах and солих are verbs, so they can't be the object of үүсгэх here.",
+   "explain_mn": "«Бүртгэл үүсгэх» гэдэг нь тогтсон хэллэг. Нэвтрэх, гарах, солих бол үйл үг тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The site keeps ___ me to change my password.",
+   "answer": "asking",
+   "options": [
+    "asking",
+    "ask",
+    "to ask",
+    "asked"
+   ],
+   "translation": "Сайт нууц үгээ соль гээд байна.",
+   "explain_en": "After keep, the verb always takes the -ing form: keep asking.",
+   "explain_mn": "keep-ийн дараа үйл үг заавал -ing хэлбэртэй орно: keep asking. «keep to ask», «keep ask» гэж болохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I keep ___ my password, so I wrote it down.",
+   "answer": "forgetting",
+   "options": [
+    "forgetting",
+    "forget",
+    "forgot",
+    "to forget"
+   ],
+   "translation": "Би нууц үгээ мартаад байгаа болохоор цаасан дээр бичиж авсан.",
+   "explain_en": "Keep + -ing describes something that happens again and again: keep forgetting.",
+   "explain_mn": "Давтагдаж буй үйлийг keep + -ing-ээр илэрхийлнэ: keep forgetting — мартаад байна."
+  },
+  {
+   "lang": "en",
+   "text": "My phone keeps ___ me out of the app.",
+   "answer": "logging",
+   "options": [
+    "logging",
+    "log",
+    "logged",
+    "to log"
+   ],
+   "translation": "Утас маань намайг аппаас гаргаад байна.",
+   "explain_en": "Log out becomes keep logging (someone) out. The -ing goes on log, and out stays after the object.",
+   "explain_mn": "log out (гаргах) гэдэг хэллэг keep-тэй хамт keep logging me out болно. -ing нь log дээр залгагдана."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Билгүүн, би шинэ бүртгэл үүсгэх гээд байна, гэхдээ болохгүй байна.",
+   "en": "Bilguun, I keep trying to create a new account, but it isn't working.",
+   "mn_latin": "Bilgüün, bi shine bürtgel üüsgekh geed baina, gekhdee bolokhgüi baina."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Юу гээд байна?",
+   "en": "What does it keep saying?",
+   "mn_latin": "Yuu geed baina?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "«Нууц үг хэт сул байна» гээд байна. Би «saraa123» гэж бичсэн юм.",
+   "en": "It keeps saying \"Password is too weak.\" I typed \"saraa123.\"",
+   "mn_latin": "«Nuuts üg khet sul baina» geed baina. Bi «saraa123» gej bichsen yum."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Тийм болохоор л тэр. Том, жижиг үсэг, тоо, тэмдэгт холиод урт нууц үг үүсгэ.",
+   "en": "Well, that's why. Make a long password that mixes uppercase and lowercase letters, numbers, and symbols.",
+   "mn_latin": "Tiim bolokhoor l ter. Tom, jijig üseg, too, temdegt kholiod urt nuuts üg üüsge."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, одоо болчихлоо. Харин утсанд маань код ирлээ.",
+   "en": "OK, that worked. But now a code came to my phone.",
+   "mn_latin": "Za, odoo bolchikhloo. Kharin utsand maani kod irlee."
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Энэ бол давхар баталгаажуулалт. Тэр кодыг хэнд ч битгий хэлээрэй.",
+   "en": "That's two-factor authentication. Don't share that code with anyone.",
+   "mn_latin": "Ene bol davkhar batalgaajuulalt. Ter kodyg khend ch bitgii kheleerei."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ойлголоо. Гэхдээ одоо хэрэглэгчийн нэр минь бүртгэлтэй гээд байна шүү дээ!",
+   "en": "Got it. But now it keeps saying my username is already taken!",
+   "mn_latin": "Oilgoloo. Gekhdee odoo khereglegchiin ner mini bürtgeltei geed baina shüü dee!"
+  },
+  {
+   "speaker": "Билгүүн",
+   "mn": "Ард нь өөр тоо нэмээд үз. Харин төрсөн оноо битгий бичээрэй.",
+   "en": "Try adding a different number at the end. Just don't use your birth year.",
+   "mn_latin": "Ard ni öör too nemeed üz. Kharin törsön onoo bitgii bicheerei."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, many people access government services through the E-Mongolia platform, and banking apps rely heavily on SMS verification codes. Because Facebook and Messenger are so widely used, scams where someone takes over an account and asks friends for money or codes are common. That's why banks and the police keep reminding people never to share a verification code with anyone.",
+  "mn": "Монголд олон хүн төрийн үйлчилгээг E-Mongolia платформоор авдаг бөгөөд банкны аппууд SMS баталгаажуулах кодыг өргөн ашигладаг. Фэйсбүүк, Мессенжерийг маш олон хүн хэрэглэдэг тул бүртгэлийг нь хакердаад найз нөхдөөс нь мөнгө эсвэл код гуйдаг луйвар түгээмэл байдаг. Тиймээс банк, цагдаагийнхан баталгаажуулах кодыг хэнд ч бүү хэл гэж байнга сануулдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 7,
+  "notes": "Natural, accurate lesson. The main problems were two fill-in-the-blank items that had more than one valid answer, plus a couple of awkward Mongolian phrases."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "The lesson is solid overall: one incomplete grammar example and one unnatural collocation in the dialogue.",
+  "changes": [
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "The object 'me' (намайг) was missing, which made the sentence incomplete and unclear."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "'Нууц үг үүсгэх' is the standard collocation; 'гарга' is unnatural here."
+   }
+  ]
+ }
+}

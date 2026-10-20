@@ -1,0 +1,414 @@
+{
+ "intro_en": "Sit down with a grandmother who knows the herbs of the steppe. You'll learn the vocabulary of medicinal plants, roots, decoctions and doses. You'll also learn to give polite, well-reasoned advice with the Mongolian form -х нь зүйтэй (\"it is advisable to…\").",
+ "intro_mn": "Тал нутгийн ургамлыг сайн мэддэг эмээтэй ярилцъя. Эмийн ургамал, үндэс, тан, эмийн тунгийн талаарх үгсийг сурна. Мөн англи хэлээр \"it is advisable to / that…\" гэсэн хэлбэрээр эелдэг, үндэслэлтэй зөвлөгөө өгч сурна.",
+ "vocab": [
+  {
+   "mn": "эмийн ургамал",
+   "en": "medicinal plant",
+   "pos": "noun",
+   "example_mn": "Энэ хөндийд олон төрлийн эмийн ургамал ургадаг.",
+   "example_en": "Many kinds of medicinal plants grow in this valley.",
+   "mn_latin": "emiin urgamal"
+  },
+  {
+   "mn": "үндэс",
+   "en": "root",
+   "pos": "noun",
+   "example_mn": "Эмээ ургамлын үндсийг сайтар угаав.",
+   "example_en": "Grandma washed the plant roots thoroughly.",
+   "mn_latin": "ündes"
+  },
+  {
+   "mn": "тан",
+   "en": "decoction (herbal brew)",
+   "pos": "noun",
+   "example_mn": "Эмээ ургамлын үндсээр тан чанажээ.",
+   "example_en": "Grandma boiled a decoction from the roots.",
+   "mn_latin": "tan"
+  },
+  {
+   "mn": "ганга",
+   "en": "wild thyme",
+   "pos": "noun",
+   "example_mn": "Гангын цай ханиадад сайн.",
+   "example_en": "Thyme tea is good for a cold.",
+   "mn_latin": "ganga"
+  },
+  {
+   "mn": "чацаргана",
+   "en": "sea buckthorn",
+   "pos": "noun",
+   "example_mn": "Чацарганы тос шархыг эдгээдэг.",
+   "example_en": "Sea buckthorn oil heals wounds.",
+   "mn_latin": "chatsargana"
+  },
+  {
+   "mn": "гишүүнэ",
+   "en": "rhubarb",
+   "pos": "noun",
+   "example_mn": "Гишүүний үндсийг эмэнд хэрэглэдэг.",
+   "example_en": "Rhubarb root is used as medicine.",
+   "mn_latin": "gishüüne"
+  },
+  {
+   "mn": "шарсан",
+   "en": "roasted",
+   "pos": "adjective",
+   "example_mn": "Шарсан арвайг цайнд хийдэг.",
+   "example_en": "Roasted barley is added to tea.",
+   "mn_latin": "sharsan"
+  },
+  {
+   "mn": "ундаа",
+   "en": "drink, beverage",
+   "pos": "noun",
+   "example_mn": "Эмээ чацарганы ундаа хийв.",
+   "example_en": "Grandma made a sea buckthorn drink.",
+   "mn_latin": "undaa"
+  },
+  {
+   "mn": "хэмжээ",
+   "en": "amount, dose",
+   "pos": "noun",
+   "example_mn": "Хэмжээг нь хэтрүүлж болохгүй.",
+   "example_en": "You must not exceed the dose.",
+   "mn_latin": "khemjee"
+  },
+  {
+   "mn": "зүйтэй",
+   "en": "advisable, proper",
+   "pos": "adjective",
+   "example_mn": "Эмчтэй зөвлөлдөх нь зүйтэй.",
+   "example_en": "It is advisable to consult a doctor.",
+   "mn_latin": "züitei"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Гангын цайг өглөө өлөн элгэн дээрээ уух нь зүйтэй.",
+   "en": "It is advisable to drink thyme tea in the morning on an empty stomach.",
+   "alt_mn": [
+    "Гангын цайг өглөө юм идэхээсээ өмнө уух нь зүйтэй."
+   ],
+   "alt_en": [
+    "It's advisable to drink thyme tea first thing in the morning on an empty stomach."
+   ],
+   "mn_latin": "Gangyn tsaig öglöö ölön elgen deeree uukh ni züitei."
+  },
+  {
+   "mn": "Эмийн ургамлыг намрын эхээр, хуурай өдөр түүх нь зүйтэй.",
+   "en": "It is advisable to gather medicinal plants in early autumn, on a dry day.",
+   "alt_mn": [],
+   "alt_en": [
+    "It is advisable to pick medicinal plants in early fall, on a dry day."
+   ],
+   "mn_latin": "Emiin urgamlyg namryn ekheer, khuurai ödör tüükh ni züitei."
+  },
+  {
+   "mn": "Үндсийг сайтар угааж, сүүдэрт хатаах нь зүйтэй.",
+   "en": "It is advisable to wash the roots thoroughly and dry them in the shade.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ündsiig saitar ugaaj, süüdert khataakh ni züitei."
+  },
+  {
+   "mn": "Эмээ маань өвөл бүр чацарганы ундаа хийдэг.",
+   "en": "My grandmother makes sea buckthorn drink every winter.",
+   "alt_mn": [
+    "Манай эмээ өвөл бүр чацарганы ундаа хийдэг."
+   ],
+   "alt_en": [
+    "My grandma makes a sea buckthorn drink every winter."
+   ],
+   "mn_latin": "Emee maani övöl bür chatsargany undaa khiideg."
+  },
+  {
+   "mn": "Хэмжээг нь хэтрүүлэхгүй байх нь зүйтэй.",
+   "en": "It is advisable not to exceed the dose.",
+   "alt_mn": [],
+   "alt_en": [
+    "It is advisable not to go over the dose."
+   ],
+   "mn_latin": "Khemjeeg ni khetrüülekhgüi baikh ni züitei."
+  },
+  {
+   "mn": "Шарсан арвайг цайнд хийвэл ходоодонд сайн гэж эмээ хэлдэг.",
+   "en": "Grandma says that roasted barley in tea is good for the stomach.",
+   "alt_mn": [],
+   "alt_en": [
+    "Grandma says roasted barley added to tea is good for the stomach."
+   ],
+   "mn_latin": "Sharsan arvaig tsaind khiivel khodoodond sain gej emee kheldeg."
+  },
+  {
+   "mn": "Жирэмсэн эмэгтэйчүүд энэ ургамлыг хэрэглэхээсээ өмнө эмчтэй зөвлөлдөх нь зүйтэй.",
+   "en": "It is advisable that pregnant women consult a doctor before using this plant.",
+   "alt_mn": [],
+   "alt_en": [
+    "It is advisable for pregnant women to consult a doctor before using this plant."
+   ],
+   "mn_latin": "Jiremsen emegteichüüd ene urgamlyg khereglekheesee ömnö emchtei zövlöldökh ni züitei."
+  },
+  {
+   "mn": "Гишүүний үндсийг их хэмжээгээр уувал гэдэс суулгадаг.",
+   "en": "Taken in large amounts, rhubarb root causes diarrhea.",
+   "alt_mn": [],
+   "alt_en": [
+    "If you take rhubarb root in large amounts, it causes diarrhea."
+   ],
+   "mn_latin": "Gishüünii ündsiig ikh khemjeegeer uuval gedes suulgadag."
+  },
+  {
+   "mn": "Хатаасан ургамлыг цаасан уутанд хийж, хуурай газар хадгалах нь зүйтэй.",
+   "en": "It is advisable to put dried herbs in paper bags and store them in a dry place.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Khataasan urgamlyg tsaasan uutand khiij, khuurai gazar khadgalakh ni züitei."
+  },
+  {
+   "mn": "Халуурч байвал гангын цайг бүлээн байхад нь уух нь зүйтэй гэж эмээ зөвлөсөн.",
+   "en": "Grandma advised that if you have a fever, you should drink the thyme tea while it is warm.",
+   "alt_mn": [],
+   "alt_en": [
+    "Grandma advised drinking thyme tea while it's warm if you have a fever."
+   ],
+   "mn_latin": "Khaluurch baival gangyn tsaig büleen baikhad ni uukh ni züitei gej emee zövlösön."
+  },
+  {
+   "mn": "Ер нь ямар ч ургамлын эмийг удаан хугацаагаар тасралтгүй уухгүй байх нь зүйтэй.",
+   "en": "In general, it is advisable not to take any herbal remedy continuously for a long time.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Yer ni yamar ch urgamlyn emiig udaan khugatsaagaar tasraltgüi uukhgüi baikh ni züitei."
+  },
+  {
+   "mn": "Эмээгийн маань ургамлын талаарх мэдлэг ямар ч номноос илүү үнэ цэнэтэй.",
+   "en": "My grandmother's knowledge of plants is more valuable than any book.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Emeegiin maani urgamlyn talaarkh medleg yamar ch nomnoos ilüü üne tsenetei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Giving advice: verb + -х нь зүйтэй",
+  "title_mn": "Зөвлөгөө өгөх: It is advisable to / that…",
+  "explain_en": "To give polite, reasoned advice, take the verb's infinitive form in -х (уух, түүх, хатаах), add the particle нь, and finish with зүйтэй (\"proper, advisable\"). Энэ цайг өглөө уух нь зүйтэй literally means \"drinking this tea in the morning is proper.\" For negative advice, use -хгүй байх нь зүйтэй: хэтрүүлэхгүй байх нь зүйтэй (\"it is advisable not to exceed\"). This form sounds more measured and impersonal than -х хэрэгтэй (\"need to\") or -х ёстой (\"must\"). It is typical of doctors, elders and written instructions.",
+  "explain_mn": "Англи хэлэнд зөвлөгөөг албан, эелдгээр өгөхдөө \"It is advisable to + үйл үг\" гэж хэлдэг: It is advisable to drink this tea in the morning. Хэнд зориулсныг тодруулах бол \"for + хүн + to\" эсвэл \"that + хүн + үйл үгийн үндсэн хэлбэр\" гэж хэлнэ. Жишээ нь: It is advisable that she consult a doctor. Энд \"consults\" биш \"consult\" гэж -s нэмэлтгүй бичдэгийг анхаараарай. Үгүйсгэхдээ \"not to\" гэнэ: It is advisable not to exceed the dose. Энэ нь монголын \"-х нь зүйтэй\" хэлбэртэй утгаараа яг дүйнэ.",
+  "examples": [
+   {
+    "mn": "Энэ цайг өглөө уух нь зүйтэй.",
+    "en": "It is advisable to drink this tea in the morning.",
+    "mn_latin": "Ene tsaig öglöö uukh ni züitei."
+   },
+   {
+    "mn": "Үндсийг сүүдэрт хатаах нь зүйтэй.",
+    "en": "It is advisable to dry the roots in the shade.",
+    "mn_latin": "Ündsiig süüdert khataakh ni züitei."
+   },
+   {
+    "mn": "Хэмжээг хэтрүүлэхгүй байх нь зүйтэй.",
+    "en": "It is advisable not to exceed the dose.",
+    "mn_latin": "Khemjeeg khetrüülekhgüi baikh ni züitei."
+   },
+   {
+    "mn": "Та эмчтэй зөвлөлдөх нь зүйтэй.",
+    "en": "It is advisable that you consult a doctor.",
+    "mn_latin": "Ta emchtei zövlöldökh ni züitei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ ургамлыг хэрэглэхээсээ өмнө эмчтэй зөвлөлд___ нь зүйтэй.",
+   "answer": "өх",
+   "options": [
+    "өх",
+    "өж",
+    "сөн",
+    "вөл"
+   ],
+   "translation": "It is advisable to consult a doctor before using this plant.",
+   "explain_en": "Before нь зүйтэй the verb must be in the infinitive form ending in -х: зөвлөлдөх.",
+   "explain_mn": "\"нь зүйтэй\"-н өмнө үйл үг -х нөхцөлтэй байна: зөвлөлдөх."
+  },
+  {
+   "lang": "mn",
+   "text": "Хэмжээг нь хэтрүүлэх___ байх нь зүйтэй.",
+   "answer": "гүй",
+   "options": [
+    "гүй",
+    "гүйгээр",
+    "дээ",
+    "ээр"
+   ],
+   "translation": "It is advisable not to exceed the dose.",
+   "explain_en": "Negative advice uses -хгүй байх нь зүйтэй: хэтрүүлэхгүй байх (\"not exceeding\").",
+   "explain_mn": "Үгүйсгэсэн зөвлөгөөг -хгүй байх нь зүйтэй гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Гангын цай___ өглөө бүлээн уух нь зүйтэй.",
+   "answer": "г",
+   "options": [
+    "г",
+    "ыг",
+    "нд",
+    "гаар"
+   ],
+   "translation": "It is advisable to drink thyme tea warm in the morning.",
+   "explain_en": "The tea is the direct object of уух, so it takes the accusative. After a word ending in a diphthong like цай (-ай), the ending is -г: цайг.",
+   "explain_mn": "\"Цай\" нь уух үйлийн шууд тусагдахуун тул заахын тийн ялгал -г авна: цайг."
+  },
+  {
+   "lang": "en",
+   "text": "It is advisable ___ drink this tea while it is warm.",
+   "answer": "to",
+   "options": [
+    "to",
+    "that",
+    "for",
+    "of"
+   ],
+   "translation": "Энэ цайг бүлээн байхад нь уух нь зүйтэй.",
+   "explain_en": "\"Advisable\" is followed by \"to\" + the base verb.",
+   "explain_mn": "\"advisable\"-ийн дараа \"to\" + үйл үгийн үндсэн хэлбэр орно."
+  },
+  {
+   "lang": "en",
+   "text": "It is advisable that she ___ a doctor first.",
+   "answer": "consult",
+   "options": [
+    "consult",
+    "consults",
+    "consulting",
+    "to consult"
+   ],
+   "translation": "Тэр эхлээд эмчтэй зөвлөлдөх нь зүйтэй.",
+   "explain_en": "After \"it is advisable that,\" English uses the base verb with no -s (the subjunctive).",
+   "explain_mn": "\"It is advisable that\"-ийн дараа үйл үг -s нэмэлтгүй, үндсэн хэлбэрээрээ орно: she consult."
+  },
+  {
+   "lang": "en",
+   "text": "It is ___ to store dried herbs in a dry place.",
+   "answer": "advisable",
+   "options": [
+    "advisable",
+    "advising",
+    "advice",
+    "advise"
+   ],
+   "translation": "Хатаасан ургамлыг хуурай газар хадгалах нь зүйтэй.",
+   "explain_en": "After \"It is\" we need an adjective: \"advisable.\" \"Advice\" is a noun and \"advise\" is a verb.",
+   "explain_mn": "\"It is\"-ийн дараа тэмдэг нэр хэрэгтэй: advisable. Advice бол нэр үг, advise бол үйл үг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Номин",
+   "mn": "Эмээ ээ, хоолой минь өвдөөд байна. Ямар цай уувал зүгээр вэ?",
+   "en": "Grandma, my throat hurts. What tea would be good to drink?",
+   "mn_latin": "Emee ee, khooloi mini övdööd baina. Yamar tsai uuval zügeer ve?"
+  },
+  {
+   "speaker": "Дулмаа",
+   "mn": "Гангын цай чан, миний охин. Зуны сүүлээр түүсэн ганга надад байгаа.",
+   "en": "Make some thyme tea, dear. I have thyme I picked at the end of summer.",
+   "mn_latin": "Gangyn tsai chan, minii okhin. Zuny süüleer tüüsen ganga nadad baigaa."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Хэр их хийх вэ? Хэмжээг нь мэдэхгүй байна.",
+   "en": "How much should I put in? I don't know the amount.",
+   "mn_latin": "Kher ikh khiikh ve? Khemjeeg ni medekhgüi baina."
+  },
+  {
+   "speaker": "Дулмаа",
+   "mn": "Нэг аяганд нэг халбага хангалттай. Бүлээн байхад нь, өдөрт гурваас илүүгүй уух нь зүйтэй.",
+   "en": "One spoonful per cup is enough. It is advisable to drink it while it's warm, no more than three times a day.",
+   "mn_latin": "Neg ayagand neg khalbaga khangalttai. Büleen baikhad ni, ödört gurvaas ilüügüi uukh ni züitei."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Шарсан арвай нэмж болох уу?",
+   "en": "Can I add roasted barley?",
+   "mn_latin": "Sharsan arvai nemj bolokh uu?"
+  },
+  {
+   "speaker": "Дулмаа",
+   "mn": "Болно, ходоодонд чинь сайн. Харин гишүүний үндсийг битгий нэмээрэй, хүчтэй юм.",
+   "en": "Yes, it's good for your stomach. But don't add rhubarb root, it's strong.",
+   "mn_latin": "Bolno, khodoodond chini sain. Kharin gishüünii ündsiig bitgii nemeerei, khüchtei yum."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Гурав хоноод дээрдэхгүй бол яах вэ?",
+   "en": "What if I'm not better in three days?",
+   "mn_latin": "Gurav khonood deerdekhgüi bol yaakh ve?"
+  },
+  {
+   "speaker": "Дулмаа",
+   "mn": "Тэгвэл эмчид үзүүлэх нь зүйтэй. Ургамал тусалдаг ч бүх юмыг эдгээдэггүй.",
+   "en": "Then it is advisable to see a doctor. Herbs help, but they don't cure everything.",
+   "mn_latin": "Tegvel emchid üzüülekh ni züitei. Urgamal tusaldag ch bükh yumyg edgeedeggüi."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian traditional medicine grew out of Tibetan and local nomadic knowledge, and it is still taught and practiced today, for example at Manba Datsan in Ulaanbaatar. Many families gather wild thyme (ганга) in late summer and make sea buckthorn (чацаргана) juice or oil for the winter. Elders often pass on detailed rules about when to pick plants, how to dry them, and how much to take.",
+  "mn": "Монгол уламжлалт анагаах ухаан нь Төвдийн болон нутгийн нүүдэлчдийн мэдлэг дээр үндэслэн хөгжсөн. Өнөөдөр ч Улаанбаатарын Манба дацан зэрэг газарт заагдаж, хэрэглэгдсээр байна. Олон гэр бүл зуны сүүлээр ганга түүж, өвөлд зориулан чацарганы шүүс, тос бэлтгэдэг. Ургамлыг хэзээ түүх, яаж хатаах, хэдий хэмжээгээр хэрэглэх талаарх нарийн дүрмийг ахмадууд үр хүүхэддээ уламжлан өвлүүлдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Natural, accurate lesson in both languages. Only one ambiguous blank and one imprecise explanation needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 7,
+  "notes": "Mostly solid; fixed an inaccurate alternative, a redundant English line, malformed fill-in-the-blank options and one verb choice.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "'өлөн үедээ' means 'when hungry', not 'on an empty stomach'; replaced with a natural equivalent"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "'advised… it is advisable' is redundant and unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "Ending '-сөн' after the stem 'зөвлөлдө' gives the wrong form 'зөвлөлдөсөн'; the blank now starts at the stem 'зөвлөлд-'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "Matches the new stem: зөвлөлдөх"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "Every option now builds a real word form (зөвлөлдөж, зөвлөлдсөн, зөвлөлдвөл)"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'хутгах' means 'to stir'; 'нэмэх' is the natural verb for adding an ingredient"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "en",
+    "why": "Matches the corrected Mongolian line"
+   }
+  ]
+ }
+}

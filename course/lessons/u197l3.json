@@ -1,0 +1,412 @@
+{
+ "intro_en": "Learn to read emotions from someone's voice during a phone call with a relative in the countryside. You'll practice tone words like дуу намсах, өнгө хүйтэн, ширүүн, and зөөлөн, and use -х/-сан янзтай to say how someone sounds.",
+ "intro_mn": "Хөдөө байгаа хамаатан садантайгаа утсаар ярихдаа хүний дуу хоолойноос сэтгэл хөдлөлийг нь ойлгож сурна. Мөн англи хэлээр \"sound + adjective\", \"sound like + noun/clause\" бүтцээр хүн ямар байгаа нь сонсогдож байгааг илэрхийлж сурна.",
+ "vocab": [
+  {
+   "mn": "дуу хоолой",
+   "en": "voice",
+   "pos": "noun",
+   "example_mn": "Өвөөгийн дуу хоолой их сулхан байлаа.",
+   "example_en": "Grandpa's voice was very weak.",
+   "mn_latin": "duu khooloi"
+  },
+  {
+   "mn": "дуу намсах",
+   "en": "(of a voice) to drop, to get quieter",
+   "pos": "verb phrase",
+   "example_mn": "Ээжийн дуу гэнэт намсаж, хэсэг чимээгүй болов.",
+   "example_en": "Mom's voice suddenly dropped, and she went quiet for a moment.",
+   "mn_latin": "duu namsakh"
+  },
+  {
+   "mn": "өнгө хүйтэн",
+   "en": "cold tone",
+   "pos": "phrase",
+   "example_mn": "Ах утсаар ярихдаа өнгө хүйтэн байлаа.",
+   "example_en": "My brother's tone was cold on the phone.",
+   "mn_latin": "öngö khüiten"
+  },
+  {
+   "mn": "ширүүн",
+   "en": "harsh, stern",
+   "pos": "adjective",
+   "example_mn": "Аав ширүүн дуугаар хариулав.",
+   "example_en": "Dad answered in a stern voice.",
+   "mn_latin": "shirüün"
+  },
+  {
+   "mn": "зөөлөн",
+   "en": "soft, gentle",
+   "pos": "adjective",
+   "example_mn": "Эмээ үргэлж зөөлөн дуугаар ярьдаг.",
+   "example_en": "Grandma always speaks in a soft voice.",
+   "mn_latin": "zöölön"
+  },
+  {
+   "mn": "янзтай",
+   "en": "seeming, looking/sounding (like)",
+   "pos": "postposition/adjective",
+   "example_mn": "Та ядарсан янзтай байна.",
+   "example_en": "You sound tired.",
+   "mn_latin": "yanztai"
+  },
+  {
+   "mn": "гомдох",
+   "en": "to be hurt, to take offense",
+   "pos": "verb",
+   "example_mn": "Авга эгч гомдсон янзтай байна.",
+   "example_en": "My aunt sounds hurt.",
+   "mn_latin": "gomdokh"
+  },
+  {
+   "mn": "яарах",
+   "en": "to be in a hurry, to rush",
+   "pos": "verb",
+   "example_mn": "Тэр яарсан янзтай ярив.",
+   "example_en": "He sounded rushed.",
+   "mn_latin": "yaarakh"
+  },
+  {
+   "mn": "чичрэх",
+   "en": "to tremble, to shake",
+   "pos": "verb",
+   "example_mn": "Түүний дуу чичирч байлаа.",
+   "example_en": "Her voice was trembling.",
+   "mn_latin": "chichrekh"
+  },
+  {
+   "mn": "санаа зовох",
+   "en": "to worry",
+   "pos": "verb phrase",
+   "example_mn": "Ээж миний төлөө санаа зовж байна.",
+   "example_en": "Mom is worried about me.",
+   "mn_latin": "sanaa zovokh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Утсаар ярьж байхад нагац эгчийн дуу гэнэт намсаж, гомдсон янзтай байлаа.",
+   "en": "While we were talking on the phone, my aunt's voice suddenly dropped, and she sounded hurt.",
+   "alt_mn": [
+    "Утсаар ярьж байтал нагац эгчийн дуу гэнэт намсаад, гомдсон янзтай байлаа."
+   ],
+   "alt_en": [
+    "During the phone call, my aunt's voice suddenly got quiet and she sounded hurt."
+   ],
+   "mn_latin": "Utsaar yarij baikhad nagats egchiin duu genet namsaj, gomdson yanztai bailaa."
+  },
+  {
+   "mn": "Ах \"за\" гэж л хэлсэн ч өнгө нь их хүйтэн байсан.",
+   "en": "My brother only said \"okay,\" but his tone was very cold.",
+   "alt_mn": [
+    "Ах зөвхөн \"за\" гэсэн ч өнгө нь их хүйтэн байлаа."
+   ],
+   "alt_en": [
+    "My older brother just said \"okay,\" but his tone was really cold."
+   ],
+   "mn_latin": "Akh \"za\" gej l khelsen ch öngö ni ikh khüiten baisan."
+  },
+  {
+   "mn": "Аав ширүүн дуугаар ярьсан ч уурласан биш, зүгээр л санаа зовсон янзтай байсан.",
+   "en": "Dad spoke in a stern voice, but he wasn't angry. He just sounded worried.",
+   "alt_mn": [
+    "Аав ширүүн дуугаар ярьсан ч уурлаагүй, зүгээр л санаа зовсон янзтай байлаа."
+   ],
+   "alt_en": [
+    "Dad's voice was harsh, but he wasn't angry; he just sounded worried."
+   ],
+   "mn_latin": "Aav shirüün duugaar yarisan ch uurlasan bish, zügeer l sanaa zovson yanztai baisan."
+  },
+  {
+   "mn": "Эмээ зөөлөн дуугаар \"Хэзээ ирэх вэ, миний хүү?\" гэж асуув.",
+   "en": "Grandma asked in a soft voice, \"When are you coming, my dear?\"",
+   "alt_mn": [
+    "Эмээ \"Хэзээ ирэх вэ, миний хүү?\" гэж зөөлөн дуугаар асуулаа."
+   ],
+   "alt_en": [
+    "In a gentle voice, Grandma asked, \"When are you coming, my child?\""
+   ],
+   "mn_latin": "Emee zöölön duugaar \"Khezee irekh ve, minii khüü?\" gej asuuv."
+  },
+  {
+   "mn": "Дүү маань яарсан янзтай, хоёр гурван үг хэлээд л утсаа тасаллаа.",
+   "en": "My younger brother sounded rushed. He said a few words and hung up.",
+   "alt_mn": [
+    "Дүү маань яарсан янзтай байсан, хоёр гурван үг хэлээд утсаа тасалсан."
+   ],
+   "alt_en": [
+    "My younger sister sounded rushed; she said a couple of words and hung up."
+   ],
+   "mn_latin": "Düü maani yaarsan yanztai, khoyor gurvan üg kheleed l utsaa tasallaa."
+  },
+  {
+   "mn": "Та ядарсан янзтай байна. Хөдөө ажил их байна уу?",
+   "en": "You sound tired. Is there a lot of work in the countryside?",
+   "alt_mn": [
+    "Та их ядарсан янзтай байна, хөдөө ажил ихтэй байна уу?"
+   ],
+   "alt_en": [
+    "You sound tired. Do you have a lot of work out in the countryside?"
+   ],
+   "mn_latin": "Ta yadarsan yanztai baina. Khödöö ajil ikh baina uu?"
+  },
+  {
+   "mn": "Түүний дуу чичирч байсан. Ямар нэг юм болсон янзтай.",
+   "en": "Her voice was shaking. It sounded like something had happened.",
+   "alt_mn": [
+    "Түүний дуу чичирч байсан тул ямар нэг юм болсон янзтай байлаа."
+   ],
+   "alt_en": [
+    "His voice was trembling; it sounded as if something had happened."
+   ],
+   "mn_latin": "Tüünii duu chichirch baisan. Yamar neg yum bolson yanztai."
+  },
+  {
+   "mn": "Утасны холболт муу байсан ч өвөө баяртай байгаа нь дуу хоолойноос нь илт байлаа.",
+   "en": "The connection was bad, but you could clearly hear in Grandpa's voice that he was happy.",
+   "alt_mn": [
+    "Холболт муу байсан ч өвөөгийн дуу хоолойноос баяртай байгаа нь илт сонсогдож байлаа."
+   ],
+   "alt_en": [
+    "The connection was poor, but Grandpa clearly sounded happy."
+   ],
+   "mn_latin": "Utasny kholbolt muu baisan ch övöö bayartai baigaa ni duu khooloinoos ni ilt bailaa."
+  },
+  {
+   "mn": "Нагац ах уурласан янзтай байсан ч үнэндээ зүгээр л ядарсан байжээ.",
+   "en": "My uncle sounded angry, but actually he was just tired.",
+   "alt_mn": [
+    "Нагац ах уурласан янзтай сонсогдсон ч үнэндээ зүгээр л ядарсан байсан."
+   ],
+   "alt_en": [
+    "My uncle sounded like he was angry, but it turned out he was just tired."
+   ],
+   "mn_latin": "Nagats akh uurlasan yanztai baisan ch ünendee zügeer l yadarsan baijee."
+  },
+  {
+   "mn": "Та намайг буруу ойлгосон янзтай байна. Би таныг гомдоох гэж хэлээгүй.",
+   "en": "It sounds like you misunderstood me. I didn't mean to hurt you.",
+   "alt_mn": [
+    "Та намайг буруугаар ойлгосон янзтай байна, би гомдоох гэж хэлээгүй шүү."
+   ],
+   "alt_en": [
+    "Sounds like you misunderstood me. I didn't say it to hurt you."
+   ],
+   "mn_latin": "Ta namaig buruu oilgoson yanztai baina. Bi tanyg gomdookh gej kheleegüi."
+  },
+  {
+   "mn": "Малын байдлыг асуухад эгчийн өнгө хүйтэрч, хариулт нь богинохон болов.",
+   "en": "When I asked about the livestock, my sister's tone turned cold and her answers got short.",
+   "alt_mn": [
+    "Малын байдал асуухад эгчийн өнгө хүйтэрч, богинохон хариулах болов."
+   ],
+   "alt_en": [
+    "When I asked how the animals were doing, my sister's tone went cold and she gave short answers."
+   ],
+   "mn_latin": "Malyn baidlyg asuukhad egchiin öngö khüiterch, khariult ni boginokhon bolov."
+  },
+  {
+   "mn": "Утсаар нүүр харагдахгүй учраас дуу хоолойны өнгөнд илүү анхаардаг.",
+   "en": "Since you can't see faces on the phone, you pay more attention to tone of voice.",
+   "alt_mn": [
+    "Утсаар ярихад нүүр харагдахгүй тул дуу хоолойны өнгөнд илүү анхаарах хэрэгтэй болдог."
+   ],
+   "alt_en": [
+    "Because you can't see someone's face on the phone, you listen more closely to their tone."
+   ],
+   "mn_latin": "Utsaar nüür kharagdakhgüi uchraas duu khooloiny öngönd ilüü ankhaardag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Impressions from sound: participle + янзтай",
+  "title_mn": "Дуунаас авсан сэтгэгдэл: sound + adjective, sound like + noun/clause",
+  "explain_en": "To say how someone seems, Mongolian puts a verb participle before янзтай (\"having the look/manner of\"). Use the past participle -сан/-сэн/-сон/-сөн for a state someone is already in: гомдсон янзтай means \"sounds hurt\" and яарсан янзтай means \"sounds rushed.\" Use the future participle -х for something that seems about to happen: уйлах янзтай means \"sounds like she's about to cry.\" Pick the suffix vowel by vowel harmony: яар-сан, ядар-сан, гомд-сон. Add байна or байлаа to set the time. Янзтай itself doesn't specify a sense, so on the phone it naturally means \"sounds.\"",
+  "explain_mn": "Англи хэлэнд хүний дуу хоолойноос авсан сэтгэгдлийг \"sound\" үйл үгээр илэрхийлдэг. 1) sound + тэмдэг нэр: You sound tired (Та ядарсан янзтай байна). Энд дайвар үг (tiredly) биш, тэмдэг нэр хэрэглэнэ. 2) sound like + нэр үг: He sounds like a different person (Тэр огт өөр хүн шиг сонсогдож байна). 3) sound like / sound as if + өгүүлбэр: It sounds like something happened (Ямар нэг юм болсон янзтай). \"Sound like tired\" гэж хэлэхгүй. Like-ийн араас нэр үг эсвэл бүтэн өгүүлбэр л орно.",
+  "examples": [
+   {
+    "mn": "Авга эгч гомдсон янзтай байна.",
+    "en": "My aunt sounds hurt.",
+    "mn_latin": "Avga egch gomdson yanztai baina."
+   },
+   {
+    "mn": "Тэр яарсан янзтай ярьж байлаа.",
+    "en": "He sounded like he was in a hurry.",
+    "mn_latin": "Ter yaarsan yanztai yarij bailaa."
+   },
+   {
+    "mn": "Эмээ уйлах янзтай байна.",
+    "en": "Grandma sounds like she's about to cry.",
+    "mn_latin": "Emee uilakh yanztai baina."
+   },
+   {
+    "mn": "Ямар нэг юм болсон янзтай.",
+    "en": "It sounds like something happened.",
+    "mn_latin": "Yamar neg yum bolson yanztai."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Утсаар ярихад эгч гомдсон ___ байна.",
+   "answer": "янзтай",
+   "options": [
+    "янзтай",
+    "янзаар",
+    "янзыг",
+    "янзад"
+   ],
+   "translation": "On the phone, my sister sounds hurt.",
+   "explain_en": "After a participle like гомдсон, use the form янзтай (\"seeming, having the manner of\"), followed by байна. The other forms are case endings that don't fit here.",
+   "explain_mn": "Үйлт нэрийн араас сэтгэгдэл илэрхийлэхдээ \"янзтай\" хэлбэрийг хэрэглээд, араас нь \"байна\" залгана. Бусад нь тийн ялгалын хэлбэр тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Дүү маань яар___ янзтай, утсаа шууд тасаллаа.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "сэн",
+    "сон",
+    "сөн"
+   ],
+   "translation": "My younger sibling sounded rushed and hung up right away.",
+   "explain_en": "The verb stem яар- has the back vowel а, so vowel harmony gives the past participle -сан: яарсан.",
+   "explain_mn": "\"Яар-\" үндэс эр үгийн \"а\" эгшигтэй тул эгшиг зохицох ёсоор \"-сан\" залгаж, \"яарсан\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хажууд нь хүмүүс байсан тул нагац ах дуугаа ___.",
+   "answer": "намсгав",
+   "options": [
+    "намсгав",
+    "чангалав",
+    "өсгөв",
+    "таслав"
+   ],
+   "translation": "Because there were people next to him, my uncle lowered his voice.",
+   "explain_en": "With дуугаа (\"his own voice\") as the object, you need the transitive form намсгах, \"to lower.\" Without an object you would say дуу нь намсав, \"his voice dropped.\" Raising his voice doesn't fit the context.",
+   "explain_mn": "\"Дуугаа\" гэсэн тусагдахуун байгаа тул \"намсгах\" (lower his voice) гэсэн хэлбэр орно. Англиар \"lowered his voice\" гэнэ. Харин тусагдахуунгүй бол \"his voice dropped\" гэж хэлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "Grandma, you sound ___. Did you sleep well?",
+   "answer": "tired",
+   "options": [
+    "tired",
+    "tiredly",
+    "like tired",
+    "tiredness"
+   ],
+   "translation": "Эмээ, та ядарсан янзтай байна. Сайн унтсан уу?",
+   "explain_en": "\"Sound\" is a linking verb, so it takes an adjective (tired), not an adverb (tiredly). \"Like\" can't go directly before an adjective.",
+   "explain_mn": "\"Sound\" нь холбох үйл үг тул араас нь тэмдэг нэр (tired) орно. Дайвар үг (tiredly) орохгүй. \"Like\"-ийн араас шууд тэмдэг нэр тавьдаггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Her voice is shaking. It sounds ___ something happened.",
+   "answer": "like",
+   "options": [
+    "like",
+    "as",
+    "that",
+    "so"
+   ],
+   "translation": "Түүний дуу чичирч байна. Ямар нэг юм болсон янзтай.",
+   "explain_en": "Before a full clause, use \"sound like\" (or \"sound as if\"). \"As\" alone, \"that,\" and \"so\" don't work here.",
+   "explain_mn": "Араас нь бүтэн өгүүлбэр (something happened) ирж байгаа тул \"sound like\" эсвэл \"sound as if\" хэрэглэнэ. Ганц \"as\", \"that\", \"so\" энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "When I mentioned Tsagaan Sar, her voice ___ and she went quiet.",
+   "answer": "dropped",
+   "options": [
+    "dropped",
+    "sounded",
+    "heard",
+    "listened"
+   ],
+   "translation": "Цагаан сарын тухай дурдахад түүний дуу намсаж, чимээгүй болов.",
+   "explain_en": "\"Her voice dropped\" is the natural English match for дуу намсах. \"Sounded\" would need a complement, and \"heard\" and \"listened\" describe the listener, not the voice.",
+   "explain_mn": "\"Дуу намсах\"-ыг англиар \"her voice dropped\" гэж хэлдэг. \"Sounded\"-ийн араас заавал тэмдэг нэр орох ёстой. \"Heard\", \"listened\" нь сонсогчийн үйлдлийг заана."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болор",
+   "mn": "Сайн байна уу, авга эгч ээ! Сайхан хаваржиж байна уу?",
+   "en": "Hello, Auntie! Are you having a good spring?",
+   "mn_latin": "Sain baina uu, avga egch ee! Saikhan khavarjij baina uu?"
+  },
+  {
+   "speaker": "Должин",
+   "mn": "Сайн аа, миний охин. За, зүгээр дээ.",
+   "en": "Fine, my dear. Well, it's all right.",
+   "mn_latin": "Sain aa, minii okhin. Za, zügeer dee."
+  },
+  {
+   "speaker": "Болор",
+   "mn": "Таны дуу их намуухан байна. Ядарсан янзтай байна шүү.",
+   "en": "Your voice is really quiet. You sound tired.",
+   "mn_latin": "Tany duu ikh namuukhan baina. Yadarsan yanztai baina shüü."
+  },
+  {
+   "speaker": "Должин",
+   "mn": "Ядраагүй ээ. Харин чи Цагаан сараар ирээгүй шүү дээ.",
+   "en": "I'm not tired. But you didn't come for Tsagaan Sar, you know.",
+   "mn_latin": "Yadraagüi ee. Kharin chi Tsagaan saraar ireegüi shüü dee."
+  },
+  {
+   "speaker": "Болор",
+   "mn": "Уучлаарай, эгч ээ. Та гомдсон янзтай байна. Ажил их байгаад гарч чадаагүй юм.",
+   "en": "I'm sorry, Auntie. You sound hurt. I had so much work that I couldn't get away.",
+   "mn_latin": "Uuchlaarai, egch ee. Ta gomdson yanztai baina. Ajil ikh baigaad garch chadaagüi yum."
+  },
+  {
+   "speaker": "Должин",
+   "mn": "За, за, гомдоогүй ээ. Зун Наадмаар заавал ирээрэй.",
+   "en": "Okay, okay, I'm not hurt. Make sure you come for Naadam this summer.",
+   "mn_latin": "Za, za, gomdoogüi ee. Zun Naadmaar zaaval ireerei."
+  },
+  {
+   "speaker": "Болор",
+   "mn": "Заавал очно оо. Таны өнгө зөөлөрснийг сонсоод санаа амарлаа.",
+   "en": "I'll definitely come. I'm relieved to hear your voice soften.",
+   "mn_latin": "Zaaval ochno oo. Tany öngö zöölörsniig sonsood sanaa amarlaa."
+  },
+  {
+   "speaker": "Должин",
+   "mn": "Тэгвэл айраг исгээд хүлээж байя.",
+   "en": "Then I'll make airag and wait for you.",
+   "mn_latin": "Tegvel airag isgeed khüleej baiya."
+  }
+ ],
+ "culture_note": {
+  "en": "Older relatives in the countryside often don't say directly that they're upset. A short \"за,\" a long pause, or a voice that suddenly drops can say more than words. Not visiting during Tsagaan Sar can quietly hurt feelings, so a warm, gentle tone and a promise to visit for Naadam go a long way.",
+  "mn": "Хөдөө байгаа ахмад хамаатнууд гомдсон, сэтгэл дундуур байгаагаа шууд хэлэх нь ховор. Богинохон \"за\", удаан чимээгүй байх, гэнэт намсах дуу хоолой нь үгнээс илүү утгатай байдаг. Цагаан сараар золгож очоогүй бол чимээгүйхэн гомдох нь бий. Иймд зөөлөн, дулаан өнгөөр ярьж, Наадмаар очихоо амлах нь их ач холбогдолтой."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A solid, natural lesson with accurate grammar explanations. Only two spelling slips needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 2,
+  "notes": "The lesson is clean overall. The only fixes are one distractor whose form didn't match the others and one dialogue tense mismatch.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "Distractor 'тасалсан' broke the parallel -в form. All options should share the same verb form."
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "'санаа амарлаа' is a completed reaction. The present 'puts my mind at ease' doesn't match the Mongolian."
+   }
+  ]
+ }
+}

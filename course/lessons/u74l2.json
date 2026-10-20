@@ -1,0 +1,504 @@
+{
+ "intro_en": "You will learn to read common road signs and explain traffic rules to a new driver. You will also use the Mongolian pattern -аас бусад ('except for') and English 'except (for)' and 'otherwise'.",
+ "intro_mn": "Та энэ хичээлээр замын түгээмэл тэмдгийг уншиж, шинэ жолоочид дүрмийг тайлбарлаж сурна. Мөн монгол хэлний «-аас бусад» бүтэц, англи хэлний «except (for)», «otherwise» үгсийг хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "замын тэмдэг",
+   "en": "road sign",
+   "pos": "noun",
+   "example_mn": "Энэ замын тэмдгийг би мэдэхгүй байна.",
+   "example_en": "I don't know this road sign.",
+   "mn_latin": "zamyn temdeg"
+  },
+  {
+   "mn": "гэрлэн дохио",
+   "en": "traffic light",
+   "pos": "noun",
+   "example_mn": "Гэрлэн дохио улаан болсон тул зогс.",
+   "example_en": "The traffic light turned red, so stop.",
+   "mn_latin": "gerlen dokhio"
+  },
+  {
+   "mn": "явган хүний гарц",
+   "en": "crosswalk",
+   "pos": "noun",
+   "example_mn": "Явган хүний гарц дээр явган хүнийг түрүүлж нэвтрүүл.",
+   "example_en": "Let pedestrians go first at a crosswalk.",
+   "mn_latin": "yavgan khünii garts"
+  },
+  {
+   "mn": "хурдны хязгаар",
+   "en": "speed limit",
+   "pos": "noun",
+   "example_mn": "Хотод хурдны хязгаар цагт тавин километр.",
+   "example_en": "The speed limit in the city is fifty kilometers per hour.",
+   "mn_latin": "khurdny khyazgaar"
+  },
+  {
+   "mn": "гүйцэж түрүүлэх",
+   "en": "to overtake",
+   "pos": "verb",
+   "example_mn": "Тасралтгүй зураасан дээр гүйцэж түрүүлж болохгүй.",
+   "example_en": "You must not overtake on a solid line.",
+   "mn_latin": "güitsej türüülekh"
+  },
+  {
+   "mn": "зогсоол",
+   "en": "parking lot",
+   "pos": "noun",
+   "example_mn": "Төвд зогсоол олоход хэцүү.",
+   "example_en": "It is hard to find parking downtown.",
+   "mn_latin": "zogsool"
+  },
+  {
+   "mn": "торгууль",
+   "en": "fine",
+   "pos": "noun",
+   "example_mn": "Хурд хэтрүүлбэл торгууль төлнө.",
+   "example_en": "If you speed, you pay a fine.",
+   "mn_latin": "torguuli"
+  },
+  {
+   "mn": "жолооны үнэмлэх",
+   "en": "driver's license",
+   "pos": "noun",
+   "example_mn": "Жолооны үнэмлэхээ үргэлж авч яв.",
+   "example_en": "Always carry your driver's license.",
+   "mn_latin": "joloony ünemlekh"
+  },
+  {
+   "mn": "хориглох",
+   "en": "to prohibit",
+   "pos": "verb",
+   "example_mn": "Энд зогсохыг хориглоно.",
+   "example_en": "Stopping is prohibited here.",
+   "mn_latin": "khoriglokh"
+  },
+  {
+   "mn": "уулзвар",
+   "en": "intersection",
+   "pos": "noun",
+   "example_mn": "Дараагийн уулзвар дээр баруун эргэ.",
+   "example_en": "Turn right at the next intersection.",
+   "mn_latin": "uulzvar"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ замын тэмдэг юу гэсэн үг вэ?",
+   "en": "What does this road sign mean?",
+   "alt_mn": [
+    "Энэ замын тэмдэг ямар утгатай вэ?"
+   ],
+   "alt_en": [
+    "What is the meaning of this road sign?"
+   ],
+   "mn_latin": "Ene zamyn temdeg yuu gesen üg ve?"
+  },
+  {
+   "mn": "Гэрлэн дохио улаан байх үед заавал зогсох ёстой.",
+   "en": "You must stop when the traffic light is red.",
+   "alt_mn": [
+    "Гэрлэн дохио улаан байхад заавал зогсоно."
+   ],
+   "alt_en": [
+    "You have to stop when the traffic light is red."
+   ],
+   "mn_latin": "Gerlen dokhio ulaan baikh üyed zaaval zogsokh yostoi."
+  },
+  {
+   "mn": "Нийтийн тээврээс бусад машин энд орохгүй.",
+   "en": "No vehicles except public transport may enter here.",
+   "alt_mn": [
+    "Нийтийн тээврээс бусад машин энд орж болохгүй."
+   ],
+   "alt_en": [
+    "Vehicles other than public transport can't enter here.",
+    "Except for public transport, no vehicles enter here."
+   ],
+   "mn_latin": "Niitiin teevrees busad mashin end orokhgüi."
+  },
+  {
+   "mn": "Явган хүний гарц дээр явган хүнийг түрүүлж нэвтрүүлээрэй.",
+   "en": "Let pedestrians go first at the crosswalk.",
+   "alt_mn": [
+    "Явган хүний гарц дээр явган хүнд зам тавьж өгөөрэй."
+   ],
+   "alt_en": [
+    "Give way to pedestrians at the crosswalk."
+   ],
+   "mn_latin": "Yavgan khünii garts deer yavgan khüniig türüülj nevtrüüleerei."
+  },
+  {
+   "mn": "Хотын доторх хурдны хязгаар цагт тавин километр.",
+   "en": "The speed limit inside the city is fifty kilometers per hour.",
+   "alt_mn": [
+    "Хотод хурдны хязгаар цагт 50 км."
+   ],
+   "alt_en": [
+    "The speed limit in the city is 50 km/h."
+   ],
+   "mn_latin": "Khotyn dotorkh khurdny khyazgaar tsagt tavin kilomyetr."
+  },
+  {
+   "mn": "Зураас тасралтгүй бол гүйцэж түрүүлж болохгүй.",
+   "en": "If the line is solid, you must not overtake.",
+   "alt_mn": [
+    "Зураас тасралтгүй бол түрүүлж болохгүй."
+   ],
+   "alt_en": [
+    "You may not overtake if the line is solid."
+   ],
+   "mn_latin": "Zuraas tasraltgüi bol güitsej türüülj bolokhgüi."
+  },
+  {
+   "mn": "Ням гарагаас бусад өдөр энд зогсоол төлбөртэй.",
+   "en": "Except on Sundays, parking here is paid.",
+   "alt_mn": [
+    "Ням гарагаас бусад өдрүүдэд энд зогсоол төлбөртэй."
+   ],
+   "alt_en": [
+    "Parking here costs money every day except Sunday."
+   ],
+   "mn_latin": "Nyam garagaas busad ödör end zogsool tölbörtei."
+  },
+  {
+   "mn": "Дүрмээ сахи, эс бөгөөс торгууль төлнө.",
+   "en": "Follow the rules; otherwise you will pay a fine.",
+   "alt_mn": [
+    "Дүрмээ сахи, тэгэхгүй бол торгуулийн мөнгө төлнө."
+   ],
+   "alt_en": [
+    "Follow the rules, or else you'll pay a fine."
+   ],
+   "mn_latin": "Dürmee sakhi, es bögöös torguuli tölnö."
+  },
+  {
+   "mn": "Түргэн тусламжаас бусад машин улаан гэрлээр явж болохгүй.",
+   "en": "No cars except ambulances may go through a red light.",
+   "alt_mn": [
+    "Түргэн тусламжаас бусад машин улаан дохиогоор явахгүй."
+   ],
+   "alt_en": [
+    "Only ambulances may go through a red light."
+   ],
+   "mn_latin": "Türgen tuslamjaas busad mashin ulaan gerleer yavj bolokhgüi."
+  },
+  {
+   "mn": "Жолооны үнэмлэхээ авч яваарай, эс бөгөөс цагдаа торгоно.",
+   "en": "Carry your driver's license; otherwise the police will fine you.",
+   "alt_mn": [
+    "Жолооны үнэмлэхээ заавал авч яв, тэгэхгүй бол цагдаа торгоно."
+   ],
+   "alt_en": [
+    "Take your license with you, otherwise the police will fine you."
+   ],
+   "mn_latin": "Joloony ünemlekhee avch yavaarai, es bögöös tsagdaa torgono."
+  },
+  {
+   "mn": "Дараагийн уулзвар дээр зүүн эргэхийг хориглосон.",
+   "en": "Turning left at the next intersection is prohibited.",
+   "alt_mn": [
+    "Дараагийн уулзвар дээр зүүн эргэж болохгүй."
+   ],
+   "alt_en": [
+    "You can't turn left at the next intersection."
+   ],
+   "mn_latin": "Daraagiin uulzvar deer züün ergekhiig khorigloson."
+  },
+  {
+   "mn": "Оршин суугчдаас бусад хүн энэ зогсоолд машинаа тавьж болохгүй.",
+   "en": "Nobody except residents may park in this lot.",
+   "alt_mn": [
+    "Оршин суугчдаас бусад хүн энэ зогсоолд зогсохгүй."
+   ],
+   "alt_en": [
+    "Only residents may park in this lot.",
+    "Except for residents, no one may park in this lot."
+   ],
+   "mn_latin": "Orshin suugchdaas busad khün ene zogsoold mashinaa tavij bolokhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Exceptions: -аас бусад, 'except (for)' and 'otherwise'",
+  "title_mn": "Үл хамаарах зүйл: «-аас бусад», except (for) ба otherwise",
+  "explain_en": "To say 'except for X', add the ablative ending (-аас/-ээс/-оос/-өөс, chosen by vowel harmony) to the noun and then put бусад after it: нийтийн тээврээс бусад = 'other than public transport'. Examples: түргэн тусламжаас бусад, оршин суугчдаас бусад. The phrase comes before the noun it limits: Нийтийн тээврээс бусад машин = 'vehicles other than public transport'. For 'otherwise' use эс бөгөөс or тэгэхгүй бол ('if not so'): Дүрмээ сахи, тэгэхгүй бол торгуулийн мөнгө төлнө.",
+  "explain_mn": "Англи хэлэнд «except» болон «except for» нь хасагдах нэр үгийн өмнө орж, монгол хэлний «-аас бусад» гэсэн утгыг илэрхийлнэ. Өгүүлбэрийн эхэнд ихэвчлэн «except for» хэрэглэнэ: No cars except buses. / Except for buses, no cars enter. «Otherwise» нь «эс бөгөөс, тэгэхгүй бол» гэсэн утгатай бөгөөд өмнөх өгүүлбэрийн дараа ордог: Wear a seatbelt; otherwise, you will be fined. Тэмдэг, дүрмийг энэ хоёроор товч тодорхой илэрхийлдэг.",
+  "examples": [
+   {
+    "mn": "Нийтийн тээврээс бусад машин энд орохгүй.",
+    "en": "No vehicles except public transport enter here.",
+    "mn_latin": "Niitiin teevrees busad mashin end orokhgüi."
+   },
+   {
+    "mn": "Багш нараас бусад хүн энд зогсохгүй.",
+    "en": "No one except teachers parks here.",
+    "mn_latin": "Bagsh naraas busad khün end zogsokhgüi."
+   },
+   {
+    "mn": "Ням гарагаас бусад өдөр зогсоол төлбөртэй.",
+    "en": "Parking is paid every day except Sunday.",
+    "mn_latin": "Nyam garagaas busad ödör zogsool tölbörtei."
+   },
+   {
+    "mn": "Бүс зүү, тэгэхгүй бол торгуулийн мөнгө төлнө.",
+    "en": "Fasten your seatbelt; otherwise you'll pay a fine.",
+    "mn_latin": "Büs züü, tegekhgüi bol torguuliin möngö tölnö."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Нийтийн тээвр___ бусад машин энд орохгүй.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "т",
+    "ийг",
+    "ээр"
+   ],
+   "translation": "No vehicles except public transport enter here.",
+   "explain_en": "'Except' needs the ablative ending: тээвэр + -ээс = тээврээс (the vowel of тээвэр drops), followed by бусад.",
+   "explain_mn": "«Бусад»-ын өмнөх нэр үг гарахын тийн ялгалтай байна: тээвэр → тээврээс."
+  },
+  {
+   "lang": "mn",
+   "text": "Түргэн тусламж___ бусад машин улаан гэрлээр явахгүй.",
+   "answer": "аас",
+   "options": [
+    "аас",
+    "ээс",
+    "т",
+    "ийг"
+   ],
+   "translation": "No cars except ambulances go through a red light.",
+   "explain_en": "Тусламж has back vowels, so the ablative is -аас: тусламжаас. Ending is added directly to the consonant-final stem.",
+   "explain_mn": "«Тусламж» нь эр үг тул «-аас» нөхцөл залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Дүрмээ дага, ___ бол торгууль төлнө.",
+   "answer": "тэгэхгүй",
+   "options": [
+    "тэгэхгүй",
+    "тиймээс",
+    "гэхдээ",
+    "мөн"
+   ],
+   "translation": "Follow the rules; otherwise you will pay a fine.",
+   "explain_en": "'тэгэхгүй бол' means 'otherwise' (literally 'if not so').",
+   "explain_mn": "«Тэгэхгүй бол» нь «otherwise» гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "No cars are allowed here ___ taxis.",
+   "answer": "except",
+   "options": [
+    "except",
+    "besides of",
+    "otherwise",
+    "unless of"
+   ],
+   "translation": "Энд таксинаас бусад машин орохгүй.",
+   "explain_en": "'Except' (or 'except for') introduces the thing that is excluded.",
+   "explain_mn": "«Except» нь хасагдах зүйлийн өмнө орно: except taxis."
+  },
+  {
+   "lang": "en",
+   "text": "Slow down near the school; ___, you may get a fine.",
+   "answer": "otherwise",
+   "options": [
+    "otherwise",
+    "except",
+    "although",
+    "because"
+   ],
+   "translation": "Сургуулийн дэргэд хурдаа сааруул, тэгэхгүй бол торгууль төлж магадгүй.",
+   "explain_en": "'Otherwise' means 'if you don't', and it links two clauses.",
+   "explain_mn": "«Otherwise» нь «тэгэхгүй бол» гэсэн утгатай, хоёр өгүүлбэрийг холбоно."
+  },
+  {
+   "lang": "en",
+   "text": "___ residents, nobody can park in this lot.",
+   "answer": "Except for",
+   "options": [
+    "Except for",
+    "Otherwise",
+    "Instead",
+    "Unless"
+   ],
+   "translation": "Оршин суугчдаас бусад хэн ч энэ зогсоолд машинаа тавьж болохгүй.",
+   "explain_en": "At the start of a sentence, use 'Except for' before the noun.",
+   "explain_mn": "Өгүүлбэрийн эхэнд нэр үгийн өмнө «Except for» хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Энэ цэнхэр тэмдэг юу гэсэн үг вэ?",
+   "en": "What does this blue sign mean?",
+   "mn_latin": "Ene tsenkher temdeg yuu gesen üg ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Энэ зогсоолын тэмдэг. Оршин суугчдаас бусад хүн энд зогсохгүй.",
+   "en": "It's a parking sign. Nobody except residents can park here.",
+   "mn_latin": "Ene zogsoolyn temdeg. Orshin suugchdaas busad khün end zogsokhgüi."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэгвэл цаана байгаа улаан тэмдэг юу гэсэн үг вэ?",
+   "en": "Then what does the red sign over there mean?",
+   "mn_latin": "Tegvel tsaana baigaa ulaan temdeg yuu gesen üg ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Нийтийн тээврээс бусад машин орохгүй гэсэн үг.",
+   "en": "It means no vehicles except public transport may enter.",
+   "mn_latin": "Niitiin teevrees busad mashin orokhgüi gesen üg."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Харин хурдны хязгаар хэд вэ?",
+   "en": "And what is the speed limit?",
+   "mn_latin": "Kharin khurdny khyazgaar khed ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Хотод цагт тавин километр. Хэтрүүлбэл торгууль төлнө.",
+   "en": "Fifty kilometers per hour in the city. If you exceed it, you pay a fine.",
+   "mn_latin": "Khotod tsagt tavin kilomyetr. Khetrüülbel torguuli tölnö."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Гэрлэн дохион дээр юунд анхаарах вэ?",
+   "en": "What should I watch for at traffic lights?",
+   "mn_latin": "Gerlen dokhion deer yuund ankhaarakh ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Явган хүний гарц дээр явган хүнийг түрүүлж нэвтрүүл, тэгэхгүй бол аюултай.",
+   "en": "Let pedestrians go first at crosswalks; otherwise it's dangerous.",
+   "mn_latin": "Yavgan khünii garts deer yavgan khüniig türüülj nevtrüül, tegekhgüi bol ayuultai."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, traffic is heavy and parking is scarce, so signs with exceptions, such as 'public transport only' lanes or resident-only parking, are common. Many drivers also watch for the traffic police, who can stop cars and check licenses on the spot. Outside the city, roads are quieter, but animals crossing the road are a real hazard.",
+  "mn": "Улаанбаатарт замын түгжрэл ихтэй, зогсоол цөөн тул «нийтийн тээврээс бусад», «оршин суугчдаас бусад» гэх мэт онцгой зөвшөөрөлтэй тэмдэг их тааралддаг. Жолооч нар замын цагдаад анхаарал тавьдаг бөгөөд цагдаа машиныг зогсоож үнэмлэхийг шалгаж болно. Хотоос гадуур зам нам гүм ч мал амьтан гэнэт гарч ирэх аюултай."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 20,
+  "notes": "Mostly good content, but several items had wording or fill-in-the-blank problems, and the grammar explanation contained a wrong claim about vowel endings."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 17,
+  "notes": "Replaced non-standard terms (зам хөндлөх газар, урдуур түрүүлэх) everywhere, fixed grammar slips, the garbled explain_mn and the mismatched title.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "mn",
+    "why": "Standard term for crosswalk; 'зам хөндлөх газар' is not used"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "Use the standard term"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "'Цагт' was missing; the English says 'per hour'"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "mn",
+    "why": "Standard verb for overtaking; 'урдуур түрүүлэх' is not natural"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "Use the standard verb"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "'Улаан үед' is ungrammatical; it needs 'байх үед'"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "Use the standard term"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "Use the standard term"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "Use the standard verb"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Should match title_mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The first sentence was garbled and inaccurate"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "The standard ablative of такси is таксинаас"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "'Хурдаа бага' is ungrammatical; it should be 'хурдаа сааруул'"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'Тэмдэг яах вэ' is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "Should match the corrected Mongolian"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "The verb анхаарах takes the dative 'юунд'; 'гэрлэн дохион дээр' is the natural form"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "Use the standard term"
+   }
+  ]
+ }
+}

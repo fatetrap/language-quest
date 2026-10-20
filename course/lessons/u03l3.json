@@ -1,0 +1,441 @@
+{
+ "intro_en": "You will learn to ask yes-or-no questions with the particle уу/үү (юу/юү after long vowels and diphthongs) and to answer with тийм and үгүй. You will use them to check what things are in a shop or at home.",
+ "intro_mn": "Та энэ хичээлээр уу/үү (урт эгшиг, хос эгшгийн дараа юу/юү) асуух сул үг ашиглан тийм, үгүй гэж хариулах асуулт асууж сурна. Дэлгүүрт болон гэрт байгаа юмсыг шалгахад хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "утас",
+   "en": "phone",
+   "pos": "noun",
+   "example_mn": "Энэ утас.",
+   "example_en": "This is a phone.",
+   "mn_latin": "utas"
+  },
+  {
+   "mn": "түлхүүр",
+   "en": "key",
+   "pos": "noun",
+   "example_mn": "Энэ миний түлхүүр.",
+   "example_en": "This is my key.",
+   "mn_latin": "tülkhüür"
+  },
+  {
+   "mn": "аяга",
+   "en": "cup",
+   "pos": "noun",
+   "example_mn": "Энэ аяга шинэ.",
+   "example_en": "This cup is new.",
+   "mn_latin": "ayaga"
+  },
+  {
+   "mn": "цүнх",
+   "en": "bag",
+   "pos": "noun",
+   "example_mn": "Тэр цүнх хар.",
+   "example_en": "That bag is black.",
+   "mn_latin": "tsünkh"
+  },
+  {
+   "mn": "тийм",
+   "en": "yes",
+   "pos": "adverb",
+   "example_mn": "Тийм, энэ ном.",
+   "example_en": "Yes, this is a book.",
+   "mn_latin": "tiim"
+  },
+  {
+   "mn": "үгүй",
+   "en": "no",
+   "pos": "adverb",
+   "example_mn": "Үгүй, энэ аяга биш.",
+   "example_en": "No, this is not a cup.",
+   "mn_latin": "ügüi"
+  },
+  {
+   "mn": "биш",
+   "en": "is not",
+   "pos": "particle",
+   "example_mn": "Энэ утас биш.",
+   "example_en": "This is not a phone.",
+   "mn_latin": "bish"
+  },
+  {
+   "mn": "ном",
+   "en": "book",
+   "pos": "noun",
+   "example_mn": "Энэ ном уу?",
+   "example_en": "Is this a book?",
+   "mn_latin": "nom"
+  },
+  {
+   "mn": "хоол",
+   "en": "food",
+   "pos": "noun",
+   "example_mn": "Энэ хоол уу?",
+   "example_en": "Is this food?",
+   "mn_latin": "khool"
+  },
+  {
+   "mn": "миний",
+   "en": "my",
+   "pos": "pronoun",
+   "example_mn": "Энэ миний цүнх.",
+   "example_en": "This is my bag.",
+   "mn_latin": "minii"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ утас уу?",
+   "en": "Is this a phone?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene utas uu?"
+  },
+  {
+   "mn": "Тийм, энэ утас.",
+   "en": "Yes, it is a phone.",
+   "alt_mn": [
+    "Тийм, утас."
+   ],
+   "alt_en": [
+    "Yes, it is.",
+    "Yes, this is a phone."
+   ],
+   "mn_latin": "Tiim, ene utas."
+  },
+  {
+   "mn": "Энэ түлхүүр үү?",
+   "en": "Is this a key?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene tülkhüür üü?"
+  },
+  {
+   "mn": "Үгүй, энэ түлхүүр биш.",
+   "en": "No, it isn't a key.",
+   "alt_mn": [
+    "Үгүй, түлхүүр биш."
+   ],
+   "alt_en": [
+    "No, it is not a key.",
+    "No, it isn't."
+   ],
+   "mn_latin": "Ügüi, ene tülkhüür bish."
+  },
+  {
+   "mn": "Энэ аяга уу?",
+   "en": "Is this a cup?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene ayaga uu?"
+  },
+  {
+   "mn": "Тийм, энэ аяга.",
+   "en": "Yes, it is a cup.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, it is.",
+    "Yes, this is a cup."
+   ],
+   "mn_latin": "Tiim, ene ayaga."
+  },
+  {
+   "mn": "Тэр цүнх үү?",
+   "en": "Is that a bag?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ter tsünkh üü?"
+  },
+  {
+   "mn": "Үгүй, тэр цүнх биш, ном.",
+   "en": "No, that isn't a bag, it's a book.",
+   "alt_mn": [
+    "Үгүй, тэр цүнх биш, тэр ном."
+   ],
+   "alt_en": [
+    "No, that is not a bag, it is a book."
+   ],
+   "mn_latin": "Ügüi, ter tsünkh bish, nom."
+  },
+  {
+   "mn": "Энэ миний утас уу?",
+   "en": "Is this my phone?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene minii utas uu?"
+  },
+  {
+   "mn": "Тийм, энэ таны утас.",
+   "en": "Yes, this is your phone.",
+   "alt_mn": [
+    "Тийм, таны утас."
+   ],
+   "alt_en": [
+    "Yes, it is your phone."
+   ],
+   "mn_latin": "Tiim, ene tany utas."
+  },
+  {
+   "mn": "Тэр ном уу, цүнх үү?",
+   "en": "Is that a book or a bag?",
+   "alt_mn": [],
+   "alt_en": [
+    "Is that a bag or a book?"
+   ],
+   "mn_latin": "Ter nom uu, tsünkh üü?"
+  },
+  {
+   "mn": "Энэ таны түлхүүр үү?",
+   "en": "Is this your key?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene tany tülkhüür üü?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Questions with уу/үү and answers тийм/үгүй",
+  "title_mn": "Уу/үү асуух сул үг ба тийм/үгүй хариулт",
+  "explain_en": "In Mongolian you make a yes-or-no question by putting a question particle after the last word: Энэ утас уу? The word order does not change, and there is no word for 'is'. The particle follows vowel harmony. Use уу with back-vowel words (а, о, у) and үү with front-vowel words (э, ө, ү): утас уу?, ном уу?, түлхүүр үү? The same is true after a short final vowel: Энэ аяга уу? Only after a long vowel or a diphthong do you use юу or юү: Энэ далай юу? Энэ сүү юү? Answer with Тийм (yes) or Үгүй (no). To say something is not something, use биш: Энэ утас биш.",
+  "explain_mn": "Тийм, үгүй гэж хариулах асуултыг өгүүлбэрийн төгсгөлд асуух сул үг нэмж бүтээнэ: Энэ утас уу? Үгийн дэс дараалал өөрчлөгдөхгүй. Эр үгийн (а, о, у) дараа уу, эм үгийн (э, ө, ү) дараа үү бичнэ: утас уу?, ном уу?, түлхүүр үү? Богино эгшгээр төгссөн үгийн дараа ч мөн адил: Энэ аяга уу? Урт эгшиг, хос эгшгээр төгссөн үгийн дараа юу/юү бичнэ: Энэ далай юу? Энэ сүү юү? Хариулахдаа Тийм эсвэл Үгүй гэнэ. Ямар нэг зүйлийг үгүйсгэхдээ биш хэрэглэнэ: Энэ утас биш.",
+  "examples": [
+   {
+    "mn": "Энэ утас уу? — Тийм.",
+    "en": "Is this a phone? — Yes, it is.",
+    "mn_latin": "Ene utas uu? — Tiim."
+   },
+   {
+    "mn": "Энэ түлхүүр үү? — Үгүй, түлхүүр биш.",
+    "en": "Is this a key? — No, it isn't.",
+    "mn_latin": "Ene tülkhüür üü? — Ügüi, tülkhüür bish."
+   },
+   {
+    "mn": "Тэр цүнх үү?",
+    "en": "Is that a bag?",
+    "mn_latin": "Ter tsünkh üü?"
+   },
+   {
+    "mn": "Энэ аяга биш.",
+    "en": "This is not a cup.",
+    "mn_latin": "Ene ayaga bish."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ утас ___?",
+   "answer": "уу",
+   "options": [
+    "уу",
+    "үү",
+    "юу",
+    "биш"
+   ],
+   "translation": "Is this a phone?",
+   "explain_en": "Утас ends in a consonant and has a back vowel (а), so the particle is уу.",
+   "explain_mn": "Утас гэдэг үг гийгүүлэгчээр төгссөн бөгөөд эрэгтэй эгшигтэй (а) тул уу гэж бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ түлхүүр ___?",
+   "answer": "үү",
+   "options": [
+    "үү",
+    "уу",
+    "юу",
+    "биш"
+   ],
+   "translation": "Is this a key?",
+   "explain_en": "Түлхүүр has front vowels (ү), so the particle is үү.",
+   "explain_mn": "Түлхүүр гэдэг үг гийгүүлэгчээр төгссөн бөгөөд эмэгтэй эгшигтэй (ү) тул үү гэж бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ аяга ___?",
+   "answer": "уу",
+   "options": [
+    "юу",
+    "уу",
+    "үү",
+    "биш"
+   ],
+   "translation": "Is this a cup?",
+   "explain_en": "Аяга ends in a short vowel and has back vowels (а), so the particle is уу. Юу is used only after long vowels and diphthongs.",
+   "explain_mn": "Аяга гэдэг үг богино эгшгээр төгссөн эр үг (а) тул уу гэж бичнэ. Юу нь зөвхөн урт эгшиг, хос эгшгийн дараа орно."
+  },
+  {
+   "lang": "en",
+   "text": "___ this a bag?",
+   "answer": "Is",
+   "options": [
+    "Is",
+    "Are",
+    "Do",
+    "Am"
+   ],
+   "translation": "Энэ цүнх үү?",
+   "explain_en": "With 'this' we use 'Is' at the start of the question.",
+   "explain_mn": "\"This\"-тэй хамт асуулт эхлэхдээ \"Is\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Is that a cup? — Yes, it ___.",
+   "answer": "is",
+   "options": [
+    "is",
+    "isn't",
+    "are",
+    "does"
+   ],
+   "translation": "Тэр аяга уу? — Тийм.",
+   "explain_en": "A short yes answer repeats 'is': Yes, it is.",
+   "explain_mn": "Богино \"тийм\" хариулт \"Yes, it is.\" гэж \"is\"-ийг давтана."
+  },
+  {
+   "lang": "en",
+   "text": "Is this a key? — No, it ___.",
+   "answer": "isn't",
+   "options": [
+    "isn't",
+    "is",
+    "aren't",
+    "don't"
+   ],
+   "translation": "Энэ түлхүүр үү? — Үгүй.",
+   "explain_en": "A short no answer uses isn't: No, it isn't.",
+   "explain_mn": "Богино \"үгүй\" хариулт \"No, it isn't.\" гэж хэлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу? Энэ утас уу?",
+   "en": "Hello. Is this a phone?",
+   "mn_latin": "Sain baina uu? Ene utas uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм, энэ утас.",
+   "en": "Yes, it is a phone.",
+   "mn_latin": "Tiim, ene utas."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Энэ таны утас уу?",
+   "en": "Is this your phone?",
+   "mn_latin": "Ene tany utas uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Үгүй, энэ миний утас биш.",
+   "en": "No, it isn't my phone.",
+   "mn_latin": "Ügüi, ene minii utas bish."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Энэ түлхүүр үү?",
+   "en": "Is this a key?",
+   "mn_latin": "Ene tülkhüür üü?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм, энэ миний түлхүүр.",
+   "en": "Yes, it is. It's my key.",
+   "mn_latin": "Tiim, ene minii tülkhüür."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэгвэл энэ цүнх таных уу?",
+   "en": "Then is this bag yours?",
+   "mn_latin": "Tegvel ene tsünkh tanykh uu?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм, баярлалаа!",
+   "en": "Yes, it is. Thank you!",
+   "mn_latin": "Tiim, bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian shops and markets such as the Narantuul market in Ulaanbaatar, people often ask short questions like \"Энэ үү?\" while pointing at things. Politeness matters, so people often add \"Уучлаарай\" (excuse me) before asking a stranger.",
+  "mn": "Улаанбаатар дахь Нарантуул зах зэрэг дэлгүүр, худалдааны газарт хүмүүс заагаад \"Энэ үү?\" гэж богино асуулт ихэвчлэн асуудаг. Үл таних хүнээс асуухдаа эелдэг байхын тулд эхэнд нь \"Уучлаарай\" гэж хэлдэг."
+ },
+ "review": {
+  "rating": 3,
+  "fixes": 29,
+  "notes": "Contains a nonsensical fill-in item, muddled grammar explanations (mn explanation is written about English), and юу/уу errors for аяга; several alt_en change meaning (a vs the)."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 11,
+  "notes": "Main problems: the юу rule was wrong (аяга takes уу), 'сөл' is not a word (now 'сул үг'), and 'хүнс' is now 'хоол'.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "Make it match the mn intro and the grammar section"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'сөл' is not a word (term is 'сул үг'); clearer wording"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "mn",
+    "why": "'хүнс' means groceries; 'хоол' is the natural word for 'food'"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "Follows the vocab word change"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "Use уу after a short final vowel (cf. Сайн байна уу); юу is only for long vowels and diphthongs"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "'сөл' is not a word"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The юу rule was wrong; аяга takes уу"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Wrong юу rule; must match the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "Энэ аяга уу? is the correct form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "Correct the rule"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Correct the rule"
+   }
+  ]
+ }
+}

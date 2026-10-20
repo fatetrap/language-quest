@@ -1,0 +1,418 @@
+{
+ "intro_en": "Follow a freight forwarder as she explains how Mongolian cargo travels from Ulaanbaatar to the sea at Tianjin. You'll learn port and shipping vocabulary, how to say \"through\" or \"via\" a channel or intermediary with -аар дамжуулан, and the English pattern \"twice as... as\".",
+ "intro_mn": "Улаанбаатараас Тяньжин боомт хүртэл ачаа хэрхэн тээвэрлэгддэг талаар тээвэр зуучлагчийн тайлбарыг сонсоно. Боомт, далайн тээврийн нэр томьёо, -аар дамжуулан хэлбэр, мөн англи хэлний \"twice as... as\" бүтцийг сурна.",
+ "vocab": [
+  {
+   "mn": "боомт",
+   "en": "port",
+   "pos": "noun",
+   "example_mn": "Тяньжин бол Монголд хамгийн ойр далайн боомт.",
+   "example_en": "Tianjin is the seaport closest to Mongolia.",
+   "mn_latin": "boomt"
+  },
+  {
+   "mn": "чингэлэг",
+   "en": "container (shipping)",
+   "pos": "noun",
+   "example_mn": "Нэг чингэлэгт хорь орчим тонн ачаа багтдаг.",
+   "example_en": "About twenty tons of cargo fit in one container.",
+   "mn_latin": "chingeleg"
+  },
+  {
+   "mn": "ачаа тээвэр",
+   "en": "freight, cargo transport",
+   "pos": "noun",
+   "example_mn": "Ачаа тээврийн зардал энэ жил өссөн.",
+   "example_en": "Freight costs went up this year.",
+   "mn_latin": "achaa teever"
+  },
+  {
+   "mn": "далайн тээвэр",
+   "en": "sea freight, maritime shipping",
+   "pos": "noun",
+   "example_mn": "Далайн тээвэр удаан ч хямд.",
+   "example_en": "Sea freight is slow but cheap.",
+   "mn_latin": "dalain teever"
+  },
+  {
+   "mn": "зуучлагч",
+   "en": "intermediary, broker",
+   "pos": "noun",
+   "example_mn": "Бид туршлагатай зуучлагчтай хамтран ажилладаг.",
+   "example_en": "We work with an experienced broker.",
+   "mn_latin": "zuuchlagch"
+  },
+  {
+   "mn": "тээвэр зуучлагч",
+   "en": "freight forwarder",
+   "pos": "noun",
+   "example_mn": "Тээвэр зуучлагч бүх бичиг баримтыг бүрдүүлдэг.",
+   "example_en": "The freight forwarder prepares all the paperwork.",
+   "mn_latin": "teever zuuchlagch"
+  },
+  {
+   "mn": "гаалийн бүрдүүлэлт",
+   "en": "customs clearance",
+   "pos": "noun",
+   "example_mn": "Гаалийн бүрдүүлэлт хоёр хоног үргэлжилсэн.",
+   "example_en": "Customs clearance took two days.",
+   "mn_latin": "gaaliin bürdüülelt"
+  },
+  {
+   "mn": "дамжин өнгөрөх",
+   "en": "to transit, to pass through",
+   "pos": "verb",
+   "example_mn": "Ачаа Хятадын нутгаар дамжин өнгөрнө.",
+   "example_en": "The cargo transits through Chinese territory.",
+   "mn_latin": "damjin öngörökh"
+  },
+  {
+   "mn": "ачих",
+   "en": "to load",
+   "pos": "verb",
+   "example_mn": "Чингэлэгийг галт тэргэнд ачлаа.",
+   "example_en": "The container was loaded onto the train.",
+   "mn_latin": "achikh"
+  },
+  {
+   "mn": "хүргэлтийн хугацаа",
+   "en": "delivery time, lead time",
+   "pos": "noun",
+   "example_mn": "Хүргэлтийн хугацаа ойролцоогоор нэг сар.",
+   "example_en": "The delivery time is about a month.",
+   "mn_latin": "khürgeltiin khugatsaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид ачааг Тяньжин боомтоор дамжуулан Солонгос руу илгээдэг.",
+   "en": "We ship cargo to Korea via Tianjin Port.",
+   "alt_mn": [
+    "Бид ачаагаа Тяньжин боомтоор дамжуулан Солонгос руу явуулдаг."
+   ],
+   "alt_en": [
+    "We send cargo to Korea through Tianjin Port."
+   ],
+   "mn_latin": "Bid achaag Tyanijin boomtoor damjuulan Solongos ruu ilgeedeg."
+  },
+  {
+   "mn": "Агаарын тээвэр далайн тээврээс дор хаяж тав дахин үнэтэй.",
+   "en": "Air freight is at least five times as expensive as sea freight.",
+   "alt_mn": [
+    "Агаарын тээвэр далайн тээврээс хамгийн багадаа тав дахин үнэтэй."
+   ],
+   "alt_en": [
+    "Air freight costs at least five times as much as sea freight."
+   ],
+   "mn_latin": "Agaaryn teever dalain teevrees dor khayaj tav dakhin ünetei."
+  },
+  {
+   "mn": "Жижиг компаниуд ихэвчлэн зуучлагчаар дамжуулан чингэлэг захиалдаг.",
+   "en": "Small companies usually book containers through an intermediary.",
+   "alt_mn": [],
+   "alt_en": [
+    "Small companies usually book containers through a broker."
+   ],
+   "mn_latin": "Jijig kompaniud ikhevchlen zuuchlagchaar damjuulan chingeleg zakhialdag."
+  },
+  {
+   "mn": "Өвлийн улиралд хүргэлтийн хугацаа зуныхаас хоёр дахин урт байж болно.",
+   "en": "In winter, delivery time can be twice as long as in summer.",
+   "alt_mn": [
+    "Өвөл хүргэлт зуныхаас хоёр дахин удаж болно."
+   ],
+   "alt_en": [
+    "Delivery can take twice as long in winter as in summer."
+   ],
+   "mn_latin": "Övliin ulirald khürgeltiin khugatsaa zunykhaas khoyor dakhin urt baij bolno."
+  },
+  {
+   "mn": "Гаалийн бүрдүүлэлтийг Эрээн дэх төлөөлөгчөөрөө дамжуулан хийдэг.",
+   "en": "We handle customs clearance through our agent in Erenhot.",
+   "alt_mn": [
+    "Гаалийн бүрдүүлэлтийг Эрээн дэх манай төлөөлөгчөөр дамжуулан хийдэг."
+   ],
+   "alt_en": [
+    "Customs clearance is done through our agent in Erenhot."
+   ],
+   "mn_latin": "Gaaliin bürdüüleltiig Ereen dekh tölöölögchööröö damjuulan khiideg."
+  },
+  {
+   "mn": "Тяньжинд чингэлэгийг хөлөг онгоцонд ачаад Бусан руу илгээнэ.",
+   "en": "In Tianjin, the container is loaded onto a ship and sent to Busan.",
+   "alt_mn": [],
+   "alt_en": [
+    "In Tianjin, they load the container onto a ship and send it to Busan."
+   ],
+   "mn_latin": "Tyanijind chingelegiig khölög ongotsond achaad Busan ruu ilgeene."
+  },
+  {
+   "mn": "Далайд гарцгүй учраас манай ачаа тээврийн зардал хөршүүдийнхээс хамаагүй өндөр.",
+   "en": "Because we're landlocked, our freight costs are much higher than our neighbors'.",
+   "alt_mn": [
+    "Далайд гарцгүй тул манай ачаа тээврийн зардал хөрш орнуудынхаас хамаагүй өндөр."
+   ],
+   "alt_en": [
+    "Since we have no access to the sea, our freight costs are far higher than our neighbors'."
+   ],
+   "mn_latin": "Dalaid gartsgüi uchraas manai achaa teevriin zardal khörshüüdiinkhees khamaagüi öndör."
+  },
+  {
+   "mn": "Энэ жил бид өнгөрсөн жилийнхээс гурав дахин олон чингэлэг илгээсэн.",
+   "en": "This year we shipped three times as many containers as last year.",
+   "alt_mn": [],
+   "alt_en": [
+    "This year we sent three times as many containers as last year."
+   ],
+   "mn_latin": "Ene jil bid öngörsön jiliinkhees gurav dakhin olon chingeleg ilgeesen."
+  },
+  {
+   "mn": "Монголын импортын бараа ихэвчлэн Хятадын боомтуудаар дамжуулан орж ирдэг.",
+   "en": "Mongolia's imported goods mostly come in through Chinese ports.",
+   "alt_mn": [],
+   "alt_en": [
+    "Most of Mongolia's imports arrive via Chinese ports."
+   ],
+   "mn_latin": "Mongolyn importyn baraa ikhevchlen Khyatadyn boomtuudaar damjuulan orj irdeg."
+  },
+  {
+   "mn": "Чингэлэг боомтод удаан саатвал нэмэлт төлбөр төлөх шаардлагатай болдог.",
+   "en": "If a container is held up at the port for a long time, you have to pay extra fees.",
+   "alt_mn": [],
+   "alt_en": [
+    "If a container sits at the port too long, extra charges apply."
+   ],
+   "mn_latin": "Chingeleg boomtod udaan saatval nemelt tölbör tölökh shaardlagatai boldog."
+  },
+  {
+   "mn": "Ачааны машинаар тээвэрлэх нь төмөр замаас ойролцоогоор хоёр дахин үнэтэй.",
+   "en": "Trucking is about twice as expensive as rail.",
+   "alt_mn": [
+    "Ачааны машины тээвэр төмөр замын тээврээс бараг хоёр дахин үнэтэй."
+   ],
+   "alt_en": [
+    "Shipping by truck costs about twice as much as shipping by rail."
+   ],
+   "mn_latin": "Achaany mashinaar teeverlekh ni tömör zamaas oiroltsoogoor khoyor dakhin ünetei."
+  },
+  {
+   "mn": "Бид харилцагчидтайгаа ачааны байршлыг цахим системээр дамжуулан хуваалцдаг.",
+   "en": "We share the cargo's location with our clients through an online system.",
+   "alt_mn": [],
+   "alt_en": [
+    "We let clients track their cargo through an online system."
+   ],
+   "mn_latin": "Bid khariltsagchidtaigaa achaany bairshlyg tsakhim sistyemeer damjuulan khuvaaltsdag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Through a channel: -аар дамжуулан / Comparing amounts: twice as... as",
+  "title_mn": "-аар дамжуулан хэлбэр / Англи хэлний \"twice as... as\" бүтэц",
+  "explain_en": "To say that something happens \"through\" or \"via\" a channel, route, or intermediary, put the noun in the instrumental case (-аар/-ээр/-оор/-өөр, following vowel harmony; -гаар etc. after a long vowel) and add дамжуулан, which comes from дамжуулах, \"to pass on, transmit.\" Боомтоор дамжуулан = via the port; зуучлагчаар дамжуулан = through a broker; Эрээнээр дамжуулан = via Erenhot. The plain instrumental can already mean \"by\" or \"through\" (галт тэргээр = by train), but adding дамжуулан stresses that the noun is a go-between: the goods or information pass through it on the way to somewhere else. The intransitive form дамжин is used when the subject itself moves through: Ачаа Эрээнээр дамжин өнгөрнө. For multiples, Mongolian uses a number + дахин after the -аас/-ээс comparison: хоёр дахин урт, гурав дахин үнэтэй.",
+  "explain_mn": "Англи хэлэнд нэг зүйл нөгөөгөөсөө хэд дахин их болохыг \"тоо + times as + тэмдэг нэр + as\" гэж хэлдэг. Хоёр дахин бол \"twice as... as\" гэнэ, \"two times\" гэдэг нь ярианд ч сонсогддог. Жишээ нь: twice as long as (хоёр дахин урт), three times as expensive as (гурав дахин үнэтэй). Тоолж болох нэр үгтэй бол \"as many... as\", тоолж болохгүйтэй бол \"as much... as\" хэрэглэнэ: three times as many containers (гурав дахин олон чингэлэг), twice as much cargo (хоёр дахин их ачаа). Монгол хэлний \"-аас ... дахин\" бүтэцтэй дүйцнэ. Гэхдээ англиар үгийн дараалал өөр байдгийг анхаараарай: харьцуулж буй зүйл төгсгөлийн \"as\"-ын дараа орно. Мөн \"twice as cheap\" гэхээсээ илүү \"half the price\" (хагас үнэтэй) гэвэл илүү байгалийн сонсогдоно.",
+  "examples": [
+   {
+    "mn": "Бид бүх баримт бичгийг зуучлагчаар дамжуулан илгээдэг.",
+    "en": "We send all the documents through an intermediary.",
+    "mn_latin": "Bid bükh barimt bichgiig zuuchlagchaar damjuulan ilgeedeg."
+   },
+   {
+    "mn": "Ачаа Замын-Үүдээр дамжин Хятад руу гардаг.",
+    "en": "The cargo crosses into China via Zamyn-Üüd.",
+    "mn_latin": "Achaa Zamyn-Üüdeer damjin Khyatad ruu gardag."
+   },
+   {
+    "mn": "Энэ зам нөгөөгөөсөө хоёр дахин урт.",
+    "en": "This route is twice as long as the other one.",
+    "mn_latin": "Ene zam nögöögöösöö khoyor dakhin urt."
+   },
+   {
+    "mn": "Тэд биднээс гурав дахин их ачаа тээвэрлэдэг.",
+    "en": "They move three times as much freight as we do.",
+    "mn_latin": "Ted bidnees gurav dakhin ikh achaa teeverledeg."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Манай ачаа Тяньжин боомт___ дамжуулан Япон руу явдаг.",
+   "answer": "оор",
+   "options": [
+    "оор",
+    "аар",
+    "оос",
+    "од"
+   ],
+   "translation": "Our cargo goes to Japan via Tianjin Port.",
+   "explain_en": "Боомт has the vowel о, so vowel harmony requires the instrumental -оор. With дамжуулан it means \"via the port.\" -оос would mean \"from\" and -од \"at.\"",
+   "explain_mn": "Боомт үг о эгшигтэй тул эгшиг зохицох ёсоор үйлдэхийн тийн ялгал -оор залгана. -аар нь эгшиг зохицохгүй, -оос гарахын, -од өгөх оршихын тийн ялгал тул дамжуулантай тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Жижиг пүүсүүд чингэлэгээ зуучлагч___ дамжуулан захиалдаг.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "ээр",
+    "тай",
+    "ид"
+   ],
+   "translation": "Small firms book their containers through a broker.",
+   "explain_en": "The last vowel of зуучлагч is а, so the instrumental is -аар. Зуучлагчаар дамжуулан = through a broker. -тай would mean \"with,\" and -ид (dative) means \"to/at.\"",
+   "explain_mn": "Зуучлагч үгийн сүүлчийн эгшиг а тул -аар залгана. \"Зуучлагчаар дамжуулан\" гэдэг нь зуучлагч дундын хүн болж байгааг заана. -тай нь хамтын, -ид нь өгөх оршихын тийн ялгал."
+  },
+  {
+   "lang": "mn",
+   "text": "Өвөл хүргэлтийн хугацаа зуныхаас хоёр ___ урт байдаг.",
+   "answer": "дахин",
+   "options": [
+    "дахин",
+    "удаа",
+    "хүртэл",
+    "шиг"
+   ],
+   "translation": "In winter, delivery time is twice as long as in summer.",
+   "explain_en": "Multiples in comparisons use number + дахин: хоёр дахин урт = twice as long. Удаа counts how many times something happens (as in \"I went twice\"), not multiples of size or amount.",
+   "explain_mn": "Хэмжээ, тоо хэмжээг хэд дахин их болохыг \"тоо + дахин\" гэж илэрхийлнэ. \"Удаа\" нь үйл хэдэн удаа болсныг тоолдог тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Delivery by truck takes half the time, but it is twice as ___ as rail.",
+   "answer": "expensive",
+   "options": [
+    "expensive",
+    "more expensive",
+    "expensiver",
+    "expensively"
+   ],
+   "translation": "Ачааны машинаар хүргэх хугацаа хоёр дахин богино ч төмөр замаас хоёр дахин үнэтэй.",
+   "explain_en": "In \"twice as... as\" the adjective stays in its base form, so it's \"twice as expensive as,\" not \"more expensive.\"",
+   "explain_mn": "\"twice as... as\" бүтцэд тэмдэг нэр үндсэн хэлбэрээрээ орно. \"more expensive\" гэвэл давтан харьцуулалт болж буруу. \"expensively\" бол дайвар үг."
+  },
+  {
+   "lang": "en",
+   "text": "This year we shipped three times as ___ containers as last year.",
+   "answer": "many",
+   "options": [
+    "many",
+    "much",
+    "more",
+    "most"
+   ],
+   "translation": "Энэ жил бид өнгөрсөн жилийнхээс гурав дахин олон чингэлэг илгээсэн.",
+   "explain_en": "Containers are countable, so we use \"as many... as.\" \"Much\" is for uncountable nouns like freight or cargo.",
+   "explain_mn": "Container буюу чингэлэгийг тоолж болдог тул \"as many... as\" хэрэглэнэ. \"much\" нь freight, cargo гэх мэт тоолж болохгүй нэр үгтэй хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The new route is twice as long ___ the old one, but it avoids the border queues.",
+   "answer": "as",
+   "options": [
+    "as",
+    "than",
+    "like",
+    "so"
+   ],
+   "translation": "Шинэ зам хуучнаасаа хоёр дахин урт ч хилийн дугаараас зайлсхийх боломжтой.",
+   "explain_en": "The pattern is \"as + adjective + as.\" \"Than\" only goes with comparatives like \"longer than.\"",
+   "explain_mn": "Бүтэц нь \"as + тэмдэг нэр + as\" байдаг. \"than\" нь зөвхөн \"longer than\" гэх мэт харьцуулсан зэргийн хэлбэртэй хамт хэрэглэгдэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Улаанбаатараас Солонгос руу ачаа илгээхэд хамгийн тохиромжтой зам аль вэ?",
+   "en": "What's the best route for sending cargo from Ulaanbaatar to Korea?",
+   "mn_latin": "Ulaanbaataraas Solongos ruu achaa ilgeekhed khamgiin tokhiromjtoi zam ali ve?"
+  },
+  {
+   "speaker": "Oyunchimeg",
+   "mn": "Ихэнхдээ төмөр замаар Замын-Үүд хүртэл, тэндээс Тяньжин боомтоор дамжуулан далайн тээврээр явуулдаг.",
+   "en": "Usually by rail to Zamyn-Üüd, and from there by sea via Tianjin Port.",
+   "mn_latin": "Ikhenkhdee tömör zamaar Zamyn-Üüd khürtel, tendees Tyanijin boomtoor damjuulan dalain teevreer yavuuldag."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Агаарын тээврээр явуулбал илүү хурдан биш үү?",
+   "en": "Wouldn't air freight be faster?",
+   "mn_latin": "Agaaryn teevreer yavuulbal ilüü khurdan bish üü?"
+  },
+  {
+   "speaker": "Oyunchimeg",
+   "mn": "Хурдан л даа, гэхдээ дор хаяж тав дахин үнэтэй. Танай тоног төхөөрөмж хүнд учраас далайн тээвэр ашигтай.",
+   "en": "It is, but it's at least five times as expensive. Your equipment is heavy, so sea freight makes more sense.",
+   "mn_latin": "Khurdan l daa, gekhdee dor khayaj tav dakhin ünetei. Tanai tonog tökhöörömj khünd uchraas dalain teever ashigtai."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Хүргэлтийн хугацаа хэр удах вэ?",
+   "en": "How long will delivery take?",
+   "mn_latin": "Khürgeltiin khugatsaa kher udakh ve?"
+  },
+  {
+   "speaker": "Oyunchimeg",
+   "mn": "Ойролцоогоор гурван долоо хоног. Харин хилийн дугаар ихтэй үед хоёр дахин удаж магадгүй.",
+   "en": "About three weeks. But when there are long lines at the border, it could take twice as long.",
+   "mn_latin": "Oiroltsoogoor gurvan doloo khonog. Kharin khiliin dugaar ikhtei üyed khoyor dakhin udaj magadgüi."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Гаалийн бүрдүүлэлтийг хэн хариуцах вэ?",
+   "en": "Who takes care of customs clearance?",
+   "mn_latin": "Gaaliin bürdüüleltiig khen khariutsakh ve?"
+  },
+  {
+   "speaker": "Oyunchimeg",
+   "mn": "Бид Эрээн дэх төлөөлөгчөөрөө дамжуулан бүгдийг нь зохицуулна. Та санаа зовох хэрэггүй.",
+   "en": "We handle all of it through our agent in Erenhot. You don't need to worry.",
+   "mn_latin": "Bid Ereen dekh tölöölögchööröö damjuulan bügdiig ni zokhitsuulna. Ta sanaa zovokh khereggüi."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia is one of the largest landlocked countries in the world, and Tianjin, roughly 1,700 km from Ulaanbaatar, is its main gateway to the sea under a transit agreement with China. Mongolian railways use the wide Russian gauge while China uses the standard gauge, so at the Zamyn-Üüd–Erenhot crossing, containers must be transferred or the train cars re-bogied. This is one reason freight forwarders are so important in Mongolian business.",
+  "mn": "Монгол Улс бол дэлхийн хамгийн том далайд гарцгүй орнуудын нэг бөгөөд Хятадтай байгуулсан дамжин өнгөрөх тээврийн хэлэлцээрийн дагуу Улаанбаатараас 1700 орчим км зайтай Тяньжин боомтоор голчлон далайд гардаг. Манай төмөр зам Оросын өргөн царигтай, харин Хятадынх стандарт царигтай тул Замын-Үүд–Эрээний боомт дээр чингэлэгийг шилжүүлэн ачих эсвэл вагоны тэргэнцрийг солих шаардлагатай болдог. Тиймээс Монголын бизнест тээвэр зуучлагчдын үүрэг их чухал."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "A solid, accurate lesson. The main fixes are one misspelled verb form and a misleading English-usage note in the Mongolian grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "Mostly clean. Fixed one invalid case form among the fill-blank options and one unnatural alternative sentence.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "'хоёр дахин уртсаж' is an unnatural collocation; use удах for time"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'зуучлагчт' is not a valid form; the dative after -ч is -ид"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "match the corrected option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "match the corrected option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "awkward English example"
+   }
+  ]
+ }
+}

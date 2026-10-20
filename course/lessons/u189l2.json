@@ -1,0 +1,412 @@
+{
+ "intro_en": "Learn to tell a friend how a hidden illness was missed, using key misdiagnosis vocabulary. You will also use the Mongolian causative to describe things you suffered at someone's hands, and English 'must have been + -ing' to make guesses about what was going on in the past.",
+ "intro_mn": "Далд өвчнийг хэрхэн анзааралгүй өнгөрөөснийг найздаа ярьж, буруу оноштой холбоотой гол үгсийг сурна. Мөн хэн нэгнээс болж амссан зүйлээ үйлдүүлэх хэвээр илэрхийлэх, англи хэлний 'must have been + -ing' бүтцээр өнгөрсөн үед үргэлжилж байсан нөхцөл байдлыг таамаглах аргыг эзэмшинэ.",
+ "vocab": [
+  {
+   "mn": "онош",
+   "en": "diagnosis",
+   "pos": "noun",
+   "example_mn": "Эцсийн онош хоёр сарын дараа гарсан.",
+   "example_en": "The final diagnosis came two months later.",
+   "mn_latin": "onosh"
+  },
+  {
+   "mn": "буруу онош тавих",
+   "en": "to misdiagnose",
+   "pos": "verb phrase",
+   "example_mn": "Эмч ядаргаа гэж буруу онош тавьсан.",
+   "example_en": "The doctor misdiagnosed it as fatigue.",
+   "mn_latin": "buruu onosh tavikh"
+  },
+  {
+   "mn": "хожуу илрэх",
+   "en": "to be detected late",
+   "pos": "verb phrase",
+   "example_mn": "Энэ өвчин ихэвчлэн хожуу илэрдэг.",
+   "example_en": "This disease is often detected late.",
+   "mn_latin": "khojuu ilrekh"
+  },
+  {
+   "mn": "дахин шинжилгээ",
+   "en": "retest, repeat test",
+   "pos": "noun",
+   "example_mn": "Эмч дахин шинжилгээ өгөхийг зөвлөсөн.",
+   "example_en": "The doctor recommended a retest.",
+   "mn_latin": "dakhin shinjilgee"
+  },
+  {
+   "mn": "шинж тэмдэг",
+   "en": "symptom",
+   "pos": "noun",
+   "example_mn": "Шинж тэмдэг нь тийм ч тодорхой биш байсан.",
+   "example_en": "The symptoms weren't very clear.",
+   "mn_latin": "shinj temdeg"
+  },
+  {
+   "mn": "далд өвчин",
+   "en": "hidden illness",
+   "pos": "noun",
+   "example_mn": "Далд өвчнийг илрүүлэхэд хэцүү.",
+   "example_en": "A hidden illness is hard to detect.",
+   "mn_latin": "dald övchin"
+  },
+  {
+   "mn": "анзааралгүй өнгөрөөх",
+   "en": "to overlook",
+   "pos": "verb phrase",
+   "example_mn": "Эмч энэ шинж тэмдгийг анзааралгүй өнгөрөөжээ.",
+   "example_en": "The doctor overlooked this symptom.",
+   "mn_latin": "anzaaralgüi öngöröökh"
+  },
+  {
+   "mn": "өөр эмчид үзүүлэх",
+   "en": "to get a second opinion",
+   "pos": "verb phrase",
+   "example_mn": "Та заавал өөр эмчид үзүүлээрэй.",
+   "example_en": "You should definitely get a second opinion.",
+   "mn_latin": "öör emchid üzüülekh"
+  },
+  {
+   "mn": "хоёр ээлж дараалан ажиллах",
+   "en": "to work a double shift",
+   "pos": "verb phrase",
+   "example_mn": "Сувилагч өчигдөр хоёр ээлж дараалан ажилласан.",
+   "example_en": "The nurse worked a double shift yesterday.",
+   "mn_latin": "khoyor eelj daraalan ajillakh"
+  },
+  {
+   "mn": "бамбай булчирхай",
+   "en": "thyroid",
+   "pos": "noun",
+   "example_mn": "Түүний бамбай булчирхайд асуудал илэрсэн.",
+   "example_en": "A problem was found in her thyroid.",
+   "mn_latin": "bambai bulchirkhai"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би эхлээд эмчид буруу онош тавиулсан.",
+   "en": "At first, I was misdiagnosed by a doctor.",
+   "alt_mn": [
+    "Эхлээд эмч надад буруу онош тавьсан."
+   ],
+   "alt_en": [
+    "At first, a doctor misdiagnosed me.",
+    "At first, I got misdiagnosed by a doctor."
+   ],
+   "mn_latin": "Bi ekhleed emchid buruu onosh taviulsan."
+  },
+  {
+   "mn": "Миний бамбай булчирхайн өвчин хожуу илэрсэн.",
+   "en": "My thyroid condition was detected late.",
+   "alt_mn": [
+    "Бамбай булчирхайн өвчин маань хожуу илэрсэн."
+   ],
+   "alt_en": [
+    "My thyroid disease was detected late.",
+    "My thyroid problem was caught late."
+   ],
+   "mn_latin": "Minii bambai bulchirkhain övchin khojuu ilersen."
+  },
+  {
+   "mn": "Тэр эмч хоёр ээлж дараалан ажиллаж байсан байх.",
+   "en": "That doctor must have been working a double shift.",
+   "alt_mn": [
+    "Тэр эмч хоёр ээлж дараалан ажиллаж байсан байх л даа."
+   ],
+   "alt_en": [],
+   "mn_latin": "Ter emch khoyor eelj daraalan ajillaj baisan baikh."
+  },
+  {
+   "mn": "Би буруу эм бичүүлээд гурван сар уусан.",
+   "en": "I was prescribed the wrong medicine and took it for three months.",
+   "alt_mn": [
+    "Надад буруу эм бичсэн, би түүнийг гурван сар уусан."
+   ],
+   "alt_en": [
+    "I got prescribed the wrong medication and took it for three months."
+   ],
+   "mn_latin": "Bi buruu em bichüüleed gurvan sar uusan."
+  },
+  {
+   "mn": "Дахин шинжилгээ өгөхөд л жинхэнэ онош гарсан.",
+   "en": "The real diagnosis only came out when I had the tests redone.",
+   "alt_mn": [
+    "Дахин шинжилгээ өгсний дараа л жинхэнэ онош гарсан."
+   ],
+   "alt_en": [
+    "Only after a retest did the real diagnosis come out."
+   ],
+   "mn_latin": "Dakhin shinjilgee ögökhöd l jinkhene onosh garsan."
+  },
+  {
+   "mn": "Миний шинж тэмдгүүдийг хэн ч анзааралгүй өнгөрөөсөн.",
+   "en": "Nobody paid attention to my symptoms.",
+   "alt_mn": [
+    "Шинж тэмдгүүдийг минь хэн ч анзаараагүй."
+   ],
+   "alt_en": [
+    "My symptoms were overlooked by everyone.",
+    "Everyone overlooked my symptoms."
+   ],
+   "mn_latin": "Minii shinj temdgüüdiig khen ch anzaaralgüi öngöröösön."
+  },
+  {
+   "mn": "Тэд маш их яарч байсан байх.",
+   "en": "They must have been in a big hurry.",
+   "alt_mn": [
+    "Тэд их яарч байсан бололтой."
+   ],
+   "alt_en": [
+    "They must have been really rushed.",
+    "They must have been rushing."
+   ],
+   "mn_latin": "Ted mash ikh yaarch baisan baikh."
+  },
+  {
+   "mn": "Чи олон сар их зовж байсан байх даа.",
+   "en": "You must have been suffering for months.",
+   "alt_mn": [
+    "Чи хэдэн сар их зовсон байх даа."
+   ],
+   "alt_en": [
+    "You must have been going through a lot for months."
+   ],
+   "mn_latin": "Chi olon sar ikh zovj baisan baikh daa."
+  },
+  {
+   "mn": "Өөр эмчид үзүүлсэн чинь зөв болжээ.",
+   "en": "It's a good thing you got a second opinion.",
+   "alt_mn": [
+    "Өөр эмчид үзүүлсэн нь зөв байжээ."
+   ],
+   "alt_en": [
+    "Good thing you got a second opinion."
+   ],
+   "mn_latin": "Öör emchid üzüülsen chini zöv boljee."
+  },
+  {
+   "mn": "Олон хүн буруу онош тавиулчихаад хэнд ч хэлдэггүй.",
+   "en": "Many people get misdiagnosed and never tell anyone.",
+   "alt_mn": [],
+   "alt_en": [
+    "Lots of people are misdiagnosed and don't tell anyone."
+   ],
+   "mn_latin": "Olon khün buruu onosh taviulchikhaad khend ch kheldeggüi."
+  },
+  {
+   "mn": "Тэр үед би өөрийгөө зүгээр л ядарч байна гэж бодсон.",
+   "en": "At the time, I thought I was just tired.",
+   "alt_mn": [
+    "Тэр үед би зүгээр л ядарсан гэж бодож байсан."
+   ],
+   "alt_en": [
+    "Back then, I thought I was just tired."
+   ],
+   "mn_latin": "Ter üyed bi ööriigöö zügeer l yadarch baina gej bodson."
+  },
+  {
+   "mn": "Лабораторийнхон дээжүүдийг андуурч байсан байх.",
+   "en": "The lab staff must have been mixing up the samples.",
+   "alt_mn": [
+    "Лабораторийнхон дээжийг андуурч байсан байх."
+   ],
+   "alt_en": [
+    "The lab must have been mixing up samples."
+   ],
+   "mn_latin": "Laboratoriinkhon deejüüdiig anduurch baisan baikh."
+  }
+ ],
+ "grammar": {
+  "title_en": "Causative for things you suffered: буруу онош тавиулах",
+  "title_mn": "Өнгөрсөн үеийн таамаглал: must have been + -ing",
+  "explain_en": "In Mongolian, the causative suffix -уул/-үүл (after a long vowel or diphthong, usually -лга/-лгэ, e.g. хийх → хийлгэх) can turn a verb into something you 'underwent' at someone else's hands. The person doing it takes the dative ending -д/-т: 'Эмч надад буруу онош тавьсан' (The doctor misdiagnosed me) becomes 'Би эмчид буруу онош тавиулсан' (I got misdiagnosed by the doctor). This puts you at the center of the sentence as the one who suffered. Adding -чих (тавиулчихсан, бичүүлчихсэн) gives a feeling of regret: 'it happened to me, unfortunately.' Compare 'нохойд хазуулах' (to get bitten by a dog).",
+  "explain_mn": "Англи хэлэнд өнгөрсөн үед үргэлжилж байсан үйлийн талаар баттай таамаг дэвшүүлэхдээ 'must have been + -ing' хэлбэрийг хэрэглэдэг. Энэ нь монгол хэлний '-ж байсан байх' гэсэнтэй дүйнэ: 'The doctor must have been working a double shift' — 'Эмч хоёр ээлж дараалан ажиллаж байсан байх'. Харин тухайн мөчид болсон нэг удаагийн үйлийг таамаглахдаа 'must have + V3' хэлбэрийг хэрэглэнэ: 'He must have made a mistake' — 'Тэр алдаа гаргасан байх'. 'Must' гэдэг нь энд 'заавал' биш, 'гарцаагүй тийм байх' гэсэн итгэлтэй таамаглалыг илэрхийлдэг.",
+  "examples": [
+   {
+    "mn": "Би хоёр удаа буруу онош тавиулсан.",
+    "en": "I was misdiagnosed twice.",
+    "mn_latin": "Bi khoyor udaa buruu onosh taviulsan."
+   },
+   {
+    "mn": "Ээж маань буруу эм бичүүлчихсэн байсан.",
+    "en": "My mom had been prescribed the wrong medicine.",
+    "mn_latin": "Eej maani buruu em bichüülchikhsen baisan."
+   },
+   {
+    "mn": "Эмч өөр өвчтөний картыг харж байсан байх.",
+    "en": "The doctor must have been looking at another patient's chart.",
+    "mn_latin": "Emch öör övchtönii kartyg kharj baisan baikh."
+   },
+   {
+    "mn": "Чи шөнөжин унтаж чадахгүй байсан байх.",
+    "en": "You must have been lying awake all night.",
+    "mn_latin": "Chi shönöjin untaj chadakhgüi baisan baikh."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өнгөрсөн жил эмчид буруу онош ___.",
+   "answer": "тавиулсан",
+   "options": [
+    "тавиулсан",
+    "тавьсан",
+    "тавигдсан",
+    "тавиулах"
+   ],
+   "translation": "Last year I was misdiagnosed by a doctor.",
+   "explain_en": "The subject is 'I' (the sufferer) and the doctor is in the dative (эмчид), so you need the causative -уул: тавиулсан. 'Тавьсан' would mean I made the diagnosis myself.",
+   "explain_mn": "Үйлийг амссан хүн 'би' нь өгүүлэгдэхүүн, үйлдэгч 'эмчид' гэж өгөх орших тийн ялгалтай байгаа тул үйлдүүлэх хэвийн -уул дагавартай 'тавиулсан' хэлбэр зөв."
+  },
+  {
+   "lang": "mn",
+   "text": "Өвчин маань хэтэрхий ___ илэрсэн тул эмчилгээ удаан үргэлжилсэн.",
+   "answer": "хожуу",
+   "options": [
+    "хожуу",
+    "эрт",
+    "буруу",
+    "дахин"
+   ],
+   "translation": "My illness was detected too late, so the treatment took a long time.",
+   "explain_en": "'Хожуу илрэх' means 'to be detected late', which explains why the treatment took long. 'Эрт' (early) contradicts the second half of the sentence.",
+   "explain_mn": "'Хожуу илрэх' нь 'оройтож илрэх' гэсэн утгатай тогтвортой хэллэг бөгөөд эмчилгээ удаан үргэлжилсэн шалтгааныг тайлбарлаж байна."
+  },
+  {
+   "lang": "mn",
+   "text": "Эмч тэр өдөр хоёр ээлж дараалан ажиллаж байсан ___.",
+   "answer": "байх",
+   "options": [
+    "байх",
+    "болно",
+    "юм бол",
+    "гэж"
+   ],
+   "translation": "The doctor must have been working a double shift that day.",
+   "explain_en": "'-ж байсан байх' expresses a confident guess about an ongoing past situation, like English 'must have been + -ing'.",
+   "explain_mn": "'-ж байсан байх' нь өнгөрсөн үеийн үргэлжилсэн нөхцөл байдлын талаарх таамаглалыг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The doctor must have been ___ a double shift.",
+   "answer": "working",
+   "options": [
+    "working",
+    "worked",
+    "work",
+    "works"
+   ],
+   "translation": "Эмч хоёр ээлж дараалан ажиллаж байсан байх.",
+   "explain_en": "After 'must have been', use the -ing form to guess about an ongoing activity in the past.",
+   "explain_mn": "'Must have been'-ийн дараа үргэлжилсэн үйлийг илэрхийлэхийн тулд үйл үгийн -ing хэлбэрийг хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She must have ___ feeling awful for months before the diagnosis.",
+   "answer": "been",
+   "options": [
+    "been",
+    "be",
+    "being",
+    "was"
+   ],
+   "translation": "Онош тавихаас өмнө тэр олон сар их муу байсан байх.",
+   "explain_en": "The pattern is must + have + been + -ing. 'Must have be' and 'must have being' are not correct English.",
+   "explain_mn": "Бүтэц нь must + have + been + -ing. 'Have'-ийн дараа заавал үйл үгийн гуравдугаар хэлбэр 'been' орно."
+  },
+  {
+   "lang": "en",
+   "text": "I was ___ with anemia, but it was actually my thyroid.",
+   "answer": "misdiagnosed",
+   "options": [
+    "misdiagnosed",
+    "mistaken",
+    "misunderstood",
+    "misled"
+   ],
+   "translation": "Надад цус багадалт гэж буруу онош тавьсан ч үнэндээ бамбай булчирхайн асуудал байсан.",
+   "explain_en": "'Misdiagnosed with' is the medical term for being given the wrong diagnosis. The other words don't combine with 'with + illness'.",
+   "explain_mn": "'To be misdiagnosed with ...' нь 'буруу онош тавиулах' гэсэн эмнэлгийн нэр томъёо. Бусад үг 'with + өвчний нэр'-тэй хамт хэрэглэгддэггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Энхжин",
+   "mn": "Сарнай, чи сүүлийн үед их сайхан харагдаж байна. Юу болсон бэ?",
+   "en": "Sarnai, you've been looking really great lately. What happened?",
+   "mn_latin": "Sarnai, chi süüliin üyed ikh saikhan kharagdaj baina. Yuu bolson be?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Эцэст нь зөв онош гарсан. Би хагас жил буруу онош тавиулчихсан явсан.",
+   "en": "I finally got the right diagnosis. I'd been walking around misdiagnosed for half a year.",
+   "mn_latin": "Etsest ni zöv onosh garsan. Bi khagas jil buruu onosh taviulchikhsan yavsan."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Үгүй ээ! Эхлээд юу гэж хэлсэн юм бэ?",
+   "en": "No way! What did they tell you at first?",
+   "mn_latin": "Ügüi ee! Ekhleed yuu gej khelsen yum be?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Стресс, ядаргаа гэсэн. Тэгээд тайвшруулах эм бичүүлээд гурван сар уусан.",
+   "en": "Stress and exhaustion. So I got prescribed sedatives and took them for three months.",
+   "mn_latin": "Stryess, yadargaa gesen. Tegeed taivshruulakh em bichüüleed gurvan sar uusan."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Тэр эмч маш их ачаалалтай, хоёр ээлж дараалан ажиллаж байсан байх даа.",
+   "en": "That doctor must have been swamped, working a double shift or something.",
+   "mn_latin": "Ter emch mash ikh achaalaltai, khoyor eelj daraalan ajillaj baisan baikh daa."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Магадгүй. Гэхдээ би өөр эмчид үзүүлж, дахин шинжилгээ өгсөн чинь бамбай булчирхайн өвчин илэрсэн.",
+   "en": "Maybe. But when I got a second opinion and had the tests redone, it turned out to be a thyroid disease.",
+   "mn_latin": "Magadgüi. Gekhdee bi öör emchid üzüülj, dakhin shinjilgee ögsön chini bambai bulchirkhain övchin ilersen."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Чи тэр хугацаанд үнэхээр их зовж байсан байх. Хожуу илэрсэн ч илэрсэн нь сайн хэрэг.",
+   "en": "You must have been really suffering that whole time. It was caught late, but at least it was caught.",
+   "mn_latin": "Chi ter khugatsaand ünekheer ikh zovj baisan baikh. Khojuu ilersen ch ilersen ni sain khereg."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм. Одоо шинж тэмдэг юм гарвал дуугүй өнгөрөөхгүй, заавал асууна гэж шийдсэн.",
+   "en": "Yeah. Now I've decided that if I get any symptoms, I won't stay quiet. I'll always ask.",
+   "mn_latin": "Tiim. Odoo shinj temdeg yum garval duugüi öngöröökhgüi, zaaval asuuna gej shiidsen."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, many people try to find a 'танил эмч', a doctor they know personally, because they trust that a familiar doctor will take more time with them. Families who can afford it often get a second opinion at a private hospital in Ulaanbaatar or travel to South Korea or China for a re-examination. Under Mongolia's Health Law, patients have the right to information about their own diagnosis and treatment, so asking questions and requesting copies of test results is entirely legitimate.",
+  "mn": "Монголд олон хүн 'танил эмч' хайдаг. Учир нь танил эмч өөрт нь илүү цаг гаргана гэж итгэдэг. Боломжтой гэр бүлүүд Улаанбаатарын хувийн эмнэлэгт өөр эмчид үзүүлэх, эсвэл Солонгос, Хятад руу явж дахин үзлэгт орох нь элбэг. Эрүүл мэндийн тухай хуулиар өвчтөн өөрийн онош, эмчилгээний талаар мэдээлэл авах эрхтэй. Тиймээс асуулт асуух, шинжилгээний хариугаа хуулбарлан авахыг хүсэх нь бүрэн хууль ёсны хэрэг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 5,
+  "notes": "A solid, natural lesson. The main errors were the wrong grammatical term for the causative and an inaccurate description of the causative suffix allomorphs."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "Mostly clean. The grammar title and explanations differ by audience (causative for English speakers, must have been for Mongolian speakers) on purpose, so they were kept; only the unnatural English in sentence 6 was fixed.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "en",
+    "why": "'rushing a lot' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "natural alternatives that keep the meaning"
+   }
+  ]
+ }
+}

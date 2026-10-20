@@ -1,0 +1,444 @@
+{
+ "intro_en": "In this lesson you will write a short festival review of a Mongolian film at an international festival, using words like premiere, jury, competition program, and critical acclaim. You will also combine four formal paired verbs in Mongolian review style, and see how English reviews often open with participle or verbless phrases.",
+ "intro_mn": "Энэ хичээлээр олон улсын кино наадамд оролцсон Монгол киноны тухай богино шүүмж бичиж сурна. Нээлт, шүүгчид, уралдаант хөтөлбөр, шүүмжлэгчдийн өндөр үнэлгээ зэрэг үгсийг хэрэглэнэ. Мөн шүүмжийн хэв маягт тохирох дөрвөн хос үйл үгийг хослуулан хэрэглэж, англи шүүмжид түгээмэл байдаг үйлт нэр болон үйл үггүй эхлэлийг судална.",
+ "vocab": [
+  {
+   "mn": "нээлт",
+   "en": "premiere",
+   "pos": "noun",
+   "example_mn": "Киноны нээлт Венецид болно.",
+   "example_en": "The film's premiere will take place in Venice.",
+   "mn_latin": "neelt"
+  },
+  {
+   "mn": "дэлхийн нээлт",
+   "en": "world premiere",
+   "pos": "noun phrase",
+   "example_mn": "Энэ кино Каннд дэлхийн нээлтээ хийсэн.",
+   "example_en": "This film had its world premiere in Cannes.",
+   "mn_latin": "delkhiin neelt"
+  },
+  {
+   "mn": "шүүгчид",
+   "en": "jury",
+   "pos": "noun (plural)",
+   "example_mn": "Шүүгчид шийдвэрээ маргааш зарлана.",
+   "example_en": "The jury will announce its decision tomorrow.",
+   "mn_latin": "shüügchid"
+  },
+  {
+   "mn": "уралдаант хөтөлбөр",
+   "en": "competition program",
+   "pos": "noun phrase",
+   "example_mn": "Монгол кино уралдаант хөтөлбөрт шалгарлаа.",
+   "example_en": "A Mongolian film was selected for the competition program.",
+   "mn_latin": "uraldaant khötölbör"
+  },
+  {
+   "mn": "шүүмжлэгчдийн өндөр үнэлгээ",
+   "en": "critical acclaim",
+   "pos": "noun phrase",
+   "example_mn": "Кино шүүмжлэгчдийн өндөр үнэлгээ авсан.",
+   "example_en": "The film received critical acclaim.",
+   "mn_latin": "shüümjlegchdiin öndör ünelgee"
+  },
+  {
+   "mn": "дүрслэн харуулах",
+   "en": "to depict, to portray",
+   "pos": "verb (paired)",
+   "example_mn": "Кино малчдын амьдралыг дүрслэн харуулжээ.",
+   "example_en": "The film portrays the life of herders.",
+   "mn_latin": "dürslen kharuulakh"
+  },
+  {
+   "mn": "тусган илэрхийлэх",
+   "en": "to reflect, to convey",
+   "pos": "verb (paired)",
+   "example_mn": "Найруулагч хотын ганцаардлыг тусган илэрхийлжээ.",
+   "example_en": "The director conveys the loneliness of the city.",
+   "mn_latin": "tusgan ilerkhiilekh"
+  },
+  {
+   "mn": "нээн илрүүлэх",
+   "en": "to discover, to reveal",
+   "pos": "verb (paired)",
+   "example_mn": "Кино наадам шинэ авьяастныг нээн илрүүлэв.",
+   "example_en": "The festival discovered a new talent.",
+   "mn_latin": "neen ilrüülekh"
+  },
+  {
+   "mn": "бүтээн туурвих",
+   "en": "to create (a work of art)",
+   "pos": "verb (paired)",
+   "example_mn": "Тэр энэ киног гурван жил бүтээн туурвисан.",
+   "example_en": "She spent three years creating this film.",
+   "mn_latin": "büteen tuurvikh"
+  },
+  {
+   "mn": "найруулагч",
+   "en": "director",
+   "pos": "noun",
+   "example_mn": "Залуу найруулагч шагнал хүртлээ.",
+   "example_en": "The young director won an award.",
+   "mn_latin": "nairuulagch"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тус кино Берлиний кино наадмын уралдаант хөтөлбөрт шалгарсан.",
+   "en": "The film was selected for the competition program of the Berlin Film Festival.",
+   "alt_mn": [
+    "Энэ кино Берлиний кино наадмын уралдаант хөтөлбөрт шалгарсан."
+   ],
+   "alt_en": [
+    "The film was selected for the Berlin Film Festival's competition program."
+   ],
+   "mn_latin": "Tus kino Byerlinii kino naadmyn uraldaant khötölbört shalgarsan."
+  },
+  {
+   "mn": "Киноны дэлхийн нээлт Каннд болно.",
+   "en": "The film's world premiere will take place in Cannes.",
+   "alt_mn": [
+    "Кино дэлхийн нээлтээ Каннд хийнэ."
+   ],
+   "alt_en": [
+    "The film will have its world premiere in Cannes."
+   ],
+   "mn_latin": "Kinony delkhiin neelt Kannd bolno."
+  },
+  {
+   "mn": "Говь-Алтайд зураг авалтаа хийсэн энэ кино нүүдэлчдийн өдөр тутмын амьдралыг дүрслэн харуулжээ.",
+   "en": "Shot in Gobi-Altai, the film portrays the daily life of nomadic herders.",
+   "alt_mn": [
+    "Говь-Алтайд зураг авалтаа хийсэн энэ кино малчдын өдөр тутмын амьдралыг дүрслэн харуулжээ."
+   ],
+   "alt_en": [
+    "Shot in Gobi-Altai, the film depicts the daily life of nomadic herders."
+   ],
+   "mn_latin": "Govi-Altaid zurag avaltaa khiisen ene kino nüüdelchdiin ödör tutmyn amidralyg dürslen kharuuljee."
+  },
+  {
+   "mn": "Дүрслэлийн хувьд гайхалтай энэ кино хотжилтын асуудлыг тусган илэрхийлдэг.",
+   "en": "Visually stunning, the film reflects the problems of urbanization.",
+   "alt_mn": [
+    "Дүрслэлийн хувьд гайхалтай энэ кино хотжилтын асуудлыг тусган илэрхийлжээ."
+   ],
+   "alt_en": [
+    "Visually stunning, the film conveys the problems of urbanization."
+   ],
+   "mn_latin": "Dürsleliin khuvid gaikhaltai ene kino khotjiltyn asuudlyg tusgan ilerkhiildeg."
+  },
+  {
+   "mn": "Энэ кино Монголын кино урлагт шинэ авьяастныг нээн илрүүлсэн.",
+   "en": "This film has revealed a new talent in Mongolian cinema.",
+   "alt_mn": [
+    "Энэ кино Монголын кино урлагт шинэ авьяастан нээн илрүүлсэн."
+   ],
+   "alt_en": [
+    "This film has discovered a new talent in Mongolian cinema."
+   ],
+   "mn_latin": "Ene kino Mongolyn kino urlagt shine aviyaastnyg neen ilrüülsen."
+  },
+  {
+   "mn": "Найруулагч энэ бүтээлийг таван жил бүтээн туурвисан.",
+   "en": "The director spent five years creating this work.",
+   "alt_mn": [
+    "Найруулагч энэ бүтээлийг таван жилийн турш бүтээн туурвисан."
+   ],
+   "alt_en": [
+    "The director spent five years making this work."
+   ],
+   "mn_latin": "Nairuulagch ene büteeliig tavan jil büteen tuurvisan."
+  },
+  {
+   "mn": "Кино шүүмжлэгчдийн өндөр үнэлгээ авсан.",
+   "en": "The film received critical acclaim.",
+   "alt_mn": [
+    "Кино шүүмжлэгчдээс өндөр үнэлгээ авсан."
+   ],
+   "alt_en": [
+    "The film was critically acclaimed."
+   ],
+   "mn_latin": "Kino shüümjlegchdiin öndör ünelgee avsan."
+  },
+  {
+   "mn": "Нээлтийн дараа үзэгчид арван минут алга ташив.",
+   "en": "After the premiere, the audience applauded for ten minutes.",
+   "alt_mn": [
+    "Нээлтийн дараа үзэгчид арван минутын турш алга ташсан."
+   ],
+   "alt_en": [
+    "After the premiere, the audience clapped for ten minutes."
+   ],
+   "mn_latin": "Neeltiin daraa üzegchid arvan minut alga tashiv."
+  },
+  {
+   "mn": "Нам гүм, даруу өнгө аястай энэ кино хэт их зүйлийг тайлбарладаггүй.",
+   "en": "Quiet and restrained, the film never explains too much.",
+   "alt_mn": [],
+   "alt_en": [
+    "Quiet and restrained, the film never over-explains."
+   ],
+   "mn_latin": "Nam güm, daruu öngö ayastai ene kino khet ikh züiliig tailbarladaggüi."
+  },
+  {
+   "mn": "Шүүгчдийн тэргүүн жүжигчдийн тоглолтыг онцолсон.",
+   "en": "The head of the jury highlighted the actors' performances.",
+   "alt_mn": [
+    "Шүүгчдийн тэргүүн жүжигчдийн тоглолтыг онцлон тэмдэглэсэн."
+   ],
+   "alt_en": [
+    "The jury president singled out the actors' performances."
+   ],
+   "mn_latin": "Shüügchdiin tergüün jüjigchdiin togloltyg ontsolson."
+  },
+  {
+   "mn": "Найруулагчийн анхны бүрэн хэмжээний уран сайхны кино хэдий ч энэ бүтээл гайхалтай итгэлтэйгээр хийгдсэн.",
+   "en": "A debut feature, the film shows remarkable confidence.",
+   "alt_mn": [],
+   "alt_en": [
+    "Although it is a debut feature, the film shows remarkable confidence."
+   ],
+   "mn_latin": "Nairuulagchiin ankhny büren khemjeenii uran saikhny kino khedii ch ene büteel gaikhaltai itgelteigeer khiigdsen."
+  },
+  {
+   "mn": "Энэ кино уралдаант хөтөлбөрийн хамгийн хүчтэй бүтээлүүдийн нэг байлаа.",
+   "en": "This film was one of the strongest entries in the competition program.",
+   "alt_mn": [
+    "Энэ кино уралдаант хөтөлбөрийн хамгийн хүчтэй бүтээлүүдийн нэг байв."
+   ],
+   "alt_en": [
+    "This was one of the strongest films in the competition program."
+   ],
+   "mn_latin": "Ene kino uraldaant khötölböriin khamgiin khüchtei büteelüüdiin neg bailaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "Paired verbs and participle openings in reviews",
+  "title_mn": "Шүүмж дэх хос үйл үг ба үйлт нэрээр эхлэх хэллэг",
+  "explain_en": "Formal Mongolian writing loves paired verbs. These are two verbs with related meanings: the first takes the converb ending -н (or -ж), and the second carries tense. Critics use them to sound precise and literary: дүрслэн харуулах (depict, lit. 'portraying-show'), тусган илэрхийлэх (reflect/convey, lit. 'reflecting-express'), нээн илрүүлэх (discover/reveal, lit. 'opening-uncover'), бүтээн туурвих (create a work, lit. 'building-compose'). Only the second verb changes for tense: дүрслэн харуулжээ, тусган илэрхийлдэг. The -н converb is more bookish than -ж, so it suits reviews. Don't swap the verbs around: *харуулан дүрслэх is not used. English reviews often open with a short phrase instead. It can be a participle (\"Shot in Gobi-Altai, the film...\") or a verbless adjective or noun phrase (\"Visually stunning, the film...\", \"A debut feature, the film...\"). The subject after the comma must be the one the opening phrase describes. \"Shot in Gobi-Altai, the director...\" wrongly says the director was filmed. Mongolian usually renders these openings as a modifier (\"...хийсэн энэ кино\") or with хэдий ч.",
+  "explain_mn": "Албан ёсны монгол бичвэрт хос үйл үг их хэрэглэгддэг. Утга ойролцоо хоёр үйл үгийн эхнийх нь \"-н\" (эсвэл \"-ж\") нөхцөлтэй байна. Цагийн нөхцөлийг хоёр дахь нь авна. Шүүмжлэгчид эдгээрийг нарийн, уран яруу сонсогдохын тулд хэрэглэдэг: дүрслэн харуулах, тусган илэрхийлэх, нээн илрүүлэх, бүтээн туурвих. Зөвхөн хоёр дахь үйл үг цагаар хувирна: дүрслэн харуулжээ, тусган илэрхийлдэг. \"-н\" нөхцөл \"-ж\"-ээс илүү бичгийн өнгөтэй тул шүүмжид тохиромжтой. Үгсийн байрыг сольж болохгүй: *харуулан дүрслэх гэж хэлдэггүй. Англи шүүмж харин өгүүлбэрийг ихэвчлэн богино хэллэгээр эхлүүлдэг. Энэ нь үйлт нэр (\"Shot in Gobi-Altai, the film...\") эсвэл үйл үггүй тэмдэг нэр, нэр үгийн хэллэг (\"Visually stunning, the film...\", \"A debut feature, the film...\") байж болно. Таслалын дараах эзэн нь эхний хэллэгийн тодотгож буй зүйл байх ёстой. \"Shot in Gobi-Altai, the director...\" гэвэл найруулагчийн зургийг авсан гэсэн буруу утга гарна. Монгол хэлэнд эдгээрийг ихэвчлэн тодотгол (\"...хийсэн энэ кино\") эсвэл \"хэдий ч\" ашиглан орчуулдаг.",
+  "examples": [
+   {
+    "mn": "Говь-Алтайд зураг авалтаа хийсэн энэ кино цөлийн нам гүмийг дүрслэн харуулжээ.",
+    "en": "Shot in Gobi-Altai, the film portrays the silence of the desert.",
+    "mn_latin": "Govi-Altaid zurag avaltaa khiisen ene kino tsöliin nam gümiig dürslen kharuuljee."
+   },
+   {
+    "mn": "Дүрслэлийн хувьд гайхалтай энэ кино гэр хорооллын хүмүүсийн итгэл найдварыг тусган илэрхийлжээ.",
+    "en": "Visually stunning, the film conveys the hopes of people in the ger districts.",
+    "mn_latin": "Dürsleliin khuvid gaikhaltai ene kino ger khoroollyn khümüüsiin itgel naidvaryg tusgan ilerkhiiljee."
+   },
+   {
+    "mn": "Анхны бүтээл хэдий ч энэ кино шинэ найруулагчийг нээн илрүүлсэн.",
+    "en": "A debut work, the film has revealed a new director.",
+    "mn_latin": "Ankhny büteel khedii ch ene kino shine nairuulagchiig neen ilrüülsen."
+   },
+   {
+    "mn": "Бага төсөвтэй хэдий ч найруулагч энэ киног маш нямбай бүтээн туурвижээ.",
+    "en": "Made on a small budget, the film was crafted with great care by its director.",
+    "mn_latin": "Baga tösövtei khedii ch nairuulagch ene kinog mash nyambai büteen tuurvijee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Кино хөдөөгийн амьдралыг ___ харуулжээ.",
+   "answer": "дүрслэн",
+   "options": [
+    "дүрслэн",
+    "туурвин",
+    "бүтээн",
+    "тусгал"
+   ],
+   "translation": "The film portrays rural life.",
+   "explain_en": "The paired verb is дүрслэн харуулах, 'to depict'. The first verb takes the converb -н. туурвин and бүтээн belong to other pairs, and тусгал is a noun.",
+   "explain_mn": "\"Дүрслэн харуулах\" нь тогтсон хос үйл үг. Эхний үйл үг нь \"-н\" нөхцөлтэй байна. \"Туурвин\", \"бүтээн\" нь өөр хосын үг, \"тусгал\" нь нэр үг."
+  },
+  {
+   "lang": "mn",
+   "text": "Тус кино шүүмжлэгчдийн өндөр ___ авсан.",
+   "answer": "үнэлгээ",
+   "options": [
+    "үнэлгээ",
+    "нээлт",
+    "шүүгч",
+    "хөтөлбөр"
+   ],
+   "translation": "The film received critical acclaim.",
+   "explain_en": "'Critical acclaim' is шүүмжлэгчдийн өндөр үнэлгээ, literally 'critics' high evaluation'. Only үнэлгээ fits with өндөр and авах.",
+   "explain_mn": "\"Өндөр үнэлгээ авах\" гэдэг тогтсон хэллэг. Бусад үг энэ утгад тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ кино ___ хөтөлбөрт шалгарсан.",
+   "answer": "уралдаант",
+   "options": [
+    "уралдаант",
+    "уралдаан",
+    "уралдсан",
+    "уралдах"
+   ],
+   "translation": "This film was selected for the competition program.",
+   "explain_en": "The adjective suffix -т turns уралдаан (competition) into уралдаант (competitive, 'with competition'), which can modify хөтөлбөр. The other forms do not work as adjectives here.",
+   "explain_mn": "\"-т\" дагавар нэр үгээс тэмдэг нэр үүсгэдэг: уралдаан → уралдаант. \"Уралдаант хөтөлбөр\" бол тогтсон нэр томьёо."
+  },
+  {
+   "lang": "en",
+   "text": "___ in Gobi-Altai, the film captures the silence of the desert.",
+   "answer": "Shot",
+   "options": [
+    "Shot",
+    "Shooting",
+    "Shoots",
+    "To shoot"
+   ],
+   "translation": "Говь-Алтайд зураг авалтаа хийсэн энэ кино цөлийн нам гүмийг дүрслэн харуулжээ.",
+   "explain_en": "The film was shot by someone, so we need the passive participle 'Shot'. 'Shooting' would mean the film itself is doing the filming.",
+   "explain_mn": "Киног бусад хүн авсан тул идэвхгүй утгатай \"-ed/3-р хэлбэр\" (Shot) хэрэгтэй. \"Shooting\" гэвэл кино өөрөө зураг авч байгаа мэт утга гарна."
+  },
+  {
+   "lang": "en",
+   "text": "The film had its world ___ in Venice.",
+   "answer": "premiere",
+   "options": [
+    "premiere",
+    "jury",
+    "acclaim",
+    "program"
+   ],
+   "translation": "Кино Венецид дэлхийн нээлтээ хийсэн.",
+   "explain_en": "'World premiere' is the first public screening anywhere. A film 'has its world premiere' at a festival.",
+   "explain_mn": "\"World premiere\" нь \"дэлхийн нээлт\" буюу киноны анхны олон нийтэд гарсан үзүүлбэр. \"Have its world premiere\" гэж хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Visually ___, the film rarely needs dialogue.",
+   "answer": "stunning",
+   "options": [
+    "stunning",
+    "stunned",
+    "stun",
+    "stunningly"
+   ],
+   "translation": "Дүрслэлийн хувьд гайхалтай энэ кино яриа бараг шаарддаггүй.",
+   "explain_en": "The film causes amazement, so use the -ing adjective 'stunning'. 'Stunned' would mean the film itself feels amazed. An adverb like 'stunningly' cannot follow 'visually'.",
+   "explain_mn": "Кино бусдыг гайхшруулж байгаа тул \"-ing\" хэлбэрийн тэмдэг нэр (stunning) хэрэглэнэ. \"Stunned\" гэвэл кино өөрөө гайхсан гэсэн утгатай болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Саруул",
+   "mn": "Эмма, өчигдрийн нээлтэд очсон уу?",
+   "en": "Emma, did you go to yesterday's premiere?",
+   "mn_latin": "Emma, öchigdriin neelted ochson uu?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Тийм ээ. Үнэхээр сэтгэл хөдөлгөм кино байлаа. Шүүмжээ одоо бичиж байна.",
+   "en": "Yes. It was a really moving film. I'm writing my review now.",
+   "mn_latin": "Tiim ee. Ünekheer setgel khödölgöm kino bailaa. Shüümjee odoo bichij baina."
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Би ч бас бичиж байна. Кино ганцаардлыг маш нарийн тусган илэрхийлжээ гэж бодсон.",
+   "en": "I'm writing one too. I thought the film conveyed loneliness very subtly.",
+   "mn_latin": "Bi ch bas bichij baina. Kino gantsaardlyg mash nariin tusgan ilerkhiiljee gej bodson."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Би эхний өгүүлбэрээ \"Shot in Gobi-Altai, the film...\" гэж эхлүүлсэн. Монголоор яаж хэлэх вэ?",
+   "en": "I started my first sentence with \"Shot in Gobi-Altai, the film...\" How would you say that in Mongolian?",
+   "mn_latin": "Bi ekhnii ögüülberee \"Shot in Gobi-Altai, the film...\" gej ekhlüülsen. Mongoloor yaaj khelekh ve?"
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "\"Говь-Алтайд зураг авалтаа хийсэн энэ кино нүүдэлчдийн амьдралыг дүрслэн харуулжээ\" гэж бичиж болно.",
+   "en": "You could write: \"Shot in Gobi-Altai, the film portrays the life of nomads.\"",
+   "mn_latin": "\"Govi-Altaid zurag avaltaa khiisen ene kino nüüdelchdiin amidralyg dürslen kharuuljee\" gej bichij bolno."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Гоё байна. Шүүгчид ямар бодолтой байгаа бол?",
+   "en": "Nice. I wonder what the jury thinks.",
+   "mn_latin": "Goyo baina. Shüügchid yamar bodoltoi baigaa bol?"
+  },
+  {
+   "speaker": "Саруул",
+   "mn": "Мэдэхгүй ээ, гэхдээ уралдаант хөтөлбөрт ийм хүчтэй кино цөөхөн байна.",
+   "en": "I don't know, but there aren't many films this strong in the competition program.",
+   "mn_latin": "Medekhgüi ee, gekhdee uraldaant khötölbört iim khüchtei kino tsöökhön baina."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Шагнал авахгүй байсан ч шүүмжлэгчдийн өндөр үнэлгээ аль хэдийн авчихлаа.",
+   "en": "Even if it doesn't win an award, it has already received critical acclaim.",
+   "mn_latin": "Shagnal avakhgüi baisan ch shüümjlegchdiin öndör ünelgee ali khediin avchikhlaa."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian cinema has become increasingly visible at international festivals. Byambasuren Davaa's \"The Story of the Weeping Camel\" was nominated for an Oscar in 2005, and in 2023 new Mongolian features were selected for both Cannes and Venice. Many of these films contrast life in Ulaanbaatar's ger districts with the open countryside, a theme foreign critics often praise.",
+  "mn": "Сүүлийн жилүүдэд Монгол кино олон улсын кино наадмуудад улам бүр анхаарал татах болсон. Д.Бямбасүрэнгийн \"Уйлж буй тэмээний түүх\" 2005 онд Оскарын шагналд нэр дэвшсэн бөгөөд 2023 онд Монголын шинэ кинонууд Канн, Венецийн наадамд шалгарсан. Эдгээр кинонуудын ихэнх нь Улаанбаатарын гэр хорооллын амьдралыг хөдөөгийн өргөн уудам байгальтай харьцуулан харуулдаг бөгөөд энэ сэдвийг гадаадын шүүмжлэгчид ихэвчлэн өндрөөр үнэлдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, natural lesson. The fixes are a few terminology and collocation slips, plus the director's name and film title in the culture note."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 8,
+  "notes": "The grammar en/mn explanations covered different topics; there was also an ambiguous fill-blank distractor and an awkward culture note sentence.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "Lesson teaches both topics; the two titles must match"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Old title only named one topic and did not match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; both now cover the same content"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Must say the same as explain_en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "нээн харуулах is arguably possible, so the answer was not unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Match the new options"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Match the new options"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Awkward final sentence; also add 'many of' to match the en version"
+   }
+  ]
+ }
+}

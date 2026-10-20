@@ -1,0 +1,410 @@
+{
+ "intro_en": "Learn to chat with a taxi driver about radio news, rising prices, and elections without starting an argument. You will use юу юу and хэн хэн to ask for a list of things or people. In English, you will practice the difference between \"Who won?\" and \"Who did people vote for?\"",
+ "intro_mn": "Таксины жолоочтой радиогийн мэдээ, үнийн өсөлт, сонгуулийн талаар маргалгүй ярилцаж сурна. Олон зүйл эсвэл хүнийг жагсааж асуухдаа \"юу юу\", \"хэн хэн\" гэж хэрэглэнэ. Англи хэлэнд \"Who won?\" болон \"Who did people vote for?\" гэх мэт өнгөрсөн цагийн асуултын ялгааг дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "мэдээ",
+   "en": "news",
+   "pos": "noun",
+   "example_mn": "Өглөөний мэдээ сонссон уу?",
+   "example_en": "Did you hear the morning news?",
+   "mn_latin": "medee"
+  },
+  {
+   "mn": "үнийн өсөлт",
+   "en": "price increase",
+   "pos": "noun phrase",
+   "example_mn": "Радиогоор үнийн өсөлтийн тухай ярьж байна.",
+   "example_en": "They're talking about the price increase on the radio.",
+   "mn_latin": "üniin ösölt"
+  },
+  {
+   "mn": "сонгууль",
+   "en": "election",
+   "pos": "noun",
+   "example_mn": "Ирэх жил сонгууль болно.",
+   "example_en": "There will be an election next year.",
+   "mn_latin": "songuuli"
+  },
+  {
+   "mn": "шинэ хууль",
+   "en": "new law",
+   "pos": "noun phrase",
+   "example_mn": "Шинэ хууль хавраас хэрэгжинэ.",
+   "example_en": "The new law takes effect in the spring.",
+   "mn_latin": "shine khuuli"
+  },
+  {
+   "mn": "ярьж байна лээ",
+   "en": "they were saying (I heard it)",
+   "pos": "verb phrase",
+   "example_mn": "Бензин үнэтэй болно гэж ярьж байна лээ.",
+   "example_en": "They were saying gas is going to get more expensive.",
+   "mn_latin": "yarij baina lee"
+  },
+  {
+   "mn": "сонгогдох",
+   "en": "to be elected",
+   "pos": "verb",
+   "example_mn": "Тэр дахин сонгогдсон.",
+   "example_en": "She was reelected.",
+   "mn_latin": "songogdokh"
+  },
+  {
+   "mn": "санал өгөх",
+   "en": "to vote",
+   "pos": "verb phrase",
+   "example_mn": "Та хэнд санал өгсөн бэ?",
+   "example_en": "Who did you vote for?",
+   "mn_latin": "sanal ögökh"
+  },
+  {
+   "mn": "ялах",
+   "en": "to win",
+   "pos": "verb",
+   "example_mn": "Сонгуульд хэн ялсан бэ?",
+   "example_en": "Who won the election?",
+   "mn_latin": "yalakh"
+  },
+  {
+   "mn": "улс төр",
+   "en": "politics",
+   "pos": "noun",
+   "example_mn": "Жолооч нар улс төрийн талаар их ярьдаг.",
+   "example_en": "Drivers talk about politics a lot.",
+   "mn_latin": "uls tör"
+  },
+  {
+   "mn": "маргах",
+   "en": "to argue",
+   "pos": "verb",
+   "example_mn": "Маргах хэрэггүй ээ.",
+   "example_en": "There's no need to argue.",
+   "mn_latin": "margakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөөдрийн мэдээ сонссон уу?",
+   "en": "Did you hear today's news?",
+   "alt_mn": [
+    "Өнөөдрийн мэдээг сонссон уу?"
+   ],
+   "alt_en": [
+    "Have you heard today's news?"
+   ],
+   "mn_latin": "Önöödriin medee sonsson uu?"
+  },
+  {
+   "mn": "Юу юу үнэтэй болсон бэ?",
+   "en": "What things got more expensive?",
+   "alt_mn": [],
+   "alt_en": [
+    "What has gotten more expensive?",
+    "What went up in price?"
+   ],
+   "mn_latin": "Yuu yuu ünetei bolson be?"
+  },
+  {
+   "mn": "Хэн хэн сонгогдсон бэ?",
+   "en": "Who got elected?",
+   "alt_mn": [],
+   "alt_en": [
+    "Who was elected?",
+    "Which people got elected?"
+   ],
+   "mn_latin": "Khen khen songogdson be?"
+  },
+  {
+   "mn": "Радиогоор махны үнэ дахиад өснө гэж ярьж байна лээ.",
+   "en": "On the radio they were saying meat prices will go up again.",
+   "alt_mn": [
+    "Радиогоор махны үнэ дахин өснө гэж ярьж байна лээ."
+   ],
+   "alt_en": [
+    "They were saying on the radio that meat prices will rise again."
+   ],
+   "mn_latin": "Radiogoor makhny üne dakhiad ösnö gej yarij baina lee."
+  },
+  {
+   "mn": "Сонгуульд хэн ялсан бэ?",
+   "en": "Who won the election?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Songuulid khen yalsan be?"
+  },
+  {
+   "mn": "Хүмүүс хэнд санал өгсөн бэ?",
+   "en": "Who did people vote for?",
+   "alt_mn": [],
+   "alt_en": [
+    "Who did the people vote for?"
+   ],
+   "mn_latin": "Khümüüs khend sanal ögsön be?"
+  },
+  {
+   "mn": "Шинэ хууль ирэх сараас хэрэгжинэ гэсэн.",
+   "en": "They said the new law takes effect next month.",
+   "alt_mn": [
+    "Шинэ хууль ирэх сараас хэрэгжинэ гэж байна."
+   ],
+   "alt_en": [
+    "I heard the new law goes into effect next month."
+   ],
+   "mn_latin": "Shine khuuli irekh saraas kheregjine gesen."
+  },
+  {
+   "mn": "Үнийн өсөлт хүн бүрт хэцүү байна.",
+   "en": "The price increases are hard on everyone.",
+   "alt_mn": [],
+   "alt_en": [
+    "Rising prices are hard on everyone."
+   ],
+   "mn_latin": "Üniin ösölt khün bürt khetsüü baina."
+  },
+  {
+   "mn": "Улс төрийн талаар маргахгүй байя.",
+   "en": "Let's not argue about politics.",
+   "alt_mn": [
+    "Улс төрийн тухай маргахгүй байя."
+   ],
+   "alt_en": [],
+   "mn_latin": "Uls töriin talaar margakhgüi baiya."
+  },
+  {
+   "mn": "Энэ зүгээр л миний бодол шүү.",
+   "en": "This is just my opinion.",
+   "alt_mn": [
+    "Энэ бол зөвхөн миний бодол шүү."
+   ],
+   "alt_en": [
+    "That's just my opinion."
+   ],
+   "mn_latin": "Ene zügeer l minii bodol shüü."
+  },
+  {
+   "mn": "Бензиний үнэ хэр их өссөн бэ?",
+   "en": "How much did gas prices go up?",
+   "alt_mn": [
+    "Бензиний үнэ хэр өссөн бэ?"
+   ],
+   "alt_en": [
+    "How much did the price of gas go up?"
+   ],
+   "mn_latin": "Byenzinii üne kher ikh össön be?"
+  },
+  {
+   "mn": "Хэн хэн энэ хуулийг дэмжсэн бэ?",
+   "en": "Who supported this law?",
+   "alt_mn": [],
+   "alt_en": [
+    "Which people supported this law?"
+   ],
+   "mn_latin": "Khen khen ene khuuliig demjsen be?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking for a list: юу юу and хэн хэн",
+  "title_mn": "Өнгөрсөн цагийн асуулт: subject ба object (Who won? / Who did people vote for?)",
+  "explain_en": "In Mongolian, you can double a question word to show that you expect more than one answer. Юу? means \"what?\", but юу юу? means \"what things?\" or \"what all?\". Хэн? means \"who?\", but хэн хэн? means \"which people?\". It's perfect for the news: Юу юу үнэтэй болсон бэ? (What things got more expensive?) or Хэн хэн сонгогдсон бэ? (Who all got elected?). Only the question word doubles. The verb stays the same and takes the past ending -сан/-сон/-сэн/-сөн plus бэ/вэ. A related news phrase is ярьж байна лээ. The ending лээ shows that you heard or saw it yourself, for example on the radio: \"they were saying...\"",
+  "explain_mn": "Англи хэлэнд \"who\" эсвэл \"what\" нь өгүүлэгч байвал \"did\" хэрэглэхгүй: Who won? (Хэн ялсан бэ?), What happened? (Юу болсон бэ?). Энэ үед үйл үг шууд өнгөрсөн цагтаа ордог. Харин \"who/what\" нь тусагдахуун байвал \"did\" нэмж, үйл үгийг үндсэн хэлбэрээр хэрэглэнэ: Who did people vote for? (Хүмүүс хэнд санал өгсөн бэ?), What did the radio say? (Радиогоор юу гэсэн бэ?). Анхаарах зүйл: \"Who did win?\" гэж ерөнхийдөө хэлэхгүй, \"did won\" гэж бол огт хэлэхгүй. Монгол хэлний юу юу, хэн хэн хоёрыг англиар ихэвчлэн энгийн \"what\" эсвэл \"who\" гэж орчуулдаг.",
+  "examples": [
+   {
+    "mn": "Юу юу үнэтэй болсон бэ?",
+    "en": "What things got more expensive?",
+    "mn_latin": "Yuu yuu ünetei bolson be?"
+   },
+   {
+    "mn": "Хэн хэн сонгогдсон бэ?",
+    "en": "Who got elected?",
+    "mn_latin": "Khen khen songogdson be?"
+   },
+   {
+    "mn": "Сонгуульд хэн ялсан бэ?",
+    "en": "Who won the election?",
+    "mn_latin": "Songuulid khen yalsan be?"
+   },
+   {
+    "mn": "Хүмүүс хэнд санал өгсөн бэ?",
+    "en": "Who did people vote for?",
+    "mn_latin": "Khümüüs khend sanal ögsön be?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Юу ___ үнэтэй болсон бэ?",
+   "answer": "юу",
+   "options": [
+    "юу",
+    "хэн",
+    "ямар",
+    "вэ"
+   ],
+   "translation": "What things got more expensive?",
+   "explain_en": "Doubling юу (юу юу) asks for a list of things. You expect several answers, such as meat, flour, and gas.",
+   "explain_mn": "\"Юу юу\" гэж давхарлах нь хэд хэдэн зүйлийг жагсааж хариулахыг хүлээж байгааг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Радиогоор шинэ хуулийн тухай ярьж байна ___.",
+   "answer": "лээ",
+   "options": [
+    "лээ",
+    "уу",
+    "бэ",
+    "гэж"
+   ],
+   "translation": "On the radio they were talking about the new law.",
+   "explain_en": "Лээ shows that you heard it yourself in the recent past, here on the radio. Уу and бэ are question particles, so they don't fit a statement.",
+   "explain_mn": "\"Лээ\" нь өөрийн биеэр сонссон, харсан зүйлийг илэрхийлнэ. \"Уу\", \"бэ\" нь асуух сул үг тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Та хэнд санал ___ бэ?",
+   "answer": "өгсөн",
+   "options": [
+    "өгсөн",
+    "өгөөд",
+    "өгч",
+    "өгсөнд"
+   ],
+   "translation": "Who did you vote for?",
+   "explain_en": "A past question with бэ needs the past form -сөн: өгсөн бэ? Өгөөд and өгч are connecting forms, so they can't end a question.",
+   "explain_mn": "\"Бэ\" сул үгийн өмнө өнгөрсөн цагийн \"-сөн\" нөхцөл орно. \"Өгөөд\", \"өгч\" нь холбох хэлбэр тул асуултыг төгсгөж чадахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Who ___ the election?",
+   "answer": "won",
+   "options": [
+    "won",
+    "did won",
+    "win",
+    "winned"
+   ],
+   "translation": "Сонгуульд хэн ялсан бэ?",
+   "explain_en": "\"Who\" is the subject here, so there is no \"did\". Use the past form directly: Who won?",
+   "explain_mn": "Энд \"who\" нь өгүүлэгч тул \"did\" хэрэггүй, үйл үгийн өнгөрсөн хэлбэр (won) шууд орно. \"Winned\" гэсэн хэлбэр байхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Who did people vote ___?",
+   "answer": "for",
+   "options": [
+    "for",
+    "to",
+    "on",
+    "with"
+   ],
+   "translation": "Хүмүүс хэнд санал өгсөн бэ?",
+   "explain_en": "In English you \"vote for\" someone. In a question, \"for\" usually moves to the end.",
+   "explain_mn": "Англиар хүнд санал өгөхийг \"vote for\" гэдэг. Асуултад \"for\" нь ихэвчлэн өгүүлбэрийн төгсгөлд гардаг."
+  },
+  {
+   "lang": "en",
+   "text": "What ___ the radio say about prices?",
+   "answer": "did",
+   "options": [
+    "did",
+    "was",
+    "had",
+    "is"
+   ],
+   "translation": "Радиогоор үнийн талаар юу гэсэн бэ?",
+   "explain_en": "\"What\" is the object of \"say\", so you need \"did\" plus the base verb \"say\".",
+   "explain_mn": "Энд \"what\" нь тусагдахуун учир \"did\" туслах үйл үг, үндсэн хэлбэрийн \"say\" хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Өглөөний мэдээ сонссон уу? Бензин дахиад үнэтэй болно гэж ярьж байна лээ.",
+   "en": "Did you hear the morning news? They were saying gas is going to get more expensive again.",
+   "mn_latin": "Öglöönii medee sonsson uu? Byenzin dakhiad ünetei bolno gej yarij baina lee."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм үү? Өөр юу юу үнэтэй болох бол?",
+   "en": "Really? I wonder what else will get more expensive.",
+   "mn_latin": "Tiim üü? Öör yuu yuu ünetei bolokh bol?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Мах, гурилын үнэ ч бас өсөх байх. Үнийн өсөлт бидэнд үнэхээр хэцүү байна.",
+   "en": "Meat and flour will probably go up too. The price increases are really hard on us.",
+   "mn_latin": "Makh, gurilyn üne ch bas ösökh baikh. Üniin ösölt bidend ünekheer khetsüü baina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Ойлгож байна. Өнгөрсөн сонгуульд хэн хэн сонгогдсон бэ?",
+   "en": "I understand. Who got elected in the last election?",
+   "mn_latin": "Oilgoj baina. Öngörsön songuulid khen khen songogdson be?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Олон шинэ хүн сонгогдсон. Гэхдээ би улс төрийн талаар маргах дургүй шүү.",
+   "en": "A lot of new people got elected. But I don't like arguing about politics.",
+   "mn_latin": "Olon shine khün songogdson. Gekhdee bi uls töriin talaar margakh durgüi shüü."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Би ч бас. Зүгээр л таны бодлыг сонсмоор байна.",
+   "en": "Me neither. I just want to hear what you think.",
+   "mn_latin": "Bi ch bas. Zügeer l tany bodlyg sonsmoor baina."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Миний бодлоор шинэ хууль сайн, гэхдээ цаг хугацаа хэрэгтэй.",
+   "en": "In my opinion, the new law is good, but it needs time.",
+   "mn_latin": "Minii bodloor shine khuuli sain, gekhdee tsag khugatsaa kheregtei."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тийм байх. За, энд буучихъя. Баярлалаа!",
+   "en": "You're probably right. OK, I'll get out here. Thank you!",
+   "mn_latin": "Tiim baikh. Za, end buuchikhya. Bayarlalaa!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many taxis are ordinary private cars, and the driver often has the radio on. Prices, fuel costs, and politics are very common topics. People share opinions openly, but it's polite to soften yours with \"миний бодлоор\" (in my opinion) and to change the subject if things get heated.",
+  "mn": "Улаанбаатарт олон такси хувийн машин байдаг бөгөөд жолооч нар ихэвчлэн радио асаалттай явдаг. Үнэ, шатахуун, улс төр бол их түгээмэл сэдэв. Хүмүүс бодлоо нээлттэй хэлдэг ч \"миний бодлоор\" гэж зөөллөх, яриа ширүүсвэл сэдвээ өөрчлөх нь эелдэг хэрэг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 1,
+  "notes": "A strong, natural lesson. The pairs match, the blanks have only one correct answer, and the explanations are accurate. Only one wording slip in the dialogue."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 4,
+  "notes": "The lesson is mostly solid. The fixes make the intros match, complete the list of suffixes, remove an unnatural alternative, and align the culture note with the English.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "The mn intro left out the юу юу / хэн хэн point that intro_en mentions."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The list of past endings left out -сөн, which this lesson itself uses in өгсөн."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "\"Улс төрөөр маргах\" (instrumental case) is unnatural; the standard phrasing is \"тухай\"."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "\"Хамгийн түгээмэл\" means \"most common\", but the English says \"very common\"."
+   }
+  ]
+ }
+}

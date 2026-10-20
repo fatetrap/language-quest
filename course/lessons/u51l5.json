@@ -1,0 +1,520 @@
+{
+ "intro_en": "You will learn how to take a car to a garage, understand what the mechanic says, and ask about cost and time. You will also practice -ж авах and -уулах/-ж өгөх in Mongolian, and 'have something done' in English.",
+ "intro_mn": "Та машинаа засварын газарт аваачиж, засварчин юу хэлснийг ойлгож, үнэ болон хугацааг асууж сурна. Мөн монгол хэлний -ж авах, -уулах, -ж өгөх хэлбэр болон англи хэлний 'have something done' бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "засвар",
+   "en": "repair",
+   "pos": "noun",
+   "example_mn": "Энэ засвар хоёр өдөр үргэлжилнэ.",
+   "example_en": "This repair will take two days.",
+   "mn_latin": "zasvar"
+  },
+  {
+   "mn": "тос солих",
+   "en": "to change the oil",
+   "pos": "verb phrase",
+   "example_mn": "Би машиныхаа тосыг солимоор байна.",
+   "example_en": "I want to change my oil.",
+   "mn_latin": "tos solikh"
+  },
+  {
+   "mn": "дугуй",
+   "en": "tire",
+   "pos": "noun",
+   "example_mn": "Урд дугуй нь элэгдчихсэн байна.",
+   "example_en": "The front tire is worn out.",
+   "mn_latin": "dugui"
+  },
+  {
+   "mn": "тоормос",
+   "en": "brake",
+   "pos": "noun",
+   "example_mn": "Тоормос нь чимээ гаргаад байна.",
+   "example_en": "The brakes keep making noise.",
+   "mn_latin": "toormos"
+  },
+  {
+   "mn": "аккумулятор",
+   "en": "battery",
+   "pos": "noun",
+   "example_mn": "Өвлийн хүйтэнд аккумулятор суудаг.",
+   "example_en": "In the cold winter, batteries often die.",
+   "mn_latin": "akkumulyator"
+  },
+  {
+   "mn": "оношилгоо",
+   "en": "inspection, diagnostics",
+   "pos": "noun",
+   "example_mn": "Эхлээд оношилгоо хийе.",
+   "example_en": "Let's do a diagnostic first.",
+   "mn_latin": "onoshilgoo"
+  },
+  {
+   "mn": "тооцоо",
+   "en": "estimate, calculation",
+   "pos": "noun",
+   "example_mn": "Тооцоогоо гаргаад өгөөч.",
+   "example_en": "Please work out an estimate for me.",
+   "mn_latin": "tootsoo"
+  },
+  {
+   "mn": "засварчин",
+   "en": "mechanic",
+   "pos": "noun",
+   "example_mn": "Манай засварчин маш чадварлаг.",
+   "example_en": "Our mechanic is very skilled.",
+   "mn_latin": "zasvarchin"
+  },
+  {
+   "mn": "сэлбэг",
+   "en": "spare part",
+   "pos": "noun",
+   "example_mn": "Энэ сэлбэгийг захиалах хэрэгтэй.",
+   "example_en": "We need to order this part.",
+   "mn_latin": "selbeg"
+  },
+  {
+   "mn": "хугацаа",
+   "en": "time frame, duration",
+   "pos": "noun",
+   "example_mn": "Засварт хэр хугацаа орох вэ?",
+   "example_en": "How long will the repair take?",
+   "mn_latin": "khugatsaa"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би машинаа засварт оруулмаар байна.",
+   "en": "I would like to bring my car in for repair.",
+   "alt_mn": [
+    "Би машинаа засуулмаар байна."
+   ],
+   "alt_en": [
+    "I want to take my car in for service."
+   ],
+   "mn_latin": "Bi mashinaa zasvart oruulmaar baina."
+  },
+  {
+   "mn": "Тоормосоо шалгуулах хэрэгтэй.",
+   "en": "I need to get my brakes checked.",
+   "alt_mn": [
+    "Тоормосоо шалгуулах ёстой."
+   ],
+   "alt_en": [
+    "I have to have my brakes checked."
+   ],
+   "mn_latin": "Toormosoo shalguulakh kheregtei."
+  },
+  {
+   "mn": "Тосыг сольж өгөхөд хэр удах вэ?",
+   "en": "How long will it take you to change the oil?",
+   "alt_mn": [
+    "Тос сольж өгөхөд хэр хугацаа орох вэ?"
+   ],
+   "alt_en": [
+    "How long will an oil change take?"
+   ],
+   "mn_latin": "Tosyg solij ögökhöd kher udakh ve?"
+  },
+  {
+   "mn": "Засварчин маргааш машиныг тань бэлдэж өгнө гэсэн.",
+   "en": "The mechanic said he would get your car ready tomorrow.",
+   "alt_mn": [
+    "Засварчин маргааш машиныг тань бэлэн болгож өгнө гэлээ."
+   ],
+   "alt_en": [
+    "The mechanic said he'd have your car ready tomorrow."
+   ],
+   "mn_latin": "Zasvarchin margaash mashinyg tani beldej ögnö gesen."
+  },
+  {
+   "mn": "Машинаа үдээс хойш ирж авч болох уу?",
+   "en": "Can I come pick up my car in the afternoon?",
+   "alt_mn": [
+    "Машинаа үдээс хойш ирээд авч болох уу?"
+   ],
+   "alt_en": [
+    "Can I pick my car up this afternoon?"
+   ],
+   "mn_latin": "Mashinaa üdees khoish irj avch bolokh uu?"
+  },
+  {
+   "mn": "Дөрвөн дугуйг бүгдийг нь сольсон.",
+   "en": "All four tires have been replaced.",
+   "alt_mn": [
+    "Дөрвөн дугуйг бүгдийг нь сольчихсон."
+   ],
+   "alt_en": [
+    "They replaced all four tires."
+   ],
+   "mn_latin": "Dörvön duguig bügdiig ni solison."
+  },
+  {
+   "mn": "Аккумуляторыг шинээр авсан нь дээр.",
+   "en": "It is better to buy a new battery.",
+   "alt_mn": [
+    "Аккумуляторыг шинээр авсан нь дээр юм."
+   ],
+   "alt_en": [
+    "You'd better get a new battery."
+   ],
+   "mn_latin": "Akkumulyatoryg shineer avsan ni deer."
+  },
+  {
+   "mn": "Нийт хэдэн төгрөг болох вэ?",
+   "en": "How much will it come to in total?",
+   "alt_mn": [
+    "Бүгд хэдэн төгрөг болох вэ?"
+   ],
+   "alt_en": [
+    "What will the total cost be?"
+   ],
+   "mn_latin": "Niit kheden tögrög bolokh ve?"
+  },
+  {
+   "mn": "Эхлээд тооцоо гаргаж өгөөч.",
+   "en": "Please give me an estimate first.",
+   "alt_mn": [
+    "Эхлээд үнийн тооцоо гаргаад өгөөч."
+   ],
+   "alt_en": [
+    "Could you write up an estimate first?"
+   ],
+   "mn_latin": "Ekhleed tootsoo gargaj ögööch."
+  },
+  {
+   "mn": "Сэлбэг ирэх хүртэл машиныг энд үлдээж болно.",
+   "en": "You can leave the car here until the part arrives.",
+   "alt_mn": [
+    "Сэлбэг ирэх хүртэл машинаа энд үлдээж болно."
+   ],
+   "alt_en": [
+    "You can leave the car here until the part comes in."
+   ],
+   "mn_latin": "Selbeg irekh khürtel mashinyg end üldeej bolno."
+  },
+  {
+   "mn": "Би өчигдөр машинаа үзлэгт оруулсан.",
+   "en": "I had my car inspected yesterday.",
+   "alt_mn": [
+    "Би өчигдөр машинаа оношлуулсан."
+   ],
+   "alt_en": [
+    "I got my car inspected yesterday."
+   ],
+   "mn_latin": "Bi öchigdör mashinaa üzlegt oruulsan."
+  },
+  {
+   "mn": "Засвар дууссан бол би өнөөдөр машинаа аваад явъя.",
+   "en": "If the repair is finished, I will take my car back today.",
+   "alt_mn": [
+    "Засвар дууссан бол би өнөөдөр машинаа авч явъя."
+   ],
+   "alt_en": [
+    "If the work is done, I'll pick up my car today."
+   ],
+   "mn_latin": "Zasvar duussan bol bi önöödör mashinaa avaad yavya."
+  }
+ ],
+ "grammar": {
+  "title_en": "-ж авах, -уулах and -ж өгөх: who does the work for whom",
+  "title_mn": "-ж авах, -уулах ба -ж өгөх: хэн хэний төлөө хийх вэ",
+  "explain_en": "In a garage, three patterns matter. The causative -уулах/-үүлэх (засуулах, шалгуулах) means you have someone else do the job: Тоормосоо шалгууллаа = 'I had my brakes checked.' The pattern -ж өгөх means the mechanic does something for you as a favor or service: Тос сольж өгнө = 'He will change the oil for you.' It is common in promises. The pattern -ж авах means doing something for yourself or picking something up: Машинаа аваад явлаа = 'I picked up my car and left.' English uses 'have/get + object + past participle': I had the oil changed; I got the brakes checked. The word order is have + object + V3, not 'have checked my car'.",
+  "explain_mn": "Засварын газар гурван хэлбэр чухал. Үйлдүүлэх хэвийн -уулах/-үүлэх (засуулах, шалгуулах) нь ажлыг өөр хүнээр хийлгэхийг илэрхийлнэ: Тоормосоо шалгууллаа = 'I had my brakes checked.' -ж өгөх нь засварчин танд үйлчилгээ болгон хийж өгөхийг заана: Тос сольж өгнө = 'He will change the oil for you.' Энэ хэлбэрийг амлалт өгөхдөө их хэрэглэдэг. -ж авах нь өөрийнхөө төлөө хийх, эсвэл ямар нэг юм авахыг илэрхийлнэ: Машинаа аваад явлаа = 'I picked up my car and left.' Англи хэлэнд 'have/get + зүйл + өнгөрсөн цагийн үйлт нэр (V3)' бүтцийг хэрэглэнэ: I had the oil changed; I got the brakes checked. Үгийн дараалал нь have + зүйл + V3 байна, 'have checked my car' биш.",
+  "examples": [
+   {
+    "mn": "Би тоормосоо шалгуулсан.",
+    "en": "I had my brakes checked.",
+    "mn_latin": "Bi toormosoo shalguulsan."
+   },
+   {
+    "mn": "Засварчин тос сольж өгнө.",
+    "en": "The mechanic will change the oil for you.",
+    "mn_latin": "Zasvarchin tos solij ögnö."
+   },
+   {
+    "mn": "Маргааш машинаа ирж авна.",
+    "en": "I will come pick up my car tomorrow.",
+    "mn_latin": "Margaash mashinaa irj avna."
+   },
+   {
+    "mn": "Дугуйгаа солиулж авлаа.",
+    "en": "I got my tires replaced.",
+    "mn_latin": "Duguigaa soliulj avlaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би тоормосоо шалг___ байна.",
+   "answer": "уулах гэж",
+   "options": [
+    "уулах гэж",
+    "аж өгөх гэж",
+    "аад авах гэж",
+    "асан"
+   ],
+   "translation": "I am going to have my brakes checked.",
+   "explain_en": "Шалгуулах is the causative: you have someone check them. Only this option fits as 'have checked'.",
+   "explain_mn": "Шалгуулах нь өөр хүнээр шалгуулах гэсэн үйлдүүлэх хэлбэр. Бусад хувилбар утгад таарахгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Засварчин маргааш машиныг тань бэлдэж ___ гэсэн.",
+   "answer": "өгнө",
+   "options": [
+    "өгнө",
+    "авна",
+    "орно",
+    "гарна"
+   ],
+   "translation": "The mechanic said he would get your car ready for you tomorrow.",
+   "explain_en": "A promise made for the customer uses -ж өгөх.",
+   "explain_mn": "Үйлчлүүлэгчид хийж өгөх амлалтад -ж өгөх хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Засвар дууссан бол машинаа ирж ___.",
+   "answer": "авна",
+   "options": [
+    "авна",
+    "өгнө",
+    "үзнэ",
+    "хэлнэ"
+   ],
+   "translation": "If the repair is done, I will come pick up my car.",
+   "explain_en": "Picking up your own car uses -ж авах.",
+   "explain_mn": "Өөрийнхөө машиныг авах үед -ж авах хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I had the oil ___ yesterday.",
+   "answer": "changed",
+   "options": [
+    "changed",
+    "change",
+    "changing",
+    "to change"
+   ],
+   "translation": "Би өчигдөр тосоо солиулсан.",
+   "explain_en": "Use have + object + past participle.",
+   "explain_mn": "have + зүйл + V3 бүтэц: changed."
+  },
+  {
+   "lang": "en",
+   "text": "She got her brakes ___ before the trip.",
+   "answer": "checked",
+   "options": [
+    "checked",
+    "check",
+    "checking",
+    "checks"
+   ],
+   "translation": "Тэр аяллын өмнө тоормосоо шалгуулсан.",
+   "explain_en": "After 'got + object' the past participle shows the work was done by someone else.",
+   "explain_mn": "got + зүйл + V3 нь өөр хүнээр хийлгэсэн гэсэн утга."
+  },
+  {
+   "lang": "en",
+   "text": "How much will it cost to have the battery ___?",
+   "answer": "replaced",
+   "options": [
+    "replaced",
+    "replace",
+    "replacing",
+    "replaces"
+   ],
+   "translation": "Аккумуляторыг солиулахад хэдэн төгрөг болох вэ?",
+   "explain_en": "'Have the battery replaced' uses the past participle.",
+   "explain_mn": "have + зүйл + V3: replaced."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "Сайн байна уу? Машинаа үзлэгт оруулмаар байна.",
+   "en": "Hello. I would like to bring my car in for a check.",
+   "mn_latin": "Sain baina uu? Mashinaa üzlegt oruulmaar baina."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Сайн байна уу. Юу болоод байна вэ?",
+   "en": "Hello. What seems to be the problem?",
+   "mn_latin": "Sain baina uu. Yuu bolood baina ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тоормос нь чимээ гаргаад байна, тосоо ч солиулмаар байна.",
+   "en": "The brakes are making noise, and I also want to have the oil changed.",
+   "mn_latin": "Toormos ni chimee gargaad baina, tosoo ch soliulmaar baina."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "За, эхлээд оношилгоо хийе. Дараа нь тооцоо гаргаж өгнө.",
+   "en": "OK, let's do a diagnostic first. Then I will give you an estimate.",
+   "mn_latin": "Za, ekhleed onoshilgoo khiiye. Daraa ni tootsoo gargaj ögnö."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Хэр хугацаа орох вэ? Би маргааш ажилдаа явах ёстой.",
+   "en": "How long will it take? I have to go to work tomorrow.",
+   "mn_latin": "Kher khugatsaa orokh ve? Bi margaash ajildaa yavakh yostoi."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тоормосны колодк солих хэрэгтэй юм байна. Маргааш үдээс өмнө бэлдэж өгнө.",
+   "en": "The brake pads need replacing. I will have it ready for you before noon tomorrow.",
+   "mn_latin": "Toormosny kolodk solikh kheregtei yum baina. Margaash üdees ömnö beldej ögnö."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Сайн байна. Нийт хэдэн төгрөг болох вэ?",
+   "en": "Good. How much will it be in total?",
+   "mn_latin": "Sain baina. Niit kheden tögrög bolokh ve?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Зуун гучин мянга орчим. Маргааш ирж аваарай.",
+   "en": "About 130,000 tugriks. Come pick it up tomorrow.",
+   "mn_latin": "Zuun guchin myanga orchim. Margaash irj avaarai."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar many drivers use small garages near the ger districts, and prices are often agreed verbally. Before winter people commonly check the battery, antifreeze, and tires, because temperatures can fall below -30°C. Many Mongolians also import used cars, especially from Japan or Korea, so finding the right spare part can take a few days.",
+  "mn": "Улаанбаатарт олон жолооч гэр хорооллын ойролцоох жижиг засварын газарт үйлчлүүлдэг бөгөөд үнийг ихэвчлэн амаар тохирдог. Өвлийн өмнө аккумулятор, антифриз, дугуйгаа шалгуулах нь элбэг, учир нь хүйтэн -30°C-аас доош буудаг. Монголчууд Япон, Солонгосоос хуучин машин их оруулж ирдэг тул тохирох сэлбэг олоход хэд хоног шаардагдах нь бий."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 28,
+  "notes": "Mostly good; some typos (солиулмаар, тогтдог, гарам), a broken blank stem, and a missing accusative in the dialogue. Several entries in the fixes list are no-change confirmations."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 20,
+  "notes": "Fixed misspelled verb forms (сольох, солуулах, авж), standardized аккумулятор, made the grammar explanations match, and corrected the fill-in-the-blank options.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "mn",
+    "why": "'сольох' is not a word; the verb is солих"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "Correct form is солимоор, not сольмоор"
+   },
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "Natural verb for a worn tire is элэгдэх"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "mn",
+    "why": "Standard spelling"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_mn",
+    "why": "Standard spelling"
+   },
+   {
+    "section": "vocab",
+    "index": 4,
+    "field": "example_en",
+    "why": "Natural English"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "'хугацаа хэд вэ' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "en",
+    "why": "More natural English"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "'авж' is a misspelling of the converb авч"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "Standard spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "Standard spelling"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Align with the Mongolian version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn version omitted -ж авах and did not match the en version"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "'I got my tires replaced' needs the causative"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "The options produced invalid forms (шалгж, шалгсан)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "Causative needed to match 'had the oil changed'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'солуулах' is wrong; the forms are солиулах and аккумулятор"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "'дэвсгэр' is a calque; mechanics say колодк"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "'Нэг зуун' is unnatural in speech"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Standard spelling аккумулятор"
+   }
+  ]
+ }
+}

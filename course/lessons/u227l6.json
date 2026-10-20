@@ -1,0 +1,414 @@
+{
+ "intro_en": "In this final review, you'll practice ending a taxi ride in Ulaanbaatar: giving last directions, paying with cash or QPay, sorting out change, and saying a warm goodbye. You'll also review Mongolian plural question words like хэн хэн and юу юу, and practice English subject and object questions for retelling the ride.",
+ "intro_mn": "Энэ эцсийн давтлагын хичээлээр та Улаанбаатарт таксинаас буухдаа сүүлийн чиглэлээ хэлэх, бэлэн мөнгө эсвэл QPay-ээр төлөх, хариулт мөнгөний асуудлыг шийдэх, жолоочтой найрсаг салах ёс гүйцэтгэхийг давтана. Мөн хэн хэн, юу юу гэх давхар асуух үгсийг давтаж, англи хэлний subject болон object асуултаар аяллаа ярьж сурна.",
+ "vocab": [
+  {
+   "mn": "хариулт",
+   "en": "change (money given back)",
+   "pos": "noun",
+   "example_mn": "Хариулт хэрэггүй ээ.",
+   "example_en": "Keep the change.",
+   "mn_latin": "khariult"
+  },
+  {
+   "mn": "шилжүүлэх",
+   "en": "to transfer (money)",
+   "pos": "verb",
+   "example_mn": "Таны дугаар руу шилжүүлье.",
+   "example_en": "I'll transfer it to your number.",
+   "mn_latin": "shiljüülekh"
+  },
+  {
+   "mn": "энд зогсоорой",
+   "en": "stop here, please",
+   "pos": "phrase",
+   "example_mn": "Энд зогсоорой, би бууна.",
+   "example_en": "Stop here, please. I'm getting out.",
+   "mn_latin": "end zogsooroi"
+  },
+  {
+   "mn": "сайхан ажиллаарай",
+   "en": "have a good shift / have a good day at work",
+   "pos": "phrase",
+   "example_mn": "Баярлалаа, сайхан ажиллаарай!",
+   "example_en": "Thanks, have a good shift!",
+   "mn_latin": "saikhan ajillaarai"
+  },
+  {
+   "mn": "буулгах",
+   "en": "to drop off (a passenger)",
+   "pos": "verb",
+   "example_mn": "Намайг сургуулийн өмнө буулгаарай.",
+   "example_en": "Please drop me off in front of the school.",
+   "mn_latin": "buulgakh"
+  },
+  {
+   "mn": "бэлэн мөнгө",
+   "en": "cash",
+   "pos": "noun",
+   "example_mn": "Надад бэлэн мөнгө алга.",
+   "example_en": "I don't have any cash.",
+   "mn_latin": "belen möngö"
+  },
+  {
+   "mn": "баримт",
+   "en": "receipt",
+   "pos": "noun",
+   "example_mn": "Баримт өгч болох уу?",
+   "example_en": "Can you give me a receipt?",
+   "mn_latin": "barimt"
+  },
+  {
+   "mn": "уулзвар",
+   "en": "intersection",
+   "pos": "noun",
+   "example_mn": "Дараагийн уулзвар дээр зогсоорой.",
+   "example_en": "Stop at the next intersection.",
+   "mn_latin": "uulzvar"
+  },
+  {
+   "mn": "хаа хаана",
+   "en": "where (all), which places",
+   "pos": "interrogative",
+   "example_mn": "Өнөөдөр хаа хаана явсан бэ?",
+   "example_en": "Where all did you go today?",
+   "mn_latin": "khaa khaana"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энд буулгаад өгөөрэй, баярлалаа.",
+   "en": "You can drop me off here, thanks.",
+   "alt_mn": [
+    "Энд буулгаж өгөөрэй, баярлалаа."
+   ],
+   "alt_en": [
+    "Here's fine, thanks.",
+    "Drop me off here, thanks."
+   ],
+   "mn_latin": "End buulgaad ögöörei, bayarlalaa."
+  },
+  {
+   "mn": "Тэр гэрлэн дохионы өмнө зогсоорой.",
+   "en": "Please stop before that traffic light.",
+   "alt_mn": [],
+   "alt_en": [
+    "Stop before that traffic light, please."
+   ],
+   "mn_latin": "Ter gerlen dokhiony ömnö zogsooroi."
+  },
+  {
+   "mn": "Дараагийн уулзвар дээр баруун тийш эргээд зогсоорой.",
+   "en": "Turn right at the next intersection and stop, please.",
+   "alt_mn": [
+    "Дараагийн уулзвараас баруун тийш эргээд зогсоорой."
+   ],
+   "alt_en": [
+    "Please turn right at the next intersection and stop."
+   ],
+   "mn_latin": "Daraagiin uulzvar deer baruun tiish ergeed zogsooroi."
+  },
+  {
+   "mn": "Бэлэн мөнгөөр төлөх үү, эсвэл QPay-ээр үү?",
+   "en": "Should I pay in cash or with QPay?",
+   "alt_mn": [
+    "Бэлнээр төлөх үү, QPay-ээр үү?"
+   ],
+   "alt_en": [
+    "Cash or QPay?",
+    "Do you want cash or QPay?"
+   ],
+   "mn_latin": "Belen möngöör tölökh üü, esvel QPay-eer üü?"
+  },
+  {
+   "mn": "Танд хариулт байна уу?",
+   "en": "Do you have change?",
+   "alt_mn": [
+    "Хариулт байгаа юу?"
+   ],
+   "alt_en": [
+    "Have you got change?"
+   ],
+   "mn_latin": "Tand khariult baina uu?"
+  },
+  {
+   "mn": "Хариулт хэрэггүй ээ.",
+   "en": "Keep the change.",
+   "alt_mn": [
+    "Хариулт өгөх хэрэггүй ээ."
+   ],
+   "alt_en": [
+    "You can keep the change."
+   ],
+   "mn_latin": "Khariult khereggüi ee."
+  },
+  {
+   "mn": "Таны утасны дугаар руу шилжүүлчихье.",
+   "en": "I'll just transfer it to your phone number.",
+   "alt_mn": [
+    "Таны дугаар руу шилжүүлье."
+   ],
+   "alt_en": [
+    "Let me transfer it to your phone number."
+   ],
+   "mn_latin": "Tany utasny dugaar ruu shiljüülchikhiye."
+  },
+  {
+   "mn": "Мөнгө орчихлоо, баярлалаа.",
+   "en": "The money came through, thank you.",
+   "alt_mn": [
+    "Мөнгө орлоо, баярлалаа."
+   ],
+   "alt_en": [
+    "I got the money, thanks."
+   ],
+   "mn_latin": "Möngö orchikhloo, bayarlalaa."
+  },
+  {
+   "mn": "Хэн хэн мөнгө төлсөн бэ?",
+   "en": "Who paid?",
+   "alt_mn": [],
+   "alt_en": [
+    "Who all paid?",
+    "Which of you paid?"
+   ],
+   "mn_latin": "Khen khen möngö tölsön be?"
+  },
+  {
+   "mn": "Жолооч юу юу ярьсан бэ?",
+   "en": "What did the driver talk about?",
+   "alt_mn": [
+    "Жолооч юу юу гэж ярьсан бэ?"
+   ],
+   "alt_en": [
+    "What all did the driver talk about?",
+    "What did the driver say?"
+   ],
+   "mn_latin": "Jolooch yuu yuu yarisan be?"
+  },
+  {
+   "mn": "Та нар ямар ямар замаар явсан бэ?",
+   "en": "Which roads did you take?",
+   "alt_mn": [],
+   "alt_en": [
+    "What roads did you take?",
+    "Which routes did you take?"
+   ],
+   "mn_latin": "Ta nar yamar yamar zamaar yavsan be?"
+  },
+  {
+   "mn": "Баярлалаа, сайхан ажиллаарай!",
+   "en": "Thanks, have a good shift!",
+   "alt_mn": [],
+   "alt_en": [
+    "Thank you, have a good day at work!",
+    "Thanks, have a good one!"
+   ],
+   "mn_latin": "Bayarlalaa, saikhan ajillaarai!"
+  }
+ ],
+ "grammar": {
+  "title_en": "Plural question words: хэн хэн, юу юу, хаа хаана, ямар ямар",
+  "title_mn": "Олон хариулт хүлээсэн асуух үг: хэн хэн, юу юу, хаа хаана, ямар ямар",
+  "explain_en": "In Mongolian, you can double a question word to show that you expect more than one answer, like a list. Хэн бэ? means \"Who?\" (one person), but Хэн хэн ирсэн бэ? means \"Who (all) came?\" and expects several names. The same works with юу юу (what all), ямар ямар (what kinds), and хаа хаана (where all; note the short first part хаа). The verb and the question particle бэ/вэ stay the same. In English this is usually just \"who/what/where,\" sometimes with \"all.\" It sounds natural and chatty, so it's perfect for asking a friend about a ride or a day out.",
+  "explain_mn": "Монгол хэлэнд олон хариулт буюу жагсаалт хүлээж байгаагаа илэрхийлэхийн тулд асуух үгийг давхарлаж хэлж болно. Хэн бэ? гэвэл нэг хүний тухай асууж байна. Харин Хэн хэн ирсэн бэ? гэвэл хэд хэдэн хүний нэрийг хүлээж байна. Юу юу, ямар ямар, хаа хаана (эхний хэсэг нь хаа гэж богино байдгийг анхаараарай) гэх үгс ч мөн адил. Үйл үг болон бэ/вэ асуух сул үг өөрчлөгдөхгүй. Англи хэлэнд үүнийг ихэвчлэн who, what, where гэж орчуулдаг, заримдаа all нэмдэг. Энэ хэлбэр нь ярианы, дотно сонсогддог тул найзаасаа аялал, өдрийнх нь тухай асуухад тохиромжтой.",
+  "examples": [
+   {
+    "mn": "Хэн хэн таксинд суусан бэ?",
+    "en": "Who got in the taxi?",
+    "mn_latin": "Khen khen taksind suusan be?"
+   },
+   {
+    "mn": "Жолооч юу юу асуусан бэ?",
+    "en": "What did the driver ask?",
+    "mn_latin": "Jolooch yuu yuu asuusan be?"
+   },
+   {
+    "mn": "Та нар хаа хаана зогссон бэ?",
+    "en": "Where all did you stop?",
+    "mn_latin": "Ta nar khaa khaana zogsson be?"
+   },
+   {
+    "mn": "Ямар ямар дуу тавьсан бэ?",
+    "en": "What kinds of songs did he play?",
+    "mn_latin": "Yamar yamar duu tavisan be?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өчигдрийн үдэшлэгт хэн ___ ирсэн бэ?",
+   "answer": "хэн",
+   "options": [
+    "хэн",
+    "юу",
+    "хаана",
+    "ямар"
+   ],
+   "translation": "Who (all) came to the party yesterday?",
+   "explain_en": "To ask about several people, double хэн: хэн хэн means \"who (all).\" You can't mix two different question words like хэн юу.",
+   "explain_mn": "Олон хүний тухай асуухдаа хэн гэдэг үгийг давхарлаж хэн хэн гэнэ. Өөр өөр асуух үгийг хольж хэлдэггүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Бэлэн мөнг___ төлье.",
+   "answer": "өөр",
+   "options": [
+    "өөр",
+    "ээр",
+    "оор",
+    "аар"
+   ],
+   "translation": "I'll pay in cash.",
+   "explain_en": "The instrumental case (by, with) follows vowel harmony. мөнгө ends in ө, so it takes -өөр: мөнгөөр.",
+   "explain_mn": "Үйлдэхийн тийн ялгал эгшиг зохицох ёсыг баримтална. Мөнгө үг ө эгшгээр төгссөн тул -өөр залгана: мөнгөөр."
+  },
+  {
+   "lang": "mn",
+   "text": "Мөнгийг таны дугаар руу ___.",
+   "answer": "шилжүүлье",
+   "options": [
+    "шилжүүлье",
+    "шилжүүлэлт",
+    "шилжүүлэгч",
+    "шилжүүлэх нь"
+   ],
+   "translation": "I'll transfer the money to your number.",
+   "explain_en": "-ъя/-ье/-ья shows \"let me / I'll.\" After the front vowel ү, the ending is -ье: шилжүүлье. The other options are nouns (transfer, transferrer) or a nominal phrase, not a finished verb.",
+   "explain_mn": "Өөрийн хүсэл, санааг илэрхийлэхэд -ъя/-ье/-ья залгадаг. Ү эгшгийн дараа -ье залгана: шилжүүлье. Бусад сонголт нь нэр үг эсвэл нэрлэг хэллэг тул өгүүлбэрийг төгсгөж чадахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Who ___ the driver?",
+   "answer": "paid",
+   "options": [
+    "paid",
+    "pay",
+    "did paid",
+    "paying"
+   ],
+   "translation": "Жолоочид хэн төлсөн бэ?",
+   "explain_en": "\"Who\" is the subject here, so there's no \"did\" and the verb stays in the past tense: Who paid?",
+   "explain_mn": "Энд who нь өгүүлэгч тул did хэрэглэхгүй, үйл үг өнгөрсөн цагтаа үлдэнэ: Who paid?"
+  },
+  {
+   "lang": "en",
+   "text": "What ___ the driver say when you got out?",
+   "answer": "did",
+   "options": [
+    "did",
+    "was",
+    "has",
+    "is"
+   ],
+   "translation": "Таныг буухад жолооч юу гэсэн бэ?",
+   "explain_en": "\"What\" is the object (the driver said something), so you need \"did\" plus the base verb \"say.\"",
+   "explain_mn": "What нь тусагдахуун (жолооч юм хэлсэн) тул did нэмж, үйл үгийг say гэсэн анхны хэлбэрээр хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Who did the driver ___ to on the phone?",
+   "answer": "talk",
+   "options": [
+    "talk",
+    "talked",
+    "talks",
+    "talking"
+   ],
+   "translation": "Жолооч утсаар хэнтэй ярьсан бэ?",
+   "explain_en": "After \"did,\" always use the base form of the verb: did ... talk, not did ... talked.",
+   "explain_mn": "Did-ийн дараа үйл үг үргэлж анхны хэлбэртээ байна: did ... talk. Talked гэж хэлэхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Бат",
+   "mn": "За, хаана буулгах вэ?",
+   "en": "Okay, where should I drop you off?",
+   "mn_latin": "Za, khaana buulgakh ve?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Тэр эмийн сангийн хажууд зогсоорой. Хэд болсон бэ?",
+   "en": "Stop next to that pharmacy, please. How much is it?",
+   "mn_latin": "Ter emiin sangiin khajuud zogsooroi. Khed bolson be?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Найман мянга. Бэлэн үү, QPay уу?",
+   "en": "Eight thousand. Cash or QPay?",
+   "mn_latin": "Naiman myanga. Belen üü, QPay uu?"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "QPay-ээр шилжүүлье. Та өнөөдөр хаа хаана явсан бэ?",
+   "en": "I'll transfer it with QPay. Where all have you driven today?",
+   "mn_latin": "QPay-eer shiljüüliye. Ta önöödör khaa khaana yavsan be?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Өглөө нисэх буудал, дараа нь Зайсан, Яармаг... Ямар ямар хүн суудаг гээч!",
+   "en": "The airport in the morning, then Zaisan, Yarmag... You wouldn't believe the kinds of people who get in!",
+   "mn_latin": "Öglöö nisekh buudal, daraa ni Zaisan, Yaarmag... Yamar yamar khün suudag geech!"
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Хамгийн сонирхолтой нь хэн хэн байсан бэ?",
+   "en": "Who were the most interesting ones?",
+   "mn_latin": "Khamgiin sonirkholtoi ni khen khen baisan be?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Нэг жуулчин юу юу асуугаагүй гэж! За, мөнгө орчихлоо, баярлалаа.",
+   "en": "One tourist asked me about absolutely everything! Okay, the money came through. Thanks.",
+   "mn_latin": "Neg juulchin yuu yuu asuugaagüi gej! Za, möngö orchikhloo, bayarlalaa."
+  },
+  {
+   "speaker": "Ану",
+   "mn": "Танд ч бас баярлалаа. Сайхан ажиллаарай!",
+   "en": "Thank you too. Have a good shift!",
+   "mn_latin": "Tand ch bas bayarlalaa. Saikhan ajillaarai!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many \"taxis\" are ordinary private cars that you flag down on the street, and the fare is often agreed per kilometer or as a set price. These days most people pay by scanning a QPay code or sending a bank transfer to the driver's account or phone number, so drivers often say \"орчихлоо\" (it came through) once they see the payment. A friendly \"Сайхан ажиллаарай!\" (Have a good shift!) is the usual warm way to say goodbye.",
+  "mn": "Улаанбаатарт \"такси\" гэдэг нь ихэвчлэн гудамжнаас гар өргөж зогсоодог энгийн хувийн машин байдаг бөгөөд үнийг километрээр эсвэл тохиролцсон дүнгээр тооцдог. Одоо ихэнх хүн QPay код уншуулж, эсвэл жолоочийн данс, утасны дугаар руу шилжүүлж төлдөг тул жолооч мөнгөө харахаараа \"орчихлоо\" гэдэг. Буухдаа \"Сайхан ажиллаарай!\" гэж хэлэх нь жолоочтой найрсаг салах ердийн ёс юм."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, natural lesson. The only fixes are an ambiguous receipt request, an odd alternative for 'keep the change', a distractor that is also correct, and one unnatural reply in the dialogue."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 4,
+  "notes": "Main problem: the grammar title_mn, explain_mn and intro_mn did not match the English versions. The rest of the lesson is largely correct.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn covered a different topic than title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn described a different rule than explain_en; en and mn must match"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "intro_mn left out the plural question words and Ulaanbaatar, which intro_en mentions"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "explain_mn now gives the same vowel-harmony point as explain_en"
+   }
+  ]
+ }
+}

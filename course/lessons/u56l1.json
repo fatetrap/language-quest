@@ -1,0 +1,476 @@
+{
+ "intro_en": "You will learn how to give a short toast at a family dinner or a Tsagaan Sar gathering, using toast vocabulary and the wish forms -аасай/-ээсэй and -тугай/-түгэй. You will also practice the English rule of three: health, happiness, success.",
+ "intro_mn": "Та гэр бүлийн оройн зоог эсвэл Цагаан сарын цугларалт дээр богино хундага өргөж, -аасай/-ээсэй, -тугай/-түгэй гэсэн хүсэл ерөөлийн хэлбэрийг хэрэглэж сурна. Мөн англи хэлний «эрүүл мэнд, аз жаргал, амжилт» гэсэн гурвын дүрмийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "хундага",
+   "en": "glass (for drinking a toast)",
+   "pos": "noun",
+   "example_mn": "Аав хундагаа өргөлөө.",
+   "example_en": "Dad raised his glass.",
+   "mn_latin": "khundaga"
+  },
+  {
+   "mn": "эрүүл мэнд",
+   "en": "health",
+   "pos": "noun",
+   "example_mn": "Эрүүл мэнд бол хамгийн чухал баялаг.",
+   "example_en": "Health is the most important wealth.",
+   "mn_latin": "erüül mend"
+  },
+  {
+   "mn": "аз жаргал",
+   "en": "happiness, good fortune",
+   "pos": "noun",
+   "example_mn": "Танд аз жаргал хүсье.",
+   "example_en": "We wish you happiness.",
+   "mn_latin": "az jargal"
+  },
+  {
+   "mn": "урт настан",
+   "en": "long-lived person, elder",
+   "pos": "noun",
+   "example_mn": "Манай өвөө бол урт настан.",
+   "example_en": "Our grandfather is a man of long life.",
+   "mn_latin": "urt nastan"
+  },
+  {
+   "mn": "ерөөх",
+   "en": "to bless, to wish well",
+   "pos": "verb",
+   "example_mn": "Эгч бүгдийг ерөөлөө.",
+   "example_en": "My older sister blessed everyone.",
+   "mn_latin": "yeröökh"
+  },
+  {
+   "mn": "амжилт",
+   "en": "success",
+   "pos": "noun",
+   "example_mn": "Шинэ жилд ажилд тань амжилт хүсье.",
+   "example_en": "We wish you success at work in the new year.",
+   "mn_latin": "amjilt"
+  },
+  {
+   "mn": "өргөх",
+   "en": "to raise, to offer",
+   "pos": "verb",
+   "example_mn": "Хундага өргөе.",
+   "example_en": "Let's raise our glasses.",
+   "mn_latin": "örgökh"
+  },
+  {
+   "mn": "баяр хүргэе",
+   "en": "congratulations",
+   "pos": "phrase",
+   "example_mn": "Цагаан сарын баяр хүргэе!",
+   "example_en": "Happy Tsagaan Sar!",
+   "mn_latin": "bayar khürgeye"
+  },
+  {
+   "mn": "сайхан",
+   "en": "good, lovely",
+   "pos": "adjective",
+   "example_mn": "Сайхан амьдралаар амьдраарай.",
+   "example_en": "May you live a good life.",
+   "mn_latin": "saikhan"
+  },
+  {
+   "mn": "ерөөл",
+   "en": "blessing, benediction",
+   "pos": "noun",
+   "example_mn": "Өвгөн ерөөл тавьсан.",
+   "example_en": "The old man gave a blessing.",
+   "mn_latin": "yerööl"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хундагаа өргөе.",
+   "en": "Let's raise our glasses.",
+   "alt_mn": [
+    "Хундагаа өргөцгөөе."
+   ],
+   "alt_en": [
+    "Let's raise our glasses together."
+   ],
+   "mn_latin": "Khundagaa örgöye."
+  },
+  {
+   "mn": "Бид бүгдийн эрүүл мэндэд!",
+   "en": "To everyone's health!",
+   "alt_mn": [
+    "Бүгдийн эрүүл мэндийн төлөө!"
+   ],
+   "alt_en": [
+    "Here's to everyone's health!",
+    "To our health!"
+   ],
+   "mn_latin": "Bid bügdiin erüül mended!"
+  },
+  {
+   "mn": "Эрүүл мэнд, аз жаргал, амжилт хүсье.",
+   "en": "We wish you health, happiness, and success.",
+   "alt_mn": [
+    "Танд эрүүл мэнд, аз жаргал, амжилт хүсье."
+   ],
+   "alt_en": [
+    "Wishing you health, happiness and success."
+   ],
+   "mn_latin": "Erüül mend, az jargal, amjilt khüsiye."
+  },
+  {
+   "mn": "Өвөө урт насалтугай.",
+   "en": "May Grandpa live a long life.",
+   "alt_mn": [
+    "Өвөө урт наслаасай."
+   ],
+   "alt_en": [
+    "Long life to Grandpa."
+   ],
+   "mn_latin": "Övöö urt nasaltugai."
+  },
+  {
+   "mn": "Урт наслаарай!",
+   "en": "Live long!",
+   "alt_mn": [],
+   "alt_en": [
+    "May you live a long life!"
+   ],
+   "mn_latin": "Urt naslaarai!"
+  },
+  {
+   "mn": "Танай гэр бүлд аз жаргал оршиг.",
+   "en": "May happiness dwell in your family.",
+   "alt_mn": [
+    "Танай гэр бүлд аз жаргал байг."
+   ],
+   "alt_en": [
+    "May your family be happy."
+   ],
+   "mn_latin": "Tanai ger büld az jargal orshig."
+  },
+  {
+   "mn": "Шинэ жил амжилттай болоосой.",
+   "en": "I hope the new year goes successfully.",
+   "alt_mn": [
+    "Шинэ жил амжилттай байгаасай."
+   ],
+   "alt_en": [
+    "I hope the new year is successful.",
+    "May the new year be a successful one."
+   ],
+   "mn_latin": "Shine jil amjilttai boloosoi."
+  },
+  {
+   "mn": "Хүүхдүүд эрүүл өсөөсэй.",
+   "en": "May the children grow up healthy.",
+   "alt_mn": [
+    "Хүүхдүүд эрүүл саруул өсөөсэй."
+   ],
+   "alt_en": [
+    "I hope the children grow up healthy."
+   ],
+   "mn_latin": "Khüükhdüüd erüül ösöösei."
+  },
+  {
+   "mn": "Бүгдийг ерөөе.",
+   "en": "Let me bless everyone.",
+   "alt_mn": [
+    "Бүгдэд ерөөл тавья."
+   ],
+   "alt_en": [
+    "I wish everyone well."
+   ],
+   "mn_latin": "Bügdiig yerööye."
+  },
+  {
+   "mn": "Цагаан сарын баяр хүргэе!",
+   "en": "Happy Tsagaan Sar!",
+   "alt_mn": [
+    "Цагаан сарын мэнд хүргэе!"
+   ],
+   "alt_en": [
+    "Congratulations on Tsagaan Sar!"
+   ],
+   "mn_latin": "Tsagaan saryn bayar khürgeye!"
+  },
+  {
+   "mn": "Ээж бидэнд урт наслаарай гэж хэлсэн.",
+   "en": "Mom said to us, \"May you live long.\"",
+   "alt_mn": [],
+   "alt_en": [
+    "Mom wished us a long life."
+   ],
+   "mn_latin": "Eej bidend urt naslaarai gej khelsen."
+  },
+  {
+   "mn": "Дандаа ийм сайхан хамт байгаасай.",
+   "en": "I hope we can always be together like this.",
+   "alt_mn": [
+    "Үргэлж ийм сайхан хамт байгаасай."
+   ],
+   "alt_en": [
+    "May we always be together like this."
+   ],
+   "mn_latin": "Dandaa iim saikhan khamt baigaasai."
+  }
+ ],
+ "grammar": {
+  "title_en": "Wishes: -аасай/-ээсэй and -тугай/-түгэй",
+  "title_mn": "Ерөөл, хүслийн хэлбэр: -аасай/-ээсэй ба -тугай/-түгэй",
+  "explain_en": "To say what you hope will happen, add -аасай/-ээсэй (by vowel harmony: -аасай, -оосой, -ээсэй, -өөсөй) to the verb stem: байх → байгаасай, болох → болоосой. It is warm and everyday. For a blessing to someone you address directly, use the imperative -аарай/-ээрэй: Урт наслаарай! 'Live long!' More formal, ceremonial forms are -тугай/-түгэй for a wish about someone else (Өвөө урт насалтугай 'May Grandpa live long') and -агтун/-эгтүн when addressing a group or someone politely (Урт наслагтун 'May you (all) live long'). Use -аарай with family, and -агтун/-тугай in speeches and blessings to a group or elders. In English, the same meaning is expressed with \"May + subject + verb\" (May you live long!) or \"I hope + clause\". When raising a glass, list three wishes: \"health, happiness, and success.\"",
+  "explain_mn": "Хүсэл, ерөөлийг үйл үгийн үндэс дээр -аасай/-ээсэй (эгшгийн зохицлоор -аасай, -оосой, -ээсэй, -өөсөй) дагавар залгаж илэрхийлнэ: байх → байгаасай, болох → болоосой. Энэ нь дулаахан, өдөр тутмын хэлбэр. Шууд хандаж ерөөхөд -аарай/-ээрэй хэрэглэнэ: Урт наслаарай! Илүү албан ёсны, ёслолын хэлбэр нь гуравдагч этгээдэд хамаатай ерөөлд -тугай/-түгэй (Өвөө урт насалтугай), олон хүнд эсвэл хүндэтгэн хандахад -агтун/-эгтүн (Урт наслагтун) юм. Гэр бүлийн хүндээ -аарай, хурал ёслол, ахмадад хандсан ерөөлд -агтун/-тугай хэрэглэнэ. Англи хэлэнд ижил утгыг «May + subject + verb» (May you live long!) эсвэл «I hope + өгүүлбэр» хэлбэрээр илэрхийлнэ. Хундага өргөхдөө «health, happiness, and success» гэж гурвыг жагсаана.",
+  "examples": [
+   {
+    "mn": "Шинэ жил амжилттай байгаасай.",
+    "en": "I hope the new year is successful.",
+    "mn_latin": "Shine jil amjilttai baigaasai."
+   },
+   {
+    "mn": "Урт наслаарай!",
+    "en": "Live long!",
+    "mn_latin": "Urt naslaarai!"
+   },
+   {
+    "mn": "Та бүхэн урт наслагтун.",
+    "en": "May you all live long.",
+    "mn_latin": "Ta bükhen urt naslagtun."
+   },
+   {
+    "mn": "Хүүхдүүд эрүүл өсөөсэй.",
+    "en": "May the children grow up healthy.",
+    "mn_latin": "Khüükhdüüd erüül ösöösei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шинэ жил сайхан болоо___.",
+   "answer": "сой",
+   "options": [
+    "сой",
+    "сэй",
+    "сай",
+    "сөй"
+   ],
+   "translation": "I hope the new year turns out well.",
+   "explain_en": "The verb болох has the back rounded vowel о, so the wish ending is -оосой: болоосой.",
+   "explain_mn": "«Болох» үйл үгийн үндэс «о» эгшигтэй тул -оосой дагавар залгана: болоосой. Иймээс «болоо» + «сой» тохирно."
+  },
+  {
+   "lang": "mn",
+   "text": "Өвөө, урт наслаа___!",
+   "answer": "рай",
+   "options": [
+    "рай",
+    "рэй",
+    "гтун",
+    "рой"
+   ],
+   "translation": "Grandpa, live long!",
+   "explain_en": "Addressing one person directly in a blessing uses -аарай: наслаарай.",
+   "explain_mn": "Нэг хүнд шууд хандан ерөөхөд -аарай залгана: наслаарай."
+  },
+  {
+   "lang": "mn",
+   "text": "Танай гэр бүлд аз жаргал байгаа___.",
+   "answer": "сай",
+   "options": [
+    "сай",
+    "сэй",
+    "гтун",
+    "рай"
+   ],
+   "translation": "I hope your family has happiness.",
+   "explain_en": "Байх becomes байгаасай; the stem has back vowels, so -аасай.",
+   "explain_mn": "«Байх» нь «байгаасай» болно; эгшиг нь хойд эгшиг тул -аасай."
+  },
+  {
+   "lang": "en",
+   "text": "May you all ___ long and happy lives.",
+   "answer": "live",
+   "options": [
+    "live",
+    "lives",
+    "living",
+    "lived"
+   ],
+   "translation": "Та бүхэн урт удаан, аз жаргалтай амьдраарай.",
+   "explain_en": "After \"May + subject\" the verb stays in its base form: May you live.",
+   "explain_mn": "«May + subject» дараа үйл үг үндсэн хэлбэрээрээ байна: May you live."
+  },
+  {
+   "lang": "en",
+   "text": "To your health, happiness, ___ success!",
+   "answer": "and",
+   "options": [
+    "and",
+    "but",
+    "so",
+    "or"
+   ],
+   "translation": "Таны эрүүл мэнд, аз жаргал, амжилтын төлөө!",
+   "explain_en": "In a list of three, put \"and\" before the last item.",
+   "explain_mn": "Гурван зүйл жагсаахад сүүлчийн зүйлийн өмнө «and» тавина."
+  },
+  {
+   "lang": "en",
+   "text": "I hope the children ___ healthy.",
+   "answer": "stay",
+   "options": [
+    "stay",
+    "stays",
+    "to stay",
+    "staying"
+   ],
+   "translation": "Хүүхдүүд эрүүл байгаасай гэж найдаж байна.",
+   "explain_en": "After \"I hope\" a normal clause follows; with plural \"children\" use the base form: stay.",
+   "explain_mn": "«I hope»-ийн дараа энгийн өгүүлбэр орно; «children» олон тоотой тул үндсэн хэлбэр «stay» байна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Бүгдээрээ хундагаа авцгаая. Би хэдэн үг хэлье.",
+   "en": "Everyone, let's take our glasses. I'd like to say a few words.",
+   "mn_latin": "Bügdeeree khundagaa avtsgaaya. Bi kheden üg kheliye."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "За, за. Болд ах ерөөл тавина.",
+   "en": "Yes, go ahead. Bold will give a blessing.",
+   "mn_latin": "Za, za. Bold akh yerööl tavina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Шинэ жилдээ бид бүгд эрүүл энх байгаасай.",
+   "en": "In the new year, I hope we are all healthy and well.",
+   "mn_latin": "Shine jildee bid bügd erüül enkh baigaasai."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Өвөө, эмээ хоёр урт насалтугай.",
+   "en": "May Grandpa and Grandma live long.",
+   "mn_latin": "Övöö, emee khoyor urt nasaltugai."
+  },
+  {
+   "speaker": "Эмээ",
+   "mn": "Баярлалаа, хүү минь. Чамд ч аз жаргал хүсье.",
+   "en": "Thank you, my boy. I wish you happiness too.",
+   "mn_latin": "Bayarlalaa, khüü mini. Chamd ch az jargal khüsiye."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Эрүүл мэнд, аз жаргал, амжилтын төлөө!",
+   "en": "To health, happiness, and success!",
+   "mn_latin": "Erüül mend, az jargal, amjiltyn tölöö!"
+  },
+  {
+   "speaker": "Бүгд",
+   "mn": "Эрүүл мэндэд! Цагаан сарын баяр хүргэе!",
+   "en": "To health! Happy Tsagaan Sar!",
+   "mn_latin": "Erüül mended! Tsagaan saryn bayar khürgeye!"
+  }
+ ],
+ "culture_note": {
+  "en": "At Tsagaan Sar, elders are greeted with the zolgokh ritual and families share buuz, milk tea, and a toast. The oldest person is usually honored first, and blessings (ерөөл) are often spoken in a formal, poetic style using -тугай/-түгэй or -агтун forms. In English, a short toast typically names three wishes, such as health, happiness, and success, and ends with \"Cheers!\"",
+  "mn": "Цагаан сараар өтгөс буурлаа золгож, бууз идэж, сүүтэй цай ууж, хундага өргөдөг. Ихэвчлэн хамгийн ахмад хүнээс эхэлдэг бөгөөд ерөөлийг -тугай/-түгэй, -агтун зэрэг албан ёсны, яруу хэлбэрээр хэлдэг. Англи хэлээр богино хундага өргөхдөө эрүүл мэнд, аз жаргал, амжилт гэсэн гурван хүслийг нэрлээд «Cheers!» гэж төгсгөдөг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 26,
+  "notes": "Several real errors: the grammar explain_mn is the wrong content, and fill-in-the-blank items 0 and 2 have mismatched suffix splits; other items are mostly fine."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed the -тугай/-агтун person distinction, misspellings, register in the dialogue, and an ambiguous fill-in-the-blank.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "хүсэлт means 'request'; the correct word is хүсэл"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "Misspelling: амьдаарай → амьдраарай"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "Wrong form: насалсугай → насалтугай"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "-агтун addresses 'you' and does not fit a third-person wish"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "The alternative duplicated the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "The genitive of хүсэл is хүслийн"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Corrected the -тугай/-агтун distinction and matched the mn content"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Corrected the form distinction to match en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "наслаасай was also a correct answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "\"informally-respectfully\" was awkward wording"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "This is a third-person wish, so -тугай is needed, not -агтун"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "A grandmother would address her grandson with чи"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "en",
+    "why": "The speaker is one person"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Tea is drunk (уух), not eaten (идэх)"
+   }
+  ]
+ }
+}

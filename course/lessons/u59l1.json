@@ -1,0 +1,498 @@
+{
+ "intro_en": "You will learn the names of common kitchen tools and cooking methods in Mongolian, and how to use the -хан/-хэн diminutive for small amounts and gentle requests. You will also pick up English compound adjectives like non-stick and long-handled.",
+ "intro_mn": "Та гал тогооны түгээмэл хэрэгсэл, хоол хийх аргын нэрийг сурч, цөөн хэмжээ болон эелдэг хүсэлтийг илэрхийлэх -хан/-хэн нөхцлийг ойлгоно. Мөн non-stick, long-handled зэрэг англи нийлмэл тэмдэгт нэрийг сурна.",
+ "vocab": [
+  {
+   "mn": "тогоо",
+   "en": "pot / wok",
+   "pos": "noun",
+   "example_mn": "Тогоонд мах хийгээрэй.",
+   "example_en": "Put the meat in the pot.",
+   "mn_latin": "togoo"
+  },
+  {
+   "mn": "данх",
+   "en": "kettle / teapot",
+   "pos": "noun",
+   "example_mn": "Данхны ус буцалчихлаа.",
+   "example_en": "The water in the kettle has boiled.",
+   "mn_latin": "dankh"
+  },
+  {
+   "mn": "хутга",
+   "en": "knife",
+   "pos": "noun",
+   "example_mn": "Энэ хутга маш хурц байна.",
+   "example_en": "This knife is very sharp.",
+   "mn_latin": "khutga"
+  },
+  {
+   "mn": "шанага",
+   "en": "ladle",
+   "pos": "noun",
+   "example_mn": "Шанагаар шөл аваарай.",
+   "example_en": "Scoop up some soup with the ladle.",
+   "mn_latin": "shanaga"
+  },
+  {
+   "mn": "чанах",
+   "en": "to boil / to simmer",
+   "pos": "verb",
+   "example_mn": "Мах нэг цаг чанана.",
+   "example_en": "The meat simmers for an hour.",
+   "mn_latin": "chanakh"
+  },
+  {
+   "mn": "шарах",
+   "en": "to roast / to fry",
+   "pos": "verb",
+   "example_mn": "Хуушуурыг тосонд шарна.",
+   "example_en": "You fry khuushuur in oil.",
+   "mn_latin": "sharakh"
+  },
+  {
+   "mn": "жигнэх",
+   "en": "to steam",
+   "pos": "verb",
+   "example_mn": "Бууз жигнэхэд хорин минут шаардлагатай.",
+   "example_en": "Steaming buuz takes twenty minutes.",
+   "mn_latin": "jignekh"
+  },
+  {
+   "mn": "хуурах",
+   "en": "to stir-fry",
+   "pos": "verb",
+   "example_mn": "Мах, сонгиныг хуурна.",
+   "example_en": "You stir-fry the meat and onion.",
+   "mn_latin": "khuurakh"
+  },
+  {
+   "mn": "исгэх",
+   "en": "to ferment",
+   "pos": "verb",
+   "example_mn": "Ээж тараг, айраг исгэдэг.",
+   "example_en": "Mom ferments yogurt and airag.",
+   "mn_latin": "isgekh"
+  },
+  {
+   "mn": "борц хатаах",
+   "en": "to dry meat into borts",
+   "pos": "verb phrase",
+   "example_mn": "Өвөл борц хатаадаг.",
+   "example_en": "In winter, people dry meat into borts.",
+   "mn_latin": "borts khataakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Надад нэг хутга өгөөч.",
+   "en": "Please give me a knife.",
+   "alt_mn": [
+    "Надад нэг хутга өгөөрэй."
+   ],
+   "alt_en": [
+    "Could you give me a knife?"
+   ],
+   "mn_latin": "Nadad neg khutga ögööch."
+  },
+  {
+   "mn": "Шанагаар шөлийг аяганд хий.",
+   "en": "Pour the soup into the bowl with the ladle.",
+   "alt_mn": [
+    "Шанагаар шөлийг аяга руу хийгээрэй."
+   ],
+   "alt_en": [
+    "Put the soup into the bowl with the ladle."
+   ],
+   "mn_latin": "Shanagaar shöliig ayagand khii."
+  },
+  {
+   "mn": "Энэ бол наалддаггүй тогоо юм.",
+   "en": "This is a non-stick pot.",
+   "alt_mn": [
+    "Энэ бол наалддаггүй тогоо."
+   ],
+   "alt_en": [
+    "This pot is non-stick."
+   ],
+   "mn_latin": "Ene bol naalddaggüi togoo yum."
+  },
+  {
+   "mn": "Урт бариултай шанага хаана байна?",
+   "en": "Where is the long-handled ladle?",
+   "alt_mn": [
+    "Бариул нь урт шанага хаана байна?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Urt bariultai shanaga khaana baina?"
+  },
+  {
+   "mn": "Бага зэрэг давс хийгээрэй.",
+   "en": "Add a little salt.",
+   "alt_mn": [
+    "Давсхан хийгээрэй."
+   ],
+   "alt_en": [
+    "Please add a pinch of salt."
+   ],
+   "mn_latin": "Baga zereg davs khiigeerei."
+  },
+  {
+   "mn": "Чи надад ус өгөөч, бага зэрэг л.",
+   "en": "Give me some water, just a little.",
+   "alt_mn": [
+    "Надад бага зэрэг ус өгөөч."
+   ],
+   "alt_en": [
+    "Please give me a little water."
+   ],
+   "mn_latin": "Chi nadad us ögööch, baga zereg l."
+  },
+  {
+   "mn": "Мах чанасны дараа шөлийг шүүнэ.",
+   "en": "After the meat is boiled, strain the broth.",
+   "alt_mn": [
+    "Мах чанаад дараа нь шөлийг шүүнэ."
+   ],
+   "alt_en": [
+    "After boiling the meat, you strain the broth."
+   ],
+   "mn_latin": "Makh chanasny daraa shöliig shüüne."
+  },
+  {
+   "mn": "Эгч бууз жигнэж байна.",
+   "en": "My older sister is steaming buuz.",
+   "alt_mn": [
+    "Эгч маань бууз жигнэж байна."
+   ],
+   "alt_en": [
+    "My sister is steaming buuz."
+   ],
+   "mn_latin": "Egch buuz jignej baina."
+  },
+  {
+   "mn": "Сайн дадсан тогоонд хоол шатдаггүй.",
+   "en": "Food doesn't burn in a well-seasoned wok.",
+   "alt_mn": [],
+   "alt_en": [
+    "Food doesn't burn in a well-seasoned pot."
+   ],
+   "mn_latin": "Sain dadsan togoond khool shatdaggüi."
+  },
+  {
+   "mn": "Сонгиныг хутгаар жижиглээд тосонд хуураарай.",
+   "en": "Chop the onion with the knife and stir-fry it in oil.",
+   "alt_mn": [
+    "Сонгиныг хутгаар жижиглэж тосонд хуураарай."
+   ],
+   "alt_en": [
+    "Cut up the onion with a knife and stir-fry it in oil."
+   ],
+   "mn_latin": "Songinyg khutgaar jijigleed tosond khuuraarai."
+  },
+  {
+   "mn": "Өвөө өвлийн турш борц хатаадаг.",
+   "en": "Grandpa dries borts all winter.",
+   "alt_mn": [
+    "Өвөө өвөлдөө борц хатаадаг."
+   ],
+   "alt_en": [
+    "Grandpa makes dried meat throughout the winter."
+   ],
+   "mn_latin": "Övöö övliin tursh borts khataadag."
+  },
+  {
+   "mn": "Цайндаа сүүхэн нэмж өгөөч.",
+   "en": "Could you add a little milk to my tea?",
+   "alt_mn": [
+    "Цайнд маань сүүхэн нэмээч."
+   ],
+   "alt_en": [
+    "Please add a bit of milk to my tea."
+   ],
+   "mn_latin": "Tsaindaa süükhen nemj ögööch."
+  }
+ ],
+ "grammar": {
+  "title_en": "The diminutive -хан/-хэн and English compound adjectives",
+  "title_mn": "Багасгах -хан/-хэн нөхцөл ба англи нийлмэл тэмдэгт нэр",
+  "explain_en": "Add -хан/-хэн (by vowel harmony: -хан, -хэн, -хон, -хөн) to nouns and adjectives to mean 'a little' or 'a bit', and to soften requests: давс → давсхан (a pinch of salt), сүү → сүүхэн (a splash of milk), бага → багахан (quite small). It sounds warm and polite when asking a relative for something. The suffix attaches directly to the word, and the vowel in the suffix follows the vowel harmony of the stem. English does the same job with 'a little', 'a bit of' or 'a pinch of', and builds tool descriptions with hyphenated compound adjectives: non-stick pan, long-handled ladle, well-seasoned wok. These compounds always go before the noun and never take a plural ending.",
+  "explain_mn": "-хан/-хэн нөхцлийг (эгшиг зохицох ёсоор: -хан, -хэн, -хон, -хөн) нэр үг, тэмдэгт нэрт залгаж «бага зэрэг» гэсэн утга илэрхийлэх, хүсэлтийг зөөлрүүлэхэд хэрэглэнэ: давс → давсхан, сүү → сүүхэн, бага → багахан. Хамаатан саднаасаа юм гуйхад дулаан, эелдэг сонсогдоно. Нөхцөл үгэнд шууд залгагдах бөгөөд эгшиг нь үндсийн эгшгийг дагана. Англи хэлэнд энэ үүргийг 'a little', 'a bit of', 'a pinch of' гүйцэтгэнэ: a little salt (давсхан), a bit of milk (сүүхэн). Харин хэрэгслийн шинж чанарыг зураасаар холбосон нийлмэл тэмдэгт нэрээр илэрхийлнэ: non-stick pan (наалддаггүй тогоо), long-handled ladle (урт бариултай шанага), well-seasoned wok (сайн дадсан тогоо). Ийм нийлмэл тэмдэгт нэр үргэлж нэр үгийн өмнө орж, олон тоонд ч хэлбэрээ өөрчлөхгүй.",
+  "examples": [
+   {
+    "mn": "Давсхан хийгээрэй.",
+    "en": "Add a pinch of salt, please.",
+    "mn_latin": "Davskhan khiigeerei."
+   },
+   {
+    "mn": "Сүүхэн нэмж өгөөч.",
+    "en": "Could you add a little milk?",
+    "mn_latin": "Süükhen nemj ögööch."
+   },
+   {
+    "mn": "Багахан тогоо надад хэрэгтэй.",
+    "en": "I need a smallish pot.",
+    "mn_latin": "Bagakhan togoo nadad kheregtei."
+   },
+   {
+    "mn": "Урт бариултай, наалддаггүй тогоо сайн.",
+    "en": "A long-handled, non-stick pan is good.",
+    "mn_latin": "Urt bariultai, naalddaggüi togoo sain."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Шөлд давс___ хийгээрэй.",
+   "answer": "хан",
+   "options": [
+    "хан",
+    "хэн",
+    "хөн",
+    "хон"
+   ],
+   "translation": "Add a pinch of salt to the soup.",
+   "explain_en": "Давс has the back vowel 'а', so the diminutive is -хан: давсхан.",
+   "explain_mn": "Давс гэдэг үгэнд «а» эгшиг байгаа тул нөхцөл нь -хан болно: давсхан."
+  },
+  {
+   "lang": "mn",
+   "text": "Цайндаа сүү___ нэмж өгөөч.",
+   "answer": "хэн",
+   "options": [
+    "хэн",
+    "хан",
+    "хөн",
+    "хон"
+   ],
+   "translation": "Please add a little milk to my tea.",
+   "explain_en": "Сүү has a front vowel (ү), so the soft form -хэн is used: сүүхэн.",
+   "explain_mn": "Сүү гэдэг үг «ү» эгшигтэй тул -хэн нөхцөл залгана: сүүхэн."
+  },
+  {
+   "lang": "mn",
+   "text": "Бууз ___ байна, удахгүй идэж болно.",
+   "answer": "жигнэж",
+   "options": [
+    "жигнэж",
+    "чанаж",
+    "исгэж",
+    "хатааж"
+   ],
+   "translation": "The buuz are being steamed; we can eat soon.",
+   "explain_en": "Buuz are steamed, so жигнэх is the right verb; the -ж байна form shows it is in progress.",
+   "explain_mn": "Бууз жигнэж хийдэг тул «жигнэж байна» гэнэ. Чанах нь усанд буцалгахыг хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I bought a ___ pan, so nothing sticks to it.",
+   "answer": "non-stick",
+   "options": [
+    "non-stick",
+    "non-sticks",
+    "not stick",
+    "no-sticking"
+   ],
+   "translation": "Би наалддаггүй тогоо худалдаж авсан, тиймээс юу ч наалддаггүй.",
+   "explain_en": "Compound adjectives take a hyphen and stay singular before the noun: non-stick pan.",
+   "explain_mn": "Нийлмэл тэмдэгт нэр зураастай, нэр үгийн өмнө ганц хэлбэрээрээ орно: non-stick pan."
+  },
+  {
+   "lang": "en",
+   "text": "Could you pass me the ___ ladle? The pot is very deep.",
+   "answer": "long-handled",
+   "options": [
+    "long-handled",
+    "long-handle",
+    "longly handled",
+    "handle-long"
+   ],
+   "translation": "Урт бариултай шанагыг надад өгөөч. Тогоо маш гүн байна.",
+   "explain_en": "Use long-handled: adjective + noun-ed, joined by a hyphen, like 'long-handled ladle'.",
+   "explain_mn": "Урт бариултай гэсэн утгыг long-handled гэж хэлнэ: тэмдэгт + нэр-ed, зураасаар холбоно."
+  },
+  {
+   "lang": "en",
+   "text": "Grandma's wok is well-___, so the food never burns.",
+   "answer": "seasoned",
+   "options": [
+    "seasoned",
+    "season",
+    "seasoning",
+    "seasons"
+   ],
+   "translation": "Эмээгийн тогоо сайн дадсан тул хоол хэзээ ч шатдаггүй.",
+   "explain_en": "Well-seasoned uses the past participle 'seasoned' after 'well-'.",
+   "explain_mn": "Well-seasoned гэдэгт «well-»ийн дараа өнгөрсөн цагийн хэсэг үйлт нэр seasoned орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Болд, надад туслаач. Би өнөөдөр бууз хийж байна.",
+   "en": "Bold, please help me. I'm making buuz today.",
+   "mn_latin": "Bold, nadad tuslaach. Bi önöödör buuz khiij baina."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэгье, эгч ээ. Юунаас эхлэх вэ?",
+   "en": "Sure, sis. Where should I start?",
+   "mn_latin": "Tegiye, egch ee. Yuunaas ekhlekh ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Хутгаар сонгиныг жижиглээд, махтай хольчих.",
+   "en": "Chop the onion with the knife and mix it with the meat.",
+   "mn_latin": "Khutgaar songinyg jijigleed, makhtai kholichikh."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "За. Давс хэр их хийх вэ?",
+   "en": "OK. How much salt should I add?",
+   "mn_latin": "Za. Davs kher ikh khiikh ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Давсхан л хий, их биш.",
+   "en": "Just a pinch of salt, not a lot.",
+   "mn_latin": "Davskhan l khii, ikh bish."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тогоо бэлэн үү? Данхны ус буцалчихлаа.",
+   "en": "Is the pot ready? The water in the kettle has boiled.",
+   "mn_latin": "Togoo belen üü? Dankhny us butsalchikhlaa."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм, буузыг хорин минут жигнэнэ. Дараа нь шанагаар шөл аваарай.",
+   "en": "Yes, we steam the buuz for twenty minutes. Then scoop some broth with the ladle.",
+   "mn_latin": "Tiim, buuzyg khorin minut jignene. Daraa ni shanagaar shöl avaarai."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайхан үнэр гарлаа! Цайндаа сүүхэн хийж өгөөч.",
+   "en": "It smells great! Could you put a little milk in my tea?",
+   "mn_latin": "Saikhan üner garlaa! Tsaindaa süükhen khiij ögööch."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian homes, cooking is a family activity, especially before Tsagaan Sar, when relatives gather to fold hundreds of buuz and steam them in large pots. Traditional methods such as drying meat into borts and drying curds into aaruul let families store food through long winters. Using gentle forms like давсхан or сүүхэн when asking a relative for something is a warm, polite habit in the kitchen.",
+  "mn": "Монгол айлд хоол хийх нь гэр бүлийн хамтын ажил бөгөөд ялангуяа Цагаан сарын өмнө хамаатан садан цуглаж олон зуун бууз хийж, том тогоонд жигнэдэг. Борц хатаах, ааруул хатаах зэрэг уламжлалт аргууд урт өвөл хоол хүнсийг хадгалах боломж олгодог. Хамаатан садандаа хүсэлт тавихдаа давсхан, сүүхэн гэх мэт зөөлөн хэлбэр хэрэглэх нь гал тогооны дулаан, эелдэг заншил юм."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 16,
+  "notes": "Mostly good, but a few mismatched pairs (non-stick pot, stir-fry example, usxan) and some awkward grammar-term wording; the -хан explanation was partly inaccurate."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 17,
+  "notes": "Main issues: шанаа (cheekbone) was used throughout for 'ladle' (шанага), the grammar explanations didn't match across languages, and the culture note made a factual error about airag.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "mn",
+    "why": "ladle is шанага; шанаа means cheekbone"
+   },
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "шанаа → шанага"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "ааруул is dried, not fermented; айрагийг is misspelled (should be айргийг)"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_en",
+    "why": "match corrected mn"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "шанаа → шанага"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "шанаа → шанага"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "шанаа → шанага"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "шанаа → шанага"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "тослогдсон means 'oiled', not 'well-seasoned'; use the lesson's term"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "alt now duplicates the main sentence"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "match title_mn"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "align content with the mn version"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn version left out the Mongolian suffix rule; шанаа → шанага"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "шанаа → шанага"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "шанаа → шанага"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "airag is a summer drink, not a winter storage method"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "fix airag claim; тогооны өрөөний → гал тогооны"
+   }
+  ]
+ }
+}

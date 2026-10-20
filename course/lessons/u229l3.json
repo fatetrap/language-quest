@@ -1,0 +1,403 @@
+{
+ "intro_en": "In this seminar-style lesson you will read short excerpts in the style of the 18th-century Khalkh Juram and learn key customary-law terms such as ёс заншил, журам, ноён and тамга. You will also learn to recognize the archaic decree forms ялла, болой and буюу, and to choose between shall, will and must when translating legal texts into English.",
+ "intro_mn": "Энэ семинар маягийн хичээлээр та XVIII зууны «Халх журам»-ын хэв маягаар бичсэн богино хэсгүүдийг уншиж, ёс заншил, журам, ноён, тамга зэрэг заншлын эрх зүйн нэр томьёог сурна. Мөн ялла, болой, буюу гэх эртний зарлигийн хэлбэрийг таньж, хуулийн бичвэрийг англиар орчуулахдаа shall, will, must-ын алийг хэрэглэхээ ялгаж сурна.",
+ "vocab": [
+  {
+   "mn": "журам",
+   "en": "code, regulation",
+   "pos": "noun",
+   "example_mn": "Халх журмыг Их Хүрээнд баталжээ.",
+   "example_en": "The Khalkh Juram was adopted in Ikh Khüree.",
+   "mn_latin": "juram"
+  },
+  {
+   "mn": "ёс заншил",
+   "en": "custom, customary practice",
+   "pos": "noun",
+   "example_mn": "Журам ёс заншлыг бичгээр бататгасан.",
+   "example_en": "The code confirmed custom in writing.",
+   "mn_latin": "yos zanshil"
+  },
+  {
+   "mn": "ноён",
+   "en": "noble, lord",
+   "pos": "noun",
+   "example_mn": "Ноёд хуралдаж шинэ заалт нэмжээ.",
+   "example_en": "The nobles assembled and added a new provision.",
+   "mn_latin": "noyon"
+  },
+  {
+   "mn": "тамга",
+   "en": "seal, official stamp",
+   "pos": "noun",
+   "example_mn": "Тамгагүй бичиг хүчингүй байв.",
+   "example_en": "A document without a seal was invalid.",
+   "mn_latin": "tamga"
+  },
+  {
+   "mn": "хийд",
+   "en": "monastery",
+   "pos": "noun",
+   "example_mn": "Хийд өөрийн шавь нартай байжээ.",
+   "example_en": "The monastery had its own serfs.",
+   "mn_latin": "khiid"
+  },
+  {
+   "mn": "шавь",
+   "en": "disciple; monastery serf (shavi)",
+   "pos": "noun",
+   "example_mn": "Шавь нарын хэргийг шанзодбын яам шийддэг байв.",
+   "example_en": "Cases of monastery serfs were decided by the Shanzodba office.",
+   "mn_latin": "shavi"
+  },
+  {
+   "mn": "шүүх",
+   "en": "court",
+   "pos": "noun",
+   "example_mn": "Ноёны шүүх маргааныг хэлэлцэв.",
+   "example_en": "The noble court heard the dispute.",
+   "mn_latin": "shüükh"
+  },
+  {
+   "mn": "яллах",
+   "en": "to punish, to sentence",
+   "pos": "verb",
+   "example_mn": "Хулгайчийг есөөр яллажээ.",
+   "example_en": "The thief was fined by nines.",
+   "mn_latin": "yallakh"
+  },
+  {
+   "mn": "заалт",
+   "en": "provision, clause",
+   "pos": "noun",
+   "example_mn": "Энэ заалт хулгайн тухай.",
+   "example_en": "This provision is about theft.",
+   "mn_latin": "zaalt"
+  },
+  {
+   "mn": "зарлиг",
+   "en": "decree, edict",
+   "pos": "noun",
+   "example_mn": "Ноён зарлигаа тамгалав.",
+   "example_en": "The noble sealed his decree.",
+   "mn_latin": "zarlig"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Халх журмын анхны заалтуудыг 1709 онд Их Хүрээнд хуралдсан ноёд баталжээ.",
+   "en": "The first provisions of the Khalkh Juram were adopted in 1709 by nobles who assembled in Ikh Khüree.",
+   "alt_mn": [
+    "1709 онд Их Хүрээнд хуралдсан ноёд Халх журмын анхны заалтуудыг баталсан."
+   ],
+   "alt_en": [
+    "In 1709, nobles gathered in Ikh Khüree adopted the first provisions of the Khalkh Juram."
+   ],
+   "mn_latin": "Khalkh jurmyn ankhny zaaltuudyg 1709 ond Ikh Khüreend khuraldsan noyod bataljee."
+  },
+  {
+   "mn": "Эх бичигт «хулгайч хүнийг есөөр ялла» гэж бичсэн байдаг.",
+   "en": "The source text says, \"The thief shall be fined by nines.\"",
+   "alt_mn": [],
+   "alt_en": [
+    "The original text reads: \"The thief shall be fined by nines.\""
+   ],
+   "mn_latin": "Ekh bichigt «khulgaich khüniig yesöör yalla» gej bichsen baidag."
+  },
+  {
+   "mn": "Энд «ялла» гэдэг нь «яллах» үйл үгийн тушаах хэлбэр юм.",
+   "en": "Here, \"yalla\" is the imperative form of the verb \"yallakh.\"",
+   "alt_mn": [
+    "Энд «ялла» нь «яллах» гэдэг үйл үгийн тушаах хэлбэр."
+   ],
+   "alt_en": [],
+   "mn_latin": "End «yalla» gedeg ni «yallakh» üil ügiin tushaakh khelber yum."
+  },
+  {
+   "mn": "«Болой» нь хуулийн заалтыг баттай, эцсийн байдлаар төгсгөдөг.",
+   "en": "\"Boloi\" closes a legal provision in a firm, final way.",
+   "alt_mn": [],
+   "alt_en": [
+    "\"Boloi\" ends a legal provision firmly and conclusively."
+   ],
+   "mn_latin": "«Boloi» ni khuuliin zaaltyg battai, etssiin baidlaar tögsgödög."
+  },
+  {
+   "mn": "Хийдийн шавь нарын хэргийг ноёны шүүх биш, шанзодбын яам шийддэг байв.",
+   "en": "Cases involving monastery serfs were decided not by the noble courts but by the Shanzodba office.",
+   "alt_mn": [],
+   "alt_en": [
+    "It was the Shanzodba office, not the noble courts, that decided cases involving monastery serfs."
+   ],
+   "mn_latin": "Khiidiin shavi naryn khergiig noyony shüükh bish, shanzodbyn yaam shiiddeg baiv."
+  },
+  {
+   "mn": "Тамгагүй бичгийг хууль ёсны хүчингүйд тооцдог байжээ.",
+   "en": "A document without a seal was considered legally invalid.",
+   "alt_mn": [
+    "Тамгагүй бичгийг хууль ёсны хүчингүй гэж үздэг байжээ."
+   ],
+   "alt_en": [
+    "Unsealed documents were regarded as legally invalid."
+   ],
+   "mn_latin": "Tamgagüi bichgiig khuuli yosny khüchingüid tootsdog baijee."
+  },
+  {
+   "mn": "Журам ёс заншлыг бүрэн орлоогүй, харин түүнийг бичгээр бататгасан юм.",
+   "en": "The code did not fully replace custom; rather, it confirmed it in writing.",
+   "alt_mn": [],
+   "alt_en": [
+    "The code didn't entirely replace customary practice; instead, it put it in writing."
+   ],
+   "mn_latin": "Juram yos zanshlyg büren orloogüi, kharin tüüniig bichgeer batatgasan yum."
+  },
+  {
+   "mn": "Эртний бичигт «морь буюу үхэр» гэдэг нь «морь эсвэл үхэр» гэсэн утгатай.",
+   "en": "In old texts, \"mor' buyuu ükher\" means \"a horse or a cow.\"",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ertnii bichigt «mori buyuu ükher» gedeg ni «mori esvel ükher» gesen utgatai."
+  },
+  {
+   "mn": "Орчуулахдаа «ялла»-г англиар «shall be fined» гэж буулгавал зохимжтой.",
+   "en": "When translating, it is appropriate to render \"yalla\" in English as \"shall be fined.\"",
+   "alt_mn": [],
+   "alt_en": [
+    "In translation, \"yalla\" is best rendered in English as \"shall be fined.\""
+   ],
+   "mn_latin": "Orchuulakhdaa «yalla»-g angliar «shall be fined» gej buulgaval zokhimjtoi."
+  },
+  {
+   "mn": "Орчин үеийн хууль зүйн англи хэлэнд «shall»-ийн оронд «must» хэрэглэх нь түгээмэл болж байна.",
+   "en": "In modern legal English, using \"must\" instead of \"shall\" is becoming common.",
+   "alt_mn": [],
+   "alt_en": [
+    "Modern legal English increasingly uses \"must\" in place of \"shall.\""
+   ],
+   "mn_latin": "Orchin üyeiin khuuli züin angli khelend «shall»-iin orond «must» khereglekh ni tügeemel bolj baina."
+  },
+  {
+   "mn": "«Will» нь үүрэг биш, ирээдүйн үйлийг илэрхийлдэг тул хуулийн заалтад төөрөгдөл үүсгэж болно.",
+   "en": "Because \"will\" expresses a future action rather than an obligation, it can cause confusion in a legal provision.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "«Will» ni üüreg bish, ireedüin üiliig ilerkhiildeg tul khuuliin zaaltad töörögdöl üüsgej bolno."
+  },
+  {
+   "mn": "Ноён зарлигаа тамгалсны дараа л тэр хүчин төгөлдөр болдог байв.",
+   "en": "A decree took effect only after the noble had sealed it.",
+   "alt_mn": [
+    "Ноён тамгалсны дараа л зарлиг хүчин төгөлдөр болдог байв."
+   ],
+   "alt_en": [
+    "Only once the noble sealed his decree did it take effect."
+   ],
+   "mn_latin": "Noyon zarligaa tamgalsny daraa l ter khüchin tögöldör boldog baiv."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reading archaic decree forms: ялла, болой, буюу",
+  "title_mn": "Эртний зарлигийн хэлбэрийг унших нь: ялла, болой, буюу",
+  "explain_en": "Old Mongolian legal texts like the Khalkh Juram speak in commands. (1) The bare verb stem is the imperative: яллах 'to punish' becomes ялла, which means '(he) shall be fined/punished'. In a law it addresses the authority, not the offender. (2) Болой is an archaic sentence-final ending that makes a statement solemn and binding, as in сахих болой 'shall be observed'. Modern speech would say сахина or сахих ёстой. (3) Буюу is the formal 'or' between alternatives (морь буюу үхэр 'a horse or a cow'). In modern Mongolian it also means 'that is, i.e.' Translate ялла and болой with English legal 'shall', not with 'will'.",
+  "explain_mn": "«Халх журам» зэрэг эртний монгол хуулийн бичвэрүүд тушаалын хэлбэрээр бичигддэг. (1) Үйл үгийн язгуур нь тушаах хэлбэр болно: яллах → ялла. Энэ нь «(түүнийг) ялла, торго» гэсэн утгатай бөгөөд хуульд гэмтэнд биш, эрх мэдэлтэнд хандсан тушаал юм. (2) Болой нь өгүүлбэрийн төгсгөлд орж, мэдэгдлийг хүндэтгэлтэй, заавал биелүүлэх утгатай болгодог эртний төгсгөл юм. Жишээ нь: сахих болой («сахина, мөрдөнө»). Орчин үеийн ярианд сахина эсвэл сахих ёстой гэнэ. (3) Буюу нь сонголтын хоорондох албан ёсны «эсвэл» юм (морь буюу үхэр). Орчин үеийн монгол хэлэнд мөн «өөрөөр хэлбэл» гэсэн утгатай. Ялла, болой-г англиар will биш, хуулийн shall-аар орчуулна.",
+  "examples": [
+   {
+    "mn": "Хулгайчийг есөөр ялла.",
+    "en": "The thief shall be fined by nines.",
+    "mn_latin": "Khulgaichiig yesöör yalla."
+   },
+   {
+    "mn": "Ноёд энэ журмыг сахих болой.",
+    "en": "The nobles shall observe this code.",
+    "mn_latin": "Noyod ene jurmyg sakhikh boloi."
+   },
+   {
+    "mn": "Морь буюу тэмээгээр торгоно.",
+    "en": "He shall be fined a horse or a camel.",
+    "mn_latin": "Mori buyuu temeegeer torgono."
+   },
+   {
+    "mn": "Тамгатай бичгийг хүчинтэйд тооцох болой.",
+    "en": "A sealed document shall be deemed valid.",
+    "mn_latin": "Tamgatai bichgiig khüchinteid tootsokh boloi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хулгайчийг есөөр ___.",
+   "answer": "ялла",
+   "options": [
+    "ялла",
+    "яллав",
+    "яллажээ",
+    "яллаач"
+   ],
+   "translation": "The thief shall be fined by nines.",
+   "explain_en": "A decree uses the bare stem of яллах as an imperative: ялла. Яллав and яллажээ are past tenses that report a fact. Яллаач is a polite request, not a legal command.",
+   "explain_mn": "Зарлиг, журамд үйл үгийн язгуурыг тушаах утгаар хэрэглэдэг: ялла. Яллав, яллажээ нь болсон явдлыг өгүүлнэ, яллаач нь хүсэлт тул хуулийн заалтад тохирохгүй."
+  },
+  {
+   "mn": "",
+   "lang": "mn",
+   "text": "Ноёд энэ журмыг сахих ___.",
+   "answer": "болой",
+   "options": [
+    "болой",
+    "болов",
+    "болсон",
+    "болохгүй"
+   ],
+   "translation": "The nobles shall observe this code.",
+   "explain_en": "Болой after a future participle (-х) makes a solemn, binding statement, the equivalent of legal 'shall'. Болов and болсон are past forms, and болохгүй means 'must not / won't do'.",
+   "explain_mn": "-х хэлбэрийн дараах «болой» нь заалтыг баттай, заавал биелүүлэх утгатай болгодог. Англиар shall-тай дүйнэ. Болов, болсон нь өнгөрсөн цаг, болохгүй нь хориг юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Морь ___ үхрээр торгоно.",
+   "answer": "буюу",
+   "options": [
+    "буюу",
+    "болон",
+    "ба",
+    "бөгөөд"
+   ],
+   "translation": "He shall be fined a horse or a cow.",
+   "explain_en": "Буюу is the formal 'or' between alternatives. Болон and ба mean 'and', and бөгөөд joins clauses ('and moreover'). The fine is one animal or the other, not both.",
+   "explain_mn": "Буюу нь сонголтыг илэрхийлэх «эсвэл» гэсэн албан үг. Болон, ба нь хоёр зүйлийг нэгтгэдэг, бөгөөд нь өгүүлбэр холбоно. Торгууль нь аль нэг мал тул буюу тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "The borrower ___ repay the loan within thirty days.",
+   "answer": "shall",
+   "options": [
+    "shall",
+    "would",
+    "might",
+    "could"
+   ],
+   "translation": "Зээлдэгч зээлээ гучин хоногийн дотор төлөх үүрэгтэй.",
+   "explain_en": "In traditional legal drafting, 'shall' imposes a binding duty on a party. Would, might and could express hypothesis or possibility, not obligation.",
+   "explain_mn": "Уламжлалт хуулийн бичвэрт «shall» нь талд заавал биелүүлэх үүрэг ногдуулдаг. Would, might, could нь таамаг, боломжийг илэрхийлэх тул үүрэг заахгүй."
+  },
+  {
+   "lang": "en",
+   "text": "In plain-language rules, we write: \"You ___ submit the form by May 1.\"",
+   "answer": "must",
+   "options": [
+    "must",
+    "shall",
+    "will",
+    "would"
+   ],
+   "translation": "Энгийн хэлээр бичсэн журамд: «Та маягтыг 5-р сарын 1-ний дотор заавал өгөх ёстой» гэж бичдэг.",
+   "explain_en": "Plain-language drafting replaces 'shall' with 'must' because 'must' is clear to everyone. 'Will' sounds like a prediction, and 'would' is conditional.",
+   "explain_mn": "Энгийн хэлний журамд «shall»-ийн оронд хүн бүрт ойлгомжтой «must»-ыг хэрэглэдэг. «Will» нь таамаг мэт сонсогдоно, «would» нь болзолт утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "According to the minister, the new code ___ come into force next year.",
+   "answer": "will",
+   "options": [
+    "will",
+    "shall",
+    "must",
+    "ought"
+   ],
+   "translation": "Сайдын хэлснээр шинэ хууль ирэх жил хүчин төгөлдөр болно.",
+   "explain_en": "This sentence reports a future event and does not impose a duty, so 'will' is correct. 'Shall' and 'must' would wrongly suggest an obligation, and 'ought' needs 'to'.",
+   "explain_mn": "Энд үүрэг биш, ирээдүйд болох үйл явдлыг мэдээлж байгаа тул «will» зөв. «Shall», «must» нь үүргийн утга өгнө, «ought»-ын ард «to» заавал ордог."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Наранцэцэг",
+   "mn": "За, өнөөдөр Халх журмын хулгайн тухай заалтыг уншина. Эмили, эхний мөрийг орчуулаад үзээрэй.",
+   "en": "All right, today we'll read the Khalkh Juram's provision on theft. Emily, try translating the first line.",
+   "mn_latin": "Za, önöödör Khalkh jurmyn khulgain tukhai zaaltyg unshina. Emili, ekhnii möriig orchuulaad üzeerei."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "«Хулгайч хүнийг есөөр ялла». Үүнийг «The thief will be fined by nines» гэж орчуулж болох уу?",
+   "en": "\"Khulgaich khüniig yesöör yalla.\" Can I translate it as \"The thief will be fined by nines\"?",
+   "mn_latin": "«Khulgaich khüniig yesöör yalla». Üüniig «The thief will be fined by nines» gej orchuulj bolokh uu?"
+  },
+  {
+   "speaker": "Наранцэцэг",
+   "mn": "«Will» нь таамаг шиг сонсогдоно. «Ялла» бол тушаал учраас «shall» илүү оновчтой.",
+   "en": "\"Will\" sounds like a prediction. \"Yalla\" is a command, so \"shall\" is more precise.",
+   "mn_latin": "«Will» ni taamag shig sonsogdono. «Yalla» bol tushaal uchraas «shall» ilüü onovchtoi."
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Багш аа, тэгвэл «болой» гэдэг төгсгөлийг яаж буулгах вэ?",
+   "en": "Professor, then how should we render the ending \"boloi\"?",
+   "mn_latin": "Bagsh aa, tegvel «boloi» gedeg tögsgöliig yaaj buulgakh ve?"
+  },
+  {
+   "speaker": "Наранцэцэг",
+   "mn": "Мөн л «shall»-аар. «Сахих болой» гэвэл «shall be observed» болно.",
+   "en": "Also with \"shall.\" \"Sakhikh boloi\" becomes \"shall be observed.\"",
+   "mn_latin": "Mön l «shall»-aar. «Sakhikh boloi» gevel «shall be observed» bolno."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Энд «морь буюу үхэр» гэжээ. Хоёуланг нь төлөх үү?",
+   "en": "Here it says \"mor' buyuu ükher.\" Did they have to pay both?",
+   "mn_latin": "End «mori buyuu ükher» gejee. Khoyoulang ni tölökh üü?"
+  },
+  {
+   "speaker": "Бат-Эрдэнэ",
+   "mn": "Үгүй, «буюу» нь «эсвэл» гэсэн үг. Аль нэгийг нь төлнө.",
+   "en": "No, \"buyuu\" means \"or.\" They paid one or the other.",
+   "mn_latin": "Ügüi, «buyuu» ni «esvel» gesen üg. Ali negiig ni tölnö."
+  },
+  {
+   "speaker": "Наранцэцэг",
+   "mn": "Сайн байна. Дараагийн удаа хийдийн шавь нарын хэргийг ноёны шүүх биш, хэн шийддэг байсныг хэлэлцье.",
+   "en": "Good. Next time we'll discuss who, instead of the noble courts, decided cases involving monastery serfs.",
+   "mn_latin": "Sain baina. Daraagiin udaa khiidiin shavi naryn khergiig noyony shüükh bish, khen shiiddeg baisnyg kheleltsiye."
+  }
+ ],
+ "culture_note": {
+  "en": "The Khalkh Juram grew out of assemblies of Khalkha nobles held in Ikh Khüree (today's Ulaanbaatar) from 1709 onward, and new articles kept being added for decades. It did not replace customary law but recorded it, keeping old practices such as fines counted in \"nines\" of livestock. Monastery serfs (shavi) were under the Jebtsundamba Khutagt's Shanzodba office rather than the nobles' courts, and a document had legal force only once it carried an official seal (tamga).",
+  "mn": "«Халх журам» нь 1709 оноос эхлэн Их Хүрээнд хуралдсан Халхын ноёдын чуулганаар бүрэлдэж, хэдэн арван жилийн турш шинэ зүйл заалтаар баяжсан. Энэ журам ёс заншлыг орлоогүй, харин бичгээр баталгаажуулж, малаар «есөөр» торгох зэрэг эртний заншлыг хадгалсан. Хийдийн шавь нар ноёдын шүүхэд биш, Богд Жибзундамба хутагтын Эрдэнэ шанзодбын яамны харьяанд байсан бөгөөд бичиг баримт зөвхөн тамга дарагдсаны дараа л хууль ёсны хүчинтэй болдог байв."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A strong, accurate lesson. It needed one misleading claim fixed in the English explanation, plus a few translation-accuracy and case fixes."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 4,
+  "notes": "Main problem was the grammar section, whose mn title and explanation covered a different topic than en; other fixes are minor.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "mn title did not match en title (different topic)"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation covered a different topic than en; now says the same thing"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "en",
+    "why": "Emily quotes the Mongolian original; giving the 'shall' version gave away the answer under discussion"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "circular gloss «ба, болон» explained nothing"
+   }
+  ]
+ }
+}

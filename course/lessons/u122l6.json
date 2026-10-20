@@ -1,0 +1,440 @@
+{
+ "intro_en": "Learn to return things late gracefully: apologize, explain what happened, offer to pay for damage, and thank a friend. You'll review the Mongolian directional auxiliaries -аад ирэх / очих / явах in short stories about borrowed things.",
+ "intro_mn": "Зээлсэн юмаа хоцроож буцааж өгөхдөө хэрхэн уучлал гуйх, юу болсныг тайлбарлах, гэмтлийг нөхөж төлөхөө санал болгох, найздаа талархах тухай сурна. Зээлсэн юмны тухай богино түүхээр дамжуулан -аад ирэх / очих / явах гэсэн чиглэлийн туслах үйл үгсийг давтана.",
+ "vocab": [
+  {
+   "mn": "удах",
+   "en": "to take long, to be late",
+   "pos": "verb",
+   "example_mn": "Би их удчихлаа, уучлаарай.",
+   "example_en": "I took way too long, sorry.",
+   "mn_latin": "udakh"
+  },
+  {
+   "mn": "гэмтээх",
+   "en": "to damage",
+   "pos": "verb",
+   "example_mn": "Би таны дугуйг санамсаргүй гэмтээчихсэн.",
+   "example_en": "I accidentally damaged your bike.",
+   "mn_latin": "gemteekh"
+  },
+  {
+   "mn": "нөхөж төлөх",
+   "en": "to pay for (damage), to compensate",
+   "pos": "verb phrase",
+   "example_mn": "Эвдэрсэн хэсгийг нь би нөхөж төлнө.",
+   "example_en": "I'll pay for the broken part.",
+   "mn_latin": "nökhöj tölökh"
+  },
+  {
+   "mn": "баярлалаа",
+   "en": "thank you",
+   "pos": "interjection",
+   "example_mn": "Тэвчээртэй хүлээсэнд баярлалаа.",
+   "example_en": "Thanks for waiting so patiently.",
+   "mn_latin": "bayarlalaa"
+  },
+  {
+   "mn": "уучлал гуйх",
+   "en": "to apologize",
+   "pos": "verb phrase",
+   "example_mn": "Би түүнээс уучлал гуйсан.",
+   "example_en": "I apologized to him.",
+   "mn_latin": "uuchlal guikh"
+  },
+  {
+   "mn": "буцааж өгөх",
+   "en": "to give back, to return",
+   "pos": "verb phrase",
+   "example_mn": "Номоо маргааш буцааж өгье.",
+   "example_en": "I'll give the book back tomorrow.",
+   "mn_latin": "butsaaj ögökh"
+  },
+  {
+   "mn": "хохирол",
+   "en": "damage, loss",
+   "pos": "noun",
+   "example_mn": "Хохирлыг нь би хариуцна.",
+   "example_en": "I'll cover the damage.",
+   "mn_latin": "khokhirol"
+  },
+  {
+   "mn": "талархах",
+   "en": "to be grateful, to appreciate",
+   "pos": "verb",
+   "example_mn": "Таны тусламжид би их талархаж байна.",
+   "example_en": "I really appreciate your help.",
+   "mn_latin": "talarkhakh"
+  },
+  {
+   "mn": "өр",
+   "en": "debt",
+   "pos": "noun",
+   "example_mn": "Би чамд өртэй хэвээр байна уу?",
+   "example_en": "Do I still owe you anything?",
+   "mn_latin": "ör"
+  },
+  {
+   "mn": "нэхэх",
+   "en": "to ask for (something) back, to demand",
+   "pos": "verb",
+   "example_mn": "Тэр номоо нэхэхээс ичсэн.",
+   "example_en": "He was too embarrassed to ask for his book back.",
+   "mn_latin": "nekhekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ийм удаж байгаад өгсөнд уучлаарай.",
+   "en": "Sorry it took me so long to give it back.",
+   "alt_mn": [
+    "Ийм удаж байж буцааж өгсөнд уучлаарай."
+   ],
+   "alt_en": [
+    "Sorry it's so late.",
+    "Sorry for taking so long to return it."
+   ],
+   "mn_latin": "Iim udaj baigaad ögsönd uuchlaarai."
+  },
+  {
+   "mn": "Өчигдөр би өрмийг чинь авчирч өгөх гэж ирээд чамайг гэртээ байхгүй болохоор буцаад явсан.",
+   "en": "Yesterday I came by to bring your drill back, but you weren't home, so I left.",
+   "alt_mn": [],
+   "alt_en": [
+    "I came over yesterday to return your drill, but you weren't home, so I went back."
+   ],
+   "mn_latin": "Öchigdör bi örmiig chini avchirch ögökh gej ireed chamaig gertee baikhgüi bolokhoor butsaad yavsan."
+  },
+  {
+   "mn": "Дүү маань таны майхныг аваад хөдөө явчихсан юм.",
+   "en": "My younger brother took your tent and went off to the countryside.",
+   "alt_mn": [],
+   "alt_en": [
+    "My little brother took your tent with him to the countryside."
+   ],
+   "mn_latin": "Düü maani tany maikhnyg avaad khödöö yavchikhsan yum."
+  },
+  {
+   "mn": "Би дэлгүүр ороод шинэ батерей аваад ирлээ.",
+   "en": "I stopped by the store and came back with a new battery.",
+   "alt_mn": [
+    "Би дэлгүүр ороод шинэ батерей авчирлаа."
+   ],
+   "alt_en": [
+    "I went to the store and brought back a new battery."
+   ],
+   "mn_latin": "Bi delgüür orood shine batyeryei avaad irlee."
+  },
+  {
+   "mn": "Камерын чинь линзийг санамсаргүй гэмтээчихлээ, би нөхөж төлнө.",
+   "en": "I accidentally damaged your camera lens; I'll pay for it.",
+   "alt_mn": [],
+   "alt_en": [
+    "I accidentally damaged the lens on your camera. I'll pay for it."
+   ],
+   "mn_latin": "Kamyeryn chini linziig sanamsargüi gemteechikhlee, bi nökhöj tölnö."
+  },
+  {
+   "mn": "Надад мөнгө зээлүүлсэнд чинь үнэхээр баярлалаа.",
+   "en": "Thank you so much for lending me the money.",
+   "alt_mn": [
+    "Мөнгө зээлүүлсэнд баярлалаа."
+   ],
+   "alt_en": [
+    "Thanks a lot for lending me the money."
+   ],
+   "mn_latin": "Nadad möngö zeelüülsend chini ünekheer bayarlalaa."
+  },
+  {
+   "mn": "Чамд өгөх ёстой мөнгөө өнөөдөр шилжүүлчихье.",
+   "en": "I'll transfer you the money I owe you today.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'll send you the money I owe you today."
+   ],
+   "mn_latin": "Chamd ögökh yostoi möngöö önöödör shiljüülchikhiye."
+  },
+  {
+   "mn": "Маргааш ажлын дараа номыг чинь гэрт чинь аваачиж өгье.",
+   "en": "Tomorrow after work I'll bring your book over to your place.",
+   "alt_mn": [
+    "Маргааш ажлын дараа номыг чинь гэрт чинь аваад очъё."
+   ],
+   "alt_en": [
+    "Tomorrow after work I'll drop your book off at your place."
+   ],
+   "mn_latin": "Margaash ajlyn daraa nomyg chini gert chini avaachij ögiye."
+  },
+  {
+   "mn": "Найз маань ороод ирээд өрмөө нэхсэн.",
+   "en": "My friend came over and asked for his drill back.",
+   "alt_mn": [],
+   "alt_en": [
+    "My friend stopped by and asked me to return his drill."
+   ],
+   "mn_latin": "Naiz maani orood ireed örmöö nekhsen."
+  },
+  {
+   "mn": "Тэр надаас машин зээлж аваад хоёр долоо хоног буцааж өгөөгүй.",
+   "en": "He borrowed my car and didn't give it back for two weeks.",
+   "alt_mn": [
+    "Тэр миний машиныг зээлээд хоёр долоо хоног буцааж өгөөгүй."
+   ],
+   "alt_en": [
+    "He borrowed my car and kept it for two weeks."
+   ],
+   "mn_latin": "Ter nadaas mashin zeelj avaad khoyor doloo khonog butsaaj ögöögüi."
+  },
+  {
+   "mn": "Одоо бид хоёрын хооронд өр байхгүй боллоо.",
+   "en": "Now we're even.",
+   "alt_mn": [
+    "Одоо бид хоёр өргүй боллоо."
+   ],
+   "alt_en": [
+    "Now we're square.",
+    "Now neither of us owes the other anything."
+   ],
+   "mn_latin": "Odoo bid khoyoryn khoorond ör baikhgüi bolloo."
+  },
+  {
+   "mn": "Би чиний тусламжид үнэхээр талархаж байна.",
+   "en": "I really appreciate your help.",
+   "alt_mn": [
+    "Тусалсанд чинь үнэхээр талархаж байна."
+   ],
+   "alt_en": [
+    "I'm really grateful for your help."
+   ],
+   "mn_latin": "Bi chinii tuslamjid ünekheer talarkhaj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling the story: -аад ирэх / -аад очих / -аад явах",
+  "title_mn": "Түүх ярих: -аад ирэх / -аад очих / -аад явах",
+  "explain_en": "When you explain why something came back late, Mongolian links actions with -аад/-ээд/-оод/-өөд plus a direction verb. -аад ирэх means doing something and coming toward the speaker or back here: аваад ирлээ 'I came back with it.' -аад очих means doing something and going to a specific place, usually with a destination: гэрт чинь аваад очъё 'I'll bring it to your place.' -аад явах means doing something and leaving, often out of reach: аваад явчихсан 'took it and left.' Two common pairs are contracted: аваад ирэх → авчрах 'bring' and аваад очих → аваачих 'take there.' Adding -чих- (явчихсан, гэмтээчихлээ) shows the action is fully done, often unexpectedly, which suits apologies well.",
+  "explain_mn": "Юм яагаад хоцорч ирснийг тайлбарлахдаа монгол хэлэнд үйлдлүүдийг -аад/-ээд/-оод/-өөд нөхцөл болон чиглэлийн үйл үгээр холбодог. -аад ирэх нь ямар нэг юм хийгээд ярьж буй хүн рүү буюу энд буцаж ирэхийг заана: аваад ирлээ 'I came back with it.' -аад очих нь ямар нэг юм хийгээд тодорхой газар руу очихыг заадаг бөгөөд ихэвчлэн очих газартай хэрэглэгдэнэ: гэрт чинь аваад очъё 'I'll bring it to your place.' -аад явах нь ямар нэг юм хийгээд холдохыг заана. Ингэхэд юм нь ихэвчлэн гар хүрэхгүй болдог: аваад явчихсан 'took it and left.' Түгээмэл хоёр хослол хураангуйлагддаг: аваад ирэх → авчрах 'bring', аваад очих → аваачих 'take there.' -чих- (явчихсан, гэмтээчихлээ) нэмбэл үйлдэл бүрэн хийгдсэнийг, ихэвчлэн гэнэт болсныг илэрхийлдэг тул уучлал гуйхад их тохиромжтой.",
+  "examples": [
+   {
+    "mn": "Тэр майхныг аваад явчихсан, одоо болтол буцааж өгөөгүй.",
+    "en": "He took the tent and left, and he still hasn't given it back.",
+    "mn_latin": "Ter maikhnyg avaad yavchikhsan, odoo boltol butsaaj ögöögüi."
+   },
+   {
+    "mn": "Би шинэ батерей аваад ирлээ.",
+    "en": "I came back with a new battery.",
+    "mn_latin": "Bi shine batyeryei avaad irlee."
+   },
+   {
+    "mn": "Маргааш номыг чинь гэрт чинь аваачиж өгье.",
+    "en": "Tomorrow I'll bring your book to your place.",
+    "mn_latin": "Margaash nomyg chini gert chini avaachij ögiye."
+   },
+   {
+    "mn": "Чи надад мөнгө зээлүүлсэн, би чамд өртэй.",
+    "en": "You lent me money, so I owe you.",
+    "mn_latin": "Chi nadad möngö zeelüülsen, bi chamd örtei."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэр майхныг аваад ___, хоёр сар сураггүй.",
+   "answer": "явчихсан",
+   "options": [
+    "явчихсан",
+    "ирчихсэн",
+    "өгчихсөн",
+    "авчихсан"
+   ],
+   "translation": "He took the tent and left, and there's been no word for two months.",
+   "explain_en": "-аад явах means 'do something and leave.' The thing is now gone, out of reach, and no word followed. -аад ирэх would mean he came back with it.",
+   "explain_mn": "'-аад явах' нь юм аваад холдох утгатай. Хоёр сар сураггүй байгаа учир 'явчихсан' зөв. 'Ирчихсэн' бол буцаж ирсэн гэсэн утгатай болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Би дэлгүүрээс шинэ батерей аваад ___ шүү.",
+   "answer": "ирье",
+   "options": [
+    "ирье",
+    "явъя",
+    "зээлье",
+    "удъя"
+   ],
+   "translation": "I'll get a new battery from the store and come back, okay?",
+   "explain_en": "The speaker will return here with the battery, so use -аад ирэх: аваад ирье 'I'll come back with it.' Аваад явъя would mean taking it away.",
+   "explain_mn": "Ярьж буй хүн батерейтай буцаж энд ирэх тул '-аад ирэх' хэрэглэнэ: аваад ирье 'I'll come back with it.' 'Аваад явъя' гэвэл аваад холдох гэсэн утгатай болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Камерыг чинь санамсаргүй ___, уучлаарай.",
+   "answer": "гэмтээчихлээ",
+   "options": [
+    "гэмтээчихлээ",
+    "гэмтчихлээ",
+    "нөхчихлөө",
+    "удчихлаа"
+   ],
+   "translation": "I accidentally damaged your camera, sorry.",
+   "explain_en": "Камерыг has the accusative ending, so you need the transitive verb гэмтээх 'to damage (something).' Гэмтэх means 'to get damaged' and takes no object.",
+   "explain_mn": "'Камерыг' нь заахын тийн ялгалтай тул тусах үйл үг 'гэмтээх' (ямар нэг юмыг гэмтээх) хэрэгтэй. 'Гэмтэх' нь 'өөрөө гэмтэх' гэсэн утгатай бөгөөд тусагдахуун авдаггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Could you ___ me your charger for a minute?",
+   "answer": "lend",
+   "options": [
+    "lend",
+    "borrow",
+    "owe",
+    "take"
+   ],
+   "translation": "Цэнэглэгчээ надад түр зээлүүлж болох уу?",
+   "explain_en": "The friend gives the charger to me, so the verb is lend: lend me something. Borrow works only from my side: Can I borrow your charger?",
+   "explain_mn": "Нөгөө хүн надад өгч байгаа тул 'зээлүүлэх' = lend. 'Lend me' гэж хүнийг шууд дагуулна. Borrow гэвэл 'Can I borrow your charger?' гэж өөрөө авах талаас хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Sorry, I ___ your umbrella last week and forgot to return it.",
+   "answer": "borrowed",
+   "options": [
+    "borrowed",
+    "lent",
+    "gave",
+    "owed"
+   ],
+   "translation": "Уучлаарай, өнгөрсөн долоо хоногт шүхрийг чинь зээлээд буцааж өгөхөө мартчихсан.",
+   "explain_en": "I took the umbrella from you, so the verb is borrowed. Lent would mean I gave it to someone.",
+   "explain_mn": "Би чамаас авсан учир 'зээлэх' = borrowed. 'Lent' бол би хэн нэгэнд өгсөн гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "I still owe ___ twenty dollars.",
+   "answer": "you",
+   "options": [
+    "you",
+    "to you",
+    "for you",
+    "your"
+   ],
+   "translation": "Би чамд хорин доллар өртэй хэвээр байна.",
+   "explain_en": "With owe, the person can come first with no preposition: owe you twenty dollars. You'd use to only if the money came first: owe twenty dollars to you.",
+   "explain_mn": "Owe нь давхар тусагдахуунтай үйл үг. Хүн нь түрүүлж орвол to хэрэггүй: owe you twenty dollars. Мөнгө нь түрүүлбэл: owe twenty dollars to you."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Энхжин, өрмийг чинь авчирлаа. Ийм удаж байгаад өгсөнд уучлаарай.",
+   "en": "Enkhjin, I brought your drill back. Sorry it took me so long.",
+   "mn_latin": "Enkhjin, örmiig chini avchirlaa. Iim udaj baigaad ögsönd uuchlaarai."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Зүгээр дээ. Би ч бас мартчихсан байсан юм.",
+   "en": "It's fine. I'd actually forgotten about it too.",
+   "mn_latin": "Zügeer dee. Bi ch bas martchikhsan baisan yum."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Үнэндээ ах маань түүнийг аваад хөдөө явчихсан юм. Өчигдөр сая буцаж ирсэн.",
+   "en": "Honestly, my older brother took it and went off to the countryside. He only got back yesterday.",
+   "mn_latin": "Ünendee akh maani tüüniig avaad khödöö yavchikhsan yum. Öchigdör saya butsaj irsen."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Аа, тийм үү. Хэрэг болсон уу?",
+   "en": "Oh, really? Did it come in handy?",
+   "mn_latin": "Aa, tiim üü. Khereg bolson uu?"
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Болсон, гэхдээ нэг хошуу нь хугарчихсан. Тэгээд би дэлгүүр ороод шинийг аваад ирлээ, энэ байна.",
+   "en": "It did, but one of the bits broke. So I stopped by the store and got a new one. Here it is.",
+   "mn_latin": "Bolson, gekhdee neg khoshuu ni khugarchikhsan. Tegeed bi delgüür orood shiniig avaad irlee, ene baina."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Ёох, хэрэггүй байсан юм. Хохирол гэхээр юм алга.",
+   "en": "Oh, you didn't have to. That's hardly any damage.",
+   "mn_latin": "Yookh, khereggüi baisan yum. Khokhirol gekheer yum alga."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Үгүй ээ, эвдэлсэн бол нөхөж төлөх ёстой. Бас өнгөрсөн сард зээлсэн мөнгийг чинь шилжүүлчихлээ.",
+   "en": "No, if you break something, you should pay for it. And I transferred you the money I borrowed last month.",
+   "mn_latin": "Ügüi ee, evdelsen bol nökhöj tölökh yostoi. Bas öngörsön sard zeelsen möngiig chini shiljüülchikhlee."
+  },
+  {
+   "speaker": "Энхжин",
+   "mn": "Баярлалаа! Тэгвэл одоо бид хоёрын хооронд өр байхгүй боллоо.",
+   "en": "Thanks! So now we're even.",
+   "mn_latin": "Bayarlalaa! Tegvel odoo bid khoyoryn khoorond ör baikhgüi bolloo."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, you don't return a borrowed bowl or container empty. People put a few candies, cookies, or some food inside as thanks. When returning other things late, friends often add a small gift or offer to replace anything worn out, and the usual reply is a relaxed \"Зүгээр, зүгээр\" (\"It's fine, it's fine\").",
+  "mn": "Монголд зээлсэн аяга, сав суулгыг хоосон буцаадаггүй. Талархлын тэмдэг болгож дотор нь чихэр, жигнэмэг эсвэл идэх юм хийж өгдөг. Бусад юмыг хоцроож буцааж өгөхдөө найзууд жижиг бэлэг нэмэх эсвэл элэгдсэн хэсгийг нь шинээр авч өгөхийг санал болгодог бөгөөд хариуд нь ихэвчлэн \"Зүгээр, зүгээр\" гэж хэлдэг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "Solid, natural lesson with accurate grammar explanations. One awkward vocab example; one fill-in-the-blank had a second valid answer."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 8,
+  "notes": "Aligned the mn intro and grammar with the en versions, and replaced the wrong word өрөмдлөг with өрөм everywhere it appeared.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "intro_mn described a different grammar topic than intro_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn didn't match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn covered lend/borrow instead of matching explain_en"
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "mn",
+    "why": "the tool is өрөм; өрөмдлөг means 'drilling'"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "өрөмдлөг → өрөм (drill as a tool)"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "өрөмдлөг → өрөм (drill as a tool)"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "explain_mn didn't match explain_en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "explain_mn didn't match explain_en (accusative and transitive verb)"
+   }
+  ]
+ }
+}

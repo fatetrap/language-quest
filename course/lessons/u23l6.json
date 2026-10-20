@@ -1,0 +1,472 @@
+{
+ "intro_en": "You will learn to describe your favorite natural place and animal to a friend or in a short post. You will also review landscape and livestock words, superlatives, and how to use \"the\" with geographic names.",
+ "intro_mn": "Та хамгийн дуртай байгалийн газар, амьтнаа найздаа эсвэл богино нийтлэлд тайлбарлаж сурна. Мөн газрын хэлбэр, мал амьтны үгс, харьцуулсан дээд зэрэг, газарзүйн нэрийн өмнөх \"the\" артиклийг давтана.",
+ "vocab": [
+  {
+   "mn": "нуур",
+   "en": "lake",
+   "pos": "noun",
+   "example_mn": "Хөвсгөл нуур маш цэвэрхэн.",
+   "example_en": "Lake Khuvsgul is very clean.",
+   "mn_latin": "nuur"
+  },
+  {
+   "mn": "уул",
+   "en": "mountain",
+   "pos": "noun",
+   "example_mn": "Энэ уул маш өндөр.",
+   "example_en": "This mountain is very high.",
+   "mn_latin": "uul"
+  },
+  {
+   "mn": "тал",
+   "en": "steppe",
+   "pos": "noun",
+   "example_mn": "Тал нутагт сайхан салхи үлээнэ.",
+   "example_en": "A nice wind blows on the steppe.",
+   "mn_latin": "tal"
+  },
+  {
+   "mn": "говь",
+   "en": "desert (Gobi)",
+   "pos": "noun",
+   "example_mn": "Говь хуурай бөгөөд халуун.",
+   "example_en": "The Gobi is dry and hot.",
+   "mn_latin": "govi"
+  },
+  {
+   "mn": "гол",
+   "en": "river",
+   "pos": "noun",
+   "example_mn": "Туул гол Улаанбаатарын дэргэдүүр урсдаг.",
+   "example_en": "The Tuul River flows past Ulaanbaatar.",
+   "mn_latin": "gol"
+  },
+  {
+   "mn": "мал",
+   "en": "livestock",
+   "pos": "noun",
+   "example_mn": "Манай ээж малтай.",
+   "example_en": "My mother has livestock.",
+   "mn_latin": "mal"
+  },
+  {
+   "mn": "морь",
+   "en": "horse",
+   "pos": "noun",
+   "example_mn": "Морь бол миний дуртай амьтан.",
+   "example_en": "The horse is my favorite animal.",
+   "mn_latin": "mori"
+  },
+  {
+   "mn": "тэмээ",
+   "en": "camel",
+   "pos": "noun",
+   "example_mn": "Говийн тэмээ маш хүчтэй.",
+   "example_en": "Gobi camels are very strong.",
+   "mn_latin": "temee"
+  },
+  {
+   "mn": "хамгийн",
+   "en": "the most",
+   "pos": "adverb",
+   "example_mn": "Энэ миний хамгийн дуртай газар.",
+   "example_en": "This is my favorite place.",
+   "mn_latin": "khamgiin"
+  },
+  {
+   "mn": "үзэсгэлэнтэй",
+   "en": "beautiful",
+   "pos": "adjective",
+   "example_mn": "Энд маш үзэсгэлэнтэй байдаг.",
+   "example_en": "It is very beautiful here.",
+   "mn_latin": "üzesgelentei"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний хамгийн дуртай газар Хөвсгөл нуур.",
+   "en": "My favorite place is Lake Khuvsgul.",
+   "alt_mn": [
+    "Миний хамгийн дуртай газар бол Хөвсгөл нуур."
+   ],
+   "alt_en": [
+    "My favorite place is Khuvsgul Lake."
+   ],
+   "mn_latin": "Minii khamgiin durtai gazar Khövsgöl nuur."
+  },
+  {
+   "mn": "Энэ нуур Монголын хамгийн гүн нуур.",
+   "en": "This lake is the deepest lake in Mongolia.",
+   "alt_mn": [],
+   "alt_en": [
+    "This lake is Mongolia's deepest lake."
+   ],
+   "mn_latin": "Ene nuur Mongolyn khamgiin gün nuur."
+  },
+  {
+   "mn": "Би зун тэнд морь унадаг.",
+   "en": "In summer I ride horses there.",
+   "alt_mn": [
+    "Зун би тэнд морь унадаг."
+   ],
+   "alt_en": [
+    "I ride a horse there in the summer."
+   ],
+   "mn_latin": "Bi zun tend mori unadag."
+  },
+  {
+   "mn": "Миний хамгийн дуртай амьтан морь.",
+   "en": "My favorite animal is the horse.",
+   "alt_mn": [
+    "Миний хамгийн дуртай амьтан бол морь."
+   ],
+   "alt_en": [],
+   "mn_latin": "Minii khamgiin durtai amitan mori."
+  },
+  {
+   "mn": "Морь бол Монголын хамгийн хурдан мал.",
+   "en": "The horse is the fastest livestock animal in Mongolia.",
+   "alt_mn": [],
+   "alt_en": [
+    "The horse is Mongolia's fastest livestock animal."
+   ],
+   "mn_latin": "Mori bol Mongolyn khamgiin khurdan mal."
+  },
+  {
+   "mn": "Говь хуурай боловч маш үзэсгэлэнтэй.",
+   "en": "The Gobi is dry, but very beautiful.",
+   "alt_mn": [
+    "Говь хуурай ч гэсэн маш үзэсгэлэнтэй."
+   ],
+   "alt_en": [
+    "The Gobi is dry but very beautiful."
+   ],
+   "mn_latin": "Govi khuurai bolovch mash üzesgelentei."
+  },
+  {
+   "mn": "Дорнод Монголын тал маш уудам.",
+   "en": "The steppe of eastern Mongolia is very wide.",
+   "alt_mn": [
+    "Дорнод Монголын тал маш өргөн."
+   ],
+   "alt_en": [
+    "The steppe in eastern Mongolia is vast."
+   ],
+   "mn_latin": "Dornod Mongolyn tal mash uudam."
+  },
+  {
+   "mn": "Нуурын эрэг дээр манай гэр байдаг.",
+   "en": "Our ger is on the shore of the lake.",
+   "alt_mn": [
+    "Манай гэр нуурын эрэг дээр байдаг."
+   ],
+   "alt_en": [
+    "Our ger stands on the lake shore."
+   ],
+   "mn_latin": "Nuuryn ereg deer manai ger baidag."
+  },
+  {
+   "mn": "Тэнд олон мал бэлчиж байна.",
+   "en": "Many livestock animals are grazing there.",
+   "alt_mn": [
+    "Тэнд маш олон мал бэлчиж байна."
+   ],
+   "alt_en": [
+    "Lots of livestock are grazing there."
+   ],
+   "mn_latin": "Tend olon mal belchij baina."
+  },
+  {
+   "mn": "Нил ягаан уул нуурын цаана харагдана.",
+   "en": "The purple mountains can be seen across the lake.",
+   "alt_mn": [
+    "Нуурын цаана нил ягаан уул харагдана."
+   ],
+   "alt_en": [
+    "You can see purple mountains beyond the lake."
+   ],
+   "mn_latin": "Nil yagaan uul nuuryn tsaana kharagdana."
+  },
+  {
+   "mn": "Хөвсгөл бол хамгийн сайхан газар гэж би боддог.",
+   "en": "I think Khuvsgul is the nicest place.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Khövsgöl bol khamgiin saikhan gazar gej bi boddog."
+  },
+  {
+   "mn": "Чи ч бас нэг очиж үзээрэй.",
+   "en": "You should visit one day too.",
+   "alt_mn": [],
+   "alt_en": [
+    "You should go and see it too."
+   ],
+   "mn_latin": "Chi ch bas neg ochij üzeerei."
+  }
+ ],
+ "grammar": {
+  "title_en": "Superlatives with хамгийн and \"the\" with geographic names",
+  "title_mn": "\"Хамгийн\" ба газарзүйн нэрийн өмнөх \"the\"",
+  "explain_en": "In Mongolian, put хамгийн before an adjective to make it \"the most\": хамгийн өндөр уул = the highest mountain. Хамгийн never changes. In English, short adjectives take -est (high → the highest), long ones use the most (the most beautiful), and some are irregular (good → the best, bad → the worst). English uses \"the\" with rivers, oceans, deserts and mountain ranges (the Tuul River, the Gobi, the Altai), but not with most single mountains, lakes or countries (Lake Khuvsgul, Mongolia).",
+  "explain_mn": "Монгол хэлэнд \"хамгийн\"-ийг тэмдэг нэрийн өмнө тавьж дээд зэргийг үүсгэнэ: хамгийн өндөр уул. \"Хамгийн\" хэзээ ч хувирдаггүй. Англи хэлэнд богино тэмдэг нэрэнд -est нэмнэ (high → the highest), урт тэмдэг нэрийн өмнө the most тавина (the most beautiful). Зарим нь дүрмийн бус хэлбэртэй (good → the best, bad → the worst). Мөн гол, далай, цөл, уулсын нурууны нэрийн өмнө the тавина (the Tuul River, the Gobi, the Altai). Харин ихэнх ганц уул, нуур, улсын нэрийн өмнө тавьдаггүй (Lake Khuvsgul, Mongolia).",
+  "examples": [
+   {
+    "mn": "Энэ Монголын хамгийн урт гол.",
+    "en": "This is the longest river in Mongolia.",
+    "mn_latin": "Ene Mongolyn khamgiin urt gol."
+   },
+   {
+    "mn": "Говь хамгийн халуун газар.",
+    "en": "The Gobi is the hottest place.",
+    "mn_latin": "Govi khamgiin khaluun gazar."
+   },
+   {
+    "mn": "Тэр хамгийн сайн морь.",
+    "en": "That is the best horse.",
+    "mn_latin": "Ter khamgiin sain mori."
+   },
+   {
+    "mn": "Хөвсгөл нуур хамгийн үзэсгэлэнтэй нуур.",
+    "en": "Lake Khuvsgul is the most beautiful lake.",
+    "mn_latin": "Khövsgöl nuur khamgiin üzesgelentei nuur."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ миний ___ дуртай амьтан.",
+   "answer": "хамгийн",
+   "options": [
+    "хамгийн",
+    "илүү",
+    "бага",
+    "олон"
+   ],
+   "translation": "This is my favorite animal.",
+   "explain_en": "Хамгийн means \"the most\", so it gives \"my most liked\" = favorite.",
+   "explain_mn": "\"Хамгийн\" нь дээд зэргийг илэрхийлж, \"favorite\" гэсэн утга өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Туул гол Улаанбаатарын дэргэдүүр урс___.",
+   "answer": "даг",
+   "options": [
+    "даг",
+    "дэг",
+    "дог",
+    "дөг"
+   ],
+   "translation": "The Tuul River flows near Ulaanbaatar.",
+   "explain_en": "The habitual present uses -даг/-дэг/-дог/-дөг; here урсдаг.",
+   "explain_mn": "Байнга давтагддаг үйлдлийг -даг төгсгөлөөр илэрхийлнэ: урсдаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Би зун нуур дээр морь ___.",
+   "answer": "унадаг",
+   "options": [
+    "унадаг",
+    "уудаг",
+    "бичдэг",
+    "уншдаг"
+   ],
+   "translation": "In summer I ride horses at the lake.",
+   "explain_en": "\"Морь унах\" means to ride a horse; унадаг is the habitual form.",
+   "explain_mn": "\"Морь унах\" гэдэг хэллэг; унадаг нь давтамжийг заана."
+  },
+  {
+   "lang": "en",
+   "text": "The Tuul is ___ river near Ulaanbaatar.",
+   "answer": "a",
+   "options": [
+    "a",
+    "an",
+    "two",
+    "much"
+   ],
+   "translation": "Туул бол Улаанбаатарын ойролцоох гол.",
+   "explain_en": "Use \"a\" before a singular noun starting with a consonant sound: a river.",
+   "explain_mn": "Тоолох нэгж нэр үгийн өмнө гийгүүлэгчийн дуугаар эхэлбэл \"a\" хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Lake Khuvsgul is the ___ lake in Mongolia.",
+   "answer": "deepest",
+   "options": [
+    "deepest",
+    "deeper",
+    "most deep",
+    "more deepest"
+   ],
+   "translation": "Хөвсгөл нуур бол Монголын хамгийн гүн нуур.",
+   "explain_en": "Short adjectives take -est after \"the\": deepest.",
+   "explain_mn": "Богино тэмдэг нэрийн дээд зэрэгт the-ийн дараа -est залгана: deepest."
+  },
+  {
+   "lang": "en",
+   "text": "I love ___ Gobi in spring.",
+   "answer": "the",
+   "options": [
+    "the",
+    "a",
+    "an",
+    "no article"
+   ],
+   "translation": "Би хаврын говьд их дуртай.",
+   "explain_en": "Deserts take \"the\": the Gobi.",
+   "explain_mn": "Говь, цөл зэрэг нэрийн өмнө the тавина: the Gobi."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн уу, Болд! Би чамд хамгийн дуртай газрынхаа тухай ярья.",
+   "en": "Hi, Bold! Let me tell you about my favorite place.",
+   "mn_latin": "Sain uu, Bold! Bi chamd khamgiin durtai gazrynkhaa tukhai yariya."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "За, хаана вэ?",
+   "en": "Okay, where is it?",
+   "mn_latin": "Za, khaana ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Хөвсгөл нуур. Энэ Монголын хамгийн гүн нуур.",
+   "en": "Lake Khuvsgul. It is the deepest lake in Mongolia.",
+   "mn_latin": "Khövsgöl nuur. Ene Mongolyn khamgiin gün nuur."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Би ч бас очиж үзмээр байна. Тэнд ямар амьтан байдаг вэ?",
+   "en": "I want to go too. What animals are there?",
+   "mn_latin": "Bi ch bas ochij üzmeer baina. Tend yamar amitan baidag ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэнд олон морь, үхэр, ямаа бэлчдэг.",
+   "en": "Many horses, cows and goats graze there.",
+   "mn_latin": "Tend olon mori, ükher, yamaa belchdeg."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Чиний хамгийн дуртай амьтан юу вэ?",
+   "en": "What is your favorite animal?",
+   "mn_latin": "Chinii khamgiin durtai amitan yuu ve?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Морь. Морь бол хамгийн үнэнч амьтан.",
+   "en": "The horse. The horse is the most loyal animal.",
+   "mn_latin": "Mori. Mori bol khamgiin ünench amitan."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Сайхан байна. Би зун чамтай хамт явъя.",
+   "en": "Sounds great. Let's go together in summer.",
+   "mn_latin": "Saikhan baina. Bi zun chamtai khamt yavya."
+  }
+ ],
+ "culture_note": {
+  "en": "Lake Khuvsgul in northern Mongolia holds about 70 percent of the country's fresh water and is often called the \"Blue Pearl\". Horses are central to Mongolian life, and many families spend summers in a ger near a lake or river with their herds. Writing about your favorite place is a common way to share love for the homeland.",
+  "mn": "Умард Монголын Хөвсгөл нуур нь улсын цэнгэг усны 70 орчим хувийг агуулдаг бөгөөд түүнийг \"Хөх сувд\" гэж нэрлэдэг. Морь бол монголчуудын амьдралын чухал хэсэг бөгөөд олон айл зундаа нуур, голын дэргэд гэр бариад малаа маллана. Хамгийн дуртай газрынхаа тухай бичих нь эх орноо хайрлах сэтгэлээ хуваалцах түгээмэл арга юм."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 12,
+  "notes": "Mostly good content; there are a few real errors, mainly the stray \"Нил\" and \"the Khuvsgul\" in sentence 10, the mismatched fill-blank translation, and the misspelled distractor."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Fixed ambiguous fill-blanks, mixed чи/та in the dialogue, en/mn mismatches in grammar and culture, and unnatural Mongolian.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "\"very vast\" is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "\"манай гэр\" is the natural form, not \"бидний гэр\""
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_mn",
+    "why": "\"манай гэр\" is the natural form"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn now give the same examples"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Awkward wording fixed; missing \"never changes\" added to match en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "\"маш ч\" is not a real form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "урссан and урсжээ were also grammatical; now it tests vowel harmony"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "\"морь харна\" and \"морь иддэг\" were also possible"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "\"the river near Ulaanbaatar\" was also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "\"Говийг хайрладаг\" is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "ярья means \"let me tell\", so the line is clearer"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "en",
+    "why": "Now matches the mn meaning"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Keeps чи consistent; Bold says чамтай later"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Now matches en: 70 percent and \"common way to share\""
+   }
+  ]
+ }
+}

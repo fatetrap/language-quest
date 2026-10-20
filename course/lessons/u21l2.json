@@ -1,0 +1,460 @@
+{
+ "intro_en": "You will learn to ask and talk about plans for the evening, the weekend and next month. You will use the English present continuous (What are you doing...?) and the Mongolian future ending -на.",
+ "intro_mn": "Та энэ хичээлээр орой, амралтын өдөр, ирэх сарын төлөвлөгөөгөө асуух, ярихыг сурна. Англи хэлний present continuous (What are you doing...?) болон монгол хэлний -на нөхцөлийг хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "уулзах",
+   "en": "to meet",
+   "pos": "verb",
+   "example_mn": "Би найзтайгаа уулзана.",
+   "example_en": "I am meeting my friend.",
+   "mn_latin": "uulzakh"
+  },
+  {
+   "mn": "зочлох",
+   "en": "to visit",
+   "pos": "verb",
+   "example_mn": "Бид эмээ дээрээ зочилно.",
+   "example_en": "We are visiting grandma.",
+   "mn_latin": "zochlokh"
+  },
+  {
+   "mn": "дэлгүүр хэсэх",
+   "en": "to go shopping",
+   "pos": "verb phrase",
+   "example_mn": "Би маргааш дэлгүүр хэснэ.",
+   "example_en": "I am going shopping tomorrow.",
+   "mn_latin": "delgüür khesekh"
+  },
+  {
+   "mn": "суралцах",
+   "en": "to study",
+   "pos": "verb",
+   "example_mn": "Тэр номын санд суралцана.",
+   "example_en": "He is studying in the library.",
+   "mn_latin": "suraltsakh"
+  },
+  {
+   "mn": "аялах",
+   "en": "to travel",
+   "pos": "verb",
+   "example_mn": "Бид зун хөдөө аялна.",
+   "example_en": "We are traveling to the countryside in summer.",
+   "mn_latin": "ayalakh"
+  },
+  {
+   "mn": "өнөө орой",
+   "en": "this evening",
+   "pos": "time phrase",
+   "example_mn": "Өнөө орой чи юу хийх вэ?",
+   "example_en": "What are you doing this evening?",
+   "mn_latin": "önöö oroi"
+  },
+  {
+   "mn": "бямба гарагт",
+   "en": "on Saturday",
+   "pos": "time phrase",
+   "example_mn": "Бямба гарагт би ажиллахгүй.",
+   "example_en": "I am not working on Saturday.",
+   "mn_latin": "byamba garagt"
+  },
+  {
+   "mn": "ирэх сард",
+   "en": "next month",
+   "pos": "time phrase",
+   "example_mn": "Ирэх сард бид Дархан руу явна.",
+   "example_en": "Next month we are going to Darkhan.",
+   "mn_latin": "irekh sard"
+  },
+  {
+   "mn": "амралтын өдөр",
+   "en": "day off",
+   "pos": "noun",
+   "example_mn": "Амралтын өдөр би гэртээ байна.",
+   "example_en": "I am staying home on my day off.",
+   "mn_latin": "amraltyn ödör"
+  },
+  {
+   "mn": "төлөвлөгөө",
+   "en": "plan",
+   "pos": "noun",
+   "example_mn": "Танд маргааш ямар төлөвлөгөө байна вэ?",
+   "example_en": "What plans do you have for tomorrow?",
+   "mn_latin": "tölövlögöö"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Маргааш чи юу хийх вэ?",
+   "en": "What are you doing tomorrow?",
+   "alt_mn": [
+    "Маргааш чи юу хийнэ?"
+   ],
+   "alt_en": [
+    "What are you going to do tomorrow?"
+   ],
+   "mn_latin": "Margaash chi yuu khiikh ve?"
+  },
+  {
+   "mn": "Би маргааш найзтайгаа уулзана.",
+   "en": "I'm meeting my friend tomorrow.",
+   "alt_mn": [
+    "Маргааш би найзтайгаа уулзана."
+   ],
+   "alt_en": [
+    "I'm going to meet my friend tomorrow."
+   ],
+   "mn_latin": "Bi margaash naiztaigaa uulzana."
+  },
+  {
+   "mn": "Өнөө орой бид кино үзнэ.",
+   "en": "We're watching a movie this evening.",
+   "alt_mn": [
+    "Бид өнөө орой кино үзнэ."
+   ],
+   "alt_en": [
+    "We are going to watch a movie tonight."
+   ],
+   "mn_latin": "Önöö oroi bid kino üzne."
+  },
+  {
+   "mn": "Ням гарагт би ажиллахгүй.",
+   "en": "I'm not working on Sunday.",
+   "alt_mn": [
+    "Би ням гарагт ажиллахгүй."
+   ],
+   "alt_en": [
+    "I'm not going to work on Sunday."
+   ],
+   "mn_latin": "Nyam garagt bi ajillakhgüi."
+  },
+  {
+   "mn": "Бямба гарагт чи юу хийх вэ?",
+   "en": "What are you doing on Saturday?",
+   "alt_mn": [
+    "Бямба гарагт чи юу хийнэ?"
+   ],
+   "alt_en": [
+    "What are you up to on Saturday?"
+   ],
+   "mn_latin": "Byamba garagt chi yuu khiikh ve?"
+  },
+  {
+   "mn": "Бид бямба гарагт эмээ дээрээ зочилно.",
+   "en": "We're visiting grandma on Saturday.",
+   "alt_mn": [
+    "Бямба гарагт бид эмээ дээрээ зочилно."
+   ],
+   "alt_en": [
+    "We are going to visit grandma on Saturday."
+   ],
+   "mn_latin": "Bid byamba garagt emee deeree zochilno."
+  },
+  {
+   "mn": "Тэр өнөө орой шалгалтад бэлдэнэ.",
+   "en": "He's preparing for an exam this evening.",
+   "alt_mn": [
+    "Тэр өнөө орой шалгалтдаа бэлдэнэ."
+   ],
+   "alt_en": [
+    "He is getting ready for an exam tonight."
+   ],
+   "mn_latin": "Ter önöö oroi shalgaltad beldene."
+  },
+  {
+   "mn": "Ирэх сард бид хөдөө аялна.",
+   "en": "We're traveling to the countryside next month.",
+   "alt_mn": [
+    "Бид ирэх сард хөдөө аялна."
+   ],
+   "alt_en": [
+    "Next month we are going on a trip to the countryside."
+   ],
+   "mn_latin": "Irekh sard bid khödöö ayalna."
+  },
+  {
+   "mn": "Та амралтын өдөр юу хийх вэ?",
+   "en": "What are you doing on your day off?",
+   "alt_mn": [
+    "Та амралтын өдөр юу хийнэ?"
+   ],
+   "alt_en": [
+    "What will you do on your day off?"
+   ],
+   "mn_latin": "Ta amraltyn ödör yuu khiikh ve?"
+  },
+  {
+   "mn": "Би амралтын өдөр дэлгүүр хэснэ.",
+   "en": "I'm going shopping on my day off.",
+   "alt_mn": [
+    "Амралтын өдөр би дэлгүүр хэснэ."
+   ],
+   "alt_en": [
+    "I'm going to go shopping on my day off."
+   ],
+   "mn_latin": "Bi amraltyn ödör delgüür khesne."
+  },
+  {
+   "mn": "Чи маргааш чөлөөтэй юу?",
+   "en": "Are you free tomorrow?",
+   "alt_mn": [
+    "Маргааш чи завтай юу?"
+   ],
+   "alt_en": [
+    "Are you available tomorrow?"
+   ],
+   "mn_latin": "Chi margaash chölöötei yuu?"
+  },
+  {
+   "mn": "Үгүй, би маргааш хичээллэнэ.",
+   "en": "No, I'm studying tomorrow.",
+   "alt_mn": [
+    "Үгүй, маргааш би хичээллэнэ."
+   ],
+   "alt_en": [
+    "No, I'm going to study tomorrow."
+   ],
+   "mn_latin": "Ügüi, bi margaash khicheellene."
+  }
+ ],
+ "grammar": {
+  "title_en": "Talking about plans: -на and юу хийх вэ?",
+  "title_mn": "Төлөвлөгөөний тухай ярих нь: -на ба юу хийх вэ?",
+  "explain_en": "In Mongolian, plans use the future ending -на/-нэ/-но/-нө added to the verb stem: уулзана (will meet), хийнэ (will do). It follows vowel harmony. The question is Юу хийх вэ? (What are you doing / will you do?), where хийх is the verb form and вэ is the question particle. Negative plans use -хгүй: ажиллахгүй (not working). Time words usually come first: Маргааш, Бямба гарагт, Ирэх сард. In English you use the present continuous for fixed plans: I'm meeting a friend. I'm not working on Sunday.",
+  "explain_mn": "Англи хэлэнд ойрын төлөвлөгөөг present continuous-аар хэлнэ: am/is/are + үйл үгийн -ing. Жишээ: I am meeting a friend tomorrow. Асуулт: What are you doing tomorrow? Үгүйсгэхдээ not нэмнэ: I'm not working on Sunday. Монголоор -на гэдэг ирээдүй хэлбэр хэрэглэдэг ч англиар нэг үйл үгээр биш, am/is/are + -ing гэж хоёр хэсгээр хэлнэ. Цагийн үгийг өгүүлбэрийн эхэнд эсвэл төгсгөлд тавьж болно: Tomorrow I'm studying. / I'm studying tomorrow.",
+  "examples": [
+   {
+    "mn": "Маргааш чи юу хийх вэ?",
+    "en": "What are you doing tomorrow?",
+    "mn_latin": "Margaash chi yuu khiikh ve?"
+   },
+   {
+    "mn": "Би найзтайгаа уулзана.",
+    "en": "I'm meeting my friend.",
+    "mn_latin": "Bi naiztaigaa uulzana."
+   },
+   {
+    "mn": "Ням гарагт би ажиллахгүй.",
+    "en": "I'm not working on Sunday.",
+    "mn_latin": "Nyam garagt bi ajillakhgüi."
+   },
+   {
+    "mn": "Ирэх сард бид аялна.",
+    "en": "We're traveling next month.",
+    "mn_latin": "Irekh sard bid ayalna."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Маргааш би найзтайгаа уулза___.",
+   "answer": "на",
+   "options": [
+    "на",
+    "сан",
+    "даг",
+    "в"
+   ],
+   "translation": "I'm meeting my friend tomorrow.",
+   "explain_en": "уулзах has the vowel а, so the future ending is -на.",
+   "explain_mn": "Уулзах нь «а» эгшигтэй тул ирээдүй цагийн нөхцөл -на болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Өнөө орой чи юу хийх ___?",
+   "answer": "вэ",
+   "options": [
+    "вэ",
+    "уу",
+    "бэ",
+    "юм"
+   ],
+   "translation": "What are you doing this evening?",
+   "explain_en": "Questions with юу (what) end in вэ, not уу.",
+   "explain_mn": "«Юу» гэсэн асуух үгтэй асуулт «вэ»-ээр төгсдөг, «уу» биш."
+  },
+  {
+   "lang": "mn",
+   "text": "Ням гарагт би ажилла___.",
+   "answer": "хгүй",
+   "options": [
+    "хгүй",
+    "на",
+    "сан",
+    "жээ"
+   ],
+   "translation": "I'm not working on Sunday.",
+   "explain_en": "-хгүй after the verb stem makes the verb negative: ажиллахгүй (won't work / isn't working).",
+   "explain_mn": "Үйл үгийн үндэсд -хгүй залгаж үгүйсгэсэн төлөвлөгөө илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "What ___ you doing on Saturday?",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "do",
+    "will"
+   ],
+   "translation": "Бямба гарагт чи юу хийх вэ?",
+   "explain_en": "Present continuous with 'you' uses 'are' + -ing.",
+   "explain_mn": "«You»-тэй present continuous нь are + -ing хэлбэртэй."
+  },
+  {
+   "lang": "en",
+   "text": "I'm ___ my friend this evening.",
+   "answer": "meeting",
+   "options": [
+    "meeting",
+    "meet",
+    "met",
+    "meets"
+   ],
+   "translation": "Би өнөө орой найзтайгаа уулзана.",
+   "explain_en": "After 'I'm' use the -ing form: meeting.",
+   "explain_mn": "«I'm»-ын дараа үйл үг -ing хэлбэртэй байна: meeting."
+  },
+  {
+   "lang": "en",
+   "text": "She ___ working on Sunday.",
+   "answer": "isn't",
+   "options": [
+    "isn't",
+    "aren't",
+    "don't",
+    "not"
+   ],
+   "translation": "Тэр ням гарагт ажиллахгүй.",
+   "explain_en": "With 'she' the negative is 'isn't' + -ing.",
+   "explain_mn": "«She»-тэй үгүйсгэхдээ isn't + -ing хэрэглэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Сайн уу, Болд! Бямба гарагт чи юу хийх вэ?",
+   "en": "Hi, Bold! What are you doing on Saturday?",
+   "mn_latin": "Sain uu, Bold! Byamba garagt chi yuu khiikh ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Өглөө би дэлгүүр хэснэ. Үдээс хойш чөлөөтэй.",
+   "en": "In the morning I'm going shopping. I'm free in the afternoon.",
+   "mn_latin": "Öglöö bi delgüür khesne. Üdees khoish chölöötei."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Сайхан байна! Орой кино үзэх үү?",
+   "en": "Great! Shall we watch a movie in the evening?",
+   "mn_latin": "Saikhan baina! Oroi kino üzekh üü?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Харамсалтай нь, би орой эмээ дээрээ зочилно.",
+   "en": "Unfortunately, I'm visiting my grandma in the evening.",
+   "mn_latin": "Kharamsaltai ni, bi oroi emee deeree zochilno."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Ойлголоо. Ням гарагт юу хийх вэ?",
+   "en": "I see. What about Sunday?",
+   "mn_latin": "Oilgoloo. Nyam garagt yuu khiikh ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Ням гарагт би ажиллахгүй. Чи ч бас чөлөөтэй юу?",
+   "en": "I'm not working on Sunday. Are you free too?",
+   "mn_latin": "Nyam garagt bi ajillakhgüi. Chi ch bas chölöötei yuu?"
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тийм. Бид хамт Гандантэгчинлэн хийд рүү явъя.",
+   "en": "Yes. Let's go to Gandantegchinlen Monastery together.",
+   "mn_latin": "Tiim. Bid khamt Gandantegchinlen khiid rüü yavya."
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тохирлоо! Ням гарагт уулзъя.",
+   "en": "Deal! See you on Sunday.",
+   "mn_latin": "Tokhirloo! Nyam garagt uulzya."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, many families spend summer weekends at a countryside dacha or visit relatives, and people often invite friends to join the plan. Visiting grandparents or older relatives is very common, especially during Tsagaan Sar. Friends usually make plans a day or two ahead by phone or a chat app.",
+  "mn": "Улаанбаатарчууд зун амралтын өдрүүдээр ихэвчлэн хотын захын зуслан руу явж эсвэл хамаатан садан дээрээ зочилдог бөгөөд найзуудаа ч хамт урьдаг. Өвөө, эмээ, ахмад хамаатан садандаа зочлох нь маш түгээмэл, ялангуяа Цагаан сарын үеэр. Найзууд ихэвчлэн нэг, хоёр хоногийн өмнө утсаар эсвэл чатаар төлөвлөгөөгөө тохиролцдог."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 22,
+  "notes": "Mostly good, but the verb 'дэлгүүр хэрэх' is wrong (should be хэсэх), 'яах вэ' is used unnaturally, there is a typo (юү), and several translation pairs are loose."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Main problems were the misspelled future form хэсэнэ, the dative шалгалтанд, a contradiction in the dialogue, and a mismatched culture note.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 2,
+    "field": "example_mn",
+    "why": "Хэсэх → хэснэ; 'хэсэнэ' is a misspelling"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "Wrong future form 'хэсэнэ'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "Wrong future form 'хэсэнэ'"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "Standard dative is шалгалтад"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "Standard spelling шалгалтдаа"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "Fixes 'хэсэнэ'; removes the contradiction with line 3 (busy in the evening)"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "en",
+    "why": "Matches the corrected Mongolian line and keeps the dialogue logical"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "Movie suggestion is now for the evening, so Bold's reply makes sense"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "Matches the Mongolian line"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'Хойд хөдөө' was wrong and didn't match 'dacha'; the inviting-friends point was missing; 'older relatives' was not matched"
+   }
+  ]
+ }
+}

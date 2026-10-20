@@ -1,0 +1,512 @@
+{
+ "intro_en": "You will learn to report what other people believe or say, such as your grandparents' views at a family dinner, using the quotative гэж with хэлэх, бодох and итгэх. You will also learn words for traditions, beliefs and habits.",
+ "intro_mn": "Та гэр бүлийн оройн хоолон дээр өвөө, эмээгийн үзэл бодлыг бусдад дамжуулж хэлэх, \"гэж\" гэсэн ишлэлийн холбоосыг хэлэх, бодох, итгэх үгстэй хамт хэрэглэх, мөн уламжлал, итгэл үнэмшил, зуршлын үгсийг сурна.",
+ "vocab": [
+  {
+   "mn": "уламжлал",
+   "en": "tradition",
+   "pos": "noun",
+   "example_mn": "Цагаан сар бол манай гэр бүлийн чухал уламжлал.",
+   "example_en": "Tsagaan Sar is an important tradition in our family.",
+   "mn_latin": "ulamjlal"
+  },
+  {
+   "mn": "үзэл бодол",
+   "en": "opinion, point of view",
+   "pos": "noun",
+   "example_mn": "Өвөөгийн үзэл бодол надаас өөр.",
+   "example_en": "My grandfather's point of view is different from mine.",
+   "mn_latin": "üzel bodol"
+  },
+  {
+   "mn": "итгэх",
+   "en": "to believe",
+   "pos": "verb",
+   "example_mn": "Эмээ сүүн бүтээгдэхүүн эрүүл гэдэгт итгэдэг.",
+   "example_en": "Grandma believes that dairy products are healthy.",
+   "mn_latin": "itgekh"
+  },
+  {
+   "mn": "үзэх",
+   "en": "to consider, to regard (with гэж)",
+   "pos": "verb",
+   "example_mn": "Өвөө мах хамгийн чухал хоол гэж үздэг.",
+   "example_en": "Grandpa considers meat the most important food.",
+   "mn_latin": "üzekh"
+  },
+  {
+   "mn": "зуршил",
+   "en": "habit",
+   "pos": "noun",
+   "example_mn": "Өглөө цай уух нь эмээгийн зуршил.",
+   "example_en": "Drinking tea in the morning is Grandma's habit.",
+   "mn_latin": "zurshil"
+  },
+  {
+   "mn": "хэлэх",
+   "en": "to say, to tell",
+   "pos": "verb",
+   "example_mn": "Хүмүүс үүнийг азтай гэж хэлдэг.",
+   "example_en": "People say this is lucky.",
+   "mn_latin": "khelekh"
+  },
+  {
+   "mn": "бодох",
+   "en": "to think",
+   "pos": "verb",
+   "example_mn": "Аав шинэ хоол сайн гэж боддог.",
+   "example_en": "Dad thinks the new food is good.",
+   "mn_latin": "bodokh"
+  },
+  {
+   "mn": "хуучирсан",
+   "en": "old-fashioned",
+   "pos": "adjective",
+   "example_mn": "Зарим хүн энэ дүрмийг хуучирсан гэж боддог.",
+   "example_en": "Some people think this rule is old-fashioned.",
+   "mn_latin": "khuuchirsan"
+  },
+  {
+   "mn": "заншил",
+   "en": "custom",
+   "pos": "noun",
+   "example_mn": "Зочныг цайгаар дайлах нь монгол заншил.",
+   "example_en": "Serving guests tea is a Mongolian custom.",
+   "mn_latin": "zanshil"
+  },
+  {
+   "mn": "эрүүл",
+   "en": "healthy",
+   "pos": "adjective",
+   "example_mn": "Эмээ айраг эрүүл ундаа гэж хэлдэг.",
+   "example_en": "Grandma says airag is a healthy drink.",
+   "mn_latin": "erüül"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эмээ минь айраг биед сайн гэж боддог.",
+   "en": "My grandmother thinks that airag is good for the body.",
+   "alt_mn": [
+    "Эмээ маань айраг биед сайн гэж боддог."
+   ],
+   "alt_en": [
+    "My grandma thinks airag is good for you."
+   ],
+   "mn_latin": "Emee mini airag biyed sain gej boddog."
+  },
+  {
+   "mn": "Өвөө мах хамгийн чухал хоол гэж хэлдэг.",
+   "en": "Grandpa says that meat is the most important food.",
+   "alt_mn": [],
+   "alt_en": [
+    "Grandpa says meat is the most important food."
+   ],
+   "mn_latin": "Övöö makh khamgiin chukhal khool gej kheldeg."
+  },
+  {
+   "mn": "Хүмүүс Цагаан сараар бууз идэх нь азтай гэж хэлдэг.",
+   "en": "People say that eating buuz at Tsagaan Sar is lucky.",
+   "alt_mn": [
+    "Цагаан сараар бууз идвэл азтай гэж хүмүүс хэлдэг."
+   ],
+   "alt_en": [
+    "People say it is lucky to eat buuz at Tsagaan Sar."
+   ],
+   "mn_latin": "Khümüüs Tsagaan saraar buuz idekh ni aztai gej kheldeg."
+  },
+  {
+   "mn": "Миний аав уламжлалаа хадгалах хэрэгтэй гэж боддог.",
+   "en": "My father thinks that we need to keep our traditions.",
+   "alt_mn": [
+    "Аав маань уламжлалаа хадгалах ёстой гэж боддог."
+   ],
+   "alt_en": [
+    "My dad thinks we should preserve our traditions."
+   ],
+   "mn_latin": "Minii aav ulamjlalaa khadgalakh kheregtei gej boddog."
+  },
+  {
+   "mn": "Эмээ зочныг хоолгүй явуулж болохгүй гэж итгэдэг.",
+   "en": "Grandma believes that you must not send a guest away without food.",
+   "alt_mn": [
+    "Эмээ зочныг хоолгүй явуулж болохгүй гэж боддог."
+   ],
+   "alt_en": [
+    "Grandma believes you should never let a guest leave without food."
+   ],
+   "mn_latin": "Emee zochnyg khoolgüi yavuulj bolokhgüi gej itgedeg."
+  },
+  {
+   "mn": "Өвөө залуучууд хэт хурдан хоол иддэг гэж хэлдэг.",
+   "en": "Grandpa says that young people eat too fast.",
+   "alt_mn": [
+    "Өвөө залуус хэт хурдан иддэг гэж хэлдэг."
+   ],
+   "alt_en": [
+    "Grandpa says young people eat too quickly."
+   ],
+   "mn_latin": "Övöö zaluuchuud khet khurdan khool iddeg gej kheldeg."
+  },
+  {
+   "mn": "Тэд энэ заншлыг хуучирсан гэж боддог уу?",
+   "en": "Do they think this custom is old-fashioned?",
+   "alt_mn": [
+    "Тэд энэ заншил хуучирсан гэж боддог уу?"
+   ],
+   "alt_en": [
+    "Do they consider this custom old-fashioned?"
+   ],
+   "mn_latin": "Ted ene zanshlyg khuuchirsan gej boddog uu?"
+  },
+  {
+   "mn": "Миний үзэл бодол өвөөгийнхөөс арай өөр.",
+   "en": "My point of view is a little different from Grandpa's.",
+   "alt_mn": [
+    "Миний бодол өвөөгийнхөөс арай өөр."
+   ],
+   "alt_en": [
+    "My opinion is slightly different from my grandfather's."
+   ],
+   "mn_latin": "Minii üzel bodol övöögiinkhöös arai öör."
+  },
+  {
+   "mn": "Эмээ өглөө бүр халуун цай уух нь сайн зуршил гэж үздэг.",
+   "en": "Grandma considers drinking hot tea every morning a good habit.",
+   "alt_mn": [],
+   "alt_en": [
+    "Grandma thinks drinking hot tea every morning is a good habit."
+   ],
+   "mn_latin": "Emee öglöö bür khaluun tsai uukh ni sain zurshil gej üzdeg."
+  },
+  {
+   "mn": "Би тэдний хэлснийг ойлгож байгаа ч бүрэн итгэхгүй байна.",
+   "en": "I understand what they said, but I don't completely believe it.",
+   "alt_mn": [],
+   "alt_en": [
+    "I understand what they said, but I don't fully believe it."
+   ],
+   "mn_latin": "Bi tednii khelsniig oilgoj baigaa ch büren itgekhgüi baina."
+  },
+  {
+   "mn": "Хөрш маань манай өвөө гэрийн хоолыг хамгийн эрүүл гэж ярьдаг гэсэн.",
+   "en": "Our neighbor said that Grandpa always says home cooking is the healthiest.",
+   "alt_mn": [],
+   "alt_en": [
+    "The neighbor said Grandpa claims home cooking is the healthiest."
+   ],
+   "mn_latin": "Khörsh maani manai övöö geriin khoolyg khamgiin erüül gej yaridag gesen."
+  },
+  {
+   "mn": "Эгч минь цагаан идээ өдөр бүр идэх хэрэгтэй гэж хэлсэн.",
+   "en": "My older sister said that we need to eat dairy every day.",
+   "alt_mn": [
+    "Эгч маань цагаан идээг өдөр бүр идэх хэрэгтэй гэж хэлсэн."
+   ],
+   "alt_en": [
+    "My older sister said we should eat dairy products every day."
+   ],
+   "mn_latin": "Egch mini tsagaan idee ödör bür idekh kheregtei gej khelsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reporting beliefs with гэж",
+  "title_mn": "Бусдын бодлыг \"гэж\"-ээр дамжуулах",
+  "explain_en": "In Mongolian the reported idea comes first, then гэж, then a verb like хэлэх (say), бодох (think) or итгэх (believe). There is no word for 'that': just put the full sentence before гэж. English: 'Grandma thinks that airag is healthy' becomes 'Эмээ айраг эрүүл гэж боддог.' Habitual beliefs use the -даг/-дөг ending (боддог, хэлдэг, үздэг); one-time statements use the past (хэлсэн). Note: итгэх often takes the form '...гэдэгт итгэх' (believe in the fact that...). 'People say' is Хүмүүс ... гэж хэлдэг.",
+  "explain_mn": "Монгол хэлэнд бусдын бодлыг дамжуулахдаа ишлэх өгүүлбэрээ \"гэж\"-ийн өмнө тавьж, дараа нь хэлэх, бодох, итгэх зэрэг үйл үгийг хэрэглэнэ: \"Эмээ айраг эрүүл гэж боддог.\" Англиар \"that\" холбоосоор өгүүлбэрийг залгадаг (\"My grandmother thinks that airag is healthy.\") бөгөөд \"that\"-ыг орхиж болно: \"People say it is lucky.\" Англиар ишлэх өгүүлбэр үйл үгийн (thinks, says, believes) ард орно. Байнгын бодолд одоо цаг (thinks, says), нэг удаагийн хэлсэнд өнгөрсөн цаг (said) хэрэглэнэ. Эзэн нь 3-р биет ганц тоо бол үйл үгэнд -s нэмнэ: she thinks, he says.",
+  "examples": [
+   {
+    "mn": "Өвөө энэ хоол эрүүл гэж боддог.",
+    "en": "Grandpa thinks that this food is healthy.",
+    "mn_latin": "Övöö ene khool erüül gej boddog."
+   },
+   {
+    "mn": "Хүмүүс монгол хоол амттай гэж хэлдэг.",
+    "en": "People say that Mongolian food is delicious.",
+    "mn_latin": "Khümüüs mongol khool amttai gej kheldeg."
+   },
+   {
+    "mn": "Эмээ уламжлал чухал гэж итгэдэг.",
+    "en": "Grandma believes that tradition is important.",
+    "mn_latin": "Emee ulamjlal chukhal gej itgedeg."
+   },
+   {
+    "mn": "Эгч маргааш ирнэ гэж хэлсэн.",
+    "en": "My sister said that she would come tomorrow.",
+    "mn_latin": "Egch margaash irne gej khelsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эмээ айраг эрүүл ___ боддог.",
+   "answer": "гэж",
+   "options": [
+    "гэж",
+    "гээд",
+    "гэвэл",
+    "гэхдээ"
+   ],
+   "translation": "Grandma thinks that airag is healthy.",
+   "explain_en": "гэж marks the reported thought before боддог. It works like 'that' in English.",
+   "explain_mn": "\"гэж\" нь бодлыг үйл үгтэй холбоно, англи \"that\"-тай адил үүрэгтэй."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүмүүс үүнийг азтай гэж ___.",
+   "answer": "хэлдэг",
+   "options": [
+    "хэлдэг",
+    "хэлэв",
+    "хэлэхгүй",
+    "хэлж"
+   ],
+   "translation": "People say this is lucky.",
+   "explain_en": "A general saying uses the habitual -даг form: хэлдэг.",
+   "explain_mn": "Нийтийн ярианд байнгын үйлийн -даг дагавар тохирно: хэлдэг."
+  },
+  {
+   "lang": "mn",
+   "text": "Өвөө уламжлал чухал гэж ___.",
+   "answer": "үздэг",
+   "options": [
+    "үздэг",
+    "иддэг",
+    "өгдөг",
+    "явдаг"
+   ],
+   "translation": "Grandpa considers tradition important.",
+   "explain_en": "үздэг means 'considers/regards', a common verb for views after гэж.",
+   "explain_mn": "\"үздэг\" нь бодол, үзэл баримтлалыг илтгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "My grandmother ___ that tea is healthy.",
+   "answer": "thinks",
+   "options": [
+    "thinks",
+    "think",
+    "thinking",
+    "thought to"
+   ],
+   "translation": "Эмээ цай эрүүл гэж боддог.",
+   "explain_en": "With 'my grandmother' (she), the present verb takes -s: thinks.",
+   "explain_mn": "\"My grandmother\" нь 3-р биет ганц тоо тул үйл үгэнд -s залгана: thinks."
+  },
+  {
+   "lang": "en",
+   "text": "People ___ that buuz is lucky at Tsagaan Sar.",
+   "answer": "say",
+   "options": [
+    "say",
+    "says",
+    "said to",
+    "saying"
+   ],
+   "translation": "Хүмүүс Цагаан сараар бууз азтай гэж хэлдэг.",
+   "explain_en": "'People' is plural, so no -s: people say.",
+   "explain_mn": "\"People\" нь олон тоо тул -s залгахгүй: say."
+  },
+  {
+   "lang": "en",
+   "text": "Grandpa ___ that old traditions are important.",
+   "answer": "believes",
+   "options": [
+    "believes",
+    "believe",
+    "is believe",
+    "believing"
+   ],
+   "translation": "Өвөө хуучин уламжлал чухал гэж итгэдэг.",
+   "explain_en": "With 'Grandpa' (he), the present verb takes -s: believes.",
+   "explain_mn": "\"Grandpa\" нь 3-р биет ганц тоо тул үйл үгэнд -s залгана: believes."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Содон",
+   "mn": "Эмээ, та яагаад өдөр бүр айраг уудаг юм бэ?",
+   "en": "Grandma, why do you drink airag every day?",
+   "mn_latin": "Emee, ta yaagaad ödör bür airag uudag yum be?"
+  },
+  {
+   "speaker": "Эмээ",
+   "mn": "Айраг биед сайн гэж би боддог. Манай эмээ ч тэгж хэлдэг байсан.",
+   "en": "I think airag is good for the body. My grandmother used to say so too.",
+   "mn_latin": "Airag biyed sain gej bi boddog. Manai emee ch tegj kheldeg baisan."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Үнэхээр үү? Хүмүүс үүнийг эрүүл гэж хэлдэг юм уу?",
+   "en": "Really? Do people say it is healthy?",
+   "mn_latin": "Ünekheer üü? Khümüüs üüniig erüül gej kheldeg yum uu?"
+  },
+  {
+   "speaker": "Содон",
+   "mn": "Тийм ээ, олон хүн тэгж боддог. Өвөө бас мах хамгийн чухал хоол гэж үздэг.",
+   "en": "Yes, many people believe that. Grandpa also considers meat the most important food.",
+   "mn_latin": "Tiim ee, olon khün tegj boddog. Övöö bas makh khamgiin chukhal khool gej üzdeg."
+  },
+  {
+   "speaker": "Өвөө",
+   "mn": "Залуучууд хэт хурдан иддэг гэж би боддог. Хоолоо тайван идэх хэрэгтэй.",
+   "en": "I think young people eat too fast. You should eat calmly.",
+   "mn_latin": "Zaluuchuud khet khurdan iddeg gej bi boddog. Khooloo taivan idekh kheregtei."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Миний эмээ ч адилхан зүйл хэлдэг. Энэ нь сайхан уламжлал юм байна.",
+   "en": "My grandmother says the same thing. It seems to be a nice tradition.",
+   "mn_latin": "Minii emee ch adilkhan züil kheldeg. Ene ni saikhan ulamjlal yum baina."
+  },
+  {
+   "speaker": "Содон",
+   "mn": "Миний бодлоор өвөөгийн үзэл бодол зарим талаар зөв.",
+   "en": "In my opinion, Grandpa's point of view is right in some ways.",
+   "mn_latin": "Minii bodloor övöögiin üzel bodol zarim talaar zöv."
+  },
+  {
+   "speaker": "Эмээ",
+   "mn": "Тэгвэл бүгдээрээ амтархан хоолоо идье.",
+   "en": "Then let's all enjoy our meal.",
+   "mn_latin": "Tegvel bügdeeree amtarkhan khooloo idiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian families, grandparents are deeply respected, and their views on food, hospitality and customs are often passed down at shared meals. Dairy products (цагаан идээ), airag and meat are tied to beliefs about health and luck, especially at Tsagaan Sar. Young people may disagree politely, but they usually listen first and say, \"Өвөө ингэж хэлдэг\" (Grandpa says so).",
+  "mn": "Монгол гэр бүлд өвөө, эмээ нарыг маш их хүндэлдэг бөгөөд хоол, зочин дайлах, ёс заншлын тухай тэдний үзэл бодлыг хамт хооллох үеэр дамжуулдаг. Цагаан идээ, айраг, мах нь эрүүл мэнд, аз завшааны тухай итгэл үнэмшилтэй холбоотой бөгөөд ялангуяа Цагаан сараар чухал. Залуучууд эелдгээр өөр санал хэлж болох ч ихэвчлэн эхлээд сонсоод \"Өвөө ингэж хэлдэг\" гэж ярьдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 13,
+  "notes": "Mostly good content, but Mongolian grammar explanation was wrong-language/garbled, a few alternates and dialogue wording mismatch, and one corrupted character."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 20,
+  "notes": "Replaced rare хуучинсаг with хуучирсан, fixed the non-word идэг, tense and wording mismatches, capitalization of Цагаан сар, and a wrong alternative.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "en",
+    "why": "Gloss should be an infinitive and should show the гэж construction."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "mn",
+    "why": "хуучинсаг is rare. Standard Khalkha for old-fashioned/outdated is хуучирсан."
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "Replace the rare word."
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "'биед эрүүл' is unnatural."
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "Match the revised Mongolian."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "боддог means 'thinks', not 'says'."
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "mn",
+    "why": "The holiday name Цагаан сар is capitalized."
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_mn",
+    "why": "Capitalization."
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "Replace the rare word."
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "Replace the rare word."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "бүр итгэхгүй suggests 'not at all'. 'Not completely' is бүрэн."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "хэлснийг is past tense."
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "Tense must match хэлснийг."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "The original English was unnatural."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Монголд means 'in Mongolia'. Монгол хэлэнд means 'in the Mongolian language'."
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "идэг is not a word. The correct form is иддэг."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Capitalization."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "mn",
+    "why": "'хамгийн чухал' needs a noun: хоол."
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "Match the revised Mongolian."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'зочломтгой заншил, ёс заншил' was redundant. Now it matches 'hospitality and customs'."
+   }
+  ]
+ }
+}

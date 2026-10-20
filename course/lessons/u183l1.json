@@ -1,0 +1,417 @@
+{
+ "intro_en": "Tour a rising apartment block in Ulaanbaatar with a site engineer and learn core construction terms. You'll also learn Mongolian result nouns ending in -вар/-вэр (-бар/-бэр after л): шийдвэр, заавар, хувилбар. Plus the English pattern \"not until + clause.\"",
+ "intro_mn": "Улаанбаатарт баригдаж буй орон сууцны барилгаар инженертэй хамт явж, барилгын үндсэн нэр томьёо сурна. Мөн -вар/-вэр (л-ийн дараа -бар/-бэр) дагавартай үр дүнгийн нэр (шийдвэр, заавар, хувилбар) болон англи хэлний \"not until + өгүүлбэр\" бүтцийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "суурь",
+   "en": "foundation",
+   "pos": "noun",
+   "example_mn": "Барилгын суурийг гүн ухаж тавьсан.",
+   "example_en": "They dug deep to lay the building's foundation.",
+   "mn_latin": "suuri"
+  },
+  {
+   "mn": "арматур",
+   "en": "rebar",
+   "pos": "noun",
+   "example_mn": "Ажилчид арматураа холбож байна.",
+   "example_en": "The workers are tying the rebar.",
+   "mn_latin": "armatur"
+  },
+  {
+   "mn": "бетон",
+   "en": "concrete",
+   "pos": "noun",
+   "example_mn": "Бетон хүйтэнд удаан хатдаг.",
+   "example_en": "Concrete cures slowly in the cold.",
+   "mn_latin": "byeton"
+  },
+  {
+   "mn": "давхар",
+   "en": "floor, story",
+   "pos": "noun",
+   "example_mn": "Манай байр есөн давхар.",
+   "example_en": "Our building has nine floors.",
+   "mn_latin": "davkhar"
+  },
+  {
+   "mn": "барилгын компани",
+   "en": "construction company",
+   "pos": "noun phrase",
+   "example_mn": "Энэ барилгын компани гучин жил ажиллаж байна.",
+   "example_en": "This construction company has been operating for thirty years.",
+   "mn_latin": "barilgyn kompani"
+  },
+  {
+   "mn": "цутгах",
+   "en": "to pour (concrete)",
+   "pos": "verb",
+   "example_mn": "Маргааш гуравдугаар давхрын хавтанг цутгана.",
+   "example_en": "Tomorrow we'll pour the third-floor slab.",
+   "mn_latin": "tsutgakh"
+  },
+  {
+   "mn": "зөвшөөрөл",
+   "en": "permit, permission",
+   "pos": "noun",
+   "example_mn": "Барилгын зөвшөөрөл өчигдөр гарсан.",
+   "example_en": "The building permit was issued yesterday.",
+   "mn_latin": "zövshööröl"
+  },
+  {
+   "mn": "шийдвэр",
+   "en": "decision",
+   "pos": "noun",
+   "example_mn": "Компани чухал шийдвэр гаргалаа.",
+   "example_en": "The company made an important decision.",
+   "mn_latin": "shiidver"
+  },
+  {
+   "mn": "заавар",
+   "en": "instructions",
+   "pos": "noun",
+   "example_mn": "Заавраа анхааралтай уншаарай.",
+   "example_en": "Please read the instructions carefully.",
+   "mn_latin": "zaavar"
+  },
+  {
+   "mn": "хувилбар",
+   "en": "option, version",
+   "pos": "noun",
+   "example_mn": "Бидэнд хоёр хувилбар байна.",
+   "example_en": "We have two options.",
+   "mn_latin": "khuvilbar"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Зөвшөөрөл ирэхээс нааш ажил эхлэх боломжгүй.",
+   "en": "Work can't start until the permit arrives.",
+   "alt_mn": [
+    "Зөвшөөрөл ирэх хүртэл ажил эхлэх боломжгүй.",
+    "Зөвшөөрөл иртэл ажил эхлэхгүй."
+   ],
+   "alt_en": [
+    "Work cannot begin until the permit arrives.",
+    "Work can't start until the permit comes."
+   ],
+   "mn_latin": "Zövshööröl irekhees naash ajil ekhlekh bolomjgüi."
+  },
+  {
+   "mn": "Бетон бүрэн хатах хүртэл бид дараагийн давхрын хавтанг цутгахгүй.",
+   "en": "We won't pour the next floor slab until the concrete has fully cured.",
+   "alt_mn": [
+    "Бетон бүрэн хатахаас нааш бид дараагийн давхрын хавтанг цутгахгүй."
+   ],
+   "alt_en": [
+    "We won't pour the next floor's slab until the concrete is fully cured."
+   ],
+   "mn_latin": "Byeton büren khatakh khürtel bid daraagiin davkhryn khavtang tsutgakhgüi."
+  },
+  {
+   "mn": "Барилгын компани суурийг гүнзгийрүүлэх шийдвэр гаргасан.",
+   "en": "The construction company made the decision to deepen the foundation.",
+   "alt_mn": [
+    "Барилгын компани суурийг илүү гүн болгох шийдвэр гаргасан."
+   ],
+   "alt_en": [
+    "The construction company decided to deepen the foundation.",
+    "The construction company decided to make the foundation deeper."
+   ],
+   "mn_latin": "Barilgyn kompani suuriig günzgiirüülekh shiidver gargasan."
+  },
+  {
+   "mn": "Арматурыг шалгаж дуустал инженер бетон цутгахыг зөвшөөрөхгүй.",
+   "en": "The engineer won't allow the concrete to be poured until the rebar has been inspected.",
+   "alt_mn": [
+    "Арматурыг шалгаж дуусах хүртэл инженер бетон цутгахыг зөвшөөрөхгүй."
+   ],
+   "alt_en": [
+    "The engineer won't let them pour concrete until the rebar has been checked."
+   ],
+   "mn_latin": "Armaturyg shalgaj duustal injyenyer byeton tsutgakhyg zövshöörökhgüi."
+  },
+  {
+   "mn": "Энэ барилга арван зургаан давхар болно.",
+   "en": "This building will have sixteen floors.",
+   "alt_mn": [
+    "Энэ барилга арван зургаан давхар байх юм."
+   ],
+   "alt_en": [
+    "This building will be sixteen stories tall.",
+    "This will be a sixteen-story building."
+   ],
+   "mn_latin": "Ene barilga arvan zurgaan davkhar bolno."
+  },
+  {
+   "mn": "Ажилчид өглөө бүр аюулгүй ажиллагааны заавар авдаг.",
+   "en": "Every morning the workers receive safety instructions.",
+   "alt_mn": [
+    "Өглөө бүр ажилчдад аюулгүй ажиллагааны заавар өгдөг."
+   ],
+   "alt_en": [
+    "The workers get safety instructions every morning."
+   ],
+   "mn_latin": "Ajilchid öglöö bür ayuulgüi ajillagaany zaavar avdag."
+  },
+  {
+   "mn": "Өвлийн хүйтэнд бетоныг хамгаалах хоёр хувилбар байна.",
+   "en": "There are two options for protecting concrete in the winter cold.",
+   "alt_mn": [
+    "Өвлийн хүйтнээс бетоныг хамгаалах хоёр хувилбар бий."
+   ],
+   "alt_en": [
+    "There are two ways to protect concrete from the winter cold."
+   ],
+   "mn_latin": "Övliin khüitend byetonyg khamgaalakh khoyor khuvilbar baina."
+  },
+  {
+   "mn": "Энэ бетоныг ойролцоох үйлдвэрээс авчирдаг.",
+   "en": "This concrete is brought from a nearby plant.",
+   "alt_mn": [
+    "Энэ бетоныг ойрхон байдаг үйлдвэрээс зөөж авчирдаг."
+   ],
+   "alt_en": [
+    "This concrete comes from a nearby plant."
+   ],
+   "mn_latin": "Ene byetonyg oiroltsookh üildverees avchirdag."
+  },
+  {
+   "mn": "Шинэ даалгавраа авах хүртэл тэр гэртээ харьсангүй.",
+   "en": "He didn't go home until he got his new assignment.",
+   "alt_mn": [
+    "Тэр шинэ даалгавраа авсны дараа л гэртээ харьсан."
+   ],
+   "alt_en": [
+    "She didn't go home until she got her new assignment.",
+    "He didn't go home until he received his new assignment."
+   ],
+   "mn_latin": "Shine daalgavraa avakh khürtel ter gertee kharisangüi."
+  },
+  {
+   "mn": "Хотын захиргааны шийдвэр гартал бид дараагийн шатны ажлыг эхлүүлж чадахгүй.",
+   "en": "We can't start the next phase until the city administration's decision comes out.",
+   "alt_mn": [
+    "Хотын захиргааны шийдвэр гарах хүртэл бид дараагийн шатны ажлыг эхлүүлж чадахгүй."
+   ],
+   "alt_en": [
+    "We can't begin the next phase until the city administration issues its decision."
+   ],
+   "mn_latin": "Khotyn zakhirgaany shiidver gartal bid daraagiin shatny ajlyg ekhlüülj chadakhgüi."
+  },
+  {
+   "mn": "Дуулга, хамгаалалтын гутал өмсөөгүй бол барилгын талбайд орж болохгүй.",
+   "en": "You can't enter the construction site without a hard hat and safety boots.",
+   "alt_mn": [
+    "Дуулга, хамгаалалтын гуталгүйгээр барилгын талбайд орж болохгүй."
+   ],
+   "alt_en": [
+    "You may not enter the site unless you're wearing a hard hat and safety boots."
+   ],
+   "mn_latin": "Duulga, khamgaalaltyn gutal ömsöögüi bol barilgyn talbaid orj bolokhgüi."
+  },
+  {
+   "mn": "Суурийн ажил дуустал дээд давхруудын төлөвлөгөөг өөрчлөх боломжтой хэвээр.",
+   "en": "Until the foundation work is finished, the plans for the upper floors can still be changed.",
+   "alt_mn": [
+    "Суурийн ажил дуусах хүртэл дээд давхруудын төлөвлөгөөг өөрчилж болно."
+   ],
+   "alt_en": [
+    "The plans for the upper floors can still change until the foundation work is done."
+   ],
+   "mn_latin": "Suuriin ajil duustal deed davkhruudyn tölövlögöög öörchlökh bolomjtoi kheveer."
+  }
+ ],
+ "grammar": {
+  "title_en": "Result nouns in -вар/-вэр; \"not until + clause\"",
+  "title_mn": "-вар/-вэр дагавартай үр дүнгийн нэр; \"not until + өгүүлбэр\"",
+  "explain_en": "Mongolian can turn a verb into a noun for the result of the action by adding -вар/-вэр to the verb stem: шийдэх 'to decide' → шийдвэр 'decision', заах 'to show, instruct' → заавар 'instructions', даалгах 'to assign' → даалгавар 'assignment', үйлдэх 'to do, carry out' → үйлдвэр 'factory, plant'. The vowel follows vowel harmony (back-vowel words take -вар, front-vowel words take -вэр). After a stem ending in -л, it becomes -бар/-бэр: хувилах → хувилбар 'option, version'. Watch the vowel drop when you add a case or reflexive-possessive ending: заавар → заавраа, даалгавар → даалгавраа. Not every verb uses this suffix, so learn these as set words. For хийх, the everyday result noun is хийц ('make, workmanship'), and for бүтээх it is бүтээл or бүтээгдэхүүн.",
+  "explain_mn": "Англи хэлэнд \"not until + өгүүлбэр\" бүтцээр нэг үйл явдал нөгөөгөөсөө өмнө болохгүй гэдгийг илэрхийлнэ. Энэ нь монгол хэлний \"-тал/-тэл\", \"-х хүртэл\", \"-хаас нааш\"-тай дүйнэ. Гол өгүүлбэр үгүйсгэлтэй байна: Work can't start until the permit arrives. Until-ийн араас ирээдүйн цаг хэрэглэдэггүй. \"will arrive\" биш \"arrives\" гэнэ. Үйл явдал бүрэн дуусахыг онцлох бол present perfect хэрэглэнэ: until the concrete has cured. Албан ёсны, онцолсон хэлбэр нь \"It wasn't until ... that ...\": It wasn't until the permit arrived that the crew started digging.",
+  "examples": [
+   {
+    "mn": "Инженер эцсийн шийдвэр гаргах хүртэл бид хүлээнэ.",
+    "en": "We'll wait until the engineer makes the final decision.",
+    "mn_latin": "Injyenyer etssiin shiidver gargakh khürtel bid khüleene."
+   },
+   {
+    "mn": "Мастер заавраа тайлбарлаж дуустал хэн ч ажилдаа ороогүй.",
+    "en": "Nobody started working until the foreman had finished explaining the instructions.",
+    "mn_latin": "Mastyer zaavraa tailbarlaj duustal khen ch ajildaa oroogüi."
+   },
+   {
+    "mn": "Бид гурван хувилбар харьцуулсны дараа л нэгийг нь сонгосон.",
+    "en": "We didn't choose one until we had compared three options.",
+    "mn_latin": "Bid gurvan khuvilbar kharitsuulsny daraa l negiig ni songoson."
+   },
+   {
+    "mn": "Зөвшөөрөл ирсний дараа л ажилчид газар ухаж эхэлсэн.",
+    "en": "It wasn't until the permit arrived that the workers started digging.",
+    "mn_latin": "Zövshööröl irsnii daraa l ajilchid gazar ukhaj ekhelsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Удирдлага суурийг гүнзгийрүүлэх ___ гаргалаа.",
+   "answer": "шийдвэр",
+   "options": [
+    "шийдвэр",
+    "шийдэх",
+    "шийдсэн",
+    "шийдээд"
+   ],
+   "translation": "Management made the decision to deepen the foundation.",
+   "explain_en": "The verb гаргах 'to issue, make' needs a noun object here. Шийдвэр is the result noun of шийдэх formed with -вэр, and 'шийдвэр гаргах' is the set phrase for 'to make a decision.'",
+   "explain_mn": "\"Гаргах\" үйл үг нэр үгийг тусагдахуунаа болгоно. \"Шийдвэр гаргах\" нь тогтвортой хэллэг тул шийдэх үйл үгээс -вэр дагавраар үүссэн \"шийдвэр\" нэр зөв."
+  },
+  {
+   "lang": "mn",
+   "text": "Мастер ажилчдад шинэ заа___ өглөө.",
+   "answer": "вар",
+   "options": [
+    "вар",
+    "вэр",
+    "вор",
+    "вөр"
+   ],
+   "translation": "The foreman gave the workers new instructions.",
+   "explain_en": "Заах has the back vowel а, so vowel harmony picks -вар: заавар. Front-vowel stems take -вэр, as in шийдвэр.",
+   "explain_mn": "\"Заах\" үйл үг эр үгийн \"а\" эгшигтэй тул эгшиг зохицох ёсоор -вар дагавар авч \"заавар\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Бетон хатах ___ дээр нь юм тавьж болохгүй.",
+   "answer": "хүртэл",
+   "options": [
+    "хүртэл",
+    "болохоор",
+    "тул",
+    "байтал"
+   ],
+   "translation": "You mustn't put anything on the concrete until it cures.",
+   "explain_en": "'-х хүртэл' after a verb means 'until.' Болохоор and тул mean 'because,' and байтал means 'while,' so they give the wrong meaning.",
+   "explain_mn": "\"-х хүртэл\" нь хугацааны хязгаар заана. \"Болохоор\" ба \"тул\" шалтгаан, \"байтал\" зэрэгцээ үйлийг илэрхийлдэг тул тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The crane can't be used ___ the inspector signs off.",
+   "answer": "until",
+   "options": [
+    "until",
+    "while",
+    "since",
+    "during"
+   ],
+   "translation": "Байцаагч зөвшөөрч гарын үсэг зуртал краныг ашиглаж болохгүй.",
+   "explain_en": "'Not ... until' marks the point when the action can finally happen. 'During' needs a noun, not a clause, and 'while' and 'since' change the meaning.",
+   "explain_mn": "\"Can't ... until\" нь тодорхой үйл болохоос өмнө нөгөө үйл болохгүйг илэрхийлнэ. \"During\" араасаа нэр үг авдаг, \"while\", \"since\" утгыг өөрчилнө."
+  },
+  {
+   "lang": "en",
+   "text": "We didn't ___ pouring until the rebar was checked.",
+   "answer": "start",
+   "options": [
+    "start",
+    "started",
+    "starting",
+    "starts"
+   ],
+   "translation": "Арматурыг шалгатал бид цутгаж эхлээгүй.",
+   "explain_en": "After the helper 'didn't,' the main verb takes the base form: didn't start.",
+   "explain_mn": "\"Didn't\" туслах үйл үгийн дараа үндсэн үйл үг үндсэн хэлбэрээрээ (start) байна. Өнгөрсөн цагийг \"did\" аль хэдийн заасан."
+  },
+  {
+   "lang": "en",
+   "text": "It wasn't until the permit arrived ___ the crew began digging.",
+   "answer": "that",
+   "options": [
+    "that",
+    "when",
+    "then",
+    "so"
+   ],
+   "translation": "Зөвшөөрөл ирсний дараа л ажилчид газар ухаж эхэлсэн.",
+   "explain_en": "The emphatic pattern is 'It wasn't until X that Y.' The connecting word is always 'that.'",
+   "explain_mn": "Онцолсон \"It wasn't until X that Y\" бүтцэд хоёр хэсгийг заавал \"that\"-аар холбоно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батзориг",
+   "mn": "Тавтай морил! Энэ бол манай шинэ арван зургаан давхар орон сууц.",
+   "en": "Welcome! This is our new sixteen-story apartment block.",
+   "mn_latin": "Tavtai moril! Ene bol manai shine arvan zurgaan davkhar oron suuts."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Одоогоор хэдэн давхар хүртэл баригдсан бэ?",
+   "en": "How many floors are up so far?",
+   "mn_latin": "Odoogoor kheden davkhar khürtel barigdsan be?"
+  },
+  {
+   "speaker": "Батзориг",
+   "mn": "Есдүгээр давхрын хавтанг өчигдөр цутгасан. Бетон хатах хүртэл дээр нь ачаа тавихгүй.",
+   "en": "We poured the ninth-floor slab yesterday. We won't put any load on it until the concrete cures.",
+   "mn_latin": "Yesdügeer davkhryn khavtang öchigdör tsutgasan. Byeton khatakh khürtel deer ni achaa tavikhgüi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Өвөл болохоор ажил зогсдог уу?",
+   "en": "Does work stop when winter comes?",
+   "mn_latin": "Övöl bolokhoor ajil zogsdog uu?"
+  },
+  {
+   "speaker": "Батзориг",
+   "mn": "Ихэнхдээ тийм. Гэхдээ компани энэ жил бетоныг халааж цутгах шийдвэр гаргасан.",
+   "en": "Usually, yes. But this year the company decided to heat the concrete and keep pouring.",
+   "mn_latin": "Ikhenkhdee tiim. Gekhdee kompani ene jil byetonyg khalaaj tsutgakh shiidver gargasan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэр нь аюулгүй юу?",
+   "en": "Is that safe?",
+   "mn_latin": "Ter ni ayuulgüi yuu?"
+  },
+  {
+   "speaker": "Батзориг",
+   "mn": "Заавраа чанд дагавал аюулгүй. Гэхдээ лабораторийн дүгнэлт гартал бид дараагийн давхарт шилжихгүй.",
+   "en": "It's safe if we follow the instructions strictly. But we won't move on to the next floor until the lab results come in.",
+   "mn_latin": "Zaavraa chand dagaval ayuulgüi. Gekhdee laboratoriin dügnelt gartal bid daraagiin davkhart shiljikhgüi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Ойлголоо. Дуулгаа зөв өмссөн эсэхийг минь шалгаад өгөөч.",
+   "en": "Got it. Could you check that I'm wearing my hard hat correctly?",
+   "mn_latin": "Oilgoloo. Duulgaa zöv ömssön esekhiig mini shalgaad ögööch."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar's building season is short. Most concrete work happens between April and October, because winter temperatures often drop below -30°C, and pouring in the cold requires heated enclosures and special additives. Many new apartment blocks are rising in former ger districts under city redevelopment programs, so families often move from a ger into an apartment on the same land.",
+  "mn": "Улаанбаатарт барилгын улирал богино. Өвлийн хүйтэн ихэвчлэн -30°C-аас доош ордог тул бетоны ажлын ихэнхийг 4-р сараас 10-р сарын хооронд хийдэг. Хүйтэнд цутгахад тусгай халаалттай бүрхүүл, нэмэлт бодис шаардлагатай. Хотын дахин төлөвлөлтийн хөтөлбөрөөр гэр хорооллын газар дээр олон шинэ орон сууц баригдаж байгаа тул олон айл гэрээсээ мөн тэр газар дээрх байранд шилждэг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 4,
+  "notes": "A clean, natural lesson with accurate pairs and explanations. Only small fixes: the -бар/-бэр mention in the intro, \"монгол хэлний\" wording, and a missing \"often\" in the culture note."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 2,
+  "notes": "Mostly clean; fixed one inaccurate gloss and suffix description in the grammar note and an en/mn mismatch in the culture note.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "үйлдэх means 'to do/commit', not 'produce'; -аа is reflexive possessive, not a case ending"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'ихэвчлэн' (usually) overstated the English 'often'"
+   }
+  ]
+ }
+}

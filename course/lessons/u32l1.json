@@ -1,0 +1,440 @@
+{
+ "intro_en": "You will learn to pass on what someone told you, using Mongolian verbs of speaking and the quotation word гэж, and English reported speech with said (that). You will also practice how English shifts present tense to past.",
+ "intro_mn": "Та өөр хүний хэлснийг дамжуулах аргыг сурна: монгол хэлний хэлэх, асуух, хариулах, мэдэгдэх үйл үг ба «гэж»-ийг, мөн англи хэлний said (that) бүхий шууд бус ярианы цаг хугацааны өөрчлөлтийг (am → was) сурна.",
+ "vocab": [
+  {
+   "mn": "хэлэх",
+   "en": "to say, to tell",
+   "pos": "verb",
+   "example_mn": "Ээж надад удахгүй ирнэ гэж хэлсэн.",
+   "example_en": "Mom told me she would come soon.",
+   "mn_latin": "khelekh"
+  },
+  {
+   "mn": "асуух",
+   "en": "to ask",
+   "pos": "verb",
+   "example_mn": "Багш надаас хаана амьдардаг вэ гэж асуусан.",
+   "example_en": "The teacher asked me where I live.",
+   "mn_latin": "asuukh"
+  },
+  {
+   "mn": "хариулах",
+   "en": "to answer, to reply",
+   "pos": "verb",
+   "example_mn": "Тэр маргааш хариулна гэж хэлсэн.",
+   "example_en": "He said he would answer tomorrow.",
+   "mn_latin": "khariulakh"
+  },
+  {
+   "mn": "мэдэгдэх",
+   "en": "to inform, to notify",
+   "pos": "verb",
+   "example_mn": "Захирал хурал хойшиллоо гэж мэдэгдсэн.",
+   "example_en": "The director announced that the meeting was postponed.",
+   "mn_latin": "medegdekh"
+  },
+  {
+   "mn": "захиа",
+   "en": "message, letter",
+   "pos": "noun",
+   "example_mn": "Найзаасаа захиа авлаа.",
+   "example_en": "I got a message from my friend.",
+   "mn_latin": "zakhia"
+  },
+  {
+   "mn": "дамжуулах",
+   "en": "to pass on, to relay",
+   "pos": "verb",
+   "example_mn": "Энэ мэдээг аавдаа дамжуулаарай.",
+   "example_en": "Please pass this news on to Dad.",
+   "mn_latin": "damjuulakh"
+  },
+  {
+   "mn": "удахгүй",
+   "en": "soon",
+   "pos": "adverb",
+   "example_mn": "Тэр удахгүй ирнэ.",
+   "example_en": "He will come soon.",
+   "mn_latin": "udakhgüi"
+  },
+  {
+   "mn": "зөвшөөрөх",
+   "en": "to agree, to allow",
+   "pos": "verb",
+   "example_mn": "Аав маань намайг явахыг зөвшөөрсөн.",
+   "example_en": "My father allowed me to go.",
+   "mn_latin": "zövshöörökh"
+  },
+  {
+   "mn": "мэдээ",
+   "en": "news, information",
+   "pos": "noun",
+   "example_mn": "Танд сайн мэдээ байна.",
+   "example_en": "I have good news for you.",
+   "mn_latin": "medee"
+  },
+  {
+   "mn": "дараа нь",
+   "en": "later, afterwards",
+   "pos": "adverb",
+   "example_mn": "Дараа нь би чамд залгана.",
+   "example_en": "I will call you later.",
+   "mn_latin": "daraa ni"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Тэр ирнэ гэж хэлсэн.",
+   "en": "He said he would come.",
+   "alt_mn": [
+    "Тэр ирнэ гэсэн."
+   ],
+   "alt_en": [
+    "He said that he would come.",
+    "He said he was coming."
+   ],
+   "mn_latin": "Ter irne gej khelsen."
+  },
+  {
+   "mn": "Болд би бэлэн байна гэж хэлсэн.",
+   "en": "Bold said he was ready.",
+   "alt_mn": [],
+   "alt_en": [
+    "Bold said that he was ready."
+   ],
+   "mn_latin": "Bold bi belen baina gej khelsen."
+  },
+  {
+   "mn": "Ээж маань орой гэртээ харина гэж хэлсэн.",
+   "en": "My mom said she would come home in the evening.",
+   "alt_mn": [
+    "Ээж орой гэртээ харина гэж хэлсэн."
+   ],
+   "alt_en": [
+    "My mom said that she would be home in the evening."
+   ],
+   "mn_latin": "Eej maani oroi gertee kharina gej khelsen."
+  },
+  {
+   "mn": "Сарнай надаас хаана байгаа вэ гэж асуусан.",
+   "en": "Sarnai asked me where I was.",
+   "alt_mn": [
+    "Сарнай надаас хаана байна гэж асуусан."
+   ],
+   "alt_en": [
+    "Sarnai asked where I was."
+   ],
+   "mn_latin": "Sarnai nadaas khaana baigaa ve gej asuusan."
+  },
+  {
+   "mn": "Би маргааш хариулна гэж хэлсэн.",
+   "en": "I said I would answer tomorrow.",
+   "alt_mn": [],
+   "alt_en": [
+    "I said that I would reply tomorrow."
+   ],
+   "mn_latin": "Bi margaash khariulna gej khelsen."
+  },
+  {
+   "mn": "Дүү маань хоол идчихлээ гэж хэлсэн.",
+   "en": "My younger brother said he had already eaten.",
+   "alt_mn": [
+    "Дүү хоолоо идчихлээ гэж хэлсэн."
+   ],
+   "alt_en": [
+    "My younger brother said that he had eaten."
+   ],
+   "mn_latin": "Düü maani khool idchikhlee gej khelsen."
+  },
+  {
+   "mn": "Захирал хурал дөрвөн цагт болно гэж мэдэгдсэн.",
+   "en": "The director announced that the meeting would be at four o'clock.",
+   "alt_mn": [],
+   "alt_en": [
+    "The director said the meeting would be at four."
+   ],
+   "mn_latin": "Zakhiral khural dörvön tsagt bolno gej medegdsen."
+  },
+  {
+   "mn": "Найз маань надад удахгүй ирнэ гэж захиа бичсэн.",
+   "en": "My friend wrote me a message saying he was coming soon.",
+   "alt_mn": [],
+   "alt_en": [
+    "My friend wrote me that he was coming soon."
+   ],
+   "mn_latin": "Naiz maani nadad udakhgüi irne gej zakhia bichsen."
+  },
+  {
+   "mn": "Багш бид нарыг хичээлдээ орох ёстой гэж хэлсэн.",
+   "en": "The teacher said we had to go to class.",
+   "alt_mn": [],
+   "alt_en": [
+    "The teacher said that we must go to class."
+   ],
+   "mn_latin": "Bagsh bid naryg khicheeldee orokh yostoi gej khelsen."
+  },
+  {
+   "mn": "Энэ мэдээг ээждээ дамжуулаарай.",
+   "en": "Please pass this news on to your mom.",
+   "alt_mn": [],
+   "alt_en": [
+    "Please relay this news to your mom."
+   ],
+   "mn_latin": "Ene medeeg eejdee damjuulaarai."
+  },
+  {
+   "mn": "Тэр надад дараа нь залгана гэж хэлсэн.",
+   "en": "He told me he would call me later.",
+   "alt_mn": [],
+   "alt_en": [
+    "He said he would call me later.",
+    "He told me that he would call later."
+   ],
+   "mn_latin": "Ter nadad daraa ni zalgana gej khelsen."
+  },
+  {
+   "mn": "Аав маань намайг явахыг зөвшөөрнө гэж хэлсэн.",
+   "en": "My father said he would let me go.",
+   "alt_mn": [],
+   "alt_en": [
+    "My dad said that he would allow me to go."
+   ],
+   "mn_latin": "Aav maani namaig yavakhyg zövshöörnö gej khelsen."
+  }
+ ],
+ "grammar": {
+  "title_en": "Quoting with гэж хэлсэн",
+  "title_mn": "«гэж хэлсэн» бүтэц ба англи хэлний шууд бус яриа",
+  "explain_en": "In Mongolian, you put what was said before гэж, then add a speaking verb: «Тэр ирнэ гэж хэлсэн» = 'He said he would come.' The words inside keep their original form: ирнэ stays ирнэ. There is no tense shift, and no 'that'. For questions, use вэ / уу + гэж асуусан: «Хаана байгаа вэ гэж асуусан». Use мэдэгдэх for official announcements, and хариулах for replies. The person you tell takes the dative: надад хэлсэн.",
+  "explain_mn": "Англи хэлэнд хэн нэгний хэлснийг дамжуулахдаа «said (that)» хэрэглэнэ, «that» нь заавал биш. Гол ялгаа нь цаг хугацаа: үндсэн үйл үг өнгөрсөн цагт орвол дотор нь байгаа үйл үг нэг шатлал ухарна. Жишээ нь: «I am coming» → He said he was coming. «I will call» → He said he would call. «I have eaten» → He said he had eaten. Монголоор «ирнэ гэж хэлсэн» гэж цаг хэвээр үлддэг ч англиар заавал өөрчилнө. Асуултад үгийн дараалал хэвийн болно: She asked where I was (was I биш).",
+  "examples": [
+   {
+    "mn": "«Би ирж байна» → Тэр ирж байна гэж хэлсэн.",
+    "en": "“I am coming.” → He said he was coming.",
+    "mn_latin": "«Bi irj baina» → Ter irj baina gej khelsen."
+   },
+   {
+    "mn": "«Би залгана» → Тэр залгана гэж хэлсэн.",
+    "en": "“I will call.” → He said he would call.",
+    "mn_latin": "«Bi zalgana» → Ter zalgana gej khelsen."
+   },
+   {
+    "mn": "«Чи хаана байгаа вэ?» → Тэр надаас хаана байгаа вэ гэж асуусан.",
+    "en": "“Where are you?” → He asked me where I was.",
+    "mn_latin": "«Chi khaana baigaa ve?» → Ter nadaas khaana baigaa ve gej asuusan."
+   },
+   {
+    "mn": "«Уулзалт хойшиллоо» → Тэр уулзалт хойшиллоо гэж мэдэгдсэн.",
+    "en": "“The meeting is postponed.” → He announced that the meeting was postponed.",
+    "mn_latin": "«Uulzalt khoishilloo» → Ter uulzalt khoishilloo gej medegdsen."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Тэр маргааш ирнэ ___ хэлсэн.",
+   "answer": "гэж",
+   "options": [
+    "гэж",
+    "гэвч",
+    "байж",
+    "бөгөөд"
+   ],
+   "translation": "He said he would come tomorrow.",
+   "explain_en": "гэж marks the quoted words before a speaking verb like хэлсэн.",
+   "explain_mn": "«Хэлсэн» гэх мэт ярих үйл үгийн өмнө иш татсан үгийг «гэж»-ээр тэмдэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Багш надаас нэр чинь юу вэ гэж ___.",
+   "answer": "асуусан",
+   "options": [
+    "асуусан",
+    "хариулсан",
+    "мэдэгдсэн",
+    "зөвшөөрсөн"
+   ],
+   "translation": "The teacher asked me what my name was.",
+   "explain_en": "A question being relayed needs асуух (to ask), not хариулах.",
+   "explain_mn": "Асуултыг дамжуулж байгаа тул «асуусан» гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Ээж надад удахгүй ирнэ гэж ___.",
+   "answer": "хэлсэн",
+   "options": [
+    "хэлсэн",
+    "хэлэх",
+    "хэлж",
+    "хэлээрэй"
+   ],
+   "translation": "Mom told me she would come soon.",
+   "explain_en": "Past completed action: хэлсэн ('said').",
+   "explain_mn": "Өнгөрсөн цагийн үйлдэл тул «хэлсэн» гэж хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "“I am tired,” he said. → He said he ___ tired.",
+   "answer": "was",
+   "options": [
+    "was",
+    "were",
+    "be",
+    "been"
+   ],
+   "translation": "Тэр ядарсан гэж хэлсэн.",
+   "explain_en": "After said (past), present am/is shifts back to was.",
+   "explain_mn": "Үндсэн үйл үг өнгөрсөн цагт байвал «am/is» нь «was» болно."
+  },
+  {
+   "lang": "en",
+   "text": "“I will call you,” she said. → She said she ___ call me.",
+   "answer": "would",
+   "options": [
+    "would",
+    "was",
+    "did",
+    "had"
+   ],
+   "translation": "Тэр надад залгана гэж хэлсэн.",
+   "explain_en": "will becomes would in reported speech.",
+   "explain_mn": "Шууд бус ярианд «will» нь «would» болно."
+  },
+  {
+   "lang": "en",
+   "text": "“Where are you?” she asked. → She asked where I ___.",
+   "answer": "was",
+   "options": [
+    "was",
+    "are",
+    "were",
+    "is"
+   ],
+   "translation": "Тэр надаас хаана байгаа вэ гэж асуусан.",
+   "explain_en": "Reported questions use statement word order, and the verb shifts back: are → was (with I).",
+   "explain_mn": "Шууд бус асуултад үгийн дараалал хэвийн байх бөгөөд «are» нь «I»-тэй «was» болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Болд хаана байна? Тэр ирнэ гэж хэлсэн биз дээ?",
+   "en": "Where is Bold? He said he was coming, right?",
+   "mn_latin": "Bold khaana baina? Ter irne gej khelsen biz dee?"
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Тийм ээ, өчигдөр надад залгаад удахгүй ирнэ гэж хэлсэн.",
+   "en": "Yes, he called me yesterday and said he would come soon.",
+   "mn_latin": "Tiim ee, öchigdör nadad zalgaad udakhgüi irne gej khelsen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэр өөр юу гэж хэлсэн бэ?",
+   "en": "What else did he say?",
+   "mn_latin": "Ter öör yuu gej khelsen be?"
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Замд түгжрэл их байна гэж хэлсэн.",
+   "en": "He said there was a lot of traffic on the road.",
+   "mn_latin": "Zamd tügjrel ikh baina gej khelsen."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл би багшид мэдэгдье. Багш хурал таван цагт эхэлнэ гэж хэлсэн.",
+   "en": "Then I'll let the teacher know. She said the meeting would start at five.",
+   "mn_latin": "Tegvel bi bagshid medegdiye. Bagsh khural tavan tsagt ekhelne gej khelsen."
+  },
+  {
+   "speaker": "Дорж",
+   "mn": "Сайн байна. Багш чамаас юу гэж асуусан бэ?",
+   "en": "Good. What did the teacher ask you?",
+   "mn_latin": "Sain baina. Bagsh chamaas yuu gej asuusan be?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Бүгд ирсэн үү гэж асуусан. Би дараа нь хариулна гэж хэлсэн.",
+   "en": "She asked if everyone had come. I said I would answer later.",
+   "mn_latin": "Bügd irsen üü gej asuusan. Bi daraa ni khariulna gej khelsen."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, news often travels by word of mouth through family and friends, so passing on messages with «гэж хэлсэн» is part of daily life, especially between the city and relatives in the countryside. People often end a relayed message with «гэсэн» to show it is someone else's words. Calling a relative to pass on a greeting («Мэнд дамжуулаарай») is very common.",
+  "mn": "Монголд мэдээг гэр бүл, найз нөхөд дамжуулан ам дамжин мэдэгдэх нь түгээмэл бөгөөд хот, хөдөөгийн ар гэрийнхэнтэй холбогдохдоо «гэж хэлсэн» гэсэн хэллэгийг байнга хэрэглэнэ. Өөр хүний үгийг дамжуулж байгаагаа «гэсэн» гэж төгсгөдөг. «Мэнд дамжуулаарай» гэж ар гэрийнхэндээ мэндчилгээ дамжуулахыг хүсэх нь нийтлэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 20,
+  "notes": "Mostly good, but there are a few real errors (ааваад, намаас, tense consistency, гэжээ) and some misleading explanations."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Fixed the case government of асуух, nonstandard намаас, an ungrammatical blank sentence, and fill-in-the-blank options that allowed more than one correct answer.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_mn",
+    "why": "асуух takes the ablative (надаас), not the accusative намайг"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "намаас is colloquial, not standard; надаас is correct"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_en",
+    "why": "the alternative was an exact duplicate of the main translation"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "намаас → standard надаас; хаана байгаа вэ is more natural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "гээд хэлсэн is possible in colloquial speech, so the answer was not the only correct option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "the explanation was awkward and unclear"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "нэрийг минь юу вэ is ungrammatical; a direct quote needs нэр чинь"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'He said he is tired' is also acceptable English, so 'is' gave a second correct answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'She said she will call me' is also acceptable English, so 'will' gave a second correct answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'She asked where I am' is also possible English; replaced 'am' with a clearly wrong form"
+   }
+  ]
+ }
+}

@@ -1,0 +1,400 @@
+{
+ "intro_en": "Retell a whole Trans-Mongolian journey, from the steppe and the Gobi dunes to the shores of Lake Baikal, and write a short travel review. You'll review the location endings -дахь/-тахь and -ын доторх in longer descriptions.",
+ "intro_mn": "Тал нутаг, Говийн элсэн манхнаас Байгаль нуурын эрэг хүртэлх аяллаа бүхэлд нь ярьж, аяллын тухай богино сэтгэгдэл бичиж сурна. Англи хэлний ирээдүй цагийн цагийн өгүүлбэрийг (when, as soon as, once, by the time + одоо цаг) давтана.",
+ "vocab": [
+  {
+   "mn": "тал нутаг",
+   "en": "steppe",
+   "pos": "noun",
+   "example_mn": "Тал нутаг тэнгэрийн хаяа хүртэл үргэлжилж байв.",
+   "example_en": "The steppe stretched all the way to the horizon.",
+   "mn_latin": "tal nutag"
+  },
+  {
+   "mn": "элсэн манхан",
+   "en": "sand dune",
+   "pos": "noun",
+   "example_mn": "Элсэн манхнууд нарны гэрэлд алтлаг харагдана.",
+   "example_en": "The sand dunes look golden in the sunlight.",
+   "mn_latin": "elsen mankhan"
+  },
+  {
+   "mn": "тэнгэрийн хаяа",
+   "en": "horizon",
+   "pos": "noun",
+   "example_mn": "Тэнгэрийн хаяанд уул харагдлаа.",
+   "example_en": "Mountains appeared on the horizon.",
+   "mn_latin": "tengeriin khayaa"
+  },
+  {
+   "mn": "тайга",
+   "en": "taiga",
+   "pos": "noun",
+   "example_mn": "Хилээс хойш зөвхөн тайга үргэлжилнэ.",
+   "example_en": "Past the border there is nothing but taiga.",
+   "mn_latin": "taiga"
+  },
+  {
+   "mn": "эрэг",
+   "en": "shore",
+   "pos": "noun",
+   "example_mn": "Галт тэрэг нуурын эргийг дагаж явлаа.",
+   "example_en": "The train ran along the lakeshore.",
+   "mn_latin": "ereg"
+  },
+  {
+   "mn": "үүрийн гэгээ",
+   "en": "dawn",
+   "pos": "noun",
+   "example_mn": "Үүрийн гэгээгээр би сэрлээ.",
+   "example_en": "I woke up at dawn.",
+   "mn_latin": "üüriin gegee"
+  },
+  {
+   "mn": "сэтгэгдэл",
+   "en": "impression; review",
+   "pos": "noun",
+   "example_mn": "Аяллын тухай сэтгэгдлээ интернэтэд бичлээ.",
+   "example_en": "I wrote a review of the trip online.",
+   "mn_latin": "setgegdel"
+  },
+  {
+   "mn": "дурсамж",
+   "en": "memory",
+   "pos": "noun",
+   "example_mn": "Энэ аялал насан туршийн дурсамж болно.",
+   "example_en": "This trip will be a lifelong memory.",
+   "mn_latin": "dursamj"
+  },
+  {
+   "mn": "гайхамшигтай",
+   "en": "amazing; magnificent",
+   "pos": "adjective",
+   "example_mn": "Байгаль нуур үнэхээр гайхамшигтай.",
+   "example_en": "Lake Baikal is truly magnificent.",
+   "mn_latin": "gaikhamshigtai"
+  },
+  {
+   "mn": "үргэлжлэх",
+   "en": "to stretch; to continue",
+   "pos": "verb",
+   "example_mn": "Говь хэдэн цагаар үргэлжилсэн.",
+   "example_en": "The Gobi went on for hours.",
+   "mn_latin": "ürgeljlekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Говь дахь элсэн манхнууд нар жаргахад улаавтар харагдсан.",
+   "en": "The sand dunes in the Gobi looked reddish at sunset.",
+   "alt_mn": [
+    "Нар жаргахад Говь дахь элсэн манхнууд улаавтар харагдсан."
+   ],
+   "alt_en": [
+    "At sunset, the sand dunes in the Gobi looked reddish."
+   ],
+   "mn_latin": "Govi dakhi elsen mankhnuud nar jargakhad ulaavtar kharagdsan."
+  },
+  {
+   "mn": "Вагоны доторх агаар халуун байсан ч цонхны цаана цас орж байлаа.",
+   "en": "The air inside the train car was hot, but outside the window it was snowing.",
+   "alt_mn": [],
+   "alt_en": [
+    "It was hot inside the train car, but it was snowing outside the window."
+   ],
+   "mn_latin": "Vagony dotorkh agaar khaluun baisan ch tsonkhny tsaana tsas orj bailaa."
+  },
+  {
+   "mn": "Галт тэрэг Иркутскт хүрмэгц би танд залгана.",
+   "en": "As soon as the train reaches Irkutsk, I'll call you.",
+   "alt_mn": [
+    "Галт тэрэг Иркутскт хүрэнгүүт би танд залгана."
+   ],
+   "alt_en": [
+    "I'll call you as soon as the train gets to Irkutsk."
+   ],
+   "mn_latin": "Galt tereg Irkutskt khürmegts bi tand zalgana."
+  },
+  {
+   "mn": "Тэнгэрийн хаяа хүртэл зөвхөн тал нутаг үргэлжилж байв.",
+   "en": "Nothing but steppe stretched to the horizon.",
+   "alt_mn": [],
+   "alt_en": [
+    "Only steppe stretched all the way to the horizon."
+   ],
+   "mn_latin": "Tengeriin khayaa khürtel zövkhön tal nutag ürgeljilj baiv."
+  },
+  {
+   "mn": "Байгаль нуурын эрэг дээрх тосгонууд модон байшинтай.",
+   "en": "The villages on the shore of Lake Baikal have wooden houses.",
+   "alt_mn": [],
+   "alt_en": [
+    "The villages on Lake Baikal's shore have wooden houses."
+   ],
+   "mn_latin": "Baigali nuuryn ereg deerkh tosgonuud modon baishintai."
+  },
+  {
+   "mn": "Бид Москвад хүрэх гэхэд таван өдөр өнгөрсөн байх болно.",
+   "en": "By the time we get to Moscow, five days will have passed.",
+   "alt_mn": [],
+   "alt_en": [
+    "By the time we arrive in Moscow, five days will have gone by."
+   ],
+   "mn_latin": "Bid Moskvad khürekh gekhed tavan ödör öngörsön baikh bolno."
+  },
+  {
+   "mn": "Энэ аяллын хамгийн сайхан дурсамж бол Байгаль нуур дээрх үүрийн гэгээ байлаа.",
+   "en": "The best memory of this trip was the dawn over Lake Baikal.",
+   "alt_mn": [],
+   "alt_en": [
+    "My best memory from this trip was dawn over Lake Baikal."
+   ],
+   "mn_latin": "Ene ayallyn khamgiin saikhan dursamj bol Baigali nuur deerkh üüriin gegee bailaa."
+  },
+  {
+   "mn": "Тайгын доторх жижиг өртөөнүүд үлгэрт гардаг юм шиг харагдана.",
+   "en": "The little stations deep in the taiga look like something out of a fairy tale.",
+   "alt_mn": [],
+   "alt_en": [
+    "The small stations in the middle of the taiga look like they're from a fairy tale."
+   ],
+   "mn_latin": "Taigyn dotorkh jijig örtöönüüd ülgert gardag yum shig kharagdana."
+  },
+  {
+   "mn": "Хойд зүг рүү явах тусам байгалийн төрх эрс өөрчлөгдсөн.",
+   "en": "The farther north we went, the more dramatically the landscape changed.",
+   "alt_mn": [],
+   "alt_en": [
+    "As we went farther north, the landscape changed dramatically."
+   ],
+   "mn_latin": "Khoid züg rüü yavakh tusam baigaliin törkh ers öörchlögdsön."
+  },
+  {
+   "mn": "Аяллынхаа тухай сэтгэгдэл бичихдээ би Говийн нам гүмийг заавал дурдана.",
+   "en": "When I write my review of the trip, I'll definitely mention the silence of the Gobi.",
+   "alt_mn": [],
+   "alt_en": [
+    "When I write a review of the trip, I'll be sure to mention the silence of the Gobi."
+   ],
+   "mn_latin": "Ayallynkhaa tukhai setgegdel bichikhdee bi Goviin nam gümiig zaaval durdana."
+  },
+  {
+   "mn": "Тал дахь адуун сүрэг галт тэрэгтэй уралдаж байгаа юм шиг давхиж байв.",
+   "en": "A herd of horses on the steppe was galloping as if it were racing the train.",
+   "alt_mn": [],
+   "alt_en": [
+    "The horses on the steppe galloped as if they were racing the train."
+   ],
+   "mn_latin": "Tal dakhi aduun süreg galt teregtei uraldaj baigaa yum shig davkhij baiv."
+  },
+  {
+   "mn": "Гэртээ ирсэн даруйдаа би зургуудаа гэр бүлийнхэндээ үзүүлнэ.",
+   "en": "Once I get home, I'll show my photos to my family.",
+   "alt_mn": [
+    "Гэртээ ирмэгцээ би зургуудаа гэр бүлийнхэндээ үзүүлнэ."
+   ],
+   "alt_en": [
+    "As soon as I get home, I'll show my family my photos."
+   ],
+   "mn_latin": "Gertee irsen daruidaa bi zurguudaa ger büliinkhendee üzüülne."
+  }
+ ],
+ "grammar": {
+  "title_en": "Describing where things are: -дахь/-тахь, дээрх and -ын доторх",
+  "title_mn": "Ирээдүй цагийн цагийн өгүүлбэр: when / as soon as / once / by the time + одоо цаг",
+  "explain_en": "To say 'the X in/at Y', Mongolian puts a location form before the noun. -дахь (-дэх after front vowels, following vowel harmony) means 'located in': Говь дахь манхнууд 'the dunes in the Gobi', Улаанбаатар дахь гэр 'a home in Ulaanbaatar'. After names it is usually written as a separate word. The -тахь/-тэх variant goes with stems that take -т in the dative (after в, г, р, с), but in everyday writing you'll mostly see the separate form дахь. For 'on' use дээрх: эрэг дээрх тосгон 'the village on the shore'. For 'inside', use genitive + доторх: вагоны доторх агаар 'the air inside the car', тайгын доторх өртөө 'the station deep in the taiga'. In long descriptions, these let you stack details before a noun the way English uses 'in', 'on' and 'inside' phrases after it.",
+  "explain_mn": "Англи хэлэнд ирээдүйн тухай ярихдаа when, as soon as, once, by the time-аар эхэлсэн хэсэгт will хэрэглэдэггүй, одоо цагийг хэрэглэдэг: As soon as the train reaches Irkutsk, I'll call you (will reach гэж болохгүй). Will зөвхөн гол өгүүлбэрт орно. When нь '-хад/-хдаа', as soon as болон once нь '-магц, -нгуут, -сан даруйдаа' гэсэн утгатай. By the time нь '-х гэхэд' (жишээ нь: хүрэх гэхэд) гэсэн утгатай бөгөөд гол өгүүлбэрт ихэвчлэн will have + V3 орно: By the time we arrive, the sun will have set.",
+  "examples": [
+   {
+    "mn": "Говь дахь шөнө маш хүйтэн байдаг.",
+    "en": "Nights in the Gobi are very cold.",
+    "mn_latin": "Govi dakhi shönö mash khüiten baidag."
+   },
+   {
+    "mn": "Вагоны доторх хүмүүс цонх руу гүйлдэв.",
+    "en": "The people inside the car rushed to the windows.",
+    "mn_latin": "Vagony dotorkh khümüüs tsonkh ruu güildev."
+   },
+   {
+    "mn": "Байгаль нуурт хүрмэгц би зураг авна.",
+    "en": "As soon as we reach Lake Baikal, I'll take pictures.",
+    "mn_latin": "Baigali nuurt khürmegts bi zurag avna."
+   },
+   {
+    "mn": "Бид Улан-Үдэд хүрэх гэхэд нар жаргачихсан байна.",
+    "en": "By the time we get to Ulan-Ude, the sun will have set.",
+    "mn_latin": "Bid Ulan-Üded khürekh gekhed nar jargachikhsan baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Говь ___ элсэн манхнууд гайхамшигтай харагдсан.",
+   "answer": "дахь",
+   "options": [
+    "дахь",
+    "дотор",
+    "дээр",
+    "тэй"
+   ],
+   "translation": "The sand dunes in the Gobi looked magnificent.",
+   "explain_en": "Before a noun, 'in the Gobi' needs the attributive form дахь. Дотор and дээр alone are not attributive, and -тэй means 'with'.",
+   "explain_mn": "Нэр үгийн өмнө байршил заахдаа дахь хэрэглэнэ. Дотор, дээр нь тодотгол болохгүй, -тэй нь хамтын утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Вагоны ___ агаар хэтэрхий халуун байлаа.",
+   "answer": "доторх",
+   "options": [
+    "доторх",
+    "дотроос",
+    "дахь",
+    "дотогш"
+   ],
+   "translation": "The air inside the car was too hot.",
+   "explain_en": "Genitive (вагоны) + доторх means 'the ... inside' and describes the noun. Дотроос means 'from inside', дотогш means 'inward', and дахь doesn't follow a genitive.",
+   "explain_mn": "Харьяалахын тийн ялгал (вагоны) + доторх нь 'дотор байгаа' гэсэн тодотгол болно. Дотроос нь 'дотроос нь гарах', дотогш нь 'дотор руу' гэсэн утгатай, дахь нь -ын/-ий араас ордоггүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Галт тэрэг зогс___ би тавцан дээр гарч агаар салхилна.",
+   "answer": "онгуут",
+   "options": [
+    "онгуут",
+    "сон",
+    "дог",
+    "соор"
+   ],
+   "translation": "As soon as the train stops, I'll go out onto the platform for some fresh air.",
+   "explain_en": "-нгуут (here зогсонгуут) means 'as soon as'. It matches the English time clause with 'as soon as'.",
+   "explain_mn": "-нгуут нь 'тэр даруй' гэсэн утгатай бөгөөд англиар 'as soon as' болно."
+  },
+  {
+   "lang": "en",
+   "text": "As soon as the train ___ Irkutsk, I'll call you.",
+   "answer": "reaches",
+   "options": [
+    "reaches",
+    "will reach",
+    "reached",
+    "reaching"
+   ],
+   "translation": "Галт тэрэг Иркутскт хүрмэгц би танд залгана.",
+   "explain_en": "After 'as soon as', English uses the present simple for future meaning, not 'will'.",
+   "explain_mn": "'As soon as'-ийн араас ирээдүйг одоо цагаар илэрхийлнэ. Will хэрэглэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "By the time we arrive in Moscow, we ___ five days on the train.",
+   "answer": "will have spent",
+   "options": [
+    "will have spent",
+    "spend",
+    "have spent",
+    "spent"
+   ],
+   "translation": "Бид Москвад хүрэх гэхэд галт тэргэнд таван өдрийг өнгөрөөсөн байх болно.",
+   "explain_en": "'By the time' + present in the clause, and the main clause uses the future perfect for something finished before then.",
+   "explain_mn": "'By the time'-тай өгүүлбэрийн гол хэсэгт тухайн мөчөөс өмнө дуусах үйлийг will have + V3-аар илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I'll write a review of the trip once I ___ home.",
+   "answer": "get",
+   "options": [
+    "get",
+    "will get",
+    "got",
+    "getting"
+   ],
+   "translation": "Гэртээ ирсэн даруйдаа аяллын тухай сэтгэгдэл бичнэ.",
+   "explain_en": "'Once' works like 'when' and 'as soon as', so it's followed by the present simple.",
+   "explain_mn": "'Once' нь when, as soon as-тай адил тул араас нь одоо цаг орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarnai",
+   "mn": "За, Эмили, аяллаа эхнээс нь яриач. Юу хамгийн их сэтгэгдэл төрүүлэв?",
+   "en": "So, Emily, tell me about the trip from the beginning. What impressed you the most?",
+   "mn_latin": "Za, Emili, ayallaa ekhnees ni yariach. Yuu khamgiin ikh setgegdel törüülev?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Эхлээд Говь. Говь дахь шөнө тэнгэр одоор дүүрэн байсан. Вагоны доторх гэрлийг унтраагаад л цонхоор харж суусан.",
+   "en": "First, the Gobi. At night the sky over the Gobi was full of stars. I switched off the light in the compartment and just sat looking out the window.",
+   "mn_latin": "Ekhleed Govi. Govi dakhi shönö tenger odoor düüren baisan. Vagony dotorkh gerliig untraagaad l tsonkhoor kharj suusan."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Тал нутаг уйтгартай санагдсан уу? Зарим хүн тэгж ярьдаг.",
+   "en": "Did the steppe feel boring? Some people say so.",
+   "mn_latin": "Tal nutag uitgartai sanagdsan uu? Zarim khün tegj yaridag."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Огт үгүй! Тал дахь адуун сүрэг галт тэрэгтэй уралдаж байгаа юм шиг давхиж байсан.",
+   "en": "Not at all! A herd of horses on the steppe was galloping as if it were racing the train.",
+   "mn_latin": "Ogt ügüi! Tal dakhi aduun süreg galt teregtei uraldaj baigaa yum shig davkhij baisan."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Байгаль нуур ямар байв?",
+   "en": "And what was Lake Baikal like?",
+   "mn_latin": "Baigali nuur yamar baiv?"
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Гайхамшигтай. Галт тэрэг хэдэн цагаар эргийг дагаж явсан. Эрэг дээрх тосгонууд яг үлгэрт гардаг юм шиг.",
+   "en": "Magnificent. The train followed the shore for hours. The villages on the shore were like something out of a fairy tale.",
+   "mn_latin": "Gaikhamshigtai. Galt tereg kheden tsagaar ergiig dagaj yavsan. Ereg deerkh tosgonuud yag ülgert gardag yum shig."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Сэтгэгдлээ хэзээ бичих вэ? Би заавал уншина.",
+   "en": "When are you going to write your review? I definitely want to read it.",
+   "mn_latin": "Setgegdlee khezee bichikh ve? Bi zaaval unshina."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Зургуудаа ангилж дуусмагцаа бичнэ. Энэ долоо хоногийн дотор амжуулна гэж бодож байна.",
+   "en": "As soon as I finish sorting my photos, I'll write it. I think I'll have it done by the end of this week.",
+   "mn_latin": "Zurguudaa angilj duusmagtsaa bichne. Ene doloo khonogiin dotor amjuulna gej bodoj baina."
+  }
+ ],
+ "culture_note": {
+  "en": "The Trans-Mongolian line links Beijing, Ulaanbaatar and Moscow. On the way, the train crosses the Gobi, the central Mongolian steppe and the Siberian taiga. Between Ulan-Ude and Irkutsk it runs along the southern shore of Lake Baikal for several hours, and many travelers say this is the most beautiful part of the whole route.",
+  "mn": "Транс-Монголын төмөр зам Бээжин, Улаанбаатар, Москваг холбодог. Замдаа Говь, Монголын төв хэсгийн тал нутаг, Сибирийн тайгыг дайрч өнгөрдөг. Улан-Үдээс Иркутск хүрэх хооронд галт тэрэг Байгаль нуурын өмнөд эргийг хэдэн цагаар дагаж явдаг бөгөөд олон аялагч үүнийг замын хамгийн үзэсгэлэнтэй хэсэг гэж үздэг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 6,
+  "notes": "Solid lesson with natural Mongolian and English. Fixed a non-existent suffix form, a misspelled verb form, and two fill-in-the-blank items that had more than one correct answer."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "The lesson is mostly solid. I fixed one inaccurate grammar gloss and made 'car' clearer. The intro, title and explanations differ between en and mn on purpose: each language version explains the grammar the learner is studying.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'Хүрэх гэхэд' is one verb only. The general pattern is -х гэхэд."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "en",
+    "why": "In American English, 'car' alone suggests an automobile."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_en",
+    "why": "Same 'car' ambiguity as in the main translation."
+   }
+  ]
+ }
+}

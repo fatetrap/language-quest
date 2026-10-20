@@ -1,0 +1,480 @@
+{
+ "intro_en": "You will learn to complain politely about a noisy, dirty or broken hotel room and ask for a fix or a refund. You will also describe results with -чихсан/-сан байна and make polite requests with -аач/-ээч.",
+ "intro_mn": "Та шуугиантай, бохир эсвэл эвдэрсэн өрөөний талаар эелдгээр гомдол гаргаж, засвар эсвэл мөнгө буцаалт хүсэж сурна. Мөн -чихсан/-сан байна хэлбэрээр үр дүнг дүрсэлж, -аач/-ээч-ээр эелдэг хүсэлт тавьж сурна.",
+ "vocab": [
+  {
+   "mn": "ресепшн",
+   "en": "reception",
+   "pos": "noun",
+   "example_mn": "Ресепшн дээр хүн байна уу?",
+   "example_en": "Is anyone at reception?",
+   "mn_latin": "ryesyepshn"
+  },
+  {
+   "mn": "картан түлхүүр",
+   "en": "key card",
+   "pos": "noun",
+   "example_mn": "Миний картан түлхүүр ажиллахгүй байна.",
+   "example_en": "My key card isn't working.",
+   "mn_latin": "kartan tülkhüür"
+  },
+  {
+   "mn": "агааржуулагч",
+   "en": "air conditioning",
+   "pos": "noun",
+   "example_mn": "Өрөөний агааржуулагч эвдэрчихсэн байна.",
+   "example_en": "The air conditioning in the room is broken.",
+   "mn_latin": "agaarjuulagch"
+  },
+  {
+   "mn": "халаалт",
+   "en": "heating",
+   "pos": "noun",
+   "example_mn": "Халаалт огт халахгүй байна.",
+   "example_en": "The heating isn't warm at all.",
+   "mn_latin": "khalaalt"
+  },
+  {
+   "mn": "халуун ус",
+   "en": "hot water",
+   "pos": "noun",
+   "example_mn": "Өглөөнөөс хойш халуун ус гараагүй байна.",
+   "example_en": "There has been no hot water since morning.",
+   "mn_latin": "khaluun us"
+  },
+  {
+   "mn": "алчуур",
+   "en": "towel",
+   "pos": "noun",
+   "example_mn": "Алчуур нь бохир байсан.",
+   "example_en": "The towel was dirty.",
+   "mn_latin": "alchuur"
+  },
+  {
+   "mn": "шуугиан",
+   "en": "noise",
+   "pos": "noun",
+   "example_mn": "Шөнөжин гудамжнаас шуугиан гарлаа.",
+   "example_en": "There was noise from the street all night.",
+   "mn_latin": "shuugian"
+  },
+  {
+   "mn": "мөнгө буцаалт",
+   "en": "refund",
+   "pos": "noun",
+   "example_mn": "Би мөнгө буцаалт авмаар байна.",
+   "example_en": "I would like a refund.",
+   "mn_latin": "möngö butsaalt"
+  },
+  {
+   "mn": "гомдол",
+   "en": "complaint",
+   "pos": "noun",
+   "example_mn": "Би гомдол гаргах гэсэн юм.",
+   "example_en": "I wanted to make a complaint.",
+   "mn_latin": "gomdol"
+  },
+  {
+   "mn": "солих",
+   "en": "to change, replace",
+   "pos": "verb",
+   "example_mn": "Өрөөгөө солиод өгөөч.",
+   "example_en": "Please change my room for me.",
+   "mn_latin": "solikh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Уучлаарай, манай өрөөний халуун ус тасарчихсан байна.",
+   "en": "Excuse me, the hot water in our room has gone out.",
+   "alt_mn": [
+    "Уучлаарай, бидний өрөөнд халуун ус тасарчихсан байна."
+   ],
+   "alt_en": [
+    "Excuse me, the hot water in our room has been cut off."
+   ],
+   "mn_latin": "Uuchlaarai, manai öröönii khaluun us tasarchikhsan baina."
+  },
+  {
+   "mn": "Агааржуулагч эвдэрчихсэн байна, засуулаач.",
+   "en": "The air conditioning is broken, please have it fixed.",
+   "alt_mn": [],
+   "alt_en": [
+    "The air conditioning has broken down, could you get it repaired?"
+   ],
+   "mn_latin": "Agaarjuulagch evderchikhsen baina, zasuulaach."
+  },
+  {
+   "mn": "Картан түлхүүр маань ажиллахаа больчихсон байна.",
+   "en": "My key card has stopped working.",
+   "alt_mn": [],
+   "alt_en": [
+    "My key card doesn't work anymore."
+   ],
+   "mn_latin": "Kartan tülkhüür maani ajillakhaa bolichikhson baina."
+  },
+  {
+   "mn": "Өрөө бохир байна, цэвэрлэгчийг дуудаач.",
+   "en": "The room is dirty, please call a cleaner.",
+   "alt_mn": [
+    "Өрөө бохир байна, цэвэрлэгчийг дуудаарай."
+   ],
+   "alt_en": [
+    "The room is dirty, could you call housekeeping?"
+   ],
+   "mn_latin": "Öröö bokhir baina, tseverlegchiig duudaach."
+  },
+  {
+   "mn": "Шөнө шуугиан их байсан болохоор унтаж чадсангүй.",
+   "en": "There was so much noise at night that I couldn't sleep.",
+   "alt_mn": [],
+   "alt_en": [
+    "It was so noisy at night that I couldn't sleep."
+   ],
+   "mn_latin": "Shönö shuugian ikh baisan bolokhoor untaj chadsangüi."
+  },
+  {
+   "mn": "Нэмэлт алчуур авчирч өгөөч.",
+   "en": "Please bring me some extra towels.",
+   "alt_mn": [
+    "Нэмэлт алчуур авчирч өгнө үү."
+   ],
+   "alt_en": [
+    "Could you bring me extra towels?"
+   ],
+   "mn_latin": "Nemelt alchuur avchirch ögööch."
+  },
+  {
+   "mn": "Халаалт ажиллахгүй байгаа учраас өрөө маш хүйтэн байна.",
+   "en": "The room is very cold because the heating isn't working.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because the heating doesn't work, the room is very cold."
+   ],
+   "mn_latin": "Khalaalt ajillakhgüi baigaa uchraas öröö mash khüiten baina."
+  },
+  {
+   "mn": "Надад өөр, нам гүм өрөө өгөөч.",
+   "en": "Please give me a different, quiet room.",
+   "alt_mn": [
+    "Надад өөр нам гүм өрөө өгөөч."
+   ],
+   "alt_en": [
+    "Could you give me another, quieter room?"
+   ],
+   "mn_latin": "Nadad öör, nam güm öröö ögööch."
+  },
+  {
+   "mn": "Цонх эвдэрчихсэн, салхи орж байна.",
+   "en": "The window is broken, and wind is coming in.",
+   "alt_mn": [
+    "Цонх хагараад салхи орж байна."
+   ],
+   "alt_en": [
+    "The window has broken and the wind is coming in."
+   ],
+   "mn_latin": "Tsonkh evderchikhsen, salkhi orj baina."
+  },
+  {
+   "mn": "Захиалгын төлбөрийг буцааж өгөөч.",
+   "en": "Please give me a refund for the booking.",
+   "alt_mn": [
+    "Захиалгын мөнгийг буцааж өгнө үү."
+   ],
+   "alt_en": [
+    "Could you refund the price of the booking?"
+   ],
+   "mn_latin": "Zakhialgyn tölböriig butsaaj ögööch."
+  },
+  {
+   "mn": "Менежертэй уулзаж болох уу? Би гомдол гаргамаар байна.",
+   "en": "May I see the manager? I'd like to make a complaint.",
+   "alt_mn": [],
+   "alt_en": [
+    "Could I speak to the manager? I want to file a complaint."
+   ],
+   "mn_latin": "Myenyejyertei uulzaj bolokh uu? Bi gomdol gargamaar baina."
+  },
+  {
+   "mn": "Ширээн дээр хоолны үлдэгдэл үлдчихсэн байсан.",
+   "en": "Leftover food had been left on the table.",
+   "alt_mn": [
+    "Ширээн дээр хоолны үлдэгдэл үлдсэн байсан."
+   ],
+   "alt_en": [
+    "There was leftover food still on the table."
+   ],
+   "mn_latin": "Shireen deer khoolny üldegdel üldchikhsen baisan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Resulting states (-чихсан/-сан байна) and polite requests (-аач/-ээч)",
+  "title_mn": "Үр дүнтэй байдал (-чихсан/-сан байна) ба эелдэг хүсэлт (-аач/-ээч)",
+  "explain_en": "To say something has ended up in a certain state, add -чихсан/-чихсэн/-сан/-сэн + байна to the verb stem: халуун ус тасарчихсан байна = 'the hot water has gone out (and is still out)'. -чих adds a sense of 'completely, already'. Vowel harmony applies to all of these: -чихсан/-чихсэн/-чихсон/-чихсөн and -сан/-сэн/-сон/-сөн (эвдэрчихсэн, орсон). For polite requests, add -аач/-ээч/-ооч/-өөч to the verb stem: засуулаач 'please have it fixed', өгөөч 'please give'. It is softer than a bare command. For extra politeness use -на уу forms like өгнө үү. It corresponds to English 'Could you...?' or 'Please...'.",
+  "explain_mn": "Монгол хэлэнд үйл үгийн үндсэнд -чихсан/-сан (-сэн, -сон, -сөн) байна нэмбэл үйлдлийн үр дүнд бий болсон, одоо ч үргэлжилж буй байдлыг илэрхийлнэ: халуун ус тасарчихсан байна = халуун ус тасарсан, одоо ч байхгүй. -чих нь 'бүрмөсөн, аль хэдийн' гэсэн утга нэмдэг. Эелдэг хүсэлтийг үйл үгийн үндсэнд -аач/-ээч/-ооч/-өөч залгаж хэлнэ: засуулаач, өгөөч. Хүсэлт нь шууд тушаалаас зөөлөн сонсогдоно. Илүү эелдэг болгохыг хүсвэл 'өгнө үү' гэх мэт -на уу хэлбэрийг хэрэглэнэ. Англиар 'Could you...?', 'Please...' гэсэнтэй дүйнэ.",
+  "examples": [
+   {
+    "mn": "Халуун ус тасарчихсан байна.",
+    "en": "The hot water has gone out.",
+    "mn_latin": "Khaluun us tasarchikhsan baina."
+   },
+   {
+    "mn": "Түлхүүр гэмтчихсэн байна.",
+    "en": "The key has been damaged.",
+    "mn_latin": "Tülkhüür gemtchikhsen baina."
+   },
+   {
+    "mn": "Дулаан хөнжил авчирч өгөөч.",
+    "en": "Please bring me a warm blanket.",
+    "mn_latin": "Dulaan khönjil avchirch ögööch."
+   },
+   {
+    "mn": "Өрөөг арай хурдан цэвэрлээч.",
+    "en": "Please clean the room a bit faster.",
+    "mn_latin": "Öröög arai khurdan tseverleech."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Агааржуулагч эвдэр___ байна.",
+   "answer": "чихсэн",
+   "options": [
+    "чихсэн",
+    "чихсан",
+    "аач",
+    "ээч"
+   ],
+   "translation": "The air conditioning is broken (has broken down).",
+   "explain_en": "Эвдэр- has front vowels, so it takes -чихсэн: эвдэрчихсэн байна = it has broken and is still broken.",
+   "explain_mn": "Эвдэр- нь эм эгшигтэй тул -чихсэн залгана: эвдэрчихсэн байна = эвдэрсэн, одоо ч эвдэрсэн хэвээр."
+  },
+  {
+   "lang": "mn",
+   "text": "Өрөөгөө солиод өг___.",
+   "answer": "өөч",
+   "options": [
+    "өөч",
+    "аач",
+    "сан",
+    "лаа"
+   ],
+   "translation": "Please change my room for me.",
+   "explain_en": "Өг- takes the polite request ending -өөч (өгөөч), softening the command.",
+   "explain_mn": "Өг- үгийн дараа эелдэг хүсэлтийн -өөч (өгөөч) орно. Англиар 'Please...' гэсэнтэй дүйнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Халаалт байхгүй учраас өрөө маш ___ байна.",
+   "answer": "хүйтэн",
+   "options": [
+    "хүйтэн",
+    "бохир",
+    "шуугиантай",
+    "шинэ"
+   ],
+   "translation": "The room is very cold because there is no heating.",
+   "explain_en": "No heating means the room is cold: хүйтэн.",
+   "explain_mn": "Халаалт байхгүй бол өрөө хүйтэн байна. Утгаар нь сонгоно."
+  },
+  {
+   "lang": "en",
+   "text": "The hot water ___ out since this morning.",
+   "answer": "has been",
+   "options": [
+    "has been",
+    "is",
+    "was",
+    "goes"
+   ],
+   "translation": "Өглөөнөөс хойш халуун ус тасарчихсан байна.",
+   "explain_en": "'Since this morning' needs the present perfect: has been out, which matches the resulting state of -чихсан байна.",
+   "explain_mn": "'Since this morning' гэсэн үед одоогийн төгс цаг (has been) хэрэглэнэ. Монгол хэлний -чихсан байна-тай адил үр дүнгийн байдлыг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Could you ___ me an extra towel, please?",
+   "answer": "bring",
+   "options": [
+    "bring",
+    "brings",
+    "brought",
+    "bringing"
+   ],
+   "translation": "Надад нэмэлт алчуур авчирч өгөөч.",
+   "explain_en": "After 'Could you' use the base verb: bring.",
+   "explain_mn": "'Could you' дараа үйл үгийн үндсэн хэлбэр (bring) ордог."
+  },
+  {
+   "lang": "en",
+   "text": "I would like a ___ because the room was dirty.",
+   "answer": "refund",
+   "options": [
+    "refund",
+    "reception",
+    "towel",
+    "noise"
+   ],
+   "translation": "Өрөө бохир байсан учраас би мөнгө буцаалт авмаар байна.",
+   "explain_en": "A refund is money paid back to you, for example when the service was poor.",
+   "explain_mn": "Refund гэдэг нь танд буцааж олгох мөнгө, жишээ нь үйлчилгээ муу байсан үед. Мөнгө буцаалт гэсэн үг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Сайн байна уу. Би 305 тоот өрөөнөөс залгаж байна.",
+   "en": "Hello. I'm calling from room 305.",
+   "mn_latin": "Sain baina uu. Bi 305 toot öröönöös zalgaj baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Сайн байна уу, ресепшн байна. Юугаар туслах вэ?",
+   "en": "Hello, this is reception. How can I help?",
+   "mn_latin": "Sain baina uu, ryesyepshn baina. Yuugaar tuslakh ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Уучлаарай, халуун ус тасарчихсан байна. Мөн агааржуулагч ч эвдэрчихсэн байна.",
+   "en": "Sorry, the hot water has gone out. And the air conditioning is broken too.",
+   "mn_latin": "Uuchlaarai, khaluun us tasarchikhsan baina. Mön agaarjuulagch ch evderchikhsen baina."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Үнэхээр харамсалтай байна. Засварчин явуулъя.",
+   "en": "I'm really sorry. We'll send a technician.",
+   "mn_latin": "Ünekheer kharamsaltai baina. Zasvarchin yavuulya."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Баярлалаа. Өчигдөр шөнө шуугиан их байсан, өөр нам гүм өрөө өгөөч.",
+   "en": "Thank you. Last night was very noisy; please give me a quieter room.",
+   "mn_latin": "Bayarlalaa. Öchigdör shönö shuugian ikh baisan, öör nam güm öröö ögööch."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тийм ээ, 412 тоот өрөө чөлөөтэй байна. Картан түлхүүрийг нь шинэчилж өгье.",
+   "en": "Yes, room 412 is free. I'll update the key card for you.",
+   "mn_latin": "Tiim ee, 412 toot öröö chölöötei baina. Kartan tülkhüüriig ni shinechilj ögiye."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тэгээд өнөөдрийн төлбөрийг буцааж өгөөч.",
+   "en": "And please refund today's payment.",
+   "mn_latin": "Tegeed önöödriin tölböriig butsaaj ögööch."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Менежертэйгээ ярьж, танд дахин мэдэгдье.",
+   "en": "I'll talk to the manager and let you know.",
+   "mn_latin": "Myenyejyerteigee yarij, tand dakhin medegdiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, people often complain indirectly and politely, starting with 'Уучлаарай' (Excuse me) before stating the problem. Heating is especially important in Ulaanbaatar winters, which can reach -30°C, so a broken heater is a serious issue. In larger hotels you can ask for the manager (менежер) if reception cannot solve it.",
+  "mn": "Монголд гомдлоо шууд бус, эелдгээр илэрхийлж, асуудлаа хэлэхээс өмнө «Уучлаарай» гэж эхэлдэг. Улаанбаатарын өвөл -30 хэм хүртэл хүйтэрдэг тул халаалт эвдэрсэн нь ноцтой асуудал болно. Томоохон зочид буудалд ресепшн шийдэж чадахгүй бол менежертэй уулзаж болно."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 12,
+  "notes": "Content mostly good, but the Mongolian grammar explanation was written in English-grammar terms and the harmony claims and a few blanks/examples are wrong."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "Fixed the polite request ending (-ооч), a broken blank, unnatural Mongolian phrasings, an English tense item, and a wrong grammar term.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 3,
+    "field": "example_mn",
+    "why": "'Халаалт дулаахан биш' is unnatural; the natural phrasing is 'халаалт халахгүй'"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "'үнийн мөнгийг' is redundant and awkward"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The ending is -ооч, not -оч. The en text now also includes the English equivalent, matching mn."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "-оч corrected to -ооч"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "'угтвар' means prefix; the correct term is 'эм эгшиг'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "text",
+    "why": "'өгө' + 'өөч' would give the misspelling 'өгөөөч'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "text",
+    "why": "kept; answer changed below"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "answer",
+    "why": "'has gone out since this morning' is unnatural; the natural form is 'has been out since'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "match the new answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_en",
+    "why": "match the new answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "match the new answer"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_en",
+    "why": "Accuracy: refunds are not only given for poor service"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Keeps en and mn consistent"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'төлбөрийн мөнгийг' is redundant"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "The subject must be nominative: 'ресепшн шийдэж', not 'ресепшнд'"
+   }
+  ]
+ }
+}

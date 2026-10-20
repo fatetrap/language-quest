@@ -1,0 +1,430 @@
+{
+ "intro_en": "Follow a family in Ulaanbaatar through a month-long zero-waste challenge. You'll review recycling words, practice telling a story with -хдаа/-хдээ and -хаараа/-хээрээ, and learn when English uses \"even if\" and when it uses \"even though.\"",
+ "intro_mn": "Улаанбаатарын нэгэн гэр бүлийн нэг сарын хоггүй амьдралын сорилтыг дагаж үзнэ. Дахин боловсруулалттай холбоотой үгсээ давтаж, -хдаа/-хдээ, -хаараа/-хээрээ нөхцөлөөр түүх ярьж дадлагажина. Мөн англи хэлний \"even if\", \"even though\" хоёрын ялгааг сурна.",
+ "vocab": [
+  {
+   "mn": "хог хаягдал",
+   "en": "waste",
+   "pos": "noun",
+   "example_mn": "Бид сард хэр их хог хаягдал гаргадгаа тоолсон.",
+   "example_en": "We counted how much waste we produce in a month.",
+   "mn_latin": "khog khayagdal"
+  },
+  {
+   "mn": "дахин боловсруулах",
+   "en": "to recycle",
+   "pos": "verb",
+   "example_mn": "Хуванцар савыг ялгаж, дахин боловсруулахаар өгдөг.",
+   "example_en": "We sort plastic containers and send them to be recycled.",
+   "mn_latin": "dakhin bolovsruulakh"
+  },
+  {
+   "mn": "бууруулах",
+   "en": "to reduce",
+   "pos": "verb",
+   "example_mn": "Бид хуванцрын хэрэглээгээ бууруулахыг зорьсон.",
+   "example_en": "We aimed to reduce our plastic use.",
+   "mn_latin": "buuruulakh"
+  },
+  {
+   "mn": "хэмнэх",
+   "en": "to save, to conserve",
+   "pos": "verb",
+   "example_mn": "Ус, цахилгаанаа хэмнэх нь чухал.",
+   "example_en": "Saving water and electricity is important.",
+   "mn_latin": "khemnekh"
+  },
+  {
+   "mn": "сорилт",
+   "en": "challenge",
+   "pos": "noun",
+   "example_mn": "Энэ сорилт бидний бодсоноос хэцүү байлаа.",
+   "example_en": "This challenge was harder than we thought.",
+   "mn_latin": "sorilt"
+  },
+  {
+   "mn": "савлагаа",
+   "en": "packaging",
+   "pos": "noun",
+   "example_mn": "Энэ жигнэмэгийн савлагаа хэтэрхий их юм.",
+   "example_en": "This cookie packaging is way too much.",
+   "mn_latin": "savlagaa"
+  },
+  {
+   "mn": "дахин ашиглах",
+   "en": "to reuse",
+   "pos": "verb",
+   "example_mn": "Бид шилэн лонхоо угааж, дахин ашигладаг.",
+   "example_en": "We wash our glass bottles and reuse them.",
+   "mn_latin": "dakhin ashiglakh"
+  },
+  {
+   "mn": "бордоо",
+   "en": "compost",
+   "pos": "noun",
+   "example_mn": "Хүнсний хаягдлаа бордоо болгосон.",
+   "example_en": "We turned our food scraps into compost.",
+   "mn_latin": "bordoo"
+  },
+  {
+   "mn": "нэг удаагийн",
+   "en": "single-use",
+   "pos": "adjective",
+   "example_mn": "Би нэг удаагийн аяга авахаа больсон.",
+   "example_en": "I stopped taking single-use cups.",
+   "mn_latin": "neg udaagiin"
+  },
+  {
+   "mn": "зуршил",
+   "en": "habit",
+   "pos": "noun",
+   "example_mn": "Шинэ зуршил тогтооход цаг хэрэгтэй.",
+   "example_en": "It takes time to build a new habit.",
+   "mn_latin": "zurshil"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бид энэ сорилтыг эхлэхдээ ямар хэцүү болохыг мэдээгүй.",
+   "en": "When we started this challenge, we didn't know how hard it would be.",
+   "alt_mn": [
+    "Энэ сорилтыг эхлэхдээ бид ямар хэцүү болохыг мэдээгүй."
+   ],
+   "alt_en": [
+    "We had no idea how hard it would be when we started this challenge."
+   ],
+   "mn_latin": "Bid ene soriltyg ekhlekhdee yamar khetsüü bolokhyg medeegüi."
+  },
+  {
+   "mn": "Дэлгүүр явахдаа ээж үргэлж даавуун цүнх, шилэн сав авч явдаг байсан.",
+   "en": "When she went to the store, Mom always took cloth bags and glass jars.",
+   "alt_mn": [
+    "Ээж дэлгүүр явахдаа үргэлж даавуун цүнх, шилэн сав авч явдаг байсан."
+   ],
+   "alt_en": [
+    "Mom always took cloth bags and glass jars when she went shopping."
+   ],
+   "mn_latin": "Delgüür yavakhdaa eej ürgelj daavuun tsünkh, shilen sav avch yavdag baisan."
+  },
+  {
+   "mn": "Эхний долоо хоногийн хогоо жинлэхээрээ бид гайхсан.",
+   "en": "When we weighed the first week's trash, we were surprised.",
+   "alt_mn": [
+    "Эхний долоо хоногийн хогоо жинлээд бид гайхсан."
+   ],
+   "alt_en": [
+    "We were surprised when we weighed our trash from the first week."
+   ],
+   "mn_latin": "Ekhnii doloo khonogiin khogoo jinlekheeree bid gaikhsan."
+  },
+  {
+   "mn": "Хүүхдүүд сургуульдаа явахдаа нэг удаагийн савлагаагүй хоол авч явдаг болсон.",
+   "en": "The kids started bringing lunch without single-use packaging when they went to school.",
+   "alt_mn": [],
+   "alt_en": [
+    "The kids began taking lunch to school without single-use packaging."
+   ],
+   "mn_latin": "Khüükhdüüd surguulidaa yavakhdaa neg udaagiin savlagaagüi khool avch yavdag bolson."
+  },
+  {
+   "mn": "Савлагаагүй бараа хэрэгтэй болохоороо бид Нарантуул зах руу явдаг байлаа.",
+   "en": "Whenever we needed unpackaged goods, we went to Narantuul Market.",
+   "alt_mn": [],
+   "alt_en": [
+    "When we needed products without packaging, we went to Narantuul Market."
+   ],
+   "mn_latin": "Savlagaagüi baraa kheregtei bolokhooroo bid Narantuul zakh ruu yavdag bailaa."
+  },
+  {
+   "mn": "Хоол хийхдээ бид хүнсний ногооны хальсыг бордоонд хийдэг байсан.",
+   "en": "When we cooked, we put the vegetable peels in the compost.",
+   "alt_mn": [
+    "Бид хоол хийхдээ хүнсний ногооны хальсыг бордоонд хийдэг байсан."
+   ],
+   "alt_en": [
+    "While cooking, we put the vegetable peels in the compost."
+   ],
+   "mn_latin": "Khool khiikhdee bid khünsnii nogoony khalisyg bordoond khiideg baisan."
+  },
+  {
+   "mn": "Зуршлаа өөрчлөхөөрөө бид хог хаягдлаа бараг тал хувиар бууруулсан.",
+   "en": "Once we changed our habits, we cut our waste almost in half.",
+   "alt_mn": [],
+   "alt_en": [
+    "When we changed our habits, we reduced our waste by almost half."
+   ],
+   "mn_latin": "Zurshlaa öörchlökhööröö bid khog khayagdlaa barag tal khuviar buuruulsan."
+  },
+  {
+   "mn": "Хэдийгээр бүтэн сар хоггүй амьдарч чадаагүй ч бид их зүйл сурсан.",
+   "en": "Even though we couldn't live completely waste-free for the whole month, we learned a lot.",
+   "alt_mn": [
+    "Бүтэн сар хоггүй амьдарч чадаагүй ч бид их зүйл сурсан."
+   ],
+   "alt_en": [
+    "Although we couldn't go fully waste-free for the month, we learned a lot."
+   ],
+   "mn_latin": "Khediigeer büten sar khoggüi amidarch chadaagüi ch bid ikh züil sursan."
+  },
+  {
+   "mn": "Илүү үнэтэй байсан ч гэсэн бид дахин ашиглах савыг сонгоно.",
+   "en": "Even if it's more expensive, we'll choose reusable containers.",
+   "alt_mn": [
+    "Илүү үнэтэй байсан ч бид дахин ашиглах савыг сонгоно."
+   ],
+   "alt_en": [
+    "We'll choose reusable containers even if they cost more."
+   ],
+   "mn_latin": "Ilüü ünetei baisan ch gesen bid dakhin ashiglakh savyg songono."
+  },
+  {
+   "mn": "Аав ажилдаа явахдаа машин биш автобусаар явж, шатахуун хэмнэдэг болсон.",
+   "en": "Dad started taking the bus to work instead of the car, and saved fuel.",
+   "alt_mn": [],
+   "alt_en": [
+    "To save fuel, Dad started taking the bus to work instead of driving."
+   ],
+   "mn_latin": "Aav ajildaa yavakhdaa mashin bish avtobusaar yavj, shatakhuun khemnedeg bolson."
+  },
+  {
+   "mn": "Сорилтоо дуусгахдаа манай гэр бүл шинэ зуршилтай болсон байлаа.",
+   "en": "By the time we finished the challenge, our family had formed new habits.",
+   "alt_mn": [],
+   "alt_en": [
+    "When we finished the challenge, our family had picked up new habits."
+   ],
+   "mn_latin": "Soriltoo duusgakhdaa manai ger bül shine zurshiltai bolson bailaa."
+  },
+  {
+   "mn": "Хогоо ялгаж эхлэхээрээ бид хэр их хуванцар хэрэглэдгээ ойлгосон.",
+   "en": "Once we started sorting our trash, we realized how much plastic we used.",
+   "alt_mn": [],
+   "alt_en": [
+    "When we began sorting our trash, we saw how much plastic we were using."
+   ],
+   "mn_latin": "Khogoo yalgaj ekhlekheeree bid kher ikh khuvantsar kheregledgee oilgoson."
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling a story with -хдаа/-хдээ and -хаараа/-хээрээ",
+  "title_mn": "-хдаа/-хдээ, -хаараа/-хээрээ нөхцөлөөр түүх ярих нь",
+  "explain_en": "Both endings attach to a verb and link it to the main clause. The final -аа/-ээ is reflexive, so the subject is usually the same in both parts. -хдаа/-хдээ/-хдоо/-хдөө means \"when/while doing\": the two actions happen in the same time frame (Дэлгүүр явахдаа цүнх авдаг = When I go to the store, I take a bag). -хаараа/-хээрээ/-хоороо/-хөөрөө means \"once/whenever/as soon as\": the first action comes first, and the main clause is its result or reaction (Хогоо жинлэхээрээ гайхсан = When we weighed our trash, we were surprised). In a story, ask yourself: is it background happening at the same time (-хдаа), or a trigger with a result (-хаараа)? English contrast: \"even though\" introduces a real fact (хэдийгээр ... ч), while \"even if\" introduces a possible or imagined situation (... байсан ч гэсэн).",
+  "explain_mn": "Хоёр нөхцөл хоёулаа үйл үгт залгаж, гол өгүүлбэртэй холбоно. Төгсгөлийн -аа/-ээ нь ёсон харьяалал тул хоёр хэсгийн үйлдэгч ихэвчлэн ижил байна. -хдаа/-хдээ/-хдоо/-хдөө нь \"...хийх үедээ\" гэсэн утгатай. Хоёр үйл нэг цаг хугацаанд болно (Дэлгүүр явахдаа цүнх авдаг = When I go to the store, I take a bag). -хаараа/-хээрээ/-хоороо/-хөөрөө нь \"...хийнгүүт, ...хийх болгондоо\" гэсэн утгатай. Эхний үйл түрүүлж болж, гол өгүүлбэр нь түүний үр дүн буюу хариу үйлдэл болно (Хогоо жинлэхээрээ гайхсан = When we weighed our trash, we were surprised). Түүх ярихдаа энэ нь зэрэг болж буй дэвсгэр үйл үү (-хдаа), эсвэл үр дүнд хүргэсэн шалтгаан уу (-хаараа) гэдгийг бодоорой. Англи хэлний ялгаа: \"even though\" нь бодит баримтыг илэрхийлнэ (хэдийгээр ... ч), \"even if\" нь болж магадгүй, таамаг нөхцөлийг илэрхийлнэ (... байсан ч гэсэн).",
+  "examples": [
+   {
+    "mn": "Хоол хийхдээ бид хальсыг бордоонд хийдэг байсан.",
+    "en": "When we cooked, we put the peels in the compost.",
+    "mn_latin": "Khool khiikhdee bid khalisyg bordoond khiideg baisan."
+   },
+   {
+    "mn": "Хогоо жинлэхээрээ бид гайхсан.",
+    "en": "When we weighed our trash, we were surprised.",
+    "mn_latin": "Khogoo jinlekheeree bid gaikhsan."
+   },
+   {
+    "mn": "Хэдийгээр хэцүү байсан ч бид бууж өгөөгүй.",
+    "en": "Even though it was hard, we didn't give up.",
+    "mn_latin": "Khediigeer khetsüü baisan ch bid buuj ögöögüi."
+   },
+   {
+    "mn": "Хэцүү байсан ч гэсэн бид дахин оролдоно.",
+    "en": "Even if it's hard, we'll try again.",
+    "mn_latin": "Khetsüü baisan ch gesen bid dakhin oroldono."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Бид дэлгүүр ___ даавуун цүнхээ мартдаггүй.",
+   "answer": "явахдаа",
+   "options": [
+    "явахдаа",
+    "явахдээ",
+    "явсандаа",
+    "явахаас"
+   ],
+   "translation": "When we go to the store, we never forget our cloth bags.",
+   "explain_en": "The two actions happen in the same time frame (going to the store / not forgetting bags), so use -хдаа. The stem явах has back vowels, so vowel harmony requires -хдаа, not -хдээ.",
+   "explain_mn": "Дэлгүүр явах, цүнхээ мартахгүй байх нь нэг цаг хугацаанд болж байгаа тул -хдаа нөхцөл тохирно. \"Яв\" эр үг учраас -хдээ биш -хдаа гэж бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хогоо ялгаж ___ бид хуванцрыг их хэрэглэдгээ ойлгосон.",
+   "answer": "эхлэхээрээ",
+   "options": [
+    "эхлэхээрээ",
+    "эхлэхаараа",
+    "эхлэхийг",
+    "эхлэхээс"
+   ],
+   "translation": "Once we started sorting our trash, we realized we used a lot of plastic.",
+   "explain_en": "Starting to sort the trash is the trigger, and realizing is the result, so use -хээрээ (\"once/as soon as\"). эхлэх has front vowels, so it takes -хээрээ, not -хаараа.",
+   "explain_mn": "Хог ялгаж эхэлсний үр дүнд ойлгосон тул -хээрээ нөхцөл тохирно. \"Эхлэх\" эм үг учраас -хаараа биш -хээрээ гэж бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид усаа ___ зорьж, шүдээ угаахдаа цоргоо хаадаг болсон.",
+   "answer": "хэмнэхийг",
+   "options": [
+    "хэмнэхийг",
+    "боловсруулахыг",
+    "хаяхыг",
+    "савлахыг"
+   ],
+   "translation": "We tried to save water and started turning off the tap while brushing our teeth.",
+   "explain_en": "With water and electricity, \"to save/conserve\" is хэмнэх. Боловсруулах (to process/recycle) is used for materials, not for water.",
+   "explain_mn": "Ус, цахилгааныг \"хэмнэх\" гэж хэлдэг. \"Боловсруулах\" нь хог, материалд хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ it rained all day, we still took the bottles to the recycling center.",
+   "answer": "Even though",
+   "options": [
+    "Even though",
+    "Even if",
+    "Unless",
+    "In case"
+   ],
+   "translation": "Өдөржин бороо орсон ч бид лонхнуудаа дахин боловсруулах цэг рүү аваачсан.",
+   "explain_en": "The rain really happened, so this is a real fact. Use \"even though.\"",
+   "explain_mn": "Бороо үнэхээр орсон, өөрөөр хэлбэл бодит баримт учраас \"even though\" хэрэглэнэ. \"Even if\" нь таамаг нөхцөлд хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "We'll keep the challenge going ___ it gets difficult.",
+   "answer": "even if",
+   "options": [
+    "even if",
+    "even though",
+    "because",
+    "so that"
+   ],
+   "translation": "Хэцүү болсон ч гэсэн бид сорилтоо үргэлжлүүлнэ.",
+   "explain_en": "We don't know yet whether it will get difficult. That makes it a possible situation, so use \"even if.\"",
+   "explain_mn": "Хэцүү болох эсэх нь одоогоор тодорхойгүй, таамаг нөхцөл учраас \"even if\" тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "We tried to ___ the amount of plastic we bought each week.",
+   "answer": "reduce",
+   "options": [
+    "reduce",
+    "recycle",
+    "compost",
+    "reuse"
+   ],
+   "translation": "Бид долоо хоног бүр худалдаж авдаг хуванцрынхаа хэмжээг бууруулахыг хичээсэн.",
+   "explain_en": "You reduce an amount. You recycle, compost, or reuse objects, not amounts.",
+   "explain_mn": "\"The amount\" (хэмжээ)-тай \"reduce\" (бууруулах) хамт хэрэглэгдэнэ. \"Recycle, reuse\" нь эд зүйлд хэрэглэгдэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Номин",
+   "mn": "Сорилт чинь хэр болсон бэ? Бүтэн сар хоггүй амьдарсан уу?",
+   "en": "So how did your challenge go? Did you live waste-free for a whole month?",
+   "mn_latin": "Sorilt chini kher bolson be? Büten sar khoggüi amidarsan uu?"
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Бүрэн биш л дээ. Гэхдээ эхний долоо хоногийн хогоо жинлэхээрээ бид үнэхээр цочирдсон.",
+   "en": "Not completely. But when we weighed our trash from the first week, we were really shocked.",
+   "mn_latin": "Büren bish l dee. Gekhdee ekhnii doloo khonogiin khogoo jinlekheeree bid ünekheer tsochirdson."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Тэгээд яасан бэ?",
+   "en": "So what did you do?",
+   "mn_latin": "Tegeed yaasan be?"
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Дэлгүүр явахдаа шилэн сав, даавуун цүнх авч явдаг болсон. Хоол хийхдээ хальсаа бордоонд хийдэг болсон.",
+   "en": "We started taking glass jars and cloth bags when we went shopping. And when we cooked, we put the peels in the compost.",
+   "mn_latin": "Delgüür yavakhdaa shilen sav, daavuun tsünkh avch yavdag bolson. Khool khiikhdee khalisaa bordoond khiideg bolson."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Хүүхдүүд чинь дургүйцээгүй юу?",
+   "en": "Didn't the kids complain?",
+   "mn_latin": "Khüükhdüüd chini durgüitseegüi yuu?"
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Эхэндээ дургүйцсэн. Хэдийгээр хэцүү байсан ч одоо тэд өөрсдөө хогоо ялгадаг.",
+   "en": "At first, yes. Even though it was hard, now they sort the trash themselves.",
+   "mn_latin": "Ekhendee durgüitssen. Khediigeer khetsüü baisan ch odoo ted öörsdöö khogoo yalgadag."
+  },
+  {
+   "speaker": "Номин",
+   "mn": "Гайхалтай! Цааш үргэлжлүүлэх үү?",
+   "en": "That's amazing! Will you keep going?",
+   "mn_latin": "Gaikhaltai! Tsaash ürgeljlüülekh üü?"
+  },
+  {
+   "speaker": "Сарангэрэл",
+   "mn": "Тийм ээ. Заримдаа бүтэлгүйтсэн ч гэсэн хог хаягдлаа бууруулсаар байх болно.",
+   "en": "Yes. Even if we fail sometimes, we'll keep reducing our waste.",
+   "mn_latin": "Tiim ee. Zarimdaa bütelgüitsen ch gesen khog khayagdlaa buuruulsaar baikh bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "Traditional herding families produced very little waste. Felt, leather, bones, and even dung (used as fuel) all had a use, and almost nothing was thrown away. In Ulaanbaatar, packaged goods and plastic have grown quickly, and gift-heavy holidays like Tsagaan Sar often leave piles of packaging behind. More families and young people are now trying refill shops, cloth bags, and sorting their trash at home.",
+  "mn": "Уламжлалт малчин айл маш бага хог гаргадаг байсан. Эсгий, арьс шир, яс, тэр ч байтугай аргал хүртэл хэрэглэгдэж, бараг юу ч хаягддаггүй байв. Харин Улаанбаатарт савлагаатай бараа, хуванцрын хэрэглээ хурдан өсөж, Цагаан сар зэрэг бэлэг ихтэй баяруудын дараа савлагааны хог овоорох нь элбэг. Одоо олон гэр бүл, залуус бараагаа өөрийн саванд дүүргэж авдаг дэлгүүр, даавуун цүнх хэрэглэж, гэртээ хогоо ялгаж эхэлж байна."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 3,
+  "notes": "Strong lesson: the converb grammar, vowel harmony, and even if/even though explanations are accurate. Only a few naturalness, tense, and spelling issues needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 7,
+  "notes": "Main problem: the grammar title_mn and explain_mn covered even if/even though, not the -хдаа/-хаараа topic of the English; rewrote both explanations to cover the same points, plus minor wording fixes.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn was about even if/even though and did not match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn now cover the same two points"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn covered a different topic than explain_en"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "the English says \"more expensive\""
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "same \"more expensive\" fix"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "автобусаар явах is the natural phrase for taking the bus"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "дүүргэлтийн дэлгүүр is not an established term for a refill shop"
+   }
+  ]
+ }
+}

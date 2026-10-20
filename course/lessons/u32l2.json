@@ -1,0 +1,436 @@
+{
+ "intro_en": "You will learn to pass on messages and instructions using say and tell, and to report what someone said with the past tense moving one step back. You will also learn how Mongolian uses хэлэх, ярих and дуудах.",
+ "intro_mn": "Та захиа, зааврыг дамжуулахдаа англи хэлний say, tell гэсэн үгсийг ялгаж, хэлсэн зүйлийг өнгөрсөн цагаар нэг шатаар ухраан дамжуулж сурна. Мөн монгол хэлний хэлэх, ярих, дуудах гэсэн үгсийн ялгааг үзнэ.",
+ "vocab": [
+  {
+   "mn": "захиа",
+   "en": "message, note, letter",
+   "pos": "noun",
+   "example_mn": "Ээж надад захиа үлдээсэн.",
+   "example_en": "Mom left me a note.",
+   "mn_latin": "zakhia"
+  },
+  {
+   "mn": "зөвлөгөө",
+   "en": "advice",
+   "pos": "noun",
+   "example_mn": "Багш надад сайн зөвлөгөө өгсөн.",
+   "example_en": "The teacher gave me good advice.",
+   "mn_latin": "zövlögöö"
+  },
+  {
+   "mn": "захиалга",
+   "en": "order, reservation",
+   "pos": "noun",
+   "example_mn": "Манай захиалга бэлэн болсон.",
+   "example_en": "Our order is ready.",
+   "mn_latin": "zakhialga"
+  },
+  {
+   "mn": "мэдээ",
+   "en": "news, information",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр сайн мэдээ сонслоо.",
+   "example_en": "I heard good news today.",
+   "mn_latin": "medee"
+  },
+  {
+   "mn": "хэлэх",
+   "en": "to say, to tell",
+   "pos": "verb",
+   "example_mn": "Дарга надад хурал хоёр цагт болно гэж хэлсэн.",
+   "example_en": "The boss told me the meeting is at two.",
+   "mn_latin": "khelekh"
+  },
+  {
+   "mn": "ярих",
+   "en": "to talk, to speak",
+   "pos": "verb",
+   "example_mn": "Бид утсаар удаан ярилаа.",
+   "example_en": "We talked on the phone for a long time.",
+   "mn_latin": "yarikh"
+  },
+  {
+   "mn": "дуудах",
+   "en": "to call, to summon",
+   "pos": "verb",
+   "example_mn": "Багш намайг өрөөндөө дуудсан.",
+   "example_en": "The teacher called me to his office.",
+   "mn_latin": "duudakh"
+  },
+  {
+   "mn": "дамжуулах",
+   "en": "to pass on",
+   "pos": "verb",
+   "example_mn": "Энэ захиаг Болдод дамжуулаарай.",
+   "example_en": "Please pass this message on to Bold.",
+   "mn_latin": "damjuulakh"
+  },
+  {
+   "mn": "сануулах",
+   "en": "to remind, to warn",
+   "pos": "verb",
+   "example_mn": "Ээж надад хаалгаа түгжээрэй гэж сануулсан.",
+   "example_en": "Mom reminded me to lock the door.",
+   "mn_latin": "sanuulakh"
+  },
+  {
+   "mn": "заавар",
+   "en": "instructions",
+   "pos": "noun",
+   "example_mn": "Зааврыг сайн уншаарай.",
+   "example_en": "Read the instructions carefully.",
+   "mn_latin": "zaavar"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Ээж надад зуурсан гурилаа хөргөгчид хийсэн гэж хэлсэн.",
+   "en": "Mom told me she had put the dough in the fridge.",
+   "alt_mn": [],
+   "alt_en": [
+    "Mom said to me that she had put the dough in the fridge."
+   ],
+   "mn_latin": "Eej nadad zuursan gurilaa khörgögchid khiisen gej khelsen."
+  },
+  {
+   "mn": "Дарга маргааш хурал болно гэж хэлсэн.",
+   "en": "The boss said the meeting would be tomorrow.",
+   "alt_mn": [
+    "Дарга маргааш хурал болно гэсэн."
+   ],
+   "alt_en": [
+    "The boss told us the meeting would be tomorrow."
+   ],
+   "mn_latin": "Darga margaash khural bolno gej khelsen."
+  },
+  {
+   "mn": "Тэр надад бид оройтсон гэж хэлсэн.",
+   "en": "He told me we were late.",
+   "alt_mn": [],
+   "alt_en": [
+    "He said to me that we were late."
+   ],
+   "mn_latin": "Ter nadad bid oroitson gej khelsen."
+  },
+  {
+   "mn": "Захиан дээр юу гэж бичсэн бэ?",
+   "en": "What did the note say?",
+   "alt_mn": [],
+   "alt_en": [
+    "What did the message say?"
+   ],
+   "mn_latin": "Zakhian deer yuu gej bichsen be?"
+  },
+  {
+   "mn": "Энэ мэдээг бүгдэд нь хэлээрэй.",
+   "en": "Tell everyone this news.",
+   "alt_mn": [],
+   "alt_en": [
+    "Please tell everybody this news."
+   ],
+   "mn_latin": "Ene medeeg bügded ni kheleerei."
+  },
+  {
+   "mn": "Эмч надад илүү их ус уу гэж зөвлөсөн.",
+   "en": "The doctor advised me to drink more water.",
+   "alt_mn": [
+    "Эмч надад илүү их ус уу гэж зөвлөгөө өгсөн."
+   ],
+   "alt_en": [
+    "The doctor told me to drink more water."
+   ],
+   "mn_latin": "Emch nadad ilüü ikh us uu gej zövlösön."
+  },
+  {
+   "mn": "Тэр захиалгаа аль хэдийн өгсөн гэж хэлсэн.",
+   "en": "She said she had already placed her order.",
+   "alt_mn": [],
+   "alt_en": [
+    "She told me she had already ordered."
+   ],
+   "mn_latin": "Ter zakhialgaa ali khediin ögsön gej khelsen."
+  },
+  {
+   "mn": "Надад үнэнийг хэлээч.",
+   "en": "Tell me the truth.",
+   "alt_mn": [
+    "Надад үнэнээ хэлээч."
+   ],
+   "alt_en": [
+    "Please tell me the truth."
+   ],
+   "mn_latin": "Nadad üneniig kheleech."
+  },
+  {
+   "mn": "Ах маань утсаар удаан ярьсан.",
+   "en": "My older brother talked on the phone for a long time.",
+   "alt_mn": [],
+   "alt_en": [
+    "My brother spoke on the phone for a long time."
+   ],
+   "mn_latin": "Akh maani utsaar udaan yarisan."
+  },
+  {
+   "mn": "Менежер намайг өрөөндөө дуудсан.",
+   "en": "The manager called me into his office.",
+   "alt_mn": [],
+   "alt_en": [
+    "The manager summoned me to his office."
+   ],
+   "mn_latin": "Myenyejyer namaig örööndöö duudsan."
+  },
+  {
+   "mn": "Багш бидэнд даалгавраа маргааш өгөх ёстой гэж хэлсэн.",
+   "en": "The teacher told us we had to hand in our homework tomorrow.",
+   "alt_mn": [],
+   "alt_en": [
+    "The teacher said we had to turn in our homework tomorrow."
+   ],
+   "mn_latin": "Bagsh bidend daalgavraa margaash ögökh yostoi gej khelsen."
+  },
+  {
+   "mn": "Тэр над руу залгаад зааврыг тайлбарласан.",
+   "en": "He called me and explained the instructions.",
+   "alt_mn": [],
+   "alt_en": [
+    "He phoned me and explained the instructions."
+   ],
+   "mn_latin": "Ter nad ruu zalgaad zaavryg tailbarlasan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling someone: хэлэх + dative, and ярих vs. дуудах",
+  "title_mn": "Say / tell: хэн нэгэнд хэлэх, ярих, дуудах",
+  "explain_en": "In Mongolian, the person you tell goes in the dative case (-д/-т, e.g. надад, багшид, ээжид): Ээж надад хэлсэн. The message is usually quoted with гэж: «Би ирнэ» гэж хэлсэн. Use хэлэх for passing on a specific message, ярих for chatting or talking at length (often with -тай: найзтайгаа ярих), and дуудах for calling someone over or calling someone by name. In English, say needs to before the listener (He said to me), but tell takes the listener directly (He told me), so you say tell me, never say me. In English reported speech, the verb moves one step back: am → was, will → would, have done → had done, can → could (He said he was tired; She told me she had finished). Mongolian has no such tense shift and keeps the original tense: Тэр ирнэ гэж хэлсэн = He said he would come.",
+  "explain_mn": "Монгол хэлэнд хэнд хэлж байгааг өгөх орших тийн ялгалаар (-д/-т: надад, багшид, ээжид) илэрхийлнэ: Ээж надад хэлсэн. Хэлсэн үгийг ихэвчлэн гэж-ээр иш татна: «Би ирнэ» гэж хэлсэн. Тодорхой мэдээ дамжуулахад хэлэх, удаан ярилцахад ярих (ихэвчлэн -тай: найзтайгаа ярих), хүнийг ирүүлэх буюу нэрээр нь дуудахад дуудах гэж хэрэглэнэ. Англиар say-ийн дараа сонсогчийг to-оор оруулна (He said to me), харин tell-ийн дараа сонсогч шууд ордог (He told me). Иймд tell me гэж хэлнэ, say me гэж хэлж болохгүй. Англи хэлний дамжуулсан хэлэлтэд үйл үг нэг шатаар ухарна: am → was, will → would, have done → had done, can → could. Жишээ нь: «I am tired» → He said he was tired. «I have finished» → She told me she had finished. Монгол хэлэнд ийм цагийн ухралт байхгүй, анхны цагаа хадгална: Тэр ирнэ гэж хэлсэн = He said he would come.",
+  "examples": [
+   {
+    "mn": "Ээж надад оройтож ирнэ гэж хэлсэн.",
+    "en": "Mom told me she would be late.",
+    "mn_latin": "Eej nadad oroitoj irne gej khelsen."
+   },
+   {
+    "mn": "Тэр багшид асуудлаа хэлсэн.",
+    "en": "He told the teacher about his problem.",
+    "mn_latin": "Ter bagshid asuudlaa khelsen."
+   },
+   {
+    "mn": "Бид найзтайгаа удаан ярилаа.",
+    "en": "We talked with our friend for a long time.",
+    "mn_latin": "Bid naiztaigaa udaan yarilaa."
+   },
+   {
+    "mn": "Дарга намайг дуудсан.",
+    "en": "The boss called me over.",
+    "mn_latin": "Darga namaig duudsan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ээж ___ захиа үлдээсэн.",
+   "answer": "надад",
+   "options": [
+    "надад",
+    "намайг",
+    "надаас",
+    "миний"
+   ],
+   "translation": "Mom left me a note.",
+   "explain_en": "The recipient of a message takes the dative: надад (to me).",
+   "explain_mn": "Захиа хүлээн авагч өгөх орших тийн ялгалтай орно: надад."
+  },
+  {
+   "lang": "mn",
+   "text": "Багш намайг өрөөндөө ___.",
+   "answer": "дуудсан",
+   "options": [
+    "дуудсан",
+    "ярьсан",
+    "зөвлөсөн",
+    "бичсэн"
+   ],
+   "translation": "The teacher called me to his office.",
+   "explain_en": "To summon someone to come over, use дуудах.",
+   "explain_mn": "Хүнийг ирүүлэхээр дуудахад «дуудах» гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Дарга маргааш хурал болно ___ хэлсэн.",
+   "answer": "гэж",
+   "options": [
+    "гэж",
+    "гэвч",
+    "бол",
+    "тул"
+   ],
+   "translation": "The boss said the meeting would be tomorrow.",
+   "explain_en": "гэж introduces the reported message.",
+   "explain_mn": "Дамжуулсан үгийг гэж-ээр холбоно."
+  },
+  {
+   "lang": "en",
+   "text": "She ___ me she was tired.",
+   "answer": "told",
+   "options": [
+    "told",
+    "said",
+    "spoke",
+    "talked"
+   ],
+   "translation": "Тэр надад ядарсан гэж хэлсэн.",
+   "explain_en": "Tell takes a direct person object: told me.",
+   "explain_mn": "Tell-ийн дараа сонсогч шууд орно: told me."
+  },
+  {
+   "lang": "en",
+   "text": "He said he ___ the report already.",
+   "answer": "had finished",
+   "options": [
+    "had finished",
+    "finishes",
+    "will finish",
+    "finishing"
+   ],
+   "translation": "Тэр тайлангаа аль хэдийн дуусгасан гэж хэлсэн.",
+   "explain_en": "After said (past), present perfect shifts back to past perfect.",
+   "explain_mn": "Said-ийн дараа have finished нь had finished болж ухарна."
+  },
+  {
+   "lang": "en",
+   "text": "Yesterday the boss said the meeting ___ at ten, but it started at eleven.",
+   "answer": "was",
+   "options": [
+    "was",
+    "is",
+    "will be",
+    "has been"
+   ],
+   "translation": "Өчигдөр дарга хурал арван цагт болно гэж хэлсэн ч арван нэгэн цагт эхэлсэн.",
+   "explain_en": "Present is becomes was in reported speech.",
+   "explain_mn": "Одоо цагийн is нь дамжуулсан хэлэлтэд was болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarnai",
+   "mn": "Дарга чамд юу гэж хэлсэн бэ?",
+   "en": "What did the boss tell you?",
+   "mn_latin": "Darga chamd yuu gej khelsen be?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тэр хурал гурван цагт болно гэж хэлсэн.",
+   "en": "He said the meeting was at three.",
+   "mn_latin": "Ter khural gurvan tsagt bolno gej khelsen."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Тэгээд захиалгын тухай юу гэсэн бэ?",
+   "en": "And what did he say about the order?",
+   "mn_latin": "Tegeed zakhialgyn tukhai yuu gesen be?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Захиалга бэлэн болсон гэж надад хэлсэн.",
+   "en": "He told me the order was ready.",
+   "mn_latin": "Zakhialga belen bolson gej nadad khelsen."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "Энэ мэдээг Болдод дамжуулсан уу?",
+   "en": "Did you pass this news on to Bold?",
+   "mn_latin": "Ene medeeg Boldod damjuulsan uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Одоохондоо үгүй. Би түүнд утасдаад хэлье.",
+   "en": "Not yet. I'll call him and tell him.",
+   "mn_latin": "Odookhondoo ügüi. Bi tüünd utasdaad kheliye."
+  },
+  {
+   "speaker": "Sarnai",
+   "mn": "За, тэгээрэй. Тэр өчигдөр ирнэ гэж хэлсэн ч ирсэнгүй.",
+   "en": "OK, do that. He said yesterday that he would come, but he didn't.",
+   "mn_latin": "Za, tegeerei. Ter öchigdör irne gej khelsen ch irsengüi."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian families and offices, messages are often passed on through other people: «Ээж чамд хэлээрэй гэсэн» (Mom said to tell you). Notes on the fridge door are also common in Ulaanbaatar apartments. Polite speakers often soften instructions with -аарай/-ээрэй rather than giving direct orders.",
+  "mn": "Монголын гэр бүл, ажлын байранд захиаг бусдаар дамжуулах нь элбэг: «Ээж чамд хэлээрэй гэсэн». Улаанбаатарын орон сууцанд хөргөгчний хаалган дээр тэмдэглэл үлдээх нь түгээмэл. Эелдэг хүмүүс шууд тушаахын оронд -аарай/-ээрэй хэлбэрийг хэрэглэж зөөлрүүлдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 18,
+  "notes": "Mostly good content, but a few grammar-explanation errors, a stray Latin word, and a dialogue translation mismatch needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Fixed the сануулах case and the duplicate alternative, made the grammar explanations match, and removed ambiguous fill-in-the-blank options.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "сануулах takes the person in the dative (надад), not the accusative"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "The alternative was identical to the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "'made the order' is unnatural and could mean 'prepared'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different content; now both cover the same points"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Made it match the English explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "The correct case name is өгөх орших тийн ялгал"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "гээд is colloquially possible here, so the answer was not the only correct option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'has finished' is acceptable in informal reported speech, so the answer was ambiguous"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "text",
+    "why": "Without past context, 'is' and 'will be' are also correct"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Updated to match the new sentence"
+   }
+  ]
+ }
+}

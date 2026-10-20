@@ -1,0 +1,439 @@
+{
+ "intro_en": "Learn how to answer a taxi driver's questions about your hometown, your province and soum, and your relatives in the countryside. You'll also practice Mongolian 'list' questions like хэн хэн and хаа хаана, and English who-questions with prepositions.",
+ "intro_mn": "Таксины жолооч таны төрсөн нутаг, аймаг, сум, хөдөөх хамаатан садны тань талаар асуухад хэрхэн хариулахыг сурна. Мөн англи хэлний угтвар үгтэй who-асуулт (Who do you live with?) болон монгол хэлний хэн хэн, хаа хаана гэх давхар асуух үгийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "нутаг",
+   "en": "hometown, homeland",
+   "pos": "noun",
+   "example_mn": "Миний нутаг Хөвсгөлд.",
+   "example_en": "My hometown is in Khovsgol.",
+   "mn_latin": "nutag"
+  },
+  {
+   "mn": "аймаг",
+   "en": "province (aimag)",
+   "pos": "noun",
+   "example_mn": "Та аль аймгийн хүн бэ?",
+   "example_en": "Which province are you from?",
+   "mn_latin": "aimag"
+  },
+  {
+   "mn": "сум",
+   "en": "district, soum",
+   "pos": "noun",
+   "example_mn": "Манай сум жижигхэн ч их үзэсгэлэнтэй.",
+   "example_en": "Our soum is small but very beautiful.",
+   "mn_latin": "sum"
+  },
+  {
+   "mn": "нутаг усны хүн",
+   "en": "person from the same hometown",
+   "pos": "phrase",
+   "example_mn": "Бид хоёр нутаг усны хүмүүс.",
+   "example_en": "The two of us are from the same hometown.",
+   "mn_latin": "nutag usny khün"
+  },
+  {
+   "mn": "төрөлх",
+   "en": "native, of one's birth",
+   "pos": "adjective",
+   "example_mn": "Миний төрөлх нутаг Дундговь.",
+   "example_en": "My native land is Dundgovi.",
+   "mn_latin": "törölkh"
+  },
+  {
+   "mn": "хамаатан садан",
+   "en": "relatives",
+   "pos": "noun",
+   "example_mn": "Хамаатан садан маань бүгд хөдөө байдаг.",
+   "example_en": "All my relatives live in the countryside.",
+   "mn_latin": "khamaatan sadan"
+  },
+  {
+   "mn": "хөдөө",
+   "en": "countryside",
+   "pos": "noun",
+   "example_mn": "Зун болгон хөдөө явдаг.",
+   "example_en": "I go to the countryside every summer.",
+   "mn_latin": "khödöö"
+  },
+  {
+   "mn": "мал маллах",
+   "en": "to herd livestock",
+   "pos": "verb",
+   "example_mn": "Аав маань одоо ч мал маллаж байгаа.",
+   "example_en": "My father still herds livestock.",
+   "mn_latin": "mal mallakh"
+  },
+  {
+   "mn": "төрж өсөх",
+   "en": "to be born and raised",
+   "pos": "verb",
+   "example_mn": "Би Эрдэнэтэд төрж өссөн.",
+   "example_en": "I was born and raised in Erdenet.",
+   "mn_latin": "törj ösökh"
+  },
+  {
+   "mn": "шилжиж ирэх",
+   "en": "to move (to a place)",
+   "pos": "verb",
+   "example_mn": "Бид хотод арван жилийн өмнө шилжиж ирсэн.",
+   "example_en": "We moved to the city ten years ago.",
+   "mn_latin": "shiljij irekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Та хаанахын хүн бэ?",
+   "en": "Where are you from?",
+   "alt_mn": [
+    "Та хаанахынх вэ?"
+   ],
+   "alt_en": [
+    "So, where are you from?"
+   ],
+   "mn_latin": "Ta khaanakhyn khün be?"
+  },
+  {
+   "mn": "Би Говь-Алтай аймгийн хүн.",
+   "en": "I'm from Govi-Altai Province.",
+   "alt_mn": [
+    "Би Говь-Алтайнх."
+   ],
+   "alt_en": [
+    "I am from Govi-Altai Province.",
+    "I'm from Govi-Altai."
+   ],
+   "mn_latin": "Bi Govi-Altai aimgiin khün."
+  },
+  {
+   "mn": "Миний төрөлх нутаг бол Завхан аймгийн Тосонцэнгэл сум.",
+   "en": "My hometown is Tosontsengel soum in Zavkhan Province.",
+   "alt_mn": [
+    "Миний төрөлх нутаг Завхан аймгийн Тосонцэнгэл сум."
+   ],
+   "alt_en": [
+    "My native place is Tosontsengel soum in Zavkhan Province."
+   ],
+   "mn_latin": "Minii törölkh nutag bol Zavkhan aimgiin Tosontsengel sum."
+  },
+  {
+   "mn": "Хэн хэн чинь хөдөө байдаг вэ?",
+   "en": "Which of your family members live in the countryside?",
+   "alt_mn": [
+    "Танайхаас хэн хэн хөдөө байдаг вэ?"
+   ],
+   "alt_en": [
+    "Who in your family lives in the countryside?",
+    "Which of your relatives live in the countryside?"
+   ],
+   "mn_latin": "Khen khen chini khödöö baidag ve?"
+  },
+  {
+   "mn": "Аав ээж, ах хоёр маань хөдөө мал маллаж байгаа.",
+   "en": "My parents and my two older brothers herd livestock in the countryside.",
+   "alt_mn": [
+    "Аав ээж, ах хоёр минь хөдөө мал маллаж байгаа."
+   ],
+   "alt_en": [
+    "My parents and two older brothers are herding livestock in the countryside."
+   ],
+   "mn_latin": "Aav eej, akh khoyor maani khödöö mal mallaj baigaa."
+  },
+  {
+   "mn": "Та хотод хэнтэй хамт амьдардаг вэ?",
+   "en": "Who do you live with in the city?",
+   "alt_mn": [
+    "Та хотод хэнтэй амьдардаг вэ?"
+   ],
+   "alt_en": [
+    "Who are you living with in the city?"
+   ],
+   "mn_latin": "Ta khotod khentei khamt amidardag ve?"
+  },
+  {
+   "mn": "Тантай хамт хэн амьдардаг вэ?",
+   "en": "Who lives with you?",
+   "alt_mn": [
+    "Тантай хэн хамт амьдардаг вэ?"
+   ],
+   "alt_en": [],
+   "mn_latin": "Tantai khamt khen amidardag ve?"
+  },
+  {
+   "mn": "Та хаа хаана амьдарч байсан бэ?",
+   "en": "What places have you lived in?",
+   "alt_mn": [],
+   "alt_en": [
+    "Where have you lived?"
+   ],
+   "mn_latin": "Ta khaa khaana amidarch baisan be?"
+  },
+  {
+   "mn": "Өө, тэгвэл бид нутаг усны хүмүүс юм байна шүү дээ!",
+   "en": "Oh, so we're from the same hometown!",
+   "alt_mn": [
+    "Өө, тэгвэл бид нутаг усныхан юм байна!"
+   ],
+   "alt_en": [
+    "Oh, then we're from the same hometown!"
+   ],
+   "mn_latin": "Öö, tegvel bid nutag usny khümüüs yum baina shüü dee!"
+  },
+  {
+   "mn": "Би Улаанбаатарт төрж өссөн, гэхдээ хамаатан садан маань бүгд хөдөө байдаг.",
+   "en": "I was born and raised in Ulaanbaatar, but all my relatives live in the countryside.",
+   "alt_mn": [],
+   "alt_en": [
+    "I was born and grew up in Ulaanbaatar, but all my relatives live in the countryside."
+   ],
+   "mn_latin": "Bi Ulaanbaatart törj össön, gekhdee khamaatan sadan maani bügd khödöö baidag."
+  },
+  {
+   "mn": "Та хотод хэдэн онд шилжиж ирсэн бэ?",
+   "en": "What year did you move to the city?",
+   "alt_mn": [
+    "Та хэдэн онд хот руу шилжиж ирсэн бэ?"
+   ],
+   "alt_en": [
+    "In what year did you move to the city?",
+    "When did you move to the city?"
+   ],
+   "mn_latin": "Ta khotod kheden ond shiljij irsen be?"
+  },
+  {
+   "mn": "Цагаан сараар нутаг руугаа очдог уу?",
+   "en": "Do you go back to your hometown for Tsagaan Sar?",
+   "alt_mn": [
+    "Цагаан сараар нутагтаа очдог уу?"
+   ],
+   "alt_en": [
+    "Do you visit your hometown for Tsagaan Sar?"
+   ],
+   "mn_latin": "Tsagaan saraar nutag ruugaa ochdog uu?"
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking for a list: хэн хэн, хаа хаана / Who-questions with prepositions",
+  "title_mn": "Хэн хэн, хаа хаана гэх давхар асуулт / Угтвар үгтэй who-асуулт",
+  "explain_en": "In Mongolian, doubling a question word asks for a whole list, not just one answer. Хэн? means 'who?', but хэн хэн? means 'who (all)?', and the speaker expects several names. Likewise, хаа хаана? means 'where all? / which places?' and юу юу? means 'what all?'. Add чинь ('your', informal) or тань ('your', polite) to make it personal: Хэн хэн тань хөдөө байдаг вэ? means 'Which of your family members live in the countryside?' Answer with a list: Аав ээж, эгч маань... In English, who can be the object or the subject. When who is the object, use do/does/did and put the preposition at the end: Who do you live with? (Та хэнтэй амьдардаг вэ?) When who is the subject, don't use do; the verb takes the third-person form: Who lives with you? (Тантай хэн амьдардаг вэ?) 'With whom do you live?' is also possible, but it sounds very formal. In conversation, keep the preposition at the end.",
+  "explain_mn": "Монгол хэлэнд асуух үгийг давтвал нэг биш, хэд хэдэн хариулт хүлээж буйг илэрхийлнэ. Хэн? гэвэл нэг хүнийг асууна, харин хэн хэн? гэвэл хэд хэдэн хүнийг жагсааж хэлэхийг хүлээнэ. Үүнтэй адил хаа хаана? гэвэл 'ямар ямар газар', юу юу? гэвэл 'юу юу' гэсэн жагсаалт асууна. Чинь (дотно) эсвэл тань (хүндэтгэлтэй) нэмбэл 'таны' гэсэн утга өгнө: Хэн хэн тань хөдөө байдаг вэ? Хариултаа жагсааж хэлнэ: Аав ээж, эгч маань... Англи хэлэнд who нь өгүүлэгч эсвэл тусагдахуун болж болно. Who нь тусагдахуун бол do/does/did туслах үйл үг хэрэглэж, угтвар үгийг өгүүлбэрийн төгсгөлд тавина: Who do you live with? (Та хэнтэй амьдардаг вэ?) Харин who нь өгүүлэгч бол do хэрэглэхгүй бөгөөд үйл үг гуравдугаар биеийн хэлбэрээр явна: Who lives with you? (Тантай хэн амьдардаг вэ?) 'With whom do you live?' гэж бас хэлж болох ч энэ нь хэт албан ёсны сонсогддог. Ярианд угтвар үгийг төгсгөлд нь үлдээгээрэй.",
+  "examples": [
+   {
+    "mn": "Хэн хэн чинь хөдөө байдаг вэ?",
+    "en": "Which of your family members live in the countryside?",
+    "mn_latin": "Khen khen chini khödöö baidag ve?"
+   },
+   {
+    "mn": "Та хаа хаана очиж үзсэн бэ?",
+    "en": "What places have you been to?",
+    "mn_latin": "Ta khaa khaana ochij üzsen be?"
+   },
+   {
+    "mn": "Та хотод хэнтэй ирсэн бэ?",
+    "en": "Who did you come to the city with?",
+    "mn_latin": "Ta khotod khentei irsen be?"
+   },
+   {
+    "mn": "Тантай хамт хэн амьдардаг вэ?",
+    "en": "Who lives with you?",
+    "mn_latin": "Tantai khamt khen amidardag ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хэн ___ чинь хөдөө байдаг вэ?",
+   "answer": "хэн",
+   "options": [
+    "хэн",
+    "юу",
+    "хаана",
+    "хэд"
+   ],
+   "translation": "Which of your family members live in the countryside?",
+   "explain_en": "Doubling хэн (хэн хэн) asks for a list of people. The driver expects several relatives in the answer.",
+   "explain_mn": "Хэн гэдгийг давтан хэлбэл (хэн хэн) хэд хэдэн хүнийг жагсааж хариулахыг хүлээж буйг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Та ___ хүн бэ?",
+   "answer": "хаанахын",
+   "options": [
+    "хаанахын",
+    "хаана",
+    "хаашаа",
+    "хаанаас"
+   ],
+   "translation": "Where are you from?",
+   "explain_en": "Хаанахын means 'of where'. It's a genitive form that describes хүн, so the phrase is literally 'a person of where?'. Хаанаас ('from where') sounds odd before хүн.",
+   "explain_mn": "Хаанахын нь 'хүн' гэдэг үгийг тодотгож, хаана төрж өссөн, хаа газрын хүн болохыг асууна. Хаашаа нь чиглэл, хаанаас нь эх үүсвэрийг заадаг тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Би Дорнод аймг___ хүн.",
+   "answer": "ийн",
+   "options": [
+    "ийн",
+    "ид",
+    "аас",
+    "тай"
+   ],
+   "translation": "I'm from Dornod Province.",
+   "explain_en": "To say 'a person of X province', use the genitive. Аймаг drops its second vowel and takes -ийн, giving аймгийн.",
+   "explain_mn": "Харьяалал заахдаа харьяалахын тийн ялгал хэрэглэнэ. Аймаг гэдэг үг аймгийн болж, сул эгшиг гээгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Who do you live ___ in Ulaanbaatar?",
+   "answer": "with",
+   "options": [
+    "with",
+    "of",
+    "at",
+    "by"
+   ],
+   "translation": "Та Улаанбаатарт хэнтэй амьдардаг вэ?",
+   "explain_en": "We say 'live with someone', and in a who-question the preposition goes at the end.",
+   "explain_mn": "'Хэнтэй' гэдгийг англиар who ... with гэж илэрхийлэх ба with нь өгүүлбэрийн төгсгөлд үлдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Who ___ with you?",
+   "answer": "lives",
+   "options": [
+    "lives",
+    "do live",
+    "living",
+    "do you live"
+   ],
+   "translation": "Тантай хэн амьдардаг вэ?",
+   "explain_en": "Here 'who' is the subject, so there's no 'do'. Use the third-person verb: Who lives...?",
+   "explain_mn": "Энд who нь өгүүлэгч учир do хэрэглэхгүй. Үйл үг гуравдугаар биеийн -s авна: lives."
+  },
+  {
+   "lang": "en",
+   "text": "So, where are you ___?",
+   "answer": "from",
+   "options": [
+    "from",
+    "of",
+    "in",
+    "at"
+   ],
+   "translation": "За, та хаанахын хүн бэ?",
+   "explain_en": "'Where are you from?' is the standard way to ask about someone's hometown or origin.",
+   "explain_mn": "Хүний гарал, төрсөн нутгийг асуухдаа англиар 'Where are you from?' гэж from-ыг төгсгөлд нь тавина."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Батбаяр",
+   "mn": "За, та хаанахын хүн бэ? Хотын хүн үү?",
+   "en": "So, where are you from? Are you from the city?",
+   "mn_latin": "Za, ta khaanakhyn khün be? Khotyn khün üü?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Үгүй ээ, би Увс аймгийн хүн. Оюутан байхдаа хотод шилжиж ирсэн.",
+   "en": "No, I'm from Uvs Province. I moved to the city when I was a student.",
+   "mn_latin": "Ügüi ee, bi Uvs aimgiin khün. Oyuutan baikhdaa khotod shiljij irsen."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Пөөх, Увс уу? Аль сумынх вэ?",
+   "en": "Wow, Uvs? Which soum?",
+   "mn_latin": "Pöökh, Uvs uu? Ali sumynkh ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Өндөрхангай сумынх.",
+   "en": "Ondorkhangai soum.",
+   "mn_latin": "Öndörkhangai sumynkh."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Би өөрөө Өндөрхангайнх шүү дээ! Тэгвэл бид нутаг усны хүмүүс юм байна. Хэн хэн тань нутагт байдаг вэ?",
+   "en": "I'm from Ondorkhangai myself! So we're from the same hometown. Which of your family members are still back home?",
+   "mn_latin": "Bi ööröö Öndörkhangainkh shüü dee! Tegvel bid nutag usny khümüüs yum baina. Khen khen tani nutagt baidag ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Аав ээж, эгч хоёр маань тэнд мал маллаж байгаа. Би хотод нагац ахтайгаа хамт амьдардаг.",
+   "en": "My parents and my two older sisters herd livestock there. In the city, I live with my uncle.",
+   "mn_latin": "Aav eej, egch khoyor maani tend mal mallaj baigaa. Bi khotod nagats akhtaigaa khamt amidardag."
+  },
+  {
+   "speaker": "Батбаяр",
+   "mn": "Зун нутаг руугаа очдог уу?",
+   "en": "Do you go back home in the summer?",
+   "mn_latin": "Zun nutag ruugaa ochdog uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэгэлгүй яах вэ. Наадмаар заавал очдог.",
+   "en": "Of course! I always go for Naadam.",
+   "mn_latin": "Tegelgüi yaakh ve. Naadmaar zaaval ochdog."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, 'Where are you from?' usually means your aimag and soum, not your country, and taxi drivers love to ask it. Even people born in Ulaanbaatar often name their parents' hometown as their own. Finding out you're нутаг усны хүмүүс (from the same hometown) creates an instant bond, sometimes enough for a friendly chat the whole ride or even a small discount.",
+  "mn": "Монголд 'Та хаанахын хүн бэ?' гэвэл ихэвчлэн аль аймаг, сумынх болохыг асууж байгаа хэрэг бөгөөд таксины жолооч нар энэ асуултад их дуртай. Улаанбаатарт төрсөн хүмүүс ч аав ээжийнхээ нутгийг өөрийн нутаг гэж хэлэх нь элбэг. Нутаг усны хүмүүс болох нь тодорвол шууд л дотносож, замдаа сэтгэл нийлэн ярилцахаас гадна заримдаа үнээ ч хямдруулах тохиолдол байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "Solid, natural lesson. There was one logic slip in the dialogue and a couple of awkward Mongolian phrasings; the fill-in-the-blank items and explanations are accurate."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 7,
+  "notes": "Main issue: the grammar en/mn explanations didn't match. Also fixed the dialogue register, the intro_mn case error, and a dialectal alternative.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; now both cover both"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "en and mn explanations covered different topics; now both cover both"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Register: the driver uses polite та, so тань instead of чинь"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'хамаатан саднаар тань асуухад' is ungrammatical"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "'Where all' is dialectal/nonstandard"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "'Танай гэрт хэн хамт' is awkward and doesn't match the English"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "en",
+    "why": "Match the corrected Mongolian"
+   }
+  ]
+ }
+}

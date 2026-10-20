@@ -1,0 +1,490 @@
+{
+ "intro_en": "You will learn to compare animals and places and to say which one is the biggest, the fastest or the tallest. You will play a quiz game using хамгийн + adjective in Mongolian and -est superlatives in English.",
+ "intro_mn": "Та амьтан болон газруудыг харьцуулж, аль нь хамгийн том, хамгийн хурдан, хамгийн өндөр болохыг хэлж сурна. Монгол хэлэнд «хамгийн + тэмдэг нэр», англи хэлэнд «-est» дээд зэргийн хэлбэрийг ашиглан асуулт хариултын тоглоом тоглоно.",
+ "vocab": [
+  {
+   "mn": "том",
+   "en": "big, large",
+   "pos": "adjective",
+   "example_mn": "Заан том амьтан.",
+   "example_en": "The elephant is a big animal.",
+   "mn_latin": "tom"
+  },
+  {
+   "mn": "жижиг",
+   "en": "small, little",
+   "pos": "adjective",
+   "example_mn": "Энэ гэрийн нохой жижиг.",
+   "example_en": "This pet dog is small.",
+   "mn_latin": "jijig"
+  },
+  {
+   "mn": "урт",
+   "en": "long",
+   "pos": "adjective",
+   "example_mn": "Энэ гол урт.",
+   "example_en": "This river is long.",
+   "mn_latin": "urt"
+  },
+  {
+   "mn": "өндөр",
+   "en": "tall, high",
+   "pos": "adjective",
+   "example_mn": "Энэ уул өндөр.",
+   "example_en": "This mountain is high.",
+   "mn_latin": "öndör"
+  },
+  {
+   "mn": "хурдан",
+   "en": "fast, quick",
+   "pos": "adjective",
+   "example_mn": "Морь хурдан.",
+   "example_en": "The horse is fast.",
+   "mn_latin": "khurdan"
+  },
+  {
+   "mn": "удаан",
+   "en": "slow",
+   "pos": "adjective",
+   "example_mn": "Яст мэлхий удаан.",
+   "example_en": "The turtle is slow.",
+   "mn_latin": "udaan"
+  },
+  {
+   "mn": "хүнд",
+   "en": "heavy",
+   "pos": "adjective",
+   "example_mn": "Энэ чулуу хүнд.",
+   "example_en": "This stone is heavy.",
+   "mn_latin": "khünd"
+  },
+  {
+   "mn": "хамгийн",
+   "en": "the most (-est)",
+   "pos": "adverb",
+   "example_mn": "Хамгийн том амьтан аль вэ?",
+   "example_en": "Which is the biggest animal?",
+   "mn_latin": "khamgiin"
+  },
+  {
+   "mn": "амьтан",
+   "en": "animal",
+   "pos": "noun",
+   "example_mn": "Монголд олон амьтан бий.",
+   "example_en": "There are many animals in Mongolia.",
+   "mn_latin": "amitan"
+  },
+  {
+   "mn": "асуулт",
+   "en": "question",
+   "pos": "noun",
+   "example_mn": "Энэ асуулт хэцүү.",
+   "example_en": "This question is hard.",
+   "mn_latin": "asuult"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Заан хамгийн том амьтан.",
+   "en": "The elephant is the biggest animal.",
+   "alt_mn": [
+    "Заан бол хамгийн том амьтан."
+   ],
+   "alt_en": [
+    "The elephant is the largest animal."
+   ],
+   "mn_latin": "Zaan khamgiin tom amitan."
+  },
+  {
+   "mn": "Энэ хамгийн жижиг нохой.",
+   "en": "This is the smallest dog.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is the littlest dog."
+   ],
+   "mn_latin": "Ene khamgiin jijig nokhoi."
+  },
+  {
+   "mn": "Орхон гол Монголын хамгийн урт гол.",
+   "en": "The Orkhon is the longest river in Mongolia.",
+   "alt_mn": [
+    "Орхон бол Монголын хамгийн урт гол."
+   ],
+   "alt_en": [
+    "The Orkhon River is the longest river in Mongolia."
+   ],
+   "mn_latin": "Orkhon gol Mongolyn khamgiin urt gol."
+  },
+  {
+   "mn": "Хүйтэн оргил хамгийн өндөр уул.",
+   "en": "Khuiten Peak is the tallest mountain.",
+   "alt_mn": [
+    "Хүйтэн оргил бол хамгийн өндөр уул."
+   ],
+   "alt_en": [
+    "Khuiten Peak is the highest mountain."
+   ],
+   "mn_latin": "Khüiten orgil khamgiin öndör uul."
+  },
+  {
+   "mn": "Манай морь хамгийн хурдан.",
+   "en": "Our horse is the fastest.",
+   "alt_mn": [
+    "Манай морь хамгийн хурдан морь."
+   ],
+   "alt_en": [
+    "Our horse is the quickest."
+   ],
+   "mn_latin": "Manai mori khamgiin khurdan."
+  },
+  {
+   "mn": "Яст мэлхий хамгийн удаан амьтан.",
+   "en": "The turtle is the slowest animal.",
+   "alt_mn": [
+    "Яст мэлхий бол хамгийн удаан амьтан."
+   ],
+   "alt_en": [
+    "The tortoise is the slowest animal."
+   ],
+   "mn_latin": "Yast melkhii khamgiin udaan amitan."
+  },
+  {
+   "mn": "Аль амьтан хамгийн хүнд вэ?",
+   "en": "Which animal is the heaviest?",
+   "alt_mn": [
+    "Хамгийн хүнд амьтан аль вэ?"
+   ],
+   "alt_en": [
+    "Which animal is heaviest?"
+   ],
+   "mn_latin": "Ali amitan khamgiin khünd ve?"
+  },
+  {
+   "mn": "Энэ уул тэр уулаас өндөр.",
+   "en": "This mountain is taller than that mountain.",
+   "alt_mn": [],
+   "alt_en": [
+    "This mountain is higher than that one."
+   ],
+   "mn_latin": "Ene uul ter uulaas öndör."
+  },
+  {
+   "mn": "Миний нохой хамгийн хурдан биш.",
+   "en": "My dog is not the fastest.",
+   "alt_mn": [
+    "Манай нохой хамгийн хурдан биш."
+   ],
+   "alt_en": [
+    "My dog isn't the fastest."
+   ],
+   "mn_latin": "Minii nokhoi khamgiin khurdan bish."
+  },
+  {
+   "mn": "Монголын хамгийн том нуур аль вэ?",
+   "en": "Which is the biggest lake in Mongolia?",
+   "alt_mn": [
+    "Монголын хамгийн том нуур аль нь вэ?"
+   ],
+   "alt_en": [
+    "What is the largest lake in Mongolia?"
+   ],
+   "mn_latin": "Mongolyn khamgiin tom nuur ali ve?"
+  },
+  {
+   "mn": "Тэмээ мориноос хүнд.",
+   "en": "A camel is heavier than a horse.",
+   "alt_mn": [
+    "Тэмээ бол мориноос хүнд."
+   ],
+   "alt_en": [
+    "The camel is heavier than the horse."
+   ],
+   "mn_latin": "Temee morinoos khünd."
+  },
+  {
+   "mn": "Манай баг хамгийн сайн баг.",
+   "en": "Our team is the best team.",
+   "alt_mn": [],
+   "alt_en": [
+    "Our team is the best."
+   ],
+   "mn_latin": "Manai bag khamgiin sain bag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Superlatives: хамгийн + adjective",
+  "title_mn": "Дээд зэрэг: «хамгийн + тэмдэг нэр»",
+  "explain_en": "In Mongolian, put хамгийн before the adjective to say 'the most': хамгийн том = the biggest, хамгийн хурдан = the fastest. The adjective never changes, so it is very easy! For comparing two things, add the ablative ending -аас/-ээс/-оос/-өөс to the thing you compare with: Морь тэмээнээс хурдан (A horse is faster than a camel).",
+  "explain_mn": "Монгол хэлэнд тэмдэг нэрийн өмнө «хамгийн» гэж тавьснаар дээд зэрэг үүснэ: хамгийн том, хамгийн хурдан. Тэмдэг нэр өөрчлөгдөхгүй. Хоёр юмыг харьцуулахад харьцуулах зүйлд нь гарах тийн ялгалын нөхцөл (-аас/-ээс/-оос/-өөс) залгана: Морь тэмээнээс хурдан.",
+  "examples": [
+   {
+    "mn": "Хамгийн өндөр уул Хүйтэн оргил.",
+    "en": "The tallest mountain is Khuiten Peak.",
+    "mn_latin": "Khamgiin öndör uul Khüiten orgil."
+   },
+   {
+    "mn": "Энэ хамгийн хурдан морь.",
+    "en": "This is the fastest horse.",
+    "mn_latin": "Ene khamgiin khurdan mori."
+   },
+   {
+    "mn": "Тэр хамгийн хүнд хайрцаг.",
+    "en": "That is the heaviest box.",
+    "mn_latin": "Ter khamgiin khünd khairtsag."
+   },
+   {
+    "mn": "Нохой муурнаас том.",
+    "en": "A dog is bigger than a cat.",
+    "mn_latin": "Nokhoi muurnaas tom."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Заан ___ том амьтан.",
+   "answer": "хамгийн",
+   "options": [
+    "хамгийн",
+    "маш",
+    "илүү",
+    "бүгд"
+   ],
+   "translation": "The elephant is the biggest animal.",
+   "explain_en": "Хамгийн before an adjective makes it a superlative: хамгийн том = the biggest.",
+   "explain_mn": "«Хамгийн» нь тэмдэг нэрийн өмнө орж «the biggest» гэсэн утгатай болгоно."
+  },
+  {
+   "lang": "mn",
+   "text": "Морь тэмээ___ хурдан.",
+   "answer": "нээс",
+   "options": [
+    "нээс",
+    "д",
+    "ийг",
+    "тай"
+   ],
+   "translation": "A horse is faster than a camel.",
+   "explain_en": "To compare, add the ablative ending to the second noun. Тэмээ has a hidden н, so the ending is -нээс: тэмээнээс.",
+   "explain_mn": "Харьцуулахад хоёр дахь үгэнд гарах тийн ялгалын нөхцөл орно. «Тэмээ» үг далд н-тэй тул тэмээ + нээс = тэмээнээс болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Яст мэлхий хамгийн ___ амьтан.",
+   "answer": "удаан",
+   "options": [
+    "удаан",
+    "хурдан",
+    "өндөр",
+    "урт"
+   ],
+   "translation": "The turtle is the slowest animal.",
+   "explain_en": "Удаан means slow, and turtles are famously slow.",
+   "explain_mn": "Яст мэлхий удаан хөдөлдөг тул «удаан» гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Khuiten Peak is the ___ mountain in Mongolia.",
+   "answer": "tallest",
+   "options": [
+    "tallest",
+    "taller",
+    "most tall",
+    "tall"
+   ],
+   "translation": "Хүйтэн оргил бол Монголын хамгийн өндөр уул.",
+   "explain_en": "Short adjectives take -est after 'the': the tallest.",
+   "explain_mn": "Богино тэмдэг нэр «the + -est» авна: the tallest."
+  },
+  {
+   "lang": "en",
+   "text": "An elephant is the ___ animal on land.",
+   "answer": "biggest",
+   "options": [
+    "biggest",
+    "bigest",
+    "bigger",
+    "most big"
+   ],
+   "translation": "Заан бол хуурай газрын хамгийн том амьтан.",
+   "explain_en": "Big ends in consonant-vowel-consonant, so double the g: biggest.",
+   "explain_mn": "«Big» үг гийгүүлэгч-эгшиг-гийгүүлэгчээр төгссөн тул сүүлийн g үсгийг давхарлаж «biggest» болно."
+  },
+  {
+   "lang": "en",
+   "text": "The stone is the ___ of the three things.",
+   "answer": "heaviest",
+   "options": [
+    "heaviest",
+    "heavyest",
+    "most heavy",
+    "heavier"
+   ],
+   "translation": "Гурван юмнаас чулуу хамгийн хүнд.",
+   "explain_en": "Adjectives ending in -y change y to i: heavy → heaviest.",
+   "explain_mn": "«-y»-ээр төгссөн үг «-iest» болно: heavy → heaviest."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Асуулт хариултын тоглоом эхэллээ! Хамгийн том амьтан аль вэ?",
+   "en": "The quiz begins! Which is the biggest animal?",
+   "mn_latin": "Asuult khariultyn togloom ekhellee! Khamgiin tom amitan ali ve?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Заан уу?",
+   "en": "The elephant?",
+   "mn_latin": "Zaan uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Үгүй ээ, хамгийн том нь цэнхэр халим.",
+   "en": "No, the biggest is the blue whale.",
+   "mn_latin": "Ügüi ee, khamgiin tom ni tsenkher khalim."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Өө, үнэхээр том юм. Дараагийн асуулт юу вэ?",
+   "en": "Wow, it's really big. What's the next question?",
+   "mn_latin": "Öö, ünekheer tom yum. Daraagiin asuult yuu ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Монголын хамгийн урт гол аль вэ?",
+   "en": "Which is the longest river in Mongolia?",
+   "mn_latin": "Mongolyn khamgiin urt gol ali ve?"
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Орхон гол байх.",
+   "en": "Probably the Orkhon River.",
+   "mn_latin": "Orkhon gol baikh."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Зөв! Та маш сайн тоглож байна.",
+   "en": "Correct! You are playing very well.",
+   "mn_latin": "Zöv! Ta mash sain togloj baina."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Баярлалаа. Одоо хамгийн хурдан амьтан аль вэ?",
+   "en": "Thanks. Now, which is the fastest animal?",
+   "mn_latin": "Bayarlalaa. Odoo khamgiin khurdan amitan ali ve?"
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolians love horses, and at Naadam the fastest horse wins the big race. Children ride as jockeys, and the winners are praised in special songs. Mongolia is also home to Khuvsgul, a very deep lake often called the 'Blue Pearl'.",
+  "mn": "Монголчууд морь их хайрладаг бөгөөд Наадамд хамгийн хурдан морь уралдаанд түрүүлдэг. Хүүхдүүд унаач болж морь унадаг бөгөөд түрүүлсэн морьдыг тусгай дуугаар магтдаг. Мөн Монголд «Хөх сувд» гэж нэрлэгддэг маш гүн Хөвсгөл нуур бий."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 14,
+  "notes": "Contains a Latin-letter slip, a wrong ablative form (тэмээнээс), an English-grammar explain_mn in a Mongolian-grammar lesson, and a few unnatural bits."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 16,
+  "notes": "Main problems were wrong ablative forms, хэн used for animals, wrong vocabulary in the culture note, and inaccurate grammar explanations.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Unbalanced list; асуултат тоглоом is unnatural; the form is дээд зэрэг"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "хэн is used for people, not animals"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_en",
+    "why": "'Who' for an animal is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "alt_mn",
+    "why": "Alternative duplicated the main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "mn",
+    "why": "Ablative of уул is уулаас"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "Standard ablative of морь is мориноос"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_mn",
+    "why": "морьноос is misspelled"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "Манай is the natural word for 'our team'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "-нээс comes from the hidden н, not from the long vowel"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Match the corrected en explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "explain_mn",
+    "why": "The sentence was garbled and incomplete"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "text",
+    "why": "'A stone' is unnatural here"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "асуулт means 'question', not 'quiz'"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "хэн is not used for animals"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "'Who' for an animal is unnatural"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Fixed морьд дуртай and the wrong word шагай (knucklebone); matches the en text"
+   }
+  ]
+ }
+}

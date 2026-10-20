@@ -1,0 +1,475 @@
+{
+ "intro_en": "In this lesson you will learn to understand festival announcements about cancellations, delays, and safety, and to write a polite complaint asking for a refund or compensation. You will practice formal cause chains with -х тул and -сан учраас in Mongolian, and so...that / such...that in English.",
+ "intro_mn": "Энэ хичээлээр та фестивалийн цуцлалт, хойшлолт, аюулгүй байдлын тухай зарлалыг ойлгож, мөнгөө буцааж авах эсвэл нөхөн олговор хүссэн эелдэг гомдол бичиж сурна. Монгол хэлний -х тул, -сан учраас гэсэн албан шалтгааны хэлбэр, англи хэлний so...that, such...that бүтцийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "зохион байгуулагч",
+   "en": "organizer",
+   "pos": "noun",
+   "example_mn": "Зохион байгуулагчид олон нийтээс уучлал гуйсан.",
+   "example_en": "The organizers apologized to the public.",
+   "mn_latin": "zokhion baiguulagch"
+  },
+  {
+   "mn": "цуцлагдах",
+   "en": "to be canceled",
+   "pos": "verb",
+   "example_mn": "Тоглолт цаг агаарын улмаас цуцлагдлаа.",
+   "example_en": "The concert was canceled because of the weather.",
+   "mn_latin": "tsutslagdakh"
+  },
+  {
+   "mn": "хойшлогдох",
+   "en": "to be postponed, to be delayed",
+   "pos": "verb",
+   "example_mn": "Нээлтийн ёслол хоёр цагаар хойшлогдсон.",
+   "example_en": "The opening ceremony was delayed by two hours.",
+   "mn_latin": "khoishlogdokh"
+  },
+  {
+   "mn": "аюулгүй байдал",
+   "en": "safety, security",
+   "pos": "noun",
+   "example_mn": "Аюулгүй байдлын үүднээс талбайг хаалаа.",
+   "example_en": "The grounds were closed for safety reasons.",
+   "mn_latin": "ayuulgüi baidal"
+  },
+  {
+   "mn": "нөхөн олговор",
+   "en": "compensation",
+   "pos": "noun",
+   "example_mn": "Үзэгчид нөхөн олговор шаардсан.",
+   "example_en": "The audience demanded compensation.",
+   "mn_latin": "nökhön olgovor"
+  },
+  {
+   "mn": "зарлал",
+   "en": "announcement, notice",
+   "pos": "noun",
+   "example_mn": "Зарлалыг фестивалийн цахим хуудсанд нийтэлсэн.",
+   "example_en": "The announcement was posted on the festival website.",
+   "mn_latin": "zarlal"
+  },
+  {
+   "mn": "уучлал гуйх",
+   "en": "to apologize",
+   "pos": "verb phrase",
+   "example_mn": "Бид гарсан саатлын төлөө уучлал гуйж байна.",
+   "example_en": "We apologize for the delay.",
+   "mn_latin": "uuchlal guikh"
+  },
+  {
+   "mn": "гомдол",
+   "en": "complaint",
+   "pos": "noun",
+   "example_mn": "Би зохион байгуулагчдад гомдол бичсэн.",
+   "example_en": "I wrote a complaint to the organizers.",
+   "mn_latin": "gomdol"
+  },
+  {
+   "mn": "буцаан олгох",
+   "en": "to refund",
+   "pos": "verb",
+   "example_mn": "Тасалбарын мөнгийг бүрэн буцаан олгоно.",
+   "example_en": "The ticket money will be refunded in full.",
+   "mn_latin": "butsaan olgokh"
+  },
+  {
+   "mn": "саатал",
+   "en": "delay",
+   "pos": "noun",
+   "example_mn": "Саатлын улмаас олон зочин явсан.",
+   "example_en": "Many guests left because of the delay.",
+   "mn_latin": "saatal"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Цаг агаар муудах тул өнөөдрийн тоглолт цуцлагдлаа.",
+   "en": "Today's concert has been canceled because the weather is going to get worse.",
+   "alt_mn": [
+    "Цаг агаар муудах тул өнөөдрийн тоглолтыг цуцаллаа."
+   ],
+   "alt_en": [
+    "Today's concert has been canceled because the weather will get worse.",
+    "As the weather is expected to worsen, today's concert has been canceled."
+   ],
+   "mn_latin": "Tsag agaar muudakh tul önöödriin toglolt tsutslagdlaa."
+  },
+  {
+   "mn": "Дуучны онгоц хоцорсон учраас тоглолт нэг цагаар хойшлогдлоо.",
+   "en": "The concert has been delayed by an hour because the singer's flight was late.",
+   "alt_mn": [
+    "Дуучны нислэг хоцорсон учраас тоглолт нэг цагаар хойшлогдлоо."
+   ],
+   "alt_en": [
+    "The concert has been pushed back an hour because the singer's flight was late."
+   ],
+   "mn_latin": "Duuchny ongots khotsorson uchraas toglolt neg tsagaar khoishlogdloo."
+  },
+  {
+   "mn": "Хаалга 18:00 цагт хаагдах тул үзэгчид эрт ирнэ үү.",
+   "en": "Please arrive early, as the gates will close at 6 p.m.",
+   "alt_mn": [
+    "Хаалга 18 цагт хаагдах тул үзэгчид эрт ирнэ үү."
+   ],
+   "alt_en": [
+    "The gates will close at 6 p.m., so please arrive early."
+   ],
+   "mn_latin": "Khaalga 18:00 tsagt khaagdakh tul üzegchid ert irne üü."
+  },
+  {
+   "mn": "Саатал үнэхээр том асуудал болсон учраас олон зочин буцаж явсан.",
+   "en": "The delay was such a big problem that many guests left.",
+   "alt_mn": [
+    "Саатал маш их асуудал үүсгэсэн учраас олон зочин буцаж явсан."
+   ],
+   "alt_en": [
+    "The delay was such a problem that many guests left.",
+    "The delay was so problematic that many guests left."
+   ],
+   "mn_latin": "Saatal ünekheer tom asuudal bolson uchraas olon zochin butsaj yavsan."
+  },
+  {
+   "mn": "Дууны чанар маш муу байсан учраас бид дуучныг сонсож чадаагүй.",
+   "en": "The sound was so bad that we couldn't hear the singer.",
+   "alt_mn": [
+    "Дууны чанар хэтэрхий муу байсан учраас бид дуучныг сонсож чадаагүй."
+   ],
+   "alt_en": [
+    "The sound quality was so bad that we couldn't hear the singer."
+   ],
+   "mn_latin": "Duuny chanar mash muu baisan uchraas bid duuchnyg sonsoj chadaagüi."
+  },
+  {
+   "mn": "Зохион байгуулагчид зарлал гаргаж, олон нийтээс уучлал гуйлаа.",
+   "en": "The organizers issued an announcement and apologized to the public.",
+   "alt_mn": [
+    "Зохион байгуулагчид зарлал гаргаж, олон нийтээс уучлал гуйсан."
+   ],
+   "alt_en": [
+    "The organizers made an announcement and apologized to the public."
+   ],
+   "mn_latin": "Zokhion baiguulagchid zarlal gargaj, olon niitees uuchlal guilaa."
+  },
+  {
+   "mn": "Тасалбарын мөнгийг ажлын таван өдрийн дотор буцаан олгоно.",
+   "en": "Ticket money will be refunded within five business days.",
+   "alt_mn": [
+    "Тасалбарын мөнгийг ажлын 5 өдрийн дотор буцаан олгоно."
+   ],
+   "alt_en": [
+    "Tickets will be refunded within five business days.",
+    "Ticket money will be refunded within five working days."
+   ],
+   "mn_latin": "Tasalbaryn möngiig ajlyn tavan ödriin dotor butsaan olgono."
+  },
+  {
+   "mn": "Би тасалбарын мөнгөө буцааж авах эсвэл нөхөн олговор авахыг хүсэж байна.",
+   "en": "I would like a refund for my ticket or some compensation.",
+   "alt_mn": [
+    "Би тасалбарын мөнгөө буцааж авах юм уу нөхөн олговор авахыг хүсэж байна."
+   ],
+   "alt_en": [
+    "I would like to get my ticket money back or receive compensation."
+   ],
+   "mn_latin": "Bi tasalbaryn möngöö butsaaj avakh esvel nökhön olgovor avakhyg khüsej baina."
+  },
+  {
+   "mn": "Хүлээлт үнэхээр удаан үргэлжилсэн учраас хүүхдүүд унтчихсан.",
+   "en": "It was such a long wait that the children fell asleep.",
+   "alt_mn": [
+    "Хүлээлт маш удаан үргэлжилсэн учраас хүүхдүүд унтчихсан."
+   ],
+   "alt_en": [
+    "The wait was so long that the children fell asleep."
+   ],
+   "mn_latin": "Khüleelt ünekheer udaan ürgeljilsen uchraas khüükhdüüd untchikhsan."
+  },
+  {
+   "mn": "Тоглолт ямар ч тайлбаргүйгээр цуцлагдсан учраас би гомдол гаргаж байна.",
+   "en": "I am filing a complaint because the concert was canceled without any explanation.",
+   "alt_mn": [
+    "Тоглолт ямар ч тайлбаргүй цуцлагдсан учраас би гомдол гаргаж байна."
+   ],
+   "alt_en": [
+    "I am making a complaint because the concert was canceled without any explanation."
+   ],
+   "mn_latin": "Toglolt yamar ch tailbargüigeer tsutslagdsan uchraas bi gomdol gargaj baina."
+  },
+  {
+   "mn": "Зарлалыг цаг тухайд нь гаргаагүй тул олон хүн дэмий ирсэн.",
+   "en": "Because the announcement wasn't made in time, many people came for nothing.",
+   "alt_mn": [
+    "Зарлалыг цагт нь гаргаагүй тул олон хүн дэмий ирсэн."
+   ],
+   "alt_en": [
+    "Many people came for nothing because the announcement wasn't made in time."
+   ],
+   "mn_latin": "Zarlalyg tsag tukhaid ni gargaagüi tul olon khün demii irsen."
+  },
+  {
+   "mn": "Аюулгүй байдлын үүднээс тайзны ойролцоо зогсохыг хориглоно.",
+   "en": "For safety reasons, standing near the stage is not allowed.",
+   "alt_mn": [
+    "Аюулгүй байдлын шалтгаанаар тайзны ойролцоо зогсохыг хориглоно."
+   ],
+   "alt_en": [
+    "For safety reasons, standing near the stage is prohibited."
+   ],
+   "mn_latin": "Ayuulgüi baidlyn üüdnees taizny oiroltsoo zogsokhyg khoriglono."
+  }
+ ],
+ "grammar": {
+  "title_en": "Formal cause chains: -х тул and -сан учраас",
+  "title_mn": "Үр дагаврыг тайлбарлах: so...that ба such...that",
+  "explain_en": "Official announcements and complaint emails in Mongolian often explain a reason with a verb form + тул or учраас, both meaning 'because / as / since'. Use -х тул when the cause is in the present or future: Цаг агаар муудах тул... 'as the weather will get worse...'. Use -сан/-сэн/-сон/-сөн учраас for a cause that already happened, choosing the vowel by vowel harmony: хоцорсон учраас 'because it was late', ирсэн учраас 'because they came'. Negative causes use -аагүй тул: гаргаагүй тул 'because they didn't issue it'. The cause clause always comes first and the result follows. Тул sounds more formal and written, which is why it appears so often in зарлал.",
+  "explain_mn": "Англи хэлэнд ямар нэг зүйл хэт их байсны үр дүнг тайлбарлахдаа so...that, such...that бүтцийг хэрэглэнэ. So-г тэмдэг нэр эсвэл дайвар үгийн өмнө тавина: The sound was so bad that we left. Such-ийг (a/an) + тэмдэг нэр + нэр үгийн өмнө тавина: It was such a long wait that the children fell asleep. Тоолж болохгүй эсвэл олон тооны нэр үгийн өмнө a/an хэрэглэхгүй: such loud music, such long queues. That-ийн дараа үр дүн гарна. Ярианд that-ийг заримдаа орхидог ч албан гомдол бичихдээ үлдээх нь зөв.",
+  "examples": [
+   {
+    "mn": "Бороо орох тул нээлтийн ёслол хойшлогдлоо.",
+    "en": "The opening ceremony has been postponed because it is going to rain.",
+    "mn_latin": "Boroo orokh tul neeltiin yoslol khoishlogdloo."
+   },
+   {
+    "mn": "Тайзны тоног төхөөрөмж хэтэрхий их эвдэрсэн учраас тоглолт цуцлагдсан.",
+    "en": "The stage equipment broke down so badly that the concert was canceled.",
+    "mn_latin": "Taizny tonog tökhöörömj kheterkhii ikh evdersen uchraas toglolt tsutslagdsan."
+   },
+   {
+    "mn": "Дараалал үнэхээр урт байсан учраас бид нээлтийг үзэж чадаагүй.",
+    "en": "The line was so long that we missed the opening.",
+    "mn_latin": "Daraalal ünekheer urt baisan uchraas bid neeltiig üzej chadaagüi."
+   },
+   {
+    "mn": "Ийм муу зохион байгуулалттай фестиваль байсан учраас би гомдол бичлээ.",
+    "en": "It was such a badly organized festival that I wrote a complaint.",
+    "mn_latin": "Iim muu zokhion baiguulalttai fyestivali baisan uchraas bi gomdol bichlee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Дуучны онгоц хоцор___ учраас тоглолт хойшлогдлоо.",
+   "answer": "сон",
+   "options": [
+    "сон",
+    "сан",
+    "сэн",
+    "сөн"
+   ],
+   "translation": "The concert was delayed because the singer's flight was late.",
+   "explain_en": "The past participle before учраас follows vowel harmony. Хоцор- has the vowel о, so the ending is -сон: хоцорсон учраас.",
+   "explain_mn": "Учраас-ын өмнөх -сан дагавар эгшиг зохицох ёсыг дагана. Хоцор- үйл үг о эгшигтэй тул -сон болж, хоцорсон учраас гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Цаг агаар муудах тул өнөөдрийн тоглолт ___.",
+   "answer": "цуцлагдлаа",
+   "options": [
+    "цуцлагдлаа",
+    "цуцлагдах тул",
+    "цуцлах",
+    "цуцлагдаж"
+   ],
+   "translation": "Today's concert has been canceled because the weather is going to get worse.",
+   "explain_en": "After the cause clause (-х тул) you need a finished main verb. The subject is 'the concert', so the passive цуцлагдах ('to be canceled') is used in the completed form -лаа.",
+   "explain_mn": "-х тул шалтгааны хэсгийн дараа өгүүлбэрийг төгсгөх үйл үг хэрэгтэй. Тоглолт өөрөө цуцлагдаж байгаа учраас үйлдэгдэх хэвийн цуцлагдах үйл үгийг -лаа нөхцөлтэй хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид гарсан саатлын төлөө ___ гуйж байна.",
+   "answer": "уучлал",
+   "options": [
+    "уучлал",
+    "гомдол",
+    "зарлал",
+    "нөхөн олговор"
+   ],
+   "translation": "We apologize for the delay.",
+   "explain_en": "The fixed phrase for 'to apologize' is уучлал гуйх. Гомдол is a complaint, зарлал is an announcement, and нөхөн олговор is compensation.",
+   "explain_mn": "'Уучлал гуйх' нь 'apologize' гэсэн утгатай тогтвортой хэллэг. Гомдол нь complaint, зарлал нь announcement, нөхөн олговор нь compensation гэсэн утгатай."
+  },
+  {
+   "lang": "en",
+   "text": "The delay was ___ a big problem that many guests left.",
+   "answer": "such",
+   "options": [
+    "such",
+    "so",
+    "very",
+    "too"
+   ],
+   "translation": "Саатал үнэхээр том асуудал болсон учраас олон зочин буцаж явсан.",
+   "explain_en": "Before a/an + adjective + noun (a big problem), use such, not so.",
+   "explain_mn": "a/an + тэмдэг нэр + нэр үг (a big problem) бүтцийн өмнө such хэрэглэнэ. So-г араасаа нэр үггүй тэмдэг нэр эсвэл дайвар үгийн өмнө тавина: so big, so badly."
+  },
+  {
+   "lang": "en",
+   "text": "The music was ___ loud that we left early.",
+   "answer": "so",
+   "options": [
+    "so",
+    "such",
+    "very",
+    "too"
+   ],
+   "translation": "Хөгжим хэтэрхий чанга байсан учраас бид эрт явсан.",
+   "explain_en": "Loud is an adjective with no noun after it, so use so...that.",
+   "explain_mn": "Loud нь тэмдэг нэр бөгөөд араас нь нэр үг байхгүй тул so...that хэрэглэнэ. Very, too-г that-тай хамт ингэж хэрэглэдэггүй."
+  },
+  {
+   "lang": "en",
+   "text": "It was such a disappointing evening ___ I asked for a refund.",
+   "answer": "that",
+   "options": [
+    "that",
+    "so",
+    "because",
+    "which"
+   ],
+   "translation": "Үдэш үнэхээр сэтгэл дундуур өнгөрсөн учраас би мөнгөө буцааж авахыг хүссэн.",
+   "explain_en": "Such...that is a fixed pair: such introduces the extreme, and that introduces the result.",
+   "explain_mn": "Such...that хамтдаа хэрэглэгддэг бүтэц. Such хэт их байдлыг заана, that-ийн дараа үр дүн нь гарна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emma",
+   "mn": "Сайн байна уу. Би өчигдрийн тоглолтын талаар гомдол гаргах гэсэн юм.",
+   "en": "Hello. I'd like to make a complaint about yesterday's concert.",
+   "mn_latin": "Sain baina uu. Bi öchigdriin togloltyn talaar gomdol gargakh gesen yum."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Сайн байна уу. Тоглолт хойшлогдсон учраас та бухимдсан байх. Бид чин сэтгэлээсээ уучлал гуйж байна.",
+   "en": "Hello. You must be upset because the concert was delayed. We sincerely apologize.",
+   "mn_latin": "Sain baina uu. Toglolt khoishlogdson uchraas ta bukhimdsan baikh. Bid chin setgeleesee uuchlal guij baina."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Хүлээлт үнэхээр удаан байсан учраас найз маань тоглолт эхлэхээс өмнө явчихсан.",
+   "en": "The wait was so long that my friend left before the show even started.",
+   "mn_latin": "Khüleelt ünekheer udaan baisan uchraas naiz maani toglolt ekhlekhees ömnö yavchikhsan."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тайзны тоног төхөөрөмжид аюулгүй байдлын шалгалт хийх шаардлага гарсан тул эхлэлийг хойшлуулсан.",
+   "en": "We had to run a safety check on the stage equipment, so we delayed the start.",
+   "mn_latin": "Taizny tonog tökhöörömjid ayuulgüi baidlyn shalgalt khiikh shaardlaga garsan tul ekhleliig khoishluulsan."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Ойлголоо. Гэхдээ зарлалыг яагаад эрт гаргаагүй юм бэ?",
+   "en": "I understand. But why wasn't the announcement made earlier?",
+   "mn_latin": "Oilgoloo. Gekhdee zarlalyg yaagaad ert gargaagüi yum be?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Энэ бол манай алдаа. Нөхөн олговор болгож тасалбарын үнийн хагасыг буцаан олгоно.",
+   "en": "That was our mistake. As compensation, we will refund half of the ticket price.",
+   "mn_latin": "Ene bol manai aldaa. Nökhön olgovor bolgoj tasalbaryn üniin khagasyg butsaan olgono."
+  },
+  {
+   "speaker": "Emma",
+   "mn": "Баярлалаа. Мэдээллээ имэйлээр явуулж болох уу?",
+   "en": "Thank you. Can I send my details by email?",
+   "mn_latin": "Bayarlalaa. Medeellee imeileer yavuulj bolokh uu?"
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэгэлгүй яах вэ. Зохион байгуулагчдын имэйл хаяг руу бичнэ үү.",
+   "en": "Of course. Please write to the organizers' email address.",
+   "mn_latin": "Tegelgüi yaakh ve. Zokhion baiguulagchdyn imeil khayag ruu bichne üü."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolia's summer festivals and Naadam events are mostly held outdoors, so sudden rain, strong wind, or dust storms often cause delays and cancellations. Organizers usually post announcements on their Facebook pages first, and refunds are typically made by bank transfer. A complaint written in formal language with polite forms such as та, -на уу, and уучлал гуйх usually gets a faster and more serious response.",
+  "mn": "Монголын зуны фестиваль, наадмын арга хэмжээ ихэвчлэн задгай талбайд болдог тул гэнэтийн бороо, хүчтэй салхи, шороон шуурганы улмаас хойшлогдох, цуцлагдах нь элбэг. Зохион байгуулагчид зарлалаа ихэвчлэн эхлээд Facebook хуудсандаа нийтэлдэг бөгөөд мөнгийг голдуу дансаар буцаан олгодог. Та, -на уу, уучлал гуйх зэрэг эелдэг хэлбэр ашиглан албан хэлээр бичсэн гомдолд ихэвчлэн илүү хурдан, нухацтай хариу өгдөг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A solid, natural lesson with correct Mongolian. There was one mismatched grammar example and one overstated rule about 'so'."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 12,
+  "notes": "Mostly sound. Fixes are US spelling of 'canceled', one ambiguous alt_mn, a mismatched fill-blank explanation, and a refund translation that reversed the meaning.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_en",
+    "why": "American spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "American spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_mn",
+    "why": "'Дуу муу' can mean 'the song was bad', which changes the meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "American spelling"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "en",
+    "why": "American spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "translation",
+    "why": "American spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "American spelling"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "The mn explanation must match the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'Буцааж өгөхийг' suggests the speaker gives the money; 'asked for a refund' means getting it back"
+   }
+  ]
+ }
+}

@@ -1,0 +1,407 @@
+{
+ "intro_en": "Learn how Mongolians check the almanac (цаглабар) in the morning, and the key words for years, months, and lucky days. You'll also practice guessing about the present with -х байх, like English \"must be\" and \"might be.\"",
+ "intro_mn": "Монголчууд өглөө цаглабар хэрхэн үздэг, жил, сар, өдрийн сайн муутай холбоотой үгсийг судална. Мөн одоо цагийн таамаглалыг англиар \"must be\", \"might be\" гэж хэрхэн илэрхийлэхийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "цаглабар",
+   "en": "almanac (traditional calendar)",
+   "pos": "noun",
+   "example_mn": "Аав өглөө бүр цаглабар үздэг.",
+   "example_en": "My dad checks the almanac every morning.",
+   "mn_latin": "tsaglabar"
+  },
+  {
+   "mn": "билгийн тоолол",
+   "en": "lunar calendar",
+   "pos": "noun phrase",
+   "example_mn": "Цагаан сарыг билгийн тооллоор тэмдэглэдэг.",
+   "example_en": "Tsagaan Sar is celebrated according to the lunar calendar.",
+   "mn_latin": "bilgiin toolol"
+  },
+  {
+   "mn": "өдрийн сайн муу",
+   "en": "whether a day is lucky or unlucky",
+   "pos": "noun phrase",
+   "example_mn": "Эмээ өдрийн сайн мууг үргэлж хардаг.",
+   "example_en": "Grandma always checks whether the day is lucky or unlucky.",
+   "mn_latin": "ödriin sain muu"
+  },
+  {
+   "mn": "мэнгэ",
+   "en": "mewa (astrological sign)",
+   "pos": "noun",
+   "example_mn": "Цаглабарт өдөр бүрийн мэнгийг бичсэн байдаг.",
+   "example_en": "The almanac lists the mewa for each day.",
+   "mn_latin": "menge"
+  },
+  {
+   "mn": "жил",
+   "en": "year (also: zodiac year)",
+   "pos": "noun",
+   "example_mn": "Та ямар жилтэй вэ?",
+   "example_en": "What zodiac year were you born in?",
+   "mn_latin": "jil"
+  },
+  {
+   "mn": "сар",
+   "en": "month; moon",
+   "pos": "noun",
+   "example_mn": "Билгийн тооллын сар шинийн нэгнээс эхэлдэг.",
+   "example_en": "A lunar month begins on the first day of the new moon.",
+   "mn_latin": "sar"
+  },
+  {
+   "mn": "өлзийтэй",
+   "en": "auspicious, lucky",
+   "pos": "adjective",
+   "example_mn": "Өнөөдөр өлзийтэй өдөр гэнэ.",
+   "example_en": "They say today is an auspicious day.",
+   "mn_latin": "ölziitei"
+  },
+  {
+   "mn": "үс засуулах",
+   "en": "to get a haircut",
+   "pos": "verb",
+   "example_mn": "Би сайн өдөр үс засуулдаг.",
+   "example_en": "I get my hair cut on lucky days.",
+   "mn_latin": "üs zasuulakh"
+  },
+  {
+   "mn": "аян замд гарах",
+   "en": "to set out on a journey",
+   "pos": "verb phrase",
+   "example_mn": "Бид маргааш аян замд гарна.",
+   "example_en": "We're setting out on a journey tomorrow.",
+   "mn_latin": "ayan zamd garakh"
+  },
+  {
+   "mn": "тохиромжтой",
+   "en": "suitable, good (for something)",
+   "pos": "adjective",
+   "example_mn": "Энэ өдөр шинэ ажил эхлэхэд тохиромжтой.",
+   "example_en": "This day is good for starting new work.",
+   "mn_latin": "tokhiromjtoi"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөөдөр сайн өдөр байх.",
+   "en": "Today must be a good day.",
+   "alt_mn": [],
+   "alt_en": [
+    "Today is probably a good day.",
+    "Today should be a good day."
+   ],
+   "mn_latin": "Önöödör sain ödör baikh."
+  },
+  {
+   "mn": "Аав одоо цаглабар үзэж байгаа байх.",
+   "en": "Dad must be checking the almanac right now.",
+   "alt_mn": [
+    "Аав одоо цаглабар харж байгаа байх."
+   ],
+   "alt_en": [
+    "Dad is probably checking the almanac right now."
+   ],
+   "mn_latin": "Aav odoo tsaglabar üzej baigaa baikh."
+  },
+  {
+   "mn": "Энэ цаглабар билгийн тооллоор зохиогдсон байх.",
+   "en": "This almanac must be based on the lunar calendar.",
+   "alt_mn": [],
+   "alt_en": [
+    "This almanac is probably based on the lunar calendar."
+   ],
+   "mn_latin": "Ene tsaglabar bilgiin toolloor zokhiogdson baikh."
+  },
+  {
+   "mn": "Ээжийн мэнгэ энэ жил сайн байх.",
+   "en": "Mom's mewa must be good this year.",
+   "alt_mn": [],
+   "alt_en": [
+    "Mom's mewa is probably good this year."
+   ],
+   "mn_latin": "Eejiin menge ene jil sain baikh."
+  },
+  {
+   "mn": "Тэр морин жилтэй байх.",
+   "en": "He must be a Horse.",
+   "alt_mn": [],
+   "alt_en": [
+    "She must be a Horse.",
+    "He was probably born in the Year of the Horse.",
+    "She was probably born in the Year of the Horse."
+   ],
+   "mn_latin": "Ter morin jiltei baikh."
+  },
+  {
+   "mn": "Өнөөдөр шинийн найман байх.",
+   "en": "Today must be the eighth day of the lunar month.",
+   "alt_mn": [],
+   "alt_en": [
+    "Today is probably the eighth of the lunar month."
+   ],
+   "mn_latin": "Önöödör shiniin naiman baikh."
+  },
+  {
+   "mn": "Өнөөдөр хийдэд хүн их байх.",
+   "en": "There must be a lot of people at the monastery today.",
+   "alt_mn": [
+    "Өнөөдөр хийдэд олон хүн байх."
+   ],
+   "alt_en": [
+    "The monastery is probably crowded today."
+   ],
+   "mn_latin": "Önöödör khiided khün ikh baikh."
+  },
+  {
+   "mn": "Эмээ өдрийн сайн муугаа харж байж л гэрээсээ гардаг.",
+   "en": "Grandma never leaves home without first checking whether the day is lucky.",
+   "alt_mn": [],
+   "alt_en": [
+    "Grandma always checks how lucky the day is before she leaves home."
+   ],
+   "mn_latin": "Emee ödriin sain muugaa kharj baij l gereesee gardag."
+  },
+  {
+   "mn": "Цаглабарт өнөөдөр аян замд гарахад өлзийтэй гэж бичсэн байна.",
+   "en": "The almanac says today is auspicious for setting out on a journey.",
+   "alt_mn": [],
+   "alt_en": [
+    "According to the almanac, today is a lucky day to start a trip."
+   ],
+   "mn_latin": "Tsaglabart önöödör ayan zamd garakhad ölziitei gej bichsen baina."
+  },
+  {
+   "mn": "Энэ өдөр шинэ ажил эхлэхэд тохиромжтой биш байх.",
+   "en": "This day probably isn't good for starting a new job.",
+   "alt_mn": [],
+   "alt_en": [
+    "This probably isn't a good day to start a new job."
+   ],
+   "mn_latin": "Ene ödör shine ajil ekhlekhed tokhiromjtoi bish baikh."
+  },
+  {
+   "mn": "Өнөөдөр үс засуулахад муу өдөр байх.",
+   "en": "Today must be a bad day for a haircut.",
+   "alt_mn": [],
+   "alt_en": [
+    "Today is probably a bad day to get a haircut."
+   ],
+   "mn_latin": "Önöödör üs zasuulakhad muu ödör baikh."
+  },
+  {
+   "mn": "Цаглабар гал тогооны ширээн дээр байх.",
+   "en": "The almanac must be on the kitchen table.",
+   "alt_mn": [],
+   "alt_en": [
+    "The almanac is probably on the kitchen table."
+   ],
+   "mn_latin": "Tsaglabar gal togoony shireen deer baikh."
+  }
+ ],
+ "grammar": {
+  "title_en": "Guessing about the present: -х байх",
+  "title_mn": "Одоо цагийн таамаглал: must be / might be",
+  "explain_en": "To make a confident guess about something happening now, put байх after the word you're guessing about. After a noun or adjective, just add байх: сайн өдөр байх (it must be a good day). For an action happening right now, use -ж байгаа байх: үзэж байгаа байх (he must be looking). For the negative, use биш байх: сайн биш байх (it probably isn't good). The meaning is close to English \"must be\" or \"probably is.\" Be careful: a plain verb + -х байх (бороо орох байх) usually points to the future (\"it'll probably rain\"). For a weaker \"might,\" Mongolian often uses -ж магадгүй.",
+  "explain_mn": "Англи хэлэнд одоо байгаа зүйлийг таамаглахдаа \"must be\", \"might be\" хэлбэрийг хэрэглэдэг. \"Must be\" бол итгэлтэй таамаглал бөгөөд монголоор \"-х байх\"-тай ойролцоо: Today must be a good day. (Өнөөдөр сайн өдөр байх.) \"Might be\" бол итгэл багатай таамаглал бөгөөд \"-ж магадгүй\"-тэй ойролцоо: It might be in the kitchen. (Гал тогоонд байж магадгүй.) Одоо болж буй үйлдлийг таамаглахдаа \"must be + -ing\" хэлбэрийг хэрэглэнэ: He must be checking the almanac. Must, might-ын дараа үйл үг үргэлж үндсэн хэлбэрээрээ байна: must be, \"must is\" гэж хэлэхгүй.",
+  "examples": [
+   {
+    "mn": "Өнөөдөр өлзийтэй өдөр байх.",
+    "en": "Today must be an auspicious day.",
+    "mn_latin": "Önöödör ölziitei ödör baikh."
+   },
+   {
+    "mn": "Эмээ одоо цаглабар уншиж байгаа байх.",
+    "en": "Grandma must be reading the almanac now.",
+    "mn_latin": "Emee odoo tsaglabar unshij baigaa baikh."
+   },
+   {
+    "mn": "Энэ өдөр аян замд гарахад сайн биш байх.",
+    "en": "This day probably isn't good for a journey.",
+    "mn_latin": "Ene ödör ayan zamd garakhad sain bish baikh."
+   },
+   {
+    "mn": "Цаглабар шүүгээнд байж магадгүй.",
+    "en": "The almanac might be in the cupboard.",
+    "mn_latin": "Tsaglabar shüügeend baij magadgüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өнөөдөр шинийн найман ___.",
+   "answer": "байх",
+   "options": [
+    "байх",
+    "байна уу",
+    "бол",
+    "байгаагүй"
+   ],
+   "translation": "Today must be the eighth day of the lunar month.",
+   "explain_en": "Adding байх after a noun phrase turns it into a confident guess: \"must be.\"",
+   "explain_mn": "Нэр үгийн дараа \"байх\" нэмбэл итгэлтэй таамаглал болно. Англиар \"must be\" гэж орчуулна."
+  },
+  {
+   "lang": "mn",
+   "text": "Аав одоо цаглабар үзэж ___ байх.",
+   "answer": "байгаа",
+   "options": [
+    "байгаа",
+    "байна",
+    "байх",
+    "байв"
+   ],
+   "translation": "Dad must be checking the almanac right now.",
+   "explain_en": "For a guess about an action happening right now, use -ж байгаа байх. Only байгаа can come directly before байх.",
+   "explain_mn": "Яг одоо болж буй үйлдлийг таамаглахдаа \"-ж байгаа байх\" хэлбэрийг хэрэглэнэ. \"Байх\"-ын өмнө зөвхөн \"байгаа\" шууд орж болно. Англиар \"must be + -ing\" болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ өдөр үс засуулахад тохиромжтой ___ байх.",
+   "answer": "биш",
+   "options": [
+    "биш",
+    "үгүй",
+    "гүй",
+    "битгий"
+   ],
+   "translation": "This day probably isn't good for a haircut.",
+   "explain_en": "To make the guess negative after an adjective, use биш байх (\"probably isn't\"). Битгий is used for commands, and үгүй is used for answering \"no.\"",
+   "explain_mn": "Тэмдэг нэрийн дараа үгүйсгэсэн таамаглалыг \"биш байх\" гэж илэрхийлнэ. Англиар \"probably isn't\" гэнэ. \"Битгий\"-г тушаалд, \"үгүй\"-г \"no\" гэж хариулахад хэрэглэдэг."
+  },
+  {
+   "lang": "en",
+   "text": "Grandma is wearing her best deel. Today ___ be a special day.",
+   "answer": "must",
+   "options": [
+    "must",
+    "can",
+    "does",
+    "is"
+   ],
+   "translation": "Эмээ хамгийн сайхан дээлээ өмссөн байна. Өнөөдөр онцгой өдөр байх.",
+   "explain_en": "We have clear evidence (the best deel), so \"must\" gives a confident deduction.",
+   "explain_mn": "Тодорхой шалтгаан (сайхан дээл) байгаа тул итгэлтэй таамаглалыг \"must\"-аар илэрхийлнэ. Энэ нь монголоор \"-х байх\" юм."
+  },
+  {
+   "lang": "en",
+   "text": "I'm not sure, but the almanac ___ be in the kitchen.",
+   "answer": "might",
+   "options": [
+    "might",
+    "must",
+    "is",
+    "has"
+   ],
+   "translation": "Сайн мэдэхгүй ч цаглабар гал тогоонд байж магадгүй.",
+   "explain_en": "\"I'm not sure\" signals a weak guess, so \"might\" fits, not \"must.\"",
+   "explain_mn": "\"I'm not sure\" гэж итгэл багатай байгаа тул \"might\" (-ж магадгүй) тохирно. \"Must\" бол хэт итгэлтэй сонсогдоно."
+  },
+  {
+   "lang": "en",
+   "text": "The monastery is full of people. It must ___ a holy day.",
+   "answer": "be",
+   "options": [
+    "be",
+    "is",
+    "being",
+    "been"
+   ],
+   "translation": "Хийдэд хүн дүүрэн байна. Ариун өдөр байх.",
+   "explain_en": "After a modal verb like \"must,\" use the base form: must be.",
+   "explain_mn": "\"Must\"-ын дараа үйл үг үргэлж үндсэн хэлбэрээрээ байна: \"must be\". \"Must is\" гэж хэлэхгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Ээж ээ, өглөө цаглабар үзсэн үү? Би өнөөдөр Дархан руу явах гэж байна.",
+   "en": "Mom, did you check the almanac this morning? I'm planning to go to Darkhan today.",
+   "mn_latin": "Eej ee, öglöö tsaglabar üzsen üü? Bi önöödör Darkhan ruu yavakh gej baina."
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Үзсэн. Өнөөдөр шинийн арван тав. Аян замд гарахад өлзийтэй гэж бичсэн байна.",
+   "en": "I did. Today is the fifteenth of the lunar month. It says it's auspicious for setting out on a journey.",
+   "mn_latin": "Üzsen. Önöödör shiniin arvan tav. Ayan zamd garakhad ölziitei gej bichsen baina."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Тэгвэл сайн өдөр байх. Үс засуулахад ямар вэ?",
+   "en": "Then it must be a good day. What about getting a haircut?",
+   "mn_latin": "Tegvel sain ödör baikh. Üs zasuulakhad yamar ve?"
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Үс засуулахад муу гэнэ. Маргааш засуулбал дээр.",
+   "en": "It says it's bad for a haircut. You'd better get one tomorrow.",
+   "mn_latin": "Üs zasuulakhad muu gene. Margaash zasuulbal deer."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "За. Бат ах одоо машинаа бэлдэж байгаа байх, бид хамт явна.",
+   "en": "Okay. Bat must be getting his car ready now. We're going together.",
+   "mn_latin": "Za. Bat akh odoo mashinaa beldej baigaa baikh, bid khamt yavna."
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Тийм байх. Хоёулаа замдаа болгоомжтой яваарай.",
+   "en": "He must be. You two be careful on the road.",
+   "mn_latin": "Tiim baikh. Khoyoulaa zamdaa bolgoomjtoi yavaarai."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Ээж ээ, таны мэнгэ энэ жил ямар вэ?",
+   "en": "Mom, how's your mewa this year?",
+   "mn_latin": "Eej ee, tany menge ene jil yamar ve?"
+  },
+  {
+   "speaker": "Оюун",
+   "mn": "Цаглабараас харахад сайн жил байх.",
+   "en": "Judging by the almanac, it must be a good year.",
+   "mn_latin": "Tsaglabaraas kharakhad sain jil baikh."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian families buy a new цаглабар every year before Tsagaan Sar and check it in the morning to see whether the day is good for travel, a haircut, or starting something new. It is based on the Tibetan-Mongolian lunar calendar, which also sets the date of Tsagaan Sar. Days like the 8th, 15th, and 30th of the lunar month are considered especially meaningful, so monasteries are often busy then.",
+  "mn": "Олон монгол гэр бүл жил бүр Цагаан сарын өмнө шинэ цаглабар худалдаж авдаг. Өглөө бүр түүнийг харж, тухайн өдөр аян замд гарах, үс засуулах, шинэ ажил эхлэхэд тохиромжтой эсэхийг шалгадаг. Цаглабар нь билгийн тооллоор зохиогддог бөгөөд Цагаан сарын өдрийг ч мөн энэ тооллоор тогтоодог. Билгийн тооллын сарын шинийн найман, арван тав, гучин зэрэг өдрүүд онцгой ач холбогдолтой гэж үздэг тул эдгээр өдөр хийдүүдэд хүн олон байдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 4,
+  "notes": "A solid, accurate lesson with correct Cyrillic, case endings and grammar explanations. Only one unnatural Mongolian phrasing and a terminology inconsistency in the intro needed fixing."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 4,
+  "notes": "Mostly solid. Fixed one must/might mismatch in a translation and aligned two mn fill-blank explanations with their en versions.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "en",
+    "why": "биш байх means 'probably isn't', not the weaker 'might not' (-ж магадгүй), as the grammar note explains"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "Removed the awkward 'calendar must follow the lunar calendar' alternative"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "The mn explanation was missing the point the en version makes"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Matched the en version: mentions the distractors and drops the extra 'must not be'"
+   }
+  ]
+ }
+}

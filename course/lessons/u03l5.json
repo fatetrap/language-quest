@@ -1,0 +1,402 @@
+{
+ "intro_en": "You will learn to ask and answer \"Who is this?\" and \"What is this?\" about people and things in a room or a photo. You will also see when the question word is followed by бэ and when by вэ.",
+ "intro_mn": "Та өрөө эсвэл зураг дээрх хүн, юмыг «Энэ хэн бэ? Энэ юу вэ?» гэж асууж, хариулж сурна. Мөн асуух үгийн дараа хэзээ «бэ», хэзээ «вэ» бичихийг мэдэх болно.",
+ "vocab": [
+  {
+   "mn": "хэн",
+   "en": "who",
+   "pos": "pronoun",
+   "example_mn": "Энэ хэн бэ?",
+   "example_en": "Who is this?",
+   "mn_latin": "khen"
+  },
+  {
+   "mn": "юу",
+   "en": "what",
+   "pos": "pronoun",
+   "example_mn": "Энэ юу вэ?",
+   "example_en": "What is this?",
+   "mn_latin": "yuu"
+  },
+  {
+   "mn": "багш",
+   "en": "teacher",
+   "pos": "noun",
+   "example_mn": "Тэр миний багш.",
+   "example_en": "She is my teacher.",
+   "mn_latin": "bagsh"
+  },
+  {
+   "mn": "оюутан",
+   "en": "student",
+   "pos": "noun",
+   "example_mn": "Би оюутан.",
+   "example_en": "I am a student.",
+   "mn_latin": "oyuutan"
+  },
+  {
+   "mn": "найз",
+   "en": "friend",
+   "pos": "noun",
+   "example_mn": "Энэ миний найз.",
+   "example_en": "This is my friend.",
+   "mn_latin": "naiz"
+  },
+  {
+   "mn": "компьютер",
+   "en": "computer",
+   "pos": "noun",
+   "example_mn": "Энэ компьютер.",
+   "example_en": "This is a computer.",
+   "mn_latin": "kompiyutyer"
+  },
+  {
+   "mn": "зураг",
+   "en": "picture, photo",
+   "pos": "noun",
+   "example_mn": "Энэ сайхан зураг.",
+   "example_en": "This is a nice picture.",
+   "mn_latin": "zurag"
+  },
+  {
+   "mn": "хүн",
+   "en": "person",
+   "pos": "noun",
+   "example_mn": "Тэр сайн хүн.",
+   "example_en": "He is a good person.",
+   "mn_latin": "khün"
+  },
+  {
+   "mn": "өрөө",
+   "en": "room",
+   "pos": "noun",
+   "example_mn": "Энэ миний өрөө.",
+   "example_en": "This is my room.",
+   "mn_latin": "öröö"
+  },
+  {
+   "mn": "миний",
+   "en": "my",
+   "pos": "pronoun",
+   "example_mn": "Энэ миний ном.",
+   "example_en": "This is my book.",
+   "mn_latin": "minii"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ хэн бэ?",
+   "en": "Who is this?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene khen be?"
+  },
+  {
+   "mn": "Энэ юу вэ?",
+   "en": "What is this?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene yuu ve?"
+  },
+  {
+   "mn": "Энэ миний найз.",
+   "en": "This is my friend.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is a friend of mine."
+   ],
+   "mn_latin": "Ene minii naiz."
+  },
+  {
+   "mn": "Тэр миний багш.",
+   "en": "She is my teacher.",
+   "alt_mn": [
+    "Тэр бол миний багш."
+   ],
+   "alt_en": [
+    "He is my teacher.",
+    "That is my teacher."
+   ],
+   "mn_latin": "Ter minii bagsh."
+  },
+  {
+   "mn": "Энэ компьютер.",
+   "en": "This is a computer.",
+   "alt_mn": [],
+   "alt_en": [
+    "It is a computer."
+   ],
+   "mn_latin": "Ene kompiyutyer."
+  },
+  {
+   "mn": "Тэр юу вэ?",
+   "en": "What is that?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ter yuu ve?"
+  },
+  {
+   "mn": "Би оюутан.",
+   "en": "I am a student.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bi oyuutan."
+  },
+  {
+   "mn": "Тэр багш уу?",
+   "en": "Is he a teacher?",
+   "alt_mn": [],
+   "alt_en": [
+    "Is she a teacher?",
+    "Is that a teacher?"
+   ],
+   "mn_latin": "Ter bagsh uu?"
+  },
+  {
+   "mn": "Тийм, тэр багш.",
+   "en": "Yes, he is a teacher.",
+   "alt_mn": [],
+   "alt_en": [
+    "Yes, she is a teacher."
+   ],
+   "mn_latin": "Tiim, ter bagsh."
+  },
+  {
+   "mn": "Зураг дээр хэн байна вэ?",
+   "en": "Who is in the picture?",
+   "alt_mn": [],
+   "alt_en": [
+    "Who is in the photo?"
+   ],
+   "mn_latin": "Zurag deer khen baina ve?"
+  },
+  {
+   "mn": "Энэ ямар өрөө вэ?",
+   "en": "What kind of room is this?",
+   "alt_mn": [],
+   "alt_en": [
+    "What room is this?"
+   ],
+   "mn_latin": "Ene yamar öröö ve?"
+  },
+  {
+   "mn": "Энэ миний зураг.",
+   "en": "This is my picture.",
+   "alt_mn": [],
+   "alt_en": [
+    "This is my photo."
+   ],
+   "mn_latin": "Ene minii zurag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Who and what: хэн бэ, юу вэ",
+  "title_mn": "Хэн бэ? Юу вэ? гэсэн асуулт",
+  "explain_en": "Mongolian puts the question word (хэн = who, юу = what) after \"this\", followed by a small ending: Энэ хэн бэ? Энэ юу вэ? There is no word for \"is\". Unlike yes/no questions with уу/үү, these questions use бэ or вэ. бэ follows a word ending in м, н or в (хэн бэ, ном бэ). вэ follows a word ending in a vowel or any other consonant (юу вэ, өрөө вэ, ямар вэ). The answer simply drops the question word and the ending: Энэ миний найз. Note for English speakers: the word order is Энэ + хэн/юу + бэ/вэ, so the question word comes after \"this\", while in English it comes first.",
+  "explain_mn": "Монгол хэлэнд асуух үг (хэн, юу) өгүүлбэрийн төгсгөлд орж, дараа нь «бэ» эсвэл «вэ» залгана: Энэ хэн бэ? Энэ юу вэ? «Байна» гэх мэт үйл үг шаардлагагүй. «м, н, в» үсгээр төгссөн үгийн дараа «бэ» (хэн бэ, ном бэ), эгшиг болон бусад гийгүүлэгчээр төгссөн үгийн дараа «вэ» (юу вэ, өрөө вэ, ямар вэ) бичнэ. Тийм/үгүй гэсэн асуултад «уу/үү» хэрэглэнэ. Англи хэлэнд асуух үг (who, what) өгүүлбэрийн эхэнд орж, «is» заавал хэрэгтэй: Who is this? What is this? Хүнийг «who», юмыг «what» гэж ялгана.",
+  "examples": [
+   {
+    "mn": "Энэ хэн бэ?",
+    "en": "Who is this?",
+    "mn_latin": "Ene khen be?"
+   },
+   {
+    "mn": "Энэ юу вэ?",
+    "en": "What is this?",
+    "mn_latin": "Ene yuu ve?"
+   },
+   {
+    "mn": "Энэ ямар ном бэ?",
+    "en": "What kind of book is this?",
+    "mn_latin": "Ene yamar nom be?"
+   },
+   {
+    "mn": "Энэ ямар өрөө вэ?",
+    "en": "What kind of room is this?",
+    "mn_latin": "Ene yamar öröö ve?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ юу ___?",
+   "answer": "вэ",
+   "options": [
+    "вэ",
+    "бэ",
+    "уу",
+    "үү"
+   ],
+   "translation": "What is this?",
+   "explain_en": "юу ends in a vowel, so the question ending is вэ.",
+   "explain_mn": "«юу» эгшгээр төгссөн тул «вэ» бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр хэн ___?",
+   "answer": "бэ",
+   "options": [
+    "бэ",
+    "вэ",
+    "уу",
+    "үү"
+   ],
+   "translation": "Who is that?",
+   "explain_en": "хэн ends in the consonant н, so we use бэ.",
+   "explain_mn": "«хэн» «н» үсгээр төгссөн тул «бэ» бичнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ багш ___?",
+   "answer": "уу",
+   "options": [
+    "уу",
+    "үү",
+    "бэ",
+    "вэ"
+   ],
+   "translation": "Is this a teacher?",
+   "explain_en": "This is a yes/no question, so we use уу (after a word like багш, with the back vowel 'а'), not бэ or вэ.",
+   "explain_mn": "Энэ «тийм/үгүй» гэж хариулах асуулт тул «уу» хэрэглэнэ. «бэ, вэ» нь асуух үгтэй хамт ордог."
+  },
+  {
+   "lang": "en",
+   "text": "___ is this? It is a computer.",
+   "answer": "What",
+   "options": [
+    "What",
+    "Who",
+    "Where",
+    "Whose"
+   ],
+   "translation": "Энэ юу вэ? Энэ компьютер.",
+   "explain_en": "We use \"What\" for things such as a computer.",
+   "explain_mn": "Юмыг асуухад «What» хэрэглэнэ. Компьютер бол юм."
+  },
+  {
+   "lang": "en",
+   "text": "___ is she? She is my teacher.",
+   "answer": "Who",
+   "options": [
+    "Who",
+    "What",
+    "Where",
+    "Whose"
+   ],
+   "translation": "Тэр хэн бэ? Тэр миний багш.",
+   "explain_en": "We use \"Who\" to ask about a person.",
+   "explain_mn": "Хүнийг асуухад «Who» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "He ___ my friend.",
+   "answer": "is",
+   "options": [
+    "is",
+    "am",
+    "are",
+    "be"
+   ],
+   "translation": "Тэр миний найз.",
+   "explain_en": "In English we need a verb: he is. Mongolian does not use one here.",
+   "explain_mn": "Англи хэлэнд «he»-ийн дараа «is» заавал хэрэгтэй. Монгол хэлэнд энд ийм үг хэрэглэдэггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Бат аа, энэ зураг дээр хэн байна вэ?",
+   "en": "Bat, who is in this picture?",
+   "mn_latin": "Bat aa, ene zurag deer khen baina ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Энэ миний найз Сараа.",
+   "en": "This is my friend Saraa.",
+   "mn_latin": "Ene minii naiz Saraa."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэр оюутан уу?",
+   "en": "Is she a student?",
+   "mn_latin": "Ter oyuutan uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Үгүй, тэр багш.",
+   "en": "No, she is a teacher.",
+   "mn_latin": "Ügüi, ter bagsh."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Энэ юу вэ?",
+   "en": "What is this?",
+   "mn_latin": "Ene yuu ve?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Энэ компьютер. Энэ миний өрөө.",
+   "en": "This is a computer. This is my room.",
+   "mn_latin": "Ene kompiyutyer. Ene minii öröö."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Сайхан өрөө байна!",
+   "en": "What a nice room!",
+   "mn_latin": "Saikhan öröö baina!"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, when you introduce someone, people often say «Энэ миний найз» (This is my friend) and then give a name. Teachers are shown great respect, and students often add «багш» after a teacher's name.",
+  "mn": "Монголчууд хүн танилцуулахдаа ихэвчлэн «Энэ миний найз» гэж хэлээд нэрийг нь хэлдэг. Багшийг маш их хүндэлдэг бөгөөд оюутан, сурагчид багшийн нэрийн дараа «багш» гэж нэмж хэлдэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 8,
+  "notes": "Mostly good, but grammar explanations had a stray typo and a weak Mongolian explanation, and a few translations were unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 6,
+  "notes": "Main problems were the inaccurate бэ/вэ rule and a wrong alternative translation. A few small wording fixes are included too.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "Тэр хэн бэ? means 'Who is that/he/she?', not 'Who is this?'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "бэ/вэ rule was inaccurate: бэ only after м, н, в; e.g. ямар вэ"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Corrected the бэ/вэ rule to match the English version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "бэ follows м/н/в, not every consonant"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Hyphen spacing; Mongolian does have the verb байх, it just isn't used here"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "More natural with байна, and consistent with the lesson sentence"
+   }
+  ]
+ }
+}

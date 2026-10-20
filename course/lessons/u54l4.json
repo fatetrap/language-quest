@@ -1,0 +1,534 @@
+{
+ "intro_en": "You will learn to talk about regrets and relief over big life decisions, such as leaving the countryside or choosing a major. You will use Mongolian -сан бол, -ах байсан and -маар байсан, and English mixed conditionals and wish / if only.",
+ "intro_mn": "Хөдөөнөөс явсан, мэргэжил сонгосон зэрэг амьдралын чухал шийдвэрийнхээ талаар харамсах, сэтгэл амрах илэрхийллийг сурна. Англи хэлний холимог нөхцөл болон wish / if only бүтцийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "харамсах",
+   "en": "to regret",
+   "pos": "verb",
+   "example_mn": "Би тэр шийдвэртээ харамсдаг.",
+   "example_en": "I regret that decision.",
+   "mn_latin": "kharamsakh"
+  },
+  {
+   "mn": "дутуу орхих",
+   "en": "to leave unfinished",
+   "pos": "verb phrase",
+   "example_mn": "Тэр сургуулиа дутуу орхисон.",
+   "example_en": "He dropped out of school.",
+   "mn_latin": "dutuu orkhikh"
+  },
+  {
+   "mn": "дурсах",
+   "en": "to reminisce, to long for",
+   "pos": "verb",
+   "example_mn": "Би хөдөөгийн амьдралаа их дурсдаг.",
+   "example_en": "I often long for my life in the countryside.",
+   "mn_latin": "dursakh"
+  },
+  {
+   "mn": "шийдвэр",
+   "en": "decision",
+   "pos": "noun",
+   "example_mn": "Энэ бол хэцүү шийдвэр байсан.",
+   "example_en": "It was a hard decision.",
+   "mn_latin": "shiidver"
+  },
+  {
+   "mn": "мэргэжил",
+   "en": "profession, major",
+   "pos": "noun",
+   "example_mn": "Би буруу мэргэжил сонгосон.",
+   "example_en": "I chose the wrong major.",
+   "mn_latin": "mergejil"
+  },
+  {
+   "mn": "сэтгэл амрах",
+   "en": "to feel relieved",
+   "pos": "verb phrase",
+   "example_mn": "Шалгалт дуусаад сэтгэл амарлаа.",
+   "example_en": "I felt relieved when the exam was over.",
+   "mn_latin": "setgel amrakh"
+  },
+  {
+   "mn": "боломж",
+   "en": "opportunity, chance",
+   "pos": "noun",
+   "example_mn": "Тэр боломжийг алдсандаа харамсав.",
+   "example_en": "He regretted missing the opportunity.",
+   "mn_latin": "bolomj"
+  },
+  {
+   "mn": "алдах",
+   "en": "to miss, to lose",
+   "pos": "verb",
+   "example_mn": "Би сайн боломж алдсан.",
+   "example_en": "I missed a good opportunity.",
+   "mn_latin": "aldakh"
+  },
+  {
+   "mn": "эргэж харах",
+   "en": "to look back",
+   "pos": "verb phrase",
+   "example_mn": "Өнгөрснөө эргэж харахад тэр зөв шийдвэр байсан.",
+   "example_en": "Looking back, it was the right decision.",
+   "mn_latin": "ergej kharakh"
+  },
+  {
+   "mn": "өөрийгөө буруутгах",
+   "en": "to blame oneself",
+   "pos": "verb phrase",
+   "example_mn": "Өөрийгөө битгий буруутга.",
+   "example_en": "Don't blame yourself.",
+   "mn_latin": "ööriigöö buruutgakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хөдөөнөөс нүүгээгүй бол би одоо мал маллаж байх байсан.",
+   "en": "If I hadn't moved from the countryside, I would be herding livestock now.",
+   "alt_mn": [
+    "Хөдөөнөөс нүүгээгүй бол одоо мал маллаж байх байсан."
+   ],
+   "alt_en": [
+    "Had I not moved from the countryside, I would be herding livestock now."
+   ],
+   "mn_latin": "Khödöönöös nüügeegüi bol bi odoo mal mallaj baikh baisan."
+  },
+  {
+   "mn": "Эмчийн мэргэжил сонгосон бол би одоо эмч байх байсан.",
+   "en": "If I had chosen medicine, I would be a doctor now.",
+   "alt_mn": [
+    "Анагаахыг сонгосон бол одоо эмч байх байсан."
+   ],
+   "alt_en": [
+    "If I had studied medicine, I would be a doctor now."
+   ],
+   "mn_latin": "Emchiin mergejil songoson bol bi odoo emch baikh baisan."
+  },
+  {
+   "mn": "Тэр үед ээжийнхээ үгийг сонссон бол сайн байсан юм.",
+   "en": "If only I had listened to my mother back then.",
+   "alt_mn": [
+    "Тэр үед ээжийнхээ үгийг сонсох байсан юм даа."
+   ],
+   "alt_en": [
+    "I wish I had listened to my mother back then."
+   ],
+   "mn_latin": "Ter üyed eejiinkhee ügiig sonsson bol sain baisan yum."
+  },
+  {
+   "mn": "Би их сургуулиа дутуу орхисондоо харамсдаг.",
+   "en": "I regret dropping out of university.",
+   "alt_mn": [
+    "Их сургуулиа дутуу орхисондоо харамсдаг."
+   ],
+   "alt_en": [
+    "I regret having dropped out of university."
+   ],
+   "mn_latin": "Bi ikh surguulia dutuu orkhisondoo kharamsdag."
+  },
+  {
+   "mn": "Тэр үед илүү хичээнгүй суралцах байсан юм.",
+   "en": "I should have studied harder back then.",
+   "alt_mn": [
+    "Тэр үед илүү сайн сурах байсан юм."
+   ],
+   "alt_en": [
+    "I ought to have studied harder at that time."
+   ],
+   "mn_latin": "Ter üyed ilüü khicheengüi suraltsakh baisan yum."
+  },
+  {
+   "mn": "Түүнд үнэнийг хэлэхгүй дуугүй байсан нь буруу байлаа.",
+   "en": "I shouldn't have kept quiet instead of telling him the truth.",
+   "alt_mn": [],
+   "alt_en": [
+    "I should have told him the truth."
+   ],
+   "mn_latin": "Tüünd üneniig khelekhgüi duugüi baisan ni buruu bailaa."
+  },
+  {
+   "mn": "Би хотод ирсэндээ сэтгэл амарсан.",
+   "en": "I felt relieved to have come to the city.",
+   "alt_mn": [
+    "Хотод ирсэндээ сэтгэл амарсан."
+   ],
+   "alt_en": [
+    "I'm relieved that I came to the city."
+   ],
+   "mn_latin": "Bi khotod irsendee setgel amarsan."
+  },
+  {
+   "mn": "Би хөдөөгийн зун, айраг, нутгийнхаа хүмүүсийг дурсдаг.",
+   "en": "I long for the countryside summers, the airag and the people from my home region.",
+   "alt_mn": [],
+   "alt_en": [
+    "I miss the summers, airag and people of my home region."
+   ],
+   "mn_latin": "Bi khödöögiin zun, airag, nutgiinkhaa khümüüsiig dursdag."
+  },
+  {
+   "mn": "Хэрвээ би англи хэлээ сайн сурсан бол одоо гадаадад ажиллаж байх байсан.",
+   "en": "If I had learned English well, I would be working abroad now.",
+   "alt_mn": [],
+   "alt_en": [
+    "Had I learned English well, I would be working abroad now."
+   ],
+   "mn_latin": "Khervee bi angli khelee sain sursan bol odoo gadaadad ajillaj baikh baisan."
+  },
+  {
+   "mn": "Тэр боломжийг алдаагүй байсан бол ямар сайн байх байсан.",
+   "en": "If only I hadn't missed that opportunity.",
+   "alt_mn": [],
+   "alt_en": [
+    "I wish I hadn't missed that opportunity."
+   ],
+   "mn_latin": "Ter bolomjiig aldaagüi baisan bol yamar sain baikh baisan."
+  },
+  {
+   "mn": "Өнгөрсөн зүйлийнхээ төлөө өөрийгөө битгий буруутга.",
+   "en": "Don't blame yourself for what happened in the past.",
+   "alt_mn": [
+    "Өнгөрсөн зүйлийн төлөө өөрийгөө битгий буруутга."
+   ],
+   "alt_en": [
+    "Don't blame yourself for the past."
+   ],
+   "mn_latin": "Öngörsön züiliinkhee tölöö ööriigöö bitgii buruutga."
+  },
+  {
+   "mn": "Эргэж харахад тэр шийдвэр зөв байсан гэж бодож байна.",
+   "en": "Looking back, I think that decision was right.",
+   "alt_mn": [],
+   "alt_en": [
+    "When I look back, I believe it was the right decision."
+   ],
+   "mn_latin": "Ergej kharakhad ter shiidver zöv baisan gej bodoj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Regret with -сан бол, -ах байсан, -маар байсан",
+  "title_mn": "Харамсах илэрхийлэл: -сан бол, -ах байсан, -маар байсан; холимог нөхцөл ба wish / if only",
+  "explain_en": "To talk about a past that did not happen, add -сан/-сэн/-сон/-сөн + бол to the verb: «сонгосон бол» = 'if I had chosen'. The result often ends in -х байсан ('would have'); for a result that holds now, use «байх байсан»: «Эмч байх байсан» = 'I would be a doctor'. Use -х байсан (юм) for regret about your own action: «Сонсох байсан юм» = 'I should have listened'. -маар байсан expresses a wish: «Явмаар байсан» = 'I wanted to go (but didn't)'. Negation: -аагүй/-ээгүй бол ('if I hadn't').",
+  "explain_mn": "Англи хэлэнд өнгөрсөнд болоогүй зүйлийн талаар харамсахдаа If + had + V3 хэрэглэнэ: If I had studied, I would have passed. Холимог нөхцөлд өнгөрсний нөхцөл одоогийн үр дүнд нөлөөлнө: If I had studied medicine, I would be a doctor now (would + V). Wish / if only + had + V3 нь өнгөрсөнд харамсахыг илэрхийлнэ: I wish I had listened. Одоогийн байдалд харамсвал wish + V2: I wish I lived in the countryside. Should have + V3 нь «хийх ёстой байсан» гэсэн утгатай.",
+  "examples": [
+   {
+    "mn": "Анагаахыг сонгосон бол одоо эмч байх байсан.",
+    "en": "If I had studied medicine, I would be a doctor now.",
+    "mn_latin": "Anagaakhyg songoson bol odoo emch baikh baisan."
+   },
+   {
+    "mn": "Ээжийнхээ үгийг сонсох байсан юм.",
+    "en": "I should have listened to my mother.",
+    "mn_latin": "Eejiinkhee ügiig sonsokh baisan yum."
+   },
+   {
+    "mn": "Тэр үед хөдөө үлдмээр байсан.",
+    "en": "I wish I had stayed in the countryside then.",
+    "mn_latin": "Ter üyed khödöö üldmeer baisan."
+   },
+   {
+    "mn": "Хичээлээ орхиогүй бол төгссөн байх байсан.",
+    "en": "If I hadn't quit, I would have graduated.",
+    "mn_latin": "Khicheelee orkhiogüi bol tögssön baikh baisan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хөдөөнөөс нүү___ бол би одоо ч тэнд амьдарч байх байсан.",
+   "answer": "гээгүй",
+   "options": [
+    "гээгүй",
+    "сэн",
+    "мээр",
+    "х"
+   ],
+   "translation": "If I hadn't moved from the countryside, I would still be living there.",
+   "explain_en": "Negative past conditional: verb + -аагүй/-ээгүй (-гаагүй/-гээгүй after a long vowel) + бол = 'if I hadn't...'. нүүх gives нүүгээгүй.",
+   "explain_mn": "Өнгөрсөнд болоогүй зүйлийг «-аагүй/-ээгүй бол» гэж илэрхийлнэ. Урт эгшгийн дараа г нэмэгдэнэ: нүүгээгүй бол."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэр үед багшийнхаа зөвлөгөөг сонс___ байсан юм.",
+   "answer": "ох",
+   "options": [
+    "ох",
+    "ож",
+    "сон",
+    "оод"
+   ],
+   "translation": "I should have listened to my teacher's advice back then.",
+   "explain_en": "-ах/-ох/-эх/-өх + байсан (юм) expresses 'should have'. сонсох has back vowels with о, so the ending is -ох.",
+   "explain_mn": "«-х байсан юм» нь хийх ёстой байсан зүйлд харамсахыг илэрхийлнэ: сонсох байсан."
+  },
+  {
+   "lang": "mn",
+   "text": "Би тэр боломжийг алдсандаа ___.",
+   "answer": "харамсдаг",
+   "options": [
+    "харамсдаг",
+    "дурсдаг",
+    "амардаг",
+    "баярладаг"
+   ],
+   "translation": "I regret having missed that opportunity.",
+   "explain_en": "харамсах takes the reflexive-dative ending -даа/-дөө on the cause: алдсандаа харамсах = 'to regret having missed'.",
+   "explain_mn": "Алдсандаа гэсэн хэлбэрийн дараа «харамсах» үйл үг тохирно."
+  },
+  {
+   "lang": "en",
+   "text": "If I ___ medicine, I would be a doctor now.",
+   "answer": "had studied",
+   "options": [
+    "had studied",
+    "studied",
+    "would study",
+    "have studied"
+   ],
+   "translation": "Хэрвээ би анагаах ухаан сурсан бол одоо эмч байх байсан.",
+   "explain_en": "Mixed conditional: past unreal condition (had + past participle) with a present result (would + base verb).",
+   "explain_mn": "Холимог нөхцөл: өнгөрсний нөхцөл had + V3, одоогийн үр дүн would + V."
+  },
+  {
+   "lang": "en",
+   "text": "I wish I ___ the countryside at such a young age.",
+   "answer": "hadn't left",
+   "options": [
+    "hadn't left",
+    "didn't leave",
+    "wouldn't leave",
+    "haven't left"
+   ],
+   "translation": "Тийм залуудаа хөдөөнөөс гараагүй байсан бол.",
+   "explain_en": "Wish about the past takes the past perfect: hadn't left.",
+   "explain_mn": "Өнгөрсөнд харамсахад wish + had + V3 хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "If only I ___ harder, I could have graduated.",
+   "answer": "had studied",
+   "options": [
+    "had studied",
+    "studied",
+    "would study",
+    "was studying"
+   ],
+   "translation": "Илүү хичээнгүй сурсан бол төгсөж чадах байсан.",
+   "explain_en": "If only + past perfect expresses regret about a past action.",
+   "explain_mn": "If only + had + V3 нь өнгөрсөнд харамссаныг илтгэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Чи хөдөөнөөс ирсэндээ харамсдаг уу?",
+   "en": "Do you regret coming from the countryside?",
+   "mn_latin": "Chi khödöönöös irsendee kharamsdag uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Заримдаа. Хэрвээ би нүүгээгүй бол одоо аавтайгаа мал маллаж байх байсан.",
+   "en": "Sometimes. If I hadn't moved, I would be herding animals with my dad now.",
+   "mn_latin": "Zarimdaa. Khervee bi nüügeegüi bol odoo aavtaigaa mal mallaj baikh baisan."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Харин би мэргэжлээ буруу сонгосон. Анагаахыг сонгосон бол дээр байсан.",
+   "en": "As for me, I chose the wrong major. If I had chosen medicine, it would have been better.",
+   "mn_latin": "Kharin bi mergejlee buruu songoson. Anagaakhyg songoson bol deer baisan."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Одоо эмч байх байсан гэж үү? Чи өөрийгөө битгий буруутга.",
+   "en": "You mean you would be a doctor now? Don't blame yourself.",
+   "mn_latin": "Odoo emch baikh baisan gej üü? Chi ööriigöö bitgii buruutga."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм ээ. Тэр үед ээжийнхээ үгийг сонсох байсан юм.",
+   "en": "Yes. If only I had listened to my mother back then.",
+   "mn_latin": "Tiim ee. Ter üyed eejiinkhee ügiig sonsokh baisan yum."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Гэхдээ эргэж харахад хотод ирсэн нь зөв байсан. Сэтгэл амарсан.",
+   "en": "But looking back, coming to the city was right. I feel relieved.",
+   "mn_latin": "Gekhdee ergej kharakhad khotod irsen ni zöv baisan. Setgel amarsan."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Би ч гэсэн хөдөөгийн зунаа их дурсдаг.",
+   "en": "I long for the countryside summers a lot too.",
+   "mn_latin": "Bi ch gesen khödöögiin zunaa ikh dursdag."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Энэ зун наадамд хамт явъя.",
+   "en": "Let's go to Naadam together this summer.",
+   "mn_latin": "Ene zun naadamd khamt yavya."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolians have moved from the countryside to Ulaanbaatar for education and work, so feelings of longing for home (нутгаа дурсах) are very common. Families often influence the choice of major, and people joke about the 'doctor, lawyer or economist' dream. Talking about regrets is usually gentle and ends with acceptance, as in «Яахав дээ» ('Well, that's how it is').",
+  "mn": "Олон монгол хүн сурлага, ажлын үүднээс хөдөөнөөс Улаанбаатарт нүүдэг тул нутгаа дурсах мэдрэмж түгээмэл байдаг. Мэргэжил сонгоход гэр бүлийн нөлөө их бөгөөд «эмч, хуульч, эдийн засагч» болох мөрөөдлийг хошигнодог. Харамслаа ярихдаа ихэвчлэн зөөлөн өнгөөр, «Яахав дээ» гэж хүлээн зөвшөөрч дуусгадаг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 20,
+  "notes": "Content is mostly usable, but grammar explanation has errors (title_mn in English, wrong suffix forms), 'Яахав' is misused for 'if only', and a few Mongolian sentences do not match their English."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 24,
+  "notes": "Main fixes: the wrong word 'Хөөрхий', wrong case endings, a broken fill-blank split, unnatural English, and a non-Mongolian speaker name.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_en",
+    "why": "'left school unfinished' is unnatural English"
+   },
+   {
+    "section": "vocab",
+    "index": 5,
+    "field": "example_mn",
+    "why": "'дууссанаар' is unnatural here"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_mn",
+    "why": "Sentence had no subject"
+   },
+   {
+    "section": "vocab",
+    "index": 8,
+    "field": "example_en",
+    "why": "Matches the corrected Mongolian"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "en",
+    "why": "'leaving university unfinished' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "mn",
+    "why": "Cause needs -сандаа, not -снаараа"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "'Хөөрхий' means 'poor thing', and the bare бол clause is incomplete"
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "'for what is past' is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "Splitting the word after 'нүүг' gives broken forms"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "Matches the new split: нүүгээгүй"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "Front-vowel forms that attach correctly to нүү-"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Explains the г after a long vowel"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Keeps the mn version consistent with the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_en",
+    "why": "The ending is -эх, not -ээх"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "text",
+    "why": "'when I was so young' is awkward"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "'ийм залуудаа' and 'гарахгүй байсан бол' are wrong forms"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "speaker",
+    "why": "A countryside herder's son should have a Mongolian name"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "speaker",
+    "why": "Same speaker as line 1"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "speaker",
+    "why": "Same speaker as line 1"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "speaker",
+    "why": "Same speaker as line 1"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "'chose my major wrong' is unnatural English"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "'Зун нь' is unnatural here"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "en",
+    "why": "Matches the corrected Mongolian"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'Монголчуудын олон хүн' is awkward"
+   }
+  ]
+ }
+}

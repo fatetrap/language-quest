@@ -1,0 +1,490 @@
+{
+ "intro_en": "You will learn to talk about Mongolians living abroad, using vocabulary of migration and identity. You will also practice -ыг дагаж and -ын оронд for changing habits and substituted traditions, and English noun clauses after verbs of feeling and belief.",
+ "intro_mn": "Та гадаадад амьдардаг монголчуудын тухай, шилжих хөдөлгөөн ба өөрийн онцлогтой холбоотой үгсээр ярихыг сурна. Мөн зуршил өөрчлөгдөх, уламжлал орлох утгыг илтгэдэг «-ыг дагаж», «-ын оронд» бүтэц болон англи хэлний мэдрэмж, итгэл заасан үйл үгийн дараах нэр утгатай өгүүлбэрийг дадлагажна.",
+ "vocab": [
+  {
+   "mn": "диаспор",
+   "en": "diaspora",
+   "pos": "noun",
+   "example_mn": "Солонгос дахь монголчуудын диаспор улам өсөж байна.",
+   "example_en": "The Mongolian diaspora in Korea keeps growing.",
+   "mn_latin": "diaspor"
+  },
+  {
+   "mn": "гадаадад амьдрах",
+   "en": "to live abroad",
+   "pos": "verb phrase",
+   "example_mn": "Манай гэр бүл Прагт таван жил амьдарсан.",
+   "example_en": "Our family lived in Prague for five years.",
+   "mn_latin": "gadaadad amidrakh"
+  },
+  {
+   "mn": "эх орон",
+   "en": "homeland",
+   "pos": "noun",
+   "example_mn": "Тэр эх орноо маш их санадаг.",
+   "example_en": "He misses his homeland very much.",
+   "mn_latin": "ekh oron"
+  },
+  {
+   "mn": "нутаг руугаа буцах",
+   "en": "to return to one's home region",
+   "pos": "verb phrase",
+   "example_mn": "Тэд тэтгэвэртээ гарсныхаа дараа нутаг руугаа буцахаар шийджээ.",
+   "example_en": "They decided to return to their home region after retiring.",
+   "mn_latin": "nutag ruugaa butsakh"
+  },
+  {
+   "mn": "дэмжлэг илгээх",
+   "en": "to send support",
+   "pos": "verb phrase",
+   "example_mn": "Тэрээр сар бүр гэр бүлдээ дэмжлэг илгээдэг.",
+   "example_en": "She sends support to her family every month.",
+   "mn_latin": "demjleg ilgeekh"
+  },
+  {
+   "mn": "зуршил",
+   "en": "habit",
+   "pos": "noun",
+   "example_mn": "Түүний хоолны зуршил гадаадад очсныхоо дараа өөрчлөгдсөн.",
+   "example_en": "His eating habits changed after he went abroad.",
+   "mn_latin": "zurshil"
+  },
+  {
+   "mn": "уламжлал",
+   "en": "tradition",
+   "pos": "noun",
+   "example_mn": "Уламжлалаа хойч үедээ өвлүүлэх хэрэгтэй.",
+   "example_en": "We need to pass our traditions on to the next generation.",
+   "mn_latin": "ulamjlal"
+  },
+  {
+   "mn": "дасан зохицох",
+   "en": "to adapt",
+   "pos": "verb phrase",
+   "example_mn": "Хүүхдүүд шинэ орчинд хурдан дасан зохицсон.",
+   "example_en": "The children adapted quickly to the new environment.",
+   "mn_latin": "dasan zokhitsokh"
+  },
+  {
+   "mn": "өөрийн онцлог",
+   "en": "one's own identity / distinctiveness",
+   "pos": "noun phrase",
+   "example_mn": "Өөрийн онцлогоо хадгалах нь амар биш.",
+   "example_en": "Keeping your own identity is not easy.",
+   "mn_latin": "ööriin ontslog"
+  },
+  {
+   "mn": "цагаачлах",
+   "en": "to emigrate",
+   "pos": "verb",
+   "example_mn": "Олон залуу ажил хийхээр өөр оронд цагаачилдаг.",
+   "example_en": "Many young people emigrate to other countries to work.",
+   "mn_latin": "tsagaachlakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Гадаадад амьдарч байгаа монголчуудын диаспор өргөжиж байна.",
+   "en": "The Mongolian diaspora living abroad is expanding.",
+   "alt_mn": [
+    "Гадаадад амьдардаг монголчуудын диаспор томорч байна."
+   ],
+   "alt_en": [
+    "The Mongolian diaspora abroad is growing."
+   ],
+   "mn_latin": "Gadaadad amidarch baigaa mongolchuudyn diaspor örgöjij baina."
+  },
+  {
+   "mn": "Цаг хугацааны явцыг дагаж зуршил өөрчлөгддөг.",
+   "en": "Habits change as time goes by.",
+   "alt_mn": [
+    "Цаг хугацааг дагаж зуршил өөрчлөгддөг."
+   ],
+   "alt_en": [
+    "Habits change with time."
+   ],
+   "mn_latin": "Tsag khugatsaany yavtsyg dagaj zurshil öörchlögddög."
+  },
+  {
+   "mn": "Сөүлд Цагаан сараа тэмдэглэхдээ бид бууз хийж, хамаатан садангаа урьдаг.",
+   "en": "When we celebrate Tsagaan Sar in Seoul, we make buuz and invite relatives.",
+   "alt_mn": [],
+   "alt_en": [
+    "In Seoul, we celebrate Tsagaan Sar by making buuz and inviting our relatives."
+   ],
+   "mn_latin": "Söüld Tsagaan saraa temdeglekhdee bid buuz khiij, khamaatan sadangaa uridag."
+  },
+  {
+   "mn": "Айрагны оронд бид энд хүнсний дэлгүүрээс авсан ундаа ууж байна.",
+   "en": "Instead of airag, we are having drinks from the grocery store here.",
+   "alt_mn": [
+    "Айрагны оронд бид энд дэлгүүрийн ундаа ууж байна."
+   ],
+   "alt_en": [
+    "Instead of airag, we drink what we buy at the grocery store here."
+   ],
+   "mn_latin": "Airagny orond bid end khünsnii delgüürees avsan undaa uuj baina."
+  },
+  {
+   "mn": "Тэр эх орондоо байхдаа хийдэг байсан зүйлсээ санаж байна.",
+   "en": "She misses the things she used to do when she was in her homeland.",
+   "alt_mn": [],
+   "alt_en": [
+    "She misses what she used to do back in her homeland."
+   ],
+   "mn_latin": "Ter ekh orondoo baikhdaa khiideg baisan züilsee sanaj baina."
+  },
+  {
+   "mn": "Би хүүхдүүд маань монгол хэлээ мартчих вий гэж санаа зовж байна.",
+   "en": "I worry that my children might forget their Mongolian.",
+   "alt_mn": [
+    "Хүүхдүүд маань монгол хэлээ мартчих вий гэж би санаа зовдог."
+   ],
+   "alt_en": [
+    "I am worried that my kids will forget Mongolian."
+   ],
+   "mn_latin": "Bi khüükhdüüd maani mongol khelee martchikh vii gej sanaa zovj baina."
+  },
+  {
+   "mn": "Бид хэзээ нэгэн цагт нутаг руугаа буцах болов уу гэж боддог.",
+   "en": "We wonder whether we will ever return home.",
+   "alt_mn": [
+    "Хэзээ нэгэн цагт нутаг руугаа буцах болов уу гэж бид боддог."
+   ],
+   "alt_en": [
+    "We wonder if we will return to our home region some day."
+   ],
+   "mn_latin": "Bid khezee negen tsagt nutag ruugaa butsakh bolov uu gej boddog."
+  },
+  {
+   "mn": "Тэр гэр бүлдээ дэмжлэг илгээдэг болохоор өөрийгөө хариуцлагатай гэж боддог.",
+   "en": "Because he sends support to his family, he believes that he is responsible.",
+   "alt_mn": [],
+   "alt_en": [
+    "He sends support to his family, so he feels he is responsible."
+   ],
+   "mn_latin": "Ter ger büldee demjleg ilgeedeg bolokhoor ööriigöö khariutslagatai gej boddog."
+  },
+  {
+   "mn": "Хүүхдүүд нь Прагт том болсон нь түүнд бахархал төрүүлдэг ч бас түгшүүртэй байдаг.",
+   "en": "She is proud that her children grew up in Prague, but it also worries her.",
+   "alt_mn": [],
+   "alt_en": [
+    "It makes her proud that her children grew up in Prague, but it also makes her anxious."
+   ],
+   "mn_latin": "Khüükhdüüd ni Pragt tom bolson ni tüünd bakharkhal törüüldeg ch bas tügshüürtei baidag."
+  },
+  {
+   "mn": "Тэдний хоолны зуршил орчноо дагаж аажмаар өөрчлөгдсөн.",
+   "en": "Their eating habits gradually changed along with their surroundings.",
+   "alt_mn": [
+    "Тэдний хоолны зуршил орчныг дагаж аажим өөрчлөгдсөн."
+   ],
+   "alt_en": [
+    "Their eating habits slowly changed in line with their environment."
+   ],
+   "mn_latin": "Tednii khoolny zurshil orchnoo dagaj aajmaar öörchlögdsön."
+  },
+  {
+   "mn": "Монгол хоолны оронд тэд заримдаа солонгос хоол иддэг болжээ.",
+   "en": "Instead of Mongolian food, they sometimes eat Korean food now.",
+   "alt_mn": [],
+   "alt_en": [
+    "They have started eating Korean food sometimes instead of Mongolian food."
+   ],
+   "mn_latin": "Mongol khoolny orond ted zarimdaa solongos khool iddeg boljee."
+  },
+  {
+   "mn": "Эх орноосоо хол байсан ч өөрийн онцлогоо хадгалж чадна гэдэгт би итгэдэг.",
+   "en": "I believe that we can keep our identity even though we are far from our homeland.",
+   "alt_mn": [],
+   "alt_en": [
+    "I believe that it is possible to preserve our identity even far from home."
+   ],
+   "mn_latin": "Ekh ornoosoo khol baisan ch ööriin ontslogoo khadgalj chadna gedegt bi itgedeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "-ыг дагаж and -ын оронд: following change and substituting",
+  "title_mn": "«-ыг дагаж», «-ын оронд» ба English noun clauses",
+  "explain_en": "Use a noun + accusative + дагаж to say that something changes along with something else: цаг үеийг дагаж 'as times change', орчноо дагаж 'following one's surroundings'. Use a noun in the genitive + оронд to say 'instead of': айрагны оронд 'instead of airag'. Together they describe how habits shift and traditions get replaced abroad. In English, verbs of feeling and belief take noun clauses: She regrets the fact that..., I wonder whether..., He believes that... Mongolian often expresses these with a quote-like гэж: ...гэж боддог, ...болов уу гэж боддог.",
+  "explain_mn": "Англи хэлэнд мэдрэмж, итгэл, эргэлзээг заасан үйл үгийн (miss, believe, wonder, worry, regret) дараа нэр утгатай өгүүлбэр (noun clause) орно: «She regrets the fact that her family is far away», «I wonder whether they will return», «I believe that identity matters». Монгол хэлний «гэж боддог», «болов уу гэж боддог» гэх бүтцийг «that», «whether/if» холбоосоор орлуулна. Харин «-ын оронд» нь «instead of», «-ыг дагаж» нь «following / along with, as» гэсэн утгатай.",
+  "examples": [
+   {
+    "mn": "Цаг үеийг дагаж уламжлал өөрчлөгддөг.",
+    "en": "Traditions change as times change.",
+    "mn_latin": "Tsag üyeiig dagaj ulamjlal öörchlögddög."
+   },
+   {
+    "mn": "Айрагны оронд бид цай уудаг.",
+    "en": "Instead of airag, we drink tea.",
+    "mn_latin": "Airagny orond bid tsai uudag."
+   },
+   {
+    "mn": "Орчноо дагаж зуршил өөрчлөгдсөн.",
+    "en": "Habits changed along with our surroundings.",
+    "mn_latin": "Orchnoo dagaj zurshil öörchlögdsön."
+   },
+   {
+    "mn": "Тэр эх орноосоо хол байгаадаа харамсдаг.",
+    "en": "She regrets the fact that she is far from her homeland.",
+    "mn_latin": "Ter ekh ornoosoo khol baigaadaa kharamsdag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хонины ___ оронд тэд гахайн мах хэрэглэдэг.",
+   "answer": "махны",
+   "options": [
+    "махны",
+    "махыг",
+    "маханд",
+    "махнаас"
+   ],
+   "translation": "Instead of mutton, they use pork.",
+   "explain_en": "«оронд» takes the genitive form of the noun before it. Here мах becomes махны.",
+   "explain_mn": "«оронд» нь өмнөх нэрийг харьяалахын тийн ялгалаар авдаг тул «махны оронд» болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Цаг үе___ дагаж тэдний амьдрал өөрчлөгдсөн.",
+   "answer": "ийг",
+   "options": [
+    "ийг",
+    "ийн",
+    "д",
+    "ээс"
+   ],
+   "translation": "Their life changed as times changed.",
+   "explain_en": "«дагаж» governs the accusative: цаг үеийг дагаж.",
+   "explain_mn": "«дагаж» нь өмнөх нэрийг заахын тийн ялгалаар (-ийг) авдаг: «цаг үеийг дагаж»."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэд Цагаан сарын ___ энд өөр баяр тэмдэглэдэг.",
+   "answer": "оронд",
+   "options": [
+    "оронд",
+    "дагаж",
+    "тухай",
+    "хүртэл"
+   ],
+   "translation": "Instead of Tsagaan Sar, they celebrate a different holiday here.",
+   "explain_en": "«оронд» means 'instead of' and follows a genitive noun.",
+   "explain_mn": "«оронд» нь харьяалахын тийн ялгалтай нэрийн дараа орж «-ын оронд» буюу «instead of» гэсэн утга илтгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "She regrets the fact ___ her family is far away.",
+   "answer": "that",
+   "options": [
+    "that",
+    "what",
+    "whose",
+    "which"
+   ],
+   "translation": "Тэр гэр бүлээсээ хол байгаадаа харамсдаг.",
+   "explain_en": "'The fact' is followed by a 'that' clause that gives its content.",
+   "explain_mn": "«the fact» гэдгийн дараа агуулгыг нь тайлбарлах «that» өгүүлбэр орно."
+  },
+  {
+   "lang": "en",
+   "text": "I wonder ___ they will ever return to Mongolia.",
+   "answer": "whether",
+   "options": [
+    "whether",
+    "that",
+    "what",
+    "which"
+   ],
+   "translation": "Тэд хэзээ нэгэн цагт Монгол руу буцаж очих болов уу гэж би бодож байна.",
+   "explain_en": "'Wonder' takes 'whether' or 'if' for a yes/no question inside a sentence.",
+   "explain_mn": "«wonder»-ийн дараа тийм/үгүй асуултыг «whether» эсвэл «if» гэж оруулна."
+  },
+  {
+   "lang": "en",
+   "text": "He believes ___ keeping the language is important.",
+   "answer": "that",
+   "options": [
+    "that",
+    "whether",
+    "of",
+    "what for"
+   ],
+   "translation": "Тэр хэлээ хадгалах нь чухал гэж итгэдэг.",
+   "explain_en": "'Believe' takes a 'that' clause stating the belief; 'that' can sometimes be dropped.",
+   "explain_mn": "«believe»-ийн дараа итгэлийг илэрхийлэх «that» өгүүлбэр орно; «that»-ийг заримдаа орхиж болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Бид Прагт таван жил амьдарч байна. Эх орноо санахгүй өдөр бараг байхгүй.",
+   "en": "We have lived in Prague for five years. There is hardly a day when I don't miss my homeland.",
+   "mn_latin": "Bid Pragt tavan jil amidarch baina. Ekh ornoo sanakhgüi ödör barag baikhgüi."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Тэгэхээр Цагаан сарыг яаж тэмдэглэдэг вэ?",
+   "en": "So how do you celebrate Tsagaan Sar?",
+   "mn_latin": "Tegekheer Tsagaan saryg yaaj temdegledeg ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Бид бууз хийж, монголчуудаа урьдаг. Гэхдээ хонины махны оронд ихэвчлэн гахайн мах хэрэглэдэг.",
+   "en": "We make buuz and invite other Mongolians. But instead of mutton, we mostly use pork.",
+   "mn_latin": "Bid buuz khiij, mongolchuudaa uridag. Gekhdee khoniny makhny orond ikhevchlen gakhain makh kheregledeg."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Хүүхдүүд тань монгол хэлээ ярьдаг уу?",
+   "en": "Do your children speak Mongolian?",
+   "mn_latin": "Khüükhdüüd tani mongol khelee yaridag uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Ярьдаг, гэхдээ найз нөхдөө дагаж чех хэлээр ярих нь олширч байна. Тэд хэлээ мартчих вий гэж би санаа зовдог.",
+   "en": "They do, but they speak Czech more and more, following their friends. I worry that they might forget the language.",
+   "mn_latin": "Yaridag, gekhdee naiz nökhdöö dagaj chyekh kheleer yarikh ni olshirch baina. Ted khelee martchikh vii gej bi sanaa zovdog."
+  },
+  {
+   "speaker": "Mark",
+   "mn": "Та нар нутаг руугаа буцна гэж бодож байна уу?",
+   "en": "Do you think you will return home?",
+   "mn_latin": "Ta nar nutag ruugaa butsna gej bodoj baina uu?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Мэдэхгүй ээ. Хэзээ нэгэн цагт буцах болов уу гэж боддог. Одоохондоо аав ээждээ дэмжлэг илгээж байна.",
+   "en": "I don't know. I wonder whether we will ever return. For now, I send support to my parents.",
+   "mn_latin": "Medekhgüi ee. Khezee negen tsagt butsakh bolov uu gej boddog. Odookhondoo aav eejdee demjleg ilgeej baina."
+  }
+ ],
+ "culture_note": {
+  "en": "Sizable Mongolian communities live in South Korea, the Czech Republic, Japan, Germany, and the United States, often formed by students and workers. Abroad, people hold Tsagaan Sar gatherings, Naadam picnics, and Mongolian schools on weekends to pass the language and customs to their children. Many send remittances home and keep close family ties, while debating how much to adapt to local life.",
+  "mn": "Солонгос, Чех, Япон, Герман, АНУ зэрэг оронд монголчуудын томоохон нийгэмлэг амьдардаг бөгөөд ихэнхдээ оюутан, ажилчдаас үүсчээ. Гадаадад Цагаан сар, Наадмын цуглаан, амралтын өдрийн монгол хэлний ангиар дамжуулан хэл, ёс заншлаа хүүхдүүддээ өвлүүлэхийг хичээдэг. Олон хүн эх орондоо мөнгө илгээж, ойр дотно холбоогоо хадгалахын зэрэгцээ орон нутгийн амьдралд хэр зэрэг дасан зохицох талаар эргэлздэг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 17,
+  "notes": "Mostly good, but with a semantic error (ааруул as a drink), gender mismatches in alternates, Latin letter typo, and garbled Mongolian explanations."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 18,
+  "notes": "Main problems: the гайхах calque for 'wonder', a nonsensical first fill-in item, garbled Mongolian explanations, and immigrate/emigrate.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 1,
+    "field": "example_en",
+    "why": "амьдарсан is a completed past, not 'has lived'"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "en",
+    "why": "цагаачлах means leaving for another country"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "'emigrate to other countries' is the correct verb here"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_mn",
+    "why": "гайхах means 'be surprised', not 'wonder'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "Replaced the calque гайхдаг; 'misses the fact' is unnatural English"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Same fixes as explain_en; keeps en and mn matching"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "text",
+    "why": "The original sentence was meaningless"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "answer",
+    "why": "Matches the new sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "Case forms of the new noun"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "translation",
+    "why": "Matches the new sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_en",
+    "why": "Matches the new sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Matches the new sentence; 'харьяалахын орон' was a wrong term"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "Garbled text and wrong terms"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Circular explanation removed"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "text",
+    "why": "'misses the fact' is unnatural"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "translation",
+    "why": "Matches the new English sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "гайхах does not mean 'wonder'"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Replaced гайхдаг; more natural reply"
+   }
+  ]
+ }
+}

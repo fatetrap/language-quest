@@ -1,0 +1,424 @@
+{
+ "intro_en": "You will learn how to decline invitations, disagree and deliver bad news without causing offense, using Mongolian indirect forms (-х байх, гэхдээ, ч гэсэн, даа/дээ) and English softeners like \"I'm afraid\" and \"I see your point, but\".",
+ "intro_mn": "Та урилгаас татгалзах, санал нийлэхгүй байх, муу мэдээ дуулгахдаа хэнийг ч гомдоохгүйгээр хэрхэн хэлэхийг сурна: монгол хэлний -х байх, гэхдээ, ч гэсэн, даа/дээ болон англи хэлний \"I'm afraid\", \"I see your point, but\" зэрэг зөөлрүүлэгчийг үзнэ.",
+ "vocab": [
+  {
+   "mn": "харамсалтай нь",
+   "en": "unfortunately / I'm afraid",
+   "pos": "phrase",
+   "example_mn": "Харамсалтай нь, би маргааш чөлөөгүй.",
+   "example_en": "Unfortunately, I'm not free tomorrow.",
+   "mn_latin": "kharamsaltai ni"
+  },
+  {
+   "mn": "уучлаарай",
+   "en": "excuse me / I'm sorry (polite)",
+   "pos": "verb (imperative)",
+   "example_mn": "Уучлаарай, би танд туслах боломжгүй байна.",
+   "example_en": "I'm sorry, I'm not able to help you.",
+   "mn_latin": "uuchlaarai"
+  },
+  {
+   "mn": "санаа зовох",
+   "en": "to worry",
+   "pos": "verb",
+   "example_mn": "Би таны эрүүл мэндэд санаа зовж байна.",
+   "example_en": "I am worried about your health.",
+   "mn_latin": "sanaa zovokh"
+  },
+  {
+   "mn": "бодит байдал",
+   "en": "reality / the actual situation",
+   "pos": "noun",
+   "example_mn": "Бодит байдал бидний бодсоноос хүнд байна.",
+   "example_en": "The reality is harder than we thought.",
+   "mn_latin": "bodit baidal"
+  },
+  {
+   "mn": "татгалзах",
+   "en": "to decline",
+   "pos": "verb",
+   "example_mn": "Тэр урилгаас эелдгээр татгалзсан.",
+   "example_en": "He politely declined the invitation.",
+   "mn_latin": "tatgalzakh"
+  },
+  {
+   "mn": "шүүмжлэл",
+   "en": "criticism",
+   "pos": "noun",
+   "example_mn": "Бүтээлч шүүмжлэл бидэнд хэрэгтэй.",
+   "example_en": "We need constructive criticism.",
+   "mn_latin": "shüümjlel"
+  },
+  {
+   "mn": "гомдоох",
+   "en": "to hurt (someone's feelings)",
+   "pos": "verb",
+   "example_mn": "Би таныг гомдоохыг хүсээгүй.",
+   "example_en": "I didn't want to hurt your feelings.",
+   "mn_latin": "gomdookh"
+  },
+  {
+   "mn": "ойлгомжтой",
+   "en": "understandable / clear",
+   "pos": "adjective",
+   "example_mn": "Таны санаа ойлгомжтой байна.",
+   "example_en": "Your idea is clear.",
+   "mn_latin": "oilgomjtoi"
+  },
+  {
+   "mn": "санал нийлэх",
+   "en": "to agree",
+   "pos": "verb",
+   "example_mn": "Би таны саналтай бүрэн нийлж чадахгүй байна.",
+   "example_en": "I can't fully agree with your proposal.",
+   "mn_latin": "sanal niilekh"
+  },
+  {
+   "mn": "урам хугарах",
+   "en": "to be disappointed",
+   "pos": "verb",
+   "example_mn": "Үр дүнг сонсоод тэр урам хугарсан.",
+   "example_en": "He was disappointed to hear the results.",
+   "mn_latin": "uram khugarakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Харамсалтай нь, би таны урилгыг хүлээж авч чадахгүй байна.",
+   "en": "I'm afraid I can't accept your invitation.",
+   "alt_mn": [
+    "Харамсалтай нь, би таны урилгаар очиж чадахгүй байна."
+   ],
+   "alt_en": [
+    "Unfortunately, I won't be able to accept your invitation."
+   ],
+   "mn_latin": "Kharamsaltai ni, bi tany urilgyg khüleej avch chadakhgüi baina."
+  },
+  {
+   "mn": "Таны саналыг ойлгож байна, гэхдээ би арай өөрөөр бодож байна.",
+   "en": "I see your point, but I think a little differently.",
+   "alt_mn": [],
+   "alt_en": [
+    "I understand your suggestion, but I see it slightly differently."
+   ],
+   "mn_latin": "Tany sanalyg oilgoj baina, gekhdee bi arai ööröör bodoj baina."
+  },
+  {
+   "mn": "Маргааш би завгүй байх шиг байна даа.",
+   "en": "I think I'll be busy tomorrow, I'm afraid.",
+   "alt_mn": [
+    "Маргааш би завгүй байх шиг байна аа."
+   ],
+   "alt_en": [
+    "I might be busy tomorrow, I'm afraid."
+   ],
+   "mn_latin": "Margaash bi zavgüi baikh shig baina daa."
+  },
+  {
+   "mn": "Таны ажил сайн, гэхдээ тайланг бага зэрэг сайжруулах хэрэгтэй.",
+   "en": "Your work is good, but the report needs a little improvement.",
+   "alt_mn": [],
+   "alt_en": [
+    "Your work is good, though the report could use some improvement."
+   ],
+   "mn_latin": "Tany ajil sain, gekhdee tailang baga zereg saijruulakh kheregtei."
+  },
+  {
+   "mn": "Уучлаарай, энэ тал дээр би тантай бүрэн санал нийлэхгүй байна.",
+   "en": "Excuse me, but I don't quite agree with you on this point.",
+   "alt_mn": [],
+   "alt_en": [
+    "With respect, I don't fully agree with you on this."
+   ],
+   "mn_latin": "Uuchlaarai, ene tal deer bi tantai büren sanal niilekhgüi baina."
+  },
+  {
+   "mn": "Бодит байдал дээр төсөв бидэнд хүрэлцэхгүй байна.",
+   "en": "In reality, the budget isn't enough for us.",
+   "alt_mn": [],
+   "alt_en": [
+    "Realistically, we don't have enough budget."
+   ],
+   "mn_latin": "Bodit baidal deer tösöv bidend khüreltsekhgüi baina."
+  },
+  {
+   "mn": "Танд муу мэдээ дуулгахад харамсалтай байна.",
+   "en": "I'm sorry to have to give you bad news.",
+   "alt_mn": [
+    "Танд муу мэдээ дуулгаж байгаадаа харамсаж байна."
+   ],
+   "alt_en": [
+    "It's unfortunate that I have to tell you some bad news."
+   ],
+   "mn_latin": "Tand muu medee duulgakhad kharamsaltai baina."
+  },
+  {
+   "mn": "Би таныг гомдоохыг хүсэхгүй байна, гэвч үнэнийг хэлэх хэрэгтэй.",
+   "en": "I don't want to hurt your feelings, but I have to tell the truth.",
+   "alt_mn": [],
+   "alt_en": [
+    "I don't want to upset you, but the truth needs to be said."
+   ],
+   "mn_latin": "Bi tanyg gomdookhyg khüsekhgüi baina, gevch üneniig khelekh kheregtei."
+  },
+  {
+   "mn": "Сайхан санагдаж байна, гэхдээ би энэ удаа оролцохгүй байх.",
+   "en": "It sounds lovely, but I think I'll skip it this time.",
+   "alt_mn": [],
+   "alt_en": [
+    "It sounds nice, but I'll probably pass this time."
+   ],
+   "mn_latin": "Saikhan sanagdaj baina, gekhdee bi ene udaa oroltsokhgüi baikh."
+  },
+  {
+   "mn": "Бид таны ирээдүйд санаа зовж байна.",
+   "en": "We are worried about your future.",
+   "alt_mn": [],
+   "alt_en": [
+    "We are concerned about your future."
+   ],
+   "mn_latin": "Bid tany ireedüid sanaa zovj baina."
+  },
+  {
+   "mn": "Таны шүүмжлэл ойлгомжтой, гэхдээ арай хатуу сонсогдож байна даа.",
+   "en": "Your criticism is understandable, but it sounds a bit harsh.",
+   "alt_mn": [],
+   "alt_en": [
+    "I understand your criticism, but it comes across as a bit harsh."
+   ],
+   "mn_latin": "Tany shüümjlel oilgomjtoi, gekhdee arai khatuu sonsogdoj baina daa."
+  },
+  {
+   "mn": "Үр дүнд нь урам хугарсан ч бид үргэлжлүүлэх ёстой.",
+   "en": "Even though we are disappointed with the result, we must continue.",
+   "alt_mn": [],
+   "alt_en": [
+    "Even if we are disappointed with the outcome, we have to carry on."
+   ],
+   "mn_latin": "Ür dünd ni uram khugarsan ch bid ürgeljlüülekh yostoi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Indirect refusal: -х байх, гэхдээ, ч гэсэн and даа/дээ",
+  "title_mn": "Эв зүйтэй татгалзах нь: \"I'm afraid\", \"not quite\", \"I see your point, but\"",
+  "explain_en": "Mongolian rarely says a flat \"no.\" Instead, speakers use the probable form -х байх (\"it will probably be...\") and add шиг байна to sound uncertain: Би очихгүй байх шиг байна (\"I probably won't go\"). Acknowledge the other person first, then use гэхдээ (\"but\"): Ойлгож байна, гэхдээ... Ч гэсэн (\"even though / although\") follows a noun or verb form: Сайхан санаа ч гэсэн, одоохондоо эрт байх. The sentence-final particle даа/дээ adds warmth and a soft, regretful tone: Хэцүү байна даа. The particle follows vowel harmony: даа after back-vowel words (байна даа, юм даа), дээ after front-vowel words (хэцүү дээ). Combine them: acknowledge, soften, then decline.",
+  "explain_mn": "Англи хэлэнд шууд \"No\" гэхийн оронд зөөлрүүлэгч хэллэг хэрэглэдэг. \"I'm afraid I can't come\" нь \"Харамсалтай нь, очиж чадахгүй нь ээ\" гэсэнтэй дүйнэ. \"Not quite\" нь \"бүрэн биш\" гэсэн утгатай (I don't quite agree). \"I see your point, but...\" гэж эхлээд нөгөө хүний саналыг хүлээн зөвшөөрч, дараа нь эсрэг санаагаа хэлнэ. \"With respect\" нь эелдгээр эсэргүүцэхийн өмнө хэлэгдэнэ. Монгол хэлний даа/дээ-ийн үүргийг англи хэлэнд ихэвчлэн өнгө аяс, \"I'm afraid\", \"I'm sorry, but\" гүйцэтгэдэг.",
+  "examples": [
+   {
+    "mn": "Би маргааш очихгүй байх шиг байна даа.",
+    "en": "I'm afraid I probably won't be able to come tomorrow.",
+    "mn_latin": "Bi margaash ochikhgüi baikh shig baina daa."
+   },
+   {
+    "mn": "Ойлгож байна, гэхдээ энэ боломжгүй юм шиг байна.",
+    "en": "I see your point, but it doesn't seem possible.",
+    "mn_latin": "Oilgoj baina, gekhdee ene bolomjgüi yum shig baina."
+   },
+   {
+    "mn": "Сайхан санаа ч гэсэн, одоохондоо эрт байх.",
+    "en": "It's a nice idea, but it's probably too early for now.",
+    "mn_latin": "Saikhan sanaa ch gesen, odookhondoo ert baikh."
+   },
+   {
+    "mn": "Хэцүү байна даа, бид чадахгүй юм шиг байна.",
+    "en": "It's difficult, I'm afraid; it seems we can't.",
+    "mn_latin": "Khetsüü baina daa, bid chadakhgüi yum shig baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Харамсалтай ___, би маргааш очиж чадахгүй.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "ийн",
+    "д",
+    "аас"
+   ],
+   "translation": "Unfortunately, I can't come tomorrow.",
+   "explain_en": "Харамсалтай нь is a fixed phrase meaning \"unfortunately\" or \"I'm afraid\".",
+   "explain_mn": "\"Харамсалтай нь\" нь тогтсон хэллэг бөгөөд \"unfortunately\" гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Таны санааг ойлгож байна, ___ би арай өөрөөр бодож байна.",
+   "answer": "гэхдээ",
+   "options": [
+    "гэхдээ",
+    "учир нь",
+    "тиймээс",
+    "эсвэл"
+   ],
+   "translation": "I see your point, but I think a little differently.",
+   "explain_en": "гэхдээ means \"but\" and softens a contrast after acknowledging the other view.",
+   "explain_mn": "\"Гэхдээ\" нь эсрэг санааг зөөлөн оруулдаг холбоос."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ долоо хоногт би завгүй байх шиг байна ___.",
+   "answer": "даа",
+   "options": [
+    "даа",
+    "уу",
+    "вэ",
+    "лээ"
+   ],
+   "translation": "I think I'll be busy this week, I'm afraid.",
+   "explain_en": "The particle даа gives a gentle, regretful tone to the refusal.",
+   "explain_mn": "\"Даа\" сул үг нь өгүүлбэрийн төгсгөлд орж, татгалзлыг зөөлрүүлж, харамсах өнгө аяс өгнө."
+  },
+  {
+   "lang": "en",
+   "text": "I'm ___ I can't come to the party.",
+   "answer": "afraid",
+   "options": [
+    "afraid",
+    "fear",
+    "worry",
+    "regret"
+   ],
+   "translation": "Харамсалтай нь, би үдэшлэгт очиж чадахгүй байна.",
+   "explain_en": "\"I'm afraid\" is a polite softener, not about fear.",
+   "explain_mn": "\"I'm afraid\" нь айх гэсэн утгагүй, эелдэг зөөлрүүлэгч хэллэг."
+  },
+  {
+   "lang": "en",
+   "text": "I see your point, ___ I don't quite agree.",
+   "answer": "but",
+   "options": [
+    "but",
+    "so",
+    "because",
+    "or"
+   ],
+   "translation": "Таны санааг ойлгож байна, гэхдээ би бүрэн санал нийлэхгүй байна.",
+   "explain_en": "\"I see your point, but...\" acknowledges before disagreeing.",
+   "explain_mn": "\"But\" нь гэхдээ гэсэн утгатай, эхлээд хүлээн зөвшөөрөөд дараа нь эсэргүүцнэ."
+  },
+  {
+   "lang": "en",
+   "text": "With ___, I think there may be another way.",
+   "answer": "respect",
+   "options": [
+    "respect",
+    "sorry",
+    "honest",
+    "love"
+   ],
+   "translation": "Хүндэтгэлтэйгээр хэлэхэд, өөр арга байж магадгүй гэж бодож байна.",
+   "explain_en": "\"With respect\" is a formal phrase before politely disagreeing.",
+   "explain_mn": "\"With respect\" нь эелдгээр эсэргүүцэхийн өмнө хэлэх албан ёсны хэллэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anna",
+   "mn": "Бямба гарагт манайд ирэх үү? Бид бууз хийнэ.",
+   "en": "Would you like to come to our place on Saturday? We're making buuz.",
+   "mn_latin": "Byamba garagt manaid irekh üü? Bid buuz khiine."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Баярлалаа, сайхан санагдаж байна. Харамсалтай нь, би тэр өдөр ажилтай байх шиг байна даа.",
+   "en": "Thank you, that sounds lovely. I'm afraid I'll probably be working that day.",
+   "mn_latin": "Bayarlalaa, saikhan sanagdaj baina. Kharamsaltai ni, bi ter ödör ajiltai baikh shig baina daa."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Ёстой харамсалтай юм аа. Би чамайг ирнэ гэж найдаж байсан юм.",
+   "en": "What a shame. I was hoping you'd come.",
+   "mn_latin": "Yostoi kharamsaltai yum aa. Bi chamaig irne gej naidaj baisan yum."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Уучлаарай. Гэхдээ дараагийн долоо хоногт чөлөөтэй байх.",
+   "en": "I'm sorry. But I'll probably be free next week.",
+   "mn_latin": "Uuchlaarai. Gekhdee daraagiin doloo khonogt chölöötei baikh."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Тэгвэл дараа долоо хоногт уулзъя. Бат аа, чиний тайлангийн тухай нэг зүйл хэлж болох уу?",
+   "en": "Then let's meet next week. By the way, Bat, may I say something about your report?",
+   "mn_latin": "Tegvel daraa doloo khonogt uulzya. Bat aa, chinii tailangiin tukhai neg züil khelj bolokh uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Мэдээж, хэлээрэй. Би шүүмжлэлд бэлэн.",
+   "en": "Of course, go ahead. I'm ready for criticism.",
+   "mn_latin": "Medeej, kheleerei. Bi shüümjleld belen."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Санаа чинь сайн, гэхдээ бодит тоо баримт арай дутуу байна даа.",
+   "en": "Your ideas are good, but it's a bit short on real figures.",
+   "mn_latin": "Sanaa chini sain, gekhdee bodit too barimt arai dutuu baina daa."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Ойлголоо. Баярлалаа, засаад үзье.",
+   "en": "Understood. Thanks, I'll fix it.",
+   "mn_latin": "Oilgoloo. Bayarlalaa, zasaad üziye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian culture, a direct \"no\" can feel abrupt, so people often decline with phrases like \"I'll try\" or \"maybe it won't work out,\" leaving the other person to read the meaning. Keeping someone's face, especially an elder's or guest's, matters greatly. In English-speaking workplaces, softeners such as \"I'm afraid\" and \"with respect\" serve a similar purpose but are usually followed by a clearer reason.",
+  "mn": "Монгол соёлд шууд \"үгүй\" гэж хэлэх нь хэтэрхий огцом сонсогдож болдог тул \"оролдоод үзье\", \"амжихгүй байх шиг байна\" гэх мэтээр татгалзаж, утгыг нь сонсогч өөрөө ойлгодог. Бусдын, ялангуяа ахмад хүн болон зочны нэр нүүрийг бодох нь маш чухал. Англи хэлтэй ажлын орчинд \"I'm afraid\", \"with respect\" зэрэг нь ижил үүрэгтэй боловч дараа нь ихэвчлэн илүү тодорхой шалтгаан хэлдэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 20,
+  "notes": "Good concept, but several unnatural Mongolian constructions (ч гэсэн misuse, чадахгүй нь), a wrong name in the dialogue, and a muddled grammar explanation."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 7,
+  "notes": "Main problems were the ч/ч гэсэн rule, a wrong vowel-harmony example, an unnatural dialogue invitation, and fill-in-the-blank options that allowed more than one answer.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "ч alone doesn't mean 'though' here; the дээ example сайхан юм is back-vowel (wrong)"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 2,
+    "field": "mn",
+    "why": "concessive needs ч гэсэн"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "said 'at the end of a particle'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "options",
+    "why": "'worried'/'scared'/'angry' also make grammatical sentences"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "боддог = habitual, not 'I think' now"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "'зочилж болох уу' = 'may we visit'; buuz is steamed, not boiled (чанах)"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'нүүр хүндэтгэх' is not a standard idiom; also matches en ('someone's face, especially an elder's or guest's')"
+   }
+  ]
+ }
+}

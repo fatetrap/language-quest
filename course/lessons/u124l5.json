@@ -1,0 +1,427 @@
+{
+ "intro_en": "Spend a weekend at the zuslan with the whole family, with khorkhog, basketball, and stories by the fire. You'll learn how Mongolian talks about groups of people (бүх, ихэнх, зарим нь) and how English uses partitives like a group of, a piece of, a slice of, and a stack of.",
+ "intro_mn": "Бүх гэр бүлээрээ зуслан дээр хорхог идэж, сагсан бөмбөг тоглож, гал тойрон түүх ярьж амралтын өдрүүдийг өнгөрүүлцгээе. Монгол хэлэнд бүлэг хүмүүсийг хэрхэн илэрхийлэх (бүх, ихэнх, зарим нь), англи хэлэнд a group of, a piece of, a slice of, a stack of гэх мэт хэсэг заасан хэллэгийг хэрхэн хэрэглэхийг сурна.",
+ "vocab": [
+  {
+   "mn": "хорхог",
+   "en": "khorkhog (meat cooked with hot stones)",
+   "pos": "noun",
+   "example_mn": "Аав маань зуслан дээр хорхог хийлээ.",
+   "example_en": "My dad made khorkhog at the zuslan.",
+   "mn_latin": "khorkhog"
+  },
+  {
+   "mn": "гал түлэх",
+   "en": "to make a fire",
+   "pos": "verb phrase",
+   "example_mn": "Орой нь бид гадаа гал түлсэн.",
+   "example_en": "In the evening we made a fire outside.",
+   "mn_latin": "gal tülekh"
+  },
+  {
+   "mn": "түлээ",
+   "en": "firewood",
+   "pos": "noun",
+   "example_mn": "Хүүхдүүд ойгоос түлээ түүж ирлээ.",
+   "example_en": "The kids gathered firewood in the forest.",
+   "mn_latin": "tülee"
+  },
+  {
+   "mn": "сагсан бөмбөг",
+   "en": "basketball",
+   "pos": "noun",
+   "example_mn": "Залуус гадаа сагсан бөмбөг тоглов.",
+   "example_en": "The young people played basketball outside.",
+   "mn_latin": "sagsan bömbög"
+  },
+  {
+   "mn": "амрах",
+   "en": "to rest, to relax",
+   "pos": "verb",
+   "example_mn": "Бүтэн долоо хоног ажилласан болохоор амармаар байна.",
+   "example_en": "I worked all week, so I want to relax.",
+   "mn_latin": "amrakh"
+  },
+  {
+   "mn": "хамаатан",
+   "en": "relative",
+   "pos": "noun",
+   "example_mn": "Манай хамаатнууд хотоос ирлээ.",
+   "example_en": "Our relatives came from the city.",
+   "mn_latin": "khamaatan"
+  },
+  {
+   "mn": "цуглах",
+   "en": "to gather, to get together",
+   "pos": "verb",
+   "example_mn": "Бүх гэр бүл зуслан дээр цугларав.",
+   "example_en": "The whole family gathered at the zuslan.",
+   "mn_latin": "tsuglakh"
+  },
+  {
+   "mn": "ихэнх",
+   "en": "most",
+   "pos": "quantifier",
+   "example_mn": "Ихэнх хүүхдүүд гадаа тоглож байлаа.",
+   "example_en": "Most of the kids were playing outside.",
+   "mn_latin": "ikhenkh"
+  },
+  {
+   "mn": "зарим",
+   "en": "some",
+   "pos": "quantifier",
+   "example_mn": "Зарим нь ном уншиж, зарим нь унтсан.",
+   "example_en": "Some read books, and others slept.",
+   "mn_latin": "zarim"
+  },
+  {
+   "mn": "шагай",
+   "en": "anklebones (traditional game)",
+   "pos": "noun",
+   "example_mn": "Орой нь бид шагай тоглосон.",
+   "example_en": "In the evening we played anklebones.",
+   "mn_latin": "shagai"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Бүх хамаатнууд бямба гарагт зуслан дээр цугларсан.",
+   "en": "All the relatives gathered at the zuslan on Saturday.",
+   "alt_mn": [
+    "Бямба гарагт бүх хамаатнууд зуслан дээр цугларсан."
+   ],
+   "alt_en": [
+    "All of the relatives gathered at the zuslan on Saturday.",
+    "All the relatives got together at the zuslan on Saturday."
+   ],
+   "mn_latin": "Bükh khamaatnuud byamba garagt zuslan deer tsuglarsan."
+  },
+  {
+   "mn": "Ихэнх хүүхдүүд сагсан бөмбөг тоглож байхад зарим нь голд сэлсэн.",
+   "en": "While most of the kids were playing basketball, some swam in the river.",
+   "alt_mn": [
+    "Хүүхдүүдийн ихэнх нь сагсан бөмбөг тоглож байхад зарим нь голд сэлсэн."
+   ],
+   "alt_en": [
+    "While most kids were playing basketball, some of them swam in the river."
+   ],
+   "mn_latin": "Ikhenkh khüükhdüüd sagsan bömbög togloj baikhad zarim ni gold selsen."
+  },
+  {
+   "mn": "Саравчны хажууд нэг овоо түлээ байлаа.",
+   "en": "There was a stack of firewood next to the shed.",
+   "alt_mn": [
+    "Саравчны хажууд нэг овоо түлээ байсан."
+   ],
+   "alt_en": [
+    "There was a pile of firewood next to the shed."
+   ],
+   "mn_latin": "Saravchny khajuud neg ovoo tülee bailaa."
+  },
+  {
+   "mn": "Аав хорхогийн чулууг галд халааж, ах маань мах хэрчив.",
+   "en": "Dad heated the khorkhog stones in the fire, and my older brother cut the meat.",
+   "alt_mn": [
+    "Аав хорхогийн чулууг галд халааж, ах маань мах хэрчсэн."
+   ],
+   "alt_en": [
+    "Dad heated the stones for the khorkhog in the fire, and my brother cut up the meat."
+   ],
+   "mn_latin": "Aav khorkhogiin chuluug gald khalaaj, akh maani makh kherchiv."
+  },
+  {
+   "mn": "Хорхог болтол бид хэдэн цаг хүлээх хэрэгтэй болсон.",
+   "en": "We had to wait a few hours until the khorkhog was ready.",
+   "alt_mn": [
+    "Хорхог болох хүртэл бид хэдэн цаг хүлээх хэрэгтэй болсон."
+   ],
+   "alt_en": [
+    "We had to wait several hours for the khorkhog to be ready."
+   ],
+   "mn_latin": "Khorkhog boltol bid kheden tsag khüleekh kheregtei bolson."
+  },
+  {
+   "mn": "Ээж надад нэг хэсэг мах, нэг зүсэм талх өгсөн.",
+   "en": "Mom gave me a piece of meat and a slice of bread.",
+   "alt_mn": [
+    "Ээж надад нэг хэсэг мах, нэг зүсэм талх өглөө."
+   ],
+   "alt_en": [],
+   "mn_latin": "Eej nadad neg kheseg makh, neg züsem talkh ögsön."
+  },
+  {
+   "mn": "Ихэнх нь гал тойрон суугаад түүх ярьж байлаа.",
+   "en": "Most of them sat around the fire telling stories.",
+   "alt_mn": [
+    "Ихэнх нь галыг тойрон суугаад түүх ярьж байсан."
+   ],
+   "alt_en": [
+    "Most of them were sitting around the fire telling stories."
+   ],
+   "mn_latin": "Ikhenkh ni gal toiron suugaad tüükh yarij bailaa."
+  },
+  {
+   "mn": "Зарим хамаатнууд маань хотоос оройтож ирсэн.",
+   "en": "Some of our relatives arrived late from the city.",
+   "alt_mn": [
+    "Манай зарим хамаатнууд хотоос оройтож ирсэн."
+   ],
+   "alt_en": [
+    "Some of our relatives came late from the city."
+   ],
+   "mn_latin": "Zarim khamaatnuud maani khotoos oroitoj irsen."
+  },
+  {
+   "mn": "Ажлын долоо хоногийн дараа ингэж амрах үнэхээр сайхан байна.",
+   "en": "After a work week, it's really nice to relax like this.",
+   "alt_mn": [],
+   "alt_en": [
+    "After a week of work, it feels really good to relax like this."
+   ],
+   "mn_latin": "Ajlyn doloo khonogiin daraa ingej amrakh ünekheer saikhan baina."
+  },
+  {
+   "mn": "Ширээн дээр нэг овоо угаагаагүй таваг байв.",
+   "en": "There was a stack of unwashed plates on the table.",
+   "alt_mn": [
+    "Ширээн дээр нэг овоо угаагаагүй таваг байсан."
+   ],
+   "alt_en": [
+    "There was a pile of dirty plates on the table."
+   ],
+   "mn_latin": "Shireen deer neg ovoo ugaagaagüi tavag baiv."
+  },
+  {
+   "mn": "Бүх хүүхдүүд шөнө дунд болтол унтаагүй.",
+   "en": "All the kids stayed up until midnight.",
+   "alt_mn": [
+    "Хүүхдүүд бүгд шөнө дунд болтол унтаагүй."
+   ],
+   "alt_en": [
+    "All of the kids stayed awake until midnight."
+   ],
+   "mn_latin": "Bükh khüükhdüüd shönö dund boltol untaagüi."
+  },
+  {
+   "mn": "Өвөө бидэнд шагай харвахыг заасан ч бидний ихэнх нь онож чадаагүй.",
+   "en": "Grandpa taught us anklebone shooting, but most of us couldn't hit the target.",
+   "alt_mn": [
+    "Өвөө бидэнд шагай харвахыг зааж өгсөн ч бидний ихэнх нь онож чадаагүй."
+   ],
+   "alt_en": [
+    "Grandpa showed us how to flick anklebones, but most of us couldn't hit the target."
+   ],
+   "mn_latin": "Övöö bidend shagai kharvakhyg zaasan ch bidnii ikhenkh ni onoj chadaagüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Talking about groups: бүх, ихэнх, зарим (нь) / partitives: a group of, a piece of",
+  "title_mn": "Бүлэг хүмүүсийг илэрхийлэх: бүх, ихэнх, зарим (нь) / англи хэлний a group of, a piece of",
+  "explain_en": "In Mongolian, quantifiers go before the noun: бүх хамаатнууд (all the relatives), ихэнх хүүхдүүд (most kids), зарим хүмүүс (some people). Once everyone knows who you mean, you can drop the noun and add нь: ихэнх нь (most of them), зарим нь (some of them). For 'all of them,' use бүгд on its own, without нь. To say 'most of the X,' put the noun in the genitive and add нь after the quantifier: хүүхдүүдийн ихэнх нь (most of the children). Pairing зарим нь ... зарим нь ... means 'some ... others ...'. In English, uncountable nouns (bread, meat, firewood) can't be counted directly, so we use partitives: a piece of meat (нэг хэсэг мах), a slice of bread (нэг зүсэм талх), a stack of firewood (нэг овоо түлээ). A group of people is нэг хэсэг хүмүүс. In the plural, only the partitive changes: two slices of bread, three pieces of meat.",
+  "explain_mn": "Монгол хэлэнд тоо хэмжээ заасан үг нэр үгийн өмнө орно: бүх хамаатнууд (all the relatives), ихэнх хүүхдүүд (most kids), зарим хүмүүс (some people). Хэнийг хэлж байгаа нь тодорхой бол нэр үгийг орхиж, нь нэмнэ: ихэнх нь (most of them), зарим нь (some of them). 'Бүгд' гэдгийг нь-гүйгээр дангаар нь хэрэглэнэ (all of them). 'Most of the X' гэхийн тулд нэр үгийг харьяалахын тийн ялгалд тавьж, тоо хэмжээний үгийн дараа нь нэмнэ: хүүхдүүдийн ихэнх нь (most of the children). Зарим нь ... зарим нь ... гэвэл 'some ... others ...' гэсэн утгатай. Англи хэлэнд тоолж болдоггүй нэр үгийг (bread, meat, firewood) шууд тоолж болохгүй. Тиймээс хэсэг заасан үг хэрэглэнэ: a piece of meat (нэг хэсэг мах), a slice of bread (нэг зүсэм талх), a stack of firewood (нэг овоо түлээ). Хүмүүсийн бүлгийг a group of people (нэг хэсэг хүмүүс) гэнэ. Олон тоонд зөвхөн хэсэг заасан үг олон тоо авна: two slices of bread, three pieces of meat. Харин bread, meat үг өөрчлөгдөхгүй.",
+  "examples": [
+   {
+    "mn": "Хүүхдүүдийн ихэнх нь сагсан бөмбөг тоглосон.",
+    "en": "Most of the children played basketball.",
+    "mn_latin": "Khüükhdüüdiin ikhenkh ni sagsan bömbög togloson."
+   },
+   {
+    "mn": "Зарим нь түлээ зөөж, зарим нь хорхог хийсэн.",
+    "en": "Some carried firewood, and others made khorkhog.",
+    "mn_latin": "Zarim ni tülee zööj, zarim ni khorkhog khiisen."
+   },
+   {
+    "mn": "Нэг хэсэг залуус гал тойрон дуулж байв.",
+    "en": "A group of young people was singing around the fire.",
+    "mn_latin": "Neg kheseg zaluus gal toiron duulj baiv."
+   },
+   {
+    "mn": "Надад хоёр зүсэм талх өгөөч.",
+    "en": "Please give me two slices of bread.",
+    "mn_latin": "Nadad khoyor züsem talkh ögööch."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хүүхдүүдийн ихэнх ___ сагсан бөмбөг тоглосон.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "д",
+    "ийг",
+    "тэй"
+   ],
+   "translation": "Most of the children played basketball.",
+   "explain_en": "In the pattern 'genitive + quantifier + нь,' нь points back to the group: хүүхдүүдийн ихэнх нь = most of the children.",
+   "explain_mn": "'Харьяалахын тийн ялгалтай нэр үг + ихэнх/зарим + нь' загварт нь гэдэг нь өмнө дурдсан бүлгийг заадаг. Хүүхдүүдийн ихэнх нь = most of the children."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид гал түл___ хорхог хийж эхэлсэн.",
+   "answer": "ээд",
+   "options": [
+    "ээд",
+    "сэн",
+    "ээгүй",
+    "эх"
+   ],
+   "translation": "We made a fire and then started making khorkhog.",
+   "explain_en": "The converb -аад/-ээд/-оод means 'after doing / and then.' түлэх follows front-vowel harmony, so it takes -ээд: түлээд.",
+   "explain_mn": "-аад/-ээд/-оод нөхцөл нь эхний үйлдэл дуусаад дараагийнх нь эхэлснийг заана. Англиар 'and then' эсвэл 'after ...ing' гэж орчуулна. Түлэх үг эм эгшигтэй тул эгшиг зохицох ёсоор -ээд авна: түлээд."
+  },
+  {
+   "lang": "mn",
+   "text": "___ хамаатнууд хотоос ирсэн, бусад нь энд амьдардаг.",
+   "answer": "Зарим",
+   "options": [
+    "Зарим",
+    "Бүх",
+    "Бүгд",
+    "Хэн"
+   ],
+   "translation": "Some relatives came from the city; the others live here.",
+   "explain_en": "Because 'the others' (бусад нь) follows, the first group must be only part of the relatives, so зарим (some). Бүгд stands alone and doesn't go before a noun.",
+   "explain_mn": "Араас нь 'бусад нь' (the others) орж байгаа тул эхний бүлэг нь хамаатнуудын зөвхөн нэг хэсэг байх ёстой. Иймд зарим (some) гэж хэрэглэнэ. Бүгд нь дангаараа хэрэглэгддэг бөгөөд нэр үгийн өмнө ордоггүй."
+  },
+  {
+   "lang": "en",
+   "text": "Mom cut a ___ of bread for each child.",
+   "answer": "slice",
+   "options": [
+    "slice",
+    "stack",
+    "group",
+    "glass"
+   ],
+   "translation": "Ээж хүүхэд бүрт нэг зүсэм талх хэрчиж өгсөн.",
+   "explain_en": "A thin piece cut from bread is a slice. We cut slices, not stacks or groups.",
+   "explain_mn": "Талхнаас хэрчиж авсан нимгэн хэсгийг slice (зүсэм) гэнэ. Cut (хэрчих) үйл үгтэй slice хамгийн зохимжтой."
+  },
+  {
+   "lang": "en",
+   "text": "A ___ of teenagers was playing basketball near the river.",
+   "answer": "group",
+   "options": [
+    "group",
+    "piece",
+    "slice",
+    "stack"
+   ],
+   "translation": "Голын ойролцоо нэг хэсэг өсвөр насныхан сагсан бөмбөг тоглож байв.",
+   "explain_en": "For people, we say a group of. Piece, slice, and stack are for things, not people.",
+   "explain_mn": "Хүмүүст a group of (нэг хэсэг, бүлэг) хэрэглэнэ. Piece, slice, stack нь зөвхөн эд зүйлд хэрэглэгддэг."
+  },
+  {
+   "lang": "en",
+   "text": "There was a ___ of firewood behind the ger.",
+   "answer": "stack",
+   "options": [
+    "stack",
+    "slice",
+    "drop",
+    "group"
+   ],
+   "translation": "Гэрийн ард нэг овоо түлээ байв.",
+   "explain_en": "Logs piled on top of each other make a stack. A drop is for liquids, and a slice is for food.",
+   "explain_mn": "Бие бие дээрээ давхарлан овоолсон зүйлийг stack (овоо) гэнэ. Drop нь шингэнд, slice нь хоолонд хэрэглэгдэнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Бүх хамаатнууд ирчихлээ. Хорхог хэзээ болох вэ?",
+   "en": "All the relatives are here. When will the khorkhog be ready?",
+   "mn_latin": "Bükh khamaatnuud irchikhlee. Khorkhog khezee bolokh ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Чулуу халж байна. Дахиад нэг цаг орчим болно.",
+   "en": "The stones are heating up. It'll be about another hour.",
+   "mn_latin": "Chuluu khalj baina. Dakhiad neg tsag orchim bolno."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Тэгвэл хүүхдүүдийг юу хийлгэх вэ? Ихэнх нь өлсчихсөн байна.",
+   "en": "Then what should we have the kids do? Most of them are already hungry.",
+   "mn_latin": "Tegvel khüükhdüüdiig yuu khiilgekh ve? Ikhenkh ni ölschikhsön baina."
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Зарим нь сагсан бөмбөг тоглож байна. Бусдаар нь түлээ зөөлгөе.",
+   "en": "Some of them are playing basketball. Let's have the others carry firewood.",
+   "mn_latin": "Zarim ni sagsan bömbög togloj baina. Busdaar ni tülee zöölgöye."
+  },
+  {
+   "speaker": "Тэмүүлэн",
+   "mn": "Аав аа, саравчны хажууд байгаа овоо түлээг авчрах уу?",
+   "en": "Dad, should we bring the stack of firewood by the shed?",
+   "mn_latin": "Aav aa, saravchny khajuud baigaa ovoo tüleeg avchrakh uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тийм ээ, оройн гал түлэхэд хүрэлцэхээр авчраарай.",
+   "en": "Yes, bring enough for the evening fire.",
+   "mn_latin": "Tiim ee, oroin gal tülekhed khüreltsekheer avchraarai."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Ингэж бүгдээрээ цуглаад амрах ямар сайхан юм бэ.",
+   "en": "It's so nice when we all get together and relax like this.",
+   "mn_latin": "Ingej bügdeeree tsuglaad amrakh yamar saikhan yum be."
+  }
+ ],
+ "culture_note": {
+  "en": "Khorkhog is a festive dish. Mutton is cooked with vegetables and stones heated in a fire inside a tightly closed pot or milk can. When it's ready, people pass the hot, greasy stones from hand to hand, because many believe this is good for your health. Summer weekends at the zuslan often turn into big family gatherings, with khorkhog, games like anklebones and basketball, and long evenings around the fire.",
+  "mn": "Хорхог бол баярын хоол юм. Хонины махыг ногоотой хамт галд халаасан чулуугаар таглаатай тогоо эсвэл сүүний бидонд жигнэж болгодог. Хоол болсны дараа халуун, тостой чулууг гараас гарт дамжуулан атгадаг нь эрүүл мэндэд сайн гэж олон хүн итгэдэг. Зуны амралтын өдрүүдэд зуслан дээр гэр бүлээрээ цуглаж, хорхог идэж, шагай, сагсан бөмбөг тоглон, гал тойрон оройг өнгөрүүлэх нь элбэг."
+ },
+ "review": {
+  "rating": 9,
+  "fixes": 2,
+  "notes": "A strong lesson with natural Mongolian and English throughout. The only fixes are two small inaccuracies in the grammar explanations."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Mostly clean; the main problem was mismatched en/mn explanations.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different topics; now both cover both"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "en and mn explanations covered different topics; now both cover both"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "explain_mn",
+    "why": "add the vowel-harmony point so mn matches en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "mn didn't match en explanation"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "'most of us' needs бидний ихэнх нь"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "alt_mn",
+    "why": "match 'most of us'"
+   }
+  ]
+ }
+}

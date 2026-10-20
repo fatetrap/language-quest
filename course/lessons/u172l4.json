@@ -1,0 +1,414 @@
+{
+ "intro_en": "In this lesson you'll learn to check forecast apps, compare their predictions, and talk about weather changes using the Mongolian future -на and the expression -х төлөвтэй (\"is expected to\").",
+ "intro_mn": "Энэ хичээлээр та цаг агаарын аппуудыг шалгаж, урьдчилсан мэдээг харьцуулж, мөн англи хэлний \"colder and colder\" гэх мэт харьцуулсан зэргийн давталтаар цаг агаарын өөрчлөлтийг тайлбарлаж сурна.",
+ "vocab": [
+  {
+   "mn": "цаг агаарын мэдээ",
+   "en": "weather forecast",
+   "pos": "noun",
+   "example_mn": "Өнөөдрийн цаг агаарын мэдээг үзсэн үү?",
+   "example_en": "Did you check today's weather forecast?",
+   "mn_latin": "tsag agaaryn medee"
+  },
+  {
+   "mn": "хур тунадас",
+   "en": "precipitation",
+   "pos": "noun",
+   "example_mn": "Маргааш хур тунадас орохгүй гэнэ.",
+   "example_en": "They say there will be no precipitation tomorrow.",
+   "mn_latin": "khur tunadas"
+  },
+  {
+   "mn": "магадлал",
+   "en": "chance, probability",
+   "pos": "noun",
+   "example_mn": "Бороо орох магадлал 70 хувь.",
+   "example_en": "There's a 70 percent chance of rain.",
+   "mn_latin": "magadlal"
+  },
+  {
+   "mn": "градус",
+   "en": "degree",
+   "pos": "noun",
+   "example_mn": "Шөнөдөө хасах 25 градус хүрнэ.",
+   "example_en": "At night it will get down to minus 25 degrees.",
+   "mn_latin": "gradus"
+  },
+  {
+   "mn": "ширүүсэх",
+   "en": "to get stronger (wind, storm)",
+   "pos": "verb",
+   "example_mn": "Орой салхи ширүүснэ.",
+   "example_en": "The wind will pick up in the evening.",
+   "mn_latin": "shirüüsekh"
+  },
+  {
+   "mn": "хүйтрэх",
+   "en": "to get colder",
+   "pos": "verb",
+   "example_mn": "Долоо хоногийн сүүлээр хүйтэрнэ.",
+   "example_en": "It will get colder at the end of the week.",
+   "mn_latin": "khüitrekh"
+  },
+  {
+   "mn": "багасах",
+   "en": "to decrease",
+   "pos": "verb",
+   "example_mn": "Үдээс хойш үүл багасна.",
+   "example_en": "The clouds will clear in the afternoon.",
+   "mn_latin": "bagasakh"
+  },
+  {
+   "mn": "нэмэгдэх",
+   "en": "to increase",
+   "pos": "verb",
+   "example_mn": "Салхины хурд секундэд 15 метр хүртэл нэмэгдэнэ.",
+   "example_en": "Wind speed will increase to 15 meters per second.",
+   "mn_latin": "nemegdekh"
+  },
+  {
+   "mn": "зөрөх",
+   "en": "to differ, to not match",
+   "pos": "verb",
+   "example_mn": "Энэ хоёр аппын мэдээ их зөрж байна.",
+   "example_en": "These two apps' forecasts differ a lot.",
+   "mn_latin": "zörökh"
+  },
+  {
+   "mn": "төлөвтэй",
+   "en": "expected to",
+   "pos": "expression (after verb + -х)",
+   "example_mn": "Маргааш цас орох төлөвтэй.",
+   "example_en": "Snow is expected tomorrow.",
+   "mn_latin": "tölövtei"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Апп юу гэж байна? Бороо орох уу?",
+   "en": "What does the app say? Is it going to rain?",
+   "alt_mn": [
+    "Апп юу гэж байна? Бороо орох болов уу?"
+   ],
+   "alt_en": [
+    "What does the app say? Will it rain?"
+   ],
+   "mn_latin": "App yuu gej baina? Boroo orokh uu?"
+  },
+  {
+   "mn": "Энэ апп бороо орох магадлал 80 хувь гэж байна.",
+   "en": "This app says there's an 80 percent chance of rain.",
+   "alt_mn": [
+    "Энэ апп дээр бороо орох магадлал 80 хувь байна."
+   ],
+   "alt_en": [
+    "This app gives an 80 percent chance of rain."
+   ],
+   "mn_latin": "Ene app boroo orokh magadlal 80 khuvi gej baina."
+  },
+  {
+   "mn": "Харин нөгөө апп ердөө 30 хувь гэж байна.",
+   "en": "But the other app says only 30 percent.",
+   "alt_mn": [
+    "Харин нөгөө апп дээр ердөө 30 хувь байна."
+   ],
+   "alt_en": [
+    "The other app, though, says just 30 percent."
+   ],
+   "mn_latin": "Kharin nögöö app yerdöö 30 khuvi gej baina."
+  },
+  {
+   "mn": "Орой болох тусам салхи улам бүр ширүүснэ.",
+   "en": "It will get windier and windier toward evening.",
+   "alt_mn": [
+    "Орой болох тусам салхи улам ширүүснэ."
+   ],
+   "alt_en": [
+    "The wind will get stronger and stronger toward evening."
+   ],
+   "mn_latin": "Oroi bolokh tusam salkhi ulam bür shirüüsne."
+  },
+  {
+   "mn": "Маргааш өглөө хасах 15 градус хүртэл хүйтэрнэ.",
+   "en": "Tomorrow morning it will get as cold as minus 15 degrees.",
+   "alt_mn": [
+    "Маргааш өглөө хасах 15 градус хүрч хүйтэрнэ."
+   ],
+   "alt_en": [
+    "Tomorrow morning it will drop to minus 15 degrees."
+   ],
+   "mn_latin": "Margaash öglöö khasakh 15 gradus khürtel khüiterne."
+  },
+  {
+   "mn": "Нутгийн зүүн хэсгээр хур тунадас орох төлөвтэй.",
+   "en": "Precipitation is expected in the eastern part of the country.",
+   "alt_mn": [
+    "Зүүн аймгуудаар хур тунадас орох төлөвтэй."
+   ],
+   "alt_en": [
+    "Rain or snow is expected in the eastern part of the country."
+   ],
+   "mn_latin": "Nutgiin züün khesgeer khur tunadas orokh tölövtei."
+  },
+  {
+   "mn": "Хоёр аппын мэдээ яагаад ингэж их зөрдөг юм бэ?",
+   "en": "Why do the two apps' forecasts differ so much?",
+   "alt_mn": [
+    "Хоёр аппын мэдээ яагаад ийм их зөрдөг юм бол?"
+   ],
+   "alt_en": [
+    "Why are the two apps so different?"
+   ],
+   "mn_latin": "Khoyor appyn medee yaagaad ingej ikh zördög yum be?"
+  },
+  {
+   "mn": "Долоо хоногийн сүүлээр улам бүр дулаарна.",
+   "en": "It will get warmer and warmer toward the end of the week.",
+   "alt_mn": [
+    "Долоо хоногийн сүүлээр агаар улам дулаарна."
+   ],
+   "alt_en": [
+    "It's going to get warmer and warmer toward the end of the week."
+   ],
+   "mn_latin": "Doloo khonogiin süüleer ulam bür dulaarna."
+  },
+  {
+   "mn": "Үдээс хойш үүл багасаж, нар гарах төлөвтэй.",
+   "en": "In the afternoon, the clouds are expected to clear and the sun to come out.",
+   "alt_mn": [],
+   "alt_en": [
+    "The clouds are expected to clear in the afternoon, and the sun should come out."
+   ],
+   "mn_latin": "Üdees khoish üül bagasaj, nar garakh tölövtei."
+  },
+  {
+   "mn": "Би албан ёсны цаг агаарын мэдээнд илүү итгэдэг.",
+   "en": "I trust the official weather forecast more.",
+   "alt_mn": [],
+   "alt_en": [
+    "I have more faith in the official weather forecast."
+   ],
+   "mn_latin": "Bi alban yosny tsag agaaryn medeend ilüü itgedeg."
+  },
+  {
+   "mn": "Шөнөдөө салхины хурд нэмэгдэх төлөвтэй.",
+   "en": "Wind speed is expected to increase overnight.",
+   "alt_mn": [
+    "Шөнө салхины хурд нэмэгдэх төлөвтэй."
+   ],
+   "alt_en": [
+    "The wind is expected to get stronger overnight."
+   ],
+   "mn_latin": "Shönödöö salkhiny khurd nemegdekh tölövtei."
+  },
+  {
+   "mn": "Аппын мэдээ цаг тутам өөрчлөгдөөд байна.",
+   "en": "The app's forecast keeps changing every hour.",
+   "alt_mn": [
+    "Аппын мэдээ цаг болгон өөрчлөгдөөд байна."
+   ],
+   "alt_en": [
+    "The forecast on the app keeps changing every hour."
+   ],
+   "mn_latin": "Appyn medee tsag tutam öörchlögdööd baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Talking about weather changes: future -на and -х төлөвтэй",
+  "title_mn": "Харьцуулсан зэргийн давталт: \"colder and colder\"",
+  "explain_en": "Many Mongolian weather verbs describe a change: хүйтрэх (get colder), дулаарах (get warmer), ширүүсэх (get stronger), багасах (decrease). To say what will happen, replace the dictionary ending -ах/-эх/-ох/-өх with -на/-нэ/-но/-нө, following vowel harmony: дулаарна, ширүүснэ, багасна. Some verbs keep or add a vowel to make pronunciation easier: нэмэгдэх becomes нэмэгдэнэ, and хүйтрэх becomes хүйтэрнэ. This is a confident prediction (\"it will get colder\"). For a softer, forecast-style statement, use the verb with -х plus төлөвтэй: цас орох төлөвтэй means \"snow is expected.\" Forecasters on TV use it all the time. For \"more and more\", add улам or улам бүр before the verb: улам бүр хүйтэрнэ means \"it will get colder and colder.\"",
+  "explain_mn": "Англи хэлэнд аажмаар өсөж буй өөрчлөлтийг илэрхийлэхдээ харьцуулсан зэргийг \"and\"-аар холбож давтдаг. Энэ нь монгол хэлний \"улам бүр\"-тэй адил. Богино тэмдэг нэрэнд -er нэмнэ: colder and colder, windier and windier, stronger and stronger. Урт тэмдэг нэрэнд \"more and more\" хэрэглэнэ: more and more humid, more and more unpredictable. Ихэвчлэн get эсвэл become үйл үгтэй хамт хэрэглэдэг: It will get windier and windier. It's getting warmer and warmer. Анхаарах зүйл: \"more colder\" гэж хэзээ ч хэлэхгүй!",
+  "examples": [
+   {
+    "mn": "Орой болох тусам салхи улам бүр ширүүснэ.",
+    "en": "It will get windier and windier toward evening.",
+    "mn_latin": "Oroi bolokh tusam salkhi ulam bür shirüüsne."
+   },
+   {
+    "mn": "Хавар болохоор өдрөөс өдөрт дулаарна.",
+    "en": "In spring it gets warmer and warmer every day.",
+    "mn_latin": "Khavar bolokhoor ödröös ödört dulaarna."
+   },
+   {
+    "mn": "Маргааш нойтон цас орох төлөвтэй.",
+    "en": "Wet snow is expected tomorrow.",
+    "mn_latin": "Margaash noiton tsas orokh tölövtei."
+   },
+   {
+    "mn": "Цаг агаар улам бүр урьдчилан таамаглахад хэцүү болж байна.",
+    "en": "The weather is getting more and more unpredictable.",
+    "mn_latin": "Tsag agaar ulam bür uridchilan taamaglakhad khetsüü bolj baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Маргааш цас орох ___.",
+   "answer": "төлөвтэй",
+   "options": [
+    "төлөвтэй",
+    "магадлал",
+    "градус",
+    "мэдээ"
+   ],
+   "translation": "Snow is expected tomorrow.",
+   "explain_en": "After a verb ending in -х (орох), use төлөвтэй to say something is expected to happen. магадлал is a noun (\"chance\") and doesn't complete this sentence.",
+   "explain_mn": "-х үйлт нэрийн дараа \"төлөвтэй\" орж \"болох байдалтай, хүлээгдэж байна\" гэсэн утгыг илэрхийлнэ. Англиар \"is expected\" гэдэгтэй дүйнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Орой салхи ширүүс___.",
+   "answer": "нэ",
+   "options": [
+    "нэ",
+    "на",
+    "но",
+    "нө"
+   ],
+   "translation": "The wind will pick up in the evening.",
+   "explain_en": "ширүүсэх has the front vowel ү, so vowel harmony requires -нэ: ширүүснэ. -на goes with a/у words, and -но/-нө go with о/ө words.",
+   "explain_mn": "Үгийн язгуурт \"ү\" эгшиг байгаа тул эгшиг зохицох ёсоор -нэ залгана. Англиар ирээдүйн цагийг \"will\"-ээр илэрхийлнэ: The wind will pick up."
+  },
+  {
+   "lang": "mn",
+   "text": "Бороо орох ___ 60 хувь.",
+   "answer": "магадлал",
+   "options": [
+    "магадлал",
+    "төлөвтэй",
+    "хур тунадас",
+    "градус"
+   ],
+   "translation": "There's a 60 percent chance of rain.",
+   "explain_en": "Percentages in forecasts go with магадлал (chance, probability): \"the chance of rain is 60 percent.\"",
+   "explain_mn": "Хувиар илэрхийлэгдэх зүйл бол \"магадлал\". Англиар \"a 60 percent chance of rain\" гэж хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "It's getting ___ and colder.",
+   "answer": "colder",
+   "options": [
+    "colder",
+    "cold",
+    "more cold",
+    "coldest"
+   ],
+   "translation": "Улам бүр хүйтэрч байна.",
+   "explain_en": "In this pattern, the same comparative form is repeated: colder and colder.",
+   "explain_mn": "Энэ хэлбэрт харьцуулсан зэргийг яг адилаар нь давтана: colder and colder. Богино үг тул -er нэмнэ, \"more cold\" буруу."
+  },
+  {
+   "lang": "en",
+   "text": "The wind is getting stronger and ___.",
+   "answer": "stronger",
+   "options": [
+    "stronger",
+    "strong",
+    "more strong",
+    "strongest"
+   ],
+   "translation": "Салхи улам бүр ширүүсэж байна.",
+   "explain_en": "Repeat the comparative: stronger and stronger. Use \"strong\" + -er, not \"more strong\".",
+   "explain_mn": "\"strong\" нь богино үг тул харьцуулсан зэрэг нь \"stronger\" болно. Түүнийгээ давтана: stronger and stronger."
+  },
+  {
+   "lang": "en",
+   "text": "The air is getting more and more ___.",
+   "answer": "humid",
+   "options": [
+    "humid",
+    "humider",
+    "more humid",
+    "humidest"
+   ],
+   "translation": "Агаар улам бүр чийглэг болж байна.",
+   "explain_en": "With \"more and more\", use the plain adjective. \"more\" already does the comparing.",
+   "explain_mn": "\"more and more\"-ийн дараа тэмдэг нэрийг энгийн хэлбэрээр нь бичнэ. \"more\" нь харьцуулах утгыг аль хэдийн илэрхийлсэн."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Болормаа, Бямба гаригт апп юу гэж байна? Бид Тэрэлж явна шүү дээ.",
+   "en": "Bolormaa, what does the app say for Saturday? We're going to Terelj, remember.",
+   "mn_latin": "Bolormaa, Byamba garigt app yuu gej baina? Bid Terelj yavna shüü dee."
+  },
+  {
+   "speaker": "Bolormaa",
+   "mn": "Минийх нартай, 12 градус гэж байна. Гэхдээ үдээс хойш салхи ширүүсэх төлөвтэй.",
+   "en": "Mine says sunny, 12 degrees. But the wind is expected to pick up in the afternoon.",
+   "mn_latin": "Miniikh nartai, 12 gradus gej baina. Gekhdee üdees khoish salkhi shirüüsekh tölövtei."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Сонин юм. Миний апп хур тунадас орох магадлал 70 хувь гэж байна.",
+   "en": "That's strange. My app says there's a 70 percent chance of precipitation.",
+   "mn_latin": "Sonin yum. Minii app khur tunadas orokh magadlal 70 khuvi gej baina."
+  },
+  {
+   "speaker": "Bolormaa",
+   "mn": "Энэ хавар аппуудын мэдээ их зөрөөд байна. Албан ёсны мэдээг бас харъя.",
+   "en": "The apps have been really inconsistent this spring. Let's check the official forecast too.",
+   "mn_latin": "Ene khavar appuudyn medee ikh zörööd baina. Alban yosny medeeg bas kharya."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Зөв санаа. Тэнд юу гэж байна?",
+   "en": "Good idea. What does it say?",
+   "mn_latin": "Zöv sanaa. Tend yuu gej baina?"
+  },
+  {
+   "speaker": "Bolormaa",
+   "mn": "Бямба гаригийн орой улам бүр хүйтэрч, шөнөдөө нойтон цас орох төлөвтэй гэнэ.",
+   "en": "It says it'll get colder and colder Saturday evening, and wet snow is expected overnight.",
+   "mn_latin": "Byamba garigiin oroi ulam bür khüiterch, shönödöö noiton tsas orokh tölövtei gene."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгвэл өглөө эрт гараад, орой болохоос өмнө буцаж ирье.",
+   "en": "Then let's leave early in the morning and come back before evening.",
+   "mn_latin": "Tegvel öglöö ert garaad, oroi bolokhoos ömnö butsaj iriye."
+  },
+  {
+   "speaker": "Bolormaa",
+   "mn": "Тохирлоо. Тэгээд ямар ч байсан дулаан хүрэм авч яваарай.",
+   "en": "Deal. And bring a warm jacket, just in case.",
+   "mn_latin": "Tokhirloo. Tegeed yamar ch baisan dulaan khürem avch yavaarai."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian spring weather is famously unpredictable: a sunny 15-degree day can turn into a snowstorm by evening. Many people in Ulaanbaatar compare several international apps with the forecast from Mongolia's national weather agency, which is shown on TV news. In the countryside, herders still pay close attention to traditional signs such as animal behavior and the color of the sky.",
+  "mn": "Монголын хаврын цаг агаар маш хувирамтгай. Нартай, 15 градус дулаан өдөр орой гэхэд цасан шуурга болж хувирах нь бий. Улаанбаатарынхан олон улсын хэд хэдэн аппыг телевизийн мэдээгээр гардаг Цаг уур, орчны шинжилгээний газрын мэдээтэй харьцуулж үздэг. Хөдөөний малчид мал амьтны байдал, тэнгэрийн өнгө зэрэг ардын тэмдэг шинжийг одоо ч анхааралтай ажигладаг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 6,
+  "notes": "A solid lesson overall. The main problems were a Mongolian title left in English, a few misspellings of -сэж/-саж forms, and some unnatural phrasing."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 3,
+  "notes": "Mostly solid. Fixed an inaccurate future-tense formation rule, one ungrammatical example that didn't match its translation, and one awkward alternative.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The rule 'drop -х' is wrong. The whole ending -ах/-эх is replaced (ширүүс-нэ), and нэмэгдэнэ is the exception."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "The original is ungrammatical (it needs 'таамаглах нь'), and it meant 'predicting is getting harder', not 'the weather is getting unpredictable'."
+   },
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_mn",
+    "why": "'аппад ... гэж байна' is unnatural. 'апп дээр ... байна' is the natural form."
+   }
+  ]
+ }
+}

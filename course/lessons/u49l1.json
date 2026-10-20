@@ -1,0 +1,456 @@
+{
+ "intro_en": "You will learn how to ask airport staff about delayed and cancelled flights, and how to politely ask about the new departure time. You will also practice the passive 'be delayed/cancelled' and its Mongolian equivalents.",
+ "intro_mn": "Та нисэх буудал дээр нислэг хойшилсон, цуцлагдсан үед ажилтнаас эелдгээр асууж, шинэ цагийг лавлаж сурна. Мөн англи хэлний 'be delayed/cancelled' үйлдэгдэх хэв болон түүнтэй дүйцэх монгол хэлбэрүүдийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "нислэгийн самбар",
+   "en": "departure board",
+   "pos": "noun",
+   "example_mn": "Нислэгийн самбараас гарцаа шалгаарай.",
+   "example_en": "Check your gate on the departure board.",
+   "mn_latin": "nislegiin sambar"
+  },
+  {
+   "mn": "хоцролт",
+   "en": "delay",
+   "pos": "noun",
+   "example_mn": "Цасны улмаас нислэгийн хоцролт гарсан.",
+   "example_en": "There was a flight delay because of the snow.",
+   "mn_latin": "khotsrolt"
+  },
+  {
+   "mn": "хойшлох",
+   "en": "to be delayed",
+   "pos": "verb",
+   "example_mn": "Манай нислэг нэг цагаар хойшилсон.",
+   "example_en": "Our flight has been delayed by an hour.",
+   "mn_latin": "khoishlokh"
+  },
+  {
+   "mn": "цуцлах",
+   "en": "to cancel",
+   "pos": "verb",
+   "example_mn": "Өнөө орой болох нислэгийг цуцалсан.",
+   "example_en": "The evening flight was cancelled.",
+   "mn_latin": "tsutslakh"
+  },
+  {
+   "mn": "гарц",
+   "en": "gate",
+   "pos": "noun",
+   "example_mn": "Таны гарц 12 дугаар гарц байна.",
+   "example_en": "Your gate is gate 12.",
+   "mn_latin": "garts"
+  },
+  {
+   "mn": "онгоцонд суух",
+   "en": "boarding",
+   "pos": "noun",
+   "example_mn": "Онгоцонд суух нь 6 цагт эхэлнэ.",
+   "example_en": "Boarding starts at six o'clock.",
+   "mn_latin": "ongotsond suukh"
+  },
+  {
+   "mn": "билет дахин захиалах",
+   "en": "rebooking",
+   "pos": "noun",
+   "example_mn": "Билет дахин захиалахад тусална уу?",
+   "example_en": "Could you help with rebooking?",
+   "mn_latin": "bilyet dakhin zakhialakh"
+  },
+  {
+   "mn": "нөхөн олговор",
+   "en": "compensation",
+   "pos": "noun",
+   "example_mn": "Бид нөхөн олговор авах эрхтэй юу?",
+   "example_en": "Are we entitled to compensation?",
+   "mn_latin": "nökhön olgovor"
+  },
+  {
+   "mn": "холбох нислэг",
+   "en": "connecting flight",
+   "pos": "noun",
+   "example_mn": "Би холбох нислэгээ алдчих вий гэж санаа зовж байна.",
+   "example_en": "I'm worried I'll miss my connecting flight.",
+   "mn_latin": "kholbokh nisleg"
+  },
+  {
+   "mn": "мэдэгдэх",
+   "en": "to announce / to notify",
+   "pos": "verb",
+   "example_mn": "Шинэ цагийг удахгүй мэдэгдэнэ.",
+   "example_en": "The new time will be announced soon.",
+   "mn_latin": "medegdekh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний нислэг хойшилсон уу?",
+   "en": "Has my flight been delayed?",
+   "alt_mn": [
+    "Манай нислэг хойшилсон юм уу?"
+   ],
+   "alt_en": [
+    "Is my flight delayed?"
+   ],
+   "mn_latin": "Minii nisleg khoishilson uu?"
+  },
+  {
+   "mn": "Нислэг хойшилсон, хэзээ ниснэ вэ?",
+   "en": "The flight is delayed. When will it take off?",
+   "alt_mn": [
+    "Нислэг хойшилсон байна, хэзээ ниснэ вэ?"
+   ],
+   "alt_en": [
+    "The flight has been delayed. When will it depart?"
+   ],
+   "mn_latin": "Nisleg khoishilson, khezee nisne ve?"
+  },
+  {
+   "mn": "Уучлаарай, Улаанбаатар руу явах нислэг цуцлагдсан уу?",
+   "en": "Excuse me, has the flight to Ulaanbaatar been cancelled?",
+   "alt_mn": [],
+   "alt_en": [
+    "Excuse me, is the Ulaanbaatar flight cancelled?"
+   ],
+   "mn_latin": "Uuchlaarai, Ulaanbaatar ruu yavakh nisleg tsutslagdsan uu?"
+  },
+  {
+   "mn": "Цасны улмаас нислэг хоёр цагаар хойшилсон.",
+   "en": "The flight has been delayed by two hours because of the snow.",
+   "alt_mn": [
+    "Цасны улмаас нислэг хоёр цаг хойшилсон."
+   ],
+   "alt_en": [
+    "The flight was delayed two hours due to snow."
+   ],
+   "mn_latin": "Tsasny ulmaas nisleg khoyor tsagaar khoishilson."
+  },
+  {
+   "mn": "Шинэ цагийг хэзээ мэдэгдэх вэ?",
+   "en": "When will the new time be announced?",
+   "alt_mn": [
+    "Шинэ цагийг хэзээ мэдэж авах вэ?"
+   ],
+   "alt_en": [
+    "When will we know the new time?"
+   ],
+   "mn_latin": "Shine tsagiig khezee medegdekh ve?"
+  },
+  {
+   "mn": "Миний нислэг цуцлагдсан тул билетээ дахин захиалмаар байна.",
+   "en": "My flight has been cancelled, so I'd like to rebook my ticket.",
+   "alt_mn": [
+    "Нислэг маань цуцлагдсан болохоор билетээ дахин захиалмаар байна."
+   ],
+   "alt_en": [
+    "My flight was cancelled, so I would like to rebook."
+   ],
+   "mn_latin": "Minii nisleg tsutslagdsan tul bilyetee dakhin zakhialmaar baina."
+  },
+  {
+   "mn": "Гарц өөрчлөгдсөн үү?",
+   "en": "Has the gate been changed?",
+   "alt_mn": [
+    "Гарц солигдсон уу?"
+   ],
+   "alt_en": [
+    "Did the gate change?"
+   ],
+   "mn_latin": "Garts öörchlögdsön üü?"
+  },
+  {
+   "mn": "Онгоцонд суух нь хэдэн цагт эхлэх вэ?",
+   "en": "What time does boarding start?",
+   "alt_mn": [
+    "Онгоцонд хэдэн цагт сууж эхлэх вэ?"
+   ],
+   "alt_en": [
+    "When does boarding begin?"
+   ],
+   "mn_latin": "Ongotsond suukh ni kheden tsagt ekhlekh ve?"
+  },
+  {
+   "mn": "Бид нөхөн олговор авах боломжтой юу?",
+   "en": "Are we able to get compensation?",
+   "alt_mn": [
+    "Бид нөхөн олговор авах эрхтэй юу?"
+   ],
+   "alt_en": [
+    "Can we receive compensation?"
+   ],
+   "mn_latin": "Bid nökhön olgovor avakh bolomjtoi yuu?"
+  },
+  {
+   "mn": "Би холбох нислэгээ алдчих вий гэж санаа зовж байна.",
+   "en": "I'm worried I'll miss my connecting flight.",
+   "alt_mn": [],
+   "alt_en": [
+    "I'm afraid I'll miss my connection."
+   ],
+   "mn_latin": "Bi kholbokh nislegee aldchikh vii gej sanaa zovj baina."
+  },
+  {
+   "mn": "Нислэгийн самбар дээр өөрчлөлт гарсан уу?",
+   "en": "Has anything changed on the departure board?",
+   "alt_mn": [
+    "Нислэгийн самбар дээр шинэ мэдээлэл гарсан уу?"
+   ],
+   "alt_en": [
+    "Is there any update on the departure board?"
+   ],
+   "mn_latin": "Nislegiin sambar deer öörchlölt garsan uu?"
+  },
+  {
+   "mn": "Надтай холбогдох утасны дугаараа үлдээе.",
+   "en": "Let me leave you my phone number so you can contact me.",
+   "alt_mn": [
+    "Утасны дугаараа үлдээчихье."
+   ],
+   "alt_en": [
+    "I'll leave my phone number so you can reach me."
+   ],
+   "mn_latin": "Nadtai kholbogdokh utasny dugaaraa üldeeye."
+  }
+ ],
+ "grammar": {
+  "title_en": "Reporting delays and asking about the new time",
+  "title_mn": "Хойшлолтыг мэдээлэх ба шинэ цагийг асуух",
+  "explain_en": "Mongolian reports a delay with the verb хойшил- in the past tense: Нислэг хойшилсон (The flight has been delayed). Cancellation uses the passive цуцлагд-: Нислэг цуцлагдсан. The ending -сан/-сон/-сөн shows the event has already happened. Add the length of delay in the instrumental case: хоёр цагаар (by two hours). To ask about the new time, use a question word with the future ending -на/-нэ/-но/-нө: Хэзээ ниснэ вэ? To soften requests, start with уучлаарай and end with ... уу?: Хэзээ нисэхийг мэдэж болох уу? (Could I know when it will take off?)",
+  "explain_mn": "Англи хэлэнд хойшлолт, цуцлалтыг 'be + өнгөрсөн цагийн үйлт нэр (V3, past participle)' гэсэн үйлдэгдэх хэвээр илэрхийлнэ: The flight is delayed / has been cancelled. 'By two hours' гэж хугацааг 'by' угтвараар илэрхийлнэ. Шинэ цагийг эелдгээр асуухдаа 'Could you tell me when the flight will leave?' гэж шууд бус асуулт хэрэглэнэ: 'when'-ийн дараа үгийн дараалал хэвийн (when it will leave) байх бөгөөд 'when will it leave' гэж урвуулахгүй.",
+  "examples": [
+   {
+    "mn": "Нислэг хойшилсон, хэзээ ниснэ вэ?",
+    "en": "The flight is delayed. When will it take off?",
+    "mn_latin": "Nisleg khoishilson, khezee nisne ve?"
+   },
+   {
+    "mn": "Миний нислэг цуцлагдсан.",
+    "en": "My flight has been cancelled.",
+    "mn_latin": "Minii nisleg tsutslagdsan."
+   },
+   {
+    "mn": "Нислэг нэг цагаар хойшилсон.",
+    "en": "The flight has been delayed by one hour.",
+    "mn_latin": "Nisleg neg tsagaar khoishilson."
+   },
+   {
+    "mn": "Шинэ цаг хэд болохыг хэлж өгөөч?",
+    "en": "Could you tell me what the new time is?",
+    "mn_latin": "Shine tsag khed bolokhyg khelj ögööch?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Цасны улмаас нислэг хоёр цагаар ___.",
+   "answer": "хойшилсон",
+   "options": [
+    "хойшилсон",
+    "хойшилно",
+    "хойшлуул",
+    "хойшил"
+   ],
+   "translation": "The flight was delayed by two hours because of snow.",
+   "explain_en": "Past-tense -сан reports a delay that has already happened.",
+   "explain_mn": "Хойшлолт аль хэдийн болсон тул өнгөрсөн цагийн -сан дагавар хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Манай нислэг ___, тиймээс билетээ дахин захиалмаар байна.",
+   "answer": "цуцлагдсан",
+   "options": [
+    "цуцлагдсан",
+    "цуцалсан",
+    "цуцлах",
+    "цуцлагдах"
+   ],
+   "translation": "Our flight has been cancelled, so I want to rebook my ticket.",
+   "explain_en": "The passive цуцлагд- means 'be cancelled' (no one doing it is named).",
+   "explain_mn": "Үйлдэгчийг заахгүй, 'цуцлагдсан' гэсэн үйлдэгдэх хэв хэрэглэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Нислэг нэг цаг___ хойшилсон.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "д",
+    "ийг",
+    "тай"
+   ],
+   "translation": "The flight was delayed by an hour.",
+   "explain_en": "Instrumental case -аар marks the amount of delay: цагаар = by an hour.",
+   "explain_mn": "Хэмжээг хэрэгсэх тийн ялгалын -аар дагавар илэрхийлнэ: цагаар."
+  },
+  {
+   "lang": "en",
+   "text": "My flight ___ cancelled because of the storm.",
+   "answer": "was",
+   "options": [
+    "was",
+    "did",
+    "has",
+    "were"
+   ],
+   "translation": "Миний нислэг шуурганаас болж цуцлагдсан.",
+   "explain_en": "Passive: was + cancelled. A singular subject takes 'was'.",
+   "explain_mn": "Үйлдэгдэх хэв: be + V3. 'Flight' нэгийн тоо тул 'was'."
+  },
+  {
+   "lang": "en",
+   "text": "Could you tell me when the flight ___ ?",
+   "answer": "will leave",
+   "options": [
+    "will leave",
+    "does leave",
+    "will it leave",
+    "leaves it"
+   ],
+   "translation": "Онгоц хэзээ нисэхийг хэлж өгөхгүй юу?",
+   "explain_en": "In polite indirect questions, use normal word order: when the flight will leave.",
+   "explain_mn": "Шууд бус асуултад үгийн дараалал хэвийн байна: when the flight will leave."
+  },
+  {
+   "lang": "en",
+   "text": "The flight has been delayed ___ two hours.",
+   "answer": "by",
+   "options": [
+    "by",
+    "on",
+    "at",
+    "in"
+   ],
+   "translation": "Нислэг хоёр цагаар хойшилсон.",
+   "explain_en": "Use 'by' for the amount of a delay.",
+   "explain_mn": "Хойшлолтын хэмжээг 'by' угтвараар илэрхийлнэ."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Болд",
+   "mn": "Уучлаарай, самбар дээр Сөүл рүү явах нислэг хойшилсон гэж харагдаж байна. Үнэн үү?",
+   "en": "Excuse me, the departure board says the flight to Seoul is delayed. Is that true?",
+   "mn_latin": "Uuchlaarai, sambar deer Söül rüü yavakh nisleg khoishilson gej kharagdaj baina. Ünen üü?"
+  },
+  {
+   "speaker": "Emma",
+   "en": "Yes, I'm sorry. It has been delayed by three hours because of the weather.",
+   "mn": "Тийм ээ, уучлаарай. Цаг агаарын улмаас гурван цагаар хойшилсон.",
+   "mn_latin": "Tiim ee, uuchlaarai. Tsag agaaryn ulmaas gurvan tsagaar khoishilson."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Тэгвэл шинэ цагийг хэлж өгөөч? Хэзээ ниснэ вэ?",
+   "en": "Then could you tell me the new time? When will it take off?",
+   "mn_latin": "Tegvel shine tsagiig khelj ögööch? Khezee nisne ve?"
+  },
+  {
+   "speaker": "Emma",
+   "en": "It should depart at 9:30 p.m. from gate 14. Boarding starts at nine.",
+   "mn": "Орой 9:30-д 14 дүгээр гарцаас ниснэ. Онгоцонд суух нь есөн цагт эхэлнэ.",
+   "mn_latin": "Oroi 9:30-d 14 dügeer gartsaas nisne. Ongotsond suukh ni yesön tsagt ekhelne."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Би Сөүлд холбох нислэгтэй. Үүнийг алдчих вий гэж санаа зовж байна.",
+   "en": "I have a connecting flight in Seoul. I'm worried I'll miss it.",
+   "mn_latin": "Bi Söüld kholbokh nislegtei. Üüniig aldchikh vii gej sanaa zovj baina."
+  },
+  {
+   "speaker": "Emma",
+   "en": "I can help with rebooking. Please show me your passport.",
+   "mn": "Би билет дахин захиалахад тусалж чадна. Паспортоо үзүүлнэ үү.",
+   "mn_latin": "Bi bilyet dakhin zakhialakhad tusalj chadna. Pasportoo üzüülne üü."
+  },
+  {
+   "speaker": "Болд",
+   "mn": "Баярлалаа. Бид нөхөн олговор авах боломжтой юу?",
+   "en": "Thank you. Are we able to get compensation?",
+   "mn_latin": "Bayarlalaa. Bid nökhön olgovor avakh bolomjtoi yuu?"
+  },
+  {
+   "speaker": "Emma",
+   "en": "For delays this long, yes. I'll give you the form.",
+   "mn": "Ийм удаан хоцролтод тийм, боломжтой. Би танд маягтыг өгье.",
+   "mn_latin": "Iim udaan khotsroltod tiim, bolomjtoi. Bi tand mayagtyg ögiye."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, winter snow and spring dust storms can disrupt flights, and Chinggis Khaan International Airport near Ulaanbaatar often posts updates on its departure boards and by SMS. Staff generally appreciate a polite tone: starting with 'Уучлаарай' and using 'та' goes a long way. Rules on compensation depend on the airline and route, so it is worth asking at the desk.",
+  "mn": "Монголд өвлийн цас, хаврын шороон шуурга нислэгт нөлөөлдөг бөгөөд Чингис хаан олон улсын нисэх буудал самбар болон мессежээр мэдээлдэг. Ажилтантай ярихдаа 'Уучлаарай' гэж эхэлж, 'та' гэж хандах нь сайхан сэтгэгдэл төрүүлнэ. Нөхөн олговрын нөхцөл агаарын тээврийн компани, чиглэлээс хамаардаг тул лавлах цэгт асуух нь зүйтэй."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 14,
+  "notes": "Mostly good; fixed a Latin 'x' typo, a tense mismatch in an example, and unnatural or misleading Mongolian and explanation wording."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 10,
+  "notes": "Main problems: a wrong pronoun, a malformed verb form, two fill-ins with more than one correct option, and an inaccurate V3 explanation.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro omitted the Mongolian equivalents mentioned in en"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "en",
+    "why": "мэдэгдэх = announce; matches the primary mn"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "alt_en",
+    "why": "matches alt_mn мэдэж авах"
+   },
+   {
+    "section": "sentences",
+    "index": 11,
+    "field": "mn",
+    "why": "it is the number for contacting me, not you"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "ниснэ uses -нэ; list the vowel-harmony variants"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "V3 is the past participle, not the past tense form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "цуцлагдана (will be cancelled) also fits the sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "'ниснийг' is not a correct form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'delayed for two hours' is also correct English"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "the original wrongly meant 'the board of the flight to Seoul'"
+   }
+  ]
+ }
+}

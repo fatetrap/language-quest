@@ -1,0 +1,426 @@
+{
+ "intro_en": "You will practice giving a full debate speech: rebutting the other side, summing up your case, and closing with a strong conclusion. You will also learn to use хэдийгээр ... ч and other connectors of cause and contrast.",
+ "intro_mn": "Та маргааны бүтэн үг хэлж сурна: эсрэг талын үгийг няцааж, өөрийн байр суурийг дүгнэж, хүчтэй төгсгөл хийнэ. Мөн хэдийгээр ... ч болон шалтгаан, эсрэг утгыг холбох үгсийг ашиглана.",
+ "vocab": [
+  {
+   "mn": "няцаах",
+   "en": "to rebut, to refute",
+   "pos": "verb",
+   "example_mn": "Тэр эсрэг талын гол аргументыг няцаасан.",
+   "example_en": "She rebutted the opposing side's main argument.",
+   "mn_latin": "nyatsaakh"
+  },
+  {
+   "mn": "дүгнэх",
+   "en": "to sum up, to conclude",
+   "pos": "verb",
+   "example_mn": "Би үгээ товч дүгнэе.",
+   "example_en": "Let me briefly sum up my speech.",
+   "mn_latin": "dügnekh"
+  },
+  {
+   "mn": "нотлох баримт",
+   "en": "evidence, proof",
+   "pos": "noun",
+   "example_mn": "Танд ямар нотлох баримт байна вэ?",
+   "example_en": "What evidence do you have?",
+   "mn_latin": "notlokh barimt"
+  },
+  {
+   "mn": "зөвшилцөх",
+   "en": "to reach an agreement, to consult",
+   "pos": "verb",
+   "example_mn": "Багийнхан үгээ хэлэхээсээ өмнө зөвшилцсөн.",
+   "example_en": "The team members consulted before speaking.",
+   "mn_latin": "zövshiltsökh"
+  },
+  {
+   "mn": "эсрэг тал",
+   "en": "the opposing side",
+   "pos": "noun",
+   "example_mn": "Эсрэг тал бидний саналыг эсэргүүцэв.",
+   "example_en": "The opposing side objected to our proposal.",
+   "mn_latin": "esreg tal"
+  },
+  {
+   "mn": "шийдвэр",
+   "en": "decision, verdict",
+   "pos": "noun",
+   "example_mn": "Шүүгчид шийдвэрээ зарлалаа.",
+   "example_en": "The judges announced their decision.",
+   "mn_latin": "shiidver"
+  },
+  {
+   "mn": "санал",
+   "en": "motion, proposal",
+   "pos": "noun",
+   "example_mn": "Өнөөдрийн санал бол «Залуус гадаадад суралцах ёстой» гэсэн санал.",
+   "example_en": "Today's motion is “Young people should study abroad.”",
+   "mn_latin": "sanal"
+  },
+  {
+   "mn": "нэр хүнд",
+   "en": "reputation",
+   "pos": "noun",
+   "example_mn": "Энэ их сургууль гадаадад нэр хүндтэй.",
+   "example_en": "This university has a good reputation abroad.",
+   "mn_latin": "ner khünd"
+  },
+  {
+   "mn": "тэнцвэртэй",
+   "en": "balanced",
+   "pos": "adjective",
+   "example_mn": "Түүний үг маш тэнцвэртэй байсан.",
+   "example_en": "Her speech was very balanced.",
+   "mn_latin": "tentsvertei"
+  },
+  {
+   "mn": "эцсийн үг",
+   "en": "closing statement",
+   "pos": "noun",
+   "example_mn": "Эцсийн үгээ хэлэх хугацаа нэг минут.",
+   "example_en": "The time for the closing statement is one minute.",
+   "mn_latin": "etssiin üg"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөөдрийн санал бол залуус гадаадад суралцах ёстой гэсэн санал.",
+   "en": "Today's motion is that young people should study abroad.",
+   "alt_mn": [
+    "Өнөөдрийн санал: залуус гадаадад суралцах ёстой."
+   ],
+   "alt_en": [
+    "Today's motion is that young people ought to study abroad."
+   ],
+   "mn_latin": "Önöödriin sanal bol zaluus gadaadad suraltsakh yostoi gesen sanal."
+  },
+  {
+   "mn": "Хэдийгээр гадаадад сурах үнэтэй ч, энэ нь хөрөнгө оруулалт юм.",
+   "en": "Although studying abroad is expensive, it is an investment.",
+   "alt_mn": [
+    "Хэдийгээр гадаадад сурах үнэтэй ч гэсэн энэ нь хөрөнгө оруулалт юм."
+   ],
+   "alt_en": [
+    "Even though studying abroad is expensive, it is an investment."
+   ],
+   "mn_latin": "Khediigeer gadaadad surakh ünetei ch, ene ni khöröngö oruulalt yum."
+  },
+  {
+   "mn": "Эсрэг тал нотлох баримт гаргаж чадаагүй.",
+   "en": "The opposing side failed to provide evidence.",
+   "alt_mn": [
+    "Эсрэг тал нотлох баримт үзүүлж чадсангүй."
+   ],
+   "alt_en": [
+    "The opposing side could not produce any evidence."
+   ],
+   "mn_latin": "Esreg tal notlokh barimt gargaj chadaagüi."
+  },
+  {
+   "mn": "Би таны гол аргументыг няцаахыг хүсч байна.",
+   "en": "I would like to rebut your main argument.",
+   "alt_mn": [
+    "Би таны гол аргументыг няцаамаар байна."
+   ],
+   "alt_en": [
+    "I want to refute your main argument."
+   ],
+   "mn_latin": "Bi tany gol argumyentyg nyatsaakhyg khüsch baina."
+  },
+  {
+   "mn": "Тиймээс залуус гадаад ертөнцийг өөрийн нүдээр харах хэрэгтэй.",
+   "en": "Therefore, young people need to see the world with their own eyes.",
+   "alt_mn": [],
+   "alt_en": [
+    "That is why young people need to see the world for themselves."
+   ],
+   "mn_latin": "Tiimees zaluus gadaad yertöntsiig ööriin nüdeer kharakh kheregtei."
+  },
+  {
+   "mn": "Хэдийгээр тэд эх орноосоо хол байсан ч, олон залуу буцаж ирдэг.",
+   "en": "Even though they have lived far from their homeland, many young people come back.",
+   "alt_mn": [],
+   "alt_en": [
+    "Although they have been far from home, many young people return."
+   ],
+   "mn_latin": "Khediigeer ted ekh ornoosoo khol baisan ch, olon zaluu butsaj irdeg."
+  },
+  {
+   "mn": "Гэсэн ч гэр бүлээс хол амьдрах нь амар биш гэдгийг би зөвшөөрч байна.",
+   "en": "That said, I agree that living far from family is not easy.",
+   "alt_mn": [
+    "Гэхдээ гэр бүлээс хол амьдрах нь амар биш гэдгийг би зөвшөөрнө."
+   ],
+   "alt_en": [
+    "That said, I admit that living far from your family is not easy."
+   ],
+   "mn_latin": "Gesen ch ger bülees khol amidrakh ni amar bish gedgiig bi zövshöörch baina."
+  },
+  {
+   "mn": "Би гадаадад суралцах нь эх орондоо ч ашигтай гэж үздэг.",
+   "en": "I believe that studying abroad is also useful for one's own country.",
+   "alt_mn": [
+    "Гадаадад суралцах нь эх орондоо ч ашигтай гэж би үзэж байна."
+   ],
+   "alt_en": [
+    "I would argue that studying abroad benefits one's homeland too."
+   ],
+   "mn_latin": "Bi gadaadad suraltsakh ni ekh orondoo ch ashigtai gej üzdeg."
+  },
+  {
+   "mn": "Бүх зүйлийг тооцвол, давуу тал нь сул талаасаа илүү юм.",
+   "en": "All things considered, the advantages outweigh the disadvantages.",
+   "alt_mn": [
+    "Бүгдийг тооцож үзвэл давуу тал нь сул талаасаа илүү."
+   ],
+   "alt_en": [
+    "All things considered, the benefits outweigh the drawbacks."
+   ],
+   "mn_latin": "Bükh züiliig tootsvol, davuu tal ni sul talaasaa ilüü yum."
+  },
+  {
+   "mn": "Дүгнэж хэлэхэд, гадаадад суралцах нь залуусыг илүү бие даасан болгодог.",
+   "en": "In conclusion, studying abroad makes young people more independent.",
+   "alt_mn": [
+    "Төгсгөлд нь хэлэхэд, гадаадад суралцах нь залуусыг илүү бие даасан болгодог."
+   ],
+   "alt_en": [
+    "To sum up, studying abroad makes young people more independent."
+   ],
+   "mn_latin": "Dügnej khelekhed, gadaadad suraltsakh ni zaluusyg ilüü biye daasan bolgodog."
+  },
+  {
+   "mn": "Шүүгчид зөвшилцсөний дараа шийдвэрээ зарлав.",
+   "en": "After consulting, the judges announced their decision.",
+   "alt_mn": [
+    "Шүүгчид зөвшилцөөд шийдвэрээ зарлав."
+   ],
+   "alt_en": [
+    "The judges announced their decision after conferring."
+   ],
+   "mn_latin": "Shüügchid zövshiltssönii daraa shiidveree zarlav."
+  },
+  {
+   "mn": "Бидний нотлох баримт тодорхой байсан тул бид ялсан.",
+   "en": "Because our evidence was clear, we won.",
+   "alt_mn": [
+    "Бидний нотлох баримт тодорхой байсан учраас бид ялсан."
+   ],
+   "alt_en": [
+    "We won because our evidence was clear."
+   ],
+   "mn_latin": "Bidnii notlokh barimt todorkhoi baisan tul bid yalsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Concession with хэдийгээр ... ч",
+  "title_mn": "Хэдийгээр ... ч ба англи хэлний эсрэг утгын холбоос (although, even though, that said)",
+  "explain_en": "To say “although”, Mongolian uses хэдийгээр at the start and the particle ч after the verb or predicate of the first clause: Хэдийгээр хэцүү ч, би оролдсон. You can add гэсэн ч / гэхдээ (“that said, however”) to start a new sentence. For cause, use тул, учраас or учир: Нотлох баримт тод байсан тул ялсан. Note that хэдийгээр and ч work as a pair; the second clause then states the contrasting result.",
+  "explain_mn": "Англи хэлэнд “хэдийгээр ... ч” гэсэн утгыг although, even though гэж илэрхийлнэ: Although it is expensive, it is worth it. Although-ийн дараа “but” хэрэглэхгүй. Шинэ өгүүлбэрийг эсрэг утгаар эхлэхэд That said, However, Even so гэж хэлнэ. Шалтгааныг because, since, so, therefore гэж холбоно: Our evidence was clear, so we won. Дүгнэхдээ In conclusion, All things considered, I would argue that гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "Хэдийгээр тэр залуу ч, туршлагатай.",
+    "en": "Although he is young, he is experienced.",
+    "mn_latin": "Khediigeer ter zaluu ch, turshlagatai."
+   },
+   {
+    "mn": "Хэдийгээр хэцүү байсан ч бид хичээсэн.",
+    "en": "Although it was hard, we tried.",
+    "mn_latin": "Khediigeer khetsüü baisan ch bid khicheesen."
+   },
+   {
+    "mn": "Гэсэн ч энэ санал бүрэн зөв биш.",
+    "en": "That said, this proposal is not entirely right.",
+    "mn_latin": "Gesen ch ene sanal büren zöv bish."
+   },
+   {
+    "mn": "Тэр сайн бэлтгэсэн тул ялсан.",
+    "en": "He won because he had prepared well.",
+    "mn_latin": "Ter sain beltgesen tul yalsan."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хэдийгээр бороо орсон ___, тэмцээн болсон.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "тул",
+    "бол",
+    "руу"
+   ],
+   "translation": "Although it rained, the competition took place.",
+   "explain_en": "Хэдийгээр is paired with ч after the first clause to mean “although”.",
+   "explain_mn": "Хэдийгээр нь эхний өгүүлбэрийн төгсгөлд ч-тэй хосолж “although” гэсэн утга өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Нотлох баримт сайн байсан ___ бид ялсан.",
+   "answer": "тул",
+   "options": [
+    "тул",
+    "ч",
+    "гэхдээ",
+    "хэдий"
+   ],
+   "translation": "We won because the evidence was good.",
+   "explain_en": "Тул means “because” and links a cause to its result.",
+   "explain_mn": "Тул нь шалтгааныг үр дүнтэй холбож “because” гэсэн утга илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Би эсрэг талын аргументыг ___ хүсч байна.",
+   "answer": "няцаахыг",
+   "options": [
+    "няцаахыг",
+    "дүгнэхийг",
+    "зөвшилцөхийг",
+    "нотлохыг"
+   ],
+   "translation": "I want to rebut the opposing side's argument.",
+   "explain_en": "Няцаах means “to rebut”; it takes the accusative ending -ыг after хүсэх.",
+   "explain_mn": "Няцаах нь “rebut” гэсэн утгатай бөгөөд хүсэх үйлтэй -ыг ялгах тийн ялгалаар хэрэглэгдэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "___ it is expensive, studying abroad is a good investment.",
+   "answer": "Although",
+   "options": [
+    "Although",
+    "Because",
+    "Therefore",
+    "So"
+   ],
+   "translation": "Хэдийгээр үнэтэй ч, гадаадад суралцах нь сайн хөрөнгө оруулалт.",
+   "explain_en": "Although introduces a concession; the result clause has no “but”.",
+   "explain_mn": "Although нь хэдийгээр гэсэн утгатай; үр дүнгийн өгүүлбэрт but хэрэглэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "___, I would argue that young people benefit from living abroad.",
+   "answer": "That said",
+   "options": [
+    "That said",
+    "Because",
+    "In conclusion of",
+    "Since of"
+   ],
+   "translation": "Гэсэн ч залуус гадаадад амьдрахаас ашиг хүртдэг гэж би маргана.",
+   "explain_en": "That said marks a contrast with what was just conceded.",
+   "explain_mn": "That said нь өмнө хүлээн зөвшөөрсөн зүйлтэй эсрэг утга оруулдаг."
+  },
+  {
+   "lang": "en",
+   "text": "___, the advantages outweigh the disadvantages.",
+   "answer": "All things considered",
+   "options": [
+    "All things considered",
+    "On the contrary of",
+    "Despite of",
+    "Because"
+   ],
+   "translation": "Бүгдийг тооцвол давуу тал нь сул талаасаа илүү.",
+   "explain_en": "All things considered is a closing marker that introduces your final judgment.",
+   "explain_mn": "All things considered нь эцсийн дүгнэлтийг оруулдаг төгсгөлийн үг юм."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сараа",
+   "mn": "Эсрэг талынхан аа, та нар гадаадад суралцах үнэтэй гэж хэллээ.",
+   "en": "Members of the opposing side, you said studying abroad is expensive.",
+   "mn_latin": "Esreg talynkhan aa, ta nar gadaadad suraltsakh ünetei gej khellee."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тийм, мөн олон оюутан буцаж ирдэггүй.",
+   "en": "Yes, and many students never come back.",
+   "mn_latin": "Tiim, mön olon oyuutan butsaj irdeggüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Хэдийгээр зарим нь үлддэг ч, судалгаагаар ихэнх нь эх орондоо буцдаг.",
+   "en": "Although some stay, research shows most return to their homeland.",
+   "mn_latin": "Khediigeer zarim ni ülddeg ch, sudalgaagaar ikhenkh ni ekh orondoo butsdag."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Та ямар нотлох баримт ашиглаж байна вэ?",
+   "en": "What evidence are you using?",
+   "mn_latin": "Ta yamar notlokh barimt ashiglaj baina ve?"
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Манай их сургуулийн төгсөгчдийн судалгаа байна.",
+   "en": "We have a survey of our university's graduates.",
+   "mn_latin": "Manai ikh surguuliin tögsögchdiin sudalgaa baina."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Гэсэн ч нэг судалгаа бүх зүйлийг нотлохгүй.",
+   "en": "That said, one survey doesn't prove everything.",
+   "mn_latin": "Gesen ch neg sudalgaa bükh züiliig notlokhgüi."
+  },
+  {
+   "speaker": "Сараа",
+   "mn": "Зөв, гэхдээ бүгдийг тооцвол давуу тал нь илүү гэж би маргана.",
+   "en": "True, but all things considered, I would argue the advantages are greater.",
+   "mn_latin": "Zöv, gekhdee bügdiig tootsvol davuu tal ni ilüü gej bi margana."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Шүүгчид зөвшилцөөд шийдвэрээ гаргах байх.",
+   "en": "The judges will probably confer and make their decision.",
+   "mn_latin": "Shüügchid zövshiltsööd shiidveree gargakh baikh."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian students dream of studying in places like South Korea, Japan, Germany, the US, or the UK, often with government or foreign scholarships. Debating this topic is popular in Mongolian schools, because families weigh the cost and the risk of “brain drain” against the chance of better education. School debate clubs often use formats close to international ones, with rebuttal and closing speeches.",
+  "mn": "Монголын олон оюутан Солонгос, Япон, Герман, АНУ, Их Британи зэрэг оронд, ихэвчлэн засгийн газрын эсвэл гадаадын тэтгэлгээр суралцахыг мөрөөддөг. Гэр бүлүүд зардал, “оюуны гадагшлал”-ын эрсдэлийг илүү сайн боловсролын боломжтой харьцуулдаг тул энэ сэдвээр маргах нь сургуулиудад түгээмэл. Сургуулийн маргааны клубууд олон улсын форматтай ойролцоо, няцаалт болон эцсийн үгтэй дүрмээр өрсөлддөг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 10,
+  "notes": "Mostly good content; a few ungrammatical Mongolian forms, one mistranslated pair (үздэг), and a grammar example missing a verb."
+ },
+ "opus_fix": {
+  "rating_before": 8,
+  "fixes": 5,
+  "notes": "A mostly solid lesson; the fixes cover one tense mismatch in a translation pair, a bookish word in a grammar example, a dated form of address in the dialogue, and a nonstandard term for 'brain drain'.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "en",
+    "why": "Mongolian байсан is past ('have been away'). English 'are far' did not match it."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "alt_en",
+    "why": "Tense now matches the Mongolian."
+   },
+   {
+    "section": "grammar.examples",
+    "index": 1,
+    "field": "mn",
+    "why": "бэрх is bookish. хэцүү is the everyday word and the one used in the explanation."
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "нөхөд ээ sounds dated ('comrades'). Эсрэг талынхан аа is the natural form of address in a modern debate."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'Brain drain' is standardly оюуны гадагшлал, not тархины дүрвэлт."
+   }
+  ]
+ }
+}

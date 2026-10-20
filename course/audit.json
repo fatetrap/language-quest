@@ -1,0 +1,898 @@
+[
+ {
+  "id": "u04l3",
+  "level": "A1",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "grammar, explain_en",
+    "text": "For a noun add -д/-т: багш → багшид.",
+    "fix": "For a noun add -д/-т (after some consonants a linking vowel is added, e.g. -ид): багш → багшид, ах → ахад.",
+    "severity": "minor",
+    "why": "The example ending is -ид, not -д/-т, so the rule as stated does not match the example."
+   },
+   {
+    "where": "fill_blank 0, explain_mn",
+    "text": "Шууд утгаараа \"надад ах байна\".",
+    "fix": "Шууд утгаараа \"надад ах оршин байна\" гэсэн утгатай; англиар \"I have a brother\" гэж хэлнэ.",
+    "severity": "minor",
+    "why": "The 'literal meaning' just repeats the sentence. It does not match the en explanation 'at me there is a brother'."
+   },
+   {
+    "where": "sentences 8 / grammar",
+    "text": "Миний ах хоёр хүүхэдтэй.",
+    "fix": "Add a note to the grammar: 'You can also use -тэй/-той/-тэй (with): Миний ах хоёр хүүхэдтэй = My brother has two children.'",
+    "severity": "minor",
+    "why": "The main answer uses the comitative -тэй construction, which the lesson never introduces. A1 learners can't build it."
+   },
+   {
+    "where": "dialogue, speaker labels",
+    "text": "Tom",
+    "fix": "Том",
+    "severity": "minor",
+    "why": "Speaker names are inconsistent: Сараа is in Cyrillic, but Tom is in Latin, and the Mongolian line spells his name Том."
+   }
+  ],
+  "summary": "Solid A1 lesson with correct core grammar; remaining issues are small explanation gaps and a speaker-label inconsistency."
+ },
+ {
+  "id": "u08l2",
+  "level": "A1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "dialogue, line 1 (Болд)",
+    "text": "Таны шинэ байранд юу байна вэ?",
+    "fix": "Танай шинэ байранд юу байна вэ?",
+    "severity": "minor",
+    "why": "For someone's home or household, the natural possessive is танай, not таны. This also matches 'Танай гэрт' used elsewhere in the lesson."
+   }
+  ],
+  "summary": "The lesson is accurate and consistent. The only remaining issue is таны → танай for 'your apartment' in the dialogue."
+ },
+ {
+  "id": "u16l4",
+  "level": "A2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "sentences[2] alt_mn",
+    "text": "Тэр хүн залуу.",
+    "fix": "remove this alternative (or keep only 'Тэр залуу.')",
+    "severity": "minor",
+    "why": "Here тэр works as a demonstrative, so the sentence means 'That person is young.' It does not mean 'He is a young man,' so the pair no longer matches."
+   },
+   {
+    "where": "dialogue[6] mn",
+    "text": "Эгч намхан, урт үстэй.",
+    "fix": "Манай эгч намхан, урт үстэй.",
+    "severity": "minor",
+    "why": "Without манай or маань, a bare эгч sounds like Sara is addressing or naming a generic older sister. The English line says 'My sister,' and the possessive is the natural form here."
+   },
+   {
+    "where": "grammar explain_mn",
+    "text": "Харин has-ийн дараа \"a\" хэрэглэхгүй, зүгээр л adjective + hair/eyes гэж хэлнэ",
+    "fix": "Харин hair, eyes гэх мэт үгийн өмнө \"a\" хэрэглэхгүй: long hair, blue eyes (харин a big nose, a beard гэж хэлнэ).",
+    "severity": "minor",
+    "why": "The explanation implies you never use 'a' after has. Singular countable features still take it: 'She has a big nose,' 'He has a beard.' Only uncountable hair and plural eyes drop the article."
+   }
+  ],
+  "summary": "The lesson is solid. A few small problems remain: one mismatched Mongolian alternative, a missing possessive in the dialogue, and an overgeneralized article rule in the Mongolian grammar note."
+ },
+ {
+  "id": "u18l4",
+  "level": "A2",
+  "rating": 7,
+  "mistakes": [
+   {
+    "where": "culture_note.mn",
+    "text": "Зочид ул боов болон бусад хоолноос бага ч гэсэн амсдаг ёстой.",
+    "fix": "Зочид ул боов болон бусад хоолноос бага ч гэсэн амсах ёстой.",
+    "severity": "minor",
+    "why": "'ёстой' takes the -х form. '-даг ёстой' is ungrammatical."
+   },
+   {
+    "where": "culture_note.mn",
+    "text": "Дээр нь ааруул, чихэр, самар зэргийг чимэглэнэ.",
+    "fix": "Дээр нь ааруул, чихэр, самар зэргээр чимэглэнэ.",
+    "severity": "minor",
+    "why": "With чимэглэх, the decorating items take the instrumental case (-ээр). The accusative here is unnatural."
+   },
+   {
+    "where": "sentences[4], sentences[5], dialogue[2]",
+    "text": "Хоёрдугаар давхарт ааруул байна. / Гуравдугаар давхарт чихэр байна. / Нэгдүгээр давхарт боов, хоёрдугаар давхарт ааруул байна.",
+    "fix": "Ул боов is stacked layers of boov, with ааруул and чихэр placed on top. Rephrase, e.g. 'Ул боовны дээр ааруул, чихэр байна.' Or keep the ordinals for the boov layers only.",
+    "severity": "minor",
+    "why": "These lines present dried curd and candy as separate layers. That contradicts the culture note and how ul boov is actually built."
+   },
+   {
+    "where": "dialogue[6]",
+    "text": "Ууц ч амттай шүү, аавтайгаа хамт зүсье. / let's slice it together with my father.",
+    "fix": "Ууц ч амттай шүү. Би аавтайгаа хамт зүсье. / The uuts is tasty too; I'll slice it together with my father.",
+    "severity": "minor",
+    "why": "'аавтайгаа' refers to the subject's father. The English 'let's' makes it unclear whose father is meant and who is slicing."
+   },
+   {
+    "where": "dialogue[5].mn",
+    "text": "Надад сүүтэй цай ч өгөөч.",
+    "fix": "Надад бас сүүтэй цай өгөөч.",
+    "severity": "minor",
+    "why": "'бас' is the natural way to say 'also' in this request. 'ч' sounds awkward here."
+   }
+  ],
+  "summary": "Mostly correct and natural. The remaining issues are a grammar slip in the Mongolian culture note, a case error with чимэглэх, a culturally inaccurate description of ul boov layers, and a slightly mismatched dialogue line."
+ },
+ {
+  "id": "u24l3",
+  "level": "A2",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "sentences, item 5 (mn)",
+    "text": "Манай эгч говь цөлд цас харж үзээгүй.",
+    "fix": "Манай эгч Говь цөлд цас харж үзээгүй.",
+    "severity": "minor",
+    "why": "Here Говь is the proper name of the Gobi, so it should be capitalized, as the dialogue does with Говьд."
+   },
+   {
+    "where": "culture_note (mn)",
+    "text": "Улаанбаатарынхан ч тэмээ унаж үзээгүй хүн цөөнгүй",
+    "fix": "Улаанбаатарынхны дунд ч тэмээ унаж үзээгүй хүн цөөнгүй",
+    "severity": "minor",
+    "why": "The construction is awkward without 'дунд' ('among'). 'Among Ulaanbaatar residents, many have never ridden a camel' needs the genitive + дунд."
+   }
+  ],
+  "summary": "A clean lesson with correct -ж үзээгүй and present perfect teaching; only two small Mongolian wording and capitalization issues remain."
+ },
+ {
+  "id": "u30l3",
+  "level": "B1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "fill_blank 4 (en), options",
+    "text": "options: will, did, are, have",
+    "fix": "options: will, was, are, have",
+    "severity": "minor",
+    "why": "'The café that we did go to is near the station' is grammatical as emphatic past. That makes 'did' a second acceptable answer. Replace it with a clearly wrong option."
+   }
+  ],
+  "summary": "Solid lesson with natural Mongolian and English. Only one fill-blank has a distractor that also works."
+ },
+ {
+  "id": "u38l5",
+  "level": "B2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "fill_blank 2 (options)",
+    "text": "Би тэр саналтай ___ санал нийлэхгүй. — options: огт, ялангуяа, үнэхээр, яг",
+    "fix": "Replace 'үнэхээр' with 'зөвхөн': options огт, ялангуяа, зөвхөн, яг",
+    "severity": "major",
+    "why": "'Би тэр саналтай үнэхээр санал нийлэхгүй' ('I really don't agree') is fully natural and grammatical, so the answer is not unique."
+   }
+  ],
+  "summary": "A solid, mostly natural lesson. The only remaining real problem is a fill-in-the-blank where 'үнэхээр' also fits, so the answer is not unique."
+ },
+ {
+  "id": "u41l1",
+  "level": "B2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "dialogue, line 5 (Сарнай)",
+    "text": "Эмч өнөөдөр намайг хүлээж авах уу?",
+    "fix": "Эмч өнөөдөр намайг үзэх үү?",
+    "severity": "minor",
+    "why": "For a doctor seeing a patient, people say 'үзэх' or the set phrase 'хүлээн авах'. 'Хүлээж авах' sounds like receiving a thing."
+   },
+   {
+    "where": "fill_blank, item 5 (translation)",
+    "text": "Зүрхний тасаг хаана байдгийг надад хэлж өгөөч?",
+    "fix": "Зүрхний тасаг хаана байдгийг надад хэлж өгөөч.",
+    "severity": "minor",
+    "why": "-өөч is a request form, so it ends with a period. The lesson already applied this fix in sentence 12 but missed it here."
+   },
+   {
+    "where": "sentences, item 10 (en)",
+    "text": "He might be taking a test right now.",
+    "fix": "He might be having a test right now.",
+    "severity": "minor",
+    "why": "'Шинжилгээ өгөх' means a medical test or giving a sample. 'Taking a test' suggests an exam."
+   },
+   {
+    "where": "dialogue, line 8 (Бүртгэлийн ажилтан)",
+    "text": "Магадгүй, эмч шийднэ. Хариу нь маргааш гарна.",
+    "fix": "Магадгүй, эмч шийднэ. Шинжилгээ өгвөл хариу нь маргааш гарна.",
+    "severity": "minor",
+    "why": "The receptionist says the results will be ready tomorrow right after saying the doctor hasn't decided on tests yet. Add a condition so it makes sense. The matching English: 'If you have tests, the results will be ready tomorrow.'"
+   }
+  ],
+  "summary": "A solid lesson with a few small naturalness and consistency issues: the verb for a doctor seeing a patient, one request punctuation mark, 'taking a test', and a gap in the dialogue's logic."
+ },
+ {
+  "id": "u51l4",
+  "level": "B2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "fill_blank 0",
+    "text": "options: [\"өгөөч\", \"уулаач\", \"байсан\", \"авсан\"]",
+    "fix": "options: [\"өгөөч\", \"уулаач\", \"орхисон\", \"чадна\"]",
+    "severity": "minor",
+    "why": "'сольж байсан' (you were changing our lock) and 'сольж авсан' (you changed it for yourself) are still grammatical in this frame. Only the translation rules them out, so the blank is not unique. 'уулаач' is not a real word, while the explanations elsewhere claim the distractors are real forms. 'сольж орхисон' and 'сольж чадна' are real, grammatical forms that still do not fit the 'please... for us' meaning."
+   },
+   {
+    "where": "fill_blank 1",
+    "text": "options: [\"засуулах\", \"засаж өгөх\", \"засагдах\", \"засах\"]",
+    "fix": "options: [\"засуулах\", \"засаж өгөх\", \"засагдах\", \"засуулж\"]",
+    "severity": "minor",
+    "why": "'Бид халаагуураа засах хэрэгтэй' (we need to fix it ourselves) is fully grammatical. Only the English translation tells the learner to choose the causative."
+   },
+   {
+    "where": "sentences 3",
+    "text": "Бид цахилгаанчин дуудаж утсаа шинэчлүүлсэн.",
+    "fix": "Бид цахилгаанчин дуудаж цахилгааны утсаа шинэчлүүлсэн.",
+    "severity": "minor",
+    "why": "'утсаа' on its own most naturally reads as 'our phone'. 'цахилгааны утас' makes clear it means the wiring. The same applies to the alt_mn."
+   },
+   {
+    "where": "sentences 4",
+    "text": "Цоожийг хэзээ солиод өгөх вэ?",
+    "fix": "Цоожийг хэзээ сольж өгөх вэ?",
+    "severity": "minor",
+    "why": "'-аад өгөх' here is colloquial. The lesson teaches -ж өгөх, so the standard form should be the main sentence and the colloquial one the alternative."
+   },
+   {
+    "where": "intro_mn",
+    "text": "-уулах (эзэн зохион байгуулах зүйл)-ийн ялгааг",
+    "fix": "-уулах (та өөр хүнээр хийлгэх зүйл) хоёрын ялгааг",
+    "severity": "minor",
+    "why": "The parenthesis followed by the case ending is awkward. Also, 'эзэн' does not match the English 'what you arrange'."
+   }
+  ],
+  "summary": "Solid, mostly natural lesson; remaining issues are minor fill-blank ambiguities and a few wording points."
+ },
+ {
+  "id": "u54l1",
+  "level": "C1",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "vocab[3].example_mn",
+    "text": "Ажил хэт их болоод би дийлэхгүй ачаалалтай санагдлаа.",
+    "fix": "Ажил хэт их болоод надад дийлэхгүй ачаалалтай санагдлаа.",
+    "severity": "minor",
+    "why": "The verb санагдах ('to seem, to be felt') takes the experiencer in the dative (надад), not the nominative би. 'Би … санагдлаа' is a calque of English 'I felt'."
+   },
+   {
+    "where": "sentences[1].mn",
+    "text": "Би ажлаасаа болоод дийлэхгүй ачаалалтай санагдаж байна.",
+    "fix": "Ажлаасаа болоод надад дийлэхгүй ачаалалтай санагдаж байна.",
+    "severity": "minor",
+    "why": "Same problem: санагдах needs a dative experiencer (надад), not 'би'."
+   },
+   {
+    "where": "dialogue[1].mn",
+    "text": "Ажил хэт их болоод би дийлэхгүй ачаалалтай санагдсан.",
+    "fix": "Ажил хэт их болоод надад дийлэхгүй ачаалалтай санагдсан.",
+    "severity": "minor",
+    "why": "Same nominative/dative problem with санагдах."
+   },
+   {
+    "where": "fill_blank[5].options",
+    "text": "\"totally\"",
+    "fix": "\"completely\"",
+    "severity": "minor",
+    "why": "'Totally worried' is common in casual English, so the blank does not have a single clearly correct answer. 'Completely worried' is clearly odd."
+   }
+  ],
+  "summary": "Mostly accurate. The remaining issues are a nominative 'би' used with санагдах in three places and one fill-in-the-blank distractor that is arguably acceptable."
+ },
+ {
+  "id": "u57l6",
+  "level": "B2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "fill_blank[0].explain_mn",
+    "text": "Бүртгүүлэх нь үгийн эгшиг (ү, э) зөөлөн тул -хээс.",
+    "fix": "Бүртгүүлэх үйл үг эм эгшигтэй (ү, э) тул -хээс.",
+    "severity": "minor",
+    "why": "The sentence structure is garbled ('X нь үгийн эгшиг ... зөөлөн'). The standard term is эм эгшиг."
+   },
+   {
+    "where": "vocab[3].example_mn",
+    "text": "Хүүгийн сургууль манай гэрээс ойрхон.",
+    "fix": "Хүүгийн минь сургууль манай гэрээс ойрхон.",
+    "severity": "minor",
+    "why": "Bare 'хүүгийн' does not clearly mean 'my son's'. A possessive particle is needed to match the English."
+   }
+  ],
+  "summary": "The lesson is solid after the first edit. Only small issues remain: one garbled Mongolian explanation and one vague possessive in a vocab example."
+ },
+ {
+  "id": "u64l1",
+  "level": "C1",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "sentences[7] en",
+    "text": "Energy dependence on Russia is considerable.",
+    "fix": "Mongolia depends heavily on Russia for energy.",
+    "severity": "minor",
+    "why": "The Mongolian now has Монгол Улс as its subject and a predicate meaning 'depends heavily'. The main English line no longer matches it. The alt_en does."
+   },
+   {
+    "where": "intro_mn",
+    "text": "«-ын оронд» хойт үг",
+    "fix": "«-ын оронд» дагавар үг",
+    "severity": "minor",
+    "why": "The usual school-grammar term for a postposition is «дагавар үг». «хойт үг» is non-standard, and «хойт» is itself a misspelling of «хойд»."
+   },
+   {
+    "where": "intro_en",
+    "text": "the postposition -ын оронд ('instead of')",
+    "fix": "the postposition оронд with the genitive (-ын оронд, 'instead of')",
+    "severity": "minor",
+    "why": "-ын is the genitive ending, not part of the postposition. The grammar section itself correctly calls оронд the postposition."
+   },
+   {
+    "where": "grammar.examples[0] mn_latin",
+    "text": "khoyoulang",
+    "fix": "khoyulang",
+    "severity": "minor",
+    "why": "Inconsistent romanization of хоёуланг."
+   }
+  ],
+  "summary": "A solid lesson after the first edit. One English line doesn't match its Mongolian sentence, and there are small terminology and transliteration slips."
+ },
+ {
+  "id": "u73l3",
+  "level": "B2",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "fill_blank 3, options",
+    "text": "\"-ing\"",
+    "fix": "\"in\"",
+    "severity": "minor",
+    "why": "\"-ing\" is a suffix, not a word that can fill the blank before \"open\". It is a confusing distractor. Use a real word such as \"in\" or \"of\"."
+   }
+  ],
+  "summary": "A clean, accurate B2 lesson: natural Mongolian, matching translations and correct grammar notes, with one confusing distractor option."
+ },
+ {
+  "id": "u78l6",
+  "level": "C1",
+  "rating": 7,
+  "mistakes": [
+   {
+    "where": "sentences[10] mn",
+    "text": "Ямаа, хонины харьцаа нэгийн гурав болж өөрчлөгдсөн.",
+    "fix": "Ямаа, хонины харьцаа нэг гурвын харьцаатай болж өөрчлөгдсөн. (or: ... 1:3 болж өөрчлөгдсөн.)",
+    "severity": "major",
+    "why": "'нэгийн гурав' is not how a 1:3 ratio is read in Mongolian. It is read 'нэг гурвын харьцаа' (1:3), and 'нэгийн гурав' sounds like a garbled fraction."
+   },
+   {
+    "where": "fill_blank[5] translation",
+    "text": "Ямаа, хонины харьцаа нэгийн гурав байна.",
+    "fix": "Ямаа, хонины харьцаа нэг гурвын харьцаатай байна.",
+    "severity": "major",
+    "why": "Same incorrect reading of the ratio."
+   },
+   {
+    "where": "sentences[9] mn",
+    "text": "Хоёр сум тутмын нэгээс илүүд бэлчээрийн даац хэтэрсэн байна.",
+    "fix": "Сумдын талаас илүүд бэлчээрийн даац хэтэрсэн байна.",
+    "severity": "major",
+    "why": "'Хоёр сум тутмын нэгээс илүүд' is unnatural and calqued from English. Mongolian says 'талаас илүү' (more than half)."
+   },
+   {
+    "where": "fill_blank[2] options",
+    "text": "options include 'хэмжээнд'",
+    "fix": "replace 'хэмжээнд' with e.g. 'хэмжээтэй'",
+    "severity": "major",
+    "why": "'таван хувийн хэмжээнд өссөн' is also common in Mongolian reports, so the blank has more than one correct answer."
+   },
+   {
+    "where": "dialogue[1] mn",
+    "text": "Бид таван аймгийн өрх тус бүрийг нэг нэгээр нь судалсан.",
+    "fix": "Бид таван аймгийн өрхүүдийг нэг нэгээр нь судалсан.",
+    "severity": "minor",
+    "why": "Using тус бүр together with нэг нэгээр is redundant. The same redundancy was already removed from the grammar example."
+   },
+   {
+    "where": "sentences[3] mn",
+    "text": "Бид хоёр зуун малчнаас нэг нэгээр нь ярилцлага авсан.",
+    "fix": "Бид 200 малчнаас нэг нэгээр нь ярилцлага авсан.",
+    "severity": "minor",
+    "why": "'Бид хоёр' can be read as 'the two of us', so the sentence is ambiguous. Writing the figure as a numeral avoids this."
+   },
+   {
+    "where": "culture_note mn",
+    "text": "тоог өрх, мал, хувиар нарийвчлан",
+    "fix": "тоог өрх тутамд, мал тутамд эсвэл хувиар нарийвчлан",
+    "severity": "minor",
+    "why": "'Per household, per animal' is lost. 'өрх, мал' alone does not mean 'per'."
+   },
+   {
+    "where": "vocab[4] example_en",
+    "text": "The income indicator has risen since last year.",
+    "fix": "The income indicator has risen compared to last year.",
+    "severity": "minor",
+    "why": "'өнгөрсөн жилээс' here means 'compared to last year', not 'since'."
+   }
+  ],
+  "summary": "Mostly solid C1 content, but the 1:3 ratio is read wrongly in two places, the 'one in every two districts' sentence is calqued, and one fill-in-the-blank has two correct answers."
+ },
+ {
+  "id": "u80l6",
+  "level": "C1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "sentences[10].alt_mn",
+    "text": "Энэ жишээ сул байна, илүү тодыг нь сонгоорой.",
+    "fix": "Энэ жишээ сул байна, илүү тод жишээ сонгоорой.",
+    "severity": "minor",
+    "why": "'тодыг нь' sounds like choosing the more vivid one from a set already mentioned. That doesn't fit here, because the sentence asks the writer to choose a new, more vivid example."
+   }
+  ],
+  "summary": "The lesson is accurate and natural in both languages. Only one slightly awkward alternative Mongolian phrasing remains."
+ },
+ {
+  "id": "u88l3",
+  "level": "C1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "vocab, эдгэрэх example_mn",
+    "text": "Тэр хоёр долоо хоногийн дотор эдгэрсэн.",
+    "fix": "Тэр эмэгтэй хоёр долоо хоногийн дотор эдгэрсэн.",
+    "severity": "minor",
+    "why": "'Тэр хоёр' is easily read as 'those two (people)', so the sentence can mean 'The two of them recovered within a week'. That doesn't match 'She recovered within two weeks.'"
+   },
+   {
+    "where": "culture_note, en vs mn",
+    "text": "they take care not to wash or throw anything into the spring itself",
+    "fix": "they take care not to wash things in the spring or throw trash into it",
+    "severity": "minor",
+    "why": "The Mongolian text says 'юм угаах, хог хаяхаас' (washing things, throwing trash), so the English should say the same."
+   }
+  ],
+  "summary": "A well-edited lesson. Only a small ambiguity in one vocab example and a slight en/mn mismatch in the culture note remain."
+ },
+ {
+  "id": "u92l3",
+  "level": "B2",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "dialogue, index 4 (Тэмүүлэн), mn",
+    "text": "Чамайг гүйх дуртай гэдгийг мэдэж байсан болохоор л...",
+    "fix": "Чи гүйх дуртай гэдгийг мэдэж байсан болохоор л...",
+    "severity": "minor",
+    "why": "Inside a гэдэг clause the subject is normally in the nominative (чи). The accusative 'чамайг' next to 'гэдгийг' sounds clumsy."
+   }
+  ],
+  "summary": "Accurate, natural lesson with correct such/so and ёстой explanations; only one slightly awkward embedded clause in the dialogue."
+ },
+ {
+  "id": "u101l5",
+  "level": "C1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "culture_note.mn",
+    "text": "Эрт үед хүмүүс түүнийг нар, сараа буцааж гаргуулахын тулд тогоо сав тогшиж",
+    "fix": "Эрт үед хүмүүс түүнд нар, сарыг буцааж гаргуулахын тулд тогоо сав тогшиж",
+    "severity": "minor",
+    "why": "With the causative гаргуулах, the one made to act (the monster) takes the dative түүнд, not the accusative түүнийг. Also, сараа (reflexive possessive) is odd here because the sun and moon are not the people's own."
+   }
+  ],
+  "summary": "A clean, well-edited lesson. The only remaining issue is a small case-government slip in the Mongolian culture note."
+ },
+ {
+  "id": "u103l3",
+  "level": "C1",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "dialogue, index 1 (vs. vocab хатах example)",
+    "text": "Модноос эхэлбэл бараг жил болно. / If you count from the wood, almost a year.",
+    "fix": "Модноос эхэлбэл жил гаруй болно. / If you count from the wood, more than a year.",
+    "severity": "minor",
+    "why": "The vocab example says the wood must dry for a whole year. The whole process from the wood cannot then take less than a year."
+   },
+   {
+    "where": "sentences, index 4",
+    "text": "the saddle seat becomes much sturdier",
+    "fix": "the saddle seat becomes sturdier",
+    "severity": "minor",
+    "why": "илүү means 'more', not 'much more'. The English overstates the Mongolian."
+   },
+   {
+    "where": "fill_blank, index 0, options",
+    "text": "сийлэхээр",
+    "fix": "сийлэгдсэн",
+    "severity": "minor",
+    "why": "In colloquial Mongolian, 'Бүүрэг сийлэхээр …' can be read as 'once (you) carve the arch …'. That makes this distractor arguably acceptable, so the answer is not clearly unique."
+   },
+   {
+    "where": "culture_note, mn",
+    "text": "мөнгөн товруу, хавтгайгаар чимдэг",
+    "fix": "мөнгөн товруу, ялтсаар чимдэг",
+    "severity": "minor",
+    "why": "For decorative metal plates, ялтас is the natural noun. хавтгай is mainly an adjective ('flat') and sounds odd here."
+   }
+  ],
+  "summary": "Solid lesson with correct passive converb forms and harmony. Only small issues remain: one internal timeline inconsistency, a slight overtranslation, a weak distractor, and one odd word in the culture note."
+ },
+ {
+  "id": "u109l5",
+  "level": "C1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "fill_blank, item 3 (index 2), explain_mn",
+    "text": "\"Хариуцлага хүлээх\" нь \"хариуцлага хүлээх\" гэсэн утгатай тогтвортой хэллэг.",
+    "fix": "\"Хариуцлага хүлээх\" нь \"to take responsibility\" гэсэн утгатай тогтвортой хэллэг.",
+    "severity": "minor",
+    "why": "The explanation is circular: it defines the phrase with itself. It should give the English meaning, as the English explanation does."
+   }
+  ],
+  "summary": "A clean, accurate lesson. The only remaining problem is a circular Mongolian explanation in one fill-in-the-blank item."
+ },
+ {
+  "id": "u116l4",
+  "level": "B2",
+  "rating": 9,
+  "mistakes": [],
+  "summary": "No real mistakes remain: the Mongolian wish forms, case endings, and vowel harmony are correct, translations match, every fill-in-the-blank has a single correct answer, and the explanations are accurate."
+ },
+ {
+  "id": "u120l3",
+  "level": "C1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "culture_note (en/mn), snuff etiquette",
+    "text": "Guests offer their bottle with the right hand, the left hand supporting it from below. / Хөөргөө баруун гараараа барьж, зүүн гараараа доороос нь түшиж өгдөг.",
+    "fix": "The bottle is offered with the right hand, palm up, while the left hand supports the right arm or elbow; host and guest both offer. / Хөөргөө баруун гараараа алгаа дээш харуулан барьж, зүүн гараараа баруун гарынхаа тохойг түшиж өгдөг; гэрийн эзэн, зочин хоёулаа зөрүүлдэг.",
+    "severity": "minor",
+    "why": "In the usual description, the left hand supports the right arm or elbow, not the bottle from below. The exchange is also mutual, not something only guests do."
+   },
+   {
+    "where": "grammar.examples[0].mn_latin",
+    "text": "muzyeid",
+    "fix": "muzeid",
+    "severity": "minor",
+    "why": "In музей the е is pronounced [e] with no y-glide, so the romanization misleads learners about pronunciation."
+   }
+  ],
+  "summary": "A clean, accurate lesson. Only small issues remain: one detail of snuff-exchange etiquette and one romanization slip."
+ },
+ {
+  "id": "u129l5",
+  "level": "B2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "grammar.explain_en",
+    "text": "ахын → ахынх (my older brother's)",
+    "fix": "ахын → ахынх (older brother's)",
+    "severity": "minor",
+    "why": "ахынх has no first-person possessive in it. 'My older brother's' would be миний ахынх or ахынх минь."
+   },
+   {
+    "where": "sentences[10].mn",
+    "text": "Би таныг үнэмлэх дээрх зургаар тань таньсан.",
+    "fix": "Би таныг үнэмлэх дээрх зургаар чинь таньсан.",
+    "severity": "minor",
+    "why": "The particle тань sits right before таньсан, and таныг is already in the sentence. This makes an awkward тань таньсан sequence. Using чинь, or dropping the particle, reads more naturally."
+   }
+  ],
+  "summary": "A solid lesson with accurate grammar, fill-in-the-blank items and translations. Only two small issues remain: a gloss that adds 'my' to ахынх, and an awkward тань таньсан sequence."
+ },
+ {
+  "id": "u131l5",
+  "level": "B2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "intro_en / grammar explain_en",
+    "text": "-ж орхих (left behind, forgot somewhere) ... -ж орхих (literally 'and leave') means you left something behind, often by forgetting ... Use орхих when you know roughly where you left it.",
+    "fix": "-ж орхих generally marks a completed, decisive (often unintended) action, e.g. хэлж орхисон 'blurted it out', идэж орхисон 'ate it all up'. With мартах, мартаж орхих means 'forgot and left it behind'.",
+    "severity": "minor",
+    "why": "This presents a general auxiliary as if 'left behind' were its core meaning. That reading comes from мартах, not from орхих, so learners will overgeneralize."
+   },
+   {
+    "where": "dialogue index 7, en",
+    "text": "Now let's fill out this form and take your statement.",
+    "fix": "Now let's fill out this form, and I'll take your statement.",
+    "severity": "minor",
+    "why": "'Let's ... take your statement' sounds as if Saraa is also taking her own statement."
+   },
+   {
+    "where": "grammar examples index 1, mn_latin",
+    "text": "Shükhree kafyed martaj orkhison.",
+    "fix": "Shükhree kafed martaj orkhison.",
+    "severity": "minor",
+    "why": "'кафед' is transliterated inconsistently ('kafyed'). Elsewhere е is written as 'e'."
+   }
+  ],
+  "summary": "A solid, accurate lesson. The main remaining issue is the oversimplified description of -ж орхих, plus two small polish fixes."
+ },
+ {
+  "id": "u139l2",
+  "level": "B2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "sentences[2] mn (and fill_blank[2] text)",
+    "text": "жижиг мөргөлдөөн ч гэсэн их зардал гаргаж мэднэ",
+    "fix": "жижиг мөргөлдөөн ч гэсэн их зардалд оруулж мэднэ",
+    "severity": "minor",
+    "why": "\"Зардал гаргах\" means that a person spends money. When a collision is the subject, \"зардалд оруулах\" (or \"их зардал гарч мэднэ\") sounds more natural."
+   },
+   {
+    "where": "fill_blank[4] translation",
+    "text": "Нөгөө жолооч улаан гэрлээр зөрчиж гарсан байж мэднэ.",
+    "fix": "Нөгөө жолооч улаан гэрлээр гарсан байж мэднэ.",
+    "severity": "minor",
+    "why": "\"Улаан гэрлээр зөрчиж гарах\" is an awkward mix of two expressions. Use either \"улаан гэрлээр гарах\" or \"улаан гэрэл зөрчих\"."
+   },
+   {
+    "where": "grammar.examples[1]",
+    "text": "Тэр миний машиныг мөргөчихсөн байж мэднэ. / He could easily have hit my car.",
+    "fix": "Тэр миний машиныг амархан мөргөчихсөн байж мэднэ.",
+    "severity": "minor",
+    "why": "The pair is meant to model \"could easily,\" but the Mongolian has no \"амархан\". The same mismatch appears in explain_mn."
+   }
+  ],
+  "summary": "Solid lesson with correct grammar explanations and fill-blanks. Only a few awkward Mongolian collocations remain, plus one example pair where \"easily\" is not reflected in the Mongolian."
+ },
+ {
+  "id": "u142l6",
+  "level": "C1",
+  "rating": 9,
+  "mistakes": [],
+  "summary": "No remaining real mistakes. The Mongolian forms (including vowel harmony and the accusative and genitive forms), the translation pairs, the unique fill-in-the-blank answers, the verb-pair explanations and the culture-note facts are all accurate and consistent."
+ },
+ {
+  "id": "u149l4",
+  "level": "C1",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "grammar.explain_en, final 'quick test'",
+    "text": "A quick test: if the next word is a noun, or the sentence ends there, use үүдэлтэй. If a new clause follows, use үүдэн or шалтгаалан.",
+    "fix": "A quick test: if the form directly modifies the following noun ('damage caused by…'), or the sentence ends there, use үүдэлтэй. If it introduces a new clause with its own verb, use үүдэн or шалтгаалан (that clause can start with a noun, e.g. …үүдэн ялгаварлал гарсан).",
+    "severity": "major",
+    "why": "The test as written contradicts the lesson's own example (Хэвшмэл хандлагаас үүдэн ялгаварлал гарсан), where a noun follows үүдэн. Learners who apply it will choose the wrong form."
+   },
+   {
+    "where": "grammar.examples[0].mn_latin",
+    "text": "sistyem",
+    "fix": "sistem",
+    "severity": "minor",
+    "why": "Систем is pronounced and usually romanized as 'sistem'. 'Sistyem' is a misleading transliteration."
+   }
+  ],
+  "summary": "The lesson is solid and natural in both languages. The main remaining flaw is a misleading 'quick test' in the English grammar explanation that contradicts the lesson's own example."
+ },
+ {
+  "id": "u156l6",
+  "level": "B2",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "sentences, item 11 (Нэхэмжлэлийн алдааг...)",
+    "text": "Нэхэмжлэлийн алдааг зассан эсэхийг давхар шалгаж болох болов уу?",
+    "fix": "Нэхэмжлэлийн алдааг зассан эсэхийг давхар шалгаж өгч болох болов уу? (also in alt_mn: ...засчихсан эсэхийг давхар шалгаж өгч болох болов уу?)",
+    "severity": "minor",
+    "why": "The English says 'if you could double-check', so the agent does the action. The lesson's own grammar rule says to add өгч in that case. Without it, the sentence leans toward 'could I double-check', which is the same mismatch the previous edit fixed in fill_blank 1."
+   }
+  ],
+  "summary": "A clean, natural lesson. The only remaining issue is one request sentence that is missing өгч and so breaks the lesson's own you-do-it-for-me rule."
+ },
+ {
+  "id": "u163l6",
+  "level": "B2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "grammar explain_mn",
+    "text": "Бид, тэд, та нар, бүгд гэсэн үгтэй хамт байгалийн сонсогдоно.",
+    "fix": "Бид, тэд, та нар, бүгд гэсэн үгтэй хамт хэрэглэхэд жам ёсны сонсогдоно.",
+    "severity": "minor",
+    "why": "'байгалийн сонсогдоно' is a calque of 'sounds natural'. 'байгалийн' is an adjective, so it can't modify the verb this way."
+   },
+   {
+    "where": "grammar examples[0] mn_latin",
+    "text": "Bid bügd karaokye deer duultsgaasan.",
+    "fix": "Bid bügd karaoke deer duultsgaasan.",
+    "severity": "minor",
+    "why": "The Cyrillic is караоке, so the transliteration 'karaokye' is wrong."
+   }
+  ],
+  "summary": "The lesson is solid after the first edit. Two small issues remain: an unnatural calque in the Mongolian grammar text and a transliteration slip."
+ },
+ {
+  "id": "u166l5",
+  "level": "C1",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "sentences[6] mn (and alt_mn)",
+    "text": "Хот айлын ахмадууд аав ээжийг нь хүүг нь сургуульд буцааж явуулахыг ятгасан.",
+    "fix": "Хот айлын ахмадууд аав ээжийг нь хүүг нь сургуульд буцааж явуулахаар ятгасан.",
+    "severity": "minor",
+    "why": "With ятгах, the thing someone is persuaded to do takes -хаар (or -х гэж), not -хыг. Here -хыг also stacks a third accusative onto аав ээжийг and хүүг, which is clumsy."
+   },
+   {
+    "where": "grammar.examples[2], grammar.examples[3]",
+    "text": "Зудын үед хөдөөгийн ядуучууд хамгийн их хохирдог. / Малчид хаврын төллөлтийн үеэр хөвгүүдээ гэртээ байлгахыг хүсдэг.",
+    "fix": "Replace them with repeated-converb examples, e.g. 'Тэр уйлж уйлж байгаад эцэст нь дотуур байрандаа дассан.' / 'Хүү хонь хариулж хариулж арван таван нас хүрсэн.'",
+    "severity": "minor",
+    "why": "The grammar section is about repeated converbs, but these two examples contain none. They illustrate the English social-group point instead."
+   }
+  ],
+  "summary": "The language is clean and natural overall. Two small issues remain: the ятгах complement uses -хыг instead of -хаар, and two grammar examples don't illustrate the grammar point."
+ },
+ {
+  "id": "u172l1",
+  "level": "B2",
+  "rating": 9,
+  "mistakes": [],
+  "summary": "No remaining errors found: the Mongolian is natural, vowel harmony and verb endings are correct, the translation pairs match, each fill-in-the-blank has one answer, and the explanations are accurate in both languages."
+ },
+ {
+  "id": "u179l5",
+  "level": "B2",
+  "rating": 9,
+  "mistakes": [],
+  "summary": "No remaining real mistakes found. The Mongolian is natural with correct vowel harmony and endings, the English is idiomatic, the translation pairs match, every fill-in-the-blank has one correct answer, and the explanations are accurate."
+ },
+ {
+  "id": "u184l1",
+  "level": "C1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "dialogue, line 7 (Батболд)",
+    "text": "Дараагийн хичээлээр тодорхойлолтыг нь Монголын жишээн дээр дэлгэрэнгүй ярилцъя. / let's discuss the definition in detail using Mongolia as an example.",
+    "fix": "Дараагийн хичээлээр энэ үзэгдлийг Монголын жишээн дээр дэлгэрэнгүй ярилцъя. / In the next class, let's discuss this phenomenon in detail using Mongolia as an example.",
+    "severity": "minor",
+    "why": "The definition was already given. A Mongolian example illustrates the phenomenon, not its definition, so the line is odd in both languages."
+   }
+  ],
+  "summary": "A clean, accurate lesson. The only remaining issue is one slightly illogical closing line in the dialogue."
+ },
+ {
+  "id": "u188l6",
+  "level": "B2",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "fill_blank[0] explain_en",
+    "text": "and байхдаа and болохоор attach to verbs, not to a genitive noun.",
+    "fix": "and байхдаа and болохоор are verb forms that follow a noun in the nominative (Наадам болохоор, оюутан байхдаа), not a genitive noun.",
+    "severity": "minor",
+    "why": "байхдаа and болохоор are themselves verb forms. They come after nouns in the nominative, not after verbs, so 'attach to verbs' misdescribes them."
+   },
+   {
+    "where": "fill_blank[3] options",
+    "text": "during",
+    "fix": "Replace 'during' with a clearly wrong option, e.g. 'in' or 'ago'.",
+    "severity": "minor",
+    "why": "'I worked at a bookstore during three summers' is still acceptable English, so 'for' is not the only possible answer."
+   },
+   {
+    "where": "vocab[8] pos",
+    "text": "verb",
+    "fix": "verb phrase",
+    "severity": "minor",
+    "why": "эргэн харах / to look back is a multi-word expression. Similar items in this list are labeled 'verb phrase'."
+   }
+  ],
+  "summary": "Clean, natural lesson. Only small issues remain: one explanation slightly misdescribes байхдаа/болохоор, one English blank has a borderline second answer, and one part-of-speech label is inconsistent."
+ },
+ {
+  "id": "u195l4",
+  "level": "B2",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "fill_blank[2] options",
+    "text": "чиглэн",
+    "fix": "Replace чиглэн with a distractor that cannot take the accusative, e.g. \"гараад\" is already ruled out, so use \"хүрч\" or \"очоод\".",
+    "severity": "minor",
+    "why": "\"Нуурыг чиглэн, дараа нь хойд зүг рүү яваарай\" (head toward the lake, then go north) is grammatical, because чиглэн takes the accusative. That makes the answer not fully unique."
+   },
+   {
+    "where": "dialogue[6] (Sarah)",
+    "text": "Ойлголоо. Тийм учраас л бид өглөөжин төөрсөн юм байна! / Got it. So that's why we've been lost all morning!",
+    "fix": "Ойлголоо. Бид намгийг буруу талаар нь тойрсон учраас л өглөөжин төөрсөн юм байна! / Got it. We went around the marsh on the wrong side. That's why we've been lost all morning!",
+    "severity": "minor",
+    "why": "\"That's why\" has nothing to refer to. Dorj's directions give no cause for them getting lost, so the line is a non sequitur."
+   }
+  ],
+  "summary": "The lesson is solid and accurate. Only a slightly non-unique fill-blank distractor and an illogical \"that's why\" line in the dialogue remain."
+ },
+ {
+  "id": "u203l1",
+  "level": "B2",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "dialogue, item 8 (Болд)",
+    "text": "Энэ баасан гарагт дуусна гэж амлаж байна.",
+    "fix": "Энэ баасан гарагт дуусгана гэж амлая.",
+    "severity": "minor",
+    "why": "\"амлаж байна\" for a first-person promise in the moment sounds stiff. Speakers would say \"амлая\" or \"амлаж байна шүү\". \"дуусгана\" also fits better because the speaker is the one finishing the work."
+   }
+  ],
+  "summary": "A clean, accurate lesson with only one slightly unnatural line in the dialogue."
+ },
+ {
+  "id": "u205l6",
+  "level": "C1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "grammar, explain_mn",
+    "text": "Шалтгааныг because, since, due to-гоор оруулна.",
+    "fix": "Шалтгааныг because, since, due to зэрэг холбоосоор оруулна.",
+    "severity": "minor",
+    "why": "Adding a case suffix straight onto an English phrase is awkward. 'due to' (ду ту) would take -гаар, not -гоор. Rephrasing with 'зэрэг холбоосоор' avoids the problem."
+   }
+  ],
+  "summary": "An accurate, natural C1 lesson. The only remaining issue is one awkward suffix on an English word in the Mongolian grammar explanation."
+ },
+ {
+  "id": "u211l2",
+  "level": "B2",
+  "rating": 9,
+  "mistakes": [],
+  "summary": "No real mistakes remain: the Mongolian is natural, the translation pairs match, the blanks have unique answers, and the audience-specific grammar sections are accurate."
+ },
+ {
+  "id": "u216l5",
+  "level": "C1",
+  "rating": 8,
+  "mistakes": [
+   {
+    "where": "grammar.explain_en",
+    "text": "In the accusative, the reflexive replaces the case ending: малаа (one's own livestock, not *малыгаа).",
+    "fix": "In the accusative, the reflexive usually replaces the case ending: малаа (one's own livestock). The fuller form малыгаа also occurs, but малаа is the normal choice.",
+    "severity": "minor",
+    "why": "Forms like малыгаа and хүүхдийгээ are attested in modern Khalkha. Starring it as ungrammatical overstates the rule."
+   },
+   {
+    "where": "grammar.explain_en",
+    "text": "the reflexive ending -аа/-ээ/-оо/-өө",
+    "fix": "the reflexive ending -аа/-ээ/-оо/-өө (-гаа/-гээ/-гоо/-гөө after vowels and diphthongs)",
+    "severity": "minor",
+    "why": "The examples нохойтойгоо and нохойгоо use the -гоо allomorph, which the explanation never mentions."
+   }
+  ],
+  "summary": "A strong, natural lesson. Only small inaccuracies remain in the explanation of the reflexive possessive endings."
+ },
+ {
+  "id": "u224l1",
+  "level": "C1",
+  "rating": 9,
+  "mistakes": [
+   {
+    "where": "sentences, item 11 (mn)",
+    "text": "Олон ажлын байр албан ёсоор зарлагдахаас өмнө танил талаар дамжин дүүрчихдэг.",
+    "fix": "Олон ажлын байранд албан ёсоор зар гарахаас өмнө танил талаар дамжин хүн орчихдог.",
+    "severity": "minor",
+    "why": "\"Ажлын байр дүүрэх\" is a calque of English \"jobs are filled\" and sounds unnatural in Mongolian. The natural phrasing is \"ажлын байранд хүн орох\", as the alt_mn already shows."
+   }
+  ],
+  "summary": "A strong, accurate lesson. The only remaining issue is one calqued phrase, \"ажлын байр дүүрэх\", in the main Mongolian sentence."
+ }
+]

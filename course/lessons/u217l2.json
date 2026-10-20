@@ -1,0 +1,446 @@
+{
+ "intro_en": "Learn how to visit a patient in a Mongolian hospital: visiting hours, ward rules, and how to say which ward, room, and bed someone is in using ordinals. You'll also practice the English difference between \"during\" + noun and \"within\" + a time period.",
+ "intro_mn": "Эмнэлэгт өвчтөн эргэх тухай сурна: эргэлтийн цаг, тасгийн дүрэм, мөн хэддүгээр тасаг, өрөө, орон дээр хэвтэж байгааг дэс тоогоор хэлэх. Мөн англи хэлний \"during\" + нэр үг, \"within\" + хугацаа гэсэн ялгааг дадлага хийнэ.",
+ "vocab": [
+  {
+   "mn": "эргэлт",
+   "en": "visit (to a patient)",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр эргэлт хаалттай.",
+   "example_en": "There are no visits today.",
+   "mn_latin": "ergelt"
+  },
+  {
+   "mn": "эргэлтийн цаг",
+   "en": "visiting hours",
+   "pos": "noun phrase",
+   "example_mn": "Эргэлтийн цаг оройн таваас долоо хүртэл.",
+   "example_en": "Visiting hours are from five to seven in the evening.",
+   "mn_latin": "ergeltiin tsag"
+  },
+  {
+   "mn": "гадуур хувцас",
+   "en": "outerwear, coat",
+   "pos": "noun phrase",
+   "example_mn": "Гадуур хувцсаа гардеробт өгнө үү.",
+   "example_en": "Please leave your coat at the coat check.",
+   "mn_latin": "gaduur khuvtsas"
+  },
+  {
+   "mn": "бахил",
+   "en": "shoe covers",
+   "pos": "noun",
+   "example_mn": "Орохоосоо өмнө бахил өмсөөрэй.",
+   "example_en": "Put on shoe covers before you go in.",
+   "mn_latin": "bakhil"
+  },
+  {
+   "mn": "жижүүр",
+   "en": "attendant on duty, front desk",
+   "pos": "noun",
+   "example_mn": "Жижүүрээс тасгийн дугаарыг асуугаарай.",
+   "example_en": "Ask the attendant at the front desk for the ward number.",
+   "mn_latin": "jijüür"
+  },
+  {
+   "mn": "тасаг",
+   "en": "ward, hospital department",
+   "pos": "noun",
+   "example_mn": "Ээж хоёрдугаар тасагт хэвтэж байна.",
+   "example_en": "My mom is staying in Ward 2.",
+   "mn_latin": "tasag"
+  },
+  {
+   "mn": "ор",
+   "en": "bed",
+   "pos": "noun",
+   "example_mn": "Аав дөрөвдүгээр орон дээр хэвтэж байгаа.",
+   "example_en": "Dad is in bed four.",
+   "mn_latin": "or"
+  },
+  {
+   "mn": "эргэх",
+   "en": "to visit (a sick person)",
+   "pos": "verb",
+   "example_mn": "Бид маргааш өвөөгөө эргэнэ.",
+   "example_en": "We'll visit Grandpa tomorrow.",
+   "mn_latin": "ergekh"
+  },
+  {
+   "mn": "ээлж",
+   "en": "turn",
+   "pos": "noun",
+   "example_mn": "Одоо таны ээлж.",
+   "example_en": "It's your turn now.",
+   "mn_latin": "eelj"
+  },
+  {
+   "mn": "сахиур",
+   "en": "caregiver (relative who stays with a patient)",
+   "pos": "noun",
+   "example_mn": "Шөнө эгч маань сахиураар үлдэнэ.",
+   "example_en": "My older sister will stay overnight as a caregiver.",
+   "mn_latin": "sakhiur"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эргэлтийн цагаар нэг өвчтөнд хоёроос илүүгүй хүн орж болно.",
+   "en": "During visiting hours, no more than two people may visit one patient.",
+   "alt_mn": [
+    "Эргэлтийн цагаар нэг өвчтөнийг хоёроос олонгүй хүн эргэж болно."
+   ],
+   "alt_en": [
+    "During visiting hours, a patient can have no more than two visitors."
+   ],
+   "mn_latin": "Ergeltiin tsagaar neg övchtönd khoyoroos ilüügüi khün orj bolno."
+  },
+  {
+   "mn": "Гадуур хувцсаа тайлаад бахил өмсөөрэй.",
+   "en": "Take off your coat and put on shoe covers.",
+   "alt_mn": [
+    "Гадуур хувцсаа тайлж, бахил өмсөөрэй."
+   ],
+   "alt_en": [
+    "Take your coat off and put on shoe covers."
+   ],
+   "mn_latin": "Gaduur khuvtssaa tailaad bakhil ömsöörei."
+  },
+  {
+   "mn": "Хоёрдугаар тасаг гуравдугаар давхарт байрладаг.",
+   "en": "Ward 2 is on the third floor.",
+   "alt_mn": [
+    "Хоёрдугаар тасаг гуравдугаар давхарт байдаг."
+   ],
+   "alt_en": [
+    "The second ward is on the third floor."
+   ],
+   "mn_latin": "Khoyordugaar tasag guravdugaar davkhart bairladag."
+  },
+  {
+   "mn": "Миний дүү дөрөвдүгээр өрөөний хоёрдугаар орон дээр хэвтэж байгаа.",
+   "en": "My younger brother is in the second bed in room four.",
+   "alt_mn": [
+    "Дүү маань дөрөвдүгээр өрөөний хоёрдугаар орон дээр хэвтэж байна."
+   ],
+   "alt_en": [
+    "My little brother is in bed two in room four."
+   ],
+   "mn_latin": "Minii düü dörövdügeer öröönii khoyordugaar oron deer khevtej baigaa."
+  },
+  {
+   "mn": "Жижүүр биднээс арван минутын дотор гарахыг хүссэн.",
+   "en": "The attendant asked us to leave within ten minutes.",
+   "alt_mn": [
+    "Жижүүр бидэнд арван минутын дотор гараарай гэсэн."
+   ],
+   "alt_en": [
+    "The attendant on duty asked us to leave within ten minutes."
+   ],
+   "mn_latin": "Jijüür bidnees arvan minutyn dotor garakhyg khüssen."
+  },
+  {
+   "mn": "Эмчийн үзлэгийн үеэр эргэлт хийхийг хориглоно.",
+   "en": "Visits are not allowed during the doctors' rounds.",
+   "alt_mn": [
+    "Эмчийн үзлэгийн үеэр эргэлт хийж болохгүй."
+   ],
+   "alt_en": [
+    "Visiting is not allowed during the doctors' rounds."
+   ],
+   "mn_latin": "Emchiin üzlegiin üyeer ergelt khiikhiig khoriglono."
+  },
+  {
+   "mn": "Шинжилгээний хариу хоёр хоногийн дотор гарна.",
+   "en": "The test results will be ready within two days.",
+   "alt_mn": [],
+   "alt_en": [
+    "The test results will come out within two days."
+   ],
+   "mn_latin": "Shinjilgeenii khariu khoyor khonogiin dotor garna."
+  },
+  {
+   "mn": "Хоолны цагаар эргэлт хаалттай байдаг.",
+   "en": "No visits are allowed during mealtimes.",
+   "alt_mn": [
+    "Хоолны цагаар эргэлт хийхгүй."
+   ],
+   "alt_en": [
+    "There are no visits during mealtimes."
+   ],
+   "mn_latin": "Khoolny tsagaar ergelt khaalttai baidag."
+  },
+  {
+   "mn": "Эхлээд ээж орно, хоёр дахь ээлжинд би орно.",
+   "en": "Mom goes in first, and I go in second.",
+   "alt_mn": [
+    "Эхлээд ээж, дараа нь хоёр дахь ээлжинд би орно."
+   ],
+   "alt_en": [
+    "First Mom goes in, and then it's my turn."
+   ],
+   "mn_latin": "Ekhleed eej orno, khoyor dakhi eeljind bi orno."
+  },
+  {
+   "mn": "Сахиураар үлдэх хүн жижүүр дээр бүртгүүлэх ёстой.",
+   "en": "Anyone staying as a caregiver must register at the front desk.",
+   "alt_mn": [
+    "Сахиураар хэвтэх хүн жижүүр дээр бүртгүүлэх ёстой."
+   ],
+   "alt_en": [
+    "A relative staying as a caregiver has to sign in at the front desk."
+   ],
+   "mn_latin": "Sakhiuraar üldekh khün jijüür deer bürtgüülekh yostoi."
+  },
+  {
+   "mn": "Өвөөгөө эргэхдээ бид жимс, тараг авч очсон.",
+   "en": "When we visited Grandpa, we brought fruit and yogurt.",
+   "alt_mn": [
+    "Өвөөг эргэхдээ бид жимс, тараг авч очсон."
+   ],
+   "alt_en": [
+    "We brought fruit and yogurt when we visited Grandpa."
+   ],
+   "mn_latin": "Övöögöö ergekhdee bid jims, tarag avch ochson."
+  },
+  {
+   "mn": "Ханиадтай хүмүүсийг эргэлтэд оруулахгүй.",
+   "en": "People with a cold are not allowed to visit.",
+   "alt_mn": [
+    "Ханиадтай хүн эргэлтэд орж болохгүй."
+   ],
+   "alt_en": [
+    "People who have a cold can't come in to visit."
+   ],
+   "mn_latin": "Khaniadtai khümüüsiig ergelted oruulakhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "Ordinals with -дугаар/-дүгээр and дахь/дэх; \"during\" vs. \"within\"",
+  "title_mn": "-дугаар/-дүгээр ба дахь/дэх дэс тоо; \"during\" ба \"within\"",
+  "explain_en": "To name a numbered place such as a ward, floor, room, or bed, add -дугаар or -дүгээр directly to the number. Vowel harmony picks the form: хоёрдугаар тасаг (Ward 2), гуравдугаар давхар (third floor), but дөрөвдүгээр ор (bed four) and есдүгээр өрөө (room nine). In writing with digits, people often shorten this to 2-р тасаг or 4-р ор. For order in a sequence, such as a second time, a third door, or your turn, Mongolian usually uses дахь/дэх, written as a separate word: хоёр дахь удаа (the second time), гурав дахь хаалга (the third door), хоёр дахь ээлж (the second turn). In English, \"during\" is followed by a noun for an event or period, like -ын үеэр or -аар: during visiting hours (эргэлтийн цагаар), during the night (шөнө), during the doctors' rounds (эмчийн үзлэгийн үеэр). \"Within\" is followed by a length of time used as a limit, like -ын дотор: within ten minutes (арван минутын дотор), within two days (хоёр хоногийн дотор). Don't say \"during ten minutes.\" For how long something lasts, say \"for ten minutes.\"",
+  "explain_mn": "Дугаартай газар буюу тасаг, давхар, өрөө, орыг нэрлэхдээ тоон дээр -дугаар/-дүгээр дагаврыг шууд залгана. Эгшиг зохицох ёсоор хэлбэр нь сонгогдоно: хоёрдугаар тасаг (Ward 2), гуравдугаар давхар (third floor), харин дөрөвдүгээр ор (bed four), есдүгээр өрөө (room nine). Цифрээр бичихдээ ихэвчлэн 2-р тасаг, 4-р ор гэж товчилдог. Дараалал буюу хэд дэх удаа, хэд дэх хаалга, ээлжийг хэлэхдээ ихэвчлэн тусад нь бичдэг дахь/дэх үгийг хэрэглэнэ: хоёр дахь удаа (the second time), гурав дахь хаалга (the third door), хоёр дахь ээлж (the second turn). Англи хэлэнд \"during\"-ийн дараа үйл явдал, үеийг заасан нэр үг орно. Энэ нь \"-ын үеэр, -аар\" гэсэн утгатай: during visiting hours (эргэлтийн цагаар), during the night (шөнө), during the doctors' rounds (эмчийн үзлэгийн үеэр). \"Within\"-ий дараа хязгаар болох хугацааны хэмжээ орно. Энэ нь \"-ын дотор\" гэсэн утгатай: within ten minutes (арван минутын дотор), within two days (хоёр хоногийн дотор). \"During ten minutes\" гэж хэлэхгүй. Үргэлжлэх хугацааг \"for ten minutes\" гэж хэлнэ.",
+  "examples": [
+   {
+    "mn": "Би гуравдугаар давхрын тавдугаар өрөөнд хэвтэж байна.",
+    "en": "I'm in room five on the third floor.",
+    "mn_latin": "Bi guravdugaar davkhryn tavdugaar öröönd khevtej baina."
+   },
+   {
+    "mn": "Би энд хоёр дахь удаагаа ирж байна.",
+    "en": "This is my second time here.",
+    "mn_latin": "Bi end khoyor dakhi udaagaa irj baina."
+   },
+   {
+    "mn": "Эргэлтийн цагаар чимээгүй байгаарай.",
+    "en": "Please keep quiet during visiting hours.",
+    "mn_latin": "Ergeltiin tsagaar chimeegüi baigaarai."
+   },
+   {
+    "mn": "Би арван минутын дотор буцаж ирнэ.",
+    "en": "I'll be back within ten minutes.",
+    "mn_latin": "Bi arvan minutyn dotor butsaj irne."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эргэлтийн цаг___ чимээгүй байгаарай.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "аас",
+    "ийн",
+    "ийг"
+   ],
+   "translation": "Please keep quiet during visiting hours.",
+   "explain_en": "The instrumental ending -аар on a time word means \"during\" or \"at that time\": эргэлтийн цагаар means \"during visiting hours.\" The ending -аас means \"from,\" -ийн means \"of,\" and -ыг marks a direct object.",
+   "explain_mn": "Үйлдэх тийн ялгал -аар нь цаг хугацааны нэр үгтэй хамт \"тэр үед\" гэсэн утга илэрхийлдэг: эргэлтийн цагаар. Англиар \"during visiting hours\" гэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Манай хүү гурав___ тасагт хэвтэж байгаа.",
+   "answer": "дугаар",
+   "options": [
+    "дугаар",
+    "дүгээр",
+    "даа",
+    "аас"
+   ],
+   "translation": "Our son is staying in Ward 3.",
+   "explain_en": "A numbered ward takes the ordinal suffix -дугаар/-дүгээр. Гурав has back vowels, so it takes -дугаар: гуравдугаар тасаг. The form -дүгээр goes with front-vowel numbers like дөрөв or ес.",
+   "explain_mn": "Дугаартай тасаг, ор, өрөөг -дугаар/-дүгээр дагавраар хэлнэ. \"Гурав\" эр үг тул -дугаар авна: гуравдугаар тасаг. Англиар \"Ward 3\" гэж дугаарыг ард нь тавьдаг."
+  },
+  {
+   "lang": "mn",
+   "text": "Шинжилгээний хариу хоёр хоногийн ___ гарна.",
+   "answer": "дотор",
+   "options": [
+    "дотор",
+    "үеэр",
+    "турш",
+    "өмнө"
+   ],
+   "translation": "The test results will be ready within two days.",
+   "explain_en": "\"Хугацааны дотор\" means \"within a time limit,\" the same idea as English \"within.\" The word үеэр means \"during an event,\" and турш means \"throughout the whole time.\"",
+   "explain_mn": "\"-ын дотор\" нь хугацааны хязгаарыг заадаг бөгөөд англиар \"within two days\" гэнэ. \"Турш\" нь бүх хугацааны туршид гэсэн утгатай тул энд тохирохгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Please turn off your phone ___ the doctors' rounds.",
+   "answer": "during",
+   "options": [
+    "during",
+    "within",
+    "while",
+    "since"
+   ],
+   "translation": "Эмчийн үзлэгийн үеэр утсаа унтраана уу.",
+   "explain_en": "\"The doctors' rounds\" is an event, not a length of time, so it takes \"during.\" \"Within\" needs a time period such as \"within ten minutes.\"",
+   "explain_mn": "\"The doctors' rounds\" нь үйл явдал, хугацааны хэмжээ биш. Тиймээс \"during\" (-ын үеэр) хэрэглэнэ. \"Within\"-ий дараа \"ten minutes\" гэх мэт хугацаа ордог."
+  },
+  {
+   "lang": "en",
+   "text": "The nurse will come back ___ fifteen minutes.",
+   "answer": "within",
+   "options": [
+    "within",
+    "during",
+    "since",
+    "while"
+   ],
+   "translation": "Сувилагч арван таван минутын дотор буцаж ирнэ.",
+   "explain_en": "\"Fifteen minutes\" is a length of time used as a limit, so \"within\" is correct. \"During fifteen minutes\" is not natural English.",
+   "explain_mn": "\"Fifteen minutes\" нь хугацааны хэмжээ тул \"within\" (-ын дотор) хэрэглэнэ. \"During fifteen minutes\" гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "No phone calls are allowed ___ the night.",
+   "answer": "during",
+   "options": [
+    "during",
+    "within",
+    "while",
+    "by"
+   ],
+   "translation": "Шөнийн цагаар утсаар ярихыг хориглоно.",
+   "explain_en": "\"The night\" is a period named by a noun, not a measured amount of time, so it takes \"during.\" \"While\" must be followed by a clause, as in \"while you sleep.\"",
+   "explain_mn": "\"The night\" нь нэр үгээр нэрлэсэн үе тул \"during\" хэрэглэнэ. \"While\"-ийн дараа өгүүлбэр (жишээ нь: while you sleep) ордог."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Сайн байна уу. Би ээжийгээ эргэх гэсэн юм. Хоёрдугаар тасагт хэвтэж байгаа.",
+   "en": "Hello. I'd like to visit my mother. She's in Ward 2.",
+   "mn_latin": "Sain baina uu. Bi eejiigee ergekh gesen yum. Khoyordugaar tasagt khevtej baigaa."
+  },
+  {
+   "speaker": "Батаа",
+   "mn": "Сайн байна уу. Эргэлтийн цаг тав хагаст эхэлнэ. Одоо эмчийн үзлэг явж байна.",
+   "en": "Hello. Visiting hours start at five-thirty. The doctors are doing their rounds right now.",
+   "mn_latin": "Sain baina uu. Ergeltiin tsag tav khagast ekhelne. Odoo emchiin üzleg yavj baina."
+  },
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Ойлголоо. Хүлээж байх хооронд юу хийх вэ?",
+   "en": "I see. What should I do while I wait?",
+   "mn_latin": "Oilgoloo. Khüleej baikh khoorond yuu khiikh ve?"
+  },
+  {
+   "speaker": "Батаа",
+   "mn": "Гадуур хувцсаа гардеробт өгөөд бахил өмсөөрэй. Бахил энд хоёр зуун төгрөг.",
+   "en": "Leave your coat at the coat check and put on shoe covers. They're two hundred tögrög here.",
+   "mn_latin": "Gaduur khuvtssaa gardyerobt ögööd bakhil ömsöörei. Bakhil end khoyor zuun tögrög."
+  },
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Миний дүү бас ирнэ. Хоёулаа зэрэг орж болох уу?",
+   "en": "My younger brother is coming too. Can we both go in together?",
+   "mn_latin": "Minii düü bas irne. Khoyoulaa zereg orj bolokh uu?"
+  },
+  {
+   "speaker": "Батаа",
+   "mn": "Нэг өвчтөнд хоёр хүн болно. Гэхдээ хагас цагийн дотор гарах ёстой шүү.",
+   "en": "Two people per patient is fine. But you have to leave within half an hour.",
+   "mn_latin": "Neg övchtönd khoyor khün bolno. Gekhdee khagas tsagiin dotor garakh yostoi shüü."
+  },
+  {
+   "speaker": "Энхтуяа",
+   "mn": "Ээжийг дөрөвдүгээр өрөөний гуравдугаар орон дээр байгаа гэсэн. Аль тийшээ явах вэ?",
+   "en": "They told me Mom is in the third bed in room four. Which way do I go?",
+   "mn_latin": "Eejiig dörövdügeer öröönii guravdugaar oron deer baigaa gesen. Ali tiishee yavakh ve?"
+  },
+  {
+   "speaker": "Батаа",
+   "mn": "Шатаар гараад баруун тийш эргэхэд гурав дахь хаалга.",
+   "en": "Go up the stairs and turn right. It's the third door.",
+   "mn_latin": "Shataar garaad baruun tiish ergekhed gurav dakhi khaalga."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolian hospitals, a family member often stays with the patient as a сахиур (caregiver), helping with meals and care. Relatives usually bring homemade soup, buuz, fruit, or yogurt. At the entrance, the жижүүр checks visitors, and shoe covers are a must. During flu season, hospitals often close visits entirely (хорио цээр, quarantine).",
+  "mn": "Монголын эмнэлэгт гэр бүлийн нэг гишүүн ихэвчлэн сахиураар үлдэж, өвчтөнийг хооллох, асрахад тусалдаг. Эргэлтээр ирэхдээ хүмүүс гэрийн шөл, бууз, жимс, тараг авчирдаг. Үүдэнд жижүүр эргэлтийн хүмүүсийг шалгадаг бөгөөд бахил заавал өмсөнө. Томуугийн улиралд эмнэлгүүд ихэвчлэн хорио цээр тогтоож, эргэлтийг бүрэн хаадаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 5,
+  "notes": "A solid, natural lesson. The fixes are one Latin-letter typo, case government with хүсэх, and one fill-in-the-blank item that had two acceptable answers."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 8,
+  "notes": "Main problem: the grammar en and mn titles and explanations covered different topics. Both now cover ordinals and during/within. Also fixed a wrong case form in the options, one unnatural Mongolian alternative, and two unnatural English sentences.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_en",
+    "why": "en and mn titles covered different topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "match en title; cover both topics"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations said different things; now both cover both points"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "match explain_en"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "accusative of цаг is цагийг, not *цагыг"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_mn",
+    "why": "\"сахиур хийх\" is unnatural"
+   },
+   {
+    "section": "vocab",
+    "index": 0,
+    "field": "example_en",
+    "why": "\"Visits are closed\" is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "\"Visits are closed\" is unnatural English"
+   }
+  ]
+ }
+}

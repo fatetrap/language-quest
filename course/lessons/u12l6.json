@@ -1,0 +1,452 @@
+{
+ "intro_en": "You will learn to say what is missing in the weather with the suffix -гүй (no snow, no wind, no rain). You will also learn when to use биш instead of -гүй.",
+ "intro_mn": "Цаг агаарт юу байхгүй байгааг монголоор -гүй дагавараар (цасгүй, салхигүй, бороогүй) хэлж сурна. Мөн -гүй болон \"биш\"-ийг хэзээ хэрэглэхийг ялгаж сурна.",
+ "vocab": [
+  {
+   "mn": "цас",
+   "en": "snow",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр цас орж байна.",
+   "example_en": "It is snowing today.",
+   "mn_latin": "tsas"
+  },
+  {
+   "mn": "салхи",
+   "en": "wind",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр салхи хүчтэй байна.",
+   "example_en": "The wind is strong today.",
+   "mn_latin": "salkhi"
+  },
+  {
+   "mn": "бороо",
+   "en": "rain",
+   "pos": "noun",
+   "example_mn": "Маргааш бороо орно.",
+   "example_en": "It will rain tomorrow.",
+   "mn_latin": "boroo"
+  },
+  {
+   "mn": "үүл",
+   "en": "cloud",
+   "pos": "noun",
+   "example_mn": "Тэнгэрт үүл байхгүй.",
+   "example_en": "There are no clouds in the sky.",
+   "mn_latin": "üül"
+  },
+  {
+   "mn": "нар",
+   "en": "sun",
+   "pos": "noun",
+   "example_mn": "Өнөөдөр нар гарсан байна.",
+   "example_en": "The sun is out today.",
+   "mn_latin": "nar"
+  },
+  {
+   "mn": "амралтын өдөр",
+   "en": "day off",
+   "pos": "noun",
+   "example_mn": "Амралтын өдөр бид хотоос гарна.",
+   "example_en": "On our day off we will leave the city.",
+   "mn_latin": "amraltyn ödör"
+  },
+  {
+   "mn": "цэлмэг",
+   "en": "clear (sky)",
+   "pos": "adjective",
+   "example_mn": "Тэнгэр цэлмэг байна.",
+   "example_en": "The sky is clear.",
+   "mn_latin": "tselmeg"
+  },
+  {
+   "mn": "халуун",
+   "en": "hot",
+   "pos": "adjective",
+   "example_mn": "Өнөөдөр халуун биш.",
+   "example_en": "It isn't hot today.",
+   "mn_latin": "khaluun"
+  },
+  {
+   "mn": "алхах",
+   "en": "to walk",
+   "pos": "verb",
+   "example_mn": "Бид цэцэрлэгт хүрээлэнд алхана.",
+   "example_en": "We will walk in the park.",
+   "mn_latin": "alkhakh"
+  },
+  {
+   "mn": "төлөвлөгөө",
+   "en": "plan",
+   "pos": "noun",
+   "example_mn": "Танд амралтын төлөвлөгөө байна уу?",
+   "example_en": "Do you have plans for your time off?",
+   "mn_latin": "tölövlögöö"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Өнөөдөр цасгүй.",
+   "en": "There is no snow today.",
+   "alt_mn": [
+    "Өнөөдөр цас байхгүй."
+   ],
+   "alt_en": [
+    "It isn't snowing today."
+   ],
+   "mn_latin": "Önöödör tsasgüi."
+  },
+  {
+   "mn": "Өнөөдөр салхигүй байна.",
+   "en": "There is no wind today.",
+   "alt_mn": [
+    "Өнөөдөр салхи байхгүй байна."
+   ],
+   "alt_en": [
+    "It isn't windy today.",
+    "It is calm today."
+   ],
+   "mn_latin": "Önöödör salkhigüi baina."
+  },
+  {
+   "mn": "Бороогүй өдөр сайхан байна.",
+   "en": "A day without rain is nice.",
+   "alt_mn": [],
+   "alt_en": [
+    "A rainless day is nice.",
+    "A day with no rain is nice."
+   ],
+   "mn_latin": "Boroogüi ödör saikhan baina."
+  },
+  {
+   "mn": "Өнөөдөр халуун биш.",
+   "en": "It isn't hot today.",
+   "alt_mn": [
+    "Өнөөдөр халуун биш байна."
+   ],
+   "alt_en": [
+    "It is not hot today."
+   ],
+   "mn_latin": "Önöödör khaluun bish."
+  },
+  {
+   "mn": "Тэнгэр үүлгүй байна.",
+   "en": "There are no clouds in the sky.",
+   "alt_mn": [
+    "Тэнгэрт үүл байхгүй."
+   ],
+   "alt_en": [
+    "The sky has no clouds.",
+    "The sky is cloudless."
+   ],
+   "mn_latin": "Tenger üülgüi baina."
+  },
+  {
+   "mn": "Маргааш цасгүй, салхигүй.",
+   "en": "Tomorrow there will be no snow and no wind.",
+   "alt_mn": [
+    "Маргааш цас, салхи байхгүй."
+   ],
+   "alt_en": [
+    "Tomorrow: no snow, no wind."
+   ],
+   "mn_latin": "Margaash tsasgüi, salkhigüi."
+  },
+  {
+   "mn": "Амралтын өдөр бороо орохгүй.",
+   "en": "It won't rain on our day off.",
+   "alt_mn": [],
+   "alt_en": [
+    "It will not rain on our day off.",
+    "It isn't going to rain on our day off."
+   ],
+   "mn_latin": "Amraltyn ödör boroo orokhgüi."
+  },
+  {
+   "mn": "Өнөөдөр хүйтэн биш, салхигүй.",
+   "en": "It isn't cold today, and there is no wind.",
+   "alt_mn": [
+    "Өнөөдөр хүйтэн биш, салхи байхгүй."
+   ],
+   "alt_en": [
+    "It is not cold today, and it is not windy."
+   ],
+   "mn_latin": "Önöödör khüiten bish, salkhigüi."
+  },
+  {
+   "mn": "Бид бороогүй өдөр алхана.",
+   "en": "We will walk on a day with no rain.",
+   "alt_mn": [
+    "Бид бороо орохгүй өдөр алхана."
+   ],
+   "alt_en": [
+    "We will walk on a rainless day."
+   ],
+   "mn_latin": "Bid boroogüi ödör alkhana."
+  },
+  {
+   "mn": "Өнөөдөр нартай, салхигүй өдөр байна.",
+   "en": "Today is a sunny day with no wind.",
+   "alt_mn": [],
+   "alt_en": [
+    "It is a sunny, windless day today.",
+    "Today is sunny and calm."
+   ],
+   "mn_latin": "Önöödör nartai, salkhigüi ödör baina."
+  },
+  {
+   "mn": "Өнөөдөр цэлмэг, үүлгүй байна.",
+   "en": "Today is clear, with no clouds.",
+   "alt_mn": [],
+   "alt_en": [
+    "It is clear and cloudless today.",
+    "It is a clear day with no clouds."
+   ],
+   "mn_latin": "Önöödör tselmeg, üülgüi baina."
+  },
+  {
+   "mn": "Амралтын өдөр бид хотод байхгүй.",
+   "en": "We won't be in the city on our day off.",
+   "alt_mn": [
+    "Амралтын өдөр бид хотод байхгүй шүү."
+   ],
+   "alt_en": [
+    "We will not be in the city on our day off."
+   ],
+   "mn_latin": "Amraltyn ödör bid khotod baikhgüi."
+  }
+ ],
+ "grammar": {
+  "title_en": "-гүй (without) vs. биш (is not)",
+  "title_mn": "-гүй (without) ба биш (is not)",
+  "explain_en": "Add -гүй to a noun to mean \"without\" or \"no ...\": цас → цасгүй (no snow), салхи → салхигүй (no wind), бороо → бороогүй (no rain). Use it when something is missing or not present. Use биш to say that something is not a certain kind, mostly after adjectives and nouns: халуун биш (not hot), хүйтэн биш (not cold). A quick rule: if a thing is absent, use -гүй (цасгүй). If a description does not fit, use биш (халуун биш). Both can be used in one report: Хүйтэн биш, салхигүй.",
+  "explain_mn": "Нэр үгэнд -гүй дагавар залгахад \"...гүй, байхгүй\" гэсэн утга илэрнэ: цас → цасгүй (no snow), салхи → салхигүй (no wind), бороо → бороогүй (no rain). Ямар нэг зүйл байхгүй үед -гүй хэрэглэнэ. Харин \"биш\"-ийг ямар нэг зүйл тийм шинж чанартай биш гэж хэлэхэд, ихэвчлэн тэмдэг нэр болон нэр үгийн дараа хэрэглэнэ: халуун биш (not hot), хүйтэн биш (not cold). Товч дүрэм: юм байхгүй бол -гүй (цасгүй), тодорхойлолт тохирохгүй бол биш (халуун биш). Хоёуланг нэг өгүүлбэрт хэрэглэж болно: Хүйтэн биш, салхигүй.",
+  "examples": [
+   {
+    "mn": "Цасгүй өдөр.",
+    "en": "A day with no snow.",
+    "mn_latin": "Tsasgüi ödör."
+   },
+   {
+    "mn": "Салхигүй байна.",
+    "en": "There is no wind.",
+    "mn_latin": "Salkhigüi baina."
+   },
+   {
+    "mn": "Халуун биш байна.",
+    "en": "It isn't hot.",
+    "mn_latin": "Khaluun bish baina."
+   },
+   {
+    "mn": "Бороогүй, халуун биш.",
+    "en": "No rain, and not hot.",
+    "mn_latin": "Boroogüi, khaluun bish."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Өнөөдөр цас___.",
+   "answer": "гүй",
+   "options": [
+    "гүй",
+    "биш",
+    "тай",
+    "аас"
+   ],
+   "translation": "There is no snow today.",
+   "explain_en": "Цас (snow) is a thing that is missing, so add -гүй: цасгүй.",
+   "explain_mn": "Цас байхгүй байгаа тул -гүй нэмнэ: цасгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Өнөөдөр халуун ___.",
+   "answer": "биш",
+   "options": [
+    "биш",
+    "гүй",
+    "байхгүй",
+    "тай"
+   ],
+   "translation": "It isn't hot today.",
+   "explain_en": "Халуун is an adjective. To say it is not hot, use биш: халуун биш.",
+   "explain_mn": "Халуун бол тэмдэг нэр. \"Халуун биш\" гэж биш-ээр үгүйсгэнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Маргааш салхи___ өдөр байна.",
+   "answer": "гүй",
+   "options": [
+    "гүй",
+    "биш",
+    "оос",
+    "д"
+   ],
+   "translation": "Tomorrow will be a day with no wind.",
+   "explain_en": "Салхи (wind) is absent, so use -гүй: салхигүй өдөр (a windless day).",
+   "explain_mn": "Салхи байхгүй тул -гүй нэмнэ: салхигүй өдөр."
+  },
+  {
+   "lang": "en",
+   "text": "It ___ cold today.",
+   "answer": "isn't",
+   "options": [
+    "isn't",
+    "aren't",
+    "no",
+    "doesn't"
+   ],
+   "translation": "Өнөөдөр хүйтэн биш.",
+   "explain_en": "With the singular subject \"it\" and an adjective, use \"isn't\".",
+   "explain_mn": "\"It\" нэг тоотой, тэмдэг нэртэй тул isn't хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "There ___ no wind today.",
+   "answer": "is",
+   "options": [
+    "is",
+    "are",
+    "isn't",
+    "be"
+   ],
+   "translation": "Өнөөдөр салхигүй.",
+   "explain_en": "\"Wind\" is singular and uncountable here, so use \"There is no wind\".",
+   "explain_mn": "Wind нэг тоотой, тоологдохгүй нэр тул \"There is no wind\" гэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "There are ___ clouds in the sky.",
+   "answer": "no",
+   "options": [
+    "no",
+    "not",
+    "isn't",
+    "none"
+   ],
+   "translation": "Тэнгэрт үүл байхгүй.",
+   "explain_en": "Use \"no\" before a noun: no clouds. \"Not\" does not fit here.",
+   "explain_mn": "Нэр үгийн өмнө \"no\" хэрэглэнэ: no clouds. \"Not\" энд тохирохгүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Сайн уу, Том! Өнөөдөр цаг агаар ямар байна?",
+   "en": "Hi, Tom! What's the weather like today?",
+   "mn_latin": "Sain uu, Tom! Önöödör tsag agaar yamar baina?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Сайн уу, Сараа! Цасгүй, салхигүй байна.",
+   "en": "Hi, Saraa! There is no snow and no wind.",
+   "mn_latin": "Sain uu, Saraa! Tsasgüi, salkhigüi baina."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Хүйтэн үү?",
+   "en": "Is it cold?",
+   "mn_latin": "Khüiten üü?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Үгүй, хүйтэн биш.",
+   "en": "No, it isn't cold.",
+   "mn_latin": "Ügüi, khüiten bish."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Сайхан байна! Амралтын өдөр гадуур алхах уу?",
+   "en": "Great! Shall we go for a walk on our day off?",
+   "mn_latin": "Saikhan baina! Amraltyn ödör gaduur alkhakh uu?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тийм ээ. Бороо орохгүй гэсэн.",
+   "en": "Yes. They say it won't rain.",
+   "mn_latin": "Tiim ee. Boroo orokhgüi gesen."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэгвэл төлөвлөгөө бэлэн боллоо.",
+   "en": "Then our plan is ready.",
+   "mn_latin": "Tegvel tölövlögöö belen bolloo."
+  }
+ ],
+ "culture_note": {
+  "en": "Ulaanbaatar has a lot of clear, sunny days, even in winter, which is why Mongolia is called the \"Land of the Eternal Blue Sky.\" Winter days are often cold but dry, with little snow and little wind. People often check the weather report before weekend trips to the countryside or a ger camp.",
+  "mn": "Улаанбаатарт өвөл ч гэсэн цэлмэг, нартай өдөр их байдаг тул Монголыг \"Мөнх хөх тэнгэрийн орон\" гэдэг. Өвлийн өдрүүд ихэвчлэн хүйтэн ч цас, салхи багатай, хуурай байдаг. Хүмүүс амралтын өдрөөр хөдөө, жуулчны баазад явахаасаа өмнө цаг агаарын мэдээг үздэг."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 15,
+  "notes": "Mongolian content is mostly sound, but the Mongolian intro and grammar explanation describe English grammar rather than -гүй vs биш; a few minor items need tidying."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 10,
+  "notes": "Fixed several unnatural Mongolian sentences, a tense error, a misleading explanation, a grammar en/mn mismatch and a case error in the culture note.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "\"Тэнгэрт үүлгүй\" (locative + -гүй) is unnatural; the natural form is \"Тэнгэр үүлгүй\"."
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "en",
+    "why": "The English needs the future tense for tomorrow."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "mn",
+    "why": "\"Энэ цэлмэг өдөр үүлгүй байна\" is unnatural and redundant."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "en",
+    "why": "Matches the corrected Mongolian."
+   },
+   {
+    "section": "sentences",
+    "index": 10,
+    "field": "alt_en",
+    "why": "Aligns the alternatives with the new sentence."
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_en",
+    "why": "\"Амралтын төлөвлөгөө\" means plans for time off, not specifically the weekend. \"A weekend plan\" is also unnatural English."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Adds the quick rule so the mn version matches the en version."
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "\"Цас гэдэг нь байхгүй зүйл\" wrongly says snow is a nonexistent thing."
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "\"Сайхан байна\" is the natural way to say \"Great!\". \"Гадуур алхах\" is the natural way to say \"go for a walk\"."
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "\"...оронд гэдэг\" is wrong (\"оронд\" reads as \"instead of\"). The correct form is \"...орон гэдэг\"."
+   }
+  ]
+ }
+}

@@ -1,0 +1,441 @@
+{
+ "intro_en": "Learn to describe a lost item in detail: its shape, material, color, and condition. You will use -дуу/-дүү for 'a bit too / rather' and compare it with -втар for '-ish'.",
+ "intro_mn": "Гээсэн эд зүйлээ хэлбэр, материал, өнгө, байдлаар нь нарийн тайлбарлаж сурна. \"Бага зэрэг, жаахан\" гэсэн утгатай -дуу/-дүү дагаврыг хэрэглэж, түүнийг \"-ish\" гэсэн утгатай -втар дагавартай харьцуулна.",
+ "vocab": [
+  {
+   "mn": "арьсан",
+   "en": "leather (made of leather)",
+   "pos": "adjective",
+   "example_mn": "Миний түрийвч хар арьсан.",
+   "example_en": "My wallet is black leather.",
+   "mn_latin": "arisan"
+  },
+  {
+   "mn": "даавуун",
+   "en": "cloth, fabric (made of fabric)",
+   "pos": "adjective",
+   "example_mn": "Энэ даавуун цүнх хөнгөн.",
+   "example_en": "This cloth bag is light.",
+   "mn_latin": "daavuun"
+  },
+  {
+   "mn": "зураастай",
+   "en": "striped",
+   "pos": "adjective",
+   "example_mn": "Түүний ороолт улаан зураастай.",
+   "example_en": "Her scarf has red stripes.",
+   "mn_latin": "zuraastai"
+  },
+  {
+   "mn": "хагарсан",
+   "en": "cracked, broken",
+   "pos": "adjective",
+   "example_mn": "Утасны дэлгэц хагарсан.",
+   "example_en": "The phone screen is cracked.",
+   "mn_latin": "khagarsan"
+  },
+  {
+   "mn": "дөрвөлжин",
+   "en": "square, rectangular",
+   "pos": "adjective",
+   "example_mn": "Хайрцаг нь дөрвөлжин.",
+   "example_en": "The box is square.",
+   "mn_latin": "dörvöljin"
+  },
+  {
+   "mn": "булан",
+   "en": "corner",
+   "pos": "noun",
+   "example_mn": "Түрийвчний булан нь урагдсан.",
+   "example_en": "The corner of the wallet is torn.",
+   "mn_latin": "bulan"
+  },
+  {
+   "mn": "гэр",
+   "en": "case, cover",
+   "pos": "noun",
+   "example_mn": "Утасны гэр нь ногоон.",
+   "example_en": "The phone case is green.",
+   "mn_latin": "ger"
+  },
+  {
+   "mn": "түрийвч",
+   "en": "wallet",
+   "pos": "noun",
+   "example_mn": "Би түрийвчээ автобусанд гээсэн.",
+   "example_en": "I lost my wallet on the bus.",
+   "mn_latin": "türiivch"
+  },
+  {
+   "mn": "хуучиндуу",
+   "en": "rather old, a bit old",
+   "pos": "adjective",
+   "example_mn": "Цүнх маань жаахан хуучиндуу.",
+   "example_en": "My bag is a bit old.",
+   "mn_latin": "khuuchinduu"
+  },
+  {
+   "mn": "бариул",
+   "en": "handle",
+   "pos": "noun",
+   "example_mn": "Шүхрийн бариул нь модон.",
+   "example_en": "The handle of the umbrella is wooden.",
+   "mn_latin": "bariul"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Миний түрийвч хар арьсан, жаахан хуучиндуу.",
+   "en": "My wallet is black leather and a bit old.",
+   "alt_mn": [
+    "Миний түрийвч хар арьсан, бага зэрэг хуучиндуу."
+   ],
+   "alt_en": [
+    "My wallet is black leather and rather old.",
+    "My wallet is made of black leather and is a bit old."
+   ],
+   "mn_latin": "Minii türiivch khar arisan, jaakhan khuuchinduu."
+  },
+  {
+   "mn": "Түрийвчний булан нь бага зэрэг урагдсан.",
+   "en": "The corner of the wallet is slightly torn.",
+   "alt_mn": [
+    "Түрийвчний булан нь жаахан урагдсан."
+   ],
+   "alt_en": [
+    "The corner of the wallet is a little torn."
+   ],
+   "mn_latin": "Türiivchnii bulan ni baga zereg uragdsan."
+  },
+  {
+   "mn": "Утасны гэрний өнгө нь хөхөвтөр.",
+   "en": "The color of the phone case is bluish.",
+   "alt_mn": [
+    "Утасны гэр нь хөхөвтөр өнгөтэй."
+   ],
+   "alt_en": [
+    "The phone case is bluish."
+   ],
+   "mn_latin": "Utasny gernii öngö ni khökhövtör."
+  },
+  {
+   "mn": "Цүнх маань даавуун, хар цагаан зураастай.",
+   "en": "My bag is cloth, with black and white stripes.",
+   "alt_mn": [
+    "Миний цүнх даавуун, хар цагаан зураастай."
+   ],
+   "alt_en": [
+    "My bag is made of fabric and has black and white stripes."
+   ],
+   "mn_latin": "Tsünkh maani daavuun, khar tsagaan zuraastai."
+  },
+  {
+   "mn": "Дэлгэцний нэг булан нь хагарсан.",
+   "en": "One corner of the screen is cracked.",
+   "alt_mn": [],
+   "alt_en": [
+    "One of the corners of the screen is cracked."
+   ],
+   "mn_latin": "Delgetsnii neg bulan ni khagarsan."
+  },
+  {
+   "mn": "Шүхрийн бариул нь модон, жаахан уртдуу.",
+   "en": "The handle of the umbrella is wooden and a bit long.",
+   "alt_mn": [],
+   "alt_en": [
+    "The umbrella's handle is wooden and rather long."
+   ],
+   "mn_latin": "Shükhriin bariul ni modon, jaakhan urtduu."
+  },
+  {
+   "mn": "Энэ цүнх миний цүнхнээс томдуу юм.",
+   "en": "This bag is a bit bigger than mine.",
+   "alt_mn": [
+    "Энэ цүнх минийхээс томдуу юм."
+   ],
+   "alt_en": [
+    "This bag is slightly bigger than mine."
+   ],
+   "mn_latin": "Ene tsünkh minii tsünkhnees tomduu yum."
+  },
+  {
+   "mn": "Түлхүүрийн зүүлт нь улаавтар, дугуй хэлбэртэй.",
+   "en": "The keychain is reddish and round.",
+   "alt_mn": [
+    "Түлхүүрийн зүүлт нь улаавтар өнгөтэй, дугуй хэлбэртэй."
+   ],
+   "alt_en": [
+    "The keychain is reddish and round in shape."
+   ],
+   "mn_latin": "Tülkhüüriin züült ni ulaavtar, dugui khelbertei."
+  },
+  {
+   "mn": "Хайрцаг нь дөрвөлжин, тагны өнгө нь шар.",
+   "en": "The box is square, and the color of the lid is yellow.",
+   "alt_mn": [
+    "Хайрцаг нь дөрвөлжин, таг нь шар өнгөтэй."
+   ],
+   "alt_en": [
+    "The box is square and the lid is yellow."
+   ],
+   "mn_latin": "Khairtsag ni dörvöljin, tagny öngö ni shar."
+  },
+  {
+   "mn": "Ширээн дээрээс олдсон түрийвч жаахан жижигдүү байсан.",
+   "en": "The wallet found on the table was a bit small.",
+   "alt_mn": [],
+   "alt_en": [
+    "The wallet that was found on the table was rather small."
+   ],
+   "mn_latin": "Shireen deerees oldson türiivch jaakhan jijigdüü baisan."
+  },
+  {
+   "mn": "Та цүнхний хэлбэрийг тайлбарлаж өгөхгүй юу?",
+   "en": "Could you describe the shape of the bag?",
+   "alt_mn": [
+    "Та цүнхнийхээ хэлбэрийг тайлбарлаж өгнө үү?"
+   ],
+   "alt_en": [
+    "Can you describe the shape of the bag?"
+   ],
+   "mn_latin": "Ta tsünkhnii khelberiig tailbarlaj ögökhgüi yuu?"
+  },
+  {
+   "mn": "Хүрмийн цахилгаан нь эвдэрсэн, ханцуй нь жаахан богинодуу.",
+   "en": "The zipper of the jacket is broken, and the sleeves are a bit short.",
+   "alt_mn": [],
+   "alt_en": [
+    "The jacket's zipper is broken and the sleeves are rather short."
+   ],
+   "mn_latin": "Khürmiin tsakhilgaan ni evdersen, khantsui ni jaakhan boginoduu."
+  }
+ ],
+ "grammar": {
+  "title_en": "-дуу/-дүү ('a bit too, rather') vs. -втар ('-ish')",
+  "title_mn": "-дуу/-дүү (\"бага зэрэг, жаахан\") ба -втар (\"-ish\")",
+  "explain_en": "Add -дуу (back-vowel words) or -дүү (front-vowel words) to an adjective to mean 'rather X' or 'a bit too X', usually compared with what you expect or with another thing: хуучин → хуучиндуу (rather old), том → томдуу (a bit big), жижиг → жижигдүү (a bit small). It is often used with жаахан or бага зэрэг. -втар/-втэр/-втор/-втөр is different. It softens a quality, mostly a color, like English '-ish': улаан → улаавтар (reddish), хөх → хөхөвтөр (bluish). So улаавтар describes a shade, while томдуу tells you the item is bigger than expected.",
+  "explain_mn": "Тэмдэг нэрт -дуу (эр үг) эсвэл -дүү (эм үг) залгаж \"бага зэрэг X, жаахан хэтэрхий X\" гэсэн утга илэрхийлнэ. Ихэвчлэн хүлээж байснаас эсвэл өөр зүйлтэй харьцуулж хэлнэ: хуучин → хуучиндуу (rather old), том → томдуу (a bit big), жижиг → жижигдүү (a bit small). \"Жаахан\", \"бага зэрэг\" гэсэн үгтэй хамт олонтаа хэрэглэдэг. -втар/-втэр/-втор/-втөр нь өөр дагавар. Энэ нь шинж чанарыг, голдуу өнгийг сулруулж, англи хэлний \"-ish\"-тэй адил утга өгнө: улаан → улаавтар (reddish), хөх → хөхөвтөр (bluish). Тиймээс улаавтар нь өнгөний туяаг заадаг бол томдуу нь эд зүйл хүлээж байснаас том гэдгийг хэлнэ.",
+  "examples": [
+   {
+    "mn": "Миний цүнх жаахан хуучиндуу.",
+    "en": "My bag is a bit old.",
+    "mn_latin": "Minii tsünkh jaakhan khuuchinduu."
+   },
+   {
+    "mn": "Утасны гэр нь улаавтар өнгөтэй.",
+    "en": "The phone case is reddish.",
+    "mn_latin": "Utasny ger ni ulaavtar öngötei."
+   },
+   {
+    "mn": "Түрийвчний булан нь хагарсан.",
+    "en": "The corner of the wallet is cracked.",
+    "mn_latin": "Türiivchnii bulan ni khagarsan."
+   },
+   {
+    "mn": "Шүхрийн бариул нь жаахан уртдуу.",
+    "en": "The handle of the umbrella is a bit long.",
+    "mn_latin": "Shükhriin bariul ni jaakhan urtduu."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Миний түрийвч жаахан хуучин___.",
+   "answer": "дуу",
+   "options": [
+    "дуу",
+    "дүү",
+    "втар",
+    "тай"
+   ],
+   "translation": "My wallet is a bit old.",
+   "explain_en": "хуучин has back vowels, so it takes -дуу. Together with жаахан it means 'a bit old / rather old'.",
+   "explain_mn": "\"Хуучин\" эр үг тул -дуу авна. \"Жаахан хуучиндуу\" нь англиар \"a bit old\" гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Утасны гэр нь улаа___ өнгөтэй.",
+   "answer": "втар",
+   "options": [
+    "втар",
+    "дуу",
+    "втөр",
+    "тай"
+   ],
+   "translation": "The phone case is reddish.",
+   "explain_en": "For a softened color ('-ish'), use -втар. Улаан + -втар becomes улаавтар (reddish).",
+   "explain_mn": "Өнгийг сулруулж хэлэхэд -втар хэрэглэнэ: улаавтар = reddish. Англиар \"-ish\" дагавартай дүйнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Дэлгэцний нэг булан нь хагар___.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "сэн",
+    "дуу",
+    "тай"
+   ],
+   "translation": "One corner of the screen is cracked.",
+   "explain_en": "хагарсан ('cracked') is the past participle of хагарах. Back-vowel verbs take -сан.",
+   "explain_mn": "\"Хагарах\" үйл үг эр үг тул -сан авч \"хагарсан\" болно. Англиар \"is cracked\" гэж байдлыг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The corner ___ the wallet is torn.",
+   "answer": "of",
+   "options": [
+    "of",
+    "in",
+    "from",
+    "on"
+   ],
+   "translation": "Түрийвчний булан нь урагдсан.",
+   "explain_en": "Use 'of' to link a part (corner) to the thing it belongs to (the wallet).",
+   "explain_mn": "Хэсэг (corner) ба эд зүйлийг (wallet) \"of\"-оор холбоно. Монголын \"-ны/-ийн\" харьяалахын тийн ялгалтай дүйнэ."
+  },
+  {
+   "lang": "en",
+   "text": "What is the color ___ the phone case?",
+   "answer": "of",
+   "options": [
+    "of",
+    "for",
+    "at",
+    "with"
+   ],
+   "translation": "Утасны гэрний өнгө ямар вэ?",
+   "explain_en": "'The color of X' is the natural way to ask about a property of a thing.",
+   "explain_mn": "Эд зүйлийн шинж чанарыг асуухдаа \"the color of ...\", \"the shape of ...\" гэж хэлдэг."
+  },
+  {
+   "lang": "en",
+   "text": "The handle of the umbrella is a bit ___ long.",
+   "answer": "too",
+   "options": [
+    "too",
+    "to",
+    "very",
+    "so"
+   ],
+   "translation": "Шүхрийн бариул нь жаахан уртдуу.",
+   "explain_en": "'A bit too long' expresses the same idea as урттуу: longer than expected or than is ideal.",
+   "explain_mn": "\"A bit too long\" нь \"жаахан уртдуу\" гэсэнтэй дүйнэ. \"Too\"-г \"to\"-той андуурч болохгүй. \"Very\"-г \"a bit\"-ийн дараа хэрэглэдэггүй."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн байна уу? Би өчигдөр галт тэрэгний буудал дээр цүнхээ гээчихлээ.",
+   "en": "Hello. I lost my bag at the train station yesterday.",
+   "mn_latin": "Sain baina uu? Bi öchigdör galt teregnii buudal deer tsünkhee geechikhlee."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Сайн байна уу. Цүнх тань ямар харагддаг вэ?",
+   "en": "Hello. What does your bag look like?",
+   "mn_latin": "Sain baina uu. Tsünkh tani yamar kharagddag ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Даавуун, хөх цагаан зураастай. Жаахан хуучиндуу.",
+   "en": "It's cloth, with blue and white stripes. It's a bit old.",
+   "mn_latin": "Daavuun, khökh tsagaan zuraastai. Jaakhan khuuchinduu."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Бариулын өнгө нь ямар байсан бэ?",
+   "en": "What was the color of the handles?",
+   "mn_latin": "Bariulyn öngö ni yamar baisan be?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Арьсан бариултай, хүрэвтэр өнгөтэй. Нэг булан нь бага зэрэг урагдсан.",
+   "en": "It has leather handles, brownish in color. One corner of the bag is slightly torn.",
+   "mn_latin": "Arisan bariultai, khürevter öngötei. Neg bulan ni baga zereg uragdsan."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "Энэ цүнх үү? Гэхдээ энэ таных шиг биш, жаахан томдуу юм шиг байна.",
+   "en": "Is it this bag? But it doesn't look like yours. It seems a bit too big.",
+   "mn_latin": "Ene tsünkh üü? Gekhdee ene tanykh shig bish, jaakhan tomduu yum shig baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм ээ, энэ миний цүнх биш. Минийх жижигдүү.",
+   "en": "Right, that's not my bag. Mine is a bit smaller.",
+   "mn_latin": "Tiim ee, ene minii tsünkh bish. Miniikh jijigdüü."
+  },
+  {
+   "speaker": "Батболд",
+   "mn": "За, утасны дугаараа үлдээгээрэй. Олдвол бид тан руу залгана.",
+   "en": "Okay, please leave your phone number. If we find it, we'll call you.",
+   "mn_latin": "Za, utasny dugaaraa üldeegeerei. Oldvol bid tan ruu zalgana."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, people who lose items, especially ID cards and documents, often place short notices in newspapers, on TV, or online saying the document is lost and no longer valid. Today, Facebook groups for Ulaanbaatar districts are also a popular place to post photos and detailed descriptions of lost and found items.",
+  "mn": "Монголд эд зүйл, ялангуяа иргэний үнэмлэх, бичиг баримтаа гээсэн хүмүүс сонин, телевиз эсвэл цахим хуудсанд \"гээгдсэн тул хүчингүйд тооцно\" гэсэн зар өгдөг. Өнөө үед Улаанбаатарын дүүргүүдийн фэйсбүүк группт олдсон, гээгдсэн эд зүйлсийн зураг, дэлгэрэнгүй тайлбарыг нийтлэх нь түгээмэл болжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 1,
+  "notes": "A solid, accurate lesson. The only real error is the misspelled -втэр form хүрэнвтэр in the dialogue."
+ },
+ "opus_fix": {
+  "rating_before": 5,
+  "fixes": 8,
+  "notes": "Made the mn intro and grammar match the en topic (-дуу/-дүү vs -втар), changed урттуу to уртдуу everywhere, and made the dialogue question natural.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "mn intro described a different topic than en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Title must match title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "mn explanation covered English 'of' instead of the en topic"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "Standard form is уртдуу"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 3,
+    "field": "mn",
+    "why": "Standard form is уртдуу"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "Standard form is уртдуу"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "explain_mn",
+    "why": "Standard form is уртдуу"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "харагдалттай is unnatural"
+   }
+  ]
+ }
+}

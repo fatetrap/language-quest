@@ -1,0 +1,416 @@
+{
+ "intro_en": "You will learn to discuss words like an editor: coining new terms, weighing a loanword against a native word, and softening opinions with -х нь дээр and -х шиг байна. You will also review Mongolian derivation chains and English word families.",
+ "intro_mn": "Та шинэ нэр томьёо зохиох, гадаад үг болон монгол үгийн аль нь дээрийг сонгох, мөн -х нь дээр, -х шиг байна хэлбэрээр саналаа зөөлөн илэрхийлэх аргад суралцана. Түүнчлэн монгол үгийн үүсгэлийн гинж болон англи хэлний үгийн гэр бүлийг давтана.",
+ "vocab": [
+  {
+   "mn": "толь бичиг",
+   "en": "dictionary",
+   "pos": "noun",
+   "example_mn": "Энэ толь бичигт шинэ үг олон байна.",
+   "example_en": "This dictionary has many new words.",
+   "mn_latin": "toli bichig"
+  },
+  {
+   "mn": "нэр томьёо",
+   "en": "term, terminology",
+   "pos": "noun",
+   "example_mn": "Мэдээллийн технологийн нэр томьёог орчуулахад хэцүү.",
+   "example_en": "IT terminology is hard to translate.",
+   "mn_latin": "ner tomiyoo"
+  },
+  {
+   "mn": "шинэ үг",
+   "en": "new word, neologism",
+   "pos": "noun",
+   "example_mn": "Залуус өдөр бүр шинэ үг зохиодог.",
+   "example_en": "Young people coin new words every day.",
+   "mn_latin": "shine üg"
+  },
+  {
+   "mn": "утга",
+   "en": "meaning",
+   "pos": "noun",
+   "example_mn": "Энэ үгийн утга хоёр янз байна.",
+   "example_en": "This word has two meanings.",
+   "mn_latin": "utga"
+  },
+  {
+   "mn": "хэлц",
+   "en": "idiom, set phrase",
+   "pos": "noun",
+   "example_mn": "Энэ хэлцийг шууд орчуулж болохгүй.",
+   "example_en": "You can't translate this idiom literally.",
+   "mn_latin": "khelts"
+  },
+  {
+   "mn": "зээлсэн үг",
+   "en": "loanword",
+   "pos": "noun",
+   "example_mn": "«Компьютер» бол зээлсэн үг.",
+   "example_en": "\"Computer\" is a loanword.",
+   "mn_latin": "zeelsen üg"
+  },
+  {
+   "mn": "гарал",
+   "en": "origin, etymology",
+   "pos": "noun",
+   "example_mn": "Тэр үгийн гарлыг судалж байна.",
+   "example_en": "She is researching the origin of that word.",
+   "mn_latin": "garal"
+  },
+  {
+   "mn": "тодорхойлолт",
+   "en": "definition",
+   "pos": "noun",
+   "example_mn": "Толь бичгийн тодорхойлолт тодорхой биш байна.",
+   "example_en": "The dictionary definition is not clear.",
+   "mn_latin": "todorkhoilolt"
+  },
+  {
+   "mn": "бий болгох",
+   "en": "to create, bring into being",
+   "pos": "verb",
+   "example_mn": "Бид шинэ нэр томьёо бий болгох хэрэгтэй.",
+   "example_en": "We need to create new terminology.",
+   "mn_latin": "bii bolgokh"
+  },
+  {
+   "mn": "номлогч",
+   "en": "preacher",
+   "pos": "noun",
+   "example_mn": "Номлогч хүн хурал дээр үг хэллээ.",
+   "example_en": "The preacher spoke at the gathering.",
+   "mn_latin": "nomlogch"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ нэр томьёог монгол үгээр орчуулах нь дээр.",
+   "en": "It would be better to translate this term with a Mongolian word.",
+   "alt_mn": [],
+   "alt_en": [
+    "It's better to render this term in Mongolian."
+   ],
+   "mn_latin": "Ene ner tomiyoog mongol ügeer orchuulakh ni deer."
+  },
+  {
+   "mn": "Зээлсэн үгийг шууд хэрэглэх нь дээр юм шиг байна.",
+   "en": "It seems better to just use the loanword.",
+   "alt_mn": [],
+   "alt_en": [
+    "It looks like using the loanword directly is better."
+   ],
+   "mn_latin": "Zeelsen ügiig shuud khereglekh ni deer yum shig baina."
+  },
+  {
+   "mn": "Толь бичгийн редактор шинэ үгийг сайтар шалгадаг.",
+   "en": "The dictionary editor checks new words carefully.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Toli bichgiin ryedaktor shine ügiig saitar shalgadag."
+  },
+  {
+   "mn": "Энэ хэлцийн утгыг би сайн ойлгохгүй байна.",
+   "en": "I don't quite understand the meaning of this idiom.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene kheltsiin utgyg bi sain oilgokhgüi baina."
+  },
+  {
+   "mn": "Ном гэсэн язгуураас номлох, номлол, номлогч гэх мэт үгс үүснэ.",
+   "en": "From the root \"ном\" come words such as \"номлох\", \"номлол\" and \"номлогч\".",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Nom gesen yazguuraas nomlokh, nomlol, nomlogch gekh met ügs üüsne."
+  },
+  {
+   "mn": "Энэ үгийн гарлыг тодруулах нь дээр.",
+   "en": "It would be better to clarify the origin of this word.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene ügiin garlyg todruulakh ni deer."
+  },
+  {
+   "mn": "Залуус англи үгийг зээлэх дуртай шиг байна.",
+   "en": "Young people seem to like borrowing English words.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Zaluus angli ügiig zeelekh durtai shig baina."
+  },
+  {
+   "mn": "Энэ тодорхойлолтыг арай товч болгох нь дээр.",
+   "en": "It would be better to make this definition a bit shorter.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ene todorkhoiloltyg arai tovch bolgokh ni deer."
+  },
+  {
+   "mn": "Шинэ нэр томьёог ард түмэн хүлээж авах эсэх нь тодорхойгүй.",
+   "en": "It is unclear whether people will accept the new term.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Shine ner tomiyoog ard tümen khüleej avakh esekh ni todorkhoigüi."
+  },
+  {
+   "mn": "«Creative» гэдэг үгийг «бүтээлч» гэж орчуулах нь тохиромжтой шиг байна.",
+   "en": "Translating \"creative\" as \"бүтээлч\" seems appropriate.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "«Creative» gedeg ügiig «büteelch» gej orchuulakh ni tokhiromjtoi shig baina."
+  },
+  {
+   "mn": "Create, creative, creativity, creation, creator гэдэг нь нэг үгийн гэр бүл юм.",
+   "en": "Create, creative, creativity, creation and creator form one word family.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Create, creative, creativity, creation, creator gedeg ni neg ügiin ger bül yum."
+  },
+  {
+   "mn": "Үгийн утга контекстээс хамаарна гэж бодож байна.",
+   "en": "I think a word's meaning depends on context.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Ügiin utga kontyekstees khamaarna gej bodoj baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Hedged opinions: -х нь дээр and -х шиг байна; derivation chains",
+  "title_mn": "Зөөлөн санал: -х нь дээр, -х шиг байна; үүсгэлийн гинж",
+  "explain_en": "To suggest something politely, add -х нь дээр to a verb stem: орчуулах нь дээр = 'it'd be better to translate'. To say how things seem, use -х шиг байна (or a past/present form + шиг байна): хэрэглэх шиг байна = 'it seems they use it'. Both soften a claim, like 'might be better' or 'seems'. Derivation chains stack suffixes: ном (book) → номлох (to preach, verb -лах) → номлол (sermon, noun -л) → номлогч (preacher, agent -гч). Check each step's meaning, because it often shifts.",
+  "explain_mn": "Зөөлөн санал хэлэхдээ үйл үгийн үндсэнд -х нь дээр залгана: орчуулах нь дээр = 'орчуулбал дээр'. Ямар нэг зүйл юм шиг санагдаж байгааг -х шиг байна (эсвэл -сан/-даг шиг байна) хэлбэрээр илэрхийлнэ: хэрэглэх шиг байна = 'тэд хэрэглэх юм шиг байна'. Энэ хоёр хэлбэр хоёулаа саналыг зөөлрүүлнэ. Англиар 'might be better', 'seems' гэдэгтэй дүйнэ. Үүсгэлийн гинжид дагаврууд дараалан залгана: ном → номлох (үйл үг үүсгэх -лох) → номлол (нэр үг үүсгэх -л) → номлогч (үйлдэгчийг заах -гч). Алхам бүрт утга өөрчлөгдөх нь элбэг тул шалгаж байх хэрэгтэй.",
+  "examples": [
+   {
+    "mn": "Энэ үгийг сольж хэрэглэх нь дээр.",
+    "en": "It would be better to replace this word.",
+    "mn_latin": "Ene ügiig solij khereglekh ni deer."
+   },
+   {
+    "mn": "Тэд зээлсэн үгийг сонгосон шиг байна.",
+    "en": "It seems they chose the loanword.",
+    "mn_latin": "Ted zeelsen ügiig songoson shig baina."
+   },
+   {
+    "mn": "ном → номлох → номлол → номлогч",
+    "en": "book → to preach → sermon → preacher",
+    "mn_latin": "nom → nomlokh → nomlol → nomlogch"
+   },
+   {
+    "mn": "Нэр томьёог нэг мөр болгох нь дээр байх.",
+    "en": "It might be better to standardize the terms.",
+    "mn_latin": "Ner tomiyoog neg mör bolgokh ni deer baikh."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ нэр томьёог монгол үгээр орчуул___ нь дээр.",
+   "answer": "ах",
+   "options": [
+    "ах",
+    "на",
+    "жээ",
+    "даг"
+   ],
+   "translation": "It would be better to translate this term with a Mongolian word.",
+   "explain_en": "-х nominalizes the verb before нь дээр; the stem орчуул- has a back vowel (у), so the form is -ах.",
+   "explain_mn": "«нь дээр»-ийн өмнө үйл үг -х нөхцөлтэй байна; орчуул- үндэс эр эгшигтэй (у) тул эгшиг зохицох ёсоор -ах залгана."
+  },
+  {
+   "lang": "mn",
+   "text": "Тэд шинэ үг бий болгосон ___ байна.",
+   "answer": "шиг",
+   "options": [
+    "шиг",
+    "нь",
+    "ч",
+    "бол"
+   ],
+   "translation": "It seems they created a new word.",
+   "explain_en": "Past form + шиг байна expresses an impression: 'it seems that'.",
+   "explain_mn": "«-сан шиг байна» нь таамаглал, сэтгэгдлийг илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "ном → номлох → номлол → номл___",
+   "answer": "огч",
+   "options": [
+    "огч",
+    "лага",
+    "гүй",
+    "сон"
+   ],
+   "translation": "book → to preach → sermon → preacher",
+   "explain_en": "The agent suffix -гч attaches to the verb stem номло- (from номлох): номло + гч = номлогч.",
+   "explain_mn": "Үйлдэгчийг заах -гч дагавар номлох үйл үгийн үндэс номло-д залгаж номлогч болно."
+  },
+  {
+   "lang": "en",
+   "text": "She has a lot of ___; her designs are always original.",
+   "answer": "creativity",
+   "options": [
+    "creativity",
+    "creation",
+    "creator",
+    "create"
+   ],
+   "translation": "Түүнд бүтээлч чадвар их байдаг; загварууд нь үргэлж өвөрмөц.",
+   "explain_en": "We need an abstract noun for a quality: -ity (creativity).",
+   "explain_mn": "Чадвар, чанарыг заасан хийсвэр нэр үг хэрэгтэй тул creativity."
+  },
+  {
+   "lang": "en",
+   "text": "The ___ of the new dictionary took ten years.",
+   "answer": "creation",
+   "options": [
+    "creation",
+    "creative",
+    "creator",
+    "creatively"
+   ],
+   "translation": "Шинэ толь бичиг зохиох ажил арван жил үргэлжилсэн.",
+   "explain_en": "-ion forms a noun for the process or result of creating.",
+   "explain_mn": "-ion нь үйл явц, үр дүнг заасан нэр үг үүсгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "He is the ___ of that term.",
+   "answer": "creator",
+   "options": [
+    "creator",
+    "creative",
+    "creation",
+    "creativity"
+   ],
+   "translation": "Тэр бол тэр нэр томьёог бий болгосон хүн.",
+   "explain_en": "-or marks the person who does the action.",
+   "explain_mn": "-or нь үйлийг хийгч хүнийг заана."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Солонго",
+   "mn": "Бид «software» гэдэг үгийг яаж орчуулах вэ?",
+   "en": "How should we translate the word \"software\"?",
+   "mn_latin": "Bid «software» gedeg ügiig yaaj orchuulakh ve?"
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Зээлсэн үг хэвээр нь үлдээх нь дээр юм шиг байна.",
+   "en": "It seems better to keep it as a loanword.",
+   "mn_latin": "Zeelsen üg kheveer ni üldeekh ni deer yum shig baina."
+  },
+  {
+   "speaker": "Солонго",
+   "mn": "Гэхдээ «программ хангамж» гэдэг монгол үг аль хэдийн байна.",
+   "en": "But there is already a Mongolian term, \"программ хангамж\".",
+   "mn_latin": "Gekhdee «programm khangamj» gedeg mongol üg ali khediin baina."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тийм үү? Хүмүүс үүнийг хэр их хэрэглэдэг вэ?",
+   "en": "Really? How much do people use it?",
+   "mn_latin": "Tiim üü? Khümüüs üüniig kher ikh kheregledeg ve?"
+  },
+  {
+   "speaker": "Солонго",
+   "mn": "Албан бичигт их хэрэглэдэг, харин залуус ярианд «софт» гэдэг.",
+   "en": "In official writing a lot, but young people say \"софт\" in speech.",
+   "mn_latin": "Alban bichigt ikh kheregledeg, kharin zaluus yariand «soft» gedeg."
+  },
+  {
+   "speaker": "Michael",
+   "mn": "Тэгвэл толь бичигт хоёуланг нь оруулах нь дээр байх.",
+   "en": "Then it might be better to include both in the dictionary.",
+   "mn_latin": "Tegvel toli bichigt khoyoulang ni oruulakh ni deer baikh."
+  },
+  {
+   "speaker": "Солонго",
+   "mn": "Зөв, тодорхойлолт болон хэрэглээний жишээг хамт өгье.",
+   "en": "Right, let's give a definition and usage examples together.",
+   "mn_latin": "Zöv, todorkhoilolt bolon kheregleenii jisheeg khamt ögiye."
+  }
+ ],
+ "culture_note": {
+  "en": "Mongolian has enriched its vocabulary through Russian, English and older Tibetan and Sanskrit loans, and linguists often debate whether to adopt a foreign word or coin a native term. Bodies such as the National Council for Mongolian Language Policy and the Institute of Language and Literature help shape which new terms enter standard dictionaries. Derivation with suffixes makes coining native words especially productive.",
+  "mn": "Монгол хэл орос, англи, мөн эртний төвд, санскрит гаралтай үгсээр баяжиж ирсэн бөгөөд хэл судлаачид гадаад үгийг зээлэх үү, эсвэл монгол үг зохиох уу гэдгийг байнга хэлэлцдэг. Монгол хэлний бодлогын үндэсний зөвлөл, Хэл зохиолын хүрээлэн зэрэг байгууллага шинэ нэр томьёог стандарт толь бичигт оруулахад нөлөөлдөг. Дагавараар үг үүсгэх нь монгол үг зохиоход онцгой үр өгөөжтэй арга юм."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 8,
+  "notes": "Mostly good, but a few explanations are inaccurate (including the Mongolian grammar explanation) and some wording is unnatural."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 11,
+  "notes": "Fixed a made-up word, a misspelling, an ambiguous blank, and Mongolian explanations that did not match the English.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'язгуур-өнчлөл' is not a real word; this phrase means 'word family'"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "en",
+    "why": "дуртай means 'like', not 'prefer'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The Mongolian version glossed Mongolian with Mongolian and left out parts of the English explanation"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'орчуулсан нь дээр' is also correct, so 'сан' cannot be a wrong option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "Matches the English: adds the vowel harmony reason"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "The о belongs to the stem; it is not a linking vowel"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "Same correction in Mongolian"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'that term' = тэр, not энэ"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "'нь дээр шиг байна' is unnatural, and 'Зээлсэн хэвээр' was missing үг"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "'Language festivals' is inaccurate; replaced with a real institution"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Fixes 'судлаарууд' to 'судлаачид', replaces 'Хэлний наадам' with a real body, and corrects 'онцгой боломжтой'"
+   }
+  ]
+ }
+}

@@ -1,0 +1,454 @@
+{
+ "intro_en": "You will learn how to make your arguments stronger in a debate round, using emphasis words like үнэхээр, ялангуяа and зөвхөн, Mongolian emphatic particles, and English cleft sentences and inversion.",
+ "intro_mn": "Та мэтгэлцээний үеэр үнэхээр, ялангуяа, зөвхөн зэрэг үгс, монгол хэлний онцлох сул үгс, англи хэлний cleft өгүүлбэр болон урвуу дарааллыг ашиглан санаагаа илүү хүчтэй илэрхийлж сурна.",
+ "vocab": [
+  {
+   "mn": "үнэхээр",
+   "en": "really, truly",
+   "pos": "adverb",
+   "example_mn": "Энэ асуудал үнэхээр чухал.",
+   "example_en": "This issue is truly important.",
+   "mn_latin": "ünekheer"
+  },
+  {
+   "mn": "ялангуяа",
+   "en": "especially",
+   "pos": "adverb",
+   "example_mn": "Ялангуяа хөдөөгийн сургуулиудад багш дутагдаж байна.",
+   "example_en": "Teachers are lacking especially in rural schools.",
+   "mn_latin": "yalanguyaa"
+  },
+  {
+   "mn": "яг",
+   "en": "exactly, precisely",
+   "pos": "adverb",
+   "example_mn": "Миний хэлэх гэсэн нь яг энэ.",
+   "example_en": "This is exactly what I mean.",
+   "mn_latin": "yag"
+  },
+  {
+   "mn": "зөвхөн",
+   "en": "only, solely",
+   "pos": "adverb",
+   "example_mn": "Зөвхөн мөнгө бол амжилт биш.",
+   "example_en": "Money alone is not success.",
+   "mn_latin": "zövkhön"
+  },
+  {
+   "mn": "огт",
+   "en": "not at all, at all",
+   "pos": "adverb",
+   "example_mn": "Би тэр саналтай огт санал нийлэхгүй байна.",
+   "example_en": "I do not agree with that proposal at all.",
+   "mn_latin": "ogt"
+  },
+  {
+   "mn": "чухамдаа",
+   "en": "in fact, essentially",
+   "pos": "adverb",
+   "example_mn": "Чухамдаа асуудал мөнгөнд биш, боломжид байна.",
+   "example_en": "In fact, the problem is not money but opportunity.",
+   "mn_latin": "chukhamdaa"
+  },
+  {
+   "mn": "нотлох",
+   "en": "to prove",
+   "pos": "verb",
+   "example_mn": "Бид энэ санаагаа баримтаар нотолж чадна.",
+   "example_en": "We can prove this claim with facts.",
+   "mn_latin": "notlokh"
+  },
+  {
+   "mn": "үндэслэл",
+   "en": "reasoning, grounds",
+   "pos": "noun",
+   "example_mn": "Таны үндэслэл надад үнэмшилтэй санагдсангүй.",
+   "example_en": "Your reasoning did not seem convincing to me.",
+   "mn_latin": "ündeslel"
+  },
+  {
+   "mn": "няцаах",
+   "en": "to refute",
+   "pos": "verb",
+   "example_mn": "Эсрэг тал манай аргументыг няцаасангүй.",
+   "example_en": "The opposing side did not refute our argument.",
+   "mn_latin": "nyatsaakh"
+  },
+  {
+   "mn": "ятгах",
+   "en": "to persuade",
+   "pos": "verb",
+   "example_mn": "Шүүгчдийг ятгахын тулд тодорхой жишээ хэрэгтэй.",
+   "example_en": "To persuade the judges, you need a clear example.",
+   "mn_latin": "yatgakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Энэ нь үнэхээр чухал асуудал.",
+   "en": "This is a truly important issue.",
+   "alt_mn": [
+    "Энэ үнэхээр чухал асуудал."
+   ],
+   "alt_en": [
+    "This is a really important issue."
+   ],
+   "mn_latin": "Ene ni ünekheer chukhal asuudal."
+  },
+  {
+   "mn": "Ялангуяа залуучуудад боломж хэрэгтэй.",
+   "en": "Young people especially need opportunities.",
+   "alt_mn": [
+    "Залуучуудад ялангуяа боломж хэрэгтэй."
+   ],
+   "alt_en": [
+    "Opportunities are needed especially for young people."
+   ],
+   "mn_latin": "Yalanguyaa zaluuchuudad bolomj kheregtei."
+  },
+  {
+   "mn": "Би таны саналтай огт санал нийлэхгүй байна.",
+   "en": "I do not agree with your proposal at all.",
+   "alt_mn": [],
+   "alt_en": [
+    "I don't agree with your proposal at all."
+   ],
+   "mn_latin": "Bi tany sanaltai ogt sanal niilekhgüi baina."
+  },
+  {
+   "mn": "Зөвхөн сургуулийн барилгыг шинэчлэх нь хангалтгүй.",
+   "en": "Only renovating the school building is not enough.",
+   "alt_mn": [],
+   "alt_en": [
+    "Just renovating the school building is not enough."
+   ],
+   "mn_latin": "Zövkhön surguuliin barilgyg shinechlekh ni khangaltgüi."
+  },
+  {
+   "mn": "Чухамдаа бидэнд сайн багш дутагдаж байна.",
+   "en": "In fact, what we lack is good teachers.",
+   "alt_mn": [],
+   "alt_en": [
+    "Essentially, we lack good teachers."
+   ],
+   "mn_latin": "Chukhamdaa bidend sain bagsh dutagdaj baina."
+  },
+  {
+   "mn": "Хүүхдийн ирээдүйг тодорхойлдог зүйл бол боловсрол юм.",
+   "en": "It is education that determines a child's future.",
+   "alt_mn": [
+    "Хүүхдийн ирээдүйг тодорхойлдог нь боловсрол."
+   ],
+   "alt_en": [
+    "What determines a child's future is education."
+   ],
+   "mn_latin": "Khüükhdiin ireedüig todorkhoildog züil bol bolovsrol yum."
+  },
+  {
+   "mn": "Миний хэлэх гэсэн нь яг энэ: бид өөрчлөлт хийх ёстой.",
+   "en": "What I mean is exactly this: we must make a change.",
+   "alt_mn": [],
+   "alt_en": [
+    "What I mean is precisely this: we have to make a change."
+   ],
+   "mn_latin": "Minii khelekh gesen ni yag ene: bid öörchlölt khiikh yostoi."
+  },
+  {
+   "mn": "Би хэзээ ч ийм хүчтэй үндэслэл сонсож байгаагүй.",
+   "en": "Never have I heard such a strong argument.",
+   "alt_mn": [
+    "Ийм хүчтэй үндэслэлийг би хэзээ ч сонсож байгаагүй."
+   ],
+   "alt_en": [
+    "I have never heard such a strong argument."
+   ],
+   "mn_latin": "Bi khezee ch iim khüchtei ündeslel sonsoj baigaagüi."
+  },
+  {
+   "mn": "Хүмүүс хот руу нүүдэг шалтгаан нь ажлын байр.",
+   "en": "The reason why people move to the city is jobs.",
+   "alt_mn": [
+    "Хүмүүс хот руу нүүдэг шалтгаан нь ажлын байр байдаг."
+   ],
+   "alt_en": [
+    "The reason people move to the city is jobs."
+   ],
+   "mn_latin": "Khümüüs khot ruu nüüdeg shaltgaan ni ajlyn bair."
+  },
+  {
+   "mn": "Та ч гэсэн энэ үнэнийг хүлээн зөвшөөрөх ёстой.",
+   "en": "You too must accept this truth.",
+   "alt_mn": [],
+   "alt_en": [
+    "You also have to accept this truth."
+   ],
+   "mn_latin": "Ta ch gesen ene üneniig khüleen zövshöörökh yostoi."
+  },
+  {
+   "mn": "Хөдөөгийн сургууль бол зүгээр нэг барилга биш шүү дээ.",
+   "en": "A village school is not just a building, you know.",
+   "alt_mn": [
+    "Хөдөөгийн сургууль бол зүгээр нэг барилга биш юм шүү дээ."
+   ],
+   "alt_en": [
+    "After all, a village school is not just a building."
+   ],
+   "mn_latin": "Khödöögiin surguuli bol zügeer neg barilga bish shüü dee."
+  },
+  {
+   "mn": "Бид баримтаар нотолж, эсрэг талын үндэслэлийг няцаасан.",
+   "en": "We proved it with facts and refuted the opposing side's reasoning.",
+   "alt_mn": [],
+   "alt_en": [
+    "We backed it up with facts and refuted the other side's argument."
+   ],
+   "mn_latin": "Bid barimtaar notolj, esreg talyn ündesleliig nyatsaasan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Emphatic particles in Mongolian (ч, бол, шүү дээ) and English clefts and inversion",
+  "title_mn": "Монгол хэлний онцлох сул үгс (ч, бол, шүү дээ), англи хэлний cleft өгүүлбэр ба урвуу дараалал",
+  "explain_en": "Mongolian usually adds emphasis with small particles and stress words. The particle ч after a word means 'even' or 'also': Багш ч мэдэхгүй, 'Even the teacher doesn't know.' Бол marks the topic and contrasts it: Боловсрол бол хамгийн чухал, 'Education, that is what matters most.' Шүү дээ adds 'you know' or 'after all' and reminds the listener of something obvious. Words like үнэхээр, ялангуяа, яг, зөвхөн and огт usually go before the word they stress. English often changes sentence structure instead. Cleft sentences: 'It is education that matters' (Чухал нь боловсрол юм), 'What I mean is...' (Миний хэлэх гэсэн нь...), 'The reason why... is...' (...шалтгаан нь...). Inversion: when a sentence starts with a negative word, the auxiliary verb comes before the subject: 'Never have I seen...', 'Not only did he...'. 'Never have I seen' sounds stronger than the normal 'I have never seen'.",
+  "explain_mn": "Монгол хэлэнд онцлохдоо ихэвчлэн сул үг болон онцлох үг нэмдэг. Үгийн дараах ч нь 'хүртэл' буюу 'бас' гэсэн утгатай: Багш ч мэдэхгүй, 'Even the teacher doesn't know.' Бол нь сэдвийг тодотгож, бусдаас ялгаж онцолно: Боловсрол бол хамгийн чухал. Шүү дээ нь 'you know', 'after all' гэсэн утгаар илэрхий зүйлийг сонсогчид сануулна. Үнэхээр, ялангуяа, яг, зөвхөн, огт зэрэг үг ихэвчлэн онцлох үгийнхээ өмнө орно. Харин англи хэлэнд өгүүлбэрийн бүтцийг өөрчилдөг. Cleft өгүүлбэр: 'It is education that matters' (Чухал нь боловсрол юм), 'What I mean is...' (Миний хэлэх гэсэн нь...), 'The reason why... is...' (...шалтгаан нь...). Урвуу дараалал: өгүүлбэр сөрөг утгатай үгээр эхэлбэл туслах үйл үг өгүүлэгдэхүүний өмнө орно: 'Never have I seen...', 'Not only did he...'. Энгийн дарааллаар 'I have never seen' гэхээс 'Never have I seen' илүү хүчтэй сонсогдоно.",
+  "examples": [
+   {
+    "mn": "Багш ч энэ асуултад хариулж чадсангүй.",
+    "en": "Even the teacher could not answer this question.",
+    "mn_latin": "Bagsh ch ene asuultad khariulj chadsangüi."
+   },
+   {
+    "mn": "Боловсрол бол ирээдүйн түлхүүр.",
+    "en": "Education is the key to the future.",
+    "mn_latin": "Bolovsrol bol ireedüin tülkhüür."
+   },
+   {
+    "mn": "Хүн бүр боломж авах ёстой шүү дээ.",
+    "en": "Everyone should get a chance, after all.",
+    "mn_latin": "Khün bür bolomj avakh yostoi shüü dee."
+   },
+   {
+    "mn": "Хэзээ ч ийм сайхан мэтгэлцээн үзэж байгаагүй.",
+    "en": "Never have I seen such a great debate.",
+    "mn_latin": "Khezee ch iim saikhan metgeltseen üzej baigaagüi."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ шийдвэр ___ буруу байсан.",
+   "answer": "үнэхээр",
+   "options": [
+    "үнэхээр",
+    "зөвхөн",
+    "ялангуяа",
+    "яг"
+   ],
+   "translation": "This decision was truly wrong.",
+   "explain_en": "Үнэхээр means 'truly' and strengthens an adjective or statement. Зөвхөн means 'only' and does not fit here.",
+   "explain_mn": "Үнэхээр нь тэмдэг нэр, дүгнэлтийг баталж онцолно. Зөвхөн нь 'ганц' гэсэн утгатай тул энд тохирохгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Би тэр саналтай ___ санал нийлэхгүй.",
+   "answer": "огт",
+   "options": [
+    "огт",
+    "ялангуяа",
+    "үнэхээр",
+    "яг"
+   ],
+   "translation": "I do not agree with that proposal at all.",
+   "explain_en": "Огт is used with a negative verb to mean 'at all'.",
+   "explain_mn": "Огт нь үгүйсгэсэн үйл үгтэй хамт 'огтхон ч' гэсэн утга өгнө."
+  },
+  {
+   "lang": "mn",
+   "text": "Багш ___ энэ асуудлыг мэдэхгүй байсан.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "ийн",
+    "руу",
+    "юм"
+   ],
+   "translation": "Even the teacher did not know about this issue.",
+   "explain_en": "The particle ч after a noun means 'even', stressing that this is surprising.",
+   "explain_mn": "Нэр үгийн дараах ч нь 'хүртэл' гэсэн утгатай бөгөөд гэнэтийн байдлыг онцолно."
+  },
+  {
+   "lang": "en",
+   "text": "It is education ___ changes people's lives.",
+   "answer": "that",
+   "options": [
+    "that",
+    "what",
+    "where",
+    "who is"
+   ],
+   "translation": "Боловсрол бол хүмүүсийн амьдралыг өөрчилдөг зүйл юм.",
+   "explain_en": "In a cleft sentence 'It is X that...' we use 'that' to introduce the clause.",
+   "explain_mn": "'It is X that...' бүтэцтэй cleft өгүүлбэрт онцолсон үгийн дараа 'that' орно."
+  },
+  {
+   "lang": "en",
+   "text": "Never ___ I heard such a convincing speech.",
+   "answer": "have",
+   "options": [
+    "have",
+    "had been",
+    "did",
+    "am"
+   ],
+   "translation": "Би хэзээ ч ийм үнэмшилтэй илтгэл сонсож байгаагүй.",
+   "explain_en": "After 'Never' at the start, the auxiliary comes before the subject: 'Never have I...'.",
+   "explain_mn": "'Never' өгүүлбэрийн эхэнд ирвэл туслах үйл үг өгүүлэгдэхүүний өмнө орно: 'Never have I...'."
+  },
+  {
+   "lang": "en",
+   "text": "___ I mean is that we need better teachers.",
+   "answer": "What",
+   "options": [
+    "What",
+    "That",
+    "Which",
+    "Why"
+   ],
+   "translation": "Миний хэлэх гэсэн нь бидэнд илүү сайн багш хэрэгтэй гэсэн үг.",
+   "explain_en": "'What I mean is...' is a fixed cleft phrase used to clarify your point.",
+   "explain_mn": "'What I mean is...' нь санаагаа тодруулахад хэрэглэдэг тогтсон cleft хэллэг."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bolor",
+   "mn": "Миний бодлоор хөдөөгийн сургууль бол хотын сургуулиас дутахгүй.",
+   "en": "In my opinion, a village school is no worse than a city school.",
+   "mn_latin": "Minii bodloor khödöögiin surguuli bol khotyn surguulias dutakhgüi."
+  },
+  {
+   "speaker": "James",
+   "mn": "Би огт санал нийлэхгүй байна. Ялангуяа тоног төхөөрөмжийн хувьд ялгаа их.",
+   "en": "I don't agree at all. The difference is big, especially in equipment.",
+   "mn_latin": "Bi ogt sanal niilekhgüi baina. Yalanguyaa tonog tökhöörömjiin khuvid yalgaa ikh."
+  },
+  {
+   "speaker": "Bolor",
+   "mn": "Харин чухамдаа хүүхдэд сурах түлхэц өгдөг зүйл бол багш.",
+   "en": "But in fact, what pushes a child to learn is the teacher.",
+   "mn_latin": "Kharin chukhamdaa khüükhded surakh tülkhets ögdög züil bol bagsh."
+  },
+  {
+   "speaker": "James",
+   "mn": "Зөвхөн сайн багш хангалттай юу? Сурах орчин ч чухал шүү дээ.",
+   "en": "Is a good teacher alone enough? The learning environment matters too, you know.",
+   "mn_latin": "Zövkhön sain bagsh khangalttai yuu? Surakh orchin ch chukhal shüü dee."
+  },
+  {
+   "speaker": "Bolor",
+   "mn": "Миний хэлэх гэсэн нь яг энэ: орчныг сайжруулж болно, гэхдээ сайн багшийг юугаар ч орлуулж чадахгүй.",
+   "en": "What I mean is exactly this: you can improve the environment, but you can't replace a good teacher.",
+   "mn_latin": "Minii khelekh gesen ni yag ene: orchnyg saijruulj bolno, gekhdee sain bagshiig yuugaar ch orluulj chadakhgüi."
+  },
+  {
+   "speaker": "James",
+   "mn": "Би хэзээ ч ийм хүчтэй үндэслэл сонсож байгаагүй гэж хэлж чадахгүй, гэхдээ чи намайг үнэхээр ятгалаа.",
+   "en": "I can't say I've never heard such a strong argument, but you really did persuade me.",
+   "mn_latin": "Bi khezee ch iim khüchtei ündeslel sonsoj baigaagüi gej khelj chadakhgüi, gekhdee chi namaig ünekheer yatgalaa."
+  },
+  {
+   "speaker": "Bolor",
+   "mn": "Баярлалаа! Одоо шүүгчдийг ятгах л үлдлээ.",
+   "en": "Thanks! Now all that's left is to persuade the judges.",
+   "mn_latin": "Bayarlalaa! Odoo shüügchdiig yatgakh l üldlee."
+  }
+ ],
+ "culture_note": {
+  "en": "Debate clubs have grown popular in Ulaanbaatar's universities and high schools, and many students compete in English as well as Mongolian. Mongolian speakers often show emphasis through tone and particles such as ч and шүү дээ rather than by changing word order, so learners should listen for them. In English debates, clefts and inversions like 'Never have we seen...' help a speaker sound confident and formal.",
+  "mn": "Улаанбаатарын их дээд сургууль, ахлах сургуулиудад мэтгэлцээний клуб түгээмэл болж, олон оюутан монгол болон англи хэлээр өрсөлддөг. Монголчууд онцлохдоо үгийн дарааллыг өөрчлөхөөсөө илүү өнгө аяс болон ч, шүү дээ зэрэг сул үг ихэвчлэн хэрэглэдэг тул суралцагчид эдгээрийг анхааралтай сонсох хэрэгтэй. Англи мэтгэлцээнд cleft өгүүлбэр, 'Never have we seen...' зэрэг урвуу дараалал нь илтгэгчийг итгэлтэй, албан ёсны мэт сонсогдуулдаг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 18,
+  "notes": "Good concept, but the particle 'шүү дээ' is misspelled repeatedly, a few Mongolian sentences are unnatural, and some translations are inexact."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 12,
+  "notes": "Fixed a nonstandard grammar term, calques and unnatural Mongolian wording, mismatched en/mn grammar explanations and culture note, and a fill-in-the-blank with two possible answers.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'эгшээлэх' is not a standard term; use 'онцлох сул үг'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Nonstandard term replaced; title now matches the English title"
+   },
+   {
+    "section": "vocab",
+    "index": 6,
+    "field": "example_mn",
+    "why": "'үзэл баримтлал' means concept/doctrine, not claim"
+   },
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "'итгэлтэй' means confident; 'convincing' is 'үнэмшилтэй'"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "en and mn explanations covered different content; now they match"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Matches the en explanation; 'шүү дээ' instead of colloquial 'ш дээ'; correct term 'туслах үйл үг'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "options",
+    "why": "'бол' also fits grammatically, so the answer was not unique"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "'ятгалгатай үг хэлэхийг' is unnatural and has the wrong meaning"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'сурахад түлхдэг' is an unnatural calque"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'оронд нь тавих' does not mean 'replace'; use 'орлуулах'"
+   },
+   {
+    "section": "dialogue",
+    "index": 5,
+    "field": "mn",
+    "why": "Object 'намайг' was missing, which is needed to match 'persuaded me'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "mn version did not match en (listening advice and clefts were missing); 'албан ёсны сонсогдуулдаг' was ungrammatical"
+   }
+  ]
+ }
+}

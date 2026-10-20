@@ -1,0 +1,479 @@
+{
+ "intro_en": "You will learn how to warn a relative about online banking scams and fake phone calls, and how to talk about fraud. You will also practice embedded questions such as 'whether it is true' (-х эсэхийг) and English 'Do you know if...' and 'I wonder whether...'.",
+ "intro_mn": "Та онлайн банкны луйвар, хуурамч дуудлагын талаар хамаатан садандаа сануулж, луйврын тухай ярьж сурна. Мөн «-х эсэхийг» бүтэцтэй дам асуулт болон англи хэлний «Do you know if...», «I wonder whether...» хэллэгийг дадлагажуулна.",
+ "vocab": [
+  {
+   "mn": "луйвар",
+   "en": "fraud, swindle",
+   "pos": "noun",
+   "example_mn": "Энэ бол жинхэнэ луйвар байна.",
+   "example_en": "This is a real swindle.",
+   "mn_latin": "luivar"
+  },
+  {
+   "mn": "залилан",
+   "en": "scam, deception",
+   "pos": "noun",
+   "example_mn": "Интернэт залилан ихэссэн.",
+   "example_en": "Online scams have increased.",
+   "mn_latin": "zalilan"
+  },
+  {
+   "mn": "залилагч",
+   "en": "scammer, fraudster",
+   "pos": "noun",
+   "example_mn": "Залилагч надад банкны ажилтан гэж хэлсэн.",
+   "example_en": "The scammer told me he was a bank employee.",
+   "mn_latin": "zalilagch"
+  },
+  {
+   "mn": "данс",
+   "en": "account",
+   "pos": "noun",
+   "example_mn": "Миний дансны мөнгө алга болсон.",
+   "example_en": "The money in my account has disappeared.",
+   "mn_latin": "dans"
+  },
+  {
+   "mn": "нууц код",
+   "en": "PIN / secret code",
+   "pos": "noun",
+   "example_mn": "Нууц кодоо хэнд ч бүү хэл.",
+   "example_en": "Don't tell your PIN to anyone.",
+   "mn_latin": "nuuts kod"
+  },
+  {
+   "mn": "хохирол",
+   "en": "damage, loss",
+   "pos": "noun",
+   "example_mn": "Тэр их хохирол амссан.",
+   "example_en": "He suffered a big loss.",
+   "mn_latin": "khokhirol"
+  },
+  {
+   "mn": "мэдээлэл алдах",
+   "en": "to leak / lose personal information",
+   "pos": "verb phrase",
+   "example_mn": "Линк дээр дарснаар мэдээлэл алдаж болно.",
+   "example_en": "You can lose your information by clicking on a link.",
+   "mn_latin": "medeelel aldakh"
+  },
+  {
+   "mn": "шалгах",
+   "en": "to check, verify",
+   "pos": "verb",
+   "example_mn": "Дугаарыг эхлээд шалгаарай.",
+   "example_en": "Check the number first.",
+   "mn_latin": "shalgakh"
+  },
+  {
+   "mn": "найдвартай",
+   "en": "reliable, trustworthy, secure",
+   "pos": "adjective",
+   "example_mn": "Энэ вэбсайт найдвартай юу?",
+   "example_en": "Is this website trustworthy?",
+   "mn_latin": "naidvartai"
+  },
+  {
+   "mn": "хуурамч",
+   "en": "fake, counterfeit",
+   "pos": "adjective",
+   "example_mn": "Хуурамч дуудлага өчигдөр ирсэн.",
+   "example_en": "A fake call came yesterday.",
+   "mn_latin": "khuuramch"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эгч ээ, танд банкны ажилтан гэж залгасан хүн залилагч байж магадгүй.",
+   "en": "Sis, the person who called you claiming to be a bank employee might be a scammer.",
+   "alt_mn": [
+    "Эгчээ, танд банкны ажилтан гэж залгасан хүн залилагч байж магадгүй."
+   ],
+   "alt_en": [
+    "Sis, the person who called you saying he was from the bank could be a scammer."
+   ],
+   "mn_latin": "Egch ee, tand bankny ajiltan gej zalgasan khün zalilagch baij magadgüi."
+  },
+  {
+   "mn": "Нууц кодоо хэнд ч хэлж болохгүй.",
+   "en": "You must never tell your PIN to anyone.",
+   "alt_mn": [
+    "Нууц кодоо хэнд ч хэлж болохгүй шүү."
+   ],
+   "alt_en": [
+    "You shouldn't tell anyone your PIN.",
+    "You can't give your secret code to anybody."
+   ],
+   "mn_latin": "Nuuts kodoo khend ch khelj bolokhgüi."
+  },
+  {
+   "mn": "Энэ дугаар үнэхээр банкных мөн эсэхийг лавлаарай.",
+   "en": "Please check whether this number really belongs to the bank.",
+   "alt_mn": [
+    "Энэ дугаар банкных мөн эсэхийг лавлаарай."
+   ],
+   "alt_en": [
+    "Please find out if this number is really the bank's."
+   ],
+   "mn_latin": "Ene dugaar ünekheer banknykh mön esekhiig lavlaarai."
+  },
+  {
+   "mn": "Линк найдвартай эсэхийг мэдэхгүй бол бүү дар.",
+   "en": "If you don't know whether the link is safe, don't click it.",
+   "alt_mn": [
+    "Линк найдвартай эсэхийг мэдэхгүй бол дарж болохгүй."
+   ],
+   "alt_en": [
+    "Don't click the link if you don't know whether it's trustworthy."
+   ],
+   "mn_latin": "Link naidvartai esekhiig medekhgüi bol büü dar."
+  },
+  {
+   "mn": "Тэр дансны мэдээллээ алдсан болохоор их хохирол амссан.",
+   "en": "He lost his account information, so he suffered a big loss.",
+   "alt_mn": [
+    "Тэр дансныхаа мэдээллийг алдсан учраас их хохирол амссан."
+   ],
+   "alt_en": [
+    "Because he leaked his account details, he suffered heavy losses."
+   ],
+   "mn_latin": "Ter dansny medeellee aldsan bolokhoor ikh khokhirol amssan."
+  },
+  {
+   "mn": "Танд мөнгө хожлоо гэсэн мессеж ирвэл луйвар байж болно.",
+   "en": "If you get a message saying you won money, it could be a scam.",
+   "alt_mn": [
+    "Мөнгө хожлоо гэсэн мессеж ирвэл залилан байж болно."
+   ],
+   "alt_en": [
+    "A message saying you've won money may be fraud."
+   ],
+   "mn_latin": "Tand möngö khojloo gesen myessyej irvel luivar baij bolno."
+  },
+  {
+   "mn": "Энэ мэдээлэл зөв эсэхийг би шалгаж үзье.",
+   "en": "Let me check whether this information is correct.",
+   "alt_mn": [
+    "Энэ мэдээлэл үнэн эсэхийг би шалгаж үзье."
+   ],
+   "alt_en": [
+    "I'll verify whether this information is true."
+   ],
+   "mn_latin": "Ene medeelel zöv esekhiig bi shalgaj üziye."
+  },
+  {
+   "mn": "Та энэ дугаараас залгасан хүн хэн болохыг мэдэх үү?",
+   "en": "Do you know who called from this number?",
+   "alt_mn": [
+    "Энэ дугаараас залгасан хүн хэн болохыг та мэдэх үү?"
+   ],
+   "alt_en": [
+    "Do you know who the caller from this number was?"
+   ],
+   "mn_latin": "Ta ene dugaaraas zalgasan khün khen bolokhyg medekh üü?"
+  },
+  {
+   "mn": "Банк үнэхээр надад залгасан болов уу гэж бодож байна.",
+   "en": "I wonder whether the bank really called me.",
+   "alt_mn": [
+    "Банк үнэхээр надад залгасан эсэхийг мэдмээр байна."
+   ],
+   "alt_en": [
+    "I wonder if the bank actually called me."
+   ],
+   "mn_latin": "Bank ünekheer nadad zalgasan bolov uu gej bodoj baina."
+  },
+  {
+   "mn": "Хуурамч дуудлага ирвэл утсаа тавиад банк руугаа өөрөө залгаарай.",
+   "en": "If you get a fake call, hang up and call the bank yourself.",
+   "alt_mn": [
+    "Хуурамч дуудлага ирвэл утсаа тавиад өөрөө банк руугаа залгаарай."
+   ],
+   "alt_en": [
+    "If a fake call comes, hang up and phone the bank yourself."
+   ],
+   "mn_latin": "Khuuramch duudlaga irvel utsaa taviad bank ruugaa ööröö zalgaarai."
+  },
+  {
+   "mn": "Цагдаад хэлэхээс өмнө дансаа түр хаалгах хэрэгтэй.",
+   "en": "Before telling the police, you need to have your account temporarily blocked.",
+   "alt_mn": [
+    "Цагдаад мэдэгдэхээс өмнө дансаа түр хаалгах хэрэгтэй."
+   ],
+   "alt_en": [
+    "You should have your account temporarily frozen before you report it to the police."
+   ],
+   "mn_latin": "Tsagdaad khelekhees ömnö dansaa tür khaalgakh kheregtei."
+  },
+  {
+   "mn": "Залилагчид хүмүүсийн итгэлийг ашигладаг.",
+   "en": "Scammers take advantage of people's trust.",
+   "alt_mn": [
+    "Луйварчид хүмүүсийн итгэлийг ашигладаг."
+   ],
+   "alt_en": [
+    "Fraudsters exploit people's trust."
+   ],
+   "mn_latin": "Zalilagchid khümüüsiin itgeliig ashigladag."
+  }
+ ],
+ "grammar": {
+  "title_en": "Embedded questions with -х эсэхийг",
+  "title_mn": "Дам асуулт: -х эсэхийг (Mongolian) ба if / whether (English)",
+  "explain_en": "To say 'whether something is true/safe', Mongolian puts эсэх after a verb in its -х or past -сан form (ирэх эсэх, залгасан эсэх), or directly after an adjective or noun (зөв эсэх, найдвартай эсэх, банкных мөн эсэх). Then it adds the accusative ending -ийг: зөв эсэхийг шалгах (check whether it is correct), найдвартай эсэхийг лавлах (find out whether it is reliable). The main verb comes at the end: шалгах, лавлах, мэдэх, асуух. In English you use 'if' or 'whether' with normal statement word order, not question order: Do you know if it is safe? (not 'if is it safe'). With 'who/what/where', no 'if' is needed: Do you know who called?",
+  "explain_mn": "Монгол хэлэнд «эсэх»-ийг үйл үгийн -х эсвэл өнгөрсөн -сан хэлбэрийн дараа (ирэх эсэх, залгасан эсэх), эсвэл тэмдэг нэр, нэр үгийн шууд дараа (зөв эсэх, найдвартай эсэх) хэрэглэж, заахын тийн ялгалын -ийг нөхцөл залгана. Гол үйл үг (шалгах, лавлах, мэдэх, асуух) төгсгөлд орно. Англи хэлэнд дам асуултыг if эсвэл whether-ээр эхлүүлж, үгийн дарааллыг энгийн өгүүлбэр шиг хэвээр үлдээнэ: Do you know if it is safe? (if is it safe биш). Do you know...?, I wonder... гэсэн хэллэгийн дараа if/whether хэрэглэнэ: I wonder whether he called. Асуух үгтэй (who, where, what) бол if хэрэггүй: Do you know who called?",
+  "examples": [
+   {
+    "mn": "Энэ дугаар банкных эсэхийг лавлаарай.",
+    "en": "Find out whether this number is the bank's.",
+    "mn_latin": "Ene dugaar banknykh esekhiig lavlaarai."
+   },
+   {
+    "mn": "Вэбсайт найдвартай эсэхийг шалгасан уу?",
+    "en": "Did you check whether the website is secure?",
+    "mn_latin": "Vebsait naidvartai esekhiig shalgasan uu?"
+   },
+   {
+    "mn": "Тэр үнэхээр залгасан эсэхийг би мэдэхгүй.",
+    "en": "I don't know whether he really called.",
+    "mn_latin": "Ter ünekheer zalgasan esekhiig bi medekhgüi."
+   },
+   {
+    "mn": "Мэдээлэл зөв эсэхийг мэдэх үү?",
+    "en": "Do you know if the information is correct?",
+    "mn_latin": "Medeelel zöv esekhiig medekh üü?"
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Энэ линк найдвартай ___ шалгаарай.",
+   "answer": "эсэхийг",
+   "options": [
+    "эсэхийг",
+    "эсэхэд",
+    "эсэхээс",
+    "эсэхтэй"
+   ],
+   "translation": "Check whether this link is safe.",
+   "explain_en": "The verb шалгах takes an object, so эсэх gets the accusative ending: эсэхийг.",
+   "explain_mn": "«Шалгах» үйл үгийн тусагдахуун тул «эсэх» нь заахын тийн ялгалын «-ийг» нөхцөл авна."
+  },
+  {
+   "lang": "mn",
+   "text": "Нууц ___ хэнд ч хэлж болохгүй.",
+   "answer": "кодоо",
+   "options": [
+    "кодоо",
+    "кодод",
+    "кодтой",
+    "кодоос"
+   ],
+   "translation": "You must not tell your PIN to anyone.",
+   "explain_en": "'Your own' PIN uses the reflexive possessive plus accusative: кодоо.",
+   "explain_mn": "Өөрийн нууц код тул «кодоо» гэж хэлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Залилагч миний дансны мэдээллийг ___ байна.",
+   "answer": "авах гэж",
+   "options": [
+    "авах гэж",
+    "авахаас",
+    "авсан бол",
+    "авдаг ч"
+   ],
+   "translation": "The scammer is trying to get my account information.",
+   "explain_en": "-х гэж + байна expresses 'trying to / about to do'.",
+   "explain_mn": "«-х гэж байна» нь оролдож буй үйлдлийг илтгэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Do you know ___ this call is from the bank?",
+   "answer": "if",
+   "options": [
+    "if",
+    "that",
+    "what",
+    "which"
+   ],
+   "translation": "Энэ дуудлага банкнаас ирсэн эсэхийг та мэдэх үү?",
+   "explain_en": "Use 'if' or 'whether' for yes/no embedded questions.",
+   "explain_mn": "Тийм/үгүй гэсэн дам асуултад «if» эсвэл «whether» хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "I wonder whether the website ___ safe.",
+   "answer": "is",
+   "options": [
+    "is",
+    "does",
+    "be",
+    "is it"
+   ],
+   "translation": "Энэ вэбсайт аюулгүй болов уу гэж бодож байна.",
+   "explain_en": "Embedded questions use statement order: the website is safe.",
+   "explain_mn": "Дам асуултад энгийн өгүүлбэрийн дараалал хэвээр: the website is."
+  },
+  {
+   "lang": "en",
+   "text": "Please check ___ the message is real before you click.",
+   "answer": "whether",
+   "options": [
+    "whether",
+    "what",
+    "because",
+    "unless"
+   ],
+   "translation": "Дарахаасаа өмнө мессеж жинхэнэ эсэхийг шалгаарай.",
+   "explain_en": "'Check whether...' introduces a yes/no question about facts.",
+   "explain_mn": "«Check whether...» нь баримт зөв эсэхийг шалгах утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Аав аа, өнөөдөр танд банкнаас залгасан уу?",
+   "en": "Dad, did someone call you from the bank today?",
+   "mn_latin": "Aav aa, önöödör tand banknaas zalgasan uu?"
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Тийм ээ, нэг эмэгтэй миний дансанд асуудал гарсан гэсэн.",
+   "en": "Yes, a woman said there was a problem with my account.",
+   "mn_latin": "Tiim ee, neg emegtei minii dansand asuudal garsan gesen."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Тэр танаас нууц код асуусан уу?",
+   "en": "Did she ask you for your PIN?",
+   "mn_latin": "Ter tanaas nuuts kod asuusan uu?"
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Асуусан. Гэхдээ тэр үнэхээр банкных мөн эсэхийг мэдээгүй учраас би өгөөгүй.",
+   "en": "She did. But I didn't give it, because I didn't know whether she was really from the bank.",
+   "mn_latin": "Asuusan. Gekhdee ter ünekheer banknykh mön esekhiig medeegüi uchraas bi ögöögüi."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Сайн хийжээ. Тэр эмэгтэй залилагч байсан байх.",
+   "en": "Well done. She was probably a scammer.",
+   "mn_latin": "Sain khiijee. Ter emegtei zalilagch baisan baikh."
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "Тэгвэл би одоо яах ёстой вэ?",
+   "en": "So what should I do now?",
+   "mn_latin": "Tegvel bi odoo yaakh yostoi ve?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Банкны албан ёсны дугаар руу өөрөө залгаад, дансанд тань хохирол гарсан эсэхийг лавлаарай.",
+   "en": "Call the bank's official number yourself and find out whether there has been any loss in your account.",
+   "mn_latin": "Bankny alban yosny dugaar ruu ööröö zalgaad, dansand tani khokhirol garsan esekhiig lavlaarai."
+  },
+  {
+   "speaker": "Dorj",
+   "mn": "За, одоо залгая. Чи банкны дугаарыг мэдэх үү?",
+   "en": "OK, I'll call now. Do you know the bank's number?",
+   "mn_latin": "Za, odoo zalgaya. Chi bankny dugaaryg medekh üü?"
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, mobile banking apps and QR payments are very popular, and scam calls and fake social media messages have grown with them. Banks usually say they never ask customers for a PIN or a code sent by SMS. Families often warn older relatives, and people can report fraud to the police or the bank's hotline.",
+  "mn": "Монголд мобайл банк, QR төлбөр өргөн дэлгэрэхийн хэрээр залилагчийн дуудлага, нийгмийн сүлжээний хуурамч зараас үүдэлтэй луйвар нэмэгдсэн. Банкууд үйлчлүүлэгчээс нууц код, мессежээр ирсэн кодыг хэзээ ч асуухгүй гэж сануулдаг. Айл өрхүүд ахмад настанд анхааруулж, луйварт өртвөл цагдаа эсвэл банкны лавлах утсанд мэдэгддэг."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 9,
+  "notes": "Mostly good and natural; a few inconsistencies in register and small meaning mismatches, with no serious errors in the grammar content."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 13,
+  "notes": "Main fixes: the 'I wonder' calque with гайхах, the grammar explanation on -х, the father's register, a tense mismatch, and the case-name error.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Genitive of луйвар is луйврын (the vowel drops)"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "en",
+    "why": "залгасан is past tense, not 'is calling'"
+   },
+   {
+    "section": "sentences",
+    "index": 7,
+    "field": "alt_en",
+    "why": "The old alt duplicated the corrected main sentence"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "гайхах means 'be surprised'; a calque of 'I wonder' with it is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "Natural way to say 'I wonder whether' using эсэхийг"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "-х is not added to adjectives or nouns, as the lesson's own examples show"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The en and mn versions must match; the old mn version used the unnatural «гайхаж байна»"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "The accusative is заахын тийн ялгал, not хөврөх"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "гайхах does not mean 'wonder'"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Must match the past tense and 'probably' in the English"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "Should be 'loss in the account' (dative), not 'the account's loss'"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "A father uses чи with his child; танай wrongly meant 'your bank'"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "«луйварт өртвөл» is the natural collocation"
+   }
+  ]
+ }
+}

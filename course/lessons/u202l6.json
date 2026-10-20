@@ -1,0 +1,436 @@
+{
+ "intro_en": "Tell the full story of your shutoff week in a chat or short post, with complaints and a little humor. You'll review the unit's vocabulary and use -хад хүрэх (\"it came to the point of…\") and -хаас өөр гарцгүй (\"had no choice but to…\") in narrative.",
+ "intro_mn": "Халуун усгүй өнгөрүүлсэн долоо хоногийнхоо түүхийг чат эсвэл богино пост хэлбэрээр, гомдол, хошигнолтойгоор ярьж сурна. Бүлгийн үгсээ давтаж, англи хэлний make do with, do without, end up + -ing хэллэгүүдийг хамт хэрэглэнэ.",
+ "vocab": [
+  {
+   "mn": "аргацаах",
+   "en": "to make do, to get by",
+   "pos": "verb",
+   "example_mn": "Бид нэг хувин усаар аргацаасан.",
+   "example_en": "We made do with one bucket of water.",
+   "mn_latin": "argatsaakh"
+  },
+  {
+   "mn": "тэвчих",
+   "en": "to put up with, to endure",
+   "pos": "verb",
+   "example_mn": "Дахиад гурав хоног тэвчинэ дээ.",
+   "example_en": "We'll put up with it for three more days.",
+   "mn_latin": "tevchikh"
+  },
+  {
+   "mn": "гомдоллох",
+   "en": "to complain",
+   "pos": "verb",
+   "example_mn": "Хөршүүд өдөр бүр гомдоллодог.",
+   "example_en": "The neighbors complain every day.",
+   "mn_latin": "gomdollokh"
+  },
+  {
+   "mn": "нийтийн халуун цэг",
+   "en": "public bathhouse",
+   "pos": "noun",
+   "example_mn": "Нийтийн халуун цэгт дараалал урт байлаа.",
+   "example_en": "The line at the public bathhouse was long.",
+   "mn_latin": "niitiin khaluun tseg"
+  },
+  {
+   "mn": "данх",
+   "en": "kettle",
+   "pos": "noun",
+   "example_mn": "Данхаар ус халаалаа.",
+   "example_en": "I heated water in the kettle.",
+   "mn_latin": "dankh"
+  },
+  {
+   "mn": "цорго",
+   "en": "tap, faucet",
+   "pos": "noun",
+   "example_mn": "Гал тогооны цорго эвдэрсэн.",
+   "example_en": "The kitchen faucet is broken.",
+   "mn_latin": "tsorgo"
+  },
+  {
+   "mn": "гоожих",
+   "en": "to leak, to drip",
+   "pos": "verb",
+   "example_mn": "Цорго шөнөжин гоожсон.",
+   "example_en": "The tap dripped all night.",
+   "mn_latin": "goojikh"
+  },
+  {
+   "mn": "засвар",
+   "en": "repair, maintenance",
+   "pos": "noun",
+   "example_mn": "Засвар хугацаандаа дуусаагүй.",
+   "example_en": "The repairs weren't finished on time.",
+   "mn_latin": "zasvar"
+  },
+  {
+   "mn": "эцэст нь",
+   "en": "in the end, finally",
+   "pos": "adverb",
+   "example_mn": "Эцэст нь ус эргэж ирлээ.",
+   "example_en": "Finally, the water came back.",
+   "mn_latin": "etsest ni"
+  },
+  {
+   "mn": "инээдтэй нь",
+   "en": "the funny thing is",
+   "pos": "phrase",
+   "example_mn": "Инээдтэй нь, би савангаа мартсан.",
+   "example_en": "The funny thing is, I forgot my soap.",
+   "mn_latin": "ineedtei ni"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хоёр долоо хоног бид халуун усгүй байхаас өөр гарцгүй болсон.",
+   "en": "We had no choice but to go two weeks without hot water.",
+   "alt_mn": [
+    "Хоёр долоо хоног бид халуун усгүй байхаас өөр аргагүй болсон."
+   ],
+   "alt_en": [
+    "We had no choice but to do without hot water for two weeks."
+   ],
+   "mn_latin": "Khoyor doloo khonog bid khaluun usgüi baikhaas öör gartsgüi bolson."
+  },
+  {
+   "mn": "Эцэст нь данхаар ус халааж биеэ угаахад хүрлээ.",
+   "en": "In the end, I had to resort to heating water in a kettle to wash myself.",
+   "alt_mn": [
+    "Эцэст нь данхаар ус халааж угаалга хийхэд хүрлээ."
+   ],
+   "alt_en": [
+    "In the end, it got to the point where I had to heat water in a kettle to wash myself."
+   ],
+   "mn_latin": "Etsest ni dankhaar us khalaaj biyee ugaakhad khürlee."
+  },
+  {
+   "mn": "Хүйтэн усаар үсээ угаахаас өөр гарцгүй байлаа.",
+   "en": "I had no choice but to wash my hair with cold water.",
+   "alt_mn": [
+    "Хүйтэн усаар үсээ угаахаас өөр аргагүй байлаа."
+   ],
+   "alt_en": [
+    "I had no option but to wash my hair in cold water."
+   ],
+   "mn_latin": "Khüiten usaar üsee ugaakhaas öör gartsgüi bailaa."
+  },
+  {
+   "mn": "Бид нэг хувин бүлээн усаар л аргацаасан.",
+   "en": "We made do with just one bucket of warm water.",
+   "alt_mn": [
+    "Бид ганцхан хувин бүлээн усаар аргацаасан."
+   ],
+   "alt_en": [
+    "We got by with just one bucket of warm water."
+   ],
+   "mn_latin": "Bid neg khuvin büleen usaar l argatsaasan."
+  },
+  {
+   "mn": "Халуун цэгийн дараалал маш урт байсан болохоор хоёр цаг хүлээхэд хүрсэн.",
+   "en": "The line at the bathhouse was so long that I ended up waiting two hours.",
+   "alt_mn": [
+    "Халуун цэгийн дараалал их урт байсан тул хоёр цаг хүлээхэд хүрсэн."
+   ],
+   "alt_en": [
+    "The bathhouse line was so long that I ended up waiting for two hours."
+   ],
+   "mn_latin": "Khaluun tsegiin daraalal mash urt baisan bolokhoor khoyor tsag khüleekhed khürsen."
+  },
+  {
+   "mn": "Хөршүүд маань орцны чатад өдөр бүр гомдоллож байсан.",
+   "en": "My neighbors complained in the building chat every day.",
+   "alt_mn": [
+    "Манай хөршүүд орцны группт өдөр болгон гомдоллож байсан."
+   ],
+   "alt_en": [
+    "My neighbors were complaining in the building chat every day."
+   ],
+   "mn_latin": "Khörshüüd maani ortsny chatad ödör bür gomdolloj baisan."
+  },
+  {
+   "mn": "Инээдтэй нь, ус зогссон өдөр гал тогооны цорго гоожиж эхэлсэн.",
+   "en": "The funny thing is, the kitchen faucet started leaking the day the water was shut off.",
+   "alt_mn": [
+    "Хамгийн инээдтэй нь, ус зогссон өдөр гал тогооны цорго гоожиж эхэлсэн."
+   ],
+   "alt_en": [
+    "Funnily enough, the kitchen tap started leaking on the day the water was shut off."
+   ],
+   "mn_latin": "Ineedtei ni, us zogsson ödör gal togoony tsorgo goojij ekhelsen."
+  },
+  {
+   "mn": "Сантехникч ирээгүй болохоор цоргыг өөрөө засахад хүрлээ.",
+   "en": "The plumber didn't come, so I ended up fixing the faucet myself.",
+   "alt_mn": [
+    "Сантехникч ирээгүй тул цоргоо өөрөө засахад хүрсэн."
+   ],
+   "alt_en": [
+    "Since the plumber didn't show up, I ended up fixing the tap myself."
+   ],
+   "mn_latin": "Santyekhnikch ireegüi bolokhoor tsorgyg ööröö zasakhad khürlee."
+  },
+  {
+   "mn": "Халуун усгүй амьдарч болно, гэхдээ кофегүй бол болохгүй.",
+   "en": "I can do without hot water, but not without coffee.",
+   "alt_mn": [
+    "Халуун усгүй байж чадна, харин кофегүйгээр чадахгүй."
+   ],
+   "alt_en": [
+    "I can live without hot water, but I can't do without coffee."
+   ],
+   "mn_latin": "Khaluun usgüi amidarch bolno, gekhdee kofyegüi bol bolokhgüi."
+  },
+  {
+   "mn": "Хоёр дахь долоо хоногт бид тэвчээрээ алдаж, найзындаа очиж шүршүүрт орохоос өөр гарцгүй болсон.",
+   "en": "In the second week we lost our patience and had no choice but to shower at a friend's place.",
+   "alt_mn": [
+    "Хоёр дахь долоо хоногт тэвчээр барагдаж, найзындаа очиж шүршүүрт орохоос өөр аргагүй болсон."
+   ],
+   "alt_en": [
+    "By the second week we'd run out of patience and had no choice but to shower at a friend's."
+   ],
+   "mn_latin": "Khoyor dakhi doloo khonogt bid tevcheeree aldaj, naizyndaa ochij shürshüürt orokhoos öör gartsgüi bolson."
+  },
+  {
+   "mn": "Засвар хугацаандаа дуусаагүй тул дахиад гурав хоног тэвчихээс өөр гарцгүй.",
+   "en": "The repairs weren't finished on time, so we have no choice but to put up with it for three more days.",
+   "alt_mn": [
+    "Засвар цагтаа дуусаагүй болохоор дахиад гурав хоног тэвчихээс өөр аргагүй."
+   ],
+   "alt_en": [
+    "The maintenance didn't finish on time, so we have no choice but to put up with it for another three days."
+   ],
+   "mn_latin": "Zasvar khugatsaandaa duusaagüi tul dakhiad gurav khonog tevchikhees öör gartsgüi."
+  },
+  {
+   "mn": "Ус эргэж ирэхэд би ваннд нэг цаг хэвтээд бүх гомдлоо мартлаа.",
+   "en": "When the water came back, I lay in the bath for an hour and forgot all my complaints.",
+   "alt_mn": [
+    "Халуун ус ирэхэд би ваннд нэг цаг хэвтээд бүх гомдлоо мартчихлаа."
+   ],
+   "alt_en": [
+    "When the hot water came back, I soaked in the tub for an hour and forgot all my complaints."
+   ],
+   "mn_latin": "Us ergej irekhed bi vannd neg tsag khevteed bükh gomdloo martlaa."
+  }
+ ],
+ "grammar": {
+  "title_en": "Telling how things got worse: -хад хүрэх and -хаас өөр гарцгүй",
+  "title_mn": "make do with, do without, end up + -ing",
+  "explain_en": "Two patterns help you tell a story where things escalate. 1) Verb + -х + dative (-ад/-эд/-од/-өд) + хүрэх means \"it came to the point where…\" or \"I had to resort to…\". It implies you didn't plan it: халаахад хүрсэн = \"I had to resort to heating it\", хүлээхэд хүрсэн = \"I ended up waiting\". 2) Verb + -х + ablative (-аас/-ээс/-оос/-өөс) + өөр гарцгүй means \"have no choice but to…\" (literally \"no other way out than…\"). Add болсон or байлаа for the past: явахаас өөр гарцгүй болсон = \"we had no choice but to go\". In a story, -хад хүрэх stresses the surprising result, and -хаас өөр гарцгүй stresses that there was no alternative.",
+  "explain_mn": "Англиар бэрхшээлтэй нөхцөлийг ярихдаа гурван хэллэг их хэрэглэдэг. 1) make do with + нэр үг = \"…аар аргацаах\": We made do with cold water (Хүйтэн усаар аргацаасан). 2) do without + нэр үг = \"…гүй амьдрах, …гүйгээр болох\": I can do without hot water (Халуун усгүй байж чадна). 3) end up + -ing = \"эцэст нь …хад хүрэх\": I ended up fixing it myself (Өөрөө засахад хүрсэн). end up-ын дараа to биш, үйл үгийн -ing хэлбэр орно гэдгийг санаарай! \"Өөр гарцгүй\" гэвэл had no choice but to + үйл үг гэнэ.",
+  "examples": [
+   {
+    "mn": "Бид хүйтэн усаар аргацаахаас өөр гарцгүй байлаа.",
+    "en": "We had no choice but to make do with cold water.",
+    "mn_latin": "Bid khüiten usaar argatsaakhaas öör gartsgüi bailaa."
+   },
+   {
+    "mn": "Эцэст нь найзындаа очиж угаалга хийхэд хүрсэн.",
+    "en": "I ended up washing at a friend's place.",
+    "mn_latin": "Etsest ni naizyndaa ochij ugaalga khiikhed khürsen."
+   },
+   {
+    "mn": "Халуун усгүй бол болно, харин интернэтгүй бол болохгүй.",
+    "en": "I can do without hot water, but not without the internet.",
+    "mn_latin": "Khaluun usgüi bol bolno, kharin intyernetgüi bol bolokhgüi."
+   },
+   {
+    "mn": "Сантехникч ирээгүй болохоор өөрөө засахад хүрлээ.",
+    "en": "The plumber didn't come, so I ended up fixing it myself.",
+    "mn_latin": "Santyekhnikch ireegüi bolokhoor ööröö zasakhad khürlee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эцэст нь данхаар ус халаахад ___.",
+   "answer": "хүрсэн",
+   "options": [
+    "хүрсэн",
+    "гарсан",
+    "орсон",
+    "ирсэн"
+   ],
+   "translation": "In the end, I had to resort to heating water in a kettle.",
+   "explain_en": "The pattern is verb + -хад + хүрэх (\"it came to the point of…\"). Other movement verbs don't form this expression.",
+   "explain_mn": "\"-хад хүрэх\" нь \"эцэст нь тийм зүйл хийх болох\" гэсэн утгатай тогтвортой хэллэг. Англиар: I ended up heating water."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид халуун цэгт явахаас өөр ___ болсон.",
+   "answer": "гарцгүй",
+   "options": [
+    "гарцгүй",
+    "гарцтай",
+    "аргатай",
+    "гарахгүй"
+   ],
+   "translation": "We had no choice but to go to the bathhouse.",
+   "explain_en": "-хаас өөр гарцгүй = \"no other way out than…\", meaning \"had no choice but to\". The ablative -аас marks what you're comparing to (\"other than going\").",
+   "explain_mn": "\"-хаас өөр гарцгүй\" = had no choice but to. Англиар: We had no choice but to go to the bathhouse."
+  },
+  {
+   "lang": "mn",
+   "text": "Бид нэг хувин бүлээн ус___ аргацаасан.",
+   "answer": "аар",
+   "options": [
+    "аар",
+    "ыг",
+    "анд",
+    "аас"
+   ],
+   "translation": "We made do with one bucket of warm water.",
+   "explain_en": "аргацаах (\"make do\") takes the instrumental case: the thing you make do with gets -аар/-ээр. ус → усаар.",
+   "explain_mn": "аргацаах үйл үг үйлдэхийн тийн ялгалтай (-аар) хэрэглэгдэнэ. Англиар make do with + нэр үг."
+  },
+  {
+   "lang": "en",
+   "text": "We made ___ with cold water for two weeks.",
+   "answer": "do",
+   "options": [
+    "do",
+    "done",
+    "it",
+    "up"
+   ],
+   "translation": "Бид хүйтэн усаар хоёр долоо хоног аргацаасан.",
+   "explain_en": "The fixed phrase is \"make do with\". In the past it becomes \"made do with\". \"Do\" never changes form here.",
+   "explain_mn": "\"make do with\" тогтвортой хэллэг. Өнгөрсөн цагт зөвхөн make нь made болж, do өөрчлөгдөхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The plumber never came, so I ended up ___ the faucet myself.",
+   "answer": "fixing",
+   "options": [
+    "fixing",
+    "to fix",
+    "fix",
+    "fixed"
+   ],
+   "translation": "Сантехникч ирээгүй болохоор цоргыг өөрөө засахад хүрсэн.",
+   "explain_en": "\"End up\" is followed by a verb in the -ing form, not \"to\" + verb.",
+   "explain_mn": "end up-ын дараа үйл үг -ing хэлбэртэй орно. \"ended up to fix\" гэж хэлэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "I can do ___ hot water, but I can't live without coffee.",
+   "answer": "without",
+   "options": [
+    "without",
+    "with",
+    "off",
+    "away"
+   ],
+   "translation": "Халуун усгүй байж чадна, гэхдээ кофегүй амьдарч чадахгүй.",
+   "explain_en": "\"Do without\" means managing even though you don't have something. \"Make do with\" is about what you DO have.",
+   "explain_mn": "do without = \"…гүйгээр болох\". make do with = байгаа юмаараа аргацаах. Утга нь эсрэгээрээ шүү."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saraa",
+   "mn": "Сайн уу, Эмили! Танайд халуун ус ирсэн үү? Манайд дахиад гурав хоног байхгүй гэнэ.",
+   "en": "Hi, Emily! Has your hot water come back? They say we won't have any for three more days.",
+   "mn_latin": "Sain uu, Emili! Tanaid khaluun us irsen üü? Manaid dakhiad gurav khonog baikhgüi gene."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Өчигдөр ирсэн! Гэхдээ энэ хоёр долоо хоног бол жинхэнэ адал явдал байлаа.",
+   "en": "It came back yesterday! But these two weeks were a real adventure.",
+   "mn_latin": "Öchigdör irsen! Gekhdee ene khoyor doloo khonog bol jinkhene adal yavdal bailaa."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Яасан бэ? Ярь л даа.",
+   "en": "What happened? Tell me.",
+   "mn_latin": "Yaasan be? Yari l daa."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Эхний өдөр л цорго гоожиж эхэлсэн. Сантехникч ирээгүй болохоор өөрөө засахад хүрсэн.",
+   "en": "On the very first day the faucet started leaking. The plumber didn't come, so I ended up fixing it myself.",
+   "mn_latin": "Ekhnii ödör l tsorgo goojij ekhelsen. Santyekhnikch ireegüi bolokhoor ööröö zasakhad khürsen."
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Хаха, чи сантехникч болчихжээ! Би бол данхаар ус халааж аргацаасан.",
+   "en": "Haha, you've become a plumber! I just made do with heating water in the kettle.",
+   "mn_latin": "Khakha, chi santyekhnikch bolchikhjee! Bi bol dankhaar us khalaaj argatsaasan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Би ч бас. Гэхдээ хоёр дахь долоо хоногт халуун цэгт явахаас өөр гарцгүй болсон. Хоёр цаг дараалалд зогслоо!",
+   "en": "Me too. But in the second week I had no choice but to go to the bathhouse. I stood in line for two hours!",
+   "mn_latin": "Bi ch bas. Gekhdee khoyor dakhi doloo khonogt khaluun tsegt yavakhaas öör gartsgüi bolson. Khoyor tsag daraalald zogsloo!"
+  },
+  {
+   "speaker": "Saraa",
+   "mn": "Тэвчээртэй хүн юм аа. Би халуун усгүй байж чадна, харин дараалалд зогсож чадахгүй.",
+   "en": "You're a patient person. I can do without hot water, but I can't stand waiting in line.",
+   "mn_latin": "Tevcheertei khün yum aa. Bi khaluun usgüi baij chadna, kharin daraalald zogsoj chadakhgüi."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Ус ирэхэд ваннд нэг цаг хэвтээд бүх гомдлоо мартчихсан. Удахгүй танайд ч ирнэ дээ!",
+   "en": "When the water came back, I soaked in the tub for an hour and forgot all my complaints. Yours will come back soon too!",
+   "mn_latin": "Us irekhed vannd neg tsag khevteed bükh gomdloo martchikhsan. Udakhgüi tanaid ch irne dee!"
+  }
+ ],
+ "culture_note": {
+  "en": "Every summer, apartments in Ulaanbaatar lose hot water for about one to two weeks while the central heating and hot-water pipelines are repaired, district by district. Residents heat water in kettles and pots, visit public bathhouses (халуун цэг), or shower at relatives' homes. Joking about it in building chats and on Facebook has become a summer ritual of its own.",
+  "mn": "Улаанбаатарын орон сууцанд жил бүрийн зун төвлөрсөн халаалт, халуун усны шугамын засварын улмаас дүүрэг дүүргээр нэгээс хоёр долоо хоног халуун ус зогсдог. Хүмүүс данх, тогоонд ус халааж, нийтийн халуун цэгт явж, эсвэл хамаатныхаа гэрт очиж угаалга хийдэг. Энэ тухай орцны чат, фэйсбүүкт хошигнох нь өөрөө зуны нэгэн заншил болжээ."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 7,
+  "notes": "A solid, natural lesson. The fixes cover a 'бид хоёр' ambiguity, a missing dative ending, one fill-in-the-blank with a possible second correct answer, and a grammar term."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Mostly solid; fixed an unnatural collocation, a non-standard verb form, and some awkward dialogue lines and alternatives.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_mn",
+    "why": "'кофегүй бол үгүй' is unnatural"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "Natural collocation is 'тэвчээрээ алдах', with the reflexive ending"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "'болчихож' is a non-standard form; standard is 'болчихжээ'"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "'дараалалгүй бол илүү дээр' is awkward and did not match the English"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "en",
+    "why": "Matches the revised Mongolian line"
+   },
+   {
+    "section": "dialogue",
+    "index": 7,
+    "field": "mn",
+    "why": "Water comes to a household ('танайд'), not to a person ('чамд')"
+   }
+  ]
+ }
+}

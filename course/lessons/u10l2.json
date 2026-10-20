@@ -1,0 +1,404 @@
+{
+ "intro_en": "You will learn how to ask where a place is and how to answer with words like near, far, next to, and opposite. You will also practice using 'дээр', 'дотор' and 'байна' to say where things are.",
+ "intro_mn": "Та ямар нэгэн газар хаана байгааг асууж, ойр, хол, хажууд, эсрэг талд гэх мэт үгсээр хариулж сурна. Мөн байршил хэлэхэд «дээр», «дотор», «байна» гэсэн үгсийг хэрэглэж дадна.",
+ "vocab": [
+  {
+   "mn": "хаана",
+   "en": "where",
+   "pos": "adverb",
+   "example_mn": "Зочид буудал хаана байна вэ?",
+   "example_en": "Where is the hotel?",
+   "mn_latin": "khaana"
+  },
+  {
+   "mn": "ойр",
+   "en": "near, close",
+   "pos": "adjective/adverb",
+   "example_mn": "Банк энд ойр байна.",
+   "example_en": "The bank is close to here.",
+   "mn_latin": "oir"
+  },
+  {
+   "mn": "хол",
+   "en": "far",
+   "pos": "adjective/adverb",
+   "example_mn": "Их сургууль хол байна.",
+   "example_en": "The university is far.",
+   "mn_latin": "khol"
+  },
+  {
+   "mn": "хажууд",
+   "en": "next to, beside",
+   "pos": "postposition",
+   "example_mn": "Кафе банкны хажууд байна.",
+   "example_en": "The cafe is next to the bank.",
+   "mn_latin": "khajuud"
+  },
+  {
+   "mn": "эсрэг талд",
+   "en": "opposite, across from",
+   "pos": "postposition",
+   "example_mn": "Дэлгүүр цэцэрлэгт хүрээлэнгийн эсрэг талд байна.",
+   "example_en": "The store is opposite the park.",
+   "mn_latin": "esreg tald"
+  },
+  {
+   "mn": "урд",
+   "en": "in front of",
+   "pos": "postposition",
+   "example_mn": "Автобусны буудал сургуулийн урд байна.",
+   "example_en": "The bus stop is in front of the school.",
+   "mn_latin": "urd"
+  },
+  {
+   "mn": "зах",
+   "en": "market",
+   "pos": "noun",
+   "example_mn": "Банк зах дээр байна.",
+   "example_en": "The bank is at the market.",
+   "mn_latin": "zakh"
+  },
+  {
+   "mn": "дээр",
+   "en": "at, on",
+   "pos": "postposition",
+   "example_mn": "Тэр талбай дээр байна.",
+   "example_en": "He/She is at the square.",
+   "mn_latin": "deer"
+  },
+  {
+   "mn": "дотор",
+   "en": "inside, in",
+   "pos": "postposition",
+   "example_mn": "Эмийн сан барилга дотор байна.",
+   "example_en": "The pharmacy is inside the building.",
+   "mn_latin": "dotor"
+  },
+  {
+   "mn": "уучлаарай",
+   "en": "excuse me, sorry",
+   "pos": "interjection",
+   "example_mn": "Уучлаарай, номын сан хаана байна вэ?",
+   "example_en": "Excuse me, where is the library?",
+   "mn_latin": "uuchlaarai"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Банк хаана байна вэ?",
+   "en": "Where is the bank?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bank khaana baina ve?"
+  },
+  {
+   "mn": "Банк зах дээр байна.",
+   "en": "The bank is at the market.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Bank zakh deer baina."
+  },
+  {
+   "mn": "Уучлаарай, зочид буудал хаана байна вэ?",
+   "en": "Excuse me, where is the hotel?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Uuchlaarai, zochid buudal khaana baina ve?"
+  },
+  {
+   "mn": "Зочид буудал энд ойр байна.",
+   "en": "The hotel is close to here.",
+   "alt_mn": [
+    "Зочид буудал энд ойрхон байна."
+   ],
+   "alt_en": [
+    "The hotel is near here."
+   ],
+   "mn_latin": "Zochid buudal end oir baina."
+  },
+  {
+   "mn": "Их сургууль хол байна.",
+   "en": "The university is far.",
+   "alt_mn": [],
+   "alt_en": [
+    "The university is far away."
+   ],
+   "mn_latin": "Ikh surguuli khol baina."
+  },
+  {
+   "mn": "Кафе банкны хажууд байна.",
+   "en": "The cafe is next to the bank.",
+   "alt_mn": [],
+   "alt_en": [
+    "The cafe is beside the bank."
+   ],
+   "mn_latin": "Kafye bankny khajuud baina."
+  },
+  {
+   "mn": "Дэлгүүр цэцэрлэгт хүрээлэнгийн эсрэг талд байна.",
+   "en": "The store is opposite the park.",
+   "alt_mn": [],
+   "alt_en": [
+    "The store is across from the park."
+   ],
+   "mn_latin": "Delgüür tsetserlegt khüreelengiin esreg tald baina."
+  },
+  {
+   "mn": "Автобусны буудал сургуулийн урд байна.",
+   "en": "The bus stop is in front of the school.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Avtobusny buudal surguuliin urd baina."
+  },
+  {
+   "mn": "Эмийн сан хаана байна вэ?",
+   "en": "Where is the pharmacy?",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Emiin san khaana baina ve?"
+  },
+  {
+   "mn": "Эмийн сан барилга дотор байна.",
+   "en": "The pharmacy is inside the building.",
+   "alt_mn": [],
+   "alt_en": [
+    "The pharmacy is in the building."
+   ],
+   "mn_latin": "Emiin san barilga dotor baina."
+  },
+  {
+   "mn": "Номын сан хол биш, ойр байна.",
+   "en": "The library is not far, it is near.",
+   "alt_mn": [],
+   "alt_en": [
+    "The library isn't far, it's close."
+   ],
+   "mn_latin": "Nomyn san khol bish, oir baina."
+  },
+  {
+   "mn": "Ресторан талбай дээр байна.",
+   "en": "The restaurant is at the square.",
+   "alt_mn": [],
+   "alt_en": [
+    "The restaurant is on the square."
+   ],
+   "mn_latin": "Ryestoran talbai deer baina."
+  }
+ ],
+ "grammar": {
+  "title_en": "Asking and telling where: хаана байна вэ?",
+  "title_mn": "Хаана байгааг асуух, хэлэх: хаана байна вэ?",
+  "explain_en": "To ask where something is, say: [place] хаана байна вэ? ('Where is [place]?'). Mongolian puts the question word before the verb, and вэ ends the question. To answer, say the thing first, then the location, then 'байна': Банк зах дээр байна. The word 'дээр' means 'at/on', and 'дотор' means 'inside/in'. For 'next to', 'in front of' or 'opposite', the place before the word usually takes the genitive ending: банк → банкны хажууд, сургууль → сургуулийн урд. Note: there are no words for 'a' or 'the' in Mongolian.",
+  "explain_mn": "«Хаана байна вэ?» гэж байршил асууна: Банк хаана байна вэ? «Хаана» гэсэн асуух үг үйл үгийн өмнө орж, өгүүлбэрийн төгсгөлд «вэ» ирнэ. Хариулахдаа юмаа эхэлж хэлээд, дараа нь байршлыг, эцэст нь «байна» гэнэ: Банк зах дээр байна. «Дээр» нь «at/on», «дотор» нь «inside/in» гэсэн утгатай. «Хажууд», «урд», «эсрэг талд» зэрэг үгийн өмнөх нэр үг ихэвчлэн харьяалахын тийн ялгалтай орно: банк → банкны хажууд, сургууль → сургуулийн урд. Англи хэлний «a», «the» гэсэн үг Монгол хэлэнд байдаггүй.",
+  "examples": [
+   {
+    "mn": "Номын сан хаана байна вэ?",
+    "en": "Where is the library?",
+    "mn_latin": "Nomyn san khaana baina ve?"
+   },
+   {
+    "mn": "Номын сан сургууль дээр байна.",
+    "en": "The library is at the school.",
+    "mn_latin": "Nomyn san surguuli deer baina."
+   },
+   {
+    "mn": "Кафе банкны хажууд байна.",
+    "en": "The cafe is next to the bank.",
+    "mn_latin": "Kafye bankny khajuud baina."
+   },
+   {
+    "mn": "Эмийн сан барилга дотор байна.",
+    "en": "The pharmacy is inside the building.",
+    "mn_latin": "Emiin san barilga dotor baina."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Банк ___ байна вэ?",
+   "answer": "хаана",
+   "options": [
+    "хаана",
+    "хэн",
+    "хэзээ",
+    "юу"
+   ],
+   "translation": "Where is the bank?",
+   "explain_en": "'Хаана' means 'where' and is used to ask about location.",
+   "explain_mn": "«Хаана» нь байршил асуух үг юм."
+  },
+  {
+   "lang": "mn",
+   "text": "Банк зах ___ байна.",
+   "answer": "дээр",
+   "options": [
+    "дээр",
+    "хол",
+    "вэ",
+    "хэн"
+   ],
+   "translation": "The bank is at the market.",
+   "explain_en": "'Дээр' after a place means 'at/on'.",
+   "explain_mn": "Газрын нэрний ард «дээр» нь «at/on» гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Кафе банкны ___ байна.",
+   "answer": "хажууд",
+   "options": [
+    "хажууд",
+    "хаана",
+    "хол",
+    "юу"
+   ],
+   "translation": "The cafe is next to the bank.",
+   "explain_en": "'Хажууд' means 'next to'. The word before it takes the genitive: банкны.",
+   "explain_mn": "«Хажууд» нь «next to» гэсэн утгатай, өмнөх үг нь харьяалахын тийн ялгалтай орно: банкны."
+  },
+  {
+   "lang": "en",
+   "text": "___ is the pharmacy?",
+   "answer": "Where",
+   "options": [
+    "Where",
+    "Who",
+    "When",
+    "What"
+   ],
+   "translation": "Эмийн сан хаана байна вэ?",
+   "explain_en": "Use 'Where' to ask about a place.",
+   "explain_mn": "Байршил асуухад «Where» гэж хэрэглэнэ."
+  },
+  {
+   "lang": "en",
+   "text": "The bus stop is ___ front of the school.",
+   "answer": "in",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "translation": "Автобусны буудал сургуулийн урд байна.",
+   "explain_en": "'In front of' is a fixed phrase.",
+   "explain_mn": "«In front of» нь тогтсон хэллэг тул «in» хэрэглэнэ: in front of."
+  },
+  {
+   "lang": "en",
+   "text": "The store is ___ the park.",
+   "answer": "opposite",
+   "options": [
+    "opposite",
+    "who",
+    "far",
+    "where"
+   ],
+   "translation": "Дэлгүүр цэцэрлэгт хүрээлэнгийн эсрэг талд байна.",
+   "explain_en": "'Opposite' means across from something.",
+   "explain_mn": "«Opposite» нь «эсрэг талд» гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Sarah",
+   "mn": "Уучлаарай, банк хаана байна вэ?",
+   "en": "Excuse me, where is the bank?",
+   "mn_latin": "Uuchlaarai, bank khaana baina ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Банк зах дээр байна.",
+   "en": "The bank is at the market.",
+   "mn_latin": "Bank zakh deer baina."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Энд ойр уу?",
+   "en": "Is it near here?",
+   "mn_latin": "End oir uu?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Тийм, ойр. Кафегийн хажууд байна.",
+   "en": "Yes, it's near. It's next to the cafe.",
+   "mn_latin": "Tiim, oir. Kafyegiin khajuud baina."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Автобусны буудал хаана байна вэ?",
+   "en": "Where is the bus stop?",
+   "mn_latin": "Avtobusny buudal khaana baina ve?"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Автобусны буудал банкны эсрэг талд байна.",
+   "en": "The bus stop is opposite the bank.",
+   "mn_latin": "Avtobusny buudal bankny esreg tald baina."
+  },
+  {
+   "speaker": "Sarah",
+   "mn": "Баярлалаа!",
+   "en": "Thank you!",
+   "mn_latin": "Bayarlalaa!"
+  },
+  {
+   "speaker": "Бат",
+   "mn": "Зүгээр ээ.",
+   "en": "You're welcome.",
+   "mn_latin": "Zügeer ee."
+  }
+ ],
+ "culture_note": {
+  "en": "In Ulaanbaatar, people often give directions using landmarks like the State Department Store, Sükhbaatar Square, or a well-known market, because many streets have no obvious signs. Addresses are often given by district, khoroo, and building number. Asking a passerby is common, and people are usually happy to help.",
+  "mn": "Улаанбаатарт олон гудамжинд тодорхой тэмдэг байдаггүй тул хүмүүс зам заахдаа Улсын Их Дэлгүүр, Сүхбаатарын талбай, алдартай зах зэрэг танил газруудыг ихэвчлэн ашигладаг. Хаягийг ихэвчлэн дүүрэг, хороо, байрны дугаараар хэлдэг. Хажуугаар өнгөрч буй хүнээс асуух нь түгээмэл бөгөөд хүмүүс ихэвчлэн дуртайяа тусалдаг."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 9,
+  "notes": "Mostly good content, but the Mongolian grammar explanation described English grammar, and there were a few small Mongolian errors (question particle, genitive of кафе, odd alternatives)."
+ },
+ "opus_fix": {
+  "rating_before": 7,
+  "fixes": 6,
+  "notes": "Main fixes: question particle harmony, word-order explanation, a second correct fill-blank option, and the culture note wording and parity.",
+  "changes": [
+   {
+    "section": "sentences",
+    "index": 1,
+    "field": "alt_en",
+    "why": "'by the market' means near it, not at it"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "Question particle after ойр follows vowel harmony and is уу, not юу"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The location comes right before байна, not first in the sentence. Now matches the mn version, including эсрэг талд."
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "Corrected the word order and aligned it with the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'inside the park' was also a correct answer"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Wording: 'зам заах' instead of 'заавар', 'танил газар' instead of 'тэмдэглэгээ'. Added the missing 'no signs' reason to match the en."
+   }
+  ]
+ }
+}

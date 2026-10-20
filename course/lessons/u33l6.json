@@ -1,0 +1,458 @@
+{
+ "intro_en": "You will write a short blog post or voice message about how technology has changed daily life in Ulaanbaatar and the countryside. You will also combine 'used to', 'although' and Mongolian -сан ч / гэхдээ in one connected paragraph.",
+ "intro_mn": "Та Улаанбаатар болон хөдөөгийн амьдрал технологийн нөлөөгөөр хэрхэн өөрчлөгдсөн тухай богино блог бичих эсвэл дуут мессеж бичиж үлдээх болно. Мөн англи хэлний 'used to', 'although' болон монгол хэлний -сан ч / гэхдээ хэлбэрийг нэг догол мөрөнд хослуулна.",
+ "vocab": [
+  {
+   "mn": "технологи",
+   "en": "technology",
+   "pos": "noun",
+   "example_mn": "Технологи бидний амьдралыг өөрчилсөн.",
+   "example_en": "Technology has changed our lives.",
+   "mn_latin": "tyekhnologi"
+  },
+  {
+   "mn": "програм",
+   "en": "app / program",
+   "pos": "noun",
+   "example_mn": "Би такси дуудах програм ашигладаг.",
+   "example_en": "I use an app to call a taxi.",
+   "mn_latin": "program"
+  },
+  {
+   "mn": "холбогдох",
+   "en": "to connect / get in touch",
+   "pos": "verb",
+   "example_mn": "Би аавтайгаа долоо хоног бүр холбогддог.",
+   "example_en": "I get in touch with my dad every week.",
+   "mn_latin": "kholbogdokh"
+  },
+  {
+   "mn": "сүлжээ",
+   "en": "network / signal",
+   "pos": "noun",
+   "example_mn": "Хөдөө сүлжээ муу байдаг.",
+   "example_en": "The signal is poor in the countryside.",
+   "mn_latin": "süljee"
+  },
+  {
+   "mn": "татаж авах",
+   "en": "to download",
+   "pos": "verb",
+   "example_mn": "Би шинэ програм татаж авлаа.",
+   "example_en": "I downloaded a new app.",
+   "mn_latin": "tataj avakh"
+  },
+  {
+   "mn": "дуут мессеж",
+   "en": "voice message",
+   "pos": "noun",
+   "example_mn": "Би ээждээ дуут мессеж илгээлээ.",
+   "example_en": "I sent my mom a voice message.",
+   "mn_latin": "duut myessyej"
+  },
+  {
+   "mn": "төлбөр төлөх",
+   "en": "to pay",
+   "pos": "verb",
+   "example_mn": "Одоо утсаараа төлбөр төлж болно.",
+   "example_en": "Now you can pay with your phone.",
+   "mn_latin": "tölbör tölökh"
+  },
+  {
+   "mn": "тохиромжтой",
+   "en": "convenient",
+   "pos": "adjective",
+   "example_mn": "Онлайн захиалга маш тохиромжтой.",
+   "example_en": "Ordering online is very convenient.",
+   "mn_latin": "tokhiromjtoi"
+  },
+  {
+   "mn": "хамаарах",
+   "en": "to depend on",
+   "pos": "verb",
+   "example_mn": "Олон хүн утаснаасаа хэт хамаардаг.",
+   "example_en": "Many people depend too much on their phones.",
+   "mn_latin": "khamaarakh"
+  },
+  {
+   "mn": "өөрчлөлт",
+   "en": "change",
+   "pos": "noun",
+   "example_mn": "Сүүлийн жилүүдэд том өөрчлөлт гарсан.",
+   "example_en": "A big change has happened in recent years.",
+   "mn_latin": "öörchlölt"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Би өмнө нь захидал бичдэг байсан.",
+   "en": "I used to write letters.",
+   "alt_mn": [
+    "Би урьд захидал бичдэг байсан."
+   ],
+   "alt_en": [
+    "I used to write letters before."
+   ],
+   "mn_latin": "Bi ömnö ni zakhidal bichdeg baisan."
+  },
+  {
+   "mn": "Одоо би дуут мессеж илгээдэг.",
+   "en": "Now I send voice messages.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Odoo bi duut myessyej ilgeedeg."
+  },
+  {
+   "mn": "Хөдөө сүлжээ муу байсан ч бид утсаар ярьдаг байсан.",
+   "en": "Although the signal was poor in the countryside, we used to talk on the phone.",
+   "alt_mn": [
+    "Хөдөө сүлжээ муу байсан ч бид утсаар ярьдаг байлаа."
+   ],
+   "alt_en": [
+    "The signal in the countryside was poor, but we used to talk on the phone."
+   ],
+   "mn_latin": "Khödöö süljee muu baisan ch bid utsaar yaridag baisan."
+  },
+  {
+   "mn": "Улаанбаатарт замын түгжрэл их байдаг ч програмаар такси дуудахад хялбар.",
+   "en": "Although there is a lot of traffic in Ulaanbaatar, it is easy to call a taxi with an app.",
+   "alt_mn": [],
+   "alt_en": [
+    "There is a lot of traffic in Ulaanbaatar, but it is easy to call a taxi with an app."
+   ],
+   "mn_latin": "Ulaanbaatart zamyn tügjrel ikh baidag ch programaar taksi duudakhad khyalbar."
+  },
+  {
+   "mn": "Өмнө нь бид зах дээр бэлнээр төлдөг байсан, гэхдээ одоо утсаараа төлдөг.",
+   "en": "We used to pay in cash at the market, but now we pay with our phones.",
+   "alt_mn": [],
+   "alt_en": [
+    "We used to pay cash at the market; however, now we pay by phone."
+   ],
+   "mn_latin": "Ömnö ni bid zakh deer belneer töldög baisan, gekhdee odoo utsaaraa töldög."
+  },
+  {
+   "mn": "Миний өвөө өмнө нь утас ашиглаж үзээгүй байсан ч одоо видео дуудлага хийж сурсан.",
+   "en": "Although my grandfather had never used a phone before, he has now learned to make video calls.",
+   "alt_mn": [],
+   "alt_en": [
+    "My grandfather had never tried using a phone, but now he has learned to make video calls."
+   ],
+   "mn_latin": "Minii övöö ömnö ni utas ashiglaj üzeegüi baisan ch odoo vidyeo duudlaga khiij sursan."
+  },
+  {
+   "mn": "Малчид одоо цаг агаарын мэдээг утаснаасаа хардаг.",
+   "en": "Herders now check the weather forecast on their phones.",
+   "alt_mn": [
+    "Малчид одоо цаг агаарын мэдээг утсаараа үздэг."
+   ],
+   "alt_en": [
+    "Herders now look at the weather forecast on their phones."
+   ],
+   "mn_latin": "Malchid odoo tsag agaaryn medeeg utasnaasaa khardag."
+  },
+  {
+   "mn": "Би өмнө нь номын санд удаан суудаг байсан.",
+   "en": "I used to spend a long time sitting in the library.",
+   "alt_mn": [],
+   "alt_en": [
+    "I used to sit in the library for a long time."
+   ],
+   "mn_latin": "Bi ömnö ni nomyn sand udaan suudag baisan."
+  },
+  {
+   "mn": "Интернэт тохиромжтой ч заримдаа хэт их цаг алддаг.",
+   "en": "Although the internet is convenient, we sometimes waste too much time.",
+   "alt_mn": [],
+   "alt_en": [
+    "The internet is convenient, but we sometimes waste too much time on it."
+   ],
+   "mn_latin": "Intyernet tokhiromjtoi ch zarimdaa khet ikh tsag alddag."
+  },
+  {
+   "mn": "Бид шинэ програм татаж авсан, гэхдээ хөдөө ажиллахгүй байсан.",
+   "en": "We downloaded a new app, but it didn't work in the countryside.",
+   "alt_mn": [],
+   "alt_en": [
+    "We downloaded a new app, but it wasn't working in the countryside."
+   ],
+   "mn_latin": "Bid shine program tataj avsan, gekhdee khödöö ajillakhgüi baisan."
+  },
+  {
+   "mn": "Олон хүн утаснаасаа хамааралтай болсон ч би тайван амрахыг хичээдэг.",
+   "en": "Although many people have become dependent on their phones, I try to relax.",
+   "alt_mn": [],
+   "alt_en": [
+    "Many people have become dependent on their phones, but I try to relax."
+   ],
+   "mn_latin": "Olon khün utasnaasaa khamaaraltai bolson ch bi taivan amrakhyg khicheedeg."
+  },
+  {
+   "mn": "Технологи амьдралыг хөнгөвчилсөн, гэхдээ бид бие биетэйгээ бага уулзах болсон.",
+   "en": "Technology has made life easier, but we meet each other less now.",
+   "alt_mn": [],
+   "alt_en": [
+    "Technology has made life easier; however, we see each other less now."
+   ],
+   "mn_latin": "Tyekhnologi amidralyg khöngövchilsön, gekhdee bid biye biyeteigee baga uulzakh bolson."
+  }
+ ],
+ "grammar": {
+  "title_en": "Connecting the past and present: used to, although, -сан ч / гэхдээ",
+  "title_mn": "Өнгөрсөн ба одоог холбох нь: used to, although, -сан ч / гэхдээ",
+  "explain_en": "To say 'I used to...', Mongolian uses the habitual -даг plus байсан: 'бичдэг байсан'. To say 'although', add ч after a past participle (-сан ч), often after байсан or байдаг with a state word: 'сүлжээ муу байсан ч' = although the signal was poor. 'Гэхдээ' starts a new clause and means 'but / however': 'Утас хямд, гэхдээ удаан.' Use them to build a paragraph: Өмнө нь захидал бичдэг байсан. Одоо дуут мессеж илгээдэг, гэхдээ ... Note that in English 'although' is never used together with 'but' in the same sentence. In the same way, the Mongolian ч clause is followed by a plain main clause, without гэхдээ.",
+  "explain_mn": "Англи хэлэнд өнгөрсөн дадлыг 'used to + үйл үгийн үндсэн хэлбэр' гэж илэрхийлнэ: 'I used to write letters' (Би захидал бичдэг байсан). 'Although' нь сул өгүүлбэрийг оруулдаг: 'Although it was late, we called him.' Англи хэлэнд 'although'-ийн хамт 'but' хэрэглэхгүй. 'But' нь хоёр өгүүлбэрийг холбоно: 'It was late, but we called him.' Асуух, үгүйсгэхэд 'did you use to', 'didn't use to' гэнэ.",
+  "examples": [
+   {
+    "mn": "Би өмнө нь захидал бичдэг байсан.",
+    "en": "I used to write letters.",
+    "mn_latin": "Bi ömnö ni zakhidal bichdeg baisan."
+   },
+   {
+    "mn": "Сүлжээ муу байсан ч бид ярьдаг байсан.",
+    "en": "Although the signal was poor, we used to talk.",
+    "mn_latin": "Süljee muu baisan ch bid yaridag baisan."
+   },
+   {
+    "mn": "Утас хямд болсон, гэхдээ бид бие биетэйгээ бага уулздаг.",
+    "en": "Phones have become cheaper, but we meet each other less.",
+    "mn_latin": "Utas khyamd bolson, gekhdee bid biye biyeteigee baga uulzdag."
+   },
+   {
+    "mn": "Өмнө нь бэлнээр төлдөг байсан, гэхдээ одоо апп ашигладаг.",
+    "en": "We used to pay in cash, but now we use an app.",
+    "mn_latin": "Ömnö ni belneer töldög baisan, gekhdee odoo app ashigladag."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Би өмнө нь захидал бичдэг ___.",
+   "answer": "байсан",
+   "options": [
+    "байсан",
+    "байна",
+    "байх",
+    "бичсэн"
+   ],
+   "translation": "I used to write letters.",
+   "explain_en": "'Used to' = habitual -даг + байсан.",
+   "explain_mn": "Өнгөрсөн дадлыг -даг байсан гэж илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Хөдөө сүлжээ муу байсан ___ бид утсаар ярьдаг байсан.",
+   "answer": "ч",
+   "options": [
+    "ч",
+    "нь",
+    "тай",
+    "гэж"
+   ],
+   "translation": "Although the signal was poor in the countryside, we used to talk on the phone.",
+   "explain_en": "'Ч' after байсан means 'although' within one sentence.",
+   "explain_mn": "'байсан ч' нь 'although' гэсэн утгатай."
+  },
+  {
+   "lang": "mn",
+   "text": "Утас хямд болсон, ___ бид бие биетэйгээ бага уулздаг.",
+   "answer": "гэхдээ",
+   "options": [
+    "гэхдээ",
+    "учир нь",
+    "тиймээс",
+    "бөгөөд"
+   ],
+   "translation": "Phones have become cheaper, but we meet each other less.",
+   "explain_en": "'Гэхдээ' introduces a contrast: 'but'.",
+   "explain_mn": "'Гэхдээ' нь эсрэг утгыг холбоно."
+  },
+  {
+   "lang": "en",
+   "text": "We ___ to pay in cash at the market.",
+   "answer": "used",
+   "options": [
+    "used",
+    "use",
+    "were",
+    "using"
+   ],
+   "translation": "Бид зах дээр бэлнээр төлдөг байсан.",
+   "explain_en": "Past habit: 'used to' + base verb.",
+   "explain_mn": "Өнгөрсөн дадал: 'used to' + үйл үгийн үндсэн хэлбэр."
+  },
+  {
+   "lang": "en",
+   "text": "___ the signal was weak, I sent a voice message.",
+   "answer": "Although",
+   "options": [
+    "Although",
+    "But",
+    "Despite",
+    "So"
+   ],
+   "translation": "Сүлжээ сул байсан ч би дуут мессеж илгээсэн.",
+   "explain_en": "'Although' starts the contrasting clause; don't add 'but'.",
+   "explain_mn": "'Although' сул өгүүлбэрийг эхлүүлнэ, 'but' нэмэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "Phones are convenient, ___ I try not to depend on them.",
+   "answer": "but",
+   "options": [
+    "but",
+    "because",
+    "or",
+    "despite"
+   ],
+   "translation": "Утас тохиромжтой, гэхдээ би утаснаас хамааралгүй байхыг хичээдэг.",
+   "explain_en": "'But' joins two contrasting clauses in the middle of a sentence.",
+   "explain_mn": "'But' хоёр эсрэг өгүүлбэрийг холбоно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Saruul",
+   "mn": "Би технологийн тухай блог бичиж байна. Чи өмнө нь яаж холбогддог байсан бэ?",
+   "en": "I'm writing a blog post about technology. How did you use to stay in touch?",
+   "mn_latin": "Bi tyekhnologiin tukhai blog bichij baina. Chi ömnö ni yaaj kholbogddog baisan be?"
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Бид захидал бичдэг байсан. Одоо дуут мессеж илгээдэг.",
+   "en": "We used to write letters. Now we send voice messages.",
+   "mn_latin": "Bid zakhidal bichdeg baisan. Odoo duut myessyej ilgeedeg."
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Манай өвөө хөдөө амьдардаг. Сүлжээ муу байдаг ч тэр видео дуудлага хийж сурсан.",
+   "en": "My grandfather lives in the countryside. Although the signal is poor, he has learned to make video calls.",
+   "mn_latin": "Manai övöö khödöö amidardag. Süljee muu baidag ch ter vidyeo duudlaga khiij sursan."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Гайхалтай! Малчид утсаараа юу хийдэг вэ?",
+   "en": "Amazing! What do herders do with their phones?",
+   "mn_latin": "Gaikhaltai! Malchid utsaaraa yuu khiideg ve?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Цаг агаарын мэдээ үзэж, мал зардаг. Төлбөрөө ч утсаараа төлдөг.",
+   "en": "They check the weather, sell livestock, and even pay by phone.",
+   "mn_latin": "Tsag agaaryn medee üzej, mal zardag. Tölböröö ch utsaaraa töldög."
+  },
+  {
+   "speaker": "Tom",
+   "mn": "Тохиромжтой байна. Гэхдээ сул тал нь бий юу?",
+   "en": "That's convenient. But is there a downside?",
+   "mn_latin": "Tokhiromjtoi baina. Gekhdee sul tal ni bii yuu?"
+  },
+  {
+   "speaker": "Saruul",
+   "mn": "Бий. Бид утаснаасаа хэт хамаардаг болсон, гэхдээ өөрчлөлт ихэнхдээ сайн.",
+   "en": "Yes. We've become too dependent on our phones, but the change is mostly good.",
+   "mn_latin": "Bii. Bid utasnaasaa khet khamaardag bolson, gekhdee öörchlölt ikhenkhdee sain."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, mobile phones reached herder families even in remote areas, and many now use solar panels to charge them. Apps and mobile banking are very popular in Ulaanbaatar, and people often send voice messages instead of typing. Still, coverage can be weak in the Gobi and mountain areas.",
+  "mn": "Монголд гар утас алс хязгаарын малчин айлуудад хүртэл хүрсэн бөгөөд олон айл нарны хавтангаар цэнэглэдэг. Улаанбаатарт апп болон мобайл банк маш өргөн хэрэглэгддэг, хүмүүс бичихийн оронд дуут мессеж илгээх нь элбэг. Гэвч Говь болон уулархаг нутагт сүлжээ сул байж болно."
+ },
+ "review": {
+  "rating": 6,
+  "fixes": 9,
+  "notes": "Mostly good content; the grammar explanations had a broken example ('дугаар дардаг', 'Хэдий тийм ч', ellipses) and the one fill-in-the-blank had an ambiguous distractor."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 14,
+  "notes": "Main problems were unnatural ч clauses, fill-blank distractors that also worked, a mismatched grammar title, and a meaning error in sentence 8.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'өгүүллэмж' is rare; 'догол мөр' = paragraph; 'технологиор' → 'технологийн нөлөөгөөр'"
+   },
+   {
+    "section": "sentences",
+    "index": 3,
+    "field": "mn",
+    "why": "'их ч' is unclear here; standard form is 'замын түгжрэл их байдаг ч'"
+   },
+   {
+    "section": "sentences",
+    "index": 5,
+    "field": "mn",
+    "why": "Matches the English 'had never used ... before'"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "en",
+    "why": "The Mongolian means people lose time, not that the internet wastes time"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "alt_en",
+    "why": "Same meaning fix"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "Should match the en title"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "'-аа ч' is not a past participle; clarified the parallel with English"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "'бичдэг болсон' is also grammatical, so the answer was not the only correct option"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'байсан бөгөөд' is also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'Because' also forms a valid sentence"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "options",
+    "why": "'although' is also grammatical in that slot"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'хамаарахгүйг хичээдэг' is unnatural"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "'муу ч' is unnatural; needs 'байдаг ч'"
+   },
+   {
+    "section": "dialogue",
+    "index": 4,
+    "field": "mn",
+    "why": "Habitual -даг matches the question and the English present"
+   }
+  ]
+ }
+}

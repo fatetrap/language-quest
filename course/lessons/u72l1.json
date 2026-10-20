@@ -1,0 +1,446 @@
+{
+ "intro_en": "You will learn to describe Ulaanbaatar's rapid growth the way an urban planner would on the radio. You will also practice turning whole clauses into subjects with -х нь and -сан нь.",
+ "intro_mn": "Улаанбаатар хотын хурдацтай өсөлтийг радио ярилцлагад хот төлөвлөгч шиг тайлбарлаж сурна. Мөн бүтэн өгүүлбэрийг -х нь, -сан нь нөхцөлөөр өгүүлбэрийн эзэн болгож сурна.",
+ "vocab": [
+  {
+   "mn": "хүн амын нягтрал",
+   "en": "population density",
+   "pos": "noun phrase",
+   "example_mn": "Хүн амын нягтрал төвд хамгийн өндөр байна.",
+   "example_en": "Population density is highest in the center.",
+   "mn_latin": "khün amyn nyagtral"
+  },
+  {
+   "mn": "ерөнхий төлөвлөгөө",
+   "en": "master plan",
+   "pos": "noun phrase",
+   "example_mn": "Хотын ерөнхий төлөвлөгөөг шинэчилсэн.",
+   "example_en": "The city's master plan was updated.",
+   "mn_latin": "yerönkhii tölövlögöö"
+  },
+  {
+   "mn": "хотжилт",
+   "en": "urbanization",
+   "pos": "noun",
+   "example_mn": "Хотжилт жилээс жилд хурдсаж байна.",
+   "example_en": "Urbanization is speeding up year after year.",
+   "mn_latin": "khotjilt"
+  },
+  {
+   "mn": "нийслэлд шилжин ирэх",
+   "en": "migration to the capital",
+   "pos": "noun phrase",
+   "example_mn": "Нийслэлд шилжин ирэх нь нэмэгдсээр байна.",
+   "example_en": "Migration to the capital keeps increasing.",
+   "mn_latin": "niisleld shiljin irekh"
+  },
+  {
+   "mn": "дэд бүтэц",
+   "en": "infrastructure",
+   "pos": "noun",
+   "example_mn": "Дэд бүтэц хүн амын өсөлтөд хүрэлцэхгүй байна.",
+   "example_en": "Infrastructure cannot keep up with population growth.",
+   "mn_latin": "ded bütets"
+  },
+  {
+   "mn": "өргөжих",
+   "en": "to expand",
+   "pos": "verb",
+   "example_mn": "Хот хүрээлэн буй нутаг руу өргөжиж байна.",
+   "example_en": "The city is expanding into the surrounding area.",
+   "mn_latin": "örgöjikh"
+  },
+  {
+   "mn": "түгжрэл",
+   "en": "traffic congestion",
+   "pos": "noun",
+   "example_mn": "Өглөөний түгжрэл маш хүнд байдаг.",
+   "example_en": "The morning congestion is very bad.",
+   "mn_latin": "tügjrel"
+  },
+  {
+   "mn": "гэр хороолол",
+   "en": "ger district",
+   "pos": "noun phrase",
+   "example_mn": "Гэр хорооллын оршин суугчид их нэмэгдсэн.",
+   "example_en": "The number of ger district residents has grown a lot.",
+   "mn_latin": "ger khoroolol"
+  },
+  {
+   "mn": "шийдвэрлэх",
+   "en": "to resolve, to solve",
+   "pos": "verb",
+   "example_mn": "Энэ асуудлыг яаралтай шийдвэрлэх хэрэгтэй.",
+   "example_en": "This problem needs to be resolved urgently.",
+   "mn_latin": "shiidverlekh"
+  },
+  {
+   "mn": "тогтвортой хөгжил",
+   "en": "sustainable development",
+   "pos": "noun phrase",
+   "example_mn": "Тогтвортой хөгжил бол бидний зорилго.",
+   "example_en": "Sustainable development is our goal.",
+   "mn_latin": "togtvortoi khögjil"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хот хурдан өргөжиж байгаа нь санаа зовоож байна.",
+   "en": "It is worrying that the city is expanding so fast.",
+   "alt_mn": [],
+   "alt_en": [
+    "The fact that the city is expanding so fast is worrying."
+   ],
+   "mn_latin": "Khot khurdan örgöjij baigaa ni sanaa zovooj baina."
+  },
+  {
+   "mn": "Хүн амын өсөлт хурдассан нь дэд бүтцэд ачаалал өгч байна.",
+   "en": "That population growth has accelerated is putting pressure on infrastructure.",
+   "alt_mn": [
+    "Хүн амын өсөлт хурдассан нь дэд бүтцэд дарамт учруулж байна."
+   ],
+   "alt_en": [
+    "The fact that population growth has accelerated is putting a strain on infrastructure."
+   ],
+   "mn_latin": "Khün amyn ösölt khurdassan ni ded büttsed achaalal ögch baina."
+  },
+  {
+   "mn": "Хөдөөнөөс нийслэлд шилжин ирэх нь жил бүр нэмэгдэж байна.",
+   "en": "Migration from the countryside to the capital is increasing every year.",
+   "alt_mn": [],
+   "alt_en": [
+    "The number of people moving from the countryside to the capital rises every year."
+   ],
+   "mn_latin": "Khödöönöös niisleld shiljin irekh ni jil bür nemegdej baina."
+  },
+  {
+   "mn": "Хотын төвд хүн амын нягтрал хэт өндөр болсон нь үнэн.",
+   "en": "It is true that the population density in the city center has become too high.",
+   "alt_mn": [],
+   "alt_en": [
+    "That population density in the center has become too high is true."
+   ],
+   "mn_latin": "Khotyn tövd khün amyn nyagtral khet öndör bolson ni ünen."
+  },
+  {
+   "mn": "Ерөнхий төлөвлөгөөг цаг тухайд нь шинэчлээгүй нь алдаа байлаа.",
+   "en": "It was a mistake that the master plan was not updated in time.",
+   "alt_mn": [],
+   "alt_en": [
+    "Not updating the master plan in time was a mistake."
+   ],
+   "mn_latin": "Yerönkhii tölövlögöög tsag tukhaid ni shinechleegüi ni aldaa bailaa."
+  },
+  {
+   "mn": "Гэр хорооллууд тэлсээр байгаа нь агаарын бохирдлыг ихэсгэж байна.",
+   "en": "The continued spread of ger districts is increasing air pollution.",
+   "alt_mn": [],
+   "alt_en": [
+    "That the ger districts keep spreading is increasing air pollution."
+   ],
+   "mn_latin": "Ger khoroolluud telseer baigaa ni agaaryn bokhirdlyg ikhesgej baina."
+  },
+  {
+   "mn": "Хотжилтыг зөв удирдах нь маш чухал.",
+   "en": "Managing urbanization properly is very important.",
+   "alt_mn": [],
+   "alt_en": [
+    "It is very important to manage urbanization properly."
+   ],
+   "mn_latin": "Khotjiltyg zöv udirdakh ni mash chukhal."
+  },
+  {
+   "mn": "Дэд бүтэц хүн амын өсөлтөд хүрэлцэхгүй байгаа нь тодорхой байна.",
+   "en": "It is clear that infrastructure cannot keep up with population growth.",
+   "alt_mn": [],
+   "alt_en": [
+    "That infrastructure is not keeping pace with population growth is obvious."
+   ],
+   "mn_latin": "Ded bütets khün amyn ösöltöd khüreltsekhgüi baigaa ni todorkhoi baina."
+  },
+  {
+   "mn": "Олон хүн нийслэлд суурьшсан нь түгжрэлийг улам хүндрүүлсэн.",
+   "en": "The fact that so many people settled in the capital made congestion even worse.",
+   "alt_mn": [],
+   "alt_en": [
+    "So many people settling in the capital made congestion even worse."
+   ],
+   "mn_latin": "Olon khün niisleld suurishsan ni tügjreliig ulam khündrüülsen."
+  },
+  {
+   "mn": "Бусад аймгийг тэнцвэртэй хөгжүүлэхгүй байгаа нь асуудлын эх үндэс юм.",
+   "en": "The failure to develop other provinces in a balanced way is the root of the problem.",
+   "alt_mn": [],
+   "alt_en": [
+    "That other provinces are not being developed in a balanced way is the root of the problem."
+   ],
+   "mn_latin": "Busad aimgiig tentsvertei khögjüülekhgüi baigaa ni asuudlyn ekh ündes yum."
+  },
+  {
+   "mn": "Шинэ хороолол барих нь бүх асуудлыг шийдэхгүй.",
+   "en": "Building new districts will not solve every problem.",
+   "alt_mn": [
+    "Шинэ хороолол барих нь бүх асуудлыг шийдвэрлэхгүй."
+   ],
+   "alt_en": [
+    "The construction of new districts will not resolve all the problems."
+   ],
+   "mn_latin": "Shine khoroolol barikh ni bükh asuudlyg shiidekhgüi."
+  },
+  {
+   "mn": "Тогтвортой хөгжлийг баримтлах нь хотын ирээдүйн түлхүүр юм.",
+   "en": "Pursuing sustainable development is the key to the city's future.",
+   "alt_mn": [],
+   "alt_en": [
+    "Following a path of sustainable development is the key to the city's future."
+   ],
+   "mn_latin": "Togtvortoi khögjliig barimtlakh ni khotyn ireedüin tülkhüür yum."
+  }
+ ],
+ "grammar": {
+  "title_en": "Clauses as subjects: -х нь and -сан нь",
+  "title_mn": "Өгүүлбэрийг эзэн болгох нь: -х нь, -сан нь",
+  "explain_en": "In formal Mongolian you can turn a whole clause into a noun and use it as the subject by adding нь. Use -х for general or future ideas: Дэд бүтцийг сайжруулах нь... (Improving infrastructure...). For ongoing situations use -ж байгаа: Хот өргөжиж байгаа нь... (That the city is expanding...). Use -сан/-сэн/-сон/-сөн for completed facts: Өсөлт хурдассан нь... (That growth has accelerated...). The clause is then followed by an evaluation or comment such as чухал, үнэн, санаа зовоож байна, or алдаа байлаа. English does the same with 'that'-clauses, gerunds and 'the fact that': 'That growth has accelerated is worrying.'",
+  "explain_mn": "Англи хэлэнд бүтэн өгүүлбэрийг 'that' үгээр эхлүүлж эзэн болгодог: 'That the city is growing fast is clear.' Мөн 'The fact that...' эсвэл -ing хэлбэрийг хэрэглэнэ: 'Managing urbanization is important.' Албан найруулгад 'It is clear that...' гэж хэлэх нь илүү түгээмэл бөгөөд ингэхдээ 'It' нь түр эзэн болж, 'that'-өгүүлбэр төгсгөлд орно. Монгол хэлэнд үйл үгийн үндэс дээр -х (ерөнхий, ирээдүйн санаа), -ж байгаа (үргэлжилж буй үйл), -сан (болж өнгөрсөн баримт) нөхцөл залгаад нь нэмж эзэн болгоно: Хот өргөжиж байгаа нь тодорхой. Нөхцөл нь эгшгийн зохицлоор -ах/-эх/-ох/-өх, -сан/-сэн/-сон/-сөн болно.",
+  "examples": [
+   {
+    "mn": "Хот өргөжиж байгаа нь тодорхой.",
+    "en": "It is clear that the city is expanding.",
+    "mn_latin": "Khot örgöjij baigaa ni todorkhoi."
+   },
+   {
+    "mn": "Хүн амын өсөлт хурдассан нь санаа зовоож байна.",
+    "en": "That population growth has accelerated is worrying.",
+    "mn_latin": "Khün amyn ösölt khurdassan ni sanaa zovooj baina."
+   },
+   {
+    "mn": "Дэд бүтцийг сайжруулах нь чухал.",
+    "en": "Improving infrastructure is important.",
+    "mn_latin": "Ded büttsiig saijruulakh ni chukhal."
+   },
+   {
+    "mn": "Төлөвлөгөөг хойшлуулсан нь алдаа байлаа.",
+    "en": "Postponing the plan was a mistake.",
+    "mn_latin": "Tölövlögöög khoishluulsan ni aldaa bailaa."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Хот хурдан өргөжиж байгаа ___ санаа зовоож байна.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "ч",
+    "аас",
+    "руу"
+   ],
+   "translation": "It is worrying that the city is expanding so fast.",
+   "explain_en": "нь marks the nominalized clause as the subject of the sentence.",
+   "explain_mn": "Нэрлэсэн өгүүлбэрийн төгсгөлд эзэн болгогч «нь» орно."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүн амын өсөлт хурдас___ нь дэд бүтцэд ачаалал өгч байна.",
+   "answer": "сан",
+   "options": [
+    "сан",
+    "ах",
+    "даг",
+    "сэн"
+   ],
+   "translation": "That population growth has accelerated is putting pressure on infrastructure.",
+   "explain_en": "-сан (after хурдас- with back vowels) expresses a completed fact.",
+   "explain_mn": "Дууссан үйл баримтыг -сан нөхцөлөөр илэрхийлнэ."
+  },
+  {
+   "lang": "mn",
+   "text": "Дэд бүтцийг сайжруул___ нь маш чухал.",
+   "answer": "ах",
+   "options": [
+    "ах",
+    "сан",
+    "сэн",
+    "даг"
+   ],
+   "translation": "Improving infrastructure is very important.",
+   "explain_en": "-х makes a general or future-oriented noun clause; сайжруулах takes -ах.",
+   "explain_mn": "Ерөнхий, ирээдүйн санааг -х нөхцөлөөр нэрлэнэ; сайжруулах нь -ах-аар төгсөнө."
+  },
+  {
+   "lang": "en",
+   "text": "___ the city is growing so fast is a serious concern.",
+   "answer": "That",
+   "options": [
+    "That",
+    "What",
+    "Which",
+    "If"
+   ],
+   "translation": "Хот ийм хурдан өсөж байгаа нь ноцтой санаа зовоосон асуудал юм.",
+   "explain_en": "A that-clause can open a sentence as its subject in formal English.",
+   "explain_mn": "Албан найруулгад 'that'-өгүүлбэр өгүүлбэрийн эзэн болж болно."
+  },
+  {
+   "lang": "en",
+   "text": "The fact ___ the master plan was not updated caused problems.",
+   "answer": "that",
+   "options": [
+    "that",
+    "what",
+    "who",
+    "whose"
+   ],
+   "translation": "Ерөнхий төлөвлөгөөг шинэчлээгүй нь асуудал үүсгэсэн.",
+   "explain_en": "'The fact that' introduces a noun clause that explains the noun fact.",
+   "explain_mn": "'The fact that' нь баримтыг тайлбарлах өгүүлбэр залгана."
+  },
+  {
+   "lang": "en",
+   "text": "___ urbanization carefully is essential for the capital.",
+   "answer": "Managing",
+   "options": [
+    "Managing",
+    "Manage",
+    "Managed",
+    "To managing"
+   ],
+   "translation": "Хотжилтыг болгоомжтой удирдах нь нийслэлд зайлшгүй чухал.",
+   "explain_en": "A gerund (-ing) works as a noun subject.",
+   "explain_mn": "Үйл үгийн -ing хэлбэр нэр үгийн адил эзэн болно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Өнөөдөр манай нэвтрүүлэгт хот төлөвлөгч Болд оролцож байна. Болд аа, Улаанбаатар хэр хурдан өсөж байна вэ?",
+   "en": "Today our guest is urban planner Bold. Bold, how fast is Ulaanbaatar growing?",
+   "mn_latin": "Önöödör manai nevtrüülegt khot tölövlögch Bold oroltsoj baina. Bold aa, Ulaanbaatar kher khurdan ösöj baina ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Нийслэлд шилжин ирэгсдийн тоо жил бүр нэмэгдэж байгаа нь хамгийн том өөрчлөлт юм.",
+   "en": "The biggest change is that migration to the capital increases every year.",
+   "mn_latin": "Niisleld shiljin iregsdiin too jil bür nemegdej baigaa ni khamgiin tom öörchlölt yum."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Үүний үр дагавар юу вэ?",
+   "en": "What is the consequence of that?",
+   "mn_latin": "Üünii ür dagavar yuu ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Хүн амын нягтрал өндөр болсон нь түгжрэл, агаарын бохирдолд нөлөөлж байна.",
+   "en": "The fact that population density has become so high is affecting congestion and air pollution.",
+   "mn_latin": "Khün amyn nyagtral öndör bolson ni tügjrel, agaaryn bokhirdold nölöölj baina."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Ерөнхий төлөвлөгөө үүнийг шийдэж чадах уу?",
+   "en": "Can the master plan solve this?",
+   "mn_latin": "Yerönkhii tölövlögöö üüniig shiidej chadakh uu?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Төлөвлөгөө дангаараа шийдэхгүй. Дэд бүтцийг цаг тухайд нь хөгжүүлэх нь чухал.",
+   "en": "A plan alone will not solve it. Developing infrastructure on time is important.",
+   "mn_latin": "Tölövlögöö dangaaraa shiidekhgüi. Ded büttsiig tsag tukhaid ni khögjüülekh ni chukhal."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Гэр хорооллын тухай юу хэлэх вэ?",
+   "en": "What would you say about the ger districts?",
+   "mn_latin": "Ger khoroollyn tukhai yuu khelekh ve?"
+  },
+  {
+   "speaker": "Bold",
+   "mn": "Тэнд дэд бүтэц хангалтгүй байгаа нь тодорхой, гэхдээ шийдэл бий.",
+   "en": "It is clear that infrastructure there is inadequate, but solutions exist.",
+   "mn_latin": "Tend ded bütets khangaltgüi baigaa ni todorkhoi, gekhdee shiidel bii."
+  }
+ ],
+ "culture_note": {
+  "en": "Roughly half of Mongolia's population lives in Ulaanbaatar, a city originally planned for a few hundred thousand people. Many newcomers settle in ger districts on the hillsides, where houses and gers often lack central heating, running water, and sewage. Winter coal smoke there is a major cause of the capital's severe air pollution, so urban planning is a daily topic in the media.",
+  "mn": "Монгол Улсын нийт хүн амын бараг тал нь Улаанбаатарт амьдардаг бөгөөд хот анх хэдэн зуун мянган хүнд зориулан төлөвлөгдсөн. Шинээр ирсэн олон иргэн уулын энгэр дэх гэр хороололд суурьшдаг бөгөөд тэнд байшин, гэрүүд төвлөрсөн дулаан, ус, ариутгах татуургагүй байх нь элбэг. Өвлийн нүүрсний утаа нийслэлийн агаарын бохирдлын гол шалтгаан тул хот төлөвлөлт хэвлэл мэдээллийн өдөр тутмын сэдэв болсон."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 5,
+  "notes": "Content is mostly accurate and natural; only distractor options and the thin Mongolian grammar explanation needed work."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 11,
+  "notes": "Fixed one ungrammatical sentence, a wrong alternative, a grammar explanation that contradicted its example, a spelling error, and wording in the dialogue and culture note.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Ulaanbaatar was missing, unlike the English intro; 'бүтэн' matches 'whole clauses'"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_mn",
+    "why": "'санаа зовоосон хэвээр байна' means 'remains worrying', which changes the meaning"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "mn",
+    "why": "'Хотыг бусад аймагт хөгжүүлэх' is ungrammatical and does not match the English"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The ongoing example uses -ж байгаа, not -х, so the explanation contradicted its own example"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The suffix changes by vowel harmony, not the stem; the -ж байгаа form is added to match the en version"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "'маш' (very) was not translated"
+   },
+   {
+    "section": "dialogue",
+    "index": 0,
+    "field": "mn",
+    "why": "Standard spelling is 'өсөж'; 'нэвтрүүлэгт оролцож' is the natural radio phrasing"
+   },
+   {
+    "section": "dialogue",
+    "index": 1,
+    "field": "mn",
+    "why": "The double нь clause was awkward"
+   },
+   {
+    "section": "dialogue",
+    "index": 3,
+    "field": "en",
+    "why": "The original English was unnatural"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "en",
+    "why": "A ger is not a tent; 'running water' is more precise"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "Wording fixes: 'шинэ иргэд', 'хотын энгэр' and 'шугам сүлжээ' (for sewage) were unnatural; 'хэвлэл мэдээллийн' added to match 'in the media'"
+   }
+  ]
+ }
+}

@@ -1,0 +1,470 @@
+{
+ "intro_en": "You will learn how to describe a car breakdown and call for help on a country road. You will also practice combining conditions, exceptions and partial reasons in one explanation, and using 'in case' and 'otherwise' in English.",
+ "intro_mn": "Та хөдөөгийн замд машин эвдэрвэл юу болсныг тайлбарлаж, тусламж дуудаж сурна. Мөн нэг тайлбарт нөхцөл, үл хамаарах зүйл, хэсэгчилсэн шалтгааныг хэрхэн хослуулах, англи хэлний 'in case', 'otherwise'-ийг хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "хөдөлгүүр",
+   "en": "engine",
+   "pos": "noun",
+   "example_mn": "Хөдөлгүүрээс хачин чимээ гарч байна.",
+   "example_en": "The engine is making a strange noise.",
+   "mn_latin": "khödölgüür"
+  },
+  {
+   "mn": "аккумулятор",
+   "en": "battery (car)",
+   "pos": "noun",
+   "example_mn": "Аккумулятор дууссан тул машин асахгүй байна.",
+   "example_en": "The battery is dead, so the car won't start.",
+   "mn_latin": "akkumulyator"
+  },
+  {
+   "mn": "дугуй хагарах",
+   "en": "to get a flat tire",
+   "pos": "verb phrase",
+   "example_mn": "Хээрийн замд дугуй хагарлаа.",
+   "example_en": "We got a flat tire on the country road.",
+   "mn_latin": "dugui khagarakh"
+  },
+  {
+   "mn": "ачиж чирэх машин",
+   "en": "tow truck",
+   "pos": "noun",
+   "example_mn": "Ачиж чирэх машин дуудах хэрэгтэй.",
+   "example_en": "We need to call a tow truck.",
+   "mn_latin": "achij chirekh mashin"
+  },
+  {
+   "mn": "засвар",
+   "en": "repair",
+   "pos": "noun",
+   "example_mn": "Энэ засвар хоёр цаг орно.",
+   "example_en": "This repair will take two hours.",
+   "mn_latin": "zasvar"
+  },
+  {
+   "mn": "бензин",
+   "en": "gasoline, gas",
+   "pos": "noun",
+   "example_mn": "Бензин дуусаад машин зогслоо.",
+   "example_en": "We ran out of gas and the car stopped.",
+   "mn_latin": "byenzin"
+  },
+  {
+   "mn": "сэлбэг",
+   "en": "spare part",
+   "pos": "noun",
+   "example_mn": "Энэ сэлбэг манайд байхгүй байна.",
+   "example_en": "We don't have this spare part.",
+   "mn_latin": "selbeg"
+  },
+  {
+   "mn": "дуудах",
+   "en": "to call, to summon",
+   "pos": "verb",
+   "example_mn": "Би тусламж дуудлаа.",
+   "example_en": "I called for help.",
+   "mn_latin": "duudakh"
+  },
+  {
+   "mn": "зам дээр гацах",
+   "en": "to get stuck on the road",
+   "pos": "verb phrase",
+   "example_mn": "Бид шөнө зам дээр гацсан.",
+   "example_en": "We got stuck on the road at night.",
+   "mn_latin": "zam deer gatsakh"
+  },
+  {
+   "mn": "асаах",
+   "en": "to start (an engine)",
+   "pos": "verb",
+   "example_mn": "Машиныг асаах гэтэл болсонгүй.",
+   "example_en": "I tried to start the car, but it didn't work.",
+   "mn_latin": "asaakh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Хөдөлгүүр асахгүй байна.",
+   "en": "The engine won't start.",
+   "alt_mn": [
+    "Хөдөлгүүр ассангүй."
+   ],
+   "alt_en": [
+    "The engine isn't starting."
+   ],
+   "mn_latin": "Khödölgüür asakhgüi baina."
+  },
+  {
+   "mn": "Аккумулятор дууссан тул машин асахгүй байна.",
+   "en": "The battery is dead, so the car won't start.",
+   "alt_mn": [],
+   "alt_en": [
+    "The car won't start because the battery is dead."
+   ],
+   "mn_latin": "Akkumulyator duussan tul mashin asakhgüi baina."
+  },
+  {
+   "mn": "Замд дугуй хагарчихлаа.",
+   "en": "We got a flat tire on the road.",
+   "alt_mn": [
+    "Замд дугуй хагарлаа."
+   ],
+   "alt_en": [
+    "Our tire went flat on the road."
+   ],
+   "mn_latin": "Zamd dugui khagarchikhlaa."
+  },
+  {
+   "mn": "Ачиж чирэх машин дуудахгүй бол бид энд хонох болно.",
+   "en": "Unless we call a tow truck, we'll have to spend the night here.",
+   "alt_mn": [],
+   "alt_en": [
+    "If we don't call a tow truck, we'll end up spending the night here."
+   ],
+   "mn_latin": "Achij chirekh mashin duudakhgüi bol bid end khonokh bolno."
+  },
+  {
+   "mn": "Бензинээс бусад бүх зүйл хэвийн байсан.",
+   "en": "Everything except the gas was in order.",
+   "alt_mn": [],
+   "alt_en": [
+    "Everything was fine apart from the gas."
+   ],
+   "mn_latin": "Byenzinees busad bükh züil kheviin baisan."
+  },
+  {
+   "mn": "Сэлбэг байхгүй тул засвар маргааш болтол үргэлжилнэ.",
+   "en": "Since there are no spare parts, the repair will last until tomorrow.",
+   "alt_mn": [],
+   "alt_en": [
+    "The repair will take until tomorrow because there are no spare parts."
+   ],
+   "mn_latin": "Selbeg baikhgüi tul zasvar margaash boltol ürgeljilne."
+  },
+  {
+   "mn": "Хэрэв дугуй хагарвал сэлбэг дугуйгаар солино.",
+   "en": "If we get a flat tire, we'll replace it with the spare.",
+   "alt_mn": [],
+   "alt_en": [
+    "If we get a flat, we'll put on the spare tire."
+   ],
+   "mn_latin": "Kherev dugui khagarval selbeg duguigaar solino."
+  },
+  {
+   "mn": "Нэмэлт бензин авч яваарай, тэгэхгүй бол замд гацна.",
+   "en": "Take extra gas with you; otherwise you'll get stuck on the road.",
+   "alt_mn": [],
+   "alt_en": [
+    "Bring extra gas, or else you'll be stuck on the road."
+   ],
+   "mn_latin": "Nemelt byenzin avch yavaarai, tegekhgüi bol zamd gatsna."
+  },
+  {
+   "mn": "Машин эвдэрсний гол шалтгаан нь хөдөлгүүр байсан, хэсэгчлэн аккумулятор ч нөлөөлсөн.",
+   "en": "The car broke down mainly because of the engine, and partly because of the battery.",
+   "alt_mn": [],
+   "alt_en": [
+    "The breakdown was mostly the engine's fault, and partly the battery's."
+   ],
+   "mn_latin": "Mashin evdersnii gol shaltgaan ni khödölgüür baisan, khesegchlen akkumulyator ch nölöölsön."
+  },
+  {
+   "mn": "Гар утсаа цэнэглээрэй, тэгэхгүй бол тусламж дуудаж чадахгүй.",
+   "en": "Charge your phone; otherwise you won't be able to call for help.",
+   "alt_mn": [],
+   "alt_en": [
+    "Keep your phone charged; otherwise you won't be able to call for help."
+   ],
+   "mn_latin": "Gar utsaa tsenegleerei, tegekhgüi bol tuslamj duudaj chadakhgüi."
+  },
+  {
+   "mn": "Засвар хурдан дуусахгүй бол бид өнөөдөр хотод хүрч чадахгүй.",
+   "en": "Unless the repair finishes quickly, we won't reach the city today.",
+   "alt_mn": [],
+   "alt_en": [
+    "If the repair isn't done quickly, we won't get to the city today."
+   ],
+   "mn_latin": "Zasvar khurdan duusakhgüi bol bid önöödör khotod khürch chadakhgüi."
+  },
+  {
+   "mn": "Жолооч нар хөдөлгүүрийн тосноос бусад бүх зүйлийг шалгасан.",
+   "en": "The drivers checked everything except the engine oil.",
+   "alt_mn": [],
+   "alt_en": [
+    "The drivers checked everything apart from the engine oil."
+   ],
+   "mn_latin": "Jolooch nar khödölgüüriin tosnoos busad bükh züiliig shalgasan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Condition, exception and part: -хгүй бол, -аас бусад, тал нь",
+  "title_mn": "Нөхцөл, үл хамаарах зүйл, хэсэг: -хгүй бол, -аас бусад, тал нь",
+  "explain_en": "In Mongolian you can build one explanation from three pieces. -хгүй бол means 'if not / unless' (Дуудахгүй бол гацна: unless we call, we'll be stuck). -аас/-ээс бусад means 'other than / except for' (бензинээс бусад: everything but the gas). Use a noun in the ablative before бусад. 'Тал нь' literally means 'half of it' and can mark one part of a reason. Remember: бол follows the negative verb form, as in засахгүй бол.",
+  "explain_mn": "Англи хэлэнд 'in case' нь 'тохиолдож магадгүй зүйлд урьдчилан бэлдэх' утгатай: Take a spare tire in case you get a flat. Харин 'otherwise' нь өмнөх зүйлийг хийхгүй бол ямар үр дагавар гарахыг хэлнэ: ...; otherwise you'll be stuck. Нэг өгүүлбэрт хоёуланг хослуулж болно: Take gas in case the station is closed; otherwise you'll be stuck. 'Except (for)' нь '-аас бусад', 'partly' нь 'хэсэгчлэн, нэг талаар' гэсэн утгатай: Everything except the battery was fine. The breakdown was partly the engine's fault. 'In case'-ийн дараа ирээдүйн утгатай байсан ч одоо цаг хэрэглэнэ (заримдаа should-тэй). 'If'-ийн адил 'will' хэрэглэдэггүй.",
+  "examples": [
+   {
+    "mn": "Сэлбэг дугуй авахгүй бол бид гацна.",
+    "en": "If we don't take a spare tire, we'll be stuck.",
+    "mn_latin": "Selbeg dugui avakhgüi bol bid gatsna."
+   },
+   {
+    "mn": "Аккумулятороос бусад нь сайн байсан.",
+    "en": "Everything except the battery was fine.",
+    "mn_latin": "Akkumulyatoroos busad ni sain baisan."
+   },
+   {
+    "mn": "Хөдөлгүүрийн тал нь л эвдэрсэн, засвар хямд байх болно.",
+    "en": "The engine is only half damaged, so the repair should be cheap.",
+    "mn_latin": "Khödölgüüriin tal ni l evdersen, zasvar khyamd baikh bolno."
+   },
+   {
+    "mn": "Бензин авч яв, тэгэхгүй бол замд гацна.",
+    "en": "Take gas with you; otherwise you'll get stuck.",
+    "mn_latin": "Byenzin avch yav, tegekhgüi bol zamd gatsna."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Ачиж чирэх машин дуудах___ бол бид энд хононо.",
+   "answer": "гүй",
+   "options": [
+    "гүй",
+    "аас",
+    "тал",
+    "сан"
+   ],
+   "translation": "Unless we call a tow truck, we'll spend the night here.",
+   "explain_en": "'Дуудахгүй бол' means 'if we don't call'. The negative suffix -гүй comes before бол.",
+   "explain_mn": "'-хгүй бол' нь 'хэрэв ... хийхгүй бол' гэсэн сөрөг нөхцөл заана: дуудахгүй бол."
+  },
+  {
+   "lang": "mn",
+   "text": "Бензин___ бусад бүх зүйл хэвийн байсан.",
+   "answer": "ээс",
+   "options": [
+    "ээс",
+    "д",
+    "ийг",
+    "той"
+   ],
+   "translation": "Everything except the gas was normal.",
+   "explain_en": "'Except for' needs the ablative -ээс/-аас plus бусад. Бензин takes -ээс.",
+   "explain_mn": "'-аас/-ээс бусад' бүтцэд нэр үг гарахын тийн ялгалаар орно: бензинээс."
+  },
+  {
+   "lang": "mn",
+   "text": "Машин эвдэрсэн шалтгааны тал ___ аккумуляторын буруу.",
+   "answer": "нь",
+   "options": [
+    "нь",
+    "аас",
+    "ийг",
+    "гүй"
+   ],
+   "translation": "Half of the cause of the breakdown was the battery's fault.",
+   "explain_en": "'Тал нь' marks a part of the whole cause, like 'partly'.",
+   "explain_mn": "'Тал нь' нь шалтгааны нэг хэсгийг заана."
+  },
+  {
+   "lang": "en",
+   "text": "Take a spare tire ___ you get a flat.",
+   "answer": "in case",
+   "options": [
+    "in case",
+    "unless",
+    "except",
+    "although"
+   ],
+   "translation": "Дугуй хагарч магадгүй тул сэлбэг дугуй аваарай.",
+   "explain_en": "'In case' means 'because it might happen'. You prepare before the problem.",
+   "explain_mn": "'In case' нь 'тохиолдох магадлалтай' учир урьдчилан бэлдэхийг илэрхийлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Charge your phone; ___, you won't be able to call anyone.",
+   "answer": "otherwise",
+   "options": [
+    "otherwise",
+    "in case",
+    "except",
+    "because"
+   ],
+   "translation": "Утсаа цэнэглээрэй, тэгэхгүй бол хэнд ч залгаж чадахгүй.",
+   "explain_en": "'Otherwise' introduces the result of not doing the first thing.",
+   "explain_mn": "'Otherwise' нь өмнөх зүйлийг хийхгүй бол гарах үр дагаврыг хэлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "Everything ___ the battery was fine.",
+   "answer": "except",
+   "options": [
+    "except",
+    "otherwise",
+    "unless",
+    "in case"
+   ],
+   "translation": "Аккумулятороос бусад бүх зүйл сайн байсан.",
+   "explain_en": "'Except' (for) shows what is excluded.",
+   "explain_mn": "'Except' нь хасагдсан зүйлийг заана, 'бусад' гэсэн утгатай."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Bat",
+   "mn": "Хөдөлгүүр асахгүй байна. Аккумулятор дууссан бололтой.",
+   "en": "The engine won't start. The battery seems to be dead.",
+   "mn_latin": "Khödölgüür asakhgüi baina. Akkumulyator duussan bololtoi."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Утсаа цэнэглэсэн үү? Ачиж чирэх машин дуудахгүй бол бид гацна.",
+   "en": "Is your phone charged? Unless we call a tow truck, we'll be stuck.",
+   "mn_latin": "Utsaa tseneglesen üü? Achij chirekh mashin duudakhgüi bol bid gatsna."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм, дуудъя. Аккумулятороос бусад нь хэвийн байсан.",
+   "en": "Yes, let's call. Everything except the battery was normal.",
+   "mn_latin": "Tiim, duudya. Akkumulyatoroos busad ni kheviin baisan."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Дугуй хагарвал гэж бодоод сэлбэг дугуй аваарай гэж хэлсэн шүү дээ.",
+   "en": "I told you to bring a spare tire in case of a flat.",
+   "mn_latin": "Dugui khagarval gej bodood selbeg dugui avaarai gej khelsen shüü dee."
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм ээ. Асуудлын тал нь аккумулятор, тал нь миний хайхрамжгүй байдал.",
+   "en": "Right. Partly the battery, and partly my carelessness.",
+   "mn_latin": "Tiim ee. Asuudlyn tal ni akkumulyator, tal ni minii khaikhramjgüi baidal."
+  },
+  {
+   "speaker": "Дуудлагын ажилтан",
+   "mn": "Таны байрлал хаана вэ? Бид нэг цагийн дотор очно.",
+   "en": "Where are you located? We'll get there within an hour.",
+   "mn_latin": "Tany bairlal khaana ve? Bid neg tsagiin dotor ochno."
+  },
+  {
+   "speaker": "Anna",
+   "mn": "Дарханы зам дээр, 60 км-ийн тэмдгийн дэргэд.",
+   "en": "On the Darkhan road, near the 60 km marker.",
+   "mn_latin": "Darkhany zam deer, 60 km-iin temdgiin derged."
+  },
+  {
+   "speaker": "Дуудлагын ажилтан",
+   "mn": "Машинаасаа битгий хол яваарай, тэгэхгүй бол таныг олоход хэцүү болно.",
+   "en": "Don't go far from the car; otherwise it will be hard to find you.",
+   "mn_latin": "Mashinaasaa bitgii khol yavaarai, tegekhgüi bol tanyg olokhod khetsüü bolno."
+  }
+ ],
+ "culture_note": {
+  "en": "In Mongolia, long drives outside Ulaanbaatar can mean many kilometers with no towns or repair shops, so drivers often carry spare tires, extra fuel and tools. Passing drivers and herders in the countryside commonly stop to help with a breakdown. Mobile coverage can be weak, so it is wise to tell someone your route.",
+  "mn": "Монголд Улаанбаатараас гарсан урт замд олон километр хот суурин, засварын газаргүй байж болдог тул жолооч нар сэлбэг дугуй, нэмэлт бензин, багаж авч явдаг. Хөдөө өнгөрч буй жолооч, малчид эвдэрсэн машинтай хүмүүст зогсож туслах нь элбэг. Гар утасны сүлжээ сул байдаг тул явах маршрутаа хэн нэгэнд хэлж явах нь зөв."
+ },
+ "review": {
+  "rating": 4,
+  "fixes": 28,
+  "notes": "Several serious errors: wrong tow truck term, 'тавьчихсан' for dead battery, a non-existent -хаас suffix, and mismatched translations."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 15,
+  "notes": "Fixed the dialogue logic, the case and vowel-harmony errors, the inaccurate English grammar explanation in Mongolian, and the unnatural Mongolian phrasing.",
+  "changes": [
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "'машин эвдрэхэд тайлбарлаж' is ungrammatical; 'орон нутаг руу явах замд' does not match 'country road'"
+   },
+   {
+    "section": "sentences",
+    "index": 2,
+    "field": "alt_en",
+    "why": "the alternative duplicated the main translation"
+   },
+   {
+    "section": "sentences",
+    "index": 4,
+    "field": "mn",
+    "why": "'эмх цэгцтэй' means tidy, not 'working fine'"
+   },
+   {
+    "section": "sentences",
+    "index": 6,
+    "field": "alt_en",
+    "why": "'change it with the spare' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "'хэсэгчлэн нь' is ungrammatical"
+   },
+   {
+    "section": "sentences",
+    "index": 9,
+    "field": "alt_en",
+    "why": "fixes the comma splice and the tense"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "'тохиолдлоор' means 'by chance'; partly ≠ 'тал нь'; the example was contradictory; the 'if' comparison was wrong"
+   },
+   {
+    "section": "grammar.examples",
+    "index": 0,
+    "field": "mn",
+    "why": "should use the -хгүй бол pattern being taught, matching 'don't take'"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "explain_mn",
+    "why": "the explanation was unclear"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "translation",
+    "why": "the Mongolian says half of the cause, not half of the breakdown"
+   },
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "vowel harmony: аккумулятор takes -оос"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "mn",
+    "why": "logic: the problem in the dialogue is the battery, not the gas"
+   },
+   {
+    "section": "dialogue",
+    "index": 2,
+    "field": "en",
+    "why": "matches the corrected Mongolian line"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "дэргэд requires the genitive: тэмдгийн"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'тусалж зогсох' had the wrong verb order; 'холбоо' is vague; 'замын маршрут' is redundant"
+   }
+  ]
+ }
+}

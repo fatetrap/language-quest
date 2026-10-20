@@ -1,0 +1,448 @@
+{
+ "intro_en": "You will learn to plan a tourism campaign and guide foreign visitors to ger camps, the Gobi and Lake Khövsgöl. You will also use -ын хүрээнд and -ын оронд in Mongolian, and combine what-clauses with 'the fact that' in English.",
+ "intro_mn": "Та аялал жуулчлалын сурталчилгааны ажлыг төлөвлөж, гадаад жуулчдыг гэр бааз, Говь, Хөвсгөл нуур руу хэрхэн хөтлөхийг сурна. Мөн монгол хэлний -ын хүрээнд, -ын оронд хэлбэрийг, англи хэлний what-өгүүлбэр болон 'the fact that' бүтцийг хослуулан хэрэглэж сурна.",
+ "vocab": [
+  {
+   "mn": "жуулчин",
+   "en": "tourist",
+   "pos": "noun",
+   "example_mn": "Энэ зун манай аймагт олон жуулчин ирсэн.",
+   "example_en": "Many tourists came to our province this summer.",
+   "mn_latin": "juulchin"
+  },
+  {
+   "mn": "аялал жуулчлалын салбар",
+   "en": "tourism industry",
+   "pos": "noun phrase",
+   "example_mn": "Аялал жуулчлалын салбар олон хүнийг ажлын байраар хангадаг.",
+   "example_en": "The tourism industry provides jobs for many people.",
+   "mn_latin": "ayalal juulchlalyn salbar"
+  },
+  {
+   "mn": "дурсгалт газар",
+   "en": "landmark, historic site",
+   "pos": "noun phrase",
+   "example_mn": "Хархорин бол алдартай дурсгалт газар.",
+   "example_en": "Kharkhorin is a famous historic site.",
+   "mn_latin": "dursgalt gazar"
+  },
+  {
+   "mn": "байгаль хамгаалал",
+   "en": "nature conservation",
+   "pos": "noun phrase",
+   "example_mn": "Байгаль хамгаалал нь аяллын хөтөлбөрийн чухал хэсэг байх ёстой.",
+   "example_en": "Nature conservation should be an important part of a tour program.",
+   "mn_latin": "baigali khamgaalal"
+  },
+  {
+   "mn": "үйлчилгээ",
+   "en": "service",
+   "pos": "noun",
+   "example_mn": "Энэ баазын үйлчилгээ маш сайн.",
+   "example_en": "This camp's service is very good.",
+   "mn_latin": "üilchilgee"
+  },
+  {
+   "mn": "мэдээлэл түгээх",
+   "en": "to spread information",
+   "pos": "verb phrase",
+   "example_mn": "Бид нийгмийн сүлжээгээр мэдээлэл түгээнэ.",
+   "example_en": "We will spread information through social media.",
+   "mn_latin": "medeelel tügeekh"
+  },
+  {
+   "mn": "хөтөч",
+   "en": "guide",
+   "pos": "noun",
+   "example_mn": "Манай хөтөч гурван хэлээр ярьдаг.",
+   "example_en": "Our guide speaks three languages.",
+   "mn_latin": "khötöch"
+  },
+  {
+   "mn": "сурталчлах",
+   "en": "to promote",
+   "pos": "verb",
+   "example_mn": "Бид Хөвсгөл нуур руу хийх аяллаа гадаадад сурталчилна.",
+   "example_en": "We will promote our Lake Khövsgöl trips abroad.",
+   "mn_latin": "surtalchlakh"
+  },
+  {
+   "mn": "түрээслэх",
+   "en": "to rent",
+   "pos": "verb",
+   "example_mn": "Тэд Говь руу явахын тулд жийп түрээслэв.",
+   "example_en": "They rented a jeep to go to the Gobi.",
+   "mn_latin": "türeeslekh"
+  },
+  {
+   "mn": "өвөрмөц",
+   "en": "unique",
+   "pos": "adjective",
+   "example_mn": "Говийн газар нутаг, элсэн манхан өвөрмөц харагддаг.",
+   "example_en": "The Gobi's terrain and sand dunes look unique.",
+   "mn_latin": "övörmöts"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Аялал жуулчлалын салбар манай эдийн засагт чухал байр суурьтай.",
+   "en": "The tourism industry holds an important place in our economy.",
+   "alt_mn": [],
+   "alt_en": [
+    "The tourism industry plays an important role in our economy."
+   ],
+   "mn_latin": "Ayalal juulchlalyn salbar manai ediin zasagt chukhal bair suuritai."
+  },
+  {
+   "mn": "Сурталчилгааны хөтөлбөрийн хүрээнд бид гадаадад танилцуулга хийнэ.",
+   "en": "Within the framework of the promotion program, we will give presentations abroad.",
+   "alt_mn": [
+    "Сурталчилгааны хөтөлбөрийн хүрээнд бид гадаадад танилцуулга хийх болно."
+   ],
+   "alt_en": [
+    "As part of the promotion program, we will give presentations abroad."
+   ],
+   "mn_latin": "Surtalchilgaany khötölböriin khüreend bid gadaadad taniltsuulga khiine."
+  },
+  {
+   "mn": "Зочид буудлын оронд жуулчид гэр баазад байрлана.",
+   "en": "Instead of a hotel, the tourists will stay in a ger camp.",
+   "alt_mn": [
+    "Зочид буудлын оронд жуулчид гэр бааз дээр байрлана."
+   ],
+   "alt_en": [
+    "The tourists will stay in a ger camp instead of a hotel."
+   ],
+   "mn_latin": "Zochid buudlyn orond juulchid ger baazad bairlana."
+  },
+  {
+   "mn": "Жуулчдыг татдаг зүйл бол Монголын уудам тал юм.",
+   "en": "What attracts tourists is Mongolia's vast steppe.",
+   "alt_mn": [
+    "Жуулчдыг татдаг зүйл бол Монголын өргөн уудам тал."
+   ],
+   "alt_en": [
+    "What draws tourists is Mongolia's vast steppe."
+   ],
+   "mn_latin": "Juulchdyg tatdag züil bol Mongolyn uudam tal yum."
+  },
+  {
+   "mn": "Биднийг санаа зовоож буй зүйл бол жуулчид ихэссэнээр байгаль доройтож болзошгүй байгаа явдал.",
+   "en": "What worries us is the fact that nature may be damaged as tourist numbers grow.",
+   "alt_mn": [],
+   "alt_en": [
+    "What concerns us is the fact that nature could suffer as the number of tourists grows."
+   ],
+   "mn_latin": "Bidniig sanaa zovooj bui züil bol juulchid ikhesseneer baigali doroitoj bolzoshgüi baigaa yavdal."
+  },
+  {
+   "mn": "Хөвсгөл нуурын байгаль хамгаалал бидний нэн тэргүүний зорилт.",
+   "en": "Conservation of Lake Khövsgöl's nature is our top priority.",
+   "alt_mn": [],
+   "alt_en": [
+    "Nature conservation at Lake Khövsgöl is our top priority."
+   ],
+   "mn_latin": "Khövsgöl nuuryn baigali khamgaalal bidnii nen tergüünii zorilt."
+  },
+  {
+   "mn": "Говийн аяллын хүрээнд жуулчид тэмээ унаж, элсэн манхан дээр гарна.",
+   "en": "As part of the Gobi trip, tourists will ride camels and climb the sand dunes.",
+   "alt_mn": [],
+   "alt_en": [
+    "During the Gobi tour, the tourists will ride camels and climb the dunes."
+   ],
+   "mn_latin": "Goviin ayallyn khüreend juulchid temee unaj, elsen mankhan deer garna."
+  },
+  {
+   "mn": "Хол байсан ч гэсэн үйлчилгээ маш сайн байсан нь миний сэтгэлийг хөдөлгөсөн.",
+   "en": "What impressed me was the fact that the service was excellent even though it was far away.",
+   "alt_mn": [],
+   "alt_en": [
+    "What impressed me was the fact that, although it was far away, the service was excellent."
+   ],
+   "mn_latin": "Khol baisan ch gesen üilchilgee mash sain baisan ni minii setgeliig khödölgösön."
+  },
+  {
+   "mn": "Автобусны оронд бид жийпээр аялахаар шийдсэн.",
+   "en": "Instead of a bus, we decided to travel by jeep.",
+   "alt_mn": [],
+   "alt_en": [
+    "We decided to travel by jeep instead of by bus."
+   ],
+   "mn_latin": "Avtobusny orond bid jiipeer ayalakhaar shiidsen."
+  },
+  {
+   "mn": "Хөтөч дурсгалт газруудын тухай дэлгэрэнгүй мэдээлэл өгсөн.",
+   "en": "The guide gave detailed information about the historic sites.",
+   "alt_mn": [],
+   "alt_en": [
+    "The guide provided detailed information about the landmarks."
+   ],
+   "mn_latin": "Khötöch dursgalt gazruudyn tukhai delgerengüi medeelel ögsön."
+  },
+  {
+   "mn": "Жуулчдад хэрэгтэй зүйл бол найдвартай мэдээлэл, чанартай үйлчилгээ юм.",
+   "en": "What tourists need is reliable information and quality service.",
+   "alt_mn": [],
+   "alt_en": [
+    "What tourists need is trustworthy information and good service."
+   ],
+   "mn_latin": "Juulchdad kheregtei züil bol naidvartai medeelel, chanartai üilchilgee yum."
+  },
+  {
+   "mn": "Монголын өвөрмөц соёл байгаа нь жуулчдыг ихээр татдаг.",
+   "en": "The fact that Mongolia has a unique culture attracts many tourists.",
+   "alt_mn": [],
+   "alt_en": [
+    "The fact that Mongolia has a unique culture draws many tourists."
+   ],
+   "mn_latin": "Mongolyn övörmöts soyol baigaa ni juulchdyg ikheer tatdag."
+  }
+ ],
+ "grammar": {
+  "title_en": "-ын хүрээнд and -ын оронд; What-clauses with 'the fact that'",
+  "title_mn": "-ын хүрээнд ба -ын оронд; what-өгүүлбэр ба 'the fact that'",
+  "explain_en": "In Mongolian, add -ын хүрээнд (genitive + хүрээнд) to a noun to say 'within the framework of / as part of': аяллын хөтөлбөрийн хүрээнд. Add -ын оронд to say 'instead of': зочид буудлын оронд. Use the genitive ending that fits the word: -ын/-ийн after most consonants (by vowel harmony), -ы/-ий after н (хүний), -гийн/-гын after long vowels, and -ны/-ний after words with a hidden н and some loanwords (ус → усны, автобус → автобусны). In English, what-clauses name a topic and then say what it is: 'What attracts visitors is the open steppe.' To describe a concern, use 'the fact that' plus a full clause with a subject and verb: 'What worries us is the fact that tourism may damage nature.'",
+  "explain_mn": "Монгол хэлэнд нэр үгэнд -ын хүрээнд (харьяалахын тийн ялгал + хүрээнд) залгаж 'хүрээнд, хэсэг болгон' гэсэн утга илэрхийлнэ: аяллын хөтөлбөрийн хүрээнд. '-ын оронд' нь 'оронд нь' гэсэн утгатай: зочид буудлын оронд. Харьяалахын нөхцөлийг үгэндээ тохируулна: ихэнх гийгүүлэгчийн дараа -ын/-ийн (эгшиг зохицох ёсоор), н-ийн дараа -ы/-ий (хүний), урт эгшгийн дараа -гийн/-гын, далд н-тэй болон зарим харь үгэнд -ны/-ний (ус → усны, автобус → автобусны). Англи хэлэнд 'what' өгүүлбэр нь гол сэдвийг эхэлж нэрлээд дараа нь 'is' ба тайлбарыг холбодог: 'What attracts visitors is the steppe.' (Жуулчдыг татдаг зүйл бол тал.) Санаа зовоосон зүйлийг тодорхой хэлэхдээ 'the fact that' ба бүтэн өгүүлбэрийг ашиглана: 'What worries us is the fact that nature may suffer.' 'The fact that' нь '...гэдэг баримт/явдал' гэсэн утгатай. 'That'-ийн дараа өгүүлэгдэхүүн, өгүүлэхүүн заавал орно.",
+  "examples": [
+   {
+    "mn": "Аяллын хөтөлбөрийн хүрээнд бид бааз үзнэ.",
+    "en": "As part of the tour program, we will visit a camp.",
+    "mn_latin": "Ayallyn khötölböriin khüreend bid baaz üzne."
+   },
+   {
+    "mn": "Зочид буудлын оронд гэр бааз сонгов.",
+    "en": "Instead of a hotel, he chose a ger camp.",
+    "mn_latin": "Zochid buudlyn orond ger baaz songov."
+   },
+   {
+    "mn": "Жуулчдыг татдаг зүйл бол нуур, уул, тал юм.",
+    "en": "What attracts tourists is the lakes, mountains and steppe.",
+    "mn_latin": "Juulchdyg tatdag züil bol nuur, uul, tal yum."
+   },
+   {
+    "mn": "Миний санаа зовсон зүйл бол зам муу байгаа явдал.",
+    "en": "What worried me was the fact that the road was bad.",
+    "mn_latin": "Minii sanaa zovson züil bol zam muu baigaa yavdal."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Сурталчилгааны хөтөлбөрийн ___ бид гурван улсад танилцуулга хийнэ.",
+   "answer": "хүрээнд",
+   "options": [
+    "хүрээнд",
+    "оронд",
+    "тухай",
+    "хамт"
+   ],
+   "translation": "As part of the promotion program, we will give presentations in three countries.",
+   "explain_en": "Хүрээнд after a genitive noun means 'within the framework of / as part of'.",
+   "explain_mn": "'-ын хүрээнд' нь хөтөлбөр, төслийн агуулгын хүрээг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Зочид буудлын ___ жуулчид гэр бааз сонгов.",
+   "answer": "оронд",
+   "options": [
+    "оронд",
+    "хүрээнд",
+    "хамт",
+    "тухай"
+   ],
+   "translation": "Instead of a hotel, the tourists chose a ger camp.",
+   "explain_en": "-ын оронд means 'instead of', naming the alternative that was not chosen.",
+   "explain_mn": "'-ын оронд' нь сонгоогүй өөр хувилбарыг заана."
+  },
+  {
+   "lang": "mn",
+   "text": "Автобус___ оронд бид жийп түрээслэв.",
+   "answer": "ны",
+   "options": [
+    "ын",
+    "ийн",
+    "ны",
+    "ний"
+   ],
+   "translation": "Instead of a bus, we rented a jeep.",
+   "explain_en": "Автобус takes the genitive -ны (автобусны), like ус → усны. So the phrase is автобусны оронд, 'instead of a bus'.",
+   "explain_mn": "Автобус гэдэг үг харьяалахын тийн ялгалын -ны нөхцөл авдаг (автобусны), ус → усны гэдэгтэй адил. Тиймээс 'автобусны оронд' болно."
+  },
+  {
+   "lang": "en",
+   "text": "___ attracts visitors to the Gobi is the silence and the open space.",
+   "answer": "What",
+   "options": [
+    "What",
+    "That",
+    "Which",
+    "Who"
+   ],
+   "translation": "Говьд жуулчдыг татдаг зүйл бол нам гүм байдал, нээлттэй орон зай юм.",
+   "explain_en": "'What' begins a noun clause meaning 'the thing that'.",
+   "explain_mn": "'What' нь '...зүйл' гэсэн утгатай, нэр үгийн үүрэг гүйцэтгэх дагавар өгүүлбэрийг эхлүүлнэ."
+  },
+  {
+   "lang": "en",
+   "text": "What worries the rangers is the ___ that visitors leave litter near the lake.",
+   "answer": "fact",
+   "options": [
+    "fact",
+    "why",
+    "what",
+    "because"
+   ],
+   "translation": "Хамгаалагчдыг санаа зовоодог зүйл бол жуулчид нуурын ойролцоо хог үлдээдэг явдал юм.",
+   "explain_en": "'The fact that' introduces a full clause that states the concern.",
+   "explain_mn": "'The fact that' нь санаа зовоосон зүйлийг бүтэн өгүүлбэрээр тайлбарлана."
+  },
+  {
+   "lang": "en",
+   "text": "What impressed us was the fact ___ the guide spoke four languages.",
+   "answer": "that",
+   "options": [
+    "that",
+    "what",
+    "of",
+    "which"
+   ],
+   "translation": "Биднийг гайхшруулсан зүйл бол хөтөч дөрвөн хэлээр ярьдаг явдал байлаа.",
+   "explain_en": "After 'the fact' we use 'that' plus a subject and verb.",
+   "explain_mn": "'The fact' дараа 'that' орж, түүний дараа өгүүлэгдэхүүн, өгүүлэхүүн орно."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Сарнай",
+   "mn": "Манай аялал жуулчлалын шинэ кампанит ажлын хүрээнд бид Говь, Хөвсгөлийг сурталчилна.",
+   "en": "As part of our new tourism campaign, we will promote the Gobi and Khövsgöl.",
+   "mn_latin": "Manai ayalal juulchlalyn shine kampanit ajlyn khüreend bid Govi, Khövsgöliig surtalchilna."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Гадаадын жуулчдыг хамгийн их татдаг зүйл юу вэ?",
+   "en": "What attracts foreign tourists the most?",
+   "mn_latin": "Gadaadyn juulchdyg khamgiin ikh tatdag züil yuu ve?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тэднийг татдаг зүйл бол уудам тал, нүүдэлчдийн соёл юм.",
+   "en": "What attracts them is the vast steppe and the nomadic culture.",
+   "mn_latin": "Tedniig tatdag züil bol uudam tal, nüüdelchdiin soyol yum."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Зочид буудлын оронд гэр баазад байрлах нь сонирхолтой сонсогдож байна.",
+   "en": "Staying in a ger camp instead of a hotel sounds interesting.",
+   "mn_latin": "Zochid buudlyn orond ger baazad bairlakh ni sonirkholtoi sonsogdoj baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Тийм ээ, гэхдээ биднийг санаа зовоодог зүйл бол жуулчид нэмэгдэхэд байгаль хохирч болзошгүй явдал.",
+   "en": "Yes, but what worries us is the fact that nature could be harmed as tourists increase.",
+   "mn_latin": "Tiim ee, gekhdee bidniig sanaa zovoodog züil bol juulchid nemegdekhed baigali khokhirch bolzoshgüi yavdal."
+  },
+  {
+   "speaker": "Daniel",
+   "mn": "Тэгвэл хөтөлбөртөө байгаль хамгаалалтын заавар оруулбал яасан юм бэ?",
+   "en": "Then what about including conservation guidelines in the program?",
+   "mn_latin": "Tegvel khötölbörtöö baigali khamgaalaltyn zaavar oruulbal yaasan yum be?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Сайн санаа. Бид мэдээллийг вэбсайт болон хөтчүүдээрээ дамжуулан түгээнэ.",
+   "en": "Good idea. We will spread the information through the website and our guides.",
+   "mn_latin": "Sain sanaa. Bid medeelliig vebsait bolon khötchüüdeeree damjuulan tügeene."
+  }
+ ],
+ "culture_note": {
+  "en": "Tourism is one of Mongolia's growing industries, and visitors come especially in summer for Naadam, the Gobi and Lake Khövsgöl. Ger camps let guests experience nomadic hospitality, such as milk tea, airag and a family meal. Many communities now stress responsible tourism so that the steppe, lakes and herding traditions are protected.",
+  "mn": "Аялал жуулчлал нь Монголын өсөн нэмэгдэж буй салбаруудын нэг бөгөөд жуулчид ялангуяа зун Наадам, Говь, Хөвсгөл нуурыг зорин ирдэг. Гэр баазууд нь сүүтэй цай, айраг, гэр бүлийн хоол зэрэг нүүдэлчдийн зочломтгой занг мэдрэх боломж олгодог. Одоо олон нутагт тал нутаг, нуур, малчдын уламжлалыг хамгаалахын тулд хариуцлагатай аялал жуулчлалыг дэмжиж байна."
+ },
+ "review": {
+  "rating": 5,
+  "fixes": 21,
+  "notes": "The content is good, but the nonsense word 'амины бааз' recurs, and there are several ungrammatical Mongolian sentences and a faulty genitive rule."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 12,
+  "notes": "Main fixes: genitive автобусны, vowel drop (аяллаа, хөтч-), ambiguous blank options, and a garbled grammar rule that was missing from the mn explanation.",
+  "changes": [
+   {
+    "section": "vocab",
+    "index": 7,
+    "field": "example_mn",
+    "why": "аялал + аа drops its vowel: аяллаа"
+   },
+   {
+    "section": "vocab",
+    "index": 9,
+    "field": "example_mn",
+    "why": "хөрс means soil; terrain is газар нутаг"
+   },
+   {
+    "section": "fill_blank",
+    "index": 0,
+    "field": "options",
+    "why": "дараа ('after the program') also fit the blank"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "өмнө ('in front of the hotel') is also grammatical"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "answer",
+    "why": "The standard genitive is автобусны, as in sentence 9"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_en",
+    "why": "The old explanation gave the wrong form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 2,
+    "field": "explain_mn",
+    "why": "The old explanation gave the wrong form"
+   },
+   {
+    "section": "fill_blank",
+    "index": 3,
+    "field": "explain_mn",
+    "why": "The grammar term was wrong"
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "options",
+    "why": "'idea' and 'reason' could also fill the blank"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "The genitive rule was garbled and wrong"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "The mn version must cover the same content as the en version"
+   },
+   {
+    "section": "dialogue",
+    "index": 6,
+    "field": "mn",
+    "why": "хөтөчөөр is misspelled (should be хөтчөөр); 'our guides' needs the plural"
+   }
+  ]
+ }
+}

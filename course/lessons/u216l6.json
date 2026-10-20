@@ -1,0 +1,432 @@
+{
+ "intro_en": "Read an NGO report and join a follow-up visit to a herding family who received a bankhar puppy. You'll practice stacking Mongolian case endings with the reflexive -аа (-ыхаа, -аасаа, -тайгаа, -даа, -аа) and review English 'no sooner... than' and 'hardly... when' in written reports.",
+ "intro_mn": "Байгууллагын тайлан уншиж, банхар гөлөг авсан малчин айлд хийсэн хяналтын айлчлалд оролцоно. Монгол хэлний ерөнхий хамаатуулах -аа нөхцлийг тийн ялгалтай давхарлах (-ыхаа, -аасаа, -тайгаа, -даа, -аа) хэлбэрийг давтаж, англи хэлний 'no sooner... than', 'hardly... when' бүтцийг албан тайланд хэрхэн хэрэглэдгийг давтана.",
+ "vocab": [
+  {
+   "mn": "үржүүлэгч",
+   "en": "breeder",
+   "pos": "noun",
+   "example_mn": "Үржүүлэгч гөлөг бүрийн удмыг бүртгэдэг.",
+   "example_en": "The breeder records the bloodline of every puppy.",
+   "mn_latin": "ürjüülegch"
+  },
+  {
+   "mn": "малчин айл",
+   "en": "herding family",
+   "pos": "noun phrase",
+   "example_mn": "Энэ жил арван малчин айл банхар гөлөг авсан.",
+   "example_en": "Ten herding families received bankhar puppies this year.",
+   "mn_latin": "malchin ail"
+  },
+  {
+   "mn": "хүлээлгэн өгөх",
+   "en": "to hand over",
+   "pos": "verb",
+   "example_mn": "Бид гөлгийг гэрийн эзэнд хүлээлгэн өгсөн.",
+   "example_en": "We handed the puppy over to the head of the household.",
+   "mn_latin": "khüleelgen ögökh"
+  },
+  {
+   "mn": "дасан зохицох",
+   "en": "to adapt",
+   "pos": "verb",
+   "example_mn": "Гөлөг шинэ орчиндоо хурдан дасан зохицсон.",
+   "example_en": "The puppy adapted quickly to its new surroundings.",
+   "mn_latin": "dasan zokhitsokh"
+  },
+  {
+   "mn": "сүрэг",
+   "en": "flock, herd",
+   "pos": "noun",
+   "example_mn": "Банхар сүргээ шөнөжин манадаг.",
+   "example_en": "The bankhar guards its flock all night.",
+   "mn_latin": "süreg"
+  },
+  {
+   "mn": "махчин амьтан",
+   "en": "predator",
+   "pos": "noun",
+   "example_mn": "Энэ нутагт махчин амьтан олон байдаг.",
+   "example_en": "There are many predators in this area.",
+   "mn_latin": "makhchin amitan"
+  },
+  {
+   "mn": "хорогдол",
+   "en": "loss (of livestock)",
+   "pos": "noun",
+   "example_mn": "Өнгөрсөн өвөл малын хорогдол их байсан.",
+   "example_en": "Livestock losses were high last winter.",
+   "mn_latin": "khorogdol"
+  },
+  {
+   "mn": "тайлан",
+   "en": "report",
+   "pos": "noun",
+   "example_mn": "Бид улирал бүр тайлан бичдэг.",
+   "example_en": "We write a report every quarter.",
+   "mn_latin": "tailan"
+  },
+  {
+   "mn": "хяналтын айлчлал",
+   "en": "follow-up visit",
+   "pos": "noun phrase",
+   "example_mn": "Хяналтын айлчлалыг гурван сарын дараа хийнэ.",
+   "example_en": "The follow-up visit will take place three months later.",
+   "mn_latin": "khyanaltyn ailchlal"
+  },
+  {
+   "mn": "удам",
+   "en": "bloodline, lineage",
+   "pos": "noun",
+   "example_mn": "Энэ гөлөг цэвэр банхар удамтай.",
+   "example_en": "This puppy comes from a purebred bankhar bloodline.",
+   "mn_latin": "udam"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Гөлөг шинэ айлдаа ирмэгц л хонин сүрэгтэй дотносож эхэлсэн.",
+   "en": "No sooner had the puppy arrived at its new home than it began bonding with the flock of sheep.",
+   "alt_mn": [
+    "Гөлөг шинэ айлдаа ирэнгүүтээ л хонин сүрэгтэй дотносож эхэлсэн."
+   ],
+   "alt_en": [
+    "As soon as the puppy arrived at its new home, it began bonding with the flock of sheep."
+   ],
+   "mn_latin": "Gölög shine aildaa irmegts l khonin süregtei dotnosoj ekhelsen."
+  },
+  {
+   "mn": "Бат гуай нохойгоо хоньтойгоо хамт хашаандаа хонуулдаг.",
+   "en": "Mr. Bat keeps his dog in the pen with his sheep overnight.",
+   "alt_mn": [],
+   "alt_en": [
+    "Mr. Bat has his dog spend the night in the pen with his sheep."
+   ],
+   "mn_latin": "Bat guai nokhoigoo khonitoigoo khamt khashaandaa khonuuldag."
+  },
+  {
+   "mn": "Малчин эмэгтэй нохойныхоо зан төлөвийн талаар бидэнд дэлгэрэнгүй ярьж өгсөн.",
+   "en": "The herder told us in detail about her dog's behavior.",
+   "alt_mn": [],
+   "alt_en": [
+    "The herding woman told us in detail about her dog's behavior."
+   ],
+   "mn_latin": "Malchin emegtei nokhoinykhoo zan tölöviin talaar bidend delgerengüi yarij ögsön."
+  },
+  {
+   "mn": "Тэд өвөлжөөнөөсөө хаваржаандаа нүүхдээ банхараа дагуулж явсан.",
+   "en": "When they moved from their winter camp to their spring camp, they took their bankhar with them.",
+   "alt_mn": [],
+   "alt_en": [
+    "They took their bankhar along when they moved from their winter camp to their spring camp."
+   ],
+   "mn_latin": "Ted övöljöönöösöö khavarjaandaa nüükhdee bankharaa daguulj yavsan."
+  },
+  {
+   "mn": "Бид айлд хүрч амжаагүй байтал банхар хуцаж угтлаа.",
+   "en": "Hardly had we reached the family when the bankhar greeted us with loud barking.",
+   "alt_mn": [],
+   "alt_en": [
+    "We had hardly reached the family when the bankhar greeted us with loud barking."
+   ],
+   "mn_latin": "Bid aild khürch amjaagüi baital bankhar khutsaj ugtlaa."
+  },
+  {
+   "mn": "Тайланд дурдсанаар энэ айлын малын хорогдол эрс буурсан.",
+   "en": "According to the report, this family's livestock losses have dropped sharply.",
+   "alt_mn": [
+    "Тайлангаас үзэхэд энэ айлын малын хорогдол эрс буурсан."
+   ],
+   "alt_en": [
+    "The report states that this family's livestock losses have fallen sharply."
+   ],
+   "mn_latin": "Tailand durdsanaar ene ailyn malyn khorogdol ers buursan."
+  },
+  {
+   "mn": "Үржүүлэгч гөлгийг айлд хүлээлгэн өгөхөөсөө өмнө эцэг эхийнх нь удмыг шалгадаг.",
+   "en": "Before handing a puppy over to a family, the breeder checks its parents' bloodline.",
+   "alt_mn": [],
+   "alt_en": [
+    "The breeder checks the parents' bloodline before handing a puppy over to a family."
+   ],
+   "mn_latin": "Ürjüülegch gölgiig aild khüleelgen ögökhöösöö ömnö etseg ekhiinkh ni udmyg shalgadag."
+  },
+  {
+   "mn": "Чоно ойртонгуут банхар сүргийнхээ дунд ороод зогсов.",
+   "en": "No sooner had the wolf come close than the bankhar stepped into the middle of its flock.",
+   "alt_mn": [],
+   "alt_en": [
+    "As soon as the wolf came close, the bankhar stepped into the middle of its flock."
+   ],
+   "mn_latin": "Chono oirtonguut bankhar sürgiinkhee dund orood zogsov."
+  },
+  {
+   "mn": "Гэрийн эзэгтэй нохойдоо өдөр бүр шөлтэй хоол өгдөг.",
+   "en": "The woman of the house gives her dog food with broth every day.",
+   "alt_mn": [],
+   "alt_en": [
+    "Every day, the woman of the house feeds her dog food with broth."
+   ],
+   "mn_latin": "Geriin ezegtei nokhoidoo ödör bür shöltei khool ögdög."
+  },
+  {
+   "mn": "Махчин амьтдын дайралт багассан тул айлынхан буугаа бараг гаргахаа больжээ.",
+   "en": "Since predator attacks have decreased, the family has almost stopped taking out their gun.",
+   "alt_mn": [],
+   "alt_en": [
+    "Because there are fewer predator attacks, the family hardly takes out their gun anymore."
+   ],
+   "mn_latin": "Makhchin amitdyn dairalt bagassan tul ailynkhan buugaa barag gargakhaa bolijee."
+  },
+  {
+   "mn": "Хүүхдүүд нохойтойгоо тоглож байхыг бид харсан.",
+   "en": "We saw the children playing with their dog.",
+   "alt_mn": [],
+   "alt_en": [],
+   "mn_latin": "Khüükhdüüd nokhoitoigoo togloj baikhyg bid kharsan."
+  },
+  {
+   "mn": "Гөлөг шинэ орчиндоо дасан зохицож байгаа эсэхийг бид сар бүр тэмдэглэдэг.",
+   "en": "Every month we record whether the puppy is adapting to its new surroundings.",
+   "alt_mn": [],
+   "alt_en": [
+    "We record every month whether the puppy is adapting to its new surroundings."
+   ],
+   "mn_latin": "Gölög shine orchindoo dasan zokhitsoj baigaa esekhiig bid sar bür temdegledeg."
+  }
+ ],
+ "grammar": {
+  "title_en": "Stacking cases with the reflexive -аа: \"one's own\"",
+  "title_mn": "Ерөнхий хамаатуулах -аа нөхцлийг тийн ялгалтай давхарлах: \"өөрийн\"",
+  "explain_en": "In Mongolian, 'his own / her own / their own' is not a separate word. It is an ending, -аа/-ээ/-оо/-өө, placed after the case ending. It always points back to the subject of the sentence. Genitive: нохойн → нохойныхоо (of one's own dog). Ablative: өвөлжөөнөөс → өвөлжөөнөөсөө (from one's own winter camp). Comitative: хоньтой → хоньтойгоо (with one's own sheep). Dative-locative: айлд → айлдаа (to/at one's own family). Accusative: нохойг → нохойгоо (one's own dog, as the object). Vowel harmony applies to the whole stack: хотонд → хотондоо, гэрт → гэртээ. Use these forms in narrative writing whenever the thing belongs to the subject. The third-person possessive 'нь' is for someone else's thing: нохойг нь = his dog (someone else's), but нохойгоо = his own dog (the subject's).",
+  "explain_mn": "Монгол хэлэнд 'өөрийн' гэсэн утгыг тусдаа үгээр биш, тийн ялгалын дараа залгадаг -аа/-ээ/-оо/-өө нөхцлөөр илэрхийлдэг. Энэ нөхцөл үргэлж өгүүлбэрийн эзэн бие рүү заана. Харьяалахын тийн: нохойн → нохойныхоо. Гарахын тийн: өвөлжөөнөөс → өвөлжөөнөөсөө. Хамтын тийн: хоньтой → хоньтойгоо. Өгөх-оршихын тийн: айлд → айлдаа. Заахын тийн: нохойг → нохойгоо. Эгшиг зохицох ёс нөхцлийн бүх давхаргад үйлчилнэ: хотонд → хотондоо, гэрт → гэртээ. Тухайн зүйл эзэн биеийнх бол өгүүлэмжид эдгээр хэлбэрийг хэрэглэнэ. Харин бусдын юмыг гуравдугаар биеийн хамаатуулах 'нь'-ээр заана: нохойг нь = түүний (өөр хүний) нохойг, нохойгоо = өөрийнхөө (эзэн биеийн) нохойг.",
+  "examples": [
+   {
+    "mn": "Дорж нохойтойгоо хамт бэлчээрт гарав.",
+    "en": "Dorj went out to the pasture with his dog.",
+    "mn_latin": "Dorj nokhoitoigoo khamt belcheert garav."
+   },
+   {
+    "mn": "Айл өвөлжөөнөөсөө гарч, хаваржаандаа нүүв.",
+    "en": "The family left their winter camp and moved to their spring camp.",
+    "mn_latin": "Ail övöljöönöösöö garch, khavarjaandaa nüüv."
+   },
+   {
+    "mn": "Сарантуяа нохойныхоо эрүүл мэндийн талаар асуув.",
+    "en": "Sarantuya asked about her dog's health.",
+    "mn_latin": "Sarantuyaa nokhoinykhoo erüül mendiin talaar asuuv."
+   },
+   {
+    "mn": "Бид машинаас бууж амжаагүй байтал банхар хуцаж эхлэв.",
+    "en": "Hardly had we gotten out of the car when the bankhar started barking.",
+    "mn_latin": "Bid mashinaas buuj amjaagüi baital bankhar khutsaj ekhlev."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Дорж нохой___ хамт бэлчээрт гарав.",
+   "answer": "тойгоо",
+   "options": [
+    "тойгоо",
+    "тайгаа",
+    "тэйгээ",
+    "оосоо"
+   ],
+   "translation": "Dorj went out to the pasture with his dog.",
+   "explain_en": "'With one's own dog' = comitative -той + reflexive -гоо. Нохой has back vowels with о, so it takes -тойгоо, not -тайгаа or -тэйгээ.",
+   "explain_mn": "Өөрийн нохойтойгоо гэдгийг илэрхийлэхийн тулд хамтын тийн -той дээр ерөнхий хамаатуулах -гоо нэмнэ. 'Нохой' эр үг тул -тойгоо болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Айл өвөлжөө___ гарч, хаваржаандаа нүүв.",
+   "answer": "нөөсөө",
+   "options": [
+    "нөөсөө",
+    "наасаа",
+    "нээсээ",
+    "нийхөө"
+   ],
+   "translation": "The family left their winter camp and moved to their spring camp.",
+   "explain_en": "'Leaving from their own winter camp' needs the ablative + reflexive: өвөлжөө → өвөлжөөнөөс → өвөлжөөнөөсөө. Өвөлжөө has a hidden -н- that appears before case endings, and front/rounded vowel harmony gives -өөс, not -аас.",
+   "explain_mn": "Гарах үйл 'хаанаас' гэдэг гарах тийн ялгал шаардана. Өөрийн өвөлжөө тул -нөөс дээр -өө нэмж 'өвөлжөөнөөсөө' болно."
+  },
+  {
+   "lang": "mn",
+   "text": "Сарантуяа нохой___ эрүүл мэндийн талаар асуув.",
+   "answer": "ныхоо",
+   "options": [
+    "ныхоо",
+    "ныхаа",
+    "доо",
+    "оо"
+   ],
+   "translation": "Sarantuya asked about her dog's health.",
+   "explain_en": "'Her own dog's health' uses the genitive нохойн + -ыхоо → нохойныхоо. Because нохой has о, the ending is -ыхоо, not -ыхаа.",
+   "explain_mn": "Харьяалахын тийн 'нохойн' дээр ерөнхий хамаатуулах нөхцөл нэмэгдэхэд '-ыхоо' болж, 'нохойныхоо' гэсэн хэлбэр үүснэ."
+  },
+  {
+   "lang": "en",
+   "text": "No sooner had the truck stopped ___ the dog ran out to greet us.",
+   "answer": "than",
+   "options": [
+    "than",
+    "when",
+    "then",
+    "that"
+   ],
+   "translation": "Машин зогсмогц нохой биднийг угтан гүйж гарч ирэв.",
+   "explain_en": "'No sooner' is a comparative expression, so it is always followed by 'than', never 'when'.",
+   "explain_mn": "'No sooner' нь харьцуулсан утгатай тул заавал 'than'-тай хамт хэрэглэнэ. 'when' гэвэл алдаа болно."
+  },
+  {
+   "lang": "en",
+   "text": "Hardly had the puppy settled in ___ it started guarding the goats.",
+   "answer": "when",
+   "options": [
+    "when",
+    "than",
+    "then",
+    "as"
+   ],
+   "translation": "Гөлөг дасаж амжаагүй байтал ямаагаа хамгаалж эхэлсэн.",
+   "explain_en": "'Hardly' pairs with 'when' (or 'before'), not 'than'. 'Than' belongs only with 'no sooner'.",
+   "explain_mn": "'Hardly'-ийн дараа 'when' (заримдаа 'before') орно. 'than' нь зөвхөн 'no sooner'-тэй хослоно."
+  },
+  {
+   "lang": "en",
+   "text": "No sooner ___ the team left than the wolves returned.",
+   "answer": "had",
+   "options": [
+    "had",
+    "have",
+    "did",
+    "were"
+   ],
+   "translation": "Баг явмагц чононууд эргэж ирэв.",
+   "explain_en": "The first event comes before a past event, so it uses the past perfect. After 'no sooner', 'had' moves in front of the subject.",
+   "explain_mn": "Эхний үйл явдал Past Perfect цагаар илэрхийлэгддэг. 'No sooner'-ээр эхэлсэн тул 'had' нь эзэн биеийн өмнө гарна."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Anu",
+   "mn": "Сайн байцгаана уу! Нохой хориорой!",
+   "en": "Hello, everyone! Please hold the dog!",
+   "mn_latin": "Sain baitsgaana uu! Nokhoi khorioroi!"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Сайн, сайн. Ороорой. Хасар минь танихгүй хүнд л хуцдаг юм.",
+   "en": "Hello, hello. Come in. Khasar only barks at strangers.",
+   "mn_latin": "Sain, sain. Orooroi. Khasar mini tanikhgüi khünd l khutsdag yum."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Сүүлийн айлчлалаас хойш Хасар их томорчээ. Шинэ айлдаа сайн дассан уу?",
+   "en": "Khasar has grown a lot since our last visit. Has he adapted well to his new family?",
+   "mn_latin": "Süüliin ailchlalaas khoish Khasar ikh tomorchee. Shine aildaa sain dassan uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Тийм ээ. Өдөржин хоньтойгоо хамт явж, шөнө хашаандаа унтдаг.",
+   "en": "Yes. He spends all day with his sheep and sleeps in the pen at night.",
+   "mn_latin": "Tiim ee. Ödörjin khonitoigoo khamt yavj, shönö khashaandaa untdag."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Энэ өвөл махчин амьтны улмаас малын хорогдол гарсан уу?",
+   "en": "Did you lose any livestock to predators this winter?",
+   "mn_latin": "Ene övöl makhchin amitny ulmaas malyn khorogdol garsan uu?"
+  },
+  {
+   "speaker": "Bat",
+   "mn": "Ганц удаа чоно ирсэн. Ойртонгуут Хасар сүргийнхээ өмнө гараад, чоно зугтсан.",
+   "en": "A wolf came only once. No sooner had it come close than Khasar stood in front of his flock, and the wolf ran off.",
+   "mn_latin": "Gants udaa chono irsen. Oirtonguut Khasar sürgiinkhee ömnö garaad, chono zugtsan."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Гайхалтай! Үүнийг тайландаа заавал оруулна.",
+   "en": "Amazing! We'll definitely include that in our report.",
+   "mn_latin": "Gaikhaltai! Üüniig tailandaa zaaval oruulna."
+  },
+  {
+   "speaker": "Anu",
+   "mn": "Бат гуай, нохойныхоо хоол тэжээлийн талаар бас ярьж өгөөч.",
+   "en": "Mr. Bat, please also tell us about your dog's diet.",
+   "mn_latin": "Bat guai, nokhoinykhoo khool tejeeliin talaar bas yarij ögööch."
+  }
+ ],
+ "culture_note": {
+  "en": "When approaching a ger in the countryside, Mongolians traditionally call out \"Нохой хориорой!\" (\"Hold the dog!\") instead of knocking, because guardian dogs protect the camp fiercely. Organizations such as the Mongolian Bankhar Dog Project place puppies with herding families and return for follow-up visits to check the dog's health and its bond with the herd. They also track livestock losses to predators.",
+  "mn": "Хөдөө гэрт ойртохдоо монголчууд хаалга тогшихын оронд \"Нохой хориорой!\" гэж дуудах уламжлалтай. Учир нь манаач нохой айлаа ширүүн хамгаалдаг. Монгол банхар нохойн төсөл зэрэг байгууллагууд малчин айлд гөлөг өгч, дараа нь хяналтын айлчлал хийдэг. Тэд нохойн эрүүл мэнд, сүрэгтэйгээ дотносож буй байдал, махчин амьтнаас үүдэх малын хорогдлыг тогтмол бүртгэдэг."
+ },
+ "review": {
+  "rating": 7,
+  "fixes": 9,
+  "notes": "Solid lesson. The main problems were three fill-in-the-blanks with more than one correct answer, one mistranslated grammar example, a Mongolian title written in English, and one misleading dialogue phrase."
+ },
+ "opus_fix": {
+  "rating_before": 6,
+  "fixes": 9,
+  "notes": "Main problem: the grammar title_mn and explain_mn covered English inversion instead of the Mongolian reflexive; also fixed the ending label, an ambiguous blank, the English wording and the culture note.",
+  "changes": [
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "title_mn",
+    "why": "title_mn covered a different topic (English no sooner/hardly) from title_en"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_mn",
+    "why": "explain_mn described a different grammar point from explain_en; the two versions must match"
+   },
+   {
+    "section": "grammar",
+    "index": null,
+    "field": "explain_en",
+    "why": "'Nominal нь' is the wrong term; it is the third-person possessive particle"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_en",
+    "why": "The genitive + reflexive ending is -ыхаа (нохойн-ыхоо), not -ынхаа"
+   },
+   {
+    "section": "intro",
+    "index": null,
+    "field": "intro_mn",
+    "why": "Same ending fix (-ыхаа)"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "en",
+    "why": "'arrived at its new family' is unnatural English"
+   },
+   {
+    "section": "sentences",
+    "index": 0,
+    "field": "alt_en",
+    "why": "Same wording fix"
+   },
+   {
+    "section": "fill_blank",
+    "index": 1,
+    "field": "options",
+    "why": "'өвөлжөөндөө гарч' (going out to the winter camp) is also grammatical, so 'ндөө' made the blank ambiguous"
+   },
+   {
+    "section": "culture_note",
+    "index": null,
+    "field": "mn",
+    "why": "'хотыг' reads as 'the city'; also the project name now matches the English 'Mongolian Bankhar Dog Project'"
+   }
+  ]
+ }
+}

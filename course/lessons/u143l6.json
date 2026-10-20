@@ -1,0 +1,411 @@
+{
+ "intro_en": "Write and perform your own short legend for a culture evening. You will learn the vocabulary of story structure and how to weave -жээ, аж and converbs into one flowing narrative.",
+ "intro_mn": "Соёлын үдэшт зориулж өөрийн богино домгийг зохиож, тайзан дээр ярьж сурна. Мөн үлгэр, домгийн бүтцийн нэр томьёо, англи хэлэнд газар, чиглэлийн үгийг өгүүлбэрийн эхэнд гаргаж, үгийн дарааллыг урвуулан үйл явдлыг илүү сэтгэл хөдөлгөм болгох аргыг давтана.",
+ "vocab": [
+  {
+   "mn": "эхлэл",
+   "en": "opening, beginning",
+   "pos": "noun",
+   "example_mn": "Домгийн эхлэл үзэгчдийн анхаарлыг татах ёстой.",
+   "example_en": "The opening of a legend should grab the audience's attention.",
+   "mn_latin": "ekhlel"
+  },
+  {
+   "mn": "өрнөл",
+   "en": "rising action, plot development",
+   "pos": "noun",
+   "example_mn": "Өрнөл хэсэгт баатар олон саадтай тулгардаг.",
+   "example_en": "In the rising action, the hero faces many obstacles.",
+   "mn_latin": "örnöl"
+  },
+  {
+   "mn": "оргил",
+   "en": "climax",
+   "pos": "noun",
+   "example_mn": "Оргил үед баатар мангастай тулалджээ.",
+   "example_en": "At the climax, the hero fought the monster.",
+   "mn_latin": "orgil"
+  },
+  {
+   "mn": "төгсгөл",
+   "en": "ending",
+   "pos": "noun",
+   "example_mn": "Домгийн төгсгөл гэнэтийн байлаа.",
+   "example_en": "The ending of the legend was unexpected.",
+   "mn_latin": "tögsgöl"
+  },
+  {
+   "mn": "сургамж",
+   "en": "moral, lesson",
+   "pos": "noun",
+   "example_mn": "Энэ домгоос ямар сургамж авч болох вэ?",
+   "example_en": "What lesson can we take from this legend?",
+   "mn_latin": "surgamj"
+  },
+  {
+   "mn": "өгүүлэгч",
+   "en": "narrator",
+   "pos": "noun",
+   "example_mn": "Өгүүлэгч дуугаа намсгаад, нууцлаг өнгөөр ярив.",
+   "example_en": "The narrator lowered her voice and spoke in a mysterious tone.",
+   "mn_latin": "ögüülegch"
+  },
+  {
+   "mn": "зохиох",
+   "en": "to compose, to write (a story)",
+   "pos": "verb",
+   "example_mn": "Би соёлын үдэшт зориулж богино домог зохиосон.",
+   "example_en": "I wrote a short legend for the culture evening.",
+   "mn_latin": "zokhiokh"
+  },
+  {
+   "mn": "гол дүр",
+   "en": "main character",
+   "pos": "noun phrase",
+   "example_mn": "Энэ домгийн гол дүр нь ядуу малчин хүү.",
+   "example_en": "The main character of this legend is a poor herder boy.",
+   "mn_latin": "gol dür"
+  },
+  {
+   "mn": "үзэгч",
+   "en": "audience member, viewer",
+   "pos": "noun",
+   "example_mn": "Үзэгчид амьсгаа даран сонсож байлаа.",
+   "example_en": "The audience listened with bated breath.",
+   "mn_latin": "üzegch"
+  },
+  {
+   "mn": "соёлын үдэш",
+   "en": "culture evening",
+   "pos": "noun phrase",
+   "example_mn": "Их сургуулийн соёлын үдэш баасан гарагт болно.",
+   "example_en": "The university culture evening is on Friday.",
+   "mn_latin": "soyolyn üdesh"
+  }
+ ],
+ "sentences": [
+  {
+   "mn": "Эрт урьдын цагт Хангайн нэгэн хөндийд өнчин хүү амьдардаг байжээ.",
+   "en": "Long ago, in a valley of the Khangai, there lived an orphan boy.",
+   "alt_mn": [
+    "Эрт урьд цагт Хангайн нэгэн хөндийд өнчин хүү амьдардаг байжээ."
+   ],
+   "alt_en": [
+    "Long ago, in a valley of the Khangai, lived an orphan boy.",
+    "Once upon a time, an orphan boy lived in a valley of the Khangai."
+   ],
+   "mn_latin": "Ert uridyn tsagt Khangain negen khöndiid önchin khüü amidardag baijee."
+  },
+  {
+   "mn": "Нэгэн өглөө тэр усанд очоод, нуурын эрэг дээр цагаан морь зогсож байхыг харжээ.",
+   "en": "One morning he went to fetch water and saw a white horse standing on the lakeshore.",
+   "alt_mn": [],
+   "alt_en": [
+    "One morning, when he went to fetch water, he saw a white horse standing on the shore of the lake."
+   ],
+   "mn_latin": "Negen öglöö ter usand ochood, nuuryn ereg deer tsagaan mori zogsoj baikhyg kharjee."
+  },
+  {
+   "mn": "Морь хүний дуугаар ярьдаг аж.",
+   "en": "The horse, it is said, could speak with a human voice.",
+   "alt_mn": [
+    "Морь хүн шиг ярьдаг аж."
+   ],
+   "alt_en": [
+    "It is said that the horse could speak with a human voice.",
+    "Apparently, the horse could talk like a human."
+   ],
+   "mn_latin": "Mori khünii duugaar yaridag aj."
+  },
+  {
+   "mn": "Хүү морийг унаад, уулын оргил руу давхисаар шөнө дөлөөр хүрчээ.",
+   "en": "The boy mounted the horse, galloped on and on toward the mountain peak, and reached it in the dead of night.",
+   "alt_mn": [
+    "Хүү морийг унаж, уулын оргил руу давхисаар шөнө дөлөөр хүрчээ."
+   ],
+   "alt_en": [
+    "The boy got on the horse and kept galloping toward the summit until he reached it in the middle of the night."
+   ],
+   "mn_latin": "Khüü moriig unaad, uulyn orgil ruu davkhisaar shönö dölöör khürchee."
+  },
+  {
+   "mn": "Уулын оройгоос аварга том бүргэд шунган бууж иржээ.",
+   "en": "From the top of the mountain swooped down a giant eagle.",
+   "alt_mn": [],
+   "alt_en": [
+    "Down from the mountaintop swooped a giant eagle.",
+    "A giant eagle swooped down from the top of the mountain."
+   ],
+   "mn_latin": "Uulyn oroigoos avarga tom bürged shungan buuj irjee."
+  },
+  {
+   "mn": "Гэрийн үүдээр нэгэн буурал өвгөн орж ирээд, үг дуугүй галын дэргэд суужээ.",
+   "en": "Through the door of the ger came a gray-haired old man, who sat down by the fire without a word.",
+   "alt_mn": [],
+   "alt_en": [
+    "A gray-haired old man came in through the door of the ger and silently sat down by the fire."
+   ],
+   "mn_latin": "Geriin üüdeer negen buural övgön orj ireed, üg duugüi galyn derged suujee."
+  },
+  {
+   "mn": "Домгийнхоо эхлэлийг богино, тод болгоорой.",
+   "en": "Keep the opening of your legend short and vivid.",
+   "alt_mn": [
+    "Домгийнхоо эхлэлийг богино бөгөөд тод болгоорой."
+   ],
+   "alt_en": [
+    "Make your legend's opening short and vivid."
+   ],
+   "mn_latin": "Domgiinkhoo ekhleliig bogino, tod bolgooroi."
+  },
+  {
+   "mn": "Оргил хэсэгт хоолойгоо намсгавал үзэгчид илүү анхааралтай сонсоно.",
+   "en": "If you lower your voice at the climax, the audience will listen more closely.",
+   "alt_mn": [
+    "Оргил хэсэгт дуугаа намсгавал үзэгчид илүү анхааралтай сонсоно."
+   ],
+   "alt_en": [
+    "Lower your voice at the climax, and the audience will listen more closely."
+   ],
+   "mn_latin": "Orgil khesegt khooloigoo namsgaval üzegchid ilüü ankhaaraltai sonsono."
+  },
+  {
+   "mn": "Төгсгөлд нь сургамжийг шууд хэлэхгүйгээр үзэгчид өөрсдөө ойлгох боломж олгосон нь дээр.",
+   "en": "At the end, it's better not to state the moral directly but to let the audience figure it out for themselves.",
+   "alt_mn": [],
+   "alt_en": [
+    "In the ending, rather than stating the moral outright, it's better to let the audience work it out themselves."
+   ],
+   "mn_latin": "Tögsgöld ni surgamjiig shuud khelekhgüigeer üzegchid öörsdöö oilgokh bolomj olgoson ni deer."
+  },
+  {
+   "mn": "Тэр цагаас хойш энэ нуурыг Цагаан морьт нуур гэж нэрлэх болжээ.",
+   "en": "From that time on, people began calling this lake White Horse Lake.",
+   "alt_mn": [
+    "Тэр цагаас хойш хүмүүс энэ нуурыг Цагаан морьт нуур гэж нэрлэх болжээ."
+   ],
+   "alt_en": [
+    "Ever since then, this lake has been called White Horse Lake."
+   ],
+   "mn_latin": "Ter tsagaas khoish ene nuuryg Tsagaan morit nuur gej nerlekh boljee."
+  },
+  {
+   "mn": "Ингээд хүү ард түмэндээ эргэн ирж, урт удаан жаргалтай амьдарсан гэдэг.",
+   "en": "And so the boy returned to his people and, they say, lived a long and happy life.",
+   "alt_mn": [
+    "Ингээд хүү нутагтаа буцаж ирээд, урт удаан жаргалтай амьдарсан гэдэг."
+   ],
+   "alt_en": [
+    "And so, they say, the boy went back to his people and lived long and happily."
+   ],
+   "mn_latin": "Ingeed khüü ard tümendee ergen irj, urt udaan jargaltai amidarsan gedeg."
+  },
+  {
+   "mn": "Би домгоо зохиохдоо өвөөгийнхөө ярьж өгдөг байсан үлгэрүүдээс санаа авсан.",
+   "en": "When I wrote my legend, I drew ideas from the stories my grandfather used to tell me.",
+   "alt_mn": [],
+   "alt_en": [
+    "I got the ideas for my legend from the tales my grandfather used to tell me."
+   ],
+   "mn_latin": "Bi domgoo zokhiokhdoo övöögiinkhöö yarij ögdög baisan ülgerüüdees sanaa avsan."
+  }
+ ],
+ "grammar": {
+  "title_en": "Weaving a narrative: -жээ, аж and converbs",
+  "title_mn": "Англи хэлний урвуу дараалал: газар, чиглэлийн үгийн дараа",
+  "explain_en": "A Mongolian legend usually sounds like one long, flowing chain. The verb suffix -жээ/-чээ is the classic storytelling past: the narrator did not witness the events, so it fits legends perfectly (байжээ, хүрчээ). The particle аж, used after a verb form, adds 'it is said / apparently' and works well for a key or surprising fact (ярьдаг аж). Converbs link the actions: -аад/-ээд means 'after doing' (унаад), -ж/-ч means 'and' (эргэн ирж), -саар means 'kept doing until' (давхисаар), and -н joins two closely linked actions (шунган бууж). The usual pattern is converb + converb + main verb in -жээ, so only the last verb of the chain carries the tense. Stories often end with гэдэг 'so they say'.",
+  "explain_mn": "Англи хэлэнд үйл явдлыг сэтгэл хөдөлгөм болгохын тулд газар, чиглэл заасан үгийг (out of the lake, into the ger, down the hill) өгүүлбэрийн эхэнд гаргаж, үйл үгийг эзэн биеийн өмнө тавьдаг: 'Out of the lake rose a white horse.' Энэ нь ихэвчлэн хөдөлгөөн, байрлалын үйл үг (come, go, rise, run, stand, lie, sit) дээр хэрэглэгдэнэ. Анхаарах зүйл: туслах үйл үг do/did нэмэхгүй ('did rise' гэж болохгүй). Эзэн бие нь he, she, it зэрэг төлөөний үг бол үгийн дараалал урвуулахгүй: 'Away he ran' гэж хэлэх ба 'Away ran he' гэвэл буруу. Энэ хэлбэрийг уран зохиол, домог, тайзан дээрх яриа зэрэгт ихэвчлэн хэрэглэдэг.",
+  "examples": [
+   {
+    "mn": "Нуурын гүнээс цагаан морь гарч иржээ.",
+    "en": "Out of the depths of the lake came a white horse.",
+    "mn_latin": "Nuuryn günees tsagaan mori garch irjee."
+   },
+   {
+    "mn": "Хүү морио унаад, тал руу давхисаар алга болжээ.",
+    "en": "The boy mounted his horse, and off across the steppe he galloped until he vanished.",
+    "mn_latin": "Khüü morio unaad, tal ruu davkhisaar alga boljee."
+   },
+   {
+    "mn": "Уулын бэлд нэгэн ганц гэр байдаг аж.",
+    "en": "At the foot of the mountain stood, it is said, a single ger.",
+    "mn_latin": "Uulyn beld negen gants ger baidag aj."
+   },
+   {
+    "mn": "Гэрийн үүдээр нэгэн эмгэн орж ирээд, хүүд сүүтэй цай аягалжээ.",
+    "en": "Into the ger stepped an old woman, who poured the boy a bowl of milk tea.",
+    "mn_latin": "Geriin üüdeer negen emgen orj ireed, khüüd süütei tsai ayagaljee."
+   }
+  ]
+ },
+ "fill_blank": [
+  {
+   "lang": "mn",
+   "text": "Эрт урьдын цагт нэгэн баян хаан амьдарч бай___.",
+   "answer": "жээ",
+   "options": [
+    "жээ",
+    "на",
+    "даг",
+    "х"
+   ],
+   "translation": "Long ago, there lived a rich khan.",
+   "explain_en": "-жээ is the classic narrative past for events the speaker did not witness, which makes it perfect for opening a legend. -на is present/future, -даг is habitual, and -х is a future/infinitive form.",
+   "explain_mn": "Домог, үлгэрт өгүүлэгч өөрийн нүдээр хараагүй эрт дээр болсон үйл явдлыг -жээ нөхцөлөөр илэрхийлдэг. -на, -даг, -х нь энэ утгыг өгөхгүй."
+  },
+  {
+   "lang": "mn",
+   "text": "Хүү морио ___ тал руу давхижээ.",
+   "answer": "унаад",
+   "options": [
+    "унаад",
+    "унасан",
+    "унана",
+    "унах"
+   ],
+   "translation": "The boy mounted his horse and galloped off toward the steppe.",
+   "explain_en": "The converb -аад means 'after doing' and links the first action to the main verb. Only the final verb (давхижээ) carries the past tense. The other options are finite or participle forms and would break the chain.",
+   "explain_mn": "-аад нөхцөл үйл нь эхний үйлдлийг гол үйл үгтэй холбодог. Цаг заах нөхцөл зөвхөн сүүлийн үйл үг дээр (давхижээ) байна. Бусад хувилбар нь өгүүлбэрийн урсгалыг тасалдуулна."
+  },
+  {
+   "lang": "mn",
+   "text": "Энэ домгийн ___ нь: шуналтай хүн эцэстээ бүхнээ алддаг.",
+   "answer": "сургамж",
+   "options": [
+    "сургамж",
+    "оргил",
+    "эхлэл",
+    "өгүүлэгч"
+   ],
+   "translation": "The moral of this legend is that a greedy person ends up losing everything.",
+   "explain_en": "Сургамж is the moral or lesson of a story. Оргил is the climax, эхлэл is the opening, and өгүүлэгч is the narrator.",
+   "explain_mn": "Үлгэр, домгийн сургаал, ухааруулах санааг сургамж гэдэг. Оргил нь үйл явдлын хамгийн хурц үе, эхлэл нь эхлэх хэсэг, өгүүлэгч нь ярьж буй хүн."
+  },
+  {
+   "lang": "en",
+   "text": "Out of the lake ___ a white horse.",
+   "answer": "rose",
+   "options": [
+    "rose",
+    "did rise",
+    "rising",
+    "was rose"
+   ],
+   "translation": "Нуураас цагаан морь гарч иржээ.",
+   "explain_en": "After a fronted direction phrase, the simple verb comes before the noun subject. Don't add 'did', and don't use an -ing form or 'was' + past.",
+   "explain_mn": "Чиглэлийн үгийг эхэнд гаргахад үйл үгийн энгийн хэлбэр (rose) эзэн биеийн өмнө орно. 'did' нэмэхгүй, -ing хэлбэр эсвэл 'was rose' гэж хэрэглэхгүй."
+  },
+  {
+   "lang": "en",
+   "text": "The boy jumped onto the horse, and away ___.",
+   "answer": "he rode",
+   "options": [
+    "he rode",
+    "rode he",
+    "did he ride",
+    "he riding"
+   ],
+   "translation": "Хүү морин дээр үсрэн суугаад, давхин одов.",
+   "explain_en": "When the subject is a pronoun, there is no inversion: 'away he rode', not 'away rode he'. Question order ('did he ride') is also wrong here.",
+   "explain_mn": "Эзэн бие нь he, she, it гэх мэт төлөөний үг бол урвуулахгүй: 'away he rode' гэж хэлнэ. 'rode he', 'did he ride' гэвэл буруу."
+  },
+  {
+   "lang": "en",
+   "text": "Above the valley ___ the mountain where the dragon slept.",
+   "answer": "towered",
+   "options": [
+    "towered",
+    "did tower",
+    "was towered",
+    "towering"
+   ],
+   "translation": "Хөндийн дээр луугийн нойрсдог уул сүрлэгээр сүндэрлэн байжээ.",
+   "explain_en": "'Above the valley' is a fronted place phrase, so the position verb 'towered' moves before the long noun subject. This creates suspense.",
+   "explain_mn": "'Above the valley' нь газар заасан хэллэг тул байрлалын үйл үг 'towered' урт эзэн биеийн өмнө орж, сонсогчийн сониуч занг хөдөлгөнө."
+  }
+ ],
+ "dialogue": [
+  {
+   "speaker": "Emily",
+   "mn": "Сарнай, би соёлын үдэшт зориулж домог зохиож байгаа ч эхлэлийг нь яаж бичихээ мэдэхгүй байна.",
+   "en": "Sarnai, I'm writing a legend for the culture evening, but I don't know how to write the opening.",
+   "mn_latin": "Sarnai, bi soyolyn üdesht zoriulj domog zokhioj baigaa ch ekhleliig ni yaaj bichikhee medekhgüi baina."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "\"Эрт урьдын цагт...\" гэж эхлээд гол дүрээ шууд танилцуул. Үйл үгээ -жээ-гээр төгсгөвөл жинхэнэ домог шиг сонсогдоно.",
+   "en": "Start with \"Long, long ago...\" and introduce your main character right away. If you end your verbs with -жээ, it'll sound like a real legend.",
+   "mn_latin": "\"Ert uridyn tsagt...\" gej ekhleed gol düree shuud taniltsuul. Üil ügee -jee-geer tögsgövöl jinkhene domog shig sonsogdono."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Тэгвэл: \"Эрт урьдын цагт Хөвсгөлийн хөвөөнд нэгэн охин амьдардаг байжээ.\" Зүгээр үү?",
+   "en": "How about: \"Long ago, on the shores of Khövsgöl, there lived a girl.\" Is that okay?",
+   "mn_latin": "Tegvel: \"Ert uridyn tsagt Khövsgöliin khövöönd negen okhin amidardag baijee.\" Zügeer üü?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Маш сайн! Одоо өрнөл рүүгээ ор. Үйлдлүүдээ -аад, -ж гэх мэт нөхцөл үйлээр холбовол яриа чинь урсгалтай болно.",
+   "en": "Excellent! Now move on to the rising action. If you link the actions with converbs like -аад and -ж, your story will flow.",
+   "mn_latin": "Mash sain! Odoo örnöl rüügee or. Üildlüüdee -aad, -j gekh met nökhtsöl üileer kholbovol yaria chini ursgaltai bolno."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Оргил хэсэгт нь охин нуурын ёроол руу шумбаад, тэндээс луугийн алтан сувдыг олжээ.",
+   "en": "At the climax, down to the bottom of the lake dove the girl, and there she found the dragon's golden pearl.",
+   "mn_latin": "Orgil khesegt ni okhin nuuryn yorool ruu shumbaad, tendees luugiin altan suvdyg oljee."
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Гоё байна! \"Аж\" гэж хэлэхдээ жаахан завсарлаад үзэгчид рүү хар. Тэгвэл нууцлаг уур амьсгал үүснэ.",
+   "en": "That's great! When you say \"аж,\" pause a little and look at the audience. That will create a mysterious atmosphere.",
+   "mn_latin": "Goyo baina! \"Aj\" gej khelekhdee jaakhan zavsarlaad üzegchid rüü khar. Tegvel nuutslag uur amisgal üüsne."
+  },
+  {
+   "speaker": "Emily",
+   "mn": "Төгсгөлд нь сургамжийг шууд хэлэх үү?",
+   "en": "Should I state the moral directly at the end?",
+   "mn_latin": "Tögsgöld ni surgamjiig shuud khelekh üü?"
+  },
+  {
+   "speaker": "Сарнай",
+   "mn": "Үгүй ээ, \"Тэр цагаас хойш...\" гээд нуурын нэрийн гарлыг тайлбарлачих. Сургамжийг нь үзэгчид өөрсдөө ойлгоно.",
+   "en": "No, just say \"From that time on...\" and explain how the lake got its name. The audience will figure out the moral on their own.",
+   "mn_latin": "Ügüi ee, \"Ter tsagaas khoish...\" geed nuuryn neriin garlyg tailbarlachikh. Surgamjiig ni üzegchid öörsdöö oilgono."
+  }
+ ],
+ "culture_note": {
+  "en": "Many Mongolian legends explain where a place name comes from, such as a lake, a mountain, or a rock, and they often end with a formula like \"Тэр цагаас хойш...\" (From that time on...). Schools and universities in Ulaanbaatar often hold culture evenings (соёлын үдэш), where students sing, recite poems, and tell stories. A well-told legend, with pauses and a lowered voice at the climax, is always a crowd favorite.",
+  "mn": "Олон монгол домог нуур, уул, хад зэрэг газрын нэр хэрхэн үүссэнийг тайлбарладаг бөгөөд ихэвчлэн \"Тэр цагаас хойш...\" гэсэн хэллэгээр төгсдөг. Улаанбаатарын сургууль, их сургуулиуд соёлын үдэш зохион байгуулж, оюутнууд дуулж, шүлэг уншиж, үлгэр домог ярьдаг. Оргил хэсэгт нь завсарлаж, дуугаа намсгаж уран ярьсан домог үзэгчдийн хамгийн их таашаалыг авдаг."
+ },
+ "review": {
+  "rating": 8,
+  "fixes": 2,
+  "notes": "A well-built two-direction lesson with natural Mongolian and English. There was one ambiguous fill-in-the-blank distractor and a small quantity mismatch in the culture note."
+ },
+ "opus_fix": {
+  "rating_before": 9,
+  "fixes": 3,
+  "notes": "Good lesson overall. The en/mn grammar and intro split (Mongolian narrative forms for English speakers, English inversion for Mongolian speakers) looks deliberate for a two-way course, so I kept it. Only minor wording fixes were needed.",
+  "changes": [
+   {
+    "section": "fill_blank",
+    "index": 5,
+    "field": "translation",
+    "why": "'дээгүүр' means 'over/across', not a fixed position above the valley. Genitive луугийн is more natural in the relative clause."
+   },
+   {
+    "section": "fill_blank",
+    "index": 4,
+    "field": "translation",
+    "why": "Narrative past -ов suits a story better than the conversational -лоо, and avoids the clumsy 'давхиад одлоо'."
+   },
+   {
+    "section": "sentences",
+    "index": 8,
+    "field": "mn",
+    "why": "'үзэгчдэд өөрсдөд нь ойлгуулсан' is awkward. This wording is more natural and matches 'let the audience figure it out for themselves'."
+   }
+  ]
+ }
+}
