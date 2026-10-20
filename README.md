@@ -22,6 +22,16 @@ There's no install, no server and no internet needed; progress is saved in your 
 
 It can also be hosted as a static site (e.g. GitHub Pages, serving the `course/` folder).
 
+### Deploy on Vercel
+
+Import this repository and keep the Root Directory at the repository root (`.`).
+The included `vercel.json` selects the **Other** framework preset, skips installation and building,
+and serves the already-generated `course/` directory. The Python scripts are offline content-generation
+tools; they are not a Python web server and do not need an entrypoint or credentials to deploy the game.
+
+If the project was previously detected as Python, deploy the latest commit from `main` so Vercel reads
+the new configuration. Lessons are available at `/` and the adventure game at `/quest/`.
+
 ## What's inside
 
 | Path | What |
