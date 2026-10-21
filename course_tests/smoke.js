@@ -77,7 +77,7 @@ async function load() {
   ok($$('.node.locked').length === C.lessons.length - lessons.length, 'unwritten lessons locked');
   ok($$('.node.next').length === 1 && $('.node.next .bubble').textContent === T.start, 'next lesson highlighted with Start bubble');
   if (mode === 'http') ok($('.pill.streak').textContent.includes('3') && $('.pill.xp').textContent === '★ 7', 'old streak + XP migrated and shown');
-  ok($('details.stats') && $('details.stats').textContent.includes('Course build'), 'stats card present');
+  ok($('details.stats') && $('details.stats').textContent.includes('Course overview'), 'stats card present');
   ok(!$('.practice'), 'no practice card before any mistakes');
 
   // theme + mute toggles

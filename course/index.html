@@ -386,15 +386,13 @@ function home() {
   wrap.append(h('div', { class: 'card questcard' }, h('span', { class: 'ico', 'aria-hidden': 'true' }, '⚔️'),
     h('div', { class: 'tx' }, h('b', {}, t('quest')), h('div', { class: 'muted' }, t('questSub'))),
     h('a', { class: 'btn gold', href: 'quest/index.html' }, t('questGo'))));
-  // founder demo stats, collapsible
+  // course overview, collapsible
   const det = h('details', { class: 'card stats', ontoggle: () => store.set('statsOpen', det.open) },
-    h('summary', {}, '⚙️', h('span', {}, h('b', {}, 'Course build'), ` · ${s.lessons}/${s.planned_lessons} lessons · $${s.cost_usd}`)),
+    h('summary', {}, '📚', h('span', {}, h('b', {}, 'Course overview'), ` · ${s.lessons}/${s.planned_lessons} lessons`)),
     h('div', { class: 'body' },
-      h('div', {}, `Written by Claude on AWS Bedrock (Opus plans, Sonnet writes, Sonnet edits) · updated ${s.updated || ''}`),
       h('div', { class: 'statgrid' },
         [['Lessons', `${s.lessons}/${s.planned_lessons}`], ['Words', s.words], ['Sentences', s.sentences],
-         ['Exercises', '~' + s.exercises], ['Editor fixes', s.fixes], ['Editor rating', s.avg_review_rating == null ? '-' : s.avg_review_rating + '/10'],
-         ['Minutes', s.minutes], ['AWS cost', '$' + s.cost_usd]].map(([k, v]) => h('div', { class: 'stat' }, h('b', {}, String(v ?? '-')), k)))));
+         ['Exercises', '~' + s.exercises]].map(([k, v]) => h('div', { class: 'stat' }, h('b', {}, String(v ?? '-')), k)))));
   if (store.get('statsOpen', false)) det.open = true;
   wrap.append(det);
   // lesson path

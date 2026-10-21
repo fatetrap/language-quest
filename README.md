@@ -48,28 +48,22 @@ the new configuration. Lessons are available at `/` and the adventure game at `/
 | `course/quest/` | Quest game: `campaign.js` (encounters), `pixel.js` (all sprites and scenes, drawn in code), `chip.js` (chiptune sound), `gallery.html` (every sprite and scene on one page) |
 | `course/audit.md` | Latest quality audit of a sample of lessons |
 | `course_tests/` | Tests: Python (pytest) and Node (jsdom, Playwright screenshots) |
-| `*.py` (root) | The pipeline that wrote the course with Claude on AWS Bedrock |
-| `docs/` | The briefs given to the AI developer runs that built the games |
+| `*.py` (root) | Course content and maintenance tools |
+| `docs/` | Development briefs |
 
-## How the course was made
+## Maintaining the course
 
-All content was written by Claude (Anthropic) on AWS Bedrock, in stages:
-
-1. `make_course.py`: Claude Opus plans the units, then writes each lesson; a second pass checks it as an editor.
-2. `fix_course.py`: Claude Opus acts as a native Mongolian and English editor and fixes the remaining mistakes.
-3. `audit_course.py`: Opus spot-checks a sample of lessons (latest: 8.5/10, about 0.1 major mistakes per lesson).
-4. `make_story.py`: Opus writes each encounter's story, for both campaigns.
+1. `make_course.py`: plans units, generates lessons, and runs an editing pass.
+2. `fix_course.py`: checks and revises lesson content.
+3. `audit_course.py`: spot-checks a sample of lessons.
+4. `make_story.py`: generates encounter stories for both campaigns.
 5. `build_db.py`: turns the lesson files and stories into `course/db/` (run it after changing lessons).
 
-The games themselves were built by Claude Opus working as a developer in a sandbox (`bedrock_dev.py`, using
-[Daytona](https://www.daytona.io/)), from the briefs in `docs/`.
-
-The content is AI-written and machine-checked; it has not yet been fully reviewed by a native speaker.
-Corrections are welcome.
+Corrections and native-speaker review are welcome.
 
 ### Running the pipeline
 
-Needs Python 3.11+ and AWS credentials with Bedrock access to Claude:
+Needs Python 3.11+ and AWS credentials with Bedrock access for the content-generation scripts:
 
 ```
 pip install -r requirements.txt
