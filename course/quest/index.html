@@ -313,6 +313,22 @@ textarea:focus{border-color:var(--gold);outline:none}
 .modal{position:fixed;inset:0;z-index:80;background:#000a;display:flex;align-items:center;justify-content:center;padding:16px}
 .sheet{max-width:440px;width:100%;padding:22px;text-align:center;display:grid;gap:10px}
 .sheet h3{font:16px/24px var(--pix);color:var(--gold)}
+/* complete character looks, shared by the camp, battles and world map */
+.character{display:flex;align-items:center;gap:14px;padding:12px 16px;margin-bottom:14px}
+.character .spr{--px:2;flex:none}.character .tx{flex:1;min-width:0}
+.character .k{margin-bottom:6px}.character .skin-name{line-height:1.2}
+.character .btn{flex:none}
+.skin-sheet{max-width:560px;max-height:calc(100dvh - 32px);overflow-y:auto;padding:20px;display:grid;gap:16px}
+.skin-sheet h2{font:16px/24px var(--pix);color:var(--gold)}
+.skin-sheet p{margin:0;color:var(--muted)}
+.skin-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.skin-option{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;
+  min-width:0;padding:14px 8px 10px;background:var(--field);border:3px solid var(--wm);border-radius:6px}
+.skin-option[aria-pressed="true"]{border-color:var(--gold);background:var(--sel)}
+.skin-option .spr{--px:2}.skin-option .skin-name{font:var(--fs)/1 var(--uni);text-align:center}
+.skin-check{height:18px;font:12px/18px var(--pix);color:var(--gold)}
+.skin-sheet .row{display:flex;gap:12px}.skin-sheet .row .btn{flex:1}
+@media(max-width:480px){.character{flex-wrap:wrap}.character .btn{width:100%}.skin-sheet{padding:16px;gap:12px}.skin-sheet .row{flex-direction:column}}
 @keyframes shake{0%,100%{transform:none}12%{transform:translate(-6px,2px)}25%{transform:translate(6px,-2px)}37%{transform:translate(-4px,0)}50%{transform:translate(4px,2px)}
   62%{transform:translate(-2px,-2px)}75%{transform:translate(2px,0)}87%{transform:translate(-1px,1px)}}
 @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
@@ -375,6 +391,8 @@ const T = {
     teachLine: 'Listen well, traveller. You will need these words.', bossLine: 'Show me what you learned. All of it.',
     learnWords: 'Learn the words', ready: 'I am ready', units: 'Units', yourAnswer: 'You',
     music: 'Music', gameOver: 'GAME OVER', learnedNew: 'Learned new words!', map: 'World map',
+    character: 'Your character', changeSkin: 'Change look', chooseSkin: 'Choose your look', skinHint: 'Pick a look for your journey.',
+    useSkin: 'Use this look', cancel: 'Cancel',
     regions: ['Tuul River Valley', 'Khangai Mountains', 'Gobi Desert', 'Khövsgöl Taiga', 'Altai Peaks', 'The Eternal Blue Sky'] },
   mn: { title: 'Language Quest', onb: [
       ['Аян зам', 'Та Лондонд ганц ч англи үг мэдэхгүй буулаа. Тулаан бүр хэдэн шинэ үг зааж, дараа нь тулаанаар шалгана.'],
@@ -400,6 +418,8 @@ const T = {
     teachLine: 'Сайн сонс, аялагч аа. Эдгээр үг чамд хэрэг болно.', bossLine: 'Сурсан бүхнээ харуул. Бүгдийг нь.',
     learnWords: 'Үгсийг сурах', ready: 'Би бэлэн', units: 'Бүлэг', yourAnswer: 'Та',
     music: 'Хөгжим', gameOver: 'ТОГЛООМ ДУУСЛАА', learnedNew: 'Шинэ үг сурлаа!', map: 'Газрын зураг',
+    character: 'Таны дүр', changeSkin: 'Дүрээ солих', chooseSkin: 'Дүрээ сонгоорой', skinHint: 'Аян замынхаа дүрийг сонгоорой.',
+    useSkin: 'Энэ дүрийг сонгох', cancel: 'Болих',
     regions: ['Баруун Лондон', 'Темза мөрөн', 'Хойд Лондон', 'Лондон Сити', 'Вестминстер', 'Шотландын өндөрлөг'] }
 };
 let native = P.native();
@@ -427,6 +447,8 @@ const item = id => C.items[id];
 const qkey = () => 'quest_' + native;
 const qload = () => Object.assign({ won: {}, best: 0, onb: false }, store.get(qkey(), null) || {});
 const qsave = s => store.set(qkey(), s);
+let skin = PX.skinId(store.get('quest_skin', 'traveler'));
+const heroSprite = () => spr(PX.hero(skin));
 
 // ---------- theme, sound (the same preference keys as the lessons app), music (quest only, off by default) ----------
 let theme = store.get('theme', 0);  // 0 auto, 1 light, 2 dark
@@ -453,7 +475,7 @@ PX.setMotion(() => !reduceMotion());
 window.addEventListener('resize', () => { setScale(); PX.refresh(); });
 // a sprite canvas (idles through its 2-4 frames unless motion is reduced)
 function spr(name, cls, o) {
-  const s = PX.sprite(name), cv = h('canvas', { class: 'spr' + (cls ? ' ' + cls : ''), 'aria-hidden': 'true' });
+  const s = PX.sprite(name), cv = h('canvas', { class: 'spr' + (cls ? ' ' + cls : ''), 'aria-hidden': 'true', 'data-sprite': name });
   if (!s) return cv;
   cv.width = s.w; cv.height = s.h; cv.style.setProperty('--w', s.w); cv.style.setProperty('--h', s.h);
   const x = cv.getContext('2d'), seed = PX.hash(name) % 24;
@@ -604,7 +626,7 @@ function start() {
 function chooseLanguage() {
   CHIP.music(null);
   const banner = art('ger');
-  banner.append(h('div', { class: 'duo' }, spr(PX.HERO), spr('batzorig'), spr('edmund')));
+  banner.append(h('div', { class: 'duo' }, heroSprite(), spr('batzorig'), spr('edmund')));
   const pick = (n, flag, b, sub) => h('button', { class: 'win', onclick: () => pickNative(n) }, h('span', { class: 'flag' }, flag), h('span', {}, h('b', {}, b), sub));
   const menu = h('div', { class: 'choose' },
     pick('en', 'EN → MN', 'I speak English', 'Survive in Mongolia, learn Mongolian'),
@@ -663,24 +685,61 @@ function worldMap(c, all, S, nx) {
     pts.forEach((p, i) => { Object.assign(nodes[i], p); btns[i].style.left = p.x * s + 'px'; btns[i].style.top = p.y * s + 'px'; });
     // the walk: along the road from the old node to the current one, 0.5 s per stop
     const k = from === here || reduceMotion() ? 1 : Math.min(1, ms / (500 * (here - from))), f = from + (here - from) * k, i = Math.min(nodes.length - 1, Math.floor(f)), j = Math.min(nodes.length - 1, i + 1), u = f - i;
-    const hero = { x: pts[i].x + (pts[j].x - pts[i].x) * u, y: pts[i].y + (pts[j].y - pts[i].y) * u, moving: k < 1 };
+    const hero = { x: pts[i].x + (pts[j].x - pts[i].x) * u, y: pts[i].y + (pts[j].y - pts[i].y) * u, moving: k < 1, skin };
     x = x || cv.getContext('2d');
     PX.map(x, W, H, { region: region(), level: lv, nodes, hereIx: here, hero, t: ms });
   });
   const won = es.filter(e => { const st = S.status(e); return st === 'won' || st === 'known'; }).length;
   return h('section', { class: 'mapwin win' }, h('div', { class: 'mhead' }, h('span', {}, `${t('level')} ${c.level} · ${t('regions')[lv] || ''}`), h('span', {}, `★ ${won}/${es.length}`)), box);
 }
-// 1,000+ encounters: the camp draws the chapter (a run of units on one level) with the next encounter in full,
-// every other chapter as one line that opens on click
+// The picker previews complete looks; only Use this look changes the saved character.
+function skinPicker() {
+  if (modal) return;
+  const previousKey = onKey, opener = document.activeElement;
+  let chosen = skin;
+  const close = apply => {
+    modal = null; m.remove(); app.inert = false; onKey = previousKey;
+    if (apply) { skin = chosen; store.set('quest_skin', skin); Sound.play('select'); camp(); document.querySelector('.skin-change').focus(); }
+    else if (opener && opener.isConnected) opener.focus();
+  };
+  const m = h('div', { class: 'modal skin-modal', role: 'dialog', 'aria-modal': 'true', 'aria-labelledby': 'skin-title',
+    'aria-describedby': 'skin-hint', onclick: e => { if (e.target === m) close(false); } });
+  const options = h('div', { class: 'skin-options', role: 'group', 'aria-label': t('chooseSkin') });
+  const buttons = Object.entries(PX.SKINS).map(([id, look]) => {
+    const check = h('span', { class: 'skin-check', 'aria-hidden': 'true' }, id === chosen ? '◆' : '');
+    const button = h('button', { type: 'button', class: 'skin-option', 'data-skin': id, 'aria-pressed': String(id === chosen), onclick: () => {
+      chosen = id; Sound.play('tap');
+      buttons.forEach(b => { const selected = b.dataset.skin === chosen; b.setAttribute('aria-pressed', String(selected)); b.querySelector('.skin-check').textContent = selected ? '◆' : ''; });
+    } }, spr(PX.hero(id)), h('span', { class: 'skin-name' }, look[native]), check);
+    return button;
+  });
+  options.append(...buttons);
+  m.append(h('div', { class: 'skin-sheet win' }, h('h2', { id: 'skin-title' }, t('chooseSkin')), h('p', { id: 'skin-hint' }, t('skinHint')), options,
+    h('div', { class: 'row' }, h('button', { type: 'button', class: 'btn ghost skin-cancel', onclick: () => close(false) }, t('cancel')),
+      h('button', { type: 'button', class: 'btn skin-save', onclick: () => close(true) }, t('useSkin')))));
+  modal = { close: () => close(false), m }; app.inert = true; document.body.append(m);
+  buttons.find(b => b.dataset.skin === chosen).focus();
+  onKey = e => {
+    if (e.key === 'Escape') { e.preventDefault(); close(false); }
+    else if (e.key === 'Tab') {
+      const focusable = [...m.querySelectorAll('button')], index = focusable.indexOf(document.activeElement);
+      e.preventDefault(); focusable[(index + (e.shiftKey ? -1 : 1) + focusable.length) % focusable.length].focus();
+    } else if (arrowNav(e, options)) e.preventDefault();
+  };
+}
+// 1,000+ encounters: draw the current chapter in full, the others as expandable lines.
 function camp() {
   document.querySelectorAll('.over,.modal').forEach(e => e.remove()); modal = null; stopTypers();
   CHIP.music('map');
   const all = Q.campaign(), S = Q.state(qload().won), nx = S.next, wrap = h('div', { class: 'wrap' });
   const chs = Q.chapters(), cur = nx ? chs.find(c => nx.index >= c.from && nx.index <= c.to) : chs[chs.length - 1];
+  wrap.append(h('section', { class: 'character win', 'aria-label': t('character') }, heroSprite(),
+    h('div', { class: 'tx' }, h('div', { class: 'k' }, t('character')), h('div', { class: 'skin-name' }, PX.SKINS[skin][native])),
+    h('button', { class: 'btn ghost skin-change', onclick: skinPicker }, t('changeSkin'))));
   if (cur) wrap.append(worldMap(cur, all, S, nx));
   if (nx) {
     const sc = Q.story(nx, native), fresh = nx.words.filter(id => !P.mastery(id).known).length, due = P.due(40).length;
-    const banner = h('div', { class: 'hbanner' }, art(sc.art), h('div', { class: 'hcast' }, spr(PX.foe(sc.role, sc.who, region(), nx.kind === 'boss')), spr(PX.HERO)));
+    const banner = h('div', { class: 'hbanner' }, art(sc.art), h('div', { class: 'hcast' }, spr(PX.foe(sc.role, sc.who, region(), nx.kind === 'boss')), heroSprite()));
     wrap.append(h('div', { class: 'hero win', 'data-enc': nx.id }, banner,
       h('div', { class: 'tx' },
         h('div', { class: 'k' }, `${encLabel(nx)} / ${all.length} · ${nx.level} · ${t('unit')} ${nx.ui + 1}`),
@@ -850,7 +909,7 @@ function fight(e, retry) {
     h('div', { class: 'mid' }, h('div', { class: 'lab' }, honorN, h('span', { style: 'display:flex;align-items:center' }, roundN, flee)), h('div', { class: 'ruler', 'aria-hidden': 'true' }, rulerI)),
     h('div', { class: 'opp' }, h('div', { style: 'min-width:0' }, h('div', { class: 'nm' }, sc.who), h('div', { class: 'role', title: sc.role }, sc.role)), spr(foeName, 'mini', { still: true })));
   const bubble = h('div', { class: 'bubble win', 'aria-live': 'polite' }), flash = h('div', { class: 'flash', 'aria-hidden': 'true' });
-  const foeA = h('div', { class: 'actor foe' }, spr(foeName, boss ? 'big' : '')), meA = h('div', { class: 'actor me' }, spr(PX.HERO));
+  const foeA = h('div', { class: 'actor foe' }, spr(foeName, boss ? 'big' : '')), meA = h('div', { class: 'actor me' }, heroSprite());
   const stage = h('section', { class: 'stage', 'aria-label': sc.place }, art(sc.art),
     h('div', { class: 'cast' }, h('div', { class: 'npc' }, foeA, h('div', { class: 'plate win' }, sc.who)), bubble, h('div', { class: 'npc mine' }, meA)));
   const board = h('div', { class: 'board' }), bin = h('div', { class: 'in' });
@@ -1010,7 +1069,7 @@ function fight(e, retry) {
   function overlay(win, tiles, buttons, words) {
     CHIP.music(null);
     const title = win ? t('victory') : t('defeat');
-    const duo = h('div', { class: 'duo', 'aria-hidden': 'true' }, h('div', { class: 'actor ' + (win ? 'cheer' : 'ko') }, spr(PX.HERO)), h('div', { class: 'actor' + (win ? ' beaten' : '') }, spr(foeName)));
+    const duo = h('div', { class: 'duo', 'aria-hidden': 'true' }, h('div', { class: 'actor ' + (win ? 'cheer' : 'ko') }, heroSprite()), h('div', { class: 'actor' + (win ? ' beaten' : '') }, spr(foeName)));
     const ov = h('div', { class: 'over ' + (win ? 'victory' : 'defeat'), role: 'dialog', 'aria-modal': 'true', 'aria-label': title },
       h('div', { class: 'box win' }, h('div', { class: 'kick' }, win ? `★ ${sc.place} ★` : t('gameOver')), h('h1', { class: 'glitch', 'data-text': title }, title), duo,
         h('p', { class: 'line' }, win ? sc.win || tf('victorySub', { who: sc.who }) : sc.lose || t('defeatSub')),

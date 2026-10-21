@@ -132,6 +132,18 @@
     local: { head: 'short', torso: 'deel', legs: 'robe', c: {} },
     hero: { head: 'band', torso: 'pack', legs: 'pants', c: { a: '#c83828', c: '#58a8e8', t: '#6a4020', g: '#7a5028', r: '#e8c040', p: '#304068', b: '#5a3418', h: '#3a2418', s: '#f0b890' } }
   };
+  const SKINS = {
+    traveler: { en: 'Traveler', mn: 'Аялагч', head: 'band', torso: 'pack', legs: 'pants', c: {} },
+    nomad: { en: 'Nomad', mn: 'Нүүдэлчин', head: 'fur', torso: 'deel', legs: 'robe',
+      c: { a: '#3058c0', t: '#e8b838', g: '#e8b838', q: '#b02838', f: '#8a6038', s: '#c88858', h: '#181020', b: '#5a3418' } },
+    scholar: { en: 'Scholar', mn: 'Эрдэмтэн', head: 'glasses', torso: 'jacket', legs: 'pants',
+      c: { a: '#7848a8', w: '#f3e5bd', p: '#283850', s: '#a86c44', h: '#2a1c18', r: '#d8b040' } },
+    ranger: { en: 'Ranger', mn: 'Байгаль хамгаалагч', head: 'pony', torso: 'pack', legs: 'pants',
+      c: { a: '#2f8a58', c: '#e8c040', p: '#685848', s: '#e0a070', h: '#8a4020', r: '#e8c040' } }
+  };
+  const skinId = id => typeof id === 'string' && Object.prototype.hasOwnProperty.call(SKINS, id) ? id : 'traveler';
+  const hero = id => 'hero:' + skinId(id);
+  const walker = id => 'walker:' + skinId(id);
   // a role -> archetype: the head noun of the first phrase ("Taxi driver and part-time herder" -> driver)
   const ROLE_KEYS = [
     ['officer', ['officer', 'guard', 'police', 'customs', 'border', 'soldier', 'security', 'офицер', 'харуул', 'цагдаа']],
@@ -177,6 +189,11 @@
   function personGrid(d) {
     const rows = [...HEADS[d.head], ...TORSOS[d.torso], ...LEGS[d.legs]];
     return grid({ rows, mirror: true, patch: [...(HEAD_PATCH[d.head] || []), ...(TORSO_PATCH[d.torso] || [])] });
+  }
+  function skinDef(id) {
+    const S = SKINS[skinId(id)], base = personDef('hero', 'you', 'mn');
+    const colors = Object.fromEntries(Object.entries(base.pal).filter(([key]) => key === key.toLowerCase()));
+    return { head: S.head, torso: S.torso, legs: S.legs, pal: pal(Object.assign(colors, S.c)) };
   }
   // idle frames: 0 stand, 1 breathe (head + torso one pixel down), 2 blink
   function idleFrames(g, split) {
@@ -253,7 +270,17 @@
   const cache = {};
   function build(name) {
     let frames = null, g, P, split = 19, outline;
-    if (name.startsWith('p:')) {                                   // p:<kind>:<region>:<who>
+    if (name.startsWith('hero:')) {
+      const d = skinDef(name.slice(5));
+      g = personGrid(d); P = d.pal; frames = idleFrames(g, split);
+    } else if (name.startsWith('walker:')) {
+      const id = skinId(name.slice(7)), D = PROPS.walker, rows = D.rows.slice();
+      if (id === 'nomad') rows.splice(0, 3, '..qqqq..', '.ffffff.', '.fssssf.');
+      else if (id === 'scholar') rows.splice(2, 2, '.hssssh.', '.skekes.');
+      else if (id === 'ranger') rows[2] = '.hssssh.';
+      g = grid({ rows }); P = skinDef(id).pal;
+      frames = D.frames.map(p => { const f = g.map(r => r.slice()); for (const [r, c, ch] of p) f[r][c] = ch; return f; });
+    } else if (name.startsWith('p:')) {                             // p:<kind>:<region>:<who>
       const [, kind, region, ...w] = name.split(':'), d = personDef(kind, w.join(':'), region);
       g = personGrid(d); P = d.pal; frames = idleFrames(g, split);
     } else if (BOSSES[name]) {
@@ -711,8 +738,8 @@
     });
     // the hero walks from the last won node to the next one
     if (o.hero) {
-      const s = sprite('walker'), { x: hx, y: hy, moving } = o.hero;
-      if (s) stamp(x, 'walker', hx - s.w / 2, hy - s.h - 3 + (moving ? 0 : (Math.floor(t / 400) & 1)), moving ? Math.floor(t / 150) % 2 : 0);
+      const name = walker(o.hero.skin), s = sprite(name), { x: hx, y: hy, moving } = o.hero;
+      if (s) stamp(x, name, hx - s.w / 2, hy - s.h - 3 + (moving ? 0 : (Math.floor(t / 400) & 1)), moving ? Math.floor(t / 150) % 2 : 0);
     }
   }
   function mtn(x, X, Yy, snow) {
@@ -748,6 +775,6 @@
   // after a resize / theme change: draw the still canvases again
   function refresh() { live.forEach(L => { L.drawn = false; }); kick(); }
 
-  Y.pixel = { hash, rng, mix, dark, lite, sprite, shadowArt, refresh, foe, HERO, roleKind, personDef, idle, stamp, scene, map, route, animate, ok2d,
+  Y.pixel = { hash, rng, mix, dark, lite, sprite, shadowArt, refresh, foe, HERO, hero, walker, skinId, skinDef, SKINS, roleKind, personDef, idle, stamp, scene, map, route, animate, ok2d,
     setMotion: f => { motion = f; }, SKY, PROPS, BOSSES, HEADS, TORSOS, LEGS, ARCH };
 })();

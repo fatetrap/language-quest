@@ -11,6 +11,10 @@ English ⇄ Mongolian language learning: one lesson database, two games on top o
 Both games work in both directions: English speakers learning Mongolian, and Mongolian speakers learning English.
 They share one learner profile, so words you learn in one game count in the other.
 
+In the adventure's camp, choose **Change look** to preview Traveler, Nomad, Scholar, or Ranger.
+Select **Use this look** to save your character for battles and the world map. Your choice is remembered
+in this browser and shared by both language directions.
+
 ![World map](course_tests/shots_jrpg/en-1280-dark-03-worldmap.png)
 ![Battle](course_tests/shots_jrpg/en-1280-dark-07-command-menu.png)
 ![Victory](course_tests/shots_jrpg/en-1280-dark-10-victory.png)
@@ -85,6 +89,11 @@ python -m pytest course_tests -q
 
 `build_db.py` also writes `course/db/content.json`, which the tests read; it isn't committed because it duplicates
 `content.js`. The screenshot tests need `pip install playwright` and `python -m playwright install chromium`.
+
+The optional character-skin browser checks use Node Playwright: install it with
+`npm install --no-save --prefix course_tests playwright`, then run `node --test course_tests/skins_test.js`.
+Install its browser with `course_tests/node_modules/.bin/playwright install chromium`, or set
+`BROWSER_EXECUTABLE` to the path of an existing Chrome installation.
 
 ## Credits
 

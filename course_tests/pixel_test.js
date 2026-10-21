@@ -37,6 +37,29 @@ test('roles pick the archetype by the head noun', () => {
   assert.strictEqual(PX.foe('Canteen cook', 'Tsetseg', 'mn', false), 'p:cook:mn:Tsetseg');
 });
 
+test('character looks keep the original traveler and provide complete, distinct palettes', () => {
+  assert.deepStrictEqual(PX.skinDef('traveler'), PX.personDef('hero', 'you', 'mn'));
+  const looks = Object.keys(PX.SKINS).map(id => {
+    const d = PX.skinDef(id);
+    assert.ok(PX.SKINS[id].en && PX.SKINS[id].mn, 'each look has both display names');
+    assert.ok(PX.HEADS[d.head] && PX.TORSOS[d.torso] && PX.LEGS[d.legs]);
+    const used = [...PX.HEADS[d.head], ...PX.TORSOS[d.torso], ...PX.LEGS[d.legs]].join('');
+    for (const key of new Set(used.replace(/\./g, ''))) assert.match(d.pal[key], /^#[0-9a-f]{6}$/, id + ' ' + key);
+    assert.strictEqual(PX.hero(id), 'hero:' + id);
+    assert.strictEqual(PX.walker(id), 'walker:' + id);
+    return JSON.stringify(d);
+  });
+  assert.strictEqual(new Set(looks).size, 4, 'four visibly different looks');
+});
+
+test('missing, corrupt and inherited skin IDs safely fall back to the traveler', () => {
+  for (const id of [null, undefined, '', 'missing', '__proto__', 'constructor', 'toString', {}, 42]) {
+    assert.strictEqual(PX.skinId(id), 'traveler');
+    assert.strictEqual(PX.hero(id), 'hero:traveler');
+    assert.deepStrictEqual(PX.skinDef(id), PX.skinDef('traveler'));
+  }
+});
+
 test('the map route: n nodes inside the map, left to right on a wide map, rows on a narrow one', () => {
   for (const [W, H] of [[420, 80], [170, 75], [60, 50]])
     for (const n of [1, 2, 5, 13]) {
